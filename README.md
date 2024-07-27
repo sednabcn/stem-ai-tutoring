@@ -41,7 +41,7 @@ I offer consultancy services in the following areas:
 
 ### How to Reach Me
 
-For consultancy inquiries, please reach out via [email@example.com](mailto:email@example.com).
+For consultancy inquiries, please reach out via [ruperto.bonet@modelphysmat.com](mailto:ruperto.bonet@modelphysmat.com).
 
 ## Math Tutoring
 
@@ -52,13 +52,13 @@ I provide math tutoring for the following levels:
 
 ### Tutoring Sessions
 
-Tutoring sessions can be scheduled online or in-person depending on location. For more details, please contact me at [email@example.com](mailto:email@example.com).
+Tutoring sessions can be scheduled online or in-person depending on location. For more details, please contact me at [ruperto.bonet@modelphysmat.com](mailto:ruperto.bonet@modelphysmat.com).
 
 ## Contact
 
 Feel free to reach out to me via the following channels:
-- **Email:** [email@example.com](mailto:email@example.com)
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
-- **GitHub:** [Your GitHub Profile](https://github.com/username)
+- **Email:** [ruperto.bonet@modelphysmat.com](mailto:ruperto.bonet@modelphysmat.com)
+- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/ruperto-pedro-bonet-chaple-8a26651b)
+- **GitHub:** [Your GitHub Profile](https://github.com/sednabcn)
 
 Thank you for visiting my GitHub Pages site!
