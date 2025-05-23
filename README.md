@@ -1,64 +1,69 @@
-# sednabcn.github.io
- Welcome to username.github.io, the personal website of [Your Name]. This site showcases my work and expertise in Simulation, AI, Machine Learning, Consultancy, and Math Tutoring. Explore projects, learn more about my consultancy services, and find resources for math tutoring.
+<p align="center">
+  <a href="https://sednabcn.github.io/stem-ai-tutoring">
+    <img src="https://img.shields.io/badge/🌐 View-Site-orange" />
+  </a>
+  <a href="https://github.com/sednabcn/LLM-HypatiaX">
+    <img src="https://img.shields.io/badge/🧠 LLM--HypatiaX-AI_Math-green" />
+  </a>
+  <a href="https://github.com/sednabcn/SiMLeng-Portfolio">
+    <img src="https://img.shields.io/badge/🤖 SiMLeng--Portfolio-LLM_Engineering-purple" />
+  </a>
+</p>
 
-## Table of Contents
+# 🧪 STEM AI Tutoring Hub + HypatiaX Projects
 
-- [About Me](#about-me)
-- [Projects](#projects)
-- [Consultancy Services](#consultancy-services)
-- [Math Tutoring](#math-tutoring)
-- [Contact](#contact)
+Welcome to **stem-ai-tutoring**, a curated ecosystem by **Dr. Ruperto Pedro Bonet Chaple**, designed to showcase my professional expertise and project work in:
 
-## About Me
+- AI & LLMs for scientific applications
+- Mathematical tutoring and education
+- Simulation & domain modeling
+- Applied research and consulting
 
-Hello! I'm [Your Name], a passionate professional with a strong background in mathematical modeling, artificial intelligence, and machine learning. I offer consultancy services to businesses and individuals looking to leverage the power of AI and machine learning. Additionally, I provide tutoring in mathematics for students of all levels.
+---
 
-## Projects
+## 📚 Key Components
 
-### 1. Coastal Hydrodynamics Simulation
-- **Description:** Developed a numerical simulation model for coastal hydrodynamics to predict wave behavior and sediment transport.
-- **Technologies:** Python, Numpy, Scipy, Fortran 95
-- **Impact:** Informed coastal management strategies, leading to better erosion control measures.
+### 🔷 HypatiaX
+AI-driven symbolic inference platform designed to automate and support scientific reasoning using LLMs.
 
-### 2. Predictive Maintenance for Manufacturing
-- **Description:** Created a machine learning model to predict equipment failures in a manufacturing plant.
-- **Technologies:** Python, Pandas, Scipy, Jupyter Notebooks
-- **Impact:** Reduced downtime by 30% and maintenance costs by 20%.
+- **Tech Stack**: Python, LangChain, GPT-4, Streamlit
+- **Purpose**: Formula discovery and symbolic math automation
+- **Status**: [In development]
 
-### 3. Big Data Analysis on GCP
-- **Description:** Implemented a distributed computing solution on GCP to process large environmental datasets for climate modeling.
-- **Technologies:** Python, Dask, Google BigQuery
-- **Impact:** Enabled processing of terabytes of data efficiently for timely climate predictions.
+### 🔷 Math Tutoring Platform
+Delivering personalized and scalable mathematics education.
 
-... [Add more projects as necessary] ...
+- **Subjects**: Algebra, Calculus, ODEs, Numerical Methods
+- **Format**: One-on-one, groups, or AI-assisted tutoring
+- **Platform**: GitHub Pages + Jekyll site
 
-## Consultancy Services
+---
 
-I offer consultancy services in the following areas:
-- **Simulation and Modeling:** Customized simulation models for various applications.
-- **AI and Machine Learning:** End-to-end machine learning solutions, from data preprocessing to model deployment.
-- **Data Analysis and Visualization:** Turning raw data into actionable insights through advanced data analysis and visualization techniques.
+## 🔗 Other Key Repositories
 
-### How to Reach Me
+| Repo | Description |
+|------|-------------|
+| [🌊 AQU-Portfolio](https://github.com/sednabcn/AQU-Portfolio) | Coastal & hydrodynamic modeling |
+| [🤖 SiMLeng-Portfolio](https://github.com/sednabcn/SiMLeng-Portfolio) | AI + LLMs for engineering tasks |
+| [🧠 LLM-HypatiaX](https://github.com/sednabcn/LLM-HypatiaX) | Scientific LLMs for formula discovery |
+| [📘 MATHS-STATISTICS-TEACHING](https://github.com/sednabcn/MATHS-STATISTICS-TEACHING) | Math + ML educational resources |
 
-For consultancy inquiries, please reach out via [ruperto.bonet@modelphysmat.com](mailto:ruperto.bonet@modelphysmat.com).
+---
 
-## Math Tutoring
+## ✨ Weekly Progress
 
-I provide math tutoring for the following levels:
-- **High School Mathematics:** Algebra, Geometry, Trigonometry, Calculus
-- **University Level:** Linear Algebra, Differential Equations, Probability and Statistics
-- **Advanced Topics:** Numerical Methods, Mathematical Modeling
+- Launch blog with AI/math tutorials
+- Finalize MVP for HypatiaX
+- Deploy appointment scheduling + contact form
+- Begin AI-powered tutor assistant
 
-### Tutoring Sessions
+---
 
-Tutoring sessions can be scheduled online or in-person depending on location. For more details, please contact me at [ruperto.bonet@modelphysmat.com](mailto:ruperto.bonet@modelphysmat.com).
+## 📬 Contact & Booking
 
-## Contact
+- Email: [ruperto.bonet@modelphysmat.com](mailto:ruperto.bonet@modelphysmat.com)
+- LinkedIn: [Ruperto Pedro Bonet Chaple](https://www.linkedin.com/in/ruperto-pedro-bonet-chaple-8a26651b)
+- GitHub: [sednabcn](https://github.com/sednabcn)
 
-Feel free to reach out to me via the following channels:
-- **Email:** [ruperto.bonet@modelphysmat.com](mailto:ruperto.bonet@modelphysmat.com)
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/ruperto-pedro-bonet-chaple-8a26651b)
-- **GitHub:** [Your GitHub Profile](https://github.com/sednabcn)
-
-Thank you for visiting my GitHub Pages site!
+---
+> ⭐ Bookmark this repo and follow weekly blog updates, AI demos, and new tutoring resources.
