@@ -1,0 +1,44 @@
+/* General Reset */
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #f4f4f4;
+}
+
+/* Top Navigation */
+nav.top-nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    background-color: #fff; /* White background for the navbar */ /* Use the same background color as in styles.css #00509e; */
+    color: #ffffff; /* Ensure text color matches */
+}
+
+.logo img {
+    height: 40px; /* Keep logo height consistent */
+}
+
+.center-text {
+    font-size: 36px; /* Adjust font size for consistency */
+    font-weight: bold;
+    color:#007bff;/* #00509e;  #ffffff;  White text color for visibility */
+    text-shadow: none; /* Remove text shadow as per styles.css */
+}
+
+.header h4 {
+    background-color: #00509e;
+}
+    
+main {
+    padding: 20px;
+}
+
+h1, h2 {
+    color: #003366;
+}
+
+/*footer {
+    background-color:#f4f4f4; #f1f1f1;
+}*/
