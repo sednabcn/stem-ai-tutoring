@@ -270,13 +270,15 @@ document.addEventListener('DOMContentLoaded', function () {
     // ===============================
     const NewsManager = {
     element: null,
+    contentSpan: null,
     intervalId: null,
     news: [],
     currentIndex: 0,
 
     init() {
         this.element = document.getElementById('flushingText');
-        if (this.element) {
+        this.contentSpan = document.getElementById('newsContent');
+        if (this.element && this.contentSpan) {
             this.setupStopLink();
             this.displayNews();
         }
@@ -320,17 +322,18 @@ document.addEventListener('DOMContentLoaded', function () {
     },
 
     async displayNews() {
-        if (!this.element) return;
+        this.news = await this.fetchNews();
+        if (!this.news.length) {
+            this.contentSpan.textContent = 'No news available';
+            return;
+        }
 
         await this.createFlushingEffect();
-        this.element.textContent = 'Loading news...';
-
-        this.news = await this.fetchNews();
-        this.element.textContent = this.news[0] || 'No news available';
+        this.contentSpan.textContent = this.news[0];
         this.currentIndex = 1;
 
         this.intervalId = setInterval(() => {
-            this.element.textContent = this.news[this.currentIndex % this.news.length];
+            this.contentSpan.textContent = this.news[this.currentIndex % this.news.length];
             this.currentIndex++;
         }, 6000);
     },
@@ -341,8 +344,8 @@ document.addEventListener('DOMContentLoaded', function () {
             stopLink.addEventListener('click', (e) => {
                 e.preventDefault();
                 clearInterval(this.intervalId);
-                if (this.element) {
-                    this.element.textContent += ' (News paused)';
+                if (this.contentSpan) {
+                    this.contentSpan.textContent += ' (News paused)';
                 }
             });
         }
