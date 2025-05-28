@@ -349,8 +349,6 @@ document.addEventListener('DOMContentLoaded', function () {
     }
 };
 
-document.addEventListener('DOMContentLoaded', () => NewsManager.init());
-
     // ===============================
     // EVENT LISTENERS SETUP
     // ===============================
@@ -367,7 +365,7 @@ document.addEventListener('DOMContentLoaded', () => NewsManager.init());
 
                 if (Auth.register(email, password)) {
                     showAlert("Registration successful! Please log in.", 'success');
-                    Modal.switchTab({ currentTarget: document.querySelector('.tab') }, 'loginTab');
+                    Modal.switchTab({ currentTarget: document.querySelector('.tab') }, 'login');
                 }
             });
         }
