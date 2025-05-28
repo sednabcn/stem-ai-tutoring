@@ -1,6 +1,19 @@
 /*   VARIABLES
    ========================================================================== */
 
+/* Brand Colors */
+$primary-color: #4a00e0;
+$primary-color-dark: darken($primary-color, 5%);
+$primary-color-darker: #5c00c7;
+
+/* Text Colors */
+$text-dark: #333;
+$text-muted: #6c757d;
+$white: #fff;
+/* Background Colors */ 
+$light-bg: #f8f9fa;
+$border-light: #e9ecef;
+
 /* Body and General Layout */
 body {
     font-family: Arial, sans-serif;
@@ -390,7 +403,7 @@ nav.top-nav {
     display: flex;
     justify-content: space-between; /* Space between sections */
     align-items: flex-start; /* Align sections at the top */
-    background-color:#f8f8f8;  /*Light background color */
+    background-color: $primary-color/*#f8f8f8;  Light background color */
     padding: 20px;
     flex-wrap: wrap; /* Allow items to wrap */
     z-index: 1; /* Stacking context */
