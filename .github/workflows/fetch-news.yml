@@ -10,7 +10,19 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - uses: actions/checkout@v3
+    - name: Checkout repository
+      uses: actions/checkout@v3
+      with:
+        fetch-depth: 0  # Important to enable full history for pulling and rebasing
+
+    - name: Set up Git user
+      run: |
+        git config --global user.name "GitHub Actions"
+        git config --global user.email "actions@github.com"
+
+    - name: Pull latest changes from master
+      run: |
+        git pull origin master --rebase
 
     - name: Fetch news from NewsAPI
       run: |
@@ -19,9 +31,6 @@ jobs:
 
     - name: Commit and push updated news
       run: |
-        git config --global user.name "GitHub Actions"
-        git config --global user.email "actions@github.com"
         git add data/news.json
-        git commit -m "📰 Update news"
-        git push
-      continue-on-error: true
+        git commit -m "📰 Update news" || echo "No changes to commit"
+        git push origin master

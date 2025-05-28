@@ -307,7 +307,7 @@ document.addEventListener('DOMContentLoaded', function () {
         return new Promise((resolve) => {
             const flushInterval = setInterval(() => {
                 if (this.element) {
-                    this.element.style.visibility = 
+                    this.element.style.visibility =
                         this.element.style.visibility === 'hidden' ? 'visible' : 'hidden';
                 }
 
@@ -323,17 +323,35 @@ document.addEventListener('DOMContentLoaded', function () {
 
     async displayNews() {
         this.news = await this.fetchNews();
+
         if (!this.news.length) {
-            this.contentSpan.textContent = 'No news available';
+            if (this.contentSpan) {
+                this.contentSpan.textContent = 'No news available';
+            }
             return;
         }
 
-        await this.createFlushingEffect();
-        this.contentSpan.textContent = this.news[0];
-        this.currentIndex = 1;
+        this.currentIndex = 0;
 
-        this.intervalId = setInterval(() => {
-            this.contentSpan.textContent = this.news[this.currentIndex % this.news.length];
+        // Show the first news immediately with flushing effect
+        await this.createFlushingEffect();
+        if (this.contentSpan) {
+            this.contentSpan.textContent = this.news[this.currentIndex];
+        }
+
+        this.currentIndex++;
+
+        // Start interval to rotate news
+        this.intervalId = setInterval(async () => {
+            if (this.currentIndex >= this.news.length) {
+                this.currentIndex = 0;
+            }
+
+            await this.createFlushingEffect();
+            if (this.contentSpan) {
+                this.contentSpan.textContent = this.news[this.currentIndex];
+            }
+
             this.currentIndex++;
         }, 6000);
     },
