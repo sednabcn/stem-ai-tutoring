@@ -142,7 +142,7 @@ document.addEventListener('DOMContentLoaded', function () {
             console.log(`🧭 Attempting to navigate to service: ${serviceId}`);
             
             if (!Auth.isLoggedIn()) {
-                sessionStorage.setItem("redirectAfterLogin", "/tutoring/mathtutor.html");
+                sessionStorage.setItem("redirectAfterLogin", "mathtutor.html");
                 Modal.open();
                 console.log('🔒 User not logged in, showing modal');
                 return;
@@ -151,7 +151,7 @@ document.addEventListener('DOMContentLoaded', function () {
             // Handle different services
             switch(serviceId) {
                 case 1:
-                    window.location.href = "/tutoring/mathtutor.html";
+                    window.location.href = "mathtutor.html";
                     break;
                 case 2:
                     // Add more services here
@@ -163,7 +163,7 @@ document.addEventListener('DOMContentLoaded', function () {
         },
 
         handleRedirectAfterLogin() {
-            const redirectUrl = sessionStorage.getItem("redirectAfterLogin") || "/tutoring/mathtutor.html";
+            const redirectUrl = sessionStorage.getItem("redirectAfterLogin") || "mathtutor.html";
             sessionStorage.removeItem("redirectAfterLogin");
             
             console.log(`🔄 Redirecting to: ${redirectUrl}`);
@@ -268,86 +268,86 @@ document.addEventListener('DOMContentLoaded', function () {
     // ===============================
     // NEWS MANAGEMENT
     // ===============================
+    
     const NewsManager = {
-    element: null,
-    intervalId: null,
-    news: [],
-    currentIndex: 0,
-
-    init() {
-        this.element = document.getElementById('flushingText');
-        if (this.element) {
-            this.setupStopLink();
-            this.displayNews();
-        }
-    },
-
-    async fetchNews() {
-        try {
-            const response = await fetch('/data/news.json');
-            const data = await response.json();
-
-            if (!data.articles || data.articles.length === 0) {
-                return ['No news found.'];
+        element: null,
+        
+        init() {
+            this.element = document.getElementById('flushingText');
+            if (this.element) {
+                this.displayNews();
             }
+        },
 
-            return data.articles.map(article => `${article.title} — ${article.source.name}`);
-        } catch (error) {
-            console.error('News fetch failed:', error);
-            return ['Fallback news: Stay curious!'];
-        }
-    },
-
-    async createFlushingEffect() {
-        let iterations = 0;
-        const maxIterations = 10;
-
-        return new Promise((resolve) => {
-            const flushInterval = setInterval(() => {
-                if (this.element) {
-                    this.element.style.visibility = 
-                        this.element.style.visibility === 'hidden' ? 'visible' : 'hidden';
+        async fetchNews() {
+            try {
+                // Replace with your actual news API endpoint
+                const response = await fetch('https://api.example.com/latest-news');
+                
+                if (!response.ok) {
+                    throw new Error(`HTTP error! status: ${response.status}`);
                 }
+                
+                const data = await response.json();
+                return data.news || 'Latest News: No updates available.';
+            } catch (error) {
+                console.error('📰 Error fetching news:', error);
+                // Fallback news for demo
+                const fallbackNews = [
+                    'Latest News: Welcome to our platform!',
+                    'Latest News: New features coming soon!',
+                    'Latest News: Thank you for using our services!',
+                    'Latest News: System running smoothly!'
+                ];
+                return fallbackNews[Math.floor(Math.random() * fallbackNews.length)];
+            }
+        },
 
-                iterations++;
-                if (iterations >= maxIterations) {
-                    clearInterval(flushInterval);
-                    if (this.element) this.element.style.visibility = 'visible';
-                    resolve();
-                }
-            }, 300);
-        });
-    },
+        createFlushingEffect() {
+            return new Promise((resolve) => {
+                let iterations = 0;
+                const maxIterations = 10;
 
-    async displayNews() {
-        if (!this.element) return;
+                const flushInterval = setInterval(() => {
+                    if (this.element) {
+                        this.element.style.visibility = 
+                            this.element.style.visibility === 'hidden' ? 'visible' : 'hidden';
+                    }
 
-        await this.createFlushingEffect();
-        this.element.textContent = 'Loading news...';
-
-        this.news = await this.fetchNews();
-        this.element.textContent = this.news[0] || 'No news available';
-        this.currentIndex = 1;
-
-        this.intervalId = setInterval(() => {
-            this.element.textContent = this.news[this.currentIndex % this.news.length];
-            this.currentIndex++;
-        }, 6000);
-    },
-
-    setupStopLink() {
-        const stopLink = document.getElementById('stopLink');
-        if (stopLink) {
-            stopLink.addEventListener('click', (e) => {
-                e.preventDefault();
-                clearInterval(this.intervalId);
-                if (this.element) {
-                    this.element.textContent += ' (News paused)';
-                }
+                    iterations++;
+                    if (iterations >= maxIterations) {
+                        clearInterval(flushInterval);
+                        if (this.element) {
+                            this.element.style.visibility = 'visible';
+                        }
+                        resolve();
+                    }
+                }, 300);
             });
+        },
+
+        async displayNews() {
+            if (!this.element) return;
+
+            console.log('📰 Starting news display sequence');
+            
+            // Show flushing effect
+            await this.createFlushingEffect();
+            
+            // Show loading message
+            this.element.textContent = 'Loading news...';
+            
+            // Fetch and display news
+            try {
+                const news = await this.fetchNews();
+                this.element.textContent = news;
+                console.log('📰 News displayed successfully');
+            } catch (error) {
+                this.element.textContent = 'Latest News: Unable to load updates.';
+                console.error('📰 Error displaying news:', error);
+            }
         }
-    }
-};
+    };
 
     // ===============================
     // EVENT LISTENERS SETUP
@@ -365,7 +365,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
                 if (Auth.register(email, password)) {
                     showAlert("Registration successful! Please log in.", 'success');
-                    Modal.switchTab({ currentTarget: document.querySelector('.tab') }, 'login');
+                    Modal.switchTab({ currentTarget: document.querySelector('.tab') }, 'loginTab');
                 }
             });
         }
