@@ -8,9 +8,8 @@
   <a href="https://github.com/sednabcn/SiMLeng-Portfolio">
     <img src="https://img.shields.io/badge/🤖 SiMLeng--Portfolio-LLM_Engineering-purple" />
   </a>
-   </a>
   <a href="https://github.com/sednabcn/MATHS-STATISTICS-TEACHING">
-    <img src="https://img.shields.io/badge/📘 MATHS-STATISTICS-TEACHING-MATH_LM_Education-blue" />
+    <img src="https://img.shields.io/badge/📘 MATHS--STATISTICS-TEACHING-MATH_LM_Education-blue" />
   </a>
 </p>
 
