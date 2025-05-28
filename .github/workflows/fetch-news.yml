@@ -14,7 +14,7 @@ jobs:
 
     - name: Fetch news from NewsAPI
       run: |
-        curl -s "https://newsapi.org/v2/top-headlines?country=gb&category=science&pageSize=5&apiKey=${{ secrets.THENEWSAPI_KEY }}" \
+        curl -s "https://newsapi.org/v2/top-headlines?country=us&category=science&pageSize=5&apiKey=${{ secrets.THENEWSAPI_KEY }}" \
         -o data/news.json
 
     - name: Commit and push updated news
