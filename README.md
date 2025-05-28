@@ -1,15 +1,15 @@
 <p align="center">
    <a href="https://sednabcn.github.io/stem-ai-tutoring" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/🌐 View--Site-orange" alt="View Site" />
+    <img src="https://img.shields.io/badge/🌐_View--Site-orange" alt="View Site" />
   </a>
   <a href="https://github.com/sednabcn/LLM-HypatiaX">
-    <img src="https://img.shields.io/badge/🧠 LLM--HypatiaX-AI_Math-green" />
+    <img src="https://img.shields.io/badge/🧠_LLM--HypatiaX-AI_Math-green" />
   </a>
   <a href="https://github.com/sednabcn/SiMLeng-Portfolio">
-    <img src="https://img.shields.io/badge/🤖 SiMLeng--Portfolio-LLM_Engineering-purple" />
+    <img src="https://img.shields.io/badge/🤖_SiMLeng--Portfolio-LLM_Engineering-purple" />
   </a>
   <a href="https://github.com/sednabcn/MATHS-STATISTICS-TEACHING">
-    <img src="https://img.shields.io/badge/📘 MATHS--STATISTICS-TEACHING-MATH_LM_Education-blue" />
+    <img src="https://img.shields.io/badge/%F0%9F%93%98_MATHS--STATISTICS--TEACHING-MATH_LM_Education-blue" />
   </a>
 </p>
 
