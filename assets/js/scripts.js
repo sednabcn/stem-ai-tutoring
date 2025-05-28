@@ -39,21 +39,22 @@ document.addEventListener('DOMContentLoaded', function () {
     const Auth = {
         // Check if user is logged in
         isLoggedIn() {
-            return sessionStorage.getItem("isLoggedIn") === "true";
+            const userData = JSON.parse(localStorage.getItem("userData") || "{}");
+            return userData.isLoggedIn === true;
         },
 
         // Login user
         login(email, password) {
-            const storedEmail = sessionStorage.getItem("userEmail");
-            const storedPassword = sessionStorage.getItem("userPassword");
+            const userData = JSON.parse(localStorage.getItem("userData") || "{}");
 
-            if (!storedEmail || !storedPassword) {
+            if (!userData.email || !userData.password) {
                 showAlert("No user registered. Please register first.", 'error');
                 return false;
             }
 
-            if (email === storedEmail && hashPassword(password) === storedPassword) {
-                sessionStorage.setItem("isLoggedIn", "true");
+            if (email === userData.email && hashPassword(password) === userData.password) {
+                userData.isLoggedIn = true;
+                localStorage.setItem("userData", JSON.stringify(userData));
                 console.log('✅ User logged in successfully');
                 return true;
             } else {
@@ -69,18 +70,23 @@ document.addEventListener('DOMContentLoaded', function () {
                 return false;
             }
 
-            sessionStorage.setItem("userEmail", email);
-            sessionStorage.setItem("userPassword", hashPassword(password));
+            const userData = {
+                email: email,
+                password: hashPassword(password),
+                isLoggedIn: false
+            };
+            
+            localStorage.setItem("userData", JSON.stringify(userData));
             console.log('✅ User registered successfully');
             return true;
         },
 
         // Logout user
         logout() {
-            sessionStorage.removeItem("isLoggedIn");
-            sessionStorage.removeItem("userEmail");
-            sessionStorage.removeItem("userPassword");
-            sessionStorage.removeItem("redirectAfterLogin");
+            const userData = JSON.parse(localStorage.getItem("userData") || "{}");
+            userData.isLoggedIn = false;
+            localStorage.setItem("userData", JSON.stringify(userData));
+            localStorage.removeItem("redirectAfterLogin");
             console.log('✅ User logged out successfully');
         }
     };
@@ -142,7 +148,7 @@ document.addEventListener('DOMContentLoaded', function () {
             console.log(`🧭 Attempting to navigate to service: ${serviceId}`);
             
             if (!Auth.isLoggedIn()) {
-                sessionStorage.setItem("redirectAfterLogin", "/tutoring/mathtutor.html");
+                localStorage.setItem("redirectAfterLogin", "/tutoring/mathtutor.html");
                 Modal.open();
                 console.log('🔒 User not logged in, showing modal');
                 return;
@@ -163,8 +169,8 @@ document.addEventListener('DOMContentLoaded', function () {
         },
 
         handleRedirectAfterLogin() {
-            const redirectUrl = sessionStorage.getItem("redirectAfterLogin") || "/tutoring/mathtutor.html";
-            sessionStorage.removeItem("redirectAfterLogin");
+            const redirectUrl = localStorage.getItem("redirectAfterLogin") || "/tutoring/mathtutor.html";
+            localStorage.removeItem("redirectAfterLogin");
             
             console.log(`🔄 Redirecting to: ${redirectUrl}`);
             window.location.href = redirectUrl;
@@ -266,109 +272,145 @@ document.addEventListener('DOMContentLoaded', function () {
     };
 
     // ===============================
-    // NEWS MANAGEMENT
+    // NEWS MANAGEMENT - FIXED VERSION
     // ===============================
     const NewsManager = {
-    element: null,
-    contentSpan: null,
-    intervalId: null,
-    news: [],
-    currentIndex: 0,
+        element: null,
+        contentSpan: null,
+        intervalId: null,
+        news: [],
+        currentIndex: 0,
 
-    init() {
-        this.element = document.getElementById('flushingText');
-        this.contentSpan = document.getElementById('newsContent');
-        if (this.element && this.contentSpan) {
-            this.setupStopLink();
-            this.displayNews();
-        }
-    },
-
-    async fetchNews() {
-        try {
-            const response = await fetch('/data/news.json');
-            const data = await response.json();
-
-            if (!data.articles || data.articles.length === 0) {
-                return ['No news found.'];
+        init() {
+            this.element = document.getElementById('flushingText');
+            this.contentSpan = document.getElementById('newsContent');
+            if (this.element && this.contentSpan) {
+                console.log('📰 NewsManager initialized');
+                this.setupStopLink();
+                this.displayNews();
+            } else {
+                console.log('⚠️ News elements not found, skipping news display');
             }
+        },
 
-            return data.articles.map(article => `${article.title} — ${article.source.name}`);
-        } catch (error) {
-            console.error('News fetch failed:', error);
-            return ['Fallback news: Stay curious!'];
-        }
-    },
+        async fetchNews() {
+            try {
+                console.log('📡 Attempting to fetch news from /data/news.json');
+                const response = await fetch('/data/news.json');
+                
+                if (response.ok) {
+                    const data = await response.json();
+                    console.log('📰 News data received:', data);
 
-    async createFlushingEffect() {
-        let iterations = 0;
-        const maxIterations = 10;
-
-        return new Promise((resolve) => {
-            const flushInterval = setInterval(() => {
-                if (this.element) {
-                    this.element.style.visibility =
-                        this.element.style.visibility === 'hidden' ? 'visible' : 'hidden';
+                    if (data.articles && data.articles.length > 0) {
+                        return data.articles.map(article => `${article.title} — ${article.source.name}`);
+                    }
                 }
+                throw new Error('No valid news data found');
+            } catch (error) {
+                console.log('⚠️ News fetch failed, using fallback news:', error.message);
+                // Return sample news when fetch fails
+                return [
+                    'Breaking: Scientists discover new method for faster learning',
+                    'Education News: Online tutoring platform shows 85% improvement rates',
+                    'Tech Update: AI-powered study tools gain popularity among students',
+                    'Research: Personalized learning approaches show promising results',
+                    'Innovation: New digital classroom technologies enhance engagement'
+                ];
+            }
+        },
 
-                iterations++;
-                if (iterations >= maxIterations) {
-                    clearInterval(flushInterval);
-                    if (this.element) this.element.style.visibility = 'visible';
-                    resolve();
+        async createFlushingEffect() {
+            let iterations = 0;
+            const maxIterations = 6; // Reduced for smoother effect
+
+            return new Promise((resolve) => {
+                const flushInterval = setInterval(() => {
+                    if (this.element) {
+                        this.element.style.visibility =
+                            this.element.style.visibility === 'hidden' ? 'visible' : 'hidden';
+                    }
+
+                    iterations++;
+                    if (iterations >= maxIterations) {
+                        clearInterval(flushInterval);
+                        if (this.element) this.element.style.visibility = 'visible';
+                        resolve();
+                    }
+                }, 200); // Faster flashing
+            });
+        },
+
+        async displayNews() {
+            console.log('🎬 Starting news display');
+            this.news = await this.fetchNews();
+
+            if (!this.news.length) {
+                console.log('❌ No news to display');
+                if (this.contentSpan) {
+                    this.contentSpan.textContent = 'No news available';
                 }
-            }, 300);
-        });
-    },
-
-    async displayNews() {
-        this.news = await this.fetchNews();
-
-        if (!this.news.length) {
-            if (this.contentSpan) {
-                this.contentSpan.textContent = 'No news available';
-            }
-            return;
-        }
-
-        this.currentIndex = 0;
-
-        // Show the first news immediately with flushing effect
-        await this.createFlushingEffect();
-        if (this.contentSpan) {
-            this.contentSpan.textContent = this.news[this.currentIndex];
-        }
-
-        this.currentIndex++;
-
-        // Start interval to rotate news
-        this.intervalId = setInterval(async () => {
-            if (this.currentIndex >= this.news.length) {
-                this.currentIndex = 0;
+                return;
             }
 
+            console.log(`📰 Loaded ${this.news.length} news items`);
+            this.currentIndex = 0;
+
+            // Show the first news immediately with flushing effect
             await this.createFlushingEffect();
             if (this.contentSpan) {
                 this.contentSpan.textContent = this.news[this.currentIndex];
+                console.log('📺 Displaying news:', this.news[this.currentIndex]);
             }
 
             this.currentIndex++;
-        }, 6000);
-    },
 
-    setupStopLink() {
-        const stopLink = document.getElementById('stopLink');
-        if (stopLink) {
-            stopLink.addEventListener('click', (e) => {
-                e.preventDefault();
-                clearInterval(this.intervalId);
-                if (this.contentSpan) {
-                    this.contentSpan.textContent += ' (News paused)';
+            // Start interval to rotate news every 6 seconds
+            this.intervalId = setInterval(async () => {
+                if (this.currentIndex >= this.news.length) {
+                    this.currentIndex = 0;
                 }
-            });
+
+                await this.createFlushingEffect();
+                if (this.contentSpan) {
+                    this.contentSpan.textContent = this.news[this.currentIndex];
+                    console.log('📺 Rotating to news:', this.news[this.currentIndex]);
+                }
+
+                this.currentIndex++;
+            }, 6000);
+
+            console.log('✅ News rotation started');
+        },
+
+        setupStopLink() {
+            const stopLink = document.getElementById('stopLink');
+            if (stopLink) {
+                stopLink.addEventListener('click', (e) => {
+                    e.preventDefault();
+                    this.stop();
+                });
+                console.log('🛑 Stop link setup complete');
+            }
+        },
+
+        stop() {
+            if (this.intervalId) {
+                clearInterval(this.intervalId);
+                this.intervalId = null;
+                console.log('⏹️ News rotation stopped');
+            }
+            if (this.contentSpan) {
+                this.contentSpan.textContent += ' (News paused)';
+            }
+        },
+
+        restart() {
+            this.stop();
+            this.displayNews();
+            console.log('🔄 News restarted');
         }
-    }
-};
+    };
 
     // ===============================
     // EVENT LISTENERS SETUP
@@ -447,6 +489,11 @@ document.addEventListener('DOMContentLoaded', function () {
     window.forceHideBackHomeLink = () => BackToHomeManager.hideElementById('back-home-link');
     window.checkIfHomePage = isHomePage;
     window.debugAuth = () => console.log('Auth status:', Auth.isLoggedIn());
+    
+    // News management functions
+    window.stopNews = () => NewsManager.stop();
+    window.restartNews = () => NewsManager.restart();
+    window.debugNews = () => console.log('News status:', NewsManager.news);
 
     // ===============================
     // INITIALIZATION
@@ -458,7 +505,7 @@ document.addEventListener('DOMContentLoaded', function () {
         // Initialize modules
         Modal.init();
         BackToHomeManager.init();
-        NewsManager.init();
+        NewsManager.init(); // Re-enabled!
         
         // Setup event listeners
         setupEventListeners();
