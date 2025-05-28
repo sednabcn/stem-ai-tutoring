@@ -1,4 +1,4 @@
-name: Daily Jekyll Deployment Retention (7-Day Window)
+name: Daily Deployment Retention (7-Day Window)
 
 on:
   schedule:
@@ -14,9 +14,9 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Keep One Jekyll Deployment Per Day for Last 7 Days
+    - name: Keep One Deployment Per Day for Last 7 Days
       run: |
-        echo "⚙️ Starting daily Jekyll retention cleanup at $(date -u)"
+        echo "⚙️ Starting daily retention cleanup at $(date -u)"
         
         API_URL="https://api.github.com/repos/$GITHUB_REPOSITORY"
         TOKEN="${{ secrets.GITHUB_TOKEN }}"
