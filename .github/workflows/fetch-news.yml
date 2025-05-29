@@ -12,10 +12,10 @@ on:
         required: false
         default: '5'
   schedule:
-    - cron: '0 0 * * *'  # Every day at midnight UTC
+    - cron: '0 0 * * *'  # Daily at midnight UTC
 
 jobs:
-  generate-news-page:
+  fetch-process-display:
     runs-on: ubuntu-latest
 
     env:
@@ -26,19 +26,14 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v4
 
-      - name: Set Up Python
+      - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.x'
 
-      - name: Install pipreqs
-      	run: pip install pipreqs
-
-      - name: Generate requirements.txt automatically
-        run: pipreqs . --ignore tests,examples --force --encoding=utf-8
-
-      - name: Install Dependencies
-        run: pip install -r requirements.txt
+      - name: Install dependencies
+        run: |
+          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
 
       - name: Determine Inputs or Defaults
         id: input-vars
@@ -51,16 +46,23 @@ jobs:
             echo "pagesize=${{ env.DEFAULT_PAGE_SIZE }}" >> "$GITHUB_OUTPUT"
           fi
 
-      - name: Generate News Page
+      - name: Fetch Latest News JSON from NewsAPI
         run: |
-          python newsgen.py \
-            --category "${{ steps.input-vars.outputs.category }}" \
-            --page_size "${{ steps.input-vars.outputs.pagesize }}"
+          curl -s "https://newsapi.org/v2/top-headlines?country=us&category=${{ steps.input-vars.outputs.category }}&pageSize=${{ steps.input-vars.outputs.pagesize }}&apiKey=${{ secrets.THENEWSAPI_KEY }}" \
+          -o data/news.json || echo "⚠️ Fetch failed, will fallback in processing"
 
-      - name: Commit and Push Changes
+      - name: Run newsgen.py to process and fallback if needed
+        run: |
+          python .github/scripts/newsgen.py || echo "⚠️ newsgen.py failed"
+
+      - name: Run display-news.py to generate display output
+        run: |
+          python .github/scripts/display-news.py || echo "⚠️ display-news.py failed"
+
+      - name: Commit and Push Updated News & Display Output
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add .
-          git commit -m "Auto-update news page"
-          git push
+          git add data/news.json
+          git add path/to/display/output  # <-- Replace with actual output file(s) from display-news.py
+          git diff --cached --quiet || (git commit -m "📰 Auto-update news and display output" && git push)
