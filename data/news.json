@@ -3,6 +3,36 @@
   "totalResults": 10,
   "articles": [
     {
+      "title": "A Song of “Full Self-Driving”: Elon Isn’t Tony Stark. He’s Michael Scott. - The Bulwark",
+      "source": {
+        "name": "The Bulwark"
+      },
+      "description": "The fallacy of the tech genius....",
+      "url": "https://www.thebulwark.com/p/elon-musk-self-driving-fsd-tesla-tony-stark-michael-scott",
+      "publishedAt": "2025-05-28T17:18:29Z",
+      "processed_at": "2025-05-29T19:14:47.929913+00:00"
+    },
+    {
+      "title": "Google Photos turns 10 with major editor redesign, QR code sharing - 9to5Google",
+      "source": {
+        "name": "9to5google.com"
+      },
+      "description": "Google Photos was announced at I/O 2015 and the company is now celebrating the app’s 10th birthday w...",
+      "url": "http://9to5google.com/2025/05/28/google-photos-10th-birthday/",
+      "publishedAt": "2025-05-28T17:00:00Z",
+      "processed_at": "2025-05-29T19:14:47.929913+00:00"
+    },
+    {
+      "title": "Tesla Adds Real-Time Charging Alerts With iOS Live Activities -- More Coming - Not a Tesla App",
+      "source": {
+        "name": "Notateslaapp.com"
+      },
+      "description": "Tesla adds Live Activities support to the Tesla app for Supercharging with update 4.45.0....",
+      "url": "https://www.notateslaapp.com/news/2757/tesla-adds-real-time-charging-alerts-with-ios-live-activities-support",
+      "publishedAt": "2025-05-28T16:35:00Z",
+      "processed_at": "2025-05-29T19:14:47.929913+00:00"
+    },
+    {
       "title": "CD Projekt Red is moving forward with Cyberpunk 2 - The Verge",
       "source": {
         "name": "The Verge"
@@ -10,7 +40,7 @@
       "description": "CD Projekt Red’s (CDPR) sequel to Cyberpunk 2077, which the studio is now calling Cyberpunk 2, has m...",
       "url": "https://www.theverge.com/news/675651/cd-projekt-red-cyberpunk-2-project-orion",
       "publishedAt": "2025-05-28T15:53:26Z",
-      "processed_at": "2025-05-29T18:28:53.191438+00:00"
+      "processed_at": "2025-05-29T19:14:47.929913+00:00"
     },
     {
       "title": "Persona 4 voice actor confirms a remake is in development, after not being cast - Eurogamer",
@@ -20,27 +50,37 @@
       "description": "A voice actor from Persona 4 has confirmed a rumoured remake is indeed in development....",
       "url": "https://www.eurogamer.net/persona-4-voice-actor-confirms-a-remake-is-in-development-after-not-being-cast",
       "publishedAt": "2025-05-28T15:19:08Z",
-      "processed_at": "2025-05-29T18:28:53.191438+00:00"
+      "processed_at": "2025-05-29T19:14:47.929913+00:00"
     },
     {
-      "title": "The Nintendo Switch’s complicated legacy with indie games - The Verge",
+      "title": "Nintendo’s new era: looking back at the Switch and ahead to the next generation - The Verge",
       "source": {
         "name": "The Verge"
       },
-      "description": "With the launch of the Nintendo Switch 2 looming, developers discuss the state of the eShop for indi...",
-      "url": "https://www.theverge.com/nintendo/671658/nintendo-switch-indie-games-eshop-legacy",
-      "publishedAt": "2025-05-28T15:00:00Z",
-      "processed_at": "2025-05-29T18:28:53.191438+00:00"
+      "description": "Ahead of the launch of the Switch 2, The Verge looks back on the Switch era and how it changed Ninte...",
+      "url": "https://www.theverge.com/nintendo/674887/nintendo-new-era-switch-2-next-gen",
+      "publishedAt": "2025-05-28T15:10:00Z",
+      "processed_at": "2025-05-29T19:14:47.929913+00:00"
     },
     {
-      "title": "Thicker, heavier iPhone 17 Pro Max revealed in new hands-on video - 9to5Mac",
+      "title": "With iOS 19 on the way, Apple looks toward mobile gaming - TechCrunch",
       "source": {
-        "name": "9to5Mac"
+        "name": "TechCrunch"
       },
-      "description": "Apple is making its iPhone 17 Pro Max thicker and heavier this year, and a new hands-on video provid...",
-      "url": "https://9to5mac.com/2025/05/28/thicker-heavier-iphone-17-pro-max-revealed-in-new-hands-on-video/",
-      "publishedAt": "2025-05-28T14:34:00Z",
-      "processed_at": "2025-05-29T18:28:53.191438+00:00"
+      "description": "Ahead of iOS 19, Apple is reportedly developing a new games app and acquiring the game developer RAC...",
+      "url": "https://techcrunch.com/2025/05/28/with-ios-19-on-the-way-apple-looks-toward-mobile-gaming/",
+      "publishedAt": "2025-05-28T14:50:55Z",
+      "processed_at": "2025-05-29T19:14:47.929913+00:00"
+    },
+    {
+      "title": "Ahead Of Switch 2's Launch, Animal Crossing: New Horizons Gets First Update In Years - GameSpot",
+      "source": {
+        "name": "GameSpot"
+      },
+      "description": "Ahead of Switch 2's imminent release, Nintendo has updated New Horizons for better multiplayer compa...",
+      "url": "https://www.gamespot.com/articles/ahead-of-switch-2s-launch-animal-crossing-new-horizons-gets-first-update-in-years/1100-6531857/",
+      "publishedAt": "2025-05-28T14:43:31Z",
+      "processed_at": "2025-05-29T19:14:47.929913+00:00"
     },
     {
       "title": "Elden Ring: Nightreign is an epic RPG squeezed into delicious bite-size capsules - Ars Technica",
@@ -50,7 +90,7 @@
       "description": "Fast-paced multiplayer action fits surprisingly well with the old Elden Ring formula....",
       "url": "https://arstechnica.com/gaming/2025/05/elden-ring-nightreign-is-an-epic-rpg-squeezed-into-delicious-bite-size-capsules/",
       "publishedAt": "2025-05-28T14:00:22Z",
-      "processed_at": "2025-05-29T18:28:53.191438+00:00"
+      "processed_at": "2025-05-29T19:14:47.929913+00:00"
     },
     {
       "title": "Sony’s ringing in the Switch 2 launch with PS5 deals - The Verge",
@@ -60,50 +100,10 @@
       "description": "Walmart and Best Buy are discounting the PS5 Pro and select bundles, as well as the DualSense Edge c...",
       "url": "https://www.theverge.com/tech/675179/ps5-pro-bundle-dualsense-console-deal-sale",
       "publishedAt": "2025-05-28T13:52:53Z",
-      "processed_at": "2025-05-29T18:28:53.191438+00:00"
-    },
-    {
-      "title": "Switch 2 Startup And Menu Settings Appear Online As Early Player Shows Off Console In 'Code Red' Leak For Nintendo - Kotaku",
-      "source": {
-        "name": "Kotaku"
-      },
-      "description": "There's new Nintendo music while setting up the Switch 2 but not after...",
-      "url": "https://kotaku.com/nintendo-switch-2-menu-settings-firmware-day-one-patch-1851782656",
-      "publishedAt": "2025-05-28T13:45:00Z",
-      "processed_at": "2025-05-29T18:28:53.191438+00:00"
-    },
-    {
-      "title": "Release Date for Pokémon Legends: Z-A Revealed and Pokémon Presents Video Presentation Announced - Pokemon Press",
-      "source": {
-        "name": "Pokemon.com"
-      },
-      "description": "",
-      "url": "https://press.pokemon.com/en/Release-Date-for-Pokemon-Legends-Z-A-Revealed-and-Pokemon-Presents-Vid",
-      "publishedAt": "2025-05-28T13:05:53Z",
-      "processed_at": "2025-05-29T18:28:53.191438+00:00"
-    },
-    {
-      "title": "Logic Pro amplifies beat making on Mac and iPad with advanced new capabilities - Apple",
-      "source": {
-        "name": "Apple Newsroom"
-      },
-      "description": "Apple today introduced new Logic Pro updates for Mac and iPad, supercharging beat making and produci...",
-      "url": "https://www.apple.com/newsroom/2025/05/logic-pro-amplifies-beat-making-on-mac-and-ipad-with-advanced-new-capabilities/",
-      "publishedAt": "2025-05-28T13:02:05Z",
-      "processed_at": "2025-05-29T18:28:53.191438+00:00"
-    },
-    {
-      "title": "Pokémon GO Crowned Zacian and Zamazenta Meta Guide (PvE/PvP) - Pokémon GO Hub",
-      "source": {
-        "name": "Pokemon GO Hub"
-      },
-      "description": "Pokémon GO Fest 2025 season is here and with it, two of the strongest Pokémon in the game grace the ...",
-      "url": "https://pokemongohub.net/post/meta/pokemon-go-crowned-zacian-and-zamazenta-meta-guide-pve-pvp/",
-      "publishedAt": "2025-05-28T12:21:21Z",
-      "processed_at": "2025-05-29T18:28:53.191438+00:00"
+      "processed_at": "2025-05-29T19:14:47.929913+00:00"
     }
   ],
-  "lastUpdated": "2025-05-29T18:28:53.191517+00:00",
+  "lastUpdated": "2025-05-29T19:14:47.930019+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
