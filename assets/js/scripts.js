@@ -183,6 +183,16 @@ document.addEventListener('DOMContentLoaded', function () {
     
     const BackToHomeManager = {
         init() {
+	    const backHomeLink = document.getElementById("back-home-link");
+
+            if (backHomeLink) {
+		// Always set the absolute href
+		backHomeLink.href = window.location.origin + "/stem-ai-tutoring/index.html";
+		console.log('🔗 Set back-home link href to:', backHomeLink.href);
+            } else {
+		console.warn('⚠️ back-home-link element not found during init');
+            }
+	    
             if (isHomePage()) {
                 this.hideBackToHomeLink();
             } else {
@@ -537,8 +547,3 @@ window.addEventListener('beforeunload', function() {
 
 console.log('📄 Script file loaded completely');
 
-// ===============================
-// ADDITIONAL LOCATION EVENTS
-// ===============================
-
- document.getElementById("back-home-link").href = window.location.origin + "/stem-ai-tutoring/index.html";
