@@ -178,57 +178,77 @@ document.addEventListener('DOMContentLoaded', function () {
     };
 
     // ===============================
-    // BACK TO HOME LINK MANAGEMENT
-    // ===============================
-    
-    const BackToHomeManager = {
-        init() {
-	    const backHomeLink = document.getElementById("back-home-link");
+// BACK TO HOME LINK MANAGEMENT (dynamic footer support)
+// ===============================
 
-            if (backHomeLink) {
-		// Always set the absolute href
-		backHomeLink.href = window.location.origin + "/stem-ai-tutoring/index.html";
-		console.log('🔗 Set back-home link href to:', backHomeLink.href);
-            } else {
-		console.warn('⚠️ back-home-link element not found during init');
-            }
-	    
+const BackToHomeManager = {
+    init() {
+        this.waitForBackHomeLink(() => {
+            this.setBackHomeHref();
+
             if (isHomePage()) {
                 this.hideBackToHomeLink();
             } else {
-                console.log('📄 Not on home page, back-home link should be visible');
+                console.log('📄 Not on home page — back-home link should be visible');
             }
-        },
+        });
+    },
 
-        hideBackToHomeLink() {
-            console.log('🏠 On home page - attempting to hide back-home link');
-            
-            // Method 1: Immediate hiding
-            if (this.hideElementById('back-home-link')) {
-                return;
+    waitForBackHomeLink(callback) {
+        const existing = document.getElementById("back-home-link");
+        if (existing) {
+            callback();
+            return;
+        }
+
+        const observer = new MutationObserver((mutations, obs) => {
+            const found = document.getElementById("back-home-link");
+            if (found) {
+                console.log('🔍 Detected #back-home-link dynamically injected');
+                obs.disconnect();
+                callback();
             }
+        });
 
-            // Method 2: CSS injection (immediate effect)
-            this.injectHidingCSS();
+        observer.observe(document.body, { childList: true, subtree: true });
 
-            // Method 3: Observer for dynamically loaded content
-            this.setupObserver();
+        // Stop looking after 10 seconds
+        setTimeout(() => {
+            observer.disconnect();
+            console.warn("⚠️ #back-home-link not found after 10s");
+        }, 10000);
+    },
 
-            // Method 4: Periodic checks as backup
-            this.setupPeriodicCheck();
-        },
+    setBackHomeHref() {
+        const link = document.getElementById("back-home-link");
+        if (link) {
+            link.href = window.location.origin + "/stem-ai-tutoring/index.html";
+            console.log("✅ Set back-home-link href to:", link.href);
+        }
+    },
 
-        hideElementById(elementId) {
-            const element = document.getElementById(elementId);
-            if (element) {
-                element.style.display = 'none';
-                console.log(`✅ Hidden element: ${elementId}`);
-                return true;
-            }
-            return false;
-        },
+    hideBackToHomeLink() {
+        console.log('🏠 On home page — attempting to hide back-home link');
 
-        injectHidingCSS() {
+        if (this.hideElementById('back-home-link')) return;
+
+        this.injectHidingCSS();
+        this.setupObserver();
+        this.setupPeriodicCheck();
+    },
+
+    hideElementById(id) {
+        const el = document.getElementById(id);
+        if (el) {
+            el.style.display = 'none';
+            console.log(`✅ Hidden element: ${id}`);
+            return true;
+        }
+        return false;
+    },
+
+    injectHidingCSS() {
+        if (!document.getElementById('back-home-hide-style')) {
             const style = document.createElement('style');
             style.id = 'back-home-hide-style';
             style.textContent = `
@@ -236,50 +256,40 @@ document.addEventListener('DOMContentLoaded', function () {
                     display: none !important;
                 }
             `;
-            
-            if (!document.getElementById('back-home-hide-style')) {
-                document.head.appendChild(style);
-                console.log('🎨 CSS injection completed');
-            }
-        },
-
-        setupObserver() {
-            const observer = new MutationObserver((mutations) => {
-                mutations.forEach((mutation) => {
-                    if (mutation.type === 'childList') {
-                        if (this.hideElementById('back-home-link')) {
-                            observer.disconnect();
-                        }
-                    }
-                });
-            });
-
-            observer.observe(document.body, {
-                childList: true,
-                subtree: true
-            });
-
-            // Cleanup observer after 10 seconds
-            setTimeout(() => {
-                observer.disconnect();
-                console.log('🔍 Observer cleanup completed');
-            }, 10000);
-        },
-
-        setupPeriodicCheck() {
-            let checkCount = 0;
-            const maxChecks = 20;
-            
-            const intervalId = setInterval(() => {
-                checkCount++;
-                
-                if (this.hideElementById('back-home-link') || checkCount >= maxChecks) {
-                    clearInterval(intervalId);
-                    console.log('⏰ Periodic check completed');
-                }
-            }, 500);
+            document.head.appendChild(style);
+            console.log('🎨 CSS injected to hide back-home-link');
         }
-    };
+    },
+
+    setupObserver() {
+        const observer = new MutationObserver(() => {
+            if (this.hideElementById('back-home-link')) {
+                observer.disconnect();
+                console.log('🛑 Observer disconnected after hiding');
+            }
+        });
+
+        observer.observe(document.body, { childList: true, subtree: true });
+
+        setTimeout(() => {
+            observer.disconnect();
+            console.log('⏱️ Observer auto-disconnected after 10 seconds');
+        }, 10000);
+    },
+
+    setupPeriodicCheck() {
+        let count = 0;
+        const maxChecks = 20;
+
+        const intervalId = setInterval(() => {
+            count++;
+            if (this.hideElementById('back-home-link') || count >= maxChecks) {
+                clearInterval(intervalId);
+                console.log('⏰ Periodic check ended');
+            }
+        }, 500);
+    }
+};
 
     // ===============================
     // NEWS MANAGEMENT - FIXED VERSION
