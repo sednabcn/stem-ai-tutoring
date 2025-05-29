@@ -411,7 +411,7 @@ jobs:
         echo "📋 Summary:"
         
         if [ -f "data/news.json" ]; then
-          python3 -c "import json; data=json.load(open('data/news.json')); print(f'  • Articles processed: {len(data.get(\"articles\", []))}'); print(f'  • Data source: {data.get(\"source\", \"Unknown\")}'); print(f'  • Last updated: {data.get(\"lastUpdated\", \"Unknown\")}'); print(f'  • Category: ${{ github.event.inputs.news_category || \"science\" }}')"
+          python3 -c "import json; data=json.load(open('data/news.json')); print(f'  • Articles processed: {len(data.get(\"articles\", []))}'); print(f'  • Data source: {data.get(\"source\", \"Unknown\")}'); print(f'  • Last updated: {data.get(\"lastUpdated\", \"Unknown\")}'); print(f'  • Category: ${{ github.event.inputs.news_category || "science" }}')"
         else
           echo "  • Status: No news.json file found"
         fi
