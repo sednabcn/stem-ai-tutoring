@@ -1,71 +1,59 @@
 name: Fetch News Daily
-
-on:
+true:
   workflow_dispatch:
     inputs:
       news_category:
-        description: 'News category (e.g., science, world)'
+        description: News category (e.g., science, world)
         required: false
-        default: 'science'
+        default: science
       page_size:
-        description: 'Number of articles'
+        description: Number of articles
         required: false
         default: '5'
   schedule:
-    - cron: '0 0 * * *'  # Daily at midnight UTC
-
+  - cron: 0 0 * * *
 jobs:
   fetch-process-display:
     runs-on: ubuntu-latest
-
     env:
-      DEFAULT_CATEGORY: 'science'
+      DEFAULT_CATEGORY: science
       DEFAULT_PAGE_SIZE: '5'
-
     steps:
-      - name: Checkout Repository
-        uses: actions/checkout@v4
+    - name: Checkout Repository
+      uses: actions/checkout@v4
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: 3.x
+    - name: Install dependencies
+      run: 'if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
 
-      - name: Set up Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: '3.x'
+        '
+    - name: Determine Inputs or Defaults
+      id: input-vars
+      run: "if [[ \"${{ github.event_name }}\" == \"workflow_dispatch\" ]]; then\n\
+        \  echo \"category=${{ github.event.inputs.news_category || env.DEFAULT_CATEGORY\
+        \ }}\" >> \"$GITHUB_OUTPUT\"\n  echo \"pagesize=${{ github.event.inputs.page_size\
+        \ || env.DEFAULT_PAGE_SIZE }}\" >> \"$GITHUB_OUTPUT\"\nelse\n  echo \"category=${{\
+        \ env.DEFAULT_CATEGORY }}\" >> \"$GITHUB_OUTPUT\"\n  echo \"pagesize=${{ env.DEFAULT_PAGE_SIZE\
+        \ }}\" >> \"$GITHUB_OUTPUT\"\nfi\n"
+    - name: Fetch Latest News JSON from NewsAPI
+      run: "curl -s \"https://newsapi.org/v2/top-headlines?country=us&category=${{\
+        \ steps.input-vars.outputs.category }}&pageSize=${{ steps.input-vars.outputs.pagesize\
+        \ }}&apiKey=${{ secrets.THENEWSAPI_KEY }}\" \\\n-o data/news.json || echo\
+        \ \"\u26A0\uFE0F Fetch failed, will fallback in processing\"\n"
+    - name: Run newsgen.py
+      run: "python .github/scripts/newsgen.py || echo \"\u26A0\uFE0F newsgen.py failed\""
+    - name: Run display-news.py to generate display output
+      run: "python .github/scripts/display-news.py || echo \"\u26A0\uFE0F display-news.py\
+        \ failed\"\n"
+    - name: Run display-news.py to generate HTML
+      run: 'python .github/scripts/display-news.py
 
-      - name: Install dependencies
-        run: |
-          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
-
-      - name: Determine Inputs or Defaults
-        id: input-vars
-        run: |
-          if [[ "${{ github.event_name }}" == "workflow_dispatch" ]]; then
-            echo "category=${{ github.event.inputs.news_category || env.DEFAULT_CATEGORY }}" >> "$GITHUB_OUTPUT"
-            echo "pagesize=${{ github.event.inputs.page_size || env.DEFAULT_PAGE_SIZE }}" >> "$GITHUB_OUTPUT"
-          else
-            echo "category=${{ env.DEFAULT_CATEGORY }}" >> "$GITHUB_OUTPUT"
-            echo "pagesize=${{ env.DEFAULT_PAGE_SIZE }}" >> "$GITHUB_OUTPUT"
-          fi
-
-      - name: Fetch Latest News JSON from NewsAPI
-        run: |
-          curl -s "https://newsapi.org/v2/top-headlines?country=us&category=${{ steps.input-vars.outputs.category }}&pageSize=${{ steps.input-vars.outputs.pagesize }}&apiKey=${{ secrets.THENEWSAPI_KEY }}" \
-          -o data/news.json || echo "⚠️ Fetch failed, will fallback in processing"
-
-      - name: Run newsgen.py
-        run: python .github/scripts/newsgen.py || echo "⚠️ newsgen.py failed"
-
-      - name: Run display-news.py to generate display output
-        run: |
-	    python .github/scripts/display-news.py || echo "⚠️ display-news.py failed"
-
-      - name: Run display-news.py to generate HTML
-        run: |
-	    python .github/scripts/display-news.py
-
-      - name: Commit and Push Updated News & Display Output
-        run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/news.json
-          git add data/news.html  # <-- Replace with actual output file(s) from display-news-html.py
-          git diff --cached --quiet || (git commit -m "📰 Auto-update news and display output" && git push)
+        '
+    - name: Commit and Push Updated News & Display Output
+      run: "git config --global user.name \"github-actions[bot]\"\ngit config --global\
+        \ user.email \"github-actions[bot]@users.noreply.github.com\"\ngit add data/news.json\n\
+        git add data/news.html  # <-- Replace with actual output file(s) from display-news-html.py\n\
+        git diff --cached --quiet || (git commit -m \"\U0001F4F0 Auto-update news\
+        \ and display output\" && git push)"
