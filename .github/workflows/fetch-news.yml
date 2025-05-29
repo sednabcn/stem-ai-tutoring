@@ -48,9 +48,9 @@ jobs:
         run: |
           python .github/scripts/display-news.py || echo "⚠️ display-news.py failed"
 
-      - name: Run display-news.py to generate HTML
+      - name: Run display-news-html.py to generate HTML
         run: |
-          python .github/scripts/display-news.py
+          python .github/scripts/display-news-html.py
 
       - name: Commit and Push Updated News & Display Output
         run: |
