@@ -536,3 +536,9 @@ window.addEventListener('beforeunload', function() {
 });
 
 console.log('📄 Script file loaded completely');
+
+// ===============================
+// ADDITIONAL LOCATION EVENTS
+// ===============================
+
+ document.getElementById("back-home-link").href = window.location.origin + "/stem-ai-tutoring/index.html";
