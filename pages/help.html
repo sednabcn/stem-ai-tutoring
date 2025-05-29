@@ -1,0 +1,193 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Help - SiMLeng Website</title>
+    <link rel="stylesheet" href="../assets/css/styles.css">
+    <link rel="stylesheet" href="../assets/css/help.css">
+    <!---<link rel="stylesheet" href="footer.css">-->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css"> <!-- Font Awesome -->
+    <link rel="icon" href="../assets/images/favicon-16x16.png" type="image/x-icon">
+</head>
+<body>
+    <nav class="top-nav">
+        <div class="logo">
+            <img src="../assets/images/logo.png" alt="Logo">
+        </div>
+        <div class="center-text">
+            SiMLeng
+        </div>
+        <div class="menu">
+	  <a href="../pages/help.html" class="cta">Help</a>
+	  <!-- Trigger Button -->
+	  <button class="login-button" onclick="openModal()">Login/Register</button>
+
+	  <!---<a href="#" id="loginButton" class="login-button">Login</a>-->
+        </div>
+    </nav>
+    <!-- Login Modal -->
+    
+
+    <!-- Modal -->
+    <div id="authModal" class="modal-overlay">
+      <div class="modal-content">
+        <span class="close" onclick="closeModal()">&times;</span>
+
+        <!-- Tab Headers -->
+        <div class="tabs">
+            <div class="tab active" onclick="openTab(event, 'login')">Login</div>
+            <div class="tab" onclick="openTab(event, 'register')">Register</div>
+        </div>
+
+        <!-- Login Form -->
+        <div id="login" class="form-content active">
+            <h2 class="form-header">Login</h2>
+            <form id="loginForm">
+                <label for="loginEmail">Email</label>
+                <input type="email" id="loginEmail" placeholder="Enter your email" required>
+                
+                <label for="loginPassword">Password</label>
+                <input type="password" id="loginPassword" placeholder="Enter your password" required>
+                
+                <button type="submit">Login</button>
+            </form>
+        </div>
+
+        <!-- Register Form -->
+        <div id="register" class="form-content">
+            <h2 class="form-header">Register</h2>
+            <form id="registerForm">
+                <label for="registerName">Name</label>
+                <input type="text" id="registerName" placeholder="Enter your name" required>
+                
+                <label for="registerEmail">Email</label>
+                <input type="email" id="registerEmail" placeholder="Enter your email" required>
+                
+                <label for="registerPassword">Password</label>
+                <input type="password" id="registerPassword" placeholder="Create a password" required>
+                
+                <button type="submit">Register</button>
+            </form>
+        </div>
+      </div>
+    </div>
+        <!-- Recover Password Form -->
+        <div id="recover" class="form-content">
+            <h2 class="form-header">Recover Password</h2>
+            <form id="recoverForm">
+                <label for="recoverEmail">Email</label>
+                <input type="email" id="recoverEmail" placeholder="Enter your email" required>
+                
+                <button type="submit">Recover Password</button>
+                
+                <p class="back-to-login" onclick="openTab(event, 'login')">Back to Login</p>
+            </form>
+        </div>
+    </div>
+</div>
+
+
+    <!--Header -->
+    <div class="header">
+        <h4>Help & Support</h4>
+    </div>
+
+    <main>
+        <section class="faq-section">
+	  <h2><i class="fas fa-question-circle"></i> Frequently Asked Questions</h2>
+	  <p>Here you can find answers to the most common questions.</p>
+	  <div class="faq-item">
+            <div class="faq-question" onclick="toggleFAQ(this)">
+              How do I schedule my first tutoring session?
+            </div>
+            <div class="faq-answer">
+              <p>Scheduling your first session is simple! Just create an account, select a tutor and time slot that works for you, and confirm your booking. You’ll receive a confirmation email with session details, materials, and access links.</p>
+            </div>
+	  </div>
+
+	  <div class="faq-item">
+            <div class="faq-question" onclick="toggleFAQ(this)">
+              What qualifications do your tutors have?
+            </div>
+            <div class="faq-answer">
+              <p>All of our tutors have advanced degrees in mathematics or related fields. Many also hold teaching certifications and bring years of classroom experience. Each tutor is thoroughly vetted through background checks, skills assessments, and trial sessions.</p>
+            </div>
+	  </div>
+
+	  <div class="faq-item">
+            <div class="faq-question" onclick="toggleFAQ(this)">
+              Can I switch tutors if needed?
+            </div>
+            <div class="faq-answer">
+              <p>Of course! If you feel a different tutor might better suit your learning style, you can request a change at any time. We'll help you find the right match at no additional cost.</p>
+            </div>
+	  </div>
+
+	  <div class="faq-item">
+            <div class="faq-question" onclick="toggleFAQ(this)">
+              What technology do I need for online sessions?
+            </div>
+            <div class="faq-answer">
+              <p>All you need is a computer or tablet with a stable internet connection, a webcam, and a microphone. Our platform works in most modern browsers—no downloads required. We also provide technical support if you run into issues.</p>
+            </div>
+	  </div>
+
+	  <div class="faq-item">
+            <div class="faq-question" onclick="toggleFAQ(this)">
+              How is student progress tracked?
+            </div>
+            <div class="faq-answer">
+              <p>We track progress through regular assessments, completed assignments, concept mastery, and goal achievements. Students and parents receive monthly progress reports highlighting strengths, areas for improvement, and next steps.</p>
+            </div>
+	  </div>
+
+	  <div class="faq-item">
+            <div class="faq-question" onclick="toggleFAQ(this)">
+              What is your cancellation policy?
+            </div>
+            <div class="faq-answer">
+              <p>Cancellations must be made at least 24 hours in advance to avoid charges. In emergencies, we review situations individually. You can cancel or reschedule via your dashboard or by contacting our support team.</p>
+            </div>
+	  </div>
+
+	  <div class="faq-item">
+            <div class="faq-question" onclick="toggleFAQ(this)">
+              Do you offer group discounts?
+            </div>
+            <div class="faq-answer">
+              <p>Yes! We offer discounted rates for small group sessions (2–4 students), perfect for families or friends learning together. Contact us for a customized quote based on your group’s needs.</p>
+            </div>
+	  </div>
+	</section>
+
+        <!-- <section>
+            <h2>Frequently Asked Questions</h2>
+            <p>Here you can find answers to the most common questions.</p>
+            <!-- Add more content like FAQs, contact forms, etc. -->
+        <!-- </section>
+	<!-- Back to Homepage Link -->
+        <!--  <div class="back-to-home">
+        <!--  <a href="index.html">← Back to Homepage</a>
+        <!-- </div>  -->
+    </main>
+      
+    <footer>
+      <div id="footer"></div>
+      <script>
+        async function loadFooter() {
+            try {
+                const response = await fetch('../footer.html');
+                const data = await response.text();
+                document.getElementById("footer").innerHTML = data;
+            } catch (error) {
+                console.error('Error loading footer:', error);
+            }
+        }
+        loadFooter();
+      </script>
+    </footer>
+ <!-- Include the external JavaScript file for the modal -->
+ <script src="../assets/js/help.js"></script>
+ </body>
+</html>

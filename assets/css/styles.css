@@ -255,7 +255,7 @@ nav.top-nav {
 /* Image Container */
 .image-container {
     position: relative; /* Allows absolute positioning of child elements */
-    background-image: url('/assets/images/home.jpeg');
+    background-image: url('./assets/images/home.jpeg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -397,6 +397,8 @@ nav.top-nav {
 .service-item.inactive button:hover {
     background-color: #0056b3;
 }
+
+
 /* Footer Section */
 .footer-container {
     position: relative; /* Ensure footer is properly positioned */
