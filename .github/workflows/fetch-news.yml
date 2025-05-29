@@ -51,18 +51,26 @@ jobs:
           curl -s "https://newsapi.org/v2/top-headlines?country=us&category=${{ steps.input-vars.outputs.category }}&pageSize=${{ steps.input-vars.outputs.pagesize }}&apiKey=${{ secrets.THENEWSAPI_KEY }}" \
           -o data/news.json || echo "⚠️ Fetch failed, will fallback in processing"
 
+
       - name: Run newsgen.py to process and fallback if needed
         run: |
           python .github/scripts/newsgen.py || echo "⚠️ newsgen.py failed"
 
+
       - name: Run display-news.py to generate display output
         run: |
           python .github/scripts/display-news.py || echo "⚠️ display-news.py failed"
+
+
+      - name: Run display-news.py to generate HTML
+        run: |
+	  python .github/scripts/display-news.py
+
 
       - name: Commit and Push Updated News & Display Output
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add data/news.json
-          git add path/to/display/output  # <-- Replace with actual output file(s) from display-news.py
+          git add data/news.html  # <-- Replace with actual output file(s) from display-news-html.py
           git diff --cached --quiet || (git commit -m "📰 Auto-update news and display output" && git push)
