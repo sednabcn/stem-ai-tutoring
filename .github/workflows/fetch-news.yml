@@ -1,10 +1,9 @@
-
 name: Fetch News
 
 on:
   schedule:
     - cron: '0 * * * *'  # Runs every hour
-  workflow_dispatch:      # Allows manual triggering
+  workflow_dispatch:
 
 jobs:
   fetch-news:
@@ -12,23 +11,38 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
 
       - name: Set up Python
-        uses: actions/setup-python@v2
+        uses: actions/setup-python@v4
         with:
-          python-version: '3.8'
+          python-version: '3.11'
+
+
+      - name: Install pipreqs
+        run: pip install pipreqs
+
+      - name: Generate requirements.txt automatically
+        run: pipreqs . --ignore tests,examples --force --encoding=utf-8
 
       - name: Install dependencies
         run: |
-          pip install -r requirements.txt
+          python -m pip install --upgrade pip
+          pip install -r .github/scripts/requirements.txt || echo "⚠️ No requirements.txt found"
 
-      - name: Fetch latest news
+      - name: Load input variables
+        id: input-vars
         run: |
-          curl -s "https://newsapi.org/v2/top-headlines?country=us&category=${{ steps.input-vars.outputs.category }}&pageSize=${{ steps.input-vars.outputs.pagesize }}&apiKey=${{ secrets.THENEWSAPI_KEY }}"           -o data/news.json || echo "⚠️ Fetch failed, will fallback in processing"
+          echo "category=technology" >> $GITHUB_OUTPUT
+          echo "pagesize=10" >> $GITHUB_OUTPUT
+
+      - name: Fetch News from API
+        run: |
+          curl -s "https://newsapi.org/v2/top-headlines?country=us&category=${{ steps.input-vars.outputs.category }}&pageSize=${{ steps.input-vars.outputs.pagesize }}&apiKey=${{ secrets.THENEWSAPI_KEY }}"             -o data/news.json || echo "⚠️ Fetch failed, will fallback in processing"
 
       - name: Run newsgen.py
-        run: python .github/scripts/newsgen.py || echo "⚠️ newsgen.py failed"
+        run: |
+          python .github/scripts/newsgen.py || echo "⚠️ newsgen.py failed"
 
       - name: Run display-news.py to generate display output
         run: |
@@ -43,6 +57,6 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add data/news.json
-          git add data/news.html  # <-- Replace with actual output file(s) from display-news-html.py
-          git commit -m "Updated news and display output"
-          git push
+          git add data/news.html
+          git commit -m "🔄 Auto-update news content"
+          git push || echo "⚠️ Nothing to commit"
