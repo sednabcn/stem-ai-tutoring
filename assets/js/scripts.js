@@ -539,7 +539,7 @@ const BackToHomeManager = {
     initialize();
 });
 
-// ===============================
+ // ===============================
 // ADDITIONAL WINDOW EVENTS
 // ===============================
 
@@ -557,3 +557,32 @@ window.addEventListener('beforeunload', function() {
 
 console.log('📄 Script file loaded completely');
 
+
+ // ===============================
+// ADDITIONAL WINDOW EVENTS FOR BACK TO HOME LINK
+// ===============================
+
+function setBackHomeLinkWhenReady() {
+    const maxWaitTime = 10000; // 10 seconds
+    const checkInterval = 300;
+    let waited = 0;
+
+    const interval = setInterval(() => {
+        const link = document.getElementById("back-home-link");
+
+        if (link) {
+            link.href = "https://sednabcn.github.io/stem-ai-tutoring/index.html";
+            console.log("✅ Set back-home-link href to homepage:", link.href);
+            clearInterval(interval);
+        } else {
+            waited += checkInterval;
+            if (waited >= maxWaitTime) {
+                clearInterval(interval);
+                console.warn("⚠️ back-home-link not found after waiting");
+            }
+        }
+    }, checkInterval);
+}
+
+// Call it when the page loads
+window.addEventListener("load", setBackHomeLinkWhenReady);
