@@ -367,15 +367,7 @@ jobs:
             echo "✅ News validation successful"
             
             # Display first article title for verification
-            python3 -c "
-import json
-with open('data/news.json', 'r') as f:
-    data = json.load(f)
-    if data.get('articles'):
-        print(f'📰 First article: {data[\"articles\"][0][\"title\"][:60]}...')
-        print(f'📊 Total articles: {len(data[\"articles\"])}')
-        print(f'🕒 Last updated: {data.get(\"lastUpdated\", \"Unknown\")}')
-            "
+            python3 -c "import json; data=json.load(open('data/news.json')); articles=data.get('articles',[]); print(f'📰 First article: {articles[0][\"title\"][:60]}...' if articles else '📰 No articles found'); print(f'📊 Total articles: {len(articles)}'); print(f'🕒 Last updated: {data.get(\"lastUpdated\", \"Unknown\")}')"
           else
             echo "❌ News validation failed"
             exit 1
@@ -419,15 +411,7 @@ with open('data/news.json', 'r') as f:
         echo "📋 Summary:"
         
         if [ -f "data/news.json" ]; then
-          python3 -c "
-import json
-with open('data/news.json', 'r') as f:
-    data = json.load(f)
-    print(f'  • Articles processed: {len(data.get(\"articles\", []))}')
-    print(f'  • Data source: {data.get(\"source\", \"Unknown\")}')
-    print(f'  • Last updated: {data.get(\"lastUpdated\", \"Unknown\")}')
-    print(f'  • Category: ${{ github.event.inputs.news_category || \"science\" }}')
-          "
+          python3 -c "import json; data=json.load(open('data/news.json')); print(f'  • Articles processed: {len(data.get(\"articles\", []))}'); print(f'  • Data source: {data.get(\"source\", \"Unknown\")}'); print(f'  • Last updated: {data.get(\"lastUpdated\", \"Unknown\")}'); print(f'  • Category: ${{ github.event.inputs.news_category || \"science\" }}')"
         else
           echo "  • Status: No news.json file found"
         fi
