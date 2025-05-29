@@ -51,21 +51,16 @@ jobs:
           curl -s "https://newsapi.org/v2/top-headlines?country=us&category=${{ steps.input-vars.outputs.category }}&pageSize=${{ steps.input-vars.outputs.pagesize }}&apiKey=${{ secrets.THENEWSAPI_KEY }}" \
           -o data/news.json || echo "⚠️ Fetch failed, will fallback in processing"
 
-
-      - name: Run newsgen.py to process and fallback if needed
-        run: |
-          python .github/scripts/newsgen.py || echo "⚠️ newsgen.py failed"
-
+      - name: Run newsgen.py
+        run: python .github/scripts/newsgen.py || echo "⚠️ newsgen.py failed"
 
       - name: Run display-news.py to generate display output
         run: |
-          python .github/scripts/display-news.py || echo "⚠️ display-news.py failed"
-
+	    python .github/scripts/display-news.py || echo "⚠️ display-news.py failed"
 
       - name: Run display-news.py to generate HTML
         run: |
-	  python .github/scripts/display-news.py
-
+	    python .github/scripts/display-news.py
 
       - name: Commit and Push Updated News & Display Output
         run: |
