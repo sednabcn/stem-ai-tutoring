@@ -1,248 +1,156 @@
 #!/usr/bin/env python3
 """
-News Display Script for GitHub Actions
-Processes and validates news data from NewsAPI for display in scripts.js
+📄 News Processor for GitHub Actions
+Validates and structures NewsAPI articles for use in frontend applications.
 """
 
-import json
 import os
 import sys
+import json
 from datetime import datetime, timezone
-from typing import Dict, List, Any, Optional
+from typing import List, Dict, Any, Optional
 
 class NewsProcessor:
-    """Handles news data processing and validation"""
-    
     def __init__(self, input_file: str = "data/news.json", output_file: str = "data/news.json"):
         self.input_file = input_file
         self.output_file = output_file
-        self.processed_data = {}
-    
-    def load_raw_news(self) -> Optional[Dict[str, Any]]:
-        """Load raw news data from NewsAPI response"""
+        self.processed_data: Dict[str, Any] = {}
+
+    def load_news_data(self) -> Optional[Dict[str, Any]]:
+        """🔄 Load raw JSON from file"""
+        if not os.path.exists(self.input_file):
+            print(f"[ERROR] File not found: {self.input_file}")
+            return None
         try:
-            if not os.path.exists(self.input_file):
-                print(f"❌ Input file not found: {self.input_file}")
-                return None
-            
-            with open(self.input_file, 'r', encoding='utf-8') as f:
-                data = json.load(f)
-            
-            print(f"✅ Loaded raw news data from {self.input_file}")
-            return data
-        
+            with open(self.input_file, "r", encoding="utf-8") as file:
+                data = json.load(file)
+                print(f"[OK] Loaded raw data from {self.input_file}")
+                return data
         except json.JSONDecodeError as e:
-            print(f"❌ JSON decode error: {e}")
-            return None
+            print(f"[ERROR] JSON decode issue: {e}")
         except Exception as e:
-            print(f"❌ Error loading news: {e}")
-            return None
-    
-    def validate_article(self, article: Dict[str, Any]) -> bool:
-        """Validate individual news article"""
-        required_fields = ['title', 'source']
-        
-        # Check required fields exist
-        for field in required_fields:
-            if field not in article or not article[field]:
-                return False
-        
-        # Validate source structure
+            print(f"[ERROR] Failed to load news: {e}")
+        return None
+
+    def is_valid_article(self, article: Dict[str, Any]) -> bool:
+        """✅ Validate a single article"""
+        if not all(k in article and article[k] for k in ['title', 'source']):
+            return False
         if not isinstance(article['source'], dict) or 'name' not in article['source']:
             return False
-        
-        # Filter out articles with generic or placeholder titles
-        title = article['title'].lower()
-        invalid_phrases = [
-            '[removed]',
-            'untitled',
-            'no title',
-            'breaking news',
-            'update:',
-            'live:'
-        ]
-        
-        if any(phrase in title for phrase in invalid_phrases):
+
+        title = article['title'].strip().lower()
+        if any(bad in title for bad in ['[removed]', 'untitled', 'breaking news', 'update:', 'live:', 'no title']):
             return False
-        
-        # Ensure title is not too short or too long
-        if len(article['title'].strip()) < 10 or len(article['title']) > 200:
+        if not (10 <= len(title) <= 200):
             return False
-        
         return True
-    
-    def process_articles(self, raw_data: Dict[str, Any]) -> List[Dict[str, Any]]:
-        """Process and filter articles from NewsAPI response"""
-        if 'articles' not in raw_data or not isinstance(raw_data['articles'], list):
-            print("❌ No valid articles array found in data")
+
+    def process_articles(self, raw: Dict[str, Any]) -> List[Dict[str, Any]]:
+        """🧹 Clean and extract articles"""
+        if "articles" not in raw or not isinstance(raw["articles"], list):
+            print("[WARN] No valid articles array")
             return []
-        
-        valid_articles = []
-        
-        for i, article in enumerate(raw_data['articles']):
-            if self.validate_article(article):
-                processed_article = {
-                    'title': article['title'].strip(),
-                    'source': {
-                        'name': article['source']['name']
-                    },
-                    'description': article.get('description', '').strip()[:100] + '...' if article.get('description') else '',
-                    'url': article.get('url', ''),
-                    'publishedAt': article.get('publishedAt', ''),
-                    'processed_at': datetime.now(timezone.utc).isoformat()
-                }
-                valid_articles.append(processed_article)
-                print(f"✅ Article {i+1}: {article['title'][:50]}...")
+
+        output = []
+        now_iso = datetime.now(timezone.utc).isoformat()
+        for i, article in enumerate(raw["articles"], 1):
+            if self.is_valid_article(article):
+                output.append({
+                    "title": article["title"].strip(),
+                    "source": {"name": article["source"]["name"]},
+                    "description": (article.get("description", "")[:100] + "...") if article.get("description") else "",
+                    "url": article.get("url", ""),
+                    "publishedAt": article.get("publishedAt", ""),
+                    "processed_at": now_iso
+                })
+                print(f"[OK] Article {i}: {article['title'][:60]}...")
             else:
-                print(f"❌ Article {i+1}: Invalid or filtered out")
-        
-        return valid_articles
-    
-    def create_fallback_news(self) -> List[Dict[str, Any]]:
-        """Create fallback news when API fails"""
-        fallback_articles = [
-            {
-                'title': 'Breaking: Scientists discover new method for faster learning',
-                'source': {'name': 'Science Daily'},
-                'description': 'Revolutionary approach to accelerated learning techniques...',
-                'url': '#',
-                'publishedAt': datetime.now(timezone.utc).isoformat(),
-                'processed_at': datetime.now(timezone.utc).isoformat()
-            },
-            {
-                'title': 'Education News: Online tutoring platform shows 85% improvement rates',
-                'source': {'name': 'EdTech Weekly'},
-                'description': 'Comprehensive study reveals significant learning gains...',
-                'url': '#',
-                'publishedAt': datetime.now(timezone.utc).isoformat(),
-                'processed_at': datetime.now(timezone.utc).isoformat()
-            },
-            {
-                'title': 'Tech Update: AI-powered study tools gain popularity among students',
-                'source': {'name': 'TechCrunch'},
-                'description': 'Artificial intelligence transforms educational landscape...',
-                'url': '#',
-                'publishedAt': datetime.now(timezone.utc).isoformat(),
-                'processed_at': datetime.now(timezone.utc).isoformat()
-            },
-            {
-                'title': 'Research: Personalized learning approaches show promising results',
-                'source': {'name': 'Educational Research'},
-                'description': 'Tailored educational methods demonstrate effectiveness...',
-                'url': '#',
-                'publishedAt': datetime.now(timezone.utc).isoformat(),
-                'processed_at': datetime.now(timezone.utc).isoformat()
-            },
-            {
-                'title': 'Innovation: New digital classroom technologies enhance engagement',
-                'source': {'name': 'Digital Learning'},
-                'description': 'Interactive technologies boost student participation...',
-                'url': '#',
-                'publishedAt': datetime.now(timezone.utc).isoformat(),
-                'processed_at': datetime.now(timezone.utc).isoformat()
-            }
+                print(f"[SKIP] Article {i}: Invalid format or content")
+        return output
+
+    def fallback_articles(self) -> List[Dict[str, Any]]:
+        """🆘 Fallback data if NewsAPI fails"""
+        now_iso = datetime.now(timezone.utc).isoformat()
+        titles = [
+            ("Breaking: Scientists discover new method for faster learning", "Science Daily", "Revolutionary approach to accelerated learning techniques..."),
+            ("Education News: Online tutoring platform shows 85% improvement rates", "EdTech Weekly", "Comprehensive study reveals significant learning gains..."),
+            ("Tech Update: AI-powered study tools gain popularity", "TechCrunch", "Artificial intelligence transforms education..."),
+            ("Research: Personalized learning shows promising results", "Educational Research", "Tailored educational methods demonstrate effectiveness..."),
+            ("Innovation: New classroom tech boosts engagement", "Digital Learning", "Interactive technologies boost student participation...")
         ]
-        
-        print(f"🔄 Created {len(fallback_articles)} fallback news articles")
-        return fallback_articles
-    
-    def process_news(self) -> bool:
-        """Main processing function"""
-        print("📰 Starting news processing...")
-        
-        # Load raw data
-        raw_data = self.load_raw_news()
-        
-        if raw_data is None:
-            print("⚠️ Using fallback news due to load failure")
-            articles = self.create_fallback_news()
-        else:
-            # Process articles
-            articles = self.process_articles(raw_data)
-            
-            # Use fallback if no valid articles found
-            if not articles:
-                print("⚠️ No valid articles found, using fallback news")
-                articles = self.create_fallback_news()
-        
-        # Create final data structure
+        fallback = [{
+            "title": title,
+            "source": {"name": source},
+            "description": desc,
+            "url": "#",
+            "publishedAt": now_iso,
+            "processed_at": now_iso
+        } for title, source, desc in titles]
+        print(f"[INFO] Using {len(fallback)} fallback articles")
+        return fallback
+
+    def compile_data(self, articles: List[Dict[str, Any]], source: str) -> None:
+        """📦 Create final output format"""
+        now_iso = datetime.now(timezone.utc).isoformat()
         self.processed_data = {
-            'status': 'success',
-            'totalResults': len(articles),
-            'articles': articles,
-            'lastUpdated': datetime.now(timezone.utc).isoformat(),
-            'source': 'NewsAPI' if raw_data else 'Fallback',
-            'metadata': {
-                'processed_by': 'GitHub Actions',
-                'script_version': '1.0.0',
-                'compatible_with': 'scripts.js NewsManager'
+            "status": "success",
+            "totalResults": len(articles),
+            "articles": articles,
+            "lastUpdated": now_iso,
+            "source": source,
+            "metadata": {
+                "processed_by": "GitHub Actions",
+                "script_version": "2.0.0",
+                "compatible_with": "scripts.js NewsManager"
             }
         }
-        
-        print(f"✅ Processed {len(articles)} articles successfully")
-        return True
-    
-    def save_processed_news(self) -> bool:
-        """Save processed news to output file"""
+
+    def save(self) -> bool:
+        """💾 Save processed news to output file"""
         try:
-            # Ensure output directory exists
-            output_dir = os.path.dirname(self.output_file)
-            if output_dir and not os.path.exists(output_dir):
-                os.makedirs(output_dir)
-                print(f"📁 Created directory: {output_dir}")
-            
-            # Write processed data
-            with open(self.output_file, 'w', encoding='utf-8') as f:
+            os.makedirs(os.path.dirname(self.output_file), exist_ok=True)
+            with open(self.output_file, "w", encoding="utf-8") as f:
                 json.dump(self.processed_data, f, indent=2, ensure_ascii=False)
-            
-            print(f"💾 Saved processed news to {self.output_file}")
-            
-            # Display sample for verification
-            if self.processed_data.get('articles'):
-                print("\n📋 Sample processed articles:")
-                for i, article in enumerate(self.processed_data['articles'][:3], 1):
-                    print(f"  {i}. {article['title']} — {article['source']['name']}")
-            
+            print(f"[OK] Saved to {self.output_file}")
             return True
-        
         except Exception as e:
-            print(f"❌ Error saving processed news: {e}")
+            print(f"[ERROR] Could not save file: {e}")
             return False
-    
-    def display_stats(self):
-        """Display processing statistics"""
-        if not self.processed_data:
-            print("❌ No processed data available")
-            return
-        
-        print("\n📊 Processing Statistics:")
-        print(f"  • Total articles: {self.processed_data.get('totalResults', 0)}")
-        print(f"  • Data source: {self.processed_data.get('source', 'Unknown')}")
-        print(f"  • Last updated: {self.processed_data.get('lastUpdated', 'Unknown')}")
-        print(f"  • Status: {self.processed_data.get('status', 'Unknown')}")
+
+    def display_summary(self) -> None:
+        """📊 Show summary of processed data"""
+        print("\n[SUMMARY]")
+        print(f"  • Articles: {self.processed_data.get('totalResults', 0)}")
+        print(f"  • Source: {self.processed_data.get('source', '-')}")
+        print(f"  • Last Updated: {self.processed_data.get('lastUpdated', '-')}")
+        print(f"  • Status: {self.processed_data.get('status', '-')}")
 
 def main():
-    """Main execution function"""
-    print("🚀 News Display Script Starting...")
-    
-    # Initialize processor
+    print("🚀 Starting News Processor...\n")
     processor = NewsProcessor()
-    
-    # Process news
-    if not processor.process_news():
-        print("❌ News processing failed")
+
+    raw = processor.load_news_data()
+    if raw:
+        articles = processor.process_articles(raw)
+        if not articles:
+            print("[WARN] No valid articles found, using fallback")
+            articles = processor.fallback_articles()
+            source = "Fallback"
+        else:
+            source = "NewsAPI"
+    else:
+        print("[WARN] Loading failed, using fallback")
+        articles = processor.fallback_articles()
+        source = "Fallback"
+
+    processor.compile_data(articles, source)
+
+    if not processor.save():
         sys.exit(1)
-    
-    # Save processed news
-    if not processor.save_processed_news():
-        print("❌ Failed to save processed news")
-        sys.exit(1)
-    
-    # Display statistics
-    processor.display_stats()
-    
-    print("\n✅ News processing completed successfully!")
-    print("🔗 News data is now ready for scripts.js NewsManager")
+
+    processor.display_summary()
+    print("\n✅ News processing complete!\n")
 
 if __name__ == "__main__":
     main()

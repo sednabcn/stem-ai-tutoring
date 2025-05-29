@@ -1,419 +1,60 @@
-name: Fetch News Daily
+name: Generate and Deploy News Page
 
 on:
-  schedule:
-    - cron: '0 6 * * *'   # Runs daily at 6 AM UTC
-  workflow_dispatch:       # Allows manual triggering
+  workflow_dispatch:
     inputs:
       news_category:
-        description: 'News category to fetch'
+        description: 'News category (e.g., science, world)'
         required: false
         default: 'science'
-        type: choice
-        options:
-          - science
-          - technology
-          - education
-          - general
       page_size:
-        description: 'Number of articles to fetch'
+        description: 'Number of articles'
         required: false
         default: '5'
-        type: string
+  schedule:
+    - cron: '0 0 * * *'  # Every day at midnight UTC
 
 jobs:
-  fetch-news:
+  generate-news-page:
     runs-on: ubuntu-latest
-    
+
+    env:
+      DEFAULT_CATEGORY: 'science'
+      DEFAULT_PAGE_SIZE: '5'
+
     steps:
-    - name: 📥 Checkout repository
-      uses: actions/checkout@v4
-      with:
-        fetch-depth: 0
-        token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Checkout Repository
+        uses: actions/checkout@v4
 
-    - name: 🔧 Set up Git configuration
-      run: |
-        git config --global user.name "GitHub Actions Bot"
-        git config --global user.email "actions@github.com"
-        git config --global pull.rebase true
+      - name: Set Up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
 
-    - name: 🔄 Pull latest changes
-      run: |
-        git fetch origin
-        git pull origin main --rebase || git pull origin master --rebase
+      - name: Install Dependencies
+        run: pip install -r requirements.txt
 
-    - name: 🐍 Set up Python
-      uses: actions/setup-python@v4
-      with:
-        python-version: '3.11'
-
-    - name: 📁 Ensure data directory exists
-      run: |
-        mkdir -p data
-        mkdir -p .github/scripts
-
-    - name: 📡 Fetch raw news from NewsAPI
-      env:
-        NEWS_API_KEY: ${{ secrets.THENEWSAPI_KEY }}
-        NEWS_CATEGORY: ${{ github.event.inputs.news_category || 'science' }}
-        PAGE_SIZE: ${{ github.event.inputs.page_size || '5' }}
-      run: |
-        echo "🔍 Fetching news: category=$NEWS_CATEGORY, pageSize=$PAGE_SIZE"
-        
-        # Create raw news file with error handling
-        curl -s "https://newsapi.org/v2/top-headlines?country=us&category=$NEWS_CATEGORY&pageSize=$PAGE_SIZE&apiKey=$NEWS_API_KEY" \
-          -H "User-Agent: GitHub-Actions-News-Fetcher/1.0" \
-          -w "HTTP Status: %{http_code}\n" \
-          -o data/news_raw.json
-        
-        # Check if curl was successful
-        if [ $? -eq 0 ]; then
-          echo "✅ Successfully fetched raw news data"
-          
-          # Validate JSON structure
-          if python3 -c "import json; json.load(open('data/news_raw.json'))"; then
-            echo "✅ Raw news JSON is valid"
+      - name: Determine Inputs or Defaults
+        id: input-vars
+        run: |
+          if [[ "${{ github.event_name }}" == "workflow_dispatch" ]]; then
+            echo "category=${{ github.event.inputs.news_category || env.DEFAULT_CATEGORY }}" >> "$GITHUB_OUTPUT"
+            echo "pagesize=${{ github.event.inputs.page_size || env.DEFAULT_PAGE_SIZE }}" >> "$GITHUB_OUTPUT"
           else
-            echo "❌ Raw news JSON is invalid, creating empty structure"
-            echo '{"status":"error","articles":[]}' > data/news_raw.json
+            echo "category=${{ env.DEFAULT_CATEGORY }}" >> "$GITHUB_OUTPUT"
+            echo "pagesize=${{ env.DEFAULT_PAGE_SIZE }}" >> "$GITHUB_OUTPUT"
           fi
-        else
-          echo "❌ Failed to fetch news, creating fallback structure"
-          echo '{"status":"error","articles":[]}' > data/news_raw.json
-        fi
 
-    - name: 🔧 Install Python dependencies
-      run: |
-        python3 -m pip install --upgrade pip
-        # No additional dependencies needed for this script
+      - name: Generate News Page
+        run: |
+          python newsgen.py \
+            --category "${{ steps.input-vars.outputs.category }}" \
+            --page_size "${{ steps.input-vars.outputs.pagesize }}"
 
-    - name: 📰 Process news with display-news.py
-      run: |
-        echo "🚀 Running news processing script..."
-        
-        # Copy display-news.py to the correct location if it exists in the repo
-        if [ -f ".github/scripts/display-news.py" ]; then
-          echo "✅ Using existing display-news.py from repository"
-        else
-          echo "📝 Creating display-news.py script..."
-          cat > .github/scripts/display-news.py << 'EOF'
-        #!/usr/bin/env python3
-        """
-        News Display Script for GitHub Actions
-        Processes and validates news data from NewsAPI for display in scripts.js
-        """
-        
-        import json
-        import os
-        import sys
-        from datetime import datetime, timezone
-        from typing import Dict, List, Any, Optional
-        
-        class NewsProcessor:
-            """Handles news data processing and validation"""
-            
-            def __init__(self, input_file: str = "data/news_raw.json", output_file: str = "data/news.json"):
-                self.input_file = input_file
-                self.output_file = output_file
-                self.processed_data = {}
-            
-            def load_raw_news(self) -> Optional[Dict[str, Any]]:
-                """Load raw news data from NewsAPI response"""
-                try:
-                    if not os.path.exists(self.input_file):
-                        print(f"❌ Input file not found: {self.input_file}")
-                        return None
-                    
-                    with open(self.input_file, 'r', encoding='utf-8') as f:
-                        data = json.load(f)
-                    
-                    print(f"✅ Loaded raw news data from {self.input_file}")
-                    return data
-                
-                except json.JSONDecodeError as e:
-                    print(f"❌ JSON decode error: {e}")
-                    return None
-                except Exception as e:
-                    print(f"❌ Error loading news: {e}")
-                    return None
-            
-            def validate_article(self, article: Dict[str, Any]) -> bool:
-                """Validate individual news article"""
-                required_fields = ['title', 'source']
-                
-                # Check required fields exist
-                for field in required_fields:
-                    if field not in article or not article[field]:
-                        return False
-                
-                # Validate source structure
-                if not isinstance(article['source'], dict) or 'name' not in article['source']:
-                    return False
-                
-                # Filter out articles with generic or placeholder titles
-                title = article['title'].lower()
-                invalid_phrases = [
-                    '[removed]',
-                    'untitled',
-                    'no title'
-                ]
-                
-                if any(phrase in title for phrase in invalid_phrases):
-                    return False
-                
-                # Ensure title is not too short or too long
-                if len(article['title'].strip()) < 10 or len(article['title']) > 200:
-                    return False
-                
-                return True
-            
-            def process_articles(self, raw_data: Dict[str, Any]) -> List[Dict[str, Any]]:
-                """Process and filter articles from NewsAPI response"""
-                if 'articles' not in raw_data or not isinstance(raw_data['articles'], list):
-                    print("❌ No valid articles array found in data")
-                    return []
-                
-                valid_articles = []
-                
-                for i, article in enumerate(raw_data['articles']):
-                    if self.validate_article(article):
-                        processed_article = {
-                            'title': article['title'].strip(),
-                            'source': {
-                                'name': article['source']['name']
-                            },
-                            'description': article.get('description', '').strip()[:100] + '...' if article.get('description') else '',
-                            'url': article.get('url', ''),
-                            'publishedAt': article.get('publishedAt', ''),
-                            'processed_at': datetime.now(timezone.utc).isoformat()
-                        }
-                        valid_articles.append(processed_article)
-                        print(f"✅ Article {i+1}: {article['title'][:50]}...")
-                    else:
-                        print(f"❌ Article {i+1}: Invalid or filtered out")
-                
-                return valid_articles
-            
-            def create_fallback_news(self) -> List[Dict[str, Any]]:
-                """Create fallback news when API fails"""
-                fallback_articles = [
-                    {
-                        'title': 'Breaking: Scientists discover new method for faster learning',
-                        'source': {'name': 'Science Daily'},
-                        'description': 'Revolutionary approach to accelerated learning techniques...',
-                        'url': '#',
-                        'publishedAt': datetime.now(timezone.utc).isoformat(),
-                        'processed_at': datetime.now(timezone.utc).isoformat()
-                    },
-                    {
-                        'title': 'Education News: Online tutoring platform shows 85% improvement rates',
-                        'source': {'name': 'EdTech Weekly'},
-                        'description': 'Comprehensive study reveals significant learning gains...',
-                        'url': '#',
-                        'publishedAt': datetime.now(timezone.utc).isoformat(),
-                        'processed_at': datetime.now(timezone.utc).isoformat()
-                    },
-                    {
-                        'title': 'Tech Update: AI-powered study tools gain popularity among students',
-                        'source': {'name': 'TechCrunch'},
-                        'description': 'Artificial intelligence transforms educational landscape...',
-                        'url': '#',
-                        'publishedAt': datetime.now(timezone.utc).isoformat(),
-                        'processed_at': datetime.now(timezone.utc).isoformat()
-                    },
-                    {
-                        'title': 'Research: Personalized learning approaches show promising results',
-                        'source': {'name': 'Educational Research'},
-                        'description': 'Tailored educational methods demonstrate effectiveness...',
-                        'url': '#',
-                        'publishedAt': datetime.now(timezone.utc).isoformat(),
-                        'processed_at': datetime.now(timezone.utc).isoformat()
-                    },
-                    {
-                        'title': 'Innovation: New digital classroom technologies enhance engagement',
-                        'source': {'name': 'Digital Learning'},
-                        'description': 'Interactive technologies boost student participation...',
-                        'url': '#',
-                        'publishedAt': datetime.now(timezone.utc).isoformat(),
-                        'processed_at': datetime.now(timezone.utc).isoformat()
-                    }
-                ]
-                
-                print(f"🔄 Created {len(fallback_articles)} fallback news articles")
-                return fallback_articles
-            
-            def process_news(self) -> bool:
-                """Main processing function"""
-                print("📰 Starting news processing...")
-                
-                # Load raw data
-                raw_data = self.load_raw_news()
-                
-                if raw_data is None or raw_data.get('status') == 'error':
-                    print("⚠️ Using fallback news due to API error or load failure")
-                    articles = self.create_fallback_news()
-                else:
-                    # Process articles
-                    articles = self.process_articles(raw_data)
-                    
-                    # Use fallback if no valid articles found
-                    if not articles:
-                        print("⚠️ No valid articles found, using fallback news")
-                        articles = self.create_fallback_news()
-                
-                # Create final data structure compatible with scripts.js
-                self.processed_data = {
-                    'status': 'success',
-                    'totalResults': len(articles),
-                    'articles': articles,
-                    'lastUpdated': datetime.now(timezone.utc).isoformat(),
-                    'source': 'NewsAPI' if raw_data and raw_data.get('status') != 'error' else 'Fallback',
-                    'metadata': {
-                        'processed_by': 'GitHub Actions',
-                        'script_version': '1.0.0',
-                        'compatible_with': 'scripts.js NewsManager'
-                    }
-                }
-                
-                print(f"✅ Processed {len(articles)} articles successfully")
-                return True
-            
-            def save_processed_news(self) -> bool:
-                """Save processed news to output file"""
-                try:
-                    # Ensure output directory exists
-                    output_dir = os.path.dirname(self.output_file)
-                    if output_dir and not os.path.exists(output_dir):
-                        os.makedirs(output_dir)
-                        print(f"📁 Created directory: {output_dir}")
-                    
-                    # Write processed data
-                    with open(self.output_file, 'w', encoding='utf-8') as f:
-                        json.dump(self.processed_data, f, indent=2, ensure_ascii=False)
-                    
-                    print(f"💾 Saved processed news to {self.output_file}")
-                    
-                    # Display sample for verification
-                    if self.processed_data.get('articles'):
-                        print("\n📋 Sample processed articles:")
-                        for i, article in enumerate(self.processed_data['articles'][:3], 1):
-                            print(f"  {i}. {article['title']} — {article['source']['name']}")
-                    
-                    return True
-                
-                except Exception as e:
-                    print(f"❌ Error saving processed news: {e}")
-                    return False
-            
-            def display_stats(self):
-                """Display processing statistics"""
-                if not self.processed_data:
-                    print("❌ No processed data available")
-                    return
-                
-                print("\n📊 Processing Statistics:")
-                print(f"  • Total articles: {self.processed_data.get('totalResults', 0)}")
-                print(f"  • Data source: {self.processed_data.get('source', 'Unknown')}")
-                print(f"  • Last updated: {self.processed_data.get('lastUpdated', 'Unknown')}")
-                print(f"  • Status: {self.processed_data.get('status', 'Unknown')}")
-        
-        def main():
-            """Main execution function"""
-            print("🚀 News Display Script Starting...")
-            
-            # Initialize processor
-            processor = NewsProcessor()
-            
-            # Process news
-            if not processor.process_news():
-                print("❌ News processing failed")
-                sys.exit(1)
-            
-            # Save processed news
-            if not processor.save_processed_news():
-                print("❌ Failed to save processed news")
-                sys.exit(1)
-            
-            # Display statistics
-            processor.display_stats()
-            
-            print("\n✅ News processing completed successfully!")
-            print("🔗 News data is now ready for scripts.js NewsManager")
-        
-        if __name__ == "__main__":
-            main()
-        EOF
-          
-          chmod +x .github/scripts/display-news.py
-        fi
-        
-        # Run the news processing script
-        python3 .github/scripts/display-news.py
-
-    - name: 🧹 Cleanup temporary files
-      run: |
-        # Remove raw news file to keep repo clean
-        rm -f data/news_raw.json
-        echo "🗑️ Cleaned up temporary files"
-
-    - name: 🔍 Validate processed news
-      run: |
-        echo "🔍 Validating final news.json..."
-        
-        if [ -f "data/news.json" ]; then
-          # Check if JSON is valid
-          if python3 -c "import json; data=json.load(open('data/news.json')); print(f'✅ Valid JSON with {len(data.get(\"articles\", []))} articles')"; then
-            echo "✅ News validation successful"
-            
-            # Display first article title for verification
-            python3 -c "import json; data=json.load(open('data/news.json')); articles=data.get('articles',[]); print(f'📰 First article: {articles[0][\"title\"][:60]}...' if articles else '📰 No articles found'); print(f'📊 Total articles: {len(articles)}'); print(f'🕒 Last updated: {data.get(\"lastUpdated\", \"Unknown\")}')"
-          else
-            echo "❌ News validation failed"
-            exit 1
-          fi
-        else
-          echo "❌ news.json file not found"
-          exit 1
-        fi
-
-    - name: 📝 Commit and push changes
-      run: |
-        # Check if there are any changes to commit
-        if [ -n "$(git status --porcelain)" ]; then
-          echo "📝 Changes detected, committing..."
-          
-          git add data/news.json
-          git add .github/scripts/display-news.py 2>/dev/null || true
-          
-          # Create commit message with timestamp
-          TIMESTAMP=$(date -u +"%Y-%m-%d %H:%M:%S UTC")
-          CATEGORY="${{ github.event.inputs.news_category || 'science' }}"
-          
-          git commit -m "🗞️ Update news data ($CATEGORY) - $TIMESTAMP
-          
-          Auto-generated by GitHub Actions
-          Category: $CATEGORY
-          Articles: $(python3 -c "import json; print(len(json.load(open('data/news.json')).get('articles', [])))")
-          Source: $(python3 -c "import json; print(json.load(open('data/news.json')).get('source', 'Unknown'))")
-          "
-          
-          # Push changes
-          git push origin HEAD
-          echo "✅ Successfully pushed news updates"
-        else
-          echo "ℹ️ No changes to commit"
-        fi
-
-    - name: 📊 Display final summary
-      run: |
-        echo "🎉 News fetch workflow completed!"
-        echo "📋 Summary:"
-        
-        if [ -f "data/news.json" ]; then
-          python3 -c "import json; data=json.load(open('data/news.json')); print(f'  • Articles processed: {len(data.get(\"articles\", []))}'); print(f'  • Data source: {data.get(\"source\", \"Unknown\")}'); print(f'  • Last updated: {data.get(\"lastUpdated\", \"Unknown\")}'); print(f'  • Category: ${{ github.event.inputs.news_category || "science" }}')"
-        else
-          echo "  • Status: No news.json file found"
-        fi
-        
-        echo "🔗 News data is ready for your application!"
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add .
+          git commit -m "Auto-update news page"
+          git push
