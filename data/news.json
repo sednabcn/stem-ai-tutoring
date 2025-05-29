@@ -3,6 +3,66 @@
   "totalResults": 10,
   "articles": [
     {
+      "title": "CD Projekt Red is moving forward with Cyberpunk 2 - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "CD Projekt Red’s (CDPR) sequel to Cyberpunk 2077, which the studio is now calling Cyberpunk 2, has m...",
+      "url": "https://www.theverge.com/news/675651/cd-projekt-red-cyberpunk-2-project-orion",
+      "publishedAt": "2025-05-28T15:53:26Z",
+      "processed_at": "2025-05-29T15:21:47.462477+00:00"
+    },
+    {
+      "title": "Persona 4 voice actor confirms a remake is in development, after not being cast - Eurogamer",
+      "source": {
+        "name": "Eurogamer.net"
+      },
+      "description": "A voice actor from Persona 4 has confirmed a rumoured remake is indeed in development....",
+      "url": "https://www.eurogamer.net/persona-4-voice-actor-confirms-a-remake-is-in-development-after-not-being-cast",
+      "publishedAt": "2025-05-28T15:19:08Z",
+      "processed_at": "2025-05-29T15:21:47.462477+00:00"
+    },
+    {
+      "title": "The Nintendo Switch’s complicated legacy with indie games - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "With the launch of the Nintendo Switch 2 looming, developers discuss the state of the eShop for indi...",
+      "url": "https://www.theverge.com/nintendo/671658/nintendo-switch-indie-games-eshop-legacy",
+      "publishedAt": "2025-05-28T15:00:00Z",
+      "processed_at": "2025-05-29T15:21:47.462477+00:00"
+    },
+    {
+      "title": "Thicker, heavier iPhone 17 Pro Max revealed in new hands-on video - 9to5Mac",
+      "source": {
+        "name": "9to5Mac"
+      },
+      "description": "Apple is making its iPhone 17 Pro Max thicker and heavier this year, and a new hands-on video provid...",
+      "url": "https://9to5mac.com/2025/05/28/thicker-heavier-iphone-17-pro-max-revealed-in-new-hands-on-video/",
+      "publishedAt": "2025-05-28T14:34:00Z",
+      "processed_at": "2025-05-29T15:21:47.462477+00:00"
+    },
+    {
+      "title": "Elden Ring: Nightreign is an epic RPG squeezed into delicious bite-size capsules - Ars Technica",
+      "source": {
+        "name": "Ars Technica"
+      },
+      "description": "Fast-paced multiplayer action fits surprisingly well with the old Elden Ring formula....",
+      "url": "https://arstechnica.com/gaming/2025/05/elden-ring-nightreign-is-an-epic-rpg-squeezed-into-delicious-bite-size-capsules/",
+      "publishedAt": "2025-05-28T14:00:22Z",
+      "processed_at": "2025-05-29T15:21:47.462477+00:00"
+    },
+    {
+      "title": "Sony’s ringing in the Switch 2 launch with PS5 deals - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "Walmart and Best Buy are discounting the PS5 Pro and select bundles, as well as the DualSense Edge c...",
+      "url": "https://www.theverge.com/tech/675179/ps5-pro-bundle-dualsense-console-deal-sale",
+      "publishedAt": "2025-05-28T13:52:53Z",
+      "processed_at": "2025-05-29T15:21:47.462477+00:00"
+    },
+    {
       "title": "Switch 2 Startup And Menu Settings Appear Online As Early Player Shows Off Console In 'Code Red' Leak For Nintendo - Kotaku",
       "source": {
         "name": "Kotaku"
@@ -10,7 +70,7 @@
       "description": "There's new Nintendo music while setting up the Switch 2 but not after...",
       "url": "https://kotaku.com/nintendo-switch-2-menu-settings-firmware-day-one-patch-1851782656",
       "publishedAt": "2025-05-28T13:45:00Z",
-      "processed_at": "2025-05-29T14:20:01.929429+00:00"
+      "processed_at": "2025-05-29T15:21:47.462477+00:00"
     },
     {
       "title": "Release Date for Pokémon Legends: Z-A Revealed and Pokémon Presents Video Presentation Announced - Pokemon Press",
@@ -20,17 +80,17 @@
       "description": "",
       "url": "https://press.pokemon.com/en/Release-Date-for-Pokemon-Legends-Z-A-Revealed-and-Pokemon-Presents-Vid",
       "publishedAt": "2025-05-28T13:05:53Z",
-      "processed_at": "2025-05-29T14:20:01.929429+00:00"
+      "processed_at": "2025-05-29T15:21:47.462477+00:00"
     },
     {
-      "title": "Discord’s new currency pays users to interact with ads - The Verge",
+      "title": "Logic Pro amplifies beat making on Mac and iPad with advanced new capabilities - Apple",
       "source": {
-        "name": "The Verge"
+        "name": "Apple Newsroom"
       },
-      "description": "Discord is now testing Discord Orbs, an in-app currency users can earn by completing advertising “Qu...",
-      "url": "https://www.theverge.com/news/675481/discord-orbs-currency-quests-ads",
-      "publishedAt": "2025-05-28T13:00:00Z",
-      "processed_at": "2025-05-29T14:20:01.929429+00:00"
+      "description": "Apple today introduced new Logic Pro updates for Mac and iPad, supercharging beat making and produci...",
+      "url": "https://www.apple.com/newsroom/2025/05/logic-pro-amplifies-beat-making-on-mac-and-ipad-with-advanced-new-capabilities/",
+      "publishedAt": "2025-05-28T13:02:05Z",
+      "processed_at": "2025-05-29T15:21:47.462477+00:00"
     },
     {
       "title": "Pokémon GO Crowned Zacian and Zamazenta Meta Guide (PvE/PvP) - Pokémon GO Hub",
@@ -40,70 +100,10 @@
       "description": "Pokémon GO Fest 2025 season is here and with it, two of the strongest Pokémon in the game grace the ...",
       "url": "https://pokemongohub.net/post/meta/pokemon-go-crowned-zacian-and-zamazenta-meta-guide-pve-pvp/",
       "publishedAt": "2025-05-28T12:21:21Z",
-      "processed_at": "2025-05-29T14:20:01.929429+00:00"
-    },
-    {
-      "title": "Microsoft wants Windows to update all software on your PC - BleepingComputer",
-      "source": {
-        "name": "BleepingComputer"
-      },
-      "description": "Microsoft has introduced a new update orchestration platform built on the existing Windows Update in...",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-wants-windows-to-update-all-software-on-your-pc/",
-      "publishedAt": "2025-05-28T12:15:03Z",
-      "processed_at": "2025-05-29T14:20:01.929429+00:00"
-    },
-    {
-      "title": "MindsEye boss claims game's negative reaction ahead of release has been paid for in \"concerted effort\" against studio - Eurogamer",
-      "source": {
-        "name": "Eurogamer.net"
-      },
-      "description": "The co-CEO of MindsEye developer Build a Rocket Boy has claimed there are those who are being paid t...",
-      "url": "https://www.eurogamer.net/mindseye-boss-claims-games-negative-reaction-ahead-of-release-has-been-paid-for-in-concerted-effort-against-studio",
-      "publishedAt": "2025-05-28T12:01:40Z",
-      "processed_at": "2025-05-29T14:20:01.929429+00:00"
-    },
-    {
-      "title": "Surface Laptop 13-inch review: a little less for a little less - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "Microsoft’s new Surface Laptop 13 offers exquisite hardware for $900, even though it’s more basic th...",
-      "url": "https://www.theverge.com/reviews/671554/microsoft-surface-laptop-13-inch-review",
-      "publishedAt": "2025-05-28T12:00:00Z",
-      "processed_at": "2025-05-29T14:20:01.929429+00:00"
-    },
-    {
-      "title": "Xbox Showcase 2025 preview: What I expect to see from Microsoft's big annual games blowout - Windows Central",
-      "source": {
-        "name": "Windows Central"
-      },
-      "description": "It's that time again. The Xbox Showcase is upon us, set for sail on June 8th. What can we expect to ...",
-      "url": "https://www.windowscentral.com/gaming/xbox/xbox-showcase-2025-preview-what-i-expect-to-see-from-microsofts-big-annual-games-blowout",
-      "publishedAt": "2025-05-28T11:33:57Z",
-      "processed_at": "2025-05-29T14:20:01.929429+00:00"
-    },
-    {
-      "title": "T-Life app has screen recording on by default, T-Mobile says not a privacy risk - 9to5Mac",
-      "source": {
-        "name": "9to5Mac"
-      },
-      "description": "An update to T-Mobile’s T-Life app is rolling out at present, and customers are finding that it has ...",
-      "url": "https://9to5mac.com/2025/05/28/t-life-app-has-screen-recording-on-by-default-t-mobile-says-not-a-privacy-risk/",
-      "publishedAt": "2025-05-28T11:03:00Z",
-      "processed_at": "2025-05-29T14:20:01.929429+00:00"
-    },
-    {
-      "title": "What I learned from a Bambu Labs A1 3D printer, part 2: Upgrades and mistakes - Ars Technica",
-      "source": {
-        "name": "Ars Technica"
-      },
-      "description": "3D-printing new parts for the A1 taught me a lot about plastic, and other things....",
-      "url": "https://arstechnica.com/gadgets/2025/05/what-i-learned-from-a-bambu-labs-a1-3d-printer-part-2-upgrades-and-mistakes/",
-      "publishedAt": "2025-05-28T11:00:57Z",
-      "processed_at": "2025-05-29T14:20:01.929429+00:00"
+      "processed_at": "2025-05-29T15:21:47.462477+00:00"
     }
   ],
-  "lastUpdated": "2025-05-29T14:20:01.929522+00:00",
+  "lastUpdated": "2025-05-29T15:21:47.462562+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
