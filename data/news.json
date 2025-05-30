@@ -1,6 +1,6 @@
 {
   "status": "success",
-  "totalResults": 10,
+  "totalResults": 8,
   "articles": [
     {
       "title": "Someone Take Away Randy Pitchford's Phone - Kotaku",
@@ -10,7 +10,7 @@
       "description": "The Gearbox CEO and president probably needs to log off and stop talking about Borderlands 4...",
       "url": "https://kotaku.com/borderlands-4-randy-pitchford-gearbox-80-real-fan-post-1851782855",
       "publishedAt": "2025-05-28T21:45:00Z",
-      "processed_at": "2025-05-30T01:41:33.248430+00:00"
+      "processed_at": "2025-05-30T03:12:02.833525+00:00"
     },
     {
       "title": "CoD Season 4 Patch Notes: BO6 And Warzone Update Makes A Drastic Change To Solo BR - GameSpot",
@@ -20,17 +20,17 @@
       "description": "Here are the major changes coming to Call of Duty in Season 4....",
       "url": "https://www.gamespot.com/gallery/cod-season-4-patch-notes-bo6-and-warzone-update-makes-a-drastic-change-to-solo-br/2900-6623/",
       "publishedAt": "2025-05-28T21:43:16Z",
-      "processed_at": "2025-05-30T01:41:33.248430+00:00"
+      "processed_at": "2025-05-30T03:12:02.833525+00:00"
     },
     {
-      "title": "Apple Reportedly Says ‘Screw It’ and Jumps From iOS 19 to iOS 26 - Gizmodo",
+      "title": "Google says Instagram fixed a battery drain issue on Android - The Verge",
       "source": {
-        "name": "Gizmodo.com"
+        "name": "The Verge"
       },
-      "description": "We can expect Apple will try to explain why it thinks numbers aren’t real at WWDC in June....",
-      "url": "https://gizmodo.com/apple-reportedly-says-screw-it-and-jumps-from-ios-19-to-ios-26-2000608411",
-      "publishedAt": "2025-05-28T20:32:19Z",
-      "processed_at": "2025-05-30T01:41:33.248430+00:00"
+      "description": "Google announced that a new Instagram app update fixes an issue that was causing excessive battery d...",
+      "url": "https://www.theverge.com/news/676032/google-android-instagram-battery-drain-update-fix",
+      "publishedAt": "2025-05-28T20:30:52Z",
+      "processed_at": "2025-05-30T03:12:02.833525+00:00"
     },
     {
       "title": "‘Black Panther’ Video Game Canceled at Electronic Arts as Cliffhanger Studios Shuts Down - Variety",
@@ -40,7 +40,7 @@
       "description": "A video game based on Marvel's \"Black Panther\" has been scrapped at Electronic Arts as part of the c...",
       "url": "https://variety.com/2025/gaming/news/black-panther-video-game-canceled-electronic-arts-layoffs-1236412168/",
       "publishedAt": "2025-05-28T20:06:00Z",
-      "processed_at": "2025-05-30T01:41:33.248430+00:00"
+      "processed_at": "2025-05-30T03:12:02.833525+00:00"
     },
     {
       "title": "Samsung drops Android 16 beta for Galaxy S25 with more AI you probably don’t want - Ars Technica",
@@ -50,7 +50,17 @@
       "description": "Samsung’s One UI 8 beta program for the Galaxy S25 is now open....",
       "url": "https://arstechnica.com/gadgets/2025/05/samsung-drops-android-16-beta-for-galaxy-s25-with-more-ai-you-probably-dont-want/",
       "publishedAt": "2025-05-28T19:08:45Z",
-      "processed_at": "2025-05-30T01:41:33.248430+00:00"
+      "processed_at": "2025-05-30T03:12:02.833525+00:00"
+    },
+    {
+      "title": "Apple is reportedly going to rename all of its operating systems - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "Apple is going to switch up how it names its next set of major operating systems to align with years...",
+      "url": "https://www.theverge.com/news/675945/apple-operating-systems-new-name-year-ios-macos",
+      "publishedAt": "2025-05-28T19:07:01Z",
+      "processed_at": "2025-05-30T03:12:02.833525+00:00"
     },
     {
       "title": "T-Mobile Says It's Not Spying on You. What the New Screen Recording Tool Actually Does - CNET",
@@ -60,7 +70,7 @@
       "description": "A new setting that looks like a privacy risk is popping up for some customers. T-Mobile explains wha...",
       "url": "https://www.cnet.com/tech/mobile/t-mobile-says-its-not-spying-on-you-what-the-new-screen-recording-tool-actually-does/",
       "publishedAt": "2025-05-28T19:03:00Z",
-      "processed_at": "2025-05-30T01:41:33.248430+00:00"
+      "processed_at": "2025-05-30T03:12:02.833525+00:00"
     },
     {
       "title": "Google Photos debuts redesigned editor with new AI tools - TechCrunch",
@@ -70,40 +80,10 @@
       "description": "The redesign adds new AI features, Reimagine and Auto Frame, which were previously only available on...",
       "url": "https://techcrunch.com/2025/05/28/google-photos-debuts-redesigned-editor-with-new-ai-tools/",
       "publishedAt": "2025-05-28T18:07:23Z",
-      "processed_at": "2025-05-30T01:41:33.248430+00:00"
-    },
-    {
-      "title": "Botnet hacks 9,000+ ASUS routers to add persistent SSH backdoor - BleepingComputer",
-      "source": {
-        "name": "BleepingComputer"
-      },
-      "description": "Over 9,000 ASUS routers are compromised by a novel botnet dubbed \"AyySSHush\" that was also observed ...",
-      "url": "https://www.bleepingcomputer.com/news/security/botnet-hacks-9-000-plus-asus-routers-to-add-persistent-ssh-backdoor/",
-      "publishedAt": "2025-05-28T16:44:36Z",
-      "processed_at": "2025-05-30T01:41:33.248430+00:00"
-    },
-    {
-      "title": "CD Projekt Red is moving forward with Cyberpunk 2 - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "CD Projekt Red’s (CDPR) sequel to Cyberpunk 2077, which the studio is now calling Cyberpunk 2, has m...",
-      "url": "https://www.theverge.com/news/675651/cd-projekt-red-cyberpunk-2-project-orion",
-      "publishedAt": "2025-05-28T15:53:26Z",
-      "processed_at": "2025-05-30T01:41:33.248430+00:00"
-    },
-    {
-      "title": "Sony’s Big PS5 Sales Are Live After Microsoft’s Xbox Price Increases - Forbes",
-      "source": {
-        "name": "Forbes"
-      },
-      "description": "Sony is sort of a brutal opponent for Microsoft at this point, already having won the console war bu...",
-      "url": "https://www.forbes.com/sites/paultassi/2025/05/28/sonys-big-ps5-sales-are-live-after-microsofts-xbox-price-increases/",
-      "publishedAt": "2025-05-28T14:50:02Z",
-      "processed_at": "2025-05-30T01:41:33.248430+00:00"
+      "processed_at": "2025-05-30T03:12:02.833525+00:00"
     }
   ],
-  "lastUpdated": "2025-05-30T01:41:33.248508+00:00",
+  "lastUpdated": "2025-05-30T03:12:02.833595+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
