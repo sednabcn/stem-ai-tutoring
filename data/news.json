@@ -3,14 +3,94 @@
   "totalResults": 10,
   "articles": [
     {
-      "title": "Gemini will now automatically summarize your long emails unless you opt out - TechCrunch",
+      "title": "Microsoft releases a bold new update for Notepad - The Verge",
       "source": {
-        "name": "TechCrunch"
+        "name": "The Verge"
       },
-      "description": "Google is putting AI to work on your inbox, whether or not it's something you want to use....",
-      "url": "https://techcrunch.com/2025/05/30/gemini-will-now-automatically-summarize-your-long-emails-unless-you-opt-out/",
-      "publishedAt": "2025-05-30T14:43:10Z",
-      "processed_at": "2025-05-31T18:26:47.912377+00:00"
+      "description": "Microsoft is adding text formatting support to Notepad. You’ll be able to use bold and italic option...",
+      "url": "https://www.theverge.com/news/677474/microsoft-windows-notepad-bold-italic-text-formatting-markdown-support",
+      "publishedAt": "2025-05-30T19:36:45Z",
+      "processed_at": "2025-05-31T19:15:06.822113+00:00"
+    },
+    {
+      "title": "Gemini app ‘Pro’ users getting Veo 3 trial on Android & iOS, AI Ultra now in 73 countries - 9to5Google",
+      "source": {
+        "name": "9to5google.com"
+      },
+      "description": "Following last week’s launch at I/O 2025, Google is expanding access to Veo 3 in the Gemini app and ...",
+      "url": "http://9to5google.com/2025/05/30/gemini-app-veo-3-ai-ultra/",
+      "publishedAt": "2025-05-30T18:30:00Z",
+      "processed_at": "2025-05-31T19:15:06.822113+00:00"
+    },
+    {
+      "title": "Google showing Pixel 10, ‘upcoming devices’ to Superfans & others in exclusive June event - 9to5Google",
+      "source": {
+        "name": "9to5google.com"
+      },
+      "description": "Google today reached out to Pixel Superfans about a “pre-launch event” this June for the Pixel 10 se...",
+      "url": "http://9to5google.com/2025/05/30/pixel-10-june-pre-release-event-superfans/",
+      "publishedAt": "2025-05-30T18:14:00Z",
+      "processed_at": "2025-05-31T19:15:06.822113+00:00"
+    },
+    {
+      "title": "Why EA Canceled a New ‘Black Panther’ Video Game and Closed Cliffhanger Studios - Bloomberg",
+      "source": {
+        "name": "Bloomberg"
+      },
+      "description": "The project from Cliffhanger Studios would have starred a group of heroes from the comic-book franch...",
+      "url": "https://www.bloomberg.com/news/newsletters/2025-05-30/why-ea-canceled-a-new-black-panther-video-game-and-closed-cliffhanger-studios",
+      "publishedAt": "2025-05-30T18:00:10Z",
+      "processed_at": "2025-05-31T19:15:06.822113+00:00"
+    },
+    {
+      "title": "Two former Polygon writers are starting a new site - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "Former Polygon guides writers Ryan Gilliam and Jeffrey Parkin have launched Big Friendly Guide, a ne...",
+      "url": "https://www.theverge.com/news/675764/polygon-guides-writers-big-friendly-guide-new-site",
+      "publishedAt": "2025-05-30T17:00:00Z",
+      "processed_at": "2025-05-31T19:15:06.822113+00:00"
+    },
+    {
+      "title": "The Gmail app will now create AI summaries whether you want them or not - Ars Technica",
+      "source": {
+        "name": "Ars Technica"
+      },
+      "description": "Workspace users will be seeing a lot more of Google’s AI summaries soon....",
+      "url": "https://arstechnica.com/google/2025/05/the-gmail-app-will-now-create-ai-summaries-whether-you-want-them-or-not/",
+      "publishedAt": "2025-05-30T16:36:20Z",
+      "processed_at": "2025-05-31T19:15:06.822113+00:00"
+    },
+    {
+      "title": "Garden of the Witch Survey Results - Hunt: Showdown",
+      "source": {
+        "name": "Huntshowdown.com"
+      },
+      "description": "Hunt: Showdown is a competitive first-person PvP bounty hunting game with heavy PvE elements. Set in...",
+      "url": "https://www.huntshowdown.com/detailed",
+      "publishedAt": "2025-05-30T16:06:43Z",
+      "processed_at": "2025-05-31T19:15:06.822113+00:00"
+    },
+    {
+      "title": "You can get 15 percent off Elden Ring Nightreign on Steam and Xbox - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "FromSoftware’s new multiplayer-focused game is already discounted. Plus, get a last-gen Blink Video ...",
+      "url": "https://www.theverge.com/tech/676639/elden-ring-nightreign-blink-video-doorbell-humble-bundle-deal-sale",
+      "publishedAt": "2025-05-30T15:01:57Z",
+      "processed_at": "2025-05-31T19:15:06.822113+00:00"
+    },
+    {
+      "title": "Get Ready For The Witcher 3 To Feel Like A New Game Again When Mod Support Comes To Consoles Later This Year - Kotaku",
+      "source": {
+        "name": "Kotaku"
+      },
+      "description": "The open-world RPG celebrates its 10th anniversary with some big news...",
+      "url": "https://kotaku.com/witcher-3-mod-support-ps5-xbox-final-patch-1851783100",
+      "publishedAt": "2025-05-30T14:55:00Z",
+      "processed_at": "2025-05-31T19:15:06.822113+00:00"
     },
     {
       "title": "Can a redesign save Apple’s software? - The Verge",
@@ -20,90 +100,10 @@
       "description": "The software names and designs coming for Apple at WWDC, the future of the web thanks to AI, and mor...",
       "url": "https://www.theverge.com/the-vergecast/677023/apple-redesign-names-wwdc-2025-vergecast",
       "publishedAt": "2025-05-30T14:22:41Z",
-      "processed_at": "2025-05-31T18:26:47.912377+00:00"
-    },
-    {
-      "title": "Elden Ring Nightreign Developer FromSoftware Already Has a Patch in the Works to Make the Brutally Difficult Solo Play Easier - IGN",
-      "source": {
-        "name": "IGN"
-      },
-      "description": "It’s early days for Elden Ring Nightreign, but already developer FromSoftware has announced a patch ...",
-      "url": "https://www.ign.com/articles/elden-ring-nightreign-developer-fromsoftware-already-has-a-patch-in-the-works-to-make-the-brutally-difficult-solo-play-easier",
-      "publishedAt": "2025-05-30T14:07:41Z",
-      "processed_at": "2025-05-31T18:26:47.912377+00:00"
-    },
-    {
-      "title": "2025 Chevrolet Corvette ZR1 first drive: Engineered for insane speed - Ars Technica",
-      "source": {
-        "name": "Ars Technica"
-      },
-      "description": "Now that Chevrolet can fit turbos to the Corvette, it’s gone and done just that....",
-      "url": "https://arstechnica.com/cars/2025/05/2025-chevrolet-corvette-zr1-first-drive-engineered-for-insane-speed/",
-      "publishedAt": "2025-05-30T14:00:14Z",
-      "processed_at": "2025-05-31T18:26:47.912377+00:00"
-    },
-    {
-      "title": "The President Is Dead (In Helldivers 2) - Kotaku",
-      "source": {
-        "name": "Kotaku"
-      },
-      "description": "Fans won their biggest victory yet and get to keep the traveling battle station that helped win it...",
-      "url": "https://kotaku.com/helldivers-2-president-kia-dss-battle-station-victory-1851783082",
-      "publishedAt": "2025-05-30T13:35:00Z",
-      "processed_at": "2025-05-31T18:26:47.912377+00:00"
-    },
-    {
-      "title": "The Witcher 3 Final Patch Confirmed, Adds Mods on PS5 - Push Square",
-      "source": {
-        "name": "Push Square"
-      },
-      "description": "",
-      "url": "https://www.pushsquare.com/news/2025/05/the-witcher-3-final-patch-confirmed-adds-mods-on-ps5",
-      "publishedAt": "2025-05-30T12:39:30Z",
-      "processed_at": "2025-05-31T18:26:47.912377+00:00"
-    },
-    {
-      "title": "PSA: You've only got a few hours to log into MultiVersus if you want to play offline once it closes - Eurogamer",
-      "source": {
-        "name": "Eurogamer.net"
-      },
-      "description": "Today marks the end for once-promising free-to-play platform fighter MultiVersus; it's being deliste...",
-      "url": "https://www.eurogamer.net/psa-youve-only-got-a-few-hours-to-log-into-multiversus-if-you-want-to-play-offline-once-it-closes",
-      "publishedAt": "2025-05-30T12:13:48Z",
-      "processed_at": "2025-05-31T18:26:47.912377+00:00"
-    },
-    {
-      "title": "Hell is Us Brings a 'New-Weird' Approach to the Sci-Fi Action-RPG - IGN",
-      "source": {
-        "name": "IGN"
-      },
-      "description": "After playing several hours of the opening of Hell is Us along with some mid-game dungeon crawling, ...",
-      "url": "https://www.ign.com/articles/hell-is-us-brings-a-new-weird-approach-to-the-sci-fi-action-rpg",
-      "publishedAt": "2025-05-30T12:02:10Z",
-      "processed_at": "2025-05-31T18:26:47.912377+00:00"
-    },
-    {
-      "title": "Mark Zuckerberg, Elon Musk, and Sam Altman Announce the End of Smartphones — But Tim Cook Isn’t Playing Along - The Daily Galaxy",
-      "source": {
-        "name": "The Daily Galaxy --Great Discoveries Channel"
-      },
-      "description": "Four tech giants are moving to replace the smartphone with devices that sound straight out of scienc...",
-      "url": "https://dailygalaxy.com/2025/05/mark-zuckerberg-elon-musk-and-sam-altman-announce-the-end-of-smartphones-but-tim-cook-isnt-playing-along/",
-      "publishedAt": "2025-05-30T11:30:00Z",
-      "processed_at": "2025-05-31T18:26:47.912377+00:00"
-    },
-    {
-      "title": "Lions trivia: Your in-5 daily game, Friday edition - Pride Of Detroit",
-      "source": {
-        "name": "Prideofdetroit.com"
-      },
-      "description": "Think you can figure out which Lions player we’re talking about? You’ll get five clues to figure him...",
-      "url": "https://www.prideofdetroit.com/2025/5/30/24439884/sb-nation-lions-daily-trivia-in-5",
-      "publishedAt": "2025-05-30T11:00:00Z",
-      "processed_at": "2025-05-31T18:26:47.912377+00:00"
+      "processed_at": "2025-05-31T19:15:06.822113+00:00"
     }
   ],
-  "lastUpdated": "2025-05-31T18:26:47.912453+00:00",
+  "lastUpdated": "2025-05-31T19:15:06.822193+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
