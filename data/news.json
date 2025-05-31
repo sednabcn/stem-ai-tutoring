@@ -1,17 +1,7 @@
 {
   "status": "success",
-  "totalResults": 9,
+  "totalResults": 10,
   "articles": [
-    {
-      "title": "A father thought he was buying a 20TB hard drive. He discovered a well-crafted scam when his son opened it. - Stewartville Star",
-      "source": {
-        "name": "Thinkstewartville.com"
-      },
-      "description": "A shocking discovery in the world of online shopping has recently made waves across tech forums and ...",
-      "url": "https://thinkstewartville.com/2025/05/29/a-father-thought-he-was-buying-a-20tb-hard-drive-he-discovered-a-well-crafted-scam-when-his-son-opened-it/",
-      "publishedAt": "2025-05-30T01:31:00Z",
-      "processed_at": "2025-05-31T04:24:48.536064+00:00"
-    },
     {
       "title": "In the market for a new router? Here are 13 models to avoid, according to the FBI - 9to5Mac",
       "source": {
@@ -20,47 +10,47 @@
       "description": "If you are thinking about buying a new router, here are some models to not add to your cart per a re...",
       "url": "https://9to5mac.com/2025/05/29/in-the-market-for-a-new-router-here-are-13-models-to-avoid-according-to-the-fbi/",
       "publishedAt": "2025-05-29T21:28:00Z",
-      "processed_at": "2025-05-31T04:24:48.536064+00:00"
-    },
-    {
-      "title": "With iOS 18 Jumping to iOS 26, Will Apple Renumber iPhones Too? - MacRumors",
-      "source": {
-        "name": "MacRumors"
-      },
-      "description": "With the next-generation version of iOS and other 2025 software updates, Apple is planning to change...",
-      "url": "https://www.macrumors.com/2025/05/29/will-apple-rename-iphones-ios-26/",
-      "publishedAt": "2025-05-29T20:59:00Z",
-      "processed_at": "2025-05-31T04:24:48.536064+00:00"
+      "processed_at": "2025-05-31T05:19:29.284114+00:00"
     },
     {
       "title": "EXCLUSIVE: Xbox's handheld has been sidelined (for now) - Windows Central",
       "source": {
         "name": "Windows Central"
       },
-      "description": "",
+      "description": "Xbox's handheld ambitions continue unabated, but the focus is shifting towards improving Windows 11 ...",
       "url": "https://www.windowscentral.com/gaming/xbox/exclusive-xboxs-handheld-pembrooke-has-been-sidelined-for-now-as-microsoft-doubles-down-on-windows-11-pc-gaming-handheld-optimization",
       "publishedAt": "2025-05-29T20:53:07Z",
-      "processed_at": "2025-05-31T04:24:48.536064+00:00"
+      "processed_at": "2025-05-31T05:19:29.284114+00:00"
     },
     {
-      "title": "Google AI Overviews Says It's Still 2024 - WIRED",
+      "title": "Despite Black Panther cancellation, EA still has \"at least three\" Marvel games in the works - Eurogamer",
       "source": {
-        "name": "Wired"
+        "name": "Eurogamer.net"
       },
-      "description": "When asked to confirm the current year, Google’s AI-generated top result confidently answers, “No, i...",
-      "url": "https://www.wired.com/story/google-ai-overviews-says-its-still-2024/",
-      "publishedAt": "2025-05-29T20:21:44Z",
-      "processed_at": "2025-05-31T04:24:48.536064+00:00"
+      "description": "Following EA's decision to pull the plug on its Black Panther game and close the studio making it, t...",
+      "url": "https://www.eurogamer.net/despite-black-panther-cancellation-ea-still-has-at-least-three-marvel-games-in-the-works",
+      "publishedAt": "2025-05-29T20:05:09Z",
+      "processed_at": "2025-05-31T05:19:29.284114+00:00"
     },
     {
-      "title": "Gemini in Google Drive may finally be useful now that it can analyze videos - Ars Technica",
+      "title": "Helldivers 2 Players Are Pulling Off Incredible Feats In A Last-Ditch Effort To Save Super Earth - Kotaku",
       "source": {
-        "name": "Ars Technica"
+        "name": "Kotaku"
       },
-      "description": "The chatbot can answer questions and extract data from your uploaded vids....",
-      "url": "https://arstechnica.com/google/2025/05/gemini-in-google-drive-may-finally-be-useful-now-that-it-can-analyze-videos/",
-      "publishedAt": "2025-05-29T19:21:35Z",
-      "processed_at": "2025-05-31T04:24:48.536064+00:00"
+      "description": "Players are bombing Leviathans and Steam reviews amid confusion...",
+      "url": "https://kotaku.com/helldivers-2-eos-prosperity-china-steam-reviews-1851782983",
+      "publishedAt": "2025-05-29T19:40:00Z",
+      "processed_at": "2025-05-31T05:19:29.284114+00:00"
+    },
+    {
+      "title": "Hugging Face unveils two new humanoid robots - TechCrunch",
+      "source": {
+        "name": "TechCrunch"
+      },
+      "description": "Hugging Face hopes to start shipping two new open-source humanoid robots by the end of 2025....",
+      "url": "https://techcrunch.com/2025/05/29/hugging-face-unveils-two-new-humanoid-robots/",
+      "publishedAt": "2025-05-29T19:28:24Z",
+      "processed_at": "2025-05-31T05:19:29.284114+00:00"
     },
     {
       "title": "Why you should consider this ‘e-tattoo’ if you have a stressful job - The Times",
@@ -70,17 +60,27 @@
       "description": "Researchers say the device, which monitors brain activity and sounds the alarm if your mind is overw...",
       "url": "https://www.thetimes.com/uk/science/article/why-you-should-consider-this-e-tattoo-if-you-have-a-stressful-job-hrzxmhtgh",
       "publishedAt": "2025-05-29T19:10:06Z",
-      "processed_at": "2025-05-31T04:24:48.536064+00:00"
+      "processed_at": "2025-05-31T05:19:29.284114+00:00"
     },
     {
-      "title": "Perplexity’s new tool can generate spreadsheets, dashboards, and more - TechCrunch",
+      "title": "iPhone 17 Display Sizes: What to Expect - MacRumors",
       "source": {
-        "name": "TechCrunch"
+        "name": "MacRumors"
       },
-      "description": "Perplexity, the AI-powered search engine gunning for Google, has released Perplexity Labs, a tool fo...",
-      "url": "https://techcrunch.com/2025/05/29/perplexitys-new-tool-can-generate-spreadsheets-dashboards-and-more/",
-      "publishedAt": "2025-05-29T18:02:18Z",
-      "processed_at": "2025-05-31T04:24:48.536064+00:00"
+      "description": "Apple's iPhone 17 lineup will include four iPhones, and two of those are going to get all-new displa...",
+      "url": "https://www.macrumors.com/2025/05/29/iphone-17-display-sizes/",
+      "publishedAt": "2025-05-29T18:38:24Z",
+      "processed_at": "2025-05-31T05:19:29.284114+00:00"
+    },
+    {
+      "title": "Five Great Read-Later Apps to Replace Pocket - Lifehacker",
+      "source": {
+        "name": "Lifehacker.com"
+      },
+      "description": "Pocket is shutting down, but it has great alternatives....",
+      "url": "https://lifehacker.com/tech/5-best-read-later-apps-to-replace-pocket",
+      "publishedAt": "2025-05-29T18:30:00Z",
+      "processed_at": "2025-05-31T05:19:29.284114+00:00"
     },
     {
       "title": "Pokémon GO Eggs-pedition Access and Reward Road (June 2025) - Pokémon GO Hub",
@@ -90,10 +90,20 @@
       "description": "Eggs-pedition Access is back during the Pokémon GO: Delightful Days season! very month, Trainers wil...",
       "url": "https://pokemongohub.net/post/news/pokemon-go-eggs-pedition-access-and-reward-road-june-2025/",
       "publishedAt": "2025-05-29T17:57:21Z",
-      "processed_at": "2025-05-31T04:24:48.536064+00:00"
+      "processed_at": "2025-05-31T05:19:29.284114+00:00"
+    },
+    {
+      "title": "Video apps like Hulu “cannot be used on Nintendo Switch 2,” says support page - Ars Technica",
+      "source": {
+        "name": "Ars Technica"
+      },
+      "description": "Nintendo is still testing the 15,000+ game Switch library with the Switch 2....",
+      "url": "https://arstechnica.com/gaming/2025/05/with-thousands-still-to-test-nintendo-says-no-issues-for-most-switch-games-on-switch-2/",
+      "publishedAt": "2025-05-29T17:40:04Z",
+      "processed_at": "2025-05-31T05:19:29.284114+00:00"
     }
   ],
-  "lastUpdated": "2025-05-31T04:24:48.536135+00:00",
+  "lastUpdated": "2025-05-31T05:19:29.284211+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
