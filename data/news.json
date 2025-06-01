@@ -3,6 +3,96 @@
   "totalResults": 10,
   "articles": [
     {
+      "title": "Your chatbot friend might be messing with your mind - The Washington Post",
+      "source": {
+        "name": "The Washington Post"
+      },
+      "description": "OpenAI, Meta and others want people to spend more time with AI chatbots, but there is growing eviden...",
+      "url": "https://www.washingtonpost.com/technology/2025/05/31/ai-chatbots-user-influence-attention-chatgpt/",
+      "publishedAt": "2025-05-31T14:35:52Z",
+      "processed_at": "2025-06-01T15:19:29.208196+00:00"
+    },
+    {
+      "title": "FromSoft acknowledges issues with Elden Ring Nightreign matchmaking - Eurogamer",
+      "source": {
+        "name": "Eurogamer.net"
+      },
+      "description": "If you're jumping into Elden Ring Nightreign this weekend and are struggling to find a Player 2 - an...",
+      "url": "https://www.eurogamer.net/fromsoft-acknowledges-issues-with-elden-ring-nightreign-matchmaking",
+      "publishedAt": "2025-05-31T14:27:27Z",
+      "processed_at": "2025-06-01T15:19:29.208196+00:00"
+    },
+    {
+      "title": "Google quietly released an app that lets you download and run AI models locally - TechCrunch",
+      "source": {
+        "name": "TechCrunch"
+      },
+      "description": "Last week, Google quietly released an app, Google AI Edge Gallery, that lets users run a range of op...",
+      "url": "https://techcrunch.com/2025/05/31/google-quietly-released-an-app-that-lets-you-download-and-run-ai-models-locally/",
+      "publishedAt": "2025-05-31T14:04:46Z",
+      "processed_at": "2025-06-01T15:19:29.208196+00:00"
+    },
+    {
+      "title": "Sony’s DualSense Edge controller is receiving a rare $30 discount - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "The DualSense Edge is on sale for $169 as part of Sony’s annual Days of Play sale. You can also save...",
+      "url": "https://www.theverge.com/tech/677650/sony-dualsense-edge-controller-oura-ring-gen-3-deal-sale",
+      "publishedAt": "2025-05-31T14:00:00Z",
+      "processed_at": "2025-06-01T15:19:29.208196+00:00"
+    },
+    {
+      "title": "The Switch 2’s promising start hides an uncertain future - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "The Switch 2 will have an impressive launch year but there’s a suite of factors that could hamper it...",
+      "url": "https://www.theverge.com/games/677301/the-switch-2s-promising-start-hides-an-uncertain-future",
+      "publishedAt": "2025-05-31T13:00:00Z",
+      "processed_at": "2025-06-01T15:19:29.208196+00:00"
+    },
+    {
+      "title": "Playdate’s second season is off to a great (and very weird) start - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "Panic has kicked off the second season of games for the Playdate, and it’s starting with a strange m...",
+      "url": "https://www.theverge.com/games/677197/playdate-season-2-game-review",
+      "publishedAt": "2025-05-31T12:00:00Z",
+      "processed_at": "2025-06-01T15:19:29.208196+00:00"
+    },
+    {
+      "title": "Real TikTokers are pretending to be Veo 3 AI creations for fun, attention - Ars Technica",
+      "source": {
+        "name": "Ars Technica"
+      },
+      "description": "From music videos to “Are you a prompt?” stunts, “real” videos are presenting as AI…...",
+      "url": "https://arstechnica.com/ai/2025/05/real-tiktokers-are-pretending-to-be-veo-3-ai-creations-for-fun-attention/",
+      "publishedAt": "2025-05-31T11:08:16Z",
+      "processed_at": "2025-06-01T15:19:29.208196+00:00"
+    },
+    {
+      "title": "Game UK re-opening Nintendo Switch 2 pre-orders for cancelations - My Nintendo News",
+      "source": {
+        "name": "My Nintendo News"
+      },
+      "description": "UK video game retailer Game was ridiculed yesterday by frustrated customers whose pre-orders for the...",
+      "url": "https://mynintendonews.com/2025/05/30/game-uk-re-opening-nintendo-switch-2-pre-orders-for-cancelations/",
+      "publishedAt": "2025-05-31T10:54:54Z",
+      "processed_at": "2025-06-01T15:19:29.208196+00:00"
+    },
+    {
+      "title": "Apple's Big OS Rebrand, OnePlus Embraces AI, and Samsung's Next Folds—Your Gear News of the Week - WIRED",
+      "source": {
+        "name": "Wired"
+      },
+      "description": "Plus: Google celebrates the 10th anniversary of Google Photos with a new editing interface for its 1...",
+      "url": "https://www.wired.com/story/apples-big-os-rebrand-oneplus-ai-embrace-and-samsungs-next-folds-your-gear-news-of-the-week/",
+      "publishedAt": "2025-05-31T10:30:00Z",
+      "processed_at": "2025-06-01T15:19:29.208196+00:00"
+    },
+    {
       "title": "Microsoft Confirms Password Deletion—Now Just 8 Weeks Away - Forbes",
       "source": {
         "name": "Forbes"
@@ -10,100 +100,10 @@
       "description": "Millions of users must act now — what to know....",
       "url": "https://www.forbes.com/sites/zakdoffman/2025/05/31/microsoft-confirms-password-deletion-now-just-8-weeks-away/",
       "publishedAt": "2025-05-31T09:54:53Z",
-      "processed_at": "2025-06-01T14:17:31.028539+00:00"
-    },
-    {
-      "title": "Google's Veo 3 AI video generator is unlike anything you've ever seen. The world isn't ready. - Mashable",
-      "source": {
-        "name": "Mashable"
-      },
-      "description": "\"We're so cooked.\"...",
-      "url": "https://mashable.com/article/google-veo-3-ai-video",
-      "publishedAt": "2025-05-31T09:00:00Z",
-      "processed_at": "2025-06-01T14:17:31.028539+00:00"
-    },
-    {
-      "title": "PlayStation Plus subscribers react to June free game line-up: 'massive win’ - GAMINGbible",
-      "source": {
-        "name": "Gamingbible.com"
-      },
-      "description": "PlayStation Plus subscribers are happy with June's 2025 free game line-up....",
-      "url": "https://www.gamingbible.com/news/platform/playstation/playstation-plus-june-free-game-massive-win-593568-20250528",
-      "publishedAt": "2025-05-31T06:30:07Z",
-      "processed_at": "2025-06-01T14:17:31.028539+00:00"
-    },
-    {
-      "title": "Witcher 3 Celebrates 10 Years, Announces Mod Support For Consoles - Nintendo Life",
-      "source": {
-        "name": "Nintendo Life"
-      },
-      "description": "Switch 2 update when?...",
-      "url": "https://www.nintendolife.com/news/2025/05/witcher-3-celebrates-10-years-announces-mod-support-for-consoles",
-      "publishedAt": "2025-05-31T02:30:00Z",
-      "processed_at": "2025-06-01T14:17:31.028539+00:00"
-    },
-    {
-      "title": "6 visionOS-Inspired Design Elements Coming to iOS 26 - MacRumors",
-      "source": {
-        "name": "MacRumors"
-      },
-      "description": "With iOS 26, macOS 26, tvOS 26, and watchOS 26, Apple is planning to debut a new design that's been ...",
-      "url": "https://www.macrumors.com/2025/05/30/ios-26-visionos-inspired-design-elements/",
-      "publishedAt": "2025-05-30T22:26:49Z",
-      "processed_at": "2025-06-01T14:17:31.028539+00:00"
-    },
-    {
-      "title": "The Toyota Supra Won't Stay Dead For Long - Motor1.com",
-      "source": {
-        "name": "Motor1 "
-      },
-      "description": "Toyota is hinting at a new Supra, and the company hopes we won't have to wait too long for the next ...",
-      "url": "https://www.motor1.com/news/761265/new-toyota-supra-confirmed/",
-      "publishedAt": "2025-05-30T21:37:44Z",
-      "processed_at": "2025-06-01T14:17:31.028539+00:00"
-    },
-    {
-      "title": "Samsung closed the One UI 8 beta to new users in the US after barely a day - 9to5Google",
-      "source": {
-        "name": "9to5google.com"
-      },
-      "description": "While your results may vary, it looks like Samsung's One UI 8 beta program is already full, barely a...",
-      "url": "http://9to5google.com/2025/05/30/samsung-one-ui-8-beta-program-full/",
-      "publishedAt": "2025-05-30T21:15:00Z",
-      "processed_at": "2025-06-01T14:17:31.028539+00:00"
-    },
-    {
-      "title": "One Of The Rarest Video Games Ever Has Been Preserved Online - GameSpot",
-      "source": {
-        "name": "GameSpot"
-      },
-      "description": "You may not know the name of this incredibly rare game, but now you can play it online....",
-      "url": "https://www.gamespot.com/articles/one-of-the-rarest-video-games-ever-has-been-preserved-online/1100-6531962/",
-      "publishedAt": "2025-05-30T20:50:25Z",
-      "processed_at": "2025-06-01T14:17:31.028539+00:00"
-    },
-    {
-      "title": "The latest iPhone 17 rumors: A18 chip, smaller Dynamic Island, more - 9to5Mac",
-      "source": {
-        "name": "9to5Mac"
-      },
-      "description": "According to a recent investor note from GF Securities analyst Jeff Pu, Apple might have a pair of s...",
-      "url": "https://9to5mac.com/2025/05/30/the-latest-iphone-17-rumors/",
-      "publishedAt": "2025-05-30T20:12:00Z",
-      "processed_at": "2025-06-01T14:17:31.028539+00:00"
-    },
-    {
-      "title": "Microsoft releases a bold new update for Notepad - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "Microsoft is adding text formatting support to Notepad. You’ll be able to use bold and italic option...",
-      "url": "https://www.theverge.com/news/677474/microsoft-windows-notepad-bold-italic-text-formatting-markdown-support",
-      "publishedAt": "2025-05-30T19:36:45Z",
-      "processed_at": "2025-06-01T14:17:31.028539+00:00"
+      "processed_at": "2025-06-01T15:19:29.208196+00:00"
     }
   ],
-  "lastUpdated": "2025-06-01T14:17:31.028614+00:00",
+  "lastUpdated": "2025-06-01T15:19:29.208274+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
