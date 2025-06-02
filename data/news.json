@@ -1,7 +1,17 @@
 {
   "status": "success",
-  "totalResults": 10,
+  "totalResults": 9,
   "articles": [
+    {
+      "title": "Kyle Busch, Josh Berry go sliding in practice at Nashville - NASCAR.com",
+      "source": {
+        "name": "NASCAR"
+      },
+      "description": "Kyle Busch and Josh Berry have separate issues exiting Turn 4 with both cars sliding through the gra...",
+      "url": "https://www.nascar.com/videos/franchise/nascar-cup-practice-clips/kyle-busch-josh-berry-go-sliding-in-practice-at-nashville/",
+      "publishedAt": "2025-05-31T21:36:15Z",
+      "processed_at": "2025-06-02T05:21:11.060548+00:00"
+    },
     {
       "title": "Nintendo Switch 2 launch games: Every Switch 2 game available on day one - Video Games Chronicle",
       "source": {
@@ -10,7 +20,7 @@
       "description": "Here's our guide to every Switch 2 launch game available on June 5...",
       "url": "https://www.videogameschronicle.com/features/nintendo-switch-2-launch-games-every-switch-2-game-available-on-day-one/",
       "publishedAt": "2025-05-31T20:36:58Z",
-      "processed_at": "2025-06-02T04:30:59.740262+00:00"
+      "processed_at": "2025-06-02T05:21:11.060548+00:00"
     },
     {
       "title": "Week in Review: Perplexity Labs wants to do your work - TechCrunch",
@@ -20,7 +30,17 @@
       "description": "We've got a ton of stories for you this week, including a new AI-powered browser from Arc; not one b...",
       "url": "https://techcrunch.com/2025/05/31/week-in-review-perplexity-labs-wants-to-do-your-work/",
       "publishedAt": "2025-05-31T17:06:00Z",
-      "processed_at": "2025-06-02T04:30:59.740262+00:00"
+      "processed_at": "2025-06-02T05:21:11.060548+00:00"
+    },
+    {
+      "title": "Cliffhanger's Black Panther game reportedly would have built upon the famously patented Nemesis System - Rock Paper Shotgun",
+      "source": {
+        "name": "Rock Paper Shotgun"
+      },
+      "description": "The recently cancelled Black Panther game apparently would have built upon the Middle-earth games' m...",
+      "url": "https://www.rockpapershotgun.com/cliffhangers-black-panther-game-reportedly-would-have-built-upon-the-famously-patented-nemesis-system",
+      "publishedAt": "2025-05-31T17:00:58Z",
+      "processed_at": "2025-06-02T05:21:11.060548+00:00"
     },
     {
       "title": "All four iPhone 17 models just tipped for ‘metalens’ upgrade - Tom's Guide",
@@ -30,7 +50,7 @@
       "description": "One step closer to shaving down the Dynamic Island...",
       "url": "https://www.tomsguide.com/phones/iphones/all-four-iphone-17-models-just-tipped-for-metalens-upgrade",
       "publishedAt": "2025-05-31T16:45:44Z",
-      "processed_at": "2025-06-02T04:30:59.740262+00:00"
+      "processed_at": "2025-06-02T05:21:11.060548+00:00"
     },
     {
       "title": "Samsung Galaxy S25 Edge is now available for purchase in the US - GSMArena.com news - GSMArena.com",
@@ -40,7 +60,17 @@
       "description": "It is 5.8mm thin, weighs 163g, and has the Snapdragon 8 Elite SoC at the helm. The Samsung Galaxy S2...",
       "url": "https://www.gsmarena.com/samsung_galaxy_s25_edge_usa_price_sale_date-news-68057.php",
       "publishedAt": "2025-05-31T16:40:02Z",
-      "processed_at": "2025-06-02T04:30:59.740262+00:00"
+      "processed_at": "2025-06-02T05:21:11.060548+00:00"
+    },
+    {
+      "title": "$200 for a Refurbished MacBook Air Is a Tough Deal to Beat - PCMag",
+      "source": {
+        "name": "PCMag.com"
+      },
+      "description": "Run both macOS and Windows, and enjoy all-day battery life in a lightweight package at a fraction of...",
+      "url": "https://www.pcmag.com/deals/200-for-a-refurbished-macbook-air-is-a-tough-deal-to-beat",
+      "publishedAt": "2025-05-31T16:00:40Z",
+      "processed_at": "2025-06-02T05:21:11.060548+00:00"
     },
     {
       "title": "Apple issues urgent warning to all 1.8 billion iPhone users - ladbible.com",
@@ -50,60 +80,20 @@
       "description": "iPhone users could be facing some serious security issues if they don't install the iOS 18.5 update...",
       "url": "https://www.ladbible.com/news/technology/iphone-users-urged-10s-185-update-355605-20250531",
       "publishedAt": "2025-05-31T15:58:14Z",
-      "processed_at": "2025-06-02T04:30:59.740262+00:00"
+      "processed_at": "2025-06-02T05:21:11.060548+00:00"
     },
     {
-      "title": "Your chatbot friend might be messing with your mind - The Washington Post",
+      "title": "Chevy Corvette ZR1 Cleanly Smokes Ferrari And Lamborghini In A Race - CarBuzz",
       "source": {
-        "name": "The Washington Post"
+        "name": "CarBuzz"
       },
-      "description": "OpenAI, Meta and others want people to spend more time with AI chatbots, but there is growing eviden...",
-      "url": "https://www.washingtonpost.com/technology/2025/05/31/ai-chatbots-user-influence-attention-chatgpt/",
-      "publishedAt": "2025-05-31T14:35:52Z",
-      "processed_at": "2025-06-02T04:30:59.740262+00:00"
-    },
-    {
-      "title": "FromSoft acknowledges issues with Elden Ring Nightreign matchmaking - Eurogamer",
-      "source": {
-        "name": "Eurogamer.net"
-      },
-      "description": "If you're jumping into Elden Ring Nightreign this weekend and are struggling to find a Player 2 - an...",
-      "url": "https://www.eurogamer.net/fromsoft-acknowledges-issues-with-elden-ring-nightreign-matchmaking",
-      "publishedAt": "2025-05-31T14:27:27Z",
-      "processed_at": "2025-06-02T04:30:59.740262+00:00"
-    },
-    {
-      "title": "Google quietly released an app that lets you download and run AI models locally - TechCrunch",
-      "source": {
-        "name": "TechCrunch"
-      },
-      "description": "Last week, Google quietly released an app, Google AI Edge Gallery, that lets users run a range of op...",
-      "url": "https://techcrunch.com/2025/05/31/google-quietly-released-an-app-that-lets-you-download-and-run-ai-models-locally/",
-      "publishedAt": "2025-05-31T14:04:46Z",
-      "processed_at": "2025-06-02T04:30:59.740262+00:00"
-    },
-    {
-      "title": "Sony’s DualSense Edge controller is receiving a rare $30 discount - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "The DualSense Edge is on sale for $169 as part of Sony’s annual Days of Play sale. You can also save...",
-      "url": "https://www.theverge.com/tech/677650/sony-dualsense-edge-controller-oura-ring-gen-3-deal-sale",
-      "publishedAt": "2025-05-31T14:00:00Z",
-      "processed_at": "2025-06-02T04:30:59.740262+00:00"
-    },
-    {
-      "title": "Windows 11 Pro Is Going for Pennies on the Dollar, a 92% Price Drop Makes It Almost Free - Gizmodo",
-      "source": {
-        "name": "Gizmodo.com"
-      },
-      "description": "The most powerful version of Windows yet comes with an improved interface, stronger security, and Co...",
-      "url": "https://gizmodo.com/windows-11-pro-is-going-for-pennies-on-the-dollar-a-92-price-drop-makes-it-almost-free-2000609058",
-      "publishedAt": "2025-05-31T13:40:08Z",
-      "processed_at": "2025-06-02T04:30:59.740262+00:00"
+      "description": "The Chevy Corvette ZR1 is yet again a worthy contender against European exotics, particularly from I...",
+      "url": "https://carbuzz.com/supercar-chevrolet-corvette-zr1-ferrari-sf90-lamborghini-revuelto-drag-race/",
+      "publishedAt": "2025-05-31T15:00:00Z",
+      "processed_at": "2025-06-02T05:21:11.060548+00:00"
     }
   ],
-  "lastUpdated": "2025-06-02T04:30:59.740332+00:00",
+  "lastUpdated": "2025-06-02T05:21:11.060645+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
