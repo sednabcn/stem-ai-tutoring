@@ -1,7 +1,37 @@
 {
   "status": "success",
-  "totalResults": 10,
+  "totalResults": 9,
   "articles": [
+    {
+      "title": "Nintendo Switch System Update 20.1.1 Is Now Live, Here Are The Full Patch Notes - nintendolife.com",
+      "source": {
+        "name": "Nintendo Life"
+      },
+      "description": "Another update before the Switch 2 arrives...",
+      "url": "https://www.nintendolife.com/news/2025/06/nintendo-switch-system-update-20-1-1-is-now-live-here-are-the-full-patch-notes",
+      "publishedAt": "2025-06-03T01:07:30Z",
+      "processed_at": "2025-06-04T03:17:00.221884+00:00"
+    },
+    {
+      "title": "Xbox sale round-up June 3, 2025 - DLC - TrueAchievements",
+      "source": {
+        "name": "TrueAchievements"
+      },
+      "description": "New Xbox sales are now live, with big discounts on Grand Theft Auto V, Red Dead Redemption 2, Red De...",
+      "url": "https://www.trueachievements.com/n59172/xbox-sale-roundup-june-3-2025-dlc",
+      "publishedAt": "2025-06-03T00:31:25Z",
+      "processed_at": "2025-06-04T03:17:00.221884+00:00"
+    },
+    {
+      "title": "Court documents reveal OpenAI is coming for your iPhone - 9to5Mac",
+      "source": {
+        "name": "9to5Mac"
+      },
+      "description": "A recently unsealed OpenAI file outlines the company’s ambitions for ChatGPT. They’re coming for Sir...",
+      "url": "https://9to5mac.com/2025/06/02/openai-is-coming-for-your-iphone/",
+      "publishedAt": "2025-06-02T23:35:00Z",
+      "processed_at": "2025-06-04T03:17:00.221884+00:00"
+    },
     {
       "title": "Porsche Still Offers The Single Greatest And Possibly Most Excessive Feature In All Of Automobiles - The Autopian",
       "source": {
@@ -10,7 +40,27 @@
       "description": "I briefly had a new Porsche 718 Boxster GTS 4.0 in white for the weekend and I was reminded that Por...",
       "url": "https://www.theautopian.com/porsche-still-offers-the-single-greatest-and-possibly-most-excessive-feature-in-all-of-automobiles/",
       "publishedAt": "2025-06-02T23:09:19Z",
-      "processed_at": "2025-06-04T01:45:45.351839+00:00"
+      "processed_at": "2025-06-04T03:17:00.221884+00:00"
+    },
+    {
+      "title": "Outfit 3 for Elena, M. Bison, Terry and Mai revealed for Street Fighter 6 - EventHubs",
+      "source": {
+        "name": "EventHubs"
+      },
+      "description": "",
+      "url": "https://www.eventhubs.com/news/2025/jun/02/street-fighter-outfit-3-dlc/",
+      "publishedAt": "2025-06-02T23:07:18Z",
+      "processed_at": "2025-06-04T03:17:00.221884+00:00"
+    },
+    {
+      "title": "Microsoft will finally stop bugging Windows users about Edge — but only in Europe - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "Microsoft’s changes to Windows 10 and 11 in countries covered by the EU’s Digital Markets Act will m...",
+      "url": "https://www.theverge.com/news/678350/microsoft-dma-windows-10-11-bing-edge",
+      "publishedAt": "2025-06-02T22:40:34Z",
+      "processed_at": "2025-06-04T03:17:00.221884+00:00"
     },
     {
       "title": "Microsoft belatedly attempts to tame USB-C confusion with its rules for PC OEMs - Ars Technica",
@@ -20,7 +70,17 @@
       "description": "USB-C ports have always supported different capabilities on different systems....",
       "url": "https://arstechnica.com/gadgets/2025/06/microsoft-belatedly-attempts-to-tame-usb-c-confusion-with-its-rules-for-pc-oems/",
       "publishedAt": "2025-06-02T21:19:48Z",
-      "processed_at": "2025-06-04T01:45:45.351839+00:00"
+      "processed_at": "2025-06-04T03:17:00.221884+00:00"
+    },
+    {
+      "title": "By Adding This Free Carry Bag to Your Cart, The Anker Solix Power Station Drops 50% in Price on Amazon - Gizmodo",
+      "source": {
+        "name": "Gizmodo.com"
+      },
+      "description": "If you've been considering a portable power station, this is the kind of deal that doesn’t come arou...",
+      "url": "https://gizmodo.com/by-adding-this-free-carry-bag-to-your-cart-the-anker-solix-power-station-drops-50-in-price-on-amazon-2000610249",
+      "publishedAt": "2025-06-02T21:18:48Z",
+      "processed_at": "2025-06-04T03:17:00.221884+00:00"
     },
     {
       "title": "WhatsApp is finally getting usernames - 9to5Mac",
@@ -30,80 +90,10 @@
       "description": "WhatsApp is gearing up to launch a long-awaited feature: usernames, so users can connect with others...",
       "url": "https://9to5mac.com/2025/06/02/whatsapp-getting-usernames/",
       "publishedAt": "2025-06-02T21:17:00Z",
-      "processed_at": "2025-06-04T01:45:45.351839+00:00"
-    },
-    {
-      "title": "Microsoft Bing gets a free Sora-powered AI video generator - TechCrunch",
-      "source": {
-        "name": "TechCrunch"
-      },
-      "description": "For the first time, OpenAI's Sora video generator will be available for free as it comes to the Micr...",
-      "url": "https://techcrunch.com/2025/06/02/microsoft-bing-gets-a-free-sora-powered-ai-video-generator/",
-      "publishedAt": "2025-06-02T20:16:55Z",
-      "processed_at": "2025-06-04T01:45:45.351839+00:00"
-    },
-    {
-      "title": "Star Wars: Hunters Publisher Shutters Studio Founded by Torchlight, Diablo Creator Before It Could Announce Its New Game - IGN",
-      "source": {
-        "name": "IGN"
-      },
-      "description": "",
-      "url": "https://www.ign.com/articles/star-wars-hunters-publisher-shutters-studio-founded-by-torchlight-diablo-creator-before-it-could-announce-its-new-game",
-      "publishedAt": "2025-06-02T20:07:45Z",
-      "processed_at": "2025-06-04T01:45:45.351839+00:00"
-    },
-    {
-      "title": "Google Pixel’s Now Playing feature prepares Quick Settings tile for manual search - 9to5Google",
-      "source": {
-        "name": "9to5google.com"
-      },
-      "description": "Google appears to be preparing a new Quick Settings shortcut for Now Playing, but it's unclear when ...",
-      "url": "http://9to5google.com/2025/06/02/google-pixel-now-playing-quick-settings-shortcut-prep/",
-      "publishedAt": "2025-06-02T19:40:00Z",
-      "processed_at": "2025-06-04T01:45:45.351839+00:00"
-    },
-    {
-      "title": "How to watch Apple’s WWDC keynote with iOS 26 and more - 9to5Mac",
-      "source": {
-        "name": "9to5Mac"
-      },
-      "description": "Apple’s WWDC 2025 kicks off next week with a keynote unveiling of iOS 26 and more, here’s how to wat...",
-      "url": "https://9to5mac.com/2025/06/02/how-to-watch-wwdc-2025-keynote-with-ios-26-and-more/",
-      "publishedAt": "2025-06-02T19:26:00Z",
-      "processed_at": "2025-06-04T01:45:45.351839+00:00"
-    },
-    {
-      "title": "Salesforce buys Moonhub, a startup building AI tools for hiring - TechCrunch",
-      "source": {
-        "name": "TechCrunch"
-      },
-      "description": "Salesforce has quietly snapped up Moonhub, a startup building AI to vet and hire talent. The terms o...",
-      "url": "https://techcrunch.com/2025/06/02/salesforce-buys-moonhub-a-startup-building-ai-tools-for-hiring/",
-      "publishedAt": "2025-06-02T18:55:43Z",
-      "processed_at": "2025-06-04T01:45:45.351839+00:00"
-    },
-    {
-      "title": "Samsung could drop Google Gemini in favor of Perplexity for Galaxy S26 - Ars Technica",
-      "source": {
-        "name": "Ars Technica"
-      },
-      "description": "This move would reduce Samsung’s reliance on Google....",
-      "url": "https://arstechnica.com/gadgets/2025/06/samsung-could-drop-google-gemini-in-favor-of-perplexity-for-galaxy-s26/",
-      "publishedAt": "2025-06-02T18:52:05Z",
-      "processed_at": "2025-06-04T01:45:45.351839+00:00"
-    },
-    {
-      "title": "PS5 shooter goes from 5 players to bestseller after devs defend game - Polygon",
-      "source": {
-        "name": "Polygon"
-      },
-      "description": "An action figure shooter called Hypercharge has climbed up the PS5 charts after its developers poste...",
-      "url": "https://www.polygon.com/news/602867/hypercharge-ps5-shooter-bestseller-devs-defend-game",
-      "publishedAt": "2025-06-02T18:43:55Z",
-      "processed_at": "2025-06-04T01:45:45.351839+00:00"
+      "processed_at": "2025-06-04T03:17:00.221884+00:00"
     }
   ],
-  "lastUpdated": "2025-06-04T01:45:45.351931+00:00",
+  "lastUpdated": "2025-06-04T03:17:00.221953+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
