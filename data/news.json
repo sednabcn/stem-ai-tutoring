@@ -1,7 +1,67 @@
 {
   "status": "success",
-  "totalResults": 10,
+  "totalResults": 8,
   "articles": [
+    {
+      "title": "The Nintendo Switch 2 is here: all of the launch news - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "After a long wait filled with leaks, reveals, preorder stress, and hands-on event, the Nintendo Swit...",
+      "url": "https://www.theverge.com/news/676901/nintendo-switch-2-launch-here",
+      "publishedAt": "2025-06-04T14:00:00Z",
+      "processed_at": "2025-06-05T13:33:06.846090+00:00"
+    },
+    {
+      "title": "iOS 26 to Upgrade CarPlay in Two Ways - MacRumors",
+      "source": {
+        "name": "MacRumors"
+      },
+      "description": "While the spotlight has been on CarPlay Ultra lately, the regular version of CarPlay is set to recei...",
+      "url": "https://www.macrumors.com/2025/06/04/ios-26-to-upgrade-carplay-in-two-ways/",
+      "publishedAt": "2025-06-04T13:24:29Z",
+      "processed_at": "2025-06-05T13:33:06.846090+00:00"
+    },
+    {
+      "title": "No Man’s Sky update adds city-builder elements and Switch 2 compatibility - Polygon",
+      "source": {
+        "name": "Polygon"
+      },
+      "description": "The 9-year-old game is getting another big update, this time with city-building elements and a free ...",
+      "url": "https://www.polygon.com/news/603493/no-mans-sky-beacon-update-switch-2-compatibility",
+      "publishedAt": "2025-06-04T13:00:00Z",
+      "processed_at": "2025-06-05T13:33:06.846090+00:00"
+    },
+    {
+      "title": "Mario Kart World 1.1.0 update out now, patch notes - Nintendo Everything",
+      "source": {
+        "name": "Nintendoeverything.com"
+      },
+      "description": "Mario Kart World gets version 1.1.0 update in time for launch on Nintendo Switch 2, and you can chec...",
+      "url": "https://nintendoeverything.com/mario-kart-world-1-1-0-update-out-now-patch-notes/",
+      "publishedAt": "2025-06-04T12:37:04Z",
+      "processed_at": "2025-06-05T13:33:06.846090+00:00"
+    },
+    {
+      "title": "Google Pixel 10 series launch date might actually be August 20 [Update] - 9to5Google",
+      "source": {
+        "name": "9to5google.com"
+      },
+      "description": "According to a fairly reliable leaker, Google will launch the Pixel 10 series in mid-August, right i...",
+      "url": "http://9to5google.com/2025/06/04/google-pixel-10-series-will-launch-on-august-13-leaker-claims/",
+      "publishedAt": "2025-06-04T12:35:00Z",
+      "processed_at": "2025-06-05T13:33:06.846090+00:00"
+    },
+    {
+      "title": "Ex-Apple Designer Reveals 'Living Glass' iOS 26 Concepts - MacRumors",
+      "source": {
+        "name": "MacRumors"
+      },
+      "description": "Designer Sebastiaan de With has published an impressive preview of what Apple's rumored iOS redesign...",
+      "url": "https://www.macrumors.com/2025/06/04/ex-apple-designer-living-glass-ios-concepts/",
+      "publishedAt": "2025-06-04T11:17:01Z",
+      "processed_at": "2025-06-05T13:33:06.846090+00:00"
+    },
     {
       "title": "Behind the Curtain: Your AI survival kit - Axios",
       "source": {
@@ -10,100 +70,20 @@
       "description": "There are many generative AI models you can use now for free. Here's a cheat sheet...",
       "url": "https://www.axios.com/2025/06/04/ai-cheat-sheet-chatgpt-grok-gemini-claude",
       "publishedAt": "2025-06-04T09:38:53Z",
-      "processed_at": "2025-06-05T12:42:36.227226+00:00"
+      "processed_at": "2025-06-05T13:33:06.846090+00:00"
     },
     {
-      "title": "Pokémon Violet and Scarlet’s Switch 2 update is as good as it looks - The Verge",
+      "title": "Today's NYT Strands Hints, Answers and Help for June 4, #458 - CNET",
       "source": {
-        "name": "The Verge"
+        "name": "CNET"
       },
-      "description": "The free Nintendo Switch 2 update for Pokémon Scarlet and Violet is a significant improvement to per...",
-      "url": "https://www.theverge.com/nintendo/679031/pokemon-violet-scarlet-switch-2-update-hands-on",
-      "publishedAt": "2025-06-04T04:00:00Z",
-      "processed_at": "2025-06-05T12:42:36.227226+00:00"
-    },
-    {
-      "title": "PSA: Switch 2 Updates For Multiple First-Party Switch Games Are Now Available - Nintendo Life",
-      "source": {
-        "name": "Nintendo Life"
-      },
-      "description": "Updates for Mario Wonder, 3D All-Stars and much more!...",
-      "url": "https://www.nintendolife.com/news/2025/06/psa-switch-2-updates-for-multiple-first-party-switch-games-are-now-available",
-      "publishedAt": "2025-06-04T04:00:00Z",
-      "processed_at": "2025-06-05T12:42:36.227226+00:00"
-    },
-    {
-      "title": "WWDC 2025: iOS 26 Rumored Features - MacRumors",
-      "source": {
-        "name": "MacRumors"
-      },
-      "description": "The 2025 Worldwide Developers Conference is coming up quick, with less than a week to go before the ...",
-      "url": "https://www.macrumors.com/2025/06/03/wwdc-2025-ios-26-rumors/",
-      "publishedAt": "2025-06-03T23:49:48Z",
-      "processed_at": "2025-06-05T12:42:36.227226+00:00"
-    },
-    {
-      "title": "Meta pauses mobile port tracking tech on Android after researchers cry foul - theregister.com",
-      "source": {
-        "name": "Theregister.com"
-      },
-      "description": ": Zuckercorp and Yandex used localhost loophole to tie browser data to app users, say boffins...",
-      "url": "https://www.theregister.com/2025/06/03/meta_pauses_android_tracking_tech/",
-      "publishedAt": "2025-06-03T23:18:00Z",
-      "processed_at": "2025-06-05T12:42:36.227226+00:00"
-    },
-    {
-      "title": "Samsung confirms the Galaxy Z Fold 7 will bring bigger cover and foldable displays - SamMobile",
-      "source": {
-        "name": "SamMobile"
-      },
-      "description": "On Tuesday, we reported that Samsung is rolling out a software update to the Galaxy Buds 2 Pro. Well...",
-      "url": "https://www.sammobile.com/news/galaxy-buds-2-stability-improving-software-update/",
-      "publishedAt": "2025-06-03T23:03:45Z",
-      "processed_at": "2025-06-05T12:42:36.227226+00:00"
-    },
-    {
-      "title": "Major US retailers cancel Nintendo Switch 2 pre-orders - GamesIndustry.biz",
-      "source": {
-        "name": "GamesIndustry.biz"
-      },
-      "description": "Major retailers in the US have started contacting customers to inform them their Nintendo Switch 2 p...",
-      "url": "https://www.gamesindustry.biz/major-us-retailers-cancel-nintendo-switch-2-pre-orders",
-      "publishedAt": "2025-06-03T21:58:03Z",
-      "processed_at": "2025-06-05T12:42:36.227226+00:00"
-    },
-    {
-      "title": "Ditch Your AirPods: Galaxy Buds 3 Pro AI Earbuds Just Hit Their Lowest Price Ever on Amazon - Gizmodo",
-      "source": {
-        "name": "Gizmodo.com"
-      },
-      "description": "These earbuds could be the best out there, and they have real AI features that make listening better...",
-      "url": "https://gizmodo.com/ditch-your-airpods-galaxy-buds-3-pro-ai-earbuds-just-hit-their-lowest-price-ever-on-amazon-2000610796",
-      "publishedAt": "2025-06-03T21:29:47Z",
-      "processed_at": "2025-06-05T12:42:36.227226+00:00"
-    },
-    {
-      "title": "Mario Kart World Is Not An Open-World Game, Nintendo Says - GameSpot",
-      "source": {
-        "name": "GameSpot"
-      },
-      "description": "\"We actually don't use the phrase 'open-world' in development.\"...",
-      "url": "https://www.gamespot.com/articles/mario-kart-world-is-not-an-open-world-game-nintendo-says/1100-6532034/",
-      "publishedAt": "2025-06-03T19:00:22Z",
-      "processed_at": "2025-06-05T12:42:36.227226+00:00"
-    },
-    {
-      "title": "Phone chipmaker Qualcomm fixes three zero-days exploited by hackers - TechCrunch",
-      "source": {
-        "name": "TechCrunch"
-      },
-      "description": "Google's Threat Analysis Group, which investigates government-backed hacks, was credited with the di...",
-      "url": "https://techcrunch.com/2025/06/03/phone-chipmaker-qualcomm-fixes-three-zero-days-exploited-by-hackers/",
-      "publishedAt": "2025-06-03T18:59:57Z",
-      "processed_at": "2025-06-05T12:42:36.227226+00:00"
+      "description": "Here's today's Strands answers and hints. These clues will help you solve The New York Times' popula...",
+      "url": "https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-june-4-458/",
+      "publishedAt": "2025-06-04T09:00:00Z",
+      "processed_at": "2025-06-05T13:33:06.846090+00:00"
     }
   ],
-  "lastUpdated": "2025-06-05T12:42:36.227298+00:00",
+  "lastUpdated": "2025-06-05T13:33:06.846163+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
