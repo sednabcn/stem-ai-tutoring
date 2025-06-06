@@ -1,7 +1,37 @@
 {
   "status": "success",
-  "totalResults": 9,
+  "totalResults": 10,
   "articles": [
+    {
+      "title": "Nintendo Switch 2 guide: pre-order links, accessories and launch games - The Shortcut | Matt Swider",
+      "source": {
+        "name": "Theshortcut.com"
+      },
+      "description": "10 tech stories in the quickest format possible...",
+      "url": "https://www.theshortcut.com/p/nintendo-switch-2-guide-pre-order-live",
+      "publishedAt": "2025-06-05T03:05:04Z",
+      "processed_at": "2025-06-06T05:20:54.802204+00:00"
+    },
+    {
+      "title": "Mortal Kombat: Legacy Kollection Comes To Switch And Switch 2 In 2025 - Nintendo Life",
+      "source": {
+        "name": "Nintendo Life"
+      },
+      "description": "\"The most komplete kollection ever\"...",
+      "url": "https://www.nintendolife.com/news/2025/06/mortal-kombat-legacy-kollection-comes-to-switch-and-switch-2-in-2025",
+      "publishedAt": "2025-06-04T23:55:00Z",
+      "processed_at": "2025-06-06T05:20:54.802204+00:00"
+    },
+    {
+      "title": "PlayStation State of Play June 2025: Everything Announced - IGN",
+      "source": {
+        "name": "IGN"
+      },
+      "description": "",
+      "url": "https://www.ign.com/articles/playstation-state-of-play-june-2025-everything-announced",
+      "publishedAt": "2025-06-04T23:03:45Z",
+      "processed_at": "2025-06-06T05:20:54.802204+00:00"
+    },
     {
       "title": "Final Fantasy Tactics Remake Is Happening: Trailer And Release Date Announced During State Of Play - GameSpot",
       "source": {
@@ -10,17 +40,7 @@
       "description": "After months of rumors and speculation, Square Enix revealed the return of Final Fantasy's tactical ...",
       "url": "https://www.gamespot.com/articles/final-fantasy-tactics-remake-is-happening-trailer-and-release-date-announced-during-state-of-play/1100-6532075/",
       "publishedAt": "2025-06-04T22:37:09Z",
-      "processed_at": "2025-06-06T04:28:02.028355+00:00"
-    },
-    {
-      "title": "Nioh 3 Announced for PS5, Demo Out Now for Two Weeks - Push Square",
-      "source": {
-        "name": "Push Square"
-      },
-      "description": "Try the new action game today...",
-      "url": "https://www.pushsquare.com/news/2025/06/nioh-3-announced-for-ps5-demo-out-now-for-two-weeks",
-      "publishedAt": "2025-06-04T22:25:24Z",
-      "processed_at": "2025-06-06T04:28:02.028355+00:00"
+      "processed_at": "2025-06-06T05:20:54.802204+00:00"
     },
     {
       "title": "New filament lets you 3D-print parts in authentic 1980s Apple computer color - Ars Technica",
@@ -30,57 +50,27 @@
       "description": "Mac fan paid $900 to color-match iconic Apple beige-gray “Platinum” plastic for everyone....",
       "url": "https://arstechnica.com/apple/2025/06/new-filament-lets-you-3d-print-parts-in-authentic-1980s-apple-computer-color/",
       "publishedAt": "2025-06-04T22:13:53Z",
-      "processed_at": "2025-06-06T04:28:02.028355+00:00"
+      "processed_at": "2025-06-06T05:20:54.802204+00:00"
     },
     {
-      "title": "James Bond game 007 First Light gets first trailer - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "Hitman developer IO Interactive revealed the first look at James Bond game 007 First Light, which la...",
-      "url": "https://www.theverge.com/news/679909/007-first-light-trailer-james-bond",
-      "publishedAt": "2025-06-04T21:52:03Z",
-      "processed_at": "2025-06-06T04:28:02.028355+00:00"
-    },
-    {
-      "title": "Mortal Kombat: Legacy Kollection Is a Classic Fighting Bundle With New Features Coming Later This Year - IGN",
+      "title": "007 First Light Reveals New, Young James Bond, With The Walking Dead's Lennie James Set to Co-Star - IGN",
       "source": {
         "name": "IGN"
       },
-      "description": "Digital Eclipse’s next game collection is Mortal Kombat: Legacy Kollection, a bundle of classic figh...",
-      "url": "https://www.ign.com/articles/mortal-kombat-legacy-kollection-is-a-classic-fighting-bundle-with-new-features-coming-later-this-year",
-      "publishedAt": "2025-06-04T21:42:38Z",
-      "processed_at": "2025-06-06T04:28:02.028355+00:00"
+      "description": "Today's PlayStation State of Play has provided our first proper look at 007 First Light, the upcomin...",
+      "url": "https://www.ign.com/articles/007-first-light-reveals-new-young-james-bond-with-the-walking-deads-lennie-james-set-to-co-star",
+      "publishedAt": "2025-06-04T21:52:32Z",
+      "processed_at": "2025-06-06T05:20:54.802204+00:00"
     },
     {
-      "title": "Here’s how much storage space the Switch 2 actually has - Polygon",
+      "title": "Apple could be adding camera controls and sleep detection to your AirPods - The Verge",
       "source": {
-        "name": "Polygon"
+        "name": "The Verge"
       },
-      "description": "Switch 2’s 256 GB of built-in internal storage isn’t all available for games and other user data. He...",
-      "url": "https://www.polygon.com/nintendo-switch-2/603892/storage-space-capacity-size-ufs",
-      "publishedAt": "2025-06-04T21:02:01Z",
-      "processed_at": "2025-06-06T04:28:02.028355+00:00"
-    },
-    {
-      "title": "Wyze Says ‘Screw It’ and Shoves a Camera Into Its Latest Smart Bulb - Gizmodo",
-      "source": {
-        "name": "Gizmodo.com"
-      },
-      "description": "We can't decide if this is a great or terrible idea for your smart home....",
-      "url": "https://gizmodo.com/wyze-bulb-cam-smart-light-bulb-camera-2000611203",
-      "publishedAt": "2025-06-04T19:50:40Z",
-      "processed_at": "2025-06-06T04:28:02.028355+00:00"
-    },
-    {
-      "title": "Walmart Nintendo Switch 2 pre-order confirmed: what time it'll be in stock online - The Shortcut | Matt Swider",
-      "source": {
-        "name": "Theshortcut.com"
-      },
-      "description": "Walmart has confirmed that it'll have an online Switch 2 pre-order restock, and we've tracked down t...",
-      "url": "https://www.theshortcut.com/p/walmart-nintendo-switch-2-pre-order-tonight",
-      "publishedAt": "2025-06-04T18:24:43Z",
-      "processed_at": "2025-06-06T04:28:02.028355+00:00"
+      "description": "Apple is working on a bunch of new features for AirPods, including a way to control your cameras wit...",
+      "url": "https://www.theverge.com/news/679930/apple-airpods-camera-controls-sleep-detection-wwdc-rumor",
+      "publishedAt": "2025-06-04T21:12:31Z",
+      "processed_at": "2025-06-06T05:20:54.802204+00:00"
     },
     {
       "title": "Review: At $349, AMD’s 16GB Radeon RX 9060 XT is the new midrange GPU to beat - Ars Technica",
@@ -90,10 +80,30 @@
       "description": "If that $349 price is real then it’s a great deal; if it’s not real, it depends....",
       "url": "https://arstechnica.com/gadgets/2025/06/review-at-349-amds-16gb-radeon-rx-9060-xt-is-the-new-midrange-gpu-to-beat/",
       "publishedAt": "2025-06-04T17:42:55Z",
-      "processed_at": "2025-06-06T04:28:02.028355+00:00"
+      "processed_at": "2025-06-06T05:20:54.802204+00:00"
+    },
+    {
+      "title": "Review | 5 AI bots took our tough reading test. One was smartest — and it wasn’t ChatGPT. - The Washington Post",
+      "source": {
+        "name": "The Washington Post"
+      },
+      "description": "We challenged AI helpers to decode legal contracts, simplify medical research, speed-read a novel an...",
+      "url": "https://www.washingtonpost.com/technology/2025/06/04/ai-summarizers-analysis-test-documents-books/",
+      "publishedAt": "2025-06-04T16:29:08Z",
+      "processed_at": "2025-06-06T05:20:54.802204+00:00"
+    },
+    {
+      "title": "Meta found 'covertly tracking' Android users through Instagram and Facebook - Sky News",
+      "source": {
+        "name": "Sky.com"
+      },
+      "description": "",
+      "url": "https://news.sky.com/story/meta-found-covertly-tracking-android-users-through-instagram-and-facebook-13379083",
+      "publishedAt": "2025-06-04T15:47:35Z",
+      "processed_at": "2025-06-06T05:20:54.802204+00:00"
     }
   ],
-  "lastUpdated": "2025-06-06T04:28:02.028444+00:00",
+  "lastUpdated": "2025-06-06T05:20:54.802281+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
