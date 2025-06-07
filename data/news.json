@@ -1,7 +1,57 @@
 {
   "status": "success",
-  "totalResults": 9,
+  "totalResults": 8,
   "articles": [
+    {
+      "title": "Google Gemini can now handle scheduled tasks like an assistant - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "Google is rolling out a new “scheduled actions” feature in Gemini that lets subscribers ask Gemini t...",
+      "url": "https://www.theverge.com/news/681762/google-gemini-scheduled-actions-planned-tasks",
+      "publishedAt": "2025-06-06T19:39:34Z",
+      "processed_at": "2025-06-07T19:15:34.991661+00:00"
+    },
+    {
+      "title": "Millions of low-cost Android devices turn home networks into crime platforms - Ars Technica",
+      "source": {
+        "name": "Ars Technica"
+      },
+      "description": "BadBox malware has been menacing low-cost Android devices for nearly a decade....",
+      "url": "https://arstechnica.com/security/2025/06/millions-of-low-cost-android-devices-turn-home-networks-into-crime-platforms/",
+      "publishedAt": "2025-06-06T19:15:28Z",
+      "processed_at": "2025-06-07T19:15:34.991661+00:00"
+    },
+    {
+      "title": "Fool Me Eight Times: ‘Cyberpunk 2077’ Releasing Big New 2.3 Patch Soon - Forbes",
+      "source": {
+        "name": "Forbes"
+      },
+      "description": "CDPR has previously made a big show of the fact that it was moving on to Cyberpunk 2077’s next itera...",
+      "url": "https://www.forbes.com/sites/paultassi/2025/06/06/fool-me-eight-times-cyberpunk-2077-releasing-big-new-23-patch-soon/",
+      "publishedAt": "2025-06-06T17:58:57Z",
+      "processed_at": "2025-06-07T19:15:34.991661+00:00"
+    },
+    {
+      "title": "Breath of the Wild’s Switch 2 enhancements have me exploring Hyrule all over again - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "The Legend of Zelda: Breath of the Wild – Nintendo Switch 2 Edition is much improved from the origin...",
+      "url": "https://www.theverge.com/nintendo/681361/nintendo-switch-2-zelda-breath-of-the-wild-edition",
+      "publishedAt": "2025-06-06T16:35:00Z",
+      "processed_at": "2025-06-07T19:15:34.991661+00:00"
+    },
+    {
+      "title": "Apple could show off revamped Phone, Safari, and Camera apps next week - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "Apple is preparing to make major design changes to its Phone, Safari, and Camera apps as part of a b...",
+      "url": "https://www.theverge.com/news/681416/apple-revamp-phone-safari-camera-apps-wwdc-rumor",
+      "publishedAt": "2025-06-06T16:15:11Z",
+      "processed_at": "2025-06-07T19:15:34.991661+00:00"
+    },
     {
       "title": "Princess Peach’s voice actor of 18 years confirms she’s been replaced - Video Games Chronicle",
       "source": {
@@ -10,17 +60,7 @@
       "description": "Nintendo has recast the roles of Peach and Toad previously voiced by Samantha Kelly...",
       "url": "https://www.videogameschronicle.com/news/princess-peachs-voice-actor-of-18-years-confirms-shes-been-replaced/",
       "publishedAt": "2025-06-06T15:23:19Z",
-      "processed_at": "2025-06-07T18:26:59.153608+00:00"
-    },
-    {
-      "title": "iOS 19: All the rumored changes Apple could be bringing to its new operating system - TechCrunch",
-      "source": {
-        "name": "TechCrunch"
-      },
-      "description": "As Apple prepares to unveil iOS 19 at WWDC 2025, several rumors have surfaced, including a potential...",
-      "url": "https://techcrunch.com/2025/06/06/ios-19-all-the-rumored-changes-apple-could-be-bringing-to-its-new-operating-system/",
-      "publishedAt": "2025-06-06T15:23:17Z",
-      "processed_at": "2025-06-07T18:26:59.153608+00:00"
+      "processed_at": "2025-06-07T19:15:34.991661+00:00"
     },
     {
       "title": "Mario Kart World Guide - All Courses, Cups, Missions, Collectibles, Tips & Tricks - Nintendo Life",
@@ -30,70 +70,20 @@
       "description": "Your ultimate Mario Kart World resource...",
       "url": "https://www.nintendolife.com/guides/mario-kart-world-guide-all-courses-cups-missions-collectibles-tips-and-tricks",
       "publishedAt": "2025-06-06T13:50:00Z",
-      "processed_at": "2025-06-07T18:26:59.153608+00:00"
+      "processed_at": "2025-06-07T19:15:34.991661+00:00"
     },
     {
-      "title": "Dune Awakening Proves A Massive PC Hit, Despite Competition From Switch 2 Release - Kotaku",
+      "title": "watchOS 26 and tvOS 26 will support these Apple Watch and Apple TV models - 9to5Mac",
       "source": {
-        "name": "Kotaku"
+        "name": "9to5Mac"
       },
-      "description": "The Funcom MMO isn't officially out until June 10, but its advanced access is wildly popular...",
-      "url": "https://kotaku.com/dune-awakening-survival-mmo-funcom-advanced-access-1851783808",
-      "publishedAt": "2025-06-06T13:30:00Z",
-      "processed_at": "2025-06-07T18:26:59.153608+00:00"
-    },
-    {
-      "title": "F-Zero GX on Switch 2 is virtually unplayable without remapping the controls - Eurogamer",
-      "source": {
-        "name": "Eurogamer.net"
-      },
-      "description": "F-Zero GX has arrived on Switch 2 as part of its GameCube collection, but the default controls make ...",
-      "url": "https://www.eurogamer.net/f-zero-gx-on-switch-2-is-virtually-unplayable-without-remapping-the-controls",
-      "publishedAt": "2025-06-06T11:56:51Z",
-      "processed_at": "2025-06-07T18:26:59.153608+00:00"
-    },
-    {
-      "title": "watchOS 26 to Support These Apple Watch Models - MacRumors",
-      "source": {
-        "name": "MacRumors"
-      },
-      "description": "Apple's upcoming watchOS 26 software update will support all Apple Watch models that are compatible ...",
-      "url": "https://www.macrumors.com/2025/06/06/watchos-26-support-these-apple-watch-models/",
-      "publishedAt": "2025-06-06T10:22:45Z",
-      "processed_at": "2025-06-07T18:26:59.153608+00:00"
-    },
-    {
-      "title": "I can't believe it, but it seems we're finally getting a Persona 4 remake! - Windows Central",
-      "source": {
-        "name": "Windows Central"
-      },
-      "description": "We are able to corroborate that Persona 4 remake will be at the Xbox Games Showcase on June 8....",
-      "url": "https://www.windowscentral.com/gaming/persona-4-remake-rumor-for-xbox-games-showcase",
-      "publishedAt": "2025-06-06T10:14:56Z",
-      "processed_at": "2025-06-07T18:26:59.153608+00:00"
-    },
-    {
-      "title": "AMD Radeon RX 9060 XT 8GB Review: Not Good - TechSpot",
-      "source": {
-        "name": "TechSpot"
-      },
-      "description": "AMD's Radeon 9060 XT offers solid performance with 16GB of VRAM (but not with half that amount), but...",
-      "url": "https://www.techspot.com/review/2997-amd-radeon-9060-xt-8gb/",
-      "publishedAt": "2025-06-06T10:14:00Z",
-      "processed_at": "2025-06-07T18:26:59.153608+00:00"
-    },
-    {
-      "title": "963 RSP Revealed: Meet Porsche's Street-Legal Le Mans Hypercar - Motor1.com",
-      "source": {
-        "name": "Motor1 "
-      },
-      "description": "Despite niceties like a fully trimmed interior and silver paintwork, the Porsche 963 RSP is an hones...",
-      "url": "https://www.motor1.com/news/761849/porsche-963-rsp-reveal/",
-      "publishedAt": "2025-06-06T10:03:19Z",
-      "processed_at": "2025-06-07T18:26:59.153608+00:00"
+      "description": "WWDC is almost here, and there’s reportedly good news in store for watchOS 26 and tvOS 26 when it co...",
+      "url": "https://9to5mac.com/2025/06/06/watchos-26-and-tvos-26-support-apple-watch-tv-models/",
+      "publishedAt": "2025-06-06T13:47:00Z",
+      "processed_at": "2025-06-07T19:15:34.991661+00:00"
     }
   ],
-  "lastUpdated": "2025-06-07T18:26:59.153679+00:00",
+  "lastUpdated": "2025-06-07T19:15:34.991737+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
