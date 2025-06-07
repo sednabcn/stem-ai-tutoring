@@ -1,7 +1,67 @@
 {
   "status": "success",
-  "totalResults": 10,
+  "totalResults": 9,
   "articles": [
+    {
+      "title": "Everything Apple Plans to Show at Its iOS 26-Focused WWDC 2025 Event - Bloomberg.com",
+      "source": {
+        "name": "Bloomberg"
+      },
+      "description": "Company set to highlight software redesigns as it remains on sidelines of AI revolution....",
+      "url": "https://www.bloomberg.com/news/articles/2025-06-06/apple-wwdc-2025-preview-ios-26-macos-26-new-ai-features-ipados-26-redesigns",
+      "publishedAt": "2025-06-06T14:00:13Z",
+      "processed_at": "2025-06-07T13:27:20.261221+00:00"
+    },
+    {
+      "title": "Summer Game Fest Live 2025: Start Time, How To Watch, And What To Expect - GameSpot",
+      "source": {
+        "name": "GameSpot"
+      },
+      "description": "Summer is upon us, and with it comes a Game Fest....",
+      "url": "https://www.gamespot.com/articles/summer-game-fest-live-2025-start-time-how-to-watch-and-what-to-expect/1100-6532168/",
+      "publishedAt": "2025-06-06T13:22:52Z",
+      "processed_at": "2025-06-07T13:27:20.261221+00:00"
+    },
+    {
+      "title": "Grab a free Steam key for Dune Awakening’s $70 Deluxe Edition - PCGamesN",
+      "source": {
+        "name": "PCGamesN"
+      },
+      "description": "We've got ten Steam keys to give away for the Deluxe Edition of Dune Awakening, giving you the chanc...",
+      "url": "https://www.pcgamesn.com/dune-awakening/steam-key-free",
+      "publishedAt": "2025-06-06T11:25:04Z",
+      "processed_at": "2025-06-07T13:27:20.261221+00:00"
+    },
+    {
+      "title": "watchOS 26 to Support These Apple Watch Models - MacRumors",
+      "source": {
+        "name": "MacRumors"
+      },
+      "description": "Apple's upcoming watchOS 26 software update will support all Apple Watch models that are compatible ...",
+      "url": "https://www.macrumors.com/2025/06/06/watchos-26-support-these-apple-watch-models/",
+      "publishedAt": "2025-06-06T10:22:45Z",
+      "processed_at": "2025-06-07T13:27:20.261221+00:00"
+    },
+    {
+      "title": "I can't believe it, but it seems we're finally getting a Persona 4 remake! - Windows Central",
+      "source": {
+        "name": "Windows Central"
+      },
+      "description": "We are able to corroborate that Persona 4 remake will be at the Xbox Games Showcase on June 8....",
+      "url": "https://www.windowscentral.com/gaming/persona-4-remake-rumor-for-xbox-games-showcase",
+      "publishedAt": "2025-06-06T10:14:56Z",
+      "processed_at": "2025-06-07T13:27:20.261221+00:00"
+    },
+    {
+      "title": "AMD Radeon RX 9060 XT 8GB Review: Not Good - TechSpot",
+      "source": {
+        "name": "TechSpot"
+      },
+      "description": "AMD's Radeon 9060 XT offers solid performance with 16GB of VRAM (but not with half that amount), but...",
+      "url": "https://www.techspot.com/review/2997-amd-radeon-9060-xt-8gb/",
+      "publishedAt": "2025-06-06T10:14:00Z",
+      "processed_at": "2025-06-07T13:27:20.261221+00:00"
+    },
     {
       "title": "963 RSP Revealed: Meet Porsche's Street-Legal Le Mans Hypercar - Motor1.com",
       "source": {
@@ -10,17 +70,7 @@
       "description": "Despite niceties like a fully trimmed interior and silver paintwork, the Porsche 963 RSP is an hones...",
       "url": "https://www.motor1.com/news/761849/porsche-963-rsp-reveal/",
       "publishedAt": "2025-06-06T10:03:19Z",
-      "processed_at": "2025-06-07T12:38:10.998157+00:00"
-    },
-    {
-      "title": "Nintendo Switch 2 Consoles Are Back In Stock and Available to Buy Today at Target - IGN",
-      "source": {
-        "name": "IGN"
-      },
-      "description": "From consoles, to games and accessories, here's everything Switch 2 that's now available to buy....",
-      "url": "https://www.ign.com/articles/nintendo-switch-2-where-to-buy",
-      "publishedAt": "2025-06-06T09:54:17Z",
-      "processed_at": "2025-06-07T12:38:10.998157+00:00"
+      "processed_at": "2025-06-07T13:27:20.261221+00:00"
     },
     {
       "title": "PS5's Brilliant New State of Play Breaks Records for Sony - Push Square",
@@ -30,17 +80,7 @@
       "description": "Mission accomplished...",
       "url": "https://www.pushsquare.com/news/2025/06/ps5s-brilliant-new-state-of-play-breaks-records-for-sony",
       "publishedAt": "2025-06-06T07:00:00Z",
-      "processed_at": "2025-06-07T12:38:10.998157+00:00"
-    },
-    {
-      "title": "Google Messages rolls out big gallery and camera redesign you saw coming - Android Police",
-      "source": {
-        "name": "Android Police"
-      },
-      "description": "A fresh take on media sharing...",
-      "url": "https://www.androidpolice.com/google-messages-new-gallery-camera-interface/",
-      "publishedAt": "2025-06-06T05:51:00Z",
-      "processed_at": "2025-06-07T12:38:10.998157+00:00"
+      "processed_at": "2025-06-07T13:27:20.261221+00:00"
     },
     {
       "title": "Switch 2's New GameChat Feature Is Transcribing Bad Words - Nintendo Life",
@@ -50,60 +90,10 @@
       "description": "And it's been labelled an \"accessibility win\"...",
       "url": "https://www.nintendolife.com/news/2025/06/switch-2s-new-gamechat-feature-is-transcribing-bad-words",
       "publishedAt": "2025-06-06T04:45:00Z",
-      "processed_at": "2025-06-07T12:38:10.998157+00:00"
-    },
-    {
-      "title": "Final Fantasy Tactics Physical Switch Release Has A Free Switch 2 Upgrade - Nintendo Life",
-      "source": {
-        "name": "Nintendo Life"
-      },
-      "description": "The Switch 2 release is a code in a box...",
-      "url": "https://www.nintendolife.com/news/2025/06/final-fantasy-tactics-physical-switch-release-has-a-free-switch-2-upgrade",
-      "publishedAt": "2025-06-06T03:45:00Z",
-      "processed_at": "2025-06-07T12:38:10.998157+00:00"
-    },
-    {
-      "title": "Exclusive: Apple prepping support for third-party Control Center widgets in watchOS 26 - 9to5Mac",
-      "source": {
-        "name": "9to5Mac"
-      },
-      "description": "For the first time, the Apple Watch Control Center will go beyond Apple’s own toggles and tiles like...",
-      "url": "https://9to5mac.com/2025/06/05/exclusive-apple-prepping-support-for-third-party-control-center-widgets-in-watchos-26/",
-      "publishedAt": "2025-06-05T22:02:00Z",
-      "processed_at": "2025-06-07T12:38:10.998157+00:00"
-    },
-    {
-      "title": "Nintendo Switch 2 launch: GameStop investigating claims of console damage - NBC News",
-      "source": {
-        "name": "NBC News"
-      },
-      "description": "Video game retailer GameStop said Thursday that it is investigating claims made by some customers th...",
-      "url": "https://www.nbcnews.com/tech/tech-news/nintendo-switch-2-launch-gamestop-investigating-damage-claims-rcna211269",
-      "publishedAt": "2025-06-05T21:39:47Z",
-      "processed_at": "2025-06-07T12:38:10.998157+00:00"
-    },
-    {
-      "title": "Get Deals On Super Mario And Zelda Games With Free Switch 2 Upgrades - GameSpot",
-      "source": {
-        "name": "GameSpot"
-      },
-      "description": "Save $10 on a bunch of Switch 2-enhanced games, including Super Mario Odyssey, Zelda: Echoes of Wisd...",
-      "url": "https://www.gamespot.com/articles/get-deals-on-super-mario-and-zelda-games-with-free-switch-2-upgrades/1100-6532066/",
-      "publishedAt": "2025-06-05T21:12:45Z",
-      "processed_at": "2025-06-07T12:38:10.998157+00:00"
-    },
-    {
-      "title": "Cyberpunk 2077 Devs Refuse To Stop Making The Game Better As They Tease Another Massive Patch - Kotaku",
-      "source": {
-        "name": "Kotaku"
-      },
-      "description": "Update 2.3 confirmed as rumors spread about new Cyberpunk DLC...",
-      "url": "https://kotaku.com/cyberpunk-2077-switch-2-patch-2-3-dlc-story-quests-1851783778",
-      "publishedAt": "2025-06-05T21:10:00Z",
-      "processed_at": "2025-06-07T12:38:10.998157+00:00"
+      "processed_at": "2025-06-07T13:27:20.261221+00:00"
     }
   ],
-  "lastUpdated": "2025-06-07T12:38:10.998221+00:00",
+  "lastUpdated": "2025-06-07T13:27:20.261293+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
