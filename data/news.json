@@ -1,16 +1,66 @@
 {
   "status": "success",
-  "totalResults": 10,
+  "totalResults": 9,
   "articles": [
     {
-      "title": "The Mustang’s New Appearance Pack Is a 1980s Fever Dream - Motor1.com",
+      "title": "Apple’s latest AirPods Pro with USB-C just received a $70 discount - The Verge",
       "source": {
-        "name": "Motor1 "
+        "name": "The Verge"
       },
-      "description": "Ford is launching a new appearance package for the 2026 Mustang that takes inspiration from the thir...",
-      "url": "https://www.motor1.com/news/761984/2026-ford-mustang-80s-fx-package/",
-      "publishedAt": "2025-06-07T06:00:18Z",
-      "processed_at": "2025-06-08T14:17:17.755107+00:00"
+      "description": "The AirPods Pro 2 are down to $169 at Amazon, Walmart, and Best Buy. You can also save on the Meta Q...",
+      "url": "https://www.theverge.com/tech/681365/apple-airpods-2-usb-c-meta-quest-3s-deal-sale",
+      "publishedAt": "2025-06-07T14:10:47Z",
+      "processed_at": "2025-06-08T15:20:44.075652+00:00"
+    },
+    {
+      "title": "‘Splitgate 2’ CEO Won’t Apologize For ‘Make FPS Great Again’ Hat - Forbes",
+      "source": {
+        "name": "Forbes"
+      },
+      "description": "Splitgate 2’’s Proulx took the stage in a black hat that said “Make FPS Great Again,” a riff on the ...",
+      "url": "https://www.forbes.com/sites/paultassi/2025/06/07/splitgate-2-ceo-wont-apologize-for-make-fps-great-again-hat/",
+      "publishedAt": "2025-06-07T14:09:26Z",
+      "processed_at": "2025-06-08T15:20:44.075652+00:00"
+    },
+    {
+      "title": "The Best Tech Gifts for Father’s Day 2025 - Gizmodo",
+      "source": {
+        "name": "Gizmodo.com"
+      },
+      "description": "You know what's better than unconditional love? A great Father's Day gift....",
+      "url": "https://gizmodo.com/the-best-tech-gifts-for-fathers-day-2025-2000612592",
+      "publishedAt": "2025-06-07T10:20:13Z",
+      "processed_at": "2025-06-08T15:20:44.075652+00:00"
+    },
+    {
+      "title": "Summer Game Fest: Bond and Game of Thrones among the big reveals - BBC",
+      "source": {
+        "name": "BBC News"
+      },
+      "description": "Gaming's biggest weekend for new announcements is here, with dozens of titles being shown off....",
+      "url": "https://www.bbc.com/news/articles/c23myzn24zzo",
+      "publishedAt": "2025-06-07T10:06:45Z",
+      "processed_at": "2025-06-08T15:20:44.075652+00:00"
+    },
+    {
+      "title": "The Ford Mustang FX Is The Freshest Pony Since Vanilla's 5.0 - CarBuzz",
+      "source": {
+        "name": "CarBuzz"
+      },
+      "description": "Schwing! This Mustang will bring back all of your early 90s memories....",
+      "url": "https://carbuzz.com/2026-ford-mustang-fx-retro-reveal/",
+      "publishedAt": "2025-06-07T10:00:00Z",
+      "processed_at": "2025-06-08T15:20:44.075652+00:00"
+    },
+    {
+      "title": "Underwater Volcano Reveals Thousands of Giant Living Eggs in Terrifying Discovery That Will Change Marine Science - Jason Deegan",
+      "source": {
+        "name": "Jasondeegan.com"
+      },
+      "description": "A shocking and incredible discovery beneath the waves off Vancouver Island has unveiled thousands of...",
+      "url": "https://jasondeegan.com/underwater-volcano-reveals-thousands-of-giant-living-eggs-in-terrifying-discovery-that-will-change-marine-science/",
+      "publishedAt": "2025-06-07T09:00:40Z",
+      "processed_at": "2025-06-08T15:20:44.075652+00:00"
     },
     {
       "title": "Street Fighter 6's Season 3 DLC Characters Have Been Officially Revealed - Nintendo Life",
@@ -20,47 +70,7 @@
       "description": "Four more fighters are on the way...",
       "url": "https://www.nintendolife.com/news/2025/06/street-fighter-6s-season-3-characters-officially-revealed-by-pro-wrestler-kenny-omega",
       "publishedAt": "2025-06-07T00:45:00Z",
-      "processed_at": "2025-06-08T14:17:17.755107+00:00"
-    },
-    {
-      "title": "The demons are both tragic and hot in Possessor(s), the Hyper Light Drifter studio's new fantasy platformer - Rock Paper Shotgun",
-      "source": {
-        "name": "Rock Paper Shotgun"
-      },
-      "description": "Heart Machine's new metroidvania side-scroller is a familiar offering but with a lot of style....",
-      "url": "https://www.rockpapershotgun.com/the-demons-are-both-tragic-and-hot-in-possessors-the-hyper-light-drifter-studios-new-fantasy-platformer",
-      "publishedAt": "2025-06-07T00:00:00Z",
-      "processed_at": "2025-06-08T14:17:17.755107+00:00"
-    },
-    {
-      "title": "Splitgate 2 Dev Says He's Tired Of Playing Call Of Duty And Wants Titanfall 3 While Wearing A 'Make FPS Great Again' Hat - Kotaku",
-      "source": {
-        "name": "Kotaku"
-      },
-      "description": "The portal shooter launches a surprise battle royale mode...",
-      "url": "https://kotaku.com/splitgate-2-battle-royale-trump-hat-summer-game-fest-1851783949",
-      "publishedAt": "2025-06-06T23:39:00Z",
-      "processed_at": "2025-06-08T14:17:17.755107+00:00"
-    },
-    {
-      "title": "Meta found a new way to violate your privacy. Here’s what you can do. - The Washington Post",
-      "source": {
-        "name": "The Washington Post"
-      },
-      "description": "Even hardened digital privacy veterans said they were surprised by Meta’s scuzzy tactics....",
-      "url": "https://www.washingtonpost.com/technology/2025/06/06/meta-privacy-facebook-instagram/",
-      "publishedAt": "2025-06-06T23:30:00Z",
-      "processed_at": "2025-06-08T14:17:17.755107+00:00"
-    },
-    {
-      "title": "Every big announcement from Summer Game Fest 2025 - Polygon",
-      "source": {
-        "name": "Polygon"
-      },
-      "description": "",
-      "url": "https://www.polygon.com/gaming/604574/summer-games-fest-2025-news-announcements-trailers",
-      "publishedAt": "2025-06-06T23:18:16Z",
-      "processed_at": "2025-06-08T14:17:17.755107+00:00"
+      "processed_at": "2025-06-08T15:20:44.075652+00:00"
     },
     {
       "title": "‘Resident Evil Requiem’ Sets February 2026 Release From Capcom - Variety",
@@ -70,40 +80,20 @@
       "description": "The ninth installment in the \"Resident Evil\" video game franchise will be released in 2026....",
       "url": "https://variety.com/2025/gaming/news/resident-evil-9-requiem-trailer-release-date-1236421778/",
       "publishedAt": "2025-06-06T23:00:00Z",
-      "processed_at": "2025-06-08T14:17:17.755107+00:00"
+      "processed_at": "2025-06-08T15:20:44.075652+00:00"
     },
     {
-      "title": "ILL Is A Survival Horror Game Made By People Who Worked On Longlegs, IT, V/H/S/Beyond, And More - Game Informer",
+      "title": "Ray-Ban Meta Glasses drop to a record-low price! - Android Authority",
       "source": {
-        "name": "Gameinformer.com"
+        "name": "Android Authority"
       },
-      "description": "It's coming to PlayStation 5, Xbox Series X/S, and PC....",
-      "url": "https://www.gameinformer.com/sgf-2025/2025/06/06/ill-is-a-survival-horror-game-made-by-people-who-worked-on-longlegs-it",
-      "publishedAt": "2025-06-06T22:38:00Z",
-      "processed_at": "2025-06-08T14:17:17.755107+00:00"
-    },
-    {
-      "title": "Surprise, 'Lies of P' first DLC Overture is out right now on Xbox and PC. No, it's true! - Windows Central",
-      "source": {
-        "name": "Windows Central"
-      },
-      "description": "The first PC and Xbox shadow drop of the week goes to soulslike Life of P, with its first DLC \"Overt...",
-      "url": "https://www.windowscentral.com/gaming/surprise-lies-of-p-first-dlc-overture-is-out-right-now-on-xbox-and-pc-no-its-true",
-      "publishedAt": "2025-06-06T21:55:53Z",
-      "processed_at": "2025-06-08T14:17:17.755107+00:00"
-    },
-    {
-      "title": "Sonic Racing: CrossWorlds getting collector's edition, Sonic Prime characters, Nintendo Switch 2 upgrade path - Nintendo Everything",
-      "source": {
-        "name": "Nintendoeverything.com"
-      },
-      "description": "We have more information about Sonic Racing: CrossWorlds with news about a collector’s edition, Soni...",
-      "url": "https://nintendoeverything.com/sonic-racing-crossworlds-getting-collectors-edition-sonic-prime-characters-nintendo-switch-2-upgrade-path/",
-      "publishedAt": "2025-06-06T21:43:45Z",
-      "processed_at": "2025-06-08T14:17:17.755107+00:00"
+      "description": "Ray-Ban Meta Glasses are pricey, but if you've been eyeing them, today is your chance to get them at...",
+      "url": "https://www.androidauthority.com/ray-ban-meta-glasses-deal-3565262/",
+      "publishedAt": "2025-06-06T22:57:09Z",
+      "processed_at": "2025-06-08T15:20:44.075652+00:00"
     }
   ],
-  "lastUpdated": "2025-06-08T14:17:17.755184+00:00",
+  "lastUpdated": "2025-06-08T15:20:44.075731+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
