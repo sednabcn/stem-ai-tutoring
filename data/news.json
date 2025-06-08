@@ -1,7 +1,17 @@
 {
   "status": "success",
-  "totalResults": 9,
+  "totalResults": 10,
   "articles": [
+    {
+      "title": "Splitgate 2 Dev Says He's Tired Of Playing Call Of Duty And Wants Titanfall 3 While Wearing A 'Make FPS Great Again' Hat - Kotaku",
+      "source": {
+        "name": "Kotaku"
+      },
+      "description": "The portal shooter launches a surprise battle royale mode...",
+      "url": "https://kotaku.com/splitgate-2-battle-royale-trump-hat-summer-game-fest-1851783949",
+      "publishedAt": "2025-06-06T23:39:00Z",
+      "processed_at": "2025-06-08T05:20:36.302714+00:00"
+    },
     {
       "title": "Every big announcement from Summer Game Fest 2025 - Polygon",
       "source": {
@@ -10,7 +20,17 @@
       "description": "All the news, trailers, and release dates from Summer Games Fest, including Resident Evil 9, Scott P...",
       "url": "https://www.polygon.com/gaming/604574/summer-games-fest-2025-news-announcements-trailers",
       "publishedAt": "2025-06-06T23:18:16Z",
-      "processed_at": "2025-06-08T04:30:51.473709+00:00"
+      "processed_at": "2025-06-08T05:20:36.302714+00:00"
+    },
+    {
+      "title": "Capcom Announces Street Fighter 6's New Characters By Paying Kenny Omega To Cosplay Them - Kotaku",
+      "source": {
+        "name": "Kotaku"
+      },
+      "description": "The pro-wrestler cosplays as Sagat, Ingrid, and more...",
+      "url": "https://kotaku.com/street-fighter-6-year-3-characters-sagat-ingrid-c-viper-1851783945",
+      "publishedAt": "2025-06-06T23:15:00Z",
+      "processed_at": "2025-06-08T05:20:36.302714+00:00"
     },
     {
       "title": "‘Resident Evil Requiem’ Sets February 2026 Release From Capcom - Variety",
@@ -20,27 +40,37 @@
       "description": "The ninth installment in the \"Resident Evil\" video game franchise will be released in 2026....",
       "url": "https://variety.com/2025/gaming/news/resident-evil-9-requiem-trailer-release-date-1236421778/",
       "publishedAt": "2025-06-06T23:00:00Z",
-      "processed_at": "2025-06-08T04:30:51.473709+00:00"
+      "processed_at": "2025-06-08T05:20:36.302714+00:00"
     },
     {
-      "title": "Alex, C. Viper, Sagat and Ingrid announced for Street Fighter 6 Season 3 - EventHubs",
+      "title": "ILL Is A Survival Horror Game Made By People Who Worked On Longlegs, IT, V/H/S/Beyond, And More - Game Informer",
       "source": {
-        "name": "EventHubs"
+        "name": "Gameinformer.com"
       },
-      "description": "Street Fighter 6 players have been waiting all year to see what the third year of content will bring...",
-      "url": "https://www.eventhubs.com/news/2025/jun/06/street-fighter-season-3/",
-      "publishedAt": "2025-06-06T22:41:33Z",
-      "processed_at": "2025-06-08T04:30:51.473709+00:00"
+      "description": "It's coming to PlayStation 5, Xbox Series X/S, and PC....",
+      "url": "https://www.gameinformer.com/sgf-2025/2025/06/06/ill-is-a-survival-horror-game-made-by-people-who-worked-on-longlegs-it",
+      "publishedAt": "2025-06-06T22:38:00Z",
+      "processed_at": "2025-06-08T05:20:36.302714+00:00"
     },
     {
-      "title": "Mysterious, Haunting Body Horror Game ILL Gets New Gameplay Trailer at Summer Game Fest - IGN",
+      "title": "Surprise, 'Lies of P' first DLC Overture is out right now on Xbox and PC. No, it's true! - Windows Central",
       "source": {
-        "name": "IGN"
+        "name": "Windows Central"
       },
-      "description": "Survival horror game ILL is showing signs of life...or death, as it were...in a new trailer at Summe...",
-      "url": "https://www.ign.com/articles/mysterious-haunting-body-horror-game-ill-gets-new-gameplay-trailer-at-summer-game-fest",
-      "publishedAt": "2025-06-06T22:34:04Z",
-      "processed_at": "2025-06-08T04:30:51.473709+00:00"
+      "description": "The first PC and Xbox shadow drop of the week goes to soulslike Life of P, with its first DLC \"Overt...",
+      "url": "https://www.windowscentral.com/gaming/surprise-lies-of-p-first-dlc-overture-is-out-right-now-on-xbox-and-pc-no-its-true",
+      "publishedAt": "2025-06-06T21:55:53Z",
+      "processed_at": "2025-06-08T05:20:36.302714+00:00"
+    },
+    {
+      "title": "Killer Inn is Square Enix’s new ‘murder mystery action’ game - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "Square Enix just announced Killer Inn, a new “murder mystery action” game from developer Tactic Stud...",
+      "url": "https://www.theverge.com/news/680731/killer-inn-square-enix-murder-mystery-action-game-trailer",
+      "publishedAt": "2025-06-06T21:51:55Z",
+      "processed_at": "2025-06-08T05:20:36.302714+00:00"
     },
     {
       "title": "Sega Throws Shade At Mario Kart While Showing Off Sonic Racing: Crossworlds - Kotaku",
@@ -50,7 +80,7 @@
       "description": "Sega announced that the game will have crossovers with Persona, Yakuza, and more...",
       "url": "https://kotaku.com/sonic-racing-crossworlds-sgf-trailer-yakuza-persona-1851783930",
       "publishedAt": "2025-06-06T21:45:00Z",
-      "processed_at": "2025-06-08T04:30:51.473709+00:00"
+      "processed_at": "2025-06-08T05:20:36.302714+00:00"
     },
     {
       "title": "Live Updates From Apple WWDC 2025 🔴 - Gizmodo",
@@ -60,40 +90,20 @@
       "description": "Follow along with the Gizmodo crew as we unpack everything Apple announces at its annual developer c...",
       "url": "https://gizmodo.com/live-updates-from-apple-wwdc-2025-🔴-2000612573",
       "publishedAt": "2025-06-06T20:38:09Z",
-      "processed_at": "2025-06-08T04:30:51.473709+00:00"
+      "processed_at": "2025-06-08T05:20:36.302714+00:00"
     },
     {
-      "title": "Google Gemini can now handle scheduled tasks like an assistant - The Verge",
+      "title": "Nintendo has replaced the longtime voice of Peach and Toad - Polygon",
       "source": {
-        "name": "The Verge"
+        "name": "Polygon"
       },
-      "description": "Google is rolling out a new “scheduled actions” feature in Gemini that lets subscribers ask Gemini t...",
-      "url": "https://www.theverge.com/news/681762/google-gemini-scheduled-actions-planned-tasks",
-      "publishedAt": "2025-06-06T19:39:34Z",
-      "processed_at": "2025-06-08T04:30:51.473709+00:00"
-    },
-    {
-      "title": "The Ray-Ban Meta smart glasses are on sale for their best price to date - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "The latest Ray-Ban Meta Smart Glasses are down to $239.20 (about $61 off) at multiple retailers, mat...",
-      "url": "https://www.theverge.com/tech/681620/ray-ban-meta-glasses-deal-sale",
-      "publishedAt": "2025-06-06T19:16:21Z",
-      "processed_at": "2025-06-08T04:30:51.473709+00:00"
-    },
-    {
-      "title": "Apple Has a Huge Siri Problem That WWDC 2025 Probably Won’t Fix - Gizmodo",
-      "source": {
-        "name": "Gizmodo.com"
-      },
-      "description": "If Apple is going to address its stumbles with AI, now would be the time, but my hopes aren't super ...",
-      "url": "https://gizmodo.com/apple-has-a-huge-siri-problem-that-wwdc-2025-probably-wont-fix-2000612362",
-      "publishedAt": "2025-06-06T18:10:14Z",
-      "processed_at": "2025-06-08T04:30:51.473709+00:00"
+      "description": "Princess Peach and Toad’s voice actor has been changed after 18 years....",
+      "url": "https://www.polygon.com/nintendo-switch-2/604585/nintendo-voice-actor-princess-peach-toad-replaced-new",
+      "publishedAt": "2025-06-06T19:32:02Z",
+      "processed_at": "2025-06-08T05:20:36.302714+00:00"
     }
   ],
-  "lastUpdated": "2025-06-08T04:30:51.473789+00:00",
+  "lastUpdated": "2025-06-08T05:20:36.302791+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
