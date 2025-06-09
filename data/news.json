@@ -1,109 +1,99 @@
 {
   "status": "success",
-  "totalResults": 10,
+  "totalResults": 9,
   "articles": [
     {
-      "title": "The USB-C dream is dead and it’s too late to revive it - Android Authority",
+      "title": "P4R: Persona 4 Revival Finally, Officially Confirmed at Xbox Games Showcase - IGN",
       "source": {
-        "name": "Android Authority"
+        "name": "IGN"
       },
-      "description": "USB-C aimed to unify charging and data, but years later, compatibility problems and complex specs ma...",
-      "url": "https://www.androidauthority.com/usb-c-cant-be-fixed-3560127/",
-      "publishedAt": "2025-06-08T13:02:36Z",
-      "processed_at": "2025-06-09T16:27:18.529073+00:00"
+      "description": "After months of poorly-kept secrets, Atlus has officially revealed that a remake of Persona 4 is rea...",
+      "url": "https://www.ign.com/articles/p4r-persona-4-revival-finally-officially-confirmed-at-xbox-games-showcase",
+      "publishedAt": "2025-06-08T18:01:51Z",
+      "processed_at": "2025-06-09T17:18:08.868906+00:00"
     },
     {
-      "title": "Apple’s iOS 26 Liquid Glass Interface Is Built for 20th Anniversary iPhone - Bloomberg.com",
+      "title": "Beast of Reincarnation Is a Game Freak Action Game Due Out 2026 - IGN",
       "source": {
-        "name": "Bloomberg"
+        "name": "IGN"
       },
-      "description": "A new software design style will be at the center of Apple’s Worldwide Developers Conference — and s...",
-      "url": "https://www.bloomberg.com/news/newsletters/2025-06-08/apple-s-liquid-glass-ios-26-software-redesign-to-hint-at-20th-anniversary-iphone-mbnm2u0d",
-      "publishedAt": "2025-06-08T12:00:20Z",
-      "processed_at": "2025-06-09T16:27:18.529073+00:00"
+      "description": "Game Freak, best known for the Pokémon series of video games, has revealed Beast of Reincarnation....",
+      "url": "https://www.ign.com/articles/beast-of-reincarnation-is-a-game-freak-action-game-due-out-2026",
+      "publishedAt": "2025-06-08T17:48:45Z",
+      "processed_at": "2025-06-09T17:18:08.868906+00:00"
     },
     {
-      "title": "Reminder: Look Out for PS5 Logos in Today's Xbox Showcase - Push Square",
+      "title": "Hollow Knight: Silksong comes out of hiding, with a 2025 release date promise - Polygon",
+      "source": {
+        "name": "Polygon"
+      },
+      "description": "Hollow Knight: Silksong launches in 2025. The release date was announced during Xbox Games Showcase....",
+      "url": "https://www.polygon.com/news/23160254/hollow-knight-silksong-release-date-trailer",
+      "publishedAt": "2025-06-08T17:26:26Z",
+      "processed_at": "2025-06-09T17:18:08.868906+00:00"
+    },
+    {
+      "title": "Third Plague Tale Game Revealed for PS5, Out Next Year - Push Square",
       "source": {
         "name": "Push Square"
       },
-      "description": "Multi-platform push goes to the next level...",
-      "url": "https://www.pushsquare.com/news/2025/06/reminder-look-out-for-ps5-logos-in-todays-xbox-showcase",
-      "publishedAt": "2025-06-08T12:00:00Z",
-      "processed_at": "2025-06-09T16:27:18.529073+00:00"
+      "description": "Resonance: A Plague Tale Legacy...",
+      "url": "https://www.pushsquare.com/news/2025/06/third-plague-tale-game-revealed-for-ps5-out-next-year",
+      "publishedAt": "2025-06-08T17:15:00Z",
+      "processed_at": "2025-06-09T17:18:08.868906+00:00"
     },
     {
-      "title": "Xbox console games are suddenly showing up inside the Xbox PC app - The Verge",
+      "title": "This is how Microsoft is combining Windows and Xbox for handheld PCs - The Verge",
       "source": {
         "name": "The Verge"
       },
-      "description": "Microsoft has started showing Xbox console games inside the Xbox PC app. It’s part of Microsoft’s on...",
-      "url": "https://www.theverge.com/news/682235/xbox-pc-games-console-library-xbox-360",
-      "publishedAt": "2025-06-08T09:08:58Z",
-      "processed_at": "2025-06-09T16:27:18.529073+00:00"
+      "description": "Microsoft has worked with Asus to launch two new Xbox Ally devices. Both include improvements to Win...",
+      "url": "https://www.theverge.com/news/682011/microsoft-windows-xbox-pc-combination-features-rog-xbox-ally-devices",
+      "publishedAt": "2025-06-08T17:10:00Z",
+      "processed_at": "2025-06-09T17:18:08.868906+00:00"
     },
     {
-      "title": "The Expanse Returns And All The Cool New Games Just Revealed At This Summer Showcase - GameSpot",
+      "title": "The Outer Worlds 2 Release Date Revealed at Xbox Games Showcase - IGN",
+      "source": {
+        "name": "IGN"
+      },
+      "description": "At today's Xbox Games Showcase, we saw a new trailer for The Outer Worlds 2 showing the power of spa...",
+      "url": "https://www.ign.com/articles/the-outer-worlds-2-release-date-revealed-at-xbox-games-showcase",
+      "publishedAt": "2025-06-08T17:07:55Z",
+      "processed_at": "2025-06-09T17:18:08.868906+00:00"
+    },
+    {
+      "title": "After Silent Hill 2, Cronos: The New Dawn Might Complete Bloober Team's Redemption Arc - GameSpot",
       "source": {
         "name": "GameSpot"
       },
-      "description": "Here's a closer look at the biggest game reveals from the Future Games Show Summer Showcase....",
-      "url": "https://www.gamespot.com/gallery/the-expanse-returns-and-all-the-cool-new-games-just-revealed-at-this-summer-showcase/2900-6647/",
-      "publishedAt": "2025-06-08T09:04:18Z",
-      "processed_at": "2025-06-09T16:27:18.529073+00:00"
+      "description": "The team's follow-up to the Silent Hill 2 remake is looking impressive in its own right....",
+      "url": "https://www.gamespot.com/articles/after-silent-hill-2-cronos-the-new-dawn-might-complete-bloober-teams-redemption-arc/1100-6532234/",
+      "publishedAt": "2025-06-08T16:12:14Z",
+      "processed_at": "2025-06-09T17:18:08.868906+00:00"
     },
     {
-      "title": "The Mustang’s New Appearance Pack Is a 1980s Fever Dream - Motor1.com",
+      "title": "Splitgate 2 slashes $145 cosmetic bundle price following fan backlash - Eurogamer",
       "source": {
-        "name": "Motor1 "
+        "name": "Eurogamer.net"
       },
-      "description": "Ford is launching a new appearance package for the 2026 Mustang that takes inspiration from the thir...",
-      "url": "https://www.motor1.com/news/761984/2026-ford-mustang-80s-fx-package/",
-      "publishedAt": "2025-06-08T05:02:31Z",
-      "processed_at": "2025-06-09T16:27:18.529073+00:00"
+      "description": "Free-to-play \"Halo meets Portal\" shooter Splitgate 2 says it hears you \"loud and clear\" about some o...",
+      "url": "https://www.eurogamer.net/splitgate-2-slashes-145-cosmetic-bundle-price-following-fan-backlash",
+      "publishedAt": "2025-06-08T15:58:20Z",
+      "processed_at": "2025-06-09T17:18:08.868906+00:00"
     },
     {
-      "title": "Sonic Team head warns leaks can ‘ruin’ plans and deals - Video Games Chronicle",
+      "title": "Gearbox publishes statement to confirm its games do not contain \"spyware\" as players slam new EULA - Eurogamer",
       "source": {
-        "name": "Video Games Chronicle"
+        "name": "Eurogamer.net"
       },
-      "description": "\"We’d really like people to think about that\", Takashi Iizuka tells VGC...",
-      "url": "https://www.videogameschronicle.com/news/sonic-team-head-warns-leaks-can-ruin-plans-and-deals/",
-      "publishedAt": "2025-06-08T02:40:40Z",
-      "processed_at": "2025-06-09T16:27:18.529073+00:00"
-    },
-    {
-      "title": "Season 3 Perfect Parry change has big implications for C. Viper in Street Fighter 6 - EventHubs",
-      "source": {
-        "name": "EventHubs"
-      },
-      "description": "We spoke before Season 3 came out about how big the changes to the game's Perfect Parry mechanic wou...",
-      "url": "https://www.eventhubs.com/news/2025/jun/07/cviper-perfect-parry-street-fighter6/",
-      "publishedAt": "2025-06-08T02:30:03Z",
-      "processed_at": "2025-06-09T16:27:18.529073+00:00"
-    },
-    {
-      "title": "The Illusion of Thinking: Understanding the Limitations of Reasoning LLMs [pdf] - Hacker News",
-      "source": {
-        "name": "Hacker News"
-      },
-      "description": "",
-      "url": "https://news.ycombinator.com/item?id\\\\u003d44203562",
-      "publishedAt": "2025-06-08T02:17:07Z",
-      "processed_at": "2025-06-09T16:27:18.529073+00:00"
-    },
-    {
-      "title": "Princess Peach's Voice Actor Has Been Replaced After 18 Years - Nintendo Life",
-      "source": {
-        "name": "Nintendo Life"
-      },
-      "description": "She was also the voice of Toad...",
-      "url": "https://www.nintendolife.com/news/2025/06/princess-peachs-voice-actor-has-been-replaced-after-18-years",
-      "publishedAt": "2025-06-08T02:00:00Z",
-      "processed_at": "2025-06-09T16:27:18.529073+00:00"
+      "description": "Gearbox has confirmed via a statement that its games do not contain \"spyware\" after fans had \"concer...",
+      "url": "https://www.eurogamer.net/gearbox-publishes-statement-to-confirm-its-games-do-not-contain-spyware-as-players-slam-new-eula",
+      "publishedAt": "2025-06-08T15:03:14Z",
+      "processed_at": "2025-06-09T17:18:08.868906+00:00"
     }
   ],
-  "lastUpdated": "2025-06-09T16:27:18.529144+00:00",
+  "lastUpdated": "2025-06-09T17:18:08.868976+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
