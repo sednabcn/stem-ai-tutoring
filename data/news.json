@@ -1,99 +1,89 @@
 {
   "status": "success",
-  "totalResults": 9,
+  "totalResults": 8,
   "articles": [
     {
-      "title": "iOS 26 Supports iPhone 11 and Newer - MacRumors",
+      "title": "Second New Glenn launch slips toward fall as program leadership departs - Ars Technica",
       "source": {
-        "name": "MacRumors"
+        "name": "Ars Technica"
       },
-      "description": "Apple today announced that iOS 26 will be compatible with the iPhone 11 series and newer.   The firs...",
-      "url": "https://www.macrumors.com/2025/06/09/ios-26-supports-iphone-11-and-newer/",
-      "publishedAt": "2025-06-09T17:27:17Z",
-      "processed_at": "2025-06-10T18:29:34.180194+00:00"
+      "description": "We need to produce a lot of second stages....",
+      "url": "https://arstechnica.com/space/2025/06/second-new-glenn-launch-slips-toward-fall-as-program-leadership-departs/",
+      "publishedAt": "2025-06-09T19:42:38Z",
+      "processed_at": "2025-06-10T19:16:28.341545+00:00"
     },
     {
-      "title": "visionOS 26 announced with spatial widgets, all-new Personas, more - 9to5Mac",
+      "title": "WWDC 2025: Everything announced, including Liquid Glass, Apple Intelligence updates, and more - TechCrunch",
       "source": {
-        "name": "9to5Mac"
+        "name": "TechCrunch"
       },
-      "description": "Apple has officially announced visionOS 26, the next major software update for Vision Pro users that...",
-      "url": "https://9to5mac.com/2025/06/09/visionos-26-announced-with-spatial-widgets-all-new-personas-more/",
-      "publishedAt": "2025-06-09T17:20:00Z",
-      "processed_at": "2025-06-10T18:29:34.180194+00:00"
+      "description": "At WWDC 2025, Apple will likely focus on the next iOS, which is rumored to have the most significant...",
+      "url": "https://techcrunch.com/2025/06/09/wwdc-2025-everything-announced-including-liquid-glass-apple-intelligence-updates-and-more/",
+      "publishedAt": "2025-06-09T19:21:41Z",
+      "processed_at": "2025-06-10T19:16:28.341545+00:00"
     },
     {
-      "title": "Apple tvOS 26 adds AirPlay speaker support, karaoke mode, and better user profiles - The Verge",
+      "title": "Apple TV's tvOS 26 gets ‘Liquid Glass’ treatment and profile-switching feature - Yahoo Finance",
+      "source": {
+        "name": "TechCrunch"
+      },
+      "description": "Apple revealed an update to its Apple TV operating system, tvOS 26, during its WWDC 2025 event on Mo...",
+      "url": "https://techcrunch.com/2025/06/09/apple-tvs-tvos-26-gets-liquid-glass-treatment-and-profile-switching-feature/",
+      "publishedAt": "2025-06-09T18:18:46Z",
+      "processed_at": "2025-06-10T19:16:28.341545+00:00"
+    },
+    {
+      "title": "At WWDC 2025, Apple introduces an AI-powered Shortcuts app - TechCrunch",
+      "source": {
+        "name": "TechCrunch"
+      },
+      "description": "Users will be able to access the AI models either on device or with Private Compute to generate resp...",
+      "url": "https://techcrunch.com/2025/06/09/at-wwdc-2025-apple-introduces-an-ai-powered-shortcuts-app/",
+      "publishedAt": "2025-06-09T18:17:47Z",
+      "processed_at": "2025-06-10T19:16:28.341545+00:00"
+    },
+    {
+      "title": "Apple unveils watchOS 26 with new design, wrist-flick gesture, and AI Workout Buddy feature - TechCrunch",
+      "source": {
+        "name": "TechCrunch"
+      },
+      "description": "Apple unveiled watchOS 26 with new design, wrist-flick gesture, and AI Workout Buddy feature during ...",
+      "url": "https://techcrunch.com/2025/06/09/apple-unveils-watchos-26-with-new-design-wrist-flick-gesture-and-ai-workout-buddy-feature/",
+      "publishedAt": "2025-06-09T18:01:43Z",
+      "processed_at": "2025-06-10T19:16:28.341545+00:00"
+    },
+    {
+      "title": "AirPods get studio-quality audio recording and camera remote features - GSMArena.com news - GSMArena.com",
+      "source": {
+        "name": "GSMArena.com"
+      },
+      "description": "These features will arrive with iOS 26, iPadOS 26, and macOS Tahoe 26. At its bombastic Worldwide De...",
+      "url": "https://www.gsmarena.com/airpods_get_studioquality_audio_recording_and_camera_remote_features-news-68177.php",
+      "publishedAt": "2025-06-09T18:00:01Z",
+      "processed_at": "2025-06-10T19:16:28.341545+00:00"
+    },
+    {
+      "title": "Apple announces macOS Tahoe 26 with new design and revamped search features - The Verge",
       "source": {
         "name": "The Verge"
       },
-      "description": "tvOS 26, the latest operating system update for Apple TV hardware, will include Liquid Glass design,...",
-      "url": "https://www.theverge.com/news/681139/apple-tv-tvos-26-wwdc-features",
-      "publishedAt": "2025-06-09T17:14:23Z",
-      "processed_at": "2025-06-10T18:29:34.180194+00:00"
+      "description": "Apple is announcing its new macOS version, named Tahoe, for the Mac Pro, Studio, MacBook Pro, and Ma...",
+      "url": "https://www.theverge.com/news/678268/macos-version-wwdc-2025-announcement",
+      "publishedAt": "2025-06-09T17:13:51Z",
+      "processed_at": "2025-06-10T19:16:28.341545+00:00"
     },
     {
-      "title": "Apple launches iPadOS 26 with a new look and way better multitasking - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "Is the iPad more Mac, or more iPhone? This year, the answer is Mac....",
-      "url": "https://www.theverge.com/apple/679420/apple-ipados-wwdc-2025",
-      "publishedAt": "2025-06-09T17:13:49Z",
-      "processed_at": "2025-06-10T18:29:34.180194+00:00"
-    },
-    {
-      "title": "Apple’s AirPods update adds camera controls and more - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "Apple has revealed a major AirPods update at WWDC 2025, which includes new camera controls and a fea...",
-      "url": "https://www.theverge.com/news/682852/apple-airpods-update-wwdc-2025",
-      "publishedAt": "2025-06-09T17:12:42Z",
-      "processed_at": "2025-06-10T18:29:34.180194+00:00"
-    },
-    {
-      "title": "macOS Tahoe 26 makes the Mac more capable, productive, and intelligent than ever - Apple",
+      "title": "visionOS 26 introduces powerful new spatial experiences for Apple Vision Pro - Apple",
       "source": {
         "name": "Apple Newsroom"
       },
-      "description": "Apple today previewed macOS Tahoe 26, which introduces a stunning new design and powerful capabiliti...",
-      "url": "https://www.apple.com/newsroom/2025/06/macos-tahoe-26-makes-the-mac-more-capable-productive-and-intelligent-than-ever/",
+      "description": "Apple today previewed visionOS 26, an expansive update packed with groundbreaking spatial experience...",
+      "url": "https://www.apple.com/newsroom/2025/06/visionos-26-introduces-powerful-new-spatial-experiences-for-apple-vision-pro/",
       "publishedAt": "2025-06-09T17:05:37Z",
-      "processed_at": "2025-06-10T18:29:34.180194+00:00"
-    },
-    {
-      "title": "watchOS 26 delivers more personalized ways to stay active and connected - Apple",
-      "source": {
-        "name": "Apple Newsroom"
-      },
-      "description": "Apple today previewed watchOS 26, offering a beautiful new look and even more intelligence for a mor...",
-      "url": "https://www.apple.com/newsroom/2025/06/watchos-26-delivers-more-personalized-ways-to-stay-active-and-connected/",
-      "publishedAt": "2025-06-09T17:05:37Z",
-      "processed_at": "2025-06-10T18:29:34.180194+00:00"
-    },
-    {
-      "title": "Apple supercharges its tools and technologies for developers to foster creativity, innovation, and design - Apple",
-      "source": {
-        "name": "Apple Newsroom"
-      },
-      "description": "Apple announced new technologies and enhancements to its developer tools to help developers create m...",
-      "url": "https://www.apple.com/newsroom/2025/06/apple-supercharges-its-tools-and-technologies-for-developers/",
-      "publishedAt": "2025-06-09T17:05:37Z",
-      "processed_at": "2025-06-10T18:29:34.180194+00:00"
-    },
-    {
-      "title": "Switch 2 Pro Controller Teardown Gives Us A Good Look At The New Sticks - Nintendo Life",
-      "source": {
-        "name": "Nintendo Life"
-      },
-      "description": "Looks like they're made by Alps Alpine...",
-      "url": "https://www.nintendolife.com/news/2025/06/switch-2-pro-controller-teardown-gives-us-a-good-look-at-the-new-sticks",
-      "publishedAt": "2025-06-09T15:30:00Z",
-      "processed_at": "2025-06-10T18:29:34.180194+00:00"
+      "processed_at": "2025-06-10T19:16:28.341545+00:00"
     }
   ],
-  "lastUpdated": "2025-06-10T18:29:34.180274+00:00",
+  "lastUpdated": "2025-06-10T19:16:28.341612+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
