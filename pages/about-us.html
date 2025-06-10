@@ -1,0 +1,1392 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About Us - SiMLeng</title>
+    
+    <link rel="stylesheet" href="../assets/css/styles.css">
+    <link rel="stylesheet" href="../assets/css/about-us.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <link rel="icon" href="../assets/images/favicon-16x16.png" type="image/x-icon">
+</head>
+<body class="about-us-page">
+    <nav class="top-nav">
+        <div class="logo">
+            <img src="../assets/images/Book-NN-logo.jpeg" alt="Logo">
+        </div>
+        <div class="center-text">
+            About SiMLeng
+        </div>
+        <div class="menu">
+            <a href="../pages/help.html" class="cta">Help</a>
+            <button class="login-button" onclick="openModal()">Login/Register</button>
+        </div>
+    </nav>
+
+    <!-- Login Modal -->
+    <div id="authModal" class="modal-overlay">
+        <div class="modal-content">
+            <span class="close" onclick="closeModal()">&times;</span>
+            <div class="tabs">
+                <div class="tab active" onclick="openTab(event, 'login')">Login</div>
+                <div class="tab" onclick="openTab(event, 'register')">Register</div>
+            </div>
+            <div id="login" class="form-content active">
+                <h2 class="form-header">Login</h2>
+                <form id="loginForm">
+                    <label for="loginEmail">Email</label>
+                    <input type="email" id="loginEmail" placeholder="Enter your email" required>
+                    <label for="loginPassword">Password</label>
+                    <input type="password" id="loginPassword" placeholder="Enter your password" required>
+                    <button type="submit">Login</button>
+                </form>
+            </div>
+            <div id="register" class="form-content">
+                <h2 class="form-header">Register</h2>
+                <form id="registerForm">
+                    <label for="registerName">Name</label>
+                    <input type="text" id="registerName" placeholder="Enter your name" required>
+                    <label for="registerEmail">Email</label>
+                    <input type="email" id="registerEmail" placeholder="Enter your email" required>
+                    <label for="registerPassword">Password</label>
+                    <input type="password" id="registerPassword" placeholder="Create a password" required>
+                    <button type="submit">Register</button>
+                </form>
+            </div>
+        </div>
+    </div>
+
+    <!-- Header -->
+    <div class="header">
+        <h4>Pioneering the Future of Education and Industry with AI-Driven Solutions</h4>
+    </div>
+
+    <div class="container">
+        <!-- External Link Indicator -->
+        <div id="external-indicator" class="external-link-indicator" style="display: none;">
+            <i class="fas fa-external-link-alt"></i> You were redirected from another page
+        </div>
+
+        <!-- Group Navigation Tabs -->
+        <div class="group-tabs">
+            <button class="group-tab active" onclick="switchGroup('about')" id="about-tab">About Us</button>
+            <button class="group-tab" onclick="switchGroup('legal')" id="legal-tab">Legal Info</button>
+        </div>
+
+        <!-- About Us Group -->
+        <div class="group-content active" id="about-group">
+            <!-- Section Menu for About Us -->
+            <div class="section-menu active" id="about-menu">
+                <ul>
+                    <li><a href="#" onclick="showContent('about', 'company-overview', this)" id="company-link">Company Overview</a></li>
+                    <li><a href="#" onclick="showContent('about', 'mission-values', this)" id="mission-link">Mission & Values</a></li>
+                    <li><a href="#" onclick="showContent('about', 'our-team', this)" id="team-link">Our Team</a></li>
+                    <li><a href="#" onclick="showContent('about', 'careers', this)" id="careers-link">Careers</a></li>
+                    <li><a href="#" onclick="showContent('about', 'support', this)" id="support-link">Support</a></li>
+                    <li><a href="#" onclick="showContent('about', 'faqs', this)" id="faqs-link">FAQs</a></li>
+                </ul>
+            </div>
+
+            <div class="main-content">
+                <!-- Company Overview Section -->
+                <div class="content-section active" id="company-overview">
+                    <h2>Company Overview</h2>
+                    <p>SiMLeng is a pioneering startup offering specialized math tutoring and AI consultancy services. Our mission is to provide customized learning in <strong>Data Science</strong>, <strong>Statistics</strong>, <strong>Python</strong>, <strong>C++</strong>, and <strong>Linux</strong>, for students and professionals at all levels. In addition, we help businesses navigate AI challenges through expert consultancy, especially with the <strong>LLM-HypatiaX</strong> project, which delivers AI-driven solutions and applications.</p>
+                    
+                    <p>We are focused on helping individuals achieve mastery in technical fields and assisting organizations in harnessing the power of artificial intelligence to revolutionize their operations.</p>
+                    
+                    <h3>Our Achievements</h3>
+                    <p>SiMLeng has built a reputation for delivering effective solutions that help students grasp complex subjects and businesses incorporate AI technologies. We've made a meaningful impact by reducing operational inefficiencies, delivering personalized tutoring results, and integrating AI tools that drive growth.</p>
+                    
+                    <h3>Global Reach</h3>
+                    <p>Though based in London, UK, SiMLeng serves clients worldwide, from students seeking personalized tutoring to businesses looking for advanced AI consultancy. Our expertise spans across global industries, enabling us to provide customized solutions tailored to the needs of each region.</p>
+                </div>
+
+                <!-- Mission and Values Section -->
+                <div class="content-section" id="mission-values">
+                    <h2>Mission and Values</h2>
+                    <h3>Our Mission</h3>
+                    <p>At SiMLeng, our mission is to <strong>empower individuals and organizations</strong> through <strong>advanced learning</strong> and <strong>AI-powered solutions</strong>. We aim to break barriers in education and industry by combining personalized tutoring with cutting-edge artificial intelligence strategies that drive long-term success.</p>
+                    
+                    <h3>Our Core Values</h3>
+                    <div class="values-grid">
+                        <div class="value-card">
+                            <h4>Innovation</h4>
+                            <p>We stay at the cutting edge of educational technology and AI, constantly innovating to provide the most effective solutions for our clients.</p>
+                        </div>
+                        <div class="value-card">
+                            <h4>Collaboration</h4>
+                            <p>We believe in building strong partnerships with our students, clients, and collaborators to achieve mutual success.</p>
+                        </div>
+                        <div class="value-card">
+                            <h4>Integrity</h4>
+                            <p>At SiMLeng, we uphold transparency, honesty, and trust in every interaction, ensuring our solutions are both ethical and effective.</p>
+                        </div>
+                        <div class="value-card">
+                            <h4>Excellence</h4>
+                            <p>We strive for excellence in everything we do, offering high-quality tutoring and AI consultancy services tailored to specific client needs.</p>
+                        </div>
+                    </div>
+                    
+                    <h3>Our Vision</h3>
+                    <p>We envision a future where <strong>education</strong> and <strong>AI</strong> converge, offering powerful learning experiences and intelligent solutions that drive industry advancements. SiMLeng is committed to creating a bridge between <strong>knowledge</strong> and <strong>innovation</strong> to build a smarter world.</p>
+                </div>
+
+                <!-- Our Team Section -->
+                <div class="content-section" id="our-team">
+                    <h2>Our Team</h2>
+                    <p>At SiMLeng, we are a <strong>one-person team</strong> led by our founder, an expert in <strong>Data Science</strong>, <strong>AI</strong>, and <strong>Software Development</strong>. While we are a small, agile team, we're passionate about providing top-tier educational and consultancy services that make a real impact.</p>
+                    
+                    <div class="team-grid">
+                        <div class="team-member">
+                            <!--<img src="https://via.placeholder.com/150x150" alt="Founder">-->
+                            <h4>Founder & Lead Consultant</h4>
+                            <p><strong>Expert in AI & Data Science</strong></p>
+                            <p>With expertise in AI, Data Science, and Software Development, our founder is committed to helping others navigate the complexities of learning and implementing AI technologies.</p>
+                        </div>
+                    </div>
+                    
+                    <h3>Our Culture</h3>
+                    <p>At SiMLeng, we foster an environment that encourages <strong>creativity</strong>, <strong>continuous learning</strong>, and <strong>collaboration</strong>. As we expand, we are committed to building a team that thrives on innovation and making a real-world impact.</p>
+                </div>
+
+                <!-- Careers Section -->
+                <div class="content-section" id="careers">
+                    <h2>Careers</h2>
+                    <p>While SiMLeng is currently a startup, we are always looking for passionate individuals to join us as we grow. Stay tuned for future opportunities in <strong>AI consultancy</strong>, <strong>Data Science tutoring</strong>, and more!</p>
+                    
+                    <h3>Why Work With Us?</h3>
+                    <p>We offer flexible work arrangements, opportunities to innovate with cutting-edge technologies, and a chance to make a meaningful impact in both <strong>education</strong> and <strong>industry</strong>.</p>
+                    
+                    <h3>Application Process</h3>
+                    <p>If you're passionate about the future of education and AI, feel free to reach out to us at info@modelphysmat.com. We are always happy to explore potential partnerships and collaborations.</p>
+                </div>
+
+                <!-- Support Section -->
+                <div class="content-section" id="support">
+                    <h2>Support</h2>
+                    <p>SiMLeng is committed to providing exceptional support to our students and clients. Whether you're looking for help with <strong>math tutoring</strong>, <strong>AI consultancy</strong>, or technical support for the <strong>LLM-HypatiaX</strong> project, we are here to assist you.</p>
+                    
+                    <div class="contact-grid">
+                        <div class="contact-card">
+                            <h4>Math Tutoring Support</h4>
+                            <p><strong>Email:</strong> info@modelphysmat.com</p>
+                            <p><strong>Phone:</strong> +44 755 3049 140</p>
+                            <p><strong>Hours:</strong> Mon-Fri, 9 AM - 6 PM</p>
+                            <p>Get assistance with your math learning journey, from introductory topics to advanced data science and statistics.</p>
+                        </div>
+                        <div class="contact-card">
+                            <h4>AI Consultancy Support</h4>
+                            <p><strong>Email:</strong> info@modelphysmat.com</p>
+                            <p><strong>Phone:</strong> +44 755 3049 140</p>
+                            <p><strong>Hours:</strong> Mon-Fri, 9 AM - 6 PM</p>
+                            <p>For inquiries about AI integration, LLM-HypatiaX, or any custom AI-driven solutions, reach out to our consultancy team.</p>
+                        </div>
+                    </div>
+                    
+                    <h3>Support Resources</h3>
+                    <p>We offer a variety of learning and troubleshooting resources, including tutorials, webinars, and documentation. As our community grows, we will also provide personalized support for both individual learners and businesses adopting AI solutions.</p>
+
+		
+		    <!-- ✅ Dynamic Newsletter Form Injection -->
+		    <h3>Subscribe for Support Updates</h3>
+<p>Enter your email to receive updates about new tutorials, webinar invites, and AI solutions from the SiMLeng team.</p>
+
+  <div id="newsletter-placeholder" style="margin-top: 2rem;"></div>
+		    
+                </div>
+
+                <!-- FAQs Section -->
+                <div class="content-section" id="faqs">
+                    <h2>Frequently Asked Questions</h2>
+                    <p>Here are some common questions about our <strong>math tutoring services</strong>, <strong>AI consultancy</strong>, and the <strong>LLM-HypatiaX project</strong>:</p>
+                    
+                    <div class="faq-item">
+                        <div class="faq-question" onclick="toggleFaq(this)">
+                            What subjects do you offer tutoring for?
+                        </div>
+                        <div class="faq-answer">
+                            <p>We specialize in <strong>Data Science</strong>, <strong>Statistics</strong>, <strong>Python</strong>, <strong>C++</strong>, and <strong>Linux</strong> for all levels. Whether you're a beginner or advanced student, we tailor lessons to suit your needs.</p>
+                        </div>
+                    </div>
+                    
+                    <div class="faq-item">
+                        <div class="faq-question" onclick="toggleFaq(this)">
+                            What is the <strong>LLM-HypatiaX</strong> project?
+                        </div>
+                        <div class="faq-answer">
+                            <p>The <strong>LLM-HypatiaX</strong> project focuses on creating <strong>AI-driven solutions</strong> tailored to specific business needs, offering custom <strong>AI formulas</strong> and <strong>AI Learning apps</strong> to drive innovation and efficiency.</p>
+                        </div>
+                    </div>
+                    
+                    <div class="faq-item">
+                        <div class="faq-question" onclick="toggleFaq(this)">
+                            How can I get started with tutoring or consultancy?
+                        </div>
+                        <div class="faq-answer">
+                            <p>You can start by reaching out to us via the contact form or email. We'll schedule an initial consultation to understand your needs and tailor a learning or consultancy plan for you.</p>
+                        </div>
+                    </div>
+                    
+                    <div class="faq-item">
+                        <div class="faq-question" onclick="toggleFaq(this)">
+                            Do you offer group tutoring sessions?
+                        </div>
+                        <div class="faq-answer">
+                            <p>Currently, we offer <strong>one-on-one tutoring</strong> to ensure personalized attention. However, we are considering <strong>group workshops</strong> in the near future as our community grows.</p>
+                        </div>
+                    </div>
+                    
+                    <div class="faq-item">
+                        <div class="faq-question" onclick="toggleFaq(this)">
+                            Can I book a session for AI consultancy?
+                        </div>
+                        <div class="faq-answer">
+                            <p>Yes! You can book a <strong>free consultation</strong> through our website or by contacting us via email. We will help you understand how AI can be applied to your business needs.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Legal Group -->
+        <div class="group-content" id="legal-group">
+            <!-- Section Menu for Legal -->
+            <div class="section-menu active" id="legal-menu">
+                <ul>
+                    <li><a href="#" onclick="showContent('legal', 'privacy-policy', this)" id="privacy-link">Privacy Policy</a></li>
+                    <li><a href="#" onclick="showContent('legal', 'terms-service', this)" id="terms-link">Terms of Service</a></li>
+                    <li><a href="#" onclick="showContent('legal', 'cookie-policy', this)" id="cookie-link">Cookie Policy</a></li>
+                </ul>
+            </div>
+
+            <div class="privacy-main-content">
+              <!-- Privacy Policy Section -->
+                  <div class="content-section legal" id="privacy-policy">
+        
+		    <h2><i class="fas fa-shield-check"></i> Privacy Policy</h2>
+		    <p class="last-updated">
+		      <strong>Last updated: December 2024</strong>
+		    </p>
+		    
+		    <div class="highlight-box">
+		      <p><strong>🛡️ Your privacy is our priority.</strong> This Privacy Policy explains how SiMLeng collects, uses, protects, and handles your personal information when you use our innovative educational services and platform. We are committed to transparency and giving you control over your data.</p>
+		    </div>
+
+		    <div class="policy-container">
+		      <div class="table-of-contents">
+			<h3 style="color: #667eea; margin-bottom: 20px; font-size: 1.3rem; display: flex; align-items: center; gap: 10px;">
+			  <i class="far fa-bookmark"></i> Quick Navigation
+			</h3>
+			<div style="display: flex; flex-direction: column; gap: 8px;">
+			  <a href="#information-we-collect" class="toc-link">
+                            <i class="fas fa-database" style="width: 16px;"></i> Information We Collect
+			  </a>
+			  <a href="#how-we-use-data" class="toc-link">
+                            <i class="fas fa-cogs" style="width: 16px;"></i> How We Use Your Data
+			  </a>
+			  <a href="#data-sharing" class="toc-link">
+                            <i class="fas fa-share-alt" style="width: 16px;"></i> Data Sharing & Disclosure
+			  </a>
+			  <a href="#data-security" class="toc-link">
+                            <i class="fas fa-lock" style="width: 16px;"></i> Data Security
+			  </a>
+			  <a href="#your-rights" class="toc-link">
+                            <i class="fas fa-user-check" style="width: 16px;"></i> Your Privacy Rights
+			  </a>
+			  <a href="#data-request-form" class="toc-link">
+                            <i class="fas fa-database" style="width: 16px;"></i> Persnal Data Request
+			  </a>
+			  <a href="#children-privacy" class="toc-link">
+                            <i class="fas fa-child" style="width: 16px;"></i> Children's Privacy
+			  </a>
+			  <a href="#international-transfers" class="toc-link">
+                            <i class="fas fa-globe" style="width: 16px;"></i> International Transfers
+			  </a>
+			  <a href="#data-retention" class="toc-link">
+                            <i class="fas fa-calendar-alt" style="width: 16px;"></i> Data Retention
+			  </a>
+			  <a href="#policy-updates" class="toc-link">
+                            <i class="fas fa-bell" style="width: 16px;"></i> Policy Updates
+			  </a>
+			</div>
+		      </div>
+
+		      <div class="privacy-main-content">
+			<div class="privacy-section" id="information-we-collect">
+			  <h3><i class="fas fa-database"></i> Information We Collect</h3>
+                    
+			  <div class="data-type">
+                            <h4 style="color: #4a5568; margin-bottom: 10px; display: flex; align-items: center; gap: 8px;">
+                            <i class="fas fa-user"></i> Personal Information You Provide
+                            </h4>
+                            <ul style="padding-left: 20px; margin: 15px 0;">
+                              <li><strong>Account Details:</strong> Name, email address, phone number, profile picture</li>
+                              <li><strong>Educational Profile:</strong> Academic level, subjects of interest, learning goals, previous educational background</li>
+                              <li><strong>Payment Information:</strong> Billing address, payment method details (securely processed by third-party providers)</li>
+                              <li><strong>Communication Records:</strong> Messages, support tickets, feedback, and correspondence</li>
+                              <li><strong>Content You Create:</strong> Notes, assignments, project submissions, forum posts</li>
+                            </ul>
+			  </div>
+
+			  <div class="data-type">
+                            <h4 style="color: #4a5568; margin-bottom: 10px; display: flex; align-items: center; gap: 8px;">
+                              <i class="fas fa-chart-line"></i> Usage & Performance Data
+                            </h4>
+                            <ul style="padding-left: 20px; margin: 15px 0;">
+                              <li><strong>Learning Analytics:</strong> Progress tracking, quiz scores, time spent on activities, learning patterns</li>
+                              <li><strong>Platform Usage:</strong> Pages visited, features used, session duration, interaction patterns</li>
+                              <li><strong>Device Information:</strong> IP address, browser type, operating system, device identifiers</li>
+                              <li><strong>Location Data:</strong> General geographic location (country/city level) for content localization</li>
+                            </ul>
+			  </div>
+
+			  <div class="data-type">
+                            <h4 style="color: #4a5568; margin-bottom: 10px; display: flex; align-items: center; gap: 8px;">
+                              <i class="fas fa-cookie-bite"></i> Cookies & Tracking Technologies
+                            </h4>
+                            <p>We use cookies, web beacons, and similar technologies to enhance your experience, analyze usage, and provide personalized content. You can manage cookie preferences through your browser settings or our cookie consent manager.</p>
+			  </div>
+			</div>
+
+			<div class="privacy-section" id="how-we-use-data">
+			  <h3><i class="fas fa-cogs"></i> How We Use Your Data</h3>
+                    
+			  <div class="highlight-box">
+                            <h4><strong>🎯 Primary Purposes</strong></h4>
+                            <ul style="padding-left: 20px; margin: 15px 0;">
+                              <li><strong>Personalized Learning:</strong> Create tailored educational experiences, adaptive learning paths, and intelligent tutoring</li>
+                              <li><strong>Platform Operation:</strong> Account management, payment processing, technical support, and service delivery</li>
+                              <li><strong>Communication:</strong> Educational updates, important notices, customer support, and marketing (with consent)</li>
+                              <li><strong>Improvement & Analytics:</strong> Platform optimization, feature development, usage analysis, and research</li>
+                              <li><strong>Security & Compliance:</strong> Fraud prevention, security monitoring, and legal compliance</li>
+                            </ul>
+			  </div>
+
+			  <p><strong>Legal Basis for Processing (GDPR):</strong> We process your data based on legitimate interests, contractual necessity, legal obligations, and your explicit consent where required.</p>
+			</div>
+
+			<div class="privacy-section" id="data-sharing">
+			  <h3><i class="fas fa-share-alt"></i> Data Sharing & Disclosure</h3>
+                    
+			  <div class="highlight-box">
+                            <p><strong>🚫 We Never Sell Your Data</strong> - Your personal information is never sold, rented, or traded to third parties for marketing purposes.</p>
+			  </div>
+
+			  <h4>Trusted Service Providers</h4>
+			  <p>We share data only with carefully vetted partners who help us deliver our services:</p>
+			  <ul style="padding-left: 20px; margin: 15px 0;">
+                            <li><strong>Payment Processors:</strong> Stripe, PayPal (PCI DSS compliant)</li>
+                            <li><strong>Cloud Services:</strong> AWS, Google Cloud (with data processing agreements)</li>
+                            <li><strong>Analytics:</strong> Google Analytics (anonymized data)</li>
+                            <li><strong>Communication:</strong> Email service providers for notifications</li>
+                            <li><strong>Support Tools:</strong> Customer service platforms</li>
+			  </ul>
+
+			  <h4>Legal Disclosure</h4>
+			  <p>We may disclose information when required by law, court order, or to protect rights, property, or safety of SiMLeng, users, or the public.</p>
+			</div>
+
+			<div class="privacy-section" id="data-security">
+			  <h3><i class="fas fa-lock"></i> Data Security</h3>
+                    
+			  <div class="highlight-box">
+                            <h4><strong>🔒 Enterprise-Grade Security</strong></h4>
+                            <ul style="padding-left: 20px; margin: 15px 0;">
+                              <li><strong>Encryption:</strong> AES-256 encryption for data at rest, TLS 1.3 for data in transit</li>
+                              <li><strong>Access Controls:</strong> Multi-factor authentication, role-based access, principle of least privilege</li>
+                              <li><strong>Infrastructure:</strong> Secure cloud hosting with regular security audits and penetration testing</li>
+                              <li><strong>Monitoring:</strong> 24/7 security monitoring, intrusion detection, and incident response procedures</li>
+                              <li><strong>Staff Training:</strong> Regular security awareness training and background checks</li>
+                            </ul>
+			  </div>
+
+			  <div class="highlight-box">
+                            <p><strong>⚠️ Important:</strong> While we implement industry-leading security measures, no system is 100% secure. We continuously monitor and improve our security practices to protect your data.</p>
+			  </div>
+			</div>
+
+			<div class="privacy-section" id="your-rights">
+			  <h3><i class="fas fa-user-check"></i> Your Privacy Rights</h3>
+                    
+			  <div class="rights-card">
+                            <h4 style="margin-bottom: 15px; color: white; display: flex; align-items: center; gap: 10px;">
+                              <i class="fas fa-gavel"></i> Your Legal Rights (GDPR & Beyond)
+                            </h4>
+                            <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 20px;">
+                              <div>
+                                <p><strong>📋 Right to Access</strong></p>
+                                <p>Request a copy of your personal data</p>
+                            </div>
+                            <div>
+                                <p><strong>✏️ Right to Rectification</strong></p>
+                                <p>Correct inaccurate or incomplete data</p>
+                            </div>
+                            <div>
+                                <p><strong>🗑️ Right to Erasure</strong></p>
+                                <p>Request deletion of your data</p>
+                            </div>
+                            <div>
+                                <p><strong>⏸️ Right to Restrict Processing</strong></p>
+                                <p>Limit how we use your data</p>
+                            </div>
+                            <div>
+                                <p><strong>📦 Right to Data Portability</strong></p>
+                                <p>Receive your data in a portable format</p>
+                            </div>
+                            <div>
+                                <p><strong>❌ Right to Object</strong></p>
+                                <p>Opt-out of certain data processing</p>
+                            </div>
+                            </div>
+                            <p style="margin-top: 20px; font-size: 0.9rem; opacity: 0.9;">
+			      <strong>Complaint Rights:</strong> If you believe your data rights have been violated, you have the right to lodge a complaint with your local <a href="https://edpb.europa.eu/about-edpb/board/members_en" target="_blank" style="color: #63b3ed; text-decoration: underline;">Data Protection Authority</a> or with the <a href="https://ico.org.uk/make-a-complaint/" target="_blank" style="color: #63b3ed; text-decoration: underline;">UK Information Commissioner’s Office (ICO)</a>.
+			   
+			      <strong>To access, correct, or delete your personal data, please use our</strong> 
+			      <a href="#gdpr-request-form" style="color: #63b3ed; text-decoration: underline;">Data Request Form</a>.
+
+                            <strong>How to Exercise Your Rights:</strong> Contact our Data Protection Officer using the contact information in the footer below.
+                            </p>
+			  </div>
+			</div>
+			<div class="privacy-section" id="data-request-form">
+			  <h3><i class="fas fa-database"></i> Request My Personal Data</h3>
+			  <section id="gdpr-request-form" class="gdpr-request-section">
+			    <p class="gdpr-description">
+			      Use the form below to request access, correction, or deletion of your personal data in accordance with GDPR, CCPA, or similar regulations.
+			    </p>
+
+			    <form action="https://formspree.io/f/YOUR_NEW_KEY_HERE" method="POST" class="gdpr-form">
+			      <input type="hidden" name="form_type" value="gdpr_data_request">
+			      
+			      <label for="name">Full Name *</label>
+			      <input type="text" id="name" name="name" required>
+			      
+			      <label for="email">Email Address *</label>
+			      <input type="email" id="email" name="_replyto" required>
+			      
+			      <label for="request-type">Request Type *</label>
+			      <select id="request-type" name="request_type" required>
+				<option value="">Select an option</option>
+				<option value="access">Access My Data</option>
+				<option value="correction">Correct My Data</option>
+				<option value="deletion">Delete My Data</option>
+				<option value="other">Other</option>
+			      </select>
+
+			      <label for="message">Message (optional)</label>
+			      <textarea id="message" name="message" rows="5" placeholder="Explain your request if needed..."></textarea>
+			      
+			      <button type="submit">Submit Request</button>
+			    </form>
+			  </section>
+
+			</div>
+
+			<div class="privacy-section" id="children-privacy">
+			  <h3><i class="fas fa-child"></i> Children's Privacy</h3>
+                    
+			  <div class="highlight-box">
+                            <h4><strong>👨‍👩‍👧‍👦 Protecting Young Learners</strong></h4>
+                            <ul style="padding-left: 20px; margin: 15px 0;">
+                              <li><strong>Age Requirement:</strong> Our services are designed for users 13 and older</li>
+                              <li><strong>Under 13:</strong> We do not knowingly collect data from children under 13 without verifiable parental consent</li>
+                              <li><strong>13-18 Years:</strong> We encourage parental involvement and provide additional privacy protections</li>
+                              <li><strong>Educational Context:</strong> Special considerations for school-based accounts with appropriate permissions</li>
+                            </ul>
+			  </div>
+
+			  <p>If we discover we have collected information from a child under 13 without proper consent, we will promptly delete such information.</p>
+			</div>
+
+			<div class="privacy-section" id="international-transfers">
+			  <h3><i class="fas fa-globe"></i> International Data Transfers</h3>
+                    
+			  <p>Your data may be processed in countries outside your own, including the UK, EU, and US. We ensure appropriate safeguards:</p>
+			  <ul style="padding-left: 20px; margin: 15px 0;">
+                            <li><strong>Adequacy Decisions:</strong> Transfers to countries with adequate data protection laws</li>
+                            <li><strong>Standard Contractual Clauses:</strong> EU-approved contract terms for data protection</li>
+                            <li><strong>Certification Programs:</strong> Partners with recognized privacy certifications</li>
+                            <li><strong>Binding Corporate Rules:</strong> Internal policies ensuring consistent protection</li>
+			  </ul>
+			</div>
+
+			<div class="privacy-section" id="data-retention">
+			  <h3><i class="fas fa-calendar-alt"></i> Data Retention</h3>
+                    
+			  <div class="data-type">
+                            <h4 style="color: #4a5568; margin-bottom: 10px;">Retention Periods</h4>
+                            <ul style="padding-left: 20px; margin: 15px 0;">
+                              <li><strong>Account Data:</strong> While account is active + 3 years after closure</li>
+                              <li><strong>Learning Records:</strong> 7 years for educational continuity and certification purposes</li>
+                              <li><strong>Payment Data:</strong> As required by financial regulations (typically 7 years)</li>
+                              <li><strong>Support Communications:</strong> 3 years for service improvement</li>
+                              <li><strong>Marketing Data:</strong> Until consent is withdrawn or 2 years of inactivity</li>
+                            </ul>
+			  </div>
+			  
+			  <p>We regularly review and securely delete data that is no longer needed, in accordance with our data retention schedule and legal obligations.</p>
+			</div>
+
+			<div class="privacy-section" id="policy-updates">
+			  <h3><i class="fas fa-bell"></i> Policy Updates</h3>
+			  
+			  <div class="rights-card">
+                            <h4 style="margin-bottom: 15px; color: white; display: flex; align-items: center; gap: 10px;">
+                              <i class="fas fa-bell"></i> Stay Informed About Changes
+                            </h4>
+                            <p>We may update this Privacy Policy to reflect changes in our practices, technology, or legal requirements.</p>
+                            <p><strong>How we'll notify you:</strong></p>
+                            <ul style="padding-left: 20px; margin: 10px 0;">
+                              <li>📧 Email notification to all registered users</li>
+                              <li>🔔 Prominent website banner for 30 days</li>
+                              <li>📱 In-app notifications for mobile users</li>
+                              <li>📅 Updated "Last modified" date at the top</li>
+                            </ul>
+                            <p style="margin-top: 15px;">
+                              <strong>Material Changes:</strong> For significant changes affecting your rights, we'll provide 30 days' notice and may require renewed consent.
+                            </p>
+			  </div> 
+			</div>
+		  </div>
+		 </div>
+
+		    <div class="compliance-toggle-container">
+		      <!--Data Protection & Compliance Section -->
+		      <div class="data-protection-section collapsible-compliance">
+			<div class="close-compliance" onclick="toggleCompliance(this, event)">
+			  <i class="fas fa-times"></i> Close
+			</div>
+			
+			<h3 style="margin-bottom: 10px; display: flex; align-items: center; justify-content: center; gap: 10px;">
+			  <i class="fas fa-user-shield"></i> Data Protection & Compliance
+			</h3>
+			
+			<!-- 🔽 Added legal disclaimer line, styled to match your theme -->
+			<p style="margin-bottom: 30px; font-size: 0.95rem; color: #cbd5e0;">
+			  This information supplements our full 
+			  <a href="#privacy-policy" style="color: #63b3ed; text-decoration: underline;">Privacy Policy</a>.
+			</p>
+			  
+			<p>If you have questions specifically related to data privacy, compliance, or your rights under GDPR and similar regulations, please contact our Data Protection Officer.</p>
+			
+			<div class="contact-grid">
+			  <div class="contact-item">
+			    <i class="fas fa-shield-alt"></i>
+			    <div>
+			      <strong>Data Protection Officer</strong><br>
+			      <a href="mailto:privacy@simleng.com" style="color: #3498db;">privacy@simleng.com</a>
+			    </div>
+			  </div>
+			  <div class="contact-item">
+			    <i class="fas fa-balance-scale"></i>
+			    <div>
+			      <strong>Regulatory Inquiries</strong><br>
+			      For concerns or reports related to legal compliance and data handling.
+			    </div>
+			  </div>
+			</div>
+
+			<div style="margin-top: 30px; padding-top: 20px; border-top: 1px solid rgba(255,255,255,0.2);">
+			  <p><strong>🌍 Compliance:</strong> This privacy policy complies with UK GDPR, EU GDPR, CCPA, and other applicable data protection regulations.</p>
+			  <p style="margin-top: 10px; font-size: 0.9rem; opacity: 0.8;">
+			    <strong>Your Trust Matters:</strong> At SiMLeng, we are committed to maintaining the highest standards of privacy protection and transparency in all our practices.
+			  </p>
+			</div>
+		      </div>
+		    </div>
+		    
+		  </div>
+	    </div>
+
+		  
+            <div class="terms-main-content">
+		  <!-- Terms of Service Section - Compatible with unified-about-us.css -->	    	  
+		  <div class="content-section legal" id="terms-service">
+        
+		    <h2><i class="fas fa-shield-check"></i> Terms of Service</h2>
+        
+		    <div class="last-updated">
+		      <i class="fas fa-calendar-alt"></i> Last Updated: December 2024
+		    </div>
+
+		    <div class="important-notice">
+		      <h3 style="color: white; margin-bottom: 15px;"><i class="fas fa-exclamation-triangle"></i> Important Notice</h3>
+		      <p style="margin-bottom: 0;">Please read these Terms of Service carefully before using SiMLeng's services. By accessing or using our platform, you agree to be bound by these terms and our commitment to providing exceptional educational experiences.</p>
+		    </div>
+
+		    <div class="policy-container">
+		      <div class="table-of-contents">
+			<h3 style="color: #667eea; margin-bottom: 20px; font-size: 1.3rem; display: flex; align-items: center; gap: 10px;">
+			  <i class="far fa-bookmark"></i> Quick Navigation
+			</h3>
+			<div style="display: flex; flex-direction: column;">
+			  <a href="#acceptance" class="toc-link">
+                            <i class="fas fa-handshake" style="width: 16px;"></i> Acceptance of Terms
+			  </a>
+			  <a href="#services" class="toc-link">
+                            <i class="fas fa-graduation-cap" style="width: 16px;"></i> Our Services
+			  </a>
+			  <a href="#eligibility" class="toc-link">
+                            <i class="fas fa-user-check" style="width: 16px;"></i> User Eligibility
+			  </a>
+			  <a href="#conduct" class="toc-link">
+                            <i class="fas fa-balance-scale" style="width: 16px;"></i> User Conduct
+			  </a>
+			  <a href="#payment" class="toc-link">
+                            <i class="fas fa-credit-card" style="width: 16px;"></i> Payment Terms
+			  </a>
+			  <a href="#intellectual" class="toc-link">
+                            <i class="fas fa-copyright" style="width: 16px;"></i> Intellectual Property
+			  </a>
+			  <a href="#privacy" class="toc-link">
+                            <i class="fas fa-user-shield" style="width: 16px;"></i> Privacy & Data
+			  </a>
+			  <a href="#availability" class="toc-link">
+                            <i class="fas fa-server" style="width: 16px;"></i> Service Availability
+			  </a>
+			  <a href="#disclaimers" class="toc-link">
+                            <i class="fas fa-exclamation-circle" style="width: 16px;"></i> Disclaimers
+			  </a>
+			  <a href="#termination" class="toc-link">
+                            <i class="fas fa-door-open" style="width: 16px;"></i> Termination
+			  </a>
+			  <a href="#dispute" class="toc-link">
+                            <i class="fas fa-gavel" style="width: 16px;"></i> Dispute Resolution
+			  </a>
+			  <a href="#changes" class="toc-link">
+                            <i class="fas fa-edit" style="width: 16px;"></i> Terms Changes
+			  </a>
+			</div>
+		      </div>
+
+		      <div class="terms-main-content">
+			<div class="terms-section" id="acceptance">
+			  <h2><i class="fas fa-handshake"></i> Acceptance of Terms</h2>
+                    
+			  <p>Welcome to SiMLeng, your premier destination for AI-powered educational excellence. These Terms of Service ("Terms") establish a comprehensive legal framework governing your relationship with SiMLeng and your use of our innovative educational platform.</p>
+
+			  <div class="highlight-box">
+                            <h4><i class="fas fa-info-circle"></i> Key Points</h4>
+                            <ul>
+                              <li><strong>Legal Agreement:</strong> These terms create a binding contract between you and SiMLeng</li>
+                              <li><strong>Platform Access:</strong> Your use of our services implies acceptance of these terms</li>
+                              <li><strong>Regular Updates:</strong> We may update these terms to reflect service enhancements</li>
+                              <li><strong>User Protection:</strong> These terms protect both your rights and our educational mission</li>
+                            </ul>
+			  </div>
+
+			  <p>By creating an account, accessing our platform, or using any of our services, you acknowledge that you have carefully read, fully understood, and agree to be legally bound by these Terms, our Privacy Policy, and any additional guidelines we may establish.</p>
+			</div>
+
+			<div class="terms-section" id="services">
+			  <h2><i class="fas fa-graduation-cap"></i> Our Educational Services</h2>
+                    
+			  <p>SiMLeng revolutionizes education through cutting-edge AI technology and personalized learning experiences. Our comprehensive platform offers:</p>
+
+			  <div class="feature-grid">
+                            <div class="feature-card">
+                              <h4><i class="fas fa-calculator"></i> Advanced Mathematics</h4>
+                              <p>From basic arithmetic to advanced calculus, linear algebra, and statistical modeling with AI-powered explanations.</p>
+                            </div>
+                            <div class="feature-card">
+                            <h4><i class="fas fa-chart-bar"></i> Statistical Analysis</h4>
+                            <p>Comprehensive statistics courses including descriptive statistics, hypothesis testing, and data visualization.</p>
+                            </div>
+                            <div class="feature-card">
+                              <h4><i class="fas fa-robot"></i> AI Learning Tools</h4>
+                              <p>Intelligent tutoring systems that adapt to your learning pace and provide personalized feedback.</p>
+                            </div>
+                            <div class="feature-card">
+                              <h4><i class="fas fa-chart-line"></i> Progress Analytics</h4>
+                              <p>Detailed learning analytics and progress tracking with actionable insights for improvement.</p>
+                            </div>
+                            <div class="feature-card">
+                              <h4><i class="fas fa-users"></i> Expert Support</h4>
+                              <p>Access to qualified instructors and peer learning communities for collaborative education.</p>
+                            </div>
+                            <div class="feature-card">
+                              <h4><i class="fas fa-certificate"></i> Certifications</h4>
+                              <p>Industry-recognized certificates upon course completion to validate your achievements.</p>
+                            </div>
+			  </div>
+
+			  <div class="stats-grid">
+                            <div class="stat-card">
+                              <div class="stat-number">50,000+</div>
+                              <div>Active Learners</div>
+                            </div>
+                            <div class="stat-card">
+                              <div class="stat-number">200+</div>
+                              <div>Course Modules</div>
+                            </div>
+                            <div class="stat-card">
+                              <div class="stat-number">95%</div>
+                              <div>Success Rate</div>
+                            </div>
+                            <div class="stat-card">
+                              <div class="stat-number">24/7</div>
+                              <div>Platform Access</div>
+                            </div>
+			  </div>
+
+			  <p>We continuously enhance our services through user feedback, technological advancement, and educational research. Service availability and features may vary based on your subscription level and geographic location.</p>
+			</div>
+
+			<div class="terms-section" id="eligibility">
+			  <h2><i class="fas fa-user-check"></i> User Eligibility and Registration</h2>
+			  
+			  <h3><i class="fas fa-birthday-cake"></i> Age and Consent Requirements</h3>
+			  <div class="feature-grid">
+                            <div class="feature-card">
+                              <h4><i class="fas fa-child"></i> Minimum Age: 13 Years</h4>
+                              <p>Users must be at least 13 years old to create an independent account on our platform.</p>
+                            </div>
+                            <div class="feature-card">
+                              <h4><i class="fas fa-users"></i> Parental Supervision</h4>
+                              <p>Users under 18 require parental consent and ongoing supervision for platform use.</p>
+                            </div>
+                            <div class="feature-card">
+                              <h4><i class="fas fa-shield-alt"></i> Account Verification</h4>
+                              <p>All users must provide accurate, complete, and verifiable registration information.</p>
+                            </div>
+                            <div class="feature-card">
+                              <h4><i class="fas fa-globe"></i> Geographic Access</h4>
+                              <p>Services available worldwide, subject to local laws and educational regulations.</p>
+                            </div>
+			  </div>
+			  
+			  <h3><i class="fas fa-key"></i> Account Security Responsibilities</h3>
+			  <p>Your account security is paramount to maintaining a safe learning environment:</p>
+			  <ul>
+                            <li><strong>Password Protection:</strong> Create strong, unique passwords and enable two-factor authentication</li>
+                            <li><strong>Account Monitoring:</strong> Regularly review account activity and report suspicious behavior</li>
+                            <li><strong>Information Updates:</strong> Keep personal and payment information current and accurate</li>
+                            <li><strong>Immediate Reporting:</strong> Notify us immediately of any unauthorized access or security breaches</li>
+                            <li><strong>Shared Responsibility:</strong> You are liable for all activities conducted under your account</li>
+			  </ul>
+			</div>
+			
+			<div class="terms-section" id="conduct">
+			  <h2><i class="fas fa-balance-scale"></i> User Conduct and Community Standards</h2>
+			  
+			  <p>SiMLeng fosters a respectful, inclusive, and productive learning environment. All users must adhere to our community standards and acceptable use policies.</p>
+			  
+			  <h3><i class="fas fa-ban"></i> Prohibited Activities</h3>
+			  <div class="highlight-box">
+                            <h4><i class="fas fa-exclamation-triangle"></i> Strictly Forbidden Actions</h4>
+                            <ul>
+                              <li><strong>Academic Dishonesty:</strong> Cheating, plagiarism, or circumventing assessment integrity</li>
+                              <li><strong>System Abuse:</strong> Attempting to hack, exploit, or gain unauthorized system access</li>
+                              <li><strong>Content Violations:</strong> Sharing inappropriate, offensive, or copyrighted material</li>
+                              <li><strong>Harassment:</strong> Bullying, discriminating, or threatening other users</li>
+                              <li><strong>Commercial Misuse:</strong> Using our platform for unauthorized business activities</li>
+                              <li><strong>False Information:</strong> Providing misleading or fraudulent account details</li>
+                              <li><strong>Platform Disruption:</strong> Interfering with service operations or other users' experiences</li>
+                            </ul>
+			  </div>
+			  
+			  <h3><i class="fas fa-heart"></i> Positive Community Engagement</h3>
+			  <p>We encourage behaviors that enhance the learning experience for everyone:</p>
+			  <ul>
+                            <li><strong>Respectful Communication:</strong> Engage constructively with peers and instructors</li>
+                            <li><strong>Knowledge Sharing:</strong> Contribute to discussions and help fellow learners</li>
+                            <li><strong>Constructive Feedback:</strong> Provide helpful suggestions for platform improvement</li>
+                            <li><strong>Cultural Sensitivity:</strong> Respect diverse backgrounds and learning styles</li>
+                            <li><strong>Academic Integrity:</strong> Approach learning with honesty and genuine effort</li>
+			  </ul>
+			  
+			  <div class="feature-card">
+                            <h4><i class="fas fa-medal"></i> Recognition Programs</h4>
+                            <p>Active, positive community members may be recognized through our achievement system, featuring badges, certificates, and special recognition in our community showcase.</p>
+			  </div>
+			</div>
+			
+			<div class="terms-section" id="payment">
+			  <h2><i class="fas fa-credit-card"></i> Payment Terms and Billing</h2>
+			  
+			  <h3><i class="fas fa-tags"></i> Transparent Pricing Structure</h3>
+			  <p>Our pricing is designed to be fair, transparent, and accessible to learners worldwide:</p>
+			  
+			  <div class="feature-grid">
+                            <div class="feature-card">
+                              <h4><i class="fas fa-eye"></i> Clear Fee Display</h4>
+                              <p>All fees, including taxes and additional charges, are clearly displayed before purchase.</p>
+                            </div>
+                            <div class="feature-card">
+                              <h4><i class="fas fa-shield-alt"></i> Secure Processing</h4>
+                              <p>Payments processed through industry-leading secure payment processors with encryption.</p>
+                            </div>
+                            <div class="feature-card">
+                              <h4><i class="fas fa-bell"></i> Price Change Notice</h4>
+                              <p>30-day advance notice for any subscription price changes, with opt-out options.</p>
+                            </div>
+                            <div class="feature-card">
+                              <h4><i class="fas fa-globe"></i> Global Currency Support</h4>
+                              <p>Multiple currency options and regional pricing to ensure global accessibility.</p>
+                            </div>
+			  </div>
+			  
+			  <h3><i class="fas fa-sync-alt"></i> Subscription Management</h3>
+			  <div class="highlight-box">
+                            <h4><i class="fas fa-cog"></i> Subscription Control</h4>
+                            <ul>
+                              <li><strong>Auto-Renewal:</strong> Subscriptions renew automatically unless cancelled 24 hours before renewal</li>
+                              <li><strong>Easy Cancellation:</strong> Cancel anytime through account settings or customer support</li>
+                              <li><strong>Flexible Refunds:</strong> 14-day money-back guarantee for new subscribers</li>
+                              <li><strong>Upgrade/Downgrade:</strong> Change subscription levels with prorated billing adjustments</li>
+                              <li><strong>Payment Failure:</strong> 7-day grace period for failed payments before service suspension</li>
+                            </ul>
+			  </div>
+			</div>
+
+			<div class="terms-section" id="intellectual">
+			  <h2><i class="fas fa-copyright"></i> Intellectual Property Rights</h2>
+			  
+			  <h3><i class="fas fa-university"></i> Our Educational Content</h3>
+			  <p>SiMLeng's educational materials represent years of expert development and AI innovation. All platform content, including courses, algorithms, assessments, and learning tools, is protected by international copyright and intellectual property laws.</p>
+			  
+			  <div class="feature-grid">
+                            <div class="feature-card">
+                              <h4><i class="fas fa-book"></i> Course Materials</h4>
+                              <p>Lectures, exercises, videos, and interactive content created by our expert team.</p>
+                            </div>
+                            <div class="feature-card">
+                              <h4><i class="fas fa-code"></i> AI Algorithms</h4>
+                              <p>Proprietary learning algorithms and personalization engines developed in-house.</p>
+                            </div>
+                            <div class="feature-card">
+                              <h4><i class="fas fa-palette"></i> Visual Design</h4>
+                              <p>Platform interface, graphics, logos, and visual elements are our exclusive property.</p>
+                            </div>
+                            <div class="feature-card">
+                              <h4><i class="fas fa-database"></i> Learning Data</h4>
+                              <p>Aggregated learning analytics and educational insights (anonymized user data).</p>
+                            </div>
+			  </div>
+			  
+			  <h3><i class="fas fa-license"></i> Your Usage Rights</h3>
+			  <div class="highlight-box">
+                            <h4><i class="fas fa-check-circle"></i> Permitted Uses</h4>
+                            <ul>
+                              <li><strong>Personal Learning:</strong> Access content for your individual educational advancement</li>
+                              <li><strong>Note-Taking:</strong> Create personal study notes and summaries for private use</li>
+                              <li><strong>Discussion:</strong> Reference content in course discussions and peer interactions</li>
+                              <li><strong>Academic Citation:</strong> Properly cite our materials in academic work with attribution</li>
+                            </ul>
+                            
+                            <h4><i class="fas fa-times-circle"></i> Prohibited Uses</h4>
+                            <ul>
+                              <li><strong>Redistribution:</strong> Sharing, copying, or distributing our content externally</li>
+                              <li><strong>Commercial Use:</strong> Using our materials for business or commercial purposes</li>
+                              <li><strong>Reverse Engineering:</strong> Attempting to recreate our algorithms or systems</li>
+                              <li><strong>Content Modification:</strong> Altering or creating derivative works from our materials</li>
+                            </ul>
+			  </div>
+			</div>
+			
+			<div class="terms-section" id="privacy">
+			  <h2><i class="fas fa-user-shield"></i> Privacy and Data Protection</h2>
+			  
+			  <p>Your privacy is fundamental to our educational mission. We implement comprehensive data protection measures that exceed industry standards and comply with global privacy regulations including GDPR, CCPA, and other applicable laws.</p>
+
+			  <div class="feature-grid">
+                            <div class="feature-card">
+                              <h4><i class="fas fa-lock"></i> Data Encryption</h4>
+                              <p>End-to-end encryption for all personal data, both in transit and at rest.</p>
+                            </div>
+                            <div class="feature-card">
+                              <h4><i class="fas fa-user-cog"></i> Learning Personalization</h4>
+                              <p>Data used solely to enhance your educational experience and track progress.</p>
+                            </div>
+                            <div class="feature-card">
+                              <h4><i class="fas fa-trash-alt"></i> Data Control</h4>
+                              <p>Full control over your data with options to export or delete your information.</p>
+                            </div>
+                            <div class="feature-card">
+                              <h4><i class="fas fa-eye-slash"></i> No Third-Party Sales</h4>
+                              <p>We never sell your personal data to third parties or advertising networks.</p>
+                            </div>
+			  </div>
+			  
+			  <div class="highlight-box">
+                            <h4><i class="fas fa-info-circle"></i> Data Usage Transparency</h4>
+                            <p><strong>How we use your information:</strong></p>
+                            <ul>
+                              <li><strong>Learning Analytics:</strong> Track progress and identify areas for improvement</li>
+                              <li><strong>Personalization:</strong> Customize content difficulty and learning paths</li>
+                              <li><strong>Communication:</strong> Send course updates and educational resources</li>
+                              <li><strong>Platform Improvement:</strong> Analyze usage patterns to enhance our services</li>
+                              <li><strong>Security:</strong> Detect and prevent fraudulent activities</li>
+                            </ul>
+			  </div>
+			</div>
+			
+			<div class="terms-section" id="availability">
+			  <h2><i class="fas fa-server"></i> Service Availability and Technical Requirements</h2>
+			  
+			  <h3><i class="fas fa-clock"></i> Platform Reliability</h3>
+			  <p>We maintain robust infrastructure to ensure reliable access to your education:</p>
+			  
+			  <div class="stats-grid">
+                            <div class="stat-card">
+                              <div class="stat-number">99.9%</div>
+                              <div>Uptime Target</div>
+                            </div>
+                            <div class="stat-card">
+                              <div class="stat-number">24/7</div>
+                              <div>Monitoring</div>
+                            </div>
+                            <div class="stat-card">
+                              <div class="stat-number">&lt;2s</div>
+                              <div>Response Time</div>
+                            </div>
+                            <div class="stat-card">
+                              <div class="stat-number">Global</div>
+                              <div>CDN Network</div>
+                            </div>
+			  </div>
+			  
+			  <h3><i class="fas fa-laptop"></i> Technical Requirements</h3>
+			  <div class="feature-grid">
+                            <div class="feature-card">
+                              <h4><i class="fas fa-wifi"></i> Internet Connection</h4>
+                              <p>Stable broadband connection (minimum 5 Mbps) for optimal learning experience.</p>
+                            </div>
+                            <div class="feature-card">
+                              <h4><i class="fas fa-desktop"></i> Supported Devices</h4>
+                              <p>Desktop computers, laptops, tablets, and smartphones with modern browsers.</p>
+                            </div>
+                            <div class="feature-card">
+                              <h4><i class="fas fa-browser"></i> Browser Compatibility</h4>
+                              <p>Chrome 90+, Firefox 88+, Safari 14+, Edge 90+ for full functionality.</p>
+                            </div>
+                            <div class="feature-card">
+                              <h4><i class="fas fa-mobile-alt"></i> Mobile Apps</h4>
+			      <p>Native iOS and Android apps available for learning on-the-go with offline content sync.</p>
+                            </div>
+			  </div>
+
+			  <div class="highlight-box">
+                            <h4><i class="fas fa-tools"></i> Maintenance Windows</h4>
+                            <p>Scheduled maintenance occurs during off-peak hours (2-4 AM EST) with advance notice. Emergency maintenance may occur without prior notification but will be communicated immediately through our status page and user notifications.</p>
+			  </div>
+			</div>
+			
+			<div class="terms-section" id="disclaimers">
+			  <h2><i class="fas fa-exclamation-circle"></i> Disclaimers and Limitations</h2>
+			  
+			  <div class="important-notice">
+                            <h3 style="color: white; margin-bottom: 15px;"><i class="fas fa-shield-alt"></i> Educational Purpose Disclaimer</h3>
+                            <p style="margin-bottom: 0;">SiMLeng provides educational content and tools for learning purposes. While we strive for accuracy and effectiveness, individual learning outcomes may vary. Our platform supplements but does not replace formal education or professional instruction.</p>
+			  </div>
+			  
+			  <h3><i class="fas fa-balance-scale"></i> Limitation of Liability</h3>
+			  <div class="feature-grid">
+                            <div class="feature-card">
+                              <h4><i class="fas fa-graduation-cap"></i> Educational Outcomes</h4>
+                              <p>We cannot guarantee specific academic achievements, test scores, or career advancement results.</p>
+                            </div>
+                            <div class="feature-card">
+                            <h4><i class="fas fa-server"></i> Technical Issues</h4>
+                            <p>Not liable for data loss, technical disruptions, or inability to access services due to external factors.</p>
+                            </div>
+                            <div class="feature-card">
+                              <h4><i class="fas fa-users"></i> Third-Party Content</h4>
+                              <p>Limited liability for external links, resources, or third-party integrations within our platform.</p>
+                            </div>
+                            <div class="feature-card">
+                              <h4><i class="fas fa-clock"></i> Service Changes</h4>
+                              <p>Right to modify, suspend, or discontinue services with reasonable notice to users.</p>
+                            </div>
+			  </div>
+
+			  <h3><i class="fas fa-hands-helping"></i> Your Responsibilities</h3>
+			  <ul>
+			    <li><strong>Learning Commitment:</strong> Actively engage with materials and complete assignments honestly</li>
+                            <li><strong>Technical Preparation:</strong> Ensure your devices meet minimum system requirements</li>
+                            <li><strong>Account Security:</strong> Maintain password security and report unauthorized access</li>
+                            <li><strong>Community Standards:</strong> Follow our code of conduct and respect other learners</li>
+                            <li><strong>Feedback Provision:</strong> Report technical issues and provide constructive platform feedback</li>
+			  </ul>
+			</div>
+			
+			<div class="terms-section" id="termination">
+			  <h2><i class="fas fa-door-open"></i> Account Termination and Service Suspension</h2>
+			  
+			  <h3><i class="fas fa-user-times"></i> User-Initiated Termination</h3>
+			  <p>You maintain full control over your account and can terminate your subscription at any time:</p>
+			  
+			  <div class="feature-grid">
+                            <div class="feature-card">
+                              <h4><i class="fas fa-mouse-pointer"></i> Easy Cancellation</h4>
+                              <p>Cancel your subscription through account settings or by contacting customer support.</p>
+                            </div>
+                            <div class="feature-card">
+                              <h4><i class="fas fa-calendar-check"></i> Access Continuation</h4>
+                              <p>Maintain access to paid content until the end of your current billing period.</p>
+                            </div>
+                            <div class="feature-card">
+                              <h4><i class="fas fa-download"></i> Data Export</h4>
+                              <p>Download your progress data, certificates, and personal content before termination.</p>
+                            </div>
+                            <div class="feature-card">
+                            <h4><i class="fas fa-undo"></i> Reactivation Option</h4>
+                            <p>Reactivate your account within 30 days to restore previous progress and settings.</p>
+                            </div>
+			  </div>
+
+			  <h3><i class="fas fa-ban"></i> SiMLeng-Initiated Termination</h3>
+			  <div class="highlight-box">
+                            <h4><i class="fas fa-exclamation-triangle"></i> Grounds for Account Suspension</h4>
+                            <ul>
+                              <li><strong>Terms Violation:</strong> Repeated violations of our Terms of Service or community guidelines</li>
+                              <li><strong>Payment Issues:</strong> Persistent failure to maintain current payment information</li>
+                              <li><strong>Fraudulent Activity:</strong> Suspected fraud, identity theft, or unauthorized account access</li>
+                              <li><strong>System Abuse:</strong> Attempts to compromise platform security or disrupt services</li>
+                              <li><strong>Legal Requirements:</strong> Compliance with legal orders or regulatory requirements</li>
+                            </ul>
+			  </div>
+			  
+			  <p><strong>Due Process:</strong> Before termination, we provide written notice and opportunity to remedy violations when possible. Emergency suspensions may occur for serious security threats.</p>
+			</div>
+			
+			<div class="terms-section" id="dispute">
+			  <h2><i class="fas fa-gavel"></i> Dispute Resolution and Legal Framework</h2>
+			  
+			  <h3><i class="fas fa-handshake"></i> Preferred Resolution Methods</h3>
+			  <p>We believe in resolving disputes amicably and efficiently through collaborative approaches:</p>
+			  
+			  <div class="stats-grid">
+                            <div class="stat-card">
+                              <div class="stat-number">Step 1</div>
+                              <div>Direct Communication</div>
+                            </div>
+                            <div class="stat-card">
+                              <div class="stat-number">Step 2</div>
+                              <div>Mediation Process</div>
+                            </div>
+                            <div class="stat-card">
+                              <div class="stat-number">Step 3</div>
+                              <div>Arbitration Option</div>
+                            </div>
+                            <div class="stat-card">
+                              <div class="stat-number">Final</div>
+                              <div>Legal Proceedings</div>
+                            </div>
+			  </div>
+
+			  <h3><i class="fas fa-map-marker-alt"></i> Governing Law and Jurisdiction</h3>
+			  <div class="feature-grid">
+                            <div class="feature-card">
+                              <h4><i class="fas fa-balance-scale"></i> Applicable Law</h4>
+                              <p>These terms are governed by the laws of [Your Jurisdiction], without regard to conflict of law principles.</p>
+                            </div>
+                            <div class="feature-card">
+                              <h4><i class="fas fa-building"></i> Court Jurisdiction</h4>
+                              <p>Exclusive jurisdiction in the courts of [Your Location] for any legal proceedings.</p>
+                            </div>
+                            <div class="feature-card">
+                              <h4><i class="fas fa-globe"></i> International Users</h4>
+                              <p>International users agree to jurisdiction and governing law as specified above.</p>
+                            </div>
+                            <div class="feature-card">
+                              <h4><i class="fas fa-language"></i> Language Priority</h4>
+                              <p>English version of these terms takes precedence over any translations.</p>
+                            </div>
+			  </div>
+
+			  <div class="highlight-box">
+                            <h4><i class="fas fa-phone"></i> Contact Information for Disputes</h4>
+                            <p><strong>Email:</strong> legal@simleng.com</p>
+                            <p><strong>Mail:</strong> SiMLeng Legal Department, [Your Address]</p>
+                            <p><strong>Response Time:</strong> We aim to respond to legal inquiries within 5-7 business days</p>
+			  </div>
+			</div>
+			
+			<div class="terms-section" id="changes">
+			  <h2><i class="fas fa-edit"></i> Terms Modifications and Updates</h2>
+			  
+			  <h3><i class="fas fa-bell"></i> Notification Process</h3>
+			  <p>We believe in transparency when updating our terms. Our comprehensive notification process ensures you're always informed of important changes:</p>
+			  
+			  <div class="feature-grid">
+                            <div class="feature-card">
+                              <h4><i class="fas fa-calendar-alt"></i> 30-Day Notice</h4>
+                              <p>Major changes receive 30 days advance notice via email and platform notifications.</p>
+                            </div>
+                            <div class="feature-card">
+                              <h4><i class="fas fa-highlight"></i> Change Highlighting</h4>
+                              <p>Modified sections are clearly marked and explained in plain language summaries.</p>
+                            </div>
+                            <div class="feature-card">
+                              <h4><i class="fas fa-archive"></i> Version History</h4>
+                              <p>Previous versions archived and accessible for reference and comparison.</p>
+                            </div>
+                            <div class="feature-card">
+                              <h4><i class="fas fa-door-open"></i> Opt-Out Rights</h4>
+                              <p>Disagree with changes? Cancel your subscription without penalty during notice period.</p>
+                            </div>
+			  </div>
+
+			  <h3><i class="fas fa-list-alt"></i> Types of Updates</h3>
+			  <div class="highlight-box">
+                            <h4><i class="fas fa-info-circle"></i> Update Categories</h4>
+                            <ul>
+                              <li><strong>Minor Updates:</strong> Clarifications, typo corrections, and formatting improvements</li>
+                              <li><strong>Feature Updates:</strong> New service features, enhanced functionality, and platform improvements</li>
+                              <li><strong>Legal Updates:</strong> Compliance with new regulations or legal requirements</li>
+                              <li><strong>Policy Changes:</strong> Modifications to user conduct, privacy, or operational policies</li>
+                              <li><strong>Pricing Changes:</strong> Subscription cost adjustments with extended notice periods</li>
+                            </ul>
+			  </div>
+
+			  <p><strong>Continued Use Agreement:</strong> Your continued use of SiMLeng after terms updates constitutes acceptance of the modified terms. We encourage regular review of this document to stay informed of your rights and obligations.</p>
+			</div> 
+                      </div> 
+		    </div>
+		  </div>
+	    </div>
+        <div class="cookie-main-content">	    
+	  <!-- Cookie Policy Section - Compatible with unified-about-us.css -->
+	  <div class="content-section legal" id="cookie-policy">
+            <h2><i class="fas fa-shield-check"></i> Cookie Policy</h2>
+            <p class="last-updated" style="text-align: center; font-style: italic; color: #718096; margin-bottom: 30px;">
+              <strong>Last updated: June 4, 2025</strong>
+            </p>
+
+            <div class="policy-container">
+              <div class="table-of-contents">
+                <h3 style="color: #667eea; margin-bottom: 20px; font-size: 1.3rem; display: flex; align-items: center; gap: 10px;">
+                    <i class="far fa-bookmark"></i> Table of Contents
+                </h3>
+                <div style="display: flex; flex-direction: column; gap: 8px;">
+                  <a href="#what-are-cookies" class="toc-link" style="display: flex; align-items: center; gap: 10px; padding: 12px 16px; background: linear-gradient(135deg, #f7fafc 0%, #edf2f7 100%); color: #4a5568 !important; text-decoration: none; border-radius: 8px; transition: all 0.3s ease; font-weight: 500; border: 2px solid transparent;">
+                    <i class="far fa-lightbulb" style="width: 16px;"></i> What are Cookies?
+                  </a>
+                  <a href="#why-we-use" class="toc-link" style="display: flex; align-items: center; gap: 10px; padding: 12px 16px; background: linear-gradient(135deg, #f7fafc 0%, #edf2f7 100%); color: #4a5568 !important; text-decoration: none; border-radius: 8px; transition: all 0.3s ease; font-weight: 500; border: 2px solid transparent;">
+                    <i class="fas fa-target" style="width: 16px;"></i> Why We Use Cookies
+                  </a>
+                  <a href="#types-of-cookies" class="toc-link" style="display: flex; align-items: center; gap: 10px; padding: 12px 16px; background: linear-gradient(135deg, #f7fafc 0%, #edf2f7 100%); color: #4a5568 !important; text-decoration: none; border-radius: 8px; transition: all 0.3s ease; font-weight: 500; border: 2px solid transparent;">
+                    <i class="fas fa-layer-group" style="width: 16px;"></i> Types of Cookies We Use
+                  </a>
+                  <a href="#your-choices" class="toc-link" style="display: flex; align-items: center; gap: 10px; padding: 12px 16px; background: linear-gradient(135deg, #f7fafc 0%, #edf2f7 100%); color: #4a5568 !important; text-decoration: none; border-radius: 8px; transition: all 0.3s ease; font-weight: 500; border: 2px solid transparent;">
+                    <i class="fas fa-sliders-h" style="width: 16px;"></i> Your Cookie Choices
+                  </a>
+                  <a href="#manage-cookies" class="toc-link" style="display: flex; align-items: center; gap: 10px; padding: 12px 16px; background: linear-gradient(135deg, #f7fafc 0%, #edf2f7 100%); color: #4a5568 !important; text-decoration: none; border-radius: 8px; transition: all 0.3s ease; font-weight: 500; border: 2px solid transparent;">
+                    <i class="fas fa-tools" style="width: 16px;"></i> How to Manage Cookies
+                  </a>
+                  <a href="#policy-updates" class="toc-link" style="display: flex; align-items: center; gap: 10px; padding: 12px 16px; background: linear-gradient(135deg, #f7fafc 0%, #edf2f7 100%); color: #4a5568 !important; text-decoration: none; border-radius: 8px; transition: all 0.3s ease; font-weight: 500; border: 2px solid transparent;">
+                    <i class="fas fa-bell" style="width: 16px;"></i> Policy Updates
+                  </a>
+                </div>
+              </div>
+
+            <div class="cokkie-main-content">
+
+              <div class="cookie-section" id="what-are-cookies">
+                <h3><i class="far fa-lightbulb"></i> What are Cookies?</h3>
+                <p>
+                    Cookies are small text files that are placed on your computer or mobile device when you visit a website. 
+                    They are widely used to make websites work more efficiently, provide information to website owners, 
+                    and enhance your browsing experience.
+                </p>
+                <p>
+                  Cookies contain information that is transferred to your device's hard drive. They help us recognize 
+                    your device and store some information about your preferences or past actions.
+                </p>
+              </div>
+	      
+              <div class="cookie-section" id="why-we-use">
+                <h3><i class="fas fa-target"></i> Why We Use Cookies</h3>
+                <p>We use cookies for several important reasons:</p>
+                <ul style="padding-left: 20px; margin: 15px 0;">
+                  <li><strong>Essential functionality:</strong> Some cookies are essential for our website to function properly</li>
+                  <li><strong>Performance improvement:</strong> We analyze how visitors use our site to improve performance</li>
+                  <li><strong>Personalization:</strong> We remember your preferences to provide a better experience</li>
+                  <li><strong>Security:</strong> Cookies help us keep your account and data secure</li>
+                </ul>
+              </div>
+	      
+              <div class="cookie-section" id="types-of-cookies">
+                <h3><i class="fas fa-layer-group"></i> Types of Cookies We Use</h3>
+		
+		<div class="cookie-type" style="background: #f7fafc; border-left: 4px solid #667eea; padding: 20px; margin: 15px 0; border-radius: 0 10px 10px 0;">
+                  <h4 style="color: #4a5568; margin-bottom: 10px; display: flex; align-items: center; gap: 8px;">
+                    <i class="fas fa-shield-alt"></i> Essential Cookies
+                  </h4>
+                  <div class="purpose" style="font-weight: 600; color: #667eea; margin-bottom: 5px;">
+                    Purpose: Website functionality and security
+                  </div>
+                  <p>
+                    These cookies are necessary for the website to function and cannot be switched off. 
+                    They enable core functionality such as security, network management, and accessibility.
+                  </p>
+                  <div class="retention" style="font-size: 0.9rem; color: #718096; font-style: italic;">
+                    Retention: Session or up to 1 year
+                  </div>
+		</div>
+
+		<div class="cookie-type" style="background: #f7fafc; border-left: 4px solid #667eea; padding: 20px; margin: 15px 0; border-radius: 0 10px 10px 0;">
+                  <h4 style="color: #4a5568; margin-bottom: 10px; display: flex; align-items: center; gap: 8px;">
+                    <i class="fas fa-chart-line"></i> Analytics Cookies
+                  </h4>
+                  <div class="purpose" style="font-weight: 600; color: #667eea; margin-bottom: 5px;">
+                    Purpose: Understanding website performance
+                  </div>
+                  <p>
+                    These cookies collect information about how visitors use our website, such as which pages 
+                    are visited most often. This helps us improve our website's performance and user experience.
+                  </p>
+                  <div class="retention" style="font-size: 0.9rem; color: #718096; font-style: italic;">
+                    Retention: Up to 2 years
+                  </div>
+		</div>
+		
+		<div class="cookie-type" style="background: #f7fafc; border-left: 4px solid #667eea; padding: 20px; margin: 15px 0; border-radius: 0 10px 10px 0;">
+                  <h4 style="color: #4a5568; margin-bottom: 10px; display: flex; align-items: center; gap: 8px;">
+                    <i class="fas fa-bullhorn"></i> Marketing Cookies
+                  </h4>
+                  <div class="purpose" style="font-weight: 600; color: #667eea; margin-bottom: 5px;">
+                    Purpose: Relevant advertising and marketing
+                  </div>
+                  <p>
+                    These cookies track your browsing habits to enable us to show advertising which is more 
+                    likely to be of interest to you. They may also be used to limit the number of times you 
+                    see an advertisement.
+                  </p>
+                  <div class="retention" style="font-size: 0.9rem; color: #718096; font-style: italic;">
+                    Retention: Up to 2 years
+                  </div>
+		</div>
+		
+		<div class="cookie-type" style="background: #f7fafc; border-left: 4px solid #667eea; padding: 20px; margin: 15px 0; border-radius: 0 10px 10px 0;">
+                  <h4 style="color: #4a5568; margin-bottom: 10px; display: flex; align-items: center; gap: 8px;">
+                    <i class="fas fa-tools"></i> Functional Cookies
+                  </h4>
+                  <div class="purpose" style="font-weight: 600; color: #667eea; margin-bottom: 5px;">
+                    Purpose: Enhanced features and personalization
+                  </div>
+                  <p>
+                    These cookies allow the website to remember choices you make and provide enhanced features. 
+                    They may also be used to provide services you have asked for such as watching a video or 
+                    commenting on a blog.
+                  </p>
+                  <div class="retention" style="font-size: 0.9rem; color: #718096; font-style: italic;">
+                    Retention: Up to 1 year
+                  </div>
+		</div>
+              </div>
+
+              <div class="cookie-section" id="your-choices">
+                <h3><i class="fas fa-sliders-h"></i> Your Cookie Choices</h3>
+		<div class="highlight-box" style="background: linear-gradient(135deg, rgba(102, 126, 234, 0.1) 0%, rgba(118, 75, 162, 0.1) 100%); border: 1px solid rgba(102, 126, 234, 0.3); border-radius: 15px; padding: 20px; margin: 20px 0;">
+                  <p><strong>You have full control over cookies on our website.</strong></p>
+                  <p>
+                    When you first visit our site, you'll see a cookie banner that allows you to:
+                  </p>
+                  <ul style="padding-left: 20px; margin: 10px 0;">
+                    <li>✅ <strong>Accept All:</strong> Allow all types of cookies</li>
+                    <li>❌ <strong>Decline All:</strong> Only essential cookies will be used</li>
+                    <li>⚙️ <strong>Customize:</strong> Choose which types of cookies to allow</li>
+                  </ul>
+		</div>
+		<p>
+                  You can change your cookie preferences at any time by clicking the "Cookie Settings" 
+                  link usually found in our website footer or privacy section.
+		</p>
+              </div>
+	      
+            <div class="cookie-section" id="manage-cookies">
+              <h3><i class="fas fa-tools"></i> How to Manage Cookies</h3>
+              <h4>Browser Settings</h4>
+              <p>
+                Most web browsers allow you to control cookies through their settings. You can usually find 
+                these settings in the 'Options' or 'Preferences' menu of your browser.
+              </p>
+              
+              <h4>Third-Party Opt-Outs</h4>
+              <p>
+                For analytics cookies, you can opt-out directly through:
+              </p>
+              <ul style="padding-left: 20px; margin: 15px 0;">
+                <li><strong>Google Analytics:</strong> <a href="https://tools.google.com/dlpage/gaoptout" target="_blank" style="color: #667eea;">Google Analytics Opt-out Browser Add-on</a></li>
+                <li><strong>Advertising cookies:</strong> <a href="https://www.youronlinechoices.com/" target="_blank" style="color: #667eea;">Your Online Choices</a></li>
+              </ul>
+	      
+              <div class="highlight-box" style="background: linear-gradient(135deg, rgba(102, 126, 234, 0.1) 0%, rgba(118, 75, 162, 0.1) 100%); border: 1px solid rgba(102, 126, 234, 0.3); border-radius: 15px; padding: 20px; margin: 20px 0;">
+                <p><strong>⚠️ Important Note:</strong></p>
+                <p>
+                  Disabling certain cookies may affect the functionality of our website and your user experience. 
+                  Essential cookies cannot be disabled as they are necessary for the website to function properly.
+                </p>
+              </div>
+            </div>
+
+            <div class="cookie-section" id="policy-updates">
+              <h3><i class="fas fa-bell"></i> Policy Updates</h3>
+              <div class="update-notice" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; border-radius: 15px; padding: 25px; margin: 20px 0;">
+                <h4 style="margin-bottom: 15px; color: white; display: flex; align-items: center; gap: 10px;">
+                  <i class="fas fa-bell"></i> Stay Informed About Changes
+                </h4>
+                <p>
+                  We may update this Cookie Policy from time to time to reflect changes in our practices or for other operational, legal, or regulatory reasons.
+                </p>
+                <p>
+                  <strong>How we'll notify you:</strong>
+                </p>
+                <ul style="padding-left: 20px; margin: 10px 0;">
+                    <li>📧 Email notification to registered users</li>
+                    <li>🔔 Website banner for 30 days after updates</li>
+                    <li>📅 Updated "Last modified" date at the top of this policy</li>
+                </ul>
+                <p style="margin-top: 15px; font-size: 0.9rem; opacity: 0.9;">
+                  <strong>Questions about this policy?</strong> Contact us through the details provided in our website footer.
+                </p>
+              </div>
+            </div>
+            </div>
+	    </div>
+          </div> <!-- End legal section-->
+	</div>
+	</div>
+    </div>
+  
+ <!-- Cookie Banner HTML -->
+    <div id="cookie-banner" class="cookie-banner">
+    <div class="cookie-banner-text">
+        🍪 We use cookies to enhance your experience, analyze usage, and provide personalized content.  
+        See our <a href="#cookie-policy" onclick="event.preventDefault(); navigateToSection('legal', 'cookie');">Cookie Policy</a>
+
+    </div>
+    <div class="cookie-banner-actions">
+        <button onclick="handleCookieConsent(true)">Accept</button>
+        <button onclick="handleCookieConsent(false)">Reject</button>
+    </div>
+</div>
+
+       
+      <footer>
+        <div id="footer"></div>
+        <script>
+            async function loadFooter() {
+                try {
+                    const response = await fetch('../footer-about.html');
+                    const data = await response.text();
+                    document.getElementById("footer").innerHTML = data;
+                } catch (error) {
+                    console.error('Error loading footer:', error);
+                }
+            }
+            loadFooter();
+        </script>
+      </footer>
+      
+      <script src="../assets/js/about-us.js" defer> </script>
+   
+     
+    
+    
+</body>
+</html>		      

@@ -1,0 +1,24 @@
+name: Store Email
+
+on:
+  repository_dispatch:
+    types: [email_submission]
+
+jobs:
+  append_email:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Append email to newsletter-emails.txt
+        run: |
+          echo "${{ github.event.client_payload.email }}" >> ./data/newsletter-emails.txt
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add emails.txt
+          git commit -m "Add email ${{ github.event.client_payload.email }}"
+          git push

@@ -190,7 +190,7 @@ nav.top-nav {
     text-align: center;
     color: #ffffff; /* Ensure text is visible on the background */
     background-color: #00509e; /* Slightly more opaque background for contrast */
-    padding: 5px; /* Add more padding for better readability */
+    padding: 40px; /* Add more padding for better readability */
     border-radius: 5px; /* Round the corners */
     width: 100%;
     display: block; /* inline-block; /* Ensure proper centering */
@@ -255,7 +255,7 @@ nav.top-nav {
 /* Image Container */
 .image-container {
     position: relative; /* Allows absolute positioning of child elements */
-    background-image: url('./assets/images/home.jpeg');
+    background-image: url('/assets/images/home.jpeg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -397,8 +397,6 @@ nav.top-nav {
 .service-item.inactive button:hover {
     background-color: #0056b3;
 }
-
-
 /* Footer Section */
 .footer-container {
     position: relative; /* Ensure footer is properly positioned */
@@ -442,9 +440,98 @@ nav.top-nav {
     transition: color 0.3s ease;
 }
 
+
+/* Keep icon color consistent */
+.footer-section ul li i {
+    color: #007bff; /* Set your preferred icon color */
+    margin-right: 8px; /* Optional: add some space between icon and text */
+}
+
 .footer-section ul li a:hover {
     color: #0056b3; /* Darker blue on hover */
 }
+/* Alternative compact version - No indentation */
+.newsletter-compact {
+    max-width: 260px; /* match width with Quick Actions */
+    margin-top: 20px;
+    padding: 0;
+    background: none;
+    border-top: 1px solid #e9ecef;
+}
+
+.newsletter-compact .newsletter-title {
+    color: #007bff;
+    font-size: 16px;
+    font-weight: bold;
+    margin: 12px 0 8px 0;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.newsletter-compact .newsletter-form {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    margin-bottom: 10px;
+}
+
+.newsletter-compact .newsletter-form input[type="email"] {
+    flex: 1;
+    padding: 8px 10px;
+    font-size: 13px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+.newsletter-compact .newsletter-form button {
+    padding: 8px 10px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    width: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.newsletter-compact .message {
+    font-size: 12px;
+    padding: 6px 10px;
+    border-radius: 4px;
+    display: none;
+}
+
+.newsletter-compact .success-message {
+    background-color: #d4edda;
+    color: #155724;
+}
+
+.newsletter-compact .error-message {
+    background-color: #f8d7da;
+    color: #721c24;
+}
+
+
+/* Responsive adjustments */
+@media (max-width: 480px) {
+    .newsletter-signup {
+        max-width: 100%;
+    }
+    
+    .newsletter-form input {
+        font-size: 11px;
+        padding: 5px 6px;
+    }
+    
+    .newsletter-form button {
+        font-size: 10px;
+        padding: 5px 6px;
+    }
+}
+
+ 
 
 .about-us ul li {
     margin-top: 5px; /* Space above "Follow Us" */
@@ -469,78 +556,72 @@ nav.top-nav {
 .social-media a:hover {
     color: #007bff; /* Icon color on hover */
 }
-
 .social-icon {
-    width: 32px;
-    height: 32px;
-    border-radius: 8px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    color: white;
-    text-decoration: none;
-    transition: all 0.3s ease;
-    position: relative;
-    overflow: hidden;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.15);
-    flex-shrink: 0;
+            width: 34px;
+            height: 34px;
+            border-radius: 8px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+	    color: #ffffff !important; /* Force white color */
+            text-decoration: none;
+            transition: var(--transition-standard);
+            position: relative;
+            overflow: hidden;
+            box-shadow: 0 2px 4px var(--shadow-medium);
+            backdrop-filter: blur(10px);
 }
 
-.social-icon:before {
-    content: "";
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    background: rgba(255, 255, 255, 0.1);
-    transform: translateY(100%);
-    transition: transform 0.3s ease;
-    z-index: 1;
+.social-icon::before {
+            content: "";
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: rgba(255, 255, 255, 0.1);
+            transform: translateY(100%);
+            transition: var(--transition-standard);
+            z-index: 1;
 }
 
 .social-icon i {
-    position: relative;
-    z-index: 2;
-    font-size: 16px;
+            position: relative;
+            z-index: 2;
+            font-size: 18px;
+	    color: #ffffff !important; /* Force white color for icons */
 }
+/* Additional specificity for icon text color */
+.social-icon i,
+.social-icon i:before,
+.social-icon i:after {
+    color: #ffffff !important;
+}
+
 
 .social-icon:hover {
     transform: translateY(-3px);
+    color: #ffffff !important; /* Maintain white color on hover */
 }
 
 .social-icon:hover:before {
     transform: translateY(0);
 }
 
+.social-icon:hover i {
+    color: #ffffff !important; /* Maintain white color on hover */
+}
+
 /* Social media icon improved colors and gradients */
-.whatsapp { 
-    background: linear-gradient(45deg, #128C7E, #25D366); 
-}
+        
+.whatsapp { background: linear-gradient(135deg, #128C7E 0%, #25D366 100%); }
+.facebook { background: linear-gradient(135deg, #0D69EC 0%, #1877F2 100%); }
+.twitter { background: linear-gradient(135deg, #0C85CF 0%, #1DA1F2 100%); }
+.linkedin { background: linear-gradient(135deg, #0A4D99 0%, #0A66C2 100%); }
+.instagram { background: linear-gradient(135deg, #833AB4 0%, #FD1D1D 50%, #FCAF45 100%); }
+.youtube { background: linear-gradient(135deg, #C4302B 0%, #FF0000 100%); }
+.github {background: linear-gradient(135deg, #0D1117 0%, #171515 100%); }
 
-.facebook { 
-    background: linear-gradient(45deg, #0D69EC, #1877F2); 
-}
-
-.twitter { 
-    background: linear-gradient(45deg, #0C85CF, #1DA1F2); 
-}
-
-.linkedin { 
-    background: linear-gradient(45deg, #0A4D99, #0A66C2); 
-}
-
-.instagram { 
-    background: linear-gradient(45deg, #833AB4, #FD1D1D, #FCAF45);
-}
-
-.youtube { 
-    background: linear-gradient(45deg, #C4302B, #FF0000); 
-}
-
-.github { 
-    background: linear-gradient(45deg, #0D1117, #171515); 
-}
 
 
 .contact-info {
