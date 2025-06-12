@@ -3,6 +3,16 @@
   "totalResults": 10,
   "articles": [
     {
+      "title": "Craig Federighi confirms Apple’s first attempt at an AI Siri wasn’t good enough - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "At WWDC 2025, Apple’s SVP of software Craig Federighi and SVP of worldwide marketing Greg Joswiak sh...",
+      "url": "https://www.theverge.com/news/685106/apple-ai-siri-delay-craig-federighi-greg-joswiak-wwdc-2025",
+      "publishedAt": "2025-06-10T23:47:26Z",
+      "processed_at": "2025-06-12T01:45:04.125141+00:00"
+    },
+    {
       "title": "Intel Stock (NASDAQ:INTC) Blasts Up as Mac Support Dies - TipRanks",
       "source": {
         "name": "Tipranks.com"
@@ -10,7 +20,17 @@
       "description": "New reports probably should have been worse for chip stock Intel ($INTC) than they turned out to be,...",
       "url": "https://www.tipranks.com/news/intel-stock-nasdaqintc-blasts-up-as-mac-support-dies",
       "publishedAt": "2025-06-10T19:04:08Z",
-      "processed_at": "2025-06-11T23:21:00.534841+00:00"
+      "processed_at": "2025-06-12T01:45:04.125141+00:00"
+    },
+    {
+      "title": "Apple TV 4K gets the screen saver feature I’ve always wanted in tvOS 26 - 9to5Mac",
+      "source": {
+        "name": "9to5Mac"
+      },
+      "description": "tvOS 26 introduces brand new aerial screen savers to the Apple TV 4K, but it also introduces a level...",
+      "url": "https://9to5mac.com/2025/06/10/apple-tv-4k-gets-the-screen-saver-feature-ive-always-wanted-in-tvos-26/",
+      "publishedAt": "2025-06-10T18:22:00Z",
+      "processed_at": "2025-06-12T01:45:04.125141+00:00"
     },
     {
       "title": "Google rolls out Android 16 to Pixel phones, unveils AI-powered edit suggestion for Google Photos - TechCrunch",
@@ -20,27 +40,7 @@
       "description": "Google is releasing Android 16 to Pixel phones and rolling out additional updates to other Pixel dev...",
       "url": "https://techcrunch.com/2025/06/10/google-is-rolling-out-android-16-to-pixel-phones-announces-ai-powered-edit-suggestion-to-google-photos/",
       "publishedAt": "2025-06-10T18:00:00Z",
-      "processed_at": "2025-06-11T23:21:00.534841+00:00"
-    },
-    {
-      "title": "'AirPods Pro 3' Referenced in iOS 26 Code - MacRumors",
-      "source": {
-        "name": "MacRumors"
-      },
-      "description": "iOS 26 suggests that Apple is indeed working on a new version of the AirPods Pro that could be comin...",
-      "url": "https://www.macrumors.com/2025/06/10/ios-26-code-airpods-pro-3/",
-      "publishedAt": "2025-06-10T17:59:11Z",
-      "processed_at": "2025-06-11T23:21:00.534841+00:00"
-    },
-    {
-      "title": "Here’s how Craig Federighi explained the Siri delay. - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "",
-      "url": "https://www.theverge.com/apple-event/684680/heres-how-craig-federighi-explained-the-siri-delay",
-      "publishedAt": "2025-06-10T17:21:40Z",
-      "processed_at": "2025-06-11T23:21:00.534841+00:00"
+      "processed_at": "2025-06-12T01:45:04.125141+00:00"
     },
     {
       "title": "Mario Kart World is the perfect Switch 2 launch game - The Verge",
@@ -50,60 +50,60 @@
       "description": "Mario Kart World is the sequel to the bestselling Mario Kart 8, and it’s an ideal launch title for t...",
       "url": "https://www.theverge.com/games-review/684518/mario-kart-world-review-nintendo-switch-2",
       "publishedAt": "2025-06-10T17:00:00Z",
-      "processed_at": "2025-06-11T23:21:00.534841+00:00"
+      "processed_at": "2025-06-12T01:45:04.125141+00:00"
     },
     {
-      "title": "At WWDC 2025, Apple sang developers’ praises amid AI letdowns and App Store battles - TechCrunch",
+      "title": "Steam Next Fest June 2025: 25 Of The Best Demos You Can Download Right Now - GameSpot",
+      "source": {
+        "name": "GameSpot"
+      },
+      "description": "From literal walking simulators to paranoia-fueled mysteries, here's a look at some of the best demo...",
+      "url": "https://www.gamespot.com/gallery/steam-next-fest-june-2025-best-demos/2900-6662/",
+      "publishedAt": "2025-06-10T16:49:50Z",
+      "processed_at": "2025-06-12T01:45:04.125141+00:00"
+    },
+    {
+      "title": "WWDC 2025: Everything that Apple ‘Sherlocked’ this time - TechCrunch",
       "source": {
         "name": "TechCrunch"
       },
-      "description": "Apple has yet to deliver on some of the key technology advances that could modernize developers' app...",
-      "url": "https://techcrunch.com/2025/06/10/at-wwdc-2025-apple-sang-developers-praises-amid-ai-letdowns-and-app-store-battles/",
-      "publishedAt": "2025-06-10T15:43:28Z",
-      "processed_at": "2025-06-11T23:21:00.534841+00:00"
+      "description": "Just like every year, Apple has once again built in some features into its operating systems that we...",
+      "url": "https://techcrunch.com/2025/06/10/wwdc-2025-everything-that-apple-sherlocked-this-time/",
+      "publishedAt": "2025-06-10T10:58:23Z",
+      "processed_at": "2025-06-12T01:45:04.125141+00:00"
     },
     {
-      "title": "Xbox’s new handheld is a surprisingly comfortable way to play Gears of War - The Verge",
+      "title": "Nintendo has published two guides to help fix incorrect battery displays on Switch 2 - GoNintendo",
       "source": {
-        "name": "The Verge"
+        "name": "GoNintendo"
       },
-      "description": "The Xbox Ally X feels good in the hands to play during a demonstration of Gears of War Reloaded....",
-      "url": "https://www.theverge.com/games/684247/xbox-ally-x-hands-on-gears-of-war-reloaded",
-      "publishedAt": "2025-06-10T15:00:00Z",
-      "processed_at": "2025-06-11T23:21:00.534841+00:00"
+      "description": "Charge it up!...",
+      "url": "https://www.gonintendo.com/contents/49562-nintendo-has-published-two-guides-to-help-fix-incorrect-battery-displays-on-switch-2",
+      "publishedAt": "2025-06-09T23:42:46Z",
+      "processed_at": "2025-06-12T01:45:04.125141+00:00"
     },
     {
-      "title": "Latest Galaxy S25 update sets the phone up for One UI 8 - 9to5Google",
+      "title": "The iPad Is a Full-On Computer Now - WIRED",
       "source": {
-        "name": "9to5google.com"
+        "name": "Wired"
       },
-      "description": "Samsung just launched an update to the Galaxy S25. The update quietly positions the phone to receive...",
-      "url": "http://9to5google.com/2025/06/10/latest-galaxy-s25-update-sets-the-phone-up-for-one-ui-8/",
-      "publishedAt": "2025-06-10T14:20:00Z",
-      "processed_at": "2025-06-11T23:21:00.534841+00:00"
+      "description": "After 15 years, the iPad is getting some key software features—like the addition of resizable and mo...",
+      "url": "https://www.wired.com/story/the-ipad-is-a-full-on-computer-now/",
+      "publishedAt": "2025-06-09T22:59:09Z",
+      "processed_at": "2025-06-12T01:45:04.125141+00:00"
     },
     {
-      "title": "People Are Becoming Obsessed with ChatGPT and Spiraling Into Severe Delusions - futurism.com",
+      "title": "2025 North America International Championships VGC Preview Roundtable - Pokemon.com",
       "source": {
-        "name": "Futurism"
+        "name": "Pokemon.com"
       },
-      "description": "A startling number of ChatGPT uses are developing intense, reality-bending AI delusions. The impacts...",
-      "url": "https://futurism.com/chatgpt-mental-health-crises",
-      "publishedAt": "2025-06-10T14:10:37Z",
-      "processed_at": "2025-06-11T23:21:00.534841+00:00"
-    },
-    {
-      "title": "Nintendo Switch 2 restocks live — latest updates and retailers to check today - Tom's Guide",
-      "source": {
-        "name": "Tom's Guide"
-      },
-      "description": "I’m tracking Switch 2 restocks at every major retailer...",
-      "url": "https://www.tomsguide.com/live/news/nintendo-switch-2-restocks-and-updates",
-      "publishedAt": "2025-06-10T14:09:36Z",
-      "processed_at": "2025-06-11T23:21:00.534841+00:00"
+      "description": "Next stop: New Orleans. Our trio of experts talk about preparing for the big event in the Big Easy....",
+      "url": "https://www.pokemon.com/us/pokemon-news/2025-north-america-international-championships-vgc-preview-roundtable",
+      "publishedAt": "2025-06-09T15:02:31Z",
+      "processed_at": "2025-06-12T01:45:04.125141+00:00"
     }
   ],
-  "lastUpdated": "2025-06-11T23:21:00.534919+00:00",
+  "lastUpdated": "2025-06-12T01:45:04.125218+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
