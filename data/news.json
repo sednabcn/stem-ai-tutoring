@@ -1,6 +1,6 @@
 {
   "status": "success",
-  "totalResults": 8,
+  "totalResults": 9,
   "articles": [
     {
       "title": "Logitech’s new iPad case has a compact removable wireless keyboard - The Verge",
@@ -10,7 +10,7 @@
       "description": "The Flip Folio is Logitech’s first iPad Pro and Air keyboard case that lets you remove and position ...",
       "url": "https://www.theverge.com/news/684344/logitech-flip-folio-keyboard-case-bluetooth-apple-ipad-pro-air",
       "publishedAt": "2025-06-11T07:01:00Z",
-      "processed_at": "2025-06-12T08:28:35.281725+00:00"
+      "processed_at": "2025-06-12T09:22:41.627925+00:00"
     },
     {
       "title": "Apple updates design resources for iOS 26, iPadOS 26, and macOS Tahoe 26 - 9to5Mac",
@@ -20,27 +20,17 @@
       "description": "Designers and app developers now have access to the Apple's official assets that reflect the new cro...",
       "url": "https://9to5mac.com/2025/06/10/apple-updates-design-resources-for-ios-26-ipados-26-and-macos-tahoe-26/",
       "publishedAt": "2025-06-11T02:06:00Z",
-      "processed_at": "2025-06-12T08:28:35.281725+00:00"
+      "processed_at": "2025-06-12T09:22:41.627925+00:00"
     },
     {
-      "title": "Android 16 QPR1 Beta 2 adds ‘live effects’ section to wallpaper picker - 9to5Google",
+      "title": "Apple Says Personalized Siri Features Shown at WWDC Last Year Were 'Real' and 'Working' - MacRumors",
       "source": {
-        "name": "9to5google.com"
+        "name": "MacRumors"
       },
-      "description": "The new Android 16 QPR1 Beta 2 build adds a couple of new sections to the wallpaper selector, includ...",
-      "url": "http://9to5google.com/2025/06/10/android-16-qpr1-beta-2-adds-live-effects-section-to-wallpaper-picker/",
-      "publishedAt": "2025-06-10T23:38:00Z",
-      "processed_at": "2025-06-12T08:28:35.281725+00:00"
-    },
-    {
-      "title": "Apple WWDC Interview: Craig Federighi and Joz on Siri delay, new Apple Intelligence features and what's next for AI - Tom's Guide",
-      "source": {
-        "name": "Tom's Guide"
-      },
-      "description": "Let's get some answers!...",
-      "url": "https://www.tomsguide.com/ai/apple-intelligence/wwdc-interview-apples-craig-federighi-and-greg-joswiak-on-siri-delay-voice-ai-as-therapist-and-whats-next-for-apple-intelligence",
-      "publishedAt": "2025-06-10T21:34:05Z",
-      "processed_at": "2025-06-12T08:28:35.281725+00:00"
+      "description": "Apple's software engineering chief Craig Federighi and marketing chief Greg Joswiak are on a media t...",
+      "url": "https://www.macrumors.com/2025/06/10/apple-says-personalized-siri-was-working/",
+      "publishedAt": "2025-06-10T23:52:10Z",
+      "processed_at": "2025-06-12T09:22:41.627925+00:00"
     },
     {
       "title": "Intel Stock (NASDAQ:INTC) Blasts Up as Mac Support Dies - TipRanks",
@@ -50,17 +40,27 @@
       "description": "New reports probably should have been worse for chip stock Intel ($INTC) than they turned out to be,...",
       "url": "https://www.tipranks.com/news/intel-stock-nasdaqintc-blasts-up-as-mac-support-dies",
       "publishedAt": "2025-06-10T19:04:08Z",
-      "processed_at": "2025-06-12T08:28:35.281725+00:00"
+      "processed_at": "2025-06-12T09:22:41.627925+00:00"
     },
     {
-      "title": "'AirPods Pro 3' Referenced in iOS 26 Code - MacRumors",
+      "title": "Google rolls out Android 16 to Pixel phones, unveils AI-powered edit suggestion for Google Photos - TechCrunch",
       "source": {
-        "name": "MacRumors"
+        "name": "TechCrunch"
       },
-      "description": "iOS 26 suggests that Apple is indeed working on a new version of the AirPods Pro that could be comin...",
-      "url": "https://www.macrumors.com/2025/06/10/ios-26-code-airpods-pro-3/",
-      "publishedAt": "2025-06-10T17:59:11Z",
-      "processed_at": "2025-06-12T08:28:35.281725+00:00"
+      "description": "Google is releasing Android 16 to Pixel phones and rolling out additional updates to other Pixel dev...",
+      "url": "https://techcrunch.com/2025/06/10/google-is-rolling-out-android-16-to-pixel-phones-announces-ai-powered-edit-suggestion-to-google-photos/",
+      "publishedAt": "2025-06-10T18:00:00Z",
+      "processed_at": "2025-06-12T09:22:41.627925+00:00"
+    },
+    {
+      "title": "Microsoft June 2025 Patch Tuesday fixes exploited zero-day, 66 flaws - BleepingComputer",
+      "source": {
+        "name": "BleepingComputer"
+      },
+      "description": "Today is Microsoft's June 2025 Patch Tuesday, which includes security updates for 66 flaws, includin...",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-june-2025-patch-tuesday-fixes-exploited-zero-day-66-flaws/",
+      "publishedAt": "2025-06-10T17:37:42Z",
+      "processed_at": "2025-06-12T09:22:41.627925+00:00"
     },
     {
       "title": "Snap plans to sell lightweight, consumer AR glasses in 2026 - TechCrunch",
@@ -70,7 +70,7 @@
       "description": "Snap is back with a pair of lightweight, AR smart glasses. For the first time in years, the company ...",
       "url": "https://techcrunch.com/2025/06/10/snap-plans-to-sell-lightweight-consumer-ar-glasses-in-2026/",
       "publishedAt": "2025-06-10T17:10:00Z",
-      "processed_at": "2025-06-12T08:28:35.281725+00:00"
+      "processed_at": "2025-06-12T09:22:41.627925+00:00"
     },
     {
       "title": "Mario Kart World is the perfect Switch 2 launch game - The Verge",
@@ -80,10 +80,20 @@
       "description": "Mario Kart World is the sequel to the bestselling Mario Kart 8, and it’s an ideal launch title for t...",
       "url": "https://www.theverge.com/games-review/684518/mario-kart-world-review-nintendo-switch-2",
       "publishedAt": "2025-06-10T17:00:00Z",
-      "processed_at": "2025-06-12T08:28:35.281725+00:00"
+      "processed_at": "2025-06-12T09:22:41.627925+00:00"
+    },
+    {
+      "title": "You can try Windows 11's newest Start menu now - here's how - ZDNET",
+      "source": {
+        "name": "ZDNet"
+      },
+      "description": "Rolling out now to Windows 11 insiders, the revamped Start menu tries to address some of the many co...",
+      "url": "https://www.zdnet.com/article/you-can-try-windows-11s-newest-start-menu-now-heres-how/",
+      "publishedAt": "2025-06-10T15:45:00Z",
+      "processed_at": "2025-06-12T09:22:41.627925+00:00"
     }
   ],
-  "lastUpdated": "2025-06-12T08:28:35.281798+00:00",
+  "lastUpdated": "2025-06-12T09:22:41.628002+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
