@@ -3,6 +3,56 @@
   "totalResults": 10,
   "articles": [
     {
+      "title": "Apple releases new iOS 26 beta 1 build to developers - 9to5Mac",
+      "source": {
+        "name": "9to5Mac"
+      },
+      "description": "Apple has released a new build of iOS 26 beta 1 for developers, but only for certain newer iPhone mo...",
+      "url": "https://9to5mac.com/2025/06/13/apple-releases-new-ios-26-beta-1-build-to-developers/",
+      "publishedAt": "2025-06-13T17:13:00Z",
+      "processed_at": "2025-06-14T19:15:28.695497+00:00"
+    },
+    {
+      "title": "Another one for the graveyard: Google to kill Instant Apps in December - Ars Technica",
+      "source": {
+        "name": "Ars Technica"
+      },
+      "description": "It was a good idea that arrived too late to matter....",
+      "url": "https://arstechnica.com/gadgets/2025/06/another-one-for-the-graveyard-google-to-kill-instant-apps-in-december/",
+      "publishedAt": "2025-06-13T16:32:16Z",
+      "processed_at": "2025-06-14T19:15:28.695497+00:00"
+    },
+    {
+      "title": "CarPlay in iOS 26 adds new ‘Smart Display Zoom’ feature [Gallery] - 9to5Mac",
+      "source": {
+        "name": "9to5Mac"
+      },
+      "description": "iOS 26 is crammed full of upgrades for CarPlay users, including a refreshed Liquid Glass design, sup...",
+      "url": "https://9to5mac.com/2025/06/13/carplay-in-ios-26-smart-display-zoom/",
+      "publishedAt": "2025-06-13T16:14:00Z",
+      "processed_at": "2025-06-14T19:15:28.695497+00:00"
+    },
+    {
+      "title": "ROG Xbox Ally Gets Price & Release Date Info In 'Exclusive' Report - Pure Xbox",
+      "source": {
+        "name": "Pure Xbox"
+      },
+      "description": "\"I've been able to find out all this information\"...",
+      "url": "https://www.purexbox.com/news/2025/06/rog-xbox-ally-gets-price-and-release-date-info-in-exclusive-report",
+      "publishedAt": "2025-06-13T16:07:00Z",
+      "processed_at": "2025-06-14T19:15:28.695497+00:00"
+    },
+    {
+      "title": "Cyberpunk 2077 Nintendo Switch 2 tech analysis, including frame rate and resolution - Nintendo Everything",
+      "source": {
+        "name": "Nintendoeverything.com"
+      },
+      "description": "Cyberpunk 2077 frame rate, resolution, and more covered in-depth with the new Nintendo Switch 2 port...",
+      "url": "https://nintendoeverything.com/cyberpunk-2077-switch-2-frame-rate-resolution/",
+      "publishedAt": "2025-06-13T15:54:56Z",
+      "processed_at": "2025-06-14T19:15:28.695497+00:00"
+    },
+    {
       "title": "Dbrand’s Killswitch is the best all-around Switch 2 case - The Verge",
       "source": {
         "name": "The Verge"
@@ -10,100 +60,50 @@
       "description": "Dbrand’s Killswitch for the Switch 2 isn’t cheap, starting at $59.99 and going up for more protectio...",
       "url": "https://www.theverge.com/tech/686719/dbrand-killswitch-switch-2-case-review",
       "publishedAt": "2025-06-13T15:24:47Z",
-      "processed_at": "2025-06-14T18:26:29.777533+00:00"
+      "processed_at": "2025-06-14T19:15:28.695497+00:00"
     },
     {
-      "title": "Google’s Gemini AI will summarize PDFs for you when you open them - The Verge",
+      "title": "Apple Explains Why iPads Don't Just Run macOS - MacRumors",
       "source": {
-        "name": "The Verge"
+        "name": "MacRumors"
       },
-      "description": "Google is rolling out new Gemini AI features for Workspace users that make it easier to find informa...",
-      "url": "https://www.theverge.com/news/686684/google-gemini-ai-workspace-pdf-form-summary-features",
-      "publishedAt": "2025-06-13T14:48:19Z",
-      "processed_at": "2025-06-14T18:26:29.777533+00:00"
+      "description": "iPadOS 26 allows iPads to function much more like Macs, with a new app windowing system, a swipe-dow...",
+      "url": "https://www.macrumors.com/2025/06/13/apple-explains-why-ipads-dont-just-run-macos/",
+      "publishedAt": "2025-06-13T14:46:27Z",
+      "processed_at": "2025-06-14T19:15:28.695497+00:00"
     },
     {
-      "title": "Steam is finally adding native support for Macs with Apple Silicon - The Verge",
+      "title": "macOS Tahoe's New Theming System Explained - MacRumors",
       "source": {
-        "name": "The Verge"
+        "name": "MacRumors"
       },
-      "description": "Steam’s latest client beta includes native support for Apple Silicon. The update means Steam will no...",
-      "url": "https://www.theverge.com/news/686658/steam-native-apple-silicon-app",
-      "publishedAt": "2025-06-13T13:54:01Z",
-      "processed_at": "2025-06-14T18:26:29.777533+00:00"
+      "description": "In macOS Tahoe, Apple introduces the concept of Themes, with new appearance settings that go beyond ...",
+      "url": "https://www.macrumors.com/2025/06/13/macos-tahoes-new-theming-system-explained/",
+      "publishedAt": "2025-06-13T14:12:13Z",
+      "processed_at": "2025-06-14T19:15:28.695497+00:00"
     },
     {
-      "title": "Google just released the first major Snapseed update in years - The Verge",
+      "title": "For PS6, Sony Is Betting On Hardware Power, Not The Cloud - GameSpot",
       "source": {
-        "name": "The Verge"
+        "name": "GameSpot"
       },
-      "description": "Google has revamped its photo editing app Snapseed on iOS, marking the first big update in years....",
-      "url": "https://www.theverge.com/news/686625/google-first-major-snapseed-update-years",
-      "publishedAt": "2025-06-13T13:02:18Z",
-      "processed_at": "2025-06-14T18:26:29.777533+00:00"
+      "description": "Sony has confirmed that its next console won't be a cloud gaming machine....",
+      "url": "https://www.gamespot.com/articles/for-ps6-sony-is-betting-on-hardware-power-not-the-cloud/1100-6532420/",
+      "publishedAt": "2025-06-13T13:54:32Z",
+      "processed_at": "2025-06-14T19:15:28.695497+00:00"
     },
     {
-      "title": "Microsoft confirms auth issues affecting Microsoft 365 users - BleepingComputer",
+      "title": "The Alters Rewards Multiple Playthroughs With Its Strange Journey Of Self-Discovery - Kotaku",
       "source": {
-        "name": "BleepingComputer"
+        "name": "Kotaku"
       },
-      "description": "Microsoft is investigating an ongoing incident that is causing users to experience errors with some ...",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-auth-issues-affecting-microsoft-365-users/",
-      "publishedAt": "2025-06-13T12:37:06Z",
-      "processed_at": "2025-06-14T18:26:29.777533+00:00"
-    },
-    {
-      "title": "Sony responds to concerns about Nintendo Switch 2 impacting PlayStation’s business - Nintendo Everything",
-      "source": {
-        "name": "Nintendoeverything.com"
-      },
-      "description": "The big executives at Sony and PlayStation directly respond to concerns about Nintendo and Switch 2 ...",
-      "url": "https://nintendoeverything.com/nintendo-switch-2-playstation-business-concerns/",
-      "publishedAt": "2025-06-13T12:04:21Z",
-      "processed_at": "2025-06-14T18:26:29.777533+00:00"
-    },
-    {
-      "title": "Meta AI searches made public - but do all its users realise? - BBC",
-      "source": {
-        "name": "BBC News"
-      },
-      "description": "Meta AI users may be inadvertently making their searches public without realising it....",
-      "url": "https://www.bbc.com/news/articles/c0573lj172jo",
-      "publishedAt": "2025-06-13T12:01:50Z",
-      "processed_at": "2025-06-14T18:26:29.777533+00:00"
-    },
-    {
-      "title": "Sony remains committed to \"diverse and resilient\" live service games, including forthcoming Marathon and Fairgames, despite high profile failures - Eurogamer",
-      "source": {
-        "name": "Eurogamer.net"
-      },
-      "description": "Sony lists Marathon and Farigames as 'diverse and resilient' live service titles before they're even...",
-      "url": "https://www.eurogamer.net/sony-remains-committed-to-diverse-and-resilient-live-service-games-including-forthcoming-marathon-and-fairgames-despite-high-profile-failures",
-      "publishedAt": "2025-06-13T11:50:59Z",
-      "processed_at": "2025-06-14T18:26:29.777533+00:00"
-    },
-    {
-      "title": "Google is shutting down Android Instant Apps over ‘low’ usage - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "The installation-free Android Instant Apps will no longer be supported after December 2025....",
-      "url": "https://www.theverge.com/news/686573/google-android-instant-apps-shutdown",
-      "publishedAt": "2025-06-13T11:47:23Z",
-      "processed_at": "2025-06-14T18:26:29.777533+00:00"
-    },
-    {
-      "title": "How to draft a will to avoid becoming an AI ghost—it’s not easy - Ars Technica",
-      "source": {
-        "name": "Ars Technica"
-      },
-      "description": "Why requests for “no AI resurrections” will probably go ignored....",
-      "url": "https://arstechnica.com/tech-policy/2025/06/how-to-draft-a-will-to-avoid-becoming-an-ai-ghost-its-not-easy/",
-      "publishedAt": "2025-06-13T11:00:56Z",
-      "processed_at": "2025-06-14T18:26:29.777533+00:00"
+      "description": "Turns out cloning yourself from different timelines leads to a variety of outcomes...",
+      "url": "https://kotaku.com/the-alters-cover-how-long-to-beat-clones-playthroughs-1851784439",
+      "publishedAt": "2025-06-13T13:15:00Z",
+      "processed_at": "2025-06-14T19:15:28.695497+00:00"
     }
   ],
-  "lastUpdated": "2025-06-14T18:26:29.777612+00:00",
+  "lastUpdated": "2025-06-14T19:15:28.695570+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
