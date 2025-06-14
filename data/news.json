@@ -3,6 +3,46 @@
   "totalResults": 10,
   "articles": [
     {
+      "title": "Google is shutting down Android Instant Apps over ‘low’ usage - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "The installation-free Android Instant Apps will no longer be supported after December 2025....",
+      "url": "https://www.theverge.com/news/686573/google-android-instant-apps-shutdown",
+      "publishedAt": "2025-06-13T11:47:23Z",
+      "processed_at": "2025-06-14T13:27:39.724568+00:00"
+    },
+    {
+      "title": "As Switch 2 Breaks Records Worldwide, Sony Reminds Us That PS5 Still Exists - Nintendo Life",
+      "source": {
+        "name": "Nintendo Life"
+      },
+      "description": "Sorry, didn't see you there...",
+      "url": "https://www.nintendolife.com/news/2025/06/as-switch-2-breaks-records-worldwide-sony-reminds-us-that-ps5-still-exists",
+      "publishedAt": "2025-06-13T10:00:00Z",
+      "processed_at": "2025-06-14T13:27:39.724568+00:00"
+    },
+    {
+      "title": "PCIe 7.0 is coming, but not soon, and not for you - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "The PCIe 7.0 specification has now been released, while many of us are still waiting for PCIe 6.0 to...",
+      "url": "https://www.theverge.com/news/686560/pcie-7-0-specification-launch-bandwith-speed",
+      "publishedAt": "2025-06-13T09:22:06Z",
+      "processed_at": "2025-06-14T13:27:39.724568+00:00"
+    },
+    {
+      "title": "Switch 2: Sony says PS5 performance required for ‘great experience on a big screen’ - Video Games Chronicle",
+      "source": {
+        "name": "Video Games Chronicle"
+      },
+      "description": "PlayStation claims it isn’t concerned by Nintendo’s launch...",
+      "url": "https://www.videogameschronicle.com/news/switch-2-sony-says-ps5-performance-required-for-great-experience-on-a-big-screen/",
+      "publishedAt": "2025-06-13T08:21:26Z",
+      "processed_at": "2025-06-14T13:27:39.724568+00:00"
+    },
+    {
       "title": "Zelda: Tears Of The Kingdom And Breath Of The Wild Updates Now Live, Here Are The Full Patch Notes - Nintendo Life",
       "source": {
         "name": "Nintendo Life"
@@ -10,100 +50,60 @@
       "description": "Download both updates today...",
       "url": "https://www.nintendolife.com/news/2025/06/zelda-tears-of-the-kingdom-and-breath-of-the-wild-updates-now-live-here-are-the-full-patch-notes",
       "publishedAt": "2025-06-13T03:30:00Z",
-      "processed_at": "2025-06-14T12:38:26.384758+00:00"
+      "processed_at": "2025-06-14T13:27:39.724568+00:00"
     },
     {
-      "title": "Bloomberg: Apple now targeting iOS 26.4 for long-delayed Siri AI upgrade - 9to5Mac",
+      "title": "iOS 26 Adds New Zoom Setting to CarPlay - MacRumors",
+      "source": {
+        "name": "MacRumors"
+      },
+      "description": "iOS 26 adds a new Smart Display Zoom setting to CarPlay.   When the setting is enabled, CarPlay will...",
+      "url": "https://www.macrumors.com/2025/06/12/carplay-smart-display-zoom-setting/",
+      "publishedAt": "2025-06-13T01:14:37Z",
+      "processed_at": "2025-06-14T13:27:39.724568+00:00"
+    },
+    {
+      "title": "Steam finally goes native on Apple Silicon, here’s how to try it - 9to5Mac",
       "source": {
         "name": "9to5Mac"
       },
-      "description": "Bloomberg’s Mark Gurman is out with a new report offering more details on the delay, including Apple...",
-      "url": "https://9to5mac.com/2025/06/12/apple-now-targeting-ios-26-4-for-siri-ai-upgrade/",
-      "publishedAt": "2025-06-12T21:15:00Z",
-      "processed_at": "2025-06-14T12:38:26.384758+00:00"
+      "description": "After a years-long wait, Steam for Mac is finally a native Apple Silicon app. Or about to be. Here' ...",
+      "url": "https://9to5mac.com/2025/06/12/steam-finally-goes-native-on-apple-silicon-heres-how-to-try-it/",
+      "publishedAt": "2025-06-13T00:53:00Z",
+      "processed_at": "2025-06-14T13:27:39.724568+00:00"
     },
     {
-      "title": "iPadOS 26 is perfect for the larger iPad model that’s coming - 9to5Mac",
+      "title": "Android 16 QPR1 Beta 2 updates status bar chip for phone calls, Gemini Live - 9to5Google",
       "source": {
-        "name": "9to5Mac"
+        "name": "9to5google.com"
       },
-      "description": "iPadOS 26’s new app windowing system looks like the perfect match for the new, larger iPad model tha...",
-      "url": "https://9to5mac.com/2025/06/12/ipados-26-is-perfect-for-apples-larger-ipad-thats-coming/",
-      "publishedAt": "2025-06-12T20:59:00Z",
-      "processed_at": "2025-06-14T12:38:26.384758+00:00"
+      "description": "With Android 16 QPR1 Beta 2, it’s slightly easier to manage ongoing calls, including Gemini Live, fr...",
+      "url": "http://9to5google.com/2025/06/12/android-16-qpr1-call-chip/",
+      "publishedAt": "2025-06-12T22:50:00Z",
+      "processed_at": "2025-06-14T13:27:39.724568+00:00"
     },
     {
-      "title": "Google is killing Android Instant Apps, but you probably won't miss them - Android Authority",
+      "title": "Here’s the $2,000 fully AI-generated ad that aired during the NBA Finals - The Verge",
       "source": {
-        "name": "Android Authority"
+        "name": "The Verge"
       },
-      "description": "Google is killing Android Instant Apps, a feature that lets you try mobile apps without installing t...",
-      "url": "https://www.androidauthority.com/google-killing-android-instant-apps-3567211/",
-      "publishedAt": "2025-06-12T19:44:31Z",
-      "processed_at": "2025-06-14T12:38:26.384758+00:00"
+      "description": "Kalshi debuted an AI-generated ad during the NBA finals. The creator behind the ad said it only took...",
+      "url": "https://www.theverge.com/news/686474/kalshi-ai-generated-ad-nba-finals-google-veo-3",
+      "publishedAt": "2025-06-12T21:33:28Z",
+      "processed_at": "2025-06-14T13:27:39.724568+00:00"
     },
     {
-      "title": "Resident Evil Requiem – The First RE Game to Make Me Jump - Anime News Network",
+      "title": "Apple Plans to Release Delayed Siri Apple Intelligence Features in Spring 2026 - MacRumors",
       "source": {
-        "name": "Anime News Network"
+        "name": "MacRumors"
       },
-      "description": "The latest Resident Evil game is the equivalent of an icy hand on your neck when you think you're al...",
-      "url": "https://www.animenewsnetwork.com/feature/2025-06-12/resident-evil-requiem-the-first-re-game-to-make-me-jump/.225505",
-      "publishedAt": "2025-06-12T19:00:00Z",
-      "processed_at": "2025-06-14T12:38:26.384758+00:00"
-    },
-    {
-      "title": "The Switch 2 Games To Play When You’re Done With Mario Kart World - Game Informer",
-      "source": {
-        "name": "Gameinformer.com"
-      },
-      "description": "Or at least taking a break from Nintendo's latest kart racer....",
-      "url": "https://www.gameinformer.com/impressions/2025/06/12/the-switch-2-games-to-play-when-youre-done-with-mario-kart-world",
-      "publishedAt": "2025-06-12T19:00:00Z",
-      "processed_at": "2025-06-14T12:38:26.384758+00:00"
-    },
-    {
-      "title": "Xbox First-Party Handheld Plans 'Essentially Cancelled', Claims Report - Pure Xbox",
-      "source": {
-        "name": "Pure Xbox"
-      },
-      "description": "\"I’ve heard from insiders\"...",
-      "url": "https://www.purexbox.com/news/2025/06/xbox-first-party-handheld-plans-essentially-cancelled-claims-report",
-      "publishedAt": "2025-06-12T18:51:19Z",
-      "processed_at": "2025-06-14T12:38:26.384758+00:00"
-    },
-    {
-      "title": "Engineer creates first custom motherboard for 1990s PlayStation console - Ars Technica",
-      "source": {
-        "name": "Ars Technica"
-      },
-      "description": "New “nsOne” board can save a dying 1990s PlayStation 1 by transplanting original chips....",
-      "url": "https://arstechnica.com/gaming/2025/06/engineer-creates-first-custom-motherboard-for-1990s-playstation-console/",
-      "publishedAt": "2025-06-12T18:51:04Z",
-      "processed_at": "2025-06-14T12:38:26.384758+00:00"
-    },
-    {
-      "title": "Every New Detail About Dragon Age: The Veilguard's Development Shows Why It's A Defining Game For BioWare - Kotaku",
-      "source": {
-        "name": "Kotaku"
-      },
-      "description": "BioWare was asked to do the impossible, and in doing so, made a game that feels like the team's fina...",
-      "url": "https://kotaku.com/dragon-age-the-veilguard-bioware-layoffs-mass-effect-1851784416",
-      "publishedAt": "2025-06-12T18:00:41Z",
-      "processed_at": "2025-06-14T12:38:26.384758+00:00"
-    },
-    {
-      "title": "Here are Apple’s top AI announcements from WWDC 2025 - TechCrunch",
-      "source": {
-        "name": "TechCrunch"
-      },
-      "description": "At WWDC 2025, Apple announced several AI features, such as a workout coach, live translation, and mo...",
-      "url": "https://techcrunch.com/2025/06/12/here-are-apples-top-ai-announcements-from-wwdc-2025/",
-      "publishedAt": "2025-06-12T17:53:12Z",
-      "processed_at": "2025-06-14T12:38:26.384758+00:00"
+      "description": "Apple is aiming to debut its delayed personalized Siri features in the spring of 2026, reports Bloom...",
+      "url": "https://www.macrumors.com/2025/06/12/apple-intelligence-siri-spring-2026/",
+      "publishedAt": "2025-06-12T21:06:47Z",
+      "processed_at": "2025-06-14T13:27:39.724568+00:00"
     }
   ],
-  "lastUpdated": "2025-06-14T12:38:26.384837+00:00",
+  "lastUpdated": "2025-06-14T13:27:39.724643+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
