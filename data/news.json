@@ -1,16 +1,26 @@
 {
   "status": "success",
-  "totalResults": 10,
+  "totalResults": 9,
   "articles": [
     {
-      "title": "“He Ordered Two, Got Chaos Instead”: Nintendo Fan Buys Identical Switch Packs and Unboxes Two Completely Different Surprises - Rude Baguette",
+      "title": "This Powerful Airplane Engine Has Been Around For Over 70 Years & Is Still Used Today - SlashGear",
       "source": {
-        "name": "Rudebaguette.com"
+        "name": "SlashGear"
       },
-      "description": "IN A NUTSHELL 🎮 A Reddit user ordered two Nintendo Switch bundles with Mario Kart and received packa...",
-      "url": "https://www.rudebaguette.com/en/2025/06/he-ordered-two-got-chaos-instead-nintendo-fan-buys-identical-switch-packs-and-unboxes-two-completely-different-surprises/",
-      "publishedAt": "2025-06-14T13:59:13Z",
-      "processed_at": "2025-06-15T16:23:51.894012+00:00"
+      "description": "The Lycoming O-320 engine, a four-cylinder, horizontally opposed, air-cooled engine, is so reliable ...",
+      "url": "https://www.slashgear.com/1882869/airplane-piston-engine-70-years-old-how-much-power/",
+      "publishedAt": "2025-06-14T16:00:00Z",
+      "processed_at": "2025-06-15T17:17:29.594475+00:00"
+    },
+    {
+      "title": "Switch 2 Joy-Con drift is already haunting Nintendo - polygon.com",
+      "source": {
+        "name": "Polygon"
+      },
+      "description": "PS5, Xbox, and Switch all experience drift, and the Switch 2 will be no different based on early rep...",
+      "url": "https://www.polygon.com/nintendo-switch-2/606939/switch-2-joycon-drift-controller-fix-joystick",
+      "publishedAt": "2025-06-14T12:00:00Z",
+      "processed_at": "2025-06-15T17:17:29.594475+00:00"
     },
     {
       "title": "I found a simple toggle to get rid of ads in my Gmail inbox, and I can't recommend it enough - Android Authority",
@@ -20,7 +30,7 @@
       "description": "Changing this Gmail setting gets rid of ads that look like real emails, and it won't cost you anythi...",
       "url": "https://www.androidauthority.com/disable-ads-gmail-inbox-3565883/",
       "publishedAt": "2025-06-14T11:27:53Z",
-      "processed_at": "2025-06-15T16:23:51.894012+00:00"
+      "processed_at": "2025-06-15T17:17:29.594475+00:00"
     },
     {
       "title": "Your Apple Watch is getting a big upgrade. Here are the 8 features I can't wait to use in WatchOS 26 - ZDNET",
@@ -30,17 +40,7 @@
       "description": "Big changes are coming to your Apple Watch. Here are the top WatchOS 26 features Apple unveiled at W...",
       "url": "https://www.zdnet.com/article/your-apple-watch-is-getting-a-big-upgrade-here-are-the-8-features-i-cant-wait-to-use-in-watchos-26/",
       "publishedAt": "2025-06-14T11:00:00Z",
-      "processed_at": "2025-06-15T16:23:51.894012+00:00"
-    },
-    {
-      "title": "Pre-orders for the Xbox Rog Ally will reportedly begin in August, with launch expected two months later - Video Games Chronicle",
-      "source": {
-        "name": "Video Games Chronicle"
-      },
-      "description": "The new Xbox-branded handheld will support Steam, GOG, Battlenet and more...",
-      "url": "https://www.videogameschronicle.com/news/pre-orders-for-the-xbox-rog-ally-will-reportedly-begin-in-august-with-launch-expected-two-months-later/",
-      "publishedAt": "2025-06-14T10:28:15Z",
-      "processed_at": "2025-06-15T16:23:51.894012+00:00"
+      "processed_at": "2025-06-15T17:17:29.594475+00:00"
     },
     {
       "title": "ChatGPT Is Telling People With Psychiatric Problems to Go Off Their Meds - futurism.com",
@@ -50,17 +50,27 @@
       "description": "For some people, obsession with ChatGPT has gone so far, it's exacerbating their mental illness — an...",
       "url": "https://futurism.com/chatgpt-mental-illness-medications",
       "publishedAt": "2025-06-14T10:00:08Z",
-      "processed_at": "2025-06-15T16:23:51.894012+00:00"
+      "processed_at": "2025-06-15T17:17:29.594475+00:00"
     },
     {
-      "title": "Nintendo Survey Asks Switch 2 Users About Their Experience So Far - Nintendo Life",
+      "title": "Google, Meta and Snap think this tech is the next big thing - CNN",
       "source": {
-        "name": "Nintendo Life"
+        "name": "CNN"
       },
-      "description": "Go on, tell 'em!...",
-      "url": "https://www.nintendolife.com/news/2025/06/nintendo-survey-asks-switch-2-users-about-their-experience-so-far",
-      "publishedAt": "2025-06-14T07:00:00Z",
-      "processed_at": "2025-06-15T16:23:51.894012+00:00"
+      "description": "Big Tech has been on a mission to find the next technology that would become as pervasive as the sma...",
+      "url": "https://www.cnn.com/2025/06/14/tech/google-meta-snap-smart-glasses-ai",
+      "publishedAt": "2025-06-14T09:00:00Z",
+      "processed_at": "2025-06-15T17:17:29.594475+00:00"
+    },
+    {
+      "title": "Nintendo switches up the rules of console gaming - Financial Times",
+      "source": {
+        "name": "Financial Times"
+      },
+      "description": "Exclusive franchises and generational familiarity have kept company relevant even as the industry sh...",
+      "url": "https://www.ft.com/content/bed31aa9-253f-426d-9299-719e31094ffc",
+      "publishedAt": "2025-06-14T04:00:38Z",
+      "processed_at": "2025-06-15T17:17:29.594475+00:00"
     },
     {
       "title": "Sonic Racing CrossWorlds Is a Kart Racing Spectacle That Celebrates Sega’s History - IGN",
@@ -70,7 +80,7 @@
       "description": "There's room for another kart racer in 2025 with Sonic Racing: CrossWorlds, which we played for a ha...",
       "url": "https://www.ign.com/articles/sonic-racing-crossworlds-hands-on-preview",
       "publishedAt": "2025-06-14T00:35:19Z",
-      "processed_at": "2025-06-15T16:23:51.894012+00:00"
+      "processed_at": "2025-06-15T17:17:29.594475+00:00"
     },
     {
       "title": "New paper pushes back on Apple’s LLM ‘reasoning collapse’ study - 9to5Mac",
@@ -80,30 +90,10 @@
       "description": "Apple’s recent AI research paper, “The Illusion of Thinking”, has been making waves, but not everyon...",
       "url": "https://9to5mac.com/2025/06/13/new-paper-pushes-back-on-apples-llm-reasoning-collapse-study/",
       "publishedAt": "2025-06-13T22:53:00Z",
-      "processed_at": "2025-06-15T16:23:51.894012+00:00"
-    },
-    {
-      "title": "iOS 26 Adds Support for Transferring an eSIM to and From Android - MacRumors",
-      "source": {
-        "name": "MacRumors"
-      },
-      "description": "With iOS 26, Apple is adding support for transferring an eSIM from an iPhone to an Android device, a...",
-      "url": "https://www.macrumors.com/2025/06/13/ios-26-esim-android/",
-      "publishedAt": "2025-06-13T21:31:45Z",
-      "processed_at": "2025-06-15T16:23:51.894012+00:00"
-    },
-    {
-      "title": "Summer Game Fest Viewership Jumps 89% to Record 50 Million Livestreams - Variety",
-      "source": {
-        "name": "Variety"
-      },
-      "description": "The 2025 edition of Summer Game Fest saw an 89% year-over-year growth in live peak viewership, accor...",
-      "url": "https://variety.com/2025/gaming/news/summer-game-fest-viewership-record-50-million-livestreams-1236431017/",
-      "publishedAt": "2025-06-13T21:31:00Z",
-      "processed_at": "2025-06-15T16:23:51.894012+00:00"
+      "processed_at": "2025-06-15T17:17:29.594475+00:00"
     }
   ],
-  "lastUpdated": "2025-06-15T16:23:51.894093+00:00",
+  "lastUpdated": "2025-06-15T17:17:29.594550+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
