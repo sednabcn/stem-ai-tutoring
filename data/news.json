@@ -1,7 +1,37 @@
 {
   "status": "success",
-  "totalResults": 9,
+  "totalResults": 10,
   "articles": [
+    {
+      "title": "The Best Deals Today: Indiana Jones and the Great Circle, Nintendo Switch OLED, and More - IGN",
+      "source": {
+        "name": "IGN"
+      },
+      "description": "",
+      "url": "https://www.ign.com/articles/best-deals-for-june-15-2025",
+      "publishedAt": "2025-06-15T20:01:07Z",
+      "processed_at": "2025-06-16T21:19:53.209734+00:00"
+    },
+    {
+      "title": "10 Best RPGs With Near Flawless Steam User Review Scores - DualShockers",
+      "source": {
+        "name": "DualShockers"
+      },
+      "description": "If you want to play what the players say is the best RPG on Steam, then play these 10 Best RPGs With...",
+      "url": "https://www.dualshockers.com/best-rpgs-with-near-flawless-steam-user-review-scores/",
+      "publishedAt": "2025-06-15T18:35:00Z",
+      "processed_at": "2025-06-16T21:19:53.209734+00:00"
+    },
+    {
+      "title": "Unreleased GeForce RTX 3080 Ti with 20GB memory spotted on eBay - VideoCardz.com",
+      "source": {
+        "name": "Videocardz.com"
+      },
+      "description": "NVIDIA did plan to launch RTX 3080 Ti with 20GB memory and here’s proof Rumors about an RTX 3080 Ti ...",
+      "url": "https://videocardz.com/newz/unreleased-geforce-rtx-3080-ti-with-20gb-memory-spotted-on-ebay",
+      "publishedAt": "2025-06-15T18:08:00Z",
+      "processed_at": "2025-06-16T21:19:53.209734+00:00"
+    },
     {
       "title": "iOS 26 New iPhone Release: Apple Delivers Unprecedented Update - Forbes",
       "source": {
@@ -10,7 +40,17 @@
       "description": "Just days into the developer beta release cycle for the next iPhone software, Apple has slipped out ...",
       "url": "https://www.forbes.com/sites/davidphelan/2025/06/15/ios-26-new-release-apple-quietly-delivers-unprecedented-iphone-update/",
       "publishedAt": "2025-06-15T16:49:39Z",
-      "processed_at": "2025-06-16T20:23:23.840019+00:00"
+      "processed_at": "2025-06-16T21:19:53.209734+00:00"
+    },
+    {
+      "title": "Stolen iPhones disabled by Apple's anti-theft tech after Los Angeles looting - TechSpot",
+      "source": {
+        "name": "TechSpot"
+      },
+      "description": "Apple's retail locations are equipped with advanced anti-theft technology that renders display devic...",
+      "url": "https://www.techspot.com/news/108318-stolen-iphones-disabled-apple-anti-theft-tech-after.html",
+      "publishedAt": "2025-06-15T16:02:00Z",
+      "processed_at": "2025-06-16T21:19:53.209734+00:00"
     },
     {
       "title": "Apple's Latest Movie Trailer Innovation Suggests The Future Of Premium Home Viewing - SlashFilm",
@@ -20,7 +60,7 @@
       "description": "Apple has introduced a new way for movie lovers to watch trailers for new releases on their phones, ...",
       "url": "https://www.slashfilm.com/1885916/apple-movie-haptic-trailer-innovation-premium-home-viewing-future/",
       "publishedAt": "2025-06-15T16:00:00Z",
-      "processed_at": "2025-06-16T20:23:23.840019+00:00"
+      "processed_at": "2025-06-16T21:19:53.209734+00:00"
     },
     {
       "title": "Andy Bogard's Fatal Fury: City of the Wolves gameplay trailer revealed, releases June 24 - EventHubs",
@@ -30,7 +70,7 @@
       "description": "Near the conclusion of the Fatal Fury: City of the Wolves event at CEO 2025, SNK revealed that they ...",
       "url": "https://www.eventhubs.com/news/2025/jun/15/andy-bogard-gameplay-trailer-ffcotw/",
       "publishedAt": "2025-06-15T15:48:24Z",
-      "processed_at": "2025-06-16T20:23:23.840019+00:00"
+      "processed_at": "2025-06-16T21:19:53.209734+00:00"
     },
     {
       "title": "PlayStation Fans Call New PS1 Remake Announcement the \"Best News This Year\" - ComicBook.com",
@@ -40,7 +80,7 @@
       "description": "PlayStation fans are getting a new PS1 remake, and those on PS5 are very excited and surprised with ...",
       "url": "http://comicbook.com/gaming/news/ps1-playstation-1-sony-remake-news/",
       "publishedAt": "2025-06-15T15:30:09Z",
-      "processed_at": "2025-06-16T20:23:23.840019+00:00"
+      "processed_at": "2025-06-16T21:19:53.209734+00:00"
     },
     {
       "title": "This T-Mobile free phone offer may be its hottest deal yet - TheStreet",
@@ -50,7 +90,7 @@
       "description": "",
       "url": "https://www.thestreet.com/technology-1/this-t-mobile-free-phone-offer-may-be-its-hottest-deal-yet",
       "publishedAt": "2025-06-15T15:03:00Z",
-      "processed_at": "2025-06-16T20:23:23.840019+00:00"
+      "processed_at": "2025-06-16T21:19:53.209734+00:00"
     },
     {
       "title": "Minecraft's \"Vibrant Visuals\" update finally has a release date - Eurogamer",
@@ -60,40 +100,10 @@
       "description": "Minecraft's Vibrant Visuals update finally has a release date: 17th June....",
       "url": "https://www.eurogamer.net/minecrafts-vibrant-visuals-update-finally-has-a-release-date",
       "publishedAt": "2025-06-15T14:44:03Z",
-      "processed_at": "2025-06-16T20:23:23.840019+00:00"
-    },
-    {
-      "title": "Separating Material 3 Expressive from Android 16 was Google's smartest move all year - Android Police",
-      "source": {
-        "name": "Android Police"
-      },
-      "description": "History doesn’t repeat itself...",
-      "url": "https://www.androidpolice.com/google-android-16-material-3-expressive/",
-      "publishedAt": "2025-06-15T14:19:00Z",
-      "processed_at": "2025-06-16T20:23:23.840019+00:00"
-    },
-    {
-      "title": "Over 46,000 Grafana instances exposed to account takeover bug - BleepingComputer",
-      "source": {
-        "name": "BleepingComputer"
-      },
-      "description": "More than 46,000 internet-facing Grafana instances remain unpatched and exposed to a client-side ope...",
-      "url": "https://www.bleepingcomputer.com/news/security/over-46-000-grafana-instances-exposed-to-account-takeover-bug/",
-      "publishedAt": "2025-06-15T14:07:56Z",
-      "processed_at": "2025-06-16T20:23:23.840019+00:00"
-    },
-    {
-      "title": "Fallout meets BioShock in fascinating new adventure game - GAMINGbible",
-      "source": {
-        "name": "Gamingbible.com"
-      },
-      "description": "Fallout and BioShock fans should keep an eye on upcoming adventure game PVKK which sounds brilliant....",
-      "url": "https://www.gamingbible.com/news/platform/steam/fallout-meets-bioshock-new-adventure-game-482130-20250612",
-      "publishedAt": "2025-06-15T14:00:06Z",
-      "processed_at": "2025-06-16T20:23:23.840019+00:00"
+      "processed_at": "2025-06-16T21:19:53.209734+00:00"
     }
   ],
-  "lastUpdated": "2025-06-16T20:23:23.840081+00:00",
+  "lastUpdated": "2025-06-16T21:19:53.209802+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
