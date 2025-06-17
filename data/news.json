@@ -3,6 +3,16 @@
   "totalResults": 10,
   "articles": [
     {
+      "title": "AI alone cannot solve the productivity puzzle - Financial Times",
+      "source": {
+        "name": "Financial Times"
+      },
+      "description": "Economic miracles stem from discovery, not repeating tasks at greater speed...",
+      "url": "https://www.ft.com/content/55bc5876-254a-4daa-86f8-2cd0d939a866",
+      "publishedAt": "2025-06-16T04:00:11Z",
+      "processed_at": "2025-06-17T09:23:45.545142+00:00"
+    },
+    {
       "title": "Anker’s Soundcore Sleep earbuds finally feature active noise canceling - The Verge",
       "source": {
         "name": "The Verge"
@@ -10,7 +20,7 @@
       "description": "Anker’s Soundcore Sleep A30 earbuds now offer better nighttime noise blocking with ANC and a snore-d...",
       "url": "https://www.theverge.com/news/686034/anker-soundcore-sleep-a30-wireless-earbuds-anc-active-noise-canceling",
       "publishedAt": "2025-06-16T04:00:00Z",
-      "processed_at": "2025-06-17T08:29:12.420854+00:00"
+      "processed_at": "2025-06-17T09:23:45.545142+00:00"
     },
     {
       "title": "What Gemini app features are free versus paid? [June 2025] - 9to5Google",
@@ -20,7 +30,17 @@
       "description": "Many Gemini app features are available for free, while $19.99 per month for Google AI Pro unlocks a ...",
       "url": "http://9to5google.com/2025/06/15/gemini-app-free-paid-features/",
       "publishedAt": "2025-06-16T01:31:00Z",
-      "processed_at": "2025-06-17T08:29:12.420854+00:00"
+      "processed_at": "2025-06-17T09:23:45.545142+00:00"
+    },
+    {
+      "title": "Pikachu Plush & Promo Card Revealed Ahead of the 2025 World Championships - Pokemon.com",
+      "source": {
+        "name": "Pokemon.com"
+      },
+      "description": "See what was shown during the conclusion of the North America International Championships....",
+      "url": "https://www.pokemon.com/us/pokemon-news/pikachu-plush-promo-card-revealed-ahead-of-the-2025-world-championships",
+      "publishedAt": "2025-06-16T01:08:53Z",
+      "processed_at": "2025-06-17T09:23:45.545142+00:00"
     },
     {
       "title": "Fitbit app redesigns device settings to match Pixel Watch - 9to5Google",
@@ -30,7 +50,7 @@
       "description": "The modernization of the Fitbit app continues with a redesign of the device settings page for smartw...",
       "url": "http://9to5google.com/2025/06/15/fitbit-device-settings-redesign/",
       "publishedAt": "2025-06-16T00:20:00Z",
-      "processed_at": "2025-06-17T08:29:12.420854+00:00"
+      "processed_at": "2025-06-17T09:23:45.545142+00:00"
     },
     {
       "title": "The Best Deals Today: Indiana Jones and the Great Circle, Nintendo Switch OLED, and More - IGN",
@@ -40,37 +60,17 @@
       "description": "",
       "url": "https://www.ign.com/articles/best-deals-for-june-15-2025",
       "publishedAt": "2025-06-15T20:01:07Z",
-      "processed_at": "2025-06-17T08:29:12.420854+00:00"
+      "processed_at": "2025-06-17T09:23:45.545142+00:00"
     },
     {
-      "title": "Electromechanical Atari Is A Steampunk Meccano Masterpiece - Hackaday",
-      "source": {
-        "name": "Hackaday"
-      },
-      "description": "If William Gibson and Bruce Sterling had written an arcade scene into “The Difference Engine”, it pr...",
-      "url": "https://hackaday.com/2025/06/15/electromechanical-atari-is-a-steampunk-meccano-masterpiece/",
-      "publishedAt": "2025-06-15T20:00:00Z",
-      "processed_at": "2025-06-17T08:29:12.420854+00:00"
-    },
-    {
-      "title": "Your iPad is getting a major upgrade for free. 4 top features I can't wait to try in iPadOS 26 - ZDNET",
+      "title": "Your MacBook is getting a big upgrade. 5 best features I can't wait to use in MacOS 26 - ZDNET",
       "source": {
         "name": "ZDNet"
       },
-      "description": "At WWDC 2025, Apple revealed the latest iPadOS updates - pushing the iPad even closer to a Mac-like ...",
-      "url": "https://www.zdnet.com/article/your-ipad-is-getting-a-major-upgrade-for-free-4-top-features-i-cant-wait-to-try-in-ipados-26/",
-      "publishedAt": "2025-06-15T19:56:00Z",
-      "processed_at": "2025-06-17T08:29:12.420854+00:00"
-    },
-    {
-      "title": "June 17 Is Going to Be a Big Day for Xbox Game Pass Subscribers - ComicBook.com",
-      "source": {
-        "name": "ComicBook.com"
-      },
-      "description": "June 17 is going to be a big day for Xbox Game Pass subscribers, as three games are being added, inc...",
-      "url": "http://comicbook.com/gaming/news/xbox-game-pass-ultimate-pc-gamepass-new-games-day-one-june/",
-      "publishedAt": "2025-06-15T19:53:24Z",
-      "processed_at": "2025-06-17T08:29:12.420854+00:00"
+      "description": "Here are the top new features in MacOS Tahoe - plus how to see if your Mac makes the cut....",
+      "url": "https://www.zdnet.com/article/your-macbook-is-getting-a-big-upgrade-5-best-features-i-cant-wait-to-use-in-macos-26/",
+      "publishedAt": "2025-06-15T19:47:00Z",
+      "processed_at": "2025-06-17T09:23:45.545142+00:00"
     },
     {
       "title": "I found the best free and secure way to transfer files between Android and Windows or Mac - Android Police",
@@ -80,30 +80,30 @@
       "description": "Effortless file transfer between Android, Windows, and Mac...",
       "url": "https://www.androidpolice.com/best-free-and-secure-way-to-transfer-files-between-android-windows-or-mac/",
       "publishedAt": "2025-06-15T19:27:00Z",
-      "processed_at": "2025-06-17T08:29:12.420854+00:00"
+      "processed_at": "2025-06-17T09:23:45.545142+00:00"
     },
     {
-      "title": "Unreleased GeForce RTX 3080 Ti with 20GB memory spotted on eBay - VideoCardz.com",
+      "title": "Apple to Start Releasing Public Betas of AirPods Firmware Updates - MacRumors",
       "source": {
-        "name": "Videocardz.com"
+        "name": "MacRumors"
       },
-      "description": "NVIDIA did plan to launch RTX 3080 Ti with 20GB memory and here’s proof Rumors about an RTX 3080 Ti ...",
-      "url": "https://videocardz.com/newz/unreleased-geforce-rtx-3080-ti-with-20gb-memory-spotted-on-ebay",
-      "publishedAt": "2025-06-15T18:08:00Z",
-      "processed_at": "2025-06-17T08:29:12.420854+00:00"
+      "description": "Apple plans to offer public betas of AirPods firmware updates for the first time.   The public will ...",
+      "url": "https://www.macrumors.com/2025/06/15/airpods-firmware-public-betas/",
+      "publishedAt": "2025-06-15T19:19:46Z",
+      "processed_at": "2025-06-17T09:23:45.545142+00:00"
     },
     {
-      "title": "Nintendo and Amazon’s feud now seemingly resolved - My Nintendo News",
+      "title": "watchOS 26 Brings Your iPhone's Control Center to Your Apple Watch - MacRumors",
       "source": {
-        "name": "My Nintendo News"
+        "name": "MacRumors"
       },
-      "description": "Nintendo of America and Amazon US relationship over the years has been complicated, but it now seems...",
-      "url": "https://mynintendonews.com/2025/06/15/nintendo-and-amazons-feud-now-seemingly-resolved/",
-      "publishedAt": "2025-06-15T18:05:49Z",
-      "processed_at": "2025-06-17T08:29:12.420854+00:00"
+      "description": "Apple Watches are gaining support for custom Control Center controls.   Starting with watchOS 26, co...",
+      "url": "https://www.macrumors.com/2025/06/15/watchos-26-custom-controls/",
+      "publishedAt": "2025-06-15T18:57:30Z",
+      "processed_at": "2025-06-17T09:23:45.545142+00:00"
     }
   ],
-  "lastUpdated": "2025-06-17T08:29:12.420930+00:00",
+  "lastUpdated": "2025-06-17T09:23:45.545211+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
