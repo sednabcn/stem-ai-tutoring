@@ -1,7 +1,27 @@
 {
   "status": "success",
-  "totalResults": 10,
+  "totalResults": 9,
   "articles": [
+    {
+      "title": "Review: FBC: Firebreak (PS5) - PS Plus Shooter Proves Remedy Should Have Stayed in Its Lane - Push Square",
+      "source": {
+        "name": "Push Square"
+      },
+      "description": "Stick to what you know...",
+      "url": "https://www.pushsquare.com/reviews/ps5/fbc-firebreak",
+      "publishedAt": "2025-06-17T10:00:51Z",
+      "processed_at": "2025-06-18T09:23:38.631729+00:00"
+    },
+    {
+      "title": "All New GTA Online Vehicles In Money Fronts Update And Prices Revealed - RockstarINTEL",
+      "source": {
+        "name": "Rockstarintel.com"
+      },
+      "description": "The new GTA Online update titled Money Fronts comes with several new vehicles to purchase. In this a...",
+      "url": "https://rockstarintel.com/gta-online-money-fronts-vehicles-prices-day-one/",
+      "publishedAt": "2025-06-17T09:15:57Z",
+      "processed_at": "2025-06-18T09:23:38.631729+00:00"
+    },
     {
       "title": "Pokémon Fan Loses \"20 Years Worth Of Data\" After Performing Switch 2 Transfer - Nintendo Life",
       "source": {
@@ -10,7 +30,27 @@
       "description": "Condolences...",
       "url": "https://www.nintendolife.com/news/2025/06/pokemon-fan-loses-20-years-worth-of-data-after-performing-switch-2-transfer",
       "publishedAt": "2025-06-17T07:15:00Z",
-      "processed_at": "2025-06-18T08:28:40.207294+00:00"
+      "processed_at": "2025-06-18T09:23:38.631729+00:00"
+    },
+    {
+      "title": "Microsoft Starts Deleting Your Passwords In 6 Weeks—Act Now - Forbes",
+      "source": {
+        "name": "Forbes"
+      },
+      "description": "The end of passwords is coming — act before it’s too late....",
+      "url": "https://www.forbes.com/sites/zakdoffman/2025/06/17/microsoft-starts-deleting-your-passwords-in-6-weeks-act-now/",
+      "publishedAt": "2025-06-17T05:44:52Z",
+      "processed_at": "2025-06-18T09:23:38.631729+00:00"
+    },
+    {
+      "title": "Samsung's Galaxy Watch 4 is now nearing the end of its run - Android Police",
+      "source": {
+        "name": "Android Police"
+      },
+      "description": "The end is in sight...",
+      "url": "https://www.androidpolice.com/samsung-galaxy-watch-4-the-end-is-coming/",
+      "publishedAt": "2025-06-17T02:49:00Z",
+      "processed_at": "2025-06-18T09:23:38.631729+00:00"
     },
     {
       "title": "Xbox sale round-up June 17, 2025 - TrueAchievements",
@@ -20,7 +60,7 @@
       "description": "New Xbox sales are now live, with big discounts on Destiny 2, Tom Clancy's The Division, Far Cry 6, ...",
       "url": "https://www.trueachievements.com/n59360/xbox-sale-roundup-june-17-2025",
       "publishedAt": "2025-06-17T00:09:44Z",
-      "processed_at": "2025-06-18T08:28:40.207294+00:00"
+      "processed_at": "2025-06-18T09:23:38.631729+00:00"
     },
     {
       "title": "The Best Clone Characters To Create In The Alters - GameSpot",
@@ -30,7 +70,7 @@
       "description": "Find out which clones ought to be prioritized in The Alters....",
       "url": "https://www.gamespot.com/gallery/the-alters-best-alter-characters-clones/2900-6665/",
       "publishedAt": "2025-06-16T23:01:20Z",
-      "processed_at": "2025-06-18T08:28:40.207294+00:00"
+      "processed_at": "2025-06-18T09:23:38.631729+00:00"
     },
     {
       "title": "Unfortunately For Some, These iPhone & iPad Models Won't Be Getting iOS 26 - SlashGear",
@@ -40,70 +80,20 @@
       "description": "Apple's upcoming OS updates will be available on most modern products, but there's always a cutoff d...",
       "url": "https://www.slashgear.com/1887540/ios-26-iphone-ipad-compatibility-list/",
       "publishedAt": "2025-06-16T22:15:00Z",
-      "processed_at": "2025-06-18T08:28:40.207294+00:00"
+      "processed_at": "2025-06-18T09:23:38.631729+00:00"
     },
     {
-      "title": "How Apple Created a Custom iPhone Camera for ‘F1’ - WIRED",
+      "title": "Nintendo Switch 2 hackers say they’re already getting banned - Polygon",
       "source": {
-        "name": "Wired"
+        "name": "Polygon"
       },
-      "description": "Mounted on Formula One cars and used at real events, the special module used an iPhone camera sensor...",
-      "url": "https://www.wired.com/story/apple-created-a-custom-iphone-camera-for-f1/",
-      "publishedAt": "2025-06-16T22:00:00Z",
-      "processed_at": "2025-06-18T08:28:40.207294+00:00"
-    },
-    {
-      "title": "Mario Kart World Coins Don't Function As You'd Expect, New Evidence Suggests - GameSpot",
-      "source": {
-        "name": "GameSpot"
-      },
-      "description": "Fan research shows that collecting coins in Mario Kart World makes you faster... but it's complicate...",
-      "url": "https://www.gamespot.com/articles/mario-kart-world-coins-dont-function-as-youd-expect-new-evidence-suggests/1100-6532471/",
-      "publishedAt": "2025-06-16T20:52:01Z",
-      "processed_at": "2025-06-18T08:28:40.207294+00:00"
-    },
-    {
-      "title": "Nintendo's Crackdown On Switch 2 Piracy Has Already Begun - Kotaku",
-      "source": {
-        "name": "Kotaku"
-      },
-      "description": "The Mario Kart World maker is banning some Switch 2 consoles...",
-      "url": "https://kotaku.com/switch-2-piracy-nintendo-mig-ban-roms-mario-kart-1851784610",
-      "publishedAt": "2025-06-16T20:30:00Z",
-      "processed_at": "2025-06-18T08:28:40.207294+00:00"
-    },
-    {
-      "title": "PC modding repository Nexus Mods has a new owner - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "Nexus Mods has been handed over to new ownership, according to former owner Robin “Dark0ne” Scott. S...",
-      "url": "https://www.theverge.com/news/687759/nexus-mods-pc-new-owner",
-      "publishedAt": "2025-06-16T20:04:40Z",
-      "processed_at": "2025-06-18T08:28:40.207294+00:00"
-    },
-    {
-      "title": "Reddit user surprised when 1960s computer panel emerged from collapsed family garage - Ars Technica",
-      "source": {
-        "name": "Ars Technica"
-      },
-      "description": "Rare RCA control panel from 1966 may be the only surviving example of its kind....",
-      "url": "https://arstechnica.com/gadgets/2025/06/reddit-user-surprised-when-1960s-computer-panel-emerged-from-collapsed-family-garage/",
-      "publishedAt": "2025-06-16T20:04:19Z",
-      "processed_at": "2025-06-18T08:28:40.207294+00:00"
-    },
-    {
-      "title": "Charge your Apple Watch on this tiny iMac G3 replica - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "Spigen’s Apple Watch Classic C1 Charger Stand is fun and functional, positioning your smartwatch at ...",
-      "url": "https://www.theverge.com/news/687749/spigen-apple-watch-classic-c1-charger-stand",
-      "publishedAt": "2025-06-16T19:42:11Z",
-      "processed_at": "2025-06-18T08:28:40.207294+00:00"
+      "description": "Nintendo can apparently detect hackers on the Switch 2, and some users are getting bans for trying t...",
+      "url": "https://www.polygon.com/news/607288/nintendo-switch-2-hacker-ban-console-account",
+      "publishedAt": "2025-06-16T22:04:35Z",
+      "processed_at": "2025-06-18T09:23:38.631729+00:00"
     }
   ],
-  "lastUpdated": "2025-06-18T08:28:40.207368+00:00",
+  "lastUpdated": "2025-06-18T09:23:38.631806+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
