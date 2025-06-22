@@ -1,7 +1,67 @@
 {
   "status": "success",
-  "totalResults": 10,
+  "totalResults": 8,
   "articles": [
+    {
+      "title": "Google Meet’s Material 3 Expressive redesign has ludicrously capacious buttons - 9to5Google",
+      "source": {
+        "name": "9to5google.com"
+      },
+      "description": "Google Meet is joining Gmail, Messages, and Phone in getting Material 3 Expressive, though it’s a sl...",
+      "url": "http://9to5google.com/2025/06/21/google-meet-material-3-expressive/",
+      "publishedAt": "2025-06-21T21:35:00Z",
+      "processed_at": "2025-06-22T21:18:32.823944+00:00"
+    },
+    {
+      "title": "Mario Kart World dev comments on why non-Mario characters aren’t included - Nintendo Everything",
+      "source": {
+        "name": "Nintendoeverything.com"
+      },
+      "description": "Nintendo comments on why there aren't any non-Mario characters in Mario Kart World similar to Mario ...",
+      "url": "https://nintendoeverything.com/mario-kart-world-nintendo-characters/",
+      "publishedAt": "2025-06-21T20:05:16Z",
+      "processed_at": "2025-06-22T21:18:32.823944+00:00"
+    },
+    {
+      "title": "Earth is Eating Itself: Vast Chunks Of Crust Are Being Swallowed From Within - The Daily Galaxy",
+      "source": {
+        "name": "The Daily Galaxy --Great Discoveries Channel"
+      },
+      "description": "Part of Earth's crust is “sinking” toward the core… and it could change everything…...",
+      "url": "https://dailygalaxy.com/2025/06/earth-eating-itself-chunks-crust-swallowed/",
+      "publishedAt": "2025-06-21T19:00:00Z",
+      "processed_at": "2025-06-22T21:18:32.823944+00:00"
+    },
+    {
+      "title": "iOS 26 Includes These Five Smaller Features You Might Have Missed - MacRumors",
+      "source": {
+        "name": "MacRumors"
+      },
+      "description": "While the dust is beginning to settle on the first iOS 26 beta, we continue to take a closer look at...",
+      "url": "https://www.macrumors.com/2025/06/21/five-ios-26-features-you-might-have-missed/",
+      "publishedAt": "2025-06-21T18:18:37Z",
+      "processed_at": "2025-06-22T21:18:32.823944+00:00"
+    },
+    {
+      "title": "Poll: Is Xbox heading in the right direction? Cast your vote here! - Windows Central",
+      "source": {
+        "name": "Windows Central"
+      },
+      "description": "A flurry of positive and intriguing announcements has given Xbox some positive momentum. Or has it?...",
+      "url": "https://www.windowscentral.com/gaming/xbox/poll-is-xbox-heading-in-the-right-direction-cast-your-vote",
+      "publishedAt": "2025-06-21T17:42:26Z",
+      "processed_at": "2025-06-22T21:18:32.823944+00:00"
+    },
+    {
+      "title": "Red Dead Redemption star says he \"possibly misled some people\" but insists \"exciting\" news is still on the way - Eurogamer",
+      "source": {
+        "name": "Eurogamer.net"
+      },
+      "description": "Red Dead Redemption 2 actor said he \"possibly misled some people\" when he teased a Red Dead Redempti...",
+      "url": "https://www.eurogamer.net/red-dead-redemption-star-says-he-possibly-misled-some-people-but-insists-exciting-news-is-still-on-the-way",
+      "publishedAt": "2025-06-21T16:10:56Z",
+      "processed_at": "2025-06-22T21:18:32.823944+00:00"
+    },
     {
       "title": "iOS 26's New Battery Life Mode Available Only on These iPhone Models - MacRumors",
       "source": {
@@ -10,100 +70,20 @@
       "description": "Last week, we reported that iOS 26 introduces an opt-in Adaptive Power Mode on the iPhone, alongside...",
       "url": "https://www.macrumors.com/2025/06/21/ios-26-adaptive-power-mode-compatible-iphones/",
       "publishedAt": "2025-06-21T16:02:04Z",
-      "processed_at": "2025-06-22T20:21:26.554872+00:00"
+      "processed_at": "2025-06-22T21:18:32.823944+00:00"
     },
     {
-      "title": "Even the Meta Quest can be an Xbox — Leaked images show an Xbox-branded Quest 3S that could shadow drop in just a few days - Windows Central",
-      "source": {
-        "name": "Windows Central"
-      },
-      "description": "Images of the Xbox Quest 3S rumored to shadow drop appeared on social media in a now-deleted thread....",
-      "url": "https://www.windowscentral.com/gaming/virtual-reality/meta-quest-3s-xbox-edition-leaked-images",
-      "publishedAt": "2025-06-21T14:26:48Z",
-      "processed_at": "2025-06-22T20:21:26.554872+00:00"
-    },
-    {
-      "title": "iOS 26 Adding Two New Wi-Fi Features, Allows AirDrop and AirPlay Alternatives - MacRumors",
-      "source": {
-        "name": "MacRumors"
-      },
-      "description": "iOS 26 is gaining two new Wi-Fi features, including Captive Assist and Wi-Fi Aware.   MacRumors cont...",
-      "url": "https://www.macrumors.com/2025/06/21/ios-26-adding-two-new-wi-fi-features/",
-      "publishedAt": "2025-06-21T14:02:21Z",
-      "processed_at": "2025-06-22T20:21:26.554872+00:00"
-    },
-    {
-      "title": "Wizard of Legend 2 is the co-op game of the year — even if it’s broken - Polygon",
-      "source": {
-        "name": "Polygon"
-      },
-      "description": "Wizard of Legend 2 is out of early access, and an excellent co-op roguelike, albeit with some multip...",
-      "url": "https://www.polygon.com/impressions/608315/wizard-legend-2-co-op",
-      "publishedAt": "2025-06-21T14:00:00Z",
-      "processed_at": "2025-06-22T20:21:26.554872+00:00"
-    },
-    {
-      "title": "Samsung Makes New Free Offer To Millions Of Galaxy Phones And Tablets - Forbes",
-      "source": {
-        "name": "Forbes"
-      },
-      "description": "Samsung has another major product giveaway for existing phone and tablet users....",
-      "url": "https://www.forbes.com/sites/jaymcgregor/2025/06/21/samsung-galaxy-phone-tablet-free-perplexity-ai-offer/",
-      "publishedAt": "2025-06-21T13:44:19Z",
-      "processed_at": "2025-06-22T20:21:26.554872+00:00"
-    },
-    {
-      "title": "‘Monster Hunter Wilds’ Collapses With 1% Of Launch Players, 82% Negative Reviews - Forbes",
-      "source": {
-        "name": "Forbes"
-      },
-      "description": "Monster Hunter Wilds is now being played less than Monster Hunter World as fans rebel against PC iss...",
-      "url": "https://www.forbes.com/sites/paultassi/2025/06/21/monster-hunter-wilds-collapses-with-1-of-launch-players-82-negative-reviews/",
-      "publishedAt": "2025-06-21T13:31:56Z",
-      "processed_at": "2025-06-22T20:21:26.554872+00:00"
-    },
-    {
-      "title": "I’m not typically an iPad fan, but the M4 iPad Pro changed my mind - 9to5Mac",
-      "source": {
-        "name": "9to5Mac"
-      },
-      "description": "For the longest time, I had believed that purchasing a new iPad at full price never made any sort of...",
-      "url": "https://9to5mac.com/2025/06/21/heres-why-the-m4-ipad-pro-changed-my-mind-review/",
-      "publishedAt": "2025-06-21T13:15:00Z",
-      "processed_at": "2025-06-22T20:21:26.554872+00:00"
-    },
-    {
-      "title": "The Nintendo Switch 2 is an awesome upgrade for parents like me - The Verge",
+      "title": "Samsung’s entry-level Galaxy Watch 7 has returned to its best price to date - The Verge",
       "source": {
         "name": "The Verge"
       },
-      "description": "The Nintendo Switch 2 introduces features like GameShare and virtual game cards that make it work es...",
-      "url": "https://www.theverge.com/nintendo/690224/nintendo-switch-2-parenting-gameshare",
-      "publishedAt": "2025-06-21T13:00:00Z",
-      "processed_at": "2025-06-22T20:21:26.554872+00:00"
-    },
-    {
-      "title": "Amazon Isn’t Waiting for Prime Day, This Three-Port USB-C Charger Is Almost Free - Gizmodo",
-      "source": {
-        "name": "Gizmodo.com"
-      },
-      "description": "With this Anker charger, you can say goodbye to the cable mess....",
-      "url": "https://gizmodo.com/amazon-isnt-waiting-for-prime-day-this-three-port-usb-c-charger-is-almost-free-2000618622",
-      "publishedAt": "2025-06-21T12:49:59Z",
-      "processed_at": "2025-06-22T20:21:26.554872+00:00"
-    },
-    {
-      "title": "The First Prime Day Deal Has Landed: New HP Laptop (Touch, 64GB RAM, 2TB SSD, Win 11 Pro) Is 70% Off - Gizmodo",
-      "source": {
-        "name": "Gizmodo.com"
-      },
-      "description": "You’re saving $1,800 on the newest HP laptop....",
-      "url": "https://gizmodo.com/the-first-prime-day-deal-has-landed-new-hp-laptop-touch-64gb-ram-2tb-ssd-win-11-pro-is-70-off-2000618613",
-      "publishedAt": "2025-06-21T12:28:15Z",
-      "processed_at": "2025-06-22T20:21:26.554872+00:00"
+      "description": "The Galaxy Watch 7 is $100 off in both size configurations. There are also deals to be had on the An...",
+      "url": "https://www.theverge.com/tech/690614/samsung-galaxy-watch-7-anker-magsafe-charger-deal-sale",
+      "publishedAt": "2025-06-21T16:02:03Z",
+      "processed_at": "2025-06-22T21:18:32.823944+00:00"
     }
   ],
-  "lastUpdated": "2025-06-22T20:21:26.554952+00:00",
+  "lastUpdated": "2025-06-22T21:18:32.824015+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
