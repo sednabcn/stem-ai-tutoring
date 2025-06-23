@@ -1,16 +1,36 @@
 {
   "status": "success",
-  "totalResults": 9,
+  "totalResults": 10,
   "articles": [
     {
-      "title": "Sonic Racing: CrossWorlds Officially Reveals Nickelodeon Collaboration - Nintendo Life",
+      "title": "Former Nintendo Duo Fear We Might Be Waiting A While For A 3D Mario On Switch 2, Thanks To Donkey Kong - Nintendo Life",
       "source": {
         "name": "Nintendo Life"
       },
-      "description": "SpongeBob and friends join the race...",
-      "url": "https://www.nintendolife.com/news/2025/06/sonic-racing-crossworlds-officially-reveals-nickelodeon-collaboration",
-      "publishedAt": "2025-06-22T03:00:00Z",
-      "processed_at": "2025-06-23T08:30:16.864817+00:00"
+      "description": "\"They are not fast, they are not prolific, they are not pumping out games\"...",
+      "url": "https://www.nintendolife.com/news/2025/06/former-nintendo-duo-fear-we-might-be-waiting-a-while-for-a-3d-mario-on-switch-2-thanks-to-donkey-kong",
+      "publishedAt": "2025-06-22T07:35:00Z",
+      "processed_at": "2025-06-23T09:25:19.983138+00:00"
+    },
+    {
+      "title": "Microsoft’s Free Upgrade Deadline For 400 Million Windows Users - Forbes",
+      "source": {
+        "name": "Forbes"
+      },
+      "description": "Decision time for most Windows users — act now....",
+      "url": "https://www.forbes.com/sites/zakdoffman/2025/06/22/microsofts-free-upgrade-deadline-for-400-million-windows-users/",
+      "publishedAt": "2025-06-22T06:09:32Z",
+      "processed_at": "2025-06-23T09:25:19.983138+00:00"
+    },
+    {
+      "title": "Sonic Racing: CrossWorlds - SpongeBob SquarePants, Teenage Mutant Ninja Turtles: Mutant Mayhem, and Avatar Legends DLC announced - Gematsu",
+      "source": {
+        "name": "Gematsu"
+      },
+      "description": "SEGA has announced Sonic Racing: CrossWorlds downloadable content collaborations with SpongeBob Squa...",
+      "url": "https://www.gematsu.com/2025/06/sonic-racing-crossworlds-spongebob-squarepants-teenage-mutant-ninja-turtles-mutant-mayhem-and-avatar-legends-dlc-announced",
+      "publishedAt": "2025-06-22T03:13:10Z",
+      "processed_at": "2025-06-23T09:25:19.983138+00:00"
     },
     {
       "title": "My Roommate Has Way Too Many Girlfriends. I Have a Devious Solution to End His Philandering. - Slate Magazine",
@@ -20,7 +40,17 @@
       "description": "I accidentally called one girl by another girl's name. Chaos ensued....",
       "url": "https://slate.com/advice/2025/06/roommate-sex-advice-girlfriend-girls-cheating-secret.html",
       "publishedAt": "2025-06-21T23:14:00Z",
-      "processed_at": "2025-06-23T08:30:16.864817+00:00"
+      "processed_at": "2025-06-23T09:25:19.983138+00:00"
+    },
+    {
+      "title": "Why Does Your Brain Go Blank? - Newser",
+      "source": {
+        "name": "Newser"
+      },
+      "description": "A new study has a theory about what happens when nothing is on your mind—literally...",
+      "url": "https://www.newser.com/story/370103/why-does-your-brain-go-blank.html",
+      "publishedAt": "2025-06-21T22:40:00Z",
+      "processed_at": "2025-06-23T09:25:19.983138+00:00"
     },
     {
       "title": "Google Meet’s Material 3 Expressive redesign has ludicrously capacious buttons - 9to5Google",
@@ -30,7 +60,7 @@
       "description": "Google Meet is joining Gmail, Messages, and Phone in getting Material 3 Expressive, though it’s a sl...",
       "url": "http://9to5google.com/2025/06/21/google-meet-material-3-expressive/",
       "publishedAt": "2025-06-21T21:35:00Z",
-      "processed_at": "2025-06-23T08:30:16.864817+00:00"
+      "processed_at": "2025-06-23T09:25:19.983138+00:00"
     },
     {
       "title": "Mario Kart World dev comments on why non-Mario characters aren’t included - Nintendo Everything",
@@ -40,17 +70,17 @@
       "description": "Nintendo comments on why there aren't any non-Mario characters in Mario Kart World similar to Mario ...",
       "url": "https://nintendoeverything.com/mario-kart-world-nintendo-characters/",
       "publishedAt": "2025-06-21T20:05:16Z",
-      "processed_at": "2025-06-23T08:30:16.864817+00:00"
+      "processed_at": "2025-06-23T09:25:19.983138+00:00"
     },
     {
-      "title": "Summer update in Grow a Garden - Eurogamer",
+      "title": "Which MacBook should you buy in 2025? - 9to5Mac",
       "source": {
-        "name": "Eurogamer.net"
+        "name": "9to5Mac"
       },
-      "description": "Here's everything you need to know about the Grow a Garden Summer Update, including cosmetics list, ...",
-      "url": "https://www.eurogamer.net/summer-update-grow-a-garden",
-      "publishedAt": "2025-06-21T19:11:45Z",
-      "processed_at": "2025-06-23T08:30:16.864817+00:00"
+      "description": "MacBooks are great computers, but there’s a number of different varieties to think about. Between la...",
+      "url": "https://9to5mac.com/2025/06/21/macbook-air-vs-macbook-pro-ultimate-comparison-for-2025/",
+      "publishedAt": "2025-06-21T19:16:00Z",
+      "processed_at": "2025-06-23T09:25:19.983138+00:00"
     },
     {
       "title": "Forget Switch 2 Game Key-Cards - \"Full On-The-Cart Physical Releases\" Are What People Want, Says Publisher Lost In Cult - Nintendo Life",
@@ -60,40 +90,20 @@
       "description": "\"We can make it work for you\"...",
       "url": "https://www.nintendolife.com/news/2025/06/forget-switch-2-game-key-cards-full-on-the-cart-physical-releases-are-what-people-want-says-publisher-lost-in-cult",
       "publishedAt": "2025-06-21T19:07:30Z",
-      "processed_at": "2025-06-23T08:30:16.864817+00:00"
+      "processed_at": "2025-06-23T09:25:19.983138+00:00"
     },
     {
-      "title": "iOS 26 Includes These Five Smaller Features You Might Have Missed - MacRumors",
+      "title": "Earth is Eating Itself: Vast Chunks Of Crust Are Being Swallowed From Within - The Daily Galaxy",
       "source": {
-        "name": "MacRumors"
+        "name": "The Daily Galaxy --Great Discoveries Channel"
       },
-      "description": "While the dust is beginning to settle on the first iOS 26 beta, we continue to take a closer look at...",
-      "url": "https://www.macrumors.com/2025/06/21/five-ios-26-features-you-might-have-missed/",
-      "publishedAt": "2025-06-21T18:18:37Z",
-      "processed_at": "2025-06-23T08:30:16.864817+00:00"
-    },
-    {
-      "title": "“Not every game is for every single person. Sometimes you have to pick a lane” - The Outer Worlds 2’s director on meaningful role-playing consequence and banning respec - RPG Site",
-      "source": {
-        "name": "RPG Site"
-      },
-      "description": "Obsidian's Brandon Adler is one of us - and he wants role-playing decision-making to matter again. H...",
-      "url": "https://www.rpgsite.net/interview/17785-outer-worlds-2-director-interview-respec-rpg-choice-consequences",
-      "publishedAt": "2025-06-21T17:31:07Z",
-      "processed_at": "2025-06-23T08:30:16.864817+00:00"
-    },
-    {
-      "title": "Week in Review: Meta reveals its Oakley smart glasses - TechCrunch",
-      "source": {
-        "name": "TechCrunch"
-      },
-      "description": "Welcome back to Week in Review! Lots in store for you today, including Wix's latest acquisition, Met...",
-      "url": "https://techcrunch.com/2025/06/21/week-in-review-meta-reveals-its-oakley-smart-glasses/",
-      "publishedAt": "2025-06-21T17:08:39Z",
-      "processed_at": "2025-06-23T08:30:16.864817+00:00"
+      "description": "Part of Earth's crust is “sinking” toward the core… and it could change everything…...",
+      "url": "https://dailygalaxy.com/2025/06/earth-eating-itself-chunks-crust-swallowed/",
+      "publishedAt": "2025-06-21T19:00:00Z",
+      "processed_at": "2025-06-23T09:25:19.983138+00:00"
     }
   ],
-  "lastUpdated": "2025-06-23T08:30:16.864891+00:00",
+  "lastUpdated": "2025-06-23T09:25:19.983222+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
