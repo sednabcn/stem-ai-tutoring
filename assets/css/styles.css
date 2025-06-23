@@ -647,19 +647,6 @@ body.modal-open {
     object-fit: cover;
     z-index: -1; /* Puts image behind other content */
 }
-/*.image-container {
-    position: relative; /* Allows absolute positioning of child elements */
-/*    background-image: url('/assets/images/home.jpeg');
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
-    height: 400px; /* Adjust height as needed */
-/*    display: flex;
-    align-items: center;
-    justify-content: center;
-    color: white; /* Text color */
-/*    width: 100%; /* Ensures the hero image covers the full width */
-/*}
 
 /* Define Grid Layouts */
 .grid-5x3 {
