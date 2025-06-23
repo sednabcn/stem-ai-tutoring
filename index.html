@@ -4,108 +4,188 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>SiMLeng Website</title>
-    <link rel="stylesheet" href="./assets/css/styles.css">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css"> <!-- Font Awesome -->
-    <link rel="icon" href="./assets/images/favicon-16x16.png" type="image/x-icon">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"> <!-- Font Awesome -->
+    <link rel="stylesheet" href="/assets/css/styles.css">
+    <link rel="icon" href="/assets/images/favicon-16x16.png" type="image/x-icon">
 </head>
 <body>
     <nav class="top-nav">
         <div class="logo">
-            <img src="./assets/images/Book-NN-logo.jpeg" alt="Logo">
+            <img src="/assets/images/Book-NN-logo.jpeg" alt="Logo">
         </div>
         <div class="center-text">
             SiMLeng
         </div>
         <div class="menu">
-	  <a href="./pages/help.html" class="cta">Help</a>	  
+	  <a href="help.html" class="cta">Help</a>	  
 	  <!-- Trigger Button -->
 	  <button class="login-button" onclick="openModal()">Login/Register</button>
-
+	  <button id="logoutButton" style="display: none;">Logout</button>
         </div>
     </nav>
-    <!-- Login Modal (Global) -->
-    
-<!-- Modal -->
-<div id="authModal" class="modal-overlay">
-    <div class="modal-content">
-        <span class="close" onclick="closeModal()">&times;</span>
-        
-        <!-- Tab Headers -->
-        <div class="tabs">
-            <div class="tab active" onclick="openTab(event, 'login')">Login</div>
-            <div class="tab" onclick="openTab(event, 'register')">Register</div>
-        </div>
-        
-        <!-- Login Form -->
-        <div id="login" class="form-content active">
-            <h2 class="form-header">Login</h2>
-            <form id="loginForm">
-                <label for="loginEmail">Email</label>
-                <input type="email" id="loginEmail" placeholder="Enter your email" required>
-                
-                <label for="loginPassword">Password</label>
-                <input type="password" id="loginPassword" placeholder="Enter your password" required>
-                
-                <button type="submit">Login</button>
-                
-                <p class="recover-password" onclick="openTab(event, 'recover')">Forgot Password?</p>
-            </form>
-        </div>
-        
-        <!-- Register Form -->
-        <div id="register" class="form-content">
-            <h2 class="form-header">Register</h2>
-            <form id="registerForm">
-                <label for="registerName">Name</label>
-                <input type="text" id="registerName" placeholder="Enter your name" required>
-                
-                <label for="registerEmail">Email</label>
-                <input type="email" id="registerEmail" placeholder="Enter your email" required>
-                
-                <label for="registerPassword">Password</label>
-                <input type="password" id="registerPassword" placeholder="Create a password" required>
-                
-                <button type="submit">Register</button>
-            </form>
-        </div>
-        
-        <!-- Recover Password Form -->
-        <div id="recover" class="form-content">
-            <h2 class="form-header">Recover Password</h2>
-            <form id="recoverForm">
-                <label for="recoverEmail">Email</label>
-                <input type="email" id="recoverEmail" placeholder="Enter your email" required>
-                
-                <button type="submit">Recover Password</button>
-                
-                <p class="back-to-login" onclick="openTab(event, 'login')">Back to Login</p>
-            </form>
-        </div>
-    </div>
-</div>
+ <!-- Login Modal (Global) -->
+ <div id="authModal" class="modal-overlay">
+    <div class="auth-container">
+      <span class="close" onclick="closeModal()">&times;</span>
+      
+        <div class="auth-body">
 
-    
+            <!-- Loading Indicator -->
+            <div class="loading" id="loadingIndicator">
+                <div class="spinner"></div>
+                <p>Processing...</p>
+            </div>
+
+            <!-- Alert Messages -->
+            <div id="alertContainer"></div>
+
+            <!-- Toast Notification -->
+            <div id="toast" class="toast"></div>
+
+            <!-- Authentication Forms -->
+            <div id="authForms">
+		<div class="auth-tabs">
+                    <button class="tab-btn active" onclick="showTab(event, 'login')">Login</button>
+                    <button class="tab-btn" onclick="showTab(event, 'register')">Register</button>
+                </div>
+
+                <!-- Login Form -->
+                <div class="form-section active" id="loginFormElement">
+                    <form id="loginForm">
+                        <div class="form-group">
+                            <label for="loginEmail">Email Address</label>
+                            <input type="email" id="loginEmail" name="loginEmail" required>
+                        </div>
+                        <div class="form-group">
+                            <label for="loginPassword">Password</label>
+                            <input type="password" id="loginPassword" name="loginPassword" required autocomplete="current-password">
+                        </div>
+                        <button type="submit" class="btn btn-primary">Sign In</button>
+			<div style="display: flex; justify-content: center;">
+                          <button type="button" class="btn-link" onclick="showForgotPassword()">Forgot Password?</button>
+			</div>
+			<div id="errorMessage" style="display: none;"></div>
+                    </form>
+                </div>
+
+                <!-- Registration Form -->
+                <div class="form-section" id="registerFormElement">
+                    <form id="registerForm">
+                        <div class="form-group">
+                            <label for="registerName">Full Name</label>
+                            <input type="text" id="registerName" name="registerName" required>
+                        </div>
+                        <div class="form-group">
+                            <label for="registerEmail">Email Address</label>
+                            <input type="email" id="registerEmail" name="registerEmail" required>
+                        </div>
+                        <div class="form-group">
+                            <label for="registerPassword">Password</label>
+                            <input type="password" id="registerPassword" name="registerPassword" required minlength="6" autocomplete="new-password">
+                        </div>
+                        <div class="form-group">
+                            <label for="confirmPassword">Confirm Password</label>
+                            <input type="password" id="confirmPassword" name="confirmPassword" required autocomplete="new-password">
+                        </div>
+                        <!-- Role Selection -->
+                        <div class="role-selector">
+                            <label>Role</label>
+                            <div class="role-buttons">
+                                <button type="button" class="role-btn active" data-role="student">
+                                    <span class="icon">🎓</span>
+                                    Student
+                                </button>
+                                <button type="button" class="role-btn" data-role="math-tutor">
+                                    <span class="icon">👨‍🏫</span>
+                                    Math Tutor
+                                </button>
+                                <button type="button" class="role-btn" data-role="professional">
+                                    <span class="icon">💼</span>
+                                    Professional
+                                </button>
+                                <button type="button" class="role-btn" data-role="consultant">
+                                    <span class="icon">⭐</span>
+                                    Consultant
+                                </button>
+                            </div>
+                        </div>
+                        <button type="submit" class="btn btn-primary">Create Account</button>
+			<div id="errorMessage" style="display: none;"></div>
+                    </form>
+                </div>
+
+                <!-- Forgot Password Form -->
+                <div class="form-section" id="forgotPasswordFormElement">
+                    <form id="forgotPasswordForm">
+                        <div class="back-button">
+                            <button type="button" class="btn-link" onclick="showTab(event, 'login')">&larr; Back to Login</button>
+                        </div>
+                        <h3 style="margin-bottom: 20px; text-align: center; color: #333;">Reset Password</h3>
+                        <div class="form-group">
+                            <label for="resetEmail">Email Address</label>
+                            <input type="email" id="resetEmail" name="resetEmail" required>
+                        </div>
+                        <button type="submit" class="btn btn-primary">Send Reset Link</button>
+			<div id="errorMessage" style="display: none;"></div>
+                    </form>
+                </div>
+
+                <!-- Password Reset Confirmation -->
+                <div class="form-section" id="resetConfirmation">
+                    <div class="reset-confirmation">
+                        <h3>Password Reset Email Sent!</h3>
+                        <p>We've sent a password reset link to your email address. Please check your inbox and follow the instructions to reset your password.</p>
+                        <p><small>Didn't receive the email? Check your spam folder or try again in a few minutes.</small></p>
+                        <button type="button" class="btn btn-secondary" onclick="showTab(event, 'login')">Back to Login</button>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Profile Management (hidden by default) -->
+            <div class="form-section" id="profileFormElement">
+                <h3>Profile Management</h3>
+                <form id="profileForm">
+                    <div class="form-group">
+                        <label for="firstName">First Name</label>
+                        <input type="text" id="firstName" name="firstName">
+                    </div>
+                    <div class="form-group">
+                        <label for="lastName">Last Name</label>
+                        <input type="text" id="lastName" name="lastName">
+                    </div>
+                    <div class="form-group">
+                        <label for="phoneNumber">Phone Number</label>
+                        <input type="tel" id="phoneNumber" name="phoneNumber">
+                    </div>
+                    <div class="form-group">
+                        <label for="dateOfBirth">Date of Birth</label>
+                        <input type="date" id="dateOfBirth" name="dateOfBirth">
+                    </div>
+                    <div class="form-group">
+                        <label for="bio">Bio</label>
+                        <textarea id="bio" name="bio" rows="4" style="resize: vertical; font-family: inherit;"></textarea>
+                    </div>
+                    <button type="submit" class="btn btn-primary">Update Profile</button>
+                    <button type="button" class="btn btn-secondary" onclick="showRoleDashboard()">Back to Dashboard</button>
+		    <div id="errorMessage" style="display: none;"></div>
+                </form>
+            </div>
+	</div>    
+  </div>	
+</div>
     <!-- Header (Global) -->
     <div class="header">
         <h4>Empowering Education and Industry with Advanced Learning and AI</h4>
     </div>
-    <div class="advertising-news">
-      <h4>Latest in Maths Learning and AI</h4>
-      <p id="flushingText">
-	<span id="newsContent">Stay updated with the newest trends in education and technology!</span>
-	<a id="stopLink" href="#">Stop Flushing</a>
-      </p>
-    </div>
-
     
-    <!--<div class="advertising-news">
+    <div class="advertising-news">
       <h4>Latest in Maths Learning and AI</h4>
       <p id="flushingText">
 	Stay updated with the newest trends in education and technology!
 	<a id="stopLink" href="#">Stop Flushing</a>
       </p>
       
-    </div>-->
+    </div>
     
     <!--Header End -->
         <!-- Main Content Wrapper -->
@@ -116,26 +196,86 @@
                Welcome to SiMLeng
             </div>-->
        
-	    <img src="./assets/images/home.jpeg" alt="Background Image" class="background-image">
+	    <img src="/assets/images/home.jpeg" alt="Background Image" class="background-image">
             <div class="service-matrix grid-5x3">
-                <div class="service-item active" id="service-1" onclick="navigateToService(1)">
-                    <h3>Maths/ Statistics Tutoring</h3>
-                    <p>Active Service</p>
+                <div class="service-item tutoring active" id="service-1" onclick="navigateToService(1)">
+                    <h3>Maths/Statistics Tutoring</h3>
+		    <p>Professional tutoring in various subjects. Interactive learning platform</p>
+                    <!--<p>Active Service</p>-->
+		  <div class="active-service">Active Service</div>
                 </div>
-                <div class="service-item inactive">
-                    <h3>AI Services</h3>
-                    <p>Coming Soon</p>
+                <div class="service-item ai-tech inactive" id="service-2">
+                  <h3>AI/Tech Solutions</h3>
+		  <!--<p>Cutting-edge technology solutions and AI/LLM implementations.</p>-->
+		  <!--<p>Advanced AI solutions and custom LLM integrations</p>-->
+		  <p> AI & LLMs Development</p>
+                  <!--<p><strong>Coming Soon</strong> </p>-->
+		   <div class="coming-soon">Coming Soon</div>
                     <form class="signup-form" onsubmit="signUpForService(event, 2)">
-                        <label for="email2">Get notified:</label>
+                        <!---<label for="email2">Get notified:</label>-->
                         <input type="email" id="email2" name="email" placeholder="Enter your email" required>
                         <button type="submit">Sign Up</button>
                     </form>
                 </div>
                 <!-- Add more service items as needed -->
+		<div class="service-item client-services inactive" id="service-3">
+                  <h3>Client Services</h3>
+		     <p>Dedicated support and consultation services for all your needs. Personalized care guaranteed.</p>
+		     <div class="coming-soon">Get in Touch</div>
+                </div>
+		<div class="service-item solutions inactive" id="service-4">
+                    <h3>Custom Solutions</h3>
+                    <p>Tailored solutions for your business needs. Custom Apps and Integrations. Built for your workflow.</p> 
+                    
+		     <div class="coming-soon">Get Consultation</div>
+                </div>
+		<div class="service-item events inactive" id="service-5">
+                  <h3>Events</h3>
+		  <p>Expert event planning for workshops, networking, and corporate gatherings.</p>
+		     
+		     <div class="coming-soon"></div>
+                </div>
             </div>
           </div>
+        </div>
 	</div>
+
         <!-- Other Content Below -->
+
+ 
+
+	<!-- 🔐 Enhanced Login Modal -->
+	<div id="enhancedLoginModal" class="enhanced-login-modal modal-overlay" style="display: none;">
+	  <div class="enhanced-login-content">
+	    <div class="enhanced-login-header">
+	      <h3>🔐 Login Required</h3>
+	      <button class="enhanced-login-close-btn" onclick="closeEnhancedLoginModal()">×</button>
+	    </div>
+	    <div class="enhanced-login-body">
+	      <p class="enhanced-login-context">
+		To <strong id="actionDesc">perform this action</strong> in <strong id="serviceName">this service</strong>,
+		please log in or create an account.
+	      </p>
+	      <div class="enhanced-login-benefits">
+		<h4>✨ Why create an account?</h4>
+		<ul>
+		  <li>Access personalized tools and resources</li>
+		  <li>Save your progress and preferences</li>
+		  <li>Get priority support and updates</li>
+		  <li>Join our community of learners</li>
+		</ul>
+	      </div>
+	      <div class="enhanced-login-actions">
+		<button class="btn btn-primary" onclick="Auth.showLoginForm()">Log In</button>
+		<button class="btn btn-secondary" onclick="Auth.showRegisterForm()">Create Account</button>
+	      </div>
+	      <p class="enhanced-login-guest-option">
+		<a href="#" onclick="Navigation.handleGuestOption()">Continue browsing without account</a>
+	      </p>
+	    </div>
+	  </div>
+	</div>
+
         <!-- Footer Section -->
         <footer>
           <div id="footer"></div>
@@ -152,6 +292,7 @@
             loadFooter();
           </script>
         </footer>
-        <script src="./assets/js/scripts.js" defer></script> <!-- Your JavaScript file -->
+	
+        <script src="/assets/js/scripts.js" defer></script> <!-- Your JavaScript file -->
 </body>
 </html>
