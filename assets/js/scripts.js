@@ -933,32 +933,15 @@ document.addEventListener('DOMContentLoaded', function () {
 	     * @param {number} serviceId - Service ID
 	     * @param {Object} service - Service configuration
 	     */
-	     
 	    handleLoginRequired(serviceId, service) {
 		console.log(`🔐 Login required for service: ${serviceId}`);
 		
 		// Store redirect information
 		sessionStorage.setItem("redirectAfterLogin", service.url);
 		sessionStorage.setItem("redirectServiceId", serviceId.toString());
-		// For Math/Statistics Tutoring (service 1), open main Login/Register modal directly
-		if (serviceId === 1) {
-		    // Use the global modal function from index.html
-		    if (typeof openModal === 'function') {
-			openModal();
-		    } else {
-			// Fallback: open modal directly
-			const modal = document.getElementById('authModal');
-			if (modal) {
-			    modal.style.display = 'flex';
-			    document.body.classList.add('modal-open');
-			}
-		    }
-		    return;
-
-		}
-
-		 // For other services, use enhanced login modal
-		this.showEnhancedLoginModal(service.name, 'access this service');
+		
+		// Open the main Login/Register modal
+		Modal.open();
 	    },
 
 	    // Add method to handle redirect after login
@@ -1597,7 +1580,7 @@ document.addEventListener('DOMContentLoaded', function () {
 	    const { loginEmail: email, loginPassword: password } = formData;
     
 	    // Clear any previous error messages
-	    const errorDiv = document.getElementById('errorMessage');
+	    const errorDiv = document.getElementById('loginerrorMessage');
 	    errorDiv.style.display = 'none';
     
 	    try {
@@ -1610,7 +1593,7 @@ document.addEventListener('DOMContentLoaded', function () {
 		    });
 		} else {
 		    // Handle case where login returns false (wrong credentials)
-		    const errorDiv = document.getElementById('errorMessage');
+		    const errorDiv = document.getElementById('loginerrorMessage');
 		    errorDiv.textContent = "Invalid email or password. Please try again.";
 		    errorDiv.style.display = 'block';
 		    errorDiv.style.color = 'red';
@@ -1893,9 +1876,6 @@ document.addEventListener('DOMContentLoaded', function () {
     // Navigation
     window.Navigation = Navigation;
 
-    window.navigateToService = function(serviceId) {
-	Navigation.navigateToService(serviceId);
-    };
     // News management functions
     window.stopNews = function() {
 	    NewsManager.stop();
