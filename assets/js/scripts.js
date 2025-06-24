@@ -1426,7 +1426,7 @@ document.addEventListener('DOMContentLoaded', function () {
 	async fetchNews() {
 	    try {
 		console.log('📡 Attempting to fetch news from /data/news.json');
-		const response = await fetch('/data/news.json');
+		const response = await fetch('data/news.json');
 
 		if (response.ok) {
 		    const data = await response.json();
