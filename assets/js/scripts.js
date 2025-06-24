@@ -933,15 +933,33 @@ document.addEventListener('DOMContentLoaded', function () {
 	     * @param {number} serviceId - Service ID
 	     * @param {Object} service - Service configuration
 	     */
+
+====	     
 	    handleLoginRequired(serviceId, service) {
 		console.log(`🔐 Login required for service: ${serviceId}`);
 		
 		// Store redirect information
 		sessionStorage.setItem("redirectAfterLogin", service.url);
 		sessionStorage.setItem("redirectServiceId", serviceId.toString());
-		
-		// Open the main Login/Register modal
-		Modal.open();
+		// For Math/Statistics Tutoring (service 1), open main Login/Register modal directly
+		if (serviceId === 1) {
+		    // Use the global modal function from index.html
+		    if (typeof openModal === 'function') {
+			openModal();
+		    } else {
+			// Fallback: open modal directly
+			const modal = document.getElementById('authModal');
+			if (modal) {
+			    modal.style.display = 'flex';
+			    document.body.classList.add('modal-open');
+			}
+		    }
+		    return;
+
+		}
+
+		 // For other services, use enhanced login modal
+		this.showEnhancedLoginModal(service.name, 'access this service');
 	    },
 
 	    // Add method to handle redirect after login
