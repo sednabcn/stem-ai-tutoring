@@ -647,6 +647,19 @@ body.modal-open {
     object-fit: cover;
     z-index: -1; /* Puts image behind other content */
 }
+/*.image-container {
+    position: relative; /* Allows absolute positioning of child elements */
+/*    background-image: url('/assets/images/home.jpeg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 400px; /* Adjust height as needed */
+/*    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white; /* Text color */
+/*    width: 100%; /* Ensures the hero image covers the full width */
+/*}
 
 /* Define Grid Layouts */
 .grid-5x3 {
@@ -1074,7 +1087,11 @@ body.modal-open {
 /*===============================================*/
 /* Error on Login/Register forms*/
 
-.error-message {
+.errorMessage,
+.loginerrorMessage,
+.registererrorMessage,
+.forgoterrorMessage,
+.enhancederrorMessage {
     display: none;
     color: #d32f2f;
     background-color: #ffebee;
@@ -1085,7 +1102,11 @@ body.modal-open {
     font-size: 14px;
 }
 
-.error-message.show {
+.errorMessage.show,
+.loginerrorMessage.show,
+.registererrorMessage.show,
+.forgoterrorMessage.show,
+.enhancederrorMessage.show {
     display: block;
 }
 
