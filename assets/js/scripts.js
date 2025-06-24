@@ -933,8 +933,7 @@ document.addEventListener('DOMContentLoaded', function () {
 	     * @param {number} serviceId - Service ID
 	     * @param {Object} service - Service configuration
 	     */
-
-====	     
+	     
 	    handleLoginRequired(serviceId, service) {
 		console.log(`🔐 Login required for service: ${serviceId}`);
 		
