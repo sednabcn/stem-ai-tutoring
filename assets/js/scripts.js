@@ -1893,8 +1893,9 @@ document.addEventListener('DOMContentLoaded', function () {
     // Navigation
     window.Navigation = Navigation;
 
-    window.navigateToService = (serviceId) => Navigation.navigateToService(serviceId);
-    
+    window.navigateToService = function(serviceId) {
+	Navigation.navigateToService(serviceId);
+    };
     // News management functions
     window.stopNews = function() {
 	    NewsManager.stop();
