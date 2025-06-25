@@ -3,6 +3,66 @@
   "totalResults": 10,
   "articles": [
     {
+      "title": "$28 external HDD on Amazon actually does what it claims, still not a good buy - Ars Technica",
+      "source": {
+        "name": "Ars Technica"
+      },
+      "description": "For the price, it “performs well and provides good value” but is still a risky buy....",
+      "url": "https://arstechnica.com/gadgets/2025/06/28-external-hdd-on-amazon-actually-does-what-it-claims-still-not-a-good-buy/",
+      "publishedAt": "2025-06-24T17:44:12Z",
+      "processed_at": "2025-06-25T19:15:07.516600+00:00"
+    },
+    {
+      "title": "iPhone customers upset by Apple Wallet ad pushing F1 movie - TechCrunch",
+      "source": {
+        "name": "TechCrunch"
+      },
+      "description": "However well-received the film may be, iPhone users don't necessarily want their built-in utilities,...",
+      "url": "https://techcrunch.com/2025/06/24/iphone-customers-upset-by-apple-wallet-ad-pushing-f1-movie/",
+      "publishedAt": "2025-06-24T17:27:35Z",
+      "processed_at": "2025-06-25T19:15:07.516600+00:00"
+    },
+    {
+      "title": "Samsung offers $1,000 off preorder deal for new Galaxy foldable phones ahead of Unpacked - ZDNET",
+      "source": {
+        "name": "ZDNet"
+      },
+      "description": "Samsung has officially set the date and location for its next Unpacked event, where the Galaxy Z Fol...",
+      "url": "https://www.zdnet.com/article/samsung-offers-1000-off-preorder-deal-for-new-galaxy-foldable-phones-ahead-of-unpacked/",
+      "publishedAt": "2025-06-24T17:07:00Z",
+      "processed_at": "2025-06-25T19:15:07.516600+00:00"
+    },
+    {
+      "title": "Microsoft makes Windows 10 extended security updates free, but there’s a catch - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "Microsoft is allowing consumers using Windows 10 to get a year of free updates. You’ll need to enabl...",
+      "url": "https://www.theverge.com/news/691811/microsoft-windows-10-free-extended-security-updates",
+      "publishedAt": "2025-06-24T17:00:00Z",
+      "processed_at": "2025-06-25T19:15:07.516600+00:00"
+    },
+    {
+      "title": "Google finally lets Android users put Chrome’s address bar on the bottom - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "Google is starting to roll out a feature for Chrome on Android that lets users move the address bar ...",
+      "url": "https://www.theverge.com/news/691718/google-android-chrome-address-bar-bottom",
+      "publishedAt": "2025-06-24T17:00:00Z",
+      "processed_at": "2025-06-25T19:15:07.516600+00:00"
+    },
+    {
+      "title": "This iOS 26 feature could be Apple preparing for AirPods Pro 3 cameras - 9to5Mac",
+      "source": {
+        "name": "9to5Mac"
+      },
+      "description": "AirPods Pro 3 are expected to launch some time in the next year, and iOS 26 has a new feature that m...",
+      "url": "https://9to5mac.com/2025/06/24/this-ios-26-feature-could-be-apple-preparing-for-airpods-pro-3-cameras/",
+      "publishedAt": "2025-06-24T16:48:00Z",
+      "processed_at": "2025-06-25T19:15:07.516600+00:00"
+    },
+    {
       "title": "Google Phone’s M3 Expressive update redesigns bottom bar with Home, Keypad tabs - 9to5Google",
       "source": {
         "name": "9to5google.com"
@@ -10,100 +70,40 @@
       "description": "Google shared more details about the Phone app’s upcoming Material 3 Expressive redesign, including ...",
       "url": "http://9to5google.com/2025/06/24/google-phone-bottom-bar-redesign/",
       "publishedAt": "2025-06-24T15:50:00Z",
-      "processed_at": "2025-06-25T18:30:43.289435+00:00"
+      "processed_at": "2025-06-25T19:15:07.516600+00:00"
     },
     {
-      "title": "iPhone 17 Pro: Four new camera features are coming this fall - 9to5Mac",
-      "source": {
-        "name": "9to5Mac"
-      },
-      "description": "iPhone 17 Pro and Pro Max will be unveiled in September, and these four new camera features are rumo...",
-      "url": "https://9to5mac.com/2025/06/24/iphone-17-pro-four-new-camera-features-are-coming-this-fall/",
-      "publishedAt": "2025-06-24T14:24:00Z",
-      "processed_at": "2025-06-25T18:30:43.289435+00:00"
-    },
-    {
-      "title": "What a set of knockoff headphones taught me about headphones — and knockoffs - The Verge",
+      "title": "Nvidia’s RTX 5050 GPU starts at $249 with last-gen GDDR6 VRAM - The Verge",
       "source": {
         "name": "The Verge"
       },
-      "description": "You see links to headphones like the Picun F8 Pros all over the TikTok Shop. So I tested them next t...",
-      "url": "https://www.theverge.com/gadgets/691928/tiktok-shop-picun-f8-airpods-max-headphones",
-      "publishedAt": "2025-06-24T13:57:38Z",
-      "processed_at": "2025-06-25T18:30:43.289435+00:00"
+      "description": "Nvidia announced its GeForce RTX 5050 GPUs for desktops and laptops. The desktop cards start at $249...",
+      "url": "https://www.theverge.com/news/692045/nvidia-geforce-rtx-5050-desktop-laptop-gpu-gddr6-gddr7",
+      "publishedAt": "2025-06-24T15:45:49Z",
+      "processed_at": "2025-06-25T19:15:07.516600+00:00"
     },
     {
-      "title": "NVIDIA GeForce RTX 5050 announced with 8GB GDDR6, $249 price, launching mid-to-late July - VideoCardz.com",
+      "title": "Here's Everything New in macOS Tahoe Beta 2 - MacRumors",
       "source": {
-        "name": "Videocardz.com"
+        "name": "MacRumors"
       },
-      "description": "NVIDIA RTX 5050 officially here This model didn’t actually have a predecessor (in RTX 40 family).  I...",
-      "url": "https://videocardz.com/newz/nvidia-geforce-rtx-5050-announced-with-8gb-gddr6-249-price-launching-mid-to-late-july",
-      "publishedAt": "2025-06-24T13:20:00Z",
-      "processed_at": "2025-06-25T18:30:43.289435+00:00"
+      "description": "The second developer beta of macOS Tahoe is now available for testing, and it includes a handful of ...",
+      "url": "https://www.macrumors.com/2025/06/24/macos-tahoe-beta-2-new-features-changes/",
+      "publishedAt": "2025-06-24T15:35:17Z",
+      "processed_at": "2025-06-25T19:15:07.516600+00:00"
     },
     {
-      "title": "These battery-powered 4K cameras record 24/7 - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "TP-Link’s Tapo smart home brand launches 4K cameras, a line of indoor/outdoor pan-tilt cams, and a n...",
-      "url": "https://www.theverge.com/news/691844/tapo-4k-magcam-security-cameras-homebase-h500-matter-compatible",
-      "publishedAt": "2025-06-24T13:15:17Z",
-      "processed_at": "2025-06-25T18:30:43.289435+00:00"
-    },
-    {
-      "title": "Nintendo Confirms The Release Date For Drag X Drive On Switch 2 - Nintendo Life",
-      "source": {
-        "name": "Nintendo Life"
-      },
-      "description": "Slam dunk...",
-      "url": "https://www.nintendolife.com/news/2025/06/nintendo-confirms-the-release-date-for-drag-x-drive-on-switch-2",
-      "publishedAt": "2025-06-24T13:10:00Z",
-      "processed_at": "2025-06-25T18:30:43.289435+00:00"
-    },
-    {
-      "title": "A week in Xbox VR with Microsoft and Meta’s new $399 headset - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "Microsoft has partnered with Meta to release the $399 Quest 3S Xbox Edition. It’s a custom VR headse...",
-      "url": "https://www.theverge.com/hands-on/690978/meta-quest-3s-xbox-edition-vr-headset-release-date-pricing",
-      "publishedAt": "2025-06-24T13:00:00Z",
-      "processed_at": "2025-06-25T18:30:43.289435+00:00"
-    },
-    {
-      "title": "Pixel 11’s Tensor G6 will reportedly use 2nm process at TSMC, no longer lagging behind - 9to5Google",
+      "title": "New Android 14 update for Chromecast with Google TV rolling out - 9to5Google",
       "source": {
         "name": "9to5google.com"
       },
-      "description": "According to a new report, Google is planning to jump to TSMC’s 2nm process for Tensor G6 faster tha...",
-      "url": "http://9to5google.com/2025/06/24/google-tensor-g6-tsmc-2nm-report/",
-      "publishedAt": "2025-06-24T12:30:00Z",
-      "processed_at": "2025-06-25T18:30:43.289435+00:00"
-    },
-    {
-      "title": "Google rolls out Street View time travel to celebrate 20 years of Google Earth - Ars Technica",
-      "source": {
-        "name": "Ars Technica"
-      },
-      "description": "Google Earth wowed everyone 20 years ago, and it’s still pretty cool....",
-      "url": "https://arstechnica.com/gadgets/2025/06/google-rolls-out-street-view-time-travel-to-celebrate-20-years-of-google-earth/",
-      "publishedAt": "2025-06-24T12:20:14Z",
-      "processed_at": "2025-06-25T18:30:43.289435+00:00"
-    },
-    {
-      "title": "I Love Lenovo's Latest ThinkPad X1 Carbon but Was Shocked at the Cost of Upgrades - CNET",
-      "source": {
-        "name": "CNET"
-      },
-      "description": "The little laptop is extremely light and long-running, making it a great pick for road warriors. But...",
-      "url": "https://www.cnet.com/tech/computing/i-love-lenovos-latest-thinkpad-x1-carbon-but-was-shocked-at-the-cost-of-upgrades/",
-      "publishedAt": "2025-06-24T12:00:05Z",
-      "processed_at": "2025-06-25T18:30:43.289435+00:00"
+      "description": "A new Android 14 update for the Chromecast with Google TV is now rolling out. The initial update in ...",
+      "url": "http://9to5google.com/2025/06/24/new-android-14-chromecast-update/",
+      "publishedAt": "2025-06-24T14:53:00Z",
+      "processed_at": "2025-06-25T19:15:07.516600+00:00"
     }
   ],
-  "lastUpdated": "2025-06-25T18:30:43.289519+00:00",
+  "lastUpdated": "2025-06-25T19:15:07.516677+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
