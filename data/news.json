@@ -3,14 +3,14 @@
   "totalResults": 10,
   "articles": [
     {
-      "title": "Xbox sale round-up June 24, 2025 - DLC - TrueAchievements",
+      "title": "Xbox sale round-up June 24, 2025 - Games - TrueAchievements",
       "source": {
         "name": "TrueAchievements"
       },
       "description": "New Xbox sales are now live, with big discounts on Grand Theft Auto V, Forza Horizon 5, Red Dead Red...",
-      "url": "https://www.trueachievements.com/n59435/xbox-sale-roundup-june-24-2025-dlc",
-      "publishedAt": "2025-06-24T00:29:25Z",
-      "processed_at": "2025-06-25T01:47:25.388249+00:00"
+      "url": "https://www.trueachievements.com/n59434/xbox-sale-roundup-june-24-2025-games",
+      "publishedAt": "2025-06-24T00:30:33Z",
+      "processed_at": "2025-06-25T03:20:22.350153+00:00"
     },
     {
       "title": "Yale’s new Google Home smart lock is here — but it costs more thanks to tariffs - The Verge",
@@ -20,7 +20,7 @@
       "description": "Yale’s new Matter-over-Thread smart lock is designed for Google Home, but can work with any platform...",
       "url": "https://www.theverge.com/news/691695/google-nest-yale-smart-lock-with-matter-price-release-date-specs",
       "publishedAt": "2025-06-24T00:02:00Z",
-      "processed_at": "2025-06-25T01:47:25.388249+00:00"
+      "processed_at": "2025-06-25T03:20:22.350153+00:00"
     },
     {
       "title": "[Invitation] Galaxy Unpacked July 2025: The Ultra Experience Is Ready To Unfold - Samsung Newsroom",
@@ -30,17 +30,17 @@
       "description": "For years, Samsung Electronics has designed its devices around what people truly need, such as bette...",
       "url": "https://news.samsung.com/global/invitation-galaxy-unpacked-july-2025-the-ultra-experience-is-ready-to-unfold",
       "publishedAt": "2025-06-23T23:05:47Z",
-      "processed_at": "2025-06-25T01:47:25.388249+00:00"
+      "processed_at": "2025-06-25T03:20:22.350153+00:00"
     },
     {
-      "title": "Here’s another chance to pick up the GameCube controller for Switch 2 - The Verge",
+      "title": "Apple looked at Mira Murati’s AI startup after OpenAI exit, and it won’t stop there - 9to5Mac",
       "source": {
-        "name": "The Verge"
+        "name": "9to5Mac"
       },
-      "description": "Nintendo’s GameCube controller is back in stock for $64.99. You need a Nintendo Switch Online accoun...",
-      "url": "https://www.theverge.com/tech/691562/nintendo-wireless-gamecube-controller-switch-2-restock",
-      "publishedAt": "2025-06-23T22:51:31Z",
-      "processed_at": "2025-06-25T01:47:25.388249+00:00"
+      "description": "Apple has recently explored a possible deal with yet another notable name in the AI space: Mira Mura...",
+      "url": "https://9to5mac.com/2025/06/23/apple-looked-at-thinking-machines/",
+      "publishedAt": "2025-06-23T21:52:00Z",
+      "processed_at": "2025-06-25T03:20:22.350153+00:00"
     },
     {
       "title": "Signs of iPhone 17 Air Spotted in iOS 26 Beta 2 - MacRumors",
@@ -50,7 +50,7 @@
       "description": "The second beta of iOS 26 hints at the existence of an iPhone with a new display size, perhaps the i...",
       "url": "https://www.macrumors.com/2025/06/23/ios-26-beta-2-iphone-17-air/",
       "publishedAt": "2025-06-23T20:28:22Z",
-      "processed_at": "2025-06-25T01:47:25.388249+00:00"
+      "processed_at": "2025-06-25T03:20:22.350153+00:00"
     },
     {
       "title": "Civilization VII patch lets you turn off some controversial new features - Ars Technica",
@@ -60,7 +60,7 @@
       "description": "Players can now disable Legacy Paths, Crisis, and quite a bit more....",
       "url": "https://arstechnica.com/gaming/2025/06/civilization-vii-patch-lets-you-turn-off-some-controversial-new-features/",
       "publishedAt": "2025-06-23T20:26:11Z",
-      "processed_at": "2025-06-25T01:47:25.388249+00:00"
+      "processed_at": "2025-06-25T03:20:22.350153+00:00"
     },
     {
       "title": "Promising Minecraft-like Hytale cancelled after ten years in development - Eurogamer",
@@ -70,7 +70,17 @@
       "description": "Promising Minecraft-like sandbox adventure Hytale has been cancelled after a decade of development, ...",
       "url": "https://www.eurogamer.net/promising-minecraft-like-hytale-cancelled-after-ten-years-in-development",
       "publishedAt": "2025-06-23T20:23:55Z",
-      "processed_at": "2025-06-25T01:47:25.388249+00:00"
+      "processed_at": "2025-06-25T03:20:22.350153+00:00"
+    },
+    {
+      "title": "Pixel 10 Pro Fold might be the first IP68 dust-resistant foldable, rumor claims - 9to5Google",
+      "source": {
+        "name": "9to5google.com"
+      },
+      "description": "A somewhat dubious rumor claims that the Pixel 10 Pro Fold may be the first foldable with an IP68 ra...",
+      "url": "http://9to5google.com/2025/06/23/pixel-10-pro-fold-ip68-dust-rumor/",
+      "publishedAt": "2025-06-23T20:10:00Z",
+      "processed_at": "2025-06-25T03:20:22.350153+00:00"
     },
     {
       "title": "Apple’s Liquid Glass interface improves with release of iOS 26 Beta 2 - TechCrunch",
@@ -80,30 +90,20 @@
       "description": "These are not likely the final adjustments, given that iOS 26 doesn't launch publicly until the fall...",
       "url": "https://techcrunch.com/2025/06/23/apples-liquid-glass-interface-improves-with-release-of-ios-26-beta-2/",
       "publishedAt": "2025-06-23T19:54:29Z",
-      "processed_at": "2025-06-25T01:47:25.388249+00:00"
+      "processed_at": "2025-06-25T03:20:22.350153+00:00"
     },
     {
-      "title": "Everybody Needs to Calm Down About the Switch 2 Screen and ‘Ghosting’ - Gizmodo",
+      "title": "Rematch Review - Unbelievable Tekkers - GameSpot",
       "source": {
-        "name": "Gizmodo.com"
+        "name": "GameSpot"
       },
-      "description": "The Switch 2 display is fine, actually....",
-      "url": "https://gizmodo.com/everybody-needs-to-calm-down-about-the-switch-2-screen-and-ghosting-2000619082",
-      "publishedAt": "2025-06-23T19:38:36Z",
-      "processed_at": "2025-06-25T01:47:25.388249+00:00"
-    },
-    {
-      "title": "macOS Tahoe Beta 2 Lets You Add a Menu Bar Background - MacRumors",
-      "source": {
-        "name": "MacRumors"
-      },
-      "description": "In macOS Tahoe Beta 2, Apple included a new option to add a background to the menu bar, making it po...",
-      "url": "https://www.macrumors.com/2025/06/23/macos-tahoe-beta-2-menu-bar-background/",
-      "publishedAt": "2025-06-23T19:29:22Z",
-      "processed_at": "2025-06-25T01:47:25.388249+00:00"
+      "description": "Rematch takes a refreshing, skill-based approach to football games that can be just as frustrating a...",
+      "url": "https://www.gamespot.com/reviews/rematch-review-unbelievable-tekkers/1900-6418378/",
+      "publishedAt": "2025-06-23T19:35:13Z",
+      "processed_at": "2025-06-25T03:20:22.350153+00:00"
     }
   ],
-  "lastUpdated": "2025-06-25T01:47:25.388322+00:00",
+  "lastUpdated": "2025-06-25T03:20:22.350227+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
