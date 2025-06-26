@@ -1,109 +1,99 @@
 {
   "status": "success",
-  "totalResults": 10,
+  "totalResults": 9,
   "articles": [
     {
-      "title": "The Video Game Industry as We Knew It Is Over. Something Unsavory Is Taking Its Place. - Slate Magazine",
+      "title": "New Xbox 360 Update Adds More Ads 20 Years After Launch - Kotaku",
       "source": {
-        "name": "Slate Magazine"
+        "name": "Kotaku"
       },
-      "description": "Enjoy the new Nintendo console while it lasts. We may not get another one....",
-      "url": "https://slate.com/culture/2025/06/nintendo-switch-2-video-games-xbox-playstation.html",
-      "publishedAt": "2025-06-25T16:32:00Z",
-      "processed_at": "2025-06-26T20:23:42.890299+00:00"
+      "description": "Yeah, the Xbox 360 is a retro console, but that won't stop Microsoft from advertising on it...",
+      "url": "https://kotaku.com/xbox-360-console-update-more-ads-20-years-old-series-x-1851785111",
+      "publishedAt": "2025-06-25T21:19:10Z",
+      "processed_at": "2025-06-26T21:19:58.319245+00:00"
     },
     {
-      "title": "Sex advice: My girlfriend has a way to \"finish the job\" in bed. I hate every second of it. - Slate Magazine",
+      "title": "Google’s spotty Find Hub network could get better thanks to a small setup tweak - Ars Technica",
       "source": {
-        "name": "Slate Magazine"
+        "name": "Ars Technica"
       },
-      "description": "Isn't she being pretty inconsiderate?...",
-      "url": "https://slate.com/advice/2025/06/sex-advice-girlfriend-oral-technique.html",
-      "publishedAt": "2025-06-25T16:00:00Z",
-      "processed_at": "2025-06-26T20:23:42.890299+00:00"
+      "description": "Expanded device tracking is still opt-in....",
+      "url": "https://arstechnica.com/gadgets/2025/06/googles-spotty-find-hub-network-could-get-better-thanks-to-a-small-setup-tweak/",
+      "publishedAt": "2025-06-25T20:53:53Z",
+      "processed_at": "2025-06-26T21:19:58.319245+00:00"
     },
     {
-      "title": "Remedy is in control - The Verge",
+      "title": "Ubuntu disables Intel GPU security mitigations, promises 20% performance boost - Ars Technica",
+      "source": {
+        "name": "Ars Technica"
+      },
+      "description": "Overtime defenses for Spectre-based attacks have taken their toll....",
+      "url": "https://arstechnica.com/security/2025/06/ubuntu-disables-intel-gpu-security-mitigations-promises-20-performance-boost/",
+      "publishedAt": "2025-06-25T19:39:19Z",
+      "processed_at": "2025-06-26T21:19:58.319245+00:00"
+    },
+    {
+      "title": "Dbrand admits it had a ‘spectacularly terrible response’ to Killswitch Joy-Con grip detachment complaints - The Verge",
       "source": {
         "name": "The Verge"
       },
-      "description": "Remedy Entertainment, the studio behind Control and Alan Wake, has found a winning formula in the tu...",
-      "url": "https://www.theverge.com/games/691964/remedy-entertainment-profile-alan-wake-control-fbc-firebreak",
-      "publishedAt": "2025-06-25T16:00:00Z",
-      "processed_at": "2025-06-26T20:23:42.890299+00:00"
+      "description": "Dbrand will send replacement Killswitch Joy-Con Grips for the Switch 2 after admitting it had a “spe...",
+      "url": "https://www.theverge.com/news/693121/dbrand-switch-2-killswitch-joy-con-case-replacement-detachment",
+      "publishedAt": "2025-06-25T19:29:09Z",
+      "processed_at": "2025-06-26T21:19:58.319245+00:00"
     },
     {
-      "title": "Samsung launches three 4K 32-inch Smart monitors: M9 gets QD-OLED panel and $1599 price tag - VideoCardz.com",
+      "title": "Games run faster on SteamOS than Windows 11, Ars testing finds - Ars Technica",
       "source": {
-        "name": "Videocardz.com"
+        "name": "Ars Technica"
       },
-      "description": "Samsung launches new Smart Monitors: M9 gets QD-OLED, M8 and M7 upgraded with AI tools Samsung has u...",
-      "url": "https://videocardz.com/newz/samsung-launches-three-4k-32-inch-smart-monitors-m9-gets-qd-oled-panel-and-1599-price-tag",
-      "publishedAt": "2025-06-25T15:49:00Z",
-      "processed_at": "2025-06-26T20:23:42.890299+00:00"
+      "description": "Lenovo Legion Go S gets better frame rates running Valve’s free operating system....",
+      "url": "https://arstechnica.com/gaming/2025/06/games-run-faster-on-steamos-than-windows-11-ars-testing-finds/",
+      "publishedAt": "2025-06-25T19:25:39Z",
+      "processed_at": "2025-06-26T21:19:58.319245+00:00"
     },
     {
-      "title": "Your iPhone Can Now Hold a Digital Driver's License. Here Are the States That Let You Do It - CNET",
+      "title": "Borderlands 4 Preview - Hands-On With All Four Vault Hunters - Game Informer",
       "source": {
-        "name": "CNET"
+        "name": "Gameinformer.com"
       },
-      "description": "You might only need an iPhone to fly if you live in states that support digital identify verificatio...",
-      "url": "https://www.cnet.com/tech/mobile/your-iphone-can-now-hold-a-digital-drivers-license-here-are-the-states-that-let-you-do-it/",
-      "publishedAt": "2025-06-25T15:16:03Z",
-      "processed_at": "2025-06-26T20:23:42.890299+00:00"
+      "description": "We get exclusive hands-on with all four Vault Hunters from Borderlands 4's base game....",
+      "url": "https://www.gameinformer.com/preview/2025/06/25/hands-on-with-all-four-vault-hunters",
+      "publishedAt": "2025-06-25T19:00:00Z",
+      "processed_at": "2025-06-26T21:19:58.319245+00:00"
     },
     {
-      "title": "Stalker 2's broken A-life system is finally working as designed, according to GSC Game World - Rock Paper Shotgun",
-      "source": {
-        "name": "Rock Paper Shotgun"
-      },
-      "description": "STALKER 2: Shadow Of Chornobyl's busted A-Life system has been patched extensively, alongside the in...",
-      "url": "https://www.rockpapershotgun.com/stalker-2s-broken-a-life-system-is-finally-working-as-designed-according-to-gsc-game-world",
-      "publishedAt": "2025-06-25T15:14:51Z",
-      "processed_at": "2025-06-26T20:23:42.890299+00:00"
-    },
-    {
-      "title": "You need to see Front Mission 3 Remake's redone Network graphics and photographs - RPG Site",
-      "source": {
-        "name": "RPG Site"
-      },
-      "description": "Just like with the real world, the internet in the Front Mission 3 Remake may now be filled with AI ...",
-      "url": "https://www.rpgsite.net/feature/17799-you-need-to-see-front-mission-3-remakes-redone-network-graphics-photograph",
-      "publishedAt": "2025-06-25T15:04:39Z",
-      "processed_at": "2025-06-26T20:23:42.890299+00:00"
-    },
-    {
-      "title": "Here’s a running list of all of Tesla’s robotaxi mishaps so far - The Verge",
+      "title": "Anker’s versatile travel charger is on sale just in time for summer - The Verge",
       "source": {
         "name": "The Verge"
       },
-      "description": "Tesla’s robotaxis have been on the road in Austin for just three days, and already there have been n...",
-      "url": "https://www.theverge.com/news/692639/tesla-robotaxi-mistake-wrong-lane-phantom-braking",
-      "publishedAt": "2025-06-25T14:56:08Z",
-      "processed_at": "2025-06-26T20:23:42.890299+00:00"
+      "description": "Anker’s new Nano Travel Adapter is down to just $21.99 ($4 off) for a limited time. The Fitbit Ace L...",
+      "url": "https://www.theverge.com/tech/692680/anker-nano-travel-adapter-charger-fitbit-ace-lte-deal-sale",
+      "publishedAt": "2025-06-25T18:16:00Z",
+      "processed_at": "2025-06-26T21:19:58.319245+00:00"
     },
     {
-      "title": "Insta360’s new wireless mic looks no bigger than an Apple AirTag - The Verge",
+      "title": "New Hot Shots Golf Game Cops To Using Generative AI For Trees - Kotaku",
       "source": {
-        "name": "The Verge"
+        "name": "Kotaku"
       },
-      "description": "The first wireless mic from Insta360 is as small as an AirTag but offers 10 hours of battery life an...",
-      "url": "https://www.theverge.com/news/692640/insta360-wireless-microphone-mic-air-lightweight-bluetooth",
-      "publishedAt": "2025-06-25T14:10:45Z",
-      "processed_at": "2025-06-26T20:23:42.890299+00:00"
+      "description": "Everybody's Golf: Hot Shots features Pac-Man and AI foliage...",
+      "url": "https://kotaku.com/everybodys-golf-hot-shots-pacman-ai-steam-ps5-1851785098",
+      "publishedAt": "2025-06-25T18:00:00Z",
+      "processed_at": "2025-06-26T21:19:58.319245+00:00"
     },
     {
-      "title": "Microsoft dangles extended Windows 10 support in exchange for Reward Points - theregister.com",
+      "title": "Meta is adding AI-powered summaries to WhatsApp - TechCrunch",
       "source": {
-        "name": "Theregister.com"
+        "name": "TechCrunch"
       },
-      "description": ": Or your cloud-bound soul. Otherwise, $30 please...",
-      "url": "https://www.theregister.com/2025/06/25/microsoft_free_esu_tier/",
-      "publishedAt": "2025-06-25T13:35:00Z",
-      "processed_at": "2025-06-26T20:23:42.890299+00:00"
+      "description": "Meta announced on Wednesday that it's adding an AI-powered summaries feature to WhatsApp. The option...",
+      "url": "https://techcrunch.com/2025/06/25/meta-is-adding-ai-powered-summaries-to-whatsapp/",
+      "publishedAt": "2025-06-25T17:56:49Z",
+      "processed_at": "2025-06-26T21:19:58.319245+00:00"
     }
   ],
-  "lastUpdated": "2025-06-26T20:23:42.890372+00:00",
+  "lastUpdated": "2025-06-26T21:19:58.319316+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
