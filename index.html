@@ -16,13 +16,41 @@
         <div class="center-text">
             SiMLeng
         </div>
+	 <!-- 👤 Username shown after login -->
+	<div id="userNameDisplay" class="user-welcome hidden">
+	  <span data-i18n="welcome">Welcome</span>, <span id="displayUserName">Guest</span>
+	</div>
+
         <div class="menu">
-	  <a href="pages/help.html" class="cta">Help</a>	  
+	  <a href="pages/help.html" class="cta" id="helpLink" data-i18n="help">Help</a>	  
 	  <!-- Trigger Button -->
-	  <button class="login-button" onclick="openModal()">Login/Register</button>
-	  <button id="logoutButton" style="display: none;">Logout</button>
+	  <button class="login-button" onclick="openModal()" data-i18n="login">Login/Register</button>
+	  <button id="logoutButton" style="display: none;" data-i18n="logout">Logout</button>
+	  <!-- ✅ Add the flag toggle icon here -->
+	  <button id="languageToggle" class="lang-flag-btn" title="Change Language">🌐 🇺🇸</button>
         </div>
+
+	<!-- 👤 Avatar and Dropdown Menu -->
+	<div class="avatar-container" style="display: none;">
+	  <div class="avatar" id="userAvatar">U</div>
+
+	  <div class="avatar-menu hidden" id="avatarMenu">
+	    <div class="avatar-info">
+	      <div id="avatarName">User</div>
+	      <div id="avatarRole">Role</div>
+	    </div>
+	    <ul class="avatar-actions">
+	      <li onclick="openProfile()">👤 Profile</li>
+	      <li onclick="openSettings()">⚙️ Settings</li>
+	      <li id="upgradeOption" onclick="upgradePlan()">💳 Upgrade Plan</li>
+	       <li><a href="pages/help.html">❓ Help</a></li>
+	      <li onclick="logout()">🚪 Logout</li>
+	    </ul>
+	  </div>
+	</div>
+
     </nav>
+    
  <!-- Login Modal (Global) -->
  <div id="authModal" class="modal-overlay">
     <div class="auth-container">
@@ -169,10 +197,20 @@
                     <button type="button" class="btn btn-secondary" onclick="showRoleDashboard()">Back to Dashboard</button>
 		    <div id="enhancederrorMessage" style="display: none;"></div>
                 </form>
-            </div>
+            </div> <!--end Profile-->
 	</div>    
   </div>	
-</div>
+ </div>
+ 
+    <!-- Welcome Banner (hidden by default) -->
+    <div class="ui-welcome-banner hidden" id="welcomeBanner">
+        <div class="ui-welcome-content">
+            <h3 id="welcomeMessage">🎓 Welcome back, User!</h3>
+            <p>Ready to continue your learning journey? Choose a service below to get started.</p>
+            <span class="user-role" id="userRole">Role: Student</span>
+        </div>
+    </div>
+
     <!-- Header (Global) -->
     <div class="header">
         <h4>Empowering Education and Industry with Advanced Learning and AI</h4>
@@ -198,7 +236,7 @@
        
 	    <img src="assets/images/home.jpeg" alt="Background Image" class="background-image">
             <div class="service-matrix grid-5x3">
-                <div class="service-item tutoring active" id="service-1" onclick="navigateToService(1)">
+                <div class="service-item tutoring active" id="service-1" onclick="Navigation.navigateToService(1)">
                     <h3>Maths/Statistics Tutoring</h3>
 		    <p>Professional tutoring in various subjects. Interactive learning platform</p>
                     <!--<p>Active Service</p>-->

@@ -4,8 +4,27 @@ document.addEventListener('DOMContentLoaded', function () {
     // ===============================
     // SCRIPTS.JS INTEGRATION - START
     // =============================
+
+    // 🌐 Language system state
+    let currentLangIndex = 0;
+    let translations = {};
+    let currentLang = 'en';
     
     // --- 🔧 TOGGLE TEST MODE ---
+    const urlParams = new URLSearchParams(window.location.search);
+    const forceTest = urlParams.get("testmode");
+    const forceTest = testParam === "1" || testParam === "true";
+
+    const hostname = window.location.hostname.toLowerCase();
+    const TEST_MODE = forceTest || (
+	hostname === 'localhost' ||
+	    hostname === '127.0.0.1' ||
+	    hostname.includes('test') ||
+	    !hostname.includes('github.io')
+    );
+
+    console.log(`🧪 TEST_MODE: ${TEST_MODE ? 'ENABLED' : 'DISABLED'}`);
+
     const TEST_MODE = true; // Change this to false for production
 
     // --- Firebase Configuration and Initialization ---
@@ -76,7 +95,6 @@ document.addEventListener('DOMContentLoaded', function () {
     // --- Global State ---
     let selectedRole = "student";
     let currentUser = null;
-
     // --- Enhanced Auth Object for scripts.js ---
     const Auth = {
         // Check if user is logged in
@@ -171,6 +189,14 @@ document.addEventListener('DOMContentLoaded', function () {
 		    sessionStorage.setItem("userEmail", email);
 		    sessionStorage.setItem("userUid", userData.uid);
 		    sessionStorage.setItem("isLoggedIn", "true");
+
+		    // Mirror to localStorage for session recovery
+		    localStorage.setItem("userData", JSON.stringify(userData));
+		    localStorage.setItem("userRole", userData.role);
+		    localStorage.setItem("userName", userData.name);
+		    localStorage.setItem("userEmail", userData.email);
+		    localStorage.setItem("userUid", userData.uid);
+
             
 		    showLoading(false);
 		    return true;
@@ -245,7 +271,7 @@ document.addEventListener('DOMContentLoaded', function () {
 	    }
 	},
 
-        // Login user - enhanced version
+        // Login user - enhanced version // LL
         async login(email, password) {
             try {
                 // Validation
@@ -259,7 +285,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
                 showLoading(true);
 
-                if (TEST_MODE) {
+                if (TEST_MODE) { //ORD
                     // Simulate login delay
                     await new Promise(resolve => setTimeout(resolve, 1000));
                     
@@ -285,7 +311,14 @@ document.addEventListener('DOMContentLoaded', function () {
                     sessionStorage.setItem("userEmail", userData.email);
                     sessionStorage.setItem("userUid", userData.uid);
                     sessionStorage.setItem("isLoggedIn", "true");
-                    
+
+		    // Mirror to localStorage for session recovery
+		    localStorage.setItem("userData", JSON.stringify(userData));
+		    localStorage.setItem("userRole", userData.role);
+		    localStorage.setItem("userName", userData.name);
+		    localStorage.setItem("userEmail", userData.email);
+		    localStorage.setItem("userUid", userData.uid);
+
                     showLoading(false);
                     return true;
                     
@@ -334,7 +367,13 @@ document.addEventListener('DOMContentLoaded', function () {
             sessionStorage.removeItem("userEmail");
             sessionStorage.removeItem("userUid");
             sessionStorage.removeItem("isLoggedIn");
-            
+
+	    localStorage.removeItem("userData");
+	    localStorage.removeItem("userRole");
+	    localStorage.removeItem("userName");
+	    localStorage.removeItem("userEmail");
+	    localStorage.removeItem("userUid");
+
             if ((!TEST_MODE) && auth) {
                 auth.signOut();
             }
@@ -378,10 +417,21 @@ document.addEventListener('DOMContentLoaded', function () {
                 showLoading(false);
                 return false;
             }
-        }
+        },
+	
     };
 
     // --- Utility Functions ---
+    function updateNavigationAfterLogin(user) {
+	const loginButton = document.querySelector('.login-button');
+	const helpLink = document.getElementById('helpLink');
+	const logoutButton = document.getElementById('logoutButton');
+
+	if (loginButton) loginButton.style.display = 'none';
+	if (helpLink) helpLink.style.display = 'inline-block';
+	if (logoutButton) logoutButton.style.display = 'inline-block';
+    }
+
     function showLoading(show = true) {
         const loading = document.getElementById("loadingIndicator");
         if (loading) {
@@ -457,6 +507,7 @@ document.addEventListener('DOMContentLoaded', function () {
         });
     }
 
+    
     // ===============================
     // UTILITY FUNCTIONS
     // ===============================
@@ -483,6 +534,93 @@ document.addEventListener('DOMContentLoaded', function () {
         return btoa(password); // Simple base64 encoding for demo purposes
     }
 
+    function showWelcomeBanner(user) {
+	const banner = document.getElementById('welcomeBanner');
+	const welcomeMessage = document.getElementById('welcomeMessage');
+	const userRole = document.getElementById('userRole');
+
+	if (!banner || !welcomeMessage || !userRole) return;
+
+	welcomeMessage.textContent = `🎓 Welcome back, ${user.name}!`;
+	userRole.textContent = `Role: ${user.role}`;
+	
+	banner.classList.remove('hidden');
+
+	// Animate and auto-hide
+	setTimeout(() => {
+            banner.style.opacity = '0';
+            banner.style.transform = 'translateY(-20px)';
+            setTimeout(() => {
+		banner.classList.add('hidden');
+		banner.style.opacity = '1';
+		banner.style.transform = 'translateY(0)';
+            }, 500);
+	}, 5000);
+    }
+
+
+    // 🌐 LANGUAGE SWITCHER FULL SETUP
+
+    // 1. Available languages and their flags
+    const LANGS = [
+	{ code: 'en', flag: '🇺🇸' },
+	{ code: 'es', flag: '🇪🇸' },
+	{ code: 'ca', flag: '🏴' }
+    ];
+
+    // 2. Apply translations to elements with data-i18n
+    function applyTranslations() {
+	document.querySelectorAll("[data-i18n]").forEach(el => {
+	    const key = el.getAttribute("data-i18n");
+	    if (translations[key]) {
+		el.innerText = translations[key];
+	    }
+	});
+    }
+
+    // 3. Set language (load lang JSON)
+    function setLanguage(langCode) {
+	fetch(`lang/${langCode}.json`)
+	    .then(res => res.json())
+	    .then(data => {
+		translations = data;
+		currentLang = langCode;
+		localStorage.setItem("selectedLanguage", langCode);
+		applyTranslations();
+	    })
+	    .catch(err => console.error("Language file error:", err));
+    }
+
+    // 4. Update the 🌐 flag button
+    function updateLangFlag() {
+	const langBtn = document.getElementById("languageToggle");
+	if (langBtn) {
+	    langBtn.innerHTML = `🌐 ${LANGS[currentLangIndex].flag}`;
+	}
+    }
+
+    // 5. On click: cycle language
+    function cycleLanguage() {
+	currentLangIndex = (currentLangIndex + 1) % LANGS.length;
+	const lang = LANGS[currentLangIndex];
+	setLanguage(lang.code);
+	updateLangFlag();
+    }
+
+    // 6. Setup on page load
+    function setupLanguageToggle() {
+	const langBtn = document.getElementById("languageToggle");
+	if (!langBtn) return;
+	
+	langBtn.addEventListener("click", cycleLanguage);
+
+	const savedLang = localStorage.getItem("selectedLanguage") || "en";
+	const index = LANGS.findIndex(l => l.code === savedLang);
+	currentLangIndex = index >= 0 ? index : 0;
+
+	setLanguage(LANGS[currentLangIndex].code);
+	updateLangFlag();
+    }
 
     // ===============================
     // ENHANCED MODAL MANAGEMENT - FIXED
@@ -662,7 +800,6 @@ document.addEventListener('DOMContentLoaded', function () {
             }
         }
     };
-
      
     // ===============================
     // BACK TO HOME LINK MANAGEMENT
@@ -887,13 +1024,46 @@ document.addEventListener('DOMContentLoaded', function () {
 		}
 	    },
 
-	    // ===============================
-	    // MAIN NAVIGATION METHODS with browse-first approach
-	    // ===============================
+	// ADD THE NEW METHODS HERE://25
+	clearUserSession() {
+            console.log('🧹 Clearing user session data...');
+            sessionStorage.clear();
+            console.log('✅ Session data cleared');
+	},
+
+	switchUser() {
+            console.log('🔄 Switching user...');
+            this.clearUserSession();
+        
+            if (typeof Auth !== 'undefined' && Auth.clearSession) {
+		Auth.clearSession();
+            }
+        
+            if (typeof Modal !== 'undefined' && Modal.open) {
+		Modal.open();
+            }
+	},
+
+	logout() {
+            console.log('🚪 Logging out user...');
+            this.clearUserSession();
+        
+            if (typeof Auth !== 'undefined' && Auth.logout) {
+		Auth.logout();
+            }
+            
+            window.location.href = 'index.html';
+	},
+
+	// ===============================
+	// MAIN NAVIGATION METHODS with browse-first approach
+	// ===============================
 	    
-	    navigateToService(serviceId) {
+	navigateToService(serviceId){
 		console.log(`🧭 Navigation request for service: ${serviceId}`);
-		
+		console.log(`🔐 Auth.isLoggedIn():`, Auth.isLoggedIn());
+		console.log(`👤 Current user:`, Auth.getCurrentUser());
+    
 		const service = this.serviceConfig[serviceId];
 		if (!service) {
 		    this.showError("Invalid service or service not recognized.");
@@ -912,7 +1082,7 @@ document.addEventListener('DOMContentLoaded', function () {
 		// Service 1 (Math Tutoring) - requires login
 		if (serviceId === 1) {
 		    if (!Auth.isLoggedIn()) {
-                this.handleLoginRequired(serviceId, service);
+                        this.handleLoginRequired(serviceId, service);
 			return;
 		    }
 		    // If logged in, proceed with authenticated navigation
@@ -935,16 +1105,24 @@ document.addEventListener('DOMContentLoaded', function () {
 	     */
 	    handleLoginRequired(serviceId, service) {
 		console.log(`🔐 Login required for service: ${serviceId}`);
+		console.log(`Modal object:`, Modal); // Check if Modal exists
+		this.clearUserSession(); //25-06
 		
 		// Store redirect information
 		sessionStorage.setItem("redirectAfterLogin", service.url);
 		sessionStorage.setItem("redirectServiceId", serviceId.toString());
-		
-		// Open the main Login/Register modal
-		Modal.open();
+    
+		// Check if Modal exists and has the right method
+		if (typeof Modal !== 'undefined' && Modal.open) {
+		    Modal.open();
+		} else {
+		    console.error("Modal.open() is not available");
+		    // Fallback to enhanced modal
+		    this.showEnhancedLoginModal(service.name, `access ${service.name}`);
+		}
 	    },
-
-	    // Add method to handle redirect after login
+	    
+	    //Method to handle redirect after login
 	    handleRedirectAfterLogin() {
 		const redirectUrl = sessionStorage.getItem("redirectAfterLogin");
 		const redirectServiceId = sessionStorage.getItem("redirectServiceId");
@@ -962,23 +1140,24 @@ document.addEventListener('DOMContentLoaded', function () {
 		}
 	    },
 
-	    // Add missing performNavigation method
+	    //Performing nav method
 	    performNavigation(url) {
 		console.log(`🚀 Navigating to: ${url}`);
 		window.location.href = url;
 	    },
 	    
-	    // Add missing showError method
+	    // ShowError method
 	    showError(message) {
 		console.error(message);
 		showAlert(message, 'error');
 	    },
 	    
-	    // Add missing showComingSoonModal method
+	    //ShowComingSoonModal method
 	    showComingSoonModal(service) {
 		showAlert(`${service.name} is coming soon! Stay tuned for updates.`, 'info');
 	    },
 
+	
 	    /**
 	     * Handle navigation for authenticated users
 	     * @param {number} serviceId - Service ID
@@ -1014,6 +1193,7 @@ document.addEventListener('DOMContentLoaded', function () {
 		}
 	    },
 
+	    
 	    /**
 	     * Handle Math Tutoring specific navigation logic
 	     * @param {Object} user - Current user object
@@ -1392,14 +1572,40 @@ document.addEventListener('DOMContentLoaded', function () {
 		console.log(`${type.toUpperCase()}: ${message}`);
 		// You might want to implement a proper alert/toast system here
 		alert(message);
-	    }
+	    },
+
+	    // Clear user session helper method
+           clearUserSession() {
+               sessionStorage.clear();
+               localStorage.clear();
+               console.log('🧹 User session cleared');
+	   },
+
+           init() {
+               const lastAccess = sessionStorage.getItem('lastAccess');
+               const currentTime = new Date().getTime();
+               const sessionTimeout = 30 * 60 * 1000; // 30 minutes
+        
+               if (lastAccess) {
+		   const lastAccessTime = new Date(lastAccess).getTime();
+		   if (currentTime - lastAccessTime > sessionTimeout) {
+                       console.log('⏰ Session timeout detected, clearing data...');
+                       this.clearUserSession();
+		   }
+               }
+        
+               sessionStorage.setItem('lastAccess', new Date().toISOString());
+	   }
+
+
+	
 	};
     
     // Export for use in other files
     if (typeof module !== 'undefined' && module.exports) {
 	module.exports = Navigation;
     }
-    
+
     // ===============================
     // NEWS MANAGEMENT
     // ===============================
@@ -1626,6 +1832,11 @@ document.addEventListener('DOMContentLoaded', function () {
                     console.log('📚 Navigating student to math app...');
                     // Check if there's a pending redirect
                     const redirectUrl = sessionStorage.getItem("redirectAfterLogin");
+
+		    showWelcomeBanner(user); //Show Banner
+                    updateNavigationAfterLogin(user); //Logout
+		    showUserName(); //
+		    
                     if (redirectUrl) {
 			Navigation.handleRedirectAfterLogin();
                     } else {
@@ -1640,6 +1851,7 @@ document.addEventListener('DOMContentLoaded', function () {
 			};
 			const targetUrl = statusRoutes[studentStatus] || 'mathapp.html';
 			console.log(`📚 Student target URL: ${targetUrl}`);
+		
 			window.location.href = targetUrl;
                     }
                     break;
@@ -1648,7 +1860,10 @@ document.addEventListener('DOMContentLoaded', function () {
                     console.log('👨‍🏫 Navigating math tutor...');
                     // Check CV status
                     const cvStatus = localStorage.getItem('tutorCVStatus') || 'not-uploaded';
-                
+
+		    updateNavigationAfterLogin(user);
+		    showUserName();
+		    
                     if (cvStatus === 'approved') {
 			console.log('✅ CV approved, going to tutor dashboard');
 			window.location.href = 'mathtutor.html';
@@ -1663,6 +1878,10 @@ document.addEventListener('DOMContentLoaded', function () {
 
 		case "professional":
                     console.log('💼 Navigating professional...');
+
+		    updateNavigationAfterLogin(user);
+		    showUserName();
+		    
                     // Check for pending redirect
                     const profRedirectUrl = sessionStorage.getItem("redirectAfterLogin");
                     if (profRedirectUrl) {
@@ -1674,6 +1893,10 @@ document.addEventListener('DOMContentLoaded', function () {
 
 		case "consultant":
                     console.log('🤝 Navigating consultant...');
+
+		    updateNavigationAfterLogin(user);
+		    showUserName();
+		    
                     // Check for pending redirect
                     const consultRedirectUrl = sessionStorage.getItem("redirectAfterLogin");
                     if (consultRedirectUrl) {
@@ -1705,7 +1928,17 @@ document.addEventListener('DOMContentLoaded', function () {
                 Modal.switchTab({ currentTarget: document.querySelector('.tab-btn[onclick*="login"]') }, 'login');
             }
         });
-        
+
+	// user.name || user.email on nav section as Logout
+	function showUserName() {
+	    const user = Auth.getCurrentUser();
+	    const display = document.getElementById('userNameDisplay');
+	    if (user && display) {
+		display.textContent = `👋 Welcome, ${user.name || user.email}`;
+		display.style.display = 'block';
+	    }
+	}
+
         // Logout button
         const logoutButton = document.getElementById("logoutButton");
         if (logoutButton) {
@@ -1747,6 +1980,16 @@ document.addEventListener('DOMContentLoaded', function () {
 
     function handleLogout() {
         if (Auth.logout()) {
+
+            const loginButton = document.querySelector('.login-button');
+	    const helpLink = document.getElementById('helpLink');
+	    const logoutButton = document.getElementById('logoutButton');
+
+	    if (loginButton) loginButton.style.display = 'inline-block';
+	    if (helpLink) helpLink.style.display = 'none';
+	    if (logoutButton) logoutButton.style.display = 'none';
+
+	    
             showAlert("You have been logged out.", 'info');
             window.location.href = "index.html";
         }
@@ -1756,6 +1999,117 @@ document.addEventListener('DOMContentLoaded', function () {
 	if (Modal.element && event.target === Modal.element) {
             Modal.close();
 	}
+    }
+
+    // ===============================
+    // SETUP AVATAR 
+    // ===============================
+
+    
+    // ✅ Set up avatar dropdown menu
+    function setupUserAvatarMenu(user) {
+	const avatar = document.getElementById("userAvatar");
+	const menu = document.getElementById("avatarMenu");
+	const avatarName = document.getElementById("avatarName");
+	const avatarRole = document.getElementById("avatarRole");
+	const upgradeOption = document.getElementById("upgradeOption");
+
+	if (!user || !avatar || !menu) return;
+
+	// Show avatar image or initials
+	const storedAvatar = localStorage.getItem(`avatar-${user.uid}`);
+	if (storedAvatar) {
+	    avatar.innerHTML = `<img src="${storedAvatar}" alt="Avatar" />`;
+	} else {
+	    const initials = (user.name || "U")
+		  .split(" ")
+		  .map(n => n[0])
+		  .join("")
+		  .toUpperCase();
+	    avatar.textContent = initials;
+	}
+
+	// Set name and role
+	avatarName.textContent = user.name || "User";
+	avatarRole.textContent = `Role: ${user.role}`;
+
+	// Show Upgrade option for certain roles
+	const showUpgrade = ["student", "free", "trial"];
+	if (upgradeOption) {
+	    upgradeOption.style.display = showUpgrade.includes(user.role) ? "block" : "none";
+	}
+
+	// Toggle avatar dropdown
+	avatar.addEventListener("click", () => {
+	    menu.classList.toggle("hidden");
+	});
+
+	// Close dropdown if clicking outside
+	window.addEventListener("click", (e) => {
+	    if (!avatar.contains(e.target) && !menu.contains(e.target)) {
+		menu.classList.add("hidden");
+	    }
+	});
+    }
+
+    // ✅ Initialize UI after DOM loads
+    document.addEventListener("DOMContentLoaded", () => {
+
+	// 🌟 Restore session from localStorage if sessionStorage is empty
+	if (!sessionStorage.getItem("isLoggedIn")) {
+	    const userData = JSON.parse(localStorage.getItem("userData"));
+	    if (userData) {
+		sessionStorage.setItem("isLoggedIn", "true");
+		sessionStorage.setItem("userName", userData.name);
+		sessionStorage.setItem("userEmail", userData.email);
+		sessionStorage.setItem("userRole", userData.role);
+		sessionStorage.setItem("userUid", userData.uid);
+	    }
+	}
+
+	const user = Auth?.getCurrentUser?.();
+	if (!user) return;
+	
+	showUserName();
+	updateNavigationAfterLogin(user);
+	
+	// Show username above menu
+	const nameDisplay = document.getElementById("userNameDisplay");
+	if (nameDisplay) {
+	    nameDisplay.textContent = `👋 Welcome, ${user.name || user.email}`;
+	    nameDisplay.classList.remove("hidden");
+	}
+
+	// Toggle menu buttons
+	const loginBtn = document.querySelector(".login-button");
+	const logoutBtn = document.getElementById("logoutButton");
+	const helpLink = document.getElementById("helpLink");
+	if (loginBtn) loginBtn.style.display = "none";
+	if (logoutBtn) logoutBtn.style.display = "inline-block";
+	if (helpLink) helpLink.style.display = "inline-block";
+
+	// Set language flag toggle (if available)
+	if (typeof setupLanguageToggle === "function") {
+	    setupLanguageToggle();
+	}
+
+	// Set up avatar menu (only if role page includes it)
+	if (document.getElementById("userAvatar")) {
+	    setupUserAvatarMenu(user);
+	}
+    });
+
+    function openProfile() {
+	document.querySelectorAll(".form-section").forEach(el => el.classList.remove("active"));
+	document.getElementById("profileFormElement")?.classList.add("active");
+    }
+
+    function openSettings() {
+	showAlert("Settings coming soon!");
+    }
+
+    function upgradePlan() {
+	window.location.href = "upgrade.html";
     }
 
     // ===============================
@@ -1859,6 +2213,7 @@ document.addEventListener('DOMContentLoaded', function () {
     window.Auth = Auth;
     window.Modal = Modal;
     window.showAlert = showAlert;
+    
 
     // Tab switching functions
     window.showTab = (event, tabName) => Modal.switchTab(event, tabName);
@@ -1876,6 +2231,9 @@ document.addEventListener('DOMContentLoaded', function () {
     // Navigation
     window.Navigation = Navigation;
 
+    //window.navigateToService = Navigation.navigateToService.bind(Navigation);
+
+    
     // News management functions
     window.stopNews = function() {
 	    NewsManager.stop();
@@ -1940,7 +2298,10 @@ document.addEventListener('DOMContentLoaded', function () {
 	    
             // Setup event listeners
             setupEventListeners();
-            
+
+	    // Language event
+	    setupLanguageToggle();
+	    
             console.log('✅ Application initialized successfully');
             console.log('🏠 Is home page:', isHomePage());
             console.log('🔒 Is logged in:', Auth.isLoggedIn());
@@ -1966,3 +2327,15 @@ document.addEventListener('DOMContentLoaded', function () {
     if (typeof module !== 'undefined' && module.exports) {
     module.exports = Navigation;
 }
+
+// Initialize Navigation on page load
+document.addEventListener('DOMContentLoaded', function() {
+    Navigation.init();
+});
+
+// Clear session on browser close if not logged in
+window.addEventListener('beforeunload', function() {
+    if (typeof Auth !== 'undefined' && Auth.isLoggedIn && !Auth.isLoggedIn()) {
+        Navigation.clearUserSession();
+    }
+});
