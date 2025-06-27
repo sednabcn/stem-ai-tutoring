@@ -24,8 +24,7 @@ document.addEventListener('DOMContentLoaded', function () {
     );
 
     console.log(`🧪 TEST_MODE: ${TEST_MODE ? 'ENABLED' : 'DISABLED'}`);
-
-    const TEST_MODE = true; // Change this to false for production
+    
 
     // --- Firebase Configuration and Initialization ---
     let auth, db, storage;
