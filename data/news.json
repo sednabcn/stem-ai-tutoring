@@ -3,6 +3,56 @@
   "totalResults": 9,
   "articles": [
     {
+      "title": "Microsoft’s Xbox PC launcher gets going with Steam, Epic, and other games showing up - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "Microsoft is embracing Steam, Epic Games Store, and other launchers to show games in its Xbox app. I...",
+      "url": "https://www.theverge.com/hands-on/693772/xbox-app-windows-steam-games-integration-epic-games-battle-net",
+      "publishedAt": "2025-06-26T18:50:56Z",
+      "processed_at": "2025-06-27T21:17:38.378390+00:00"
+    },
+    {
+      "title": "The Xbox 360 dashboard just got updated... to advertise newer Xboxes - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "Nearly 20 years after it launched, Microsoft has updated the Xbox 360’s dashboard with bug fixes and...",
+      "url": "https://www.theverge.com/news/693631/microsoft-xbox-360-dashboard-software-update-ads",
+      "publishedAt": "2025-06-26T18:40:34Z",
+      "processed_at": "2025-06-27T21:17:38.378390+00:00"
+    },
+    {
+      "title": "iPhone 17 Air Screen Protector Reveals a Potential Design Difference - MacRumors",
+      "source": {
+        "name": "MacRumors"
+      },
+      "description": "A screen protector that is allegedly designed for Apple's rumored ultra-thin iPhone 17 Air model has...",
+      "url": "https://www.macrumors.com/2025/06/26/alleged-iphone-17-air-screen-protector/",
+      "publishedAt": "2025-06-26T18:05:46Z",
+      "processed_at": "2025-06-27T21:17:38.378390+00:00"
+    },
+    {
+      "title": "Google Photos merges classic search with AI to speed up results - TechCrunch",
+      "source": {
+        "name": "TechCrunch"
+      },
+      "description": "The AI feature, first introduced at Google's I/O developer conference last year, allows users to sea...",
+      "url": "https://techcrunch.com/2025/06/26/google-photos-merges-classic-search-with-ai-to-speed-up-results/",
+      "publishedAt": "2025-06-26T17:55:05Z",
+      "processed_at": "2025-06-27T21:17:38.378390+00:00"
+    },
+    {
+      "title": "‘Fortnite’ Players to Receive More Than $126 Million in Refunds From FTC - Variety",
+      "source": {
+        "name": "Variety"
+      },
+      "description": "The Federal Trade Commission (FTC) is issuing more refunds to players of Epic Games \"Fortnite.\"...",
+      "url": "https://variety.com/2025/gaming/news/how-to-get-fortnite-ftc-refund-1236441827/",
+      "publishedAt": "2025-06-26T17:50:00Z",
+      "processed_at": "2025-06-27T21:17:38.378390+00:00"
+    },
+    {
       "title": "Gemini is getting ready to replace Google Assistant on Android - The Verge",
       "source": {
         "name": "The Verge"
@@ -10,7 +60,7 @@
       "description": "Android users will soon be able to let Gemini control device features and apps with fewer privacy co...",
       "url": "https://www.theverge.com/news/693719/google-gemini-android-update-apps-activity",
       "publishedAt": "2025-06-26T17:45:07Z",
-      "processed_at": "2025-06-27T20:22:51.799352+00:00"
+      "processed_at": "2025-06-27T21:17:38.378390+00:00"
     },
     {
       "title": "Steam is down — live updates on outage - Tom's Guide",
@@ -20,80 +70,30 @@
       "description": "Popular PC gaming platform seems to be having problems...",
       "url": "https://www.tomsguide.com/news/live/steam-outage-june-26-2025",
       "publishedAt": "2025-06-26T17:31:13Z",
-      "processed_at": "2025-06-27T20:22:51.799352+00:00"
+      "processed_at": "2025-06-27T21:17:38.378390+00:00"
     },
     {
-      "title": "Nintendo announces 2025 Switch eShop Summer Sale - first discount for Luigi's Mansion 2 HD, tons more - Nintendo Everything",
+      "title": "13-inch Microsoft Surface Laptop review: A slightly worse version of a year-old PC - Ars Technica",
       "source": {
-        "name": "Nintendoeverything.com"
+        "name": "Ars Technica"
       },
-      "description": "Nintendo 2025 Switch eShop Summer Sale live with first discount for Luigi's Mansion 2 HD and lots mo...",
-      "url": "https://nintendoeverything.com/nintendo-announces-2025-switch-eshop-summer-sale-first-discount-for-luigis-mansion-2-hd-tons-more/",
-      "publishedAt": "2025-06-26T16:23:41Z",
-      "processed_at": "2025-06-27T20:22:51.799352+00:00"
+      "description": "It only makes any sense at all because of the old Surface Laptop’s price hike....",
+      "url": "https://arstechnica.com/gadgets/2025/06/review-microsofts-13-inch-surface-laptop-isnt-bad-but-it-is-a-step-down/",
+      "publishedAt": "2025-06-26T17:27:34Z",
+      "processed_at": "2025-06-27T21:17:38.378390+00:00"
     },
     {
-      "title": "YouTube search gets its own version of Google’s AI Overviews - The Verge",
+      "title": "Galaxy S25 One UI 8 update may have already gone stable! - SamMobile",
       "source": {
-        "name": "The Verge"
+        "name": "SamMobile"
       },
-      "description": "Some YouTube Premium members may start seeing an AI-powered search results carousel for certain type...",
-      "url": "https://www.theverge.com/news/693658/youtube-search-ai-overviews-google",
-      "publishedAt": "2025-06-26T16:22:57Z",
-      "processed_at": "2025-06-27T20:22:51.799352+00:00"
-    },
-    {
-      "title": "Now Google’s Gemini AI is ready to fill in those empty cells in your spreadsheet - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "Google is rolling out a new Gemini-powered feature in Sheets that lets you use an AI function to gen...",
-      "url": "https://www.theverge.com/news/693629/google-gemini-sheets-empty-cells-ai-function",
-      "publishedAt": "2025-06-26T16:17:20Z",
-      "processed_at": "2025-06-27T20:22:51.799352+00:00"
-    },
-    {
-      "title": "watchOS 26 has these hardware requirements for Apple Intelligence - 9to5Mac",
-      "source": {
-        "name": "9to5Mac"
-      },
-      "description": "watchOS 26 adds several new Apple Intelligence features to the Apple Watch, but they each have their...",
-      "url": "https://9to5mac.com/2025/06/26/watchos-26-has-these-hardware-requirements-for-apple-intelligence/",
-      "publishedAt": "2025-06-26T16:11:00Z",
-      "processed_at": "2025-06-27T20:22:51.799352+00:00"
-    },
-    {
-      "title": "Mario Kart World patch defies the way players want to race online - Polygon",
-      "source": {
-        "name": "Polygon"
-      },
-      "description": "Nintendo has updated Mario Kart World to change ‘random’ voting in online play and push players furt...",
-      "url": "https://www.polygon.com/nintendo-switch-2/609120/mario-kart-world-patch-intermission-races-online",
-      "publishedAt": "2025-06-26T16:09:21Z",
-      "processed_at": "2025-06-27T20:22:51.799352+00:00"
-    },
-    {
-      "title": "As AI kills search traffic, Google launches Offerwall to boost publisher revenue - TechCrunch",
-      "source": {
-        "name": "TechCrunch"
-      },
-      "description": "Offerwall lets publishers give their sites' readers a variety of ways to access their content, inclu...",
-      "url": "https://techcrunch.com/2025/06/26/as-ai-kills-search-traffic-google-launches-offerwall-to-boost-publisher-revenue/",
-      "publishedAt": "2025-06-26T16:04:10Z",
-      "processed_at": "2025-06-27T20:22:51.799352+00:00"
-    },
-    {
-      "title": "What is an Xbox? - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "Microsoft is pushing ahead with plans to change the very definition of an Xbox. It looks like its ne...",
-      "url": "https://www.theverge.com/notepad-microsoft-newsletter/693576/microsoft-next-gen-xbox-steam-notepad",
-      "publishedAt": "2025-06-26T16:00:00Z",
-      "processed_at": "2025-06-27T20:22:51.799352+00:00"
+      "description": "The Galaxy S25 Edge launched in May running One UI 7 out of the box, and despite its $1099 price tag...",
+      "url": "https://www.sammobile.com/news/galaxy-s25-edge-one-ui-8-update-in-development/",
+      "publishedAt": "2025-06-26T16:34:00Z",
+      "processed_at": "2025-06-27T21:17:38.378390+00:00"
     }
   ],
-  "lastUpdated": "2025-06-27T20:22:51.799423+00:00",
+  "lastUpdated": "2025-06-27T21:17:38.378477+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
