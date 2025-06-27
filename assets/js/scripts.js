@@ -12,7 +12,7 @@ document.addEventListener('DOMContentLoaded', function () {
     
     // --- 🔧 TOGGLE TEST MODE ---
     const urlParams = new URLSearchParams(window.location.search);
-    const forceTest = urlParams.get("testmode");
+    const testParam = urlParams.get("testmode");
     const forceTest = testParam === "1" || testParam === "true";
 
     const hostname = window.location.hostname.toLowerCase();
