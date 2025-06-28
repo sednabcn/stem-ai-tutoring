@@ -3,6 +3,46 @@
   "totalResults": 10,
   "articles": [
     {
+      "title": "After 27 years, engineer discovers how to display secret photo in Power Mac ROM - Ars Technica",
+      "source": {
+        "name": "Ars Technica"
+      },
+      "description": "Developer solves mystery of hidden JPEG from the beige G3 era....",
+      "url": "https://arstechnica.com/gadgets/2025/06/after-27-years-engineer-discovers-how-to-display-secret-photo-in-power-mac-rom/",
+      "publishedAt": "2025-06-27T21:32:07Z",
+      "processed_at": "2025-06-28T23:19:28.401609+00:00"
+    },
+    {
+      "title": "The Nothing Phone 3 might have the weirdest camera design out there - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "New Nothing Phone 3 renders reveal a phone with a bold layout. The phone is set to be fully revealed...",
+      "url": "https://www.theverge.com/news/694635/nothing-phone-3-camera-design-weird",
+      "publishedAt": "2025-06-27T20:33:15Z",
+      "processed_at": "2025-06-28T23:19:28.401609+00:00"
+    },
+    {
+      "title": "These Two Cool Mass Effect Mods Look Like The Perfect Way To Revisit A Classic Trilogy - Kotaku",
+      "source": {
+        "name": "Kotaku"
+      },
+      "description": "With an unbelievable scope and so many cool new additions, you might even call these mods Mass Effec...",
+      "url": "https://kotaku.com/mass-effect-legendary-best-mods-le3-spectre-1851785265",
+      "publishedAt": "2025-06-27T20:28:57Z",
+      "processed_at": "2025-06-28T23:19:28.401609+00:00"
+    },
+    {
+      "title": "Future Android phones could warn you about data-stealing fake cell towers - Ars Technica",
+      "source": {
+        "name": "Ars Technica"
+      },
+      "description": "But it requires specific hardware support that is missing on current phones....",
+      "url": "https://arstechnica.com/gadgets/2025/06/future-android-phones-could-warn-you-about-data-stealing-fake-cell-towers/",
+      "publishedAt": "2025-06-27T20:00:50Z",
+      "processed_at": "2025-06-28T23:19:28.401609+00:00"
+    },
+    {
       "title": "Zacian (Crowned Sword) Raid Guide - Pokémon GO Hub",
       "source": {
         "name": "Pokemon GO Hub"
@@ -10,7 +50,7 @@
       "description": "The Crowned Sword Zacian is a Tier 5 legendary raid boss in Pokémon GO and it can be shiny! You will...",
       "url": "https://pokemongohub.net/post/guide/zacian-crowned-sword-raid-guide/",
       "publishedAt": "2025-06-27T19:16:22Z",
-      "processed_at": "2025-06-28T22:18:46.255601+00:00"
+      "processed_at": "2025-06-28T23:19:28.401609+00:00"
     },
     {
       "title": "The first new iOS 18.6 features were just detailed by Apple - 9to5Mac",
@@ -20,7 +60,7 @@
       "description": "iOS 18.6 isn’t the most exciting release, as it’s expected to focus on bug fixes, but Apple has just...",
       "url": "https://9to5mac.com/2025/06/27/the-first-new-ios-18-6-features-were-just-detailed-by-apple/",
       "publishedAt": "2025-06-27T18:28:00Z",
-      "processed_at": "2025-06-28T22:18:46.255601+00:00"
+      "processed_at": "2025-06-28T23:19:28.401609+00:00"
     },
     {
       "title": "Apple’s M5 chip launches this fall, and these new products get it first - 9to5Mac",
@@ -30,17 +70,7 @@
       "description": "Apple’s new M5 chip is reportedly launching this fall, and rumors indicate it’s coming to these two ...",
       "url": "https://9to5mac.com/2025/06/27/apples-m5-chip-launches-this-fall-and-these-new-products-get-it-first/",
       "publishedAt": "2025-06-27T17:42:00Z",
-      "processed_at": "2025-06-28T22:18:46.255601+00:00"
-    },
-    {
-      "title": "So Long, Blue Screen of Death. Amazingly, You'll Be Missed - WIRED",
-      "source": {
-        "name": "Wired"
-      },
-      "description": "After a long and storied history, Microsoft's BSOD is being replaced. WIRED takes a trip down memory...",
-      "url": "https://www.wired.com/story/so-long-blue-screen-of-death-amazingly-youll-be-missed/",
-      "publishedAt": "2025-06-27T17:37:00Z",
-      "processed_at": "2025-06-28T22:18:46.255601+00:00"
+      "processed_at": "2025-06-28T23:19:28.401609+00:00"
     },
     {
       "title": "The Helldivers 2 review bomb cape is finally here, a year after PSN backlash - Polygon",
@@ -50,7 +80,17 @@
       "description": "A year after the PSN account backlash, Arrowhead Game Studios snaps back at review bombers on Steam...",
       "url": "https://www.polygon.com/gaming/609611/helldivers-2-review-bomb-cape",
       "publishedAt": "2025-06-27T17:25:22Z",
-      "processed_at": "2025-06-28T22:18:46.255601+00:00"
+      "processed_at": "2025-06-28T23:19:28.401609+00:00"
+    },
+    {
+      "title": "Earn Season 9: Sins of the Horadrim Twitch Drops — Diablo IV - Blizzard News",
+      "source": {
+        "name": "Blizzard.com"
+      },
+      "description": "Celebrate the launch of Season 9: Sins of the Horadrim by watching Diablo IV Streamers on Twitch to ...",
+      "url": "https://news.blizzard.com/en-us/article/24215257/earn-season-9-sins-of-the-horadrim-twitch-drops",
+      "publishedAt": "2025-06-27T17:00:00Z",
+      "processed_at": "2025-06-28T23:19:28.401609+00:00"
     },
     {
       "title": "Google quietly introduced precise Bluetooth tracking on the Pixel Watch 3 - The Verge",
@@ -60,50 +100,10 @@
       "description": "A new Bluetooth 6.0 feature called Channel Sounding has been added to the Pixel Watch 3, improving i...",
       "url": "https://www.theverge.com/news/694246/google-android-pixel-watch-3-bluetooth-6-sounding-tracking-wear-os-update",
       "publishedAt": "2025-06-27T16:11:46Z",
-      "processed_at": "2025-06-28T22:18:46.255601+00:00"
-    },
-    {
-      "title": "Switch 2 Owners Can Save Big On Dozens Of Games In The Nintendo Summer Sale - GameSpot",
-      "source": {
-        "name": "GameSpot"
-      },
-      "description": "Grab a code, start a download, and enjoy some of Nintendo's best games with this new sale....",
-      "url": "https://www.gamespot.com/articles/switch-2-owners-can-save-big-on-dozens-of-games-in-the-nintendo-summer-sale/1100-6532780/",
-      "publishedAt": "2025-06-27T16:02:16Z",
-      "processed_at": "2025-06-28T22:18:46.255601+00:00"
-    },
-    {
-      "title": "Death Stranding 2 is the latest front in Hideo Kojima's war on subtlety - AV Club",
-      "source": {
-        "name": "The A.V. Club"
-      },
-      "description": "Death Stranding 2 is the latest front in Hideo Kojima's war on subtlety...",
-      "url": "https://www.avclub.com/game-theory-death-stranding-2",
-      "publishedAt": "2025-06-27T15:00:00Z",
-      "processed_at": "2025-06-28T22:18:46.255601+00:00"
-    },
-    {
-      "title": "Street Fighter 6's latest outfit DLC adds the game's biggest batch of horny yet, which might distract people from the fact that this is only the second wave of costumes in 2 years - GamesRadar+",
-      "source": {
-        "name": "GamesRadar+"
-      },
-      "description": "Luke's voice actor is excited, to say the least: \"im glornba caurm\"...",
-      "url": "https://www.gamesradar.com/games/fighting/street-fighter-6s-latest-outfit-dlc-adds-the-games-biggest-batch-of-horny-yet-which-might-distract-people-from-the-fact-that-this-is-only-the-second-wave-of-costumes-in-2-years/",
-      "publishedAt": "2025-06-27T14:30:47Z",
-      "processed_at": "2025-06-28T22:18:46.255601+00:00"
-    },
-    {
-      "title": "Apple leaks another likely AirPods Pro 3 reference - 9to5Mac",
-      "source": {
-        "name": "9to5Mac"
-      },
-      "description": "A new identifier discovered in Apple’s codebase likely references AirPods Pro 3, the third such rece...",
-      "url": "https://9to5mac.com/2025/06/27/apple-leaks-another-likely-airpods-pro-3-reference/",
-      "publishedAt": "2025-06-27T13:45:00Z",
-      "processed_at": "2025-06-28T22:18:46.255601+00:00"
+      "processed_at": "2025-06-28T23:19:28.401609+00:00"
     }
   ],
-  "lastUpdated": "2025-06-28T22:18:46.255674+00:00",
+  "lastUpdated": "2025-06-28T23:19:28.401680+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
