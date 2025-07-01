@@ -3,6 +3,26 @@
   "totalResults": 10,
   "articles": [
     {
+      "title": "Google issues company-wide AI coding guidance to software engineers - 9to5Google",
+      "source": {
+        "name": "9to5google.com"
+      },
+      "description": "Google today released guidance for all software engineers on how to best adopt AI for coding. Back i...",
+      "url": "http://9to5google.com/2025/06/30/google-engineers-ai-code/",
+      "publishedAt": "2025-06-30T21:28:00Z",
+      "processed_at": "2025-07-01T23:19:42.400695+00:00"
+    },
+    {
+      "title": "Apple will introduce Vision Air and smart glasses in 2027, analyst projects - Ars Technica",
+      "source": {
+        "name": "Ars Technica"
+      },
+      "description": "Apple analyst Ming-Chi Quo lays out a whole roadmap for Apple XR devices....",
+      "url": "https://arstechnica.com/gadgets/2025/06/apple-will-introduce-vision-air-and-smart-glasses-in-2027-analyst-projects/",
+      "publishedAt": "2025-06-30T21:24:19Z",
+      "processed_at": "2025-07-01T23:19:42.400695+00:00"
+    },
+    {
       "title": "Ultra Unlock: Hisui Celebration – Hisuian Zorua Debut, Boosted Shinies, Raids, Bonuses - Pokémon GO Hub",
       "source": {
         "name": "Pokemon GO Hub"
@@ -10,7 +30,17 @@
       "description": "Pokémon GO’s Ultra Unlock: Hisui Celebration runs July 8–13, 2025. This event features the debut of ...",
       "url": "https://pokemongohub.net/post/event/ultra-unlock-hisui-celebration/",
       "publishedAt": "2025-06-30T20:49:08Z",
-      "processed_at": "2025-07-01T22:19:47.828177+00:00"
+      "processed_at": "2025-07-01T23:19:42.400695+00:00"
+    },
+    {
+      "title": "Take a look at these alleged Pixel 10 Pro and Pro XL specs - Android Central",
+      "source": {
+        "name": "Android Central"
+      },
+      "description": "Don't expect any camera change....",
+      "url": "https://www.androidcentral.com/phones/google-pixel/googles-pixel-10-pro-and-xl-cameras-may-see-no-upgrades-leak-reveals",
+      "publishedAt": "2025-06-30T20:15:52Z",
+      "processed_at": "2025-07-01T23:19:42.400695+00:00"
     },
     {
       "title": "A Cancelled 'Animaniacs' GBA Game Has Been Rediscovered, And You Can Play It Now - Nintendo Life",
@@ -20,7 +50,17 @@
       "description": "Just hypnotic...",
       "url": "https://www.nintendolife.com/news/2025/06/a-cancelled-animaniacs-gba-game-has-been-rediscovered-and-you-can-play-it-now",
       "publishedAt": "2025-06-30T20:15:00Z",
-      "processed_at": "2025-07-01T22:19:47.828177+00:00"
+      "processed_at": "2025-07-01T23:19:42.400695+00:00"
+    },
+    {
+      "title": "The Nintendo Switch 2 will be available in-store at Best Buy on July 1st - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "Best Buy says it will have in-store stock of the Nintendo Switch 2 on July 1st. You can see a list o...",
+      "url": "https://www.theverge.com/tech/695273/nintendo-switch-2-in-store-restock-best-buy",
+      "publishedAt": "2025-06-30T20:14:47Z",
+      "processed_at": "2025-07-01T23:19:42.400695+00:00"
     },
     {
       "title": "Gemini sparkle icon getting the four-color Google treatment - 9to5Google",
@@ -30,7 +70,7 @@
       "description": "Google is now ready to more closely align the Gemini app to the primary brand with a new icon. Since...",
       "url": "http://9to5google.com/2025/06/30/new-gemini-icon/",
       "publishedAt": "2025-06-30T19:50:00Z",
-      "processed_at": "2025-07-01T22:19:47.828177+00:00"
+      "processed_at": "2025-07-01T23:19:42.400695+00:00"
     },
     {
       "title": "The Best Gadgets of June 2025 - Gizmodo",
@@ -40,17 +80,17 @@
       "description": "Take a wild guess what gadget topped our list. Here's a hint: it's made by a company that rhymes wit...",
       "url": "https://gizmodo.com/the-best-gadgets-of-june-2025-2000622018",
       "publishedAt": "2025-06-30T19:46:52Z",
-      "processed_at": "2025-07-01T22:19:47.828177+00:00"
+      "processed_at": "2025-07-01T23:19:42.400695+00:00"
     },
     {
-      "title": "Apple stock fluctuates following report of potential AI partnership for Siri - Yahoo Finance",
+      "title": "Apple reportedly considers letting Anthropic and OpenAI power Siri - TechCrunch",
       "source": {
-        "name": "Yahoo Entertainment"
+        "name": "TechCrunch"
       },
-      "description": "Investing.com -- Apple (NASDAQ:AAPL) shares traded choppily Monday afternoon, paring an earlier decl...",
-      "url": "https://finance.yahoo.com/news/apple-stock-fluctuates-following-report-192555122.html",
-      "publishedAt": "2025-06-30T19:25:55Z",
-      "processed_at": "2025-07-01T22:19:47.828177+00:00"
+      "description": "Apple is reportedly considering using AI models from OpenAI and Anthropic to power its updated Siri,...",
+      "url": "https://techcrunch.com/2025/06/30/apple-reportedly-considers-letting-anthropic-and-openai-power-siri/",
+      "publishedAt": "2025-06-30T19:26:20Z",
+      "processed_at": "2025-07-01T23:19:42.400695+00:00"
     },
     {
       "title": "Trophy Updates for PS Plus Premium Classics Keep on Coming - Push Square",
@@ -60,50 +100,10 @@
       "description": "PS1 game Oddworld receives Trophy support...",
       "url": "https://www.pushsquare.com/news/2025/06/trophy-updates-for-ps-plus-premium-classics-keep-on-coming",
       "publishedAt": "2025-06-30T19:20:01Z",
-      "processed_at": "2025-07-01T22:19:47.828177+00:00"
-    },
-    {
-      "title": "Former Nintendo veteran says he felt “constant sense of inferiority” due to high talent level - My Nintendo News",
-      "source": {
-        "name": "My Nintendo News"
-      },
-      "description": "Nintendo undoubtedly create some of the biggest and best franchises in the world and the development...",
-      "url": "https://mynintendonews.com/2025/06/30/former-nintendo-game-creator-says-he-felt-constant-sense-of-inferiority-due-to-high-talent-level/",
-      "publishedAt": "2025-06-30T18:46:09Z",
-      "processed_at": "2025-07-01T22:19:47.828177+00:00"
-    },
-    {
-      "title": "Original Switch Getting Mysterious 'Price Change' In Canada 8 Years After Launch As Gaming Gets More Expensive - Kotaku",
-      "source": {
-        "name": "Kotaku"
-      },
-      "description": "The Zelda: Breath of the Wild machine never got a price cut...",
-      "url": "https://kotaku.com/nintendo-switch-price-cut-canada-ps-plus-game-pass-1851785360",
-      "publishedAt": "2025-06-30T18:45:00Z",
-      "processed_at": "2025-07-01T22:19:47.828177+00:00"
-    },
-    {
-      "title": "The Alters Developer Confirms It Used Generative AI Text and Translations, Promises Updates - IGN",
-      "source": {
-        "name": "IGN"
-      },
-      "description": "The Alters developer 11 Bit Studios has responded to fan accusations it used generative AI text and ...",
-      "url": "https://www.ign.com/articles/the-alters-developer-confirms-it-used-generative-ai-text-and-translations-promises-updates",
-      "publishedAt": "2025-06-30T18:37:51Z",
-      "processed_at": "2025-07-01T22:19:47.828177+00:00"
-    },
-    {
-      "title": "Microsoft Authenticator is ending support for passwords - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "Microsoft is ending support for password storage and autofilling in its Authenticator app. The compa...",
-      "url": "https://www.theverge.com/news/695288/microsoft-authenticator-autofill-store-passwords",
-      "publishedAt": "2025-06-30T18:33:25Z",
-      "processed_at": "2025-07-01T22:19:47.828177+00:00"
+      "processed_at": "2025-07-01T23:19:42.400695+00:00"
     }
   ],
-  "lastUpdated": "2025-07-01T22:19:47.828249+00:00",
+  "lastUpdated": "2025-07-01T23:19:42.400766+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
