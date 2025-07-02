@@ -1,7 +1,27 @@
 {
   "status": "success",
-  "totalResults": 9,
+  "totalResults": 10,
   "articles": [
+    {
+      "title": "Nothing’s ‘first true flagship’ phone plays it a little safe - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "The Nothing Phone 3 is coming to the US on July 15th without the company’s trademark light show....",
+      "url": "https://www.theverge.com/news/695788/nothing-phone-3-launch-news-specs-price",
+      "publishedAt": "2025-07-01T17:30:00Z",
+      "processed_at": "2025-07-02T17:19:19.908874+00:00"
+    },
+    {
+      "title": "New ‘MacBook’ rumor sounds like Apple’s taking the iPad approach - 9to5Mac",
+      "source": {
+        "name": "9to5Mac"
+      },
+      "description": "Apple is reportedly preparing a new ‘MacBook’ product to add to the Mac lineup, in a move that seems...",
+      "url": "https://9to5mac.com/2025/07/01/new-macbook-rumor-sounds-like-apples-taking-the-ipad-approach/",
+      "publishedAt": "2025-07-01T14:52:00Z",
+      "processed_at": "2025-07-02T17:19:19.908874+00:00"
+    },
     {
       "title": "Upcoming Nintendo Switch 2 Games & Accessories For July & August 2025 - Nintendo Life",
       "source": {
@@ -10,7 +30,17 @@
       "description": "So he's finally here...",
       "url": "https://www.nintendolife.com/guides/upcoming-nintendo-switch-2-games-and-accessories-for-july-and-august-2025",
       "publishedAt": "2025-07-01T14:22:13Z",
-      "processed_at": "2025-07-02T16:26:58.326279+00:00"
+      "processed_at": "2025-07-02T17:19:19.908874+00:00"
+    },
+    {
+      "title": "Xbox Game Pass is getting this Rick and Morty-esque shooter once again - Polygon",
+      "source": {
+        "name": "Polygon"
+      },
+      "description": "Xbox Game Pass is getting a slew of games this month, with High on Life from Rick and Morty’s creato...",
+      "url": "https://www.polygon.com/gaming/610194/xbox-game-pass-high-on-life-rick-and-morty",
+      "publishedAt": "2025-07-01T14:16:48Z",
+      "processed_at": "2025-07-02T17:19:19.908874+00:00"
     },
     {
       "title": "Strange Tales of the West Emerge in Red Dead Online - Rockstar Games",
@@ -20,17 +50,7 @@
       "description": "Author Theodore Levin can’t believe the rumors and missives he’s been receiving from the four corner...",
       "url": "https://www.rockstargames.com/newswire/article/o327292o933k29/strange-tales-of-the-west-emerge-in-red-dead-online",
       "publishedAt": "2025-07-01T13:55:09Z",
-      "processed_at": "2025-07-02T16:26:58.326279+00:00"
-    },
-    {
-      "title": "Game Pass Is Removing These Six Games Very Soon - GameSpot",
-      "source": {
-        "name": "GameSpot"
-      },
-      "description": "Play these games while you still can....",
-      "url": "https://www.gamespot.com/gallery/game-pass-is-removing-these-six-games-very-soon/2900-6722/",
-      "publishedAt": "2025-07-01T13:39:39Z",
-      "processed_at": "2025-07-02T16:26:58.326279+00:00"
+      "processed_at": "2025-07-02T17:19:19.908874+00:00"
     },
     {
       "title": "Nintendo confirms Donkey Kong Bananza is being made by the Mario Odyssey team - Eurogamer",
@@ -40,7 +60,7 @@
       "description": "Nintendo famously keeps its various game developers under wraps, with the team responsible for a rel...",
       "url": "https://www.eurogamer.net/nintendo-confirms-donkey-kong-bananza-is-being-made-by-the-mario-odyssey-team",
       "publishedAt": "2025-07-01T13:00:00Z",
-      "processed_at": "2025-07-02T16:26:58.326279+00:00"
+      "processed_at": "2025-07-02T17:19:19.908874+00:00"
     },
     {
       "title": "Google kills its Keep app on Apple Watch - The Verge",
@@ -50,7 +70,17 @@
       "description": "The Google graveyard has claimed another victim: the company has killed the Apple Watch version of i...",
       "url": "https://www.theverge.com/news/695590/google-keep-apple-watch-watchos-removed",
       "publishedAt": "2025-07-01T12:49:17Z",
-      "processed_at": "2025-07-02T16:26:58.326279+00:00"
+      "processed_at": "2025-07-02T17:19:19.908874+00:00"
+    },
+    {
+      "title": "Stardew Valley creator plays down reports he could help resurrect cancelled Minecraft-like Hytale - Eurogamer",
+      "source": {
+        "name": "Eurogamer.net"
+      },
+      "description": "Last week, Riot Games announced it was pulling the plug on promising Minecraft-like sandbox game Hyt...",
+      "url": "https://www.eurogamer.net/stardew-valley-creator-plays-down-reports-he-could-help-resurrect-recently-cancelled-minecraft-like-hytale",
+      "publishedAt": "2025-07-01T12:07:36Z",
+      "processed_at": "2025-07-02T17:19:19.908874+00:00"
     },
     {
       "title": "Last call for refunds from super-popular video game: There’s still time to file a claim - AL.com",
@@ -60,17 +90,7 @@
       "description": "The Federal Trade Commission is sending out more than $126 million to players of a super-popular vid...",
       "url": "https://www.al.com/news/2025/07/last-call-for-refunds-from-super-popular-video-game-theres-still-time-to-file-a-claim.html",
       "publishedAt": "2025-07-01T12:00:00Z",
-      "processed_at": "2025-07-02T16:26:58.326279+00:00"
-    },
-    {
-      "title": "Microsoft Authenticator won't manage your passwords anymore - here's why and what's next - ZDNet",
-      "source": {
-        "name": "ZDNet"
-      },
-      "description": "Starting in August, your saved passwords will no longer be accessible in Microsoft's Authenticator a...",
-      "url": "https://www.zdnet.com/article/microsoft-authenticator-wont-manage-your-passwords-anymore-heres-why-and-whats-next/",
-      "publishedAt": "2025-07-01T11:40:00Z",
-      "processed_at": "2025-07-02T16:26:58.326279+00:00"
+      "processed_at": "2025-07-02T17:19:19.908874+00:00"
     },
     {
       "title": "Kojima \"happy\" with Death Stranding 2 critical reception, spurring fans to \"fight and battle\" against war and climate change - Eurogamer",
@@ -80,20 +100,10 @@
       "description": "Hideo Kojima is \"happy\" with the critical reception of Death Stranding 2: On The Beach, and has spur...",
       "url": "https://www.eurogamer.net/kojima-happy-with-death-stranding-2-critical-reception-spurring-fans-to-fight-and-battle-against-war-and-climate-change",
       "publishedAt": "2025-07-01T11:05:18Z",
-      "processed_at": "2025-07-02T16:26:58.326279+00:00"
-    },
-    {
-      "title": "Nintendo has now sold over 5 million Nintendo Switch 2 consoles worldwide - My Nintendo News",
-      "source": {
-        "name": "My Nintendo News"
-      },
-      "description": "Nintendo has revised its sales figures for the Nintendo Switch 2 and has revealed that the system ha...",
-      "url": "https://mynintendonews.com/2025/07/01/nintendo-has-now-sold-over-5-million-nintendo-switch-2-consoles-worldwide/",
-      "publishedAt": "2025-07-01T10:24:51Z",
-      "processed_at": "2025-07-02T16:26:58.326279+00:00"
+      "processed_at": "2025-07-02T17:19:19.908874+00:00"
     }
   ],
-  "lastUpdated": "2025-07-02T16:26:58.326349+00:00",
+  "lastUpdated": "2025-07-02T17:19:19.908949+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
