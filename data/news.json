@@ -1,7 +1,27 @@
 {
   "status": "success",
-  "totalResults": 8,
+  "totalResults": 6,
   "articles": [
+    {
+      "title": "Nintendo has now sold over 5 million Nintendo Switch 2 consoles worldwide - My Nintendo News",
+      "source": {
+        "name": "My Nintendo News"
+      },
+      "description": "Nintendo has revised its sales figures for the Nintendo Switch 2 and has revealed that the system ha...",
+      "url": "https://mynintendonews.com/2025/07/01/nintendo-has-now-sold-over-5-million-nintendo-switch-2-consoles-worldwide/",
+      "publishedAt": "2025-07-01T10:24:51Z",
+      "processed_at": "2025-07-02T11:18:35.469072+00:00"
+    },
+    {
+      "title": "Tinder’s mandatory facial recognition check comes to the US - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "Tinder is trialing mandatory facial recognition security features in the US to verify profiles and c...",
+      "url": "https://www.theverge.com/news/695582/tinder-facial-recognition-us-california-test",
+      "publishedAt": "2025-07-01T09:10:31Z",
+      "processed_at": "2025-07-02T11:18:35.469072+00:00"
+    },
     {
       "title": "July 2025's PS Plus Essential Games Available to Download Now - Push Square",
       "source": {
@@ -10,17 +30,7 @@
       "description": "Fight, slaughter, and climb...",
       "url": "https://www.pushsquare.com/news/2025/07/july-2025s-ps-plus-essential-games-available-to-download-now",
       "publishedAt": "2025-07-01T08:00:00Z",
-      "processed_at": "2025-07-02T10:23:25.224782+00:00"
-    },
-    {
-      "title": "July 1st Google Doodle promotes AI Mode - 9to5Google",
-      "source": {
-        "name": "9to5google.com"
-      },
-      "description": "Google’s AI Mode push continues today with a Doodle that broadly promotes how you can “search like n...",
-      "url": "http://9to5google.com/2025/06/30/google-doodle-ai-mode/",
-      "publishedAt": "2025-07-01T05:15:00Z",
-      "processed_at": "2025-07-02T10:23:25.224782+00:00"
+      "processed_at": "2025-07-02T11:18:35.469072+00:00"
     },
     {
       "title": "Microsoft Removes Password Management from Authenticator App Starting August 2025 - The Hacker News",
@@ -30,7 +40,7 @@
       "description": "Microsoft will end password support in Authenticator by August 2025, shifting to Microsoft account s...",
       "url": "https://thehackernews.com/2025/07/microsoft-removes-password-management.html",
       "publishedAt": "2025-07-01T04:21:00Z",
-      "processed_at": "2025-07-02T10:23:25.224782+00:00"
+      "processed_at": "2025-07-02T11:18:35.469072+00:00"
     },
     {
       "title": "Apple weighs using Anthropic or OpenAI to power Siri in major reversal, Bloomberg News reports - CNBC",
@@ -40,7 +50,7 @@
       "description": "Apple is weighing using artificial intelligence technology from Anthropic or OpenAI to power a new v...",
       "url": "https://www.cnbc.com/2025/07/01/apple-weighs-using-anthropic-or-openai-to-power-siri-in-major-reversal-bloomberg-news-.html",
       "publishedAt": "2025-07-01T02:12:00Z",
-      "processed_at": "2025-07-02T10:23:25.224782+00:00"
+      "processed_at": "2025-07-02T11:18:35.469072+00:00"
     },
     {
       "title": "Kojima U-Turns on Death Stranding 2 Review Scores, 'Happy' with Them - Push Square",
@@ -50,40 +60,10 @@
       "description": "After making changes when it was \"too good\" pre-release...",
       "url": "https://www.pushsquare.com/news/2025/07/kojima-u-turns-on-death-stranding-2-review-scores-happy-with-them",
       "publishedAt": "2025-07-01T00:15:00Z",
-      "processed_at": "2025-07-02T10:23:25.224782+00:00"
-    },
-    {
-      "title": "Steam can now show you how much frame generation changes your games - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "Valve has added a new performance monitor to Steam that can break out a game’s actual frame rate and...",
-      "url": "https://www.theverge.com/news/695543/valve-steam-performance-monitor-frame-generation-frame-rates",
-      "publishedAt": "2025-06-30T23:35:06Z",
-      "processed_at": "2025-07-02T10:23:25.224782+00:00"
-    },
-    {
-      "title": "Halo's Future Will Be Revealed... In October, Says Xbox - Kotaku",
-      "source": {
-        "name": "Kotaku"
-      },
-      "description": "The rumored Halo: Combat Evolved remake might be announced later this year...",
-      "url": "https://kotaku.com/halo-wc-october-remake-remaster-news-trailer-rumor-xbox-1851785384",
-      "publishedAt": "2025-06-30T21:25:00Z",
-      "processed_at": "2025-07-02T10:23:25.224782+00:00"
-    },
-    {
-      "title": "Apple will introduce Vision Air and smart glasses in 2027, analyst projects - Ars Technica",
-      "source": {
-        "name": "Ars Technica"
-      },
-      "description": "Apple analyst Ming-Chi Quo lays out a whole roadmap for Apple XR devices....",
-      "url": "https://arstechnica.com/gadgets/2025/06/apple-will-introduce-vision-air-and-smart-glasses-in-2027-analyst-projects/",
-      "publishedAt": "2025-06-30T21:24:19Z",
-      "processed_at": "2025-07-02T10:23:25.224782+00:00"
+      "processed_at": "2025-07-02T11:18:35.469072+00:00"
     }
   ],
-  "lastUpdated": "2025-07-02T10:23:25.224840+00:00",
+  "lastUpdated": "2025-07-02T11:18:35.469124+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
