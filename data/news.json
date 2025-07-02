@@ -1,16 +1,36 @@
 {
   "status": "success",
-  "totalResults": 9,
+  "totalResults": 10,
   "articles": [
     {
-      "title": "Black Ops 6 & Warzone Season 4 Reloaded update patch notes - Dexerto",
+      "title": "CoD Season 4 Reloaded Patch Notes Add Attachment Changes And Goofy Verdansk LTM - GameSpot",
       "source": {
-        "name": "Dexerto"
+        "name": "GameSpot"
       },
-      "description": "Black Ops 6 Season 4 Reloaded is the newest major update for Treyarch’s shooter, and it brings big c...",
-      "url": "https://www.dexerto.com/call-of-duty/black-ops-6-warzone-season-4-reloaded-update-patch-notes-3221300/",
-      "publishedAt": "2025-07-01T19:13:24Z",
-      "processed_at": "2025-07-02T20:21:54.928562+00:00"
+      "description": "Here are the major changes included in the Black Ops 6 And Warzone Season 4 Reloaded update....",
+      "url": "https://www.gamespot.com/gallery/cod-season-4-reloaded-patch-notes-add-attachment-changes-and-goofy-verdansk-ltm/2900-6725/",
+      "publishedAt": "2025-07-01T20:21:57Z",
+      "processed_at": "2025-07-02T21:19:55.325656+00:00"
+    },
+    {
+      "title": "Nothing releases its first over-the-ear headphones, the $299 Headphone (1) - TechCrunch",
+      "source": {
+        "name": "TechCrunch"
+      },
+      "description": "Nothing stepped away from sensors in favor of a simple button to trigger your AI assistant or ChatGP...",
+      "url": "https://techcrunch.com/2025/07/01/nothing-releases-its-first-over-the-ear-headphones-the-299-headphone-1/",
+      "publishedAt": "2025-07-01T18:38:51Z",
+      "processed_at": "2025-07-02T21:19:55.325656+00:00"
+    },
+    {
+      "title": "Here’s everything new for Apple Photos in iOS 26 - 9to5Mac",
+      "source": {
+        "name": "9to5Mac"
+      },
+      "description": "Apple’s Photos app got a big overhaul last year, and iOS 26 introduces new changes that both push th...",
+      "url": "https://9to5mac.com/2025/07/01/heres-everything-new-for-apple-photos-in-ios-26/",
+      "publishedAt": "2025-07-01T17:44:00Z",
+      "processed_at": "2025-07-02T21:19:55.325656+00:00"
     },
     {
       "title": "Nothing’s ‘first true flagship’ phone plays it a little safe - The Verge",
@@ -20,17 +40,37 @@
       "description": "The Nothing Phone 3 is coming to the US on July 15th without the company’s trademark light show....",
       "url": "https://www.theverge.com/news/695788/nothing-phone-3-launch-news-specs-price",
       "publishedAt": "2025-07-01T17:30:00Z",
-      "processed_at": "2025-07-02T20:21:54.928562+00:00"
+      "processed_at": "2025-07-02T21:19:55.325656+00:00"
     },
     {
-      "title": "Nothing's New Phone (3) and Headphone (1) Look Nothing Like You've Seen Before - WIRED",
+      "title": "AT&T now lets you lock down your account to prevent SIM swapping attacks - The Verge",
       "source": {
-        "name": "Wired"
+        "name": "The Verge"
       },
-      "description": "The unusual LED lights from the original Nothing phones have morphed into a matrix display that can ...",
-      "url": "https://www.wired.com/story/nothing-phone-3-headphones-1-news/",
-      "publishedAt": "2025-07-01T17:30:00Z",
-      "processed_at": "2025-07-02T20:21:54.928562+00:00"
+      "description": "AT&T is launching a new Account Lock feature that will let wireless customers prevent unauthorized c...",
+      "url": "https://www.theverge.com/news/695916/att-account-lock-sim-swapping-attack",
+      "publishedAt": "2025-07-01T16:36:28Z",
+      "processed_at": "2025-07-02T21:19:55.325656+00:00"
+    },
+    {
+      "title": "Threads gets its own DMs as app distances itself from Instagram - TechCrunch",
+      "source": {
+        "name": "TechCrunch"
+      },
+      "description": "At launch, Threads DMs will support one-on-one chats, preset emoji reactions, the ability to report ...",
+      "url": "https://techcrunch.com/2025/07/01/threads-gets-its-own-dms-as-app-distances-itself-from-instagram/",
+      "publishedAt": "2025-07-01T16:00:00Z",
+      "processed_at": "2025-07-02T21:19:55.325656+00:00"
+    },
+    {
+      "title": "Nintendo revealed the Super Mario Odyssey team made Donkey Kong Bananza - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "Nintendo has finally revealed that the team behind Super Mario Odyssey has developed Donkey Kong Ban...",
+      "url": "https://www.theverge.com/news/695726/donkey-kong-bananza-developers-super-mario-odyssey",
+      "publishedAt": "2025-07-01T15:13:31Z",
+      "processed_at": "2025-07-02T21:19:55.325656+00:00"
     },
     {
       "title": "AI Siri May Be Forced to Get Emergency Brain Transplant from OpenAI or Anthropic - Gizmodo",
@@ -40,7 +80,7 @@
       "description": "After failing to release its AI-powered Siri last year, Apple needs to do some major surgery on its ...",
       "url": "https://gizmodo.com/ai-siri-may-be-forced-to-get-emergency-brain-transplant-from-openai-or-anthropic-2000622739",
       "publishedAt": "2025-07-01T15:00:03Z",
-      "processed_at": "2025-07-02T20:21:54.928562+00:00"
+      "processed_at": "2025-07-02T21:19:55.325656+00:00"
     },
     {
       "title": "New ‘MacBook’ rumor sounds like Apple’s taking the iPad approach - 9to5Mac",
@@ -50,7 +90,7 @@
       "description": "Apple is reportedly preparing a new ‘MacBook’ product to add to the Mac lineup, in a move that seems...",
       "url": "https://9to5mac.com/2025/07/01/new-macbook-rumor-sounds-like-apples-taking-the-ipad-approach/",
       "publishedAt": "2025-07-01T14:52:00Z",
-      "processed_at": "2025-07-02T20:21:54.928562+00:00"
+      "processed_at": "2025-07-02T21:19:55.325656+00:00"
     },
     {
       "title": "Upcoming Nintendo Switch 2 Games & Accessories For July & August 2025 - Nintendo Life",
@@ -60,40 +100,10 @@
       "description": "So he's finally here...",
       "url": "https://www.nintendolife.com/guides/upcoming-nintendo-switch-2-games-and-accessories-for-july-and-august-2025",
       "publishedAt": "2025-07-01T14:22:13Z",
-      "processed_at": "2025-07-02T20:21:54.928562+00:00"
-    },
-    {
-      "title": "Samsung’s One UI 8 reportedly brings a robust security alert system - 9to5Google",
-      "source": {
-        "name": "9to5google.com"
-      },
-      "description": "As Android 16 is set to reinforce the Security and Privacy page, Samsung is looking to add its own c...",
-      "url": "http://9to5google.com/2025/07/01/samsung-one-ui-8-update-big-security-improvements/",
-      "publishedAt": "2025-07-01T14:19:00Z",
-      "processed_at": "2025-07-02T20:21:54.928562+00:00"
-    },
-    {
-      "title": "Xbox Game Pass is getting this Rick and Morty-esque shooter once again - Polygon",
-      "source": {
-        "name": "Polygon"
-      },
-      "description": "Xbox Game Pass is getting a slew of games this month, with High on Life from Rick and Morty’s creato...",
-      "url": "https://www.polygon.com/gaming/610194/xbox-game-pass-high-on-life-rick-and-morty",
-      "publishedAt": "2025-07-01T14:16:48Z",
-      "processed_at": "2025-07-02T20:21:54.928562+00:00"
-    },
-    {
-      "title": "Strange Tales of the West Emerge in Red Dead Online - Rockstar Games",
-      "source": {
-        "name": "Rockstargames.com"
-      },
-      "description": "Author Theodore Levin can’t believe the rumors and missives he’s been receiving from the four corner...",
-      "url": "https://www.rockstargames.com/newswire/article/o327292o933k29/strange-tales-of-the-west-emerge-in-red-dead-online",
-      "publishedAt": "2025-07-01T13:55:09Z",
-      "processed_at": "2025-07-02T20:21:54.928562+00:00"
+      "processed_at": "2025-07-02T21:19:55.325656+00:00"
     }
   ],
-  "lastUpdated": "2025-07-02T20:21:54.928635+00:00",
+  "lastUpdated": "2025-07-02T21:19:55.325728+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
