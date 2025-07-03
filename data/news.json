@@ -3,6 +3,66 @@
   "totalResults": 10,
   "articles": [
     {
+      "title": "iPhone 17 Pro's New MagSafe Design Revealed in Leaked Photo - MacRumors",
+      "source": {
+        "name": "MacRumors"
+      },
+      "description": "The upcoming iPhone 17 Pro and iPhone 17 Pro Max are rumored to have a slightly different MagSafe ma...",
+      "url": "https://www.macrumors.com/2025/07/02/iphone-17-pro-new-magsafe-design/",
+      "publishedAt": "2025-07-02T15:37:51Z",
+      "processed_at": "2025-07-03T17:20:53.092612+00:00"
+    },
+    {
+      "title": "New Apple TV 4K could be launching at the best possible moment - 9to5Mac",
+      "source": {
+        "name": "9to5Mac"
+      },
+      "description": "There’s a new Apple TV 4K expected to launch this fall, and two key factors could help the product f...",
+      "url": "https://9to5mac.com/2025/07/02/new-apple-tv-4k-could-be-launching-at-the-best-possible-moment/",
+      "publishedAt": "2025-07-02T15:27:00Z",
+      "processed_at": "2025-07-03T17:20:53.092612+00:00"
+    },
+    {
+      "title": "A 22-Year-Old Tech Bro Built a Website That That Judges Diners by Their Looks. Obviously. - Eater New York",
+      "source": {
+        "name": "Eater"
+      },
+      "description": "A new restaurant rating app, LooksMapping, rates the attractiveness of New York City restaurant dine...",
+      "url": "https://ny.eater.com/new-york-restaurant-news/400110/looksmapping-most-attractive-diners-nyc-la-sf",
+      "publishedAt": "2025-07-02T14:44:15Z",
+      "processed_at": "2025-07-03T17:20:53.092612+00:00"
+    },
+    {
+      "title": "Behind the next Battlefield game: Culture clash, crunch, and colossal stakes - Ars Technica",
+      "source": {
+        "name": "Ars Technica"
+      },
+      "description": "EA insiders describe stress and setbacks in a project that’s too big to fail....",
+      "url": "https://arstechnica.com/gaming/2025/07/behind-the-next-battlefield-game-culture-clash-crunch-and-colossal-stakes/",
+      "publishedAt": "2025-07-02T14:16:08Z",
+      "processed_at": "2025-07-03T17:20:53.092612+00:00"
+    },
+    {
+      "title": "iPadOS 26 has turned the iPad Mini into a powerhouse - 9to5Mac",
+      "source": {
+        "name": "9to5Mac"
+      },
+      "description": "Can the new iPadOS 26 finally turn the iPad Mini 7 into a true portable powerhouse for productivity,...",
+      "url": "https://9to5mac.com/2025/07/02/ipados-26-has-turned-the-ipad-mini-into-a-powerhouse/",
+      "publishedAt": "2025-07-02T13:34:00Z",
+      "processed_at": "2025-07-03T17:20:53.092612+00:00"
+    },
+    {
+      "title": "Google details Home app ‘Member’ role with limited access, support for children - 9to5Google",
+      "source": {
+        "name": "9to5google.com"
+      },
+      "description": "The Google Home app is adding a new form of access to your home, with a “Member” role now broadly......",
+      "url": "http://9to5google.com/2025/07/02/google-home-member-role-invite/",
+      "publishedAt": "2025-07-02T13:25:00Z",
+      "processed_at": "2025-07-03T17:20:53.092612+00:00"
+    },
+    {
       "title": "Destiny 2’s Kepler And Portal Have Some Big Issues, It Seems - Forbes",
       "source": {
         "name": "Forbes"
@@ -10,7 +70,7 @@
       "description": "So far, Edge of Fate and the Frontiers era does not seem like it’s going to attract lapsed and new p...",
       "url": "https://www.forbes.com/sites/paultassi/2025/07/02/destiny-2s-kepler-and-portal-have-some-big-issues-it-seems/",
       "publishedAt": "2025-07-02T13:09:21Z",
-      "processed_at": "2025-07-03T16:27:02.593899+00:00"
+      "processed_at": "2025-07-03T17:20:53.092612+00:00"
     },
     {
       "title": "The Ultrahuman Ring Air Shamed Me Into Ditching Unhealthy Habits - CNET",
@@ -20,7 +80,17 @@
       "description": "This $350 smart ring tracks more than you'll ever need to (and want to) know without committing to a...",
       "url": "https://www.cnet.com/tech/mobile/the-ultrahuman-ring-air-shamed-me-into-ditching-unhealthy-habits/",
       "publishedAt": "2025-07-02T13:00:16Z",
-      "processed_at": "2025-07-03T16:27:02.593899+00:00"
+      "processed_at": "2025-07-03T17:20:53.092612+00:00"
+    },
+    {
+      "title": "Forget Amazon — Best Buy's early anti-Prime Day deals drop prices on laptops, PC hardware, Xbox gear, and more - Windows Central",
+      "source": {
+        "name": "Windows Central"
+      },
+      "description": "Amazon Prime Day might be just around the corner, but Best Buy is already making it easy to shop for...",
+      "url": "https://www.windowscentral.com/hardware/laptops/best-buy-anti-prime-day-deals",
+      "publishedAt": "2025-07-02T12:54:33Z",
+      "processed_at": "2025-07-03T17:20:53.092612+00:00"
     },
     {
       "title": "Honor launches the ‘world’s thinnest’ foldable - The Verge",
@@ -30,80 +100,10 @@
       "description": "The Honor Magic V5 foldable is thinner than Oppo’s Find N5, but only if you ignore the camera bump....",
       "url": "https://www.theverge.com/news/696456/honor-magic-v5-thinnest-foldable-phone-launch-specs",
       "publishedAt": "2025-07-02T12:00:00Z",
-      "processed_at": "2025-07-03T16:27:02.593899+00:00"
-    },
-    {
-      "title": "The reception to Diablo 4 Season 9 may be the worst for any season so far, and that’s saying a lot coming from Season 8 - Eurogamer",
-      "source": {
-        "name": "Eurogamer.net"
-      },
-      "description": "It may feel like Déjà vu, but Diablo 4 really is re-running its worst arcs from last year....",
-      "url": "https://www.eurogamer.net/diablo-4-season-9-reaction-season-8",
-      "publishedAt": "2025-07-02T12:00:00Z",
-      "processed_at": "2025-07-03T16:27:02.593899+00:00"
-    },
-    {
-      "title": "AMD FSR 4 Confirmed to Be Coming to PS5 Pro in 2026; Big Chunks of RDNA 5 Are Being Designed Through Engineering Partnership with Sony - Wccftech",
-      "source": {
-        "name": "Wccftech"
-      },
-      "description": "It was confirmed that the full implementation of the AMD FSR 4 algorithm will be available to PS5 Pr...",
-      "url": "https://wccftech.com/amd-fsr4-ps5-pro-2026-rdna5/",
-      "publishedAt": "2025-07-02T12:00:00Z",
-      "processed_at": "2025-07-03T16:27:02.593899+00:00"
-    },
-    {
-      "title": "17 early Prime Day deals that are at least 50% off now - Tom's Guide",
-      "source": {
-        "name": "Tom's Guide"
-      },
-      "description": "The biggest savings you can get ahead of Prime Day...",
-      "url": "https://www.tomsguide.com/sales-events/15-early-prime-day-deals-that-are-at-least-50-percent-off-now",
-      "publishedAt": "2025-07-02T11:45:58Z",
-      "processed_at": "2025-07-03T16:27:02.593899+00:00"
-    },
-    {
-      "title": "The U.S. Won’t Be Happy: Xiaomi’s New Chip Is So Advanced Even the Chinese Government Has Praised It - The Daily Galaxy",
-      "source": {
-        "name": "The Daily Galaxy --Great Discoveries Channel"
-      },
-      "description": "A new breakthrough in Asia’s tech sector is stirring up the global chip industry. An unexpected move...",
-      "url": "https://dailygalaxy.com/2025/07/the-u-s-wont-be-happy-xiaomis-new-chip-is-so-advanced-even-the-chinese-government-has-praised-it/",
-      "publishedAt": "2025-07-02T11:00:00Z",
-      "processed_at": "2025-07-03T16:27:02.593899+00:00"
-    },
-    {
-      "title": "Subnautica developer Unknown Worlds loses leadership team - Game Developer",
-      "source": {
-        "name": "Gamedeveloper.com"
-      },
-      "description": "Studio CEO Ted Gill, Subnautica game director Charlie Cleveland, and technical director Max McGuire ...",
-      "url": "https://www.gamedeveloper.com/business/subnautica-developer-unknown-worlds-loses-leadership-team",
-      "publishedAt": "2025-07-02T10:03:01Z",
-      "processed_at": "2025-07-03T16:27:02.593899+00:00"
-    },
-    {
-      "title": "Brazil: Nintendo is now facing legal action over ability to brick Switch 2 console - My Nintendo News",
-      "source": {
-        "name": "My Nintendo News"
-      },
-      "description": "Procon-SP, the Sao Paulo branch of Brazil’s Consumer Protection and Defence program, has stated in a...",
-      "url": "https://mynintendonews.com/2025/07/02/brazil-nintendo-is-now-facing-legal-action-over-ability-to-brick-switch-2-console/",
-      "publishedAt": "2025-07-02T09:01:54Z",
-      "processed_at": "2025-07-03T16:27:02.593899+00:00"
-    },
-    {
-      "title": "Apple Has Reportedly Halted Foldable iPad Development, Likely Due To Manufacturing Difficulties; Lack Of Sufficient Demand For Tablets And Potentially Expensive Price Also Leading Factors - Wccftech",
-      "source": {
-        "name": "Wccftech"
-      },
-      "description": "A report claims that the development on the foldable iPad has been stopped due to production problem...",
-      "url": "https://wccftech.com/apple-foldable-ipad-development-halted-due-to-manufacturing-difficulties/",
-      "publishedAt": "2025-07-02T07:11:00Z",
-      "processed_at": "2025-07-03T16:27:02.593899+00:00"
+      "processed_at": "2025-07-03T17:20:53.092612+00:00"
     }
   ],
-  "lastUpdated": "2025-07-03T16:27:02.593975+00:00",
+  "lastUpdated": "2025-07-03T17:20:53.092683+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
