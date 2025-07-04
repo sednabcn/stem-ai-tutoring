@@ -1,26 +1,86 @@
 {
   "status": "success",
-  "totalResults": 9,
+  "totalResults": 10,
   "articles": [
     {
-      "title": "If You See These Messages On Your PC, You’re Being Hacked - Forbes",
+      "title": "John Romero’s next FPS has lost funding in the wake of the Microsoft cuts - Video Games Chronicle",
       "source": {
-        "name": "Forbes"
+        "name": "Video Games Chronicle"
       },
-      "description": "This Microsoft Windows attack just soared 500% — what to know....",
-      "url": "https://www.forbes.com/sites/zakdoffman/2025/07/03/if-you-see-these-messages-on-your-pc-youre-being-hacked/",
-      "publishedAt": "2025-07-03T05:23:15Z",
-      "processed_at": "2025-07-04T12:42:18.900215+00:00"
+      "description": "Romero Games says it's exploring its options for its unannounced FPS...",
+      "url": "https://www.videogameschronicle.com/news/john-romeros-next-fps-has-lost-funding-in-the-wake-of-the-microsoft-cuts/",
+      "publishedAt": "2025-07-03T11:22:17Z",
+      "processed_at": "2025-07-04T13:31:55.971870+00:00"
     },
     {
-      "title": "Google brings Veo 3 to all Gemini app ‘Pro’ subscribers worldwide - 9to5Google",
+      "title": "What’s This Obsession With 27? ChatGPT’s Strange Fixation on a Single Number Is Baffling Millions of Users - Rude Baguette",
       "source": {
-        "name": "9to5google.com"
+        "name": "Rudebaguette.com"
       },
-      "description": "Veo 3, Google’s latest video generation model, is now available around the world in the Gemini app f...",
-      "url": "http://9to5google.com/2025/07/02/gemini-veo-3-world/",
-      "publishedAt": "2025-07-03T04:10:00Z",
-      "processed_at": "2025-07-04T12:42:18.900215+00:00"
+      "description": "IN A NUTSHELL 🔍 AI models often choose the number 27, raising questions about shared data and algori...",
+      "url": "https://www.rudebaguette.com/en/2025/07/whats-this-obsession-with-27-chatgpts-strange-fixation-on-a-single-number-is-baffling-millions-of-users/",
+      "publishedAt": "2025-07-03T11:16:07Z",
+      "processed_at": "2025-07-04T13:31:55.971870+00:00"
+    },
+    {
+      "title": "Google rolls out its new Veo 3 video generation model globally - TechCrunch",
+      "source": {
+        "name": "TechCrunch"
+      },
+      "description": "Google on Thursday said it has begun rolling out its Veo 3 video generation model to Gemini users in...",
+      "url": "https://techcrunch.com/2025/07/03/google-rolls-out-its-new-veo-3-video-generation-model-globally/",
+      "publishedAt": "2025-07-03T10:56:48Z",
+      "processed_at": "2025-07-04T13:31:55.971870+00:00"
+    },
+    {
+      "title": "The AI New Wave - The Dispatch",
+      "source": {
+        "name": "Thedispatch.com"
+      },
+      "description": "Millenarian sentiment is an (expected) byproduct of artificial intelligence....",
+      "url": "https://thedispatch.com/newsletter/gfile/millenarian-panic-artificial-intelligence-aspen/",
+      "publishedAt": "2025-07-03T09:53:47Z",
+      "processed_at": "2025-07-04T13:31:55.971870+00:00"
+    },
+    {
+      "title": "Exclusive: One UI 8 gives us our first look at Samsung's upcoming tri-fold phone - Android Authority",
+      "source": {
+        "name": "Android Authority"
+      },
+      "description": "One UI 8 includes animation files that show off Samsung's first tri-fold, likely to be called the Ga...",
+      "url": "https://www.androidauthority.com/samsung-galaxy-g-fold-exclusive-animation-leak-3573652/",
+      "publishedAt": "2025-07-03T09:43:04Z",
+      "processed_at": "2025-07-04T13:31:55.971870+00:00"
+    },
+    {
+      "title": "Google’s customizable Gemini chatbots are now in Docs, Sheets, and Gmail - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "Gems are now available directly in the side panel of Workspace apps, allowing users to access custom...",
+      "url": "https://www.theverge.com/news/697352/google-gemini-gems-workspace-apps-docs-gmail",
+      "publishedAt": "2025-07-03T09:30:41Z",
+      "processed_at": "2025-07-04T13:31:55.971870+00:00"
+    },
+    {
+      "title": "Microsoft Insists Xbox Boss Phil Spencer Isn't Retiring 'Anytime Soon' in Response to Rumors Following Mass Layoffs - IGN",
+      "source": {
+        "name": "IGN"
+      },
+      "description": "Microsoft has insisted Xbox boss Phil Spencer isn’t retiring “anytime soon,” amid rumors over the ex...",
+      "url": "https://www.ign.com/articles/microsoft-insists-xbox-boss-phil-spencer-isnt-retiring-anytime-soon-in-response-to-rumors-following-mass-layoffs",
+      "publishedAt": "2025-07-03T09:23:14Z",
+      "processed_at": "2025-07-04T13:31:55.971870+00:00"
+    },
+    {
+      "title": "Critical Cisco Vulnerability in Unified CM Grants Root Access via Static Credentials - The Hacker News",
+      "source": {
+        "name": "Internet"
+      },
+      "description": "CVE-2025-20309 in Cisco Unified CM could grant root access, allowing arbitrary command execution....",
+      "url": "https://thehackernews.com/2025/07/critical-cisco-vulnerability-in-unified.html",
+      "publishedAt": "2025-07-03T04:24:00Z",
+      "processed_at": "2025-07-04T13:31:55.971870+00:00"
     },
     {
       "title": "Donkey Kong Bananza Gets An Eight-Minute Overview Trailer - Nintendo Life",
@@ -30,7 +90,7 @@
       "description": "DK...Donkey Kong!...",
       "url": "https://www.nintendolife.com/news/2025/07/donkey-kong-bananza-gets-an-eight-minute-overview-trailer",
       "publishedAt": "2025-07-03T03:00:00Z",
-      "processed_at": "2025-07-04T12:42:18.900215+00:00"
+      "processed_at": "2025-07-04T13:31:55.971870+00:00"
     },
     {
       "title": "Your Roku has secret menus and screens - here's how to unlock them - ZDNET",
@@ -40,60 +100,10 @@
       "description": "Pressing a specific button sequence on your Roku remote can open up a hidden world of features you l...",
       "url": "https://www.zdnet.com/home-and-office/home-entertainment/your-roku-has-secret-menus-and-screens-heres-how-to-unlock-them/",
       "publishedAt": "2025-07-03T02:00:00Z",
-      "processed_at": "2025-07-04T12:42:18.900215+00:00"
-    },
-    {
-      "title": "Nintendo Expands Switch 2's GameCube Library This Week - Nintendo Life",
-      "source": {
-        "name": "Nintendo Life"
-      },
-      "description": "Take to the pitch in Super Mario Strikers...",
-      "url": "https://www.nintendolife.com/news/2025/07/nintendo-expands-switch-2s-gamecube-library-this-week",
-      "publishedAt": "2025-07-03T01:21:25Z",
-      "processed_at": "2025-07-04T12:42:18.900215+00:00"
-    },
-    {
-      "title": "Mecha Break Classes Tier List - Best Strikers To Use - GameSpot",
-      "source": {
-        "name": "GameSpot"
-      },
-      "description": "Mecha Break is packed with over a dozen different Strikers to choose from, so which ones are the bes...",
-      "url": "https://www.gamespot.com/gallery/mecha-break-classes-tier-list-best-strikers-to-use/2900-6732/",
-      "publishedAt": "2025-07-02T23:29:40Z",
-      "processed_at": "2025-07-04T12:42:18.900215+00:00"
-    },
-    {
-      "title": "Two years in, Apple is now officially on Threads - 9to5Mac",
-      "source": {
-        "name": "9to5Mac"
-      },
-      "description": "It took a minute, but Apple has at last activated its official account on Threads, and it instantly ...",
-      "url": "https://9to5mac.com/2025/07/02/two-years-in-apple-is-now-officially-on-threads/",
-      "publishedAt": "2025-07-02T22:07:00Z",
-      "processed_at": "2025-07-04T12:42:18.900215+00:00"
-    },
-    {
-      "title": "Prepare to Share All Your Pics With Meta If You Turn On Facebook's New AI Photo Tool - CNET",
-      "source": {
-        "name": "CNET"
-      },
-      "description": "Facebook's camera roll cloud processing feature puts your photos and videos in the hands of Meta....",
-      "url": "https://www.cnet.com/tech/services-and-software/prepare-to-share-all-your-pics-with-meta-if-you-turn-on-facebooks-new-ai-photo-tool/",
-      "publishedAt": "2025-07-02T20:44:00Z",
-      "processed_at": "2025-07-04T12:42:18.900215+00:00"
-    },
-    {
-      "title": "Apple is launching 15+ new products this fall, here’s what’s coming - 9to5Mac",
-      "source": {
-        "name": "9to5Mac"
-      },
-      "description": "Apple has already launched a variety of new products this year, but there are 15+ more still on the ...",
-      "url": "https://9to5mac.com/2025/07/02/apple-launching-15-new-products-later-this-year/",
-      "publishedAt": "2025-07-02T20:32:00Z",
-      "processed_at": "2025-07-04T12:42:18.900215+00:00"
+      "processed_at": "2025-07-04T13:31:55.971870+00:00"
     }
   ],
-  "lastUpdated": "2025-07-04T12:42:18.900287+00:00",
+  "lastUpdated": "2025-07-04T13:31:55.971943+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
