@@ -1,7 +1,97 @@
 {
   "status": "success",
-  "totalResults": 8,
+  "totalResults": 10,
   "articles": [
+    {
+      "title": "Provider of covert surveillance app spills passwords for 62,000 users - Ars Technica",
+      "source": {
+        "name": "Ars Technica"
+      },
+      "description": "Creators say app is intended for parental monitoring. So why the emphasis on stealth?...",
+      "url": "https://arstechnica.com/security/2025/07/provider-of-covert-surveillance-app-spills-passwords-for-62000-users/",
+      "publishedAt": "2025-07-03T19:36:44Z",
+      "processed_at": "2025-07-04T19:17:12.285144+00:00"
+    },
+    {
+      "title": "Powered by Claude - Anthropic",
+      "source": {
+        "name": "Anthropic.com"
+      },
+      "description": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and ...",
+      "url": "https://www.anthropic.com/partners/powered-by-claude",
+      "publishedAt": "2025-07-03T18:56:05Z",
+      "processed_at": "2025-07-04T19:17:12.285144+00:00"
+    },
+    {
+      "title": "Google will give Pixel 6a owners up to $150 towards a new phone amid battery reduction - 9to5Google",
+      "source": {
+        "name": "9to5google.com"
+      },
+      "description": "Google has detailed the remedies for its upcoming Pixel 6a battery reduction update, including a $15...",
+      "url": "http://9to5google.com/2025/07/03/google-pixel-6a-credit-battery-reduction-update/",
+      "publishedAt": "2025-07-03T18:30:00Z",
+      "processed_at": "2025-07-04T19:17:12.285144+00:00"
+    },
+    {
+      "title": "Destiny 2 Edge of Fate: All Exotic Weapon Changes Detailed - The Game Post",
+      "source": {
+        "name": "Thegamepost.com"
+      },
+      "description": "Here's the complete list of all the exotic weapon changes coming with Destiny 2's Edge of Fate expan...",
+      "url": "https://thegamepost.com/destiny-2-edge-of-fate-exotic-weapon-changes/",
+      "publishedAt": "2025-07-03T18:23:19Z",
+      "processed_at": "2025-07-04T19:17:12.285144+00:00"
+    },
+    {
+      "title": "Stop Killing Games Campaign Surpasses One Million Signatures - Push Square",
+      "source": {
+        "name": "Push Square"
+      },
+      "description": "Sign it properly, folks...",
+      "url": "https://www.pushsquare.com/news/2025/07/stop-killing-games-campaign-surpasses-one-million-signatures-but-there-are-issues",
+      "publishedAt": "2025-07-03T18:19:27Z",
+      "processed_at": "2025-07-04T19:17:12.285144+00:00"
+    },
+    {
+      "title": "BioWare's Maligned Loot Shooter Anthem Will Go Offline Forever Next Year - Kotaku",
+      "source": {
+        "name": "Kotaku"
+      },
+      "description": "The failed loot shooter finally has an expiration date...",
+      "url": "https://kotaku.com/anthem-servers-still-up-shut-down-bioware-ea-1851785618",
+      "publishedAt": "2025-07-03T18:00:00Z",
+      "processed_at": "2025-07-04T19:17:12.285144+00:00"
+    },
+    {
+      "title": "E Ink is turning the laptop touchpad into an e-reader for AI apps - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "There’s no timeline on when it will show up in laptops, but E Ink’s new ePaper touchpad could give y...",
+      "url": "https://www.theverge.com/news/697688/eink-epaper-touchpad-laptop-intel-ai-pcs",
+      "publishedAt": "2025-07-03T17:37:33Z",
+      "processed_at": "2025-07-04T19:17:12.285144+00:00"
+    },
+    {
+      "title": "Inside the Vault – C.A.M.P Building and Combat Public Test Server - Bethesda.net",
+      "source": {
+        "name": "Bethesda.net"
+      },
+      "description": "The Public Test Server returns with a large combat balance pass and relaxed build rules for Adventur...",
+      "url": "https://bethesda.net/en/article/5xquFqAxRnrd7s3TcNBQ9j/inside-the-vault-c-a-m-p-building-and-combat-public-test-server",
+      "publishedAt": "2025-07-03T17:24:15Z",
+      "processed_at": "2025-07-04T19:17:12.285144+00:00"
+    },
+    {
+      "title": "July 2025 Pixel update should bring Android Auto, Wi-Fi fixes - 9to5Google",
+      "source": {
+        "name": "9to5google.com"
+      },
+      "description": "We’re not expecting the July 2025 Pixel update to start rolling out until next week, but Verizon’s c...",
+      "url": "http://9to5google.com/2025/07/03/july-2025-pixel-update-early-changelog/",
+      "publishedAt": "2025-07-03T17:20:00Z",
+      "processed_at": "2025-07-04T19:17:12.285144+00:00"
+    },
     {
       "title": "Nintendo Switch 2 restocks live — retailers to check now - Tom's Guide",
       "source": {
@@ -10,80 +100,10 @@
       "description": "We're checking all retailers for Switch 2 restock...",
       "url": "https://www.tomsguide.com/live/news/nintendo-switch-2-restocks-news-and-updates",
       "publishedAt": "2025-07-03T15:56:48Z",
-      "processed_at": "2025-07-04T18:28:43.980346+00:00"
-    },
-    {
-      "title": "Embrace the Freedom of the Open Road in GTA Online This Independence Day Weekend - Rockstar Games",
-      "source": {
-        "name": "Rockstargames.com"
-      },
-      "description": "This week’s GTA Online festivities put the spotlight on America's vibrant car culture and appetite f...",
-      "url": "https://www.rockstargames.com/newswire/article/39275255ko5kka/embrace-the-freedom-of-the-open-road-in-gta-online-this-independence-d",
-      "publishedAt": "2025-07-03T13:55:44Z",
-      "processed_at": "2025-07-04T18:28:43.980346+00:00"
-    },
-    {
-      "title": "Helldivers 2 is the first PlayStation-published Xbox game - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "The first PlayStation-published game is arriving on Xbox on August 26th. Helldivers 2 will bring cro...",
-      "url": "https://www.theverge.com/news/697430/helldivers-2-xbox-playstation-published-release-date",
-      "publishedAt": "2025-07-03T13:49:35Z",
-      "processed_at": "2025-07-04T18:28:43.980346+00:00"
-    },
-    {
-      "title": "[UPDATE] Romero Games Employee Says 'Whole Studio' Subject to Layoffs After Microsoft Pulls Funding for New Shooter from Doom Co-Creator John Romero - IGN",
-      "source": {
-        "name": "IGN"
-      },
-      "description": "Romero Games, the studio founded by Doom co-creator John Romero and Brenda Romero, has said it has b...",
-      "url": "https://www.ign.com/articles/update-romero-games-employee-says-whole-studio-subject-to-layoffs-after-microsoft-pulls-funding-for-new-shooter-from-doom-co-creator-john-romero",
-      "publishedAt": "2025-07-03T13:30:00Z",
-      "processed_at": "2025-07-04T18:28:43.980346+00:00"
-    },
-    {
-      "title": "EA reportedly expects Battlefield 6 to have 100 million players, three times more than the series' best seller - Eurogamer",
-      "source": {
-        "name": "Eurogamer.net"
-      },
-      "description": "EA's executive leadership has reportedly set a goal of 100m players for the upcoming Battlefield gam...",
-      "url": "https://www.eurogamer.net/ea-reportedly-expects-battlefield-6-to-have-100-million-players-three-times-more-than-the-series-best-seller",
-      "publishedAt": "2025-07-03T13:11:40Z",
-      "processed_at": "2025-07-04T18:28:43.980346+00:00"
-    },
-    {
-      "title": "iPhone 17 Pro Max Battery Capacity Leaked - MacRumors",
-      "source": {
-        "name": "MacRumors"
-      },
-      "description": "The iPhone 17 Pro Max will feature the biggest ever battery in an iPhone, according to the Weibo lea...",
-      "url": "https://www.macrumors.com/2025/07/03/iphone-17-pro-max-battery-capacity-leaked/",
-      "publishedAt": "2025-07-03T12:40:39Z",
-      "processed_at": "2025-07-04T18:28:43.980346+00:00"
-    },
-    {
-      "title": "Samsung seems to have leaked its own trifold phone design - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "Samsung may have inadvertently given us a first look at its upcoming “multifold” device in the lates...",
-      "url": "https://www.theverge.com/news/697395/samsung-galaxy-trifold-foldable-leaks-one-ui-8",
-      "publishedAt": "2025-07-03T12:31:48Z",
-      "processed_at": "2025-07-04T18:28:43.980346+00:00"
-    },
-    {
-      "title": "Full List of Adventure Effects in Pokémon GO - Pokémon GO Hub",
-      "source": {
-        "name": "Pokemon GO Hub"
-      },
-      "description": "In Pokémon GO, some Pokémon have special moves that can cause Adventure Effects. Adventure Effects a...",
-      "url": "https://pokemongohub.net/post/guide/full-list-of-adventure-effects-in-pokemon-go/",
-      "publishedAt": "2025-07-03T12:28:02Z",
-      "processed_at": "2025-07-04T18:28:43.980346+00:00"
+      "processed_at": "2025-07-04T19:17:12.285144+00:00"
     }
   ],
-  "lastUpdated": "2025-07-04T18:28:43.980414+00:00",
+  "lastUpdated": "2025-07-04T19:17:12.285215+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
