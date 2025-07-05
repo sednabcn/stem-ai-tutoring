@@ -1,7 +1,27 @@
 {
   "status": "success",
-  "totalResults": 9,
+  "totalResults": 10,
   "articles": [
+    {
+      "title": "The 100 Best Games of the 21st Century - Giant Bomb",
+      "source": {
+        "name": "Giantbomb.com"
+      },
+      "description": "What better time to determine the best games of the century than when we're 25% of the way through i...",
+      "url": "https://www.giantbomb.com/articles/the-100-best-games-of-the-21st-century/1100-6526/",
+      "publishedAt": "2025-07-04T19:08:56Z",
+      "processed_at": "2025-07-05T23:19:26.932725+00:00"
+    },
+    {
+      "title": "Microsoft finally bids farewell to PowerShell 2.0 - theregister.com",
+      "source": {
+        "name": "Theregister.com"
+      },
+      "description": ": Venerable command line tool to depart Windows...",
+      "url": "https://www.theregister.com/2025/07/04/microsoft_finally_bids_farewell_to/",
+      "publishedAt": "2025-07-04T17:28:00Z",
+      "processed_at": "2025-07-05T23:19:26.932725+00:00"
+    },
     {
       "title": "The best Apple 4th of July sale includes the newest iPad and iPad mini at record-low prices - Yahoo",
       "source": {
@@ -10,7 +30,17 @@
       "description": "Take a bite out of these juicy sales, like $150 off a MacBook Air and $50 off noise-cancelling AirPo...",
       "url": "https://tech.yahoo.com/deals/article/the-best-apple-4th-of-july-sale-includes-the-newest-ipad-and-ipad-mini-at-record-low-prices-165232027.html",
       "publishedAt": "2025-07-04T16:14:59Z",
-      "processed_at": "2025-07-05T22:18:48.992985+00:00"
+      "processed_at": "2025-07-05T23:19:26.932725+00:00"
+    },
+    {
+      "title": "Poll: What Review Score Would You Give Death Stranding 2? - Push Square",
+      "source": {
+        "name": "Push Square"
+      },
+      "description": "Special delivery...",
+      "url": "https://www.pushsquare.com/features/poll-what-review-score-would-you-give-death-stranding-2",
+      "publishedAt": "2025-07-04T16:00:00Z",
+      "processed_at": "2025-07-05T23:19:26.932725+00:00"
     },
     {
       "title": "Nintendo Switch 2 restocks live — retailers to check now - Tom's Guide",
@@ -20,7 +50,7 @@
       "description": "We're checking all retailers for Switch 2 restock...",
       "url": "https://www.tomsguide.com/live/news/nintendo-switch-2-restocks-news-and-updates",
       "publishedAt": "2025-07-04T15:47:32Z",
-      "processed_at": "2025-07-05T22:18:48.992985+00:00"
+      "processed_at": "2025-07-05T23:19:26.932725+00:00"
     },
     {
       "title": "Laid-off workers should use AI to manage their emotions, says Xbox exec - The Verge",
@@ -30,7 +60,17 @@
       "description": "Xbox executive Matt Turnbull suggested using AI to “help reduce the emotional and cognitive load tha...",
       "url": "https://www.theverge.com/news/698468/xbox-exec-reccommends-ai-to-laid-off-staff",
       "publishedAt": "2025-07-04T15:23:04Z",
-      "processed_at": "2025-07-05T22:18:48.992985+00:00"
+      "processed_at": "2025-07-05T23:19:26.932725+00:00"
+    },
+    {
+      "title": "World of Warcraft : What’s Up With the Collector’s Bounty? - Kotaku",
+      "source": {
+        "name": "Kotaku"
+      },
+      "description": "For the month of July, lean right into that terrible grinding obsession...",
+      "url": "https://kotaku.com/world-of-warcraft-collectors-bounty-july-legacy-content-1851785640",
+      "publishedAt": "2025-07-04T15:00:00Z",
+      "processed_at": "2025-07-05T23:19:26.932725+00:00"
     },
     {
       "title": "PS5 Fans Divided Over Helldivers 2 on Xbox Pivot - Push Square",
@@ -40,7 +80,17 @@
       "description": "\"Get ready for irrelevance\"...",
       "url": "https://www.pushsquare.com/news/2025/07/ps5-fans-divided-over-helldivers-2-on-xbox-pivot",
       "publishedAt": "2025-07-04T15:00:00Z",
-      "processed_at": "2025-07-05T22:18:48.992985+00:00"
+      "processed_at": "2025-07-05T23:19:26.932725+00:00"
+    },
+    {
+      "title": "Forza Motorsport \"is no more\", claims former Turn 10 employee, following Microsoft cuts - Eurogamer",
+      "source": {
+        "name": "Eurogamer.net"
+      },
+      "description": "Forza Motorsport \"is no more\", according to a former employee at Turn 10 Studios, though the Horizon...",
+      "url": "https://www.eurogamer.net/forza-motorsport-is-no-more-claims-former-turn-10-employee-following-microsoft-cuts",
+      "publishedAt": "2025-07-04T14:53:11Z",
+      "processed_at": "2025-07-05T23:19:26.932725+00:00"
     },
     {
       "title": "Responding To Bungie’s Comments On My ‘Destiny 2’ Edge Of Fate Article - Forbes",
@@ -50,50 +100,10 @@
       "description": "Earlier this week, I wrote an article about what I felt were some problems with the upcoming Destiny...",
       "url": "https://www.forbes.com/sites/paultassi/2025/07/04/responding-to-bungies-comments-on-my-destiny-2-edge-of-fate-article/",
       "publishedAt": "2025-07-04T13:57:58Z",
-      "processed_at": "2025-07-05T22:18:48.992985+00:00"
-    },
-    {
-      "title": "Leaked Identifiers Reveal Apple’s Upcoming M5 And M6 Macs, A Mysterious A18 Pro MacBook, And An Under‑Development Mac Pro, Hinting At Radical Upgrades Across The Entire Lineup - Wccftech",
-      "source": {
-        "name": "Wccftech"
-      },
-      "description": "Latest leak shows identifiers for Apple''s upcoming M5 and M6 MacBook Pro models, along with details...",
-      "url": "https://wccftech.com/leaked-identifiers-of-m5-and-m6-macs-and-a18-pro-macbook/",
-      "publishedAt": "2025-07-04T12:47:00Z",
-      "processed_at": "2025-07-05T22:18:48.992985+00:00"
-    },
-    {
-      "title": "All of the best 4th of July deals: Samsung, Google, accessories, smart home, more - 9to5Google",
-      "source": {
-        "name": "9to5google.com"
-      },
-      "description": "This is your roundup of all the most notable 4th of July deals we have gathered today and over the.....",
-      "url": "http://9to5google.com/2025/07/04/best-4th-july-deals-samsung-google/",
-      "publishedAt": "2025-07-04T12:36:00Z",
-      "processed_at": "2025-07-05T22:18:48.992985+00:00"
-    },
-    {
-      "title": "Forget Prime Day — Best Buy's 4th of July sale drops prices on laptops, monitors, gaming hardware, and more - Windows Central",
-      "source": {
-        "name": "Windows Central"
-      },
-      "description": "Best Buy's anti-Prime Day event is already making it easy to shop for deep discounts on some of our ...",
-      "url": "https://www.windowscentral.com/hardware/laptops/best-buy-anti-prime-day-deals",
-      "publishedAt": "2025-07-04T12:28:58Z",
-      "processed_at": "2025-07-05T22:18:48.992985+00:00"
-    },
-    {
-      "title": "New Galaxy Z Fold 7 leaks may give first real look at Samsung’s slimmer foldable - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "Samsung’s upcoming Galaxy Z Fold 7 has been given the thinner, sleeker glow-up we expected, if leake...",
-      "url": "https://www.theverge.com/news/698372/samsung-galaxy-z-fold-7-photo-leaks",
-      "publishedAt": "2025-07-04T11:56:52Z",
-      "processed_at": "2025-07-05T22:18:48.992985+00:00"
+      "processed_at": "2025-07-05T23:19:26.932725+00:00"
     }
   ],
-  "lastUpdated": "2025-07-05T22:18:48.993062+00:00",
+  "lastUpdated": "2025-07-05T23:19:26.932799+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
