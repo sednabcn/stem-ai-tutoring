@@ -1,100 +1,60 @@
 {
   "status": "success",
-  "totalResults": 9,
+  "totalResults": 5,
   "articles": [
     {
-      "title": "Samsung is about to find out if Ultra is enough - The Verge",
+      "title": "Breaking: Scientists discover new method for faster learning",
       "source": {
-        "name": "The Verge"
+        "name": "Science Daily"
       },
-      "description": "Samsung’s summer 2025 edition of Unpacked promises some new designs for its foldable lineup. After y...",
-      "url": "https://www.theverge.com/samsung/697322/samsung-galaxy-unpacked-2025-z-fold-7-ultra",
-      "publishedAt": "2025-07-05T15:00:00Z",
-      "processed_at": "2025-07-06T19:16:38.531867+00:00"
+      "description": "Revolutionary approach to accelerated learning techniques...",
+      "url": "#",
+      "publishedAt": "2025-07-06T20:22:47.975156+00:00",
+      "processed_at": "2025-07-06T20:22:47.975156+00:00"
     },
     {
-      "title": "How Can We Trust Anything Xbox Says Now? - Forbes",
+      "title": "Education News: Online tutoring platform shows 85% improvement rates",
       "source": {
-        "name": "Forbes"
+        "name": "EdTech Weekly"
       },
-      "description": "The Xbox brand seems to be squandering its goodwill by saying one thing and then doing another over ...",
-      "url": "https://www.forbes.com/sites/paultassi/2025/07/05/how-can-we-trust-anything-xbox-says-now/",
-      "publishedAt": "2025-07-05T14:44:51Z",
-      "processed_at": "2025-07-06T19:16:38.531867+00:00"
+      "description": "Comprehensive study reveals significant learning gains...",
+      "url": "#",
+      "publishedAt": "2025-07-06T20:22:47.975156+00:00",
+      "processed_at": "2025-07-06T20:22:47.975156+00:00"
     },
     {
-      "title": "Some Google Pixel owners report slow to wake, laggy lockscreen on Android 16 - 9to5Google",
+      "title": "Tech Update: AI-powered study tools gain popularity",
       "source": {
-        "name": "9to5google.com"
+        "name": "TechCrunch"
       },
-      "description": "Some Google Pixel owners have noticed that their phone is slow to wake up or has a laggy lockscreen ...",
-      "url": "http://9to5google.com/2025/07/05/google-pixel-slow-lockscreen-android-16/",
-      "publishedAt": "2025-07-05T14:30:00Z",
-      "processed_at": "2025-07-06T19:16:38.531867+00:00"
+      "description": "Artificial intelligence transforms education...",
+      "url": "#",
+      "publishedAt": "2025-07-06T20:22:47.975156+00:00",
+      "processed_at": "2025-07-06T20:22:47.975156+00:00"
     },
     {
-      "title": "The Apple 4th of July deals you can still get include the newest iPad and iPad mini at record-low prices - Yahoo",
+      "title": "Research: Personalized learning shows promising results",
       "source": {
-        "name": "Yahoo Entertainment"
+        "name": "Educational Research"
       },
-      "description": "Take a bite out of these juicy sales, like $150 off a MacBook Air and $50 off noise-cancelling AirPo...",
-      "url": "https://tech.yahoo.com/deals/article/the-apple-4th-of-july-deals-you-can-still-get-include-the-newest-ipad-and-ipad-mini-at-record-low-prices-161459218.html",
-      "publishedAt": "2025-07-05T14:28:13Z",
-      "processed_at": "2025-07-06T19:16:38.531867+00:00"
+      "description": "Tailored educational methods demonstrate effectiveness...",
+      "url": "#",
+      "publishedAt": "2025-07-06T20:22:47.975156+00:00",
+      "processed_at": "2025-07-06T20:22:47.975156+00:00"
     },
     {
-      "title": "I Hate Survival Games, But I’m Obsessed With ‘Dune: Awakening’ - Forbes",
+      "title": "Innovation: New classroom tech boosts engagement",
       "source": {
-        "name": "Forbes"
+        "name": "Digital Learning"
       },
-      "description": "Despite my appreciation for the books and movies, I was not really planning to sink time into Dune: ...",
-      "url": "https://www.forbes.com/sites/paultassi/2025/07/05/i-hate-survival-games-but-im-obsessed-with-dune-awakening/",
-      "publishedAt": "2025-07-05T14:19:33Z",
-      "processed_at": "2025-07-06T19:16:38.531867+00:00"
-    },
-    {
-      "title": "I’m playing Mario Kart World every day, so I guess it was a good launch game - Polygon",
-      "source": {
-        "name": "Polygon"
-      },
-      "description": "Mario Kart World was the biggest Nintendo Switch 2 launch games and while it seemed like a light lin...",
-      "url": "https://www.polygon.com/gaming/610985/mario-kart-world-switch-2-launch-games-lineup",
-      "publishedAt": "2025-07-05T14:00:00Z",
-      "processed_at": "2025-07-06T19:16:38.531867+00:00"
-    },
-    {
-      "title": "Here's What Might Leave Xbox Game Pass In August 2025 - Pure Xbox",
-      "source": {
-        "name": "Pure Xbox"
-      },
-      "description": "Some early predictions!...",
-      "url": "https://www.purexbox.com/news/2025/07/heres-what-might-leave-xbox-game-pass-in-august-2025",
-      "publishedAt": "2025-07-05T13:31:08Z",
-      "processed_at": "2025-07-06T19:16:38.531867+00:00"
-    },
-    {
-      "title": "Android Auto gets redesigned Spotify app with ‘Jam’ support & more [Gallery] - 9to5Google",
-      "source": {
-        "name": "9to5google.com"
-      },
-      "description": "Spotify is rolling out a new Android Auto app that includes support for Jam and a few other new twea...",
-      "url": "http://9to5google.com/2025/07/05/android-auto-spotify-app-redesign/",
-      "publishedAt": "2025-07-05T13:15:00Z",
-      "processed_at": "2025-07-06T19:16:38.531867+00:00"
-    },
-    {
-      "title": "Far Cry 5 graphical overhaul makes it look like a PlayStation 6 game - GAMINGbible",
-      "source": {
-        "name": "Gamingbible.com"
-      },
-      "description": "A new graphics overhaul for Far Cry 5 has given the game a next-gen facelift....",
-      "url": "https://www.gamingbible.com/news/platform/pc/far-cry-5-graphics-overhaul-141479-20250701",
-      "publishedAt": "2025-07-05T11:30:02Z",
-      "processed_at": "2025-07-06T19:16:38.531867+00:00"
+      "description": "Interactive technologies boost student participation...",
+      "url": "#",
+      "publishedAt": "2025-07-06T20:22:47.975156+00:00",
+      "processed_at": "2025-07-06T20:22:47.975156+00:00"
     }
   ],
-  "lastUpdated": "2025-07-06T19:16:38.531937+00:00",
-  "source": "NewsAPI",
+  "lastUpdated": "2025-07-06T20:22:47.975170+00:00",
+  "source": "Fallback",
   "metadata": {
     "processed_by": "GitHub Actions",
     "script_version": "2.0.0",
