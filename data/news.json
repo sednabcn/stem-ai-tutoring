@@ -1,7 +1,47 @@
 {
   "status": "success",
-  "totalResults": 10,
+  "totalResults": 9,
   "articles": [
+    {
+      "title": "Samsung is about to find out if Ultra is enough - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "Samsung’s summer 2025 edition of Unpacked promises some new designs for its foldable lineup. After y...",
+      "url": "https://www.theverge.com/samsung/697322/samsung-galaxy-unpacked-2025-z-fold-7-ultra",
+      "publishedAt": "2025-07-05T15:00:00Z",
+      "processed_at": "2025-07-06T17:18:08.092817+00:00"
+    },
+    {
+      "title": "How Can We Trust Anything Xbox Says Now? - Forbes",
+      "source": {
+        "name": "Forbes"
+      },
+      "description": "The Xbox brand seems to be squandering its goodwill by saying one thing and then doing another over ...",
+      "url": "https://www.forbes.com/sites/paultassi/2025/07/05/how-can-we-trust-anything-xbox-says-now/",
+      "publishedAt": "2025-07-05T14:44:51Z",
+      "processed_at": "2025-07-06T17:18:08.092817+00:00"
+    },
+    {
+      "title": "Some Google Pixel owners report slow to wake, laggy lockscreen on Android 16 - 9to5Google",
+      "source": {
+        "name": "9to5google.com"
+      },
+      "description": "Some Google Pixel owners have noticed that their phone is slow to wake up or has a laggy lockscreen ...",
+      "url": "http://9to5google.com/2025/07/05/google-pixel-slow-lockscreen-android-16/",
+      "publishedAt": "2025-07-05T14:30:00Z",
+      "processed_at": "2025-07-06T17:18:08.092817+00:00"
+    },
+    {
+      "title": "Android Auto gets redesigned Spotify app with ‘Jam’ support & more [Gallery] - 9to5Google",
+      "source": {
+        "name": "9to5google.com"
+      },
+      "description": "Spotify is rolling out a new Android Auto app that includes support for Jam and a few other new twea...",
+      "url": "http://9to5google.com/2025/07/05/android-auto-spotify-app-redesign/",
+      "publishedAt": "2025-07-05T13:15:00Z",
+      "processed_at": "2025-07-06T17:18:08.092817+00:00"
+    },
     {
       "title": "The curious rise of giant tablets on wheels - Ars Technica",
       "source": {
@@ -10,7 +50,27 @@
       "description": "Hands-on with KTC’s 32-inch Android tablet on a rolling pedestal, the A32Q7 Pro....",
       "url": "https://arstechnica.com/gadgets/2025/07/the-curious-rise-of-giant-tablets-on-wheels/",
       "publishedAt": "2025-07-05T11:00:23Z",
-      "processed_at": "2025-07-06T16:24:34.335100+00:00"
+      "processed_at": "2025-07-06T17:18:08.092817+00:00"
+    },
+    {
+      "title": "Skyrim: Ultima looks like the game of our dreams - GAMINGbible",
+      "source": {
+        "name": "Gamingbible.com"
+      },
+      "description": "Bethesda's Tamriel has never looked better than in Skyrim Ultima....",
+      "url": "https://www.gamingbible.com/news/platform/pc/skyrim-ultima-game-dreams-157370-20250630",
+      "publishedAt": "2025-07-05T11:00:01Z",
+      "processed_at": "2025-07-06T17:18:08.092817+00:00"
+    },
+    {
+      "title": "ASUS Ascent GX10 with GB10 Blackwell Superchip launches July 22, marks NVIDIA’s entry into 'desktop CPU' market - VideoCardz.com",
+      "source": {
+        "name": "Videocardz.com"
+      },
+      "description": "ASUS Ascent GX10 launches July 22 ASUS has confirmed the release date of its new AI mini-PC, the Asc...",
+      "url": "https://videocardz.com/newz/asus-ascent-gx10-with-gb10-blackwell-superchip-launches-july-22-marks-nvidias-entry-into-desktop-cpu-market",
+      "publishedAt": "2025-07-05T10:03:00Z",
+      "processed_at": "2025-07-06T17:18:08.092817+00:00"
     },
     {
       "title": "Perfect Dark Voice Actor Calls On Fans To Help Series \"Survive\" - Nintendo Life",
@@ -20,90 +80,20 @@
       "description": "Microsoft axed the studio behind the new project this week...",
       "url": "https://www.nintendolife.com/news/2025/07/perfect-dark-voice-actor-calls-on-fans-to-help-series-survive",
       "publishedAt": "2025-07-05T10:00:00Z",
-      "processed_at": "2025-07-06T16:24:34.335100+00:00"
+      "processed_at": "2025-07-06T17:18:08.092817+00:00"
     },
     {
-      "title": "I’ve been using Breville’s portable induction stove for 2 weeks — and now I want to replace my gas range - Tom's Guide",
+      "title": "‘It Overheats Slightly:’ Man Says This Happens When a Northstar V-8’s Head Gasket Fails. Then He Shows the Car - Motor1.com",
       "source": {
-        "name": "Tom's Guide"
+        "name": "Motor1 "
       },
-      "description": "The Breville Control Freak Home is impressive, if expensive....",
-      "url": "https://www.tomsguide.com/home/kitchen-dining/ive-been-using-brevilles-portable-induction-stove-for-2-weeks-and-now-i-want-to-replace-my-gas-range",
-      "publishedAt": "2025-07-05T05:05:15Z",
-      "processed_at": "2025-07-06T16:24:34.335100+00:00"
-    },
-    {
-      "title": "Square Enix hosting massive Nintendo Switch eShop sale - Nintendo Everything",
-      "source": {
-        "name": "Nintendoeverything.com"
-      },
-      "description": "Square Enix is hosting one of its biggest Nintendo eShop sales ever for Switch right now, with many ...",
-      "url": "https://nintendoeverything.com/square-enix-hosting-huge-nintendo-switch-eshop-sale-with-lowest-prices-ever-for-final-fantasy-9-nier-automata-octopath-traveler-2-more/",
-      "publishedAt": "2025-07-05T04:54:50Z",
-      "processed_at": "2025-07-06T16:24:34.335100+00:00"
-    },
-    {
-      "title": "Xbox Producer Says Laid-Off Devs Can Use AI For 'Emotional Clarity' - 80 Level",
-      "source": {
-        "name": "80.lv"
-      },
-      "description": "\"Hey, ChatGPT, what should I do when I can't read the room?\"...",
-      "url": "https://80.lv/articles/xbox-producer-offers-laid-off-devs-to-use-ai-for-emotional-clarity-confidence",
-      "publishedAt": "2025-07-05T03:52:19Z",
-      "processed_at": "2025-07-06T16:24:34.335100+00:00"
-    },
-    {
-      "title": "Just days after joining Game Pass, the Xbox PC edition of Call of Duty: WW2 is taken offline for \"an issue\" - Windows Central",
-      "source": {
-        "name": "Windows Central"
-      },
-      "description": "In what might be the understatementiest understatement ever, Call of Duty finally acknowledges issue...",
-      "url": "https://www.windowscentral.com/gaming/pc-gaming/just-days-after-joining-game-pass-the-xbox-pc-edition-of-call-of-duty-ww2-is-taken-offline-for-an-issue",
-      "publishedAt": "2025-07-05T03:02:52Z",
-      "processed_at": "2025-07-06T16:24:34.335100+00:00"
-    },
-    {
-      "title": "Poll: How Many Hours Have You Spent In Mario Kart World So Far? - Nintendo Life",
-      "source": {
-        "name": "Nintendo Life"
-      },
-      "description": "Go on, tell us...",
-      "url": "https://www.nintendolife.com/news/2025/07/poll-how-many-hours-have-you-spent-in-mario-kart-world-so-far",
-      "publishedAt": "2025-07-05T01:30:00Z",
-      "processed_at": "2025-07-06T16:24:34.335100+00:00"
-    },
-    {
-      "title": "Deal: Samsung Galaxy Z Fold 6 price drops by $545! - Android Authority",
-      "source": {
-        "name": "Android Authority"
-      },
-      "description": "The Samsung Galaxy Z Fold 6 successor is coming soon, but that doesn't make this model obsolete. It'...",
-      "url": "https://www.androidauthority.com/samsung-galaxy-z-fold-6-deal-7-3574231/",
-      "publishedAt": "2025-07-05T00:31:23Z",
-      "processed_at": "2025-07-06T16:24:34.335100+00:00"
-    },
-    {
-      "title": "What’s new in Android’s July 2025 Google System Updates - 9to5Google",
-      "source": {
-        "name": "9to5google.com"
-      },
-      "description": "The monthly “Google System Release Notes” primarily detail what’s new in Play services, Play Store, ...",
-      "url": "http://9to5google.com/2025/07/04/july-2025-google-system-updates/",
-      "publishedAt": "2025-07-05T00:18:00Z",
-      "processed_at": "2025-07-06T16:24:34.335100+00:00"
-    },
-    {
-      "title": "Take advantage of this rare deal to get a Pixel Watch for only $60 - Android Police",
-      "source": {
-        "name": "Android Police"
-      },
-      "description": "Sleek, stylish, and affordable...",
-      "url": "https://www.androidpolice.com/google-pixel-watch-60-deal/",
-      "publishedAt": "2025-07-05T00:08:00Z",
-      "processed_at": "2025-07-06T16:24:34.335100+00:00"
+      "description": "In a viral video, a man shows a car with a V-8 engine affected by the \"Northstar Condition.\" Here's ...",
+      "url": "https://www.motor1.com/news/764714/northstar-v-8-head-gasket/",
+      "publishedAt": "2025-07-05T09:04:30Z",
+      "processed_at": "2025-07-06T17:18:08.092817+00:00"
     }
   ],
-  "lastUpdated": "2025-07-06T16:24:34.335172+00:00",
+  "lastUpdated": "2025-07-06T17:18:08.092911+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
