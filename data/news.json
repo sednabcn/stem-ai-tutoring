@@ -1,7 +1,47 @@
 {
   "status": "success",
-  "totalResults": 8,
+  "totalResults": 9,
   "articles": [
+    {
+      "title": "Prime Day Anker Deals: Over 30 Offers on Top-Rated Mobile, Home and Security Tech - CNET",
+      "source": {
+        "name": "CNET"
+      },
+      "description": "Anker makes excellent headphones, earbuds and home and security tech, which you can score for less w...",
+      "url": "https://www.cnet.com/deals/prime-day-anker-deals-2025-07-06/",
+      "publishedAt": "2025-07-06T17:19:41Z",
+      "processed_at": "2025-07-07T19:18:01.269165+00:00"
+    },
+    {
+      "title": "Super Street Fighter 2 Turbo competitor releases new tier list in 2025 - EventHubs",
+      "source": {
+        "name": "EventHubs"
+      },
+      "description": "It's been over 30 years since Super Street Fighter 2 Turbo was released in the arcades. Despite how ...",
+      "url": "https://www.eventhubs.com/news/2025/jul/06/ssf2t-new-tier-list-2025/",
+      "publishedAt": "2025-07-06T16:57:16Z",
+      "processed_at": "2025-07-07T19:18:01.269165+00:00"
+    },
+    {
+      "title": "Stop Killing Games Reaches 1 Million Signatures as Players Continue Fight for Game Preservation - IGN",
+      "source": {
+        "name": "IGN"
+      },
+      "description": "The Stop Killing Games initiative has reached the crucial 1 million signatures milestone in its ques...",
+      "url": "https://www.ign.com/articles/stop-killing-games-reaches-1-million-signatures-as-players-continue-fight-for-game-preservation",
+      "publishedAt": "2025-07-06T16:50:46Z",
+      "processed_at": "2025-07-07T19:18:01.269165+00:00"
+    },
+    {
+      "title": "The Best Deals Today: Sony WH-1000XM4 Headphones, LEGO Disney, Splatoon 3, and More - IGN",
+      "source": {
+        "name": "IGN"
+      },
+      "description": "",
+      "url": "https://www.ign.com/articles/best-deals-for-july-6-2025",
+      "publishedAt": "2025-07-06T16:18:18Z",
+      "processed_at": "2025-07-07T19:18:01.269165+00:00"
+    },
     {
       "title": "This Bizarre Electronic Ink Morphs in Real Time and Could Power a Whole New Class of Bendable, Wearable Devices - Rude Baguette",
       "source": {
@@ -10,7 +50,27 @@
       "description": "IN A NUTSHELL 🔬 Scientists have developed a novel electronic ink that allows devices to switch betwe...",
       "url": "https://www.rudebaguette.com/en/2025/07/this-bizarre-electronic-ink-morphs-in-real-time-and-could-power-a-whole-new-class-of-bendable-wearable-devices/",
       "publishedAt": "2025-07-06T16:11:23Z",
-      "processed_at": "2025-07-07T18:30:26.684244+00:00"
+      "processed_at": "2025-07-07T19:18:01.269165+00:00"
+    },
+    {
+      "title": "Apple Launching These 15+ Products Later This Year - MacRumors",
+      "source": {
+        "name": "MacRumors"
+      },
+      "description": "The calendar has turned to July, meaning that 2025 is now more than half over. And while the summer ...",
+      "url": "https://www.macrumors.com/2025/07/06/apple-launching-15-products-later-this-year/",
+      "publishedAt": "2025-07-06T15:01:00Z",
+      "processed_at": "2025-07-07T19:18:01.269165+00:00"
+    },
+    {
+      "title": "Switch 2 has actual competition from Nintendo clones - Polygon",
+      "source": {
+        "name": "Polygon"
+      },
+      "description": "The real competition for the Switch 2 may be coming from games that emulate Nintendo’s brand of gami...",
+      "url": "https://www.polygon.com/gaming/610770/switch-2-real-competition-nintendo-clones",
+      "publishedAt": "2025-07-06T15:00:00Z",
+      "processed_at": "2025-07-07T19:18:01.269165+00:00"
     },
     {
       "title": "After 8 years of playing D&D nonstop, I’ve finally tried its biggest alternative - Polygon",
@@ -20,70 +80,20 @@
       "description": "After playing exclusively DnD 5e, this is what I learned from trying Dungeon Crawl Classics...",
       "url": "https://www.polygon.com/tabletop-games/610875/dnd-alternative-dungeon-crawl-classics-old-school",
       "publishedAt": "2025-07-06T14:00:00Z",
-      "processed_at": "2025-07-07T18:30:26.684244+00:00"
+      "processed_at": "2025-07-07T19:18:01.269165+00:00"
     },
     {
-      "title": "Apple iPhone 17 Pro Max: New Leak Confirms Major Design Upgrade - Forbes",
+      "title": "Revolutionary Satellite Data Reveals Unmatched Detail of How Oceans Absorb Carbon - The Daily Galaxy",
       "source": {
-        "name": "Forbes"
+        "name": "The Daily Galaxy --Great Discoveries Channel"
       },
-      "description": "When the next iPhones go on sale this fall, a new report suggests that a redesign for one model coul...",
-      "url": "https://www.forbes.com/sites/davidphelan/2025/07/06/apple-iphone-17-pro-max-new-leak-confirms-major-design-upgrade/",
-      "publishedAt": "2025-07-06T13:34:00Z",
-      "processed_at": "2025-07-07T18:30:26.684244+00:00"
-    },
-    {
-      "title": "Wayland 1.24 Released With Few Improvements - Phoronix",
-      "source": {
-        "name": "Phoronix"
-      },
-      "description": "Minutes ago Simon Ser announced the official release of Wayland 1.24....",
-      "url": "https://www.phoronix.com/news/Wayland-1.24-Released",
-      "publishedAt": "2025-07-06T13:15:00Z",
-      "processed_at": "2025-07-07T18:30:26.684244+00:00"
-    },
-    {
-      "title": "Your Roku has secret menus and settings - here's how to access them - ZDNet",
-      "source": {
-        "name": "ZDNet"
-      },
-      "description": "Tapping a secret button combo on your Roku remote unlocks a hidden menu packed with features most us...",
-      "url": "https://www.zdnet.com/home-and-office/home-entertainment/your-roku-has-secret-menus-and-settings-heres-how-to-access-them/",
-      "publishedAt": "2025-07-06T13:11:00Z",
-      "processed_at": "2025-07-07T18:30:26.684244+00:00"
-    },
-    {
-      "title": "I finally started using YouTube Music and I should have sooner - Android Police",
-      "source": {
-        "name": "Android Police"
-      },
-      "description": "Seriously, get on YouTube Music...",
-      "url": "https://www.androidpolice.com/started-using-youtube-music-and-should-have-sooner/",
-      "publishedAt": "2025-07-06T13:08:00Z",
-      "processed_at": "2025-07-07T18:30:26.684244+00:00"
-    },
-    {
-      "title": "“We’ve Never Reached This Level Before”: German Scientists Smash Nuclear Fusion Record in Leap Toward Infinite Clean Energy - Rude Baguette",
-      "source": {
-        "name": "Rudebaguette.com"
-      },
-      "description": "IN A NUTSHELL 🌟 The Wendelstein 7-X stellarator in Germany has set a new record in nuclear fusion pe...",
-      "url": "https://www.rudebaguette.com/en/2025/07/weve-never-reached-this-level-before-german-scientists-smash-nuclear-fusion-record-in-leap-toward-infinite-clean-energy/",
-      "publishedAt": "2025-07-06T13:01:18Z",
-      "processed_at": "2025-07-07T18:30:26.684244+00:00"
-    },
-    {
-      "title": "'I Much Prefer PS Plus' Lifecycle Management Strategy': Devs Weigh in on Crippling Xbox Game Pass Impact - Push Square",
-      "source": {
-        "name": "Push Square"
-      },
-      "description": "In the aftermath of massive layoffs...",
-      "url": "https://www.pushsquare.com/news/2025/07/i-much-prefer-ps-plus-lifecycle-management-strategy-devs-weigh-in-on-crippling-xbox-game-pass-impact",
-      "publishedAt": "2025-07-06T13:00:00Z",
-      "processed_at": "2025-07-07T18:30:26.684244+00:00"
+      "description": "New satellite technology unveils groundbreaking insights into how oceans absorb carbon....",
+      "url": "https://dailygalaxy.com/2025/07/satellite-data-detail-oceans-carbon/",
+      "publishedAt": "2025-07-06T14:00:00Z",
+      "processed_at": "2025-07-07T19:18:01.269165+00:00"
     }
   ],
-  "lastUpdated": "2025-07-07T18:30:26.684315+00:00",
+  "lastUpdated": "2025-07-07T19:18:01.269238+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
