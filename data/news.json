@@ -1,7 +1,57 @@
 {
   "status": "success",
-  "totalResults": 9,
+  "totalResults": 10,
   "articles": [
+    {
+      "title": "Microsoft’s Edge browser now loads sites even faster - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "Microsoft says it has further improved its Edge browser’s responsiveness by continuing to migrate it...",
+      "url": "https://www.theverge.com/news/699783/microsoft-edge-browser-speed-rendering",
+      "publishedAt": "2025-07-07T21:14:31Z",
+      "processed_at": "2025-07-08T21:20:24.618030+00:00"
+    },
+    {
+      "title": "HP Is Clearing Out Its Stock of Omen RTX 4090 Gaming PCs at an Incredible Price - IGN",
+      "source": {
+        "name": "IGN"
+      },
+      "description": "This will beat any high-end gaming PC deal you'll find during Amazon Prime Day....",
+      "url": "https://www.ign.com/articles/hp-is-clearing-out-its-stock-of-omen-rtx-4090-gaming-pcs-at-an-incredible-price-for-prime-day",
+      "publishedAt": "2025-07-07T21:11:55Z",
+      "processed_at": "2025-07-08T21:20:24.618030+00:00"
+    },
+    {
+      "title": "What would a cheap, Apple A18-powered MacBook actually be good at? - Ars Technica",
+      "source": {
+        "name": "Ars Technica"
+      },
+      "description": "Op-ed: A Mac with an iPhone chip inside could be great—for the right audience....",
+      "url": "https://arstechnica.com/apple/2025/07/what-would-a-cheap-apple-a18-powered-macbook-actually-be-good-at/",
+      "publishedAt": "2025-07-07T21:08:05Z",
+      "processed_at": "2025-07-08T21:20:24.618030+00:00"
+    },
+    {
+      "title": "Subnautica Director Breaks Silence On Being Removed From The Studio Before The Sequel's Release: 'The Game Is Ready' - Kotaku",
+      "source": {
+        "name": "Kotaku"
+      },
+      "description": "Subnautica 2's release date is up in the air again...",
+      "url": "https://kotaku.com/subnautica-2-unknown-worlds-krafton-early-access-1851785764",
+      "publishedAt": "2025-07-07T20:40:00Z",
+      "processed_at": "2025-07-08T21:20:24.618030+00:00"
+    },
+    {
+      "title": "Japan: Analysts say Nintendo Switch 2 could be difficult to purchase until Spring 2026 - My Nintendo News",
+      "source": {
+        "name": "My Nintendo News"
+      },
+      "description": "Japanese news site The Nikkei is reporting that analysts aren not expecting the Nintendo Switch 2 to...",
+      "url": "https://mynintendonews.com/2025/07/07/japan-analysts-say-nintendo-switch-2-could-be-difficult-to-purchase-until-spring-2026/",
+      "publishedAt": "2025-07-07T20:15:57Z",
+      "processed_at": "2025-07-08T21:20:24.618030+00:00"
+    },
     {
       "title": "The Storybook Vale - Part 2: The Unwritten Realm Update Patch Notes - Disney Dreamlight Valley",
       "source": {
@@ -10,7 +60,7 @@
       "description": "Disney Dreamlight Valley...",
       "url": "https://disneydreamlightvalley.com/en/news/update-jul-09-2025",
       "publishedAt": "2025-07-07T19:58:59Z",
-      "processed_at": "2025-07-08T20:24:00.317283+00:00"
+      "processed_at": "2025-07-08T21:20:24.618030+00:00"
     },
     {
       "title": "Leak reveals Apple Maps in iOS 26 could get two unannounced new features - 9to5Mac",
@@ -20,80 +70,40 @@
       "description": "iOS 26 is bringing several upgrades to Apple Maps, but beta code has revealed two more new features ...",
       "url": "https://9to5mac.com/2025/07/07/leak-reveals-apple-maps-in-ios-26-could-get-two-unannounced-new-features/",
       "publishedAt": "2025-07-07T19:31:00Z",
-      "processed_at": "2025-07-08T20:24:00.317283+00:00"
+      "processed_at": "2025-07-08T21:20:24.618030+00:00"
     },
     {
-      "title": "iOS 26 beta 3 dials back Liquid Glass - TechCrunch",
-      "source": {
-        "name": "TechCrunch"
-      },
-      "description": "The early version in the first developer beta of iOS 26 and the accompanying updates for Apple's oth...",
-      "url": "https://techcrunch.com/2025/07/07/ios-26-beta-3-dials-back-liquid-glass/",
-      "publishedAt": "2025-07-07T19:12:54Z",
-      "processed_at": "2025-07-08T20:24:00.317283+00:00"
-    },
-    {
-      "title": "Looks Like Paradox Pokémon Are Coming To Pokémon GO - Nintendo Life",
-      "source": {
-        "name": "Nintendo Life"
-      },
-      "description": "Not a paradox here...",
-      "url": "https://www.nintendolife.com/news/2025/07/looks-like-paradox-pokemon-are-coming-to-pokemon-go",
-      "publishedAt": "2025-07-07T18:36:02Z",
-      "processed_at": "2025-07-08T20:24:00.317283+00:00"
-    },
-    {
-      "title": "Capcom says Mega Man is one of its most important IPs, \"continuously considering ways to develop it further\" - Nintendo Everything",
-      "source": {
-        "name": "Nintendoeverything.com"
-      },
-      "description": "Capcom was recently asked about plans for the Mega Man franchise, and here's what the company said....",
-      "url": "https://nintendoeverything.com/capcom-says-mega-man-is-one-of-its-most-important-ips-continuously-considering-ways-to-develop-it-further/",
-      "publishedAt": "2025-07-07T18:21:40Z",
-      "processed_at": "2025-07-08T20:24:00.317283+00:00"
-    },
-    {
-      "title": "Xbox Failed At The Most Important Part: Games - Kotaku",
+      "title": "The Nintendo Switch 2: One Month Later - Kotaku",
       "source": {
         "name": "Kotaku"
       },
-      "description": "",
-      "url": "https://kotaku.com/xbox-perfect-dark-halo-gears-war-fable-ps5-1851785732",
-      "publishedAt": "2025-07-07T18:05:00Z",
-      "processed_at": "2025-07-08T20:24:00.317283+00:00"
+      "description": "We’ve had a whole month with Nintendo’s new console. How are we feeling?...",
+      "url": "https://kotaku.com/nintendo-switch-2-impressions-launch-games-comparison-1851785748",
+      "publishedAt": "2025-07-07T19:26:00Z",
+      "processed_at": "2025-07-08T21:20:24.618030+00:00"
     },
     {
-      "title": "Apple’s latest AirPods are already on sale for $99 before Prime Day - The Verge",
+      "title": "macOS 26 beta 3 features a new ‘Tahoe Day’ aerial screen saver, get it here - 9to5Mac",
       "source": {
-        "name": "The Verge"
+        "name": "9to5Mac"
       },
-      "description": "The entry-level AirPods 4 and step-up ANC pair are $30 off right now. You can also save on the Kindl...",
-      "url": "https://www.theverge.com/tech/699397/apple-airpods-4-anc-kindle-scribe-prime-day-deal-sale",
-      "publishedAt": "2025-07-07T17:25:19Z",
-      "processed_at": "2025-07-08T20:24:00.317283+00:00"
+      "description": "Alongside today’s bug fixes and under-the-hood improvements, macOS 26 beta 3 introduces a new “Tahoe...",
+      "url": "https://9to5mac.com/2025/07/07/macos-26-beta-3-features-a-new-tahoe-day-aerial-screen-saver-get-it-here/",
+      "publishedAt": "2025-07-07T19:14:00Z",
+      "processed_at": "2025-07-08T21:20:24.618030+00:00"
     },
     {
-      "title": "Nintendo wants to keep ‘traditional approach’ to development as costs skyrocket - The Verge",
+      "title": "You Can Build Out Your Switch 2 Game Collection With These Brilliant Backward Compatible Deals at Best Buy - IGN",
       "source": {
-        "name": "The Verge"
+        "name": "IGN"
       },
-      "description": "During an investors meeting, Nintendo president Shuntaro Furukawa explained how the company is deali...",
-      "url": "https://www.theverge.com/news/699429/nintendo-switch-2-game-development-costs",
-      "publishedAt": "2025-07-07T16:56:19Z",
-      "processed_at": "2025-07-08T20:24:00.317283+00:00"
-    },
-    {
-      "title": "Google Store now prominently highlighting ‘Fi Wireless’ - 9to5Google",
-      "source": {
-        "name": "9to5google.com"
-      },
-      "description": "The Google Store in the US is now getting a prominent promotion for “Fi Wireless\" alongside Pixel ph...",
-      "url": "http://9to5google.com/2025/07/07/google-store-fi-wireless/",
-      "publishedAt": "2025-07-07T16:29:00Z",
-      "processed_at": "2025-07-08T20:24:00.317283+00:00"
+      "description": "Best Buy’s Black Friday in July sales are offering some fantastic discounts on Switch 1 titles to fi...",
+      "url": "https://www.ign.com/articles/best-buy-black-friday-july-sale-switch-games-prime-day-2025",
+      "publishedAt": "2025-07-07T19:13:01Z",
+      "processed_at": "2025-07-08T21:20:24.618030+00:00"
     }
   ],
-  "lastUpdated": "2025-07-08T20:24:00.317400+00:00",
+  "lastUpdated": "2025-07-08T21:20:24.618111+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
