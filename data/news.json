@@ -1,6 +1,6 @@
 {
   "status": "success",
-  "totalResults": 9,
+  "totalResults": 10,
   "articles": [
     {
       "title": "The Porsche 911 Club Coupe Is a Carrera T, But Rarer - Motor1.com",
@@ -10,7 +10,7 @@
       "description": "Porsche will build just 70 of these 911 Carrera T models in honor of the Porsche Club of America's 7...",
       "url": "https://www.motor1.com/news/764704/2026-porsche-911-carrera-t-club-coupe/",
       "publishedAt": "2025-07-06T23:45:00Z",
-      "processed_at": "2025-07-08T01:47:56.162435+00:00"
+      "processed_at": "2025-07-08T03:20:17.036459+00:00"
     },
     {
       "title": "Steam quietly drops huge free RPG you can download and keep forever - GAMINGbible",
@@ -20,7 +20,17 @@
       "description": "Steam has just dropped a huge free RPG for you to download and keep....",
       "url": "https://www.gamingbible.com/news/platform/steam/steam-free-rpg-persona-5-the-phantom-x-162630-20250704",
       "publishedAt": "2025-07-06T23:02:09Z",
-      "processed_at": "2025-07-08T01:47:56.162435+00:00"
+      "processed_at": "2025-07-08T03:20:17.036459+00:00"
+    },
+    {
+      "title": "Activision pulls Call of Duty: WW2 servers offline to investigate an “issue” - Dexerto",
+      "source": {
+        "name": "Dexerto"
+      },
+      "description": "Activision took the servers for Call of Duty: WW2 offline just days after it arrived on Xbox Game Pa...",
+      "url": "https://www.dexerto.com/call-of-duty/activision-pulls-call-of-duty-ww2-servers-offline-to-investigate-an-issue-3223044/",
+      "publishedAt": "2025-07-06T22:35:17Z",
+      "processed_at": "2025-07-08T03:20:17.036459+00:00"
     },
     {
       "title": "Here's Which Vehicles Offer iPhone Car Keys - MacRumors",
@@ -30,7 +40,17 @@
       "description": "In 2020, Apple added a digital car key feature to its Wallet app, allowing users to lock, unlock, an...",
       "url": "https://www.macrumors.com/2025/07/06/iphone-car-key-vehicles-list/",
       "publishedAt": "2025-07-06T22:03:28Z",
-      "processed_at": "2025-07-08T01:47:56.162435+00:00"
+      "processed_at": "2025-07-08T03:20:17.036459+00:00"
+    },
+    {
+      "title": "I found five early Amazon Prime Day Deals that drop the price by 40% or more - including a Garmin Fenix 7x and a brand new Roomba - TechRadar",
+      "source": {
+        "name": "TechRadar"
+      },
+      "description": "Get a Garmin Fenix smartwatch at a lowest ever price...",
+      "url": "https://www.techradar.com/seasonal-sales/i-found-five-early-amazon-prime-day-deals-that-drop-the-price-by-40-percent-or-more-including-a-garmin-fenix-7x-and-a-brand-new-roomba",
+      "publishedAt": "2025-07-06T21:45:48Z",
+      "processed_at": "2025-07-08T03:20:17.036459+00:00"
     },
     {
       "title": "Rumour: Nintendo Switch Online may soon be adding Super Smash Bros and Donkey Kong 64 - My Nintendo News",
@@ -40,7 +60,7 @@
       "description": "A number of social media fans have been going over a Nintendo Switch Online-themed video from Ninten...",
       "url": "https://mynintendonews.com/2025/07/06/rumour-nintendo-switch-online-may-soon-be-adding-super-smash-bros-and-donkey-kong-64/",
       "publishedAt": "2025-07-06T21:44:47Z",
-      "processed_at": "2025-07-08T01:47:56.162435+00:00"
+      "processed_at": "2025-07-08T03:20:17.036459+00:00"
     },
     {
       "title": "If You're a Prime Member, This Lenovo ThinkPad Laptop (Ryzen 7, 32GB RAM, 1TB SSD) Is 70% Off on Amazon - Gizmodo",
@@ -50,7 +70,17 @@
       "description": "This is the best Prime Day deal on a laptop....",
       "url": "https://gizmodo.com/if-youre-a-prime-member-this-lenovo-thinkpad-laptop-ryzen-7-32gb-ram-1tb-ssd-is-70-off-on-amazon-2000624697",
       "publishedAt": "2025-07-06T21:25:05Z",
-      "processed_at": "2025-07-08T01:47:56.162435+00:00"
+      "processed_at": "2025-07-08T03:20:17.036459+00:00"
+    },
+    {
+      "title": "SanDisk 1TB SSD Gets Prime Day Slammed, Now at Its Lowest Price on Amazon - Gizmodo",
+      "source": {
+        "name": "Gizmodo.com"
+      },
+      "description": "SanDisk is the leading brand for external SSDs....",
+      "url": "https://gizmodo.com/sandisk-1tb-ssd-gets-prime-day-slammed-now-at-its-lowest-price-on-amazon-2000624676",
+      "publishedAt": "2025-07-06T20:54:28Z",
+      "processed_at": "2025-07-08T03:20:17.036459+00:00"
     },
     {
       "title": "New iPhone 17 Pro renders highlight aluminum design, repositioned Apple logo - 9to5Mac",
@@ -60,40 +90,20 @@
       "description": "A new image from Apple leaker Majin Bu provides a new look at the repositioned Apple logo on the upc...",
       "url": "https://9to5mac.com/2025/07/06/iphone-17-pro-new-design-case-leak-apple-logo/",
       "publishedAt": "2025-07-06T20:49:00Z",
-      "processed_at": "2025-07-08T01:47:56.162435+00:00"
+      "processed_at": "2025-07-08T03:20:17.036459+00:00"
     },
     {
-      "title": "3 Surprising Factory Supercharged Cars You Might've Forgotten About - Jalopnik",
-      "source": {
-        "name": "Jalopnik"
-      },
-      "description": "Like a turbocharger, a supercharger gives a vehicle an extra push of power, but there are some vehic...",
-      "url": "https://www.jalopnik.com/1899811/surprising-supercharged-cars/",
-      "publishedAt": "2025-07-06T19:05:00Z",
-      "processed_at": "2025-07-08T01:47:56.162435+00:00"
-    },
-    {
-      "title": "I used the Unihertz Titan 2 for a week, and I don't want to go back - Android Police",
+      "title": "I'm setting the record straight on 5 common charging myths - Android Police",
       "source": {
         "name": "Android Police"
       },
-      "description": "A BlackBerry-esque experience in 2025...",
-      "url": "https://www.androidpolice.com/unihertz-titan-2-hands-on/",
-      "publishedAt": "2025-07-06T17:13:00Z",
-      "processed_at": "2025-07-08T01:47:56.162435+00:00"
-    },
-    {
-      "title": "Super Street Fighter 2 Turbo competitor releases new tier list in 2025 - EventHubs",
-      "source": {
-        "name": "EventHubs"
-      },
-      "description": "It's been over 30 years since Super Street Fighter 2 Turbo was released in the arcades. Despite how ...",
-      "url": "https://www.eventhubs.com/news/2025/jul/06/ssf2t-new-tier-list-2025/",
-      "publishedAt": "2025-07-06T16:57:16Z",
-      "processed_at": "2025-07-08T01:47:56.162435+00:00"
+      "description": "Not everything you hear is true...",
+      "url": "https://www.androidpolice.com/battery-charging-myths-busted/",
+      "publishedAt": "2025-07-06T19:43:00Z",
+      "processed_at": "2025-07-08T03:20:17.036459+00:00"
     }
   ],
-  "lastUpdated": "2025-07-08T01:47:56.162497+00:00",
+  "lastUpdated": "2025-07-08T03:20:17.036523+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
