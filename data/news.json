@@ -1,7 +1,17 @@
 {
   "status": "success",
-  "totalResults": 10,
+  "totalResults": 9,
   "articles": [
+    {
+      "title": "MTG Edge of Eternities Preview Cards Revealed - TechRaptor",
+      "source": {
+        "name": "TechRaptor"
+      },
+      "description": "With brand new mechanics and exciting new cards, our Edge of Eternities Preview features the latest ...",
+      "url": "https://techraptor.net/tabletop/features/mtg-edge-of-eternities-preview-cards-revealed",
+      "publishedAt": "2025-07-08T05:30:01Z",
+      "processed_at": "2025-07-09T09:25:12.163849+00:00"
+    },
     {
       "title": "OpenAI clamps down on security after foreign spying threats - Financial Times",
       "source": {
@@ -10,17 +20,7 @@
       "description": "Artificial intelligence group has added fingerprint scans and hired military experts to protect impo...",
       "url": "https://www.ft.com/content/f896c4d9-bab7-40a2-9e67-4058093ce250",
       "publishedAt": "2025-07-08T04:00:19Z",
-      "processed_at": "2025-07-09T08:29:26.533951+00:00"
-    },
-    {
-      "title": "Amazon Launches Big Apple AirPods Sale for Prime Day 2025 - Consequence of Sound",
-      "source": {
-        "name": "Consequence.net"
-      },
-      "description": "Amazon has launched a major Prime Day 2025 sale on Apple AirPods. Both models of the AirPods 4 are d...",
-      "url": "https://consequence.net/2025/07/apple-airpods-sale-prime-day-2025/",
-      "publishedAt": "2025-07-08T03:42:00Z",
-      "processed_at": "2025-07-09T08:29:26.533951+00:00"
+      "processed_at": "2025-07-09T09:25:12.163849+00:00"
     },
     {
       "title": "Crocs launches first-ever collaboration with Animal Crossing - Nintendo",
@@ -30,7 +30,7 @@
       "description": "Available Tuesday, August 26, 2025! Crocs, a global leader in innovative casual footwear for women, ...",
       "url": "https://www.nintendo.com/us/whatsnew/crocs-launches-first-ever-collaboration-with-animal-crossing/",
       "publishedAt": "2025-07-08T01:04:56Z",
-      "processed_at": "2025-07-09T08:29:26.533951+00:00"
+      "processed_at": "2025-07-09T09:25:12.163849+00:00"
     },
     {
       "title": "The Best Buy Black Friday in July Sale Is Now Live Ahead of Amazon Prime Day - IGN",
@@ -40,7 +40,17 @@
       "description": "",
       "url": "https://www.ign.com/articles/best-buy-black-friday-in-july-sale-prime-day-2025",
       "publishedAt": "2025-07-08T00:30:46Z",
-      "processed_at": "2025-07-09T08:29:26.533951+00:00"
+      "processed_at": "2025-07-09T09:25:12.163849+00:00"
+    },
+    {
+      "title": "Round Up: The First Reviews Are In For Tony Hawk's Pro Skater 3 + 4 - Nintendo Life",
+      "source": {
+        "name": "Nintendo Life"
+      },
+      "description": "Drop in this week...",
+      "url": "https://www.nintendolife.com/news/2025/07/round-up-the-first-reviews-are-in-for-tony-hawks-pro-skater-3-plus-4",
+      "publishedAt": "2025-07-08T00:30:00Z",
+      "processed_at": "2025-07-09T09:25:12.163849+00:00"
     },
     {
       "title": "Xbox sale round-up July 8, 2025 - DLC - TrueAchievements",
@@ -50,7 +60,7 @@
       "description": "New Xbox sales are now live, with big discounts on Grand Theft Auto V, Forza Horizon 5, Red Dead Red...",
       "url": "https://www.trueachievements.com/n59562/xbox-sale-roundup-july-8-2025-dlc",
       "publishedAt": "2025-07-08T00:26:38Z",
-      "processed_at": "2025-07-09T08:29:26.533951+00:00"
+      "processed_at": "2025-07-09T09:25:12.163849+00:00"
     },
     {
       "title": "Best Buy Is Offering a Great Deal on One of the Coolest Prebuilt Gaming PCs I've Seen (It's Powerful Too) - IGN",
@@ -60,7 +70,7 @@
       "description": "Great looks and tons of power at a discount, what more could you ask for?...",
       "url": "https://www.ign.com/articles/cyberpowerpc-gaming-pc-deal-at-best-buy-for-black-friday-in-july",
       "publishedAt": "2025-07-08T00:11:42Z",
-      "processed_at": "2025-07-09T08:29:26.533951+00:00"
+      "processed_at": "2025-07-09T09:25:12.163849+00:00"
     },
     {
       "title": "Unless users take action, Android will let Gemini access third-party apps - Ars Technica",
@@ -70,7 +80,7 @@
       "description": "Important changes to Android devices took effect starting Monday....",
       "url": "https://arstechnica.com/security/2025/07/unless-users-take-action-android-will-let-gemini-access-third-party-apps/",
       "publishedAt": "2025-07-07T23:46:14Z",
-      "processed_at": "2025-07-09T08:29:26.533951+00:00"
+      "processed_at": "2025-07-09T09:25:12.163849+00:00"
     },
     {
       "title": "Pixel 10 Pro reportedly still starts at 128GB storage as new color names surface - 9to5Google",
@@ -80,30 +90,10 @@
       "description": "According to a new leak, Pixel 10 Pro will still start at 128GB of storage while Google's new color ...",
       "url": "http://9to5google.com/2025/07/07/pixel-10-pro-storage-color-options-report/",
       "publishedAt": "2025-07-07T23:25:00Z",
-      "processed_at": "2025-07-09T08:29:26.533951+00:00"
-    },
-    {
-      "title": "Apple just added more frost to its Liquid Glass design - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "Apple just changed its Liquid Glass design again. In the third iOS 26 developer beta, Apple made the...",
-      "url": "https://www.theverge.com/news/700066/apple-liquid-glass-frosted-ios-26-developer-beta",
-      "publishedAt": "2025-07-07T22:31:21Z",
-      "processed_at": "2025-07-09T08:29:26.533951+00:00"
-    },
-    {
-      "title": "Microsoft’s Edge browser now loads sites even faster - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "Microsoft says it has further improved its Edge browser’s responsiveness by continuing to migrate it...",
-      "url": "https://www.theverge.com/news/699783/microsoft-edge-browser-speed-rendering",
-      "publishedAt": "2025-07-07T21:14:31Z",
-      "processed_at": "2025-07-09T08:29:26.533951+00:00"
+      "processed_at": "2025-07-09T09:25:12.163849+00:00"
     }
   ],
-  "lastUpdated": "2025-07-09T08:29:26.534024+00:00",
+  "lastUpdated": "2025-07-09T09:25:12.163913+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
