@@ -3,6 +3,26 @@
   "totalResults": 10,
   "articles": [
     {
+      "title": "OpenAI clamps down on security after foreign spying threats - Financial Times",
+      "source": {
+        "name": "Financial Times"
+      },
+      "description": "Artificial intelligence group has added fingerprint scans and hired military experts to protect impo...",
+      "url": "https://www.ft.com/content/f896c4d9-bab7-40a2-9e67-4058093ce250",
+      "publishedAt": "2025-07-08T04:00:19Z",
+      "processed_at": "2025-07-09T07:21:37.283771+00:00"
+    },
+    {
+      "title": "Amazon Launches Big Apple AirPods Sale for Prime Day 2025 - Consequence of Sound",
+      "source": {
+        "name": "Consequence.net"
+      },
+      "description": "Amazon has launched a major Prime Day 2025 sale on Apple AirPods. Both models of the AirPods 4 are d...",
+      "url": "https://consequence.net/2025/07/apple-airpods-sale-prime-day-2025/",
+      "publishedAt": "2025-07-08T03:42:00Z",
+      "processed_at": "2025-07-09T07:21:37.283771+00:00"
+    },
+    {
       "title": "Crocs launches first-ever collaboration with Animal Crossing - Nintendo",
       "source": {
         "name": "Nintendo.com"
@@ -10,7 +30,7 @@
       "description": "Available Tuesday, August 26, 2025! Crocs, a global leader in innovative casual footwear for women, ...",
       "url": "https://www.nintendo.com/us/whatsnew/crocs-launches-first-ever-collaboration-with-animal-crossing/",
       "publishedAt": "2025-07-08T01:04:56Z",
-      "processed_at": "2025-07-09T06:32:21.097507+00:00"
+      "processed_at": "2025-07-09T07:21:37.283771+00:00"
     },
     {
       "title": "The Best Buy Black Friday in July Sale Is Now Live Ahead of Amazon Prime Day - IGN",
@@ -20,7 +40,7 @@
       "description": "",
       "url": "https://www.ign.com/articles/best-buy-black-friday-in-july-sale-prime-day-2025",
       "publishedAt": "2025-07-08T00:30:46Z",
-      "processed_at": "2025-07-09T06:32:21.097507+00:00"
+      "processed_at": "2025-07-09T07:21:37.283771+00:00"
     },
     {
       "title": "Xbox sale round-up July 8, 2025 - DLC - TrueAchievements",
@@ -30,7 +50,7 @@
       "description": "New Xbox sales are now live, with big discounts on Grand Theft Auto V, Forza Horizon 5, Red Dead Red...",
       "url": "https://www.trueachievements.com/n59562/xbox-sale-roundup-july-8-2025-dlc",
       "publishedAt": "2025-07-08T00:26:38Z",
-      "processed_at": "2025-07-09T06:32:21.097507+00:00"
+      "processed_at": "2025-07-09T07:21:37.283771+00:00"
     },
     {
       "title": "Best Buy Is Offering a Great Deal on One of the Coolest Prebuilt Gaming PCs I've Seen (It's Powerful Too) - IGN",
@@ -40,7 +60,7 @@
       "description": "Great looks and tons of power at a discount, what more could you ask for?...",
       "url": "https://www.ign.com/articles/cyberpowerpc-gaming-pc-deal-at-best-buy-for-black-friday-in-july",
       "publishedAt": "2025-07-08T00:11:42Z",
-      "processed_at": "2025-07-09T06:32:21.097507+00:00"
+      "processed_at": "2025-07-09T07:21:37.283771+00:00"
     },
     {
       "title": "Unless users take action, Android will let Gemini access third-party apps - Ars Technica",
@@ -50,7 +70,7 @@
       "description": "Important changes to Android devices took effect starting Monday....",
       "url": "https://arstechnica.com/security/2025/07/unless-users-take-action-android-will-let-gemini-access-third-party-apps/",
       "publishedAt": "2025-07-07T23:46:14Z",
-      "processed_at": "2025-07-09T06:32:21.097507+00:00"
+      "processed_at": "2025-07-09T07:21:37.283771+00:00"
     },
     {
       "title": "Pixel 10 Pro reportedly still starts at 128GB storage as new color names surface - 9to5Google",
@@ -60,7 +80,17 @@
       "description": "According to a new leak, Pixel 10 Pro will still start at 128GB of storage while Google's new color ...",
       "url": "http://9to5google.com/2025/07/07/pixel-10-pro-storage-color-options-report/",
       "publishedAt": "2025-07-07T23:25:00Z",
-      "processed_at": "2025-07-09T06:32:21.097507+00:00"
+      "processed_at": "2025-07-09T07:21:37.283771+00:00"
+    },
+    {
+      "title": "Apple just added more frost to its Liquid Glass design - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "Apple just changed its Liquid Glass design again. In the third iOS 26 developer beta, Apple made the...",
+      "url": "https://www.theverge.com/news/700066/apple-liquid-glass-frosted-ios-26-developer-beta",
+      "publishedAt": "2025-07-07T22:31:21Z",
+      "processed_at": "2025-07-09T07:21:37.283771+00:00"
     },
     {
       "title": "Microsoft’s Edge browser now loads sites even faster - The Verge",
@@ -70,40 +100,10 @@
       "description": "Microsoft says it has further improved its Edge browser’s responsiveness by continuing to migrate it...",
       "url": "https://www.theverge.com/news/699783/microsoft-edge-browser-speed-rendering",
       "publishedAt": "2025-07-07T21:14:31Z",
-      "processed_at": "2025-07-09T06:32:21.097507+00:00"
-    },
-    {
-      "title": "Romero Games Says It’s Not Dead, But Looking For A New Publisher After Xbox Layoffs - Kotaku",
-      "source": {
-        "name": "Kotaku"
-      },
-      "description": "The company is exploring options after Microsoft pulled its funding...",
-      "url": "https://kotaku.com/romero-games-xbox-layoffs-shut-down-canceled-game-1851785765",
-      "publishedAt": "2025-07-07T20:50:00Z",
-      "processed_at": "2025-07-09T06:32:21.097507+00:00"
-    },
-    {
-      "title": "Don't Forget to Use These Amazon Prime Perks During Prime Day Tuesday - CNET",
-      "source": {
-        "name": "CNET"
-      },
-      "description": "Amazon Prime Day begins tomorrow. Here's how to optimize your shopping during the big sale....",
-      "url": "https://www.cnet.com/deals/dont-forget-to-use-these-amazon-prime-perks-during-prime-day-tuesday/",
-      "publishedAt": "2025-07-07T20:46:00Z",
-      "processed_at": "2025-07-09T06:32:21.097507+00:00"
-    },
-    {
-      "title": "The next Switch 2 restock kicks off at 7PM ET online at Walmart - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "If you’re still trying to secure a Switch 2, Walmart is once again selling Nintendo’s latest gaming ...",
-      "url": "https://www.theverge.com/games/685578/nintendo-switch-2-restock-walmart-availability",
-      "publishedAt": "2025-07-07T20:38:28Z",
-      "processed_at": "2025-07-09T06:32:21.097507+00:00"
+      "processed_at": "2025-07-09T07:21:37.283771+00:00"
     }
   ],
-  "lastUpdated": "2025-07-09T06:32:21.097574+00:00",
+  "lastUpdated": "2025-07-09T07:21:37.283839+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
