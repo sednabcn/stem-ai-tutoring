@@ -1,109 +1,99 @@
 {
   "status": "success",
-  "totalResults": 10,
+  "totalResults": 9,
   "articles": [
     {
-      "title": "Google brings its AI-powered marketing tools to India after ‘Google tax’ repeal - TechCrunch",
-      "source": {
-        "name": "TechCrunch"
-      },
-      "description": "Google has launched a suite of its AI-powered advertising tools in India, which debuted in the U.S. ...",
-      "url": "https://techcrunch.com/2025/07/09/google-brings-its-ai-powered-marketing-tools-to-india-after-google-tax-repeal/",
-      "publishedAt": "2025-07-10T06:30:00Z",
-      "processed_at": "2025-07-11T14:21:14.787147+00:00"
-    },
-    {
-      "title": "Quantum Breakthrough Could Make Your Devices 1,000 Times Faster - ScienceAlert",
-      "source": {
-        "name": "ScienceAlert"
-      },
-      "description": "Your days of being frustrated by a sluggish smartphone or laptop could be coming to an end: scientis...",
-      "url": "https://www.sciencealert.com/quantum-breakthrough-could-make-your-devices-1000-times-faster",
-      "publishedAt": "2025-07-10T06:00:56Z",
-      "processed_at": "2025-07-11T14:21:14.787147+00:00"
-    },
-    {
-      "title": "[Galaxy Unpacked 2025] The Next Chapter in Personalized, Multimodal Galaxy Innovation - samsung.com",
-      "source": {
-        "name": "Samsung.com"
-      },
-      "description": "On July 9, Samsung Electronics hosted Galaxy Unpacked 2025 in Brooklyn — a borough known for its cul...",
-      "url": "https://news.samsung.com/global/galaxy-unpacked-2025-the-next-chapter-in-personalized-multimodal-galaxy-innovation",
-      "publishedAt": "2025-07-10T00:02:54Z",
-      "processed_at": "2025-07-11T14:21:14.787147+00:00"
-    },
-    {
-      "title": "The best 4K TV deals during Prime Day 2025 - The Verge",
+      "title": "Nintendo is ending its cost-saving Switch game vouchers - The Verge",
       "source": {
         "name": "The Verge"
       },
-      "description": "Several retailers are cutting prices on 4K TVs, including OLEDs, as well as soundbars and streaming ...",
-      "url": "https://www.theverge.com/tech/699516/4k-tv-soundbar-streaming-deal-sale-amazon-prime-day",
-      "publishedAt": "2025-07-09T22:06:39Z",
-      "processed_at": "2025-07-11T14:21:14.787147+00:00"
+      "description": "Nintendo is discontinuing its voucher program for Switch games on January 30th, 2025. The program al...",
+      "url": "https://www.theverge.com/news/703993/nintendo-switch-game-voucher-discontinued",
+      "publishedAt": "2025-07-10T14:01:04Z",
+      "processed_at": "2025-07-11T15:23:22.674170+00:00"
     },
     {
-      "title": "Stop lugging around that bulky charger and swap to this ultra-compact one from Anker as it drop to just $10 - Android Police",
+      "title": "Three Times Cheaper Than a Mac Mini, This 512GB Mini PC Is Nearly Free for Prime Day - Gizmodo",
       "source": {
-        "name": "Android Police"
+        "name": "Gizmodo.com"
       },
-      "description": "A Prime Day discount you don&#039;t want to miss...",
-      "url": "https://www.androidpolice.com/anker-511-charger-10-july-deal/",
-      "publishedAt": "2025-07-09T22:02:00Z",
-      "processed_at": "2025-07-11T14:21:14.787147+00:00"
+      "description": "This is probably the best deal you’ll find on a desktop computer during Prime Day 2025....",
+      "url": "https://gizmodo.com/three-times-cheaper-than-a-mac-mini-this-512gb-mini-pc-is-almost-free-prime-day-2000625154",
+      "publishedAt": "2025-07-10T12:32:46Z",
+      "processed_at": "2025-07-11T15:23:22.674170+00:00"
     },
     {
-      "title": "Perplexity rips another page from the Google playbook with its own browser, Comet - theregister.com",
+      "title": "‘Google Gemini on Wear OS’ rolling out via the Play Store - 9to5Google",
       "source": {
-        "name": "Theregister.com"
+        "name": "9to5google.com"
       },
-      "description": ": Built on Chromium, ironically...",
-      "url": "https://www.theregister.com/2025/07/09/perplexity_comet_browser/",
-      "publishedAt": "2025-07-09T21:31:00Z",
-      "processed_at": "2025-07-11T14:21:14.787147+00:00"
+      "description": "Gemini is rolling out to Wear OS via a Play Store update, with Google Assistant replacement already ...",
+      "url": "http://9to5google.com/2025/07/10/gemini-wear-os-update-2/",
+      "publishedAt": "2025-07-10T12:30:00Z",
+      "processed_at": "2025-07-11T15:23:22.674170+00:00"
     },
     {
-      "title": "OpenAI to release web browser in challenge to Google Chrome - NBC News",
+      "title": "If You're a Prime Member, Lenovo ThinkPad Laptop (Ryzen 7, 32GB RAM, 1TB SSD) Is 70% Off on Amazon - Gizmodo",
       "source": {
-        "name": "NBC News"
+        "name": "Gizmodo.com"
       },
-      "description": "SAN FRANCISCO — OpenAI is close to releasing an AI-powered web browser that will challenge Alphabet’...",
-      "url": "https://www.nbcnews.com/business/business-news/openai-release-web-browser-challenge-google-chrome-rcna217818",
-      "publishedAt": "2025-07-09T21:25:39Z",
-      "processed_at": "2025-07-11T14:21:14.787147+00:00"
+      "description": "This is the best Prime Day deal on a laptop....",
+      "url": "https://gizmodo.com/if-youre-a-prime-member-this-lenovo-thinkpad-laptop-ryzen-7-32gb-ram-1tb-ssd-is-70-off-amazon-2000624697",
+      "publishedAt": "2025-07-10T11:34:05Z",
+      "processed_at": "2025-07-11T15:23:22.674170+00:00"
     },
     {
-      "title": "Report: Apple M4, more comfortable strap will headline first major Vision Pro update - Ars Technica",
+      "title": "Switch 2 ruining stapler now up for online charity auction by GameStop - Eurogamer",
       "source": {
-        "name": "Ars Technica"
+        "name": "Eurogamer.net"
       },
-      "description": "Iterative update will supposedly be a bridge to a later, more extensive redesign....",
-      "url": "https://arstechnica.com/gadgets/2025/07/report-apple-m4-more-comfortable-strap-will-headline-first-major-vision-pro-update/",
-      "publishedAt": "2025-07-09T20:45:19Z",
-      "processed_at": "2025-07-11T14:21:14.787147+00:00"
+      "description": "The infamous stapler used by GameStop that ruined Switch 2 launch day for some customers has now bee...",
+      "url": "https://www.eurogamer.net/switch-2-ruining-stapler-now-up-for-online-charity-auction-by-gamestop",
+      "publishedAt": "2025-07-10T11:20:43Z",
+      "processed_at": "2025-07-11T15:23:22.674170+00:00"
     },
     {
-      "title": "Best Prime Day PS5 And Nintendo Switch Game Deals At Amazon - GameSpot",
+      "title": "Microsoft Outlook Down — Email Outage Confirmed, What We Know So Far - Forbes",
       "source": {
-        "name": "GameSpot"
+        "name": "Forbes"
       },
-      "description": "A wide selection of PS5, Nintendo Switch, and Xbox Series X games are on sale for new all-time low p...",
-      "url": "https://www.gamespot.com/articles/best-prime-day-video-game-deals/1100-6533060/",
-      "publishedAt": "2025-07-09T20:31:56Z",
-      "processed_at": "2025-07-11T14:21:14.787147+00:00"
+      "description": "Microsoft Outlook email outage confirmed — here’s what we know so far....",
+      "url": "https://www.forbes.com/sites/daveywinder/2025/07/10/microsoft-outlook-down---email-outage-confirmed-what-we-know-so-far/",
+      "publishedAt": "2025-07-10T10:49:39Z",
+      "processed_at": "2025-07-11T15:23:22.674170+00:00"
     },
     {
-      "title": "Sony has the chance to challenge Apple and Samsung, but it keeps wasting it - PhoneArena",
+      "title": "Samsung says its trifold phone should launch ‘this year’ - The Verge",
       "source": {
-        "name": "PhoneArena"
+        "name": "The Verge"
       },
-      "description": "",
-      "url": "https://www.phonearena.com/news/sony-challenge-apple-samsung-wasted-chance_id172132",
-      "publishedAt": "2025-07-09T20:20:49Z",
-      "processed_at": "2025-07-11T14:21:14.787147+00:00"
+      "description": "Samsung’s hardware executive TM Roh told press at Unpacked that the company’s trifold phone is plann...",
+      "url": "https://www.theverge.com/news/703753/samsung-trifold-phone-release-date-tm-roh",
+      "publishedAt": "2025-07-10T09:48:09Z",
+      "processed_at": "2025-07-11T15:23:22.674170+00:00"
+    },
+    {
+      "title": "Aqara’s feature-packed G410 video doorbell is now available - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "The Aqara G410 is priced at $129.99 and features mmWave radar, HomeKit Secure Video, local recording...",
+      "url": "https://www.theverge.com/news/703741/aqaras-feature-packed-g410-video-doorbell-is-now-available",
+      "publishedAt": "2025-07-10T09:34:06Z",
+      "processed_at": "2025-07-11T15:23:22.674170+00:00"
+    },
+    {
+      "title": "Foldable iPhone Display Production Begins Ahead of Launch Next Year - MacRumors",
+      "source": {
+        "name": "MacRumors"
+      },
+      "description": "Production of foldable OLED displays for Apple's first foldable iPhone have begun ahead of its expec...",
+      "url": "https://www.macrumors.com/2025/07/10/foldable-iphone-display-production-begins/",
+      "publishedAt": "2025-07-10T05:59:03Z",
+      "processed_at": "2025-07-11T15:23:22.674170+00:00"
     }
   ],
-  "lastUpdated": "2025-07-11T14:21:14.787217+00:00",
+  "lastUpdated": "2025-07-11T15:23:22.674239+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
