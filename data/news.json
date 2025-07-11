@@ -1,7 +1,27 @@
 {
   "status": "success",
-  "totalResults": 9,
+  "totalResults": 10,
   "articles": [
+    {
+      "title": "Google brings its AI-powered marketing tools to India after ‘Google tax’ repeal - TechCrunch",
+      "source": {
+        "name": "TechCrunch"
+      },
+      "description": "Google has launched a suite of its AI-powered advertising tools in India, which debuted in the U.S. ...",
+      "url": "https://techcrunch.com/2025/07/09/google-brings-its-ai-powered-marketing-tools-to-india-after-google-tax-repeal/",
+      "publishedAt": "2025-07-10T06:30:00Z",
+      "processed_at": "2025-07-11T07:22:03.193684+00:00"
+    },
+    {
+      "title": "Samsung drops details on One UI 8 rollout – here’s what Galaxy users need to know - Sammy Fans",
+      "source": {
+        "name": "Sammyfans.com"
+      },
+      "description": "If you have been waiting for Samsung’s next major software update, you are almost at your destinatio...",
+      "url": "https://www.sammyfans.com/2025/07/10/samsung-drops-details-on-one-ui-8-rollout-heres-what-galaxy-users-need-to-know/",
+      "publishedAt": "2025-07-10T03:57:06Z",
+      "processed_at": "2025-07-11T07:22:03.193684+00:00"
+    },
     {
       "title": "Best Prime Day laptop deals 2025: Live updates on MacBook, Windows, and more discounts - ZDNet",
       "source": {
@@ -10,7 +30,7 @@
       "description": "I review tons of laptops each year - these are my favorite Amazon Prime Day laptop sales live now....",
       "url": "https://www.zdnet.com/article/best-prime-day-laptop-deals-2025-07-09/",
       "publishedAt": "2025-07-10T02:42:00Z",
-      "processed_at": "2025-07-11T06:32:32.889084+00:00"
+      "processed_at": "2025-07-11T07:22:03.193684+00:00"
     },
     {
       "title": "The best Prime Day deals on charging accessories - The Verge",
@@ -20,7 +40,27 @@
       "description": "Amazon Prime Day is offering huge discounts on charging accessories, from basic wall adapters, to wi...",
       "url": "https://www.theverge.com/tech/698933/amazon-prime-day-2025-chargers-power-banks-batteries-deal-sale",
       "publishedAt": "2025-07-09T23:57:49Z",
-      "processed_at": "2025-07-11T06:32:32.889084+00:00"
+      "processed_at": "2025-07-11T07:22:03.193684+00:00"
+    },
+    {
+      "title": "The End of the Internet As We Know It - Gizmodo",
+      "source": {
+        "name": "Gizmodo.com"
+      },
+      "description": "Perplexity's Comet wants to kill the click. OpenAI is poised to follow. Google Chrome might be next ...",
+      "url": "https://gizmodo.com/the-end-of-the-internet-as-we-know-it-2000627194",
+      "publishedAt": "2025-07-09T23:54:22Z",
+      "processed_at": "2025-07-11T07:22:03.193684+00:00"
+    },
+    {
+      "title": "The best 4K TV deals during Prime Day 2025 - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "Several retailers are cutting prices on 4K TVs, including OLEDs, as well as soundbars and streaming ...",
+      "url": "https://www.theverge.com/tech/699516/4k-tv-soundbar-streaming-deal-sale-amazon-prime-day",
+      "publishedAt": "2025-07-09T22:06:39Z",
+      "processed_at": "2025-07-11T07:22:03.193684+00:00"
     },
     {
       "title": "Report: Apple M4, more comfortable strap will headline first major Vision Pro update - Ars Technica",
@@ -30,7 +70,7 @@
       "description": "Iterative update will supposedly be a bridge to a later, more extensive redesign....",
       "url": "https://arstechnica.com/gadgets/2025/07/report-apple-m4-more-comfortable-strap-will-headline-first-major-vision-pro-update/",
       "publishedAt": "2025-07-09T20:45:19Z",
-      "processed_at": "2025-07-11T06:32:32.889084+00:00"
+      "processed_at": "2025-07-11T07:22:03.193684+00:00"
     },
     {
       "title": "It's Been a Weak Prime Day for Gaming Laptops, With This Exception - WIRED",
@@ -40,7 +80,7 @@
       "description": "Prime Day sales on gaming laptops have been weak. But the ROG Strix G16 comes with the latest GPUs a...",
       "url": "https://www.wired.com/story/best-prime-day-gaming-laptop-deal/",
       "publishedAt": "2025-07-09T19:55:37Z",
-      "processed_at": "2025-07-11T06:32:32.889084+00:00"
+      "processed_at": "2025-07-11T07:22:03.193684+00:00"
     },
     {
       "title": "Amazon’s best Kindles are cheaper than ever during Prime Day - The Verge",
@@ -50,7 +90,7 @@
       "description": "The 2024 Kindle Paperwhite and the Kindle Colorsoft Signature Essential are down to all-time low pri...",
       "url": "https://www.theverge.com/tech/697975/amazon-prime-day-kindle-deal-paperwhite-colorsoft-sale-2025",
       "publishedAt": "2025-07-09T19:30:00Z",
-      "processed_at": "2025-07-11T06:32:32.889084+00:00"
+      "processed_at": "2025-07-11T07:22:03.193684+00:00"
     },
     {
       "title": "Cyberpunk 2077 leads a big drop of free PlayStation Plus July games - Polygon",
@@ -60,40 +100,10 @@
       "description": "Celebrating PlayStation Plus’ 15th anniversary, Cyberpunk 2077, Abiotic Factor, and more joining the...",
       "url": "https://www.polygon.com/what-to-play/611959/playstation-plus-new-free-games-july-2025",
       "publishedAt": "2025-07-09T19:01:42Z",
-      "processed_at": "2025-07-11T06:32:32.889084+00:00"
-    },
-    {
-      "title": "OpenAI is reportedly releasing an AI browser in the coming weeks - TechCrunch",
-      "source": {
-        "name": "TechCrunch"
-      },
-      "description": "OpenAI's browser is said to use AI to rethink how users browse the web, keeping some user interactio...",
-      "url": "https://techcrunch.com/2025/07/09/openai-is-reportedly-releasing-an-ai-browser-in-the-coming-weeks/",
-      "publishedAt": "2025-07-09T18:48:06Z",
-      "processed_at": "2025-07-11T06:32:32.889084+00:00"
-    },
-    {
-      "title": "Krafton Delays ‘Subnautica 2’ Game Ahead of $250 Million Payout - Bloomberg",
-      "source": {
-        "name": "Bloomberg"
-      },
-      "description": "The South Korean publisher announced last week that the CEO and founders of ‘Subnautica’ studio Unkn...",
-      "url": "https://www.bloomberg.com/news/articles/2025-07-09/krafton-delays-subnautica-2-game-ahead-of-250-million-payout",
-      "publishedAt": "2025-07-09T17:56:34Z",
-      "processed_at": "2025-07-11T06:32:32.889084+00:00"
-    },
-    {
-      "title": "Prime Day Deals: Galaxy Buds 3 Pro, Nest Thermostat, much more - 9to5Google",
-      "source": {
-        "name": "9to5google.com"
-      },
-      "description": "Day 2 of the massive Amazon Prime Day sale is now in full swing and is now joined by pre-order......",
-      "url": "http://9to5google.com/2025/07/09/prime-day-deals-galaxy-buds-3-pro-google-nest-thermostat/",
-      "publishedAt": "2025-07-09T16:50:00Z",
-      "processed_at": "2025-07-11T06:32:32.889084+00:00"
+      "processed_at": "2025-07-11T07:22:03.193684+00:00"
     }
   ],
-  "lastUpdated": "2025-07-11T06:32:32.889149+00:00",
+  "lastUpdated": "2025-07-11T07:22:03.193755+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
