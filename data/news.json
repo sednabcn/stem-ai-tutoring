@@ -1,16 +1,26 @@
 {
   "status": "success",
-  "totalResults": 9,
+  "totalResults": 8,
   "articles": [
     {
-      "title": "Best Prime Day PS5 And Nintendo Switch Game Deals At Amazon - GameSpot",
+      "title": "ChatGPT made up a product feature out of thin air, so this company created it - Ars Technica",
       "source": {
-        "name": "GameSpot"
+        "name": "Ars Technica"
       },
-      "description": "A wide selection of PS5, Nintendo Switch, and Xbox Series X games are on sale for new all-time low p...",
-      "url": "https://www.gamespot.com/articles/best-prime-day-video-game-deals/1100-6533060/",
-      "publishedAt": "2025-07-09T19:33:27Z",
-      "processed_at": "2025-07-10T23:20:23.455389+00:00"
+      "description": "Soundslice caught OpenAI’s bot telling users about a fake music notation feature—then built it....",
+      "url": "https://arstechnica.com/ai/2025/07/chatgpt-made-up-a-product-feature-out-of-thin-air-so-this-company-created-it/",
+      "publishedAt": "2025-07-09T21:59:25Z",
+      "processed_at": "2025-07-11T01:50:56.287633+00:00"
+    },
+    {
+      "title": "This 65\" Sony Bravia 4K OLED TV Is 51% Off for Prime Day, Perfect for Your PS5 Pro - IGN",
+      "source": {
+        "name": "IGN"
+      },
+      "description": "Amazon has the huge, PS5-ready 65-inch Sony Bravia 4K OLED TV on sale for 51% off, making now a grea...",
+      "url": "https://www.ign.com/articles/65-sony-bravia-4k-oled-tv-deal-amazon-prime-day-2025",
+      "publishedAt": "2025-07-09T20:19:17Z",
+      "processed_at": "2025-07-11T01:50:56.287633+00:00"
     },
     {
       "title": "Amazon’s best Kindles are cheaper than ever during Prime Day - The Verge",
@@ -20,7 +30,7 @@
       "description": "The 2024 Kindle Paperwhite and the Kindle Colorsoft Signature Essential are down to all-time low pri...",
       "url": "https://www.theverge.com/tech/697975/amazon-prime-day-kindle-deal-paperwhite-colorsoft-sale-2025",
       "publishedAt": "2025-07-09T19:30:00Z",
-      "processed_at": "2025-07-10T23:20:23.455389+00:00"
+      "processed_at": "2025-07-11T01:50:56.287633+00:00"
     },
     {
       "title": "Cyberpunk 2077 leads a big drop of free PlayStation Plus July games - Polygon",
@@ -30,27 +40,7 @@
       "description": "Celebrating PlayStation Plus’ 15th anniversary, Cyberpunk 2077, Abiotic Factor, and more joining the...",
       "url": "https://www.polygon.com/what-to-play/611959/playstation-plus-new-free-games-july-2025",
       "publishedAt": "2025-07-09T19:01:42Z",
-      "processed_at": "2025-07-10T23:20:23.455389+00:00"
-    },
-    {
-      "title": "Welp, Looks Like It’s Time for Tim Cook to Finally Do Something - Gizmodo",
-      "source": {
-        "name": "Gizmodo.com"
-      },
-      "description": "It's time for Timmy to get cooking....",
-      "url": "https://gizmodo.com/welp-looks-like-its-time-for-tim-cook-to-finally-do-something-2000626623",
-      "publishedAt": "2025-07-09T18:19:04Z",
-      "processed_at": "2025-07-10T23:20:23.455389+00:00"
-    },
-    {
-      "title": "The best 4K TV deals during Prime Day 2025 - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "Several retailers are cutting prices on 4K TVs, including OLEDs, as well as soundbars and streaming ...",
-      "url": "https://www.theverge.com/tech/699516/4k-tv-soundbar-streaming-deal-sale-amazon-prime-day",
-      "publishedAt": "2025-07-09T18:00:00Z",
-      "processed_at": "2025-07-10T23:20:23.455389+00:00"
+      "processed_at": "2025-07-11T01:50:56.287633+00:00"
     },
     {
       "title": "Krafton Delays ‘Subnautica 2’ Game Ahead of $250 Million Payout - Bloomberg",
@@ -60,7 +50,17 @@
       "description": "The South Korean publisher announced last week that the CEO and founders of ‘Subnautica’ studio Unkn...",
       "url": "https://www.bloomberg.com/news/articles/2025-07-09/krafton-delays-subnautica-2-game-ahead-of-250-million-payout",
       "publishedAt": "2025-07-09T17:56:34Z",
-      "processed_at": "2025-07-10T23:20:23.455389+00:00"
+      "processed_at": "2025-07-11T01:50:56.287633+00:00"
+    },
+    {
+      "title": "Apple Readies First Upgrade to Its Struggling Vision Pro Headset - Bloomberg",
+      "source": {
+        "name": "Bloomberg"
+      },
+      "description": "Apple Inc. is planning to introduce its first upgrade to the $3,499 Vision Pro headset as early as t...",
+      "url": "https://www.bloomberg.com/news/articles/2025-07-09/apple-readies-first-upgrade-to-its-struggling-vision-pro-headset",
+      "publishedAt": "2025-07-09T17:10:10Z",
+      "processed_at": "2025-07-11T01:50:56.287633+00:00"
     },
     {
       "title": "Perplexity just launched an AI web browser - The Verge",
@@ -70,30 +70,20 @@
       "description": "Perplexity has launched Comet, a web browser that uses Perplexity as its default search engine and c...",
       "url": "https://www.theverge.com/news/703037/perplexity-ai-web-browser-comet-launch",
       "publishedAt": "2025-07-09T16:53:31Z",
-      "processed_at": "2025-07-10T23:20:23.455389+00:00"
+      "processed_at": "2025-07-11T01:50:56.287633+00:00"
     },
     {
-      "title": "Magic: The Gathering Goes Sci-fi - 9 New Cards from Edge of Eternities - IGN",
+      "title": "8 Ways iPadOS 26 Makes Your iPad More Like a Mac - MacRumors",
       "source": {
-        "name": "IGN"
+        "name": "MacRumors"
       },
-      "description": "We've got an early look at Magic's first space-themed set....",
-      "url": "https://www.ign.com/articles/magic-the-gathering-edge-of-eternities-spoilers",
-      "publishedAt": "2025-07-09T16:02:28Z",
-      "processed_at": "2025-07-10T23:20:23.455389+00:00"
-    },
-    {
-      "title": "Amazon Has Tons of Nintendo Switch Games on Sale for Prime Day - IGN",
-      "source": {
-        "name": "IGN"
-      },
-      "description": "Nintendo Switch game deals are live at Amazon, Best Buy, and the Nintendo eShop. Go crazy....",
-      "url": "https://www.ign.com/articles/best-amazon-prime-day-switch-game-deals-2025",
-      "publishedAt": "2025-07-09T15:45:53Z",
-      "processed_at": "2025-07-10T23:20:23.455389+00:00"
+      "description": "The lines between iPad and Mac have never been blurrier – and with iPadOS 26, currently in beta and ...",
+      "url": "https://www.macrumors.com/2025/07/09/8-ways-ipados-26-makes-ipad-like-mac/",
+      "publishedAt": "2025-07-09T16:21:39Z",
+      "processed_at": "2025-07-11T01:50:56.287633+00:00"
     }
   ],
-  "lastUpdated": "2025-07-10T23:20:23.455459+00:00",
+  "lastUpdated": "2025-07-11T01:50:56.287707+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
