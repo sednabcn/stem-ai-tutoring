@@ -1,6 +1,6 @@
 {
   "status": "success",
-  "totalResults": 8,
+  "totalResults": 9,
   "articles": [
     {
       "title": "Best Prime Day laptop deals 2025: Live updates on MacBook, Windows, and more discounts - ZDNet",
@@ -10,17 +10,37 @@
       "description": "I review tons of laptops each year - these are my favorite Amazon Prime Day laptop sales live now....",
       "url": "https://www.zdnet.com/article/best-prime-day-laptop-deals-2025-07-09/",
       "publishedAt": "2025-07-10T02:42:00Z",
-      "processed_at": "2025-07-11T04:37:44.469679+00:00"
+      "processed_at": "2025-07-11T05:24:07.425419+00:00"
     },
     {
-      "title": "ChatGPT made up a product feature out of thin air, so this company created it - Ars Technica",
+      "title": "The best Prime Day deals on charging accessories - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "Amazon Prime Day is offering huge discounts on charging accessories, from basic wall adapters, to wi...",
+      "url": "https://www.theverge.com/tech/698933/amazon-prime-day-2025-chargers-power-banks-batteries-deal-sale",
+      "publishedAt": "2025-07-09T23:57:49Z",
+      "processed_at": "2025-07-11T05:24:07.425419+00:00"
+    },
+    {
+      "title": "Report: Apple M4, more comfortable strap will headline first major Vision Pro update - Ars Technica",
       "source": {
         "name": "Ars Technica"
       },
-      "description": "Soundslice caught OpenAI’s bot telling users about a fake music notation feature—then built it....",
-      "url": "https://arstechnica.com/ai/2025/07/chatgpt-made-up-a-product-feature-out-of-thin-air-so-this-company-created-it/",
-      "publishedAt": "2025-07-09T21:59:25Z",
-      "processed_at": "2025-07-11T04:37:44.469679+00:00"
+      "description": "Iterative update will supposedly be a bridge to a later, more extensive redesign....",
+      "url": "https://arstechnica.com/gadgets/2025/07/report-apple-m4-more-comfortable-strap-will-headline-first-major-vision-pro-update/",
+      "publishedAt": "2025-07-09T20:45:19Z",
+      "processed_at": "2025-07-11T05:24:07.425419+00:00"
+    },
+    {
+      "title": "It's Been a Weak Prime Day for Gaming Laptops, With This Exception - WIRED",
+      "source": {
+        "name": "Wired"
+      },
+      "description": "Prime Day sales on gaming laptops have been weak. But the ROG Strix G16 comes with the latest GPUs a...",
+      "url": "https://www.wired.com/story/best-prime-day-gaming-laptop-deal/",
+      "publishedAt": "2025-07-09T19:55:37Z",
+      "processed_at": "2025-07-11T05:24:07.425419+00:00"
     },
     {
       "title": "Amazon’s best Kindles are cheaper than ever during Prime Day - The Verge",
@@ -30,7 +50,7 @@
       "description": "The 2024 Kindle Paperwhite and the Kindle Colorsoft Signature Essential are down to all-time low pri...",
       "url": "https://www.theverge.com/tech/697975/amazon-prime-day-kindle-deal-paperwhite-colorsoft-sale-2025",
       "publishedAt": "2025-07-09T19:30:00Z",
-      "processed_at": "2025-07-11T04:37:44.469679+00:00"
+      "processed_at": "2025-07-11T05:24:07.425419+00:00"
     },
     {
       "title": "Cyberpunk 2077 leads a big drop of free PlayStation Plus July games - Polygon",
@@ -40,7 +60,7 @@
       "description": "Celebrating PlayStation Plus’ 15th anniversary, Cyberpunk 2077, Abiotic Factor, and more joining the...",
       "url": "https://www.polygon.com/what-to-play/611959/playstation-plus-new-free-games-july-2025",
       "publishedAt": "2025-07-09T19:01:42Z",
-      "processed_at": "2025-07-11T04:37:44.469679+00:00"
+      "processed_at": "2025-07-11T05:24:07.425419+00:00"
     },
     {
       "title": "OpenAI is reportedly releasing an AI browser in the coming weeks - TechCrunch",
@@ -50,7 +70,7 @@
       "description": "OpenAI's browser is said to use AI to rethink how users browse the web, keeping some user interactio...",
       "url": "https://techcrunch.com/2025/07/09/openai-is-reportedly-releasing-an-ai-browser-in-the-coming-weeks/",
       "publishedAt": "2025-07-09T18:48:06Z",
-      "processed_at": "2025-07-11T04:37:44.469679+00:00"
+      "processed_at": "2025-07-11T05:24:07.425419+00:00"
     },
     {
       "title": "Krafton Delays ‘Subnautica 2’ Game Ahead of $250 Million Payout - Bloomberg",
@@ -60,17 +80,7 @@
       "description": "The South Korean publisher announced last week that the CEO and founders of ‘Subnautica’ studio Unkn...",
       "url": "https://www.bloomberg.com/news/articles/2025-07-09/krafton-delays-subnautica-2-game-ahead-of-250-million-payout",
       "publishedAt": "2025-07-09T17:56:34Z",
-      "processed_at": "2025-07-11T04:37:44.469679+00:00"
-    },
-    {
-      "title": "Apple Readies First Upgrade to Its Struggling Vision Pro Headset - Bloomberg",
-      "source": {
-        "name": "Bloomberg"
-      },
-      "description": "Apple Inc. is planning to introduce its first upgrade to the $3,499 Vision Pro headset as early as t...",
-      "url": "https://www.bloomberg.com/news/articles/2025-07-09/apple-readies-first-upgrade-to-its-struggling-vision-pro-headset",
-      "publishedAt": "2025-07-09T17:10:10Z",
-      "processed_at": "2025-07-11T04:37:44.469679+00:00"
+      "processed_at": "2025-07-11T05:24:07.425419+00:00"
     },
     {
       "title": "Prime Day Deals: Galaxy Buds 3 Pro, Nest Thermostat, much more - 9to5Google",
@@ -80,10 +90,10 @@
       "description": "Day 2 of the massive Amazon Prime Day sale is now in full swing and is now joined by pre-order......",
       "url": "http://9to5google.com/2025/07/09/prime-day-deals-galaxy-buds-3-pro-google-nest-thermostat/",
       "publishedAt": "2025-07-09T16:50:00Z",
-      "processed_at": "2025-07-11T04:37:44.469679+00:00"
+      "processed_at": "2025-07-11T05:24:07.425419+00:00"
     }
   ],
-  "lastUpdated": "2025-07-11T04:37:44.469744+00:00",
+  "lastUpdated": "2025-07-11T05:24:07.425484+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
