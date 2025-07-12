@@ -1,7 +1,37 @@
 {
   "status": "success",
-  "totalResults": 9,
+  "totalResults": 10,
   "articles": [
+    {
+      "title": "Best Prime Day laptop deals LIVE — My top day 3 picks now on MacBooks, Chromebooks and more - Tom's Guide",
+      "source": {
+        "name": "Tom's Guide"
+      },
+      "description": "Save big on the latest and greatest laptops this Prime Day!...",
+      "url": "https://www.tomsguide.com/live/news/best-prime-day-laptop-deals-2025",
+      "publishedAt": "2025-07-11T02:55:22Z",
+      "processed_at": "2025-07-12T05:21:10.490425+00:00"
+    },
+    {
+      "title": "The 65\" LG Evo C4 4K OLED Smart TV Drops to Under $1,200 With This Amazon Prime Day Deal - IGN",
+      "source": {
+        "name": "IGN"
+      },
+      "description": "If you have the space, the 77\" size is also down to under $1700....",
+      "url": "https://www.ign.com/articles/lg-evo-c4-4k-oled-is-still-the-best-tv-deal-for-amazon-prime-day",
+      "publishedAt": "2025-07-11T02:53:36Z",
+      "processed_at": "2025-07-12T05:21:10.490425+00:00"
+    },
+    {
+      "title": "Study: Apple’s newest AI model flags health conditions with up to 92% accuracy - 9to5Mac",
+      "source": {
+        "name": "9to5Mac"
+      },
+      "description": "Apple researchers developed an AI model trained on behavioral data collected from wearables, and it ...",
+      "url": "https://9to5mac.com/2025/07/10/study-apple-ai-model-flags-health-conditions-with-up-to-92-accuracy/",
+      "publishedAt": "2025-07-10T22:10:00Z",
+      "processed_at": "2025-07-12T05:21:10.490425+00:00"
+    },
     {
       "title": "Krafton slams ex-Subnautica 2 execs and claims it’ll give developers their ‘promised’ reward - The Verge",
       "source": {
@@ -10,7 +40,7 @@
       "description": "South Korean publisher Krafton Games has issued a statement condemning the former management of Unkn...",
       "url": "https://www.theverge.com/news/704606/subnautica-2-delay-krafton-unknown-worlds-bonus",
       "publishedAt": "2025-07-10T20:09:22Z",
-      "processed_at": "2025-07-12T04:32:15.406274+00:00"
+      "processed_at": "2025-07-12T05:21:10.490425+00:00"
     },
     {
       "title": "New Horror Game Is All About Doing Dentist Work On A Shark That Wants To Kill You - Kotaku",
@@ -20,7 +50,17 @@
       "description": "Be careful when fixing teeth in Shark Dentist or your patient might bite your head off...",
       "url": "https://kotaku.com/shark-dentist-horror-game-deadly-great-white-steam-pc-1851786072",
       "publishedAt": "2025-07-10T20:00:00Z",
-      "processed_at": "2025-07-12T04:32:15.406274+00:00"
+      "processed_at": "2025-07-12T05:21:10.490425+00:00"
+    },
+    {
+      "title": "Destiny 2 Edge of Fate Preload Time and File Size Revealed - The Game Post",
+      "source": {
+        "name": "Thegamepost.com"
+      },
+      "description": "Bungie has revealed preload details for Destiny 2: Edge of Fate, including when you can start downlo...",
+      "url": "https://thegamepost.com/destiny-2-edge-of-fate-preload-time-file-size-revealed/",
+      "publishedAt": "2025-07-10T19:32:36Z",
+      "processed_at": "2025-07-12T05:21:10.490425+00:00"
     },
     {
       "title": "Apple Plans New MacBook Pro, iPhone 17e and iPads by Early 2026 - Bloomberg",
@@ -30,17 +70,27 @@
       "description": "Apple Inc. is planning an ambitious pipeline of new products for release during the first half of 20...",
       "url": "https://www.bloomberg.com/news/articles/2025-07-10/apple-plans-new-macbook-pro-iphone-17e-and-ipads-by-early-2026",
       "publishedAt": "2025-07-10T19:05:09Z",
-      "processed_at": "2025-07-12T04:32:15.406274+00:00"
+      "processed_at": "2025-07-12T05:21:10.490425+00:00"
     },
     {
-      "title": "YouTube is shutting down its Trending page after 10 years - Dexerto",
+      "title": "Windows 11’s new Black Screen of Death is now rolling out - The Verge",
       "source": {
-        "name": "Dexerto"
+        "name": "The Verge"
       },
-      "description": "YouTube is shutting down its Trending page after ten years in favor of a new, more specific means of...",
-      "url": "https://www.dexerto.com/youtube/youtube-is-shutting-down-its-trending-page-after-10-years-3225185/",
-      "publishedAt": "2025-07-10T18:33:55Z",
-      "processed_at": "2025-07-12T04:32:15.406274+00:00"
+      "description": "Microsoft is rolling out a new Black Screen of Death in Windows 11. It replaces the blue screen that...",
+      "url": "https://www.theverge.com/news/704536/microsoft-windows-11-black-screen-of-death-bsod-now-available",
+      "publishedAt": "2025-07-10T18:50:28Z",
+      "processed_at": "2025-07-12T05:21:10.490425+00:00"
+    },
+    {
+      "title": "Google announces new Android Canary channel to replace Developer Previews - 9to5Google",
+      "source": {
+        "name": "9to5google.com"
+      },
+      "description": "Instead of Developer Previews, we’re now getting an Android Canary release channel. Google today is ...",
+      "url": "http://9to5google.com/2025/07/10/android-canary-channel-developer-previews/",
+      "publishedAt": "2025-07-10T18:30:00Z",
+      "processed_at": "2025-07-12T05:21:10.490425+00:00"
     },
     {
       "title": "FBI takes down big Nintendo Switch piracy site - Nintendo Everything",
@@ -50,50 +100,10 @@
       "description": "Nsw2u, a major Nintendo Switch piracy site that housed ROMs illegally, has been taken down by the FB...",
       "url": "https://nintendoeverything.com/nsw2u-nintendo-switch-rom-piracy-fbi-takedown/",
       "publishedAt": "2025-07-10T17:06:41Z",
-      "processed_at": "2025-07-12T04:32:15.406274+00:00"
-    },
-    {
-      "title": "Nintendo’s Prime Day Switch game deals start from $3 — 21 deals I’d add to my cart ASAP - Tom's Guide",
-      "source": {
-        "name": "Tom's Guide"
-      },
-      "description": "Nintendo and Amazon are both offering incredible discounts on Switch games for Prime Day...",
-      "url": "https://www.tomsguide.com/gaming/nintendo/nintendos-prime-day-switch-game-deals-start-from-usd3-21-deals-id-add-to-my-cart-asap",
-      "publishedAt": "2025-07-10T16:12:56Z",
-      "processed_at": "2025-07-12T04:32:15.406274+00:00"
-    },
-    {
-      "title": "Google adds image-to-video generation capability to Veo 3 - TechCrunch",
-      "source": {
-        "name": "TechCrunch"
-      },
-      "description": "Google said on Thursday it's adding an image-to-video generation feature to its Veo 3 AI video gener...",
-      "url": "https://techcrunch.com/2025/07/10/google-adds-image-to-video-generation-capability-to-veo-3/",
-      "publishedAt": "2025-07-10T15:00:00Z",
-      "processed_at": "2025-07-12T04:32:15.406274+00:00"
-    },
-    {
-      "title": "Astro Bot Has Added Its Most Wanted Cameo in Huge PS5 Update - Push Square",
-      "source": {
-        "name": "Push Square"
-      },
-      "description": "Spoilers within...",
-      "url": "https://www.pushsquare.com/news/2025/07/astro-bot-has-added-its-most-wanted-cameo-in-huge-ps5-update",
-      "publishedAt": "2025-07-10T15:00:00Z",
-      "processed_at": "2025-07-12T04:32:15.406274+00:00"
-    },
-    {
-      "title": "iPhone 17 Pro: New images could be best look yet at coming redesign - 9to5Mac",
-      "source": {
-        "name": "9to5Mac"
-      },
-      "description": "New images of an iPhone 17 Pro dummy model show off a beautiful black finish, the camera bar design,...",
-      "url": "https://9to5mac.com/2025/07/10/iphone-17-pro-new-images-coming-redesign/",
-      "publishedAt": "2025-07-10T14:06:00Z",
-      "processed_at": "2025-07-12T04:32:15.406274+00:00"
+      "processed_at": "2025-07-12T05:21:10.490425+00:00"
     }
   ],
-  "lastUpdated": "2025-07-12T04:32:15.406346+00:00",
+  "lastUpdated": "2025-07-12T05:21:10.490496+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
