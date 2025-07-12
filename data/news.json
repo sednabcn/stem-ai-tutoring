@@ -1,26 +1,36 @@
 {
   "status": "success",
-  "totalResults": 10,
+  "totalResults": 8,
   "articles": [
     {
-      "title": "The 65\" LG Evo C4 4K OLED Smart TV Drops to Under $1,200 With This Amazon Prime Day Deal - IGN",
+      "title": "Best Prime Day deals 2025: We found new price drops on Apple, Yeti, and Kindles — score over 60% off - Mashable",
       "source": {
-        "name": "IGN"
+        "name": "Mashable"
       },
-      "description": "If you have the space, the 77\" size is also down to under $1700....",
-      "url": "https://www.ign.com/articles/lg-evo-c4-4k-oled-is-still-the-best-tv-deal-for-amazon-prime-day",
-      "publishedAt": "2025-07-11T02:53:36Z",
-      "processed_at": "2025-07-12T08:26:08.226251+00:00"
+      "description": "Prime Day 2025 is on its third day (with only one more to go after this). Shop the best Amazon deals...",
+      "url": "https://mashable.com/article/best-prime-day-deals-2025-july-11",
+      "publishedAt": "2025-07-11T04:36:30Z",
+      "processed_at": "2025-07-12T09:21:06.312945+00:00"
     },
     {
-      "title": "Ghost of Yotei Goes Above and Beyond with New Director Modes, Even Has Lo-Fi Beats - Push Square",
+      "title": "Double Your Printing Fun With Dual-Light 3D Printing - Hackaday",
+      "source": {
+        "name": "Hackaday"
+      },
+      "description": "Using light to 3D print liquid resins is hardly a new idea. But researchers at the University of Tex...",
+      "url": "https://hackaday.com/2025/07/10/double-your-printing-fun-with-dual-light-3d-printing/",
+      "publishedAt": "2025-07-11T02:00:00Z",
+      "processed_at": "2025-07-12T09:21:06.312945+00:00"
+    },
+    {
+      "title": "'It's Not About Checking Off a Map, It's About Engaging with What Excites You': Ghost of Yotei PS5 Gameplay Stuns - Push Square",
       "source": {
         "name": "Push Square"
       },
-      "description": "Samurai cinema...",
-      "url": "https://www.pushsquare.com/news/2025/07/ghost-of-yotei-goes-above-and-beyond-with-new-director-modes-even-has-lo-fi-beats",
-      "publishedAt": "2025-07-10T23:20:00Z",
-      "processed_at": "2025-07-12T08:26:08.226251+00:00"
+      "description": "Sucker Punch puts its best foot forward...",
+      "url": "https://www.pushsquare.com/news/2025/07/its-not-about-checking-off-a-map-its-about-engaging-with-what-excites-you-ghost-of-yotei-ps5-gameplay-stuns",
+      "publishedAt": "2025-07-11T00:30:00Z",
+      "processed_at": "2025-07-12T09:21:06.312945+00:00"
     },
     {
       "title": "Study: Apple’s newest AI model flags health conditions with up to 92% accuracy - 9to5Mac",
@@ -30,17 +40,17 @@
       "description": "Apple researchers developed an AI model trained on behavioral data collected from wearables, and it ...",
       "url": "https://9to5mac.com/2025/07/10/study-apple-ai-model-flags-health-conditions-with-up-to-92-accuracy/",
       "publishedAt": "2025-07-10T22:10:00Z",
-      "processed_at": "2025-07-12T08:26:08.226251+00:00"
+      "processed_at": "2025-07-12T09:21:06.312945+00:00"
     },
     {
-      "title": "Some Switch 2 accessories and upgraded games are on sale for Prime Day - The Verge",
+      "title": "The Alienware Aurora 16 5060 Laptop for $1,100 Is the Best Budget Gaming Laptop Deal for Prime Day - IGN",
       "source": {
-        "name": "The Verge"
+        "name": "IGN"
       },
-      "description": "Good prices on a few cases, controllers, games, and accessories for the Nintendo Switch 2....",
-      "url": "https://www.theverge.com/tech/704317/amazon-prime-day-best-nintendo-switch-2-accessories-game-deals-2025",
-      "publishedAt": "2025-07-10T21:30:00Z",
-      "processed_at": "2025-07-12T08:26:08.226251+00:00"
+      "description": "$400 cheaper than the original launch price....",
+      "url": "https://www.ign.com/articles/alienware-aurora-16-rtx-5060-gaming-laptop-deal-dell-black-friday-in-july-beats-amazon-prime-day-sale",
+      "publishedAt": "2025-07-10T22:06:31Z",
+      "processed_at": "2025-07-12T09:21:06.312945+00:00"
     },
     {
       "title": "Krafton slams ex-Subnautica 2 execs and claims it’ll give developers their ‘promised’ reward - The Verge",
@@ -50,7 +60,17 @@
       "description": "South Korean publisher Krafton Games has issued a statement condemning the former management of Unkn...",
       "url": "https://www.theverge.com/news/704606/subnautica-2-delay-krafton-unknown-worlds-bonus",
       "publishedAt": "2025-07-10T20:09:22Z",
-      "processed_at": "2025-07-12T08:26:08.226251+00:00"
+      "processed_at": "2025-07-12T09:21:06.312945+00:00"
+    },
+    {
+      "title": "This new Android Canary feature will let you stop HDR photos from blinding you at night - Android Authority",
+      "source": {
+        "name": "Android Authority"
+      },
+      "description": "From turning the effect off altogether, to just dialing down the brightness, Android Canary delivers...",
+      "url": "https://www.androidauthority.com/android-canary-hdr-settings-3576420/",
+      "publishedAt": "2025-07-10T20:08:36Z",
+      "processed_at": "2025-07-12T09:21:06.312945+00:00"
     },
     {
       "title": "New Horror Game Is All About Doing Dentist Work On A Shark That Wants To Kill You - Kotaku",
@@ -60,50 +80,10 @@
       "description": "Be careful when fixing teeth in Shark Dentist or your patient might bite your head off...",
       "url": "https://kotaku.com/shark-dentist-horror-game-deadly-great-white-steam-pc-1851786072",
       "publishedAt": "2025-07-10T20:00:00Z",
-      "processed_at": "2025-07-12T08:26:08.226251+00:00"
-    },
-    {
-      "title": "How to upgrade an 'incompatible' Windows 10 PC to Windows 11 - 2 free options - ZDNET",
-      "source": {
-        "name": "ZDNet"
-      },
-      "description": "Microsoft really doesn't want customers to upgrade older PCs, but there are workarounds for many mod...",
-      "url": "https://www.zdnet.com/article/how-to-upgrade-an-incompatible-windows-10-pc-to-windows-11-2-free-options/",
-      "publishedAt": "2025-07-10T19:59:00Z",
-      "processed_at": "2025-07-12T08:26:08.226251+00:00"
-    },
-    {
-      "title": "Apple Plans New MacBook Pro, iPhone 17e and iPads by Early 2026 - Bloomberg",
-      "source": {
-        "name": "Bloomberg"
-      },
-      "description": "Apple Inc. is planning an ambitious pipeline of new products for release during the first half of 20...",
-      "url": "https://www.bloomberg.com/news/articles/2025-07-10/apple-plans-new-macbook-pro-iphone-17e-and-ipads-by-early-2026",
-      "publishedAt": "2025-07-10T19:05:09Z",
-      "processed_at": "2025-07-12T08:26:08.226251+00:00"
-    },
-    {
-      "title": "Destiny 2 Edge of Fate Raid: Name, Release Date and Time, Contest Mode, Power Level, Loot - The Game Post",
-      "source": {
-        "name": "Thegamepost.com"
-      },
-      "description": "Here's everything you need to know about Destiny 2 Edge of Fate raid: its name, launch timing across...",
-      "url": "https://thegamepost.com/destiny-2-edge-of-fate-raid-revealed/",
-      "publishedAt": "2025-07-10T19:04:09Z",
-      "processed_at": "2025-07-12T08:26:08.226251+00:00"
-    },
-    {
-      "title": "Windows 11’s new Black Screen of Death is now rolling out - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "Microsoft is rolling out a new Black Screen of Death in Windows 11. It replaces the blue screen that...",
-      "url": "https://www.theverge.com/news/704536/microsoft-windows-11-black-screen-of-death-bsod-now-available",
-      "publishedAt": "2025-07-10T18:50:28Z",
-      "processed_at": "2025-07-12T08:26:08.226251+00:00"
+      "processed_at": "2025-07-12T09:21:06.312945+00:00"
     }
   ],
-  "lastUpdated": "2025-07-12T08:26:08.226323+00:00",
+  "lastUpdated": "2025-07-12T09:21:06.313014+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
