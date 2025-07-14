@@ -3,14 +3,34 @@
   "totalResults": 10,
   "articles": [
     {
-      "title": "Galaxy Z Fold 7 is a major leap forward, but Pixel 9 Pro Fold was still the bigger upgrade - 9to5Google",
+      "title": "Walmart Has the Best Mario Switch Game Deal After Prime Day - IGN",
       "source": {
-        "name": "9to5google.com"
+        "name": "IGN"
       },
-      "description": "Samsung's new Galaxy Z Fold 7 is an impressive device, but compared to the Pixel 9 Pro Fold's reinve...",
-      "url": "http://9to5google.com/2025/07/13/samsung-galaxy-z-fold-7-pixel-9-pro-fold-refinement-reinvention/",
+      "description": "",
+      "url": "https://www.ign.com/articles/walmart-has-the-best-mario-switch-game-deal-after-prime-day",
+      "publishedAt": "2025-07-13T18:11:22Z",
+      "processed_at": "2025-07-14T19:17:07.061468+00:00"
+    },
+    {
+      "title": "Ken Levine's Judas is \"old-school\" - \"You buy the game and you get the whole thing\" - Eurogamer",
+      "source": {
+        "name": "Eurogamer.net"
+      },
+      "description": "",
+      "url": "https://www.eurogamer.net/ken-levines-judas-is-old-school-you-buy-the-game-and-you-get-the-whole-thing",
+      "publishedAt": "2025-07-13T17:43:30Z",
+      "processed_at": "2025-07-14T19:17:07.061468+00:00"
+    },
+    {
+      "title": "Yakuza 0: Director's Cut Game Review - Anime News Network",
+      "source": {
+        "name": "Anime News Network"
+      },
+      "description": "Unfortunately, for all of its improvements and refinements, this Director's Cut cannot truly be call...",
+      "url": "https://www.animenewsnetwork.com/review/game/switch-2/yakuza-0/director-cut/.226005",
       "publishedAt": "2025-07-13T16:00:00Z",
-      "processed_at": "2025-07-14T18:33:18.975351+00:00"
+      "processed_at": "2025-07-14T19:17:07.061468+00:00"
     },
     {
       "title": "In latest Subnautica 2 twist, Krafton confirms this leaked internal review document is real - Eurogamer",
@@ -20,7 +40,7 @@
       "description": "Subnautica developer Unknown Worlds' parent company, Krafton, has issued another statement, this tim...",
       "url": "https://www.eurogamer.net/in-latest-subnautica-2-twist-krafton-confirms-this-leaked-internal-review-document-is-real",
       "publishedAt": "2025-07-13T15:55:27Z",
-      "processed_at": "2025-07-14T18:33:18.975351+00:00"
+      "processed_at": "2025-07-14T19:17:07.061468+00:00"
     },
     {
       "title": "Destiny 2 Edge of Fate Preload Time and File Size Revealed - The Game Post",
@@ -30,7 +50,17 @@
       "description": "Bungie has revealed preload details for Destiny 2: Edge of Fate, including when you can start downlo...",
       "url": "https://thegamepost.com/destiny-2-edge-of-fate-preload-time-file-size-revealed/",
       "publishedAt": "2025-07-13T14:51:57Z",
-      "processed_at": "2025-07-14T18:33:18.975351+00:00"
+      "processed_at": "2025-07-14T19:17:07.061468+00:00"
+    },
+    {
+      "title": "Google Gemini flaw hijacks email summaries for phishing - BleepingComputer",
+      "source": {
+        "name": "BleepingComputer"
+      },
+      "description": "Google Gemini for Workspace can be exploited to generate email summaries that appear legitimate but ...",
+      "url": "https://www.bleepingcomputer.com/news/security/google-gemini-flaw-hijacks-email-summaries-for-phishing/",
+      "publishedAt": "2025-07-13T14:38:00Z",
+      "processed_at": "2025-07-14T19:17:07.061468+00:00"
     },
     {
       "title": "Xbox's Forza Horizon 5 Sold an Outrageous 2 Million Copies on PS5 in a Month - Push Square",
@@ -40,7 +70,7 @@
       "description": "Project Latitude delivers...",
       "url": "https://www.pushsquare.com/news/2025/07/xboxs-forza-horizon-5-sold-an-outrageous-2-million-copies-on-ps5-in-a-month",
       "publishedAt": "2025-07-13T14:30:00Z",
-      "processed_at": "2025-07-14T18:33:18.975351+00:00"
+      "processed_at": "2025-07-14T19:17:07.061468+00:00"
     },
     {
       "title": "Here are the latest rumors on the upcoming MacBook Pro refresh: Release date, details - 9to5Mac",
@@ -50,7 +80,7 @@
       "description": "Apple is reportedly working on a new MacBook Pro refresh, as they tend to do almost every year. This...",
       "url": "https://9to5mac.com/2025/07/13/apple-m5-macbook-pro-rumors-release-date-more/",
       "publishedAt": "2025-07-13T14:30:00Z",
-      "processed_at": "2025-07-14T18:33:18.975351+00:00"
+      "processed_at": "2025-07-14T19:17:07.061468+00:00"
     },
     {
       "title": "Potential iPhone 17 Launch Dates Narrow Down As Apple Prepares To Unveil Four New Models Including The Stunning Ultra-Thin Air And Redesigned Pro Versions - Wccftech",
@@ -60,50 +90,20 @@
       "description": "Apples iPhone 17 potential launch date revealed by credible analyst, slated to arrive in teh first h...",
       "url": "https://wccftech.com/iphone-17-potential-launch-date-revealed-by-analyst/",
       "publishedAt": "2025-07-13T14:28:00Z",
-      "processed_at": "2025-07-14T18:33:18.975351+00:00"
+      "processed_at": "2025-07-14T19:17:07.061468+00:00"
     },
     {
-      "title": "Here's Why Apple's All-New Home Hub is Delayed - MacRumors",
+      "title": "Linux 6.16 Ready With Fixes For Old AMD Hardware \"Which Wasn't Even Supposed To Run Linux\" - Phoronix",
       "source": {
-        "name": "MacRumors"
+        "name": "Phoronix"
       },
-      "description": "Apple's smart home hub will likely launch in 2026, according to Bloomberg's Mark Gurman.  HomePod wi...",
-      "url": "https://www.macrumors.com/2025/07/13/heres-why-apples-home-hub-is-delayed/",
-      "publishedAt": "2025-07-13T13:40:41Z",
-      "processed_at": "2025-07-14T18:33:18.975351+00:00"
-    },
-    {
-      "title": "Donkey Kong Bananza director says he’s aware of occasional performance issues, ‘prioritising fun’ - Video Games Chronicle",
-      "source": {
-        "name": "Video Games Chronicle"
-      },
-      "description": "Press noticed occasional frame drops in recent hands-on...",
-      "url": "https://www.videogameschronicle.com/news/donkey-kong-bananza-director-says-hes-aware-of-occasional-performance-issues-prioritising-fun/",
-      "publishedAt": "2025-07-13T13:00:49Z",
-      "processed_at": "2025-07-14T18:33:18.975351+00:00"
-    },
-    {
-      "title": "EA-backed car culture site winds down, as Need for Speed ‘shelved’ - Video Games Chronicle",
-      "source": {
-        "name": "Video Games Chronicle"
-      },
-      "description": "Speedhunters is 'on ice' after nearly two decades; EA recently suggested NFS plans were on hold...",
-      "url": "https://www.videogameschronicle.com/news/ea-backed-care-culture-site-winds-down-as-need-for-speed-shelved/",
-      "publishedAt": "2025-07-13T12:01:54Z",
-      "processed_at": "2025-07-14T18:33:18.975351+00:00"
-    },
-    {
-      "title": "Foldables are in and suddenly really thin - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "Plus: new Nothing hardware, another take on AI browsers, the return of Tony Hawk’s Pro Skater, and m...",
-      "url": "https://www.theverge.com/installer-newsletter/705979/samsung-galaxy-z-fold-flip-7-nothing-phone-headphone-installer",
-      "publishedAt": "2025-07-13T12:00:00Z",
-      "processed_at": "2025-07-14T18:33:18.975351+00:00"
+      "description": "Ahead of the Linux 6.16-rc6 kernel release due out later today, an x86/urgent pull request was sent ...",
+      "url": "https://www.phoronix.com/news/Linux-6.16-rc6-x86-urgent",
+      "publishedAt": "2025-07-13T13:52:00Z",
+      "processed_at": "2025-07-14T19:17:07.061468+00:00"
     }
   ],
-  "lastUpdated": "2025-07-14T18:33:18.975438+00:00",
+  "lastUpdated": "2025-07-14T19:17:07.061532+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
