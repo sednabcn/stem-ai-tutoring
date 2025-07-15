@@ -1,6 +1,6 @@
 {
   "status": "success",
-  "totalResults": 9,
+  "totalResults": 10,
   "articles": [
     {
       "title": "Vintage '60 Minutes' Episode Shows How Unhinged Lamborghini Testing Used To Be - Jalopnik",
@@ -10,7 +10,37 @@
       "description": "The presenter rides along with Valentino Balboni as he tests a red Countach at speeds up to 180 mph ...",
       "url": "https://www.jalopnik.com/1909933/vintage-60-minutes-episode-shows-unhinged-lamborghini-countach-testing/",
       "publishedAt": "2025-07-13T22:25:00Z",
-      "processed_at": "2025-07-14T23:20:50.282222+00:00"
+      "processed_at": "2025-07-15T01:55:44.967813+00:00"
+    },
+    {
+      "title": "2025 MLB Draft Day One Discussion Thread - Lone Star Ball",
+      "source": {
+        "name": "Lone Star Ball"
+      },
+      "description": "Talk about day one of the draft here...",
+      "url": "https://www.lonestarball.com/2025/7/13/24467074/2025-mlb-draft-day-one-discussion-thread",
+      "publishedAt": "2025-07-13T21:30:25Z",
+      "processed_at": "2025-07-15T01:55:44.967813+00:00"
+    },
+    {
+      "title": "macOS Tahoe 26: All the new features in Messages - 9to5Mac",
+      "source": {
+        "name": "9to5Mac"
+      },
+      "description": "9to5Mac is brought to you by CleanMyMac: Tidy up your Mac and iPhone today! Try 7 days free and use ...",
+      "url": "https://9to5mac.com/2025/07/13/macos-tahoe-26-all-the-new-features-in-messages/",
+      "publishedAt": "2025-07-13T21:22:00Z",
+      "processed_at": "2025-07-15T01:55:44.967813+00:00"
+    },
+    {
+      "title": "I unlocked the full potential of my phone's power button with these 8 tricks - Android Police",
+      "source": {
+        "name": "Android Police"
+      },
+      "description": "Where there&#039;s a button, there&#039;s power...",
+      "url": "https://www.androidpolice.com/android-power-button-tricks/",
+      "publishedAt": "2025-07-13T20:31:00Z",
+      "processed_at": "2025-07-15T01:55:44.967813+00:00"
     },
     {
       "title": "Mini Review: Patapon 1+2 Replay (PS5) - The Best Versions of Two PSP Classics in One Package - Push Square",
@@ -20,7 +50,7 @@
       "description": "Pon-Pon-Pata-Pon...",
       "url": "https://www.pushsquare.com/reviews/ps5/patapon-1plus2-replay",
       "publishedAt": "2025-07-13T19:30:00Z",
-      "processed_at": "2025-07-14T23:20:50.282222+00:00"
+      "processed_at": "2025-07-15T01:55:44.967813+00:00"
     },
     {
       "title": "Diablo 4 Content Creators Tease Big Changes for the Game After Blizzard Meeting - Game Rant",
@@ -30,7 +60,7 @@
       "description": "Several Diablo 4 content creators are teasing some significant changes coming to the game after a re...",
       "url": "https://gamerant.com/diablo-4-content-creat-res-big-changes-blizzard-meeting/",
       "publishedAt": "2025-07-13T19:28:00Z",
-      "processed_at": "2025-07-14T23:20:50.282222+00:00"
+      "processed_at": "2025-07-15T01:55:44.967813+00:00"
     },
     {
       "title": "These are the pros and cons of buying from Apple’s refurbished store: Is it worth it? - 9to5Mac",
@@ -40,7 +70,7 @@
       "description": "Apple has long offered a refurbished store on its website, where it sells recent generation products...",
       "url": "https://9to5mac.com/2025/07/13/apple-refurbished-store-pros-and-cons-good-deal-or-not/",
       "publishedAt": "2025-07-13T19:17:00Z",
-      "processed_at": "2025-07-14T23:20:50.282222+00:00"
+      "processed_at": "2025-07-15T01:55:44.967813+00:00"
     },
     {
       "title": "Walmart Has the Best Mario Switch Game Deal After Prime Day - IGN",
@@ -50,7 +80,17 @@
       "description": "",
       "url": "https://www.ign.com/articles/walmart-has-the-best-mario-switch-game-deal-after-prime-day",
       "publishedAt": "2025-07-13T18:11:22Z",
-      "processed_at": "2025-07-14T23:20:50.282222+00:00"
+      "processed_at": "2025-07-15T01:55:44.967813+00:00"
+    },
+    {
+      "title": "6 things I do before using my phone number for two-factor authentication - Android Police",
+      "source": {
+        "name": "Android Police"
+      },
+      "description": "SMS 2FA codes pose risks for account security. It&#039;s an easily exploitable method due to a lack ...",
+      "url": "https://www.androidpolice.com/know-before-using-phone-number-two-factor-authentication/",
+      "publishedAt": "2025-07-13T18:09:00Z",
+      "processed_at": "2025-07-15T01:55:44.967813+00:00"
     },
     {
       "title": "Ken Levine's Judas is \"old-school\" - \"You buy the game and you get the whole thing\" - Eurogamer",
@@ -60,40 +100,10 @@
       "description": "Ken Levine has revealed his upcoming game, Judas, will be an \"old-school\" and \"traditional\" single-p...",
       "url": "https://www.eurogamer.net/ken-levines-judas-is-old-school-you-buy-the-game-and-you-get-the-whole-thing",
       "publishedAt": "2025-07-13T17:43:30Z",
-      "processed_at": "2025-07-14T23:20:50.282222+00:00"
-    },
-    {
-      "title": "Apple Watch Ultra 3: What to Expect - MacRumors",
-      "source": {
-        "name": "MacRumors"
-      },
-      "description": "The long wait for an Apple Watch Ultra 3 is nearly over, and a handful of new features and changes h...",
-      "url": "https://www.macrumors.com/2025/07/13/apple-watch-ultra-3-two-rumored-upgrades/",
-      "publishedAt": "2025-07-13T17:30:00Z",
-      "processed_at": "2025-07-14T23:20:50.282222+00:00"
-    },
-    {
-      "title": "Anti-Microsoft \"End of Windows 10 toolkit\" released for unsupported Windows 11 PCs - Neowin",
-      "source": {
-        "name": "Neowin"
-      },
-      "description": "An &quot;End of Windows 10 toolkit&quot; has been released that is meant to help deal with systems t...",
-      "url": "https://www.neowin.net/news/anti-microsoft-end-of-windows-10-toolkit-released-for-unsupported-windows-11-pcs/",
-      "publishedAt": "2025-07-13T16:40:00Z",
-      "processed_at": "2025-07-14T23:20:50.282222+00:00"
-    },
-    {
-      "title": "Yakuza 0: Director's Cut Game Review - Anime News Network",
-      "source": {
-        "name": "Anime News Network"
-      },
-      "description": "Unfortunately, for all of its improvements and refinements, this Director's Cut cannot truly be call...",
-      "url": "https://www.animenewsnetwork.com/review/game/switch-2/yakuza-0/director-cut/.226005",
-      "publishedAt": "2025-07-13T16:00:00Z",
-      "processed_at": "2025-07-14T23:20:50.282222+00:00"
+      "processed_at": "2025-07-15T01:55:44.967813+00:00"
     }
   ],
-  "lastUpdated": "2025-07-14T23:20:50.282288+00:00",
+  "lastUpdated": "2025-07-15T01:55:44.967883+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
