@@ -1,7 +1,27 @@
 {
   "status": "success",
-  "totalResults": 9,
+  "totalResults": 10,
   "articles": [
+    {
+      "title": "Apple iOS 26 Developer Beta 3 hands-on: A Liquid Glass masterclass of \"less is more\" - PhoneArena",
+      "source": {
+        "name": "PhoneArena"
+      },
+      "description": "",
+      "url": "https://www.phonearena.com/news/Apple-iOS-26-Developer-Beta-3-hands-on-A-Liquid-Glass-masterclass-of-less-is-more_id172227",
+      "publishedAt": "2025-07-16T08:45:06Z",
+      "processed_at": "2025-07-17T09:26:43.074061+00:00"
+    },
+    {
+      "title": "Famitsu review scores – July 16, 2025 – first score for Donkey Kong Bananza - Nintendo Everything",
+      "source": {
+        "name": "Nintendoeverything.com"
+      },
+      "description": "Famitsu review scores for the week of July 16, 2025 include the first score for Donkey Kong Bananza ...",
+      "url": "https://nintendoeverything.com/famitsu-review-scores-july-16-2025-first-score-for-donkey-kong-bananza/",
+      "publishedAt": "2025-07-16T03:41:46Z",
+      "processed_at": "2025-07-17T09:26:43.074061+00:00"
+    },
     {
       "title": "Nintendo Announces 'Global Jam' Demo Event For Switch 2 Online Members - Nintendo Life",
       "source": {
@@ -10,17 +30,17 @@
       "description": "Try out Drag x Drive before its release...",
       "url": "https://www.nintendolife.com/news/2025/07/nintendo-announces-global-jam-demo-event-for-switch-2-online-members",
       "publishedAt": "2025-07-16T01:05:00Z",
-      "processed_at": "2025-07-17T08:30:14.819496+00:00"
+      "processed_at": "2025-07-17T09:26:43.074061+00:00"
     },
     {
-      "title": "Now Microsoft’s Copilot Vision AI can scan everything on your screen - The Verge",
+      "title": "OnePlus just launched a new 2-in-1 charging cable for phones and OnePlus Watch - 9to5Google",
       "source": {
-        "name": "The Verge"
+        "name": "9to5google.com"
       },
-      "description": "Microsoft is rolling out an update to Copilot Vision for Windows Insiders that lets the AI tool see ...",
-      "url": "https://www.theverge.com/news/707995/microsoft-copilot-vision-ai-windows-scan-screen-desktop",
-      "publishedAt": "2025-07-15T23:49:02Z",
-      "processed_at": "2025-07-17T08:30:14.819496+00:00"
+      "description": "Available now from the company’s website, a new 2-in-1 SuperVOOC cable supports charging both your O...",
+      "url": "http://9to5google.com/2025/07/15/oneplus-2-in-1-phone-watch-charging-cable/",
+      "publishedAt": "2025-07-16T00:00:00Z",
+      "processed_at": "2025-07-17T09:26:43.074061+00:00"
     },
     {
       "title": "Deals: Make Epic Savings on PS5 in Meaty PS Direct Summer Sale - Push Square",
@@ -30,17 +50,17 @@
       "description": "Europe scores some sizeable discounts...",
       "url": "https://www.pushsquare.com/guides/deals-make-epic-savings-on-ps5-in-meaty-ps-direct-summer-sale",
       "publishedAt": "2025-07-15T23:36:53Z",
-      "processed_at": "2025-07-17T08:30:14.819496+00:00"
+      "processed_at": "2025-07-17T09:26:43.074061+00:00"
     },
     {
-      "title": "OpenAI, Google DeepMind and Anthropic sound alarm: 'We may be losing the ability to understand AI' - VentureBeat",
+      "title": "Samsung Galaxy Z Fold7 undercuts Honor Magic V5 in crucial area despite official claims - Notebookcheck",
       "source": {
-        "name": "VentureBeat"
+        "name": "Notebookcheck.net"
       },
-      "description": "Scientists from OpenAI, Google, Anthropic and Meta unite in rare collaboration to warn that a critic...",
-      "url": "https://venturebeat.com/ai/openai-google-deepmind-and-anthropic-sound-alarm-we-may-be-losing-the-ability-to-understand-ai/",
-      "publishedAt": "2025-07-15T22:49:59Z",
-      "processed_at": "2025-07-17T08:30:14.819496+00:00"
+      "description": "Officially, the Honor Magic V5 is said to be thinner than the Samsung Galaxy Z Fold7 when opting for...",
+      "url": "https://www.notebookcheck.net/Samsung-Galaxy-Z-Fold7-undercuts-Honor-Magic-V5-in-crucial-area-despite-official-claims.1058797.0.html",
+      "publishedAt": "2025-07-15T21:04:00Z",
+      "processed_at": "2025-07-17T09:26:43.074061+00:00"
     },
     {
       "title": "Car Keys are coming to the Wallet app for 13 new vehicle brands soon - 9to5Mac",
@@ -50,17 +70,27 @@
       "description": "Apple recently announced 13 new vehicle brands that will soon support Car Key in the Wallet app for ...",
       "url": "https://9to5mac.com/2025/07/15/car-keys-are-coming-to-the-wallet-app-for-13-new-vehicle-brands-soon/",
       "publishedAt": "2025-07-15T20:59:00Z",
-      "processed_at": "2025-07-17T08:30:14.819496+00:00"
+      "processed_at": "2025-07-17T09:26:43.074061+00:00"
     },
     {
-      "title": "Xbox tests letting you stream your own games on PC - The Verge",
+      "title": "iPhone 17 Air Said to Feature Titanium Frame — Unlike iPhone 17 Pro - MacRumors",
       "source": {
-        "name": "The Verge"
+        "name": "MacRumors"
       },
-      "description": "Xbox is testing the ability to stream your own games on its PC app. The feature is rolling out to Xb...",
-      "url": "https://www.theverge.com/news/707739/xbox-stream-your-own-game-pc-app",
-      "publishedAt": "2025-07-15T20:25:26Z",
-      "processed_at": "2025-07-17T08:30:14.819496+00:00"
+      "description": "The rumored iPhone 17 Air will have a titanium frame, according to Apple analyst Jeff Pu.   In an in...",
+      "url": "https://www.macrumors.com/2025/07/15/iphone-17-air-titanium-rumor/",
+      "publishedAt": "2025-07-15T20:49:42Z",
+      "processed_at": "2025-07-17T09:26:43.074061+00:00"
+    },
+    {
+      "title": "PSA: Google Chrome to soon drop support for macOS Big Sur - 9to5Mac",
+      "source": {
+        "name": "9to5Mac"
+      },
+      "description": "If you’re a Chrome user still running macOS Big Sur, you’ll soon have to decide which of the two you...",
+      "url": "https://9to5mac.com/2025/07/15/psa-google-chrome-to-soon-drop-support-for-macos-big-sur/",
+      "publishedAt": "2025-07-15T20:38:00Z",
+      "processed_at": "2025-07-17T09:26:43.074061+00:00"
     },
     {
       "title": "Two Years Later, Starfield Still Hasn't Given Me A Reason To Care - Kotaku",
@@ -70,30 +100,10 @@
       "description": "We were supposed to be thrilled with the game’s ‘magnificent desolation’...",
       "url": "https://kotaku.com/starfield-exploration-astronauts-moon-boring-1851786351",
       "publishedAt": "2025-07-15T20:10:00Z",
-      "processed_at": "2025-07-17T08:30:14.819496+00:00"
-    },
-    {
-      "title": "Exclusive: Meta fixes bug that could leak users’ AI prompts and generated content - TechCrunch",
-      "source": {
-        "name": "TechCrunch"
-      },
-      "description": "The tech giant fixed the security flaw, netting a security researcher $10,000 for privately disclosi...",
-      "url": "https://techcrunch.com/2025/07/15/meta-fixes-bug-that-could-leak-users-ai-prompts-and-generated-content/",
-      "publishedAt": "2025-07-15T20:00:05Z",
-      "processed_at": "2025-07-17T08:30:14.819496+00:00"
-    },
-    {
-      "title": "Minecraft Adds Jack Black's Lava Chicken Song, But You Gotta Do Something Special To Get It - Kotaku",
-      "source": {
-        "name": "Kotaku"
-      },
-      "description": "La-la-la-lava! Ch-ch-ch-chicken! \"Steve's Lava Chicken\" is now in the actual game!...",
-      "url": "https://kotaku.com/minecraft-movie-lava-chicken-jockey-easter-egg-game-1851786345",
-      "publishedAt": "2025-07-15T19:45:00Z",
-      "processed_at": "2025-07-17T08:30:14.819496+00:00"
+      "processed_at": "2025-07-17T09:26:43.074061+00:00"
     }
   ],
-  "lastUpdated": "2025-07-17T08:30:14.819565+00:00",
+  "lastUpdated": "2025-07-17T09:26:43.074137+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
