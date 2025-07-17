@@ -1,60 +1,100 @@
 {
   "status": "success",
-  "totalResults": 5,
+  "totalResults": 9,
   "articles": [
     {
-      "title": "Breaking: Scientists discover new method for faster learning",
+      "title": "Car Keys are coming to the Wallet app for 13 new vehicle brands soon - 9to5Mac",
       "source": {
-        "name": "Science Daily"
+        "name": "9to5Mac"
       },
-      "description": "Revolutionary approach to accelerated learning techniques...",
-      "url": "#",
-      "publishedAt": "2025-07-16T23:22:42.932632+00:00",
-      "processed_at": "2025-07-16T23:22:42.932632+00:00"
+      "description": "Apple recently announced 13 new vehicle brands that will soon support Car Key in the Wallet app for ...",
+      "url": "https://9to5mac.com/2025/07/15/car-keys-are-coming-to-the-wallet-app-for-13-new-vehicle-brands-soon/",
+      "publishedAt": "2025-07-15T20:59:00Z",
+      "processed_at": "2025-07-17T01:52:53.876954+00:00"
     },
     {
-      "title": "Education News: Online tutoring platform shows 85% improvement rates",
+      "title": "Two Years Later, Starfield Still Hasn't Given Me A Reason To Care - Kotaku",
       "source": {
-        "name": "EdTech Weekly"
+        "name": "Kotaku"
       },
-      "description": "Comprehensive study reveals significant learning gains...",
-      "url": "#",
-      "publishedAt": "2025-07-16T23:22:42.932632+00:00",
-      "processed_at": "2025-07-16T23:22:42.932632+00:00"
+      "description": "We were supposed to be thrilled with the game’s ‘magnificent desolation’...",
+      "url": "https://kotaku.com/starfield-exploration-astronauts-moon-boring-1851786351",
+      "publishedAt": "2025-07-15T20:10:00Z",
+      "processed_at": "2025-07-17T01:52:53.876954+00:00"
     },
     {
-      "title": "Tech Update: AI-powered study tools gain popularity",
+      "title": "Minecraft Adds Jack Black's Lava Chicken Song, But You Gotta Do Something Special To Get It - Kotaku",
       "source": {
-        "name": "TechCrunch"
+        "name": "Kotaku"
       },
-      "description": "Artificial intelligence transforms education...",
-      "url": "#",
-      "publishedAt": "2025-07-16T23:22:42.932632+00:00",
-      "processed_at": "2025-07-16T23:22:42.932632+00:00"
+      "description": "La-la-la-lava! Ch-ch-ch-chicken! \"Steve's Lava Chicken\" is now in the actual game!...",
+      "url": "https://kotaku.com/minecraft-movie-lava-chicken-jockey-easter-egg-game-1851786345",
+      "publishedAt": "2025-07-15T19:45:00Z",
+      "processed_at": "2025-07-17T01:52:53.876954+00:00"
     },
     {
-      "title": "Research: Personalized learning shows promising results",
+      "title": "The new 8BitDo Pro 3 gamepad is open for pre-order now - Engadget",
       "source": {
-        "name": "Educational Research"
+        "name": "Google News"
       },
-      "description": "Tailored educational methods demonstrate effectiveness...",
-      "url": "#",
-      "publishedAt": "2025-07-16T23:22:42.932632+00:00",
-      "processed_at": "2025-07-16T23:22:42.932632+00:00"
+      "description": "",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUkJqZXZwV09XdWx0ajhLXzAtNTk3M1c4eTY4MnFlSDNxU2R4U1p6MEMxLXFCMDdxTEFnUTRVQzVQZEExbTMzekd0Sm5BSXZPeGtmYjl5VWhHVS1GR3VjcEt5ZHZNdEhXaFEzVGMtM09RXzU0OWVPWlZ6QlNFWnlST3hDS19KRV9ORDBnUU52ZHNNLWluVGhvR2tBVUlYYUJRa3dF?oc=5",
+      "publishedAt": "2025-07-15T18:10:06Z",
+      "processed_at": "2025-07-17T01:52:53.876954+00:00"
     },
     {
-      "title": "Innovation: New classroom tech boosts engagement",
+      "title": "Sony’s pocket-sized RX1R camera returns with its first update in 10 years - The Verge",
       "source": {
-        "name": "Digital Learning"
+        "name": "The Verge"
       },
-      "description": "Interactive technologies boost student participation...",
-      "url": "#",
-      "publishedAt": "2025-07-16T23:22:42.932632+00:00",
-      "processed_at": "2025-07-16T23:22:42.932632+00:00"
+      "description": "The Sony RX1R III launches nearly 10 years after the last version with more resolution, better video...",
+      "url": "https://www.theverge.com/news/707589/sony-rx1r-iii-digital-compact-pocket-camera",
+      "publishedAt": "2025-07-15T17:57:19Z",
+      "processed_at": "2025-07-17T01:52:53.876954+00:00"
+    },
+    {
+      "title": "Nintendo 64 Fans Left Waiting A Little Longer As Analogue 3D Maker Blames Tariffs For Latest Delay - Kotaku",
+      "source": {
+        "name": "Kotaku"
+      },
+      "description": "The Analogue 3D was supposed to arrive earlier this year...",
+      "url": "https://kotaku.com/analogue-3d-n64-nintendo-ship-date-delay-tariff-1851786334",
+      "publishedAt": "2025-07-15T17:55:00Z",
+      "processed_at": "2025-07-17T01:52:53.876954+00:00"
+    },
+    {
+      "title": "Fallout 5 Gets Release Date Update After Recent Game Cancellation - PlayStation LifeStyle",
+      "source": {
+        "name": "PlayStation LifeStyle"
+      },
+      "description": "A new report suggests that Fallout 5 has finally been greenlit, but at the expense of another Bethes...",
+      "url": "https://www.playstationlifestyle.net/2025/07/15/fallout-5-development-update-report/",
+      "publishedAt": "2025-07-15T17:53:39Z",
+      "processed_at": "2025-07-17T01:52:53.876954+00:00"
+    },
+    {
+      "title": "iOS 26 public beta rumored to launch next week - 9to5Mac",
+      "source": {
+        "name": "9to5Mac"
+      },
+      "description": "Apple is now rumored to launch the first iOS 26 public beta next week, according to Mark Gurman, who...",
+      "url": "https://9to5mac.com/2025/07/15/ios-26-public-beta-rumored-to-launch-next-week/",
+      "publishedAt": "2025-07-15T17:49:00Z",
+      "processed_at": "2025-07-17T01:52:53.876954+00:00"
+    },
+    {
+      "title": "Our biggest questions about ChromeOS and Android merging - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "Google executive Sameer Samat said ChromeOS and Android will merge into one platform. What does that...",
+      "url": "https://www.theverge.com/google/707041/google-chromeos-android-os-merger-questions-phones-chromebooks-laptops-tablets",
+      "publishedAt": "2025-07-15T17:43:48Z",
+      "processed_at": "2025-07-17T01:52:53.876954+00:00"
     }
   ],
-  "lastUpdated": "2025-07-16T23:22:42.932651+00:00",
-  "source": "Fallback",
+  "lastUpdated": "2025-07-17T01:52:53.877023+00:00",
+  "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
     "script_version": "2.0.0",
