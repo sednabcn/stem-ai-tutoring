@@ -3,14 +3,74 @@
   "totalResults": 10,
   "articles": [
     {
+      "title": "Hackers exploit a blind spot by hiding malware inside DNS records - Ars Technica",
+      "source": {
+        "name": "Ars Technica"
+      },
+      "description": "Technique transforms the Internet DNS into an unconventional file storage system....",
+      "url": "https://arstechnica.com/security/2025/07/hackers-exploit-a-blind-spot-by-hiding-malware-inside-dns-records/",
+      "publishedAt": "2025-07-16T11:15:04Z",
+      "processed_at": "2025-07-17T13:37:45.119437+00:00"
+    },
+    {
+      "title": "“They Just Unlocked Super Lasers!”: Breakthrough Amplifier Could Make the Internet 10× Faster and Launch a New Era of Light-Speed Data - Energy Reporters",
+      "source": {
+        "name": "Energy-reporters.com"
+      },
+      "description": "IN A NUTSHELL 🚀 Scientists have developed a new laser amplifier that increases data transmission spe...",
+      "url": "https://www.energy-reporters.com/transmission/they-just-unlocked-super-lasers-breakthrough-amplifier-could-make-the-internet-10x-faster-and-launch-a-new-era-of-light-speed-data/",
+      "publishedAt": "2025-07-16T11:12:41Z",
+      "processed_at": "2025-07-17T13:37:45.119437+00:00"
+    },
+    {
+      "title": "“It Blew Itself Up Instantly!”: New Ultra-Secure SSD Destroys Data on Command to Stop Hackers Dead in Their Tracks - Rude Baguette",
+      "source": {
+        "name": "Rudebaguette.com"
+      },
+      "description": "IN A NUTSHELL 🚀 The P250Q-M80 SSD by TeamGroup features a groundbreaking self-destruct mechanism for...",
+      "url": "https://www.rudebaguette.com/en/2025/07/it-blew-itself-up-instantly-new-ultra-secure-ssd-destroys-data-on-command-to-stop-hackers-dead-in-their-tracks/",
+      "publishedAt": "2025-07-16T11:10:39Z",
+      "processed_at": "2025-07-17T13:37:45.119437+00:00"
+    },
+    {
+      "title": "Here’s what Mac you need for Cyberpunk 2077 - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "Cyberpunk 2077 is debuting on Mac on July 17th, and you’ll need an M1 with 16GB of memory. If you wa...",
+      "url": "https://www.theverge.com/news/708100/cyberpunk-2077-mac-system-requirements-modes-ray-tracing",
+      "publishedAt": "2025-07-16T10:57:47Z",
+      "processed_at": "2025-07-17T13:37:45.119437+00:00"
+    },
+    {
+      "title": "Chinese authorities are using a new tool to hack seized phones and extract data - TechCrunch",
+      "source": {
+        "name": "TechCrunch"
+      },
+      "description": "Researchers warned that Chinese residents, and visitors to China, should be aware of the tool's exis...",
+      "url": "https://techcrunch.com/2025/07/16/chinese-authorities-are-using-a-new-tool-to-hack-seized-phones-and-extract-data/",
+      "publishedAt": "2025-07-16T10:00:00Z",
+      "processed_at": "2025-07-17T13:37:45.119437+00:00"
+    },
+    {
+      "title": "Valve gets pressured by payment processors with a new rule for game devs and various adult games removed - GamingOnLinux",
+      "source": {
+        "name": "Gamingonlinux.com"
+      },
+      "description": "Valve have added a new rule to the Onboarding guide for game developers, noting that payment process...",
+      "url": "https://www.gamingonlinux.com/2025/07/valve-gets-pressured-by-payment-processors-with-a-new-rule-for-game-devs-and-various-adult-games-removed/.",
+      "publishedAt": "2025-07-16T09:36:38Z",
+      "processed_at": "2025-07-17T13:37:45.119437+00:00"
+    },
+    {
       "title": "Apple iOS 26 Developer Beta 3 hands-on: A Liquid Glass masterclass of \"less is more\" - PhoneArena",
       "source": {
         "name": "PhoneArena"
       },
-      "description": "",
+      "description": "Liquid Glass was off to a rocky start, but Apple is doing good in toning it down....",
       "url": "https://www.phonearena.com/news/Apple-iOS-26-Developer-Beta-3-hands-on-A-Liquid-Glass-masterclass-of-less-is-more_id172227",
       "publishedAt": "2025-07-16T08:45:06Z",
-      "processed_at": "2025-07-17T12:46:09.189803+00:00"
+      "processed_at": "2025-07-17T13:37:45.119437+00:00"
     },
     {
       "title": "Famitsu review scores – July 16, 2025 – first score for Donkey Kong Bananza - Nintendo Everything",
@@ -20,7 +80,7 @@
       "description": "Famitsu review scores for the week of July 16, 2025 include the first score for Donkey Kong Bananza ...",
       "url": "https://nintendoeverything.com/famitsu-review-scores-july-16-2025-first-score-for-donkey-kong-bananza/",
       "publishedAt": "2025-07-16T03:41:46Z",
-      "processed_at": "2025-07-17T12:46:09.189803+00:00"
+      "processed_at": "2025-07-17T13:37:45.119437+00:00"
     },
     {
       "title": "Nintendo Announces 'Global Jam' Demo Event For Switch 2 Online Members - Nintendo Life",
@@ -30,7 +90,7 @@
       "description": "Try out Drag x Drive before its release...",
       "url": "https://www.nintendolife.com/news/2025/07/nintendo-announces-global-jam-demo-event-for-switch-2-online-members",
       "publishedAt": "2025-07-16T01:05:00Z",
-      "processed_at": "2025-07-17T12:46:09.189803+00:00"
+      "processed_at": "2025-07-17T13:37:45.119437+00:00"
     },
     {
       "title": "OnePlus just launched a new 2-in-1 charging cable for phones and OnePlus Watch - 9to5Google",
@@ -40,70 +100,10 @@
       "description": "Available now from the company’s website, a new 2-in-1 SuperVOOC cable supports charging both your O...",
       "url": "http://9to5google.com/2025/07/15/oneplus-2-in-1-phone-watch-charging-cable/",
       "publishedAt": "2025-07-16T00:00:00Z",
-      "processed_at": "2025-07-17T12:46:09.189803+00:00"
-    },
-    {
-      "title": "Deals: Make Epic Savings on PS5 in Meaty PS Direct Summer Sale - Push Square",
-      "source": {
-        "name": "Push Square"
-      },
-      "description": "Europe scores some sizeable discounts...",
-      "url": "https://www.pushsquare.com/guides/deals-make-epic-savings-on-ps5-in-meaty-ps-direct-summer-sale",
-      "publishedAt": "2025-07-15T23:36:53Z",
-      "processed_at": "2025-07-17T12:46:09.189803+00:00"
-    },
-    {
-      "title": "Samsung Galaxy Z Fold7 undercuts Honor Magic V5 in crucial area despite official claims - Notebookcheck",
-      "source": {
-        "name": "Notebookcheck.net"
-      },
-      "description": "Officially, the Honor Magic V5 is said to be thinner than the Samsung Galaxy Z Fold7 when opting for...",
-      "url": "https://www.notebookcheck.net/Samsung-Galaxy-Z-Fold7-undercuts-Honor-Magic-V5-in-crucial-area-despite-official-claims.1058797.0.html",
-      "publishedAt": "2025-07-15T21:04:00Z",
-      "processed_at": "2025-07-17T12:46:09.189803+00:00"
-    },
-    {
-      "title": "Car Keys are coming to the Wallet app for 13 new vehicle brands soon - 9to5Mac",
-      "source": {
-        "name": "9to5Mac"
-      },
-      "description": "Apple recently announced 13 new vehicle brands that will soon support Car Key in the Wallet app for ...",
-      "url": "https://9to5mac.com/2025/07/15/car-keys-are-coming-to-the-wallet-app-for-13-new-vehicle-brands-soon/",
-      "publishedAt": "2025-07-15T20:59:00Z",
-      "processed_at": "2025-07-17T12:46:09.189803+00:00"
-    },
-    {
-      "title": "iPhone 17 Air Said to Feature Titanium Frame — Unlike iPhone 17 Pro - MacRumors",
-      "source": {
-        "name": "MacRumors"
-      },
-      "description": "The rumored iPhone 17 Air will have a titanium frame, according to Apple analyst Jeff Pu.   In an in...",
-      "url": "https://www.macrumors.com/2025/07/15/iphone-17-air-titanium-rumor/",
-      "publishedAt": "2025-07-15T20:49:42Z",
-      "processed_at": "2025-07-17T12:46:09.189803+00:00"
-    },
-    {
-      "title": "PSA: Google Chrome to soon drop support for macOS Big Sur - 9to5Mac",
-      "source": {
-        "name": "9to5Mac"
-      },
-      "description": "If you’re a Chrome user still running macOS Big Sur, you’ll soon have to decide which of the two you...",
-      "url": "https://9to5mac.com/2025/07/15/psa-google-chrome-to-soon-drop-support-for-macos-big-sur/",
-      "publishedAt": "2025-07-15T20:38:00Z",
-      "processed_at": "2025-07-17T12:46:09.189803+00:00"
-    },
-    {
-      "title": "Two Years Later, Starfield Still Hasn't Given Me A Reason To Care - Kotaku",
-      "source": {
-        "name": "Kotaku"
-      },
-      "description": "We were supposed to be thrilled with the game’s ‘magnificent desolation’...",
-      "url": "https://kotaku.com/starfield-exploration-astronauts-moon-boring-1851786351",
-      "publishedAt": "2025-07-15T20:10:00Z",
-      "processed_at": "2025-07-17T12:46:09.189803+00:00"
+      "processed_at": "2025-07-17T13:37:45.119437+00:00"
     }
   ],
-  "lastUpdated": "2025-07-17T12:46:09.189878+00:00",
+  "lastUpdated": "2025-07-17T13:37:45.119517+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
