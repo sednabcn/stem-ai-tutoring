@@ -1,7 +1,47 @@
 {
   "status": "success",
-  "totalResults": 10,
+  "totalResults": 8,
   "articles": [
+    {
+      "title": "Sony is still stubborn about the size of its cameras - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "Sony’s new RX1R III camera has been anticipated for almost 10 years, but it lacks a key feature from...",
+      "url": "https://www.theverge.com/cameras/708846/sony-rx1riii-full-frame-camera-size-issue-articulating-screen",
+      "publishedAt": "2025-07-17T13:30:00Z",
+      "processed_at": "2025-07-18T15:23:15.252738+00:00"
+    },
+    {
+      "title": "Destiny 2 Desert Perpetual Raid Loot Leaks Online: Exotic Weapon, Legendary Weapons, Armor Sets, Title, Emblems & More - The Game Post",
+      "source": {
+        "name": "Thegamepost.com"
+      },
+      "description": "The first look at Destiny 2’s upcoming Desert Perpetual raid loot appears to have been leaked ahead ...",
+      "url": "https://thegamepost.com/destiny-2-desert-perpetual-raid-loot-leaks/",
+      "publishedAt": "2025-07-17T12:42:20Z",
+      "processed_at": "2025-07-18T15:23:15.252738+00:00"
+    },
+    {
+      "title": "Samsung Galaxy Watch 8 Review: The Best Wearable AI - PCMag",
+      "source": {
+        "name": "PCMag.com"
+      },
+      "description": "In-depth health insights packed into a thin wearable frame...",
+      "url": "https://www.pcmag.com/reviews/samsung-galaxy-watch-8",
+      "publishedAt": "2025-07-17T12:02:39Z",
+      "processed_at": "2025-07-18T15:23:15.252738+00:00"
+    },
+    {
+      "title": "Slack says its AI can make sense of your company’s jargon - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "Slack is using AI to help business users quickly understand confusing company language and concentra...",
+      "url": "https://www.theverge.com/news/708820/slack-ai-message-context-canvas-writing-assistant",
+      "publishedAt": "2025-07-17T12:00:34Z",
+      "processed_at": "2025-07-18T15:23:15.252738+00:00"
+    },
     {
       "title": "Everything we learned from a week with Apple CarPlay Ultra - Ars Technica",
       "source": {
@@ -10,17 +50,27 @@
       "description": "CarPlay Ultra takes over the main instrument display as well as the infotainment....",
       "url": "https://arstechnica.com/cars/2025/07/everything-we-learned-from-a-week-with-apple-carplay-ultra/",
       "publishedAt": "2025-07-17T11:00:39Z",
-      "processed_at": "2025-07-18T14:21:29.982595+00:00"
+      "processed_at": "2025-07-18T15:23:15.252738+00:00"
     },
     {
-      "title": "Studio behind Oblivion Remastered, one of 2025's biggest hits, subject to mass layoffs - report - Eurogamer",
+      "title": "I tested a new browser that makes Chrome feel outdated - Android Authority",
       "source": {
-        "name": "Eurogamer.net"
+        "name": "Android Authority"
       },
-      "description": "Virtuos has reportedly been impacted by layoffs, affecting seven percent of staff....",
-      "url": "https://www.eurogamer.net/studio-behind-oblivion-remastered-one-of-2025s-biggest-hits-subject-to-mass-layoffs-report",
-      "publishedAt": "2025-07-17T09:50:24Z",
-      "processed_at": "2025-07-18T14:21:29.982595+00:00"
+      "description": "I expected it to be another web browser with AI slapped on to it. But Comet quickly proved me wrong ...",
+      "url": "https://www.androidauthority.com/perplexity-comet-hands-on-3577968/",
+      "publishedAt": "2025-07-17T10:25:19Z",
+      "processed_at": "2025-07-18T15:23:15.252738+00:00"
+    },
+    {
+      "title": "Review: RoboCop: Rogue City - Unfinished Business (PS5) - Standalone Mini-Sequel Just Misses the Mark - Push Square",
+      "source": {
+        "name": "Push Square"
+      },
+      "description": "Fun in the gun...",
+      "url": "https://www.pushsquare.com/reviews/ps5/robocop-rogue-city-unfinished-business",
+      "publishedAt": "2025-07-17T08:03:10Z",
+      "processed_at": "2025-07-18T15:23:15.252738+00:00"
     },
     {
       "title": "One Tech Tip: How to clean your computer, earbuds and smartphone - AP News",
@@ -30,80 +80,10 @@
       "description": "Cleaning your electronic devices is essential for hygiene and performance. Regular cleaning not only...",
       "url": "https://apnews.com/article/tech-cleaning-smartphone-computer-48a98c0de897e5280a5fd83b072e6284",
       "publishedAt": "2025-07-17T05:00:00Z",
-      "processed_at": "2025-07-18T14:21:29.982595+00:00"
-    },
-    {
-      "title": "Apple’s new daily puzzle game is basically Emoji Wordle - Polygon",
-      "source": {
-        "name": "Polygon"
-      },
-      "description": "Apple has a new daily puzzle game that combines Wordle and emoji, available for Apple News+ subscrib...",
-      "url": "https://www.polygon.com/news/613453/emoji-game-new-apple-news-game",
-      "publishedAt": "2025-07-17T04:01:00Z",
-      "processed_at": "2025-07-18T14:21:29.982595+00:00"
-    },
-    {
-      "title": "Microsoft is saving millions with AI and laying off thousands - where do we go from here? - ZDNET",
-      "source": {
-        "name": "ZDNet"
-      },
-      "description": "Experts, lawyers, and tech workers disagree on what Microsoft's layoffs mean for the tech industry a...",
-      "url": "https://www.zdnet.com/article/microsoft-is-saving-millions-with-ai-and-laying-off-thousands-where-do-we-go-from-here/",
-      "publishedAt": "2025-07-17T02:00:00Z",
-      "processed_at": "2025-07-18T14:21:29.982595+00:00"
-    },
-    {
-      "title": "Subnautica 2’s creators sue their publisher for ‘severely’ damaging the game’s release - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "The former executives of Subnautica 2 developer Unknown Worlds have filed a lawsuit against publishe...",
-      "url": "https://www.theverge.com/entertainment/708676/subnautica-2-former-ceo-lawsuit-krafton-sabotage",
-      "publishedAt": "2025-07-16T23:26:13Z",
-      "processed_at": "2025-07-18T14:21:29.982595+00:00"
-    },
-    {
-      "title": "Xbox Summer Sale 2025 Now Live, 1000+ Games Discounted - Pure Xbox",
-      "source": {
-        "name": "Pure Xbox"
-      },
-      "description": "The Ultimate Game Sale has arrived!...",
-      "url": "https://www.purexbox.com/news/2025/07/xbox-summer-sale-2025-now-live-1000plus-games-discounted",
-      "publishedAt": "2025-07-16T23:00:00Z",
-      "processed_at": "2025-07-18T14:21:29.982595+00:00"
-    },
-    {
-      "title": "Donkey Kong Switch Games Are Getting Price Cuts Alongside the Release of Bananza - IGN",
-      "source": {
-        "name": "IGN"
-      },
-      "description": "Time to go bananas....",
-      "url": "https://www.ign.com/articles/donkey-kong-switch-games-are-getting-price-cuts-alongside-the-release-of-bananza",
-      "publishedAt": "2025-07-16T21:58:46Z",
-      "processed_at": "2025-07-18T14:21:29.982595+00:00"
-    },
-    {
-      "title": "I want an iPhone Mini-sized Android phone (2022) - Hacker News",
-      "source": {
-        "name": "Hacker News"
-      },
-      "description": "",
-      "url": "https://news.ycombinator.com/item?id\\\\u003d44586723",
-      "publishedAt": "2025-07-16T21:35:12Z",
-      "processed_at": "2025-07-18T14:21:29.982595+00:00"
-    },
-    {
-      "title": "Nintendo is taking desperate measures in patent infringement case against Palworld — and it's looking a little weird - Windows Central",
-      "source": {
-        "name": "Windows Central"
-      },
-      "description": "Pocketpair may have a stronger defense than Nintendo anticipated, according to this new report by pa...",
-      "url": "https://www.windowscentral.com/gaming/nintendo-is-taking-desperate-measures-in-patent-infringement-case-against-palworld-and-its-looking-a-little-weird",
-      "publishedAt": "2025-07-16T21:30:00Z",
-      "processed_at": "2025-07-18T14:21:29.982595+00:00"
+      "processed_at": "2025-07-18T15:23:15.252738+00:00"
     }
   ],
-  "lastUpdated": "2025-07-18T14:21:29.982667+00:00",
+  "lastUpdated": "2025-07-18T15:23:15.252815+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
