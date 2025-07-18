@@ -1,16 +1,96 @@
 {
   "status": "success",
-  "totalResults": 8,
+  "totalResults": 10,
   "articles": [
     {
-      "title": "Fitbit was down — live updates on the outage - Tom's Guide",
+      "title": "The Most Egregious Emmys Snub of the Year Reflects a Disturbing Trend in TV Awards - Slate Magazine",
       "source": {
-        "name": "Tom's Guide"
+        "name": "Slate Magazine"
       },
-      "description": "If Fitbit wasn't counting it, did it even count as a workout?...",
-      "url": "https://www.tomsguide.com/news/live/fitbit-outage-july-17-2025",
-      "publishedAt": "2025-07-17T14:52:41Z",
-      "processed_at": "2025-07-18T18:31:19.473785+00:00"
+      "description": "The White Lotus can go to hell....",
+      "url": "https://slate.com/culture/2025/07/emmy-nominations-2025-awards-snubs-hbo-tv.html",
+      "publishedAt": "2025-07-17T17:36:00Z",
+      "processed_at": "2025-07-18T19:17:58.819196+00:00"
+    },
+    {
+      "title": "Help, The PS5 Store Is Flooded With AI Slop - Kotaku",
+      "source": {
+        "name": "Kotaku"
+      },
+      "description": "Italian Brainrot memes are taking over the PlayStation store...",
+      "url": "https://kotaku.com/ps5-psn-playstation-store-ai-slop-brainrot-junk-spam-1851786494",
+      "publishedAt": "2025-07-17T16:55:00Z",
+      "processed_at": "2025-07-18T19:17:58.819196+00:00"
+    },
+    {
+      "title": "The next batch of emoji includes Bigfoot - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "Unicode 17.0 will include new emoji like a “hairy creature,” “apple core,” “ballet dancers,” and mor...",
+      "url": "https://www.theverge.com/news/709179/emoji-17-0-bigfoot-apple-core-orca-treasure-chest-trombone-dancer",
+      "publishedAt": "2025-07-17T16:44:33Z",
+      "processed_at": "2025-07-18T19:17:58.819196+00:00"
+    },
+    {
+      "title": "Donkey Kong Bananza shows just how much the last two Zeldas have changed Nintendo - Polygon",
+      "source": {
+        "name": "Polygon"
+      },
+      "description": "DK’s debut on Switch 2 takes as much from Breath of the Wild and Tears of the Kingdom as it does the...",
+      "url": "https://www.polygon.com/impressions/613650/donkey-kong-bananza-switch-2-launch-day-impressions",
+      "publishedAt": "2025-07-17T16:03:31Z",
+      "processed_at": "2025-07-18T19:17:58.819196+00:00"
+    },
+    {
+      "title": "Can Skate Revive the Old-School Magic? - IGN",
+      "source": {
+        "name": "IGN"
+      },
+      "description": "After playing Skate for well over five hours, not only I can clearly see the direction developer Ful...",
+      "url": "https://www.ign.com/articles/can-skate-revive-the-old-school-magic",
+      "publishedAt": "2025-07-17T16:01:10Z",
+      "processed_at": "2025-07-18T19:17:58.819196+00:00"
+    },
+    {
+      "title": "33.0.3 Patch Notes — Hearthstone - Blizzard News",
+      "source": {
+        "name": "Blizzard.com"
+      },
+      "description": "The latest patch brings updates for Hearthstone, Battlegrounds, and more!...",
+      "url": "https://news.blizzard.com/en-us/article/24224212/33-0-3-patch-notes",
+      "publishedAt": "2025-07-17T16:00:00Z",
+      "processed_at": "2025-07-18T19:17:58.819196+00:00"
+    },
+    {
+      "title": "iPhone 17 Pro renders reveal new orange and blue colors, more - 9to5Mac",
+      "source": {
+        "name": "9to5Mac"
+      },
+      "description": "New renders from leaker Majin Bu show four rumored iPhone 17 Pro colors, including a bold orange mod...",
+      "url": "https://9to5mac.com/2025/07/17/iphone-17-pro-renders-reveal-new-orange-and-blue-colors-more/",
+      "publishedAt": "2025-07-17T15:47:00Z",
+      "processed_at": "2025-07-18T19:17:58.819196+00:00"
+    },
+    {
+      "title": "AMD’s new 96-core Threadripper CPU will set you back $11,699 - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "AMD is launching its new Threadripper Pro 9000 WX-series on July 23rd. The flagship processor will b...",
+      "url": "https://www.theverge.com/news/709005/amd-threadripper-9000-pro-wx-series-pricing-availability",
+      "publishedAt": "2025-07-17T15:10:59Z",
+      "processed_at": "2025-07-18T19:17:58.819196+00:00"
+    },
+    {
+      "title": "This ‘G’ Tri-Fold Phone Bends in Ways That Make Me Uncomfortable - Gizmodo",
+      "source": {
+        "name": "Gizmodo.com"
+      },
+      "description": "Samsung’s upcoming tri-fold can now choose to join two species of triple foldables....",
+      "url": "https://gizmodo.com/this-g-tri-fold-phone-bends-in-ways-that-make-me-uncomfortable-2000630685",
+      "publishedAt": "2025-07-17T15:00:49Z",
+      "processed_at": "2025-07-18T19:17:58.819196+00:00"
     },
     {
       "title": "Apple launches new emoji word game to take on Wordle and the NYT - The Verge",
@@ -20,70 +100,10 @@
       "description": "Apple News Plus just launched Emoji Game, a daily puzzle game that will compete against the likes of...",
       "url": "https://www.theverge.com/games/708935/apple-news-plus-emoji-game-wordle",
       "publishedAt": "2025-07-17T14:47:23Z",
-      "processed_at": "2025-07-18T18:31:19.473785+00:00"
-    },
-    {
-      "title": "Original Crash Lead Programmer Says N. Sane Trilogy 'Completely Botched How Jumping Works' - Kotaku",
-      "source": {
-        "name": "Kotaku"
-      },
-      "description": "30 milliseconds, it seems, is the difference between authentic Crash and whoever this imposter is in...",
-      "url": "https://kotaku.com/crash-bandicoot-naughty-dog-vicarious-visions-jump-1851786482",
-      "publishedAt": "2025-07-17T14:45:00Z",
-      "processed_at": "2025-07-18T18:31:19.473785+00:00"
-    },
-    {
-      "title": "Google confirms that Fast Pair for Google TV is available on just four devices - 9to5Google",
-      "source": {
-        "name": "9to5google.com"
-      },
-      "description": "Fast Pair on Google TV makes pairing Bluetooth headphones quick and easy, but the feature is only su...",
-      "url": "http://9to5google.com/2025/07/17/google-tv-fast-pair-device-list/",
-      "publishedAt": "2025-07-17T14:10:00Z",
-      "processed_at": "2025-07-18T18:31:19.473785+00:00"
-    },
-    {
-      "title": "A gritty Pac-Man reboot makes for surprisingly solid Metroid-style action - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "Shadow Labyrinth reimagines Pac-Man as a gritty survival game on the PS5, Xbox, Switch, and PC....",
-      "url": "https://www.theverge.com/games-review/708833/shadow-labyrinth-review-gritty-pac-man",
-      "publishedAt": "2025-07-17T14:00:00Z",
-      "processed_at": "2025-07-18T18:31:19.473785+00:00"
-    },
-    {
-      "title": "Sony is still stubborn about the size of its cameras - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "Sony’s new RX1R III camera has been anticipated for almost 10 years, but it lacks a key feature from...",
-      "url": "https://www.theverge.com/cameras/708846/sony-rx1riii-full-frame-camera-size-issue-articulating-screen",
-      "publishedAt": "2025-07-17T13:30:00Z",
-      "processed_at": "2025-07-18T18:31:19.473785+00:00"
-    },
-    {
-      "title": "Adobe’s new AI tool turns silly noises into realistic audio effects - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "Adobe is launching new generative AI filmmaking tools that provide fun ways to create sound effects ...",
-      "url": "https://www.theverge.com/news/708798/adobe-firefly-ai-generate-sound-effects-video-composition",
-      "publishedAt": "2025-07-17T13:00:00Z",
-      "processed_at": "2025-07-18T18:31:19.473785+00:00"
-    },
-    {
-      "title": "Destiny 2 Desert Perpetual Raid Loot Leaks Online: Exotic Weapon, Legendary Weapons, Armor Sets, Title, Emblems & More - The Game Post",
-      "source": {
-        "name": "Thegamepost.com"
-      },
-      "description": "The first look at Destiny 2’s upcoming Desert Perpetual raid loot appears to have been leaked ahead ...",
-      "url": "https://thegamepost.com/destiny-2-desert-perpetual-raid-loot-leaks/",
-      "publishedAt": "2025-07-17T12:42:20Z",
-      "processed_at": "2025-07-18T18:31:19.473785+00:00"
+      "processed_at": "2025-07-18T19:17:58.819196+00:00"
     }
   ],
-  "lastUpdated": "2025-07-18T18:31:19.473864+00:00",
+  "lastUpdated": "2025-07-18T19:17:58.819267+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
