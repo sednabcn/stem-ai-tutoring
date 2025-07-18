@@ -1,7 +1,87 @@
 {
   "status": "success",
-  "totalResults": 10,
+  "totalResults": 9,
   "articles": [
+    {
+      "title": "Google rolling out Android 16 QPR1 Beta 3 for Pixel - 9to5Google",
+      "source": {
+        "name": "9to5google.com"
+      },
+      "description": "Ahead of the stable launch in September, Google is rolling out Android 16 QPR1 Beta 3 to Pixel devic...",
+      "url": "http://9to5google.com/2025/07/17/android-16-qpr1-beta-3-pixel/",
+      "publishedAt": "2025-07-17T21:55:00Z",
+      "processed_at": "2025-07-18T21:20:59.028223+00:00"
+    },
+    {
+      "title": "The Pixel Watch 4 might not become e-waste if you damage it - Ars Technica",
+      "source": {
+        "name": "Ars Technica"
+      },
+      "description": "Replacement is the only option if you break a Pixel Watch, but that could change soon....",
+      "url": "https://arstechnica.com/gadgets/2025/07/the-pixel-watch-4-might-not-become-e-waste-if-you-damage-it/",
+      "publishedAt": "2025-07-17T20:30:44Z",
+      "processed_at": "2025-07-18T21:20:59.028223+00:00"
+    },
+    {
+      "title": "Evo 2025 Competitors: By the Numbers - Evo 2025",
+      "source": {
+        "name": "Evo.gg"
+      },
+      "description": "The biggest fighting game tournament in the world returns. Get all the details on Evo’s three action...",
+      "url": "https://evo.gg/news/evo-2025-competitors-by-the-numbers/",
+      "publishedAt": "2025-07-17T19:56:39Z",
+      "processed_at": "2025-07-18T21:20:59.028223+00:00"
+    },
+    {
+      "title": "Samsung’s Odyssey 3D monitor delivers great glasses-free 3D for a handful of games - Ars Technica",
+      "source": {
+        "name": "Ars Technica"
+      },
+      "description": "$2,000 display is hard to recommend when its best feature works with only 14 titles....",
+      "url": "https://arstechnica.com/gaming/2025/07/samsungs-odyssey-3d-monitor-delivers-great-glasses-free-3d-for-a-handful-of-games/",
+      "publishedAt": "2025-07-17T19:54:19Z",
+      "processed_at": "2025-07-18T21:20:59.028223+00:00"
+    },
+    {
+      "title": "Donkey Kong Bananza gets a launch day discount at Costco - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "Donkey Kong Bananza is already on sale at Costco. There are also discounts on the Anker 7-in-1 Charg...",
+      "url": "https://www.theverge.com/tech/709274/donkey-kong-bananza-costco-sale-deal",
+      "publishedAt": "2025-07-17T19:03:32Z",
+      "processed_at": "2025-07-18T21:20:59.028223+00:00"
+    },
+    {
+      "title": "Apple Intelligence Foundation Language Models Tech Report 2025 - Apple Machine Learning Research",
+      "source": {
+        "name": "Apple Newsroom"
+      },
+      "description": "We introduce two multilingual, multimodal foundation language models that power Apple Intelligence f...",
+      "url": "https://machinelearning.apple.com/research/apple-foundation-models-tech-report-2025",
+      "publishedAt": "2025-07-17T18:13:17Z",
+      "processed_at": "2025-07-18T21:20:59.028223+00:00"
+    },
+    {
+      "title": "Android Phones Can Detect Earthquakes Before the Ground Starts Shaking - Gizmodo",
+      "source": {
+        "name": "Gizmodo.com"
+      },
+      "description": "The Android Earthquake Alerts (AEA) system proved to be as efficient as traditional seismic networks...",
+      "url": "https://gizmodo.com/android-phones-can-detect-earthquakes-before-the-ground-starts-shaking-2000629636",
+      "publishedAt": "2025-07-17T18:01:26Z",
+      "processed_at": "2025-07-18T21:20:59.028223+00:00"
+    },
+    {
+      "title": "These new emoji are coming to your iPhone in iOS 26 - 9to5Mac",
+      "source": {
+        "name": "9to5Mac"
+      },
+      "description": "Out of a list of more than 160 suggested additions, eight new emoji have been officially chosen for ...",
+      "url": "https://9to5mac.com/2025/07/17/these-new-emoji-are-coming-to-your-iphone-in-ios-26/",
+      "publishedAt": "2025-07-17T17:59:00Z",
+      "processed_at": "2025-07-18T21:20:59.028223+00:00"
+    },
     {
       "title": "The Most Egregious Emmys Snub of the Year Reflects a Disturbing Trend in TV Awards - Slate Magazine",
       "source": {
@@ -10,100 +90,10 @@
       "description": "The White Lotus can go to hell....",
       "url": "https://slate.com/culture/2025/07/emmy-nominations-2025-awards-snubs-hbo-tv.html",
       "publishedAt": "2025-07-17T17:36:00Z",
-      "processed_at": "2025-07-18T20:24:08.885956+00:00"
-    },
-    {
-      "title": "Help, The PS5 Store Is Flooded With AI Slop - Kotaku",
-      "source": {
-        "name": "Kotaku"
-      },
-      "description": "Italian Brainrot memes are taking over the PlayStation store...",
-      "url": "https://kotaku.com/ps5-psn-playstation-store-ai-slop-brainrot-junk-spam-1851786494",
-      "publishedAt": "2025-07-17T16:55:00Z",
-      "processed_at": "2025-07-18T20:24:08.885956+00:00"
-    },
-    {
-      "title": "The next batch of emoji includes Bigfoot - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "Unicode 17.0 will include new emoji like a “hairy creature,” “apple core,” “ballet dancers,” and mor...",
-      "url": "https://www.theverge.com/news/709179/emoji-17-0-bigfoot-apple-core-orca-treasure-chest-trombone-dancer",
-      "publishedAt": "2025-07-17T16:44:33Z",
-      "processed_at": "2025-07-18T20:24:08.885956+00:00"
-    },
-    {
-      "title": "Donkey Kong Bananza shows just how much the last two Zeldas have changed Nintendo - Polygon",
-      "source": {
-        "name": "Polygon"
-      },
-      "description": "DK’s debut on Switch 2 takes as much from Breath of the Wild and Tears of the Kingdom as it does the...",
-      "url": "https://www.polygon.com/impressions/613650/donkey-kong-bananza-switch-2-launch-day-impressions",
-      "publishedAt": "2025-07-17T16:03:31Z",
-      "processed_at": "2025-07-18T20:24:08.885956+00:00"
-    },
-    {
-      "title": "Can Skate Revive the Old-School Magic? - IGN",
-      "source": {
-        "name": "IGN"
-      },
-      "description": "After playing Skate for well over five hours, not only I can clearly see the direction developer Ful...",
-      "url": "https://www.ign.com/articles/can-skate-revive-the-old-school-magic",
-      "publishedAt": "2025-07-17T16:01:10Z",
-      "processed_at": "2025-07-18T20:24:08.885956+00:00"
-    },
-    {
-      "title": "33.0.3 Patch Notes — Hearthstone - Blizzard News",
-      "source": {
-        "name": "Blizzard.com"
-      },
-      "description": "The latest patch brings updates for Hearthstone, Battlegrounds, and more!...",
-      "url": "https://news.blizzard.com/en-us/article/24224212/33-0-3-patch-notes",
-      "publishedAt": "2025-07-17T16:00:00Z",
-      "processed_at": "2025-07-18T20:24:08.885956+00:00"
-    },
-    {
-      "title": "iPhone 17 Pro renders reveal new orange and blue colors, more - 9to5Mac",
-      "source": {
-        "name": "9to5Mac"
-      },
-      "description": "New renders from leaker Majin Bu show four rumored iPhone 17 Pro colors, including a bold orange mod...",
-      "url": "https://9to5mac.com/2025/07/17/iphone-17-pro-renders-reveal-new-orange-and-blue-colors-more/",
-      "publishedAt": "2025-07-17T15:47:00Z",
-      "processed_at": "2025-07-18T20:24:08.885956+00:00"
-    },
-    {
-      "title": "AMD’s new 96-core Threadripper CPU will set you back $11,699 - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "AMD is launching its new Threadripper Pro 9000 WX-series on July 23rd. The flagship processor will b...",
-      "url": "https://www.theverge.com/news/709005/amd-threadripper-9000-pro-wx-series-pricing-availability",
-      "publishedAt": "2025-07-17T15:10:59Z",
-      "processed_at": "2025-07-18T20:24:08.885956+00:00"
-    },
-    {
-      "title": "This ‘G’ Tri-Fold Phone Bends in Ways That Make Me Uncomfortable - Gizmodo",
-      "source": {
-        "name": "Gizmodo.com"
-      },
-      "description": "Samsung’s upcoming tri-fold can now choose to join two species of triple foldables....",
-      "url": "https://gizmodo.com/this-g-tri-fold-phone-bends-in-ways-that-make-me-uncomfortable-2000630685",
-      "publishedAt": "2025-07-17T15:00:49Z",
-      "processed_at": "2025-07-18T20:24:08.885956+00:00"
-    },
-    {
-      "title": "Apple launches new emoji word game to take on Wordle and the NYT - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "Apple News Plus just launched Emoji Game, a daily puzzle game that will compete against the likes of...",
-      "url": "https://www.theverge.com/games/708935/apple-news-plus-emoji-game-wordle",
-      "publishedAt": "2025-07-17T14:47:23Z",
-      "processed_at": "2025-07-18T20:24:08.885956+00:00"
+      "processed_at": "2025-07-18T21:20:59.028223+00:00"
     }
   ],
-  "lastUpdated": "2025-07-18T20:24:08.886027+00:00",
+  "lastUpdated": "2025-07-18T21:20:59.028293+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
