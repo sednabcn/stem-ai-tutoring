@@ -1,46 +1,36 @@
 {
   "status": "success",
-  "totalResults": 10,
+  "totalResults": 9,
   "articles": [
     {
-      "title": "iPhone 17 Air's Limited Battery Capacity Leaked - MacRumors",
-      "source": {
-        "name": "MacRumors"
-      },
-      "description": "The battery capacity of Apple's rumored iPhone 17 Air will be below the 3,000 mAh mark, according to...",
-      "url": "https://www.macrumors.com/2025/07/18/iphone-17-air-battery-capacity-rumor/",
-      "publishedAt": "2025-07-18T19:03:21Z",
-      "processed_at": "2025-07-19T22:20:15.075570+00:00"
-    },
-    {
-      "title": "Apple One just keeps getting better, here’s what’s coming next - 9to5Mac",
+      "title": "Leaked iPhone 17 Air battery capacity reveals new model’s biggest weakness - 9to5Mac",
       "source": {
         "name": "9to5Mac"
       },
-      "description": "Apple One benefits from new features being added to Apple’s services all the time, and there are ple...",
-      "url": "https://9to5mac.com/2025/07/18/apple-one-just-keeps-getting-better-heres-whats-coming-next/",
-      "publishedAt": "2025-07-18T18:54:00Z",
-      "processed_at": "2025-07-19T22:20:15.075570+00:00"
+      "description": "iPhone 17 Air will have a futuristic design, but battery life looks set to take a step backwards, as...",
+      "url": "https://9to5mac.com/2025/07/18/leaked-iphone-17-air-battery-capacity-reveals-new-models-biggest-weakness/",
+      "publishedAt": "2025-07-18T19:38:00Z",
+      "processed_at": "2025-07-19T23:22:44.223695+00:00"
     },
     {
-      "title": "Ubisoft Shareholder Confronts Boss About 'Woke' Assassin's Creed - Kotaku",
+      "title": "No, phishers are not bypassing FIDO MFA, at least not yet. Here’s why. - Ars Technica",
       "source": {
-        "name": "Kotaku"
+        "name": "Ars Technica"
       },
-      "description": "Investors in the publisher had a long list of grievances...",
-      "url": "https://kotaku.com/assassins-creed-shadows-woke-stop-killing-games-1851786587",
-      "publishedAt": "2025-07-18T18:35:00Z",
-      "processed_at": "2025-07-19T22:20:15.075570+00:00"
+      "description": "Contrary to recent reports, phishing sleight-of-hand doesn’t defeat FIDO....",
+      "url": "https://arstechnica.com/security/2025/07/no-phishers-are-not-bypassing-fido-mfa-at-least-not-yet-heres-why/",
+      "publishedAt": "2025-07-18T19:07:21Z",
+      "processed_at": "2025-07-19T23:22:44.223695+00:00"
     },
     {
-      "title": "Pixel Watch 4 leak points to identical pricing - 9to5Google",
+      "title": "watchOS 26: Four new features your Apple Watch might not support - 9to5Mac",
       "source": {
-        "name": "9to5google.com"
+        "name": "9to5Mac"
       },
-      "description": "Like the Pixel 10 series last week, European pricing for the Pixel Watch 4 has now leaked and looks ...",
-      "url": "http://9to5google.com/2025/07/18/pixel-watch-4-price/",
-      "publishedAt": "2025-07-18T18:11:00Z",
-      "processed_at": "2025-07-19T22:20:15.075570+00:00"
+      "description": "watchOS 26 includes several tentpole new features that require very recent Apple Watch models, here ...",
+      "url": "https://9to5mac.com/2025/07/18/watchos-26-four-new-features-your-apple-watch-might-not-support/",
+      "publishedAt": "2025-07-18T16:53:00Z",
+      "processed_at": "2025-07-19T23:22:44.223695+00:00"
     },
     {
       "title": "‘We Apologize’—Microsoft Confirms Windows Update Mistake - Forbes",
@@ -50,7 +40,17 @@
       "description": "Microsoft suddenly admits mistake as Windows issue gets worse....",
       "url": "https://www.forbes.com/sites/zakdoffman/2025/07/18/we-apologize-microsoft-confirms-windows-update-mistake/",
       "publishedAt": "2025-07-18T16:52:30Z",
-      "processed_at": "2025-07-19T22:20:15.075570+00:00"
+      "processed_at": "2025-07-19T23:22:44.223695+00:00"
+    },
+    {
+      "title": "Ubisoft chief confronted in-person with questions about “woke” content and “stop killing games” - Game File | Stephen Totilo",
+      "source": {
+        "name": "Gamefile.news"
+      },
+      "description": "An extraordinary exchange at a Ubisoft shareholder meeting that also touched on AA games and the nex...",
+      "url": "https://www.gamefile.news/p/ubisoft-ceo-ghost-recon-assassins-creed-shadows-valorant-annual-report",
+      "publishedAt": "2025-07-18T16:49:20Z",
+      "processed_at": "2025-07-19T23:22:44.223695+00:00"
     },
     {
       "title": "Playing Metal Gear Solid 3 Without Pressure-Sensitive Buttons Is Giving Me Literal Phantom Pains - Kotaku",
@@ -60,17 +60,7 @@
       "description": "Was the PS2's pressure sensitivity just a fiddly gimmick?...",
       "url": "https://kotaku.com/metal-gear-solid-ps2-ps3-analog-pressure-sensitive-1851786575",
       "publishedAt": "2025-07-18T16:45:00Z",
-      "processed_at": "2025-07-19T22:20:15.075570+00:00"
-    },
-    {
-      "title": "Destiny 2’s Encore Power Level Farm Nerf Gives Hardcore Players a Huge Head Start for Desert Perpetual Raid Race - The Game Post",
-      "source": {
-        "name": "Thegamepost.com"
-      },
-      "description": "Bungie’s recent removal of Destiny 2’s Encore farm has sparked backlash, giving early grinders a maj...",
-      "url": "https://thegamepost.com/destiny-2-encore-power-level-farm-head-start-desert-perpetual-raid-race/",
-      "publishedAt": "2025-07-18T16:36:01Z",
-      "processed_at": "2025-07-19T22:20:15.075570+00:00"
+      "processed_at": "2025-07-19T23:22:44.223695+00:00"
     },
     {
       "title": "Google is doing ‘Gemini Drops’ with new Productivity Planner Gem, more - 9to5Google",
@@ -80,17 +70,17 @@
       "description": "Like Pixel and Workspace, Gemini is the latest product to get Feature Drops, with a new “Productivit...",
       "url": "http://9to5google.com/2025/07/18/gemini-drops-july/",
       "publishedAt": "2025-07-18T16:30:00Z",
-      "processed_at": "2025-07-19T22:20:15.075570+00:00"
+      "processed_at": "2025-07-19T23:22:44.223695+00:00"
     },
     {
-      "title": "SpaceX worker injury rates at Starbase outpace industry rivals - TechCrunch",
+      "title": "Starbase injury rates outpace rivals as SpaceX chases its Mars moonshot - TechCrunch",
       "source": {
         "name": "TechCrunch"
       },
       "description": "SpaceX has been moving at a breakneck pace, and rapid progress comes at a cost. Worker injury rates ...",
       "url": "https://techcrunch.com/2025/07/18/spacex-worker-injury-rates-at-starbase-outpace-industry-rivals/",
       "publishedAt": "2025-07-18T16:29:06Z",
-      "processed_at": "2025-07-19T22:20:15.075570+00:00"
+      "processed_at": "2025-07-19T23:22:44.223695+00:00"
     },
     {
       "title": "DuckDuckGo now lets you hide AI-generated images in search results - TechCrunch",
@@ -100,10 +90,10 @@
       "description": "DuckDuckGo's new search feature comes as the internet is being flooded with AI-generated slop....",
       "url": "https://techcrunch.com/2025/07/18/duckduckgo-now-lets-you-hide-ai-generated-images-in-search-results/",
       "publishedAt": "2025-07-18T16:23:54Z",
-      "processed_at": "2025-07-19T22:20:15.075570+00:00"
+      "processed_at": "2025-07-19T23:22:44.223695+00:00"
     }
   ],
-  "lastUpdated": "2025-07-19T22:20:15.075644+00:00",
+  "lastUpdated": "2025-07-19T23:22:44.223769+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
