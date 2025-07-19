@@ -1,16 +1,36 @@
 {
   "status": "success",
-  "totalResults": 9,
+  "totalResults": 8,
   "articles": [
     {
-      "title": "Nintendo bringing back Switch Online: Playtest Program - Nintendo Everything",
+      "title": "Apple Sues Jon Prosser Over iOS 26 Leaks - MacRumors",
       "source": {
-        "name": "Nintendoeverything.com"
+        "name": "MacRumors"
       },
-      "description": "Nintendo Switch Online: Playtest Program announced to return for July 2025 - here's where you can ap...",
-      "url": "https://nintendoeverything.com/nintendo-switch-online-playtest-program-july-2025/",
-      "publishedAt": "2025-07-17T22:21:49Z",
-      "processed_at": "2025-07-19T01:49:00.350550+00:00"
+      "description": "Earlier this year, YouTuber Jon Prosser shared multiple videos showing off what he claimed to be re-...",
+      "url": "https://www.macrumors.com/2025/07/17/apple-sues-jon-prosser-ios-26-leaks/",
+      "publishedAt": "2025-07-18T03:40:34Z",
+      "processed_at": "2025-07-19T03:23:30.005988+00:00"
+    },
+    {
+      "title": "ICYMI: Here's A Look Inside Donkey Kong Bananza's Switch 2 Game Case - Nintendo Life",
+      "source": {
+        "name": "Nintendo Life"
+      },
+      "description": "In case you missed it......",
+      "url": "https://www.nintendolife.com/news/2025/07/icymi-heres-a-look-inside-donkey-kong-bananzas-switch-2-game-case",
+      "publishedAt": "2025-07-18T02:30:00Z",
+      "processed_at": "2025-07-19T03:23:30.005988+00:00"
+    },
+    {
+      "title": "Nintendo's Switch Online Playtest Program Returning, Includes Switch 2 Support - Nintendo Life",
+      "source": {
+        "name": "Nintendo Life"
+      },
+      "description": "The fun begins later this month...",
+      "url": "https://www.nintendolife.com/news/2025/07/nintendos-switch-online-playtest-program-returning-includes-switch-2-support",
+      "publishedAt": "2025-07-17T23:55:00Z",
+      "processed_at": "2025-07-19T03:23:30.005988+00:00"
     },
     {
       "title": "Google rolling out Android 16 QPR1 Beta 3 for Pixel - 9to5Google",
@@ -20,7 +40,17 @@
       "description": "Ahead of the stable launch in September, Google is rolling out Android 16 QPR1 Beta 3 to Pixel devic...",
       "url": "http://9to5google.com/2025/07/17/android-16-qpr1-beta-3-pixel/",
       "publishedAt": "2025-07-17T21:55:00Z",
-      "processed_at": "2025-07-19T01:49:00.350550+00:00"
+      "processed_at": "2025-07-19T03:23:30.005988+00:00"
+    },
+    {
+      "title": "How Android phones became an earthquake warning system - Ars Technica",
+      "source": {
+        "name": "Ars Technica"
+      },
+      "description": "The system uses phones’ accelerometers to trigger warnings ahead of the shaking....",
+      "url": "https://arstechnica.com/science/2025/07/how-android-phones-became-an-earthquake-warning-system/",
+      "publishedAt": "2025-07-17T21:45:36Z",
+      "processed_at": "2025-07-19T03:23:30.005988+00:00"
     },
     {
       "title": "Anthropic tightens usage limits for Claude Code – without telling users - TechCrunch",
@@ -30,17 +60,7 @@
       "description": "Claude Code users have been hit with unexpectedly restrictive usage limits. The problems, many of wh...",
       "url": "https://techcrunch.com/2025/07/17/anthropic-tightens-usage-limits-for-claude-code-without-telling-users/",
       "publishedAt": "2025-07-17T21:04:34Z",
-      "processed_at": "2025-07-19T01:49:00.350550+00:00"
-    },
-    {
-      "title": "How Long Is Donkey Kong Bananza: Full Chapter List And Hours To Beat - GameSpot",
-      "source": {
-        "name": "GameSpot"
-      },
-      "description": "Prepare for a potassium overdose with the full Donkey Kong Bananza levels and missions list....",
-      "url": "https://www.gamespot.com/articles/how-long-is-donkey-kong-bananza-full-chapter-list-and-hours-to-beat/1100-6533248/",
-      "publishedAt": "2025-07-17T20:49:52Z",
-      "processed_at": "2025-07-19T01:49:00.350550+00:00"
+      "processed_at": "2025-07-19T03:23:30.005988+00:00"
     },
     {
       "title": "Evo 2025 Competitors: By the Numbers - Evo 2025",
@@ -50,17 +70,7 @@
       "description": "The biggest fighting game tournament in the world returns. Get all the details on Evo’s three action...",
       "url": "https://evo.gg/news/evo-2025-competitors-by-the-numbers/",
       "publishedAt": "2025-07-17T19:56:39Z",
-      "processed_at": "2025-07-19T01:49:00.350550+00:00"
-    },
-    {
-      "title": "Gabe Newell's Daily Routine Sounds Very Legit - GameSpot",
-      "source": {
-        "name": "GameSpot"
-      },
-      "description": "What does the billionaire gaming boss do every day? Now we know....",
-      "url": "https://www.gamespot.com/articles/gabe-newells-daily-routine-sounds-very-legit/1100-6533251/",
-      "publishedAt": "2025-07-17T19:44:56Z",
-      "processed_at": "2025-07-19T01:49:00.350550+00:00"
+      "processed_at": "2025-07-19T03:23:30.005988+00:00"
     },
     {
       "title": "Donkey Kong Bananza gets a launch day discount at Costco - The Verge",
@@ -70,30 +80,10 @@
       "description": "Donkey Kong Bananza is already on sale at Costco. There are also discounts on the Anker 7-in-1 Charg...",
       "url": "https://www.theverge.com/tech/709274/donkey-kong-bananza-costco-sale-deal",
       "publishedAt": "2025-07-17T19:03:32Z",
-      "processed_at": "2025-07-19T01:49:00.350550+00:00"
-    },
-    {
-      "title": "Apple Intelligence Foundation Language Models Tech Report 2025 - Apple Machine Learning Research",
-      "source": {
-        "name": "Apple Newsroom"
-      },
-      "description": "We introduce two multilingual, multimodal foundation language models that power Apple Intelligence f...",
-      "url": "https://machinelearning.apple.com/research/apple-foundation-models-tech-report-2025",
-      "publishedAt": "2025-07-17T18:13:17Z",
-      "processed_at": "2025-07-19T01:49:00.350550+00:00"
-    },
-    {
-      "title": "The Most Egregious Emmys Snub of the Year Reflects a Disturbing Trend in TV Awards - Slate Magazine",
-      "source": {
-        "name": "Slate Magazine"
-      },
-      "description": "The White Lotus can go to hell....",
-      "url": "https://slate.com/culture/2025/07/emmy-nominations-2025-awards-snubs-hbo-tv.html",
-      "publishedAt": "2025-07-17T17:36:00Z",
-      "processed_at": "2025-07-19T01:49:00.350550+00:00"
+      "processed_at": "2025-07-19T03:23:30.005988+00:00"
     }
   ],
-  "lastUpdated": "2025-07-19T01:49:00.350622+00:00",
+  "lastUpdated": "2025-07-19T03:23:30.006051+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
