@@ -1,7 +1,17 @@
 {
   "status": "success",
-  "totalResults": 10,
+  "totalResults": 9,
   "articles": [
+    {
+      "title": "AI video is invading YouTube Shorts and Google Photos starting today - Ars Technica",
+      "source": {
+        "name": "Ars Technica"
+      },
+      "description": "Google is making video AI models harder to ignore....",
+      "url": "https://arstechnica.com/google/2025/07/ai-video-is-invading-youtube-shorts-and-google-photos-starting-today/",
+      "publishedAt": "2025-07-23T19:34:55Z",
+      "processed_at": "2025-07-24T23:21:55.070777+00:00"
+    },
     {
       "title": "Google’s AI Is Destroying Search, the Internet, and Your Brain - 404 Media",
       "source": {
@@ -10,17 +20,37 @@
       "description": "Google’s AI Overview, which is easy to fool into stating nonsense as fact, is stopping people from f...",
       "url": "https://www.404media.co/googles-ai-is-destroying-search-the-internet-and-your-brain/",
       "publishedAt": "2025-07-23T18:56:57Z",
-      "processed_at": "2025-07-24T22:21:49.113881+00:00"
+      "processed_at": "2025-07-24T23:21:55.070777+00:00"
     },
     {
-      "title": "Pixel 10 series poses for a family photo in latest leak, $50 promo coming too - 9to5Google",
+      "title": "Battlefield 6 details including October release date leak ahead of this week's official reveal - Eurogamer",
       "source": {
-        "name": "9to5google.com"
+        "name": "Eurogamer.net"
       },
-      "description": "Hidden behind the scenes in the Play Store, Google is preparing for the Pixel 10 launch with a famil...",
-      "url": "http://9to5google.com/2025/07/23/google-pixel-10-series-play-store-leak/",
-      "publishedAt": "2025-07-23T18:40:00Z",
-      "processed_at": "2025-07-24T22:21:49.113881+00:00"
+      "description": "Fresh Battlefield 6 details have emerged from a reliable leaker ahead of its big trailer reveal tomo...",
+      "url": "https://www.eurogamer.net/battlefield-6-details-including-an-october-release-date-leak-ahead-of-official-reveal",
+      "publishedAt": "2025-07-23T18:15:24Z",
+      "processed_at": "2025-07-24T23:21:55.070777+00:00"
+    },
+    {
+      "title": "Google just leaked its entire Pixel 10 series through the Play Store - Android Authority",
+      "source": {
+        "name": "Android Authority"
+      },
+      "description": "After an official teaser earlier this week, we've been able to spot the entire Pixel 10 smartphone s...",
+      "url": "https://www.androidauthority.com/pixel-10-series-leak-3580303/",
+      "publishedAt": "2025-07-23T18:02:52Z",
+      "processed_at": "2025-07-24T23:21:55.070777+00:00"
+    },
+    {
+      "title": "Samsung Making It Even Easier to Get Galaxy Z Fold 7 for $899 - Droid Life",
+      "source": {
+        "name": "Droid Life"
+      },
+      "description": "The Galaxy Z Fold 7 arrives in stores at the end of the week and that means we could see the end of ...",
+      "url": "https://www.droid-life.com/2025/07/23/samsung-making-it-even-easier-to-get-galaxy-z-fold-7-for-899/",
+      "publishedAt": "2025-07-23T17:57:19Z",
+      "processed_at": "2025-07-24T23:21:55.070777+00:00"
     },
     {
       "title": "Starlink-powered ‘T-Satellite’ service is now live on T-Mobile - The Verge",
@@ -30,80 +60,40 @@
       "description": "T-Mobile is rolling out its Starlink-powered satellite service, T-Satellite, which will let customer...",
       "url": "https://www.theverge.com/news/712546/starlink-powered-t-satellite-service-is-now-live-on-t-mobile",
       "publishedAt": "2025-07-23T17:56:24Z",
-      "processed_at": "2025-07-24T22:21:49.113881+00:00"
+      "processed_at": "2025-07-24T23:21:55.070777+00:00"
     },
     {
-      "title": "Review: Wheel World (PS5) - Open World Cycling Sim Is a Joy When It Isn't Chugging Along - Push Square",
-      "source": {
-        "name": "Push Square"
-      },
-      "description": "On yer bike...",
-      "url": "https://www.pushsquare.com/reviews/ps5/wheel-world",
-      "publishedAt": "2025-07-23T17:13:41Z",
-      "processed_at": "2025-07-24T22:21:49.113881+00:00"
-    },
-    {
-      "title": "After bullishly hiking Xbox games to $80, Microsoft confirms U-turn starting with The Outer Worlds 2 - Eurogamer",
+      "title": "Switch 2 has become the fastest selling video game hardware device in US history, usurping the PS4 - Eurogamer",
       "source": {
         "name": "Eurogamer.net"
       },
-      "description": "Microsoft has walked back on its decision to hike the price of its new first-party Xbox games up to ...",
-      "url": "https://www.eurogamer.net/after-bullishly-hiking-xbox-games-to-80-microsoft-confirms-u-turn-starting-with-the-outer-worlds-2",
-      "publishedAt": "2025-07-23T16:00:15Z",
-      "processed_at": "2025-07-24T22:21:49.113881+00:00"
+      "description": "Nintendo's Switch successor - the aptly named Switch 2 - has become the fastest selling video game h...",
+      "url": "https://www.eurogamer.net/switch-2-has-become-the-fastest-selling-video-game-hardware-device-in-us-history-usurping-the-ps4",
+      "publishedAt": "2025-07-23T16:14:05Z",
+      "processed_at": "2025-07-24T23:21:55.070777+00:00"
     },
     {
-      "title": "Google Photos adds AI features for 'remixing' photos in different styles, turning pics into videos - TechCrunch",
+      "title": "Deals For Today: Switch 2 Pokémon Legends Z-A Bundle and Pokemon Cards Galore - IGN",
       "source": {
-        "name": "TechCrunch"
+        "name": "IGN"
       },
-      "description": "Google announced a handful of new features that will allow users to get more creative with their pho...",
-      "url": "https://techcrunch.com/2025/07/23/google-photos-adds-ai-features-for-remixing-photos-in-different-styles-turning-pics-into-videos/",
-      "publishedAt": "2025-07-23T16:00:00Z",
-      "processed_at": "2025-07-24T22:21:49.113881+00:00"
+      "description": "As of July 23, you can save on a whole host of Pokemon TCG sealed products, the Legends Z-A Switch 2...",
+      "url": "https://www.ign.com/articles/deals-for-today-july-23",
+      "publishedAt": "2025-07-23T15:32:20Z",
+      "processed_at": "2025-07-24T23:21:55.070777+00:00"
     },
     {
-      "title": "Faster Qi2 charging is coming to iPhones and ‘major’ Android phones - The Verge",
+      "title": "Gemini web app starts rolling out homepage redesign - 9to5Google",
       "source": {
-        "name": "The Verge"
+        "name": "9to5google.com"
       },
-      "description": "With the launch of the faster Qi2 25W wireless charging standard, Android manufacturers are apparent...",
-      "url": "https://www.theverge.com/news/712415/qi2-25w-wireless-charging-major-android-smartphones-wpc",
-      "publishedAt": "2025-07-23T15:43:37Z",
-      "processed_at": "2025-07-24T22:21:49.113881+00:00"
-    },
-    {
-      "title": "Pokémon GO Fest 2025: Max Finale Event - Pokémon GO Hub",
-      "source": {
-        "name": "Pokemon GO Hub"
-      },
-      "description": "Pokémon GO Fest 2025: Max Finale is a special worldwide event that runs from August 23, 2025 at 10.0...",
-      "url": "https://pokemongohub.net/post/event/pokemon-go-fest-2025-max-finale/",
-      "publishedAt": "2025-07-23T15:07:51Z",
-      "processed_at": "2025-07-24T22:21:49.113881+00:00"
-    },
-    {
-      "title": "Nintendo Switch 2 is the fastest-selling video game hardware device in US history - Polygon",
-      "source": {
-        "name": "Polygon"
-      },
-      "description": "The Nintendo Switch 2 just released in June but is already setting records — and with more bundles b...",
-      "url": "https://www.polygon.com/news/615368/nintendo-switch-2-fastest-selling-video-game-hardware-device-united-states",
-      "publishedAt": "2025-07-23T15:05:00Z",
-      "processed_at": "2025-07-24T22:21:49.113881+00:00"
-    },
-    {
-      "title": "Sony is fighting climate change by scaling back PS5 performance - Polygon",
-      "source": {
-        "name": "Polygon"
-      },
-      "description": "The PS5’s system update brings forth new changes to the console’s power consumption and controller....",
-      "url": "https://www.polygon.com/playstation/615362/ps5-power-saver-option-climate-change-lower-performance",
-      "publishedAt": "2025-07-23T14:55:00Z",
-      "processed_at": "2025-07-24T22:21:49.113881+00:00"
+      "description": "Google is gearing up for another Gemini homepage redesign on the web, with the prompt bar seeing a b...",
+      "url": "http://9to5google.com/2025/07/23/gemini-web-redesign/",
+      "publishedAt": "2025-07-23T15:23:00Z",
+      "processed_at": "2025-07-24T23:21:55.070777+00:00"
     }
   ],
-  "lastUpdated": "2025-07-24T22:21:49.113953+00:00",
+  "lastUpdated": "2025-07-24T23:21:55.070848+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
