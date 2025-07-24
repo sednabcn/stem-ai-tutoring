@@ -1,16 +1,36 @@
 {
   "status": "success",
-  "totalResults": 9,
+  "totalResults": 10,
   "articles": [
     {
-      "title": "Pixel 10 promo video leaks: Tensor G5 is Google’s ‘most efficient chip’ - 9to5Google",
+      "title": "Google’s AI Is Destroying Search, the Internet, and Your Brain - 404 Media",
+      "source": {
+        "name": "404media.co"
+      },
+      "description": "Google’s AI Overview, which is easy to fool into stating nonsense as fact, is stopping people from f...",
+      "url": "https://www.404media.co/googles-ai-is-destroying-search-the-internet-and-your-brain/",
+      "publishedAt": "2025-07-23T18:56:57Z",
+      "processed_at": "2025-07-24T21:21:36.413906+00:00"
+    },
+    {
+      "title": "Pixel 10 series poses for a family photo in latest leak, $50 promo coming too - 9to5Google",
       "source": {
         "name": "9to5google.com"
       },
-      "description": "A promo video for the Pixel 10 has leaked and reveals Google’s main selling points for the base mode...",
-      "url": "http://9to5google.com/2025/07/23/pixel-10-tensor-g5-promo-leak/",
-      "publishedAt": "2025-07-23T18:00:00Z",
-      "processed_at": "2025-07-24T20:23:20.409005+00:00"
+      "description": "Hidden behind the scenes in the Play Store, Google is preparing for the Pixel 10 launch with a famil...",
+      "url": "http://9to5google.com/2025/07/23/google-pixel-10-series-play-store-leak/",
+      "publishedAt": "2025-07-23T18:40:00Z",
+      "processed_at": "2025-07-24T21:21:36.413906+00:00"
+    },
+    {
+      "title": "Starlink-powered ‘T-Satellite’ service is now live on T-Mobile - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "T-Mobile is rolling out its Starlink-powered satellite service, T-Satellite, which will let customer...",
+      "url": "https://www.theverge.com/news/712546/starlink-powered-t-satellite-service-is-now-live-on-t-mobile",
+      "publishedAt": "2025-07-23T17:56:24Z",
+      "processed_at": "2025-07-24T21:21:36.413906+00:00"
     },
     {
       "title": "Review: Wheel World (PS5) - Open World Cycling Sim Is a Joy When It Isn't Chugging Along - Push Square",
@@ -20,27 +40,37 @@
       "description": "On yer bike...",
       "url": "https://www.pushsquare.com/reviews/ps5/wheel-world",
       "publishedAt": "2025-07-23T17:13:41Z",
-      "processed_at": "2025-07-24T20:23:20.409005+00:00"
+      "processed_at": "2025-07-24T21:21:36.413906+00:00"
     },
     {
-      "title": "Google is bringing its AI-powered photo-to-video capability to more apps - The Verge",
+      "title": "After bullishly hiking Xbox games to $80, Microsoft confirms U-turn starting with The Outer Worlds 2 - Eurogamer",
       "source": {
-        "name": "The Verge"
+        "name": "Eurogamer.net"
       },
-      "description": "Google is adding new AI-powered features to Google Photos and YouTube Shorts that allow users to tra...",
-      "url": "https://www.theverge.com/news/712217/google-ai-photo-video-youtube-shorts",
+      "description": "Microsoft has walked back on its decision to hike the price of its new first-party Xbox games up to ...",
+      "url": "https://www.eurogamer.net/after-bullishly-hiking-xbox-games-to-80-microsoft-confirms-u-turn-starting-with-the-outer-worlds-2",
+      "publishedAt": "2025-07-23T16:00:15Z",
+      "processed_at": "2025-07-24T21:21:36.413906+00:00"
+    },
+    {
+      "title": "Google Photos adds AI features for 'remixing' photos in different styles, turning pics into videos - TechCrunch",
+      "source": {
+        "name": "TechCrunch"
+      },
+      "description": "Google announced a handful of new features that will allow users to get more creative with their pho...",
+      "url": "https://techcrunch.com/2025/07/23/google-photos-adds-ai-features-for-remixing-photos-in-different-styles-turning-pics-into-videos/",
       "publishedAt": "2025-07-23T16:00:00Z",
-      "processed_at": "2025-07-24T20:23:20.409005+00:00"
+      "processed_at": "2025-07-24T21:21:36.413906+00:00"
     },
     {
-      "title": "The Outer Worlds 2 will no longer be one of Microsoft’s first $80 Xbox games - The Verge",
+      "title": "Faster Qi2 charging is coming to iPhones and ‘major’ Android phones - The Verge",
       "source": {
         "name": "The Verge"
       },
-      "description": "The Outer Worlds 2 is getting a price drop. It was supposed to debut at $79.99, but now it’s going b...",
-      "url": "https://www.theverge.com/news/712371/the-outer-worlds-2-price-change-microsoft-xbox",
-      "publishedAt": "2025-07-23T15:19:25Z",
-      "processed_at": "2025-07-24T20:23:20.409005+00:00"
+      "description": "With the launch of the faster Qi2 25W wireless charging standard, Android manufacturers are apparent...",
+      "url": "https://www.theverge.com/news/712415/qi2-25w-wireless-charging-major-android-smartphones-wpc",
+      "publishedAt": "2025-07-23T15:43:37Z",
+      "processed_at": "2025-07-24T21:21:36.413906+00:00"
     },
     {
       "title": "Pokémon GO Fest 2025: Max Finale Event - Pokémon GO Hub",
@@ -50,17 +80,7 @@
       "description": "Pokémon GO Fest 2025: Max Finale is a special worldwide event that runs from August 23, 2025 at 10.0...",
       "url": "https://pokemongohub.net/post/event/pokemon-go-fest-2025-max-finale/",
       "publishedAt": "2025-07-23T15:07:51Z",
-      "processed_at": "2025-07-24T20:23:20.409005+00:00"
-    },
-    {
-      "title": "Former Xbox console exclusive Forza Horizon 5 is PS5's highest-selling game of the year so far, says analyst - Eurogamer",
-      "source": {
-        "name": "Eurogamer.net"
-      },
-      "description": "Forza Horizon 5 is the highest-selling game on PS5 this year so far, surpassing 3m copies sold....",
-      "url": "https://www.eurogamer.net/former-xbox-console-exclusive-forza-horizon-5-is-ps5s-highest-selling-game-of-the-year-so-far-says-analyst",
-      "publishedAt": "2025-07-23T15:05:12Z",
-      "processed_at": "2025-07-24T20:23:20.409005+00:00"
+      "processed_at": "2025-07-24T21:21:36.413906+00:00"
     },
     {
       "title": "Nintendo Switch 2 is the fastest-selling video game hardware device in US history - Polygon",
@@ -70,30 +90,20 @@
       "description": "The Nintendo Switch 2 just released in June but is already setting records — and with more bundles b...",
       "url": "https://www.polygon.com/news/615368/nintendo-switch-2-fastest-selling-video-game-hardware-device-united-states",
       "publishedAt": "2025-07-23T15:05:00Z",
-      "processed_at": "2025-07-24T20:23:20.409005+00:00"
+      "processed_at": "2025-07-24T21:21:36.413906+00:00"
     },
     {
-      "title": "‘Destiny 2’ Just Secretly Fixed A Big ‘Edge Of Fate’ Problem - Forbes",
+      "title": "Sony is fighting climate change by scaling back PS5 performance - Polygon",
       "source": {
-        "name": "Forbes"
+        "name": "Polygon"
       },
-      "description": "Destiny 2 launched with a big problem regarding its new Portal system, but it has now quietly offere...",
-      "url": "https://www.forbes.com/sites/paultassi/2025/07/23/destiny-2-just-secretly-fixed-a-big-edge-of-fate-problem/",
-      "publishedAt": "2025-07-23T14:01:30Z",
-      "processed_at": "2025-07-24T20:23:20.409005+00:00"
-    },
-    {
-      "title": "PS5 system update will finally add wireless controller pairing across multiple devices - Eurogamer",
-      "source": {
-        "name": "Eurogamer.net"
-      },
-      "description": "Sony is getting ready to launch a PS5 system update in beta, which includes simultaneous DualSense w...",
-      "url": "https://www.eurogamer.net/ps5-system-update-will-finally-add-wireless-controller-pairing-across-multiple-devices",
-      "publishedAt": "2025-07-23T13:22:41Z",
-      "processed_at": "2025-07-24T20:23:20.409005+00:00"
+      "description": "The PS5’s system update brings forth new changes to the console’s power consumption and controller....",
+      "url": "https://www.polygon.com/playstation/615362/ps5-power-saver-option-climate-change-lower-performance",
+      "publishedAt": "2025-07-23T14:55:00Z",
+      "processed_at": "2025-07-24T21:21:36.413906+00:00"
     }
   ],
-  "lastUpdated": "2025-07-24T20:23:20.409090+00:00",
+  "lastUpdated": "2025-07-24T21:21:36.413982+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
