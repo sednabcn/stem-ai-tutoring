@@ -1,7 +1,17 @@
 {
   "status": "success",
-  "totalResults": 10,
+  "totalResults": 9,
   "articles": [
+    {
+      "title": "‘NASCAR 25’ console game set for October 2025 release date - NASCAR.com",
+      "source": {
+        "name": "NASCAR"
+      },
+      "description": "iRacing and NASCAR revealed that 'NASCAR 25' is launching on PS5 and Xbox Series X|S on Oct. 14, 202...",
+      "url": "https://www.nascar.com/news-media/2025/07/24/nascar-25-console-game-set-for-october-2025-release-date/",
+      "publishedAt": "2025-07-24T20:21:56Z",
+      "processed_at": "2025-07-25T21:20:34.770673+00:00"
+    },
     {
       "title": "Google rethinks search results with its new AI-curated ‘Web Guide’ - The Verge",
       "source": {
@@ -10,7 +20,17 @@
       "description": "Google is testing Web Guide in its Search Labs, a new generative AI feature that users can opt into ...",
       "url": "https://www.theverge.com/news/713351/google-ai-search-results-web-guide-labs-beta-test",
       "publishedAt": "2025-07-24T19:44:03Z",
-      "processed_at": "2025-07-25T20:24:42.911798+00:00"
+      "processed_at": "2025-07-25T21:20:34.770673+00:00"
+    },
+    {
+      "title": "This ‘90s parenting trend is back — and NY moms and dads are divided - New York Post",
+      "source": {
+        "name": "New York Post"
+      },
+      "description": "Some say it just doesn’t make sense in New York City....",
+      "url": "https://nypost.com/2025/07/24/lifestyle/the-90s-parenting-trend-of-feral-child-summer-is-back/",
+      "publishedAt": "2025-07-24T18:32:00Z",
+      "processed_at": "2025-07-25T21:20:34.770673+00:00"
     },
     {
       "title": "Once a relative haven for adult games, itch.io begins removing explicit titles - Ars Technica",
@@ -20,7 +40,7 @@
       "description": "Dozens of games deleted with no advance notice, thousands more hidden by “deindexing.”…...",
       "url": "https://arstechnica.com/gaming/2025/07/once-a-relative-haven-for-adult-games-itch-io-begins-removing-explicit-titles/",
       "publishedAt": "2025-07-24T17:40:54Z",
-      "processed_at": "2025-07-25T20:24:42.911798+00:00"
+      "processed_at": "2025-07-25T21:20:34.770673+00:00"
     },
     {
       "title": "Six lesser-known features to like in the macOS 26 Tahoe public beta - Ars Technica",
@@ -30,17 +50,7 @@
       "description": "Here are some things you can kick the tires on if you install the public beta....",
       "url": "https://arstechnica.com/gadgets/2025/07/six-lesser-known-features-to-like-in-the-macos-26-tahoe-public-beta/",
       "publishedAt": "2025-07-24T17:20:19Z",
-      "processed_at": "2025-07-25T20:24:42.911798+00:00"
-    },
-    {
-      "title": "Apple releases public betas of its new software updates with Liquid Glass - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "Apple has officially released the first public betas for iOS 26, iPadOS 26, macOS Tahoe 26, watchOS ...",
-      "url": "https://www.theverge.com/news/695142/apple-public-betas-liquid-glass-ios-macos-26",
-      "publishedAt": "2025-07-24T17:14:15Z",
-      "processed_at": "2025-07-25T20:24:42.911798+00:00"
+      "processed_at": "2025-07-25T21:20:34.770673+00:00"
     },
     {
       "title": "Google’s Pixel Watch 4 might charge on its side - The Verge",
@@ -50,17 +60,17 @@
       "description": "Google’s rumored Pixel Watch 4 may charge from the side rather than the back thanks to a new charger...",
       "url": "https://www.theverge.com/news/713142/google-pixel-watch-4-charge-side",
       "publishedAt": "2025-07-24T16:13:51Z",
-      "processed_at": "2025-07-25T20:24:42.911798+00:00"
+      "processed_at": "2025-07-25T21:20:34.770673+00:00"
     },
     {
-      "title": "Amazon introduces a more affordable color screen Kindle - TechCrunch",
+      "title": "AppleCare One users get gift cards when switching from AppleCare+ - AppleInsider",
       "source": {
-        "name": "TechCrunch"
+        "name": "AppleInsider"
       },
-      "description": "Amazon launches a more affordable, $250 Colorsoft Kindle and a version for kids....",
-      "url": "https://techcrunch.com/2025/07/24/amazon-introduces-a-more-affordable-color-screen-kindle/",
-      "publishedAt": "2025-07-24T15:50:17Z",
-      "processed_at": "2025-07-25T20:24:42.911798+00:00"
+      "description": "Apple is making it easy for users to move from AppleCare+ to the new AppleCare One plan, and some cu...",
+      "url": "https://appleinsider.com/articles/25/07/24/applecare-one-users-get-gift-cards-when-switching-from-applecare",
+      "publishedAt": "2025-07-24T15:44:00Z",
+      "processed_at": "2025-07-25T21:20:34.770673+00:00"
     },
     {
       "title": "Battlefield 6 finally revealed, with a dedicated multiplayer reveal coming next week - Eurogamer",
@@ -70,17 +80,7 @@
       "description": "Battlefield 6 has finally been revealed officially, courtesy of a brand-new trailer premiered on You...",
       "url": "https://www.eurogamer.net/battlefield-6-finally-revealed-with-a-dedicated-multiplayer-reveal-coming-next-week",
       "publishedAt": "2025-07-24T15:12:47Z",
-      "processed_at": "2025-07-25T20:24:42.911798+00:00"
-    },
-    {
-      "title": "This Is Why Bose's SoundLink Plus Is the Goldilocks of Bose Bluetooth Speakers - CNET",
-      "source": {
-        "name": "CNET"
-      },
-      "description": "The midsize SoundLink Plus sits between the SoundLink Flex and SoundLink Max in Bose's line of porta...",
-      "url": "https://www.cnet.com/tech/home-entertainment/bose-soundlink-plus-review/",
-      "publishedAt": "2025-07-24T15:00:00Z",
-      "processed_at": "2025-07-25T20:24:42.911798+00:00"
+      "processed_at": "2025-07-25T21:20:34.770673+00:00"
     },
     {
       "title": "‘Starting Today’—Microsoft Confirms Free Windows Update - Forbes",
@@ -90,20 +90,10 @@
       "description": "Check your PC for this critical new update — what to know....",
       "url": "https://www.forbes.com/sites/zakdoffman/2025/07/24/starting-today-microsoft-confirms-free-windows-update/",
       "publishedAt": "2025-07-24T14:39:00Z",
-      "processed_at": "2025-07-25T20:24:42.911798+00:00"
-    },
-    {
-      "title": "Slim sneakers are the shoe of the summer - CNN",
-      "source": {
-        "name": "CNN"
-      },
-      "description": "They were once worn by athletes to win Olympic track races in the 1970s. Now, slim, low-profile snea...",
-      "url": "https://www.cnn.com/2025/07/24/style/slim-sneakers-fashion-summer-2025",
-      "publishedAt": "2025-07-24T13:40:00Z",
-      "processed_at": "2025-07-25T20:24:42.911798+00:00"
+      "processed_at": "2025-07-25T21:20:34.770673+00:00"
     }
   ],
-  "lastUpdated": "2025-07-25T20:24:42.911868+00:00",
+  "lastUpdated": "2025-07-25T21:20:34.770745+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
