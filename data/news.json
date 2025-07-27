@@ -1,6 +1,6 @@
 {
   "status": "success",
-  "totalResults": 9,
+  "totalResults": 10,
   "articles": [
     {
       "title": "A father buys a new gaming PC for his son for $1,200, not realizing that the hardware installed on it is over 10 years old. - evidencenetwork.ca",
@@ -10,7 +10,17 @@
       "description": "To please his son and allow him to play the big games of the moment, a father thought he had made a ...",
       "url": "https://evidencenetwork.ca/a-father-buys-a-new-gaming-pc-for-his-son-for-1200-not-realizing-that-the-hardware-installed-on-it-is-over-10-years-old/",
       "publishedAt": "2025-07-26T15:06:00Z",
-      "processed_at": "2025-07-27T22:20:38.210194+00:00"
+      "processed_at": "2025-07-27T23:21:58.294250+00:00"
+    },
+    {
+      "title": "Google makes great apps, but these aren't it if you ask me - Android Authority",
+      "source": {
+        "name": "Android Authority"
+      },
+      "description": "These Google-made apps are either too basic for my needs or lack specific features you get with the ...",
+      "url": "https://www.androidauthority.com/apps-google-has-to-work-on-3580119/",
+      "publishedAt": "2025-07-26T14:30:53Z",
+      "processed_at": "2025-07-27T23:21:58.294250+00:00"
     },
     {
       "title": "Here are the laptops I’d tell any parent to consider for their back-to-school student - The Verge",
@@ -20,7 +30,17 @@
       "description": "It’s back-to-school planning time, and these are our top picks for the best student laptops — includ...",
       "url": "https://www.theverge.com/this-is-my-next/713373/best-laptops-for-students",
       "publishedAt": "2025-07-26T14:00:00Z",
-      "processed_at": "2025-07-27T22:20:38.210194+00:00"
+      "processed_at": "2025-07-27T23:21:58.294250+00:00"
+    },
+    {
+      "title": "The Greek Small-Town Doctor Who Knows AI’s Secrets - Gizmodo",
+      "source": {
+        "name": "Gizmodo.com"
+      },
+      "description": "On vacation far from any tech hub, I stumbled upon a physician on the cutting edge of technology. He...",
+      "url": "https://gizmodo.com/the-greek-small-town-doctor-who-knows-ais-secrets-2000634965",
+      "publishedAt": "2025-07-26T13:25:28Z",
+      "processed_at": "2025-07-27T23:21:58.294250+00:00"
     },
     {
       "title": "Koenigsegg Jesko Attack Drags Supercharged Hayabusa, Bike Pops 140-MPH Wheelie for the Win - autoevolution",
@@ -30,7 +50,7 @@
       "description": "The Five-Million-Dollar Apex Predator Just Got Hunted Down by a Fifty-Grand Rocket From Hell, both r...",
       "url": "https://www.autoevolution.com/news/koenigsegg-jesko-attack-drags-supercharged-hayabusa-bike-pops-140-mph-wheelie-for-the-win-254963.html",
       "publishedAt": "2025-07-26T12:54:41Z",
-      "processed_at": "2025-07-27T22:20:38.210194+00:00"
+      "processed_at": "2025-07-27T23:21:58.294250+00:00"
     },
     {
       "title": "iPhone 17 Pro Launching in Two Months With These 16 New Features - MacRumors",
@@ -40,7 +60,17 @@
       "description": "Apple's iPhone 17 Pro and iPhone 17 Pro Max should launch in late September, and there are plenty of...",
       "url": "https://www.macrumors.com/2025/07/26/iphone-17-pro-expected-features/",
       "publishedAt": "2025-07-26T12:50:16Z",
-      "processed_at": "2025-07-27T22:20:38.210194+00:00"
+      "processed_at": "2025-07-27T23:21:58.294250+00:00"
+    },
+    {
+      "title": "5G promised a revolution, but here's what we actually got - Android Authority",
+      "source": {
+        "name": "Android Authority"
+      },
+      "description": "Smart cities and gigabit everywhere?, just some of 5G's promises. But how has the wireless technolog...",
+      "url": "https://www.androidauthority.com/5g-hype-retrospective-3579000/",
+      "publishedAt": "2025-07-26T12:33:37Z",
+      "processed_at": "2025-07-27T23:21:58.294250+00:00"
     },
     {
       "title": "FBI Warning To 10 Million Android Users — Disconnect Your Devices Now - Forbes",
@@ -50,50 +80,30 @@
       "description": "Check to see if your Android device is at risk from this large-scale attack — here’s how....",
       "url": "https://www.forbes.com/sites/daveywinder/2025/07/26/fbi-warning-to-10-million-android-users---disconnect-from-internet-now/",
       "publishedAt": "2025-07-26T12:22:30Z",
-      "processed_at": "2025-07-27T22:20:38.210194+00:00"
+      "processed_at": "2025-07-27T23:21:58.294250+00:00"
     },
     {
-      "title": "AMD Confirms Ryzen Threadripper 9000 “HEDT” CPU Prices: Available on 31st July, $1499 For 24 Cores, $2499 For 32 Cores & $4999 For 64 Cores - Wccftech",
+      "title": "Inside the struggle to create a cozy Lord of the Rings game - The Verge",
       "source": {
-        "name": "Wccftech"
+        "name": "The Verge"
       },
-      "description": "AMD has officially confirmed the availability and prices of its Ryzen Threadripper 9000 HEDT Desktop...",
-      "url": "https://wccftech.com/amd-confirms-ryzen-threadripper-9000-hedt-cpu-prices-available-31st-july/",
-      "publishedAt": "2025-07-26T08:48:00Z",
-      "processed_at": "2025-07-27T22:20:38.210194+00:00"
+      "description": "The development of a cozy Lord of the Rings games called Tales of the Shire was troubled for develop...",
+      "url": "https://www.theverge.com/games/709797/tales-of-the-shire-lotr-development-weta-workshop",
+      "publishedAt": "2025-07-26T12:00:00Z",
+      "processed_at": "2025-07-27T23:21:58.294250+00:00"
     },
     {
-      "title": "How to Beat Dynamax Latios: Best Counters & Guide - Pokémon GO Hub",
+      "title": "I broke my caseless Pixel but refuse to learn my lesson - Android Authority",
       "source": {
-        "name": "Pokemon GO Hub"
+        "name": "Android Authority"
       },
-      "description": "Dynamax Latios is a Tier 5 Max Battle in Pokémon GO. It will cost 800 Max Particles to participate i...",
-      "url": "https://pokemongohub.net/post/guide/how-to-beat-dynamax-latios-best-counters-guide/",
-      "publishedAt": "2025-07-26T07:19:44Z",
-      "processed_at": "2025-07-27T22:20:38.210194+00:00"
-    },
-    {
-      "title": "Sony Acquires 2.5% Stake In Bandai Namco As Part Of New \"Strategic Partnership\" - Nintendo Life",
-      "source": {
-        "name": "Nintendo Life"
-      },
-      "description": "Focused on expanding anime IP and more...",
-      "url": "https://www.nintendolife.com/news/2025/07/sony-acquires-2-5percent-stake-in-bandai-namco-as-part-of-new-strategic-partnership",
-      "publishedAt": "2025-07-26T06:30:00Z",
-      "processed_at": "2025-07-27T22:20:38.210194+00:00"
-    },
-    {
-      "title": "Shadow Labyrinth review for Nintendo Switch 2 - Nintendo Everything",
-      "source": {
-        "name": "Nintendoeverything.com"
-      },
-      "description": "The Metroidvania Pac-Man game Shadow Labyrinth comes to Nintendo Switch 2 (and Switch) - this review...",
-      "url": "https://nintendoeverything.com/shadow-labyrinth-review/",
-      "publishedAt": "2025-07-26T04:52:30Z",
-      "processed_at": "2025-07-27T22:20:38.210194+00:00"
+      "description": "I have to buy a new phone, but I'll skip the case despite breaking my Pixel 7. I really hate those t...",
+      "url": "https://www.androidauthority.com/i-broke-my-caseless-pixel-3580929/",
+      "publishedAt": "2025-07-26T11:34:15Z",
+      "processed_at": "2025-07-27T23:21:58.294250+00:00"
     }
   ],
-  "lastUpdated": "2025-07-27T22:20:38.210270+00:00",
+  "lastUpdated": "2025-07-27T23:21:58.294323+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
