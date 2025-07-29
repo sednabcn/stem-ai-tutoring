@@ -1,6 +1,6 @@
 {
   "status": "success",
-  "totalResults": 10,
+  "totalResults": 9,
   "articles": [
     {
       "title": "The Era Of Nintendo Switch 2 Game Deals On Woot Has Begun - GameSpot",
@@ -10,7 +10,7 @@
       "description": "Mario Kart World and Nintendo Switch 2 versions of both Legend of Zelda games are now discounted at ...",
       "url": "https://www.gamespot.com/articles/woot-nintendo-switch-2-game-deals/1100-6533471/",
       "publishedAt": "2025-07-28T01:43:20Z",
-      "processed_at": "2025-07-29T02:05:56.757238+00:00"
+      "processed_at": "2025-07-29T04:08:00.691028+00:00"
     },
     {
       "title": "World's Most Common Pain Relief Drug May Induce Risky Behavior, Research Suggests - ScienceAlert",
@@ -20,7 +20,7 @@
       "description": "The most commonly taken analgesic worldwide – and one of the most consumed drugs in the US – could b...",
       "url": "https://www.sciencealert.com/worlds-most-common-pain-relief-drug-may-induce-risky-behavior-research-suggests",
       "publishedAt": "2025-07-27T23:28:44Z",
-      "processed_at": "2025-07-29T02:05:56.757238+00:00"
+      "processed_at": "2025-07-29T04:08:00.691028+00:00"
     },
     {
       "title": "Google admits it failed to warn 10 million of Turkey earthquake - BBC",
@@ -30,7 +30,17 @@
       "description": "The tech giant said only 469 serious warnings were sent out ahead of the 7.8 magnitude quake....",
       "url": "https://www.bbc.com/news/articles/c77v2kx304go",
       "publishedAt": "2025-07-27T23:16:50Z",
-      "processed_at": "2025-07-29T02:05:56.757238+00:00"
+      "processed_at": "2025-07-29T04:08:00.691028+00:00"
+    },
+    {
+      "title": "Pixel 10 Pro Price Leak Confirms Google’s Bold Decisions - Forbes",
+      "source": {
+        "name": "Forbes"
+      },
+      "description": "Leaked details on Google’s’ Pixel 10 Pro pricing suggest a conservative approach to pricing, but wit...",
+      "url": "https://www.forbes.com/sites/ewanspence/2025/07/27/google-pixel-10-pro-price-leak-specs-storage-new-pixel-pro/",
+      "publishedAt": "2025-07-27T23:09:35Z",
+      "processed_at": "2025-07-29T04:08:00.691028+00:00"
     },
     {
       "title": "Linux 6.16 Released - Better Performance, NVIDIA Blackwell Open-Source & Intel APX - Phoronix",
@@ -40,7 +50,27 @@
       "description": "As anticipated the Linux 6.16 kernel was promoted to stable...",
       "url": "https://www.phoronix.com/news/Linux-6.16-Released",
       "publishedAt": "2025-07-27T21:31:00Z",
-      "processed_at": "2025-07-29T02:05:56.757238+00:00"
+      "processed_at": "2025-07-29T04:08:00.691028+00:00"
+    },
+    {
+      "title": "Crash Bandicoot’s original lead programmer says N. Sane Trilogy was great but ‘botched’ how jumping works - My Nintendo News",
+      "source": {
+        "name": "My Nintendo News"
+      },
+      "description": "Crash Bandicoot’s original lead programmer Andrew Gavin has taken to Linkedin to write about his opi...",
+      "url": "https://mynintendonews.com/2025/07/27/crash-bandicoots-original-lead-programmer-says-n-sane-trilogy-was-great-but-botched-how-jumping-works/",
+      "publishedAt": "2025-07-27T21:04:38Z",
+      "processed_at": "2025-07-29T04:08:00.691028+00:00"
+    },
+    {
+      "title": "Steam drops 8 new free games you can keep forever, no subscriptions - GAMINGbible",
+      "source": {
+        "name": "Gamingbible.com"
+      },
+      "description": "These eight new titles can be yours right this second, but are any of them actually worth playing?...",
+      "url": "https://www.gamingbible.com/news/platform/steam/steam-8-new-free-games-keep-forever-220885-20250724",
+      "publishedAt": "2025-07-27T21:00:06Z",
+      "processed_at": "2025-07-29T04:08:00.691028+00:00"
     },
     {
       "title": "Samsung just quietly released its best midrange smartphone - Android Police",
@@ -50,60 +80,20 @@
       "description": "The Galaxy A56 is my choice...",
       "url": "https://www.androidpolice.com/samsung-galaxy-a56-thoughts/",
       "publishedAt": "2025-07-27T20:35:00Z",
-      "processed_at": "2025-07-29T02:05:56.757238+00:00"
+      "processed_at": "2025-07-29T04:08:00.691028+00:00"
     },
     {
-      "title": "Metroid Prime 4 Just Got Rated — And That Can Only Mean One Thing for Nintendo Fans - DualShockers",
+      "title": "“Blink and It’s Done”: Japan Shatters Internet Speed Record With 125,000 GBps and Leaves US Tech in the Dust - Rude Baguette",
       "source": {
-        "name": "DualShockers"
+        "name": "Rudebaguette.com"
       },
-      "description": "Metroid Prime 4: Beyond has been rated in South Korea, indicating that its release date, perhaps in ...",
-      "url": "https://www.dualshockers.com/metroid-prime-4-rated-means-release-date-ahead/",
-      "publishedAt": "2025-07-27T19:57:00Z",
-      "processed_at": "2025-07-29T02:05:56.757238+00:00"
-    },
-    {
-      "title": "I'm thinking of upgrading my Samsung Galaxy S23 with a Pixel 10 because of this one exclusive feature - Android Police",
-      "source": {
-        "name": "Android Police"
-      },
-      "description": "Yes, it&#039;s an AI feature...",
-      "url": "https://www.androidpolice.com/why-upgrade-galaxy-s23-to-pixel-10/",
-      "publishedAt": "2025-07-27T19:45:00Z",
-      "processed_at": "2025-07-29T02:05:56.757238+00:00"
-    },
-    {
-      "title": "Pokémon GO Events This Week (July 21 - 27, 2025): Toedscool, Shiny Wiglett, Gigantamax Butterfree and more! - Pokémon GO Hub",
-      "source": {
-        "name": "Pokemon GO Hub"
-      },
-      "description": "Pokémon GO’s July 28 - August 3 schedule brings summer vibes! Enjoy the Pokémon GO Adventure Week, t...",
-      "url": "https://pokemongohub.net/post/event/pokemon-go-events-this-week-july-21-27-2025-toedscool-shiny-wiglett-gigantamax-butterfree-and-more/",
-      "publishedAt": "2025-07-27T19:19:28Z",
-      "processed_at": "2025-07-29T02:05:56.757238+00:00"
-    },
-    {
-      "title": "My phone's battery kept dying at the worst times — until I finally made this change - Android Police",
-      "source": {
-        "name": "Android Police"
-      },
-      "description": "How I finally conquered my phone&#039;s battery anxiety with one change...",
-      "url": "https://www.androidpolice.com/my-phones-battery-kept-dying-at-the-worst-timesuntil-i-finally-made-this-change/",
-      "publishedAt": "2025-07-27T18:13:00Z",
-      "processed_at": "2025-07-29T02:05:56.757238+00:00"
-    },
-    {
-      "title": "Itch.io is the latest marketplace to crack down on adult games - TechCrunch",
-      "source": {
-        "name": "TechCrunch"
-      },
-      "description": "Indie video game marketplace Itch.io announced this week that it has \"deindexed\" adult and not-safe-...",
-      "url": "https://techcrunch.com/2025/07/27/itch-io-is-the-latest-marketplace-to-crack-down-on-adult-games/",
-      "publishedAt": "2025-07-27T18:12:36Z",
-      "processed_at": "2025-07-29T02:05:56.757238+00:00"
+      "description": "IN A NUTSHELL 🚀 Japanese researchers achieved a groundbreaking internet speed of 125,000 gigabytes p...",
+      "url": "https://www.rudebaguette.com/en/2025/07/blink-and-its-done-japan-shatters-internet-speed-record-with-125000-gbps-and-leaves-us-tech-in-the-dust/",
+      "publishedAt": "2025-07-27T19:59:16Z",
+      "processed_at": "2025-07-29T04:08:00.691028+00:00"
     }
   ],
-  "lastUpdated": "2025-07-29T02:05:56.757310+00:00",
+  "lastUpdated": "2025-07-29T04:08:00.691099+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
