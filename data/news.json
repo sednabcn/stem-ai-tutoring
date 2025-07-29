@@ -1,7 +1,27 @@
 {
   "status": "success",
-  "totalResults": 8,
+  "totalResults": 9,
   "articles": [
+    {
+      "title": "Did someone just get caught using the iPhone 17 Pro in the wild? - 9to5Mac",
+      "source": {
+        "name": "9to5Mac"
+      },
+      "description": "User Fox Puppy on X published a couple of photos that supposedly show someone filming an iPhone 17 P...",
+      "url": "https://9to5mac.com/2025/07/28/did-someone-just-get-caught-using-the-iphone-17-pro-in-the-wild/",
+      "publishedAt": "2025-07-28T21:46:00Z",
+      "processed_at": "2025-07-29T23:21:58.629314+00:00"
+    },
+    {
+      "title": "Earthbound -Style Fan Remake Of The Original Mother Might Finally Launch 19 Years Later - Kotaku",
+      "source": {
+        "name": "Kotaku"
+      },
+      "description": "A ROM hack using the 16-bit sequel to recreate Earthbound Beginnings has a new trailer...",
+      "url": "https://kotaku.com/earthbound-beginnings-remake-romhack-nintendo-trailer-1851787185",
+      "publishedAt": "2025-07-28T21:05:00Z",
+      "processed_at": "2025-07-29T23:21:58.629314+00:00"
+    },
     {
       "title": "“They’ll Know Everything You Click”: AI-Powered Mobile Browsers Are Here and GEO Experts Warn “This Changes the Surveillance Game” - Rude Baguette",
       "source": {
@@ -10,27 +30,27 @@
       "description": "IN A NUTSHELL 🚀 The launch of AI-powered browsers like Comet on mobile platforms is set to revolutio...",
       "url": "https://www.rudebaguette.com/en/2025/07/theyll-know-everything-you-click-ai-powered-mobile-browsers-are-here-and-geo-experts-warn-this-changes-the-surveillance-game/",
       "publishedAt": "2025-07-28T20:02:30Z",
-      "processed_at": "2025-07-29T22:22:33.604355+00:00"
+      "processed_at": "2025-07-29T23:21:58.629314+00:00"
     },
     {
-      "title": "Now everyone can stream their own games in the Xbox PC app. - The Verge",
+      "title": "Microsoft Edge is now an AI browser with launch of ‘Copilot Mode’ - TechCrunch",
       "source": {
-        "name": "The Verge"
+        "name": "TechCrunch"
       },
-      "description": "",
-      "url": "https://www.theverge.com/news/714633/xbox-pc-app-cloud-gaming-stream-your-own-game-play-history",
-      "publishedAt": "2025-07-28T19:27:09Z",
-      "processed_at": "2025-07-29T22:22:33.604355+00:00"
+      "description": "Microsoft's Edge browser introduces an AI-powered \"Copilot Mode\" for smarter web browsing....",
+      "url": "https://techcrunch.com/2025/07/28/microsoft-edge-is-now-an-ai-browser-with-launch-of-copilot-mode/",
+      "publishedAt": "2025-07-28T19:43:22Z",
+      "processed_at": "2025-07-29T23:21:58.629314+00:00"
     },
     {
-      "title": "iPhone 17 Pro could be even more ‘Pro’ than usual this year - 9to5Mac",
+      "title": "Rumor: iPhone 17 Pro will zoom past 5x optically, have Pro camera app - GSMArena.com news - GSMArena.com",
       "source": {
-        "name": "9to5Mac"
+        "name": "GSMArena.com"
       },
-      "description": "Apple’s iPhone 17 Pro and Pro Max could lean even more ‘Pro’ this year than usual, continuing a rece...",
-      "url": "https://9to5mac.com/2025/07/28/iphone-17-pro-could-be-even-more-pro-than-usual-this-year/",
-      "publishedAt": "2025-07-28T19:23:00Z",
-      "processed_at": "2025-07-29T22:22:33.604355+00:00"
+      "description": "There may even be an additional physical camera control, aside from the Camera Control button. Here'...",
+      "url": "https://www.gsmarena.com/rumor_iphone_17_pro_will_zoom_past_5x_optically_have_pro_camera_app-news-68793.php",
+      "publishedAt": "2025-07-28T19:41:02Z",
+      "processed_at": "2025-07-29T23:21:58.629314+00:00"
     },
     {
       "title": "Microsoft starts rolling out Xbox age verification in the UK - The Verge",
@@ -40,7 +60,7 @@
       "description": "Microsoft is starting to roll out Xbox age verification in the UK. Players will be prompted to verif...",
       "url": "https://www.theverge.com/news/714458/microsoft-xbox-age-verification-uk-social-features",
       "publishedAt": "2025-07-28T17:29:38Z",
-      "processed_at": "2025-07-29T22:22:33.604355+00:00"
+      "processed_at": "2025-07-29T23:21:58.629314+00:00"
     },
     {
       "title": "Fans Think Nintendo May Have Accidentally Revealed Multiplayer For Pokémon Legends: Z-A - Kotaku",
@@ -50,7 +70,17 @@
       "description": "The RPG’s eShop page mentions a ‘Link Play’ menu Legends: Arceus didn’t have...",
       "url": "https://kotaku.com/pokemon-legends-z-a-link-play-multiplayer-switch-2-1851787158",
       "publishedAt": "2025-07-28T17:25:56Z",
-      "processed_at": "2025-07-29T22:22:33.604355+00:00"
+      "processed_at": "2025-07-29T23:21:58.629314+00:00"
+    },
+    {
+      "title": "Gertie Couple to Open New Restaurant in Longtime Buttermilk Channel Home - Eater New York",
+      "source": {
+        "name": "Eater"
+      },
+      "description": "Trudie’s Tavern will open while Gertie will relocate to Prospect Heights in former R&D Foods...",
+      "url": "https://ny.eater.com/coming-attractions/401131/gertie-prospect-heights-new-trudies-tavern-carroll-gardens",
+      "publishedAt": "2025-07-28T17:20:33Z",
+      "processed_at": "2025-07-29T23:21:58.629314+00:00"
     },
     {
       "title": "Another Google Pixel 6a catches fire after battery-nerfing update - Ars Technica",
@@ -60,30 +90,10 @@
       "description": "Google’s Battery Performance Program update was supposed to stop this....",
       "url": "https://arstechnica.com/gadgets/2025/07/another-google-pixel-6a-catches-fire-after-battery-nerfing-update/",
       "publishedAt": "2025-07-28T17:05:32Z",
-      "processed_at": "2025-07-29T22:22:33.604355+00:00"
-    },
-    {
-      "title": "Pokémon GO Cozy Companions Event - Pokémon GO Hub",
-      "source": {
-        "name": "Pokemon GO Hub"
-      },
-      "description": "Pokémon GO Cozy Companions event runs from August 6, 2025 to August 12, 2025. This event features th...",
-      "url": "https://pokemongohub.net/post/event/cozy-companions/",
-      "publishedAt": "2025-07-28T16:41:27Z",
-      "processed_at": "2025-07-29T22:22:33.604355+00:00"
-    },
-    {
-      "title": "Sony details its ‘FlexStrike’ wireless PS5 fight stick - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "Sony’s PlayStation fight stick is now called the FlexStrike and can connect to the PS5 alongside a D...",
-      "url": "https://www.theverge.com/news/714602/sony-playstation-flexstrike-arcade-fight-stick",
-      "publishedAt": "2025-07-28T16:26:07Z",
-      "processed_at": "2025-07-29T22:22:33.604355+00:00"
+      "processed_at": "2025-07-29T23:21:58.629314+00:00"
     }
   ],
-  "lastUpdated": "2025-07-29T22:22:33.604424+00:00",
+  "lastUpdated": "2025-07-29T23:21:58.629383+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
