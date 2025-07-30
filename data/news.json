@@ -1,7 +1,27 @@
 {
   "status": "success",
-  "totalResults": 9,
+  "totalResults": 10,
   "articles": [
+    {
+      "title": "‘Pixelsnap’ charging puck leak confirms Qi2 magnets on Pixel 10 - 9to5Google",
+      "source": {
+        "name": "9to5google.com"
+      },
+      "description": "The latest Pixel 10 leak reveals the ‘Pixelsnap’ charger and strongly suggests the presence of Qi2 m...",
+      "url": "http://9to5google.com/2025/07/29/pixel-10-pixelsnap-charger/",
+      "publishedAt": "2025-07-29T20:57:00Z",
+      "processed_at": "2025-07-30T23:21:55.198471+00:00"
+    },
+    {
+      "title": "Opera is filing a complaint over Microsoft’s tricks that push you to use Edge - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "Opera has filed a complaint in Brazil against Microsoft. Opera alleges that Microsoft uses “manipula...",
+      "url": "https://www.theverge.com/news/715082/opera-microsoft-competition-complaint-edge-windows-tricks",
+      "publishedAt": "2025-07-29T20:08:52Z",
+      "processed_at": "2025-07-30T23:21:55.198471+00:00"
+    },
     {
       "title": "‘Shinobi: Art of Vengeance’ embraces the ‘pure craft’ of hand-drawn 2D gaming - The Washington Post",
       "source": {
@@ -10,7 +30,7 @@
       "description": "Inspired by Japanese black-ink paintings, “Shinobi: Art of Vengeance” returns to the Sega classic’s ...",
       "url": "https://www.washingtonpost.com/entertainment/video-games/2025/07/29/shinobi-art-of-vengeance-sega-lizardcube/",
       "publishedAt": "2025-07-29T20:00:00Z",
-      "processed_at": "2025-07-30T22:22:05.074329+00:00"
+      "processed_at": "2025-07-30T23:21:55.198471+00:00"
     },
     {
       "title": "The chaos and confusion of itch.io and Steam’s abrupt adult game ban - The Verge",
@@ -20,7 +40,7 @@
       "description": "In response to pressure from its payment processors, itch.io had a broad swath of adult content on i...",
       "url": "https://www.theverge.com/games/715299/itchio-games-delisting-payment-processor-paypal",
       "publishedAt": "2025-07-29T19:12:38Z",
-      "processed_at": "2025-07-30T22:22:05.074329+00:00"
+      "processed_at": "2025-07-30T23:21:55.198471+00:00"
     },
     {
       "title": "Apple releases iOS 18.6, macOS 15.6, and other updates as current gen winds down - Ars Technica",
@@ -30,7 +50,7 @@
       "description": "Photos app fix and a pile of security updates....",
       "url": "https://arstechnica.com/gadgets/2025/07/apple-releases-ios-18-6-macos-15-6-and-other-updates-as-current-gen-winds-down/",
       "publishedAt": "2025-07-29T19:03:19Z",
-      "processed_at": "2025-07-30T22:22:05.074329+00:00"
+      "processed_at": "2025-07-30T23:21:55.198471+00:00"
     },
     {
       "title": "Should You Buy a Switch 2 Now or Wait for Black Friday? - IGN",
@@ -40,17 +60,17 @@
       "description": "The Nintendo Switch 2 is now out in the wild, and seemingly in stock at most retailers. Should you b...",
       "url": "https://www.ign.com/articles/should-you-buy-a-nintendo-switch-2-now-or-wait-for-black-friday",
       "publishedAt": "2025-07-29T18:33:59Z",
-      "processed_at": "2025-07-30T22:22:05.074329+00:00"
+      "processed_at": "2025-07-30T23:21:55.198471+00:00"
     },
     {
-      "title": "Call of Duty HQ Size Reduction Gives Modern Warfare 3 a Platinum Trophy Two Years Late - Push Square",
+      "title": "More Wuchang PS5 Updates Detailed as Studio Commits to Support - Push Square",
       "source": {
         "name": "Push Square"
       },
-      "description": "MW2 and MW3 removed from Call of Duty HQ...",
-      "url": "https://www.pushsquare.com/news/2025/07/call-of-duty-hq-size-reduction-gives-modern-warfare-3-a-platinum-trophy-two-years-late",
-      "publishedAt": "2025-07-29T17:45:00Z",
-      "processed_at": "2025-07-30T22:22:05.074329+00:00"
+      "description": "",
+      "url": "https://www.pushsquare.com/news/2025/07/more-wuchang-ps5-updates-detailed-as-studio-commits-to-support",
+      "publishedAt": "2025-07-29T18:30:00Z",
+      "processed_at": "2025-07-30T23:21:55.198471+00:00"
     },
     {
       "title": "This new Apple feature could cost the GOP millions of dollars - Deseret News",
@@ -60,27 +80,17 @@
       "description": "Republicans could lose millions in ad revenue thanks to a new software update being rolled out by Ap...",
       "url": "https://www.deseret.com/politics/2025/07/29/apple-feature-could-harm-gop-fundraising/",
       "publishedAt": "2025-07-29T17:35:28Z",
-      "processed_at": "2025-07-30T22:22:05.074329+00:00"
+      "processed_at": "2025-07-30T23:21:55.198471+00:00"
     },
     {
-      "title": "Google Home rolling out fix for issues with light controls via voice commands - 9to5Google",
+      "title": "Google’s NotebookLM rolls out Video Overviews - TechCrunch",
       "source": {
-        "name": "9to5google.com"
+        "name": "TechCrunch"
       },
-      "description": "Following many user reports of issues, Google has confirmed a fix is rolling out for light controls ...",
-      "url": "http://9to5google.com/2025/07/29/google-home-light-control-voice-command-fix/",
-      "publishedAt": "2025-07-29T17:20:00Z",
-      "processed_at": "2025-07-30T22:22:05.074329+00:00"
-    },
-    {
-      "title": "Google’s NotebookLM can now make narrated slideshows with AI - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "Google’s NotebookLM is getting a new Video Overviews feature that uses AI to create narrated slidesh...",
-      "url": "https://www.theverge.com/news/715283/google-notebooklm-video-overviews-studio-ai",
-      "publishedAt": "2025-07-29T16:41:54Z",
-      "processed_at": "2025-07-30T22:22:05.074329+00:00"
+      "description": "With this new capability, NotebookLM is taking a more visual approach to helping users understand di...",
+      "url": "https://techcrunch.com/2025/07/29/googles-notebooklm-rolls-out-video-overviews/",
+      "publishedAt": "2025-07-29T17:11:20Z",
+      "processed_at": "2025-07-30T23:21:55.198471+00:00"
     },
     {
       "title": "Mega Dragonite’s silly design has Pokémon fans reviving decade-old arguments - Polygon",
@@ -90,10 +100,10 @@
       "description": "Mega Dragonite’s tender vibe isn’t sitting right with fans who thought the monster was meant to be i...",
       "url": "https://www.polygon.com/gaming/617123/pokemon-legends-za-mega-dragonite-fan-reactions-design-wings",
       "publishedAt": "2025-07-29T16:40:00Z",
-      "processed_at": "2025-07-30T22:22:05.074329+00:00"
+      "processed_at": "2025-07-30T23:21:55.198471+00:00"
     }
   ],
-  "lastUpdated": "2025-07-30T22:22:05.074401+00:00",
+  "lastUpdated": "2025-07-30T23:21:55.198550+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
