@@ -1,99 +1,109 @@
 {
   "status": "success",
-  "totalResults": 9,
+  "totalResults": 10,
   "articles": [
     {
-      "title": "PlayStation Plus Free Games For August 2025 Revealed - GameSpot",
-      "source": {
-        "name": "GameSpot"
-      },
-      "description": "Here's what PS Plus subscribers can look forward to in August....",
-      "url": "https://www.gamespot.com/articles/playstation-plus-essential-free-games-for-august-2025/1100-6533490/",
-      "publishedAt": "2025-07-29T15:38:09Z",
-      "processed_at": "2025-07-30T16:28:40.306199+00:00"
-    },
-    {
-      "title": "Jack Dorsey’s Bluetooth messaging app Bitchat now on App Store - TechCrunch",
-      "source": {
-        "name": "TechCrunch"
-      },
-      "description": "Jack Dorsey's Bitchat is now available on the App Store, but security researchers have questioned th...",
-      "url": "https://techcrunch.com/2025/07/29/jack-dorseys-bluetooth-messaging-app-bitchat-now-on-app-store/",
-      "publishedAt": "2025-07-29T14:51:39Z",
-      "processed_at": "2025-07-30T16:28:40.306199+00:00"
-    },
-    {
-      "title": "New iPhone 17 Pro video shows full color lineup with dummy models - 9to5Mac",
+      "title": "iOS 18.6 now available for iPhone, here’s what’s new - 9to5Mac",
       "source": {
         "name": "9to5Mac"
       },
-      "description": "A new video shows the rumored full iPhone 17 Pro color lineup using five dummy models, our best look...",
-      "url": "https://9to5mac.com/2025/07/29/new-iphone-17-pro-video-shows-full-color-lineup-with-dummy-models/",
-      "publishedAt": "2025-07-29T14:46:00Z",
-      "processed_at": "2025-07-30T16:28:40.306199+00:00"
+      "description": "iOS 18.6 is now available for iPhone users. While the iOS 26 beta has stolen the headlines, Apple ha...",
+      "url": "https://9to5mac.com/2025/07/29/ios-18-6-now-available-for-iphone-heres-whats-new/",
+      "publishedAt": "2025-07-29T17:16:00Z",
+      "processed_at": "2025-07-30T17:21:59.534909+00:00"
     },
     {
-      "title": "AYANEO Announce The Pocket DS - The World's First Flip Dual-Screen Android Handheld - Time Extension",
-      "source": {
-        "name": "Timeextension.com"
-      },
-      "description": "Update: We now have some initial specs for the two screens...",
-      "url": "https://www.timeextension.com/news/2025/07/ayaneo-announce-the-pocket-ds-the-worlds-first-flip-dual-screen-android-handheld",
-      "publishedAt": "2025-07-29T14:40:04Z",
-      "processed_at": "2025-07-30T16:28:40.306199+00:00"
-    },
-    {
-      "title": "Four-player co-op hack-and-slash action game GODBREAKERS announced for PS5, PC - Gematsu",
-      "source": {
-        "name": "Gematsu"
-      },
-      "description": "Publisher Thunderful Games and development subsidiary To The Sky have announced GODBREAKERS, a four-...",
-      "url": "https://www.gematsu.com/2025/07/four-player-co-op-hack-and-slash-action-game-godbreakers-announced-for-ps5-pc",
-      "publishedAt": "2025-07-29T14:16:49Z",
-      "processed_at": "2025-07-30T16:28:40.306199+00:00"
-    },
-    {
-      "title": "\"This Is Beyond Creepy\": Outrage Erupts as Humanoid Robot Adam Steals the Spotlight at Major Chinese Music Festival - Rude Baguette",
-      "source": {
-        "name": "Rudebaguette.com"
-      },
-      "description": "IN A NUTSHELL 🤖 Adam, a humanoid robot developed by PNDbotics, made a significant impact at the VOYA...",
-      "url": "https://www.rudebaguette.com/en/2025/07/this-is-beyond-creepy-outrage-erupts-as-humanoid-robot-adam-steals-the-spotlight-at-major-chinese-music-festival/",
-      "publishedAt": "2025-07-29T13:58:20Z",
-      "processed_at": "2025-07-30T16:28:40.306199+00:00"
-    },
-    {
-      "title": "Grounded 2 wobbles while walking a line between frustration and brilliance - Eurogamer",
-      "source": {
-        "name": "Eurogamer.net"
-      },
-      "description": "What we think of Grounded 2 after 15 hours of play....",
-      "url": "https://www.eurogamer.net/grounded-2-wobbles-while-walking-a-line-between-frustration-and-brilliance",
-      "publishedAt": "2025-07-29T13:03:02Z",
-      "processed_at": "2025-07-30T16:28:40.306199+00:00"
-    },
-    {
-      "title": "Adobe adds new AI-powered image editing features to Photoshop - TechCrunch",
+      "title": "Google’s NotebookLM rolls out Video Overviews - TechCrunch",
       "source": {
         "name": "TechCrunch"
       },
-      "description": "Adobe is rolling out a feature that lets you place an object in a scene, remove its background, and ...",
-      "url": "https://techcrunch.com/2025/07/29/adobe-adds-new-ai-powered-image-editing-features-to-photoshop/",
-      "publishedAt": "2025-07-29T13:00:00Z",
-      "processed_at": "2025-07-30T16:28:40.306199+00:00"
+      "description": "With this new capability, NotebookLM is taking a more visual approach to helping users understand di...",
+      "url": "https://techcrunch.com/2025/07/29/googles-notebooklm-rolls-out-video-overviews/",
+      "publishedAt": "2025-07-29T17:11:20Z",
+      "processed_at": "2025-07-30T17:21:59.534909+00:00"
     },
     {
-      "title": "Elgato’s new 4K webcam lets you swap lens filters like a pro camera - The Verge",
+      "title": "FOMO won, I own a Switch 2 now - Polygon",
       "source": {
-        "name": "The Verge"
+        "name": "Polygon"
       },
-      "description": "Elgato is launching a new $199.99 4K webcam. The Facecam 4K includes support for swappable lens filt...",
-      "url": "https://www.theverge.com/news/715017/elgato-facecam-4k-webcam-lens-filters-pricing-release-date",
-      "publishedAt": "2025-07-29T13:00:00Z",
-      "processed_at": "2025-07-30T16:28:40.306199+00:00"
+      "description": "The realization that the Switch 2 may only get more expensive with time made me break my hesitation ...",
+      "url": "https://www.polygon.com/nintendo-switch-2/617002/fomo-buying-switch-tariffs-price-increase",
+      "publishedAt": "2025-07-29T17:00:00Z",
+      "processed_at": "2025-07-30T17:21:59.534909+00:00"
+    },
+    {
+      "title": "Mega Dragonite’s silly design has Pokémon fans reviving decade-old arguments - Polygon",
+      "source": {
+        "name": "Polygon"
+      },
+      "description": "Mega Dragonite’s tender vibe isn’t sitting right with fans who thought the monster was meant to be i...",
+      "url": "https://www.polygon.com/gaming/617123/pokemon-legends-za-mega-dragonite-fan-reactions-design-wings",
+      "publishedAt": "2025-07-29T16:40:00Z",
+      "processed_at": "2025-07-30T17:21:59.534909+00:00"
+    },
+    {
+      "title": "Disgaea 7 Complete for Switch 2 launches October 10 in the west - Gematsu",
+      "source": {
+        "name": "Gematsu"
+      },
+      "description": "Disgaea 7 Complete will launch for Switch 2 on October 10 in the west, publisher NIS America announc...",
+      "url": "https://www.gematsu.com/2025/07/disgaea-7-complete-for-switch-2-launches-october-10-in-the-west",
+      "publishedAt": "2025-07-29T16:18:21Z",
+      "processed_at": "2025-07-30T17:21:59.534909+00:00"
+    },
+    {
+      "title": "Google’s AI Mode gets new ‘Canvas’ feature, real-time help with Search Live, and more - TechCrunch",
+      "source": {
+        "name": "TechCrunch"
+      },
+      "description": "The tech giant is rolling out a new Canvas feature, the ability to get real-time help with Search Li...",
+      "url": "https://techcrunch.com/2025/07/29/googles-ai-mode-gets-new-canvas-feature-real-time-help-with-search-live-and-more/",
+      "publishedAt": "2025-07-29T16:00:00Z",
+      "processed_at": "2025-07-30T17:21:59.534909+00:00"
+    },
+    {
+      "title": "Battlefield 6 Open Beta: Rumored Start Time And Everything Else We Know So Far - GameSpot",
+      "source": {
+        "name": "GameSpot"
+      },
+      "description": "An open beta for the shooter is coming, and possibly soon....",
+      "url": "https://www.gamespot.com/articles/battlefield-6-open-beta-release-date-time/1100-6533515/",
+      "publishedAt": "2025-07-29T15:56:02Z",
+      "processed_at": "2025-07-30T17:21:59.534909+00:00"
+    },
+    {
+      "title": "PlayStation Plus Essential monthly games for August include Lies of P - Video Games Chronicle",
+      "source": {
+        "name": "Video Games Chronicle"
+      },
+      "description": "Three more games will be available for subscribers to claim...",
+      "url": "https://www.videogameschronicle.com/news/playstation-plus-essential-monthly-games-for-august-include-lies-of-p/",
+      "publishedAt": "2025-07-29T15:47:16Z",
+      "processed_at": "2025-07-30T17:21:59.534909+00:00"
+    },
+    {
+      "title": "Play! Pokémon Access Brings Event News to Your Phone - Pokemon.com",
+      "source": {
+        "name": "Pokemon.com"
+      },
+      "description": "Discover events, keep track of Championship Points, search cards, and get the latest Play! Pokémon n...",
+      "url": "https://www.pokemon.com/us/pokemon-news/play-pokemon-access-brings-event-news-to-your-phone",
+      "publishedAt": "2025-07-29T15:32:34Z",
+      "processed_at": "2025-07-30T17:21:59.534909+00:00"
+    },
+    {
+      "title": "Call of Duty plans to remove Modern Warfare 2 and 3 from game launcher to reduce the frankly comical size of the installation file - Eurogamer",
+      "source": {
+        "name": "Eurogamer.net"
+      },
+      "description": "The Price we pay....",
+      "url": "https://www.eurogamer.net/call-of-duty-plans-warfare-2-installation-file",
+      "publishedAt": "2025-07-29T15:03:45Z",
+      "processed_at": "2025-07-30T17:21:59.534909+00:00"
     }
   ],
-  "lastUpdated": "2025-07-30T16:28:40.306268+00:00",
+  "lastUpdated": "2025-07-30T17:21:59.534986+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
