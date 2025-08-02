@@ -1,7 +1,17 @@
 {
   "status": "success",
-  "totalResults": 10,
+  "totalResults": 8,
   "articles": [
+    {
+      "title": "DJI won’t sell you an Osmo 360 in the US — but these retailers will - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "Today marks the first time DJI is formally skipping the US with a non-drone product, its 8K Osmo 360...",
+      "url": "https://www.theverge.com/news/716996/dji-osmo-360-no-us-launch-bh-adorama",
+      "publishedAt": "2025-07-31T20:24:54Z",
+      "processed_at": "2025-08-02T01:50:08.858000+00:00"
+    },
     {
       "title": "Battlefield 6's Godot-powered UGC mode is the heart of EA's big live service swing for the series - Game Developer",
       "source": {
@@ -10,27 +20,17 @@
       "description": "EA wants Battlefield 6 to be a live service revenue driver for the company, competing with Fortnite ...",
       "url": "https://www.gamedeveloper.com/business/battlefield-6-s-ugc-mode-is-the-heart-of-ea-s-live-service-aspirations-for-the-series",
       "publishedAt": "2025-07-31T19:05:20Z",
-      "processed_at": "2025-08-01T23:21:38.544436+00:00"
+      "processed_at": "2025-08-02T01:50:08.858000+00:00"
     },
     {
-      "title": "DJI announces the Osmo 360, the company's first 360° action camera - GSMArena.com news - GSMArena.com",
+      "title": "Shinobi: Art of Vengeance Has a Free Playable Demo Available Right Now on PS5, PS4 - Push Square",
       "source": {
-        "name": "GSMArena.com"
+        "name": "Push Square"
       },
-      "description": "First 360 camera to record 8K 50fps video. DJI has announced its first 360° action camera, the Osmo ...",
-      "url": "https://www.gsmarena.com/dji_announces_the_osmo_360_the_companys_first_360_action_camera-news-68856.php",
-      "publishedAt": "2025-07-31T18:42:02Z",
-      "processed_at": "2025-08-01T23:21:38.544436+00:00"
-    },
-    {
-      "title": "The best dating apps aren’t even dating apps - TechCrunch",
-      "source": {
-        "name": "TechCrunch"
-      },
-      "description": "With dating app fatigue rising, some people are finding love in unexpected places — the forums and s...",
-      "url": "https://techcrunch.com/2025/07/31/the-best-dating-apps-arent-even-dating-apps/",
-      "publishedAt": "2025-07-31T17:40:05Z",
-      "processed_at": "2025-08-01T23:21:38.544436+00:00"
+      "description": "Hone the art before launch...",
+      "url": "https://www.pushsquare.com/news/2025/07/shinobi-art-of-vengeance-has-a-free-playable-demo-available-right-now-on-ps5-ps4",
+      "publishedAt": "2025-07-31T17:30:00Z",
+      "processed_at": "2025-08-02T01:50:08.858000+00:00"
     },
     {
       "title": "‘The War Within’ Patch 11.2 Addresses Raid Trash, Magic-Focused Comps, And More - But Why Tho?",
@@ -40,47 +40,27 @@
       "description": "WoW Sr. Producer and Asst. Lead Quest Designer address The War Within 11.2's Manaforge Omega, Reshii...",
       "url": "https://butwhytho.net/2025/07/the-war-within-ghosts-of-karesh/",
       "publishedAt": "2025-07-31T17:00:25Z",
-      "processed_at": "2025-08-01T23:21:38.544436+00:00"
+      "processed_at": "2025-08-02T01:50:08.858000+00:00"
     },
     {
-      "title": "Samsung just gave the best pitch for Apple’s ‘iPhone Fold’ timing - 9to5Mac",
+      "title": "deadmau5 Headlines Rocket League to Mark 10 Years of Soccar! - Rocket League",
       "source": {
-        "name": "9to5Mac"
+        "name": "Rocketleague.com"
       },
-      "description": "Despite being seven years later than Samsung, it seems Apple’s timing for the iPhone Fold launch—per...",
-      "url": "https://9to5mac.com/2025/07/31/samsung-just-gave-the-best-pitch-for-apples-iphone-fold-timing/",
-      "publishedAt": "2025-07-31T16:26:00Z",
-      "processed_at": "2025-08-01T23:21:38.544436+00:00"
+      "description": "deadmau5 is keeping the party going for Rocket League’s 10th anniversary, upping the tempo with a th...",
+      "url": "https://www.rocketleague.com/en/news/deadmau5-headlines-rocket-league-to-mark-10-years-of-soccar",
+      "publishedAt": "2025-07-31T16:07:30Z",
+      "processed_at": "2025-08-02T01:50:08.858000+00:00"
     },
     {
-      "title": "Pixel Watch 4 price leaks with LTE possibly getting cheaper - 9to5Google",
+      "title": "Your Microsoft Passwords Will Vanish in a Few Hours. What to Do Right Now - CNET",
       "source": {
-        "name": "9to5google.com"
+        "name": "CNET"
       },
-      "description": "Following the Pixel 10 series, the US price of the Pixel Watch 4 has leaked and points to cheaper LT...",
-      "url": "http://9to5google.com/2025/07/31/pixel-watch-4-us-price-lte/",
-      "publishedAt": "2025-07-31T16:13:00Z",
-      "processed_at": "2025-08-01T23:21:38.544436+00:00"
-    },
-    {
-      "title": "Google Phone beta expands rollout of Material 3 Expressive redesign - 9to5Google",
-      "source": {
-        "name": "9to5google.com"
-      },
-      "description": "The piecemeal beta rollout of M3 Expressive (M3E) in the Google Phone app continues with version 185...",
-      "url": "http://9to5google.com/2025/07/31/google-phone-m3-expressive-expands/",
-      "publishedAt": "2025-07-31T15:31:00Z",
-      "processed_at": "2025-08-01T23:21:38.544436+00:00"
-    },
-    {
-      "title": "The Internet Reacts To The Most Ridiculous Part Of The Nintendo Direct - Kotaku",
-      "source": {
-        "name": "Kotaku"
-      },
-      "description": "",
-      "url": "https://kotaku.com/philabieldia-switch-nintendo-direct-elliot-jrpg-1851787431",
-      "publishedAt": "2025-07-31T15:30:00Z",
-      "processed_at": "2025-08-01T23:21:38.544436+00:00"
+      "description": "Microsoft's go-to password manager won't be the same after Aug. 1....",
+      "url": "https://www.cnet.com/tech/your-microsoft-passwords-will-vanish-in-a-few-hours-what-to-do-right-now/",
+      "publishedAt": "2025-07-31T15:29:00Z",
+      "processed_at": "2025-08-02T01:50:08.858000+00:00"
     },
     {
       "title": "Gamers Have Scared EA Away From An $80 ‘Battlefield 6’ - Forbes",
@@ -90,7 +70,7 @@
       "description": "Battlefield 6's release date is nigh, but when it arrives, it appears EA will not price it at $80 du...",
       "url": "https://www.forbes.com/sites/paultassi/2025/07/31/gamers-have-scared-ea-away-from-an-80-battlefield-6/",
       "publishedAt": "2025-07-31T15:23:38Z",
-      "processed_at": "2025-08-01T23:21:38.544436+00:00"
+      "processed_at": "2025-08-02T01:50:08.858000+00:00"
     },
     {
       "title": "FINAL FANTASY TACTICS - The Ivalice Chronicles Nintendo Switch™ 2 Edition for Nintendo Switch 2 - Nintendo",
@@ -100,10 +80,10 @@
       "description": "Buy FINAL FANTASY TACTICS - The Ivalice Chronicles Nintendo Switch™ 2 Edition and shop other great N...",
       "url": "https://www.nintendo.com/us/store/products/final-fantasy-tactics-the-ivalice-chronicles-nintendo-switch-2-edition-switch-2/",
       "publishedAt": "2025-07-31T15:23:15Z",
-      "processed_at": "2025-08-01T23:21:38.544436+00:00"
+      "processed_at": "2025-08-02T01:50:08.858000+00:00"
     }
   ],
-  "lastUpdated": "2025-08-01T23:21:38.544517+00:00",
+  "lastUpdated": "2025-08-02T01:50:08.858069+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
