@@ -1,7 +1,37 @@
 {
   "status": "success",
-  "totalResults": 8,
+  "totalResults": 9,
   "articles": [
+    {
+      "title": "There’s another risk to your heart that’s getting new attention - The Washington Post",
+      "source": {
+        "name": "The Washington Post"
+      },
+      "description": "There’s another risk to your heart that’s getting new attention .High levels of a fatty particle cal...",
+      "url": "https://www.washingtonpost.com/health/2025/08/02/heart-lipoprotein-vascular-disease/",
+      "publishedAt": "2025-08-02T14:23:26Z",
+      "processed_at": "2025-08-03T13:33:27.094355+00:00"
+    },
+    {
+      "title": "Hollow Knight: Silksong - The Story Behind the Insanely Long Wait For a Game We Demoed in 2019 - IGN",
+      "source": {
+        "name": "IGN"
+      },
+      "description": "When we played Silksong for the first time in 2019, we never expected it would be the start of a six...",
+      "url": "https://www.ign.com/articles/hollow-knight-silksong-the-story-behind-the-insanely-long-wait-clown-meme",
+      "publishedAt": "2025-08-02T13:00:52Z",
+      "processed_at": "2025-08-03T13:33:27.094355+00:00"
+    },
+    {
+      "title": "Gmail's New Feature Lets You Clean Up Your Inbox in a Couple of Taps - CNET",
+      "source": {
+        "name": "CNET"
+      },
+      "description": "You can now easily tame your inbox if it's drowning in subscriptions....",
+      "url": "https://www.cnet.com/tech/services-and-software/gmails-new-feature-lets-you-clean-up-your-inbox-in-a-couple-of-taps/",
+      "publishedAt": "2025-08-02T10:25:00Z",
+      "processed_at": "2025-08-03T13:33:27.094355+00:00"
+    },
     {
       "title": "Fall Update 2025 | Halo Infinite | Halo - Official Site (en) - Halo Waypoint",
       "source": {
@@ -10,7 +40,7 @@
       "description": "<p>Halo Infinite’s Fall Update introduces a new vehicle, a new weapon, two limited-time playlists, e...",
       "url": "https://www.halowaypoint.com/news/fall-update-2025-halo-infinite",
       "publishedAt": "2025-08-01T23:53:53Z",
-      "processed_at": "2025-08-03T12:45:15.249983+00:00"
+      "processed_at": "2025-08-03T13:33:27.094355+00:00"
     },
     {
       "title": "iOS 26: 10+ Features Coming to the Phone App - MacRumors",
@@ -20,7 +50,7 @@
       "description": "The Phone app doesn't often get a lot of attention with iOS updates, but that's changing in iOS 26. ...",
       "url": "https://www.macrumors.com/guide/ios-26-phone-app/",
       "publishedAt": "2025-08-01T23:46:03Z",
-      "processed_at": "2025-08-03T12:45:15.249983+00:00"
+      "processed_at": "2025-08-03T13:33:27.094355+00:00"
     },
     {
       "title": "Anthropic Revokes OpenAI's Access to Claude - WIRED",
@@ -30,7 +60,7 @@
       "description": "OpenAI lost access to the Claude API this week after Anthropic claimed the company was violating its...",
       "url": "https://www.wired.com/story/anthropic-revokes-openais-access-to-claude/",
       "publishedAt": "2025-08-01T21:41:00Z",
-      "processed_at": "2025-08-03T12:45:15.249983+00:00"
+      "processed_at": "2025-08-03T13:33:27.094355+00:00"
     },
     {
       "title": "EA Shutting Down Four Games Forever in October - ComicBook.com",
@@ -40,50 +70,30 @@
       "description": "EA, aka Electronic Arts, is set to shut down four different games in October across PC, Xbox, PlaySt...",
       "url": "http://comicbook.com/gaming/news/ea-electronic-arts-games-delistings/",
       "publishedAt": "2025-08-01T21:28:55Z",
-      "processed_at": "2025-08-03T12:45:15.249983+00:00"
+      "processed_at": "2025-08-03T13:33:27.094355+00:00"
     },
     {
-      "title": "Darksiders 4, New SpongeBob Game, And More Revealed During THQ Showcase - GameSpot",
+      "title": "Ninja Gaiden: Ragebound And 3 Other Great Games - Kotaku",
+      "source": {
+        "name": "Kotaku"
+      },
+      "description": "This weekend we’re kicking back with pixelated ninjas, endless jump scares, some dude named Elliot, ...",
+      "url": "https://kotaku.com/kotaku-games-to-play-ninja-gaiden-dead-take-hitman-elliot-millennium-2000614448",
+      "publishedAt": "2025-08-01T21:10:23Z",
+      "processed_at": "2025-08-03T13:33:27.094355+00:00"
+    },
+    {
+      "title": "BioShock Remake Cancelled, As BioShock 4 Reportedly Fails A Review - GameSpot",
       "source": {
         "name": "GameSpot"
       },
-      "description": "If you've been playing video games for over 20 years, THQ Nordic might have something for you....",
-      "url": "https://www.gamespot.com/gallery/darksiders-4-new-spongebob-game-and-more-revealed-during-thq-showcase/2900-6836/",
-      "publishedAt": "2025-08-01T20:30:00Z",
-      "processed_at": "2025-08-03T12:45:15.249983+00:00"
-    },
-    {
-      "title": "Darksiders 4 May Finally Be PS5's Answer to Classic Zelda - Push Square",
-      "source": {
-        "name": "Push Square"
-      },
-      "description": "War never changes...",
-      "url": "https://www.pushsquare.com/news/2025/08/darksiders-4-may-finally-be-ps5s-answer-to-classic-zelda",
-      "publishedAt": "2025-08-01T20:15:00Z",
-      "processed_at": "2025-08-03T12:45:15.249983+00:00"
-    },
-    {
-      "title": "BioShock 4 Reportedly Getting a Narrative Overhaul Amid Development Struggles - IGN",
-      "source": {
-        "name": "IGN"
-      },
-      "description": "BioShock 4 is currently undergoing a bit of a development overhaul after it recently failed a review...",
-      "url": "https://www.ign.com/articles/bioshock-4-reportedly-getting-a-narrative-overhaul-amid-development-struggles",
-      "publishedAt": "2025-08-01T19:52:30Z",
-      "processed_at": "2025-08-03T12:45:15.249983+00:00"
-    },
-    {
-      "title": "Gothic Classic trilogy coming to PS5, Xbox Series, PS4, and Xbox One in 2026 - Gematsu",
-      "source": {
-        "name": "Gematsu"
-      },
-      "description": "THQ Nordic will release Gothic Classic, Gothic II Complete Classic, and Gothic 3 Classic for PlaySta...",
-      "url": "https://www.gematsu.com/2025/08/gothic-classic-trilogy-coming-to-ps5-xbox-series-ps4-and-xbox-one-in-2026",
-      "publishedAt": "2025-08-01T19:18:17Z",
-      "processed_at": "2025-08-03T12:45:15.249983+00:00"
+      "description": "New details about the BioShock series have come to light....",
+      "url": "https://www.gamespot.com/articles/bioshock-remake-cancelled-as-bioshock-4-reportedly-fails-a-review/1100-6533650/",
+      "publishedAt": "2025-08-01T20:20:10Z",
+      "processed_at": "2025-08-03T13:33:27.094355+00:00"
     }
   ],
-  "lastUpdated": "2025-08-03T12:45:15.250042+00:00",
+  "lastUpdated": "2025-08-03T13:33:27.094424+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
