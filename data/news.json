@@ -1,7 +1,47 @@
 {
   "status": "success",
-  "totalResults": 10,
+  "totalResults": 9,
   "articles": [
+    {
+      "title": "Fall Update 2025 | Halo Infinite | Halo - Official Site (en) - Halo Waypoint",
+      "source": {
+        "name": "Halowaypoint.com"
+      },
+      "description": "<p>Halo Infinite’s Fall Update introduces a new vehicle, a new weapon, two limited-time playlists, e...",
+      "url": "https://www.halowaypoint.com/news/fall-update-2025-halo-infinite",
+      "publishedAt": "2025-08-01T23:53:53Z",
+      "processed_at": "2025-08-03T02:04:08.264704+00:00"
+    },
+    {
+      "title": "Anthropic Revokes OpenAI's Access to Claude - WIRED",
+      "source": {
+        "name": "Wired"
+      },
+      "description": "OpenAI lost access to the Claude API this week after Anthropic claimed the company was violating its...",
+      "url": "https://www.wired.com/story/anthropic-revokes-openais-access-to-claude/",
+      "publishedAt": "2025-08-01T21:41:00Z",
+      "processed_at": "2025-08-03T02:04:08.264704+00:00"
+    },
+    {
+      "title": "EA Shutting Down Four Games Forever in October - ComicBook.com",
+      "source": {
+        "name": "ComicBook.com"
+      },
+      "description": "EA, aka Electronic Arts, is set to shut down four different games in October across PC, Xbox, PlaySt...",
+      "url": "http://comicbook.com/gaming/news/ea-electronic-arts-games-delistings/",
+      "publishedAt": "2025-08-01T21:28:55Z",
+      "processed_at": "2025-08-03T02:04:08.264704+00:00"
+    },
+    {
+      "title": "Mortal Kombat: Legacy Kollection Deluxe Edition Preorders Are Live At Amazon - GameSpot",
+      "source": {
+        "name": "GameSpot"
+      },
+      "description": "Mortal Kombat: Legacy Kollection releases December 12 on consoles and PC, and the Switch 2 edition h...",
+      "url": "https://www.gamespot.com/articles/mortal-kombat-legacy-kollection-preorder-guide/1100-6533623/",
+      "publishedAt": "2025-08-01T20:32:25Z",
+      "processed_at": "2025-08-03T02:04:08.264704+00:00"
+    },
     {
       "title": "Darksiders 4 May Finally Be PS5's Answer to Classic Zelda - Push Square",
       "source": {
@@ -10,7 +50,7 @@
       "description": "War never changes...",
       "url": "https://www.pushsquare.com/news/2025/08/darksiders-4-may-finally-be-ps5s-answer-to-classic-zelda",
       "publishedAt": "2025-08-01T20:15:00Z",
-      "processed_at": "2025-08-02T23:23:18.062713+00:00"
+      "processed_at": "2025-08-03T02:04:08.264704+00:00"
     },
     {
       "title": "Darksiders 4, New SpongeBob Game, And More Revealed During THQ Showcase - GameSpot",
@@ -20,7 +60,27 @@
       "description": "If you've been playing video games for over 20 years, THQ Nordic might have something for you....",
       "url": "https://www.gamespot.com/gallery/darksiders-4-new-spongebob-game-and-more-revealed-during-thq-showcase/2900-6836/",
       "publishedAt": "2025-08-01T20:06:39Z",
-      "processed_at": "2025-08-02T23:23:18.062713+00:00"
+      "processed_at": "2025-08-03T02:04:08.264704+00:00"
+    },
+    {
+      "title": "Mastercard Denies It Pressured Steam, Itch.io to Delist Adult Games - IGN",
+      "source": {
+        "name": "IGN"
+      },
+      "description": "Mastercard has issued a statement claiming is has \"not required restrictions of any activity on game...",
+      "url": "https://www.ign.com/articles/mastercard-denies-it-pressured-steam-itchio-to-delist-adult-games",
+      "publishedAt": "2025-08-01T19:52:50Z",
+      "processed_at": "2025-08-03T02:04:08.264704+00:00"
+    },
+    {
+      "title": "SpongeBob SquarePants: Titans of the Tide announced for Nintendo Switch 2 - Nintendo Everything",
+      "source": {
+        "name": "Nintendoeverything.com"
+      },
+      "description": "SpongeBob SquarePants: Titans of the Tide just revealed with first details, trailer, and different e...",
+      "url": "https://nintendoeverything.com/spongebob-squarepants-titans-of-the-tide-announced-for-nintendo-switch-2/",
+      "publishedAt": "2025-08-01T19:08:18Z",
+      "processed_at": "2025-08-03T02:04:08.264704+00:00"
     },
     {
       "title": "Next ‘BioShock’ Game Changes Leaders After Development Turmoil - Bloomberg",
@@ -30,80 +90,10 @@
       "description": "The fourth game in the ‘BioShock’ series has been in development for more than a decade...",
       "url": "https://www.bloomberg.com/news/articles/2025-08-01/next-bioshock-game-changes-leaders-after-development-turmoil",
       "publishedAt": "2025-08-01T18:51:38Z",
-      "processed_at": "2025-08-02T23:23:18.062713+00:00"
-    },
-    {
-      "title": "Google backtracks on plans to deactivate shortened goo.gl links - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "If a goo.gl link doesn’t already have a deactivation message, then it will keep functioning as norma...",
-      "url": "https://www.theverge.com/news/717649/google-goo-gl-url-shortener-links-backtrack",
-      "publishedAt": "2025-08-01T18:41:09Z",
-      "processed_at": "2025-08-02T23:23:18.062713+00:00"
-    },
-    {
-      "title": "Every New Nintendo Switch 2 Game Releasing in August 2025 - IGN",
-      "source": {
-        "name": "IGN"
-      },
-      "description": "Switch 2 is getting sports games, cozy vibes, and the return of Kirby in August 2025....",
-      "url": "https://www.ign.com/articles/nintendo-switch-2-game-release-dates-august-2025",
-      "publishedAt": "2025-08-01T17:30:52Z",
-      "processed_at": "2025-08-02T23:23:18.062713+00:00"
-    },
-    {
-      "title": "Starfield Reportedly Coming To PS5 In 2026 As Fans Wait For Missing Expansion - Kotaku",
-      "source": {
-        "name": "Kotaku"
-      },
-      "description": "Bethesda's big sci-fi RPG was supposed to get annual updates...",
-      "url": "https://kotaku.com/starfield-ps5-second-expansion-shattered-space-date-2000614380",
-      "publishedAt": "2025-08-01T16:33:45Z",
-      "processed_at": "2025-08-02T23:23:18.062713+00:00"
-    },
-    {
-      "title": "Director’s Take: The More You Know — Overwatch 2 - Blizzard News",
-      "source": {
-        "name": "Blizzard.com"
-      },
-      "description": "If knowledge is power, Overwatch players are about to hit Champion. Assistant game director Alec Daw...",
-      "url": "https://news.blizzard.com/en-us/article/24226466/directors-take-the-more-you-know",
-      "publishedAt": "2025-08-01T16:00:00Z",
-      "processed_at": "2025-08-02T23:23:18.062713+00:00"
-    },
-    {
-      "title": "Assassin’s Creed Actor Says Ubisoft Threatened To Sue Him For Hinting At Black Flag Remaster - Kotaku",
-      "source": {
-        "name": "Kotaku"
-      },
-      "description": "Matt Ryan got candid at a signing when asked about Edward Kenway’s rumored return...",
-      "url": "https://kotaku.com/assassins-creed-black-flag-remake-remaster-matt-ryan-1851787469",
-      "publishedAt": "2025-08-01T15:22:59Z",
-      "processed_at": "2025-08-02T23:23:18.062713+00:00"
-    },
-    {
-      "title": "Destiny 2’s Power Leveling And Loot System Is The Worst It’s Ever Been - Forbes",
-      "source": {
-        "name": "Forbes"
-      },
-      "description": "Destiny 2 has a significant problem with how power works with loot in The Edge of Fate, and it's cre...",
-      "url": "https://www.forbes.com/sites/paultassi/2025/08/01/destiny-2s-power-leveling-and-loot-system-is-the-worst-its-ever-been/",
-      "publishedAt": "2025-08-01T15:08:24Z",
-      "processed_at": "2025-08-02T23:23:18.062713+00:00"
-    },
-    {
-      "title": "Battlefield 6 leads will avoid goofy crossover skins to \"stray true to Battlefield\" - Eurogamer",
-      "source": {
-        "name": "Eurogamer.net"
-      },
-      "description": "Battlefield 6 fans won't have to worry about a deluge of out-of-place cosmetics and crossover skins....",
-      "url": "https://www.eurogamer.net/battlefield-6-leads-will-avoid-goofy-crossover-skins-to-stray-true-to-battlefield",
-      "publishedAt": "2025-08-01T14:58:17Z",
-      "processed_at": "2025-08-02T23:23:18.062713+00:00"
+      "processed_at": "2025-08-03T02:04:08.264704+00:00"
     }
   ],
-  "lastUpdated": "2025-08-02T23:23:18.062784+00:00",
+  "lastUpdated": "2025-08-03T02:04:08.264784+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
