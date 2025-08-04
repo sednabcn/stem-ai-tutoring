@@ -1,7 +1,57 @@
 {
   "status": "success",
-  "totalResults": 10,
+  "totalResults": 9,
   "articles": [
+    {
+      "title": "Pittsburgh Steelers rookie in walking boot after injury - Behind the Steel Curtain",
+      "source": {
+        "name": "Behind the Steel Curtain"
+      },
+      "description": "The Steelers’ rookie suffered an injury during training camp...",
+      "url": "https://www.behindthesteelcurtain.com/pittsburgh-steelers-news/2025/8/3/24480255/pittsburgh-steelers-rookie-in-walking-boot-after-injury-donte-kent-kaleb-johnson-derrick-harmon",
+      "publishedAt": "2025-08-03T17:18:35Z",
+      "processed_at": "2025-08-04T17:25:20.740842+00:00"
+    },
+    {
+      "title": "Fandom split on Silent Hill f's \"soulslike\" combat - Eurogamer",
+      "source": {
+        "name": "Eurogamer.net"
+      },
+      "description": "The Silent Hill fandom is seemingly split once again, this time over Silent Hill f's \"soulslike\" com...",
+      "url": "https://www.eurogamer.net/fandom-split-on-silent-hill-fs-soulslike-combat",
+      "publishedAt": "2025-08-03T15:11:06Z",
+      "processed_at": "2025-08-04T17:25:20.740842+00:00"
+    },
+    {
+      "title": "The Nintendo Switch just got more expensive - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "Nintendo raised the US prices of the Switch, Switch OLED, and Switch Lite by $30 - $50, while the ne...",
+      "url": "https://www.theverge.com/news/717610/nintendo-switch-original-price-increase",
+      "publishedAt": "2025-08-03T13:46:13Z",
+      "processed_at": "2025-08-04T17:25:20.740842+00:00"
+    },
+    {
+      "title": "5 productivity apps I swear by, and one of them unlocks the rest - Android Authority",
+      "source": {
+        "name": "Android Authority"
+      },
+      "description": "From managing passwords and files to tracking habits and notes, here’s the app stack that actually h...",
+      "url": "https://www.androidauthority.com/best-productivity-apps-2025-3581959/",
+      "publishedAt": "2025-08-03T13:45:56Z",
+      "processed_at": "2025-08-04T17:25:20.740842+00:00"
+    },
+    {
+      "title": "Are you using Chrome for Android’s bottom address bar? [Poll] - 9to5Google",
+      "source": {
+        "name": "9to5google.com"
+      },
+      "description": "In July, Google finally launched a bottom address bar for Chrome on Android. Are you using it? It’s ...",
+      "url": "http://9to5google.com/2025/08/03/chrome-bottom-address-bar-poll/",
+      "publishedAt": "2025-08-03T13:30:00Z",
+      "processed_at": "2025-08-04T17:25:20.740842+00:00"
+    },
     {
       "title": "Lenovo’s rollable laptop is the coolest computer I’ve used all year - The Verge",
       "source": {
@@ -10,100 +60,40 @@
       "description": "Lenovo’s ThinkBook Plus Gen 6 rollable laptop is now a real thing you can buy for $3,300. Its flexib...",
       "url": "https://www.theverge.com/reviews/717491/lenovo-thinkbook-plus-gen-6-rollable-laptop-review",
       "publishedAt": "2025-08-03T13:00:00Z",
-      "processed_at": "2025-08-04T16:31:10.646554+00:00"
+      "processed_at": "2025-08-04T17:25:20.740842+00:00"
     },
     {
-      "title": "A webcam that’s almost like a real camera - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "Plus: LG’s next portable TV, a sleek power bank, a game about being a fly, and more....",
-      "url": "https://www.theverge.com/installer-newsletter/717693/elgato-facecam-4k-lg-stanbyme-2-time-flies-installer",
-      "publishedAt": "2025-08-03T12:00:00Z",
-      "processed_at": "2025-08-04T16:31:10.646554+00:00"
-    },
-    {
-      "title": "What Happens to Your Data If You Stop Paying for Cloud Storage? - WIRED",
+      "title": "The Nintendo Switch 2’s Biggest Problem Is Already Storage - WIRED",
       "source": {
         "name": "Wired"
       },
-      "description": "Hit by subscription fatigue? Here’s what happens to your files and photos if you cancel your paid st...",
-      "url": "https://www.wired.com/story/what-happens-to-your-data-if-you-stop-paying-for-cloud-storage/",
-      "publishedAt": "2025-08-03T11:30:00Z",
-      "processed_at": "2025-08-04T16:31:10.646554+00:00"
+      "description": "In 2025, 256 gigabytes just isn’t enough, and tacking on more storage isn’t as easy as it sounds....",
+      "url": "https://www.wired.com/story/nintendo-switch-2-biggest-problem-is-already-storage/",
+      "publishedAt": "2025-08-03T13:00:00Z",
+      "processed_at": "2025-08-04T17:25:20.740842+00:00"
     },
     {
-      "title": "\"This Is The Future Of VR Tech\" Breakthrough 0.1 Inch Display Delivers Lifelike 3D Images Using Mind-Blowing Holography - Rude Baguette",
+      "title": "The rise of AI tools that write about you when you die - The Washington Post",
       "source": {
-        "name": "Rudebaguette.com"
+        "name": "The Washington Post"
       },
-      "description": "IN A NUTSHELL 🎨 Stanford and Meta Reality Labs have developed a groundbreaking VR display using holo...",
-      "url": "https://www.rudebaguette.com/en/2025/08/this-is-the-future-of-vr-tech-breakthrough-0-1-inch-display-delivers-lifelike-3d-images-using-mind-blowing-holography/",
-      "publishedAt": "2025-08-03T11:11:30Z",
-      "processed_at": "2025-08-04T16:31:10.646554+00:00"
+      "description": "Families and funeral directors are using AI obituary generators to more efficiently memorialize the ...",
+      "url": "https://www.washingtonpost.com/technology/2025/08/03/ai-obituaries-funeral-homes/",
+      "publishedAt": "2025-08-03T12:32:12Z",
+      "processed_at": "2025-08-04T17:25:20.740842+00:00"
     },
     {
-      "title": "This Secluded Luxury Resort Was Named the Best in the U.S.—and It's on 12,000 Acres in Virginia's Blue Ridge Mountains - Travel + Leisure",
+      "title": "Apple’s New ‘Answers’ Team Eyes ChatGPT-Like Product in AI Push - Bloomberg",
       "source": {
-        "name": "Travel+Leisure"
+        "name": "Bloomberg"
       },
-      "description": "Primland, Auberge Resorts Collection is located in Virginia’s Blue Ridge Mountains and offers a golf...",
-      "url": "https://www.travelandleisure.com/primland-auberge-resorts-collection-in-virginia-hotel-review-11778635",
-      "publishedAt": "2025-08-03T09:48:00Z",
-      "processed_at": "2025-08-04T16:31:10.646554+00:00"
-    },
-    {
-      "title": "More Switch Games Reportedly Receive Switch 2 Compatibility Fixes - Nintendo Life",
-      "source": {
-        "name": "Nintendo Life"
-      },
-      "description": "Update: Another batch of games have been fixed...",
-      "url": "https://www.nintendolife.com/news/2025/08/more-switch-games-reportedly-receive-switch-2-compatibility-fixes",
-      "publishedAt": "2025-08-03T04:56:05Z",
-      "processed_at": "2025-08-04T16:31:10.646554+00:00"
-    },
-    {
-      "title": "Capcom Fighting Collection 2 Free Title Update Announced, Out Next Week - Nintendo Life",
-      "source": {
-        "name": "Nintendo Life"
-      },
-      "description": "Four additional characters and much more...",
-      "url": "https://www.nintendolife.com/news/2025/08/capcom-fighting-collection-2-free-title-update-announced-out-next-week",
-      "publishedAt": "2025-08-03T04:00:00Z",
-      "processed_at": "2025-08-04T16:31:10.646554+00:00"
-    },
-    {
-      "title": "Square Enix explains why it brought back Bravely Default for Nintendo Switch 2 - Nintendo Everything",
-      "source": {
-        "name": "Nintendoeverything.com"
-      },
-      "description": "The developers behind Bravely Default: Flying Fairy HD Remaster have spoken about why Square Enix re...",
-      "url": "https://nintendoeverything.com/square-enix-explains-why-it-brought-back-bravely-default-for-nintendo-switch-2/",
-      "publishedAt": "2025-08-03T03:07:30Z",
-      "processed_at": "2025-08-04T16:31:10.646554+00:00"
-    },
-    {
-      "title": "Playing Video Games Has an Unexpected Effect on Kids' IQ, Study Discovers - ScienceAlert",
-      "source": {
-        "name": "ScienceAlert"
-      },
-      "description": "Researchers have linked spending more time playing video games with a boost in intelligence in child...",
-      "url": "https://www.sciencealert.com/playing-video-games-has-an-unexpected-effect-on-kids-iq-study-discovers",
-      "publishedAt": "2025-08-02T23:25:01Z",
-      "processed_at": "2025-08-04T16:31:10.646554+00:00"
-    },
-    {
-      "title": "This is Microsoft's canceled Surface Duo running Windows Phone - Windows Central",
-      "source": {
-        "name": "Windows Central"
-      },
-      "description": "Surface Andromeda was the successor to Windows Phone we never got. Now, we know exactly what it woul...",
-      "url": "https://www.windowscentral.com/hardware/surface/microsoft-surface-andromeda-prototype-leaked-images-running-windows-phone-core-os",
-      "publishedAt": "2025-08-02T23:01:21Z",
-      "processed_at": "2025-08-04T16:31:10.646554+00:00"
+      "description": "Apple has a new “Answers” team developing a stripped-down rival to ChatGPT to help users access worl...",
+      "url": "https://www.bloomberg.com/news/newsletters/2025-08-03/apple-s-chatgpt-rival-from-new-answers-team-iphone-17-spotted-in-the-wild-mdvmqs6g",
+      "publishedAt": "2025-08-03T12:00:28Z",
+      "processed_at": "2025-08-04T17:25:20.740842+00:00"
     }
   ],
-  "lastUpdated": "2025-08-04T16:31:10.646629+00:00",
+  "lastUpdated": "2025-08-04T17:25:20.740910+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
