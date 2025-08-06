@@ -3,34 +3,84 @@
   "totalResults": 10,
   "articles": [
     {
-      "title": "Here are our first Xbox Game Pass games for August - Eurogamer",
+      "title": "Game Pass Jumpstarts August With Assassin’s Creed Mirage - Kotaku",
       "source": {
-        "name": "Eurogamer.net"
+        "name": "Kotaku"
       },
-      "description": "Microsoft has announced the first batch of games coming to its Xbox Game Pass subscription service t...",
-      "url": "https://www.eurogamer.net/here-are-our-first-xbox-game-pass-games-for-august",
-      "publishedAt": "2025-08-05T13:49:07Z",
-      "processed_at": "2025-08-06T16:29:50.121692+00:00"
+      "description": "Some of the best games of 2025 are headed to Game Pass Standard...",
+      "url": "https://kotaku.com/game-pass-august-2025-assassins-creed-mirage-aliens-2000614695",
+      "publishedAt": "2025-08-05T14:24:46Z",
+      "processed_at": "2025-08-06T17:23:36.029311+00:00"
     },
     {
-      "title": "Sound the Silksong klaxon! There's another Nintendo indie showcase coming this week - Eurogamer",
+      "title": "TMNT Goes Turn-Based In 'Tactical Takedown', Skating Onto Switch Next Week - Nintendo Life",
       "source": {
-        "name": "Eurogamer.net"
+        "name": "Nintendo Life"
       },
-      "description": "Nintendo's being as coy as always....",
-      "url": "https://www.eurogamer.net/sound-the-silksong-klaxon-theres-another-nintendo-indie-showcase-coming-this-week",
-      "publishedAt": "2025-08-05T13:33:51Z",
-      "processed_at": "2025-08-06T16:29:50.121692+00:00"
+      "description": "",
+      "url": "https://www.nintendolife.com/news/2025/08/tmnt-goes-turn-based-in-tactical-takedown-skating-onto-switch-next-week",
+      "publishedAt": "2025-08-05T14:15:00Z",
+      "processed_at": "2025-08-06T17:23:36.029311+00:00"
     },
     {
-      "title": "Google’s Pixel 10 Pro Fold might not go on sale until October - The Verge",
+      "title": "DeepMind thinks its new Genie 3 world model presents a stepping stone toward AGI - TechCrunch",
       "source": {
-        "name": "The Verge"
+        "name": "TechCrunch"
       },
-      "description": "Some of Google’s upcoming devices might not ship after its Pixel launch event. A report from WinFutu...",
-      "url": "https://www.theverge.com/news/718845/google-pixel-10-pro-fold-release-date-delay-october",
-      "publishedAt": "2025-08-05T13:23:33Z",
-      "processed_at": "2025-08-06T16:29:50.121692+00:00"
+      "description": "Google DeepMind has revealed Genie 3, its latest foundation world model that the AI lab says present...",
+      "url": "https://techcrunch.com/2025/08/05/deepmind-thinks-genie-3-world-model-presents-stepping-stone-towards-agi/",
+      "publishedAt": "2025-08-05T14:10:14Z",
+      "processed_at": "2025-08-06T17:23:36.029311+00:00"
+    },
+    {
+      "title": "Here's Everything We Know So Far About Phasmophobia's Terrifying New Map, Nell's Diner - IGN",
+      "source": {
+        "name": "IGN"
+      },
+      "description": "Phasmophobia developer Kinetic has finally lifted the veil on its next small map — and it's a diner....",
+      "url": "https://www.ign.com/articles/heres-everything-we-know-so-far-about-phasmophobias-terrifying-new-map-nells-diner",
+      "publishedAt": "2025-08-05T14:01:22Z",
+      "processed_at": "2025-08-06T17:23:36.029311+00:00"
+    },
+    {
+      "title": "YouTube details new NFL Sunday Ticket perks: Pixel discounts, Premium trial, more - 9to5Google",
+      "source": {
+        "name": "9to5google.com"
+      },
+      "description": "The 2025 NFL season is just about a month out from kicking off in style, but YouTube TV isn’t waitin...",
+      "url": "http://9to5google.com/2025/08/05/youtube-details-new-nfl-sunday-ticket-perks-pixel-discounts-premium-trial-more/",
+      "publishedAt": "2025-08-05T14:00:00Z",
+      "processed_at": "2025-08-06T17:23:36.029311+00:00"
+    },
+    {
+      "title": "Nintendo Taunts Silksong Fans With Surprise Indie World Showcase - Kotaku",
+      "source": {
+        "name": "Kotaku"
+      },
+      "description": "Another brief Nintendo Direct hits later this week...",
+      "url": "https://kotaku.com/nintendo-indie-showcase-silksong-hades-gungeon-2000614688",
+      "publishedAt": "2025-08-05T13:40:11Z",
+      "processed_at": "2025-08-06T17:23:36.029311+00:00"
+    },
+    {
+      "title": "Exclusive: Anthropic's Claude AI model takes on (and beats) human hackers - Axios",
+      "source": {
+        "name": "Axios"
+      },
+      "description": "Claude's success even surprised the company's own internal security team....",
+      "url": "https://www.axios.com/2025/08/05/anthropic-claude-ai-hacker-competitions-def-con",
+      "publishedAt": "2025-08-05T13:29:23Z",
+      "processed_at": "2025-08-06T17:23:36.029311+00:00"
+    },
+    {
+      "title": "PS5 Is the Only Console with a Proper Physical Copy of Cronos: The New Dawn - Push Square",
+      "source": {
+        "name": "Push Square"
+      },
+      "description": "",
+      "url": "https://www.pushsquare.com/news/2025/08/ps5-is-the-only-console-with-a-proper-physical-copy-of-cronos-the-new-dawn",
+      "publishedAt": "2025-08-05T13:00:00Z",
+      "processed_at": "2025-08-06T17:23:36.029311+00:00"
     },
     {
       "title": "Lunar Outpost celebrates release of Lego Moon Rover Space Vehicle - Ars Technica",
@@ -40,70 +90,20 @@
       "description": "Just one day after its official release, Lunar Outpost celebrated the rollout of its first Lego set ...",
       "url": "https://arstechnica.com/space/2025/08/lunar-outpost-celebrates-release-of-lego-moon-rover-space-vehicle/",
       "publishedAt": "2025-08-05T12:57:41Z",
-      "processed_at": "2025-08-06T16:29:50.121692+00:00"
+      "processed_at": "2025-08-06T17:23:36.029311+00:00"
     },
     {
-      "title": "Microsoft’s Windows XP Crocs are no joke - The Verge",
+      "title": "Report: Pixel Watch 4 and Pixel 10 Pro Fold not releasing until October - 9to5Google",
       "source": {
-        "name": "The Verge"
+        "name": "9to5google.com"
       },
-      "description": "Microsoft has created limited edition Windows XP-themed Crocs. The Crocs even come with a Clippy sho...",
-      "url": "https://www.theverge.com/microsoft/717965/microsoft-crocs-windows-xp-bliss-wallpaper-theme",
-      "publishedAt": "2025-08-05T12:30:00Z",
-      "processed_at": "2025-08-06T16:29:50.121692+00:00"
-    },
-    {
-      "title": "Samsung One UI 8 Beta Will Be Open for More Galaxy Devices - Samsung Newsroom",
-      "source": {
-        "name": "Samsung.com"
-      },
-      "description": "Starting next week, the One UI 8 beta program will be available on the Galaxy S24 series, Galaxy Z F...",
-      "url": "https://news.samsung.com/global/samsung-one-ui-8-beta-will-be-open-for-more-galaxy-devices",
-      "publishedAt": "2025-08-05T12:05:33Z",
-      "processed_at": "2025-08-06T16:29:50.121692+00:00"
-    },
-    {
-      "title": "\"This Always Falls On The Same Side\" Could Save Robots And Space Missions From Catastrophic Failures With Its Unique Design - Rude Baguette",
-      "source": {
-        "name": "Rudebaguette.com"
-      },
-      "description": "IN A NUTSHELL 🚀 Bille is a newly realized geometric object, a monostable tetrahedron, that always se...",
-      "url": "https://www.rudebaguette.com/en/2025/08/this-always-falls-on-the-same-side-could-save-robots-and-space-missions-from-catastrophic-failures-with-its-unique-design/",
-      "publishedAt": "2025-08-05T12:02:01Z",
-      "processed_at": "2025-08-06T16:29:50.121692+00:00"
-    },
-    {
-      "title": "iPhone 17 event scheduled for September 9, according to carrier documents - 9to5Mac",
-      "source": {
-        "name": "9to5Mac"
-      },
-      "description": "We’ve previously suggested Tuesday, September 9 as the most likely date for the iPhone 17 event, and...",
-      "url": "https://9to5mac.com/2025/08/05/iphone-17-event-scheduled-for-september-9-according-to-carrier-documents/",
-      "publishedAt": "2025-08-05T11:31:00Z",
-      "processed_at": "2025-08-06T16:29:50.121692+00:00"
-    },
-    {
-      "title": "Leaker claims New Super Mario Bros Collection coming for 40th Anniversary - My Nintendo News",
-      "source": {
-        "name": "My Nintendo News"
-      },
-      "description": "",
-      "url": "https://mynintendonews.com/2025/08/05/leaker-claims-new-super-mario-bros-collection-coming-for-40th-anniversary/",
-      "publishedAt": "2025-08-05T10:14:44Z",
-      "processed_at": "2025-08-06T16:29:50.121692+00:00"
-    },
-    {
-      "title": "'It's a reminder of childhood': How Pac-Man changed gaming - and the world - BBC",
-      "source": {
-        "name": "BBC News"
-      },
-      "description": "Celebrating his 45th birthday this year, the yellow eating machine revolutionised video games – and ...",
-      "url": "https://www.bbc.com/culture/article/20250730-how-pac-man-changed-gaming-and-the-world",
-      "publishedAt": "2025-08-05T09:52:09Z",
-      "processed_at": "2025-08-06T16:29:50.121692+00:00"
+      "description": "According to a new report, Google's upcoming Pixel 10 Pro Fold and Pixel Watch 4 will both see delay...",
+      "url": "http://9to5google.com/2025/08/05/pixel-watch-4-pixel-10-pro-fold-release-date-delay/",
+      "publishedAt": "2025-08-05T12:35:00Z",
+      "processed_at": "2025-08-06T17:23:36.029311+00:00"
     }
   ],
-  "lastUpdated": "2025-08-06T16:29:50.121769+00:00",
+  "lastUpdated": "2025-08-06T17:23:36.029390+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
