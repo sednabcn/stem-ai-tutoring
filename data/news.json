@@ -1,7 +1,67 @@
 {
   "status": "success",
-  "totalResults": 10,
+  "totalResults": 9,
   "articles": [
+    {
+      "title": "Pixel 10 series shown off in clean new images as software features start leaking - 9to5Google",
+      "source": {
+        "name": "9to5google.com"
+      },
+      "description": "New images of the Pixel 10 series offer our clearest look yet, while software features are starting ...",
+      "url": "http://9to5google.com/2025/08/06/pixel-10-leak-images-software/",
+      "publishedAt": "2025-08-06T18:20:00Z",
+      "processed_at": "2025-08-07T19:20:56.931705+00:00"
+    },
+    {
+      "title": "Call of Duty and Battlefield 6 will both require Secure Boot on Windows - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "Activision says that Call of Duty: Black Ops 7 players on PC will need to use hardware with TPM 2.0 ...",
+      "url": "https://www.theverge.com/news/720007/call-of-duty-pc-anti-cheat-secure-boot-windows-black-ops-7",
+      "publishedAt": "2025-08-06T17:00:00Z",
+      "processed_at": "2025-08-07T19:20:56.931705+00:00"
+    },
+    {
+      "title": "Fortnite Battle Pass Chapter 6 Season 4: All Skins Revealed - GameSpot",
+      "source": {
+        "name": "GameSpot"
+      },
+      "description": "This pass is a doozy with three collab skins from Halo and Power Rangers....",
+      "url": "https://www.gamespot.com/gallery/fortnite-chapter-6-season-4-battle-pass-all-skins-and-rewards/2900-6856/",
+      "publishedAt": "2025-08-06T16:21:29Z",
+      "processed_at": "2025-08-07T19:20:56.931705+00:00"
+    },
+    {
+      "title": "Google’s AI coding agent Jules is now out of beta - Yahoo Finance",
+      "source": {
+        "name": "Yahoo Entertainment"
+      },
+      "description": "Powered by Gemini 2.5 Pro, Jules is an asynchronous, agent-based coding tool that integrates with Gi...",
+      "url": "https://finance.yahoo.com/news/google-ai-coding-agent-jules-160000019.html",
+      "publishedAt": "2025-08-06T16:00:00Z",
+      "processed_at": "2025-08-07T19:20:56.931705+00:00"
+    },
+    {
+      "title": "Microsoft is bringing its Xbox Copilot to the Windows Game Bar - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "Microsoft is bringing its Xbox Copilot to Windows. The Gaming Copilot will soon be part of the Game ...",
+      "url": "https://www.theverge.com/news/719668/microsoft-xbox-gaming-copilot-windows-game-bar-beta-test",
+      "publishedAt": "2025-08-06T16:00:00Z",
+      "processed_at": "2025-08-07T19:20:56.931705+00:00"
+    },
+    {
+      "title": "Citizen Lab director warns cyber industry about US authoritarian descent - TechCrunch",
+      "source": {
+        "name": "TechCrunch"
+      },
+      "description": "Ron Deibert, the head of the prominent digital human rights groups Citizen Lab, sounds the alarm at ...",
+      "url": "https://techcrunch.com/2025/08/06/citizen-lab-director-warns-cyber-industry-about-us-authoritarian-descent/",
+      "publishedAt": "2025-08-06T15:01:00Z",
+      "processed_at": "2025-08-07T19:20:56.931705+00:00"
+    },
     {
       "title": "Xbox Is An Increasingly Unstable Platform For Anyone To Invest In - GameSpot",
       "source": {
@@ -10,7 +70,7 @@
       "description": "Constantly shifting motivations and tumultuous overhauls have poisoned the well of Xbox's ecosystem....",
       "url": "https://www.gamespot.com/articles/xbox-is-an-increasingly-unstable-platform-for-anyone-to-invest-in/1100-6533717/",
       "publishedAt": "2025-08-06T14:42:57Z",
-      "processed_at": "2025-08-07T18:34:56.425663+00:00"
+      "processed_at": "2025-08-07T19:20:56.931705+00:00"
     },
     {
       "title": "Here's how you can still get a Battlefield 6 multiplayer early access code - Eurogamer",
@@ -20,90 +80,20 @@
       "description": "You probably already know EA's about to hold a Battlefield 6 open beta so you can check out its mult...",
       "url": "https://www.eurogamer.net/heres-how-you-can-still-get-a-battlefield-6-multiplayer-early-access-code",
       "publishedAt": "2025-08-06T14:32:07Z",
-      "processed_at": "2025-08-07T18:34:56.425663+00:00"
+      "processed_at": "2025-08-07T19:20:56.931705+00:00"
     },
     {
-      "title": "Ex-BioWare Dev Wanted Dragon Age 4 Out Before Anthem - Kotaku",
+      "title": "iOS 26 upgrades the App Store with these three new features - 9to5Mac",
       "source": {
-        "name": "Kotaku"
+        "name": "9to5Mac"
       },
-      "description": "The loot shooter was forever haunted by an early live-service pitch meeting...",
-      "url": "https://kotaku.com/anthem-bioware-development-mark-darrah-live-service-2000615972",
-      "publishedAt": "2025-08-06T14:09:53Z",
-      "processed_at": "2025-08-07T18:34:56.425663+00:00"
-    },
-    {
-      "title": "RedOctane Games established – rhythm game studio led by genre veterans - Gematsu",
-      "source": {
-        "name": "Gematsu"
-      },
-      "description": "RedOctane Games, a new studio within Embracer Freemode founded by veterans of the rhythm game world,...",
-      "url": "https://www.gematsu.com/2025/08/redoctane-games-established-rhythm-game-studio-led-by-genre-veterans",
-      "publishedAt": "2025-08-06T14:07:24Z",
-      "processed_at": "2025-08-07T18:34:56.425663+00:00"
-    },
-    {
-      "title": "PowerWash Simulator 2 Has You Dig (and Clean) a Dirty Toilet Out of a Town Square - IGN",
-      "source": {
-        "name": "IGN"
-      },
-      "description": "",
-      "url": "https://www.ign.com/articles/powerwash-simulator-2-has-you-dig-and-clean-a-dirty-toilet-out-of-a-town-square",
-      "publishedAt": "2025-08-06T14:02:02Z",
-      "processed_at": "2025-08-07T18:34:56.425663+00:00"
-    },
-    {
-      "title": "The Grooms Smashing Wedding Cake in Their Brides’ Faces - The Cut",
-      "source": {
-        "name": "The Cut"
-      },
-      "description": "Viral ‘cake smashing’ videos, in which the groom enthusiastically hammers wedding cake into his brid...",
-      "url": "http://www.thecut.com/article/grooms-smashing-wedding-cake-brides-faces.html",
-      "publishedAt": "2025-08-06T13:30:00Z",
-      "processed_at": "2025-08-07T18:34:56.425663+00:00"
-    },
-    {
-      "title": "Hackers Hijacked Google’s Gemini AI With a Poisoned Calendar Invite to Take Over a Smart Home - WIRED",
-      "source": {
-        "name": "Wired"
-      },
-      "description": "For likely the first time ever, security researchers have shown how AI can be hacked to create real ...",
-      "url": "https://www.wired.com/story/google-gemini-calendar-invite-hijack-smart-home/",
-      "publishedAt": "2025-08-06T13:00:00Z",
-      "processed_at": "2025-08-07T18:34:56.425663+00:00"
-    },
-    {
-      "title": "‘Tinder For Games’ Video Game Discovery Tool Ludocene Is Now Live - Kotaku",
-      "source": {
-        "name": "Kotaku"
-      },
-      "description": "Combining a dating app with a deckbuilder, the web tool uses human experts instead of AI...",
-      "url": "https://kotaku.com/ludocene-game-discovery-tool-dating-app-2000615938",
-      "publishedAt": "2025-08-06T12:00:39Z",
-      "processed_at": "2025-08-07T18:34:56.425663+00:00"
-    },
-    {
-      "title": "Rumour: Xbox Exclusive Starfield Is Getting Some Hefty Gameplay Reworks for Its PS5 Release - Push Square",
-      "source": {
-        "name": "Push Square"
-      },
-      "description": "The final frontier...",
-      "url": "https://www.pushsquare.com/news/2025/08/rumour-xbox-exclusive-starfield-is-getting-some-hefty-gameplay-reworks-for-its-ps5-release",
-      "publishedAt": "2025-08-06T12:00:00Z",
-      "processed_at": "2025-08-07T18:34:56.425663+00:00"
-    },
-    {
-      "title": "ReVault flaws let hackers bypass Windows login on Dell laptops - BleepingComputer",
-      "source": {
-        "name": "BleepingComputer"
-      },
-      "description": "ControlVault3 firmware vulnerabilities impacting over 100 Dell laptop models can allow attackers to ...",
-      "url": "https://www.bleepingcomputer.com/news/security/revault-flaws-let-hackers-bypass-windows-login-on-dell-laptops/",
-      "publishedAt": "2025-08-06T11:58:07Z",
-      "processed_at": "2025-08-07T18:34:56.425663+00:00"
+      "description": "The App Store is getting several new features in iOS 26, here’s what’s coming to your iPhone this fa...",
+      "url": "https://9to5mac.com/2025/08/06/ios-26-upgrades-the-app-store-with-these-three-new-features/",
+      "publishedAt": "2025-08-06T14:18:00Z",
+      "processed_at": "2025-08-07T19:20:56.931705+00:00"
     }
   ],
-  "lastUpdated": "2025-08-07T18:34:56.425737+00:00",
+  "lastUpdated": "2025-08-07T19:20:56.931772+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
