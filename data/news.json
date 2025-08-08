@@ -3,6 +3,86 @@
   "totalResults": 9,
   "articles": [
     {
+      "title": "Metroid Prime 4, Elden Ring, Silksong All Playable At Nintendo's Gamescom Booth - Nintendo Life",
+      "source": {
+        "name": "Nintendo Life"
+      },
+      "description": "Plus many more!...",
+      "url": "https://www.nintendolife.com/news/2025/08/metroid-prime-4-elden-ring-silksong-all-playable-at-nintendos-gamescom-booth",
+      "publishedAt": "2025-08-07T10:15:00Z",
+      "processed_at": "2025-08-08T11:19:44.622623+00:00"
+    },
+    {
+      "title": "Review | I spent months living with smart glasses. People talk to me differently now. - The Washington Post",
+      "source": {
+        "name": "Google News"
+      },
+      "description": "",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUXVHRGJoeG5FbW9yWUd5M3VGMGRuaENOaUZUaW1IU1Q5MWhEX09UU1kyUHY5clByZXptOWd2MGZ5YUJsZUVUdWVfMTg0OC12U3gtUG1oYXpzTXdCYmJ1Wnlwc0dJZkg2d2pYYTRlV0FNRTlHdzNRbDNNRFgtMFprTFFaY180Y0Z5WWpXS1hR?oc=5",
+      "publishedAt": "2025-08-07T10:02:31Z",
+      "processed_at": "2025-08-08T11:19:44.622623+00:00"
+    },
+    {
+      "title": "Sony CFO says its live service shift is ‘not entirely going smoothly’ but pledges to carry on and learn from mistakes - Video Games Chronicle",
+      "source": {
+        "name": "Video Games Chronicle"
+      },
+      "description": "Lin Tao says progress has been made despite \"somewhat negative news\" caused by Concord and Marathon...",
+      "url": "https://www.videogameschronicle.com/news/sony-cfo-says-its-live-service-shift-is-not-entirely-going-smoothly-but-pledges-to-carry-on-and-learn-from-mistakes/",
+      "publishedAt": "2025-08-07T09:18:46Z",
+      "processed_at": "2025-08-08T11:19:44.622623+00:00"
+    },
+    {
+      "title": "PS5 Console Sales Surpass 80 Million Milestone, Closing in on PS3 - Push Square",
+      "source": {
+        "name": "Push Square"
+      },
+      "description": "80.3 million systems sold...",
+      "url": "https://www.pushsquare.com/news/2025/08/ps5-console-sales-surpass-80-million-milestone-closing-in-on-ps3",
+      "publishedAt": "2025-08-07T09:15:00Z",
+      "processed_at": "2025-08-08T11:19:44.622623+00:00"
+    },
+    {
+      "title": "Battlefield 6 Open Beta Forces PC Gamers to Mess About With Their BIOS to Enable Secure Boot — and Call of Duty: Black Ops 7 Is Next - IGN",
+      "source": {
+        "name": "IGN"
+      },
+      "description": "If you’re trying to play the Battlefield 6 Open Beta on PC, you might have run into a problem: ‘Secu...",
+      "url": "https://www.ign.com/articles/battlefield-6-open-beta-forces-pc-gamers-to-mess-about-with-their-bios-to-enable-secure-boot-and-call-of-duty-black-ops-7-is-next",
+      "publishedAt": "2025-08-07T08:48:41Z",
+      "processed_at": "2025-08-08T11:19:44.622623+00:00"
+    },
+    {
+      "title": "Sony CFO says Marathon is expected to release before March, and Bungie’s independence is ‘getting lighter’ - Video Games Chronicle",
+      "source": {
+        "name": "Video Games Chronicle"
+      },
+      "description": "\"We are now fixing the problems, so we believe this launch will happen\"...",
+      "url": "https://www.videogameschronicle.com/news/sony-cfo-says-marathon-is-expected-to-release-before-march-and-bungies-independence-is-getting-lighter/",
+      "publishedAt": "2025-08-07T08:37:28Z",
+      "processed_at": "2025-08-08T11:19:44.622623+00:00"
+    },
+    {
+      "title": "Microsoft warns of high-severity flaw in hybrid Exchange deployments - BleepingComputer",
+      "source": {
+        "name": "BleepingComputer"
+      },
+      "description": "Microsoft has warned customers to mitigate a high-severity vulnerability in Exchange Server hybrid d...",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-high-severity-flaw-in-hybrid-exchange-deployments/",
+      "publishedAt": "2025-08-07T07:50:45Z",
+      "processed_at": "2025-08-08T11:19:44.622623+00:00"
+    },
+    {
+      "title": "Galaxy Z Fold 7 folded 200,000 times using hands and survives - SamMobile",
+      "source": {
+        "name": "SamMobile"
+      },
+      "description": "Samsung's decision to remove the S Pen Bluetooth features on the Galaxy S25 Ultra took fans of the s...",
+      "url": "https://www.sammobile.com/opinion/sorry-s-pen-fans-galaxy-z-fold-7-buyers-dont-care-about-your-feelings/",
+      "publishedAt": "2025-08-07T04:21:00Z",
+      "processed_at": "2025-08-08T11:19:44.622623+00:00"
+    },
+    {
       "title": "NotebookLM rolls out Video Overviews, Studio redesign, and more - 9to5Google",
       "source": {
         "name": "9to5google.com"
@@ -10,90 +90,10 @@
       "description": "Following the announcement, Google has finished rolling out Video Overviews and a redesign of the St...",
       "url": "http://9to5google.com/2025/08/06/notebooklm-studio-redesign/",
       "publishedAt": "2025-08-07T02:12:00Z",
-      "processed_at": "2025-08-08T10:24:41.214893+00:00"
-    },
-    {
-      "title": "A Single Poisoned Document Could Leak ‘Secret’ Data Via ChatGPT - WIRED",
-      "source": {
-        "name": "Wired"
-      },
-      "description": "Security researchers found a weakness in OpenAI’s Connectors, which let you hook up ChatGPT to other...",
-      "url": "https://www.wired.com/story/poisoned-document-could-leak-secret-data-chatgpt/",
-      "publishedAt": "2025-08-06T23:30:00Z",
-      "processed_at": "2025-08-08T10:24:41.214893+00:00"
-    },
-    {
-      "title": "Guilty Gear Strive Producer On Lucy, Upcoming Balance Changes, and Strive 2.00 | Evo 2025 - IGN",
-      "source": {
-        "name": "IGN"
-      },
-      "description": "Guilty Gear Strive Producer Ken Miyauchi talks with IGN's own Mitchell Saltzman about the future of ...",
-      "url": "https://www.ign.com/articles/guilty-gear-strive-producer-on-lucy-upcoming-balance-changes-and-strive-200-evo-2025",
-      "publishedAt": "2025-08-06T21:51:14Z",
-      "processed_at": "2025-08-08T10:24:41.214893+00:00"
-    },
-    {
-      "title": "CoD Season 5 Patch Notes: BO6 And Warzone Adds Weapon Balancing And Stadium Event - GameSpot",
-      "source": {
-        "name": "GameSpot"
-      },
-      "description": "Here are all the major changes for BO6 and Warzone in the Season 5 update....",
-      "url": "https://www.gamespot.com/gallery/cod-season-5-patch-notes-bo6-and-warzone-adds-weapon-balancing-and-stadium-event/2900-6857/",
-      "publishedAt": "2025-08-06T21:35:02Z",
-      "processed_at": "2025-08-08T10:24:41.214893+00:00"
-    },
-    {
-      "title": "The Best & Biggest Deals From QuakeCon 2025's Big Steam Sale - Kotaku",
-      "source": {
-        "name": "Kotaku"
-      },
-      "description": "You can save big on games like Doom, Dishonored, Quake, Prey, Fallout and many more...",
-      "url": "https://kotaku.com/quakecon-2025s-steam-sale-is-packed-with-big-deals-on-great-pc-games-2000616059",
-      "publishedAt": "2025-08-06T21:33:59Z",
-      "processed_at": "2025-08-08T10:24:41.214893+00:00"
-    },
-    {
-      "title": "\"It was all PlayStation\" — Helldivers 2 CEO comments on how the popular co-op shooter arrived on Xbox - Windows Central",
-      "source": {
-        "name": "Windows Central"
-      },
-      "description": "An unexpected but welcome move was a PlayStation pushed move, as Helldivers 2 is set to release on X...",
-      "url": "https://www.windowscentral.com/gaming/it-was-all-playstation-helldivers-2-ceo-comments-on-xbox-release",
-      "publishedAt": "2025-08-06T21:03:00Z",
-      "processed_at": "2025-08-08T10:24:41.214893+00:00"
-    },
-    {
-      "title": "The Best Hard Drive Deal So Far in 2025: Get a Massive 26TB Seagate Desktop Hard Drive for $250 - IGN",
-      "source": {
-        "name": "IGN"
-      },
-      "description": "The first time I've seen a drive priced at under $10 per TB this year....",
-      "url": "https://www.ign.com/articles/best-desktop-hard-drive-deal-2025-seagate-expansion-26tb",
-      "publishedAt": "2025-08-06T21:02:21Z",
-      "processed_at": "2025-08-08T10:24:41.214893+00:00"
-    },
-    {
-      "title": "This 4.5-Star Mini PC (Ryzen 7, 32GB RAM, 512GB SSD) Just Hit Black Friday Pricing, Low in Stock on Amazon - Gizmodo",
-      "source": {
-        "name": "Gizmodo.com"
-      },
-      "description": "This compact device packs a punch and can now be grabbed for under $300 if you're quick....",
-      "url": "https://gizmodo.com/this-4-5-star-mini-pc-ryzen-7-32gb-ram-512gb-ssd-just-hit-black-friday-pricing-low-in-stock-on-amazon-2000639431",
-      "publishedAt": "2025-08-06T20:40:35Z",
-      "processed_at": "2025-08-08T10:24:41.214893+00:00"
-    },
-    {
-      "title": "Pixel 10 Pro XL looks large and in charge in major leak weeks before launch - Android Central",
-      "source": {
-        "name": "Android Central"
-      },
-      "description": "Another one; and this one might be our best look yet....",
-      "url": "https://www.androidcentral.com/phones/google-pixel/pixel-10-pro-xl-large-and-in-charge-major-leak-weeks-before-launch",
-      "publishedAt": "2025-08-06T19:58:18Z",
-      "processed_at": "2025-08-08T10:24:41.214893+00:00"
+      "processed_at": "2025-08-08T11:19:44.622623+00:00"
     }
   ],
-  "lastUpdated": "2025-08-08T10:24:41.214973+00:00",
+  "lastUpdated": "2025-08-08T11:19:44.622699+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
