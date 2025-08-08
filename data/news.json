@@ -3,6 +3,26 @@
   "totalResults": 10,
   "articles": [
     {
+      "title": "A Single Poisoned Document Could Leak ‘Secret’ Data Via ChatGPT - WIRED",
+      "source": {
+        "name": "Wired"
+      },
+      "description": "Security researchers found a weakness in OpenAI’s Connectors, which let you hook up ChatGPT to other...",
+      "url": "https://www.wired.com/story/poisoned-document-could-leak-secret-data-chatgpt/",
+      "publishedAt": "2025-08-06T23:30:00Z",
+      "processed_at": "2025-08-08T03:46:26.675640+00:00"
+    },
+    {
+      "title": "Guilty Gear Strive Producer On Lucy, Upcoming Balance Changes, and Strive 2.00 | Evo 2025 - IGN",
+      "source": {
+        "name": "IGN"
+      },
+      "description": "Guilty Gear Strive Producer Ken Miyauchi talks with IGN's own Mitchell Saltzman about the future of ...",
+      "url": "https://www.ign.com/articles/guilty-gear-strive-producer-on-lucy-upcoming-balance-changes-and-strive-200-evo-2025",
+      "publishedAt": "2025-08-06T21:51:14Z",
+      "processed_at": "2025-08-08T03:46:26.675640+00:00"
+    },
+    {
       "title": "CoD Season 5 Patch Notes: BO6 And Warzone Adds Weapon Balancing And Stadium Event - GameSpot",
       "source": {
         "name": "GameSpot"
@@ -10,37 +30,57 @@
       "description": "Here are all the major changes for BO6 and Warzone in the Season 5 update....",
       "url": "https://www.gamespot.com/gallery/cod-season-5-patch-notes-bo6-and-warzone-adds-weapon-balancing-and-stadium-event/2900-6857/",
       "publishedAt": "2025-08-06T21:35:02Z",
-      "processed_at": "2025-08-08T01:56:46.146522+00:00"
+      "processed_at": "2025-08-08T03:46:26.675640+00:00"
     },
     {
-      "title": "Google just pulled a Pixel phone from its store, and you can guess why - Android Authority",
+      "title": "\"It was all PlayStation\" — Helldivers 2 CEO comments on how the popular co-op shooter arrived on Xbox - Windows Central",
       "source": {
-        "name": "Android Authority"
+        "name": "Windows Central"
       },
-      "description": "Google has stopped selling the refurbished Pixel 6a amid ongoing battery fire concerns and a recent ...",
-      "url": "https://www.androidauthority.com/pixel-6a-pulled-from-google-store-3584574/",
-      "publishedAt": "2025-08-06T18:36:33Z",
-      "processed_at": "2025-08-08T01:56:46.146522+00:00"
+      "description": "An unexpected but welcome move was a PlayStation pushed move, as Helldivers 2 is set to release on X...",
+      "url": "https://www.windowscentral.com/gaming/it-was-all-playstation-helldivers-2-ceo-comments-on-xbox-release",
+      "publishedAt": "2025-08-06T21:03:00Z",
+      "processed_at": "2025-08-08T03:46:26.675640+00:00"
     },
     {
-      "title": "Pixel 10 series shown off in clean new images as software features start leaking - 9to5Google",
+      "title": "The Best Hard Drive Deal So Far in 2025: Get a Massive 26TB Seagate Desktop Hard Drive for $250 - IGN",
       "source": {
-        "name": "9to5google.com"
+        "name": "IGN"
       },
-      "description": "New images of the Pixel 10 series offer our clearest look yet, while software features are starting ...",
-      "url": "http://9to5google.com/2025/08/06/pixel-10-leak-images-software/",
-      "publishedAt": "2025-08-06T18:20:00Z",
-      "processed_at": "2025-08-08T01:56:46.146522+00:00"
+      "description": "The first time I've seen a drive priced at under $10 per TB this year....",
+      "url": "https://www.ign.com/articles/best-desktop-hard-drive-deal-2025-seagate-expansion-26tb",
+      "publishedAt": "2025-08-06T21:02:21Z",
+      "processed_at": "2025-08-08T03:46:26.675640+00:00"
     },
     {
-      "title": "Will the iPhone 17 lineup see a price hike? Here’s what the rumors say - 9to5Mac",
+      "title": "Pixel 10 Pro XL looks large and in charge in major leak weeks before launch - Android Central",
       "source": {
-        "name": "9to5Mac"
+        "name": "Android Central"
       },
-      "description": "In the many years that’ve passed since the introduction of the $999 iPhone X, there have almost alwa...",
-      "url": "https://9to5mac.com/2025/08/06/iphone-17-apple-price-hike-rumor-roundup-expectations/",
-      "publishedAt": "2025-08-06T18:00:00Z",
-      "processed_at": "2025-08-08T01:56:46.146522+00:00"
+      "description": "Another one; and this one might be our best look yet....",
+      "url": "https://www.androidcentral.com/phones/google-pixel/pixel-10-pro-xl-large-and-in-charge-major-leak-weeks-before-launch",
+      "publishedAt": "2025-08-06T19:58:18Z",
+      "processed_at": "2025-08-08T03:46:26.675640+00:00"
+    },
+    {
+      "title": "Google search boss says AI isn’t killing search clicks - Ars Technica",
+      "source": {
+        "name": "Ars Technica"
+      },
+      "description": "Liz Reid says Google’s data shows AI is generating consistent clicks and better experiences....",
+      "url": "https://arstechnica.com/google/2025/08/google-search-boss-says-ai-isnt-killing-search-clicks/",
+      "publishedAt": "2025-08-06T19:36:42Z",
+      "processed_at": "2025-08-08T03:46:26.675640+00:00"
+    },
+    {
+      "title": "Why Genie 3 Suggests AI 'World Models' Are The Path To Photorealistic Interactive VR - UploadVR",
+      "source": {
+        "name": "UploadVR"
+      },
+      "description": "Google DeepMind's remarkable Genie 3 suggests that AI \"world models\" could be the path to fully phot...",
+      "url": "https://www.uploadvr.com/google-genie-3-ai-world-models-the-path-to-photorealistic-vr/",
+      "publishedAt": "2025-08-06T18:06:18Z",
+      "processed_at": "2025-08-08T03:46:26.675640+00:00"
     },
     {
       "title": "Red Dead Redemption 2 Limited-Time Free Download Announced - GAMINGbible",
@@ -50,60 +90,20 @@
       "description": "Red Dead Redemption 2 players have a new time-limited free download, but you’ll only have a week to ...",
       "url": "https://www.gamingbible.com/news/red-dead-redemption-2-limited-time-free-download-announced-693239-20250806",
       "publishedAt": "2025-08-06T18:00:00Z",
-      "processed_at": "2025-08-08T01:56:46.146522+00:00"
+      "processed_at": "2025-08-08T03:46:26.675640+00:00"
     },
     {
-      "title": "Apple Watch Ultra 3 Launching This September: What to Expect - MacRumors",
+      "title": "Will the iPhone 17 lineup see a price hike? Here’s what the rumors say - 9to5Mac",
       "source": {
-        "name": "MacRumors"
+        "name": "9to5Mac"
       },
-      "description": "The long wait for an Apple Watch Ultra 3 is nearly over, and a handful of new features and changes h...",
-      "url": "https://www.macrumors.com/2025/08/06/apple-watch-ultra-3-what-to-expect/",
-      "publishedAt": "2025-08-06T17:55:00Z",
-      "processed_at": "2025-08-08T01:56:46.146522+00:00"
-    },
-    {
-      "title": "Original Guitar Hero Devs Are Back With A New Game - Kotaku",
-      "source": {
-        "name": "Kotaku"
-      },
-      "description": "RedOctane is back from the dead and working on multiple 'innovative rhythm-based experiences'...",
-      "url": "https://kotaku.com/guitar-hero-devs-redoctane-new-studio-embracer-trailer-2000616027",
-      "publishedAt": "2025-08-06T17:30:43Z",
-      "processed_at": "2025-08-08T01:56:46.146522+00:00"
-    },
-    {
-      "title": "Researchers design “promptware” attack with Google Calendar to turn Gemini evil - Ars Technica",
-      "source": {
-        "name": "Ars Technica"
-      },
-      "description": "The team behind the research has worked with Google to mitigate the attack, but what comes next?...",
-      "url": "https://arstechnica.com/google/2025/08/researchers-use-calendar-events-to-hack-gemini-control-smart-home-gadgets/",
-      "publishedAt": "2025-08-06T17:29:18Z",
-      "processed_at": "2025-08-08T01:56:46.146522+00:00"
-    },
-    {
-      "title": "Call of Duty and Battlefield 6 will both require Secure Boot on Windows - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "Activision says that Call of Duty: Black Ops 7 players on PC will need to use hardware with TPM 2.0 ...",
-      "url": "https://www.theverge.com/news/720007/call-of-duty-pc-anti-cheat-secure-boot-windows-black-ops-7",
-      "publishedAt": "2025-08-06T17:00:00Z",
-      "processed_at": "2025-08-08T01:56:46.146522+00:00"
-    },
-    {
-      "title": "Former Dragon Age producer posts tell-all video about the messy birth of EA and BioWare's Anthem - Rock Paper Shotgun",
-      "source": {
-        "name": "Rock Paper Shotgun"
-      },
-      "description": "BioWare and EA's Anthem had a long and gruelling road to release, according to this new video retros...",
-      "url": "https://www.rockpapershotgun.com/former-dragon-age-producer-posts-tell-all-video-about-the-messy-birth-of-ea-and-biowares-anthem",
-      "publishedAt": "2025-08-06T16:59:08Z",
-      "processed_at": "2025-08-08T01:56:46.146522+00:00"
+      "description": "In the many years that’ve passed since the introduction of the $999 iPhone X, there have almost alwa...",
+      "url": "https://9to5mac.com/2025/08/06/iphone-17-apple-price-hike-rumor-roundup-expectations/",
+      "publishedAt": "2025-08-06T18:00:00Z",
+      "processed_at": "2025-08-08T03:46:26.675640+00:00"
     }
   ],
-  "lastUpdated": "2025-08-08T01:56:46.146593+00:00",
+  "lastUpdated": "2025-08-08T03:46:26.675718+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
