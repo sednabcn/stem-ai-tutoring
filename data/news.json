@@ -1,99 +1,109 @@
 {
   "status": "success",
-  "totalResults": 9,
+  "totalResults": 10,
   "articles": [
     {
-      "title": "Metroid Prime 4, Elden Ring, Silksong All Playable At Nintendo's Gamescom Booth - Nintendo Life",
+      "title": "Digital Foundry, the most trusted name in game console analysis, is going independent - The Verge",
       "source": {
-        "name": "Nintendo Life"
+        "name": "The Verge"
       },
-      "description": "Plus many more!...",
-      "url": "https://www.nintendolife.com/news/2025/08/metroid-prime-4-elden-ring-silksong-all-playable-at-nintendos-gamescom-booth",
-      "publishedAt": "2025-08-07T10:15:00Z",
-      "processed_at": "2025-08-08T14:23:44.577738+00:00"
+      "description": "Digital Foundry is no longer controlled by IGN. Its founder has purchased the publication and its co...",
+      "url": "https://www.theverge.com/games/743535/digital-foundry-game-console-analysis-going-independent",
+      "publishedAt": "2025-08-07T14:00:00Z",
+      "processed_at": "2025-08-08T15:24:34.170064+00:00"
     },
     {
-      "title": "Review | I spent months living with smart glasses. People talk to me differently now. - The Washington Post",
+      "title": "HBO Max Password Sharing Crackdown Will Get “Aggressive” Next Month, WBD Streaming Chief JB Perrette Says - Deadline",
       "source": {
-        "name": "Google News"
+        "name": "Deadline"
       },
-      "description": "",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUXVHRGJoeG5FbW9yWUd5M3VGMGRuaENOaUZUaW1IU1Q5MWhEX09UU1kyUHY5clByZXptOWd2MGZ5YUJsZUVUdWVfMTg0OC12U3gtUG1oYXpzTXdCYmJ1Wnlwc0dJZkg2d2pYYTRlV0FNRTlHdzNRbDNNRFgtMFprTFFaY180Y0Z5WWpXS1hR?oc=5",
-      "publishedAt": "2025-08-07T10:02:31Z",
-      "processed_at": "2025-08-08T14:23:44.577738+00:00"
+      "description": "Warner Bros. Discovery's efforts to limit password sharing on HBO Max will start to get \"aggressive\"...",
+      "url": "http://deadline.com/2025/08/hbo-max-password-sharing-crackdown-warner-bros-discovery-1236481075/",
+      "publishedAt": "2025-08-07T13:50:00Z",
+      "processed_at": "2025-08-08T15:24:34.170064+00:00"
     },
     {
-      "title": "Sony CFO says its live service shift is ‘not entirely going smoothly’ but pledges to carry on and learn from mistakes - Video Games Chronicle",
-      "source": {
-        "name": "Video Games Chronicle"
-      },
-      "description": "Lin Tao says progress has been made despite \"somewhat negative news\" caused by Concord and Marathon...",
-      "url": "https://www.videogameschronicle.com/news/sony-cfo-says-its-live-service-shift-is-not-entirely-going-smoothly-but-pledges-to-carry-on-and-learn-from-mistakes/",
-      "publishedAt": "2025-08-07T09:18:46Z",
-      "processed_at": "2025-08-08T14:23:44.577738+00:00"
-    },
-    {
-      "title": "PS5 Console Sales Surpass 80 Million Milestone, Closing in on PS3 - Push Square",
-      "source": {
-        "name": "Push Square"
-      },
-      "description": "80.3 million systems sold...",
-      "url": "https://www.pushsquare.com/news/2025/08/ps5-console-sales-surpass-80-million-milestone-closing-in-on-ps3",
-      "publishedAt": "2025-08-07T09:15:00Z",
-      "processed_at": "2025-08-08T14:23:44.577738+00:00"
-    },
-    {
-      "title": "Battlefield 6 Open Beta Forces PC Gamers to Mess About With Their BIOS to Enable Secure Boot — and Call of Duty: Black Ops 7 Is Next - IGN",
-      "source": {
-        "name": "IGN"
-      },
-      "description": "If you’re trying to play the Battlefield 6 Open Beta on PC, you might have run into a problem: ‘Secu...",
-      "url": "https://www.ign.com/articles/battlefield-6-open-beta-forces-pc-gamers-to-mess-about-with-their-bios-to-enable-secure-boot-and-call-of-duty-black-ops-7-is-next",
-      "publishedAt": "2025-08-07T08:48:41Z",
-      "processed_at": "2025-08-08T14:23:44.577738+00:00"
-    },
-    {
-      "title": "Sony CFO says Marathon is expected to release before March, and Bungie’s independence is ‘getting lighter’ - Video Games Chronicle",
-      "source": {
-        "name": "Video Games Chronicle"
-      },
-      "description": "\"We are now fixing the problems, so we believe this launch will happen\"...",
-      "url": "https://www.videogameschronicle.com/news/sony-cfo-says-marathon-is-expected-to-release-before-march-and-bungies-independence-is-getting-lighter/",
-      "publishedAt": "2025-08-07T08:37:28Z",
-      "processed_at": "2025-08-08T14:23:44.577738+00:00"
-    },
-    {
-      "title": "Microsoft warns of high-severity flaw in hybrid Exchange deployments - BleepingComputer",
-      "source": {
-        "name": "BleepingComputer"
-      },
-      "description": "Microsoft has warned customers to mitigate a high-severity vulnerability in Exchange Server hybrid d...",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-high-severity-flaw-in-hybrid-exchange-deployments/",
-      "publishedAt": "2025-08-07T07:50:45Z",
-      "processed_at": "2025-08-08T14:23:44.577738+00:00"
-    },
-    {
-      "title": "Galaxy Z Fold 7 folded 200,000 times using hands and survives - SamMobile",
-      "source": {
-        "name": "SamMobile"
-      },
-      "description": "Samsung's decision to remove the S Pen Bluetooth features on the Galaxy S25 Ultra took fans of the s...",
-      "url": "https://www.sammobile.com/opinion/sorry-s-pen-fans-galaxy-z-fold-7-buyers-dont-care-about-your-feelings/",
-      "publishedAt": "2025-08-07T04:21:00Z",
-      "processed_at": "2025-08-08T14:23:44.577738+00:00"
-    },
-    {
-      "title": "NotebookLM rolls out Video Overviews, Studio redesign, and more - 9to5Google",
+      "title": "More Pixel 10 leaks keep showing off the glorious return of that ‘Really Blue’ colorway - 9to5Google",
       "source": {
         "name": "9to5google.com"
       },
-      "description": "Following the announcement, Google has finished rolling out Video Overviews and a redesign of the St...",
-      "url": "http://9to5google.com/2025/08/06/notebooklm-studio-redesign/",
-      "publishedAt": "2025-08-07T02:12:00Z",
-      "processed_at": "2025-08-08T14:23:44.577738+00:00"
+      "description": "Nearly a decade after Google’s first striking blue, leaks continue to show off the new “Indigo” Pixe...",
+      "url": "http://9to5google.com/2025/08/07/pixel-10-really-blue-color-leaks/",
+      "publishedAt": "2025-08-07T13:25:00Z",
+      "processed_at": "2025-08-08T15:24:34.170064+00:00"
+    },
+    {
+      "title": "Demonschool launches September 3 - Gematsu",
+      "source": {
+        "name": "Gematsu"
+      },
+      "description": "School life strategy RPG Demonschool will launch for PlayStation 5, Xbox Series, PlayStation 4, Xbox...",
+      "url": "https://www.gematsu.com/2025/08/demonschool-launches-september-3",
+      "publishedAt": "2025-08-07T13:24:27Z",
+      "processed_at": "2025-08-08T15:24:34.170064+00:00"
+    },
+    {
+      "title": "Nintendo Indie World August 2025 Showcase: All The Biggest Announcements - GameSpot",
+      "source": {
+        "name": "GameSpot"
+      },
+      "description": "For fans of smaller and quirkier games, here's a closer look at several new games on the way to the ...",
+      "url": "https://www.gamespot.com/gallery/nintendo-indie-world-showcase-august-2025-showcase-all-the-biggest-announcements/2900-6861/",
+      "publishedAt": "2025-08-07T13:13:17Z",
+      "processed_at": "2025-08-08T15:24:34.170064+00:00"
+    },
+    {
+      "title": "This smart lock lets me see through my door - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "With a digital peephole, wave to unlock, and support for Matter, this smart lock has a lot to like —...",
+      "url": "https://www.theverge.com/smart-home-review/679906/eufy-familock-s3-max-smart-video-doorlock-review",
+      "publishedAt": "2025-08-07T13:00:00Z",
+      "processed_at": "2025-08-08T15:24:34.170064+00:00"
+    },
+    {
+      "title": "After Concord and a string of delays and cancellations, Sony admits PlayStation's live-service strategy is \"not entirely going smoothly\" - Eurogamer",
+      "source": {
+        "name": "Eurogamer.net"
+      },
+      "description": "Sony has admitted PlayStation's live-service strategy is \"not entirely going smoothly\"....",
+      "url": "https://www.eurogamer.net/after-concord-and-a-string-of-delays-and-cancellations-sony-admits-playstations-live-service-strategy-is-not-entirely-going-smoothly",
+      "publishedAt": "2025-08-07T12:28:00Z",
+      "processed_at": "2025-08-08T15:24:34.170064+00:00"
+    },
+    {
+      "title": "Apple’s first OLED MacBook may borrow a key iPhone feature - 9to5Mac",
+      "source": {
+        "name": "9to5Mac"
+      },
+      "description": "Samsung Display has reportedly secured Apple’s first OLED panel order for the MacBook Pro, marking a...",
+      "url": "https://9to5mac.com/2025/08/07/macbook-pro-oled-no-notch/",
+      "publishedAt": "2025-08-07T12:10:00Z",
+      "processed_at": "2025-08-08T15:24:34.170064+00:00"
+    },
+    {
+      "title": "I went into Mafia: The Old Country expecting crime fantasy, but it hit me way harder - Polygon",
+      "source": {
+        "name": "Polygon"
+      },
+      "description": "Mafia: The Old Country doesn&#039;t just set out to tell a typical mob story. Instead, it contextual...",
+      "url": "https://www.polygon.com/mafia-the-old-country-review/",
+      "publishedAt": "2025-08-07T12:00:00Z",
+      "processed_at": "2025-08-08T15:24:34.170064+00:00"
+    },
+    {
+      "title": "80 Million PS5s Have Sold In Five Years, Dwarfing Xbox - Kotaku",
+      "source": {
+        "name": "Kotaku"
+      },
+      "description": "The PlayStation 5 is selling better this year than last, despite the lack of first-party games...",
+      "url": "https://kotaku.com/sony-sold-over-80-million-ps5-in-five-years-2000616264",
+      "publishedAt": "2025-08-07T11:21:45Z",
+      "processed_at": "2025-08-08T15:24:34.170064+00:00"
     }
   ],
-  "lastUpdated": "2025-08-08T14:23:44.577813+00:00",
+  "lastUpdated": "2025-08-08T15:24:34.170141+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
