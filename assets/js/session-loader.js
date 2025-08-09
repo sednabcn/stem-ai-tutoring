@@ -883,7 +883,7 @@ class SessionLoader {
             this.sessionManager.updateTutorDashboardAccess();
             
             // Load session-specific scripts (don't await to prevent blocking)
-            this.loadSessionScripts().catch(error => {
+            await this.loadSessionScripts().catch(error => {
                 this.errorHandler.logError('Session Scripts Loading Failed', error);
             });
             
@@ -1049,9 +1049,9 @@ class SessionLoader {
             this.errorHandler.logError('Session Script Loading Failed', error, { currentSession });
         }
     }
-    
+
     async loadOnboardScripts() {
-        const onboardScripts = [
+	const onboardScripts = [
             `${ENV_CONFIG.baseURL}/assets/js/tutor/card1.js`,
             `${ENV_CONFIG.baseURL}/assets/js/tutor/card2.js`,
             `${ENV_CONFIG.baseURL}/assets/js/tutor/card3.js`,
@@ -1062,11 +1062,38 @@ class SessionLoader {
             `${ENV_CONFIG.baseURL}/assets/js/tutor/card8.js`,
             `${ENV_CONFIG.baseURL}/assets/js/tutor/card9.js`,
             `${ENV_CONFIG.baseURL}/assets/js/onboarding-main.js`
-        ];
-        
-        await this.scriptLoader.loadScriptsInOrder(onboardScripts);
+	];
+
+	try {
+            console.log("📚 Loading onboarding card scripts via ScriptLoader...");
+            
+            // Load scripts in order
+            await this.scriptLoader.loadScriptsInOrder(onboardScripts);
+	    
+            // Ensure they’re recorded as loaded
+            onboardScripts.forEach(src => {
+		if (!this.scriptLoader.loadedScripts.has(src)) {
+                    this.scriptLoader.loadedScripts.add(src);
+		}
+            });
+
+            // Attach detected card modules to a global cards object
+            if (!window.cards) window.cards = {};
+            onboardScripts.forEach((src, index) => {
+		const cardVarName = `card${index + 1}`;
+		if (window[cardVarName]) {
+                    window.cards[cardVarName] = window[cardVarName];
+		}
+            });
+
+            console.log("✅ All onboarding scripts loaded and registered.");
+            console.log("🎴 Cards available in window.cards:", Object.keys(window.cards));
+	    
+	} catch (error) {
+            this.errorHandler.logError('Onboarding Scripts Loading Failed', error);
+	}
     }
-    
+}
     async loadDashboardScripts() {
         const dashboardScripts = [
             `${ENV_CONFIG.baseURL}/assets/js/tutor-dashboard.js`
