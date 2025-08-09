@@ -32,17 +32,35 @@ document.addEventListener('DOMContentLoaded', function () {
     }
 
     function setLanguage(langCode) {
-	fetch(`lang/${langCode}.json`)
-            .then(res => res.json())
-            .then(data => {
-		translations = data;
-		currentLang = langCode;
-		localStorage.setItem("selectedLanguage", langCode);
-		applyTranslations();
-            })
-            .catch(err => console.error("Language file error:", err));
+    // Detect current path depth and adjust accordingly
+    const pathDepth = window.location.pathname.split('/').filter(p => p).length;
+    const isInSubdirectory = pathDepth > 1 || window.location.pathname.includes('/pages/');
+    const langPath = isInSubdirectory ? `../lang/${langCode}.json` : `lang/${langCode}.json`;
+    
+    fetch(langPath)
+        .then(res => res.json())
+        .then(data => {
+            translations = data;
+            currentLang = langCode;
+            localStorage.setItem("selectedLanguage", langCode);
+            applyTranslations();
+        })
+        .catch(err => {
+            console.error("Language file error:", err);
+            // Fallback: try the other path if first one fails
+            const fallbackPath = isInSubdirectory ? `lang/${langCode}.json` : `../lang/${langCode}.json`;
+            fetch(fallbackPath)
+                .then(res => res.json())
+                .then(data => {
+                    translations = data;
+                    currentLang = langCode;
+                    localStorage.setItem("selectedLanguage", langCode);
+                    applyTranslations();
+                })
+                .catch(fallbackErr => console.error("Fallback language file error:", fallbackErr));
+        });
     }
-
+    
     function updateLangFlag() {
 	const langBtn = document.getElementById("languageToggle");
 	if (langBtn) {
