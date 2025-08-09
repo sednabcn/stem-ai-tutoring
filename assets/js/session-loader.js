@@ -1202,21 +1202,21 @@ class SessionLoader {
         window.viewAnalytics = () => this.viewAnalytics();
         window.upgradePremium = () => this.upgradePremium();
         
-        console.log('🔗 Global functions bound successfully');
-
-	debugInfo() {
-	    return {
-		environment: ENV_CONFIG.current,
-		session: this.sessionManager?.currentSession || 'unknown',
-		errorCount: this.errorHandler?.getErrorSummary().total || 0,
-		profileCompletion: this.sessionManager?.tutorData?.profileCompletion || 0,
-		loadedScripts: Array.from(this.scriptLoader?.loadedScripts || []),
-		loadingScripts: Array.from(this.scriptLoader?.loadingScripts?.keys() || [])
-	    };
-	}
-	
+        console.log('🔗 Global functions bound successfully');	
     }
-    
+
+    // Global Debuging
+    window.sessionLoader.debugInfo = function() {
+    return {
+        environment: window.ENV_CONFIG?.current,
+        session: this.sessionManager?.currentSession || 'unknown',
+        errorCount: this.errorHandler?.getErrorSummary().total || 0,
+        profileCompletion: this.sessionManager?.tutorData?.profileCompletion || 0,
+        loadedScripts: Array.from(this.scriptLoader?.loadedScripts || []),
+        loadingScripts: Array.from(this.scriptLoader?.loadingScripts?.keys() || [])
+    };
+};
+
     // ========================================
     // DASHBOARD FUNCTIONS
     // ========================================

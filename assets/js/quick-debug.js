@@ -1,6 +1,6 @@
 (function() {
     'use strict';
-
+    const BASE_URL = window.ENV_CONFIG?.baseURL || '.';
     const EXPECTED_CARD_SCRIPTS = [
         `${ENV_CONFIG.baseURL}/assets/js/tutor/card1.js`,
         `${ENV_CONFIG.baseURL}/assets/js/tutor/card2.js`,
