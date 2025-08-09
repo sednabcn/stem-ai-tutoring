@@ -339,27 +339,35 @@ class ScriptLoader {
         this.performanceManager = new PerformanceManager();
     }
 
+    async checkFileExists(url) {
+    try {
+        const response = await fetch(url, { method: 'HEAD' });
+        return response.ok;
+    } catch (error) {
+        return false;
+    }
+}
     async loadScript(src) {
-    // Return existing promise if script is already loading
-    if (this.loadingScripts.has(src)) {
-        return this.loadingScripts.get(src);
-    }
+	// Return existing promise if script is already loading
+	if (this.loadingScripts.has(src)) {
+            return this.loadingScripts.get(src);
+	}
     
-    // Return immediately if script is already loaded
-    if (this.loadedScripts.has(src)) {
-        return Promise.resolve();
-    }
+	// Return immediately if script is already loaded
+	if (this.loadedScripts.has(src)) {
+            return Promise.resolve();
+	}
     
-    // Check if script already exists in DOM
-    const existingScript = document.querySelector(`script[src="${src}"]`);
-    if (existingScript) {
-        this.loadedScripts.add(src);
-        return Promise.resolve();
-    }
+	// Check if script already exists in DOM
+	const existingScript = document.querySelector(`script[src="${src}"]`);
+	if (existingScript) {
+            this.loadedScripts.add(src);
+            return Promise.resolve();
+	}
     
-    const loadPromise = AsyncWrapper.withRetry(async () => {
-        return AsyncWrapper.timeout(new Promise((resolve, reject) => {
-            this.performanceManager.mark(`script-load-start-${src}`);
+	const loadPromise = AsyncWrapper.withRetry(async () => {
+            return AsyncWrapper.timeout(new Promise((resolve, reject) => {
+		this.performanceManager.mark(`script-load-start-${src}`);
             
             // Remove any failed attempts first
             const failedScripts = document.querySelectorAll(`script[src="${src}"]`);
@@ -408,7 +416,8 @@ class ScriptLoader {
     
     return loadPromise;
 }
-    async loadScriptsInOrder(scripts) {
+
+   async loadScriptsInOrder(scripts) {
     const results = [];
     
     for (const script of scripts) {
@@ -417,9 +426,24 @@ class ScriptLoader {
             results.push({ script, loaded: true });
         } catch (error) {
             results.push({ script, loaded: false, error });
+            
+            // Don't retry 404 errors
+            const is404 = error.message && (
+                error.message.includes('404') || 
+                error.message.includes('Not Found') ||
+                error.message.includes('ERR_ABORTED')
+            );
+            
+            if (is404) {
+                if (ENV_CONFIG.isDevelopment) {
+                    console.warn(`⚠️ Script not found (404): ${script} - skipping retries`);
+                }
+                continue;
+            }
+            
+            // Only try alternative loading for non-404 errors
             window.errorHandler?.logError('Script Loading Failed', error, { script });
             
-            // Try alternative loading method
             try {
                 await this.forceLoadScript(script);
                 results[results.length - 1].loaded = true;
@@ -432,8 +456,8 @@ class ScriptLoader {
     }
     
     return results;
-  }
-
+}
+ 
    async forceLoadScript(src) {
     return new Promise((resolve, reject) => {
         // Remove any existing failed script tags
@@ -456,13 +480,19 @@ class ScriptLoader {
             this.loadingScripts.delete(src);
             resolve();
         };
-        
-        script.onerror = () => {
-            clearTimeout(timeout);
-            script.remove();
-            reject(new Error(`Force load failed: ${src}`));
-        };
-        
+	script.onerror = (event) => {
+	    this.loadingScripts.delete(src);
+	    script.remove();
+    
+	    // Detect 404 errors to prevent retries
+	    const error = new Error(`Failed to load script: ${src}`);
+	    if (event && event.target && event.target.src) {
+		error.message = `ERR_ABORTED: Failed to load script: ${src}`;
+	    }
+    
+	    reject(error);
+	};
+	
         document.head.appendChild(script);
     });
 } 
@@ -1106,9 +1136,8 @@ class SessionLoader {
             this.errorHandler.logError('Session Script Loading Failed', error, { currentSession });
         }
     }
-    
     async loadOnboardScripts() {
-        const onboardScripts = [
+	const potentialScripts = [
             `${ENV_CONFIG.baseURL}/assets/js/tutor/card1.js`,
             `${ENV_CONFIG.baseURL}/assets/js/tutor/card2.js`,
             `${ENV_CONFIG.baseURL}/assets/js/tutor/card3.js`,
@@ -1119,11 +1148,43 @@ class SessionLoader {
             `${ENV_CONFIG.baseURL}/assets/js/tutor/card8.js`,
             `${ENV_CONFIG.baseURL}/assets/js/tutor/card9.js`,
             `${ENV_CONFIG.baseURL}/assets/js/onboarding-main.js`
-        ];
-        
-        await this.scriptLoader.loadScriptsInOrder(onboardScripts);
-    }
+	];
     
+	// Filter out non-existent files
+	const existingScripts = [];
+	for (const script of potentialScripts) {
+            const exists = await this.scriptLoader.checkFileExists(script);
+            if (exists) {
+		existingScripts.push(script);
+            } else if (ENV_CONFIG.isDevelopment) {
+		console.warn(`⚠️ Skipping non-existent script: ${script}`);
+            }
+	}
+    
+	if (existingScripts.length > 0) {
+            await this.scriptLoader.loadScriptsInOrder(existingScripts);
+	} else {
+            console.log('ℹ️ No onboarding scripts found, using fallback initialization');
+            this.initializeFallbackOnboarding();
+	}
+    }
+
+    initializeFallbackOnboarding() {
+    console.log('🔄 Initializing fallback onboarding system...');
+    
+    // Create minimal onboarding functionality
+    if (!window.onboardingSystem) {
+        window.onboardingSystem = {
+            initialized: true,
+            fallback: true,
+            completeCard: (cardNumber) => {
+                console.log(`✅ Card ${cardNumber} marked as complete (fallback)`);
+                this.sessionManager.tutorData.completedCards[`card${cardNumber}`] = true;
+                this.updateProfileCompletion();
+            }
+        };
+    }
+}
     async loadDashboardScripts() {
         const dashboardScripts = [
             `${ENV_CONFIG.baseURL}/assets/js/tutor-dashboard.js`
