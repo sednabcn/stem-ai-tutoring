@@ -1050,6 +1050,9 @@ class SessionLoader {
         }
     }
 
+    // ========================
+    // LOAD ONBOARDING SCRIPTS
+    // ========================
     async loadOnboardScripts() {
 	const onboardScripts = [
             `${ENV_CONFIG.baseURL}/assets/js/tutor/card1.js`,
@@ -1065,54 +1068,83 @@ class SessionLoader {
 	];
 
 	try {
-            console.log("📚 Loading onboarding card scripts via ScriptLoader...");
-            
-            // Load scripts in order
-            await this.scriptLoader.loadScriptsInOrder(onboardScripts);
+            console.log("📚 Loading onboarding scripts via ScriptLoader...");
 	    
-            // Ensure they’re recorded as loaded
+            const beforeKeys = Object.keys(window);
+	    
+            await this.scriptLoader.loadScriptsInOrder(onboardScripts);
+
             onboardScripts.forEach(src => {
 		if (!this.scriptLoader.loadedScripts.has(src)) {
                     this.scriptLoader.loadedScripts.add(src);
 		}
             });
 
-            // Attach detected card modules to a global cards object
+            const afterKeys = Object.keys(window);
+            const newGlobals = afterKeys.filter(k => !beforeKeys.includes(k));
+	    
             if (!window.cards) window.cards = {};
-            onboardScripts.forEach((src, index) => {
-		const cardVarName = `card${index + 1}`;
-		if (window[cardVarName]) {
-                    window.cards[cardVarName] = window[cardVarName];
+            if (!window.onboarding) window.onboarding = {};
+
+            newGlobals.forEach(key => {
+		const lowerKey = key.toLowerCase();
+		if (lowerKey.includes('card')) {
+                    window.cards[key] = window[key];
+		} else if (lowerKey.includes('onboard')) {
+                    window.onboarding[key] = window[key];
 		}
             });
 
             console.log("✅ All onboarding scripts loaded and registered.");
-            console.log("🎴 Cards available in window.cards:", Object.keys(window.cards));
+            console.log("🎴 Cards:", Object.keys(window.cards));
+            console.log("🛠 Onboarding:", Object.keys(window.onboarding));
 	    
-	 } catch (error) {
+	} catch (error) {
             this.errorHandler.logError('Onboarding Scripts Loading Failed', error);
-	 }
+	}
     }
- 
- 
 
+ 
+    // ========================
+    // LOAD DASHBOARD SCRIPTS
+    // ========================
     async loadDashboardScripts() {
-        const dashboardScripts = [
-            `${ENV_CONFIG.baseURL}/assets/js/tutor-dashboard.js`
-        ];
-        
-        await this.scriptLoader.loadScriptsInOrder(dashboardScripts);
+	const dashboardScripts = [
+        `${ENV_CONFIG.baseURL}/assets/js/tutor/tutor-dashboard.js`
+	];
+
+	try {
+            console.log("📚 Loading dashboard scripts via ScriptLoader...");
+	    
+            const beforeKeys = Object.keys(window);
+
+            await this.scriptLoader.loadScriptsInOrder(dashboardScripts);
+
+            dashboardScripts.forEach(src => {
+		if (!this.scriptLoader.loadedScripts.has(src)) {
+                    this.scriptLoader.loadedScripts.add(src);
+		}
+            });
+
+            const afterKeys = Object.keys(window);
+            const newGlobals = afterKeys.filter(k => !beforeKeys.includes(k));
+
+            if (!window.dashboard) window.dashboard = {};
+
+            newGlobals.forEach(key => {
+		if (key.toLowerCase().includes('dashboard')) {
+                    window.dashboard[key] = window[key];
+		}
+            });
+
+            console.log("✅ Dashboard scripts loaded and registered.");
+            console.log("📊 Dashboard globals:", Object.keys(window.dashboard));
+	    
+	} catch (error) {
+            this.errorHandler.logError('Dashboard Scripts Loading Failed', error);
+	}
     }
-    
-    async preloadCriticalResources() {
-        const criticalResources = [
-            { url: `${ENV_CONFIG.baseURL}/assets/js/onboarding-main.js`, type: 'script' },
-            { url: `${ENV_CONFIG.baseURL}/assets/js/tutor-dashboard.js`, type: 'script' },
-            { url: `${ENV_CONFIG.baseURL}/assets/css/mathtutor.css`, type: 'style' }
-        ];
-        
-        await this.performanceManager.preloadResources(criticalResources);
-    }
+
     
     handleGlobalClick(event) {
         const target = event.target;
