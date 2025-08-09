@@ -15,13 +15,13 @@ const ENV_CONFIG = {
     },
     
     get baseURL() {
-        switch (this.current) {
-            case 'development': return '';
-            case 'github': return window.location.pathname.split('/').slice(0, -1).join('/');
-            case 'production': return '';
-            default: return '';
-        }
+	switch (this.current) {
+        case 'development': return '.';
+        case 'github': return '..';
+        case 'production': return '.';
+        default: return '.';
     }
+}
 };
 
 // ========================================
