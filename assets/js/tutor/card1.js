@@ -11,6 +11,12 @@
 // ============================================================================
 // AGREEMENT MODAL FUNCTIONS
 // ============================================================================
+if (!window.cards) window.cards = {};
+window.cards['card1'] = {
+  id: 'card1',
+  title: 'Temporary test card',
+  render: () => console.log('Rendering card1')
+};
 
 function signAgreement() {
     const modal = document.getElementById('agreementModal');
