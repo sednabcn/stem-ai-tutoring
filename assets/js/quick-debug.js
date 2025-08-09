@@ -1,18 +1,5 @@
 (function() {
     'use strict';
-    const BASE_URL = window.ENV_CONFIG?.baseURL || '.';
-    const EXPECTED_CARD_SCRIPTS = [
-        `${ENV_CONFIG.baseURL}/assets/js/tutor/card1.js`,
-        `${ENV_CONFIG.baseURL}/assets/js/tutor/card2.js`,
-        `${ENV_CONFIG.baseURL}/assets/js/tutor/card3.js`,
-        `${ENV_CONFIG.baseURL}/assets/js/tutor/card4.js`,
-        `${ENV_CONFIG.baseURL}/assets/js/tutor/card5.js`,
-        `${ENV_CONFIG.baseURL}/assets/js/tutor/card6.js`,
-        `${ENV_CONFIG.baseURL}/assets/js/tutor/card7.js`,
-        `${ENV_CONFIG.baseURL}/assets/js/tutor/card8.js`,
-        `${ENV_CONFIG.baseURL}/assets/js/tutor/card9.js`,
-        `${ENV_CONFIG.baseURL}/assets/js/onboarding-main.js`
-    ];
 
     function log(msg, type = 'info') {
         const icon = type === 'error' ? '❌' : type === 'warn' ? '⚠️' : 'ℹ️';
@@ -21,7 +8,7 @@
 
     function waitForSessionLoaderReady(callback) {
         const interval = setInterval(() => {
-            if (window.sessionLoader?.initialized) {
+            if (window.ENV_CONFIG && window.sessionLoader?.initialized) {
                 clearInterval(interval);
                 callback();
             }
@@ -38,8 +25,21 @@
             return;
         }
 
-        // Use the new debugInfo method
-        const info = typeof window.sessionLoader.debugInfo === 'function' 
+        const BASE_URL = window.ENV_CONFIG?.baseURL || '.';
+        const EXPECTED_CARD_SCRIPTS = [
+            `${BASE_URL}/assets/js/tutor/card1.js`,
+            `${BASE_URL}/assets/js/tutor/card2.js`,
+            `${BASE_URL}/assets/js/tutor/card3.js`,
+            `${BASE_URL}/assets/js/tutor/card4.js`,
+            `${BASE_URL}/assets/js/tutor/card5.js`,
+            `${BASE_URL}/assets/js/tutor/card6.js`,
+            `${BASE_URL}/assets/js/tutor/card7.js`,
+            `${BASE_URL}/assets/js/tutor/card8.js`,
+            `${BASE_URL}/assets/js/tutor/card9.js`,
+            `${BASE_URL}/assets/js/onboarding-main.js`
+        ];
+
+        const info = typeof window.sessionLoader.debugInfo === 'function'
             ? window.sessionLoader.debugInfo()
             : {};
 
@@ -63,14 +63,12 @@
         }
 
         console.log('\n🎴 Card Detection:');
-        // Check window.cards object
         if (window.cards && typeof window.cards === 'object') {
             console.log('  🃏 Found window.cards:', Object.keys(window.cards));
         } else {
             console.log('  ❌ No window.cards object found');
         }
 
-        // Also check Card1–Card9 globals
         const globalCards = [];
         for (let i = 1; i <= 9; i++) {
             if (window[`Card${i}`]) globalCards.push(`Card${i}`);
@@ -80,10 +78,7 @@
         console.log('\n✅ Diagnostic complete.');
     }
 
-    // Auto-run after SessionLoader is ready
     waitForSessionLoaderReady(runDiagnostic);
-
-    // Make it callable anytime
     window.runDiagnostic = runDiagnostic;
 
     console.log('🔧 quick-debug.js loaded - use runDiagnostic() in console to re-run checks.');

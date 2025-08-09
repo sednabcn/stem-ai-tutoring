@@ -1208,7 +1208,7 @@ class SessionLoader {
     // Global Debuging
     window.sessionLoader.debugInfo = function() {
     return {
-        environment: window.ENV_CONFIG?.current,
+        environment: window.ENV_CONFIG ? window.ENV_CONFIG.current : 'unknown',
         session: this.sessionManager?.currentSession || 'unknown',
         errorCount: this.errorHandler?.getErrorSummary().total || 0,
         profileCompletion: this.sessionManager?.tutorData?.profileCompletion || 0,
