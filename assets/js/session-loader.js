@@ -1,5 +1,7 @@
+console.log('🔍 1. session-loader.js file starting to execute...');
+try {
 // session-loader.js - Enhanced Version with Fixed Session Management
-
+console.log('🔍 2. About to define ENV_CONFIG...');
 // ========================================
 // ENVIRONMENT CONFIGURATION
 // ========================================
@@ -18,10 +20,11 @@ const ENV_CONFIG = {
         return '.';
     }
 };
-
+console.log('🔍 3. ENV_CONFIG defined successfully');
 // ========================================
 // ENHANCED ERROR HANDLING SYSTEM
 // ========================================
+console.log('🔍 4. About to define ErrorHandler...');    
 class ErrorHandler {
     constructor() {
         this.errors = [];
@@ -138,7 +141,7 @@ class ErrorHandler {
         return summary;
     }
 }
-
+console.log('🔍 5. End to define ErrorHandler...');
 // ========================================
 // ENHANCED PERFORMANCE MANAGER
 // ========================================
@@ -288,6 +291,7 @@ class PerformanceManager {
     }
 }
 
+console.log('🔍 6. End Perf to define ErrorHandler...');
 // ========================================
 // ENHANCED ASYNC UTILITIES
 // ========================================
@@ -323,7 +327,7 @@ class AsyncWrapper {
         ]);
     }
 }
-
+console.log('🔍 7. End timeout to define ErrorHandler...');
 // ========================================
 // ENHANCED SCRIPT LOADER MODULE
 // ========================================
@@ -502,6 +506,7 @@ class ScriptLoader {
         document.head.appendChild(link);
     }
 }
+console.log('🔍 8. End script...');
 
 // ========================================
 // NOTIFICATION CENTER MODULE
@@ -605,6 +610,7 @@ class NotificationCenter {
     }
 }
 
+console.log('🔍 9. End Notification to define ErrorHandler...');
 // ========================================
 // MODAL MANAGER MODULE
 // ========================================
@@ -660,7 +666,7 @@ class ModalManager {
         this.activeModals.forEach(modalId => this.closeModal(modalId));
     }
 }
-
+console.log('🔍 10. End Modal to define ErrorHandler...');
 // ========================================
 // FORUM SYSTEM MODULE
 // ========================================
@@ -693,6 +699,7 @@ class ForumSystem {
     }
 }
 
+console.log('🔍 11. End Forum to define ErrorHandler...');
 // ========================================
 // SESSION MANAGER CORE
 // ========================================
@@ -916,7 +923,7 @@ class SessionManager {
         }
     }
 }
-
+console.log('🔍 12. End Manager to define ErrorHandler...');
 // ========================================
 // MAIN SESSION LOADER CLASS
 // ========================================
@@ -1531,7 +1538,7 @@ class SessionLoader {
         }, 1000);
     }
 }
-    
+    console.log('🔍 14. About to DebUG...');
     // ========================================
     // DEBUG AND UTILITIES
     // ========================================
@@ -1565,7 +1572,7 @@ class SessionLoader {
         return report;
     }
 }
-
+console.log('🔍 15. About INITIALIZATION..');
 // ========================================
 // INITIALIZATION
 // ========================================
@@ -1632,3 +1639,4 @@ window.ENV_CONFIG = ENV_CONFIG;
 window.ErrorHandler = ErrorHandler;
 window.PerformanceManager = PerformanceManager;
 window.AsyncWrapper = AsyncWrapper;
+console.log('🔍 16. END FINAL END ')
