@@ -1743,238 +1743,69 @@ document.addEventListener('DOMContentLoaded', function () {
             console.log('🔄 News restarted');
         }
     };
-    
+
     // ===============================
     // FAQ MANAGEMENT
     // ===============================
     
     const FAQManager = {
-        initialized: false,
-        
         init() {
-            if (this.initialized) return;
-            
-            console.log('❓ Initializing FAQ Manager...');
-            
-            // Wait for DOM to be ready
-            if (document.readyState === 'loading') {
-                document.addEventListener('DOMContentLoaded', () => this.setup());
-            } else {
-                this.setup();
-            }
-            
-            this.initialized = true;
-        },
-
-        setup() {
-            this.addToggleIcons();
-            this.initializeFAQStates();
-            this.setupEventListeners();
-            console.log('✅ FAQ Manager fully initialized');
-        },
-
-        addToggleIcons() {
-            const questions = document.querySelectorAll('.faq-question');
-            console.log(`📝 Found ${questions.length} FAQ questions`);
-            
-            questions.forEach(question => {
-                // Remove existing toggle if present
-                const existingToggle = question.querySelector('.faq-toggle');
-                if (existingToggle) {
-                    existingToggle.remove();
-                }
-                
-                // Create new toggle icon
-                const toggle = document.createElement('span');
-                toggle.className = 'faq-toggle';
-                toggle.textContent = '+';
-                toggle.style.cssText = `
-                    float: right;
-                    font-size: 20px;
-                    font-weight: bold;
-                    color: #0D8ABC;
-                    transition: transform 0.2s ease;
-                    cursor: pointer;
-                `;
-                
-                question.appendChild(toggle);
-                question.style.cursor = 'pointer';
+            console.log('❓ FAQ Manager initialized');
+            // Initialize all FAQ answers as closed
+            document.querySelectorAll('.faq-answer').forEach(answer => {
+                answer.style.display = 'none';
             });
-        },
-
-        initializeFAQStates() {
-            const answers = document.querySelectorAll('.faq-answer');
-            console.log(`📋 Initializing ${answers.length} FAQ answers`);
             
-            answers.forEach(answer => {
-                answer.style.cssText = `
-                    display: none;
-                    max-height: 0;
-                    opacity: 0;
-                    overflow: hidden;
-                    transition: all 0.3s ease-in-out;
-                    padding: 0 15px;
-                `;
-            });
-
-            // Ensure all questions start inactive
+            // Add + icons to all questions
             document.querySelectorAll('.faq-question').forEach(question => {
-                question.classList.remove('active');
-                question.setAttribute('data-faq-open', 'false');
-            });
-        },
-
-        setupEventListeners() {
-            // Remove any existing listeners to prevent duplicates
-            document.removeEventListener('click', this.handleFAQClick);
-            
-            // Add new listener
-            document.addEventListener('click', this.handleFAQClick.bind(this));
-            console.log('👂 FAQ event listeners set up');
-        },
-
-        handleFAQClick(event) {
-            const question = event.target.closest('.faq-question');
-            if (!question) return;
-            
-            event.preventDefault();
-            event.stopPropagation();
-            this.toggleFAQ(question);
-        },
-
-        toggleFAQ(questionElement) {
-            console.log('🔄 Toggling FAQ item');
-            
-            const faqItem = questionElement.closest('.faq-item');
-            if (!faqItem) {
-                console.warn('⚠️ FAQ item not found');
-                return;
-            }
-
-            const answer = faqItem.querySelector('.faq-answer');
-            const toggle = questionElement.querySelector('.faq-toggle');
-            
-            if (!answer) {
-                console.warn('⚠️ FAQ answer not found');
-                return;
-            }
-
-            // Get current state from data attribute (more reliable)
-            const isCurrentlyOpen = questionElement.getAttribute('data-faq-open') === 'true';
-            
-            // Close all other FAQ items first
-            this.closeAllFAQs();
-            
-            // Toggle current item
-            if (!isCurrentlyOpen) {
-                this.openFAQ(questionElement, answer, toggle);
-            } else {
-                this.closeFAQ(questionElement, answer, toggle);
-            }
-        },
-
-        openFAQ(question, answer, toggle) {
-            console.log('📂 Opening FAQ');
-            
-            // Update data attribute
-            question.setAttribute('data-faq-open', 'true');
-            question.classList.add('active');
-            
-            // Animate opening
-            answer.style.display = 'block';
-            answer.style.maxHeight = 'none';
-            answer.style.opacity = '1';
-            answer.style.padding = '15px';
-            
-            // Update toggle icon
-            if (toggle) {
-                toggle.textContent = '−';
-                toggle.style.transform = 'rotate(180deg)';
-            }
-        },
-
-        closeFAQ(question, answer, toggle) {
-            console.log('📁 Closing FAQ');
-            
-            // Update data attribute
-            question.setAttribute('data-faq-open', 'false');
-            question.classList.remove('active');
-            
-            // Animate closing
-            answer.style.display = 'none';
-            answer.style.maxHeight = '0';
-            answer.style.opacity = '0';
-            answer.style.padding = '0 15px';
-            
-            // Update toggle icon
-            if (toggle) {
-                toggle.textContent = '+';
-                toggle.style.transform = 'rotate(0deg)';
-            }
-        },
-
-        closeAllFAQs() {
-            document.querySelectorAll('.faq-question').forEach(question => {
-                const answer = question.closest('.faq-item').querySelector('.faq-answer');
-                const toggle = question.querySelector('.faq-toggle');
-                
-                question.setAttribute('data-faq-open', 'false');
-                question.classList.remove('active');
-                
-                if (answer) {
-                    answer.style.display = 'none';
-                    answer.style.maxHeight = '0';
-                    answer.style.opacity = '0';
-                    answer.style.padding = '0 15px';
-                }
-                
-                if (toggle) {
-                    toggle.textContent = '+';
-                    toggle.style.transform = 'rotate(0deg)';
+                if (!question.textContent.includes('+') && !question.textContent.includes('−')) {
+                    question.innerHTML = question.innerHTML + ' <span style="float:right; font-weight:bold; color:#0D8ABC;">+</span>';
                 }
             });
-        },
-
-        // Public method to open specific FAQ by index
-        openFAQByIndex(index) {
-            const questions = document.querySelectorAll('.faq-question');
-            if (questions[index]) {
-                this.toggleFAQ(questions[index]);
-            }
-        },
-
-        // Public method to get FAQ status
-        getFAQStatus() {
-            const faqs = [];
-            document.querySelectorAll('.faq-question').forEach((question, index) => {
-                faqs.push({
-                    index: index,
-                    question: question.textContent.replace('+', '').replace('−', '').trim(),
-                    isOpen: question.getAttribute('data-faq-open') === 'true'
-                });
-            });
-            return faqs;
         }
     };
 
-    // Global FAQ toggle function for backward compatibility with HTML onclick handlers
+    // Simple global toggle function
     window.toggleFAQ = function(questionElement) {
-        FAQManager.toggleFAQ(questionElement);
+        console.log('🔄 FAQ clicked');
+        
+        // Find the answer div
+        const faqItem = questionElement.parentElement;
+        const answer = faqItem.querySelector('.faq-answer');
+        
+        if (!answer) {
+            console.log('No answer found');
+            return;
+        }
+        
+        // Close all other answers first
+        document.querySelectorAll('.faq-answer').forEach(otherAnswer => {
+            if (otherAnswer !== answer) {
+                otherAnswer.style.display = 'none';
+            }
+        });
+        
+        // Update all + signs
+        document.querySelectorAll('.faq-question').forEach(q => {
+            const span = q.querySelector('span');
+            if (span && q !== questionElement) {
+                span.textContent = '+';
+            }
+        });
+        
+        // Toggle current answer
+        const span = questionElement.querySelector('span');
+        if (answer.style.display === 'none' || answer.style.display === '') {
+            answer.style.display = 'block';
+            if (span) span.textContent = '−';
+            console.log('✅ FAQ opened');
+        } else {
+            answer.style.display = 'none';
+            if (span) span.textContent = '+';
+            console.log('✅ FAQ closed');
+        }
     };
-
-    // Additional global functions for external access
-    window.openFAQByIndex = function(index) {
-        FAQManager.openFAQByIndex(index);
-    };
-
-    window.closeAllFAQs = function() {
-        FAQManager.closeAllFAQs();
-    };
-
-    window.getFAQStatus = function() {
-        return FAQManager.getFAQStatus();
-    };
-  
+    
     
     // ===============================
     // ENHANCED EVENT LISTENERS SETUP
