@@ -1089,11 +1089,13 @@ class SessionLoader {
             console.log("✅ All onboarding scripts loaded and registered.");
             console.log("🎴 Cards available in window.cards:", Object.keys(window.cards));
 	    
-	} catch (error) {
+	 } catch (error) {
             this.errorHandler.logError('Onboarding Scripts Loading Failed', error);
-	}
+	 }
     }
-}
+ 
+ 
+
     async loadDashboardScripts() {
         const dashboardScripts = [
             `${ENV_CONFIG.baseURL}/assets/js/tutor-dashboard.js`
