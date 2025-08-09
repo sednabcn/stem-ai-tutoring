@@ -1019,8 +1019,7 @@ class SessionLoader {
         window.upgradePremium = () => this.upgradePremium();
         
         console.log('🔗 Global functions bound successfully');
-    }
-}
+    } 
 
     
     async init() {
