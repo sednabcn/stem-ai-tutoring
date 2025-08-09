@@ -2,12 +2,12 @@
 // Copy/Paste this entire block for Card 6
 
 // Teaching Resources Card Variables
-let resourcesUploaded = false;
-let resourcesStepProgress = {
+let card6_resourcesUploaded = false;
+let card6_resourcesStepProgress = {
     resources: false
 };
-let uploadedResources = [];
-let resourceCategories = {
+let card6_uploadedResources = [];
+let card6_resourceCategories = {
     worksheets: [],
     lessonPlans: [],
     presentations: [],
@@ -16,7 +16,7 @@ let resourceCategories = {
     games: [],
     other: []
 };
-const maxResources = 10;
+const card6_maxResources = 10;
 
 // Teaching Resources Functions
 function uploadResources() {

@@ -2,20 +2,20 @@
 // Copy/Paste this entire block for Card 3
 
 // Identity Verification Card Variables
-let identityVerified = false;
-let identityStepProgress = {
+let card3_identityVerified = false;
+let card3_identityStepProgress = {
     identity: false
 };
 
-let verificationData = {
+let card3_verificationData = {
     videoRecorded: false,
     idUploaded: false,
     verificationComplete: false
 };
 
-let mediaRecorder;
-let recordedChunks = [];
-let isRecording = false;
+let card3_mediaRecorder;
+let card3_recordedChunks = [];
+let card3_isRecording = false;
 
 // Identity Verification Functions
 function startVideoVerification() {

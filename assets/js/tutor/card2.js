@@ -2,12 +2,12 @@
 // Copy/Paste this entire block for Card 2
 
 // Credentials Card Variables
-let credentialsUploaded = false;
-let credentialsStepProgress = {
+let card2_credentialsUploaded = false;
+let card2_credentialsStepProgress = {
     credentials: false
 };
 
-let uploadedDocuments = {
+let card2_uploadedDocuments = {
     cv: false,
     teachingCerts: false,
     degrees: false,
@@ -17,9 +17,9 @@ let uploadedDocuments = {
     other: false
 };
 
-let documentsData = [];
-let totalRequiredDocs = 7;
-let uploadedCount = 0;
+let card2_documentsData = [];
+let card2_totalRequiredDocs = 7;
+let card2_uploadedCount = 0;
 
 // Credentials Card Functions
 function uploadDocuments() {

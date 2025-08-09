@@ -2,8 +2,8 @@
 // Copy/Paste this entire block for Card 9
 
 // Premium Features Variables
-let premiumActive = false;
-let premiumFeatures = {
+let crd9_premiumActive = false;
+let card9_premiumFeatures = {
     visibility: {
         priorityPlacement: false,
         premiumBadge: false,
@@ -36,7 +36,7 @@ let premiumFeatures = {
     }
 };
 
-let premiumStats = {
+let card9_premiumStats = {
     averageIncrease: 40, // percentage
     monthlyFee: 19.99,
     trialDays: 30,

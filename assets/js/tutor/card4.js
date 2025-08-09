@@ -2,12 +2,12 @@
 // Copy/Paste this entire block for Card 4
 
 // Schedule Card Variables
-let scheduleSet = false;
-let scheduleStepProgress = {
+let card4_scheduleSet = false;
+let card4_scheduleStepProgress = {
     schedule: false
 };
 
-let tutorSchedule = {
+let card4_tutorSchedule = {
     timezone: 'GMT+0',
     weekdays: {},
     weekends: {},
