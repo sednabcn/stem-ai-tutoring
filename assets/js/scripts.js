@@ -1,31 +1,79 @@
 document.addEventListener('DOMContentLoaded', function () {
     console.log('🚀 Scripts loaded successfully');
+
     
     // ===============================
     // SCRIPTS.JS INTEGRATION - START
     // =============================
+    
+    // --- 🔧 TOGGLE TEST MODE ---
+    const TEST_MODE = true; // Change this to false for production
 
-    // 🌐 Language system state
+   // =========================
+    // 🌐 LANGUAGE SWITCHER INIT
+    // =========================
+    const LANGS = [
+	{ code: 'en', flag: '🇺🇸' },
+	{ code: 'es', flag: '🇪🇸' },
+	{ code: 'ca', flag: '🏴' }
+    ];
+
     let currentLangIndex = 0;
     let translations = {};
     let currentLang = 'en';
+
+    function applyTranslations() {
+	document.querySelectorAll("[data-i18n]").forEach(el => {
+            const key = el.getAttribute("data-i18n");
+            if (translations[key]) {
+		el.innerText = translations[key];
+            }
+	});
+    }
+
+    function setLanguage(langCode) {
+	fetch(`lang/${langCode}.json`)
+            .then(res => res.json())
+            .then(data => {
+		translations = data;
+		currentLang = langCode;
+		localStorage.setItem("selectedLanguage", langCode);
+		applyTranslations();
+            })
+            .catch(err => console.error("Language file error:", err));
+    }
+
+    function updateLangFlag() {
+	const langBtn = document.getElementById("languageToggle");
+	if (langBtn) {
+            langBtn.innerHTML = `🌐 ${LANGS[currentLangIndex].flag}`;
+	}
+    }
+
+    function cycleLanguage() {
+	currentLangIndex = (currentLangIndex + 1) % LANGS.length;
+	const lang = LANGS[currentLangIndex];
+	setLanguage(lang.code);
+	updateLangFlag();
+    }
+
+    function setupLanguageToggle() {
+	const langBtn = document.getElementById("languageToggle");
+	if (!langBtn) return;
+
+	langBtn.addEventListener("click", cycleLanguage);
+	
+	const savedLang = localStorage.getItem("selectedLanguage") || "en";
+	const index = LANGS.findIndex(l => l.code === savedLang);
+	currentLangIndex = index >= 0 ? index : 0;
+
+	setLanguage(LANGS[currentLangIndex].code);
+	updateLangFlag();
+    }
+
+    setupLanguageToggle(); // 📌 Call after DOM is ready
+
     
-    // --- 🔧 TOGGLE TEST MODE ---
-    const urlParams = new URLSearchParams(window.location.search);
-    const testParam = urlParams.get("testmode");
-    const forceTest = testParam === "1" || testParam === "true";
-
-    const hostname = window.location.hostname.toLowerCase();
-    const TEST_MODE = forceTest || (
-	hostname === 'localhost' ||
-	    hostname === '127.0.0.1' ||
-	    hostname.includes('test') ||
-	    !hostname.includes('github.io')
-    );
-
-    console.log(`🧪 TEST_MODE: ${TEST_MODE ? 'ENABLED' : 'DISABLED'}`);
-    
-
     // --- Firebase Configuration and Initialization ---
     let auth, db, storage;
 
@@ -94,6 +142,7 @@ document.addEventListener('DOMContentLoaded', function () {
     // --- Global State ---
     let selectedRole = "student";
     let currentUser = null;
+
     // --- Enhanced Auth Object for scripts.js ---
     const Auth = {
         // Check if user is logged in
@@ -113,133 +162,122 @@ document.addEventListener('DOMContentLoaded', function () {
             };
         },
 
-        // Register new user - enhanced version
-        async register(email, password, name = null, confirmPassword = null, role = null) {
-	    try {
-		// Use provided role or selected role
-		const userRole = role || selectedRole;
-        
-		// Get name from form if not provided
-		if (!name) {
-		    const nameField = document.getElementById("registerName");
-		    name = nameField ? nameField.value.trim() : "User";
-		}
+     // Register new user - enhanced version	
+     async register(email, password, name = null, confirmPassword = null, role = null) {
+	 try {
+             const userRole = role || selectedRole;
 
-		// Get confirmPassword from form if not provided
-		if (!confirmPassword) {
-		    const confirmField = document.getElementById("confirmPassword");
-		    confirmPassword = confirmField ? confirmField.value.trim() : password;
-		}
+             // Get inputs if not passed
+             if (!name) {
+		 const nameField = document.getElementById("registerName");
+		 name = nameField ? nameField.value.trim() : "User";
+             }
+	     
+             if (!confirmPassword) {
+		 const confirmField = document.getElementById("confirmPassword");
+		 confirmPassword = confirmField ? confirmField.value.trim() : password;
+             }
 
-		// ENHANCED VALIDATION WITH BETTER ERROR HANDLING
-		if (!this.validateEmail(email)) {
-		    this.showValidationError("Please enter a valid email address");
-		    return false;
-		}
-        
-		if (!this.validatePassword(password)) {
-		    this.showValidationError("Password must be at least 6 characters long");
-		    return false;
-		}
-        
-		// FIX: Better password match validation with clear error display
-		if (password !== confirmPassword) {
-		    this.showValidationError("Passwords do not match. Please check and try again.");
-		    
-		    // Clear the confirm password field to make it obvious
-		    const confirmField = document.getElementById("confirmPassword");
-		    if (confirmField) {
-			confirmField.value = "";
-			confirmField.focus();
-			confirmField.style.borderColor = "red";
-                
-			// Reset border color after 3 seconds
-			setTimeout(() => {
-			    confirmField.style.borderColor = "";
-			}, 3000);
-		    }
-		    
-		    return false;
-		}
-        
-		if (name.length < 2) {
-		    this.showValidationError("Name must be at least 2 characters long");
-		    return false;
-		}
+             // Input validation
+             if (!this.validateEmail(email)) {
+		 this.showValidationError("Please enter a valid email address");
+		 return false;
+             }
+
+             if (!this.validatePassword(password)) {
+		 this.showValidationError("Password must be at least 6 characters long");
+		 return false;
+             }
+
+             if (password !== confirmPassword) {
+		 this.showValidationError("Passwords do not match");
 		
-		showLoading(true);
-		
-		if (TEST_MODE) {
-		    // Simulate registration delay
-		    await new Promise(resolve => setTimeout(resolve, 1000));
-            
-		    // Store user data in sessionStorage for test mode
-		    const userData = {
-			name: name,
-			email: email,
-			role: userRole,
-			uid: "test-" + Date.now(),
-			createdAt: new Date().toISOString()
-		    };
-            
-		    sessionStorage.setItem("userData", JSON.stringify(userData));
-		    sessionStorage.setItem("userRole", userRole);
-		    sessionStorage.setItem("userName", name);
-		    sessionStorage.setItem("userEmail", email);
-		    sessionStorage.setItem("userUid", userData.uid);
-		    sessionStorage.setItem("isLoggedIn", "true");
+		 const confirmField = document.getElementById("confirmPassword");
+		 if (confirmField) {
+                     confirmField.value = "";
+                     confirmField.focus();
+                     confirmField.style.borderColor = "red";
+                     setTimeout(() => (confirmField.style.borderColor = ""), 3000);
+		 }
+		 return false;
+             }
+	    
+             if (name.length < 2) {
+		 this.showValidationError("Name must be at least 2 characters long");
+		 return false;
+             }
 
-		    // Mirror to localStorage for session recovery
-		    localStorage.setItem("userData", JSON.stringify(userData));
-		    localStorage.setItem("userRole", userData.role);
-		    localStorage.setItem("userName", userData.name);
-		    localStorage.setItem("userEmail", userData.email);
-		    localStorage.setItem("userUid", userData.uid);
+             showLoading(true);
 
-            
-		    showLoading(false);
-		    return true;
-            
-		} else {
-		    // Firebase registration
-		    const { createUserWithEmailAndPassword, updateProfile, doc, setDoc } = window.firebase;
-		    
-		    const userCredential = await createUserWithEmailAndPassword(auth, email, password);
-		    const user = userCredential.user;
-            
-		    // Update user profile
-		    await updateProfile(user, { displayName: name });
-            
-		    // Save user data to Firestore
-		    const userDoc = {
-			uid: user.uid,
-			name: name,
-			email: email,
-			role: userRole,
-			status: "active",
-			createdAt: new Date().toISOString()
-		    };
-            
-		    await setDoc(doc(db, "users", user.uid), userDoc);
-            
-		    // Store session data
-		    sessionStorage.setItem("userRole", userRole);
-		    sessionStorage.setItem("userName", name);
-		    sessionStorage.setItem("userEmail", email);
-		    sessionStorage.setItem("userUid", user.uid);
-		    sessionStorage.setItem("isLoggedIn", "true");
-            
-		    showLoading(false);
-		    return true;
-		}
-	    } catch (error) {
-		console.error("Registration error:", error);
-		this.showValidationError(error.message || "Registration failed. Please try again.");
-		showLoading(false);
-		return false;
-	    }
-	},
-        
+             const avatarURL = `https://ui-avatars.com/api/?name=${encodeURIComponent(name)}&background=0D8ABC&color=fff`;
+             const createdAt = new Date().toISOString();
+
+             const userProfile = {
+		 name,
+		 email,
+		 role: userRole,
+		 uid: "test-" + Date.now(),
+		 avatarURL,
+		 bio: "",
+		 experience: "",
+		 cvUploaded: false,
+		 createdAt
+             };
+
+             if (TEST_MODE) {
+		 await new Promise((res) => setTimeout(res, 1000));
+
+		 localStorage.setItem("userData", JSON.stringify(userProfile));
+		 sessionStorage.setItem("userData", JSON.stringify(userProfile));
+		 sessionStorage.setItem("userRole", userRole);
+		 sessionStorage.setItem("userName", name);
+		 sessionStorage.setItem("userEmail", email);
+		 sessionStorage.setItem("userUid", userProfile.uid);
+		 sessionStorage.setItem("isLoggedIn", "true");
+
+		 showLoading(false);
+		 return true;
+             }
+
+             // Firebase mode
+             const { createUserWithEmailAndPassword, updateProfile, doc, setDoc } = window.firebase;
+             const userCredential = await createUserWithEmailAndPassword(auth, email, password);
+             const user = userCredential.user;
+	    
+             await updateProfile(user, { displayName: name });
+
+             const userDoc = {
+		 uid: user.uid,
+		 name,
+		 email,
+		 role: userRole,
+		 avatarURL,
+		 bio: "",
+		 experience: "",
+		 cvUploaded: false,
+		 createdAt
+             };
+
+             await setDoc(doc(db, "users", user.uid), userDoc);
+
+             localStorage.setItem("userData", JSON.stringify(userDoc));
+             sessionStorage.setItem("userData", JSON.stringify(userDoc));
+             sessionStorage.setItem("userRole", userRole);
+             sessionStorage.setItem("userName", name);
+             sessionStorage.setItem("userEmail", email);
+             sessionStorage.setItem("userUid", user.uid);
+             sessionStorage.setItem("isLoggedIn", "true");
+
+             showLoading(false);
+             return true;
+	 } catch (error) {
+             console.error("Registration error:", error);
+             this.showValidationError(error.message || "Registration failed. Please try again.");
+             showLoading(false);
+             return false;
+	 }
+     },
+
 	// Add this new method to the Auth object for better error display:
 	showValidationError(message) {
 	    // Show toast notification
@@ -270,93 +308,93 @@ document.addEventListener('DOMContentLoaded', function () {
 	    }
 	},
 
-        // Login user - enhanced version // LL
-        async login(email, password) {
-            try {
-                // Validation
-                if (!this.validateEmail(email)) {
-                    throw new Error("Please enter a valid email address");
-                }
-                
-                if (!password) {
-                    throw new Error("Please enter your password");
-                }
+        // Login user - enhanced version
+	async login(email, password) {
+	    try {
+		if (!this.validateEmail(email)) {
+		    throw new Error("Please enter a valid email address");
+		}
 
-                showLoading(true);
+		if (!password) {
+		    throw new Error("Please enter your password");
+		}
 
-                if (TEST_MODE) { //ORD
-                    // Simulate login delay
-                    await new Promise(resolve => setTimeout(resolve, 1000));
-                    
-                    // Check if user exists in sessionStorage (for test mode)
-                    const existingUser = sessionStorage.getItem("userData");
-                    let userData;
-                    
-                    if (existingUser) {
-                        userData = JSON.parse(existingUser);
-                    } else {
-                        // Create a default test user
-                        userData = {
-                            name: "Test User",
-                            email: email,
-                            role: "student",
-                            uid: "test-" + Date.now(),
-                            createdAt: new Date().toISOString()
-                        };
-                    }
-                    
-                    sessionStorage.setItem("userRole", userData.role);
-                    sessionStorage.setItem("userName", userData.name);
-                    sessionStorage.setItem("userEmail", userData.email);
-                    sessionStorage.setItem("userUid", userData.uid);
-                    sessionStorage.setItem("isLoggedIn", "true");
+		showLoading(true);
 
-		    // Mirror to localStorage for session recovery
-		    localStorage.setItem("userData", JSON.stringify(userData));
-		    localStorage.setItem("userRole", userData.role);
-		    localStorage.setItem("userName", userData.name);
-		    localStorage.setItem("userEmail", userData.email);
-		    localStorage.setItem("userUid", userData.uid);
+		const createdAt = new Date().toISOString();
 
-                    showLoading(false);
-                    return true;
-                    
-                } else {
-                    // Firebase login
-                    const { signInWithEmailAndPassword, doc, getDoc } = window.firebase;
-                    
-                    const userCredential = await signInWithEmailAndPassword(auth, email, password);
-                    const user = userCredential.user;
-                    
-                    // Get user data from Firestore
-                    const docSnap = await getDoc(doc(db, "users", user.uid));
-                    let role = "student";
-                    let name = user.displayName || "User";
-                    
-                    if (docSnap.exists()) {
-                        const userData = docSnap.data();
-                        role = userData.role || "student";
-                        name = userData.name || user.displayName || "User";
-                    }
-                    
-                    // Store session data
-                    sessionStorage.setItem("userRole", role);
-                    sessionStorage.setItem("userName", name);
-                    sessionStorage.setItem("userEmail", email);
-                    sessionStorage.setItem("userUid", user.uid);
-                    sessionStorage.setItem("isLoggedIn", "true");
-                    
-                    showLoading(false);
-                    return true;
-                }
-            } catch (error) {
-                console.error("Login error:", error);
-                showAlert(error.message || "Login failed", "error");
-                showLoading(false);
-                return false;
-            }
-        },
+		if (TEST_MODE) {
+		    await new Promise(res => setTimeout(res, 1000));
 
+		    const dummyUser = {
+			name: "Test User",
+			email,
+			role: "student",
+			uid: "test-" + Date.now(),
+			avatarURL: `https://ui-avatars.com/api/?name=Test+User&background=0D8ABC&color=fff`,
+			bio: "",
+			experience: "",
+			cvUploaded: false,
+			createdAt
+		    };
+
+		    localStorage.setItem("userData", JSON.stringify(dummyUser));
+		    sessionStorage.setItem("userData", JSON.stringify(dummyUser));
+		    sessionStorage.setItem("userRole", dummyUser.role);
+		    sessionStorage.setItem("userName", dummyUser.name);
+		    sessionStorage.setItem("userEmail", dummyUser.email);
+		    sessionStorage.setItem("userUid", dummyUser.uid);
+		    sessionStorage.setItem("isLoggedIn", "true");
+
+		    showLoading(false);
+		    return true;
+		}
+
+		// Firebase login
+		const { signInWithEmailAndPassword, doc, getDoc } = window.firebase;
+
+		const userCredential = await signInWithEmailAndPassword(auth, email, password);
+		const user = userCredential.user;
+
+		const docSnap = await getDoc(doc(db, "users", user.uid));
+
+		let userData = {
+		    uid: user.uid,
+		    name: user.displayName || "User",
+		    email: user.email,
+		    role: "student",
+		    avatarURL: user.photoURL || `https://ui-avatars.com/api/?name=${encodeURIComponent(user.displayName || "User")}&background=0D8ABC&color=fff`,
+		    bio: "",
+		    experience: "",
+		    cvUploaded: false,
+		    createdAt
+		};
+
+		if (docSnap.exists()) {
+		    const data = docSnap.data();
+		    userData = {
+			...userData,
+			...data
+		    };
+		}
+
+		localStorage.setItem("userData", JSON.stringify(userData));
+		sessionStorage.setItem("userData", JSON.stringify(userData));
+		sessionStorage.setItem("userRole", userData.role);
+		sessionStorage.setItem("userName", userData.name);
+		sessionStorage.setItem("userEmail", userData.email);
+		sessionStorage.setItem("userUid", userData.uid);
+		sessionStorage.setItem("isLoggedIn", "true");
+
+		showLoading(false);
+		return true;
+	    } catch (error) {
+		console.error("Login error:", error);
+		showAlert(error.message || "Login failed. Please try again.", "error");
+		showLoading(false);
+		return false;
+	    }
+	},
         // Logout user
         logout() {
             // Clear session data
@@ -366,19 +404,56 @@ document.addEventListener('DOMContentLoaded', function () {
             sessionStorage.removeItem("userEmail");
             sessionStorage.removeItem("userUid");
             sessionStorage.removeItem("isLoggedIn");
-
-	    localStorage.removeItem("userData");
-	    localStorage.removeItem("userRole");
-	    localStorage.removeItem("userName");
-	    localStorage.removeItem("userEmail");
-	    localStorage.removeItem("userUid");
-
+            
             if ((!TEST_MODE) && auth) {
                 auth.signOut();
             }
             
             return true;
         },
+
+	 getCurrentUser() {
+             const stored =
+		   sessionStorage.getItem("userData") || localStorage.getItem("userData");
+             return stored ? JSON.parse(stored) : null;
+	 },
+
+
+	async updateUserProfile(updates = {}) {
+	    try {
+		const stored = sessionStorage.getItem("userData") || localStorage.getItem("userData");
+		if (!stored) throw new Error("No user session found.");
+
+		const userData = JSON.parse(stored);
+
+		const uid = userData.uid;
+		if (!uid) throw new Error("User ID is missing.");
+
+		// Merge new fields
+		const updatedUser = {
+		    ...userData,
+		    ...updates
+		};
+		
+		// Update Firestore if not TEST_MODE
+		if (!TEST_MODE && window.firebase) {
+		    const { doc, updateDoc } = window.firebase;
+		    await updateDoc(doc(db, "users", uid), updates);
+		}
+
+		// Update local/session storage
+		localStorage.setItem("userData", JSON.stringify(updatedUser));
+		sessionStorage.setItem("userData", JSON.stringify(updatedUser));
+		
+		console.log("✅ User metadata updated:", updates);
+		return true;
+	    } catch (error) {
+		console.error("Failed to update user profile:", error);
+		showAlert(error.message || "Failed to update profile", "error");
+		return false;
+	    }
+	},
+
 
         // Validation functions
         validateEmail(email) {
@@ -416,21 +491,10 @@ document.addEventListener('DOMContentLoaded', function () {
                 showLoading(false);
                 return false;
             }
-        },
-	
+        }
     };
 
     // --- Utility Functions ---
-    function updateNavigationAfterLogin(user) {
-	const loginButton = document.querySelector('.login-button');
-	const helpLink = document.getElementById('helpLink');
-	const logoutButton = document.getElementById('logoutButton');
-
-	if (loginButton) loginButton.style.display = 'none';
-	if (helpLink) helpLink.style.display = 'inline-block';
-	if (logoutButton) logoutButton.style.display = 'inline-block';
-    }
-
     function showLoading(show = true) {
         const loading = document.getElementById("loadingIndicator");
         if (loading) {
@@ -458,6 +522,29 @@ document.addEventListener('DOMContentLoaded', function () {
         alert(message);
     }
 
+    function showWelcomeBanner(user) {
+	const banner = document.getElementById('welcomeBanner');
+	const welcomeMessage = document.getElementById('welcomeMessage');
+	const userRole = document.getElementById('userRole');
+
+	if (!banner || !welcomeMessage || !userRole) return;
+
+	welcomeMessage.textContent = `🎓 Welcome back, ${user.name}!`;
+	userRole.textContent = `Role: ${user.role}`;
+
+	banner.classList.remove('hidden');
+
+	setTimeout(() => {
+            banner.style.opacity = '0';
+            banner.style.transform = 'translateY(-20px)';
+            setTimeout(() => {
+		banner.classList.add('hidden');
+		banner.style.opacity = '1';
+		banner.style.transform = 'translateY(0)';
+            }, 500);
+	}, 5000);
+    }
+    
     // --- Tab Switching ---
     window.showTab = function(event, tabName) {
         // Hide all form sections
@@ -506,7 +593,6 @@ document.addEventListener('DOMContentLoaded', function () {
         });
     }
 
-    
     // ===============================
     // UTILITY FUNCTIONS
     // ===============================
@@ -533,93 +619,6 @@ document.addEventListener('DOMContentLoaded', function () {
         return btoa(password); // Simple base64 encoding for demo purposes
     }
 
-    function showWelcomeBanner(user) {
-	const banner = document.getElementById('welcomeBanner');
-	const welcomeMessage = document.getElementById('welcomeMessage');
-	const userRole = document.getElementById('userRole');
-
-	if (!banner || !welcomeMessage || !userRole) return;
-
-	welcomeMessage.textContent = `🎓 Welcome back, ${user.name}!`;
-	userRole.textContent = `Role: ${user.role}`;
-	
-	banner.classList.remove('hidden');
-
-	// Animate and auto-hide
-	setTimeout(() => {
-            banner.style.opacity = '0';
-            banner.style.transform = 'translateY(-20px)';
-            setTimeout(() => {
-		banner.classList.add('hidden');
-		banner.style.opacity = '1';
-		banner.style.transform = 'translateY(0)';
-            }, 500);
-	}, 5000);
-    }
-
-
-    // 🌐 LANGUAGE SWITCHER FULL SETUP
-
-    // 1. Available languages and their flags
-    const LANGS = [
-	{ code: 'en', flag: '🇺🇸' },
-	{ code: 'es', flag: '🇪🇸' },
-	{ code: 'ca', flag: '🏴' }
-    ];
-
-    // 2. Apply translations to elements with data-i18n
-    function applyTranslations() {
-	document.querySelectorAll("[data-i18n]").forEach(el => {
-	    const key = el.getAttribute("data-i18n");
-	    if (translations[key]) {
-		el.innerText = translations[key];
-	    }
-	});
-    }
-
-    // 3. Set language (load lang JSON)
-    function setLanguage(langCode) {
-	fetch(`lang/${langCode}.json`)
-	    .then(res => res.json())
-	    .then(data => {
-		translations = data;
-		currentLang = langCode;
-		localStorage.setItem("selectedLanguage", langCode);
-		applyTranslations();
-	    })
-	    .catch(err => console.error("Language file error:", err));
-    }
-
-    // 4. Update the 🌐 flag button
-    function updateLangFlag() {
-	const langBtn = document.getElementById("languageToggle");
-	if (langBtn) {
-	    langBtn.innerHTML = `🌐 ${LANGS[currentLangIndex].flag}`;
-	}
-    }
-
-    // 5. On click: cycle language
-    function cycleLanguage() {
-	currentLangIndex = (currentLangIndex + 1) % LANGS.length;
-	const lang = LANGS[currentLangIndex];
-	setLanguage(lang.code);
-	updateLangFlag();
-    }
-
-    // 6. Setup on page load
-    function setupLanguageToggle() {
-	const langBtn = document.getElementById("languageToggle");
-	if (!langBtn) return;
-	
-	langBtn.addEventListener("click", cycleLanguage);
-
-	const savedLang = localStorage.getItem("selectedLanguage") || "en";
-	const index = LANGS.findIndex(l => l.code === savedLang);
-	currentLangIndex = index >= 0 ? index : 0;
-
-	setLanguage(LANGS[currentLangIndex].code);
-	updateLangFlag();
-    }
 
     // ===============================
     // ENHANCED MODAL MANAGEMENT - FIXED
@@ -799,6 +798,7 @@ document.addEventListener('DOMContentLoaded', function () {
             }
         }
     };
+
      
     // ===============================
     // BACK TO HOME LINK MANAGEMENT
@@ -899,6 +899,31 @@ document.addEventListener('DOMContentLoaded', function () {
     // ===============================
 
     const Navigation = {
+
+	    
+    // ===============================
+    // INITIALIZATION FOR NAVIGATION
+    // ===============================
+    init () {
+	const lastAccess = sessionStorage.getItem('lastAccess');
+	const currentTime = new Date().getTime();
+	const timeout = 30 * 60 * 1000;
+
+	if (lastAccess && (currentTime - new Date(lastAccess).getTime()) > timeout) {
+            console.log('⏰ Session expired, resetting...');
+            if (typeof clearUserSession === 'function') {
+		clearUserSession();
+            }
+	}
+
+	sessionStorage.setItem('lastAccess', new Date().toISOString());
+
+	window.addEventListener('stageUpdated', (e) => {
+            console.log('📢 Stage changed:', e.detail);
+	});
+    },
+    
+
 	    // ===============================
 	    // CONFIGURATION
 	    // ===============================
@@ -906,7 +931,10 @@ document.addEventListener('DOMContentLoaded', function () {
 	    serviceConfig: {
 		1: {
 		    name: "Math/Statistics Tutoring",
-		    url: "mathapp.html",
+		    urls:{
+			'student': "tutor/mathapp.html",
+			'math-tutor':"tutor/mathtutor.html"
+		    },
 		    allowedRoles: ['student', 'math-tutor'],
 		    requiresLogin: true,
 		    icon: "📊",
@@ -1023,42 +1051,11 @@ document.addEventListener('DOMContentLoaded', function () {
 		}
 	    },
 
-	// ADD THE NEW METHODS HERE://25
-	clearUserSession() {
-            console.log('🧹 Clearing user session data...');
-            sessionStorage.clear();
-            console.log('✅ Session data cleared');
-	},
-
-	switchUser() {
-            console.log('🔄 Switching user...');
-            this.clearUserSession();
-        
-            if (typeof Auth !== 'undefined' && Auth.clearSession) {
-		Auth.clearSession();
-            }
-        
-            if (typeof Modal !== 'undefined' && Modal.open) {
-		Modal.open();
-            }
-	},
-
-	logout() {
-            console.log('🚪 Logging out user...');
-            this.clearUserSession();
-        
-            if (typeof Auth !== 'undefined' && Auth.logout) {
-		Auth.logout();
-            }
-            
-            window.location.href = 'index.html';
-	},
-
-	// ===============================
-	// MAIN NAVIGATION METHODS with browse-first approach
-	// ===============================
+	    // ===============================
+	    // MAIN NAVIGATION METHODS with browse-first approach
+	    // ===============================
 	    
-	navigateToService(serviceId){
+	    navigateToService(serviceId) {
 		console.log(`🧭 Navigation request for service: ${serviceId}`);
 		console.log(`🔐 Auth.isLoggedIn():`, Auth.isLoggedIn());
 		console.log(`👤 Current user:`, Auth.getCurrentUser());
@@ -1105,7 +1102,6 @@ document.addEventListener('DOMContentLoaded', function () {
 	    handleLoginRequired(serviceId, service) {
 		console.log(`🔐 Login required for service: ${serviceId}`);
 		console.log(`Modal object:`, Modal); // Check if Modal exists
-		this.clearUserSession(); //25-06
 		
 		// Store redirect information
 		sessionStorage.setItem("redirectAfterLogin", service.url);
@@ -1121,7 +1117,7 @@ document.addEventListener('DOMContentLoaded', function () {
 		}
 	    },
 	    
-	    //Method to handle redirect after login
+	    // Add method to handle redirect after login
 	    handleRedirectAfterLogin() {
 		const redirectUrl = sessionStorage.getItem("redirectAfterLogin");
 		const redirectServiceId = sessionStorage.getItem("redirectServiceId");
@@ -1139,24 +1135,23 @@ document.addEventListener('DOMContentLoaded', function () {
 		}
 	    },
 
-	    //Performing nav method
+	    // Add missing performNavigation method
 	    performNavigation(url) {
 		console.log(`🚀 Navigating to: ${url}`);
 		window.location.href = url;
 	    },
 	    
-	    // ShowError method
+	    // Add missing showError method
 	    showError(message) {
 		console.error(message);
 		showAlert(message, 'error');
 	    },
 	    
-	    //ShowComingSoonModal method
+	    // Add missing showComingSoonModal method
 	    showComingSoonModal(service) {
 		showAlert(`${service.name} is coming soon! Stay tuned for updates.`, 'info');
 	    },
 
-	
 	    /**
 	     * Handle navigation for authenticated users
 	     * @param {number} serviceId - Service ID
@@ -1192,7 +1187,6 @@ document.addEventListener('DOMContentLoaded', function () {
 		}
 	    },
 
-	    
 	    /**
 	     * Handle Math Tutoring specific navigation logic
 	     * @param {Object} user - Current user object
@@ -1220,13 +1214,14 @@ document.addEventListener('DOMContentLoaded', function () {
 		
 		const statusRoutes = {
 		    'registered': 'mathapp.html',
-		    'application-in-progress': 'mathapp.html',
-		    'application-complete': 'subscription.html',
-		    'application-approved': 'student-room.html',
-		    'subscribed': 'student-room.html'
+		    'application-in-progress': 'tutor/mathapp.html',
+		    'application-complete': 'tutor/subscription.html',
+		    'application-approved': 'tutor/student-room.html',
+		    'subscribed': 'tutor/student-room.html'
 		};
 
-		const targetUrl = statusRoutes[studentStatus] || 'mathapp.html';
+		const targetUrl = statusRoutes[studentStatus] || 'tutor/mathapp.html';
+		setCurrentStage(user.role, studentStatus);
 		this.performNavigation(targetUrl);
 	    },
 	    
@@ -1236,6 +1231,7 @@ document.addEventListener('DOMContentLoaded', function () {
 	     */
 	    handleMathTutorNavigation(user) {
 		const cvStatus = this.getTutorCVStatus();
+		setCurrentStage(user.role, cvStatus);
 		// Extra auth check in test/dev mode or for extra verification
 		if (cvStatus === 'approved' && this.isApprovedTutor(user)) {
 		    this.performNavigation(this.adminConfig.tutorDashboard);
@@ -1503,7 +1499,7 @@ document.addEventListener('DOMContentLoaded', function () {
 	     */
 	    getStudentStatus() {
 		// This would typically check localStorage or server
-		return localStorage.getItem('studentStatus') || 'registered';
+                return getCurrentStage('student') || 'registered';
 	    },
 	    
 	    /**
@@ -1512,7 +1508,7 @@ document.addEventListener('DOMContentLoaded', function () {
 	     */
 	    getTutorCVStatus() {
 		// This would typically check localStorage or server
-		return localStorage.getItem('tutorCVStatus') || 'not-uploaded';
+                return getCurrentStage('math-tutor') || 'not-uploaded';
 	    },
 
 	    /**
@@ -1571,35 +1567,10 @@ document.addEventListener('DOMContentLoaded', function () {
 		console.log(`${type.toUpperCase()}: ${message}`);
 		// You might want to implement a proper alert/toast system here
 		alert(message);
-	    },
-
-	    // Clear user session helper method
-           clearUserSession() {
-               sessionStorage.clear();
-               localStorage.clear();
-               console.log('🧹 User session cleared');
-	   },
-
-           init() {
-               const lastAccess = sessionStorage.getItem('lastAccess');
-               const currentTime = new Date().getTime();
-               const sessionTimeout = 30 * 60 * 1000; // 30 minutes
-        
-               if (lastAccess) {
-		   const lastAccessTime = new Date(lastAccess).getTime();
-		   if (currentTime - lastAccessTime > sessionTimeout) {
-                       console.log('⏰ Session timeout detected, clearing data...');
-                       this.clearUserSession();
-		   }
-               }
-        
-               sessionStorage.setItem('lastAccess', new Date().toISOString());
-	   }
-
-
-	
+	    }
 	};
-    
+
+     
     // Export for use in other files
     if (typeof module !== 'undefined' && module.exports) {
 	module.exports = Navigation;
@@ -1831,11 +1802,6 @@ document.addEventListener('DOMContentLoaded', function () {
                     console.log('📚 Navigating student to math app...');
                     // Check if there's a pending redirect
                     const redirectUrl = sessionStorage.getItem("redirectAfterLogin");
-
-		    showWelcomeBanner(user); //Show Banner
-                    updateNavigationAfterLogin(user); //Logout
-		    showUserName(); //
-		    
                     if (redirectUrl) {
 			Navigation.handleRedirectAfterLogin();
                     } else {
@@ -1850,7 +1816,6 @@ document.addEventListener('DOMContentLoaded', function () {
 			};
 			const targetUrl = statusRoutes[studentStatus] || 'mathapp.html';
 			console.log(`📚 Student target URL: ${targetUrl}`);
-		
 			window.location.href = targetUrl;
                     }
                     break;
@@ -1859,10 +1824,7 @@ document.addEventListener('DOMContentLoaded', function () {
                     console.log('👨‍🏫 Navigating math tutor...');
                     // Check CV status
                     const cvStatus = localStorage.getItem('tutorCVStatus') || 'not-uploaded';
-
-		    updateNavigationAfterLogin(user);
-		    showUserName();
-		    
+                
                     if (cvStatus === 'approved') {
 			console.log('✅ CV approved, going to tutor dashboard');
 			window.location.href = 'mathtutor.html';
@@ -1877,10 +1839,6 @@ document.addEventListener('DOMContentLoaded', function () {
 
 		case "professional":
                     console.log('💼 Navigating professional...');
-
-		    updateNavigationAfterLogin(user);
-		    showUserName();
-		    
                     // Check for pending redirect
                     const profRedirectUrl = sessionStorage.getItem("redirectAfterLogin");
                     if (profRedirectUrl) {
@@ -1892,10 +1850,6 @@ document.addEventListener('DOMContentLoaded', function () {
 
 		case "consultant":
                     console.log('🤝 Navigating consultant...');
-
-		    updateNavigationAfterLogin(user);
-		    showUserName();
-		    
                     // Check for pending redirect
                     const consultRedirectUrl = sessionStorage.getItem("redirectAfterLogin");
                     if (consultRedirectUrl) {
@@ -1927,17 +1881,7 @@ document.addEventListener('DOMContentLoaded', function () {
                 Modal.switchTab({ currentTarget: document.querySelector('.tab-btn[onclick*="login"]') }, 'login');
             }
         });
-
-	// user.name || user.email on nav section as Logout
-	function showUserName() {
-	    const user = Auth.getCurrentUser();
-	    const display = document.getElementById('userNameDisplay');
-	    if (user && display) {
-		display.textContent = `👋 Welcome, ${user.name || user.email}`;
-		display.style.display = 'block';
-	    }
-	}
-
+        
         // Logout button
         const logoutButton = document.getElementById("logoutButton");
         if (logoutButton) {
@@ -1979,16 +1923,6 @@ document.addEventListener('DOMContentLoaded', function () {
 
     function handleLogout() {
         if (Auth.logout()) {
-
-            const loginButton = document.querySelector('.login-button');
-	    const helpLink = document.getElementById('helpLink');
-	    const logoutButton = document.getElementById('logoutButton');
-
-	    if (loginButton) loginButton.style.display = 'inline-block';
-	    if (helpLink) helpLink.style.display = 'none';
-	    if (logoutButton) logoutButton.style.display = 'none';
-
-	    
             showAlert("You have been logged out.", 'info');
             window.location.href = "index.html";
         }
@@ -1998,117 +1932,6 @@ document.addEventListener('DOMContentLoaded', function () {
 	if (Modal.element && event.target === Modal.element) {
             Modal.close();
 	}
-    }
-
-    // ===============================
-    // SETUP AVATAR 
-    // ===============================
-
-    
-    // ✅ Set up avatar dropdown menu
-    function setupUserAvatarMenu(user) {
-	const avatar = document.getElementById("userAvatar");
-	const menu = document.getElementById("avatarMenu");
-	const avatarName = document.getElementById("avatarName");
-	const avatarRole = document.getElementById("avatarRole");
-	const upgradeOption = document.getElementById("upgradeOption");
-
-	if (!user || !avatar || !menu) return;
-
-	// Show avatar image or initials
-	const storedAvatar = localStorage.getItem(`avatar-${user.uid}`);
-	if (storedAvatar) {
-	    avatar.innerHTML = `<img src="${storedAvatar}" alt="Avatar" />`;
-	} else {
-	    const initials = (user.name || "U")
-		  .split(" ")
-		  .map(n => n[0])
-		  .join("")
-		  .toUpperCase();
-	    avatar.textContent = initials;
-	}
-
-	// Set name and role
-	avatarName.textContent = user.name || "User";
-	avatarRole.textContent = `Role: ${user.role}`;
-
-	// Show Upgrade option for certain roles
-	const showUpgrade = ["student", "free", "trial"];
-	if (upgradeOption) {
-	    upgradeOption.style.display = showUpgrade.includes(user.role) ? "block" : "none";
-	}
-
-	// Toggle avatar dropdown
-	avatar.addEventListener("click", () => {
-	    menu.classList.toggle("hidden");
-	});
-
-	// Close dropdown if clicking outside
-	window.addEventListener("click", (e) => {
-	    if (!avatar.contains(e.target) && !menu.contains(e.target)) {
-		menu.classList.add("hidden");
-	    }
-	});
-    }
-
-    // ✅ Initialize UI after DOM loads
-    document.addEventListener("DOMContentLoaded", () => {
-
-	// 🌟 Restore session from localStorage if sessionStorage is empty
-	if (!sessionStorage.getItem("isLoggedIn")) {
-	    const userData = JSON.parse(localStorage.getItem("userData"));
-	    if (userData) {
-		sessionStorage.setItem("isLoggedIn", "true");
-		sessionStorage.setItem("userName", userData.name);
-		sessionStorage.setItem("userEmail", userData.email);
-		sessionStorage.setItem("userRole", userData.role);
-		sessionStorage.setItem("userUid", userData.uid);
-	    }
-	}
-
-	const user = Auth?.getCurrentUser?.();
-	if (!user) return;
-	
-	showUserName();
-	updateNavigationAfterLogin(user);
-	
-	// Show username above menu
-	const nameDisplay = document.getElementById("userNameDisplay");
-	if (nameDisplay) {
-	    nameDisplay.textContent = `👋 Welcome, ${user.name || user.email}`;
-	    nameDisplay.classList.remove("hidden");
-	}
-
-	// Toggle menu buttons
-	const loginBtn = document.querySelector(".login-button");
-	const logoutBtn = document.getElementById("logoutButton");
-	const helpLink = document.getElementById("helpLink");
-	if (loginBtn) loginBtn.style.display = "none";
-	if (logoutBtn) logoutBtn.style.display = "inline-block";
-	if (helpLink) helpLink.style.display = "inline-block";
-
-	// Set language flag toggle (if available)
-	if (typeof setupLanguageToggle === "function") {
-	    setupLanguageToggle();
-	}
-
-	// Set up avatar menu (only if role page includes it)
-	if (document.getElementById("userAvatar")) {
-	    setupUserAvatarMenu(user);
-	}
-    });
-
-    function openProfile() {
-	document.querySelectorAll(".form-section").forEach(el => el.classList.remove("active"));
-	document.getElementById("profileFormElement")?.classList.add("active");
-    }
-
-    function openSettings() {
-	showAlert("Settings coming soon!");
-    }
-
-    function upgradePlan() {
-	window.location.href = "upgrade.html";
     }
 
     // ===============================
@@ -2174,8 +1997,175 @@ document.addEventListener('DOMContentLoaded', function () {
             console.log(`👨‍🏫 Tutor CV status updated to: ${status}`);
 	}
     };
-  
 
+    // ===============================
+    // STAGE MANAGEMENT METHODS
+    // ===============================
+    function setCurrentStage(role, stage) {
+	const stageData = {
+            role: role,
+            stage: stage,
+            timestamp: new Date().toISOString(),
+            lastUpdated: new Date().toISOString()
+	};
+	localStorage.setItem(`${role}Stage`, JSON.stringify(stageData));
+	sessionStorage.setItem(`current${role.charAt(0).toUpperCase() + role.slice(1)}Stage`, stage);
+	console.log(`📊 Stage set for ${role}: ${stage}`);
+    }
+
+    function getCurrentStage(role) {
+	const stageData = localStorage.getItem(`${role}Stage`);
+	if (stageData) {
+            try {
+		const parsed = JSON.parse(stageData);
+		return parsed.stage;
+            } catch (e) {
+		console.error('Error parsing stage data:', e);
+            }
+	}
+	return role === 'student' ? 'registered' : 'not-uploaded';
+    }
+
+    function updateStageFromApp(role, newStage, additionalData = {}) {
+	const currentStageData = localStorage.getItem(`${role}Stage`);
+	let stageData = {
+            role: role,
+            stage: newStage,
+            timestamp: new Date().toISOString(),
+            lastUpdated: new Date().toISOString(),
+            ...additionalData
+	};
+
+	if (currentStageData) {
+            try {
+		const existing = JSON.parse(currentStageData);
+		stageData.timestamp = existing.timestamp;
+            } catch (e) {
+		console.error('Error parsing existing stage data:', e);
+            }
+	}
+
+	localStorage.setItem(`${role}Stage`, JSON.stringify(stageData));
+	sessionStorage.setItem(`current${role.charAt(0).toUpperCase() + role.slice(1)}Stage`, newStage);
+
+	if (role === 'student') {
+            localStorage.setItem('studentStatus', newStage);
+	} else if (role === 'math-tutor') {
+            localStorage.setItem('tutorCVStatus', newStage);
+	}
+
+	console.log(`📊 Stage updated for ${role}: ${newStage}`, additionalData);
+
+	const event = new CustomEvent('stageUpdated', {
+            detail: { role, newStage, additionalData }
+	});
+	window.dispatchEvent(event);
+    }
+
+    function getStageProgress(role) {
+	const stageData = localStorage.getItem(`${role}Stage`);
+	if (!stageData) return null;
+	
+	try {
+            const parsed = JSON.parse(stageData);
+            const stages = role === 'student'
+		  ? ['registered', 'application-in-progress', 'application-complete', 'application-approved', 'subscribed']
+		  : ['not-uploaded', 'uploaded', 'approved', 'rejected'];
+
+            const currentIndex = stages.indexOf(parsed.stage);
+            const progress = currentIndex >= 0 ? ((currentIndex + 1) / stages.length) * 100 : 0;
+	    
+            return {
+		currentStage: parsed.stage,
+		progress: Math.round(progress),
+		totalStages: stages.length,
+		currentStageIndex: currentIndex + 1,
+		stages,
+		timestamp: parsed.timestamp,
+		lastUpdated: parsed.lastUpdated
+            };
+	} catch (e) {
+            console.error('Error getting stage progress:', e);
+            return null;
+	}
+    }
+
+
+    // ===============================
+    // USER SESSION UTILITIES
+    // ===============================
+
+    function clearUserSession() {
+	const stageData = {
+            studentStage: localStorage.getItem('studentStage'),
+            'math-tutorStage': localStorage.getItem('math-tutorStage')
+	};
+
+	sessionStorage.clear();
+	localStorage.clear();
+
+	Object.keys(stageData).forEach(key => {
+            if (stageData[key]) {
+		localStorage.setItem(key, stageData[key]);
+            }
+	});
+
+	console.log('🧹 Session cleared (stage data preserved)');
+}
+
+    // ===============================
+    // MODAL ENHANCEMENTS
+    // ===============================
+
+    Modal.clearForms = function() {
+	const modal = document.getElementById("authModal");
+	if (!modal) return;
+
+	const inputs = modal.querySelectorAll("input, textarea");
+	inputs.forEach(input => {
+            input.value = "";
+            input.style.borderColor = "";
+	});
+
+	const errorMessage = document.getElementById("errorMessage");
+	if (errorMessage) {
+            errorMessage.textContent = "";
+            errorMessage.style.display = "none";
+	}
+    };
+
+    Modal.forceClose = function() {
+	const modal = document.getElementById("authModal");
+	if (modal) {
+            modal.classList.remove("show");
+            modal.style.display = "none";
+	}
+	Modal.clearForms(); // use Modal instead of this for clarity
+    };
+
+    Modal.setupAutoClose = function() {
+	// Escape key support
+	document.addEventListener("keydown", (e) => {
+            if (e.key === "Escape") {
+		Modal.forceClose();
+            }
+	});
+
+	// Click-outside-to-close
+	const modal = document.getElementById("authModal");
+	if (modal) {
+            modal.addEventListener("click", (e) => {
+		if (e.target === modal) {
+                    Modal.forceClose();
+		}
+            });
+	}
+    };
+
+    // Initialize modal behavior immediately
+    Modal.setupAutoClose();
+
+    
     // ===============================
     // GLOBAL FUNCTION EXPOSURE - FIXED
     // ===============================
@@ -2212,7 +2202,8 @@ document.addEventListener('DOMContentLoaded', function () {
     window.Auth = Auth;
     window.Modal = Modal;
     window.showAlert = showAlert;
-    
+    window.validateEmail = Auth.validateEmail.bind(Auth);
+
 
     // Tab switching functions
     window.showTab = (event, tabName) => Modal.switchTab(event, tabName);
@@ -2297,10 +2288,7 @@ document.addEventListener('DOMContentLoaded', function () {
 	    
             // Setup event listeners
             setupEventListeners();
-
-	    // Language event
-	    setupLanguageToggle();
-	    
+            
             console.log('✅ Application initialized successfully');
             console.log('🏠 Is home page:', isHomePage());
             console.log('🔒 Is logged in:', Auth.isLoggedIn());
@@ -2326,15 +2314,3 @@ document.addEventListener('DOMContentLoaded', function () {
     if (typeof module !== 'undefined' && module.exports) {
     module.exports = Navigation;
 }
-
-// Initialize Navigation on page load
-document.addEventListener('DOMContentLoaded', function() {
-    Navigation.init();
-});
-
-// Clear session on browser close if not logged in
-window.addEventListener('beforeunload', function() {
-    if (typeof Auth !== 'undefined' && Auth.isLoggedIn && !Auth.isLoggedIn()) {
-        Navigation.clearUserSession();
-    }
-});
