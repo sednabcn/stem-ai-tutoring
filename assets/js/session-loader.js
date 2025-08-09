@@ -15,11 +15,7 @@ const ENV_CONFIG = {
     },
     
     get baseURL() {
-	switch (this.current) {
-        case 'development': return '.';
-        case 'github': return '..';
-        case 'production': return '.';
-        default: return '.';
+        return '.';
     }
 }
 };
@@ -927,9 +923,13 @@ class SessionManager {
 // ========================================
 class SessionLoader {
     constructor() {
-        // Initialize core systems
-        this.errorHandler = new ErrorHandler();
-        this.performanceManager = new PerformanceManager();
+	 // FIX: Set global references FIRST
+        window.errorHandler = new ErrorHandler();
+        window.performanceManager = new PerformanceManager();
+
+	// Initialize core systems
+        this.errorHandler = window.errorHandler;
+        this.performanceManager = window.performanceManager;
         this.scriptLoader = new ScriptLoader();
         this.modalManager = new ModalManager();
         this.sessionManager = new SessionManager();
@@ -940,9 +940,82 @@ class SessionLoader {
         
         // Initialization flag
         this.initialized = false;
-        
+
+	// FIX: Bind global functions IMMEDIATELY
+        this.bindGlobalFunctions();
+
         this.init();
     }
+
+       // FIX 3: Move bindGlobalFunctions to run immediately, not after async operations
+    bindGlobalFunctions() {
+        // Core navigation functions
+        window.goHome = () => this.sessionManager.switchSession('home');
+        window.backToHome = () => this.sessionManager.switchSession('home');
+        window.showModal = (modalId) => this.modalManager.openModal(modalId);
+        window.hideModal = (modalId) => this.modalManager.closeModal(modalId);
+        window.closeModal = (modalId) => this.modalManager.closeModal(modalId);
+        
+        // FIX: Add missing critical functions
+        window.showDashboard = (section = 'overview') => {
+            this.sessionManager.switchSession('dashboard');
+            if (section !== 'overview') {
+                setTimeout(() => this.switchTab(section), 100);
+            }
+        };
+        
+        window.showOnboarding = () => {
+            this.sessionManager.switchSession('onboard');
+        };
+        
+        // Dashboard section navigation
+        window.showOverview = () => this.showDashboardSection('overview');
+        window.showSessions = () => this.showDashboardSection('sessions');
+        window.showStudents = () => this.showDashboardSection('students');
+        window.showMessages = () => this.showDashboardSection('messages');
+        window.showEarnings = () => this.showDashboardSection('earnings');
+        window.showSchedule = () => this.showDashboardSection('schedule');
+        window.showProfile = () => this.showDashboardSection('profile');
+        window.showSettings = () => this.showDashboardSection('settings');
+        
+        // Tutor functions
+        window.verifyTutor = () => this.sessionManager.verifyTutor();
+        window.switchTab = (tabName) => this.switchTab(tabName);
+        window.filterSessions = (filter) => this.filterSessions(filter);
+        
+        // Top-nav functions
+        window.toggleNotificationPanel = () => {
+            if (this.notificationCenter) {
+                this.notificationCenter.togglePanel();
+            }
+        };
+        
+        window.toggleAvatarMenu = (event) => {
+            event?.stopPropagation();
+            const menu = document.getElementById('avatarMenu');
+            if (menu) menu.classList.toggle('show');
+        };
+        
+        // Enhanced onboarding functions
+        window.signAgreement = () => this.signAgreement();
+        window.downloadAgreement = () => this.downloadAgreement();
+        window.viewAgreementPreview = () => this.viewAgreementPreview();
+        window.submitAgreement = () => this.submitAgreement();
+        window.proceedToInterview = () => this.proceedToInterview();
+        window.submitInterview = () => this.submitInterview();
+        window.uploadDocuments = () => this.uploadDocuments();
+        window.startVideoVerification = () => this.startVideoVerification();
+        window.setSchedule = () => this.setSchedule();
+        window.browseStudents = () => this.browseStudents();
+        window.uploadResources = () => this.uploadResources();
+        window.exploreTool = () => this.exploreTool();
+        window.viewAnalytics = () => this.viewAnalytics();
+        window.upgradePremium = () => this.upgradePremium();
+        
+        console.log('🔗 Global functions bound successfully');
+    }
+}
+
     
     async init() {
         if (this.initialized) return;
@@ -1255,73 +1328,6 @@ class SessionLoader {
         console.log('🎯 Initializing dashboard section:', section.id);
     }
     
-    bindGlobalFunctions() {
-        // Core navigation functions
-        window.goHome = () => this.sessionManager.switchSession('home');
-        window.backToHome = () => this.sessionManager.switchSession('home');
-        window.showModal = (modalId) => this.modalManager.openModal(modalId);
-        window.hideModal = (modalId) => this.modalManager.closeModal(modalId);
-        window.closeModal = (modalId) => this.modalManager.closeModal(modalId);
-        
-        // MISSING FUNCTION - Add showDashboard
-        window.showDashboard = (section = 'overview') => {
-            this.sessionManager.switchSession('dashboard');
-            if (section !== 'overview') {
-                setTimeout(() => this.switchTab(section), 100);
-            }
-        };
-        
-        // MISSING FUNCTION - Add showOnboarding
-        window.showOnboarding = () => {
-            this.sessionManager.switchSession('onboard');
-        };
-        
-        // Dashboard section navigation
-        window.showOverview = () => this.showDashboardSection('overview');
-        window.showSessions = () => this.showDashboardSection('sessions');
-        window.showStudents = () => this.showDashboardSection('students');
-        window.showMessages = () => this.showDashboardSection('messages');
-        window.showEarnings = () => this.showDashboardSection('earnings');
-        window.showSchedule = () => this.showDashboardSection('schedule');
-        window.showProfile = () => this.showDashboardSection('profile');
-        window.showSettings = () => this.showDashboardSection('settings');
-        
-        // Tutor functions
-        window.verifyTutor = () => this.sessionManager.verifyTutor();
-        window.switchTab = (tabName) => this.switchTab(tabName);
-        window.filterSessions = (filter) => this.filterSessions(filter);
-        
-        // Top-nav functions
-        window.toggleNotificationPanel = () => {
-            if (this.notificationCenter) {
-                this.notificationCenter.togglePanel();
-            }
-        };
-        
-        window.toggleAvatarMenu = (event) => {
-            event?.stopPropagation();
-            const menu = document.getElementById('avatarMenu');
-            if (menu) menu.classList.toggle('show');
-        };
-        
-        // Enhanced onboarding functions
-        window.signAgreement = () => this.signAgreement();
-        window.downloadAgreement = () => this.downloadAgreement();
-        window.viewAgreementPreview = () => this.viewAgreementPreview();
-        window.submitAgreement = () => this.submitAgreement();
-        window.proceedToInterview = () => this.proceedToInterview();
-        window.submitInterview = () => this.submitInterview();
-        window.uploadDocuments = () => this.uploadDocuments();
-        window.startVideoVerification = () => this.startVideoVerification();
-        window.setSchedule = () => this.setSchedule();
-        window.browseStudents = () => this.browseStudents();
-        window.uploadResources = () => this.uploadResources();
-        window.exploreTool = () => this.exploreTool();
-        window.viewAnalytics = () => this.viewAnalytics();
-        window.upgradePremium = () => this.upgradePremium();
-        
-        console.log('🔗 Global functions bound successfully');
-    }
     
     // ========================================
     // DASHBOARD FUNCTIONS
@@ -1564,55 +1570,62 @@ class SessionLoader {
 // ========================================
 // INITIALIZATION
 // ========================================
-
-document.addEventListener('DOMContentLoaded', async () => {
-    try {
-        console.log(`🌟 Initializing in ${ENV_CONFIG.current} environment...`);
+ try {
+    console.log(`🌟 Initializing in ${ENV_CONFIG.current} environment...`);
+    
+    // Initialize immediately, not after DOM load
+    window.sessionLoader = new SessionLoader();
+    
+    if (ENV_CONFIG.isDevelopment) {
+        window.ENV_CONFIG = ENV_CONFIG;
+        window.AsyncWrapper = AsyncWrapper;
         
-        window.errorHandler = new ErrorHandler();
-        window.sessionLoader = new SessionLoader();
+        console.log('🛠️ Development mode utilities available:');
+        console.log('  - window.sessionLoader.debugInfo()');
+        console.log('  - window.sessionLoader.getPerformanceReport()');
+        console.log('  - window.verifyTutor()');
+        console.log('  - window.showDashboard()');
         
-        if (ENV_CONFIG.isDevelopment) {
-            window.ENV_CONFIG = ENV_CONFIG;
-            window.AsyncWrapper = AsyncWrapper;
+        setTimeout(() => {
+            console.log('🔍 Running auto-diagnostics...');
+            const debugInfo = window.sessionLoader.debugInfo();
             
-            console.log('🛠️ Development mode utilities available:');
-            console.log('  - window.sessionLoader.debugInfo()');
-            console.log('  - window.sessionLoader.getPerformanceReport()');
-            console.log('  - window.verifyTutor()');
-            console.log('  - window.showDashboard()');
-            
-            setTimeout(() => {
-                console.log('🔍 Running auto-diagnostics...');
-                const debugInfo = window.sessionLoader.debugInfo();
-                
-                if (debugInfo.errorCount > 0) {
-                    console.warn(`⚠️ ${debugInfo.errorCount} errors detected.`);
-                }
-                
-                console.log('✅ Auto-diagnostics complete');
-            }, 2000);
-        }
-        
-        console.log('🎉 SessionLoader fully initialized and ready!');
-        
-    } catch (error) {
-        console.error('❌ Failed to initialize SessionLoader:', error);
-        
-        console.log('🔄 Attempting fallback initialization...');
-        window.sessionLoader = {
-            error: error,
-            fallback: true,
-            debugInfo: () => ({ error: 'Initialization failed', fallbackMode: true }),
-            showDashboard: (section) => {
-                console.log('Fallback: showDashboard called with section:', section);
-                alert('Dashboard functionality is currently unavailable. Please refresh the page.');
+            if (debugInfo.errorCount > 0) {
+                console.warn(`⚠️ ${debugInfo.errorCount} errors detected.`);
             }
-        };
-        
-        window.showDashboard = window.sessionLoader.showDashboard;
+            
+            console.log('✅ Auto-diagnostics complete');
+        }, 2000);
     }
-});
+    
+    console.log('🎉 SessionLoader fully initialized and ready!');
+    
+} catch (error) {
+    console.error('❌ Failed to initialize SessionLoader:', error);
+    
+    console.log('🔄 Attempting fallback initialization...');
+    window.sessionLoader = {
+        error: error,
+        fallback: true,
+        debugInfo: () => ({ error: 'Initialization failed', fallbackMode: true }),
+        showDashboard: (section) => {
+            console.log('Fallback: showDashboard called with section:', section);
+            alert('Dashboard functionality is currently unavailable. Please refresh the page.');
+        }
+    };
+    
+    window.showDashboard = window.sessionLoader.showDashboard;
+}
+
+// FIX 5: Add DOM ready state check for safe initialization
+if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', () => {
+        console.log('📄 DOM loaded, SessionLoader already initialized');
+    });
+} else {
+    console.log('📄 DOM already loaded, continuing with SessionLoader');
+}
+    
 
 // Global exports
 window.SessionLoader = SessionLoader;
