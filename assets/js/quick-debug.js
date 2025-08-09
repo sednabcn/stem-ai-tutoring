@@ -346,3 +346,233 @@
     initDiagnostics();
 
 })();
+
+// ====================================================================
+// ENHANCED SESSIONLOADER DEBUG SCRIPT
+// Add this to debug_functions.js and load at end of HTML
+// ====================================================================
+
+(function() {
+    'use strict';
+    
+    // Wait for DOM and SessionLoader to be available
+    function waitForSessionLoader(callback, maxAttempts = 50) {
+        let attempts = 0;
+        const checkInterval = setInterval(() => {
+            attempts++;
+            if (window.sessionLoader || attempts >= maxAttempts) {
+                clearInterval(checkInterval);
+                callback(window.sessionLoader);
+            }
+        }, 100);
+    }
+    
+    // Enhanced diagnostic function
+    window.enhancedDiagnostic = function() {
+        console.log('🔍 ENHANCED SESSIONLOADER DIAGNOSTIC');
+        console.log('=====================================');
+        
+        if (!window.sessionLoader) {
+            console.error('❌ SessionLoader not available');
+            return;
+        }
+        
+        // 1. Basic info
+        console.log('📊 Basic Info:');
+        const debugInfo = window.sessionLoader.debugInfo ? window.sessionLoader.debugInfo() : null;
+        if (debugInfo) {
+            console.log('  Environment:', debugInfo.environment);
+            console.log('  Session:', debugInfo.session);
+            console.log('  Error Count:', debugInfo.errorCount);
+            console.log('  Profile Completion:', debugInfo.profileCompletion + '%');
+            console.log('  Loaded Scripts:', debugInfo.loadedScripts?.length || 0);
+        }
+        
+        // 2. Function analysis
+        console.log('\n🔧 Function Analysis:');
+        const allKeys = Object.keys(window.sessionLoader);
+        const functions = allKeys.filter(key => typeof window.sessionLoader[key] === 'function');
+        const objects = allKeys.filter(key => typeof window.sessionLoader[key] === 'object' && window.sessionLoader[key] !== null);
+        
+        console.log('  Total functions:', functions.length);
+        console.log('  Total objects:', objects.length);
+        console.log('  Functions:', functions);
+        console.log('  Objects:', objects);
+        
+        // 3. Card-specific analysis
+        console.log('\n🎴 Card Analysis:');
+        
+        // Check global Card objects
+        const globalCards = [];
+        for (let i = 1; i <= 9; i++) {
+            const cardName = `Card${i}`;
+            if (window[cardName]) {
+                globalCards.push(cardName);
+            }
+        }
+        console.log('  Global Card objects:', globalCards.length ? globalCards : 'None found');
+        
+        // Check sessionLoader Card methods
+        const sessionLoaderCards = [];
+        const cardMethods = functions.filter(f => f.toLowerCase().includes('card'));
+        console.log('  SessionLoader card methods:', cardMethods.length ? cardMethods : 'None found');
+        
+        // Check for card-related properties
+        const cardProperties = allKeys.filter(k => k.toLowerCase().includes('card'));
+        console.log('  Card-related properties:', cardProperties.length ? cardProperties : 'None found');
+        
+        // 4. Script loading analysis
+        console.log('\n📜 Script Analysis:');
+        if (debugInfo?.loadedScripts) {
+            debugInfo.loadedScripts.forEach((script, index) => {
+                console.log(`  ${index + 1}. ${script}`);
+            });
+        }
+        
+        // 5. Error analysis
+        console.log('\n❌ Error Analysis:');
+        if (debugInfo?.errorCount > 0) {
+            console.log('  Error count:', debugInfo.errorCount);
+            if (window.sessionLoader.errors) {
+                console.log('  Errors:', window.sessionLoader.errors);
+            }
+            if (window.sessionLoader.getErrors) {
+                console.log('  Error details:', window.sessionLoader.getErrors());
+            }
+        }
+        
+        // 6. Manual script check
+        console.log('\n🔍 Manual Script Verification:');
+        const expectedScripts = [
+            '../assets/js/tutor/card1.js',
+            '../assets/js/tutor/card2.js', 
+            '../assets/js/tutor/card3.js',
+            '../assets/js/tutor/card4.js',
+            '../assets/js/tutor/card5.js',
+            '../assets/js/tutor/card6.js',
+            '../assets/js/tutor/card7.js',
+            '../assets/js/tutor/card8.js',
+            '../assets/js/tutor/card9.js'
+        ];
+        
+        expectedScripts.forEach(script => {
+            const scriptElement = document.querySelector(`script[src="${script}"]`);
+            console.log(`  ${script}: ${scriptElement ? '✅ DOM element found' : '❌ DOM element missing'}`);
+        });
+        
+        console.log('\n=====================================');
+        return {
+            functions: functions.length,
+            objects: objects.length,
+            globalCards: globalCards.length,
+            sessionLoaderCardMethods: cardMethods.length,
+            errorCount: debugInfo?.errorCount || 0
+        };
+    };
+    
+    // Force reload specific scripts
+    window.forceReloadCards = function() {
+        console.log('🔄 Force reloading card scripts...');
+        
+        const cardScripts = [
+            '../assets/js/tutor/card1.js',
+            '../assets/js/tutor/card2.js',
+            '../assets/js/tutor/card3.js',
+            '../assets/js/tutor/card4.js',
+            '../assets/js/tutor/card5.js',
+            '../assets/js/tutor/card6.js',
+            '../assets/js/tutor/card7.js',
+            '../assets/js/tutor/card8.js',
+            '../assets/js/tutor/card9.js'
+        ];
+        
+        // Remove existing script tags
+        cardScripts.forEach(src => {
+            const existing = document.querySelector(`script[src="${src}"]`);
+            if (existing) {
+                existing.remove();
+                console.log('  Removed:', src);
+            }
+        });
+        
+        // Add them back with cache busting
+        cardScripts.forEach((src, index) => {
+            setTimeout(() => {
+                const script = document.createElement('script');
+                script.src = src + '?reload=' + Date.now();
+                script.onload = () => console.log('  ✅ Reloaded:', src);
+                script.onerror = () => console.error('  ❌ Failed to reload:', src);
+                document.head.appendChild(script);
+            }, index * 100); // Stagger loading
+        });
+    };
+    
+    // Test card functionality
+    window.testCardFunctions = function() {
+        console.log('🧪 Testing Card Functions:');
+        
+        // Test global cards
+        for (let i = 1; i <= 9; i++) {
+            const cardName = `Card${i}`;
+            if (window[cardName]) {
+                console.log(`  ✅ ${cardName} exists globally`);
+                if (typeof window[cardName].init === 'function') {
+                    console.log(`    - Has init method`);
+                }
+                if (typeof window[cardName].show === 'function') {
+                    console.log(`    - Has show method`);
+                }
+            } else {
+                console.log(`  ❌ ${cardName} not found globally`);
+            }
+        }
+        
+        // Test sessionLoader methods
+        if (window.sessionLoader) {
+            const cardMethods = Object.keys(window.sessionLoader).filter(k => 
+                k.toLowerCase().includes('card') && typeof window.sessionLoader[k] === 'function'
+            );
+            
+            if (cardMethods.length > 0) {
+                console.log('  SessionLoader card methods:');
+                cardMethods.forEach(method => {
+                    console.log(`    - ${method}`);
+                });
+            }
+        }
+    };
+    
+    // Auto-run enhanced diagnostic when script loads
+    document.addEventListener('DOMContentLoaded', () => {
+        waitForSessionLoader((sessionLoader) => {
+            if (sessionLoader) {
+                console.log('🚀 Debug script loaded - SessionLoader detected');
+                console.log('Available debug commands:');
+                console.log('  - enhancedDiagnostic() - Full diagnostic');
+                console.log('  - forceReloadCards() - Reload card scripts');
+                console.log('  - testCardFunctions() - Test card availability');
+                
+                // Auto-run diagnostic after a short delay
+                setTimeout(() => {
+                    console.log('\n🔍 Auto-running enhanced diagnostic...');
+                    enhancedDiagnostic();
+                }, 1000);
+            } else {
+                console.warn('⚠️ SessionLoader not found after waiting');
+            }
+        });
+    });
+    
+    // If DOM already loaded, run immediately
+    if (document.readyState === 'loading') {
+        // DOM hasn't loaded yet
+    } else {
+        // DOM already loaded
+        waitForSessionLoader((sessionLoader) => {
+            if (sessionLoader) {
+                console.log('🚀 Debug script loaded (DOM ready) - SessionLoader detected');
+                setTimeout(() => enhancedDiagnostic(), 500);
+            }
+        });
+    }
+})();
