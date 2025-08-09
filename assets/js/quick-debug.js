@@ -576,3 +576,322 @@
         });
     }
 })();
+// ====================================================================
+// SCRIPTLOADER DEPENDENCIES FIXER
+// Creates missing AsyncWrapper and ENV_CONFIG that ScriptLoader needs
+// ====================================================================
+
+(function() {
+    'use strict';
+    
+    // Create missing AsyncWrapper class
+    if (!window.AsyncWrapper) {
+        window.AsyncWrapper = {
+            async withRetry(fn, retries = 3, delay = 1000) {
+                for (let i = 0; i < retries; i++) {
+                    try {
+                        return await fn();
+                    } catch (error) {
+                        if (i === retries - 1) throw error;
+                        await new Promise(resolve => setTimeout(resolve, delay));
+                        console.log(`🔄 Retry ${i + 1}/${retries} for function`);
+                    }
+                }
+            },
+            
+            async timeout(promise, ms = 15000) {
+                return Promise.race([
+                    promise,
+                    new Promise((_, reject) => 
+                        setTimeout(() => reject(new Error(`Timeout after ${ms}ms`)), ms)
+                    )
+                ]);
+            }
+        };
+        console.log('✅ Created AsyncWrapper');
+    }
+    
+    // Create missing ENV_CONFIG
+    if (!window.ENV_CONFIG) {
+        window.ENV_CONFIG = {
+            isDevelopment: true // Enable development logging
+        };
+        console.log('✅ Created ENV_CONFIG');
+    }
+    
+    // Enhanced diagnostic function
+    window.enhancedDiagnostic = function() {
+        console.log('🔍 ENHANCED SESSIONLOADER DIAGNOSTIC');
+        console.log('=====================================');
+        
+        if (!window.sessionLoader) {
+            console.error('❌ SessionLoader not available');
+            return;
+        }
+        
+        // 1. Dependencies check
+        console.log('🔗 Dependencies Check:');
+        console.log('  AsyncWrapper:', !!window.AsyncWrapper);
+        console.log('  ENV_CONFIG:', !!window.ENV_CONFIG);
+        console.log('  PerformanceManager:', !!window.sessionLoader?.scriptLoader?.performanceManager);
+        
+        // 2. Basic info
+        console.log('\n📊 Basic Info:');
+        const debugInfo = window.sessionLoader.debugInfo ? window.sessionLoader.debugInfo() : null;
+        if (debugInfo) {
+            console.log('  Environment:', debugInfo.environment);
+            console.log('  Session:', debugInfo.session);
+            console.log('  Error Count:', debugInfo.errorCount);
+            console.log('  Profile Completion:', debugInfo.profileCompletion + '%');
+            console.log('  Loaded Scripts:', debugInfo.loadedScripts?.length || 0);
+        }
+        
+        // 3. Function analysis
+        console.log('\n🔧 Function Analysis:');
+        const allKeys = Object.keys(window.sessionLoader);
+        const functions = allKeys.filter(key => typeof window.sessionLoader[key] === 'function');
+        const objects = allKeys.filter(key => typeof window.sessionLoader[key] === 'object' && window.sessionLoader[key] !== null);
+        
+        console.log('  Total functions:', functions.length);
+        console.log('  Functions:', functions);
+        
+        // 4. ScriptLoader analysis
+        console.log('\n📜 ScriptLoader Status:');
+        if (window.sessionLoader.scriptLoader) {
+            const sl = window.sessionLoader.scriptLoader;
+            console.log('  ScriptLoader type:', sl.constructor.name);
+            console.log('  Loaded scripts count:', sl.loadedScripts?.size || 0);
+            console.log('  Loading scripts count:', sl.loadingScripts?.size || 0);
+            console.log('  Available methods:', Object.getOwnPropertyNames(Object.getPrototypeOf(sl))
+                .filter(name => typeof sl[name] === 'function' && name !== 'constructor'));
+        }
+        
+        // 5. Card analysis
+        console.log('\n🎴 Card Analysis:');
+        const globalCards = [];
+        for (let i = 1; i <= 10; i++) {
+            if (window[`Card${i}`]) globalCards.push(`Card${i}`);
+        }
+        console.log('  Global Cards:', globalCards.length ? globalCards : 'None found');
+        
+        console.log('\n=====================================');
+        return {
+            dependenciesOk: !!(window.AsyncWrapper && window.ENV_CONFIG),
+            functions: functions.length,
+            scriptLoaderWorking: !!(window.sessionLoader.scriptLoader?.loadScript),
+            globalCards: globalCards.length,
+            errorCount: debugInfo?.errorCount || 0
+        };
+    };
+    
+    // Fix ScriptLoader by recreating it with proper dependencies
+    window.fixScriptLoader = function() {
+        console.log('🔧 FIXING SCRIPTLOADER...');
+        
+        if (!window.sessionLoader) {
+            console.error('❌ SessionLoader not available');
+            return;
+        }
+        
+        // Ensure dependencies exist
+        if (!window.AsyncWrapper || !window.ENV_CONFIG) {
+            console.error('❌ Missing dependencies - run this script first to create them');
+            return;
+        }
+        
+        // Get current state
+        const currentLoader = window.sessionLoader.scriptLoader;
+        const loadedScripts = currentLoader?.loadedScripts || new Set();
+        const performanceManager = currentLoader?.performanceManager || window.sessionLoader.performanceManager;
+        
+        console.log('📊 Current state:');
+        console.log('  Loaded scripts:', loadedScripts.size);
+        console.log('  Performance manager:', !!performanceManager);
+        
+        // Create new ScriptLoader with original code
+        class FixedScriptLoader {
+            constructor() {
+                this.loadedScripts = loadedScripts; // Preserve existing state
+                this.loadingScripts = new Map();
+                this.performanceManager = performanceManager || { 
+                    mark: () => {}, 
+                    measure: () => 0 
+                };
+            }
+
+            async checkFileExists(url) {
+                try {
+                    const response = await fetch(url, { method: 'HEAD' });
+                    return response.ok;
+                } catch (error) {
+                    return false;
+                }
+            }
+            
+            async loadScript(src) {
+                // Return existing promise if script is already loading
+                if (this.loadingScripts.has(src)) {
+                    return this.loadingScripts.get(src);
+                }
+            
+                // Return immediately if script is already loaded
+                if (this.loadedScripts.has(src)) {
+                    return Promise.resolve();
+                }
+            
+                // Check if script already exists in DOM
+                const existingScript = document.querySelector(`script[src="${src}"]`);
+                if (existingScript) {
+                    this.loadedScripts.add(src);
+                    return Promise.resolve();
+                }
+            
+                const loadPromise = AsyncWrapper.withRetry(async () => {
+                    return AsyncWrapper.timeout(new Promise((resolve, reject) => {
+                        this.performanceManager.mark(`script-load-start-${src}`);
+                    
+                        // Remove any failed attempts first
+                        const failedScripts = document.querySelectorAll(`script[src="${src}"]`);
+                        failedScripts.forEach(s => s.remove());
+                    
+                        const script = document.createElement('script');
+                        script.src = src;
+                        script.async = false;
+                        script.defer = false;
+                    
+                        script.onload = () => {
+                            this.loadedScripts.add(src);
+                            this.loadingScripts.delete(src);
+                    
+                            this.performanceManager.mark(`script-load-end-${src}`);
+                            const duration = this.performanceManager.measure ? 
+                                this.performanceManager.measure(
+                                    `script-load-${src}`,
+                                    `script-load-start-${src}`,
+                                    `script-load-end-${src}`
+                                ) : 0;
+                    
+                            if (ENV_CONFIG.isDevelopment) {
+                                console.log(`📊 Script loaded in ${duration.toFixed(2)}ms: ${src}`);
+                            }
+                            resolve();
+                        };
+                    
+                        script.onerror = () => {
+                            this.loadingScripts.delete(src);
+                            script.remove();
+                            reject(new Error(`Failed to load script: ${src}`));
+                        };
+                    
+                        document.head.appendChild(script);
+                    }), 15000);
+                }, 3, 1000);
+            
+                this.loadingScripts.set(src, loadPromise);
+            
+                try {
+                    await loadPromise;
+                } catch (error) {
+                    this.loadingScripts.delete(src);
+                    throw error;
+                }
+            
+                return loadPromise;
+            }
+
+            async forceLoadScript(src) {
+                return new Promise((resolve, reject) => {
+                    // Remove any existing script tags
+                    const existingScripts = document.querySelectorAll(`script[src="${src}"]`);
+                    existingScripts.forEach(script => script.remove());
+                    
+                    const script = document.createElement('script');
+                    script.src = src;
+                    script.async = false;
+                    script.defer = false;
+                    
+                    const timeout = setTimeout(() => {
+                        script.remove();
+                        reject(new Error(`Force load timeout: ${src}`));
+                    }, 15000);
+                    
+                    script.onload = () => {
+                        clearTimeout(timeout);
+                        this.loadedScripts.add(src);
+                        this.loadingScripts.delete(src);
+                        console.log(`✅ Force loaded: ${src}`);
+                        resolve();
+                    };
+                    
+                    script.onerror = (event) => {
+                        clearTimeout(timeout);
+                        this.loadingScripts.delete(src);
+                        script.remove();
+                        reject(new Error(`Failed to force load script: ${src}`));
+                    };
+                    
+                    document.head.appendChild(script);
+                });
+            }
+        }
+        
+        // Replace the broken scriptLoader
+        window.sessionLoader.scriptLoader = new FixedScriptLoader();
+        console.log('✅ ScriptLoader fixed and replaced');
+        
+        return window.sessionLoader.scriptLoader;
+    };
+    
+    // Force reload all scripts that should be loaded
+    window.forceReloadAllScripts = function() {
+        console.log('🚀 FORCE RELOADING ALL SCRIPTS...');
+        
+        const scripts = [
+            '../assets/js/tutor/card1.js',
+            '../assets/js/tutor/card2.js', 
+            '../assets/js/tutor/card3.js',
+            '../assets/js/tutor/card4.js',
+            '../assets/js/tutor/card5.js',
+            '../assets/js/tutor/card6.js',
+            '../assets/js/tutor/card7.js',
+            '../assets/js/tutor/card8.js',
+            '../assets/js/tutor/card9.js',
+            '../assets/js/onboarding-main.js'
+        ];
+        
+        if (!window.sessionLoader?.scriptLoader?.forceLoadScript) {
+            console.error('❌ ScriptLoader not available - run fixScriptLoader() first');
+            return;
+        }
+        
+        // Clear the "loaded" status to force actual reloading
+        scripts.forEach(src => {
+            window.sessionLoader.scriptLoader.loadedScripts.delete(src);
+        });
+        
+        // Force load each script
+        scripts.forEach((src, index) => {
+            setTimeout(() => {
+                window.sessionLoader.scriptLoader.forceLoadScript(src)
+                    .then(() => {
+                        console.log(`✅ Reloaded: ${src}`);
+                        // Check if Cards are now available
+                        if (src.includes('card') && !src.includes('onboarding')) {
+                            const cardNum = src.match(/card(\d+)/)[1];
+                            if (window[`Card${cardNum}`]) {
+                                console.log(`🎯 Card${cardNum} object created!`);
+                            }
+                        }
+                    })
+                    .catch(err => console.error(`❌ Failed to reload: ${src}`, err));
+            }, index * 200);
+        });
+    };
+    
+    console.log('🚀 ScriptLoader fixer loaded!');
+    console.log('📋 Available commands:');
+    console.log('  - enhancedDiagnostic() - Full diagnostic');
+    console.log('  - fixScriptLoader() - Fix broken ScriptLoader'); 
+    console.log('  - forceReloadAllScripts() - Force reload all scripts');
+    
+})();
