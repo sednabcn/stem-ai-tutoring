@@ -13,15 +13,22 @@ const ENV_CONFIG = {
         if (this.isGitHubPages) return 'github';
         return 'production';
     },
-    
+
     get baseURL() {
-        switch (this.current) {
-            case 'development': return '';
-            case 'github': return window.location.pathname.split('/').slice(0, -1).join('/');
-            case 'production': return '';
-            default: return '';
-        }
+	switch (this.current) {
+            case 'development':
+            case 'production':
+                   return '.';
+            case 'github': {
+                const pathParts = window.location.pathname.split('/');
+                const projectRoot = '/' + pathParts[1]; // e.g., /stem-ai-tutoring
+                return window.location.origin + projectRoot;
+            }
+            default:
+                return '.';
+	}
     }
+
 };
 
 // ========================================
