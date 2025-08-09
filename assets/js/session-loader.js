@@ -17,7 +17,6 @@ const ENV_CONFIG = {
     get baseURL() {
         return '.';
     }
-}
 };
 
 // ========================================
@@ -947,7 +946,7 @@ class SessionLoader {
         this.init();
     }
 
-       // FIX 3: Move bindGlobalFunctions to run immediately, not after async operations
+    // FIX 3: Move bindGlobalFunctions to run immediately, not after async operations
     bindGlobalFunctions() {
         // Core navigation functions
         window.goHome = () => this.sessionManager.switchSession('home');
