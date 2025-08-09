@@ -950,8 +950,8 @@ document.addEventListener('DOMContentLoaded', function () {
 		1: {
 		    name: "Math/Statistics Tutoring",
 		    urls:{
-			'student': "tutor/mathapp.html",
-			'math-tutor':"tutor/mathtutor.html"
+			'student': "tutoring/mathapp.html",
+			'math-tutor':"tutoring/mathtutor.html"
 		    },
 		    allowedRoles: ['student', 'math-tutor'],
 		    requiresLogin: true,
@@ -1232,13 +1232,13 @@ document.addEventListener('DOMContentLoaded', function () {
 		
 		const statusRoutes = {
 		    'registered': 'mathapp.html',
-		    'application-in-progress': 'tutor/mathapp.html',
-		    'application-complete': 'tutor/subscription.html',
-		    'application-approved': 'tutor/student-room.html',
-		    'subscribed': 'tutor/student-room.html'
+		    'application-in-progress': 'tutoring/mathapp.html',
+		    'application-complete': 'tutoring/subscription.html',
+		    'application-approved': 'tutoring/student-room.html',
+		    'subscribed': 'tutoring/student-room.html'
 		};
 
-		const targetUrl = statusRoutes[studentStatus] || 'tutor/mathapp.html';
+		const targetUrl = statusRoutes[studentStatus] || 'tutoring/mathapp.html';
 		setCurrentStage(user.role, studentStatus);
 		this.performNavigation(targetUrl);
 	    },
