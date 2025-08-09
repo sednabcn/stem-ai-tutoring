@@ -1726,7 +1726,89 @@ document.addEventListener('DOMContentLoaded', function () {
         }
     };
 
-  
+    // ===============================
+    // FAQ MANAGEMENT
+    // ===============================
+    
+    const FAQManager = {
+        init() {
+            this.addToggleIcons();
+            console.log('❓ FAQ Manager initialized');
+        },
+
+        addToggleIcons() {
+            // Add toggle icons to all FAQ questions
+            document.querySelectorAll('.faq-question').forEach(question => {
+                if (!question.querySelector('.faq-toggle')) {
+                    const toggle = document.createElement('span');
+                    toggle.className = 'faq-toggle';
+                    toggle.textContent = '+';
+                    toggle.style.float = 'right';
+                    toggle.style.fontSize = '20px';
+                    toggle.style.fontWeight = 'bold';
+                    question.appendChild(toggle);
+                }
+            });
+        }
+    };
+
+    // Global FAQ toggle function - required for help.html onclick handlers
+    window.toggleFAQ = function(questionElement) {
+        console.log('🔄 Toggling FAQ item');
+        
+        const faqItem = questionElement.closest('.faq-item');
+        if (!faqItem) {
+            console.warn('⚠️ FAQ item not found');
+            return;
+        }
+
+        const answer = faqItem.querySelector('.faq-answer');
+        const toggle = questionElement.querySelector('.faq-toggle');
+        
+        if (!answer) {
+            console.warn('⚠️ FAQ answer not found');
+            return;
+        }
+
+        // Check current state
+        const isCurrentlyOpen = answer.style.display === 'block' || answer.style.maxHeight !== '0px';
+        
+        // Close all other FAQ items first
+        document.querySelectorAll('.faq-item').forEach(item => {
+            const otherAnswer = item.querySelector('.faq-answer');
+            const otherToggle = item.querySelector('.faq-toggle');
+            if (otherAnswer) {
+                otherAnswer.style.display = 'none';
+                otherAnswer.style.maxHeight = '0px';
+                otherAnswer.style.opacity = '0';
+            }
+            if (otherToggle) {
+                otherToggle.textContent = '+';
+            }
+            item.querySelector('.faq-question').classList.remove('active');
+        });
+
+        // Toggle current item
+        if (!isCurrentlyOpen) {
+            // Open current FAQ
+            answer.style.display = 'block';
+            answer.style.maxHeight = 'none';
+            answer.style.opacity = '1';
+            if (toggle) toggle.textContent = '−';
+            questionElement.classList.add('active');
+            console.log('✅ FAQ opened');
+        } else {
+            // Close current FAQ (this handles the case where same item is clicked)
+            answer.style.display = 'none';
+            answer.style.maxHeight = '0px';
+            answer.style.opacity = '0';
+            if (toggle) toggle.textContent = '+';
+            questionElement.classList.remove('active');
+            console.log('✅ FAQ closed');
+        }
+    };
+
+    
     // ===============================
     // ENHANCED EVENT LISTENERS SETUP
     // ===============================
@@ -2284,7 +2366,7 @@ document.addEventListener('DOMContentLoaded', function () {
             Modal.init();
 	    BackToHomeManager.init();
             NewsManager.init();
-        
+            FAQManager.init();
 	    
             // Setup event listeners
             setupEventListeners();

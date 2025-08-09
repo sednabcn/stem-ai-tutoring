@@ -6,106 +6,164 @@
     <title>Help - SiMLeng Website</title>
     <link rel="stylesheet" href="../assets/css/styles.css">
     <link rel="stylesheet" href="../assets/css/help.css">
-    <!---<link rel="stylesheet" href="footer.css">-->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css"> <!-- Font Awesome -->
-    <link rel="icon" href="../assets/images/favicon-16x16.png" type="image/x-icon">
+    <link rel="icon" href="/assets/images/favicon-16x16.png" type="image/x-icon">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
 </head>
 <body>
+
+    <!-- ✅ Use same top navigation as index.html -->
     <nav class="top-nav">
         <div class="logo">
-            <img src="../assets/images/logo.png" alt="Logo">
+            <img src="/assets/images/Book-NN-logo.jpeg" alt="Logo">
         </div>
         <div class="center-text">
             SiMLeng
         </div>
+        <div id="userNameDisplay" class="user-welcome hidden">
+            <span data-i18n="welcome">Welcome</span>, <span id="displayUserName">Guest</span>
+        </div>
         <div class="menu">
-	  <a href="../pages/help.html" class="cta">Help</a>
-	  <!-- Trigger Button -->
-	  <button class="login-button" onclick="openModal()">Login/Register</button>
-
-	  <!---<a href="#" id="loginButton" class="login-button">Login</a>-->
+            <a href="/pages/help.html" class="cta" id="helpLink" data-i18n="help">Help</a>
+            <button class="login-button" onclick="openModal()" data-i18n="login">Login/Register</button>
+            <button id="logoutButton" style="display: none;" data-i18n="logout">Logout</button>
+            <button id="languageToggle" class="lang-flag-btn" title="Change Language">🌐 🇺🇸</button>
+        </div>
+        <div class="avatar-container" style="display: none;">
+            <div class="avatar" id="userAvatar">U</div>
+            <div class="avatar-menu hidden" id="avatarMenu">
+                <div class="avatar-info">
+                    <div id="avatarName">User</div>
+                    <div id="avatarRole">Role</div>
+                </div>
+                <ul class="avatar-actions">
+                    <li onclick="openProfile()">👤 Profile</li>
+                    <li onclick="openSettings()">⚙️ Settings</li>
+                    <li id="upgradeOption" onclick="upgradePlan()">💳 Upgrade Plan</li>
+                    <li><a href="/pages/help.html">❓ Help</a></li>
+                    <li onclick="logout()">🚪 Logout</li>
+                </ul>
+            </div>
         </div>
     </nav>
-    <!-- Login Modal -->
-    
 
-    <!-- Modal -->
+    <!-- ✅ Copy full auth modal system from index.html -->
+    <!-- Login Modal (Global) -->
     <div id="authModal" class="modal-overlay">
-      <div class="modal-content">
-        <span class="close" onclick="closeModal()">&times;</span>
+        <div class="auth-container">
+            <span class="close" onclick="closeModal()">&times;</span>
+            <div class="auth-body">
 
-        <!-- Tab Headers -->
-        <div class="tabs">
-            <div class="tab active" onclick="openTab(event, 'login')">Login</div>
-            <div class="tab" onclick="openTab(event, 'register')">Register</div>
-        </div>
+                <!-- Loading Indicator -->
+                <div class="loading" id="loadingIndicator">
+                    <div class="spinner"></div>
+                    <p>Processing...</p>
+                </div>
 
-        <!-- Login Form -->
-        <div id="login" class="form-content active">
-            <h2 class="form-header">Login</h2>
-            <form id="loginForm">
-                <label for="loginEmail">Email</label>
-                <input type="email" id="loginEmail" placeholder="Enter your email" required>
-                
-                <label for="loginPassword">Password</label>
-                <input type="password" id="loginPassword" placeholder="Enter your password" required>
-                
-                <button type="submit">Login</button>
-            </form>
-        </div>
+                <!-- Alert Messages -->
+                <div id="alertContainer"></div>
+                <div id="toast" class="toast"></div>
 
-        <!-- Register Form -->
-        <div id="register" class="form-content">
-            <h2 class="form-header">Register</h2>
-            <form id="registerForm">
-                <label for="registerName">Name</label>
-                <input type="text" id="registerName" placeholder="Enter your name" required>
-                
-                <label for="registerEmail">Email</label>
-                <input type="email" id="registerEmail" placeholder="Enter your email" required>
-                
-                <label for="registerPassword">Password</label>
-                <input type="password" id="registerPassword" placeholder="Create a password" required>
-                
-                <button type="submit">Register</button>
-            </form>
+                <!-- Authentication Forms -->
+                <div id="authForms">
+                    <div class="auth-tabs">
+                        <button class="tab-btn active" onclick="showTab(event, 'login')">Login</button>
+                        <button class="tab-btn" onclick="showTab(event, 'register')">Register</button>
+                    </div>
+
+                    <!-- Login Form -->
+                    <div class="form-section active" id="loginFormElement">
+                        <form id="loginForm">
+                            <div class="form-group">
+                                <label for="loginEmail">Email Address</label>
+                                <input type="email" id="loginEmail" name="loginEmail" required>
+                            </div>
+                            <div class="form-group">
+                                <label for="loginPassword">Password</label>
+                                <input type="password" id="loginPassword" name="loginPassword" required autocomplete="current-password">
+                            </div>
+                            <button type="submit" class="btn btn-primary">Sign In</button>
+                            <div style="display: flex; justify-content: center;">
+                                <button type="button" class="btn-link" onclick="showForgotPassword()">Forgot Password?</button>
+                            </div>
+                            <div id="loginerrorMessage" style="display: none;"></div>
+                        </form>
+                    </div>
+
+                    <!-- Registration Form -->
+                    <div class="form-section" id="registerFormElement">
+                        <form id="registerForm">
+                            <div class="form-group">
+                                <label for="registerName">Full Name</label>
+                                <input type="text" id="registerName" name="registerName" required>
+                            </div>
+                            <div class="form-group">
+                                <label for="registerEmail">Email Address</label>
+                                <input type="email" id="registerEmail" name="registerEmail" required>
+                            </div>
+                            <div class="form-group">
+                                <label for="registerPassword">Password</label>
+                                <input type="password" id="registerPassword" name="registerPassword" required minlength="6" autocomplete="new-password">
+                            </div>
+                            <div class="form-group">
+                                <label for="confirmPassword">Confirm Password</label>
+                                <input type="password" id="confirmPassword" name="confirmPassword" required autocomplete="new-password">
+                            </div>
+                            <!-- Role Selection -->
+                            <div class="role-selector">
+                                <label>Role</label>
+                                <div class="role-buttons">
+                                    <button type="button" class="role-btn active" data-role="student">🎓 Student</button>
+                                    <button type="button" class="role-btn" data-role="math-tutor">👨‍🏫 Math Tutor</button>
+                                    <button type="button" class="role-btn" data-role="professional">💼 Professional</button>
+                                    <button type="button" class="role-btn" data-role="consultant">⭐ Consultant</button>
+                                </div>
+                            </div>
+                            <button type="submit" class="btn btn-primary">Create Account</button>
+                            <div id="registererrorMessage" style="display: none;"></div>
+                        </form>
+                    </div>
+
+                    <!-- Forgot Password Form -->
+                    <div class="form-section" id="forgotPasswordFormElement">
+                        <form id="forgotPasswordForm">
+                            <div class="back-button">
+                                <button type="button" class="btn-link" onclick="showTab(event, 'login')">&larr; Back to Login</button>
+                            </div>
+                            <h3 style="margin-bottom: 20px; text-align: center; color: #333;">Reset Password</h3>
+                            <div class="form-group">
+                                <label for="resetEmail">Email Address</label>
+                                <input type="email" id="resetEmail" name="resetEmail" required>
+                            </div>
+                            <button type="submit" class="btn btn-primary">Send Reset Link</button>
+                            <div id="forgoterrorMessage" style="display: none;"></div>
+                        </form>
+                    </div>
+                </div>
+            </div>
         </div>
-      </div>
     </div>
-        <!-- Recover Password Form -->
-        <div id="recover" class="form-content">
-            <h2 class="form-header">Recover Password</h2>
-            <form id="recoverForm">
-                <label for="recoverEmail">Email</label>
-                <input type="email" id="recoverEmail" placeholder="Enter your email" required>
-                
-                <button type="submit">Recover Password</button>
-                
-                <p class="back-to-login" onclick="openTab(event, 'login')">Back to Login</p>
-            </form>
-        </div>
-    </div>
-</div>
 
-
-    <!--Header -->
+    <!-- Header -->
     <div class="header">
         <h4>Help & Support</h4>
     </div>
 
+    <!-- FAQ Content -->
     <main>
         <section class="faq-section">
-	  <h2><i class="fas fa-question-circle"></i> Frequently Asked Questions</h2>
-	  <p>Here you can find answers to the most common questions.</p>
-	  <div class="faq-item">
-            <div class="faq-question" onclick="toggleFAQ(this)">
-              How do I schedule my first tutoring session?
-            </div>
-            <div class="faq-answer">
-              <p>Scheduling your first session is simple! Just create an account, select a tutor and time slot that works for you, and confirm your booking. You’ll receive a confirmation email with session details, materials, and access links.</p>
-            </div>
-	  </div>
+            <h2><i class="fas fa-question-circle"></i> Frequently Asked Questions</h2>
+            <p>Here you can find answers to the most common questions.</p>
 
+            <div class="faq-item">
+                <div class="faq-question" onclick="toggleFAQ(this)">
+                    How do I schedule my first tutoring session?
+                </div>
+                <div class="faq-answer">
+                    <p>Scheduling your first session is simple! Just create an account, select a tutor and time slot that works for you, and confirm your booking.</p>
+                </div>
+            </div>
+            <!-- Keep all other FAQ items from your original help.html -->
+	    
 	  <div class="faq-item">
             <div class="faq-question" onclick="toggleFAQ(this)">
               What qualifications do your tutors have?
@@ -159,35 +217,29 @@
               <p>Yes! We offer discounted rates for small group sessions (2–4 students), perfect for families or friends learning together. Contact us for a customized quote based on your group’s needs.</p>
             </div>
 	  </div>
-	</section>
 
-        <!-- <section>
-            <h2>Frequently Asked Questions</h2>
-            <p>Here you can find answers to the most common questions.</p>
-            <!-- Add more content like FAQs, contact forms, etc. -->
-        <!-- </section>
-	<!-- Back to Homepage Link -->
-        <!--  <div class="back-to-home">
-        <!--  <a href="index.html">← Back to Homepage</a>
-        <!-- </div>  -->
+        </section>
     </main>
-      
+
+    <!-- Footer -->
     <footer>
-      <div id="footer"></div>
-      <script>
-        async function loadFooter() {
-            try {
-                const response = await fetch('../footer.html');
-                const data = await response.text();
-                document.getElementById("footer").innerHTML = data;
-            } catch (error) {
-                console.error('Error loading footer:', error);
+        <div id="footer"></div>
+        <script>
+            async function loadFooter() {
+                try {
+                    const response = await fetch('../footer.html');
+                    const data = await response.text();
+                    document.getElementById("footer").innerHTML = data;
+                } catch (error) {
+                    console.error('Error loading footer:', error);
+                }
             }
-        }
-        loadFooter();
-      </script>
+            loadFooter();
+        </script>
     </footer>
- <!-- Include the external JavaScript file for the modal -->
- <script src="../assets/js/help.js"></script>
- </body>
+
+    <!-- ✅ Use the same main JS as index.html for login system -->
+    <script src="/assets/js/scripts.js" defer></script>
+
+</body>
 </html>
