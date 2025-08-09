@@ -249,13 +249,20 @@ class PerformanceManager {
                 };
                 
                 document.head.appendChild(link);
+
+		// Convert preload to actual link after short delay
+		setTimeout(() => {
+		    if (document.head.contains(link) && resource.type === 'style') {
+			link.rel = 'stylesheet';
+		    } else if (document.head.contains(link) && resource.type === 'script') {
+			// Create actual script tag
+			const actualScript = document.createElement('script');
+			actualScript.src = resource.url;
+			document.head.appendChild(actualScript);
+			link.remove();
+		    }
+		}, 100);
                 
-                // Clean up after 10 seconds to prevent unused preload warnings
-                setTimeout(() => {
-                    if (document.head.contains(link)) {
-                        document.head.removeChild(link);
-                    }
-                }, 10000);
             });
         });
         
@@ -331,77 +338,134 @@ class ScriptLoader {
         this.loadingScripts = new Map();
         this.performanceManager = new PerformanceManager();
     }
-    
+
     async loadScript(src) {
-        // Return existing promise if script is already loading
-        if (this.loadingScripts.has(src)) {
-            return this.loadingScripts.get(src);
-        }
-        
-        // Return immediately if script is already loaded
-        if (this.loadedScripts.has(src)) {
-            return Promise.resolve();
-        }
-        
-        const loadPromise = AsyncWrapper.withRetry(async () => {
-            return AsyncWrapper.timeout(new Promise((resolve, reject) => {
-                this.performanceManager.mark(`script-load-start-${src}`);
-                
-                const script = document.createElement('script');
-                script.src = src;
-                script.async = false;
-                
-                script.onload = () => {
-                    this.loadedScripts.add(src);
-                    this.loadingScripts.delete(src);
-                    
-                    this.performanceManager.mark(`script-load-end-${src}`);
-                    const duration = this.performanceManager.measure(
-                        `script-load-${src}`,
-                        `script-load-start-${src}`,
-                        `script-load-end-${src}`
-                    );
-                    
-                    if (ENV_CONFIG.isDevelopment) {
-                        console.log(`📊 Script loaded in ${duration.toFixed(2)}ms: ${src}`);
-                    }
-                    resolve();
-                };
-                
-                script.onerror = () => {
-                    this.loadingScripts.delete(src);
-                    reject(new Error(`Failed to load script: ${src}`));
-                };
-                
-                document.head.appendChild(script);
-            }), 10000); // 10 second timeout
-        }, 2, 500); // Only 2 retries for scripts
-        
-        this.loadingScripts.set(src, loadPromise);
-        
-        try {
-            await loadPromise;
-        } catch (error) {
-            this.loadingScripts.delete(src);
-            throw error;
-        }
-        
-        return loadPromise;
+    // Return existing promise if script is already loading
+    if (this.loadingScripts.has(src)) {
+        return this.loadingScripts.get(src);
     }
     
+    // Return immediately if script is already loaded
+    if (this.loadedScripts.has(src)) {
+        return Promise.resolve();
+    }
+    
+    // Check if script already exists in DOM
+    const existingScript = document.querySelector(`script[src="${src}"]`);
+    if (existingScript) {
+        this.loadedScripts.add(src);
+        return Promise.resolve();
+    }
+    
+    const loadPromise = AsyncWrapper.withRetry(async () => {
+        return AsyncWrapper.timeout(new Promise((resolve, reject) => {
+            this.performanceManager.mark(`script-load-start-${src}`);
+            
+            // Remove any failed attempts first
+            const failedScripts = document.querySelectorAll(`script[src="${src}"]`);
+            failedScripts.forEach(s => s.remove());
+            
+            const script = document.createElement('script');
+            script.src = src;
+            script.async = false;
+            script.defer = false;
+            
+            script.onload = () => {
+                this.loadedScripts.add(src);
+                this.loadingScripts.delete(src);
+                
+                this.performanceManager.mark(`script-load-end-${src}`);
+                const duration = this.performanceManager.measure(
+                    `script-load-${src}`,
+                    `script-load-start-${src}`,
+                    `script-load-end-${src}`
+                );
+                
+                if (ENV_CONFIG.isDevelopment) {
+                    console.log(`📊 Script loaded in ${duration.toFixed(2)}ms: ${src}`);
+                }
+                resolve();
+            };
+            
+            script.onerror = () => {
+                this.loadingScripts.delete(src);
+                script.remove();
+                reject(new Error(`Failed to load script: ${src}`));
+            };
+            
+            document.head.appendChild(script);
+        }), 15000); // Increased timeout to 15 seconds
+    }, 3, 1000); // Increased to 3 retries with 1 second delay
+    
+    this.loadingScripts.set(src, loadPromise);
+    
+    try {
+        await loadPromise;
+    } catch (error) {
+        this.loadingScripts.delete(src);
+        throw error;
+    }
+    
+    return loadPromise;
+}
     async loadScriptsInOrder(scripts) {
-        for (const script of scripts) {
+    const results = [];
+    
+    for (const script of scripts) {
+        try {
+            await this.loadScript(script);
+            results.push({ script, loaded: true });
+        } catch (error) {
+            results.push({ script, loaded: false, error });
+            window.errorHandler?.logError('Script Loading Failed', error, { script });
+            
+            // Try alternative loading method
             try {
-                await this.loadScript(script);
-            } catch (error) {
-                window.errorHandler?.logError('Script Loading Failed', error, { script });
-                // Continue loading other scripts even if one fails
+                await this.forceLoadScript(script);
+                results[results.length - 1].loaded = true;
+            } catch (fallbackError) {
                 if (ENV_CONFIG.isDevelopment) {
                     console.warn(`⚠️ Failed to load ${script}, continuing with remaining scripts`);
                 }
             }
         }
     }
+    
+    return results;
+  }
+
+   async forceLoadScript(src) {
+    return new Promise((resolve, reject) => {
+        // Remove any existing failed script tags
+        const existingScripts = document.querySelectorAll(`script[src="${src}"]`);
+        existingScripts.forEach(script => script.remove());
+        
+        const script = document.createElement('script');
+        script.src = src;
+        script.async = false;
+        script.defer = false;
+        
+        const timeout = setTimeout(() => {
+            script.remove();
+            reject(new Error(`Force load timeout: ${src}`));
+        }, 15000);
+        
+        script.onload = () => {
+            clearTimeout(timeout);
+            this.loadedScripts.add(src);
+            this.loadingScripts.delete(src);
+            resolve();
+        };
+        
+        script.onerror = () => {
+            clearTimeout(timeout);
+            script.remove();
+            reject(new Error(`Force load failed: ${src}`));
+        };
+        
+        document.head.appendChild(script);
+    });
+} 
     
     preloadScript(src) {
         if (this.loadedScripts.has(src)) return;
