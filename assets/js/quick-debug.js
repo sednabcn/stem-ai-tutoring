@@ -895,3 +895,823 @@
     console.log('  - forceReloadAllScripts() - Force reload all scripts');
     
 })();
+// ====================================================================
+// SCRIPTLOADER DEPENDENCIES FIXER
+// Creates missing AsyncWrapper and ENV_CONFIG that ScriptLoader needs
+// ====================================================================
+
+(function() {
+    'use strict';
+    
+    // Create missing AsyncWrapper class
+    if (!window.AsyncWrapper) {
+        window.AsyncWrapper = {
+            async withRetry(fn, retries = 3, delay = 1000) {
+                for (let i = 0; i < retries; i++) {
+                    try {
+                        return await fn();
+                    } catch (error) {
+                        if (i === retries - 1) throw error;
+                        await new Promise(resolve => setTimeout(resolve, delay));
+                        console.log(`🔄 Retry ${i + 1}/${retries} for function`);
+                    }
+                }
+            },
+            
+            async timeout(promise, ms = 15000) {
+                return Promise.race([
+                    promise,
+                    new Promise((_, reject) => 
+                        setTimeout(() => reject(new Error(`Timeout after ${ms}ms`)), ms)
+                    )
+                ]);
+            }
+        };
+        console.log('✅ Created AsyncWrapper');
+    }
+    
+    // Create missing ENV_CONFIG
+    if (!window.ENV_CONFIG) {
+        window.ENV_CONFIG = {
+            isDevelopment: true // Enable development logging
+        };
+        console.log('✅ Created ENV_CONFIG');
+    }
+    
+    // Enhanced diagnostic function
+    window.enhancedDiagnostic = function() {
+        console.log('🔍 ENHANCED SESSIONLOADER DIAGNOSTIC');
+        console.log('=====================================');
+        
+        if (!window.sessionLoader) {
+            console.error('❌ SessionLoader not available');
+            return;
+        }
+        
+        // 1. Dependencies check
+        console.log('🔗 Dependencies Check:');
+        console.log('  AsyncWrapper:', !!window.AsyncWrapper);
+        console.log('  ENV_CONFIG:', !!window.ENV_CONFIG);
+        console.log('  PerformanceManager:', !!window.sessionLoader?.scriptLoader?.performanceManager);
+        
+        // 2. Basic info
+        console.log('\n📊 Basic Info:');
+        const debugInfo = window.sessionLoader.debugInfo ? window.sessionLoader.debugInfo() : null;
+        if (debugInfo) {
+            console.log('  Environment:', debugInfo.environment);
+            console.log('  Session:', debugInfo.session);
+            console.log('  Error Count:', debugInfo.errorCount);
+            console.log('  Profile Completion:', debugInfo.profileCompletion + '%');
+            console.log('  Loaded Scripts:', debugInfo.loadedScripts?.length || 0);
+        }
+        
+        // 3. Function analysis
+        console.log('\n🔧 Function Analysis:');
+        const allKeys = Object.keys(window.sessionLoader);
+        const functions = allKeys.filter(key => typeof window.sessionLoader[key] === 'function');
+        const objects = allKeys.filter(key => typeof window.sessionLoader[key] === 'object' && window.sessionLoader[key] !== null);
+        
+        console.log('  Total functions:', functions.length);
+        console.log('  Functions:', functions);
+        
+        // 4. ScriptLoader analysis
+        console.log('\n📜 ScriptLoader Status:');
+        if (window.sessionLoader.scriptLoader) {
+            const sl = window.sessionLoader.scriptLoader;
+            console.log('  ScriptLoader type:', sl.constructor.name);
+            console.log('  Loaded scripts count:', sl.loadedScripts?.size || 0);
+            console.log('  Loading scripts count:', sl.loadingScripts?.size || 0);
+            console.log('  Available methods:', Object.getOwnPropertyNames(Object.getPrototypeOf(sl))
+                .filter(name => typeof sl[name] === 'function' && name !== 'constructor'));
+        }
+        
+        // 5. Card analysis
+        console.log('\n🎴 Card Analysis:');
+        const globalCards = [];
+        for (let i = 1; i <= 10; i++) {
+            if (window[`Card${i}`]) globalCards.push(`Card${i}`);
+        }
+        console.log('  Global Cards:', globalCards.length ? globalCards : 'None found');
+        
+        console.log('\n=====================================');
+        return {
+            dependenciesOk: !!(window.AsyncWrapper && window.ENV_CONFIG),
+            functions: functions.length,
+            scriptLoaderWorking: !!(window.sessionLoader.scriptLoader?.loadScript),
+            globalCards: globalCards.length,
+            errorCount: debugInfo?.errorCount || 0
+        };
+    };
+    
+    // Fix ScriptLoader by recreating it with proper dependencies
+    window.fixScriptLoader = function() {
+        console.log('🔧 FIXING SCRIPTLOADER...');
+        
+        if (!window.sessionLoader) {
+            console.error('❌ SessionLoader not available');
+            return;
+        }
+        
+        // Ensure dependencies exist
+        if (!window.AsyncWrapper || !window.ENV_CONFIG) {
+            console.error('❌ Missing dependencies - run this script first to create them');
+            return;
+        }
+        
+        // Get current state
+        const currentLoader = window.sessionLoader.scriptLoader;
+        const loadedScripts = currentLoader?.loadedScripts || new Set();
+        const performanceManager = currentLoader?.performanceManager || window.sessionLoader.performanceManager;
+        
+        console.log('📊 Current state:');
+        console.log('  Loaded scripts:', loadedScripts.size);
+        console.log('  Performance manager:', !!performanceManager);
+        
+        // Create new ScriptLoader with original code
+        class FixedScriptLoader {
+            constructor() {
+                this.loadedScripts = loadedScripts; // Preserve existing state
+                this.loadingScripts = new Map();
+                this.performanceManager = performanceManager || { 
+                    mark: () => {}, 
+                    measure: () => 0 
+                };
+            }
+
+            async checkFileExists(url) {
+                try {
+                    const response = await fetch(url, { method: 'HEAD' });
+                    return response.ok;
+                } catch (error) {
+                    return false;
+                }
+            }
+            
+            async loadScript(src) {
+                // Return existing promise if script is already loading
+                if (this.loadingScripts.has(src)) {
+                    return this.loadingScripts.get(src);
+                }
+            
+                // Return immediately if script is already loaded
+                if (this.loadedScripts.has(src)) {
+                    return Promise.resolve();
+                }
+            
+                // Check if script already exists in DOM
+                const existingScript = document.querySelector(`script[src="${src}"]`);
+                if (existingScript) {
+                    this.loadedScripts.add(src);
+                    return Promise.resolve();
+                }
+            
+                const loadPromise = AsyncWrapper.withRetry(async () => {
+                    return AsyncWrapper.timeout(new Promise((resolve, reject) => {
+                        this.performanceManager.mark(`script-load-start-${src}`);
+                    
+                        // Remove any failed attempts first
+                        const failedScripts = document.querySelectorAll(`script[src="${src}"]`);
+                        failedScripts.forEach(s => s.remove());
+                    
+                        const script = document.createElement('script');
+                        script.src = src;
+                        script.async = false;
+                        script.defer = false;
+                    
+                        script.onload = () => {
+                            this.loadedScripts.add(src);
+                            this.loadingScripts.delete(src);
+                    
+                            this.performanceManager.mark(`script-load-end-${src}`);
+                            const duration = this.performanceManager.measure ? 
+                                this.performanceManager.measure(
+                                    `script-load-${src}`,
+                                    `script-load-start-${src}`,
+                                    `script-load-end-${src}`
+                                ) : 0;
+                    
+                            if (ENV_CONFIG.isDevelopment) {
+                                console.log(`📊 Script loaded in ${duration.toFixed(2)}ms: ${src}`);
+                            }
+                            resolve();
+                        };
+                    
+                        script.onerror = () => {
+                            this.loadingScripts.delete(src);
+                            script.remove();
+                            reject(new Error(`Failed to load script: ${src}`));
+                        };
+                    
+                        document.head.appendChild(script);
+                    }), 15000);
+                }, 3, 1000);
+            
+                this.loadingScripts.set(src, loadPromise);
+            
+                try {
+                    await loadPromise;
+                } catch (error) {
+                    this.loadingScripts.delete(src);
+                    throw error;
+                }
+            
+                return loadPromise;
+            }
+
+            async forceLoadScript(src) {
+                return new Promise((resolve, reject) => {
+                    // Remove any existing script tags
+                    const existingScripts = document.querySelectorAll(`script[src="${src}"]`);
+                    existingScripts.forEach(script => script.remove());
+                    
+                    const script = document.createElement('script');
+                    script.src = src;
+                    script.async = false;
+                    script.defer = false;
+                    
+                    const timeout = setTimeout(() => {
+                        script.remove();
+                        reject(new Error(`Force load timeout: ${src}`));
+                    }, 15000);
+                    
+                    script.onload = () => {
+                        clearTimeout(timeout);
+                        this.loadedScripts.add(src);
+                        this.loadingScripts.delete(src);
+                        console.log(`✅ Force loaded: ${src}`);
+                        resolve();
+                    };
+                    
+                    script.onerror = (event) => {
+                        clearTimeout(timeout);
+                        this.loadingScripts.delete(src);
+                        script.remove();
+                        reject(new Error(`Failed to force load script: ${src}`));
+                    };
+                    
+                    document.head.appendChild(script);
+                });
+            }
+        }
+        
+        // Replace the broken scriptLoader
+        window.sessionLoader.scriptLoader = new FixedScriptLoader();
+        console.log('✅ ScriptLoader fixed and replaced');
+        
+        return window.sessionLoader.scriptLoader;
+    };
+    
+    // Safe script loader that handles variable conflicts
+    window.loadScriptsSafely = async function() {
+        console.log('🛡️ LOADING SCRIPTS SAFELY (avoiding variable conflicts)...');
+        
+        const scripts = [
+            '../assets/js/tutor/card1.js',
+            '../assets/js/tutor/card2.js', 
+            '../assets/js/tutor/card3.js',
+            '../assets/js/tutor/card4.js',
+            '../assets/js/tutor/card5.js',
+            '../assets/js/tutor/card6.js',
+            '../assets/js/tutor/card7.js',
+            '../assets/js/tutor/card8.js',
+            '../assets/js/tutor/card9.js',
+            '../assets/js/onboarding-main.js'
+        ];
+        
+        // Load and modify each script to avoid variable conflicts
+        for (const src of scripts) {
+            try {
+                console.log(`📥 Fetching and modifying: ${src}`);
+                
+                // Fetch the script content
+                const response = await fetch(src);
+                if (!response.ok) {
+                    console.warn(`⚠️ Could not fetch ${src}: ${response.status}`);
+                    continue;
+                }
+                
+                let scriptContent = await response.text();
+                
+                // Modify variable declarations to be conditional
+                const variablePatterns = [
+                    'const card2_credentialsUploaded',
+                    'const card3_identityVerified', 
+                    'const card4_scheduleSet',
+                    'const studentsSearched',
+                    'const card6_resourcesUploaded',
+                    'const toolsExplored',
+                    'const analyticsActive', 
+                    'const crd9_premiumActive',
+                    'let card2_credentialsUploaded',
+                    'let card3_identityVerified',
+                    'let card4_scheduleSet',
+                    'let studentsSearched',
+                    'let card6_resourcesUploaded',
+                    'let toolsExplored',
+                    'let analyticsActive',
+                    'let crd9_premiumActive'
+                ];
+                
+                // Replace problematic declarations with safe ones
+                variablePatterns.forEach(pattern => {
+                    const varName = pattern.split(' ')[1];
+                    const safeDeclaration = `if (typeof ${varName} === 'undefined') { var ${varName}`;
+                    scriptContent = scriptContent.replace(new RegExp(pattern, 'g'), safeDeclaration);
+                });
+                
+                // Add closing braces for the conditional blocks
+                const varNames = [
+                    'card2_credentialsUploaded', 'card3_identityVerified', 'card4_scheduleSet',
+                    'studentsSearched', 'card6_resourcesUploaded', 'toolsExplored', 
+                    'analyticsActive', 'crd9_premiumActive'
+                ];
+                
+                varNames.forEach(varName => {
+                    if (scriptContent.includes(`if (typeof ${varName} === 'undefined')`)) {
+                        // Find the end of the variable declaration and add closing brace
+                        scriptContent = scriptContent.replace(
+                            new RegExp(`(if \\(typeof ${varName} === 'undefined'\\) \\{ var ${varName}[^;]*;)`, 'g'),
+                            '$1 }'
+                        );
+                    }
+                });
+                
+                // Execute the modified script
+                console.log(`🔄 Executing modified script: ${src}`);
+                eval(scriptContent);
+                
+                console.log(`✅ Successfully executed: ${src}`);
+                
+                // Check if Card object was created
+                if (src.includes('card') && !src.includes('onboarding')) {
+                    const cardNum = src.match(/card(\d+)/)?.[1];
+                    if (cardNum && window[`Card${cardNum}`]) {
+                        console.log(`🎯 Card${cardNum} object created!`);
+                    }
+                }
+                
+            } catch (error) {
+                console.error(`❌ Failed to load ${src}:`, error);
+            }
+        }
+        
+        console.log('🏁 Safe script loading complete!');
+    };
+    
+    // Nuclear option - complete page state reset
+    window.nuclearReset = function() {
+        console.log('💥 NUCLEAR RESET - Complete JavaScript environment cleanup');
+        
+        // Clear all card-related variables
+        const cardVars = [
+            'card2_credentialsUploaded', 'card3_identityVerified', 'card4_scheduleSet',
+            'studentsSearched', 'card6_resourcesUploaded', 'toolsExplored', 
+            'analyticsActive', 'crd9_premiumActive'
+        ];
+        
+        cardVars.forEach(varName => {
+            try {
+                delete window[varName];
+                console.log(`🗑️ Cleared: ${varName}`);
+            } catch(e) {
+                console.log(`⚠️ Cannot clear: ${varName} (const/let)`);
+            }
+        });
+        
+        // Clear Card objects
+        for(let i = 1; i <= 10; i++) {
+            try {
+                delete window[`Card${i}`];
+                console.log(`🗑️ Cleared: Card${i}`);
+            } catch(e) {
+                // Ignore
+            }
+        }
+        
+        // Remove all card script tags
+        document.querySelectorAll('script[src*="card"]').forEach(script => {
+            script.remove();
+            console.log(`🗑️ Removed script tag: ${script.src}`);
+        });
+        
+        // Clear SessionLoader's loaded scripts tracking
+        if (window.sessionLoader?.scriptLoader?.loadedScripts) {
+            window.sessionLoader.scriptLoader.loadedScripts.clear();
+            console.log('🗑️ Cleared SessionLoader tracking');
+        }
+        
+        console.log('💥 Nuclear reset complete - ready for fresh loading');
+    };
+    
+    console.log('🚀 ScriptLoader fixer loaded!');
+    console.log('📋 Available commands:');
+    console.log('  - enhancedDiagnostic() - Full diagnostic');
+    console.log('  - fixScriptLoader() - Fix broken ScriptLoader'); 
+    console.log('  - forceReloadAllScripts() - Force reload all scripts');
+    
+})();
+
+// ====================================================================
+// ENHANCED VARIABLE-SAFE SCRIPT LOADER
+// Handles const/let redeclaration conflicts when reloading scripts
+// ====================================================================
+
+(function() {
+    'use strict';
+    
+    // Create missing dependencies if needed
+    if (!window.AsyncWrapper) {
+        window.AsyncWrapper = {
+            async withRetry(fn, retries = 3, delay = 1000) {
+                for (let i = 0; i < retries; i++) {
+                    try {
+                        return await fn();
+                    } catch (error) {
+                        if (i === retries - 1) throw error;
+                        await new Promise(resolve => setTimeout(resolve, delay));
+                        console.log(`🔄 Retry ${i + 1}/${retries} for function`);
+                    }
+                }
+            },
+            
+            async timeout(promise, ms = 15000) {
+                return Promise.race([
+                    promise,
+                    new Promise((_, reject) => 
+                        setTimeout(() => reject(new Error(`Timeout after ${ms}ms`)), ms)
+                    )
+                ]);
+            }
+        };
+        console.log('✅ Created AsyncWrapper');
+    }
+    
+    if (!window.ENV_CONFIG) {
+        window.ENV_CONFIG = {
+            isDevelopment: true
+        };
+        console.log('✅ Created ENV_CONFIG');
+    }
+
+    // Enhanced diagnostic with better error detection
+    window.enhancedDiagnostic = function() {
+        console.log('🔍 ENHANCED SESSIONLOADER DIAGNOSTIC');
+        console.log('=====================================');
+        
+        if (!window.sessionLoader) {
+            console.error('❌ SessionLoader not available');
+            return;
+        }
+        
+        // 1. Dependencies check
+        console.log('🔗 Dependencies Check:');
+        console.log('  AsyncWrapper:', !!window.AsyncWrapper);
+        console.log('  ENV_CONFIG:', !!window.ENV_CONFIG);
+        console.log('  SessionLoader type:', window.sessionLoader.constructor.name);
+        
+        // 2. Script loading state
+        console.log('\n📜 Script Loading State:');
+        if (window.sessionLoader.scriptLoader) {
+            const sl = window.sessionLoader.scriptLoader;
+            console.log('  ScriptLoader available:', true);
+            console.log('  Loaded scripts:', sl.loadedScripts?.size || 0);
+            console.log('  Loading scripts:', sl.loadingScripts?.size || 0);
+            
+            if (sl.loadedScripts?.size > 0) {
+                console.log('  Loaded script list:', Array.from(sl.loadedScripts));
+            }
+        } else {
+            console.log('  ScriptLoader available:', false);
+        }
+        
+        // 3. Card object analysis
+        console.log('\n🎴 Card Object Analysis:');
+        const globalCards = [];
+        const cardFunctions = [];
+        
+        for (let i = 1; i <= 10; i++) {
+            const cardName = `Card${i}`;
+            if (window[cardName]) {
+                globalCards.push(cardName);
+                const methods = Object.getOwnPropertyNames(window[cardName])
+                    .filter(prop => typeof window[cardName][prop] === 'function');
+                if (methods.length > 0) {
+                    cardFunctions.push(`${cardName}: [${methods.join(', ')}]`);
+                }
+            }
+        }
+        
+        console.log('  Global Cards found:', globalCards.length ? globalCards : 'None');
+        if (cardFunctions.length > 0) {
+            console.log('  Card methods:');
+            cardFunctions.forEach(cf => console.log(`    ${cf}`));
+        }
+        
+        // 4. SessionLoader function analysis
+        console.log('\n🔧 SessionLoader Functions:');
+        const slKeys = Object.keys(window.sessionLoader);
+        const slFunctions = slKeys.filter(key => typeof window.sessionLoader[key] === 'function');
+        console.log('  Total functions:', slFunctions.length);
+        console.log('  Function names:', slFunctions);
+        
+        // 5. Error analysis
+        console.log('\n❌ Error Analysis:');
+        const debugInfo = window.sessionLoader.debugInfo ? window.sessionLoader.debugInfo() : null;
+        if (debugInfo) {
+            console.log('  Error count:', debugInfo.errorCount || 0);
+            if (debugInfo.errorCount > 0 && window.sessionLoader.getErrors) {
+                console.log('  Error details:', window.sessionLoader.getErrors());
+            }
+        }
+        
+        console.log('\n=====================================');
+        return {
+            scriptLoaderOk: !!window.sessionLoader.scriptLoader,
+            globalCards: globalCards.length,
+            sessionLoaderFunctions: slFunctions.length,
+            errorCount: debugInfo?.errorCount || 0
+        };
+    };
+
+    // Nuclear reset - completely clears everything
+    window.nuclearReset = function() {
+        console.log('💣 NUCLEAR RESET - Clearing everything...');
+        
+        // Clear all Card objects
+        for (let i = 1; i <= 10; i++) {
+            if (window[`Card${i}`]) {
+                delete window[`Card${i}`];
+                console.log(`🗑️ Cleared Card${i}`);
+            }
+        }
+        
+        // Clear SessionLoader script tracking
+        if (window.sessionLoader?.scriptLoader) {
+            window.sessionLoader.scriptLoader.loadedScripts?.clear();
+            window.sessionLoader.scriptLoader.loadingScripts?.clear();
+            console.log('🗑️ Cleared script loading state');
+        }
+        
+        // Remove all script tags
+        const scripts = document.querySelectorAll('script[src*="card"], script[src*="onboarding"]');
+        scripts.forEach((script, index) => {
+            script.remove();
+            console.log(`🗑️ Removed script ${index + 1}: ${script.src}`);
+        });
+        
+        // Clear any cached variables that might conflict
+        const potentialVars = ['tutorSignup', 'uploadArea', 'verificationContainer'];
+        potentialVars.forEach(varName => {
+            if (window[varName]) {
+                delete window[varName];
+                console.log(`🗑️ Cleared global variable: ${varName}`);
+            }
+        });
+        
+        console.log('💥 Nuclear reset complete!');
+    };
+
+    // Safe script loader that handles variable conflicts
+    window.loadScriptsSafely = async function() {
+        console.log('🛡️ LOADING SCRIPTS SAFELY (avoiding variable conflicts)...');
+        
+        const scripts = [
+            '../assets/js/tutor/card1.js',
+            '../assets/js/tutor/card2.js',
+            '../assets/js/tutor/card3.js',
+            '../assets/js/tutor/card4.js',
+            '../assets/js/tutor/card5.js',
+            '../assets/js/tutor/card6.js',
+            '../assets/js/tutor/card7.js',
+            '../assets/js/tutor/card8.js',
+            '../assets/js/tutor/card9.js',
+            '../assets/js/onboarding-main.js'
+        ];
+        
+        let successCount = 0;
+        let errorCount = 0;
+        
+        for (const scriptPath of scripts) {
+            try {
+                console.log(`📥 Fetching: ${scriptPath}`);
+                
+                // Fetch script content
+                const response = await fetch(scriptPath + '?v=' + Date.now());
+                if (!response.ok) {
+                    throw new Error(`HTTP ${response.status}: ${response.statusText}`);
+                }
+                
+                let scriptContent = await response.text();
+                console.log(`📝 Fetched ${scriptContent.length} characters from ${scriptPath}`);
+                
+                // Make variable declarations safe by making them conditional
+                scriptContent = scriptContent
+                    // Convert const declarations to conditional assignments
+                    .replace(/^(\s*)const\s+(\w+)\s*=/gm, '$1if (typeof $2 === "undefined") var $2; $2 =')
+                    // Convert let declarations to conditional assignments  
+                    .replace(/^(\s*)let\s+(\w+)\s*=/gm, '$1if (typeof $2 === "undefined") var $2; $2 =')
+                    // Handle object destructuring
+                    .replace(/^(\s*)const\s*\{([^}]+)\}\s*=/gm, (match, indent, vars) => {
+                        const varNames = vars.split(',').map(v => v.trim().split(':')[0].trim());
+                        const declarations = varNames.map(v => `if (typeof ${v} === "undefined") var ${v};`).join(' ');
+                        return `${indent}${declarations} {${vars}} =`;
+                    });
+                
+                // Add script identification comment
+                scriptContent = `// SAFELY LOADED: ${scriptPath}\n${scriptContent}`;
+                
+                // Execute the modified script
+                console.log(`⚡ Executing modified script: ${scriptPath}`);
+                eval(scriptContent);
+                
+                // Check if Card object was created (for card scripts)
+                const cardMatch = scriptPath.match(/card(\d+)\.js/);
+                if (cardMatch) {
+                    const cardNum = cardMatch[1];
+                    const cardName = `Card${cardNum}`;
+                    if (window[cardName]) {
+                        console.log(`🎯 ${cardName} object created successfully!`);
+                        
+                        // Test basic functionality
+                        if (typeof window[cardName].init === 'function') {
+                            console.log(`  ✅ ${cardName}.init() available`);
+                        }
+                        if (typeof window[cardName].show === 'function') {
+                            console.log(`  ✅ ${cardName}.show() available`);
+                        }
+                    } else {
+                        console.log(`⚠️ ${cardName} object not found after execution`);
+                    }
+                }
+                
+                successCount++;
+                console.log(`✅ Successfully loaded: ${scriptPath}`);
+                
+                // Small delay between scripts
+                await new Promise(resolve => setTimeout(resolve, 100));
+                
+            } catch (error) {
+                errorCount++;
+                console.error(`❌ Failed to load ${scriptPath}:`, error.message);
+                console.error('Full error:', error);
+            }
+        }
+        
+        console.log(`\n📊 LOADING SUMMARY:`);
+        console.log(`  ✅ Successful: ${successCount}/${scripts.length}`);
+        console.log(`  ❌ Failed: ${errorCount}/${scripts.length}`);
+        
+        // Update SessionLoader state if available
+        if (window.sessionLoader?.scriptLoader) {
+            scripts.forEach(script => {
+                if (successCount > 0) {
+                    window.sessionLoader.scriptLoader.loadedScripts?.add(script);
+                }
+            });
+        }
+        
+        return { successCount, errorCount, totalScripts: scripts.length };
+    };
+
+    // Fix SessionLoader with enhanced error handling
+    window.fixSessionLoader = function() {
+        console.log('🔧 FIXING SESSIONLOADER...');
+        
+        if (!window.sessionLoader) {
+            console.error('❌ SessionLoader not available');
+            return false;
+        }
+        
+        // Create enhanced ScriptLoader
+        class EnhancedScriptLoader {
+            constructor() {
+                this.loadedScripts = new Set();
+                this.loadingScripts = new Map();
+                this.performanceManager = window.sessionLoader.performanceManager || { 
+                    mark: () => {}, 
+                    measure: () => 0 
+                };
+            }
+
+            async loadScript(src) {
+                if (this.loadingScripts.has(src)) {
+                    return this.loadingScripts.get(src);
+                }
+                
+                if (this.loadedScripts.has(src)) {
+                    return Promise.resolve();
+                }
+                
+                const loadPromise = this.createLoadPromise(src);
+                this.loadingScripts.set(src, loadPromise);
+                
+                try {
+                    await loadPromise;
+                    this.loadedScripts.add(src);
+                } catch (error) {
+                    console.error(`Failed to load ${src}:`, error);
+                } finally {
+                    this.loadingScripts.delete(src);
+                }
+                
+                return loadPromise;
+            }
+            
+            createLoadPromise(src) {
+                return new Promise((resolve, reject) => {
+                    // Remove existing failed attempts
+                    const existing = document.querySelector(`script[src="${src}"]`);
+                    if (existing) existing.remove();
+                    
+                    const script = document.createElement('script');
+                    script.src = src;
+                    script.async = false;
+                    script.defer = false;
+                    
+                    const timeout = setTimeout(() => {
+                        script.remove();
+                        reject(new Error(`Timeout loading: ${src}`));
+                    }, 15000);
+                    
+                    script.onload = () => {
+                        clearTimeout(timeout);
+                        console.log(`✅ Loaded: ${src}`);
+                        resolve();
+                    };
+                    
+                    script.onerror = () => {
+                        clearTimeout(timeout);
+                        script.remove();
+                        reject(new Error(`Failed to load: ${src}`));
+                    };
+                    
+                    document.head.appendChild(script);
+                });
+            }
+        }
+        
+        window.sessionLoader.scriptLoader = new EnhancedScriptLoader();
+        console.log('✅ SessionLoader fixed with enhanced script loader');
+        return true;
+    };
+
+    // Complete system test
+    window.completeSystemTest = async function() {
+        console.log('🧪 RUNNING COMPLETE SYSTEM TEST...');
+        
+        // 1. Nuclear reset
+        console.log('\n1️⃣ Nuclear Reset:');
+        nuclearReset();
+        
+        // 2. Fix SessionLoader
+        console.log('\n2️⃣ Fix SessionLoader:');
+        const fixResult = fixSessionLoader();
+        if (!fixResult) {
+            console.error('❌ Cannot proceed - SessionLoader fix failed');
+            return;
+        }
+        
+        // 3. Load scripts safely
+        console.log('\n3️⃣ Load Scripts Safely:');
+        const loadResult = await loadScriptsSafely();
+        
+        // 4. Run diagnostic
+        console.log('\n4️⃣ Final Diagnostic:');
+        const diagnosticResult = enhancedDiagnostic();
+        
+        // 5. Summary
+        console.log('\n🏁 COMPLETE SYSTEM TEST SUMMARY:');
+        console.log('=====================================');
+        console.log(`Scripts loaded: ${loadResult.successCount}/${loadResult.totalScripts}`);
+        console.log(`Global Cards found: ${diagnosticResult.globalCards}`);
+        console.log(`SessionLoader functions: ${diagnosticResult.sessionLoaderFunctions}`);
+        console.log(`Error count: ${diagnosticResult.errorCount}`);
+        
+        const overallSuccess = loadResult.successCount > 0 && diagnosticResult.globalCards > 0;
+        console.log(`Overall result: ${overallSuccess ? '✅ SUCCESS' : '❌ NEEDS MORE WORK'}`);
+        
+        return {
+            success: overallSuccess,
+            scriptsLoaded: loadResult.successCount,
+            cardsFound: diagnosticResult.globalCards,
+            errors: loadResult.errorCount + diagnosticResult.errorCount
+        };
+    };
+
+    console.log('🚀 Enhanced Variable-Safe Script Loader ready!');
+    console.log('📋 Available commands:');
+    console.log('  - enhancedDiagnostic() - Full system diagnostic');
+    console.log('  - nuclearReset() - Clear everything and start fresh');
+    console.log('  - loadScriptsSafely() - Load scripts avoiding variable conflicts');
+    console.log('  - fixSessionLoader() - Fix/recreate SessionLoader');
+    console.log('  - completeSystemTest() - Run full test sequence');
+    
+    console.log('\n🎯 RECOMMENDED SEQUENCE:');
+    console.log('1. completeSystemTest() // Runs everything automatically');
+    console.log('   OR manually:');
+    console.log('2. nuclearReset()');
+    console.log('3. fixSessionLoader()'); 
+    console.log('4. loadScriptsSafely()');
+    console.log('5. enhancedDiagnostic()');
+
+})();
