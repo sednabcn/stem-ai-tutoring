@@ -964,9 +964,8 @@ class SessionLoader {
 	try {
             // List of essential resources to preload
             const criticalResources = [
-		{ url: `${ENV_CONFIG.baseURL}/assets/css/dashboard.css`, type: 'style' },
-		{ url: `${ENV_CONFIG.baseURL}/assets/css/onboarding.css`, type: 'style' },
-		{ url: `${ENV_CONFIG.baseURL}/assets/js/utils/common-utils.js`, type: 'script' }
+		{ url: `${ENV_CONFIG.baseURL}/assets/css/mathtutor.css`, type: 'style' },
+		{ url: `${ENV_CONFIG.baseURL}/assets/js/tutor-dashboard.js`, type: 'script' }
             ];
 	    
             await this.performanceManager.preloadResources(criticalResources);
