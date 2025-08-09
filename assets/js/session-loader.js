@@ -1,7 +1,5 @@
-console.log('🔍 1. session-loader.js file starting to execute...');
-try {
 // session-loader.js - Enhanced Version with Fixed Session Management
-console.log('🔍 2. About to define ENV_CONFIG...');
+
 // ========================================
 // ENVIRONMENT CONFIGURATION
 // ========================================
@@ -17,14 +15,18 @@ const ENV_CONFIG = {
     },
     
     get baseURL() {
-        return '.';
+        switch (this.current) {
+            case 'development': return '';
+            case 'github': return window.location.pathname.split('/').slice(0, -1).join('/');
+            case 'production': return '';
+            default: return '';
+        }
     }
 };
-console.log('🔍 3. ENV_CONFIG defined successfully');
+
 // ========================================
 // ENHANCED ERROR HANDLING SYSTEM
 // ========================================
-console.log('🔍 4. About to define ErrorHandler...');    
 class ErrorHandler {
     constructor() {
         this.errors = [];
@@ -141,7 +143,7 @@ class ErrorHandler {
         return summary;
     }
 }
-console.log('🔍 5. End to define ErrorHandler...');
+
 // ========================================
 // ENHANCED PERFORMANCE MANAGER
 // ========================================
@@ -247,20 +249,13 @@ class PerformanceManager {
                 };
                 
                 document.head.appendChild(link);
-
-		// Convert preload to actual link after short delay
-		setTimeout(() => {
-		    if (document.head.contains(link) && resource.type === 'style') {
-			link.rel = 'stylesheet';
-		    } else if (document.head.contains(link) && resource.type === 'script') {
-			// Create actual script tag
-			const actualScript = document.createElement('script');
-			actualScript.src = resource.url;
-			document.head.appendChild(actualScript);
-			link.remove();
-		    }
-		}, 100);
                 
+                // Clean up after 10 seconds to prevent unused preload warnings
+                setTimeout(() => {
+                    if (document.head.contains(link)) {
+                        document.head.removeChild(link);
+                    }
+                }, 10000);
             });
         });
         
@@ -291,7 +286,6 @@ class PerformanceManager {
     }
 }
 
-console.log('🔍 6. End Perf to define ErrorHandler...');
 // ========================================
 // ENHANCED ASYNC UTILITIES
 // ========================================
@@ -327,7 +321,7 @@ class AsyncWrapper {
         ]);
     }
 }
-console.log('🔍 7. End timeout to define ErrorHandler...');
+
 // ========================================
 // ENHANCED SCRIPT LOADER MODULE
 // ========================================
@@ -337,164 +331,77 @@ class ScriptLoader {
         this.loadingScripts = new Map();
         this.performanceManager = new PerformanceManager();
     }
-
-    async checkFileExists(url) {
-    try {
-        const response = await fetch(url, { method: 'HEAD' });
-        return response.ok;
-    } catch (error) {
-        return false;
-    }
-}
+    
     async loadScript(src) {
-	// Return existing promise if script is already loading
-	if (this.loadingScripts.has(src)) {
+        // Return existing promise if script is already loading
+        if (this.loadingScripts.has(src)) {
             return this.loadingScripts.get(src);
-	}
-    
-	// Return immediately if script is already loaded
-	if (this.loadedScripts.has(src)) {
+        }
+        
+        // Return immediately if script is already loaded
+        if (this.loadedScripts.has(src)) {
             return Promise.resolve();
-	}
-    
-	// Check if script already exists in DOM
-	const existingScript = document.querySelector(`script[src="${src}"]`);
-	if (existingScript) {
-            this.loadedScripts.add(src);
-            return Promise.resolve();
-	}
-    
-	const loadPromise = AsyncWrapper.withRetry(async () => {
+        }
+        
+        const loadPromise = AsyncWrapper.withRetry(async () => {
             return AsyncWrapper.timeout(new Promise((resolve, reject) => {
-		this.performanceManager.mark(`script-load-start-${src}`);
-            
-            // Remove any failed attempts first
-            const failedScripts = document.querySelectorAll(`script[src="${src}"]`);
-            failedScripts.forEach(s => s.remove());
-            
-            const script = document.createElement('script');
-            script.src = src;
-            script.async = false;
-            script.defer = false;
-            
-            script.onload = () => {
-                this.loadedScripts.add(src);
-                this.loadingScripts.delete(src);
+                this.performanceManager.mark(`script-load-start-${src}`);
                 
-                this.performanceManager.mark(`script-load-end-${src}`);
-                const duration = this.performanceManager.measure(
-                    `script-load-${src}`,
-                    `script-load-start-${src}`,
-                    `script-load-end-${src}`
-                );
+                const script = document.createElement('script');
+                script.src = src;
+                script.async = false;
                 
-                if (ENV_CONFIG.isDevelopment) {
-                    console.log(`📊 Script loaded in ${duration.toFixed(2)}ms: ${src}`);
-                }
-                resolve();
-            };
-            
-            script.onerror = () => {
-                this.loadingScripts.delete(src);
-                script.remove();
-                reject(new Error(`Failed to load script: ${src}`));
-            };
-            
-            document.head.appendChild(script);
-        }), 15000); // Increased timeout to 15 seconds
-    }, 3, 1000); // Increased to 3 retries with 1 second delay
-    
-    this.loadingScripts.set(src, loadPromise);
-    
-    try {
-        await loadPromise;
-    } catch (error) {
-        this.loadingScripts.delete(src);
-        throw error;
+                script.onload = () => {
+                    this.loadedScripts.add(src);
+                    this.loadingScripts.delete(src);
+                    
+                    this.performanceManager.mark(`script-load-end-${src}`);
+                    const duration = this.performanceManager.measure(
+                        `script-load-${src}`,
+                        `script-load-start-${src}`,
+                        `script-load-end-${src}`
+                    );
+                    
+                    if (ENV_CONFIG.isDevelopment) {
+                        console.log(`📊 Script loaded in ${duration.toFixed(2)}ms: ${src}`);
+                    }
+                    resolve();
+                };
+                
+                script.onerror = () => {
+                    this.loadingScripts.delete(src);
+                    reject(new Error(`Failed to load script: ${src}`));
+                };
+                
+                document.head.appendChild(script);
+            }), 10000); // 10 second timeout
+        }, 2, 500); // Only 2 retries for scripts
+        
+        this.loadingScripts.set(src, loadPromise);
+        
+        try {
+            await loadPromise;
+        } catch (error) {
+            this.loadingScripts.delete(src);
+            throw error;
+        }
+        
+        return loadPromise;
     }
     
-    return loadPromise;
-}
-
-   async loadScriptsInOrder(scripts) {
-    const results = [];
-    
-    for (const script of scripts) {
-        try {
-            await this.loadScript(script);
-            results.push({ script, loaded: true });
-        } catch (error) {
-            results.push({ script, loaded: false, error });
-            
-            // Don't retry 404 errors
-            const is404 = error.message && (
-                error.message.includes('404') || 
-                error.message.includes('Not Found') ||
-                error.message.includes('ERR_ABORTED')
-            );
-            
-            if (is404) {
-                if (ENV_CONFIG.isDevelopment) {
-                    console.warn(`⚠️ Script not found (404): ${script} - skipping retries`);
-                }
-                continue;
-            }
-            
-            // Only try alternative loading for non-404 errors
-            window.errorHandler?.logError('Script Loading Failed', error, { script });
-            
+    async loadScriptsInOrder(scripts) {
+        for (const script of scripts) {
             try {
-                await this.forceLoadScript(script);
-                results[results.length - 1].loaded = true;
-            } catch (fallbackError) {
+                await this.loadScript(script);
+            } catch (error) {
+                window.errorHandler?.logError('Script Loading Failed', error, { script });
+                // Continue loading other scripts even if one fails
                 if (ENV_CONFIG.isDevelopment) {
                     console.warn(`⚠️ Failed to load ${script}, continuing with remaining scripts`);
                 }
             }
         }
     }
-    
-    return results;
-}
- 
-   async forceLoadScript(src) {
-    return new Promise((resolve, reject) => {
-        // Remove any existing failed script tags
-        const existingScripts = document.querySelectorAll(`script[src="${src}"]`);
-        existingScripts.forEach(script => script.remove());
-        
-        const script = document.createElement('script');
-        script.src = src;
-        script.async = false;
-        script.defer = false;
-        
-        const timeout = setTimeout(() => {
-            script.remove();
-            reject(new Error(`Force load timeout: ${src}`));
-        }, 15000);
-        
-        script.onload = () => {
-            clearTimeout(timeout);
-            this.loadedScripts.add(src);
-            this.loadingScripts.delete(src);
-            resolve();
-        };
-	script.onerror = (event) => {
-	    this.loadingScripts.delete(src);
-	    script.remove();
-    
-	    // Detect 404 errors to prevent retries
-	    const error = new Error(`Failed to load script: ${src}`);
-	    if (event && event.target && event.target.src) {
-		error.message = `ERR_ABORTED: Failed to load script: ${src}`;
-	    }
-    
-	    reject(error);
-	};
-	
-        document.head.appendChild(script);
-    });
-} 
     
     preloadScript(src) {
         if (this.loadedScripts.has(src)) return;
@@ -506,7 +413,6 @@ class ScriptLoader {
         document.head.appendChild(link);
     }
 }
-console.log('🔍 8. End script...');
 
 // ========================================
 // NOTIFICATION CENTER MODULE
@@ -610,7 +516,6 @@ class NotificationCenter {
     }
 }
 
-console.log('🔍 9. End Notification to define ErrorHandler...');
 // ========================================
 // MODAL MANAGER MODULE
 // ========================================
@@ -666,7 +571,7 @@ class ModalManager {
         this.activeModals.forEach(modalId => this.closeModal(modalId));
     }
 }
-console.log('🔍 10. End Modal to define ErrorHandler...');
+
 // ========================================
 // FORUM SYSTEM MODULE
 // ========================================
@@ -699,7 +604,6 @@ class ForumSystem {
     }
 }
 
-console.log('🔍 11. End Forum to define ErrorHandler...');
 // ========================================
 // SESSION MANAGER CORE
 // ========================================
@@ -923,19 +827,15 @@ class SessionManager {
         }
     }
 }
-console.log('🔍 12. End Manager to define ErrorHandler...');
+
 // ========================================
 // MAIN SESSION LOADER CLASS
 // ========================================
 class SessionLoader {
     constructor() {
-	 // FIX: Set global references FIRST
-        window.errorHandler = new ErrorHandler();
-        window.performanceManager = new PerformanceManager();
-
-	// Initialize core systems
-        this.errorHandler = window.errorHandler;
-        this.performanceManager = window.performanceManager;
+        // Initialize core systems
+        this.errorHandler = new ErrorHandler();
+        this.performanceManager = new PerformanceManager();
         this.scriptLoader = new ScriptLoader();
         this.modalManager = new ModalManager();
         this.sessionManager = new SessionManager();
@@ -946,81 +846,9 @@ class SessionLoader {
         
         // Initialization flag
         this.initialized = false;
-
-	// FIX: Bind global functions IMMEDIATELY
-        this.bindGlobalFunctions();
-
+        
         this.init();
     }
-
-    // FIX 3: Move bindGlobalFunctions to run immediately, not after async operations
-    bindGlobalFunctions() {
-        // Core navigation functions
-        window.goHome = () => this.sessionManager.switchSession('home');
-        window.backToHome = () => this.sessionManager.switchSession('home');
-        window.showModal = (modalId) => this.modalManager.openModal(modalId);
-        window.hideModal = (modalId) => this.modalManager.closeModal(modalId);
-        window.closeModal = (modalId) => this.modalManager.closeModal(modalId);
-        
-        // FIX: Add missing critical functions
-        window.showDashboard = (section = 'overview') => {
-            this.sessionManager.switchSession('dashboard');
-            if (section !== 'overview') {
-                setTimeout(() => this.switchTab(section), 100);
-            }
-        };
-        
-        window.showOnboarding = () => {
-            this.sessionManager.switchSession('onboard');
-        };
-        
-        // Dashboard section navigation
-        window.showOverview = () => this.showDashboardSection('overview');
-        window.showSessions = () => this.showDashboardSection('sessions');
-        window.showStudents = () => this.showDashboardSection('students');
-        window.showMessages = () => this.showDashboardSection('messages');
-        window.showEarnings = () => this.showDashboardSection('earnings');
-        window.showSchedule = () => this.showDashboardSection('schedule');
-        window.showProfile = () => this.showDashboardSection('profile');
-        window.showSettings = () => this.showDashboardSection('settings');
-        
-        // Tutor functions
-        window.verifyTutor = () => this.sessionManager.verifyTutor();
-        window.switchTab = (tabName) => this.switchTab(tabName);
-        window.filterSessions = (filter) => this.filterSessions(filter);
-        
-        // Top-nav functions
-        window.toggleNotificationPanel = () => {
-            if (this.notificationCenter) {
-                this.notificationCenter.togglePanel();
-            }
-        };
-        
-        window.toggleAvatarMenu = (event) => {
-            event?.stopPropagation();
-            const menu = document.getElementById('avatarMenu');
-            if (menu) menu.classList.toggle('show');
-        };
-        
-        // Enhanced onboarding functions
-        window.signAgreement = () => this.signAgreement();
-        window.downloadAgreement = () => this.downloadAgreement();
-        window.viewAgreementPreview = () => this.viewAgreementPreview();
-        window.submitAgreement = () => this.submitAgreement();
-        window.proceedToInterview = () => this.proceedToInterview();
-        window.submitInterview = () => this.submitInterview();
-        window.uploadDocuments = () => this.uploadDocuments();
-        window.startVideoVerification = () => this.startVideoVerification();
-        window.setSchedule = () => this.setSchedule();
-        window.browseStudents = () => this.browseStudents();
-        window.uploadResources = () => this.uploadResources();
-        window.exploreTool = () => this.exploreTool();
-        window.viewAnalytics = () => this.viewAnalytics();
-        window.upgradePremium = () => this.upgradePremium();
-        
-        console.log('🔗 Global functions bound successfully');
-    } 
-
     
     async init() {
         if (this.initialized) return;
@@ -1214,8 +1042,9 @@ class SessionLoader {
             this.errorHandler.logError('Session Script Loading Failed', error, { currentSession });
         }
     }
+    
     async loadOnboardScripts() {
-	const potentialScripts = [
+        const onboardScripts = [
             `${ENV_CONFIG.baseURL}/assets/js/tutor/card1.js`,
             `${ENV_CONFIG.baseURL}/assets/js/tutor/card2.js`,
             `${ENV_CONFIG.baseURL}/assets/js/tutor/card3.js`,
@@ -1226,43 +1055,11 @@ class SessionLoader {
             `${ENV_CONFIG.baseURL}/assets/js/tutor/card8.js`,
             `${ENV_CONFIG.baseURL}/assets/js/tutor/card9.js`,
             `${ENV_CONFIG.baseURL}/assets/js/onboarding-main.js`
-	];
-    
-	// Filter out non-existent files
-	const existingScripts = [];
-	for (const script of potentialScripts) {
-            const exists = await this.scriptLoader.checkFileExists(script);
-            if (exists) {
-		existingScripts.push(script);
-            } else if (ENV_CONFIG.isDevelopment) {
-		console.warn(`⚠️ Skipping non-existent script: ${script}`);
-            }
-	}
-    
-	if (existingScripts.length > 0) {
-            await this.scriptLoader.loadScriptsInOrder(existingScripts);
-	} else {
-            console.log('ℹ️ No onboarding scripts found, using fallback initialization');
-            this.initializeFallbackOnboarding();
-	}
+        ];
+        
+        await this.scriptLoader.loadScriptsInOrder(onboardScripts);
     }
-
-    initializeFallbackOnboarding() {
-    console.log('🔄 Initializing fallback onboarding system...');
     
-    // Create minimal onboarding functionality
-    if (!window.onboardingSystem) {
-        window.onboardingSystem = {
-            initialized: true,
-            fallback: true,
-            completeCard: (cardNumber) => {
-                console.log(`✅ Card ${cardNumber} marked as complete (fallback)`);
-                this.sessionManager.tutorData.completedCards[`card${cardNumber}`] = true;
-                this.updateProfileCompletion();
-            }
-        };
-    }
-}
     async loadDashboardScripts() {
         const dashboardScripts = [
             `${ENV_CONFIG.baseURL}/assets/js/tutor-dashboard.js`
@@ -1333,6 +1130,73 @@ class SessionLoader {
         console.log('🎯 Initializing dashboard section:', section.id);
     }
     
+    bindGlobalFunctions() {
+        // Core navigation functions
+        window.goHome = () => this.sessionManager.switchSession('home');
+        window.backToHome = () => this.sessionManager.switchSession('home');
+        window.showModal = (modalId) => this.modalManager.openModal(modalId);
+        window.hideModal = (modalId) => this.modalManager.closeModal(modalId);
+        window.closeModal = (modalId) => this.modalManager.closeModal(modalId);
+        
+        // MISSING FUNCTION - Add showDashboard
+        window.showDashboard = (section = 'overview') => {
+            this.sessionManager.switchSession('dashboard');
+            if (section !== 'overview') {
+                setTimeout(() => this.switchTab(section), 100);
+            }
+        };
+        
+        // MISSING FUNCTION - Add showOnboarding
+        window.showOnboarding = () => {
+            this.sessionManager.switchSession('onboard');
+        };
+        
+        // Dashboard section navigation
+        window.showOverview = () => this.showDashboardSection('overview');
+        window.showSessions = () => this.showDashboardSection('sessions');
+        window.showStudents = () => this.showDashboardSection('students');
+        window.showMessages = () => this.showDashboardSection('messages');
+        window.showEarnings = () => this.showDashboardSection('earnings');
+        window.showSchedule = () => this.showDashboardSection('schedule');
+        window.showProfile = () => this.showDashboardSection('profile');
+        window.showSettings = () => this.showDashboardSection('settings');
+        
+        // Tutor functions
+        window.verifyTutor = () => this.sessionManager.verifyTutor();
+        window.switchTab = (tabName) => this.switchTab(tabName);
+        window.filterSessions = (filter) => this.filterSessions(filter);
+        
+        // Top-nav functions
+        window.toggleNotificationPanel = () => {
+            if (this.notificationCenter) {
+                this.notificationCenter.togglePanel();
+            }
+        };
+        
+        window.toggleAvatarMenu = (event) => {
+            event?.stopPropagation();
+            const menu = document.getElementById('avatarMenu');
+            if (menu) menu.classList.toggle('show');
+        };
+        
+        // Enhanced onboarding functions
+        window.signAgreement = () => this.signAgreement();
+        window.downloadAgreement = () => this.downloadAgreement();
+        window.viewAgreementPreview = () => this.viewAgreementPreview();
+        window.submitAgreement = () => this.submitAgreement();
+        window.proceedToInterview = () => this.proceedToInterview();
+        window.submitInterview = () => this.submitInterview();
+        window.uploadDocuments = () => this.uploadDocuments();
+        window.startVideoVerification = () => this.startVideoVerification();
+        window.setSchedule = () => this.setSchedule();
+        window.browseStudents = () => this.browseStudents();
+        window.uploadResources = () => this.uploadResources();
+        window.exploreTool = () => this.exploreTool();
+        window.viewAnalytics = () => this.viewAnalytics();
+        window.upgradePremium = () => this.upgradePremium();
+        
+        console.log('🔗 Global functions bound successfully');
+    }
     
     // ========================================
     // DASHBOARD FUNCTIONS
@@ -1537,7 +1401,7 @@ class SessionLoader {
         }, 1000);
     }
 }
-    console.log('🔍 14. About to DebUG...');
+    
     // ========================================
     // DEBUG AND UTILITIES
     // ========================================
@@ -1571,66 +1435,59 @@ class SessionLoader {
         return report;
     }
 }
-console.log('🔍 15. About INITIALIZATION..');
+
 // ========================================
 // INITIALIZATION
 // ========================================
- try {
-    console.log(`🌟 Initializing in ${ENV_CONFIG.current} environment...`);
-    
-    // Initialize immediately, not after DOM load
-    window.sessionLoader = new SessionLoader();
-    
-    if (ENV_CONFIG.isDevelopment) {
-        window.ENV_CONFIG = ENV_CONFIG;
-        window.AsyncWrapper = AsyncWrapper;
-        
-        console.log('🛠️ Development mode utilities available:');
-        console.log('  - window.sessionLoader.debugInfo()');
-        console.log('  - window.sessionLoader.getPerformanceReport()');
-        console.log('  - window.verifyTutor()');
-        console.log('  - window.showDashboard()');
-        
-        setTimeout(() => {
-            console.log('🔍 Running auto-diagnostics...');
-            const debugInfo = window.sessionLoader.debugInfo();
-            
-            if (debugInfo.errorCount > 0) {
-                console.warn(`⚠️ ${debugInfo.errorCount} errors detected.`);
-            }
-            
-            console.log('✅ Auto-diagnostics complete');
-        }, 2000);
-    }
-    
-    console.log('🎉 SessionLoader fully initialized and ready!');
-    
-} catch (error) {
-    console.error('❌ Failed to initialize SessionLoader:', error);
-    
-    console.log('🔄 Attempting fallback initialization...');
-    window.sessionLoader = {
-        error: error,
-        fallback: true,
-        debugInfo: () => ({ error: 'Initialization failed', fallbackMode: true }),
-        showDashboard: (section) => {
-            console.log('Fallback: showDashboard called with section:', section);
-            alert('Dashboard functionality is currently unavailable. Please refresh the page.');
-        }
-    };
-    
-    window.showDashboard = window.sessionLoader.showDashboard;
-}
 
-// FIX 5: Add DOM ready state check for safe initialization
-if (document.readyState === 'loading') {
-    document.addEventListener('DOMContentLoaded', () => {
-        console.log('📄 DOM loaded, SessionLoader already initialized');
-    });
-} else {
-    console.log('📄 DOM already loaded, continuing with SessionLoader');
-}
-    
+document.addEventListener('DOMContentLoaded', async () => {
+    try {
+        console.log(`🌟 Initializing in ${ENV_CONFIG.current} environment...`);
+        
+        window.errorHandler = new ErrorHandler();
+        window.sessionLoader = new SessionLoader();
+        
+        if (ENV_CONFIG.isDevelopment) {
+            window.ENV_CONFIG = ENV_CONFIG;
+            window.AsyncWrapper = AsyncWrapper;
+            
+            console.log('🛠️ Development mode utilities available:');
+            console.log('  - window.sessionLoader.debugInfo()');
+            console.log('  - window.sessionLoader.getPerformanceReport()');
+            console.log('  - window.verifyTutor()');
+            console.log('  - window.showDashboard()');
+            
+            setTimeout(() => {
+                console.log('🔍 Running auto-diagnostics...');
+                const debugInfo = window.sessionLoader.debugInfo();
+                
+                if (debugInfo.errorCount > 0) {
+                    console.warn(`⚠️ ${debugInfo.errorCount} errors detected.`);
+                }
+                
+                console.log('✅ Auto-diagnostics complete');
+            }, 2000);
+        }
+        
+        console.log('🎉 SessionLoader fully initialized and ready!');
+        
+    } catch (error) {
+        console.error('❌ Failed to initialize SessionLoader:', error);
+        
+        console.log('🔄 Attempting fallback initialization...');
+        window.sessionLoader = {
+            error: error,
+            fallback: true,
+            debugInfo: () => ({ error: 'Initialization failed', fallbackMode: true }),
+            showDashboard: (section) => {
+                console.log('Fallback: showDashboard called with section:', section);
+                alert('Dashboard functionality is currently unavailable. Please refresh the page.');
+            }
+        };
+        
+        window.showDashboard = window.sessionLoader.showDashboard;
+    }
+});
 
 // Global exports
 window.SessionLoader = SessionLoader;
@@ -1638,4 +1495,3 @@ window.ENV_CONFIG = ENV_CONFIG;
 window.ErrorHandler = ErrorHandler;
 window.PerformanceManager = PerformanceManager;
 window.AsyncWrapper = AsyncWrapper;
-console.log('🔍 16. END FINAL END ')
