@@ -959,7 +959,23 @@ class SessionLoader {
         // Setup lazy loading
         this.setupLazyLoading();
     }
-    
+
+    async preloadCriticalResources() {
+	try {
+            // List of essential resources to preload
+            const criticalResources = [
+		{ url: `${ENV_CONFIG.baseURL}/assets/css/dashboard.css`, type: 'style' },
+		{ url: `${ENV_CONFIG.baseURL}/assets/css/onboarding.css`, type: 'style' },
+		{ url: `${ENV_CONFIG.baseURL}/assets/js/utils/common-utils.js`, type: 'script' }
+            ];
+	    
+            await this.performanceManager.preloadResources(criticalResources);
+            console.log('✅ Critical resources preloaded');
+	} catch (error) {
+            this.errorHandler.logError('Preload Critical Resources Failed', error);
+	}
+    }
+
     setupLazyLoading() {
         const dashboardSections = document.querySelectorAll('.dashboard-section');
         if (dashboardSections.length > 0) {
