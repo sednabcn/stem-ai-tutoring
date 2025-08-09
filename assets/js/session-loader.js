@@ -1136,6 +1136,7 @@ class SessionLoader {
     initializeDashboardSection(section) {
         console.log('🎯 Initializing dashboard section:', section.id);
     }
+
     
     bindGlobalFunctions() {
         // Core navigation functions
@@ -1205,18 +1206,7 @@ class SessionLoader {
         console.log('🔗 Global functions bound successfully');	
     }
 
-    // Global Debuging
-    window.sessionLoader.debugInfo = function() {
-    return {
-        environment: window.ENV_CONFIG ? window.ENV_CONFIG.current : 'unknown',
-        session: this.sessionManager?.currentSession || 'unknown',
-        errorCount: this.errorHandler?.getErrorSummary().total || 0,
-        profileCompletion: this.sessionManager?.tutorData?.profileCompletion || 0,
-        loadedScripts: Array.from(this.scriptLoader?.loadedScripts || []),
-        loadingScripts: Array.from(this.scriptLoader?.loadingScripts?.keys() || [])
-    };
-};
-
+    
     // ========================================
     // DASHBOARD FUNCTIONS
     // ========================================
@@ -1424,9 +1414,10 @@ class SessionLoader {
     // ========================================
     // DEBUG AND UTILITIES
     // ========================================
-    
+
+    // DEBUG AND UTILITIES
     debugInfo() {
-        const info = {
+	const info = {
             environment: ENV_CONFIG.current,
             session: this.sessionManager.getCurrentSession(),
             tutorVerified: this.sessionManager.tutorData.isVerified,
@@ -1435,12 +1426,12 @@ class SessionLoader {
             loadedScripts: Array.from(this.scriptLoader.loadedScripts),
             activeModals: Array.from(this.modalManager.activeModals),
             errorCount: this.errorHandler.errors.length
-        };
-        
-        console.log('🐛 SessionLoader Debug Info:', info);
-        return info;
-    }
+	};
     
+	console.log('🐛 SessionLoader Debug Info:', info);
+	return info;
+    }
+
     getPerformanceReport() {
         const report = {
             environment: ENV_CONFIG.current,
