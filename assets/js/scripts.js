@@ -32,33 +32,33 @@ document.addEventListener('DOMContentLoaded', function () {
     }
 
     function setLanguage(langCode) {
-    // Detect current path depth and adjust accordingly
-    const pathDepth = window.location.pathname.split('/').filter(p => p).length;
-    const isInSubdirectory = pathDepth > 1 || window.location.pathname.includes('/pages/');
-    const langPath = isInSubdirectory ? `../lang/${langCode}.json` : `lang/${langCode}.json`;
+	// Detect current path depth and adjust accordingly
+	const pathDepth = window.location.pathname.split('/').filter(p => p).length;
+	const isInSubdirectory = pathDepth > 1 || window.location.pathname.includes('/pages/');
+	const langPath = isInSubdirectory ? `../lang/${langCode}.json` : `lang/${langCode}.json`;
     
-    fetch(langPath)
-        .then(res => res.json())
-        .then(data => {
-            translations = data;
-            currentLang = langCode;
-            localStorage.setItem("selectedLanguage", langCode);
-            applyTranslations();
-        })
-        .catch(err => {
-            console.error("Language file error:", err);
-            // Fallback: try the other path if first one fails
-            const fallbackPath = isInSubdirectory ? `lang/${langCode}.json` : `../lang/${langCode}.json`;
-            fetch(fallbackPath)
-                .then(res => res.json())
-                .then(data => {
-                    translations = data;
-                    currentLang = langCode;
-                    localStorage.setItem("selectedLanguage", langCode);
-                    applyTranslations();
-                })
-                .catch(fallbackErr => console.error("Fallback language file error:", fallbackErr));
-        });
+	fetch(langPath)
+            .then(res => res.json())
+            .then(data => {
+		translations = data;
+		currentLang = langCode;
+		localStorage.setItem("selectedLanguage", langCode);
+		applyTranslations();
+            })
+            .catch(err => {
+		console.error("Language file error:", err);
+		// Fallback: try the other path if first one fails
+		const fallbackPath = isInSubdirectory ? `lang/${langCode}.json` : `../lang/${langCode}.json`;
+		fetch(fallbackPath)
+                    .then(res => res.json())
+                    .then(data => {
+			translations = data;
+			currentLang = langCode;
+			localStorage.setItem("selectedLanguage", langCode);
+			applyTranslations();
+                    })
+                    .catch(fallbackErr => console.error("Fallback language file error:", fallbackErr));
+            });
     }
     
     function updateLangFlag() {
@@ -1743,89 +1743,238 @@ document.addEventListener('DOMContentLoaded', function () {
             console.log('🔄 News restarted');
         }
     };
-
+    
     // ===============================
     // FAQ MANAGEMENT
     // ===============================
     
     const FAQManager = {
+        initialized: false,
+        
         init() {
+            if (this.initialized) return;
+            
+            console.log('❓ Initializing FAQ Manager...');
+            
+            // Wait for DOM to be ready
+            if (document.readyState === 'loading') {
+                document.addEventListener('DOMContentLoaded', () => this.setup());
+            } else {
+                this.setup();
+            }
+            
+            this.initialized = true;
+        },
+
+        setup() {
             this.addToggleIcons();
-            console.log('❓ FAQ Manager initialized');
+            this.initializeFAQStates();
+            this.setupEventListeners();
+            console.log('✅ FAQ Manager fully initialized');
         },
 
         addToggleIcons() {
-            // Add toggle icons to all FAQ questions
-            document.querySelectorAll('.faq-question').forEach(question => {
-                if (!question.querySelector('.faq-toggle')) {
-                    const toggle = document.createElement('span');
-                    toggle.className = 'faq-toggle';
-                    toggle.textContent = '+';
-                    toggle.style.float = 'right';
-                    toggle.style.fontSize = '20px';
-                    toggle.style.fontWeight = 'bold';
-                    question.appendChild(toggle);
+            const questions = document.querySelectorAll('.faq-question');
+            console.log(`📝 Found ${questions.length} FAQ questions`);
+            
+            questions.forEach(question => {
+                // Remove existing toggle if present
+                const existingToggle = question.querySelector('.faq-toggle');
+                if (existingToggle) {
+                    existingToggle.remove();
                 }
+                
+                // Create new toggle icon
+                const toggle = document.createElement('span');
+                toggle.className = 'faq-toggle';
+                toggle.textContent = '+';
+                toggle.style.cssText = `
+                    float: right;
+                    font-size: 20px;
+                    font-weight: bold;
+                    color: #0D8ABC;
+                    transition: transform 0.2s ease;
+                    cursor: pointer;
+                `;
+                
+                question.appendChild(toggle);
+                question.style.cursor = 'pointer';
             });
-        }
-    };
+        },
 
-    // Global FAQ toggle function - required for help.html onclick handlers
-    window.toggleFAQ = function(questionElement) {
-        console.log('🔄 Toggling FAQ item');
-        
-        const faqItem = questionElement.closest('.faq-item');
-        if (!faqItem) {
-            console.warn('⚠️ FAQ item not found');
-            return;
-        }
+        initializeFAQStates() {
+            const answers = document.querySelectorAll('.faq-answer');
+            console.log(`📋 Initializing ${answers.length} FAQ answers`);
+            
+            answers.forEach(answer => {
+                answer.style.cssText = `
+                    display: none;
+                    max-height: 0;
+                    opacity: 0;
+                    overflow: hidden;
+                    transition: all 0.3s ease-in-out;
+                    padding: 0 15px;
+                `;
+            });
 
-        const answer = faqItem.querySelector('.faq-answer');
-        const toggle = questionElement.querySelector('.faq-toggle');
-        
-        if (!answer) {
-            console.warn('⚠️ FAQ answer not found');
-            return;
-        }
+            // Ensure all questions start inactive
+            document.querySelectorAll('.faq-question').forEach(question => {
+                question.classList.remove('active');
+                question.setAttribute('data-faq-open', 'false');
+            });
+        },
 
-        // Check current state
-        const isCurrentlyOpen = answer.style.display === 'block' || answer.style.maxHeight !== '0px';
-        
-        // Close all other FAQ items first
-        document.querySelectorAll('.faq-item').forEach(item => {
-            const otherAnswer = item.querySelector('.faq-answer');
-            const otherToggle = item.querySelector('.faq-toggle');
-            if (otherAnswer) {
-                otherAnswer.style.display = 'none';
-                otherAnswer.style.maxHeight = '0px';
-                otherAnswer.style.opacity = '0';
+        setupEventListeners() {
+            // Remove any existing listeners to prevent duplicates
+            document.removeEventListener('click', this.handleFAQClick);
+            
+            // Add new listener
+            document.addEventListener('click', this.handleFAQClick.bind(this));
+            console.log('👂 FAQ event listeners set up');
+        },
+
+        handleFAQClick(event) {
+            const question = event.target.closest('.faq-question');
+            if (!question) return;
+            
+            event.preventDefault();
+            event.stopPropagation();
+            this.toggleFAQ(question);
+        },
+
+        toggleFAQ(questionElement) {
+            console.log('🔄 Toggling FAQ item');
+            
+            const faqItem = questionElement.closest('.faq-item');
+            if (!faqItem) {
+                console.warn('⚠️ FAQ item not found');
+                return;
             }
-            if (otherToggle) {
-                otherToggle.textContent = '+';
-            }
-            item.querySelector('.faq-question').classList.remove('active');
-        });
 
-        // Toggle current item
-        if (!isCurrentlyOpen) {
-            // Open current FAQ
+            const answer = faqItem.querySelector('.faq-answer');
+            const toggle = questionElement.querySelector('.faq-toggle');
+            
+            if (!answer) {
+                console.warn('⚠️ FAQ answer not found');
+                return;
+            }
+
+            // Get current state from data attribute (more reliable)
+            const isCurrentlyOpen = questionElement.getAttribute('data-faq-open') === 'true';
+            
+            // Close all other FAQ items first
+            this.closeAllFAQs();
+            
+            // Toggle current item
+            if (!isCurrentlyOpen) {
+                this.openFAQ(questionElement, answer, toggle);
+            } else {
+                this.closeFAQ(questionElement, answer, toggle);
+            }
+        },
+
+        openFAQ(question, answer, toggle) {
+            console.log('📂 Opening FAQ');
+            
+            // Update data attribute
+            question.setAttribute('data-faq-open', 'true');
+            question.classList.add('active');
+            
+            // Animate opening
             answer.style.display = 'block';
             answer.style.maxHeight = 'none';
             answer.style.opacity = '1';
-            if (toggle) toggle.textContent = '−';
-            questionElement.classList.add('active');
-            console.log('✅ FAQ opened');
-        } else {
-            // Close current FAQ (this handles the case where same item is clicked)
+            answer.style.padding = '15px';
+            
+            // Update toggle icon
+            if (toggle) {
+                toggle.textContent = '−';
+                toggle.style.transform = 'rotate(180deg)';
+            }
+        },
+
+        closeFAQ(question, answer, toggle) {
+            console.log('📁 Closing FAQ');
+            
+            // Update data attribute
+            question.setAttribute('data-faq-open', 'false');
+            question.classList.remove('active');
+            
+            // Animate closing
             answer.style.display = 'none';
-            answer.style.maxHeight = '0px';
+            answer.style.maxHeight = '0';
             answer.style.opacity = '0';
-            if (toggle) toggle.textContent = '+';
-            questionElement.classList.remove('active');
-            console.log('✅ FAQ closed');
+            answer.style.padding = '0 15px';
+            
+            // Update toggle icon
+            if (toggle) {
+                toggle.textContent = '+';
+                toggle.style.transform = 'rotate(0deg)';
+            }
+        },
+
+        closeAllFAQs() {
+            document.querySelectorAll('.faq-question').forEach(question => {
+                const answer = question.closest('.faq-item').querySelector('.faq-answer');
+                const toggle = question.querySelector('.faq-toggle');
+                
+                question.setAttribute('data-faq-open', 'false');
+                question.classList.remove('active');
+                
+                if (answer) {
+                    answer.style.display = 'none';
+                    answer.style.maxHeight = '0';
+                    answer.style.opacity = '0';
+                    answer.style.padding = '0 15px';
+                }
+                
+                if (toggle) {
+                    toggle.textContent = '+';
+                    toggle.style.transform = 'rotate(0deg)';
+                }
+            });
+        },
+
+        // Public method to open specific FAQ by index
+        openFAQByIndex(index) {
+            const questions = document.querySelectorAll('.faq-question');
+            if (questions[index]) {
+                this.toggleFAQ(questions[index]);
+            }
+        },
+
+        // Public method to get FAQ status
+        getFAQStatus() {
+            const faqs = [];
+            document.querySelectorAll('.faq-question').forEach((question, index) => {
+                faqs.push({
+                    index: index,
+                    question: question.textContent.replace('+', '').replace('−', '').trim(),
+                    isOpen: question.getAttribute('data-faq-open') === 'true'
+                });
+            });
+            return faqs;
         }
     };
 
+    // Global FAQ toggle function for backward compatibility with HTML onclick handlers
+    window.toggleFAQ = function(questionElement) {
+        FAQManager.toggleFAQ(questionElement);
+    };
+
+    // Additional global functions for external access
+    window.openFAQByIndex = function(index) {
+        FAQManager.openFAQByIndex(index);
+    };
+
+    window.closeAllFAQs = function() {
+        FAQManager.closeAllFAQs();
+    };
+
+    window.getFAQStatus = function() {
+        return FAQManager.getFAQStatus();
+    };
+  
     
     // ===============================
     // ENHANCED EVENT LISTENERS SETUP
