@@ -1743,69 +1743,84 @@ document.addEventListener('DOMContentLoaded', function () {
             console.log('🔄 News restarted');
         }
     };
-
     // ===============================
-    // FAQ MANAGEMENT
+    // FAQ MANAGEMENT - WORKING VERSION
     // ===============================
     
     const FAQManager = {
         init() {
-            console.log('❓ FAQ Manager initialized');
-            // Initialize all FAQ answers as closed
+            console.log('❓ FAQ Manager starting...');
+            
+            // Initialize all answers as hidden with proper CSS
             document.querySelectorAll('.faq-answer').forEach(answer => {
-                answer.style.display = 'none';
+                answer.style.cssText = 'display: none !important;';
             });
             
-            // Add + icons to all questions
+            // Add toggle icons
             document.querySelectorAll('.faq-question').forEach(question => {
-                if (!question.textContent.includes('+') && !question.textContent.includes('−')) {
-                    question.innerHTML = question.innerHTML + ' <span style="float:right; font-weight:bold; color:#0D8ABC;">+</span>';
+                if (!question.querySelector('.toggle-icon')) {
+                    const icon = document.createElement('span');
+                    icon.className = 'toggle-icon';
+                    icon.textContent = '+';
+                    icon.style.cssText = 'float: right; font-weight: bold; color: #0D8ABC; font-size: 18px;';
+                    question.appendChild(icon);
                 }
+                question.style.cursor = 'pointer';
             });
+            
+            console.log('✅ FAQ Manager initialized');
         }
     };
 
-    // Simple global toggle function
-    window.toggleFAQ = function(questionElement) {
-        console.log('🔄 FAQ clicked');
+    // Working toggle function with CSS override
+    window.toggleFAQ = function(element) {
+        console.log('🔄 toggleFAQ called');
         
-        // Find the answer div
-        const faqItem = questionElement.parentElement;
-        const answer = faqItem.querySelector('.faq-answer');
+        const answer = element.nextElementSibling;
+        const icon = element.querySelector('.toggle-icon');
         
         if (!answer) {
-            console.log('No answer found');
+            console.error('❌ No answer found');
             return;
         }
         
         // Close all other answers first
         document.querySelectorAll('.faq-answer').forEach(otherAnswer => {
             if (otherAnswer !== answer) {
-                otherAnswer.style.display = 'none';
+                otherAnswer.style.cssText = 'display: none !important;';
             }
         });
         
-        // Update all + signs
-        document.querySelectorAll('.faq-question').forEach(q => {
-            const span = q.querySelector('span');
-            if (span && q !== questionElement) {
-                span.textContent = '+';
+        // Reset all icons
+        document.querySelectorAll('.toggle-icon').forEach(otherIcon => {
+            if (otherIcon !== icon) {
+                otherIcon.textContent = '+';
             }
         });
         
-        // Toggle current answer
-        const span = questionElement.querySelector('span');
-        if (answer.style.display === 'none' || answer.style.display === '') {
-            answer.style.display = 'block';
-            if (span) span.textContent = '−';
-            console.log('✅ FAQ opened');
+        // Toggle current answer with !important to override CSS
+        const isHidden = answer.style.display === 'none' || !answer.style.display || answer.style.display === '';
+        
+        if (isHidden) {
+            // Force show with !important and specific properties
+            answer.style.cssText = `
+                display: block !important;
+                visibility: visible !important;
+                opacity: 1 !important;
+                height: auto !important;
+                max-height: none !important;
+                overflow: visible !important;
+                padding: 15px !important;
+                margin: 10px 0 !important;
+            `;
+            if (icon) icon.textContent = '−';
+            console.log('✅ Answer forced to show');
         } else {
-            answer.style.display = 'none';
-            if (span) span.textContent = '+';
-            console.log('✅ FAQ closed');
+            answer.style.cssText = 'display: none !important;';
+            if (icon) icon.textContent = '+';
+            console.log('✅ Answer hidden');
         }
     };
-    
     
     // ===============================
     // ENHANCED EVENT LISTENERS SETUP
