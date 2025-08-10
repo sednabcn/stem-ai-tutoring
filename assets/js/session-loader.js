@@ -1065,7 +1065,7 @@ class SessionLoader {
         }
     }
 
-    // ========================
+     // ========================
     // LOAD ONBOARDING SCRIPTS
     // ========================
     async loadOnboardScripts() {
@@ -1086,21 +1086,24 @@ class SessionLoader {
             console.log("📚 Loading onboarding scripts via ScriptLoader...");
 	    
             const beforeKeys = Object.keys(window);
-	    
-            await this.scriptLoader.loadScriptsInOrder(onboardScripts);
 
+            // Load scripts in order
+            await this.scriptLoader.loadScriptsInOrder(onboardScripts);
+	    
+            // Mark scripts as loaded in ScriptLoader
             onboardScripts.forEach(src => {
 		if (!this.scriptLoader.loadedScripts.has(src)) {
                     this.scriptLoader.loadedScripts.add(src);
 		}
             });
-
+	    
             const afterKeys = Object.keys(window);
             const newGlobals = afterKeys.filter(k => !beforeKeys.includes(k));
-	    
+
             if (!window.cards) window.cards = {};
             if (!window.onboarding) window.onboarding = {};
 
+            // Existing detection logic for any global keys containing "card" or "onboard"
             newGlobals.forEach(key => {
 		const lowerKey = key.toLowerCase();
 		if (lowerKey.includes('card')) {
@@ -1110,15 +1113,30 @@ class SessionLoader {
 		}
             });
 
+            // ✅ New logic: Ensure all card1–card9 are registered, even if missing export
+            const cardFileRegex = /card(\d+)\.js$/i;
+            onboardScripts.forEach(src => {
+		const match = src.match(cardFileRegex);
+		if (match) {
+                    const cardKey = `card${match[1]}`;
+                    if (!window.cards[cardKey]) {
+			window.cards[cardKey] = {
+                            id: cardKey,
+                            missingExport: true,
+                            render: () => console.warn(`⚠️ ${cardKey} loaded but no export found`)
+			};
+                    }
+		}
+            });
+
             console.log("✅ All onboarding scripts loaded and registered.");
             console.log("🎴 Cards:", Object.keys(window.cards));
             console.log("🛠 Onboarding:", Object.keys(window.onboarding));
-	    
+
 	} catch (error) {
             this.errorHandler.logError('Onboarding Scripts Loading Failed', error);
 	}
     }
-
  
     // ========================
     // LOAD DASHBOARD SCRIPTS
