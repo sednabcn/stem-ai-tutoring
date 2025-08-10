@@ -1,7 +1,17 @@
 {
   "status": "success",
-  "totalResults": 8,
+  "totalResults": 9,
   "articles": [
+    {
+      "title": "\"This is Battlefield's biggest Open Beta ever,\" says EA - Eurogamer",
+      "source": {
+        "name": "Eurogamer.net"
+      },
+      "description": "",
+      "url": "https://www.eurogamer.net/this-is-battlefields-biggest-open-beta-ever-says-ea",
+      "publishedAt": "2025-08-09T18:08:05Z",
+      "processed_at": "2025-08-10T23:20:17.984874+00:00"
+    },
     {
       "title": "Battlefield 6 Beta Breaks 470K Users on Steam; Its Anti-Cheat Already Stopped Over 330K Cheaters - Wccftech",
       "source": {
@@ -10,7 +20,7 @@
       "description": "The Battlefield 6 beta is now open and already registered 470K users on Steam. The Anti-Cheat alread...",
       "url": "https://wccftech.com/battlefield-6-beta-breaks-470k-users-steam-anti-cheat-stopped-330k-attempts/",
       "publishedAt": "2025-08-09T17:00:00Z",
-      "processed_at": "2025-08-10T22:19:53.769507+00:00"
+      "processed_at": "2025-08-10T23:20:17.984874+00:00"
     },
     {
       "title": "The 10 Best Video Game Prequels - IGN",
@@ -20,7 +30,7 @@
       "description": "With the release of Mafia the Old Country, we look back at some of the best video game prequels of a...",
       "url": "https://www.ign.com/articles/the-10-best-video-game-prequels",
       "publishedAt": "2025-08-09T15:02:18Z",
-      "processed_at": "2025-08-10T22:19:53.769507+00:00"
+      "processed_at": "2025-08-10T23:20:17.984874+00:00"
     },
     {
       "title": "Tencent quietly updates \"slavish Horizon clone\" Light of Motiram's Steam page - Eurogamer",
@@ -30,7 +40,27 @@
       "description": "Tencent has quietly removed, edited, and/or replaced key art on the Steam page of its upcoming adven...",
       "url": "https://www.eurogamer.net/tencent-quietly-updates-slavish-horizon-clone-light-of-motirams-steam-page",
       "publishedAt": "2025-08-09T14:49:03Z",
-      "processed_at": "2025-08-10T22:19:53.769507+00:00"
+      "processed_at": "2025-08-10T23:20:17.984874+00:00"
+    },
+    {
+      "title": "People Are Sharing Sneaky Health Threats That Are Literally Destroying Your Body - buzzfeed.com",
+      "source": {
+        "name": "Buzzfeed"
+      },
+      "description": "\"Long COVID is the largest mass disabling event in human history, and it is still ongoing.\"...",
+      "url": "https://www.buzzfeed.com/aronawriting/silent-killers-harming-health-reddit",
+      "publishedAt": "2025-08-09T14:31:03Z",
+      "processed_at": "2025-08-10T23:20:17.984874+00:00"
+    },
+    {
+      "title": "I tried the slim Anker Nano Power Bank, and it's crying out for the Pixel 10 - Android Police",
+      "source": {
+        "name": "Android Police"
+      },
+      "description": "The Anker Nano Power Bank is one of the first to be Qi2 certified, and we&#039;ve tested its perform...",
+      "url": "https://www.androidpolice.com/anker-nano-power-bank-with-qi2-tested/",
+      "publishedAt": "2025-08-09T14:13:00Z",
+      "processed_at": "2025-08-10T23:20:17.984874+00:00"
     },
     {
       "title": "Mariners News, 8/9/25: Josh Naylor, Alex Wood, and Kyle Karros - Lookout Landing",
@@ -40,17 +70,7 @@
       "description": "Another mid-season retirement, plus Mariners injury updates and more....",
       "url": "https://www.lookoutlanding.com/mariners-moose-tracks/132533/mariners-news-8-9-25-josh-naylor-alex-wood-and-kyle-karros",
       "publishedAt": "2025-08-09T14:05:33Z",
-      "processed_at": "2025-08-10T22:19:53.769507+00:00"
-    },
-    {
-      "title": "Aura’s Aspen impressive digital frame is the most affordable it’s been - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "The Aura Aspen is down to $199 ($30 off) at multiple retailers. The refurbished 2021 Kindle Paperwhi...",
-      "url": "https://www.theverge.com/tech/756979/aura-aspen-digital-photo-frame-garmin-inreach-mini-2-deal-sale",
-      "publishedAt": "2025-08-09T13:35:26Z",
-      "processed_at": "2025-08-10T22:19:53.769507+00:00"
+      "processed_at": "2025-08-10T23:20:17.984874+00:00"
     },
     {
       "title": "Gigi Dolin's Fiance Is A Familiar Face For Wrestling Fans - Wrestling Inc.",
@@ -60,7 +80,7 @@
       "description": "Former WWE star Gigi Dolin (AKA Priscilla Kelly) is engaged to someone who might look familiar to wr...",
       "url": "https://www.wrestlinginc.com/1930515/gigi-dolin-aew-fiance-looks-so-familiar/",
       "publishedAt": "2025-08-09T13:00:00Z",
-      "processed_at": "2025-08-10T22:19:53.769507+00:00"
+      "processed_at": "2025-08-10T23:20:17.984874+00:00"
     },
     {
       "title": "Is This Seat Taken? makes seating fussy people fun - The Verge",
@@ -70,20 +90,10 @@
       "description": "Is This Seat Taken? is an adorable puzzle game about seating arrangements. It’s available on PC, Nin...",
       "url": "https://www.theverge.com/games-review/717713/is-this-seat-taken-review-pc-nintendo-switch-ios-android",
       "publishedAt": "2025-08-09T13:00:00Z",
-      "processed_at": "2025-08-10T22:19:53.769507+00:00"
-    },
-    {
-      "title": "This is the Android 17 codename, and it's not what you guessed - Android Authority",
-      "source": {
-        "name": "Android Authority"
-      },
-      "description": "We've got the scoop on the codename for Android 17, the next major version of Android that Google wi...",
-      "url": "https://www.androidauthority.com/android-17-codename-3585116/",
-      "publishedAt": "2025-08-09T12:15:25Z",
-      "processed_at": "2025-08-10T22:19:53.769507+00:00"
+      "processed_at": "2025-08-10T23:20:17.984874+00:00"
     }
   ],
-  "lastUpdated": "2025-08-10T22:19:53.769573+00:00",
+  "lastUpdated": "2025-08-10T23:20:17.984934+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
