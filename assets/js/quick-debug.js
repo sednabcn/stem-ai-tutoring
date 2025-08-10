@@ -73,7 +73,15 @@
         for (let i = 1; i <= 9; i++) {
             if (window[`Card${i}`]) globalCards.push(`Card${i}`);
         }
-        console.log('  🌍 Global Card objects:', globalCards.length ? globalCards : 'None found');
+	// console.log('  🌍 Global Card objects:', globalCards.length ? globalCards : 'None found');
+	console.log("🌍 Card objects in window.cards:");
+	Object.entries(window.cards || {}).forEach(([key, val]) => {
+	    if (val?.missingExport) {
+		console.warn(`⚠️ ${key} loaded but no export found`);
+	    } else {
+		console.log(`✅ ${key} loaded`);
+	    }
+	});
 
         console.log('\n✅ Diagnostic complete.');
     }

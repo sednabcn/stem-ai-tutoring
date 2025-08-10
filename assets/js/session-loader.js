@@ -962,11 +962,17 @@ class SessionLoader {
 
     async preloadCriticalResources() {
 	try {
-            // List of essential resources to preload
             const criticalResources = [
-		{ url: `${ENV_CONFIG.baseURL}/assets/css/mathtutor.css`, type: 'style' },
-		{ url: `${ENV_CONFIG.baseURL}/assets/js/tutor-dashboard.js`, type: 'script' }
+		{ url: `${ENV_CONFIG.baseURL}/assets/css/mathtutor.css`, type: 'style' }
             ];
+
+            // ✅ Only preload dashboard JS if we're in the dashboard session
+            if (this.sessionManager.getCurrentSession() === 'dashboard') {
+		criticalResources.push({
+                    url: `${ENV_CONFIG.baseURL}/assets/js/tutor-dashboard.js`,
+                    type: 'script'
+		});
+            }
 	    
             await this.performanceManager.preloadResources(criticalResources);
             console.log('✅ Critical resources preloaded');
@@ -974,7 +980,7 @@ class SessionLoader {
             this.errorHandler.logError('Preload Critical Resources Failed', error);
 	}
     }
-
+    
     setupLazyLoading() {
         const dashboardSections = document.querySelectorAll('.dashboard-section');
         if (dashboardSections.length > 0) {
