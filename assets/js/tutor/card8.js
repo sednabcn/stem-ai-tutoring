@@ -1,6 +1,11 @@
 // CARD 8: ANALYTICS DASHBOARD - Complete Functionality
 // Copy/Paste this entire block for Card 8
-
+if (!window.cards) window.cards = {};
+   window.cards['card8'] = {
+       id: 'card8',
+       title: 'Temporary test card',
+       render: () => console.log('Rendering card1')
+   };
 // Analytics Dashboard Variables
 let analyticsActive = true;
 let analyticsData = {

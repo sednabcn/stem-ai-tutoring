@@ -1,6 +1,11 @@
 // CARD 7: TEACHING TOOLS - Complete Functionality
 // Copy/Paste this entire block for Card 7
-
+if (!window.cards) window.cards = {};
+   window.cards['card7'] = {
+       id: 'card7',
+       title: 'Temporary test card',
+       render: () => console.log('Rendering card1')
+   };
 // Teaching Tools Card Variables
 let toolsExplored = false;
 let availableTools = [

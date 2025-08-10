@@ -1,6 +1,12 @@
 // CARD 2: CREDENTIALS & BACKGROUND CHECK - Complete Functionality
 // Copy/Paste this entire block for Card 2
 
+if (!window.cards) window.cards = {};
+   window.cards['card2'] = {
+       id: 'card2',
+       title: 'Temporary test card',
+       render: () => console.log('Rendering card1')
+   };
 // Credentials Card Variables
 let card2_credentialsUploaded = false;
 let card2_credentialsStepProgress = {

@@ -1,4 +1,10 @@
 // card10.js - Top Navigation & Communication Hub (NEW CARD APPROACH)
+if (!window.cards) window.cards = {};
+   window.cards['card10'] = {
+       id: 'card10',
+       title: 'Temporary test card',
+       render: () => console.log('Rendering card1')
+   };
 
 class Card10Controller {
     constructor() {

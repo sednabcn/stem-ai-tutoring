@@ -1,6 +1,11 @@
 // CARD 3: IDENTITY VERIFICATION - Complete Functionality
 // Copy/Paste this entire block for Card 3
-
+if (!window.cards) window.cards = {};
+   window.cards['card3'] = {
+       id: 'card3',
+       title: 'Temporary test card',
+       render: () => console.log('Rendering card1')
+   };
 // Identity Verification Card Variables
 let card3_identityVerified = false;
 let card3_identityStepProgress = {

@@ -1,6 +1,11 @@
 // CARD 9: PREMIUM FEATURES - Complete Functionality
 // Copy/Paste this entire block for Card 9
-
+if (!window.cards) window.cards = {};
+   window.cards['card9'] = {
+       id: 'card9',
+       title: 'Temporary test card',
+       render: () => console.log('Rendering card1')
+   };
 // Premium Features Variables
 let crd9_premiumActive = false;
 let card9_premiumFeatures = {

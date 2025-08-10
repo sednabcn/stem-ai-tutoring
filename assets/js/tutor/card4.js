@@ -1,6 +1,11 @@
 // CARD 4: SET YOUR SCHEDULE - Complete Functionality
 // Copy/Paste this entire block for Card 4
-
+if (!window.cards) window.cards = {};
+   window.cards['card4'] = {
+       id: 'card4',
+       title: 'Temporary test card',
+       render: () => console.log('Rendering card1')
+   };
 // Schedule Card Variables
 let card4_scheduleSet = false;
 let card4_scheduleStepProgress = {

@@ -1,6 +1,11 @@
 // CARD 6: UPLOAD TEACHING RESOURCES - Complete Functionality
 // Copy/Paste this entire block for Card 6
-
+if (!window.cards) window.cards = {};
+   window.cards['card6'] = {
+       id: 'card6',
+       title: 'Temporary test card',
+       render: () => console.log('Rendering card1')
+   };
 // Teaching Resources Card Variables
 let card6_resourcesUploaded = false;
 let card6_resourcesStepProgress = {

@@ -1,6 +1,11 @@
 // CARD 5: FIND STUDENTS - Complete Functionality
 // Copy/Paste this entire block for Card 5
-
+if (!window.cards) window.cards = {};
+   window.cards['card5'] = {
+       id: 'card5',
+       title: 'Temporary test card',
+       render: () => console.log('Rendering card1')
+   };
 // Find Students Card Variables
 let studentsSearched = false;
 let studentsStepProgress = {
