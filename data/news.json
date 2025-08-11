@@ -3,14 +3,74 @@
   "totalResults": 10,
   "articles": [
     {
-      "title": "I spent 48 hours with the world’s first rollable laptop — here’s my pros and cons - Tom's Guide",
+      "title": "7 password managers to help keep your apps safe - The Verge",
       "source": {
-        "name": "Tom's Guide"
+        "name": "The Verge"
       },
-      "description": "Massive display on command...",
-      "url": "https://www.tomsguide.com/computing/laptops/i-spent-48-hours-with-lenovos-rollable-laptop-and-it-genuinely-blew-my-mind",
-      "publishedAt": "2025-08-10T13:51:47Z",
-      "processed_at": "2025-08-11T14:23:37.624925+00:00"
+      "description": "LastPass has suffered lately from a couple of breaches, but there are several password managers out ...",
+      "url": "https://www.theverge.com/tech/712968/7-password-managers-to-help-keep-your-apps-safe",
+      "publishedAt": "2025-08-10T15:00:00Z",
+      "processed_at": "2025-08-11T15:24:45.711878+00:00"
+    },
+    {
+      "title": "NASA and Google Unveil Cutting-Edge AI to Safeguard Astronauts’ Health on Mars - The Daily Galaxy",
+      "source": {
+        "name": "The Daily Galaxy --Great Discoveries Channel"
+      },
+      "description": "NASA and Google’s groundbreaking AI medical assistant could be the key to keeping astronauts healthy...",
+      "url": "https://dailygalaxy.com/2025/08/nasa-google-ai-safeguard-astronauts-mars/",
+      "publishedAt": "2025-08-10T14:30:00Z",
+      "processed_at": "2025-08-11T15:24:45.711878+00:00"
+    },
+    {
+      "title": "Breakfast With ChatGPT: Three Workers, One Morning, A Different AI Story - Gizmodo",
+      "source": {
+        "name": "Gizmodo.com"
+      },
+      "description": "At a journalism convention, the talk was about AI's dangers. But at a local restaurant, I found a di...",
+      "url": "https://gizmodo.com/breakfast-with-chatgpt-three-workers-one-morning-a-different-ai-story-2000641190",
+      "publishedAt": "2025-08-10T14:15:44Z",
+      "processed_at": "2025-08-11T15:24:45.711878+00:00"
+    },
+    {
+      "title": "Having a personal brand at work is key for introverts, expert says: ‘A lot of people underestimate’ them - CNBC",
+      "source": {
+        "name": "CNBC"
+      },
+      "description": "For introverts, personal branding can unlock a new level of career success, says expert Goldie Chan....",
+      "url": "https://www.cnbc.com/2025/08/10/having-a-personal-brand-at-work-is-key-for-introverts-expert-sayshow-to-develop-one.html",
+      "publishedAt": "2025-08-10T14:05:01Z",
+      "processed_at": "2025-08-11T15:24:45.711878+00:00"
+    },
+    {
+      "title": "Here’s how iPhone 17 Air display size will compare to 17 Pro and 17 Pro Max - 9to5Mac",
+      "source": {
+        "name": "9to5Mac"
+      },
+      "description": "Apple hasn’t officially announced the iPhone 17 lineup, but we expect an event announcement later th...",
+      "url": "https://9to5mac.com/2025/08/10/iphone-17-air-display-size-comparison/",
+      "publishedAt": "2025-08-10T13:56:00Z",
+      "processed_at": "2025-08-11T15:24:45.711878+00:00"
+    },
+    {
+      "title": "This Sim Racing Tool Became A Secret Weapon For F1 (And Car Companies) - Jalopnik",
+      "source": {
+        "name": "Jalopnik"
+      },
+      "description": "It's a short leap from being a videogame anyone can play to training both racecar drivers and self-d...",
+      "url": "https://www.jalopnik.com/1932281/sim-racing-tool-helps-racing-oems/",
+      "publishedAt": "2025-08-10T13:25:00Z",
+      "processed_at": "2025-08-11T15:24:45.711878+00:00"
+    },
+    {
+      "title": "30 Essential Home Purchases You Need To Just Buy Already - BuzzFeed",
+      "source": {
+        "name": "Buzzfeed"
+      },
+      "description": "The perfect time to get your home in order is right now....",
+      "url": "https://www.buzzfeed.com/sallyelshorafa1/must-have-home-products-best",
+      "publishedAt": "2025-08-10T13:01:02Z",
+      "processed_at": "2025-08-11T15:24:45.711878+00:00"
     },
     {
       "title": "Ditching my phone for an LTE smartwatch was a humbling experience - The Verge",
@@ -20,90 +80,30 @@
       "description": "If you’re trying to cut back on screentime, a smart watch that can stand in for a lot of your phone’...",
       "url": "https://www.theverge.com/gadgets/756945/smartwatch-lte-minimalist-phone",
       "publishedAt": "2025-08-10T13:00:00Z",
-      "processed_at": "2025-08-11T14:23:37.624925+00:00"
+      "processed_at": "2025-08-11T15:24:45.711878+00:00"
     },
     {
-      "title": "ASUS RTX 5080 NOCTUA GPU costs £1500: ASUS’ most expensive RTX 5080 yet - VideoCardz.com",
+      "title": "Apple’s MacBook Pro overhaul with OLED might not launch until 2027: report - 9to5Mac",
       "source": {
-        "name": "Videocardz.com"
+        "name": "9to5Mac"
       },
-      "description": "ASUS Noctua RTX 5080 GPU costs 58% more than NVIDIA MSRP This week ASUS and Noctua  announced that t...",
-      "url": "https://videocardz.com/newz/asus-rtx-5080-noctua-gpu-costs-1500-asus-most-expensive-rtx-5080-yet",
-      "publishedAt": "2025-08-10T12:18:00Z",
-      "processed_at": "2025-08-11T14:23:37.624925+00:00"
+      "description": "Rumors have long pointed at a new MacBook Pro with an OLED display launching towards the end of 2026...",
+      "url": "https://9to5mac.com/2025/08/10/macbook-pro-oled-redesign-might-be-delayed-to-2027-report/",
+      "publishedAt": "2025-08-10T12:55:00Z",
+      "processed_at": "2025-08-11T15:24:45.711878+00:00"
     },
     {
-      "title": "Niantic to Compensate Players for Broken Shiny Odds in Origin Raid Day - Pokémon GO Hub",
+      "title": "Researchers Detail Windows EPM Poisoning Exploit Chain Leading to Domain Privilege Escalation - The Hacker News",
       "source": {
-        "name": "Google News"
+        "name": "Internet"
       },
-      "description": "",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSEVlX29Obml5b21MSjhyU2xsbUpaelJ1cGJSdFd3TXB3eDRGUDVLcExSdEFUbS1mWXpwdnBTbjczdjdVa2ZKcEd2YjhrUUwtQWF0dW1NaUZKM2ZCZU9uQnZZZi1rX0VTYjMxZ0FBeEdFaWFWSzQ0MHNIemx1UDI0ZmUtcVJONHFCWUo0clBZWXBKV29KYlJ2UnAwVUtBb244T1VZWkdsNlhkQQ?oc=5",
-      "publishedAt": "2025-08-10T11:59:40Z",
-      "processed_at": "2025-08-11T14:23:37.624925+00:00"
-    },
-    {
-      "title": "Older Adults Are Revealing The \"Beloved\" Past Trends They Actually Hate, And It's SO Brutal - BuzzFeed",
-      "source": {
-        "name": "Buzzfeed"
-      },
-      "description": "\"Polyester!!!!!!!! Totally gross in the '70s and still gross. It's hot, shapeless, and basically hor...",
-      "url": "https://www.buzzfeed.com/lizmrichardson/past-popular-trends-older-adults-hate",
-      "publishedAt": "2025-08-10T11:16:02Z",
-      "processed_at": "2025-08-11T14:23:37.624925+00:00"
-    },
-    {
-      "title": "I use a duress PIN to protect my data — here’s how it works and why everyone needs one - Android Authority",
-      "source": {
-        "name": "Android Authority"
-      },
-      "description": "A duress PIN is a secondary PIN that triggers a complete and irreversible wipe of your device, makin...",
-      "url": "https://www.androidauthority.com/grapheneos-duress-pin-3584795/",
-      "publishedAt": "2025-08-10T11:05:11Z",
-      "processed_at": "2025-08-11T14:23:37.624925+00:00"
-    },
-    {
-      "title": "Building A 7-Segment Shadow Clock - Hackaday",
-      "source": {
-        "name": "Hackaday"
-      },
-      "description": "There are plenty of conventional timepieces out there in the world; we’ve also featured a great many...",
-      "url": "https://hackaday.com/2025/08/10/building-a-7-segment-shadow-clock/",
-      "publishedAt": "2025-08-10T11:00:00Z",
-      "processed_at": "2025-08-11T14:23:37.624925+00:00"
-    },
-    {
-      "title": "5 apps that track you more than you think — and what to use instead - Android Police",
-      "source": {
-        "name": "Android Police"
-      },
-      "description": "Discover the popular apps that extensively track your personal data and learn about privacy-focused ...",
-      "url": "https://www.androidpolice.com/apps-that-track-you-more-than-you-think/",
-      "publishedAt": "2025-08-10T10:08:00Z",
-      "processed_at": "2025-08-11T14:23:37.624925+00:00"
-    },
-    {
-      "title": "As an Android expert, here are 7 phones I don’t recommend buying right now - Android Authority",
-      "source": {
-        "name": "Android Authority"
-      },
-      "description": "In the market for a new Android phone? Awesome! Just make sure you don't buy any of the phones on th...",
-      "url": "https://www.androidauthority.com/android-phones-i-dont-recommend-buying-august-2025-3585114/",
-      "publishedAt": "2025-08-10T09:26:06Z",
-      "processed_at": "2025-08-11T14:23:37.624925+00:00"
-    },
-    {
-      "title": "Lovense's Gemini Sex Toy Offers a Fresh Sensation in the Bedroom—No AI Needed - WIRED",
-      "source": {
-        "name": "Wired"
-      },
-      "description": "These clamps just might offer the vibrating sensation you've been seeking....",
-      "url": "https://www.wired.com/review/lovense-gemini-nipple-clamps/",
-      "publishedAt": "2025-08-10T08:00:00Z",
-      "processed_at": "2025-08-11T14:23:37.624925+00:00"
+      "description": "Microsoft patches CVE-2025-49760 Windows RPC flaw enabling spoofing, hash theft, and privilege escal...",
+      "url": "https://thehackernews.com/2025/08/researchers-detail-windows-epm.html",
+      "publishedAt": "2025-08-10T12:31:00Z",
+      "processed_at": "2025-08-11T15:24:45.711878+00:00"
     }
   ],
-  "lastUpdated": "2025-08-11T14:23:37.625007+00:00",
+  "lastUpdated": "2025-08-11T15:24:45.711952+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
