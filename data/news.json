@@ -1,16 +1,86 @@
 {
   "status": "success",
-  "totalResults": 9,
+  "totalResults": 10,
   "articles": [
+    {
+      "title": "Katsuhiro Harada says that he would like to show fans what they already have for Tekken X Street Fighter - EventHubs",
+      "source": {
+        "name": "EventHubs"
+      },
+      "description": "It's been over 13 years since the release of Street Fighter X Tekken. Evo 2025 has come and gone wit...",
+      "url": "https://www.eventhubs.com/news/2025/aug/09/harada-sfxt-eagerness-show-fans/",
+      "publishedAt": "2025-08-09T22:01:16Z",
+      "processed_at": "2025-08-11T01:57:02.230787+00:00"
+    },
+    {
+      "title": "Former Nintendo staffers share details about the one time a Nintendo Direct was delayed - Nintendo Everything",
+      "source": {
+        "name": "Nintendoeverything.com"
+      },
+      "description": "Former Nintendo of America staffers share some behind-the-scenes details about the one time a Ninten...",
+      "url": "https://nintendoeverything.com/nintendo-direct-delay-details/",
+      "publishedAt": "2025-08-09T20:01:51Z",
+      "processed_at": "2025-08-11T01:57:02.230787+00:00"
+    },
+    {
+      "title": "Cartoon: Rooftop idiot - Daily Kos",
+      "source": {
+        "name": "Dailykos.com"
+      },
+      "description": "A cartoon by Clay Jones.\n\n\nRelated |� What the f-ck is Donald Trump doing on the roof?...",
+      "url": "https://www.dailykos.com/stories/2025/8/9/2337449/-Cartoon-Rooftop-idiot",
+      "publishedAt": "2025-08-09T18:55:09Z",
+      "processed_at": "2025-08-11T01:57:02.230787+00:00"
+    },
+    {
+      "title": "‘Destiny’ Is Getting Sparrow Racing Again For The First Time In Eight Years, On Your Phone - Forbes",
+      "source": {
+        "name": "Forbes"
+      },
+      "description": "Destiny Rising will introduce Sparrow Racing League back to the series for the first time in over ei...",
+      "url": "https://www.forbes.com/sites/paultassi/2025/08/09/destiny-is-getting-sparrow-racing-again-for-the-first-time-in-eight-years-on-your-phone/",
+      "publishedAt": "2025-08-09T18:50:36Z",
+      "processed_at": "2025-08-11T01:57:02.230787+00:00"
+    },
+    {
+      "title": "A Special Diamond Is the Key to a Fully Open Source Quantum Sensor - WIRED",
+      "source": {
+        "name": "Wired"
+      },
+      "description": "Quantum sensors can be used in medical technologies, navigation systems, and more, but they're too e...",
+      "url": "https://www.wired.com/story/fully-open-source-quantum-sensor-uncut-gem/",
+      "publishedAt": "2025-08-09T18:40:47Z",
+      "processed_at": "2025-08-11T01:57:02.230787+00:00"
+    },
     {
       "title": "\"This is Battlefield's biggest Open Beta ever,\" says EA - Eurogamer",
       "source": {
         "name": "Eurogamer.net"
       },
-      "description": "",
+      "description": "Battlefield 6's open beta has been the series' biggest beta test ever....",
       "url": "https://www.eurogamer.net/this-is-battlefields-biggest-open-beta-ever-says-ea",
       "publishedAt": "2025-08-09T18:08:05Z",
-      "processed_at": "2025-08-10T23:20:17.984874+00:00"
+      "processed_at": "2025-08-11T01:57:02.230787+00:00"
+    },
+    {
+      "title": "I found a secret Google Wallet feature — now I never fumble at checkout - Android Police",
+      "source": {
+        "name": "Android Police"
+      },
+      "description": "This nearby passes feature in Google Wallet makes sure your loyalty cards or tickets pop up when you...",
+      "url": "https://www.androidpolice.com/secret-google-wallet-feature/",
+      "publishedAt": "2025-08-09T17:50:00Z",
+      "processed_at": "2025-08-11T01:57:02.230787+00:00"
+    },
+    {
+      "title": "Raiders Mailbag: Why is Jackson Powers-Johnson fighting for a job? - Silver And Black Pride",
+      "source": {
+        "name": "Silver And Black Pride"
+      },
+      "description": "Silver and Black Pride answers Las Vegas Raiders’ fans questions about the preseason and training ca...",
+      "url": "https://www.silverandblackpride.com/las-vegas-raiders-preseason/102712/raiders-preseason-mailbag-training-camp-jackson-powers-johnson",
+      "publishedAt": "2025-08-09T17:05:00Z",
+      "processed_at": "2025-08-11T01:57:02.230787+00:00"
     },
     {
       "title": "Battlefield 6 Beta Breaks 470K Users on Steam; Its Anti-Cheat Already Stopped Over 330K Cheaters - Wccftech",
@@ -20,80 +90,20 @@
       "description": "The Battlefield 6 beta is now open and already registered 470K users on Steam. The Anti-Cheat alread...",
       "url": "https://wccftech.com/battlefield-6-beta-breaks-470k-users-steam-anti-cheat-stopped-330k-attempts/",
       "publishedAt": "2025-08-09T17:00:00Z",
-      "processed_at": "2025-08-10T23:20:17.984874+00:00"
+      "processed_at": "2025-08-11T01:57:02.230787+00:00"
     },
     {
-      "title": "The 10 Best Video Game Prequels - IGN",
+      "title": "Gemini Live rolls out Google Calendar, Tasks, and Keep apps access - 9to5Google",
       "source": {
-        "name": "IGN"
+        "name": "9to5google.com"
       },
-      "description": "With the release of Mafia the Old Country, we look back at some of the best video game prequels of a...",
-      "url": "https://www.ign.com/articles/the-10-best-video-game-prequels",
-      "publishedAt": "2025-08-09T15:02:18Z",
-      "processed_at": "2025-08-10T23:20:17.984874+00:00"
-    },
-    {
-      "title": "Tencent quietly updates \"slavish Horizon clone\" Light of Motiram's Steam page - Eurogamer",
-      "source": {
-        "name": "Eurogamer.net"
-      },
-      "description": "Tencent has quietly removed, edited, and/or replaced key art on the Steam page of its upcoming adven...",
-      "url": "https://www.eurogamer.net/tencent-quietly-updates-slavish-horizon-clone-light-of-motirams-steam-page",
-      "publishedAt": "2025-08-09T14:49:03Z",
-      "processed_at": "2025-08-10T23:20:17.984874+00:00"
-    },
-    {
-      "title": "People Are Sharing Sneaky Health Threats That Are Literally Destroying Your Body - buzzfeed.com",
-      "source": {
-        "name": "Buzzfeed"
-      },
-      "description": "\"Long COVID is the largest mass disabling event in human history, and it is still ongoing.\"...",
-      "url": "https://www.buzzfeed.com/aronawriting/silent-killers-harming-health-reddit",
-      "publishedAt": "2025-08-09T14:31:03Z",
-      "processed_at": "2025-08-10T23:20:17.984874+00:00"
-    },
-    {
-      "title": "I tried the slim Anker Nano Power Bank, and it's crying out for the Pixel 10 - Android Police",
-      "source": {
-        "name": "Android Police"
-      },
-      "description": "The Anker Nano Power Bank is one of the first to be Qi2 certified, and we&#039;ve tested its perform...",
-      "url": "https://www.androidpolice.com/anker-nano-power-bank-with-qi2-tested/",
-      "publishedAt": "2025-08-09T14:13:00Z",
-      "processed_at": "2025-08-10T23:20:17.984874+00:00"
-    },
-    {
-      "title": "Mariners News, 8/9/25: Josh Naylor, Alex Wood, and Kyle Karros - Lookout Landing",
-      "source": {
-        "name": "Lookout Landing"
-      },
-      "description": "Another mid-season retirement, plus Mariners injury updates and more....",
-      "url": "https://www.lookoutlanding.com/mariners-moose-tracks/132533/mariners-news-8-9-25-josh-naylor-alex-wood-and-kyle-karros",
-      "publishedAt": "2025-08-09T14:05:33Z",
-      "processed_at": "2025-08-10T23:20:17.984874+00:00"
-    },
-    {
-      "title": "Gigi Dolin's Fiance Is A Familiar Face For Wrestling Fans - Wrestling Inc.",
-      "source": {
-        "name": "Wrestling Inc."
-      },
-      "description": "Former WWE star Gigi Dolin (AKA Priscilla Kelly) is engaged to someone who might look familiar to wr...",
-      "url": "https://www.wrestlinginc.com/1930515/gigi-dolin-aew-fiance-looks-so-familiar/",
-      "publishedAt": "2025-08-09T13:00:00Z",
-      "processed_at": "2025-08-10T23:20:17.984874+00:00"
-    },
-    {
-      "title": "Is This Seat Taken? makes seating fussy people fun - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "Is This Seat Taken? is an adorable puzzle game about seating arrangements. It’s available on PC, Nin...",
-      "url": "https://www.theverge.com/games-review/717713/is-this-seat-taken-review-pc-nintendo-switch-ios-android",
-      "publishedAt": "2025-08-09T13:00:00Z",
-      "processed_at": "2025-08-10T23:20:17.984874+00:00"
+      "description": "Gemini Live on Android and iOS is now widely rolling out the ability to access Google apps like Keep...",
+      "url": "http://9to5google.com/2025/08/09/gemini-live-google-apps-access/",
+      "publishedAt": "2025-08-09T16:35:00Z",
+      "processed_at": "2025-08-11T01:57:02.230787+00:00"
     }
   ],
-  "lastUpdated": "2025-08-10T23:20:17.984934+00:00",
+  "lastUpdated": "2025-08-11T01:57:02.230856+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
