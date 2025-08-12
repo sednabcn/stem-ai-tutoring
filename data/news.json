@@ -1,7 +1,47 @@
 {
   "status": "success",
-  "totalResults": 10,
+  "totalResults": 9,
   "articles": [
+    {
+      "title": "Switch 2 Fans Debate The Best Way To Play Its New Exclusive - Kotaku",
+      "source": {
+        "name": "Kotaku"
+      },
+      "description": "Fans are buzzing about Drag x Drive: 'I bet jeans will become the meta'...",
+      "url": "https://kotaku.com/switch-2-drag-x-drive-demo-joy-con-jeans-table-mouse-2000616850",
+      "publishedAt": "2025-08-11T13:46:11Z",
+      "processed_at": "2025-08-12T15:23:52.389280+00:00"
+    },
+    {
+      "title": "Latest Pixel 10 series leak shows off every color option from every possible angle - 9to5Google",
+      "source": {
+        "name": "9to5google.com"
+      },
+      "description": "If you already know you're buying a Pixel 10 but you're stuck on color choices, this might be the le...",
+      "url": "http://9to5google.com/2025/08/11/latest-pixel-10-series-leak-every-color-option-every-possible-angle/",
+      "publishedAt": "2025-08-11T13:46:00Z",
+      "processed_at": "2025-08-12T15:23:52.389280+00:00"
+    },
+    {
+      "title": "Rumor points to iPhone 17 Pro adopting Apple Watch Ultra-style antennas - 9to5Mac",
+      "source": {
+        "name": "9to5Mac"
+      },
+      "description": "We’re one day closer to Apple officially announcing the iPhone 17 Pro, and Majin Bu has one more rum...",
+      "url": "https://9to5mac.com/2025/08/11/rumor-points-to-iphone-17-pro-adopting-apple-watch-ultra-style-antennas/",
+      "publishedAt": "2025-08-11T13:16:00Z",
+      "processed_at": "2025-08-12T15:23:52.389280+00:00"
+    },
+    {
+      "title": "Review: Mafia: The Old Country (PS5) - Historical Crime Story Runs Out of Ammo - Push Square",
+      "source": {
+        "name": "Push Square"
+      },
+      "description": "An offer you maybe can refuse...",
+      "url": "https://www.pushsquare.com/reviews/ps5/mafia-the-old-country",
+      "publishedAt": "2025-08-11T13:00:00Z",
+      "processed_at": "2025-08-12T15:23:52.389280+00:00"
+    },
     {
       "title": "Column | Work Advice: When the boss’s buddy gets a chance you’ve been denied - The Washington Post",
       "source": {
@@ -10,100 +50,50 @@
       "description": "Our manager says I can’t attend our annual conference, but she brought my colleague. Is she playing ...",
       "url": "https://www.washingtonpost.com/business/2025/08/11/work-advice-boss-plays-favorites/",
       "publishedAt": "2025-08-11T12:31:59Z",
-      "processed_at": "2025-08-12T14:21:43.941855+00:00"
+      "processed_at": "2025-08-12T15:23:52.389280+00:00"
     },
     {
-      "title": "EA Refuses to Fund the Dragon Age Remasters You Crave - Push Square",
+      "title": "Google Docs gets Material 3 Expressive progress indicator, tweaks - 9to5Google",
       "source": {
-        "name": "Push Square"
+        "name": "9to5google.com"
       },
-      "description": "BioWare needed to fund the project...",
-      "url": "https://www.pushsquare.com/news/2025/08/ea-refuses-to-fund-the-dragon-age-remasters-you-crave",
-      "publishedAt": "2025-08-11T11:00:00Z",
-      "processed_at": "2025-08-12T14:21:43.941855+00:00"
+      "description": "Google Docs, Sheets, and Slides are the latest first-party apps to get various Material 3 Expressive...",
+      "url": "http://9to5google.com/2025/08/11/google-docs-material-3-expressive/",
+      "publishedAt": "2025-08-11T12:30:00Z",
+      "processed_at": "2025-08-12T15:23:52.389280+00:00"
     },
     {
-      "title": "This week in PC games: deep-sea roguelite raids, first-person horror cookery, and a spruced-up Dawn of War - Rock Paper Shotgun",
+      "title": "Apple applies for patent on that ‘single slab of glass’ iPhone - 9to5Mac",
       "source": {
-        "name": "Rock Paper Shotgun"
+        "name": "9to5Mac"
       },
-      "description": "Time to round up some of the many PC games releasing this week, just ahead of the Gamescom rush....",
-      "url": "https://www.rockpapershotgun.com/this-week-in-pc-games-deep-sea-roguelite-raids-first-person-horror-cookery-and-a-spruced-up-dawn-of-war",
-      "publishedAt": "2025-08-11T10:34:26Z",
-      "processed_at": "2025-08-12T14:21:43.941855+00:00"
+      "description": "iOS 26 is giving us a glass-like UI, but Apple’s long-term vision for the iPhone hardware is what fo...",
+      "url": "https://9to5mac.com/2025/08/11/apple-applies-for-patent-on-that-single-slab-of-glass-iphone/",
+      "publishedAt": "2025-08-11T12:10:00Z",
+      "processed_at": "2025-08-12T15:23:52.389280+00:00"
     },
     {
-      "title": "\"He Played 200 Beats A Minute\": Robot Drummer Stuns Engineers By Mastering Complex Songs With Uncanny Human-Like Precision - Rude Baguette",
+      "title": "Surprise Matter update focuses on reliability and stability - The Verge",
       "source": {
-        "name": "Rudebaguette.com"
+        "name": "The Verge"
       },
-      "description": "IN A NUTSHELL 🥁 Researchers have developed a humanoid robot that can play complex drum patterns with...",
-      "url": "https://www.rudebaguette.com/en/2025/08/he-played-200-beats-a-minute-robot-drummer-stuns-engineers-by-mastering-complex-songs-with-uncanny-human-like-precision/",
-      "publishedAt": "2025-08-11T10:14:27Z",
-      "processed_at": "2025-08-12T14:21:43.941855+00:00"
+      "description": "Updates to how Wi-Fi routers work in Matter, how devices connect to the network, and the addition of...",
+      "url": "https://www.theverge.com/matter/757179/matter-1-4-2-spec-release-pushes-platforms-to-play-nicely",
+      "publishedAt": "2025-08-11T12:00:00Z",
+      "processed_at": "2025-08-12T15:23:52.389280+00:00"
     },
     {
-      "title": "Behind the Curtain: Your smarter fake friends - Axios",
+      "title": "5 free Windows PC apps I always install first (and how they improve your workflow) - ZDNET",
       "source": {
-        "name": "Axios"
+        "name": "ZDNet"
       },
-      "description": "Soon, fake friends will interact with the same savvy of as the realest of people....",
-      "url": "https://www.axios.com/2025/08/11/ai-friends-chatbots-future",
-      "publishedAt": "2025-08-11T10:00:43Z",
-      "processed_at": "2025-08-12T14:21:43.941855+00:00"
-    },
-    {
-      "title": "Turtle Beach Announces Officially Licensed Budget Headset For Switch 2 - Nintendo Life",
-      "source": {
-        "name": "Nintendo Life"
-      },
-      "description": "A price that's lite on your pocket...",
-      "url": "https://www.nintendolife.com/news/2025/08/turtle-beach-announces-officially-licensed-budget-headset-for-switch-2",
-      "publishedAt": "2025-08-11T09:53:37Z",
-      "processed_at": "2025-08-12T14:21:43.941855+00:00"
-    },
-    {
-      "title": "New 12.9-Inch MacBook to Launch As Soon This Year for As Low As $599 - MacRumors",
-      "source": {
-        "name": "MacRumors"
-      },
-      "description": "Apple's rumored new more affordable MacBook could have a starting price as low as $599 and launch as...",
-      "url": "https://www.macrumors.com/2025/08/11/new-12-9-inch-macbook-launch-this-year-599-price/",
-      "publishedAt": "2025-08-11T08:38:35Z",
-      "processed_at": "2025-08-12T14:21:43.941855+00:00"
-    },
-    {
-      "title": "The mother of all Google leaks reveals even more Pixel 10, 10 Pro, 10 Pro XL, and 10 Pro Fold info - PhoneArena",
-      "source": {
-        "name": "PhoneArena"
-      },
-      "description": "If you still had any lingering questions regarding the fast-approaching Pixel 10 family, this huge n...",
-      "url": "https://www.phonearena.com/news/google-pixel-10-10-pro-10-pro-xl-10-pro-fold-even-more-info-leaked_id173078",
-      "publishedAt": "2025-08-11T08:12:03Z",
-      "processed_at": "2025-08-12T14:21:43.941855+00:00"
-    },
-    {
-      "title": "WinRAR Zero-Day Under Active Exploitation – Update to Latest Version Immediately - The Hacker News",
-      "source": {
-        "name": "Internet"
-      },
-      "description": "WinRAR 7.13 fixes CVE-2025-8088 zero-day exploited in attacks on Russian firms, linked to Paper Were...",
-      "url": "https://thehackernews.com/2025/08/winrar-zero-day-under-active.html",
-      "publishedAt": "2025-08-11T05:54:00Z",
-      "processed_at": "2025-08-12T14:21:43.941855+00:00"
-    },
-    {
-      "title": "Mario Nintendo Switch Games Hit All-Time Low Prices At Walmart - GameSpot",
-      "source": {
-        "name": "GameSpot"
-      },
-      "description": "Paper Mario: The Thousand-Year Door, Mario & Luigi: Brothership, Super Mario Odyssey, and more are o...",
-      "url": "https://www.gamespot.com/articles/mario-nintendo-switch-games-hit-all-time-low-prices-at-walmart/1100-6533821/",
-      "publishedAt": "2025-08-11T03:35:09Z",
-      "processed_at": "2025-08-12T14:21:43.941855+00:00"
+      "description": "Every time I get a new PC, I install these five apps before I do anything else. Here's why....",
+      "url": "https://www.zdnet.com/home-and-office/work-life/5-free-windows-pc-apps-i-always-install-first-and-how-they-improve-your-workflow/",
+      "publishedAt": "2025-08-11T12:00:00Z",
+      "processed_at": "2025-08-12T15:23:52.389280+00:00"
     }
   ],
-  "lastUpdated": "2025-08-12T14:21:43.941931+00:00",
+  "lastUpdated": "2025-08-12T15:23:52.389353+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
