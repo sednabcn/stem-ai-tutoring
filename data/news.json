@@ -1,7 +1,87 @@
 {
   "status": "success",
-  "totalResults": 9,
+  "totalResults": 10,
   "articles": [
+    {
+      "title": "Madden NFL 26 Review in Progress - IGN",
+      "source": {
+        "name": "IGN"
+      },
+      "description": "So far the changes to this year's game are pretty impressive....",
+      "url": "https://www.ign.com/articles/madden-nfl-26-review",
+      "publishedAt": "2025-08-11T15:48:05Z",
+      "processed_at": "2025-08-12T17:20:04.109824+00:00"
+    },
+    {
+      "title": "Samsung Makes New Free Offer To Millions Of Galaxy Phones - Forbes",
+      "source": {
+        "name": "Forbes"
+      },
+      "description": "Samsung is giving away another major free subscription to millions of galaxy phone users....",
+      "url": "https://www.forbes.com/sites/jaymcgregor/2025/08/11/samsung-gives-google-ai-one-pro-to-galaxy-s25-galaxy-z-fold-users/",
+      "publishedAt": "2025-08-11T15:38:28Z",
+      "processed_at": "2025-08-12T17:20:04.109824+00:00"
+    },
+    {
+      "title": "The Nintendo Switch 2 apparently uses DLSS 3.1 - My Nintendo News",
+      "source": {
+        "name": "My Nintendo News"
+      },
+      "description": "LynxByte Games, which appears to be a developer and publishing company which specialises in porting ...",
+      "url": "https://mynintendonews.com/2025/08/11/the-nintendo-switch-2-apparently-uses-dlss-3-1/",
+      "publishedAt": "2025-08-11T15:28:41Z",
+      "processed_at": "2025-08-12T17:20:04.109824+00:00"
+    },
+    {
+      "title": "This magnetic charger brings the conveniences of wireless charging to the iPad - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "Kuxui’s new M30 magnetically attaches to the back of iPads and charges them faster than a wireless c...",
+      "url": "https://www.theverge.com/news/757457/kuxiu-m30-magnetic-smart-connector-charger-apple-ipad-pro-air",
+      "publishedAt": "2025-08-11T15:27:04Z",
+      "processed_at": "2025-08-12T17:20:04.109824+00:00"
+    },
+    {
+      "title": "Final Fantasy dev kinda hates all the retro PS1 graphics nostalgia - Polygon",
+      "source": {
+        "name": "Polygon"
+      },
+      "description": "Koji Sugimoto, a Square Enix programmer who has worked on retro Final Fantasy games, doesn&#039;t ge...",
+      "url": "https://www.polygon.com/final-fantasy-ps1-graphics-low-poly-koji-sugimoto/",
+      "publishedAt": "2025-08-11T15:23:00Z",
+      "processed_at": "2025-08-12T17:20:04.109824+00:00"
+    },
+    {
+      "title": "Report: Black Ops 7 Vault Edition Bonus Skins Leak and Continues Call of Duty’ Silly Skins Era - MP1st",
+      "source": {
+        "name": "http://mp1st.com/category/news"
+      },
+      "description": "",
+      "url": "https://mp1st.com/news/black-ops-7-vault-edition-bonus-skins-leak",
+      "publishedAt": "2025-08-11T15:22:38Z",
+      "processed_at": "2025-08-12T17:20:04.109824+00:00"
+    },
+    {
+      "title": "Apple’s ‘HomeKit’ brand could disappear in big new smart home push - 9to5Mac",
+      "source": {
+        "name": "9to5Mac"
+      },
+      "description": "Apple might be phasing out the ‘HomeKit’ branding in favor of a new, unified Apple Home brand ahead ...",
+      "url": "https://9to5mac.com/2025/08/11/apples-homekit-brand-could-disappear-in-big-new-smart-home-push/",
+      "publishedAt": "2025-08-11T14:08:00Z",
+      "processed_at": "2025-08-12T17:20:04.109824+00:00"
+    },
+    {
+      "title": "Notion CEO Ivan Zhao wants you to demand better from your tools - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "Notion’s Ivan Zhao on AI, productivity, and the future of work....",
+      "url": "https://www.theverge.com/decoder-podcast-with-nilay-patel/756736/notion-ceo-ivan-zhao-productivity-software-design-ai-interview",
+      "publishedAt": "2025-08-11T14:00:00Z",
+      "processed_at": "2025-08-12T17:20:04.109824+00:00"
+    },
     {
       "title": "Switch 2 Fans Debate The Best Way To Play Its New Exclusive - Kotaku",
       "source": {
@@ -10,7 +90,7 @@
       "description": "Fans are buzzing about Drag x Drive: 'I bet jeans will become the meta'...",
       "url": "https://kotaku.com/switch-2-drag-x-drive-demo-joy-con-jeans-table-mouse-2000616850",
       "publishedAt": "2025-08-11T13:46:11Z",
-      "processed_at": "2025-08-12T16:28:03.165721+00:00"
+      "processed_at": "2025-08-12T17:20:04.109824+00:00"
     },
     {
       "title": "Latest Pixel 10 series leak shows off every color option from every possible angle - 9to5Google",
@@ -20,80 +100,10 @@
       "description": "If you already know you're buying a Pixel 10 but you're stuck on color choices, this might be the le...",
       "url": "http://9to5google.com/2025/08/11/latest-pixel-10-series-leak-every-color-option-every-possible-angle/",
       "publishedAt": "2025-08-11T13:46:00Z",
-      "processed_at": "2025-08-12T16:28:03.165721+00:00"
-    },
-    {
-      "title": "Rumor points to iPhone 17 Pro adopting Apple Watch Ultra-style antennas - 9to5Mac",
-      "source": {
-        "name": "9to5Mac"
-      },
-      "description": "We’re one day closer to Apple officially announcing the iPhone 17 Pro, and Majin Bu has one more rum...",
-      "url": "https://9to5mac.com/2025/08/11/rumor-points-to-iphone-17-pro-adopting-apple-watch-ultra-style-antennas/",
-      "publishedAt": "2025-08-11T13:16:00Z",
-      "processed_at": "2025-08-12T16:28:03.165721+00:00"
-    },
-    {
-      "title": "Review: Mafia: The Old Country (PS5) - Historical Crime Story Runs Out of Ammo - Push Square",
-      "source": {
-        "name": "Push Square"
-      },
-      "description": "An offer you maybe can refuse...",
-      "url": "https://www.pushsquare.com/reviews/ps5/mafia-the-old-country",
-      "publishedAt": "2025-08-11T13:00:00Z",
-      "processed_at": "2025-08-12T16:28:03.165721+00:00"
-    },
-    {
-      "title": "Column | Work Advice: When the boss’s buddy gets a chance you’ve been denied - The Washington Post",
-      "source": {
-        "name": "The Washington Post"
-      },
-      "description": "Our manager says I can’t attend our annual conference, but she brought my colleague. Is she playing ...",
-      "url": "https://www.washingtonpost.com/business/2025/08/11/work-advice-boss-plays-favorites/",
-      "publishedAt": "2025-08-11T12:31:59Z",
-      "processed_at": "2025-08-12T16:28:03.165721+00:00"
-    },
-    {
-      "title": "Google Docs gets Material 3 Expressive progress indicator, tweaks - 9to5Google",
-      "source": {
-        "name": "9to5google.com"
-      },
-      "description": "Google Docs, Sheets, and Slides are the latest first-party apps to get various Material 3 Expressive...",
-      "url": "http://9to5google.com/2025/08/11/google-docs-material-3-expressive/",
-      "publishedAt": "2025-08-11T12:30:00Z",
-      "processed_at": "2025-08-12T16:28:03.165721+00:00"
-    },
-    {
-      "title": "Apple applies for patent on that ‘single slab of glass’ iPhone - 9to5Mac",
-      "source": {
-        "name": "9to5Mac"
-      },
-      "description": "iOS 26 is giving us a glass-like UI, but Apple’s long-term vision for the iPhone hardware is what fo...",
-      "url": "https://9to5mac.com/2025/08/11/apple-applies-for-patent-on-that-single-slab-of-glass-iphone/",
-      "publishedAt": "2025-08-11T12:10:00Z",
-      "processed_at": "2025-08-12T16:28:03.165721+00:00"
-    },
-    {
-      "title": "Surprise Matter update focuses on reliability and stability - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "Updates to how Wi-Fi routers work in Matter, how devices connect to the network, and the addition of...",
-      "url": "https://www.theverge.com/matter/757179/matter-1-4-2-spec-release-pushes-platforms-to-play-nicely",
-      "publishedAt": "2025-08-11T12:00:00Z",
-      "processed_at": "2025-08-12T16:28:03.165721+00:00"
-    },
-    {
-      "title": "5 free Windows PC apps I always install first (and how they improve your workflow) - ZDNET",
-      "source": {
-        "name": "ZDNet"
-      },
-      "description": "Every time I get a new PC, I install these five apps before I do anything else. Here's why....",
-      "url": "https://www.zdnet.com/home-and-office/work-life/5-free-windows-pc-apps-i-always-install-first-and-how-they-improve-your-workflow/",
-      "publishedAt": "2025-08-11T12:00:00Z",
-      "processed_at": "2025-08-12T16:28:03.165721+00:00"
+      "processed_at": "2025-08-12T17:20:04.109824+00:00"
     }
   ],
-  "lastUpdated": "2025-08-12T16:28:03.165805+00:00",
+  "lastUpdated": "2025-08-12T17:20:04.109899+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
