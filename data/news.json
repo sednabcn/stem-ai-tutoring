@@ -3,6 +3,26 @@
   "totalResults": 10,
   "articles": [
     {
+      "title": "Just A Mix Of 45 Random Products That Will Make You Go \"Oh, I Need That Immediately\" - BuzzFeed",
+      "source": {
+        "name": "Buzzfeed"
+      },
+      "description": "This teensy 3-in-1 device charging cord is about to be the smartest $13 you ever spent....",
+      "url": "https://www.buzzfeed.com/emmalord9/random-need-products",
+      "publishedAt": "2025-08-11T00:01:03Z",
+      "processed_at": "2025-08-12T01:45:55.311151+00:00"
+    },
+    {
+      "title": "Security flaws in a carmaker’s web portal let one hacker remotely unlock cars from anywhere - TechCrunch",
+      "source": {
+        "name": "TechCrunch"
+      },
+      "description": "Security researcher Eaton Zveare told TechCrunch that the flaws he discovered in the carmaker's cent...",
+      "url": "https://techcrunch.com/2025/08/10/security-flaws-in-a-carmakers-web-portal-let-one-hacker-remotely-unlock-cars-from-anywhere/",
+      "publishedAt": "2025-08-11T00:00:00Z",
+      "processed_at": "2025-08-12T01:45:55.311151+00:00"
+    },
+    {
       "title": "What Google Material 3 Expressive redesigns are rolling out - 9to5Google",
       "source": {
         "name": "9to5google.com"
@@ -10,7 +30,17 @@
       "description": "Material 3 Expressive redesigns are rolling out to Google apps, and here’s our list of what’s availa...",
       "url": "http://9to5google.com/2025/08/10/google-material-3-expressive-redesign/",
       "publishedAt": "2025-08-10T22:30:00Z",
-      "processed_at": "2025-08-11T23:19:50.424884+00:00"
+      "processed_at": "2025-08-12T01:45:55.311151+00:00"
+    },
+    {
+      "title": "Apple working with these apps to prepare for next-gen Siri - 9to5Mac",
+      "source": {
+        "name": "9to5Mac"
+      },
+      "description": "When Apple finishes developing the next generation of Siri, third-party apps will want to integrate ...",
+      "url": "https://9to5mac.com/2025/08/10/apple-new-siri-app-prep/",
+      "publishedAt": "2025-08-10T22:24:00Z",
+      "processed_at": "2025-08-12T01:45:55.311151+00:00"
     },
     {
       "title": "Game 119, Thread 2 - Lookout Landing",
@@ -20,7 +50,7 @@
       "description": "",
       "url": "https://www.lookoutlanding.com/game-thread/132623/game-119-thread-2",
       "publishedAt": "2025-08-10T22:17:52Z",
-      "processed_at": "2025-08-11T23:19:50.424884+00:00"
+      "processed_at": "2025-08-12T01:45:55.311151+00:00"
     },
     {
       "title": "Snake Eyez releases new Season 3 tier list that even includes Sagat's position - EventHubs",
@@ -30,7 +60,7 @@
       "description": "Sagat and a new patch were released for Street Fighter 6 recently. It would seem that renowned Zangi...",
       "url": "https://www.eventhubs.com/news/2025/aug/10/tiers-snake-eyez-s3-list/",
       "publishedAt": "2025-08-10T21:04:55Z",
-      "processed_at": "2025-08-11T23:19:50.424884+00:00"
+      "processed_at": "2025-08-12T01:45:55.311151+00:00"
     },
     {
       "title": "LAST DAY: Massive Apple deal event – M3 iPad Air all-time low, AirPods, M4 MacBooks $300 off, more [Updated] - 9to5Toys",
@@ -40,7 +70,7 @@
       "description": "As we approach week’s end, we are starting to track a massive selection of Apple deals across its cu...",
       "url": "http://9to5toys.com/2025/08/10/apple-deal-week-sale-ipad-macbook/",
       "publishedAt": "2025-08-10T20:50:32Z",
-      "processed_at": "2025-08-11T23:19:50.424884+00:00"
+      "processed_at": "2025-08-12T01:45:55.311151+00:00"
     },
     {
       "title": "\"Gen Z Dumps Smartphones for Flip Phones\": Retrotech Rebellion Targets Attention Economy, Privacy Fears, and Endless Notification Fatigue - Rude Baguette",
@@ -50,7 +80,7 @@
       "description": "IN A NUTSHELL 📱 Gen Z is trading smartphones for dumbphones to regain focus and privacy. 🌀 The rise ...",
       "url": "https://www.rudebaguette.com/en/2025/08/gen-z-dumps-smartphones-for-flip-phones-retrotech-rebellion-targets-attention-economy-privacy-fears-and-endless-notification-fatigue/",
       "publishedAt": "2025-08-10T20:07:41Z",
-      "processed_at": "2025-08-11T23:19:50.424884+00:00"
+      "processed_at": "2025-08-12T01:45:55.311151+00:00"
     },
     {
       "title": "ASUS Launches World’s First 4K WOLED Gaming Monitors In The Strix OLED XG32U Series, Bringing Dual-Mode Configurations With Up To 480Hz Refresh Rate - Wccftech",
@@ -60,7 +90,7 @@
       "description": "ASUS has officially launched world's first 4K WOLED gaming monitors, featuring up to 480Hz refresh r...",
       "url": "https://wccftech.com/asus-launches-worlds-first-4k-woled-gaming-monitors-in-the-strix-oled-xg32u-series/",
       "publishedAt": "2025-08-10T19:33:00Z",
-      "processed_at": "2025-08-11T23:19:50.424884+00:00"
+      "processed_at": "2025-08-12T01:45:55.311151+00:00"
     },
     {
       "title": "New Win-DDoS Flaws Let Attackers Turn Public Domain Controllers into DDoS Botnet via RPC, LDAP - The Hacker News",
@@ -70,40 +100,10 @@
       "description": "SafeBreach found four Windows DoS flaws via RPC and LDAP, enabling stealth DDoS botnets. Microsoft p...",
       "url": "https://thehackernews.com/2025/08/new-win-ddos-flaws-let-attackers-turn.html",
       "publishedAt": "2025-08-10T19:30:00Z",
-      "processed_at": "2025-08-11T23:19:50.424884+00:00"
-    },
-    {
-      "title": "Battlefield 6 Features New \"Quick Turn\" Mechanic That Looks Like You're Cheating on Consoles - MP1st",
-      "source": {
-        "name": "http://mp1st.com/category/news"
-      },
-      "description": "DICE has implemented a new \"quick turn\" feature in Battlefield 6 on consoles that looks like you're ...",
-      "url": "https://mp1st.com/news/battlefield-6-features-new-quick-turn-that-looks-like-youre-cheating",
-      "publishedAt": "2025-08-10T17:22:50Z",
-      "processed_at": "2025-08-11T23:19:50.424884+00:00"
-    },
-    {
-      "title": "Ryzen 9800X3D Emptying Wallets? Here Are Three Affordable CPUs That Still Crush Games - Wccftech",
-      "source": {
-        "name": "Wccftech"
-      },
-      "description": "If you are searching for a high-performance gaming CPU, you don't necessarily need to buy the Ryzen ...",
-      "url": "https://wccftech.com/three-affordable-cpus-that-still-crush-games/",
-      "publishedAt": "2025-08-10T16:44:00Z",
-      "processed_at": "2025-08-11T23:19:50.424884+00:00"
-    },
-    {
-      "title": "Japan: Nintendo reveals best selling eShop games for July 2025 - My Nintendo News",
-      "source": {
-        "name": "My Nintendo News"
-      },
-      "description": "Nintendo has announced the most popular games for the month of July on the Nintendo eShop. This cove...",
-      "url": "https://mynintendonews.com/2025/08/10/japan-nintendo-reveals-best-selling-eshop-games-for-july-2025/",
-      "publishedAt": "2025-08-10T16:12:41Z",
-      "processed_at": "2025-08-11T23:19:50.424884+00:00"
+      "processed_at": "2025-08-12T01:45:55.311151+00:00"
     }
   ],
-  "lastUpdated": "2025-08-11T23:19:50.424958+00:00",
+  "lastUpdated": "2025-08-12T01:45:55.311234+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
