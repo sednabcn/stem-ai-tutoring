@@ -1,16 +1,96 @@
 {
   "status": "success",
-  "totalResults": 9,
+  "totalResults": 10,
   "articles": [
     {
-      "title": "12 PS Plus Extra, Premium Games for August 2025 Announced - Push Square",
+      "title": "PUBG On PS4 And Xbox Shutting Down After Nearly 8 Years - Kotaku",
       "source": {
-        "name": "Push Square"
+        "name": "Kotaku"
       },
-      "description": "",
-      "url": "https://www.pushsquare.com/news/2025/08/12-ps-plus-extra-premium-games-for-august-2025-announced",
-      "publishedAt": "2025-08-13T15:42:21Z",
-      "processed_at": "2025-08-14T16:28:24.405495+00:00"
+      "description": "The popular battle royale shooter will stop working on the aging consoles in November...",
+      "url": "https://kotaku.com/well-bad-news-for-pubg-players-on-ps4-and-xbox-one-2000617500",
+      "publishedAt": "2025-08-13T17:33:14Z",
+      "processed_at": "2025-08-14T17:19:07.627367+00:00"
+    },
+    {
+      "title": "PS Plus August 2025: Spider-Man Comes And Witcher 3 Goes - Kotaku",
+      "source": {
+        "name": "Kotaku"
+      },
+      "description": "Mortal Kombat and classic Resident Evil games are also part of the mix...",
+      "url": "https://kotaku.com/spider-man-ps-plus-ps5-motal-kombat-resident-evil-witcher-3-2000617489",
+      "publishedAt": "2025-08-13T16:55:58Z",
+      "processed_at": "2025-08-14T17:19:07.627367+00:00"
+    },
+    {
+      "title": "Google’s official Pixel 10 cases leak with familiar look and magnet ring [Gallery] - 9to5Google",
+      "source": {
+        "name": "9to5google.com"
+      },
+      "description": "Google's first-party Pixel 10 cases have just leaked with new colors and the arrival of magnets buil...",
+      "url": "http://9to5google.com/2025/08/13/pixel-10-case-leak-magnets/",
+      "publishedAt": "2025-08-13T16:35:00Z",
+      "processed_at": "2025-08-14T17:19:07.627367+00:00"
+    },
+    {
+      "title": "Pebble’s smartwatch is back: Pebble Time 2 specs revealed - TechCrunch",
+      "source": {
+        "name": "TechCrunch"
+      },
+      "description": "The Pebble Time 2's final smartwatch specs are revealed. (And yes, you can call it a \"Pebble\" again!...",
+      "url": "https://techcrunch.com/2025/08/13/pebbles-smartwatch-is-back-pebble-time-2-specs-revealed/",
+      "publishedAt": "2025-08-13T16:28:04Z",
+      "processed_at": "2025-08-14T17:19:07.627367+00:00"
+    },
+    {
+      "title": "Google’s Gemini AI will get more personalized by remembering details automatically - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "Google is rolling out a new feature for its Gemini AI chatbot that will allow it to “remember” certa...",
+      "url": "https://www.theverge.com/news/758624/google-gemini-ai-automatic-memory-privacy-update",
+      "publishedAt": "2025-08-13T16:00:00Z",
+      "processed_at": "2025-08-14T17:19:07.627367+00:00"
+    },
+    {
+      "title": "Microsoft Stock (MSFT) Slips Alongside a Windows 10 Lawsuit - TipRanks",
+      "source": {
+        "name": "Tipranks.com"
+      },
+      "description": "Microsoft stock slipped on Wednesday alongside news of a lawsuit to continue support for Windows 10....",
+      "url": "https://www.tipranks.com/news/microsoft-stock-msft-slips-alongside-a-windows-10-lawsuit",
+      "publishedAt": "2025-08-13T15:30:46Z",
+      "processed_at": "2025-08-14T17:19:07.627367+00:00"
+    },
+    {
+      "title": "Here Are All the Rumors About Apple's New $599 MacBook - MacRumors",
+      "source": {
+        "name": "MacRumors"
+      },
+      "description": "Rumors continue to surface about Apple launching an affordable MacBook as early as this year.   Belo...",
+      "url": "https://www.macrumors.com/2025/08/13/lower-cost-macbook-rumor/",
+      "publishedAt": "2025-08-13T15:15:00Z",
+      "processed_at": "2025-08-14T17:19:07.627367+00:00"
+    },
+    {
+      "title": "Attendees Call Florida Gamer Convention A Scam, But At Least It Had Camels To Pet - Kotaku",
+      "source": {
+        "name": "Kotaku"
+      },
+      "description": "Plus: Rumors of a new GTA Trilogy port on Switch, union news, Stalker 2 gets an upgrade, and bigger ...",
+      "url": "https://kotaku.com/attendees-call-florida-gamer-convention-a-scam-but-at-least-it-had-camels-to-pet-2000617446",
+      "publishedAt": "2025-08-13T15:10:18Z",
+      "processed_at": "2025-08-14T17:19:07.627367+00:00"
+    },
+    {
+      "title": "Google Photos details how to use ‘Remix’ feature that can turn pictures into cartoons - 9to5Google",
+      "source": {
+        "name": "9to5google.com"
+      },
+      "description": "In a post, Google explains how to use the new \"Remix\" feature in Google Photos that can turn your pi...",
+      "url": "http://9to5google.com/2025/08/13/google-photos-remix-feature-how-to-use/",
+      "publishedAt": "2025-08-13T15:10:00Z",
+      "processed_at": "2025-08-14T17:19:07.627367+00:00"
     },
     {
       "title": "45+ PS5, PS4 Games to Buy in PS Store's Gamescom Promotion Sale - Push Square",
@@ -20,80 +100,10 @@
       "description": "PS5 and PS4 games going cheap we recommend...",
       "url": "https://www.pushsquare.com/guides/45plus-ps5-ps4-games-to-buy-in-ps-stores-gamescom-promotion-sale",
       "publishedAt": "2025-08-13T15:00:00Z",
-      "processed_at": "2025-08-14T16:28:24.405495+00:00"
-    },
-    {
-      "title": "The AI Was Fed Sloppy Code. It Turned Into Something Evil. - Quanta Magazine",
-      "source": {
-        "name": "Quanta Magazine"
-      },
-      "description": "The new science of “emergent misalignment” explores how PG-13 training data — insecure code, superst...",
-      "url": "https://www.quantamagazine.org/the-ai-was-fed-sloppy-code-it-turned-into-something-evil-20250813/",
-      "publishedAt": "2025-08-13T14:20:41Z",
-      "processed_at": "2025-08-14T16:28:24.405495+00:00"
-    },
-    {
-      "title": "Samsung now rolling out expanded One UI 8 beta with Android 16 to these Galaxy devices - 9to5Google",
-      "source": {
-        "name": "9to5google.com"
-      },
-      "description": "It’s been more delayed than many have expected, but Samsung is finally making progress on its Androi...",
-      "url": "http://9to5google.com/2025/08/13/samsung-one-ui-8-beta-expansion-galaxy-s24-fold-6/",
-      "publishedAt": "2025-08-13T14:15:00Z",
-      "processed_at": "2025-08-14T16:28:24.405495+00:00"
-    },
-    {
-      "title": "Mafia: The Old Country review - by-the-numbers design bolstered by a gripping narrative and refreshing brevity - Eurogamer",
-      "source": {
-        "name": "Eurogamer.net"
-      },
-      "description": "Mafia continues to feel a tad dated in its design trappings, but there's beauty, efficiency and nuan...",
-      "url": "https://www.eurogamer.net/mafia-the-old-country-review",
-      "publishedAt": "2025-08-13T14:12:09Z",
-      "processed_at": "2025-08-14T16:28:24.405495+00:00"
-    },
-    {
-      "title": "New iPhone 17 Air video reveals beautiful Sky Blue dummy model - 9to5Mac",
-      "source": {
-        "name": "9to5Mac"
-      },
-      "description": "Apple’s iPhone 17 Air is expected to be available in a beautiful Sky Blue color finish, and a new du...",
-      "url": "https://9to5mac.com/2025/08/13/new-iphone-17-air-video-reveals-beautiful-sky-blue-dummy-model/",
-      "publishedAt": "2025-08-13T13:59:00Z",
-      "processed_at": "2025-08-14T16:28:24.405495+00:00"
-    },
-    {
-      "title": "iPhone Users Exposed as \"Clicking Into Traps More Often\" While Android Owners Show Stronger Cybersecurity Habits in Global Study - Rude Baguette",
-      "source": {
-        "name": "Rudebaguette.com"
-      },
-      "description": "IN A NUTSHELL 📊 A study by Malwarebytes reveals that iPhone users are more prone to online scams tha...",
-      "url": "https://www.rudebaguette.com/en/2025/08/iphone-users-exposed-as-clicking-into-traps-more-often-while-android-owners-show-stronger-cybersecurity-habits-in-global-study/",
-      "publishedAt": "2025-08-13T13:10:59Z",
-      "processed_at": "2025-08-14T16:28:24.405495+00:00"
-    },
-    {
-      "title": "Here’s a look at the final Pebble Time 2 design - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "Pebble is Pebble again, and the new Time 2 sports a sleeker profile and RGB backlighting....",
-      "url": "https://www.theverge.com/news/758592/pebble-time-2-final-design-wearables-smartwatches",
-      "publishedAt": "2025-08-13T13:01:57Z",
-      "processed_at": "2025-08-14T16:28:24.405495+00:00"
-    },
-    {
-      "title": "At $31,995, Does This 2019 Ford Mustang GT Offer Some Serious Bang For Your Buck? - Jalopnik",
-      "source": {
-        "name": "Jalopnik"
-      },
-      "description": "Today's Nice Price or No Dice Mustang checks all the right boxes — six-speed stick, Recaro seats, an...",
-      "url": "https://www.jalopnik.com/1938394/2019-ford-mustang-gt-for-sale-31995/",
-      "publishedAt": "2025-08-13T12:25:00Z",
-      "processed_at": "2025-08-14T16:28:24.405495+00:00"
+      "processed_at": "2025-08-14T17:19:07.627367+00:00"
     }
   ],
-  "lastUpdated": "2025-08-14T16:28:24.405567+00:00",
+  "lastUpdated": "2025-08-14T17:19:07.627447+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
