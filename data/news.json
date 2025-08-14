@@ -1,16 +1,36 @@
 {
   "status": "success",
-  "totalResults": 9,
+  "totalResults": 10,
   "articles": [
+    {
+      "title": "Stripe apologizes for customer service agents claiming LGBTQ products were banned - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "“The information given by our support team was totally wrong.”...",
+      "url": "https://www.theverge.com/report/758927/stripe-lgbt-content-statement-itchio-adult-content",
+      "publishedAt": "2025-08-13T20:39:15Z",
+      "processed_at": "2025-08-14T21:19:54.883988+00:00"
+    },
     {
       "title": "Stuff Your Kindle Day is live until Aug. 16 — download 100s of free historical fiction and contemporary books - Mashable",
       "source": {
         "name": "Mashable"
       },
-      "description": "",
+      "description": "Step through time with this latest free book blast....",
       "url": "https://mashable.com/article/aug-12-stuff-your-kindle-day",
       "publishedAt": "2025-08-13T19:49:24Z",
-      "processed_at": "2025-08-14T20:24:23.701585+00:00"
+      "processed_at": "2025-08-14T21:19:54.883988+00:00"
+    },
+    {
+      "title": "Apple Watch Ultra 3 could remedy this current ‘Ultra’ discrepancy - 9to5Mac",
+      "source": {
+        "name": "9to5Mac"
+      },
+      "description": "Apple Watch Ultra 3 is coming soon, and rumors indicate it could remedy a discrepancy that arose las...",
+      "url": "https://9to5mac.com/2025/08/13/apple-watch-ultra-3-could-remedy-this-current-ultra-discrepancy/",
+      "publishedAt": "2025-08-13T19:46:00Z",
+      "processed_at": "2025-08-14T21:19:54.883988+00:00"
     },
     {
       "title": "Two Of The Worst-Reviewed Games On Switch 2 Come From Nintendo - Kotaku",
@@ -20,7 +40,17 @@
       "description": "Drag x Drive and Switch 2 launch game Welcome Tour are both at the very bottom of Metacritic's Switc...",
       "url": "https://kotaku.com/switch-2-worst-games-nintendo-metacritic-drag-x-drive-welcome-tour-2000617517",
       "publishedAt": "2025-08-13T19:43:59Z",
-      "processed_at": "2025-08-14T20:24:23.701585+00:00"
+      "processed_at": "2025-08-14T21:19:54.883988+00:00"
+    },
+    {
+      "title": "Google CEO adds a new calendar feature at Stripe co-founder’s request - TechCrunch",
+      "source": {
+        "name": "TechCrunch"
+      },
+      "description": "While users often tag companies and CEOs with online feedback and complaints, you know you've made i...",
+      "url": "https://techcrunch.com/2025/08/13/google-ceo-adds-a-new-calendar-feature-at-stripe-co-founders-request/",
+      "publishedAt": "2025-08-13T19:35:46Z",
+      "processed_at": "2025-08-14T21:19:54.883988+00:00"
     },
     {
       "title": "Another Pixel 10 leak points to wireless Qi2 charging - The Verge",
@@ -30,17 +60,7 @@
       "description": "It looks like Google’s rumored ‘Pixelsnap’ case could come with a ring for magnetic charging....",
       "url": "https://www.theverge.com/news/758906/pixel-10-qi2-charging-pixelsnap-case-leak",
       "publishedAt": "2025-08-13T19:32:07Z",
-      "processed_at": "2025-08-14T20:24:23.701585+00:00"
-    },
-    {
-      "title": "Google Gemini will now learn from your chats—unless you tell it not to - Ars Technica",
-      "source": {
-        "name": "Ars Technica"
-      },
-      "description": "Gemini will remember this, so it’s time to check your privacy settings....",
-      "url": "https://arstechnica.com/ai/2025/08/google-gemini-will-now-learn-from-your-chats-unless-you-tell-it-not-to/",
-      "publishedAt": "2025-08-13T18:40:18Z",
-      "processed_at": "2025-08-14T20:24:23.701585+00:00"
+      "processed_at": "2025-08-14T21:19:54.883988+00:00"
     },
     {
       "title": "Apple Plots Expansion Into AI Robots, Home Security and Smart Displays - Bloomberg.com",
@@ -50,7 +70,17 @@
       "description": "Apple Inc. is plotting its artificial intelligence comeback with an ambitious slate of new devices, ...",
       "url": "https://www.bloomberg.com/news/articles/2025-08-13/apple-s-ai-turnaround-plan-robots-lifelike-siri-and-home-security-cameras",
       "publishedAt": "2025-08-13T18:21:12Z",
-      "processed_at": "2025-08-14T20:24:23.701585+00:00"
+      "processed_at": "2025-08-14T21:19:54.883988+00:00"
+    },
+    {
+      "title": "Google Photos rolling out new ‘Create’ tab on Android, iOS - 9to5Google",
+      "source": {
+        "name": "9to5google.com"
+      },
+      "description": "After simplifying to three items in the bottom bar earlier this year, Google Photos is rolling out a...",
+      "url": "http://9to5google.com/2025/08/13/google-photos-create-tab/",
+      "publishedAt": "2025-08-13T18:19:00Z",
+      "processed_at": "2025-08-14T21:19:54.883988+00:00"
     },
     {
       "title": "PlayStation Plus Extra/Premium Games For August 2025 Include This Day-One Release - GameSpot",
@@ -60,40 +90,20 @@
       "description": "Here's what PlayStation Plus subscribers can look forward to in the refreshed Game Catalog in August...",
       "url": "https://www.gamespot.com/gallery/playstation-plus-extra-premium-games-for-august-2025-include-this-day-one-release/2900-6875/",
       "publishedAt": "2025-08-13T18:12:29Z",
-      "processed_at": "2025-08-14T20:24:23.701585+00:00"
+      "processed_at": "2025-08-14T21:19:54.883988+00:00"
     },
     {
-      "title": "MacBook Air With M1 Chip is Just $599 at Walmart - MacRumors",
+      "title": "Mini Review: Heretic + Hexen (PS5) - Dark Fantasy Shooters Righteously Resurrected - Push Square",
       "source": {
-        "name": "MacRumors"
+        "name": "Push Square"
       },
-      "description": "In case you missed it, Walmart is currently offering the older but still very capable MacBook Air wi...",
-      "url": "https://www.macrumors.com/2025/08/13/macbook-air-with-m1-chip-599-at-walmart/",
-      "publishedAt": "2025-08-13T18:11:04Z",
-      "processed_at": "2025-08-14T20:24:23.701585+00:00"
-    },
-    {
-      "title": "macOS Tahoe adds 15 beautiful new screensavers, available here - 9to5Mac",
-      "source": {
-        "name": "Google News"
-      },
-      "description": "",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRkNSeGNHMXlnMFdLOFJTZzRZZ0VESnZvQWJORElIakhJcWpBbkFTcFZQSU1UZ0JVeUc3ZUNvTzRpRm11SjBHcUEyUDQ0N043dTZIUlJWTTIzbmxXQ1FoZDB0TmNFQUJxTlpVZnpIWVJCd01YeDlrMENsZXNEWHFnb25EYXJWbTdTZkdwelBfcUZhVENsRXVsNg?oc=5",
-      "publishedAt": "2025-08-13T17:05:00Z",
-      "processed_at": "2025-08-14T20:24:23.701585+00:00"
-    },
-    {
-      "title": "Pebble’s smartwatch is back: Pebble Time 2 specs revealed - TechCrunch",
-      "source": {
-        "name": "TechCrunch"
-      },
-      "description": "The Pebble Time 2's final smartwatch specs are revealed. (And yes, you can call it a \"Pebble\" again!...",
-      "url": "https://techcrunch.com/2025/08/13/pebbles-smartwatch-is-back-pebble-time-2-specs-revealed/",
-      "publishedAt": "2025-08-13T16:28:04Z",
-      "processed_at": "2025-08-14T20:24:23.701585+00:00"
+      "description": "Watch your profanity...",
+      "url": "https://www.pushsquare.com/reviews/ps5/heretic-plus-hexen",
+      "publishedAt": "2025-08-13T17:50:07Z",
+      "processed_at": "2025-08-14T21:19:54.883988+00:00"
     }
   ],
-  "lastUpdated": "2025-08-14T20:24:23.701653+00:00",
+  "lastUpdated": "2025-08-14T21:19:54.884070+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
