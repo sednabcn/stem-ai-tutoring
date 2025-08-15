@@ -1,7 +1,57 @@
 {
   "status": "success",
-  "totalResults": 8,
+  "totalResults": 9,
   "articles": [
+    {
+      "title": "Is streaming about to have a Wordle moment? - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "Think Connect 4, not Counterstrike....",
+      "url": "https://www.theverge.com/lowpass-newsletter/758917/streaming-gaming-netflix",
+      "publishedAt": "2025-08-14T15:30:00Z",
+      "processed_at": "2025-08-15T17:18:51.231374+00:00"
+    },
+    {
+      "title": "Overwatch 2 Is Moving Away From ‘Oddball’ Heroes In Favor Of ‘Aspirational’ Ones - Kotaku",
+      "source": {
+        "name": "Kotaku"
+      },
+      "description": "",
+      "url": "https://kotaku.com/overwatch-2-oddball-aspirational-character-hero-design-2000617761",
+      "publishedAt": "2025-08-14T14:28:36Z",
+      "processed_at": "2025-08-15T17:18:51.231374+00:00"
+    },
+    {
+      "title": "An afternoon with Drag x Drive reveals a game with a lovely bloodthirsty edge - and a disappointing irony to accessibility representation - Eurogamer",
+      "source": {
+        "name": "Eurogamer.net"
+      },
+      "description": "There's more to Drag x Drive than you'd think, with an enjoyably brutal meta forming - but its poor ...",
+      "url": "https://www.eurogamer.net/an-afternoon-with-drag-x-drive-reveals-a-game-with-a-lovely-bloodthirsty-edge-and-a-disappointing-irony-to-accessibility-representation",
+      "publishedAt": "2025-08-14T14:18:54Z",
+      "processed_at": "2025-08-15T17:18:51.231374+00:00"
+    },
+    {
+      "title": "Apple Watch Blood Oxygen Tracker Returns to US After Legal Win - Bloomberg.com",
+      "source": {
+        "name": "Bloomberg"
+      },
+      "description": "Apple Inc. is restoring the blood oxygen tracking feature on its smartwatch in the US following a ye...",
+      "url": "https://www.bloomberg.com/news/articles/2025-08-14/apple-watch-blood-oxygen-tracker-returns-to-us-after-legal-win",
+      "publishedAt": "2025-08-14T14:17:50Z",
+      "processed_at": "2025-08-15T17:18:51.231374+00:00"
+    },
+    {
+      "title": "Pixel 10 Pro Fold will also have Qi2 charging and delayed release, reliable leaker says - 9to5Google",
+      "source": {
+        "name": "9to5google.com"
+      },
+      "description": "It seems like the wait might be over, and the Google Pixel 10 series will get Qi2 magnetic charging,...",
+      "url": "http://9to5google.com/2025/08/14/pixel-10-pro-fold-qi2-leak/",
+      "publishedAt": "2025-08-14T14:15:00Z",
+      "processed_at": "2025-08-15T17:18:51.231374+00:00"
+    },
     {
       "title": "Drift Week Slides into GTA Online with a Free Vehicle and Street-Ready Upgrades - Rockstar Games",
       "source": {
@@ -10,17 +60,27 @@
       "description": "Los Santos power slides into Drift Week with panache. Claim a brand-new drift vehicle for free and o...",
       "url": "https://www.rockstargames.com/newswire/article/392947k1892o88/drift-week-slides-into-gta-online-with-a-free-vehicle-and-street-ready",
       "publishedAt": "2025-08-14T14:08:28Z",
-      "processed_at": "2025-08-15T16:26:41.848081+00:00"
+      "processed_at": "2025-08-15T17:18:51.231374+00:00"
     },
     {
-      "title": "What Car Has The Best Seats? - Jalopnik",
+      "title": "iPhone 17 Pro could redefine Apple’s Pro color strategy - 9to5Mac",
       "source": {
-        "name": "Jalopnik"
+        "name": "9to5Mac"
       },
-      "description": "Anything placed behind a steering wheel on the factory line is eligible here, but so are aftermarket...",
-      "url": "https://www.jalopnik.com/1939536/what-car-has-the-best-seats/",
-      "publishedAt": "2025-08-14T13:25:00Z",
-      "processed_at": "2025-08-15T16:26:41.848081+00:00"
+      "description": "After two years of titanium iPhone Pro models and many more years of stainless steel, Apple is rumor...",
+      "url": "https://9to5mac.com/2025/08/14/iphone-17-pro-color-relief/",
+      "publishedAt": "2025-08-14T14:08:00Z",
+      "processed_at": "2025-08-15T17:18:51.231374+00:00"
+    },
+    {
+      "title": "HTC is getting in on AI glasses, too - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "The new Vive Eagle smart glasses come with a built-in AI assistant that wearers can use to translate...",
+      "url": "https://www.theverge.com/news/759221/htc-vive-eagle-ai-smart-glasses",
+      "publishedAt": "2025-08-14T13:40:44Z",
+      "processed_at": "2025-08-15T17:18:51.231374+00:00"
     },
     {
       "title": "Google Messages is now blurring nude images - The Verge",
@@ -30,60 +90,10 @@
       "description": "﻿The Sensitive Content Warnings feature is rolling out 10 months after it was first announced....",
       "url": "https://www.theverge.com/news/759198/google-messages-sensitive-content-warnings-feature",
       "publishedAt": "2025-08-14T13:15:53Z",
-      "processed_at": "2025-08-15T16:26:41.848081+00:00"
-    },
-    {
-      "title": "Apple returns blood oxygen monitoring to the latest Apple Watches - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "Apple announced it’s launching a redesigned blood oxygen feature where the metric will be calculated...",
-      "url": "https://www.theverge.com/news/759158/apple-watch-blood-oxygen-redesign-import-ban-wearables-smartwatch",
-      "publishedAt": "2025-08-14T13:00:00Z",
-      "processed_at": "2025-08-15T16:26:41.848081+00:00"
-    },
-    {
-      "title": "Apple accidentally leaked some of its upcoming chip bumps - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "Code shared by Apple suggests an M5-equipped Vision Pro 2, an upgraded iPad Mini, and more....",
-      "url": "https://www.theverge.com/news/759167/apple-chip-bump-leak-vision-pro-ipad-mi",
-      "publishedAt": "2025-08-14T12:58:05Z",
-      "processed_at": "2025-08-15T16:26:41.848081+00:00"
-    },
-    {
-      "title": "Teenage Engineering’s new PC case is plastic and free - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "The Computer-2 is made from a single sheet of semi-transparent plastic and folds into a small form f...",
-      "url": "https://www.theverge.com/news/759178/teenage-engineering-mini-itx-computer-2-pc-case",
-      "publishedAt": "2025-08-14T12:51:02Z",
-      "processed_at": "2025-08-15T16:26:41.848081+00:00"
-    },
-    {
-      "title": "Faster animations on iOS 26 makes even older iPhones feel like new - 9to5Mac",
-      "source": {
-        "name": "9to5Mac"
-      },
-      "description": "The design revamp brought about with iOS 26 brings all sorts of new animations along with the Liquid...",
-      "url": "https://9to5mac.com/2025/08/14/ios-26-animation-speed-old-iphone-feel-faster/",
-      "publishedAt": "2025-08-14T11:39:00Z",
-      "processed_at": "2025-08-15T16:26:41.848081+00:00"
-    },
-    {
-      "title": "I Replaced My Mac With an iPad for an Entire Week. It Went as Well as You’d Expect - WIRED",
-      "source": {
-        "name": "Wired"
-      },
-      "description": "The latest iPadOS makes Apple’s tablet behave more like a Mac than ever. Can an iPad now finally rep...",
-      "url": "https://www.wired.com/story/i-replaced-my-mac-with-an-ipad-for-an-entire-week-it-went-as-well-as-youd-expect/",
-      "publishedAt": "2025-08-14T11:00:00Z",
-      "processed_at": "2025-08-15T16:26:41.848081+00:00"
+      "processed_at": "2025-08-15T17:18:51.231374+00:00"
     }
   ],
-  "lastUpdated": "2025-08-15T16:26:41.848145+00:00",
+  "lastUpdated": "2025-08-15T17:18:51.231443+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
