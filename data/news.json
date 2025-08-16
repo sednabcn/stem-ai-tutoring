@@ -1,16 +1,86 @@
 {
   "status": "success",
-  "totalResults": 9,
+  "totalResults": 10,
   "articles": [
+    {
+      "title": "Anker’s 3-in-1 Qi2 charging station has returned to its Prime Day low - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "Anker’s MagGo Wireless Charging Station is matching its best price ever. Crunchyroll is also offerin...",
+      "url": "https://www.theverge.com/tech/759853/anker-maggo-3-in-1-qi2-charging-station-oneplus-buds-4-deal-sale",
+      "publishedAt": "2025-08-15T17:30:00Z",
+      "processed_at": "2025-08-16T19:16:00.185726+00:00"
+    },
+    {
+      "title": "EA's upcoming Skate understands that the soundtrack is just as important as the gameplay, confirms over 100 songs - Eurogamer",
+      "source": {
+        "name": "Eurogamer.net"
+      },
+      "description": "Do you remem-bah?...",
+      "url": "https://www.eurogamer.net/eas-upcoming-skate-understands-that-the-soundtrack-is-just-as-important-as-the-gameplay-confirms-over-100-songs",
+      "publishedAt": "2025-08-15T17:00:00Z",
+      "processed_at": "2025-08-16T19:16:00.185726+00:00"
+    },
+    {
+      "title": "Apple Watch Series 11: Three new features coming next month - 9to5Mac",
+      "source": {
+        "name": "9to5Mac"
+      },
+      "description": "Apple Watch Series 11 is coming next month, here are three new features rumored to be included with ...",
+      "url": "https://9to5mac.com/2025/08/15/apple-watch-series-11-three-new-features-coming-next-month/",
+      "publishedAt": "2025-08-15T16:50:00Z",
+      "processed_at": "2025-08-16T19:16:00.185726+00:00"
+    },
+    {
+      "title": "PETA calls for Nintendo to redesign Mario Kart World’s Cow without nose ring - Nintendo Everything",
+      "source": {
+        "name": "Nintendoeverything.com"
+      },
+      "description": "PETA submits letter to Nintendo over Mario Kart World's Cow due to its nose ring - read the full thi...",
+      "url": "https://nintendoeverything.com/peta-mario-kart-world-cow-nose-ring/",
+      "publishedAt": "2025-08-15T16:47:32Z",
+      "processed_at": "2025-08-16T19:16:00.185726+00:00"
+    },
+    {
+      "title": "Does Steven Spielberg’s ‘AI: Artificial Intelligence’ Play Differently Today? - Gizmodo",
+      "source": {
+        "name": "Gizmodo.com"
+      },
+      "description": "Let's revisit the AI classic, in an age where AI itself has become a buzzword....",
+      "url": "https://gizmodo.com/steven-spielberg-ai-retro-review-chatgpt-2000643079",
+      "publishedAt": "2025-08-15T16:00:42Z",
+      "processed_at": "2025-08-16T19:16:00.185726+00:00"
+    },
+    {
+      "title": "Scientists Identify a New Glitch in Human Thinking - Gizmodo",
+      "source": {
+        "name": "Gizmodo.com"
+      },
+      "description": "The newly coined \"doubling-back aversion\" highlights another reason why people stubbornly refuse to ...",
+      "url": "https://gizmodo.com/scientists-identify-a-new-glitch-in-human-thinking-2000643615",
+      "publishedAt": "2025-08-15T15:35:30Z",
+      "processed_at": "2025-08-16T19:16:00.185726+00:00"
+    },
     {
       "title": "EA Knows Rush Sucks In The Battlefield 6 Beta And Is Already Fixing It - Kotaku",
       "source": {
         "name": "Kotaku"
       },
-      "description": "",
+      "description": "Plus: WNBA players will compete against NBA stars, Steam pages are changing, a big new documentary y...",
       "url": "https://kotaku.com/battlefield-6-open-beta-bf6-rush-mcom-change-wnba-mafia-news-2000618000",
       "publishedAt": "2025-08-15T15:15:40Z",
-      "processed_at": "2025-08-16T18:27:49.260585+00:00"
+      "processed_at": "2025-08-16T19:16:00.185726+00:00"
+    },
+    {
+      "title": "iPhone 17 Pro Max might have a camera advantage over iPhone 17 Pro - 9to5Mac",
+      "source": {
+        "name": "9to5Mac"
+      },
+      "description": "iPhone 17 Pro Max might have a unique camera advantage over the smaller iPhone 17 Pro, per a new pos...",
+      "url": "https://9to5mac.com/2025/08/15/iphone-17-pro-max-might-have-a-camera-advantage-over-iphone-17-pro/",
+      "publishedAt": "2025-08-15T15:10:00Z",
+      "processed_at": "2025-08-16T19:16:00.185726+00:00"
     },
     {
       "title": "Geoff Keighley Confirms 7 Games Set for ONL on Tuesday Alongside Fallout Season 2 and a Clair Obscur: Expedition 33 Music Performance - IGN",
@@ -20,80 +90,20 @@
       "description": "Geoff Keighley has confirmed seven of the games that will be shown during Opening Night Live on Tues...",
       "url": "https://www.ign.com/articles/geoff-keighley-confirms-7-games-set-for-onl-on-tuesday-alongside-fallout-season-2-and-a-clair-obscur-expedition-33-music-performance",
       "publishedAt": "2025-08-15T14:37:53Z",
-      "processed_at": "2025-08-16T18:27:49.260585+00:00"
-    },
-    {
-      "title": "iPhone 17 Pro Max Rumored to Have Major Telephoto Camera Upgrade - MacRumors",
-      "source": {
-        "name": "MacRumors"
-      },
-      "description": "The upcoming iPhone 17 Pro Max will feature a significantly upgraded Telephoto camera, according to ...",
-      "url": "https://www.macrumors.com/2025/08/15/iphone-17-pro-max-telephoto-camera-rumor/",
-      "publishedAt": "2025-08-15T14:29:39Z",
-      "processed_at": "2025-08-16T18:27:49.260585+00:00"
+      "processed_at": "2025-08-16T19:16:00.185726+00:00"
     },
     {
       "title": "Ghost of Yōtei Yari gameplay trailer offers 30 seconds of bridge combat - Eurogamer",
       "source": {
         "name": "Eurogamer.net"
       },
-      "description": "",
+      "description": "See lead character Atsu fighting with a spear as enemies approach on a bridge....",
       "url": "https://www.eurogamer.net/ghost-of-yotei-yari-gameplay-trailer-offers-30-seconds-of-bridge-combat",
       "publishedAt": "2025-08-15T13:33:22Z",
-      "processed_at": "2025-08-16T18:27:49.260585+00:00"
-    },
-    {
-      "title": "I Lost My Fiancé to His Life Coach - The Cut",
-      "source": {
-        "name": "The Cut"
-      },
-      "description": "Writer Tyler Donohue gave up everything to help build the life that her ex believed he wanted. Turns...",
-      "url": "http://www.thecut.com/article/breaking-up-with-fiance-over-life-coach-cult.html",
-      "publishedAt": "2025-08-15T13:00:38Z",
-      "processed_at": "2025-08-16T18:27:49.260585+00:00"
-    },
-    {
-      "title": "For Legends: Z-A’s battle system, I rewired the Pokémon part of my brain - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "Pokémon Legends: Z-A is the first Pokémon RPG with a real-time battle system. It made me rethink how...",
-      "url": "https://www.theverge.com/games/759788/pokemon-legends-z-a-battle-real-time-preview",
-      "publishedAt": "2025-08-15T13:00:00Z",
-      "processed_at": "2025-08-16T18:27:49.260585+00:00"
-    },
-    {
-      "title": "Warhammer 40,000: Dawn of War – Enhanced Edition modder spawns over 40,000 Orks to see how far the game can be pushed - VideoGamer",
-      "source": {
-        "name": "Videogamer.com"
-      },
-      "description": "Warhammer 40,000: Dawn of War - Enhanced Edition modders are already pushing the RTS to its limit by...",
-      "url": "https://www.videogamer.com/news/warhammer-40000-dawn-of-war-enhanced-edition-modder-spawns-over-40000-orks-to-see-how-far-the-game-can-be-pushed/",
-      "publishedAt": "2025-08-15T12:18:24Z",
-      "processed_at": "2025-08-16T18:27:49.260585+00:00"
-    },
-    {
-      "title": "This big stick solved my smart garden connectivity problems - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "I upgraded the range of my smart home with this Z-Wave Long Range antenna...",
-      "url": "https://www.theverge.com/tech/759542/home-assistant-connect-zwa-2-z-wave-long-range-antenna",
-      "publishedAt": "2025-08-15T12:00:00Z",
-      "processed_at": "2025-08-16T18:27:49.260585+00:00"
-    },
-    {
-      "title": "Wuchang: Fallen Feathers receives criticism after new ‘censorship’ patch prevents killing historical figures - Video Games Chronicle",
-      "source": {
-        "name": "Video Games Chronicle"
-      },
-      "description": "Many boss fights now have new dialogue, changing the story...",
-      "url": "https://www.videogameschronicle.com/news/wuchang-fallen-feathers-receives-criticism-after-new-censorship-patch-prevents-killing-historical-figures/",
-      "publishedAt": "2025-08-15T10:55:01Z",
-      "processed_at": "2025-08-16T18:27:49.260585+00:00"
+      "processed_at": "2025-08-16T19:16:00.185726+00:00"
     }
   ],
-  "lastUpdated": "2025-08-16T18:27:49.260662+00:00",
+  "lastUpdated": "2025-08-16T19:16:00.185813+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
