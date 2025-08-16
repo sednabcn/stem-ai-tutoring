@@ -1,6 +1,6 @@
 {
   "status": "success",
-  "totalResults": 9,
+  "totalResults": 10,
   "articles": [
     {
       "title": "Black Ops 7’s campaign reportedly ends with 32-person multiplayer extraction mission - Dexerto",
@@ -10,7 +10,17 @@
       "description": "Black Ops 7 could end its campaign with a 32-player multiplayer extraction mission, marking a first ...",
       "url": "https://www.dexerto.com/call-of-duty/black-ops-7s-campaign-reportedly-ends-with-32-person-multiplayer-extraction-mission-3238339/",
       "publishedAt": "2025-08-14T23:24:52Z",
-      "processed_at": "2025-08-16T01:43:18.564878+00:00"
+      "processed_at": "2025-08-16T03:15:12.754089+00:00"
+    },
+    {
+      "title": "PS5 Stunner Neo Berlin 2087 Walks the Uncanny Valley with New Gameplay Trailer - Push Square",
+      "source": {
+        "name": "Push Square"
+      },
+      "description": "It's a third and first-person shooter...",
+      "url": "https://www.pushsquare.com/news/2025/08/ps5-stunner-neo-berlin-2087-walks-the-uncanny-valley-with-new-gameplay-trailer",
+      "publishedAt": "2025-08-14T23:00:00Z",
+      "processed_at": "2025-08-16T03:15:12.754089+00:00"
     },
     {
       "title": "Wuchang: Fallen Feathers Accused Of Censorship In Controversial Update - Kotaku",
@@ -20,7 +30,37 @@
       "description": "The summer Soulslike no longer lets you kill certain bosses following an apparent backlash among som...",
       "url": "https://kotaku.com/wuchang-fallen-feathers-1-5-changes-censorship-game-pass-steam-2000617865",
       "publishedAt": "2025-08-14T21:54:05Z",
-      "processed_at": "2025-08-16T01:43:18.564878+00:00"
+      "processed_at": "2025-08-16T03:15:12.754089+00:00"
+    },
+    {
+      "title": "Android 16 QPR1 Beta 3.1 rolling out with 24 Pixel bug fixes - 9to5Google",
+      "source": {
+        "name": "9to5google.com"
+      },
+      "description": "Following the last major release nearly a month ago, Google is rolling out Android 16 QPR1 Beta 3.1 ...",
+      "url": "http://9to5google.com/2025/08/14/android-16-qpr1-beta-3-1-pixel/",
+      "publishedAt": "2025-08-14T21:28:00Z",
+      "processed_at": "2025-08-16T03:15:12.754089+00:00"
+    },
+    {
+      "title": "AI Slop Is Ripping Off One of Summer’s Best Games. Copycats Are Proving Hard to Kill - WIRED",
+      "source": {
+        "name": "Wired"
+      },
+      "description": "\"Peak\" has sold millions of copies and is Aggro Crab’s biggest hit to date. That makes it a prime ta...",
+      "url": "https://www.wired.com/story/ai-slop-is-ripping-off-one-of-summers-best-games-fighting-back-is-harder-than-you-think/",
+      "publishedAt": "2025-08-14T21:23:50Z",
+      "processed_at": "2025-08-16T03:15:12.754089+00:00"
+    },
+    {
+      "title": "Ascendent Animation Issues Statement Regarding Kiba Walker Following Sexual Allegations With Minors - Anime News Network",
+      "source": {
+        "name": "Anime News Network"
+      },
+      "description": "Ascendent Animation claims no affiliation with Walker, stating that they were not President nor foun...",
+      "url": "https://www.animenewsnetwork.com/news/2025-08-14/ascendent-animation-issues-statement-regarding-kiba-walker-following-sexual-allegations-with-minors/.227585",
+      "publishedAt": "2025-08-14T20:06:55Z",
+      "processed_at": "2025-08-16T03:15:12.754089+00:00"
     },
     {
       "title": "Google releases pint-size Gemma open AI model - Ars Technica",
@@ -30,17 +70,17 @@
       "description": "The new Gemma model is a fraction of the size of most new models....",
       "url": "https://arstechnica.com/google/2025/08/google-releases-pint-size-gemma-open-ai-model/",
       "publishedAt": "2025-08-14T20:04:22Z",
-      "processed_at": "2025-08-16T01:43:18.564878+00:00"
+      "processed_at": "2025-08-16T03:15:12.754089+00:00"
     },
     {
       "title": "Microsoft Xbox Wireless Controllers Are Down to Just $39.99 with Free Shipping at Lenovo - IGN",
       "source": {
         "name": "IGN"
       },
-      "description": "",
+      "description": "Microsoft recently raised the retail price on these controllers from $55 to $65, making this an even...",
       "url": "https://www.ign.com/articles/microsoft-xbox-controller-deals-at-lenovo",
       "publishedAt": "2025-08-14T19:20:53Z",
-      "processed_at": "2025-08-16T01:43:18.564878+00:00"
+      "processed_at": "2025-08-16T03:15:12.754089+00:00"
     },
     {
       "title": "Galaxy Watch 8 Classic now comes with ultra-cheap Buds 3 Pro - SamMobile",
@@ -50,27 +90,7 @@
       "description": "Samsung's most technologically advanced vacuum cleaner, the Bespoke Jet Bot Combo AI, is also the mo...",
       "url": "https://www.sammobile.com/news/samsung-most-advanced-robot-vacuum-almost-50-percent-off-uk/",
       "publishedAt": "2025-08-14T17:56:00Z",
-      "processed_at": "2025-08-16T01:43:18.564878+00:00"
-    },
-    {
-      "title": "Pixel 10 Pro Fold leak reveals UFS 4.0 storage, first foldable with IP68 rating - 9to5Google",
-      "source": {
-        "name": "9to5google.com"
-      },
-      "description": "A new Pixel 10 Pro Fold leak details support for faster UFS 4.0 storage alongside the arrival of the...",
-      "url": "http://9to5google.com/2025/08/14/google-pixel-10-pro-fold-leak-ufs-storage-ip68-specs/",
-      "publishedAt": "2025-08-14T17:55:00Z",
-      "processed_at": "2025-08-16T01:43:18.564878+00:00"
-    },
-    {
-      "title": "Apple accidentally leaked its own top-secret hardware in software code—and it looks like we're getting a slew of products across 7 categories - Fortune",
-      "source": {
-        "name": "Fortune"
-      },
-      "description": "Apple has a history of leaving breadcrumbs referencing future hardware in its code....",
-      "url": "https://fortune.com/2025/08/14/apple-leaks-new-products-software-code-vision-pro-studio-display-homepod-tv-ipad/",
-      "publishedAt": "2025-08-14T17:47:15Z",
-      "processed_at": "2025-08-16T01:43:18.564878+00:00"
+      "processed_at": "2025-08-16T03:15:12.754089+00:00"
     },
     {
       "title": "Apple releases new iOS 26 beta 6 build for developers - 9to5Mac",
@@ -80,20 +100,10 @@
       "description": "Apple has released a new iOS 26 beta 6 build for developers, just days after the first version shipp...",
       "url": "https://9to5mac.com/2025/08/14/apple-releases-new-ios-26-beta-6-build-for-developers/",
       "publishedAt": "2025-08-14T17:22:00Z",
-      "processed_at": "2025-08-16T01:43:18.564878+00:00"
-    },
-    {
-      "title": "Grand Theft Auto 5 Players Think They've Finally Solved the Mount Chiliad Mystery, But Others Aren't Convinced - IGN",
-      "source": {
-        "name": "IGN"
-      },
-      "description": "A Grand Theft Auto 5 content creator believes he has finally solved the infamous Mount Chiliad myste...",
-      "url": "https://www.ign.com/articles/grand-theft-auto-5-players-think-theyve-finally-solved-the-mount-chiliad-mystery-but-others-arent-convinced",
-      "publishedAt": "2025-08-14T17:07:04Z",
-      "processed_at": "2025-08-16T01:43:18.564878+00:00"
+      "processed_at": "2025-08-16T03:15:12.754089+00:00"
     }
   ],
-  "lastUpdated": "2025-08-16T01:43:18.564949+00:00",
+  "lastUpdated": "2025-08-16T03:15:12.754162+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
