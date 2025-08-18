@@ -1,16 +1,56 @@
 {
   "status": "success",
-  "totalResults": 9,
+  "totalResults": 10,
   "articles": [
+    {
+      "title": "The First Descendant is using bizarre AI ads, at least one of which appears to be a clone of a real content creator - Eurogamer",
+      "source": {
+        "name": "Eurogamer.net"
+      },
+      "description": "The First Descendant developer/publisher Nexon has been accused of using a series of \"embarrassing\" ...",
+      "url": "https://www.eurogamer.net/the-first-descendant-is-using-bizarre-ai-ads-at-least-one-of-which-appears-to-be-a-clone-of-a-real-content-creator",
+      "publishedAt": "2025-08-17T14:43:04Z",
+      "processed_at": "2025-08-18T15:24:08.997709+00:00"
+    },
+    {
+      "title": "Mark Gurman Responds to Last Week's Apple Device Leaks - MacRumors",
+      "source": {
+        "name": "MacRumors"
+      },
+      "description": "Last week, Apple released and then pulled a software tool that accidentally contained identifiers fo...",
+      "url": "https://www.macrumors.com/2025/08/17/mark-gurman-responds-to-apple-devices-leak/",
+      "publishedAt": "2025-08-17T14:03:42Z",
+      "processed_at": "2025-08-18T15:24:08.997709+00:00"
+    },
+    {
+      "title": "Windows 11’s dark mode has been broken for years. Microsoft might finally fix it. - Windows Central",
+      "source": {
+        "name": "Windows Central"
+      },
+      "description": "After years of unmistakable neglect, Microsoft is finally advancing its dark mode feature for Window...",
+      "url": "https://www.windowscentral.com/microsoft/windows-11/microsoft-is-finally-fixing-windows-11s-dark-mode-and-its-been-a-long-time-coming",
+      "publishedAt": "2025-08-17T13:54:02Z",
+      "processed_at": "2025-08-18T15:24:08.997709+00:00"
+    },
     {
       "title": "Boomers who are miserable in their retirement all made these 10 same mistakes in their 50s - VegOut",
       "source": {
         "name": "Vegoutmag.com"
       },
-      "description": "",
+      "description": "The decade of denial that determines whether your golden years turn to lead....",
       "url": "https://vegoutmag.com/lifestyle/s-boomers-who-are-miserable-in-their-retirement-all-made-these-10-same-mistakes-in-their-50s/",
       "publishedAt": "2025-08-17T13:02:45Z",
-      "processed_at": "2025-08-18T14:23:01.644054+00:00"
+      "processed_at": "2025-08-18T15:24:08.997709+00:00"
+    },
+    {
+      "title": "25 years ago today, the first ever ATI Radeon GPU was reviewed - VideoCardz.com",
+      "source": {
+        "name": "Videocardz.com"
+      },
+      "description": "Radeon marks 25 years on the market In spring 2000, the first Radeon graphics processor emerged as A...",
+      "url": "https://videocardz.com/newz/25-years-ago-today-the-first-ever-ati-radeon-gpu-was-reviewed",
+      "publishedAt": "2025-08-17T13:00:00Z",
+      "processed_at": "2025-08-18T15:24:08.997709+00:00"
     },
     {
       "title": "Report: Microsoft's latest Windows 11 24H2 update breaks SSDs/HDDs, may corrupt your data - Neowin",
@@ -20,7 +60,7 @@
       "description": "The latest Windows 11 24H2 Patch Tuesday update is causing SSDs and HDDs to reportedly break with ch...",
       "url": "https://www.neowin.net/news/report-microsofts-latest-windows-11-24h2-update-breaks-ssdshdds-may-corrupt-your-data/",
       "publishedAt": "2025-08-17T12:56:00Z",
-      "processed_at": "2025-08-18T14:23:01.644054+00:00"
+      "processed_at": "2025-08-18T15:24:08.997709+00:00"
     },
     {
       "title": "Why the former editor of Polygon is making a podcast for old gamers - The Verge",
@@ -30,7 +70,7 @@
       "description": "Chris Plante, the former editor-in-chief of Polygon, is now working on Post Games, a podcast targete...",
       "url": "https://www.theverge.com/games/760244/chris-plante-post-games-podcast-old-gamers-polygon",
       "publishedAt": "2025-08-17T12:30:00Z",
-      "processed_at": "2025-08-18T14:23:01.644054+00:00"
+      "processed_at": "2025-08-18T15:24:08.997709+00:00"
     },
     {
       "title": "Teenage Engineering did it again - The Verge",
@@ -40,7 +80,7 @@
       "description": "Plus: some durable cables, a great new Alien show, a strange RPG, and more....",
       "url": "https://www.theverge.com/installer-newsletter/760232/teenage-engineering-pc-case-fairphone-cables-charger-alien-earth-installer",
       "publishedAt": "2025-08-17T12:00:00Z",
-      "processed_at": "2025-08-18T14:23:01.644054+00:00"
+      "processed_at": "2025-08-18T15:24:08.997709+00:00"
     },
     {
       "title": "Cameron Diaz’s sofa has me rethinking my whole living room - Homes and Gardens",
@@ -50,7 +90,7 @@
       "description": "I didn’t expect a single piece of furniture to change how I imagine my space, but Cameron Diaz’s sof...",
       "url": "https://www.homesandgardens.com/celebrity-style/cameron-diaz-rust-living-room-sofa",
       "publishedAt": "2025-08-17T12:00:00Z",
-      "processed_at": "2025-08-18T14:23:01.644054+00:00"
+      "processed_at": "2025-08-18T15:24:08.997709+00:00"
     },
     {
       "title": "The one feature that keeps me from recommending flip phones - The Verge",
@@ -60,40 +100,10 @@
       "description": "It could spell death for a foldable’s inner screen....",
       "url": "https://www.theverge.com/the-stepback-newsletter/760031/foldables-flip-phones-flaw",
       "publishedAt": "2025-08-17T12:00:00Z",
-      "processed_at": "2025-08-18T14:23:01.644054+00:00"
-    },
-    {
-      "title": "Bride wants to refuse $100,000 wedding gift because it comes with strings attached. Ramsey show gives advice - yahoo.com",
-      "source": {
-        "name": "Yahoo Entertainment"
-      },
-      "description": "How to talk about money with difficult family members....",
-      "url": "https://www.yahoo.com/lifestyle/articles/bride-wants-refuse-100-000-113000024.html",
-      "publishedAt": "2025-08-17T11:30:00Z",
-      "processed_at": "2025-08-18T14:23:01.644054+00:00"
-    },
-    {
-      "title": "NVIDIA’s unreleased RTX TITAN ADA used 6×8-pin to dual 16-Pin adapter for up to 900W - VideoCardz.com",
-      "source": {
-        "name": "Videocardz.com"
-      },
-      "description": "NVIDIA was planning to use a 6-cable adapter for TITAN ADA No built-in fire extinguisher.  Der8auer ...",
-      "url": "https://videocardz.com/newz/nvidias-unreleased-rtx-titan-ada-used-6x8-pin-to-dual-16-pin-adapter-for-up-to-900w",
-      "publishedAt": "2025-08-17T11:30:00Z",
-      "processed_at": "2025-08-18T14:23:01.644054+00:00"
-    },
-    {
-      "title": "Changing these 12 settings on my Android phone extended its battery life by hours - ZDNET",
-      "source": {
-        "name": "ZDNet"
-      },
-      "description": "Say goodbye to battery anxiety - these 12 expert tips will help you maximize your Android phone's ba...",
-      "url": "https://www.zdnet.com/article/changing-these-12-settings-on-my-android-phone-extended-its-battery-life-by-hours/",
-      "publishedAt": "2025-08-17T11:00:00Z",
-      "processed_at": "2025-08-18T14:23:01.644054+00:00"
+      "processed_at": "2025-08-18T15:24:08.997709+00:00"
     }
   ],
-  "lastUpdated": "2025-08-18T14:23:01.644131+00:00",
+  "lastUpdated": "2025-08-18T15:24:08.997784+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
