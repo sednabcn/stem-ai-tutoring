@@ -3,6 +3,26 @@
   "totalResults": 10,
   "articles": [
     {
+      "title": "'I'm blind - Meta AI glasses allow me to work again' - BBC",
+      "source": {
+        "name": "BBC News"
+      },
+      "description": "Andy Evans says he gave up work due to his sight loss, but now has a job helping other blind people....",
+      "url": "https://www.bbc.com/news/articles/c87ey8pxny5o",
+      "publishedAt": "2025-08-18T05:17:36Z",
+      "processed_at": "2025-08-19T07:19:45.004211+00:00"
+    },
+    {
+      "title": "Cracking Abandonware DRM Like It’s 1999 - Hackaday",
+      "source": {
+        "name": "Hackaday"
+      },
+      "description": "As long as there have been games, there have been crackers breaking their copy protections. “Digital...",
+      "url": "https://hackaday.com/2025/08/17/cracking-abandonware-drm-like-its-1999/",
+      "publishedAt": "2025-08-18T05:00:00Z",
+      "processed_at": "2025-08-19T07:19:45.004211+00:00"
+    },
+    {
       "title": "Pokémon Champions will Replace Scarlet and Violet at the Pokémon World Championships Next Year - IGN",
       "source": {
         "name": "IGN"
@@ -10,7 +30,17 @@
       "description": "In a Pokémon World Championship Series first, the 2026 and future formats will be using yet-to-be-re...",
       "url": "https://www.ign.com/articles/pokemon-champions-will-replace-scarlet-and-violet-at-the-pokemon-world-championships-next-year",
       "publishedAt": "2025-08-18T03:48:54Z",
-      "processed_at": "2025-08-19T06:32:08.644505+00:00"
+      "processed_at": "2025-08-19T07:19:45.004211+00:00"
+    },
+    {
+      "title": "Pokémon Legends: Z-A Unveils New Multiplayer Battle Mode For Up Four Trainers - Nintendo Life",
+      "source": {
+        "name": "Nintendo Life"
+      },
+      "description": "The first rule of Battle Club......",
+      "url": "https://www.nintendolife.com/news/2025/08/pokemon-legends-z-a-unveils-new-multiplayer-battle-mode-for-up-to-four-trainers",
+      "publishedAt": "2025-08-18T03:30:00Z",
+      "processed_at": "2025-08-19T07:19:45.004211+00:00"
     },
     {
       "title": "iOS 26 tweaks iPhone Always On Display in a way you might not like - 9to5Mac",
@@ -20,7 +50,27 @@
       "description": "Apple’s Always On Display has been fairly consistent since it debuted on iPhone 14 Pro. With iOS 26,...",
       "url": "https://9to5mac.com/2025/08/17/ios-26-iphone-always-on-display-wallpaper-blur/",
       "publishedAt": "2025-08-18T01:52:00Z",
-      "processed_at": "2025-08-19T06:32:08.644505+00:00"
+      "processed_at": "2025-08-19T07:19:45.004211+00:00"
+    },
+    {
+      "title": "Jeff Williams isn’t the last senior level executive exit coming for Apple - 9to5Mac",
+      "source": {
+        "name": "9to5Mac"
+      },
+      "description": "Who is the next senior level executive planning to leave Apple? Mark Gurman dropped a clue in his Po...",
+      "url": "https://9to5mac.com/2025/08/17/senior-apple-leadership-change/",
+      "publishedAt": "2025-08-18T01:31:00Z",
+      "processed_at": "2025-08-19T07:19:45.004211+00:00"
+    },
+    {
+      "title": "This Week’s Japanese Game Releases: Magical Librarian Ariana: The Books of the Seven Heroes, Sword of the Sea, more - Gematsu",
+      "source": {
+        "name": "Gematsu"
+      },
+      "description": "",
+      "url": "https://www.gematsu.com/2025/08/this-weeks-japanese-game-releases-magical-librarian-ariana-the-books-of-the-seven-heroes-sword-of-the-sea-more",
+      "publishedAt": "2025-08-18T01:30:50Z",
+      "processed_at": "2025-08-19T07:19:45.004211+00:00"
     },
     {
       "title": "The CD turns 43: The format that changed music forever - TechSpot",
@@ -30,7 +80,7 @@
       "description": "On August 17, 1982, engineers at a Polygram factory in Langenhagen, Germany, pressed the first comme...",
       "url": "https://www.techspot.com/news/109098-cd-turns-43-format-changed-music-forever.html",
       "publishedAt": "2025-08-17T23:02:21Z",
-      "processed_at": "2025-08-19T06:32:08.644505+00:00"
+      "processed_at": "2025-08-19T07:19:45.004211+00:00"
     },
     {
       "title": "GTA 6 First Official Look at Map Leaves Gamers Torn - GAMINGbible",
@@ -40,7 +90,7 @@
       "description": "GTA 6 fans are torn over what could be the first map tease...",
       "url": "https://www.gamingbible.com/news/gta-6-first-look-map-gamers-torn-855479-20250815",
       "publishedAt": "2025-08-17T23:00:31Z",
-      "processed_at": "2025-08-19T06:32:08.644505+00:00"
+      "processed_at": "2025-08-19T07:19:45.004211+00:00"
     },
     {
       "title": "What Google Material 3 Expressive redesigns are rolling out [Updated] - 9to5Google",
@@ -50,60 +100,10 @@
       "description": "Material 3 Expressive redesigns are rolling out to Google apps, and here’s our list of what’s availa...",
       "url": "http://9to5google.com/2025/08/17/google-material-3-expressive-redesign/",
       "publishedAt": "2025-08-17T19:01:00Z",
-      "processed_at": "2025-08-19T06:32:08.644505+00:00"
-    },
-    {
-      "title": "LLM Found Transmitting Behavioral Traits to 'Student' LLM Via Hidden Signals in Data - Slashdot",
-      "source": {
-        "name": "Slashdot.org"
-      },
-      "description": "A new study by  Anthropic and AI safety research group Truthful AI has found describes the phenomeno...",
-      "url": "https://slashdot.org/story/25/08/17/0331217/llm-found-transmitting-behavioral-traits-to-student-llm-via-hidden-signals-in-data",
-      "publishedAt": "2025-08-17T17:50:30Z",
-      "processed_at": "2025-08-19T06:32:08.644505+00:00"
-    },
-    {
-      "title": "Xbox hardware architect hails the Xbox Series X|S as it \"wraps up\" — \"With my journey far from over...\" - Windows Central",
-      "source": {
-        "name": "Windows Central"
-      },
-      "description": "Carl Ledbetter, the visionary behind Xbox's innovative design, reflects on three decades at Microsof...",
-      "url": "https://www.windowscentral.com/gaming/xbox/xbox-hardware-architect-reflects-on-the-xbox-series-x-s-as-it-wraps-up-with-my-journey-far-from-over-i-am-excited-and-inspired-by-what-is-ahead-of-us",
-      "publishedAt": "2025-08-17T17:23:21Z",
-      "processed_at": "2025-08-19T06:32:08.644505+00:00"
-    },
-    {
-      "title": "I ditched my Pixel for the Galaxy Z Fold 7, but I can’t get over this broken Android feature - 9to5Google",
-      "source": {
-        "name": "9to5google.com"
-      },
-      "description": "I’ve carried a Pixel as my daily smartphone for years now because, often, it just provides the exper...",
-      "url": "http://9to5google.com/2025/08/17/pixel-galaxy-z-fold-7-broken-android-feature/",
-      "publishedAt": "2025-08-17T17:20:00Z",
-      "processed_at": "2025-08-19T06:32:08.644505+00:00"
-    },
-    {
-      "title": "Intel Bartlett Lake-S 12 P-Core silicon steppings confirmed, still no sign of consumer variant - VideoCardz.com",
-      "source": {
-        "name": "Videocardz.com"
-      },
-      "description": "Intel Bartlett Lake-S with 12 P-Cores with A0 silicon Bartlett Lake-S is primarily network and edge ...",
-      "url": "https://videocardz.com/newz/intel-bartlett-lake-s-12-p-core-silicon-steppings-confirmed-still-no-sign-of-consumer-variant",
-      "publishedAt": "2025-08-17T16:04:58Z",
-      "processed_at": "2025-08-19T06:32:08.644505+00:00"
-    },
-    {
-      "title": "Lucy's Guilty Gear Strive Starter Guide video revealed - EventHubs",
-      "source": {
-        "name": "EventHubs"
-      },
-      "description": "Lucy from Cyberpunk: Edgerunners is set to join the Guilty Gear Strive roster as the final Season 4 ...",
-      "url": "https://www.eventhubs.com/news/2025/aug/17/lucy-starter-guide-ggstrive-video/",
-      "publishedAt": "2025-08-17T15:55:52Z",
-      "processed_at": "2025-08-19T06:32:08.644505+00:00"
+      "processed_at": "2025-08-19T07:19:45.004211+00:00"
     }
   ],
-  "lastUpdated": "2025-08-19T06:32:08.644584+00:00",
+  "lastUpdated": "2025-08-19T07:19:45.004294+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
