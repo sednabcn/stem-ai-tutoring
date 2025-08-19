@@ -1,7 +1,87 @@
 {
   "status": "success",
-  "totalResults": 9,
+  "totalResults": 10,
   "articles": [
+    {
+      "title": "Gamescom 2025: How To Watch Silksong, Fallout Season 2, And More - Kotaku",
+      "source": {
+        "name": "Kotaku"
+      },
+      "description": "Gamescom Opening Night Live promises everything from Ninja Gaiden 4to Fallout season 2...",
+      "url": "https://kotaku.com/silksong-gamescom-2025-livestream-what-time-fallout-black-ops-7-2000618270",
+      "publishedAt": "2025-08-18T20:36:36Z",
+      "processed_at": "2025-08-19T21:18:56.591651+00:00"
+    },
+    {
+      "title": "iOS 26 and iPadOS 26 public beta 4 now available - 9to5Mac",
+      "source": {
+        "name": "9to5Mac"
+      },
+      "description": "Following iOS 26 and iPadOS 26 beta 7 earlier today, Apple has released the fourth iOS 26 and iPadOS...",
+      "url": "https://9to5mac.com/2025/08/18/ios-26-public-beta-4/",
+      "publishedAt": "2025-08-18T20:21:00Z",
+      "processed_at": "2025-08-19T21:18:56.591651+00:00"
+    },
+    {
+      "title": "NVIDIA Blackwell Architecture Comes to GeForce NOW - NVIDIA Newsroom",
+      "source": {
+        "name": "Nvidia.com"
+      },
+      "description": "NVIDIA today announced that the NVIDIA Blackwell architecture is coming to GeForce NOW™, marking the...",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-blackwell-architecture-comes-to-geforce-now",
+      "publishedAt": "2025-08-18T19:32:34Z",
+      "processed_at": "2025-08-19T21:18:56.591651+00:00"
+    },
+    {
+      "title": "Nvidia’s app gets global DLSS override and more control panel features - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "Nvidia is adding more features to its latest PC app. A new global DLSS override feature is coming, a...",
+      "url": "https://www.theverge.com/news/760488/nvidia-app-dlss-override-control-panel-features",
+      "publishedAt": "2025-08-18T19:30:00Z",
+      "processed_at": "2025-08-19T21:18:56.591651+00:00"
+    },
+    {
+      "title": "Nvidia gives fake Harrison Ford better hair using spheres - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "You’ve heard of RTX on, but now there’s RTX Hair on....",
+      "url": "https://www.theverge.com/news/760479/nvidia-rtx-hair-indiana-jones-game",
+      "publishedAt": "2025-08-18T19:30:00Z",
+      "processed_at": "2025-08-19T21:18:56.591651+00:00"
+    },
+    {
+      "title": "“I’ve Never Cheated”: Destiny 2 World’s First Winner Banned With No Reason Given - The Game Post",
+      "source": {
+        "name": "Thegamepost.com"
+      },
+      "description": "A Destiny 2 World’s First winner says they were banned with no explanation from the developer....",
+      "url": "https://thegamepost.com/destiny-2-world-first-winner-banned-vesper-host/",
+      "publishedAt": "2025-08-18T18:48:04Z",
+      "processed_at": "2025-08-19T21:18:56.591651+00:00"
+    },
+    {
+      "title": "iOS 26 beta 7 adds toggle for new battery notifications - 9to5Mac",
+      "source": {
+        "name": "9to5Mac"
+      },
+      "description": "iOS 26 beta 7 adds a new toggle in the Settings app that determines whether you’ll get battery notif...",
+      "url": "https://9to5mac.com/2025/08/18/ios-26-beta-7-adds-toggle-for-new-battery-notifications/",
+      "publishedAt": "2025-08-18T18:46:00Z",
+      "processed_at": "2025-08-19T21:18:56.591651+00:00"
+    },
+    {
+      "title": "Microsoft hints at “more affordable” Xbox Cloud Gaming plan - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "Microsoft is hinting at launching a more affordable plan for Xbox Cloud Gaming. The next-gen Xbox wi...",
+      "url": "https://www.theverge.com/news/760813/microsoft-xbox-cloud-gaming-new-price-plan-hint",
+      "publishedAt": "2025-08-18T18:21:21Z",
+      "processed_at": "2025-08-19T21:18:56.591651+00:00"
+    },
     {
       "title": "Shin'en Announces 'The Touryst: Deluxe', Exclusive To Switch 2 - Nintendo Life",
       "source": {
@@ -10,90 +90,20 @@
       "description": "New content, improved visuals, and more...",
       "url": "https://www.nintendolife.com/news/2025/08/shinen-announces-the-touryst-deluxe-exclusive-to-switch-2",
       "publishedAt": "2025-08-18T18:00:00Z",
-      "processed_at": "2025-08-19T20:22:57.223196+00:00"
+      "processed_at": "2025-08-19T21:18:56.591651+00:00"
     },
     {
-      "title": "Microsoft Confirms ‘Last Update’ For 700 Million Windows Users - Forbes",
-      "source": {
-        "name": "Forbes"
-      },
-      "description": "This is the deadline — you must act now....",
-      "url": "https://www.forbes.com/sites/zakdoffman/2025/08/18/microsoft-confirms-last-update-for-700-million-windows-users/",
-      "publishedAt": "2025-08-18T17:43:00Z",
-      "processed_at": "2025-08-19T20:22:57.223196+00:00"
-    },
-    {
-      "title": "Seven Xbox-Related Events To Look Out For At Gamescom 2025 - Pure Xbox",
-      "source": {
-        "name": "Pure Xbox"
-      },
-      "description": "A fun few days of showcases...",
-      "url": "https://www.purexbox.com/features/seven-xbox-related-events-to-look-out-for-at-gamescom-2025",
-      "publishedAt": "2025-08-18T17:19:03Z",
-      "processed_at": "2025-08-19T20:22:57.223196+00:00"
-    },
-    {
-      "title": "iOS 26 beta 7 now available - 9to5Mac",
+      "title": "New iOS 26 and watchOS 26 betas include redesigned Blood Oxygen feature in the US - 9to5Mac",
       "source": {
         "name": "9to5Mac"
       },
-      "description": "Apple has released the seventh developer beta version of iOS 26. We expect the redesigned version of...",
-      "url": "https://9to5mac.com/2025/08/18/ios-26-beta-7/",
-      "publishedAt": "2025-08-18T17:06:00Z",
-      "processed_at": "2025-08-19T20:22:57.223196+00:00"
-    },
-    {
-      "title": "How Xbox’s cheaper, more global cloud gaming push hides a bigger next‑gen play - Windows Central",
-      "source": {
-        "name": "Windows Central"
-      },
-      "description": "In the latest Xbox Podcast, Xbox platform architects Jason Beaumont and Jason Ronald offer some upda...",
-      "url": "https://www.windowscentral.com/gaming/xbox/xbox-hints-that-xbox-cloud-gaming-will-become-more-affordable-soon-across-more-regions-with-comments-on-xbox-next-gen-in-tow",
-      "publishedAt": "2025-08-18T16:59:00Z",
-      "processed_at": "2025-08-19T20:22:57.223196+00:00"
-    },
-    {
-      "title": "Raspberry Pi intros new 5-inch $40 touchscreen for your next weird project - Ars Technica",
-      "source": {
-        "name": "Ars Technica"
-      },
-      "description": "Officially supported dinky display works as a tiny all-in-one or smart home hub....",
-      "url": "https://arstechnica.com/gadgets/2025/08/raspberry-pi-intros-new-5-inch-40-touchscreen-for-your-next-weird-project/",
-      "publishedAt": "2025-08-18T16:42:04Z",
-      "processed_at": "2025-08-19T20:22:57.223196+00:00"
-    },
-    {
-      "title": "AWS pricing for Kiro dev tool dubbed 'a wallet-wrecking tragedy' - theregister.com",
-      "source": {
-        "name": "Theregister.com"
-      },
-      "description": ": Surprise – updated plans way more expensive than initially suggested...",
-      "url": "https://www.theregister.com/2025/08/18/aws_updated_kiro_pricing/",
-      "publishedAt": "2025-08-18T16:29:00Z",
-      "processed_at": "2025-08-19T20:22:57.223196+00:00"
-    },
-    {
-      "title": "Randoms Round 3 - Crankworx Whistler 2025 - Pinkbike",
-      "source": {
-        "name": "Pinkbike.com"
-      },
-      "description": "A final round of assorted sights from a busy week of Crankworxing....",
-      "url": "https://www.pinkbike.com/news/randoms-round-3-crankworx-whistler-2025.html",
-      "publishedAt": "2025-08-18T16:26:51Z",
-      "processed_at": "2025-08-19T20:22:57.223196+00:00"
-    },
-    {
-      "title": "Pokémon Confirms How To Say Rayquaza’s Name, Worlds Shattered - Kotaku",
-      "source": {
-        "name": "Kotaku"
-      },
-      "description": "",
-      "url": "https://kotaku.com/pokemon-rayquaza-name-pronounce-how-to-say-anime-2000618230",
-      "publishedAt": "2025-08-18T16:22:00Z",
-      "processed_at": "2025-08-19T20:22:57.223196+00:00"
+      "description": "Apple is out with iOS 26 beta 7 and watchOS 26 beta 7 today for developers. Most notably, the update...",
+      "url": "https://9to5mac.com/2025/08/18/ios-26-new-blood-oxygen-feature-for-apple-watch/",
+      "publishedAt": "2025-08-18T17:51:00Z",
+      "processed_at": "2025-08-19T21:18:56.591651+00:00"
     }
   ],
-  "lastUpdated": "2025-08-19T20:22:57.223269+00:00",
+  "lastUpdated": "2025-08-19T21:18:56.591726+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
