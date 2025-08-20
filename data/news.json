@@ -1,16 +1,86 @@
 {
   "status": "success",
-  "totalResults": 10,
+  "totalResults": 9,
   "articles": [
     {
-      "title": "7 more Xbox Game Pass games are coming this month - TrueAchievements",
+      "title": "33.2.2 Patch Notes — Hearthstone - Blizzard News",
       "source": {
-        "name": "TrueAchievements"
+        "name": "Blizzard.com"
       },
-      "description": "The Xbox Game Pass August 2025 Wave 2 lineup features seven games, with the highlight being Gears of...",
-      "url": "https://www.trueachievements.com/news/xbox-game-pass-august-2025-wave-2",
-      "publishedAt": "2025-08-19T14:15:45Z",
-      "processed_at": "2025-08-20T16:26:12.225279+00:00"
+      "description": "Hearthstone balance changes, Battlegrounds updates, and bug fixes await in Patch 33.2.2!...",
+      "url": "https://news.blizzard.com/en-us/article/24223662/33-2-2-patch-notes",
+      "publishedAt": "2025-08-19T16:00:00Z",
+      "processed_at": "2025-08-20T17:18:23.257350+00:00"
+    },
+    {
+      "title": "BioShock Studio Cloud Chamber Undergoes Layoffs, Appoints Rod Fergusson New BioShock Head - IGN",
+      "source": {
+        "name": "IGN"
+      },
+      "description": "2K Games is laying off an unknown number of individuals at BioShock studio Cloud Chamber, as it unde...",
+      "url": "https://www.ign.com/articles/bioshock-studio-cloud-chamber-undergoes-layoffs-appoints-rod-fergusson-new-bioshock-head",
+      "publishedAt": "2025-08-19T15:40:01Z",
+      "processed_at": "2025-08-20T17:18:23.257350+00:00"
+    },
+    {
+      "title": "Jimmy Fallon is ‘officially hosting’ Google’s Pixel 10 event - 9to5Google",
+      "source": {
+        "name": "9to5google.com"
+      },
+      "description": "Google teased a star-studded Pixel 10 keynote, and it now turns out that Jimmy Fallon will actually ...",
+      "url": "http://9to5google.com/2025/08/19/pixel-10-event-host/",
+      "publishedAt": "2025-08-19T15:24:00Z",
+      "processed_at": "2025-08-20T17:18:23.257350+00:00"
+    },
+    {
+      "title": "Razer’s Gengar Edition headphones are now available in the US - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "The company is expanding its Pokémon collaboration in the US with a pair of headphones previously ex...",
+      "url": "https://www.theverge.com/news/761044/razer-pokemon-kraken-kitty-v2-wired-headphones-gengar-edition-us-availability",
+      "publishedAt": "2025-08-19T15:00:00Z",
+      "processed_at": "2025-08-20T17:18:23.257350+00:00"
+    },
+    {
+      "title": "No Hollow Knight: Silksong release date announcement today as Special Announcement is scheduled for Thursday - Eurogamer",
+      "source": {
+        "name": "Eurogamer.net"
+      },
+      "description": "A Hollow Knight: Silksong \"Special Announcement\" from developer Team Cherry is planned for Thursday,...",
+      "url": "https://www.eurogamer.net/no-hollow-knight-silksong-release-date-announcement-today-as-special-announcement-is-scheduled-for-thursday",
+      "publishedAt": "2025-08-19T14:43:17Z",
+      "processed_at": "2025-08-20T17:18:23.257350+00:00"
+    },
+    {
+      "title": "The Kirby Air Riders Direct presentation showcased the game's wild vehicular action and more on Nintendo Switch 2 - Nintendo",
+      "source": {
+        "name": "Nintendo.com"
+      },
+      "description": "Game Director Masahiro Sakurai provided viewers with a deep dive into the fast, fun and frenetic Kir...",
+      "url": "https://www.nintendo.com/us/whatsnew/the-kirby-air-riders-direct-presentation-showcased-the-games-wild-vehicular-action-and-more-on-nintendo-switch-2/",
+      "publishedAt": "2025-08-19T14:15:52Z",
+      "processed_at": "2025-08-20T17:18:23.257350+00:00"
+    },
+    {
+      "title": "These Seven Games Are Coming To Xbox Game Pass (August 19-28) - Pure Xbox",
+      "source": {
+        "name": "Pure Xbox"
+      },
+      "description": "Your latest batch of new titles...",
+      "url": "https://www.purexbox.com/news/2025/08/these-seven-games-are-coming-to-xbox-game-pass-august-19-28",
+      "publishedAt": "2025-08-19T14:12:00Z",
+      "processed_at": "2025-08-20T17:18:23.257350+00:00"
+    },
+    {
+      "title": "ASUS Unveils ROG Matrix GeForce RTX 5090 “30th Anniversary Edition” Graphics Card: Up To 800W Power, Quad Axial-Tech Fans & Premium PCB With BTF Design - Wccftech",
+      "source": {
+        "name": "Wccftech"
+      },
+      "description": "ASUS has finally unveiled its brand new ROG Matrix GeForce RTX 5090 30th Anniversary Edition graphic...",
+      "url": "https://wccftech.com/asus-rog-matrix-geforce-rtx-5090-30th-anniversary-edition-graphics-card-up-to-800w-power-quad-axial-tech-fans/",
+      "publishedAt": "2025-08-19T13:48:00Z",
+      "processed_at": "2025-08-20T17:18:23.257350+00:00"
     },
     {
       "title": "AMD Stock Slips Alongside Zen 7 Leaks - TipRanks",
@@ -20,90 +90,10 @@
       "description": "AMD stock was down on Tuesday alongside leaks about the company’s upcoming Zen 7 processors....",
       "url": "https://www.tipranks.com/news/amd-stock-slips-alongside-zen-7-leaks",
       "publishedAt": "2025-08-19T13:47:38Z",
-      "processed_at": "2025-08-20T16:26:12.225279+00:00"
-    },
-    {
-      "title": "Kirby Air Riders Nintendo Direct: Everything Announced - IGN",
-      "source": {
-        "name": "IGN"
-      },
-      "description": "The Kirby Air Riders Nintendo Direct has come to an end after 45 minutes of fresh gameplay details a...",
-      "url": "https://www.ign.com/articles/kirby-air-riders-nintendo-direct-everything-announced",
-      "publishedAt": "2025-08-19T13:33:39Z",
-      "processed_at": "2025-08-20T16:26:12.225279+00:00"
-    },
-    {
-      "title": "Spotify’s new track mixing tool adds DJ features to your playlists - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "Spotify is testing a new audio mixing feature that allows Premium users to customize track transitio...",
-      "url": "https://www.theverge.com/news/761290/spotify-playlist-mix-audio-transition-feature",
-      "publishedAt": "2025-08-19T13:32:00Z",
-      "processed_at": "2025-08-20T16:26:12.225279+00:00"
-    },
-    {
-      "title": "Google Store teases Pixel 10 as ‘your future phone’ with countdown to event - 9to5Google",
-      "source": {
-        "name": "9to5google.com"
-      },
-      "description": "The Google Store is teasing the upcoming Pixel 10 launch with a new banner counting down to the laun...",
-      "url": "http://9to5google.com/2025/08/19/google-store-pixel-10-countdown/",
-      "publishedAt": "2025-08-19T13:25:00Z",
-      "processed_at": "2025-08-20T16:26:12.225279+00:00"
-    },
-    {
-      "title": "COROS NOMAD In-Depth Review: Copycat or Champion? - DC Rainmaker",
-      "source": {
-        "name": "DC Rainmaker"
-      },
-      "description": "",
-      "url": "https://www.dcrainmaker.com/2025/08/coros-nomad-in-depth-review-comparison.html",
-      "publishedAt": "2025-08-19T13:00:01Z",
-      "processed_at": "2025-08-20T16:26:12.225279+00:00"
-    },
-    {
-      "title": "Why Your LEDs Keep Dropping Dead, and Why Experts Say It's Not Normal - CNET",
-      "source": {
-        "name": "CNET"
-      },
-      "description": "My experiment with LED lifespans led to a simple fix you'll want to try....",
-      "url": "https://www.cnet.com/home/smart-home/why-your-leds-keep-dropping-dead-and-why-experts-say-its-not-normal/",
-      "publishedAt": "2025-08-19T13:00:00Z",
-      "processed_at": "2025-08-20T16:26:12.225279+00:00"
-    },
-    {
-      "title": "Capcom Launches Resident Evil 30th Anniversary Website - Nintendo Life",
-      "source": {
-        "name": "Nintendo Life"
-      },
-      "description": "Big plans are in store...",
-      "url": "https://www.nintendolife.com/news/2025/08/capcom-launches-resident-evil-30th-anniversary-website",
-      "publishedAt": "2025-08-19T13:00:00Z",
-      "processed_at": "2025-08-20T16:26:12.225279+00:00"
-    },
-    {
-      "title": "How to watch Gamescom Opening Night Live 2025 - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "The Gamescom Opening Night Live show for 2025 starts at 2PM ET, with a preshow beforehand. The show ...",
-      "url": "https://www.theverge.com/news/761027/gamescom-opening-night-live-2025-geoff-keighley-how-to-watch",
-      "publishedAt": "2025-08-19T12:00:00Z",
-      "processed_at": "2025-08-20T16:26:12.225279+00:00"
-    },
-    {
-      "title": "Microsoft breaks Windows reset and recovery - theregister.com",
-      "source": {
-        "name": "Theregister.com"
-      },
-      "description": ": Want to pass on that old PC? Perhaps wait until out-of-band patch arrives...",
-      "url": "https://www.theregister.com/2025/08/19/windows_reset_recovery_broken/",
-      "publishedAt": "2025-08-19T11:28:00Z",
-      "processed_at": "2025-08-20T16:26:12.225279+00:00"
+      "processed_at": "2025-08-20T17:18:23.257350+00:00"
     }
   ],
-  "lastUpdated": "2025-08-20T16:26:12.225351+00:00",
+  "lastUpdated": "2025-08-20T17:18:23.257426+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
