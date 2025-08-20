@@ -1,6 +1,6 @@
 {
   "status": "success",
-  "totalResults": 10,
+  "totalResults": 9,
   "articles": [
     {
       "title": "Kirby Air Riders Direct Revealed for Tomorrow, 19th August 2025 - Nintendo Life",
@@ -10,7 +10,7 @@
       "description": "Wait, how long?!...",
       "url": "https://www.nintendolife.com/news/2025/08/kirby-air-riders-direct-revealed-for-tomorrow-19th-august-2025",
       "publishedAt": "2025-08-19T04:15:12Z",
-      "processed_at": "2025-08-20T04:25:02.375401+00:00"
+      "processed_at": "2025-08-20T05:20:17.051530+00:00"
     },
     {
       "title": "Mario Kart World 1.2.1 update out now, patch notes - Nintendo Everything",
@@ -20,17 +20,37 @@
       "description": "Mario Kart World has gone live with its latest update with version 1.2.1 - check out Nintendo's patc...",
       "url": "https://nintendoeverything.com/mario-kart-world-1-2-1-update-out-now-patch-notes/",
       "publishedAt": "2025-08-19T01:25:48Z",
-      "processed_at": "2025-08-20T04:25:02.375401+00:00"
+      "processed_at": "2025-08-20T05:20:17.051530+00:00"
     },
     {
-      "title": "NVIDIA Blackwell Architecture Comes to GeForce NOW - NVIDIA Newsroom",
+      "title": "How Google’s Pixel 10 Pro Will Change Smartphones Forever - Forbes",
       "source": {
-        "name": "Nvidia.com"
+        "name": "Forbes"
       },
-      "description": "NVIDIA today announced that the NVIDIA Blackwell architecture is coming to GeForce NOW™, marking the...",
-      "url": "https://nvidianews.nvidia.com/news/nvidia-blackwell-architecture-comes-to-geforce-now",
-      "publishedAt": "2025-08-18T19:32:34Z",
-      "processed_at": "2025-08-20T04:25:02.375401+00:00"
+      "description": "Google is set to launch the Pixel 10 and Pixel 10 Pro smartphones this week. It's a chance to build ...",
+      "url": "https://www.forbes.com/sites/ewanspence/2025/08/18/google-pixel-10-pro-secrets-android-16-tensor-ai-apple-iphone-17-pro/",
+      "publishedAt": "2025-08-19T00:05:00Z",
+      "processed_at": "2025-08-20T05:20:17.051530+00:00"
+    },
+    {
+      "title": "Brain Implant Translates Silent Inner Speech into Words, But Critics Raise Fears of Mind Reading Without Consent - ZME Science",
+      "source": {
+        "name": "ZME Science"
+      },
+      "description": "To prevent authorized mind reading, the researchers had to devise a \"password\"....",
+      "url": "https://www.zmescience.com/science/news-science/brain-implant-translates-silent-inner-speech-into-words-but-critics-raise-fears-of-mind-reading-without-consent/",
+      "publishedAt": "2025-08-18T21:05:20Z",
+      "processed_at": "2025-08-20T05:20:17.051530+00:00"
+    },
+    {
+      "title": "iOS 26 and iPadOS 26 public beta 4 now available - 9to5Mac",
+      "source": {
+        "name": "9to5Mac"
+      },
+      "description": "Following iOS 26 and iPadOS 26 beta 7 earlier today, Apple has released the fourth iOS 26 and iPadOS...",
+      "url": "https://9to5mac.com/2025/08/18/ios-26-public-beta-4/",
+      "publishedAt": "2025-08-18T20:21:00Z",
+      "processed_at": "2025-08-20T05:20:17.051530+00:00"
     },
     {
       "title": "Nvidia’s app gets global DLSS override and more control panel features - The Verge",
@@ -40,17 +60,27 @@
       "description": "Nvidia is adding more features to its latest PC app. A new global DLSS override feature is coming, a...",
       "url": "https://www.theverge.com/news/760488/nvidia-app-dlss-override-control-panel-features",
       "publishedAt": "2025-08-18T19:30:00Z",
-      "processed_at": "2025-08-20T04:25:02.375401+00:00"
+      "processed_at": "2025-08-20T05:20:17.051530+00:00"
     },
     {
-      "title": "Mac mini Refresh Is Apparently In Development, With Apple Expected To Offer The M5 And M5 Pro Options At Launch; Unveiling Could Happen In A Few Months - Wccftech",
+      "title": "Nvidia gives fake Harrison Ford better hair using spheres - The Verge",
       "source": {
-        "name": "Wccftech"
+        "name": "The Verge"
       },
-      "description": "Apple is reportedly preparing an updated version of its Mac mini, with chipset options including the...",
-      "url": "https://wccftech.com/new-mac-mini-with-m5-and-m5-pro-options-under-development/",
-      "publishedAt": "2025-08-18T19:25:00Z",
-      "processed_at": "2025-08-20T04:25:02.375401+00:00"
+      "description": "You’ve heard of RTX on, but now there’s RTX Hair on....",
+      "url": "https://www.theverge.com/news/760479/nvidia-rtx-hair-indiana-jones-game",
+      "publishedAt": "2025-08-18T19:30:00Z",
+      "processed_at": "2025-08-20T05:20:17.051530+00:00"
+    },
+    {
+      "title": "NVIDIA bundles Borderlands 4 with GeForce RTX 5070+ series - VideoCardz.com",
+      "source": {
+        "name": "Videocardz.com"
+      },
+      "description": "GeForce RTX 50 cards bundled with Borderlands 4 Borderlands 4 bundled with GeForce RTX 50 graphics c...",
+      "url": "https://videocardz.com/newz/nvidia-bundles-borderlands-4-with-geforce-rtx-5070-series",
+      "publishedAt": "2025-08-18T19:16:00Z",
+      "processed_at": "2025-08-20T05:20:17.051530+00:00"
     },
     {
       "title": "Steam Makes A Big Change To How Review Scores Are Calculated - Kotaku",
@@ -60,50 +90,10 @@
       "description": "Valve will be removing reviews in other languages from the user rating...",
       "url": "https://kotaku.com/steam-reviews-wuchang-fallen-feather-china-language-filter-2000618249",
       "publishedAt": "2025-08-18T19:06:36Z",
-      "processed_at": "2025-08-20T04:25:02.375401+00:00"
-    },
-    {
-      "title": "Oh Boy, Geoff Keighley Is Teasing Hollow Knight: Silksong for Gamescom Opening Night Live - IGN",
-      "source": {
-        "name": "IGN"
-      },
-      "description": "Uh oh, Geoff Keighley is teasing Hollow Knight: Silksong at Gamescom Opening Night Live. Is it...fin...",
-      "url": "https://www.ign.com/articles/oh-boy-geoff-keighley-is-teasing-hollow-knight-silksong-for-gamescom-opening-night-live",
-      "publishedAt": "2025-08-18T19:05:21Z",
-      "processed_at": "2025-08-20T04:25:02.375401+00:00"
-    },
-    {
-      "title": "Microsoft hints at “more affordable” Xbox Cloud Gaming plan - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "Microsoft is hinting at launching a more affordable plan for Xbox Cloud Gaming. The next-gen Xbox wi...",
-      "url": "https://www.theverge.com/news/760813/microsoft-xbox-cloud-gaming-new-price-plan-hint",
-      "publishedAt": "2025-08-18T18:21:21Z",
-      "processed_at": "2025-08-20T04:25:02.375401+00:00"
-    },
-    {
-      "title": "New iOS 26 and watchOS 26 betas include redesigned Blood Oxygen feature in the US - 9to5Mac",
-      "source": {
-        "name": "9to5Mac"
-      },
-      "description": "Apple is out with iOS 26 beta 7 and watchOS 26 beta 7 today for developers. Most notably, the update...",
-      "url": "https://9to5mac.com/2025/08/18/ios-26-new-blood-oxygen-feature-for-apple-watch/",
-      "publishedAt": "2025-08-18T17:51:00Z",
-      "processed_at": "2025-08-20T04:25:02.375401+00:00"
-    },
-    {
-      "title": "MTG Designer Reveals Universes Beyond Cards Could be Pulled From Standard - MTG Rocks",
-      "source": {
-        "name": "Mtgrocks.com"
-      },
-      "description": "MTG Head Designer Mark Rosewater has revealed that Universes Beyond might not always be Standard leg...",
-      "url": "https://mtgrocks.com/mark-rosewater-universes-beyond-standard/",
-      "publishedAt": "2025-08-18T17:46:11Z",
-      "processed_at": "2025-08-20T04:25:02.375401+00:00"
+      "processed_at": "2025-08-20T05:20:17.051530+00:00"
     }
   ],
-  "lastUpdated": "2025-08-20T04:25:02.375471+00:00",
+  "lastUpdated": "2025-08-20T05:20:17.051602+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
