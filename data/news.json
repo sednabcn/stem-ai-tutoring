@@ -1,16 +1,36 @@
 {
   "status": "success",
-  "totalResults": 10,
+  "totalResults": 9,
   "articles": [
     {
-      "title": "Gamescom 2025: How To Watch Silksong, Fallout Season 2, And More - Kotaku",
+      "title": "Mario Kart World 1.2.1 update out now, patch notes - Nintendo Everything",
       "source": {
-        "name": "Kotaku"
+        "name": "Nintendoeverything.com"
       },
-      "description": "Gamescom Opening Night Live promises everything from Ninja Gaiden 4to Fallout season 2...",
-      "url": "https://kotaku.com/silksong-gamescom-2025-livestream-what-time-fallout-black-ops-7-2000618270",
-      "publishedAt": "2025-08-18T20:36:36Z",
-      "processed_at": "2025-08-19T23:19:06.220231+00:00"
+      "description": "Mario Kart World has gone live with its latest update with version 1.2.1 - check out Nintendo's patc...",
+      "url": "https://nintendoeverything.com/mario-kart-world-1-2-1-update-out-now-patch-notes/",
+      "publishedAt": "2025-08-19T01:25:48Z",
+      "processed_at": "2025-08-20T01:40:57.462485+00:00"
+    },
+    {
+      "title": "How Google’s Pixel 10 Pro Will Change Smartphones Forever - Forbes",
+      "source": {
+        "name": "Forbes"
+      },
+      "description": "Google is set to launch the Pixel 10 and Pixel 10 Pro smartphones this week. It's a chance to build ...",
+      "url": "https://www.forbes.com/sites/ewanspence/2025/08/18/google-pixel-10-pro-secrets-android-16-tensor-ai-apple-iphone-17-pro/",
+      "publishedAt": "2025-08-19T00:05:00Z",
+      "processed_at": "2025-08-20T01:40:57.462485+00:00"
+    },
+    {
+      "title": "Get Your Hands on the Samsung Galaxy Tab A9+ With a 23% Discount - PCMag",
+      "source": {
+        "name": "PCMag.com"
+      },
+      "description": "Need a tablet with plenty of storage? Check out the Samsun Galaxy Tab A9+, which you can get for $60...",
+      "url": "https://www.pcmag.com/deals/new-egg-deal-of-the-day-samsung-galaxy-tab-a9-plus-23-discount-aug-18",
+      "publishedAt": "2025-08-18T20:30:40Z",
+      "processed_at": "2025-08-20T01:40:57.462485+00:00"
     },
     {
       "title": "iOS 26 and iPadOS 26 public beta 4 now available - 9to5Mac",
@@ -20,17 +40,7 @@
       "description": "Following iOS 26 and iPadOS 26 beta 7 earlier today, Apple has released the fourth iOS 26 and iPadOS...",
       "url": "https://9to5mac.com/2025/08/18/ios-26-public-beta-4/",
       "publishedAt": "2025-08-18T20:21:00Z",
-      "processed_at": "2025-08-19T23:19:06.220231+00:00"
-    },
-    {
-      "title": "NVIDIA Blackwell Architecture Comes to GeForce NOW - NVIDIA Newsroom",
-      "source": {
-        "name": "Nvidia.com"
-      },
-      "description": "NVIDIA today announced that the NVIDIA Blackwell architecture is coming to GeForce NOW™, marking the...",
-      "url": "https://nvidianews.nvidia.com/news/nvidia-blackwell-architecture-comes-to-geforce-now",
-      "publishedAt": "2025-08-18T19:32:34Z",
-      "processed_at": "2025-08-19T23:19:06.220231+00:00"
+      "processed_at": "2025-08-20T01:40:57.462485+00:00"
     },
     {
       "title": "Nvidia’s app gets global DLSS override and more control panel features - The Verge",
@@ -40,37 +50,27 @@
       "description": "Nvidia is adding more features to its latest PC app. A new global DLSS override feature is coming, a...",
       "url": "https://www.theverge.com/news/760488/nvidia-app-dlss-override-control-panel-features",
       "publishedAt": "2025-08-18T19:30:00Z",
-      "processed_at": "2025-08-19T23:19:06.220231+00:00"
+      "processed_at": "2025-08-20T01:40:57.462485+00:00"
     },
     {
-      "title": "Nvidia gives fake Harrison Ford better hair using spheres - The Verge",
+      "title": "Steam Makes A Big Change To How Review Scores Are Calculated - Kotaku",
       "source": {
-        "name": "The Verge"
+        "name": "Kotaku"
       },
-      "description": "You’ve heard of RTX on, but now there’s RTX Hair on....",
-      "url": "https://www.theverge.com/news/760479/nvidia-rtx-hair-indiana-jones-game",
-      "publishedAt": "2025-08-18T19:30:00Z",
-      "processed_at": "2025-08-19T23:19:06.220231+00:00"
+      "description": "Valve will be removing reviews in other languages from the user rating...",
+      "url": "https://kotaku.com/steam-reviews-wuchang-fallen-feather-china-language-filter-2000618249",
+      "publishedAt": "2025-08-18T19:06:36Z",
+      "processed_at": "2025-08-20T01:40:57.462485+00:00"
     },
     {
-      "title": "“I’ve Never Cheated”: Destiny 2 World’s First Winner Banned With No Reason Given - The Game Post",
+      "title": "Oh Boy, Geoff Keighley Is Teasing Hollow Knight: Silksong for Gamescom Opening Night Live - IGN",
       "source": {
-        "name": "Thegamepost.com"
+        "name": "IGN"
       },
-      "description": "A Destiny 2 World’s First winner says they were banned with no explanation from the developer....",
-      "url": "https://thegamepost.com/destiny-2-world-first-winner-banned-vesper-host/",
-      "publishedAt": "2025-08-18T18:48:04Z",
-      "processed_at": "2025-08-19T23:19:06.220231+00:00"
-    },
-    {
-      "title": "iOS 26 beta 7 adds toggle for new battery notifications - 9to5Mac",
-      "source": {
-        "name": "9to5Mac"
-      },
-      "description": "iOS 26 beta 7 adds a new toggle in the Settings app that determines whether you’ll get battery notif...",
-      "url": "https://9to5mac.com/2025/08/18/ios-26-beta-7-adds-toggle-for-new-battery-notifications/",
-      "publishedAt": "2025-08-18T18:46:00Z",
-      "processed_at": "2025-08-19T23:19:06.220231+00:00"
+      "description": "Uh oh, Geoff Keighley is teasing Hollow Knight: Silksong at Gamescom Opening Night Live. Is it...fin...",
+      "url": "https://www.ign.com/articles/oh-boy-geoff-keighley-is-teasing-hollow-knight-silksong-for-gamescom-opening-night-live",
+      "publishedAt": "2025-08-18T19:05:21Z",
+      "processed_at": "2025-08-20T01:40:57.462485+00:00"
     },
     {
       "title": "Microsoft hints at “more affordable” Xbox Cloud Gaming plan - The Verge",
@@ -80,17 +80,7 @@
       "description": "Microsoft is hinting at launching a more affordable plan for Xbox Cloud Gaming. The next-gen Xbox wi...",
       "url": "https://www.theverge.com/news/760813/microsoft-xbox-cloud-gaming-new-price-plan-hint",
       "publishedAt": "2025-08-18T18:21:21Z",
-      "processed_at": "2025-08-19T23:19:06.220231+00:00"
-    },
-    {
-      "title": "Shin'en Announces 'The Touryst: Deluxe', Exclusive To Switch 2 - Nintendo Life",
-      "source": {
-        "name": "Nintendo Life"
-      },
-      "description": "New content, improved visuals, and more...",
-      "url": "https://www.nintendolife.com/news/2025/08/shinen-announces-the-touryst-deluxe-exclusive-to-switch-2",
-      "publishedAt": "2025-08-18T18:00:00Z",
-      "processed_at": "2025-08-19T23:19:06.220231+00:00"
+      "processed_at": "2025-08-20T01:40:57.462485+00:00"
     },
     {
       "title": "New iOS 26 and watchOS 26 betas include redesigned Blood Oxygen feature in the US - 9to5Mac",
@@ -100,10 +90,10 @@
       "description": "Apple is out with iOS 26 beta 7 and watchOS 26 beta 7 today for developers. Most notably, the update...",
       "url": "https://9to5mac.com/2025/08/18/ios-26-new-blood-oxygen-feature-for-apple-watch/",
       "publishedAt": "2025-08-18T17:51:00Z",
-      "processed_at": "2025-08-19T23:19:06.220231+00:00"
+      "processed_at": "2025-08-20T01:40:57.462485+00:00"
     }
   ],
-  "lastUpdated": "2025-08-19T23:19:06.220307+00:00",
+  "lastUpdated": "2025-08-20T01:40:57.462556+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
