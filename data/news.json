@@ -1,7 +1,37 @@
 {
   "status": "success",
-  "totalResults": 9,
+  "totalResults": 10,
   "articles": [
+    {
+      "title": "Asus has the new world’s fastest OLED monitor at 720Hz, and it’s dripping with style - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "Asus has just announced the ROG Swift OLED PG27AQWP-W at Gamescom 2025. It’s a 26.5-inch QHD OLED sc...",
+      "url": "https://www.theverge.com/news/761481/asus-720hz-gaming-monitor-rog-swift-oled-pg27aqwp-w",
+      "publishedAt": "2025-08-19T17:31:13Z",
+      "processed_at": "2025-08-20T19:16:23.618077+00:00"
+    },
+    {
+      "title": "This often-ignored smartwatch health metric can help you manage stress - The Washington Post",
+      "source": {
+        "name": "The Washington Post"
+      },
+      "description": "A higher heart rate variability suggests your body is calm but alert, like a boxer bouncing from foo...",
+      "url": "https://www.washingtonpost.com/wellness/2025/08/19/heart-rate-variability-stress-longevity/",
+      "publishedAt": "2025-08-19T17:00:29Z",
+      "processed_at": "2025-08-20T19:16:23.618077+00:00"
+    },
+    {
+      "title": "Sony just launched five new PC gaming peripherals, so I tried them all at once - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "Sony is finally ready to take on SteelSeries, Razer, and more with its full lineup of PC gaming acce...",
+      "url": "https://www.theverge.com/hands-on/757680/sony-inzone-pc-gaming-headset-keyboard-mouse-hands-on",
+      "publishedAt": "2025-08-19T16:17:18Z",
+      "processed_at": "2025-08-20T19:16:23.618077+00:00"
+    },
     {
       "title": "33.2.2 Patch Notes — Hearthstone - Blizzard News",
       "source": {
@@ -10,7 +40,17 @@
       "description": "Hearthstone balance changes, Battlegrounds updates, and bug fixes await in Patch 33.2.2!...",
       "url": "https://news.blizzard.com/en-us/article/24223662/33-2-2-patch-notes",
       "publishedAt": "2025-08-19T16:00:00Z",
-      "processed_at": "2025-08-20T18:30:19.161193+00:00"
+      "processed_at": "2025-08-20T19:16:23.618077+00:00"
+    },
+    {
+      "title": "Helldivers 2 ODST Crossover Will Add 4 Iconic Halo Weapons And More - GameSpot",
+      "source": {
+        "name": "GameSpot"
+      },
+      "description": "You know the music, time to dance....",
+      "url": "https://www.gamespot.com/gallery/helldivers-2-odst-crossover-will-add-4-iconic-halo-weapons-and-more/2900-6890/",
+      "publishedAt": "2025-08-19T15:51:18Z",
+      "processed_at": "2025-08-20T19:16:23.618077+00:00"
     },
     {
       "title": "BioShock Studio Cloud Chamber Undergoes Layoffs, Appoints Rod Fergusson New BioShock Head - IGN",
@@ -20,7 +60,17 @@
       "description": "2K Games is laying off an unknown number of individuals at BioShock studio Cloud Chamber, as it unde...",
       "url": "https://www.ign.com/articles/bioshock-studio-cloud-chamber-undergoes-layoffs-appoints-rod-fergusson-new-bioshock-head",
       "publishedAt": "2025-08-19T15:40:01Z",
-      "processed_at": "2025-08-20T18:30:19.161193+00:00"
+      "processed_at": "2025-08-20T19:16:23.618077+00:00"
+    },
+    {
+      "title": "\"Remove mentions of XSLT from the html spec\" - Hacker News",
+      "source": {
+        "name": "Hacker News"
+      },
+      "description": "",
+      "url": "https://news.ycombinator.com/item?id\\\\u003d44952185",
+      "publishedAt": "2025-08-19T15:30:43Z",
+      "processed_at": "2025-08-20T19:16:23.618077+00:00"
     },
     {
       "title": "Jimmy Fallon is ‘officially hosting’ Google’s Pixel 10 event - 9to5Google",
@@ -30,7 +80,7 @@
       "description": "Google teased a star-studded Pixel 10 keynote, and it now turns out that Jimmy Fallon will actually ...",
       "url": "http://9to5google.com/2025/08/19/pixel-10-event-host/",
       "publishedAt": "2025-08-19T15:24:00Z",
-      "processed_at": "2025-08-20T18:30:19.161193+00:00"
+      "processed_at": "2025-08-20T19:16:23.618077+00:00"
     },
     {
       "title": "Razer’s Gengar Edition headphones are now available in the US - The Verge",
@@ -40,7 +90,7 @@
       "description": "The company is expanding its Pokémon collaboration in the US with a pair of headphones previously ex...",
       "url": "https://www.theverge.com/news/761044/razer-pokemon-kraken-kitty-v2-wired-headphones-gengar-edition-us-availability",
       "publishedAt": "2025-08-19T15:00:00Z",
-      "processed_at": "2025-08-20T18:30:19.161193+00:00"
+      "processed_at": "2025-08-20T19:16:23.618077+00:00"
     },
     {
       "title": "No Hollow Knight: Silksong release date announcement today as Special Announcement is scheduled for Thursday - Eurogamer",
@@ -50,50 +100,10 @@
       "description": "A Hollow Knight: Silksong \"Special Announcement\" from developer Team Cherry is planned for Thursday,...",
       "url": "https://www.eurogamer.net/no-hollow-knight-silksong-release-date-announcement-today-as-special-announcement-is-scheduled-for-thursday",
       "publishedAt": "2025-08-19T14:43:17Z",
-      "processed_at": "2025-08-20T18:30:19.161193+00:00"
-    },
-    {
-      "title": "The Kirby Air Riders Direct presentation showcased the game's wild vehicular action and more on Nintendo Switch 2 - Nintendo",
-      "source": {
-        "name": "Nintendo.com"
-      },
-      "description": "Game Director Masahiro Sakurai provided viewers with a deep dive into the fast, fun and frenetic Kir...",
-      "url": "https://www.nintendo.com/us/whatsnew/the-kirby-air-riders-direct-presentation-showcased-the-games-wild-vehicular-action-and-more-on-nintendo-switch-2/",
-      "publishedAt": "2025-08-19T14:15:52Z",
-      "processed_at": "2025-08-20T18:30:19.161193+00:00"
-    },
-    {
-      "title": "These Seven Games Are Coming To Xbox Game Pass (August 19-28) - Pure Xbox",
-      "source": {
-        "name": "Pure Xbox"
-      },
-      "description": "Your latest batch of new titles...",
-      "url": "https://www.purexbox.com/news/2025/08/these-seven-games-are-coming-to-xbox-game-pass-august-19-28",
-      "publishedAt": "2025-08-19T14:12:00Z",
-      "processed_at": "2025-08-20T18:30:19.161193+00:00"
-    },
-    {
-      "title": "ASUS Unveils ROG Matrix GeForce RTX 5090 “30th Anniversary Edition” Graphics Card: Up To 800W Power, Quad Axial-Tech Fans & Premium PCB With BTF Design - Wccftech",
-      "source": {
-        "name": "Wccftech"
-      },
-      "description": "ASUS has finally unveiled its brand new ROG Matrix GeForce RTX 5090 30th Anniversary Edition graphic...",
-      "url": "https://wccftech.com/asus-rog-matrix-geforce-rtx-5090-30th-anniversary-edition-graphics-card-up-to-800w-power-quad-axial-tech-fans/",
-      "publishedAt": "2025-08-19T13:48:00Z",
-      "processed_at": "2025-08-20T18:30:19.161193+00:00"
-    },
-    {
-      "title": "AMD Stock Slips Alongside Zen 7 Leaks - TipRanks",
-      "source": {
-        "name": "Tipranks.com"
-      },
-      "description": "AMD stock was down on Tuesday alongside leaks about the company’s upcoming Zen 7 processors....",
-      "url": "https://www.tipranks.com/news/amd-stock-slips-alongside-zen-7-leaks",
-      "publishedAt": "2025-08-19T13:47:38Z",
-      "processed_at": "2025-08-20T18:30:19.161193+00:00"
+      "processed_at": "2025-08-20T19:16:23.618077+00:00"
     }
   ],
-  "lastUpdated": "2025-08-20T18:30:19.161276+00:00",
+  "lastUpdated": "2025-08-20T19:16:23.618156+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
