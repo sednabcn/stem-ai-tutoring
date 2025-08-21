@@ -1,26 +1,46 @@
 {
   "status": "success",
-  "totalResults": 9,
+  "totalResults": 10,
   "articles": [
     {
-      "title": "Can portable wind generators replace solar power? My advice after testing one at home - ZDNET",
+      "title": "Hollow Knight: Silksong Offers Buttery Smooth Performance On Switch 2 - Nintendo Life",
       "source": {
-        "name": "ZDNet"
+        "name": "Nintendo Life"
       },
-      "description": "Solar generators struggle when the sun isn't out - but this portable backup power solution keeps you...",
-      "url": "https://www.zdnet.com/home-and-office/energy/can-portable-wind-generators-replace-solar-power-my-advice-after-testing-one-at-home/",
-      "publishedAt": "2025-08-20T02:00:00Z",
-      "processed_at": "2025-08-21T08:27:36.791673+00:00"
+      "description": "No Quirrels from us...",
+      "url": "https://www.nintendolife.com/news/2025/08/hollow-knight-silksong-offers-buttery-smooth-performance-on-switch-2",
+      "publishedAt": "2025-08-20T10:00:00Z",
+      "processed_at": "2025-08-21T09:22:34.552284+00:00"
     },
     {
-      "title": "Last-minute Pixel 10 leak suggests controversial change is really happening - Android Authority",
+      "title": "Prices leak for the rest of Google’s new Pixel products - The Verge",
       "source": {
-        "name": "Android Authority"
+        "name": "The Verge"
       },
-      "description": "On the eve of launch, a Pixel 10 leak backs up claims that Google could be moving away from physical...",
-      "url": "https://www.androidauthority.com/google-pixel-10-leak-no-physical-sim-3589062/",
-      "publishedAt": "2025-08-19T21:26:42Z",
-      "processed_at": "2025-08-21T08:27:36.791673+00:00"
+      "description": "The latest leak covers phones, watches, earbuds, and charging accessories....",
+      "url": "https://www.theverge.com/news/762115/google-pixel-10-watch-4-buds-2a-price-leak",
+      "publishedAt": "2025-08-20T09:45:41Z",
+      "processed_at": "2025-08-21T09:22:34.552284+00:00"
+    },
+    {
+      "title": "Everything announced at Opening Night Live, Gamescom 2025 - Eurogamer",
+      "source": {
+        "name": "Eurogamer.net"
+      },
+      "description": "It's Gamescom Opening Night Live time, and that means Geoff Keighley's back and ready to dish out lo...",
+      "url": "https://www.eurogamer.net/everything-announced-at-opening-night-live-gamescom-2025",
+      "publishedAt": "2025-08-19T21:13:46Z",
+      "processed_at": "2025-08-21T09:22:34.552284+00:00"
+    },
+    {
+      "title": "In World Of Warcraft: Midnight, What's Old Is New Again - GameSpot",
+      "source": {
+        "name": "GameSpot"
+      },
+      "description": "Blizzard is reinventing the home of the Blood Elves for 2026....",
+      "url": "https://www.gamespot.com/articles/in-world-of-warcraft-midnight-whats-old-is-new-again/1100-6534043/",
+      "publishedAt": "2025-08-19T20:47:59Z",
+      "processed_at": "2025-08-21T09:22:34.552284+00:00"
     },
     {
       "title": "iPhone 17 Pro may be a tougher sell than ever before - 9to5Mac",
@@ -30,37 +50,27 @@
       "description": "Apple’s iPhone 17 lineup will offer four models, but one in particular could be a harder sell than u...",
       "url": "https://9to5mac.com/2025/08/19/iphone-17-pro-may-be-a-tougher-sell-than-ever-before/",
       "publishedAt": "2025-08-19T20:39:00Z",
-      "processed_at": "2025-08-21T08:27:36.791673+00:00"
+      "processed_at": "2025-08-21T09:22:34.552284+00:00"
     },
     {
-      "title": "WoW: Midnight's gameplay has been shown off at Gamescom 2025 - Windows Central",
+      "title": "Black Myth: Zhong Kui Is In Development, And It's Set To Launch Day One On Xbox - Pure Xbox",
       "source": {
-        "name": "Windows Central"
+        "name": "Pure Xbox"
       },
-      "description": "Save Azeroth from an invasion of Void Walkers in the next chapter of World of Warcraft's Worldsoul S...",
-      "url": "https://www.windowscentral.com/gaming/world-of-warcraft-midnight-expansion-gamescom-2025",
-      "publishedAt": "2025-08-19T19:52:49Z",
-      "processed_at": "2025-08-21T08:27:36.791673+00:00"
+      "description": "We haven't even had Wukong on Xbox yet!...",
+      "url": "https://www.purexbox.com/news/2025/08/black-myth-zhong-kui-is-in-development-and-its-set-to-launch-day-one-on-xbox",
+      "publishedAt": "2025-08-19T20:25:00Z",
+      "processed_at": "2025-08-21T09:22:34.552284+00:00"
     },
     {
-      "title": "Tales Of Xillia Remastered Coming This October, Confirmed 30fps For Switch - Nintendo Life",
-      "source": {
-        "name": "Nintendo Life"
-      },
-      "description": "No Song 4 u, though...",
-      "url": "https://www.nintendolife.com/news/2025/08/tales-of-xillia-remastered-coming-this-october-confirmed-30fps-for-switch",
-      "publishedAt": "2025-08-19T19:50:06Z",
-      "processed_at": "2025-08-21T08:27:36.791673+00:00"
-    },
-    {
-      "title": "This sucks: you'll have to pay for two clans in Vampire: The Masquerade - Bloodlines 2 - Eurogamer",
+      "title": "More action than RPG, Vampire: The Masquerade - Bloodlines 2 struggles to convince after a few hours' play - Eurogamer",
       "source": {
         "name": "Eurogamer.net"
       },
-      "description": "As Vampire: The Masquerade - Bloodlines 2 finally gets a release date it looks like it will hit - 21...",
-      "url": "https://www.eurogamer.net/this-sucks-youll-have-to-pay-for-two-clans-in-vampire-the-masquerade-bloodlines-2",
-      "publishedAt": "2025-08-19T19:39:05Z",
-      "processed_at": "2025-08-21T08:27:36.791673+00:00"
+      "description": "We've played Vampire: The Masquerade - Bloodlines 2. Has it been worth the wait?...",
+      "url": "https://www.eurogamer.net/more-action-than-rpg-vampire-the-masquerade-bloodlines-2-struggles-to-convince-after-a-few-hours-play",
+      "publishedAt": "2025-08-19T19:38:41Z",
+      "processed_at": "2025-08-21T09:22:34.552284+00:00"
     },
     {
       "title": "Silent Hill f Gamescom Trailer Reveals Suzie Yeung as Hinako - IGN",
@@ -70,7 +80,7 @@
       "description": "Silent Hill f made an appearance at Gamescom Opening Night Live this evening with a brand new traile...",
       "url": "https://www.ign.com/articles/silent-hill-f-gamescom-trailer-reveals-suzie-yeung-as-hinako",
       "publishedAt": "2025-08-19T19:33:04Z",
-      "processed_at": "2025-08-21T08:27:36.791673+00:00"
+      "processed_at": "2025-08-21T09:22:34.552284+00:00"
     },
     {
       "title": "Sekiro Anime Officially Revealed, Watch The First Trailer Here - GameSpot",
@@ -80,20 +90,20 @@
       "description": "The first trailer for the Sekiro: Shadows Die Twice anime adaptation is here....",
       "url": "https://www.gamespot.com/articles/sekiro-anime-officially-revealed-watch-the-first-trailer-here/1100-6534056/",
       "publishedAt": "2025-08-19T19:19:05Z",
-      "processed_at": "2025-08-21T08:27:36.791673+00:00"
+      "processed_at": "2025-08-21T09:22:34.552284+00:00"
     },
     {
-      "title": "Indiana Jones And The Great Circle Will Launch On Switch 2 In 2026 - Nintendo Life",
+      "title": "Pokémon Teases A Spooky Legends: Z-A Reveal Later This Week - Nintendo Life",
       "source": {
         "name": "Nintendo Life"
       },
-      "description": "Sweet!...",
-      "url": "https://www.nintendolife.com/news/2025/08/indiana-jones-and-the-great-circle-will-launch-on-switch-2-in-2026",
-      "publishedAt": "2025-08-19T19:00:00Z",
-      "processed_at": "2025-08-21T08:27:36.791673+00:00"
+      "description": "\"Viewer discretion advised\"...",
+      "url": "https://www.nintendolife.com/news/2025/08/pokemon-teases-a-spooky-legends-z-a-reveal-later-this-week",
+      "publishedAt": "2025-08-19T18:20:07Z",
+      "processed_at": "2025-08-21T09:22:34.552284+00:00"
     }
   ],
-  "lastUpdated": "2025-08-21T08:27:36.791742+00:00",
+  "lastUpdated": "2025-08-21T09:22:34.552354+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
