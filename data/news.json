@@ -3,24 +3,44 @@
   "totalResults": 9,
   "articles": [
     {
-      "title": "Pixel Watch 4 hides Google's biggest upgrade behind classic design & same price [Hands-on] - 9to5Google",
+      "title": "Having recovery and/or SSD problems after recent Windows updates? You’re not alone. - Ars Technica",
+      "source": {
+        "name": "Ars Technica"
+      },
+      "description": "Recovery issue is already resolved; SSD problems have been trickier to diagnose....",
+      "url": "https://arstechnica.com/gadgets/2025/08/having-recovery-and-or-ssd-problems-after-recent-windows-updates-youre-not-alone/",
+      "publishedAt": "2025-08-20T17:45:37Z",
+      "processed_at": "2025-08-21T19:16:33.649735+00:00"
+    },
+    {
+      "title": "Pixel 10, 10 Pro, and 10 Pro XL remove support for physical SIM cards in the US - 9to5Google",
       "source": {
         "name": "9to5google.com"
       },
-      "description": "At Made by Google 2025, Google announced the Pixel Watch 4. While it looks the same, there are signi...",
-      "url": "http://9to5google.com/2025/08/20/pixel-watch-4-announcement-hands-on/",
-      "publishedAt": "2025-08-20T16:01:00Z",
-      "processed_at": "2025-08-21T18:28:46.251703+00:00"
+      "description": "Google is, for the first time, entirely removing support for a physical SIM card in the US versions ...",
+      "url": "http://9to5google.com/2025/08/20/pixel-10-10-pro-and-10-pro-xl-remove-support-for-physical-sim-cards-in-the-us/",
+      "publishedAt": "2025-08-20T16:20:00Z",
+      "processed_at": "2025-08-21T19:16:33.649735+00:00"
     },
     {
-      "title": "Google’s Pixel Buds 2A add Gemini, noise cancellation, and a replaceable battery - The Verge",
+      "title": "Google debuts Pixel Watch 4 with domed display, emergency Satellite Communication - TechCrunch",
+      "source": {
+        "name": "TechCrunch"
+      },
+      "description": "The 41mm Pixel Watch 4 starts at $349 for Wi-Fi and $449 for LTE, while the 45mm version starts at $...",
+      "url": "https://techcrunch.com/2025/08/20/google-debuts-pixel-watch-4-with-domed-display-emergency-satellite-communication/",
+      "publishedAt": "2025-08-20T16:00:00Z",
+      "processed_at": "2025-08-21T19:16:33.649735+00:00"
+    },
+    {
+      "title": "Google’s Pixel Buds Pro 2 are getting new AI-powered features in September - The Verge",
       "source": {
         "name": "The Verge"
       },
-      "description": "The $129.99 Pixel Buds 2a are a bit more expensive, but add active noise cancellation, a Tensor A1 c...",
-      "url": "https://www.theverge.com/hands-on/760852/google-pixel-buds-2a-hands-on-active-noise-cancellation-battery-gemini-earbuds",
+      "description": "A software update will bring Adaptive Audio, improved audio processing for background noise, and mor...",
+      "url": "https://www.theverge.com/news/762048/googles-pixel-buds-pro-2-new-ai-powered-features",
       "publishedAt": "2025-08-20T16:00:00Z",
-      "processed_at": "2025-08-21T18:28:46.251703+00:00"
+      "processed_at": "2025-08-21T19:16:33.649735+00:00"
     },
     {
       "title": "Sony is raising PS5 prices, starting tomorrow - The Verge",
@@ -30,7 +50,17 @@
       "description": "Sony is increasing the price of all models of the PS5 in the US by $50, effective August 21st....",
       "url": "https://www.theverge.com/news/762410/sony-ps5-price-hike-raise-digital-pro",
       "publishedAt": "2025-08-20T15:17:11Z",
-      "processed_at": "2025-08-21T18:28:46.251703+00:00"
+      "processed_at": "2025-08-21T19:16:33.649735+00:00"
+    },
+    {
+      "title": "ROG Xbox Ally: Release Date, Specs, Price and How It Compares to Steam Deck - CNET",
+      "source": {
+        "name": "CNET"
+      },
+      "description": "Can Microsoft and Asus give Valve some handheld competition?...",
+      "url": "https://www.cnet.com/tech/gaming/rog-xbox-ally-release-date-specs-price-compares-steam-deck/",
+      "publishedAt": "2025-08-20T14:24:00Z",
+      "processed_at": "2025-08-21T19:16:33.649735+00:00"
     },
     {
       "title": "Report: Amazon prepares to embrace Android on Fire Tablet as its Appstore dies - 9to5Google",
@@ -40,27 +70,7 @@
       "description": "As its Appstore for Android dies today, Amazon is reportedly preparing to completely revamp its Fire...",
       "url": "http://9to5google.com/2025/08/20/amazon-fire-tablet-android-report/",
       "publishedAt": "2025-08-20T13:50:00Z",
-      "processed_at": "2025-08-21T18:28:46.251703+00:00"
-    },
-    {
-      "title": "Microsoft and Asus’ new Xbox Ally handhelds launch on October 16th - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "Microsoft and Asus are launching the new Xbox Ally handheld devices in October. Information on prici...",
-      "url": "https://www.theverge.com/news/762116/microsoft-asus-xbox-ally-handheld-release-date-compatibility",
-      "publishedAt": "2025-08-20T13:30:00Z",
-      "processed_at": "2025-08-21T18:28:46.251703+00:00"
-    },
-    {
-      "title": "Bloodlines 2 Locks Core Content Behind Costly Day-One DLC - Kotaku",
-      "source": {
-        "name": "Kotaku"
-      },
-      "description": "You'll need to pay half as much again to play the entire RPG when it launches...",
-      "url": "https://kotaku.com/vampire-the-masquerade-bloodlines-2-day-1-dlc-clans-2000618832",
-      "publishedAt": "2025-08-20T13:19:05Z",
-      "processed_at": "2025-08-21T18:28:46.251703+00:00"
+      "processed_at": "2025-08-21T19:16:33.649735+00:00"
     },
     {
       "title": "Column | The mastermind of Smash Bros. is set to make ‘Kirby Air Riders’ a hit - The Washington Post",
@@ -70,7 +80,7 @@
       "description": "“Kirby Air Riders” is the Switch 2’s major fall release from Masahiro Sakurai, the game creator behi...",
       "url": "https://www.washingtonpost.com/entertainment/video-games/2025/08/20/kirby-air-riders-switch-2-gameplay/",
       "publishedAt": "2025-08-20T12:44:32Z",
-      "processed_at": "2025-08-21T18:28:46.251703+00:00"
+      "processed_at": "2025-08-21T19:16:33.649735+00:00"
     },
     {
       "title": "With gamescom queues over an hour and Reddit in overdrive, Hollow Knight: Silksong hype has outpaced everything from Opening Night Live - Eurogamer",
@@ -80,20 +90,10 @@
       "description": "The hype for Team Cherry's anticipated Hollow Knight sequel is reaching new highs....",
       "url": "https://www.eurogamer.net/with-gamescom-queues-over-an-hour-and-reddit-in-overdrive-hollow-knight-silksong-hype-has-outpaced-everything-from-opening-night-live",
       "publishedAt": "2025-08-20T12:30:00Z",
-      "processed_at": "2025-08-21T18:28:46.251703+00:00"
-    },
-    {
-      "title": "Somehow, Resident Evil Requiem's 'big thing that follows you around' formula still invokes as much dread as your heart can take - Eurogamer",
-      "source": {
-        "name": "Eurogamer.net"
-      },
-      "description": "Resident Evil 9 is pulling the same trick again. But that's a good thing....",
-      "url": "https://www.eurogamer.net/somehow-resident-evil-requiems-big-thing-that-follows-you-around-formula-still-invokes-as-much-dread-as-your-heart-can-take",
-      "publishedAt": "2025-08-20T12:00:00Z",
-      "processed_at": "2025-08-21T18:28:46.251703+00:00"
+      "processed_at": "2025-08-21T19:16:33.649735+00:00"
     }
   ],
-  "lastUpdated": "2025-08-21T18:28:46.251775+00:00",
+  "lastUpdated": "2025-08-21T19:16:33.649810+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
