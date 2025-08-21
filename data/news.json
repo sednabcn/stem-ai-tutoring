@@ -1,99 +1,109 @@
 {
   "status": "success",
-  "totalResults": 9,
+  "totalResults": 10,
   "articles": [
     {
-      "title": "Column | The mastermind of Smash Bros. is set to make ‘Kirby Air Riders’ a hit - The Washington Post",
-      "source": {
-        "name": "Google News"
-      },
-      "description": "",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQbk8tQWlIdVBkTWpiMHpOSW9GdVJRSUhHdU5tZGNHUW42V3JXYTNzSDQydkRncjA2T1c0Y3J4VXdlNURBazN5TzlTWnBqTFNRS0h0VUoyR1JwY2pYNVdjblZQZlEzd1RKZlpiRGpyb3F4VGhud3JfRVZ5aVR6TkZDR051cnMzUG9wVE9sVDJpZXBId2hWN3ZSODM5Vl93YTJmU0g0d053?oc=5",
-      "publishedAt": "2025-08-20T12:44:32Z",
-      "processed_at": "2025-08-21T14:20:52.069267+00:00"
-    },
-    {
-      "title": "Microsoft Confirms Emergency Windows Update—Your PC ‘Might Fail’ - Forbes",
-      "source": {
-        "name": "Forbes"
-      },
-      "description": "This is critical — update your device now....",
-      "url": "https://www.forbes.com/sites/zakdoffman/2025/08/20/microsoft-confirms-windows-is-broken-emergency-update-on-way/",
-      "publishedAt": "2025-08-20T10:27:00Z",
-      "processed_at": "2025-08-21T14:20:52.069267+00:00"
-    },
-    {
-      "title": "Hollow Knight: Silksong Offers Buttery Smooth Performance On Switch 2 - Nintendo Life",
-      "source": {
-        "name": "Nintendo Life"
-      },
-      "description": "No Quirrels from us...",
-      "url": "https://www.nintendolife.com/news/2025/08/hollow-knight-silksong-offers-buttery-smooth-performance-on-switch-2",
-      "publishedAt": "2025-08-20T10:00:00Z",
-      "processed_at": "2025-08-21T14:20:52.069267+00:00"
-    },
-    {
-      "title": "Prices leak for the rest of Google’s new Pixel products - The Verge",
+      "title": "Google Pixel 10 launch event: the 8 biggest announcements - The Verge",
       "source": {
         "name": "The Verge"
       },
-      "description": "The latest leak covers phones, watches, earbuds, and charging accessories....",
-      "url": "https://www.theverge.com/news/762115/google-pixel-10-watch-4-buds-2a-price-leak",
-      "publishedAt": "2025-08-20T09:45:41Z",
-      "processed_at": "2025-08-21T14:20:52.069267+00:00"
+      "description": "Google has revealed a bunch of new devices as part of its Made by Google event, including the Pixel ...",
+      "url": "https://www.theverge.com/news/762150/google-pixel-10-launch-event-announcements",
+      "publishedAt": "2025-08-20T16:00:00Z",
+      "processed_at": "2025-08-21T15:22:15.705506+00:00"
+    },
+    {
+      "title": "Sony is raising PS5 prices, starting tomorrow - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "Sony is increasing the price of all models of the PS5 in the US by $50, effective August 21st....",
+      "url": "https://www.theverge.com/news/762410/sony-ps5-price-hike-raise-digital-pro",
+      "publishedAt": "2025-08-20T15:17:11Z",
+      "processed_at": "2025-08-21T15:22:15.705506+00:00"
+    },
+    {
+      "title": "Microsoft and Asus’ new Xbox Ally handhelds launch on October 16th - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "Microsoft and Asus are launching the new Xbox Ally handheld devices in October. Information on prici...",
+      "url": "https://www.theverge.com/news/762116/microsoft-asus-xbox-ally-handheld-release-date-compatibility",
+      "publishedAt": "2025-08-20T13:30:00Z",
+      "processed_at": "2025-08-21T15:22:15.705506+00:00"
+    },
+    {
+      "title": "Galaxy Tab S11 Ultra shows up in leaked images, confirming smaller display notch [Gallery] - 9to5Google",
+      "source": {
+        "name": "9to5google.com"
+      },
+      "description": "Samsung’s next high-end Android tablets are on the way, with new leaked images showing off the Galax...",
+      "url": "http://9to5google.com/2025/08/20/galaxy-tab-s11-ultra-shows-up-in-leaked-images-confirming-smaller-display-notch-gallery/",
+      "publishedAt": "2025-08-20T13:15:00Z",
+      "processed_at": "2025-08-21T15:22:15.705506+00:00"
+    },
+    {
+      "title": "Column | The mastermind of Smash Bros. is set to make ‘Kirby Air Riders’ a hit - The Washington Post",
+      "source": {
+        "name": "The Washington Post"
+      },
+      "description": "“Kirby Air Riders” is the Switch 2’s major fall release from Masahiro Sakurai, the game creator behi...",
+      "url": "https://www.washingtonpost.com/entertainment/video-games/2025/08/20/kirby-air-riders-switch-2-gameplay/",
+      "publishedAt": "2025-08-20T12:44:32Z",
+      "processed_at": "2025-08-21T15:22:15.705506+00:00"
+    },
+    {
+      "title": "With gamescom queues over an hour and Reddit in overdrive, Hollow Knight: Silksong hype has outpaced everything from Opening Night Live - Eurogamer",
+      "source": {
+        "name": "Eurogamer.net"
+      },
+      "description": "The hype for Team Cherry's anticipated Hollow Knight sequel is reaching new highs....",
+      "url": "https://www.eurogamer.net/with-gamescom-queues-over-an-hour-and-reddit-in-overdrive-hollow-knight-silksong-hype-has-outpaced-everything-from-opening-night-live",
+      "publishedAt": "2025-08-20T12:30:00Z",
+      "processed_at": "2025-08-21T15:22:15.705506+00:00"
+    },
+    {
+      "title": "Somehow, Resident Evil Requiem's 'big thing that follows you around' formula still invokes as much dread as your heart can take - Eurogamer",
+      "source": {
+        "name": "Eurogamer.net"
+      },
+      "description": "Resident Evil 9 is pulling the same trick again. But that's a good thing....",
+      "url": "https://www.eurogamer.net/somehow-resident-evil-requiems-big-thing-that-follows-you-around-formula-still-invokes-as-much-dread-as-your-heart-can-take",
+      "publishedAt": "2025-08-20T12:00:00Z",
+      "processed_at": "2025-08-21T15:22:15.705506+00:00"
+    },
+    {
+      "title": "Microsoft reportedly fixing SSD failures caused by Windows updates - BleepingComputer",
+      "source": {
+        "name": "BleepingComputer"
+      },
+      "description": "Recently released Windows 11 24H2 updates are reportedly causing data corruption and failure issues ...",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-reportedly-fixing-ssd-failures-caused-by-windows-updates/",
+      "publishedAt": "2025-08-20T11:26:30Z",
+      "processed_at": "2025-08-21T15:22:15.705506+00:00"
+    },
+    {
+      "title": "These brain implants speak your mind — even when you don't want to : Shots - Health News - NPR",
+      "source": {
+        "name": "NPR"
+      },
+      "description": "Brain-implanted devices that allow paralyzed people to speak can also decode words they imagine, but...",
+      "url": "https://www.npr.org/sections/shots-health-news/2025/08/20/nx-s1-5506334/brain-computer-implant-speak-inner-speech-mind",
+      "publishedAt": "2025-08-20T10:00:00Z",
+      "processed_at": "2025-08-21T15:22:15.705506+00:00"
     },
     {
       "title": "Vampire: The Masquerade - Bloodlines 2 sticks two bloodsucker clans, including the sexy one, behind paid day-one DLC - Rock Paper Shotgun",
       "source": {
         "name": "Rock Paper Shotgun"
       },
-      "description": "",
+      "description": "Two of Vampire: The Masquerade - Bloodlines 2 clans, the Lasombra and Toreador, gated behind paid da...",
       "url": "https://www.rockpapershotgun.com/vampire-the-masquerade-bloodlines-2-sticks-two-bloodsucker-clans-including-the-sexy-one-behind-paid-day-one-dlc",
       "publishedAt": "2025-08-20T09:43:22Z",
-      "processed_at": "2025-08-21T14:20:52.069267+00:00"
-    },
-    {
-      "title": "Google Gemini can now read your Docs aloud - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "Google Docs is rolling out a feature that will let you generate audio versions of your documents usi...",
-      "url": "https://www.theverge.com/news/761920/google-docs-gemini-ai-read-aloud",
-      "publishedAt": "2025-08-19T21:48:21Z",
-      "processed_at": "2025-08-21T14:20:52.069267+00:00"
-    },
-    {
-      "title": "Everything announced at Opening Night Live, Gamescom 2025 - Eurogamer",
-      "source": {
-        "name": "Eurogamer.net"
-      },
-      "description": "It's Gamescom Opening Night Live time, and that means Geoff Keighley's back and ready to dish out lo...",
-      "url": "https://www.eurogamer.net/everything-announced-at-opening-night-live-gamescom-2025",
-      "publishedAt": "2025-08-19T21:13:46Z",
-      "processed_at": "2025-08-21T14:20:52.069267+00:00"
-    },
-    {
-      "title": "In World Of Warcraft: Midnight, What's Old Is New Again - GameSpot",
-      "source": {
-        "name": "GameSpot"
-      },
-      "description": "Blizzard is reinventing the home of the Blood Elves for 2026....",
-      "url": "https://www.gamespot.com/articles/in-world-of-warcraft-midnight-whats-old-is-new-again/1100-6534043/",
-      "publishedAt": "2025-08-19T20:47:59Z",
-      "processed_at": "2025-08-21T14:20:52.069267+00:00"
-    },
-    {
-      "title": "iPhone 17 Pro may be a tougher sell than ever before - 9to5Mac",
-      "source": {
-        "name": "9to5Mac"
-      },
-      "description": "Apple’s iPhone 17 lineup will offer four models, but one in particular could be a harder sell than u...",
-      "url": "https://9to5mac.com/2025/08/19/iphone-17-pro-may-be-a-tougher-sell-than-ever-before/",
-      "publishedAt": "2025-08-19T20:39:00Z",
-      "processed_at": "2025-08-21T14:20:52.069267+00:00"
+      "processed_at": "2025-08-21T15:22:15.705506+00:00"
     }
   ],
-  "lastUpdated": "2025-08-21T14:20:52.069339+00:00",
+  "lastUpdated": "2025-08-21T15:22:15.705582+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
