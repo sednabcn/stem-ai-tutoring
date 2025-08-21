@@ -1,16 +1,26 @@
 {
   "status": "success",
-  "totalResults": 10,
+  "totalResults": 9,
   "articles": [
     {
-      "title": "Google Pixel 10 launch event: the 8 biggest announcements - The Verge",
+      "title": "Pixel Watch 4 hides Google's biggest upgrade behind classic design & same price [Hands-on] - 9to5Google",
+      "source": {
+        "name": "9to5google.com"
+      },
+      "description": "At Made by Google 2025, Google announced the Pixel Watch 4. While it looks the same, there are signi...",
+      "url": "http://9to5google.com/2025/08/20/pixel-watch-4-announcement-hands-on/",
+      "publishedAt": "2025-08-20T16:01:00Z",
+      "processed_at": "2025-08-21T17:17:58.512317+00:00"
+    },
+    {
+      "title": "Google’s Pixel Buds 2A add Gemini, noise cancellation, and a replaceable battery - The Verge",
       "source": {
         "name": "The Verge"
       },
-      "description": "Google has revealed a bunch of new devices as part of its Made by Google event, including the Pixel ...",
-      "url": "https://www.theverge.com/news/762150/google-pixel-10-launch-event-announcements",
+      "description": "The $129.99 Pixel Buds 2a are a bit more expensive, but add active noise cancellation, a Tensor A1 c...",
+      "url": "https://www.theverge.com/hands-on/760852/google-pixel-buds-2a-hands-on-active-noise-cancellation-battery-gemini-earbuds",
       "publishedAt": "2025-08-20T16:00:00Z",
-      "processed_at": "2025-08-21T16:25:45.646083+00:00"
+      "processed_at": "2025-08-21T17:17:58.512317+00:00"
     },
     {
       "title": "Sony is raising PS5 prices, starting tomorrow - The Verge",
@@ -20,7 +30,17 @@
       "description": "Sony is increasing the price of all models of the PS5 in the US by $50, effective August 21st....",
       "url": "https://www.theverge.com/news/762410/sony-ps5-price-hike-raise-digital-pro",
       "publishedAt": "2025-08-20T15:17:11Z",
-      "processed_at": "2025-08-21T16:25:45.646083+00:00"
+      "processed_at": "2025-08-21T17:17:58.512317+00:00"
+    },
+    {
+      "title": "Report: Amazon prepares to embrace Android on Fire Tablet as its Appstore dies - 9to5Google",
+      "source": {
+        "name": "9to5google.com"
+      },
+      "description": "As its Appstore for Android dies today, Amazon is reportedly preparing to completely revamp its Fire...",
+      "url": "http://9to5google.com/2025/08/20/amazon-fire-tablet-android-report/",
+      "publishedAt": "2025-08-20T13:50:00Z",
+      "processed_at": "2025-08-21T17:17:58.512317+00:00"
     },
     {
       "title": "Microsoft and Asus’ new Xbox Ally handhelds launch on October 16th - The Verge",
@@ -30,17 +50,17 @@
       "description": "Microsoft and Asus are launching the new Xbox Ally handheld devices in October. Information on prici...",
       "url": "https://www.theverge.com/news/762116/microsoft-asus-xbox-ally-handheld-release-date-compatibility",
       "publishedAt": "2025-08-20T13:30:00Z",
-      "processed_at": "2025-08-21T16:25:45.646083+00:00"
+      "processed_at": "2025-08-21T17:17:58.512317+00:00"
     },
     {
-      "title": "Galaxy Tab S11 Ultra shows up in leaked images, confirming smaller display notch [Gallery] - 9to5Google",
+      "title": "Bloodlines 2 Locks Core Content Behind Costly Day-One DLC - Kotaku",
       "source": {
-        "name": "9to5google.com"
+        "name": "Kotaku"
       },
-      "description": "Samsung’s next high-end Android tablets are on the way, with new leaked images showing off the Galax...",
-      "url": "http://9to5google.com/2025/08/20/galaxy-tab-s11-ultra-shows-up-in-leaked-images-confirming-smaller-display-notch-gallery/",
-      "publishedAt": "2025-08-20T13:15:00Z",
-      "processed_at": "2025-08-21T16:25:45.646083+00:00"
+      "description": "You'll need to pay half as much again to play the entire RPG when it launches...",
+      "url": "https://kotaku.com/vampire-the-masquerade-bloodlines-2-day-1-dlc-clans-2000618832",
+      "publishedAt": "2025-08-20T13:19:05Z",
+      "processed_at": "2025-08-21T17:17:58.512317+00:00"
     },
     {
       "title": "Column | The mastermind of Smash Bros. is set to make ‘Kirby Air Riders’ a hit - The Washington Post",
@@ -50,7 +70,7 @@
       "description": "“Kirby Air Riders” is the Switch 2’s major fall release from Masahiro Sakurai, the game creator behi...",
       "url": "https://www.washingtonpost.com/entertainment/video-games/2025/08/20/kirby-air-riders-switch-2-gameplay/",
       "publishedAt": "2025-08-20T12:44:32Z",
-      "processed_at": "2025-08-21T16:25:45.646083+00:00"
+      "processed_at": "2025-08-21T17:17:58.512317+00:00"
     },
     {
       "title": "With gamescom queues over an hour and Reddit in overdrive, Hollow Knight: Silksong hype has outpaced everything from Opening Night Live - Eurogamer",
@@ -60,7 +80,7 @@
       "description": "The hype for Team Cherry's anticipated Hollow Knight sequel is reaching new highs....",
       "url": "https://www.eurogamer.net/with-gamescom-queues-over-an-hour-and-reddit-in-overdrive-hollow-knight-silksong-hype-has-outpaced-everything-from-opening-night-live",
       "publishedAt": "2025-08-20T12:30:00Z",
-      "processed_at": "2025-08-21T16:25:45.646083+00:00"
+      "processed_at": "2025-08-21T17:17:58.512317+00:00"
     },
     {
       "title": "Somehow, Resident Evil Requiem's 'big thing that follows you around' formula still invokes as much dread as your heart can take - Eurogamer",
@@ -70,40 +90,10 @@
       "description": "Resident Evil 9 is pulling the same trick again. But that's a good thing....",
       "url": "https://www.eurogamer.net/somehow-resident-evil-requiems-big-thing-that-follows-you-around-formula-still-invokes-as-much-dread-as-your-heart-can-take",
       "publishedAt": "2025-08-20T12:00:00Z",
-      "processed_at": "2025-08-21T16:25:45.646083+00:00"
-    },
-    {
-      "title": "Microsoft reportedly fixing SSD failures caused by Windows updates - BleepingComputer",
-      "source": {
-        "name": "BleepingComputer"
-      },
-      "description": "Recently released Windows 11 24H2 updates are reportedly causing data corruption and failure issues ...",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-reportedly-fixing-ssd-failures-caused-by-windows-updates/",
-      "publishedAt": "2025-08-20T11:26:30Z",
-      "processed_at": "2025-08-21T16:25:45.646083+00:00"
-    },
-    {
-      "title": "These brain implants speak your mind — even when you don't want to : Shots - Health News - NPR",
-      "source": {
-        "name": "NPR"
-      },
-      "description": "Brain-implanted devices that allow paralyzed people to speak can also decode words they imagine, but...",
-      "url": "https://www.npr.org/sections/shots-health-news/2025/08/20/nx-s1-5506334/brain-computer-implant-speak-inner-speech-mind",
-      "publishedAt": "2025-08-20T10:00:00Z",
-      "processed_at": "2025-08-21T16:25:45.646083+00:00"
-    },
-    {
-      "title": "Vampire: The Masquerade - Bloodlines 2 sticks two bloodsucker clans, including the sexy one, behind paid day-one DLC - Rock Paper Shotgun",
-      "source": {
-        "name": "Rock Paper Shotgun"
-      },
-      "description": "Two of Vampire: The Masquerade - Bloodlines 2 clans, the Lasombra and Toreador, gated behind paid da...",
-      "url": "https://www.rockpapershotgun.com/vampire-the-masquerade-bloodlines-2-sticks-two-bloodsucker-clans-including-the-sexy-one-behind-paid-day-one-dlc",
-      "publishedAt": "2025-08-20T09:43:22Z",
-      "processed_at": "2025-08-21T16:25:45.646083+00:00"
+      "processed_at": "2025-08-21T17:17:58.512317+00:00"
     }
   ],
-  "lastUpdated": "2025-08-21T16:25:45.646160+00:00",
+  "lastUpdated": "2025-08-21T17:17:58.512389+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
