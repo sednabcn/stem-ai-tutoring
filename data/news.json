@@ -1,6 +1,6 @@
 {
   "status": "success",
-  "totalResults": 7,
+  "totalResults": 8,
   "articles": [
     {
       "title": "Humans intervened every 9 minutes in AAA test of driver assists - Ars Technica",
@@ -10,7 +10,7 @@
       "description": "AAA tested a number of different systems in Los Angeles highway traffic....",
       "url": "https://arstechnica.com/cars/2025/08/humans-intervened-every-9-minutes-in-aaa-test-of-driver-assists/",
       "publishedAt": "2025-08-21T04:04:27Z",
-      "processed_at": "2025-08-22T10:21:27.485773+00:00"
+      "processed_at": "2025-08-22T11:16:59.356812+00:00"
     },
     {
       "title": "Every Piece of Pixel Hardware Announced at Made by Google 2025 - CNET",
@@ -20,7 +20,7 @@
       "description": "Here's what you missed at Google's big event that included new phones, watches, earbuds, Gemini AI f...",
       "url": "https://www.cnet.com/tech/mobile/everything-from-made-by-google-2025-pixel-10-pixel-watch-4-pixel-10-pro-fold-announced/",
       "publishedAt": "2025-08-21T03:31:00Z",
-      "processed_at": "2025-08-22T10:21:27.485773+00:00"
+      "processed_at": "2025-08-22T11:16:59.356812+00:00"
     },
     {
       "title": "Google’s Gemini Live AI assistant will show you what it’s talking about - The Verge",
@@ -30,7 +30,17 @@
       "description": "Google is rolling out a big update for Gemini Live, which includes a new visual guidance feature tha...",
       "url": "https://www.theverge.com/news/763114/google-gemini-live-ai-visual-guidance-speech-update",
       "publishedAt": "2025-08-20T21:58:03Z",
-      "processed_at": "2025-08-22T10:21:27.485773+00:00"
+      "processed_at": "2025-08-22T11:16:59.356812+00:00"
+    },
+    {
+      "title": "Masimo Sues Customs Over Apple Watch’s Restored Oxygen Tool (1) - Bloomberg Law News",
+      "source": {
+        "name": "Bloomberglaw.com"
+      },
+      "description": "US Customs and Border Protection unlawfully let Apple Inc. reactivate a blood-oxygen tracking featur...",
+      "url": "https://news.bloomberglaw.com/ip-law/masimo-sues-us-customs-over-apple-restoring-watchs-oxygen-tool",
+      "publishedAt": "2025-08-20T21:18:00Z",
+      "processed_at": "2025-08-22T11:16:59.356812+00:00"
     },
     {
       "title": "Black Ops 7 reveal trailer ratioed by comment saying it “made me pre-order Battlefield 6” - Dexerto",
@@ -40,7 +50,7 @@
       "description": "Black Ops 7’s gameplay reveal trailer dropped at Gamescom, but it’s been overshadowed by comments ne...",
       "url": "https://www.dexerto.com/call-of-duty/black-ops-7-reveal-trailer-ratioed-by-comment-saying-it-made-me-pre-order-battlefield-6-3240846/",
       "publishedAt": "2025-08-20T19:52:30Z",
-      "processed_at": "2025-08-22T10:21:27.485773+00:00"
+      "processed_at": "2025-08-22T11:16:59.356812+00:00"
     },
     {
       "title": "Google launches a new Pixel Journal app - TechCrunch",
@@ -50,7 +60,7 @@
       "description": "Pixel Journal is a new journaling app from Google that uses on-device AI to suggest writing prompts....",
       "url": "https://techcrunch.com/2025/08/20/google-launches-a-new-pixel-journal-app/",
       "publishedAt": "2025-08-20T16:00:00Z",
-      "processed_at": "2025-08-22T10:21:27.485773+00:00"
+      "processed_at": "2025-08-22T11:16:59.356812+00:00"
     },
     {
       "title": "PlayStation 5 price changes in the U.S. - PlayStation.Blog",
@@ -60,7 +70,7 @@
       "description": "New prices effective starting on August 21....",
       "url": "https://blog.playstation.com/2025/08/20/playstation-5-price-changes-in-the-u-s/",
       "publishedAt": "2025-08-20T15:08:59Z",
-      "processed_at": "2025-08-22T10:21:27.485773+00:00"
+      "processed_at": "2025-08-22T11:16:59.356812+00:00"
     },
     {
       "title": "Microsoft reportedly fixing SSD failures caused by Windows updates - BleepingComputer",
@@ -70,10 +80,10 @@
       "description": "Recently released Windows 11 24H2 updates are reportedly causing data corruption and failure issues ...",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-reportedly-fixing-ssd-failures-caused-by-windows-updates/",
       "publishedAt": "2025-08-20T11:26:30Z",
-      "processed_at": "2025-08-22T10:21:27.485773+00:00"
+      "processed_at": "2025-08-22T11:16:59.356812+00:00"
     }
   ],
-  "lastUpdated": "2025-08-22T10:21:27.485833+00:00",
+  "lastUpdated": "2025-08-22T11:16:59.356882+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
