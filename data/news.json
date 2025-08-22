@@ -1,7 +1,47 @@
 {
   "status": "success",
-  "totalResults": 9,
+  "totalResults": 10,
   "articles": [
+    {
+      "title": "Google reveals it isn’t making tablets, smart rings, flip phones, or glasses (yet) - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "Google says it intends to sit out the Razr flip phone race and may not release glasses again, in int...",
+      "url": "https://www.theverge.com/news/763778/google-canceled-tablet-no-smart-ring-or-flip-phone-glasses",
+      "publishedAt": "2025-08-21T19:40:44Z",
+      "processed_at": "2025-08-22T19:16:41.784146+00:00"
+    },
+    {
+      "title": "After successes like Severance and The Studio , Apple TV+ gets a price hike - Ars Technica",
+      "source": {
+        "name": "Ars Technica"
+      },
+      "description": "Apple, like other streamers, is facing a difficult economic reality....",
+      "url": "https://arstechnica.com/culture/2025/08/after-successes-like-severance-and-the-studio-apple-tv-gets-a-price-hike/",
+      "publishedAt": "2025-08-21T18:46:28Z",
+      "processed_at": "2025-08-22T19:16:41.784146+00:00"
+    },
+    {
+      "title": "Microsoft’s Xbox handheld is a good first step toward a Windows gaming OS - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "Microsoft is blending the best bits of Windows and Xbox together. The Xbox Ally devices are the firs...",
+      "url": "https://www.theverge.com/notepad-microsoft-newsletter/763357/microsoft-asus-xbox-ally-handheld-hands-on-notepad",
+      "publishedAt": "2025-08-21T17:00:00Z",
+      "processed_at": "2025-08-22T19:16:41.784146+00:00"
+    },
+    {
+      "title": "Jubilation, chaos, and a lot of screaming: inside a Hollow Knight community Discord as the Silksong release date finally hit - Eurogamer",
+      "source": {
+        "name": "Eurogamer.net"
+      },
+      "description": "Jubilation, chaos, and a lot of screaming: inside the Hollow Knight community Discord as the Silkson...",
+      "url": "https://www.eurogamer.net/jubilation-chaos-and-a-lot-of-screaming-inside-the-hollow-knight-community-discord-as-the-silksong-release-date-finally-hit",
+      "publishedAt": "2025-08-21T15:40:29Z",
+      "processed_at": "2025-08-22T19:16:41.784146+00:00"
+    },
     {
       "title": "Every Pixel device announced at Made by Google yesterday: 10 Pro Fold, Watch, Buds, more - ZDNET",
       "source": {
@@ -10,17 +50,37 @@
       "description": "Google this week unveiled its newest phones, smartwatches, and earbuds. Here's our full roundup with...",
       "url": "https://www.zdnet.com/article/every-pixel-device-announced-at-made-by-google-yesterday-10-pro-fold-watch-buds-more/",
       "publishedAt": "2025-08-21T15:34:00Z",
-      "processed_at": "2025-08-22T18:28:52.342260+00:00"
+      "processed_at": "2025-08-22T19:16:41.784146+00:00"
     },
     {
-      "title": "Silksong finally launches in September - The Verge",
+      "title": "Sony Hikes PlayStation 5 Price To Cover Tariffs And Gamers Are Furious: 'Trump Is 100% To Blame' - HuffPost",
       "source": {
-        "name": "The Verge"
+        "name": "HuffPost"
       },
-      "description": "Hollow Knight: Silksong, Team Cherry’s full sequel to Hollow Knight that has been in development for...",
-      "url": "https://www.theverge.com/news/680636/hollow-knight-silksong-release-date-trailer",
-      "publishedAt": "2025-08-21T14:35:11Z",
-      "processed_at": "2025-08-22T18:28:52.342260+00:00"
+      "description": "The Japanese company announced a base model now costs about $550. It previously cited Trump's tariff...",
+      "url": "https://www.huffpost.com/entry/sony-raises-playstation-5-price-trump-tariffs-social-media_n_68a6ed14e4b0903a790e1abe",
+      "publishedAt": "2025-08-21T14:37:54Z",
+      "processed_at": "2025-08-22T19:16:41.784146+00:00"
+    },
+    {
+      "title": "Pokémon Legends: Z-A Goes Full Resident Evil To Reveal Horrifying Victreebel Mega Evolution - Kotaku",
+      "source": {
+        "name": "Kotaku"
+      },
+      "description": "Victreebel hasn’t gotten a lot of love since the first-generation games, but that’s changing now...",
+      "url": "https://kotaku.com/pokemon-legends-z-a-mega-victreebel-evolution-trailer-2000619134",
+      "publishedAt": "2025-08-21T13:26:49Z",
+      "processed_at": "2025-08-22T19:16:41.784146+00:00"
+    },
+    {
+      "title": "Apple Watch helps user discover brain tumor after unusual heart rate alerts - 9to5Mac",
+      "source": {
+        "name": "9to5Mac"
+      },
+      "description": "The Apple Watch’s health features have once again played a part in flagging a potential health probl...",
+      "url": "https://9to5mac.com/2025/08/21/apple-watch-heart-rate-alerts-brain-tumor-discovery/",
+      "publishedAt": "2025-08-21T12:58:00Z",
+      "processed_at": "2025-08-22T19:16:41.784146+00:00"
     },
     {
       "title": "Google hints Gemini for Android Auto and Google TV may be just a few weeks away - 9to5Google",
@@ -30,7 +90,7 @@
       "description": "Clarifying some relatively vague timelines from earlier this year, Google says that Gemini for Andro...",
       "url": "http://9to5google.com/2025/08/21/gemini-android-auto-google-tv-fall-timeline/",
       "publishedAt": "2025-08-21T12:45:00Z",
-      "processed_at": "2025-08-22T18:28:52.342260+00:00"
+      "processed_at": "2025-08-22T19:16:41.784146+00:00"
     },
     {
       "title": "Google’s next big Android update can force dark mode and icon themes - The Verge",
@@ -40,60 +100,10 @@
       "description": "Google has started rolling out the Android 16 QPR2 beta 1 to beta testers, including expanded suppor...",
       "url": "https://www.theverge.com/news/763334/google-android-16-qpr2-beta-1-availability",
       "publishedAt": "2025-08-21T12:32:27Z",
-      "processed_at": "2025-08-22T18:28:52.342260+00:00"
-    },
-    {
-      "title": "Honor Magic V Flip 2 unveiled with 200 MP camera, 5,500 mAh battery - GSMArena.com news - GSMArena.com",
-      "source": {
-        "name": "GSMArena.com"
-      },
-      "description": "The Magic V Flip 2 is powered by the Snapdragon 8 Gen 3 SoC. The Honor Magic V Flip 2 has been final...",
-      "url": "https://www.gsmarena.com/honor_magic_v_flip_2_is_here_with_200_mp_camera_5500_mah_battery_-news-69138.php",
-      "publishedAt": "2025-08-21T12:00:02Z",
-      "processed_at": "2025-08-22T18:28:52.342260+00:00"
-    },
-    {
-      "title": "Apple Patches CVE-2025-43300 Zero-Day in iOS, iPadOS, and macOS Exploited in Targeted Attacks - The Hacker News",
-      "source": {
-        "name": "Internet"
-      },
-      "description": "Apple patches CVE-2025-43300 zero-day in iOS, iPadOS, and macOS after active exploitation reports....",
-      "url": "https://thehackernews.com/2025/08/apple-patches-cve-2025-43300-zero-day.html",
-      "publishedAt": "2025-08-21T04:47:00Z",
-      "processed_at": "2025-08-22T18:28:52.342260+00:00"
-    },
-    {
-      "title": "Humans intervened every 9 minutes in AAA test of driver assists - Ars Technica",
-      "source": {
-        "name": "Ars Technica"
-      },
-      "description": "AAA tested a number of different systems in Los Angeles highway traffic....",
-      "url": "https://arstechnica.com/cars/2025/08/humans-intervened-every-9-minutes-in-aaa-test-of-driver-assists/",
-      "publishedAt": "2025-08-21T04:04:27Z",
-      "processed_at": "2025-08-22T18:28:52.342260+00:00"
-    },
-    {
-      "title": "Google’s Gemini Live AI assistant will show you what it’s talking about - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "Google is rolling out a big update for Gemini Live, which includes a new visual guidance feature tha...",
-      "url": "https://www.theverge.com/news/763114/google-gemini-live-ai-visual-guidance-speech-update",
-      "publishedAt": "2025-08-20T21:58:03Z",
-      "processed_at": "2025-08-22T18:28:52.342260+00:00"
-    },
-    {
-      "title": "PlayStation 5 price changes in the U.S. - PlayStation.Blog",
-      "source": {
-        "name": "Playstation.com"
-      },
-      "description": "New prices effective starting on August 21....",
-      "url": "https://blog.playstation.com/2025/08/20/playstation-5-price-changes-in-the-u-s/",
-      "publishedAt": "2025-08-20T15:08:59Z",
-      "processed_at": "2025-08-22T18:28:52.342260+00:00"
+      "processed_at": "2025-08-22T19:16:41.784146+00:00"
     }
   ],
-  "lastUpdated": "2025-08-22T18:28:52.342326+00:00",
+  "lastUpdated": "2025-08-22T19:16:41.784231+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
