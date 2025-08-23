@@ -950,7 +950,7 @@ document.addEventListener('DOMContentLoaded', function () {
 		1: {
 		    name: "Math/Statistics Tutoring",
 		    urls:{
-			'student': "tutoring/mathapp.html",
+			'student': "tutoring/mathstudent.html",
 			'math-tutor':"tutoring/mathtutor.html"
 		    },
 		    allowedRoles: ['student', 'math-tutor'],
@@ -1231,14 +1231,14 @@ document.addEventListener('DOMContentLoaded', function () {
 		console.log(`👨‍🎓 Student status: ${studentStatus}`);
 		
 		const statusRoutes = {
-		    'registered': 'mathapp.html',
-		    'application-in-progress': 'tutoring/mathapp.html',
+		    'registered': 'mathstudent.html',
+		    'application-in-progress': 'tutoring/mathstudent.html',
 		    'application-complete': 'tutoring/subscription.html',
 		    'application-approved': 'tutoring/student-room.html',
 		    'subscribed': 'tutoring/student-room.html'
 		};
 
-		const targetUrl = statusRoutes[studentStatus] || 'tutoring/mathapp.html';
+		const targetUrl = statusRoutes[studentStatus] || 'tutoring/mathstudent.html';
 		setCurrentStage(user.role, studentStatus);
 		this.performNavigation(targetUrl);
 	    },
@@ -1903,13 +1903,13 @@ document.addEventListener('DOMContentLoaded', function () {
 			// Default student navigation
 			const studentStatus = localStorage.getItem('studentStatus') || 'registered';
 			const statusRoutes = {
-                            'registered': 'mathapp.html',
-                            'application-in-progress': 'mathapp.html',
+                            'registered': 'mathstudent.html',
+                            'application-in-progress': 'mathstudent.html',
                             'application-complete': 'subscription.html',
                             'application-approved': 'student-room.html',
                             'subscribed': 'student-room.html'
 			};
-			const targetUrl = statusRoutes[studentStatus] || 'mathapp.html';
+			const targetUrl = statusRoutes[studentStatus] || 'mathstudent.html';
 			console.log(`📚 Student target URL: ${targetUrl}`);
 			window.location.href = targetUrl;
                     }
