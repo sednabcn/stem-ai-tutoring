@@ -1,0 +1,184 @@
+{
+  "tutor_handbook": {
+    "pdf": {
+      "path": "/documents/tutor/resources/tutor_handbook.pdf",
+      "type": "application/pdf",
+      "name": "Tutor Handbook",
+      "category": "training",
+      "required": true,
+      "description": "Practical handbook template for onboarding, planning, and delivery."
+    },
+    "docx": {
+      "path": "/documents/tutor/resources/tutor_handbook.docx",
+      "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "name": "Tutor Handbook",
+      "category": "training",
+      "required": true,
+      "description": "Practical handbook template for onboarding, planning, and delivery."
+    },
+    "html": {
+      "path": "/documents/tutor/resources/tutor_handbook.html",
+      "type": "text/html",
+      "name": "Tutor Handbook",
+      "category": "training",
+      "required": true,
+      "description": "Practical handbook template for onboarding, planning, and delivery."
+    }
+  },
+  "curriculum_guide": {
+    "pdf": {
+      "path": "/documents/tutor/resources/curriculum_guide.pdf",
+      "type": "application/pdf",
+      "name": "Curriculum Guide",
+      "category": "training",
+      "required": true,
+      "description": "Adaptable curriculum framework with outcomes, sequencing, and assessment templates."
+    },
+    "docx": {
+      "path": "/documents/tutor/resources/curriculum_guide.docx",
+      "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "name": "Curriculum Guide",
+      "category": "training",
+      "required": true,
+      "description": "Adaptable curriculum framework with outcomes, sequencing, and assessment templates."
+    },
+    "html": {
+      "path": "/documents/tutor/resources/curriculum_guide.html",
+      "type": "text/html",
+      "name": "Curriculum Guide",
+      "category": "training",
+      "required": true,
+      "description": "Adaptable curriculum framework with outcomes, sequencing, and assessment templates."
+    }
+  },
+  "requirements_online_tutors": {
+    "pdf": {
+      "path": "/documents/tutor/resources/requirements_online_tutors.pdf",
+      "type": "application/pdf",
+      "name": "Requirements for Online Tutors",
+      "category": "requirements",
+      "required": true,
+      "description": "Technical, environment, and delivery requirements for remote sessions."
+    },
+    "docx": {
+      "path": "/documents/tutor/resources/requirements_online_tutors.docx",
+      "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "name": "Requirements for Online Tutors",
+      "category": "requirements",
+      "required": true,
+      "description": "Technical, environment, and delivery requirements for remote sessions."
+    },
+    "html": {
+      "path": "/documents/tutor/resources/requirements_online_tutors.html",
+      "type": "text/html",
+      "name": "Requirements for Online Tutors",
+      "category": "requirements",
+      "required": true,
+      "description": "Technical, environment, and delivery requirements for remote sessions."
+    }
+  },
+  "requirements_face_to_face_tutors": {
+    "pdf": {
+      "path": "/documents/tutor/resources/requirements_face_to_face_tutors.pdf",
+      "type": "application/pdf",
+      "name": "Requirements for Face\u2011to\u2011Face Tutors",
+      "category": "requirements",
+      "required": true,
+      "description": "Health, safety, and professional standards for in\u2011person delivery."
+    },
+    "docx": {
+      "path": "/documents/tutor/resources/requirements_face_to_face_tutors.docx",
+      "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "name": "Requirements for Face\u2011to\u2011Face Tutors",
+      "category": "requirements",
+      "required": true,
+      "description": "Health, safety, and professional standards for in\u2011person delivery."
+    },
+    "html": {
+      "path": "/documents/tutor/resources/requirements_face_to_face_tutors.html",
+      "type": "text/html",
+      "name": "Requirements for Face\u2011to\u2011Face Tutors",
+      "category": "requirements",
+      "required": true,
+      "description": "Health, safety, and professional standards for in\u2011person delivery."
+    }
+  },
+  "requirements_ai_tutors": {
+    "pdf": {
+      "path": "/documents/tutor/resources/requirements_ai_tutors.pdf",
+      "type": "application/pdf",
+      "name": "Requirements for AI Tutors",
+      "category": "requirements",
+      "required": true,
+      "description": "Ethical, technical, and oversight requirements for AI\u2011assisted teaching."
+    },
+    "docx": {
+      "path": "/documents/tutor/resources/requirements_ai_tutors.docx",
+      "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "name": "Requirements for AI Tutors",
+      "category": "requirements",
+      "required": true,
+      "description": "Ethical, technical, and oversight requirements for AI\u2011assisted teaching."
+    },
+    "html": {
+      "path": "/documents/tutor/resources/requirements_ai_tutors.html",
+      "type": "text/html",
+      "name": "Requirements for AI Tutors",
+      "category": "requirements",
+      "required": true,
+      "description": "Ethical, technical, and oversight requirements for AI\u2011assisted teaching."
+    }
+  },
+  "requirements_home_based_tutors": {
+    "pdf": {
+      "path": "/documents/tutor/resources/requirements_home_based_tutors.pdf",
+      "type": "application/pdf",
+      "name": "Requirements for Home\u2011Based Tutors",
+      "category": "requirements",
+      "required": true,
+      "description": "Standards for tutoring from home, including space, privacy, and professionalism."
+    },
+    "docx": {
+      "path": "/documents/tutor/resources/requirements_home_based_tutors.docx",
+      "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "name": "Requirements for Home\u2011Based Tutors",
+      "category": "requirements",
+      "required": true,
+      "description": "Standards for tutoring from home, including space, privacy, and professionalism."
+    },
+    "html": {
+      "path": "/documents/tutor/resources/requirements_home_based_tutors.html",
+      "type": "text/html",
+      "name": "Requirements for Home\u2011Based Tutors",
+      "category": "requirements",
+      "required": true,
+      "description": "Standards for tutoring from home, including space, privacy, and professionalism."
+    }
+  },
+  "requirements_tutors_companies": {
+    "pdf": {
+      "path": "/documents/tutor/resources/requirements_tutors_companies.pdf",
+      "type": "application/pdf",
+      "name": "Requirements for Tutors to Companies",
+      "category": "requirements",
+      "required": true,
+      "description": "Expectations for corporate training: alignment, reporting, and impact."
+    },
+    "docx": {
+      "path": "/documents/tutor/resources/requirements_tutors_companies.docx",
+      "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "name": "Requirements for Tutors to Companies",
+      "category": "requirements",
+      "required": true,
+      "description": "Expectations for corporate training: alignment, reporting, and impact."
+    },
+    "html": {
+      "path": "/documents/tutor/resources/requirements_tutors_companies.html",
+      "type": "text/html",
+      "name": "Requirements for Tutors to Companies",
+      "category": "requirements",
+      "required": true,
+      "description": "Expectations for corporate training: alignment, reporting, and impact."
+    }
+  }
+}

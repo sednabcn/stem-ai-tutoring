@@ -1,0 +1,965 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Learner Registration Form</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 20px;
+            line-height: 1.6;
+            color: #333;
+            background-color: #f8f9fa;
+        }
+        
+        .form-container {
+            background: white;
+            border-radius: 12px;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+            padding: 40px;
+        }
+        
+        h1 {
+            color: #0066cc;
+            font-size: 28px;
+            font-weight: bold;
+            text-align: center;
+            margin-bottom: 30px;
+            border-bottom: 3px solid #0066cc;
+            padding-bottom: 15px;
+        }
+        
+        h2 {
+            color: #0066cc;
+            font-size: 20px;
+            font-weight: bold;
+            margin-top: 35px;
+            margin-bottom: 20px;
+            border-left: 4px solid #0066cc;
+            padding-left: 15px;
+        }
+        
+        h3 {
+            color: #0066cc;
+            font-size: 16px;
+            font-weight: bold;
+            margin-top: 25px;
+            margin-bottom: 15px;
+        }
+        
+        .emphasis {
+            font-weight: bold;
+            color: #d63384;
+        }
+        
+        .document-header {
+            text-align: center;
+            margin-bottom: 30px;
+            font-size: 14px;
+            color: #666;
+            background: #e9ecef;
+            padding: 15px;
+            border-radius: 8px;
+        }
+        
+        .form-group {
+            margin-bottom: 20px;
+        }
+        
+        .form-row {
+            display: flex;
+            gap: 15px;
+            flex-wrap: wrap;
+            align-items: center;
+            margin-bottom: 15px;
+        }
+        
+        .form-row label {
+            font-weight: 500;
+            color: #495057;
+            min-width: 120px;
+        }
+        
+        input[type="text"], 
+        input[type="email"], 
+        input[type="tel"], 
+        input[type="date"], 
+        textarea,
+        select {
+            border: 2px solid #dee2e6;
+            border-radius: 6px;
+            padding: 10px 12px;
+            font-size: 14px;
+            transition: border-color 0.3s ease;
+            flex: 1;
+            min-width: 200px;
+        }
+        
+        input[type="text"]:focus, 
+        input[type="email"]:focus, 
+        input[type="tel"]:focus, 
+        input[type="date"]:focus, 
+        textarea:focus,
+        select:focus {
+            outline: none;
+            border-color: #0066cc;
+            box-shadow: 0 0 0 3px rgba(0, 102, 204, 0.1);
+        }
+        
+        .form-field-long {
+            width: 100%;
+        }
+        
+        .form-field-short {
+            width: 150px;
+        }
+        
+        .checkbox-group {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 15px;
+            margin: 10px 0;
+        }
+        
+        .checkbox-item {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            padding: 8px 12px;
+            background: #f8f9fa;
+            border-radius: 6px;
+            border: 1px solid #dee2e6;
+            transition: all 0.3s ease;
+        }
+        
+        .checkbox-item:hover {
+            background: #e9ecef;
+        }
+        
+        .checkbox-item input[type="checkbox"] {
+            margin: 0;
+            transform: scale(1.2);
+        }
+        
+        .checkbox-item label {
+            margin: 0;
+            cursor: pointer;
+            font-size: 14px;
+        }
+        
+        .radio-group {
+            display: flex;
+            gap: 20px;
+            flex-wrap: wrap;
+            margin: 10px 0;
+        }
+        
+        .radio-item {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+        
+        textarea {
+            min-height: 80px;
+            resize: vertical;
+        }
+        
+        .signature-section {
+            margin-top: 40px;
+            padding-top: 30px;
+            border-top: 3px solid #0066cc;
+            background: #f8f9fa;
+            padding: 30px;
+            border-radius: 8px;
+        }
+        
+        .office-use {
+            margin-top: 40px;
+            padding: 30px;
+            background: #e9ecef;
+            border-radius: 8px;
+            border: 2px solid #adb5bd;
+        }
+        
+        .submit-section {
+            text-align: center;
+            margin-top: 40px;
+        }
+        
+        .submit-btn {
+            background: linear-gradient(135deg, #0066cc, #004499);
+            color: white;
+            padding: 15px 40px;
+            border: none;
+            border-radius: 8px;
+            font-size: 16px;
+            font-weight: 600;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+        }
+        
+        .submit-btn:hover {
+            background: linear-gradient(135deg, #004499, #003366);
+            transform: translateY(-2px);
+            box-shadow: 0 6px 12px rgba(0,0,0,0.15);
+        }
+        
+        .required {
+            color: #dc3545;
+        }
+        
+        .section-description {
+            font-style: italic;
+            color: #6c757d;
+            margin-bottom: 15px;
+            font-size: 14px;
+        }
+        
+        @media (max-width: 768px) {
+            body {
+                padding: 10px;
+            }
+            
+            .form-container {
+                padding: 20px;
+            }
+            
+            .form-row {
+                flex-direction: column;
+                align-items: stretch;
+            }
+            
+            .checkbox-group {
+                flex-direction: column;
+            }
+            
+            .radio-group {
+                flex-direction: column;
+                gap: 10px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="form-container">
+        <h1>Learner Registration Form</h1>
+        
+        <div class="document-header">
+            <p><strong>Date:</strong> <span id="current-date"></span><br>
+            <strong>Jurisdiction:</strong> United Kingdom (UK GDPR + Data Protection Act 2018)</p>
+        </div>
+
+        <form id="registrationForm">
+            <p><span class="emphasis">Please complete all required fields marked with *</span></p>
+
+            <h2>Personal Information</h2>
+            <div class="form-group">
+                <div class="form-row">
+                    <label for="fullName">Full Name: <span class="required">*</span></label>
+                    <input type="text" id="fullName" name="fullName" class="form-field-long" required>
+                </div>
+                <div class="form-row">
+                    <label for="preferredName">Preferred Name:</label>
+                    <input type="text" id="preferredName" name="preferredName">
+                </div>
+                <div class="form-row">
+                    <label for="dateOfBirth">Date of Birth: <span class="required">*</span></label>
+                    <input type="date" id="dateOfBirth" name="dateOfBirth" required>
+                </div>
+                <div class="form-row">
+                    <label for="email">Email Address: <span class="required">*</span></label>
+                    <input type="email" id="email" name="email" class="form-field-long" required>
+                </div>
+                <div class="form-row">
+                    <label for="phone">Phone Number: <span class="required">*</span></label>
+                    <input type="tel" id="phone" name="phone">
+                </div>
+                <div class="form-row">
+                    <label for="address">Address: <span class="required">*</span></label>
+                    <textarea id="address" name="address" class="form-field-long" required></textarea>
+                </div>
+                <div class="form-row">
+                    <label for="emergencyContact">Emergency Contact: <span class="required">*</span></label>
+                    <input type="text" id="emergencyContact" name="emergencyContact" required>
+                </div>
+                <div class="form-row">
+                    <label for="emergencyPhone">Emergency Phone: <span class="required">*</span></label>
+                    <input type="tel" id="emergencyPhone" name="emergencyPhone" required>
+                </div>
+            </div>
+
+            <h2>Educational/Professional Level</h2>
+            <div class="section-description">(Select primary focus)</div>
+            <div class="checkbox-group">
+                <div class="checkbox-item">
+                    <input type="radio" id="gcse" name="educationLevel" value="gcse">
+                    <label for="gcse">GCSE</label>
+                    <input type="text" placeholder="Specify year" name="gcseYear" style="margin-left: 10px; width: 100px;">
+                </div>
+                <div class="checkbox-item">
+                    <input type="radio" id="alevel" name="educationLevel" value="alevel">
+                    <label for="alevel">A-Level/BTEC</label>
+                    <input type="text" placeholder="Specify subjects" name="alevelSubjects" style="margin-left: 10px; width: 150px;">
+                </div>
+                <div class="checkbox-item">
+                    <input type="radio" id="undergraduate" name="educationLevel" value="undergraduate">
+                    <label for="undergraduate">University Undergraduate</label>
+                    <input type="text" placeholder="Year/course" name="undergraduateDetails" style="margin-left: 10px; width: 150px;">
+                </div>
+                <div class="checkbox-item">
+                    <input type="radio" id="postgraduate" name="educationLevel" value="postgraduate">
+                    <label for="postgraduate">University Postgraduate</label>
+                    <input type="text" placeholder="Degree type" name="postgraduateDetails" style="margin-left: 10px; width: 150px;">
+                </div>
+                <div class="checkbox-item">
+                    <input type="radio" id="professional" name="educationLevel" value="professional">
+                    <label for="professional">Professional Development</label>
+                    <input type="text" placeholder="Industry" name="professionalIndustry" style="margin-left: 10px; width: 150px;">
+                </div>
+                <div class="checkbox-item">
+                    <input type="radio" id="corporate" name="educationLevel" value="corporate">
+                    <label for="corporate">Corporate Training</label>
+                    <input type="text" placeholder="Company" name="corporateCompany" style="margin-left: 10px; width: 150px;">
+                </div>
+            </div>
+
+            <h2>Subject Areas/Learning Objectives</h2>
+            <div class="form-group">
+                <div class="form-row">
+                    <label for="primarySubjects">Primary Subjects: <span class="required">*</span></label>
+                    <input type="text" id="primarySubjects" name="primarySubjects" class="form-field-long" required>
+                </div>
+                <div class="form-row">
+                    <label for="secondaryInterests">Secondary Interests:</label>
+                    <input type="text" id="secondaryInterests" name="secondaryInterests" class="form-field-long">
+                </div>
+                <div class="form-row">
+                    <label for="specificGoals">Specific Goals:</label>
+                    <textarea id="specificGoals" name="specificGoals" class="form-field-long"></textarea>
+                </div>
+                <div class="form-row">
+                    <label for="learningPreferences">Learning Preferences:</label>
+                    <textarea id="learningPreferences" name="learningPreferences" class="form-field-long"></textarea>
+                </div>
+            </div>
+
+            <h2>Service Preferences</h2>
+            <div class="section-description">(Select all applicable)</div>
+            <div class="checkbox-group">
+                <div class="checkbox-item">
+                    <input type="checkbox" id="online" name="servicePreferences" value="online">
+                    <label for="online">Online sessions</label>
+                </div>
+                <div class="checkbox-item">
+                    <input type="checkbox" id="faceToFaceHome" name="servicePreferences" value="faceToFaceHome">
+                    <label for="faceToFaceHome">Face-to-face (home-based)</label>
+                </div>
+                <div class="checkbox-item">
+                    <input type="checkbox" id="faceToFaceExternal" name="servicePreferences" value="faceToFaceExternal">
+                    <label for="faceToFaceExternal">Face-to-face (external location)</label>
+                </div>
+                <div class="checkbox-item">
+                    <input type="checkbox" id="companyBased" name="servicePreferences" value="companyBased">
+                    <label for="companyBased">Company-based (corporate learners only)</label>
+                </div>
+                <div class="checkbox-item">
+                    <input type="checkbox" id="hybrid" name="servicePreferences" value="hybrid">
+                    <label for="hybrid">Hybrid approach (combination of above)</label>
+                </div>
+            </div>
+
+            <h2>Accessibility and Special Requirements</h2>
+            <div class="form-group">
+                <div class="form-row">
+                    <label for="learningDifficulties">Learning difficulties/disabilities:</label>
+                    <input type="text" id="learningDifficulties" name="learningDifficulties">
+                </div>
+                <div class="form-row">
+                    <label for="accessibilityRequirements">Accessibility requirements:</label>
+                    <textarea id="accessibilityRequirements" name="accessibilityRequirements"></textarea>
+                </div>
+                <div class="form-row">
+                    <label for="dietaryRestrictions">Dietary restrictions (for face-to-face):</label>
+                    <input type="text" id="dietaryRestrictions" name="dietaryRestrictions">
+                </div>
+                <div class="form-row">
+                    <label for="otherRequirements">Other special requirements:</label>
+                    <textarea id="otherRequirements" name="otherRequirements"></textarea>
+                </div>
+            </div>
+
+            <h2>For Minors Under 18</h2>
+            <div class="form-group">
+                <div class="form-row">
+                    <label for="parentName">Parent/Guardian Name:</label>
+                    <input type="text" id="parentName" name="parentName">
+                </div>
+                <div class="form-row">
+                    <label for="parentEmail">Parent/Guardian Email:</label>
+                    <input type="email" id="parentEmail" name="parentEmail">
+                </div>
+                <div class="form-row">
+                    <label for="parentPhone">Parent/Guardian Phone:</label>
+                    <input type="tel" id="parentPhone" name="parentPhone">
+                </div>
+                <div class="form-row">
+                    <label for="relationship">Relationship to Learner:</label>
+                    <input type="text" id="relationship" name="relationship">
+                </div>
+                <div class="form-row">
+                    <label for="parentAddress">Home Address (if different):</label>
+                    <textarea id="parentAddress" name="parentAddress" class="form-field-long"></textarea>
+                </div>
+            </div>
+
+            <h2>For Corporate/Professional Learners</h2>
+            <div class="form-group">
+                <div class="form-row">
+                    <label for="companyName">Company Name:</label>
+                    <input type="text" id="companyName" name="companyName" class="form-field-long">
+                </div>
+                <div class="form-row">
+                    <label for="department">Department:</label>
+                    <input type="text" id="department" name="department">
+                </div>
+                <div class="form-row">
+                    <label for="managerContact">Manager/HR Contact:</label>
+                    <input type="text" id="managerContact" name="managerContact">
+                </div>
+                <div class="form-row">
+                    <label for="corporateEmail">Corporate Email:</label>
+                    <input type="email" id="corporateEmail" name="corporateEmail">
+                </div>
+                <div class="form-row">
+                    <label for="professionalLevel">Professional Level:</label>
+                    <select id="professionalLevel" name="professionalLevel">
+                        <option value="">Select level</option>
+                        <option value="entry">Entry Level</option>
+                        <option value="junior">Junior</option>
+                        <option value="mid">Mid-level</option>
+                        <option value="senior">Senior</option>
+                        <option value="executive">Executive</option>
+                    </select>
+                </div>
+                <div class="form-row">
+                    <label for="certifications">Industry Certifications:</label>
+                    <textarea id="certifications" name="certifications"></textarea>
+                </div>
+            </div>
+
+            <h2>Service-Specific Information</h2>
+
+            <h3>For Home-based Services:</h3>
+            <div class="checkbox-group">
+                <div class="checkbox-item">
+                    <input type="checkbox" id="learningSpace" name="homeBased" value="learningSpace">
+                    <label for="learningSpace">Confirm suitable learning space available</label>
+                </div>
+                <div class="checkbox-item">
+                    <input type="checkbox" id="adultSupervision" name="homeBased" value="adultSupervision">
+                    <label for="adultSupervision">Confirm adult supervision (if under 18)</label>
+                </div>
+                <div class="checkbox-item">
+                    <input type="checkbox" id="emergencyAccess" name="homeBased" value="emergencyAccess">
+                    <label for="emergencyAccess">Emergency access information provided</label>
+                </div>
+            </div>
+            <div class="form-row">
+                <label for="addressVerification">Address verification:</label>
+                <input type="text" id="addressVerification" name="addressVerification">
+            </div>
+
+            <h3>For Company-based Services:</h3>
+            <div class="form-group">
+                <div class="form-row">
+                    <label for="corporateContact">Corporate Contact:</label>
+                    <input type="text" id="corporateContact" name="corporateContact">
+                </div>
+                <div class="form-row">
+                    <label for="workplaceAddress">Workplace Address:</label>
+                    <textarea id="workplaceAddress" name="workplaceAddress" class="form-field-long"></textarea>
+                </div>
+                <div class="form-row">
+                    <label for="securityClearance">Security Clearance Level:</label>
+                    <select id="securityClearance" name="securityClearance">
+                        <option value="">Select level</option>
+                        <option value="none">None Required</option>
+                        <option value="basic">Basic</option>
+                        <option value="enhanced">Enhanced</option>
+                        <option value="dv">Developed Vetting</option>
+                    </select>
+                </div>
+                <div class="form-row">
+                    <label>Learning Management System Integration:</label>
+                    <div class="radio-group">
+                        <div class="radio-item">
+                            <input type="radio" id="lmsYes" name="lmsIntegration" value="yes">
+                            <label for="lmsYes">Yes</label>
+                        </div>
+                        <div class="radio-item">
+                            <input type="radio" id="lmsNo" name="lmsIntegration" value="no">
+                            <label for="lmsNo">No</label>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <h2>Technical Requirements</h2>
+            <div class="form-group">
+                <div class="form-row">
+                    <label>Internet Connection Quality:</label>
+                    <div class="radio-group">
+                        <div class="radio-item">
+                            <input type="radio" id="excellent" name="internetQuality" value="excellent">
+                            <label for="excellent">Excellent</label>
+                        </div>
+                        <div class="radio-item">
+                            <input type="radio" id="good" name="internetQuality" value="good">
+                            <label for="good">Good</label>
+                        </div>
+                        <div class="radio-item">
+                            <input type="radio" id="fair" name="internetQuality" value="fair">
+                            <label for="fair">Fair</label>
+                        </div>
+                    </div>
+                </div>
+                <div class="form-row">
+                    <label>Device Type: (Select all that apply)</label>
+                    <div class="checkbox-group">
+                        <div class="checkbox-item">
+                            <input type="checkbox" id="desktop" name="deviceType" value="desktop">
+                            <label for="desktop">Desktop</label>
+                        </div>
+                        <div class="checkbox-item">
+                            <input type="checkbox" id="laptop" name="deviceType" value="laptop">
+                            <label for="laptop">Laptop</label>
+                        </div>
+                        <div class="checkbox-item">
+                            <input type="checkbox" id="tablet" name="deviceType" value="tablet">
+                            <label for="tablet">Tablet</label>
+                        </div>
+                        <div class="checkbox-item">
+                            <input type="checkbox" id="smartphone" name="deviceType" value="smartphone">
+                            <label for="smartphone">Smartphone</label>
+                        </div>
+                    </div>
+                </div>
+                <div class="form-row">
+                    <label>Camera/Microphone Available:</label>
+                    <div class="radio-group">
+                        <div class="radio-item">
+                            <input type="radio" id="cameraYes" name="cameraAvailable" value="yes">
+                            <label for="cameraYes">Yes</label>
+                        </div>
+                        <div class="radio-item">
+                            <input type="radio" id="cameraNo" name="cameraAvailable" value="no">
+                            <label for="cameraNo">No</label>
+                        </div>
+                    </div>
+                </div>
+                <div class="form-row">
+                    <label>Technical Support Needed:</label>
+                    <div class="radio-group">
+                        <div class="radio-item">
+                            <input type="radio" id="techSupportYes" name="techSupport" value="yes">
+                            <label for="techSupportYes">Yes</label>
+                        </div>
+                        <div class="radio-item">
+                            <input type="radio" id="techSupportNo" name="techSupport" value="no">
+                            <label for="techSupportNo">No</label>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <h2>Marketing and Communications</h2>
+            <div class="form-group">
+                <div class="form-row">
+                    <label for="hearAboutUs">How did you hear about us:</label>
+                    <select id="hearAboutUs" name="hearAboutUs">
+                        <option value="">Select option</option>
+                        <option value="search">Search Engine</option>
+                        <option value="social">Social Media</option>
+                        <option value="referral">Referral</option>
+                        <option value="advertising">Advertising</option>
+                        <option value="word-of-mouth">Word of Mouth</option>
+                        <option value="other">Other</option>
+                    </select>
+                </div>
+                <div class="form-row">
+                    <label>Email updates:</label>
+                    <div class="radio-group">
+                        <div class="radio-item">
+                            <input type="radio" id="emailYes" name="emailUpdates" value="yes">
+                            <label for="emailYes">Yes</label>
+                        </div>
+                        <div class="radio-item">
+                            <input type="radio" id="emailNo" name="emailUpdates" value="no">
+                            <label for="emailNo">No</label>
+                        </div>
+                    </div>
+                </div>
+                <div class="form-row">
+                    <label>SMS notifications:</label>
+                    <div class="radio-group">
+                        <div class="radio-item">
+                            <input type="radio" id="smsYes" name="smsNotifications" value="yes">
+                            <label for="smsYes">Yes</label>
+                        </div>
+                        <div class="radio-item">
+                            <input type="radio" id="smsNo" name="smsNotifications" value="no">
+                            <label for="smsNo">No</label>
+                        </div>
+                    </div>
+                </div>
+                <div class="form-row">
+                    <label>Marketing communications:</label>
+                    <div class="radio-group">
+                        <div class="radio-item">
+                            <input type="radio" id="marketingYes" name="marketingCommunications" value="yes">
+                            <label for="marketingYes">Yes</label>
+                        </div>
+                        <div class="radio-item">
+                            <input type="radio" id="marketingNo" name="marketingCommunications" value="no">
+                            <label for="marketingNo">No</label>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <h2>Consents and Agreements</h2>
+            <div class="section-description emphasis">(All required)</div>
+            <div class="checkbox-group">
+                <div class="checkbox-item">
+                    <input type="checkbox" id="termsConsent" name="requiredConsents" value="terms" required>
+                    <label for="termsConsent">I consent to the Terms of Service <span class="required">*</span></label>
+                </div>
+                <div class="checkbox-item">
+                    <input type="checkbox" id="dataConsent" name="requiredConsents" value="data" required>
+                    <label for="dataConsent">I consent to the Data Protection Agreement <span class="required">*</span></label>
+                </div>
+                <div class="checkbox-item">
+                    <input type="checkbox" id="safeguardingConsent" name="requiredConsents" value="safeguarding" required>
+                    <label for="safeguardingConsent">I consent to the Safeguarding Agreement <span class="required">*</span></label>
+                </div>
+                <div class="checkbox-item">
+                    <input type="checkbox" id="conductConsent" name="requiredConsents" value="conduct" required>
+                    <label for="conductConsent">I consent to the Code of Conduct <span class="required">*</span></label>
+                </div>
+                <div class="checkbox-item">
+                    <input type="checkbox" id="recordingConsent" name="requiredConsents" value="recording" required>
+                    <label for="recordingConsent">I understand session recording policies <span class="required">*</span></label>
+                </div>
+                <div class="checkbox-item">
+                    <input type="checkbox" id="emergencyConsent" name="requiredConsents" value="emergency" required>
+                    <label for="emergencyConsent">I consent to emergency contact procedures <span class="required">*</span></label>
+                </div>
+            </div>
+
+            <h3>Additional Consents</h3>
+            <div class="section-description">(As applicable)</div>
+            <div class="checkbox-group">
+                <div class="checkbox-item">
+                    <input type="checkbox" id="homeVisitConsent" name="additionalConsents" value="homeVisit">
+                    <label for="homeVisitConsent">Home visit safety protocols (home-based services)</label>
+                </div>
+                <div class="checkbox-item">
+                    <input type="checkbox" id="corporateDataConsent" name="additionalConsents" value="corporateData">
+                    <label for="corporateDataConsent">Corporate data sharing (company-based services)</label>
+                </div>
+                <div class="checkbox-item">
+                    <input type="checkbox" id="photographyConsent" name="additionalConsents" value="photography">
+                    <label for="photographyConsent">Photography for educational portfolios (optional)</label>
+                </div>
+                <div class="checkbox-item">
+                    <input type="checkbox" id="progressSharingConsent" name="additionalConsents" value="progressSharing">
+                    <label for="progressSharingConsent">Progress sharing with educational institutions (optional)</label>
+                </div>
+            </div>
+
+            <h2>Payment Information</h2>
+            <div class="form-group">
+                <div class="form-row">
+                    <label>Preferred Payment Method:</label>
+                    <div class="radio-group">
+                        <div class="radio-item">
+                            <input type="radio" id="card" name="paymentMethod" value="card">
+                            <label for="card">Card</label>
+                        </div>
+                        <div class="radio-item">
+                            <input type="radio" id="bankTransfer" name="paymentMethod" value="bankTransfer">
+                            <label for="bankTransfer">Bank Transfer</label>
+                        </div>
+                        <div class="radio-item">
+                            <input type="radio" id="corporateAccount" name="paymentMethod" value="corporateAccount">
+                            <label for="corporateAccount">Corporate Account</label>
+                        </div>
+                    </div>
+                <div class="form-row">
+                    <label>Billing Frequency:</label>
+                    <div class="radio-group">
+                        <div class="radio-item">
+                            <input type="radio" id="monthly" name="billingFrequency" value="monthly">
+                            <label for="monthly">Monthly</label>
+                        </div>
+                        <div class="radio-item">
+                            <input type="radio" id="quarterly" name="billingFrequency" value="quarterly">
+                            <label for="quarterly">Quarterly</label>
+                        </div>
+                        <div class="radio-item">
+                            <input type="radio" id="annual" name="billingFrequency" value="annual">
+                            <label for="annual">Annual</label>
+                        </div>
+                    </div>
+                </div>
+                <div class="form-row">
+                    <label>Purchase Order Required:</label>
+                    <div class="radio-group">
+                        <div class="radio-item">
+                            <input type="radio" id="poYes" name="purchaseOrder" value="yes">
+                            <label for="poYes">Yes</label>
+                        </div>
+                        <div class="radio-item">
+                            <input type="radio" id="poNo" name="purchaseOrder" value="no">
+                            <label for="poNo">No</label>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <h2>Declaration</h2>
+            <div class="checkbox-group">
+                <div class="checkbox-item">
+                    <input type="checkbox" id="accuracyDeclaration" name="declaration" value="accurate" required>
+                    <label for="accuracyDeclaration">I confirm that all information provided is accurate and complete. I understand that false information may result in service termination. <span class="required">*</span></label>
+                </div>
+            </div>
+
+            <h2>Processing Notice</h2>
+            <div style="background: #e3f2fd; padding: 20px; border-radius: 8px; margin: 20px 0; border-left: 4px solid #1976d2;">
+                <p style="margin: 0;">We process your data to deliver educational services, ensure safety through safeguarding measures, and meet legal obligations. Full details are available in our Data Protection Agreement.</p>
+            </div>
+
+            <div class="signature-section">
+                <h2>Digital Signature</h2>
+                <div class="form-row">
+                    <label for="digitalSignature">Full Name (Digital Signature): <span class="required">*</span></label>
+                    <input type="text" id="digitalSignature" name="digitalSignature" class="form-field-long" required placeholder="Type your full name as digital signature">
+                </div>
+                <div class="form-row">
+                    <label for="signatureDate">Date: <span class="required">*</span></label>
+                    <input type="date" id="signatureDate" name="signatureDate" class="form-field-short" required>
+                </div>
+            </div>
+
+            <div class="submit-section">
+                <button type="submit" class="submit-btn">Submit Registration Form</button>
+                <p style="margin-top: 15px; font-size: 14px; color: #6c757d;">
+                    By submitting this form, you confirm that you have read and agree to all terms and conditions.
+                </p>
+            </div>
+        </form>
+
+        <div class="office-use">
+            <h2>For Office Use Only</h2>
+            <div class="form-group">
+                <div class="form-row">
+                    <label for="registrationDate">Registration Date:</label>
+                    <input type="date" id="registrationDate" name="registrationDate">
+                </div>
+                <div class="form-row">
+                    <label for="processedBy">Processed By:</label>
+                    <input type="text" id="processedBy" name="processedBy">
+                </div>
+                <div class="form-row">
+                    <label for="serviceAllocation">Service Allocation:</label>
+                    <input type="text" id="serviceAllocation" name="serviceAllocation">
+                </div>
+                <div class="form-row">
+                    <label>DBS Check Required:</label>
+                    <div class="radio-group">
+                        <div class="radio-item">
+                            <input type="radio" id="dbsYes" name="dbsCheck" value="yes">
+                            <label for="dbsYes">Yes</label>
+                        </div>
+                        <div class="radio-item">
+                            <input type="radio" id="dbsNo" name="dbsCheck" value="no">
+                            <label for="dbsNo">No</label>
+                        </div>
+                        <div class="radio-item">
+                            <input type="radio" id="dbsCompleted" name="dbsCheck" value="completed">
+                            <label for="dbsCompleted">Completed</label>
+                        </div>
+                    </div>
+                </div>
+                <div class="form-row">
+                    <label>Risk Assessment Completed:</label>
+                    <div class="radio-group">
+                        <div class="radio-item">
+                            <input type="radio" id="riskYes" name="riskAssessment" value="yes">
+                            <label for="riskYes">Yes</label>
+                        </div>
+                        <div class="radio-item">
+                            <input type="radio" id="riskNo" name="riskAssessment" value="no">
+                            <label for="riskNo">No</label>
+                        </div>
+                        <div class="radio-item">
+                            <input type="radio" id="riskNA" name="riskAssessment" value="na">
+                            <label for="riskNA">N/A</label>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        // Set current date
+        document.getElementById('current-date').textContent = new Date().toLocaleDateString('en-GB');
+        
+        // Set signature date to today by default
+        document.getElementById('signatureDate').valueAsDate = new Date();
+
+        // Form validation and submission
+        document.getElementById('registrationForm').addEventListener('submit', function(e) {
+            e.preventDefault();
+            
+            // Check if all required fields are filled
+            const requiredFields = document.querySelectorAll('input[required], select[required], textarea[required]');
+            let allValid = true;
+            
+            requiredFields.forEach(field => {
+                if (!field.value.trim()) {
+                    field.style.borderColor = '#dc3545';
+                    allValid = false;
+                } else {
+                    field.style.borderColor = '#28a745';
+                }
+            });
+            
+            // Check required checkboxes
+            const requiredCheckboxes = document.querySelectorAll('input[type="checkbox"][required]');
+            requiredCheckboxes.forEach(checkbox => {
+                if (!checkbox.checked) {
+                    checkbox.closest('.checkbox-item').style.borderColor = '#dc3545';
+                    allValid = false;
+                } else {
+                    checkbox.closest('.checkbox-item').style.borderColor = '#28a745';
+                }
+            });
+            
+            if (allValid) {
+                // Simulate form submission
+                const submitBtn = document.querySelector('.submit-btn');
+                const originalText = submitBtn.textContent;
+                submitBtn.textContent = 'Submitting...';
+                submitBtn.disabled = true;
+                
+                setTimeout(() => {
+                    alert('Registration form submitted successfully! You will receive a confirmation email shortly.');
+                    submitBtn.textContent = originalText;
+                    submitBtn.disabled = false;
+                }, 2000);
+            } else {
+                alert('Please fill in all required fields and check all required consents.');
+                // Scroll to first error
+                const firstError = document.querySelector('input[style*="border-color: rgb(220, 53, 69)"], .checkbox-item[style*="border-color: rgb(220, 53, 69)"]');
+                if (firstError) {
+                    firstError.scrollIntoView({ behavior: 'smooth', block: 'center' });
+                }
+            }
+        });
+
+        // Real-time validation feedback
+        const inputs = document.querySelectorAll('input, select, textarea');
+        inputs.forEach(input => {
+            input.addEventListener('blur', function() {
+                if (this.hasAttribute('required') && !this.value.trim()) {
+                    this.style.borderColor = '#dc3545';
+                } else if (this.value.trim()) {
+                    this.style.borderColor = '#28a745';
+                } else {
+                    this.style.borderColor = '#dee2e6';
+                }
+            });
+        });
+
+        // Handle checkbox validation
+        const requiredCheckboxes = document.querySelectorAll('input[type="checkbox"][required]');
+        requiredCheckboxes.forEach(checkbox => {
+            checkbox.addEventListener('change', function() {
+                if (this.checked) {
+                    this.closest('.checkbox-item').style.borderColor = '#28a745';
+                } else {
+                    this.closest('.checkbox-item').style.borderColor = '#dc3545';
+                }
+            });
+        });
+
+        // Auto-populate digital signature when full name is entered
+        document.getElementById('fullName').addEventListener('input', function() {
+            const digitalSignatureField = document.getElementById('digitalSignature');
+            if (!digitalSignatureField.value) {
+                digitalSignatureField.value = this.value;
+            }
+        });
+
+        // Show/hide sections based on selections
+        const educationRadios = document.querySelectorAll('input[name="educationLevel"]');
+        educationRadios.forEach(radio => {
+            radio.addEventListener('change', function() {
+                // Reset all text inputs in education section
+                const textInputs = this.closest('.checkbox-item').querySelectorAll('input[type="text"]');
+                textInputs.forEach(input => input.style.display = 'inline-block');
+                
+                // Hide text inputs for other options
+                educationRadios.forEach(otherRadio => {
+                    if (otherRadio !== this) {
+                        const otherInputs = otherRadio.closest('.checkbox-item').querySelectorAll('input[type="text"]');
+                        otherInputs.forEach(input => {
+                            input.style.display = 'none';
+                            input.value = '';
+                        });
+                    }
+                });
+            });
+        });
+
+        // Age-based field display
+        document.getElementById('dateOfBirth').addEventListener('change', function() {
+            const birthDate = new Date(this.value);
+            const today = new Date();
+            let age = today.getFullYear() - birthDate.getFullYear();
+            const monthDiff = today.getMonth() - birthDate.getMonth();
+            
+            if (monthDiff < 0 || (monthDiff === 0 && today.getDate() < birthDate.getDate())) {
+                age--;
+            }
+            
+            const minorSection = document.querySelector('h2:contains("For Minors Under 18")');
+            const minorFormGroup = minorSection ? minorSection.nextElementSibling : null;
+            
+            if (minorFormGroup && age < 18) {
+                minorFormGroup.style.display = 'block';
+                // Make parent fields required
+                const parentFields = minorFormGroup.querySelectorAll('input');
+                parentFields.forEach(field => {
+                    if (['parentName', 'parentEmail', 'parentPhone', 'relationship'].includes(field.id)) {
+                        field.setAttribute('required', 'required');
+                    }
+                });
+            } else if (minorFormGroup) {
+                minorFormGroup.style.display = 'none';
+                // Remove required from parent fields
+                const parentFields = minorFormGroup.querySelectorAll('input');
+                parentFields.forEach(field => field.removeAttribute('required'));
+            }
+        });
+    </script>
+</body>
+</html>

@@ -3,7 +3,7 @@
 if (!window.cards) window.cards = {};
    window.cards['card8'] = {
        id: 'card8',
-       title: 'Temporary test card',
+       title: 'Analytics Dashboard',
        render: () => console.log('Rendering card1')
    };
 // Analytics Dashboard Variables

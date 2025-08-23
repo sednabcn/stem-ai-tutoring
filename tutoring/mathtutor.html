@@ -23,15 +23,12 @@
            <div class="header-icons">
                <!-- Notification Bell - Top Right -->
                <div class="icon-wrapper"
-		    onclick="toggleNotificationPanel()"
-                    onkeydown="if(event.key==='Enter'){window.notificationCenter?.togglePanel()}"
-                    role="button" tabindex="0" aria-label="View notifications">
-           
-                 <span class="bell-icon" id="notificationBell" aria-hidden="true">🔔</span>
-        
-                 <span class="notification-count" id="notificationCount">3</span>
-        
-                 <span class="tooltip">Notifications</span>
+			onclick="notificationCenter.togglePanel()";
+			onkeydown="if(event.key==='Enter'){notificationCenter.togglePanel()}";
+                        role="button" tabindex="0" aria-label="View notifications">
+		       <span class="bell-icon" id="notificationBell" aria-hidden="true">🔔</span>
+	               <span class="notification-count" id="notificationCount">3</span>
+                       <span class="tooltip">Notifications</span>
                </div>
 
                <!-- Notification Panel -->
@@ -701,6 +698,12 @@
                     <i class="fas fa-lock btn-icon" id="tutorIcon"></i>
                     <span id="tutorBtnText">Tutor Dashboard</span>
                 </button>
+
+		<!-- NEW: VLE / Learning Centre -->
+		<button class="dashboard-btn btn-learning" onclick="goToVLE(); updateDashboardButtons('vle');" id="vleBtn">
+		  <i class="fas fa-book btn-icon"></i>
+		  VLE / Learning Centre
+		</button>
            </div>
         </div>
      </header>
@@ -1607,12 +1610,11 @@
     </footer>
    
     <!-- SHARED SCRIPTS -->
- 
+    
     <script src="../assets/js/env-config.js"></script>        <!-- 1. Config first -->
     <script src="../assets/js/document-manager.js"></script>   <!-- 2. Core utilities -->
     <script src="../assets/js/session-loader.js"></script>     <!-- 3. Main controller -->
-    <script src="../assets/js/quick-debug.js"></script>     <!-- 3. Debug controller -->
-
-
+    <script src="../assets/js/debug-loader.js"></script>       <!-- 4. Debug controller -->
+ 
 </body>
 </html>

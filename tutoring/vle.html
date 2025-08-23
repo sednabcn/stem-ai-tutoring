@@ -1,0 +1,546 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>VLE - Learning Centre Hub</title>
+    <link rel="stylesheet" href="../assets/css/styles.css">
+    <link rel="stylesheet" href="../assets/css/vle.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <link rel="icon" href="../assets/images/favicon-16x16.png" type="image/x-icon">
+</head>
+<body>
+    <!-- Top Navigation -->
+    <nav class="top-nav">
+        <div class="logo">
+            <img src="../assets/images/logo.png" alt="SiMLeng Logo">
+        </div>
+        <div class="center-text">
+            SiMLeng
+        </div>
+        <div class="menu">
+            <a href="../pages/help.html" class="helpcta" id="helpLink">Help</a>
+            <div class="header-icons">
+                <!-- Notification Bell -->
+                <div class="icon-wrapper"
+                     onclick="notificationCenter.togglePanel()"
+                     onkeydown="if(event.key==='Enter'){notificationCenter.togglePanel()}"
+                     role="button" tabindex="0" aria-label="View notifications">
+                    <span class="bell-icon" id="notificationBell" aria-hidden="true">🔔</span>
+                    <span class="notification-count" id="notificationCount">3</span>
+                    <span class="tooltip">Notifications</span>
+                </div>
+
+                <!-- Notification Panel -->
+                <div class="notification-panel" id="notificationPanel">
+                    <div class="panel-header">
+                        <div class="panel-title">Notifications</div>
+                        <button class="mark-all-read" onclick="window.notificationCenter?.markAllAsRead()">
+                            Mark All Read
+                        </button>
+                    </div>
+
+                    <div class="notification-filters">
+                        <button class="filter-btn active" data-filter="all">All</button>
+                        <button class="filter-btn" data-filter="assignments">Assignments</button>
+                        <button class="filter-btn" data-filter="webinars">Webinars</button>
+                        <button class="filter-btn" data-filter="ai-tutor">AI Tutor</button>
+                        <button class="filter-btn" data-filter="system">System</button>
+                    </div>
+
+                    <div class="notification-list" id="notificationList">
+                        <div class="notification-item unread">
+                            <div style="display: flex; justify-content: between; align-items: center; margin-bottom: 8px;">
+                                <strong>📚 New Assignment Available</strong>
+                                <span style="color: #6b7280; font-size: 12px;">2 hours ago</span>
+                            </div>
+                            <p style="color: #6b7280; font-size: 14px;">Calculus Problem Set #5 is now available for submission.</p>
+                        </div>
+                        <div class="notification-item unread">
+                            <div style="display: flex; justify-content: between; align-items: center; margin-bottom: 8px;">
+                                <strong>🎥 Webinar Reminder</strong>
+                                <span style="color: #6b7280; font-size: 12px;">4 hours ago</span>
+                            </div>
+                            <p style="color: #6b7280; font-size: 14px;">Advanced Statistics webinar starts in 1 hour.</p>
+                        </div>
+                        <div class="notification-item unread">
+                            <div style="display: flex; justify-content: between; align-items: center; margin-bottom: 8px;">
+                                <strong>🤖 AI Tutor Update</strong>
+                                <span style="color: #6b7280; font-size: 12px;">1 day ago</span>
+                            </div>
+                            <p style="color: #6b7280; font-size: 14px;">New features added to the AI tutor system.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Avatar Section -->
+            <div class="avatar-container">
+                <div class="user-avatar" id="userAvatar" onclick="toggleAvatarMenu(event)">
+                    <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='44'%20height='44'%20viewBox='0%200%2044%2044'%3E%3Crect%20width='44'%20height='44'%20rx='22'%20fill='%23667eea'/%3E%3Ctext%20x='50%25'%20y='50%25'%20text-anchor='middle'%20dy='0.35em'%20fill='white'%20font-family='Arial'%20font-size='16'%20font-weight='600'%3EDR%3C/text%3E%3C/svg%3E" alt="Dr. Rachel Martinez" class="avatar-image" id="avatarImage">
+                    <div class="avatar-status-indicator active"></div>
+                </div>
+
+                <!-- Avatar Dropdown Menu -->
+                <div class="avatar-menu" id="avatarMenu">
+                    <div class="user-info">
+                        <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='50'%20height='50'%20viewBox='0%2050%2050'%3E%3Crect%20width='50'%20height='50'%20rx='25'%20fill='%23667eea'/%3E%3Ctext%20x='50%25'%20y='50%25'%20text-anchor='middle'%20dy='0.35em'%20fill='white'%20font-family='Arial'%20font-size='18'%20font-weight='600'%3EDR%3C/text%3E%3C/svg%3E" alt="User Avatar" id="menuAvatarImage">
+                        <div class="user-details">
+                            <h3 id="userName">Dr. Rachel Martinez</h3>
+                            <div class="role" id="userRole">Mathematics Tutor</div>
+                            <div class="status-badge">Verified Tutor</div>
+                        </div>
+                    </div>
+
+                    <div class="menu-items">
+                        <div class="avatar-menu-item" onclick="showModal('profileModal')">
+                            <span class="icon">👤</span>
+                            Profile
+                        </div>
+                        
+                        <div class="avatar-menu-item" onclick="showModal('messagesModal')">
+                            <span class="icon">💬</span>
+                            Messages
+                            <span class="message-badge" id="messageBadge">2</span>
+                        </div>
+                        
+                        <div class="avatar-menu-item" onclick="showModal('documentsModal')">
+                            <span class="icon">📁</span>
+                            Documents
+                        </div>
+                        
+                        <div class="avatar-menu-item danger" onclick="logout()">
+                            <span class="icon">🚪</span>
+                            Logout
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </nav>
+
+    <!-- VLE Header -->
+    <div class="vle-header">
+        <div class="vle-header-content">
+            <h1>Learning Centre Hub</h1>
+            <p>Your Virtual Learning Environment - Collaborate, Learn, and Grow Together</p>
+        </div>
+    </div>
+    <!-- VLE Navigation -->
+    <div class="vle-nav">
+        <div class="vle-nav-container">
+            <button class="vle-tab-btn active" data-tab="webinars" onclick="showVLETab('webinars')">
+                <i class="fas fa-video"></i>
+                Webinars
+            </button>
+            <button class="vle-tab-btn" data-tab="assignments" onclick="showVLETab('assignments')">
+                <i class="fas fa-tasks"></i>
+                Assignments
+            </button>
+            <button class="vle-tab-btn" data-tab="ai-tutor" onclick="showVLETab('ai-tutor')">
+                <i class="fas fa-robot"></i>
+                AI Tutor
+            </button>
+            <button class="vle-tab-btn" data-tab="library" onclick="showVLETab('library')">
+                <i class="fas fa-book"></i>
+                Library
+            </button>
+            <button class="vle-tab-btn" data-tab="media-center" onclick="showVLETab('media-center')">
+                <i class="fas fa-photo-video"></i>
+                Media Center
+            </button>
+        </div>
+    </div>
+
+    <!-- VLE Content -->
+    <div class="vle-content">
+        <!-- Webinars Tab -->
+        <div id="webinars" class="tab-content active">
+            <div class="content-card">
+                <h2><i class="fas fa-video" style="color: #ef4444;"></i>Live Webinars & Classes</h2>
+                <div class="feature-grid">
+                    <div class="feature-card">
+                        <h3><i class="fas fa-calendar-alt"></i>Upcoming Sessions</h3>
+                        <p>Join live interactive sessions with expert tutors. All sessions are recorded for later viewing.</p>
+                        <div style="margin-top: 1rem;">
+                            <div style="padding: 1rem; background: #fff3cd; border-left: 4px solid #ffc107; border-radius: 8px; margin-bottom: 1rem;">
+                                <strong>Advanced Calculus Review</strong><br>
+                                <span style="color: #856404;">Today, 3:00 PM - Dr. Martinez</span><br>
+                                <button class="form-btn" style="margin-top: 8px; padding: 6px 12px; font-size: 14px;">Join Live</button>
+                            </div>
+                            <div style="padding: 1rem; background: #d1ecf1; border-left: 4px solid #17a2b8; border-radius: 8px;">
+                                <strong>Statistics Workshop</strong><br>
+                                <span style="color: #0c5460;">Tomorrow, 2:00 PM - Prof. Chen</span><br>
+                                <button class="form-btn secondary" style="margin-top: 8px; padding: 6px 12px; font-size: 14px;">Register</button>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="feature-card">
+                        <h3><i class="fas fa-play-circle"></i>Recorded Sessions</h3>
+                        <p>Access past webinars and review material at your own pace.</p>
+                        <div style="margin-top: 1rem;">
+                            <div style="padding: 0.75rem; border: 1px solid #e9ecef; border-radius: 6px; margin-bottom: 0.5rem; background: white;">
+                                <strong>Linear Algebra Basics</strong><br>
+                                <span style="color: #6b7280; font-size: 14px;">45 min • Viewed 234 times</span>
+                            </div>
+                            <div style="padding: 0.75rem; border: 1px solid #e9ecef; border-radius: 6px; background: white;">
+                                <strong>Probability Theory</strong><br>
+                                <span style="color: #6b7280; font-size: 14px;">38 min • Viewed 189 times</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Assignments Tab -->
+        <div id="assignments" class="tab-content">
+            <div class="content-card">
+                <h2><i class="fas fa-tasks" style="color: #f59e0b;"></i>Assignments & Exams</h2>
+                <div class="feature-grid">
+                    <div class="feature-card">
+                        <h3><i class="fas fa-clipboard-list"></i>Current Assignments</h3>
+                        <p>Submit your work and track your progress on ongoing assignments.</p>
+                        <div style="margin-top: 1rem;">
+                            <div style="padding: 1rem; background: #fff3cd; border-left: 4px solid #ffc107; border-radius: 8px; margin-bottom: 1rem;">
+                                <strong>Calculus Problem Set #5</strong><br>
+                                <span style="color: #856404;">Due: March 15, 2024</span><br>
+                                <button class="form-btn" style="margin-top: 8px; padding: 6px 12px; font-size: 14px;">Submit Work</button>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="feature-card">
+                        <h3><i class="fas fa-chart-line"></i>Grade History</h3>
+                        <p>View your performance and feedback from completed assignments.</p>
+                        <div class="progress-card" style="background: linear-gradient(135deg, #28a745, #20c997);">
+                            <h4>Overall Progress</h4>
+                            <div class="progress-bar">
+                                <div class="progress-fill" style="width: 85%"></div>
+                            </div>
+                            <p>Average Score: 85% (Excellent)</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- AI Tutor Tab -->
+        <div id="ai-tutor" class="tab-content">
+            <div class="content-card">
+                <h2><i class="fas fa-robot" style="color: #8b5cf6;"></i>AI Tutor Assistant</h2>
+                <div class="feature-grid">
+                    <div class="feature-card">
+                        <h3><i class="fas fa-comments"></i>Ask Questions</h3>
+                        <p>Get instant help with math problems, explanations, and step-by-step solutions.</p>
+                        <div style="background: white; padding: 1rem; border-radius: 8px; margin-top: 1rem; border: 1px solid #e9ecef;">
+                            <textarea placeholder="Ask your math question here..." style="height: 80px; resize: vertical;"></textarea>
+                            <button class="form-btn" style="margin-top: 8px;">Ask AI Tutor</button>
+                        </div>
+                    </div>
+                    <div class="feature-card">
+                        <h3><i class="fas fa-lightbulb"></i>Smart Hints</h3>
+                        <p>Get contextual hints and guidance without giving away the complete solution.</p>
+                        <div style="background: #e3f2fd; padding: 1rem; border-radius: 8px; margin-top: 1rem; border-left: 4px solid #2196f3;">
+                            <p style="margin: 0; color: #1976d2;"><strong>💡 Latest Hint:</strong> "When solving quadratic equations, remember to check if factoring is possible before using the quadratic formula."</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Library Tab -->
+        <div id="library" class="tab-content">
+            <div class="content-card">
+                <h2><i class="fas fa-book" style="color: #10b981;"></i>Digital Library</h2>
+                <div class="feature-grid">
+                    <div class="feature-card">
+                        <h3><i class="fas fa-book-open"></i>Textbooks & References</h3>
+                        <p>Access comprehensive mathematical resources and reference materials.</p>
+                        <div style="margin-top: 1rem;">
+                            <div style="display: flex; align-items: center; padding: 0.75rem; background: white; border: 1px solid #e9ecef; border-radius: 6px; margin-bottom: 0.5rem;">
+                                <i class="fas fa-file-pdf" style="color: #dc3545; margin-right: 12px; font-size: 1.2rem;"></i>
+                                <span>Advanced Calculus - Stewart (8th Edition)</span>
+                            </div>
+                            <div style="display: flex; align-items: center; padding: 0.75rem; background: white; border: 1px solid #e9ecef; border-radius: 6px;">
+                                <i class="fas fa-file-pdf" style="color: #dc3545; margin-right: 12px; font-size: 1.2rem;"></i>
+                                <span>Statistics for Business - Anderson</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="feature-card">
+                        <h3><i class="fas fa-search"></i>Search Resources</h3>
+                        <p>Find specific topics, formulas, or examples quickly.</p>
+                        <div style="margin-top: 1rem;">
+                            <input type="text" placeholder="Search library...">
+                            <button class="form-btn" style="margin-top: 8px; width: 100%;">Search</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Media Center Tab -->
+        <div id="media-center" class="tab-content">
+            <div class="content-card">
+                <h2><i class="fas fa-photo-video" style="color: #06b6d4;"></i>Media Center & Forum</h2>
+                <div class="feature-grid">
+                    <div class="feature-card">
+                        <h3><i class="fas fa-upload"></i>Share Your Work</h3>
+                        <p>Upload videos, presentations, or documents to share with the community.</p>
+                        <div style="background: white; padding: 2rem; border-radius: 8px; margin-top: 1rem; text-align: center; border: 2px dashed #667eea;">
+                            <i class="fas fa-cloud-upload-alt" style="font-size: 2.5rem; color: #667eea; margin-bottom: 12px;"></i>
+                            <p style="margin-bottom: 12px;">Drag and drop files here or click to browse</p>
+                            <button class="form-btn">Choose Files</button>
+                        </div>
+                    </div>
+                    <div class="feature-card">
+                        <h3><i class="fas fa-comments"></i>Discussion Forum</h3>
+                        <p>Engage in real-time discussions and get immediate feedback from tutors.</p>
+                        <div style="margin-top: 1rem;">
+                            <div style="padding: 1rem; background: white; border-radius: 8px; border: 1px solid #e9ecef;">
+                                <div style="display: flex; align-items: center; margin-bottom: 8px;">
+                                    <strong style="color: #495057;">Sarah M.</strong>
+                                    <span style="color: #6b7280; font-size: 12px; margin-left: 8px;">2 hours ago</span>
+                                </div>
+                                <p style="margin: 0 0 12px 0; font-size: 14px; color: #495057;">Can someone help me understand the chain rule in calculus?</p>
+                                <button class="form-btn" style="padding: 6px 12px; font-size: 12px;">Reply</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+<!-- Modals for Avatar-->
+    <!-- Profile Modal -->
+    <div class="modal" id="profileModal">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h2>Profile Information</h2>
+                <button class="close-btn" onclick="closeModal('profileModal')">&times;</button>
+            </div>
+            <div class="modal-body">
+                <div style="text-align: center; margin-bottom: 2rem;">
+                    <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='80'%20height='80'%20viewBox='0%200%2080%2080'%3E%3Crect%20width='80'%20height='80'%20rx='40'%20fill='%23667eea'/%3E%3Ctext%20x='50%25'%20y='50%25'%20text-anchor='middle'%20dy='0.35em'%20fill='white'%20font-family='Arial'%20font-size='28'%20font-weight='600'%3EDR%3C/text%3E%3C/svg%3E" style="border-radius: 50%;">
+                    <h3>Dr. Rachel Martinez</h3>
+                    <p style="color: #6b7280;">Mathematics Tutor</p>
+                </div>
+                <div class="form-group">
+                    <label>Email</label>
+                    <input type="email" class="form-input" value="r.martinez@email.com" readonly>
+                </div>
+                <div class="form-group">
+                    <label>Specialization</label>
+                    <input type="text" class="form-input" value="Advanced Mathematics, Calculus, Statistics" readonly>
+                </div>
+                <div class="form-group">
+                    <label>Member Since</label>
+                    <input type="text" class="form-input" value="January 2024" readonly>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Messages Modal -->
+    <div class="modal" id="messagesModal">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h2>Messages</h2>
+                <button class="close-btn" onclick="closeModal('messagesModal')">&times;</button>
+            </div>
+            <div class="modal-body">
+                <div class="notification-item">
+                    <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 8px;">
+                        <strong>📢 Admin Notice</strong>
+                        <span style="color: #6b7280; font-size: 12px;">1 hour ago</span>
+                    </div>
+                    <p style="color: #6b7280; font-size: 14px;">New features have been added to the VLE platform.</p>
+                </div>
+                <div class="notification-item">
+                    <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 8px;">
+                        <strong>👥 Student Message</strong>
+                        <span style="color: #6b7280; font-size: 12px;">3 hours ago</span>
+                    </div>
+                    <p style="color: #6b7280; font-size: 14px;">Sarah asked a question in the forum about derivatives.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Documents Modal -->
+    <div class="modal" id="documentsModal">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h2>Documents</h2>
+                <button class="close-btn" onclick="closeModal('documentsModal')">&times;</button>
+            </div>
+            <div class="modal-body">
+                <div style="border: 2px dashed #ddd; padding: 2rem; text-align: center; border-radius: 8px; margin-bottom: 1rem;">
+                    <p>📁 Click to upload documents</p>
+                    <p style="font-size: 12px; color: #6b7280;">PDF, DOC, DOCX, PPT, PPTX (max 10MB)</p>
+                </div>
+                <h3>Recent Documents</h3>
+                <div style="padding: 1rem; background: #f8f9fa; border-radius: 8px;">
+                    <p>📄 Calculus_Notes.pdf</p>
+                    <p>📊 Statistics_Worksheet.docx</p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+<!-- Settings Modal -->
+<div class="modal" id="settingsModal">
+    <div class="modal-content">
+        <div class="modal-header">
+            <h2>Settings</h2>
+            <button class="close-btn" onclick="closeModal('settingsModal')">&times;</button>
+        </div>
+        <div class="modal-body">
+            <div class="settings-section">
+                <h3>🔔 Notifications</h3>
+                <div class="setting-item">
+                    <label class="setting-label">
+                        <input type="checkbox" checked> Email notifications
+                    </label>
+                </div>
+                <div class="setting-item">
+                    <label class="setting-label">
+                        <input type="checkbox" checked> Assignment reminders
+                    </label>
+                </div>
+                <div class="setting-item">
+                    <label class="setting-label">
+                        <input type="checkbox"> Webinar alerts
+                    </label>
+                </div>
+            </div>
+            
+            <div class="settings-section">
+                <h3>🎨 Appearance</h3>
+                <div class="setting-item">
+                    <label>Theme:</label>
+                    <select class="setting-select">
+                        <option value="light">Light</option>
+                        <option value="dark">Dark</option>
+                        <option value="auto">Auto</option>
+                    </select>
+                </div>
+                <div class="setting-item">
+                    <label>Language:</label>
+                    <select class="setting-select">
+                        <option value="en">English</option>
+                        <option value="es">Spanish</option>
+                        <option value="fr">French</option>
+                    </select>
+                </div>
+            </div>
+            
+            <div class="settings-section">
+                <h3>🔐 Privacy</h3>
+                <div class="setting-item">
+                    <label class="setting-label">
+                        <input type="checkbox" checked> Show online status
+                    </label>
+                </div>
+                <div class="setting-item">
+                    <label class="setting-label">
+                        <input type="checkbox"> Allow direct messages
+                    </label>
+                </div>
+            </div>
+            
+            <div class="settings-actions">
+                <button class="form-btn" onclick="saveSettings()">Save Changes</button>
+                <button class="form-btn secondary" onclick="resetSettings()">Reset to Default</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Notes Modal -->
+<div class="modal" id="notesModal">
+    <div class="modal-content" style="max-width: 800px;">
+        <div class="modal-header">
+            <h2>📝 My Notes</h2>
+            <button class="close-btn" onclick="closeModal('notesModal')">&times;</button>
+        </div>
+        <div class="modal-body">
+            <div class="notes-toolbar">
+                <button class="form-btn" onclick="createNewNote()">
+                    <i class="fas fa-plus"></i> New Note
+                </button>
+                <input type="text" placeholder="Search notes..." class="notes-search" id="notesSearch">
+            </div>
+            
+            <div class="notes-container">
+                <div class="notes-sidebar">
+                    <h3>Categories</h3>
+                    <div class="note-category active" data-category="all">📄 All Notes</div>
+                    <div class="note-category" data-category="assignments">📚 Assignments</div>
+                    <div class="note-category" data-category="lectures">🎥 Lectures</div>
+                    <div class="note-category" data-category="personal">💡 Personal</div>
+                </div>
+                
+                <div class="notes-main">
+                    <div class="notes-list" id="notesList">
+                        <div class="note-item" data-category="assignments">
+                            <div class="note-header">
+                                <strong>Calculus Problem Set Notes</strong>
+                                <span class="note-date">2024-03-10</span>
+                            </div>
+                            <p class="note-preview">Key formulas and approaches for solving...</p>
+                        </div>
+                        
+                        <div class="note-item" data-category="lectures">
+                            <div class="note-header">
+                                <strong>Linear Algebra Webinar</strong>
+                                <span class="note-date">2024-03-08</span>
+                            </div>
+                            <p class="note-preview">Matrix operations and eigenvalues...</p>
+                        </div>
+                    </div>
+                    
+                    <div class="note-editor" id="noteEditor" style="display: none;">
+                        <input type="text" class="note-title" placeholder="Note title...">
+                        <textarea class="note-content" placeholder="Write your notes here..."></textarea>
+                        <div class="editor-actions">
+                            <button class="form-btn" onclick="saveNote()">Save</button>
+                            <button class="form-btn secondary" onclick="closeNoteEditor()">Cancel</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+    <!--Footer-->
+    <footer>
+          <div id="footer"></div>
+          <script>
+            async function loadFooter() {
+                try {
+                    const response = await fetch('../footer.html');
+                    const data = await response.text();
+                    document.getElementById("footer").innerHTML = data;
+                } catch (error) {
+                    console.error('Error loading footer:', error);
+                }
+            }
+            loadFooter();
+          </script>
+    </footer>
+   
+    <!-- SHARED SCRIPTS -->
+ 
+    <script src="../assets/js/vle.js"></script>      
+<!--  <script src="../assets/js/env-config.js"></script>        <!-- 1. Config first -->
+<!--  <script src="../assets/js/document-manager.js"></script>   <!-- 2. Core utilities --
+  <script src="../assets/js/session-loader.js"></script>     <!-- 3. Main controller --
+<script src="../assets/js/debug-loader.js"></script>       <!-- 4. Debug controller -->
+ 
+
+</body>
+</html>

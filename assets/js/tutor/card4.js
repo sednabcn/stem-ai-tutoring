@@ -3,7 +3,7 @@
 if (!window.cards) window.cards = {};
    window.cards['card4'] = {
        id: 'card4',
-       title: 'Temporary test card',
+       title: 'Set your Schedule',
        render: () => console.log('Rendering card1')
    };
 // Schedule Card Variables

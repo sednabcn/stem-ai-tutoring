@@ -14,7 +14,7 @@
 if (!window.cards) window.cards = {};
    window.cards['card1'] = {
        id: 'card1',
-       title: 'Temporary test card',
+       title: 'Agreement',
        render: () => console.log('Rendering card1')
    };
 

@@ -16,6 +16,7 @@ nav.top-nav {
     background-color: #fff;
     color: #ffffff;
     position: relative;
+    max-height: 80px;
 }
 
 .logo img {
@@ -117,6 +118,32 @@ nav.top-nav {
     75% { transform: rotate(-15deg); }
 }
 
+/* Notification Panel */
+.notification-panel {
+    position: absolute;
+    top: 100px; /*calc(100% + 22px);*/
+    right: 5px; /* Adjusted positioning */
+    width: 420px;
+    max-height: 500px;
+    background: white;
+    border-radius: 15px;
+    box-shadow: 0 15px 40px rgba(0,0,0,0.15);
+    z-index: 1000;
+    overflow: hidden;
+    transform: translateY(-10px);
+    opacity: 0;
+    visibility: hidden;
+    transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+    border: 1px solid rgba(0,0,0,0.05);
+}
+
+.notification-panel.active {
+    transform: translateY(0);
+    display: block;
+    visibility: visible !important;  /* Override hidden */
+    opacity: 1 !important;  
+}
+
 /* Notification Count Badge */
 .notification-count {
     position: absolute;
@@ -151,31 +178,6 @@ nav.top-nav {
     100% { transform: scale(1); }
 }
 
-/* Notification Panel */
-.notification-panel {
-    position: absolute;
-    top: 100px; /*calc(100% + 22px);*/
-    right: 5px; /* Adjusted positioning */
-    width: 420px;
-    max-height: 500px;
-    background: white;
-    border-radius: 15px;
-    box-shadow: 0 15px 40px rgba(0,0,0,0.15);
-    z-index: 1000;
-    overflow: hidden;
-    transform: translateY(-10px);
-    opacity: 0;
-    visibility: hidden;
-    transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
-    border: 1px solid rgba(0,0,0,0.05);
-}
-
-.notification-panel.active {
-    transform: translateY(0);
-    opacity: 1;
-    visibility: visible;
-}
-
 /* Panel Header */
 .panel-header {
     padding: 20px 24px;
@@ -187,7 +189,7 @@ nav.top-nav {
 }
 
 .panel-title {
-    font-size: 18px;
+    font-size: 14px;
     font-weight: 600;
     color: #1a1a1a;
 }
@@ -694,12 +696,17 @@ nav.top-nav {
             align-items: center;
             padding: 20px;
             border-bottom: 1px solid #f3f4f6;
+	     background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            border-radius: 12px 12px 0 0;
         }
+	    
 
         .modal-header h2 {
             font-size: 20px;
             font-weight: 600;
-            color: #111827;
+	    color: white;
+            /*color: #111827;*/
         }
 
         .close-btn {
@@ -3398,3 +3405,378 @@ header {
 	}
 
 /******END*****/
+/* ===========================================
+   NOTIFICATION PANEL FIXES
+   =========================================== */
+/* ===========================================
+   NOTIFICATION PANEL FIXES - ENHANCED ANIMATIONS
+   =========================================== */
+
+/* 1) NOTIFICATION PANEL HEADER IMPROVEMENTS */
+
+/* Notification Panel - Make it wider with enhanced animations */
+.notification-panel {
+    position: absolute;
+    top: 100px;
+    right: 5px;
+    width: 520px; /* Increased from 420px */
+    max-height: 600px; /* Increased from 500px */
+    background: white;
+    border-radius: 15px;
+    box-shadow: 0 15px 40px rgba(0,0,0,0.15);
+    z-index: 1000;
+    overflow: hidden;
+    
+    /* ENHANCED ANIMATION PROPERTIES */
+    transform: translateY(-10px);
+    opacity: 0;
+    visibility: hidden;
+    transition: all 0.3s ease-in-out; /* Enhanced transition timing */
+    will-change: transform, opacity; /* Performance optimization */
+    border: 1px solid rgba(0,0,0,0.05);
+    
+    /* Additional animation buffer properties */
+    pointer-events: none; /* Prevent interaction during animation */
+}
+
+/* Active state for notification panel */
+.notification-panel.active,
+.notification-panel.show {
+    opacity: 1;
+    visibility: visible;
+    transform: translateY(0);
+    pointer-events: auto; /* Re-enable interactions when visible */
+}
+
+/* Panel Header - Purple background like forum header */
+.panel-header {
+    padding: 16px 24px;
+    border-bottom: none;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); /* Purple gradient like forum */
+    color: white;
+    border-radius: 15px 15px 0 0; /* Match the panel border radius */
+    
+    /* Add smooth transitions for header elements */
+    transition: all 0.2s ease;
+}
+
+.panel-title {
+    font-size: 18px;
+    font-weight: 600;
+    color: white; /* White text on purple background */
+    margin: 0;
+    transition: color 0.2s ease; /* Smooth color transitions */
+}
+
+.mark-all-read {
+    background: rgba(255, 255, 255, 0.2); /* Semi-transparent white */
+    border: none;
+    color: white;
+    cursor: pointer;
+    font-size: 14px;
+    font-weight: 500;
+    padding: 8px 16px;
+    border-radius: 6px;
+    transition: all 0.3s ease; /* Enhanced transition */
+    will-change: background-color; /* Performance hint */
+}
+
+.mark-all-read:hover {
+    background: rgba(255, 255, 255, 0.3); /* More opaque on hover */
+    transform: none; /* Remove the translateY to keep it in line */
+}
+
+.mark-all-read:active {
+    background: rgba(255, 255, 255, 0.4);
+    transform: scale(0.98); /* Subtle press effect */
+}
+
+/* Notification Filters - Make them smaller and fit in one row */
+.notification-filters {
+    padding: 12px 24px;
+    border-bottom: 1px solid #f1f3f4;
+    display: flex;
+    gap: 6px; /* Reduced gap */
+    flex-wrap: nowrap; /* Prevent wrapping */
+    background: #fafbfc;
+    overflow-x: auto; /* Allow horizontal scroll if needed */
+    transition: background-color 0.2s ease; /* Smooth background transitions */
+}
+
+.filter-btn {
+    padding: 6px 12px; /* Reduced padding */
+    border: 1px solid #e1e5e9;
+    background: white;
+    border-radius: 20px;
+    cursor: pointer;
+    font-size: 12px; /* Reduced font size */
+    font-weight: 500;
+    transition: all 0.3s ease; /* Enhanced transition */
+    color: #5f6368;
+    white-space: nowrap; /* Prevent text wrapping */
+    flex-shrink: 0; /* Prevent shrinking */
+    will-change: transform, background-color; /* Performance optimization */
+}
+
+.filter-btn:hover {
+    background: #f8f9fa;
+    border-color: #d0d7de;
+    transform: translateY(-1px);
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.filter-btn.active {
+    background: linear-gradient(135deg, #007bff, #0056b3);
+    color: white;
+    border-color: #007bff;
+    transform: translateY(-1px);
+    box-shadow: 0 2px 8px rgba(0, 123, 255, 0.3);
+}
+
+.filter-btn.active:hover {
+    background: linear-gradient(135deg, #0056b3, #003d82);
+    box-shadow: 0 4px 12px rgba(0, 123, 255, 0.4);
+}
+
+/* 2) AVATAR MENU HEADER IMPROVEMENTS */
+
+/* Avatar Menu - Overall container - Make it wider with enhanced animations */
+.avatar-menu {
+    position: absolute;
+    top: 100px;
+    right: 0;
+    background: white;
+    border-radius: 12px;
+    box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.1), 0 10px 10px -5px rgba(0, 0, 0, 0.04);
+    width: 320px; /* Increased from 280px */
+    
+    /* ENHANCED ANIMATION PROPERTIES */
+    opacity: 0;
+    visibility: hidden;
+    transform: translateY(-10px);
+    transition: all 0.3s ease-in-out; /* Enhanced transition timing */
+    will-change: transform, opacity; /* Performance optimization */
+    z-index: 1000;
+    overflow: hidden; /* Ensure header background doesn't overflow */
+    
+    /* Additional animation buffer properties */
+    pointer-events: none; /* Prevent interaction during animation */
+}
+
+/* Active state for avatar menu */
+.avatar-menu.active,
+.avatar-menu.show {
+    opacity: 1;
+    visibility: visible;
+    transform: translateY(0);
+    pointer-events: auto; /* Re-enable interactions when visible */
+}
+
+/* User Info Header - Purple background like notification header */
+.user-info {
+    padding: 20px;
+    border-bottom: none; /* Remove border since we have purple background */
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); /* Same purple gradient */
+    color: white;
+    transition: all 0.2s ease; /* Smooth transitions */
+}
+
+#menuAvatarImage {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    border: 2px solid rgba(255, 255, 255, 0.3); /* Subtle white border */
+    transition: all 0.3s ease; /* Smooth image transitions */
+}
+
+#menuAvatarImage:hover {
+    border-color: rgba(255, 255, 255, 0.6);
+    transform: scale(1.05); /* Subtle hover effect */
+}
+
+.user-details h3 {
+    font-size: 16px;
+    font-weight: 600;
+    color: white; /* White text */
+    margin-bottom: 4px;
+    transition: color 0.2s ease;
+}
+
+.role {
+    font-size: 14px;
+    color: rgba(255, 255, 255, 0.8); /* Semi-transparent white */
+    margin-bottom: 4px;
+    transition: color 0.2s ease;
+}
+
+.status-badge {
+    background: rgba(255, 255, 255, 0.2); /* Semi-transparent white background */
+    color: white;
+    padding: 3px 10px;
+    border-radius: 12px;
+    font-size: 12px;
+    font-weight: 500;
+    border: 1px solid rgba(255, 255, 255, 0.3);
+    transition: all 0.2s ease;
+}
+
+.status-badge:hover {
+    background: rgba(255, 255, 255, 0.3);
+    border-color: rgba(255, 255, 255, 0.5);
+}
+
+/* Menu Items - Keep white background for contrast */
+.menu-items {
+    padding: 8px 0;
+    background: white; /* White background for menu items */
+}
+
+/* Avatar Menu Items - Add background to each item header with enhanced animations */
+.avatar-menu-item {
+    display: flex;
+    align-items: center;
+    padding: 14px 20px; /* Increased padding */
+    cursor: pointer;
+    position: relative;
+    color: #374151; /* Dark text for readability */
+    background: #f8f9fa; /* Light background for each item */
+    border-bottom: 1px solid #e9ecef;
+    margin: 2px 8px; /* Add margin for spacing */
+    border-radius: 8px; /* Rounded corners */
+    
+    /* ENHANCED TRANSITIONS */
+    transition: all 0.3s ease; /* Enhanced transition timing */
+    will-change: transform, background-color; /* Performance optimization */
+}
+
+.avatar-menu-item:first-child {
+    margin-top: 8px;
+}
+
+.avatar-menu-item:last-child {
+    margin-bottom: 8px;
+    border-bottom: none;
+}
+
+.avatar-menu-item:hover {
+    background: #e9ecef; /* Darker background on hover */
+    transform: translateX(2px); /* Subtle slide effect */
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.avatar-menu-item:active {
+    transform: translateX(2px) scale(0.98); /* Combine slide and press effects */
+    background: #dee2e6;
+}
+
+.avatar-menu-item .icon {
+    margin-right: 12px;
+    font-size: 16px;
+    color: #6b7280; /* Icon color */
+    transition: color 0.2s ease; /* Smooth icon color transitions */
+}
+
+.avatar-menu-item:hover .icon {
+    color: #374151; /* Darker icon on hover */
+}
+
+.avatar-menu-item.danger {
+    color: #dc2626;
+    background: #fef2f2; /* Light red background */
+}
+
+.avatar-menu-item.danger:hover {
+    background: #fee2e2; /* Darker red on hover */
+    transform: translateX(2px);
+    box-shadow: 0 2px 4px rgba(220, 38, 38, 0.2); /* Red shadow */
+}
+
+.avatar-menu-item.danger:active {
+    background: #fecaca;
+    transform: translateX(2px) scale(0.98);
+}
+
+.avatar-menu-item.danger .icon {
+    color: #dc2626;
+}
+
+/* Remove old separator since we have individual backgrounds now */
+.avatar-menu-separator {
+    display: none; /* Hide separators since we have individual backgrounds */
+}
+
+.message-badge {
+    background: #dc2626;
+    color: white;
+    padding: 2px 6px;
+    border-radius: 10px;
+    font-size: 11px;
+    font-weight: 600;
+    margin-left: auto;
+    transition: all 0.2s ease; /* Smooth badge transitions */
+}
+
+.message-badge:hover {
+    background: #b91c1c;
+    transform: scale(1.05);
+}
+
+/* 3) ADDITIONAL PERFORMANCE OPTIMIZATIONS */
+
+/* Container optimization for better rendering */
+.notification-panel,
+.avatar-menu {
+    backface-visibility: hidden; /* Prevent flickering */
+    -webkit-backface-visibility: hidden;
+    transform-style: preserve-3d; /* Better 3D rendering */
+}
+
+/* Smooth scrolling for notification filters */
+.notification-filters {
+    scroll-behavior: smooth;
+}
+
+/* Loading states */
+.notification-panel.loading,
+.avatar-menu.loading {
+    pointer-events: none;
+    opacity: 0.7;
+}
+
+/* Focus states for accessibility */
+.filter-btn:focus,
+.avatar-menu-item:focus,
+.mark-all-read:focus {
+    outline: 2px solid #007bff;
+    outline-offset: 2px;
+}
+
+/* Reduce motion for users who prefer it */
+@media (prefers-reduced-motion: reduce) {
+    .notification-panel,
+    .avatar-menu,
+    .filter-btn,
+    .avatar-menu-item,
+    .mark-all-read,
+    #menuAvatarImage,
+    .status-badge,
+    .message-badge {
+        transition: none;
+        animation: none;
+        transform: none !important;
+    }
+    
+    .notification-panel.active,
+    .notification-panel.show,
+    .avatar-menu.active,
+    .avatar-menu.show {
+        opacity: 1;
+        visibility: visible;
+    }
+}

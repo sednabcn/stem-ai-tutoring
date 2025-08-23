@@ -1,0 +1,2095 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Math SiMLeng Learning Dashboard</title>
+    <link rel="stylesheet" href="../assets/css/styles.css">
+    <link rel="stylesheet" href="../assets/css/mathstudent.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <link rel="icon" href="../assets/images/favicon-16x16.png" type="image/x-icon">
+</head>
+<body>
+   <!-- Top Navigation -->
+    <nav class="top-nav">
+        <div class="logo">
+            <img src="../assets/images/logo.png" alt="SiMLeng Logo">
+        </div>
+        <div class="center-text">
+            SiMLeng
+        </div>
+	<div class="menu">
+           <a href="../pages/help.html" class="helpcta" id="helpLink">Help</a>
+           <div class="header-icons">
+               <!-- Notification Bell - Top Right -->
+               <div class="icon-wrapper"
+		    onclick="toggleNotificationPanel()"
+                    onkeydown="if(event.key==='Enter'){window.notificationCenter?.togglePanel()}"
+                    role="button" tabindex="0" aria-label="View notifications">
+           
+                 <span class="bell-icon" id="notificationBell" aria-hidden="true">🔔</span>
+        
+                 <span class="notification-count" id="notificationCount">3</span>
+        
+                 <span class="tooltip">Notifications</span>
+               </div>
+
+               <!-- Notification Panel -->
+               <div class="notification-panel" id="notificationPanel">
+                 <div class="panel-header">
+                   <div class="panel-title">Notifications</div>
+                   <button class="mark-all-read" onclick="window.notificationCenter?.markAllAsRead()">
+                        Mark All Read
+                   </button>
+                 </div>
+
+                 <div class="notification-filters">
+                   <button class="filter-btn active" data-filter="all">All</button>
+                   <button class="filter-btn" data-filter="incomplete">Incomplete</button>
+                   <button class="filter-btn" data-filter="students">Students</button>
+                   <button class="filter-btn" data-filter="tutors">Tutors</button>
+                   <button class="filter-btn" data-filter="admin">Admin</button>
+                 </div>
+
+                 <div class="notification-list" id="notificationList">
+                    <!-- Notifications will be populated here -->
+                 </div>
+               </div> <!--!panel-->
+
+            </div> <!--header icons--> 
+           <!-- Avatar Section -->
+	   <div class="avatar-container">
+             <div class="user-avatar" id="userAvatar" onclick="toggleAvatarMenu(event)">
+               <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='44'%20height='44'%20viewBox='0%200%2044%2044'%3E%3Crect%20width='44'%20height='44'%20rx='22'%20fill='%23667eea'/%3E%3Ctext%20x='50%25'%20y='50%25'%20text-anchor='middle'%20dy='0.35em'%20fill='white'%20font-family='Arial'%20font-size='16'%20font-weight='600'%3EDR%3C/text%3E%3C/svg%3E" alt="Dr. Rachel Martinez" class="avatar-image" id="avatarImage">
+               <div class="avatar-status-indicator active"></div>
+             </div>
+
+             <!-- Avatar Dropdown Menu -->
+             <div class="avatar-menu" id="avatarMenu">
+               <div class="user-info">
+                 <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='50'%20height='50'%20viewBox='0%200%2050%2050'%3E%3Crect%20width='50'%20height='50'%20rx='25'%20fill='%23667eea'/%3E%3Ctext%20x='50%25'%20y='50%25'%20text-anchor='middle'%20dy='0.35em'%20fill='white'%20font-family='Arial'%20font-size='18'%20font-weight='600'%3EDR%3C/text%3E%3C/svg%3E" alt="User Avatar" id="menuAvatarImage">
+                 <div class="user-details">
+                   <h3 id="userName">Rachel Martinez</h3>
+                   <div class="role" id="userRole">Student</div>
+                   <div class="status-badge">Verified Student</div>
+                 </div>
+               </div>
+
+               <div class="menu-items">
+                 <div class="avatar-menu-item" onclick="showModal('uploadModal')">
+                   <span class="icon">📷</span>
+                   Upload Avatar
+                 </div>
+                
+                 <div class="avatar-menu-item" onclick="showModal('messagesModal')">
+                   <span class="icon">💬</span>
+                   Messages
+                   <span class="message-badge" id="messageBadge">3</span>
+                 </div>
+                
+                 <div class="avatar-menu-item" onclick="showModal('profileModal')">
+                   <span class="icon">👤</span>
+                   Profile
+                 </div>
+                
+                 <div class="avatar-menu-item" onclick="showModal('quickNotesModal')">
+                   <span class="icon">📚</span>
+                   Quick Notes
+                 </div>
+                
+                 <div class="avatar-menu-item" onclick="showModal('documentsModal')">
+                   <span class="icon">📁</span>
+                   Documents
+                 </div>
+                
+                 <div class="avatar-menu-separator"></div>
+
+                 <div class="avatar-menu-item" onclick="showModal('forumModal')">
+		   <span class="icon">👥</span>
+		   <span>Student Forum</span>
+		 </div>
+    
+		 
+                 <div class="avatar-menu-item" onclick="showModal('feedbackModal')">
+                   <span class="icon">💭</span>
+                   Feedback
+                 </div>
+                
+                 <div class="avatar-menu-separator"></div>
+                
+                 <div class="avatar-menu-item danger" onclick="showModal('logoutModal')">
+                   <span class="icon">🚪</span>
+                   Logout
+                 </div>
+               </div> <!--close Menu-->
+	       
+             </div>
+	   </div>
+
+	 </div>  
+	   <!-- Upload Avatar Modal -->
+	   <div class="modal" id="uploadModal">
+             <div class="modal-content">
+               <div class="modal-header">
+                 <h2>Upload Avatar</h2>
+                 <button class="close-btn" onclick="closeModal('uploadModal')">&times;</button>
+               </div>
+               <div class="modal-body">
+                 <div class="avatar-upload-area">
+                   <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='80'%20height='80'%20viewBox='0%200%2080%2080'%3E%3Crect%20width='80'%20height='80'%20rx='40'%20fill='%23667eea'/%3E%3Ctext%20x='50%25'%20y='50%25'%20text-anchor='middle'%20dy='0.35em'%20fill='white'%20font-family='Arial'%20font-size='28'%20font-weight='600'%3EDR%3C/text%3E%3C/svg%3E" alt="Current Avatar" class="avatar-preview" id="avatarPreview">
+                   <div class="upload-section">
+                     <p>Click to upload or drag and drop</p>
+                     <p style="font-size: 12px; color: #6b7280;">JPG, PNG or GIF (max 2MB)</p>
+                     <input type="file" id="avatarUpload" accept="image/*" style="display: none;" onchange="previewAvatar(this)">
+                     <button class="form-btn" onclick="document.getElementById('avatarUpload').click()">Choose File</button>
+                   </div>
+                 </div>
+                 <div style="display: flex; gap: 10px; justify-content: flex-end;">
+                   <button class="form-btn secondary" onclick="closeModal('uploadModal')">Cancel</button>
+                   <button class="form-btn" onclick="uploadAvatar()">Upload</button>
+                 </div>
+               </div>
+             </div>
+	   </div>
+
+	   <!-- Profile Modal -->
+	   <div class="modal" id="profileModal">
+             <div class="modal-content">
+               <div class="modal-header">
+                 <h2>Profile Information</h2>
+                 <button class="close-btn" onclick="closeModal('profileModal')">&times;</button>
+               </div>
+               <div class="modal-body">
+                 <div class="profile-info">
+                   <div class="info-card">
+                     <div class="info-label">Full Name</div>
+                     <div class="info-value" id="profileName">Dr. Rachel Martinez</div>
+                   </div>
+                   <div class="info-card">
+                     <div class="info-label">Email</div>
+                     <div class="info-value" id="profileEmail">r.martinez@email.com</div>
+                   </div>
+                   <div class="info-card">
+                     <div class="info-label">Role</div>
+                     <div class="info-value" id="profileRole">Mathematics Tutor</div>
+                   </div>
+                   <div class="info-card">
+                     <div class="info-label">Status</div>
+                     <div class="info-value" id="profileStatus">Active - Verified Tutor</div>
+                   </div>
+                   <div class="info-card">
+                     <div class="info-label">Member Since</div>
+                     <div class="info-value" id="profileMemberSince">January 2024</div>
+                   </div>
+                   <div class="info-card">
+                     <div class="info-label">Subjects</div>
+                     <div class="info-value" id="profileSpecialization">Advanced Mathematics, Calculus, Statistics</div>
+                   </div>
+                 </div>
+               </div>
+             </div>
+	   </div>
+
+
+	   <!-- Messages Modal -->
+	   <div class="modal" id="messagesModal">
+             <div class="modal-content">
+               <div class="modal-header">
+                 <h2>Admin Messages</h2>
+                 <button class="close-btn" onclick="closeModal('messagesModal')">&times;</button>
+               </div>
+               <div class="modal-body" style="padding: 0; max-height: 400px; overflow-y: auto;">
+                 <div class="message-item unread" onclick="openMessage(1)">
+                   <div class="message-header">
+                     <span class="message-sender">📢 Platform Admin</span>
+                     <div style="display: flex; align-items: center; gap: 8px;">
+                       <span class="priority-badge priority-high">High</span>
+                       <span class="message-time">2 hours ago</span>
+                     </div>
+                   </div>
+                   <div class="message-subject">New Platform Guidelines - Action Required</div>
+                   <div class="message-preview">Please review the updated tutoring guidelines that take effect next week. Your compliance is required by...</div>
+                 </div>
+                
+                 <div class="message-item unread" onclick="openMessage(2)">
+                   <div class="message-header">
+                     <span class="message-sender">👥 Student Services</span>
+                     <div style="display: flex; align-items: center; gap: 8px;">
+                       <span class="priority-badge priority-medium">Medium</span>
+                       <span class="message-time">1 day ago</span>
+                     </div>
+                   </div>
+                   <div class="message-subject">Student Feedback Summary</div>
+                   <div class="message-preview">Your monthly student feedback report is ready for review. Overall rating: 4.8/5 stars...</div>
+                 </div>
+                
+                 <div class="message-item unread" onclick="openMessage(3)">
+                   <div class="message-header">
+                     <span class="message-sender">💳 Billing Department</span>
+                     <div style="display: flex; align-items: center; gap: 8px;">
+                       <span class="priority-badge priority-low">Low</span>
+                       <span class="message-time">3 days ago</span>
+                     </div>
+                   </div>
+                   <div class="message-subject">Payment Processing Update</div>
+                   <div class="message-preview">Your earnings for January have been processed. Total: $2,450.00. Direct deposit completed...</div>
+                 </div>
+                
+                 <div class="message-item" onclick="openMessage(4)">
+                   <div class="message-header">
+                     <span class="message-sender">🎓 Academic Team</span>
+                     <div style="display: flex; align-items: center; gap: 8px;">
+                       <span class="priority-badge priority-medium">Medium</span>
+                       <span class="message-time">1 week ago</span>
+                     </div>
+                   </div>
+                   <div class="message-subject">New Course Materials Available</div>
+                   <div class="message-preview">Advanced calculus resources have been added to your teaching library. Check the uploads section...</div>
+                 </div>
+               </div>
+             </div>
+	   </div>
+
+	   <!-- Individual Message Modal -->
+	   <div class="modal" id="messageDetailModal">
+             <div class="modal-content">
+               <div class="modal-header">
+                 <h2 id="messageDetailSubject">Message Details</h2>
+                 <button class="close-btn" onclick="closeModal('messageDetailModal')">&times;</button>
+               </div>
+               <div class="modal-body">
+                 <div class="message-detail-header" style="border-bottom: 1px solid #f3f4f6; padding-bottom: 16px; margin-bottom: 16px;">
+                   <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 8px;">
+                     <span class="message-sender" id="messageDetailSender">📢 Platform Admin</span>
+                     <span class="priority-badge priority-high" id="messageDetailPriority">High Priority</span>
+                   </div>
+                   <div style="color: #6b7280; font-size: 14px;" id="messageDetailTime">Received 2 hours ago</div>
+                 </div>
+                 <div class="message-detail-content" id="messageDetailContent">
+                   <!-- Message content will be loaded here -->
+                 </div>
+                 <div style="display: flex; gap: 10px; justify-content: flex-end; margin-top: 20px;">
+                   <button class="form-btn secondary" onclick="markAsRead()">Mark as Read</button>
+                   <button class="form-btn" onclick="replyToMessage()">Reply</button>
+                 </div>
+               </div>
+             </div>
+	   </div>
+
+           <!--Quick Notes Modal-->
+	   <div class="modal" id="quickNotesModal">
+             <div class="modal-content">
+               <div class="modal-header">
+                 <h2 class="modal-title">
+                   <span>📚</span>
+                    Quick Notes
+                 </h2>
+                 <button class="close-btn" onclick="closeModal('quickNotesModal')">&times;</button>
+               </div>
+            
+              
+                 <!-- Controls -->
+                 <div class="notes-controls">
+                   <button class="add-note-btn" onclick="toggleNoteForm()">
+                        ➕ Add New Note
+                   </button>
+                   <input type="text" class="search-box" id="searchInput" placeholder="🔍 Search notes..." onkeyup="searchNotes()">
+                   <select class="category-filter" id="categoryFilter" onchange="filterNotes()">
+                     <option value="">All Categories</option>
+                     <option value="algebra">Algebra</option>
+                     <option value="geometry">Geometry</option>
+                     <option value="calculus">Calculus</option>
+                     <option value="statistics">Statistics</option>
+                     <option value="formulas">Formulas</option>
+                     <option value="reminders">Reminders</option>
+                     <option value="other">Other</option>
+                   </select>
+                 </div>
+
+                 <!-- Add Note Form -->
+                 <div class="note-form" id="noteForm">
+                   <div class="form-group">
+                     <label class="form-label">Note Title</label>
+                     <input type="text" class="form-input" id="noteTitle" placeholder="Enter note title...">
+                   </div>
+                    
+                   <div class="form-group">
+                     <label class="form-label">Category</label>
+                     <select class="form-input" id="noteCategory">
+                       <option value="algebra">Algebra</option>
+                       <option value="geometry">Geometry</option>
+                       <option value="calculus">Calculus</option>
+                       <option value="statistics">Statistics</option>
+                       <option value="formulas">Formulas</option>
+                       <option value="reminders">Reminders</option>
+                       <option value="other">Other</option>
+                     </select>
+                   </div>
+                    
+                   <div class="form-group">
+                     <label class="form-label">Content</label>
+                     <textarea class="form-input form-textarea" id="noteContent" placeholder="Write your note here..."></textarea>
+                   </div>
+                   
+                   <div class="form-actions">
+                     <button class="btn btn-secondary" onclick="cancelNote()">Cancel</button>
+                     <button class="btn btn-primary" onclick="saveNote()">Save Note</button>
+                   </div>
+                 </div>
+
+                 <!-- Notes Grid -->
+                 <div class="notes-grid" id="notesGrid">
+                   <!-- Notes will be dynamically inserted here -->
+                 </div>
+
+                 <!-- Empty State -->
+                 <div class="empty-state" id="emptyState">
+                   <div class="empty-state-icon">📝</div>
+                   <div class="empty-state-title">No notes yet</div>
+                   <div class="empty-state-text">Create your first note to get started with organizing your math studies!</div>
+                 </div>
+               </div>
+             </div>
+	   
+
+	   
+	   <!-- Documents Modal -->
+	   <div class="modal" id="documentsModal">
+             <div class="modal-content">
+               <div class="modal-header">
+                 <h2>Document Uploads</h2>
+                 <button class="close-btn" onclick="closeModal('documentsModal')">&times;</button>
+               </div>
+               <div class="modal-body">
+                 <div class="upload-section" onclick="document.getElementById('documentUpload').click()">
+                   <p>📁 Click to upload documents</p>
+                   <p style="font-size: 12px; color: #6b7280;">PDF, DOC, DOCX, PPT, PPTX (max 10MB each)</p>
+                   <input type="file" id="documentUpload" multiple accept=".pdf,.doc,.docx,.ppt,.pptx" style="display: none;" onchange="handleDocumentUpload(this)">
+                 </div>
+                
+                 <h3 style="margin: 20px 0 10px 0; font-size: 16px;">Uploaded Documents</h3>
+                 <ul class="upload-list" id="uploadList">
+                   <li class="upload-item">
+                     <span>📄 Calculus_Curriculum_2024.pdf</span>
+                     <span style="color: #6b7280; font-size: 12px;">2.3 MB - Jan 15, 2024</span>
+                   </li>
+                   <li class="upload-item">
+                     <span>📊 Statistics_Worksheets.docx</span>
+                     <span style="color: #6b7280; font-size: 12px;">1.8 MB - Jan 10, 2024</span>
+                   </li>
+                   <li class="upload-item">
+                     <span>📈 Linear_Algebra_Presentation.pptx</span>
+                     <span style="color: #6b7280; font-size: 12px;">4.2 MB - Jan 8, 2024</span>
+                   </li>
+                 </ul>
+               </div>
+             </div>
+	   </div>
+
+           
+<!-- Forum Modal -->
+	   <div id="forumModal" class="modal">
+	     <div class="forum-modal-content">
+               <div class="forum-header">
+		 <div class="forum-title">
+                   <span>👥</span>
+                   <span>Student Forum</span>
+		 </div>
+		 <button class="close-btn" onclick="closeModal('forumModal')">&times;</button>
+               </div>
+
+               <div class="forum-tabs">
+		 <button class="forum-tab active" onclick="switchForumTab('browse')">Browse Forums</button>
+		 <button class="forum-tab" onclick="switchForumTab('myPosts')">My Posts</button>
+		 <button class="forum-tab" onclick="switchForumTab('notifications')">Notifications</button>
+               </div>
+
+               <div class="forum-body">
+		 <!-- Browse Forums Tab -->
+		 <div id="browseContent" class="forum-content active">
+                   <div class="forum-search">
+                     <input type="text" id="forumSearch" placeholder="Search forums, posts, or topics..." oninput="searchForum()">
+                   </div>
+		   
+                   <!-- Breadcrumb Navigation -->
+                   <div id="forumBreadcrumb" class="forum-breadcrumb">
+                     <a href="#" class="breadcrumb-link" onclick="showAllForums()">All Forums</a>
+                     <span>›</span>
+                     <span id="currentForumName"></span>
+                   </div>
+
+                   <!-- Forums List -->
+                   <div id="forumsList">
+                     <!-- General Discussion Category -->
+                     <div class="forum-category">
+                       <div class="forum-category-header" onclick="toggleCategory('general')">
+                         <span class="forum-category-title">
+                           <span>💬</span>
+                           <span>General Discussion</span>
+                         </span>
+                         <span class="forum-category-count">3 forums</span>
+                       </div>
+                       <div id="generalForums" class="forum-category-forums">
+                         <div class="forum-item" onclick="openForum('general-math')">
+                           <div class="forum-item-header">
+                             <div>
+                               <div class="forum-item-title">🔢 General Math Discussion</div>
+                               <div class="forum-item-description">Share ideas, ask questions, and discuss mathematical concepts with fellow tutors.</div>
+                             </div>
+                             <div class="forum-item-stats">
+                               <div class="forum-item-stat">
+                                 <span>📝</span>
+                                 <span>1 post</span>
+                               </div>
+                               <div class="forum-item-stat">
+                                 <span>💬</span>
+                                 <span>8 replies</span>
+                               </div>
+                             </div>
+                           </div>
+                           <div class="forum-item-tags">
+                             <span class="forum-tag">mathematics</span>
+                             <span class="forum-tag">discussion</span>
+                             <span class="forum-tag">general</span>
+                           </div>
+                         </div>
+
+                         <div class="forum-item" onclick="openForum('teaching-tips')">
+                           <div class="forum-item-header">
+                             <div>
+                               <div class="forum-item-title">💡 Teaching Tips & Strategies</div>
+                               <div class="forum-item-description">Exchange effective teaching methods, pedagogical approaches, and classroom strategies.</div>
+                             </div>
+                             <div class="forum-item-stats">
+                               <div class="forum-item-stat">
+                                 <span>📝</span>
+                                 <span>1 post</span>
+                                        </div>
+                               <div class="forum-item-stat">
+                                 <span>💬</span>
+                                 <span>15 replies</span>
+                               </div>
+                             </div>
+                           </div>
+                                <div class="forum-item-tags">
+                                  <span class="forum-tag">teaching</span>
+                                  <span class="forum-tag">pedagogy</span>
+                                  <span class="forum-tag">strategies</span>
+                                </div>
+                         </div>
+			 
+                         <div class="forum-item" onclick="openForum('tutor-lounge')">
+                           <div class="forum-item-header">
+                             <div>
+                               <div class="forum-item-title">☕ Tutor Lounge</div>
+                               <div class="forum-item-description">Casual discussions, networking, and community building among tutors.</div>
+                             </div>
+                             <div class="forum-item-stats">
+                                        <div class="forum-item-stat">
+                                          <span>📝</span>
+                                          <span>1 post</span>
+                                        </div>
+                                        <div class="forum-item-stat">
+                                          <span>💬</span>
+                                          <span>22 replies</span>
+                                        </div>
+                                    </div>
+                           </div>
+                           <div class="forum-item-tags">
+                             <span class="forum-tag">community</span>
+                             <span class="forum-tag">networking</span>
+                                    <span class="forum-tag">casual</span>
+                           </div>
+                         </div>
+                       </div>
+                     </div>
+
+                     <!-- Help & Support Category -->
+                    <div class="forum-category">
+                      <div class="forum-category-header" onclick="toggleCategory('help')">
+                        <span class="forum-category-title">
+                          <span>🆘</span>
+                          <span>Help & Support</span>
+                        </span>
+                        <span class="forum-category-count">2 forums</span>
+                      </div>
+                        <div id="helpForums" class="forum-category-forums">
+                          <div class="forum-item" onclick="openForum('technical-help')">
+                            <div class="forum-item-header">
+                              <div>
+                                <div class="forum-item-title">🔧 Technical Support</div>
+                                <div class="forum-item-description">Get help with platform features, technical issues, and troubleshooting.</div>
+                              </div>
+                              <div class="forum-item-stats">
+                                <div class="forum-item-stat">
+                                  <span>📝</span>
+                                            <span>0 posts</span>
+                                </div>
+                                <div class="forum-item-stat">
+                                  <span>💬</span>
+                                  <span>0 replies</span>
+                                </div>
+                                    </div>
+                            </div>
+                            <div class="forum-item-tags">
+                              <span class="forum-tag">technical</span>
+                              <span class="forum-tag">support</span>
+                                    <span class="forum-tag">help</span>
+                            </div>
+                          </div>
+			  
+                          <div class="forum-item" onclick="openForum('new-tutor-help')">
+                            <div class="forum-item-header">
+                              <div>
+                                <div class="forum-item-title">🚀 New Tutor Help</div>
+                                <div class="forum-item-description">Resources and guidance for tutors new to the platform or profession.</div>
+                              </div>
+                              <div class="forum-item-stats">
+                                <div class="forum-item-stat">
+                                  <span>📝</span>
+                                  <span>0 posts</span>
+                                </div>
+                                        <div class="forum-item-stat">
+                                          <span>💬</span>
+                                          <span>0 replies</span>
+                                        </div>
+                              </div>
+                            </div>
+                            <div class="forum-item-tags">
+                              <span class="forum-tag">new-tutor</span>
+                              <span class="forum-tag">onboarding</span>
+                              <span class="forum-tag">guidance</span>
+                            </div>
+                          </div>
+                        </div>
+                    </div>
+                   </div>
+
+                   <!-- Forum Posts View -->
+                   <div id="forumPostsView" style="display: none;">
+                     <div style="margin-bottom: 16px;">
+                       <button class="create-post-btn" onclick="showModal('createPostModal')">
+                         ➕ Create New Post
+                       </button>
+                     </div>
+                     <div id="forumPostsList"></div>
+                   </div>
+		 </div>
+		 
+		 <!-- My Posts Tab -->
+            <div id="myPostsContent" class="forum-content">
+              <div class="forum-empty">
+                <div class="forum-empty-icon">📝</div>
+                <h3>Your Forum Posts</h3>
+                <p>You haven't created any posts yet. Start a discussion to connect with other tutors!</p>
+                <button class="form-btn" onclick="showModal('createPostModal')" style="margin-top: 16px;">Create Your First Post</button>
+              </div>
+            </div>
+	    
+            <!-- Notifications Tab -->
+            <div id="notificationsContent" class="forum-content">
+              <div class="forum-empty">
+                <div class="forum-empty-icon">🔔</div>
+                    <h3>Forum Notifications</h3>
+                <p>You'll see notifications here when someone replies to your posts or mentions you.</p>
+              </div>
+            </div>
+               </div>
+	     </div>
+	   </div>
+
+	   <!-- Create Post Modal -->
+	   <div class="modal" id="createPostModal">
+	     <div class="modal-content">
+               <div class="modal-header">
+		 <h2>Create New Post</h2>
+		 <button class="close-btn" onclick="closeModal('createPostModal')">&times;</button>
+               </div>
+               <div class="modal-body">
+		 <form id="createPostForm" onsubmit="submitPost(event)">
+                   <div class="form-group">
+                     <label>Select Forum</label>
+                    <select name="forum" id="postForum" required>
+                      <option value="">Choose a forum...</option>
+                      <option value="general-math">General Math Discussion</option>
+                      <option value="teaching-tips">Teaching Tips & Strategies</option>
+                      <option value="tutor-lounge">Tutor Lounge</option>
+                      <option value="technical-help">Technical Support</option>
+                      <option value="new-tutor-help">New Tutor Help</option>
+                    </select>
+                   </div>
+                   <div class="form-group">
+                     <label>Post Type</label>
+                     <select name="type" id="postType" required>
+                        <option value="">Select type...</option>
+                        <option value="question">Question</option>
+                        <option value="discussion">Discussion</option>
+                        <option value="announcement">Announcement</option>
+                        <option value="resource">Resource</option>
+                     </select>
+                   </div>
+                <div class="form-group">
+                  <label>Title</label>
+                  <input type="text" name="title" id="postTitle" required placeholder="Enter your post title...">
+                </div>
+                <div class="form-group">
+                  <label>Content</label>
+                  <textarea name="content" id="postContent" required placeholder="Write your post content here..." rows="6"></textarea>
+                </div>
+                <div class="form-group">
+                  <label>Tags (comma-separated)</label>
+                  <input type="text" name="tags" id="postTags" placeholder="e.g. mathematics, teaching, beginner">
+                </div>
+                <div class="modal-actions">
+                  <button type="submit" class="form-btn">Create Post</button>
+                  <button type="button" class="form-btn secondary" onclick="closeModal('createPostModal')">Cancel</button>
+                </div>
+		 </form>
+               </div>
+	     </div>
+	   </div>
+	   
+	   <!-- Feedback Modal -->
+	   <div class="modal" id="feedbackModal">
+             <div class="modal-content">
+               <div class="modal-header">
+                 <h2>Send Feedback</h2>
+                 <button class="close-btn" onclick="closeModal('feedbackModal')">&times;</button>
+               </div>
+               <div class="modal-body">
+		 <form id="feedbackForm" onsubmit="submitFeedback(event)">
+                   <div class="form-group">
+                     <label class="form-label">Feedback Type</label>
+                     <select class="form-input" id="feedbackType">
+                       <option value="suggestion">Suggestion</option>
+                       <option value="bug">Bug Report</option>
+                       <option value="feature">Feature Request</option>
+                       <option value="general">General Feedback</option>
+                     </select>
+                   </div>
+                   <div class="form-group">
+                     <label class="form-label">Subject</label>
+                     <input type="text" class="form-input" id="feedbackSubject" placeholder="Brief description of your feedback">
+                   </div>
+                   <div class="form-group">
+                     <label class="form-label">Message</label>
+                     <textarea class="form-input form-textarea" id="feedbackMessage" placeholder="Please provide detailed feedback..." rows="6"></textarea>
+                   </div>
+                   <div class="form-group">
+                     <label class="form-label">Priority</label>
+                     <select class="form-input" id="feedbackPriority">
+                       <option value="low">Low</option>
+                       <option value="medium">Medium</option>
+                       <option value="high">High</option>
+                     </select>
+                   </div>
+                   <div style="display: flex; gap: 10px; justify-content: flex-end; margin-top: 20px;">
+                     <button type="button" class="form-btn secondary" onclick="closeModal('feedbackModal')">Cancel</button>
+                     <button type="submit" class="form-btn">Send Feedback</button>
+                   </div>
+                 </form>
+               </div>
+             </div>
+	   </div>
+
+	   <!-- Logout Modal -->
+	   <div class="modal" id="logoutModal">
+             <div class="modal-content">
+               <div class="modal-header">
+                 <h2>Confirm Logout</h2>
+                 <button class="close-btn" onclick="closeModal('logoutModal')">&times;</button>
+               </div>
+               <div class="modal-body">
+                 <div class="services-contract">
+                   <h4>⚠️ Services Contract Notice</h4>
+                   <p><strong>IN YOUR HANDS:</strong> By logging out, you acknowledge that any ongoing tutoring sessions or commitments remain your responsibility. Please ensure all student communications are completed and any pending work is properly documented before logging out.</p>
+                   <p style="margin-top: 10px; font-size: 13px;"><strong>Note:</strong> You will be redirected to the homepage after logout. Current location: <code>/tutor/</code></p>
+                 </div>
+                 
+                 <p style="margin: 16px 0;">Are you sure you want to logout and return to the homepage? Any unsaved changes will be lost.</p>
+                 
+                 <div style="display: flex; gap: 10px; justify-content: flex-end; margin-top: 20px;">
+                   <button class="form-btn secondary" onclick="closeModal('logoutModal')">Cancel</button>
+                   <button class="form-btn danger" style="background: #dc2626;" onclick="logout()">Logout</button>
+                 </div>
+               </div>
+             </div>
+	   </div>
+
+
+    </nav>
+
+    <!-- Header -->
+    <header class="header">
+      <!-- Header -->
+      <div class="header-content">
+	  <div class="header-container">
+	    <div class="header-text">
+	      <h1>Mathematics & Statistics Tutoring</h1>
+	      <p class="header-subtitle">Empowering students through personalized learning experiences</p>
+	    </div>
+	    <img src="/assets/images/student.png" alt="Math Student Image" class="student-img">
+	  </div>
+          <!-- Dashboard Buttons -->
+          <div class="dashboard-buttons">
+                <button class="dashboard-btn btn-administrative" onclick="showDashboard('onboarding')" id="onboardingBtn">
+                    <i class="fas fa-user-plus btn-icon"></i>
+                    Onboarding
+                </button>
+		<button class="dashboard-btn btn-student" onclick="showDashboard('student')" id="studentBtn">
+                    <i class="fas fa-lock btn-icon" id="studentIcon"></i>
+                    <span id="studentBtnText">Student Dashboard</span>
+                </button>
+	       <!-- NEW: VLE / Learning Centre -->
+		<button class="dashboard-btn btn-learning" onclick="goToVLE(); updateDashboardButtons('vle');" id="vleBtn"> 
+		  <i class="fas fa-book btn-icon"></i>
+		  VLE / Learning Centre
+		</button>
+           </div>
+        </div>
+     </header>
+     
+    <!-- Session Display Area -->
+     <main class="session-display">
+        <div class="session-content">
+          <div id="defaultView" class="session-placeholder">
+            <!-- Student Menu Section-->
+                <section class="courses-offer" visibility="visible">
+		  <h2 class="courses-title">📚 Explore Our Courses</h2>
+		  <p class="courses-subtitle">Discover comprehensive learning paths designed to elevate your mathematical understanding and unlock your potential</p>
+        
+		  <div class="courses-grid">
+		    <!-- GCSE Mathematics -->
+		    <div class="course-card" onclick="flipCard(this)">
+                      <div class="course-front">
+			<div class="course-icon">📐</div>
+			<h3>GCSE Mathematics</h3>
+			<p>Build strong foundations with comprehensive coverage of core mathematical concepts essential for academic success.</p>
+			<div class="course-stats">
+                          <div class="stat-badge">Foundation Level</div>
+                          <div class="stat-badge">5 Modules</div>
+			</div>
+                      </div>
+                      <div class="course-back">
+			<h3>📐 GCSE Mathematics</h3>
+			<p>Aligned with AQA, Edexcel, OCR, CCEA, Eduqas, WJEC specifications, this course covers core GCSE topics to build strong mathematical foundations.</p>
+			<ul>
+                          <li>Algebra & Equations</li>
+                          <li>Geometry & Mensuration</li>
+                          <li>Probability & Statistics</li>
+                          <li>Trigonometry</li>
+                          <li>Number Systems</li>
+			</ul>
+			<a href="syllabus-gcse.pdf" class="btn-syllabus">
+                          📄 Download Syllabus
+			</a>
+                      </div>
+		    </div>
+		    
+		    <!-- A-Level Mathematics -->
+		    <div class="course-card" onclick="flipCard(this)">
+                      <div class="course-front">
+			<div class="course-icon">📊</div>
+			<h3>A-Level Mathematics</h3>
+			<p>Advanced mathematical concepts preparing students for university-level studies and professional applications.</p>
+			<div class="course-stats">
+                          <div class="stat-badge">Advanced Level</div>
+                          <div class="stat-badge">5 Modules</div>
+			</div>
+                      </div>
+                      <div class="course-back">
+			<h3>📊 A-Level Mathematics</h3>
+			<p>Prepare for university-level mathematics with in-depth exploration of advanced mathematical concepts and applications.</p>
+			<ul>
+                          <li>Advanced Algebra</li>
+                          <li>Differentiation & Integration</li>
+                          <li>Mechanics & Forces</li>
+                          <li>Statistics & Probability</li>
+                          <li>Vectors & Matrices</li>
+			</ul>
+			<a href="syllabus-alevel.pdf" class="btn-syllabus">
+                          📄 Download Syllabus
+			</a>
+                      </div>
+		    </div>
+
+		    <!-- University Mathematics & Statistics -->
+		    <div class="course-card" onclick="flipCard(this)">
+                      <div class="course-front">
+			<div class="course-icon">🎓</div>
+			<h3> University Mathematics & Statistics</h3>
+			<p>Master advanced mathematics and statistics for research, analysis, and professional applicationsin various fields.</p>
+			<div class="course-stats">
+                          <div class="stat-badge">Expert Level</div>
+                          <div class="stat-badge">10 Modules</div>
+			</div>
+                      </div>
+                      <div class="course-back">
+			<h2> 🎓 University</h2>
+			<h4>Mathematics & Statistics</h4>
+			<p>Master advanced mathematics and statistics for academic research and professional applications.</p>
+			<ul>
+			  <li>Linear Algebra & Programming</li>
+			  <li>Modeling, Numerical Methods & Optimization</li>
+			  <li> Calculus & Differential Equations</li>	                                                                             <li>Descriptive and Inferential Statistics</li>
+                          <li>Statistical Analysis & Modeling</li>
+                          <li>Machine Learning Fundamentals</li>
+			  <li>Regression and Time Series</li>
+			</ul>
+			<a href="syllabus-university.pdf" class="btn-syllabus">
+                          📄 Download Syllabus
+			</a>
+                      </div>
+		    </div>
+
+		    <!-- Advanced Computational Tools -->
+		    <div class="course-card" onclick="flipCard(this)">
+                      <div class="course-front">
+			<div class="course-icon">💻</div>
+			<h3>Advanced Computational Tools</h3>
+			<p>Enhance technical skills with cutting-edge computational tools for mathematics, statistics, and data science.</p>
+			<div class="course-stats">
+                          <div class="stat-badge">Professional</div>
+                          <div class="stat-badge">9 Modules</div>
+			</div>
+                      </div>
+                      <div class="course-back">
+			<h3>💻 Advanced Computational Tools</h3>
+			<p>Master industry-standard tools and programming languages essential for modern mathematical and statistical applications.</p>
+			<ul>
+                          <li>MATLAB & Python Programming</li>
+                          <li>SPSS & Data Analysis</li>
+                          <li>Machine Learning & AI</li>
+                          <li>Finite Element Methods</li>
+                          <li>Data Science & Pandas</li>
+                          <li>Mathematical Modeling and Optimization</li>
+			</ul>
+			<a href="syllabus-advanced.pdf" class="btn-syllabus">
+                          📄 Download Syllabus
+			</a>
+                      </div>
+		    </div>
+		  </div>
+		</section>		
+	  </div> <!-- session content -->
+
+         </div> <!-- default view -->
+
+
+     
+           <!--Onboarding container -->
+
+	   <div class="container">
+             <div id="onboarding" class="dashboard-section">
+               <!-- Welcome Section -->
+               <div class="session-active">
+                 <div class="welcome-section">
+                   <div class="status-badge status-new" id="statusBadge">New Tutor</div>
+                    <h2>🎉 Welcome to Math Learning Platform!</h2>
+                    <p class="session-description">
+                        We're excited to have you join our community of dedicated math educators. Let's get you set up to start helping students succeed and build your tutoring career!
+                    </p>
+                    <div class="progress-bar">
+                      <div class="progress-fill" id="progressFill" style="width: 25%"></div>
+                    </div>
+                   <p><strong>Profile Completion: <span id="progressText">25%</span></strong></p>
+                 </div> <!--welcome-section -->
+		 <div class="back-to-home">
+		   <button id="back-home-onboard" class="back-btn" onclick="hideAllDashboards()">← Back to Home</button>
+		 </div>
+               </div> <!--section active-->
+            
+                <!-- Onboarding Cards Grid -->
+                     
+               <div class="onboarding-container">
+            
+		 <!-- 1. Data Protection Agreement (Priority) -->
+		 <div class="card priority-card" id="agreementCard">
+                   <div class="card-header">
+                     <div class="card-icon">📋</div>
+                     <h3>Data Protection Agreement</h3>
+                   </div>
+                   <div class="status-indicator status-incomplete">
+                     <div class="status-dot"></div>
+                     <span>Pending Agreement</span>
+                   </div>
+                   <p>Review and accept our data protection policy and safeguarding terms. This ensures your privacy and safety on our platform.</p>
+                
+                   <div class="document-list">
+                     <div class="document-item">
+                       <div class="document-info">
+                         <i class="fas fa-shield-alt"></i>
+                         <span>Data Protection Policy</span>
+                       </div>
+                       <div class="document-status doc-pending">Pending</div>
+                     </div>
+                     <div class="document-item">
+                       <div class="document-info">
+                         <i class="fas fa-user-shield"></i>
+                         <span>Safeguarding Agreement</span>
+                       </div>
+                       <div class="document-status doc-pending">Required</div>
+                     </div>
+                   </div>
+                
+                   <div class="card-actions single-row">
+                     <button class="btn" onclick="reviewAgreement()">Review & Accept</button>
+                     <button class="btn btn-secondary" onclick="downloadPolicy()">Download PDF</button>
+                   </div>
+		 </div>
+
+		 <!-- 2. Student Profile -->
+		 <div class="card" id="profileCard">
+                   <div class="card-header">
+                     <div class="card-icon">👤</div>
+                     <h3>Academic Student Profile</h3>
+                   </div>	
+                   <div class="status-indicator status-incomplete">
+                     <div class="status-dot"></div>
+                     <span>Incomplete</span>
+                   </div>
+                   <p>Create your student profile with personal details, academic level, and learning preferences.</p>
+                
+                   <div class="upload-counter">
+                     <div class="counter-text">Profile: 0% Complete</div>
+                     <div class="counter-limit">Personal info, academic level, goals</div>
+                   </div>
+
+                   <div class="document-list">
+                     <div class="document-item">
+                       <div class="document-info">
+                         <i class="fas fa-user"></i>
+                         <span>Personal Details</span>
+                       </div>
+                       <div class="document-status doc-pending">Required</div>
+                     </div>
+                     <div class="document-item">
+                       <div class="document-info">
+                         <i class="fas fa-graduation-cap"></i>
+                         <span>Academic Level</span>
+                       </div>
+                       <div class="document-status doc-pending">Required</div>
+                     </div>
+                   </div>
+                
+                   <div class="card-actions single-row">
+                     <button class="btn" onclick="createProfile()">Create Profile</button>
+                     <button class="btn btn-secondary" onclick="viewSample()">View Sample</button>
+                   </div>
+		 </div>
+
+                 <!-- 3. Identity Verification -->
+		 <div class="card" id="identityCard">
+                   <div class="card-header">
+                     <div class="card-icon">🆔</div>
+                     <h3>Age Verification</h3>
+                   </div>
+                   <div class="status-indicator status-incomplete">
+                     <div class="status-dot"></div>
+                     <span>Not Verified</span>
+                   </div>
+                   <p>Verify your age to ensure appropriate tutor matching and comply with safeguarding requirements.</p>
+                   
+                   <div class="upload-counter">
+                     <div class="counter-text">Verification: Pending</div>
+                     <div class="counter-limit">ID document or parent consent required</div>
+                   </div>
+
+                   <div class="document-list">
+                     <div class="document-item">
+                       <div class="document-info">
+                         <i class="fas fa-id-card"></i>
+                         <span>Age Verification</span>
+                       </div>
+                       <div class="document-status doc-pending">Required</div>
+                     </div>
+                   </div>
+                
+                   <div class="card-actions single-row">
+                     <button class="btn" onclick="verifyAge()">Verify Age</button>
+                     <button class="btn btn-secondary" onclick="parentConsent()">Parent Consent</button>
+                   </div>
+		 </div>
+
+		 <!-- 4. Student Registration -->
+		 <div class="card" id="registrationCard">
+                   <div class="card-header">
+                     <div class="card-icon">📝</div>
+                     <h3>Course Registration</h3>
+                   </div>  
+                   <div class="status-indicator status-incomplete">
+                     <div class="status-dot"></div>
+                     <span>Not Started</span>
+                   </div>
+                   <p>Register for individual lessons or group sessions. Choose your subjects, frequency, and learning modality.</p>
+                
+                   <div class="upload-counter">
+                     <div class="counter-text">Registration: Pending</div>
+                     <div class="counter-limit">Individual or Group options available</div>
+                   </div>
+                
+                   <div class="card-actions single-row">
+                     <button class="btn" onclick="startRegistration()">Start Registration</button>
+                     <button class="btn btn-secondary" onclick="viewPricing()">View Pricing</button>
+                   </div>
+		 </div>
+
+		 <!-- 5. Subscription Plans -->
+		 <div class="card" id="subscriptionCard">
+                   <div class="card-header">
+                     <div class="card-icon">💳</div>
+                     <h3>Subscription Plans</h3>
+                   </div>
+                   <div class="status-indicator status-incomplete">
+                     <div class="status-dot"></div>
+                     <span>No Plan Selected</span>
+                   </div>
+                   <p>Choose from our flexible subscription plans with discounts up to 70% for group sessions and first class free!</p>
+                
+                   <div class="price-preview">
+                    <div class="price-text">First Class FREE!</div>
+                    <div class="price-subtitle">GCSE: £15-25/hr • A-Levels: £25-35/hr</div>
+                   </div>
+
+                   <ul class="feature-list">
+                     <li>Individual and group options</li>
+                     <li>Online and in-person sessions</li>
+                     <li>Flexible cancellation</li>
+                   </ul>
+                
+                   <div class="card-actions single-row">
+                     <button class="btn" onclick="choosePlan()">Choose Plan</button>
+                     <button class="btn btn-secondary" onclick="comparePlans()">Compare Plans</button>
+                   </div>
+		 </div>
+
+		 <!-- 6. Find Tutors & Schedule -->
+		 <div class="card" id="tutorCard">
+                   <div class="card-header">
+                     <div class="card-icon">👨‍🏫</div>
+                     <h3>Find Your Tutor</h3>
+                   </div>
+                   <div class="status-indicator status-complete">
+                     <div class="status-dot"></div>
+                     <span>Ready to Browse</span>
+                   </div>
+                   <p>Browse verified math tutors, view their profiles, and schedule your appointment. Find the perfect match for your learning style.</p>
+                
+                   <div class="upload-counter">
+                     <div class="counter-text">Available Tutors: 47</div>
+                     <div class="counter-limit">Verified professionals ready to help</div>
+                   </div>
+                   
+                   <div class="card-actions single-row">
+                     <button class="btn" onclick="browseTutors()">Browse Tutors</button>
+                     <button class="btn btn-secondary" onclick="scheduleDemo()">Book Demo</button>
+                   </div>
+		 </div>
+
+		 <!-- 7. Learning Resources -->
+		 <div class="card" id="resourcesCard">
+                   <div class="card-header">
+                     <div class="card-icon">📚</div>
+                     <h3>Learning Resources</h3>
+                   </div>
+                   <div class="status-indicator status-complete">
+                     <div class="status-dot"></div>
+                     <span>Available</span>
+                   </div>
+                   <p>Access study guides, practice materials, and learn how to use AI tools like ChatGPT effectively for your math studies.</p>
+                   
+                   <div class="document-list">
+                     <div class="document-item">
+                       <div class="document-info">
+                         <i class="fas fa-book"></i>
+                         <span>Study Guides</span>
+                       </div>
+                       <div class="document-status doc-approved">Available</div>
+                     </div>
+                     <div class="document-item">
+                       <div class="document-info">
+                         <i class="fas fa-robot"></i>
+                         <span>AI Learning Tools</span>
+                       </div>
+                       <div class="document-status doc-approved">Available</div>
+                     </div>
+                   </div>
+                   
+                   <div class="card-actions">
+                     <button class="btn" onclick="accessResources()">Access Resources</button>
+                   </div>
+		 </div>
+		 
+		 <!-- 8. Analytics Dashboard -->
+		 <div class="card" id="analyticsCard">
+                   <div class="card-header">
+                     <div class="card-icon">📊</div>
+                     <h3>Progress Tracking</h3>
+                   </div>
+                   <div class="status-indicator status-complete">
+                     <div class="status-dot"></div>
+                     <span>Ready</span>
+                   </div>
+                   <p>Track your learning progress, view session history, and monitor your improvement with detailed analytics and reports.</p>
+                
+                   <div class="upload-counter">
+                     <div class="counter-text">Dashboard: Ready</div>
+                     <div class="counter-limit">Progress tracking after first session</div>
+                   </div>
+                   
+                   <div class="card-actions">
+                     <button class="btn" onclick="viewProgress()">View Progress</button>
+                   </div>
+		 </div>
+
+		 <!-- 9. Premium Features -->
+		 <div class="card premium-card" id="premiumCard">
+                   <div class="card-header">
+                     <div class="card-icon">⭐</div>
+                     <h3>Premium Learning</h3>
+                   </div>
+                   <div class="status-indicator" style="background: linear-gradient(135deg, #fff3e0, #ffcc02); color: #ef6c00;">
+                     <div class="status-dot" style="background: #ff9800;"></div>
+                     <span>Upgrade Available</span>
+                   </div>
+                   <p>Unlock premium features including priority tutor selection, advanced analytics, and personalized learning paths.</p>
+                
+                   <div class="price-preview">
+                     <div class="price-text">£14.99/month</div>
+                     <div class="price-subtitle">7-day free trial • Cancel anytime</div>
+                   </div>
+		   
+                   <ul class="feature-list">
+                     <li>Priority tutor matching</li>
+                     <li>Advanced progress analytics</li>
+                     <li>Personalized study plans</li>
+                     <li>24/7 support access</li>
+                   </ul>
+                   
+                   <div class="card-actions single-row">
+                     <button class="btn" onclick="startPremiumTrial()">Start Free Trial</button>
+                     <button class="btn btn-secondary" onclick="viewPremiumDetails()">Learn More</button>
+                   </div>
+		 </div> <!-- card-header -->
+		 
+               </div> <!-- card-premium
+
+			   
+	       <!-- Data Protection Agreement Modal -->
+	       <div id="agreementModal" class="modal">
+		 <div class="modal-content">
+		   <span class="close" onclick="closeModal('agreementModal')">&times;</span>
+		   <h3>📋 Data Protection & Safeguarding Agreement</h3>
+            
+		   <div style="max-height: 300px; overflow-y: auto; border: 1px solid #ddd; padding: 15px; margin-bottom: 20px; background: #f9f9f9; border-radius: 8px;">
+                     <h4>Data Protection Policy</h4>
+                     <p>We are committed to protecting your personal information and privacy. This policy explains how we collect, use, and safeguard your data.</p>
+                
+                     <h4>What we collect:</h4>
+                     <ul>
+                       <li>Personal details (name, email, age)</li>
+                       <li>Academic information and learning preferences</li>
+                       <li>Session attendance and progress data</li>
+                       <li>Communication records with tutors</li>
+                     </ul>
+                
+                     <h4>Safeguarding Commitment:</h4>
+                     <ul>
+                       <li>All tutors are DBS checked and verified</li>
+                       <li>Session monitoring for safety compliance</li>
+                       <li>Immediate reporting of any concerns</li>
+                       <li>Parent/guardian access for under-18 students</li>
+                     </ul>
+		   </div>
+            
+		   <div class="form-group">
+                     <label>
+                       <input type="checkbox" id="agreeData" required>
+                       I have read and agree to the Data Protection Policy
+                     </label>
+		   </div>
+            
+		   <div class="form-group">
+                     <label>
+                       <input type="checkbox" id="agreeSafeguarding" required>
+                       I understand and accept the Safeguarding Terms
+                     </label>
+		   </div>
+            
+		   <div class="form-group">
+                     <label for="parentEmail">Parent/Guardian Email (if under 18):</label>
+                     <input type="email" id="parentEmail" placeholder="parent@example.com">
+		   </div>
+            
+		   <div style="display: flex; gap: 1rem; justify-content: flex-end; margin-top: 20px;">
+                     <button class="btn btn-secondary" onclick="closeModal('agreementModal')">Cancel</button>
+                     <button class="btn" onclick="acceptAgreement()">Accept Agreement</button>
+		   </div>
+		 </div>
+	       </div>
+
+               <!-- Student Registration Modal -->
+	       <div id="registrationModal" class="modal">
+		 <div class="modal-content">
+		   <span class="close" onclick="closeModal('registrationModal')">&times;</span>
+		   <h3>📝 Student Registration Form</h3>
+		   
+		   <div class="form-group">
+                     <label for="fullName">Full Name:</label>
+                     <input type="text" id="fullName" required>
+		   </div>
+            
+		   <div class="form-group">
+                     <label for="email">Email:</label>
+                     <input type="email" id="email" required>
+		   </div>
+            
+		   <div class="form-group">
+                     <label for="phone">Phone:</label>
+                     <input type="tel" id="phone" required>
+		   </div>
+            
+		   <div class="form-group">
+                     <label for="educationLevel">Education Level:</label>
+                     <select id="educationLevel" required>
+                       <option value="">Select level...</option>
+                       <option value="gcse">GCSE</option>
+                       <option value="a-level">A-Level</option>
+                       <option value="university">University</option>
+                       <option value="professional">Professional</option>
+                     </select>
+		   </div>
+            
+		   <div class="form-group">
+                     <label id="subjectsLabel">Subjects Needed:</label>
+                     <div class="check-group" >
+                       <label><input type="checkbox" value="algebra"> Algebra</label>
+                       <label><input type="checkbox" value="calculus"> Calculus</label>
+                       <label><input type="checkbox" value="statistics"> Statistics</label>
+                       <label><input type="checkbox" value="geometry"> Geometry</label>
+                       <label><input type="checkbox" value="trigonometry"> Trigonometry</label>
+                       <label><input type="checkbox" value="other"> Other</label>
+                     </div>
+		   </div>
+            
+		   <div class="form-group">
+                     <label for="frequency">Lessons per Week:</label>
+                     <select id="frequency" required>
+                       <option value="">Select frequency...</option>
+                       <option value="1">1 lesson/week</option>
+                       <option value="2">2 lessons/week</option>
+                       <option value="3">3 lessons/week</option>
+                       <option value="more">More than 3</option>
+                     </select>
+		   </div>
+            
+		   <div class="form-group">
+                     <label>Preferred Modality:</label>
+                     <div class="checkbox-group">
+                       <label><input type="radio" name="modality" value="online"> Online</label>
+                       <label><input type="radio" name="modality" value="presencial"> In-Person</label>
+                       <label><input type="radio" name="modality" value="home"> At Home</label>
+                       <label><input type="radio" name="modality" value="combined"> Combined</label>
+                     </div>
+		   </div>
+            
+		   <div class="form-group">
+                     <label>How did you find us?:</label>
+                     <div class="checkbox-group">
+                       <label><input type="checkbox" value="google"> Google</label>
+                       <label><input type="checkbox" value="social"> Social Media</label>
+                       <label><input type="checkbox" value="youtube"> YouTube</label>
+                       <label><input type="checkbox" value="friend"> Friend/Family</label>
+                       <label><input type="checkbox" value="school"> School</label>
+                       <label><input type="checkbox" value="other"> Other</label>
+                     </div>
+		   </div>
+            
+		   <div style="display: flex; gap: 1rem; justify-content: flex-end; margin-top: 20px;">
+                     <button class="btn btn-secondary" onclick="closeModal('registrationModal')">Save Draft</button>
+                     <button class="btn" onclick="submitRegistration()">Complete Registration</button>
+		   </div>
+		 </div>
+	       </div>
+
+	       <!-- Premium Features Modal -->
+	       <div id="premiumModal" class="modal">
+		 <div class="modal-content">
+		   <span class="close" onclick="closeModal('premiumModal')">&times;</span>
+		   <h3>⭐ Premium Learning Benefits</h3>
+            
+		   <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px; margin: 20px 0;">
+                     <div>
+                       <h4>🎯 Priority Matching</h4>
+                       <ul style="list-style: none; padding: 0;">
+                         <li>✓ First choice of top-rated tutors</li>
+                         <li>✓ Faster response times</li>
+                         <li>✓ Premium tutor recommendations</li>
+                         <li>✓ Guaranteed tutor availability</li>
+                       </ul>
+                     </div>
+                     
+                     <div>
+                       <h4>📊 Advanced Analytics</h4>
+                       <ul style="list-style: none; padding: 0;">
+                         <li>✓ Detailed progress tracking</li>
+                         <li>✓ Performance predictions</li>
+                         <li>✓ Personalized study recommendations</li>
+                         <li>✓ Parent progress reports</li>
+                       </ul>
+                     </div>
+                
+                     <div>
+                       <h4>🎓 Learning Enhancement</h4>
+                       <ul style="list-style: none; padding: 0;">
+                         <li>✓ Personalized study plans</li>
+                         <li>✓ AI-powered practice questions</li>
+                         <li>✓ Exam preparation materials</li>
+                         <li>✓ Video lesson library</li>
+                       </ul>
+                     </div>
+                
+                     <div>
+                       <h4>🚀 Premium Support</h4>
+                       <ul style="list-style: none; padding: 0;">
+                         <li>✓ 24/7 chat support</li>
+                         <li>✓ Priority customer service</li>
+                         <li>✓ Emergency session booking</li>
+                         <li>✓ Flexible cancellation policy</li>
+                       </ul>
+                     </div>
+		   </div>
+            
+		   <div style="background: #f8f9fa; padding: 15px; border-radius: 8px; margin: 20px 0; text-align: center;">
+                     <h4>🎉 Student Special Offer</h4>
+                     <p><strong>7-day free trial</strong> • Then £14.99/month • Cancel anytime</p>
+                     <p style="font-size: 0.9rem; color: #666;">Premium students show 65% faster improvement rates</p>
+		   </div>
+            
+		   <div style="display: flex; gap: 1rem; justify-content: center; margin-top: 20px;">
+                     <button class="btn" onclick="activatePremium()">Start Free Trial</button>
+                     <button class="btn btn-secondary" onclick="closeModal('premiumModal')">Maybe Later</button>
+		   </div>
+		 </div>
+	       </div> 	       <!--End Onboarding Cards Grid -->
+
+	       <!-- Loading Spinner -->
+	       <div class="loading-spinner" id="loadingSpinner">
+		 <div class="spinner"></div>
+		 <p style="color: white; margin-top: 1rem;">Processing...</p>
+	       </div>
+	       
+             </div> <!-- onboarding cards container -->
+           </div> <!-- onboarding session-->
+ 
+
+
+    <!--STUDENT-DASHBOARD -->
+    <div id="student" class="dashboard-section">
+      <div class="session-active">
+        <div class="status-badge status-new" id="statusBadgeTutor">Active Student</div>
+          <h2>🎉 Welcome to the Math Learning Dashboard</h2>
+          <p class="session-description">
+            Access your tutoring sessions, student progress tracking, lesson plans, 
+            and teaching resources. Monitor student performance and manage your 
+            tutoring schedule effectively.
+	  </p>
+	  <div style="margin-top: 30px;">
+            <i class="fas fa-graduation-cap" style="font-size: 2rem; color: #43e97b;"></i>
+	  </div>
+	  <div class="back-to-student">
+	    <button id="back-home-student" class="back-btn" onclick="hideAllDashboards()">>← Back to Home</button>
+	  </div>
+      </div> <!-- session-active -->
+
+  
+      <!-- Loading Spinner -->
+      <div class="loading-spinner" id="loadingSpinner">
+        <div class="spinner"></div>
+        <p style="margin-top: 1rem; color: #666;">Loading...</p>
+      </div>
+
+      <!-- Toast Container -->
+      <div class="toast-container" id="toastContainer"></div>
+
+      <!--Container-->
+
+              <div class="dashboard-container">
+            <!-- Enhanced Sidebar -->
+            <div class="sidebar" id="sidebar">
+                <button class="sidebar-close" onclick="closeSidebar()">✕</button>
+                
+                <div class="student-profile">
+                    <div class="student-avatar">
+                        RM
+                        <div class="online-indicator"></div>
+                    </div>
+                    <div class="student-name">Rachel Martinez</div>
+                    <div class="student-status">
+                        ✓ Active Student
+                    </div>
+                </div>
+
+                <div class="tutor-section">
+                    <div class="section-header">
+                        <h3 class="section-title">👨‍🏫 My Tutors</h3>
+                        <div class="filter-dropdown">
+                            <button class="filter-btn" onclick="toggleFilter()">Filter ▼</button>
+                        </div>
+                    </div>
+                    
+                    <div id="tutorsList">
+                        <div class="tutor-card active" onclick="selectTutor(this, 'Dr. Smith')">
+                            <div style="display: flex; align-items: center; gap: 0.8rem;">
+                                <div style="width: 40px; height: 40px; border-radius: 50%; background: linear-gradient(45deg, #4CAF50, #45a049); color: white; display: flex; align-items: center; justify-content: center; font-weight: bold;">DS</div>
+                                <div>
+                                    <div style="font-weight: 600;">Dr. Smith</div>
+                                    <div style="font-size: 0.8rem; color: #666;">Mathematics</div>
+                                    <div style="font-size: 0.7rem; color: #4CAF50;">⭐ 4.9 • Next: Today 3PM</div>
+                                </div>
+                            </div>
+                        </div>
+                        
+                        <div class="tutor-card" onclick="selectTutor(this, 'Ms. Johnson')">
+                            <div style="display: flex; align-items: center; gap: 0.8rem;">
+                                <div style="width: 40px; height: 40px; border-radius: 50%; background: linear-gradient(45deg, #2196F3, #1976D2); color: white; display: flex; align-items: center; justify-content: center; font-weight: bold;">MJ</div>
+                                <div>
+                                    <div style="font-weight: 600;">Ms. Johnson</div>
+                                    <div style="font-size: 0.8rem; color: #666;">English Literature</div>
+                                    <div style="font-size: 0.7rem; color: #4CAF50;">⭐ 4.8 • Next: Tomorrow 2PM</div>
+                                </div>
+                            </div>
+                        </div>
+                        
+                        <div class="tutor-card" onclick="selectTutor(this, 'Prof. Garcia')">
+                            <div style="display: flex; align-items: center; gap: 0.8rem;">
+                                <div style="width: 40px; height: 40px; border-radius: 50%; background: linear-gradient(45deg, #FF9800, #F57C00); color: white; display: flex; align-items: center; justify-content: center; font-weight: bold;">PG</div>
+                                <div>
+                                    <div style="font-weight: 600;">Prof. Garcia</div>
+                                    <div style="font-size: 0.8rem; color: #666;">Chemistry</div>
+                                    <div style="font-size: 0.7rem; color: #4CAF50;">⭐ 4.9 • Next: Wed 4PM</div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+	    
+	    <!-- Mobile Menu Toggle Button -->
+        <button class="mobile-menu-toggle" onclick="toggleSidebar()" style="display: none; position: fixed; top: 1rem; left: 1rem; z-index: 1000; background: rgba(255,255,255,0.9); border: none; padding: 0.5rem; border-radius: 6px; cursor: pointer;">
+            ☰
+        </button>
+
+
+            <!-- Enhanced Main Content -->
+            <div class="main-content">
+                <!-- Welcome Header -->
+                <div class="welcome-header fade-in">
+                    <div class="welcome-text">
+                        <h1>🎓 Student Learning Dashboard</h1>
+                        <p>Welcome back, Rachel! Here's your learning overview for today.</p>
+                    </div>
+                    
+                    <div class="quick-stats">
+                        <div class="stat-card slide-up">
+                            <div class="stat-number" id="activeTutors">3</div>
+                            <div class="stat-label">Active Tutors</div>
+                            <div class="stat-trend trend-up">↗ +1 this month</div>
+                        </div>
+                        <div class="stat-card slide-up">
+                            <div class="stat-number" id="completedSessions">47</div>
+                            <div class="stat-label">Completed Sessions</div>
+                            <div class="stat-trend trend-up">↗ +5 this week</div>
+                        </div>
+                        <div class="stat-card slide-up">
+                            <div class="stat-number" id="averageGrade">B+</div>
+                            <div class="stat-label">Average Grade</div>
+                            <div class="stat-trend trend-up">↗ Improved from B</div>
+                        </div>
+                        <div class="stat-card slide-up">
+                            <div class="stat-number" id="studyHours">28h</div>
+                            <div class="stat-label">Study Hours This Month</div>
+                            <div class="stat-trend trend-up">↗ +6h vs last month</div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Enhanced Navigation Tabs -->
+                <div class="nav-tabs">
+                    <button class="nav-tab active" onclick="switchTab('sessions')">
+                        📅 My Sessions
+                    </button>
+                    <button class="nav-tab" onclick="switchTab('progress')">
+                        📈 Progress
+                    </button>
+                    <button class="nav-tab" onclick="switchTab('assignments')">
+                        📝 Assignments
+                    </button>
+                    <button class="nav-tab" onclick="switchTab('messages')">
+                        💬 Messages
+                    </button>
+                    <button class="nav-tab" onclick="switchTab('billing')">
+                        💳 Payments
+                    </button>
+                </div>
+
+                <!-- Sessions Tab -->
+                <div id="sessions" class="tab-content">
+                    <div class="content-card">
+                        <div class="card-header">
+                            <h2 class="card-title">📅 My Tutoring Sessions</h2>
+                            <div class="card-actions">
+                                <button class="action-btn secondary" onclick="exportSessions()">
+                                    📊 Export
+                                </button>
+                                <button class="action-btn" onclick="bookSession()">
+                                    ➕ Book Session
+                                </button>
+                            </div>
+                        </div>
+                        
+                        <div style="margin: 1rem 2rem; display: flex; gap: 1rem; align-items: center;">
+                            <select id="sessionFilter" onchange="filterSessions()" style="padding: 0.5rem; border-radius: 6px; border: 1px solid #ddd;">
+                                <option value="all">All Sessions</option>
+                                <option value="upcoming">Upcoming</option>
+                                <option value="completed">Completed</option>
+                                <option value="cancelled">Cancelled</option>
+                            </select>
+                            <input type="date" id="dateFilter" onchange="filterSessions()" style="padding: 0.5rem; border-radius: 6px; border: 1px solid #ddd;">
+                        </div>
+                        
+                        <table class="enhanced-table" id="sessionsTable">
+                            <thead>
+                                <tr>
+                                    <th>Tutor</th>
+                                    <th>Subject</th>
+                                    <th>Date & Time</th>
+                                    <th>Duration</th>
+                                    <th>Cost</th>
+                                    <th>Status</th>
+                                    <th>Materials</th>
+                                    <th>Actions</th>
+                                </tr>
+                            </thead>
+                            <tbody id="sessionsTableBody">
+                                <tr>
+                                    <td>
+                                        <div style="display: flex; align-items: center; gap: 0.5rem;">
+                                            <div style="width: 30px; height: 30px; border-radius: 50%; background: linear-gradient(45deg, #4CAF50, #45a049); color: white; display: flex; align-items: center; justify-content: center; font-size: 0.8rem; font-weight: bold;">DS</div>
+                                            Dr. Smith
+                                        </div>
+                                    </td>
+                                    <td>Algebra II</td>
+                                    <td>Today, 3:00 PM</td>
+                                    <td>60 min</td>
+                                    <td>$45</td>
+                                    <td><span class="status-badge-sm status-scheduled">Upcoming</span></td>
+                                    <td><i class="fas fa-file-pdf" style="color: #f44336;"></i> Notes</td>
+                                    <td>
+                                        <button class="action-btn" style="padding: 0.3rem 0.8rem; font-size: 0.8rem;" onclick="joinSession()">Join</button>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <div style="display: flex; align-items: center; gap: 0.5rem;">
+                                            <div style="width: 30px; height: 30px; border-radius: 50%; background: linear-gradient(45deg, #2196F3, #1976D2); color: white; display: flex; align-items: center; justify-content: center; font-size: 0.8rem; font-weight: bold;">MJ</div>
+                                            Ms. Johnson
+                                        </div>
+                                    </td>
+                                    <td>Essay Writing</td>
+                                    <td>Yesterday, 2:00 PM</td>
+                                    <td>90 min</td>
+                                    <td>$90</td>
+                                    <td><span class="status-badge-sm status-completed">Completed</span></td>
+                                    <td><i class="fas fa-file-word" style="color: #2196F3;"></i> Essay</td>
+                                    <td>
+                                        <button class="action-btn secondary" style="padding: 0.3rem 0.8rem; font-size: 0.8rem;" onclick="viewRecording()">Review</button>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <div style="display: flex; align-items: center; gap: 0.5rem;">
+                                            <div style="width: 30px; height: 30px; border-radius: 50%; background: linear-gradient(45deg, #FF9800, #F57C00); color: white; display: flex; align-items: center; justify-content: center; font-size: 0.8rem; font-weight: bold;">PG</div>
+                                            Prof. Garcia
+                                        </div>
+                                    </td>
+                                    <td>Organic Chemistry</td>
+                                    <td>Wed, 4:00 PM</td>
+                                    <td>60 min</td>
+                                    <td>$50</td>
+                                    <td><span class="status-badge-sm status-scheduled">Upcoming</span></td>
+                                    <td><i class="fas fa-flask" style="color: #FF9800;"></i> Lab</td>
+                                    <td>
+                                        <button class="action-btn secondary" style="padding: 0.3rem 0.8rem; font-size: 0.8rem;" onclick="reschedule()">Reschedule</button>
+                                    </td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+
+                <!-- Progress Tab -->
+                <div id="progress" class="tab-content hidden">
+                    <div class="content-card">
+                        <div class="card-header">
+                            <h2 class="card-title">📈 My Learning Progress</h2>
+                            <div class="card-actions">
+                                <button class="action-btn secondary" onclick="downloadReport()">
+                                    📋 Download Report
+                                </button>
+                            </div>
+                        </div>
+                        
+                        <div style="padding: 2rem;">
+                            <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 2rem; margin-bottom: 2rem;">
+                                <!-- Subject Progress Cards -->
+                                <div style="background: linear-gradient(45deg, rgba(76, 175, 80, 0.1), rgba(69, 160, 73, 0.1)); border-radius: 12px; padding: 2rem; border-left: 4px solid #4CAF50;">
+                                    <h3 style="color: #4CAF50; margin-bottom: 1rem;">📊 Mathematics</h3>
+                                    <div style="margin-bottom: 1rem;">
+                                        <div style="display: flex; justify-content: space-between; margin-bottom: 0.5rem;">
+                                            <span>Progress</span>
+                                            <span style="font-weight: bold;">78%</span>
+                                        </div>
+                                        <div style="background: #e0e0e0; height: 8px; border-radius: 4px;">
+                                            <div style="background: #4CAF50; height: 100%; width: 78%; border-radius: 4px;"></div>
+                                        </div>
+                                    </div>
+                                    <div style="font-size: 0.9rem; color: #666;">
+                                        <div style="margin-bottom: 0.3rem;">Current Grade: <strong>B+</strong></div>
+                                        <div style="margin-bottom: 0.3rem;">Sessions: 18 completed</div>
+                                        <div>Next Topic: Quadratic Equations</div>
+                                    </div>
+                                </div>
+                                
+                                <div style="background: linear-gradient(45deg, rgba(33, 150, 243, 0.1), rgba(25, 118, 210, 0.1)); border-radius: 12px; padding: 2rem; border-left: 4px solid #2196F3;">
+                                    <h3 style="color: #2196F3; margin-bottom: 1rem;">📚 English Literature</h3>
+                                    <div style="margin-bottom: 1rem;">
+                                        <div style="display: flex; justify-content: space-between; margin-bottom: 0.5rem;">
+                                            <span>Progress</span>
+                                            <span style="font-weight: bold;">85%</span>
+                                        </div>
+                                        <div style="background: #e0e0e0; height: 8px; border-radius: 4px;">
+                                            <div style="background: #2196F3; height: 100%; width: 85%; border-radius: 4px;"></div>
+                                        </div>
+                                    </div>
+                                    <div style="font-size: 0.9rem; color: #666;">
+                                        <div style="margin-bottom: 0.3rem;">Current Grade: <strong>A-</strong></div>
+                                        <div style="margin-bottom: 0.3rem;">Sessions: 15 completed</div>
+                                        <div>Next Topic: Shakespeare Analysis</div>
+                                    </div>
+                                </div>
+                                
+                                <div style="background: linear-gradient(45deg, rgba(255, 152, 0, 0.1), rgba(245, 124, 0, 0.1)); border-radius: 12px; padding: 2rem; border-left: 4px solid #FF9800;">
+                                    <h3 style="color: #FF9800; margin-bottom: 1rem;">🧪 Chemistry</h3>
+                                    <div style="margin-bottom: 1rem;">
+                                        <div style="display: flex; justify-content: space-between; margin-bottom: 0.5rem;">
+                                            <span>Progress</span>
+                                            <span style="font-weight: bold;">62%</span>
+                                        </div>
+                                        <div style="background: #e0e0e0; height: 8px; border-radius: 4px;">
+                                            <div style="background: #FF9800; height: 100%; width: 62%; border-radius: 4px;"></div>
+                                        </div>
+                                    </div>
+                                    <div style="font-size: 0.9rem; color: #666;">
+                                        <div style="margin-bottom: 0.3rem;">Current Grade: <strong>B</strong></div>
+                                        <div style="margin-bottom: 0.3rem;">Sessions: 14 completed</div>
+                                        <div>Next Topic: Organic Compounds</div>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            <!-- Study Goals -->
+                            <div style="background: white; padding: 2rem; border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.05); margin-bottom: 2rem;">
+                                <h3 style="margin-bottom: 1.5rem; color: #333;">🎯 Study Goals</h3>
+                                <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 1.5rem;">
+                                    <div style="padding: 1.5rem; border: 1px solid #e0e0e0; border-radius: 8px; background: #f8f9fa;">
+                                        <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 1rem;">
+                                            <h4 style="color: #4CAF50;">Weekly Study Hours</h4>
+                                            <span style="color: #4CAF50; font-size: 1.2rem;">✓</span>
+                                        </div>
+                                        <div style="font-size: 2rem; font-weight: bold; color: #4CAF50; margin-bottom: 0.5rem;">12/10</div>
+                                        <p style="color: #666; font-size: 0.9rem;">Great job! You've exceeded your weekly study goal.</p>
+                                    </div>
+                                    
+                                    <div style="padding: 1.5rem; border: 1px solid #e0e0e0; border-radius: 8px;">
+                                        <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 1rem;">
+                                            <h4 style="color: #FF9800;">Homework Completion</h4>
+                                            <span style="color: #FF9800; font-size: 1.2rem;">⏳</span>
+                                        </div>
+                                        <div style="font-size: 2rem; font-weight: bold; color: #FF9800; margin-bottom: 0.5rem;">7/10</div>
+                                        <p style="color: #666; font-size: 0.9rem;">3 assignments pending. Keep it up!</p>
+                                    </div>
+                                    
+                                    <div style="padding: 1.5rem; border: 1px solid #e0e0e0; border-radius: 8px;">
+                                        <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 1rem;">
+                                            <h4 style="color: #2196F3;">Test Preparation</h4>
+                                            <span style="color: #2196F3; font-size: 1.2rem;">📚</span>
+                                        </div>
+                                        <div style="font-size: 2rem; font-weight: bold; color: #2196F3; margin-bottom: 0.5rem;">85%</div>
+                                        <p style="color: #666; font-size: 0.9rem;">Math test next Friday - well prepared!</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Assignments Tab -->
+                <div id="assignments" class="tab-content hidden">
+                    <div class="content-card">
+                        <div class="card-header">
+                            <h2 class="card-title">📝 My Assignments</h2>
+                            <div class="card-actions">
+                                <button class="action-btn secondary" onclick="filterAssignments()">
+                                    📊 Filter
+                                </button>
+                                <button class="action-btn" onclick="uploadAssignment()">
+                                    📤 Upload Work
+                                </button>
+                            </div>
+                        </div>
+                        
+                        <div style="padding: 2rem;">
+                            <div style="margin-bottom: 2rem; display: flex; gap: 1rem; align-items: center;">
+                                <select id="assignmentFilter" style="padding: 0.5rem; border-radius: 6px; border: 1px solid #ddd;">
+                                    <option value="all">All Assignments</option>
+                                    <option value="pending">Pending</option>
+                                    <option value="submitted">Submitted</option>
+                                    <option value="graded">Graded</option>
+                                    <option value="overdue">Overdue</option>
+                                </select>
+                                <select id="subjectFilter" style="padding: 0.5rem; border-radius: 6px; border: 1px solid #ddd;">
+                                    <option value="all">All Subjects</option>
+                                    <option value="math">Mathematics</option>
+                                    <option value="english">English</option>
+                                    <option value="chemistry">Chemistry</option>
+                                </select>
+                            </div>
+                            
+                            <!-- Assignment Cards -->
+                            <div style="display: grid; gap: 1.5rem;">
+                                <!-- Pending Assignment -->
+                                <div style="border: 1px solid #e0e0e0; border-radius: 12px; padding: 1.5rem; background: white; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+                                    <div style="display: flex; justify-content: space-between; align-items: start; margin-bottom: 1rem;">
+                                        <div>
+                                            <h4 style="color: #333; margin-bottom: 0.5rem;">📊 Quadratic Equations Problem Set</h4>
+                                            <div style="display: flex; align-items: center; gap: 1rem; font-size: 0.9rem; color: #666;">
+                                                <span>📚 Mathematics</span>
+                                                <span>👨‍🏫 Dr. Smith</span>
+                                                <span>📅 Due: Tomorrow 11:59 PM</span>
+                                            </div>
+                                        </div>
+                                        <span style="background: #ffebee; color: #c62828; padding: 0.3rem 0.8rem; border-radius: 15px; font-size: 0.8rem; font-weight: 500;">Urgent</span>
+                                    </div>
+                                    <p style="color: #666; margin-bottom: 1rem; line-height: 1.5;">Complete problems 1-20 from Chapter 8. Show all work and include graphs for problems 15-20.</p>
+                                    <div style="display: flex; justify-content: space-between; align-items: center;">
+                                        <div style="font-size: 0.9rem; color: #666;">
+                                            <span>Progress: </span>
+                                            <div style="display: inline-block; width: 100px; height: 6px; background: #e0e0e0; border-radius: 3px; margin: 0 0.5rem;">
+                                                <div style="width: 60%; height: 100%; background: #FF9800; border-radius: 3px;"></div>
+                                            </div>
+                                            <span>60%</span>
+                                        </div>
+                                        <div style="display: flex; gap: 0.5rem;">
+                                            <button class="action-btn secondary" style="padding: 0.5rem 1rem; font-size: 0.8rem;">View Details</button>
+                                            <button class="action-btn" style="padding: 0.5rem 1rem; font-size: 0.8rem;">Continue Work</button>
+                                        </div>
+                                    </div>
+                                </div>
+                                
+                                <!-- Submitted Assignment -->
+                                <div style="border: 1px solid #e0e0e0; border-radius: 12px; padding: 1.5rem; background: white; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+                                    <div style="display: flex; justify-content: space-between; align-items: start; margin-bottom: 1rem;">
+                                        <div>
+                                            <h4 style="color: #333; margin-bottom: 0.5rem;">📖 Character Analysis Essay</h4>
+                                            <div style="display: flex; align-items: center; gap: 1rem; font-size: 0.9rem; color: #666;">
+                                                <span>📚 English Literature</span>
+                                                <span>👩‍🏫 Ms. Johnson</span>
+                                                <span>📅 Submitted: 2 days ago</span>
+                                            </div>
+                                        </div>
+                                        <span style="background: #e3f2fd; color: #1976d2; padding: 0.3rem 0.8rem; border-radius: 15px; font-size: 0.8rem; font-weight: 500;">Submitted</span>
+                                    </div>
+                                    <p style="color: #666; margin-bottom: 1rem; line-height: 1.5;">Analysis of Hamlet's character development throughout the play. Include textual evidence and quotes.</p>
+                                    <div style="display: flex; justify-content: space-between; align-items: center;">
+                                        <div style="font-size: 0.9rem; color: #666;">
+                                            <span>📄 essay.docx</span>
+                                            <span style="margin-left: 1rem;">✓ Submitted on time</span>
+                                        </div>
+                                        <div style="display: flex; gap: 0.5rem;">
+                                            <button class="action-btn secondary" style="padding: 0.5rem 1rem; font-size: 0.8rem;">View Submission</button>
+                                            <button class="action-btn secondary" style="padding: 0.5rem 1rem; font-size: 0.8rem;">Download</button>
+                                        </div>
+                                    </div>
+                                </div>
+                                
+                                <!-- Graded Assignment -->
+                                <div style="border: 1px solid #e0e0e0; border-radius: 12px; padding: 1.5rem; background: white; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+                                    <div style="display: flex; justify-content: space-between; align-items: start; margin-bottom: 1rem;">
+                                        <div>
+                                            <h4 style="color: #333; margin-bottom: 0.5rem;">🧪 Molecular Structure Lab Report</h4>
+                                            <div style="display: flex; align-items: center; gap: 1rem; font-size: 0.9rem; color: #666;">
+                                                <span>📚 Chemistry</span>
+                                                <span>👨‍🏫 Prof. Garcia</span>
+                                                <span>📅 Graded: 1 week ago</span>
+                                            </div>
+                                        </div>
+                                        <div style="display: flex; align-items: center; gap: 0.5rem;">
+                                            <span style="background: #e8f5e8; color: #2e7d32; padding: 0.3rem 0.8rem; border-radius: 15px; font-size: 0.8rem; font-weight: 500;">Graded</span>
+                                            <span style="background: #4CAF50; color: white; padding: 0.3rem 0.8rem; border-radius: 15px; font-size: 0.8rem; font-weight: bold;">A-</span>
+                                        </div>
+                                    </div>
+                                    <p style="color: #666; margin-bottom: 1rem; line-height: 1.5;">Lab report on molecular structure experiments including data analysis and conclusions.</p>
+                                    <div style="display: flex; justify-content: space-between; align-items: center;">
+                                        <div style="font-size: 0.9rem; color: #4CAF50;">
+                                            <span>🎉 Grade: A- (92%)</span>
+                                            <span style="margin-left: 1rem;">💬 Feedback available</span>
+                                        </div>
+                                        <div style="display: flex; gap: 0.5rem;">
+                                            <button class="action-btn secondary" style="padding: 0.5rem 1rem; font-size: 0.8rem;">View Feedback</button>
+                                            <button class="action-btn secondary" style="padding: 0.5rem 1rem; font-size: 0.8rem;">Download</button>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Messages Tab -->
+                <div id="messages" class="tab-content hidden">
+                    <div class="content-card">
+                        <div class="card-header">
+                            <h2 class="card-title">💬 Messages with Tutors</h2>
+                            <div class="card-actions">
+                                <button class="action-btn secondary" onclick="markAllRead()">
+                                    ✓ Mark All Read
+                                </button>
+                            </div>
+                        </div>
+                        
+                        <div class="chat-container">
+                            <div class="chat-header">
+                                <div class="chat-user-info">
+                                    <div class="chat-avatar" id="chatAvatar">DS</div>
+                                    <div>
+                                        <div id="chatUserName">Dr. Smith</div>
+                                        <div class="chat-status" id="chatStatus">🟢 Online</div>
+                                    </div>
+                                </div>
+                                <select id="tutorChatSelect" onchange="loadTutorChat()" style="padding: 0.5rem; border-radius: 6px; border: none; background: rgba(255,255,255,0.2); color: white;">
+                                    <option value="dr-smith">Dr. Smith</option>
+                                    <option value="ms-johnson">Ms. Johnson</option>
+                                    <option value="prof-garcia">Prof. Garcia</option>
+                                </select>
+                            </div>
+                            
+                            <div class="chat-messages" id="chatMessages">
+                                <div class="message received">
+                                    <div><strong>Dr. Smith:</strong> Hi Rachel! Don't forget about tomorrow's session at 3 PM. We'll be working on quadratic equations.</div>
+                                    <div class="message-time">2 hours ago</div>
+                                </div>
+                                <div class="message sent">
+                                    <div><strong>You:</strong> Perfect! I've been practicing the problems you assigned. Should I bring my graphing calculator?</div>
+                                    <div class="message-time">1 hour ago</div>
+                                </div>
+                                <div class="message received">
+                                    <div><strong>Dr. Smith:</strong> Yes, definitely bring your graphing calculator. We'll use it for the graphing portion. See you tomorrow!</div>
+                                    <div class="message-time">45 minutes ago</div>
+                                </div>
+                            </div>
+                            
+                            <div class="chat-input">
+                                <input type="text" id="messageInput" placeholder="Type your message..." maxlength="500">
+                                <button class="send-btn" onclick="sendMessage()" id="sendBtn">
+                                    Send 📤
+                                </button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Billing Tab -->
+                <div id="billing" class="tab-content hidden">
+                    <div class="content-card">
+                        <div class="card-header">
+                            <h2 class="card-title">💳 Payment & Billing</h2>
+                            <div class="card-actions">
+                                <button class="action-btn secondary" onclick="downloadInvoices()">
+                                    📄 Download Invoices
+                                </button>
+                                <button class="action-btn" onclick="addPaymentMethod()">
+                                    💳 Add Payment Method
+                                </button>
+                            </div>
+                        </div>
+                        
+                        <div style="padding: 2rem;">
+                            <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 2rem; margin-bottom: 2rem;">
+                                <!-- Payment Overview -->
+                                <div style="background: white; padding: 2rem; border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.1);">
+                                    <h3 style="margin-bottom: 1.5rem; color: #333;">💰 Payment Overview</h3>
+                                    <div>
+                                        <div style="display: flex; justify-content: space-between; margin-bottom: 0.8rem; padding-bottom: 0.5rem; border-bottom: 1px solid #f0f0f0;">
+                                            <span>This Month:</span>
+                                            <strong style="color: #f44336;">$485</strong>
+                                        </div>
+                                        <div style="display: flex; justify-content: space-between; margin-bottom: 0.8rem; padding-bottom: 0.5rem; border-bottom: 1px solid #f0f0f0;">
+                                            <span>Pending Charges:</span>
+                                            <strong style="color: #ff9800;">$135</strong>
+                                        </div>
+                                        <div style="display: flex; justify-content: space-between; margin-bottom: 0.8rem; padding-bottom: 0.5rem; border-bottom: 1px solid #f0f0f0;">
+                                            <span>Next Payment:</span>
+                                            <strong style="color: #2196F3;">Aug 15</strong>
+                                        </div>
+                                        <div style="display: flex; justify-content: space-between; margin-bottom: 0.8rem; padding: 0.8rem 0; border-top: 2px solid #4CAF50; background: rgba(76, 175, 80, 0.1);">
+                                            <span><strong>Credit Balance:</strong></span>
+                                            <strong style="color: #4CAF50; font-size: 1.2rem;">$50</strong>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <!-- Payment Methods -->
+                                <div style="background: white; padding: 2rem; border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.1);">
+                                    <h3 style="margin-bottom: 1.5rem; color: #333;">💳 Payment Methods</h3>
+                                    <div style="margin-bottom: 1.5rem;">
+                                        <div style="padding: 1rem; border: 1px solid #e0e0e0; border-radius: 8px; margin-bottom: 1rem; background: #f8f9fa;">
+                                            <div style="display: flex; justify-content: space-between; align-items: center;">
+                                                <div>
+                                                    <strong>💳 Visa ****4567</strong>
+                                                    <div style="font-size: 0.9rem; color: #666; margin-top: 0.3rem;">Primary • Expires 12/26</div>
+                                                </div>
+                                                <span style="color: #4CAF50; font-size: 0.8rem;">✓ Active</span>
+                                            </div>
+                                        </div>
+                                        <div style="padding: 1rem; border: 1px solid #e0e0e0; border-radius: 8px; margin-bottom: 1rem;">
+                                            <div style="display: flex; justify-content: space-between; align-items: center;">
+                                                <div>
+                                                    <strong>🏦 PayPal</strong>
+                                                    <div style="font-size: 0.9rem; color: #666; margin-top: 0.3rem;">rachel.martinez@email.com</div>
+                                                </div>
+                                                <span style="color: #666; font-size: 0.8rem;">Backup</span>
+                                            </div>
+                                        </div>
+                                        <button class="action-btn secondary" onclick="addPaymentMethod()">
+                                            ➕ Add New Payment Method
+                                        </button>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <!-- Recent Transactions -->
+                            <h3 style="margin: 2rem 0 1rem 0; color: #333;">📊 Recent Transactions</h3>
+                            <div style="background: white; border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.05); overflow: hidden;">
+                                <table class="enhanced-table">
+                                    <thead>
+                                        <tr>
+                                            <th>Date</th>
+                                            <th>Description</th>
+                                            <th>Tutor</th>
+                                            <th>Amount</th>
+                                            <th>Status</th>
+                                            <th>Receipt</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        <tr>
+                                            <td>Aug 10, 2025</td>
+                                            <td>Math Tutoring Session</td>
+                                            <td>Dr. Smith</td>
+                                            <td style="color: #f44336;">-$45.00</td>
+                                            <td><span class="status-badge-sm status-completed">Paid</span></td>
+                                            <td><button class="action-btn secondary" style="padding: 0.3rem 0.8rem; font-size: 0.8rem;">📄 View</button></td>
+                                        </tr>
+                                        <tr>
+                                            <td>Aug 8, 2025</td>
+                                            <td>English Essay Review</td>
+                                            <td>Ms. Johnson</td>
+                                            <td style="color: #f44336;">-$90.00</td>
+                                            <td><span class="status-badge-sm status-completed">Paid</span></td>
+                                            <td><button class="action-btn secondary" style="padding: 0.3rem 0.8rem; font-size: 0.8rem;">📄 View</button></td>
+                                        </tr>
+                                        <tr>
+                                            <td>Aug 5, 2025</td>
+                                            <td>Account Credit</td>
+                                            <td>-</td>
+                                            <td style="color: #4CAF50;">+$50.00</td>
+                                            <td><span class="status-badge-sm status-completed">Applied</span></td>
+                                            <td><button class="action-btn secondary" style="padding: 0.3rem 0.8rem; font-size: 0.8rem;">📄 View</button></td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </div>
+
+                            <!-- Subscription Plans -->
+                            <h3 style="margin: 2rem 0 1rem 0; color: #333;">📦 Learning Plans</h3>
+                            <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap: 1.5rem;">
+                                <div style="border: 2px solid #4CAF50; border-radius: 12px; padding: 2rem; background: linear-gradient(45deg, rgba(76, 175, 80, 0.05), rgba(69, 160, 73, 0.05)); position: relative;">
+                                    <div style="position: absolute; top: -10px; right: 15px; background: #4CAF50; color: white; padding: 0.3rem 0.8rem; border-radius: 15px; font-size: 0.8rem;">Current Plan</div>
+                                    <div style="font-size: 1.2rem; font-weight: 600; margin-bottom: 0.5rem;">📚 Student Plus</div>
+                                    <div style="font-size: 2.5rem; font-weight: bold; color: #4CAF50; margin-bottom: 1rem;">$99<span style="font-size: 1rem; color: #666;">/month</span></div>
+                                    <ul style="list-style: none; margin-bottom: 1.5rem; line-height: 1.8;">
+                                        <li style="position: relative; padding-left: 1.5rem;">✓ Unlimited 1-on-1 sessions</li>
+                                        <li style="position: relative; padding-left: 1.5rem;">✓ 24/7 chat support</li>
+                                        <li style="position: relative; padding-left: 1.5rem;">✓ Progress tracking</li>
+                                        <li style="position: relative; padding-left: 1.5rem;">✓ Assignment help</li>
+                                        <li style="position: relative; padding-left: 1.5rem;">✓ Study materials</li>
+                                    </ul>
+                                    <button class="action-btn" style="width: 100%; background: #4CAF50;">Current Plan</button>
+                                </div>
+
+                                <div style="border: 2px solid #e0e0e0; border-radius: 12px; padding: 2rem; background: white;">
+                                    <div style="font-size: 1.2rem; font-weight: 600; margin-bottom: 0.5rem;">🎓 Student Premium</div>
+                                    <div style="font-size: 2.5rem; font-weight: bold; color: #667eea; margin-bottom: 1rem;">$149<span style="font-size: 1rem; color: #666;">/month</span></div>
+                                    <ul style="list-style: none; margin-bottom: 1.5rem; line-height: 1.8;">
+                                        <li style="position: relative; padding-left: 1.5rem;">✓ All Student Plus features</li>
+                                        <li style="position: relative; padding-left: 1.5rem;">✓ Test preparation</li>
+                                        <li style="position: relative; padding-left: 1.5rem;">✓ College counseling</li>
+                                        <li style="position: relative; padding-left: 1.5rem;">✓ Priority scheduling</li>
+                                        <li style="position: relative; padding-left: 1.5rem;">✓ Parent progress reports</li>
+                                    </ul>
+                                    <button class="action-btn secondary" style="width: 100%;">Upgrade Plan</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        
+    </div> <!--dashboard-container-->
+
+    <!--student dashboard-section -->
+
+  
+    </div><!-- End Student-dashboard -->
+  
+</main>
+    <!--Modals-->    
+    <!--Footer-->
+    <footer>
+          <div id="footer"></div>
+          <script>
+            async function loadFooter() {
+                try {
+                    const response = await fetch('../footer.html');
+                    const data = await response.text();
+                    document.getElementById("footer").innerHTML = data;
+                } catch (error) {
+                    console.error('Error loading footer:', error);
+                }
+            }
+            loadFooter();
+          </script>
+    </footer>
+   
+    <!-- SHARED SCRIPTS -->
+ 
+    <script src="/assets/js/env-config.js"></script>        <!-- 1. Config first -->
+    <script src="/assets/js/document-manager.js"></script>   <!-- 2. Core utilities -->
+    <script src="/assets/js/session-loader.js"></script>     <!-- 3. Main controller -->
+    <script src="/assets/js/debug-loader.js"></script>     <!-- 3. Debug controller -->
+
+
+</body>
+</html>

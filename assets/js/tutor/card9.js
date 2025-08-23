@@ -3,7 +3,7 @@
 if (!window.cards) window.cards = {};
    window.cards['card9'] = {
        id: 'card9',
-       title: 'Temporary test card',
+       title: 'Premium Features',
        render: () => console.log('Rendering card1')
    };
 // Premium Features Variables

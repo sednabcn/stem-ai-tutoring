@@ -4,7 +4,7 @@
 if (!window.cards) window.cards = {};
    window.cards['card2'] = {
        id: 'card2',
-       title: 'Temporary test card',
+       title: 'Credentials & Background CHECK',
        render: () => console.log('Rendering card1')
    };
 // Credentials Card Variables

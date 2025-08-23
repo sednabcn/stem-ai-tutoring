@@ -3,7 +3,7 @@
 if (!window.cards) window.cards = {};
    window.cards['card3'] = {
        id: 'card3',
-       title: 'Temporary test card',
+       title: 'Identity Verification',
        render: () => console.log('Rendering card1')
    };
 // Identity Verification Card Variables

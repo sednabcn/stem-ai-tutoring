@@ -1,0 +1,663 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tutor Confidentiality Agreement - PDF Style</title>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Times+New+Roman:wght@400;700&family=Arial:wght@400;700&display=swap');
+        
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Times New Roman', serif;
+            background: #f5f5f5;
+            padding: 20px;
+            line-height: 1.6;
+            color: #000;
+        }
+
+        .pdf-container {
+            max-width: 8.5in;
+            margin: 0 auto;
+            background: white;
+            box-shadow: 0 4px 20px rgba(0,0,0,0.15);
+            border: 1px solid #ccc;
+            position: relative;
+        }
+
+        .pdf-page {
+            width: 100%;
+            min-height: 11in;
+            padding: 1in;
+            background: white;
+            position: relative;
+            page-break-after: always;
+        }
+
+        .letterhead {
+            text-align: center;
+            border-bottom: 3px solid #1a365d;
+            padding-bottom: 20px;
+            margin-bottom: 30px;
+        }
+
+        .letterhead h1 {
+            font-size: 24px;
+            font-weight: bold;
+            color: #1a365d;
+            margin-bottom: 5px;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+        }
+
+        .letterhead .subtitle {
+            font-size: 16px;
+            color: #4a5568;
+            font-style: italic;
+            margin-bottom: 10px;
+        }
+
+        .letterhead .doc-info {
+            font-size: 12px;
+            color: #666;
+            border: 2px solid #e2e8f0;
+            padding: 8px;
+            display: inline-block;
+            background: #f7fafc;
+        }
+
+        .section-title {
+            font-size: 16px;
+            font-weight: bold;
+            color: #1a365d;
+            margin: 25px 0 15px 0;
+            text-transform: uppercase;
+            border-bottom: 2px solid #4299e1;
+            padding-bottom: 5px;
+        }
+
+        .paragraph {
+            margin-bottom: 15px;
+            text-align: justify;
+            font-size: 12px;
+            line-height: 1.7;
+        }
+
+        .paragraph.indent {
+            margin-left: 30px;
+        }
+
+        .definition-box {
+            background: #f0f8ff;
+            border: 1px solid #4299e1;
+            border-left: 5px solid #1a365d;
+            padding: 15px;
+            margin: 20px 0;
+            font-size: 12px;
+        }
+
+        .definition-box h3 {
+            color: #1a365d;
+            font-size: 14px;
+            margin-bottom: 10px;
+        }
+
+        .tutoring-types {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 15px;
+            margin: 20px 0;
+        }
+
+        .type-box {
+            border: 1px solid #e2e8f0;
+            padding: 12px;
+            background: #fafafa;
+            border-radius: 5px;
+        }
+
+        .type-box h4 {
+            color: #1a365d;
+            font-size: 13px;
+            font-weight: bold;
+            margin-bottom: 8px;
+        }
+
+        .type-box ul {
+            font-size: 11px;
+            margin-left: 15px;
+        }
+
+        .type-box li {
+            margin-bottom: 3px;
+        }
+
+        .obligations-list {
+            margin: 15px 0;
+            padding-left: 0;
+        }
+
+        .obligations-list li {
+            margin-bottom: 12px;
+            list-style: none;
+            position: relative;
+            padding-left: 25px;
+            font-size: 12px;
+        }
+
+        .obligations-list li::before {
+            content: "•";
+            color: #1a365d;
+            font-weight: bold;
+            position: absolute;
+            left: 0;
+            font-size: 16px;
+        }
+
+        .form-section {
+            background: #f9f9f9;
+            border: 2px solid #1a365d;
+            padding: 20px;
+            margin: 25px 0;
+        }
+
+        .form-row {
+            display: flex;
+            margin-bottom: 15px;
+            align-items: center;
+        }
+
+        .form-label {
+            font-weight: bold;
+            margin-right: 15px;
+            min-width: 120px;
+            font-size: 12px;
+        }
+
+        .form-input {
+            border-bottom: 2px solid #000;
+            background: transparent;
+            padding: 5px 0;
+            font-family: inherit;
+            font-size: 12px;
+            width: 300px;
+        }
+
+        .form-input:focus {
+            outline: none;
+            border-bottom-color: #4299e1;
+        }
+
+        .signature-section {
+            margin-top: 40px;
+            page-break-inside: avoid;
+        }
+
+        .signature-table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+        }
+
+        .signature-table td {
+            border: 1px solid #000;
+            padding: 15px;
+            vertical-align: top;
+        }
+
+        .signature-table .label {
+            font-weight: bold;
+            background: #f0f0f0;
+            width: 25%;
+            font-size: 11px;
+        }
+
+        .signature-table .value {
+            width: 75%;
+            height: 50px;
+            font-size: 12px;
+        }
+
+        .footer {
+            position: absolute;
+            bottom: 0.5in;
+            left: 1in;
+            right: 1in;
+            text-align: center;
+            font-size: 10px;
+            color: #666;
+            border-top: 1px solid #ccc;
+            padding-top: 10px;
+        }
+
+        .page-number {
+            position: absolute;
+            bottom: 0.3in;
+            right: 1in;
+            font-size: 10px;
+            color: #666;
+        }
+
+        .watermark {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%) rotate(-45deg);
+            font-size: 72px;
+            color: rgba(26, 54, 93, 0.05);
+            font-weight: bold;
+            z-index: 0;
+            pointer-events: none;
+        }
+
+        .content {
+            position: relative;
+            z-index: 1;
+        }
+
+        .action-buttons {
+            position: fixed;
+            top: 20px;
+            right: 20px;
+            display: flex;
+            gap: 10px;
+            z-index: 1000;
+        }
+
+        .action-btn {
+            background: #1a365d;
+            color: white;
+            border: none;
+            padding: 12px 18px;
+            border-radius: 6px;
+            cursor: pointer;
+            font-size: 12px;
+            font-weight: 600;
+            transition: all 0.2s;
+        }
+
+        .action-btn:hover {
+            background: #2c5282;
+            transform: translateY(-1px);
+        }
+
+        .action-btn.secondary {
+            background: #718096;
+        }
+
+        .action-btn.secondary:hover {
+            background: #4a5568;
+        }
+
+        .important-note {
+            background: #fff5f5;
+            border: 2px solid #f56565;
+            border-left: 6px solid #e53e3e;
+            padding: 15px;
+            margin: 20px 0;
+            font-size: 12px;
+        }
+
+        .important-note h3 {
+            color: #e53e3e;
+            margin-bottom: 10px;
+            font-size: 14px;
+        }
+
+        @media print {
+            body {
+                background: white;
+                padding: 0;
+            }
+            
+            .action-buttons {
+                display: none;
+            }
+            
+            .pdf-container {
+                box-shadow: none;
+                border: none;
+                max-width: none;
+            }
+            
+            .pdf-page {
+                page-break-after: always;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="action-buttons">
+        <button class="action-btn" onclick="downloadPDF()">📄 Download PDF</button>
+        <button class="action-btn secondary" onclick="printForm()">🖨️ Print</button>
+        <button class="action-btn" onclick="fillForm()">✏️ Fill Form</button>
+    </div>
+
+    <div class="pdf-container">
+        <div class="pdf-page">
+            <div class="watermark">CONFIDENTIAL</div>
+            <div class="content">
+                <div class="letterhead">
+                    <h1>Confidentiality Agreement</h1>
+                    <div class="subtitle">For Professional Tutoring Services</div>
+                    <div class="doc-info">
+                        <strong>Document Type:</strong> Legal Confidentiality Form<br>
+                        <strong>Effective Date:</strong> Upon Signature<br>
+                        <strong>Form ID:</strong> CONF-2024-001
+                    </div>
+                </div>
+
+                <div class="section-title">I. Agreement Overview</div>
+                <div class="paragraph">
+                    This Confidentiality Agreement ("Agreement") is entered into between the undersigned tutor ("Tutor") and the tutoring service organization ("Organization") to establish the terms and conditions regarding the protection and non-disclosure of confidential information encountered during the provision of tutoring services.
+                </div>
+
+                <div class="paragraph">
+                    This Agreement applies to all forms of tutoring services including, but not limited to: online tutoring, face-to-face tutoring, home-based tutoring, and company-based tutoring arrangements.
+                </div>
+
+                <div class="definition-box">
+                    <h3>🔐 Definition of Confidential Information</h3>
+                    <p><strong>Confidential Information</strong> includes, but is not limited to:</p>
+                    <ul style="margin-top: 10px; margin-left: 15px;">
+                        <li>Student personal information (names, addresses, contact details, family information)</li>
+                        <li>Academic records, grades, test scores, and educational assessments</li>
+                        <li>Learning disabilities, special needs, or medical information</li>
+                        <li>Family circumstances, financial information, or personal challenges</li>
+                        <li>Educational institution information and internal policies</li>
+                        <li>Tutoring methodologies, curricula, and proprietary materials</li>
+                        <li>Any information marked or identified as confidential</li>
+                    </ul>
+                </div>
+
+                <div class="section-title">II. Tutoring Service Types Covered</div>
+                <div class="tutoring-types">
+                    <div class="type-box">
+                        <h4>💻 Online Tutoring</h4>
+                        <ul>
+                            <li>Virtual sessions via video platforms</li>
+                            <li>Screen sharing and digital collaboration</li>
+                            <li>Electronic communication records</li>
+                            <li>Digital homework and assignments</li>
+                        </ul>
+                    </div>
+                    <div class="type-box">
+                        <h4>👥 Face-to-Face Tutoring</h4>
+                        <ul>
+                            <li>In-person sessions at designated locations</li>
+                            <li>Physical learning materials and notes</li>
+                            <li>Direct observation of student behavior</li>
+                            <li>Personal interactions and conversations</li>
+                        </ul>
+                    </div>
+                    <div class="type-box">
+                        <h4>🏠 Home-Based Tutoring</h4>
+                        <ul>
+                            <li>Sessions conducted at student's residence</li>
+                            <li>Family environment observations</li>
+                            <li>Household information and dynamics</li>
+                            <li>Personal belongings and family photos</li>
+                        </ul>
+                    </div>
+                    <div class="type-box">
+                        <h4>🏢 Company-Based Tutoring</h4>
+                        <ul>
+                            <li>Corporate training environments</li>
+                            <li>Employee information and performance</li>
+                            <li>Company policies and procedures</li>
+                            <li>Business-sensitive information</li>
+                        </ul>
+                    </div>
+                </div>
+
+                <div class="section-title">III. Tutor Obligations and Responsibilities</div>
+                <ul class="obligations-list">
+                    <li><strong>Non-Disclosure:</strong> Tutor agrees not to disclose any confidential information to any third party without prior written consent from the student, parent/guardian, or organization.</li>
+                    
+                    <li><strong>Use Limitation:</strong> Confidential information shall be used solely for the purpose of providing tutoring services and shall not be used for personal gain or competitive advantage.</li>
+                    
+                    <li><strong>Data Protection:</strong> Tutor will implement appropriate safeguards to protect confidential information from unauthorized access, use, or disclosure, including secure storage of physical and electronic materials.</li>
+                    
+                    <li><strong>Communication Security:</strong> All communications containing confidential information must be conducted through secure channels approved by the organization.</li>
+                    
+                    <li><strong>Material Return:</strong> Upon termination of tutoring services, Tutor agrees to return or securely destroy all confidential materials, documents, and information.</li>
+                    
+                    <li><strong>Social Media Policy:</strong> Tutor shall not post, share, or reference any confidential information on social media platforms or public forums.</li>
+                    
+                    <li><strong>Record Keeping:</strong> Any records maintained by the Tutor must be kept confidential and secured in accordance with privacy laws and organizational policies.</li>
+                </ul>
+            </div>
+            
+            <div class="page-number">Page 1 of 2</div>
+        </div>
+
+        <div class="pdf-page">
+            <div class="watermark">CONFIDENTIAL</div>
+            <div class="content">
+                <div class="section-title">IV. Special Considerations by Tutoring Type</div>
+                
+                <div class="paragraph">
+                    <strong>Online Tutoring Additional Requirements:</strong>
+                </div>
+                <div class="paragraph indent">
+                    • Secure internet connections and password-protected sessions<br>
+                    • Screen recording restrictions and notification policies<br>
+                    • Secure file sharing and cloud storage protocols<br>
+                    • Virtual background requirements for privacy protection
+                </div>
+
+                <div class="paragraph">
+                    <strong>Home-Based Tutoring Additional Requirements:</strong>
+                </div>
+                <div class="paragraph indent">
+                    • Respect for family privacy and household information<br>
+                    • Prohibition on photographing or documenting home environment<br>
+                    • Confidentiality regarding family circumstances and dynamics<br>
+                    • Professional boundaries in personal spaces
+                </div>
+
+                <div class="paragraph">
+                    <strong>Company-Based Tutoring Additional Requirements:</strong>
+                </div>
+                <div class="paragraph indent">
+                    • Compliance with corporate confidentiality policies<br>
+                    • Non-disclosure of proprietary business information<br>
+                    • Respect for employee privacy and performance information<br>
+                    • Adherence to company security protocols and access controls
+                </div>
+
+                <div class="section-title">V. Legal Compliance and Reporting</div>
+                <div class="paragraph">
+                    This Agreement is subject to applicable federal, state, and local privacy laws including but not limited to FERPA (Family Educational Rights and Privacy Act), COPPA (Children's Online Privacy Protection Act), and state privacy statutes. Tutor acknowledges understanding of mandatory reporting requirements for suspected child abuse or neglect.
+                </div>
+
+                <div class="important-note">
+                    <h3>⚠️ Important Legal Notice</h3>
+                    <p>Violation of this confidentiality agreement may result in immediate termination of tutoring services, legal action for damages, and potential criminal prosecution under applicable privacy laws. This agreement remains in effect indefinitely, even after termination of tutoring services.</p>
+                </div>
+
+                <div class="section-title">VI. Agreement Terms</div>
+                <div class="paragraph">
+                    This Agreement shall remain in effect for the duration of the tutoring relationship and shall survive termination. Any modifications to this Agreement must be made in writing and signed by both parties. This Agreement is governed by the laws of the jurisdiction where tutoring services are provided.
+                </div>
+
+                <div class="form-section">
+                    <h3 style="color: #1a365d; margin-bottom: 15px;">📝 Tutor Information</h3>
+                    
+                    <div class="form-row">
+                        <span class="form-label">Full Name:</span>
+                        <input type="text" class="form-input" name="tutorName" placeholder="Enter full legal name">
+                    </div>
+                    
+                    <div class="form-row">
+                        <span class="form-label">Email Address:</span>
+                        <input type="email" class="form-input" name="tutorEmail" placeholder="Enter email address">
+                    </div>
+                    
+                    <div class="form-row">
+                        <span class="form-label">Phone Number:</span>
+                        <input type="tel" class="form-input" name="tutorPhone" placeholder="Enter phone number">
+                    </div>
+                    
+                    <div class="form-row">
+                        <span class="form-label">Tutoring Type:</span>
+                        <select class="form-input" name="tutoringType">
+                            <option value="">Select primary tutoring type</option>
+                            <option value="online">Online Tutoring</option>
+                            <option value="face-to-face">Face-to-Face Tutoring</option>
+                            <option value="home-based">Home-Based Tutoring</option>
+                            <option value="company-based">Company-Based Tutoring</option>
+                            <option value="multiple">Multiple Types</option>
+                        </select>
+                    </div>
+                </div>
+
+                <div class="signature-section">
+                    <h3 style="color: #1a365d; margin-bottom: 15px;">📋 Signatures and Agreement</h3>
+                    
+                    <table class="signature-table">
+                        <tr>
+                            <td class="label">Tutor Signature:</td>
+                            <td class="value"></td>
+                        </tr>
+                        <tr>
+                            <td class="label">Printed Name:</td>
+                            <td class="value"></td>
+                        </tr>
+                        <tr>
+                            <td class="label">Date:</td>
+                            <td class="value"></td>
+                        </tr>
+                        <tr>
+                            <td class="label">Witness Signature:</td>
+                            <td class="value"></td>
+                        </tr>
+                        <tr>
+                            <td class="label">Witness Name:</td>
+                            <td class="value"></td>
+                        </tr>
+                        <tr>
+                            <td class="label">Organization Representative:</td>
+                            <td class="value"></td>
+                        </tr>
+                    </table>
+                    
+                    <div class="paragraph" style="margin-top: 20px; font-size: 11px; text-align: center; color: #666;">
+                        By signing below, I acknowledge that I have read, understood, and agree to be bound by the terms and conditions of this Confidentiality Agreement. I understand that this agreement creates legal obligations and that violation may result in legal consequences.
+                    </div>
+                </div>
+            </div>
+            
+            <div class="footer">
+                <strong>CONFIDENTIALITY AGREEMENT FOR TUTORING SERVICES</strong><br>
+                This document contains legally binding terms. Retain a copy for your records.<br>
+                Document Version 1.0 | Generated: December 2024 | Valid in all US jurisdictions
+            </div>
+            <div class="page-number">Page 2 of 2</div>
+        </div>
+    </div>
+
+    <script>
+        function fillForm() {
+            const tutorName = prompt("Enter Tutor Full Name:");
+            const tutorEmail = prompt("Enter Email Address:");
+            const tutorPhone = prompt("Enter Phone Number:");
+            
+            if (tutorName) document.querySelector('input[name="tutorName"]').value = tutorName;
+            if (tutorEmail) document.querySelector('input[name="tutorEmail"]').value = tutorEmail;
+            if (tutorPhone) document.querySelector('input[name="tutorPhone"]').value = tutorPhone;
+            
+            alert("✅ Form filled! You can now print or download the completed form.");
+        }
+
+        function downloadPDF() {
+            const content = generatePDFContent();
+            const blob = new Blob([content], { type: 'text/plain' });
+            const url = URL.createObjectURL(blob);
+            const a = document.createElement('a');
+            a.href = url;
+            a.download = 'confidentiality_form.txt';
+            document.body.appendChild(a);
+            a.click();
+            document.body.removeChild(a);
+            URL.revokeObjectURL(url);
+            
+            alert('📄 Confidentiality form downloaded successfully!');
+        }
+
+        function generatePDFContent() {
+            const tutorName = document.querySelector('input[name="tutorName"]').value || '[Name not filled]';
+            const tutorEmail = document.querySelector('input[name="tutorEmail"]').value || '[Email not filled]';
+            const tutorPhone = document.querySelector('input[name="tutorPhone"]').value || '[Phone not filled]';
+            const tutoringType = document.querySelector('select[name="tutoringType"]').value || '[Type not selected]';
+            
+            return `CONFIDENTIALITY AGREEMENT FOR PROFESSIONAL TUTORING SERVICES
+${'='.repeat(70)}
+
+DOCUMENT INFORMATION:
+- Document Type: Legal Confidentiality Form
+- Form ID: CONF-2024-001
+- Generated: ${new Date().toLocaleDateString()}
+
+TUTOR INFORMATION:
+- Full Name: ${tutorName}
+- Email: ${tutorEmail}
+- Phone: ${tutorPhone}
+- Primary Tutoring Type: ${tutoringType}
+
+AGREEMENT TERMS:
+This Confidentiality Agreement establishes the terms and conditions regarding the protection and non-disclosure of confidential information encountered during tutoring services.
+
+COVERED TUTORING TYPES:
+✓ Online Tutoring (virtual sessions, digital collaboration)
+✓ Face-to-Face Tutoring (in-person sessions, direct interactions)
+✓ Home-Based Tutoring (sessions at student residences)
+✓ Company-Based Tutoring (corporate training environments)
+
+KEY OBLIGATIONS:
+• Non-disclosure of all confidential student information
+• Use limitation - information only for tutoring purposes
+• Data protection and secure storage requirements
+• Communication security protocols
+• Material return upon service termination
+• Social media and public forum restrictions
+• Compliance with privacy laws (FERPA, COPPA)
+
+LEGAL NOTICE:
+Violation of this agreement may result in termination, legal action, and potential criminal prosecution. This agreement remains in effect indefinitely.
+
+SIGNATURE REQUIRED:
+By signing, the tutor acknowledges understanding and agreement to all terms and conditions outlined in this confidentiality agreement.
+
+---
+This is a legally binding document. Please retain a copy for your records.
+Document generated on ${new Date().toLocaleDateString()} at ${new Date().toLocaleTimeString()}`;
+        }
+
+        function printForm() {
+            window.print();
+        }
+
+        // Auto-save form data
+        document.addEventListener('DOMContentLoaded', function() {
+            const inputs = document.querySelectorAll('input, select');
+            inputs.forEach(input => {
+                input.addEventListener('change', function() {
+                    localStorage.setItem(input.name, input.value);
+                });
+                
+                // Load saved data
+                const savedValue = localStorage.getItem(input.name);
+                if (savedValue) {
+                    input.value = savedValue;
+                }
+            });
+        });
+    </script>
+</body>
+</html>

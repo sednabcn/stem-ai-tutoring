@@ -3,7 +3,7 @@
 if (!window.cards) window.cards = {};
    window.cards['card5'] = {
        id: 'card5',
-       title: 'Temporary test card',
+       title: 'Find Students',
        render: () => console.log('Rendering card1')
    };
 // Find Students Card Variables

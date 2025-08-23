@@ -1,0 +1,487 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Safeguarding Policy Summary</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            padding: 20px;
+        }
+
+        .document-container {
+            max-width: 900px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 15px;
+            box-shadow: 0 25px 50px rgba(0, 0, 0, 0.15);
+            overflow: hidden;
+            position: relative;
+        }
+
+        .document-container::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            height: 8px;
+            background: linear-gradient(90deg, #e74c3c 0%, #f39c12 25%, #f1c40f 50%, #27ae60 75%, #3498db 100%);
+        }
+
+        .document-header {
+            background: linear-gradient(135deg, #2c3e50 0%, #34495e 100%);
+            padding: 50px;
+            color: white;
+            text-align: center;
+            position: relative;
+        }
+
+        .shield-icon {
+            width: 80px;
+            height: 80px;
+            background: rgba(255, 255, 255, 0.15);
+            border-radius: 50%;
+            margin: 0 auto 25px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 2.5rem;
+            border: 3px solid rgba(255, 255, 255, 0.3);
+            backdrop-filter: blur(10px);
+        }
+
+        .document-title {
+            font-size: 2.8rem;
+            font-weight: 700;
+            margin-bottom: 15px;
+            text-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
+        }
+
+        .document-subtitle {
+            font-size: 1.2rem;
+            opacity: 0.9;
+            font-weight: 300;
+        }
+
+        .document-body {
+            padding: 50px;
+        }
+
+        .intro-section {
+            background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);
+            padding: 30px;
+            border-radius: 12px;
+            margin-bottom: 40px;
+            border-left: 5px solid #667eea;
+        }
+
+        .intro-text {
+            font-size: 1.1rem;
+            color: #495057;
+            text-align: center;
+            font-style: italic;
+        }
+
+        .section {
+            margin-bottom: 45px;
+        }
+
+        .section-title {
+            font-size: 1.8rem;
+            font-weight: 700;
+            color: #2c3e50;
+            margin-bottom: 25px;
+            display: flex;
+            align-items: center;
+            gap: 15px;
+            padding-bottom: 10px;
+            border-bottom: 3px solid #ecf0f1;
+        }
+
+        .section-icon {
+            width: 45px;
+            height: 45px;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            border-radius: 10px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: white;
+            font-size: 1.5rem;
+            flex-shrink: 0;
+            box-shadow: 0 4px 15px rgba(102, 126, 234, 0.3);
+        }
+
+        .key-points {
+            list-style: none;
+            padding: 0;
+        }
+
+        .key-points li {
+            position: relative;
+            padding: 15px 20px 15px 50px;
+            margin-bottom: 12px;
+            background: #f8f9fa;
+            border-radius: 8px;
+            border-left: 4px solid #667eea;
+            font-size: 1.05rem;
+            color: #495057;
+            transition: all 0.3s ease;
+        }
+
+        .key-points li:hover {
+            background: #e9ecef;
+            transform: translateX(5px);
+        }
+
+        .key-points li::before {
+            content: '✓';
+            position: absolute;
+            left: 20px;
+            top: 50%;
+            transform: translateY(-50%);
+            color: #27ae60;
+            font-size: 1.2rem;
+            font-weight: bold;
+        }
+
+        .critical-section {
+            background: linear-gradient(135deg, #fff5f5 0%, #fed7d7 100%);
+            border: 2px solid #fc8181;
+            border-radius: 12px;
+            padding: 30px;
+            margin: 35px 0;
+            position: relative;
+        }
+
+        .critical-section::before {
+            content: '⚠️';
+            position: absolute;
+            top: -15px;
+            left: 30px;
+            background: white;
+            padding: 5px 10px;
+            font-size: 1.5rem;
+            border-radius: 20px;
+            border: 2px solid #fc8181;
+        }
+
+        .critical-section .section-title {
+            color: #c53030;
+            border-bottom-color: #fc8181;
+            margin-top: 10px;
+        }
+
+        .critical-section .section-icon {
+            background: linear-gradient(135deg, #e53e3e 0%, #c53030 100%);
+        }
+
+        .critical-section .key-points li {
+            background: #fff5f5;
+            border-left-color: #e53e3e;
+        }
+
+        .critical-section .key-points li::before {
+            color: #e53e3e;
+            content: '!';
+        }
+
+        .commitment-box {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 35px;
+            border-radius: 15px;
+            margin-top: 40px;
+            text-align: center;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .commitment-box::before {
+            content: '';
+            position: absolute;
+            top: -50%;
+            left: -50%;
+            width: 200%;
+            height: 200%;
+            background: radial-gradient(circle, rgba(255,255,255,0.1) 0%, transparent 70%);
+            animation: rotate 20s linear infinite;
+        }
+
+        @keyframes rotate {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+
+        .commitment-text {
+            font-size: 1.3rem;
+            font-weight: 600;
+            position: relative;
+            z-index: 1;
+            text-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+        }
+
+        .contact-info {
+            background: #f8f9fa;
+            border-radius: 12px;
+            padding: 30px;
+            margin: 35px 0;
+            border: 2px solid #dee2e6;
+        }
+
+        .contact-title {
+            font-size: 1.4rem;
+            font-weight: 600;
+            color: #2c3e50;
+            margin-bottom: 20px;
+            text-align: center;
+        }
+
+        .contact-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 20px;
+        }
+
+        .contact-item {
+            background: white;
+            padding: 20px;
+            border-radius: 8px;
+            text-align: center;
+            border: 1px solid #dee2e6;
+        }
+
+        .contact-label {
+            font-weight: 600;
+            color: #495057;
+            margin-bottom: 8px;
+        }
+
+        .contact-value {
+            color: #667eea;
+            font-weight: 500;
+        }
+
+        .footer-info {
+            text-align: center;
+            padding: 30px;
+            background: #f8f9fa;
+            color: #6c757d;
+            font-size: 0.95rem;
+            border-top: 1px solid #dee2e6;
+        }
+
+        @media (max-width: 768px) {
+            body {
+                padding: 10px;
+            }
+
+            .document-header {
+                padding: 30px 25px;
+            }
+
+            .document-title {
+                font-size: 2.2rem;
+            }
+
+            .document-body {
+                padding: 30px 25px;
+            }
+
+            .section-title {
+                font-size: 1.5rem;
+                flex-direction: column;
+                align-items: flex-start;
+                gap: 10px;
+            }
+
+            .key-points li {
+                padding-left: 40px;
+                font-size: 1rem;
+            }
+
+            .contact-grid {
+                grid-template-columns: 1fr;
+            }
+        }
+
+        @media print {
+            body {
+                background: white;
+                padding: 0;
+            }
+
+            .document-container {
+                box-shadow: none;
+                border-radius: 0;
+            }
+
+            .document-header {
+                background: #2c3e50 !important;
+                -webkit-print-color-adjust: exact;
+                print-color-adjust: exact;
+            }
+
+            .commitment-box {
+                background: #667eea !important;
+                -webkit-print-color-adjust: exact;
+                print-color-adjust: exact;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="document-container">
+        <div class="document-header">
+            <div class="shield-icon">🛡️</div>
+            <h1 class="document-title">Safeguarding Policy Summary</h1>
+            <p class="document-subtitle">Protecting All Learners Across All Services</p>
+        </div>
+
+        <div class="document-body">
+            <div class="intro-section">
+                <p class="intro-text">
+                    Our comprehensive safeguarding framework ensures the safety, wellbeing, and protection of all learners 
+                    across online, face-to-face, home-based, and corporate training environments.
+                </p>
+            </div>
+
+            <div class="section">
+                <h2 class="section-title">
+                    <span class="section-icon">🎯</span>
+                    Purpose & Mission
+                </h2>
+                <ul class="key-points">
+                    <li>Protect children, young people, and vulnerable adults using our tutoring platform</li>
+                    <li>Ensure all tutors and staff understand their comprehensive safeguarding responsibilities</li>
+                    <li>Create safe learning environments across all service delivery methods</li>
+                    <li>Maintain the highest standards of professional conduct and ethical practice</li>
+                    <li>Comply with UK legal requirements and best practice guidelines</li>
+                </ul>
+            </div>
+
+            <div class="section">
+                <h2 class="section-title">
+                    <span class="section-icon">⚖️</span>
+                    Key Principles
+                </h2>
+                <ul class="key-points">
+                    <li>The welfare and safety of learners is always our paramount concern</li>
+                    <li>All learners have equal rights to protection regardless of age, background, or circumstances</li>
+                    <li>Every concern will be taken seriously and acted upon promptly and appropriately</li>
+                    <li>Transparency and accountability guide all our safeguarding decisions</li>
+                    <li>Prevention is better than cure - proactive measures reduce risks</li>
+                    <li>Multi-agency cooperation enhances protection effectiveness</li>
+                </ul>
+            </div>
+
+            <div class="section">
+                <h2 class="section-title">
+                    <span class="section-icon">👥</span>
+                    Roles & Responsibilities
+                </h2>
+                <ul class="key-points">
+                    <li>All tutors must maintain strict professional boundaries at all times</li>
+                    <li>Enhanced DBS checks required for all staff working with vulnerable groups</li>
+                    <li>Mandatory safeguarding training completion and regular refresher courses</li>
+                    <li>Immediate reporting of concerns to the Designated Safeguarding Lead (DSL)</li>
+                    <li>Documentation and record-keeping in accordance with legal requirements</li>
+                    <li>Ongoing professional development in safeguarding best practices</li>
+                </ul>
+            </div>
+
+            <div class="section">
+                <h2 class="section-title">
+                    <span class="section-icon">🌐</span>
+                    Online Safety Measures
+                </h2>
+                <ul class="key-points">
+                    <li>Sessions conducted exclusively on approved, secure platforms with monitoring capabilities</li>
+                    <li>Strict prohibition on sharing personal contact details outside the platform</li>
+                    <li>All interactions must remain transparent, professional, and appropriately supervised</li>
+                    <li>Session recording capabilities for safeguarding and quality assurance purposes</li>
+                    <li>Content filtering and monitoring systems to protect against inappropriate material</li>
+                    <li>Digital citizenship education integrated into all online learning experiences</li>
+                </ul>
+            </div>
+
+            <div class="critical-section">
+                <h2 class="section-title">
+                    <span class="section-icon">📢</span>
+                    Reporting Concerns
+                </h2>
+                <ul class="key-points">
+                    <li>Report immediately any signs of abuse, neglect, exploitation, or inappropriate behavior</li>
+                    <li>Never delay reporting due to uncertainty - err on the side of caution</li>
+                    <li>Use designated platform safeguarding email or 24-hour hotline for all reports</li>
+                    <li>All reports treated with utmost confidentiality and handled according to legal requirements</li>
+                    <li>Anonymous reporting options available for sensitive situations</li>
+                    <li>Follow-up support provided to all parties involved in safeguarding incidents</li>
+                </ul>
+
+                <div class="contact-info">
+                    <h3 class="contact-title">Emergency Reporting Contacts</h3>
+                    <div class="contact-grid">
+                        <div class="contact-item">
+                            <div class="contact-label">Immediate Danger</div>
+                            <div class="contact-value">999 Emergency Services</div>
+                        </div>
+                        <div class="contact-item">
+                            <div class="contact-label">Safeguarding Email</div>
+                            <div class="contact-value">safeguarding@platform.example</div>
+                        </div>
+                        <div class="contact-item">
+                            <div class="contact-label">24-Hour Hotline</div>
+                            <div class="contact-value">[Secure Phone Number]</div>
+                        </div>
+                        <div class="contact-item">
+                            <div class="contact-label">Anonymous Portal</div>
+                            <div class="contact-value">Available via secure online system</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="section">
+                <h2 class="section-title">
+                    <span class="section-icon">🏠</span>
+                    Service-Specific Protections
+                </h2>
+                <ul class="key-points">
+                    <li><strong>Home-based services:</strong> Enhanced security checks, pre-visit assessments, and supervision protocols</li>
+                    <li><strong>Corporate training:</strong> Workplace safety compliance and professional conduct standards</li>
+                    <li><strong>Online sessions:</strong> Secure platforms, session monitoring, and digital safety measures</li>
+                    <li><strong>Face-to-face meetings:</strong> Safe venue requirements and appropriate supervision arrangements</li>
+                    <li><strong>Age-specific protocols:</strong> Tailored protections for different educational levels and age groups</li>
+                    <li><strong>Vulnerable adult services:</strong> Specialized support and additional safeguarding measures</li>
+                </ul>
+            </div>
+
+            <div class="commitment-box">
+                <p class="commitment-text">
+                    By working with our platform, all tutors, staff, and stakeholders commit to upholding 
+                    these safeguarding standards at all times. Safeguarding is everyone's responsibility.
+                </p>
+            </div>
+        </div>
+
+        <div class="footer-info">
+            <p><strong>Document Information:</strong> Date: 19 August 2025 | Jurisdiction: United Kingdom (UK GDPR + Data Protection Act 2018)</p>
+            <p>This summary is part of our comprehensive safeguarding framework. Full policies and procedures available on request.</p>
+            <p><em>Regular review and updates ensure continuous improvement in safeguarding practices.</em></p>
+        </div>
+    </div>
+</body>
+</html>

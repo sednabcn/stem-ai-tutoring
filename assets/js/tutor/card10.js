@@ -8,7 +8,7 @@ if (!window.cards) window.cards = {};
 
 class Card10Controller {
     constructor() {
-        this.cardId = 'card10';
+        this.cardId = 'card11';
         this.isCompleted = false;
         this.features = {
             notifications: false,
@@ -21,7 +21,7 @@ class Card10Controller {
     }
 
     init() {
-        console.log('🌟 Card 10: Communication Hub initializing...');
+        console.log('🌟 Card 11: Communication Hub initializing...');
         this.setupEventListeners();
         this.loadInitialData();
     }

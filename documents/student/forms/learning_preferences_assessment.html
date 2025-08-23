@@ -1,0 +1,624 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Learning Preferences Assessment</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            padding: 20px;
+            color: #333;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            background: rgba(255, 255, 255, 0.95);
+            backdrop-filter: blur(10px);
+            border-radius: 20px;
+            box-shadow: 0 20px 40px rgba(0, 0, 0, 0.1);
+            overflow: hidden;
+            animation: fadeInUp 0.6s ease-out;
+        }
+
+        @keyframes fadeInUp {
+            from {
+                opacity: 0;
+                transform: translateY(30px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        .header {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            padding: 40px;
+            text-align: center;
+            color: white;
+        }
+
+        .header h1 {
+            font-size: 2.5rem;
+            font-weight: 700;
+            margin-bottom: 10px;
+            text-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+        }
+
+        .header p {
+            font-size: 1.1rem;
+            opacity: 0.9;
+        }
+
+        .form-content {
+            padding: 40px;
+        }
+
+        .section {
+            margin-bottom: 40px;
+            opacity: 0;
+            transform: translateY(20px);
+            animation: fadeIn 0.6s ease-out forwards;
+        }
+
+        .section:nth-child(2) { animation-delay: 0.1s; }
+        .section:nth-child(3) { animation-delay: 0.2s; }
+        .section:nth-child(4) { animation-delay: 0.3s; }
+        .section:nth-child(5) { animation-delay: 0.4s; }
+
+        @keyframes fadeIn {
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        .section-title {
+            font-size: 1.5rem;
+            font-weight: 600;
+            color: #5a67d8;
+            margin-bottom: 20px;
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+
+        .section-icon {
+            width: 24px;
+            height: 24px;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            border-radius: 6px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: white;
+            font-size: 14px;
+        }
+
+        .question-group {
+            margin-bottom: 30px;
+        }
+
+        .question {
+            font-size: 1.1rem;
+            font-weight: 500;
+            color: #2d3748;
+            margin-bottom: 15px;
+        }
+
+        .options {
+            display: grid;
+            gap: 12px;
+        }
+
+        .option {
+            position: relative;
+        }
+
+        .option input[type="radio"],
+        .option input[type="checkbox"] {
+            position: absolute;
+            opacity: 0;
+            cursor: pointer;
+        }
+
+        .option label {
+            display: block;
+            padding: 15px 20px;
+            background: #f8fafc;
+            border: 2px solid #e2e8f0;
+            border-radius: 12px;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            font-weight: 500;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .option label::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: -100%;
+            width: 100%;
+            height: 100%;
+            background: linear-gradient(90deg, transparent, rgba(255,255,255,0.4), transparent);
+            transition: left 0.5s;
+        }
+
+        .option input:checked + label {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            border-color: #667eea;
+            transform: translateY(-2px);
+            box-shadow: 0 8px 25px rgba(102, 126, 234, 0.3);
+        }
+
+        .option label:hover {
+            border-color: #667eea;
+            transform: translateY(-1px);
+            box-shadow: 0 4px 15px rgba(102, 126, 234, 0.2);
+        }
+
+        .option label:hover::before {
+            left: 100%;
+        }
+
+        .multiple-choice {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 12px;
+        }
+
+        .results-section {
+            background: linear-gradient(135deg, #f0f9ff 0%, #e0f2fe 100%);
+            border-radius: 16px;
+            padding: 30px;
+            margin-top: 40px;
+            border: 1px solid #bae6fd;
+            display: none;
+        }
+
+        .results-title {
+            font-size: 1.4rem;
+            font-weight: 600;
+            color: #0369a1;
+            margin-bottom: 20px;
+            text-align: center;
+        }
+
+        .result-item {
+            background: white;
+            padding: 15px;
+            border-radius: 8px;
+            margin-bottom: 10px;
+            border-left: 4px solid #0369a1;
+        }
+
+        .result-label {
+            font-weight: 600;
+            color: #1e40af;
+        }
+
+        .result-value {
+            color: #374151;
+            margin-left: 10px;
+        }
+
+        .submit-btn {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            border: none;
+            padding: 15px 40px;
+            border-radius: 50px;
+            font-size: 1.1rem;
+            font-weight: 600;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            display: block;
+            margin: 30px auto 0;
+            box-shadow: 0 4px 15px rgba(102, 126, 234, 0.3);
+        }
+
+        .submit-btn:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 8px 25px rgba(102, 126, 234, 0.4);
+        }
+
+        .submit-btn:active {
+            transform: translateY(0);
+        }
+
+        .reset-btn {
+            background: transparent;
+            color: #6b7280;
+            border: 2px solid #d1d5db;
+            padding: 12px 30px;
+            border-radius: 50px;
+            font-size: 1rem;
+            font-weight: 500;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            margin-left: 15px;
+        }
+
+        .reset-btn:hover {
+            border-color: #9ca3af;
+            color: #374151;
+        }
+
+        .progress-bar {
+            height: 4px;
+            background: #e2e8f0;
+            border-radius: 2px;
+            margin-bottom: 30px;
+            overflow: hidden;
+        }
+
+        .progress-fill {
+            height: 100%;
+            background: linear-gradient(90deg, #667eea 0%, #764ba2 100%);
+            width: 0%;
+            transition: width 0.3s ease;
+            border-radius: 2px;
+        }
+
+        @media (max-width: 768px) {
+            .container {
+                margin: 10px;
+                border-radius: 15px;
+            }
+
+            .header {
+                padding: 30px 20px;
+            }
+
+            .header h1 {
+                font-size: 2rem;
+            }
+
+            .form-content {
+                padding: 30px 20px;
+            }
+
+            .multiple-choice {
+                grid-template-columns: 1fr;
+            }
+        }
+
+        .footer {
+            text-align: center;
+            padding: 20px;
+            color: #6b7280;
+            font-size: 0.9rem;
+            border-top: 1px solid #e5e7eb;
+            margin-top: 40px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>Learning Preferences Assessment</h1>
+            <p>Discover your optimal learning style and preferences</p>
+        </div>
+
+        <div class="form-content">
+            <div class="progress-bar">
+                <div class="progress-fill" id="progressFill"></div>
+            </div>
+
+            <form id="learningAssessment">
+                <div class="section">
+                    <h2 class="section-title">
+                        <span class="section-icon">📚</span>
+                        Learning Style & Pace
+                    </h2>
+                    
+                    <div class="question-group">
+                        <div class="question">I learn best by:</div>
+                        <div class="options">
+                            <div class="option">
+                                <input type="radio" id="examples" name="learning_method" value="examples">
+                                <label for="examples">📋 Working through examples and case studies</label>
+                            </div>
+                            <div class="option">
+                                <input type="radio" id="theory" name="learning_method" value="theory">
+                                <label for="theory">🧠 Understanding theory and concepts first</label>
+                            </div>
+                            <div class="option">
+                                <input type="radio" id="practice" name="learning_method" value="practice">
+                                <label for="practice">⚡ Jumping into practice problems immediately</label>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="question-group">
+                        <div class="question">My ideal learning pace is:</div>
+                        <div class="options">
+                            <div class="option">
+                                <input type="radio" id="slow" name="pace" value="slow">
+                                <label for="slow">🐢 Slow and steady - I need time to absorb information</label>
+                            </div>
+                            <div class="option">
+                                <input type="radio" id="moderate" name="pace" value="moderate">
+                                <label for="moderate">🚶 Moderate - balanced approach works best</label>
+                            </div>
+                            <div class="option">
+                                <input type="radio" id="fast" name="pace" value="fast">
+                                <label for="fast">🏃 Fast - I like to cover ground quickly</label>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="section">
+                    <h2 class="section-title">
+                        <span class="section-icon">⏰</span>
+                        Environment & Timing
+                    </h2>
+                    
+                    <div class="question-group">
+                        <div class="question">My preferred session length is:</div>
+                        <div class="options multiple-choice">
+                            <div class="option">
+                                <input type="radio" id="session_30" name="session_length" value="30m">
+                                <label for="session_30">30 minutes</label>
+                            </div>
+                            <div class="option">
+                                <input type="radio" id="session_45" name="session_length" value="45m">
+                                <label for="session_45">45 minutes</label>
+                            </div>
+                            <div class="option">
+                                <input type="radio" id="session_60" name="session_length" value="60m">
+                                <label for="session_60">60 minutes</label>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="question-group">
+                        <div class="question">I'm most alert and focused during:</div>
+                        <div class="options multiple-choice">
+                            <div class="option">
+                                <input type="radio" id="morning" name="time_preference" value="morning">
+                                <label for="morning">🌅 Morning (8am-12pm)</label>
+                            </div>
+                            <div class="option">
+                                <input type="radio" id="afternoon" name="time_preference" value="afternoon">
+                                <label for="afternoon">☀️ Afternoon (12pm-5pm)</label>
+                            </div>
+                            <div class="option">
+                                <input type="radio" id="evening" name="time_preference" value="evening">
+                                <label for="evening">🌙 Evening (5pm-9pm)</label>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="section">
+                    <h2 class="section-title">
+                        <span class="section-icon">🛠️</span>
+                        Tools & Technology
+                    </h2>
+                    
+                    <div class="question-group">
+                        <div class="question">I'm comfortable using: (Select all that apply)</div>
+                        <div class="options">
+                            <div class="option">
+                                <input type="checkbox" id="whiteboard" name="tools" value="whiteboard">
+                                <label for="whiteboard">📝 Digital whiteboard for visual learning</label>
+                            </div>
+                            <div class="option">
+                                <input type="checkbox" id="screen_sharing" name="tools" value="screen_sharing">
+                                <label for="screen_sharing">🖥️ Screen sharing for demonstrations</label>
+                            </div>
+                            <div class="option">
+                                <input type="checkbox" id="ai_tools" name="tools" value="ai_tools">
+                                <label for="ai_tools">🤖 AI tools and explainers</label>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="section">
+                    <h2 class="section-title">
+                        <span class="section-icon">🎯</span>
+                        Additional Preferences
+                    </h2>
+                    
+                    <div class="question-group">
+                        <div class="question">I prefer feedback that is:</div>
+                        <div class="options">
+                            <div class="option">
+                                <input type="radio" id="immediate" name="feedback_style" value="immediate">
+                                <label for="immediate">⚡ Immediate and frequent</label>
+                            </div>
+                            <div class="option">
+                                <input type="radio" id="periodic" name="feedback_style" value="periodic">
+                                <label for="periodic">📊 Periodic summaries and progress reviews</label>
+                            </div>
+                            <div class="option">
+                                <input type="radio" id="milestone" name="feedback_style" value="milestone">
+                                <label for="milestone">🏆 Milestone-based achievements</label>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="question-group">
+                        <div class="question">When I encounter difficulty, I prefer to:</div>
+                        <div class="options">
+                            <div class="option">
+                                <input type="radio" id="guided_help" name="difficulty_approach" value="guided">
+                                <label for="guided_help">🤝 Receive guided assistance immediately</label>
+                            </div>
+                            <div class="option">
+                                <input type="radio" id="try_first" name="difficulty_approach" value="independent">
+                                <label for="try_first">🔍 Try to figure it out first, then ask for help</label>
+                            </div>
+                            <div class="option">
+                                <input type="radio" id="hints" name="difficulty_approach" value="hints">
+                                <label for="hints">💡 Get hints and work through it step-by-step</label>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <button type="submit" class="submit-btn">Generate My Learning Profile</button>
+                <button type="button" class="reset-btn" onclick="resetForm()">Reset Assessment</button>
+            </form>
+
+            <div class="results-section" id="results">
+                <h3 class="results-title">Your Personalized Learning Profile</h3>
+                <div id="resultsContent"></div>
+            </div>
+
+            <div class="footer">
+                <p>Date: 19 August 2025 | Jurisdiction: United Kingdom (UK GDPR + Data Protection Act 2018)</p>
+                <p>This assessment helps create a personalized learning experience tailored to your preferences.</p>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        // Progress tracking
+        function updateProgress() {
+            const form = document.getElementById('learningAssessment');
+            const formData = new FormData(form);
+            const questions = ['learning_method', 'pace', 'session_length', 'time_preference', 'feedback_style', 'difficulty_approach'];
+            let answered = 0;
+            
+            questions.forEach(question => {
+                if (formData.get(question)) {
+                    answered++;
+                }
+            });
+            
+            // Check tools (checkboxes)
+            const toolsChecked = formData.getAll('tools').length > 0;
+            if (toolsChecked) answered++;
+            
+            const progress = (answered / 7) * 100;
+            document.getElementById('progressFill').style.width = progress + '%';
+        }
+
+        // Add event listeners for progress tracking
+        document.querySelectorAll('input').forEach(input => {
+            input.addEventListener('change', updateProgress);
+        });
+
+        // Form submission
+        document.getElementById('learningAssessment').addEventListener('submit', function(e) {
+            e.preventDefault();
+            generateResults();
+        });
+
+        function generateResults() {
+            const formData = new FormData(document.getElementById('learningAssessment'));
+            
+            const results = {
+                learning_method: formData.get('learning_method'),
+                pace: formData.get('pace'),
+                session_length: formData.get('session_length'),
+                time_preference: formData.get('time_preference'),
+                tools: formData.getAll('tools'),
+                feedback_style: formData.get('feedback_style'),
+                difficulty_approach: formData.get('difficulty_approach')
+            };
+
+            displayResults(results);
+        }
+
+        function displayResults(results) {
+            const resultsContent = document.getElementById('resultsContent');
+            const resultsSection = document.getElementById('results');
+            
+            let html = '';
+
+            // Learning Method
+            if (results.learning_method) {
+                const methodText = {
+                    'examples': 'Example-driven learner - You learn best through concrete examples and real-world case studies',
+                    'theory': 'Conceptual learner - You prefer to understand the underlying theory before applying knowledge',
+                    'practice': 'Hands-on learner - You learn most effectively by diving straight into practical exercises'
+                };
+                html += `<div class="result-item"><span class="result-label">Learning Style:</span><span class="result-value">${methodText[results.learning_method]}</span></div>`;
+            }
+
+            // Pace
+            if (results.pace) {
+                const paceText = {
+                    'slow': 'Steady pace - You benefit from taking time to thoroughly understand each concept',
+                    'moderate': 'Balanced pace - You prefer a measured approach that balances depth with progress',
+                    'fast': 'Accelerated pace - You thrive when covering material quickly and efficiently'
+                };
+                html += `<div class="result-item"><span class="result-label">Optimal Pace:</span><span class="result-value">${paceText[results.pace]}</span></div>`;
+            }
+
+            // Session Length
+            if (results.session_length) {
+                html += `<div class="result-item"><span class="result-label">Ideal Session Length:</span><span class="result-value">${results.session_length} sessions work best for your attention span</span></div>`;
+            }
+
+            // Time Preference
+            if (results.time_preference) {
+                const timeText = {
+                    'morning': 'Morning learner - You\'re most productive and focused in the morning hours',
+                    'afternoon': 'Afternoon learner - You perform best during afternoon sessions',
+                    'evening': 'Evening learner - You\'re most alert and focused during evening hours'
+                };
+                html += `<div class="result-item"><span class="result-label">Best Learning Time:</span><span class="result-value">${timeText[results.time_preference]}</span></div>`;
+            }
+
+            // Tools
+            if (results.tools.length > 0) {
+                const toolsText = results.tools.join(', ').replace(/,([^,]*)$/, ' and$1');
+                html += `<div class="result-item"><span class="result-label">Preferred Tools:</span><span class="result-value">Comfortable with ${toolsText}</span></div>`;
+            }
+
+            // Feedback Style
+            if (results.feedback_style) {
+                const feedbackText = {
+                    'immediate': 'Real-time feedback - You benefit from immediate corrections and encouragement',
+                    'periodic': 'Progress reviews - You prefer structured feedback sessions and progress summaries',
+                    'milestone': 'Achievement-based - You\'re motivated by reaching clear milestones and goals'
+                };
+                html += `<div class="result-item"><span class="result-label">Feedback Preference:</span><span class="result-value">${feedbackText[results.feedback_style]}</span></div>`;
+            }
+
+            // Difficulty Approach
+            if (results.difficulty_approach) {
+                const difficultyText = {
+                    'guided': 'Collaborative approach - You prefer working through challenges with immediate support',
+                    'independent': 'Independent first - You like to attempt solutions before seeking assistance',
+                    'hints': 'Guided discovery - You learn best with hints that lead you to the solution'
+                };
+                html += `<div class="result-item"><span class="result-label">Problem-Solving Style:</span><span class="result-value">${difficultyText[results.difficulty_approach]}</span></div>`;
+            }
+
+            resultsContent.innerHTML = html;
+            resultsSection.style.display = 'block';
+            resultsSection.scrollIntoView({ behavior: 'smooth' });
+        }
+
+        function resetForm() {
+            document.getElementById('learningAssessment').reset();
+            document.getElementById('results').style.display = 'none';
+            document.getElementById('progressFill').style.width = '0%';
+            window.scrollTo({ top: 0, behavior: 'smooth' });
+        }
+
+        // Initialize
+        updateProgress();
+    </script>
+</body>
+</html>
