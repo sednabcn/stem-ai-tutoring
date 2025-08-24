@@ -1,26 +1,16 @@
 {
   "status": "success",
-  "totalResults": 10,
+  "totalResults": 8,
   "articles": [
     {
-      "title": "Apple-Google Talks Heating Up Over Siri-Gemini IPhone Agreement? - Investor's Business Daily",
+      "title": "iOS 26: Eight New Features in Apple Music - MacRumors",
       "source": {
-        "name": "Investor's Business Daily"
+        "name": "MacRumors"
       },
-      "description": "Google stock rose Friday amid a report Apple and Alphabet are in talks over a Gemini-Siri iPhone dea...",
-      "url": "https://www.investors.com/news/technology/google-stock-apple-stock-gemini-siri-iphone-agreement/",
-      "publishedAt": "2025-08-22T20:40:00Z",
-      "processed_at": "2025-08-24T04:26:46.505655+00:00"
-    },
-    {
-      "title": "Android's big redesign is full of blur, but Google will soon let you easily turn it off - Android Authority",
-      "source": {
-        "name": "Android Authority"
-      },
-      "description": "Android's big Material 3 Expressive redesign brings a ton of background blur through the UI, but Goo...",
-      "url": "https://www.androidauthority.com/android-getting-option-disable-background-blur-3590124/",
-      "publishedAt": "2025-08-22T19:37:20Z",
-      "processed_at": "2025-08-24T04:26:46.505655+00:00"
+      "description": "Apple has made several updates to the Apple Music app in iOS 26, and it has AutoMix, which has becom...",
+      "url": "https://www.macrumors.com/guide/ios-26-music/",
+      "publishedAt": "2025-08-22T23:08:00Z",
+      "processed_at": "2025-08-24T05:19:46.002855+00:00"
     },
     {
       "title": "Replaced Is a Beautiful, Brilliant 2.5D Cyberpunk Thriller | gamescom 2025 - IGN",
@@ -30,7 +20,7 @@
       "description": "When you’ve played video games long enough, you eventually develop something of a “Spidey Sense” whe...",
       "url": "https://www.ign.com/articles/replaced-is-a-beautiful-brilliant-25d-cyberpunk-thriller-gamescom-2025",
       "publishedAt": "2025-08-22T19:21:00Z",
-      "processed_at": "2025-08-24T04:26:46.505655+00:00"
+      "processed_at": "2025-08-24T05:19:46.002855+00:00"
     },
     {
       "title": "Microsoft tests letting you resume Android apps on Windows 11 - The Verge",
@@ -40,7 +30,7 @@
       "description": "Microsoft is testing a new Windows 11 feature that will let you resume your Android apps on your PC,...",
       "url": "https://www.theverge.com/news/764484/microsoft-tests-letting-you-resume-android-apps-on-windows-11",
       "publishedAt": "2025-08-22T18:09:23Z",
-      "processed_at": "2025-08-24T04:26:46.505655+00:00"
+      "processed_at": "2025-08-24T05:19:46.002855+00:00"
     },
     {
       "title": "Feature: What's It Like To Attend Gamescom 2025? - Nintendo Life",
@@ -50,7 +40,17 @@
       "description": "Das Ist Wunderbar?...",
       "url": "https://www.nintendolife.com/features/whats-it-like-to-attend-gamescom-2025",
       "publishedAt": "2025-08-22T17:00:00Z",
-      "processed_at": "2025-08-24T04:26:46.505655+00:00"
+      "processed_at": "2025-08-24T05:19:46.002855+00:00"
+    },
+    {
+      "title": "Mortal Kombat: Legacy Kollection final game lineup announced - My Nintendo News",
+      "source": {
+        "name": "My Nintendo News"
+      },
+      "description": "Mortal Kombat: Legacy Kollection is shaping up to be a must have for fans of the Mortal Kombat serie...",
+      "url": "https://mynintendonews.com/2025/08/22/mortal-kombat-legacy-kollection-final-game-lineup-announced/",
+      "publishedAt": "2025-08-22T16:48:34Z",
+      "processed_at": "2025-08-24T05:19:46.002855+00:00"
     },
     {
       "title": "Google details easy Pixel Watch 4 repair process, teases ‘more’ third-party chargers - 9to5Google",
@@ -60,17 +60,7 @@
       "description": "Google has finally made it possible to repair the Pixel Watch 4 and offered some details on the proc...",
       "url": "http://9to5google.com/2025/08/22/google-details-easy-pixel-watch-4-repair-process-teases-more-third-party-chargers/",
       "publishedAt": "2025-08-22T16:05:00Z",
-      "processed_at": "2025-08-24T04:26:46.505655+00:00"
-    },
-    {
-      "title": "Silksong Release Date Has Already Prompted Multiple Game Delays - GameSpot",
-      "source": {
-        "name": "GameSpot"
-      },
-      "description": "At least three game launches are getting out of the way of Hollow Knight: Silksong....",
-      "url": "https://www.gamespot.com/articles/silksong-release-date-has-already-prompted-two-game-delays/1100-6534203/",
-      "publishedAt": "2025-08-22T15:49:04Z",
-      "processed_at": "2025-08-24T04:26:46.505655+00:00"
+      "processed_at": "2025-08-24T05:19:46.002855+00:00"
     },
     {
       "title": "Bungie CEO Pete Parsons steps down, following years of criticism, layoffs, and that infamous classic car collection - Eurogamer",
@@ -80,30 +70,20 @@
       "description": "Bungie CEO Pete Parsons has stepped down from his position after over two decades at the studio....",
       "url": "https://www.eurogamer.net/bungie-ceo-pete-parsons-steps-down-following-years-of-criticism-layoffs-and-that-infamous-classic-car-collection",
       "publishedAt": "2025-08-22T15:42:41Z",
-      "processed_at": "2025-08-24T04:26:46.505655+00:00"
+      "processed_at": "2025-08-24T05:19:46.002855+00:00"
     },
     {
-      "title": "Android 16’s new Wallet shortcut is missing on some Pixels, and Google won’t say why - Android Authority",
+      "title": "Indie Devs Are Delaying Their Games Because Of Silksong [Update] - aftermath.site",
       "source": {
-        "name": "Android Authority"
+        "name": "Aftermath.site"
       },
-      "description": "Android 16 introduces a new Google Wallet shortcut, but it's not available on older Pixels. Here's w...",
-      "url": "https://www.androidauthority.com/android-16-wallet-shortcut-missing-3588477/",
-      "publishedAt": "2025-08-22T15:37:16Z",
-      "processed_at": "2025-08-24T04:26:46.505655+00:00"
-    },
-    {
-      "title": "At This Point, It’s Impossible to Know What the Trump Phone Looks Like - WIRED",
-      "source": {
-        "name": "Wired"
-      },
-      "description": "Despite accepting preorders and promising that “the wait is almost over,” Trump Mobile doesn’t seem ...",
-      "url": "https://www.wired.com/story/trump-phone-t1-samsung-spigen/",
-      "publishedAt": "2025-08-22T15:08:24Z",
-      "processed_at": "2025-08-24T04:26:46.505655+00:00"
+      "description": "'I feel like a little krill trying to not get eaten by a blue whale,' wrote one developer...",
+      "url": "https://aftermath.site/silksong-indie-delays",
+      "publishedAt": "2025-08-22T15:40:00Z",
+      "processed_at": "2025-08-24T05:19:46.002855+00:00"
     }
   ],
-  "lastUpdated": "2025-08-24T04:26:46.505726+00:00",
+  "lastUpdated": "2025-08-24T05:19:46.002921+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
