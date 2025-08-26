@@ -3,14 +3,54 @@
   "totalResults": 10,
   "articles": [
     {
+      "title": "iPhone Fold detailed in new report — display, cameras and Touch ID, plus 3-year iPhone reinvention - Tom's Guide",
+      "source": {
+        "name": "Tom's Guide"
+      },
+      "description": "Here's how Apple plans to reinvent the iPhone over the next three years...",
+      "url": "https://www.tomsguide.com/phones/iphones/forget-the-iphone-17-foldable-iphone-tipped-to-debut-next-year-with-four-cameras-touch-id-and-apple-cellular-modem",
+      "publishedAt": "2025-08-25T12:28:37Z",
+      "processed_at": "2025-08-26T11:18:14.973890+00:00"
+    },
+    {
+      "title": "Bandai Namco shares TGS 2025 lineup - Nintendo Everything",
+      "source": {
+        "name": "Nintendoeverything.com"
+      },
+      "description": "The 2025 Tokyo Game Show is just a month away, and Bandai Namco has just shown off its lineup for th...",
+      "url": "https://nintendoeverything.com/bandai-namco-shares-tgs-2025-lineup/",
+      "publishedAt": "2025-08-25T11:52:53Z",
+      "processed_at": "2025-08-26T11:18:14.973890+00:00"
+    },
+    {
+      "title": "Japan's National Library Says Game-Key Cards Are Not Eligible For Preservation - Nintendo Life",
+      "source": {
+        "name": "Nintendo Life"
+      },
+      "description": "Gee, ya think?...",
+      "url": "https://www.nintendolife.com/news/2025/08/japans-national-library-says-game-key-cards-are-not-eligible-for-preservation",
+      "publishedAt": "2025-08-25T11:30:00Z",
+      "processed_at": "2025-08-26T11:18:14.973890+00:00"
+    },
+    {
+      "title": "45+ Windows keyboard shortcuts I use to instantly boost my productivity - ZDNET",
+      "source": {
+        "name": "ZDNet"
+      },
+      "description": "Keyboard shortcuts can seriously boost your workflow - if you know them. Here are 48 of the most ess...",
+      "url": "https://www.zdnet.com/article/45-windows-keyboard-shortcuts-i-use-to-instantly-boost-my-productivity/",
+      "publishedAt": "2025-08-25T09:55:00Z",
+      "processed_at": "2025-08-26T11:18:14.973890+00:00"
+    },
+    {
       "title": "We've Now Got Our First Look At Elden Ring In Handheld Mode For Switch 2 - Nintendo Life",
       "source": {
         "name": "Nintendo Life"
       },
-      "description": "",
+      "description": "Though it's hardly the best quality...",
       "url": "https://www.nintendolife.com/news/2025/08/weve-now-got-our-first-look-at-elden-ring-in-handheld-mode-for-switch-2",
       "publishedAt": "2025-08-25T09:30:00Z",
-      "processed_at": "2025-08-26T10:22:19.793034+00:00"
+      "processed_at": "2025-08-26T11:18:14.973890+00:00"
     },
     {
       "title": "Why can't we walk through walls if atoms are mostly empty space? - Live Science",
@@ -20,7 +60,17 @@
       "description": "Most of an atom is empty space, so why does some matter feel solid? Two physics principles explain w...",
       "url": "https://www.livescience.com/physics-mathematics/why-cant-we-walk-through-walls-if-atoms-are-mostly-empty-space",
       "publishedAt": "2025-08-25T09:00:00Z",
-      "processed_at": "2025-08-26T10:22:19.793034+00:00"
+      "processed_at": "2025-08-26T11:18:14.973890+00:00"
+    },
+    {
+      "title": "These 7 household gadgets were secretly driving up my power bill - unplugging them helped - ZDNET",
+      "source": {
+        "name": "ZDNet"
+      },
+      "description": "You've likely heard of 'vampire devices,' but you might be shocked at how many gadgets in your home ...",
+      "url": "https://www.zdnet.com/home-and-office/energy/these-7-household-gadgets-were-secretly-driving-up-my-power-bill-unplugging-them-helped/",
+      "publishedAt": "2025-08-25T08:30:00Z",
+      "processed_at": "2025-08-26T11:18:14.973890+00:00"
     },
     {
       "title": "Google Messages beta rolling out QR code key verification - 9to5Google",
@@ -30,80 +80,30 @@
       "description": "Google Messages is rolling out QR code-based key verification to confirm that you’re “communicating ...",
       "url": "http://9to5google.com/2025/08/25/google-messages-qr-code-key/",
       "publishedAt": "2025-08-25T07:05:00Z",
-      "processed_at": "2025-08-26T10:22:19.793034+00:00"
+      "processed_at": "2025-08-26T11:18:14.973890+00:00"
     },
     {
-      "title": "Capcom shares TGS 2025 lineup - Nintendo Everything",
+      "title": "ASRock launches X870 LiveMixer motherboard with 25 USB ports at $229 - VideoCardz.com",
       "source": {
-        "name": "Nintendoeverything.com"
+        "name": "Videocardz.com"
       },
-      "description": "The 2025 Tokyo Game Show is just a month away, and Capcom has now come forward with its lineup for t...",
-      "url": "https://nintendoeverything.com/capcom-shares-tgs-2025-lineup/",
-      "publishedAt": "2025-08-25T02:56:18Z",
-      "processed_at": "2025-08-26T10:22:19.793034+00:00"
+      "description": "ASRock launches X870 LiveMixer for content creators ASRock X870 LiveMixer WiFi launches with 25 USB ...",
+      "url": "https://videocardz.com/newz/asrock-launches-x870-livemixer-motherboard-with-25-usb-ports-at-229",
+      "publishedAt": "2025-08-25T07:04:00Z",
+      "processed_at": "2025-08-26T11:18:14.973890+00:00"
     },
     {
-      "title": "Mac mini vs Mac Studio: For under $900 right now, which one should you pick up? - 9to5Mac",
+      "title": "A Pilates instructor says a resistance band can be as good as a reformer, if you know how to use it—start with these six moves - Fit&Well",
       "source": {
-        "name": "9to5Mac"
+        "name": "Fitandwell.com"
       },
-      "description": "Apple has three standalone Mac desktops – the Mac mini, Mac Studio, and Mac Pro. Mac Pro isn’t exact...",
-      "url": "https://9to5mac.com/2025/08/24/apple-mac-mini-vs-mac-studio-comparison-best-value-under-900/",
-      "publishedAt": "2025-08-25T01:46:00Z",
-      "processed_at": "2025-08-26T10:22:19.793034+00:00"
-    },
-    {
-      "title": "Moles ripping up your lawn? Amazon shoppers say this $35 ultrasonic repellent is saving the day – it's solar powered and doesn't cause any harm to wildlife - Homes and Gardens",
-      "source": {
-        "name": "Google News"
-      },
-      "description": "",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5PckN0Q0VWX2hPR1BmeFBEZm1CbDc0UG0tb3A2QmlwRHprWDNGXzh2MDVwQ2VYdnQ2S0xQRlB3ZGlDeFlldWJsTWpGdEV2T0VQSmxjWDdNTlp3T1lqN1E5cUZpYWdROTNaQmVCLV9PY1gxUUE?oc=5",
-      "publishedAt": "2025-08-25T01:03:25Z",
-      "processed_at": "2025-08-26T10:22:19.793034+00:00"
-    },
-    {
-      "title": "David Jones-Garcia throws punch in brawl between the Dominican Republic and Argentina - Pounding The Rock",
-      "source": {
-        "name": "Pounding The Rock "
-      },
-      "description": "Jones-Garcia’s great performance was tainted by a lapse in judgement after the game....",
-      "url": "https://www.poundingtherock.com/general/87333/david-jones-garcia-throws-punch-in-brawl-between-the-domincan-republic-and-argentina",
-      "publishedAt": "2025-08-24T22:17:11Z",
-      "processed_at": "2025-08-26T10:22:19.793034+00:00"
-    },
-    {
-      "title": "The Pixel Tablet is now down to the price it should have been at launch - Android Police",
-      "source": {
-        "name": "Android Police"
-      },
-      "description": "An absolute steal at $249...",
-      "url": "https://www.androidpolice.com/google-pixel-tablet-249-deal/",
-      "publishedAt": "2025-08-24T22:03:00Z",
-      "processed_at": "2025-08-26T10:22:19.793034+00:00"
-    },
-    {
-      "title": "This Week’s Japanese Game Releases: Metal Gear Solid Delta: Snake Eater, Lost Soul Aside, Super Robot Wars Y, more - Gematsu",
-      "source": {
-        "name": "Gematsu"
-      },
-      "description": "Metal Gear Solid Delta: Snake Eater for PlayStation 5, Xbox Series, and PC, Lost Soul Aside for Play...",
-      "url": "https://www.gematsu.com/2025/08/this-weeks-japanese-game-releases-metal-gear-solid-delta-snake-eater-lost-soul-aside-super-robot-wars-y-more",
-      "publishedAt": "2025-08-24T20:51:49Z",
-      "processed_at": "2025-08-26T10:22:19.793034+00:00"
-    },
-    {
-      "title": "Apple Plans Three Consecutive Years of iPhone Revamps - PYMNTS.com",
-      "source": {
-        "name": "pymnts.com"
-      },
-      "description": "After a series of moderate upgrades, Apple is planning a three-year iPhone overhaul. That’s accordin...",
-      "url": "http://www.pymnts.com/apple/2025/apple-plans-three-consecutive-years-of-iphone-revamps/",
-      "publishedAt": "2025-08-24T20:44:58Z",
-      "processed_at": "2025-08-26T10:22:19.793034+00:00"
+      "description": "Develop strength, mobility and coordination with just one tool...",
+      "url": "https://www.fitandwell.com/exercise/pilates/a-pilates-instructor-says-a-resistance-band-can-be-as-good-as-a-reformer-if-you-know-how-to-use-it-start-with-these-six-moves",
+      "publishedAt": "2025-08-25T05:02:28Z",
+      "processed_at": "2025-08-26T11:18:14.973890+00:00"
     }
   ],
-  "lastUpdated": "2025-08-26T10:22:19.793109+00:00",
+  "lastUpdated": "2025-08-26T11:18:14.973960+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
