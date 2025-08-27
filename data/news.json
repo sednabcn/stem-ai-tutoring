@@ -1,110 +1,60 @@
 {
   "status": "success",
-  "totalResults": 10,
+  "totalResults": 5,
   "articles": [
     {
-      "title": "AirPods Pro 3: Four Key Design Changes Anticipated - MacRumors",
+      "title": "Breaking: Scientists discover new method for faster learning",
       "source": {
-        "name": "MacRumors"
+        "name": "Science Daily"
       },
-      "description": "Apple hasn't updated the AirPods Pro since 2022 other than a shift from Lightning to USB-C, and the ...",
-      "url": "https://www.macrumors.com/2025/08/26/airpods-pro-3-three-key-design-changes-anticipated/",
-      "publishedAt": "2025-08-26T11:05:17Z",
-      "processed_at": "2025-08-27T13:29:06.102218+00:00"
+      "description": "Revolutionary approach to accelerated learning techniques...",
+      "url": "#",
+      "publishedAt": "2025-08-27T14:20:34.469046+00:00",
+      "processed_at": "2025-08-27T14:20:34.469046+00:00"
     },
     {
-      "title": "NVIDIA Delivers The Promise of Neural Rendering & Gaming With Blackwell RTX: Demos RTX PRO 6000 Running 4 Instances of Cyberpunk 2077 Using MIG - Wccftech",
+      "title": "Education News: Online tutoring platform shows 85% improvement rates",
       "source": {
-        "name": "Wccftech"
+        "name": "EdTech Weekly"
       },
-      "description": "NVIDIA has again highlighted the neural rendering & gaming innovations it delivered with Blackwell R...",
-      "url": "https://wccftech.com/nvidia-delivers-promise-of-neural-rendering-gaming-with-blackwell-rtx-demos-rtx-pro-6000-running-4-instances-of-cyberpunk-2077/",
-      "publishedAt": "2025-08-26T09:25:00Z",
-      "processed_at": "2025-08-27T13:29:06.102218+00:00"
+      "description": "Comprehensive study reveals significant learning gains...",
+      "url": "#",
+      "publishedAt": "2025-08-27T14:20:34.469046+00:00",
+      "processed_at": "2025-08-27T14:20:34.469046+00:00"
     },
     {
-      "title": "Demonschool delayed due to Hollow Knight Silksong release, \"the GTA of indie games\" - Eurogamer",
+      "title": "Tech Update: AI-powered study tools gain popularity",
       "source": {
-        "name": "Eurogamer.net"
+        "name": "TechCrunch"
       },
-      "description": "Demonschool, the forthcoming RPG Eurogamer described as \"Persona meets Buffy\", has been delayed once...",
-      "url": "https://www.eurogamer.net/demonschool-delayed-due-to-hollow-knight-silksong-release-the-gta-of-indie-games",
-      "publishedAt": "2025-08-26T09:15:08Z",
-      "processed_at": "2025-08-27T13:29:06.102218+00:00"
+      "description": "Artificial intelligence transforms education...",
+      "url": "#",
+      "publishedAt": "2025-08-27T14:20:34.469046+00:00",
+      "processed_at": "2025-08-27T14:20:34.469046+00:00"
     },
     {
-      "title": "Nintendo Direct Reportedly Set for September, as Metroid Prime 4 Release Date and Mario 40th Anniversary Speculation Mounts - IGN",
+      "title": "Research: Personalized learning shows promising results",
       "source": {
-        "name": "IGN"
+        "name": "Educational Research"
       },
-      "description": "A fresh Nintendo Direct broadcast will air in September, according to a new report....",
-      "url": "https://www.ign.com/articles/nintendo-direct-reportedly-set-for-september-as-metroid-prime-4-release-date-and-mario-40th-anniversary-speculation-mounts",
-      "publishedAt": "2025-08-26T09:01:12Z",
-      "processed_at": "2025-08-27T13:29:06.102218+00:00"
+      "description": "Tailored educational methods demonstrate effectiveness...",
+      "url": "#",
+      "publishedAt": "2025-08-27T14:20:34.469046+00:00",
+      "processed_at": "2025-08-27T14:20:34.469046+00:00"
     },
     {
-      "title": "Google to Verify All Android Developers in 4 Countries to Block Malicious Apps - The Hacker News",
+      "title": "Innovation: New classroom tech boosts engagement",
       "source": {
-        "name": "Internet"
+        "name": "Digital Learning"
       },
-      "description": "Google will verify all Android developers by September 2026 in select countries to curb malicious ap...",
-      "url": "https://thehackernews.com/2025/08/google-to-verify-all-android-developers.html",
-      "publishedAt": "2025-08-26T06:27:00Z",
-      "processed_at": "2025-08-27T13:29:06.102218+00:00"
-    },
-    {
-      "title": "Nintendo Music Update Adds More Songs To Kirby And The Forgotten Land Playlist - Nintendo Life",
-      "source": {
-        "name": "Nintendo Life"
-      },
-      "description": "The Switch 2 Edition arrives this week...",
-      "url": "https://www.nintendolife.com/news/2025/08/nintendo-music-update-adds-more-songs-to-kirby-and-the-forgotten-land-playlist",
-      "publishedAt": "2025-08-26T03:30:00Z",
-      "processed_at": "2025-08-27T13:29:06.102218+00:00"
-    },
-    {
-      "title": "What do NFL practice squad rules say about Buffalo Bills’ 2025 roster? - Buffalo Rumblings",
-      "source": {
-        "name": "Buffalo Rumblings"
-      },
-      "description": "Explaining NFL practice squad rules ahead of 53-man roster cutdowns....",
-      "url": "https://www.buffalorumblings.com/buffalo-bills-roster/114203/what-do-nfl-practice-squad-rules-say-about-buffalo-bills-2025-roster",
-      "publishedAt": "2025-08-26T02:30:00Z",
-      "processed_at": "2025-08-27T13:29:06.102218+00:00"
-    },
-    {
-      "title": "Google Photos gets a sleek new interface with easier access to important metadata - Android Police",
-      "source": {
-        "name": "Android Police"
-      },
-      "description": "A small but impactful change...",
-      "url": "https://www.androidpolice.com/google-photo-photo-view-update/",
-      "publishedAt": "2025-08-26T02:15:00Z",
-      "processed_at": "2025-08-27T13:29:06.102218+00:00"
-    },
-    {
-      "title": "MacOS 26 Tahoe’s Dead Canary Utility App Icons - Daring Fireball",
-      "source": {
-        "name": "Daringfireball.net"
-      },
-      "description": "These are the not the work of carpenters who care about the backs of the cabinets they’re building. ...",
-      "url": "https://daringfireball.net/2025/08/macos_26_tahoes_dead_canary_utility_app_icons",
-      "publishedAt": "2025-08-26T00:04:51Z",
-      "processed_at": "2025-08-27T13:29:06.102218+00:00"
-    },
-    {
-      "title": "The colorful array of iPhone 17’s new Liquid Glass inspired cases has leaked with images - PhoneArena",
-      "source": {
-        "name": "PhoneArena"
-      },
-      "description": "These are all of the colors that you will be able to get a phone case for your iPhone 17 in....",
-      "url": "https://www.phonearena.com/news/colorful-array-of-iphone-17-new-liquid-glass-inspired-cases-leaked-images_id173545",
-      "publishedAt": "2025-08-25T23:26:12Z",
-      "processed_at": "2025-08-27T13:29:06.102218+00:00"
+      "description": "Interactive technologies boost student participation...",
+      "url": "#",
+      "publishedAt": "2025-08-27T14:20:34.469046+00:00",
+      "processed_at": "2025-08-27T14:20:34.469046+00:00"
     }
   ],
-  "lastUpdated": "2025-08-27T13:29:06.102290+00:00",
-  "source": "NewsAPI",
+  "lastUpdated": "2025-08-27T14:20:34.469061+00:00",
+  "source": "Fallback",
   "metadata": {
     "processed_by": "GitHub Actions",
     "script_version": "2.0.0",
