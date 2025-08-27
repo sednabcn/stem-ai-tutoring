@@ -1,7 +1,77 @@
 {
   "status": "success",
-  "totalResults": 9,
+  "totalResults": 10,
   "articles": [
+    {
+      "title": "Apple’s iPhone 17 launch event is set for September 9th - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "Apple has announced the date of its next big event, where the company is expected to launch the iPho...",
+      "url": "https://www.theverge.com/apple/766062/apple-iphone-17-launch-event-awe-dropping",
+      "publishedAt": "2025-08-26T16:12:16Z",
+      "processed_at": "2025-08-27T17:17:32.141888+00:00"
+    },
+    {
+      "title": "Google is building a Duolingo rival into the Translate app - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "Google is launching new AI-powered language learning tools in its Translate app. The feature uses AI...",
+      "url": "https://www.theverge.com/news/765872/google-translate-ai-language-learning-duolingo",
+      "publishedAt": "2025-08-26T16:00:00Z",
+      "processed_at": "2025-08-27T17:17:32.141888+00:00"
+    },
+    {
+      "title": "iRacing Studios To Produce Standalone INDYCAR Video Game in 2026 - INDYCAR.com",
+      "source": {
+        "name": "INDYCAR"
+      },
+      "description": "iRacing Studios will release an INDYCAR title for PlayStation, Xbox and Steam in the second half of ...",
+      "url": "http://www.indycar.com/news/2025/08/08-26-iracing-console-game",
+      "publishedAt": "2025-08-26T15:11:10Z",
+      "processed_at": "2025-08-27T17:17:32.141888+00:00"
+    },
+    {
+      "title": "Framework Laptop 16 update brings Nvidia GeForce to the modular gaming laptop - Ars Technica",
+      "source": {
+        "name": "Ars Technica"
+      },
+      "description": "Older Ryzen 7040-based model will stick around at $1,299 as a lower-end option....",
+      "url": "https://arstechnica.com/gadgets/2025/08/framework-laptop-16-update-brings-nvidia-geforce-to-the-modular-gaming-laptop/",
+      "publishedAt": "2025-08-26T15:05:51Z",
+      "processed_at": "2025-08-27T17:17:32.141888+00:00"
+    },
+    {
+      "title": "Helldivers 2 Into the Unjust update takes the battle to the alien Hive Worlds - Eurogamer",
+      "source": {
+        "name": "Eurogamer.net"
+      },
+      "description": "A new major update for Helldivers 2 has been unveiled, which will finally take the battle to the hom...",
+      "url": "https://www.eurogamer.net/helldivers-2-into-the-unjust-update-takes-the-battle-to-the-alien-hive-worlds",
+      "publishedAt": "2025-08-26T14:34:40Z",
+      "processed_at": "2025-08-27T17:17:32.141888+00:00"
+    },
+    {
+      "title": "Google issues warning to billions of Gmail users over password hack - The Independent",
+      "source": {
+        "name": "The-independent.com"
+      },
+      "description": "Cyber criminals known as ‘ShinyHunters’ have previously targeted AT&T Wireless, Microsoft, Santander...",
+      "url": "https://www.the-independent.com/tech/gmail-password-update-google-hack-b2814152.html",
+      "publishedAt": "2025-08-26T14:30:00Z",
+      "processed_at": "2025-08-27T17:17:32.141888+00:00"
+    },
+    {
+      "title": "Google will verify Android developers distributing apps outside the Play store - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "Google is increasing security measures around sideloading apps by removing anonymity for Android dev...",
+      "url": "https://www.theverge.com/news/765881/google-android-apps-side-loading-developer-verification",
+      "publishedAt": "2025-08-26T14:02:47Z",
+      "processed_at": "2025-08-27T17:17:32.141888+00:00"
+    },
     {
       "title": "Google Gemini’s AI image model gets a ‘bananas’ upgrade - TechCrunch",
       "source": {
@@ -10,17 +80,7 @@
       "description": "Google says that it's behind the anonymous AI image editor \"nano-banana\" that's been making waves on...",
       "url": "https://techcrunch.com/2025/08/26/google-geminis-ai-image-model-gets-a-bananas-upgrade/",
       "publishedAt": "2025-08-26T14:00:00Z",
-      "processed_at": "2025-08-27T16:25:47.054004+00:00"
-    },
-    {
-      "title": "Pokémon Legends: Z-A Seems To Be Teasing Another New Mega Evolution - Nintendo Life",
-      "source": {
-        "name": "Nintendo Life"
-      },
-      "description": "\"Ready for the mega matchup of the millennium?\"...",
-      "url": "https://www.nintendolife.com/news/2025/08/pokemon-legends-z-a-seems-to-be-teasing-another-new-mega-evolution",
-      "publishedAt": "2025-08-26T13:45:00Z",
-      "processed_at": "2025-08-27T16:25:47.054004+00:00"
+      "processed_at": "2025-08-27T17:17:32.141888+00:00"
     },
     {
       "title": "Rumor: AirPods Pro 3 design will borrow two changes from AirPods 4 - 9to5Mac",
@@ -30,70 +90,20 @@
       "description": "AirPods Pro 3 are expected to launch soon, and a new rumor points to Apple borrowing a pair of desig...",
       "url": "https://9to5mac.com/2025/08/26/rumor-airpods-pro-3-design-will-borrow-two-changes-from-airpods-4/",
       "publishedAt": "2025-08-26T13:31:00Z",
-      "processed_at": "2025-08-27T16:25:47.054004+00:00"
+      "processed_at": "2025-08-27T17:17:32.141888+00:00"
     },
     {
-      "title": "Tales of Transformation (Pokémon GO Season) - Pokémon GO Hub",
+      "title": "Nintendo Reportedly 'Almost Discouraging' Switch 2 Development as Studios Told to Launch Games on Switch 1 and Rely on Backwards Compatibility Instead - IGN",
       "source": {
-        "name": "Pokemon GO Hub"
+        "name": "IGN"
       },
-      "description": "Get ready for Pokémon GO’s Tales of Transformation Season! Running from September 2, 2025, to Decemb...",
-      "url": "https://pokemongohub.net/post/event/tales-of-transformation-pokemon-go-season/",
-      "publishedAt": "2025-08-26T13:17:41Z",
-      "processed_at": "2025-08-27T16:25:47.054004+00:00"
-    },
-    {
-      "title": "Logitech’s MX Master 4 leaks point to haptic feedback - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "Good vibrations....",
-      "url": "https://www.theverge.com/news/765847/logitech-mx-master-4-leaks-haptic-feedback",
-      "publishedAt": "2025-08-26T13:15:29Z",
-      "processed_at": "2025-08-27T16:25:47.054004+00:00"
-    },
-    {
-      "title": "Hands-on with the Level Lock Pro: sleeker, smarter, still very expensive - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "This smart lock boasts a minimalist design, Apple Home Key and Matter support, plus new door-sense t...",
-      "url": "https://www.theverge.com/hands-on/765571/level-lock-pro-hands-on-review-apple-home-key-matter-thread",
-      "publishedAt": "2025-08-26T13:00:00Z",
-      "processed_at": "2025-08-27T16:25:47.054004+00:00"
-    },
-    {
-      "title": "\"We Are Not Delaying\" - Dark Deity 2 Dev Stands Firm Against Silksong - Nintendo Life",
-      "source": {
-        "name": "Nintendo Life"
-      },
-      "description": "Godspeed...",
-      "url": "https://www.nintendolife.com/news/2025/08/we-are-not-delaying-dark-deity-2-dev-stands-firm-against-silksong",
-      "publishedAt": "2025-08-26T12:30:00Z",
-      "processed_at": "2025-08-27T16:25:47.054004+00:00"
-    },
-    {
-      "title": "Hasselblad’s new medium format flagship comes with end-to-end HDR - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "Say hello to the X2D II 100C....",
-      "url": "https://www.theverge.com/news/765787/hasselblad-x2d-ii-100c-camera-launch",
-      "publishedAt": "2025-08-26T12:00:00Z",
-      "processed_at": "2025-08-27T16:25:47.054004+00:00"
-    },
-    {
-      "title": "Preview: Hellraiser PS5's Sexual Horror Is Pushing Its M Rating to the Max - Push Square",
-      "source": {
-        "name": "Push Square"
-      },
-      "description": "Pain for pleasure...",
-      "url": "https://www.pushsquare.com/previews/hellraiser-ps5s-sexual-horror-is-pushing-its-m-rating-to-the-max",
-      "publishedAt": "2025-08-26T12:00:00Z",
-      "processed_at": "2025-08-27T16:25:47.054004+00:00"
+      "description": "",
+      "url": "https://www.ign.com/articles/nintendo-reportedly-almost-discouraging-switch-2-development-as-studios-told-to-launch-games-on-switch-1-and-rely-on-backwards-compatibility-instead",
+      "publishedAt": "2025-08-26T13:30:00Z",
+      "processed_at": "2025-08-27T17:17:32.141888+00:00"
     }
   ],
-  "lastUpdated": "2025-08-27T16:25:47.054074+00:00",
+  "lastUpdated": "2025-08-27T17:17:32.141963+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
