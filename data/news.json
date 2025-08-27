@@ -3,6 +3,36 @@
   "totalResults": 10,
   "articles": [
     {
+      "title": "Samsung hints at massive One UI 8 update wave in September - Sammy Fans",
+      "source": {
+        "name": "Sammyfans.com"
+      },
+      "description": "Samsung is preparing for a massive wave of One UI 8 update rollout in September. Despite bringing an...",
+      "url": "https://www.sammyfans.com/2025/08/26/samsung-one-ui-8-update-wave-september/",
+      "publishedAt": "2025-08-26T05:23:17Z",
+      "processed_at": "2025-08-27T09:21:39.399776+00:00"
+    },
+    {
+      "title": "Nintendo Music Update Adds More Songs To Kirby And The Forgotten Land Playlist - Nintendo Life",
+      "source": {
+        "name": "Nintendo Life"
+      },
+      "description": "The Switch 2 Edition arrives this week...",
+      "url": "https://www.nintendolife.com/news/2025/08/nintendo-music-update-adds-more-songs-to-kirby-and-the-forgotten-land-playlist",
+      "publishedAt": "2025-08-26T03:30:00Z",
+      "processed_at": "2025-08-27T09:21:39.399776+00:00"
+    },
+    {
+      "title": "Nintendo's New 'Hello, Mario!' App Is Now Available On The Switch - Nintendo Life",
+      "source": {
+        "name": "Nintendo Life"
+      },
+      "description": "A free download on the Japanese eShop...",
+      "url": "https://www.nintendolife.com/news/2025/08/nintendos-new-hello-mario-app-is-now-available-on-the-switch",
+      "publishedAt": "2025-08-26T00:35:00Z",
+      "processed_at": "2025-08-27T09:21:39.399776+00:00"
+    },
+    {
       "title": "MacOS 26 Tahoe’s Dead Canary Utility App Icons - Daring Fireball",
       "source": {
         "name": "Daringfireball.net"
@@ -10,7 +40,27 @@
       "description": "These are the not the work of carpenters who care about the backs of the cabinets they’re building. ...",
       "url": "https://daringfireball.net/2025/08/macos_26_tahoes_dead_canary_utility_app_icons",
       "publishedAt": "2025-08-26T00:04:51Z",
-      "processed_at": "2025-08-27T08:27:22.302064+00:00"
+      "processed_at": "2025-08-27T09:21:39.399776+00:00"
+    },
+    {
+      "title": "The colorful array of iPhone 17’s new Liquid Glass inspired cases has leaked with images - PhoneArena",
+      "source": {
+        "name": "PhoneArena"
+      },
+      "description": "These are all of the colors that you will be able to get a phone case for your iPhone 17 in....",
+      "url": "https://www.phonearena.com/news/colorful-array-of-iphone-17-new-liquid-glass-inspired-cases-leaked-images_id173545",
+      "publishedAt": "2025-08-25T23:26:12Z",
+      "processed_at": "2025-08-27T09:21:39.399776+00:00"
+    },
+    {
+      "title": "All Characters In Sonic Racing: CrossWorlds Announced So Far - GameSpot",
+      "source": {
+        "name": "GameSpot"
+      },
+      "description": "Here's everyone you can race with in Sonic Racing: CrossWorlds....",
+      "url": "https://www.gamespot.com/gallery/all-characters-in-sonic-racing-crossworlds/2900-6920/",
+      "publishedAt": "2025-08-25T22:30:48Z",
+      "processed_at": "2025-08-27T09:21:39.399776+00:00"
     },
     {
       "title": "Meta to Debut Smart Glasses at September’s ‘Connect’ Event - PYMNTS.com",
@@ -20,17 +70,17 @@
       "description": "Meta reportedly plans to introduce its new smart glasses at next month’s “Connect” conference. Those...",
       "url": "http://www.pymnts.com/meta/2025/meta-to-debut-smart-glasses-at-septembers-connect-event/",
       "publishedAt": "2025-08-25T22:15:53Z",
-      "processed_at": "2025-08-27T08:27:22.302064+00:00"
+      "processed_at": "2025-08-27T09:21:39.399776+00:00"
     },
     {
-      "title": "Gamethread 8/25: Phillies at Mets - The Good Phight",
+      "title": "Details About the First iPhone Foldable Are Coming Into Focus - CNET",
       "source": {
-        "name": "Thegoodphight.com"
+        "name": "CNET"
       },
-      "description": "Time to take the first one...",
-      "url": "https://www.thegoodphight.com/phillies-game-threads/72395/gamethread-8-25-phillies-at-mets",
-      "publishedAt": "2025-08-25T22:15:00Z",
-      "processed_at": "2025-08-27T08:27:22.302064+00:00"
+      "description": "The first models will reportedly be black and white, with five cameras and less of a visible crease....",
+      "url": "https://www.cnet.com/tech/mobile/details-about-the-first-iphone-foldable-are-coming-into-focus/",
+      "publishedAt": "2025-08-25T22:05:00Z",
+      "processed_at": "2025-08-27T09:21:39.399776+00:00"
     },
     {
       "title": "Apple study shows LLMs also benefit from the oldest productivity trick in the book - 9to5Mac",
@@ -40,7 +90,7 @@
       "description": "An open-source LLM saw big performance improvements after being told by Apple researchers to check i...",
       "url": "https://9to5mac.com/2025/08/25/apple-study-shows-llms-also-benefit-from-the-oldest-productivity-trick-in-the-book/",
       "publishedAt": "2025-08-25T21:53:00Z",
-      "processed_at": "2025-08-27T08:27:22.302064+00:00"
+      "processed_at": "2025-08-27T09:21:39.399776+00:00"
     },
     {
       "title": "New AI attack hides data-theft prompts in downscaled images - BleepingComputer",
@@ -50,60 +100,10 @@
       "description": "Researchers have developed a novel attack that steals user data by injecting malicious prompts in im...",
       "url": "https://www.bleepingcomputer.com/news/security/new-ai-attack-hides-data-theft-prompts-in-downscaled-images/",
       "publishedAt": "2025-08-25T21:34:57Z",
-      "processed_at": "2025-08-27T08:27:22.302064+00:00"
-    },
-    {
-      "title": "Google will block sideloading of unverified Android apps starting next year - Ars Technica",
-      "source": {
-        "name": "Ars Technica"
-      },
-      "description": "Google says it’s no different than checking IDs at the airport....",
-      "url": "https://arstechnica.com/gadgets/2025/08/google-will-block-sideloading-of-unverified-android-apps-starting-next-year/",
-      "publishedAt": "2025-08-25T20:52:55Z",
-      "processed_at": "2025-08-27T08:27:22.302064+00:00"
-    },
-    {
-      "title": "AI sycophancy isn’t just a quirk, experts consider it a ‘dark pattern’ to turn users into profit - TechCrunch",
-      "source": {
-        "name": "TechCrunch"
-      },
-      "description": "Experts say that many of the AI industry’s design decisions are likely to fuel episodes of AI psycho...",
-      "url": "https://techcrunch.com/2025/08/25/ai-sycophancy-isnt-just-a-quirk-experts-consider-it-a-dark-pattern-to-turn-users-into-profit/",
-      "publishedAt": "2025-08-25T20:50:31Z",
-      "processed_at": "2025-08-27T08:27:22.302064+00:00"
-    },
-    {
-      "title": "Why Apple Stock Could Sell Off After iPhone 17 Reveal - Investor's Business Daily",
-      "source": {
-        "name": "Investor's Business Daily"
-      },
-      "description": "Apple stock could sell off after the company announces its iPhone 17 series smartphones next month, ...",
-      "url": "https://www.investors.com/news/technology/apple-stock-could-sell-off-on-iphone-17-reveal-analyst-says/",
-      "publishedAt": "2025-08-25T20:21:00Z",
-      "processed_at": "2025-08-27T08:27:22.302064+00:00"
-    },
-    {
-      "title": "Google Confirms Most Gmail Users Must Change Passwords - Forbes",
-      "source": {
-        "name": "Forbes"
-      },
-      "description": "Do not let hackers gain access to your account....",
-      "url": "https://www.forbes.com/sites/zakdoffman/2025/08/25/google-warns-most-gmail-users-must-change-passwords/",
-      "publishedAt": "2025-08-25T20:08:58Z",
-      "processed_at": "2025-08-27T08:27:22.302064+00:00"
-    },
-    {
-      "title": "Samsung confirms One UI 8 Stable release is on track, no delays - Sammy Fans",
-      "source": {
-        "name": "Sammyfans.com"
-      },
-      "description": "If you are concerned about delays in the One UI 8 Stable rollout, there’s no need to worry. Samsung ...",
-      "url": "https://www.sammyfans.com/2025/08/25/samsung-one-ui-8-stable-no-delays/",
-      "publishedAt": "2025-08-25T20:06:36Z",
-      "processed_at": "2025-08-27T08:27:22.302064+00:00"
+      "processed_at": "2025-08-27T09:21:39.399776+00:00"
     }
   ],
-  "lastUpdated": "2025-08-27T08:27:22.302139+00:00",
+  "lastUpdated": "2025-08-27T09:21:39.399852+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
