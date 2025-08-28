@@ -1,7 +1,17 @@
 {
   "status": "success",
-  "totalResults": 9,
+  "totalResults": 10,
   "articles": [
+    {
+      "title": "Google Messages Material 3 Expressive redesign comes to chat screen - 9to5Google",
+      "source": {
+        "name": "9to5google.com"
+      },
+      "description": "The Google Messages redesign started rolling out last week, and Material 3 Expressive is now availab...",
+      "url": "http://9to5google.com/2025/08/26/google-messages-chat-redesign/",
+      "publishedAt": "2025-08-27T00:03:00Z",
+      "processed_at": "2025-08-28T03:02:32.748350+00:00"
+    },
     {
       "title": "Final Fantasy 14 Is Running Out Of Room On PS4 Ahead Of Next Expansion - Kotaku",
       "source": {
@@ -10,7 +20,7 @@
       "description": "A special carve-out for the MMORPG is reaching its limits on the last-gen console...",
       "url": "https://kotaku.com/final-fantasy-14-ps4-fanfest-2026-8-0-expansion-2000620418",
       "publishedAt": "2025-08-26T21:26:05Z",
-      "processed_at": "2025-08-28T01:37:46.592836+00:00"
+      "processed_at": "2025-08-28T03:02:32.748350+00:00"
     },
     {
       "title": "Destiny 2 Desert Perpetual Epic Raid Rewards Leaked Ahead Of Release - The Game Post",
@@ -20,17 +30,7 @@
       "description": "Last week, Bungie detailed Destiny 2’s Desert Perpetual Epic raid. Now we’ve got a first look at lea...",
       "url": "https://thegamepost.com/destiny-2-desert-perpetual-epic-raid-rewards-leaked/",
       "publishedAt": "2025-08-26T21:05:55Z",
-      "processed_at": "2025-08-28T01:37:46.592836+00:00"
-    },
-    {
-      "title": "Gmail rolls out Material 3 Expressive redesign on Android - 9to5Google",
-      "source": {
-        "name": "9to5google.com"
-      },
-      "description": "Gmail was one of the first apps to start testing Material 3 Expressive in June and the redesign is n...",
-      "url": "http://9to5google.com/2025/08/26/gmail-material-3-expressive-redesign/",
-      "publishedAt": "2025-08-26T20:48:00Z",
-      "processed_at": "2025-08-28T01:37:46.592836+00:00"
+      "processed_at": "2025-08-28T03:02:32.748350+00:00"
     },
     {
       "title": "Anthropic launches a Claude AI agent that lives in Chrome - TechCrunch",
@@ -40,7 +40,7 @@
       "description": "Anthropic is the latest AI lab to offer an AI agent with the ability to view and take action in a us...",
       "url": "https://techcrunch.com/2025/08/26/anthropic-launches-a-claude-ai-agent-that-lives-in-chrome/",
       "publishedAt": "2025-08-26T20:10:59Z",
-      "processed_at": "2025-08-28T01:37:46.592836+00:00"
+      "processed_at": "2025-08-28T03:02:32.748350+00:00"
     },
     {
       "title": "Entry list: Portland 112 at Portland International Raceway - arcaracing.com",
@@ -50,17 +50,27 @@
       "description": "Check out the full entry list for Friday's ARCA Menards Series West Portland 112 at Portland Interna...",
       "url": "https://www.arcaracing.com/2025/08/26/entry-list-portland-112-at-portland-international-raceway-5/",
       "publishedAt": "2025-08-26T19:21:57Z",
-      "processed_at": "2025-08-28T01:37:46.592836+00:00"
+      "processed_at": "2025-08-28T03:02:32.748350+00:00"
     },
     {
-      "title": "Apple is unlikely to announce these products at its September event - 9to5Mac",
+      "title": "Framework is working on a giant haptic touchpad, Trackpoint nub, and eGPU for its laptops - The Verge",
       "source": {
-        "name": "9to5Mac"
+        "name": "The Verge"
       },
-      "description": "Apple’s September event is coming up fast, with the iPhone 17 and more expected, but here are the ne...",
-      "url": "https://9to5mac.com/2025/08/26/apple-is-unlikely-to-announce-these-products-at-its-september-9-event/",
-      "publishedAt": "2025-08-26T18:53:00Z",
-      "processed_at": "2025-08-28T01:37:46.592836+00:00"
+      "description": "Framework is developing an extra-large haptic touchpad a la Apple’s MacBooks, and the company’s firs...",
+      "url": "https://www.theverge.com/news/766161/framework-egpu-haptic-touchpad-trackpoint-nub",
+      "publishedAt": "2025-08-26T18:46:19Z",
+      "processed_at": "2025-08-28T03:02:32.748350+00:00"
+    },
+    {
+      "title": "Call Of Duty: Black Ops 7 Won't Let You Transfer Black Ops 6 Operators, Skins, Or Weapons - GameSpot",
+      "source": {
+        "name": "GameSpot"
+      },
+      "description": "Activision backtracks on the Carry Forward program....",
+      "url": "https://www.gamespot.com/articles/call-of-duty-black-ops-7-will-no-longer-include-black-ops-6-operators-skins-and-weapons/1100-6534278/",
+      "publishedAt": "2025-08-26T18:24:51Z",
+      "processed_at": "2025-08-28T03:02:32.748350+00:00"
     },
     {
       "title": "2025 Mazda MX-5 RF review: Buy the soft top; the hardtop sucks - Ars Technica",
@@ -70,30 +80,30 @@
       "description": "The soft top is cheaper and, oddly, more refined....",
       "url": "https://arstechnica.com/cars/2025/08/2025-mazda-mx-5-rf-review-why-this-folding-hardtop-isnt-the-one-to-get/",
       "publishedAt": "2025-08-26T18:09:32Z",
-      "processed_at": "2025-08-28T01:37:46.592836+00:00"
+      "processed_at": "2025-08-28T03:02:32.748350+00:00"
     },
     {
-      "title": "Call Of Duty Responds To Ugly Skins By Making A Big Change To Black Ops 7 - Kotaku",
+      "title": "CRKD’s $99 Peak Design clone is great for handhelds - The Verge",
       "source": {
-        "name": "Kotaku"
+        "name": "The Verge"
       },
-      "description": "Skins from Black Ops 6 will no longer carry forward into Black Ops 7 later this year...",
-      "url": "https://kotaku.com/call-of-duty-skins-black-ops-7-blops-6-carry-over-battlefield-6-2000620379",
-      "publishedAt": "2025-08-26T18:03:33Z",
-      "processed_at": "2025-08-28T01:37:46.592836+00:00"
+      "description": "CRKD’s attempts to clone the Peak Design Everyday backpack at a third of the price are somewhat succ...",
+      "url": "https://www.theverge.com/reviews/765340/crkd-vortex-backpack-peak-design-handheld-gaming-review",
+      "publishedAt": "2025-08-26T17:10:33Z",
+      "processed_at": "2025-08-28T03:02:32.748350+00:00"
     },
     {
-      "title": "These Smart Glasses Have Something That Meta Ray-Ban Owners Desperately Want - Gizmodo",
+      "title": "SwitchForce claims the Nintendo Direct he’s been teasing is the “big one” - My Nintendo News",
       "source": {
-        "name": "Gizmodo.com"
+        "name": "My Nintendo News"
       },
-      "description": "Meta's Ray-Bans had a head start, but the smart glasses are quickly falling behind....",
-      "url": "https://gizmodo.com/these-smart-glasses-have-something-that-meta-ray-ban-owners-desperately-want-2000647510",
-      "publishedAt": "2025-08-26T18:00:02Z",
-      "processed_at": "2025-08-28T01:37:46.592836+00:00"
+      "description": "It seems as though we will be getting a Nintendo Direct presentation in September, which follows pre...",
+      "url": "https://mynintendonews.com/2025/08/26/switchforce-claims-the-nintendo-direct-hes-been-teasing-is-the-big-one/",
+      "publishedAt": "2025-08-26T17:08:55Z",
+      "processed_at": "2025-08-28T03:02:32.748350+00:00"
     }
   ],
-  "lastUpdated": "2025-08-28T01:37:46.592898+00:00",
+  "lastUpdated": "2025-08-28T03:02:32.748422+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
