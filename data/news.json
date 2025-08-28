@@ -3,6 +3,36 @@
   "totalResults": 10,
   "articles": [
     {
+      "title": "Samsung is Unpacking again in early September - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "Buckle up for Techtember....",
+      "url": "https://www.theverge.com/news/767164/samsung-is-unpacking-again-in-early-september",
+      "publishedAt": "2025-08-27T23:00:00Z",
+      "processed_at": "2025-08-28T23:18:37.936573+00:00"
+    },
+    {
+      "title": "Poll: Ahead Of Silksong's Release, Are You 'Finally' Playing Hollow Knight? - Nintendo Life",
+      "source": {
+        "name": "Nintendo Life"
+      },
+      "description": "It's a deep nest...",
+      "url": "https://www.nintendolife.com/news/2025/08/poll-ahead-of-silksongs-release-are-you-finally-playing-hollow-knight",
+      "publishedAt": "2025-08-27T20:30:00Z",
+      "processed_at": "2025-08-28T23:18:37.936573+00:00"
+    },
+    {
+      "title": "Best Buy’s Labor Day Sale Is Live With New Deals on Tech and Games - IGN",
+      "source": {
+        "name": "IGN"
+      },
+      "description": "Best Buy's Labor Day 2025 sale is now live....",
+      "url": "https://www.ign.com/articles/best-buy-labor-day-sale-2025",
+      "publishedAt": "2025-08-27T20:09:27Z",
+      "processed_at": "2025-08-28T23:18:37.936573+00:00"
+    },
+    {
       "title": "Microsoft’s Copilot AI is now inside Samsung TVs and monitors - The Verge",
       "source": {
         "name": "The Verge"
@@ -10,7 +40,7 @@
       "description": "Microsoft is launching Copilot on Samsung’s 2025 lineup of TVs and monitors, allowing you to interac...",
       "url": "https://www.theverge.com/news/767078/microsoft-samsung-tv-copilot-ai-assistant-launch",
       "publishedAt": "2025-08-27T18:48:14Z",
-      "processed_at": "2025-08-28T22:18:37.624396+00:00"
+      "processed_at": "2025-08-28T23:18:37.936573+00:00"
     },
     {
       "title": "Ken Levine's Judas Reemerges With Dev Log Highlighting New System That Lets Your Choices Decide the Story's Villain - IGN",
@@ -20,7 +50,27 @@
       "description": "Ghost Story Games must have sensed that we were becoming antsy about Judas, so the studio has droppe...",
       "url": "https://www.ign.com/articles/ken-levines-judas-reemerges-with-dev-log-highlighting-new-system-that-lets-your-choices-decide-the-storys-villain",
       "publishedAt": "2025-08-27T18:32:08Z",
-      "processed_at": "2025-08-28T22:18:37.624396+00:00"
+      "processed_at": "2025-08-28T23:18:37.936573+00:00"
+    },
+    {
+      "title": "Metal Gear Solid Delta awkwardly mixes modern visuals with old-school frustrations - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "Konami’s remake of MGS3, Metal Gear Solid Delta: Snake Eater, launches on August 28th on the PS5, PC...",
+      "url": "https://www.theverge.com/games-review/766751/metal-gear-solid-delta-snake-eater-review",
+      "publishedAt": "2025-08-27T18:30:00Z",
+      "processed_at": "2025-08-28T23:18:37.936573+00:00"
+    },
+    {
+      "title": "Someone Created First AI-Powered Ransomware Using OpenAI's gpt-oss:20b Model - The Hacker News",
+      "source": {
+        "name": "Internet"
+      },
+      "description": "ESET uncovers AI-powered PromptLock ransomware using OpenAI gpt-oss:20b model, complicating detectio...",
+      "url": "https://thehackernews.com/2025/08/someone-created-first-ai-powered.html",
+      "publishedAt": "2025-08-27T17:07:00Z",
+      "processed_at": "2025-08-28T23:18:37.936573+00:00"
     },
     {
       "title": "We Really Like the Pixel 10 Camera - Droid Life",
@@ -30,7 +80,7 @@
       "description": "We have been having fun with the Pixel 10 and Pixel 10 Pro for nearly a week now, trying to snap sho...",
       "url": "https://www.droid-life.com/2025/08/27/heres-a-bunch-of-pixel-10-pixel-10-pro-camera-samples/",
       "publishedAt": "2025-08-27T17:00:07Z",
-      "processed_at": "2025-08-28T22:18:37.624396+00:00"
+      "processed_at": "2025-08-28T23:18:37.936573+00:00"
     },
     {
       "title": "Pixel 10 Pro review: Familiar hardware, filled with Google’s AI - TechCrunch",
@@ -40,70 +90,20 @@
       "description": "This vision of the Pixel encompasses Google's consumer AI suite. Google wants Pixel owners to live a...",
       "url": "https://techcrunch.com/2025/08/27/pixel-10-pro-early-impressions-of-googles-latest-ai-flagship-phone/",
       "publishedAt": "2025-08-27T17:00:00Z",
-      "processed_at": "2025-08-28T22:18:37.624396+00:00"
+      "processed_at": "2025-08-28T23:18:37.936573+00:00"
     },
     {
-      "title": "PlayStation Plus Free Games For September 2025 Revealed - GameSpot",
+      "title": "A Bunch Of Game Pass Subscribers Are About To Get New Perks - Kotaku",
       "source": {
-        "name": "GameSpot"
+        "name": "Kotaku"
       },
-      "description": "Here's what PS Plus subscribers can claim in September....",
-      "url": "https://www.gamespot.com/articles/playstation-plus-essential-free-games-for-september-2025/1100-6534226/",
-      "publishedAt": "2025-08-27T16:08:59Z",
-      "processed_at": "2025-08-28T22:18:37.624396+00:00"
-    },
-    {
-      "title": "Microsoft expands Xbox Cloud Gaming to Game Pass Core and Standard subscribers - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "Microsoft is expanding Xbox Cloud Gaming access to more Game Pass tiers. Game Pass Core and Standard...",
-      "url": "https://www.theverge.com/news/766762/microsoft-xbox-cloud-gaming-game-pass-core-standard-pc-games",
-      "publishedAt": "2025-08-27T15:16:27Z",
-      "processed_at": "2025-08-28T22:18:37.624396+00:00"
-    },
-    {
-      "title": "Hellraiser: Revival is Resident Evil For Sickos - IGN",
-      "source": {
-        "name": "IGN"
-      },
-      "description": "Hellraiser: Revival is disgustingly violent and shockingly sexy, but maybe I'm into it....",
-      "url": "https://www.ign.com/articles/hellraiser-revival-is-resident-evil-for-sickos",
-      "publishedAt": "2025-08-27T15:01:34Z",
-      "processed_at": "2025-08-28T22:18:37.624396+00:00"
-    },
-    {
-      "title": "Google Play Store rolling out ‘auto-open’ option for newly installed apps - 9to5Google",
-      "source": {
-        "name": "9to5google.com"
-      },
-      "description": "The Play Store will now allow users to “auto-open” new apps as they’re downloaded to their Android d...",
-      "url": "http://9to5google.com/2025/08/27/google-play-store-rolling-out-auto-open-option-for-newly-installed-apps/",
-      "publishedAt": "2025-08-27T14:50:00Z",
-      "processed_at": "2025-08-28T22:18:37.624396+00:00"
-    },
-    {
-      "title": "Plaud launches a new AI hardware notetaker, the $179 Note Pro - TechCrunch",
-      "source": {
-        "name": "TechCrunch"
-      },
-      "description": "Plaud.ai launches its new Plaud Note Pro hardware notetaker with better mics and recording range....",
-      "url": "https://techcrunch.com/2025/08/27/plaud-launches-a-new-ai-hardware-notetaker-the-179-note-pro/",
-      "publishedAt": "2025-08-27T14:13:02Z",
-      "processed_at": "2025-08-28T22:18:37.624396+00:00"
-    },
-    {
-      "title": "Corsair’s PC-dockable screen helped me monitor my PC components and news feeds - Ars Technica",
-      "source": {
-        "name": "Ars Technica"
-      },
-      "description": "Corsair’s Xeneon Edge is the best at what it does but is software-dependent....",
-      "url": "https://arstechnica.com/gadgets/2025/08/corsairs-pc-dockable-screen-helped-me-monitor-my-pc-components-and-news-feeds/",
-      "publishedAt": "2025-08-27T14:08:31Z",
-      "processed_at": "2025-08-28T22:18:37.624396+00:00"
+      "description": "Cloud gaming and PC perks are headed to the cheapest tiers...",
+      "url": "https://kotaku.com/game-pass-cloud-benefits-pc-handheld-streaming-2000620715",
+      "publishedAt": "2025-08-27T16:52:54Z",
+      "processed_at": "2025-08-28T23:18:37.936573+00:00"
     }
   ],
-  "lastUpdated": "2025-08-28T22:18:37.624471+00:00",
+  "lastUpdated": "2025-08-28T23:18:37.936672+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
