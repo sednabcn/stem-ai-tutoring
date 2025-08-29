@@ -3,6 +3,26 @@
   "totalResults": 9,
   "articles": [
     {
+      "title": "Daily Crossword: The Magical Puzzle — August 28 - Vulture",
+      "source": {
+        "name": "Vulture"
+      },
+      "description": "Can you solve the latest Vulture 10x10 daily crossword puzzle clue? 2-Down, Five Letters: Diana Ross...",
+      "url": "http://www.vulture.com/article/daily-crossword-puzzle-august-28-2025.html",
+      "publishedAt": "2025-08-28T09:00:34Z",
+      "processed_at": "2025-08-29T11:16:34.041583+00:00"
+    },
+    {
+      "title": "Google tells all 2.5 billion Gmail users: \"Change your password now!\" - PhoneArena",
+      "source": {
+        "name": "PhoneArena"
+      },
+      "description": "Those using the Gmail app should change their password for security reasons, says Google...",
+      "url": "https://www.phonearena.com/news/google-tells-gmail-users-change-your-password_id173619",
+      "publishedAt": "2025-08-28T03:53:12Z",
+      "processed_at": "2025-08-29T11:16:34.041583+00:00"
+    },
+    {
       "title": "Nintendo Alarmo Is Getting A Kirby-Themed Update - Nintendo Life",
       "source": {
         "name": "Nintendo Life"
@@ -10,27 +30,27 @@
       "description": "Wake up to the sounds of Kirby...",
       "url": "https://www.nintendolife.com/news/2025/08/nintendo-alarmo-is-getting-a-kirby-themed-update",
       "publishedAt": "2025-08-28T01:55:00Z",
-      "processed_at": "2025-08-29T10:20:40.945396+00:00"
+      "processed_at": "2025-08-29T11:16:34.041583+00:00"
     },
     {
-      "title": "Samsung is Unpacking again in early September - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "Buckle up for Techtember....",
-      "url": "https://www.theverge.com/news/767164/samsung-is-unpacking-again-in-early-september",
-      "publishedAt": "2025-08-27T23:00:00Z",
-      "processed_at": "2025-08-29T10:20:40.945396+00:00"
-    },
-    {
-      "title": "Material 3 Expressive redesign rolls out to Google Clock, Pixel Watch app, more - 9to5Google",
+      "title": "Samsung teases September 4 event for Galaxy Tab S11 and Galaxy S25 FE - 9to5Google",
       "source": {
         "name": "9to5google.com"
       },
-      "description": "Google Clock 8.1 is now widely rolling out with a Material 3 Expressive redesign. Meanwhile, the las...",
-      "url": "http://9to5google.com/2025/08/27/google-clock-material-3-expressive-redesign/",
-      "publishedAt": "2025-08-27T20:37:00Z",
-      "processed_at": "2025-08-29T10:20:40.945396+00:00"
+      "description": "Samsung is teasing a \"Galaxy Event\" for Thursday, September 4th, to be livestreamed on the company's...",
+      "url": "http://9to5google.com/2025/08/27/samsung-september-4-2025-event-tease-galaxy-tab-s11-galaxy-s25-fe/",
+      "publishedAt": "2025-08-27T23:00:00Z",
+      "processed_at": "2025-08-29T11:16:34.041583+00:00"
+    },
+    {
+      "title": "Apple Music just made leaving Spotify a whole lot easier - AV Club",
+      "source": {
+        "name": "The A.V. Club"
+      },
+      "description": "Apple Music just made leaving Spotify a whole lot easier...",
+      "url": "https://www.avclub.com/apple-music-import-spotify-playlists",
+      "publishedAt": "2025-08-27T22:28:00Z",
+      "processed_at": "2025-08-29T11:16:34.041583+00:00"
     },
     {
       "title": "AI Chatbots Are Trapping Users in Bizarre Mental Spirals for a Dark Reason, Experts Say - Futurism",
@@ -40,7 +60,7 @@
       "description": "Are cases of \"AI psychosis\" caused by manipulative \"dark patterns\" employed in chatbots like ChatGPT...",
       "url": "https://futurism.com/ai-chatbots-mental-health-spirals-reason",
       "publishedAt": "2025-08-27T20:10:03Z",
-      "processed_at": "2025-08-29T10:20:40.945396+00:00"
+      "processed_at": "2025-08-29T11:16:34.041583+00:00"
     },
     {
       "title": "Best Buy’s Labor Day Sale Is Live With New Deals on Tech and Games - IGN",
@@ -50,7 +70,7 @@
       "description": "Best Buy's Labor Day 2025 sale is now live....",
       "url": "https://www.ign.com/articles/best-buy-labor-day-sale-2025",
       "publishedAt": "2025-08-27T20:09:27Z",
-      "processed_at": "2025-08-29T10:20:40.945396+00:00"
+      "processed_at": "2025-08-29T11:16:34.041583+00:00"
     },
     {
       "title": "Gears Of War: Reloaded Facing Steam Crashes And Matchmaking Problems - GameSpot",
@@ -60,17 +80,7 @@
       "description": "The launch of the remaster isn't going totally smoothly....",
       "url": "https://www.gamespot.com/articles/gears-of-war-reloaded-facing-steam-crashes-and-matchmaking-problems/1100-6534317/",
       "publishedAt": "2025-08-27T19:58:01Z",
-      "processed_at": "2025-08-29T10:20:40.945396+00:00"
-    },
-    {
-      "title": "Google's Browser-Based Video Editor Is Now Available for Free - Lifehacker",
-      "source": {
-        "name": "Lifehacker.com"
-      },
-      "description": "Google Vids is now available for everyone....",
-      "url": "https://lifehacker.com/tech/google-browser-based-video-editor-free",
-      "publishedAt": "2025-08-27T19:30:00Z",
-      "processed_at": "2025-08-29T10:20:40.945396+00:00"
+      "processed_at": "2025-08-29T11:16:34.041583+00:00"
     },
     {
       "title": "Microsoft’s Copilot AI is now inside Samsung TVs and monitors - The Verge",
@@ -80,20 +90,10 @@
       "description": "Microsoft is launching Copilot on Samsung’s 2025 lineup of TVs and monitors, allowing you to interac...",
       "url": "https://www.theverge.com/news/767078/microsoft-samsung-tv-copilot-ai-assistant-launch",
       "publishedAt": "2025-08-27T18:48:14Z",
-      "processed_at": "2025-08-29T10:20:40.945396+00:00"
-    },
-    {
-      "title": "With developer verification, Android no longer counts as a proper smartphone platform - Android Authority",
-      "source": {
-        "name": "Android Authority"
-      },
-      "description": "By requiring mandatory developer verification, Google is turning Android into another iOS-like walle...",
-      "url": "https://www.androidauthority.com/android-developer-registration-3591988/",
-      "publishedAt": "2025-08-27T18:41:53Z",
-      "processed_at": "2025-08-29T10:20:40.945396+00:00"
+      "processed_at": "2025-08-29T11:16:34.041583+00:00"
     }
   ],
-  "lastUpdated": "2025-08-29T10:20:40.945464+00:00",
+  "lastUpdated": "2025-08-29T11:16:34.041657+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
