@@ -1,36 +1,56 @@
 {
   "status": "success",
-  "totalResults": 10,
+  "totalResults": 9,
   "articles": [
     {
-      "title": "Review | Masterful photo edits now just take a few words. Are we ready for this? - The Washington Post",
-      "source": {
-        "name": "The Washington Post"
-      },
-      "description": "For better or worse, Google’s Gemini chatbot just got a “Nano Banana” AI image editing boost....",
-      "url": "https://www.washingtonpost.com/technology/2025/09/01/gemini-flash-nano-banana-ai-photo-editing/",
-      "publishedAt": "2025-09-01T14:31:56Z",
-      "processed_at": "2025-09-02T14:20:07.225372+00:00"
-    },
-    {
-      "title": "DONE DEAL: New addition to Tottenham family with Pedro Porro “home celebrating” - Cartilage Free Captain",
-      "source": {
-        "name": "SB Nation"
-      },
-      "description": "Spurs get another new signing over the line!...",
-      "url": "https://cartilagefreecaptain.sbnation.com/tottenham-hotspur-transfers-rumors/65365/tottenham-hotspur-transfer-news-rumors-pedro-porro-new-baby-done-deal",
-      "publishedAt": "2025-09-01T13:57:14Z",
-      "processed_at": "2025-09-02T14:20:07.225372+00:00"
-    },
-    {
-      "title": "Review: Operation ﻿Night Strikers (Switch) - M2 Does It Again With This Taito-Themed Collection - Nintendo Life",
+      "title": "Upcoming Nintendo Switch 2 Games & Accessories For September and October 2025 - Nintendo Life",
       "source": {
         "name": "Nintendo Life"
       },
-      "description": "",
-      "url": "https://www.nintendolife.com/reviews/nintendo-switch/operation-night-strikers",
-      "publishedAt": "2025-09-01T13:49:24Z",
-      "processed_at": "2025-09-02T14:20:07.225372+00:00"
+      "description": "Games and gear for when you're not playing Silksong...",
+      "url": "https://www.nintendolife.com/guides/upcoming-nintendo-switch-2-games-and-accessories-for-september-and-october-2025",
+      "publishedAt": "2025-09-01T15:59:51Z",
+      "processed_at": "2025-09-02T15:21:40.878913+00:00"
+    },
+    {
+      "title": "Physint, OD Are Potential Reveals at Kojima Productions 10th Anniversary Show - Push Square",
+      "source": {
+        "name": "Push Square"
+      },
+      "description": "Looks at \"future projects\" teased...",
+      "url": "https://www.pushsquare.com/news/2025/09/physint-od-are-potential-reveals-at-kojima-productions-10th-anniversary-show",
+      "publishedAt": "2025-09-01T15:56:15Z",
+      "processed_at": "2025-09-02T15:21:40.878913+00:00"
+    },
+    {
+      "title": "American in an F40 thought he was king of the road until the only road-legal Porsche 962C pulled up - supercarblondie.com",
+      "source": {
+        "name": "Supercarblondie.com"
+      },
+      "description": "An American in an F40 thought he was king of the road until the only road-legal Porsche 962C pulled ...",
+      "url": "https://supercarblondie.com/american-in-an-f40-shown-up-by-road-legal-porsche-962c/",
+      "publishedAt": "2025-09-01T14:00:00Z",
+      "processed_at": "2025-09-02T15:21:40.878913+00:00"
+    },
+    {
+      "title": "I review monitors for a living — and these are 11 Labor Day deals I recommend - Tom's Guide",
+      "source": {
+        "name": "Tom's Guide"
+      },
+      "description": "Save big on these great monitors...",
+      "url": "https://www.tomsguide.com/computing/monitors/labor-day-monitor-sales-2025",
+      "publishedAt": "2025-09-01T13:37:31Z",
+      "processed_at": "2025-09-02T15:21:40.878913+00:00"
+    },
+    {
+      "title": "I think Treasury may be in for a shock this month - Daily Kos",
+      "source": {
+        "name": "Dailykos.com"
+      },
+      "description": "I just set up my 3Q estimated tax payments. Because of the OBBB, my September payment will be about ...",
+      "url": "https://www.dailykos.com/stories/2025/9/1/2341299/-I-think-Treasury-may-be-in-for-a-shock-this-month",
+      "publishedAt": "2025-09-01T13:24:08Z",
+      "processed_at": "2025-09-02T15:21:40.878913+00:00"
     },
     {
       "title": "PlayStation State of Play Announced Featuring 30 Minutes of Hitman Developer's James Bond Game 007 First Light - IGN",
@@ -40,7 +60,27 @@
       "description": "Sony has announced a PlayStation State of Play broadcast for this week, featuring James Bond game 00...",
       "url": "https://www.ign.com/articles/playstation-state-of-play-announced-featuring-30-minutes-of-hitman-developers-james-bond-game-007-first-light",
       "publishedAt": "2025-09-01T13:20:58Z",
-      "processed_at": "2025-09-02T14:20:07.225372+00:00"
+      "processed_at": "2025-09-02T15:21:40.878913+00:00"
+    },
+    {
+      "title": "How OnlyFans Piracy Is Ruining the Internet for Everyone - 404 Media",
+      "source": {
+        "name": "404media.co"
+      },
+      "description": "Innocent sites are being delisted from Google because of copyright takedown requests against rampant...",
+      "url": "https://www.404media.co/how-onlyfans-piracy-is-ruining-the-internet-for-everyone/",
+      "publishedAt": "2025-09-01T13:00:59Z",
+      "processed_at": "2025-09-02T15:21:40.878913+00:00"
+    },
+    {
+      "title": "No Man's Sky becomes the 2nd-most played game on Steam Deck following major new update - PC Guide",
+      "source": {
+        "name": "Pcguide.com"
+      },
+      "description": "No Man's Sky recently received a big new update, which has caused its popularity to surge on the Ste...",
+      "url": "https://www.pcguide.com/news/no-mans-sky-becomes-the-2nd-most-played-game-on-steam-deck-following-major-new-update/",
+      "publishedAt": "2025-09-01T12:47:08Z",
+      "processed_at": "2025-09-02T15:21:40.878913+00:00"
     },
     {
       "title": "iPhone users warned to update WhatsApp after ‘extremely sophisticated’ cyber attack is uncovered - New York Post",
@@ -50,60 +90,10 @@
       "description": "Here’s how to avert the WhatsAppocalypse....",
       "url": "https://nypost.com/2025/09/01/tech/sophisticated-whatsapp-attack-targets-iphone-users/",
       "publishedAt": "2025-09-01T12:29:00Z",
-      "processed_at": "2025-09-02T14:20:07.225372+00:00"
-    },
-    {
-      "title": "Labor Day deals: Google Pixel gear, Samsung Galaxy, earbuds, accessories, more - 9to5Google",
-      "source": {
-        "name": "9to5google.com"
-      },
-      "description": "Labor Day has arrived with wide-ranging sale events now live at Amazon, Walmart, and just about ever...",
-      "url": "http://9to5google.com/2025/09/01/labor-day-deals-google-pixel-samsung/",
-      "publishedAt": "2025-09-01T12:27:00Z",
-      "processed_at": "2025-09-02T14:20:07.225372+00:00"
-    },
-    {
-      "title": "Rare veteran lands new role at Xbox Game Studios after Everwild cancellation - Video Games Chronicle",
-      "source": {
-        "name": "Video Games Chronicle"
-      },
-      "description": "Louise O’Connor, a 25-year Rare veteran, has been made Xbox Game Studios' Chief of Staff...",
-      "url": "https://www.videogameschronicle.com/news/rare-veteran-lands-new-role-at-xbox-game-studios-after-everwild-cancellation/",
-      "publishedAt": "2025-09-01T11:09:31Z",
-      "processed_at": "2025-09-02T14:20:07.225372+00:00"
-    },
-    {
-      "title": "The Force Isn't Strong With Star Wars Outlaws On Switch 2, Initial Impressions Suggest - Nintendo Life",
-      "source": {
-        "name": "Nintendo Life"
-      },
-      "description": "Ah, a blockade...",
-      "url": "https://www.nintendolife.com/news/2025/09/the-force-isnt-strong-with-star-wars-outlaws-on-switch-2-initial-impressions-suggest",
-      "publishedAt": "2025-09-01T11:00:00Z",
-      "processed_at": "2025-09-02T14:20:07.225372+00:00"
-    },
-    {
-      "title": "I Can't Stop Using These 6 Smart Devices Even After I Finished Testing Them - CNET",
-      "source": {
-        "name": "CNET"
-      },
-      "description": "This smart home tech was so useful that it stayed around to help out. Here's why....",
-      "url": "https://www.cnet.com/home/smart-home/i-cant-stop-using-these-6-smart-devices-even-after-i-finished-testing-them/",
-      "publishedAt": "2025-09-01T11:00:00Z",
-      "processed_at": "2025-09-02T14:20:07.225372+00:00"
-    },
-    {
-      "title": "Windows 11 25H2 will have no new features — and it actually REMOVES some - Windows Central",
-      "source": {
-        "name": "Windows Central"
-      },
-      "description": "Windows 11 version 25H2 is now available in the Release Preview Channel, which is the last stop befo...",
-      "url": "https://www.windowscentral.com/microsoft/windows-11/microsoft-confirms-windows-11-version-25h2-no-new-features",
-      "publishedAt": "2025-09-01T10:40:42Z",
-      "processed_at": "2025-09-02T14:20:07.225372+00:00"
+      "processed_at": "2025-09-02T15:21:40.878913+00:00"
     }
   ],
-  "lastUpdated": "2025-09-02T14:20:07.225449+00:00",
+  "lastUpdated": "2025-09-02T15:21:40.878985+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
