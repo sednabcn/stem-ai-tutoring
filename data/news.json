@@ -1,7 +1,37 @@
 {
   "status": "success",
-  "totalResults": 10,
+  "totalResults": 9,
   "articles": [
+    {
+      "title": "Samsung will give you a free 65-inch TV right now - here's how to qualify for the deal - ZDNET",
+      "source": {
+        "name": "ZDNet"
+      },
+      "description": "For a limited time, when you buy a 98-inch QN90F or 100-inch QN80F from Samsung, you'll get a free 6...",
+      "url": "https://www.zdnet.com/home-and-office/home-entertainment/samsung-will-give-you-a-free-65-inch-tv-right-now-heres-how-to-qualify-for-the-deal/",
+      "publishedAt": "2025-08-31T23:45:00Z",
+      "processed_at": "2025-09-02T03:06:43.046196+00:00"
+    },
+    {
+      "title": "You can still buy refurbished Meta Ray-Ban smart glasses for $76 off - how to find deals - ZDNET",
+      "source": {
+        "name": "ZDNet"
+      },
+      "description": "Meta's Refurbished AI Glasses store is a hidden gem, offering like-new products in original packagin...",
+      "url": "https://www.zdnet.com/article/you-can-still-buy-refurbished-meta-ray-ban-smart-glasses-for-76-off-how-to-find-deals/",
+      "publishedAt": "2025-08-31T23:40:00Z",
+      "processed_at": "2025-09-02T03:06:43.046196+00:00"
+    },
+    {
+      "title": "The 5 Things To Know Before Doing An EGR Delete - Jalopnik",
+      "source": {
+        "name": "Jalopnik"
+      },
+      "description": "Are you thinking about doing an EGR delete on your truck? Before you do, it's important to know the ...",
+      "url": "https://www.jalopnik.com/1949685/pros-cons-egr-delete/",
+      "publishedAt": "2025-08-31T23:05:00Z",
+      "processed_at": "2025-09-02T03:06:43.046196+00:00"
+    },
     {
       "title": "Nintendo maintenance schedule - August 31, 2025 - Switch 2 and Switch eShops get a session - Nintendo Everything",
       "source": {
@@ -10,7 +40,7 @@
       "description": "Nintendo maintenance schedule for August 31, 2025 released with both the Switch 2 and Switch eShops ...",
       "url": "https://nintendoeverything.com/nintendo-maintenance-schedule-august-31-2025/",
       "publishedAt": "2025-08-31T22:56:06Z",
-      "processed_at": "2025-09-02T01:39:15.393410+00:00"
+      "processed_at": "2025-09-02T03:06:43.046196+00:00"
     },
     {
       "title": "Borderlands 4 Rage Room Sounds Like A Car Crash And Fans Can't Look Away - Kotaku",
@@ -20,17 +50,27 @@
       "description": "Gearbox knows what the fans hunger for and it's not subtlety...",
       "url": "https://kotaku.com/borderlands-4-pax-west-rage-room-gearbox-2000621767",
       "publishedAt": "2025-08-31T21:00:27Z",
-      "processed_at": "2025-09-02T01:39:15.393410+00:00"
+      "processed_at": "2025-09-02T03:06:43.046196+00:00"
     },
     {
-      "title": "iPhone 17 Air is basically guaranteed to make a US feature expand to more countries - 9to5Mac",
+      "title": "Skyblivion project lead says release date reveal's finally getting \"closer\", as Oblivion remake mod shows off revamped intro - Rock Paper Shotgun",
+      "source": {
+        "name": "Rock Paper Shotgun"
+      },
+      "description": "Oblivion remake mod Skyblivion's devs have shown off its first fifteen minutes, encompassing the Imp...",
+      "url": "https://www.rockpapershotgun.com/skyblivion-project-lead-says-release-date-reveals-finally-getting-closer-as-oblivion-remake-mod-shows-off-revamped-intro",
+      "publishedAt": "2025-08-31T20:59:02Z",
+      "processed_at": "2025-09-02T03:06:43.046196+00:00"
+    },
+    {
+      "title": "Now’s a great time for Apple to bring back this long-removed iMac feature - 9to5Mac",
       "source": {
         "name": "9to5Mac"
       },
-      "description": "When Apple reveals the iPhone 17 lineup in just 10 days, there’s one U.S. feature that is basically ...",
-      "url": "https://9to5mac.com/2025/08/31/iphone-17-air-esim-only/",
-      "publishedAt": "2025-08-31T20:06:00Z",
-      "processed_at": "2025-09-02T01:39:15.393410+00:00"
+      "description": "A while ago, Apple used to include a software feature with macOS on older iMac models. It was called...",
+      "url": "https://9to5mac.com/2025/08/31/apple-should-bring-back-this-long-removed-imac-display-feature/",
+      "publishedAt": "2025-08-31T20:46:00Z",
+      "processed_at": "2025-09-02T03:06:43.046196+00:00"
     },
     {
       "title": "Cathay Pacific Now Offers High Speed Wi-Fi On 100% Of Its Fleet - One Mile at a Time",
@@ -40,7 +80,7 @@
       "description": "Cathay Pacific now offers high speed Wi-Fi throughout its entire fleet, which is an exciting milesto...",
       "url": "https://onemileatatime.com/news/cathay-pacific-wi-fi/",
       "publishedAt": "2025-08-31T20:01:01Z",
-      "processed_at": "2025-09-02T01:39:15.393410+00:00"
+      "processed_at": "2025-09-02T03:06:43.046196+00:00"
     },
     {
       "title": "CarPlay Ultra could soon land on an affordable EV after luxury car debut - 9to5Mac",
@@ -50,60 +90,10 @@
       "description": "CarPlay Ultra arrived this year after taking a bit longer than expected to materialize. The only cat...",
       "url": "https://9to5mac.com/2025/08/31/carplay-ultra-hyundai-ioniq-3/",
       "publishedAt": "2025-08-31T19:40:00Z",
-      "processed_at": "2025-09-02T01:39:15.393410+00:00"
-    },
-    {
-      "title": "Chrome for Android getting Material 3 Expressive tweaks - 9to5Google",
-      "source": {
-        "name": "9to5google.com"
-      },
-      "description": "The Google Chrome interface has remained remarkably consistent, and the Android browser is now getti...",
-      "url": "http://9to5google.com/2025/08/31/chrome-android-material-3-expressive/",
-      "publishedAt": "2025-08-31T19:38:00Z",
-      "processed_at": "2025-09-02T01:39:15.393410+00:00"
-    },
-    {
-      "title": "Battlefield 6 Ditched Ray Tracing to Focus on Performance - Wccftech",
-      "source": {
-        "name": "Wccftech"
-      },
-      "description": "Ripple Effect's Studio Technical Director has now confirmed that Battlefield 6 purposely ditched ray...",
-      "url": "https://wccftech.com/battlefield-6-ditched-ray-tracing-focus-performance/",
-      "publishedAt": "2025-08-31T19:00:00Z",
-      "processed_at": "2025-09-02T01:39:15.393410+00:00"
-    },
-    {
-      "title": "New Nintendo Direct Leak Reveals September Presentation Date - The Game Post",
-      "source": {
-        "name": "Thegamepost.com"
-      },
-      "description": "A new leak narrows the next Nintendo Direct to the second week of September, lining up with Mario’s ...",
-      "url": "https://thegamepost.com/nintendo-direct-leak-september-presentation-date/",
-      "publishedAt": "2025-08-31T18:35:23Z",
-      "processed_at": "2025-09-02T01:39:15.393410+00:00"
-    },
-    {
-      "title": "Apple Says 11-Inch MacBook Air and Two Other Macs Are Now Obsolete - MacRumors",
-      "source": {
-        "name": "MacRumors"
-      },
-      "description": "Apple today added three Macs to the obsolete products list on its website, including the final model...",
-      "url": "https://www.macrumors.com/2025/08/31/11-inch-macbook-air-is-obsolete/",
-      "publishedAt": "2025-08-31T18:25:30Z",
-      "processed_at": "2025-09-02T01:39:15.393410+00:00"
-    },
-    {
-      "title": "All Destiny Rising Codes Today (August 2025): Working, Expired, and Rewards - The Game Post",
-      "source": {
-        "name": "Thegamepost.com"
-      },
-      "description": "All Destiny Rising codes today (August 2025): Here's the full list of working and expired codes, inv...",
-      "url": "https://thegamepost.com/all-destiny-rising-codes/",
-      "publishedAt": "2025-08-31T17:23:11Z",
-      "processed_at": "2025-09-02T01:39:15.393410+00:00"
+      "processed_at": "2025-09-02T03:06:43.046196+00:00"
     }
   ],
-  "lastUpdated": "2025-09-02T01:39:15.393475+00:00",
+  "lastUpdated": "2025-09-02T03:06:43.046265+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
