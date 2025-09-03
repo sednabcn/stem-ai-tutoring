@@ -1,7 +1,27 @@
 {
   "status": "success",
-  "totalResults": 9,
+  "totalResults": 8,
   "articles": [
+    {
+      "title": "September's PS Plus monthly games are now available - Eurogamer",
+      "source": {
+        "name": "Eurogamer.net"
+      },
+      "description": "",
+      "url": "https://www.eurogamer.net/septembers-ps-plus-monthly-games-are-now-available",
+      "publishedAt": "2025-09-02T09:29:35Z",
+      "processed_at": "2025-09-03T11:16:13.256705+00:00"
+    },
+    {
+      "title": "Team Cherry Provides One Last Silksong Update Before Launch - Nintendo Life",
+      "source": {
+        "name": "Nintendo Life"
+      },
+      "description": "Backers, listen up...",
+      "url": "https://www.nintendolife.com/news/2025/09/team-cherry-provides-one-last-silksong-update-before-launch",
+      "publishedAt": "2025-09-02T08:45:00Z",
+      "processed_at": "2025-09-03T11:16:13.256705+00:00"
+    },
     {
       "title": "Nintendo Switch 2 System Update 20.4.0 Is Now Live, Here Are The Full Patch Notes - Nintendo Life",
       "source": {
@@ -10,7 +30,37 @@
       "description": "Available for Switch, too...",
       "url": "https://www.nintendolife.com/news/2025/09/nintendo-switch-2-system-update-20-4-0-is-now-live-here-are-the-full-patch-notes",
       "publishedAt": "2025-09-02T06:45:00Z",
-      "processed_at": "2025-09-03T10:19:45.818184+00:00"
+      "processed_at": "2025-09-03T11:16:13.256705+00:00"
+    },
+    {
+      "title": "Pixel 10 Pro XL proves its got the strength to match its software update promise - Android Authority",
+      "source": {
+        "name": "Android Authority"
+      },
+      "description": "A new durability test shows that the Pixel 10 Pro XL may be Google's toughest device yet, with only ...",
+      "url": "https://www.androidauthority.com/google-pixel-10-pro-xl-durability-test-3593396/",
+      "publishedAt": "2025-09-02T04:05:36Z",
+      "processed_at": "2025-09-03T11:16:13.256705+00:00"
+    },
+    {
+      "title": "Common Pesticide Linked to Widespread Brain Abnormalities in Children - ScienceAlert",
+      "source": {
+        "name": "ScienceAlert"
+      },
+      "description": "The insecticide chlorpyrifos is a powerful tool for controlling various pests, making it one of the ...",
+      "url": "https://www.sciencealert.com/common-pesticide-linked-to-widespread-brain-abnormalities-in-children",
+      "publishedAt": "2025-09-02T02:23:03Z",
+      "processed_at": "2025-09-03T11:16:13.256705+00:00"
+    },
+    {
+      "title": "What’s new in Android’s September 2025 Google System Updates - 9to5Google",
+      "source": {
+        "name": "9to5google.com"
+      },
+      "description": "The monthly “Google System Release Notes” primarily detail what’s new in Play services, Play Store, ...",
+      "url": "http://9to5google.com/2025/09/01/september-2025-google-system-updates/",
+      "publishedAt": "2025-09-02T02:03:00Z",
+      "processed_at": "2025-09-03T11:16:13.256705+00:00"
     },
     {
       "title": "Xbox sale round-up September 2, 2025 - TrueAchievements",
@@ -20,80 +70,20 @@
       "description": "New Xbox sales are now live, with big discounts on Destiny 2, Batman: Arkham Knight, Far Cry 5, Assa...",
       "url": "https://www.trueachievements.com/n60109/xbox-sale-roundup-september-2-2025",
       "publishedAt": "2025-09-02T00:29:38Z",
-      "processed_at": "2025-09-03T10:19:45.818184+00:00"
+      "processed_at": "2025-09-03T11:16:13.256705+00:00"
     },
     {
-      "title": "The New Sony WH-1000XM6 Noise Canceling Headphones Drops to the Lowest Price Ever - IGN",
+      "title": "Google Maps may soon keep your navigation updates where you can’t lose them - Android Authority",
       "source": {
-        "name": "IGN"
+        "name": "Android Authority"
       },
-      "description": "The best noise canceling headphones of 2025....",
-      "url": "https://www.ign.com/articles/sony-wh-1000xm6-noise-canceling-headphone-deal-adorama-labor-day-sale",
-      "publishedAt": "2025-09-01T23:32:46Z",
-      "processed_at": "2025-09-03T10:19:45.818184+00:00"
-    },
-    {
-      "title": "Rumor: AirPods Pro 3 features may not all arrive at launch - 9to5Mac",
-      "source": {
-        "name": "9to5Mac"
-      },
-      "description": "While we expect Apple to unveil AirPods Pro 3 alongside iPhone 17 and Apple Watch Series 11 next wee...",
-      "url": "https://9to5mac.com/2025/09/01/airpods-pro-3-sensors-live-translation/",
-      "publishedAt": "2025-09-01T22:17:00Z",
-      "processed_at": "2025-09-03T10:19:45.818184+00:00"
-    },
-    {
-      "title": "You can try Apple’s lightning-fast video captioning model right from your browser - 9to5Mac",
-      "source": {
-        "name": "9to5Mac"
-      },
-      "description": "A few months ago, Apple released FastVLM, a Visual Language Model with near-instant high-resolution ...",
-      "url": "https://9to5mac.com/2025/09/01/you-can-try-apples-lightning-fast-video-captioning-model-right-from-your-browser/",
-      "publishedAt": "2025-09-01T21:41:00Z",
-      "processed_at": "2025-09-03T10:19:45.818184+00:00"
-    },
-    {
-      "title": "Shadow Groudon Raid Weekend (September 2025) - Pokémon GO Hub",
-      "source": {
-        "name": "Pokemon GO Hub"
-      },
-      "description": "Shadow Groudon features in Pokémon GO during a special Shadow Raid Day event on Saturday, September ...",
-      "url": "https://pokemongohub.net/post/event/shadow-groudon-raid-weekend/",
-      "publishedAt": "2025-09-01T21:24:14Z",
-      "processed_at": "2025-09-03T10:19:45.818184+00:00"
-    },
-    {
-      "title": "Samsung just added these Galaxy phones to the One UI 8 beta ahead of stable rollout - 9to5Google",
-      "source": {
-        "name": "9to5google.com"
-      },
-      "description": "Samsung’s stable One UI 8 rollout with Android 16 should be starting any day now and, ahead of that,...",
-      "url": "http://9to5google.com/2025/09/01/samsung-just-added-these-galaxy-phones-to-the-one-ui-8-beta-ahead-of-stable-rollout/",
-      "publishedAt": "2025-09-01T20:15:00Z",
-      "processed_at": "2025-09-03T10:19:45.818184+00:00"
-    },
-    {
-      "title": "This 1TB HP Laptop Is Now $499 Instead of $2499, Amazon Just Cut $2000 Off the Price - Kotaku",
-      "source": {
-        "name": "Kotaku"
-      },
-      "description": "This excellent HP laptop is down to just a fifth of its original price....",
-      "url": "https://kotaku.com/this-1tb-hp-laptop-is-now-499-instead-of-2499-amazon-just-cut-2000-off-the-price-2000622087",
-      "publishedAt": "2025-09-01T19:02:29Z",
-      "processed_at": "2025-09-03T10:19:45.818184+00:00"
-    },
-    {
-      "title": "Save Over 50% off the Bose Smart Ultra Dolby Atmos Soundbar During the eBay Labor Day Sale - IGN",
-      "source": {
-        "name": "IGN"
-      },
-      "description": "Bose's best soundbar normally costs $1,000, but you can get it for under $500....",
-      "url": "https://www.ign.com/articles/save-over-50-off-the-bose-smart-ultra-dolby-atmos-soundbar-during-the-ebay-labor-day-sale",
-      "publishedAt": "2025-09-01T19:00:29Z",
-      "processed_at": "2025-09-03T10:19:45.818184+00:00"
+      "description": "Google Maps is starting to show Live Updates for navigation, but the rollout is limited to a handful...",
+      "url": "https://www.androidauthority.com/google-maps-testing-live-updates-3593335/",
+      "publishedAt": "2025-09-01T22:32:31Z",
+      "processed_at": "2025-09-03T11:16:13.256705+00:00"
     }
   ],
-  "lastUpdated": "2025-09-03T10:19:45.818263+00:00",
+  "lastUpdated": "2025-09-03T11:16:13.256778+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
