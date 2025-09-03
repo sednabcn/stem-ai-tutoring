@@ -1,7 +1,27 @@
 {
   "status": "success",
-  "totalResults": 9,
+  "totalResults": 10,
   "articles": [
+    {
+      "title": "Save an Extra 20% off the eBay Labor Day Sale With This Coupon Code (Works on Bose, Dyson, LG, and More) - IGN",
+      "source": {
+        "name": "IGN"
+      },
+      "description": "eBay's last big sale of the year before Black Friday....",
+      "url": "https://www.ign.com/articles/ebay-labor-day-sale-2025-best-deals-on-bose-dyson-lg-sony-and-more",
+      "publishedAt": "2025-09-02T01:34:47Z",
+      "processed_at": "2025-09-03T01:25:36.471928+00:00"
+    },
+    {
+      "title": "Nintendo Switch 2 and Switch update 20.4.0 out now, patch notes - Nintendo Everything",
+      "source": {
+        "name": "Nintendoeverything.com"
+      },
+      "description": "Nintendo Switch 2 and Switch just went live with version 20.4.0, and here are the official patch not...",
+      "url": "https://nintendoeverything.com/nintendo-switch-2-and-switch-update-20-4-0-out-now-patch-notes/",
+      "publishedAt": "2025-09-02T01:08:41Z",
+      "processed_at": "2025-09-03T01:25:36.471928+00:00"
+    },
     {
       "title": "Xbox sale round-up September 2, 2025 - TrueAchievements",
       "source": {
@@ -10,17 +30,27 @@
       "description": "New Xbox sales are now live, with big discounts on Destiny 2, Batman: Arkham Knight, Far Cry 5, Assa...",
       "url": "https://www.trueachievements.com/n60109/xbox-sale-roundup-september-2-2025",
       "publishedAt": "2025-09-02T00:29:38Z",
-      "processed_at": "2025-09-02T23:16:51.821928+00:00"
+      "processed_at": "2025-09-03T01:25:36.471928+00:00"
     },
     {
-      "title": "Best Labor Day Headphone Deals: Save Big on Some of Our Favorite Audio Devices From Beats, Sony and More - CNET",
+      "title": "The New Sony WH-1000XM6 Noise Canceling Headphones Drops to the Lowest Price Ever - IGN",
       "source": {
-        "name": "CNET"
+        "name": "IGN"
       },
-      "description": "",
-      "url": "https://www.cnet.com/deals/best-labor-day-headphone-deals-2025-09-01/",
-      "publishedAt": "2025-09-02T00:29:32Z",
-      "processed_at": "2025-09-02T23:16:51.821928+00:00"
+      "description": "The best noise canceling headphones of 2025....",
+      "url": "https://www.ign.com/articles/sony-wh-1000xm6-noise-canceling-headphone-deal-adorama-labor-day-sale",
+      "publishedAt": "2025-09-01T23:32:46Z",
+      "processed_at": "2025-09-03T01:25:36.471928+00:00"
+    },
+    {
+      "title": "Rumor: AirPods Pro 3 features may not all arrive at launch - 9to5Mac",
+      "source": {
+        "name": "9to5Mac"
+      },
+      "description": "While we expect Apple to unveil AirPods Pro 3 alongside iPhone 17 and Apple Watch Series 11 next wee...",
+      "url": "https://9to5mac.com/2025/09/01/airpods-pro-3-sensors-live-translation/",
+      "publishedAt": "2025-09-01T22:17:00Z",
+      "processed_at": "2025-09-03T01:25:36.471928+00:00"
     },
     {
       "title": "Man uses AirTag to track down stolen luggage, finds person wearing his clothes - Mashable",
@@ -30,17 +60,27 @@
       "description": "AirTags saved the day, and this man's luggage....",
       "url": "https://mashable.com/article/apple-airtag-hidden-track-stolen-luggage",
       "publishedAt": "2025-09-01T20:32:52Z",
-      "processed_at": "2025-09-02T23:16:51.821928+00:00"
+      "processed_at": "2025-09-03T01:25:36.471928+00:00"
     },
     {
-      "title": "New evidence suggests Pixel 10a will use Tensor G4 instead of Pixel 10’s Tensor G5 - 9to5Google",
+      "title": "Samsung just added these Galaxy phones to the One UI 8 beta ahead of stable rollout - 9to5Google",
       "source": {
         "name": "9to5google.com"
       },
-      "description": "A big part of the appeal of Google’s affordable Pixel “A-Series” smartphones is that they have the s...",
-      "url": "http://9to5google.com/2025/09/01/new-evidence-suggests-pixel-10a-will-use-tensor-g4-instead-of-pixel-10s-tensor-g5/",
-      "publishedAt": "2025-09-01T19:40:00Z",
-      "processed_at": "2025-09-02T23:16:51.821928+00:00"
+      "description": "Samsung’s stable One UI 8 rollout with Android 16 should be starting any day now and, ahead of that,...",
+      "url": "http://9to5google.com/2025/09/01/samsung-just-added-these-galaxy-phones-to-the-one-ui-8-beta-ahead-of-stable-rollout/",
+      "publishedAt": "2025-09-01T20:15:00Z",
+      "processed_at": "2025-09-03T01:25:36.471928+00:00"
+    },
+    {
+      "title": "This 1TB HP Laptop Is Now $499 Instead of $2499, Amazon Just Cut $2000 Off the Price - Kotaku",
+      "source": {
+        "name": "Kotaku"
+      },
+      "description": "This excellent HP laptop is down to just a fifth of its original price....",
+      "url": "https://kotaku.com/this-1tb-hp-laptop-is-now-499-instead-of-2499-amazon-just-cut-2000-off-the-price-2000622087",
+      "publishedAt": "2025-09-01T19:02:29Z",
+      "processed_at": "2025-09-03T01:25:36.471928+00:00"
     },
     {
       "title": "Psychic Spectacular Taken Over: Indeedee Debut, Shadow Tornadus and More! - Pokémon GO Hub",
@@ -50,50 +90,20 @@
       "description": "Psychic Spectacular: Taken Over is the latest Team GO Rocket Takeover event that runs from Tuesday, ...",
       "url": "https://pokemongohub.net/post/event/psychic-spectacular-taken-over-indeedee-debut-shadow-tornadus-and-more/",
       "publishedAt": "2025-09-01T18:38:31Z",
-      "processed_at": "2025-09-02T23:16:51.821928+00:00"
+      "processed_at": "2025-09-03T01:25:36.471928+00:00"
     },
     {
-      "title": "The Cyberpunk 2077 team is seeking \"brave netrunners\" for something on 4th September, but won't say what it is - Eurogamer",
+      "title": "The Pixel 10’s Tensor G5 comes with a shockingly weak GPU on paper - Chrome Unboxed",
       "source": {
-        "name": "Eurogamer.net"
+        "name": "Chrome Unboxed"
       },
-      "description": "The Cyberpunk 2077 team is teasing something for this Thursday, 4th September....",
-      "url": "https://www.eurogamer.net/the-cyberpunk-2077-team-is-seeking-brave-netrunners-for-something-on-4th-september-but-wont-say-what-it-is",
-      "publishedAt": "2025-09-01T16:14:36Z",
-      "processed_at": "2025-09-02T23:16:51.821928+00:00"
-    },
-    {
-      "title": "YouTube is now flagging accounts on Premium family plans that aren't in the same household - Android Police",
-      "source": {
-        "name": "Android Police"
-      },
-      "description": "YouTube is now enforcing its rule that all Premium Family plan members must reside in the same house...",
-      "url": "https://www.androidpolice.com/youtubes-latest-crackdown-may-affect-your-family-plan/",
-      "publishedAt": "2025-09-01T16:04:00Z",
-      "processed_at": "2025-09-02T23:16:51.821928+00:00"
-    },
-    {
-      "title": "Samsung's massive 85-inch Neo QLED 4K TV just hit a new record-low price for Labor Day - Mashable",
-      "source": {
-        "name": "Mashable"
-      },
-      "description": "Reviewers describe the picture quality as \"stunningly vivid\" and \"almost holographic.\"...",
-      "url": "https://mashable.com/article/sept-1-samsung-85-inch-tv-deal",
-      "publishedAt": "2025-09-01T15:54:20Z",
-      "processed_at": "2025-09-02T23:16:51.821928+00:00"
-    },
-    {
-      "title": "iPhone 17 Pro: Apple’s rumored not-so-clear case design shown in video - 9to5Mac",
-      "source": {
-        "name": "9to5Mac"
-      },
-      "description": "Yesterday, leaker Majin Bu revealed that Apple’s iPhone 17 Pro Clear Case may not be so clear after ...",
-      "url": "https://9to5mac.com/2025/09/01/iphone-17-pro-apple-not-so-clear-case/",
-      "publishedAt": "2025-09-01T15:44:00Z",
-      "processed_at": "2025-09-02T23:16:51.821928+00:00"
+      "description": "With every new Pixel launch, there's a huge amount of excitement around what the latest generation o...",
+      "url": "https://chromeunboxed.com/the-pixel-10s-tensor-g5-comes-with-a-shockingly-weak-gpu-on-paper/",
+      "publishedAt": "2025-09-01T16:16:57Z",
+      "processed_at": "2025-09-03T01:25:36.471928+00:00"
     }
   ],
-  "lastUpdated": "2025-09-02T23:16:51.822000+00:00",
+  "lastUpdated": "2025-09-03T01:25:36.472000+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
