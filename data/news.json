@@ -1,89 +1,109 @@
 {
   "status": "success",
-  "totalResults": 8,
+  "totalResults": 10,
   "articles": [
     {
-      "title": "September's PS Plus monthly games are now available - Eurogamer",
+      "title": "‘Destiny 2’ Has Sunset 80% Of The Entire Game Thanks To The Portal - Forbes",
+      "source": {
+        "name": "Forbes"
+      },
+      "description": "Destiny 2 has sunset most of the game in favor of The Portal in the new Edge of Fate era, and it see...",
+      "url": "https://www.forbes.com/sites/paultassi/2025/09/02/destiny-2-has-sunset-80-of-the-entire-game-thanks-to-the-portal/",
+      "publishedAt": "2025-09-02T14:00:56Z",
+      "processed_at": "2025-09-03T13:28:08.249985+00:00"
+    },
+    {
+      "title": "Here are our first Xbox Game Pass games for September - Eurogamer",
       "source": {
         "name": "Eurogamer.net"
       },
-      "description": "",
-      "url": "https://www.eurogamer.net/septembers-ps-plus-monthly-games-are-now-available",
-      "publishedAt": "2025-09-02T09:29:35Z",
-      "processed_at": "2025-09-03T12:40:11.051924+00:00"
+      "description": "Microsoft has announced the first batch of games coming to its Xbox Game Pass subscription service t...",
+      "url": "https://www.eurogamer.net/here-are-our-first-xbox-game-pass-games-for-september",
+      "publishedAt": "2025-09-02T13:37:47Z",
+      "processed_at": "2025-09-03T13:28:08.249985+00:00"
     },
     {
-      "title": "Team Cherry Provides One Last Silksong Update Before Launch - Nintendo Life",
+      "title": "My favorite cooking gadget is getting a big upgrade - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "The TM7, the next generation Thermomix, launches in the US today....",
+      "url": "https://www.theverge.com/news/768614/thermomix-tm7-us-release-price-specs-launch-date",
+      "publishedAt": "2025-09-02T13:05:31Z",
+      "processed_at": "2025-09-03T13:28:08.249985+00:00"
+    },
+    {
+      "title": "Review: Daemon X Machina: Titanic Scion (Switch 2) - Decently Deep Mech Combat, But Clunky In Parts - Nintendo Life",
       "source": {
         "name": "Nintendo Life"
       },
-      "description": "Backers, listen up...",
-      "url": "https://www.nintendolife.com/news/2025/09/team-cherry-provides-one-last-silksong-update-before-launch",
-      "publishedAt": "2025-09-02T08:45:00Z",
-      "processed_at": "2025-09-03T12:40:11.051924+00:00"
+      "description": "Mecha for robot-fighting fans?...",
+      "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/daemon-x-machina-titanic-scion",
+      "publishedAt": "2025-09-02T13:00:00Z",
+      "processed_at": "2025-09-03T13:28:08.249985+00:00"
     },
     {
-      "title": "Nintendo Switch 2 System Update 20.4.0 Is Now Live, Here Are The Full Patch Notes - Nintendo Life",
+      "title": "Samsung’s trifold might be launching pretty soon - The Verge",
       "source": {
-        "name": "Nintendo Life"
+        "name": "The Verge"
       },
-      "description": "Available for Switch, too...",
-      "url": "https://www.nintendolife.com/news/2025/09/nintendo-switch-2-system-update-20-4-0-is-now-live-here-are-the-full-patch-notes",
-      "publishedAt": "2025-09-02T06:45:00Z",
-      "processed_at": "2025-09-03T12:40:11.051924+00:00"
+      "description": "But probably not this week....",
+      "url": "https://www.theverge.com/news/768918/samsungs-trifold-might-be-launching-pretty-soon",
+      "publishedAt": "2025-09-02T12:38:26Z",
+      "processed_at": "2025-09-03T13:28:08.249985+00:00"
     },
     {
-      "title": "Pixel 10 Pro XL proves its got the strength to match its software update promise - Android Authority",
+      "title": "Dolby Vision 2 goes beyond HDR with more AI and ‘authentic motion’ smoothing - The Verge",
       "source": {
-        "name": "Android Authority"
+        "name": "The Verge"
       },
-      "description": "A new durability test shows that the Pixel 10 Pro XL may be Google's toughest device yet, with only ...",
-      "url": "https://www.androidauthority.com/google-pixel-10-pro-xl-durability-test-3593396/",
-      "publishedAt": "2025-09-02T04:05:36Z",
-      "processed_at": "2025-09-03T12:40:11.051924+00:00"
+      "description": "Dolby has announced Dolby Vision 2, which offers new “Content Intelligence” to optimize your TV base...",
+      "url": "https://www.theverge.com/news/768842/dolby-vision-2-launch-content-intelligence-tone-mapping",
+      "publishedAt": "2025-09-02T12:30:00Z",
+      "processed_at": "2025-09-03T13:28:08.249985+00:00"
     },
     {
-      "title": "Common Pesticide Linked to Widespread Brain Abnormalities in Children - ScienceAlert",
-      "source": {
-        "name": "ScienceAlert"
-      },
-      "description": "The insecticide chlorpyrifos is a powerful tool for controlling various pests, making it one of the ...",
-      "url": "https://www.sciencealert.com/common-pesticide-linked-to-widespread-brain-abnormalities-in-children",
-      "publishedAt": "2025-09-02T02:23:03Z",
-      "processed_at": "2025-09-03T12:40:11.051924+00:00"
-    },
-    {
-      "title": "What’s new in Android’s September 2025 Google System Updates - 9to5Google",
+      "title": "Gmail for Android getting the full M3 Expressive container treatment - 9to5Google",
       "source": {
         "name": "9to5google.com"
       },
-      "description": "The monthly “Google System Release Notes” primarily detail what’s new in Play services, Play Store, ...",
-      "url": "http://9to5google.com/2025/09/01/september-2025-google-system-updates/",
-      "publishedAt": "2025-09-02T02:03:00Z",
-      "processed_at": "2025-09-03T12:40:11.051924+00:00"
+      "description": "After the initial wave of M3 Expressive, the Gmail for Android redesign continues by placing each em...",
+      "url": "http://9to5google.com/2025/09/02/gmail-material-3-expressive-containers/",
+      "publishedAt": "2025-09-02T12:01:00Z",
+      "processed_at": "2025-09-03T13:28:08.249985+00:00"
     },
     {
-      "title": "Xbox sale round-up September 2, 2025 - TrueAchievements",
+      "title": "AirPods Pro 3 Said to Gain Two Health Sensors, But Translation Delayed - MacRumors",
       "source": {
-        "name": "TrueAchievements"
+        "name": "MacRumors"
       },
-      "description": "New Xbox sales are now live, with big discounts on Destiny 2, Batman: Arkham Knight, Far Cry 5, Assa...",
-      "url": "https://www.trueachievements.com/n60109/xbox-sale-roundup-september-2-2025",
-      "publishedAt": "2025-09-02T00:29:38Z",
-      "processed_at": "2025-09-03T12:40:11.051924+00:00"
+      "description": "Apple's upcoming AirPods Pro 3 will indeed feature in-ear temperature sensing as well as heart-rate ...",
+      "url": "https://www.macrumors.com/2025/09/02/airpods-pro-3-health-sensors-no-translation/",
+      "publishedAt": "2025-09-02T11:40:54Z",
+      "processed_at": "2025-09-03T13:28:08.249985+00:00"
     },
     {
-      "title": "Google Maps may soon keep your navigation updates where you can’t lose them - Android Authority",
+      "title": "Survey claims many iPhone owners will switch to Android for a foldable this year - 9to5Mac",
       "source": {
-        "name": "Android Authority"
+        "name": "9to5Mac"
       },
-      "description": "Google Maps is starting to show Live Updates for navigation, but the rollout is limited to a handful...",
-      "url": "https://www.androidauthority.com/google-maps-testing-live-updates-3593335/",
-      "publishedAt": "2025-09-01T22:32:31Z",
-      "processed_at": "2025-09-03T12:40:11.051924+00:00"
+      "description": "A new survey of US iPhone owners claims that almost a third of them would consider switching to eith...",
+      "url": "https://9to5mac.com/2025/09/02/survey-claims-many-iphone-owners-will-switch-to-android-for-a-foldable-this-year/",
+      "publishedAt": "2025-09-02T11:36:00Z",
+      "processed_at": "2025-09-03T13:28:08.249985+00:00"
+    },
+    {
+      "title": "Sonic Racing: CrossWorlds Scores Free Single-Player Demo This Month - Nintendo Life",
+      "source": {
+        "name": "Nintendo Life"
+      },
+      "description": "Driving solo...",
+      "url": "https://www.nintendolife.com/news/2025/09/sonic-racing-crossworlds-scores-free-single-player-demo-this-month",
+      "publishedAt": "2025-09-02T09:30:00Z",
+      "processed_at": "2025-09-03T13:28:08.249985+00:00"
     }
   ],
-  "lastUpdated": "2025-09-03T12:40:11.051998+00:00",
+  "lastUpdated": "2025-09-03T13:28:08.250061+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
