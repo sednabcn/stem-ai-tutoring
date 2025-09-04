@@ -3,14 +3,44 @@
   "totalResults": 9,
   "articles": [
     {
-      "title": "Leaked Fallout Merch Appears To Use AI-Generated Slop - Kotaku",
+      "title": "Destiny 2 Ash & Iron: All Exotic Armor and Ability Changes Detailed - The Game Post",
       "source": {
-        "name": "Kotaku"
+        "name": "Thegamepost.com"
       },
-      "description": "A man cutting a napkin with a misshapen fork seems a bit odd, even for the Fallout universe...",
-      "url": "https://kotaku.com/leaked-fallout-merch-ai-art-target-hot-sauce-bethesda-2000622731",
-      "publishedAt": "2025-09-03T21:30:55Z",
-      "processed_at": "2025-09-04T22:18:00.282234+00:00"
+      "description": "Bungie has revealed all Exotic armor and ability changes coming in Destiny 2’s free Ash & Iron updat...",
+      "url": "https://thegamepost.com/destiny-2-ash-iron-exotic-armor-abilities-changes-detailed/",
+      "publishedAt": "2025-09-03T23:11:02Z",
+      "processed_at": "2025-09-04T23:17:45.640111+00:00"
+    },
+    {
+      "title": "New AI model turns photos into explorable 3D worlds, with caveats - Ars Technica",
+      "source": {
+        "name": "Ars Technica"
+      },
+      "description": "Openly available AI tool creates steerable 3D-like video, but requires serious GPU muscle....",
+      "url": "https://arstechnica.com/ai/2025/09/new-ai-model-turns-photos-into-explorable-3d-worlds-with-caveats/",
+      "publishedAt": "2025-09-03T21:56:07Z",
+      "processed_at": "2025-09-04T23:17:45.640111+00:00"
+    },
+    {
+      "title": "Automated Sextortion Spyware Takes Webcam Pics of Victims Watching Porn - WIRED",
+      "source": {
+        "name": "Wired"
+      },
+      "description": "A new specimen of “infostealer” malware offers a disturbing feature: It monitors a target's browser ...",
+      "url": "https://www.wired.com/story/stealerium-infostealer-porn-sextortion/",
+      "publishedAt": "2025-09-03T21:04:00Z",
+      "processed_at": "2025-09-04T23:17:45.640111+00:00"
+    },
+    {
+      "title": "Apple’s Siri upgrade could reportedly be powered by Google Gemini - TechCrunch",
+      "source": {
+        "name": "TechCrunch"
+      },
+      "description": "An AI Siri is in the works and it could be running Gemini under the hood....",
+      "url": "https://techcrunch.com/2025/09/03/apples-siri-upgrade-could-reportedly-be-powered-by-google-gemini/",
+      "publishedAt": "2025-09-03T20:50:38Z",
+      "processed_at": "2025-09-04T23:17:45.640111+00:00"
     },
     {
       "title": "Hands-on: Chromebooks are in a weird place, and Acer’s latest is a perfect example - 9to5Google",
@@ -20,47 +50,17 @@
       "description": "I used to love Chromebooks, to the point where my main laptop was a Chromebook for a few years. But....",
       "url": "http://9to5google.com/2025/09/03/hands-on-chromebooks-are-in-a-weird-place-and-acers-latest-is-a-perfect-example/",
       "publishedAt": "2025-09-03T20:00:00Z",
-      "processed_at": "2025-09-04T22:18:00.282234+00:00"
+      "processed_at": "2025-09-04T23:17:45.640111+00:00"
     },
     {
-      "title": "Apple Plans AI-Powered Web Search Tool for Siri to Rival OpenAI, Perplexity - Bloomberg",
+      "title": "More Pixel phones are getting Google’s new look for Android - The Verge",
       "source": {
-        "name": "Bloomberg"
+        "name": "The Verge"
       },
-      "description": "Apple Inc. is planning to launch its own artificial intelligence-powered web search tool next year, ...",
-      "url": "https://www.bloomberg.com/news/articles/2025-09-03/apple-plans-ai-search-engine-for-siri-to-rival-openai-google-siri-talks-advance",
-      "publishedAt": "2025-09-03T19:56:24Z",
-      "processed_at": "2025-09-04T22:18:00.282234+00:00"
-    },
-    {
-      "title": "These psychological tricks can get LLMs to respond to “forbidden” prompts - Ars Technica",
-      "source": {
-        "name": "Ars Technica"
-      },
-      "description": "Study shows how patterns in LLM training data can lead to “parahuman” responses....",
-      "url": "https://arstechnica.com/science/2025/09/these-psychological-tricks-can-get-llms-to-respond-to-forbidden-prompts/",
-      "publishedAt": "2025-09-03T19:32:12Z",
-      "processed_at": "2025-09-04T22:18:00.282234+00:00"
-    },
-    {
-      "title": "Pixel phones are getting Android’s ‘Audio Sharing’ with Auracast support - 9to5Google",
-      "source": {
-        "name": "9to5google.com"
-      },
-      "description": "Work between Google and Bluetooth’s LE Audio has been ongoing, with support for Auracast promised bu...",
-      "url": "http://9to5google.com/2025/09/03/auracast-le-audio-sharing-coming-to-pixel/",
-      "publishedAt": "2025-09-03T18:03:00Z",
-      "processed_at": "2025-09-04T22:18:00.282234+00:00"
-    },
-    {
-      "title": "Google brings Material 3 Expressive to Pixel 6 and newer devices, along with other features - TechCrunch",
-      "source": {
-        "name": "TechCrunch"
-      },
-      "description": "Google announced on Wednesday that it's bringing a slew of new features to the Android ecosystem and...",
-      "url": "https://techcrunch.com/2025/09/03/google-brings-material-3-expressive-to-pixel-6-and-newer-devices-along-with-other-features/",
+      "description": "Google is rolling out its youthful Material 3 Expressive design language to Pixel 6 phones and up, i...",
+      "url": "https://www.theverge.com/news/770174/google-pixel-drop-september-2025-material-3-expressive",
       "publishedAt": "2025-09-03T18:00:00Z",
-      "processed_at": "2025-09-04T22:18:00.282234+00:00"
+      "processed_at": "2025-09-04T23:17:45.640111+00:00"
     },
     {
       "title": "Fake celebrity chatbots sent risqué messages to teens on top AI app - The Washington Post",
@@ -70,7 +70,17 @@
       "description": "Chatbot mimics of Timothée Chalamet, Chappell Roan and Patrick Mahomes on the popular app Character....",
       "url": "https://www.washingtonpost.com/technology/2025/09/03/character-ai-celebrity-teen-safety/",
       "publishedAt": "2025-09-03T17:35:00Z",
-      "processed_at": "2025-09-04T22:18:00.282234+00:00"
+      "processed_at": "2025-09-04T23:17:45.640111+00:00"
+    },
+    {
+      "title": "Apple’s Vision Pro Gaining Traction in Some Niches of Business - The Wall Street Journal",
+      "source": {
+        "name": "The Wall Street Journal"
+      },
+      "description": "",
+      "url": "https://www.wsj.com/articles/apples-vision-pro-gaining-traction-in-some-niches-of-business-16d3c74e",
+      "publishedAt": "2025-09-03T17:30:00Z",
+      "processed_at": "2025-09-04T23:17:45.640111+00:00"
     },
     {
       "title": "Diagnostic dilemma: Woman's severe knee pain reveals 'golden threads' in her joints - Live Science",
@@ -80,20 +90,10 @@
       "description": "A woman went to the hospital for severe joint pain in her knees, and an X-ray showed hundreds of str...",
       "url": "https://www.livescience.com/health/diagnostic-dilemma-womans-severe-knee-pain-reveals-golden-threads-in-her-joints",
       "publishedAt": "2025-09-03T16:22:00Z",
-      "processed_at": "2025-09-04T22:18:00.282234+00:00"
-    },
-    {
-      "title": "Marvel Rivals coming to PS4 on September 12 alongside Season 4 update - Gematsu",
-      "source": {
-        "name": "Gematsu"
-      },
-      "description": "NetEase Games will release free-to-play third-person shooter Marvel Rivals for PlayStation 4 on Sept...",
-      "url": "https://www.gematsu.com/2025/09/marvel-rivals-coming-to-ps4-on-september-12-alongside-season-4-update",
-      "publishedAt": "2025-09-03T16:15:55Z",
-      "processed_at": "2025-09-04T22:18:00.282234+00:00"
+      "processed_at": "2025-09-04T23:17:45.640111+00:00"
     }
   ],
-  "lastUpdated": "2025-09-04T22:18:00.282306+00:00",
+  "lastUpdated": "2025-09-04T23:17:45.640188+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
