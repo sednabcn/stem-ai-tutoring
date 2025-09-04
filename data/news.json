@@ -1,36 +1,76 @@
 {
   "status": "success",
-  "totalResults": 10,
+  "totalResults": 9,
   "articles": [
     {
-      "title": "Android 16 QPR1 September update rolling out with 24 Pixel fixes - 9to5Google",
+      "title": "Apple Plans AI-Powered Web Search Tool for Siri to Rival OpenAI - Bloomberg Law News",
       "source": {
-        "name": "9to5google.com"
+        "name": "Bloomberglaw.com"
       },
-      "description": "The Android 16 QPR1 update with the September 2025 security patch is rolling out today for the Pixel...",
-      "url": "http://9to5google.com/2025/09/03/android-16-september-update-pixel/",
-      "publishedAt": "2025-09-03T18:15:00Z",
-      "processed_at": "2025-09-04T18:27:57.108737+00:00"
+      "description": "Apple Inc. is planning to launch its own artificial intelligence-powered web search tool next year, ...",
+      "url": "https://news.bloomberglaw.com/artificial-intelligence/apple-plans-ai-powered-web-search-tool-for-siri-to-rival-openai",
+      "publishedAt": "2025-09-03T19:56:00Z",
+      "processed_at": "2025-09-04T19:15:29.775116+00:00"
     },
     {
-      "title": "More Pixel phones are getting Google’s new look for Android - The Verge",
+      "title": "These psychological tricks can get LLMs to respond to “forbidden” prompts - Ars Technica",
+      "source": {
+        "name": "Ars Technica"
+      },
+      "description": "Study shows how patterns in LLM training data can lead to “parahuman” responses....",
+      "url": "https://arstechnica.com/science/2025/09/these-psychological-tricks-can-get-llms-to-respond-to-forbidden-prompts/",
+      "publishedAt": "2025-09-03T19:32:12Z",
+      "processed_at": "2025-09-04T19:15:29.775116+00:00"
+    },
+    {
+      "title": "Anker’s power bank with dual USB-C retractable cables is a great deal at $25 off - The Verge",
       "source": {
         "name": "The Verge"
       },
-      "description": "Google is rolling out its youthful Material 3 Expressive design language to Pixel 6 phones and up, i...",
-      "url": "https://www.theverge.com/news/770174/google-pixel-drop-september-2025-material-3-expressive",
-      "publishedAt": "2025-09-03T18:00:00Z",
-      "processed_at": "2025-09-04T18:27:57.108737+00:00"
+      "description": "Anker’s Laptop Power Bank is down to one of its best prices at multiple retailers. Samsung’s Galaxy ...",
+      "url": "https://www.theverge.com/tech/770332/anker-laptop-charger-samsung-galaxy-buds-3-deal-sale",
+      "publishedAt": "2025-09-03T18:08:45Z",
+      "processed_at": "2025-09-04T19:15:29.775116+00:00"
     },
     {
-      "title": "007 First Light State of Play September 2025: Everything Announced - IGN",
+      "title": "Google brings Material 3 Expressive to Pixel 6 and newer devices, along with other features - TechCrunch",
       "source": {
-        "name": "IGN"
+        "name": "TechCrunch"
       },
-      "description": "The 007 First Light State of Play is just moments away from giving players a nice, long look at how ...",
-      "url": "https://www.ign.com/articles/007-first-light-state-of-play-september-2025-everything-announced",
-      "publishedAt": "2025-09-03T17:51:58Z",
-      "processed_at": "2025-09-04T18:27:57.108737+00:00"
+      "description": "Google announced on Wednesday that it's bringing a slew of new features to the Android ecosystem and...",
+      "url": "https://techcrunch.com/2025/09/03/google-brings-material-3-expressive-to-pixel-6-and-newer-devices-along-with-other-features/",
+      "publishedAt": "2025-09-03T18:00:00Z",
+      "processed_at": "2025-09-04T19:15:29.775116+00:00"
+    },
+    {
+      "title": "Pixel phones can now stream music for you and a friend at the same time - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "Google’s Pixel phones are getting expanded Bluetooth LE Audio support for streaming to multiple head...",
+      "url": "https://www.theverge.com/news/770233/google-android-bluetooth-audio-le-multiple-headphones",
+      "publishedAt": "2025-09-03T18:00:00Z",
+      "processed_at": "2025-09-04T19:15:29.775116+00:00"
+    },
+    {
+      "title": "Fake celebrity chatbots sent risqué messages to teens on top AI app - The Washington Post",
+      "source": {
+        "name": "The Washington Post"
+      },
+      "description": "Chatbot mimics of Timothée Chalamet, Chappell Roan and Patrick Mahomes on the popular app Character....",
+      "url": "https://www.washingtonpost.com/technology/2025/09/03/character-ai-celebrity-teen-safety/",
+      "publishedAt": "2025-09-03T17:35:00Z",
+      "processed_at": "2025-09-04T19:15:29.775116+00:00"
+    },
+    {
+      "title": "Major Amazon leak spoils the Philips Hue party - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "We’re seeing MotionAware, Bridge Pro, Hue doorbell, and new Essential lineup of bulbs....",
+      "url": "https://www.theverge.com/news/770345/major-amazon-leak-spoils-the-philips-hue-party",
+      "publishedAt": "2025-09-03T17:25:52Z",
+      "processed_at": "2025-09-04T19:15:29.775116+00:00"
     },
     {
       "title": "Diagnostic dilemma: Woman's severe knee pain reveals 'golden threads' in her joints - Live Science",
@@ -40,7 +80,7 @@
       "description": "A woman went to the hospital for severe joint pain in her knees, and an X-ray showed hundreds of str...",
       "url": "https://www.livescience.com/health/diagnostic-dilemma-womans-severe-knee-pain-reveals-golden-threads-in-her-joints",
       "publishedAt": "2025-09-03T16:22:00Z",
-      "processed_at": "2025-09-04T18:27:57.108737+00:00"
+      "processed_at": "2025-09-04T19:15:29.775116+00:00"
     },
     {
       "title": "Marvel Rivals coming to PS4 on September 12 alongside Season 4 update - Gematsu",
@@ -50,60 +90,10 @@
       "description": "NetEase Games will release free-to-play third-person shooter Marvel Rivals for PlayStation 4 on Sept...",
       "url": "https://www.gematsu.com/2025/09/marvel-rivals-coming-to-ps4-on-september-12-alongside-season-4-update",
       "publishedAt": "2025-09-03T16:15:55Z",
-      "processed_at": "2025-09-04T18:27:57.108737+00:00"
-    },
-    {
-      "title": "First Look at the next Expansion with a Showcase Set for October 15 - Disney Dreamlight Valley",
-      "source": {
-        "name": "Disneydreamlightvalley.com"
-      },
-      "description": "Disney Dreamlight Valley...",
-      "url": "https://disneydreamlightvalley.com/en/news/firstlook-sep-3-2025",
-      "publishedAt": "2025-09-03T16:05:49Z",
-      "processed_at": "2025-09-04T18:27:57.108737+00:00"
-    },
-    {
-      "title": "Instagram Unveils iPad App for First Time, Focused on Reels - Bloomberg.com",
-      "source": {
-        "name": "Bloomberg"
-      },
-      "description": "Instagram is launching a dedicated iPad app for the first time, offering a redesigned version of its...",
-      "url": "https://www.bloomberg.com/news/articles/2025-09-03/instagram-unveils-ipad-app-for-first-time-focused-on-reels",
-      "publishedAt": "2025-09-03T16:00:00Z",
-      "processed_at": "2025-09-04T18:27:57.108737+00:00"
-    },
-    {
-      "title": "How to watch Apple announce the iPhone 17 - TechCrunch",
-      "source": {
-        "name": "TechCrunch"
-      },
-      "description": "Apple is debuting the iPhone 17 at its annual hardware event on September 9....",
-      "url": "https://techcrunch.com/2025/09/03/how-to-watch-apple-announce-the-iphone-17/",
-      "publishedAt": "2025-09-03T15:27:01Z",
-      "processed_at": "2025-09-04T18:27:57.108737+00:00"
-    },
-    {
-      "title": "Google’s best-ever 4K streamer is within $1 of its lowest price - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "Google’s TV Streamer 4K is a media streamer and smart home hub, and it’s on sale for $79.99 at Amazo...",
-      "url": "https://www.theverge.com/tech/769978/google-tv-streamer-4k-deal-sale",
-      "publishedAt": "2025-09-03T15:16:20Z",
-      "processed_at": "2025-09-04T18:27:57.108737+00:00"
-    },
-    {
-      "title": "Netflix will let users customize and share clips on mobile - CNBC",
-      "source": {
-        "name": "CNBC"
-      },
-      "description": "Netflix announced an update Wednesday to its \"Moments\" feature, now allowing viewers to choose a sta...",
-      "url": "https://www.cnbc.com/2025/09/03/netflix-clips-moments-viral-share-mobile.html",
-      "publishedAt": "2025-09-03T14:44:25Z",
-      "processed_at": "2025-09-04T18:27:57.108737+00:00"
+      "processed_at": "2025-09-04T19:15:29.775116+00:00"
     }
   ],
-  "lastUpdated": "2025-09-04T18:27:57.108807+00:00",
+  "lastUpdated": "2025-09-04T19:15:29.775189+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
