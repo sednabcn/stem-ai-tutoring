@@ -1,7 +1,17 @@
 {
   "status": "success",
-  "totalResults": 9,
+  "totalResults": 10,
   "articles": [
+    {
+      "title": "Patrick Gibson Cast As James Bond In ‘007 First Light’ Video Game: Photos, Trailer & Release Date Revealed - Deadline",
+      "source": {
+        "name": "Deadline"
+      },
+      "description": "The 'Dexter: Original Sin' star, Patrick Gibson, has been cast as James Bond where he will voice the...",
+      "url": "https://deadline.com/gallery/patrick-gibson-cast-james-bond-007-first-light-playstation/",
+      "publishedAt": "2025-09-03T23:20:00Z",
+      "processed_at": "2025-09-05T01:27:58.824540+00:00"
+    },
     {
       "title": "Destiny 2 Ash & Iron: All Exotic Armor and Ability Changes Detailed - The Game Post",
       "source": {
@@ -10,7 +20,7 @@
       "description": "Bungie has revealed all Exotic armor and ability changes coming in Destiny 2’s free Ash & Iron updat...",
       "url": "https://thegamepost.com/destiny-2-ash-iron-exotic-armor-abilities-changes-detailed/",
       "publishedAt": "2025-09-03T23:11:02Z",
-      "processed_at": "2025-09-04T23:17:45.640111+00:00"
+      "processed_at": "2025-09-05T01:27:58.824540+00:00"
     },
     {
       "title": "New AI model turns photos into explorable 3D worlds, with caveats - Ars Technica",
@@ -20,7 +30,17 @@
       "description": "Openly available AI tool creates steerable 3D-like video, but requires serious GPU muscle....",
       "url": "https://arstechnica.com/ai/2025/09/new-ai-model-turns-photos-into-explorable-3d-worlds-with-caveats/",
       "publishedAt": "2025-09-03T21:56:07Z",
-      "processed_at": "2025-09-04T23:17:45.640111+00:00"
+      "processed_at": "2025-09-05T01:27:58.824540+00:00"
+    },
+    {
+      "title": "Video: Cronos: The New Dawn Nintendo Switch 2 vs. PS5 graphics comparison - Nintendo Everything",
+      "source": {
+        "name": "Nintendoeverything.com"
+      },
+      "description": "Cronos: The New Dawn gets a new Nintendo Switch 2 vs. PS5 graphics comparison video before launch....",
+      "url": "https://nintendoeverything.com/cronos-the-new-dawn-nintendo-switch-2-vs-ps5-graphics-comparison/",
+      "publishedAt": "2025-09-03T21:31:39Z",
+      "processed_at": "2025-09-05T01:27:58.824540+00:00"
     },
     {
       "title": "Automated Sextortion Spyware Takes Webcam Pics of Victims Watching Porn - WIRED",
@@ -30,7 +50,7 @@
       "description": "A new specimen of “infostealer” malware offers a disturbing feature: It monitors a target's browser ...",
       "url": "https://www.wired.com/story/stealerium-infostealer-porn-sextortion/",
       "publishedAt": "2025-09-03T21:04:00Z",
-      "processed_at": "2025-09-04T23:17:45.640111+00:00"
+      "processed_at": "2025-09-05T01:27:58.824540+00:00"
     },
     {
       "title": "Apple’s Siri upgrade could reportedly be powered by Google Gemini - TechCrunch",
@@ -40,7 +60,17 @@
       "description": "An AI Siri is in the works and it could be running Gemini under the hood....",
       "url": "https://techcrunch.com/2025/09/03/apples-siri-upgrade-could-reportedly-be-powered-by-google-gemini/",
       "publishedAt": "2025-09-03T20:50:38Z",
-      "processed_at": "2025-09-04T23:17:45.640111+00:00"
+      "processed_at": "2025-09-05T01:27:58.824540+00:00"
+    },
+    {
+      "title": "Google’s Material 3 Expressive UI rolls out to Pixel 6 and newer - Ars Technica",
+      "source": {
+        "name": "Ars Technica"
+      },
+      "description": "Google’s latest updates include a smattering of features for Pixels and other Android phones....",
+      "url": "https://arstechnica.com/gadgets/2025/09/googles-material-3-expressive-ui-rolls-out-to-pixel-6-and-newer/",
+      "publishedAt": "2025-09-03T20:31:03Z",
+      "processed_at": "2025-09-05T01:27:58.824540+00:00"
     },
     {
       "title": "Hands-on: Chromebooks are in a weird place, and Acer’s latest is a perfect example - 9to5Google",
@@ -50,50 +80,30 @@
       "description": "I used to love Chromebooks, to the point where my main laptop was a Chromebook for a few years. But....",
       "url": "http://9to5google.com/2025/09/03/hands-on-chromebooks-are-in-a-weird-place-and-acers-latest-is-a-perfect-example/",
       "publishedAt": "2025-09-03T20:00:00Z",
-      "processed_at": "2025-09-04T23:17:45.640111+00:00"
+      "processed_at": "2025-09-05T01:27:58.824540+00:00"
     },
     {
-      "title": "More Pixel phones are getting Google’s new look for Android - The Verge",
+      "title": "Apple Event 2025: 5 new Apple products you likely won’t see next week - Mashable",
       "source": {
-        "name": "The Verge"
+        "name": "Mashable"
       },
-      "description": "Google is rolling out its youthful Material 3 Expressive design language to Pixel 6 phones and up, i...",
-      "url": "https://www.theverge.com/news/770174/google-pixel-drop-september-2025-material-3-expressive",
-      "publishedAt": "2025-09-03T18:00:00Z",
-      "processed_at": "2025-09-04T23:17:45.640111+00:00"
+      "description": "They're on deck, but not quite ready for primetime....",
+      "url": "https://mashable.com/article/products-you-wont-see-apple-event-2025",
+      "publishedAt": "2025-09-03T18:44:40Z",
+      "processed_at": "2025-09-05T01:27:58.824540+00:00"
     },
     {
-      "title": "Fake celebrity chatbots sent risqué messages to teens on top AI app - The Washington Post",
+      "title": "Here’s What Angela And Daredevil Look Like In ‘Marvel Rivals’ Season 4 - Forbes",
       "source": {
-        "name": "The Washington Post"
+        "name": "Forbes"
       },
-      "description": "Chatbot mimics of Timothée Chalamet, Chappell Roan and Patrick Mahomes on the popular app Character....",
-      "url": "https://www.washingtonpost.com/technology/2025/09/03/character-ai-celebrity-teen-safety/",
-      "publishedAt": "2025-09-03T17:35:00Z",
-      "processed_at": "2025-09-04T23:17:45.640111+00:00"
-    },
-    {
-      "title": "Apple’s Vision Pro Gaining Traction in Some Niches of Business - The Wall Street Journal",
-      "source": {
-        "name": "The Wall Street Journal"
-      },
-      "description": "",
-      "url": "https://www.wsj.com/articles/apples-vision-pro-gaining-traction-in-some-niches-of-business-16d3c74e",
-      "publishedAt": "2025-09-03T17:30:00Z",
-      "processed_at": "2025-09-04T23:17:45.640111+00:00"
-    },
-    {
-      "title": "Diagnostic dilemma: Woman's severe knee pain reveals 'golden threads' in her joints - Live Science",
-      "source": {
-        "name": "Live Science"
-      },
-      "description": "A woman went to the hospital for severe joint pain in her knees, and an X-ray showed hundreds of str...",
-      "url": "https://www.livescience.com/health/diagnostic-dilemma-womans-severe-knee-pain-reveals-golden-threads-in-her-joints",
-      "publishedAt": "2025-09-03T16:22:00Z",
-      "processed_at": "2025-09-04T23:17:45.640111+00:00"
+      "description": "Daredevil and Angela are heading to Marvel Snap, and here's what they're going to look like ahead of...",
+      "url": "https://www.forbes.com/sites/paultassi/2025/09/03/heres-what-angela-and-daredevil-look-like-in-marvel-rivals-season-4/",
+      "publishedAt": "2025-09-03T16:22:33Z",
+      "processed_at": "2025-09-05T01:27:58.824540+00:00"
     }
   ],
-  "lastUpdated": "2025-09-04T23:17:45.640188+00:00",
+  "lastUpdated": "2025-09-05T01:27:58.824617+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
