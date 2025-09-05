@@ -1,7 +1,47 @@
 {
   "status": "success",
-  "totalResults": 8,
+  "totalResults": 9,
   "articles": [
+    {
+      "title": "Hollow Knight: Silksong causes server chaos on Xbox, Steam, and Nintendo as platforms grind to a halt - Eurogamer",
+      "source": {
+        "name": "Eurogamer.net"
+      },
+      "description": "A little game by the name of Hollow Knight: Silksong just released, and it has thrown platforms into...",
+      "url": "https://www.eurogamer.net/silksong-causes-server-chaos-on-xbox-steam-and-nintendo-as-platforms-grind-to-a-halt",
+      "publishedAt": "2025-09-04T14:15:04Z",
+      "processed_at": "2025-09-05T15:20:03.866856+00:00"
+    },
+    {
+      "title": "‘Destiny 2’ Fails To Fix Its Easiest Problem With Its Latest Patch - Forbes",
+      "source": {
+        "name": "Forbes"
+      },
+      "description": "It is hard to read any update about Destiny 2 these days without scratching your head in befuddlemen...",
+      "url": "https://www.forbes.com/sites/paultassi/2025/09/04/destiny-2-fails-to-fix-its-easiest-problem-with-its-latest-patch/",
+      "publishedAt": "2025-09-04T13:32:51Z",
+      "processed_at": "2025-09-05T15:20:03.866856+00:00"
+    },
+    {
+      "title": "New Report Lists RAM Amounts in iPhone 17 and iPhone 17 Pro Models - MacRumors",
+      "source": {
+        "name": "MacRumors"
+      },
+      "description": "Three out of four iPhone 17 models will feature more RAM than the equivalent iPhone 16 models, accor...",
+      "url": "https://www.macrumors.com/2025/09/04/iphone-17-ram-amounts-trendforce/",
+      "publishedAt": "2025-09-04T13:10:31Z",
+      "processed_at": "2025-09-05T15:20:03.866856+00:00"
+    },
+    {
+      "title": "Adobe’s Premiere video editor is coming to iPhone for free - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "The free Adobe Premiere mobile video editor launches on iOS this month, and an Android version is co...",
+      "url": "https://www.theverge.com/news/771236/adobe-premiere-iphone-ios-video-editor-android",
+      "publishedAt": "2025-09-04T13:00:00Z",
+      "processed_at": "2025-09-05T15:20:03.866856+00:00"
+    },
     {
       "title": "5 Android phones you should buy instead of the Google Pixel 10 Pro - Android Authority",
       "source": {
@@ -10,80 +50,50 @@
       "description": "The Google Pixel 10 Pro is a really, really good phone. But before you buy it, here are five other A...",
       "url": "https://www.androidauthority.com/google-pixel-10-pro-alternatives-3593549/",
       "publishedAt": "2025-09-04T10:16:53Z",
-      "processed_at": "2025-09-05T14:18:30.427772+00:00"
+      "processed_at": "2025-09-05T15:20:03.866856+00:00"
     },
     {
-      "title": "Huawei’s second trifold adds stylus support and purple pleather - The Verge",
+      "title": "Roborock graduates from vacuuming your house to mowing your lawn - The Verge",
       "source": {
         "name": "The Verge"
       },
-      "description": "The Huawei Mate XTs arrives in China for $2,500 — before Samsung has even announced its first trifol...",
-      "url": "https://www.theverge.com/news/771122/huaweis-second-trifold-adds-stylus-support-and-purple-pleather",
-      "publishedAt": "2025-09-04T10:04:24Z",
-      "processed_at": "2025-09-05T14:18:30.427772+00:00"
+      "description": "Roborock is entering the robot lawnmower industry. The company announced three new robot lawnmowers,...",
+      "url": "https://www.theverge.com/news/770725/roborock-robot-lawnmowers-launch-rockmow-z1",
+      "publishedAt": "2025-09-04T10:00:00Z",
+      "processed_at": "2025-09-05T15:20:03.866856+00:00"
     },
     {
-      "title": "Meet Samsung Galaxy Tab S11 Series: Packing Everything You Expect From a Premium Tablet - Samsung Newsroom",
+      "title": "Meet Samsung Galaxy S25 FE: The Gateway to the Galaxy AI and Flagship Essentials - Samsung Newsroom",
       "source": {
         "name": "Samsung.com"
       },
-      "description": "Galaxy Tab S11 series delivers the latest Galaxy AI features and a more powerful Samsung DeX experie...",
-      "url": "https://news.samsung.com/global/meet-samsung-galaxy-tab-s11-series-packing-everything-you-expect-from-a-premium-tablet",
-      "publishedAt": "2025-09-04T09:34:19Z",
-      "processed_at": "2025-09-05T14:18:30.427772+00:00"
+      "description": "With the latest Galaxy AI and a superior camera experience, Galaxy S25 FE delivers flagship features...",
+      "url": "https://news.samsung.com/global/meet-samsung-galaxy-s25-fe-the-gateway-to-the-galaxy-ai-and-flagship-essentials",
+      "publishedAt": "2025-09-04T09:34:17Z",
+      "processed_at": "2025-09-05T15:20:03.866856+00:00"
     },
     {
-      "title": "Inside Philips Hue’s plans to make all your lights motion sensors - The Verge",
+      "title": "Galaxy Tab S11 revives 11-inch size as S Pen ditches Bluetooth, copies iPad placement - 9to5Google",
       "source": {
-        "name": "The Verge"
+        "name": "9to5google.com"
       },
-      "description": "With a firmware upgrade and the new Bridge Pro, your Hue lighting system gets a “magical” new featur...",
-      "url": "https://www.theverge.com/smart-home/768585/philips-hue-motion-aware-rf-sensing-lights-motion-ivani",
-      "publishedAt": "2025-09-04T07:30:00Z",
-      "processed_at": "2025-09-05T14:18:30.427772+00:00"
+      "description": "Samsung's new Galaxy Tab S11 series is here, and it makes some big changes to the S Pen that feel li...",
+      "url": "http://9to5google.com/2025/09/04/samsung-galaxy-tab-s11-s-pen-changes/",
+      "publishedAt": "2025-09-04T09:30:00Z",
+      "processed_at": "2025-09-05T15:20:03.866856+00:00"
     },
     {
-      "title": "Switch Online's Mature N64 App Expands With Another Title This Week - Nintendo Life",
+      "title": "Apple's long-term plan for foldables and Vision Pro revealed in new report - Mashable",
       "source": {
-        "name": "Nintendo Life"
+        "name": "Mashable"
       },
-      "description": "Update: Forsaken 64 is now available...",
-      "url": "https://www.nintendolife.com/news/2025/09/switch-onlines-mature-n64-app-expands-with-another-title-this-week",
-      "publishedAt": "2025-09-04T05:32:01Z",
-      "processed_at": "2025-09-05T14:18:30.427772+00:00"
-    },
-    {
-      "title": "Patrick Gibson Cast As James Bond In ‘007 First Light’ Video Game: Photos, Trailer & Release Date Revealed - Deadline",
-      "source": {
-        "name": "Deadline"
-      },
-      "description": "The 'Dexter: Original Sin' star, Patrick Gibson, has been cast as James Bond where he will voice the...",
-      "url": "https://deadline.com/gallery/patrick-gibson-cast-james-bond-007-first-light-playstation/",
-      "publishedAt": "2025-09-03T23:20:00Z",
-      "processed_at": "2025-09-05T14:18:30.427772+00:00"
-    },
-    {
-      "title": "Destiny 2 Ash & Iron: All Exotic Armor and Ability Changes Detailed - The Game Post",
-      "source": {
-        "name": "Thegamepost.com"
-      },
-      "description": "Bungie has revealed all Exotic armor and ability changes coming in Destiny 2’s free Ash & Iron updat...",
-      "url": "https://thegamepost.com/destiny-2-ash-iron-exotic-armor-abilities-changes-detailed/",
-      "publishedAt": "2025-09-03T23:11:02Z",
-      "processed_at": "2025-09-05T14:18:30.427772+00:00"
-    },
-    {
-      "title": "New AI model turns photos into explorable 3D worlds, with caveats - Ars Technica",
-      "source": {
-        "name": "Ars Technica"
-      },
-      "description": "Openly available AI tool creates steerable 3D-like video, but requires serious GPU muscle....",
-      "url": "https://arstechnica.com/ai/2025/09/new-ai-model-turns-photos-into-explorable-3d-worlds-with-caveats/",
-      "publishedAt": "2025-09-03T21:56:07Z",
-      "processed_at": "2025-09-05T14:18:30.427772+00:00"
+      "description": "",
+      "url": "https://mashable.com/article/apple-foldable-iphone-ipad-vision-pro",
+      "publishedAt": "2025-09-04T09:22:30Z",
+      "processed_at": "2025-09-05T15:20:03.866856+00:00"
     }
   ],
-  "lastUpdated": "2025-09-05T14:18:30.427843+00:00",
+  "lastUpdated": "2025-09-05T15:20:03.866945+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
