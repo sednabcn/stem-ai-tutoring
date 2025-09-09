@@ -3,6 +3,46 @@
   "totalResults": 10,
   "articles": [
     {
+      "title": "Gemini app finally expands to audio files - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "The new languages available on Search are Hindi, Indonesian, Japanese, Korean, and Brazilian Portugu...",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/774008/gemini-audio-new-languages-notebooklm-reports",
+      "publishedAt": "2025-09-08T19:14:28Z",
+      "processed_at": "2025-09-09T21:17:07.687027+00:00"
+    },
+    {
+      "title": "Woot Has Big Deals on 2025 Gaming Releases, Including Monster Hunter Wilds for Under $30 - IGN",
+      "source": {
+        "name": "IGN"
+      },
+      "description": "",
+      "url": "https://www.ign.com/articles/woot-has-big-deals-on-2025-gaming-releases-including-monster-hunter-wilds-for-under-30",
+      "publishedAt": "2025-09-08T19:02:06Z",
+      "processed_at": "2025-09-09T21:17:07.687027+00:00"
+    },
+    {
+      "title": "Review: Anker’s new MagSafe battery bank truly delivers in its ultra-slim package - 9to5Mac",
+      "source": {
+        "name": "9to5Mac"
+      },
+      "description": "Earlier this summer, Anker announced a trio of new products – one of them being an incredibly thin M...",
+      "url": "https://9to5mac.com/2025/09/08/review-ankers-new-magsafe-battery-bank-truly-delivers-in-its-ultra-slim-package/",
+      "publishedAt": "2025-09-08T18:57:00Z",
+      "processed_at": "2025-09-09T21:17:07.687027+00:00"
+    },
+    {
+      "title": "Apple's Upcoming 'Awe Dropping' Event With iPhone 17 Air Draws Criticism As Commentator Daniel Newman Slams 'Lack Of Innovation' - Yahoo Finance",
+      "source": {
+        "name": "Yahoo Entertainment"
+      },
+      "description": "As Apple Inc. (NASDAQ:AAPL) gears up for its highly anticipated iPhone 17 launch, industry analyst D...",
+      "url": "https://finance.yahoo.com/news/apples-upcoming-awe-dropping-event-183059932.html",
+      "publishedAt": "2025-09-08T18:30:59Z",
+      "processed_at": "2025-09-09T21:17:07.687027+00:00"
+    },
+    {
       "title": "Nova Launcher’s founder and sole developer has left - The Verge",
       "source": {
         "name": "The Verge"
@@ -10,7 +50,7 @@
       "description": "Kevin Barry, the founder and only developer of the Nova Launcher for Android, has left after being t...",
       "url": "https://www.theverge.com/news/773937/nova-launcher-founder-left-kevin-barry-branch-open-source-android",
       "publishedAt": "2025-09-08T17:45:53Z",
-      "processed_at": "2025-09-09T20:21:14.581524+00:00"
+      "processed_at": "2025-09-09T21:17:07.687027+00:00"
     },
     {
       "title": "Best Buy's Big PS5/Xbox Video Game Clearance Sale Is Live Now - Kotaku",
@@ -20,7 +60,7 @@
       "description": "Physical copies of Tiny Tina's Wonderlands, Deatloop, Midnight Suns, Diablo IV, Neon White, and more...",
       "url": "https://kotaku.com/best-buys-video-game-clearance-sale-includes-some-good-deals-on-big-games-2000624096",
       "publishedAt": "2025-09-08T17:41:18Z",
-      "processed_at": "2025-09-09T20:21:14.581524+00:00"
+      "processed_at": "2025-09-09T21:17:07.687027+00:00"
     },
     {
       "title": "The best stuff announced at IFA - The Verge",
@@ -30,17 +70,27 @@
       "description": "A ball-catching robot tennis coach, cuddly AI robots, and a laptop with a rotating screen for optima...",
       "url": "https://www.theverge.com/news/769573/ifa-2025-smart-home-lights-power-bank-robot-vacuum-ai-headphones",
       "publishedAt": "2025-09-08T17:14:01Z",
-      "processed_at": "2025-09-09T20:21:14.581524+00:00"
+      "processed_at": "2025-09-09T21:17:07.687027+00:00"
     },
     {
-      "title": "iPhone 17, the 'thinnest iPhone ever,' and everything else we're expecting out of Apple's hardware event - TechCrunch",
+      "title": "LEGO SEGA Genesis Controller Is Now Available – But Only as a Gift With Purchase - IGN",
       "source": {
-        "name": "TechCrunch"
+        "name": "IGN"
       },
-      "description": "From a new slim iPhone Air model to redesigned AirPods, here's what to expect from this year's Apple...",
-      "url": "https://techcrunch.com/2025/09/08/iphone-17-the-thinnest-iphone-ever-and-everything-else-were-expecting-out-of-apples-hardware-event/",
-      "publishedAt": "2025-09-08T17:00:47Z",
-      "processed_at": "2025-09-09T20:21:14.581524+00:00"
+      "description": "This new retro gaming LEGO set can only be gotten by spending $130 or more at LEGO Store, for a limi...",
+      "url": "https://www.ign.com/articles/lego-sega-genesis-controller-where-to-buy",
+      "publishedAt": "2025-09-08T17:00:44Z",
+      "processed_at": "2025-09-09T21:17:07.687027+00:00"
+    },
+    {
+      "title": "Oblivion Remastered Descends To ‘Mixed’ Review Status On Steam - Kotaku",
+      "source": {
+        "name": "Kotaku"
+      },
+      "description": "Fans are frustrated over persistent bugs, seemingly made worse by a recent update...",
+      "url": "https://kotaku.com/oblivion-remastered-steam-mixed-review-ue5-stuttering-2000624074",
+      "publishedAt": "2025-09-08T16:25:23Z",
+      "processed_at": "2025-09-09T21:17:07.687027+00:00"
     },
     {
       "title": "All 54 lost clickwheel iPod games have now been preserved for posterity - Ars Technica",
@@ -50,60 +100,10 @@
       "description": "Finding working copies of the last few titles was an “especially cursed” journey....",
       "url": "https://arstechnica.com/gaming/2025/09/all-54-lost-clickwheel-ipod-games-have-now-been-preserved-for-posterity/",
       "publishedAt": "2025-09-08T16:24:59Z",
-      "processed_at": "2025-09-09T20:21:14.581524+00:00"
-    },
-    {
-      "title": "The Downside Of Game Pass, According To A Former Xbox Boss - GameSpot",
-      "source": {
-        "name": "GameSpot"
-      },
-      "description": "Game Pass \"comes at the expense of retail revenue.\"...",
-      "url": "https://www.gamespot.com/articles/the-downside-of-game-pass-according-to-a-former-xbox-boss/1100-6534539/",
-      "publishedAt": "2025-09-08T15:43:40Z",
-      "processed_at": "2025-09-09T20:21:14.581524+00:00"
-    },
-    {
-      "title": "PS6 Will Go Modular With Optional Disc Drive - Report - GameSpot",
-      "source": {
-        "name": "GameSpot"
-      },
-      "description": "As a way to keep costs down, Sony may consider making a detachable disc drive standard for its next ...",
-      "url": "https://www.gamespot.com/articles/ps6-will-go-modular-with-optional-disc-drive-report/1100-6534538/",
-      "publishedAt": "2025-09-08T15:17:00Z",
-      "processed_at": "2025-09-09T20:21:14.581524+00:00"
-    },
-    {
-      "title": "Hollow Knight Silksong map – area order and where to buy maps - PCGamesN",
-      "source": {
-        "name": "PCGamesN"
-      },
-      "description": "Take a good look at the Hollow Knight Silksong map to discover the optimal area order, helping you f...",
-      "url": "https://www.pcgamesn.com/hollow-knight-silksong/map",
-      "publishedAt": "2025-09-08T15:00:50Z",
-      "processed_at": "2025-09-09T20:21:14.581524+00:00"
-    },
-    {
-      "title": "This Is the New 911 Turbo S—Porsche's Most Powerful 911 Ever - Motor1.com",
-      "source": {
-        "name": "Motor1 "
-      },
-      "description": "Porsche took the Carrera GTS’s hybrid system and added another electric turbocharger for more power ...",
-      "url": "https://www.motor1.com/news/771380/2026-porsche-911-turbo-s/",
-      "publishedAt": "2025-09-08T14:54:29Z",
-      "processed_at": "2025-09-09T20:21:14.581524+00:00"
-    },
-    {
-      "title": "Hollow Knight: Silksong Has The Most Evil Fakeout: A Fake Bench - Kotaku",
-      "source": {
-        "name": "Kotaku"
-      },
-      "description": "A hidden trap in one of the game's hardest levels is claiming victims left and right...",
-      "url": "https://kotaku.com/hollow-knight-silksong-fake-bench-trap-hunters-march-2000624049",
-      "publishedAt": "2025-09-08T14:53:27Z",
-      "processed_at": "2025-09-09T20:21:14.581524+00:00"
+      "processed_at": "2025-09-09T21:17:07.687027+00:00"
     }
   ],
-  "lastUpdated": "2025-09-09T20:21:14.581591+00:00",
+  "lastUpdated": "2025-09-09T21:17:07.687106+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
