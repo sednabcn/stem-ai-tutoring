@@ -1,7 +1,17 @@
 {
   "status": "success",
-  "totalResults": 8,
+  "totalResults": 9,
   "articles": [
+    {
+      "title": "The 7 coolest gadgets I saw at IFA Berlin 2025 (including picks you can actually buy) - ZDNET",
+      "source": {
+        "name": "ZDNet"
+      },
+      "description": "IFA is packed with cutting-edge tech, but these standout innovations impressed me the most - and sur...",
+      "url": "https://www.zdnet.com/article/the-7-coolest-gadgets-i-saw-at-ifa-berlin-2025-including-picks-you-can-actually-buy/",
+      "publishedAt": "2025-09-08T08:00:00Z",
+      "processed_at": "2025-09-09T09:21:59.946813+00:00"
+    },
     {
       "title": "Josh Berry suffers hard Gateway wreck, out after contact with Elliott - NASCAR.com",
       "source": {
@@ -10,7 +20,17 @@
       "description": "Josh Berry receives contact from Chase Elliott, sending the No. 21 Ford around and into the wall, cu...",
       "url": "https://www.nascar.com/videos/franchise/nascar-cup-series-highlights/josh-berry-suffers-hard-gateway-wreck-out-after-contact-with-elliott/",
       "publishedAt": "2025-09-07T20:01:57Z",
-      "processed_at": "2025-09-09T08:27:51.725344+00:00"
+      "processed_at": "2025-09-09T09:21:59.946813+00:00"
+    },
+    {
+      "title": "Google finally details Gemini usage limits - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "Google finally lets people know how many free Gemini Pro prompts they get a day....",
+      "url": "https://www.theverge.com/news/773496/google-gemini-usage-limits",
+      "publishedAt": "2025-09-07T19:51:23Z",
+      "processed_at": "2025-09-09T09:21:59.946813+00:00"
     },
     {
       "title": "Marathon NDA Playtest 3 Leak Reveals New Details: New Runner and Abilities, \"Multiple\" Marathon Ship Maps, UI Overhaul, and More - The Game Post",
@@ -20,7 +40,7 @@
       "description": "Bungie’s latest closed playtest for Marathon has reportedly leaked online, revealing a new Runner an...",
       "url": "https://thegamepost.com/marathon-nda-playtest-3-leak-reveals-new-details/",
       "publishedAt": "2025-09-07T18:16:03Z",
-      "processed_at": "2025-09-09T08:27:51.725344+00:00"
+      "processed_at": "2025-09-09T09:21:59.946813+00:00"
     },
     {
       "title": "PS Store Users Fall for Big New Scam, Warn Others - PlayStation LifeStyle",
@@ -30,7 +50,7 @@
       "description": "Just when we thought Sony was finally improving the PS Store, another major scam has hit the storefr...",
       "url": "https://www.playstationlifestyle.net/2025/09/07/ps-store-scam-new-schedule-1-ps5-game-august-2025/",
       "publishedAt": "2025-09-07T18:04:36Z",
-      "processed_at": "2025-09-09T08:27:51.725344+00:00"
+      "processed_at": "2025-09-09T09:21:59.946813+00:00"
     },
     {
       "title": "Kuo: AirPods Pro 3 Coming Soon, But Bigger Upgrade Arriving Next Year - MacRumors",
@@ -40,7 +60,7 @@
       "description": "Apple plans to release AirPods Pro 3 this year, according to supply chain analyst Ming-Chi Kuo.   Al...",
       "url": "https://www.macrumors.com/2025/09/07/airpods-pro-3-this-year-per-kuo/",
       "publishedAt": "2025-09-07T17:52:24Z",
-      "processed_at": "2025-09-09T08:27:51.725344+00:00"
+      "processed_at": "2025-09-09T09:21:59.946813+00:00"
     },
     {
       "title": "Deals: Samsung Galaxy S25 FE and Tab S11 are here, we also look at alternatives - GSMArena.com news - GSMArena.com",
@@ -50,7 +70,17 @@
       "description": "The S25 FE skipped pre-orders and launched immediately - but that doesn't mean there are no early bi...",
       "url": "https://www.gsmarena.com/deals_samsung_galaxy_s25_fe_and_tab_s11_are_here_we_also_look_at_alternatives-news-69366.php",
       "publishedAt": "2025-09-07T17:52:02Z",
-      "processed_at": "2025-09-09T08:27:51.725344+00:00"
+      "processed_at": "2025-09-09T09:21:59.946813+00:00"
+    },
+    {
+      "title": "AMD’s Ryzen naming issues and Radeon NOW plans addressed at IFA 2025 - VideoCardz.com",
+      "source": {
+        "name": "Videocardz.com"
+      },
+      "description": "AMD is not planning a competitor to GeForce NOW, company addresses old mobile chip rebranding AMD ru...",
+      "url": "https://videocardz.com/newz/amds-ryzen-naming-issues-and-radeon-now-plans-addressed-at-ifa-2025",
+      "publishedAt": "2025-09-07T17:15:00Z",
+      "processed_at": "2025-09-09T09:21:59.946813+00:00"
     },
     {
       "title": "Starfield marks two year anniversary with a secret message - Eurogamer",
@@ -60,30 +90,10 @@
       "description": "Bethesda has hidden a secret message in a social media post ostensibly marking Starfield's second an...",
       "url": "https://www.eurogamer.net/starfield-marks-two-year-anniversary-with-a-secret-message",
       "publishedAt": "2025-09-07T16:55:54Z",
-      "processed_at": "2025-09-09T08:27:51.725344+00:00"
-    },
-    {
-      "title": "Kingdom Hearts 4, Final Fantasy 7 Remake Part 3 are making \"great progress\", confirms director - Eurogamer",
-      "source": {
-        "name": "Eurogamer.net"
-      },
-      "description": "Square Enix director Tetsuya Nomura still doesn't have any specific Kingdom Hearts 4 news for us jus...",
-      "url": "https://www.eurogamer.net/kingdom-hearts-4-final-fantasy-7-remake-part-3-are-making-great-progress-confirms-director",
-      "publishedAt": "2025-09-07T16:25:59Z",
-      "processed_at": "2025-09-09T08:27:51.725344+00:00"
-    },
-    {
-      "title": "NVIDIA RTX 5090 and RTX PRO 6000 reportedly hit by virtualization reset issue, $1,000 bounty offered - VideoCardz.com",
-      "source": {
-        "name": "Videocardz.com"
-      },
-      "description": "CloudRift offers $1,000 bounty to fix RTX 5090 and RTX PRO 6000 reset bug CloudRift, a GPU compute c...",
-      "url": "https://videocardz.com/newz/nvidia-rtx-5090-and-rtx-pro-6000-reportedly-hit-by-virtualization-reset-issue-1000-bounty-offered",
-      "publishedAt": "2025-09-07T16:11:00Z",
-      "processed_at": "2025-09-09T08:27:51.725344+00:00"
+      "processed_at": "2025-09-09T09:21:59.946813+00:00"
     }
   ],
-  "lastUpdated": "2025-09-09T08:27:51.725404+00:00",
+  "lastUpdated": "2025-09-09T09:21:59.946880+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
