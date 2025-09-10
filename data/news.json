@@ -1,7 +1,37 @@
 {
   "status": "success",
-  "totalResults": 8,
+  "totalResults": 9,
   "articles": [
+    {
+      "title": "Apple’s new iPhone Air accessories include a slim MagSafe battery, TechWoven case, and crossbody strap - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "Apple announced a new line of accessories for the iPhone Air at its launch event. It also announced ...",
+      "url": "https://www.theverge.com/news/773226/apple-iphone-air-accessories-magsafe-awe-dropping-event",
+      "publishedAt": "2025-09-09T18:03:07Z",
+      "processed_at": "2025-09-10T19:15:34.426069+00:00"
+    },
+    {
+      "title": "Apple unveils Apple Watch Series 11, Watch Ultra 3, and Watch SE 3 - TechCrunch",
+      "source": {
+        "name": "TechCrunch"
+      },
+      "description": "The Apple Watch Series 11 can alert you to possible hypertension....",
+      "url": "https://techcrunch.com/2025/09/09/apple-unveils-apple-watch-series-11-watch-ultra-3-and-watch-se-3/",
+      "publishedAt": "2025-09-09T17:40:20Z",
+      "processed_at": "2025-09-10T19:15:34.426069+00:00"
+    },
+    {
+      "title": "Apple introduces AirPods Pro 3 with live translation feature - Ars Technica",
+      "source": {
+        "name": "Ars Technica"
+      },
+      "description": "Plus upgrades to active noise cancellation and battery life....",
+      "url": "https://arstechnica.com/gadgets/2025/09/new-airpods-pro-3-turn-apples-earbuds-into-fitness-tracker-universal-translator/",
+      "publishedAt": "2025-09-09T17:36:42Z",
+      "processed_at": "2025-09-10T19:15:34.426069+00:00"
+    },
     {
       "title": "Apple announces iOS 26 release date: September 15 - 9to5Mac",
       "source": {
@@ -10,17 +40,7 @@
       "description": "Apple has announced the official release date for iOS 26, its next major software update for all use...",
       "url": "https://9to5mac.com/2025/09/09/apple-announces-ios-26-release-date-september-15/",
       "publishedAt": "2025-09-09T17:34:00Z",
-      "processed_at": "2025-09-10T18:28:38.023470+00:00"
-    },
-    {
-      "title": "The Apple Watch Ultra 3 has 42 hours of battery life and satellite connectivity - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "Apple announced a new update to its Apple Watch Ultra lineup at its “Awe dropping” iPhone 17 launch ...",
-      "url": "https://www.theverge.com/news/770763/apple-watch-ultra-3-awe-dropping-event",
-      "publishedAt": "2025-09-09T17:26:35Z",
-      "processed_at": "2025-09-10T18:28:38.023470+00:00"
+      "processed_at": "2025-09-10T19:15:34.426069+00:00"
     },
     {
       "title": "Apple Intelligence: Everything you need to know about Apple’s AI model and services - TechCrunch",
@@ -30,17 +50,7 @@
       "description": "Apple Intelligence was designed to leverage things that generative AI already does well, like text a...",
       "url": "https://techcrunch.com/2025/09/09/apple-intelligence-everything-you-need-to-know-about-apples-ai-model-and-services/",
       "publishedAt": "2025-09-09T14:51:52Z",
-      "processed_at": "2025-09-10T18:28:38.023470+00:00"
-    },
-    {
-      "title": "Hollow Knight: Silksong Has A \"Cheat Code\" That You'll Probably Want To Avoid Using - GameSpot",
-      "source": {
-        "name": "GameSpot"
-      },
-      "description": "That is, unless you want to enter a world of pain....",
-      "url": "https://www.gamespot.com/articles/hollow-knight-silksong-has-a-cheat-code-that-youll-probably-want-to-avoid-using/1100-6534579/",
-      "publishedAt": "2025-09-09T14:45:09Z",
-      "processed_at": "2025-09-10T18:28:38.023470+00:00"
+      "processed_at": "2025-09-10T19:15:34.426069+00:00"
     },
     {
       "title": "Anker’s Prime USB-C Charging Station Drops Below Black Friday Pricing, Ready for Apple’s New Device Launch - Kotaku",
@@ -50,40 +60,40 @@
       "description": "Save 35% for a limited time on the Anker Prime Charger with an LCD clock display over at Amazon....",
       "url": "https://kotaku.com/ankers-prime-usb-c-charging-station-drops-below-black-friday-pricing-ready-for-apples-new-device-launch-2000624104",
       "publishedAt": "2025-09-09T14:40:58Z",
-      "processed_at": "2025-09-10T18:28:38.023470+00:00"
+      "processed_at": "2025-09-10T19:15:34.426069+00:00"
     },
     {
-      "title": "GTA 6 Fan Unearths What May Be In-Game Websites, Sparking Speculation About What They Mean - IGN",
+      "title": "New Hollow Knight Silksong update will make the game easier after player outcry - PCGamesN",
       "source": {
-        "name": "IGN"
+        "name": "PCGamesN"
       },
-      "description": "An eagle-eyed Grand Theft Auto 6 fan thinks they've spotted a number of clues about the hugely antic...",
-      "url": "https://www.ign.com/articles/gta-6-fan-unearths-what-may-be-in-game-websites-sparking-speculation-about-what-they-mean",
-      "publishedAt": "2025-09-09T14:33:59Z",
-      "processed_at": "2025-09-10T18:28:38.023470+00:00"
+      "description": "The first Hollow Knight Silksong patch will adjust the game's difficulty and nerf some of the Metroi...",
+      "url": "https://www.pcgamesn.com/hollow-knight-silksong/first-update",
+      "publishedAt": "2025-09-09T12:07:27Z",
+      "processed_at": "2025-09-10T19:15:34.426069+00:00"
     },
     {
-      "title": "Switch modder owes Nintendo $2 million after representing himself in court - Ars Technica",
+      "title": "Microsoft's new light-based computer inspired by 80-year-old technology — it could make AI 100 times more efficient - Live Science",
       "source": {
-        "name": "Ars Technica"
+        "name": "Live Science"
       },
-      "description": "Daly’s defense asserted, in part, that Nintendo’s “alleged copyrights are invalid.”…...",
-      "url": "https://arstechnica.com/gaming/2025/09/switch-modder-who-acted-as-his-own-lawyer-now-owes-nintendo-2-million/",
-      "publishedAt": "2025-09-09T14:29:04Z",
-      "processed_at": "2025-09-10T18:28:38.023470+00:00"
+      "description": "Microsoft's latest computing system uses micro-LEDs and camera sensors to perform calculations....",
+      "url": "https://www.livescience.com/technology/computing/microsofts-new-light-based-computer-inspired-by-80-year-old-technology-it-could-make-ai-100-times-more-efficient",
+      "publishedAt": "2025-09-09T11:30:00Z",
+      "processed_at": "2025-09-10T19:15:34.426069+00:00"
     },
     {
-      "title": "Canon is bringing back a point-and-shoot from 2016 with fewer features and a higher price (it’s viral) - The Verge",
+      "title": "Watch Porsche's New Hybrid 911 Turbo S Rip Around the 'Ring in Just Under 7 Minutes - Road & Track",
       "source": {
-        "name": "The Verge"
+        "name": "RoadandTrack.com"
       },
-      "description": "Canon’s PowerShot Elph 360 HS A point-and-shoot isn’t really new. It’s much the same as the 2016 ori...",
-      "url": "https://www.theverge.com/news/774095/canon-powershot-elph-360-hsa-kendall-jenner-reissue-price-specs",
-      "publishedAt": "2025-09-09T13:00:00Z",
-      "processed_at": "2025-09-10T18:28:38.023470+00:00"
+      "description": "The 992.2-generation Porsche 911 Turbo S has run a lap of the Nurburgring Nordschleife in 7 minutes,...",
+      "url": "https://www.roadandtrack.com/news/a66013149/watch-2026-porsche-911-turbo-s-nurburgring-nordschleife-lap/",
+      "publishedAt": "2025-09-08T15:24:00Z",
+      "processed_at": "2025-09-10T19:15:34.426069+00:00"
     }
   ],
-  "lastUpdated": "2025-09-10T18:28:38.023542+00:00",
+  "lastUpdated": "2025-09-10T19:15:34.426140+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
