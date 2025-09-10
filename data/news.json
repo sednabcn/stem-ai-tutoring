@@ -1,16 +1,76 @@
 {
   "status": "success",
-  "totalResults": 9,
+  "totalResults": 8,
   "articles": [
     {
-      "title": "Leak says AirPods Pro 3 will be available to purchase starting today - 9to5Mac",
+      "title": "Apple announces iOS 26 release date: September 15 - 9to5Mac",
       "source": {
         "name": "9to5Mac"
       },
-      "description": "AirPods Pro 3 may be available for purchase immediately after the Apple event today, per a new leak ...",
-      "url": "https://9to5mac.com/2025/09/09/leak-says-airpods-pro-3-will-be-available-to-purchase-starting-today/",
-      "publishedAt": "2025-09-09T13:54:00Z",
-      "processed_at": "2025-09-10T16:25:04.202007+00:00"
+      "description": "Apple has announced the official release date for iOS 26, its next major software update for all use...",
+      "url": "https://9to5mac.com/2025/09/09/apple-announces-ios-26-release-date-september-15/",
+      "publishedAt": "2025-09-09T17:34:00Z",
+      "processed_at": "2025-09-10T17:16:29.504027+00:00"
+    },
+    {
+      "title": "The Apple Watch Ultra 3 has 42 hours of battery life and satellite connectivity - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "Apple announced a new update to its Apple Watch Ultra lineup at its “Awe dropping” iPhone 17 launch ...",
+      "url": "https://www.theverge.com/news/770763/apple-watch-ultra-3-awe-dropping-event",
+      "publishedAt": "2025-09-09T17:26:35Z",
+      "processed_at": "2025-09-10T17:16:29.504027+00:00"
+    },
+    {
+      "title": "Apple Intelligence: Everything you need to know about Apple’s AI model and services - TechCrunch",
+      "source": {
+        "name": "TechCrunch"
+      },
+      "description": "Apple Intelligence was designed to leverage things that generative AI already does well, like text a...",
+      "url": "https://techcrunch.com/2025/09/09/apple-intelligence-everything-you-need-to-know-about-apples-ai-model-and-services/",
+      "publishedAt": "2025-09-09T14:51:52Z",
+      "processed_at": "2025-09-10T17:16:29.504027+00:00"
+    },
+    {
+      "title": "Hollow Knight: Silksong Has A \"Cheat Code\" That You'll Probably Want To Avoid Using - GameSpot",
+      "source": {
+        "name": "GameSpot"
+      },
+      "description": "That is, unless you want to enter a world of pain....",
+      "url": "https://www.gamespot.com/articles/hollow-knight-silksong-has-a-cheat-code-that-youll-probably-want-to-avoid-using/1100-6534579/",
+      "publishedAt": "2025-09-09T14:45:09Z",
+      "processed_at": "2025-09-10T17:16:29.504027+00:00"
+    },
+    {
+      "title": "Anker’s Prime USB-C Charging Station Drops Below Black Friday Pricing, Ready for Apple’s New Device Launch - Kotaku",
+      "source": {
+        "name": "Kotaku"
+      },
+      "description": "Save 35% for a limited time on the Anker Prime Charger with an LCD clock display over at Amazon....",
+      "url": "https://kotaku.com/ankers-prime-usb-c-charging-station-drops-below-black-friday-pricing-ready-for-apples-new-device-launch-2000624104",
+      "publishedAt": "2025-09-09T14:40:58Z",
+      "processed_at": "2025-09-10T17:16:29.504027+00:00"
+    },
+    {
+      "title": "GTA 6 Fan Unearths What May Be In-Game Websites, Sparking Speculation About What They Mean - IGN",
+      "source": {
+        "name": "IGN"
+      },
+      "description": "An eagle-eyed Grand Theft Auto 6 fan thinks they've spotted a number of clues about the hugely antic...",
+      "url": "https://www.ign.com/articles/gta-6-fan-unearths-what-may-be-in-game-websites-sparking-speculation-about-what-they-mean",
+      "publishedAt": "2025-09-09T14:33:59Z",
+      "processed_at": "2025-09-10T17:16:29.504027+00:00"
+    },
+    {
+      "title": "Switch modder owes Nintendo $2 million after representing himself in court - Ars Technica",
+      "source": {
+        "name": "Ars Technica"
+      },
+      "description": "Daly’s defense asserted, in part, that Nintendo’s “alleged copyrights are invalid.”…...",
+      "url": "https://arstechnica.com/gaming/2025/09/switch-modder-who-acted-as-his-own-lawyer-now-owes-nintendo-2-million/",
+      "publishedAt": "2025-09-09T14:29:04Z",
+      "processed_at": "2025-09-10T17:16:29.504027+00:00"
     },
     {
       "title": "Canon is bringing back a point-and-shoot from 2016 with fewer features and a higher price (it’s viral) - The Verge",
@@ -20,80 +80,10 @@
       "description": "Canon’s PowerShot Elph 360 HS A point-and-shoot isn’t really new. It’s much the same as the 2016 ori...",
       "url": "https://www.theverge.com/news/774095/canon-powershot-elph-360-hsa-kendall-jenner-reissue-price-specs",
       "publishedAt": "2025-09-09T13:00:00Z",
-      "processed_at": "2025-09-10T16:25:04.202007+00:00"
-    },
-    {
-      "title": "Hollow Knight: Silksong update announced, patch notes - Nintendo Everything",
-      "source": {
-        "name": "Nintendoeverything.com"
-      },
-      "description": "Hollow Knight: Silksong update announced, which includes some adjustments - check out the patch note...",
-      "url": "https://nintendoeverything.com/hollow-knight-silksong-update-announced-patch-notes/",
-      "publishedAt": "2025-09-09T11:38:42Z",
-      "processed_at": "2025-09-10T16:25:04.202007+00:00"
-    },
-    {
-      "title": "Study finds neurodiverse workers more satisfied with AI assistants - Ars Technica",
-      "source": {
-        "name": "Ars Technica"
-      },
-      "description": "UK study findings may challenge assumptions about who benefits most from AI tools....",
-      "url": "https://arstechnica.com/information-technology/2025/09/study-finds-neurodiverse-workers-more-satisfied-with-ai-assistants/",
-      "publishedAt": "2025-09-09T11:08:44Z",
-      "processed_at": "2025-09-10T16:25:04.202007+00:00"
-    },
-    {
-      "title": "Apple Watch Ultra 3 Expected to Boast These 3 Display Upgrades - MacRumors",
-      "source": {
-        "name": "MacRumors"
-      },
-      "description": "Apple today will unveil a third-generation Apple Watch Ultra with a bigger screen, according to Bloo...",
-      "url": "https://www.macrumors.com/2025/09/09/apple-watch-ultra-3-expected-display-upgrades/",
-      "publishedAt": "2025-09-09T10:27:16Z",
-      "processed_at": "2025-09-10T16:25:04.202007+00:00"
-    },
-    {
-      "title": "Star Wars Outlaws 'Switch 2 Title Update 1' Now Available, Here Are The Full Patch Notes - Nintendo Life",
-      "source": {
-        "name": "Nintendo Life"
-      },
-      "description": "\"Our first patch has just been deployed\"...",
-      "url": "https://www.nintendolife.com/news/2025/09/star-wars-outlaws-switch-2-title-update-1-now-available-here-are-the-full-patch-notes",
-      "publishedAt": "2025-09-09T10:11:57Z",
-      "processed_at": "2025-09-10T16:25:04.202007+00:00"
-    },
-    {
-      "title": "Genki will pay Nintendo damages over 3D-printed Switch 2 - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "Nintendo has settled the lawsuit it filed against accessory maker Genki over the Switch 2 mockup it ...",
-      "url": "https://www.theverge.com/news/774236/nintendo-switch-2-genki-lawsuit-settlement",
-      "publishedAt": "2025-09-09T09:50:10Z",
-      "processed_at": "2025-09-10T16:25:04.202007+00:00"
-    },
-    {
-      "title": "Daily Crossword: The Heavy Metal Puzzle — September 9 - Vulture",
-      "source": {
-        "name": "Vulture"
-      },
-      "description": "Can you solve the latest Vulture 10x10 daily crossword puzzle clue? 28-Across, Nine Letters: Lucy Lu...",
-      "url": "http://www.vulture.com/article/daily-crossword-puzzle-september-9-2025.html",
-      "publishedAt": "2025-09-09T09:00:54Z",
-      "processed_at": "2025-09-10T16:25:04.202007+00:00"
-    },
-    {
-      "title": "Smart Launcher has a message for grieving Nova Launcher users - Android Authority",
-      "source": {
-        "name": "Android Authority"
-      },
-      "description": "Looking to move to a new launcher after Nova's unexpected demise? Smart Launcher is ready to welcome...",
-      "url": "https://www.androidauthority.com/smart-launcher-nova-launcher-migration-update-3596005/",
-      "publishedAt": "2025-09-09T05:41:40Z",
-      "processed_at": "2025-09-10T16:25:04.202007+00:00"
+      "processed_at": "2025-09-10T17:16:29.504027+00:00"
     }
   ],
-  "lastUpdated": "2025-09-10T16:25:04.202076+00:00",
+  "lastUpdated": "2025-09-10T17:16:29.504097+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
