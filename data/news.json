@@ -1,16 +1,16 @@
 {
   "status": "success",
-  "totalResults": 8,
+  "totalResults": 9,
   "articles": [
     {
       "title": "Is It Actually Worth Preordering Borderlands 4 or Should You Wait? - IGN",
       "source": {
         "name": "IGN"
       },
-      "description": "",
+      "description": "Here's what you need to know....",
       "url": "https://www.ign.com/articles/is-it-actually-worth-preordering-borderlands-4-or-should-you-wait",
       "publishedAt": "2025-09-10T17:03:45Z",
-      "processed_at": "2025-09-11T20:18:16.416673+00:00"
+      "processed_at": "2025-09-11T21:16:51.725289+00:00"
     },
     {
       "title": "Spotify peeved after 10,000 users sold data to build AI tools - Ars Technica",
@@ -20,7 +20,17 @@
       "description": "Spotify sent a warning to stop data sales, but developers say they never got it....",
       "url": "https://arstechnica.com/tech-policy/2025/09/spotify-peeved-after-10000-users-sold-data-to-build-ai-tools/",
       "publishedAt": "2025-09-10T16:23:25Z",
-      "processed_at": "2025-09-11T20:18:16.416673+00:00"
+      "processed_at": "2025-09-11T21:16:51.725289+00:00"
+    },
+    {
+      "title": "Apple reveals AirPods Pro 3 and upgrades its watches - and you can preorder them today - Fox News",
+      "source": {
+        "name": "Fox News"
+      },
+      "description": "Apple’s next generation is here – from the new iPhone 17 and iPhone Air to the AirPods Pro 3 with th...",
+      "url": "https://www.foxnews.com/deals/apple-watch-iphone-17-airpod-preorders-amazon",
+      "publishedAt": "2025-09-10T15:57:55Z",
+      "processed_at": "2025-09-11T21:16:51.725289+00:00"
     },
     {
       "title": "Samsung Galaxy S26 Pro renders leak with familiar design and a bigger display - 9to5Google",
@@ -30,27 +40,17 @@
       "description": "The Galaxy S26 Pro is set to take over Samsung's entry-level spot, but aside from the name and a lar...",
       "url": "http://9to5google.com/2025/09/10/samsung-galaxy-s26-pro-renders-leak-with-familiar-design-and-a-bigger-display/",
       "publishedAt": "2025-09-10T15:20:00Z",
-      "processed_at": "2025-09-11T20:18:16.416673+00:00"
+      "processed_at": "2025-09-11T21:16:51.725289+00:00"
     },
     {
-      "title": "How the new AirPods Pro compare to the rest of Apple’s AirPods lineup - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "Apple announced the AirPods Pro 3 during its “Awe dropping” event on September 9th. Here’s how they ...",
-      "url": "https://www.theverge.com/tech/770868/apple-airpods-pro-3-max-which-to-buy-price-specs",
-      "publishedAt": "2025-09-10T14:11:35Z",
-      "processed_at": "2025-09-11T20:18:16.416673+00:00"
-    },
-    {
-      "title": "The iPhone Air is slimmer than the competition, though has been beaten - 9to5Mac",
+      "title": "iOS 26 will give iPhone 16 owners a new camera capability - 9to5Mac",
       "source": {
         "name": "9to5Mac"
       },
-      "description": "It’s taken Apple 11 years to beat its own record, but the iPhone Air is now the thinnest iPhone ever...",
-      "url": "https://9to5mac.com/2025/09/10/the-iphone-air-is-slimmer-than-the-competition-though-has-been-beaten/",
-      "publishedAt": "2025-09-10T14:11:00Z",
-      "processed_at": "2025-09-11T20:18:16.416673+00:00"
+      "description": "Apple demoed a new ‘Bright’ Photographic Style coming to iPhone 17, but it turns out the iPhone 16 i...",
+      "url": "https://9to5mac.com/2025/09/10/ios-26-will-give-iphone-16-owners-a-new-camera-capability/",
+      "publishedAt": "2025-09-10T14:33:00Z",
+      "processed_at": "2025-09-11T21:16:51.725289+00:00"
     },
     {
       "title": "Spotify is finally launching support for lossless music streaming - TechCrunch",
@@ -60,7 +60,7 @@
       "description": "Spotify is finally launching lossless music streaming support after consumers demanded it for years....",
       "url": "https://techcrunch.com/2025/09/10/spotify-is-finally-launching-support-for-lossless-music-streaming/",
       "publishedAt": "2025-09-10T11:00:00Z",
-      "processed_at": "2025-09-11T20:18:16.416673+00:00"
+      "processed_at": "2025-09-11T21:16:51.725289+00:00"
     },
     {
       "title": "Apple Events live updates: iPhone 17, iPhone Air, AirPods Pro 3, and new wearables just unveiled - ZDNET",
@@ -70,20 +70,30 @@
       "description": "ZDNET is reporting on all the news surrounding this week's Apple event, including the iPhone 17 seri...",
       "url": "https://www.zdnet.com/article/apple-events-live-updates-iphone-17-iphone-air-airpods-pro-3-and-new-wearables-just-unveiled/",
       "publishedAt": "2025-09-10T01:37:00Z",
-      "processed_at": "2025-09-11T20:18:16.416673+00:00"
+      "processed_at": "2025-09-11T21:16:51.725289+00:00"
     },
     {
-      "title": "Apple introduces smartwatch feature designed to detect high blood pressure - statnews.com",
+      "title": "It’s not just hardware – Apple also announced tons of accessories at its September event - Mashable",
       "source": {
-        "name": "STAT"
+        "name": "Mashable"
       },
-      "description": "Apple introduced a new feature for its smartwatch that notifies users they may have high blood press...",
-      "url": "https://www.statnews.com/2025/09/09/apple-watch-health-tech-blood-pressure-hypertension/",
-      "publishedAt": "2025-09-09T18:43:43Z",
-      "processed_at": "2025-09-11T20:18:16.416673+00:00"
+      "description": "Lots of accessories at Apple's 'Awe Dropping' event....",
+      "url": "https://mashable.com/article/accessories-iphone-17-apple-event-september-2025",
+      "publishedAt": "2025-09-09T19:56:43Z",
+      "processed_at": "2025-09-11T21:16:51.725289+00:00"
+    },
+    {
+      "title": "Hypertension Alerts Coming to Older Apple Watch Models - MacRumors",
+      "source": {
+        "name": "MacRumors"
+      },
+      "description": "Apple has announced that its new hypertension detection feature, initially exclusive to the Apple Wa...",
+      "url": "https://www.macrumors.com/2025/09/09/hypertension-alerts-older-apple-watch-models/",
+      "publishedAt": "2025-09-09T19:32:52Z",
+      "processed_at": "2025-09-11T21:16:51.725289+00:00"
     }
   ],
-  "lastUpdated": "2025-09-11T20:18:16.416737+00:00",
+  "lastUpdated": "2025-09-11T21:16:51.725354+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
