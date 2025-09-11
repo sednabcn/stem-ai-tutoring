@@ -3,27 +3,27 @@
   "totalResults": 2,
   "articles": [
     {
-      "title": "Apple Debuts AirPods Pro 3 With Pulse Monitoring, Better Fit - Bloomberg.com",
-      "source": {
-        "name": "Bloomberg"
-      },
-      "description": "Apple Inc. introduced its first new AirPods Pro model in three years, adding new health-tracking fea...",
-      "url": "https://www.bloomberg.com/news/articles/2025-09-09/apple-debuts-airpods-pro-3-with-heart-rate-monitor-better-fit",
-      "publishedAt": "2025-09-09T19:28:33Z",
-      "processed_at": "2025-09-10T23:17:29.135725+00:00"
-    },
-    {
-      "title": "Apple announces iOS 26 release date: September 15 - 9to5Mac",
+      "title": "AirPods Pro 3 get foam-infused ear tips in five different sizes - 9to5Mac",
       "source": {
         "name": "9to5Mac"
       },
-      "description": "Apple has announced the official release date for iOS 26, its next major software update for all use...",
-      "url": "https://9to5mac.com/2025/09/09/apple-announces-ios-26-release-date-september-15/",
-      "publishedAt": "2025-09-09T17:34:00Z",
-      "processed_at": "2025-09-10T23:17:29.135725+00:00"
+      "description": "Two AirPods Pro 3 announcements earlier today weren’t about performance improvements or new sensors,...",
+      "url": "https://9to5mac.com/2025/09/09/airpods-pro-3-get-foam-infused-ear-tips-in-five-different-sizes/",
+      "publishedAt": "2025-09-09T23:33:00Z",
+      "processed_at": "2025-09-11T01:28:15.633973+00:00"
+    },
+    {
+      "title": "The New Apple Watches Are Here. You Should Probably Upgrade - WIRED",
+      "source": {
+        "name": "Wired"
+      },
+      "description": "Blood oxygen sensor controversies aside, improved battery life, new hypertension notifications, and ...",
+      "url": "https://www.wired.com/story/apple-watch-series-11-se-ultra-3/",
+      "publishedAt": "2025-09-09T19:05:45Z",
+      "processed_at": "2025-09-11T01:28:15.633973+00:00"
     }
   ],
-  "lastUpdated": "2025-09-10T23:17:29.135751+00:00",
+  "lastUpdated": "2025-09-11T01:28:15.633998+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
