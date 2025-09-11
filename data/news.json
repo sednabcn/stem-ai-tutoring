@@ -1,6 +1,6 @@
 {
   "status": "success",
-  "totalResults": 4,
+  "totalResults": 3,
   "articles": [
     {
       "title": "Apple Events live updates: iPhone 17, iPhone Air, AirPods Pro 3, and new wearables just unveiled - ZDNET",
@@ -10,7 +10,7 @@
       "description": "ZDNET is reporting on all the news surrounding this week's Apple event, including the iPhone 17 seri...",
       "url": "https://www.zdnet.com/article/apple-events-live-updates-iphone-17-iphone-air-airpods-pro-3-and-new-wearables-just-unveiled/",
       "publishedAt": "2025-09-10T01:37:00Z",
-      "processed_at": "2025-09-11T12:39:18.841335+00:00"
+      "processed_at": "2025-09-11T13:24:58.383704+00:00"
     },
     {
       "title": "Apple is giving iPhone 14 and 15 users another free year of satellite features - The Verge",
@@ -20,30 +20,20 @@
       "description": "iPhone 14 and iPhone 15 users are getting an additional year of free access to satellite connectivit...",
       "url": "https://www.theverge.com/news/775309/apple-iphone-14-15-satellite-connectivity-free",
       "publishedAt": "2025-09-09T23:38:46Z",
-      "processed_at": "2025-09-11T12:39:18.841335+00:00"
+      "processed_at": "2025-09-11T13:24:58.383704+00:00"
     },
     {
-      "title": "Apple reveals iPadOS 26 release date - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "Apple has announced the release date for iPadOS 26, which comes with the Liquid Glass design languag...",
-      "url": "https://www.theverge.com/news/773018/apple-ipados-26-release-date-launch",
-      "publishedAt": "2025-09-09T18:17:29Z",
-      "processed_at": "2025-09-11T12:39:18.841335+00:00"
-    },
-    {
-      "title": "Apple Watch SE 3 announced, with S10 chip and always-on display - 9to5Mac",
+      "title": "Apple debuts RC for macOS Tahoe, iPadOS 26, and more - 9to5Mac",
       "source": {
         "name": "9to5Mac"
       },
-      "description": "The Apple Watch SE 3 has been announced alongside the Series 11 and Ultra 3. The SE was long due......",
-      "url": "https://9to5mac.com/2025/09/09/apple-watch-se-3-announced-with-s10-chip-and-always-on-display/",
-      "publishedAt": "2025-09-09T17:30:00Z",
-      "processed_at": "2025-09-11T12:39:18.841335+00:00"
+      "description": "Apple has just made RC builds available for macOS Tahoe, iPadOS 26, and its other forthcoming softwa...",
+      "url": "https://9to5mac.com/2025/09/09/apple-debuts-rc-for-macos-tahoe-ipados-26-and-more/",
+      "publishedAt": "2025-09-09T18:36:00Z",
+      "processed_at": "2025-09-11T13:24:58.383704+00:00"
     }
   ],
-  "lastUpdated": "2025-09-11T12:39:18.841372+00:00",
+  "lastUpdated": "2025-09-11T13:24:58.383739+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
