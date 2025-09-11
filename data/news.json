@@ -1,16 +1,46 @@
 {
   "status": "success",
-  "totalResults": 3,
+  "totalResults": 6,
   "articles": [
     {
-      "title": "Apple Events live updates: iPhone 17, iPhone Air, AirPods Pro 3, and new wearables just unveiled - ZDNET",
+      "title": "Apple just added two surprise iOS 26 features that I absolutely love - 9to5Mac",
       "source": {
-        "name": "ZDNet"
+        "name": "9to5Mac"
       },
-      "description": "ZDNET is reporting on all the news surrounding this week's Apple event, including the iPhone 17 seri...",
-      "url": "https://www.zdnet.com/article/apple-events-live-updates-iphone-17-iphone-air-airpods-pro-3-and-new-wearables-just-unveiled/",
-      "publishedAt": "2025-09-10T01:37:00Z",
-      "processed_at": "2025-09-11T14:19:19.622289+00:00"
+      "description": "Apple just gave iOS 26 two additions that should prove a hit with users: app icons can now auto-tint...",
+      "url": "https://9to5mac.com/2025/09/10/apple-just-added-two-surprise-ios-26-features-that-i-absolutely-love/",
+      "publishedAt": "2025-09-10T13:56:00Z",
+      "processed_at": "2025-09-11T15:17:59.393748+00:00"
+    },
+    {
+      "title": "AirPods Pro 3 have less overall battery life than AirPods Pro 2 - 9to5Mac",
+      "source": {
+        "name": "9to5Mac"
+      },
+      "description": "The new AirPods Pro 3 have better battery life than AirPods Pro 2 on a single charge, with the buds....",
+      "url": "https://9to5mac.com/2025/09/10/airpods-pro-3-have-less-overall-battery-life-than-airpods-pro-2/",
+      "publishedAt": "2025-09-10T11:44:00Z",
+      "processed_at": "2025-09-11T15:17:59.393748+00:00"
+    },
+    {
+      "title": "Spotify is finally launching support for lossless music streaming - TechCrunch",
+      "source": {
+        "name": "TechCrunch"
+      },
+      "description": "Spotify is finally launching lossless music streaming support after consumers demanded it for years....",
+      "url": "https://techcrunch.com/2025/09/10/spotify-is-finally-launching-support-for-lossless-music-streaming/",
+      "publishedAt": "2025-09-10T11:00:00Z",
+      "processed_at": "2025-09-11T15:17:59.393748+00:00"
+    },
+    {
+      "title": "OnePlus teases 'ultra-high' refresh rate display for upcoming OnePlus 15 - Notebookcheck",
+      "source": {
+        "name": "Notebookcheck.net"
+      },
+      "description": "Shortly after Apple introduced the iPhone 17 series, Li Jie Louis, OnePlus's president, officially t...",
+      "url": "https://www.notebookcheck.net/OnePlus-teases-ultra-high-refresh-rate-display-for-upcoming-OnePlus-15.1110719.0.html",
+      "publishedAt": "2025-09-10T10:25:00Z",
+      "processed_at": "2025-09-11T15:17:59.393748+00:00"
     },
     {
       "title": "Apple is giving iPhone 14 and 15 users another free year of satellite features - The Verge",
@@ -20,20 +50,20 @@
       "description": "iPhone 14 and iPhone 15 users are getting an additional year of free access to satellite connectivit...",
       "url": "https://www.theverge.com/news/775309/apple-iphone-14-15-satellite-connectivity-free",
       "publishedAt": "2025-09-09T23:38:46Z",
-      "processed_at": "2025-09-11T14:19:19.622289+00:00"
+      "processed_at": "2025-09-11T15:17:59.393748+00:00"
     },
     {
-      "title": "Apple debuts RC for macOS Tahoe, iPadOS 26, and more - 9to5Mac",
+      "title": "Apple Announces Apple Watch Series 11 with 24-Hour Battery Life - IGN",
       "source": {
-        "name": "9to5Mac"
+        "name": "IGN"
       },
-      "description": "Apple has just made RC builds available for macOS Tahoe, iPadOS 26, and its other forthcoming softwa...",
-      "url": "https://9to5mac.com/2025/09/09/apple-debuts-rc-for-macos-tahoe-ipados-26-and-more/",
-      "publishedAt": "2025-09-09T18:36:00Z",
-      "processed_at": "2025-09-11T14:19:19.622289+00:00"
+      "description": "",
+      "url": "https://www.ign.com/articles/apple-announces-apple-watch-series-11-with-24-hour-battery-life",
+      "publishedAt": "2025-09-09T20:15:00Z",
+      "processed_at": "2025-09-11T15:17:59.393748+00:00"
     }
   ],
-  "lastUpdated": "2025-09-11T14:19:19.622322+00:00",
+  "lastUpdated": "2025-09-11T15:17:59.393795+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
