@@ -1,7 +1,37 @@
 {
   "status": "success",
-  "totalResults": 5,
+  "totalResults": 8,
   "articles": [
+    {
+      "title": "AirPods Pro 3 don’t include a USB-C charging cable in the box - 9to5Mac",
+      "source": {
+        "name": "9to5Mac"
+      },
+      "description": "If you’re buying the new AirPods Pro 3, make sure you have a USB-C cable or a wireless charger handy...",
+      "url": "https://9to5mac.com/2025/09/10/airpods-pro-3-dont-include-a-usb-c-charging-cable-in-the-box/",
+      "publishedAt": "2025-09-10T21:04:00Z",
+      "processed_at": "2025-09-12T11:15:54.117750+00:00"
+    },
+    {
+      "title": "How to turn off autoplay on your social media feeds - TechCrunch",
+      "source": {
+        "name": "TechCrunch"
+      },
+      "description": "Here's how you can turn off autoplaying videos and GIFs on Facebook, Instagram, X, Twitter, and Thre...",
+      "url": "https://techcrunch.com/2025/09/10/how-to-turn-off-autoplay-on-your-social-media-feeds/",
+      "publishedAt": "2025-09-10T21:02:52Z",
+      "processed_at": "2025-09-12T11:15:54.117750+00:00"
+    },
+    {
+      "title": "Tim Cook and Apple’s Design Team Explain the ‘Shockingly Thin’ iPhone Air - The Wall Street Journal",
+      "source": {
+        "name": "The Wall Street Journal"
+      },
+      "description": "",
+      "url": "https://www.wsj.com/tech/apple-iphone-air-tim-cook-design-thin-case-b67d5d8b",
+      "publishedAt": "2025-09-10T20:52:00Z",
+      "processed_at": "2025-09-12T11:15:54.117750+00:00"
+    },
     {
       "title": "Apple Watch Ultra 3 vs Series 11, Ultra 2 battery life: Big upgrades - 9to5Mac",
       "source": {
@@ -10,7 +40,7 @@
       "description": "Battery life is one of the most important Apple Watch features: here’s how Apple Watch Ultra 3 batte...",
       "url": "https://9to5mac.com/2025/09/10/apple-watch-ultra-3-vs-series-11-ultra-2-battery-life-big-upgrades/",
       "publishedAt": "2025-09-10T20:39:00Z",
-      "processed_at": "2025-09-12T10:21:12.466305+00:00"
+      "processed_at": "2025-09-12T11:15:54.117750+00:00"
     },
     {
       "title": "Latest Galaxy S26 Pro renders hint at camera changes and lineup shuffle - Android Central",
@@ -20,27 +50,27 @@
       "description": "Renders show a stark resemblance to the Galaxy S25 base model....",
       "url": "https://www.androidcentral.com/phones/samsung-galaxy/samsung-galaxy-s26-pro-design-leaks-hint-at-changes-ahead-for-flagship-lineup",
       "publishedAt": "2025-09-10T19:06:00Z",
-      "processed_at": "2025-09-12T10:21:12.466305+00:00"
+      "processed_at": "2025-09-12T11:15:54.117750+00:00"
     },
     {
-      "title": "New iPhone 17 lineup and iPhone Air now at Verizon: 5G power, incredible trade-in offers and savings that add up - Verizon",
+      "title": "Microsoft’s AI Chief Says Machine Consciousness Is an ‘Illusion’ - WIRED",
       "source": {
-        "name": "Verizon Communications"
+        "name": "Google News"
       },
-      "description": "Get the new iPhone 17 lineup at Verizon with incredible offers, 5G power, and a 3-year price-lock gu...",
-      "url": "https://www.verizon.com/about/news/iphone-17-air-pro-max-verizon-offers",
-      "publishedAt": "2025-09-10T17:50:01Z",
-      "processed_at": "2025-09-12T10:21:12.466305+00:00"
+      "description": "",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRFlkNU9BTlNmTlFxSG96cnZSc2hpblBHa0dUNzUtTjlpcUt4MHN2M2d3VHJHWjJ4b2oydlJVbjBRanY2TDE1MWNQT1NuOEtRTzNXLTFOZjVIeXd5eVFQRG1xYlNNOUpaUVVFbzJGeWRVVkc3VDN0STEyR2JhejUwWGRuaURpQTY1SS1MOEVnR3h4RkZV?oc=5",
+      "publishedAt": "2025-09-10T18:04:00Z",
+      "processed_at": "2025-09-12T11:15:54.117750+00:00"
     },
     {
-      "title": "How the new AirPods Pro compare to the rest of Apple’s AirPods lineup - The Verge",
+      "title": "Is It Actually Worth Preordering Borderlands 4 or Should You Wait? - IGN",
       "source": {
-        "name": "The Verge"
+        "name": "IGN"
       },
-      "description": "Apple announced the AirPods Pro 3 during its “Awe dropping” event on September 9th. Here’s how they ...",
-      "url": "https://www.theverge.com/tech/770868/apple-airpods-pro-3-max-which-to-buy-price-specs",
-      "publishedAt": "2025-09-10T14:11:35Z",
-      "processed_at": "2025-09-12T10:21:12.466305+00:00"
+      "description": "Here's what you need to know....",
+      "url": "https://www.ign.com/articles/is-it-actually-worth-preordering-borderlands-4-or-should-you-wait",
+      "publishedAt": "2025-09-10T17:03:45Z",
+      "processed_at": "2025-09-12T11:15:54.117750+00:00"
     },
     {
       "title": "Apple iPhone Air and iPhone 17 Feature A19 Chips With Spyware-Resistant Memory Safety - The Hacker News",
@@ -50,10 +80,10 @@
       "description": "Apple’s iPhone 17 debuts Memory Integrity Enforcement, blocking buffer overflows and spyware exploit...",
       "url": "https://thehackernews.com/2025/09/apple-iphone-air-and-iphone-17-feature.html",
       "publishedAt": "2025-09-10T10:21:00Z",
-      "processed_at": "2025-09-12T10:21:12.466305+00:00"
+      "processed_at": "2025-09-12T11:15:54.117750+00:00"
     }
   ],
-  "lastUpdated": "2025-09-12T10:21:12.466420+00:00",
+  "lastUpdated": "2025-09-12T11:15:54.117853+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
