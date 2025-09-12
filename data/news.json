@@ -1,7 +1,27 @@
 {
   "status": "success",
-  "totalResults": 4,
+  "totalResults": 5,
   "articles": [
+    {
+      "title": "Apple Watch Ultra 3 vs Series 11, Ultra 2 battery life: Big upgrades - 9to5Mac",
+      "source": {
+        "name": "9to5Mac"
+      },
+      "description": "Battery life is one of the most important Apple Watch features: here’s how Apple Watch Ultra 3 batte...",
+      "url": "https://9to5mac.com/2025/09/10/apple-watch-ultra-3-vs-series-11-ultra-2-battery-life-big-upgrades/",
+      "publishedAt": "2025-09-10T20:39:00Z",
+      "processed_at": "2025-09-12T09:20:10.795692+00:00"
+    },
+    {
+      "title": "Latest Galaxy S26 Pro renders hint at camera changes and lineup shuffle - Android Central",
+      "source": {
+        "name": "Android Central"
+      },
+      "description": "Renders show a stark resemblance to the Galaxy S25 base model....",
+      "url": "https://www.androidcentral.com/phones/samsung-galaxy/samsung-galaxy-s26-pro-design-leaks-hint-at-changes-ahead-for-flagship-lineup",
+      "publishedAt": "2025-09-10T19:06:00Z",
+      "processed_at": "2025-09-12T09:20:10.795692+00:00"
+    },
     {
       "title": "New iPhone 17 lineup and iPhone Air now at Verizon: 5G power, incredible trade-in offers and savings that add up - Verizon",
       "source": {
@@ -10,40 +30,30 @@
       "description": "Get the new iPhone 17 lineup at Verizon with incredible offers, 5G power, and a 3-year price-lock gu...",
       "url": "https://www.verizon.com/about/news/iphone-17-air-pro-max-verizon-offers",
       "publishedAt": "2025-09-10T17:50:01Z",
-      "processed_at": "2025-09-12T08:25:43.169525+00:00"
+      "processed_at": "2025-09-12T09:20:10.795692+00:00"
     },
     {
-      "title": "Let’s compare the specs of the Apple Watch Series 11, Ultra 3, and SE 3 - The Verge",
+      "title": "How the new AirPods Pro compare to the rest of Apple’s AirPods lineup - The Verge",
       "source": {
         "name": "The Verge"
       },
-      "description": "Apple debuted the Watch Series 11, the Ultra 3, and the affordable third-gen SE. We’re breaking down...",
-      "url": "https://www.theverge.com/tech/775584/apple-watch-series-11-ultra-3-se-specs-comparison",
-      "publishedAt": "2025-09-10T15:21:05Z",
-      "processed_at": "2025-09-12T08:25:43.169525+00:00"
+      "description": "Apple announced the AirPods Pro 3 during its “Awe dropping” event on September 9th. Here’s how they ...",
+      "url": "https://www.theverge.com/tech/770868/apple-airpods-pro-3-max-which-to-buy-price-specs",
+      "publishedAt": "2025-09-10T14:11:35Z",
+      "processed_at": "2025-09-12T09:20:10.795692+00:00"
     },
     {
-      "title": "watchOS 26 Adds Four New Apple Watch Faces - MacRumors",
+      "title": "Apple iPhone Air and iPhone 17 Feature A19 Chips With Spyware-Resistant Memory Safety - The Hacker News",
       "source": {
-        "name": "MacRumors"
+        "name": "Internet"
       },
-      "description": "When Apple previewed watchOS 26 in June at WWDC, the company didn't reveal any new watch faces, but ...",
-      "url": "https://www.macrumors.com/2025/09/10/watchos-26-adds-four-new-apple-watch-faces/",
-      "publishedAt": "2025-09-10T15:03:22Z",
-      "processed_at": "2025-09-12T08:25:43.169525+00:00"
-    },
-    {
-      "title": "Spotify Is Finally Launching Lossless Audio For Premium Subscribers - The Hollywood Reporter",
-      "source": {
-        "name": "Hollywood Reporter"
-      },
-      "description": "\"The wait is finally over,\" Spotify's Gustav Gyllenhammar said in a statement Wednesday, over four y...",
-      "url": "http://www.hollywoodreporter.com/music/music-industry-news/spotify-lossless-audio-launch-1236366685/",
-      "publishedAt": "2025-09-10T11:03:45Z",
-      "processed_at": "2025-09-12T08:25:43.169525+00:00"
+      "description": "Apple’s iPhone 17 debuts Memory Integrity Enforcement, blocking buffer overflows and spyware exploit...",
+      "url": "https://thehackernews.com/2025/09/apple-iphone-air-and-iphone-17-feature.html",
+      "publishedAt": "2025-09-10T10:21:00Z",
+      "processed_at": "2025-09-12T09:20:10.795692+00:00"
     }
   ],
-  "lastUpdated": "2025-09-12T08:25:43.169565+00:00",
+  "lastUpdated": "2025-09-12T09:20:10.795807+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
