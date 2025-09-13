@@ -1,6 +1,6 @@
 {
   "status": "success",
-  "totalResults": 7,
+  "totalResults": 9,
   "articles": [
     {
       "title": "All of the iPhone 17 models compared - TechCrunch",
@@ -10,27 +10,57 @@
       "description": "All four of the devices will be available to preorder on Friday and will be available on September 1...",
       "url": "https://techcrunch.com/2025/09/12/all-of-the-iphone-17-models-compared/",
       "publishedAt": "2025-09-12T18:46:51Z",
-      "processed_at": "2025-09-13T22:16:21.593534+00:00"
+      "processed_at": "2025-09-13T23:16:24.879098+00:00"
     },
     {
-      "title": "Ever wanted to play a Pokémon Animal Crossing meets Minecraft? Pokémon Pokopia might be just that game - Eurogamer",
+      "title": "‘Silksong,’ the Long-Awaited Successor to ‘Hollow Knight,’ Was Worth the Wait - Bloomberg.com",
       "source": {
-        "name": "Eurogamer.net"
+        "name": "Bloomberg"
       },
-      "description": "A new Minecraft meets Animal Crossing inspired Pokémon game is coming to Switch 2 in 2026....",
-      "url": "https://www.eurogamer.net/ever-wanted-to-play-a-pokemon-animal-crossing-meets-minecraft-pokemon-pokopia-might-be-just-that-game",
-      "publishedAt": "2025-09-12T16:27:53Z",
-      "processed_at": "2025-09-13T22:16:21.593534+00:00"
+      "description": "It took more than seven years of development, but the massive action-platformer from Team Cherry is ...",
+      "url": "https://www.bloomberg.com/news/newsletters/2025-09-12/-silksong-the-long-awaited-successor-to-hollow-knight-was-worth-the-wait",
+      "publishedAt": "2025-09-12T17:00:18Z",
+      "processed_at": "2025-09-13T23:16:24.879098+00:00"
     },
     {
-      "title": "Over three decades later, Nintendo remembers the Virtual Boy exists - Ars Technica",
+      "title": "Pokémon Pokopia is a Brand New Spin-off That Looks a Lot Like Animal Crossing - IGN",
       "source": {
-        "name": "Ars Technica"
+        "name": "IGN"
       },
-      "description": "A $100 replica Switch dock or $25 cardboard sleeve is needed to play the 3D re-releases....",
-      "url": "https://arstechnica.com/gaming/2025/09/over-three-decades-later-nintendo-remembers-the-virtual-boy-exists/",
-      "publishedAt": "2025-09-12T15:46:39Z",
-      "processed_at": "2025-09-13T22:16:21.593534+00:00"
+      "description": "Nintendo has announced an impressive-looking Pokémon life simulation spin-off, Pokémon Pokopia....",
+      "url": "https://www.ign.com/articles/pokmon-pokopia-is-a-brand-new-spin-off-that-looks-a-lot-like-animal-crossing",
+      "publishedAt": "2025-09-12T15:56:15Z",
+      "processed_at": "2025-09-13T23:16:24.879098+00:00"
+    },
+    {
+      "title": "Don’t buy the standard Galaxy Watch 8 when the Classic is just $10 more - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "Samsung’s Galaxy Watch 8 Classic is on sale for $359.99 ($140 off) at Woot. Plus, Anker’s Soundcore ...",
+      "url": "https://www.theverge.com/tech/777246/samsung-galaxy-watch-8-classic-anker-soundcore-select-4-go-deal-sale",
+      "publishedAt": "2025-09-12T15:35:07Z",
+      "processed_at": "2025-09-13T23:16:24.879098+00:00"
+    },
+    {
+      "title": "Nintendo Drops Surprise Trailer for New ‘Super Mario Galaxy Movie’ - WIRED",
+      "source": {
+        "name": "Wired"
+      },
+      "description": "“The Super Mario Bros. Movie” sequel, titled “The Super Mario Galaxy Movie,” will be released in 202...",
+      "url": "https://www.wired.com/story/super-mario-galaxy-movie-new-trailer/",
+      "publishedAt": "2025-09-12T15:19:40Z",
+      "processed_at": "2025-09-13T23:16:24.879098+00:00"
+    },
+    {
+      "title": "Hades II – Nintendo Switch™ 2 Edition for Nintendo Switch 2 - Nintendo",
+      "source": {
+        "name": "Nintendo.com"
+      },
+      "description": "Buy Hades II – Nintendo Switch™ 2 Edition and shop other great Nintendo products online at the offic...",
+      "url": "https://www.nintendo.com/us/store/products/hades-ii-nintendo-switch-2-edition-switch-2/",
+      "publishedAt": "2025-09-12T14:55:12Z",
+      "processed_at": "2025-09-13T23:16:24.879098+00:00"
     },
     {
       "title": "Pokémon™ Legends: Z-A – Mega Dimension DLC - Nintendo",
@@ -40,7 +70,17 @@
       "description": "Buy Pokémon™ Legends: Z-A – Mega Dimension DLC and shop other great Nintendo products online at the ...",
       "url": "https://www.nintendo.com/us/store/products/pokemon-legends-z-a-mega-dimension-dlc-70070000030771-switch/",
       "publishedAt": "2025-09-12T14:47:19Z",
-      "processed_at": "2025-09-13T22:16:21.593534+00:00"
+      "processed_at": "2025-09-13T23:16:24.879098+00:00"
+    },
+    {
+      "title": "Here's everything announced in Nintendo's latest Direct - Eurogamer",
+      "source": {
+        "name": "Eurogamer.net"
+      },
+      "description": "Nintendo presented a Nintendo Direct on 12th September, which ran for over one hour....",
+      "url": "https://www.eurogamer.net/heres-everything-announced-in-nintendos-latest-direct",
+      "publishedAt": "2025-09-12T14:36:08Z",
+      "processed_at": "2025-09-13T23:16:24.879098+00:00"
     },
     {
       "title": "Donkey Kong™ Bananza: DK Island & Emerald Rush - Nintendo",
@@ -50,30 +90,10 @@
       "description": "Buy Donkey Kong™ Bananza: DK Island & Emerald Rush and shop other great Nintendo products online at ...",
       "url": "https://www.nintendo.com/us/store/products/donkey-kong-bananza-dk-island-and-emerald-rush-70050000062442-switch-2/",
       "publishedAt": "2025-09-12T14:31:25Z",
-      "processed_at": "2025-09-13T22:16:21.593534+00:00"
-    },
-    {
-      "title": "‘Super Mario Bros. Movie’ Sequel Officially Gets a Title - The Hollywood Reporter",
-      "source": {
-        "name": "Hollywood Reporter"
-      },
-      "description": "The latest animated pic from the ‘Super Mario Bros.’ universe with Chris Pratt returning to voice Ma...",
-      "url": "http://www.hollywoodreporter.com/movies/movie-news/super-mario-galaxy-movie-sequel-1236369210/",
-      "publishedAt": "2025-09-12T14:25:11Z",
-      "processed_at": "2025-09-13T22:16:21.593534+00:00"
-    },
-    {
-      "title": "Hades 2 release date announced for Switch consoles and PC - Eurogamer",
-      "source": {
-        "name": "Eurogamer.net"
-      },
-      "description": "Hades 2 has landed itself a full fat release date....",
-      "url": "https://www.eurogamer.net/hades-2-release-date-announced-for-switch-consoles",
-      "publishedAt": "2025-09-12T13:34:29Z",
-      "processed_at": "2025-09-13T22:16:21.593534+00:00"
+      "processed_at": "2025-09-13T23:16:24.879098+00:00"
     }
   ],
-  "lastUpdated": "2025-09-13T22:16:21.593598+00:00",
+  "lastUpdated": "2025-09-13T23:16:24.879175+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
