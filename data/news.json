@@ -1,26 +1,36 @@
 {
   "status": "success",
-  "totalResults": 10,
+  "totalResults": 8,
   "articles": [
     {
-      "title": "Brand New Fire Emblem Announced for 2026 at Nintendo Direct - IGN",
+      "title": "Mega Chesnaught, Mega Delphox and Mega Greninja Revealed for Pokémon Legends: Z-A, plus Mega Raichu X & Y in Mega Dimension DLC! - Pokémon GO Hub",
+      "source": {
+        "name": "Pokemon GO Hub"
+      },
+      "description": "In today's Nintendo Direct a new trailer was shown for Pokémon Legends: Z-A, revealing the three Meg...",
+      "url": "https://pokemongohub.net/post/news/mega-chesnaught-mega-delphox-and-mega-greninja-revealed-for-pokemon-legends-z-a-plus-mega-raichu-x-y-in-mega-dimension-dlc/",
+      "publishedAt": "2025-09-12T14:39:25Z",
+      "processed_at": "2025-09-13T17:13:58.945062+00:00"
+    },
+    {
+      "title": "Here's everything announced in Nintendo's latest Direct - Eurogamer",
+      "source": {
+        "name": "Eurogamer.net"
+      },
+      "description": "",
+      "url": "https://www.eurogamer.net/heres-everything-announced-in-nintendos-latest-direct",
+      "publishedAt": "2025-09-12T14:36:08Z",
+      "processed_at": "2025-09-13T17:13:58.945062+00:00"
+    },
+    {
+      "title": "Pokémon Pokopia is a Brand New Spin-off That Looks a Lot Like Animal Crossing - IGN",
       "source": {
         "name": "IGN"
       },
-      "description": "Nintendo closed out its Nintendo Direct September 2025 with the announcement of Fire Emblem: Fortune...",
-      "url": "https://www.ign.com/articles/brand-new-fire-emblem-announced-for-2026-at-nintendo-direct",
-      "publishedAt": "2025-09-12T14:13:10Z",
-      "processed_at": "2025-09-13T16:20:36.410885+00:00"
-    },
-    {
-      "title": "Pokémon is Getting An Animal Crossing -like With A Bizarre Premise - Kotaku",
-      "source": {
-        "name": "Kotaku"
-      },
-      "description": "Pokémon Pokopia stars a Ditto who transforms into a human...",
-      "url": "https://kotaku.com/pokemon-pokopia-animal-crossing-switch-2-nintendo-direct-2000625331",
-      "publishedAt": "2025-09-12T14:09:05Z",
-      "processed_at": "2025-09-13T16:20:36.410885+00:00"
+      "description": "Nintendo has announced an impressive-looking Pokémon life simulation spin-off, Pokémon Pokopia....",
+      "url": "https://www.ign.com/articles/pokmon-pokopia-is-a-brand-new-spin-off-that-looks-a-lot-like-animal-crossing",
+      "publishedAt": "2025-09-12T14:07:46Z",
+      "processed_at": "2025-09-13T17:13:58.945062+00:00"
     },
     {
       "title": "Surprise! Donkey Kong Bananza Is Getting DLC, And It's Out Today - Nintendo Life",
@@ -30,47 +40,37 @@
       "description": "That's bananas...",
       "url": "https://www.nintendolife.com/news/2025/09/surprise-donkey-kong-bananza-is-getting-dlc-and-its-out-today",
       "publishedAt": "2025-09-12T14:05:00Z",
-      "processed_at": "2025-09-13T16:20:36.410885+00:00"
-    },
-    {
-      "title": "Pokémon Legends Z-A Mega Dimension DLC Announced - Nintendo Insider",
-      "source": {
-        "name": "Nintendo Insider"
-      },
-      "description": "",
-      "url": "https://www.nintendo-insider.com/pokemon-legends-z-a-mega-dimension-dlc-announced/",
-      "publishedAt": "2025-09-12T13:57:11Z",
-      "processed_at": "2025-09-13T16:20:36.410885+00:00"
+      "processed_at": "2025-09-13T17:13:58.945062+00:00"
     },
     {
       "title": "Metroid Prime 4: Beyond finally gets release date, plus Samus on a motorbike - Eurogamer",
       "source": {
         "name": "Eurogamer.net"
       },
-      "description": "",
+      "description": "Metroid Prime 4: Beyond has finally received a release date from Nintendo, following months of specu...",
       "url": "https://www.eurogamer.net/metroid-prime-4-beyond-finally-gets-release-date-plus-samus-on-a-motorbike",
       "publishedAt": "2025-09-12T13:46:45Z",
-      "processed_at": "2025-09-13T16:20:36.410885+00:00"
+      "processed_at": "2025-09-13T17:13:58.945062+00:00"
     },
     {
-      "title": "Virtual Boy Nintendo Classics Announced for Switch 1 and 2 at Nintendo Direct - IGN",
+      "title": "Hades 2 Is a Timed Console Exclusive on Nintendo Switch 1 and 2, Plays at 120fps in TV Mode - IGN",
       "source": {
         "name": "IGN"
       },
-      "description": "",
-      "url": "https://www.ign.com/articles/virtual-boy-nintendo-classics-announced-for-switch-1-and-2-at-nintendo-direct",
-      "publishedAt": "2025-09-12T13:46:35Z",
-      "processed_at": "2025-09-13T16:20:36.410885+00:00"
+      "description": "Hades 2 is a timed console exclusive on Switch 1 and 2, Nintendo has announced, with a release date ...",
+      "url": "https://www.ign.com/articles/hades-2-is-a-timed-console-exclusive-on-nintendo-switch-1-and-2-plays-at-120fps-in-tv-mode",
+      "publishedAt": "2025-09-12T13:40:09Z",
+      "processed_at": "2025-09-13T17:13:58.945062+00:00"
     },
     {
-      "title": "Hades 2 release date announced for Switch consoles and PC - Eurogamer",
+      "title": "Verizon will give you an iPhone 17 Pro free with trade-in right now - how the deal works - ZDNET",
       "source": {
-        "name": "Eurogamer.net"
+        "name": "ZDNet"
       },
-      "description": "Hades 2 has landed itself a full fat release date....",
-      "url": "https://www.eurogamer.net/hades-2-release-date-announced-for-switch-consoles",
-      "publishedAt": "2025-09-12T13:34:29Z",
-      "processed_at": "2025-09-13T16:20:36.410885+00:00"
+      "description": "The iPhone 17 is now available to preorder, and Verizon is offering new and current customers up to ...",
+      "url": "https://www.zdnet.com/article/verizon-will-give-you-an-iphone-17-pro-free-with-trade-in-right-now-how-the-deal-works/",
+      "publishedAt": "2025-09-12T13:21:00Z",
+      "processed_at": "2025-09-13T17:13:58.945062+00:00"
     },
     {
       "title": "‘Super Mario Bros. 2’ Officially Titled ‘Super Mario Galaxy Movie’ - Variety",
@@ -80,30 +80,10 @@
       "description": "'Super Mario Galaxy Movie' is the title to the 'Super Mario Bros Movie' sequel....",
       "url": "https://variety.com/2025/film/news/super-mario-galaxy-movie-sequel-1236515440/",
       "publishedAt": "2025-09-12T13:05:00Z",
-      "processed_at": "2025-09-13T16:20:36.410885+00:00"
-    },
-    {
-      "title": "Rocket Report: Russia’s rocket engine predicament; 300th launch to the ISS - Ars Technica",
-      "source": {
-        "name": "Ars Technica"
-      },
-      "description": "North Korea test-fired a powerful new solid rocket motor for its next-generation ICBM....",
-      "url": "https://arstechnica.com/space/2025/09/rocket-report-russias-rocket-engine-predicament-300th-launch-to-the-iss/",
-      "publishedAt": "2025-09-12T12:29:03Z",
-      "processed_at": "2025-09-13T16:20:36.410885+00:00"
-    },
-    {
-      "title": "Nintendo Direct September 2025: Everything Announced So Far (Updating Live) - IGN",
-      "source": {
-        "name": "IGN"
-      },
-      "description": "",
-      "url": "https://www.ign.com/articles/nintendo-direct-september-2025-live-updates-everything-announced",
-      "publishedAt": "2025-09-12T12:03:16Z",
-      "processed_at": "2025-09-13T16:20:36.410885+00:00"
+      "processed_at": "2025-09-13T17:13:58.945062+00:00"
     }
   ],
-  "lastUpdated": "2025-09-13T16:20:36.410978+00:00",
+  "lastUpdated": "2025-09-13T17:13:58.945128+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
