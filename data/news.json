@@ -1,6 +1,6 @@
 {
   "status": "success",
-  "totalResults": 9,
+  "totalResults": 8,
   "articles": [
     {
       "title": "All of the iPhone 17 models compared - TechCrunch",
@@ -10,7 +10,7 @@
       "description": "All four of the devices will be available to preorder on Friday and will be available on September 1...",
       "url": "https://techcrunch.com/2025/09/12/all-of-the-iphone-17-models-compared/",
       "publishedAt": "2025-09-12T18:46:51Z",
-      "processed_at": "2025-09-13T23:16:24.879098+00:00"
+      "processed_at": "2025-09-14T01:40:02.811747+00:00"
     },
     {
       "title": "‘Silksong,’ the Long-Awaited Successor to ‘Hollow Knight,’ Was Worth the Wait - Bloomberg.com",
@@ -20,17 +20,17 @@
       "description": "It took more than seven years of development, but the massive action-platformer from Team Cherry is ...",
       "url": "https://www.bloomberg.com/news/newsletters/2025-09-12/-silksong-the-long-awaited-successor-to-hollow-knight-was-worth-the-wait",
       "publishedAt": "2025-09-12T17:00:18Z",
-      "processed_at": "2025-09-13T23:16:24.879098+00:00"
+      "processed_at": "2025-09-14T01:40:02.811747+00:00"
     },
     {
-      "title": "Pokémon Pokopia is a Brand New Spin-off That Looks a Lot Like Animal Crossing - IGN",
+      "title": "AirPods Pro 3 First Look - MacRumors",
       "source": {
-        "name": "IGN"
+        "name": "MacRumors"
       },
-      "description": "Nintendo has announced an impressive-looking Pokémon life simulation spin-off, Pokémon Pokopia....",
-      "url": "https://www.ign.com/articles/pokmon-pokopia-is-a-brand-new-spin-off-that-looks-a-lot-like-animal-crossing",
-      "publishedAt": "2025-09-12T15:56:15Z",
-      "processed_at": "2025-09-13T23:16:24.879098+00:00"
+      "description": "Apple is planning to release the AirPods Pro 3 next week, but MacRumors videographer Dan Barbera was...",
+      "url": "https://www.macrumors.com/2025/09/12/airpods-pro-3-first-look/",
+      "publishedAt": "2025-09-12T16:24:57Z",
+      "processed_at": "2025-09-14T01:40:02.811747+00:00"
     },
     {
       "title": "Don’t buy the standard Galaxy Watch 8 when the Classic is just $10 more - The Verge",
@@ -40,7 +40,7 @@
       "description": "Samsung’s Galaxy Watch 8 Classic is on sale for $359.99 ($140 off) at Woot. Plus, Anker’s Soundcore ...",
       "url": "https://www.theverge.com/tech/777246/samsung-galaxy-watch-8-classic-anker-soundcore-select-4-go-deal-sale",
       "publishedAt": "2025-09-12T15:35:07Z",
-      "processed_at": "2025-09-13T23:16:24.879098+00:00"
+      "processed_at": "2025-09-14T01:40:02.811747+00:00"
     },
     {
       "title": "Nintendo Drops Surprise Trailer for New ‘Super Mario Galaxy Movie’ - WIRED",
@@ -50,37 +50,17 @@
       "description": "“The Super Mario Bros. Movie” sequel, titled “The Super Mario Galaxy Movie,” will be released in 202...",
       "url": "https://www.wired.com/story/super-mario-galaxy-movie-new-trailer/",
       "publishedAt": "2025-09-12T15:19:40Z",
-      "processed_at": "2025-09-13T23:16:24.879098+00:00"
+      "processed_at": "2025-09-14T01:40:02.811747+00:00"
     },
     {
-      "title": "Hades II – Nintendo Switch™ 2 Edition for Nintendo Switch 2 - Nintendo",
+      "title": "Watch all the new trailers from Nintendo Direct September 2025: Super Mario Galaxy, Yoshi, and Mortal Kombat Legacy - Mashable",
       "source": {
-        "name": "Nintendo.com"
+        "name": "Mashable"
       },
-      "description": "Buy Hades II – Nintendo Switch™ 2 Edition and shop other great Nintendo products online at the offic...",
-      "url": "https://www.nintendo.com/us/store/products/hades-ii-nintendo-switch-2-edition-switch-2/",
-      "publishedAt": "2025-09-12T14:55:12Z",
-      "processed_at": "2025-09-13T23:16:24.879098+00:00"
-    },
-    {
-      "title": "Pokémon™ Legends: Z-A – Mega Dimension DLC - Nintendo",
-      "source": {
-        "name": "Nintendo.com"
-      },
-      "description": "Buy Pokémon™ Legends: Z-A – Mega Dimension DLC and shop other great Nintendo products online at the ...",
-      "url": "https://www.nintendo.com/us/store/products/pokemon-legends-z-a-mega-dimension-dlc-70070000030771-switch/",
-      "publishedAt": "2025-09-12T14:47:19Z",
-      "processed_at": "2025-09-13T23:16:24.879098+00:00"
-    },
-    {
-      "title": "Here's everything announced in Nintendo's latest Direct - Eurogamer",
-      "source": {
-        "name": "Eurogamer.net"
-      },
-      "description": "Nintendo presented a Nintendo Direct on 12th September, which ran for over one hour....",
-      "url": "https://www.eurogamer.net/heres-everything-announced-in-nintendos-latest-direct",
-      "publishedAt": "2025-09-12T14:36:08Z",
-      "processed_at": "2025-09-13T23:16:24.879098+00:00"
+      "description": "Sixty minutes of mayhem....",
+      "url": "https://mashable.com/article/nintendo-direct-september-2025-everything-announced",
+      "publishedAt": "2025-09-12T15:19:25Z",
+      "processed_at": "2025-09-14T01:40:02.811747+00:00"
     },
     {
       "title": "Donkey Kong™ Bananza: DK Island & Emerald Rush - Nintendo",
@@ -90,10 +70,20 @@
       "description": "Buy Donkey Kong™ Bananza: DK Island & Emerald Rush and shop other great Nintendo products online at ...",
       "url": "https://www.nintendo.com/us/store/products/donkey-kong-bananza-dk-island-and-emerald-rush-70050000062442-switch-2/",
       "publishedAt": "2025-09-12T14:31:25Z",
-      "processed_at": "2025-09-13T23:16:24.879098+00:00"
+      "processed_at": "2025-09-14T01:40:02.811747+00:00"
+    },
+    {
+      "title": "Pokémon Legends: Z‑A – Mega Dimension Is Coming Soon - Pokemon.com",
+      "source": {
+        "name": "Pokemon.com"
+      },
+      "description": "Encounter Mega Raichu X, Mega Raichu Y, and Hoopa—and receive bonus items—in this upcoming DLC....",
+      "url": "https://www.pokemon.com/us/pokemon-news/pokemon-legends-z-a-mega-dimension-is-coming-soon",
+      "publishedAt": "2025-09-12T14:20:57Z",
+      "processed_at": "2025-09-14T01:40:02.811747+00:00"
     }
   ],
-  "lastUpdated": "2025-09-13T23:16:24.879175+00:00",
+  "lastUpdated": "2025-09-14T01:40:02.811814+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
