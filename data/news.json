@@ -1,6 +1,6 @@
 {
   "status": "success",
-  "totalResults": 9,
+  "totalResults": 10,
   "articles": [
     {
       "title": "Three Days Until iOS 26 Launch: What Are You Most Looking Forward To? - MacRumors",
@@ -10,7 +10,17 @@
       "description": "iOS 26 is coming in just three days, and it brings a new Liquid Glass design with translucent UI ele...",
       "url": "https://www.macrumors.com/2025/09/12/ios-26-launch-monday/",
       "publishedAt": "2025-09-12T21:41:04Z",
-      "processed_at": "2025-09-14T04:22:17.497727+00:00"
+      "processed_at": "2025-09-14T05:17:28.380603+00:00"
+    },
+    {
+      "title": "Apple AI and Search Executive Robby Walker to Leave Company - Bloomberg.com",
+      "source": {
+        "name": "Bloomberg"
+      },
+      "description": "Apple Inc.’s Robby Walker, one of the iPhone maker’s most senior artificial intelligence executives,...",
+      "url": "https://www.bloomberg.com/news/articles/2025-09-12/apple-ai-and-search-executive-robby-walker-to-leave-iphone-maker",
+      "publishedAt": "2025-09-12T19:05:09Z",
+      "processed_at": "2025-09-14T05:17:28.380603+00:00"
     },
     {
       "title": "Pokémon Legends Z-A Game's Videos Reveal Paid DLC, Mega Evolutions of Pokémon X/Y Starters, Raichu - Anime News Network",
@@ -20,7 +30,17 @@
       "description": "New paid DLC takes place after main story // The Pokémon Company International unveiled during the N...",
       "url": "https://www.animenewsnetwork.com/news/2025-09-12/pokemon-legends-z-a-game-videos-reveal-paid-dlc-mega-evolutions-of-pokemon-x-y-starters-raichu/.228725",
       "publishedAt": "2025-09-12T18:00:00Z",
-      "processed_at": "2025-09-14T04:22:17.497727+00:00"
+      "processed_at": "2025-09-14T05:17:28.380603+00:00"
+    },
+    {
+      "title": "Round Up: Everything Announced For Super Mario's 40th Anniversary - Nintendo Life",
+      "source": {
+        "name": "Nintendo Life"
+      },
+      "description": "",
+      "url": "https://www.nintendolife.com/news/2025/09/round-up-everything-announced-for-super-marios-40th-anniversary",
+      "publishedAt": "2025-09-12T17:00:00Z",
+      "processed_at": "2025-09-14T05:17:28.380603+00:00"
     },
     {
       "title": "Apple iPhone 17 event recap: iPhone Air preorders, Apple Watch 11, AirPods Pro 3, more - ZDNET",
@@ -30,7 +50,27 @@
       "description": "ZDNET has rounded up everything announced at this week's Apple event - from iPhone 17 preorder deals...",
       "url": "https://www.zdnet.com/article/apple-iphone-17-event-recap-iphone-air-preorders-apple-watch-11-airpods-pro-3-more/",
       "publishedAt": "2025-09-12T16:55:00Z",
-      "processed_at": "2025-09-14T04:22:17.497727+00:00"
+      "processed_at": "2025-09-14T05:17:28.380603+00:00"
+    },
+    {
+      "title": "Ever wanted to play a Pokémon Animal Crossing meets Minecraft? Pokémon Pokopia might be just that game - Eurogamer",
+      "source": {
+        "name": "Eurogamer.net"
+      },
+      "description": "A new Minecraft meets Animal Crossing inspired Pokémon game is coming to Switch 2 in 2026....",
+      "url": "https://www.eurogamer.net/ever-wanted-to-play-a-pokemon-animal-crossing-meets-minecraft-pokemon-pokopia-might-be-just-that-game",
+      "publishedAt": "2025-09-12T16:27:53Z",
+      "processed_at": "2025-09-14T05:17:28.380603+00:00"
+    },
+    {
+      "title": "AirPods Pro 3 First Look - MacRumors",
+      "source": {
+        "name": "MacRumors"
+      },
+      "description": "Apple is planning to release the AirPods Pro 3 next week, but MacRumors videographer Dan Barbera was...",
+      "url": "https://www.macrumors.com/2025/09/12/airpods-pro-3-first-look/",
+      "publishedAt": "2025-09-12T16:24:57Z",
+      "processed_at": "2025-09-14T05:17:28.380603+00:00"
     },
     {
       "title": "It’s official: The Final Fantasy 7 Remake ‘trilogy’ will also release for Switch 2 and Xbox - Video Games Chronicle",
@@ -40,7 +80,7 @@
       "description": "But it's not clear if the third game will be a timed PlayStation exclusive...",
       "url": "https://www.videogameschronicle.com/news/its-official-the-final-fantasy-7-remake-trilogy-will-also-release-for-switch-2-and-xbox/",
       "publishedAt": "2025-09-12T15:44:26Z",
-      "processed_at": "2025-09-14T04:22:17.497727+00:00"
+      "processed_at": "2025-09-14T05:17:28.380603+00:00"
     },
     {
       "title": "Don’t buy the standard Galaxy Watch 8 when the Classic is just $10 more - The Verge",
@@ -50,7 +90,7 @@
       "description": "Samsung’s Galaxy Watch 8 Classic is on sale for $359.99 ($140 off) at Woot. Plus, Anker’s Soundcore ...",
       "url": "https://www.theverge.com/tech/777246/samsung-galaxy-watch-8-classic-anker-soundcore-select-4-go-deal-sale",
       "publishedAt": "2025-09-12T15:35:07Z",
-      "processed_at": "2025-09-14T04:22:17.497727+00:00"
+      "processed_at": "2025-09-14T05:17:28.380603+00:00"
     },
     {
       "title": "Nintendo Drops Surprise Trailer for New ‘Super Mario Galaxy Movie’ - WIRED",
@@ -60,40 +100,10 @@
       "description": "“The Super Mario Bros. Movie” sequel, titled “The Super Mario Galaxy Movie,” will be released in 202...",
       "url": "https://www.wired.com/story/super-mario-galaxy-movie-new-trailer/",
       "publishedAt": "2025-09-12T15:19:40Z",
-      "processed_at": "2025-09-14T04:22:17.497727+00:00"
-    },
-    {
-      "title": "Watch all the new trailers from Nintendo Direct September 2025: Super Mario Galaxy, Yoshi, and Mortal Kombat Legacy - Mashable",
-      "source": {
-        "name": "Mashable"
-      },
-      "description": "Sixty minutes of mayhem....",
-      "url": "https://mashable.com/article/nintendo-direct-september-2025-everything-announced",
-      "publishedAt": "2025-09-12T15:19:25Z",
-      "processed_at": "2025-09-14T04:22:17.497727+00:00"
-    },
-    {
-      "title": "Nintendo's Back in VR With a New Virtual Boy, Coming Next Year for Switch - CNET",
-      "source": {
-        "name": "CNET"
-      },
-      "description": "The long-lost console is being revived next February in cardboard and plastic form as a Switch acces...",
-      "url": "https://www.cnet.com/tech/gaming/nintendos-back-in-vr-with-a-new-virtual-boy-coming-next-year-for-switch/",
-      "publishedAt": "2025-09-12T14:36:00Z",
-      "processed_at": "2025-09-14T04:22:17.497727+00:00"
-    },
-    {
-      "title": "Donkey Kong™ Bananza: DK Island & Emerald Rush - Nintendo",
-      "source": {
-        "name": "Nintendo.com"
-      },
-      "description": "Buy Donkey Kong™ Bananza: DK Island & Emerald Rush and shop other great Nintendo products online at ...",
-      "url": "https://www.nintendo.com/us/store/products/donkey-kong-bananza-dk-island-and-emerald-rush-70050000062442-switch-2/",
-      "publishedAt": "2025-09-12T14:31:25Z",
-      "processed_at": "2025-09-14T04:22:17.497727+00:00"
+      "processed_at": "2025-09-14T05:17:28.380603+00:00"
     }
   ],
-  "lastUpdated": "2025-09-14T04:22:17.497802+00:00",
+  "lastUpdated": "2025-09-14T05:17:28.380679+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
