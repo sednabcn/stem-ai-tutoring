@@ -3,14 +3,34 @@
   "totalResults": 10,
   "articles": [
     {
-      "title": "Apple Reportedly Plans to Launch These 10 Products in 'Coming Months' - MacRumors",
+      "title": "What’s next for Apple after the iPhone 17? - The Verge",
       "source": {
-        "name": "MacRumors"
+        "name": "The Verge"
       },
-      "description": "Apple's annual September event is now in the rearview mirror, with the iPhone 17, iPhone 17 Pro, iPh...",
-      "url": "https://www.macrumors.com/2025/09/14/apple-reportedly-planning-10-more-products/",
-      "publishedAt": "2025-09-14T15:45:00Z",
-      "processed_at": "2025-09-15T18:28:43.281214+00:00"
+      "description": "Apple is supposedly launching an iPhone 17e, an M5 iPad Pro, a smart home hub, and more in the comin...",
+      "url": "https://www.theverge.com/apple-rumors/777791/whats-next-for-apple-iphone-17-m5-ipad-pro",
+      "publishedAt": "2025-09-14T19:18:59Z",
+      "processed_at": "2025-09-15T19:15:23.564160+00:00"
+    },
+    {
+      "title": "Claude now has memory, but only for certain users - Mashable",
+      "source": {
+        "name": "Mashable"
+      },
+      "description": "Anthropic also introduced incognito chats....",
+      "url": "https://mashable.com/article/anthropic-claude-ai-now-has-memory-for-some-users",
+      "publishedAt": "2025-09-14T17:03:45Z",
+      "processed_at": "2025-09-15T19:15:23.564160+00:00"
+    },
+    {
+      "title": "Five Pastel Pieces to Soften Your Fall Wardrobe - The Wall Street Journal",
+      "source": {
+        "name": "The Wall Street Journal"
+      },
+      "description": "",
+      "url": "https://www.wsj.com/style/fashion/fall-fashion-pastel-accessories-2025-8ee1142b",
+      "publishedAt": "2025-09-14T16:45:03Z",
+      "processed_at": "2025-09-15T19:15:23.564160+00:00"
     },
     {
       "title": "Samsung Reportedly Beginning Exynos 2600 Mass Production By The End Of September On Its Cutting-Edge 2nm GAA Process - Wccftech",
@@ -20,7 +40,7 @@
       "description": "A report claims that Samsung is ready to move its Exynos 2600 from the trial production to full-scal...",
       "url": "https://wccftech.com/exynos-2600-mass-production-on-2nm-gaa-process-starting-end-of-september/",
       "publishedAt": "2025-09-14T15:37:00Z",
-      "processed_at": "2025-09-15T18:28:43.281214+00:00"
+      "processed_at": "2025-09-15T19:15:23.564160+00:00"
     },
     {
       "title": "The Helldivers community is coping with a spotlight it doesn’t want - The Verge",
@@ -30,7 +50,7 @@
       "description": "Helldivers is a satire of fascism — now, it’s coping with a spotlight it doesn’t want....",
       "url": "https://www.theverge.com/games/777738/helldivers-community-reddit-discord-charlie-kirk",
       "publishedAt": "2025-09-14T15:00:00Z",
-      "processed_at": "2025-09-15T18:28:43.281214+00:00"
+      "processed_at": "2025-09-15T19:15:23.564160+00:00"
     },
     {
       "title": "Dragon Quest 7 Reimagined's PS5 Characters Are Based on Real-Life Models - Push Square",
@@ -40,27 +60,17 @@
       "description": "For stunning diorama style...",
       "url": "https://www.pushsquare.com/news/2025/09/dragon-quest-7-reimagineds-ps5-characters-are-based-on-real-life-models",
       "publishedAt": "2025-09-14T15:00:00Z",
-      "processed_at": "2025-09-15T18:28:43.281214+00:00"
+      "processed_at": "2025-09-15T19:15:23.564160+00:00"
     },
     {
-      "title": "Mariners Moose Tracks, 9/14/25: Jorge Polanco, Tarik Skubal, and Jose Altuve - Lookout Landing",
+      "title": "Where Are Borderlands 4’s Legendary Loot Drops? - Forbes",
       "source": {
-        "name": "Lookout Landing"
+        "name": "Forbes"
       },
-      "description": "Jorge Polanco is red hot, Tarik Skubal is healthy, and the Astros injury woes will not stop....",
-      "url": "https://www.lookoutlanding.com/mariners-moose-tracks/134311/mariners-moose-tracks-9-14-25-jorge-polanco-tarik-skubal-and-jose-altuve",
-      "publishedAt": "2025-09-14T14:00:00Z",
-      "processed_at": "2025-09-15T18:28:43.281214+00:00"
-    },
-    {
-      "title": "A tiny dog takes a big walk in 'Hello, Tobi!' - NPR",
-      "source": {
-        "name": "NPR"
-      },
-      "description": "Author and illustrator Andrea Cáceres has changed careers, moved countries and built a new home — al...",
-      "url": "https://www.npr.org/2025/09/14/nx-s1-5366853/a-tiny-dog-takes-a-big-walk-in-hello-tobi",
-      "publishedAt": "2025-09-14T13:03:06Z",
-      "processed_at": "2025-09-15T18:28:43.281214+00:00"
+      "description": "Where is all the legendary loot in Borderlands 4? Why is it so rare? Where do you find it? What are ...",
+      "url": "https://www.forbes.com/sites/paultassi/2025/09/14/where-are-borderlands-4s-legendary-loot-drops/",
+      "publishedAt": "2025-09-14T13:49:17Z",
+      "processed_at": "2025-09-15T19:15:23.564160+00:00"
     },
     {
       "title": "In Silksong, spite is my motivation to keep playing - The Verge",
@@ -70,40 +80,30 @@
       "description": "Hollow Knight: Silksong is frustrating players with its difficult encounters, but rather than turn m...",
       "url": "https://www.theverge.com/games/777653/silksong-impressions-team-cherry-metroidvania-sherma-is-cool",
       "publishedAt": "2025-09-14T13:00:00Z",
-      "processed_at": "2025-09-15T18:28:43.281214+00:00"
+      "processed_at": "2025-09-15T19:15:23.564160+00:00"
     },
     {
-      "title": "Nintendo’s latest Amiibo figures push the boundaries of size and price - Video Games Chronicle",
+      "title": "The Order of Giants DLC Is Unfortunately a Bit of a Disappointment - Wccftech",
       "source": {
-        "name": "Video Games Chronicle"
+        "name": "Wccftech"
       },
-      "description": "The just-revealed Kirby Air Riders Amiibo will cost $50...",
-      "url": "https://www.videogameschronicle.com/news/nintendos-latest-amiibo-figures-push-the-boundaries-of-size-and-price/",
-      "publishedAt": "2025-09-14T12:16:38Z",
-      "processed_at": "2025-09-15T18:28:43.281214+00:00"
+      "description": "I loved Indiana Jones and the Great Circle, but The Order of Giants DLC is too short and its narrati...",
+      "url": "https://wccftech.com/the-order-of-giants-dlc-is-a-bit-of-a-disappointment/",
+      "publishedAt": "2025-09-14T13:00:00Z",
+      "processed_at": "2025-09-15T19:15:23.564160+00:00"
     },
     {
-      "title": "The iPhone to get this year - The Verge",
+      "title": "iPhone 17 Pro vs. iPhone 15 Pro: My buying advice after comparing the upgrades - ZDNET",
       "source": {
-        "name": "The Verge"
+        "name": "ZDNet"
       },
-      "description": "The iPhone 17, the AirPods Pro 3, Spotify lossless, the Nikon ZR, Jeopardy streaming, and more in th...",
-      "url": "https://www.theverge.com/installer-newsletter/777346/best-iphone-17-airpods-jeopardy-installer",
-      "publishedAt": "2025-09-14T12:00:00Z",
-      "processed_at": "2025-09-15T18:28:43.281214+00:00"
-    },
-    {
-      "title": "Borderlands 4 Shift Codes: All Active Keys And How To Redeem Them - GameSpot",
-      "source": {
-        "name": "GameSpot"
-      },
-      "description": "If you need some extra firepower in Borderlands 4, Shift codes are one of the best ways to upgrade y...",
-      "url": "https://www.gamespot.com/articles/borderlands-4-shift-codes-all-active-keys-and-how-to-redeem-them/1100-6533833/",
-      "publishedAt": "2025-09-14T11:52:19Z",
-      "processed_at": "2025-09-15T18:28:43.281214+00:00"
+      "description": "The new iPhone 17 Pro features an upgraded camera and the biggest battery yet, but how does it stack...",
+      "url": "https://www.zdnet.com/article/iphone-17-pro-vs-iphone-15-pro-my-buying-advice-after-comparing-the-upgrades/",
+      "publishedAt": "2025-09-14T12:33:00Z",
+      "processed_at": "2025-09-15T19:15:23.564160+00:00"
     }
   ],
-  "lastUpdated": "2025-09-15T18:28:43.281285+00:00",
+  "lastUpdated": "2025-09-15T19:15:23.564233+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
