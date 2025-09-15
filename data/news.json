@@ -1,16 +1,66 @@
 {
   "status": "success",
-  "totalResults": 9,
+  "totalResults": 10,
   "articles": [
     {
-      "title": "I Hate To Sound Like A Boomer, But I'm So, So Sick Of These 56 Modern Problems - buzzfeed.com",
+      "title": "Apple still has 10 more product launches in the pipeline, here’s what’s coming - 9to5Mac",
       "source": {
-        "name": "Buzzfeed"
+        "name": "9to5Mac"
       },
-      "description": "At this point, I think my Alexa knows me better than I know myself. And not in a good way....",
-      "url": "https://www.buzzfeed.com/hannahmarder/boomer-complaints",
-      "publishedAt": "2025-09-14T09:16:02Z",
-      "processed_at": "2025-09-15T12:41:17.920176+00:00"
+      "description": "Apple just wrapped up its iPhone 17 launch event last week. While that was a jam-packed (and incredi...",
+      "url": "https://9to5mac.com/2025/09/14/apple-still-has-10-more-product-launches-in-the-pipeline-heres-whats-coming/",
+      "publishedAt": "2025-09-14T12:40:00Z",
+      "processed_at": "2025-09-15T13:28:05.842225+00:00"
+    },
+    {
+      "title": "Nintendo’s latest Amiibo figures push the boundaries of size and price - Video Games Chronicle",
+      "source": {
+        "name": "Video Games Chronicle"
+      },
+      "description": "The just-revealed Kirby Air Riders Amiibo will cost $50...",
+      "url": "https://www.videogameschronicle.com/news/nintendos-latest-amiibo-figures-push-the-boundaries-of-size-and-price/",
+      "publishedAt": "2025-09-14T12:16:38Z",
+      "processed_at": "2025-09-15T13:28:05.842225+00:00"
+    },
+    {
+      "title": "Fulfill Your NFL Sunday Ticket Fix Without a Big Bill Thanks to This App - CNET",
+      "source": {
+        "name": "CNET"
+      },
+      "description": "Don't let that subscription price stop you from watching Sunday games....",
+      "url": "https://www.cnet.com/tech/services-and-software/fulfill-your-nfl-sunday-ticket-fix-without-big-bill-thanks-to-app/",
+      "publishedAt": "2025-09-14T12:01:06Z",
+      "processed_at": "2025-09-15T13:28:05.842225+00:00"
+    },
+    {
+      "title": "After the Virtual Boy, There’s No Reason Why Nintendo Can’t Bring Back Its Best Handheld - Gizmodo",
+      "source": {
+        "name": "Gizmodo.com"
+      },
+      "description": "Dual-screen gaming could and should return in the Switch 2 era....",
+      "url": "https://gizmodo.com/after-the-virtual-boy-theres-no-reason-why-nintendo-cant-bring-back-its-best-handheld-2000658275",
+      "publishedAt": "2025-09-14T12:00:56Z",
+      "processed_at": "2025-09-15T13:28:05.842225+00:00"
+    },
+    {
+      "title": "Apple Pitches a Return to Its Design Roots, Six Years After Jony Ive’s Exit - Bloomberg.com",
+      "source": {
+        "name": "Bloomberg"
+      },
+      "description": "Apple spent much of its iPhone 17 keynote presentation pitching the message that it’s still deeply r...",
+      "url": "https://www.bloomberg.com/news/newsletters/2025-09-14/apple-pitches-a-return-to-design-roots-six-years-after-jony-ive-exit-2026-plan",
+      "publishedAt": "2025-09-14T12:00:20Z",
+      "processed_at": "2025-09-15T13:28:05.842225+00:00"
+    },
+    {
+      "title": "The iPhone to get this year - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "The iPhone 17, the AirPods Pro 3, Spotify lossless, the Nikon ZR, Jeopardy streaming, and more in th...",
+      "url": "https://www.theverge.com/installer-newsletter/777346/best-iphone-17-airpods-jeopardy-installer",
+      "publishedAt": "2025-09-14T12:00:00Z",
+      "processed_at": "2025-09-15T13:28:05.842225+00:00"
     },
     {
       "title": "RUMOR: More characters revealed for The Super Mario Galaxy movie - GoNintendo",
@@ -20,7 +70,7 @@
       "description": "Mama mia!...",
       "url": "https://gonintendo.com/contents/52847-rumor-more-characters-revealed-for-the-super-mario-galaxy-movie",
       "publishedAt": "2025-09-14T05:23:58Z",
-      "processed_at": "2025-09-15T12:41:17.920176+00:00"
+      "processed_at": "2025-09-15T13:28:05.842225+00:00"
     },
     {
       "title": "Final Fantasy 7 Remake Intergrade has new Nintendo Switch 2 streamlined progression settings - Nintendo Everything",
@@ -30,7 +80,17 @@
       "description": "Final Fantasy 7 Remake Intergrade will have various new progression settings on Nintendo Switch 2 - ...",
       "url": "https://nintendoeverything.com/final-fantasy-7-remake-intergrade-has-new-nintendo-switch-2-streamlined-progression-settings/",
       "publishedAt": "2025-09-14T04:02:19Z",
-      "processed_at": "2025-09-15T12:41:17.920176+00:00"
+      "processed_at": "2025-09-15T13:28:05.842225+00:00"
+    },
+    {
+      "title": "Hands-on with MOFT’s iPhone 17 cases and more: Fantastic options for a leather feel - 9to5Mac",
+      "source": {
+        "name": "9to5Mac"
+      },
+      "description": "For the iPhone 17 lineup, MOFT has a number of neat new cases and MagSafe wallets. Also, the company...",
+      "url": "https://9to5mac.com/2025/09/13/moft-iphone-17-cases-and-magsafe-wallets-hands-on/",
+      "publishedAt": "2025-09-14T03:47:00Z",
+      "processed_at": "2025-09-15T13:28:05.842225+00:00"
     },
     {
       "title": "AirPods Pro 3 have a special new ability from an upcoming Apple product - 9to5Mac",
@@ -40,60 +100,10 @@
       "description": "Earlier this week, Apple introduced a new version of its most popular wireless earbuds: AirPods Pro ...",
       "url": "https://9to5mac.com/2025/09/13/airpods-pro-3-hidden-new-ability-apple/",
       "publishedAt": "2025-09-14T01:47:00Z",
-      "processed_at": "2025-09-15T12:41:17.920176+00:00"
-    },
-    {
-      "title": "Everybody's Golf Hot Shots Update Improves Performance On Switch 2 - Nintendo Life",
-      "source": {
-        "name": "Nintendo Life"
-      },
-      "description": "But the Switch experience is reportedly \"worse\"...",
-      "url": "https://www.nintendolife.com/news/2025/09/everybodys-golf-hot-shots-update-improves-performance-on-switch-2",
-      "publishedAt": "2025-09-13T21:34:31Z",
-      "processed_at": "2025-09-15T12:41:17.920176+00:00"
-    },
-    {
-      "title": "What time will Apple release iOS 26, iPadOS 26 and watchOS 26 on September 15 in your time zone? - Cult of Mac",
-      "source": {
-        "name": "Cult of Mac"
-      },
-      "description": "Apple's next big software updates, iOS 26, iPadOS 26, watchOS 26, and macOS Tahoe, drop September 15...",
-      "url": "https://www.cultofmac.com/news/ios-26-ipados-26-watchos-26-release-time",
-      "publishedAt": "2025-09-13T20:55:49Z",
-      "processed_at": "2025-09-15T12:41:17.920176+00:00"
-    },
-    {
-      "title": "iPhone 17 Pro Max vs. Samsung Galaxy S25 Ultra: A premium flagship showdown - Android Central",
-      "source": {
-        "name": "Android Central"
-      },
-      "description": "The iPhone 17 Pro Max brings a striking design and a revamped camera system, but is that enough to b...",
-      "url": "https://www.androidcentral.com/phones/apple-iphone/iphone-17-pro-max-vs-samsung-galaxy-s25-ultra",
-      "publishedAt": "2025-09-13T19:44:36Z",
-      "processed_at": "2025-09-15T12:41:17.920176+00:00"
-    },
-    {
-      "title": "Hyrule Warriors: Age Of Imprisonment Box Art Officially Revealed For Switch 2 - Nintendo Life",
-      "source": {
-        "name": "Nintendo Life"
-      },
-      "description": "Absolutely divine...",
-      "url": "https://www.nintendolife.com/news/2025/09/hyrule-warriors-age-of-imprisonment-box-art-officially-revealed-for-switch-2",
-      "publishedAt": "2025-09-13T16:27:33Z",
-      "processed_at": "2025-09-15T12:41:17.920176+00:00"
-    },
-    {
-      "title": "Microsoft reminds of Windows 10 support ending in 30 days - BleepingComputer",
-      "source": {
-        "name": "BleepingComputer"
-      },
-      "description": "On Friday, Microsoft reminded customers once again that Windows 10 will reach its end of support in ...",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-reminds-of-windows-10-support-ending-in-30-days/",
-      "publishedAt": "2025-09-13T16:20:40Z",
-      "processed_at": "2025-09-15T12:41:17.920176+00:00"
+      "processed_at": "2025-09-15T13:28:05.842225+00:00"
     }
   ],
-  "lastUpdated": "2025-09-15T12:41:17.920243+00:00",
+  "lastUpdated": "2025-09-15T13:28:05.842300+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
