@@ -1,7 +1,67 @@
 {
   "status": "success",
-  "totalResults": 8,
+  "totalResults": 10,
   "articles": [
+    {
+      "title": "Borderlands 4 Shift Codes: All Active Keys And How To Redeem Them - GameSpot",
+      "source": {
+        "name": "GameSpot"
+      },
+      "description": "If you need some extra firepower in Borderlands 4, Shift codes are one of the best ways to upgrade y...",
+      "url": "https://www.gamespot.com/articles/borderlands-4-shift-codes-all-active-keys-and-how-to-redeem-them/1100-6533833/",
+      "publishedAt": "2025-09-15T10:17:24Z",
+      "processed_at": "2025-09-16T09:21:56.757488+00:00"
+    },
+    {
+      "title": "Claude now has memory, but only for certain users - Mashable",
+      "source": {
+        "name": "Mashable"
+      },
+      "description": "Anthropic also introduced incognito chats....",
+      "url": "https://mashable.com/article/anthropic-claude-ai-now-has-memory-for-some-users",
+      "publishedAt": "2025-09-15T09:31:58Z",
+      "processed_at": "2025-09-16T09:21:56.757488+00:00"
+    },
+    {
+      "title": "Mark Zuckerberg is making a major bet on the future. He’s about to share it - CNN",
+      "source": {
+        "name": "CNN"
+      },
+      "description": "Meta CEO Mark Zuckerberg made a bold claim on the social media giant’s earnings call in July. Answer...",
+      "url": "https://www.cnn.com/2025/09/15/tech/meta-future-ai-smart-glasses",
+      "publishedAt": "2025-09-15T09:00:06Z",
+      "processed_at": "2025-09-16T09:21:56.757488+00:00"
+    },
+    {
+      "title": "Apple’s new iPhone charger is a first of its kind - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "It’s dynamic!...",
+      "url": "https://www.theverge.com/news/777883/apple-charger-usb-pd-3-2-avs-dynamic",
+      "publishedAt": "2025-09-15T08:14:59Z",
+      "processed_at": "2025-09-16T09:21:56.757488+00:00"
+    },
+    {
+      "title": "One Piece: Pirate Warriors 4 - Switch 2 Edition Announced, Includes Free Upgrade For Switch Owners - Nintendo Life",
+      "source": {
+        "name": "Nintendo Life"
+      },
+      "description": "Set sail on Switch 2 with \"enhanced graphics\" and more...",
+      "url": "https://www.nintendolife.com/news/2025/09/one-piece-pirate-warriors-4-switch-2-edition-announced-includes-free-upgrade-for-switch-owners",
+      "publishedAt": "2025-09-15T08:10:00Z",
+      "processed_at": "2025-09-16T09:21:56.757488+00:00"
+    },
+    {
+      "title": "Xiaomi Hastens Flagship Smartphone Release to Take On iPhone 17 - Bloomberg.com",
+      "source": {
+        "name": "Bloomberg"
+      },
+      "description": "Xiaomi Corp. will release its next flagship smartphone this month and update its branding in a measu...",
+      "url": "https://www.bloomberg.com/news/articles/2025-09-15/xiaomi-hastens-flagship-smartphone-release-to-take-on-iphone-17",
+      "publishedAt": "2025-09-15T06:17:00Z",
+      "processed_at": "2025-09-16T09:21:56.757488+00:00"
+    },
     {
       "title": "Column | Asking Eric: Neighborhood gardener doesn’t want to chat about garden - The Washington Post",
       "source": {
@@ -10,17 +70,7 @@
       "description": "Letter writer’s gardening time is ruined by chatty neighbors....",
       "url": "https://www.washingtonpost.com/advice/2025/09/15/asking-eric-garden-neighbor-peace/",
       "publishedAt": "2025-09-15T05:31:50Z",
-      "processed_at": "2025-09-16T08:27:40.687882+00:00"
-    },
-    {
-      "title": "This Android brand is skipping an entire generation to rival the iPhone 17 - Android Authority",
-      "source": {
-        "name": "Android Authority"
-      },
-      "description": "Xiaomi has announced that its next set of flagships phone will launch under the Xiaomi 17 series ins...",
-      "url": "https://www.androidauthority.com/xiaomi-17-series-3597546/",
-      "publishedAt": "2025-09-15T04:09:41Z",
-      "processed_at": "2025-09-16T08:27:40.687882+00:00"
+      "processed_at": "2025-09-16T09:21:56.757488+00:00"
     },
     {
       "title": "It's official: The 'Snapdragon 8 Elite Gen 5' will power the next wave of Android flagships - Android Authority",
@@ -30,7 +80,7 @@
       "description": "Qualcomm has confirmed that its next flagship SoC will be called the Snapdragon 8 Elite Gen 5, comin...",
       "url": "https://www.androidauthority.com/qualcomm-snapdragon-8-elite-gen-5-branding-3597533/",
       "publishedAt": "2025-09-15T03:45:18Z",
-      "processed_at": "2025-09-16T08:27:40.687882+00:00"
+      "processed_at": "2025-09-16T09:21:56.757488+00:00"
     },
     {
       "title": "Google's 27th birthday bash comes with Pixel freebies and big discounts - Android Authority",
@@ -40,7 +90,7 @@
       "description": "Google is celebrating its 27th birthday with some sweet deals on the Pixel 10 Pro, Pixel 10 Pro XL, ...",
       "url": "https://www.androidauthority.com/google-store-birthday-pixel-deals-3597529/",
       "publishedAt": "2025-09-15T03:11:11Z",
-      "processed_at": "2025-09-16T08:27:40.687882+00:00"
+      "processed_at": "2025-09-16T09:21:56.757488+00:00"
     },
     {
       "title": "Here are the character usage stats for the first major 2XKO tournament since the closed beta - EventHubs",
@@ -50,40 +100,10 @@
       "description": "Ultimate Fighting Arena 2025 has been captivating fighting game fans over this past weekend. We've a...",
       "url": "https://www.eventhubs.com/news/2025/sep/14/2xko-character-usage-stats-beta/",
       "publishedAt": "2025-09-15T02:34:34Z",
-      "processed_at": "2025-09-16T08:27:40.687882+00:00"
-    },
-    {
-      "title": "Apple iPhone 17 demand tracking to surpass 16 based on delivery lead times- JPM - Investing.com",
-      "source": {
-        "name": "Investing.com"
-      },
-      "description": "Apple iPhone 17 demand tracking to surpass 16 based on delivery lead times- JPM...",
-      "url": "https://www.investing.com/news/stock-market-news/apple-iphone-17-demand-tracking-to-surpass-16-based-on-delivery-lead-times-jpm-4237869",
-      "publishedAt": "2025-09-15T01:55:30Z",
-      "processed_at": "2025-09-16T08:27:40.687882+00:00"
-    },
-    {
-      "title": "Rumor: smaller Dynamic Island but no under-screen Face ID for iPhone 18 - 9to5Mac",
-      "source": {
-        "name": "9to5Mac"
-      },
-      "description": "As Apple continues towards their goal of a true all-screen iPhone, it looks like the iPhone 18 will ...",
-      "url": "https://9to5mac.com/2025/09/14/rumor-smaller-dynamic-island-for-iphone-18/",
-      "publishedAt": "2025-09-14T23:27:00Z",
-      "processed_at": "2025-09-16T08:27:40.687882+00:00"
-    },
-    {
-      "title": "Top JUCO Prospect KJ Perry Talks BYU Basketball Official Visit - Vanquish The Foe",
-      "source": {
-        "name": "Vanquish The Foe"
-      },
-      "description": "",
-      "url": "https://www.vanquishthefoe.com/byu-basketball/25064/top-juco-prospect-kj-perry-talks-byu-basketball-official-visit-recruiting",
-      "publishedAt": "2025-09-14T21:39:40Z",
-      "processed_at": "2025-09-16T08:27:40.687882+00:00"
+      "processed_at": "2025-09-16T09:21:56.757488+00:00"
     }
   ],
-  "lastUpdated": "2025-09-16T08:27:40.687945+00:00",
+  "lastUpdated": "2025-09-16T09:21:56.757577+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
