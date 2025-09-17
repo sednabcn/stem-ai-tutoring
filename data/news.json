@@ -3,34 +3,54 @@
   "totalResults": 9,
   "articles": [
     {
-      "title": "YouTube says it has paid creators more than $100 billion over last 4 years - CNBC",
-      "source": {
-        "name": "CNBC"
-      },
-      "description": "The company also announced new artificial intelligence tools for YouTube Shorts, its short-form vert...",
-      "url": "https://www.cnbc.com/2025/09/16/youtube-creators-pay.html",
-      "publishedAt": "2025-09-16T14:30:01Z",
-      "processed_at": "2025-09-17T18:28:24.815956+00:00"
-    },
-    {
-      "title": "The Aurzen D1R Cube is the first Roku TV smart projector - The Verge",
+      "title": "Official watch bands for your new Apple Watch are $34 off at Woot - The Verge",
       "source": {
         "name": "The Verge"
       },
-      "description": "You’ll find Google TV on most smart projectors, but the Aurzen D1R Cube runs Roku TV with access to ...",
-      "url": "https://www.theverge.com/news/778121/roku-tv-os-aurzen-d1r-cube-smart-projector",
-      "publishedAt": "2025-09-16T13:00:00Z",
-      "processed_at": "2025-09-17T18:28:24.815956+00:00"
+      "description": "Woot has deeply discounted Apple Watch Solo Loop and Braided Loop bands. You can also save on a 128G...",
+      "url": "https://www.theverge.com/tech/778766/apple-watch-solo-loop-band-ipad-air-m3-deal-sale",
+      "publishedAt": "2025-09-16T15:30:00Z",
+      "processed_at": "2025-09-17T19:15:08.549350+00:00"
     },
     {
-      "title": "iOS 26: All the New iPhone Lock Screen Customizations - MacRumors",
+      "title": "Xbox Game Pass Expands With 13 More Games In September - GameSpot",
       "source": {
-        "name": "MacRumors"
+        "name": "GameSpot"
       },
-      "description": "Apple has now made iOS 26 available to download on compatible iPhone models, and if you just install...",
-      "url": "https://www.macrumors.com/2025/09/16/ios-26-whats-new-iphone-lock-screen/",
-      "publishedAt": "2025-09-16T12:56:55Z",
-      "processed_at": "2025-09-17T18:28:24.815956+00:00"
+      "description": "Here's a closer look at everything being added to Game Pass this month....",
+      "url": "https://www.gamespot.com/gallery/xbox-game-pass-expands-with-13-more-games-in-september/2900-7037/",
+      "publishedAt": "2025-09-16T14:53:10Z",
+      "processed_at": "2025-09-17T19:15:08.549350+00:00"
+    },
+    {
+      "title": "Google Puts Its Popular AI Video Generator Into YouTube Shorts - The Wall Street Journal",
+      "source": {
+        "name": "The Wall Street Journal"
+      },
+      "description": "",
+      "url": "https://www.wsj.com/tech/ai/youtube-shorts-veo-3-ai-video-03103dc7",
+      "publishedAt": "2025-09-16T14:30:00Z",
+      "processed_at": "2025-09-17T19:15:08.549350+00:00"
+    },
+    {
+      "title": "iOS 26 Draining Your Battery? Apple Says It's Normal - CNET",
+      "source": {
+        "name": "CNET"
+      },
+      "description": "Some iPhones experience faster battery drain after an update, but Apple says this is temporary....",
+      "url": "https://www.cnet.com/tech/services-and-software/ios-26-draining-your-battery-apple-says-its-normal/",
+      "publishedAt": "2025-09-16T13:31:00Z",
+      "processed_at": "2025-09-17T19:15:08.549350+00:00"
+    },
+    {
+      "title": "Roku's first TV projector gives you a 150-inch screen - for less than $200 - ZDNET",
+      "source": {
+        "name": "ZDNet"
+      },
+      "description": "The Roku TV Smart Projector D1R Cube offers 1080p HD, 330 ANSI lumens, and dual 5W speakers, plus su...",
+      "url": "https://www.zdnet.com/home-and-office/home-entertainment/rokus-first-tv-projector-gives-you-a-150-inch-screen-for-less-than-200/",
+      "publishedAt": "2025-09-16T13:00:00Z",
+      "processed_at": "2025-09-17T19:15:08.549350+00:00"
     },
     {
       "title": "Gearbox CEO Randy Pitchford tells Borderlands 4 critics to \"code your own engine,\" calls it a game for \"premium gamers\" - TechSpot",
@@ -40,7 +60,7 @@
       "description": "While Borderlands 4 has received mostly positive reviews from critics, players have slammed the awfu...",
       "url": "https://www.techspot.com/news/109487-gearbox-ceo-randy-pitchford-tells-borderlands-4-critics.html",
       "publishedAt": "2025-09-16T12:03:00Z",
-      "processed_at": "2025-09-17T18:28:24.815956+00:00"
+      "processed_at": "2025-09-17T19:15:08.549350+00:00"
     },
     {
       "title": "Meta’s new smart glasses are coming this week - The Verge",
@@ -50,7 +70,7 @@
       "description": "Mark Zuckerberg is set to keynote Meta Connect 2025 on Wednesday at 8PM ET, and we’re expecting to s...",
       "url": "https://www.theverge.com/news/777541/meta-connect-2025-what-to-expect",
       "publishedAt": "2025-09-16T12:00:00Z",
-      "processed_at": "2025-09-17T18:28:24.815956+00:00"
+      "processed_at": "2025-09-17T19:15:08.549350+00:00"
     },
     {
       "title": "Hollow Knight: Silksong's second patch detailed, but don't expect any balance tweaks - Eurogamer",
@@ -60,40 +80,20 @@
       "description": "More fixes to bugs coming to Hollow Knight: Silksong, rather than any significant tweaks....",
       "url": "https://www.eurogamer.net/hollow-knight-silksongs-second-patch-detailed-but-dont-expect-any-balance-tweaks",
       "publishedAt": "2025-09-16T11:49:11Z",
-      "processed_at": "2025-09-17T18:28:24.815956+00:00"
+      "processed_at": "2025-09-17T19:15:08.549350+00:00"
     },
     {
-      "title": "AirPods Pro 3 heart rate monitoring ‘mind-bogglingly good’ – unlike PowerBeats 2 Pro - 9to5Mac",
+      "title": "One AirPods Pro 3 Feature Upgrade Comes With a Catch - MacRumors",
       "source": {
-        "name": "9to5Mac"
+        "name": "MacRumors"
       },
-      "description": "We yesterday published our own in-depth review of AirPods Pro 3, with our editor-in-chief Chance Mil...",
-      "url": "https://9to5mac.com/2025/09/16/airpods-pro-3-heart-rate-monitoring-mind-bogglingly-good-unlike-powerbeats-2-pro/",
-      "publishedAt": "2025-09-16T11:25:00Z",
-      "processed_at": "2025-09-17T18:28:24.815956+00:00"
-    },
-    {
-      "title": "MediaTek Tapes Out Flagship SoC Using TSMC’s 2nm Process, Mass Production & Availability By End of 2026 - Wccftech",
-      "source": {
-        "name": "Wccftech"
-      },
-      "description": "MediaTek has announced the tape-out of its flagship SoC, fabricated on TSMC's 2nm process node, whic...",
-      "url": "https://wccftech.com/mediatek-tapes-out-flagship-soc-tsmc-2nm-process-production-availability-end-2026/",
-      "publishedAt": "2025-09-16T11:14:00Z",
-      "processed_at": "2025-09-17T18:28:24.815956+00:00"
-    },
-    {
-      "title": "Hollow Knight: Silksong is reportedly already about a third of the way to the original's total sales, with Steam leading the charge - Eurogamer",
-      "source": {
-        "name": "Eurogamer.net"
-      },
-      "description": "Hollow Knight: Silksong has sold 3.2m copies on Steam alone since its release, according to analyst ...",
-      "url": "https://www.eurogamer.net/hollow-knight-silksong-is-reportedly-already-about-a-third-of-the-way-to-the-originals-total-sales-with-steam-leading-the-charge",
-      "publishedAt": "2025-09-16T10:50:42Z",
-      "processed_at": "2025-09-17T18:28:24.815956+00:00"
+      "description": "Apple's new AirPods Pro 3 boast a range of new features and improvements that make them a tempting u...",
+      "url": "https://www.macrumors.com/2025/09/16/airpods-pro-3-feature-iphone-17/",
+      "publishedAt": "2025-09-16T11:06:27Z",
+      "processed_at": "2025-09-17T19:15:08.549350+00:00"
     }
   ],
-  "lastUpdated": "2025-09-17T18:28:24.816042+00:00",
+  "lastUpdated": "2025-09-17T19:15:08.549413+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
