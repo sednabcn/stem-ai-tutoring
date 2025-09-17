@@ -1,16 +1,36 @@
 {
   "status": "success",
-  "totalResults": 10,
+  "totalResults": 9,
   "articles": [
     {
-      "title": "'Meta Ray-Ban Display' glasses leak with impressive heads-up display, thicker design [Video] - 9to5Google",
+      "title": "Silksong Memorializes Fan Who Lost Battle With Cancer - Kotaku",
       "source": {
-        "name": "9to5google.com"
+        "name": "Kotaku"
       },
-      "description": "A massive leak has revealed Meta's new Ray-Ban Display smart glasses which, as the name implies, hav...",
-      "url": "http://9to5google.com/2025/09/15/meta-ray-ban-display-glasses-leak/",
-      "publishedAt": "2025-09-15T20:45:00Z",
-      "processed_at": "2025-09-16T23:15:15.922426+00:00"
+      "description": "Seth Goldman’s memory lives on as a Shrine Guardian...",
+      "url": "https://kotaku.com/silksong-hollow-knight-team-cherry-seth-goldman-2000625769",
+      "publishedAt": "2025-09-15T20:24:31Z",
+      "processed_at": "2025-09-17T01:26:08.964185+00:00"
+    },
+    {
+      "title": "Governor Points To Games And Memes In Radicalization Of Charlie Kirk Shooter - Kotaku",
+      "source": {
+        "name": "Kotaku"
+      },
+      "description": "Utah's governor suggests 'deep, dark internet' and gaming had a role in the assassination...",
+      "url": "https://kotaku.com/charlie-kirk-shooter-tyler-robinson-discord-reddit-memes-2000625746",
+      "publishedAt": "2025-09-15T19:34:40Z",
+      "processed_at": "2025-09-17T01:26:08.964185+00:00"
+    },
+    {
+      "title": "Snap unveils Snap OS 2.0 with native browser, WebXR support, and more - TechCrunch",
+      "source": {
+        "name": "TechCrunch"
+      },
+      "description": "The launch comes as the company rolled out its fifth-generation Snap Spectacles for developers last ...",
+      "url": "https://techcrunch.com/2025/09/15/snap-unveils-snap-os-2-0-with-native-browser-webxr-support-and-more/",
+      "publishedAt": "2025-09-15T18:46:13Z",
+      "processed_at": "2025-09-17T01:26:08.964185+00:00"
     },
     {
       "title": "Super Mario Galaxy + Super Mario Galaxy 2 to offer mouse controls on Nintendo Switch 2 - Nintendo Everything",
@@ -20,7 +40,17 @@
       "description": "Nintendo has now confirmed mouse control support for Super Mario Galaxy + Super Mario Galaxy 2 on Sw...",
       "url": "https://nintendoeverything.com/super-mario-galaxy-super-mario-galaxy-2-to-offer-mouse-controls-on-nintendo-switch-2/",
       "publishedAt": "2025-09-15T18:43:34Z",
-      "processed_at": "2025-09-16T23:15:15.922426+00:00"
+      "processed_at": "2025-09-17T01:26:08.964185+00:00"
+    },
+    {
+      "title": "React is winning by default and slowing innovation - Hacker News",
+      "source": {
+        "name": "Hacker News"
+      },
+      "description": "",
+      "url": "https://news.ycombinator.com/item?id\\\\u003d45252715",
+      "publishedAt": "2025-09-15T18:15:15Z",
+      "processed_at": "2025-09-17T01:26:08.964185+00:00"
     },
     {
       "title": "Apple’s iOS 26 with the new Liquid Glass design is now available to everyone - TechCrunch",
@@ -30,47 +60,27 @@
       "description": "Other features include a call screening assistant, a new gaming and preview app, in-app translation ...",
       "url": "https://techcrunch.com/2025/09/15/apples-ios-26-with-the-new-liquid-glass-design-is-now-available-to-everyone/",
       "publishedAt": "2025-09-15T17:45:19Z",
-      "processed_at": "2025-09-16T23:15:15.922426+00:00"
+      "processed_at": "2025-09-17T01:26:08.964185+00:00"
     },
     {
-      "title": "Microsoft’s Office apps now have free Copilot Chat features - The Verge",
+      "title": "Metroid Prime 4: Beyond Is Up for Preorder, Out December 4 - IGN",
+      "source": {
+        "name": "IGN"
+      },
+      "description": "Everything you need to know to preorder Metroid Prime 4: Beyond for Nintendo Switch or Switch 2, inc...",
+      "url": "https://www.ign.com/articles/metroid-prime-4-beyond-where-to-buy",
+      "publishedAt": "2025-09-15T17:23:39Z",
+      "processed_at": "2025-09-17T01:26:08.964185+00:00"
+    },
+    {
+      "title": "The unbearable sameness of Liquid Glass - The Verge",
       "source": {
         "name": "The Verge"
       },
-      "description": "Microsoft is adding Copilot Chat to its Office apps. The free AI features are appearing in Word, Exc...",
-      "url": "https://www.theverge.com/news/778272/microsoft-office-free-copilot-ai-features-copilot-chat",
-      "publishedAt": "2025-09-15T17:32:55Z",
-      "processed_at": "2025-09-16T23:15:15.922426+00:00"
-    },
-    {
-      "title": "Apple releases tvOS 26 software update for Apple TV, here’s what’s new - 9to5Mac",
-      "source": {
-        "name": "9to5Mac"
-      },
-      "description": "Apple today released the brand new tvOS 26 version for the Apple TV 4K set-top box. The update is av...",
-      "url": "https://9to5mac.com/2025/09/15/apple-releases-tvos-26-software-update-for-apple-tv-heres-whats-new/",
-      "publishedAt": "2025-09-15T17:28:00Z",
-      "processed_at": "2025-09-16T23:15:15.922426+00:00"
-    },
-    {
-      "title": "AirPods just got these brand new features in iOS 26 - 9to5Mac",
-      "source": {
-        "name": "9to5Mac"
-      },
-      "description": "AirPods are getting a variety of big and small new features in iOS 26, here’s an overview of everyth...",
-      "url": "https://9to5mac.com/2025/09/15/airpods-just-got-these-brand-new-features-in-ios-26/",
-      "publishedAt": "2025-09-15T17:21:00Z",
-      "processed_at": "2025-09-16T23:15:15.922426+00:00"
-    },
-    {
-      "title": "Overwatch 2 Reveals Persona 5 Skins For Mercy, Genji, More - Kotaku",
-      "source": {
-        "name": "Kotaku"
-      },
-      "description": "The Phantom Thieves are joining in the Fortnite-ification of Blizzard’s hero shooter...",
-      "url": "https://kotaku.com/overwatch-2-persona-5-skins-crossover-mercy-genji-joker-2000625739",
-      "publishedAt": "2025-09-15T17:16:24Z",
-      "processed_at": "2025-09-16T23:15:15.922426+00:00"
+      "description": "Apple’s new cross-platform design system, Liquid Glass, is coming to iPhone, Watch, and more. But it...",
+      "url": "https://www.theverge.com/apple/778197/liquid-glass-iphone-watch-ipad-mac",
+      "publishedAt": "2025-09-15T17:07:08Z",
+      "processed_at": "2025-09-17T01:26:08.964185+00:00"
     },
     {
       "title": "Apple releases macOS Tahoe 26 with more powerful Spotlight search and its own Phone app - The Verge",
@@ -80,30 +90,10 @@
       "description": "The last major macOS update for Intel-based Macs brings new translation capabilities and Apple Intel...",
       "url": "https://www.theverge.com/news/777521/apple-macos-tahoe-26-now-available-download-update",
       "publishedAt": "2025-09-15T17:07:06Z",
-      "processed_at": "2025-09-16T23:15:15.922426+00:00"
-    },
-    {
-      "title": "watchOS 26 is now available with a new wrist flick gesture and Notes on your wrist - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "First announced at WWDC 2025, watchOS 26 is now available and brings new health features, translatio...",
-      "url": "https://www.theverge.com/news/777319/apple-watchos-26-available-update-download",
-      "publishedAt": "2025-09-15T17:06:29Z",
-      "processed_at": "2025-09-16T23:15:15.922426+00:00"
-    },
-    {
-      "title": "Hollow Knight: Silksong's surprise release date was \"a little callous,\" says Hell is Us lead - GamesIndustry.biz",
-      "source": {
-        "name": "GamesIndustry.biz"
-      },
-      "description": "\"Nowadays, getting a window where you're pretty much alone is almost impossible,\" says Hell is Us cr...",
-      "url": "https://www.gamesindustry.biz/hollow-knight-silksongs-surprise-release-date-was-a-little-callous-says-hell-is-us-lead",
-      "publishedAt": "2025-09-15T15:51:11Z",
-      "processed_at": "2025-09-16T23:15:15.922426+00:00"
+      "processed_at": "2025-09-17T01:26:08.964185+00:00"
     }
   ],
-  "lastUpdated": "2025-09-16T23:15:15.922499+00:00",
+  "lastUpdated": "2025-09-17T01:26:08.964252+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
