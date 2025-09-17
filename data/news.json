@@ -1,36 +1,86 @@
 {
   "status": "success",
-  "totalResults": 7,
+  "totalResults": 9,
   "articles": [
     {
-      "title": "Google’s new Windows desktop app brings a Spotlight-like search bar to PC - The Verge",
+      "title": "Consumer Reports asks Microsoft to keep supporting Windows 10 - The Verge",
       "source": {
         "name": "The Verge"
       },
-      "description": "Google is testing a new app on Windows that you can use to search your files, Drive, and the web....",
-      "url": "https://www.theverge.com/news/778940/google-app-windows-launch",
-      "publishedAt": "2025-09-16T16:32:10Z",
-      "processed_at": "2025-09-17T22:17:04.997166+00:00"
+      "description": "The organization argues that ending Windows 10 support will ‘strand millions of consumers.’...",
+      "url": "https://www.theverge.com/news/779079/consumer-reports-windows-10-extended-support-microsoft",
+      "publishedAt": "2025-09-16T19:49:59Z",
+      "processed_at": "2025-09-17T23:17:53.694516+00:00"
     },
     {
-      "title": "Here’s everything new for CarPlay in iOS 26 - 9to5Mac",
+      "title": "Google rolls out new Windows desktop app with Spotlight-like search tool - TechCrunch",
       "source": {
-        "name": "9to5Mac"
+        "name": "TechCrunch"
       },
-      "description": "iOS 26 brings CarPlay’s biggest update in years, here are all the new features for your car after yo...",
-      "url": "https://9to5mac.com/2025/09/16/carplay-in-ios-26-heres-everything-new/",
-      "publishedAt": "2025-09-16T15:05:00Z",
-      "processed_at": "2025-09-17T22:17:04.997166+00:00"
+      "description": "The app will allow people to use an Alt + Space shortcut to instantly search for information from th...",
+      "url": "https://techcrunch.com/2025/09/16/google-rolls-out-new-windows-desktop-app-with-spotlight-like-search-tool/",
+      "publishedAt": "2025-09-16T18:24:22Z",
+      "processed_at": "2025-09-17T23:17:53.694516+00:00"
     },
     {
-      "title": "Google Puts Its Popular AI Video Generator Into YouTube Shorts - The Wall Street Journal",
+      "title": "Xbox App Now Launches Games From Steam And Other Game Stores - GameSpot",
       "source": {
-        "name": "The Wall Street Journal"
+        "name": "GameSpot"
       },
-      "description": "A free, simplified version of Veo 3 is available to app users to make vertical videos using just a t...",
-      "url": "https://www.wsj.com/tech/ai/youtube-shorts-veo-3-ai-video-03103dc7",
-      "publishedAt": "2025-09-16T14:30:00Z",
-      "processed_at": "2025-09-17T22:17:04.997166+00:00"
+      "description": "The long-promised aggregated library update finally comes to all Xbox PC users....",
+      "url": "https://www.gamespot.com/articles/xbox-app-now-launches-games-from-steam-and-other-game-stores/1100-6534775/",
+      "publishedAt": "2025-09-16T17:30:10Z",
+      "processed_at": "2025-09-17T23:17:53.694516+00:00"
+    },
+    {
+      "title": "Bethesda deletes Indiana Jones clip after accusations that it mocks Charlie Kirk - PCGamesN",
+      "source": {
+        "name": "PCGamesN"
+      },
+      "description": "Bethesda's now-deleted X post appears to have been part of a wider social media push for the new Ind...",
+      "url": "https://www.pcgamesn.com/indiana-jones-and-the-great-circle/clip-removed-fascism-row",
+      "publishedAt": "2025-09-16T16:00:15Z",
+      "processed_at": "2025-09-17T23:17:53.694516+00:00"
+    },
+    {
+      "title": "Motorola Moto G36 surfaces on TENAA with 7,000mAh battery, 6.72\" 1080p+ LCD - GSMArena.com news - GSMArena.com",
+      "source": {
+        "name": "GSMArena.com"
+      },
+      "description": "This sounds like the same display as on the Moto G56, but paired with a much larger battery - the G5...",
+      "url": "https://www.gsmarena.com/motorola_moto_g36_surfaces_on_tenaa_with_7000mah_battery_672_1080p_lcd-news-69517.php",
+      "publishedAt": "2025-09-16T15:48:02Z",
+      "processed_at": "2025-09-17T23:17:53.694516+00:00"
+    },
+    {
+      "title": "Alphabet-Owned (GOOGL) YouTube Says It’s Paid $100 Billion to Creators - TipRanks",
+      "source": {
+        "name": "Tipranks.com"
+      },
+      "description": "The video-sharing platform turns 20 this year....",
+      "url": "https://www.tipranks.com/news/alphabet-owned-googl-youtube-says-its-paid-100-billion-to-creators",
+      "publishedAt": "2025-09-16T15:35:58Z",
+      "processed_at": "2025-09-17T23:17:53.694516+00:00"
+    },
+    {
+      "title": "iPhone 17 Pro vs. 17 Pro Max Buyer's Guide: 8 Differences Compared - MacRumors",
+      "source": {
+        "name": "MacRumors"
+      },
+      "description": "Apple recently unveiled the iPhone 17 Pro and iPhone 17 Pro Max, featuring a new Fusion telephoto ca...",
+      "url": "https://www.macrumors.com/guide/iphone-17-pro-vs-17-pro-max/",
+      "publishedAt": "2025-09-16T14:50:12Z",
+      "processed_at": "2025-09-17T23:17:53.694516+00:00"
+    },
+    {
+      "title": "AT&T’s AI call-screening tool uses your call history to filter out spam - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "AT&T is launching an AI-powered assistant that can pick up calls from unknown numbers and determine ...",
+      "url": "https://www.theverge.com/news/778518/att-ai-call-screening-digital-receptionist",
+      "publishedAt": "2025-09-16T13:00:00Z",
+      "processed_at": "2025-09-17T23:17:53.694516+00:00"
     },
     {
       "title": "Roku's first TV projector gives you a 150-inch screen - for less than $200 - ZDNET",
@@ -40,40 +90,10 @@
       "description": "The Roku TV Smart Projector D1R Cube offers 1080p HD, 330 ANSI lumens, and dual 5W speakers, plus su...",
       "url": "https://www.zdnet.com/home-and-office/home-entertainment/rokus-first-tv-projector-gives-you-a-150-inch-screen-for-less-than-200/",
       "publishedAt": "2025-09-16T13:00:00Z",
-      "processed_at": "2025-09-17T22:17:04.997166+00:00"
-    },
-    {
-      "title": "Gearbox CEO Randy Pitchford tells Borderlands 4 critics to \"code your own engine,\" calls it a game for \"premium gamers\" - TechSpot",
-      "source": {
-        "name": "TechSpot"
-      },
-      "description": "While Borderlands 4 has received mostly positive reviews from critics, players have slammed the awfu...",
-      "url": "https://www.techspot.com/news/109487-gearbox-ceo-randy-pitchford-tells-borderlands-4-critics.html",
-      "publishedAt": "2025-09-16T12:03:00Z",
-      "processed_at": "2025-09-17T22:17:04.997166+00:00"
-    },
-    {
-      "title": "MediaTek Tapes Out Flagship SoC Using TSMC’s 2nm Process, Mass Production & Availability By End of 2026 - Wccftech",
-      "source": {
-        "name": "Wccftech"
-      },
-      "description": "MediaTek has announced the tape-out of its flagship SoC, fabricated on TSMC's 2nm process node, whic...",
-      "url": "https://wccftech.com/mediatek-tapes-out-flagship-soc-tsmc-2nm-process-production-availability-end-2026/",
-      "publishedAt": "2025-09-16T11:14:00Z",
-      "processed_at": "2025-09-17T22:17:04.997166+00:00"
-    },
-    {
-      "title": "Super Mario Galaxy 1 + 2 Switch Comparison Video Makes Nintendo's Upgrades Clearer - Nintendo Life",
-      "source": {
-        "name": "Nintendo Life"
-      },
-      "description": "Silver wallet linings?...",
-      "url": "https://www.nintendolife.com/news/2025/09/super-mario-galaxy-1-plus-2-switch-comparison-video-makes-nintendos-upgrades-clearer",
-      "publishedAt": "2025-09-16T10:00:00Z",
-      "processed_at": "2025-09-17T22:17:04.997166+00:00"
+      "processed_at": "2025-09-17T23:17:53.694516+00:00"
     }
   ],
-  "lastUpdated": "2025-09-17T22:17:04.997228+00:00",
+  "lastUpdated": "2025-09-17T23:17:53.694580+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
