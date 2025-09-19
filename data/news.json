@@ -1,36 +1,46 @@
 {
   "status": "success",
-  "totalResults": 10,
+  "totalResults": 9,
   "articles": [
     {
-      "title": "Meta Connect 2025 as it happened: Ray-Ban Display, Oakley Vanguard smart glasses, more - ZDNET",
+      "title": "Galaxy S25 One UI 8 update going out to more users - SamMobile",
       "source": {
-        "name": "ZDNet"
+        "name": "SamMobile"
       },
-      "description": "",
-      "url": "https://www.zdnet.com/article/meta-connect-2025-as-it-happened-live-ray-ban-display-oakley-vanguard-smart-glasses-more/",
-      "publishedAt": "2025-09-18T02:01:00Z",
-      "processed_at": "2025-09-19T03:00:59.680807+00:00"
+      "description": "On Monday, Samsung released the stable version of Android 16-based One UI 8.0 to the Galaxy S25 seri...",
+      "url": "https://www.sammobile.com/news/galaxy-s25-one-ui-8-update-going-out-more-users/",
+      "publishedAt": "2025-09-18T03:09:54Z",
+      "processed_at": "2025-09-19T04:24:00.630326+00:00"
     },
     {
-      "title": "Photographer Tyler Stalman reviews the iPhone 17, iPhone Air, and iPhone 17 Pro cameras - 9to5Mac",
+      "title": "Nintendo Expands Switch Online's GBA Library With Two More Titles - Nintendo Life",
+      "source": {
+        "name": "Nintendo Life"
+      },
+      "description": "Joining the 'Nintendo Classics' library next week...",
+      "url": "https://www.nintendolife.com/news/2025/09/nintendo-expands-switch-onlines-gba-library-with-two-more-titles",
+      "publishedAt": "2025-09-18T01:05:00Z",
+      "processed_at": "2025-09-19T04:24:00.630326+00:00"
+    },
+    {
+      "title": "Here's every new feature for Pixels in Android 16 QPR2 Beta 2 - Android Authority",
+      "source": {
+        "name": "Android Authority"
+      },
+      "description": "Google rolled out Android 16 QPR2 Beta 2 for Pixel devices, and it brings several exciting new featu...",
+      "url": "https://www.androidauthority.com/android-16-qpr2-beta-2-features-3598245/",
+      "publishedAt": "2025-09-17T20:57:58Z",
+      "processed_at": "2025-09-19T04:24:00.630326+00:00"
+    },
+    {
+      "title": "Here’s how the iPhone 17 Pro vapor chamber actually works - 9to5Mac",
       "source": {
         "name": "9to5Mac"
       },
-      "description": "In a new video shot entirely on the iPhone 17 Pro, he takes an in-depth look at the cameras on the n...",
-      "url": "https://9to5mac.com/2025/09/17/photographer-tyler-stalman-reviews-the-iphone-17-iphone-air-and-iphone-17-pro-cameras/",
-      "publishedAt": "2025-09-17T23:39:00Z",
-      "processed_at": "2025-09-19T03:00:59.680807+00:00"
-    },
-    {
-      "title": "Google rolling out Android 16 QPR2 Beta 2 for Pixel - 9to5Google",
-      "source": {
-        "name": "9to5google.com"
-      },
-      "description": "The Android 16 Beta Program continues today with QPR2 Beta 2 for Google devices, including the Pixel...",
-      "url": "http://9to5google.com/2025/09/17/android-16-qpr2-beta-2-pixel/",
-      "publishedAt": "2025-09-17T20:02:00Z",
-      "processed_at": "2025-09-19T03:00:59.680807+00:00"
+      "description": "If you’ve never really looked into how this heat dissipation component works, the video below will t...",
+      "url": "https://9to5mac.com/2025/09/17/heres-how-the-iphone-17-pro-vapor-chamber-actually-works/",
+      "publishedAt": "2025-09-17T20:40:00Z",
+      "processed_at": "2025-09-19T04:24:00.630326+00:00"
     },
     {
       "title": "Watch the iPhone Air survive 130 pounds of pressure in extreme bend test - Tom's Guide",
@@ -40,37 +50,17 @@
       "description": "Drop it, scratch it, bend it...",
       "url": "https://www.tomsguide.com/phones/iphones/apples-iphone-durability-test-clips-show-how-it-made-sure-the-iphone-air-and-iphone-17-series-are-built-to-last",
       "publishedAt": "2025-09-17T19:55:34Z",
-      "processed_at": "2025-09-19T03:00:59.680807+00:00"
-    },
-    {
-      "title": "We hacked the new Windows 11 Xbox Mode onto the old ROG Ally — how does it optimize performance? - Windows Central",
-      "source": {
-        "name": "Windows Central"
-      },
-      "description": "Microsoft's new handheld gaming mode for Windows 11 is launching first on the upcoming Xbox Ally and...",
-      "url": "https://www.windowscentral.com/hardware/handheld-gaming-pc/we-hacked-the-new-windows-11-xbox-mode-onto-the-old-rog-ally-how-does-it-optimize-performance",
-      "publishedAt": "2025-09-17T19:00:00Z",
-      "processed_at": "2025-09-19T03:00:59.680807+00:00"
+      "processed_at": "2025-09-19T04:24:00.630326+00:00"
     },
     {
       "title": "Donkey Kong Bananza: DK Island and Emerald Rush Review - IGN",
       "source": {
         "name": "IGN"
       },
-      "description": "",
+      "description": "Donkey Kong Bananza’s DLC is an enjoyable but inessential expansion to DK and Pauline’s grand advent...",
       "url": "https://www.ign.com/articles/donkey-kong-bananza-dk-island-and-emerald-rush-review",
       "publishedAt": "2025-09-17T18:45:00Z",
-      "processed_at": "2025-09-19T03:00:59.680807+00:00"
-    },
-    {
-      "title": "The iPhone Air’s real breakthrough is its battery - TechCrunch",
-      "source": {
-        "name": "TechCrunch"
-      },
-      "description": "Apple's slimmest iPhone uses a \"revolutionary\" battery design that allows the cell to fill more spac...",
-      "url": "https://techcrunch.com/2025/09/17/the-iphone-airs-real-breakthrough-is-its-battery/",
-      "publishedAt": "2025-09-17T18:38:13Z",
-      "processed_at": "2025-09-19T03:00:59.680807+00:00"
+      "processed_at": "2025-09-19T04:24:00.630326+00:00"
     },
     {
       "title": "AirPods Pro 3 vs AirPods Pro 1: What’s new after two generations? - 9to5Mac",
@@ -80,7 +70,7 @@
       "description": "AirPods Pro 3 are set to launch in just two days, and they’re a rather notable upgrade – even if......",
       "url": "https://9to5mac.com/2025/09/17/airpods-pro-3-vs-original-airpods-pro-1-comparison/",
       "publishedAt": "2025-09-17T17:28:00Z",
-      "processed_at": "2025-09-19T03:00:59.680807+00:00"
+      "processed_at": "2025-09-19T04:24:00.630326+00:00"
     },
     {
       "title": "Apple Details iOS 26 Features Like Call Screening, Live Translation, AutoMix, and More - MacRumors",
@@ -90,7 +80,7 @@
       "description": "Apple has updated its iPhone User Guide, and published a series of support documents, with more deta...",
       "url": "https://www.macrumors.com/2025/09/17/apple-details-ios-26-features/",
       "publishedAt": "2025-09-17T17:11:18Z",
-      "processed_at": "2025-09-19T03:00:59.680807+00:00"
+      "processed_at": "2025-09-19T04:24:00.630326+00:00"
     },
     {
       "title": "Two More Heroes Join Marvel Cosmic Invasion ‘s Already Large Roster - Kotaku",
@@ -100,10 +90,10 @@
       "description": "We now know 12 of the 15 characters that will be playable when the co-op brawler launches later this...",
       "url": "https://kotaku.com/two-new-heroes-marvel-cosmic-invasion-full-roster-black-panther-ghost-rider-2000626521",
       "publishedAt": "2025-09-17T17:04:20Z",
-      "processed_at": "2025-09-19T03:00:59.680807+00:00"
+      "processed_at": "2025-09-19T04:24:00.630326+00:00"
     }
   ],
-  "lastUpdated": "2025-09-19T03:00:59.680896+00:00",
+  "lastUpdated": "2025-09-19T04:24:00.630397+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
