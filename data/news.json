@@ -1,7 +1,27 @@
 {
   "status": "success",
-  "totalResults": 9,
+  "totalResults": 10,
   "articles": [
+    {
+      "title": "Super Mario Galaxy + Super Mario Galaxy 2 Switch Online Icons Revealed - Nintendo Life",
+      "source": {
+        "name": "Nintendo Life"
+      },
+      "description": "Three waves starting next week...",
+      "url": "https://www.nintendolife.com/news/2025/09/super-mario-galaxy-plus-super-mario-galaxy-2-switch-online-icons-revealed",
+      "publishedAt": "2025-09-18T09:45:00Z",
+      "processed_at": "2025-09-19T11:16:43.964662+00:00"
+    },
+    {
+      "title": "Samsung’s biggest new phone in years may launch in the US this year - CNN",
+      "source": {
+        "name": "CNN"
+      },
+      "description": "The longtime rivalry between the world’s two largest smartphone makers is about to enter its next ph...",
+      "url": "https://www.cnn.com/2025/09/18/tech/samsung-trifold-phone-galaxy-s26-edge",
+      "publishedAt": "2025-09-18T09:00:06Z",
+      "processed_at": "2025-09-19T11:16:43.964662+00:00"
+    },
     {
       "title": "Galaxy S25 One UI 8 update is now rolling out worldwide - SamMobile",
       "source": {
@@ -10,7 +30,17 @@
       "description": "Samsung had promised that it would begin the One UI 8 stable roll out in September, and the company ...",
       "url": "https://www.sammobile.com/news/galaxy-s25-one-ui-8-update-worldwide-rollout/",
       "publishedAt": "2025-09-18T05:48:45Z",
-      "processed_at": "2025-09-19T10:21:35.577592+00:00"
+      "processed_at": "2025-09-19T11:16:43.964662+00:00"
+    },
+    {
+      "title": "Meta Connect 2025 live updates: Ray-Ban Display, Oakley Vanguard glasses, more - ZDNET",
+      "source": {
+        "name": "ZDNet"
+      },
+      "description": "Meta has unveiled its first display-enabled smart glasses, refreshed its Ray-Ban lineup, and launch ...",
+      "url": "https://www.zdnet.com/article/meta-connect-2025-live-updates-reactions-to-ray-ban-display-oakley-vanguard-glasses-more/",
+      "publishedAt": "2025-09-18T03:43:00Z",
+      "processed_at": "2025-09-19T11:16:43.964662+00:00"
     },
     {
       "title": "Nintendo Expands Switch Online's GBA Library With Two More Titles - Nintendo Life",
@@ -20,7 +50,7 @@
       "description": "Joining the 'Nintendo Classics' library next week...",
       "url": "https://www.nintendolife.com/news/2025/09/nintendo-expands-switch-onlines-gba-library-with-two-more-titles",
       "publishedAt": "2025-09-18T01:05:00Z",
-      "processed_at": "2025-09-19T10:21:35.577592+00:00"
+      "processed_at": "2025-09-19T11:16:43.964662+00:00"
     },
     {
       "title": "Meta launches Hyperscape, technology to turn real-world spaces into VR - TechCrunch",
@@ -30,7 +60,7 @@
       "description": "Meta launches Hyperscape into beta, allowing users to turn real world spaces into digital spaces for...",
       "url": "https://techcrunch.com/2025/09/17/meta-launches-hyperscape-technology-to-turn-real-world-spaces-into-vr/",
       "publishedAt": "2025-09-18T00:43:31Z",
-      "processed_at": "2025-09-19T10:21:35.577592+00:00"
+      "processed_at": "2025-09-19T11:16:43.964662+00:00"
     },
     {
       "title": "Photographer Tyler Stalman reviews the iPhone 17, iPhone Air, and iPhone 17 Pro cameras - 9to5Mac",
@@ -40,7 +70,7 @@
       "description": "In a new video shot entirely on the iPhone 17 Pro, he takes an in-depth look at the cameras on the n...",
       "url": "https://9to5mac.com/2025/09/17/photographer-tyler-stalman-reviews-the-iphone-17-iphone-air-and-iphone-17-pro-cameras/",
       "publishedAt": "2025-09-17T23:39:00Z",
-      "processed_at": "2025-09-19T10:21:35.577592+00:00"
+      "processed_at": "2025-09-19T11:16:43.964662+00:00"
     },
     {
       "title": "Apple Explains How Hypertension Alerts Work on Apple Watch - MacRumors",
@@ -50,7 +80,7 @@
       "description": "With watchOS 26, the Apple Watch Series 9 and later and the Apple Watch Ultra 2 and later support Hy...",
       "url": "https://www.macrumors.com/2025/09/17/apple-watch-hypertension-alerts/",
       "publishedAt": "2025-09-17T23:14:00Z",
-      "processed_at": "2025-09-19T10:21:35.577592+00:00"
+      "processed_at": "2025-09-19T11:16:43.964662+00:00"
     },
     {
       "title": "The Ridiculous Engineering That Turned A Regular Ford Mustang Into An 815 Horsepower Track Monster Called The 'GTD' - The Autopian",
@@ -60,40 +90,20 @@
       "description": "The two complaints I hear most about the $330,000 Ford Mustang GTD are: 1. “That’s barely even a Mus...",
       "url": "https://www.theautopian.com/the-ridiculous-engineering-that-turned-a-regular-ford-mustang-into-an-815-horsepower-track-monster-called-the-gtd/",
       "publishedAt": "2025-09-17T21:56:15Z",
-      "processed_at": "2025-09-19T10:21:35.577592+00:00"
+      "processed_at": "2025-09-19T11:16:43.964662+00:00"
     },
     {
-      "title": "Google rolling out Android 16 QPR2 Beta 2 for Pixel - 9to5Google",
+      "title": "Watch the iPhone Air survive 130 pounds of pressure in extreme bend test - Tom's Guide",
       "source": {
-        "name": "9to5google.com"
+        "name": "Tom's Guide"
       },
-      "description": "The Android 16 Beta Program continues today with QPR2 Beta 2 for Google devices, including the Pixel...",
-      "url": "http://9to5google.com/2025/09/17/android-16-qpr2-beta-2-pixel/",
-      "publishedAt": "2025-09-17T20:02:00Z",
-      "processed_at": "2025-09-19T10:21:35.577592+00:00"
-    },
-    {
-      "title": "Apple explores possible test production of foldable iPhones in Taiwan - Nikkei Asia",
-      "source": {
-        "name": "Nikkei.com"
-      },
-      "description": "Tech giant eyes new form factor to help boost total shipments by 10% in 2026...",
-      "url": "https://asia.nikkei.com/spotlight/supply-chain/apple-explores-possible-test-production-of-foldable-iphones-in-taiwan",
-      "publishedAt": "2025-09-17T20:00:00Z",
-      "processed_at": "2025-09-19T10:21:35.577592+00:00"
-    },
-    {
-      "title": "Liquid Glass dark mode is giving iOS users vertigo - Android Authority",
-      "source": {
-        "name": "Android Authority"
-      },
-      "description": "The way Liquid Glass renders app icon edges in dark mode is making them look tilted to some users — ...",
-      "url": "https://www.androidauthority.com/liquid-glass-vertigo-3598657/",
-      "publishedAt": "2025-09-17T19:16:52Z",
-      "processed_at": "2025-09-19T10:21:35.577592+00:00"
+      "description": "Drop it, scratch it, bend it...",
+      "url": "https://www.tomsguide.com/phones/iphones/apples-iphone-durability-test-clips-show-how-it-made-sure-the-iphone-air-and-iphone-17-series-are-built-to-last",
+      "publishedAt": "2025-09-17T19:55:34Z",
+      "processed_at": "2025-09-19T11:16:43.964662+00:00"
     }
   ],
-  "lastUpdated": "2025-09-19T10:21:35.577655+00:00",
+  "lastUpdated": "2025-09-19T11:16:43.964729+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
