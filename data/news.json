@@ -1,7 +1,17 @@
 {
   "status": "success",
-  "totalResults": 10,
+  "totalResults": 9,
   "articles": [
+    {
+      "title": "Exclusive: Here's your first look at the redesigned Google Home experience powered by Gemini - Android Authority",
+      "source": {
+        "name": "Android Authority"
+      },
+      "description": "We've spotted a redesign coming for the Google Home app, introducing Gemini for Home and a new UI fo...",
+      "url": "https://www.androidauthority.com/google-home-app-gemini-redesign-first-look-3599245/",
+      "publishedAt": "2025-09-19T09:27:08Z",
+      "processed_at": "2025-09-20T15:17:19.225273+00:00"
+    },
     {
       "title": "Another Sonic Racing: CrossWorlds Collab Appears To Have Been Revealed - Nintendo Life",
       "source": {
@@ -10,7 +20,7 @@
       "description": "Racing onto Switch \"soon\"...",
       "url": "https://www.nintendolife.com/news/2025/09/another-sonic-racing-crossworlds-collab-appears-to-have-been-revealed",
       "publishedAt": "2025-09-19T06:56:15Z",
-      "processed_at": "2025-09-20T14:16:00.940549+00:00"
+      "processed_at": "2025-09-20T15:17:19.225273+00:00"
     },
     {
       "title": "The internet is out to break the iPhone Air, but it seems indestructible - Android Authority",
@@ -20,7 +30,7 @@
       "description": "The iPhone Air is razor-thin, but bend tests across the internet show it may be sturdier than some t...",
       "url": "https://www.androidauthority.com/iphone-air-bend-test-3599216/",
       "publishedAt": "2025-09-19T04:30:00Z",
-      "processed_at": "2025-09-20T14:16:00.940549+00:00"
+      "processed_at": "2025-09-20T15:17:19.225273+00:00"
     },
     {
       "title": "The latest iPhone, Apple Watch, and AirPods arrive in Apple Store locations - Apple",
@@ -30,47 +40,17 @@
       "description": "On Friday, September 19, Apple debuted its latest lineup of products at Apple Store locations across...",
       "url": "https://www.apple.com/newsroom/2025/09/the-latest-iphone-apple-watch-and-airpods-arrive-in-apple-store-locations/",
       "publishedAt": "2025-09-19T02:48:08Z",
-      "processed_at": "2025-09-20T14:16:00.940549+00:00"
+      "processed_at": "2025-09-20T15:17:19.225273+00:00"
     },
     {
-      "title": "New Limited-Time Pokémon Scarlet And Violet Distribution Now Available - Nintendo Life",
+      "title": "Announcing the Total Victories Against Shiny Chi-Yu in Pokémon Scarlet and Pokémon Violet - Pokemon.com",
       "source": {
-        "name": "Nintendo Life"
+        "name": "Pokemon.com"
       },
-      "description": "Add a Shiny Chi-Yu to your party...",
-      "url": "https://www.nintendolife.com/news/2025/09/new-limited-time-pokemon-scarlet-and-violet-distribution-now-available",
-      "publishedAt": "2025-09-19T01:30:00Z",
-      "processed_at": "2025-09-20T14:16:00.940549+00:00"
-    },
-    {
-      "title": "Dragon Quest 7 Reimagined gets new details - visuals, story, features, characters, battle system - Nintendo Everything",
-      "source": {
-        "name": "Nintendoeverything.com"
-      },
-      "description": "Square Enix just released the latest Dragon Quest 7 Reimagined details, covering the game’s visuals,...",
-      "url": "https://nintendoeverything.com/dragon-quest-7-reimagined-gets-new-details-visuals-story-features-characters-battle-system/",
-      "publishedAt": "2025-09-18T23:15:00Z",
-      "processed_at": "2025-09-20T14:16:00.940549+00:00"
-    },
-    {
-      "title": "‘I don’t know what happened’: AI glasses fail during Zuckerberg’s Meta Connect keynote - KRON4",
-      "source": {
-        "name": "KRON4"
-      },
-      "description": "(KRON) — The AI-powered smart glasses that Meta CEO Mark Zuckerberg is calling “the next generation ...",
-      "url": "https://www.kron4.com/news/technology-ai/i-dont-know-what-happened-ai-glasses-fail-during-zuckerbergs-meta-connect-keynote/",
-      "publishedAt": "2025-09-18T23:05:56Z",
-      "processed_at": "2025-09-20T14:16:00.940549+00:00"
-    },
-    {
-      "title": "If You've Got the Right Rig, Check Out This Sale on Samsung's 4K Gaming Monitor - WIRED",
-      "source": {
-        "name": "Wired"
-      },
-      "description": "This is one of the biggest, baddest screens you can game on, and it’s marked down to less than the s...",
-      "url": "https://www.wired.com/story/save-dollar200-on-samsungs-monster-4k-gaming-monitor/",
-      "publishedAt": "2025-09-18T20:45:00Z",
-      "processed_at": "2025-09-20T14:16:00.940549+00:00"
+      "description": "The numbers are in—time to find out whether Trainers defeated Shiny Chi-Yu one million times in the ...",
+      "url": "https://www.pokemon.com/us/pokemon-news/announcing-the-total-victories-against-shiny-chi-yu-in-pokemon-scarlet-and-pokemon-violet",
+      "publishedAt": "2025-09-19T00:03:39Z",
+      "processed_at": "2025-09-20T15:17:19.225273+00:00"
     },
     {
       "title": "Google announces massive expansion of AI features in Chrome - Ars Technica",
@@ -80,7 +60,7 @@
       "description": "Chrome’s future as an AI browser starts today....",
       "url": "https://arstechnica.com/google/2025/09/google-announces-massive-expansion-of-ai-features-in-chrome/",
       "publishedAt": "2025-09-18T19:27:58Z",
-      "processed_at": "2025-09-20T14:16:00.940549+00:00"
+      "processed_at": "2025-09-20T15:17:19.225273+00:00"
     },
     {
       "title": "Dying Light: The Beast Tips - 11 Things To Know Before You Play - GameSpot",
@@ -90,7 +70,7 @@
       "description": "From cracking safes without the codes to managing an unforgiving stamina system, here are 11 ways to...",
       "url": "https://www.gamespot.com/gallery/dying-light-the-beast-tips-11-things-to-know-before-you-play/2900-7048/",
       "publishedAt": "2025-09-18T18:47:18Z",
-      "processed_at": "2025-09-20T14:16:00.940549+00:00"
+      "processed_at": "2025-09-20T15:17:19.225273+00:00"
     },
     {
       "title": "“Do Not Update Your PC”: Microsoft Stock (NASDAQ:MSFT) Slips as it Issues Bizarre New Warning - TipRanks",
@@ -100,10 +80,20 @@
       "description": "Updating your PC regularly is one of the very first and potentially biggest rules of cybersecurity. ...",
       "url": "https://www.tipranks.com/news/do-not-update-your-pc-microsoft-stock-nasdaqmsft-slips-as-it-issues-bizarre-new-warning",
       "publishedAt": "2025-09-18T17:48:45Z",
-      "processed_at": "2025-09-20T14:16:00.940549+00:00"
+      "processed_at": "2025-09-20T15:17:19.225273+00:00"
+    },
+    {
+      "title": "Apple releases new iOS 26.0 build for iPhone 17 models - 9to5Mac",
+      "source": {
+        "name": "9to5Mac"
+      },
+      "description": "Apple has just released a new, revised iOS 26 build that’s exclusive to iPhone 17 models. Here’s wha...",
+      "url": "https://9to5mac.com/2025/09/18/apple-releases-new-ios-26-0-build-for-iphone-17-models/",
+      "publishedAt": "2025-09-18T17:29:00Z",
+      "processed_at": "2025-09-20T15:17:19.225273+00:00"
     }
   ],
-  "lastUpdated": "2025-09-20T14:16:00.940623+00:00",
+  "lastUpdated": "2025-09-20T15:17:19.225345+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
