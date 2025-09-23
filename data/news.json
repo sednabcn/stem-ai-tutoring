@@ -1,7 +1,37 @@
 {
   "status": "success",
-  "totalResults": 10,
+  "totalResults": 9,
   "articles": [
+    {
+      "title": "Samsung Galaxy Tab S11 Ultra in for review - GSMArena.com news - GSMArena.com",
+      "source": {
+        "name": "GSMArena.com"
+      },
+      "description": "Samsung's latest and greatest tablet is here. Samsung announced its lastest flagship tablet, the Gal...",
+      "url": "https://www.gsmarena.com/samsung_galaxy_tab_s11_ultra_in_for_review-news-69608.php",
+      "publishedAt": "2025-09-22T01:03:02Z",
+      "processed_at": "2025-09-23T03:33:42.072381+00:00"
+    },
+    {
+      "title": "The winners’ circle - Laver Cup",
+      "source": {
+        "name": "Lavercup.com"
+      },
+      "description": "Fortunes swung dramatically on Day 3 of Laver Cup 2025 in San Francisco as Team Europe and Team Worl...",
+      "url": "https://lavercup.com/photos/2025/09/21/the-winners-circle",
+      "publishedAt": "2025-09-21T23:39:49Z",
+      "processed_at": "2025-09-23T03:33:42.072381+00:00"
+    },
+    {
+      "title": "Just 37 Seriously Silly Products I Think Will Brighten Your Day - BuzzFeed",
+      "source": {
+        "name": "Buzzfeed"
+      },
+      "description": "Why yes, this list does contain a tiny opossum driving a peanut car, thank you for asking....",
+      "url": "https://www.buzzfeed.com/danielboan/silly-products-brighten-day-an",
+      "publishedAt": "2025-09-21T22:31:02Z",
+      "processed_at": "2025-09-23T03:33:42.072381+00:00"
+    },
     {
       "title": "AirTags Are Going for Pennies, Amazon Seems Ready to Liquidate the Rest of Its Stock - Kotaku",
       "source": {
@@ -10,7 +40,7 @@
       "description": "It's so much more than a simple Bluetooth tracker....",
       "url": "https://kotaku.com/airtags-are-going-for-pennies-amazon-seems-ready-to-liquidate-the-rest-of-its-stock-2000627495",
       "publishedAt": "2025-09-21T20:58:42Z",
-      "processed_at": "2025-09-23T02:58:06.559432+00:00"
+      "processed_at": "2025-09-23T03:33:42.072381+00:00"
     },
     {
       "title": "The foldable iPhone might look like two iPhone Airs stuck together - The Verge",
@@ -20,27 +50,7 @@
       "description": "The foldable iPhone might look like two iPhone Airs stuck together and cost over $2,000....",
       "url": "https://www.theverge.com/news/782366/foldable-details-iphone-air-ifixit-teardown",
       "publishedAt": "2025-09-21T20:49:50Z",
-      "processed_at": "2025-09-23T02:58:06.559432+00:00"
-    },
-    {
-      "title": "WWE Stock Report: Brock Lesnar should be challenging for the WWE championship ASAP - Cageside Seats",
-      "source": {
-        "name": "Cageside Seats"
-      },
-      "description": "This week’s WWE Stock Report includes Brock Lesnar destroying John Cena at Wrestlepalooza, Stephanie...",
-      "url": "https://www.cagesideseats.com/wwe/384448/wwe-stock-report-sept-2025-brock-lesnar-squash-cena-vaquer-new-champion-heyman-mcmg-bron-tran",
-      "publishedAt": "2025-09-21T20:00:00Z",
-      "processed_at": "2025-09-23T02:58:06.559432+00:00"
-    },
-    {
-      "title": "Some iPhone 17 models are reportedly prone to very visible scratches - Engadget",
-      "source": {
-        "name": "Google News"
-      },
-      "description": "",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNa0NYT2hYZTBnWVFQeEozQWlWSE1VbndudVR0ZWk0SGtVakFHWTVBZTZwMzVjakNuQlNzMTU3OGVaaEp0UEhBdUhBNGRWaWc5ME95d1VyUWI4OGJaTHd4YjNmMTRZV0FDUEFOZkIyVjRKcHMydzZpamVYWlRXZEVOeU5pNEYyUXgyTkp4UWI5ME5UQ3BXOHl4QlJRLTRvYXo0dmF2YWlpZ3RWajRfSHlMSmJIUGZVUUQ3M0JCMVo2UGhUeE1UQVE?oc=5",
-      "publishedAt": "2025-09-21T19:11:47Z",
-      "processed_at": "2025-09-23T02:58:06.559432+00:00"
+      "processed_at": "2025-09-23T03:33:42.072381+00:00"
     },
     {
       "title": "All of my favorite Xbox games this year came from indie devs — am I old or have AAA publishers completely lost the plot? - Windows Central",
@@ -50,7 +60,7 @@
       "description": "2025 was another stellar year for games, but increasingly I find myself assuming games from AAA publ...",
       "url": "https://www.windowscentral.com/gaming/all-of-my-favorite-xbox-games-this-year-came-from-indie-devs",
       "publishedAt": "2025-09-21T17:50:14Z",
-      "processed_at": "2025-09-23T02:58:06.559432+00:00"
+      "processed_at": "2025-09-23T03:33:42.072381+00:00"
     },
     {
       "title": "Microsoft Entra ID flaw allowed hijacking any company's tenant - BleepingComputer",
@@ -60,7 +70,7 @@
       "description": "A critical combination of legacy components could have allowed complete access to the Microsoft Entr...",
       "url": "https://www.bleepingcomputer.com/news/security/microsoft-entra-id-flaw-allowed-hijacking-any-companys-tenant/",
       "publishedAt": "2025-09-21T17:30:51Z",
-      "processed_at": "2025-09-23T02:58:06.559432+00:00"
+      "processed_at": "2025-09-23T03:33:42.072381+00:00"
     },
     {
       "title": "Security Bite: Apple quietly shipped one of its most practical security features yet - 9to5Mac",
@@ -70,7 +80,7 @@
       "description": "9to5Mac Security Bite is exclusively brought to you by Mosyle, the only Apple Unified Platform. Maki...",
       "url": "https://9to5mac.com/2025/09/21/security-bite-apple-quietly-shipped-one-of-its-most-practical-security-features-yet/",
       "publishedAt": "2025-09-21T17:13:00Z",
-      "processed_at": "2025-09-23T02:58:06.559432+00:00"
+      "processed_at": "2025-09-23T03:33:42.072381+00:00"
     },
     {
       "title": "Open thread: Mets vs. Nationals, 9/21/25 - Amazin' Avenue",
@@ -80,30 +90,10 @@
       "description": "",
       "url": "https://www.amazinavenue.com/new-york-mets-chat-gamethread/85911/open-thread-mets-vs-nationals-9-21-25",
       "publishedAt": "2025-09-21T17:12:38Z",
-      "processed_at": "2025-09-23T02:58:06.559432+00:00"
-    },
-    {
-      "title": "Matt Rhule praised 2 Wolverines that made a huge impact on Saturday - Maize n Brew",
-      "source": {
-        "name": "Maize n Brew"
-      },
-      "description": "“I think he’s a dominant player.” “He hurt us.” Nebraska head coach Matt Rhule heaped praise on 2 Mi...",
-      "url": "https://www.maizenbrew.com/football/93057/michigan-football-nebraska-matt-rhule-jaishawn-barham-justice-haynes-2025-season",
-      "publishedAt": "2025-09-21T17:00:00Z",
-      "processed_at": "2025-09-23T02:58:06.559432+00:00"
-    },
-    {
-      "title": "Montblanc is getting into the digital notepad game - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "Montblanc is finally offering the luxury e-ink notepad experience Wes Anderson characters have been ...",
-      "url": "https://www.theverge.com/news/782288/montblanc-is-getting-into-the-digital-notepad-game",
-      "publishedAt": "2025-09-21T16:27:11Z",
-      "processed_at": "2025-09-23T02:58:06.559432+00:00"
+      "processed_at": "2025-09-23T03:33:42.072381+00:00"
     }
   ],
-  "lastUpdated": "2025-09-23T02:58:06.559504+00:00",
+  "lastUpdated": "2025-09-23T03:33:42.072469+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
