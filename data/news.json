@@ -1,7 +1,17 @@
 {
   "status": "success",
-  "totalResults": 10,
+  "totalResults": 9,
   "articles": [
+    {
+      "title": "Borderlands 4 delayed indefinitely on Nintendo Switch 2, statement released - Nintendo Everything",
+      "source": {
+        "name": "Nintendoeverything.com"
+      },
+      "description": "Borderlands 4 is seeing a delay on Nintendo Switch 2. This comes just a little more than a week unti...",
+      "url": "https://nintendoeverything.com/borderlands-4-delayed-indefinitely-on-nintendo-switch-2/",
+      "publishedAt": "2025-09-23T22:24:45Z",
+      "processed_at": "2025-09-24T23:18:13.133088+00:00"
+    },
     {
       "title": "Apple Wallet is getting US passport support very soon on iPhone - 9to5Mac",
       "source": {
@@ -10,17 +20,17 @@
       "description": "US passports will be supported inside Apple’s Wallet app very soon, as the company just confirmed ne...",
       "url": "https://9to5mac.com/2025/09/23/apple-wallet-is-getting-us-passport-support-very-soon-on-iphone/",
       "publishedAt": "2025-09-23T20:31:00Z",
-      "processed_at": "2025-09-24T22:18:26.274690+00:00"
+      "processed_at": "2025-09-24T23:18:13.133088+00:00"
     },
     {
-      "title": "Google AI Plus is now available in 40 more countries - 9to5Google",
+      "title": "The Steam Deck Has Been Discounted By 20% For The Next Week - GameSpot",
       "source": {
-        "name": "9to5google.com"
+        "name": "GameSpot"
       },
-      "description": "After announcing two weeks ago, Google AI Plus is now available in 40 more countries. Compared to Pr...",
-      "url": "http://9to5google.com/2025/09/23/google-ai-plus-countries/",
-      "publishedAt": "2025-09-23T19:21:00Z",
-      "processed_at": "2025-09-24T22:18:26.274690+00:00"
+      "description": "While the discount is only for the 256GB LCD model, it's still one of the best deals right now for a...",
+      "url": "https://www.gamespot.com/articles/the-steam-deck-has-been-discounted-by-20-for-the-next-week/1100-6534935/",
+      "publishedAt": "2025-09-23T18:58:59Z",
+      "processed_at": "2025-09-24T23:18:13.133088+00:00"
     },
     {
       "title": "You can now experience Björk's heartbreak in VR - NPR",
@@ -30,17 +40,7 @@
       "description": "Vulnicura VR Remastered revisits a project the Icelandic pop artist debuted a decade ago, now reimag...",
       "url": "https://www.npr.org/2025/09/23/nx-s1-5543338/bjork-vr-vulnicura-remastered",
       "publishedAt": "2025-09-23T18:28:59Z",
-      "processed_at": "2025-09-24T22:18:26.274690+00:00"
-    },
-    {
-      "title": "A Whole Bunch Of Awesome Shooters Are Cheap Right Now On Steam - Kotaku",
-      "source": {
-        "name": "Kotaku"
-      },
-      "description": "Boomer shooters like Forgive Me Father 2, Nightmare Reaper, Wizodrum, Dusk, and many more on sale as...",
-      "url": "https://kotaku.com/boomer-shooter-dusk-mycopunk-demos-sale-event-boomstock-2025-pc-2000627990",
-      "publishedAt": "2025-09-23T18:23:53Z",
-      "processed_at": "2025-09-24T22:18:26.274690+00:00"
+      "processed_at": "2025-09-24T23:18:13.133088+00:00"
     },
     {
       "title": "Google offering some Nest Aware users 50% off annual plan after recent price increase - 9to5Google",
@@ -50,7 +50,7 @@
       "description": "Recent reports indicate that some users are seeing 50% discount offers for Google Nest Aware when th...",
       "url": "http://9to5google.com/2025/09/23/nest-aware-cancellation-attempt-triggers-discount/",
       "publishedAt": "2025-09-23T17:51:00Z",
-      "processed_at": "2025-09-24T22:18:26.274690+00:00"
+      "processed_at": "2025-09-24T23:18:13.133088+00:00"
     },
     {
       "title": "Can't upgrade your Windows 10 PC? You have 5 options - and 3 weeks to act - ZDNET",
@@ -60,17 +60,17 @@
       "description": "Microsoft will end support for its most popular operating system next month. Here's what you should ...",
       "url": "https://www.zdnet.com/article/cant-upgrade-your-windows-10-pc-you-have-5-options-and-3-weeks-to-act/",
       "publishedAt": "2025-09-23T17:32:00Z",
-      "processed_at": "2025-09-24T22:18:26.274690+00:00"
+      "processed_at": "2025-09-24T23:18:13.133088+00:00"
     },
     {
-      "title": "Google Photos rolling out conversational ‘Help me edit’ beyond Pixel 10 - 9to5Google",
+      "title": "iPhone Air and iPhone 17 Pro Top Last Year’s Phones in Bend and Drop Tests - MacRumors",
       "source": {
-        "name": "9to5google.com"
+        "name": "MacRumors"
       },
-      "description": "After introducing on the Pixel 10, Google Photos is bringing the conversational  “Help me edit” expe...",
-      "url": "http://9to5google.com/2025/09/23/google-photos-help-me-edit/",
-      "publishedAt": "2025-09-23T17:00:00Z",
-      "processed_at": "2025-09-24T22:18:26.274690+00:00"
+      "description": "Apple's thin and light iPhone Air is built with a durable titanium frame, and as we've seen demonstr...",
+      "url": "https://www.macrumors.com/2025/09/23/iphone-air-17-pro-drop-tests/",
+      "publishedAt": "2025-09-23T17:22:49Z",
+      "processed_at": "2025-09-24T23:18:13.133088+00:00"
     },
     {
       "title": "Samsung’s next big Android update keeps leaking with more AI and Liquid Glass vibes - 9to5Google",
@@ -80,17 +80,7 @@
       "description": "More leaks of Samsung's upcoming One UI 8.5 update on top of Android 16 keep leaking, with more Liqu...",
       "url": "http://9to5google.com/2025/09/23/samsung-one-ui-8-5-leaks-liquid-glass-ai-features/",
       "publishedAt": "2025-09-23T16:50:00Z",
-      "processed_at": "2025-09-24T22:18:26.274690+00:00"
-    },
-    {
-      "title": "Dedicated mobile apps for vibe coding have so far failed to gain traction - TechCrunch",
-      "source": {
-        "name": "TechCrunch"
-      },
-      "description": "An analysis of mobile apps offering vibe coding tools shows few have found traction....",
-      "url": "https://techcrunch.com/2025/09/23/dedicated-mobile-apps-for-vibe-coding-have-so-far-failed-to-gain-traction/",
-      "publishedAt": "2025-09-23T16:10:27Z",
-      "processed_at": "2025-09-24T22:18:26.274690+00:00"
+      "processed_at": "2025-09-24T23:18:13.133088+00:00"
     },
     {
       "title": "“Scratchgate”: Apple Stock (NASDAQ:AAPL) Slips as iPhone 17 Models Prove Oddly Delicate - TipRanks",
@@ -100,10 +90,10 @@
       "description": "So things were looking up for consumer electronics giant Apple ($AAPL) for a while there. It was rol...",
       "url": "https://www.tipranks.com/news/scratchgate-apple-stock-nasdaqaapl-slips-as-iphone-17-models-prove-oddly-delicate",
       "publishedAt": "2025-09-23T16:05:36Z",
-      "processed_at": "2025-09-24T22:18:26.274690+00:00"
+      "processed_at": "2025-09-24T23:18:13.133088+00:00"
     }
   ],
-  "lastUpdated": "2025-09-24T22:18:26.274761+00:00",
+  "lastUpdated": "2025-09-24T23:18:13.133162+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
