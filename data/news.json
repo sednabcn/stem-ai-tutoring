@@ -1,16 +1,66 @@
 {
   "status": "success",
-  "totalResults": 9,
+  "totalResults": 10,
   "articles": [
     {
-      "title": "State of Play set for September 24 featuring 35 minutes of updates from PlayStation Studios and partners - Gematsu",
+      "title": "Costco Seems To No Longer Be Selling Xbox Games Or Consoles - Kotaku",
       "source": {
-        "name": "Gematsu"
+        "name": "Kotaku"
       },
-      "description": "Sony Interactive Entertainment will host a State of Play on September 24 at 2:00 p.m. PT / 5:00 p.m....",
-      "url": "https://www.gematsu.com/2025/09/state-of-play-set-for-september-24-featuring-35-minutes-of-updates-from-playstation-studios-and-partners",
-      "publishedAt": "2025-09-23T14:04:07Z",
-      "processed_at": "2025-09-24T16:26:39.996141+00:00"
+      "description": "Plus: A Sonic song is still in legal limbo, a new Palworld game is coming, and we get a small update...",
+      "url": "https://kotaku.com/costco-no-longer-selling-xbox-games-consoles-sega-lawsuit-palfarm-2000627914",
+      "publishedAt": "2025-09-23T15:38:52Z",
+      "processed_at": "2025-09-24T17:17:54.026199+00:00"
+    },
+    {
+      "title": "Minecraft 1.21.9 Pre-Release 4 - Minecraft",
+      "source": {
+        "name": "Minecraft.net"
+      },
+      "description": "Minecraft 1.21.9 Pre-Release 4...",
+      "url": "https://www.minecraft.net/en-us/article/minecraft-1-21-9-pre-release-4",
+      "publishedAt": "2025-09-23T15:27:48Z",
+      "processed_at": "2025-09-24T17:17:54.026199+00:00"
+    },
+    {
+      "title": "Avatar: Frontiers of Pandora – From the Ashes DLC Announced; Release Timed With Fire and Ash Movie - IGN",
+      "source": {
+        "name": "IGN"
+      },
+      "description": "",
+      "url": "https://www.ign.com/articles/avatar-frontiers-of-pandora-from-the-ashes-dlc-announced-release-timed-with-fire-and-ash-movie",
+      "publishedAt": "2025-09-23T15:02:14Z",
+      "processed_at": "2025-09-24T17:17:54.026199+00:00"
+    },
+    {
+      "title": "Sony announces next PlayStation State of Play airing tomorrow, extended look at Housemarque's Saros confirmed - Eurogamer",
+      "source": {
+        "name": "Eurogamer.net"
+      },
+      "description": "",
+      "url": "https://www.eurogamer.net/sony-announces-next-playstation-state-of-play-airing-tomorrow-extended-look-at-housemarques-saros-confirmed",
+      "publishedAt": "2025-09-23T14:12:20Z",
+      "processed_at": "2025-09-24T17:17:54.026199+00:00"
+    },
+    {
+      "title": "PlayStation's New Rewards Program Offers Unique Merch For Unlocking Trophies - GameSpot",
+      "source": {
+        "name": "GameSpot"
+      },
+      "description": "",
+      "url": "https://www.gamespot.com/articles/playstations-new-rewards-program-offers-unique-merch-for-unlocking-trophies/1100-6534940/",
+      "publishedAt": "2025-09-23T14:10:53Z",
+      "processed_at": "2025-09-24T17:17:54.026199+00:00"
+    },
+    {
+      "title": "Hideo Kojima's Next Announcement Is A Credit Card - GameSpot",
+      "source": {
+        "name": "GameSpot"
+      },
+      "description": "Debt Stranding....",
+      "url": "https://www.gamespot.com/articles/hideo-kojimas-next-announcement-is-a-credit-card/1100-6534937/",
+      "publishedAt": "2025-09-23T13:36:59Z",
+      "processed_at": "2025-09-24T17:17:54.026199+00:00"
     },
     {
       "title": "Google revamps its Play Store with AI features and more - TechCrunch",
@@ -20,7 +70,27 @@
       "description": "Users can expect more personalization, a redesigned Apps tab, new Play Games experience, and other f...",
       "url": "https://techcrunch.com/2025/09/23/google-revamps-its-play-store-with-ai-features-and-more/",
       "publishedAt": "2025-09-23T13:00:00Z",
-      "processed_at": "2025-09-24T16:26:39.996141+00:00"
+      "processed_at": "2025-09-24T17:17:54.026199+00:00"
+    },
+    {
+      "title": "GoPro’s new gimbal works with action cameras, point-and-shoots, and smartphones - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "The GoPro Fluid Pro AI gimbal features a dedicated AI tracking module to keep subjects in frame....",
+      "url": "https://www.theverge.com/news/782619/gopro-fluid-pro-ai-tracking-stabilized-gimbal-action-camera-hero-smartphone",
+      "publishedAt": "2025-09-23T13:00:00Z",
+      "processed_at": "2025-09-24T17:17:54.026199+00:00"
+    },
+    {
+      "title": "Steam Hosted Malware Game that Stole $32,000 from a Cancer Patient Live on Stream - 404 Media",
+      "source": {
+        "name": "404media.co"
+      },
+      "description": "Scammers stole the crypto from a Latvian streamer battling cancer and the wider security community r...",
+      "url": "https://www.404media.co/steam-hosted-malware-game-that-stole-32-000-from-a-cancer-patient-live-on-stream/",
+      "publishedAt": "2025-09-23T12:56:48Z",
+      "processed_at": "2025-09-24T17:17:54.026199+00:00"
     },
     {
       "title": "Super Smash Bros. On N64 Had A Very Funny Anti-Piracy Trick - Kotaku",
@@ -30,70 +100,10 @@
       "description": "Knock-off cartridges would lull people into a false sense of security...",
       "url": "https://kotaku.com/super-smash-bros-n64-piracy-nintendo-2000627887",
       "publishedAt": "2025-09-23T12:48:30Z",
-      "processed_at": "2025-09-24T16:26:39.996141+00:00"
-    },
-    {
-      "title": "New PlayStation Rewards Program to Offer Exclusive Merch, Starts Today - Push Square",
-      "source": {
-        "name": "Push Square"
-      },
-      "description": "Get a special Ghost of Tsushima pin, t-shirt...",
-      "url": "https://www.pushsquare.com/news/2025/09/new-playstation-rewards-program-to-offer-exclusive-merch-starts-today",
-      "publishedAt": "2025-09-23T12:45:00Z",
-      "processed_at": "2025-09-24T16:26:39.996141+00:00"
-    },
-    {
-      "title": "Review: EA SPORTS FC 26 (Switch 2) - A Fantastic Football Game, Once You're Used To The Frame Rate - Nintendo Life",
-      "source": {
-        "name": "Nintendo Life"
-      },
-      "description": "Well worth a Lewandownload...",
-      "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/ea-sports-fc-26",
-      "publishedAt": "2025-09-23T12:30:39Z",
-      "processed_at": "2025-09-24T16:26:39.996141+00:00"
-    },
-    {
-      "title": "We’re living in a golden age of affordable mechanical keyboards - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "A mechanical keyboard is a treat for your eyes and ears as much as your fingers, and there are now s...",
-      "url": "https://www.theverge.com/tech/783024/upgrade-mechanical-keyboard-prebuilt-best-affordable-typing-gaming-specs",
-      "publishedAt": "2025-09-23T12:30:00Z",
-      "processed_at": "2025-09-24T16:26:39.996141+00:00"
-    },
-    {
-      "title": "Microsoft Store Tells Xbox Fans To 'Check Your Chat' For Free Money - Pure Xbox",
-      "source": {
-        "name": "Pure Xbox"
-      },
-      "description": "Seemingly nothing yet though...",
-      "url": "https://www.purexbox.com/news/2025/09/microsoft-store-tells-xbox-fans-to-check-your-chat-for-free-money",
-      "publishedAt": "2025-09-23T11:30:00Z",
-      "processed_at": "2025-09-24T16:26:39.996141+00:00"
-    },
-    {
-      "title": "Tariffs used by Xbox as \"an excuse to continue raising prices\", says former Blizzard president - Eurogamer",
-      "source": {
-        "name": "Eurogamer.net"
-      },
-      "description": "Former Blizzard president Mike Ybarra has criticised to Microsoft's recent price hike of Xbox consol...",
-      "url": "https://www.eurogamer.net/tariffs-used-by-xbox-as-an-excuse-to-continue-raising-prices-says-former-blizzard-president",
-      "publishedAt": "2025-09-23T11:15:00Z",
-      "processed_at": "2025-09-24T16:26:39.996141+00:00"
-    },
-    {
-      "title": "8 new features coming to your Samsung Galaxy phones with One UI 8.5 - Android Authority",
-      "source": {
-        "name": "Android Authority"
-      },
-      "description": "Here's a quick roundup of the most exciting new features coming to your Galaxy phones when the One U...",
-      "url": "https://www.androidauthority.com/samsung-galaxy-phones-new-upcoming-features-one-ui-8-5-3600158/",
-      "publishedAt": "2025-09-23T09:33:35Z",
-      "processed_at": "2025-09-24T16:26:39.996141+00:00"
+      "processed_at": "2025-09-24T17:17:54.026199+00:00"
     }
   ],
-  "lastUpdated": "2025-09-24T16:26:39.996206+00:00",
+  "lastUpdated": "2025-09-24T17:17:54.026268+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
