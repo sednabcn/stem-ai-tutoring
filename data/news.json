@@ -1,7 +1,27 @@
 {
   "status": "success",
-  "totalResults": 9,
+  "totalResults": 10,
   "articles": [
+    {
+      "title": "Yakuza Kiwami and Yakuza Kiwami 2 coming to PS5, Xbox Series on December 8 - Gematsu",
+      "source": {
+        "name": "Gematsu"
+      },
+      "description": "Publisher SEGA and developer Ryu Ga Gotoku Studio will release Yakuza Kiwami and Yakuza Kiwami 2 for...",
+      "url": "https://www.gematsu.com/2025/09/yakuza-kiwami-and-yakuza-kiwami-2-coming-to-ps5-xbox-series-on-december-8",
+      "publishedAt": "2025-09-24T04:32:37Z",
+      "processed_at": "2025-09-25T05:19:18.021818+00:00"
+    },
+    {
+      "title": "iFixit zooms in on reports of an iPhone 17 Pro scratch problem - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "iFixit’s iPhone 17 Pro teardown video is out, and it looks into why people are saying the anodized a...",
+      "url": "https://www.theverge.com/news/784324/apple-iphone-17-pro-ifixit-teardown-scratch",
+      "publishedAt": "2025-09-24T02:19:00Z",
+      "processed_at": "2025-09-25T05:19:18.021818+00:00"
+    },
     {
       "title": "Mario Kart World Has Been Updated To Version 1.3.0, Here Are The Full Patch Notes - Nintendo Life",
       "source": {
@@ -10,7 +30,7 @@
       "description": "Download this update for Switch 2...",
       "url": "https://www.nintendolife.com/news/2025/09/mario-kart-world-has-been-updated-to-version-1-3-0-here-are-the-full-patch-notes",
       "publishedAt": "2025-09-24T01:21:03Z",
-      "processed_at": "2025-09-25T04:24:18.376384+00:00"
+      "processed_at": "2025-09-25T05:19:18.021818+00:00"
     },
     {
       "title": "The Switch 2 version of Borderlands 4 has been delayed - The Verge",
@@ -20,17 +40,17 @@
       "description": "Gearbox Software is delaying the Nintendo Switch 2 version of Borderlands 4. Previously, the game ha...",
       "url": "https://www.theverge.com/news/784277/borderlands-4-nintendo-switch-2-delay",
       "publishedAt": "2025-09-23T22:46:52Z",
-      "processed_at": "2025-09-25T04:24:18.376384+00:00"
+      "processed_at": "2025-09-25T05:19:18.021818+00:00"
     },
     {
-      "title": "When “no” means “yes”: Why AI chatbots can’t process Persian social etiquette - Ars Technica",
+      "title": "GoPro has a new AI-tracking gimbal that works with smartphones and action cameras - Mashable",
       "source": {
-        "name": "Ars Technica"
+        "name": "Mashable"
       },
-      "description": "New study examines how a helpful AI response could become a cultural disaster in Iran....",
-      "url": "https://arstechnica.com/ai/2025/09/when-no-means-yes-why-ai-chatbots-cant-process-persian-social-etiquette/",
-      "publishedAt": "2025-09-23T22:23:22Z",
-      "processed_at": "2025-09-25T04:24:18.376384+00:00"
+      "description": "The Fluid Pro AI can be used with GoPro action cameras and phones....",
+      "url": "https://mashable.com/article/gopro-fluid-pro-ai-tracking-gimbal-announced",
+      "publishedAt": "2025-09-23T22:10:09Z",
+      "processed_at": "2025-09-25T05:19:18.021818+00:00"
     },
     {
       "title": "DJI announces Osmo Nano mini action camera - GSMArena.com news - GSMArena.com",
@@ -40,7 +60,27 @@
       "description": "Features a magnetic, wearable design with a detachable dock. DJI has announced the new Osmo Nano act...",
       "url": "https://www.gsmarena.com/dji_announces_osmo_nano_mini_action_camera-news-69635.php",
       "publishedAt": "2025-09-23T22:00:02Z",
-      "processed_at": "2025-09-25T04:24:18.376384+00:00"
+      "processed_at": "2025-09-25T05:19:18.021818+00:00"
+    },
+    {
+      "title": "iPhone 17 Pro Max’s Aluminum Build Holds Up Well To Drops Against Galaxy S25 Ultra’s Titanium Alloy, But Is Susceptible To Corner Impacts - Wccftech",
+      "source": {
+        "name": "Wccftech"
+      },
+      "description": "A total of six drop tests were performed on the iPhone 17 Pro Max and Galaxy S25 Ultra, showing if s...",
+      "url": "https://wccftech.com/iphone-17-pro-max-aluminum-vs-galaxy-s25-ultra-titanium-alloy-six-drop-tests/",
+      "publishedAt": "2025-09-23T21:23:00Z",
+      "processed_at": "2025-09-25T05:19:18.021818+00:00"
+    },
+    {
+      "title": "Vertiv Stock Falls After Microsoft Reveals 'Breakthrough' Chip Cooling Tech - Investor's Business Daily",
+      "source": {
+        "name": "Investor's Business Daily"
+      },
+      "description": "Vertiv stock fell Tuesday after Microsoft announced a “breakthrough” technology for cooling AI chips...",
+      "url": "https://www.investors.com/news/technology/vertiv-stock-microsoft-breakthrough-chip-cooling/",
+      "publishedAt": "2025-09-23T21:14:00Z",
+      "processed_at": "2025-09-25T05:19:18.021818+00:00"
     },
     {
       "title": "PlayStation 6 First Official Gameplay Shows Off Mind-Blowing Visuals - GAMINGbible",
@@ -50,50 +90,20 @@
       "description": "Hideo Kojima just showed us what the PlayStation 6 should be capable of (whenever it ends up releasi...",
       "url": "https://www.gamingbible.com/news/platform/playstation/playstation-6-first-official-gameplay-329086-20250923",
       "publishedAt": "2025-09-23T21:00:00Z",
-      "processed_at": "2025-09-25T04:24:18.376384+00:00"
+      "processed_at": "2025-09-25T05:19:18.021818+00:00"
     },
     {
-      "title": "Is the Video Game ‘OD’ What Jordan Peele Has Been Working on Instead of His Next Movie? - IndieWire",
+      "title": "A Whole Bunch Of Awesome Shooters Are Cheap Right Now On Steam - Kotaku",
       "source": {
-        "name": "IndieWire"
+        "name": "Kotaku"
       },
-      "description": "A teaser for a horror video game called 'OD' was released that's a partnership between Hideo Kojima ...",
-      "url": "https://www.indiewire.com/news/trailers/od-video-game-jordan-peele-next-project-1235152584/",
-      "publishedAt": "2025-09-23T19:00:00Z",
-      "processed_at": "2025-09-25T04:24:18.376384+00:00"
-    },
-    {
-      "title": "The Steam Deck Has Been Discounted By 20% For The Next Week - GameSpot",
-      "source": {
-        "name": "GameSpot"
-      },
-      "description": "While the discount is only for the 256GB LCD model, it's still one of the best deals right now for a...",
-      "url": "https://www.gamespot.com/articles/the-steam-deck-has-been-discounted-by-20-for-the-next-week/1100-6534935/",
-      "publishedAt": "2025-09-23T18:58:59Z",
-      "processed_at": "2025-09-25T04:24:18.376384+00:00"
-    },
-    {
-      "title": "You can now experience Björk's heartbreak in VR - NPR",
-      "source": {
-        "name": "NPR"
-      },
-      "description": "Vulnicura VR Remastered revisits a project the Icelandic pop artist debuted a decade ago, now reimag...",
-      "url": "https://www.npr.org/2025/09/23/nx-s1-5543338/bjork-vr-vulnicura-remastered",
-      "publishedAt": "2025-09-23T18:28:59Z",
-      "processed_at": "2025-09-25T04:24:18.376384+00:00"
-    },
-    {
-      "title": "Can't upgrade your Windows 10 PC? You have 5 options - and 3 weeks to act - ZDNET",
-      "source": {
-        "name": "ZDNet"
-      },
-      "description": "Microsoft will end support for its most popular operating system next month. Here's what you should ...",
-      "url": "https://www.zdnet.com/article/cant-upgrade-your-windows-10-pc-you-have-5-options-and-3-weeks-to-act/",
-      "publishedAt": "2025-09-23T17:32:00Z",
-      "processed_at": "2025-09-25T04:24:18.376384+00:00"
+      "description": "Boomer shooters like Forgive Me Father 2, Nightmare Reaper, Wizodrum, Dusk, and many more on sale as...",
+      "url": "https://kotaku.com/boomer-shooter-dusk-mycopunk-demos-sale-event-boomstock-2025-pc-2000627990",
+      "publishedAt": "2025-09-23T18:23:53Z",
+      "processed_at": "2025-09-25T05:19:18.021818+00:00"
     }
   ],
-  "lastUpdated": "2025-09-25T04:24:18.376453+00:00",
+  "lastUpdated": "2025-09-25T05:19:18.021887+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
