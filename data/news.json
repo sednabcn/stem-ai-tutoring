@@ -1,16 +1,56 @@
 {
   "status": "success",
-  "totalResults": 9,
+  "totalResults": 8,
   "articles": [
     {
-      "title": "Here are our PS Plus monthly and catalogue games for October - Eurogamer",
+      "title": "I tested the iPhone 17 Pro Max, and here's one big reason for a year-over-year upgrade - ZDNET",
       "source": {
-        "name": "Eurogamer.net"
+        "name": "ZDNet"
       },
-      "description": "The Last of Us Part 2 and Alan Wake 2 will both be joining the PS Plus catalogue next month....",
-      "url": "https://www.eurogamer.net/here-are-our-ps-plus-monthly-and-catalogue-games-for-october",
-      "publishedAt": "2025-09-24T21:43:48Z",
-      "processed_at": "2025-09-25T23:18:03.606877+00:00"
+      "description": "Review: While I don't usually advise upgrading to the flagship iPhone if you have last year's model,...",
+      "url": "https://www.zdnet.com/article/i-tested-the-iphone-17-pro-max-and-heres-one-big-reason-for-a-year-over-year-upgrade/",
+      "publishedAt": "2025-09-25T00:00:00Z",
+      "processed_at": "2025-09-26T01:27:32.812789+00:00"
+    },
+    {
+      "title": "Elon Musk’s Favorite Game Is Getting Remastered 25 Years Later - Kotaku",
+      "source": {
+        "name": "Kotaku"
+      },
+      "description": "Deus Ex is coming back with an HD edition...",
+      "url": "https://kotaku.com/elon-musks-favorite-game-is-getting-remastered-25-years-later-2000628283",
+      "publishedAt": "2025-09-24T22:20:04Z",
+      "processed_at": "2025-09-26T01:27:32.812789+00:00"
+    },
+    {
+      "title": "Sony Adds Official Desktop Speakers to Its Increasingly Enormous Product Family - Push Square",
+      "source": {
+        "name": "Push Square"
+      },
+      "description": "Sounding good...",
+      "url": "https://www.pushsquare.com/news/2025/09/sony-adds-official-desktop-speakers-to-its-increasingly-enormous-product-family",
+      "publishedAt": "2025-09-24T21:55:00Z",
+      "processed_at": "2025-09-26T01:27:32.812789+00:00"
+    },
+    {
+      "title": "PlayStation State of Play September 2025: all the news and trailers - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "Sony is holding its latest State of Play showcase on September 24th, which will include news on a nu...",
+      "url": "https://www.theverge.com/games/784746/playstation-state-of-play-september-2025-news-trailers",
+      "publishedAt": "2025-09-24T21:50:40Z",
+      "processed_at": "2025-09-26T01:27:32.812789+00:00"
+    },
+    {
+      "title": "GoPro has a new AI-tracking gimbal that works with smartphones and action cameras - Mashable",
+      "source": {
+        "name": "Mashable"
+      },
+      "description": "The Fluid Pro AI can be used with GoPro action cameras and phones....",
+      "url": "https://mashable.com/article/gopro-fluid-pro-ai-tracking-gimbal-announced",
+      "publishedAt": "2025-09-24T21:11:15Z",
+      "processed_at": "2025-09-26T01:27:32.812789+00:00"
     },
     {
       "title": "Qualcomm announces Snapdragon X2 Elite and Extreme for Windows PCs - The Verge",
@@ -20,80 +60,30 @@
       "description": "Qualcomm’s flagship PC chip now comes in a second generation with two distinct flavors: the Snapdrag...",
       "url": "https://www.theverge.com/news/785068/qualcomm-announces-snapdragon-x2-elite-and-extreme-for-windows-pcs",
       "publishedAt": "2025-09-24T21:03:25Z",
-      "processed_at": "2025-09-25T23:18:03.606877+00:00"
+      "processed_at": "2025-09-26T01:27:32.812789+00:00"
     },
     {
-      "title": "I've reviewed every iPhone 17 model, and my advice is something different this year - ZDNET",
+      "title": "Qualcomm announces Snapdragon 8 Elite Gen 5 with 3rd-gen Oryon CPU, efficiency gains - 9to5Google",
       "source": {
-        "name": "ZDNet"
+        "name": "9to5google.com"
       },
-      "description": "With Apple upgrading the base iPhone 17, redesigning both Pro models, and launching the all-new iPho...",
-      "url": "https://www.zdnet.com/article/ive-reviewed-every-iphone-17-model-and-my-advice-is-something-different-this-year/",
-      "publishedAt": "2025-09-24T18:42:00Z",
-      "processed_at": "2025-09-25T23:18:03.606877+00:00"
+      "description": "Qualcomm today announced the Snapdragon 8 Elite Gen 5 to power the upcoming generation of Android sm...",
+      "url": "http://9to5google.com/2025/09/24/snapdragon-8-elite-gen-5/",
+      "publishedAt": "2025-09-24T20:30:00Z",
+      "processed_at": "2025-09-26T01:27:32.812789+00:00"
     },
     {
-      "title": "Meet the first person to own over 40,000 paid Steam games - Ars Technica",
+      "title": "First PS Plus Essential Game for October 2025 Leaked - Push Square",
       "source": {
-        "name": "Ars Technica"
+        "name": "Push Square"
       },
-      "description": "Feeling any better about your backlog yet?...",
-      "url": "https://arstechnica.com/gaming/2025/09/meet-the-first-person-to-own-over-40000-paid-steam-games/",
-      "publishedAt": "2025-09-24T17:08:28Z",
-      "processed_at": "2025-09-25T23:18:03.606877+00:00"
-    },
-    {
-      "title": "Black Ops 7 will get a new Zombies map with every seasonal update - Dexerto",
-      "source": {
-        "name": "Dexerto"
-      },
-      "description": "Black Ops 7 brings a new playable Zombies map every season, but it’s not necessarily a full-fledged ...",
-      "url": "https://www.dexerto.com/call-of-duty/every-black-ops-7-season-brings-a-new-zombies-map-3256298/",
-      "publishedAt": "2025-09-24T17:05:39Z",
-      "processed_at": "2025-09-25T23:18:03.606877+00:00"
-    },
-    {
-      "title": "Apple responds to iPhone 17 Pro scratch and durability concerns - 9to5Mac",
-      "source": {
-        "name": "9to5Mac"
-      },
-      "description": "It wouldn’t be a new iPhone launch without some drama. While the iPhone Air has impressed in all ben...",
-      "url": "https://9to5mac.com/2025/09/24/apple-responds-to-iphone-17-pro-scratch-and-durability-concerns/",
-      "publishedAt": "2025-09-24T16:48:00Z",
-      "processed_at": "2025-09-25T23:18:03.606877+00:00"
-    },
-    {
-      "title": "Video: Hades 2 Casts A Spell Over Us On Switch 1 & 2 - Nintendo Life",
-      "source": {
-        "name": "Nintendo Life"
-      },
-      "description": "Time never stops...",
-      "url": "https://www.nintendolife.com/news/2025/09/video-hades-2-casts-a-spell-over-us-on-switch-1-and-2",
-      "publishedAt": "2025-09-24T16:30:00Z",
-      "processed_at": "2025-09-25T23:18:03.606877+00:00"
-    },
-    {
-      "title": "YouTube will now let you hide those pesky end screens - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "YouTube is rolling out the ability for users to “hide” end screens, which often cover your screen wi...",
-      "url": "https://www.theverge.com/news/784774/youtube-end-screen-videos-hide",
-      "publishedAt": "2025-09-24T16:25:45Z",
-      "processed_at": "2025-09-25T23:18:03.606877+00:00"
-    },
-    {
-      "title": "VR Headsets Are Better Than Ever and No One Seems to Care - Gizmodo",
-      "source": {
-        "name": "Gizmodo.com"
-      },
-      "description": "It's the best of times and the worst of times for VR enthusiaists....",
-      "url": "https://gizmodo.com/vr-headsets-are-better-than-ever-and-no-one-seems-to-care-2000663098",
-      "publishedAt": "2025-09-24T16:00:16Z",
-      "processed_at": "2025-09-25T23:18:03.606877+00:00"
+      "description": "Full lineup for 7th October confirmed...",
+      "url": "https://www.pushsquare.com/news/2025/09/ps-plus-essential-games-for-october-2025-announced",
+      "publishedAt": "2025-09-24T20:19:55Z",
+      "processed_at": "2025-09-26T01:27:32.812789+00:00"
     }
   ],
-  "lastUpdated": "2025-09-25T23:18:03.606937+00:00",
+  "lastUpdated": "2025-09-26T01:27:32.812858+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
