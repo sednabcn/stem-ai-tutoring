@@ -3,6 +3,26 @@
   "totalResults": 9,
   "articles": [
     {
+      "title": "‘Ghost of Yotei’ sharpens the samurai revenge formula with raw feeling - The Washington Post",
+      "source": {
+        "name": "The Washington Post"
+      },
+      "description": "The open-world PlayStation epic excels thanks to a revenge story written with precision and heart, b...",
+      "url": "https://www.washingtonpost.com/entertainment/video-games/2025/09/25/ghost-of-yotei-review/",
+      "publishedAt": "2025-09-25T14:31:02Z",
+      "processed_at": "2025-09-26T13:28:15.694316+00:00"
+    },
+    {
+      "title": "Minecraft 1.21.9 Release Candidate 1 - Minecraft",
+      "source": {
+        "name": "Minecraft.net"
+      },
+      "description": "",
+      "url": "https://www.minecraft.net/en-us/article/minecraft-1-21-9-release-candidate-1",
+      "publishedAt": "2025-09-25T14:09:41Z",
+      "processed_at": "2025-09-26T13:28:15.694316+00:00"
+    },
+    {
       "title": "Forza Horizon 6 Set in Japan, Launches in 2026 For PC and Xbox First, Then PlayStation 5 After - IGN",
       "source": {
         "name": "IGN"
@@ -10,7 +30,7 @@
       "description": "Forza Horizon 6, the next entry in Microsoft's racing series, will be set in Japan and launch in 202...",
       "url": "https://www.ign.com/articles/forza-horizon-6-set-in-japan-launches-2026",
       "publishedAt": "2025-09-25T12:11:15Z",
-      "processed_at": "2025-09-26T12:41:28.766980+00:00"
+      "processed_at": "2025-09-26T13:28:15.694316+00:00"
     },
     {
       "title": "Microsoft forced to make Windows 10 extended security updates truly free in Europe - The Verge",
@@ -20,80 +40,60 @@
       "description": "You won’t have to enable Windows Backup to get extended Windows 10 security updates in the European ...",
       "url": "https://www.theverge.com/news/785544/microsoft-windows-10-extended-security-updates-free-europe-changes",
       "publishedAt": "2025-09-25T11:36:14Z",
-      "processed_at": "2025-09-26T12:41:28.766980+00:00"
+      "processed_at": "2025-09-26T13:28:15.694316+00:00"
     },
     {
-      "title": "Aspyr Brings Deus Ex Remastered To Switch Next February - Nintendo Life",
+      "title": "Google's Conversational Photo Editor Is the Rare AI Feature People Will Actually Use - WIRED",
       "source": {
-        "name": "Nintendo Life"
+        "name": "Wired"
       },
-      "description": "The iconic action RPG returns...",
-      "url": "https://www.nintendolife.com/news/2025/09/aspyr-brings-deus-ex-remastered-to-switch-next-february",
-      "publishedAt": "2025-09-25T00:05:00Z",
-      "processed_at": "2025-09-26T12:41:28.766980+00:00"
+      "description": "Google's tool greatly simplifies photo editing; just tell your phone what changes you want in the ph...",
+      "url": "https://www.wired.com/story/google-photos-conversational-photo-editor/",
+      "publishedAt": "2025-09-25T10:30:00Z",
+      "processed_at": "2025-09-26T13:28:15.694316+00:00"
     },
     {
-      "title": "I tested the iPhone 17 Pro Max, and here's one big reason for a year-over-year upgrade - ZDNET",
+      "title": "The Super Mario \"glitch\" that started it all - Axios",
       "source": {
-        "name": "ZDNet"
+        "name": "Axios"
       },
-      "description": "Review: While I don't usually advise upgrading to the flagship iPhone if you have last year's model,...",
-      "url": "https://www.zdnet.com/article/i-tested-the-iphone-17-pro-max-and-heres-one-big-reason-for-a-year-over-year-upgrade/",
-      "publishedAt": "2025-09-25T00:00:00Z",
-      "processed_at": "2025-09-26T12:41:28.766980+00:00"
+      "description": "Gamers have been looking for glitches for 40 years....",
+      "url": "https://www.axios.com/2025/09/24/super-mario-glitch-video-games",
+      "publishedAt": "2025-09-25T09:36:10Z",
+      "processed_at": "2025-09-26T13:28:15.694316+00:00"
     },
     {
-      "title": "Nintendo’s new Fire Emblem mobile game has an Among Us-style twist - The Verge",
+      "title": "Nintendo Shadow Drops Fire Emblem Shadows, a New Smartphone Spin-Off with Social Deduction - IGN",
       "source": {
-        "name": "The Verge"
+        "name": "IGN"
       },
-      "description": "Fire Emblem Shadows is a new mobile spinoff of Nintendo’s strategy series. It follows Fire Emblem He...",
-      "url": "https://www.theverge.com/news/785416/nintendo-fire-emblem-shadows-mobile-game-among-us",
-      "publishedAt": "2025-09-24T23:49:08Z",
-      "processed_at": "2025-09-26T12:41:28.766980+00:00"
+      "description": "Surprise! Nintendo has announced Fire Emblem Shadows, a new free-to-play smartphone game that's avai...",
+      "url": "https://www.ign.com/articles/nintendo-shadow-drops-fire-emblem-shadows-a-new-smartphone-spin-off-with-social-deduction",
+      "publishedAt": "2025-09-25T08:36:21Z",
+      "processed_at": "2025-09-26T13:28:15.694316+00:00"
     },
     {
-      "title": "The best Apple deals to shop ahead of Amazon’s fall Prime Day event - The Verge",
+      "title": "iPhones could soon offer more support for non-Apple smartwatches - Mashable",
       "source": {
-        "name": "The Verge"
+        "name": "Mashable"
       },
-      "description": "Amazon’s fall Prime Day event kicks off on October 7th, but if you can’t wait, here are the best way...",
-      "url": "https://www.theverge.com/tech/784180/amazon-october-prime-day-sale-best-early-apple-deals-2025",
-      "publishedAt": "2025-09-24T22:20:16Z",
-      "processed_at": "2025-09-26T12:41:28.766980+00:00"
+      "description": "Finally!...",
+      "url": "https://mashable.com/article/iphones-soon-support-non-apple-smartwatches",
+      "publishedAt": "2025-09-25T06:47:58Z",
+      "processed_at": "2025-09-26T13:28:15.694316+00:00"
     },
     {
-      "title": "Console wars death watch: Microsoft Flight Simulator coming to PS5 in December - Ars Technica",
+      "title": "Cisco Warns of Actively Exploited SNMP Vulnerability Allowing RCE or DoS in IOS Software - The Hacker News",
       "source": {
-        "name": "Ars Technica"
+        "name": "Internet"
       },
-      "description": "What’s next, Sonic games on Nintendo consoles? Oh, wait…...",
-      "url": "https://arstechnica.com/gaming/2025/09/microsoft-flight-simulator-becomes-a-sony-flight-simulator-on-ps5-this-december/",
-      "publishedAt": "2025-09-24T21:56:27Z",
-      "processed_at": "2025-09-26T12:41:28.766980+00:00"
-    },
-    {
-      "title": "Here's everything announced in PlayStation's latest State of Play showcase - Eurogamer",
-      "source": {
-        "name": "Eurogamer.net"
-      },
-      "description": "Well here we are again! Sony's returned with another PlayStation State of Play showcase, this one of...",
-      "url": "https://www.eurogamer.net/heres-everything-announced-in-playstations-latest-state-of-play-showcase",
-      "publishedAt": "2025-09-24T21:11:37Z",
-      "processed_at": "2025-09-26T12:41:28.766980+00:00"
-    },
-    {
-      "title": "Battlefield 6 boss says she owes it to the community to deliver the \"best Battlefield ever\" after 2042 failure - Notebookcheck",
-      "source": {
-        "name": "Notebookcheck.net"
-      },
-      "description": "DICE’s Vice President and General Manager, Rebecka Coutaz, sat down with GamesRadar to talk about Ba...",
-      "url": "https://www.notebookcheck.net/Battlefield-6-boss-says-she-owes-it-to-the-community-to-deliver-the-best-Battlefield-ever-after-2042-failure.1123262.0.html",
-      "publishedAt": "2025-09-24T20:35:02Z",
-      "processed_at": "2025-09-26T12:41:28.766980+00:00"
+      "description": "Cisco fixes CVE-2025-20352 SNMP flaw exploited in the wild, risking remote code execution or DoS....",
+      "url": "https://thehackernews.com/2025/09/cisco-warns-of-actively-exploited-snmp.html",
+      "publishedAt": "2025-09-25T06:30:00Z",
+      "processed_at": "2025-09-26T13:28:15.694316+00:00"
     }
   ],
-  "lastUpdated": "2025-09-26T12:41:28.767057+00:00",
+  "lastUpdated": "2025-09-26T13:28:15.694378+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
