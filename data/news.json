@@ -1,7 +1,47 @@
 {
   "status": "success",
-  "totalResults": 9,
+  "totalResults": 10,
   "articles": [
+    {
+      "title": "OpenAI launches ChatGPT Pulse to proactively write you morning briefs - TechCrunch",
+      "source": {
+        "name": "TechCrunch"
+      },
+      "description": "Pulse is part of a broader shift in OpenAI's consumer products, which are lately being designed to w...",
+      "url": "https://techcrunch.com/2025/09/25/openai-launches-chatgpt-pulse-to-proactively-write-you-morning-briefs/",
+      "publishedAt": "2025-09-25T17:00:00Z",
+      "processed_at": "2025-09-26T17:17:18.855226+00:00"
+    },
+    {
+      "title": "AirPods 4 vs. AirPods Pro 3 Buyer's Guide: 25 Differences Compared - MacRumors",
+      "source": {
+        "name": "MacRumors"
+      },
+      "description": "Apple's standard AirPods offer active noise cancellation for an additional $50, bringing them closer...",
+      "url": "https://www.macrumors.com/guide/airpods-4-vs-airpods-pro-3/",
+      "publishedAt": "2025-09-25T15:54:22Z",
+      "processed_at": "2025-09-26T17:17:18.855226+00:00"
+    },
+    {
+      "title": "Samsung’s One UI 8.5 lock screen refresh has blurred notifications, new clock styles - 9to5Google",
+      "source": {
+        "name": "9to5google.com"
+      },
+      "description": "Samsung's internal One UI 8.5 build continues to leak online, showing off some long-awaited changes ...",
+      "url": "http://9to5google.com/2025/09/25/samsungs-one-ui-8-5-lock-screen-refresh-has-blurred-notifications-new-clock-styles/",
+      "publishedAt": "2025-09-25T15:17:00Z",
+      "processed_at": "2025-09-26T17:17:18.855226+00:00"
+    },
+    {
+      "title": "Xiaomi 17 series arrives with secondary screens and enormous batteries - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "The Xiaomi 17, 17 Pro, and 17 Pro Max may have Apple-y names, but you’d never see an iPhone quite li...",
+      "url": "https://www.theverge.com/news/785693/xiaomi-17-pro-max-china-launch-specs-price-second-screen",
+      "publishedAt": "2025-09-25T14:51:38Z",
+      "processed_at": "2025-09-26T17:17:18.855226+00:00"
+    },
     {
       "title": "‘Ghost of Yotei’ sharpens the samurai revenge formula with raw feeling - The Washington Post",
       "source": {
@@ -10,90 +50,60 @@
       "description": "The open-world PlayStation epic excels thanks to a revenge story written with precision and heart, b...",
       "url": "https://www.washingtonpost.com/entertainment/video-games/2025/09/25/ghost-of-yotei-review/",
       "publishedAt": "2025-09-25T14:31:02Z",
-      "processed_at": "2025-09-26T16:25:02.106237+00:00"
+      "processed_at": "2025-09-26T17:17:18.855226+00:00"
     },
     {
-      "title": "Minecraft 1.21.9 Release Candidate 1 - Minecraft",
+      "title": "Pokémon TCG Pocket's Next Expansion Guarantees Rare Pulls In Every Pack - Nintendo Life",
       "source": {
-        "name": "Minecraft.net"
+        "name": "Nintendo Life"
       },
-      "description": "",
-      "url": "https://www.minecraft.net/en-us/article/minecraft-1-21-9-release-candidate-1",
-      "publishedAt": "2025-09-25T14:09:41Z",
-      "processed_at": "2025-09-26T16:25:02.106237+00:00"
+      "description": "Launching next week...",
+      "url": "https://www.nintendolife.com/news/2025/09/pokemon-tcg-pockets-next-expansion-guarantees-rare-pulls-in-every-pack",
+      "publishedAt": "2025-09-25T14:30:00Z",
+      "processed_at": "2025-09-26T17:17:18.855226+00:00"
     },
     {
-      "title": "Forza Horizon 6 Set in Japan, Launches in 2026 For PC and Xbox First, Then PlayStation 5 After - IGN",
+      "title": "Reviewing iOS 26 for power users: Reminders, Preview, and more - Ars Technica",
       "source": {
-        "name": "IGN"
+        "name": "Ars Technica"
       },
-      "description": "Forza Horizon 6, the next entry in Microsoft's racing series, will be set in Japan and launch in 202...",
-      "url": "https://www.ign.com/articles/forza-horizon-6-set-in-japan-launches-2026",
-      "publishedAt": "2025-09-25T12:11:15Z",
-      "processed_at": "2025-09-26T16:25:02.106237+00:00"
+      "description": "These features try to turn iPhones into more powerful work and organization tools....",
+      "url": "https://arstechnica.com/gadgets/2025/09/reviewing-ios-26-for-power-users-reminders-preview-and-more/",
+      "publishedAt": "2025-09-25T14:17:18Z",
+      "processed_at": "2025-09-26T17:17:18.855226+00:00"
     },
     {
-      "title": "Microsoft forced to make Windows 10 extended security updates truly free in Europe - The Verge",
+      "title": "I put the iPhone Air vs Galaxy S25 Edge through a 7-round face-off — here's the winner - Tom's Guide",
       "source": {
-        "name": "The Verge"
+        "name": "Tom's Guide"
       },
-      "description": "You won’t have to enable Windows Backup to get extended Windows 10 security updates in the European ...",
-      "url": "https://www.theverge.com/news/785544/microsoft-windows-10-extended-security-updates-free-europe-changes",
-      "publishedAt": "2025-09-25T11:36:14Z",
-      "processed_at": "2025-09-26T16:25:02.106237+00:00"
+      "description": "Which superthin phone is best?...",
+      "url": "https://www.tomsguide.com/phones/i-put-the-iphone-air-vs-samsung-galaxy-s25-edge-through-a-7-round-face-off-heres-the-winner",
+      "publishedAt": "2025-09-25T13:21:59Z",
+      "processed_at": "2025-09-26T17:17:18.855226+00:00"
     },
     {
-      "title": "Google's Conversational Photo Editor Is the Rare AI Feature People Will Actually Use - WIRED",
+      "title": "Mega Evolution Brings Mega Might to Pokémon TCG Live - Pokemon.com",
       "source": {
-        "name": "Wired"
+        "name": "Pokemon.com"
       },
-      "description": "Google's tool greatly simplifies photo editing; just tell your phone what changes you want in the ph...",
-      "url": "https://www.wired.com/story/google-photos-conversational-photo-editor/",
-      "publishedAt": "2025-09-25T10:30:00Z",
-      "processed_at": "2025-09-26T16:25:02.106237+00:00"
+      "description": "The latest expansion brings Mega Evolution Pokémon ex to the game along with some cool updates....",
+      "url": "https://www.pokemon.com/us/pokemon-news/mega-evolution-brings-mega-might-to-pokemon-tcg-live",
+      "publishedAt": "2025-09-25T13:08:44Z",
+      "processed_at": "2025-09-26T17:17:18.855226+00:00"
     },
     {
-      "title": "The Super Mario \"glitch\" that started it all - Axios",
+      "title": "The OnePlus 15 gets early reveal, with new image engine and Snapdragon 8 Elite Gen 5 - 9to5Google",
       "source": {
-        "name": "Axios"
+        "name": "9to5google.com"
       },
-      "description": "Gamers have been looking for glitches for 40 years....",
-      "url": "https://www.axios.com/2025/09/24/super-mario-glitch-video-games",
-      "publishedAt": "2025-09-25T09:36:10Z",
-      "processed_at": "2025-09-26T16:25:02.106237+00:00"
-    },
-    {
-      "title": "Nintendo Shadow Drops Fire Emblem Shadows, a New Smartphone Spin-Off with Social Deduction - IGN",
-      "source": {
-        "name": "IGN"
-      },
-      "description": "Surprise! Nintendo has announced Fire Emblem Shadows, a new free-to-play smartphone game that's avai...",
-      "url": "https://www.ign.com/articles/nintendo-shadow-drops-fire-emblem-shadows-a-new-smartphone-spin-off-with-social-deduction",
-      "publishedAt": "2025-09-25T08:36:21Z",
-      "processed_at": "2025-09-26T16:25:02.106237+00:00"
-    },
-    {
-      "title": "iPhones could soon offer more support for non-Apple smartwatches - Mashable",
-      "source": {
-        "name": "Mashable"
-      },
-      "description": "Finally!...",
-      "url": "https://mashable.com/article/iphones-soon-support-non-apple-smartwatches",
-      "publishedAt": "2025-09-25T06:47:58Z",
-      "processed_at": "2025-09-26T16:25:02.106237+00:00"
-    },
-    {
-      "title": "Cisco Warns of Actively Exploited SNMP Vulnerability Allowing RCE or DoS in IOS Software - The Hacker News",
-      "source": {
-        "name": "Internet"
-      },
-      "description": "Cisco fixes CVE-2025-20352 SNMP flaw exploited in the wild, risking remote code execution or DoS....",
-      "url": "https://thehackernews.com/2025/09/cisco-warns-of-actively-exploited-snmp.html",
-      "publishedAt": "2025-09-25T06:30:00Z",
-      "processed_at": "2025-09-26T16:25:02.106237+00:00"
+      "description": "The OnePlus 15 is shaping up to be a big change for OnePlus, with a rumored new design and the confi...",
+      "url": "http://9to5google.com/2025/09/25/oneplus-15-early-reveal/",
+      "publishedAt": "2025-09-25T13:00:00Z",
+      "processed_at": "2025-09-26T17:17:18.855226+00:00"
     }
   ],
-  "lastUpdated": "2025-09-26T16:25:02.106300+00:00",
+  "lastUpdated": "2025-09-26T17:17:18.855362+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
