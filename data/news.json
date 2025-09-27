@@ -3,6 +3,56 @@
   "totalResults": 10,
   "articles": [
     {
+      "title": "YouTube Music is testing AI hosts that will interrupt your tunes - Ars Technica",
+      "source": {
+        "name": "Ars Technica"
+      },
+      "description": "YouTube Labs will be a place to preview all the app’s upcoming AI features....",
+      "url": "https://arstechnica.com/google/2025/09/youtube-music-is-testing-ai-hosts-that-will-interrupt-your-tunes/",
+      "publishedAt": "2025-09-26T21:05:30Z",
+      "processed_at": "2025-09-27T23:17:05.653135+00:00"
+    },
+    {
+      "title": "Apple AirPods Pro 3 Review: Still The Best for iOS - WIRED",
+      "source": {
+        "name": "Wired"
+      },
+      "description": "Apple's flagship earbuds are updated and better than ever, especially if you crave silence....",
+      "url": "https://www.wired.com/review/apple-airpods-pro-3/",
+      "publishedAt": "2025-09-26T20:25:37Z",
+      "processed_at": "2025-09-27T23:17:05.653135+00:00"
+    },
+    {
+      "title": "JPLers Get Layoff Update Letter - NASA Watch",
+      "source": {
+        "name": "Nasawatch.com"
+      },
+      "description": "JPLers got this email this morning from JPL Human Resources...",
+      "url": "https://nasawatch.com/personnel-news/jplers-get-layoff-update-letter/",
+      "publishedAt": "2025-09-26T19:06:14Z",
+      "processed_at": "2025-09-27T23:17:05.653135+00:00"
+    },
+    {
+      "title": "Costco is already selling piles of Lego Game Boys cheaper than the Lego company - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "Here’s how to find a Lego Game Boy at Costco for a sizeable discount ahead of its October 1st launch...",
+      "url": "https://www.theverge.com/news/786483/how-to-find-lego-game-boy-costco-sams-club-on-sale-early",
+      "publishedAt": "2025-09-26T19:00:44Z",
+      "processed_at": "2025-09-27T23:17:05.653135+00:00"
+    },
+    {
+      "title": "Planeswalker's Guide to Lorwyn Eclipsed - Magic: The Gathering",
+      "source": {
+        "name": "Wizards.com"
+      },
+      "description": "Take a trip to a plane of shadows, secrets, and slippery bogles. Lorwyn Eclipsed brings us back to o...",
+      "url": "https://magic.wizards.com/en/news/magic-story/planeswalkers-guide-to-lorwyn-eclipsed",
+      "publishedAt": "2025-09-26T18:55:21Z",
+      "processed_at": "2025-09-27T23:17:05.653135+00:00"
+    },
+    {
       "title": "EA Sports FC 26 review – The best football game in years - Dexerto",
       "source": {
         "name": "Dexerto"
@@ -10,17 +60,7 @@
       "description": "EA FC 26 brings the best on-pitch action the series has produced in years, thanks to the genius deci...",
       "url": "https://www.dexerto.com/ea-sports-fc/ea-sports-fc-26-review-the-best-football-game-in-years-3257637/",
       "publishedAt": "2025-09-26T18:39:04Z",
-      "processed_at": "2025-09-27T22:16:56.322200+00:00"
-    },
-    {
-      "title": "YouTube’s new AI experiment adds AI hosts to your music - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "YouTube is adding AI hosts to radio and mixes in the YouTube Music app as part of a new test availab...",
-      "url": "https://www.theverge.com/news/786697/youtube-labs-ai-experiment-music-radio-hosts",
-      "publishedAt": "2025-09-26T18:26:36Z",
-      "processed_at": "2025-09-27T22:16:56.322200+00:00"
+      "processed_at": "2025-09-27T23:17:05.653135+00:00"
     },
     {
       "title": "Apple Builds a ChatGPT-Like App to Help Test the Revamped Siri - Bloomberg.com",
@@ -30,7 +70,27 @@
       "description": "Apple Inc. has developed a ChatGPT-like iPhone app to help test and prepare for a long-anticipated o...",
       "url": "https://www.bloomberg.com/news/articles/2025-09-26/apple-builds-a-chatgpt-like-app-to-help-test-the-revamped-siri",
       "publishedAt": "2025-09-26T17:40:16Z",
-      "processed_at": "2025-09-27T22:16:56.322200+00:00"
+      "processed_at": "2025-09-27T23:17:05.653135+00:00"
+    },
+    {
+      "title": "Xiaomi's Newest Phone Sports a Rear Display and Skips a Number to Take Aim at iPhone 17 - IGN",
+      "source": {
+        "name": "IGN"
+      },
+      "description": "",
+      "url": "https://www.ign.com/articles/xiaomis-newest-phone-sports-a-rear-display-and-skips-a-number-to-take-aim-at-iphone-17",
+      "publishedAt": "2025-09-26T17:31:35Z",
+      "processed_at": "2025-09-27T23:17:05.653135+00:00"
+    },
+    {
+      "title": "AJ McCarron shares how Bengals saved money with “garage sale” - Cincy Jungle",
+      "source": {
+        "name": "Cincy Jungle"
+      },
+      "description": "According to former Cincinnati Bengals QB AJ McCarron, the Bengals used to host a garage sale to sav...",
+      "url": "https://www.cincyjungle.com/cincinnati-bengals-news/175829/cincinnati-bengals-cheap-aj-mccaarron-garage-sale",
+      "publishedAt": "2025-09-26T17:00:07Z",
+      "processed_at": "2025-09-27T23:17:05.653135+00:00"
     },
     {
       "title": "The Video-Game Industry Has a Problem: There Are Too Many Games - Bloomberg.com",
@@ -40,70 +100,10 @@
       "description": "A crowded September for video-game releases illustrates a broader challenge in the market...",
       "url": "https://www.bloomberg.com/news/newsletters/2025-09-26/the-video-game-industry-has-a-problem-there-are-too-many-games",
       "publishedAt": "2025-09-26T17:00:06Z",
-      "processed_at": "2025-09-27T22:16:56.322200+00:00"
-    },
-    {
-      "title": "Samsung Galaxy TriFold leak offers glimpse into multitasking on a giant foldable - 9to5Google",
-      "source": {
-        "name": "9to5google.com"
-      },
-      "description": "Newly leaked software animations from Samsung give us a bigger glimpse into the Galaxy TriFold’s mul...",
-      "url": "http://9to5google.com/2025/09/26/samsung-galaxy-trifold-leaks-show-multitasking/",
-      "publishedAt": "2025-09-26T16:16:00Z",
-      "processed_at": "2025-09-27T22:16:56.322200+00:00"
-    },
-    {
-      "title": "Xbox Has A Fix For The Most Annoying Thing About PC Gaming - Kotaku",
-      "source": {
-        "name": "Kotaku"
-      },
-      "description": "",
-      "url": "https://kotaku.com/microsofts-solution-pc-gaming-annoying-shader-compilation-xbox-rog-ally-ads-2000629200",
-      "publishedAt": "2025-09-26T16:13:32Z",
-      "processed_at": "2025-09-27T22:16:56.322200+00:00"
-    },
-    {
-      "title": "New Math Revives Geometry’s Oldest Problems - Quanta Magazine",
-      "source": {
-        "name": "Quanta Magazine"
-      },
-      "description": "Using a relatively young theory, a team of mathematicians has started to answer questions whose root...",
-      "url": "https://www.quantamagazine.org/new-math-revives-geometrys-oldest-problems-20250926/",
-      "publishedAt": "2025-09-26T14:30:24Z",
-      "processed_at": "2025-09-27T22:16:56.322200+00:00"
-    },
-    {
-      "title": "ROG Xbox Ally Pre-Orders: Live Stock Updates And Latest News - empireonline.com",
-      "source": {
-        "name": "Empire"
-      },
-      "description": "With the ROG Xbox Ally due to launch next month, we find out all there is to know about the new hand...",
-      "url": "https://www.empireonline.com/gaming/hardware/rog-xbox-ally-preorders/",
-      "publishedAt": "2025-09-26T14:23:32Z",
-      "processed_at": "2025-09-27T22:16:56.322200+00:00"
-    },
-    {
-      "title": "PS5 Is Sony’s Most ‘Successful’ Console Generation Ever And It’s Not Even Close - Kotaku",
-      "source": {
-        "name": "Kotaku"
-      },
-      "description": "PlayStation keeps making more money as it keeps raising prices...",
-      "url": "https://kotaku.com/ps5-sales-sony-borderlands-4-patch-performance-mgs4-2000629168",
-      "publishedAt": "2025-09-26T14:06:15Z",
-      "processed_at": "2025-09-27T22:16:56.322200+00:00"
-    },
-    {
-      "title": "Apple Responds to U.S. Class Action Lawsuit Over Delayed Siri Features - MacRumors",
-      "source": {
-        "name": "MacRumors"
-      },
-      "description": "In March, Apple delayed the launch of its personalized Siri features, and soon after the company was...",
-      "url": "https://www.macrumors.com/2025/09/26/apple-responds-to-delayed-siri-features-lawsuit/",
-      "publishedAt": "2025-09-26T13:57:57Z",
-      "processed_at": "2025-09-27T22:16:56.322200+00:00"
+      "processed_at": "2025-09-27T23:17:05.653135+00:00"
     }
   ],
-  "lastUpdated": "2025-09-27T22:16:56.322281+00:00",
+  "lastUpdated": "2025-09-27T23:17:05.653205+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
