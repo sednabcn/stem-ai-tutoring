@@ -1,6 +1,6 @@
 {
   "status": "success",
-  "totalResults": 9,
+  "totalResults": 10,
   "articles": [
     {
       "title": "Woman hospitalized with pain and vomiting—diet soda cured her - Ars Technica",
@@ -10,7 +10,7 @@
       "description": "Doctor’s dissolve mass in woman’s stomach by getting her to chug soda....",
       "url": "https://arstechnica.com/health/2025/09/woman-hospitalized-with-pain-and-vomiting-a-diet-soda-cured-her/",
       "publishedAt": "2025-09-26T22:02:57Z",
-      "processed_at": "2025-09-28T06:27:54.139915+00:00"
+      "processed_at": "2025-09-28T07:16:34.170352+00:00"
     },
     {
       "title": "Secret Lair: The PlayStation® Superdrop - Magic: The Gathering",
@@ -20,7 +20,7 @@
       "description": "We're revealing some all-new Secret Lair drops featuring PlayStation franchises....",
       "url": "https://magic.wizards.com/en/news/announcements/secret-lair-the-playstation-superdrop",
       "publishedAt": "2025-09-26T22:02:53Z",
-      "processed_at": "2025-09-28T06:27:54.139915+00:00"
+      "processed_at": "2025-09-28T07:16:34.170352+00:00"
     },
     {
       "title": "Game over for pure LLMs. Even Turing Award Winner Rich Sutton has gotten off the bus. - Marcus on AI",
@@ -30,7 +30,7 @@
       "description": "One by one, all the big names have turned around. What should we do next?...",
       "url": "https://garymarcus.substack.com/p/game-over-for-pure-llms-even-turing",
       "publishedAt": "2025-09-26T21:45:09Z",
-      "processed_at": "2025-09-28T06:27:54.139915+00:00"
+      "processed_at": "2025-09-28T07:16:34.170352+00:00"
     },
     {
       "title": "Microsoft Photos will soon auto-categorize your pictures - The Verge",
@@ -40,7 +40,7 @@
       "description": "A test uses AI to sort your receipts, screenshots, identity documents, and notes into specific folde...",
       "url": "https://www.theverge.com/news/786837/microsoft-photos-ai-auto-categorize-test",
       "publishedAt": "2025-09-26T21:40:35Z",
-      "processed_at": "2025-09-28T06:27:54.139915+00:00"
+      "processed_at": "2025-09-28T07:16:34.170352+00:00"
     },
     {
       "title": "Apple AirPods Pro 3 Review: Still The Best for iOS - WIRED",
@@ -50,7 +50,7 @@
       "description": "Apple's flagship earbuds are updated and better than ever, especially if you crave silence....",
       "url": "https://www.wired.com/review/apple-airpods-pro-3/",
       "publishedAt": "2025-09-26T20:25:37Z",
-      "processed_at": "2025-09-28T06:27:54.139915+00:00"
+      "processed_at": "2025-09-28T07:16:34.170352+00:00"
     },
     {
       "title": "JPLers Get Layoff Update Letter - NASA Watch",
@@ -60,7 +60,7 @@
       "description": "JPLers got this email this morning from JPL Human Resources...",
       "url": "https://nasawatch.com/personnel-news/jplers-get-layoff-update-letter/",
       "publishedAt": "2025-09-26T19:06:14Z",
-      "processed_at": "2025-09-28T06:27:54.139915+00:00"
+      "processed_at": "2025-09-28T07:16:34.170352+00:00"
     },
     {
       "title": "Planeswalker's Guide to Lorwyn Eclipsed - Magic: The Gathering",
@@ -70,7 +70,7 @@
       "description": "Take a trip to a plane of shadows, secrets, and slippery bogles. Lorwyn Eclipsed brings us back to o...",
       "url": "https://magic.wizards.com/en/news/magic-story/planeswalkers-guide-to-lorwyn-eclipsed",
       "publishedAt": "2025-09-26T18:55:21Z",
-      "processed_at": "2025-09-28T06:27:54.139915+00:00"
+      "processed_at": "2025-09-28T07:16:34.170352+00:00"
     },
     {
       "title": "EA Sports FC 26 review – The best football game in years - Dexerto",
@@ -80,20 +80,30 @@
       "description": "EA FC 26 brings the best on-pitch action the series has produced in years, thanks to the genius deci...",
       "url": "https://www.dexerto.com/ea-sports-fc/ea-sports-fc-26-review-the-best-football-game-in-years-3257637/",
       "publishedAt": "2025-09-26T18:39:04Z",
-      "processed_at": "2025-09-28T06:27:54.139915+00:00"
+      "processed_at": "2025-09-28T07:16:34.170352+00:00"
     },
     {
-      "title": "Apple Testing LLM Siri With ChatGPT-Like App - MacRumors",
+      "title": "Apple Builds a ChatGPT-Like App to Help Test the Revamped Siri - Bloomberg.com",
       "source": {
-        "name": "MacRumors"
+        "name": "Bloomberg"
       },
-      "description": "Apple designed a ChatGPT-like app to help its engineers test the overhauled version of Siri, reports...",
-      "url": "https://www.macrumors.com/2025/09/26/apple-llm-siri-app/",
-      "publishedAt": "2025-09-26T18:01:40Z",
-      "processed_at": "2025-09-28T06:27:54.139915+00:00"
+      "description": "Apple Inc. has developed a ChatGPT-like iPhone app to help test and prepare for a long-anticipated o...",
+      "url": "https://www.bloomberg.com/news/articles/2025-09-26/apple-builds-a-chatgpt-like-app-to-help-test-the-revamped-siri",
+      "publishedAt": "2025-09-26T17:40:16Z",
+      "processed_at": "2025-09-28T07:16:34.170352+00:00"
+    },
+    {
+      "title": "FF7 Remake’s Third Chapter Is ‘Going Extremely Well’ - Kotaku",
+      "source": {
+        "name": "Kotaku"
+      },
+      "description": "Contrary to what some may think, FF7 Rebirth’s sales have not hindered part three’s development...",
+      "url": "https://kotaku.com/final-fantasy-7-remake-rebirth-switch-2-xbox-port-part-3-2000629254",
+      "publishedAt": "2025-09-26T17:39:21Z",
+      "processed_at": "2025-09-28T07:16:34.170352+00:00"
     }
   ],
-  "lastUpdated": "2025-09-28T06:27:54.139986+00:00",
+  "lastUpdated": "2025-09-28T07:16:34.170426+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
