@@ -1,7 +1,27 @@
 {
   "status": "success",
-  "totalResults": 10,
+  "totalResults": 9,
   "articles": [
+    {
+      "title": "The 10 Most Valuable Pokémon TCG Mega Evolution Cards That I'm Already Chasing - IGN",
+      "source": {
+        "name": "IGN"
+      },
+      "description": "Discover the 10 most expensive Pokémon TCG Mega Evolution cards, ranked by market value....",
+      "url": "https://www.ign.com/articles/pokemon-tcg-mega-evolution-cards-most-expensive-cards",
+      "publishedAt": "2025-09-27T09:28:26Z",
+      "processed_at": "2025-09-28T09:17:52.934141+00:00"
+    },
+    {
+      "title": "The First Commercial Space Station Just Got an Official Watch. It’s Not an Omega - Gear Patrol",
+      "source": {
+        "name": "Gear Patrol"
+      },
+      "description": "The world's — or rather, solar system's — first commercial space station, Vast's Haven-1, has announ...",
+      "url": "https://www.gearpatrol.com/watches/iwc-vast-space-station/",
+      "publishedAt": "2025-09-26T22:10:21Z",
+      "processed_at": "2025-09-28T09:17:52.934141+00:00"
+    },
     {
       "title": "Woman hospitalized with pain and vomiting—diet soda cured her - Ars Technica",
       "source": {
@@ -10,27 +30,17 @@
       "description": "Doctor’s dissolve mass in woman’s stomach by getting her to chug soda....",
       "url": "https://arstechnica.com/health/2025/09/woman-hospitalized-with-pain-and-vomiting-a-diet-soda-cured-her/",
       "publishedAt": "2025-09-26T22:02:57Z",
-      "processed_at": "2025-09-28T08:22:45.443548+00:00"
+      "processed_at": "2025-09-28T09:17:52.934141+00:00"
     },
     {
-      "title": "Secret Lair: The PlayStation® Superdrop - Magic: The Gathering",
+      "title": "Alphabet Stock Eyes $290 After Andrew Boone Hails Google’s New Chrome Era - TipRanks",
       "source": {
-        "name": "Wizards.com"
+        "name": "Tipranks.com"
       },
-      "description": "We're revealing some all-new Secret Lair drops featuring PlayStation franchises....",
-      "url": "https://magic.wizards.com/en/news/announcements/secret-lair-the-playstation-superdrop",
-      "publishedAt": "2025-09-26T22:02:53Z",
-      "processed_at": "2025-09-28T08:22:45.443548+00:00"
-    },
-    {
-      "title": "Game over for pure LLMs. Even Turing Award Winner Rich Sutton has gotten off the bus. - Marcus on AI",
-      "source": {
-        "name": "Substack.com"
-      },
-      "description": "One by one, all the big names have turned around. What should we do next?...",
-      "url": "https://garymarcus.substack.com/p/game-over-for-pure-llms-even-turing",
-      "publishedAt": "2025-09-26T21:45:09Z",
-      "processed_at": "2025-09-28T08:22:45.443548+00:00"
+      "description": "Alphabet (NASDAQ:GOOGL) may have trailed OpenAI’s ChatGPT in the early stages of the GenAI race, but...",
+      "url": "https://www.tipranks.com/news/alphabet-stock-eyes-290-after-andrew-boone-hails-googles-new-chrome-era",
+      "publishedAt": "2025-09-26T21:45:00Z",
+      "processed_at": "2025-09-28T09:17:52.934141+00:00"
     },
     {
       "title": "Microsoft Photos will soon auto-categorize your pictures - The Verge",
@@ -40,7 +50,27 @@
       "description": "A test uses AI to sort your receipts, screenshots, identity documents, and notes into specific folde...",
       "url": "https://www.theverge.com/news/786837/microsoft-photos-ai-auto-categorize-test",
       "publishedAt": "2025-09-26T21:40:35Z",
-      "processed_at": "2025-09-28T08:22:45.443548+00:00"
+      "processed_at": "2025-09-28T09:17:52.934141+00:00"
+    },
+    {
+      "title": "Magic: The Gathering Is Making PlayStation Cards, And They Look Great - Kotaku",
+      "source": {
+        "name": "Kotaku"
+      },
+      "description": "Joel, Ellie, Kratos and more are coming to the trading card game...",
+      "url": "https://kotaku.com/magic-gathering-playstation-last-of-us-god-of-war-ellie-2000629350",
+      "publishedAt": "2025-09-26T21:12:18Z",
+      "processed_at": "2025-09-28T09:17:52.934141+00:00"
+    },
+    {
+      "title": "YouTube Music is testing AI hosts that will interrupt your tunes - Ars Technica",
+      "source": {
+        "name": "Ars Technica"
+      },
+      "description": "YouTube Labs will be a place to preview all the app’s upcoming AI features....",
+      "url": "https://arstechnica.com/google/2025/09/youtube-music-is-testing-ai-hosts-that-will-interrupt-your-tunes/",
+      "publishedAt": "2025-09-26T21:05:30Z",
+      "processed_at": "2025-09-28T09:17:52.934141+00:00"
     },
     {
       "title": "Apple AirPods Pro 3 Review: Still The Best for iOS - WIRED",
@@ -50,60 +80,20 @@
       "description": "Apple's flagship earbuds are updated and better than ever, especially if you crave silence....",
       "url": "https://www.wired.com/review/apple-airpods-pro-3/",
       "publishedAt": "2025-09-26T20:25:37Z",
-      "processed_at": "2025-09-28T08:22:45.443548+00:00"
+      "processed_at": "2025-09-28T09:17:52.934141+00:00"
     },
     {
-      "title": "JPLers Get Layoff Update Letter - NASA Watch",
+      "title": "Subaru's Lineup Is Getting More Expensive in 2026 - Motor1.com",
       "source": {
-        "name": "Nasawatch.com"
+        "name": "Motor1 "
       },
-      "description": "JPLers got this email this morning from JPL Human Resources...",
-      "url": "https://nasawatch.com/personnel-news/jplers-get-layoff-update-letter/",
-      "publishedAt": "2025-09-26T19:06:14Z",
-      "processed_at": "2025-09-28T08:22:45.443548+00:00"
-    },
-    {
-      "title": "Planeswalker's Guide to Lorwyn Eclipsed - Magic: The Gathering",
-      "source": {
-        "name": "Wizards.com"
-      },
-      "description": "Take a trip to a plane of shadows, secrets, and slippery bogles. Lorwyn Eclipsed brings us back to o...",
-      "url": "https://magic.wizards.com/en/news/magic-story/planeswalkers-guide-to-lorwyn-eclipsed",
-      "publishedAt": "2025-09-26T18:55:21Z",
-      "processed_at": "2025-09-28T08:22:45.443548+00:00"
-    },
-    {
-      "title": "EA Sports FC 26 review – The best football game in years - Dexerto",
-      "source": {
-        "name": "Dexerto"
-      },
-      "description": "EA FC 26 brings the best on-pitch action the series has produced in years, thanks to the genius deci...",
-      "url": "https://www.dexerto.com/ea-sports-fc/ea-sports-fc-26-review-the-best-football-game-in-years-3257637/",
-      "publishedAt": "2025-09-26T18:39:04Z",
-      "processed_at": "2025-09-28T08:22:45.443548+00:00"
-    },
-    {
-      "title": "Apple Builds a ChatGPT-Like App to Help Test the Revamped Siri - Bloomberg.com",
-      "source": {
-        "name": "Bloomberg"
-      },
-      "description": "Apple Inc. has developed a ChatGPT-like iPhone app to help test and prepare for a long-anticipated o...",
-      "url": "https://www.bloomberg.com/news/articles/2025-09-26/apple-builds-a-chatgpt-like-app-to-help-test-the-revamped-siri",
-      "publishedAt": "2025-09-26T17:40:16Z",
-      "processed_at": "2025-09-28T08:22:45.443548+00:00"
-    },
-    {
-      "title": "FF7 Remake’s Third Chapter Is ‘Going Extremely Well’ - Kotaku",
-      "source": {
-        "name": "Kotaku"
-      },
-      "description": "Contrary to what some may think, FF7 Rebirth’s sales have not hindered part three’s development...",
-      "url": "https://kotaku.com/final-fantasy-7-remake-rebirth-switch-2-xbox-port-part-3-2000629254",
-      "publishedAt": "2025-09-26T17:39:21Z",
-      "processed_at": "2025-09-28T08:22:45.443548+00:00"
+      "description": "Subaru has released pricing for many of its 2026 models, including the redesigned Outback, Impreza, ...",
+      "url": "https://www.motor1.com/news/773833/2026-subaru-prices/",
+      "publishedAt": "2025-09-26T19:15:28Z",
+      "processed_at": "2025-09-28T09:17:52.934141+00:00"
     }
   ],
-  "lastUpdated": "2025-09-28T08:22:45.443625+00:00",
+  "lastUpdated": "2025-09-28T09:17:52.934213+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
