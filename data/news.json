@@ -1,7 +1,17 @@
 {
   "status": "success",
-  "totalResults": 9,
+  "totalResults": 10,
   "articles": [
+    {
+      "title": "Your TV's USB port has hidden superpowers: 5 clever ways I use mine - ZDNET",
+      "source": {
+        "name": "ZDNet"
+      },
+      "description": "It's actually surprisingly useful....",
+      "url": "https://www.zdnet.com/home-and-office/home-entertainment/your-tvs-usb-port-has-hidden-superpowers-5-clever-ways-i-use-mine/",
+      "publishedAt": "2025-09-27T10:00:00Z",
+      "processed_at": "2025-09-28T11:14:05.623367+00:00"
+    },
     {
       "title": "The 10 Most Valuable Pokémon TCG Mega Evolution Cards That I'm Already Chasing - IGN",
       "source": {
@@ -10,7 +20,37 @@
       "description": "Discover the 10 most expensive Pokémon TCG Mega Evolution cards, ranked by market value....",
       "url": "https://www.ign.com/articles/pokemon-tcg-mega-evolution-cards-most-expensive-cards",
       "publishedAt": "2025-09-27T09:28:26Z",
-      "processed_at": "2025-09-28T10:18:11.368036+00:00"
+      "processed_at": "2025-09-28T11:14:05.623367+00:00"
+    },
+    {
+      "title": "Video: Square Enix Showcases 17 Minutes Of Dragon Quest VII: Reimagined Gameplay - Nintendo Life",
+      "source": {
+        "name": "Nintendo Life"
+      },
+      "description": "Gameplay of Octopath Traveler 0 also revealed...",
+      "url": "https://www.nintendolife.com/news/2025/09/video-square-enix-showcases-17-minutes-of-dragon-quest-vii-reimagined-gameplay",
+      "publishedAt": "2025-09-27T06:00:00Z",
+      "processed_at": "2025-09-28T11:14:05.623367+00:00"
+    },
+    {
+      "title": "ChatGPT will let your team collaborate via 'shared projects' - and other work-friendly updates - ZDNET",
+      "source": {
+        "name": "ZDNet"
+      },
+      "description": "OpenAI's chatbot can now automatically pull info from apps like Gmail and DropBox, among other perks...",
+      "url": "https://www.zdnet.com/article/chatgpt-will-let-your-team-collaborate-via-shared-projects-and-other-work-friendly-updates/",
+      "publishedAt": "2025-09-27T02:00:00Z",
+      "processed_at": "2025-09-28T11:14:05.623367+00:00"
+    },
+    {
+      "title": "Code Vein II Reveals Key Characters and Profiles Ahead of January 2026 Release - Noisy Pixel",
+      "source": {
+        "name": "Noisy Pixel"
+      },
+      "description": "Bandai Namco unveils new Code Vein II characters, including Lou and Valentin, with fresh screenshots...",
+      "url": "https://noisypixel.net/code-vein-2-key-character-reveals-2026/",
+      "publishedAt": "2025-09-26T22:53:22Z",
+      "processed_at": "2025-09-28T11:14:05.623367+00:00"
     },
     {
       "title": "The First Commercial Space Station Just Got an Official Watch. It’s Not an Omega - Gear Patrol",
@@ -20,7 +60,7 @@
       "description": "The world's — or rather, solar system's — first commercial space station, Vast's Haven-1, has announ...",
       "url": "https://www.gearpatrol.com/watches/iwc-vast-space-station/",
       "publishedAt": "2025-09-26T22:10:21Z",
-      "processed_at": "2025-09-28T10:18:11.368036+00:00"
+      "processed_at": "2025-09-28T11:14:05.623367+00:00"
     },
     {
       "title": "Woman hospitalized with pain and vomiting—diet soda cured her - Ars Technica",
@@ -30,7 +70,7 @@
       "description": "Doctor’s dissolve mass in woman’s stomach by getting her to chug soda....",
       "url": "https://arstechnica.com/health/2025/09/woman-hospitalized-with-pain-and-vomiting-a-diet-soda-cured-her/",
       "publishedAt": "2025-09-26T22:02:57Z",
-      "processed_at": "2025-09-28T10:18:11.368036+00:00"
+      "processed_at": "2025-09-28T11:14:05.623367+00:00"
     },
     {
       "title": "Alphabet Stock Eyes $290 After Andrew Boone Hails Google’s New Chrome Era - TipRanks",
@@ -40,7 +80,7 @@
       "description": "Alphabet (NASDAQ:GOOGL) may have trailed OpenAI’s ChatGPT in the early stages of the GenAI race, but...",
       "url": "https://www.tipranks.com/news/alphabet-stock-eyes-290-after-andrew-boone-hails-googles-new-chrome-era",
       "publishedAt": "2025-09-26T21:45:00Z",
-      "processed_at": "2025-09-28T10:18:11.368036+00:00"
+      "processed_at": "2025-09-28T11:14:05.623367+00:00"
     },
     {
       "title": "Microsoft Photos will soon auto-categorize your pictures - The Verge",
@@ -50,50 +90,20 @@
       "description": "A test uses AI to sort your receipts, screenshots, identity documents, and notes into specific folde...",
       "url": "https://www.theverge.com/news/786837/microsoft-photos-ai-auto-categorize-test",
       "publishedAt": "2025-09-26T21:40:35Z",
-      "processed_at": "2025-09-28T10:18:11.368036+00:00"
+      "processed_at": "2025-09-28T11:14:05.623367+00:00"
     },
     {
-      "title": "Magic: The Gathering Is Making PlayStation Cards, And They Look Great - Kotaku",
+      "title": "Hades 2, Silent Hill f, And More: 5 Games To Play This Weekend - Kotaku",
       "source": {
         "name": "Kotaku"
       },
-      "description": "Joel, Ellie, Kratos and more are coming to the trading card game...",
-      "url": "https://kotaku.com/magic-gathering-playstation-last-of-us-god-of-war-ellie-2000629350",
-      "publishedAt": "2025-09-26T21:12:18Z",
-      "processed_at": "2025-09-28T10:18:11.368036+00:00"
-    },
-    {
-      "title": "YouTube Music is testing AI hosts that will interrupt your tunes - Ars Technica",
-      "source": {
-        "name": "Ars Technica"
-      },
-      "description": "YouTube Labs will be a place to preview all the app’s upcoming AI features....",
-      "url": "https://arstechnica.com/google/2025/09/youtube-music-is-testing-ai-hosts-that-will-interrupt-your-tunes/",
-      "publishedAt": "2025-09-26T21:05:30Z",
-      "processed_at": "2025-09-28T10:18:11.368036+00:00"
-    },
-    {
-      "title": "Apple AirPods Pro 3 Review: Still The Best for iOS - WIRED",
-      "source": {
-        "name": "Wired"
-      },
-      "description": "Apple's flagship earbuds are updated and better than ever, especially if you crave silence....",
-      "url": "https://www.wired.com/review/apple-airpods-pro-3/",
-      "publishedAt": "2025-09-26T20:25:37Z",
-      "processed_at": "2025-09-28T10:18:11.368036+00:00"
-    },
-    {
-      "title": "Subaru's Lineup Is Getting More Expensive in 2026 - Motor1.com",
-      "source": {
-        "name": "Motor1 "
-      },
-      "description": "Subaru has released pricing for many of its 2026 models, including the redesigned Outback, Impreza, ...",
-      "url": "https://www.motor1.com/news/773833/2026-subaru-prices/",
-      "publishedAt": "2025-09-26T19:15:28Z",
-      "processed_at": "2025-09-28T10:18:11.368036+00:00"
+      "description": "This weekend we’re taking terrifying trips to Japan, hanging with speedy hedgehogs on wheels, helpin...",
+      "url": "https://kotaku.com/kotaku-games-to-play-silent-hill-f-sonic-baby-steps-2000629349",
+      "publishedAt": "2025-09-26T21:29:50Z",
+      "processed_at": "2025-09-28T11:14:05.623367+00:00"
     }
   ],
-  "lastUpdated": "2025-09-28T10:18:11.368108+00:00",
+  "lastUpdated": "2025-09-28T11:14:05.623447+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
