@@ -1,7 +1,17 @@
 {
   "status": "success",
-  "totalResults": 9,
+  "totalResults": 10,
   "articles": [
+    {
+      "title": "Blood: Refreshed Supply announced for PS5, Xbox Series, Switch 2, PS4, Xbox One, Switch, and PC - gematsu.com",
+      "source": {
+        "name": "Gematsu"
+      },
+      "description": "Publishers Warner Bros. Games and Atari, and developers Nightdive Studios and Monolith Productions h...",
+      "url": "https://www.gematsu.com/2025/09/blood-refreshed-supply-announced-for-ps5-xbox-series-switch-2-ps4-xbox-one-switch-and-pc",
+      "publishedAt": "2025-09-28T16:03:08Z",
+      "processed_at": "2025-09-29T17:17:47.520174+00:00"
+    },
     {
       "title": "Dan Houser names Red Dead Redemption 2 Rockstar's greatest achievement - Gamereactor UK",
       "source": {
@@ -10,7 +20,7 @@
       "description": "Rockstar Games has delivered a string of unforgettable hits over the years, from the obvious Grand T...",
       "url": "https://www.gamereactor.eu/dan-houser-names-red-dead-redemption-2-rockstars-greatest-achievement-1608963/",
       "publishedAt": "2025-09-28T14:32:38Z",
-      "processed_at": "2025-09-29T16:20:25.635481+00:00"
+      "processed_at": "2025-09-29T17:17:47.520174+00:00"
     },
     {
       "title": "18 months after his brain chip implant, Neuralink’s first patient shares his journey - valleyvanguardonline.com",
@@ -20,7 +30,17 @@
       "description": "... Read more...",
       "url": "https://www.valleyvanguardonline.com/18-months-after-his-brain-chip-implant-neuralinks-first-patient-shares-his-journey/",
       "publishedAt": "2025-09-28T14:05:19Z",
-      "processed_at": "2025-09-29T16:20:25.635481+00:00"
+      "processed_at": "2025-09-29T17:17:47.520174+00:00"
+    },
+    {
+      "title": "Should you pay for Spotify Lossless? Only if you meet these 3 criteria - Android Authority",
+      "source": {
+        "name": "Android Authority"
+      },
+      "description": "Spotify Lossless boasts a huge leap in streaming quality, but don't be fooled, you'll only benefit i...",
+      "url": "https://www.androidauthority.com/spotify-lossless-criteria-3601261/",
+      "publishedAt": "2025-09-28T13:32:02Z",
+      "processed_at": "2025-09-29T17:17:47.520174+00:00"
     },
     {
       "title": "Rockstar co-founder Dan Houser opens up on Bully 2: \"You just can't do all the projects you want\" - Eurogamer",
@@ -30,7 +50,7 @@
       "description": "Rockstar co-founder Dan Houser has opened up on why we never received a follow-up to 2006's Bully....",
       "url": "https://www.eurogamer.net/rockstar-co-founder-dan-houser-opens-up-on-bully-2-you-just-cant-do-all-the-projects-you-want",
       "publishedAt": "2025-09-28T13:20:28Z",
-      "processed_at": "2025-09-29T16:20:25.635481+00:00"
+      "processed_at": "2025-09-29T17:17:47.520174+00:00"
     },
     {
       "title": "I spent three months with Telly, the free TV that’s always showing ads - The Verge",
@@ -40,7 +60,7 @@
       "description": "Telly is the company that offers a free smart TV in exchange for the ads it constantly shows on a se...",
       "url": "https://www.theverge.com/televisions/777588/telly-tv-hands-on-ads",
       "publishedAt": "2025-09-28T13:00:00Z",
-      "processed_at": "2025-09-29T16:20:25.635481+00:00"
+      "processed_at": "2025-09-29T17:17:47.520174+00:00"
     },
     {
       "title": "Intel’s Panther Lake CPUs Will Be The Firm’s First ‘Gamble’ With The Highly-Anticipated 18A Node – Here’s Everything We Know - Wccftech",
@@ -50,7 +70,27 @@
       "description": "Here's an extensive roundup on how Intel's first 18A product, the Panther Lake mobile SoC lineup, wi...",
       "url": "https://wccftech.com/roundup/intel-panther-lake/",
       "publishedAt": "2025-09-28T13:00:00Z",
-      "processed_at": "2025-09-29T16:20:25.635481+00:00"
+      "processed_at": "2025-09-29T17:17:47.520174+00:00"
+    },
+    {
+      "title": "How the voice of Silksong’s Hornet brought her to life through gibberish - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "Hornet is a voiced protagonist in Hollow Knight: Silksong, and voice actor Makoto Koji made up a lot...",
+      "url": "https://www.theverge.com/games/785915/hollow-knight-silksong-hornet-voice-actor-makoto-koji-gibberish",
+      "publishedAt": "2025-09-28T12:30:00Z",
+      "processed_at": "2025-09-29T17:17:47.520174+00:00"
+    },
+    {
+      "title": "Report: Apple ‘nearing’ mass production for M5 MacBook Pros and new Studio Display - 9to5Mac",
+      "source": {
+        "name": "9to5Mac"
+      },
+      "description": "According to the latest edition of the Power On newsletter from Bloomberg’s Mark Gurman, a few key A...",
+      "url": "https://9to5mac.com/2025/09/28/new-macbook-air-macbook-pro-and-studio-display-nearing-mass-production-report/",
+      "publishedAt": "2025-09-28T12:29:00Z",
+      "processed_at": "2025-09-29T17:17:47.520174+00:00"
     },
     {
       "title": "$300 GeForce vs. $300 Radeon GPU: Four Generations, Head to Head - TechSpot",
@@ -60,40 +100,10 @@
       "description": "We compare four generations of $300 GeForce and Radeon GPUs to see how budget gaming has evolved, fr...",
       "url": "https://www.techspot.com/review/3035-geforce-vs-radeon-mainstream-generations/",
       "publishedAt": "2025-09-28T12:21:00Z",
-      "processed_at": "2025-09-29T16:20:25.635481+00:00"
-    },
-    {
-      "title": "Apple’s ChatGPT-Style Chatbot App Deserves a Public Release - Bloomberg.com",
-      "source": {
-        "name": "Bloomberg"
-      },
-      "description": "Apple should release its internal ChatGPT-like app publicly to give its revamped AI system more cred...",
-      "url": "https://www.bloomberg.com/news/newsletters/2025-09-28/apple-s-chatgpt-rival-m5-macbook-air-new-monitor-timing-ads-coming-to-maps-mg3ne6rw",
-      "publishedAt": "2025-09-28T12:00:17Z",
-      "processed_at": "2025-09-29T16:20:25.635481+00:00"
-    },
-    {
-      "title": "A Burner Phone Is Your Best Defense Against Border Searches. Here's What to Know - CNET",
-      "source": {
-        "name": "CNET"
-      },
-      "description": "Find out why even a locked phone is not safe from border patrol searches and how a burner phone is t...",
-      "url": "https://www.cnet.com/tech/mobile/a-burner-phone-is-your-best-defense-against-border-searches-heres-what-to-know/",
-      "publishedAt": "2025-09-28T12:00:00Z",
-      "processed_at": "2025-09-29T16:20:25.635481+00:00"
-    },
-    {
-      "title": "Keep Your Old Laptop Alive by Installing ChromeOS Flex - WIRED",
-      "source": {
-        "name": "Wired"
-      },
-      "description": "Google offers a free, lightweight operating system that essentially turns any machine into a Chromeb...",
-      "url": "https://www.wired.com/story/how-to-install-chromeos-flex/",
-      "publishedAt": "2025-09-28T11:30:00Z",
-      "processed_at": "2025-09-29T16:20:25.635481+00:00"
+      "processed_at": "2025-09-29T17:17:47.520174+00:00"
     }
   ],
-  "lastUpdated": "2025-09-29T16:20:25.635559+00:00",
+  "lastUpdated": "2025-09-29T17:17:47.520248+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
