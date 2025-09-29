@@ -1,7 +1,27 @@
 {
   "status": "success",
-  "totalResults": 9,
+  "totalResults": 8,
   "articles": [
+    {
+      "title": "Big Google Home app redesign with ‘Ask Home’ starts rolling out on iPhone - 9to5Google",
+      "source": {
+        "name": "9to5google.com"
+      },
+      "description": "We previously spotted that the Google Home app was getting a redesign with \"Ask Home\" and it’s now b...",
+      "url": "http://9to5google.com/2025/09/27/google-home-ask-redesign-iphone/",
+      "publishedAt": "2025-09-28T04:48:00Z",
+      "processed_at": "2025-09-29T05:20:09.454108+00:00"
+    },
+    {
+      "title": "Penn State-Oregon Fourth Quarter Open Thread - Black Shoe Diaries",
+      "source": {
+        "name": "Black Shoe Diaries"
+      },
+      "description": "Fourth quarter!...",
+      "url": "https://www.blackshoediaries.com/open_threads/79261/penn-state-nittany-lions-football-oregon-fourth-quarter-open-thread-bsd",
+      "publishedAt": "2025-09-28T02:00:00Z",
+      "processed_at": "2025-09-29T05:20:09.454108+00:00"
+    },
     {
       "title": "Little Nightmares Enhanced Edition upgrade for Nintendo Switch players unavailable because of \"technical constraints\" - Nintendo Everything",
       "source": {
@@ -10,17 +30,17 @@
       "description": "Bandai Namco explains why the Little Nightmares Enhanced Edition free upgrade won't be available for...",
       "url": "https://nintendoeverything.com/little-nightmares-enhanced-edition-switch-upgrade/",
       "publishedAt": "2025-09-28T01:30:00Z",
-      "processed_at": "2025-09-29T04:24:42.314900+00:00"
+      "processed_at": "2025-09-29T05:20:09.454108+00:00"
     },
     {
-      "title": "Mets vs. Marlins: Lineups, broadcast info, and open thread, 9/27/25 - Amazin' Avenue",
+      "title": "iOS 26.0.1 coming soon for iPhone users [Updated] - 9to5Mac",
       "source": {
-        "name": "Amazin' Avenue"
+        "name": "9to5Mac"
       },
-      "description": "It’s do or die for Clay Holmes and the Mets as they desperately try to keep their playoff hopes aliv...",
-      "url": "https://www.amazinavenue.com/new-york-mets-chat-gamethread/86202/mets-vs-marlins-lineups-broadcast-info-how-open-thread-miami-new-york-baseball-mlb",
-      "publishedAt": "2025-09-27T19:12:24Z",
-      "processed_at": "2025-09-29T04:24:42.314900+00:00"
+      "description": "Update September 27, 2025: We’re still waiting on Apple to release iOS 26.0.1 to everyone, but it se...",
+      "url": "https://9to5mac.com/2025/09/27/ios-26-0-1-coming-soon-for-iphone-users/",
+      "publishedAt": "2025-09-28T00:07:00Z",
+      "processed_at": "2025-09-29T05:20:09.454108+00:00"
     },
     {
       "title": "PlayStation Secret Lair Superdrop Brings The Last of Us, God of War, and More to Magic: The Gathering in October - IGN",
@@ -30,17 +50,27 @@
       "description": "Magic: The Gathering is getting a collection of PlayStation cards as part of an upcoming Secret Lair...",
       "url": "https://www.ign.com/articles/playstation-secret-lair-superdrop-brings-the-last-of-us-god-of-war-and-more-to-magic-the-gathering-in-october",
       "publishedAt": "2025-09-27T19:10:20Z",
-      "processed_at": "2025-09-29T04:24:42.314900+00:00"
+      "processed_at": "2025-09-29T05:20:09.454108+00:00"
     },
     {
-      "title": "Minecraft's next game drop has already been revealed, and I love this new mob that's on the way - Windows Central",
+      "title": "Minecraft's Mounts Of Mayhem Update Will Mix Up Combat - GameSpot",
+      "source": {
+        "name": "GameSpot"
+      },
+      "description": "Take to the seas with a new mount, and fend off enemies with a new weapon....",
+      "url": "https://www.gamespot.com/articles/minecraft-live-mounts-of-mayhem/1100-6535060/",
+      "publishedAt": "2025-09-27T18:30:00Z",
+      "processed_at": "2025-09-29T05:20:09.454108+00:00"
+    },
+    {
+      "title": "Only three days left until the 'Copper Age' update comes to Minecraft - Windows Central",
       "source": {
         "name": "Windows Central"
       },
-      "description": "Mojang Studios announced Mounts of Mayhem, the next game drop for Minecraft coming Holiday 2025....",
-      "url": "https://www.windowscentral.com/gaming/xbox/minecraft-live-mounts-of-mayhem-revealed",
-      "publishedAt": "2025-09-27T17:33:14Z",
-      "processed_at": "2025-09-29T04:24:42.314900+00:00"
+      "description": "The 'Copper Age' update is bringing oxidizing objects and copper golems to Minecraft. Here's everyth...",
+      "url": "https://www.windowscentral.com/gaming/minecraft/minecraft-copper-age-update-launching-soon",
+      "publishedAt": "2025-09-27T17:30:12Z",
+      "processed_at": "2025-09-29T05:20:09.454108+00:00"
     },
     {
       "title": "Silent Hill f Looks Incredible With Its Hidden “True Epic” Settings - DSOGaming",
@@ -50,50 +80,10 @@
       "description": "There are some hidden \"True Epic\" settings that you can unlock that can greatly improve the image qu...",
       "url": "https://www.dsogaming.com/pc-performance-analyses/silent-hill-f-looks-incredible-with-its-hidden-true-epic-settings/",
       "publishedAt": "2025-09-27T17:07:53Z",
-      "processed_at": "2025-09-29T04:24:42.314900+00:00"
-    },
-    {
-      "title": "Destiny 2 Desert Perpetual Epic Raid Loot Table: All Weapons and Armor - The Game Post",
-      "source": {
-        "name": "Thegamepost.com"
-      },
-      "description": "Here's the full Destiny 2 Desert Perpetual Epic raid loot table, including all raid weapons, armor, ...",
-      "url": "https://thegamepost.com/destiny-2-desert-perpetual-epic-raid-loot-table/",
-      "publishedAt": "2025-09-27T17:06:09Z",
-      "processed_at": "2025-09-29T04:24:42.314900+00:00"
-    },
-    {
-      "title": "\"They're Mining Millions Of Tons On The Moon\": Space Officials Reveal Helium-3 Extraction Making Oil Worthless - Rude Baguette",
-      "source": {
-        "name": "Rudebaguette.com"
-      },
-      "description": "As humanity looks beyond Earth, the Moon emerges as a potential treasure trove, specifically for the...",
-      "url": "https://www.rudebaguette.com/en/2025/09/theyre-mining-millions-of-tons-on-the-moon-space-officials-reveal-helium-3-extraction-making-oil-worthless/",
-      "publishedAt": "2025-09-27T15:50:50Z",
-      "processed_at": "2025-09-29T04:24:42.314900+00:00"
-    },
-    {
-      "title": "T-Mobile Rolls Out iPhone 17 With ‘On Us’ Deals and Satellite Coverage Edge - Variety",
-      "source": {
-        "name": "Variety"
-      },
-      "description": "T-Mobile is offering iPhone 17 and iPhone 17 Pro deals for both new and existing customers, with pro...",
-      "url": "https://variety.com/2025/shopping/tech/t-mobile-iphone-17-deal-buy-online-1236530754/",
-      "publishedAt": "2025-09-27T15:49:00Z",
-      "processed_at": "2025-09-29T04:24:42.314900+00:00"
-    },
-    {
-      "title": "Pokémon TCG: Mega Evolution review — pull rates, top cards, and strategies revealed - Mashable",
-      "source": {
-        "name": "Mashable"
-      },
-      "description": "New mechanics, how Mega Evolution has changed, and deck buiding guides with affordable Pokémon TCG c...",
-      "url": "https://mashable.com/article/pokemon-tcg-mega-evolution-review",
-      "publishedAt": "2025-09-27T15:34:41Z",
-      "processed_at": "2025-09-29T04:24:42.314900+00:00"
+      "processed_at": "2025-09-29T05:20:09.454108+00:00"
     }
   ],
-  "lastUpdated": "2025-09-29T04:24:42.314972+00:00",
+  "lastUpdated": "2025-09-29T05:20:09.454176+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
