@@ -1,6 +1,6 @@
 {
   "status": "success",
-  "totalResults": 10,
+  "totalResults": 8,
   "articles": [
     {
       "title": "Apple’s ‘Veritas’ chatbot is reportedly an employee-only test of Siri’s AI upgrades - The Verge",
@@ -10,17 +10,7 @@
       "description": "There’s no plans for a public release of Apple’s internal Veritas chatbot and will likely lean on Go...",
       "url": "https://www.theverge.com/news/787046/apples-veritas-siri-ai-chatbot",
       "publishedAt": "2025-09-28T21:01:41Z",
-      "processed_at": "2025-09-29T23:17:50.758297+00:00"
-    },
-    {
-      "title": "Apple Continues to Prepare iOS 26.0.1 With Multiple Bug Fixes Expected - MacRumors",
-      "source": {
-        "name": "MacRumors"
-      },
-      "description": "Apple is preparing to release iOS 26.0.1, according to a private account on X with a proven track re...",
-      "url": "https://www.macrumors.com/2025/09/28/ios-26-0-1-what-to-expect/",
-      "publishedAt": "2025-09-28T20:30:00Z",
-      "processed_at": "2025-09-29T23:17:50.758297+00:00"
+      "processed_at": "2025-09-30T01:27:27.468311+00:00"
     },
     {
       "title": "These Are The Rarest Ford Vehicles You've Probably Never Heard Of - Jalopnik",
@@ -30,7 +20,7 @@
       "description": "Some of the rarest Fords ever built include models like the Fairlane 500 R-Code, Mustang V10, Mustan...",
       "url": "https://www.jalopnik.com/1976913/rarest-ford-vehicles-never-heard-of/",
       "publishedAt": "2025-09-28T20:05:00Z",
-      "processed_at": "2025-09-29T23:17:50.758297+00:00"
+      "processed_at": "2025-09-30T01:27:27.468311+00:00"
     },
     {
       "title": "Google Pixel 10 vs. Pixel 10 Pro - GSMArena.com",
@@ -40,7 +30,17 @@
       "description": "Which small Pixel is the right fit for you? For another year, Google's hardware department is outing...",
       "url": "https://www.gsmarena.com/google_pixel_10_vs_pixel_10_pro_review_battery_camera_price_compared-news-69594.php",
       "publishedAt": "2025-09-28T20:04:01Z",
-      "processed_at": "2025-09-29T23:17:50.758297+00:00"
+      "processed_at": "2025-09-30T01:27:27.468311+00:00"
+    },
+    {
+      "title": "Parasite Eve-Inspired Sci-fi Horror RPG Parasite Mutant Revealed for PC and PS5 - Final Weapon",
+      "source": {
+        "name": "Finalweapon.net"
+      },
+      "description": "IceSitruuna, the developer behind Frontier Hunter: Erza's Wheel of Fortune, reveals Parasite Eve-ins...",
+      "url": "https://finalweapon.net/2025/09/28/parasite-eve-inspired-sci-fi-horror-rpg-parasite-mutant-pc-ps5/",
+      "publishedAt": "2025-09-28T19:14:52Z",
+      "processed_at": "2025-09-30T01:27:27.468311+00:00"
     },
     {
       "title": "Here’s how Apple Stores are combating iPhone 17 scratches - 9to5Mac",
@@ -50,7 +50,7 @@
       "description": "Apple Stores are taking two important steps to try and prevent scratches and marks on their display ...",
       "url": "https://9to5mac.com/2025/09/28/heres-how-apple-stores-are-combating-iphone-17-scratches/",
       "publishedAt": "2025-09-28T18:47:00Z",
-      "processed_at": "2025-09-29T23:17:50.758297+00:00"
+      "processed_at": "2025-09-30T01:27:27.468311+00:00"
     },
     {
       "title": "Persona 3 Reload director discusses the \"graphics quality\" of the Switch 2 version - GoNintendo",
@@ -60,17 +60,17 @@
       "description": "Does Reload need a revamp?...",
       "url": "https://gonintendo.com/contents/53374-persona-3-reload-director-discusses-the-graphics-quality-of-the-switch-2-version",
       "publishedAt": "2025-09-28T18:17:09Z",
-      "processed_at": "2025-09-29T23:17:50.758297+00:00"
+      "processed_at": "2025-09-30T01:27:27.468311+00:00"
     },
     {
       "title": "Pokémon GO Events This Week (29 September – 5 October 2025) - Pokémon GO Hub",
       "source": {
         "name": "Pokemon GO Hub"
       },
-      "description": "",
+      "description": "Pokémon GO’s September 29 to October 5 schedule brings to a close the first month in of the Tales of...",
       "url": "https://pokemongohub.net/post/event/pokemon-go-events-this-week-29-september-5-october-2025/",
       "publishedAt": "2025-09-28T18:16:35Z",
-      "processed_at": "2025-09-29T23:17:50.758297+00:00"
+      "processed_at": "2025-09-30T01:27:27.468311+00:00"
     },
     {
       "title": "This Week’s Japanese Game Releases: Ghost of Yotei, Digimon Story: Time Stranger, Final Fantasy Tactics: The Ivalice Chronicles, more - Gematsu",
@@ -80,30 +80,10 @@
       "description": "Ghost of Yotei for PlayStation 5, Digimon Story: Time Stranger for PlayStation 5, Xbox Series, and P...",
       "url": "https://www.gematsu.com/2025/09/this-weeks-japanese-game-releases-ghost-of-yotei-digimon-story-time-stranger-final-fantasy-tactics-the-ivalice-chronicles-more",
       "publishedAt": "2025-09-28T17:45:10Z",
-      "processed_at": "2025-09-29T23:17:50.758297+00:00"
-    },
-    {
-      "title": "I tried this OneNote, Google Keep, and Evernote alternative on Android and it blew my mind - Android Police",
-      "source": {
-        "name": "Android Police"
-      },
-      "description": "This unknown note-taking app deserves your attention...",
-      "url": "https://www.androidpolice.com/tried-onenote-google-keep-evernote-alternative-on-android/",
-      "publishedAt": "2025-09-28T17:14:00Z",
-      "processed_at": "2025-09-29T23:17:50.758297+00:00"
-    },
-    {
-      "title": "BrokenLore: DON’T LIE announced for PS5, Xbox Series, and PC - Gematsu",
-      "source": {
-        "name": "Gematsu"
-      },
-      "description": "Publisher Wired Productions and developer Serafini Productions have announced BrokenLore: DON’T LIE,...",
-      "url": "https://www.gematsu.com/2025/09/brokenlore-dont-lie-announced-for-ps5-xbox-series-and-pc",
-      "publishedAt": "2025-09-28T17:11:55Z",
-      "processed_at": "2025-09-29T23:17:50.758297+00:00"
+      "processed_at": "2025-09-30T01:27:27.468311+00:00"
     }
   ],
-  "lastUpdated": "2025-09-29T23:17:50.758374+00:00",
+  "lastUpdated": "2025-09-30T01:27:27.468382+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
