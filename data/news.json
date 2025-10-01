@@ -1,99 +1,109 @@
 {
   "status": "success",
-  "totalResults": 9,
+  "totalResults": 10,
   "articles": [
     {
-      "title": "The Very Finest Cosplay Fits From New York’s Anime NYC 2025 - Kotaku",
+      "title": "Amazon unveils the next generation of AI-powered Echo devices, purpose-built for Alexa+ - about Amazon",
       "source": {
-        "name": "Kotaku"
+        "name": "Aboutamazon.com"
       },
-      "description": "With outfits from Kpop Demon Hunters, Resident Evil and Castlevania...",
-      "url": "https://kotaku.com/cosplay-anime-nyc-2025-kpop-demon-hunters-2000630188",
-      "publishedAt": "2025-09-30T14:05:50Z",
-      "processed_at": "2025-10-01T16:25:54.414276+00:00"
+      "description": "Introducing our most advanced Echo devices yet, featuring premium audio, next-generation AI processi...",
+      "url": "https://www.aboutamazon.com/news/devices/amazon-new-echo-devices-alexa-plus",
+      "publishedAt": "2025-09-30T17:21:42Z",
+      "processed_at": "2025-10-01T17:17:50.211767+00:00"
     },
     {
-      "title": "Google’s AI Mode image search is getting more conversational - The Verge",
+      "title": "Microsoft is giving Copilot AI faces you can chat with - The Verge",
       "source": {
         "name": "The Verge"
       },
-      "description": "Google’s latest AI Mode update makes it easier for users to search through images using vague descri...",
-      "url": "https://www.theverge.com/news/788180/google-ai-mode-visual-search-shopping-update",
-      "publishedAt": "2025-09-30T13:00:00Z",
-      "processed_at": "2025-10-01T16:25:54.414276+00:00"
+      "description": "Microsoft is trying to make Copilot more approachable by giving the AI assistant an animated face to...",
+      "url": "https://www.theverge.com/news/788741/microsoft-copilot-labs-ai-portraits-experiment-human-avatar",
+      "publishedAt": "2025-09-30T17:12:48Z",
+      "processed_at": "2025-10-01T17:17:50.211767+00:00"
     },
     {
-      "title": "Logitech officially launches new MX Master 4 with haptic feedback, more - 9to5Mac",
+      "title": "Beats redesigned its new Powerbeats Fit’s wing tip to be more comfortable and secure - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "The Beats Powerbeats Fit are available today for $200 and feature redesigned wing tips that are comf...",
+      "url": "https://www.theverge.com/news/788663/apple-beats-powerbeats-fit-wireless-earbuds-wing-tip-redesign-comfort",
+      "publishedAt": "2025-09-30T17:10:38Z",
+      "processed_at": "2025-10-01T17:17:50.211767+00:00"
+    },
+    {
+      "title": "Microsoft’s Windows 11 2025 update is available now - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "Microsoft is rolling out its latest Windows 11 annual update. Version 25H2 doesn’t have many big cha...",
+      "url": "https://www.theverge.com/news/788167/microsoft-windows-11-version-25h2-download-insta",
+      "publishedAt": "2025-09-30T17:00:00Z",
+      "processed_at": "2025-10-01T17:17:50.211767+00:00"
+    },
+    {
+      "title": "Leaked unboxing video reveals unannounced M5 iPad Pro in full - 9to5Mac",
       "source": {
         "name": "9to5Mac"
       },
-      "description": "The Logitech MX Master line of mice has become a staple in the setups of Mac users everywhere. Now, ...",
-      "url": "https://9to5mac.com/2025/09/30/logitech-officially-launches-new-mx-master-4-with-haptic-feedback-more/",
-      "publishedAt": "2025-09-30T12:32:00Z",
-      "processed_at": "2025-10-01T16:25:54.414276+00:00"
+      "description": "Remember last year when an unboxing video of the M4 MacBook Pro leaked before it was even announced?...",
+      "url": "https://9to5mac.com/2025/09/30/leaked-unboxing-video-reveals-unannounced-m5-ipad-pro-in-full/",
+      "publishedAt": "2025-09-30T15:46:00Z",
+      "processed_at": "2025-10-01T17:17:50.211767+00:00"
     },
     {
-      "title": "Nothing launches AI tool for building mini apps using prompts - TechCrunch",
+      "title": "New Galaxy S26 Ultra renders show Samsung is ditching the boxy look - Android Authority",
       "source": {
-        "name": "TechCrunch"
+        "name": "Android Authority"
       },
-      "description": "Nothing on Monday revealed Playground, an AI tool that lets users create apps with simple text promp...",
-      "url": "https://techcrunch.com/2025/09/30/nothing-launches-ai-tool-for-building-mini-apps-using-prompts/",
-      "publishedAt": "2025-09-30T12:31:49Z",
-      "processed_at": "2025-10-01T16:25:54.414276+00:00"
+      "description": "A new leak has shows a collection of CAD-based renders of the Samsung Galaxy S26 Ultra, revealing th...",
+      "url": "https://www.androidauthority.com/galaxy-s26-ultra-cad-renders-3602486/",
+      "publishedAt": "2025-09-30T15:44:15Z",
+      "processed_at": "2025-10-01T17:17:50.211767+00:00"
     },
     {
-      "title": "Qualcomm Snapdragon X2 Elite Extreme laptop chip catches up with Apple’s M4 - 9to5Mac",
+      "title": "Halo Studios revealing more on next projects (yes, plural) at next month's World Championship event - Eurogamer",
       "source": {
-        "name": "9to5Mac"
+        "name": "Eurogamer.net"
       },
-      "description": "The first generation of Apple Silicon chips took other chip makers by surprise. While everyone knew ...",
-      "url": "https://9to5mac.com/2025/09/30/qualcomm-snapdragon-x2-elite-extreme-laptop-chip-catches-up-with-apples-m4/",
-      "publishedAt": "2025-09-30T12:12:00Z",
-      "processed_at": "2025-10-01T16:25:54.414276+00:00"
+      "description": "",
+      "url": "https://www.eurogamer.net/halo-studios-revealing-more-on-next-projects-yes-plural-at-next-months-world-championship-event",
+      "publishedAt": "2025-09-30T15:24:59Z",
+      "processed_at": "2025-10-01T17:17:50.211767+00:00"
     },
     {
-      "title": "Physicists Simulated a Black Hole in The Lab, And It Then Began to Glow - ScienceAlert",
+      "title": "Minecraft Java Edition 1.21.9 - Minecraft",
       "source": {
-        "name": "ScienceAlert"
+        "name": "Minecraft.net"
       },
-      "description": "A black hole analog could tell us a thing or two about an elusive radiation theoretically emitted by...",
-      "url": "https://www.sciencealert.com/physicists-simulated-a-black-hole-in-the-lab-and-it-then-began-to-glow",
-      "publishedAt": "2025-09-30T12:01:30Z",
-      "processed_at": "2025-10-01T16:25:54.414276+00:00"
+      "description": "Minecraft 1.21.9...",
+      "url": "https://www.minecraft.net/en-us/article/minecraft-java-edition-1-21-9",
+      "publishedAt": "2025-09-30T15:04:25Z",
+      "processed_at": "2025-10-01T17:17:50.211767+00:00"
     },
     {
-      "title": "Arizona man finds best looking Porsche ever that you can't drive on the street or race on the track yet still costs $1.5 million - supercarblondie.com",
+      "title": "Tesla Quietly Modifies HW4 (AI4) FSD Computer Hardware - Not a Tesla App",
       "source": {
-        "name": "Supercarblondie.com"
+        "name": "Notateslaapp.com"
       },
-      "description": "This man from Arizona found a stunning Porsche that you can't drive on the street, but it still repo...",
-      "url": "https://supercarblondie.com/arizona-man-finds-best-looking-porsche/",
-      "publishedAt": "2025-09-30T11:23:00Z",
-      "processed_at": "2025-10-01T16:25:54.414276+00:00"
+      "description": "Tesla's latest HW4 computer features fewer components in a push for efficiency. While seen as cost-c...",
+      "url": "https://www.notateslaapp.com/news/3188/tesla-quietly-modifies-hw4-ai4-fsd-computer-hardware",
+      "publishedAt": "2025-09-30T14:58:00Z",
+      "processed_at": "2025-10-01T17:17:50.211767+00:00"
     },
     {
-      "title": "We Asked Audio Pros to Blind Test Headphones. The Results Were Surprising - WIRED",
+      "title": "Amazon Launches Color Kindle with Stylus, $40 TV Stick With 4K Video - Bloomberg.com",
       "source": {
-        "name": "Wired"
+        "name": "Bloomberg"
       },
-      "description": "When it comes to choosing a good pair of headphones, what happens when you take features, design, an...",
-      "url": "https://www.wired.com/story/we-asked-audio-pros-to-blind-test-headphones-the-results-were-surprising/",
-      "publishedAt": "2025-09-30T11:00:00Z",
-      "processed_at": "2025-10-01T16:25:54.414276+00:00"
-    },
-    {
-      "title": "All those familiar Galaxy S26 Pro and S26 Ultra camera specs are now practically etched in stone - PhoneArena",
-      "source": {
-        "name": "PhoneArena"
-      },
-      "description": "If you've been disappointed by some of the latest rumors regarding Samsung's Galaxy S26 series camer...",
-      "url": "https://www.phonearena.com/news/samsung-galaxy-s26-pro-galaxy-s26-ultra-camera-specs-etched-in-stone_id174518",
-      "publishedAt": "2025-09-30T10:58:30Z",
-      "processed_at": "2025-10-01T16:25:54.414276+00:00"
+      "description": "Company also rolls out new TV sets and upgraded home security products from Ring and Blink....",
+      "url": "https://www.bloomberg.com/news/articles/2025-09-30/amazon-devices-news-630-color-kindle-scribe-40-4k-fire-tv-stick-ring-blink",
+      "publishedAt": "2025-09-30T14:51:30Z",
+      "processed_at": "2025-10-01T17:17:50.211767+00:00"
     }
   ],
-  "lastUpdated": "2025-10-01T16:25:54.414348+00:00",
+  "lastUpdated": "2025-10-01T17:17:50.211839+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
