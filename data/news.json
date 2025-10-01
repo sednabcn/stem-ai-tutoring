@@ -1,7 +1,17 @@
 {
   "status": "success",
-  "totalResults": 8,
+  "totalResults": 9,
   "articles": [
+    {
+      "title": "Logitech’s MX Master 4 adds haptics to everyday mousing around - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "Logitech has announced the haptics-equipped MX Master 4 wireless mouse. It’ll be available in multip...",
+      "url": "https://www.theverge.com/news/787339/logitech-mx-master-4-mouse-haptics-specs-features-price",
+      "publishedAt": "2025-09-30T07:01:00Z",
+      "processed_at": "2025-10-01T09:22:23.628977+00:00"
+    },
     {
       "title": "Walmart Has RTX 5070 Ti Gaming PCs With Your Choice of Intel or AMD CPU for Just $1,499 - IGN",
       "source": {
@@ -10,7 +20,7 @@
       "description": "Black Friday caliber deals in September....",
       "url": "https://www.ign.com/articles/walmart-has-rtx-5070-ti-gaming-pc-deals-starting-at-1499",
       "publishedAt": "2025-09-30T06:24:39Z",
-      "processed_at": "2025-10-01T08:27:17.370899+00:00"
+      "processed_at": "2025-10-01T09:22:23.628977+00:00"
     },
     {
       "title": "Decades-old Nintendo Power issue explains Nintendo's choice of A/B/X/Y buttons - GoNintendo",
@@ -20,7 +30,17 @@
       "description": "Buttoned up...",
       "url": "https://www.gonintendo.com/contents/53405-decades-old-nintendo-power-issue-explains-nintendo-s-choice-of-a-b-x-y-buttons",
       "publishedAt": "2025-09-30T04:01:23Z",
-      "processed_at": "2025-10-01T08:27:17.370899+00:00"
+      "processed_at": "2025-10-01T09:22:23.628977+00:00"
+    },
+    {
+      "title": "Manifesting isn't all \"woo-woo.\" Science says you can train your brain - Axios",
+      "source": {
+        "name": "Axios"
+      },
+      "description": "Neuroplasticity is one reason manifesting may scientifically work....",
+      "url": "https://www.axios.com/2025/09/30/manifesting-science-mind-magic",
+      "publishedAt": "2025-09-30T01:16:45Z",
+      "processed_at": "2025-10-01T09:22:23.628977+00:00"
     },
     {
       "title": "Reddit Mods Sued by YouTuber Ethan Klein Fight Efforts to Unmask Them - 404 Media",
@@ -30,7 +50,7 @@
       "description": "Klein has attempted to subpoena Discord and Reddit for information that would reveal the identity of...",
       "url": "https://www.404media.co/reddit-mods-sued-by-youtuber-ethan-klein-fight-efforts-to-unmask-them/",
       "publishedAt": "2025-09-30T00:20:01Z",
-      "processed_at": "2025-10-01T08:27:17.370899+00:00"
+      "processed_at": "2025-10-01T09:22:23.628977+00:00"
     },
     {
       "title": "WhatsApp for iOS gets Live Photos support - 9to5Mac",
@@ -40,17 +60,17 @@
       "description": "Today, Meta officially confirmed what some WhatsApp users had already been noticing for the past few...",
       "url": "https://9to5mac.com/2025/09/29/whatsapp-for-ios-gets-live-photos-support/",
       "publishedAt": "2025-09-29T23:21:00Z",
-      "processed_at": "2025-10-01T08:27:17.370899+00:00"
+      "processed_at": "2025-10-01T09:22:23.628977+00:00"
     },
     {
-      "title": "Microsoft is bringing its Windows engineering teams back together again - The Verge",
+      "title": "Microsoft merges Windows core engineering teams with Windows client teams in effort to build an agentic OS - Windows Central",
       "source": {
-        "name": "The Verge"
+        "name": "Windows Central"
       },
-      "description": "Microsoft has announced an internal reorg of its Windows teams. The server and client engineering te...",
-      "url": "https://www.theverge.com/report/787796/microsoft-windows-reorg-single-engineering-team-changes",
-      "publishedAt": "2025-09-29T22:07:32Z",
-      "processed_at": "2025-10-01T08:27:17.370899+00:00"
+      "description": "Since 2018, the core of Windows and the client experiences have been handled by separate organizatio...",
+      "url": "https://www.windowscentral.com/microsoft/windows-11/microsoft-conducts-major-windows-reorg-that-sees-core-engineering-teams-back-under-the-same-roof-as-feature-experience-teams",
+      "publishedAt": "2025-09-29T22:29:33Z",
+      "processed_at": "2025-10-01T09:22:23.628977+00:00"
     },
     {
       "title": "\"Scientists Built Water-Walking Robots\": University Team Creates Insect-Inspired Machines While Polymer Technology Revolution Changes Disaster Response Forever - Energy Reporters",
@@ -60,30 +80,20 @@
       "description": "Researchers at the University of Virginia have made a groundbreaking advancement in robotics, drawin...",
       "url": "https://www.energy-reporters.com/news/scientists-built-water-walking-robots-university-team-creates-insect-inspired-machines-while-polymer-technology-revolution-changes-disaster-response-forever/",
       "publishedAt": "2025-09-29T21:53:38Z",
-      "processed_at": "2025-10-01T08:27:17.370899+00:00"
+      "processed_at": "2025-10-01T09:22:23.628977+00:00"
     },
     {
-      "title": "Riot Shuts Down Rumors Of Deconfirmed 2XKO Champion After Teemo's Reveal - Sports Illustrated",
+      "title": "Inside Call of Duty: Next 2025 and Activision’s Monster Takeover of Las Vegas for ‘Black Ops 7’ Reveals - Variety",
       "source": {
-        "name": "Sports Illustrated"
+        "name": "Variety"
       },
-      "description": "Riot’s latest Teemo reveal trailer for 2XKO shows Kennen in the background, but the team confirms he...",
-      "url": "https://www.si.com/esports/2xko/riot-shuts-down-kennen-rumors",
-      "publishedAt": "2025-09-29T21:03:55Z",
-      "processed_at": "2025-10-01T08:27:17.370899+00:00"
-    },
-    {
-      "title": "PlayStation is getting a big, fancy art book full of unused designs - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "Available early next year, PlayStation: The First 30 Years highlights Sony Interactive Entertainment...",
-      "url": "https://www.theverge.com/news/787751/sony-playstation-first-30-years-photography-book-concepts-prototypes",
-      "publishedAt": "2025-09-29T21:00:20Z",
-      "processed_at": "2025-10-01T08:27:17.370899+00:00"
+      "description": "The stage is being set in Sin City tonight ahead of Activision's Call of Duty: Next event Tuesday, w...",
+      "url": "https://variety.com/2025/gaming/news/call-of-duty-next-preview-black-ops-7-livestream-vegas-1236534279/",
+      "publishedAt": "2025-09-29T21:43:00Z",
+      "processed_at": "2025-10-01T09:22:23.628977+00:00"
     }
   ],
-  "lastUpdated": "2025-10-01T08:27:17.370962+00:00",
+  "lastUpdated": "2025-10-01T09:22:23.629048+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
