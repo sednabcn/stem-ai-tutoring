@@ -1,16 +1,36 @@
 {
   "status": "success",
-  "totalResults": 9,
+  "totalResults": 10,
   "articles": [
     {
-      "title": "Apple Shelves Vision Headset Revamp to Prioritize Meta-Like AI Glasses - Bloomberg.com",
+      "title": "Apple sidelines lighter Vision Pro to prioritize smart glasses - The Verge",
       "source": {
-        "name": "Google News"
+        "name": "The Verge"
       },
-      "description": "",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNS0hCQnRySXhzVTV2X2s1eERkeVM4VXpXV0VDSnVqNGZ6MzllQ2IteUtaUVpCOWJoVlc3VnBWZFk1WERPanI5Z3BpbmdnQjZjTUtoamlZQ0dtc3dYeTJwdlN0T2xVT1g0QndCdUV4TUFmUXczTE9PcGtPNVo0RXd6cml6N1BvMmdzZ1pjdGN0SjFQY202b0VOR1RUaEZjR1R5NWJUdnpjdndLSUQxMUdrdnZ6cVdHY01xSUdaQkk2c0FxdDQ3enc?oc=5",
-      "publishedAt": "2025-10-01T21:27:29Z",
-      "processed_at": "2025-10-02T23:17:40.141114+00:00"
+      "description": "Apple is speeding up work on smart glasses that would compete with similar offerings from Meta and h...",
+      "url": "https://www.theverge.com/news/790285/apple-smart-glasses-vision-pro",
+      "publishedAt": "2025-10-01T22:22:51Z",
+      "processed_at": "2025-10-03T01:25:52.494534+00:00"
+    },
+    {
+      "title": "Super Mario Bros.: The Lost Levels Minus World levels found four decades later - Nintendo Everything",
+      "source": {
+        "name": "Nintendoeverything.com"
+      },
+      "description": "It’s been about four decades since Super Mario Bros.: The Lost Levels launched, but one fan has now ...",
+      "url": "https://nintendoeverything.com/super-mario-bros-the-lost-levels-minus-world-levels-found-four-decades-later/",
+      "publishedAt": "2025-10-01T21:39:10Z",
+      "processed_at": "2025-10-03T01:25:52.494534+00:00"
+    },
+    {
+      "title": "Infographic details 15 years of Samsung camera innovations: from the original Galaxy S to today - GSMArena.com news - GSMArena.com",
+      "source": {
+        "name": "GSMArena.com"
+      },
+      "description": "The history of the Galaxy S phones starts back in 2010 - the original had a 5MP camera with 720p vid...",
+      "url": "https://www.gsmarena.com/infographic_details_15_years_of_samsung_camera_innovations_from_the_original_galaxy_s_to_today-news-69750.php",
+      "publishedAt": "2025-10-01T21:02:02Z",
+      "processed_at": "2025-10-03T01:25:52.494534+00:00"
     },
     {
       "title": "AI notification summaries coming to Galaxy devices with One UI 8.5, here's a peek - SamMobile",
@@ -20,7 +40,7 @@
       "description": "A new One UI 8.5 firmware has made its way online for the Galaxy S25 Ultra, and it gives us our firs...",
       "url": "https://www.sammobile.com/news/one-ui-8-5-ai-notification-summaries-galaxy-devices/",
       "publishedAt": "2025-10-01T18:56:00Z",
-      "processed_at": "2025-10-02T23:17:40.141114+00:00"
+      "processed_at": "2025-10-03T01:25:52.494534+00:00"
     },
     {
       "title": "Echo, Kindle, Ring, and More: All the New Products Amazon Announced at Its Fall Hardware Event - PCMag",
@@ -30,7 +50,7 @@
       "description": "Ahead of Prime Big Deal Days next week, we got a firsthand look at fresh products across Amazon's 20...",
       "url": "https://www.pcmag.com/news/everything-amazon-announced-2025-fall-devices-event-scribe-ring-echo-fire",
       "publishedAt": "2025-10-01T16:11:03Z",
-      "processed_at": "2025-10-02T23:17:40.141114+00:00"
+      "processed_at": "2025-10-03T01:25:52.494534+00:00"
     },
     {
       "title": "Microsoft 365 Premium bundles Office and AI for the same price as ChatGPT Plus - The Verge",
@@ -40,17 +60,7 @@
       "description": "Microsoft is launching a new Premium subscription for consumers. It bundles together Copilot Pro and...",
       "url": "https://www.theverge.com/news/789493/microsoft-365-premium-features-pricing",
       "publishedAt": "2025-10-01T16:00:00Z",
-      "processed_at": "2025-10-02T23:17:40.141114+00:00"
-    },
-    {
-      "title": "Sources: Gusto paid $600M to acquire Guideline, plans to divest customers linked to rivals - TechCrunch",
-      "source": {
-        "name": "TechCrunch"
-      },
-      "description": "While the HR Tech Guideline was last valued at $1.15 billion, the sale will likely yield a profit fo...",
-      "url": "https://techcrunch.com/2025/10/01/sources-gusto-paid-600m-to-acquire-guideline-plans-to-divest-customers-linked-to-rivals/",
-      "publishedAt": "2025-10-01T16:00:00Z",
-      "processed_at": "2025-10-02T23:17:40.141114+00:00"
+      "processed_at": "2025-10-03T01:25:52.494534+00:00"
     },
     {
       "title": "Sony brings audio sharing to its flagship noise-canceling headphones - The Verge",
@@ -60,7 +70,7 @@
       "description": "Sony released a firmware update for its WF-1000XM5 and WH-1000XM6 wireless headphones adding audio s...",
       "url": "https://www.theverge.com/news/789898/sony-firmware-update-wf-1000xm5-wh-1000xm6-headphones-earbuds-audio-sharing",
       "publishedAt": "2025-10-01T15:37:22Z",
-      "processed_at": "2025-10-02T23:17:40.141114+00:00"
+      "processed_at": "2025-10-03T01:25:52.494534+00:00"
     },
     {
       "title": "Here Are The ‘Ghost Of Yotei’ PS5 Launch Times In Your Region - Forbes",
@@ -70,30 +80,30 @@
       "description": "These are the exact release times for Ghost of Yotei on PS5 as the game arrives on the platform this...",
       "url": "https://www.forbes.com/sites/paultassi/2025/10/01/here-are-the-ghost-of-yotei-ps5-launch-times-in-your-region/",
       "publishedAt": "2025-10-01T15:35:56Z",
-      "processed_at": "2025-10-02T23:17:40.141114+00:00"
+      "processed_at": "2025-10-03T01:25:52.494534+00:00"
     },
     {
-      "title": "Microsoft’s Latest Windows 11 25H2 Update Finally Rolls Out to Users, But Launch Day is Plagued with Troubles - Wccftech",
+      "title": "Don’t install Windows 11 25H2 if these four known bugs affect you - pcworld.com",
       "source": {
-        "name": "Wccftech"
+        "name": "PCWorld"
       },
-      "description": "Microsoft's Windows 11 25H2 update is now available to users, but it has debuted with four issues, w...",
-      "url": "https://wccftech.com/microsoft-windows-11-25h2-version-has-rolled-out-to-users/",
-      "publishedAt": "2025-10-01T15:01:00Z",
-      "processed_at": "2025-10-02T23:17:40.141114+00:00"
+      "description": "The 25H2 update for Windows 11 is rolling out to users despite a handful of known bugs....",
+      "url": "https://www.pcworld.com/article/2926952/dont-install-windows-11-25h2-if-these-four-known-bugs-affect-you.html",
+      "publishedAt": "2025-10-01T15:04:00Z",
+      "processed_at": "2025-10-03T01:25:52.494534+00:00"
     },
     {
-      "title": "Apple’s next-gen Vision Pro revealed in new regulatory filing - The Verge",
+      "title": "Xbox Game Pass Hikes Price Ahead of Handhelds Release - The Hollywood Reporter",
       "source": {
-        "name": "The Verge"
+        "name": "Hollywood Reporter"
       },
-      "description": "A new filing with the Federal Communications Commission appears to reveal Apple’s work on a new Visi...",
-      "url": "https://www.theverge.com/news/789801/apple-vision-pro-fcc-filing-leak",
-      "publishedAt": "2025-10-01T14:41:07Z",
-      "processed_at": "2025-10-02T23:17:40.141114+00:00"
+      "description": "It’s getting x-pensive to be an Xbox gamer....",
+      "url": "http://www.hollywoodreporter.com/business/business-news/xbox-game-pass-price-how-much-does-it-cost-asus-rog-ally-x-1236390793/",
+      "publishedAt": "2025-10-01T15:00:00Z",
+      "processed_at": "2025-10-03T01:25:52.494534+00:00"
     }
   ],
-  "lastUpdated": "2025-10-02T23:17:40.141184+00:00",
+  "lastUpdated": "2025-10-03T01:25:52.494604+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
