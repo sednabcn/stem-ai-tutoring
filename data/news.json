@@ -1,7 +1,47 @@
 {
   "status": "success",
-  "totalResults": 10,
+  "totalResults": 9,
   "articles": [
+    {
+      "title": "Report: Development Screenshots From Cancelled Star Wars: KOTOR Remake by Aspyr Surfaces - MP1st",
+      "source": {
+        "name": "http://mp1st.com/category/news"
+      },
+      "description": "Early in-game development photos reveal weapons, props, and a third-person prototype for the cancell...",
+      "url": "https://mp1st.com/news/report-development-screenshots-from-cancelled-star-wars-kotor-remake-by-aspyr-surfaces",
+      "publishedAt": "2025-10-02T19:02:17Z",
+      "processed_at": "2025-10-03T19:15:09.986301+00:00"
+    },
+    {
+      "title": "Inside the Vault – Burning Springs Public Test Server Release Notes - Bethesda.net",
+      "source": {
+        "name": "Bethesda.net"
+      },
+      "description": "",
+      "url": "https://bethesda.net/en/article/2nqh2JMnLeJnjpxwUUi5n6/inside-the-vault-burning-springs-public-test-server-release-notes",
+      "publishedAt": "2025-10-02T18:07:33Z",
+      "processed_at": "2025-10-03T19:15:09.986301+00:00"
+    },
+    {
+      "title": "Apple Watch can lose these training wheels thanks to stellar battery life - 9to5Mac",
+      "source": {
+        "name": "9to5Mac"
+      },
+      "description": "Apple Watch battery life is better than ever. Apple Watch Ultra 3 measures battery life in days, and...",
+      "url": "https://9to5mac.com/2025/10/02/apple-watch-can-lose-these-training-wheels-thanks-to-stellar-battery-life/",
+      "publishedAt": "2025-10-02T17:39:00Z",
+      "processed_at": "2025-10-03T19:15:09.986301+00:00"
+    },
+    {
+      "title": "How to Start Playing the Call of Duty: Black Ops 7 Multiplayer and Zombies Beta - Xbox Wire",
+      "source": {
+        "name": "Xbox.com"
+      },
+      "description": "After an exciting week of news and reveals from Call of Duty: Next, we’re capping it off with a Call...",
+      "url": "https://news.xbox.com/en-us/2025/10/02/how-to-start-playing-call-of-duty-black-ops-7-open-beta/",
+      "publishedAt": "2025-10-02T17:15:00Z",
+      "processed_at": "2025-10-03T19:15:09.986301+00:00"
+    },
     {
       "title": "Amazon’s Vega OS launch trick: cloud-streamed apps - The Verge",
       "source": {
@@ -10,7 +50,17 @@
       "description": "Amazon will stream Android apps from the cloud to ensure that its new Vega-based Fire TV dongle laun...",
       "url": "https://www.theverge.com/column/790144/amazons-vega-os-streaming-cloud",
       "publishedAt": "2025-10-02T15:30:00Z",
-      "processed_at": "2025-10-03T18:27:54.911907+00:00"
+      "processed_at": "2025-10-03T19:15:09.986301+00:00"
+    },
+    {
+      "title": "Samsung's One UI 8.5 update keeps leaking, adding '3D' icons and more Liquid Glass vibes [Gallery] - 9to5Google",
+      "source": {
+        "name": "9to5google.com"
+      },
+      "description": "Samsung’s next big Galaxy update, One UI 8.5, continues to leak with a number of visual changes, wit...",
+      "url": "http://9to5google.com/2025/10/02/samsung-one-ui-8-5-3d-icons-liquid-glass/",
+      "publishedAt": "2025-10-02T15:15:00Z",
+      "processed_at": "2025-10-03T19:15:09.986301+00:00"
     },
     {
       "title": "With up to 48% off, the Garmin Birthday Sale is a gift that keeps on giving - here are five of the best deals we've seen - Cyclingnews",
@@ -20,7 +70,17 @@
       "description": "From cycling computers to cycling smartwatches, and much more, the Garmin 35th anniversary sale has ...",
       "url": "https://www.cyclingnews.com/news/with-up-to-48-percent-off-the-garmin-birthday-sale-is-a-gift-that-keeps-on-giving-here-are-five-of-the-best-deals-weve-seen/",
       "publishedAt": "2025-10-02T15:03:12Z",
-      "processed_at": "2025-10-03T18:27:54.911907+00:00"
+      "processed_at": "2025-10-03T19:15:09.986301+00:00"
+    },
+    {
+      "title": "Samsung has updated these Galaxy devices to Android 16 – here’s the schedule - 9to5Google",
+      "source": {
+        "name": "9to5google.com"
+      },
+      "description": "Samsung is now rolling out its One UI 8 update based on Android 16, with a list of devices and a sch...",
+      "url": "http://9to5google.com/2025/10/02/samsung-galaxy-android-16-one-ui-8-update-list-schedule/",
+      "publishedAt": "2025-10-02T14:10:00Z",
+      "processed_at": "2025-10-03T19:15:09.986301+00:00"
     },
     {
       "title": "Find out how Perplexity wants to fight AI 'slop' with its latest browser - Business Insider",
@@ -30,80 +90,10 @@
       "description": "Perplexity's Comet browser is now free as the AI startup fights low-quality content and partners wit...",
       "url": "https://www.businessinsider.com/perplexity-makes-200-ai-browser-free-to-battle-ai-slop-2025-10",
       "publishedAt": "2025-10-02T14:09:00Z",
-      "processed_at": "2025-10-03T18:27:54.911907+00:00"
-    },
-    {
-      "title": "Apple shelves Vision Pro overhaul to focus on AI glasses - TechCrunch",
-      "source": {
-        "name": "TechCrunch"
-      },
-      "description": "Bloomberg reports that the tech giant is developing at least two types of smart glasses....",
-      "url": "https://techcrunch.com/2025/10/02/apple-shelves-vision-pro-overhaul-to-focus-on-ai-glasses/",
-      "publishedAt": "2025-10-02T14:06:13Z",
-      "processed_at": "2025-10-03T18:27:54.911907+00:00"
-    },
-    {
-      "title": "Minecraft 1.21.10 Release Candidate 1 - Minecraft",
-      "source": {
-        "name": "Minecraft.net"
-      },
-      "description": "Minecraft 1.21.10 Release Candidate 1...",
-      "url": "https://www.minecraft.net/en-us/article/minecraft-1-21-10-release-candidate-1",
-      "publishedAt": "2025-10-02T14:02:39Z",
-      "processed_at": "2025-10-03T18:27:54.911907+00:00"
-    },
-    {
-      "title": "PS Studios Celebrates Launch of Ghost of Yotei on PS5 with Gorgeous Artwork - Push Square",
-      "source": {
-        "name": "Push Square"
-      },
-      "description": "Wolf pack...",
-      "url": "https://www.pushsquare.com/news/2025/10/ps-studios-celebrates-launch-of-ghost-of-yotei-on-ps5-with-gorgeous-artwork",
-      "publishedAt": "2025-10-02T14:00:00Z",
-      "processed_at": "2025-10-03T18:27:54.911907+00:00"
-    },
-    {
-      "title": "Celebrate Spooky Season as Halloween Haunts Los Santos - Rockstar Games",
-      "source": {
-        "name": "Rockstargames.com"
-      },
-      "description": "Halloween descends on Southern San Andreas throughout October with a bubbling cauldron of chaos. The...",
-      "url": "https://www.rockstargames.com/newswire/article/3922ka4494o378/celebrate-spooky-season-as-halloween-haunts-los-santos",
-      "publishedAt": "2025-10-02T13:51:11Z",
-      "processed_at": "2025-10-03T18:27:54.911907+00:00"
-    },
-    {
-      "title": "Lenovo Legion Go 2 Review - IGN",
-      "source": {
-        "name": "IGN"
-      },
-      "description": "",
-      "url": "https://www.ign.com/articles/lenovo-legion-go-2-review",
-      "publishedAt": "2025-10-02T13:01:32Z",
-      "processed_at": "2025-10-03T18:27:54.911907+00:00"
-    },
-    {
-      "title": "Super Mario Galaxy deserves more - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "Nintendo has re-released both Super Mario Galaxy and its sequel on the Switch and Switch 2....",
-      "url": "https://www.theverge.com/games/790186/super-mario-galaxy-nintendo-switch-2",
-      "publishedAt": "2025-10-02T13:00:00Z",
-      "processed_at": "2025-10-03T18:27:54.911907+00:00"
-    },
-    {
-      "title": "Super Mario Bros.: The Lost Levels 'Minus World' Has Finally Been Found After Nearly 40 Years - Nintendo Life",
-      "source": {
-        "name": "Nintendo Life"
-      },
-      "description": "The Glitched Levels...",
-      "url": "https://www.nintendolife.com/news/2025/10/super-mario-bros-the-lost-levels-minus-world-has-finally-been-found-after-nearly-40-years",
-      "publishedAt": "2025-10-02T12:45:00Z",
-      "processed_at": "2025-10-03T18:27:54.911907+00:00"
+      "processed_at": "2025-10-03T19:15:09.986301+00:00"
     }
   ],
-  "lastUpdated": "2025-10-03T18:27:54.911975+00:00",
+  "lastUpdated": "2025-10-03T19:15:09.986369+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
