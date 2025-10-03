@@ -1,7 +1,17 @@
 {
   "status": "success",
-  "totalResults": 10,
+  "totalResults": 9,
   "articles": [
+    {
+      "title": "Black Ops 7 Multiplayer Avoids The CoD Fatigue, But Warzone Falls A Step Back - GameSpot",
+      "source": {
+        "name": "GameSpot"
+      },
+      "description": "The futuristic multiplayer setting reduces any Black Ops fatigue, but Warzone's integration feels li...",
+      "url": "https://www.gamespot.com/articles/black-ops-7-multiplayer-avoids-cod-fatigue-but-warzone-falters/1100-6535156/",
+      "publishedAt": "2025-10-01T22:23:38Z",
+      "processed_at": "2025-10-03T03:31:01.917051+00:00"
+    },
     {
       "title": "Apple sidelines lighter Vision Pro to prioritize smart glasses - The Verge",
       "source": {
@@ -10,7 +20,7 @@
       "description": "Apple is speeding up work on smart glasses that would compete with similar offerings from Meta and h...",
       "url": "https://www.theverge.com/news/790285/apple-smart-glasses-vision-pro",
       "publishedAt": "2025-10-01T22:22:51Z",
-      "processed_at": "2025-10-03T02:57:07.152831+00:00"
+      "processed_at": "2025-10-03T03:31:01.917051+00:00"
     },
     {
       "title": "Super Mario Bros.: The Lost Levels Minus World levels found four decades later - Nintendo Everything",
@@ -20,27 +30,17 @@
       "description": "It’s been about four decades since Super Mario Bros.: The Lost Levels launched, but one fan has now ...",
       "url": "https://nintendoeverything.com/super-mario-bros-the-lost-levels-minus-world-levels-found-four-decades-later/",
       "publishedAt": "2025-10-01T21:39:10Z",
-      "processed_at": "2025-10-03T02:57:07.152831+00:00"
+      "processed_at": "2025-10-03T03:31:01.917051+00:00"
     },
     {
-      "title": "Infographic details 15 years of Samsung camera innovations: from the original Galaxy S to today - GSMArena.com news - GSMArena.com",
+      "title": "Microsoft's ultra compact Windows 11 25H2 update is here - get it in a single restart - ZDNET",
       "source": {
-        "name": "GSMArena.com"
+        "name": "ZDNet"
       },
-      "description": "The history of the Galaxy S phones starts back in 2010 - the original had a 5MP camera with 720p vid...",
-      "url": "https://www.gsmarena.com/infographic_details_15_years_of_samsung_camera_innovations_from_the_original_galaxy_s_to_today-news-69750.php",
-      "publishedAt": "2025-10-01T21:02:02Z",
-      "processed_at": "2025-10-03T02:57:07.152831+00:00"
-    },
-    {
-      "title": "AI notification summaries coming to Galaxy devices with One UI 8.5, here's a peek - SamMobile",
-      "source": {
-        "name": "SamMobile"
-      },
-      "description": "A new One UI 8.5 firmware has made its way online for the Galaxy S25 Ultra, and it gives us our firs...",
-      "url": "https://www.sammobile.com/news/one-ui-8-5-ai-notification-summaries-galaxy-devices/",
-      "publishedAt": "2025-10-01T18:56:00Z",
-      "processed_at": "2025-10-03T02:57:07.152831+00:00"
+      "description": "Rolling out gradually, the 2025 Windows 11 update installs faster than Microsoft's previous annual r...",
+      "url": "https://www.zdnet.com/article/microsofts-ultra-compact-windows-11-25h2-update-is-here-get-it-in-a-single-restart/",
+      "publishedAt": "2025-10-01T17:37:00Z",
+      "processed_at": "2025-10-03T03:31:01.917051+00:00"
     },
     {
       "title": "Echo, Kindle, Ring, and More: All the New Products Amazon Announced at Its Fall Hardware Event - PCMag",
@@ -50,7 +50,7 @@
       "description": "Ahead of Prime Big Deal Days next week, we got a firsthand look at fresh products across Amazon's 20...",
       "url": "https://www.pcmag.com/news/everything-amazon-announced-2025-fall-devices-event-scribe-ring-echo-fire",
       "publishedAt": "2025-10-01T16:11:03Z",
-      "processed_at": "2025-10-03T02:57:07.152831+00:00"
+      "processed_at": "2025-10-03T03:31:01.917051+00:00"
     },
     {
       "title": "Microsoft 365 Premium bundles Office and AI for the same price as ChatGPT Plus - The Verge",
@@ -60,17 +60,7 @@
       "description": "Microsoft is launching a new Premium subscription for consumers. It bundles together Copilot Pro and...",
       "url": "https://www.theverge.com/news/789493/microsoft-365-premium-features-pricing",
       "publishedAt": "2025-10-01T16:00:00Z",
-      "processed_at": "2025-10-03T02:57:07.152831+00:00"
-    },
-    {
-      "title": "Sony brings audio sharing to its flagship noise-canceling headphones - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "Sony released a firmware update for its WF-1000XM5 and WH-1000XM6 wireless headphones adding audio s...",
-      "url": "https://www.theverge.com/news/789898/sony-firmware-update-wf-1000xm5-wh-1000xm6-headphones-earbuds-audio-sharing",
-      "publishedAt": "2025-10-01T15:37:22Z",
-      "processed_at": "2025-10-03T02:57:07.152831+00:00"
+      "processed_at": "2025-10-03T03:31:01.917051+00:00"
     },
     {
       "title": "Here Are The ‘Ghost Of Yotei’ PS5 Launch Times In Your Region - Forbes",
@@ -80,30 +70,30 @@
       "description": "These are the exact release times for Ghost of Yotei on PS5 as the game arrives on the platform this...",
       "url": "https://www.forbes.com/sites/paultassi/2025/10/01/here-are-the-ghost-of-yotei-ps5-launch-times-in-your-region/",
       "publishedAt": "2025-10-01T15:35:56Z",
-      "processed_at": "2025-10-03T02:57:07.152831+00:00"
+      "processed_at": "2025-10-03T03:31:01.917051+00:00"
     },
     {
-      "title": "Don’t install Windows 11 25H2 if these four known bugs affect you - pcworld.com",
+      "title": "The AirPods Pro 3 Are Everything I Wanted, And They’re Crucially Flawed - aftermath.site",
       "source": {
-        "name": "PCWorld"
+        "name": "Aftermath.site"
       },
-      "description": "The 25H2 update for Windows 11 is rolling out to users despite a handful of known bugs....",
-      "url": "https://www.pcworld.com/article/2926952/dont-install-windows-11-25h2-if-these-four-known-bugs-affect-you.html",
-      "publishedAt": "2025-10-01T15:04:00Z",
-      "processed_at": "2025-10-03T02:57:07.152831+00:00"
+      "description": "The AirPods Pro 3 are a generational leap in wearable technology, kneecapped by Apple’s showy tuning...",
+      "url": "https://aftermath.site/airpods-pro-3-review-heartrate-v-shaped-sound",
+      "publishedAt": "2025-10-01T14:30:00Z",
+      "processed_at": "2025-10-03T03:31:01.917051+00:00"
     },
     {
-      "title": "Xbox Game Pass Hikes Price Ahead of Handhelds Release - The Hollywood Reporter",
+      "title": "Amazon’s New Kindle Scribe Launch Sparks a Price Crash, Last Year’s Pen-Included Model Feels Like a Giveaway - Kotaku",
       "source": {
-        "name": "Hollywood Reporter"
+        "name": "Kotaku"
       },
-      "description": "It’s getting x-pensive to be an Xbox gamer....",
-      "url": "http://www.hollywoodreporter.com/business/business-news/xbox-game-pass-price-how-much-does-it-cost-asus-rog-ally-x-1236390793/",
-      "publishedAt": "2025-10-01T15:00:00Z",
-      "processed_at": "2025-10-03T02:57:07.152831+00:00"
+      "description": "Save 24% on the Amazon Kindle Scribe which comes with a premium pen for a limited time....",
+      "url": "https://kotaku.com/amazons-new-kindle-scribe-launch-sparks-a-price-crash-last-years-pen-included-model-feels-like-a-giveaway-2000630295",
+      "publishedAt": "2025-10-01T14:15:37Z",
+      "processed_at": "2025-10-03T03:31:01.917051+00:00"
     }
   ],
-  "lastUpdated": "2025-10-03T02:57:07.152901+00:00",
+  "lastUpdated": "2025-10-03T03:31:01.917120+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
