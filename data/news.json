@@ -3,6 +3,16 @@
   "totalResults": 10,
   "articles": [
     {
+      "title": "Megabonk is a new indie hit on Steam. The game’s sales have surpassed one million copies - Game World Observer",
+      "source": {
+        "name": "Game World Observer"
+      },
+      "description": "",
+      "url": "https://gameworldobserver.com/2025/10/03/megabonk-is-a-new-indie-hit-on-steam-the-games-sales-have-surpassed-one-million-copies",
+      "publishedAt": "2025-10-03T14:19:56Z",
+      "processed_at": "2025-10-04T17:15:13.137055+00:00"
+    },
+    {
       "title": "I tried Amazon and Google’s new smart home gadgets. Ask me anything! - The Verge",
       "source": {
         "name": "The Verge"
@@ -10,17 +20,47 @@
       "description": "From new Echo Shows to new Nest Cams, a new Google Home smart speaker and new voice assistants, ther...",
       "url": "https://www.theverge.com/tech/790817/amazon-alexa-show-google-gemini-nest-hands-on-ama",
       "publishedAt": "2025-10-03T13:03:07Z",
-      "processed_at": "2025-10-04T16:21:45.054453+00:00"
+      "processed_at": "2025-10-04T17:15:13.137055+00:00"
+    },
+    {
+      "title": "Here's What Makes Apple's New 40-Watt Power Adapter Unique - CNET",
+      "source": {
+        "name": "CNET"
+      },
+      "description": "You can get a 60-watt boost of power, if you connect the right gear....",
+      "url": "https://www.cnet.com/tech/mobile/heres-what-makes-apples-new-40-watt-power-adapter-unique/",
+      "publishedAt": "2025-10-03T12:00:00Z",
+      "processed_at": "2025-10-04T17:15:13.137055+00:00"
     },
     {
       "title": "The Voice Behind Mortal Kombat's 'Toasty!' Is Leaving NetherRealm - IGN",
       "source": {
         "name": "IGN"
       },
-      "description": "",
+      "description": "Few games have given us as many iconic one-liners as NetherRealm's fighting franchise, Mortal Kombat...",
       "url": "https://www.ign.com/articles/the-voice-behind-mortal-kombats-toasty-is-leaving-netherrealm",
       "publishedAt": "2025-10-03T10:45:35Z",
-      "processed_at": "2025-10-04T16:21:45.054453+00:00"
+      "processed_at": "2025-10-04T17:15:13.137055+00:00"
+    },
+    {
+      "title": "Apple AirPods Pro 3 vs. Samsung Galaxy Buds 3 Pro: I tested both earbuds, and this one wins - ZDNET",
+      "source": {
+        "name": "ZDNet"
+      },
+      "description": "It's a battle of device ecosystems - but is one truly better?...",
+      "url": "https://www.zdnet.com/article/apple-airpods-pro-3-vs-samsung-galaxy-buds-3-pro-i-tested-both-earbuds-and-this-one-wins/",
+      "publishedAt": "2025-10-03T10:45:00Z",
+      "processed_at": "2025-10-04T17:15:13.137055+00:00"
+    },
+    {
+      "title": "Why does Helldivers 2 have such a bloated install size on PC? Old hard drives, says dev - Rock Paper Shotgun",
+      "source": {
+        "name": "Rock Paper Shotgun"
+      },
+      "description": "Helldivers 2 devs Arrowhead have finally explained why its PC version is so full of storage-hogging ...",
+      "url": "https://www.rockpapershotgun.com/why-does-helldivers-2-have-such-a-bloated-install-size-on-pc-old-hard-drives-says-dev",
+      "publishedAt": "2025-10-03T10:34:13Z",
+      "processed_at": "2025-10-04T17:15:13.137055+00:00"
     },
     {
       "title": "Microsoft says its \"trying to reinforce\" Xbox Game Pass price increases \"by adding more value\" - GamesIndustry.biz",
@@ -30,17 +70,27 @@
       "description": "\"We understand price increases are never fun for anybody,\" says firm's director of gaming and platfo...",
       "url": "https://www.gamesindustry.biz/microsoft-says-its-trying-to-reinforce-xbox-game-pass-price-increases-by-adding-more-value",
       "publishedAt": "2025-10-03T10:28:33Z",
-      "processed_at": "2025-10-04T16:21:45.054453+00:00"
+      "processed_at": "2025-10-04T17:15:13.137055+00:00"
+    },
+    {
+      "title": "Strava explains why it's suing Garmin in Reddit post to \"set the record straight\" - BikeRadar",
+      "source": {
+        "name": "BikeRadar.com"
+      },
+      "description": "Strava’s chief product officer speaks out...",
+      "url": "https://www.bikeradar.com/news/strava-explains-why-it-sued-garmin",
+      "publishedAt": "2025-10-03T09:38:19Z",
+      "processed_at": "2025-10-04T17:15:13.137055+00:00"
     },
     {
       "title": "Call of Duty: Black Ops 7's beta is out, and is already plagued by cheaters - Eurogamer",
       "source": {
         "name": "Eurogamer.net"
       },
-      "description": "",
+      "description": "Call of Duty: Black Ops 7's beta is already plagued by cheaters....",
       "url": "https://www.eurogamer.net/call-of-duty-black-ops-7s-beta-is-out-and-is-already-plagued-by-cheaters",
       "publishedAt": "2025-10-03T09:33:05Z",
-      "processed_at": "2025-10-04T16:21:45.054453+00:00"
+      "processed_at": "2025-10-04T17:15:13.137055+00:00"
     },
     {
       "title": "The revolutionary politics of Final Fantasy Tactics, and why Ramza Beoulve is a hero for our times - Eurogamer",
@@ -50,60 +100,10 @@
       "description": "Final Fantasy Tactics' original writer-director Yasumi Matsuno signalled the timeliness of this rema...",
       "url": "https://www.eurogamer.net/the-revolutionary-politics-of-final-fantasy-tactics-and-why-ramza-beoulve-is-a-hero-for-our-times",
       "publishedAt": "2025-10-03T09:30:00Z",
-      "processed_at": "2025-10-04T16:21:45.054453+00:00"
-    },
-    {
-      "title": "Ghost of Yotei: A return to form for PlayStation? - BBC",
-      "source": {
-        "name": "BBC News"
-      },
-      "description": "Sony's latest PlayStation blockbuster is a long-awaited return to its trusted single-player formula....",
-      "url": "https://www.bbc.com/news/articles/c2lxy1w121lo",
-      "publishedAt": "2025-10-03T09:28:20Z",
-      "processed_at": "2025-10-04T16:21:45.054453+00:00"
-    },
-    {
-      "title": "Strava sues Garmin, demands it stops selling nearly every device - Here's why - Cyclingnews",
-      "source": {
-        "name": "Cyclingnews.com"
-      },
-      "description": "Strava demands Garmin stops selling devices immediately...",
-      "url": "https://www.cyclingnews.com/news/strava-sues-garmin-demands-it-stops-selling-nearly-every-device-heres-why/",
-      "publishedAt": "2025-10-03T08:23:47Z",
-      "processed_at": "2025-10-04T16:21:45.054453+00:00"
-    },
-    {
-      "title": "Every October 2025 Game Release From Battlefield 6 To Pokémon Legends - Kotaku",
-      "source": {
-        "name": "Kotaku"
-      },
-      "description": "Pokémon Legends: Z-A, Battlefield 6, and more are crammed into the most packed month of the year...",
-      "url": "https://kotaku.com/every-game-release-october-2025-pokemon-battlefield-ninja-gaiden-2000630373",
-      "publishedAt": "2025-10-02T19:38:00Z",
-      "processed_at": "2025-10-04T16:21:45.054453+00:00"
-    },
-    {
-      "title": "New Borderlands 4 Update Buffs Vault Hunters - GameSpot",
-      "source": {
-        "name": "GameSpot"
-      },
-      "description": "The looter-shooter's latest patch adjusts the Vault Hunters' various skills to make them stronger....",
-      "url": "https://www.gamespot.com/articles/new-borderlands-4-update-buffs-vault-hunters/1100-6535180/",
-      "publishedAt": "2025-10-02T18:10:37Z",
-      "processed_at": "2025-10-04T16:21:45.054453+00:00"
-    },
-    {
-      "title": "Inside the Vault – Burning Springs Public Test Server Release Notes - Bethesda.net",
-      "source": {
-        "name": "Bethesda.net"
-      },
-      "description": "Burning Springs introduces the largest map expansion to Fallout 76 yet and it’s available for you to...",
-      "url": "https://bethesda.net/en/article/2nqh2JMnLeJnjpxwUUi5n6/inside-the-vault-burning-springs-public-test-server-release-notes",
-      "publishedAt": "2025-10-02T18:07:33Z",
-      "processed_at": "2025-10-04T16:21:45.054453+00:00"
+      "processed_at": "2025-10-04T17:15:13.137055+00:00"
     }
   ],
-  "lastUpdated": "2025-10-04T16:21:45.054525+00:00",
+  "lastUpdated": "2025-10-04T17:15:13.137126+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
