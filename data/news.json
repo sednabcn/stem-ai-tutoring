@@ -1,7 +1,17 @@
 {
   "status": "success",
-  "totalResults": 10,
+  "totalResults": 9,
   "articles": [
+    {
+      "title": "Microsoft says its \"trying to reinforce\" Xbox Game Pass price increases \"by adding more value\" - GamesIndustry.biz",
+      "source": {
+        "name": "GamesIndustry.biz"
+      },
+      "description": "\"We understand price increases are never fun for anybody,\" says firm's director of gaming and platfo...",
+      "url": "https://www.gamesindustry.biz/microsoft-says-its-trying-to-reinforce-xbox-game-pass-price-increases-by-adding-more-value",
+      "publishedAt": "2025-10-03T10:28:33Z",
+      "processed_at": "2025-10-04T11:13:49.935070+00:00"
+    },
     {
       "title": "I spent the day teaching seniors how to use an iPhone - Hacker News",
       "source": {
@@ -10,17 +20,17 @@
       "description": "",
       "url": "https://news.ycombinator.com/item?id\\\\u003d45457670",
       "publishedAt": "2025-10-03T01:24:25Z",
-      "processed_at": "2025-10-04T10:18:11.776610+00:00"
+      "processed_at": "2025-10-04T11:13:49.935070+00:00"
     },
     {
-      "title": "Pokémon Legends: Z-A Celebration Event - Pokémon GO Hub",
+      "title": "It looks like Windows 11 is about to get a new dedicated OneDrive app — here's your first look - Windows Central",
       "source": {
-        "name": "Pokemon GO Hub"
+        "name": "Windows Central"
       },
-      "description": "To celebrate the release of Pokémon Legends: Z-A, Pokémon GO is hosting a special limited-time event...",
-      "url": "https://pokemongohub.net/post/event/pokemon-legends-z-a-celebration-event/",
-      "publishedAt": "2025-10-02T20:24:00Z",
-      "processed_at": "2025-10-04T10:18:11.776610+00:00"
+      "description": "OneDrive is getting its own dedicated app experience on Windows 11, complete with new Copilot featur...",
+      "url": "https://www.windowscentral.com/microsoft/windows-11/new-onedrive-dedicated-app-windows-11-2025-leak",
+      "publishedAt": "2025-10-03T00:21:00Z",
+      "processed_at": "2025-10-04T11:13:49.935070+00:00"
     },
     {
       "title": "Every October 2025 Game Release From Battlefield 6 To Pokémon Legends - Kotaku",
@@ -30,17 +40,7 @@
       "description": "Pokémon Legends: Z-A, Battlefield 6, and more are crammed into the most packed month of the year...",
       "url": "https://kotaku.com/every-game-release-october-2025-pokemon-battlefield-ninja-gaiden-2000630373",
       "publishedAt": "2025-10-02T19:38:00Z",
-      "processed_at": "2025-10-04T10:18:11.776610+00:00"
-    },
-    {
-      "title": "Report: Development Screenshots From Cancelled Star Wars: KOTOR Remake by Aspyr Surfaces - MP1st",
-      "source": {
-        "name": "http://mp1st.com/category/news"
-      },
-      "description": "Early in-game development photos reveal weapons, props, and a third-person prototype for the cancell...",
-      "url": "https://mp1st.com/news/report-development-screenshots-from-cancelled-star-wars-kotor-remake-by-aspyr-surfaces",
-      "publishedAt": "2025-10-02T19:02:17Z",
-      "processed_at": "2025-10-04T10:18:11.776610+00:00"
+      "processed_at": "2025-10-04T11:13:49.935070+00:00"
     },
     {
       "title": "New Borderlands 4 Update Buffs Vault Hunters - GameSpot",
@@ -50,7 +50,7 @@
       "description": "The looter-shooter's latest patch adjusts the Vault Hunters' various skills to make them stronger....",
       "url": "https://www.gamespot.com/articles/new-borderlands-4-update-buffs-vault-hunters/1100-6535180/",
       "publishedAt": "2025-10-02T18:10:37Z",
-      "processed_at": "2025-10-04T10:18:11.776610+00:00"
+      "processed_at": "2025-10-04T11:13:49.935070+00:00"
     },
     {
       "title": "Inside the Vault – Burning Springs Public Test Server Release Notes - Bethesda.net",
@@ -60,7 +60,17 @@
       "description": "Burning Springs introduces the largest map expansion to Fallout 76 yet and it’s available for you to...",
       "url": "https://bethesda.net/en/article/2nqh2JMnLeJnjpxwUUi5n6/inside-the-vault-burning-springs-public-test-server-release-notes",
       "publishedAt": "2025-10-02T18:07:33Z",
-      "processed_at": "2025-10-04T10:18:11.776610+00:00"
+      "processed_at": "2025-10-04T11:13:49.935070+00:00"
+    },
+    {
+      "title": "AI designs for dangerous DNA can slip past biosecurity measures, study shows - NPR",
+      "source": {
+        "name": "NPR"
+      },
+      "description": "Companies that make DNA for science labs screen out any requests for dangerous bits of genetic mater...",
+      "url": "https://www.npr.org/2025/10/02/nx-s1-5558145/ai-artificial-intelligence-dangerous-proteins-biosecurity",
+      "publishedAt": "2025-10-02T18:00:30Z",
+      "processed_at": "2025-10-04T11:13:49.935070+00:00"
     },
     {
       "title": "Google’s Jules enters developers’ toolchains as AI coding agent competition heats up - TechCrunch",
@@ -70,7 +80,7 @@
       "description": "Jules is already being used by developers to complete code after experimenting on vibe-coding platfo...",
       "url": "https://techcrunch.com/2025/10/02/googles-jules-enters-developers-toolchains-as-ai-coding-agent-competition-heats-up/",
       "publishedAt": "2025-10-02T18:00:00Z",
-      "processed_at": "2025-10-04T10:18:11.776610+00:00"
+      "processed_at": "2025-10-04T11:13:49.935070+00:00"
     },
     {
       "title": "Apple Watch can lose these training wheels thanks to stellar battery life - 9to5Mac",
@@ -80,30 +90,10 @@
       "description": "Apple Watch battery life is better than ever. Apple Watch Ultra 3 measures battery life in days, and...",
       "url": "https://9to5mac.com/2025/10/02/apple-watch-can-lose-these-training-wheels-thanks-to-stellar-battery-life/",
       "publishedAt": "2025-10-02T17:39:00Z",
-      "processed_at": "2025-10-04T10:18:11.776610+00:00"
-    },
-    {
-      "title": "How to Start Playing the Call of Duty: Black Ops 7 Multiplayer and Zombies Beta - Xbox Wire",
-      "source": {
-        "name": "Xbox.com"
-      },
-      "description": "After an exciting week of news and reveals from Call of Duty: Next, we’re capping it off with a Call...",
-      "url": "https://news.xbox.com/en-us/2025/10/02/how-to-start-playing-call-of-duty-black-ops-7-open-beta/",
-      "publishedAt": "2025-10-02T17:15:00Z",
-      "processed_at": "2025-10-04T10:18:11.776610+00:00"
-    },
-    {
-      "title": "Japanese Charts: Sonic Racing: CrossWorlds Can't Compete With Mario Kart World - Nintendo Life",
-      "source": {
-        "name": "Nintendo Life"
-      },
-      "description": "A slow start...",
-      "url": "https://www.nintendolife.com/news/2025/10/japanese-charts-sonic-racing-crossworlds-cant-compete-with-mario-kart-world",
-      "publishedAt": "2025-10-02T16:15:00Z",
-      "processed_at": "2025-10-04T10:18:11.776610+00:00"
+      "processed_at": "2025-10-04T11:13:49.935070+00:00"
     }
   ],
-  "lastUpdated": "2025-10-04T10:18:11.776684+00:00",
+  "lastUpdated": "2025-10-04T11:13:49.935151+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
