@@ -1,7 +1,87 @@
 {
   "status": "success",
-  "totalResults": 10,
+  "totalResults": 9,
   "articles": [
+    {
+      "title": "Developers using Unity warned to patch games ASAP following the discovery of a serious security vulnerability - Eurogamer",
+      "source": {
+        "name": "Eurogamer.net"
+      },
+      "description": "Developers who have created their games using Unity have been warned to patch them as soon as possib...",
+      "url": "https://www.eurogamer.net/developers-using-unity-warned-to-patch-games-asap-following-the-discovery-of-a-serious-security-vulnerability",
+      "publishedAt": "2025-10-04T15:06:08Z",
+      "processed_at": "2025-10-05T15:17:19.071401+00:00"
+    },
+    {
+      "title": "Microsoft Set To Announce 'Free' Xbox Cloud Gaming Tier With Ads - Pure Xbox",
+      "source": {
+        "name": "Pure Xbox"
+      },
+      "description": "",
+      "url": "https://www.purexbox.com/news/2025/10/microsoft-set-to-announce-free-xbox-cloud-gaming-tier-with-ads",
+      "publishedAt": "2025-10-04T13:17:13Z",
+      "processed_at": "2025-10-05T15:17:19.071401+00:00"
+    },
+    {
+      "title": "Windows 11’s annual ’25H2′ update arrives, and it’s a weird one - pcworld.com",
+      "source": {
+        "name": "PCWorld"
+      },
+      "description": "Windows 11's big annual '25H2' update arrives today, but you'll get the new features even without up...",
+      "url": "https://www.pcworld.com/article/2925476/windows-11s-annual-25h2-update-arrives-and-its-a-weird-one.html",
+      "publishedAt": "2025-10-04T12:00:00Z",
+      "processed_at": "2025-10-05T15:17:19.071401+00:00"
+    },
+    {
+      "title": "Steam Autumn Sale 2025 Recommendations For Steam Deck - Part 2 - Steam Deck HQ",
+      "source": {
+        "name": "Steamdeckhq.com"
+      },
+      "description": "",
+      "url": "https://steamdeckhq.com/news/steam-autumn-sale-2025-recommendations-steam-deck-part-2/",
+      "publishedAt": "2025-10-04T11:21:14Z",
+      "processed_at": "2025-10-05T15:17:19.071401+00:00"
+    },
+    {
+      "title": "Lego Game Boy Review: The Designers Share All the Secrets to the Fun, Nostalgic Set - Gizmodo",
+      "source": {
+        "name": "Gizmodo.com"
+      },
+      "description": "We interviewed Lego designers Carl Merriam and Simon Kent to unearth some of the brick Game Boy’s Ea...",
+      "url": "https://gizmodo.com/lego-game-boy-review-the-designers-share-all-the-secrets-to-the-fun-nostalgic-set-2000667492",
+      "publishedAt": "2025-10-04T10:00:05Z",
+      "processed_at": "2025-10-05T15:17:19.071401+00:00"
+    },
+    {
+      "title": "The Vision Pro Was An Expensive Misstep. Now Apple Has to Catch Up With Smart Glasses - WIRED",
+      "source": {
+        "name": "Wired"
+      },
+      "description": "Having reportedly shelved work on a cheaper Vision Pro, Apple is apparently pivoting its focus to sm...",
+      "url": "https://www.wired.com/story/the-vision-pro-was-an-expensive-misstep-now-apple-has-to-catch-up-with-smart-glasses/",
+      "publishedAt": "2025-10-04T10:00:00Z",
+      "processed_at": "2025-10-05T15:17:19.071401+00:00"
+    },
+    {
+      "title": "Windows 10 end of support is just days away — take action now! - Windows Central",
+      "source": {
+        "name": "Windows Central"
+      },
+      "description": "Microsoft will end support for Windows 10 on October 14, meaning users still using the platform will...",
+      "url": "https://www.windowscentral.com/microsoft/windows-10/windows-10-eol-october-14-faq-esu",
+      "publishedAt": "2025-10-04T09:11:04Z",
+      "processed_at": "2025-10-05T15:17:19.071401+00:00"
+    },
+    {
+      "title": "Mega Metagross Raid Performance Compared: Is It Outclassed? - Pokémon GO Hub",
+      "source": {
+        "name": "Pokemon GO Hub"
+      },
+      "description": "Pokémon GO players have been waiting with bated breath for the debut of Mega Metagross for a long ti...",
+      "url": "https://pokemongohub.net/post/meta/how-good-is-mega-metagross-in-raids/",
+      "publishedAt": "2025-10-04T06:20:09Z",
+      "processed_at": "2025-10-05T15:17:19.071401+00:00"
+    },
     {
       "title": "Scientists race to make 'living' computers powered by human cells - BBC",
       "source": {
@@ -10,100 +90,10 @@
       "description": "BBC News goes inside the lab powering computers with 'mini brains' grown from human cells....",
       "url": "https://www.bbc.com/news/articles/cy7p1lzvxjro",
       "publishedAt": "2025-10-04T01:39:04Z",
-      "processed_at": "2025-10-05T14:16:09.177534+00:00"
-    },
-    {
-      "title": "Google does Gemini for Home Q&A: Early Access vs. Public Preview, 3rd-party speakers, launch schedule - 9to5Google",
-      "source": {
-        "name": "9to5google.com"
-      },
-      "description": "The Google Home team is answering the “top questions” it has received from users since Wednesday's G...",
-      "url": "http://9to5google.com/2025/10/03/gemini-for-home-questions-answers/",
-      "publishedAt": "2025-10-04T00:42:00Z",
-      "processed_at": "2025-10-05T14:16:09.177534+00:00"
-    },
-    {
-      "title": "‘Smiling Friends’ Team Launches New L.A.-Based Animation Studio - Deadline",
-      "source": {
-        "name": "Deadline"
-      },
-      "description": "Smiling Friends creators Michael Cusack and Zach Hadel and producer Aron Fromm have launched Zam Stu...",
-      "url": "http://deadline.com/2025/10/smiling-friends-team-zam-studios-animation-studio-1236570049/",
-      "publishedAt": "2025-10-03T23:01:00Z",
-      "processed_at": "2025-10-05T14:16:09.177534+00:00"
-    },
-    {
-      "title": "Google reportedly testing MediaTek modem for Tensor G6 and Pixel 11 - 9to5Google",
-      "source": {
-        "name": "9to5google.com"
-      },
-      "description": "The Tensor G6 for the Pixel 11 is rumored to switch to a MediaTek modem. With the Pixel 10 just over...",
-      "url": "http://9to5google.com/2025/10/03/pixel-11-tensor-g6-modem/",
-      "publishedAt": "2025-10-03T21:58:00Z",
-      "processed_at": "2025-10-05T14:16:09.177534+00:00"
-    },
-    {
-      "title": "Xbox’s Hike on Game Pass Shows Cost of Lost ‘Call of Duty’ Sales - Bloomberg.com",
-      "source": {
-        "name": "Bloomberg"
-      },
-      "description": "Microsoft Corp.’s Xbox division surprised many video game enthusiasts this week when the company ann...",
-      "url": "https://www.bloomberg.com/news/articles/2025-10-03/xbox-s-game-pass-hike-shows-cost-of-lost-call-of-duty-sales",
-      "publishedAt": "2025-10-03T21:26:21Z",
-      "processed_at": "2025-10-05T14:16:09.177534+00:00"
-    },
-    {
-      "title": "How to Turn Off AI Tools Like Gemini, Apple Intelligence, Copilot, and More - Consumer Reports",
-      "source": {
-        "name": "ConsumerReports.org"
-      },
-      "description": "AI features are crowding into Google search, Gmail, iPhones, Windows laptops, and other products. If...",
-      "url": "https://www.consumerreports.org/electronics/artificial-intelligence/turn-off-ai-tools-gemini-apple-intelligence-copilot-and-more-a1156421356/",
-      "publishedAt": "2025-10-03T21:04:39Z",
-      "processed_at": "2025-10-05T14:16:09.177534+00:00"
-    },
-    {
-      "title": "5 Things To Know Before Starting Digimon Story: Time Stranger - Kotaku",
-      "source": {
-        "name": "Kotaku"
-      },
-      "description": "Here are a few tips before you head into the Digital World...",
-      "url": "https://kotaku.com/digimon-story-time-stranger-tips-guides-side-quests-2000631593",
-      "publishedAt": "2025-10-03T20:13:17Z",
-      "processed_at": "2025-10-05T14:16:09.177534+00:00"
-    },
-    {
-      "title": "Do AI-designed proteins create a biosecurity vulnerability? - Ars Technica",
-      "source": {
-        "name": "Ars Technica"
-      },
-      "description": "Ordering DNA for AI-designed toxins doesn’t always raise red flags....",
-      "url": "https://arstechnica.com/science/2025/10/do-ai-designed-proteins-create-a-biosecurity-vulnerability/",
-      "publishedAt": "2025-10-03T20:12:52Z",
-      "processed_at": "2025-10-05T14:16:09.177534+00:00"
-    },
-    {
-      "title": "Video game blockbuster 'Ghost of Yotei' wears its cinematic influences on its sleeve - WBUR",
-      "source": {
-        "name": "WBUR"
-      },
-      "description": "One of the fall’s biggest video games plays like an interactive Samurai movie....",
-      "url": "https://www.wbur.org/hereandnow/2025/10/03/ghost-of-yotei",
-      "publishedAt": "2025-10-03T19:52:30Z",
-      "processed_at": "2025-10-05T14:16:09.177534+00:00"
-    },
-    {
-      "title": "One Of Steam's Most-Wishlisted Games Indefinitely Delayed Days Before Launch - Kotaku",
-      "source": {
-        "name": "Kotaku"
-      },
-      "description": "Kingmakers won't come to Steam in October after all...",
-      "url": "https://kotaku.com/kingmakers-delay-medieval-shooter-steam-early-access-date-2000631559",
-      "publishedAt": "2025-10-03T19:38:07Z",
-      "processed_at": "2025-10-05T14:16:09.177534+00:00"
+      "processed_at": "2025-10-05T15:17:19.071401+00:00"
     }
   ],
-  "lastUpdated": "2025-10-05T14:16:09.177618+00:00",
+  "lastUpdated": "2025-10-05T15:17:19.071476+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
