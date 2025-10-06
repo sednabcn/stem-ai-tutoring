@@ -3,6 +3,16 @@
   "totalResults": 10,
   "articles": [
     {
+      "title": "Where Google Wallet state IDs are available on Android [Updated] - 9to5Google",
+      "source": {
+        "name": "9to5google.com"
+      },
+      "description": "States across the US are slowly rolling out support for adding your driver’s license or ID to the Go...",
+      "url": "http://9to5google.com/2025/10/04/google-wallet-state-ids/",
+      "publishedAt": "2025-10-04T20:56:00Z",
+      "processed_at": "2025-10-06T01:36:45.088492+00:00"
+    },
+    {
       "title": "Nintendo issues October 2025 Switch 1 backwards compatibility fixes for Switch 2, full list - Nintendo Everything",
       "source": {
         "name": "Nintendoeverything.com"
@@ -10,17 +20,37 @@
       "description": "October has rolled in, and as part of that, a new wave of backwards compatibility fixes are availabl...",
       "url": "https://nintendoeverything.com/nintendo-switch-1-2-backwards-compatibility-fixes-october-2025/",
       "publishedAt": "2025-10-04T20:05:56Z",
-      "processed_at": "2025-10-05T23:15:49.894048+00:00"
+      "processed_at": "2025-10-06T01:36:45.088492+00:00"
     },
     {
-      "title": "Microsoft Set To Announce 'Free' Xbox Cloud Gaming Tier With Ads - Pure Xbox",
+      "title": "iPhone 17 Pro Max vs. iPhone 16 Pro Max - GSMArena.com",
       "source": {
-        "name": "Pure Xbox"
+        "name": "GSMArena.com"
       },
-      "description": "An alternative to streaming through Game Pass...",
-      "url": "https://www.purexbox.com/news/2025/10/microsoft-set-to-announce-free-xbox-cloud-gaming-tier-with-ads",
-      "publishedAt": "2025-10-04T19:55:35Z",
-      "processed_at": "2025-10-05T23:15:49.894048+00:00"
+      "description": "We explore whether saving some money and going for last year's iPhone 16 Pro Max is a good idea or t...",
+      "url": "https://www.gsmarena.com/iphone_17_pro_max_vs_iphone_16_pro_max_review_battery_camera_price_compared-news-69769.php",
+      "publishedAt": "2025-10-04T20:02:02Z",
+      "processed_at": "2025-10-06T01:36:45.088492+00:00"
+    },
+    {
+      "title": "Anachronistic medieval shooter Kingmakers catches an indefinite delay days before it was supposed to launch - Rock Paper Shotgun",
+      "source": {
+        "name": "Rock Paper Shotgun"
+      },
+      "description": "Kingmakers, the medieval stategy shooter with modern day elements like guns and cars, have been dela...",
+      "url": "https://www.rockpapershotgun.com/anachronistic-medieval-shooter-kingmakers-catches-an-indefinite-delay-days-before-it-was-supposed-to-launch",
+      "publishedAt": "2025-10-04T19:02:48Z",
+      "processed_at": "2025-10-06T01:36:45.088492+00:00"
+    },
+    {
+      "title": "Nintendo seeking $4.5 million in damages from Switch piracy Reddit mod - Nintendo Everything",
+      "source": {
+        "name": "Nintendoeverything.com"
+      },
+      "description": "A new Nintendo lawsuit is making the rounds in which the company is looking for $4,500,000 in damage...",
+      "url": "https://nintendoeverything.com/nintendo-seeking-4-5-million-in-damages-from-switch-piracy-reddit-mod/",
+      "publishedAt": "2025-10-04T18:37:56Z",
+      "processed_at": "2025-10-06T01:36:45.088492+00:00"
     },
     {
       "title": "This week’s best deal is a ‘kids’ Kindle Paperwhite that’s better than the adult version - The Verge",
@@ -30,7 +60,7 @@
       "description": "The Kindle Paperwhite Kids is down to its best price to date this week, while Sonos is discounting t...",
       "url": "https://www.theverge.com/tech/791728/kindle-paperwhite-kids-sonos-era-100-deal-sale",
       "publishedAt": "2025-10-04T17:00:00Z",
-      "processed_at": "2025-10-05T23:15:49.894048+00:00"
+      "processed_at": "2025-10-06T01:36:45.088492+00:00"
     },
     {
       "title": "Is Nine Sols currently hiding an entirely new game within itself? Yes, but I don't know why yet - Rock Paper Shotgun",
@@ -40,17 +70,17 @@
       "description": "A recent ARG has led to a discovery that an entirely new game is hiding within Nine Sols, for reason...",
       "url": "https://www.rockpapershotgun.com/is-nine-sols-currently-hiding-an-entirely-new-game-within-itself-yes-but-i-dont-know-why-yet",
       "publishedAt": "2025-10-04T16:17:19Z",
-      "processed_at": "2025-10-05T23:15:49.894048+00:00"
+      "processed_at": "2025-10-06T01:36:45.088492+00:00"
     },
     {
-      "title": "Kingmakers delayed indefinitely as developer needs \"more time before we feel good about charging money for it\" - Eurogamer",
+      "title": "iOS 26 brings a new app to your iPhone — here’s how to try it - Tom's Guide",
       "source": {
-        "name": "Eurogamer.net"
+        "name": "Tom's Guide"
       },
-      "description": "Redemption Road's time-travelling bring-an-assault-rifle-to-a-medieval-sword-fight shooter and strat...",
-      "url": "https://www.eurogamer.net/kingmakers-delayed-indefinitely-as-developer-needs-more-time-before-we-feel-good-about-charging-money-for-it",
-      "publishedAt": "2025-10-04T16:08:00Z",
-      "processed_at": "2025-10-05T23:15:49.894048+00:00"
+      "description": "You may have missed it amongst all the new goodies...",
+      "url": "https://www.tomsguide.com/phones/iphones/ios-26-brings-a-new-app-to-your-iphone-heres-how-to-try-it",
+      "publishedAt": "2025-10-04T16:11:50Z",
+      "processed_at": "2025-10-06T01:36:45.088492+00:00"
     },
     {
       "title": "How Google plans to fix its smart home mess with Gemini for Google Home - Android Authority",
@@ -60,7 +90,7 @@
       "description": "Google knows its smart home ecosystem has been a mess, but it thinks Gemini for Google Home will hel...",
       "url": "https://www.androidauthority.com/google-home-win-back-trust-3604047/",
       "publishedAt": "2025-10-04T16:01:20Z",
-      "processed_at": "2025-10-05T23:15:49.894048+00:00"
+      "processed_at": "2025-10-06T01:36:45.088492+00:00"
     },
     {
       "title": "Exclusive: Event startup Partiful wasn't stripping GPS locations from user-uploaded photos - TechCrunch",
@@ -70,40 +100,10 @@
       "description": "The event planning startup, which has raised over $27M from a16z and others, fixed the bug after Tec...",
       "url": "https://techcrunch.com/2025/10/04/event-startup-partiful-wasnt-stripping-gps-locations-from-user-uploaded-photos/",
       "publishedAt": "2025-10-04T15:50:07Z",
-      "processed_at": "2025-10-05T23:15:49.894048+00:00"
-    },
-    {
-      "title": "The Google Pixel Fold went from overpriced to under $500 — and it's worth every penny - Android Police",
-      "source": {
-        "name": "Android Police"
-      },
-      "description": "I didn't like it at launch, but now it's hard to beat...",
-      "url": "https://www.androidpolice.com/google-pixel-fold-under-600/",
-      "publishedAt": "2025-10-04T14:07:00Z",
-      "processed_at": "2025-10-05T23:15:49.894048+00:00"
-    },
-    {
-      "title": "Harry Potter’s Heirs Would Hate This, LEGO Is Selling the Hogwarts Castle Set for Pennies on the Dollar - Kotaku",
-      "source": {
-        "name": "Kotaku"
-      },
-      "description": "This is the must-have LEGO Harry Potter set for any collection....",
-      "url": "https://kotaku.com/harry-potters-heirs-would-hate-this-lego-is-selling-the-hogwarts-castle-set-for-pennies-on-the-dollar-2000631765",
-      "publishedAt": "2025-10-04T14:05:21Z",
-      "processed_at": "2025-10-05T23:15:49.894048+00:00"
-    },
-    {
-      "title": "Philips Hue Play Wall Washer Review: A Spendy TV Glow-Up for Movie Night at Home - Gizmodo",
-      "source": {
-        "name": "Gizmodo.com"
-      },
-      "description": "More than a TV-syncing light accessory, the Play Wall Washer can do plenty in the right home....",
-      "url": "https://gizmodo.com/philips-hue-play-wall-washer-review-2000638106",
-      "publishedAt": "2025-10-04T14:00:54Z",
-      "processed_at": "2025-10-05T23:15:49.894048+00:00"
+      "processed_at": "2025-10-06T01:36:45.088492+00:00"
     }
   ],
-  "lastUpdated": "2025-10-05T23:15:49.894127+00:00",
+  "lastUpdated": "2025-10-06T01:36:45.088564+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
