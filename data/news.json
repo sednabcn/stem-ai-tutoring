@@ -1,7 +1,17 @@
 {
   "status": "success",
-  "totalResults": 10,
+  "totalResults": 9,
   "articles": [
+    {
+      "title": "Waffles eat Bluesky - TechCrunch",
+      "source": {
+        "name": "TechCrunch"
+      },
+      "description": "A waffle-centric controversy underlines ongoing tensions between Bluesky and some of its most vocal ...",
+      "url": "https://techcrunch.com/2025/10/05/waffles-eat-bluesky/",
+      "publishedAt": "2025-10-05T20:58:42Z",
+      "processed_at": "2025-10-06T21:17:22.764780+00:00"
+    },
     {
       "title": "If you can get past the terrible logo, Audacity 4 looks pretty great - The Verge",
       "source": {
@@ -10,7 +20,7 @@
       "description": "Over 25 years Audacity has gone from simple audio editor, to a UX nightmare. If you can get past the...",
       "url": "https://www.theverge.com/news/792368/if-you-can-get-past-the-terrible-logo-audacity-4-looks-pretty-great",
       "publishedAt": "2025-10-05T17:37:55Z",
-      "processed_at": "2025-10-06T20:21:43.354557+00:00"
+      "processed_at": "2025-10-06T21:17:22.764780+00:00"
     },
     {
       "title": "OpenAI and Jony Ive may be struggling to figure out their AI device - TechCrunch",
@@ -20,7 +30,7 @@
       "description": "OpenAI and Jony Ive reportedly face significant technical challenges as they work to develop a scree...",
       "url": "https://techcrunch.com/2025/10/05/openai-and-jony-ive-may-be-struggling-to-figure-out-their-ai-device/",
       "publishedAt": "2025-10-05T16:34:26Z",
-      "processed_at": "2025-10-06T20:21:43.354557+00:00"
+      "processed_at": "2025-10-06T21:17:22.764780+00:00"
     },
     {
       "title": "No, Xbox's next gen console hardware plans aren't cancelled — for now - Windows Central",
@@ -30,17 +40,17 @@
       "description": "Rumors are swirling that Xbox is going to kill its hardware ecosystem. It's not true ... for now, bu...",
       "url": "https://www.windowscentral.com/gaming/no-xboxs-next-gen-console-hardware-plans-arent-cancelled",
       "publishedAt": "2025-10-05T15:46:18Z",
-      "processed_at": "2025-10-06T20:21:43.354557+00:00"
+      "processed_at": "2025-10-06T21:17:22.764780+00:00"
     },
     {
-      "title": "Remembering Steve Jobs - MacRumors",
+      "title": "GeForce RTX 50 holds 56% share of new-generation GPU sales in Australia, Radeon RX 9000 at 44% - VideoCardz.com",
       "source": {
-        "name": "MacRumors"
+        "name": "Videocardz.com"
       },
-      "description": "Today marks the 14th anniversary of Steve Jobs passing away, at the age of 56. He died just one day ...",
-      "url": "https://www.macrumors.com/2025/10/05/remembering-steve/",
-      "publishedAt": "2025-10-05T14:22:02Z",
-      "processed_at": "2025-10-06T20:21:43.354557+00:00"
+      "description": "Radeon vs GeForce in Australia Hardware Unboxed shares information from retailers on GPU brand popul...",
+      "url": "https://videocardz.com/newz/geforce-rtx-50-accumulated-56-of-gpu-sales-in-australia-radeon-rx-9000-at-44",
+      "publishedAt": "2025-10-05T15:19:00Z",
+      "processed_at": "2025-10-06T21:17:22.764780+00:00"
     },
     {
       "title": "Mariners Moose Tracks, 10/5/25: Cal Raleigh, Jackson Chourio, and Harrison Bader - Lookout Landing",
@@ -50,7 +60,7 @@
       "description": "Mariners lose game one, Jackson Chourio and Harrison Bader both left game one wins early....",
       "url": "https://www.lookoutlanding.com/lookout-linkage/135480/mariners-moose-tracks-10-5-25-cal-raleigh-jackson-chourio-and-harrison-bader",
       "publishedAt": "2025-10-05T14:00:00Z",
-      "processed_at": "2025-10-06T20:21:43.354557+00:00"
+      "processed_at": "2025-10-06T21:17:22.764780+00:00"
     },
     {
       "title": "I’ve tested the latest Switch 2 controllers and this one is the best - The Verge",
@@ -60,7 +70,7 @@
       "description": "Nintendo’s $89.99 Switch 2 Pro Controller has the most features of any model, but the best Switch 2 ...",
       "url": "https://www.theverge.com/tech/791574/best-switch-2-controllers",
       "publishedAt": "2025-10-05T14:00:00Z",
-      "processed_at": "2025-10-06T20:21:43.354557+00:00"
+      "processed_at": "2025-10-06T21:17:22.764780+00:00"
     },
     {
       "title": "Microsoft ‘Security Disaster’—400 Million Windows PCs Now At Risk - Forbes",
@@ -70,40 +80,20 @@
       "description": "You must act if you're at risk — what to know....",
       "url": "https://www.forbes.com/sites/zakdoffman/2025/10/05/microsoft-security-disaster-400-million-windows-pcs-now-at-risk/",
       "publishedAt": "2025-10-05T12:35:42Z",
-      "processed_at": "2025-10-06T20:21:43.354557+00:00"
+      "processed_at": "2025-10-06T21:17:22.764780+00:00"
     },
     {
-      "title": "Google Discontinued It's Nest Brand - Here's Why - bgr.com",
+      "title": "Version History is live — here’s how to find it - The Verge",
       "source": {
-        "name": "BGR"
+        "name": "The Verge"
       },
-      "description": "Google Nest is essentially discontinued, and smart home users will begin hearing less and less about...",
-      "url": "https://www.bgr.com/1984436/why-google-discontinued-nest-brand-2025/",
-      "publishedAt": "2025-10-05T12:17:00Z",
-      "processed_at": "2025-10-06T20:21:43.354557+00:00"
-    },
-    {
-      "title": "Apple Puts Hardware Chief John Ternus in the Succession Spotlight - Bloomberg.com",
-      "source": {
-        "name": "Bloomberg"
-      },
-      "description": "Apple is intensifying the spotlight on hardware chief John Ternus as executive succession looms. Als...",
-      "url": "https://www.bloomberg.com/news/newsletters/2025-10-05/who-will-be-apple-s-next-ceo-after-tim-cook-apple-shelves-vision-air-m5-ipad",
-      "publishedAt": "2025-10-05T12:00:12Z",
-      "processed_at": "2025-10-06T20:21:43.354557+00:00"
-    },
-    {
-      "title": "12 Cool New Gadgets to Keep on Your Radar - Gear Patrol",
-      "source": {
-        "name": "Gear Patrol"
-      },
-      "description": "Catching you up on the past week’s most notable product releases....",
-      "url": "https://www.gearpatrol.com/audio/best-new-tech-releases-10-5-2025/",
-      "publishedAt": "2025-10-05T12:00:00Z",
-      "processed_at": "2025-10-06T20:21:43.354557+00:00"
+      "description": "The Verge’s new tech rewatch podcast, Version History, is now live with a first episode all about ho...",
+      "url": "https://www.theverge.com/podcast/792339/version-history-podcast-hoverboards",
+      "publishedAt": "2025-10-05T12:30:00Z",
+      "processed_at": "2025-10-06T21:17:22.764780+00:00"
     }
   ],
-  "lastUpdated": "2025-10-06T20:21:43.354629+00:00",
+  "lastUpdated": "2025-10-06T21:17:22.764871+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
