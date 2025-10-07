@@ -1,7 +1,17 @@
 {
   "status": "success",
-  "totalResults": 9,
+  "totalResults": 10,
   "articles": [
+    {
+      "title": "What could Ben Kindel look like this year? A history of 18-year old NHL forwards - PensBurgh",
+      "source": {
+        "name": "PensBurgh"
+      },
+      "description": "",
+      "url": "https://www.pensburgh.com/general/67622/what-could-ben-kindel-look-like-this-year-a-history-of-18-year-old-nhl-forwards",
+      "publishedAt": "2025-10-05T21:38:44Z",
+      "processed_at": "2025-10-07T01:27:05.595098+00:00"
+    },
     {
       "title": "A Smarter Way to Disagree - Harvard Business Review",
       "source": {
@@ -10,7 +20,7 @@
       "description": "It’s what you say, not what you think, that matters....",
       "url": "https://hbr.org/2025/11/a-smarter-way-to-disagree",
       "publishedAt": "2025-10-05T21:27:44Z",
-      "processed_at": "2025-10-06T23:18:02.916529+00:00"
+      "processed_at": "2025-10-07T01:27:05.595098+00:00"
     },
     {
       "title": "“This Lunar Vehicle Changes Everything”: GM Builds 10-Year Battery Rover With Crab Walk To Power NASA’s Artemis Moon Missions (it’s unstoppable) - Energy Reporters",
@@ -20,7 +30,7 @@
       "description": "The exploration of the Moon has always been a testament to human ingenuity and technological advance...",
       "url": "https://www.energy-reporters.com/news/this-lunar-vehicle-changes-everything-gm-builds-10-year-battery-rover-with-crab-walk-to-power-nasas-artemis-moon-missions-its-unstoppable/",
       "publishedAt": "2025-10-05T21:08:44Z",
-      "processed_at": "2025-10-06T23:18:02.916529+00:00"
+      "processed_at": "2025-10-07T01:27:05.595098+00:00"
     },
     {
       "title": "Waffles eat Bluesky - TechCrunch",
@@ -30,17 +40,17 @@
       "description": "A waffle-centric controversy underlines ongoing tensions between Bluesky and some of its most vocal ...",
       "url": "https://techcrunch.com/2025/10/05/waffles-eat-bluesky/",
       "publishedAt": "2025-10-05T20:58:42Z",
-      "processed_at": "2025-10-06T23:18:02.916529+00:00"
+      "processed_at": "2025-10-07T01:27:05.595098+00:00"
     },
     {
-      "title": "OpenAI is gearing up to release Agent Builder during DevDay - TestingCatalog",
+      "title": "Netflix's Scott Pilgrim Takes Off gets rare physical release - AV Club",
       "source": {
-        "name": "Testingcatalog.com"
+        "name": "The A.V. Club"
       },
-      "description": "Agent builder will let users build their agentic workflows, connect MCPs, ChatKit widgets and other ...",
-      "url": "https://www.testingcatalog.com/openai-prepares-to-release-agent-builder-during-devday-on-october-6/",
-      "publishedAt": "2025-10-05T20:32:05Z",
-      "processed_at": "2025-10-06T23:18:02.916529+00:00"
+      "description": "Netflix's Scott Pilgrim Takes Off gets rare physical release...",
+      "url": "https://www.avclub.com/scott-pilgrim-takes-off-blu-ray-release",
+      "publishedAt": "2025-10-05T18:49:00Z",
+      "processed_at": "2025-10-07T01:27:05.595098+00:00"
     },
     {
       "title": "Valorant reveals new Sengalese Agent Veto at VCT 2025 - Dexerto",
@@ -50,7 +60,7 @@
       "description": "Riot Games has revealed Veto as Valorant’s new Agent 29. Here’s everything you need to know about th...",
       "url": "https://www.dexerto.com/valorant/valorant-agent-29-veto-abilities-and-everything-we-know-3262371/",
       "publishedAt": "2025-10-05T18:17:11Z",
-      "processed_at": "2025-10-06T23:18:02.916529+00:00"
+      "processed_at": "2025-10-07T01:27:05.595098+00:00"
     },
     {
       "title": "If you can get past the terrible logo, Audacity 4 looks pretty great - The Verge",
@@ -60,7 +70,7 @@
       "description": "Over 25 years Audacity has gone from simple audio editor, to a UX nightmare. If you can get past the...",
       "url": "https://www.theverge.com/news/792368/if-you-can-get-past-the-terrible-logo-audacity-4-looks-pretty-great",
       "publishedAt": "2025-10-05T17:37:55Z",
-      "processed_at": "2025-10-06T23:18:02.916529+00:00"
+      "processed_at": "2025-10-07T01:27:05.595098+00:00"
     },
     {
       "title": "OpenAI and Jony Ive may be struggling to figure out their AI device - TechCrunch",
@@ -70,30 +80,30 @@
       "description": "OpenAI and Jony Ive reportedly face significant technical challenges as they work to develop a scree...",
       "url": "https://techcrunch.com/2025/10/05/openai-and-jony-ive-may-be-struggling-to-figure-out-their-ai-device/",
       "publishedAt": "2025-10-05T16:34:26Z",
-      "processed_at": "2025-10-06T23:18:02.916529+00:00"
+      "processed_at": "2025-10-07T01:27:05.595098+00:00"
     },
     {
-      "title": "No, Xbox's next gen console hardware plans aren't cancelled — for now - Windows Central",
-      "source": {
-        "name": "Windows Central"
-      },
-      "description": "Rumors are swirling that Xbox is going to kill its hardware ecosystem. It's not true ... for now, bu...",
-      "url": "https://www.windowscentral.com/gaming/no-xboxs-next-gen-console-hardware-plans-arent-cancelled",
-      "publishedAt": "2025-10-05T15:46:18Z",
-      "processed_at": "2025-10-06T23:18:02.916529+00:00"
-    },
-    {
-      "title": "GeForce RTX 50 holds 56% share of new-generation GPU sales in Australia, Radeon RX 9000 at 44% - VideoCardz.com",
+      "title": "Qualcomm releases new Adreno GPU 31.0.121.0 driver, while users call for faster updates - VideoCardz.com",
       "source": {
         "name": "Videocardz.com"
       },
-      "description": "Radeon vs GeForce in Australia Hardware Unboxed shares information from retailers on GPU brand popul...",
-      "url": "https://videocardz.com/newz/geforce-rtx-50-accumulated-56-of-gpu-sales-in-australia-radeon-rx-9000-at-44",
-      "publishedAt": "2025-10-05T15:19:00Z",
-      "processed_at": "2025-10-06T23:18:02.916529+00:00"
+      "description": "Qualcomm releases Adreno 31.0.121.0 driver with game stability fixes One of the main issues with Qua...",
+      "url": "https://videocardz.com/newz/qualcomm-releases-new-adreno-gpu-31-0-121-0-driver-while-users-call-for-faster-updates",
+      "publishedAt": "2025-10-05T16:22:00Z",
+      "processed_at": "2025-10-07T01:27:05.595098+00:00"
+    },
+    {
+      "title": "Nintendo denies lobbying over genAI, but stresses it will continue fighting IP infringement \"whether AI is involved or not\" - Eurogamer",
+      "source": {
+        "name": "Eurogamer.net"
+      },
+      "description": "",
+      "url": "https://www.eurogamer.net/nintendo-denies-lobbying-over-genai-but-stresses-it-will-continue-fighting-ip-infringement-whether-ai-is-involved-or-not",
+      "publishedAt": "2025-10-05T16:07:18Z",
+      "processed_at": "2025-10-07T01:27:05.595098+00:00"
     }
   ],
-  "lastUpdated": "2025-10-06T23:18:02.916599+00:00",
+  "lastUpdated": "2025-10-07T01:27:05.595173+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
