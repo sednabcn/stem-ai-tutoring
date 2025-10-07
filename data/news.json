@@ -1,109 +1,99 @@
 {
   "status": "success",
-  "totalResults": 10,
+  "totalResults": 9,
   "articles": [
     {
-      "title": "A 19-year-old nabs backing from Google execs for his AI memory startup, Supermemory - Yahoo Finance",
+      "title": "We Found 40+ of the Best Amazon Prime Day Headphone Deals: Save Up to $200 on Audio Gear From Apple, Sennheiser and More - CNET",
       "source": {
-        "name": "Yahoo Entertainment"
+        "name": "CNET"
       },
-      "description": "19-year-old Dhravya Shah, who is originally from Mumbai, has build a memory layer for AI application...",
-      "url": "https://finance.yahoo.com/news/19-old-nabs-backing-google-154513586.html",
-      "publishedAt": "2025-10-06T15:45:13Z",
-      "processed_at": "2025-10-07T18:29:54.391165+00:00"
+      "description": "Save big on your audio upgrade with discounts on everything from earbuds to noise-canceling headphon...",
+      "url": "https://www.cnet.com/deals/best-prime-day-headphone-deals-2025-10-06/",
+      "publishedAt": "2025-10-06T17:46:36Z",
+      "processed_at": "2025-10-07T19:15:53.533799+00:00"
     },
     {
-      "title": "LEGO Game Boy Designers Discuss Collaborating With A \"Very Involved\" Nintendo - Nintendo Life",
-      "source": {
-        "name": "Nintendo Life"
-      },
-      "description": "“We wanted to sort of incorporate everything\"...",
-      "url": "https://www.nintendolife.com/news/2025/10/lego-game-boy-designers-discuss-collaborating-with-a-very-involved-nintendo",
-      "publishedAt": "2025-10-06T15:45:08Z",
-      "processed_at": "2025-10-07T18:29:54.391165+00:00"
-    },
-    {
-      "title": "Metal: Hellsinger dev The Outsiders is being shut down - Game Developer",
-      "source": {
-        "name": "Gamedeveloper.com"
-      },
-      "description": "It's unclear how many people will lose their jobs as a result of the shutdown....",
-      "url": "https://www.gamedeveloper.com/business/funcom-is-closing-metal-hellslinger-developer-the-outsiders",
-      "publishedAt": "2025-10-06T15:26:30Z",
-      "processed_at": "2025-10-07T18:29:54.391165+00:00"
-    },
-    {
-      "title": "Remedy Upgrades Control with PS5 Pro Support, New Patch Out Now - Push Square",
+      "title": "Poll: What Are Your First Impressions of Ghost of Yotei on PS5? - Push Square",
       "source": {
         "name": "Push Square"
       },
-      "description": "Unlock the frame rate, PSSR support, and more...",
-      "url": "https://www.pushsquare.com/news/2025/10/remedy-upgrades-control-with-ps5-pro-support-new-patch-out-now",
-      "publishedAt": "2025-10-06T15:20:23Z",
-      "processed_at": "2025-10-07T18:29:54.391165+00:00"
+      "description": "Onryo own...",
+      "url": "https://www.pushsquare.com/features/poll-what-are-your-first-impressions-of-ghost-of-yotei-on-ps5",
+      "publishedAt": "2025-10-06T17:31:32Z",
+      "processed_at": "2025-10-07T19:15:53.533799+00:00"
     },
     {
-      "title": "Are wind power generators viable at home? My buying advice after months of testing - ZDNET",
+      "title": "Battlefield 6 Day One Patch Includes Changes to Movement, Weapon Recoil, Rush, and More - IGN",
       "source": {
-        "name": "ZDNet"
+        "name": "IGN"
       },
-      "description": "Solar generators need perfect conditions, but portable wind solutions like the Shine Turbine keep yo...",
-      "url": "https://www.zdnet.com/home-and-office/energy/are-wind-power-generators-viable-at-home-my-buying-advice-after-months-of-testing/",
-      "publishedAt": "2025-10-06T15:15:00Z",
-      "processed_at": "2025-10-07T18:29:54.391165+00:00"
+      "description": "EA and Battlefield Studios have previewed some of the gameplay tweaks and balance changes coming wit...",
+      "url": "https://www.ign.com/articles/battlefield-6-day-one-patch-includes-changes-to-movement-weapon-recoil-rush-and-more",
+      "publishedAt": "2025-10-06T17:13:06Z",
+      "processed_at": "2025-10-07T19:15:53.533799+00:00"
     },
     {
-      "title": "One UI 8.5 Features and Enhancements: Here’s What’s Coming - SammyGuru",
-      "source": {
-        "name": "Sammyguru.com"
-      },
-      "description": "Samsung is preparing to launch the Galaxy S26 series with One UI 8.5, introducing a host of new feat...",
-      "url": "https://sammyguru.com/one-ui-8-5-features-and-enhancements/",
-      "publishedAt": "2025-10-06T15:08:25Z",
-      "processed_at": "2025-10-07T18:29:54.391165+00:00"
-    },
-    {
-      "title": "/dev: Bringing Mayhem to ARAM - League of Legends",
-      "source": {
-        "name": "Leagueoflegends.com"
-      },
-      "description": "It’s ARAM but with a bit more Mayhem....",
-      "url": "https://www.leagueoflegends.com/en-us/news/dev/dev-bringing-mayhem-to-aram/",
-      "publishedAt": "2025-10-06T15:00:00Z",
-      "processed_at": "2025-10-07T18:29:54.391165+00:00"
-    },
-    {
-      "title": "Origami Patterns Solve a Major Physics Riddle - Quanta Magazine",
-      "source": {
-        "name": "Quanta Magazine"
-      },
-      "description": "The amplituhedron, a shape at the heart of particle physics, appears to be deeply connected to the m...",
-      "url": "https://www.quantamagazine.org/origami-patterns-solve-a-major-physics-riddle-20251006/",
-      "publishedAt": "2025-10-06T14:52:03Z",
-      "processed_at": "2025-10-07T18:29:54.391165+00:00"
-    },
-    {
-      "title": "Your iPhone Can Ask Why Someone's Calling Before You Pick Up - MacRumors",
+      "title": "Apple Seeds Second Betas of iOS 26.1, iPadOS 26.1, macOS Tahoe 26.1 and More - MacRumors",
       "source": {
         "name": "MacRumors"
       },
-      "description": "Spam calls have become such a nuisance that many people simply don't answer their phone unless they ...",
-      "url": "https://www.macrumors.com/how-to/iphone-ask-someone-calling-before-pick-up/",
-      "publishedAt": "2025-10-06T14:26:48Z",
-      "processed_at": "2025-10-07T18:29:54.391165+00:00"
+      "description": "Apple today provided developers with the second betas of upcoming iOS 26.1, iPadOS 26.1, macOS Tahoe...",
+      "url": "https://www.macrumors.com/2025/10/06/apple-seeds-ios-26-1-beta-2/",
+      "publishedAt": "2025-10-06T17:07:41Z",
+      "processed_at": "2025-10-07T19:15:53.533799+00:00"
     },
     {
-      "title": "You can't type \"Arc Raiders\" into Call of Duty: Black Ops 7 beta's in-game chat, but you are allowed to talk about Battlefield 6 - Eurogamer",
+      "title": "Pokémon GO Halloween 2025 Part One Event - Pokémon GO Hub",
       "source": {
-        "name": "Eurogamer.net"
+        "name": "Pokemon GO Hub"
       },
-      "description": "Call of Duty: Black Ops 7 censors \"Arc Raiders\" in-game...",
-      "url": "https://www.eurogamer.net/call-of-duty-black-ops-7-censor-arc-raiders",
-      "publishedAt": "2025-10-06T14:25:34Z",
-      "processed_at": "2025-10-07T18:29:54.391165+00:00"
+      "description": "Pokémon GO's Halloween 2025 Part One event runs from October 21, 2025, to October 27, 2025, and feat...",
+      "url": "https://pokemongohub.net/post/event/halloween-2025-part-one/",
+      "publishedAt": "2025-10-06T16:56:37Z",
+      "processed_at": "2025-10-07T19:15:53.533799+00:00"
+    },
+    {
+      "title": "'Scurge: Hive' Spreads Its Isometric, Metroid-y Retro Virus To Switch This Week - Nintendo Life",
+      "source": {
+        "name": "Nintendo Life"
+      },
+      "description": "A little Game Boy Advance goodness?...",
+      "url": "https://www.nintendolife.com/news/2025/10/scurge-hive-spreads-its-isometric-metroid-y-retro-virus-to-switch-this-week",
+      "publishedAt": "2025-10-06T16:36:51Z",
+      "processed_at": "2025-10-07T19:15:53.533799+00:00"
+    },
+    {
+      "title": "Dune: Awakening developer Funcom is laying off staff and shutting down a studio - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "Funcom, the Tencent-owned company behind Dune: Awakening, is laying off staff and shutting down Meta...",
+      "url": "https://www.theverge.com/news/793011/funcom-dune-awakening-layoffs-metal-hellsinger-the-outsiders-shutdown",
+      "publishedAt": "2025-10-06T16:23:50Z",
+      "processed_at": "2025-10-07T19:15:53.533799+00:00"
+    },
+    {
+      "title": "Crimson Desert Is This Month’s IGN First, Check Out 11 Minutes of New Quest Gameplay - IGN",
+      "source": {
+        "name": "IGN"
+      },
+      "description": "Check out 11 minutes of brand new Crimson Desert gameplay, showcasing an action-packed quest to reta...",
+      "url": "https://www.ign.com/articles/crimson-desert-gameplay-ign-first",
+      "publishedAt": "2025-10-06T16:02:06Z",
+      "processed_at": "2025-10-07T19:15:53.533799+00:00"
+    },
+    {
+      "title": "Broken Sword: The Smoking Mirror - Reforged announced for PS5, Xbox Series, Xbox One, Switch, and PC - Gematsu",
+      "source": {
+        "name": "Gematsu"
+      },
+      "description": "Revolution Software has announced point-and-click adventure game remaster Broken Sword: The Smoking ...",
+      "url": "https://www.gematsu.com/2025/10/broken-sword-the-smoking-mirror-reforged-announced-for-ps5-xbox-series-xbox-one-switch-and-pc",
+      "publishedAt": "2025-10-06T16:01:35Z",
+      "processed_at": "2025-10-07T19:15:53.533799+00:00"
     }
   ],
-  "lastUpdated": "2025-10-07T18:29:54.391234+00:00",
+  "lastUpdated": "2025-10-07T19:15:53.533871+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
