@@ -1,16 +1,46 @@
 {
   "status": "success",
-  "totalResults": 9,
+  "totalResults": 10,
   "articles": [
+    {
+      "title": "Mina the Hollower delayed to unannounced date - Gematsu",
+      "source": {
+        "name": "Gematsu"
+      },
+      "description": "Yacht Club Games has delayed Mina the Hollower from its previously planned October 31 release to an ...",
+      "url": "https://www.gematsu.com/2025/10/mina-the-hollower-delayed-to-unannounced-date",
+      "publishedAt": "2025-10-06T20:45:08Z",
+      "processed_at": "2025-10-07T23:17:53.309653+00:00"
+    },
+    {
+      "title": "iPhone 17 Pro Max Review - IGN",
+      "source": {
+        "name": "IGN"
+      },
+      "description": "",
+      "url": "https://www.ign.com/articles/iphone-17-pro-max-review",
+      "publishedAt": "2025-10-06T20:40:49Z",
+      "processed_at": "2025-10-07T23:17:53.309653+00:00"
+    },
+    {
+      "title": "Everything new in iOS 26.1 beta 2 - 9to5Mac",
+      "source": {
+        "name": "9to5Mac"
+      },
+      "description": "iOS 26.1 developer beta 2 was released today, here’s every new feature and change that’s been discov...",
+      "url": "https://9to5mac.com/2025/10/06/everything-new-in-ios-26-1-beta-2/",
+      "publishedAt": "2025-10-06T19:52:00Z",
+      "processed_at": "2025-10-07T23:17:53.309653+00:00"
+    },
     {
       "title": "This is What Future Lamborghinis Could Look Like - Motor1.com",
       "source": {
-        "name": "Google News"
+        "name": "Motor1 "
       },
-      "description": "",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPVU9nQlF6NjhKRC1YSlZwazR2MFhiTVYwM0Q1THVrUXVpN2k2RU5PbFVSOS1qUE1qREJxR0I3LXZWNjltMWxwNTFLdUdSTDJrbFJxRHdsenI4WDZOY1BqN0tiUUJsMEJickFMb0lLWTZwVHNoZWt1UkRNS1BKNm5fUjFydjBqdw?oc=5",
+      "description": "A new Lamborghini design study likely previews what the automaker’s future models could look like. C...",
+      "url": "https://www.motor1.com/news/774818/lamborghini-manifesto-future-design-concept/",
       "publishedAt": "2025-10-06T19:28:55Z",
-      "processed_at": "2025-10-07T22:18:15.240158+00:00"
+      "processed_at": "2025-10-07T23:17:53.309653+00:00"
     },
     {
       "title": "Panther Lake Lineup Allegedly Leaks: Intel Stock (NASDAQ:INTC) Slips - TipRanks",
@@ -20,7 +50,7 @@
       "description": "Some exciting news emerged for chip stock Intel ($INTC), particularly if the news proves accurate. B...",
       "url": "https://www.tipranks.com/news/panther-lake-lineup-allegedly-leaks-intel-stock-nasdaqintc-slips",
       "publishedAt": "2025-10-06T19:05:02Z",
-      "processed_at": "2025-10-07T22:18:15.240158+00:00"
+      "processed_at": "2025-10-07T23:17:53.309653+00:00"
     },
     {
       "title": "Apple Fixes Alarms in iOS 26.1 - MacRumors",
@@ -30,7 +60,7 @@
       "description": "With the second beta of iOS 26.1, Apple updated the design of alarms set on the iPhone, making them ...",
       "url": "https://www.macrumors.com/2025/10/06/apple-fixes-alarms-in-ios-26-1/",
       "publishedAt": "2025-10-06T18:56:27Z",
-      "processed_at": "2025-10-07T22:18:15.240158+00:00"
+      "processed_at": "2025-10-07T23:17:53.309653+00:00"
     },
     {
       "title": "This 16-Inch Laptop Has Specs I Have Never Seen at a Price This Low - WIRED",
@@ -40,17 +70,17 @@
       "description": "This Acer laptop just won Best Buy's Techtober sales event, sporting remarkably high specs for the p...",
       "url": "https://www.wired.com/story/acer-swift-16-ai-deal-best-buy-techtober-2025/",
       "publishedAt": "2025-10-06T18:48:00Z",
-      "processed_at": "2025-10-07T22:18:15.240158+00:00"
+      "processed_at": "2025-10-07T23:17:53.309653+00:00"
     },
     {
-      "title": "Marathon closed technical test set for October 22 to 28 - Gematsu",
+      "title": "Microsoft: Critical GoAnywhere bug exploited in ransomware attacks - BleepingComputer",
       "source": {
-        "name": "Gematsu"
+        "name": "BleepingComputer"
       },
       "description": "",
-      "url": "https://www.gematsu.com/2025/10/marathon-closed-technical-test-set-for-october-22-to-28",
-      "publishedAt": "2025-10-06T18:11:04Z",
-      "processed_at": "2025-10-07T22:18:15.240158+00:00"
+      "url": "https://www.bleepingcomputer.com/news/security/microsoft-critical-goanywhere-bug-exploited-in-ransomware-attacks/",
+      "publishedAt": "2025-10-06T18:11:46Z",
+      "processed_at": "2025-10-07T23:17:53.309653+00:00"
     },
     {
       "title": "Codex is now generally available - OpenAI",
@@ -60,40 +90,20 @@
       "description": "OpenAI Codex is now generally available with powerful new features for developers: a Slack integrati...",
       "url": "https://openai.com/index/codex-now-generally-available/",
       "publishedAt": "2025-10-06T18:08:51Z",
-      "processed_at": "2025-10-07T22:18:15.240158+00:00"
+      "processed_at": "2025-10-07T23:17:53.309653+00:00"
     },
     {
-      "title": "We Found 40+ of the Best Amazon Prime Day Headphone Deals: Save Up to $200 on Audio Gear From Apple, Sennheiser and More - CNET",
+      "title": "iPadOS 26.1 beta 2 restores Slide Over multitasking back to iPad - 9to5Mac",
       "source": {
-        "name": "CNET"
+        "name": "9to5Mac"
       },
-      "description": "Save big on your audio upgrade with discounts on everything from earbuds to noise-canceling headphon...",
-      "url": "https://www.cnet.com/deals/best-prime-day-headphone-deals-2025-10-06/",
-      "publishedAt": "2025-10-06T17:46:36Z",
-      "processed_at": "2025-10-07T22:18:15.240158+00:00"
-    },
-    {
-      "title": "Poll: What Are Your First Impressions of Ghost of Yotei on PS5? - Push Square",
-      "source": {
-        "name": "Push Square"
-      },
-      "description": "Onryo own...",
-      "url": "https://www.pushsquare.com/features/poll-what-are-your-first-impressions-of-ghost-of-yotei-on-ps5",
-      "publishedAt": "2025-10-06T17:31:32Z",
-      "processed_at": "2025-10-07T22:18:15.240158+00:00"
-    },
-    {
-      "title": "Battlefield 6 Day One Patch Includes Changes to Movement, Weapon Recoil, Rush, and More - IGN",
-      "source": {
-        "name": "IGN"
-      },
-      "description": "EA and Battlefield Studios have previewed some of the gameplay tweaks and balance changes coming wit...",
-      "url": "https://www.ign.com/articles/battlefield-6-day-one-patch-includes-changes-to-movement-weapon-recoil-rush-and-more",
-      "publishedAt": "2025-10-06T17:13:06Z",
-      "processed_at": "2025-10-07T22:18:15.240158+00:00"
+      "description": "Slide Over was removed from iPadOS last month when iPadOS 26 debuted, but the newly released 26.1 be...",
+      "url": "https://9to5mac.com/2025/10/06/ipados-26-1-beta-2-restores-slide-over-multitasking-back-to-ipad/",
+      "publishedAt": "2025-10-06T17:57:00Z",
+      "processed_at": "2025-10-07T23:17:53.309653+00:00"
     }
   ],
-  "lastUpdated": "2025-10-07T22:18:15.240221+00:00",
+  "lastUpdated": "2025-10-07T23:17:53.309742+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
