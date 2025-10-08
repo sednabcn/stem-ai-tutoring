@@ -1,16 +1,96 @@
 {
   "status": "success",
-  "totalResults": 8,
+  "totalResults": 10,
   "articles": [
+    {
+      "title": "New Leak Reveals Marathon's Pricing Details, Deluxe Edition, Season Pass, Pre-Order Bonuses and Launch Weapons - The Game Post",
+      "source": {
+        "name": "Thegamepost.com"
+      },
+      "description": "New leaked details on Bungie’s Marathon include pricing, editions, season pass, and how many weapons...",
+      "url": "https://thegamepost.com/leak-marathons-base-price-deluxe-edition-season-pass-weapons/",
+      "publishedAt": "2025-10-07T15:20:50Z",
+      "processed_at": "2025-10-08T17:17:45.212431+00:00"
+    },
+    {
+      "title": "UFS 5.0 storage promises to be twice as fast for AI’s sake, hopefully enticing Google Pixel - 9to5Google",
+      "source": {
+        "name": "9to5google.com"
+      },
+      "description": "UFS 5.0 has been announced and its key improvement is storage that's twice as fast for AI's sake, wh...",
+      "url": "http://9to5google.com/2025/10/07/ufs-5-0-speed-improvement/",
+      "publishedAt": "2025-10-07T14:40:00Z",
+      "processed_at": "2025-10-08T17:17:45.212431+00:00"
+    },
+    {
+      "title": "The best October Prime Day deals on TVs, soundbars, and more - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "Our roundup includes TVs with a range of prices and features, as well as several soundbars, home the...",
+      "url": "https://www.theverge.com/tech/788328/amazon-october-prime-day-4k-tv-soundbar-streaming-deal-sale-2025",
+      "publishedAt": "2025-10-07T14:30:00Z",
+      "processed_at": "2025-10-08T17:17:45.212431+00:00"
+    },
+    {
+      "title": "KPop Demon Hunters’ Stars Are Playing Fortnite Now On Stream - Kotaku",
+      "source": {
+        "name": "Kotaku"
+      },
+      "description": "The girls of Huntr/x are also in the battle royale lobbies...",
+      "url": "https://kotaku.com/kpop-demon-hunters-fortnite-rei-ami-stream-zoey-rumi-2000632536",
+      "publishedAt": "2025-10-07T14:21:38Z",
+      "processed_at": "2025-10-08T17:17:45.212431+00:00"
+    },
+    {
+      "title": "Google is ‘committed to earning back your trust’ with Nest, Home, and Gemini - 9to5Google",
+      "source": {
+        "name": "9to5google.com"
+      },
+      "description": "After a handful of fumbles, Google says it wants to \"earn back your trust\" in regards to Google Home...",
+      "url": "http://9to5google.com/2025/10/07/google-home-nest-earn-trust/",
+      "publishedAt": "2025-10-07T14:20:00Z",
+      "processed_at": "2025-10-08T17:17:45.212431+00:00"
+    },
+    {
+      "title": "Board Game Deals Are Live in Amazon's October Prime Day 2025 - IGN",
+      "source": {
+        "name": "IGN"
+      },
+      "description": "Lots of board games are on sale for Amazon's Prime Big Deal Days sale 2025....",
+      "url": "https://www.ign.com/articles/board-game-deals-october-prime-day-2025",
+      "publishedAt": "2025-10-07T14:15:26Z",
+      "processed_at": "2025-10-08T17:17:45.212431+00:00"
+    },
+    {
+      "title": "Nintendo posts cute and mysterious animated short film, but is it teasing Pikmin? - Eurogamer",
+      "source": {
+        "name": "Eurogamer.net"
+      },
+      "description": "Nintendo has posted a new animated short film on its Nintendo Today app and YouTube channel, so far ...",
+      "url": "https://www.eurogamer.net/nintendo-posts-cute-and-mysterious-animated-short-film-but-is-it-teasing-pikmin",
+      "publishedAt": "2025-10-07T14:09:13Z",
+      "processed_at": "2025-10-08T17:17:45.212431+00:00"
+    },
     {
       "title": "Minecraft Java Edition 1.21.10 - Minecraft",
       "source": {
         "name": "Minecraft.net"
       },
-      "description": "",
+      "description": "Minecraft 1.21.10...",
       "url": "https://www.minecraft.net/en-us/article/minecraft-java-edition-1-21-10",
       "publishedAt": "2025-10-07T14:07:38Z",
-      "processed_at": "2025-10-08T16:25:37.183565+00:00"
+      "processed_at": "2025-10-08T17:17:45.212431+00:00"
+    },
+    {
+      "title": "Google hints at a new Nest Hub - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "Google Home exec says the company is committed to smart displays and will share news “soon.”...",
+      "url": "https://www.theverge.com/news/794298/new-nest-hub-smart-display-google-home-coming-soon",
+      "publishedAt": "2025-10-07T14:04:14Z",
+      "processed_at": "2025-10-08T17:17:45.212431+00:00"
     },
     {
       "title": "One of Borderlands' most hated characters seems to have been cut from Borderlands 4 - Eurogamer",
@@ -20,70 +100,10 @@
       "description": "One of Borderlands' most hated characters seems to have been cut from Borderlands 4....",
       "url": "https://www.eurogamer.net/one-of-borderlands-most-hated-characters-seems-to-have-been-cut-from-borderlands-4",
       "publishedAt": "2025-10-07T13:47:06Z",
-      "processed_at": "2025-10-08T16:25:37.183565+00:00"
-    },
-    {
-      "title": "Google’s extreme smart home makeover - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "Google’s smart home plans are shifting toward AI, multimodal input, and Gemini. Plus, Pelotons are m...",
-      "url": "https://www.theverge.com/podcast/794067/google-smart-home-gemini-peloton-ai-vergecast",
-      "publishedAt": "2025-10-07T13:22:21Z",
-      "processed_at": "2025-10-08T16:25:37.183565+00:00"
-    },
-    {
-      "title": "Nintendo has just released a \"Close to You\" animated video - Nintendo Everything",
-      "source": {
-        "name": "Nintendoeverything.com"
-      },
-      "description": "Out of nowhere, Nintendo has just come out with a new “Close to You” animated video. We’re not actua...",
-      "url": "https://nintendoeverything.com/nintendo-has-just-released-a-close-to-you-animated-video/",
-      "publishedAt": "2025-10-07T13:18:45Z",
-      "processed_at": "2025-10-08T16:25:37.183565+00:00"
-    },
-    {
-      "title": "A Sex Writer's Guide to the Best, Hard-to-Find Amazon Prime Day 2025 Sex Deals - Popsugar",
-      "source": {
-        "name": "POPSUGAR"
-      },
-      "description": "Shop the top Amazon Prime Day sex deals, including bestselling sex toys, lubricants, lingerie, massa...",
-      "url": "https://www.popsugar.com/sex/amazon-prime-day-sex-deals-october-2025-49462019",
-      "publishedAt": "2025-10-07T13:15:02Z",
-      "processed_at": "2025-10-08T16:25:37.183565+00:00"
-    },
-    {
-      "title": "Strange Xbox Email Suggests Game Pass Price Increase Doesn't Apply To Certain Members - Pure Xbox",
-      "source": {
-        "name": "Pure Xbox"
-      },
-      "description": "It seems to be mainly a European thing...",
-      "url": "https://www.purexbox.com/news/2025/10/strange-xbox-email-suggests-game-pass-price-increase-doesnt-apply-to-certain-members",
-      "publishedAt": "2025-10-07T13:12:16Z",
-      "processed_at": "2025-10-08T16:25:37.183565+00:00"
-    },
-    {
-      "title": "Pixel 10 struggles with Genshin Impact, but Google says GPU support remains [U] - 9to5Google",
-      "source": {
-        "name": "9to5google.com"
-      },
-      "description": "Google’s Pixel 10 series just effectively lost access to the popular game Genshin Impact, as a loss ...",
-      "url": "http://9to5google.com/2025/10/07/pixel-10-can-barely-handle-genshin-impact-as-gpu-support-was-removed-video/",
-      "publishedAt": "2025-10-07T13:01:00Z",
-      "processed_at": "2025-10-08T16:25:37.183565+00:00"
-    },
-    {
-      "title": "‘Destiny 2’ Backtracks On Exhausting Renegades Power Grind - Forbes",
-      "source": {
-        "name": "Forbes"
-      },
-      "description": "Bungie has decided that players were right and they should not reset a bunch of grinds for Destiny 2...",
-      "url": "https://www.forbes.com/sites/paultassi/2025/10/07/destiny-2-backtracks-on-exhausting-renegades-power-grind/",
-      "publishedAt": "2025-10-07T12:58:37Z",
-      "processed_at": "2025-10-08T16:25:37.183565+00:00"
+      "processed_at": "2025-10-08T17:17:45.212431+00:00"
     }
   ],
-  "lastUpdated": "2025-10-08T16:25:37.183642+00:00",
+  "lastUpdated": "2025-10-08T17:17:45.212507+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
