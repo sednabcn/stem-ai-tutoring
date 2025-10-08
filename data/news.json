@@ -1,109 +1,89 @@
 {
   "status": "success",
-  "totalResults": 10,
+  "totalResults": 8,
   "articles": [
     {
-      "title": "New Leak Reveals Marathon's Pricing Details, Deluxe Edition, Season Pass, Pre-Order Bonuses and Launch Weapons - The Game Post",
+      "title": "Microsoft removes even more Microsoft account workarounds from Windows 11 build - Ars Technica",
       "source": {
-        "name": "Thegamepost.com"
+        "name": "Ars Technica"
       },
-      "description": "New leaked details on Bungie’s Marathon include pricing, editions, season pass, and how many weapons...",
-      "url": "https://thegamepost.com/leak-marathons-base-price-deluxe-edition-season-pass-weapons/",
-      "publishedAt": "2025-10-07T15:20:50Z",
-      "processed_at": "2025-10-08T19:15:54.206136+00:00"
+      "description": "Microsoft has locked down well-documented workarounds in recent test builds....",
+      "url": "https://arstechnica.com/gadgets/2025/10/microsoft-removes-even-more-microsoft-account-workarounds-from-windows-11-build/",
+      "publishedAt": "2025-10-07T19:47:19Z",
+      "processed_at": "2025-10-08T20:21:43.892858+00:00"
     },
     {
-      "title": "UFS 5.0 storage promises to be twice as fast for AI’s sake, hopefully enticing Google Pixel - 9to5Google",
-      "source": {
-        "name": "9to5google.com"
-      },
-      "description": "UFS 5.0 has been announced and its key improvement is storage that's twice as fast for AI's sake, wh...",
-      "url": "http://9to5google.com/2025/10/07/ufs-5-0-speed-improvement/",
-      "publishedAt": "2025-10-07T14:40:00Z",
-      "processed_at": "2025-10-08T19:15:54.206136+00:00"
-    },
-    {
-      "title": "The best October Prime Day deals on TVs, soundbars, and more - The Verge",
+      "title": "The best laptop deals you can get for Amazon’s October Prime Day - The Verge",
       "source": {
         "name": "The Verge"
       },
-      "description": "Our roundup includes TVs with a range of prices and features, as well as several soundbars, home the...",
-      "url": "https://www.theverge.com/tech/788328/amazon-october-prime-day-4k-tv-soundbar-streaming-deal-sale-2025",
-      "publishedAt": "2025-10-07T14:30:00Z",
-      "processed_at": "2025-10-08T19:15:54.206136+00:00"
+      "description": "Amazon’s Prime Big Deal Days sale is offering discounts on various laptops from Apple, Microsoft, As...",
+      "url": "https://www.theverge.com/tech/792893/amazon-october-prime-big-deal-day-laptops-gaming-apple",
+      "publishedAt": "2025-10-07T18:37:21Z",
+      "processed_at": "2025-10-08T20:21:43.892858+00:00"
     },
     {
-      "title": "KPop Demon Hunters’ Stars Are Playing Fortnite Now On Stream - Kotaku",
+      "title": "Apple Releases New Firmware for AirPods Pro 2 and AirPods 4 - MacRumors",
       "source": {
-        "name": "Kotaku"
+        "name": "MacRumors"
       },
-      "description": "The girls of Huntr/x are also in the battle royale lobbies...",
-      "url": "https://kotaku.com/kpop-demon-hunters-fortnite-rei-ami-stream-zoey-rumi-2000632536",
-      "publishedAt": "2025-10-07T14:21:38Z",
-      "processed_at": "2025-10-08T19:15:54.206136+00:00"
+      "description": "Apple today released new firmware designed for the AirPods Pro 3, prior-generation AirPods Pro 2, an...",
+      "url": "https://www.macrumors.com/2025/10/07/apple-releases-airpods-firmware-8a358/",
+      "publishedAt": "2025-10-07T18:27:03Z",
+      "processed_at": "2025-10-08T20:21:43.892858+00:00"
     },
     {
-      "title": "Google is ‘committed to earning back your trust’ with Nest, Home, and Gemini - 9to5Google",
+      "title": "Sony's Acquisition of Bungie Continues to Be Questioned as Destiny 2 Falls Off a Cliff - Push Square",
       "source": {
-        "name": "9to5google.com"
+        "name": "Push Square"
       },
-      "description": "After a handful of fumbles, Google says it wants to \"earn back your trust\" in regards to Google Home...",
-      "url": "http://9to5google.com/2025/10/07/google-home-nest-earn-trust/",
-      "publishedAt": "2025-10-07T14:20:00Z",
-      "processed_at": "2025-10-08T19:15:54.206136+00:00"
+      "description": "Again...",
+      "url": "https://www.pushsquare.com/news/2025/10/sonys-acquisition-of-bungie-continues-to-be-questioned-as-destiny-2-falls-off-a-cliff",
+      "publishedAt": "2025-10-07T18:00:00Z",
+      "processed_at": "2025-10-08T20:21:43.892858+00:00"
     },
     {
-      "title": "Board Game Deals Are Live in Amazon's October Prime Day 2025 - IGN",
+      "title": "TFT patch 15.6 - Teamfight Tactics",
       "source": {
-        "name": "IGN"
+        "name": "Leagueoflegends.com"
       },
-      "description": "Lots of board games are on sale for Amazon's Prime Big Deal Days sale 2025....",
-      "url": "https://www.ign.com/articles/board-game-deals-october-prime-day-2025",
-      "publishedAt": "2025-10-07T14:15:26Z",
-      "processed_at": "2025-10-08T19:15:54.206136+00:00"
+      "description": "New 2XKO themed Power-Ups help you fight your way to the top of the lobby or Ao Shin’s Ascent!...",
+      "url": "https://teamfighttactics.leagueoflegends.com/en-us/news/game-updates/teamfight-tactics-patch-15-6-notes/",
+      "publishedAt": "2025-10-07T18:00:00Z",
+      "processed_at": "2025-10-08T20:21:43.892858+00:00"
     },
     {
-      "title": "Nintendo posts cute and mysterious animated short film, but is it teasing Pikmin? - Eurogamer",
+      "title": "iOS 26.1 public beta 2 now available, here’s what’s new - 9to5Mac",
       "source": {
-        "name": "Eurogamer.net"
+        "name": "9to5Mac"
       },
-      "description": "Nintendo has posted a new animated short film on its Nintendo Today app and YouTube channel, so far ...",
-      "url": "https://www.eurogamer.net/nintendo-posts-cute-and-mysterious-animated-short-film-but-is-it-teasing-pikmin",
-      "publishedAt": "2025-10-07T14:09:13Z",
-      "processed_at": "2025-10-08T19:15:54.206136+00:00"
+      "description": "Apple has released iOS and iPadOS 26.1 public beta 2, here’s everything new in the latest software u...",
+      "url": "https://9to5mac.com/2025/10/07/ios-26-1-public-beta-2-now-available-heres-whats-new/",
+      "publishedAt": "2025-10-07T17:23:00Z",
+      "processed_at": "2025-10-08T20:21:43.892858+00:00"
     },
     {
-      "title": "Minecraft Java Edition 1.21.10 - Minecraft",
-      "source": {
-        "name": "Minecraft.net"
-      },
-      "description": "Minecraft 1.21.10...",
-      "url": "https://www.minecraft.net/en-us/article/minecraft-java-edition-1-21-10",
-      "publishedAt": "2025-10-07T14:07:38Z",
-      "processed_at": "2025-10-08T19:15:54.206136+00:00"
-    },
-    {
-      "title": "Google hints at a new Nest Hub - The Verge",
+      "title": "Microsoft delays Xbox Game Pass Ultimate price hikes for some subscribers - The Verge",
       "source": {
         "name": "The Verge"
       },
-      "description": "Google Home exec says the company is committed to smart displays and will share news “soon.”...",
-      "url": "https://www.theverge.com/news/794298/new-nest-hub-smart-display-google-home-coming-soon",
-      "publishedAt": "2025-10-07T14:04:14Z",
-      "processed_at": "2025-10-08T19:15:54.206136+00:00"
+      "description": "Microsoft is reversing its Xbox Game Pass Ultimate price hike for some subscribers. It comes less th...",
+      "url": "https://www.theverge.com/news/794032/microsoft-xbox-game-pass-ultimate-price-changes-countries",
+      "publishedAt": "2025-10-07T17:22:04Z",
+      "processed_at": "2025-10-08T20:21:43.892858+00:00"
     },
     {
-      "title": "One of Borderlands' most hated characters seems to have been cut from Borderlands 4 - Eurogamer",
+      "title": "Fan-favorite CoD SMG finally returning in Black Ops 6 Season 6 - Dexerto",
       "source": {
-        "name": "Eurogamer.net"
+        "name": "Dexerto"
       },
-      "description": "One of Borderlands' most hated characters seems to have been cut from Borderlands 4....",
-      "url": "https://www.eurogamer.net/one-of-borderlands-most-hated-characters-seems-to-have-been-cut-from-borderlands-4",
-      "publishedAt": "2025-10-07T13:47:06Z",
-      "processed_at": "2025-10-08T19:15:54.206136+00:00"
+      "description": "",
+      "url": "https://www.dexerto.com/call-of-duty/fan-favorite-cod-smg-finally-returning-in-black-ops-6-season-6-3263172/",
+      "publishedAt": "2025-10-07T17:10:24Z",
+      "processed_at": "2025-10-08T20:21:43.892858+00:00"
     }
   ],
-  "lastUpdated": "2025-10-08T19:15:54.206209+00:00",
+  "lastUpdated": "2025-10-08T20:21:43.892940+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
