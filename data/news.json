@@ -1,16 +1,36 @@
 {
   "status": "success",
-  "totalResults": 9,
+  "totalResults": 10,
   "articles": [
     {
-      "title": "With M5 iPad Pro, I’m already convinced to splurge for two upgrades - 9to5Mac",
+      "title": "MoistCr1TiKaL turns off all monetization so viewers can’t “waste” their money - Dexerto",
       "source": {
-        "name": "9to5Mac"
+        "name": "Dexerto"
       },
-      "description": "All signs indicate Apple’s M5 iPad Pro launch is imminent, here’s why I’m already convinced to splur...",
-      "url": "https://9to5mac.com/2025/10/10/with-m5-ipad-pro-im-already-convinced-to-splurge-for-two-upgrades/",
-      "publishedAt": "2025-10-10T16:54:00Z",
-      "processed_at": "2025-10-11T20:19:10.088054+00:00"
+      "description": "YouTuber and Twitch star MoistCr1TiKaL turned off every form of monetization and is urging viewers t...",
+      "url": "https://www.dexerto.com/youtube/moistcr1tikal-turns-off-all-monetization-so-viewers-cant-waste-their-money-3265394/",
+      "publishedAt": "2025-10-10T19:06:59Z",
+      "processed_at": "2025-10-11T21:16:02.966779+00:00"
+    },
+    {
+      "title": "You can still snag LG’s C4 OLED TV at half the price - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "Amazon’s fall Prime Day is over, but LG’s 48-inch C4 OLED TV is still at its best price at multiple ...",
+      "url": "https://www.theverge.com/tech/798322/lg-c4-c5-oled-tv-deal-sale",
+      "publishedAt": "2025-10-10T17:34:17Z",
+      "processed_at": "2025-10-11T21:16:02.966779+00:00"
+    },
+    {
+      "title": "AMD and Sony tease new chip architecture ahead of PlayStation 6 - Ars Technica",
+      "source": {
+        "name": "Ars Technica"
+      },
+      "description": "Project Amethyst focuses on efficient machine learning, new compression techniques....",
+      "url": "https://arstechnica.com/gaming/2025/10/amd-and-sony-tease-new-chip-architecture-ahead-of-playstation-6/",
+      "publishedAt": "2025-10-10T16:45:49Z",
+      "processed_at": "2025-10-11T21:16:02.966779+00:00"
     },
     {
       "title": "Battlefield 6 players hit by multiplayer not installed bug – but there’s an easy fix for some – here’s how - The Escapist",
@@ -20,7 +40,17 @@
       "description": "Battlefield 6 players hit by the “Multiplayer Not Installed” bug on PlayStation and EA App. Here’s h...",
       "url": "https://www.escapistmagazine.com/news-battlefield-6-multiplayer-not-installed-bug-fix/",
       "publishedAt": "2025-10-10T16:34:00Z",
-      "processed_at": "2025-10-11T20:19:10.088054+00:00"
+      "processed_at": "2025-10-11T21:16:02.966779+00:00"
+    },
+    {
+      "title": "iPhone 17 Pro Max review: Orange you glad the battery is bigger - TechCrunch",
+      "source": {
+        "name": "TechCrunch"
+      },
+      "description": "Apple’s iPhone 17 Pro lineup adds a sturdier unibody design, bigger battery, and camera upgrades, tr...",
+      "url": "https://techcrunch.com/2025/10/10/iphone-17-pro-max-review-orange-you-glad-the-battery-is-bigger/",
+      "publishedAt": "2025-10-10T16:08:19Z",
+      "processed_at": "2025-10-11T21:16:02.966779+00:00"
     },
     {
       "title": "Amazon Drops the Price of Xbox Game Pass, So It's Now Even Easier to Avoid the Price Hike - IGN",
@@ -30,70 +60,50 @@
       "description": "You can still buy Xbox Game Pass at a discount from Amazon, but it likely won't last long....",
       "url": "https://www.ign.com/articles/xbox-game-pass-ultimate-avoid-price-hike-2025-updated",
       "publishedAt": "2025-10-10T16:00:44Z",
-      "processed_at": "2025-10-11T20:19:10.088054+00:00"
+      "processed_at": "2025-10-11T21:16:02.966779+00:00"
     },
     {
-      "title": "Battlefield 6 players face extensive queues this weekend as servers immediately reach capacity - Eurogamer",
+      "title": "Nintendo's Mario Galaxy remasters are a return to the tyranny of motion controls - AV Club",
       "source": {
-        "name": "Eurogamer.net"
+        "name": "The A.V. Club"
       },
-      "description": "Battlefield 6 has just launched and already players are facing huge queues as servers reach maximum ...",
-      "url": "https://www.eurogamer.net/battlefield-6-players-face-extensive-queues-this-weekend-as-servers-immediately-reach-capacity",
-      "publishedAt": "2025-10-10T15:50:46Z",
-      "processed_at": "2025-10-11T20:19:10.088054+00:00"
+      "description": "Nintendo's Mario Galaxy remasters are a return to the tyranny of motion controls...",
+      "url": "https://www.avclub.com/game-theory-super-mario-galaxy-motion-controls",
+      "publishedAt": "2025-10-10T16:00:00Z",
+      "processed_at": "2025-10-11T21:16:02.966779+00:00"
+    },
+    {
+      "title": "Pixel Watch 4 gets easy teardown & official repair manuals - 9to5Google",
+      "source": {
+        "name": "9to5google.com"
+      },
+      "description": "Google designed the Pixel Watch 4 to be serviceable (or repairable) and an iFixit teardown today sho...",
+      "url": "http://9to5google.com/2025/10/10/pixel-watch-4-teardown/",
+      "publishedAt": "2025-10-10T15:59:00Z",
+      "processed_at": "2025-10-11T21:16:02.966779+00:00"
+    },
+    {
+      "title": "Battlefield 6 Launched Just Hours Ago and Players Have Already Recreated Call of Duty Map Shipment in Portal - IGN",
+      "source": {
+        "name": "IGN"
+      },
+      "description": "Battlefield 6 launched mere hours ago, and someone has already managed to recreate the iconic Call o...",
+      "url": "https://www.ign.com/articles/battlefield-6-launched-just-hours-ago-and-players-have-already-recreated-call-of-duty-map-shipment-in-portal",
+      "publishedAt": "2025-10-10T15:57:53Z",
+      "processed_at": "2025-10-11T21:16:02.966779+00:00"
     },
     {
       "title": "Union members announce legal action against Build A Rocket Boy over layoffs - GamesIndustry.biz",
       "source": {
         "name": "GamesIndustry.biz"
       },
-      "description": "",
+      "description": "An open letter to the studio's leadership alleges systemic mistreatment, mismanagement, and mishandl...",
       "url": "https://www.gamesindustry.biz/union-members-announce-legal-action-against-build-a-rocket-boy-over-layoffs",
       "publishedAt": "2025-10-10T15:33:39Z",
-      "processed_at": "2025-10-11T20:19:10.088054+00:00"
-    },
-    {
-      "title": "Amazon’s Got Mega Evolution Pokémon Cards Back in Stock, But the Real Deal’s Hiding Elsewhere - IGN",
-      "source": {
-        "name": "IGN"
-      },
-      "description": "",
-      "url": "https://www.ign.com/articles/pokemon-tcg-mega-evolution-amazon-back-in-stock-best-price-etb-boosters-new",
-      "publishedAt": "2025-10-10T15:14:14Z",
-      "processed_at": "2025-10-11T20:19:10.088054+00:00"
-    },
-    {
-      "title": "Edifier’s new wireless speaker looks like a gaming PC - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "Edifier’s Huazai New Cyber speaker features RGB lighting and exposed electronics making it look like...",
-      "url": "https://www.theverge.com/news/798148/edifier-huazai-new-cyber-speaker-bluetooth-gaming-pc",
-      "publishedAt": "2025-10-10T14:53:49Z",
-      "processed_at": "2025-10-11T20:19:10.088054+00:00"
-    },
-    {
-      "title": "Assassin's Creed Actor Has Blunt Message About That Reportedly Canceled Game - GameSpot",
-      "source": {
-        "name": "GameSpot"
-      },
-      "description": "Ralph Ineson reacts to the news that an Assassin's Creed game was apparently canceled....",
-      "url": "https://www.gamespot.com/articles/assassins-creed-actor-has-blunt-message-about-that-reportedly-canceled-game/1100-6535358/",
-      "publishedAt": "2025-10-10T14:38:26Z",
-      "processed_at": "2025-10-11T20:19:10.088054+00:00"
-    },
-    {
-      "title": "Tesla pushes Tron: Ares ad inside its cars, upsetting owners - Electrek",
-      "source": {
-        "name": "Electrek"
-      },
-      "description": "Tesla has partnered with its recent foe, Disney, to promote its latest movie, Tron: Ares, with an in...",
-      "url": "http://electrek.co/2025/10/10/tesla-pushes-tron-ares-ad-inside-cars-upsetting-owners/",
-      "publishedAt": "2025-10-10T14:28:00Z",
-      "processed_at": "2025-10-11T20:19:10.088054+00:00"
+      "processed_at": "2025-10-11T21:16:02.966779+00:00"
     }
   ],
-  "lastUpdated": "2025-10-11T20:19:10.088131+00:00",
+  "lastUpdated": "2025-10-11T21:16:02.966855+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
