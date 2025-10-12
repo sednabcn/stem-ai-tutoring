@@ -1,7 +1,57 @@
 {
   "status": "success",
-  "totalResults": 9,
+  "totalResults": 10,
   "articles": [
+    {
+      "title": "Are You Mean When You're Overstimulated? There's Actually A Reason For That. - buzzfeed.com",
+      "source": {
+        "name": "Buzzfeed"
+      },
+      "description": "No, you're not a bad person. Here's what's really going on, according to science....",
+      "url": "https://www.buzzfeed.com/jillianwilson/experts-say-this-why-youre-mean-when-overstimulated-sc",
+      "publishedAt": "2025-10-11T20:31:02Z",
+      "processed_at": "2025-10-12T23:17:01.346195+00:00"
+    },
+    {
+      "title": "Super Mario Galaxy 2 on Nintendo Switch removes an NPC from the Wii original - Nintendo Everything",
+      "source": {
+        "name": "Nintendoeverything.com"
+      },
+      "description": "File this one under slightly random, but fans have noticed that the new Nintendo Switch version of S...",
+      "url": "https://nintendoeverything.com/super-mario-galaxy-2-on-nintendo-switch-removes-an-npc/",
+      "publishedAt": "2025-10-11T20:01:50Z",
+      "processed_at": "2025-10-12T23:17:01.346195+00:00"
+    },
+    {
+      "title": "Nano Banana image editing comes to AI Mode and Google Lens - 9to5Google",
+      "source": {
+        "name": "9to5google.com"
+      },
+      "description": "Nano Banana has been a hit in the Gemini app, and Google is now bringing image editing and generatio...",
+      "url": "http://9to5google.com/2025/10/11/google-lens-ai-mode-nano-banana/",
+      "publishedAt": "2025-10-11T19:58:00Z",
+      "processed_at": "2025-10-12T23:17:01.346195+00:00"
+    },
+    {
+      "title": "Apple ends support for Clips video-editing app - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "As of October 10th Clips will no longer receive updates and won’t be available to download from the ...",
+      "url": "https://www.theverge.com/news/798676/apple-ends-support-for-clips-video-editing-app",
+      "publishedAt": "2025-10-11T19:35:04Z",
+      "processed_at": "2025-10-12T23:17:01.346195+00:00"
+    },
+    {
+      "title": "Poll: What Review Score Would You Give Ghost of Yotei? - Push Square",
+      "source": {
+        "name": "Push Square"
+      },
+      "description": "Yo, Yotei...",
+      "url": "https://www.pushsquare.com/features/poll-what-review-score-would-you-give-ghost-of-yotei",
+      "publishedAt": "2025-10-11T19:00:00Z",
+      "processed_at": "2025-10-12T23:17:01.346195+00:00"
+    },
     {
       "title": "Genshin Impact's new UGC system is almost here – here's what to expect when Miliastra Wonderland launches later this month - Eurogamer",
       "source": {
@@ -10,17 +60,17 @@
       "description": "Genshin Impact launches brand new user-generated system, Miliastra Wonderland, launches on 22nd Octo...",
       "url": "https://www.eurogamer.net/genshin-impacts-new-ugc-system-is-almost-here-heres-what-to-expect-when-miliastra-wonderland-launches-later-this-month",
       "publishedAt": "2025-10-11T18:09:05Z",
-      "processed_at": "2025-10-12T22:17:50.087747+00:00"
+      "processed_at": "2025-10-12T23:17:01.346195+00:00"
     },
     {
-      "title": "Hackers claim to have breached internal Nintendo data - Eurogamer",
+      "title": "Xbox Game Pass Ultimate’s price may be going up soon, snag this 3-month pass before the price hike - Mashable",
       "source": {
-        "name": "Eurogamer.net"
+        "name": "Mashable"
       },
-      "description": "Hackers claim to have \"breached\" Nintendo and stolen internal data from the Japanese megacorp....",
-      "url": "https://www.eurogamer.net/hackers-claim-to-have-breached-internal-nintendo-data",
-      "publishedAt": "2025-10-11T17:28:36Z",
-      "processed_at": "2025-10-12T22:17:50.087747+00:00"
+      "description": "It seems as though a price increase is on the horizon for Xbox Game Pass Ultimate, but this weekend ...",
+      "url": "https://mashable.com/article/oct-11-xbox-game-pass-ultimate-deal",
+      "publishedAt": "2025-10-11T17:33:27Z",
+      "processed_at": "2025-10-12T23:17:01.346195+00:00"
     },
     {
       "title": "Pokemon Legends: Z-A leaks starting, new Mega Evolutions shown - Nintendo Everything",
@@ -30,27 +80,7 @@
       "description": "Pokemon Legends: Z-A is only a few days away from launch, and leaks are now starting to happen, incl...",
       "url": "https://nintendoeverything.com/pokemon-legends-z-a-leaks-mega-evolutions/",
       "publishedAt": "2025-10-11T16:46:50Z",
-      "processed_at": "2025-10-12T22:17:50.087747+00:00"
-    },
-    {
-      "title": "Apple's Clips App Discontinued - MacRumors",
-      "source": {
-        "name": "MacRumors"
-      },
-      "description": "Apple has essentially discontinued Clips, its video-editing app designed to allow users to combine v...",
-      "url": "https://www.macrumors.com/2025/10/11/apples-clips-app-discontinued/",
-      "publishedAt": "2025-10-11T16:06:00Z",
-      "processed_at": "2025-10-12T22:17:50.087747+00:00"
-    },
-    {
-      "title": "The AirPods 4 and Lego’s brick-ified Grogu are our favorite deals this week - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "You can score the AirPods 4 for 31 percent off right now. There are also deals available on an adora...",
-      "url": "https://www.theverge.com/tech/798362/apple-airpods-4-lego-star-wars-grogu-deal-sale",
-      "publishedAt": "2025-10-11T15:01:53Z",
-      "processed_at": "2025-10-12T22:17:50.087747+00:00"
+      "processed_at": "2025-10-12T23:17:01.346195+00:00"
     },
     {
       "title": "It’s not too late for Apple to get AI right - TechCrunch",
@@ -60,40 +90,20 @@
       "description": "Apple still has a shot at leading the AI-powered app era. As OpenAI launches its ChatGPT app platfor...",
       "url": "https://techcrunch.com/2025/10/11/its-not-too-late-for-apple-to-get-ai-right/",
       "publishedAt": "2025-10-11T15:00:00Z",
-      "processed_at": "2025-10-12T22:17:50.087747+00:00"
+      "processed_at": "2025-10-12T23:17:01.346195+00:00"
     },
     {
-      "title": "Battlefield 6 EA App Outage Leads Franchise Head Vince Zampella to Recommend Using Steam Instead - Wccftech",
+      "title": "Nintendo Has Been Reportedly Hacked, Known Hacking Group Claims - Wccftech",
       "source": {
         "name": "Wccftech"
       },
-      "description": "Following the Battlefield 6 EA app outage that locked some players out for a few hours, franchise he...",
-      "url": "https://wccftech.com/battlefield-6-ea-app-outage-leads-franchise-head-to-recommend-steam/",
-      "publishedAt": "2025-10-11T13:00:00Z",
-      "processed_at": "2025-10-12T22:17:50.087747+00:00"
-    },
-    {
-      "title": "‘Borderlands 4’ Reveals Bounty Pack, Invincible Boss Release Dates, New Loot - Forbes",
-      "source": {
-        "name": "Forbes"
-      },
-      "description": "Here's what's coming in Borderlands 4's, first three content packs from loot to skins, and their rel...",
-      "url": "https://www.forbes.com/sites/paultassi/2025/10/11/borderlands-4-reveals-bounty-pack-invincible-boss-release-dates-new-loot/",
-      "publishedAt": "2025-10-11T12:42:57Z",
-      "processed_at": "2025-10-12T22:17:50.087747+00:00"
-    },
-    {
-      "title": "42 Hilariously Funny And Wildly Unfortunate Photos I Feel Terrible For Laughing At (But I Didn't Let That Stop Me) - BuzzFeed",
-      "source": {
-        "name": "Buzzfeed"
-      },
-      "description": "Listen, I'm an empathetic person. But I can't help it if a few snickers sneak out....",
-      "url": "https://www.buzzfeed.com/hannahmarder/silly-unfortunate-photos",
-      "publishedAt": "2025-10-11T12:16:01Z",
-      "processed_at": "2025-10-12T22:17:50.087747+00:00"
+      "description": "The Crimson Collective hacking group is claiming to have hacked Nintendo, according to a new online ...",
+      "url": "https://wccftech.com/nintendo-has-been-reportedly-hacked-known-hacking-group-claims/",
+      "publishedAt": "2025-10-11T14:03:00Z",
+      "processed_at": "2025-10-12T23:17:01.346195+00:00"
     }
   ],
-  "lastUpdated": "2025-10-12T22:17:50.087822+00:00",
+  "lastUpdated": "2025-10-12T23:17:01.346270+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
