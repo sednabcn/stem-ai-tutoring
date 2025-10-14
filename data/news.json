@@ -1,7 +1,67 @@
 {
   "status": "success",
-  "totalResults": 9,
+  "totalResults": 8,
   "articles": [
+    {
+      "title": "At $35,000, Does This 1984 Hurst/Olds Turn Loose The Lightning? - Jalopnik",
+      "source": {
+        "name": "Jalopnik"
+      },
+      "description": "If you've ever looked down and thought \"this car would be better if there were three times as many t...",
+      "url": "https://www.jalopnik.com/1992630/1984-hurst-olds-35000-dollars-craigslist-nice-price/",
+      "publishedAt": "2025-10-13T12:25:00Z",
+      "processed_at": "2025-10-14T15:22:56.471201+00:00"
+    },
+    {
+      "title": "Borderlands 4 Chief Randy Pitchford Says if More Developers Better Understood Why Gamers Love Making Decisions About Loot, 'We'd Have Good Competitors' - IGN",
+      "source": {
+        "name": "IGN"
+      },
+      "description": "Borderlands 4 chief Randy Pitchford has said that if other developers better understood why gamers l...",
+      "url": "https://www.ign.com/articles/borderlands-4-chief-randy-pitchford-says-if-more-developers-better-understood-why-gamers-love-making-decisions-about-loot-wed-have-good-competitors",
+      "publishedAt": "2025-10-13T11:41:28Z",
+      "processed_at": "2025-10-14T15:22:56.471201+00:00"
+    },
+    {
+      "title": "Leaker Confirms 10 Apple Products Launching In The Coming Months - bgr.com",
+      "source": {
+        "name": "BGR"
+      },
+      "description": "While Apple has just launched the iPhone 17 lineup, there's much more in store. Apple may soon relea...",
+      "url": "https://www.bgr.com/1994667/apple-to-launch-10-new-products-leak/",
+      "publishedAt": "2025-10-13T11:28:12Z",
+      "processed_at": "2025-10-14T15:22:56.471201+00:00"
+    },
+    {
+      "title": "10 Great Games With One Stupidly Overpowered Option - DualShockers",
+      "source": {
+        "name": "DualShockers"
+      },
+      "description": "",
+      "url": "https://www.dualshockers.com/great-games-with-one-stupidly-overpowered-option/",
+      "publishedAt": "2025-10-13T11:17:00Z",
+      "processed_at": "2025-10-14T15:22:56.471201+00:00"
+    },
+    {
+      "title": "Programming in Assembly Is Brutal, Beautiful, and Maybe Even a Path to Better AI - WIRED",
+      "source": {
+        "name": "Wired"
+      },
+      "description": "Whether your chip is running a vintage computer game or the latest DeepSeek model, it’ll reward you ...",
+      "url": "https://www.wired.com/story/programming-assembly-artificial-intelligence/",
+      "publishedAt": "2025-10-13T11:00:00Z",
+      "processed_at": "2025-10-14T15:22:56.471201+00:00"
+    },
+    {
+      "title": "The DIY Cloud: How to Build Your Own Photo Storage and Ditch Subscriptions for Good - CNET",
+      "source": {
+        "name": "CNET"
+      },
+      "description": "Stop renting your digital space from a giant corporation -- it's time to own your data....",
+      "url": "https://www.cnet.com/tech/services-and-software/the-diy-cloud-how-to-build-your-own-photo-storage-and-ditch-subscriptions-for-good/",
+      "publishedAt": "2025-10-13T11:00:00Z",
+      "processed_at": "2025-10-14T15:22:56.471201+00:00"
+    },
     {
       "title": "Massive Black Myth Wukong Update Is Going Live Today, Introducing Performance Optimizations - Wccftech",
       "source": {
@@ -10,7 +70,7 @@
       "description": "A new Black Myth Wukong patch is launching today, introducing performance optimizations. The patch s...",
       "url": "https://wccftech.com/massive-black-myth-wukong-update-is-going-live-today-introducing-performance-optimizations/",
       "publishedAt": "2025-10-13T10:35:00Z",
-      "processed_at": "2025-10-14T14:21:30.045022+00:00"
+      "processed_at": "2025-10-14T15:22:56.471201+00:00"
     },
     {
       "title": "Why some Atlantans are saying ‘Hello’ again, or for first time, to landlines - AJC.com",
@@ -20,80 +80,10 @@
       "description": "Whether it’s a parent restricting a child’s access to social media or a young adult avoiding doom sc...",
       "url": "https://www.ajc.com/things-to-do/2025/10/why-some-atlantans-are-saying-hello-again-or-for-first-time-to-landlines/",
       "publishedAt": "2025-10-13T10:32:01Z",
-      "processed_at": "2025-10-14T14:21:30.045022+00:00"
-    },
-    {
-      "title": "First screenshots of Rare's ill-fated Everwild emerge thanks to artist's portfolio website - Eurogamer",
-      "source": {
-        "name": "Eurogamer.net"
-      },
-      "description": "",
-      "url": "https://www.eurogamer.net/first-screenshots-of-rares-ill-fated-everwild-emerge-thanks-to-artists-portfolio-website",
-      "publishedAt": "2025-10-13T10:31:19Z",
-      "processed_at": "2025-10-14T14:21:30.045022+00:00"
-    },
-    {
-      "title": "Takashi Iizuka Explains Why Sonic Racing: CrossWorlds Was Delayed On Switch 2 - Nintendo Life",
-      "source": {
-        "name": "Nintendo Life"
-      },
-      "description": "It's pretty much why you think...",
-      "url": "https://www.nintendolife.com/news/2025/10/takashi-iizuka-explains-why-sonic-racing-crossworlds-was-delayed-on-switch-2",
-      "publishedAt": "2025-10-13T10:30:00Z",
-      "processed_at": "2025-10-14T14:21:30.045022+00:00"
-    },
-    {
-      "title": "New Rules Could Force Tesla to Redesign Its Door Handles. That’s Harder Than It Sounds - WIRED",
-      "source": {
-        "name": "Wired"
-      },
-      "description": "Proposed regulations in China would mean the end of flush handles on car doors, with precious little...",
-      "url": "https://www.wired.com/story/new-rules-could-force-tesla-to-redesign-its-door-handles-thats-harder-than-it-sounds/",
-      "publishedAt": "2025-10-13T10:00:00Z",
-      "processed_at": "2025-10-14T14:21:30.045022+00:00"
-    },
-    {
-      "title": "Microsoft Locks Down IE Mode After Hackers Turned Legacy Feature Into Backdoor - The Hacker News",
-      "source": {
-        "name": "Internet"
-      },
-      "description": "Microsoft restricts IE Mode in Edge after threat actors exploited Chakra engine flaws for remote acc...",
-      "url": "https://thehackernews.com/2025/10/microsoft-locks-down-ie-mode-after.html",
-      "publishedAt": "2025-10-13T09:54:00Z",
-      "processed_at": "2025-10-14T14:21:30.045022+00:00"
-    },
-    {
-      "title": "Final Fantasy's beloved fighting spin-off is soon set to make a return - Eurogamer",
-      "source": {
-        "name": "Eurogamer.net"
-      },
-      "description": "Final Fantasy fighting spin-off Dissidia is soon set to make a return after its PSP heyday, but so f...",
-      "url": "https://www.eurogamer.net/final-fantasys-beloved-fighting-spin-off-is-soon-set-to-make-a-return",
-      "publishedAt": "2025-10-13T09:50:46Z",
-      "processed_at": "2025-10-14T14:21:30.045022+00:00"
-    },
-    {
-      "title": "Why the best travel tablet for artists might not be made by Apple - Creative Bloq",
-      "source": {
-        "name": "Creative Bloq"
-      },
-      "description": "I swapped my iPad Pro for a Lenovo Idea Tab on a long-haul flight – here’s what happened....",
-      "url": "https://www.creativebloq.com/art/digital-art/i-swapped-my-ipad-pro-for-a-lenovo-idea-tab-on-a-long-haul-flight-heres-what-happened",
-      "publishedAt": "2025-10-13T09:00:00Z",
-      "processed_at": "2025-10-14T14:21:30.045022+00:00"
-    },
-    {
-      "title": "Notorious Group 'Crimson Collective' Claims To Have Hacked Nintendo - Nintendo Life",
-      "source": {
-        "name": "Nintendo Life"
-      },
-      "description": "Though its legitimacy is unproven...",
-      "url": "https://www.nintendolife.com/news/2025/10/notorious-group-crimson-collective-claims-to-have-hacked-nintendo",
-      "publishedAt": "2025-10-13T09:00:00Z",
-      "processed_at": "2025-10-14T14:21:30.045022+00:00"
+      "processed_at": "2025-10-14T15:22:56.471201+00:00"
     }
   ],
-  "lastUpdated": "2025-10-14T14:21:30.045090+00:00",
+  "lastUpdated": "2025-10-14T15:22:56.471284+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
