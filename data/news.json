@@ -1,7 +1,87 @@
 {
   "status": "success",
-  "totalResults": 10,
+  "totalResults": 9,
   "articles": [
+    {
+      "title": "Massive Black Myth Wukong Update Is Going Live Today, Introducing Performance Optimizations - Wccftech",
+      "source": {
+        "name": "Wccftech"
+      },
+      "description": "A new Black Myth Wukong patch is launching today, introducing performance optimizations. The patch s...",
+      "url": "https://wccftech.com/massive-black-myth-wukong-update-is-going-live-today-introducing-performance-optimizations/",
+      "publishedAt": "2025-10-13T10:35:00Z",
+      "processed_at": "2025-10-14T11:16:46.075550+00:00"
+    },
+    {
+      "title": "Why some Atlantans are saying ‘Hello’ again, or for first time, to landlines - AJC.com",
+      "source": {
+        "name": "Atlanta Journal Constitution"
+      },
+      "description": "Whether it’s a parent restricting a child’s access to social media or a young adult avoiding doom sc...",
+      "url": "https://www.ajc.com/things-to-do/2025/10/why-some-atlantans-are-saying-hello-again-or-for-first-time-to-landlines/",
+      "publishedAt": "2025-10-13T10:32:01Z",
+      "processed_at": "2025-10-14T11:16:46.075550+00:00"
+    },
+    {
+      "title": "First screenshots of Rare's ill-fated Everwild emerge thanks to artist's portfolio website - Eurogamer",
+      "source": {
+        "name": "Eurogamer.net"
+      },
+      "description": "",
+      "url": "https://www.eurogamer.net/first-screenshots-of-rares-ill-fated-everwild-emerge-thanks-to-artists-portfolio-website",
+      "publishedAt": "2025-10-13T10:31:19Z",
+      "processed_at": "2025-10-14T11:16:46.075550+00:00"
+    },
+    {
+      "title": "Takashi Iizuka Explains Why Sonic Racing: CrossWorlds Was Delayed On Switch 2 - Nintendo Life",
+      "source": {
+        "name": "Nintendo Life"
+      },
+      "description": "It's pretty much why you think...",
+      "url": "https://www.nintendolife.com/news/2025/10/takashi-iizuka-explains-why-sonic-racing-crossworlds-was-delayed-on-switch-2",
+      "publishedAt": "2025-10-13T10:30:00Z",
+      "processed_at": "2025-10-14T11:16:46.075550+00:00"
+    },
+    {
+      "title": "New Rules Could Force Tesla to Redesign Its Door Handles. That’s Harder Than It Sounds - WIRED",
+      "source": {
+        "name": "Wired"
+      },
+      "description": "Proposed regulations in China would mean the end of flush handles on car doors, with precious little...",
+      "url": "https://www.wired.com/story/new-rules-could-force-tesla-to-redesign-its-door-handles-thats-harder-than-it-sounds/",
+      "publishedAt": "2025-10-13T10:00:00Z",
+      "processed_at": "2025-10-14T11:16:46.075550+00:00"
+    },
+    {
+      "title": "Microsoft Locks Down IE Mode After Hackers Turned Legacy Feature Into Backdoor - The Hacker News",
+      "source": {
+        "name": "Internet"
+      },
+      "description": "Microsoft restricts IE Mode in Edge after threat actors exploited Chakra engine flaws for remote acc...",
+      "url": "https://thehackernews.com/2025/10/microsoft-locks-down-ie-mode-after.html",
+      "publishedAt": "2025-10-13T09:54:00Z",
+      "processed_at": "2025-10-14T11:16:46.075550+00:00"
+    },
+    {
+      "title": "Final Fantasy's beloved fighting spin-off is soon set to make a return - Eurogamer",
+      "source": {
+        "name": "Eurogamer.net"
+      },
+      "description": "Final Fantasy fighting spin-off Dissidia is soon set to make a return after its PSP heyday, but so f...",
+      "url": "https://www.eurogamer.net/final-fantasys-beloved-fighting-spin-off-is-soon-set-to-make-a-return",
+      "publishedAt": "2025-10-13T09:50:46Z",
+      "processed_at": "2025-10-14T11:16:46.075550+00:00"
+    },
+    {
+      "title": "Why the best travel tablet for artists might not be made by Apple - Creative Bloq",
+      "source": {
+        "name": "Creative Bloq"
+      },
+      "description": "I swapped my iPad Pro for a Lenovo Idea Tab on a long-haul flight – here’s what happened....",
+      "url": "https://www.creativebloq.com/art/digital-art/i-swapped-my-ipad-pro-for-a-lenovo-idea-tab-on-a-long-haul-flight-heres-what-happened",
+      "publishedAt": "2025-10-13T09:00:00Z",
+      "processed_at": "2025-10-14T11:16:46.075550+00:00"
+    },
     {
       "title": "Notorious Group 'Crimson Collective' Claims To Have Hacked Nintendo - Nintendo Life",
       "source": {
@@ -10,100 +90,10 @@
       "description": "Though its legitimacy is unproven...",
       "url": "https://www.nintendolife.com/news/2025/10/notorious-group-crimson-collective-claims-to-have-hacked-nintendo",
       "publishedAt": "2025-10-13T09:00:00Z",
-      "processed_at": "2025-10-14T10:22:02.572809+00:00"
-    },
-    {
-      "title": "Samsung just released an even better foldable than the Galaxy Z Fold 7 - Android Authority",
-      "source": {
-        "name": "Android Authority"
-      },
-      "description": "Samsung has launched the W26, a luxurious version of the Galaxy Z Fold 7 that brings satellite conne...",
-      "url": "https://www.androidauthority.com/samsung-w26-3606529/",
-      "publishedAt": "2025-10-13T02:17:07Z",
-      "processed_at": "2025-10-14T10:22:02.572809+00:00"
-    },
-    {
-      "title": "No, Target and Walmart are not removing Xbox products from their stores — as Xbox misinformation reaches new levels - Windows Central",
-      "source": {
-        "name": "Windows Central"
-      },
-      "description": "One thing after another, Microsoft is forced to respond time and time again to ongoing rumors that i...",
-      "url": "https://www.windowscentral.com/gaming/no-target-and-walmart-are-not-removing-xbox-products-from-their-stores-as-xbox-misinformation-reaches-new-levels",
-      "publishedAt": "2025-10-13T01:39:00Z",
-      "processed_at": "2025-10-14T10:22:02.572809+00:00"
-    },
-    {
-      "title": "Tweets of the Week: Rhea Ripley & Iyo Sky shoey, Harley Cameron ventriloquism, more! - Cageside Seats",
-      "source": {
-        "name": "Cageside Seats"
-      },
-      "description": "Let’s have some fun with social media again....",
-      "url": "https://www.cagesideseats.com/cageside-seats-features/389512/tweets-of-the-week-rhea-ripley-iyo-sky-shoey-harley-cameron-ventriloquism-more",
-      "publishedAt": "2025-10-13T01:00:00Z",
-      "processed_at": "2025-10-14T10:22:02.572809+00:00"
-    },
-    {
-      "title": "Pokémon GO Events This Week (13 October – 19 October 2025) - Pokémon GO Hub",
-      "source": {
-        "name": "Pokemon GO Hub"
-      },
-      "description": "Pokémon GO’s October 6 to October 12 schedule brings the spooky season month in the Tales of Transfo...",
-      "url": "https://pokemongohub.net/post/event/pokemon-go-events-this-week-13-october-19-october-2025/",
-      "publishedAt": "2025-10-13T00:27:04Z",
-      "processed_at": "2025-10-14T10:22:02.572809+00:00"
-    },
-    {
-      "title": "‘Real American’ debuts, but that’s not Hulk Hogan walking out, brother - Cageside Seats",
-      "source": {
-        "name": "Cageside Seats"
-      },
-      "description": "Hulk Hogan’s iconic WWE entrance theme turns 40 — but it wasn’t originally meant for the Hulkster....",
-      "url": "https://www.cagesideseats.com/wwe/389484/hulk-hogan-real-american-entrance-theme-40th-anniversary-wwe",
-      "publishedAt": "2025-10-13T00:00:00Z",
-      "processed_at": "2025-10-14T10:22:02.572809+00:00"
-    },
-    {
-      "title": "The biggest risers from the Spurs’ preseason, so far - Pounding The Rock",
-      "source": {
-        "name": "Pounding The Rock "
-      },
-      "description": "A look at who’s making the most out of their preseason minutes for the new-look Spurs....",
-      "url": "https://www.poundingtherock.com/spurs-analysis/88458/the-biggest-risers-from-the-spurs-preseason-so-far",
-      "publishedAt": "2025-10-12T22:42:58Z",
-      "processed_at": "2025-10-14T10:22:02.572809+00:00"
-    },
-    {
-      "title": "Free software hasn't won - Hacker News",
-      "source": {
-        "name": "Hacker News"
-      },
-      "description": "",
-      "url": "https://news.ycombinator.com/item?id\\\\u003d45562286",
-      "publishedAt": "2025-10-12T22:35:48Z",
-      "processed_at": "2025-10-14T10:22:02.572809+00:00"
-    },
-    {
-      "title": "Everything we know about Final Sentence - Dexerto",
-      "source": {
-        "name": "Dexerto"
-      },
-      "description": "Final Sentence is swapping trigger fingers for fast APM with its unique spin on the battle royale fo...",
-      "url": "https://www.dexerto.com/gaming/everything-we-know-about-final-sentence-3265822/",
-      "publishedAt": "2025-10-12T21:22:27Z",
-      "processed_at": "2025-10-14T10:22:02.572809+00:00"
-    },
-    {
-      "title": "VALORANT: Everything about Patch 11.08, including weapons, agents, and map changes - Sheep Esports",
-      "source": {
-        "name": "Sheepesports.com"
-      },
-      "description": "Explore expert insights and breaking news in League of Legends Esports, brought to you by Sheep Espo...",
-      "url": "https://www.sheepesports.com/articles/valorant-everything-about-patch-11-08-including-weapons-agents-and-map-changes/en",
-      "publishedAt": "2025-10-12T20:56:30Z",
-      "processed_at": "2025-10-14T10:22:02.572809+00:00"
+      "processed_at": "2025-10-14T11:16:46.075550+00:00"
     }
   ],
-  "lastUpdated": "2025-10-14T10:22:02.572881+00:00",
+  "lastUpdated": "2025-10-14T11:16:46.075618+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
