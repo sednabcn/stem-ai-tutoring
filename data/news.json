@@ -1,16 +1,16 @@
 {
   "status": "success",
-  "totalResults": 10,
+  "totalResults": 9,
   "articles": [
     {
-      "title": "Hackers can steal 2FA codes and private messages from Android phones - Ars Technica",
+      "title": "American Airlines adding Google Wallet support for boarding passes - 9to5Google",
       "source": {
-        "name": "Ars Technica"
+        "name": "9to5google.com"
       },
-      "description": "Malicious app required to make “Pixnapping” attack work requires no permissions....",
-      "url": "https://arstechnica.com/security/2025/10/no-fix-yet-for-attack-that-lets-hackers-pluck-2fa-codes-from-android-phones/",
-      "publishedAt": "2025-10-13T21:36:35Z",
-      "processed_at": "2025-10-14T22:18:55.608525+00:00"
+      "description": "American Airlines has just announced that it will support Google Wallet with its boarding passes, an...",
+      "url": "http://9to5google.com/2025/10/13/american-airlines-adding-google-wallet-support-for-boarding-passes/",
+      "publishedAt": "2025-10-13T21:30:00Z",
+      "processed_at": "2025-10-14T23:18:26.502400+00:00"
     },
     {
       "title": "Microsoft AI announces first image generator created in-house - The Verge",
@@ -20,7 +20,7 @@
       "description": "Microsoft AI announced a new text-to-image generator developed in-house....",
       "url": "https://www.theverge.com/news/798923/microsoft-ai-image-generator-in-house",
       "publishedAt": "2025-10-13T21:24:05Z",
-      "processed_at": "2025-10-14T22:18:55.608525+00:00"
+      "processed_at": "2025-10-14T23:18:26.502400+00:00"
     },
     {
       "title": "Apple Pro Display XDR 2 likely has key hardware upgrade over original $4999 monitor - 9to5Mac",
@@ -30,7 +30,7 @@
       "description": "Apple is expected to release a second-generation Apple Pro Display XDR in the near future, and it lo...",
       "url": "https://9to5mac.com/2025/10/13/apple-pro-display-xdr-2-will-have-a-key-hardware-upgrade-over-original-4999-monitor/",
       "publishedAt": "2025-10-13T20:09:00Z",
-      "processed_at": "2025-10-14T22:18:55.608525+00:00"
+      "processed_at": "2025-10-14T23:18:26.502400+00:00"
     },
     {
       "title": "Google’s Nano Banana AI image editor is coming to search, Photos, and NotebookLM - Ars Technica",
@@ -40,7 +40,7 @@
       "description": "After more than 5 billion AI image edits, Nano Banana is expanding....",
       "url": "https://arstechnica.com/google/2025/10/googles-nano-banana-ai-image-editor-is-coming-to-search-photos-and-notebooklm/",
       "publishedAt": "2025-10-13T19:52:23Z",
-      "processed_at": "2025-10-14T22:18:55.608525+00:00"
+      "processed_at": "2025-10-14T23:18:26.502400+00:00"
     },
     {
       "title": "Google will let you hide sponsored results in search — after you’ve seen them - The Verge",
@@ -50,7 +50,7 @@
       "description": "Paid results are going to start showing up a little differently on Google search pages....",
       "url": "https://www.theverge.com/tech/798901/google-will-let-you-hide-sponsored-results-in-search-after-youve-seen-them",
       "publishedAt": "2025-10-13T19:21:38Z",
-      "processed_at": "2025-10-14T22:18:55.608525+00:00"
+      "processed_at": "2025-10-14T23:18:26.502400+00:00"
     },
     {
       "title": "The Final Mega Randoms - Bespoked Show Dresden 2025 - Pinkbike",
@@ -60,17 +60,7 @@
       "description": "A final round of the creative bike creations on display in Dresden this year....",
       "url": "https://www.pinkbike.com/news/the-final-mega-randoms-bespoked-show-dresden-2025.html",
       "publishedAt": "2025-10-13T19:00:00Z",
-      "processed_at": "2025-10-14T22:18:55.608525+00:00"
-    },
-    {
-      "title": "10 JRPGs Reviewed Better Than Final Fantasy VII - DualShockers",
-      "source": {
-        "name": "DualShockers"
-      },
-      "description": "While Square's masterpiece put the genre in the spotlight, there are still a few JRPGs that were rev...",
-      "url": "https://www.dualshockers.com/jrpgs-reviewed-better-than-final-fantasy-vii/",
-      "publishedAt": "2025-10-13T19:00:00Z",
-      "processed_at": "2025-10-14T22:18:55.608525+00:00"
+      "processed_at": "2025-10-14T23:18:26.502400+00:00"
     },
     {
       "title": "Microsoft denies U.S. retailers like Target and Walmart have removed Xbox products from stores - GamesIndustry.biz",
@@ -80,7 +70,7 @@
       "description": "Microsoft has refuted claims U.S. retailers have withdrawn sales of its Xbox Series X and S consoles...",
       "url": "https://www.gamesindustry.biz/microsoft-denies-us-retailers-like-target-and-walmart-have-removed-xbox-products-from-stores",
       "publishedAt": "2025-10-13T18:47:08Z",
-      "processed_at": "2025-10-14T22:18:55.608525+00:00"
+      "processed_at": "2025-10-14T23:18:26.502400+00:00"
     },
     {
       "title": "iOS 26.1 beta 3 reveals new third-party AI integrations may be coming soon - 9to5Mac",
@@ -90,20 +80,20 @@
       "description": "Updated code in iOS 26.1 beta 3 reveals Apple is preparing to add at least one new third-party AI in...",
       "url": "https://9to5mac.com/2025/10/13/ios-26-1-beta-3-reveals-new-third-party-ai-integrations-may-be-coming-soon/",
       "publishedAt": "2025-10-13T18:08:00Z",
-      "processed_at": "2025-10-14T22:18:55.608525+00:00"
+      "processed_at": "2025-10-14T23:18:26.502400+00:00"
     },
     {
-      "title": "Battlefield 6 is already the biggest game of the franchise by Steam concurrent user count - GamesIndustry.biz",
+      "title": "Microsoft previews People grouping in OneDrive photos - theregister.com",
       "source": {
-        "name": "GamesIndustry.biz"
+        "name": "Theregister.com"
       },
-      "description": "Battlefield 6 is the franchise's biggest ever game on Steam, clocking up over 700,000 concurrent pla...",
-      "url": "https://www.gamesindustry.biz/battlefield-6-is-already-the-biggest-game-of-the-franchise-by-steam-concurrent-user-count",
-      "publishedAt": "2025-10-13T17:44:28Z",
-      "processed_at": "2025-10-14T22:18:55.608525+00:00"
+      "description": "",
+      "url": "https://www.theregister.com/2025/10/13/microsoft_face_grouping_ondrive/",
+      "publishedAt": "2025-10-13T17:48:00Z",
+      "processed_at": "2025-10-14T23:18:26.502400+00:00"
     }
   ],
-  "lastUpdated": "2025-10-14T22:18:55.608600+00:00",
+  "lastUpdated": "2025-10-14T23:18:26.502470+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
