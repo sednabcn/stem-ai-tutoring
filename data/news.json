@@ -3,6 +3,16 @@
   "totalResults": 10,
   "articles": [
     {
+      "title": "YouTube has a new video player - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "YouTube is introducing a bunch of changes, including a new look for the video player and animations ...",
+      "url": "https://www.theverge.com/news/799492/youtube-new-video-player-update-changes",
+      "publishedAt": "2025-10-14T20:42:30Z",
+      "processed_at": "2025-10-15T21:18:03.770007+00:00"
+    },
+    {
       "title": "Google Pixel 10 Pro Fold explodes during JerryRigEverything’s durability test - Dexerto",
       "source": {
         "name": "Dexerto"
@@ -10,7 +20,7 @@
       "description": "Google’s newest foldable phone has dramatically failed JerryRigEverything’s durability test after it...",
       "url": "https://www.dexerto.com/youtube/google-pixel-10-pro-fold-explodes-during-jerryrigeverythings-durability-test-3267086/",
       "publishedAt": "2025-10-14T19:45:08Z",
-      "processed_at": "2025-10-15T20:23:10.283936+00:00"
+      "processed_at": "2025-10-15T21:18:03.770007+00:00"
     },
     {
       "title": "Apple teases M5 MacBook - The Verge",
@@ -20,17 +30,17 @@
       "description": "Apple is getting ready to take the wraps off its M5 MacBook, with worldwide marketing SVP Greg Joswi...",
       "url": "https://www.theverge.com/news/799408/apple-m5-macbook-launch-teaser",
       "publishedAt": "2025-10-14T19:17:48Z",
-      "processed_at": "2025-10-15T20:23:10.283936+00:00"
+      "processed_at": "2025-10-15T21:18:03.770007+00:00"
     },
     {
-      "title": "Ghost of Yotei devs will create one game at a time: 'It has to be our best idea,' boss says - TweakTown",
+      "title": "Call Of Duty Exists Because \"EA Were Dicks,\" Says Vince Zampella - GameSpot",
       "source": {
-        "name": "TweakTown"
+        "name": "GameSpot"
       },
-      "description": "Sucker Punch productions, the team behind Ghost of Yotei and Infamous, says their studio will contin...",
-      "url": "https://www.tweaktown.com/news/108243/ghost-of-yotei-devs-will-create-one-game-at-a-time-it-has-to-be-our-best-idea-boss-says/index.html",
-      "publishedAt": "2025-10-14T18:35:03Z",
-      "processed_at": "2025-10-15T20:23:10.283936+00:00"
+      "description": "The co-founder of Infinity Ward and Battlefield 6 boss shares a small bit insight about the origin o...",
+      "url": "https://www.gamespot.com/articles/call-of-duty-exists-because-ea-were-dicks-says-vince-zampella/1100-6535420/",
+      "publishedAt": "2025-10-14T18:28:24Z",
+      "processed_at": "2025-10-15T21:18:03.770007+00:00"
     },
     {
       "title": "Microsoft October 2025 Patch Tuesday fixes 6 zero-days, 172 flaws - BleepingComputer",
@@ -40,7 +50,17 @@
       "description": "Today is Microsoft's October 2025 Patch Tuesday, which includes security updates for 172 flaws, incl...",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-october-2025-patch-tuesday-fixes-6-zero-days-172-flaws/",
       "publishedAt": "2025-10-14T18:02:50Z",
-      "processed_at": "2025-10-15T20:23:10.283936+00:00"
+      "processed_at": "2025-10-15T21:18:03.770007+00:00"
+    },
+    {
+      "title": "Motorola launches ultra-thin Edge 70 in China, international release coming soon - 9to5Google",
+      "source": {
+        "name": "9to5google.com"
+      },
+      "description": "The Moto Edge 70 is launching as the X70 Air in China, and it's confirming most of what we've heard ...",
+      "url": "http://9to5google.com/2025/10/14/motorola-launches-ultra-thin-edge-70-in-china-international-release-coming-soon/",
+      "publishedAt": "2025-10-14T17:40:00Z",
+      "processed_at": "2025-10-15T21:18:03.770007+00:00"
     },
     {
       "title": "Borderlands 4 Discounted A Month After Launch Despite Boss' Warning - Kotaku",
@@ -50,7 +70,7 @@
       "description": "Also: Helldivers hiatus, Sucker Punch's future, and more veteran developer departures...",
       "url": "https://kotaku.com/borderlands-4-sale-discount-everwild-leak-helldivers-performance-2000635349",
       "publishedAt": "2025-10-14T17:24:21Z",
-      "processed_at": "2025-10-15T20:23:10.283936+00:00"
+      "processed_at": "2025-10-15T21:18:03.770007+00:00"
     },
     {
       "title": "Apple releases iPadOS 26.1 public beta 3 and more, here’s what’s new - 9to5Mac",
@@ -60,17 +80,17 @@
       "description": "Public beta 3 is here for iPadOS 26.1 and more. Here’s what’s new in Apple’s just-released wave of n...",
       "url": "https://9to5mac.com/2025/10/14/apple-releases-ipados-26-1-public-beta-3-and-more-heres-whats-new/",
       "publishedAt": "2025-10-14T17:17:00Z",
-      "processed_at": "2025-10-15T20:23:10.283936+00:00"
+      "processed_at": "2025-10-15T21:18:03.770007+00:00"
     },
     {
-      "title": "Intel Announces \"Crescent Island\" Inference-Optimized Xe3P Graphics Card With 160GB vRAM - Phoronix",
+      "title": "Intel Reveals 160-GB, Energy-Efficient Inference GPU As Part Of New Yearly Cadence - CRN Magazine",
       "source": {
-        "name": "Phoronix"
+        "name": "CRN"
       },
-      "description": "Back during the Intel Tech Tour in Arizona, Intel teased a new inference-optimized enterprise GPU wo...",
-      "url": "https://www.phoronix.com/review/intel-crescent-island",
+      "description": "Intel on Tuesday revealed a 160-GB, energy-efficient data center GPU that is part of a new annual GP...",
+      "url": "https://www.crn.com/news/components-peripherals/2025/intel-reveals-160-gb-energy-efficient-inference-gpu-as-part-of-new-yearly-cadence",
       "publishedAt": "2025-10-14T17:00:00Z",
-      "processed_at": "2025-10-15T20:23:10.283936+00:00"
+      "processed_at": "2025-10-15T21:18:03.770007+00:00"
     },
     {
       "title": "Nvidia sells tiny new computer that puts big AI on your desktop - Ars Technica",
@@ -80,30 +100,10 @@
       "description": "The 1 petaflop DGX Spark system runs AI models with 200 billion parameters locally for $4K....",
       "url": "https://arstechnica.com/ai/2025/10/nvidia-sells-tiny-new-computer-that-puts-big-ai-on-your-desktop/",
       "publishedAt": "2025-10-14T16:58:21Z",
-      "processed_at": "2025-10-15T20:23:10.283936+00:00"
-    },
-    {
-      "title": "We Finally Know When Pokémon Legends: Z-A Takes Place in the Pokémon Timeline - IGN",
-      "source": {
-        "name": "IGN"
-      },
-      "description": "When Pokémon Legends: Z-A was first revealed, we all immediately got to work speculating on when it ...",
-      "url": "https://www.ign.com/articles/we-finally-know-when-pokmon-legends-z-a-takes-place-in-the-pokmon-timeline",
-      "publishedAt": "2025-10-14T16:46:26Z",
-      "processed_at": "2025-10-15T20:23:10.283936+00:00"
-    },
-    {
-      "title": "Google’s Gemini can now help you schedule Google Calendar meetings - TechCrunch",
-      "source": {
-        "name": "TechCrunch"
-      },
-      "description": "Designed for one-on-one meetings, the tool lets you insert available time slots directly into an ema...",
-      "url": "https://techcrunch.com/2025/10/14/googles-gemini-can-now-help-you-schedule-google-calendar-meetings/",
-      "publishedAt": "2025-10-14T16:10:46Z",
-      "processed_at": "2025-10-15T20:23:10.283936+00:00"
+      "processed_at": "2025-10-15T21:18:03.770007+00:00"
     }
   ],
-  "lastUpdated": "2025-10-15T20:23:10.284028+00:00",
+  "lastUpdated": "2025-10-15T21:18:03.770078+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
