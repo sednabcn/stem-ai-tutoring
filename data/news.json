@@ -3,6 +3,36 @@
   "totalResults": 10,
   "articles": [
     {
+      "title": "Samsung officially teases Moohan headset launch for next week - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "Samsung is finally about to reveal more details about its Project Moohan mixed reality headset at a ...",
+      "url": "https://www.theverge.com/news/799607/samsung-galaxy-event-project-moohan-android-xr-event-date-worlds-wide-open",
+      "publishedAt": "2025-10-14T23:00:51Z",
+      "processed_at": "2025-10-15T23:17:54.280196+00:00"
+    },
+    {
+      "title": "Eddy Cue explains why Apple TV dropped the Plus, and how it’s not confusing - 9to5Mac",
+      "source": {
+        "name": "9to5Mac"
+      },
+      "description": "Apple TV+ is now just Apple TV, and Apple’s senior vice president of Services says the change was si...",
+      "url": "https://9to5mac.com/2025/10/14/eddy-cue-explains-why-apple-tv-dropped-the-plus-and-why-its-not-confusing/",
+      "publishedAt": "2025-10-14T22:44:00Z",
+      "processed_at": "2025-10-15T23:17:54.280196+00:00"
+    },
+    {
+      "title": "Pixel 10 Pro Fold bends and breaks in durability test, just like its predecessors - 9to5Google",
+      "source": {
+        "name": "9to5google.com"
+      },
+      "description": "The Pixel 10 Pro Fold is supposed to have a stronger hinge and be rated for IP68 water and dust......",
+      "url": "http://9to5google.com/2025/10/14/pixel-10-pro-fold-durability-test/",
+      "publishedAt": "2025-10-14T20:59:00Z",
+      "processed_at": "2025-10-15T23:17:54.280196+00:00"
+    },
+    {
       "title": "YouTube has a new video player - The Verge",
       "source": {
         "name": "The Verge"
@@ -10,37 +40,37 @@
       "description": "YouTube is introducing a bunch of changes, including a new look for the video player and animations ...",
       "url": "https://www.theverge.com/news/799492/youtube-new-video-player-update-changes",
       "publishedAt": "2025-10-14T20:42:30Z",
-      "processed_at": "2025-10-15T22:17:30.973655+00:00"
+      "processed_at": "2025-10-15T23:17:54.280196+00:00"
     },
     {
-      "title": "Google Pixel 10 Pro Fold explodes during JerryRigEverything’s durability test - Dexerto",
+      "title": "Apple teases new MacBook Pro: ‘Something powerful is coming’ - 9to5Mac",
       "source": {
-        "name": "Dexerto"
+        "name": "9to5Mac"
       },
-      "description": "Google’s newest foldable phone has dramatically failed JerryRigEverything’s durability test after it...",
-      "url": "https://www.dexerto.com/youtube/google-pixel-10-pro-fold-explodes-during-jerryrigeverythings-durability-test-3267086/",
-      "publishedAt": "2025-10-14T19:45:08Z",
-      "processed_at": "2025-10-15T22:17:30.973655+00:00"
+      "description": "We’re all eagerly awaiting new Apple products this week, including an iPad Pro, Vision Pro, and MacB...",
+      "url": "https://9to5mac.com/2025/10/14/apple-teases-new-macbook-pro-something-powerful-is-coming/",
+      "publishedAt": "2025-10-14T18:57:00Z",
+      "processed_at": "2025-10-15T23:17:54.280196+00:00"
     },
     {
-      "title": "Apple teases M5 MacBook - The Verge",
+      "title": "Battlefield 6 has sold over 6.5 million copies in just a few days, generating more than $350 million in revenue - Notebookcheck",
       "source": {
-        "name": "The Verge"
+        "name": "Notebookcheck.net"
       },
-      "description": "Apple is getting ready to take the wraps off its M5 MacBook, with worldwide marketing SVP Greg Joswi...",
-      "url": "https://www.theverge.com/news/799408/apple-m5-macbook-launch-teaser",
-      "publishedAt": "2025-10-14T19:17:48Z",
-      "processed_at": "2025-10-15T22:17:30.973655+00:00"
+      "description": "Battlefield 6 has sold over 6.5 million copies in just four days, earning more than $350 million. Mo...",
+      "url": "https://www.notebookcheck.net/Battlefield-6-has-sold-over-6-5-million-copies-in-just-a-few-days-generating-more-than-350-million-in-revenue.1138374.0.html",
+      "publishedAt": "2025-10-14T18:26:00Z",
+      "processed_at": "2025-10-15T23:17:54.280196+00:00"
     },
     {
-      "title": "Call Of Duty Exists Because \"EA Were Dicks,\" Says Vince Zampella - GameSpot",
+      "title": "Gemini can now help schedule meetings in Gmail - Ars Technica",
       "source": {
-        "name": "GameSpot"
+        "name": "Ars Technica"
       },
-      "description": "The co-founder of Infinity Ward and Battlefield 6 boss shares a small bit insight about the origin o...",
-      "url": "https://www.gamespot.com/articles/call-of-duty-exists-because-ea-were-dicks-says-vince-zampella/1100-6535420/",
-      "publishedAt": "2025-10-14T18:28:24Z",
-      "processed_at": "2025-10-15T22:17:30.973655+00:00"
+      "description": "Help Me Schedule creates a meeting widget based on the context of your message....",
+      "url": "https://arstechnica.com/google/2025/10/gemini-can-now-help-schedule-meetings-in-gmail/",
+      "publishedAt": "2025-10-14T18:24:53Z",
+      "processed_at": "2025-10-15T23:17:54.280196+00:00"
     },
     {
       "title": "Microsoft October 2025 Patch Tuesday fixes 6 zero-days, 172 flaws - BleepingComputer",
@@ -50,7 +80,7 @@
       "description": "Today is Microsoft's October 2025 Patch Tuesday, which includes security updates for 172 flaws, incl...",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-october-2025-patch-tuesday-fixes-6-zero-days-172-flaws/",
       "publishedAt": "2025-10-14T18:02:50Z",
-      "processed_at": "2025-10-15T22:17:30.973655+00:00"
+      "processed_at": "2025-10-15T23:17:54.280196+00:00"
     },
     {
       "title": "Motorola launches ultra-thin Edge 70 in China, international release coming soon - 9to5Google",
@@ -60,7 +90,7 @@
       "description": "The Moto Edge 70 is launching as the X70 Air in China, and it's confirming most of what we've heard ...",
       "url": "http://9to5google.com/2025/10/14/motorola-launches-ultra-thin-edge-70-in-china-international-release-coming-soon/",
       "publishedAt": "2025-10-14T17:40:00Z",
-      "processed_at": "2025-10-15T22:17:30.973655+00:00"
+      "processed_at": "2025-10-15T23:17:54.280196+00:00"
     },
     {
       "title": "Borderlands 4 Discounted A Month After Launch Despite Boss' Warning - Kotaku",
@@ -70,40 +100,10 @@
       "description": "Also: Helldivers hiatus, Sucker Punch's future, and more veteran developer departures...",
       "url": "https://kotaku.com/borderlands-4-sale-discount-everwild-leak-helldivers-performance-2000635349",
       "publishedAt": "2025-10-14T17:24:21Z",
-      "processed_at": "2025-10-15T22:17:30.973655+00:00"
-    },
-    {
-      "title": "Apple releases iPadOS 26.1 public beta 3 and more, here’s what’s new - 9to5Mac",
-      "source": {
-        "name": "9to5Mac"
-      },
-      "description": "Public beta 3 is here for iPadOS 26.1 and more. Here’s what’s new in Apple’s just-released wave of n...",
-      "url": "https://9to5mac.com/2025/10/14/apple-releases-ipados-26-1-public-beta-3-and-more-heres-whats-new/",
-      "publishedAt": "2025-10-14T17:17:00Z",
-      "processed_at": "2025-10-15T22:17:30.973655+00:00"
-    },
-    {
-      "title": "Intel Reveals 160-GB, Energy-Efficient Inference GPU As Part Of New Yearly Cadence - CRN Magazine",
-      "source": {
-        "name": "CRN"
-      },
-      "description": "Intel on Tuesday revealed a 160-GB, energy-efficient data center GPU that is part of a new annual GP...",
-      "url": "https://www.crn.com/news/components-peripherals/2025/intel-reveals-160-gb-energy-efficient-inference-gpu-as-part-of-new-yearly-cadence",
-      "publishedAt": "2025-10-14T17:00:00Z",
-      "processed_at": "2025-10-15T22:17:30.973655+00:00"
-    },
-    {
-      "title": "Nvidia sells tiny new computer that puts big AI on your desktop - Ars Technica",
-      "source": {
-        "name": "Ars Technica"
-      },
-      "description": "The 1 petaflop DGX Spark system runs AI models with 200 billion parameters locally for $4K....",
-      "url": "https://arstechnica.com/ai/2025/10/nvidia-sells-tiny-new-computer-that-puts-big-ai-on-your-desktop/",
-      "publishedAt": "2025-10-14T16:58:21Z",
-      "processed_at": "2025-10-15T22:17:30.973655+00:00"
+      "processed_at": "2025-10-15T23:17:54.280196+00:00"
     }
   ],
-  "lastUpdated": "2025-10-15T22:17:30.973725+00:00",
+  "lastUpdated": "2025-10-15T23:17:54.280270+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
