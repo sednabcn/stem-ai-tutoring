@@ -3,14 +3,24 @@
   "totalResults": 10,
   "articles": [
     {
-      "title": "Reminder: Pokémon Legends: Z-A Switch 2 Hardware Bundle Now Available - Nintendo Life",
+      "title": "Microsoft’s vision for AI PCs looks a lot like another crack at Cortana - Ars Technica",
       "source": {
-        "name": "Nintendo Life"
+        "name": "Ars Technica"
       },
-      "description": "",
-      "url": "https://www.nintendolife.com/news/2025/10/reminder-pokemon-legends-z-a-switch-2-hardware-bundle-now-available",
-      "publishedAt": "2025-10-16T17:56:21Z",
-      "processed_at": "2025-10-17T22:18:04.844160+00:00"
+      "description": "Copilot expands with an emphasis on creating and editing files, voice input....",
+      "url": "https://arstechnica.com/gadgets/2025/10/microsofts-vision-for-ai-pcs-looks-a-lot-like-another-crack-at-cortana/",
+      "publishedAt": "2025-10-16T21:12:48Z",
+      "processed_at": "2025-10-17T23:17:32.408816+00:00"
+    },
+    {
+      "title": "Apple Readies High-End MacBook Pro With Touch, Hole-Punch Screen - Bloomberg.com",
+      "source": {
+        "name": "Bloomberg"
+      },
+      "description": "Apple Inc. is preparing to finally launch a touch-screen version of its Mac computer, reversing cour...",
+      "url": "https://www.bloomberg.com/news/articles/2025-10-16/apple-readies-high-end-macbook-pro-with-touch-hole-punch-screen",
+      "publishedAt": "2025-10-16T18:52:31Z",
+      "processed_at": "2025-10-17T23:17:32.408816+00:00"
     },
     {
       "title": "Sanctuary Ignites with Itemization & Systems Changes — Diablo IV - Blizzard News",
@@ -20,7 +30,7 @@
       "description": "Preview the sweeping permanents changes coming to Itemization, Systems, and more, on both Seasonal a...",
       "url": "https://news.blizzard.com/en-us/article/24243142/sanctuary-ignites-with-itemization-systems-changes",
       "publishedAt": "2025-10-16T17:00:00Z",
-      "processed_at": "2025-10-17T22:18:04.844160+00:00"
+      "processed_at": "2025-10-17T23:17:32.408816+00:00"
     },
     {
       "title": "Open source GZDoom community splinters after creator inserts AI-generated code - Ars Technica",
@@ -30,7 +40,7 @@
       "description": "UZDoom fork promises to fix other top-down leadership problems with the decades-old mod....",
       "url": "https://arstechnica.com/gaming/2025/10/civil-war-gzdoom-fan-developers-split-off-over-use-of-chatgpt-generated-code/",
       "publishedAt": "2025-10-16T16:48:00Z",
-      "processed_at": "2025-10-17T22:18:04.844160+00:00"
+      "processed_at": "2025-10-17T23:17:32.408816+00:00"
     },
     {
       "title": "A new wave of social media apps provide hope in a doomscrolling world - TechCrunch",
@@ -40,7 +50,17 @@
       "description": "“The platforms that won were the ones that kept people scrolling the longest, not the ones that made...",
       "url": "https://techcrunch.com/2025/10/16/a-new-wave-of-social-media-apps-provide-hope-in-a-doomscrolling-world/",
       "publishedAt": "2025-10-16T16:40:00Z",
-      "processed_at": "2025-10-17T22:18:04.844160+00:00"
+      "processed_at": "2025-10-17T23:17:32.408816+00:00"
+    },
+    {
+      "title": "Apple & NBCUniversal Announce New Bundled Stream Deal For Peacock & Apple TV - | Cord Cutters News",
+      "source": {
+        "name": "Cord Cutters News, LLC"
+      },
+      "description": "Apple and NBCUniversal today unveiled the Apple TV and Peacock Bundle, set to launch on October 20, ...",
+      "url": "https://cordcuttersnews.com/apple-nbcuniversal-announce-new-bundled-stream-deal-for-peacock-apple-tv/",
+      "publishedAt": "2025-10-16T16:15:27Z",
+      "processed_at": "2025-10-17T23:17:32.408816+00:00"
     },
     {
       "title": "Anthropic turns to ‘skills’ to make Claude more useful at work - The Verge",
@@ -50,7 +70,7 @@
       "description": "Anthropic has announced a new feature for its Claude AI chatbot called Skills, which should make AI ...",
       "url": "https://www.theverge.com/ai-artificial-intelligence/800868/anthropic-claude-skills-ai-agents",
       "publishedAt": "2025-10-16T16:00:00Z",
-      "processed_at": "2025-10-17T22:18:04.844160+00:00"
+      "processed_at": "2025-10-17T23:17:32.408816+00:00"
     },
     {
       "title": "Obsidian Entertainment On The Lessons Learned From The Outer Worlds - Game Informer",
@@ -60,7 +80,17 @@
       "description": "We spoke to the team behind The Outer Worlds 2 to learn more about the lessons learned from the firs...",
       "url": "https://gameinformer.com/exclusive/2025/10/16/obsidian-entertainment-on-the-lessons-learned-from-the-outer-worlds",
       "publishedAt": "2025-10-16T15:25:34Z",
-      "processed_at": "2025-10-17T22:18:04.844160+00:00"
+      "processed_at": "2025-10-17T23:17:32.408816+00:00"
+    },
+    {
+      "title": "Apple loses another AI exec to Meta - TechCrunch",
+      "source": {
+        "name": "TechCrunch"
+      },
+      "description": "Yang’s departure marks the latest in a string of exits from Apple’s AI unit, putting the company int...",
+      "url": "https://techcrunch.com/2025/10/16/apple-loses-another-ai-exec-to-meta/",
+      "publishedAt": "2025-10-16T15:21:03Z",
+      "processed_at": "2025-10-17T23:17:32.408816+00:00"
     },
     {
       "title": "Pinterest adds controls to let you limit the amount of ‘AI slop’ in your feed - TechCrunch",
@@ -70,40 +100,10 @@
       "description": "Pinterest is rolling out new controls that let users limit how much AI-generated content appears in ...",
       "url": "https://techcrunch.com/2025/10/16/pinterest-adds-controls-to-let-you-limit-the-amount-of-ai-slop-in-your-feed/",
       "publishedAt": "2025-10-16T15:15:50Z",
-      "processed_at": "2025-10-17T22:18:04.844160+00:00"
-    },
-    {
-      "title": "OnePlus’ OxygenOS 16 brings Gemini into your Mind Space - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "Google’s Gemini AI assistant will be able to respond to what you’ve saved in Mind Space on OnePlus p...",
-      "url": "https://www.theverge.com/news/800754/oneplus-oxygenos-16-gemini-mind-space",
-      "publishedAt": "2025-10-16T15:10:00Z",
-      "processed_at": "2025-10-17T22:18:04.844160+00:00"
-    },
-    {
-      "title": "Battlefield 6 Shatters Records Becoming the Biggest Launch in Franchise History - EA IR",
-      "source": {
-        "name": "Ea.com"
-      },
-      "description": "Millions of Players Join The Fight To Break Series’ Beta and Launch Records For Player Engagement an...",
-      "url": "https://ir.ea.com/press-releases/press-release-details/2025/Battlefield-6-Shatters-Records-Becoming-the-Biggest-Launch-in-Franchise-History/default.aspx",
-      "publishedAt": "2025-10-16T15:04:23Z",
-      "processed_at": "2025-10-17T22:18:04.844160+00:00"
-    },
-    {
-      "title": "Nintendo Download: 16th October (North America) - Nintendo Life",
-      "source": {
-        "name": "Nintendo Life"
-      },
-      "description": "Pokémon! Just Dance! Lumo 2!...",
-      "url": "https://www.nintendolife.com/news/2025/10/nintendo-download-16th-october-north-america",
-      "publishedAt": "2025-10-16T14:50:00Z",
-      "processed_at": "2025-10-17T22:18:04.844160+00:00"
+      "processed_at": "2025-10-17T23:17:32.408816+00:00"
     }
   ],
-  "lastUpdated": "2025-10-17T22:18:04.844237+00:00",
+  "lastUpdated": "2025-10-17T23:17:32.408896+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
