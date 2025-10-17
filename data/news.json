@@ -1,7 +1,27 @@
 {
   "status": "success",
-  "totalResults": 9,
+  "totalResults": 10,
   "articles": [
+    {
+      "title": "Sanctuary Ignites with Itemization & Systems Changes — Diablo IV - Blizzard News",
+      "source": {
+        "name": "Blizzard.com"
+      },
+      "description": "Preview the sweeping permanents changes coming to Itemization, Systems, and more, on both Seasonal a...",
+      "url": "https://news.blizzard.com/en-us/article/24243142/sanctuary-ignites-with-itemization-systems-changes",
+      "publishedAt": "2025-10-16T17:00:00Z",
+      "processed_at": "2025-10-17T19:16:03.338034+00:00"
+    },
+    {
+      "title": "Open source GZDoom community splinters after creator inserts AI-generated code - Ars Technica",
+      "source": {
+        "name": "Ars Technica"
+      },
+      "description": "UZDoom fork promises to fix other top-down leadership problems with the decades-old mod....",
+      "url": "https://arstechnica.com/gaming/2025/10/civil-war-gzdoom-fan-developers-split-off-over-use-of-chatgpt-generated-code/",
+      "publishedAt": "2025-10-16T16:48:00Z",
+      "processed_at": "2025-10-17T19:16:03.338034+00:00"
+    },
     {
       "title": "Review | I’m 44, and ‘Pokémon Legends: Z-A’ makes me feel the walls closing in - The Washington Post",
       "source": {
@@ -10,7 +30,27 @@
       "description": "“Pokémon Legends: Z-A” injects some energy into battles. But the series has never had a world this l...",
       "url": "https://www.washingtonpost.com/entertainment/video-games/2025/10/16/pokemon-legends-z-a-review/",
       "publishedAt": "2025-10-16T16:31:25Z",
-      "processed_at": "2025-10-17T18:27:12.052115+00:00"
+      "processed_at": "2025-10-17T19:16:03.338034+00:00"
+    },
+    {
+      "title": "Obsidian Entertainment On The Lessons Learned From The Outer Worlds - Game Informer",
+      "source": {
+        "name": "Gameinformer.com"
+      },
+      "description": "We spoke to the team behind The Outer Worlds 2 to learn more about the lessons learned from the firs...",
+      "url": "https://gameinformer.com/exclusive/2025/10/16/obsidian-entertainment-on-the-lessons-learned-from-the-outer-worlds",
+      "publishedAt": "2025-10-16T15:25:34Z",
+      "processed_at": "2025-10-17T19:16:03.338034+00:00"
+    },
+    {
+      "title": "Apple loses another AI exec to Meta - TechCrunch",
+      "source": {
+        "name": "TechCrunch"
+      },
+      "description": "Yang’s departure marks the latest in a string of exits from Apple’s AI unit, putting the company int...",
+      "url": "https://techcrunch.com/2025/10/16/apple-loses-another-ai-exec-to-meta/",
+      "publishedAt": "2025-10-16T15:21:03Z",
+      "processed_at": "2025-10-17T19:16:03.338034+00:00"
     },
     {
       "title": "OnePlus's big OxygenOS 16 update brings much more than just Android 16: Here's everything new - Android Authority",
@@ -20,17 +60,27 @@
       "description": "Here are all the new features in OxygenOS 16, the next big software update for OnePlus phones and ta...",
       "url": "https://www.androidauthority.com/oxygenos-16-features-3607625/",
       "publishedAt": "2025-10-16T15:13:04Z",
-      "processed_at": "2025-10-17T18:27:12.052115+00:00"
+      "processed_at": "2025-10-17T19:16:03.338034+00:00"
     },
     {
-      "title": "Quantic Dream Is Making Spellcasters Chronicles, A Multiplayer Game – Here's What We Think So Far - Game Informer",
+      "title": "Battlefield 6 Shatters Records Becoming the Biggest Launch in Franchise History - Business Wire",
       "source": {
-        "name": "Gameinformer.com"
+        "name": "Business Wire"
       },
-      "description": "The developer known for story heavy games like Detroit: Become Human is working on a very different ...",
-      "url": "https://gameinformer.com/2025/10/16/quantic-dream-is-making-spellcasters-chronicles-a-multiplayer-game-heres-what-we-think",
-      "publishedAt": "2025-10-16T15:04:48Z",
-      "processed_at": "2025-10-17T18:27:12.052115+00:00"
+      "description": "",
+      "url": "https://www.businesswire.com/news/home/20251016418634/en/Battlefield-6-Shatters-Records-Becoming-the-Biggest-Launch-in-Franchise-History",
+      "publishedAt": "2025-10-16T15:01:00Z",
+      "processed_at": "2025-10-17T19:16:03.338034+00:00"
+    },
+    {
+      "title": "Nintendo Download: 16th October (North America) - Nintendo Life",
+      "source": {
+        "name": "Nintendo Life"
+      },
+      "description": "Pokémon! Just Dance! Lumo 2!...",
+      "url": "https://www.nintendolife.com/news/2025/10/nintendo-download-16th-october-north-america",
+      "publishedAt": "2025-10-16T14:50:00Z",
+      "processed_at": "2025-10-17T19:16:03.338034+00:00"
     },
     {
       "title": "Pokémon Legends: Z-A’s Worst Mega Evolution Is At Least Funny - Kotaku",
@@ -40,7 +90,7 @@
       "description": "Mega Starmie is a bit of a letdown, but at least the jokes are good...",
       "url": "https://kotaku.com/pokemon-legends-za-mega-starmie-patrick-star-jokes-2000636057",
       "publishedAt": "2025-10-16T14:38:18Z",
-      "processed_at": "2025-10-17T18:27:12.052115+00:00"
+      "processed_at": "2025-10-17T19:16:03.338034+00:00"
     },
     {
       "title": "M5 MacBook Pro vs M4 MacBook Pro: What’s actually changed? - 9to5Mac",
@@ -50,50 +100,10 @@
       "description": "M5 MacBook Pro vs M4 MacBook Pro: What’s actually changed with the new model? Not a lot. Here are fo...",
       "url": "https://9to5mac.com/2025/10/16/m5-macbook-pro-vs-m4-macbook-pro-whats-actually-changed/",
       "publishedAt": "2025-10-16T14:32:00Z",
-      "processed_at": "2025-10-17T18:27:12.052115+00:00"
-    },
-    {
-      "title": "Ugreen’s 8-port Thunderbolt 4 hub is $80 off - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "Ugreen’s eight-port Revodok Max 208 Thunderbolt 4 hub is $80 off at Amazon. You can also score a $15...",
-      "url": "https://www.theverge.com/tech/800682/ugreen-revodok-max-208-gopro-hero-13-deal-sale",
-      "publishedAt": "2025-10-16T14:20:00Z",
-      "processed_at": "2025-10-17T18:27:12.052115+00:00"
-    },
-    {
-      "title": "Exclusive: OpenAI hires black hole physicist in broader science push - Axios",
-      "source": {
-        "name": "Axios"
-      },
-      "description": "The ChatGPT maker wants to compete with Google DeepMind in the sciences....",
-      "url": "https://www.axios.com/2025/10/16/openai-science-black-hole-physicist",
-      "publishedAt": "2025-10-16T14:00:54Z",
-      "processed_at": "2025-10-17T18:27:12.052115+00:00"
-    },
-    {
-      "title": "Customize Your Game: New Accessories for ROG Xbox Ally Handhelds - Xbox Wire",
-      "source": {
-        "name": "Xbox.com"
-      },
-      "description": "With the launch of ROG Xbox Ally and ROG Xbox Ally X today, a new line-up of Designed for Xbox acces...",
-      "url": "https://news.xbox.com/en-us/2025/10/16/rog-xbox-ally-handheld-accessories/",
-      "publishedAt": "2025-10-16T13:04:31Z",
-      "processed_at": "2025-10-17T18:27:12.052115+00:00"
-    },
-    {
-      "title": "First real-life Galaxy S26 Ultra photo leaks, and something looks different - SamMobile",
-      "source": {
-        "name": "SamMobile"
-      },
-      "description": "While there were doubts about whether a Galaxy S26+ exists or not, one thing has always been certain...",
-      "url": "https://www.sammobile.com/news/samsung-galaxy-s26-ultra-case-photo-leak/",
-      "publishedAt": "2025-10-16T09:42:00Z",
-      "processed_at": "2025-10-17T18:27:12.052115+00:00"
+      "processed_at": "2025-10-17T19:16:03.338034+00:00"
     }
   ],
-  "lastUpdated": "2025-10-17T18:27:12.052193+00:00",
+  "lastUpdated": "2025-10-17T19:16:03.338112+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
