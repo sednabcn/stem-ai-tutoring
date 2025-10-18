@@ -1,6 +1,6 @@
 {
   "status": "success",
-  "totalResults": 10,
+  "totalResults": 9,
   "articles": [
     {
       "title": "Microsoft’s vision for AI PCs looks a lot like another crack at Cortana - Ars Technica",
@@ -10,7 +10,17 @@
       "description": "Copilot expands with an emphasis on creating and editing files, voice input....",
       "url": "https://arstechnica.com/gadgets/2025/10/microsofts-vision-for-ai-pcs-looks-a-lot-like-another-crack-at-cortana/",
       "publishedAt": "2025-10-16T21:12:48Z",
-      "processed_at": "2025-10-17T23:17:32.408816+00:00"
+      "processed_at": "2025-10-18T01:24:55.290464+00:00"
+    },
+    {
+      "title": "I Tried My Best to Completely Mess Up the Pilot of ‘Star Trek: Voyager’ - Gizmodo",
+      "source": {
+        "name": "Gizmodo.com"
+      },
+      "description": "'Across the Unknown,' the upcoming 'Star Trek: Voyager' video game that puts you in Captain Janeway'...",
+      "url": "https://gizmodo.com/star-trek-voyager-across-the-unknown-demo-impressions-2000673198",
+      "publishedAt": "2025-10-16T21:00:40Z",
+      "processed_at": "2025-10-18T01:24:55.290464+00:00"
     },
     {
       "title": "Apple Readies High-End MacBook Pro With Touch, Hole-Punch Screen - Bloomberg.com",
@@ -20,7 +30,17 @@
       "description": "Apple Inc. is preparing to finally launch a touch-screen version of its Mac computer, reversing cour...",
       "url": "https://www.bloomberg.com/news/articles/2025-10-16/apple-readies-high-end-macbook-pro-with-touch-hole-punch-screen",
       "publishedAt": "2025-10-16T18:52:31Z",
-      "processed_at": "2025-10-17T23:17:32.408816+00:00"
+      "processed_at": "2025-10-18T01:24:55.290464+00:00"
+    },
+    {
+      "title": "Pokémon Legends: Z-A Has Changed Shiny Hunting Forever, And Not Everyone’s Happy About It - Kotaku",
+      "source": {
+        "name": "Kotaku"
+      },
+      "description": "A major quality-of-life improvement is making it easier than ever to find these alternate-colored gu...",
+      "url": "https://kotaku.com/pokemon-legends-z-a-shiny-hunting-despawn-sound-effect-2000636142",
+      "publishedAt": "2025-10-16T17:59:05Z",
+      "processed_at": "2025-10-18T01:24:55.290464+00:00"
     },
     {
       "title": "Sanctuary Ignites with Itemization & Systems Changes — Diablo IV - Blizzard News",
@@ -30,17 +50,7 @@
       "description": "Preview the sweeping permanents changes coming to Itemization, Systems, and more, on both Seasonal a...",
       "url": "https://news.blizzard.com/en-us/article/24243142/sanctuary-ignites-with-itemization-systems-changes",
       "publishedAt": "2025-10-16T17:00:00Z",
-      "processed_at": "2025-10-17T23:17:32.408816+00:00"
-    },
-    {
-      "title": "Open source GZDoom community splinters after creator inserts AI-generated code - Ars Technica",
-      "source": {
-        "name": "Ars Technica"
-      },
-      "description": "UZDoom fork promises to fix other top-down leadership problems with the decades-old mod....",
-      "url": "https://arstechnica.com/gaming/2025/10/civil-war-gzdoom-fan-developers-split-off-over-use-of-chatgpt-generated-code/",
-      "publishedAt": "2025-10-16T16:48:00Z",
-      "processed_at": "2025-10-17T23:17:32.408816+00:00"
+      "processed_at": "2025-10-18T01:24:55.290464+00:00"
     },
     {
       "title": "A new wave of social media apps provide hope in a doomscrolling world - TechCrunch",
@@ -50,17 +60,7 @@
       "description": "“The platforms that won were the ones that kept people scrolling the longest, not the ones that made...",
       "url": "https://techcrunch.com/2025/10/16/a-new-wave-of-social-media-apps-provide-hope-in-a-doomscrolling-world/",
       "publishedAt": "2025-10-16T16:40:00Z",
-      "processed_at": "2025-10-17T23:17:32.408816+00:00"
-    },
-    {
-      "title": "Apple & NBCUniversal Announce New Bundled Stream Deal For Peacock & Apple TV - | Cord Cutters News",
-      "source": {
-        "name": "Cord Cutters News, LLC"
-      },
-      "description": "Apple and NBCUniversal today unveiled the Apple TV and Peacock Bundle, set to launch on October 20, ...",
-      "url": "https://cordcuttersnews.com/apple-nbcuniversal-announce-new-bundled-stream-deal-for-peacock-apple-tv/",
-      "publishedAt": "2025-10-16T16:15:27Z",
-      "processed_at": "2025-10-17T23:17:32.408816+00:00"
+      "processed_at": "2025-10-18T01:24:55.290464+00:00"
     },
     {
       "title": "Anthropic turns to ‘skills’ to make Claude more useful at work - The Verge",
@@ -70,7 +70,7 @@
       "description": "Anthropic has announced a new feature for its Claude AI chatbot called Skills, which should make AI ...",
       "url": "https://www.theverge.com/ai-artificial-intelligence/800868/anthropic-claude-skills-ai-agents",
       "publishedAt": "2025-10-16T16:00:00Z",
-      "processed_at": "2025-10-17T23:17:32.408816+00:00"
+      "processed_at": "2025-10-18T01:24:55.290464+00:00"
     },
     {
       "title": "Obsidian Entertainment On The Lessons Learned From The Outer Worlds - Game Informer",
@@ -80,17 +80,7 @@
       "description": "We spoke to the team behind The Outer Worlds 2 to learn more about the lessons learned from the firs...",
       "url": "https://gameinformer.com/exclusive/2025/10/16/obsidian-entertainment-on-the-lessons-learned-from-the-outer-worlds",
       "publishedAt": "2025-10-16T15:25:34Z",
-      "processed_at": "2025-10-17T23:17:32.408816+00:00"
-    },
-    {
-      "title": "Apple loses another AI exec to Meta - TechCrunch",
-      "source": {
-        "name": "TechCrunch"
-      },
-      "description": "Yang’s departure marks the latest in a string of exits from Apple’s AI unit, putting the company int...",
-      "url": "https://techcrunch.com/2025/10/16/apple-loses-another-ai-exec-to-meta/",
-      "publishedAt": "2025-10-16T15:21:03Z",
-      "processed_at": "2025-10-17T23:17:32.408816+00:00"
+      "processed_at": "2025-10-18T01:24:55.290464+00:00"
     },
     {
       "title": "Pinterest adds controls to let you limit the amount of ‘AI slop’ in your feed - TechCrunch",
@@ -100,10 +90,10 @@
       "description": "Pinterest is rolling out new controls that let users limit how much AI-generated content appears in ...",
       "url": "https://techcrunch.com/2025/10/16/pinterest-adds-controls-to-let-you-limit-the-amount-of-ai-slop-in-your-feed/",
       "publishedAt": "2025-10-16T15:15:50Z",
-      "processed_at": "2025-10-17T23:17:32.408816+00:00"
+      "processed_at": "2025-10-18T01:24:55.290464+00:00"
     }
   ],
-  "lastUpdated": "2025-10-17T23:17:32.408896+00:00",
+  "lastUpdated": "2025-10-18T01:24:55.290537+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
