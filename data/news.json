@@ -1,16 +1,46 @@
 {
   "status": "success",
-  "totalResults": 10,
+  "totalResults": 9,
   "articles": [
+    {
+      "title": "AirPods Pro 3 after one month: The most complicated upgrade yet - 9to5Mac",
+      "source": {
+        "name": "9to5Mac"
+      },
+      "description": "I upgraded to AirPods Pro 3 on day one, and my experience has been a little more complicated than I ...",
+      "url": "https://9to5mac.com/2025/10/17/airpods-pro-3-after-one-month-the-most-complicated-upgrade-yet/",
+      "publishedAt": "2025-10-17T19:13:00Z",
+      "processed_at": "2025-10-18T23:17:46.311184+00:00"
+    },
+    {
+      "title": "Pokémon Legends: Z-A Rotom Phone review: better camera, higher jumps - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "A smarter camera and beefed-up safety features make the third-gen Rotom Phone a solid upgrade....",
+      "url": "https://www.theverge.com/games/801113/pokemon-legends-za-rotom-phone-pokedex-review",
+      "publishedAt": "2025-10-17T18:52:06Z",
+      "processed_at": "2025-10-18T23:17:46.311184+00:00"
+    },
+    {
+      "title": "Apple is finally working on a touchscreen MacBook Pro - Mashable",
+      "source": {
+        "name": "Mashable"
+      },
+      "description": "The touchscreen will arrive in time for the M6 chip....",
+      "url": "https://mashable.com/article/apple-touchscreen-macbook-pro-report",
+      "publishedAt": "2025-10-17T16:41:15Z",
+      "processed_at": "2025-10-18T23:17:46.311184+00:00"
+    },
     {
       "title": "Arc Raiders already has servers slammed by almost 100,000 players in two hours, as weekend playtest starts - Eurogamer",
       "source": {
         "name": "Eurogamer.net"
       },
-      "description": "",
+      "description": "Arc Raiders already has servers slammed by almost 100,000 players in two hours, as weekend playtest ...",
       "url": "https://www.eurogamer.net/arc-raiders-already-has-servers-slammed-by-almost-100000-players-in-two-hours-as-weekend-playtest-starts",
       "publishedAt": "2025-10-17T16:09:18Z",
-      "processed_at": "2025-10-18T22:17:22.886860+00:00"
+      "processed_at": "2025-10-18T23:17:46.311184+00:00"
     },
     {
       "title": "Ghost Of Yōtei's Creators On Atsu: 'I See It As A Chapter Is Done' - Game Informer",
@@ -20,27 +50,37 @@
       "description": "We spoke with Ghost Of Yōtei's co-director and lead writer for a spoiler-filled conversation about t...",
       "url": "https://gameinformer.com/interview/2025/10/17/ghost-of-yoteis-creators-on-atsu-i-see-it-as-a-chapter-is-done",
       "publishedAt": "2025-10-17T16:06:02Z",
-      "processed_at": "2025-10-18T22:17:22.886860+00:00"
+      "processed_at": "2025-10-18T23:17:46.311184+00:00"
     },
     {
-      "title": "Apple Said to Cut iPhone Air Production Amid Underwhelming Sales - MacRumors",
+      "title": "Big Week For Unions At Blizzard As Hearthstone Team Also Votes ‘Yes’ - aftermath.site",
       "source": {
-        "name": "MacRumors"
+        "name": "Aftermath.site"
       },
-      "description": "Apple plans to cut production of the iPhone Air amid underwhelming sales performance, Japan's Mizuho...",
-      "url": "https://www.macrumors.com/2025/10/17/iphone-air-production-to-be-cut-amid-lower-sales/",
-      "publishedAt": "2025-10-17T15:29:39Z",
-      "processed_at": "2025-10-18T22:17:22.886860+00:00"
+      "description": "Hearthstone’s Team 5 is unionizing under Communications Workers of America, the group of workers ann...",
+      "url": "https://aftermath.site/hearthstone-union-blizzard",
+      "publishedAt": "2025-10-17T16:00:00Z",
+      "processed_at": "2025-10-18T23:17:46.311184+00:00"
     },
     {
       "title": "Keeper: A Note from Its Creator on Launch Day - Xbox Wire",
       "source": {
         "name": "Xbox.com"
       },
-      "description": "",
+      "description": "Keeper, the otherworld new adventure from Double Fine, arrives today - read a note from Creative Lea...",
       "url": "https://news.xbox.com/en-us/2025/10/17/keeper-launch-day-note-from-creator/",
       "publishedAt": "2025-10-17T15:00:55Z",
-      "processed_at": "2025-10-18T22:17:22.886860+00:00"
+      "processed_at": "2025-10-18T23:17:46.311184+00:00"
+    },
+    {
+      "title": "How do I prepare my phone for a protest? - LAist",
+      "source": {
+        "name": "LAist"
+      },
+      "description": "Simple steps to take before hitting the streets....",
+      "url": "https://laist.com/news/how-do-i-prepare-my-phone-for-a-protest",
+      "publishedAt": "2025-10-17T15:00:00Z",
+      "processed_at": "2025-10-18T23:17:46.311184+00:00"
     },
     {
       "title": "New iPhone Fold rumor details screen sizes, possible launch delay - 9to5Mac",
@@ -50,60 +90,10 @@
       "description": "A new report offers fresh updates on the screen sizes to expect from Apple’s iPhone Fold and the pos...",
       "url": "https://9to5mac.com/2025/10/17/new-iphone-fold-rumor-details-screen-sizes-possible-launch-delay/",
       "publishedAt": "2025-10-17T14:45:00Z",
-      "processed_at": "2025-10-18T22:17:22.886860+00:00"
-    },
-    {
-      "title": "M5 Chip Achieves Impressive Feat in 14-Inch MacBook Pro Speed Test - MacRumors",
-      "source": {
-        "name": "MacRumors"
-      },
-      "description": "The first alleged benchmark result for the M5 chip in the new 14-inch MacBook Pro has surfaced, allo...",
-      "url": "https://www.macrumors.com/2025/10/17/m5-chip-macbook-pro-geekbench-benchmark/",
-      "publishedAt": "2025-10-17T14:10:43Z",
-      "processed_at": "2025-10-18T22:17:22.886860+00:00"
-    },
-    {
-      "title": "ROG Xbox Ally X sells out, despite disdain for shifts in Microsoft's gaming strategy - NPR",
-      "source": {
-        "name": "NPR"
-      },
-      "description": "The Xbox Ally X isn't the handheld console the name implies. But it's still sold out, despite debuti...",
-      "url": "https://www.npr.org/2025/10/17/nx-s1-5508232/rog-xbox-ally-x-review-handheld-gaming",
-      "publishedAt": "2025-10-17T14:00:00Z",
-      "processed_at": "2025-10-18T22:17:22.886860+00:00"
-    },
-    {
-      "title": "Roundup: Here's What The Reviews Are Saying About Vampire: The Masquerade - Bloodlines 2 - Pure Xbox",
-      "source": {
-        "name": "Pure Xbox"
-      },
-      "description": "It's finally coming out!...",
-      "url": "https://www.purexbox.com/news/2025/10/roundup-heres-what-the-reviews-are-saying-about-vampire-the-masquerade-bloodlines-2",
-      "publishedAt": "2025-10-17T13:45:00Z",
-      "processed_at": "2025-10-18T22:17:22.886860+00:00"
-    },
-    {
-      "title": "Samsung has pulled the Galaxy S24 One UI 8 update you already installed - SamMobile",
-      "source": {
-        "name": "SamMobile"
-      },
-      "description": "It seems Samsung is discovering bugs that slipped through the cracks in the One UI 8 update for mult...",
-      "url": "https://www.sammobile.com/news/samsung-galaxy-s24-plus-ultra-one-ui-8-rollout-stopped/",
-      "publishedAt": "2025-10-17T13:33:00Z",
-      "processed_at": "2025-10-18T22:17:22.886860+00:00"
-    },
-    {
-      "title": "Battlefield 6 developers U-turn on a multiplayer adjustment following community feedback - Eurogamer",
-      "source": {
-        "name": "Eurogamer.net"
-      },
-      "description": "Battlefield 6 developers U-Turn on a multiplayer adjustment following community feedback....",
-      "url": "https://www.eurogamer.net/battlefield-6-developers-u-turn-on-a-multiplayer-adjustment-following-community-feedback",
-      "publishedAt": "2025-10-17T13:12:15Z",
-      "processed_at": "2025-10-18T22:17:22.886860+00:00"
+      "processed_at": "2025-10-18T23:17:46.311184+00:00"
     }
   ],
-  "lastUpdated": "2025-10-18T22:17:22.886931+00:00",
+  "lastUpdated": "2025-10-18T23:17:46.311258+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
