@@ -3,6 +3,46 @@
   "totalResults": 10,
   "articles": [
     {
+      "title": "PSA: If you don’t like the new Preview app on iOS 26, there’s an easy fix for it - 9to5Mac",
+      "source": {
+        "name": "9to5Mac"
+      },
+      "description": "With iOS 26, Apple introduced a new app on iPhone and iPad: Preview. This app has been on the Mac......",
+      "url": "https://9to5mac.com/2025/10/18/ios-26-preview-app-psa/",
+      "publishedAt": "2025-10-18T18:05:00Z",
+      "processed_at": "2025-10-19T19:15:09.535973+00:00"
+    },
+    {
+      "title": "TiVo won the court battles, but lost the TV war - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "TiVo wasted its prime years protecting a patent that no longer matters, winning courtroom battles, b...",
+      "url": "https://www.theverge.com/tech/802254/tivo-time-warp-patent-courtoom-battles-lost-tv-war",
+      "publishedAt": "2025-10-18T16:00:00Z",
+      "processed_at": "2025-10-19T19:15:09.535973+00:00"
+    },
+    {
+      "title": "I Accomplished a Monumental Sexual Feat. Then I Did Something So, So Embarrassing. - Slate",
+      "source": {
+        "name": "Slate Magazine"
+      },
+      "description": "She was cool about it, but I know it was weird for her....",
+      "url": "https://slate.com/advice/2025/10/sex-advice-crying-divorce-date-embarrassing.html",
+      "publishedAt": "2025-10-18T16:00:00Z",
+      "processed_at": "2025-10-19T19:15:09.535973+00:00"
+    },
+    {
+      "title": "Motorola’s Razr Ultra and the Marshall Emberton II top this week’s best deals - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "Motorola’s Razr Ultra is down to $999.99 for a limited time. Marshall’s Emberton II speaker and Ugre...",
+      "url": "https://www.theverge.com/tech/801962/motorola-razr-ultra-2025-foldable-marshall-emberton-ii-speaker-deal-sale",
+      "publishedAt": "2025-10-18T15:44:48Z",
+      "processed_at": "2025-10-19T19:15:09.535973+00:00"
+    },
+    {
       "title": "Video: Final Fantasy VII Remake Intergrade Official Side-By-Side Comparison (Switch 2, Xbox, PS5, PC) - Nintendo Life",
       "source": {
         "name": "Nintendo Life"
@@ -10,17 +50,37 @@
       "description": "Take a look...",
       "url": "https://www.nintendolife.com/news/2025/10/video-final-fantasy-vii-remake-intergrade-official-side-by-side-comparison-switch-2-xbox-ps5-pc",
       "publishedAt": "2025-10-18T15:30:00Z",
-      "processed_at": "2025-10-19T18:26:23.887443+00:00"
+      "processed_at": "2025-10-19T19:15:09.535973+00:00"
     },
     {
-      "title": "Talking Point: How Do You Play NES Games These Days? - Nintendo Life",
+      "title": "8BitDo’s new collection celebrates the NES’s 40th anniversary - The Verge",
       "source": {
-        "name": "Nintendo Life"
+        "name": "The Verge"
       },
-      "description": "Or, do you even play NES games?...",
-      "url": "https://www.nintendolife.com/features/talking-point-how-do-you-play-nes-games-these-days",
-      "publishedAt": "2025-10-18T14:13:20Z",
-      "processed_at": "2025-10-19T18:26:23.887443+00:00"
+      "description": "8BitDo’s new NES40 collection celebrates Nintendo’s iconic 8-bit console with updated versions of it...",
+      "url": "https://www.theverge.com/news/801832/8bitdo-nintendo-nes-ultimate-2-controller-retro-keyboard-bluetooth-cube-speaker",
+      "publishedAt": "2025-10-18T15:00:00Z",
+      "processed_at": "2025-10-19T19:15:09.535973+00:00"
+    },
+    {
+      "title": "10 Of The Most Useful USB Gadgets You Can Find On Amazon - bgr.com",
+      "source": {
+        "name": "BGR"
+      },
+      "description": "Discover the 10 most useful USB gadgets on Amazon for work, travel, and home, including a USB-C hub,...",
+      "url": "https://www.bgr.com/1997208/most-useful-usb-gadget-amazon/",
+      "publishedAt": "2025-10-18T14:02:00Z",
+      "processed_at": "2025-10-19T19:15:09.535973+00:00"
+    },
+    {
+      "title": "Pokémon Legends: Z-A makes a big, welcome change for shiny hunters - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "Unlike in previous Pokémon games, shiny pokémon in Legends: Z-A won’t disappear when you walk away, ...",
+      "url": "https://www.theverge.com/games/802089/pokemon-legends-z-a-shiny-hunting",
+      "publishedAt": "2025-10-18T14:00:00Z",
+      "processed_at": "2025-10-19T19:15:09.535973+00:00"
     },
     {
       "title": "Apple TV Revs Up to Compete, For Real, In Streaming - The Hollywood Reporter",
@@ -30,7 +90,7 @@
       "description": "A \"vibrant\" rebrand, a major bundling pact with NBCUniversal and a blockbuster $750 million deal to ...",
       "url": "http://www.hollywoodreporter.com/business/business-news/apple-tv-streaming-f1-peacock-bundle-rebrand-1236404227/",
       "publishedAt": "2025-10-18T13:05:27Z",
-      "processed_at": "2025-10-19T18:26:23.887443+00:00"
+      "processed_at": "2025-10-19T19:15:09.535973+00:00"
     },
     {
       "title": "Update Microsoft Windows Now — New 2 Week Security Deadline Confirmed - Forbes",
@@ -40,70 +100,10 @@
       "description": "Microsoft Windows 10 and 11 users are at risk from two new security threats — update before the CISA...",
       "url": "https://www.forbes.com/sites/daveywinder/2025/10/18/update-microsoft-windows-now---new-2-week-security-deadline-confirmed/",
       "publishedAt": "2025-10-18T13:01:47Z",
-      "processed_at": "2025-10-19T18:26:23.887443+00:00"
-    },
-    {
-      "title": "How did the Braves let Kevin Gausman get away? - Battery Power",
-      "source": {
-        "name": "Batterypower.com"
-      },
-      "description": "",
-      "url": "https://www.batterypower.com/community/121374/kevin-gausman-get-away-atlanta-braves-mlb-question",
-      "publishedAt": "2025-10-18T13:00:00Z",
-      "processed_at": "2025-10-19T18:26:23.887443+00:00"
-    },
-    {
-      "title": "Easy Delivery Co. is a cozy, Lynchian dream - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "Easy Delivery Co., which is available now on Steam, is a lo-fi driving game with a surreal edge....",
-      "url": "https://www.theverge.com/games/800733/easy-delivery-co-review-steam",
-      "publishedAt": "2025-10-18T13:00:00Z",
-      "processed_at": "2025-10-19T18:26:23.887443+00:00"
-    },
-    {
-      "title": "Most affordable Galaxy Z Fold 7 now $400 off at Amazon and Best Buy - 9to5Toys",
-      "source": {
-        "name": "9to5Toys"
-      },
-      "description": "While did see the upgraded 512GB model for less than we are right now during Prime Day, Amazon has n...",
-      "url": "http://9to5toys.com/2025/10/18/most-affordable-galaxy-z-fold-7-deal/",
-      "publishedAt": "2025-10-18T12:39:00Z",
-      "processed_at": "2025-10-19T18:26:23.887443+00:00"
-    },
-    {
-      "title": "Game over. AGI is not imminent, and LLMs are not the royal road to getting there. - Marcus on AI",
-      "source": {
-        "name": "Substack.com"
-      },
-      "description": "First slowly, and then all at once, dreams of LLMs bringing us to the cusp of AGI have fallen apart....",
-      "url": "https://garymarcus.substack.com/p/the-last-few-months-have-been-devastating",
-      "publishedAt": "2025-10-18T12:16:26Z",
-      "processed_at": "2025-10-19T18:26:23.887443+00:00"
-    },
-    {
-      "title": "Google is preparing big screen recording upgrades for Android tablets and PCs - Android Authority",
-      "source": {
-        "name": "Android Authority"
-      },
-      "description": "Google is making Android’s screen recorder better on large screen devices like tablets and PCs. Here...",
-      "url": "https://www.androidauthority.com/android-screen-recorder-toolbar-rumor-3608449/",
-      "publishedAt": "2025-10-18T11:41:10Z",
-      "processed_at": "2025-10-19T18:26:23.887443+00:00"
-    },
-    {
-      "title": "4 Unexpected Cars That Came With Toyota's 2JZ Engine - Jalopnik",
-      "source": {
-        "name": "Jalopnik"
-      },
-      "description": "The 2JZ engine is known to be a rugged engine that has the potential to produce high-horsepower. Her...",
-      "url": "https://www.jalopnik.com/1996497/surprising-cars-toyota-2jz-engine/",
-      "publishedAt": "2025-10-18T09:25:00Z",
-      "processed_at": "2025-10-19T18:26:23.887443+00:00"
+      "processed_at": "2025-10-19T19:15:09.535973+00:00"
     }
   ],
-  "lastUpdated": "2025-10-19T18:26:23.887529+00:00",
+  "lastUpdated": "2025-10-19T19:15:09.536056+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
