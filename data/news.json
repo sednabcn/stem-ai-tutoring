@@ -1,99 +1,109 @@
 {
   "status": "success",
-  "totalResults": 9,
+  "totalResults": 10,
   "articles": [
     {
-      "title": "ALCS, 3-2: Chart - Lookout Landing",
+      "title": "Talking Point: How Do You Play NES Games These Days? - Nintendo Life",
       "source": {
-        "name": "Lookout Landing"
+        "name": "Nintendo Life"
       },
-      "description": "I’m not crying. You’re crying....",
-      "url": "https://www.lookoutlanding.com/mariners-charts/136277/alcs-3-2-chart",
-      "publishedAt": "2025-10-18T01:11:00Z",
-      "processed_at": "2025-10-19T14:16:56.517834+00:00"
+      "description": "Or, do you even play NES games?...",
+      "url": "https://www.nintendolife.com/features/talking-point-how-do-you-play-nes-games-these-days",
+      "publishedAt": "2025-10-18T14:13:20Z",
+      "processed_at": "2025-10-19T15:17:57.574796+00:00"
     },
     {
-      "title": "Facebook’s new button lets its AI look at photos you haven’t uploaded yet - The Verge",
+      "title": "Apple TV Revs Up to Compete, For Real, In Streaming - The Hollywood Reporter",
       "source": {
-        "name": "The Verge"
+        "name": "Hollywood Reporter"
       },
-      "description": "Meta’s Facebook rolled out an AI editing feature that edits your phone’s camera roll — and trains it...",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/802102/meta-facebook-opt-in-ai-edits-photos-camera-roll",
-      "publishedAt": "2025-10-18T00:15:00Z",
-      "processed_at": "2025-10-19T14:16:56.517834+00:00"
+      "description": "A \"vibrant\" rebrand, a major bundling pact with NBCUniversal and a blockbuster $750 million deal to ...",
+      "url": "http://www.hollywoodreporter.com/business/business-news/apple-tv-streaming-f1-peacock-bundle-rebrand-1236404227/",
+      "publishedAt": "2025-10-18T13:05:27Z",
+      "processed_at": "2025-10-19T15:17:57.574796+00:00"
     },
     {
-      "title": "Plants vs. Zombies: Replanted leaks, game appears to have various issues - Nintendo Everything",
+      "title": "Update Microsoft Windows Now — New 2 Week Security Deadline Confirmed - Forbes",
       "source": {
-        "name": "Nintendoeverything.com"
+        "name": "Forbes"
       },
-      "description": "Plants vs. Zombies: Replanted accidentally leaks a few days before launch, and fans have come across...",
-      "url": "https://nintendoeverything.com/plants-vs-zombies-replanted-leak-issues/",
-      "publishedAt": "2025-10-17T22:04:57Z",
-      "processed_at": "2025-10-19T14:16:56.517834+00:00"
+      "description": "Microsoft Windows 10 and 11 users are at risk from two new security threats — update before the CISA...",
+      "url": "https://www.forbes.com/sites/daveywinder/2025/10/18/update-microsoft-windows-now---new-2-week-security-deadline-confirmed/",
+      "publishedAt": "2025-10-18T13:01:47Z",
+      "processed_at": "2025-10-19T15:17:57.574796+00:00"
     },
     {
-      "title": "Ferrari Just Built a New F40 Tribute as a One-Off - Road & Track",
+      "title": "Game over. AGI is not imminent, and LLMs are not the royal road to getting there. - Marcus on AI",
       "source": {
-        "name": "RoadandTrack.com"
+        "name": "Substack.com"
       },
-      "description": "The \"architecture, chassis, and powertrain\" of a 296 GTB sit at the heart of this ultra-exclusive we...",
-      "url": "https://www.roadandtrack.com/news/a69076549/ferraris-296-f40-tribute/",
-      "publishedAt": "2025-10-17T20:45:00Z",
-      "processed_at": "2025-10-19T14:16:56.517834+00:00"
+      "description": "First slowly, and then all at once, dreams of LLMs bringing us to the cusp of AGI have fallen apart....",
+      "url": "https://garymarcus.substack.com/p/the-last-few-months-have-been-devastating",
+      "publishedAt": "2025-10-18T12:16:26Z",
+      "processed_at": "2025-10-19T15:17:57.574796+00:00"
     },
     {
-      "title": "Some of Our Favorite Noise-Canceling Headphones Are $100 Off if You Act Fast - WIRED",
+      "title": "4 Unexpected Cars That Came With Toyota's 2JZ Engine - Jalopnik",
       "source": {
-        "name": "Wired"
+        "name": "Jalopnik"
       },
-      "description": "The Bose QuietComfort Ultra get a rare discount until the end of the day....",
-      "url": "https://www.wired.com/story/bose-quietcomfort-ultra-deal-1025/",
-      "publishedAt": "2025-10-17T20:12:00Z",
-      "processed_at": "2025-10-19T14:16:56.517834+00:00"
+      "description": "The 2JZ engine is known to be a rugged engine that has the potential to produce high-horsepower. Her...",
+      "url": "https://www.jalopnik.com/1996497/surprising-cars-toyota-2jz-engine/",
+      "publishedAt": "2025-10-18T09:25:00Z",
+      "processed_at": "2025-10-19T15:17:57.574796+00:00"
     },
     {
-      "title": "Apple iPhone 17 Review - IGN",
-      "source": {
-        "name": "IGN"
-      },
-      "description": "Apple's best entry-level iPhone in years....",
-      "url": "https://www.ign.com/articles/apple-iphone-17-review",
-      "publishedAt": "2025-10-17T20:08:44Z",
-      "processed_at": "2025-10-19T14:16:56.517834+00:00"
-    },
-    {
-      "title": "Ally Arrives: Xbox President Sarah Bond Explains New Handhelds Steep Price, Prioritizing ‘Windows Experience’ and Next-Gen Console Plans Heading Into 2026 - Variety",
-      "source": {
-        "name": "Variety"
-      },
-      "description": "Xbox president Sarah Bond discusses the release of Xbox's Ally handheld device, including the price ...",
-      "url": "https://variety.com/2025/gaming/news/xbox-ally-handheld-release-president-sarah-bond-interview-1236555575/",
-      "publishedAt": "2025-10-17T19:19:00Z",
-      "processed_at": "2025-10-19T14:16:56.517834+00:00"
-    },
-    {
-      "title": "AirPods Pro 3 after one month: The most complicated upgrade yet - 9to5Mac",
-      "source": {
-        "name": "9to5Mac"
-      },
-      "description": "I upgraded to AirPods Pro 3 on day one, and my experience has been a little more complicated than I ...",
-      "url": "https://9to5mac.com/2025/10/17/airpods-pro-3-after-one-month-the-most-complicated-upgrade-yet/",
-      "publishedAt": "2025-10-17T19:13:00Z",
-      "processed_at": "2025-10-19T14:16:56.517834+00:00"
-    },
-    {
-      "title": "How To Catch All Legendary Pokemon In Pokemon Legends: Z-A - Zygarde, Xerneas, And Yveltal Locations - GameSpot",
+      "title": "Clair Obscur: Expedition 33's Amazon-Exclusive Edition Launches Next Month - GameSpot",
       "source": {
         "name": "GameSpot"
       },
-      "description": "Prove that you're a worthy trainer by catching Legendary Pokemon like Zygarde, Yveltal, and Xerneas ...",
-      "url": "https://www.gamespot.com/gallery/pokemon-legends-za-legendary-pokemon-zygarde-xerneas-yveltal-guide/2900-7148/",
-      "publishedAt": "2025-10-17T18:53:26Z",
-      "processed_at": "2025-10-19T14:16:56.517834+00:00"
+      "description": "The Mirror Edition for PS5 and Xbox includes a steelbook and trading cards, and it only costs $10 mo...",
+      "url": "https://www.gamespot.com/articles/clair-obscur-expedition-33-amazon-exclusive-mirror-edition-release-date-buying-guide/1100-6528999/",
+      "publishedAt": "2025-10-18T09:15:52Z",
+      "processed_at": "2025-10-19T15:17:57.574796+00:00"
+    },
+    {
+      "title": "Xbox Game Pass loses three more games in October 2025 - TrueAchievements",
+      "source": {
+        "name": "TrueAchievements"
+      },
+      "description": "Another three games, including Return to Monkey Island and Metal Slug Tactics, will leave Xbox Game ...",
+      "url": "https://www.trueachievements.com/news/xbox-game-pass-leaving-soon-october-2025-wave-2",
+      "publishedAt": "2025-10-18T09:15:26Z",
+      "processed_at": "2025-10-19T15:17:57.574796+00:00"
+    },
+    {
+      "title": "8BitDo Announces 'NES40 Collection' Of Peripherals, And They're Up For Pre-Order Today - Nintendo Life",
+      "source": {
+        "name": "Nintendo Life"
+      },
+      "description": "Celebrate four decades of play, design and memory...",
+      "url": "https://www.nintendolife.com/news/2025/10/8bitdo-announces-nes40-collection-of-peripherals-and-theyre-up-for-pre-order-today",
+      "publishedAt": "2025-10-18T07:00:00Z",
+      "processed_at": "2025-10-19T15:17:57.574796+00:00"
+    },
+    {
+      "title": "Two More Switch Games Have Received Compatibility Updates On Switch 2 - Nintendo Life",
+      "source": {
+        "name": "Nintendo Life"
+      },
+      "description": "Issues with Star Wars and PvZ have been resolved...",
+      "url": "https://www.nintendolife.com/news/2025/10/two-more-switch-games-have-received-compatibility-updates-on-switch-2",
+      "publishedAt": "2025-10-18T05:00:00Z",
+      "processed_at": "2025-10-19T15:17:57.574796+00:00"
+    },
+    {
+      "title": "The value of advertising on premium media - The Trade Desk",
+      "source": {
+        "name": "Thetradedesk.com"
+      },
+      "description": "Our latest report investigates what makes media “premium,” its advantages over cheap reach, and why ...",
+      "url": "https://www.thetradedesk.com/insights/premium-media-report",
+      "publishedAt": "2025-10-18T01:58:08Z",
+      "processed_at": "2025-10-19T15:17:57.574796+00:00"
     }
   ],
-  "lastUpdated": "2025-10-19T14:16:56.517905+00:00",
+  "lastUpdated": "2025-10-19T15:17:57.574872+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
