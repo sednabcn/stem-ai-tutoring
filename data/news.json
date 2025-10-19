@@ -1,7 +1,27 @@
 {
   "status": "success",
-  "totalResults": 10,
+  "totalResults": 9,
   "articles": [
+    {
+      "title": "Bit-banged 100 MBit/s Ethernet Transmission On Raspberry Pi Pico - Hackaday",
+      "source": {
+        "name": "Hackaday"
+      },
+      "description": "The Raspberry Pi Pico is a very capable board, but it’s still a surprise to see bit-banged 100 MBit/...",
+      "url": "https://hackaday.com/2025/10/18/bit-banged-100-mbit-s-ethernet-transmission-on-raspberry-pi-pico/",
+      "publishedAt": "2025-10-18T20:00:00Z",
+      "processed_at": "2025-10-19T21:16:48.652900+00:00"
+    },
+    {
+      "title": "Devs working on Hearthstone and Warcraft Rumble join 1900 other Activision Blizzard staff in unionising - Eurogamer",
+      "source": {
+        "name": "Eurogamer.net"
+      },
+      "description": "Workers in Blizzard's Hearthstone and Warcraft Rumble teams have voted to unionise with the Communic...",
+      "url": "https://www.eurogamer.net/devs-working-on-hearthstone-and-warcraft-rumble-join-1900-other-activision-blizzard-staff-in-unionising",
+      "publishedAt": "2025-10-18T18:41:46Z",
+      "processed_at": "2025-10-19T21:16:48.652900+00:00"
+    },
     {
       "title": "PSA: If you don’t like the new Preview app on iOS 26, there’s an easy fix for it - 9to5Mac",
       "source": {
@@ -10,7 +30,27 @@
       "description": "With iOS 26, Apple introduced a new app on iPhone and iPad: Preview. This app has been on the Mac......",
       "url": "https://9to5mac.com/2025/10/18/ios-26-preview-app-psa/",
       "publishedAt": "2025-10-18T18:05:00Z",
-      "processed_at": "2025-10-19T20:20:42.905069+00:00"
+      "processed_at": "2025-10-19T21:16:48.652900+00:00"
+    },
+    {
+      "title": "iOS 26.1 to iOS 26.4 Will Add These New Features to Your iPhone - MacRumors",
+      "source": {
+        "name": "MacRumors"
+      },
+      "description": "iOS 26 was released last month, but the software train never stops, and iOS 26.1 beta testing is alr...",
+      "url": "https://www.macrumors.com/2025/10/18/ios-26-1-to-ios-26-4-expected-features/",
+      "publishedAt": "2025-10-18T18:00:00Z",
+      "processed_at": "2025-10-19T21:16:48.652900+00:00"
+    },
+    {
+      "title": "New iPad Pro Has Six Key Upgrades Beyond M5 Chip - MacRumors",
+      "source": {
+        "name": "MacRumors"
+      },
+      "description": "While the new iPad Pro's headline feature is the M5 chip, the device has some other changes, includi...",
+      "url": "https://www.macrumors.com/2025/10/18/new-ipad-pro-six-key-upgrades/",
+      "publishedAt": "2025-10-18T17:57:56Z",
+      "processed_at": "2025-10-19T21:16:48.652900+00:00"
     },
     {
       "title": "TiVo won the court battles, but lost the TV war - The Verge",
@@ -20,7 +60,7 @@
       "description": "TiVo wasted its prime years protecting a patent that no longer matters, winning courtroom battles, b...",
       "url": "https://www.theverge.com/tech/802254/tivo-time-warp-patent-courtoom-battles-lost-tv-war",
       "publishedAt": "2025-10-18T16:00:00Z",
-      "processed_at": "2025-10-19T20:20:42.905069+00:00"
+      "processed_at": "2025-10-19T21:16:48.652900+00:00"
     },
     {
       "title": "I Accomplished a Monumental Sexual Feat. Then I Did Something So, So Embarrassing. - Slate",
@@ -30,7 +70,7 @@
       "description": "She was cool about it, but I know it was weird for her....",
       "url": "https://slate.com/advice/2025/10/sex-advice-crying-divorce-date-embarrassing.html",
       "publishedAt": "2025-10-18T16:00:00Z",
-      "processed_at": "2025-10-19T20:20:42.905069+00:00"
+      "processed_at": "2025-10-19T21:16:48.652900+00:00"
     },
     {
       "title": "Motorola’s Razr Ultra and the Marshall Emberton II top this week’s best deals - The Verge",
@@ -40,7 +80,7 @@
       "description": "Motorola’s Razr Ultra is down to $999.99 for a limited time. Marshall’s Emberton II speaker and Ugre...",
       "url": "https://www.theverge.com/tech/801962/motorola-razr-ultra-2025-foldable-marshall-emberton-ii-speaker-deal-sale",
       "publishedAt": "2025-10-18T15:44:48Z",
-      "processed_at": "2025-10-19T20:20:42.905069+00:00"
+      "processed_at": "2025-10-19T21:16:48.652900+00:00"
     },
     {
       "title": "Video: Final Fantasy VII Remake Intergrade Official Side-By-Side Comparison (Switch 2, Xbox, PS5, PC) - Nintendo Life",
@@ -50,60 +90,10 @@
       "description": "Take a look...",
       "url": "https://www.nintendolife.com/news/2025/10/video-final-fantasy-vii-remake-intergrade-official-side-by-side-comparison-switch-2-xbox-ps5-pc",
       "publishedAt": "2025-10-18T15:30:00Z",
-      "processed_at": "2025-10-19T20:20:42.905069+00:00"
-    },
-    {
-      "title": "8BitDo’s new collection celebrates the NES’s 40th anniversary - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "8BitDo’s new NES40 collection celebrates Nintendo’s iconic 8-bit console with updated versions of it...",
-      "url": "https://www.theverge.com/news/801832/8bitdo-nintendo-nes-ultimate-2-controller-retro-keyboard-bluetooth-cube-speaker",
-      "publishedAt": "2025-10-18T15:00:00Z",
-      "processed_at": "2025-10-19T20:20:42.905069+00:00"
-    },
-    {
-      "title": "10 Of The Most Useful USB Gadgets You Can Find On Amazon - bgr.com",
-      "source": {
-        "name": "BGR"
-      },
-      "description": "Discover the 10 most useful USB gadgets on Amazon for work, travel, and home, including a USB-C hub,...",
-      "url": "https://www.bgr.com/1997208/most-useful-usb-gadget-amazon/",
-      "publishedAt": "2025-10-18T14:02:00Z",
-      "processed_at": "2025-10-19T20:20:42.905069+00:00"
-    },
-    {
-      "title": "Pokémon Legends: Z-A makes a big, welcome change for shiny hunters - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "Unlike in previous Pokémon games, shiny pokémon in Legends: Z-A won’t disappear when you walk away, ...",
-      "url": "https://www.theverge.com/games/802089/pokemon-legends-z-a-shiny-hunting",
-      "publishedAt": "2025-10-18T14:00:00Z",
-      "processed_at": "2025-10-19T20:20:42.905069+00:00"
-    },
-    {
-      "title": "Apple TV Revs Up to Compete, For Real, In Streaming - The Hollywood Reporter",
-      "source": {
-        "name": "Hollywood Reporter"
-      },
-      "description": "A \"vibrant\" rebrand, a major bundling pact with NBCUniversal and a blockbuster $750 million deal to ...",
-      "url": "http://www.hollywoodreporter.com/business/business-news/apple-tv-streaming-f1-peacock-bundle-rebrand-1236404227/",
-      "publishedAt": "2025-10-18T13:05:27Z",
-      "processed_at": "2025-10-19T20:20:42.905069+00:00"
-    },
-    {
-      "title": "Update Microsoft Windows Now — New 2 Week Security Deadline Confirmed - Forbes",
-      "source": {
-        "name": "Forbes"
-      },
-      "description": "Microsoft Windows 10 and 11 users are at risk from two new security threats — update before the CISA...",
-      "url": "https://www.forbes.com/sites/daveywinder/2025/10/18/update-microsoft-windows-now---new-2-week-security-deadline-confirmed/",
-      "publishedAt": "2025-10-18T13:01:47Z",
-      "processed_at": "2025-10-19T20:20:42.905069+00:00"
+      "processed_at": "2025-10-19T21:16:48.652900+00:00"
     }
   ],
-  "lastUpdated": "2025-10-19T20:20:42.905145+00:00",
+  "lastUpdated": "2025-10-19T21:16:48.652972+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
