@@ -1,6 +1,6 @@
 {
   "status": "success",
-  "totalResults": 9,
+  "totalResults": 10,
   "articles": [
     {
       "title": "AirPods Pro 3 after one month: The most complicated upgrade yet - 9to5Mac",
@@ -10,17 +10,37 @@
       "description": "I upgraded to AirPods Pro 3 on day one, and my experience has been a little more complicated than I ...",
       "url": "https://9to5mac.com/2025/10/17/airpods-pro-3-after-one-month-the-most-complicated-upgrade-yet/",
       "publishedAt": "2025-10-17T19:13:00Z",
-      "processed_at": "2025-10-18T23:17:46.311184+00:00"
+      "processed_at": "2025-10-19T01:47:10.579897+00:00"
     },
     {
-      "title": "Pokémon Legends: Z-A Rotom Phone review: better camera, higher jumps - The Verge",
+      "title": "How To Catch All Legendary Pokemon In Pokemon Legends: Z-A - Zygarde, Xerneas, And Yveltal Locations - GameSpot",
       "source": {
-        "name": "The Verge"
+        "name": "GameSpot"
       },
-      "description": "A smarter camera and beefed-up safety features make the third-gen Rotom Phone a solid upgrade....",
-      "url": "https://www.theverge.com/games/801113/pokemon-legends-za-rotom-phone-pokedex-review",
-      "publishedAt": "2025-10-17T18:52:06Z",
-      "processed_at": "2025-10-18T23:17:46.311184+00:00"
+      "description": "Prove that you're a worthy trainer by catching Legendary Pokemon like Zygarde, Yveltal, and Xerneas ...",
+      "url": "https://www.gamespot.com/gallery/pokemon-legends-za-legendary-pokemon-zygarde-xerneas-yveltal-guide/2900-7148/",
+      "publishedAt": "2025-10-17T18:53:26Z",
+      "processed_at": "2025-10-19T01:47:10.579897+00:00"
+    },
+    {
+      "title": "WhatsApp to test monthly cap for unsanswered messages - 9to5Mac",
+      "source": {
+        "name": "9to5Mac"
+      },
+      "description": "To curb WhatsApp’s growing spam problem, Meta will begin testing a limit for how many messages users...",
+      "url": "https://9to5mac.com/2025/10/17/whatsapp-to-restrict-how-many-messages-users-can-send-without-replies/",
+      "publishedAt": "2025-10-17T18:34:00Z",
+      "processed_at": "2025-10-19T01:47:10.579897+00:00"
+    },
+    {
+      "title": "Facebook’s AI can now suggest edits to the photos still on your phone - TechCrunch",
+      "source": {
+        "name": "TechCrunch"
+      },
+      "description": "Facebook is rolling out a new Meta AI photo suggestion feature across the U.S. and Canada that lets ...",
+      "url": "https://techcrunch.com/2025/10/17/facebooks-ai-can-now-suggest-edits-to-the-photos-still-on-your-phone/",
+      "publishedAt": "2025-10-17T17:29:47Z",
+      "processed_at": "2025-10-19T01:47:10.579897+00:00"
     },
     {
       "title": "Apple is finally working on a touchscreen MacBook Pro - Mashable",
@@ -30,7 +50,7 @@
       "description": "The touchscreen will arrive in time for the M6 chip....",
       "url": "https://mashable.com/article/apple-touchscreen-macbook-pro-report",
       "publishedAt": "2025-10-17T16:41:15Z",
-      "processed_at": "2025-10-18T23:17:46.311184+00:00"
+      "processed_at": "2025-10-19T01:47:10.579897+00:00"
     },
     {
       "title": "Arc Raiders already has servers slammed by almost 100,000 players in two hours, as weekend playtest starts - Eurogamer",
@@ -40,7 +60,7 @@
       "description": "Arc Raiders already has servers slammed by almost 100,000 players in two hours, as weekend playtest ...",
       "url": "https://www.eurogamer.net/arc-raiders-already-has-servers-slammed-by-almost-100000-players-in-two-hours-as-weekend-playtest-starts",
       "publishedAt": "2025-10-17T16:09:18Z",
-      "processed_at": "2025-10-18T23:17:46.311184+00:00"
+      "processed_at": "2025-10-19T01:47:10.579897+00:00"
     },
     {
       "title": "Ghost Of Yōtei's Creators On Atsu: 'I See It As A Chapter Is Done' - Game Informer",
@@ -50,7 +70,7 @@
       "description": "We spoke with Ghost Of Yōtei's co-director and lead writer for a spoiler-filled conversation about t...",
       "url": "https://gameinformer.com/interview/2025/10/17/ghost-of-yoteis-creators-on-atsu-i-see-it-as-a-chapter-is-done",
       "publishedAt": "2025-10-17T16:06:02Z",
-      "processed_at": "2025-10-18T23:17:46.311184+00:00"
+      "processed_at": "2025-10-19T01:47:10.579897+00:00"
     },
     {
       "title": "Big Week For Unions At Blizzard As Hearthstone Team Also Votes ‘Yes’ - aftermath.site",
@@ -60,7 +80,17 @@
       "description": "Hearthstone’s Team 5 is unionizing under Communications Workers of America, the group of workers ann...",
       "url": "https://aftermath.site/hearthstone-union-blizzard",
       "publishedAt": "2025-10-17T16:00:00Z",
-      "processed_at": "2025-10-18T23:17:46.311184+00:00"
+      "processed_at": "2025-10-19T01:47:10.579897+00:00"
+    },
+    {
+      "title": "Pokémon Legends: Z-A’s Shiny Changes Let You Hunt While AFK - Kotaku",
+      "source": {
+        "name": "Kotaku"
+      },
+      "description": "",
+      "url": "https://kotaku.com/pokemon-legends-za-shiny-despawn-afk-exploit-wild-zone-2000636610",
+      "publishedAt": "2025-10-17T15:08:37Z",
+      "processed_at": "2025-10-19T01:47:10.579897+00:00"
     },
     {
       "title": "Keeper: A Note from Its Creator on Launch Day - Xbox Wire",
@@ -70,30 +100,10 @@
       "description": "Keeper, the otherworld new adventure from Double Fine, arrives today - read a note from Creative Lea...",
       "url": "https://news.xbox.com/en-us/2025/10/17/keeper-launch-day-note-from-creator/",
       "publishedAt": "2025-10-17T15:00:55Z",
-      "processed_at": "2025-10-18T23:17:46.311184+00:00"
-    },
-    {
-      "title": "How do I prepare my phone for a protest? - LAist",
-      "source": {
-        "name": "LAist"
-      },
-      "description": "Simple steps to take before hitting the streets....",
-      "url": "https://laist.com/news/how-do-i-prepare-my-phone-for-a-protest",
-      "publishedAt": "2025-10-17T15:00:00Z",
-      "processed_at": "2025-10-18T23:17:46.311184+00:00"
-    },
-    {
-      "title": "New iPhone Fold rumor details screen sizes, possible launch delay - 9to5Mac",
-      "source": {
-        "name": "9to5Mac"
-      },
-      "description": "A new report offers fresh updates on the screen sizes to expect from Apple’s iPhone Fold and the pos...",
-      "url": "https://9to5mac.com/2025/10/17/new-iphone-fold-rumor-details-screen-sizes-possible-launch-delay/",
-      "publishedAt": "2025-10-17T14:45:00Z",
-      "processed_at": "2025-10-18T23:17:46.311184+00:00"
+      "processed_at": "2025-10-19T01:47:10.579897+00:00"
     }
   ],
-  "lastUpdated": "2025-10-18T23:17:46.311258+00:00",
+  "lastUpdated": "2025-10-19T01:47:10.579992+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
