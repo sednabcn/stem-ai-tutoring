@@ -1,7 +1,67 @@
 {
   "status": "success",
-  "totalResults": 10,
+  "totalResults": 9,
   "articles": [
+    {
+      "title": "Marathon's disastrous beta test was \"a very great A/B test\" for Arc Raiders, according to technical director - Eurogamer",
+      "source": {
+        "name": "Eurogamer.net"
+      },
+      "description": "Marathon's disastrous beta test was \"a very great A/B test\" for Arc Raiders, according to technical ...",
+      "url": "https://www.eurogamer.net/marathons-disastrous-beta-test-was-a-very-great-ab-test-for-arc-raiders-according-to-technical-director",
+      "publishedAt": "2025-10-20T09:22:02Z",
+      "processed_at": "2025-10-21T09:22:50.596195+00:00"
+    },
+    {
+      "title": "Microsoft triples down on Xbox hardware commitment, while also teasing first-party gaming handhelds — will it actually happen? - Windows Central",
+      "source": {
+        "name": "Windows Central"
+      },
+      "description": "Rumors of Xbox's first-imposed demise have been greatly exaggerated, after Xbox president took to Va...",
+      "url": "https://www.windowscentral.com/gaming/xbox/microsoft-triples-down-on-xbox-hardware-commitment-while-also-teasing-first-party-gaming-handhelds-too-what-will-it-look-like-in-practice",
+      "publishedAt": "2025-10-20T08:58:41Z",
+      "processed_at": "2025-10-21T09:22:50.596195+00:00"
+    },
+    {
+      "title": "UK Charts: Pokémon Legends: Z-A Sales Almost 50/50 Across Switch And Switch 2 - Nintendo Life",
+      "source": {
+        "name": "Nintendo Life"
+      },
+      "description": "Launch sales 40% lower than Arceus...",
+      "url": "https://www.nintendolife.com/news/2025/10/uk-charts-pokemon-legends-z-a-sales-almost-5050-across-switch-and-switch-2",
+      "publishedAt": "2025-10-20T08:45:00Z",
+      "processed_at": "2025-10-21T09:22:50.596195+00:00"
+    },
+    {
+      "title": "PS Store Quietly Adds Crucial New Feature for PS5, PS4 Deals - Push Square",
+      "source": {
+        "name": "Push Square"
+      },
+      "description": "Price is right...",
+      "url": "https://www.pushsquare.com/news/2025/10/ps-store-quietly-adds-crucial-new-feature-for-ps5-ps4-deals",
+      "publishedAt": "2025-10-20T06:50:06Z",
+      "processed_at": "2025-10-21T09:22:50.596195+00:00"
+    },
+    {
+      "title": "Apple TV, Apple Music and App Store are down as Apple services suffer major outage - 9to5Mac",
+      "source": {
+        "name": "9to5Mac"
+      },
+      "description": "Update: The Apple system status now says Apple TV, Apple Music and App Store issues are now resolved...",
+      "url": "https://9to5mac.com/2025/10/19/apple-tv-music-down-apple-services-outage/",
+      "publishedAt": "2025-10-20T06:30:00Z",
+      "processed_at": "2025-10-21T09:22:50.596195+00:00"
+    },
+    {
+      "title": "Nintendo Today 2.0.10 update out now, patch notes - Nintendo Everything",
+      "source": {
+        "name": "Nintendoeverything.com"
+      },
+      "description": "Nintendo Today now has a new version 2.0.10 update - check out the official patch notes here....",
+      "url": "https://nintendoeverything.com/nintendo-today-2-0-10-update-out-now-patch-notes/",
+      "publishedAt": "2025-10-20T02:28:43Z",
+      "processed_at": "2025-10-21T09:22:50.596195+00:00"
+    },
     {
       "title": "Game Of Theseus Gets Graphics Upgrade, Force Feedback 30 Years On - Hackaday",
       "source": {
@@ -10,7 +70,7 @@
       "description": "Indycar Racing 2 was a good game, back in 1995; in some ways, it was the Crysis of the Clinton years...",
       "url": "https://hackaday.com/2025/10/19/game-of-theseus-gets-graphics-upgrade-force-feedback-30-years-on/",
       "publishedAt": "2025-10-20T02:00:00Z",
-      "processed_at": "2025-10-21T08:30:12.901491+00:00"
+      "processed_at": "2025-10-21T09:22:50.596195+00:00"
     },
     {
       "title": "This Week’s Japanese Game Releases: NINJA GAIDEN 4, Double Dragon Revive, Once Upon a KATAMARI, more - Gematsu",
@@ -20,7 +80,7 @@
       "description": "NINJA GAIDEN 4 for PlayStation 5, Xbox Series, and PC,  Double Dragon Revive for PlayStation 5, Xbox...",
       "url": "https://www.gematsu.com/2025/10/this-weeks-japanese-game-releases-ninja-gaiden-4-double-dragon-revive-once-upon-a-katamari-more",
       "publishedAt": "2025-10-20T00:47:34Z",
-      "processed_at": "2025-10-21T08:30:12.901491+00:00"
+      "processed_at": "2025-10-21T09:22:50.596195+00:00"
     },
     {
       "title": "X is changing how it handles links to try and keep you in the app - The Verge",
@@ -30,80 +90,10 @@
       "description": "X is making changes to better serve link-based posts and keep you in the app....",
       "url": "https://www.theverge.com/news/802480/x-is-changing-how-it-handles-links-to-try-and-keep-you-in-the-app",
       "publishedAt": "2025-10-19T23:07:50Z",
-      "processed_at": "2025-10-21T08:30:12.901491+00:00"
-    },
-    {
-      "title": "Black Friday Came Early: Get a Refurbished MacBook Pro for $430 - PCMag",
-      "source": {
-        "name": "PCMag.com"
-      },
-      "description": "Try macOS with a laptop featuring an Intel Core i5, 16GB of RAM, a 1TB SSD, and the Touch Bar, which...",
-      "url": "https://www.pcmag.com/deals/black-friday-came-early-get-a-refurbished-macbook-pro-for-430",
-      "publishedAt": "2025-10-19T23:00:33Z",
-      "processed_at": "2025-10-21T08:30:12.901491+00:00"
-    },
-    {
-      "title": "Protect your family from ads, trackers, and malware for life for just $40 - Mashable",
-      "source": {
-        "name": "Mashable"
-      },
-      "description": "Say goodbye to annoying ads and hello to a quieter internet...",
-      "url": "https://mashable.com/article/oct-19-adguard-family-plan-lifetime-subscription",
-      "publishedAt": "2025-10-19T22:19:28Z",
-      "processed_at": "2025-10-21T08:30:12.901491+00:00"
-    },
-    {
-      "title": "Oversharing with AI: How your ChatGPT conversations could be used against you - The Independent",
-      "source": {
-        "name": "The-independent.com"
-      },
-      "description": "People are treating AI chatbots as advisors, confidantes, and even accomplices, writes Anthony Cuthb...",
-      "url": "https://www.the-independent.com/tech/ai-chatgpt-crime-data-ads-b2846677.html",
-      "publishedAt": "2025-10-19T22:03:00Z",
-      "processed_at": "2025-10-21T08:30:12.901491+00:00"
-    },
-    {
-      "title": "Modernize your desktop for just $14.97 with Windows 11 Pro - Mashable",
-      "source": {
-        "name": "Mashable"
-      },
-      "description": "Upgrade your OS today....",
-      "url": "https://mashable.com/article/oct-19-microsoft-windows-11-pro",
-      "publishedAt": "2025-10-19T22:00:00Z",
-      "processed_at": "2025-10-21T08:30:12.901491+00:00"
-    },
-    {
-      "title": "Kohler unveils a camera for your toilet - TechCrunch",
-      "source": {
-        "name": "TechCrunch"
-      },
-      "description": "Home goods company Kohler recently unveiled a new device called the Dekoda — a $599 camera that can ...",
-      "url": "https://techcrunch.com/2025/10/19/kohler-unveils-a-camera-for-your-toilet/",
-      "publishedAt": "2025-10-19T21:30:09Z",
-      "processed_at": "2025-10-21T08:30:12.901491+00:00"
-    },
-    {
-      "title": "Nintendo looking to refresh their Virtual Console trademark - GoNintendo",
-      "source": {
-        "name": "GoNintendo"
-      },
-      "description": "",
-      "url": "https://gonintendo.com/contents/54042-nintendo-looking-to-refresh-their-virtual-console-trademark",
-      "publishedAt": "2025-10-19T21:29:36Z",
-      "processed_at": "2025-10-21T08:30:12.901491+00:00"
-    },
-    {
-      "title": "A Raspberry Pi is a better addition to your TV than a Chromecast - XDA",
-      "source": {
-        "name": "XDA Developers"
-      },
-      "description": "Tired of limited storage and app confinement on your Chromecast? Raspberry Pi could be the key to re...",
-      "url": "https://www.xda-developers.com/raspberry-pi-better-for-tv-than-chromecast/",
-      "publishedAt": "2025-10-19T21:00:00Z",
-      "processed_at": "2025-10-21T08:30:12.901491+00:00"
+      "processed_at": "2025-10-21T09:22:50.596195+00:00"
     }
   ],
-  "lastUpdated": "2025-10-21T08:30:12.901560+00:00",
+  "lastUpdated": "2025-10-21T09:22:50.596270+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
