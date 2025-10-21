@@ -1,16 +1,96 @@
 {
   "status": "success",
-  "totalResults": 9,
+  "totalResults": 10,
   "articles": [
     {
-      "title": "‘Arc Raiders’ Is Now An Even More Serious Problem For Bungie’s ‘Marathon’ - Forbes",
+      "title": "Nintendo's Trademarking 'Virtual Console' Again, But Don't Get Your Hopes Up - Nintendo Life",
       "source": {
-        "name": "Forbes"
+        "name": "Nintendo Life"
       },
-      "description": "Arc Raiders' big beta is over, and the numbers its put up and the vibes it amassed make it an even b...",
-      "url": "https://www.forbes.com/sites/paultassi/2025/10/20/arc-raiders-is-now-an-even-more-serious-problem-for-bungies-marathon/",
-      "publishedAt": "2025-10-20T14:47:09Z",
-      "processed_at": "2025-10-21T16:27:07.172903+00:00"
+      "description": "Virtual dreams...",
+      "url": "https://www.nintendolife.com/news/2025/10/nintendos-trademarking-virtual-console-again-but-dont-get-your-hopes-up",
+      "publishedAt": "2025-10-20T17:45:33Z",
+      "processed_at": "2025-10-21T17:18:44.618820+00:00"
+    },
+    {
+      "title": "Absolum And Ball X Pit Post Excellent Initial Sales, But They Deserve More - Nintendo Life",
+      "source": {
+        "name": "Nintendo Life"
+      },
+      "description": "They're very good, y'know?...",
+      "url": "https://www.nintendolife.com/news/2025/10/absolum-and-ball-x-pit-post-excellent-initial-sales-but-they-deserve-more",
+      "publishedAt": "2025-10-20T17:16:44Z",
+      "processed_at": "2025-10-21T17:18:44.618820+00:00"
+    },
+    {
+      "title": "Iniu’s tiny 10,000mAh power bank is almost half off right now - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "The Iniu P55-E2 is a tiny power bank that’s about the size of an AirPods Pro case, yet it features a...",
+      "url": "https://www.theverge.com/tech/799260/iniu-45w-usbc-power-bank-deal-sale",
+      "publishedAt": "2025-10-20T17:11:58Z",
+      "processed_at": "2025-10-21T17:18:44.618820+00:00"
+    },
+    {
+      "title": "EXCLUSIVE: Hearthstone Reveals Three New Warlock Cards From Across The Timeways - TheGamer",
+      "source": {
+        "name": "TheGamer"
+      },
+      "description": "Behold the chimaera, Chronogor....",
+      "url": "https://www.thegamer.com/hearthstone-new-warlock-cards-chronogor-across-the-timeways-expansion/",
+      "publishedAt": "2025-10-20T16:34:00Z",
+      "processed_at": "2025-10-21T17:18:44.618820+00:00"
+    },
+    {
+      "title": "These key Messages upgrades are still missing from iOS 26, at least for now - 9to5Mac",
+      "source": {
+        "name": "9to5Mac"
+      },
+      "description": "Earlier this year, Apple confirmed that it’d be supporting end-to-end encryption with RCS in a futur...",
+      "url": "https://9to5mac.com/2025/10/20/apple-ios-26-key-iphone-rcs-upgrades-still-missing-for-now/",
+      "publishedAt": "2025-10-20T16:25:00Z",
+      "processed_at": "2025-10-21T17:18:44.618820+00:00"
+    },
+    {
+      "title": "Galaxy S26 series, including Ultra, reportedly switches to Exynos 2600 that's faster than Snapdragon - 9to5Google",
+      "source": {
+        "name": "9to5google.com"
+      },
+      "description": "According to a new report, Samsung’s Galaxy S26 series will go all-in on Exynos chips including on t...",
+      "url": "http://9to5google.com/2025/10/20/galaxy-s26-exynos-2600-rumor/",
+      "publishedAt": "2025-10-20T14:50:00Z",
+      "processed_at": "2025-10-21T17:18:44.618820+00:00"
+    },
+    {
+      "title": "Apple’s Sports app just got better for NFL and college football fans - 9to5Mac",
+      "source": {
+        "name": "9to5Mac"
+      },
+      "description": "Apple’s Sports app was just updated to version 3.4 and introduced a new feature perfect for NFL and ...",
+      "url": "https://9to5mac.com/2025/10/20/apples-sports-app-just-got-better-for-nfl-and-college-football-fans/",
+      "publishedAt": "2025-10-20T14:18:00Z",
+      "processed_at": "2025-10-21T17:18:44.618820+00:00"
+    },
+    {
+      "title": "iOS 26.1 release date: Here’s when to expect the next iPhone update - 9to5Mac",
+      "source": {
+        "name": "9to5Mac"
+      },
+      "description": "iOS 26.1 is the next big software update coming for iPhone users, here’s its expected release date a...",
+      "url": "https://9to5mac.com/2025/10/20/ios-26-1-release-date-heres-when-to-expect-the-next-iphone-update/",
+      "publishedAt": "2025-10-20T14:01:00Z",
+      "processed_at": "2025-10-21T17:18:44.618820+00:00"
+    },
+    {
+      "title": "Arc Raiders players were terrorised by a terrifying foe over the beta weekend: tumbleweeds - Eurogamer",
+      "source": {
+        "name": "Eurogamer.net"
+      },
+      "description": "Arc Raiders players were terrorised by a terrifying foe over the beta weekend: tumbleweeds...",
+      "url": "https://www.eurogamer.net/arc-raiders-players-were-terrorised-by-a-terrifying-foe-over-the-beta-weekend-tumbleweeds",
+      "publishedAt": "2025-10-20T13:44:17Z",
+      "processed_at": "2025-10-21T17:18:44.618820+00:00"
     },
     {
       "title": "Pokémon Legends Z-A Alpha Pokémon locations - Eurogamer",
@@ -20,80 +100,10 @@
       "description": "Eurogamer's in-progress all Alpha Pokémon locations list, including a selection of tips to help you ...",
       "url": "https://www.eurogamer.net/pokemon-legends-z-a-alpha-pokemon-locations",
       "publishedAt": "2025-10-20T13:37:03Z",
-      "processed_at": "2025-10-21T16:27:07.172903+00:00"
-    },
-    {
-      "title": "Ford’s Mustang Mach-E GT California Special blends the old with the new - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "Ford announced the Mustang Mach-E California Special, which harkens back to a limited edition run of...",
-      "url": "https://www.theverge.com/news/801920/ford-mustang-mach-e-california-special-specs",
-      "publishedAt": "2025-10-20T13:00:00Z",
-      "processed_at": "2025-10-21T16:27:07.172903+00:00"
-    },
-    {
-      "title": "Oura redesigns app with expanded stress tracking - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "The company is launching a study that uses ring data to detect ‘early signs of hypertension.’﻿...",
-      "url": "https://www.theverge.com/news/802527/oura-ring-stress-blood-pressure-test-app-redesign",
-      "publishedAt": "2025-10-20T13:00:00Z",
-      "processed_at": "2025-10-21T16:27:07.172903+00:00"
-    },
-    {
-      "title": "Next-gen Xbox confirmed in development, following rumours Microsoft would stop making consoles - Eurogamer",
-      "source": {
-        "name": "Eurogamer.net"
-      },
-      "description": "Xbox president Sarah Bond has confirmed Microsoft is working on \"next-gen hardware\", following rumou...",
-      "url": "https://www.eurogamer.net/next-gen-xbox-confirmed-in-development-following-rumours-microsoft-would-stop-making-consoles",
-      "publishedAt": "2025-10-20T12:22:55Z",
-      "processed_at": "2025-10-21T16:27:07.172903+00:00"
-    },
-    {
-      "title": "PlayStation 5 Pro New Model Teardown Confirms Better Power Efficiency, Small Hardware Changes - Wccftech",
-      "source": {
-        "name": "Wccftech"
-      },
-      "description": "The new PlayStation 5 Pro CFI 71-21 model comes with better power efficiency and some small hardware...",
-      "url": "https://wccftech.com/playstation-5-pro-new-model-teardown-power-efficiency/",
-      "publishedAt": "2025-10-20T12:22:00Z",
-      "processed_at": "2025-10-21T16:27:07.172903+00:00"
-    },
-    {
-      "title": "‘My Life With ALS’: A Week In Brooke Eby’s Life Behind the Phone Camera Lens - The Cut",
-      "source": {
-        "name": "The Cut"
-      },
-      "description": "Online, Brooke Eby has shown hundreds of thousands of followers what navigating her 30s with the neu...",
-      "url": "http://www.thecut.com/article/living-with-als-photo-diary-brooke-eby.html",
-      "publishedAt": "2025-10-20T12:00:18Z",
-      "processed_at": "2025-10-21T16:27:07.172903+00:00"
-    },
-    {
-      "title": "iPhone Air, One Month Later: My Camera and Battery Fears Have Been Put to Rest - CNET",
-      "source": {
-        "name": "CNET"
-      },
-      "description": "Apple's thinnest phone scales back on camera hardware and battery capacity. But in my day-to-day use...",
-      "url": "https://www.cnet.com/tech/mobile/iphone-air-one-month-later-my-camera-and-battery-fears-have-been-put-to-rest/",
-      "publishedAt": "2025-10-20T12:00:00Z",
-      "processed_at": "2025-10-21T16:27:07.172903+00:00"
-    },
-    {
-      "title": "2 Apple CarPlay Widgets You Need To Start Using Right Now - bgr.com",
-      "source": {
-        "name": "BGR"
-      },
-      "description": "Try out the Apple Home app widget and a weather widget using CarPlay. They offer a variety of useful...",
-      "url": "https://www.bgr.com/1996756/essential-apple-carplay-widgets/",
-      "publishedAt": "2025-10-20T11:17:00Z",
-      "processed_at": "2025-10-21T16:27:07.172903+00:00"
+      "processed_at": "2025-10-21T17:18:44.618820+00:00"
     }
   ],
-  "lastUpdated": "2025-10-21T16:27:07.173014+00:00",
+  "lastUpdated": "2025-10-21T17:18:44.618912+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
