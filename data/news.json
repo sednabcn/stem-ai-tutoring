@@ -3,14 +3,54 @@
   "totalResults": 10,
   "articles": [
     {
-      "title": "Google will reportedly let 15 superfans test unreleased Pixel phones - The Verge",
+      "title": "Top OpenAI, Google Brain researchers set off a $300M VC frenzy for their startup Periodic Labs - TechCrunch",
       "source": {
-        "name": "The Verge"
+        "name": "TechCrunch"
       },
-      "description": "Bloomberg reports that Google will let 15 winners “help shape a Pixel phone currently in development...",
-      "url": "https://www.theverge.com/news/802866/google-pixel-superfans-test-new-phone-trusted-tester-program-report",
-      "publishedAt": "2025-10-20T19:39:15Z",
-      "processed_at": "2025-10-21T20:23:52.214024+00:00"
+      "description": "When Liam Fedus announced he was quitting OpenAI, VCs swarmed. One even wrote a love letter. Here's ...",
+      "url": "https://techcrunch.com/2025/10/20/top-openai-google-brain-researchers-set-off-a-300m-vc-frenzy-for-their-startup-periodic-labs/",
+      "publishedAt": "2025-10-20T21:15:24Z",
+      "processed_at": "2025-10-21T21:18:54.657435+00:00"
+    },
+    {
+      "title": "'You're Too Good for Camo' – Battlefield 6 Players Can't Help But Poke Fun at 'Absurd' Orange Recon Skin - IGN",
+      "source": {
+        "name": "IGN"
+      },
+      "description": "Battlefield 6 is giving fans some of the most cinematic FPS action they’ve seen in years, but one of...",
+      "url": "https://www.ign.com/articles/youre-too-good-for-camo-battlefield-6-players-cant-help-but-poke-fun-at-absurd-orange-recon-skin",
+      "publishedAt": "2025-10-20T20:15:01Z",
+      "processed_at": "2025-10-21T21:18:54.657435+00:00"
+    },
+    {
+      "title": "Google reportedly searching for 15 Pixel “Superfans” to test unreleased phones - Ars Technica",
+      "source": {
+        "name": "Ars Technica"
+      },
+      "description": "Selected testers will have to sign an NDA and use a disguised case....",
+      "url": "https://arstechnica.com/gadgets/2025/10/google-reportedly-searching-for-15-pixel-superfans-to-test-unreleased-phones/",
+      "publishedAt": "2025-10-20T20:14:29Z",
+      "processed_at": "2025-10-21T21:18:54.657435+00:00"
+    },
+    {
+      "title": "Breaking down rare earth element magnets for recycling - Ars Technica",
+      "source": {
+        "name": "Ars Technica"
+      },
+      "description": "New method extracts desirable elements from waste magnets using less energy and acid....",
+      "url": "https://arstechnica.com/science/2025/10/breaking-down-rare-earth-element-magnets-for-recycling/",
+      "publishedAt": "2025-10-20T20:01:59Z",
+      "processed_at": "2025-10-21T21:18:54.657435+00:00"
+    },
+    {
+      "title": "Google’s Pixel 10 can now run Linux apps better than other Android phones - Android Authority",
+      "source": {
+        "name": "Android Authority"
+      },
+      "description": "The Google Pixel 10 can run Linux apps with near-native performance as it supports GPU-accelerated r...",
+      "url": "https://www.androidauthority.com/pixel-10-linux-apps-gpu-acceleration-3608754/",
+      "publishedAt": "2025-10-20T19:41:15Z",
+      "processed_at": "2025-10-21T21:18:54.657435+00:00"
     },
     {
       "title": "New iOS 26.1 toggle can stop accidental Camera launches - 9to5Mac",
@@ -20,17 +60,37 @@
       "description": "iOS 26.1 beta 4 arrived today, bringing a new setting to disable the ’Swipe to open Camera’ gesture ...",
       "url": "https://9to5mac.com/2025/10/20/new-ios-26-1-toggle-can-stop-accidental-camera-launches/",
       "publishedAt": "2025-10-20T18:52:00Z",
-      "processed_at": "2025-10-21T20:23:52.214024+00:00"
+      "processed_at": "2025-10-21T21:18:54.657435+00:00"
     },
     {
-      "title": "I Will Romance Every Character In Hades 2, But Under Duress - aftermath.site",
+      "title": "Google Has a Bedbug Infestation in Its New York Offices - WIRED",
       "source": {
-        "name": "Aftermath.site"
+        "name": "Wired"
       },
-      "description": "My relationship with Hades 2 is very much a “fuck you and I’ll see you tomorrow” situation. Case in ...",
-      "url": "https://aftermath.site/hades-2-nemesis-eris-icarus-moros-romance",
-      "publishedAt": "2025-10-20T18:40:00Z",
-      "processed_at": "2025-10-21T20:23:52.214024+00:00"
+      "description": "Employees at the company’s Chelsea campus were told to stay home after exterminators found “credible...",
+      "url": "https://www.wired.com/story/theres-a-beg-bug-infestation-at-googles-manhattan-offices/",
+      "publishedAt": "2025-10-20T18:42:00Z",
+      "processed_at": "2025-10-21T21:18:54.657435+00:00"
+    },
+    {
+      "title": "Battlefield 6 is dominating Call of Duty on Xbox right now - TrueAchievements",
+      "source": {
+        "name": "TrueAchievements"
+      },
+      "description": "The converstation in this week's edition of the most popular Xbox games is Battlefield 6 versus Call...",
+      "url": "https://www.trueachievements.com/news/most-popular-xbox-games-battlefield-6-vs-call-of-duty",
+      "publishedAt": "2025-10-20T18:30:27Z",
+      "processed_at": "2025-10-21T21:18:54.657435+00:00"
+    },
+    {
+      "title": "New PS5 Pro Model Is an Improvement Over the Original - PlayStation LifeStyle",
+      "source": {
+        "name": "PlayStation LifeStyle"
+      },
+      "description": "Sony Interactive Entertainment released a new model of the PS5 Pro, and it is technically an improve...",
+      "url": "https://www.playstationlifestyle.net/2025/10/20/new-ps5-pro-model-improvement/",
+      "publishedAt": "2025-10-20T18:14:00Z",
+      "processed_at": "2025-10-21T21:18:54.657435+00:00"
     },
     {
       "title": "Josh Brown says Apple's AI chatbot efforts create a 'whole different story' for stock - CNBC",
@@ -40,70 +100,10 @@
       "description": "Investors are overlooking the company's internal AI chatbot work, Brown said....",
       "url": "https://www.cnbc.com/2025/10/20/josh-brown-says-apples-ai-chatbot-efforts-create-a-whole-different-story-for-stock.html",
       "publishedAt": "2025-10-20T18:07:09Z",
-      "processed_at": "2025-10-21T20:23:52.214024+00:00"
-    },
-    {
-      "title": "iOS 26.1 beta 4 adds new setting to tone down Liquid Glass transparency - 9to5Mac",
-      "source": {
-        "name": "9to5Mac"
-      },
-      "description": "iOS 26 introduced a bold new Liquid Glass design, bringing transparency and fluidity throughout the ...",
-      "url": "https://9to5mac.com/2025/10/20/ios-26-1-beta-4-adds-new-setting-to-tone-down-liquid-glass-transparency/",
-      "publishedAt": "2025-10-20T17:57:00Z",
-      "processed_at": "2025-10-21T20:23:52.214024+00:00"
-    },
-    {
-      "title": "Pokémon GO November 2025 Events - Pokémon GO Hub",
-      "source": {
-        "name": "Pokemon GO Hub"
-      },
-      "description": "The Pokémon GO November 2025 events schedule is here! In November, featured Pokémon are Mega Tyranit...",
-      "url": "https://pokemongohub.net/post/event/pokemon-go-november-2025-events/",
-      "publishedAt": "2025-10-20T17:42:28Z",
-      "processed_at": "2025-10-21T20:23:52.214024+00:00"
-    },
-    {
-      "title": "Jim Cramer: Patient Apple bulls are vindicated, and the stock is just getting started - CNBC",
-      "source": {
-        "name": "CNBC"
-      },
-      "description": "",
-      "url": "https://www.cnbc.com/2025/10/20/jim-cramer-patient-apple-bulls-are-vindicated-and-the-stock-is-just-getting-started.html",
-      "publishedAt": "2025-10-20T17:27:21Z",
-      "processed_at": "2025-10-21T20:23:52.214024+00:00"
-    },
-    {
-      "title": "Absolum And Ball X Pit Post Excellent Initial Sales, But They Deserve More - Nintendo Life",
-      "source": {
-        "name": "Nintendo Life"
-      },
-      "description": "They're very good, y'know?...",
-      "url": "https://www.nintendolife.com/news/2025/10/absolum-and-ball-x-pit-post-excellent-initial-sales-but-they-deserve-more",
-      "publishedAt": "2025-10-20T17:16:44Z",
-      "processed_at": "2025-10-21T20:23:52.214024+00:00"
-    },
-    {
-      "title": "Iniu’s tiny 10,000mAh power bank is almost half off right now - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "The Iniu P55-E2 is a tiny power bank that’s about the size of an AirPods Pro case, yet it features a...",
-      "url": "https://www.theverge.com/tech/799260/iniu-45w-usbc-power-bank-deal-sale",
-      "publishedAt": "2025-10-20T17:11:58Z",
-      "processed_at": "2025-10-21T20:23:52.214024+00:00"
-    },
-    {
-      "title": "Ex PlayStation exec says Sony can't keep \"increasing the graphics power\" with new consoles after tech plateau, but PS5 has already \"made almost every game a better game\" - GamesRadar+",
-      "source": {
-        "name": "GamesRadar+"
-      },
-      "description": "Shuhei Yoshida says he \"cannot tell the difference\" between new tech...",
-      "url": "https://www.gamesradar.com/platforms/playstation/ex-playstation-exec-says-sony-cant-keep-increasing-the-graphics-power-with-new-consoles-after-tech-plateau-but-ps5-has-already-made-almost-every-game-a-better-game/",
-      "publishedAt": "2025-10-20T17:01:13Z",
-      "processed_at": "2025-10-21T20:23:52.214024+00:00"
+      "processed_at": "2025-10-21T21:18:54.657435+00:00"
     }
   ],
-  "lastUpdated": "2025-10-21T20:23:52.214095+00:00",
+  "lastUpdated": "2025-10-21T21:18:54.657511+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
