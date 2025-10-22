@@ -3,6 +3,26 @@
   "totalResults": 10,
   "articles": [
     {
+      "title": "Pixel phones will get a smarter always-on display that saves battery life - Android Authority",
+      "source": {
+        "name": "Android Authority"
+      },
+      "description": "Your Pixel's always-on display is convenient but drains battery, so Google is working on a new optio...",
+      "url": "https://www.androidauthority.com/always-on-display-inactivity-detection-rumor-3609052/",
+      "publishedAt": "2025-10-21T20:47:37Z",
+      "processed_at": "2025-10-22T23:17:12.153940+00:00"
+    },
+    {
+      "title": "Next Xbox won’t be cheap — Sarah Bond teases a “very premium, high-end next-gen console experience” - Windows Central",
+      "source": {
+        "name": "Windows Central"
+      },
+      "description": "The next Xbox sounds powerful and expensive, but after months of controversy, Microsoft must win bac...",
+      "url": "https://www.windowscentral.com/gaming/xbox/next-xbox-wont-be-cheap-sarah-bond-teases-a-very-premium-high-end-next-gen-console-experience",
+      "publishedAt": "2025-10-21T19:50:18Z",
+      "processed_at": "2025-10-22T23:17:12.153940+00:00"
+    },
+    {
       "title": "Anker’s latest noise-canceling sleep earbuds are nearly $40 off - The Verge",
       "source": {
         "name": "The Verge"
@@ -10,17 +30,7 @@
       "description": "You can score nearly $40 off Anker’s Soundcore Sleep A30. You can also save on Amazon’s third-gen Ec...",
       "url": "https://www.theverge.com/tech/803737/anker-soundcore-sleep-a30-earbuds-8bitdo-arcade-controller-deal-sale",
       "publishedAt": "2025-10-21T19:40:53Z",
-      "processed_at": "2025-10-22T22:16:15.740414+00:00"
-    },
-    {
-      "title": "PSA: Here’s why a cosmic orange iPhone 17 Pro can turn rose gold - 9to5Mac",
-      "source": {
-        "name": "9to5Mac"
-      },
-      "description": "Last week on Reddit, a user posted an image of their Cosmic Orange iPhone 17 Pro that had apparently...",
-      "url": "https://9to5mac.com/2025/10/21/viral-rose-gold-iphone-17-pro-discoloration/",
-      "publishedAt": "2025-10-21T19:26:00Z",
-      "processed_at": "2025-10-22T22:16:15.740414+00:00"
+      "processed_at": "2025-10-22T23:17:12.153940+00:00"
     },
     {
       "title": "Here’s how Google is choosing 15 fans to test the next Pixel - The Verge",
@@ -30,7 +40,7 @@
       "description": "Google is letting 15 “Pixel Superfans” test the next unreleased Google Pixel phone, and here are the...",
       "url": "https://www.theverge.com/report/803702/google-pixel-superfan-contest-rules",
       "publishedAt": "2025-10-21T19:25:06Z",
-      "processed_at": "2025-10-22T22:16:15.740414+00:00"
+      "processed_at": "2025-10-22T23:17:12.153940+00:00"
     },
     {
       "title": "Jon Prosser says he’s been in ‘active communication’ with Apple over lawsuit - The Verge",
@@ -40,27 +50,37 @@
       "description": "Although Apple said in a court filing that Jon Prosser has “still has not” replied to the company’s ...",
       "url": "https://www.theverge.com/news/803754/apple-jon-prosser-trade-secrets-lawsuit-responds-default",
       "publishedAt": "2025-10-21T19:09:31Z",
-      "processed_at": "2025-10-22T22:16:15.740414+00:00"
+      "processed_at": "2025-10-22T23:17:12.153940+00:00"
     },
     {
-      "title": "OpenAI has a new web browser ready for launch - Axios",
+      "title": "Elon Musk calls acting NASA chief ‘Sean Dummy’ as SpaceX moon contract hangs in the balance - CNN",
       "source": {
-        "name": "Axios"
+        "name": "CNN"
       },
-      "description": "The moves come as traffic from bots is expected to surpass that from humans....",
-      "url": "https://www.axios.com/2025/10/21/openai-atlas-new-ai-web-browser-release-date",
-      "publishedAt": "2025-10-21T18:52:50Z",
-      "processed_at": "2025-10-22T22:16:15.740414+00:00"
+      "description": "Elon Musk called the transportation secretary ‘Sean Dummy’ on X Tuesday, after Duffy suggested NASA ...",
+      "url": "https://www.cnn.com/2025/10/21/science/elon-musk-sean-duffy-nasa-spacex",
+      "publishedAt": "2025-10-21T18:59:08Z",
+      "processed_at": "2025-10-22T23:17:12.153940+00:00"
     },
     {
       "title": "Apple’s Planned Foldable iPad With 18-inch Screen Hits Development Snags - Bloomberg.com",
       "source": {
         "name": "Bloomberg"
       },
-      "description": "",
+      "description": "Apple Inc.’s effort to reinvent the iPad by adding a giant foldable screen has hit development hurdl...",
       "url": "https://www.bloomberg.com/news/articles/2025-10-21/apple-s-planned-foldable-ipad-with-18-inch-screen-hits-development-snags",
       "publishedAt": "2025-10-21T18:21:43Z",
-      "processed_at": "2025-10-22T22:16:15.740414+00:00"
+      "processed_at": "2025-10-22T23:17:12.153940+00:00"
+    },
+    {
+      "title": "Commander Brackets Beta Update – October 21, 2025 - Magic: The Gathering",
+      "source": {
+        "name": "Wizards.com"
+      },
+      "description": "Gavin discusses changes to the Commander Brackets beta test....",
+      "url": "https://magic.wizards.com/en/news/announcements/commander-brackets-beta-update-october-21-2025",
+      "publishedAt": "2025-10-21T18:07:19Z",
+      "processed_at": "2025-10-22T23:17:12.153940+00:00"
     },
     {
       "title": "Teamfight Tactics patch 15.7 notes - Teamfight Tactics",
@@ -70,7 +90,7 @@
       "description": "A smaller balance patch for K.O. Coliseum and a Dragon-sized entrance for our Uncharted Realms reviv...",
       "url": "https://teamfighttactics.leagueoflegends.com/en-us/news/game-updates/teamfight-tactics-patch-15-7-notes/",
       "publishedAt": "2025-10-21T18:00:00Z",
-      "processed_at": "2025-10-22T22:16:15.740414+00:00"
+      "processed_at": "2025-10-22T23:17:12.153940+00:00"
     },
     {
       "title": "M5 MacBook Pro review: Fifth-generation Apple Silicon in a familiar wrapper - Ars Technica",
@@ -80,30 +100,10 @@
       "description": "Apple M5 trades blows with Pro and Max chips from older generations....",
       "url": "https://arstechnica.com/gadgets/2025/10/m5-macbook-pro-review-fifth-generation-apple-silicon-in-a-familiar-wrapper/",
       "publishedAt": "2025-10-21T17:00:45Z",
-      "processed_at": "2025-10-22T22:16:15.740414+00:00"
-    },
-    {
-      "title": "Google Fi is getting AI-powered noise filters and RCS web messaging - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "Google Fi is expanding its Wi-Fi support, introducing AI tools to better filter out distracting nois...",
-      "url": "https://www.theverge.com/news/803542/google-fi-rcs-browser-messaging-ai-enhanced-audio",
-      "publishedAt": "2025-10-21T17:00:00Z",
-      "processed_at": "2025-10-22T22:16:15.740414+00:00"
-    },
-    {
-      "title": "Google's Android app is finally catching up to the iOS app with one crucial feature - Android Authority",
-      "source": {
-        "name": "Android Authority"
-      },
-      "description": "An APK teardown reveals that the Google app on Android should finally get an incognito search option...",
-      "url": "https://www.androidauthority.com/google-app-android-incognito-mode-3608855/",
-      "publishedAt": "2025-10-21T16:56:57Z",
-      "processed_at": "2025-10-22T22:16:15.740414+00:00"
+      "processed_at": "2025-10-22T23:17:12.153940+00:00"
     }
   ],
-  "lastUpdated": "2025-10-22T22:16:15.740484+00:00",
+  "lastUpdated": "2025-10-22T23:17:12.154017+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
