@@ -1,7 +1,67 @@
 {
   "status": "success",
-  "totalResults": 9,
+  "totalResults": 10,
   "articles": [
+    {
+      "title": "Microsoft prepares major Windows 11 feature drop with new Start menu, Taskbar updates, and more | New features expected to roll out next month - Windows Central",
+      "source": {
+        "name": "Windows Central"
+      },
+      "description": "Windows 11's next major update is set to include a brand-new Start menu, lots of Taskbar and File Ex...",
+      "url": "https://www.windowscentral.com/microsoft/windows-11/microsoft-prepares-new-start-menu-release-major-windows-11-feature-update-november-2025",
+      "publishedAt": "2025-10-22T11:19:06Z",
+      "processed_at": "2025-10-23T11:18:03.613748+00:00"
+    },
+    {
+      "title": "AI chatbots fail at accurate news, major study reveals - DW",
+      "source": {
+        "name": "DW (English)"
+      },
+      "description": "AI chatbots such as ChatGPT and Copilot routinely distort the news and struggle to distinguish facts...",
+      "url": "https://www.dw.com/en/artificial-intelligence-ai-chatbot-chatgpt-google-news-misinformation-fact-check-copilot/a-74392921",
+      "publishedAt": "2025-10-22T10:12:46Z",
+      "processed_at": "2025-10-23T11:18:03.613748+00:00"
+    },
+    {
+      "title": "Apple slashes iPhone Air production plans, boosts other 17 models: sources - Nikkei Asia",
+      "source": {
+        "name": "Nikkei.com"
+      },
+      "description": "Overall sales of new lineup defies weak market and tariff war...",
+      "url": "https://asia.nikkei.com/spotlight/supply-chain/apple-slashes-iphone-air-production-plans-boosts-other-17-models-sources",
+      "publishedAt": "2025-10-22T09:15:00Z",
+      "processed_at": "2025-10-23T11:18:03.613748+00:00"
+    },
+    {
+      "title": "OpenAI launches browser to rival Google Chrome - DW",
+      "source": {
+        "name": "DW (English)"
+      },
+      "description": "Atlas, OpenAI's new ChatGPT-powered browser, launched on Tuesday looking to \"rethink what a browser ...",
+      "url": "https://www.dw.com/en/openai-launches-browser-to-rival-google-chrome/a-74452151",
+      "publishedAt": "2025-10-22T08:59:29Z",
+      "processed_at": "2025-10-23T11:18:03.613748+00:00"
+    },
+    {
+      "title": "GameCube Classic Luigi's Mansion Hits Nintendo Switch 2 Just in Time for Halloween - IGN",
+      "source": {
+        "name": "IGN"
+      },
+      "description": "Luigi's Mansion is finally coming to the Nintendo Switch Online library. Debuting on October 30, the...",
+      "url": "https://www.ign.com/articles/gamecube-classic-luigis-mansion-hits-nintendo-switch-2-just-in-time-for-halloween",
+      "publishedAt": "2025-10-22T08:58:10Z",
+      "processed_at": "2025-10-23T11:18:03.613748+00:00"
+    },
+    {
+      "title": "The first major OnePlus 15 price leak has encouraging news - Android Authority",
+      "source": {
+        "name": "Android Authority"
+      },
+      "description": "The OnePlus 15 is around the corner, and a price leak by a prominent tipster has some encouraging ne...",
+      "url": "https://www.androidauthority.com/oneplus-15-price-leak-3609107/",
+      "publishedAt": "2025-10-22T06:16:31Z",
+      "processed_at": "2025-10-23T11:18:03.613748+00:00"
+    },
     {
       "title": "Samsung’s Galaxy XR Mixed Reality Headset Undercuts Apple’s Vision Pro by $1,700 - WIRED",
       "source": {
@@ -10,27 +70,27 @@
       "description": "This Android XR-powered headset comes with Google’s Gemini assistant and once again asks you to step...",
       "url": "https://www.wired.com/story/samsung-galaxy-xr-gemini-android-xr-mixed-reality-headset/",
       "publishedAt": "2025-10-22T02:00:00Z",
-      "processed_at": "2025-10-23T10:22:52.932947+00:00"
+      "processed_at": "2025-10-23T11:18:03.613748+00:00"
     },
     {
-      "title": "Nintendo Expands Switch 2's GameCube Library Next Week With A Spooky Classic - Nintendo Life",
+      "title": "Persona 3 Reload update announced, adds eight songs from Persona 3 vocalist Yumi Kawamura - Gematsu",
       "source": {
-        "name": "Nintendo Life"
+        "name": "Gematsu"
       },
-      "description": "Horrifyingly good news...",
-      "url": "https://www.nintendolife.com/news/2025/10/nintendo-expands-switch-2s-gamecube-library-next-week-with-a-spooky-classic",
-      "publishedAt": "2025-10-22T01:05:00Z",
-      "processed_at": "2025-10-23T10:22:52.932947+00:00"
+      "description": "ATLUS will release a free update for Persona 3 Reload by October 23, featuring eight songs performed...",
+      "url": "https://www.gematsu.com/2025/10/persona-3-reload-update-announced-adds-eight-songs-from-persona-3-vocalist-yumi-kawamura",
+      "publishedAt": "2025-10-22T01:43:06Z",
+      "processed_at": "2025-10-23T11:18:03.613748+00:00"
     },
     {
-      "title": "ChatGPT-maker OpenAI releases web browser to rival Google - BBC",
+      "title": "Google's latest Android Canary is finally available for the entire Pixel family - Android Authority",
       "source": {
-        "name": "BBC News"
+        "name": "Android Authority"
       },
-      "description": "ChatGPT Atlas was unveiled as the company seeks new ways to corral users to its online offerings....",
-      "url": "https://www.bbc.com/news/articles/c07mz10m1k9o",
-      "publishedAt": "2025-10-22T00:13:02Z",
-      "processed_at": "2025-10-23T10:22:52.932947+00:00"
+      "description": "Discover some of the changes Google's delivering in the new Android Canary 2510 release for its most...",
+      "url": "https://www.androidauthority.com/android-canary-2510-3609064/",
+      "publishedAt": "2025-10-21T22:15:35Z",
+      "processed_at": "2025-10-23T11:18:03.613748+00:00"
     },
     {
       "title": "YouTube’s AI ‘likeness detection’ tool is searching for deepfakes of popular creators - The Verge",
@@ -40,60 +100,10 @@
       "description": "Creators in YouTube’s Partner Program will be able to use the Llikeness Detection tool to spot and r...",
       "url": "https://www.theverge.com/news/803818/youtube-ai-likeness-detection-deepfake",
       "publishedAt": "2025-10-21T21:17:15Z",
-      "processed_at": "2025-10-23T10:22:52.932947+00:00"
-    },
-    {
-      "title": "Apple’s M5 lineup continues trend of iPad innovating before Mac - 9to5Mac",
-      "source": {
-        "name": "9to5Mac"
-      },
-      "description": "The new M5 iPad Pro and MacBook Pro show a historic trend clearly continuing: iPad hardware innovati...",
-      "url": "https://9to5mac.com/2025/10/21/apples-m5-lineup-continues-trend-of-ipad-innovating-before-mac/",
-      "publishedAt": "2025-10-21T19:53:00Z",
-      "processed_at": "2025-10-23T10:22:52.932947+00:00"
-    },
-    {
-      "title": "Next Xbox won’t be cheap — Sarah Bond teases a “very premium, high-end next-gen console experience” - Windows Central",
-      "source": {
-        "name": "Windows Central"
-      },
-      "description": "The next Xbox sounds powerful and expensive, but after months of controversy, Microsoft must win bac...",
-      "url": "https://www.windowscentral.com/gaming/xbox/next-xbox-wont-be-cheap-sarah-bond-teases-a-very-premium-high-end-next-gen-console-experience",
-      "publishedAt": "2025-10-21T19:50:18Z",
-      "processed_at": "2025-10-23T10:22:52.932947+00:00"
-    },
-    {
-      "title": "Upcoming iOS and macOS 26.1 update will let you fog up your Liquid Glass - Ars Technica",
-      "source": {
-        "name": "Ars Technica"
-      },
-      "description": "Apple backs down from some aspects of Liquid Glass, but not others....",
-      "url": "https://arstechnica.com/gadgets/2025/10/new-ios-and-macos-betas-add-tinted-toggle-to-tone-down-liquid-glass/",
-      "publishedAt": "2025-10-21T19:12:30Z",
-      "processed_at": "2025-10-23T10:22:52.932947+00:00"
-    },
-    {
-      "title": "Google Fi to add AI-enhanced audio and RCS web messaging - TechCrunch",
-      "source": {
-        "name": "TechCrunch"
-      },
-      "description": "The tech giant says calls will now use AI-enhanced audio to reduce background noise and improve voic...",
-      "url": "https://techcrunch.com/2025/10/21/google-fi-to-add-ai-enhanced-audio-and-rcs-web-messaging/",
-      "publishedAt": "2025-10-21T18:23:12Z",
-      "processed_at": "2025-10-23T10:22:52.932947+00:00"
-    },
-    {
-      "title": "Commander Brackets Beta Update – October 21, 2025 - Magic: The Gathering",
-      "source": {
-        "name": "Wizards.com"
-      },
-      "description": "Gavin discusses changes to the Commander Brackets beta test....",
-      "url": "https://magic.wizards.com/en/news/announcements/commander-brackets-beta-update-october-21-2025",
-      "publishedAt": "2025-10-21T18:07:19Z",
-      "processed_at": "2025-10-23T10:22:52.932947+00:00"
+      "processed_at": "2025-10-23T11:18:03.613748+00:00"
     }
   ],
-  "lastUpdated": "2025-10-23T10:22:52.933083+00:00",
+  "lastUpdated": "2025-10-23T11:18:03.613817+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
