@@ -1,7 +1,97 @@
 {
   "status": "success",
-  "totalResults": 9,
+  "totalResults": 10,
   "articles": [
+    {
+      "title": "OpenAI launches Atlas browser to compete with Google Chrome - KSL.com",
+      "source": {
+        "name": "KSL.com"
+      },
+      "description": "OpenAI has introduced its own web browser, ChatGPT Atlas, putting it in direct competition with Goog...",
+      "url": "https://www.ksl.com/article/51393293/openai-launches-atlas-browser-to-compete-with-google-chrome",
+      "publishedAt": "2025-10-22T18:52:47Z",
+      "processed_at": "2025-10-23T19:16:44.987763+00:00"
+    },
+    {
+      "title": "This magnetic Qi 2.2 powerbank looks like a classic Sony Cybershot - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "The Sharge Icemag 3 adds a Sony Cybershot inspired silver bar that serves as its stand, plus Qi 2.2 ...",
+      "url": "https://www.theverge.com/news/804531/sharge-icemag-3-magsafe-qi-2-2-sony-cybershot",
+      "publishedAt": "2025-10-22T18:02:01Z",
+      "processed_at": "2025-10-23T19:16:44.987763+00:00"
+    },
+    {
+      "title": "Marvel Cosmic Invasion Scores December Release Date And Two New Fighters - Nintendo Life",
+      "source": {
+        "name": "Nintendo Life"
+      },
+      "description": "On your left...",
+      "url": "https://www.nintendolife.com/news/2025/10/marvel-cosmic-invasion-scores-december-release-date-and-two-new-fighters",
+      "publishedAt": "2025-10-22T17:30:00Z",
+      "processed_at": "2025-10-23T19:16:44.987763+00:00"
+    },
+    {
+      "title": "The PlayStation 5 is $125 off straight from Sony - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "Sony raised the price of its slim PlayStation 5 models earlier this year, but you can currently save...",
+      "url": "https://www.theverge.com/tech/804510/sony-playstation-5-ps-direct-deal-sale",
+      "publishedAt": "2025-10-22T17:08:21Z",
+      "processed_at": "2025-10-23T19:16:44.987763+00:00"
+    },
+    {
+      "title": "Ubisoft Asks Devs At Star Wars Outlaws Studio To Lay Themselves Off - Kotaku",
+      "source": {
+        "name": "Kotaku"
+      },
+      "description": "Massive gets downsized...",
+      "url": "https://kotaku.com/ubisoft-massive-layoffs-division-3-star-wars-outlaws-2000638264",
+      "publishedAt": "2025-10-22T16:56:20Z",
+      "processed_at": "2025-10-23T19:16:44.987763+00:00"
+    },
+    {
+      "title": "Next year’s A20 chip might push iPhone prices even higher - 9to5Mac",
+      "source": {
+        "name": "9to5Mac"
+      },
+      "description": "Next year’s iPhone lineup is expected to use an A20 chip with a new 2-nm process, but that could com...",
+      "url": "https://9to5mac.com/2025/10/22/next-years-a20-chip-might-push-iphone-prices-even-higher/",
+      "publishedAt": "2025-10-22T16:40:00Z",
+      "processed_at": "2025-10-23T19:16:44.987763+00:00"
+    },
+    {
+      "title": "Nintendo announces a string of free updates for Pikmin 4 and Pikmin Bloom - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "The updates will arrive in November, and now you can watch Nintendo’s full ’Close to You’ CG short o...",
+      "url": "https://www.theverge.com/news/804408/nintendo-pikmin-4-bloom-november-updates",
+      "publishedAt": "2025-10-22T15:37:05Z",
+      "processed_at": "2025-10-23T19:16:44.987763+00:00"
+    },
+    {
+      "title": "YouTube’s new daily timer stops you from wasting all your time watching Shorts - 9to5Google",
+      "source": {
+        "name": "9to5google.com"
+      },
+      "description": "Like its bedtime reminders, YouTube's new timer is meant to keep you from wasting too much time — if...",
+      "url": "http://9to5google.com/2025/10/22/youtubes-new-daily-timer-stops-you-from-wasting-all-your-time-watching-shorts/",
+      "publishedAt": "2025-10-22T15:37:00Z",
+      "processed_at": "2025-10-23T19:16:44.987763+00:00"
+    },
+    {
+      "title": "New iPad Pro, 14-inch MacBook Pro, and Apple Vision Pro now available - Apple",
+      "source": {
+        "name": "Apple Newsroom"
+      },
+      "description": "Apple customers can now discover and buy the 11-inch and 13-inch iPad Pro, the new 14-inch MacBook P...",
+      "url": "https://www.apple.com/newsroom/2025/10/new-ipad-pro-14-inch-macbook-pro-and-apple-vision-pro-now-available/",
+      "publishedAt": "2025-10-22T15:00:33Z",
+      "processed_at": "2025-10-23T19:16:44.987763+00:00"
+    },
     {
       "title": "The Plants vs. Zombies remaster is a sad reminder of what could have been - The Verge",
       "source": {
@@ -10,90 +100,10 @@
       "description": "Plants vs. Zombies: Replanted is a remastered version of the classic strategy game for the Nintendo ...",
       "url": "https://www.theverge.com/games/803795/plants-vs-zombies-replanted-remaster-switch-pc-ps5-xbox",
       "publishedAt": "2025-10-22T15:00:00Z",
-      "processed_at": "2025-10-23T18:30:20.357035+00:00"
-    },
-    {
-      "title": "EA, NFL extend exclusive Madden deal - NBC Sports",
-      "source": {
-        "name": "NBCSports.com"
-      },
-      "description": "EA will continue to be the only provider of NFL video games....",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/ea-nfl-extend-exclusive-madden-deal",
-      "publishedAt": "2025-10-22T14:38:13Z",
-      "processed_at": "2025-10-23T18:30:20.357035+00:00"
-    },
-    {
-      "title": "Pokémon Legends Z-A Review: An Enjoyable Identity Crisis - Kotaku",
-      "source": {
-        "name": "Kotaku"
-      },
-      "description": "Game Freak’s return to Kalos is as much about the state of the franchise as it is about Lumiose City...",
-      "url": "https://kotaku.com/pokemon-legends-za-review-switch-2-bugs-performance-2000637719",
-      "publishedAt": "2025-10-22T13:36:53Z",
-      "processed_at": "2025-10-23T18:30:20.357035+00:00"
-    },
-    {
-      "title": "Surprise! Pikmin 4 Is Getting A Free Content Update On Switch Next Month - Nintendo Life",
-      "source": {
-        "name": "Nintendo Life"
-      },
-      "description": "Decor Pikmin! Photo Mode!...",
-      "url": "https://www.nintendolife.com/news/2025/10/surprise-pikmin-4-is-getting-a-free-content-update-on-switch-next-month",
-      "publishedAt": "2025-10-22T13:30:00Z",
-      "processed_at": "2025-10-23T18:30:20.357035+00:00"
-    },
-    {
-      "title": "Apple's Plan to Launch Three New iPhone Designs Allegedly Revealed - MacRumors",
-      "source": {
-        "name": "MacRumors"
-      },
-      "description": "Apple plans to launch a new type of iPhone every year for the foreseeable future, according to an As...",
-      "url": "https://www.macrumors.com/2025/10/22/three-new-iphone-designs-allegedly-revealed/",
-      "publishedAt": "2025-10-22T13:24:47Z",
-      "processed_at": "2025-10-23T18:30:20.357035+00:00"
-    },
-    {
-      "title": "Coming to Xbox Game Pass: The Outer Worlds 2, PowerWash Simulator 2, Football Manager 26, and More - Xbox Wire",
-      "source": {
-        "name": "Xbox.com"
-      },
-      "description": "Coming soon to Xbox Game Pass: The Outer Worlds 2, PowerWash Simulator 2, Football Manager 26, and m...",
-      "url": "https://news.xbox.com/en-us/2025/10/22/xbox-game-pass-october-2025-wave-2/",
-      "publishedAt": "2025-10-22T13:03:53Z",
-      "processed_at": "2025-10-23T18:30:20.357035+00:00"
-    },
-    {
-      "title": "No Man's Sky gets space wreck salvaging and expanded ship building as its busy year continues - Eurogamer",
-      "source": {
-        "name": "Eurogamer.net"
-      },
-      "description": "No Man's Sky gets space wreck salvaging and more as part of its new Breach update....",
-      "url": "https://www.eurogamer.net/no-mans-sky-gets-space-wreck-salvaging-and-expanded-ship-building-as-its-busy-year-continues",
-      "publishedAt": "2025-10-22T13:01:21Z",
-      "processed_at": "2025-10-23T18:30:20.357035+00:00"
-    },
-    {
-      "title": "The new Metroid Prime art book offers rare insight into Nintendo’s design process - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "Metroid Prime 1–3: A Visual Retrospective is a fantastic $50 gift for any Metroid fan who wants to l...",
-      "url": "https://www.theverge.com/games/803399/metroid-prime-visual-retrospective-art-book-review",
-      "publishedAt": "2025-10-22T13:00:00Z",
-      "processed_at": "2025-10-23T18:30:20.357035+00:00"
-    },
-    {
-      "title": "Microsoft prepares major Windows 11 feature drop with new Start menu, Taskbar updates, and more | New features expected to roll out next month - Windows Central",
-      "source": {
-        "name": "Windows Central"
-      },
-      "description": "Windows 11's next major update is set to include a brand-new Start menu, lots of Taskbar and File Ex...",
-      "url": "https://www.windowscentral.com/microsoft/windows-11/microsoft-prepares-new-start-menu-release-major-windows-11-feature-update-november-2025",
-      "publishedAt": "2025-10-22T11:19:06Z",
-      "processed_at": "2025-10-23T18:30:20.357035+00:00"
+      "processed_at": "2025-10-23T19:16:44.987763+00:00"
     }
   ],
-  "lastUpdated": "2025-10-23T18:30:20.357108+00:00",
+  "lastUpdated": "2025-10-23T19:16:44.987833+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
