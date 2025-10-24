@@ -1,99 +1,109 @@
 {
   "status": "success",
-  "totalResults": 9,
+  "totalResults": 10,
   "articles": [
     {
-      "title": "CS2 skin update ‘rug pulls’ collectors as $1 billion wiped from market cap - Dexerto",
+      "title": "Microsoft Pushes Xbox Division to Hit Higher Profit Margins - Bloomberg.com",
       "source": {
-        "name": "Dexerto"
+        "name": "Bloomberg"
       },
-      "description": "Counter-Strike 2’s October 23 update has sent shockwaves through the skin trading community, with th...",
-      "url": "https://www.dexerto.com/counter-strike-2/cs2-skin-update-rug-pulls-collectors-as-1-billion-wiped-from-market-cap-3273322/",
-      "publishedAt": "2025-10-23T10:17:53Z",
-      "processed_at": "2025-10-24T12:43:57.476632+00:00"
+      "description": "Management’s goal of 30% profit margins for gaming has led to job losses, canceled projects...",
+      "url": "https://www.bloomberg.com/news/articles/2025-10-23/microsoft-pushes-xbox-studios-to-hit-higher-profit-margins",
+      "publishedAt": "2025-10-23T11:00:10Z",
+      "processed_at": "2025-10-24T13:31:28.081167+00:00"
     },
     {
-      "title": "Mysterious OnePlus phone with Qualcomm Snapdragon 8 Gen 5 and 8,000mAh+ battery leaks with release timeline - Notebookcheck",
-      "source": {
-        "name": "Notebookcheck.net"
-      },
-      "description": "A new OnePlus smartphone has leaked online with high-end specifications. The device will feature the...",
-      "url": "https://www.notebookcheck.net/Mysterious-OnePlus-phone-with-Qualcomm-Snapdragon-8-Gen-5-and-8-000mAh-battery-leaks-with-release-timeline.1144658.0.html",
-      "publishedAt": "2025-10-23T01:49:00Z",
-      "processed_at": "2025-10-24T12:43:57.476632+00:00"
-    },
-    {
-      "title": "BIND warns of bugs that could bring DNS cache attack back from the dead - Ars Technica",
-      "source": {
-        "name": "Ars Technica"
-      },
-      "description": "At least one CVE could weaken defenses put in place following 2008 disclosure....",
-      "url": "https://arstechnica.com/security/2025/10/bind-warns-of-bugs-that-could-bring-dns-cache-attack-back-from-the-dead/",
-      "publishedAt": "2025-10-22T22:35:41Z",
-      "processed_at": "2025-10-24T12:43:57.476632+00:00"
-    },
-    {
-      "title": "'Sean Dummy': Elon Musk goes after acting NASA chief after reopening of moon-landing contract - Space",
-      "source": {
-        "name": "Space.com"
-      },
-      "description": "\"Should someone whose biggest claim to fame is climbing trees be running America's space program?\"...",
-      "url": "https://www.space.com/space-exploration/sean-dummy-why-is-elon-musk-attacking-the-acting-nasa-chief",
-      "publishedAt": "2025-10-22T18:38:23Z",
-      "processed_at": "2025-10-24T12:43:57.476632+00:00"
-    },
-    {
-      "title": "Marvel Comics Celebrates the Launch of 'MARVEL Cosmic Invasion' with New Variant Covers - Marvel",
-      "source": {
-        "name": "Marvel Entertainment"
-      },
-      "description": "Starting in January, new comic book variant covers will feature character artwork from 'MARVEL Cosmi...",
-      "url": "https://www.marvel.com/articles/comics/marvel-comics-celebrates-the-launch-of-marvel-cosmic-invasion-with-new-variant-covers",
-      "publishedAt": "2025-10-22T18:14:43Z",
-      "processed_at": "2025-10-24T12:43:57.476632+00:00"
-    },
-    {
-      "title": "Apple Removes Women Dating Safety App from the App Store - 404 Media",
-      "source": {
-        "name": "404media.co"
-      },
-      "description": "The app, which went viral before facing multiple data breaches, is currently unavailable on the Appl...",
-      "url": "https://www.404media.co/women-dating-safety-app-tea-delisted-from-apple-app-store/",
-      "publishedAt": "2025-10-22T18:06:16Z",
-      "processed_at": "2025-10-24T12:43:57.476632+00:00"
-    },
-    {
-      "title": "MTG Hybrid Mana Rules in Commander May Be Changing Soon - MTG Rocks",
-      "source": {
-        "name": "Mtgrocks.com"
-      },
-      "description": "Wizards of the Coast has announced the might change the Hybrid Mana rules in Commander to increase d...",
-      "url": "https://mtgrocks.com/mtg-hybrid-mana-rules-in-commander-may-be-changing-soon/",
-      "publishedAt": "2025-10-22T15:39:47Z",
-      "processed_at": "2025-10-24T12:43:57.476632+00:00"
-    },
-    {
-      "title": "Nintendo announces a string of free updates for Pikmin 4 and Pikmin Bloom - The Verge",
+      "title": "OpenAI teases new features and fixes for ChatGPT Atlas - The Verge",
       "source": {
         "name": "The Verge"
       },
-      "description": "The updates will arrive in November, and now you can watch Nintendo’s full ’Close to You’ CG short o...",
-      "url": "https://www.theverge.com/news/804408/nintendo-pikmin-4-bloom-november-updates",
-      "publishedAt": "2025-10-22T15:37:05Z",
-      "processed_at": "2025-10-24T12:43:57.476632+00:00"
+      "description": "Product lead Adam Fry published a list of upcoming fixes and features for OpenAI’s AI-powered browse...",
+      "url": "https://www.theverge.com/news/805160/openai-chatgpt-atlas-updates",
+      "publishedAt": "2025-10-23T10:39:15Z",
+      "processed_at": "2025-10-24T13:31:28.081167+00:00"
     },
     {
-      "title": "ChatGPT Atlas is an AI-infused, but Chromium-based browser - 9to5Google",
+      "title": "Musk doubles down in fight with Trump administration, risking his empire - The Washington Post",
       "source": {
-        "name": "9to5google.com"
+        "name": "The Washington Post"
       },
-      "description": "OpenAI has launched its first browser in ChatGPT “Atlas,” and while it has its own set of features, ...",
-      "url": "http://9to5google.com/2025/10/22/chatgpt-atlas-is-yet-another-chromium-based-browser-with-clever-ai-features/",
-      "publishedAt": "2025-10-22T15:15:00Z",
-      "processed_at": "2025-10-24T12:43:57.476632+00:00"
+      "description": "The tech executive has shown little sign of backing down from a battle over the future of NASA. It h...",
+      "url": "https://www.washingtonpost.com/technology/2025/10/23/elon-musk-sean-duffy-washington/",
+      "publishedAt": "2025-10-23T10:06:36Z",
+      "processed_at": "2025-10-24T13:31:28.081167+00:00"
+    },
+    {
+      "title": "The Espresso Pro portable monitor is a revolution for remote work - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "The super slim and lightweight 15.6-inch Espresso Pro monitor features a 4k touchscreen display with...",
+      "url": "https://www.theverge.com/reviews/805112/the-espresso-pro-portable-monitor-is-a-revolution-for-remote-work",
+      "publishedAt": "2025-10-23T09:56:10Z",
+      "processed_at": "2025-10-24T13:31:28.081167+00:00"
+    },
+    {
+      "title": "CS2 Trade Update Upends Skin Market With New Knife Crafting - Dataconomy",
+      "source": {
+        "name": "Dataconomy.com"
+      },
+      "description": "Valve released a major update for Counter-Strike 2 (CS2), fundamentally reshaping the game's long-st...",
+      "url": "https://dataconomy.com/2025/10/23/cs2-trade-update-upends-skin-market-with-new-knife-crafting/",
+      "publishedAt": "2025-10-23T09:05:00Z",
+      "processed_at": "2025-10-24T13:31:28.081167+00:00"
+    },
+    {
+      "title": "OnePlus confirms a key downgrade for the OnePlus 15 - Android Authority",
+      "source": {
+        "name": "Android Authority"
+      },
+      "description": "The OnePlus 15 launches in China in a few days, and the company has now confirmed a significant down...",
+      "url": "https://www.androidauthority.com/oneplus-15-key-downgrade-confirmed-3609479/",
+      "publishedAt": "2025-10-23T07:31:43Z",
+      "processed_at": "2025-10-24T13:31:28.081167+00:00"
+    },
+    {
+      "title": "Google promises GPU updates for Pixel 10, but what does it really mean? - Android Authority",
+      "source": {
+        "name": "Android Authority"
+      },
+      "description": "A Google spokesperson confirmed to Android Authority that the company is planning further GPU driver...",
+      "url": "https://www.androidauthority.com/google-pixel-10-gpu-update-3609497/",
+      "publishedAt": "2025-10-23T07:23:17Z",
+      "processed_at": "2025-10-24T13:31:28.081167+00:00"
+    },
+    {
+      "title": "This is fine: Google Photos could soon let you turn yourself into a meme - Android Authority",
+      "source": {
+        "name": "Android Authority"
+      },
+      "description": "Google Photos is testing an AI meme generator feature that puts your face into meme templates for pe...",
+      "url": "https://www.androidauthority.com/google-photos-meme-generator-apk-teardown-3609502/",
+      "publishedAt": "2025-10-23T07:13:03Z",
+      "processed_at": "2025-10-24T13:31:28.081167+00:00"
+    },
+    {
+      "title": "Apple’s reportedly pulling back on iPhone Air production - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "iPhone supply chain rumors point to strong iPhone 17 sales overall, but cutbacks for Apple’s planned...",
+      "url": "https://www.theverge.com/news/804758/iphone-air-sales-production-targets-drop",
+      "publishedAt": "2025-10-22T19:46:45Z",
+      "processed_at": "2025-10-24T13:31:28.081167+00:00"
+    },
+    {
+      "title": "Samsung Galaxy XR is the first Android XR headset, now on sale for $1,800 - Ars Technica",
+      "source": {
+        "name": "Ars Technica"
+      },
+      "description": "It may not be as spendy as the Vision Pro, but $1,800 is still a lot....",
+      "url": "https://arstechnica.com/google/2025/10/samsung-galaxy-xr-is-the-first-android-xr-headset-now-on-sale-for-1800/",
+      "publishedAt": "2025-10-22T18:12:50Z",
+      "processed_at": "2025-10-24T13:31:28.081167+00:00"
     }
   ],
-  "lastUpdated": "2025-10-24T12:43:57.476697+00:00",
+  "lastUpdated": "2025-10-24T13:31:28.081238+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
