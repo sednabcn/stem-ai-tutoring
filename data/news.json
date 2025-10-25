@@ -3,6 +3,26 @@
   "totalResults": 9,
   "articles": [
     {
+      "title": "M5 MacBook Pro’s Single Fan Cooler Unable To Prevent Thermal Throttling; Chipset Can Reach 99 Degrees Celsius When Under Load, But Runs Cooler Than M4 - Wccftech",
+      "source": {
+        "name": "Wccftech"
+      },
+      "description": "Despite being extremely power efficient, Apple’s newest M5 MacBook Pro can get insanely hot, with th...",
+      "url": "https://wccftech.com/m5-macbook-pro-can-reach-99-degrees-celsius-when-under-load-but-runs-cooler-than-m4/",
+      "publishedAt": "2025-10-24T07:18:00Z",
+      "processed_at": "2025-10-25T13:23:30.394560+00:00"
+    },
+    {
+      "title": "Pokemon Legends: Z-A sells 5.8 million copies worldwide in first week - Nintendo Everything",
+      "source": {
+        "name": "Nintendoeverything.com"
+      },
+      "description": "The Pokemon Company has announced an official sales achievement for Pokemon Legends: Z-A, with the g...",
+      "url": "https://nintendoeverything.com/pokemon-legends-z-a-sells-5-8-million-copies-worldwide-in-first-week/",
+      "publishedAt": "2025-10-24T03:22:30Z",
+      "processed_at": "2025-10-25T13:23:30.394560+00:00"
+    },
+    {
       "title": "Apple decries ‘intense lobbying,’ threatens to turn off App Tracking Transparency in Europe - 9to5Mac",
       "source": {
         "name": "9to5Mac"
@@ -10,7 +30,17 @@
       "description": "In a statement to the German Press Agency, Apple claimed that it may have to turn off App Tracking T...",
       "url": "https://9to5mac.com/2025/10/23/apple-decries-intense-lobbying-threatens-to-turn-off-app-tracking-transparency-in-europe/",
       "publishedAt": "2025-10-24T02:02:00Z",
-      "processed_at": "2025-10-25T12:37:16.934214+00:00"
+      "processed_at": "2025-10-25T13:23:30.394560+00:00"
+    },
+    {
+      "title": "YouTube video player redesign & new icons roll out to Android, iOS - 9to5Google",
+      "source": {
+        "name": "9to5google.com"
+      },
+      "description": "Following the announcement last week, the video player, icon, and app-wide redesign is now widely ro...",
+      "url": "http://9to5google.com/2025/10/23/youtube-video-player-icon-redesign-rollout/",
+      "publishedAt": "2025-10-24T01:33:00Z",
+      "processed_at": "2025-10-25T13:23:30.394560+00:00"
     },
     {
       "title": "Samsung Galaxy XR vs Meta Quest 3: Comparing specs and price - Mashable",
@@ -20,7 +50,7 @@
       "description": "There's a big gulf in price, but what about everything else?...",
       "url": "https://mashable.com/article/samsung-galaxy-xr-vs-meta-quest-3-specs-price",
       "publishedAt": "2025-10-23T22:52:30Z",
-      "processed_at": "2025-10-25T12:37:16.934214+00:00"
+      "processed_at": "2025-10-25T13:23:30.394560+00:00"
     },
     {
       "title": "Microsoft Edge’s new Copilot Mode turns on more AI features - The Verge",
@@ -30,17 +60,7 @@
       "description": "Microsoft is launching Copilot Mode in Edge, making its AI assistant your portal to the web. The com...",
       "url": "https://www.theverge.com/news/805833/microsoft-edge-copilot-mode-ai-launch",
       "publishedAt": "2025-10-23T22:00:35Z",
-      "processed_at": "2025-10-25T12:37:16.934214+00:00"
-    },
-    {
-      "title": "Nintendo’s chips let this Lego Game Boy upgrade kit play real cartridges - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "Natalie the Nerd, who modded the Lego Game Boy to play actual carts, will sell her mod as a drop-in ...",
-      "url": "https://www.theverge.com/games/805673/nintendos-chips-make-this-lego-game-boy-upgrade-kit-the-most-authentic",
-      "publishedAt": "2025-10-23T21:52:38Z",
-      "processed_at": "2025-10-25T12:37:16.934214+00:00"
+      "processed_at": "2025-10-25T13:23:30.394560+00:00"
     },
     {
       "title": "Amazon (AMZN) Sees Another Senior VP Exit from Devices Unit This Month - TipRanks",
@@ -50,7 +70,7 @@
       "description": "Amazon ($AMZN) is facing its second high-level departure from the devices division this month. Lindo...",
       "url": "https://www.tipranks.com/news/amazon-amzn-sees-another-senior-vp-exit-from-devices-unit-this-month",
       "publishedAt": "2025-10-23T21:17:56Z",
-      "processed_at": "2025-10-25T12:37:16.934214+00:00"
+      "processed_at": "2025-10-25T13:23:30.394560+00:00"
     },
     {
       "title": "OpenAI buys Sky, an AI interface for Mac - TechCrunch",
@@ -60,7 +80,7 @@
       "description": "OpenAI has acquired Software Applications, Inc., the startup behind Sky — an AI-powered natural lang...",
       "url": "https://techcrunch.com/2025/10/23/openai-buys-sky-an-ai-interface-for-mac/",
       "publishedAt": "2025-10-23T20:53:02Z",
-      "processed_at": "2025-10-25T12:37:16.934214+00:00"
+      "processed_at": "2025-10-25T13:23:30.394560+00:00"
     },
     {
       "title": "EA partners with Stability AI for ‘transformative’ AI game-making tools - The Verge",
@@ -70,30 +90,10 @@
       "description": "EA is partnering with Stability AI to help infuse AI into its development processes, with the compan...",
       "url": "https://www.theverge.com/news/805777/ea-stability-ai-transformative-game-development-tools",
       "publishedAt": "2025-10-23T20:23:53Z",
-      "processed_at": "2025-10-25T12:37:16.934214+00:00"
-    },
-    {
-      "title": "Google Fi details how HD calling works - 9to5Google",
-      "source": {
-        "name": "9to5google.com"
-      },
-      "description": "Alongside the series of announcements earlier this week, Google Fi made official HD calling. Its abs...",
-      "url": "http://9to5google.com/2025/10/23/google-fi-hd-calling/",
-      "publishedAt": "2025-10-23T20:10:00Z",
-      "processed_at": "2025-10-25T12:37:16.934214+00:00"
-    },
-    {
-      "title": "What happened to Apple's legendary attention to detail? - Hacker News",
-      "source": {
-        "name": "Hacker News"
-      },
-      "description": "",
-      "url": "https://news.ycombinator.com/item?id\\\\u003d45685551",
-      "publishedAt": "2025-10-23T19:27:52Z",
-      "processed_at": "2025-10-25T12:37:16.934214+00:00"
+      "processed_at": "2025-10-25T13:23:30.394560+00:00"
     }
   ],
-  "lastUpdated": "2025-10-25T12:37:16.934290+00:00",
+  "lastUpdated": "2025-10-25T13:23:30.394629+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
