@@ -3,6 +3,36 @@
   "totalResults": 10,
   "articles": [
     {
+      "title": "Microsoft Copilot’s version of Clippy gets a name - Mashable",
+      "source": {
+        "name": "Mashable"
+      },
+      "description": "Welcome, Mico....",
+      "url": "https://mashable.com/article/microsoft-copilot-clippy-name-mico",
+      "publishedAt": "2025-10-24T22:30:00Z",
+      "processed_at": "2025-10-25T23:17:10.123862+00:00"
+    },
+    {
+      "title": "iOS 26.1 Beta Liquid Glass Battery Drain Test: Tinted vs Clear Mode - MacRumors",
+      "source": {
+        "name": "MacRumors"
+      },
+      "description": "In the fourth iOS 26.1 beta, Apple added a \"Tinted\" option that reduces the translucency of Liquid G...",
+      "url": "https://www.macrumors.com/2025/10/24/ios-26-1-liquid-glass-battery-test/",
+      "publishedAt": "2025-10-24T21:30:33Z",
+      "processed_at": "2025-10-25T23:17:10.123862+00:00"
+    },
+    {
+      "title": "The Outer Worlds 2 PC Performance Benchmarks: Unreal Engine 5 Strikes Again - Wccftech",
+      "source": {
+        "name": "Wccftech"
+      },
+      "description": "Here are our PC performance benchmarks for The Outer Worlds 2, the latest AAA RPG with raytracing & ...",
+      "url": "https://wccftech.com/the-outer-worlds-2-pc-performance-benchmarks/",
+      "publishedAt": "2025-10-24T21:00:00Z",
+      "processed_at": "2025-10-25T23:17:10.123862+00:00"
+    },
+    {
       "title": "Halo: Campaign Evolved is a gorgeous remake that debuts on PS5 and Xbox in 2026 - The Verge",
       "source": {
         "name": "The Verge"
@@ -10,37 +40,37 @@
       "description": "Halo is coming to PlayStation. Halo: Campaign Evolved is an impressive remake that debuts on PS5 and...",
       "url": "https://www.theverge.com/news/805174/halo-campaign-evolved-remake-xbox-ps5-release-date",
       "publishedAt": "2025-10-24T20:23:31Z",
-      "processed_at": "2025-10-25T22:17:24.090287+00:00"
+      "processed_at": "2025-10-25T23:17:10.123862+00:00"
     },
     {
-      "title": "Neato’s cloud is shutting down, leaving its robovacs stuck in manual mode - The Verge",
+      "title": "How to use the new ChatGPT app integrations, including Spotify, Figma, Canva, and others - TechCrunch",
       "source": {
-        "name": "The Verge"
+        "name": "TechCrunch"
       },
-      "description": "Neato Robotics is officially ending support for cloud services for its robot vacuum cleaners....",
-      "url": "https://www.theverge.com/news/806246/neato-robovac-cloud-shutdown",
-      "publishedAt": "2025-10-24T18:03:42Z",
-      "processed_at": "2025-10-25T22:17:24.090287+00:00"
+      "description": "Learn how to use Spotify, Canva, Figma, Expedia, and other apps directly in ChatGPT....",
+      "url": "https://techcrunch.com/2025/10/24/how-to-use-the-new-chatgpt-app-integrations-including-spotify-figma-canva-and-others/",
+      "publishedAt": "2025-10-24T19:08:10Z",
+      "processed_at": "2025-10-25T23:17:10.123862+00:00"
     },
     {
-      "title": "Microsoft’s Mico heightens the risks of parasocial LLM relationships - Ars Technica",
+      "title": "OpenAI is coming for your MacBook with latest acquisition - Mashable",
       "source": {
-        "name": "Ars Technica"
+        "name": "Mashable"
       },
-      "description": "“It looks like you’re trying to find a friend. Would you like help?”…...",
-      "url": "https://arstechnica.com/ai/2025/10/microsofts-mico-heightens-the-risks-of-parasocial-llm-relationships/",
-      "publishedAt": "2025-10-24T17:07:57Z",
-      "processed_at": "2025-10-25T22:17:24.090287+00:00"
+      "description": "The ChatGPT creator has acquired Sky, an AI interface for Mac....",
+      "url": "https://mashable.com/article/openai-acquires-sky-ai-mac-interface",
+      "publishedAt": "2025-10-24T18:01:45Z",
+      "processed_at": "2025-10-25T23:17:10.123862+00:00"
     },
     {
-      "title": "Pokemon star WolfeyVGC taking break from competing after being groped at events - Dexerto",
+      "title": "Tech Bro Uses AI To Create The Worst FPS Ever - Kotaku",
       "source": {
-        "name": "Dexerto"
+        "name": "Kotaku"
       },
-      "description": "Former Pokemon VGC World Champion WolfeyVGC has revealed that he will be stepping back from competin...",
-      "url": "https://www.dexerto.com/pokemon/pokemon-star-wolfeyvgc-taking-break-from-competing-after-being-groped-at-events-3273920/",
-      "publishedAt": "2025-10-24T17:04:25Z",
-      "processed_at": "2025-10-25T22:17:24.090287+00:00"
+      "description": "This is some of the worst Tom Clancy shovelware I've ever seen...",
+      "url": "https://kotaku.com/gen-ai-fps-tom-clancy-shooter-hyperwrite-2000638861",
+      "publishedAt": "2025-10-24T17:03:59Z",
+      "processed_at": "2025-10-25T23:17:10.123862+00:00"
     },
     {
       "title": "Kirby Air Riders’ impressive accessibility features are a rarity for Nintendo - The Verge",
@@ -50,60 +80,30 @@
       "description": "In the most recent Nintendo Direct, Masahiro Sakurai outlined the suite of accessibility features co...",
       "url": "https://www.theverge.com/games/806242/kirby-air-riders-accessibility-features-nintendo-switch-2",
       "publishedAt": "2025-10-24T17:00:00Z",
-      "processed_at": "2025-10-25T22:17:24.090287+00:00"
-    },
-    {
-      "title": "Epomaker’s surprisingly great P75 keyboard is on sale for just $79.99 - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "The Epomaker P75 mechanical keyboard is still available for $79.99 ($20 off). The Blink Mini 2 and A...",
-      "url": "https://www.theverge.com/tech/806167/epomaker-p75-mechanical-keyboard-blink-mini-2-deal-sale",
-      "publishedAt": "2025-10-24T16:40:56Z",
-      "processed_at": "2025-10-25T22:17:24.090287+00:00"
-    },
-    {
-      "title": "Indie shooter Escape From Duckov overtakes Battlefield 6 on Steam - Dexerto",
-      "source": {
-        "name": "Dexerto"
-      },
-      "description": "Escape From Duckov has proven to be more popular than Battlefield 6 after beating the AAA game’s pla...",
-      "url": "https://www.dexerto.com/gaming/indie-shooter-escape-from-duckov-overtakes-battlefield-6-on-steam-3273511/",
-      "publishedAt": "2025-10-24T16:36:51Z",
-      "processed_at": "2025-10-25T22:17:24.090287+00:00"
+      "processed_at": "2025-10-25T23:17:10.123862+00:00"
     },
     {
       "title": "Newly Patched Critical Microsoft WSUS Flaw Comes Under Active Exploitation - The Hacker News",
       "source": {
         "name": "Internet"
       },
-      "description": "",
+      "description": "Microsoft releases urgent fix for critical WSUS flaw CVE-2025-59287 under active exploitation....",
       "url": "https://thehackernews.com/2025/10/microsoft-issues-emergency-patch-for.html",
       "publishedAt": "2025-10-24T16:30:00Z",
-      "processed_at": "2025-10-25T22:17:24.090287+00:00"
+      "processed_at": "2025-10-25T23:17:10.123862+00:00"
     },
     {
-      "title": "iOS 26.1: Everything new so far - 9to5Mac",
-      "source": {
-        "name": "9to5Mac"
-      },
-      "description": "After a summer of beta testing, Apple released iOS 26 to everyone last month. Now, attention has shi...",
-      "url": "https://9to5mac.com/2025/10/24/ios-26-1-new-features/",
-      "publishedAt": "2025-10-24T16:27:00Z",
-      "processed_at": "2025-10-25T22:17:24.090287+00:00"
-    },
-    {
-      "title": "Microsoft Outlook is getting an AI overhaul under new leaders - The Verge",
+      "title": "Nike is trying to sell you ‘mind-body’ shoes - The Verge",
       "source": {
         "name": "The Verge"
       },
-      "description": "Microsoft is getting ready to overhaul Outlook again. Microsoft’s mail app is being rebuilt with a f...",
-      "url": "https://www.theverge.com/tech/806162/microsoft-outlook-ai-overhaul-notepad",
-      "publishedAt": "2025-10-24T16:00:00Z",
-      "processed_at": "2025-10-25T22:17:24.090287+00:00"
+      "description": "Nike’s new Mind 001 and Mind 002 shoes sport nodes in the soles that it says help athletes tap into ...",
+      "url": "https://www.theverge.com/news/806259/nike-mind-neuroscience-footwear-foam-nodes",
+      "publishedAt": "2025-10-24T16:29:35Z",
+      "processed_at": "2025-10-25T23:17:10.123862+00:00"
     }
   ],
-  "lastUpdated": "2025-10-25T22:17:24.090366+00:00",
+  "lastUpdated": "2025-10-25T23:17:10.123940+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
