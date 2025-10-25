@@ -1,7 +1,47 @@
 {
   "status": "success",
-  "totalResults": 9,
+  "totalResults": 8,
   "articles": [
+    {
+      "title": "Indie shooter Escape From Duckov overtakes Battlefield 6 on Steam - Dexerto",
+      "source": {
+        "name": "Dexerto"
+      },
+      "description": "Escape From Duckov has proven to be more popular than Battlefield 6 after beating the AAA game’s pla...",
+      "url": "https://www.dexerto.com/gaming/indie-shooter-escape-from-duckov-overtakes-battlefield-6-on-steam-3273511/",
+      "publishedAt": "2025-10-24T16:36:51Z",
+      "processed_at": "2025-10-25T17:16:05.424385+00:00"
+    },
+    {
+      "title": "Microsoft Outlook is getting an AI overhaul under new leaders - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "Microsoft is getting ready to overhaul Outlook again. Microsoft’s mail app is being rebuilt with a f...",
+      "url": "https://www.theverge.com/tech/806162/microsoft-outlook-ai-overhaul-notepad",
+      "publishedAt": "2025-10-24T16:00:00Z",
+      "processed_at": "2025-10-25T17:16:05.424385+00:00"
+    },
+    {
+      "title": "Nobody Seems To Like The New Halloween Event In Borderlands 4 - Kotaku",
+      "source": {
+        "name": "Kotaku"
+      },
+      "description": "Sure, the new spooky event is free, but that still doesn't make it any good...",
+      "url": "https://kotaku.com/new-halloween-event-borderlands-4-sucks-bad-horrors-of-kairos-2000638842",
+      "publishedAt": "2025-10-24T15:05:40Z",
+      "processed_at": "2025-10-25T17:16:05.424385+00:00"
+    },
+    {
+      "title": "Sora for iOS will add three new features soon, here’s what’s coming - 9to5Mac",
+      "source": {
+        "name": "9to5Mac"
+      },
+      "description": "Sora’s head at OpenAI just revealed that the Sora iOS app has several new features coming soon, here...",
+      "url": "https://9to5mac.com/2025/10/24/sora-for-ios-will-add-three-new-features-soon-heres-whats-coming/",
+      "publishedAt": "2025-10-24T13:45:00Z",
+      "processed_at": "2025-10-25T17:16:05.424385+00:00"
+    },
     {
       "title": "Major Xbox outage preventing players from unlocking some achievements - TrueAchievements",
       "source": {
@@ -10,7 +50,27 @@
       "description": "It appears that a widespread Xbox outage is stopping players from unlocking Xbox achievements in pri...",
       "url": "https://www.trueachievements.com/news/xbox-achievements-not-unlocking-outage",
       "publishedAt": "2025-10-24T12:39:31Z",
-      "processed_at": "2025-10-25T16:23:09.453976+00:00"
+      "processed_at": "2025-10-25T17:16:05.424385+00:00"
+    },
+    {
+      "title": "ChatGPT enters the browser wars - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "On The Vergecast: ChatGPT Atlas, Samsung’s Galaxy XR, the future of Warner Bros. Discovery, and more...",
+      "url": "https://www.theverge.com/podcast/806031/chatgpt-atlas-ai-browser-wars-vergecast-warner-bros-discovery-sale",
+      "publishedAt": "2025-10-24T12:30:00Z",
+      "processed_at": "2025-10-25T17:16:05.424385+00:00"
+    },
+    {
+      "title": "Metroid Prime Producer Seems as Excited as Fans for a Metroid Prime 2 Remake - IGN",
+      "source": {
+        "name": "IGN"
+      },
+      "description": "If you are interested in catching up on the Metroid Prime trilogy ahead of Metroid Prime 4, Nintendo...",
+      "url": "https://www.ign.com/articles/metroid-prime-producer-seems-as-excited-as-fans-for-a-metroid-prime-2-remake",
+      "publishedAt": "2025-10-24T12:24:23Z",
+      "processed_at": "2025-10-25T17:16:05.424385+00:00"
     },
     {
       "title": "The OnePlus 15 is crushing Samsung's 2026 hopes - Android Authority",
@@ -20,80 +80,10 @@
       "description": "The more we learn about the OnePlus 15 and Galaxy S26 series, the more it looks like Samsung is in f...",
       "url": "https://www.androidauthority.com/oneplus-15-crushing-samsung-galaxy-s26-3609616/",
       "publishedAt": "2025-10-24T10:56:13Z",
-      "processed_at": "2025-10-25T16:23:09.453976+00:00"
-    },
-    {
-      "title": "Galaxy S26 Ultra design and key upgrade confirmed by case maker - Android Authority",
-      "source": {
-        "name": "Android Authority"
-      },
-      "description": "A new Thinborne case listing may have given us the clearest look yet at Samsung’s next flagship, the...",
-      "url": "https://www.androidauthority.com/samsung-galaxy-s26-ultra-case-leak-3609873/",
-      "publishedAt": "2025-10-24T09:50:39Z",
-      "processed_at": "2025-10-25T16:23:09.453976+00:00"
-    },
-    {
-      "title": "PS6 Launch Price Surfaces, Take Our Money Right Now - GAMINGbible",
-      "source": {
-        "name": "Gamingbible.com"
-      },
-      "description": "The next set of console releases will see the two big manufacturers (outside of Nintendo) go in very...",
-      "url": "https://www.gamingbible.com/news/ps6-launch-price-xbox-compared-526773-20251024",
-      "publishedAt": "2025-10-24T09:30:41Z",
-      "processed_at": "2025-10-25T16:23:09.453976+00:00"
-    },
-    {
-      "title": "Google Pixel’s most dangerous bug refuses to die - Android Police",
-      "source": {
-        "name": "Android Police"
-      },
-      "description": "911 calling issues resurface...",
-      "url": "https://www.androidpolice.com/google-pixels-most-dangerous-bug-refuses-to-die/",
-      "publishedAt": "2025-10-24T07:41:00Z",
-      "processed_at": "2025-10-25T16:23:09.453976+00:00"
-    },
-    {
-      "title": "M5 MacBook Pro’s Single Fan Cooler Unable To Prevent Thermal Throttling; Chipset Can Reach 99 Degrees Celsius When Under Load, But Runs Cooler Than M4 - Wccftech",
-      "source": {
-        "name": "Wccftech"
-      },
-      "description": "Despite being extremely power efficient, Apple’s newest M5 MacBook Pro can get insanely hot, with th...",
-      "url": "https://wccftech.com/m5-macbook-pro-can-reach-99-degrees-celsius-when-under-load-but-runs-cooler-than-m4/",
-      "publishedAt": "2025-10-24T07:18:00Z",
-      "processed_at": "2025-10-25T16:23:09.453976+00:00"
-    },
-    {
-      "title": "PS5 Pro Is Definitely Not the Best Place to Play The Outer Worlds 2 at Launch - Push Square",
-      "source": {
-        "name": "Push Square"
-      },
-      "description": "",
-      "url": "https://www.pushsquare.com/news/2025/10/ps5-pro-is-definitely-not-the-best-place-to-play-the-outer-worlds-2-at-launch",
-      "publishedAt": "2025-10-24T06:21:45Z",
-      "processed_at": "2025-10-25T16:23:09.453976+00:00"
-    },
-    {
-      "title": "Pokémon Legends: Z-A Sold 5.8 Million Copies Globally In Its First Week - nintendolife.com",
-      "source": {
-        "name": "Nintendo Life"
-      },
-      "description": "Approximately half of the sales were for Switch 2...",
-      "url": "https://www.nintendolife.com/news/2025/10/pokemon-legends-z-a-sold-5-8-million-copies-globally-in-its-first-week",
-      "publishedAt": "2025-10-24T03:30:00Z",
-      "processed_at": "2025-10-25T16:23:09.453976+00:00"
-    },
-    {
-      "title": "Neuroscientist has developed a six-pound phone case to help limit screen time and doomscrolling 'addiction' - supercarblondie.com",
-      "source": {
-        "name": "Supercarblondie.com"
-      },
-      "description": "This neuroscientist is fighting modern problems with old-school solutions, and has built a six-pound...",
-      "url": "https://supercarblondie.com/neuroscientist-developed-six-pound-phone-case/",
-      "publishedAt": "2025-10-24T02:49:00Z",
-      "processed_at": "2025-10-25T16:23:09.453976+00:00"
+      "processed_at": "2025-10-25T17:16:05.424385+00:00"
     }
   ],
-  "lastUpdated": "2025-10-25T16:23:09.454057+00:00",
+  "lastUpdated": "2025-10-25T17:16:05.424447+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
