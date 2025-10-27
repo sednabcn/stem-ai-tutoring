@@ -3,6 +3,36 @@
   "totalResults": 10,
   "articles": [
     {
+      "title": "Tedious Hiking With No Tracks in the Snow - The Trek",
+      "source": {
+        "name": "Thetrek.co"
+      },
+      "description": "After a while all of the prints disappeared entirely and I was just postholing for the foreseeable f...",
+      "url": "https://thetrek.co/pacific-crest-trail/tedious-hiking-with-no-tracks-in-the-snow/",
+      "publishedAt": "2025-10-26T21:27:57Z",
+      "processed_at": "2025-10-27T23:18:24.937759+00:00"
+    },
+    {
+      "title": "The Pros & Cons Of 3 Cylinder Engines - Jalopnik",
+      "source": {
+        "name": "Jalopnik"
+      },
+      "description": "Cars with 3-cylinder engines tend to get better gas mileage and may offer lower maintenance costs, b...",
+      "url": "https://www.jalopnik.com/2005436/three-cylinder-engines-pros-cons/",
+      "publishedAt": "2025-10-26T21:25:00Z",
+      "processed_at": "2025-10-27T23:18:24.937759+00:00"
+    },
+    {
+      "title": "Sony Quietly Liquidates XM4 Stock at New Record Low, Amazon Just Sold 10K Units - Kotaku",
+      "source": {
+        "name": "Kotaku"
+      },
+      "description": "Despite newer generations, the Sony XM4 remains among the best and cheapest options....",
+      "url": "https://kotaku.com/sony-quietly-liquidates-xm4-stock-at-new-record-low-amazon-just-sold-10k-units-2000639122",
+      "publishedAt": "2025-10-26T21:23:11Z",
+      "processed_at": "2025-10-27T23:18:24.937759+00:00"
+    },
+    {
       "title": "21 Products That Were Hailed As \"The Next Big Thing\" But Then Faded Into Obscurity - BuzzFeed",
       "source": {
         "name": "Buzzfeed"
@@ -10,17 +40,7 @@
       "description": "\"3D TVs were marketed everywhere, but I didn't know a single person who owned one.\"...",
       "url": "https://www.buzzfeed.com/jake_farrington/next-big-thing-flops",
       "publishedAt": "2025-10-26T20:31:02Z",
-      "processed_at": "2025-10-27T22:18:45.176974+00:00"
-    },
-    {
-      "title": "\"Our biggest competition isn't another console, it's everything from TikTok to movies,\" says Xbox president - Eurogamer",
-      "source": {
-        "name": "Eurogamer.net"
-      },
-      "description": "President of Xbox game content and studios, Matt Booty, has claimed the company's competition no lon...",
-      "url": "https://www.eurogamer.net/our-biggest-competition-isnt-another-console-its-everything-from-tiktok-to-movies-says-xbox-president",
-      "publishedAt": "2025-10-26T19:23:00Z",
-      "processed_at": "2025-10-27T22:18:45.176974+00:00"
+      "processed_at": "2025-10-27T23:18:24.937759+00:00"
     },
     {
       "title": "Report: First Look at Cancelled God of War Multiplayer Game Unveiled - MP1st",
@@ -30,17 +50,27 @@
       "description": "See the first screenshots of Bluepoint's cancelled live-service God of War game, revealing its retur...",
       "url": "https://mp1st.com/news/report-first-look-at-cancelled-god-of-war-multiplayer-game-unveiled",
       "publishedAt": "2025-10-26T19:13:20Z",
-      "processed_at": "2025-10-27T22:18:45.176974+00:00"
+      "processed_at": "2025-10-27T23:18:24.937759+00:00"
     },
     {
-      "title": "PowerWash Simulator 2's co-op multiplayer needs a tiny bit more love - TrueAchievements",
+      "title": "Please stop using Outlook - MakeUseOf",
       "source": {
-        "name": "TrueAchievements"
+        "name": "MakeUseOf"
       },
-      "description": "PowerWash Simulator 2's co-op multiplayer is pretty good and gives me what I wanted, but it could al...",
-      "url": "https://www.trueachievements.com/news/powerwash-simulator-2-co-op-multiplayer-impressions",
-      "publishedAt": "2025-10-26T18:10:36Z",
-      "processed_at": "2025-10-27T22:18:45.176974+00:00"
+      "description": "Outlook feels too much like Microsoft and that’s the problem...",
+      "url": "https://www.makeuseof.com/please-stop-using-outlook/",
+      "publishedAt": "2025-10-26T18:03:42Z",
+      "processed_at": "2025-10-27T23:18:24.937759+00:00"
+    },
+    {
+      "title": "Making Math Less Stressful With A Python Super-Calculator - Hackaday",
+      "source": {
+        "name": "Hackaday"
+      },
+      "description": "In a recent write-up, [David Delony] explains how he built a Wolfram Mathematica-like engine with Py...",
+      "url": "https://hackaday.com/2025/10/26/making-math-less-stressful-with-a-python-super-calculator/",
+      "publishedAt": "2025-10-26T17:00:00Z",
+      "processed_at": "2025-10-27T23:18:24.937759+00:00"
     },
     {
       "title": "Google Pixel’s best color in years, ‘Indigo,’ is even better on Watch [Gallery] - 9to5Google",
@@ -50,7 +80,17 @@
       "description": "If there’s one thing Google is good at with Pixel, it’s color. This year, “Indigo” is the standout c...",
       "url": "http://9to5google.com/2025/10/26/google-pixel-indigo-color-watch/",
       "publishedAt": "2025-10-26T16:05:53Z",
-      "processed_at": "2025-10-27T22:18:45.176974+00:00"
+      "processed_at": "2025-10-27T23:18:24.937759+00:00"
+    },
+    {
+      "title": "Alibaba’s Qwen Deep Research Creates Live Webpages, Podcasts in Seconds - Decrypt",
+      "source": {
+        "name": "Decrypt"
+      },
+      "description": "Alibaba's Qwen Deep Research now converts reports into live webpages and podcasts with one click. He...",
+      "url": "https://decrypt.co/345517/alibabas-qwen-deep-research-live-webpages-podcasts-seconds",
+      "publishedAt": "2025-10-26T16:03:21Z",
+      "processed_at": "2025-10-27T23:18:24.937759+00:00"
     },
     {
       "title": "Forget Linux Mint — this is the Windows alternative you need - MakeUseOf",
@@ -60,50 +100,10 @@
       "description": "A familiar desktop without the Microsoft baggage....",
       "url": "https://www.makeuseof.com/forget-linux-mint-windows-alternative/",
       "publishedAt": "2025-10-26T16:00:00Z",
-      "processed_at": "2025-10-27T22:18:45.176974+00:00"
-    },
-    {
-      "title": "‘They Complained, Then Left With the Best Exclusivity Deal of All Time’ – The Story of PS2’s Blockbuster GTA Deal - IGN",
-      "source": {
-        "name": "IGN"
-      },
-      "description": "Inside the lucrative West Hollywood meeting where Sony secured Grand Theft Auto as a PS2 timed-exclu...",
-      "url": "https://www.ign.com/articles/how-sony-secured-gta-as-a-ps2-exclusive",
-      "publishedAt": "2025-10-26T15:30:39Z",
-      "processed_at": "2025-10-27T22:18:45.176974+00:00"
-    },
-    {
-      "title": "Man buys replacement part for his broken iPhone from Temu to see if it’ll fix it - supercarblondie.com",
-      "source": {
-        "name": "Supercarblondie.com"
-      },
-      "description": "This YouTuber attempted to fix his broken iPhone using a cheap part he found on Temu. Once he rebuil...",
-      "url": "https://supercarblondie.com/man-buys-temu-part-to-fix-broken-iphone/",
-      "publishedAt": "2025-10-26T15:27:00Z",
-      "processed_at": "2025-10-27T22:18:45.176974+00:00"
-    },
-    {
-      "title": "The 25 Best PlayStation 2 Games of All Time - Rolling Stone",
-      "source": {
-        "name": "Rolling Stone"
-      },
-      "description": "From 'Grand Theft Auto' to 'God of War,' Sony's PS2 has one of the deepest game benches of any conso...",
-      "url": "http://www.rollingstone.com/culture/rs-gaming-lists/best-ps2-games-1235451115/",
-      "publishedAt": "2025-10-26T14:30:00Z",
-      "processed_at": "2025-10-27T22:18:45.176974+00:00"
-    },
-    {
-      "title": "PC Repair Specialist Calls NVIDIA RTX 5090 Founders Edition One Of The”Worst Designs Ever” - Wccftech",
-      "source": {
-        "name": "Wccftech"
-      },
-      "description": "A damaged NVIDIA RTX 5090 Founders Edition couldn't be fixed as its connector was damaged pretty eas...",
-      "url": "https://wccftech.com/northridgefix-calls-rtx-5090-fe-worst-design/",
-      "publishedAt": "2025-10-26T14:30:00Z",
-      "processed_at": "2025-10-27T22:18:45.176974+00:00"
+      "processed_at": "2025-10-27T23:18:24.937759+00:00"
     }
   ],
-  "lastUpdated": "2025-10-27T22:18:45.177048+00:00",
+  "lastUpdated": "2025-10-27T23:18:24.937835+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
