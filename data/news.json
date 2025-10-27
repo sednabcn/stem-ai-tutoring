@@ -1,7 +1,37 @@
 {
   "status": "success",
-  "totalResults": 10,
+  "totalResults": 9,
   "articles": [
+    {
+      "title": "Google Pixel’s best color in years, ‘Indigo,’ is even better on Watch [Gallery] - 9to5Google",
+      "source": {
+        "name": "9to5google.com"
+      },
+      "description": "If there’s one thing Google is good at with Pixel, it’s color. This year, “Indigo” is the standout c...",
+      "url": "http://9to5google.com/2025/10/26/google-pixel-indigo-color-watch/",
+      "publishedAt": "2025-10-26T16:05:53Z",
+      "processed_at": "2025-10-27T17:18:15.143760+00:00"
+    },
+    {
+      "title": "Man buys replacement part for his broken iPhone from Temu to see if it’ll fix it - supercarblondie.com",
+      "source": {
+        "name": "Supercarblondie.com"
+      },
+      "description": "This YouTuber attempted to fix his broken iPhone using a cheap part he found on Temu. Once he rebuil...",
+      "url": "https://supercarblondie.com/man-buys-temu-part-to-fix-broken-iphone/",
+      "publishedAt": "2025-10-26T15:27:00Z",
+      "processed_at": "2025-10-27T17:18:15.143760+00:00"
+    },
+    {
+      "title": "Adobe’s Project Indigo camera finally adds iPhone 17 support - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "Adobe got Project Indigo up and running on the iPhone 17 by turning off the front-facing square came...",
+      "url": "https://www.theverge.com/news/806779/adobes-project-indigo-camera-finally-adds-iphone-17-support",
+      "publishedAt": "2025-10-26T15:17:22Z",
+      "processed_at": "2025-10-27T17:18:15.143760+00:00"
+    },
     {
       "title": "Apple Reportedly Moving Ahead With Ads in Maps App - MacRumors",
       "source": {
@@ -10,7 +40,7 @@
       "description": "Apple Maps could feature integrated ads as soon as next year, Bloomberg's Mark Gurman reports.   In ...",
       "url": "https://www.macrumors.com/2025/10/26/apple-moving-ahead-with-ads-in-maps/",
       "publishedAt": "2025-10-26T13:22:22Z",
-      "processed_at": "2025-10-27T16:28:09.728130+00:00"
+      "processed_at": "2025-10-27T17:18:15.143760+00:00"
     },
     {
       "title": "The pipeline for Ph.D.s out of U.S. universities is shrinking - Axios",
@@ -20,7 +50,27 @@
       "description": "America graduates more Ph.D.s than any other country. They go on to invent things, cure diseases and...",
       "url": "https://www.axios.com/2025/10/26/phd-universities-science-technology-progress",
       "publishedAt": "2025-10-26T13:15:07Z",
-      "processed_at": "2025-10-27T16:28:09.728130+00:00"
+      "processed_at": "2025-10-27T17:18:15.143760+00:00"
+    },
+    {
+      "title": "The PlayStation 2 Still Has One Of The Most Exciting And Expansive Libraries Ever - GameSpot",
+      "source": {
+        "name": "GameSpot"
+      },
+      "description": "From Ico to Silent Hill, no consoles represent the diversity of video games better than the PS2....",
+      "url": "https://www.gamespot.com/articles/the-playstation-2-still-has-one-of-the-most-exciting-and-expansive-libraries-ever/1100-6535711/",
+      "publishedAt": "2025-10-26T13:13:56Z",
+      "processed_at": "2025-10-27T17:18:15.143760+00:00"
+    },
+    {
+      "title": "M6 iPad Pro Likely to Feature Vapor Chamber Cooling - MacRumors",
+      "source": {
+        "name": "MacRumors"
+      },
+      "description": "Apple is planning to bring an iPhone 17 Pro-style vapor chamber to the iPad Pro, according to Bloomb...",
+      "url": "https://www.macrumors.com/2025/10/26/m6-ipad-pro-likely-to-feature-vapor-chamber/",
+      "publishedAt": "2025-10-26T13:00:38Z",
+      "processed_at": "2025-10-27T17:18:15.143760+00:00"
     },
     {
       "title": "3 Michigan Football true freshmen burn redshirts at Michigan State - Maize n Brew",
@@ -30,7 +80,7 @@
       "description": "3 more Michigan Football true freshmen burned their redshirts in the game against Michigan State on ...",
       "url": "https://www.maizenbrew.com/football/95910/michigan-football-redshirt-tracker-michigan-state-jamar-browder-shamari-earls-chase-taylor-bryce-underwood-andrew-marsh",
       "publishedAt": "2025-10-26T13:00:00Z",
-      "processed_at": "2025-10-27T16:28:09.728130+00:00"
+      "processed_at": "2025-10-27T17:18:15.143760+00:00"
     },
     {
       "title": "Chrome for Android rolls out M3 Expressive redesign - 9to5Google",
@@ -40,70 +90,10 @@
       "description": "The rollout of Chrome's M3 Expressive redesign, which began in late August, is now complete. It come...",
       "url": "http://9to5google.com/2025/10/26/chrome-141-android-m3-expressive-redesign/",
       "publishedAt": "2025-10-26T12:35:40Z",
-      "processed_at": "2025-10-27T16:28:09.728130+00:00"
-    },
-    {
-      "title": "Browser Password Managers Are Great, and a Terrible Idea - WIRED",
-      "source": {
-        "name": "Wired"
-      },
-      "description": "Your browser isn’t leaking your passwords, but it’s still smarter to use a third-party password mana...",
-      "url": "https://www.wired.com/story/browser-password-managers/",
-      "publishedAt": "2025-10-26T12:30:00Z",
-      "processed_at": "2025-10-27T16:28:09.728130+00:00"
-    },
-    {
-      "title": "What’s Next for iPad Pro? A Vapor Chamber Like the One on the iPhone 17 Pro - Bloomberg.com",
-      "source": {
-        "name": "Bloomberg"
-      },
-      "description": "Apple is working on a vapor chamber to improve cooling and performance in an iPad Pro slated for as ...",
-      "url": "https://www.bloomberg.com/news/newsletters/2025-10-26/what-s-next-for-the-ipad-pro-iphone-17-pro-like-vapor-chamber-apple-maps-ads-mh7nq39h",
-      "publishedAt": "2025-10-26T12:00:20Z",
-      "processed_at": "2025-10-27T16:28:09.728130+00:00"
-    },
-    {
-      "title": "My favorite e-reader just got a big update - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "The Palma 2 Pro, ChatGPT Atlas, Plants vs Zombies Replanted, A House of Dynamite, and much more in t...",
-      "url": "https://www.theverge.com/tech/806697/boox-palma-2-pro-chatgpt-atlas-galaxy-xr-installer",
-      "publishedAt": "2025-10-26T12:00:00Z",
-      "processed_at": "2025-10-27T16:28:09.728130+00:00"
-    },
-    {
-      "title": "7 Discrete Gadgets to Boost Your Home Security Behind the Scenes - CNET",
-      "source": {
-        "name": "CNET"
-      },
-      "description": "The tiniest home security devices can have the biggest impact. Here's what these hidden add-ons can ...",
-      "url": "https://www.cnet.com/home/security/7-discrete-gadgets-to-boost-your-home-security-behind-the-scenes/",
-      "publishedAt": "2025-10-26T11:44:53Z",
-      "processed_at": "2025-10-27T16:28:09.728130+00:00"
-    },
-    {
-      "title": "Man Alarmed to Discover His Smart Vacuum Was Broadcasting a Secret Map of His House - Futurism",
-      "source": {
-        "name": "Futurism"
-      },
-      "description": "One man's robot vacuum was constantly communicating with its manufacturer, sending a detailed 3D map...",
-      "url": "http://futurism.com/robots-and-machines/robot-vacuum-broadcasting",
-      "publishedAt": "2025-10-26T10:45:00Z",
-      "processed_at": "2025-10-27T16:28:09.728130+00:00"
-    },
-    {
-      "title": "Act Now — Microsoft Issues Emergency Windows Update As Attacks Begin - Forbes",
-      "source": {
-        "name": "Forbes"
-      },
-      "description": "You have been warned. The latest Windows attacks have already started, and Microsoft has issued an e...",
-      "url": "https://www.forbes.com/sites/daveywinder/2025/10/26/act-now---microsoft-issues-emergency-windows-update-as-attacks-begin/",
-      "publishedAt": "2025-10-26T09:24:32Z",
-      "processed_at": "2025-10-27T16:28:09.728130+00:00"
+      "processed_at": "2025-10-27T17:18:15.143760+00:00"
     }
   ],
-  "lastUpdated": "2025-10-27T16:28:09.728201+00:00",
+  "lastUpdated": "2025-10-27T17:18:15.143829+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
