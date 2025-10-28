@@ -3,6 +3,66 @@
   "totalResults": 10,
   "articles": [
     {
+      "title": "M5 iPad Pro after five days: Was upgrade from M4 worth it? - 9to5Mac",
+      "source": {
+        "name": "9to5Mac"
+      },
+      "description": "Apple’s M5 iPad Pro arrived last week, and I upgraded to the new model after using the M4 model for ...",
+      "url": "https://9to5mac.com/2025/10/27/m5-ipad-pro-after-five-days-was-upgrade-from-m4-worth-it/",
+      "publishedAt": "2025-10-27T21:45:00Z",
+      "processed_at": "2025-10-28T21:18:58.646856+00:00"
+    },
+    {
+      "title": "AI-powered search engines rely on “less popular” sources, researchers find - Ars Technica",
+      "source": {
+        "name": "Ars Technica"
+      },
+      "description": "Generative search engines often cite sites that wouldn’t appear in Google’s top 100 links....",
+      "url": "https://arstechnica.com/ai/2025/10/ai-powered-search-engines-rely-on-less-popular-sources-researchers-find/",
+      "publishedAt": "2025-10-27T20:18:05Z",
+      "processed_at": "2025-10-28T21:18:58.646856+00:00"
+    },
+    {
+      "title": "Apple TV 4K Could Still Launch Before 2025 Ends: All the Rumored Features - MacRumors",
+      "source": {
+        "name": "MacRumors"
+      },
+      "description": "Apple is designing an updated version of the Apple TV 4K, and rumors suggest that it could come out ...",
+      "url": "https://www.macrumors.com/2025/10/27/apple-tv-4k-latest-2025-rumors/",
+      "publishedAt": "2025-10-27T19:51:32Z",
+      "processed_at": "2025-10-28T21:18:58.646856+00:00"
+    },
+    {
+      "title": "iOS 26 brought back a controversial AI feature, here’s what’s new - 9to5Mac",
+      "source": {
+        "name": "9to5Mac"
+      },
+      "description": "Notification summaries are now available once again in iOS 26 for News and Entertainment apps, here’...",
+      "url": "https://9to5mac.com/2025/10/27/ios-26-brought-back-a-controversial-ai-feature-heres-whats-new/",
+      "publishedAt": "2025-10-27T19:02:47Z",
+      "processed_at": "2025-10-28T21:18:58.646856+00:00"
+    },
+    {
+      "title": "The last-gen Kindle is a steal at just $65 refurbished - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "The refurbished 2022 Kindle is on sale for $64.99 when you apply the promo code FIREFIVE. The deal w...",
+      "url": "https://www.theverge.com/tech/807194/kindle-2022-refurbished-deal-sale",
+      "publishedAt": "2025-10-27T18:39:11Z",
+      "processed_at": "2025-10-28T21:18:58.646856+00:00"
+    },
+    {
+      "title": "Google Clock 8.3 rolling out with toned down alarm background - 9to5Google",
+      "source": {
+        "name": "9to5google.com"
+      },
+      "description": "Following the Material 3 Expressive redesign in August, Google Clock 8.3 is rolling out with a solid...",
+      "url": "http://9to5google.com/2025/10/27/google-clock-8-3/",
+      "publishedAt": "2025-10-27T18:33:32Z",
+      "processed_at": "2025-10-28T21:18:58.646856+00:00"
+    },
+    {
       "title": "Google Pixel adding ‘theme packs’ and more in November update, leaked images suggest - 9to5Google",
       "source": {
         "name": "9to5google.com"
@@ -10,17 +70,27 @@
       "description": "The forthcoming November update for Google Pixel devices has shown up a little early in some leaked ...",
       "url": "http://9to5google.com/2025/10/27/google-pixel-theme-packs-november-update-leak/",
       "publishedAt": "2025-10-27T18:19:10Z",
-      "processed_at": "2025-10-28T20:24:03.425298+00:00"
+      "processed_at": "2025-10-28T21:18:58.646856+00:00"
     },
     {
-      "title": "Telegram for Android adds a touch of ‘Liquid Glass’ in beta [Gallery] - 9to5Google",
+      "title": "Valve does not get \"anywhere near enough criticism\" for the gambling mechanics it uses to monetise games, DayZ creator Dean Hall says - Eurogamer",
       "source": {
-        "name": "9to5google.com"
+        "name": "Eurogamer.net"
       },
-      "description": "Telegram has released a new beta update on Android that adds a bit of Liquid Glass, and users aren’t...",
-      "url": "http://9to5google.com/2025/10/27/telegram-for-android-adds-a-touch-of-liquid-glass-in-beta-gallery/",
-      "publishedAt": "2025-10-27T17:54:56Z",
-      "processed_at": "2025-10-28T20:24:03.425298+00:00"
+      "description": "Dean Hall, the creator of DayZ and more recently Icarus, has called out Valve regarding the use of g...",
+      "url": "https://www.eurogamer.net/valve-does-not-get-anywhere-near-enough-criticism-for-the-gambling-mechanics-it-uses-to-monetise-games-dayz-creator-dean-hall-says",
+      "publishedAt": "2025-10-27T17:40:07Z",
+      "processed_at": "2025-10-28T21:18:58.646856+00:00"
+    },
+    {
+      "title": "Galaxy XR is the Headset the Industry Needs to Take Its Next Major Step - Road to VR",
+      "source": {
+        "name": "Road to VR"
+      },
+      "description": "Samsung’s Galaxy XR is finally here, and with it, a perfect middle-ground of price and features to s...",
+      "url": "https://www.roadtovr.com/samsung-galaxy-xr-industry-competition-meta-quest-apple-vision-pro/",
+      "publishedAt": "2025-10-27T17:28:34Z",
+      "processed_at": "2025-10-28T21:18:58.646856+00:00"
     },
     {
       "title": "Google says new Fitbit hardware is coming in 2026 - 9to5Google",
@@ -30,80 +100,10 @@
       "description": "As part of the Fitbit Coach preview, Google shared that it will be releasing “new Fitbit hardware” i...",
       "url": "http://9to5google.com/2025/10/27/new-fitbit-2026/",
       "publishedAt": "2025-10-27T17:19:05Z",
-      "processed_at": "2025-10-28T20:24:03.425298+00:00"
-    },
-    {
-      "title": "Fitbit’s overhauled app and AI health coach arrive tomorrow - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "Fitbit’s AI health coach is available now in preview, aiming to help make sense of all your health d...",
-      "url": "https://www.theverge.com/tech/806243/fitbit-ai-health-coach-app-update-preview",
-      "publishedAt": "2025-10-27T17:00:00Z",
-      "processed_at": "2025-10-28T20:24:03.425298+00:00"
-    },
-    {
-      "title": "34.0 Patch Notes — Hearthstone - Blizzard News",
-      "source": {
-        "name": "Blizzard.com"
-      },
-      "description": "",
-      "url": "https://news.blizzard.com/en-us/article/24243857/34-0-patch-notes",
-      "publishedAt": "2025-10-27T16:45:00Z",
-      "processed_at": "2025-10-28T20:24:03.425298+00:00"
-    },
-    {
-      "title": "Exclusive: Bungie Extends Marathon Closed Technical Test for Two Extra Days - The Game Post",
-      "source": {
-        "name": "Thegamepost.com"
-      },
-      "description": "Bungie is extending the Marathon Closed Technical Test by two more days, The Game Post has learned....",
-      "url": "https://thegamepost.com/exclusive-bungie-extends-marathon-closed-technical-test/",
-      "publishedAt": "2025-10-27T16:36:49Z",
-      "processed_at": "2025-10-28T20:24:03.425298+00:00"
-    },
-    {
-      "title": "Google fixes one of the Clock app's most confusing redesigns - Android Authority",
-      "source": {
-        "name": "Android Authority"
-      },
-      "description": "Can't tell when your alarm is going off? Google's rolling back one change to its Clock app in the na...",
-      "url": "https://www.androidauthority.com/google-clock-alarm-wallpaper-3610416/",
-      "publishedAt": "2025-10-27T16:35:18Z",
-      "processed_at": "2025-10-28T20:24:03.425298+00:00"
-    },
-    {
-      "title": "Battlefield 6 Battle Royale Shadow-Drop Imminent as EA Schedules REDSEC Gameplay Reveal for Tomorrow - IGN",
-      "source": {
-        "name": "IGN"
-      },
-      "description": "The long-leaked Battlefield 6 battle royale experience seems to be ready for a shadow-drop across PC...",
-      "url": "https://www.ign.com/articles/battlefield-6-battle-royale-shadow-drop-imminent-as-ea-schedules-redsec-gameplay-reveal-for-tomorrow",
-      "publishedAt": "2025-10-27T16:32:43Z",
-      "processed_at": "2025-10-28T20:24:03.425298+00:00"
-    },
-    {
-      "title": "No, it doesn’t cost $10 million to add Qi2 magnets to an Android phone - 9to5Google",
-      "source": {
-        "name": "9to5google.com"
-      },
-      "description": "The near-complete absence of Qi2 magnets in Android phones ended with the launch of the Pixel 10 ser...",
-      "url": "http://9to5google.com/2025/10/27/no-it-doesnt-cost-10-million-to-add-qi2-magnets-to-an-android-phone/",
-      "publishedAt": "2025-10-27T16:30:00Z",
-      "processed_at": "2025-10-28T20:24:03.425298+00:00"
-    },
-    {
-      "title": "Halo Gets Sucked Into ICE’s Recruitment Meme War - Kotaku",
-      "source": {
-        "name": "Kotaku"
-      },
-      "description": "The Trump administration is using Master Chief a lot today...",
-      "url": "https://kotaku.com/department-homeland-security-halo-ice-pokemon-video-dhs-2000639308",
-      "publishedAt": "2025-10-27T16:24:38Z",
-      "processed_at": "2025-10-28T20:24:03.425298+00:00"
+      "processed_at": "2025-10-28T21:18:58.646856+00:00"
     }
   ],
-  "lastUpdated": "2025-10-28T20:24:03.425373+00:00",
+  "lastUpdated": "2025-10-28T21:18:58.646929+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
