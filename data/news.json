@@ -3,6 +3,16 @@
   "totalResults": 10,
   "articles": [
     {
+      "title": "First look: DJI’s Romo robot vacuum - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "DJI’s first robot vacuum launches in Europe for €1,900....",
+      "url": "https://www.theverge.com/tech/807461/dji-romo-robot-vacuum-europe-launch-specs-price-first-look",
+      "publishedAt": "2025-10-28T08:00:00Z",
+      "processed_at": "2025-10-29T09:22:15.864860+00:00"
+    },
+    {
       "title": "Sony's Social Media Tribute to the PS2 Borders on Insulting - Push Square",
       "source": {
         "name": "Push Square"
@@ -10,7 +20,17 @@
       "description": "You can do better...",
       "url": "https://www.pushsquare.com/news/2025/10/sonys-social-media-tribute-to-the-ps2-borders-on-insulting",
       "publishedAt": "2025-10-28T05:00:00Z",
-      "processed_at": "2025-10-29T08:29:16.457255+00:00"
+      "processed_at": "2025-10-29T09:22:15.864860+00:00"
+    },
+    {
+      "title": "BREAKING: This is the Galaxy Z TriFold! - SamMobile",
+      "source": {
+        "name": "SamMobile"
+      },
+      "description": "After years of reports and rumors, the day is finally here. Samsung is finally ready to launch its f...",
+      "url": "https://www.sammobile.com/news/galaxy-z-trifold-showcased-officially/",
+      "publishedAt": "2025-10-28T04:18:45Z",
+      "processed_at": "2025-10-29T09:22:15.864860+00:00"
     },
     {
       "title": "Loulan: The Cursed Sand Looks Like Another Must Play PS5 Console Exclusive - Push Square",
@@ -20,7 +40,7 @@
       "description": "Ashes to ashes...",
       "url": "https://www.pushsquare.com/news/2025/10/loulan-the-cursed-sand-looks-like-another-must-play-ps5-console-exclusive",
       "publishedAt": "2025-10-28T04:00:00Z",
-      "processed_at": "2025-10-29T08:29:16.457255+00:00"
+      "processed_at": "2025-10-29T09:22:15.864860+00:00"
     },
     {
       "title": "Poll: So, Will You Be Getting Hyrule Warriors: Age Of Imprisonment? - Nintendo Life",
@@ -30,7 +50,17 @@
       "description": "Out on Switch 2 next week...",
       "url": "https://www.nintendolife.com/news/2025/10/poll-so-will-you-be-getting-hyrule-warriors-age-of-imprisonment",
       "publishedAt": "2025-10-28T03:55:00Z",
-      "processed_at": "2025-10-29T08:29:16.457255+00:00"
+      "processed_at": "2025-10-29T09:22:15.864860+00:00"
+    },
+    {
+      "title": "Scientists Built a Working Computer Memory Out of Shiitake Mushrooms - ScienceAlert",
+      "source": {
+        "name": "ScienceAlert"
+      },
+      "description": "A computer that relies on fungal mycelium to store information could one day be a low-cost alternati...",
+      "url": "https://www.sciencealert.com/scientists-built-a-working-computer-memory-out-of-shiitake-mushrooms",
+      "publishedAt": "2025-10-28T01:42:46Z",
+      "processed_at": "2025-10-29T09:22:15.864860+00:00"
     },
     {
       "title": "Google's next Pixel Drop may land early, as leak spills the beans on features and November ETA - Android Authority",
@@ -40,7 +70,7 @@
       "description": "Google's next Pixel Drop could be here before expected, with a new leak revealing features and a Nov...",
       "url": "https://www.androidauthority.com/november-pixel-drop-leak-3610662/",
       "publishedAt": "2025-10-28T00:54:25Z",
-      "processed_at": "2025-10-29T08:29:16.457255+00:00"
+      "processed_at": "2025-10-29T09:22:15.864860+00:00"
     },
     {
       "title": "Samsung, Google unveil $1,799 device that aims to replace everything - TheStreet",
@@ -50,7 +80,7 @@
       "description": "Samsung and Google’s Galaxy XR headset blends AI, apps, and immersive computing in one sleek device....",
       "url": "https://www.thestreet.com/entertainment/samsung-google-unveil-1799-device-that-aims-to-replace-everything",
       "publishedAt": "2025-10-28T00:07:00Z",
-      "processed_at": "2025-10-29T08:29:16.457255+00:00"
+      "processed_at": "2025-10-29T09:22:15.864860+00:00"
     },
     {
       "title": "Microsoft WSUS attacks hit 'multiple' orgs, Google warns - theregister.com",
@@ -60,7 +90,7 @@
       "description": ": If at first you don’t succeed, patch and patch again...",
       "url": "https://www.theregister.com/2025/10/27/microsoft_wsus_attacks_multiple_orgs/",
       "publishedAt": "2025-10-27T23:54:00Z",
-      "processed_at": "2025-10-29T08:29:16.457255+00:00"
+      "processed_at": "2025-10-29T09:22:15.864860+00:00"
     },
     {
       "title": "Porsche’s 2026 911 Turbo S is a ballistic, twin-turbo, 701-horsepower monster - Ars Technica",
@@ -70,40 +100,10 @@
       "description": "Big power, no lag, surprising agility make for a stellar drive—at an astronomical cost....",
       "url": "https://arstechnica.com/cars/2025/10/porsches-2026-911-turbo-s-is-a-ballistic-twin-turbo-701-horsepower-monster/",
       "publishedAt": "2025-10-27T23:01:06Z",
-      "processed_at": "2025-10-29T08:29:16.457255+00:00"
-    },
-    {
-      "title": "Still Using Windows 10? These Free Updates Will Help Keep Your PC Secure - CNET",
-      "source": {
-        "name": "CNET"
-      },
-      "description": "Your Windows 10 device is eligible for the Extended Security Updates program until October 2026....",
-      "url": "https://www.cnet.com/tech/services-and-software/still-using-windows-10-these-free-updates-will-help-keep-your-pc-secure/",
-      "publishedAt": "2025-10-27T23:00:00Z",
-      "processed_at": "2025-10-29T08:29:16.457255+00:00"
-    },
-    {
-      "title": "Trump’s DHS is recruiting ICE officers with a Halo meme - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "The Department of Homeland Security is using an image from Halo as a recruitment tactic on social me...",
-      "url": "https://www.theverge.com/news/807514/trump-white-house-dhs-ice-halo-image-meme-gamestop-console-wars",
-      "publishedAt": "2025-10-27T22:21:24Z",
-      "processed_at": "2025-10-29T08:29:16.457255+00:00"
-    },
-    {
-      "title": "M5 iPad Pro after five days: Was upgrade from M4 worth it? - 9to5Mac",
-      "source": {
-        "name": "9to5Mac"
-      },
-      "description": "Apple’s M5 iPad Pro arrived last week, and I upgraded to the new model after using the M4 model for ...",
-      "url": "https://9to5mac.com/2025/10/27/m5-ipad-pro-after-five-days-was-upgrade-from-m4-worth-it/",
-      "publishedAt": "2025-10-27T21:45:00Z",
-      "processed_at": "2025-10-29T08:29:16.457255+00:00"
+      "processed_at": "2025-10-29T09:22:15.864860+00:00"
     }
   ],
-  "lastUpdated": "2025-10-29T08:29:16.457327+00:00",
+  "lastUpdated": "2025-10-29T09:22:15.864949+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
