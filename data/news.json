@@ -1,99 +1,89 @@
 {
   "status": "success",
-  "totalResults": 9,
+  "totalResults": 8,
   "articles": [
     {
-      "title": "CEO of spyware maker Memento Labs confirms one of its government customers was caught using its malware - TechCrunch",
+      "title": "'Legend of Zelda: Breath of the Wild' Soundtrack Gets Vinyl Release - Variety",
+      "source": {
+        "name": "Variety"
+      },
+      "description": "Nintendo is releasing \"The Legend of Zelda: Breath of the Wild\" soundtrack on vinyl in the U.S. in a...",
+      "url": "https://variety.com/2025/gaming/news/legend-of-zelda-breath-of-the-wild-soundtrack-vinyl-1236564363/",
+      "publishedAt": "2025-10-29T14:00:00Z",
+      "processed_at": "2025-10-30T15:23:50.424822+00:00"
+    },
+    {
+      "title": "YouTube will let you opt out of AI upscaling on low-res videos - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "YouTube is aiming to improve the viewing experience on TV screens with an instant shopping tool and ...",
+      "url": "https://www.theverge.com/news/808717/youtube-automatic-ai-upscaling-shopping-updates",
+      "publishedAt": "2025-10-29T13:00:00Z",
+      "processed_at": "2025-10-30T15:23:50.424822+00:00"
+    },
+    {
+      "title": "Grammarly rebrands to ‘Superhuman,’ launches a new AI assistant - TechCrunch",
       "source": {
         "name": "TechCrunch"
       },
-      "description": "Security researchers found a government hacking campaign that relies on Windows spyware developed by...",
-      "url": "https://techcrunch.com/2025/10/28/ceo-of-spyware-maker-memento-labs-confirms-one-of-its-government-customers-was-caught-using-its-malware/",
-      "publishedAt": "2025-10-29T05:00:00Z",
-      "processed_at": "2025-10-30T14:21:56.715984+00:00"
+      "description": "Grammarly is renaming itself as Superhuman, after acquiring Superhuman email client in July...",
+      "url": "https://techcrunch.com/2025/10/29/grammarly-rebrands-to-superhuman-launches-a-new-ai-assistant/",
+      "publishedAt": "2025-10-29T13:00:00Z",
+      "processed_at": "2025-10-30T15:23:50.424822+00:00"
     },
     {
-      "title": "New World: Aeternum Is Ending New Content After Season 10 - GameSpot",
+      "title": "Mother describes the dark side of Apple’s Family Sharing when a relationship ends - 9to5Mac",
       "source": {
-        "name": "GameSpot"
+        "name": "9to5Mac"
       },
-      "description": "Players will still be able to revisit New World: Aeternum for now, but there won't be any more seaso...",
-      "url": "https://www.gamespot.com/articles/new-world-aeternum-is-ending-new-content-after-season-10/1100-6535786/",
-      "publishedAt": "2025-10-29T01:47:42Z",
-      "processed_at": "2025-10-30T14:21:56.715984+00:00"
+      "description": "A mother with court-ordered custody of her children has described how Apple’s Family Sharing feature...",
+      "url": "https://9to5mac.com/2025/10/29/mother-describes-the-dark-side-of-apples-family-sharing-when-a-relationship-ends/",
+      "publishedAt": "2025-10-29T12:02:23Z",
+      "processed_at": "2025-10-30T15:23:50.424822+00:00"
     },
     {
-      "title": "Super Mario 3D All-Stars Updated To Version 1.1.4, Improves Gameplay On Switch 2 - Nintendo Life",
+      "title": "Apple’s Vision Pro with M5 is better than the first, but still awfully lonely - The Verge",
       "source": {
-        "name": "Nintendo Life"
+        "name": "The Verge"
       },
-      "description": "Download it now...",
-      "url": "https://www.nintendolife.com/news/2025/10/super-mario-3d-all-stars-updated-to-version-1-1-4-improves-gameplay-on-switch-2",
-      "publishedAt": "2025-10-29T01:41:15Z",
-      "processed_at": "2025-10-30T14:21:56.715984+00:00"
+      "description": "﻿The best part might be the new headband, which costs $99 and supports the first model....",
+      "url": "https://www.theverge.com/tech/807963/apple-vision-pro-m5-review-specs-release-date",
+      "publishedAt": "2025-10-29T12:00:00Z",
+      "processed_at": "2025-10-30T15:23:50.424822+00:00"
     },
     {
-      "title": "Gemini coming to Google TV Streamer, more devices this winter - 9to5Google",
+      "title": "Monster Hunter Wilds Doing So Badly That's It's Been Outsold by MH Rise, Devil May Cry 5 - Push Square",
       "source": {
-        "name": "9to5google.com"
+        "name": "Push Square"
       },
-      "description": "In starting the Gemini for Home assistant preview, Google also shared when Gemini for Google TV is c...",
-      "url": "http://9to5google.com/2025/10/28/gemini-google-tv-streamer/",
-      "publishedAt": "2025-10-29T00:22:00Z",
-      "processed_at": "2025-10-30T14:21:56.715984+00:00"
+      "description": "Q2 sales results have MH Wilds at rock bottom...",
+      "url": "https://www.pushsquare.com/news/2025/10/monster-hunter-wilds-doing-so-badly-thats-its-been-outsold-by-mh-rise-devil-may-cry-5",
+      "publishedAt": "2025-10-29T11:00:00Z",
+      "processed_at": "2025-10-30T15:23:50.424822+00:00"
     },
     {
-      "title": "If You Thought Ads in Apple Maps Was Bad, Samsung is Putting Ads on $1,900+ Refrigerators - MacRumors",
+      "title": "'It's Funny That People Think About the Console-PC as Two Different Things' — Microsoft CEO Satya Nadella Drops Biggest Hint Yet That the Next Xbox Is Basically a PC - IGN",
       "source": {
-        "name": "MacRumors"
+        "name": "IGN"
       },
-      "description": "Apple competitor Samsung has a line of \"Family Hub\" smart refrigerators equipped with integrated dis...",
-      "url": "https://www.macrumors.com/2025/10/28/samsung-refrigerator-ads/",
-      "publishedAt": "2025-10-28T23:48:54Z",
-      "processed_at": "2025-10-30T14:21:56.715984+00:00"
+      "description": "Microsoft CEO Satya Nadella has dropped yet another hint that the next-gen Xbox is basically a PC....",
+      "url": "https://www.ign.com/articles/its-funny-that-people-think-about-the-console-pc-as-two-different-things-microsoft-ceo-satya-nadella-drops-biggest-hint-yet-that-the-next-xbox-is-basically-a-pc",
+      "publishedAt": "2025-10-29T10:17:12Z",
+      "processed_at": "2025-10-30T15:23:50.424822+00:00"
     },
     {
-      "title": "Blue Origin details lunar exploration progress amid Artemis 3 contract shakeup - Spaceflight Now",
+      "title": "Google says 'sideloading isn't going anywhere,' F-Droid calls it fake news - Android Authority",
       "source": {
-        "name": "Spaceflight Now"
+        "name": "Android Authority"
       },
-      "description": "",
-      "url": "https://spaceflightnow.com/2025/10/28/blue-origin-details-lunar-exploration-progress-amid-artemis-3-contract-shakeup/",
-      "publishedAt": "2025-10-28T23:37:43Z",
-      "processed_at": "2025-10-30T14:21:56.715984+00:00"
-    },
-    {
-      "title": "Avatar Legends: The Fighting Game reveals new gameplay footage, Closed Alpha Test announced - EventHubs",
-      "source": {
-        "name": "EventHubs"
-      },
-      "description": "Late last year, it was reported that the Avatar fighting game had been canceled, but like the Avatar...",
-      "url": "https://www.eventhubs.com/news/2025/oct/28/avatar-legends-gameplay-alpha/",
-      "publishedAt": "2025-10-28T23:33:15Z",
-      "processed_at": "2025-10-30T14:21:56.715984+00:00"
-    },
-    {
-      "title": "Windows 11 KB5067036 update rolls out Administrator Protection feature - BleepingComputer",
-      "source": {
-        "name": "BleepingComputer"
-      },
-      "description": "​​Microsoft has released the KB5067036 preview cumulative update for Windows 11 24H2 and 25H2, which...",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5067036-update-rolls-out-administrator-protection-feature/",
-      "publishedAt": "2025-10-28T23:31:28Z",
-      "processed_at": "2025-10-30T14:21:56.715984+00:00"
-    },
-    {
-      "title": "Microsoft CEO Satya Nadella is \"looking forward,\" to the next Xbox — \"We want to do innovative work on the system side, on both console and PC.\" - Windows Central",
-      "source": {
-        "name": "Windows Central"
-      },
-      "description": "In a new interview, Microsoft CEO offered some rare comments on Xbox's gaming strategy, talking up t...",
-      "url": "https://www.windowscentral.com/gaming/xbox/microsoft-ceo-satya-nadella-is-looking-forward-to-the-next-xbox-we-want-to-do-innovative-work-on-the-system-side-on-both-console-and-pc",
-      "publishedAt": "2025-10-28T21:33:16Z",
-      "processed_at": "2025-10-30T14:21:56.715984+00:00"
+      "description": "Alternative app store F-Droid warns Google is misleading people when it says sideloading on Android ...",
+      "url": "https://www.androidauthority.com/google-android-sideloading-claims-misleading-f-droid-3611139/",
+      "publishedAt": "2025-10-29T06:54:41Z",
+      "processed_at": "2025-10-30T15:23:50.424822+00:00"
     }
   ],
-  "lastUpdated": "2025-10-30T14:21:56.716048+00:00",
+  "lastUpdated": "2025-10-30T15:23:50.424890+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
