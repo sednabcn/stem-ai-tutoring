@@ -1,56 +1,86 @@
 {
   "status": "success",
-  "totalResults": 10,
+  "totalResults": 9,
   "articles": [
     {
-      "title": "OpenAI unveils 'Aardvark,' a GPT-5-powered agent for autonomous cybersecurity research - ZDNET",
-      "source": {
-        "name": "ZDNet"
-      },
-      "description": "OpenAI said the new cybersecurity agent can identify, explain, and help fix vulnerabilities. Here's ...",
-      "url": "https://www.zdnet.com/article/openai-unveils-aardvark-a-gpt-5-powered-agent-for-autonomous-cybersecurity-research/",
-      "publishedAt": "2025-10-30T18:00:00Z",
-      "processed_at": "2025-10-31T20:23:17.022840+00:00"
-    },
-    {
-      "title": "Google study finds Android avoids 58% more spam and scam texts compared to iOS - 9to5Google",
-      "source": {
-        "name": "9to5google.com"
-      },
-      "description": "As part of Cybersecurity Awareness Month, Google partnered with YouGov to commission a survey of ove...",
-      "url": "http://9to5google.com/2025/10/30/google-study-finds-android-avoids-58-more-spam-and-scam-texts-compared-to-ios/",
-      "publishedAt": "2025-10-30T18:00:00Z",
-      "processed_at": "2025-10-31T20:23:17.022840+00:00"
-    },
-    {
-      "title": "The discounted SwitchBot Bot can add smarts to your monitor and coffee maker for just $24 - The Verge",
+      "title": "Tim Cook says more AIs are coming to Apple Intelligence - The Verge",
       "source": {
         "name": "The Verge"
       },
-      "description": "The SwitchBot Bot is $23.99 ($6 off) from SwitchBot with code BXBX20 through November 11th. That’s o...",
-      "url": "https://www.theverge.com/tech/810358/switchbot-bot-smart-home-amazon-deal-sale",
-      "publishedAt": "2025-10-30T17:29:27Z",
-      "processed_at": "2025-10-31T20:23:17.022840+00:00"
+      "description": "Apple CEO Tim Cook hinted at bringing more AI models to the iPhone than just OpenAI with ChatGPT, te...",
+      "url": "https://www.theverge.com/news/810735/tim-cook-ai-apple-intelligence-integrations",
+      "publishedAt": "2025-10-30T21:32:44Z",
+      "processed_at": "2025-10-31T21:16:48.729502+00:00"
     },
     {
-      "title": "Disney+ gets HDR10+ via “over 1,000” Hulu titles - Ars Technica",
+      "title": "Leaker reveals which Pixels are vulnerable to Cellebrite phone hacking - Ars Technica",
       "source": {
         "name": "Ars Technica"
       },
-      "description": "Disney+ joins Netflix, Apple TV in supporting the Dolby Vision rival....",
-      "url": "https://arstechnica.com/gadgets/2025/10/disney-gets-hdr10-through-over-1000-hulu-titles/",
-      "publishedAt": "2025-10-30T17:28:38Z",
-      "processed_at": "2025-10-31T20:23:17.022840+00:00"
+      "description": "Cellebrite can apparently extract data from most Pixel phones, unless they’re running GrapheneOS....",
+      "url": "https://arstechnica.com/gadgets/2025/10/leaker-reveals-which-pixels-are-vulnerable-to-cellebrite-phone-hacking/",
+      "publishedAt": "2025-10-30T20:29:43Z",
+      "processed_at": "2025-10-31T21:16:48.729502+00:00"
     },
     {
-      "title": "Amazon has reportedly canceled its LOTR MMO - The Verge",
+      "title": "Apple This November: iOS 26.2 Beta, Rumored New Products, and More - MacRumors",
+      "source": {
+        "name": "MacRumors"
+      },
+      "description": "Tomorrow is Halloween, and then November is upon us. Below, we outline what to expect from Apple nex...",
+      "url": "https://www.macrumors.com/2025/10/30/what-to-expect-from-apple-in-november/",
+      "publishedAt": "2025-10-30T19:42:51Z",
+      "processed_at": "2025-10-31T21:16:48.729502+00:00"
+    },
+    {
+      "title": "Windows 11’s Vision Pro-like remote desktop is now widely available on Quest 3 - The Verge",
       "source": {
         "name": "The Verge"
       },
-      "description": "Amazon appears to have canceled its Lord of the Rings MMO that it was developing with Embracer. It w...",
-      "url": "https://www.theverge.com/news/810383/amazon-lotr-mmo-embracer-canceled-layoffs",
-      "publishedAt": "2025-10-30T17:19:38Z",
-      "processed_at": "2025-10-31T20:23:17.022840+00:00"
+      "description": "Microsoft is widely launching its remote desktop experience across Meta’s Quest 3 and 3S headsets, a...",
+      "url": "https://www.theverge.com/news/810576/microsoft-windows-11-mixed-reality-link-meta-quest-3-vr",
+      "publishedAt": "2025-10-30T18:19:40Z",
+      "processed_at": "2025-10-31T21:16:48.729502+00:00"
+    },
+    {
+      "title": "Introducing Aardvark: OpenAI’s agentic security researcher - OpenAI",
+      "source": {
+        "name": "Openai.com"
+      },
+      "description": "Now in private beta: an AI agent that thinks like a security researcher and scales to meet the deman...",
+      "url": "https://openai.com/index/introducing-aardvark/",
+      "publishedAt": "2025-10-30T17:55:05Z",
+      "processed_at": "2025-10-31T21:16:48.729502+00:00"
+    },
+    {
+      "title": "Android 17 could bring full-screen apps to your phone’s always-on display - Android Authority",
+      "source": {
+        "name": "Android Authority"
+      },
+      "description": "Android 17 may introduce a new feature called Min Mode that'll let Google Maps show turn-by-turn nav...",
+      "url": "https://www.androidauthority.com/android-17-aod-min-mode-rumor-3611806/",
+      "publishedAt": "2025-10-30T17:51:55Z",
+      "processed_at": "2025-10-31T21:16:48.729502+00:00"
+    },
+    {
+      "title": "vivo X300 and X300 Pro make their global debut - GSMArena.com news - GSMArena.com",
+      "source": {
+        "name": "GSMArena.com"
+      },
+      "description": "The vivo X300 series gets upgraded cameras, improved design, and comes with OriginOS 6. Earlier this...",
+      "url": "https://www.gsmarena.com/vivo_x300_and_x300_pro_make_their_global_debut-news-70089.php",
+      "publishedAt": "2025-10-30T17:28:02Z",
+      "processed_at": "2025-10-31T21:16:48.729502+00:00"
+    },
+    {
+      "title": "Android is dunking on iPhone at scam protection - Android Authority",
+      "source": {
+        "name": "Android Authority"
+      },
+      "description": "New Google data shows Android users face fewer scam texts than iPhone owners, thanks to deeper AI-po...",
+      "url": "https://www.androidauthority.com/android-dunking-iphone-scam-protection-3611668/",
+      "publishedAt": "2025-10-30T17:27:01Z",
+      "processed_at": "2025-10-31T21:16:48.729502+00:00"
     },
     {
       "title": "Canva launches its own design model, adds new AI features to the platform - TechCrunch",
@@ -60,50 +90,10 @@
       "description": "Canva is launching new features like Forms, email design, and makes Affinity free for all users....",
       "url": "https://techcrunch.com/2025/10/30/canva-launches-its-own-design-model-adds-new-ai-features-to-the-platform/",
       "publishedAt": "2025-10-30T17:00:00Z",
-      "processed_at": "2025-10-31T20:23:17.022840+00:00"
-    },
-    {
-      "title": "DJI’s Neo 2 selfie drone adds obstacle avoidance and gesture controls - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "DJI’s new Neo 2 drone for China is upgraded with a bigger battery, obstacle avoidance, gesture contr...",
-      "url": "https://www.theverge.com/news/810125/dji-neo-2-selfie-drone-gestures-lidar-obstacle-avoidance-gesture-control",
-      "publishedAt": "2025-10-30T16:35:01Z",
-      "processed_at": "2025-10-31T20:23:17.022840+00:00"
-    },
-    {
-      "title": "AI browsers are a cybersecurity time bomb - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "Huge cyber breaches are on the horizon thanks to AI-powered web browsers like ChatGPT Atlas and Come...",
-      "url": "https://www.theverge.com/report/810083/ai-browser-cybersecurity-problems",
-      "publishedAt": "2025-10-30T15:53:23Z",
-      "processed_at": "2025-10-31T20:23:17.022840+00:00"
-    },
-    {
-      "title": "Samsung’s internet browser is headed to PC - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "Samsung is launching its web browser on PC with new AI-powered summaries and translations, along wit...",
-      "url": "https://www.theverge.com/news/810034/samsung-internet-browser-windows-pc-launch",
-      "publishedAt": "2025-10-30T15:33:23Z",
-      "processed_at": "2025-10-31T20:23:17.022840+00:00"
-    },
-    {
-      "title": "Someone Snuck Into a Cellebrite Microsoft Teams Call and Leaked Phone Unlocking Details - 404 Media",
-      "source": {
-        "name": "404media.co"
-      },
-      "description": "The leaked slide focuses on Google Pixel phones and mentions those running the security-focused Grap...",
-      "url": "https://www.404media.co/someone-snuck-into-a-cellebrite-microsoft-teams-call-and-leaked-phone-unlocking-details/",
-      "publishedAt": "2025-10-30T15:15:30Z",
-      "processed_at": "2025-10-31T20:23:17.022840+00:00"
+      "processed_at": "2025-10-31T21:16:48.729502+00:00"
     }
   ],
-  "lastUpdated": "2025-10-31T20:23:17.022913+00:00",
+  "lastUpdated": "2025-10-31T21:16:48.729573+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
