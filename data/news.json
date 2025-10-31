@@ -1,26 +1,16 @@
 {
   "status": "success",
-  "totalResults": 9,
+  "totalResults": 10,
   "articles": [
     {
-      "title": "Store leak may have spoiled 2nd playable character in Resident Evil Requiem - XboxEra",
+      "title": "Deepfake Videos Are More Realistic Than Ever. How Can You Spot if a Video Is Real or Sora AI? - CNET",
       "source": {
-        "name": "Xboxera.com"
+        "name": "CNET"
       },
-      "description": "The PlayStation store in Portugal may have just confirmed a long-rumored leak about a 2nd playable c...",
-      "url": "https://xboxera.com/2025/10/29/store-leak-may-have-spoiled-2nd-playable-character-in-resident-evil-requiem/",
-      "publishedAt": "2025-10-30T00:03:17Z",
-      "processed_at": "2025-10-31T06:31:34.028521+00:00"
-    },
-    {
-      "title": "Samsung Internet is coming to PC with Galaxy AI, cross-device sync support - 9to5Google",
-      "source": {
-        "name": "9to5google.com"
-      },
-      "description": "Samsung is throwing its hat in the ring with the arrival of its Android-based browser on PC, startin...",
-      "url": "http://9to5google.com/2025/10/29/samsung-internet-is-coming-to-pc-with-galaxy-ai-cross-device-sync-support/",
-      "publishedAt": "2025-10-30T00:00:00Z",
-      "processed_at": "2025-10-31T06:31:34.028521+00:00"
+      "description": "Figuring out if a video is made with OpenAI's Sora app is difficult, but there are some visual clues...",
+      "url": "https://www.cnet.com/tech/services-and-software/deepfake-videos-are-more-realistic-than-ever-how-can-you-spot-if-a-video-is-real-or-sora-ai/",
+      "publishedAt": "2025-10-30T04:30:35Z",
+      "processed_at": "2025-10-31T07:19:19.817729+00:00"
     },
     {
       "title": "How to get the new Windows Start menu now - theregister.com",
@@ -30,17 +20,47 @@
       "description": ": The new Start has a more convenient layout that saves you a click...",
       "url": "https://www.theregister.com/2025/10/29/microsofts_new_windows_start_menu/",
       "publishedAt": "2025-10-29T23:24:00Z",
-      "processed_at": "2025-10-31T06:31:34.028521+00:00"
+      "processed_at": "2025-10-31T07:19:19.817729+00:00"
     },
     {
-      "title": "Xbox hardware sales continue to tank - The Verge",
+      "title": "Resident Evil Requiem Pre-Orders Live, Switch 2 Pro Controller And Amiibo Confirmed - Nintendo Life",
       "source": {
-        "name": "The Verge"
+        "name": "Nintendo Life"
       },
-      "description": "Xbox sales keep tanking, but Microsoft continues to grow thanks to Azure and the cloud....",
-      "url": "https://www.theverge.com/news/809532/xbox-sales-continue-to-tank",
-      "publishedAt": "2025-10-29T21:23:53Z",
-      "processed_at": "2025-10-31T06:31:34.028521+00:00"
+      "description": "Horrifyingly good...",
+      "url": "https://www.nintendolife.com/news/2025/10/resident-evil-requiem-pre-orders-live-switch-2-pro-controller-and-amiibo-confirmed",
+      "publishedAt": "2025-10-29T23:01:31Z",
+      "processed_at": "2025-10-31T07:19:19.817729+00:00"
+    },
+    {
+      "title": "Samsung Internet Expands to PC With New Beta Program - Samsung Global Newsroom",
+      "source": {
+        "name": "Samsung.com"
+      },
+      "description": "Samsung Electronics today announced the beta release of Samsung Internet for PC, expanding its popul...",
+      "url": "https://news.samsung.com/global/samsung-internet-expands-to-pc-with-new-beta-program",
+      "publishedAt": "2025-10-29T23:00:00Z",
+      "processed_at": "2025-10-31T07:19:19.817729+00:00"
+    },
+    {
+      "title": "Gemini app hits 650+ million monthly users as Google/YouTube reports 300M subscribers - 9to5Google",
+      "source": {
+        "name": "9to5google.com"
+      },
+      "description": "Alphabet today reported Q3 2025 earnings, and CEO Sundar Pichai shared that the Gemini app has 650 m...",
+      "url": "http://9to5google.com/2025/10/29/gemini-app-650-million-users/",
+      "publishedAt": "2025-10-29T22:19:00Z",
+      "processed_at": "2025-10-31T07:19:19.817729+00:00"
+    },
+    {
+      "title": "Xbox FY26 Q1 earnings up despite hardware decline - XboxEra",
+      "source": {
+        "name": "Google News"
+      },
+      "description": "",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWWY4eXRJUjVIVFpacEZGRWdBSnJsbjg3VkxRM2JKeHBGZHNfdHRoMEZLQmMydkZWNjVPdS1Jdzg1NDNodDBjODlJODhxeG1jcTVObEJmbzJuVEZLSzJZVEpGRzRaOTZxTGZQYjlIUUtrM2paUVlCMmxPSHZlcWl0VUxPMDVjWHF2bThnQUZpa0lGWEhLZVlhVFNoRWxnRnM3eGJZVVQxamc?oc=5",
+      "publishedAt": "2025-10-29T20:29:02Z",
+      "processed_at": "2025-10-31T07:19:19.817729+00:00"
     },
     {
       "title": "Earn Delphoxite and Greninjite in Pokémon Legends: Z‑A Ranked Battles Season 2 (November 2025) - Pokemon.com",
@@ -50,17 +70,27 @@
       "description": "Take on players from around the globe to climb the ranks and earn in-game rewards, including Delphox...",
       "url": "https://www.pokemon.com/us/pokemon-news/earn-delphoxite-and-greninjite-in-pokemon-legends-z-a-ranked-battles-season-2-november-2025",
       "publishedAt": "2025-10-29T20:21:07Z",
-      "processed_at": "2025-10-31T06:31:34.028521+00:00"
+      "processed_at": "2025-10-31T07:19:19.817729+00:00"
     },
     {
       "title": "CEO of GTA 6 publisher Take-Two is surprisingly hesitant about AI usage for entirely unsurprising reasons - Rock Paper Shotgun",
       "source": {
         "name": "Rock Paper Shotgun"
       },
-      "description": "",
+      "description": "Take-Two CEO Strauss Zelnick has shared his, potentially surprising, perspective of AI usage in the ...",
       "url": "https://www.rockpapershotgun.com/ceo-of-gta-6-publisher-take-two-is-surprisingly-hesitant-about-ai-usage-for-entirely-unsurprising-reasons",
       "publishedAt": "2025-10-29T20:10:14Z",
-      "processed_at": "2025-10-31T06:31:34.028521+00:00"
+      "processed_at": "2025-10-31T07:19:19.817729+00:00"
+    },
+    {
+      "title": "New World: Aeternum Players Spun Up A Petition To Save The MMO - MMORPG.com",
+      "source": {
+        "name": "MMORPG.com"
+      },
+      "description": "In the wake of yesterday's news that New World: Aeternum is going into maintenance mode, the communi...",
+      "url": "https://www.mmorpg.com/news/new-world-aeternum-players-spun-up-a-petition-to-save-the-mmo-2000136458",
+      "publishedAt": "2025-10-29T20:10:00Z",
+      "processed_at": "2025-10-31T07:19:19.817729+00:00"
     },
     {
       "title": "Nintendo Announces New The Legend of Zelda: Breath of the Wild Soundtrack Box Set - Pitchfork",
@@ -70,30 +100,10 @@
       "description": "Co-released with Laced Records, it’s the first-ever physical soundtrack that Nintendo has sold in th...",
       "url": "https://pitchfork.com/news/nintendo-announces-new-the-legend-of-zelda-breath-of-the-wild-soundtrack-box-set/",
       "publishedAt": "2025-10-29T19:38:44Z",
-      "processed_at": "2025-10-31T06:31:34.028521+00:00"
-    },
-    {
-      "title": "YouTube Will Use AI to Sharpen Lower-Resolution Videos on TVs - Bloomberg.com",
-      "source": {
-        "name": "Bloomberg"
-      },
-      "description": "Google’s YouTube will use artificial intelligence to improve the visual clarity of many low-resoluti...",
-      "url": "https://www.bloomberg.com/news/articles/2025-10-29/youtube-will-use-ai-to-sharpen-lower-resolution-videos-on-tvs",
-      "publishedAt": "2025-10-29T18:53:17Z",
-      "processed_at": "2025-10-31T06:31:34.028521+00:00"
-    },
-    {
-      "title": "MediaTek’s new Chromebook chip promises better battery life, fanless laptops in 2026 - 9to5Google",
-      "source": {
-        "name": "9to5google.com"
-      },
-      "description": "MediaTek has announced a new chipset for Chromebooks, which will debut in early 2026 with the promis...",
-      "url": "http://9to5google.com/2025/10/29/mediatek-kompanio-540-chromebook-chip/",
-      "publishedAt": "2025-10-29T18:40:00Z",
-      "processed_at": "2025-10-31T06:31:34.028521+00:00"
+      "processed_at": "2025-10-31T07:19:19.817729+00:00"
     }
   ],
-  "lastUpdated": "2025-10-31T06:31:34.028609+00:00",
+  "lastUpdated": "2025-10-31T07:19:19.817797+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
