@@ -3,14 +3,14 @@
   "totalResults": 9,
   "articles": [
     {
-      "title": "Tim Cook says more AIs are coming to Apple Intelligence - The Verge",
+      "title": "Google surprises Pixel users with another October update - Android Authority",
       "source": {
-        "name": "The Verge"
+        "name": "Android Authority"
       },
-      "description": "Apple CEO Tim Cook hinted at bringing more AI models to the iPhone than just OpenAI with ChatGPT, te...",
-      "url": "https://www.theverge.com/news/810735/tim-cook-ai-apple-intelligence-integrations",
-      "publishedAt": "2025-10-30T21:32:44Z",
-      "processed_at": "2025-10-31T23:18:19.643831+00:00"
+      "description": "Google is unexpectedly releasing another October update for Pixel phones. Once again, it looks like ...",
+      "url": "https://www.androidauthority.com/another-october-pixel-update-3611877/",
+      "publishedAt": "2025-10-30T21:08:26Z",
+      "processed_at": "2025-11-01T01:44:50.149251+00:00"
     },
     {
       "title": "Leaker reveals which Pixels are vulnerable to Cellebrite phone hacking - Ars Technica",
@@ -20,17 +20,47 @@
       "description": "Cellebrite can apparently extract data from most Pixel phones, unless they’re running GrapheneOS....",
       "url": "https://arstechnica.com/gadgets/2025/10/leaker-reveals-which-pixels-are-vulnerable-to-cellebrite-phone-hacking/",
       "publishedAt": "2025-10-30T20:29:43Z",
-      "processed_at": "2025-10-31T23:18:19.643831+00:00"
+      "processed_at": "2025-11-01T01:44:50.149251+00:00"
     },
     {
-      "title": "Apple This November: iOS 26.2 Beta, Rumored New Products, and More - MacRumors",
+      "title": "Affinity’s image-editing apps go “freemium” in first major post-Canva update - Ars Technica",
       "source": {
-        "name": "MacRumors"
+        "name": "Ars Technica"
       },
-      "description": "Tomorrow is Halloween, and then November is upon us. Below, we outline what to expect from Apple nex...",
-      "url": "https://www.macrumors.com/2025/10/30/what-to-expect-from-apple-in-november/",
-      "publishedAt": "2025-10-30T19:42:51Z",
-      "processed_at": "2025-10-31T23:18:19.643831+00:00"
+      "description": "Updated app is “free forever,” but won’t get a perpetually licensed version....",
+      "url": "https://arstechnica.com/gadgets/2025/10/canvas-new-affinity-app-is-free-to-use-but-locks-ai-features-behind-a-subscription/",
+      "publishedAt": "2025-10-30T20:05:50Z",
+      "processed_at": "2025-11-01T01:44:50.149251+00:00"
+    },
+    {
+      "title": "Dragon Quest I & II HD-2D Remake Gets Day One Update, Here Are The Full Patch Notes - Nintendo Life",
+      "source": {
+        "name": "Nintendo Life"
+      },
+      "description": "Out today on Switch and Switch 2...",
+      "url": "https://www.nintendolife.com/news/2025/10/dragon-quest-i-and-ii-hd-2d-remake-gets-day-one-update-here-are-the-full-patch-notes",
+      "publishedAt": "2025-10-30T19:31:44Z",
+      "processed_at": "2025-11-01T01:44:50.149251+00:00"
+    },
+    {
+      "title": "Google shows off prototype Android XR glasses from extended Magic Leap deal [Video] - 9to5Google",
+      "source": {
+        "name": "9to5google.com"
+      },
+      "description": "The Android XR floodgates finally cracked open this month with the debut of Samsung’s Galaxy XR head...",
+      "url": "http://9to5google.com/2025/10/30/google-android-xr-glasses-extended-magic-leap-deal/",
+      "publishedAt": "2025-10-30T19:15:00Z",
+      "processed_at": "2025-11-01T01:44:50.149251+00:00"
+    },
+    {
+      "title": "SpaceX makes case for why it will land American astronauts on the Moon - ABC News",
+      "source": {
+        "name": "ABC News"
+      },
+      "description": "",
+      "url": "https://abcnews.go.com/US/spacex-makes-case-land-american-astronauts-moon/story?id\\\\u003d127029601",
+      "publishedAt": "2025-10-30T19:11:13Z",
+      "processed_at": "2025-11-01T01:44:50.149251+00:00"
     },
     {
       "title": "Windows 11’s Vision Pro-like remote desktop is now widely available on Quest 3 - The Verge",
@@ -40,17 +70,7 @@
       "description": "Microsoft is widely launching its remote desktop experience across Meta’s Quest 3 and 3S headsets, a...",
       "url": "https://www.theverge.com/news/810576/microsoft-windows-11-mixed-reality-link-meta-quest-3-vr",
       "publishedAt": "2025-10-30T18:19:40Z",
-      "processed_at": "2025-10-31T23:18:19.643831+00:00"
-    },
-    {
-      "title": "Introducing Aardvark: OpenAI’s agentic security researcher - OpenAI",
-      "source": {
-        "name": "Openai.com"
-      },
-      "description": "Now in private beta: an AI agent that thinks like a security researcher and scales to meet the deman...",
-      "url": "https://openai.com/index/introducing-aardvark/",
-      "publishedAt": "2025-10-30T17:55:05Z",
-      "processed_at": "2025-10-31T23:18:19.643831+00:00"
+      "processed_at": "2025-11-01T01:44:50.149251+00:00"
     },
     {
       "title": "Android 17 could bring full-screen apps to your phone’s always-on display - Android Authority",
@@ -60,40 +80,20 @@
       "description": "Android 17 may introduce a new feature called Min Mode that'll let Google Maps show turn-by-turn nav...",
       "url": "https://www.androidauthority.com/android-17-aod-min-mode-rumor-3611806/",
       "publishedAt": "2025-10-30T17:51:55Z",
-      "processed_at": "2025-10-31T23:18:19.643831+00:00"
+      "processed_at": "2025-11-01T01:44:50.149251+00:00"
     },
     {
-      "title": "vivo X300 and X300 Pro make their global debut - GSMArena.com news - GSMArena.com",
+      "title": "Amazon has reportedly canceled its LOTR MMO - The Verge",
       "source": {
-        "name": "GSMArena.com"
+        "name": "The Verge"
       },
-      "description": "The vivo X300 series gets upgraded cameras, improved design, and comes with OriginOS 6. Earlier this...",
-      "url": "https://www.gsmarena.com/vivo_x300_and_x300_pro_make_their_global_debut-news-70089.php",
-      "publishedAt": "2025-10-30T17:28:02Z",
-      "processed_at": "2025-10-31T23:18:19.643831+00:00"
-    },
-    {
-      "title": "Android is dunking on iPhone at scam protection - Android Authority",
-      "source": {
-        "name": "Android Authority"
-      },
-      "description": "New Google data shows Android users face fewer scam texts than iPhone owners, thanks to deeper AI-po...",
-      "url": "https://www.androidauthority.com/android-dunking-iphone-scam-protection-3611668/",
-      "publishedAt": "2025-10-30T17:27:01Z",
-      "processed_at": "2025-10-31T23:18:19.643831+00:00"
-    },
-    {
-      "title": "Canva launches its own design model, adds new AI features to the platform - TechCrunch",
-      "source": {
-        "name": "TechCrunch"
-      },
-      "description": "Canva is launching new features like Forms, email design, and makes Affinity free for all users....",
-      "url": "https://techcrunch.com/2025/10/30/canva-launches-its-own-design-model-adds-new-ai-features-to-the-platform/",
-      "publishedAt": "2025-10-30T17:00:00Z",
-      "processed_at": "2025-10-31T23:18:19.643831+00:00"
+      "description": "Amazon appears to have canceled its Lord of the Rings MMO that it was developing with Embracer. It w...",
+      "url": "https://www.theverge.com/news/810383/amazon-lotr-mmo-embracer-canceled-layoffs",
+      "publishedAt": "2025-10-30T17:19:38Z",
+      "processed_at": "2025-11-01T01:44:50.149251+00:00"
     }
   ],
-  "lastUpdated": "2025-10-31T23:18:19.643903+00:00",
+  "lastUpdated": "2025-11-01T01:44:50.149326+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
