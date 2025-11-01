@@ -1,16 +1,96 @@
 {
   "status": "success",
-  "totalResults": 9,
+  "totalResults": 10,
   "articles": [
     {
-      "title": "Tim Cook provides update on next-gen Siri development - 9to5Mac",
+      "title": "Tim Cook says Apple is open to M&A on the AI front - TechCrunch",
       "source": {
-        "name": "9to5Mac"
+        "name": "TechCrunch"
       },
-      "description": "We’re still waiting on Apple to release its promised next-generation version of Siri. CEO Tim Cook s...",
-      "url": "https://9to5mac.com/2025/10/31/tim-cook-provides-update-on-next-gen-siri-development/",
-      "publishedAt": "2025-10-31T12:51:00Z",
-      "processed_at": "2025-11-01T16:21:56.406554+00:00"
+      "description": "Apple CEO Tim Cook noted in the company's Q4 2025 earnings call that Apple was preparing to announce...",
+      "url": "https://techcrunch.com/2025/10/31/tim-cook-says-apple-is-open-to-ma-on-the-ai-front/",
+      "publishedAt": "2025-10-31T15:17:12Z",
+      "processed_at": "2025-11-01T17:15:22.769717+00:00"
+    },
+    {
+      "title": "Smart Toilet Tech Aims to Make You Flush With Health Data - The Wall Street Journal",
+      "source": {
+        "name": "The Wall Street Journal"
+      },
+      "description": "",
+      "url": "https://www.wsj.com/tech/ai/smart-toilet-tech-aims-to-make-you-flush-with-health-data-8c0b24ab",
+      "publishedAt": "2025-10-31T15:00:00Z",
+      "processed_at": "2025-11-01T17:15:22.769717+00:00"
+    },
+    {
+      "title": "Where is the Trump phone? - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "T1 Phone 8002 (gold version) — a.k.a. the Trump phone — has missed three release dates in a row....",
+      "url": "https://www.theverge.com/news/810500/where-is-the-trump-phone",
+      "publishedAt": "2025-10-31T14:36:53Z",
+      "processed_at": "2025-11-01T17:15:22.769717+00:00"
+    },
+    {
+      "title": "Android prepares ‘Min Mode’ always-on display upgrade that can show apps - 9to5Google",
+      "source": {
+        "name": "9to5google.com"
+      },
+      "description": "Google is reportedly working on a big upgrade to always-on display functionality in Android that’s c...",
+      "url": "http://9to5google.com/2025/10/31/android-always-on-display-upgrade-min-mode-evidence/",
+      "publishedAt": "2025-10-31T14:30:18Z",
+      "processed_at": "2025-11-01T17:15:22.769717+00:00"
+    },
+    {
+      "title": "50 People Whose Lives Got Completely And Totally Blown Up By The Consequences Of Their Own Terrible Decisions Last Month - BuzzFeed",
+      "source": {
+        "name": "Buzzfeed"
+      },
+      "description": "Look before you leap....",
+      "url": "https://www.buzzfeed.com/daves4/people-who-had-a-tough-month-oct-2025",
+      "publishedAt": "2025-10-31T14:18:24Z",
+      "processed_at": "2025-11-01T17:15:22.769717+00:00"
+    },
+    {
+      "title": "What will Microsoft do about the Trump administration's provocative use of the Halo IP? \"What I wouldn't do is anything public,\" says former Microsoft attorney - Eurogamer",
+      "source": {
+        "name": "Eurogamer.net"
+      },
+      "description": "Don McGowan is an attorney who knows what he's talking about when it comes to understanding what Mic...",
+      "url": "https://www.eurogamer.net/what-will-microsoft-do-about-the-trump-administrations-provocative-use-of-the-halo-ip-what-i-wouldnt-do-is-anything-public-says-former-microsoft-attorney",
+      "publishedAt": "2025-10-31T14:13:05Z",
+      "processed_at": "2025-11-01T17:15:22.769717+00:00"
+    },
+    {
+      "title": "Sound Blaster’s modular hub is a reconfigurable Stream Deck for audio - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "Creative revived its Sound Blaster brand for a new modular magnetic hub called the Re:Imagine that s...",
+      "url": "https://www.theverge.com/news/811357/creative-sound-blaster-reimagine-modular-audio-hub-kickstarter",
+      "publishedAt": "2025-10-31T14:08:34Z",
+      "processed_at": "2025-11-01T17:15:22.769717+00:00"
+    },
+    {
+      "title": "Fortnite is getting pets at last, including a banana puppy you can dance with - introducing yet another cosmetic you can spend money on, in-game - Eurogamer",
+      "source": {
+        "name": "Eurogamer.net"
+      },
+      "description": "Fortnite is getting pets at last, including a banana puppy you can dance with....",
+      "url": "https://www.eurogamer.net/fortnite-is-getting-pets-at-last-including-a-banana-puppy-you-can-dance-with",
+      "publishedAt": "2025-10-31T13:33:04Z",
+      "processed_at": "2025-11-01T17:15:22.769717+00:00"
+    },
+    {
+      "title": "Nintendo wins lawsuit against EveryGameGuru, who streamed pirated Switch games and taunted the company - Nintendo Everything",
+      "source": {
+        "name": "Nintendoeverything.com"
+      },
+      "description": "Nearly a year after the case first started, a verdict has been reached in Nintendo’s lawsuit against...",
+      "url": "https://nintendoeverything.com/nintendo-everygameguru-lawsuit-decision/",
+      "publishedAt": "2025-10-31T13:07:55Z",
+      "processed_at": "2025-11-01T17:15:22.769717+00:00"
     },
     {
       "title": "God will be declared by a panel of experts - The Verge",
@@ -20,80 +100,10 @@
       "description": "OpenAI has a new deal with Microsoft, Adobe’s new creative AI tools, and the future of AOL, on The V...",
       "url": "https://www.theverge.com/podcast/811156/openai-agi-microsoft-vergecast",
       "publishedAt": "2025-10-31T12:47:42Z",
-      "processed_at": "2025-11-01T16:21:56.406554+00:00"
-    },
-    {
-      "title": "“Unexpectedly, a deer briefly entered the family room”: Living with Gemini Home - Ars Technica",
-      "source": {
-        "name": "Ars Technica"
-      },
-      "description": "Gemini for Home unleashes gen AI on your Nest camera footage, but it gets a lot wrong....",
-      "url": "https://arstechnica.com/google/2025/10/unexpectedly-a-deer-briefly-entered-the-family-room-living-with-gemini-home/",
-      "publishedAt": "2025-10-31T11:30:22Z",
-      "processed_at": "2025-11-01T16:21:56.406554+00:00"
-    },
-    {
-      "title": "Google rolls out a surprise October update for Pixel users - Android Central",
-      "source": {
-        "name": "Android Central"
-      },
-      "description": "Not the one you're waiting for, though...",
-      "url": "https://www.androidcentral.com/phones/google-pixel/google-pixel-last-minute-october-2025-update",
-      "publishedAt": "2025-10-31T10:04:47Z",
-      "processed_at": "2025-11-01T16:21:56.406554+00:00"
-    },
-    {
-      "title": "This leaked OnePlus flagship looks like a better bet than the OnePlus 15 - Android Authority",
-      "source": {
-        "name": "Android Authority"
-      },
-      "description": "OnePlus' next compact flagship has leaked, and it does not appear to repeat the same mistakes as the...",
-      "url": "https://www.androidauthority.com/oneplus-15-t-s-small-flagship-leak-3611928/",
-      "publishedAt": "2025-10-31T08:38:03Z",
-      "processed_at": "2025-11-01T16:21:56.406554+00:00"
-    },
-    {
-      "title": "It’s the 1-year anniversary of Nintendo Music! - News - Nintendo Official Site - Nintendo",
-      "source": {
-        "name": "Nintendo.com"
-      },
-      "description": "It’s hard to believe, but it’s been an entire year since the Nintendo Music app* launched. The exclu...",
-      "url": "https://www.nintendo.com/us/whatsnew/its-the-1-year-anniversary-of-nintendo-music/",
-      "publishedAt": "2025-10-30T22:31:23Z",
-      "processed_at": "2025-11-01T16:21:56.406554+00:00"
-    },
-    {
-      "title": "WhatsApp Testing Apple Watch App - MacRumors",
-      "source": {
-        "name": "MacRumors"
-      },
-      "description": "WhatsApp today provided its TestFlight users with a new Apple Watch app for testing purposes, which ...",
-      "url": "https://www.macrumors.com/2025/10/30/whatsapp-testing-apple-watch-app/",
-      "publishedAt": "2025-10-30T22:06:47Z",
-      "processed_at": "2025-11-01T16:21:56.406554+00:00"
-    },
-    {
-      "title": "Listen up! These top-selling Anker earbuds are 50% off before Black Friday - New York Post",
-      "source": {
-        "name": "New York Post"
-      },
-      "description": "This deal is music to our ears!...",
-      "url": "https://nypost.com/2025/10/30/shopping/soundcore-by-anker-p20i-true-wireless-earbuds-deal-amazonf/",
-      "publishedAt": "2025-10-30T21:25:00Z",
-      "processed_at": "2025-11-01T16:21:56.406554+00:00"
-    },
-    {
-      "title": "New court document reveals payment details between Jon Prosser and Michael Ramacciotti - 9to5Mac",
-      "source": {
-        "name": "9to5Mac"
-      },
-      "description": "Following a couple of deadline extensions, Michael Ramacciotti’s lawyer sent in his answer to Apple’...",
-      "url": "https://9to5mac.com/2025/10/30/court-file-prosser-ramacciotti-payment-details-apple-lawsuit/",
-      "publishedAt": "2025-10-30T20:44:00Z",
-      "processed_at": "2025-11-01T16:21:56.406554+00:00"
+      "processed_at": "2025-11-01T17:15:22.769717+00:00"
     }
   ],
-  "lastUpdated": "2025-11-01T16:21:56.406628+00:00",
+  "lastUpdated": "2025-11-01T17:15:22.769791+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
