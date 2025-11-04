@@ -1,26 +1,56 @@
 {
   "status": "success",
-  "totalResults": 9,
+  "totalResults": 10,
   "articles": [
+    {
+      "title": "iOS 26.1 lets you tweak Liquid Glass, and it’s out now - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "Apple has just released iOS 26.1 for iPhones, which includes a new transparency toggle for Liquid Gl...",
+      "url": "https://www.theverge.com/news/812375/apple-iphone-ios-26-1-update-availability",
+      "publishedAt": "2025-11-03T22:20:00Z",
+      "processed_at": "2025-11-04T23:19:21.707027+00:00"
+    },
+    {
+      "title": "Google pulled the plug on Nest Thermostats, but you can now bring them back to life - Android Police",
+      "source": {
+        "name": "Android Police"
+      },
+      "description": "A second chance...",
+      "url": "https://www.androidpolice.com/google-pulled-the-plug-on-nest-thermostats-but-this-project-revives-them/",
+      "publishedAt": "2025-11-03T22:07:00Z",
+      "processed_at": "2025-11-04T23:19:21.707027+00:00"
+    },
+    {
+      "title": "Here Are Jokes The MLB Cut From A Fan Favorite PS2 Game - Kotaku",
+      "source": {
+        "name": "Kotaku"
+      },
+      "description": "The Video Game History Foundation has archived some unused audio lines from the arcade baseball game...",
+      "url": "https://kotaku.com/mlb-slugfest-2003-jokes-rejected-mlb-cut-ps2-xbox-tim-jimmy-2000640898",
+      "publishedAt": "2025-11-03T21:56:49Z",
+      "processed_at": "2025-11-04T23:19:21.707027+00:00"
+    },
     {
       "title": "Resident Evil Pro Controller Is Available To Pre-Order, But Its Price Is Terrifying - Nintendo Life",
       "source": {
         "name": "Nintendo Life"
       },
-      "description": "",
+      "description": "A few Bingo wins might be needed...",
       "url": "https://www.nintendolife.com/news/2025/11/resident-evil-pro-controller-is-available-to-pre-order-but-its-price-is-terrifying",
       "publishedAt": "2025-11-03T21:54:01Z",
-      "processed_at": "2025-11-04T22:19:05.595115+00:00"
+      "processed_at": "2025-11-04T23:19:21.707027+00:00"
     },
     {
-      "title": "Apple releases iOS 26.1 for iPhone with these changes - 9to5Mac",
+      "title": "Google Pixel 10 Phones Drop to Record Low Prices Ahead of Black Friday - IGN",
       "source": {
-        "name": "9to5Mac"
+        "name": "IGN"
       },
-      "description": "Apple has officially released iOS 26.1 to all iPhone users. Here’s what changes are available to the...",
-      "url": "https://9to5mac.com/2025/11/03/apple-releases-ios-26-1-for-iphone-with-these-changes/",
-      "publishedAt": "2025-11-03T21:12:00Z",
-      "processed_at": "2025-11-04T22:19:05.595115+00:00"
+      "description": "Amazon is slashing prices early....",
+      "url": "https://www.ign.com/articles/google-pixel-10-pro-xl-early-black-friday-deal-2025",
+      "publishedAt": "2025-11-03T21:10:26Z",
+      "processed_at": "2025-11-04T23:19:21.707027+00:00"
     },
     {
       "title": "Apple does launch new products in November, here’s when it happened last - 9to5Mac",
@@ -30,7 +60,17 @@
       "description": "When was the last time Apple launched new products in November? Here’s an overview of recent history...",
       "url": "https://9to5mac.com/2025/11/03/apple-does-launch-new-products-in-november-heres-when-it-happened-last/",
       "publishedAt": "2025-11-03T20:39:00Z",
-      "processed_at": "2025-11-04T22:19:05.595115+00:00"
+      "processed_at": "2025-11-04T23:19:21.707027+00:00"
+    },
+    {
+      "title": "AMD says that it’s not pulling driver support for older Radeon GPUs afterall - Ars Technica",
+      "source": {
+        "name": "Ars Technica"
+      },
+      "description": "Re-using old silicon means that dropping “old” GPUs can affect “new” products....",
+      "url": "https://arstechnica.com/gadgets/2025/11/amd-says-that-its-not-pulling-driver-support-for-older-radeon-gpus-afterall/",
+      "publishedAt": "2025-11-03T20:21:36Z",
+      "processed_at": "2025-11-04T23:19:21.707027+00:00"
     },
     {
       "title": "Pillars Of Eternity Gets Turn-Based Mode As Fans Beg For A Sequel - Kotaku",
@@ -40,7 +80,7 @@
       "description": "Pillars of Eternity will start testing the new mode soon...",
       "url": "https://kotaku.com/pillars-eternity-3-turn-based-mode-update-avowed-crpg-2000640875",
       "publishedAt": "2025-11-03T20:14:22Z",
-      "processed_at": "2025-11-04T22:19:05.595115+00:00"
+      "processed_at": "2025-11-04T23:19:21.707027+00:00"
     },
     {
       "title": "Arc Raiders Gifts Premium Currency After Server Struggles - Kotaku",
@@ -50,7 +90,7 @@
       "description": "As one fan put it, you can spend '$4 in coins to have poop smeared on your face'...",
       "url": "https://kotaku.com/arc-raiders-gifts-premium-currency-after-server-struggles-2000640888",
       "publishedAt": "2025-11-03T20:10:22Z",
-      "processed_at": "2025-11-04T22:19:05.595115+00:00"
+      "processed_at": "2025-11-04T23:19:21.707027+00:00"
     },
     {
       "title": "Apple brings its App Store to the web - The Verge",
@@ -60,40 +100,10 @@
       "description": "Apple’s new App Store on the web allows users to easily browse and search for apps for iPhone, Mac, ...",
       "url": "https://www.theverge.com/news/812731/apple-app-store-web-iphone-mac-ipad",
       "publishedAt": "2025-11-03T20:02:52Z",
-      "processed_at": "2025-11-04T22:19:05.595115+00:00"
-    },
-    {
-      "title": "Yakuza 3 remake stirs up backlash with new trailer starring actor who admitted to assault - Polygon",
-      "source": {
-        "name": "Polygon"
-      },
-      "description": "Players want Yakuza Kiwami 3 & Dark Ties actor Teruyuki Kagawa replaced due to his history of sexual...",
-      "url": "https://www.polygon.com/yakuza-3-remake-kiwami-teruyuki-kagawa-controversy-sega/",
-      "publishedAt": "2025-11-03T19:55:00Z",
-      "processed_at": "2025-11-04T22:19:05.595115+00:00"
-    },
-    {
-      "title": "The apology tour begins: ESPN analyst says Seahawks are his ‘biggest miss of the offseason’ - Field Gulls",
-      "source": {
-        "name": "Field Gulls"
-      },
-      "description": "Bookmark it. Savor it. The tour will elongate with each Seahawks win....",
-      "url": "https://www.fieldgulls.com/seattle-seahawks-news/153920/the-apology-tour-begins-espn-analyst-says-seahawks-biggest-miss-offseason",
-      "publishedAt": "2025-11-03T19:37:55Z",
-      "processed_at": "2025-11-04T22:19:05.595115+00:00"
-    },
-    {
-      "title": "Pixel 10 is a hit in the US with Google’s new ‘single-month sales record’ amid iPhone 17 - 9to5Google",
-      "source": {
-        "name": "9to5google.com"
-      },
-      "description": "Hot off the launch of the Pixel 10 series, Google is seeing some seriously impressive boosts, even i...",
-      "url": "http://9to5google.com/2025/11/03/pixel-10-is-a-hit-in-the-us-with-googles-new-single-month-sales-record-amid-iphone-17/",
-      "publishedAt": "2025-11-03T19:30:00Z",
-      "processed_at": "2025-11-04T22:19:05.595115+00:00"
+      "processed_at": "2025-11-04T23:19:21.707027+00:00"
     }
   ],
-  "lastUpdated": "2025-11-04T22:19:05.595190+00:00",
+  "lastUpdated": "2025-11-04T23:19:21.707104+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
