@@ -1,7 +1,47 @@
 {
   "status": "success",
-  "totalResults": 10,
+  "totalResults": 9,
   "articles": [
+    {
+      "title": "Valve will finally turn off the Steam Deck’s screen while it’s downloading games - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "Valve is beta testing a low-power way to complete downloads on your Steam Deck without having to lea...",
+      "url": "https://www.theverge.com/news/813864/valve-steam-deck-screen-download-games-low-power-screen-off",
+      "publishedAt": "2025-11-04T23:02:03Z",
+      "processed_at": "2025-11-06T01:42:46.689322+00:00"
+    },
+    {
+      "title": "New HDR10+ Advanced standard will try to fix the soap opera effect - Ars Technica",
+      "source": {
+        "name": "Ars Technica"
+      },
+      "description": "Can more creator control fix motion smoothing?...",
+      "url": "https://arstechnica.com/gadgets/2025/11/hdr10-advanced-joins-dolby-vision-2-in-trying-to-make-you-like-motion-smoothing/",
+      "publishedAt": "2025-11-04T22:14:24Z",
+      "processed_at": "2025-11-06T01:42:46.689322+00:00"
+    },
+    {
+      "title": "Microsoft AI’s first in-house image generator MAI-Image-1 is now available - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "Microsoft rolls out its first in-house AI image generator MAI-Image-1....",
+      "url": "https://www.theverge.com/news/813789/microsoft-in-house-ai-image-generator-mai-image-1",
+      "publishedAt": "2025-11-04T21:48:09Z",
+      "processed_at": "2025-11-06T01:42:46.689322+00:00"
+    },
+    {
+      "title": "Nomad’s magnetic charging stands now support faster 25W rates - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "Nomad has updated its Stand One and Stand One Max wireless charging stands to support Qi2.2’s faster...",
+      "url": "https://www.theverge.com/news/813769/nomad-qi2-stand-one-max-wireless-charging-25w-magsafe-pixelsnap",
+      "publishedAt": "2025-11-04T21:42:13Z",
+      "processed_at": "2025-11-06T01:42:46.689322+00:00"
+    },
     {
       "title": "US Patent Office makes rare decision to order \"reexamination\" of previously awarded Nintendo patent - GamesIndustry.biz",
       "source": {
@@ -10,7 +50,7 @@
       "description": "The head of the U.S. Patent Office is reexamining a decision to award Nintendo a patent that protect...",
       "url": "https://www.gamesindustry.biz/us-patent-office-makes-rare-decision-to-order-reexamination-of-previously-awarded-nintendo-patent",
       "publishedAt": "2025-11-04T21:24:00Z",
-      "processed_at": "2025-11-05T23:19:27.724586+00:00"
+      "processed_at": "2025-11-06T01:42:46.689322+00:00"
     },
     {
       "title": "14 Essential Tips For Getting Started In Arc Raiders - Kotaku",
@@ -20,90 +60,40 @@
       "description": "Whether you roll solo or with friends, here’s how to stay alive and make the most of your run...",
       "url": "https://kotaku.com/arc-raiders-tips-solo-group-recycle-free-loadout-2000641174",
       "publishedAt": "2025-11-04T20:47:36Z",
-      "processed_at": "2025-11-05T23:19:27.724586+00:00"
+      "processed_at": "2025-11-06T01:42:46.689322+00:00"
     },
     {
-      "title": "Deck your house in Govee’s smart string lights, which are cheaper ahead of the holidays - The Verge",
+      "title": "Flat2VR Studios Is Releasing Four PlayStation VR2 Games This Month - UploadVR",
       "source": {
-        "name": "The Verge"
-      },
-      "description": "Govee’s Christmas Lights 2 are down to some of their best prices. Multiple sizes are on sale, starti...",
-      "url": "https://www.theverge.com/tech/813488/govee-christmas-lights-2-holidays-2025-deal-sale",
-      "publishedAt": "2025-11-04T20:00:00Z",
-      "processed_at": "2025-11-05T23:19:27.724586+00:00"
-    },
-    {
-      "title": "Sora is now available on Android in the US, Canada, and other regions - TechCrunch",
-      "source": {
-        "name": "TechCrunch"
-      },
-      "description": "The Android version of Sora retains all the features of its iOS counterpart, including the “Cameos” ...",
-      "url": "https://techcrunch.com/2025/11/04/sora-is-now-available-on-android-in-the-us-canada-and-other-regions/",
-      "publishedAt": "2025-11-04T19:35:51Z",
-      "processed_at": "2025-11-05T23:19:27.724586+00:00"
-    },
-    {
-      "title": "iOS 26.2 adds Liquid Glass slider to customize your Lock Screen - 9to5Mac",
-      "source": {
-        "name": "9to5Mac"
-      },
-      "description": "iOS 26.2 beta 1 is now available, and it updates the Liquid Glass slider for customizing the time on...",
-      "url": "https://9to5mac.com/2025/11/04/ios-26-2-adds-liquid-glass-slider-to-customize-your-lock-screen/",
-      "publishedAt": "2025-11-04T19:22:00Z",
-      "processed_at": "2025-11-05T23:19:27.724586+00:00"
-    },
-    {
-      "title": "Teamfight Tactics patch 15.8 notes - Teamfight Tactics",
-      "source": {
-        "name": "Leagueoflegends.com"
-      },
-      "description": "A light balance patch for our Tactician’s Crown competitors and a larger one for Uncharted Realms....",
-      "url": "https://teamfighttactics.leagueoflegends.com/en-us/news/game-updates/teamfight-tactics-patch-15-8-notes/",
-      "publishedAt": "2025-11-04T19:00:00Z",
-      "processed_at": "2025-11-05T23:19:27.724586+00:00"
-    },
-    {
-      "title": "iOS 26.2 includes three helpful upgrades to Apple Podcasts app - 9to5Mac",
-      "source": {
-        "name": "9to5Mac"
-      },
-      "description": "Apple is upgrading its built-in Podcasts app with three changes starting with iOS 26.2. The upgrades...",
-      "url": "https://9to5mac.com/2025/11/04/ios-26-2-includes-three-helpful-upgrades-to-apple-podcasts-app/",
-      "publishedAt": "2025-11-04T18:50:00Z",
-      "processed_at": "2025-11-05T23:19:27.724586+00:00"
-    },
-    {
-      "title": "iOS 26.2 and watchOS 26.2 Update Sleep Score Ranges - MacRumors",
-      "source": {
-        "name": "Google News"
+        "name": "UploadVR"
       },
       "description": "",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOcWtJa005NC1rTXZRYktpb1pMWG51dmhCTWlDXzdqNHZ3WEFkZFNiQnhES1RNNkw3OHJCTXpsYVRsZFJocUZQX1d1akdYTl9RTGdxOVhrRFRHTUkta1hqdVBwWG5rVEktUEo3WjlKQWItbW91YkEtVlA4dW5xczJyUXh6SQ?oc=5",
-      "publishedAt": "2025-11-04T18:44:03Z",
-      "processed_at": "2025-11-05T23:19:27.724586+00:00"
+      "url": "https://www.uploadvr.com/flat2vr-playstation-vr2-day-2025/",
+      "publishedAt": "2025-11-04T20:39:16Z",
+      "processed_at": "2025-11-06T01:42:46.689322+00:00"
     },
     {
-      "title": "Samsung previews HDR10 Plus Advanced, its answer to Dolby Vision 2 - The Verge",
+      "title": "Travis Pastrana's New Gymkhana Car Is a 'Completely Unhinged' Subaru Brat - Motor1.com",
       "source": {
-        "name": "The Verge"
+        "name": "Motor1 "
       },
-      "description": "The simulated demo highlighted six dynamic HDR features that we expect to see on some Samsung TVs in...",
-      "url": "https://www.theverge.com/tech/813389/samsung-previews-hdr10-plus-advanced-its-answer-to-dolby-vision-2",
-      "publishedAt": "2025-11-04T18:36:19Z",
-      "processed_at": "2025-11-05T23:19:27.724586+00:00"
+      "description": "Gymkhana returns for its 13th installment with Travis Pastrana behind the wheel of a bonkers 9,500-R...",
+      "url": "https://www.motor1.com/news/777924/gymkhana-subaru-brat-australia/",
+      "publishedAt": "2025-11-04T20:00:00Z",
+      "processed_at": "2025-11-06T01:42:46.689322+00:00"
     },
     {
-      "title": "PC Players or Bots? Battlefield 6 PS5 Players Frustrated by Crossplay Situation - Push Square",
+      "title": "Call of Duty: Black Ops 7 official PC specs list 3GB VRAM minimum, 16GB for 4K Ultra - VideoCardz.com",
       "source": {
-        "name": "Push Square"
+        "name": "Videocardz.com"
       },
-      "description": "Would you rather play with one or the other?...",
-      "url": "https://www.pushsquare.com/news/2025/11/pc-players-or-bots-battlefield-6-ps5-players-frustrated-by-crossplay-situation",
-      "publishedAt": "2025-11-04T18:00:00Z",
-      "processed_at": "2025-11-05T23:19:27.724586+00:00"
+      "description": "Call of Duty: Black Ops 7 PC specs confirm stricter security and handheld focus Activision has publi...",
+      "url": "https://videocardz.com/newz/call-of-duty-black-ops-7-official-pc-specs-list-3gb-vram-minimum-16gb-for-4k-ultra",
+      "publishedAt": "2025-11-04T19:40:00Z",
+      "processed_at": "2025-11-06T01:42:46.689322+00:00"
     }
   ],
-  "lastUpdated": "2025-11-05T23:19:27.724658+00:00",
+  "lastUpdated": "2025-11-06T01:42:46.689395+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
