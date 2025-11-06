@@ -1,16 +1,66 @@
 {
   "status": "success",
-  "totalResults": 10,
+  "totalResults": 9,
   "articles": [
     {
-      "title": "PS Portal Gets So Much Better Today in Huge UI, Cloud Streaming Update - Push Square",
+      "title": "Black Ops 7 Preload And Release Times Revealed, Along With ROG Xbox Ally Details - Pure Xbox",
       "source": {
-        "name": "Push Square"
+        "name": "Pure Xbox"
       },
-      "description": "Access available for PS Plus Premium members...",
-      "url": "https://www.pushsquare.com/news/2025/11/ps-portal-gets-so-much-better-today-in-huge-ui-cloud-streaming-update",
-      "publishedAt": "2025-11-05T13:15:00Z",
-      "processed_at": "2025-11-06T14:21:40.163482+00:00"
+      "description": "\"Call of Duty: Black Ops 7 is just around the corner\"...",
+      "url": "https://www.purexbox.com/news/2025/11/black-ops-7-preload-and-release-times-revealed-along-with-rog-xbox-ally-details",
+      "publishedAt": "2025-11-05T16:04:06Z",
+      "processed_at": "2025-11-06T15:23:58.836502+00:00"
+    },
+    {
+      "title": "Here Is The 2025 Game Of The Year ‘Shortlist’ Of 11 Games - Forbes",
+      "source": {
+        "name": "Forbes"
+      },
+      "description": "Game of the Year awards are coming up at The Game Awards, and only six games can make it in a massiv...",
+      "url": "https://www.forbes.com/sites/paultassi/2025/11/05/here-is-the-2025-game-of-the-year-shortlist-of-11-games/",
+      "publishedAt": "2025-11-05T15:30:22Z",
+      "processed_at": "2025-11-06T15:23:58.836502+00:00"
+    },
+    {
+      "title": "Battlefield 6 challenges are being made far easier following intense community feedback - Eurogamer",
+      "source": {
+        "name": "Eurogamer.net"
+      },
+      "description": "Battlefield 6 challenges are being made far easier following intense community feedback....",
+      "url": "https://www.eurogamer.net/battlefield-6-challenges-are-being-made-far-easier-following-intense-community-feedback",
+      "publishedAt": "2025-11-05T15:06:49Z",
+      "processed_at": "2025-11-06T15:23:58.836502+00:00"
+    },
+    {
+      "title": "Pokémon Legends: Z-A Mega Dimension DLC News Coming Tomorrow - Nintendo Life",
+      "source": {
+        "name": "Nintendo Life"
+      },
+      "description": "A Mega Announcement?...",
+      "url": "https://www.nintendolife.com/news/2025/11/pokemon-legends-z-a-mega-dimension-dlc-news-coming-tomorrow",
+      "publishedAt": "2025-11-05T14:15:00Z",
+      "processed_at": "2025-11-06T15:23:58.836502+00:00"
+    },
+    {
+      "title": "Google Maps bakes in Gemini to improve navigation and hands-free use - TechCrunch",
+      "source": {
+        "name": "TechCrunch"
+      },
+      "description": "Google is now baking Gemini into Maps to let users ask it questions while driving, improve navigatio...",
+      "url": "https://techcrunch.com/2025/11/05/google-maps-bakes-in-gemini-to-improve-navigation-and-hands-free-use/",
+      "publishedAt": "2025-11-05T14:00:00Z",
+      "processed_at": "2025-11-06T15:23:58.836502+00:00"
+    },
+    {
+      "title": "Cloud streaming finally arrives on the PlayStation Portal - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "Sony’s official launch of PS5 cloud streaming to the PlayStation Portal comes with refreshed menus, ...",
+      "url": "https://www.theverge.com/news/814078/playstation-portal-ps5-cloud-streaming",
+      "publishedAt": "2025-11-05T13:50:35Z",
+      "processed_at": "2025-11-06T15:23:58.836502+00:00"
     },
     {
       "title": "We now have a Nintendo Store app for iOS and Android - The Verge",
@@ -20,90 +70,30 @@
       "description": "Nintendo has released an official Nintendo Store app, allowing more fans to access the eShop on iPho...",
       "url": "https://www.theverge.com/news/814054/nintendo-store-app-ios-android-games-shop",
       "publishedAt": "2025-11-05T13:07:21Z",
-      "processed_at": "2025-11-06T14:21:40.163482+00:00"
+      "processed_at": "2025-11-06T15:23:58.836502+00:00"
     },
     {
-      "title": "30 years later, a classic Namco arcade game is about to get a first console release - Eurogamer",
+      "title": "This refreshingly innovative smartphone brand has entered the US - Android Authority",
       "source": {
-        "name": "Eurogamer.net"
+        "name": "Android Authority"
       },
-      "description": "It's never too late to release your game on console, apparently. Nearly 30 years later, Namco's Toky...",
-      "url": "https://www.eurogamer.net/30-years-later-a-classic-namco-arcade-game-is-about-to-get-a-first-console-release",
-      "publishedAt": "2025-11-05T12:28:36Z",
-      "processed_at": "2025-11-06T14:21:40.163482+00:00"
+      "description": "The US isn't the most competitive smartphone market, but that hasn't stopped a notable mobile manufa...",
+      "url": "https://www.androidauthority.com/new-smartphone-brand-us-market-3613145/",
+      "publishedAt": "2025-11-05T12:52:31Z",
+      "processed_at": "2025-11-06T15:23:58.836502+00:00"
     },
     {
-      "title": "Former Meta employees launch a ring to take voice notes and control music - TechCrunch",
+      "title": "Former Meta employees launch Sandbar, a smart ring that takes voice notes and controls music - TechCrunch",
       "source": {
         "name": "TechCrunch"
       },
-      "description": "",
-      "url": "https://techcrunch.com/2025/11/05/former-meta-employees-launch-a-ring-to-take-voice-notes-and-control-music/",
+      "description": "A raft of voice-based hardware devices have emerged, aimed at companionship, productivity, or person...",
+      "url": "https://techcrunch.com/2025/11/05/former-meta-employees-launch-sandbar-a-smart-ring-that-takes-voice-notes-and-controls-music/",
       "publishedAt": "2025-11-05T11:00:00Z",
-      "processed_at": "2025-11-06T14:21:40.163482+00:00"
-    },
-    {
-      "title": "Leaked Cross-Buy Icon on PS5 Hints at Mysterious Pro-Consumer Move from Sony - Push Square",
-      "source": {
-        "name": "Push Square"
-      },
-      "description": "Something is afoot...",
-      "url": "https://www.pushsquare.com/news/2025/11/leaked-cross-buy-icon-on-ps5-hints-at-mysterious-pro-consumer-move-from-sony",
-      "publishedAt": "2025-11-05T04:48:08Z",
-      "processed_at": "2025-11-06T14:21:40.163482+00:00"
-    },
-    {
-      "title": "Mortal Kombat: Legacy Kollection patch notes for new update to lower input lag, improve online and more - EventHubs",
-      "source": {
-        "name": "EventHubs"
-      },
-      "description": "Despite a strong critical reception, the Mortal Kobmat: Legacy Kollection had a pretty rough launch ...",
-      "url": "https://www.eventhubs.com/news/2025/nov/04/mortal-kombat-kollection-patch-notes/",
-      "publishedAt": "2025-11-05T01:00:47Z",
-      "processed_at": "2025-11-06T14:21:40.163482+00:00"
-    },
-    {
-      "title": "Unreal Pixel 10 Pro discounts are now live ahead of Black Friday - Android Police",
-      "source": {
-        "name": "Android Police"
-      },
-      "description": "Save big on the entire lineup...",
-      "url": "https://www.androidpolice.com/pixel-10-series-sees-best-discounts-before-black-friday/",
-      "publishedAt": "2025-11-05T00:14:00Z",
-      "processed_at": "2025-11-06T14:21:40.163482+00:00"
-    },
-    {
-      "title": "T-Mobile is taking away a major perk from some users - Android Police",
-      "source": {
-        "name": "Android Police"
-      },
-      "description": "DashPass warning is now rolling out...",
-      "url": "https://www.androidpolice.com/t-mobile-dashpass-perk-revoked-for-some/",
-      "publishedAt": "2025-11-04T23:16:00Z",
-      "processed_at": "2025-11-06T14:21:40.163482+00:00"
-    },
-    {
-      "title": "Apple Podcasts is generating automatic links and chapters - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "Starting in iOS 26.2, Apple Podcasts will be able to automatically generate chapters and timestamped...",
-      "url": "https://www.theverge.com/news/813817/apple-podcasts-automatic-links-and-chapters",
-      "publishedAt": "2025-11-04T22:34:28Z",
-      "processed_at": "2025-11-06T14:21:40.163482+00:00"
-    },
-    {
-      "title": "Steam Deck gets a new low-power screen-off downloads mode - GamingOnLinux",
-      "source": {
-        "name": "Gamingonlinux.com"
-      },
-      "description": "Probably the single most requested Steam Deck feature since release is now in Beta, allowing you to ...",
-      "url": "https://www.gamingonlinux.com/2025/11/steam-deck-gets-a-new-low-power-screen-off-downloads-mode/.",
-      "publishedAt": "2025-11-04T22:33:49Z",
-      "processed_at": "2025-11-06T14:21:40.163482+00:00"
+      "processed_at": "2025-11-06T15:23:58.836502+00:00"
     }
   ],
-  "lastUpdated": "2025-11-06T14:21:40.163551+00:00",
+  "lastUpdated": "2025-11-06T15:23:58.836566+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
