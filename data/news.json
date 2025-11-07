@@ -1,7 +1,37 @@
 {
   "status": "success",
-  "totalResults": 8,
+  "totalResults": 9,
   "articles": [
+    {
+      "title": "Hyrule Warriors: Age of Imprisonment finishes what Tears of the Kingdom started - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "Hyrule Warriors: Age of Imprisonment gives The Legend of Zelda: Tears of the Kingdom a hack-and-slas...",
+      "url": "https://www.theverge.com/entertainment/814762/hyrule-warriors-age-of-imprisonment-zelda-tears-of-the-kingdom",
+      "publishedAt": "2025-11-06T15:00:00Z",
+      "processed_at": "2025-11-07T17:18:30.678689+00:00"
+    },
+    {
+      "title": "Plunder Cayo Perico for the Panther Statue and Double Rewards - Rockstar Games",
+      "source": {
+        "name": "Rockstargames.com"
+      },
+      "description": "Team up with friendly outlaw submariner, Pavel, to set your periscope’s sights on El Rubio’s island ...",
+      "url": "https://www.rockstargames.com/newswire/article/1798o995k979a8/plunder-cayo-perico-for-the-panther-statue-and-double-rewards",
+      "publishedAt": "2025-11-06T14:52:36Z",
+      "processed_at": "2025-11-07T17:18:30.678689+00:00"
+    },
+    {
+      "title": "After chasing NFTs and the metaverse, Square Enix wants generative AI to do 70% of its QA by 2027 - Eurogamer",
+      "source": {
+        "name": "Eurogamer.net"
+      },
+      "description": "After chasing NFTs and the metaverse, Square Enix wants generative AI to do 70% of its QA by 2027....",
+      "url": "https://www.eurogamer.net/after-chasing-nfts-and-the-metaverse-square-enix-wants-generative-ai-to-do-70-of-its-qa-by-2027",
+      "publishedAt": "2025-11-06T14:25:24Z",
+      "processed_at": "2025-11-07T17:18:30.678689+00:00"
+    },
     {
       "title": "Pokémon Legends: Z-A's Mega Dimension DLC Scores December Release Date - Nintendo Life",
       "source": {
@@ -10,7 +40,27 @@
       "description": "You wanted more?...",
       "url": "https://www.nintendolife.com/news/2025/11/pokemon-legends-z-as-mega-dimension-dlc-scores-december-release-date",
       "publishedAt": "2025-11-06T14:02:00Z",
-      "processed_at": "2025-11-07T16:23:24.010768+00:00"
+      "processed_at": "2025-11-07T17:18:30.678689+00:00"
+    },
+    {
+      "title": "‘ARC Raiders’ Patch Notes, Concurrent Players And Record Scores - Forbes",
+      "source": {
+        "name": "Forbes"
+      },
+      "description": "Here are the new ARC Raiders patch notes, along with updates on its concurrent players and review sc...",
+      "url": "https://www.forbes.com/sites/paultassi/2025/11/06/arc-raiders-patch-notes-concurrent-players-and-record-scores/",
+      "publishedAt": "2025-11-06T13:52:01Z",
+      "processed_at": "2025-11-07T17:18:30.678689+00:00"
+    },
+    {
+      "title": "Grand Theft Auto studio accused of 'union busting' after sacking workers - BBC",
+      "source": {
+        "name": "BBC News"
+      },
+      "description": "A union representing people in the gaming sector said 31 people were fired at Rockstar's UK studios....",
+      "url": "https://www.bbc.com/news/articles/c9v10rr1meeo",
+      "publishedAt": "2025-11-06T13:42:06Z",
+      "processed_at": "2025-11-07T17:18:30.678689+00:00"
     },
     {
       "title": "Apple to Remove iPhone-Apple Watch Wi-Fi Sync in EU With iOS 26.2 - MacRumors",
@@ -20,70 +70,30 @@
       "description": "Apple in iOS 26.2 will disable automatic Wi-Fi network syncing between iPhone and Apple Watch in the...",
       "url": "https://www.macrumors.com/2025/11/06/iphone-apple-watch-wi-fi-sync-eu-ios/",
       "publishedAt": "2025-11-06T12:37:50Z",
-      "processed_at": "2025-11-07T16:23:24.010768+00:00"
+      "processed_at": "2025-11-07T17:18:30.678689+00:00"
     },
     {
-      "title": "Huawei Mate 70 Air is a little thick for a thin phone - The Verge",
+      "title": "Another iPhone Air competitor lands: the Huawei Mate 70 Air - 9to5Mac",
       "source": {
-        "name": "The Verge"
+        "name": "9to5Mac"
       },
-      "description": "But the 6,500mAh battery probably makes up for that....",
-      "url": "https://www.theverge.com/news/815327/huawei-mate-70-air-is-a-little-thick-for-a-thin-phone",
-      "publishedAt": "2025-11-06T12:35:00Z",
-      "processed_at": "2025-11-07T16:23:24.010768+00:00"
+      "description": "We yesterday took a look at the new Motorola Edge 70, the company’s take on the iPhone Air, and toda...",
+      "url": "https://9to5mac.com/2025/11/06/another-iphone-air-competitor-lands-the-huawei-mate-70-air/",
+      "publishedAt": "2025-11-06T12:30:00Z",
+      "processed_at": "2025-11-07T17:18:30.678689+00:00"
     },
     {
       "title": "'Us Multiplayer Gamers Are the Minority' — Shroud, One of the Biggest Streamers in the World, Urges His Followers to Vote for Arc Raiders Over Clair Obscur: Expedition 33 for Game of the Year - IGN",
       "source": {
         "name": "IGN"
       },
-      "description": "",
+      "description": "Shroud has called on his fans to vote for Arc Raiders as Game of the Year 2025 over Clair Obscur: Ex...",
       "url": "https://www.ign.com/articles/us-multiplayer-gamers-are-the-minority-shroud-one-of-the-biggest-streamers-in-the-world-urges-his-followers-to-vote-for-arc-raiders-over-clair-obscur-expedition-33-for-game-of-the-year",
       "publishedAt": "2025-11-06T12:08:51Z",
-      "processed_at": "2025-11-07T16:23:24.010768+00:00"
-    },
-    {
-      "title": "Netease shutters another studio, as Bad Brain Studios announces closure later this month - Eurogamer",
-      "source": {
-        "name": "Eurogamer.net"
-      },
-      "description": "Netease shutters another studio, as Bad Brain Studios announces closure later this month....",
-      "url": "https://www.eurogamer.net/netease-shutters-another-studio-as-bad-brain-studios-announces-closure-later-this-month",
-      "publishedAt": "2025-11-06T10:56:12Z",
-      "processed_at": "2025-11-07T16:23:24.010768+00:00"
-    },
-    {
-      "title": "2026 iPhone Air Could Feature Two Rear Cameras, Says Leaker - MacRumors",
-      "source": {
-        "name": "MacRumors"
-      },
-      "description": "Apple's second iPhone Air model is in development and could feature two rear cameras instead of one,...",
-      "url": "https://www.macrumors.com/2025/11/06/2026-iphone-air-dual-lens-camera/",
-      "publishedAt": "2025-11-06T10:13:08Z",
-      "processed_at": "2025-11-07T16:23:24.010768+00:00"
-    },
-    {
-      "title": "GTA 6 Studio Rockstar Accuses Fired Employees of Leaking 'Confidential Information in a Public Forum' - IGN",
-      "source": {
-        "name": "IGN"
-      },
-      "description": "GTA 6 studio Rockstar Games has accused the employees it recently fired of leaking confidential info...",
-      "url": "https://www.ign.com/articles/gta-6-studio-rockstar-accuses-fired-employees-of-leaking-confidential-information-in-a-public-forum",
-      "publishedAt": "2025-11-06T06:58:47Z",
-      "processed_at": "2025-11-07T16:23:24.010768+00:00"
-    },
-    {
-      "title": "Canon adds a 32-megapixel sensor and 7K video to the new EOS R6 Mark III - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "The Canon EOS R6 Mark III features a new 32.5-megapixel full-frame sensor and 7K video recording. An...",
-      "url": "https://www.theverge.com/news/814245/canon-eos-r6-mark-iii-mirrorless-camera-price-specs",
-      "publishedAt": "2025-11-06T06:00:00Z",
-      "processed_at": "2025-11-07T16:23:24.010768+00:00"
+      "processed_at": "2025-11-07T17:18:30.678689+00:00"
     }
   ],
-  "lastUpdated": "2025-11-07T16:23:24.010835+00:00",
+  "lastUpdated": "2025-11-07T17:18:30.678785+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
