@@ -1,16 +1,66 @@
 {
   "status": "success",
-  "totalResults": 9,
+  "totalResults": 8,
   "articles": [
     {
-      "title": "Ikea’s new low-cost line is a huge win for Matter and your smart home - The Verge",
+      "title": "Pokémon Legends: Z-A's Mega Dimension DLC Scores December Release Date - Nintendo Life",
+      "source": {
+        "name": "Nintendo Life"
+      },
+      "description": "You wanted more?...",
+      "url": "https://www.nintendolife.com/news/2025/11/pokemon-legends-z-as-mega-dimension-dlc-scores-december-release-date",
+      "publishedAt": "2025-11-06T14:02:00Z",
+      "processed_at": "2025-11-07T15:21:50.382211+00:00"
+    },
+    {
+      "title": "Apple to Remove iPhone-Apple Watch Wi-Fi Sync in EU With iOS 26.2 - MacRumors",
+      "source": {
+        "name": "MacRumors"
+      },
+      "description": "Apple in iOS 26.2 will disable automatic Wi-Fi network syncing between iPhone and Apple Watch in the...",
+      "url": "https://www.macrumors.com/2025/11/06/iphone-apple-watch-wi-fi-sync-eu-ios/",
+      "publishedAt": "2025-11-06T12:37:50Z",
+      "processed_at": "2025-11-07T15:21:50.382211+00:00"
+    },
+    {
+      "title": "Huawei Mate 70 Air is a little thick for a thin phone - The Verge",
       "source": {
         "name": "The Verge"
       },
-      "description": "The furniture giant is launching 21 low-cost Matter-over-Thread sensors, light bulbs, buttons, and m...",
-      "url": "https://www.theverge.com/tech/814928/ikea-matter-thread-dirigera-smart-home-interview",
-      "publishedAt": "2025-11-06T12:00:00Z",
-      "processed_at": "2025-11-07T14:20:23.130649+00:00"
+      "description": "But the 6,500mAh battery probably makes up for that....",
+      "url": "https://www.theverge.com/news/815327/huawei-mate-70-air-is-a-little-thick-for-a-thin-phone",
+      "publishedAt": "2025-11-06T12:35:00Z",
+      "processed_at": "2025-11-07T15:21:50.382211+00:00"
+    },
+    {
+      "title": "'Us Multiplayer Gamers Are the Minority' — Shroud, One of the Biggest Streamers in the World, Urges His Followers to Vote for Arc Raiders Over Clair Obscur: Expedition 33 for Game of the Year - IGN",
+      "source": {
+        "name": "IGN"
+      },
+      "description": "",
+      "url": "https://www.ign.com/articles/us-multiplayer-gamers-are-the-minority-shroud-one-of-the-biggest-streamers-in-the-world-urges-his-followers-to-vote-for-arc-raiders-over-clair-obscur-expedition-33-for-game-of-the-year",
+      "publishedAt": "2025-11-06T12:08:51Z",
+      "processed_at": "2025-11-07T15:21:50.382211+00:00"
+    },
+    {
+      "title": "Netease shutters another studio, as Bad Brain Studios announces closure later this month - Eurogamer",
+      "source": {
+        "name": "Eurogamer.net"
+      },
+      "description": "Netease shutters another studio, as Bad Brain Studios announces closure later this month....",
+      "url": "https://www.eurogamer.net/netease-shutters-another-studio-as-bad-brain-studios-announces-closure-later-this-month",
+      "publishedAt": "2025-11-06T10:56:12Z",
+      "processed_at": "2025-11-07T15:21:50.382211+00:00"
+    },
+    {
+      "title": "2026 iPhone Air Could Feature Two Rear Cameras, Says Leaker - MacRumors",
+      "source": {
+        "name": "MacRumors"
+      },
+      "description": "Apple's second iPhone Air model is in development and could feature two rear cameras instead of one,...",
+      "url": "https://www.macrumors.com/2025/11/06/2026-iphone-air-dual-lens-camera/",
+      "publishedAt": "2025-11-06T10:13:08Z",
+      "processed_at": "2025-11-07T15:21:50.382211+00:00"
     },
     {
       "title": "GTA 6 Studio Rockstar Accuses Fired Employees of Leaking 'Confidential Information in a Public Forum' - IGN",
@@ -20,7 +70,7 @@
       "description": "GTA 6 studio Rockstar Games has accused the employees it recently fired of leaking confidential info...",
       "url": "https://www.ign.com/articles/gta-6-studio-rockstar-accuses-fired-employees-of-leaking-confidential-information-in-a-public-forum",
       "publishedAt": "2025-11-06T06:58:47Z",
-      "processed_at": "2025-11-07T14:20:23.130649+00:00"
+      "processed_at": "2025-11-07T15:21:50.382211+00:00"
     },
     {
       "title": "Canon adds a 32-megapixel sensor and 7K video to the new EOS R6 Mark III - The Verge",
@@ -30,70 +80,10 @@
       "description": "The Canon EOS R6 Mark III features a new 32.5-megapixel full-frame sensor and 7K video recording. An...",
       "url": "https://www.theverge.com/news/814245/canon-eos-r6-mark-iii-mirrorless-camera-price-specs",
       "publishedAt": "2025-11-06T06:00:00Z",
-      "processed_at": "2025-11-07T14:20:23.130649+00:00"
-    },
-    {
-      "title": "One Piece: Pirate Warriors 4 - Switch 2 Edition Announced, Includes Free Upgrade For Switch Owners - Nintendo Life",
-      "source": {
-        "name": "Nintendo Life"
-      },
-      "description": "Update: Set sail later this month...",
-      "url": "https://www.nintendolife.com/news/2025/11/one-piece-pirate-warriors-4-switch-2-edition-announced-includes-free-upgrade-for-switch-owners",
-      "publishedAt": "2025-11-06T04:45:00Z",
-      "processed_at": "2025-11-07T14:20:23.130649+00:00"
-    },
-    {
-      "title": "Hyrule Warriors: Age Of Imprisonment Receives Its First Switch 2 Update (Version 1.0.1) - Nintendo Life",
-      "source": {
-        "name": "Nintendo Life"
-      },
-      "description": "Here's what you can expect...",
-      "url": "https://www.nintendolife.com/news/2025/11/hyrule-warriors-age-of-imprisonment-receives-its-first-switch-2-update-version-1-0-1",
-      "publishedAt": "2025-11-06T03:31:48Z",
-      "processed_at": "2025-11-07T14:20:23.130649+00:00"
-    },
-    {
-      "title": "Bose Rushes to Clear Out Its QC Headphones Stock, Now Selling Them 3x Cheaper Than Direct Rivals Sony and Apple - Gizmodo",
-      "source": {
-        "name": "Gizmodo.com"
-      },
-      "description": "Bose's flagship ANC headphones deliver 24-hour battery and adjustable EQ at breakthrough pricing....",
-      "url": "https://gizmodo.com/bose-rushes-to-clear-out-its-qc-headphones-stock-now-selling-them-3x-cheaper-than-direct-rivals-sony-and-apple-2000682015",
-      "publishedAt": "2025-11-06T01:12:44Z",
-      "processed_at": "2025-11-07T14:20:23.130649+00:00"
-    },
-    {
-      "title": "Pokemon Legends: Z-A 1.0.2 update out now, patch notes - Nintendo Everything",
-      "source": {
-        "name": "Nintendoeverything.com"
-      },
-      "description": "Pokemon Legends Z-A version 1.0.2 update has just released on Nintendo Switch 2 and Switch - read th...",
-      "url": "https://nintendoeverything.com/pokemon-legends-z-a-1-0-2-update-out-now-patch-notes/",
-      "publishedAt": "2025-11-06T01:10:27Z",
-      "processed_at": "2025-11-07T14:20:23.130649+00:00"
-    },
-    {
-      "title": "Rare form of syphilis in married elderly man nearly stumps doctors - Ars Technica",
-      "source": {
-        "name": "Ars Technica"
-      },
-      "description": "Man said he was in a monogamous 50-year marriage, but doctors aren’t so sure now....",
-      "url": "https://arstechnica.com/health/2025/11/rare-form-of-syphilis-in-married-elderly-man-nearly-stumps-doctors/",
-      "publishedAt": "2025-11-05T23:29:42Z",
-      "processed_at": "2025-11-07T14:20:23.130649+00:00"
-    },
-    {
-      "title": "Trend alert: High-tech Bluetooth CD players make me nostalgic for the mix tape era - Mashable",
-      "source": {
-        "name": "Mashable"
-      },
-      "description": "A new wave of CD players is bringing modern features to retrotech....",
-      "url": "https://mashable.com/article/high-tech-bluetooth-cd-players-trend",
-      "publishedAt": "2025-11-05T22:11:13Z",
-      "processed_at": "2025-11-07T14:20:23.130649+00:00"
+      "processed_at": "2025-11-07T15:21:50.382211+00:00"
     }
   ],
-  "lastUpdated": "2025-11-07T14:20:23.130722+00:00",
+  "lastUpdated": "2025-11-07T15:21:50.382284+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
