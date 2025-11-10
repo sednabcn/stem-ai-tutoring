@@ -1,16 +1,76 @@
 {
   "status": "success",
-  "totalResults": 9,
+  "totalResults": 10,
   "articles": [
     {
-      "title": "Mass Effect TV Series Won't Retread Shepard's Story And Will Be Set After The Original Trilogy - IGN",
+      "title": "Arc Raiders breaks another concurrent record as player count soars - Eurogamer",
       "source": {
-        "name": "IGN"
+        "name": "Eurogamer.net"
       },
-      "description": "Amazon's upcoming Mass Effect TV adaptation will focus on an original story rather than rehashing Bi...",
-      "url": "https://www.ign.com/articles/mass-effect-tv-series-wont-retread-shepards-story-and-will-be-set-after-the-original-trilogy",
-      "publishedAt": "2025-11-09T17:00:16Z",
-      "processed_at": "2025-11-10T20:25:37.894987+00:00"
+      "description": "Arc Raiders has once again smashed its own concurrent peak user count on Steam, topping 400,000 for ...",
+      "url": "https://www.eurogamer.net/arc-raiders-breaks-another-concurrent-record-as-player-count-soars",
+      "publishedAt": "2025-11-09T18:32:23Z",
+      "processed_at": "2025-11-10T21:19:13.530953+00:00"
+    },
+    {
+      "title": "Stalker 2 dev strikes down copycat game Misery with DMCA claim - Eurogamer",
+      "source": {
+        "name": "Eurogamer.net"
+      },
+      "description": "Stalker 2: Heart of Chornobyl developer GSC Game World has struck down co-op survival horror shooter...",
+      "url": "https://www.eurogamer.net/stalker-2-dev-strikes-down-copycat-game-misery-with-dmca-claim",
+      "publishedAt": "2025-11-09T18:03:52Z",
+      "processed_at": "2025-11-10T21:19:13.530953+00:00"
+    },
+    {
+      "title": "Dispatch Lead Developer Says The Team Will \"Think\" About Season 2 - TheGamer",
+      "source": {
+        "name": "TheGamer"
+      },
+      "description": "Season 1 isn't even over yet, but more Dispatch seems inevitable....",
+      "url": "https://www.thegamer.com/dispatch-adhoc-studios-co-founder-says-team-is-thinking-about-season-2/",
+      "publishedAt": "2025-11-09T17:43:00Z",
+      "processed_at": "2025-11-10T21:19:13.530953+00:00"
+    },
+    {
+      "title": "Apple reportedly plans ambitious satellite-powered iPhone features - TechCrunch",
+      "source": {
+        "name": "TechCrunch"
+      },
+      "description": "While Apple’s iPhone already supports texting, calling emergency services, and contacting roadside a...",
+      "url": "https://techcrunch.com/2025/11/09/apple-reportedly-plans-ambitious-satellite-powered-iphone-features/",
+      "publishedAt": "2025-11-09T17:42:00Z",
+      "processed_at": "2025-11-10T21:19:13.530953+00:00"
+    },
+    {
+      "title": "Massive Red Dead Redemption 2 mod “Nuevo Paraíso” recreates RDR1’s Mexico with expanded world and missions - Notebookcheck",
+      "source": {
+        "name": "Notebookcheck.net"
+      },
+      "description": "A new large-scale mod for Red Dead Redemption 2 titled Nuevo Paraíso – The Forgotten Frontier has be...",
+      "url": "https://www.notebookcheck.net/Massive-Red-Dead-Redemption-2-mod-Nuevo-Paraiso-recreates-RDR1-s-Mexico-with-expanded-world-and-missions.1159232.0.html",
+      "publishedAt": "2025-11-09T17:41:00Z",
+      "processed_at": "2025-11-10T21:19:13.530953+00:00"
+    },
+    {
+      "title": "The little known Android keyboard shortcut I use every single day - Android Police",
+      "source": {
+        "name": "Android Police"
+      },
+      "description": "Typing feels incomplete without it...",
+      "url": "https://www.androidpolice.com/android-keyboard-shortcut-i-use-every-single-day/",
+      "publishedAt": "2025-11-09T17:15:00Z",
+      "processed_at": "2025-11-10T21:19:13.530953+00:00"
+    },
+    {
+      "title": "Gemini has made Google Home incredibly smart, except for the dumb mistakes - 9to5Google",
+      "source": {
+        "name": "9to5google.com"
+      },
+      "description": "Gemini for Google Home has arrived and, with it, a glimpse of Google’s view of the future of the sma...",
+      "url": "http://9to5google.com/2025/11/09/gemini-google-home-impressions/",
+      "publishedAt": "2025-11-09T17:00:00Z",
+      "processed_at": "2025-11-10T21:19:13.530953+00:00"
     },
     {
       "title": "Mechanic goes to work on 1968 Mustang GT 390 4-Speed before making startling realization about the car - supercarblondie.com",
@@ -20,7 +80,17 @@
       "description": "This mechanic recently received a Mustang GT 390 to work on - before making an absolutely startling ...",
       "url": "https://supercarblondie.com/mechanic-1968-mustang-gt-390-4-speed-startling-realization/",
       "publishedAt": "2025-11-09T16:08:00Z",
-      "processed_at": "2025-11-10T20:25:37.894987+00:00"
+      "processed_at": "2025-11-10T21:19:13.530953+00:00"
+    },
+    {
+      "title": "Kingdom Come: Deliverance 2 Veteran Joins The Witcher 4 Team - Game Rant",
+      "source": {
+        "name": "GameRant"
+      },
+      "description": "A Warhorse Studios veteran who held several senior roles on Kingdom Come: Deliverance 2 joins The Wi...",
+      "url": "https://gamerant.com/witcher-4-kingdom-come-deliverance-sr-quest-designer-dev-karel-kolmann/",
+      "publishedAt": "2025-11-09T15:32:00Z",
+      "processed_at": "2025-11-10T21:19:13.530953+00:00"
     },
     {
       "title": "The tale of the Fire Phone, Amazon’s very strange smartphone - The Verge",
@@ -30,70 +100,10 @@
       "description": "With a 3D screen, a lot of cameras, and some big ideas about smartphones, Amazon came roaring into t...",
       "url": "https://www.theverge.com/podcast/816739/amazon-fire-phone-version-history",
       "publishedAt": "2025-11-09T15:20:24Z",
-      "processed_at": "2025-11-10T20:25:37.894987+00:00"
-    },
-    {
-      "title": "Deck out your tree with ornaments of retro consoles, movie moments, and more - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "You could put plain ornaments on your tree, but we’ve found some great alternatives that tap into no...",
-      "url": "https://www.theverge.com/tech/811614/best-christmas-ornaments-2025",
-      "publishedAt": "2025-11-09T15:00:00Z",
-      "processed_at": "2025-11-10T20:25:37.894987+00:00"
-    },
-    {
-      "title": "Shigeru Miyamoto discusses his current involvement with Mario games and more - Nintendo Everything",
-      "source": {
-        "name": "Google News"
-      },
-      "description": "",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOYS1WeXNGTzBjRjc3aWNuS0xCd0Z4Z25JeEh0Uy1jVGNPX05RV2xPUFFTVEFRYUx2ejNOeVpKUjdBQXJxT19TUWpxYV8xRmxyUS1EQ1Baa3BkN2NTTmhURmNCdFJ5QURQT0xYYmxqTVp4U2V0ZTR5SFUtUFplampabXA3MzVrSFFVSlpfeTJkcDJneHBaLThWX2RFYk9QZ2c3c21VclJTS0tSZ3oz?oc=5",
-      "publishedAt": "2025-11-09T14:56:53Z",
-      "processed_at": "2025-11-10T20:25:37.894987+00:00"
-    },
-    {
-      "title": "The Linux Kernel Looks To \"Bite The Bullet\" In Enabling Microsoft C Extensions - Phoronix",
-      "source": {
-        "name": "Phoronix"
-      },
-      "description": "Two patches queued into the Linux kernel's build system development tree, kbuild-next, would enable ...",
-      "url": "https://www.phoronix.com/news/Linux-6.19-Patch-Would-MS-Ext",
-      "publishedAt": "2025-11-09T14:51:00Z",
-      "processed_at": "2025-11-10T20:25:37.894987+00:00"
-    },
-    {
-      "title": "Fitbit redesign brings Material 3 Expressive overhaul - 9to5Google",
-      "source": {
-        "name": "9to5google.com"
-      },
-      "description": "Besides the AI-powered personal health coach, the Fitbit redesign introduces Material 3 Expressive t...",
-      "url": "http://9to5google.com/2025/11/09/fitbit-material-3-expressive/",
-      "publishedAt": "2025-11-09T14:05:00Z",
-      "processed_at": "2025-11-10T20:25:37.894987+00:00"
-    },
-    {
-      "title": "65daysofstatic’s new No Man’s Sky album searches for humanity in an AI-filled world - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "65daysofstatic, the band behind the No Man’s Sky soundtrack, has returned to the game with a new alb...",
-      "url": "https://www.theverge.com/report/816427/no-mans-sky-album-journeys-65daysofstatic",
-      "publishedAt": "2025-11-09T14:00:00Z",
-      "processed_at": "2025-11-10T20:25:37.894987+00:00"
-    },
-    {
-      "title": "Report: OLED MacBook Pro redesign may be exclusive to M6 Pro and M6 Max models - 9to5Mac",
-      "source": {
-        "name": "9to5Mac"
-      },
-      "description": "In today’s edition of the Power On newsletter, Mark Gurman of Bloomberg reported a new key detail fo...",
-      "url": "https://9to5mac.com/2025/11/09/report-oled-macbook-pro-redesign-may-be-exclusive-to-m6-pro-and-m6-max-models/",
-      "publishedAt": "2025-11-09T13:48:00Z",
-      "processed_at": "2025-11-10T20:25:37.894987+00:00"
+      "processed_at": "2025-11-10T21:19:13.530953+00:00"
     }
   ],
-  "lastUpdated": "2025-11-10T20:25:37.895062+00:00",
+  "lastUpdated": "2025-11-10T21:19:13.531032+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
