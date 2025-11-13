@@ -1,7 +1,37 @@
 {
   "status": "success",
-  "totalResults": 8,
+  "totalResults": 9,
   "articles": [
+    {
+      "title": "First Super Mario Galaxy Movie Trailer Shows Bowser Jr., Rosalina, And More - Kotaku",
+      "source": {
+        "name": "Kotaku"
+      },
+      "description": "The sequel is coming to theaters in April...",
+      "url": "https://kotaku.com/mario-galaxy-movie-trailer-rosalina-bowser-jr-direct-2000643447",
+      "publishedAt": "2025-11-12T14:10:02Z",
+      "processed_at": "2025-11-13T15:23:51.818021+00:00"
+    },
+    {
+      "title": "Samsung’s new 27-inch portable display has a three-hour battery life - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "The Movingstyle is a 27-inch touchscreen display that features a three hour battery life and can be ...",
+      "url": "https://www.theverge.com/news/818738/samsung-movingstyle-portable-display-tv-availability",
+      "publishedAt": "2025-11-12T12:44:52Z",
+      "processed_at": "2025-11-13T15:23:51.818021+00:00"
+    },
+    {
+      "title": "Microsoft Fixes 63 Security Flaws, Including a Windows Kernel Zero-Day Under Active Attack - The Hacker News",
+      "source": {
+        "name": "Internet"
+      },
+      "description": "Microsoft fixes 63 flaws, including an exploited Windows Kernel zero-day and a critical RCE bug....",
+      "url": "https://thehackernews.com/2025/11/microsoft-fixes-63-security-flaws.html",
+      "publishedAt": "2025-11-12T10:21:00Z",
+      "processed_at": "2025-11-13T15:23:51.818021+00:00"
+    },
     {
       "title": "Happy birthday to the PlayStation 5 - but why no plans for a PS6? - BBC",
       "source": {
@@ -10,7 +40,17 @@
       "description": "On the fifth anniversary of the PlayStation 5, the firm says its focus remains on its current consol...",
       "url": "https://www.bbc.com/news/articles/cy7e352emrro",
       "publishedAt": "2025-11-12T10:02:25Z",
-      "processed_at": "2025-11-13T14:20:21.862287+00:00"
+      "processed_at": "2025-11-13T15:23:51.818021+00:00"
+    },
+    {
+      "title": "These are the best new MacBook deals in November: starting at $599 - 9to5Mac",
+      "source": {
+        "name": "9to5Mac"
+      },
+      "description": "In the Apple Silicon era, MacBooks have become more affordable than ever – with brand new models sta...",
+      "url": "https://9to5mac.com/2025/11/11/best-apple-macbook-deals-right-now-in-november-2025/",
+      "publishedAt": "2025-11-12T03:27:00Z",
+      "processed_at": "2025-11-13T15:23:51.818021+00:00"
     },
     {
       "title": "OCTOPATH TRAVELER 0 demo now available - Square Enix",
@@ -20,7 +60,27 @@
       "description": "Welcome to the official SQUARE ENIX website. Find all the latest news and updates about your favouri...",
       "url": "https://www.square-enix-games.com/news/octopath-traveler-0-demo",
       "publishedAt": "2025-11-12T00:58:51Z",
-      "processed_at": "2025-11-13T14:20:21.862287+00:00"
+      "processed_at": "2025-11-13T15:23:51.818021+00:00"
+    },
+    {
+      "title": "Video: Dragon Quest VII: Reimagined Reveals A Familiar Face In New \"Follow-Up\" Trailer - Nintendo Life",
+      "source": {
+        "name": "Nintendo Life"
+      },
+      "description": "Is that...?...",
+      "url": "https://www.nintendolife.com/news/2025/11/video-dragon-quest-vii-reimagined-reveals-a-familiar-face-in-new-follow-up-trailer",
+      "publishedAt": "2025-11-12T00:05:00Z",
+      "processed_at": "2025-11-13T15:23:51.818021+00:00"
+    },
+    {
+      "title": "Sony is releasing a PlayStation Gaming Monitor, but it's only available in the US and Japan - Eurogamer",
+      "source": {
+        "name": "Eurogamer.net"
+      },
+      "description": "Sony revealed its latest piece of hardware at tonight's State of Play event: a 27\" Gaming Monitor th...",
+      "url": "https://www.eurogamer.net/sony-is-releasing-a-playstation-gaming-monitor-but-its-only-available-in-the-us-and-japan",
+      "publishedAt": "2025-11-11T23:35:52Z",
+      "processed_at": "2025-11-13T15:23:51.818021+00:00"
     },
     {
       "title": "Windows president says platform is \"evolving into an agentic OS,\" gets cooked in the replies — \"Straight up, nobody wants this\" - Windows Central",
@@ -30,60 +90,10 @@
       "description": "Microsoft's current Windows lead Pavan Davuluri has tweeted that the future of Windows will be one t...",
       "url": "https://www.windowscentral.com/microsoft/windows-11/windows-president-confirms-os-will-become-ai-agentic-generates-push-back-online",
       "publishedAt": "2025-11-11T23:30:00Z",
-      "processed_at": "2025-11-13T14:20:21.862287+00:00"
-    },
-    {
-      "title": "Everything We Saw At PlayStation’s Japan-Centric State Of Play - Kotaku",
-      "source": {
-        "name": "Kotaku"
-      },
-      "description": "PlayStation hosted a 40-minute presentation showcasing upcoming PS5 games...",
-      "url": "https://kotaku.com/playstation-state-of-play-japan-marvel-dragon-quest-2000643049",
-      "publishedAt": "2025-11-11T23:04:17Z",
-      "processed_at": "2025-11-13T14:20:21.862287+00:00"
-    },
-    {
-      "title": "Elden Ring: Nightreign's The Forsaken Hollows DLC will see an iconic Dark Souls boss return - Eurogamer",
-      "source": {
-        "name": "Eurogamer.net"
-      },
-      "description": "Elden Ring: Nightreign DLC announced at Sony State of Play....",
-      "url": "https://www.eurogamer.net/elden-ring-nightreigns-the-forsaken-hollows-dlc-will-see-an-iconic-dark-souls-boss-return",
-      "publishedAt": "2025-11-11T22:55:55Z",
-      "processed_at": "2025-11-13T14:20:21.862287+00:00"
-    },
-    {
-      "title": "Sony launches cheaper Japan-only PlayStation 5 console - Financial Times",
-      "source": {
-        "name": "Financial Times"
-      },
-      "description": "Region-locked version at 25% discount in move to boost domestic sales...",
-      "url": "https://www.ft.com/content/f6edb22a-0b19-4073-9e28-ec29b096dde3",
-      "publishedAt": "2025-11-11T22:40:04Z",
-      "processed_at": "2025-11-13T14:20:21.862287+00:00"
-    },
-    {
-      "title": "Google says new cloud-based “Private AI Compute” is just as secure as local processing - Ars Technica",
-      "source": {
-        "name": "Ars Technica"
-      },
-      "description": "New system allows devices to connect directly to secure space in Google’s AI servers....",
-      "url": "https://arstechnica.com/google/2025/11/google-says-new-cloud-based-private-ai-compute-is-just-as-secure-as-local-processing/",
-      "publishedAt": "2025-11-11T21:34:10Z",
-      "processed_at": "2025-11-13T14:20:21.862287+00:00"
-    },
-    {
-      "title": "Best Black Friday Apple deals live — save big on AirPods, MacBooks, Apple Watch and more - Tom's Guide",
-      "source": {
-        "name": "Tom's Guide"
-      },
-      "description": "I’ve found the best Black Friday Apple deals starting from just $24...",
-      "url": "https://www.tomsguide.com/sales-events/black-friday-apple-deals-live-from-usd24-save-up-to-34-percent-off-airpods-macbooks-airtags-apple-watch-and-more",
-      "publishedAt": "2025-11-11T20:53:01Z",
-      "processed_at": "2025-11-13T14:20:21.862287+00:00"
+      "processed_at": "2025-11-13T15:23:51.818021+00:00"
     }
   ],
-  "lastUpdated": "2025-11-13T14:20:21.862357+00:00",
+  "lastUpdated": "2025-11-13T15:23:51.818099+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
