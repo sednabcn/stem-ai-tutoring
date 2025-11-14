@@ -1,7 +1,97 @@
 {
   "status": "success",
-  "totalResults": 9,
+  "totalResults": 10,
   "articles": [
+    {
+      "title": "In defense of Apple’s $230 iPhone sock - TechCrunch",
+      "source": {
+        "name": "TechCrunch"
+      },
+      "description": "From the same label that made the iconic Steve Jobs mockneck, the iPhone Pocket could be the next La...",
+      "url": "https://techcrunch.com/2025/11/13/in-defense-of-apples-230-iphone-sock/",
+      "publishedAt": "2025-11-13T17:38:22Z",
+      "processed_at": "2025-11-14T17:18:38.389840+00:00"
+    },
+    {
+      "title": "The Boox Palma 2 e-book reader is now $84 off - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "The small and handy e-book reader Boox Palma 2 can now be had for only $245. You can also save on a ...",
+      "url": "https://www.theverge.com/tech/820046/boox-ebook-hoto-lenono-deals-sales",
+      "publishedAt": "2025-11-13T16:47:37Z",
+      "processed_at": "2025-11-14T17:18:38.389840+00:00"
+    },
+    {
+      "title": "LinkedIn adds AI-powered search to help users find people - TechCrunch",
+      "source": {
+        "name": "TechCrunch"
+      },
+      "description": "LinkedIn's AI-powered people search is rolling out to premium users in the U.S....",
+      "url": "https://techcrunch.com/2025/11/13/linkedin-adds-ai-powered-search-to-help-users-find-people/",
+      "publishedAt": "2025-11-13T16:00:00Z",
+      "processed_at": "2025-11-14T17:18:38.389840+00:00"
+    },
+    {
+      "title": "iOS 26.2 Adds New CarPlay Setting - MacRumors",
+      "source": {
+        "name": "MacRumors"
+      },
+      "description": "iOS 26 extended pinned conversations in the Messages app to CarPlay, for quick access to your most f...",
+      "url": "https://www.macrumors.com/2025/11/13/ios-26-2-adds-new-carplay-setting/",
+      "publishedAt": "2025-11-13T14:48:21Z",
+      "processed_at": "2025-11-14T17:18:38.389840+00:00"
+    },
+    {
+      "title": "Pokémon Pokopia Trailer Showcases Animal Crossing-Style Gameplay — Plus A Mysterious Pale Pikachu, Mossy Snorlax and Professor Tangrowth - IGN",
+      "source": {
+        "name": "IGN"
+      },
+      "description": "An extended trailer for Pokémon Pokopia has offered a deep dive into the upcoming Animal Crossing-li...",
+      "url": "https://www.ign.com/articles/pokmon-pokopia-trailer-showcases-animal-crossing-style-gameplay-plus-a-mysterious-pale-pikachu-mossy-snorlax-and-professor-tangrowth",
+      "publishedAt": "2025-11-13T14:37:30Z",
+      "processed_at": "2025-11-14T17:18:38.389840+00:00"
+    },
+    {
+      "title": "The OnePlus 15 is the phone to buy if you hate charging your phone - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "The OnePlus 15 offers one very appealing feature: incredible battery life thanks to its silicon-carb...",
+      "url": "https://www.theverge.com/tech/818933/oneplus-15-review-battery-screen-camera",
+      "publishedAt": "2025-11-13T14:30:00Z",
+      "processed_at": "2025-11-14T17:18:38.389840+00:00"
+    },
+    {
+      "title": "Leaker claims poor sales of the iPhone 16e as iPhone Air production ceases - 9to5Mac",
+      "source": {
+        "name": "9to5Mac"
+      },
+      "description": "The leaker who first revealed the name of the iPhone 16e is now saying that demand for the device ha...",
+      "url": "https://9to5mac.com/2025/11/13/leaker-claims-poor-sales-of-the-iphone-16e-as-iphone-air-production-ceases/",
+      "publishedAt": "2025-11-13T14:10:00Z",
+      "processed_at": "2025-11-14T17:18:38.389840+00:00"
+    },
+    {
+      "title": "Google augments AI shopping with conversational search, agentic checkout and an AI that calls stores for you - TechCrunch",
+      "source": {
+        "name": "TechCrunch"
+      },
+      "description": "Google is expanding AI shopping with conversational search, agentic checkout and an AI that calls st...",
+      "url": "https://techcrunch.com/2025/11/13/google-expands-ai-shopping-with-conversational-search-agentic-checkout-and-an-ai-that-calls-stores-for-you/",
+      "publishedAt": "2025-11-13T14:00:00Z",
+      "processed_at": "2025-11-14T17:18:38.389840+00:00"
+    },
+    {
+      "title": "TCL QM9K Review: The Brightest TV Yet Faces Off Against OLED - CNET",
+      "source": {
+        "name": "CNET"
+      },
+      "description": "The TCL QM9K shows what mini-LED TVs are capable of, and it can give OLEDs a run for their money....",
+      "url": "https://www.cnet.com/tech/home-entertainment/tcl-qm9k-review-brightest-tv-yet-faces-off-with-oled/",
+      "publishedAt": "2025-11-13T13:00:00Z",
+      "processed_at": "2025-11-14T17:18:38.389840+00:00"
+    },
     {
       "title": "DJI’s Neo 2 selfie drone launches globally, but not in the US - The Verge",
       "source": {
@@ -10,90 +100,10 @@
       "description": "﻿The drone has new obstacle avoidance features, gesture controls, and a longer flight time, but no U...",
       "url": "https://www.theverge.com/news/819109/dji-neo-2-selfie-drone-global-launch",
       "publishedAt": "2025-11-13T12:00:00Z",
-      "processed_at": "2025-11-14T16:27:31.889214+00:00"
-    },
-    {
-      "title": "Steam Machine: Valve rivals Xbox and PlayStation with new console - BBC",
-      "source": {
-        "name": "BBC News"
-      },
-      "description": "The Steam Machine is a console designed to allow gamers to play PC games on their TV....",
-      "url": "https://www.bbc.com/news/articles/cd679n9lnx5o",
-      "publishedAt": "2025-11-13T10:08:06Z",
-      "processed_at": "2025-11-14T16:27:31.889214+00:00"
-    },
-    {
-      "title": "Galaxy S26 Ultra leak reveals the real reason for its bigger selfie camera cutout - SamMobile",
-      "source": {
-        "name": "SamMobile"
-      },
-      "description": "Do you recall how, a few days ago, a new report from a prominent X leaker claimed that the upcoming ...",
-      "url": "https://www.sammobile.com/news/galaxy-s26-ultra-leak-real-reason-for-bigger-selfie-camera-cutout/",
-      "publishedAt": "2025-11-13T09:56:00Z",
-      "processed_at": "2025-11-14T16:27:31.889214+00:00"
-    },
-    {
-      "title": "Google will let ‘experienced users’ keep sideloading Android apps - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "Google is amending its upcoming developer verification requirement to allow some “experienced users”...",
-      "url": "https://www.theverge.com/news/819835/google-android-sideloading-experienced-users-developer-verification",
-      "publishedAt": "2025-11-13T09:50:46Z",
-      "processed_at": "2025-11-14T16:27:31.889214+00:00"
-    },
-    {
-      "title": "Samsung’s trifold gets a name and ‘confirmed’ specs - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "The Galaxy Z TriFold could launch on December 5th....",
-      "url": "https://www.theverge.com/news/819820/samsungs-trifold-gets-a-name-and-confirmed-specs",
-      "publishedAt": "2025-11-13T09:31:34Z",
-      "processed_at": "2025-11-14T16:27:31.889214+00:00"
-    },
-    {
-      "title": "The Next Horizon Game Is an MMO for Mobile and PC, Prompting Fury from PS5 Fans - Push Square",
-      "source": {
-        "name": "Push Square"
-      },
-      "description": "Watch the first gameplay footage...",
-      "url": "https://www.pushsquare.com/news/2025/11/the-next-horizon-game-is-an-mmo-for-mobile-and-pc-prompting-fury-from-ps5-fans",
-      "publishedAt": "2025-11-13T07:30:00Z",
-      "processed_at": "2025-11-14T16:27:31.889214+00:00"
-    },
-    {
-      "title": "Sony announces 27-inch PlayStation Gaming Monitor - GSMArena.com news - GSMArena.com",
-      "source": {
-        "name": "GSMArena.com"
-      },
-      "description": "It's only going to be available in two countries, unfortunately. Sony has unveiled the 27-inch PlayS...",
-      "url": "https://www.gsmarena.com/sony_announces_27inch_playstation_gaming_monitor-news-70266.php",
-      "publishedAt": "2025-11-13T00:28:01Z",
-      "processed_at": "2025-11-14T16:27:31.889214+00:00"
-    },
-    {
-      "title": "Black Ops 7 Day One Patch Notes: Weapon buffs & nerfs, Zombies changes, more - Dexerto",
-      "source": {
-        "name": "Dexerto"
-      },
-      "description": "Ahead of the game’s launch, devs have revealed the full Black Ops 7 Day One patch notes. Here’s the ...",
-      "url": "https://www.dexerto.com/call-of-duty/black-ops-7-day-one-patch-notes-3282572/",
-      "publishedAt": "2025-11-12T23:18:21Z",
-      "processed_at": "2025-11-14T16:27:31.889214+00:00"
-    },
-    {
-      "title": "Google app rolling out Images tab on Android, iOS - 9to5Google",
-      "source": {
-        "name": "9to5google.com"
-      },
-      "description": "After testing in recent months, Google is going ahead with a dedicated “Images” tab in the Search ap...",
-      "url": "http://9to5google.com/2025/11/12/google-images-tab/",
-      "publishedAt": "2025-11-12T22:40:00Z",
-      "processed_at": "2025-11-14T16:27:31.889214+00:00"
+      "processed_at": "2025-11-14T17:18:38.389840+00:00"
     }
   ],
-  "lastUpdated": "2025-11-14T16:27:31.889290+00:00",
+  "lastUpdated": "2025-11-14T17:18:38.389909+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
