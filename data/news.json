@@ -1,7 +1,27 @@
 {
   "status": "success",
-  "totalResults": 10,
+  "totalResults": 9,
   "articles": [
+    {
+      "title": "Red Dead Redemption Coming to Netflix, iOS, Android, PS5, Xbox Series, and Nintendo Switch 2 - Rockstar Games",
+      "source": {
+        "name": "Rockstargames.com"
+      },
+      "description": "On December 2, the epic Western adventures Red Dead Redemption and Undead Nightmare will be availabl...",
+      "url": "https://www.rockstargames.com/newswire/article/258282o585k1ka/red-dead-redemption-coming-to-netflix-ios-android-ps5-xbox-series-and",
+      "publishedAt": "2025-11-13T19:08:22Z",
+      "processed_at": "2025-11-14T19:17:33.408052+00:00"
+    },
+    {
+      "title": "Android 17 is building a new Contacts Picker to keep your address book private - Android Authority",
+      "source": {
+        "name": "Android Authority"
+      },
+      "description": "Android 17 may finally let you share only specific contacts with apps thanks to a new Contacts Picke...",
+      "url": "https://www.androidauthority.com/android-17-contacts-picker-rumor-3615741/",
+      "publishedAt": "2025-11-13T19:02:44Z",
+      "processed_at": "2025-11-14T19:17:33.408052+00:00"
+    },
     {
       "title": "In defense of Apple’s $230 iPhone sock - TechCrunch",
       "source": {
@@ -10,7 +30,17 @@
       "description": "From the same label that made the iconic Steve Jobs mockneck, the iPhone Pocket could be the next La...",
       "url": "https://techcrunch.com/2025/11/13/in-defense-of-apples-230-iphone-sock/",
       "publishedAt": "2025-11-13T17:38:22Z",
-      "processed_at": "2025-11-14T18:30:29.669979+00:00"
+      "processed_at": "2025-11-14T19:17:33.408052+00:00"
+    },
+    {
+      "title": "Google’s NotebookLM will now do ‘deep research’ - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "Google is adding the Gemini AI tool Deep Research to NotebookLM....",
+      "url": "https://www.theverge.com/news/820022/google-notebooklm-gemini-deep-research",
+      "publishedAt": "2025-11-13T17:00:00Z",
+      "processed_at": "2025-11-14T19:17:33.408052+00:00"
     },
     {
       "title": "The Boox Palma 2 e-book reader is now $84 off - The Verge",
@@ -20,7 +50,27 @@
       "description": "The small and handy e-book reader Boox Palma 2 can now be had for only $245. You can also save on a ...",
       "url": "https://www.theverge.com/tech/820046/boox-ebook-hoto-lenono-deals-sales",
       "publishedAt": "2025-11-13T16:47:37Z",
-      "processed_at": "2025-11-14T18:30:29.669979+00:00"
+      "processed_at": "2025-11-14T19:17:33.408052+00:00"
+    },
+    {
+      "title": "Valve says it’s still waiting for better chips to power Steam Deck 2 - Ars Technica",
+      "source": {
+        "name": "Ars Technica"
+      },
+      "description": "Even a 50 percent performance-per-watt improvement wouldn’t be enough, engineer says....",
+      "url": "https://arstechnica.com/gaming/2025/11/valve-says-its-still-waiting-for-better-chips-to-power-steam-deck-2/",
+      "publishedAt": "2025-11-13T16:30:28Z",
+      "processed_at": "2025-11-14T19:17:33.408052+00:00"
+    },
+    {
+      "title": "Here’s a closer look at the Google TV homescreen redesign [Gallery] - 9to5Google",
+      "source": {
+        "name": "9to5google.com"
+      },
+      "description": "While it’s still not widely available, the Google TV homescreen redesign is rolling out to more user...",
+      "url": "http://9to5google.com/2025/11/13/google-tv-homescreen-redesign-2025/",
+      "publishedAt": "2025-11-13T16:05:00Z",
+      "processed_at": "2025-11-14T19:17:33.408052+00:00"
     },
     {
       "title": "LinkedIn adds AI-powered search to help users find people - TechCrunch",
@@ -30,80 +80,20 @@
       "description": "LinkedIn's AI-powered people search is rolling out to premium users in the U.S....",
       "url": "https://techcrunch.com/2025/11/13/linkedin-adds-ai-powered-search-to-help-users-find-people/",
       "publishedAt": "2025-11-13T16:00:00Z",
-      "processed_at": "2025-11-14T18:30:29.669979+00:00"
+      "processed_at": "2025-11-14T19:17:33.408052+00:00"
     },
     {
-      "title": "iOS 26.2 Adds New CarPlay Setting - MacRumors",
+      "title": "Valve announces new Steam Machine console: Price, specs, release date - Mashable",
       "source": {
-        "name": "MacRumors"
+        "name": "Mashable"
       },
-      "description": "iOS 26 extended pinned conversations in the Messages app to CarPlay, for quick access to your most f...",
-      "url": "https://www.macrumors.com/2025/11/13/ios-26-2-adds-new-carplay-setting/",
-      "publishedAt": "2025-11-13T14:48:21Z",
-      "processed_at": "2025-11-14T18:30:29.669979+00:00"
-    },
-    {
-      "title": "Pokémon Pokopia Trailer Showcases Animal Crossing-Style Gameplay — Plus A Mysterious Pale Pikachu, Mossy Snorlax and Professor Tangrowth - IGN",
-      "source": {
-        "name": "IGN"
-      },
-      "description": "An extended trailer for Pokémon Pokopia has offered a deep dive into the upcoming Animal Crossing-li...",
-      "url": "https://www.ign.com/articles/pokmon-pokopia-trailer-showcases-animal-crossing-style-gameplay-plus-a-mysterious-pale-pikachu-mossy-snorlax-and-professor-tangrowth",
-      "publishedAt": "2025-11-13T14:37:30Z",
-      "processed_at": "2025-11-14T18:30:29.669979+00:00"
-    },
-    {
-      "title": "The OnePlus 15 is the phone to buy if you hate charging your phone - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "The OnePlus 15 offers one very appealing feature: incredible battery life thanks to its silicon-carb...",
-      "url": "https://www.theverge.com/tech/818933/oneplus-15-review-battery-screen-camera",
-      "publishedAt": "2025-11-13T14:30:00Z",
-      "processed_at": "2025-11-14T18:30:29.669979+00:00"
-    },
-    {
-      "title": "Leaker claims poor sales of the iPhone 16e as iPhone Air production ceases - 9to5Mac",
-      "source": {
-        "name": "9to5Mac"
-      },
-      "description": "The leaker who first revealed the name of the iPhone 16e is now saying that demand for the device ha...",
-      "url": "https://9to5mac.com/2025/11/13/leaker-claims-poor-sales-of-the-iphone-16e-as-iphone-air-production-ceases/",
-      "publishedAt": "2025-11-13T14:10:00Z",
-      "processed_at": "2025-11-14T18:30:29.669979+00:00"
-    },
-    {
-      "title": "Google augments AI shopping with conversational search, agentic checkout and an AI that calls stores for you - TechCrunch",
-      "source": {
-        "name": "TechCrunch"
-      },
-      "description": "Google is expanding AI shopping with conversational search, agentic checkout and an AI that calls st...",
-      "url": "https://techcrunch.com/2025/11/13/google-expands-ai-shopping-with-conversational-search-agentic-checkout-and-an-ai-that-calls-stores-for-you/",
-      "publishedAt": "2025-11-13T14:00:00Z",
-      "processed_at": "2025-11-14T18:30:29.669979+00:00"
-    },
-    {
-      "title": "TCL QM9K Review: The Brightest TV Yet Faces Off Against OLED - CNET",
-      "source": {
-        "name": "CNET"
-      },
-      "description": "The TCL QM9K shows what mini-LED TVs are capable of, and it can give OLEDs a run for their money....",
-      "url": "https://www.cnet.com/tech/home-entertainment/tcl-qm9k-review-brightest-tv-yet-faces-off-with-oled/",
-      "publishedAt": "2025-11-13T13:00:00Z",
-      "processed_at": "2025-11-14T18:30:29.669979+00:00"
-    },
-    {
-      "title": "DJI’s Neo 2 selfie drone launches globally, but not in the US - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "﻿The drone has new obstacle avoidance features, gesture controls, and a longer flight time, but no U...",
-      "url": "https://www.theverge.com/news/819109/dji-neo-2-selfie-drone-global-launch",
-      "publishedAt": "2025-11-13T12:00:00Z",
-      "processed_at": "2025-11-14T18:30:29.669979+00:00"
+      "description": "What's in the box?...",
+      "url": "https://mashable.com/article/valve-steam-machine-console-specs-price-release-date",
+      "publishedAt": "2025-11-13T15:41:18Z",
+      "processed_at": "2025-11-14T19:17:33.408052+00:00"
     }
   ],
-  "lastUpdated": "2025-11-14T18:30:29.670051+00:00",
+  "lastUpdated": "2025-11-14T19:17:33.408125+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
