@@ -1,7 +1,37 @@
 {
   "status": "success",
-  "totalResults": 9,
+  "totalResults": 10,
   "articles": [
+    {
+      "title": "How LimeWire ended the Napster music revolution - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "From Napster to Kazaa to Gnutella to The Pirate Bay, file sharing was a huge part of music culture. ...",
+      "url": "https://www.theverge.com/podcast/820818/limewire-music-piracy-version-history",
+      "publishedAt": "2025-11-16T15:46:28Z",
+      "processed_at": "2025-11-17T17:20:19.045754+00:00"
+    },
+    {
+      "title": "The Asus Falcata is an ambitious split ergo gaming keyboard that falls short - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "A wireless 75% Hall effect gaming board that’s also a split ergonomic one. It’s great for gaming but...",
+      "url": "https://www.theverge.com/tech/821355/asus-falcata-review-hall-effect-switches-split-ergo-gaming-keyboard",
+      "publishedAt": "2025-11-16T15:00:00Z",
+      "processed_at": "2025-11-17T17:20:19.045754+00:00"
+    },
+    {
+      "title": "Georgia Is Home To The World's Largest Classic Car Junkyard - Jalopnik",
+      "source": {
+        "name": "Jalopnik"
+      },
+      "description": "Old Car City, located in White, Georgia, was once the world's largest car junkyard. Now, it's an ope...",
+      "url": "https://www.jalopnik.com/2024139/worlds-largest-classic-car-junkyard/",
+      "publishedAt": "2025-11-16T14:25:00Z",
+      "processed_at": "2025-11-17T17:20:19.045754+00:00"
+    },
     {
       "title": "Sony slaps down fan-made Concord resurrection effort with copyright takedown and \"worrying legal action\" - Eurogamer",
       "source": {
@@ -10,7 +40,7 @@
       "description": "Sony has issued a number of DMCA notices against a fan project working to bring Concord back to life...",
       "url": "https://www.eurogamer.net/sony-slaps-down-fan-made-concord-resurrection-effort-with-copyright-takedown-and-worrying-legal-action",
       "publishedAt": "2025-11-16T14:17:07Z",
-      "processed_at": "2025-11-17T16:29:34.335534+00:00"
+      "processed_at": "2025-11-17T17:20:19.045754+00:00"
     },
     {
       "title": "Bloomberg: Here’s what’s actually going on with the iPhone Air 2 - 9to5Mac",
@@ -20,7 +50,27 @@
       "description": "It’s been a whirlwind of a week for iPhone Air fans. First, The Information reported that Apple had ...",
       "url": "https://9to5mac.com/2025/11/16/iphone-air-to-features-release-date-latest/",
       "publishedAt": "2025-11-16T14:15:00Z",
-      "processed_at": "2025-11-17T16:29:34.335534+00:00"
+      "processed_at": "2025-11-17T17:20:19.045754+00:00"
+    },
+    {
+      "title": "Mac Pro Reportedly on 'Back Burner' and 'Largely Written Off' at Apple - MacRumors",
+      "source": {
+        "name": "MacRumors"
+      },
+      "description": "Apple's high-end Mac Pro desktop computer is currently \"on the back burner,\" according to the latest...",
+      "url": "https://www.macrumors.com/2025/11/16/mac-pro-on-back-burner-largely-written-off/",
+      "publishedAt": "2025-11-16T14:05:29Z",
+      "processed_at": "2025-11-17T17:20:19.045754+00:00"
+    },
+    {
+      "title": "7 reasons you might want to jailbreak your Kindle - Android Authority",
+      "source": {
+        "name": "Android Authority"
+      },
+      "description": "Jailbreaking gave my old Kindle new life with faster menus, local games, and the freedom to customiz...",
+      "url": "https://www.androidauthority.com/kindle-jailbreak-reasons-3614190/",
+      "publishedAt": "2025-11-16T13:48:05Z",
+      "processed_at": "2025-11-17T17:20:19.045754+00:00"
     },
     {
       "title": "Best Buy Week 3 Black Friday Doorbusters now live - 9to5Toys",
@@ -30,7 +80,17 @@
       "description": "Best Buy’s new batch of Black Friday Doorbusters are now live. Every Friday of the month (starting i...",
       "url": "http://9to5toys.com/2025/11/16/best-buy-week-3-black-friday-doorbusters-now-live/",
       "publishedAt": "2025-11-16T13:04:00Z",
-      "processed_at": "2025-11-17T16:29:34.335534+00:00"
+      "processed_at": "2025-11-17T17:20:19.045754+00:00"
+    },
+    {
+      "title": "10 Cool New Gadgets to Keep on Your Radar - Gear Patrol",
+      "source": {
+        "name": "Gear Patrol"
+      },
+      "description": "Catching you up on the past week’s most notable product releases....",
+      "url": "https://www.gearpatrol.com/audio/best-new-tech-releases-11-16-2025/",
+      "publishedAt": "2025-11-16T13:01:00Z",
+      "processed_at": "2025-11-17T17:20:19.045754+00:00"
     },
     {
       "title": "Apple’s iPhone Overhaul Will Reduce Its Reliance on Annual Fall Spectacle - Bloomberg.com",
@@ -40,60 +100,10 @@
       "description": "Apple’s iPhone is getting its biggest makeover yet — both to its features and release schedule. Here...",
       "url": "https://www.bloomberg.com/news/newsletters/2025-11-16/apple-s-iphone-road-map-iphone-air-2-iphone-18-mac-pro-future-tesla-carplay-mi1q4l2o",
       "publishedAt": "2025-11-16T13:00:41Z",
-      "processed_at": "2025-11-17T16:29:34.335534+00:00"
-    },
-    {
-      "title": "Ubisoft admits AI-generated loading screen \"slipped through\" into final build of Anno 117: Pax Romana - Eurogamer",
-      "source": {
-        "name": "Eurogamer.net"
-      },
-      "description": "Ubisoft has told Anno 117: Pax Romana fans that it will be replacing an AI-generated loading screen ...",
-      "url": "https://www.eurogamer.net/ubisoft-admits-ai-generated-loading-screen-slipped-through-into-final-build-of-anno-117-pax-romana",
-      "publishedAt": "2025-11-16T12:49:51Z",
-      "processed_at": "2025-11-17T16:29:34.335534+00:00"
-    },
-    {
-      "title": "I built my smart home with Google; here's how it fell apart - Android Authority",
-      "source": {
-        "name": "Android Authority"
-      },
-      "description": "In 2019, I thought I had my ideal smart home and it all relied on Google Home. Then it all started f...",
-      "url": "https://www.androidauthority.com/i-built-smart-home-with-google-it-fell-apart-3615955/",
-      "publishedAt": "2025-11-16T12:39:23Z",
-      "processed_at": "2025-11-17T16:29:34.335534+00:00"
-    },
-    {
-      "title": "Use Google Gemini and ChatGPT to Organize Your Life With Scheduled Actions - WIRED",
-      "source": {
-        "name": "Wired"
-      },
-      "description": "The AI's latest trick is following the schedule you set for it....",
-      "url": "https://www.wired.com/story/google-gemini-and-chatgpt-scheduled-actions/",
-      "publishedAt": "2025-11-16T11:30:00Z",
-      "processed_at": "2025-11-17T16:29:34.335534+00:00"
-    },
-    {
-      "title": "iPhone Pocket: Exactly Why The Issey Miyake Collaboration Sold Out Super-Fast - Forbes",
-      "source": {
-        "name": "Forbes"
-      },
-      "description": "The newest Apple release is the iPhone Pocket. Did you buy it? If not, you may be too late....",
-      "url": "https://www.forbes.com/sites/davidphelan/2025/11/16/apple-iphone-pocket-why-the-issey-miyake-collaboration-sold-out-in-hours/",
-      "publishedAt": "2025-11-16T11:19:00Z",
-      "processed_at": "2025-11-17T16:29:34.335534+00:00"
-    },
-    {
-      "title": "RFK Jr. Wants to Link Antidepressants Like SSRIs to Mass Shootings. Experts Aren’t Buying It - Gizmodo",
-      "source": {
-        "name": "Gizmodo.com"
-      },
-      "description": "Studies show that people who commit mass shootings aren't more likely to be taking antidepressants. ...",
-      "url": "https://gizmodo.com/rfk-jr-wants-to-link-antidepressants-like-ssris-to-mass-shootings-experts-arent-buying-it-2000684870",
-      "publishedAt": "2025-11-16T11:00:23Z",
-      "processed_at": "2025-11-17T16:29:34.335534+00:00"
+      "processed_at": "2025-11-17T17:20:19.045754+00:00"
     }
   ],
-  "lastUpdated": "2025-11-17T16:29:34.335609+00:00",
+  "lastUpdated": "2025-11-17T17:20:19.045826+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
