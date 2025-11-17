@@ -1,7 +1,27 @@
 {
   "status": "success",
-  "totalResults": 10,
+  "totalResults": 9,
   "articles": [
+    {
+      "title": "Call of Duty: Black Ops 7 has the lowest Metacritic user score ever for a Call of Duty game - Eurogamer",
+      "source": {
+        "name": "Eurogamer.net"
+      },
+      "description": "Call of Duty: Black Ops 7 has had a bumpy start, accruing an 'Overwhelming Dislike' verdict on Metac...",
+      "url": "https://www.eurogamer.net/call-of-duty-black-ops-7-has-the-lowest-metacritic-user-score-ever-for-a-call-of-duty-game",
+      "publishedAt": "2025-11-16T19:20:55Z",
+      "processed_at": "2025-11-17T19:16:49.631933+00:00"
+    },
+    {
+      "title": "Google keeps finding the most clever ways to use AI – I can’t wait to see what’s next - 9to5Google",
+      "source": {
+        "name": "9to5google.com"
+      },
+      "description": "I’m not really a huge fan of modern AI. For the past couple of years, it’s just been shoved into......",
+      "url": "http://9to5google.com/2025/11/16/google-keeps-finding-the-most-clever-ways-to-use-ai-i-cant-wait-to-see-whats-next/",
+      "publishedAt": "2025-11-16T17:00:00Z",
+      "processed_at": "2025-11-17T19:16:49.631933+00:00"
+    },
     {
       "title": "How LimeWire ended the Napster music revolution - The Verge",
       "source": {
@@ -10,17 +30,17 @@
       "description": "From Napster to Kazaa to Gnutella to The Pirate Bay, file sharing was a huge part of music culture. ...",
       "url": "https://www.theverge.com/podcast/820818/limewire-music-piracy-version-history",
       "publishedAt": "2025-11-16T15:46:28Z",
-      "processed_at": "2025-11-17T18:30:51.260271+00:00"
+      "processed_at": "2025-11-17T19:16:49.631933+00:00"
     },
     {
-      "title": "The Asus Falcata is an ambitious split ergo gaming keyboard that falls short - The Verge",
+      "title": "Early Black Friday Deals on Gaming Laptops and Desktops: Markdowns Up to $650 Off Alienware, HP, Razer, and More - PCMag",
       "source": {
-        "name": "The Verge"
+        "name": "PCMag.com"
       },
-      "description": "A wireless 75% Hall effect gaming board that’s also a split ergonomic one. It’s great for gaming but...",
-      "url": "https://www.theverge.com/tech/821355/asus-falcata-review-hall-effect-switches-split-ergo-gaming-keyboard",
-      "publishedAt": "2025-11-16T15:00:00Z",
-      "processed_at": "2025-11-17T18:30:51.260271+00:00"
+      "description": "Weeks before the holiday season officially begins, we've got deep discounts on top-tier gaming lapto...",
+      "url": "https://www.pcmag.com/news/best-gaming-laptop-desktop-deals-early-black-friday-2025-hp-razer-nov-16",
+      "publishedAt": "2025-11-16T14:45:07Z",
+      "processed_at": "2025-11-17T19:16:49.631933+00:00"
     },
     {
       "title": "Georgia Is Home To The World's Largest Classic Car Junkyard - Jalopnik",
@@ -30,7 +50,7 @@
       "description": "Old Car City, located in White, Georgia, was once the world's largest car junkyard. Now, it's an ope...",
       "url": "https://www.jalopnik.com/2024139/worlds-largest-classic-car-junkyard/",
       "publishedAt": "2025-11-16T14:25:00Z",
-      "processed_at": "2025-11-17T18:30:51.260271+00:00"
+      "processed_at": "2025-11-17T19:16:49.631933+00:00"
     },
     {
       "title": "Sony slaps down fan-made Concord resurrection effort with copyright takedown and \"worrying legal action\" - Eurogamer",
@@ -40,7 +60,7 @@
       "description": "Sony has issued a number of DMCA notices against a fan project working to bring Concord back to life...",
       "url": "https://www.eurogamer.net/sony-slaps-down-fan-made-concord-resurrection-effort-with-copyright-takedown-and-worrying-legal-action",
       "publishedAt": "2025-11-16T14:17:07Z",
-      "processed_at": "2025-11-17T18:30:51.260271+00:00"
+      "processed_at": "2025-11-17T19:16:49.631933+00:00"
     },
     {
       "title": "Bloomberg: Here’s what’s actually going on with the iPhone Air 2 - 9to5Mac",
@@ -50,17 +70,7 @@
       "description": "It’s been a whirlwind of a week for iPhone Air fans. First, The Information reported that Apple had ...",
       "url": "https://9to5mac.com/2025/11/16/iphone-air-to-features-release-date-latest/",
       "publishedAt": "2025-11-16T14:15:00Z",
-      "processed_at": "2025-11-17T18:30:51.260271+00:00"
-    },
-    {
-      "title": "Mac Pro Reportedly on 'Back Burner' and 'Largely Written Off' at Apple - MacRumors",
-      "source": {
-        "name": "MacRumors"
-      },
-      "description": "Apple's high-end Mac Pro desktop computer is currently \"on the back burner,\" according to the latest...",
-      "url": "https://www.macrumors.com/2025/11/16/mac-pro-on-back-burner-largely-written-off/",
-      "publishedAt": "2025-11-16T14:05:29Z",
-      "processed_at": "2025-11-17T18:30:51.260271+00:00"
+      "processed_at": "2025-11-17T19:16:49.631933+00:00"
     },
     {
       "title": "7 reasons you might want to jailbreak your Kindle - Android Authority",
@@ -70,40 +80,20 @@
       "description": "Jailbreaking gave my old Kindle new life with faster menus, local games, and the freedom to customiz...",
       "url": "https://www.androidauthority.com/kindle-jailbreak-reasons-3614190/",
       "publishedAt": "2025-11-16T13:48:05Z",
-      "processed_at": "2025-11-17T18:30:51.260271+00:00"
+      "processed_at": "2025-11-17T19:16:49.631933+00:00"
     },
     {
-      "title": "Best Buy Week 3 Black Friday Doorbusters now live - 9to5Toys",
+      "title": "Early Black Friday Deals on Smartwatches & Fitness Trackers: Big Sales on Apple, Fitbit, Garmin, and More - PCMag",
       "source": {
-        "name": "9to5Toys"
+        "name": "PCMag.com"
       },
-      "description": "Best Buy’s new batch of Black Friday Doorbusters are now live. Every Friday of the month (starting i...",
-      "url": "http://9to5toys.com/2025/11/16/best-buy-week-3-black-friday-doorbusters-now-live/",
-      "publishedAt": "2025-11-16T13:04:00Z",
-      "processed_at": "2025-11-17T18:30:51.260271+00:00"
-    },
-    {
-      "title": "10 Cool New Gadgets to Keep on Your Radar - Gear Patrol",
-      "source": {
-        "name": "Gear Patrol"
-      },
-      "description": "Catching you up on the past week’s most notable product releases....",
-      "url": "https://www.gearpatrol.com/audio/best-new-tech-releases-11-16-2025/",
-      "publishedAt": "2025-11-16T13:01:00Z",
-      "processed_at": "2025-11-17T18:30:51.260271+00:00"
-    },
-    {
-      "title": "Apple’s iPhone Overhaul Will Reduce Its Reliance on Annual Fall Spectacle - Bloomberg.com",
-      "source": {
-        "name": "Bloomberg"
-      },
-      "description": "Apple’s iPhone is getting its biggest makeover yet — both to its features and release schedule. Here...",
-      "url": "https://www.bloomberg.com/news/newsletters/2025-11-16/apple-s-iphone-road-map-iphone-air-2-iphone-18-mac-pro-future-tesla-carplay-mi1q4l2o",
-      "publishedAt": "2025-11-16T13:00:41Z",
-      "processed_at": "2025-11-17T18:30:51.260271+00:00"
+      "description": "There's no reason to delay your holiday shopping when you can already save up to $100 on popular sma...",
+      "url": "https://www.pcmag.com/news/best-smartwatch-fitness-tracker-deals-early-black-friday-2025-nov-16",
+      "publishedAt": "2025-11-16T13:15:14Z",
+      "processed_at": "2025-11-17T19:16:49.631933+00:00"
     }
   ],
-  "lastUpdated": "2025-11-17T18:30:51.260342+00:00",
+  "lastUpdated": "2025-11-17T19:16:49.632003+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
