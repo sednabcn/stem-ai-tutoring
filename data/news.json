@@ -1,99 +1,109 @@
 {
   "status": "success",
-  "totalResults": 9,
+  "totalResults": 10,
   "articles": [
+    {
+      "title": "Overwatch 2's new damage hero is melee-focused hard (light) hitter Vendetta - Polygon",
+      "source": {
+        "name": "Polygon"
+      },
+      "description": "Overwatch 2's Hero 45 is La Lupa, aka Vendetta, a damage dealer wielding a giant sword and a thirst ...",
+      "url": "https://www.polygon.com/overwatch-2-new-hero-45-vendetta-la-lupa-trailer/",
+      "publishedAt": "2025-11-17T17:25:00Z",
+      "processed_at": "2025-11-18T17:19:47.662638+00:00"
+    },
+    {
+      "title": "The Game Awards Nominations 2025: ‘Clair Obscur: Expedition 33’ Becomes Most-Nominated Game Ever With 12 Nods - Variety",
+      "source": {
+        "name": "Variety"
+      },
+      "description": "The nominations for the 2025 Game Awards have been revealed....",
+      "url": "https://variety.com/2025/gaming/news/game-awards-nominations-2025-list-1236583686/",
+      "publishedAt": "2025-11-17T17:13:00Z",
+      "processed_at": "2025-11-18T17:19:47.662638+00:00"
+    },
+    {
+      "title": "As Windows Turns 40, It’s ‘Evolving’ Into a Bloated AI Slop Machine - Gizmodo",
+      "source": {
+        "name": "Gizmodo.com"
+      },
+      "description": "Windows Copilot can't even tell users how to correctly resize their text....",
+      "url": "https://gizmodo.com/windows-40-year-anniversary-evolving-into-bloated-ai-slop-copilot-2000686932",
+      "publishedAt": "2025-11-17T16:57:41Z",
+      "processed_at": "2025-11-18T17:19:47.662638+00:00"
+    },
+    {
+      "title": "Subnautica 2 publisher Krafton allegedly looked to ChatGPT to figure out how to not pay that $250 million bonus - Rock Paper Shotgun",
+      "source": {
+        "name": "Rock Paper Shotgun"
+      },
+      "description": "According to a recent filing, heads of Subnautica 2 publisher Krafton allegedly used ChatGPT to figu...",
+      "url": "https://www.rockpapershotgun.com/subnautica-2-publisher-krafton-allegedly-looked-to-chatgpt-to-figure-out-how-to-not-pay-that-250-million-bonus",
+      "publishedAt": "2025-11-17T16:49:42Z",
+      "processed_at": "2025-11-18T17:19:47.662638+00:00"
+    },
+    {
+      "title": "Cities: Skylines upheaval: Developer and publisher announce “mutual” breakup - Ars Technica",
+      "source": {
+        "name": "Ars Technica"
+      },
+      "description": "Paradox subsidiary Iceflake Studios will take over work on the storied city simulation....",
+      "url": "https://arstechnica.com/gaming/2025/11/cities-skylines-upheaval-developer-and-publisher-announce-mutual-breakup/",
+      "publishedAt": "2025-11-17T16:24:27Z",
+      "processed_at": "2025-11-18T17:19:47.662638+00:00"
+    },
     {
       "title": "Xbox Partner Preview: See the Latest Games From Our Amazing Third Party Partners This Week - Xbox Wire",
       "source": {
         "name": "Xbox.com"
       },
-      "description": "",
+      "description": "We’re excited to reveal that the next Xbox Partner Preview is coming Thursday, November 20, 2025....",
       "url": "https://news.xbox.com/en-us/2025/11/17/xbox-partner-preview-november-2025-announce/",
       "publishedAt": "2025-11-17T16:02:19Z",
-      "processed_at": "2025-11-18T16:29:40.749428+00:00"
+      "processed_at": "2025-11-18T17:19:47.662638+00:00"
     },
     {
-      "title": "Paradox Interactive parts ways with Cities: Skylines studio after over 15 years, as publisher's misfortunes continue - Eurogamer",
+      "title": "Call of Duty: Black Ops 7 underperforms on Steam during launch weekend, but does that mean the game's sold badly? - Eurogamer",
       "source": {
         "name": "Eurogamer.net"
       },
-      "description": "Paradox Interactive has parted ways with Cities: Skylines developer Colossal Order in a mutual decis...",
-      "url": "https://www.eurogamer.net/paradox-interactive-parts-ways-with-cities-skylines-studio-after-over-15-years-as-publishers-misfortunes-continue",
-      "publishedAt": "2025-11-17T15:22:24Z",
-      "processed_at": "2025-11-18T16:29:40.749428+00:00"
+      "description": "",
+      "url": "https://www.eurogamer.net/call-of-duty-black-ops-7-underperforms-on-steam-during-launch-weekend-but-does-that-mean-the-games-sold-badly",
+      "publishedAt": "2025-11-17T15:46:37Z",
+      "processed_at": "2025-11-18T17:19:47.662638+00:00"
     },
     {
-      "title": "Subnautica 2 Publisher Asked ChatGPT For Help Dumping Founders - Kotaku",
+      "title": "Secret no more: Android Canary confirms 'Cinnamon Bun' is Android 17's codename - Android Authority",
       "source": {
-        "name": "Kotaku"
+        "name": "Android Authority"
       },
-      "description": "New filings accuse Krafton of engineering an illegal takeover to save money...",
-      "url": "https://kotaku.com/subnautica-2-krafton-lawsuit-chatgpt-2000644792",
-      "publishedAt": "2025-11-17T15:20:30Z",
-      "processed_at": "2025-11-18T16:29:40.749428+00:00"
+      "description": "We've got confirmation that Google will continue its tasty dessert name convention with Android 17 '...",
+      "url": "https://www.androidauthority.com/android-17-codename-confirmed-3616448/",
+      "publishedAt": "2025-11-17T15:18:36Z",
+      "processed_at": "2025-11-18T17:19:47.662638+00:00"
     },
     {
-      "title": "AMD rumored to raise GPU prices just as Radeon RX 9070 XT finally reaches MSRP - VideoCardz.com",
+      "title": "Resident Evil Requiem's Leon Kennedy 'Leaks' Are Fake News, Says Capcom - Push Square",
       "source": {
-        "name": "Videocardz.com"
+        "name": "Push Square"
       },
-      "description": "AMD reportedly reacts to memory price increases A new post on the Chinese Board Channels forum claim...",
-      "url": "https://videocardz.com/newz/amd-rumored-to-raise-gpu-prices-just-as-radeon-rx-9070-xt-finally-reaches-msrp",
-      "publishedAt": "2025-11-17T14:39:00Z",
-      "processed_at": "2025-11-18T16:29:40.749428+00:00"
+      "description": "Don't believe it...",
+      "url": "https://www.pushsquare.com/news/2025/11/resident-evil-requiems-leon-kennedy-leaks-are-fake-news-says-capcom",
+      "publishedAt": "2025-11-17T15:00:00Z",
+      "processed_at": "2025-11-18T17:19:47.662638+00:00"
     },
     {
-      "title": "Fans Bring Concord Back To Life As Sony Tries To Nuke The Evidence - Kotaku",
-      "source": {
-        "name": "Kotaku"
-      },
-      "description": "Fans are trying to rebuild the hero shooter, but Sony is taking down their YouTube videos...",
-      "url": "https://kotaku.com/concord-revive-fan-servers-mod-sony-playstation-dmca-2000644800",
-      "publishedAt": "2025-11-17T14:35:44Z",
-      "processed_at": "2025-11-18T16:29:40.749428+00:00"
-    },
-    {
-      "title": "RUMOR: EA Is Working on The Sims 4 Remastered - Sims Community",
-      "source": {
-        "name": "Simscommunity.info"
-      },
-      "description": "The Sims 4 is rumored to be liberated from an outdated game engine that the game's been building upo...",
-      "url": "https://simscommunity.info/2025/11/17/the-sims-4-remastered-rumor/",
-      "publishedAt": "2025-11-17T14:24:16Z",
-      "processed_at": "2025-11-18T16:29:40.749428+00:00"
-    },
-    {
-      "title": "Exclusive Leak: Sony A7V Ditches HDMI port for Dual USB-C! - SonyAlphaRumors",
-      "source": {
-        "name": "Sonyalpharumors.com"
-      },
-      "description": "A newly leaked image shows the Sony A7V has dropped the Micro-USB port in favor of a second USB-C co...",
-      "url": "https://www.sonyalpharumors.com/exclusive-leak-sony-a7v-ditches-hdmi-port-for-dual-usb-c/",
-      "publishedAt": "2025-11-17T13:56:17Z",
-      "processed_at": "2025-11-18T16:29:40.749428+00:00"
-    },
-    {
-      "title": "Old World Almanack – Chaos Marauders designers’ notes - Warhammer Community",
+      "title": "An adventurer’s guide to Warhammer Quest: Darkwater – The basic rules - Warhammer Community",
       "source": {
         "name": "Warhammer-community.com"
       },
-      "description": "The minds behind the new miniatures reveal all....",
-      "url": "https://www.warhammer-community.com/articles/5wik4apb/old-world-almanack-chaos-marauders-designers-notes",
-      "publishedAt": "2025-11-17T12:58:57Z",
-      "processed_at": "2025-11-18T16:29:40.749428+00:00"
-    },
-    {
-      "title": "Don't worry, Resident Evil Requiem won't have PC woes like Monster Hunter Wilds, says Capcom - Eurogamer",
-      "source": {
-        "name": "Eurogamer.net"
-      },
-      "description": "Capcom is working to ensure Resident Evil Requiem will perform well on PC, following a multitude of ...",
-      "url": "https://www.eurogamer.net/dont-worry-resident-evil-requiem-wont-have-pc-woes-like-monster-hunter-wilds-says-capcom",
-      "publishedAt": "2025-11-17T12:55:46Z",
-      "processed_at": "2025-11-18T16:29:40.749428+00:00"
+      "description": "A brief look at how you play Darkwater....",
+      "url": "https://www.warhammer-community.com/articles/h2qdou5l/an-adventurers-guide-to-warhammer-quest-darkwater-the-basic-rules",
+      "publishedAt": "2025-11-17T14:59:01Z",
+      "processed_at": "2025-11-18T17:19:47.662638+00:00"
     }
   ],
-  "lastUpdated": "2025-11-18T16:29:40.749500+00:00",
+  "lastUpdated": "2025-11-18T17:19:47.662721+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
