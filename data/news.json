@@ -1,60 +1,100 @@
 {
   "status": "success",
-  "totalResults": 5,
+  "totalResults": 9,
   "articles": [
     {
-      "title": "Breaking: Scientists discover new method for faster learning",
+      "title": "Xbox Partner Preview: See the Latest Games From Our Amazing Third Party Partners This Week - Xbox Wire",
       "source": {
-        "name": "Science Daily"
+        "name": "Xbox.com"
       },
-      "description": "Revolutionary approach to accelerated learning techniques...",
-      "url": "#",
-      "publishedAt": "2025-11-18T14:21:25.827188+00:00",
-      "processed_at": "2025-11-18T14:21:25.827188+00:00"
+      "description": "",
+      "url": "https://news.xbox.com/en-us/2025/11/17/xbox-partner-preview-november-2025-announce/",
+      "publishedAt": "2025-11-17T16:02:19Z",
+      "processed_at": "2025-11-18T15:24:14.184667+00:00"
     },
     {
-      "title": "Education News: Online tutoring platform shows 85% improvement rates",
+      "title": "Paradox Interactive parts ways with Cities: Skylines studio after over 15 years, as publisher's misfortunes continue - Eurogamer",
       "source": {
-        "name": "EdTech Weekly"
+        "name": "Eurogamer.net"
       },
-      "description": "Comprehensive study reveals significant learning gains...",
-      "url": "#",
-      "publishedAt": "2025-11-18T14:21:25.827188+00:00",
-      "processed_at": "2025-11-18T14:21:25.827188+00:00"
+      "description": "Paradox Interactive has parted ways with Cities: Skylines developer Colossal Order in a mutual decis...",
+      "url": "https://www.eurogamer.net/paradox-interactive-parts-ways-with-cities-skylines-studio-after-over-15-years-as-publishers-misfortunes-continue",
+      "publishedAt": "2025-11-17T15:22:24Z",
+      "processed_at": "2025-11-18T15:24:14.184667+00:00"
     },
     {
-      "title": "Tech Update: AI-powered study tools gain popularity",
+      "title": "Subnautica 2 Publisher Asked ChatGPT For Help Dumping Founders - Kotaku",
       "source": {
-        "name": "TechCrunch"
+        "name": "Kotaku"
       },
-      "description": "Artificial intelligence transforms education...",
-      "url": "#",
-      "publishedAt": "2025-11-18T14:21:25.827188+00:00",
-      "processed_at": "2025-11-18T14:21:25.827188+00:00"
+      "description": "New filings accuse Krafton of engineering an illegal takeover to save money...",
+      "url": "https://kotaku.com/subnautica-2-krafton-lawsuit-chatgpt-2000644792",
+      "publishedAt": "2025-11-17T15:20:30Z",
+      "processed_at": "2025-11-18T15:24:14.184667+00:00"
     },
     {
-      "title": "Research: Personalized learning shows promising results",
+      "title": "AMD rumored to raise GPU prices just as Radeon RX 9070 XT finally reaches MSRP - VideoCardz.com",
       "source": {
-        "name": "Educational Research"
+        "name": "Videocardz.com"
       },
-      "description": "Tailored educational methods demonstrate effectiveness...",
-      "url": "#",
-      "publishedAt": "2025-11-18T14:21:25.827188+00:00",
-      "processed_at": "2025-11-18T14:21:25.827188+00:00"
+      "description": "AMD reportedly reacts to memory price increases A new post on the Chinese Board Channels forum claim...",
+      "url": "https://videocardz.com/newz/amd-rumored-to-raise-gpu-prices-just-as-radeon-rx-9070-xt-finally-reaches-msrp",
+      "publishedAt": "2025-11-17T14:39:00Z",
+      "processed_at": "2025-11-18T15:24:14.184667+00:00"
     },
     {
-      "title": "Innovation: New classroom tech boosts engagement",
+      "title": "Fans Bring Concord Back To Life As Sony Tries To Nuke The Evidence - Kotaku",
       "source": {
-        "name": "Digital Learning"
+        "name": "Kotaku"
       },
-      "description": "Interactive technologies boost student participation...",
-      "url": "#",
-      "publishedAt": "2025-11-18T14:21:25.827188+00:00",
-      "processed_at": "2025-11-18T14:21:25.827188+00:00"
+      "description": "Fans are trying to rebuild the hero shooter, but Sony is taking down their YouTube videos...",
+      "url": "https://kotaku.com/concord-revive-fan-servers-mod-sony-playstation-dmca-2000644800",
+      "publishedAt": "2025-11-17T14:35:44Z",
+      "processed_at": "2025-11-18T15:24:14.184667+00:00"
+    },
+    {
+      "title": "RUMOR: EA Is Working on The Sims 4 Remastered - Sims Community",
+      "source": {
+        "name": "Simscommunity.info"
+      },
+      "description": "The Sims 4 is rumored to be liberated from an outdated game engine that the game's been building upo...",
+      "url": "https://simscommunity.info/2025/11/17/the-sims-4-remastered-rumor/",
+      "publishedAt": "2025-11-17T14:24:16Z",
+      "processed_at": "2025-11-18T15:24:14.184667+00:00"
+    },
+    {
+      "title": "Exclusive Leak: Sony A7V Ditches HDMI port for Dual USB-C! - SonyAlphaRumors",
+      "source": {
+        "name": "Sonyalpharumors.com"
+      },
+      "description": "A newly leaked image shows the Sony A7V has dropped the Micro-USB port in favor of a second USB-C co...",
+      "url": "https://www.sonyalpharumors.com/exclusive-leak-sony-a7v-ditches-hdmi-port-for-dual-usb-c/",
+      "publishedAt": "2025-11-17T13:56:17Z",
+      "processed_at": "2025-11-18T15:24:14.184667+00:00"
+    },
+    {
+      "title": "Old World Almanack – Chaos Marauders designers’ notes - Warhammer Community",
+      "source": {
+        "name": "Warhammer-community.com"
+      },
+      "description": "The minds behind the new miniatures reveal all....",
+      "url": "https://www.warhammer-community.com/articles/5wik4apb/old-world-almanack-chaos-marauders-designers-notes",
+      "publishedAt": "2025-11-17T12:58:57Z",
+      "processed_at": "2025-11-18T15:24:14.184667+00:00"
+    },
+    {
+      "title": "Don't worry, Resident Evil Requiem won't have PC woes like Monster Hunter Wilds, says Capcom - Eurogamer",
+      "source": {
+        "name": "Eurogamer.net"
+      },
+      "description": "Capcom is working to ensure Resident Evil Requiem will perform well on PC, following a multitude of ...",
+      "url": "https://www.eurogamer.net/dont-worry-resident-evil-requiem-wont-have-pc-woes-like-monster-hunter-wilds-says-capcom",
+      "publishedAt": "2025-11-17T12:55:46Z",
+      "processed_at": "2025-11-18T15:24:14.184667+00:00"
     }
   ],
-  "lastUpdated": "2025-11-18T14:21:25.827201+00:00",
-  "source": "Fallback",
+  "lastUpdated": "2025-11-18T15:24:14.184741+00:00",
+  "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
     "script_version": "2.0.0",
