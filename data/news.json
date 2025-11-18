@@ -1,7 +1,27 @@
 {
   "status": "success",
-  "totalResults": 9,
+  "totalResults": 10,
   "articles": [
+    {
+      "title": "Exclusive: Meet Samsung's Galaxy Buds 4 Pro with a powerful new feature - Android Authority",
+      "source": {
+        "name": "Android Authority"
+      },
+      "description": "We've found several animations confirming the new design and features of the upcoming Samsung Galaxy...",
+      "url": "https://www.androidauthority.com/samsung-galaxy-buds-4-pro-design-features-leak-3616254/",
+      "publishedAt": "2025-11-17T05:09:50Z",
+      "processed_at": "2025-11-18T05:20:51.976476+00:00"
+    },
+    {
+      "title": "It's happening! YouTube Music is testing a feature everyone has wanted for years. - Android Authority",
+      "source": {
+        "name": "Android Authority"
+      },
+      "description": "YouTube Music appears to be testing the ability to search within playlists, a feature users have bee...",
+      "url": "https://www.androidauthority.com/youtube-music-playlist-search-3616240/",
+      "publishedAt": "2025-11-17T02:40:56Z",
+      "processed_at": "2025-11-18T05:20:51.976476+00:00"
+    },
     {
       "title": "Chelsea Green banned from the International Professional Wrestling Hall of Fame - Cageside Seats",
       "source": {
@@ -10,7 +30,17 @@
       "description": "How could they?!?...",
       "url": "https://www.cagesideseats.com/wwe/397175/chelsea-green-banned-from-the-international-professional-wrestling-hall-of-fame",
       "publishedAt": "2025-11-17T02:24:00Z",
-      "processed_at": "2025-11-18T04:25:50.848147+00:00"
+      "processed_at": "2025-11-18T05:20:51.976476+00:00"
+    },
+    {
+      "title": "Specific parental traits are linked to distinct cognitive skills in gifted children - PsyPost",
+      "source": {
+        "name": "PsyPost"
+      },
+      "description": "The cognitive profiles of gifted children are associated with a mix of parental factors. New researc...",
+      "url": "https://www.psypost.org/specific-parental-traits-are-linked-to-distinct-cognitive-skills-in-gifted-children/",
+      "publishedAt": "2025-11-17T01:08:59Z",
+      "processed_at": "2025-11-18T05:20:51.976476+00:00"
     },
     {
       "title": "Early Black Friday Savings Up to 33% on Speediance Smart Gyms - IGN",
@@ -20,17 +50,7 @@
       "description": "Kickstart your 2026 fitness goals with AI-powered training...",
       "url": "https://www.ign.com/articles/early-black-friday-savings-up-to-33-on-speediance-smart-gyms",
       "publishedAt": "2025-11-17T00:06:47Z",
-      "processed_at": "2025-11-18T04:25:50.848147+00:00"
-    },
-    {
-      "title": "Garmin’s Smartwatches Are Up to $250 Off Ahead of Black Friday - CNET",
-      "source": {
-        "name": "CNET"
-      },
-      "description": "Track your fitness, get directions, stay connected and get to where you need on time with these fant...",
-      "url": "https://www.cnet.com/deals/garmins-smartwatches-are-up-to-250-off-ahead-of-black-friday/",
-      "publishedAt": "2025-11-16T23:00:00Z",
-      "processed_at": "2025-11-18T04:25:50.848147+00:00"
+      "processed_at": "2025-11-18T05:20:51.976476+00:00"
     },
     {
       "title": "5 Hidden Resentments Long-Term Partners Carry, By A Psychologist - Forbes",
@@ -40,7 +60,17 @@
       "description": "Preventing resentment is often better than dealing with it when it comes up, as it stays silent unti...",
       "url": "https://www.forbes.com/sites/traversmark/2025/11/16/5-hidden-resentments-long-term-partners-carry-by-a-psychologist/",
       "publishedAt": "2025-11-16T22:30:48Z",
-      "processed_at": "2025-11-18T04:25:50.848147+00:00"
+      "processed_at": "2025-11-18T05:20:51.976476+00:00"
+    },
+    {
+      "title": "Microsoft Patch Tuesday, November 2025 Edition - Krebs on Security",
+      "source": {
+        "name": "Krebs on Security"
+      },
+      "description": "Microsoft this week pushed security updates to fix more than 60 vulnerabilities in its Windows opera...",
+      "url": "https://krebsonsecurity.com/2025/11/microsoft-patch-tuesday-november-2025-edition/",
+      "publishedAt": "2025-11-16T22:01:45Z",
+      "processed_at": "2025-11-18T05:20:51.976476+00:00"
     },
     {
       "title": "The Reason Why Google Chromebooks Are So Cheap - bgr.com",
@@ -50,7 +80,17 @@
       "description": "Find out the main reason why Google Chromebooks are so cheap. We explore the lightweight OS, cloud-b...",
       "url": "https://www.bgr.com/2022978/why-google-chromebooks-cheap-explained/",
       "publishedAt": "2025-11-16T21:47:00Z",
-      "processed_at": "2025-11-18T04:25:50.848147+00:00"
+      "processed_at": "2025-11-18T05:20:51.976476+00:00"
+    },
+    {
+      "title": "Red Dead Redemption Switch Physical Edition Discounted Ahead Of Free Switch 2 Update - GameSpot",
+      "source": {
+        "name": "GameSpot"
+      },
+      "description": "Amazon's early Black Friday video game sale includes the recently released physical editions of RDR ...",
+      "url": "https://www.gamespot.com/articles/red-dead-redemption-nintendo-switch-2-edition-black-friday-amazon-deal/1100-6534660/",
+      "publishedAt": "2025-11-16T21:28:26Z",
+      "processed_at": "2025-11-18T05:20:51.976476+00:00"
     },
     {
       "title": "Pokémon GO Events This Week: November 17 to November 23, 2025 - Pokémon GO Hub",
@@ -60,40 +100,10 @@
       "description": "Pokémon GO’s November 17 to November 23 week brings the final month in the Tales of Transformation s...",
       "url": "https://pokemongohub.net/post/event/pokemon-go-events-this-week-november-17-to-november-23-2025/",
       "publishedAt": "2025-11-16T20:14:44Z",
-      "processed_at": "2025-11-18T04:25:50.848147+00:00"
-    },
-    {
-      "title": "Just 39 Products For People Who Have An Affinity For The Quirkier Things In Life - BuzzFeed",
-      "source": {
-        "name": "Buzzfeed"
-      },
-      "description": "...because your life should be filled with whimsy and fun....",
-      "url": "https://www.buzzfeed.com/rachelleyang1/products-for-people-who-have-an-affinity-for-quirky-things",
-      "publishedAt": "2025-11-16T19:31:02Z",
-      "processed_at": "2025-11-18T04:25:50.848147+00:00"
-    },
-    {
-      "title": "Call of Duty: Black Ops 7 has the lowest Metacritic user score ever for a Call of Duty game - Eurogamer",
-      "source": {
-        "name": "Eurogamer.net"
-      },
-      "description": "Call of Duty: Black Ops 7 has had a bumpy start, accruing an 'Overwhelming Dislike' verdict on Metac...",
-      "url": "https://www.eurogamer.net/call-of-duty-black-ops-7-has-the-lowest-metacritic-user-score-ever-for-a-call-of-duty-game",
-      "publishedAt": "2025-11-16T19:20:55Z",
-      "processed_at": "2025-11-18T04:25:50.848147+00:00"
-    },
-    {
-      "title": "Google Revealed A Futuristic Quantum Algorithm Faster Than Supercomputers - bgr.com",
-      "source": {
-        "name": "BGR"
-      },
-      "description": "Powered by its Willow chip, Google’s Quantum Echoes algorithm uses out-of-time-order correlators to ...",
-      "url": "https://www.bgr.com/2023346/google-quantum-echo-algorithm-faster-supercomputers/",
-      "publishedAt": "2025-11-16T19:17:00Z",
-      "processed_at": "2025-11-18T04:25:50.848147+00:00"
+      "processed_at": "2025-11-18T05:20:51.976476+00:00"
     }
   ],
-  "lastUpdated": "2025-11-18T04:25:50.848221+00:00",
+  "lastUpdated": "2025-11-18T05:20:51.976546+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
