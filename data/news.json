@@ -3,14 +3,74 @@
   "totalResults": 10,
   "articles": [
     {
+      "title": "Analogue3D Review - IGN",
+      "source": {
+        "name": "IGN"
+      },
+      "description": "The Analogue3D is the best way to play N64 games on a modern display....",
+      "url": "https://www.ign.com/articles/analogue3d-review",
+      "publishedAt": "2025-11-18T16:01:54Z",
+      "processed_at": "2025-11-19T15:22:58.434343+00:00"
+    },
+    {
+      "title": "Microsoft is turning Windows into an ‘agentic OS,’ starting with the taskbar - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "Microsoft is adding AI agents to the Windows 11 taskbar. It’s all part of a broader push to transfor...",
+      "url": "https://www.theverge.com/news/821948/microsoft-windows-11-ai-agents-taskbar-integration",
+      "publishedAt": "2025-11-18T16:00:34Z",
+      "processed_at": "2025-11-19T15:22:58.434343+00:00"
+    },
+    {
+      "title": "The 30 best Christmas gifts for gamers and movie lovers - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "The holidays are almost here. Luckily, we’ve curated a collection of great entertainment gifts for g...",
+      "url": "https://www.theverge.com/gadgets/780850/gaming-entertainment-gifts-ideas-2025",
+      "publishedAt": "2025-11-18T15:00:00Z",
+      "processed_at": "2025-11-19T15:22:58.434343+00:00"
+    },
+    {
+      "title": "Guild Wars Reforged announced for PC - Gematsu",
+      "source": {
+        "name": "Gematsu"
+      },
+      "description": "ArenaNet and co-developer 2weeks have announced Guild Wars Reforged for PC. It will launch via Steam...",
+      "url": "https://www.gematsu.com/2025/11/guild-wars-reforged-announced-for-pc",
+      "publishedAt": "2025-11-18T14:05:59Z",
+      "processed_at": "2025-11-19T15:22:58.434343+00:00"
+    },
+    {
+      "title": "Mapping the future with 3D-printed titanium Apple Watch cases - Apple",
+      "source": {
+        "name": "Apple Newsroom"
+      },
+      "description": "Apple Watch Ultra 3 and titanium Apple Watch Series 11 cases are now 3D-printed with 100 percent rec...",
+      "url": "https://www.apple.com/newsroom/2025/11/mapping-the-future-with-3d-printed-titanium-apple-watch-cases/",
+      "publishedAt": "2025-11-18T14:02:55Z",
+      "processed_at": "2025-11-19T15:22:58.434343+00:00"
+    },
+    {
       "title": "Coming to Xbox Game Pass: Fortnite Crew, The Crew Motorfest, Moonlighter 2: The Endless Vault, and More - Xbox Wire",
       "source": {
         "name": "Xbox.com"
       },
-      "description": "",
+      "description": "Coming soon to Game Pass: Fortnite Crew, The Crew Motorfest, Moonlighter 2: The Endless Vault, and m...",
       "url": "https://news.xbox.com/en-us/2025/11/18/xbox-game-pass-november-2025-wave-2/",
       "publishedAt": "2025-11-18T14:01:55Z",
-      "processed_at": "2025-11-19T14:21:18.580655+00:00"
+      "processed_at": "2025-11-19T15:22:58.434343+00:00"
+    },
+    {
+      "title": "Clair Obscur: Expedition 33’s Game Awards nominations show ‘indie’ is still a meaningless term - Polygon",
+      "source": {
+        "name": "Polygon"
+      },
+      "description": "",
+      "url": "https://www.polygon.com/clair-obscur-expedition-33-sandfall-indie-the-game-awards-nominations/",
+      "publishedAt": "2025-11-18T14:00:00Z",
+      "processed_at": "2025-11-19T15:22:58.434343+00:00"
     },
     {
       "title": "Sony is taking $100 off its PS5 consoles for Black Friday - The Verge",
@@ -20,7 +80,7 @@
       "description": "Sony is cutting the prices of its PS5 consoles, accessories, and games for Black Friday. PS5 console...",
       "url": "https://www.theverge.com/news/822851/sony-ps5-playstation-black-friday-deals",
       "publishedAt": "2025-11-18T13:30:10Z",
-      "processed_at": "2025-11-19T14:21:18.580655+00:00"
+      "processed_at": "2025-11-19T15:22:58.434343+00:00"
     },
     {
       "title": "In the wake of Battlefield 6 and Arc Radiers, Call of Duty: Black Ops 7 suffered a much smaller launch than previous CoD games - Eurogamer",
@@ -30,17 +90,7 @@
       "description": "Activision's own response to Call of Duty: Black Ops 7's release seems more muted than previous year...",
       "url": "https://www.eurogamer.net/in-the-wake-of-battlefield-6-and-arc-radiers-call-of-duty-black-ops-7-suffered-a-much-smaller-launch-than-previous-cod-games",
       "publishedAt": "2025-11-18T13:27:37Z",
-      "processed_at": "2025-11-19T14:21:18.580655+00:00"
-    },
-    {
-      "title": "'The World Is Just Not Ready for AI in Video Games' — Shroud Accuses The Game Awards of Being 'Rigged' Following Arc Raiders GOTY Snub - IGN",
-      "source": {
-        "name": "IGN"
-      },
-      "description": "Shroud has accused The Game Awards of being “rigged” following its Game of The Year Arc Raiders snub...",
-      "url": "https://www.ign.com/articles/the-world-is-just-not-ready-for-ai-in-video-games-shroud-accuses-the-game-awards-of-being-rigged-following-arc-raiders-goty-snub",
-      "publishedAt": "2025-11-18T13:07:34Z",
-      "processed_at": "2025-11-19T14:21:18.580655+00:00"
+      "processed_at": "2025-11-19T15:22:58.434343+00:00"
     },
     {
       "title": "Steam Machine and Steam Frame: your questions answered - The Verge",
@@ -50,60 +100,10 @@
       "description": "Here’s our FAQ on Valve’s new hardware lineup, including the Steam Machine console, the Steam Frame ...",
       "url": "https://www.theverge.com/games/820293/steam-machine-frame-hardware-faq",
       "publishedAt": "2025-11-18T13:00:00Z",
-      "processed_at": "2025-11-19T14:21:18.580655+00:00"
-    },
-    {
-      "title": "GTA 6 may not have a PC release yet, but the games industry is heading towards PC dominance, believes publisher's CEO - Eurogamer",
-      "source": {
-        "name": "Eurogamer.net"
-      },
-      "description": "",
-      "url": "https://www.eurogamer.net/gta-6-may-not-have-a-pc-release-yet-but-the-games-industry-is-heading-towards-pc-dominance-believes-publishers-ceo",
-      "publishedAt": "2025-11-18T12:46:45Z",
-      "processed_at": "2025-11-19T14:21:18.580655+00:00"
-    },
-    {
-      "title": "Interplay Co-Founder and 'Trailblazing' Developer Rebecca Heineman Dies Aged 62 - IGN",
-      "source": {
-        "name": "IGN"
-      },
-      "description": "",
-      "url": "https://www.ign.com/articles/interplay-co-founder-and-trailblazing-developer-rebecca-heineman-dies-aged-62",
-      "publishedAt": "2025-11-18T12:18:56Z",
-      "processed_at": "2025-11-19T14:21:18.580655+00:00"
-    },
-    {
-      "title": "Has Samsung Installed ‘Unremovable Israeli Spyware’ On Your Phone? - Forbes",
-      "source": {
-        "name": "Forbes"
-      },
-      "description": "Samsung responds to accusations it has embedded AppCloud \"spyware\" on hundreds of millions of Galaxy...",
-      "url": "https://www.forbes.com/sites/zakdoffman/2025/11/18/has-samsung-installed-unremovable-israeli-spyware-on-your-phone/",
-      "publishedAt": "2025-11-18T11:59:00Z",
-      "processed_at": "2025-11-19T14:21:18.580655+00:00"
-    },
-    {
-      "title": "Google Issues Security Fix for Actively Exploited Chrome V8 Zero-Day Vulnerability - The Hacker News",
-      "source": {
-        "name": "Internet"
-      },
-      "description": "Google patches two critical V8 flaws, including actively exploited CVE-2025-13223, urging immediate ...",
-      "url": "https://thehackernews.com/2025/11/google-issues-security-fix-for-actively.html",
-      "publishedAt": "2025-11-18T04:44:00Z",
-      "processed_at": "2025-11-19T14:21:18.580655+00:00"
-    },
-    {
-      "title": "Poll: So, Will You Be Getting Kirby Air Riders? - Nintendo Life",
-      "source": {
-        "name": "Nintendo Life"
-      },
-      "description": "Go on, tell us...",
-      "url": "https://www.nintendolife.com/news/2025/11/poll-so-will-you-be-getting-kirby-air-riders",
-      "publishedAt": "2025-11-18T04:35:00Z",
-      "processed_at": "2025-11-19T14:21:18.580655+00:00"
+      "processed_at": "2025-11-19T15:22:58.434343+00:00"
     }
   ],
-  "lastUpdated": "2025-11-19T14:21:18.580730+00:00",
+  "lastUpdated": "2025-11-19T15:22:58.434416+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
