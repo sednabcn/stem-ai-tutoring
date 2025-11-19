@@ -1,16 +1,96 @@
 {
   "status": "success",
-  "totalResults": 9,
+  "totalResults": 10,
   "articles": [
     {
-      "title": "November 2025 PS Plus Extra, Premium Games Available to Download Now - Push Square",
+      "title": "Coming to Xbox Game Pass: Fortnite Crew, The Crew Motorfest, Moonlighter 2: The Endless Vault, and More - Xbox Wire",
       "source": {
-        "name": "Push Square"
+        "name": "Xbox.com"
       },
-      "description": "9 more PS5, PS4, and Classic titles added...",
-      "url": "https://www.pushsquare.com/news/2025/11/november-2025-ps-plus-extra-premium-games-available-to-download-now",
-      "publishedAt": "2025-11-18T09:04:37Z",
-      "processed_at": "2025-11-19T12:44:53.377349+00:00"
+      "description": "",
+      "url": "https://news.xbox.com/en-us/2025/11/18/xbox-game-pass-november-2025-wave-2/",
+      "publishedAt": "2025-11-18T14:01:55Z",
+      "processed_at": "2025-11-19T13:32:46.568455+00:00"
+    },
+    {
+      "title": "Sony is taking $100 off its PS5 consoles for Black Friday - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "Sony is cutting the prices of its PS5 consoles, accessories, and games for Black Friday. PS5 console...",
+      "url": "https://www.theverge.com/news/822851/sony-ps5-playstation-black-friday-deals",
+      "publishedAt": "2025-11-18T13:30:10Z",
+      "processed_at": "2025-11-19T13:32:46.568455+00:00"
+    },
+    {
+      "title": "In the wake of Battlefield 6 and Arc Radiers, Call of Duty: Black Ops 7 suffered a much smaller launch than previous CoD games - Eurogamer",
+      "source": {
+        "name": "Eurogamer.net"
+      },
+      "description": "Activision's own response to Call of Duty: Black Ops 7's release seems more muted than previous year...",
+      "url": "https://www.eurogamer.net/in-the-wake-of-battlefield-6-and-arc-radiers-call-of-duty-black-ops-7-suffered-a-much-smaller-launch-than-previous-cod-games",
+      "publishedAt": "2025-11-18T13:27:37Z",
+      "processed_at": "2025-11-19T13:32:46.568455+00:00"
+    },
+    {
+      "title": "'The World Is Just Not Ready for AI in Video Games' — Shroud Accuses The Game Awards of Being 'Rigged' Following Arc Raiders GOTY Snub - IGN",
+      "source": {
+        "name": "IGN"
+      },
+      "description": "Shroud has accused The Game Awards of being “rigged” following its Game of The Year Arc Raiders snub...",
+      "url": "https://www.ign.com/articles/the-world-is-just-not-ready-for-ai-in-video-games-shroud-accuses-the-game-awards-of-being-rigged-following-arc-raiders-goty-snub",
+      "publishedAt": "2025-11-18T13:07:34Z",
+      "processed_at": "2025-11-19T13:32:46.568455+00:00"
+    },
+    {
+      "title": "Steam Machine and Steam Frame: your questions answered - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "Here’s our FAQ on Valve’s new hardware lineup, including the Steam Machine console, the Steam Frame ...",
+      "url": "https://www.theverge.com/games/820293/steam-machine-frame-hardware-faq",
+      "publishedAt": "2025-11-18T13:00:00Z",
+      "processed_at": "2025-11-19T13:32:46.568455+00:00"
+    },
+    {
+      "title": "GTA 6 may not have a PC release yet, but the games industry is heading towards PC dominance, believes publisher's CEO - Eurogamer",
+      "source": {
+        "name": "Eurogamer.net"
+      },
+      "description": "",
+      "url": "https://www.eurogamer.net/gta-6-may-not-have-a-pc-release-yet-but-the-games-industry-is-heading-towards-pc-dominance-believes-publishers-ceo",
+      "publishedAt": "2025-11-18T12:46:45Z",
+      "processed_at": "2025-11-19T13:32:46.568455+00:00"
+    },
+    {
+      "title": "Interplay Co-Founder and 'Trailblazing' Developer Rebecca Heineman Dies Aged 62 - IGN",
+      "source": {
+        "name": "IGN"
+      },
+      "description": "",
+      "url": "https://www.ign.com/articles/interplay-co-founder-and-trailblazing-developer-rebecca-heineman-dies-aged-62",
+      "publishedAt": "2025-11-18T12:18:56Z",
+      "processed_at": "2025-11-19T13:32:46.568455+00:00"
+    },
+    {
+      "title": "Has Samsung Installed ‘Unremovable Israeli Spyware’ On Your Phone? - Forbes",
+      "source": {
+        "name": "Forbes"
+      },
+      "description": "Samsung responds to accusations it has embedded AppCloud \"spyware\" on hundreds of millions of Galaxy...",
+      "url": "https://www.forbes.com/sites/zakdoffman/2025/11/18/has-samsung-installed-unremovable-israeli-spyware-on-your-phone/",
+      "publishedAt": "2025-11-18T11:59:00Z",
+      "processed_at": "2025-11-19T13:32:46.568455+00:00"
+    },
+    {
+      "title": "Google Issues Security Fix for Actively Exploited Chrome V8 Zero-Day Vulnerability - The Hacker News",
+      "source": {
+        "name": "Internet"
+      },
+      "description": "Google patches two critical V8 flaws, including actively exploited CVE-2025-13223, urging immediate ...",
+      "url": "https://thehackernews.com/2025/11/google-issues-security-fix-for-actively.html",
+      "publishedAt": "2025-11-18T04:44:00Z",
+      "processed_at": "2025-11-19T13:32:46.568455+00:00"
     },
     {
       "title": "Poll: So, Will You Be Getting Kirby Air Riders? - Nintendo Life",
@@ -20,80 +100,10 @@
       "description": "Go on, tell us...",
       "url": "https://www.nintendolife.com/news/2025/11/poll-so-will-you-be-getting-kirby-air-riders",
       "publishedAt": "2025-11-18T04:35:00Z",
-      "processed_at": "2025-11-19T12:44:53.377349+00:00"
-    },
-    {
-      "title": "Pixel 10 Pro just pulled off a narrow victory against iPhone 17 family - Android Authority",
-      "source": {
-        "name": "Android Authority"
-      },
-      "description": "Google's Pixel 10 Pro recorded the fastest global median Wi-Fi download speeds, beating Apple's new ...",
-      "url": "https://www.androidauthority.com/pixel-10-pro-vs-iphone-17-wi-fi-speeds-3616613/",
-      "publishedAt": "2025-11-18T03:29:06Z",
-      "processed_at": "2025-11-19T12:44:53.377349+00:00"
-    },
-    {
-      "title": "Lenovo's 1TB Laptop Is Almost Free (Ryzen 5, 24GB RAM, Windows 11), Amazon Cuts 62% to Clear Stock - Gizmodo",
-      "source": {
-        "name": "Gizmodo.com"
-      },
-      "description": "This laptop costs what you'd typically pay for a no-name mid-range model....",
-      "url": "https://gizmodo.com/lenovos-1tb-laptop-is-almost-free-ryzen-5-24gb-ram-windows-11-amazon-cuts-62-to-clear-stock-2000686895",
-      "publishedAt": "2025-11-18T00:10:30Z",
-      "processed_at": "2025-11-19T12:44:53.377349+00:00"
-    },
-    {
-      "title": "The Apple Designer Who Introduced the iPhone Air Leaves the Company - Bloomberg.com",
-      "source": {
-        "name": "Bloomberg"
-      },
-      "description": "The Apple Inc. designer who helped develop the iPhone Air — and even starred in its introduction vid...",
-      "url": "https://www.bloomberg.com/news/articles/2025-11-17/the-apple-designer-who-introduced-the-iphone-air-leaves-the-company",
-      "publishedAt": "2025-11-17T23:50:56Z",
-      "processed_at": "2025-11-19T12:44:53.377349+00:00"
-    },
-    {
-      "title": "Amazon Resale Has Upgraded \"Like New\" Apple iPad Pro M4 Tablets on Sale for Black Friday - IGN",
-      "source": {
-        "name": "IGN"
-      },
-      "description": "Get double the storage and 5G cellular connectivity for less than a base model iPad Pro....",
-      "url": "https://www.ign.com/articles/apple-ipad-pro-deals-amazon-early-black-friday-sale",
-      "publishedAt": "2025-11-17T23:25:51Z",
-      "processed_at": "2025-11-19T12:44:53.377349+00:00"
-    },
-    {
-      "title": "Apple is reportedly working on touch-sensitive cases for future iPhone Pros - GSMArena.com news - GSMArena.com",
-      "source": {
-        "name": "GSMArena.com"
-      },
-      "description": "This might be a more advanced version of the Camera Control that was introduced with the iPhone 16 g...",
-      "url": "https://www.gsmarena.com/apple_is_reportedly_working_on_touchsensitive_cases_for_future_iphone_pros-news-70328.php",
-      "publishedAt": "2025-11-17T22:59:03Z",
-      "processed_at": "2025-11-19T12:44:53.377349+00:00"
-    },
-    {
-      "title": "Apple confirms side-button support for third-party voice assistants other than Siri in Japan - 9to5Mac",
-      "source": {
-        "name": "9to5Mac"
-      },
-      "description": "A new document confirms that users in Japan will be able to replace Siri and launch a third-party as...",
-      "url": "https://9to5mac.com/2025/11/17/iphone-replace-siri-side-button-japan-ios-26-2/",
-      "publishedAt": "2025-11-17T22:51:00Z",
-      "processed_at": "2025-11-19T12:44:53.377349+00:00"
-    },
-    {
-      "title": "'Largest-ever' cloud DDoS attack pummels Azure with 3.64B packets per second - theregister.com",
-      "source": {
-        "name": "Theregister.com"
-      },
-      "description": ": Aisuru botnet strikes again, bigger and badder...",
-      "url": "https://www.theregister.com/2025/11/17/biggest_cloud_ddos_attack_azure/",
-      "publishedAt": "2025-11-17T21:54:00Z",
-      "processed_at": "2025-11-19T12:44:53.377349+00:00"
+      "processed_at": "2025-11-19T13:32:46.568455+00:00"
     }
   ],
-  "lastUpdated": "2025-11-19T12:44:53.377415+00:00",
+  "lastUpdated": "2025-11-19T13:32:46.568539+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
