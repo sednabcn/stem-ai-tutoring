@@ -1,16 +1,46 @@
 {
   "status": "success",
-  "totalResults": 10,
+  "totalResults": 9,
   "articles": [
     {
-      "title": "The Analogue 3D is the modern N64 fans have been waiting for - Ars Technica",
+      "title": "Goodbye, ‘Halo Infinite’ (2021-2025) - Gizmodo",
+      "source": {
+        "name": "Gizmodo.com"
+      },
+      "description": "",
+      "url": "https://gizmodo.com/goodbye-halo-infinite-2021-2025-2000687712",
+      "publishedAt": "2025-11-18T23:00:06Z",
+      "processed_at": "2025-11-19T23:19:37.514393+00:00"
+    },
+    {
+      "title": "GameStop Reveals Its Black Friday Ad for 2025 Alongside Early Deals - IGN",
+      "source": {
+        "name": "IGN"
+      },
+      "description": "Xbox deals are pretty much non-existent....",
+      "url": "https://www.ign.com/articles/gamestop-reveals-its-black-friday-ad-for-2025-alongside-early-deals",
+      "publishedAt": "2025-11-18T20:18:53Z",
+      "processed_at": "2025-11-19T23:19:37.514393+00:00"
+    },
+    {
+      "title": "R.I.P. Rebecca Heineman, legendary game designer and trailblazer - AV Club",
+      "source": {
+        "name": "The A.V. Club"
+      },
+      "description": "Rebecca Heineman, a legendary game designer and 1980 national Space Invaders champion, has died afte...",
+      "url": "https://www.avclub.com/rebecca-heineman-dies-games",
+      "publishedAt": "2025-11-18T20:08:00Z",
+      "processed_at": "2025-11-19T23:19:37.514393+00:00"
+    },
+    {
+      "title": "Microsoft tries to head off the “novel security risks” of Windows 11 AI agents - Ars Technica",
       "source": {
         "name": "Ars Technica"
       },
-      "description": "Excellent design and display filters, but the lack of OpenFPGA support rankles....",
-      "url": "https://arstechnica.com/gaming/2025/11/the-analogue-3d-is-the-modern-n64-fans-have-been-waiting-for/",
-      "publishedAt": "2025-11-18T18:38:09Z",
-      "processed_at": "2025-11-19T22:20:23.705991+00:00"
+      "description": "Agents with read/write access to your files create big security, privacy issues....",
+      "url": "https://arstechnica.com/gadgets/2025/11/new-windows-11-ai-agents-can-work-in-the-background-but-create-new-security-risks/",
+      "publishedAt": "2025-11-18T19:28:14Z",
+      "processed_at": "2025-11-19T23:19:37.514393+00:00"
     },
     {
       "title": "Why shock F1 26 game news should start a new era - The Race",
@@ -20,7 +50,17 @@
       "description": "There won't be a new official F1 game in 2026. Good, says Glenn Freeman, because sports gaming has b...",
       "url": "https://www.the-race.com/gaming/why-shock-f1-26-game-news-should-start-a-new-era/",
       "publishedAt": "2025-11-18T18:32:32Z",
-      "processed_at": "2025-11-19T22:20:23.705991+00:00"
+      "processed_at": "2025-11-19T23:19:37.514393+00:00"
+    },
+    {
+      "title": "Apple releases iOS 26.2 public beta 2, here’s what’s new - 9to5Mac",
+      "source": {
+        "name": "9to5Mac"
+      },
+      "description": "Want to try Apple’s next iPhone software update before it comes out? Apple just dropped the released...",
+      "url": "https://9to5mac.com/2025/11/18/apple-releases-ios-26-2-public-beta-2-heres-whats-new/",
+      "publishedAt": "2025-11-18T18:21:00Z",
+      "processed_at": "2025-11-19T23:19:37.514393+00:00"
     },
     {
       "title": "Google Chrome bug exploited as an 0-day - patch now or risk full system compromise - theregister.com",
@@ -30,7 +70,7 @@
       "description": ": Seventh Chrome 0-day this year...",
       "url": "https://www.theregister.com/2025/11/18/google_chrome_seventh_0_day/",
       "publishedAt": "2025-11-18T17:43:00Z",
-      "processed_at": "2025-11-19T22:20:23.705991+00:00"
+      "processed_at": "2025-11-19T23:19:37.514393+00:00"
     },
     {
       "title": "Tomb Raider's 2013 reboot just shadow dropped on Switch and Switch 2 consoles - Eurogamer",
@@ -40,70 +80,20 @@
       "description": "Aspyr and Crystal Dynamics just shadow dropped Tomb Raider: Definitive Edition on Switch and Switch ...",
       "url": "https://www.eurogamer.net/tomb-raiders-2013-reboot-just-shadow-dropped-on-switch-and-switch-2-consoles",
       "publishedAt": "2025-11-18T17:42:20Z",
-      "processed_at": "2025-11-19T22:20:23.705991+00:00"
+      "processed_at": "2025-11-19T23:19:37.514393+00:00"
     },
     {
-      "title": "Make your name on the streets as Hive Scum with a new class for Warhammer 40,000: Darktide - Warhammer Community",
+      "title": "The ‘Analogue 3D’ – An 'N64' Reimagined in 4K – Is Available Now - hypebeast.com",
       "source": {
-        "name": "Warhammer-community.com"
+        "name": "HYPEBEAST"
       },
-      "description": "Command respect in Tertium....",
-      "url": "https://www.warhammer-community.com/articles/z1yoepme/make-your-name-on-the-streets-as-hive-scum-with-a-new-class-for-warhammer-40000-darktide",
-      "publishedAt": "2025-11-18T17:04:11Z",
-      "processed_at": "2025-11-19T22:20:23.705991+00:00"
-    },
-    {
-      "title": "Mini Review: Neon Inferno (PS5) - Beautiful Layers, Chaotic Bullets - Push Square",
-      "source": {
-        "name": "Push Square"
-      },
-      "description": "Bullet hell...",
-      "url": "https://www.pushsquare.com/reviews/ps5/neon-inferno",
-      "publishedAt": "2025-11-18T17:00:00Z",
-      "processed_at": "2025-11-19T22:20:23.705991+00:00"
-    },
-    {
-      "title": "Introducing Omega Launches The Fourth Generation Seamaster 'Planet Ocean,' And It's A BIG Update (Live Pics) - Hodinkee",
-      "source": {
-        "name": "HODINKEE"
-      },
-      "description": "With a new case, updated movement for the core collection, and a new bracelet. New, new, new....",
-      "url": "https://www.hodinkee.com/articles/introducing-omega-planet-ocean-gen4",
-      "publishedAt": "2025-11-18T17:00:00Z",
-      "processed_at": "2025-11-19T22:20:23.705991+00:00"
-    },
-    {
-      "title": "Jeff Bezos and Lauren Sanchez's Extravagant Renovations of $87 Million Billionaire Bunker Mansion Revealed - Realtor.com",
-      "source": {
-        "name": "Realtor.com News"
-      },
-      "description": "",
-      "url": "https://www.realtor.com/news/celebrity-real-estate/jeff-bezos-lauren-sanchez-billionaire-bunker-mansion-renovation/",
-      "publishedAt": "2025-11-18T16:54:06Z",
-      "processed_at": "2025-11-19T22:20:23.705991+00:00"
-    },
-    {
-      "title": "The Apple Watch Series 11 has plunged to a record low price - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "The Apple Watch Series 11 is $349.99 ($50 off) at Amazon. The Onn 4K Pro Streaming Device and Coway ...",
-      "url": "https://www.theverge.com/tech/823052/apple-watch-series-11-onn-4k-pro-deal-sale",
-      "publishedAt": "2025-11-18T16:52:56Z",
-      "processed_at": "2025-11-19T22:20:23.705991+00:00"
-    },
-    {
-      "title": "The Echo Aviation Controller puts a flight simulator in your hands - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "The Echo Aviation Controller packs a flight simulator’s worth of controls into a $150 gamepad arrivi...",
-      "url": "https://www.theverge.com/news/823018/honeycomb-aeronautical-echo-aviation-controller-gamepad-pc-flight-simulator",
-      "publishedAt": "2025-11-18T16:32:01Z",
-      "processed_at": "2025-11-19T22:20:23.705991+00:00"
+      "description": "It's finally here, two years after it was first announced....",
+      "url": "https://hypebeast.com/2025/11/analogue-3d-n64-nintendo-64-4k-officially-shipping-now",
+      "publishedAt": "2025-11-18T17:28:05Z",
+      "processed_at": "2025-11-19T23:19:37.514393+00:00"
     }
   ],
-  "lastUpdated": "2025-11-19T22:20:23.706058+00:00",
+  "lastUpdated": "2025-11-19T23:19:37.514464+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
