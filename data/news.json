@@ -1,26 +1,46 @@
 {
   "status": "success",
-  "totalResults": 10,
+  "totalResults": 8,
   "articles": [
     {
-      "title": "The PlayStation 5 Slim and Pro are on sale for Black Friday - The Verge",
+      "title": "Black Ops 7 devs confirm aim assist & SMG buffs coming soon - Dexerto",
       "source": {
-        "name": "The Verge"
+        "name": "Dexerto"
       },
-      "description": "The PS5 Slim and PS5 Pro have received steep discounts. Both slim models hasn’t been this cheap sinc...",
-      "url": "https://www.theverge.com/gadgets/824326/playstation-5-ps5-pro-black-friday-deal-sale-2025",
-      "publishedAt": "2025-11-21T15:28:01Z",
-      "processed_at": "2025-11-22T18:28:15.803761+00:00"
+      "description": "",
+      "url": "https://www.dexerto.com/call-of-duty/black-ops-7-devs-confirm-aim-assist-smg-buffs-coming-soon-3285698/",
+      "publishedAt": "2025-11-21T17:41:38Z",
+      "processed_at": "2025-11-22T19:15:45.363623+00:00"
     },
     {
-      "title": "I signed up for Trump Mobile two weeks ago and I still don’t have my SIM - The Verge",
+      "title": "Apple’s cheapest iPad is already $70 off for Black Friday - The Verge",
       "source": {
         "name": "The Verge"
       },
-      "description": "My physical SIM delivery is caught up in limbo, but Trump Mobile’s customer care has been surprising...",
-      "url": "https://www.theverge.com/tech/825190/trump-mobile-service-customer-care-sim",
-      "publishedAt": "2025-11-21T14:00:00Z",
-      "processed_at": "2025-11-22T18:28:15.803761+00:00"
+      "description": "Apple’s 11th-gen iPad is down to a record low price of $279 ($70 off) for Black Friday. The latest i...",
+      "url": "https://www.theverge.com/tech/825254/ipad-a16-black-friday-deal-sale-2025",
+      "publishedAt": "2025-11-21T17:00:00Z",
+      "processed_at": "2025-11-22T19:15:45.363623+00:00"
+    },
+    {
+      "title": "The Analogue 3D will be available again next week, but with a $20 price bump - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "﻿The company is blaming tariffs for the price increase from $249.99 to $269.99....",
+      "url": "https://www.theverge.com/news/826302/analogue-3d-console-nintendo-64-restock-price-increase",
+      "publishedAt": "2025-11-21T16:44:29Z",
+      "processed_at": "2025-11-22T19:15:45.363623+00:00"
+    },
+    {
+      "title": "AI agents are invading your PC - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "Microsoft is making a big push to put agentic AI everywhere in your computer, plus our thoughts on M...",
+      "url": "https://www.theverge.com/podcast/825979/ai-agents-are-invading-your-pc",
+      "publishedAt": "2025-11-21T15:15:22Z",
+      "processed_at": "2025-11-22T19:15:45.363623+00:00"
     },
     {
       "title": "What is A Chunky Knit Doing in Wicked’s Sexiest Scene? - The Cut",
@@ -30,27 +50,27 @@
       "description": "There is exactly one sexy scene in ‘Wicked: For Good,’ and ‘As Long As You’re Mine’ is nearly derail...",
       "url": "http://www.thecut.com/article/wicked-for-good-sexy-scene-sweater.html",
       "publishedAt": "2025-11-21T13:00:28Z",
-      "processed_at": "2025-11-22T18:28:15.803761+00:00"
+      "processed_at": "2025-11-22T19:15:45.363623+00:00"
     },
     {
-      "title": "Google’s AirDrop support for Pixel 10 likely exists because of the EU’s Apple ruling - 9to5Google",
-      "source": {
-        "name": "9to5google.com"
-      },
-      "description": "Out of nowhere, Google brought cross-platform AirDrop support to the Pixel 10 this week, allowing th...",
-      "url": "http://9to5google.com/2025/11/21/googles-airdrop-support-for-pixel-10-likely-exists-because-of-the-eus-apple-ruling/",
-      "publishedAt": "2025-11-21T13:00:00Z",
-      "processed_at": "2025-11-22T18:28:15.803761+00:00"
-    },
-    {
-      "title": "Apple’s new limited edition iPhone grip is all about accessibility - The Verge",
+      "title": "AirDropping stuff from a Pixel phone rules so much - The Verge",
       "source": {
         "name": "The Verge"
       },
-      "description": "",
-      "url": "https://www.theverge.com/news/826081/apple-hikawa-iphone-grip-stand-accessibility-limited-edition",
-      "publishedAt": "2025-11-21T12:54:33Z",
-      "processed_at": "2025-11-22T18:28:15.803761+00:00"
+      "description": "Google recently announced AirDrop interoperability for Pixel 10 phones, and it really works. Let’s h...",
+      "url": "https://www.theverge.com/tech/825696/pixel-10-pro-airdrop-quick-share-hands-on",
+      "publishedAt": "2025-11-21T13:00:00Z",
+      "processed_at": "2025-11-22T19:15:45.363623+00:00"
+    },
+    {
+      "title": "Xbox Finally Fixes An Annoying Part About Console-Specific Livestreams - GameSpot",
+      "source": {
+        "name": "GameSpot"
+      },
+      "description": "It's a small, but very welcome, addition to the standard showcase format....",
+      "url": "https://www.gamespot.com/articles/xbox-finally-fixes-an-annoying-part-about-console-specific-livestreams/1100-6536419/",
+      "publishedAt": "2025-11-21T12:52:50Z",
+      "processed_at": "2025-11-22T19:15:45.363623+00:00"
     },
     {
       "title": "Silent Hill 2's brilliant remake is now on Xbox worldwide with 50% off, and its upcoming movie adaptation has a new trailer too - Eurogamer",
@@ -60,50 +80,10 @@
       "description": "Last year's stupendous Silent Hill 2 remake is finally available on Xbox Series X/S worldwide, and t...",
       "url": "https://www.eurogamer.net/silent-hill-2s-brilliant-remake-is-now-on-xbox-worldwide-with-50-off-and-its-upcoming-movie-adaptation-has-a-new-trailer-too",
       "publishedAt": "2025-11-21T12:18:40Z",
-      "processed_at": "2025-11-22T18:28:15.803761+00:00"
-    },
-    {
-      "title": "Stoke Space goes for broke to solve the only launch problem that “moves the needle” - Ars Technica",
-      "source": {
-        "name": "Ars Technica"
-      },
-      "description": "“Does the world really need a 151st rocket company?”…...",
-      "url": "https://arstechnica.com/space/2025/11/for-stoke-space-nothing-else-matters-but-full-and-rapid-rocket-reuse/",
-      "publishedAt": "2025-11-21T12:00:55Z",
-      "processed_at": "2025-11-22T18:28:15.803761+00:00"
-    },
-    {
-      "title": "Rabbit action game Zoopunk was made by humans not AI, says Chinese dev TiGames, as suspicions rise around Xbox showcase trailer - Eurogamer",
-      "source": {
-        "name": "Eurogamer.net"
-      },
-      "description": "TiGames, the developer of rabbit-starring action game Zoopunk - one of the eye-catching trailers in ...",
-      "url": "https://www.eurogamer.net/rabbit-action-game-zoopunk-was-made-by-humans-not-ai-says-chinese-dev-tigames-as-suspicions-rise-around-xbox-showcase-trailer",
-      "publishedAt": "2025-11-21T11:35:23Z",
-      "processed_at": "2025-11-22T18:28:15.803761+00:00"
-    },
-    {
-      "title": "Nintendo Debuts Two Metroid Prime 4 Ads As Eight-Year Wait Nears Its End - Nintendo Life",
-      "source": {
-        "name": "Nintendo Life"
-      },
-      "description": "Or eighteen years, for many of us...",
-      "url": "https://www.nintendolife.com/news/2025/11/nintendo-debuts-two-metroid-prime-4-ads-as-eight-year-wait-nears-its-end",
-      "publishedAt": "2025-11-21T09:45:00Z",
-      "processed_at": "2025-11-22T18:28:15.803761+00:00"
-    },
-    {
-      "title": "Microsoft exec finds AI cynicism 'mindblowing' - theregister.com",
-      "source": {
-        "name": "Theregister.com"
-      },
-      "description": "Opinion: The tech is impressive. Shoehorning it into absolutely everything is not...",
-      "url": "https://www.theregister.com/2025/11/21/microsoft_ai_boss_comment/",
-      "publishedAt": "2025-11-21T09:20:00Z",
-      "processed_at": "2025-11-22T18:28:15.803761+00:00"
+      "processed_at": "2025-11-22T19:15:45.363623+00:00"
     }
   ],
-  "lastUpdated": "2025-11-22T18:28:15.803839+00:00",
+  "lastUpdated": "2025-11-22T19:15:45.363690+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
