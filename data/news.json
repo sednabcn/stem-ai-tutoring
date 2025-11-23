@@ -1,7 +1,17 @@
 {
   "status": "success",
-  "totalResults": 10,
+  "totalResults": 8,
   "articles": [
+    {
+      "title": "Google AI Has Erased Avengers: Doomsday, Fortnite And More Leaks Overnight - Forbes",
+      "source": {
+        "name": "Forbes"
+      },
+      "description": "Google's new Nano Banana Pro image generation system is now so photorealistic that the entire concep...",
+      "url": "https://www.forbes.com/sites/paultassi/2025/11/22/google-ai-has-erased-avengers-doomsday-fortnite-and-more-leaks-overnight/",
+      "publishedAt": "2025-11-22T14:00:45Z",
+      "processed_at": "2025-11-23T17:17:20.773927+00:00"
+    },
     {
       "title": "Xbox Black Friday Sale 2025: Games at their lowest-ever price - TrueAchievements",
       "source": {
@@ -10,7 +20,7 @@
       "description": "To help you find the best bargains from the huge Xbox Black Friday 2025 Sale, we've listed out all t...",
       "url": "https://www.trueachievements.com/news/xbox-black-friday-sale-2025-games-at-their-lowest-ever-price",
       "publishedAt": "2025-11-22T13:01:37Z",
-      "processed_at": "2025-11-23T16:24:27.881382+00:00"
+      "processed_at": "2025-11-23T17:17:20.773927+00:00"
     },
     {
       "title": "Ubisoft announces AI \"experiment\" Teammates - a playable research project that's \"more than just talk\" - Eurogamer",
@@ -20,7 +30,7 @@
       "description": "Ubisoft has announced \"Teammates\", an \"AI experiment to change the game\" and \"deepen the player expe...",
       "url": "https://www.eurogamer.net/ubisoft-announces-ai-experiment-teammates-a-playable-research-project-thats-more-than-just-talk",
       "publishedAt": "2025-11-22T11:30:19Z",
-      "processed_at": "2025-11-23T16:24:27.881382+00:00"
+      "processed_at": "2025-11-23T17:17:20.773927+00:00"
     },
     {
       "title": "My favourite thing about the Xbox 360, 20 years on? It did something no other console has managed since - Eurogamer",
@@ -30,7 +40,7 @@
       "description": "When I look back on most consoles, I'm largely looking back at the games. The PS3 is LittleBigPlanet...",
       "url": "https://www.eurogamer.net/a-building-filled-with-dreamers-my-favourite-thing-about-the-xbox-360",
       "publishedAt": "2025-11-22T11:17:33Z",
-      "processed_at": "2025-11-23T16:24:27.881382+00:00"
+      "processed_at": "2025-11-23T17:17:20.773927+00:00"
     },
     {
       "title": "ICYMI: Metroid Prime 4: Beyond Estimated Switch 2 And Switch File Size Revealed - Nintendo Life",
@@ -40,7 +50,7 @@
       "description": "Make some space...",
       "url": "https://www.nintendolife.com/news/2025/11/icymi-metroid-prime-4-beyond-estimated-switch-2-and-switch-file-size-revealed",
       "publishedAt": "2025-11-22T11:00:00Z",
-      "processed_at": "2025-11-23T16:24:27.881382+00:00"
+      "processed_at": "2025-11-23T17:17:20.773927+00:00"
     },
     {
       "title": "Analogue 3D Goes Back Up For Pre-Order Next Week, But There's A Catch - Time Extension",
@@ -50,7 +60,17 @@
       "description": "Price is jumping to $270...",
       "url": "https://www.timeextension.com/news/2025/11/analogue-3d-goes-back-up-for-pre-order-next-week-but-theres-a-catch",
       "publishedAt": "2025-11-22T10:45:00Z",
-      "processed_at": "2025-11-23T16:24:27.881382+00:00"
+      "processed_at": "2025-11-23T17:17:20.773927+00:00"
+    },
+    {
+      "title": "Valve Says Steam Machine Isn't a Console—but It Is - WIRED",
+      "source": {
+        "name": "Wired"
+      },
+      "description": "Consoles are good, actually....",
+      "url": "https://www.wired.com/story/valve-says-steam-machine-isnt-a-console-but-it-is/",
+      "publishedAt": "2025-11-22T10:00:00Z",
+      "processed_at": "2025-11-23T17:17:20.773927+00:00"
     },
     {
       "title": "New Limited-Time Pokémon Scarlet And Violet Distribution Now Available - Nintendo Life",
@@ -60,50 +80,10 @@
       "description": "Add a Whimsicott to your party...",
       "url": "https://www.nintendolife.com/news/2025/11/new-limited-time-pokemon-scarlet-and-violet-distribution-now-available",
       "publishedAt": "2025-11-22T07:05:00Z",
-      "processed_at": "2025-11-23T16:24:27.881382+00:00"
-    },
-    {
-      "title": "Microsoft Open Sources Zork I, II And III - Hackaday",
-      "source": {
-        "name": "Hackaday"
-      },
-      "description": "The history of the game Zork is a long and winding one, starting with MUDs and kin on university mai...",
-      "url": "https://hackaday.com/2025/11/21/microsoft-open-sources-zork-i-ii-and-iii/",
-      "publishedAt": "2025-11-22T06:00:00Z",
-      "processed_at": "2025-11-23T16:24:27.881382+00:00"
-    },
-    {
-      "title": "Tales of Berseria Remastered receives full list of new features and improvements - Nintendo Everything",
-      "source": {
-        "name": "Nintendoeverything.com"
-      },
-      "description": "Tales of Berseria Remastered has now been given a huge list of features added and improvements from ...",
-      "url": "https://nintendoeverything.com/tales-of-berseria-remastered-receives-full-list-of-new-features-and-improvements/",
-      "publishedAt": "2025-11-22T05:01:34Z",
-      "processed_at": "2025-11-23T16:24:27.881382+00:00"
-    },
-    {
-      "title": "SpaceX issues statement on Starship V3 Booster 18 anomaly - Teslarati",
-      "source": {
-        "name": "Teslarati"
-      },
-      "description": "The incident unfolded during gas-system pressure testing at the company’s Massey facility in Starbas...",
-      "url": "https://www.teslarati.com/spacex-issues-statement-on-starship-v3-booster-18-anomaly/",
-      "publishedAt": "2025-11-22T00:50:01Z",
-      "processed_at": "2025-11-23T16:24:27.881382+00:00"
-    },
-    {
-      "title": "Oura Ring sale for $249: get for $49 + tax with Amex Platinum benefit - Frequent Miler",
-      "source": {
-        "name": "Frequentmiler.com"
-      },
-      "description": "Oura has discounted the Oura Ring 4 to $249 for a Black Friday sale, meaning you can buy it for $49 ...",
-      "url": "https://frequentmiler.com/oura-ring-sale-for-249-get-for-49-tax-with-amex-platinum-benefit/",
-      "publishedAt": "2025-11-21T22:45:30Z",
-      "processed_at": "2025-11-23T16:24:27.881382+00:00"
+      "processed_at": "2025-11-23T17:17:20.773927+00:00"
     }
   ],
-  "lastUpdated": "2025-11-23T16:24:27.881456+00:00",
+  "lastUpdated": "2025-11-23T17:17:20.773995+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
