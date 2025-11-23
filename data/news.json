@@ -3,14 +3,34 @@
   "totalResults": 7,
   "articles": [
     {
-      "title": "Call of Duty: Black Ops 7 European sales are 63% down on Battlefield 6, and 50% down on Black Ops 6 - Eurogamer",
+      "title": "Spotify simplifies importing playlists from other streaming services - The Verge",
       "source": {
-        "name": "Eurogamer.net"
+        "name": "The Verge"
       },
-      "description": "Call of Duty: Black Ops 7 has had a disappointing launch in Europe, with sales reportedly down 63 pe...",
-      "url": "https://www.eurogamer.net/call-of-duty-black-ops-7-european-sales-are-63-down-on-battlefield-6-and-50-down-on-black-ops-6",
-      "publishedAt": "2025-11-22T14:40:16Z",
-      "processed_at": "2025-11-23T20:23:15.439213+00:00"
+      "description": "Spotify’s mobile app now lets you import playlists from other streaming services using TuneMyMusic....",
+      "url": "https://www.theverge.com/news/825646/spotify-playlist-import",
+      "publishedAt": "2025-11-22T17:10:35Z",
+      "processed_at": "2025-11-23T21:18:21.553088+00:00"
+    },
+    {
+      "title": "Google says it isn't using your Gmail to train AI - Mashable",
+      "source": {
+        "name": "Mashable"
+      },
+      "description": "The company is denying viral claims that it's accessing users' emails to train AI models....",
+      "url": "https://mashable.com/article/google-training-ai-with-gmail-emails-smart-features-debunked",
+      "publishedAt": "2025-11-22T16:59:06Z",
+      "processed_at": "2025-11-23T21:18:21.553088+00:00"
+    },
+    {
+      "title": "Which headphones should I get? Bose QC Ultra (Gen 2), Sony XM6, and AirPods Max - Mashable",
+      "source": {
+        "name": "Mashable"
+      },
+      "description": "One of these flagship models is the market’s top pick — find out which....",
+      "url": "https://mashable.com/article/bose-qc-ultra-gen-2-vs-airpods-max-sony-xm6-headphones",
+      "publishedAt": "2025-11-22T12:20:25Z",
+      "processed_at": "2025-11-23T21:18:21.553088+00:00"
     },
     {
       "title": "Google's Nano Banana Pro Makes Ultrarealistic AI Images. It Scares the Hell Out of Me - CNET",
@@ -20,7 +40,7 @@
       "description": "Google's new AI image model is so powerful that it erases what was left of the thin line between rea...",
       "url": "https://www.cnet.com/tech/services-and-software/googles-nano-banana-pro-makes-ultrarealistic-ai-images-it-scares-the-hell-out-of-me/",
       "publishedAt": "2025-11-22T12:01:00Z",
-      "processed_at": "2025-11-23T20:23:15.439213+00:00"
+      "processed_at": "2025-11-23T21:18:21.553088+00:00"
     },
     {
       "title": "My favourite thing about the Xbox 360, 20 years on? It did something no other console has managed since - Eurogamer",
@@ -30,7 +50,7 @@
       "description": "When I look back on most consoles, I'm largely looking back at the games. The PS3 is LittleBigPlanet...",
       "url": "https://www.eurogamer.net/a-building-filled-with-dreamers-my-favourite-thing-about-the-xbox-360",
       "publishedAt": "2025-11-22T11:17:33Z",
-      "processed_at": "2025-11-23T20:23:15.439213+00:00"
+      "processed_at": "2025-11-23T21:18:21.553088+00:00"
     },
     {
       "title": "ICYMI: Metroid Prime 4: Beyond Estimated Switch 2 And Switch File Size Revealed - Nintendo Life",
@@ -40,7 +60,7 @@
       "description": "Make some space...",
       "url": "https://www.nintendolife.com/news/2025/11/icymi-metroid-prime-4-beyond-estimated-switch-2-and-switch-file-size-revealed",
       "publishedAt": "2025-11-22T11:00:00Z",
-      "processed_at": "2025-11-23T20:23:15.439213+00:00"
+      "processed_at": "2025-11-23T21:18:21.553088+00:00"
     },
     {
       "title": "Analogue 3D Goes Back Up For Pre-Order Next Week, But There's A Catch - Time Extension",
@@ -50,30 +70,10 @@
       "description": "Price is jumping to $270...",
       "url": "https://www.timeextension.com/news/2025/11/analogue-3d-goes-back-up-for-pre-order-next-week-but-theres-a-catch",
       "publishedAt": "2025-11-22T10:45:00Z",
-      "processed_at": "2025-11-23T20:23:15.439213+00:00"
-    },
-    {
-      "title": "Valve Says Steam Machine Isn't a Console—but It Is - WIRED",
-      "source": {
-        "name": "Wired"
-      },
-      "description": "Consoles are good, actually....",
-      "url": "https://www.wired.com/story/valve-says-steam-machine-isnt-a-console-but-it-is/",
-      "publishedAt": "2025-11-22T10:00:00Z",
-      "processed_at": "2025-11-23T20:23:15.439213+00:00"
-    },
-    {
-      "title": "New Limited-Time Pokémon Scarlet And Violet Distribution Now Available - Nintendo Life",
-      "source": {
-        "name": "Nintendo Life"
-      },
-      "description": "Add a Whimsicott to your party...",
-      "url": "https://www.nintendolife.com/news/2025/11/new-limited-time-pokemon-scarlet-and-violet-distribution-now-available",
-      "publishedAt": "2025-11-22T07:05:00Z",
-      "processed_at": "2025-11-23T20:23:15.439213+00:00"
+      "processed_at": "2025-11-23T21:18:21.553088+00:00"
     }
   ],
-  "lastUpdated": "2025-11-23T20:23:15.439296+00:00",
+  "lastUpdated": "2025-11-23T21:18:21.553140+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
