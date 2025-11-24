@@ -1,7 +1,17 @@
 {
   "status": "success",
-  "totalResults": 9,
+  "totalResults": 7,
   "articles": [
+    {
+      "title": "Pokémon GO Events This Week: November 24 to November 30, 2025 - Pokémon GO Hub",
+      "source": {
+        "name": "Pokemon GO Hub"
+      },
+      "description": "Pokémon GO’s November 17 to November 23 week brings the final full week in the Tales of Transformati...",
+      "url": "https://pokemongohub.net/post/event/pokemon-go-events-this-week-november-24-to-november-30-2025/",
+      "publishedAt": "2025-11-23T15:52:37Z",
+      "processed_at": "2025-11-24T17:20:17.727610+00:00"
+    },
     {
       "title": "Sony’s last-gen XM4 headphones are over 50 percent off for Black Friday - The Verge",
       "source": {
@@ -10,7 +20,7 @@
       "description": "The noise-canceling WH-1000XM4 may be over five years old at this point, but they’re still a great b...",
       "url": "https://www.theverge.com/gadgets/826784/sony-wh-1000xm4-noise-canceling-headphones-black-friday-deal-sale-2025",
       "publishedAt": "2025-11-23T15:00:00Z",
-      "processed_at": "2025-11-24T16:24:39.757103+00:00"
+      "processed_at": "2025-11-24T17:20:17.727610+00:00"
     },
     {
       "title": "Nintendo's 2025 Black Friday Sale is Officially Live - IGN",
@@ -20,7 +30,7 @@
       "description": "Here's what's up for grabs now that Nintendo's official Black Friday 2025 sale is now live across al...",
       "url": "https://www.ign.com/articles/nintendo-black-friday-sale-is-officially-live-2025",
       "publishedAt": "2025-11-23T14:04:53Z",
-      "processed_at": "2025-11-24T16:24:39.757103+00:00"
+      "processed_at": "2025-11-24T17:20:17.727610+00:00"
     },
     {
       "title": "Pixel Studio adding image animations with GIF sharing, coming to Pixel 8 - 9to5Google",
@@ -30,7 +40,7 @@
       "description": "Google looks to be bringing Pixel Studio to the Pixel 8 series with a new ability to animate images ...",
       "url": "http://9to5google.com/2025/11/23/pixel-studio-gif/",
       "publishedAt": "2025-11-23T13:35:00Z",
-      "processed_at": "2025-11-24T16:24:39.757103+00:00"
+      "processed_at": "2025-11-24T17:20:17.727610+00:00"
     },
     {
       "title": "Google Nest Doorbell Cam (2025) Review: I’m So Tired of Subscriptions - Gizmodo",
@@ -40,7 +50,7 @@
       "description": "The latest Nest Doorbell is great hardware plagued by a bad subscription approach....",
       "url": "https://gizmodo.com/google-nest-doorbell-cam-2025-review-im-so-tired-of-subscriptions-2000670300",
       "publishedAt": "2025-11-23T13:00:55Z",
-      "processed_at": "2025-11-24T16:24:39.757103+00:00"
+      "processed_at": "2025-11-24T17:20:17.727610+00:00"
     },
     {
       "title": "Apple iOS 27 to Be No-Frills ‘Snow Leopard’ Update, Other Than New AI - Bloomberg.com",
@@ -50,50 +60,20 @@
       "description": "Apple’s next major iPhone software update — iOS 27 — will have two major elements: quality improveme...",
       "url": "https://www.bloomberg.com/news/newsletters/2025-11-23/apple-ios-27-snow-leopard-like-quality-focus-ai-features-tim-cook-retirement-mibq7jv8",
       "publishedAt": "2025-11-23T13:00:41Z",
-      "processed_at": "2025-11-24T16:24:39.757103+00:00"
+      "processed_at": "2025-11-24T17:20:17.727610+00:00"
     },
     {
-      "title": "The app that will instantly improve your Windows PC - The Verge",
+      "title": "Apple TV wants to go big - The Verge",
       "source": {
         "name": "The Verge"
       },
-      "description": "Plus: Gemini 3, Deadpool VR, Kirby Air Riders, Ken Burns’ American Revolution, and more in this week...",
-      "url": "https://www.theverge.com/tech/826971/raycast-kirby-comet-deadpool-vr-installer",
+      "description": "﻿The streamer is the place for premium sci-fi, but can it catch up with the competition?...",
+      "url": "https://www.theverge.com/column/825282/apple-tv-streaming-grow-audience",
       "publishedAt": "2025-11-23T13:00:00Z",
-      "processed_at": "2025-11-24T16:24:39.757103+00:00"
-    },
-    {
-      "title": "18 People Who Completely, Totally, 100% Regret Literally Every Single Decision They Made Last Week - BuzzFeed",
-      "source": {
-        "name": "Buzzfeed"
-      },
-      "description": "That's gonna leave a mark....",
-      "url": "https://www.buzzfeed.com/daves4/tough-week-nov-23-2025",
-      "publishedAt": "2025-11-23T12:25:33Z",
-      "processed_at": "2025-11-24T16:24:39.757103+00:00"
-    },
-    {
-      "title": "Amazon Decided Profit Doesn't Matter on Galaxy S25 Ultra, Zero-Margin Gamble Crushes iPhone 17 Pro - Gizmodo",
-      "source": {
-        "name": "Gizmodo.com"
-      },
-      "description": "Enjoy Snapdragon 8 Elite chip, 512GB storage, built-in S Pen and all-day 5000mAh battery....",
-      "url": "https://gizmodo.com/amazon-decided-profit-doesnt-matter-on-galaxy-s25-ultra-zero-margin-gamble-crushes-iphone-17-pro-2000690265",
-      "publishedAt": "2025-11-23T12:25:05Z",
-      "processed_at": "2025-11-24T16:24:39.757103+00:00"
-    },
-    {
-      "title": "Sure, It Was an Absolutely Awful Video Game: However, It Helped Market One of Rock Music's Most Successful Albums - Ultimate Guitar",
-      "source": {
-        "name": "Ultimate-Guitar.Com"
-      },
-      "description": "Some will win, some will lose....",
-      "url": "https://www.ultimate-guitar.com/articles/features/sure-it-was-an-absolutely-awful-video-game-however-it-helped-market-one-of-rock-musics-most-successful-albums-183083",
-      "publishedAt": "2025-11-23T12:11:22Z",
-      "processed_at": "2025-11-24T16:24:39.757103+00:00"
+      "processed_at": "2025-11-24T17:20:17.727610+00:00"
     }
   ],
-  "lastUpdated": "2025-11-24T16:24:39.757206+00:00",
+  "lastUpdated": "2025-11-24T17:20:17.727674+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
