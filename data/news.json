@@ -1,6 +1,6 @@
 {
   "status": "success",
-  "totalResults": 8,
+  "totalResults": 7,
   "articles": [
     {
       "title": "Google denies analyzing your emails for AI training - here's what happened - ZDNET",
@@ -10,7 +10,7 @@
       "description": "You can opt out of the features in question if you're still concerned. Here's how....",
       "url": "https://www.zdnet.com/article/google-denies-analyzing-your-emails-for-ai-training-heres-what-happened/",
       "publishedAt": "2025-11-23T23:30:00Z",
-      "processed_at": "2025-11-24T23:19:36.796018+00:00"
+      "processed_at": "2025-11-25T01:43:53.706330+00:00"
     },
     {
       "title": "Metroid Prime 4: Beyond Demo Now Available At Switch 2 Kiosks (US) - Nintendo Life",
@@ -20,7 +20,7 @@
       "description": "Samus returns this December...",
       "url": "https://www.nintendolife.com/news/2025/11/metroid-prime-4-beyond-demo-now-available-at-switch-2-kiosks-us",
       "publishedAt": "2025-11-23T22:30:00Z",
-      "processed_at": "2025-11-24T23:19:36.796018+00:00"
+      "processed_at": "2025-11-25T01:43:53.706330+00:00"
     },
     {
       "title": "These 4-Cylinder Engines Make Power You'd Expect From A V8 - Jalopnik",
@@ -30,7 +30,7 @@
       "description": "The Mercedes-AMG M 139, Mitsubishi 4B11T, and Volvo Twin Engine are four-cylinder engines that can m...",
       "url": "https://www.jalopnik.com/2030364/powerful-four-cylinder-engines/",
       "publishedAt": "2025-11-23T22:25:00Z",
-      "processed_at": "2025-11-24T23:19:36.796018+00:00"
+      "processed_at": "2025-11-25T01:43:53.706330+00:00"
     },
     {
       "title": "Elden Ring Is Under $20 Again for Black Friday - IGN",
@@ -40,17 +40,27 @@
       "description": "Save big on trips to the Lands Between with Black Friday discounts on Elden Ring, its Shadow of the ...",
       "url": "https://www.ign.com/articles/elden-ring-is-under-20-again-and-nightreign-has-a-big-discount-too-for-black-friday",
       "publishedAt": "2025-11-23T20:37:35Z",
-      "processed_at": "2025-11-24T23:19:36.796018+00:00"
+      "processed_at": "2025-11-25T01:43:53.706330+00:00"
     },
     {
-      "title": "Upgrade your smartwatch game with the Samsung Galaxy Watch 7 for its lowest price yet - Mashable",
+      "title": "Super Mario Odyssey Gets a Big Black Friday Discount With a Free Switch 2 Upgrade - IGN",
       "source": {
-        "name": "Mashable"
+        "name": "IGN"
       },
-      "description": "If you're an Android user, get the perfect companion for your phone....",
-      "url": "https://mashable.com/article/early-black-friday-deal-2025-samsung-galaxy-watch-7",
-      "publishedAt": "2025-11-23T19:07:30Z",
-      "processed_at": "2025-11-24T23:19:36.796018+00:00"
+      "description": "Super Mario Odyssey got a 10 out of 10 from IGN, and it's arguably only got even better. It's also n...",
+      "url": "https://www.ign.com/articles/super-mario-odyssey-black-friday-deal-2025",
+      "publishedAt": "2025-11-23T20:36:58Z",
+      "processed_at": "2025-11-25T01:43:53.706330+00:00"
+    },
+    {
+      "title": "The Best Black Friday Deals Today: Sonic Racing: CrossWorlds, Battlefield 6, AirPods 4, and More - IGN",
+      "source": {
+        "name": "IGN"
+      },
+      "description": "",
+      "url": "https://www.ign.com/articles/best-black-friday-deals-for-november-23-2025",
+      "publishedAt": "2025-11-23T19:54:22Z",
+      "processed_at": "2025-11-25T01:43:53.706330+00:00"
     },
     {
       "title": "6 Affordable Gadgets That Every Audiophile Should Have In Their Home - slashgear.com",
@@ -60,30 +70,10 @@
       "description": "Hi-Fi is notoriously expensive, and most audiophiles are happy to spend for quality sound. But a hig...",
       "url": "https://www.slashgear.com/2029535/cheap-audiophile-gadgets-accessories/",
       "publishedAt": "2025-11-23T18:30:00Z",
-      "processed_at": "2025-11-24T23:19:36.796018+00:00"
-    },
-    {
-      "title": "Sunday Preview – Prepare to enter the Jade Abbey in Warhammer Quest: Darkwater - Warhammer Community",
-      "source": {
-        "name": "Warhammer-community.com"
-      },
-      "description": "Everything available to pre-order next week....",
-      "url": "https://www.warhammer-community.com/articles/xxrvgot1/sunday-preview-prepare-to-enter-the-jade-abbey-in-warhammer-quest-darkwater",
-      "publishedAt": "2025-11-23T18:04:20Z",
-      "processed_at": "2025-11-24T23:19:36.796018+00:00"
-    },
-    {
-      "title": "Assassin's Creed: Shadows Just Hit A New Low Price In Amazon's Black Friday Deals - IGN",
-      "source": {
-        "name": "IGN"
-      },
-      "description": "Ubisoft's latest open-world adventure is down to half price on PS5, and not far off that on Xbox Ser...",
-      "url": "https://www.ign.com/articles/assassins-creed-shadows-just-hit-a-new-low-price-in-amazon-black-friday-deals",
-      "publishedAt": "2025-11-23T18:03:38Z",
-      "processed_at": "2025-11-24T23:19:36.796018+00:00"
+      "processed_at": "2025-11-25T01:43:53.706330+00:00"
     }
   ],
-  "lastUpdated": "2025-11-24T23:19:36.796083+00:00",
+  "lastUpdated": "2025-11-25T01:43:53.706395+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
