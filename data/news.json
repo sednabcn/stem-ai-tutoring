@@ -1,16 +1,16 @@
 {
   "status": "success",
-  "totalResults": 8,
+  "totalResults": 9,
   "articles": [
     {
-      "title": "Game anywhere with $250 off the Lenovo Legion Go S ahead of Black Friday - Mashable",
+      "title": "A Couple Of New DOS PCs Appear - Hackaday",
       "source": {
-        "name": "Mashable"
+        "name": "Hackaday"
       },
-      "description": "A lengthy battery life and comfy form factor make for great on-the-go sessions, especially over the ...",
-      "url": "https://mashable.com/article/early-black-friday-deal-2025-lenovo-legion-go-s",
-      "publishedAt": "2025-11-23T23:53:52Z",
-      "processed_at": "2025-11-25T04:27:46.881523+00:00"
+      "description": "An interesting trend over the last year or two has been the emergence of modern retrocomputer PCs, r...",
+      "url": "https://hackaday.com/2025/11/23/a-couple-of-new-dos-pcs-appear/",
+      "publishedAt": "2025-11-24T03:00:00Z",
+      "processed_at": "2025-11-25T05:22:33.968194+00:00"
     },
     {
       "title": "Google denies analyzing your emails for AI training - here's what happened - ZDNET",
@@ -20,7 +20,7 @@
       "description": "You can opt out of the features in question if you're still concerned. Here's how....",
       "url": "https://www.zdnet.com/article/google-denies-analyzing-your-emails-for-ai-training-heres-what-happened/",
       "publishedAt": "2025-11-23T23:30:00Z",
-      "processed_at": "2025-11-25T04:27:46.881523+00:00"
+      "processed_at": "2025-11-25T05:22:33.968194+00:00"
     },
     {
       "title": "Save Over 20% On Black Myth Wukong at Amazon For Black Friday - IGN",
@@ -30,7 +30,17 @@
       "description": "Save over 20% on Black Myth Wukong and jump into the massive action-RPG for less - just in time for ...",
       "url": "https://www.ign.com/articles/black-myth-wukong-deal-at-amazon-for-black-friday-2025",
       "publishedAt": "2025-11-23T23:28:27Z",
-      "processed_at": "2025-11-25T04:27:46.881523+00:00"
+      "processed_at": "2025-11-25T05:22:33.968194+00:00"
+    },
+    {
+      "title": "This $450 iPad setup is a better buy than most Chromebooks, here’s why - 9to5Mac",
+      "source": {
+        "name": "9to5Mac"
+      },
+      "description": "Next year, Apple will be introducing an even more affordable MacBook model to better compete with Ch...",
+      "url": "https://9to5mac.com/2025/11/23/ipad-a16-vs-budget-chromebook-sub-500-comparison-black-friday-deal/",
+      "publishedAt": "2025-11-23T23:07:00Z",
+      "processed_at": "2025-11-25T05:22:33.968194+00:00"
     },
     {
       "title": "Metroid Prime 4: Beyond Demo Now Available At Switch 2 Kiosks (US) - Nintendo Life",
@@ -40,7 +50,7 @@
       "description": "Samus returns this December...",
       "url": "https://www.nintendolife.com/news/2025/11/metroid-prime-4-beyond-demo-now-available-at-switch-2-kiosks-us",
       "publishedAt": "2025-11-23T22:30:00Z",
-      "processed_at": "2025-11-25T04:27:46.881523+00:00"
+      "processed_at": "2025-11-25T05:22:33.968194+00:00"
     },
     {
       "title": "These 4-Cylinder Engines Make Power You'd Expect From A V8 - Jalopnik",
@@ -50,7 +60,17 @@
       "description": "The Mercedes-AMG M 139, Mitsubishi 4B11T, and Volvo Twin Engine are four-cylinder engines that can m...",
       "url": "https://www.jalopnik.com/2030364/powerful-four-cylinder-engines/",
       "publishedAt": "2025-11-23T22:25:00Z",
-      "processed_at": "2025-11-25T04:27:46.881523+00:00"
+      "processed_at": "2025-11-25T05:22:33.968194+00:00"
+    },
+    {
+      "title": "UK charts: Kirby Air Riders debuts at No.12 - My Nintendo News",
+      "source": {
+        "name": "My Nintendo News"
+      },
+      "description": "Kirby Air Riders launched to respectable reviews on Thursday and it has now been revealed that the c...",
+      "url": "https://mynintendonews.com/2025/11/23/uk-charts-kirby-air-riders-debuts-at-no-12/",
+      "publishedAt": "2025-11-23T22:15:26Z",
+      "processed_at": "2025-11-25T05:22:33.968194+00:00"
     },
     {
       "title": "Elden Ring Is Under $20 Again for Black Friday - IGN",
@@ -60,7 +80,7 @@
       "description": "Save big on trips to the Lands Between with Black Friday discounts on Elden Ring, its Shadow of the ...",
       "url": "https://www.ign.com/articles/elden-ring-is-under-20-again-and-nightreign-has-a-big-discount-too-for-black-friday",
       "publishedAt": "2025-11-23T20:37:35Z",
-      "processed_at": "2025-11-25T04:27:46.881523+00:00"
+      "processed_at": "2025-11-25T05:22:33.968194+00:00"
     },
     {
       "title": "Super Mario Odyssey Gets a Big Black Friday Discount With a Free Switch 2 Upgrade - IGN",
@@ -70,20 +90,10 @@
       "description": "Super Mario Odyssey got a 10 out of 10 from IGN, and it's arguably only got even better. It's also n...",
       "url": "https://www.ign.com/articles/super-mario-odyssey-black-friday-deal-2025",
       "publishedAt": "2025-11-23T20:36:58Z",
-      "processed_at": "2025-11-25T04:27:46.881523+00:00"
-    },
-    {
-      "title": "Apple iPhone 18 Launch, Price, Features & Specifications Details - Here Is Everything You Need To Know - Wccftech",
-      "source": {
-        "name": "Wccftech"
-      },
-      "description": "The iPhone 18 lineup will be significantly different next year so check out our detailed launch, pri...",
-      "url": "https://wccftech.com/roundup/apple-iphone-18-launch-price-features-specifications-roundup/",
-      "publishedAt": "2025-11-23T20:00:00Z",
-      "processed_at": "2025-11-25T04:27:46.881523+00:00"
+      "processed_at": "2025-11-25T05:22:33.968194+00:00"
     }
   ],
-  "lastUpdated": "2025-11-25T04:27:46.881605+00:00",
+  "lastUpdated": "2025-11-25T05:22:33.968262+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
