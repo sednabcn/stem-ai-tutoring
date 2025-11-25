@@ -1,99 +1,89 @@
 {
   "status": "success",
-  "totalResults": 9,
+  "totalResults": 8,
   "articles": [
     {
-      "title": "Best Apple Black Friday deals live now — AirPods, MacBooks, iPads and more from $17 - Tom's Guide",
+      "title": "Assassin's Creed Shadows Confirms Free Attack on Titan Crossover Quest for a Limited Time - Push Square",
+      "source": {
+        "name": "Push Square"
+      },
+      "description": "No, really...",
+      "url": "https://www.pushsquare.com/news/2025/11/assassins-creed-shadows-confirms-free-attack-on-titan-crossover-quest-for-a-limited-time",
+      "publishedAt": "2025-11-24T16:49:21Z",
+      "processed_at": "2025-11-25T17:20:53.245240+00:00"
+    },
+    {
+      "title": "Best iPhone Black Friday deals — get iPhone 17, Apple Watch 11 and iPad for free right now - Tom's Guide",
       "source": {
         "name": "Tom's Guide"
       },
-      "description": "The best Apple Black Friday deals happening right now...",
-      "url": "https://www.tomsguide.com/live/news/black-friday-apple-deals-2025",
-      "publishedAt": "2025-11-24T16:24:10Z",
-      "processed_at": "2025-11-25T16:29:33.756009+00:00"
+      "description": "You never should pay full price on a new iPhone...",
+      "url": "https://www.tomsguide.com/phones/iphones/best-iphone-black-friday-deals-get-iphone-17-apple-watch-11-and-ipad-for-free-right-now",
+      "publishedAt": "2025-11-24T16:42:01Z",
+      "processed_at": "2025-11-25T17:20:53.245240+00:00"
     },
     {
-      "title": "AMD reiterates FSR Redstone is only for Radeon RX 9000 cards, feature availability will vary by title - VideoCardz.com",
+      "title": "Former Rockstar Games staff were fired for sharing internal company messages on an employee and union-only Discord server, new report suggests - Eurogamer",
       "source": {
-        "name": "Videocardz.com"
+        "name": "Eurogamer.net"
       },
-      "description": "Not all AMD Redstone features will be in every game AMD has published a new Call of Duty: Black Ops ...",
-      "url": "https://videocardz.com/newz/amd-reiterates-fsr-redstone-is-only-for-radeon-rx-9000-cards-feature-availability-will-vary-by-title",
-      "publishedAt": "2025-11-24T15:19:00Z",
-      "processed_at": "2025-11-25T16:29:33.756009+00:00"
+      "description": "Former Rockstar Games staff were fired last month due to internal company messages being discussed o...",
+      "url": "https://www.eurogamer.net/former-rockstar-games-staff-were-fired-for-sharing-internal-company-messages-on-an-employee-and-union-only-discord-server-new-report-suggests",
+      "publishedAt": "2025-11-24T16:39:29Z",
+      "processed_at": "2025-11-25T17:20:53.245240+00:00"
     },
     {
-      "title": "25 Years of PS2: ‘It Was Really the Beginning of Narrative-Driven Gaming’ - IGN",
+      "title": "Apple’s new Siri solution already has me more excited for iOS 26.4 - 9to5Mac",
       "source": {
-        "name": "IGN"
+        "name": "9to5Mac"
       },
-      "description": "To celebrate 25 years of PS2, we talk to former PlayStation boss Shawn Layden about his memories of ...",
-      "url": "https://www.ign.com/articles/25-years-of-ps2-it-was-really-the-beginning-of-narrative-driven-gaming",
-      "publishedAt": "2025-11-24T15:14:49Z",
-      "processed_at": "2025-11-25T16:29:33.756009+00:00"
+      "description": "Following the success of Gemini 3, and rumors of Apple’s new Google partnership, I’m more excited th...",
+      "url": "https://9to5mac.com/2025/11/24/apples-new-siri-solution-already-has-me-more-excited-for-ios-26-4/",
+      "publishedAt": "2025-11-24T16:12:00Z",
+      "processed_at": "2025-11-25T17:20:53.245240+00:00"
     },
     {
-      "title": "Report: GTA 6 Dev Firings Started With A Crackdown In Slack - Kotaku",
+      "title": "A quest for relevance: Dragon Quest’s remakes search for the impact it had in the ‘80s - AV Club",
+      "source": {
+        "name": "The A.V. Club"
+      },
+      "description": "The HD-2D remakes of Dragon Quest might modernize these ancient RPGs, but could anything recreate th...",
+      "url": "https://www.avclub.com/dragon-quest-dragon-warrior-remakes",
+      "publishedAt": "2025-11-24T16:00:00Z",
+      "processed_at": "2025-11-25T17:20:53.245240+00:00"
+    },
+    {
+      "title": "Xbox Prices Could Go Even Higher: 'They didn't Plan Ahead At All' - Kotaku",
       "source": {
         "name": "Kotaku"
       },
-      "description": "We now know more about why Rockstar fired several union members in October...",
-      "url": "https://kotaku.com/grand-theft-auto-6-union-firing-rockstar-protests-2000646881",
-      "publishedAt": "2025-11-24T15:06:05Z",
-      "processed_at": "2025-11-25T16:29:33.756009+00:00"
+      "description": "A report about RAM shortages has fans worried about another price hike...",
+      "url": "https://kotaku.com/xbox-series-prices-dram-amd-ai-shortage-2000646851",
+      "publishedAt": "2025-11-24T15:50:20Z",
+      "processed_at": "2025-11-25T17:20:53.245240+00:00"
     },
     {
-      "title": "GameStop Is Threatening Pokémon Scalpers With Lifetime Bans If They Catch Them Weighing Packs - Kotaku",
+      "title": "Open World Dress-Up Game Infinity Nikki Embraces Adventure in Its Biggest Ever PS5 Update - Push Square",
       "source": {
-        "name": "Kotaku"
+        "name": "Push Square"
       },
-      "description": "As scalpers keep finding new ways to make Pokémon worse, GameStop says it will ban customers who try...",
-      "url": "https://kotaku.com/pokemon-scalpers-tcg-gamestop-weigh-scale-lifetime-ban-2000646859",
-      "publishedAt": "2025-11-24T14:40:56Z",
-      "processed_at": "2025-11-25T16:29:33.756009+00:00"
+      "description": "'Shroom for more...",
+      "url": "https://www.pushsquare.com/news/2025/11/open-world-dress-up-game-infinity-nikki-embraces-adventure-in-its-biggest-ever-ps5-update",
+      "publishedAt": "2025-11-24T15:46:42Z",
+      "processed_at": "2025-11-25T17:20:53.245240+00:00"
     },
     {
-      "title": "Magic: The Gathering x Final Fantasy Boosters Down To Lowest Price Ever for Black Friday - IGN",
+      "title": "Facebook takes on Reddit with launch of nicknames for Facebook Groups - TechCrunch",
       "source": {
-        "name": "IGN"
+        "name": "TechCrunch"
       },
-      "description": "Amazon has its biggest-ever discount on Final Fantasy Magic: The Gathering cards, and a Tarkir: Drag...",
-      "url": "https://www.ign.com/articles/magic-the-gathering-x-final-fantasy-boosters-down-to-lowest-price-ever-for-black-friday",
-      "publishedAt": "2025-11-24T14:06:01Z",
-      "processed_at": "2025-11-25T16:29:33.756009+00:00"
-    },
-    {
-      "title": "New Dementia Pill Clears First Major Safety Hurdle, Trial Reports - ScienceAlert",
-      "source": {
-        "name": "ScienceAlert"
-      },
-      "description": "A new pill for treating dementia is delivering promising \"topline\" results in early-stage clinical t...",
-      "url": "https://www.sciencealert.com/new-dementia-pill-clears-first-major-safety-hurdle-trial-reports",
-      "publishedAt": "2025-11-24T14:04:12Z",
-      "processed_at": "2025-11-25T16:29:33.756009+00:00"
-    },
-    {
-      "title": "Verizon is giving away Pixel 10 Pro XL and Watch 4 for free on Black Friday - 9to5Google",
-      "source": {
-        "name": "9to5google.com"
-      },
-      "description": "Verizon is giving away a free Pixel 10 Pro XL for Black Friday to new customers, with a watch and ta...",
-      "url": "http://9to5google.com/2025/11/24/verizon-free-pixel-10-black-friday-deal/",
-      "publishedAt": "2025-11-24T14:00:00Z",
-      "processed_at": "2025-11-25T16:29:33.756009+00:00"
-    },
-    {
-      "title": "Microsoft adds tables support to Windows Notepad - theregister.com",
-      "source": {
-        "name": "Theregister.com"
-      },
-      "description": ": WordPad died for this?...",
-      "url": "https://www.theregister.com/2025/11/24/notepad_tables_support/",
-      "publishedAt": "2025-11-24T14:00:00Z",
-      "processed_at": "2025-11-25T16:29:33.756009+00:00"
+      "description": "Facebook users can protect their privacy in Groups using a new nicknames feature....",
+      "url": "https://techcrunch.com/2025/11/24/facebook-takes-on-reddit-with-launch-of-nicknames-for-facebook-groups/",
+      "publishedAt": "2025-11-24T15:46:16Z",
+      "processed_at": "2025-11-25T17:20:53.245240+00:00"
     }
   ],
-  "lastUpdated": "2025-11-25T16:29:33.756083+00:00",
+  "lastUpdated": "2025-11-25T17:20:53.245308+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
