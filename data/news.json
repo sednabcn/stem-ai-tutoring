@@ -1,109 +1,89 @@
 {
   "status": "success",
-  "totalResults": 10,
+  "totalResults": 8,
   "articles": [
+    {
+      "title": "\"It's extremely frustrating and also f*cked up\" - one of the world's best indie studios is facing shock closure following confounding Steam ban - Eurogamer",
+      "source": {
+        "name": "Eurogamer.net"
+      },
+      "description": "",
+      "url": "https://www.eurogamer.net/its-extremely-frustrating-and-also-fcked-up-one-of-the-worlds-best-indie-studios-is-facing-shock-closure-following-confounding-steam-ban",
+      "publishedAt": "2025-11-25T17:00:33Z",
+      "processed_at": "2025-11-26T19:17:01.265726+00:00"
+    },
+    {
+      "title": "Google’s official Pixel cases and watch bands are on deep discount for Black Friday - 9to5Google",
+      "source": {
+        "name": "9to5google.com"
+      },
+      "description": "You can already get Pixel phones at a huge discount for Black Friday 2025, but Google is also offeri...",
+      "url": "http://9to5google.com/2025/11/25/google-pixel-cases-watch-bands-black-friday-sales/",
+      "publishedAt": "2025-11-25T16:55:00Z",
+      "processed_at": "2025-11-26T19:17:01.265726+00:00"
+    },
+    {
+      "title": "Valve’s Steam Machine looks like a console, but don’t expect it to be priced like one - Ars Technica",
+      "source": {
+        "name": "Ars Technica"
+      },
+      "description": "Upcoming gaming box will be priced in line with a similarly specced PC, Valve says....",
+      "url": "https://arstechnica.com/gaming/2025/11/valves-steam-machine-looks-like-a-console-but-dont-expect-it-to-be-priced-like-one/",
+      "publishedAt": "2025-11-25T16:51:40Z",
+      "processed_at": "2025-11-26T19:17:01.265726+00:00"
+    },
     {
       "title": "Minecraft 1.21.11 Pre-Release 3 - Minecraft",
       "source": {
         "name": "Minecraft.net"
       },
-      "description": "",
+      "description": "Minecraft 1.21.11 Pre-Release 3...",
       "url": "https://www.minecraft.net/en-us/article/minecraft-1-21-11-pre-release-3",
       "publishedAt": "2025-11-25T16:08:20Z",
-      "processed_at": "2025-11-26T18:28:01.614091+00:00"
+      "processed_at": "2025-11-26T19:17:01.265726+00:00"
     },
     {
-      "title": "Assassin's Creed Shadows Patch 1.1.6 Out Now on PS5, But the Cool Attack on Titan Armour Is Paid DLC - Push Square",
+      "title": "Persona and Metaphor: ReFantazio creator wants to create \"JRPG 3.0\", so what does that mean for Persona 6? - Eurogamer",
       "source": {
-        "name": "Push Square"
+        "name": "Eurogamer.net"
       },
-      "description": "Of course...",
-      "url": "https://www.pushsquare.com/news/2025/11/assassins-creed-shadows-patch-1-1-6-out-now-on-ps5-but-the-cool-attack-on-titan-armour-is-paid-dlc",
+      "description": "Katsura Hashino, director of Metaphor: ReFantazio and the Persona games at Atlus, wants to create \"J...",
+      "url": "https://www.eurogamer.net/persona-and-metaphor-refantazio-creator-wants-to-create-jrpg-30-so-what-does-that-mean-for-persona-6",
+      "publishedAt": "2025-11-25T16:02:03Z",
+      "processed_at": "2025-11-26T19:17:01.265726+00:00"
+    },
+    {
+      "title": "Hyrule Warriors: Age Of Imprisonment Adds New Weapons & Challenges In Free Update This Week - Nintendo Life",
+      "source": {
+        "name": "Nintendo Life"
+      },
+      "description": "Happy Thanksgiving from Zelda and co.!...",
+      "url": "https://www.nintendolife.com/news/2025/11/hyrule-warriors-age-of-imprisonment-adds-new-weapons-and-challenges-in-free-update-this-week",
       "publishedAt": "2025-11-25T15:00:00Z",
-      "processed_at": "2025-11-26T18:28:01.614091+00:00"
+      "processed_at": "2025-11-26T19:17:01.265726+00:00"
     },
     {
-      "title": "The Nintendo Switch 2 just got a new update, and it seems to have finally fixed a troubling Bluetooth issue - Eurogamer",
+      "title": "Brave a void ship overrun with Tyranids in the next free update for Space Marine 2 - Warhammer Community",
       "source": {
-        "name": "Eurogamer.net"
+        "name": "Warhammer-community.com"
       },
-      "description": "",
-      "url": "https://www.eurogamer.net/the-nintendo-switch-2-just-got-a-new-update-and-it-seems-to-have-finally-fixed-a-troubling-bluetooth-issue",
-      "publishedAt": "2025-11-25T14:39:34Z",
-      "processed_at": "2025-11-26T18:28:01.614091+00:00"
+      "description": "Plus, new cosmetics for the Blood Angels and Salamanders are here....",
+      "url": "https://www.warhammer-community.com/articles/qtmimgx3/brave-a-void-ship-overrun-with-tyranids-in-the-next-free-update-for-space-marine-2",
+      "publishedAt": "2025-11-25T14:59:39Z",
+      "processed_at": "2025-11-26T19:17:01.265726+00:00"
     },
     {
-      "title": "This officially licensed footwear from Crocs has been designed to look like an Xbox controller - Eurogamer",
+      "title": "‘Destiny 2: Renegades’ Will Have Some Of The Game’s Best Buffs In Years - Forbes",
       "source": {
-        "name": "Eurogamer.net"
+        "name": "Forbes"
       },
-      "description": "Microsoft has teamed up with rubber footwear brand Crocs to give us Xbox-inspired shoes....",
-      "url": "https://www.eurogamer.net/this-officially-licensed-footwear-from-crocs-has-been-designed-to-look-like-an-xbox-controller",
-      "publishedAt": "2025-11-25T14:38:17Z",
-      "processed_at": "2025-11-26T18:28:01.614091+00:00"
-    },
-    {
-      "title": "PlayStation 5 Pro Consoles Are $100 Off for Black Friday 2025, and I Think It's Worth It - IGN",
-      "source": {
-        "name": "IGN"
-      },
-      "description": "Black Friday PS5 Pro deals are here: save $100 on Sony’s most powerful console while stock lasts....",
-      "url": "https://www.ign.com/articles/playstation-5-pro-console-best-deal-black-friday-2025",
-      "publishedAt": "2025-11-25T14:26:31Z",
-      "processed_at": "2025-11-26T18:28:01.614091+00:00"
-    },
-    {
-      "title": "Aluminium OS will be Google’s take on Android for PC - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "The first details of Aluminium OS, Google’s fusion of Android and ChromeOS for PCs and tablets, have...",
-      "url": "https://www.theverge.com/news/828595/google-aluminium-os-android-pc-chromeos-ai",
-      "publishedAt": "2025-11-25T13:23:20Z",
-      "processed_at": "2025-11-26T18:28:01.614091+00:00"
-    },
-    {
-      "title": "Around 100 iPhone Folds made after ‘breakthrough’ in eliminating the crease - 9to5Mac",
-      "source": {
-        "name": "9to5Mac"
-      },
-      "description": "The iPhone Fold has entered the next stage of production after what is said to be a “breakthrough” i...",
-      "url": "https://9to5mac.com/2025/11/25/around-100-iphone-folds-made-after-breakthrough-in-eliminating-the-crease/",
-      "publishedAt": "2025-11-25T12:38:00Z",
-      "processed_at": "2025-11-26T18:28:01.614091+00:00"
-    },
-    {
-      "title": "Huawei Mate 80 Pro Max has the world’s brightest phone screen - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "Huawei claims the Mate 80 Pro Max will hit 8,000 nits at peak brightness, as it releases the Mate 80...",
-      "url": "https://www.theverge.com/news/828543/huawei-mate-80-pro-max-dual-layer-oled-display-8000-nits",
-      "publishedAt": "2025-11-25T12:21:49Z",
-      "processed_at": "2025-11-26T18:28:01.614091+00:00"
-    },
-    {
-      "title": "Surreal demonic skateboarding sim Skate Story will be available day one on PS Plus - Eurogamer",
-      "source": {
-        "name": "Eurogamer.net"
-      },
-      "description": "Skate Story will be available on PS Plus when it releases on 8th December....",
-      "url": "https://www.eurogamer.net/surreal-demonic-skateboarding-sim-skate-story-will-be-available-day-one-on-ps-plus",
-      "publishedAt": "2025-11-25T12:21:03Z",
-      "processed_at": "2025-11-26T18:28:01.614091+00:00"
-    },
-    {
-      "title": "Report: Rockstar fired staff after Slack policy changes prompted discussion in external Discord - GamesIndustry.biz",
-      "source": {
-        "name": "GamesIndustry.biz"
-      },
-      "description": "A new report claims that Grand Theft Auto giant Rockstar’s recent dismissal of 34 staff for \"gross m...",
-      "url": "https://www.gamesindustry.biz/report-rockstar-fired-staff-after-slack-policy-changes-prompted-discussion-in-external-discord",
-      "publishedAt": "2025-11-25T11:22:10Z",
-      "processed_at": "2025-11-26T18:28:01.614091+00:00"
+      "description": "Destiny 2's Renegades expansion is nearly here, and with it, we'll see some of the best buffs the ga...",
+      "url": "https://www.forbes.com/sites/paultassi/2025/11/25/destiny-2-renegades-will-have-some-of-the-games-best-buffs-in-years/",
+      "publishedAt": "2025-11-25T14:55:37Z",
+      "processed_at": "2025-11-26T19:17:01.265726+00:00"
     }
   ],
-  "lastUpdated": "2025-11-26T18:28:01.614167+00:00",
+  "lastUpdated": "2025-11-26T19:17:01.265800+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
