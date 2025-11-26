@@ -1,36 +1,86 @@
 {
   "status": "success",
-  "totalResults": 8,
+  "totalResults": 10,
   "articles": [
     {
-      "title": "\"It's extremely frustrating and also f*cked up\" - one of the world's best indie studios is facing shock closure following confounding Steam ban - Eurogamer",
-      "source": {
-        "name": "Eurogamer.net"
-      },
-      "description": "",
-      "url": "https://www.eurogamer.net/its-extremely-frustrating-and-also-fcked-up-one-of-the-worlds-best-indie-studios-is-facing-shock-closure-following-confounding-steam-ban",
-      "publishedAt": "2025-11-25T17:00:33Z",
-      "processed_at": "2025-11-26T20:23:40.838330+00:00"
-    },
-    {
-      "title": "Google’s official Pixel cases and watch bands are on deep discount for Black Friday - 9to5Google",
-      "source": {
-        "name": "9to5google.com"
-      },
-      "description": "You can already get Pixel phones at a huge discount for Black Friday 2025, but Google is also offeri...",
-      "url": "http://9to5google.com/2025/11/25/google-pixel-cases-watch-bands-black-friday-sales/",
-      "publishedAt": "2025-11-25T16:55:00Z",
-      "processed_at": "2025-11-26T20:23:40.838330+00:00"
-    },
-    {
-      "title": "Valve’s Steam Machine looks like a console, but don’t expect it to be priced like one - Ars Technica",
+      "title": "Plex’s crackdown on free remote streaming access starts this week - Ars Technica",
       "source": {
         "name": "Ars Technica"
       },
-      "description": "Upcoming gaming box will be priced in line with a similarly specced PC, Valve says....",
-      "url": "https://arstechnica.com/gaming/2025/11/valves-steam-machine-looks-like-a-console-but-dont-expect-it-to-be-priced-like-one/",
-      "publishedAt": "2025-11-25T16:51:40Z",
-      "processed_at": "2025-11-26T20:23:40.838330+00:00"
+      "description": "Roku users will be hit first....",
+      "url": "https://arstechnica.com/gadgets/2025/11/plexs-crackdown-on-free-remote-streaming-access-starts-this-week/",
+      "publishedAt": "2025-11-25T21:22:17Z",
+      "processed_at": "2025-11-26T21:18:58.814241+00:00"
+    },
+    {
+      "title": "Spiking memory prices mean that it is once again a horrible time to build a PC - Ars Technica",
+      "source": {
+        "name": "Ars Technica"
+      },
+      "description": "Some RAM kits are over three times as expensive as they were three months ago....",
+      "url": "https://arstechnica.com/gadgets/2025/11/spiking-memory-prices-mean-that-it-is-once-again-a-horrible-time-to-build-a-pc/",
+      "publishedAt": "2025-11-25T20:15:37Z",
+      "processed_at": "2025-11-26T21:18:58.814241+00:00"
+    },
+    {
+      "title": "The Nothing (1) Headset Is Discounted Early for Black Friday - WIRED",
+      "source": {
+        "name": "Wired"
+      },
+      "description": "These over-ear headphones compete with the Airpods Max at a fraction of the price....",
+      "url": "https://www.wired.com/story/nothing-1-headset-deal-1125/",
+      "publishedAt": "2025-11-25T18:08:00Z",
+      "processed_at": "2025-11-26T21:18:58.814241+00:00"
+    },
+    {
+      "title": "Your Complete PvE Guide to the Final Justice Pokémon GO Event - Pokémon GO Hub",
+      "source": {
+        "name": "Pokemon GO Hub"
+      },
+      "description": "If you’re ready to wrap up the Tales of Transformation season, the Final Justice event is where it a...",
+      "url": "https://pokemongohub.net/post/meta/your-complete-pve-guide-to-the-final-justice-pokemon-go-event/",
+      "publishedAt": "2025-11-25T18:00:00Z",
+      "processed_at": "2025-11-26T21:18:58.814241+00:00"
+    },
+    {
+      "title": "Apple’s AirPods 4 are on sale starting at just $69 for Black Friday - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "The AirPods 4 are a great, inexpensive pair of wireless earbuds. And right now, they’re on sale for ...",
+      "url": "https://www.theverge.com/gadgets/828725/apple-airpods-4-anc-black-friday-deal-sale-2025",
+      "publishedAt": "2025-11-25T17:18:44Z",
+      "processed_at": "2025-11-26T21:18:58.814241+00:00"
+    },
+    {
+      "title": "'It is scary, humiliating, and patronizing:' Santa Ragione facing closure after Horses banned from Steam - Game Developer",
+      "source": {
+        "name": "Gamedeveloper.com"
+      },
+      "description": "The Italian studio's upcoming horror title, Horses, has been barred from Steam ahead of its release ...",
+      "url": "https://www.gamedeveloper.com/business/-it-is-scary-humiliating-and-patronising-santa-ragione-facing-closure-after-horses-barred-from-steam",
+      "publishedAt": "2025-11-25T17:00:13Z",
+      "processed_at": "2025-11-26T21:18:58.814241+00:00"
+    },
+    {
+      "title": "Star Fox Programmer's Next Game May As Well Be A New Entry In Nintendo's Series - Nintendo Life",
+      "source": {
+        "name": "Nintendo Life"
+      },
+      "description": "New gameplay is more than Peppy...",
+      "url": "https://www.nintendolife.com/news/2025/11/star-fox-programmers-next-game-may-as-well-be-a-new-entry-in-nintendos-series",
+      "publishedAt": "2025-11-25T17:00:00Z",
+      "processed_at": "2025-11-26T21:18:58.814241+00:00"
+    },
+    {
+      "title": "Walmart’s $9 Google TV streaming stick is a Black Friday no-brainer - 9to5Google",
+      "source": {
+        "name": "9to5google.com"
+      },
+      "description": "If you're looking for a Google TV device for the bedroom, guest room, or anywhere else, Walmart's op...",
+      "url": "http://9to5google.com/2025/11/25/walmart-google-tv-streaming-stick-black-friday-deal/",
+      "publishedAt": "2025-11-25T16:32:00Z",
+      "processed_at": "2025-11-26T21:18:58.814241+00:00"
     },
     {
       "title": "Minecraft 1.21.11 Pre-Release 3 - Minecraft",
@@ -40,50 +90,20 @@
       "description": "Minecraft 1.21.11 Pre-Release 3...",
       "url": "https://www.minecraft.net/en-us/article/minecraft-1-21-11-pre-release-3",
       "publishedAt": "2025-11-25T16:08:20Z",
-      "processed_at": "2025-11-26T20:23:40.838330+00:00"
+      "processed_at": "2025-11-26T21:18:58.814241+00:00"
     },
     {
-      "title": "Persona and Metaphor: ReFantazio creator wants to create \"JRPG 3.0\", so what does that mean for Persona 6? - Eurogamer",
+      "title": "ROG Xbox Ally adds default game profiles to help you save battery - The Verge",
       "source": {
-        "name": "Eurogamer.net"
+        "name": "The Verge"
       },
-      "description": "Katsura Hashino, director of Metaphor: ReFantazio and the Persona games at Atlus, wants to create \"J...",
-      "url": "https://www.eurogamer.net/persona-and-metaphor-refantazio-creator-wants-to-create-jrpg-30-so-what-does-that-mean-for-persona-6",
-      "publishedAt": "2025-11-25T16:02:03Z",
-      "processed_at": "2025-11-26T20:23:40.838330+00:00"
-    },
-    {
-      "title": "Hyrule Warriors: Age Of Imprisonment Adds New Weapons & Challenges In Free Update This Week - Nintendo Life",
-      "source": {
-        "name": "Nintendo Life"
-      },
-      "description": "Happy Thanksgiving from Zelda and co.!...",
-      "url": "https://www.nintendolife.com/news/2025/11/hyrule-warriors-age-of-imprisonment-adds-new-weapons-and-challenges-in-free-update-this-week",
-      "publishedAt": "2025-11-25T15:00:00Z",
-      "processed_at": "2025-11-26T20:23:40.838330+00:00"
-    },
-    {
-      "title": "Brave a void ship overrun with Tyranids in the next free update for Space Marine 2 - Warhammer Community",
-      "source": {
-        "name": "Warhammer-community.com"
-      },
-      "description": "Plus, new cosmetics for the Blood Angels and Salamanders are here....",
-      "url": "https://www.warhammer-community.com/articles/qtmimgx3/brave-a-void-ship-overrun-with-tyranids-in-the-next-free-update-for-space-marine-2",
-      "publishedAt": "2025-11-25T14:59:39Z",
-      "processed_at": "2025-11-26T20:23:40.838330+00:00"
-    },
-    {
-      "title": "‘Destiny 2: Renegades’ Will Have Some Of The Game’s Best Buffs In Years - Forbes",
-      "source": {
-        "name": "Forbes"
-      },
-      "description": "Destiny 2's Renegades expansion is nearly here, and with it, we'll see some of the best buffs the ga...",
-      "url": "https://www.forbes.com/sites/paultassi/2025/11/25/destiny-2-renegades-will-have-some-of-the-games-best-buffs-in-years/",
-      "publishedAt": "2025-11-25T14:55:37Z",
-      "processed_at": "2025-11-26T20:23:40.838330+00:00"
+      "description": "Microsoft is launching default game profiles on the ROG Xbox Ally handheld, which automatically opti...",
+      "url": "https://www.theverge.com/news/828775/microsoft-rog-xbox-ally-default-game-profiles",
+      "publishedAt": "2025-11-25T16:08:07Z",
+      "processed_at": "2025-11-26T21:18:58.814241+00:00"
     }
   ],
-  "lastUpdated": "2025-11-26T20:23:40.838402+00:00",
+  "lastUpdated": "2025-11-26T21:18:58.814318+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
