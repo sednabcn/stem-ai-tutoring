@@ -1,26 +1,46 @@
 {
   "status": "success",
-  "totalResults": 9,
+  "totalResults": 10,
   "articles": [
     {
-      "title": "The Steam Machine Doesn't Even Have To Try - GameSpot",
+      "title": "Pokémon GO Tour: Kalos 2026 – Global - Pokémon GO Hub",
+      "source": {
+        "name": "Pokemon GO Hub"
+      },
+      "description": "GO Tour 2026: Global takes place from February 28, 2026 to March 1, 2026 anywhere in the world! Even...",
+      "url": "https://pokemongohub.net/post/event/pokemon-go-tour-kalos-2026-global/",
+      "publishedAt": "2025-11-27T05:27:10Z",
+      "processed_at": "2025-11-28T07:21:01.800781+00:00"
+    },
+    {
+      "title": "Arc Raiders Is Discounted On PC Until December 1 - GameSpot",
       "source": {
         "name": "GameSpot"
       },
-      "description": "Valve's new console-like system has a lot of potential to shake up the already weakening console mar...",
-      "url": "https://www.gamespot.com/articles/the-steam-machine-doesnt-even-have-to-try/1100-6536541/",
-      "publishedAt": "2025-11-26T22:36:16Z",
-      "processed_at": "2025-11-28T06:34:04.392418+00:00"
+      "description": "Arc Raiders is one of the hottest games on the market, and right now you can snag a Steam key for ch...",
+      "url": "https://www.gamespot.com/articles/fanatical-arc-raiders-black-friday-deal/1100-6536437/",
+      "publishedAt": "2025-11-27T01:03:19Z",
+      "processed_at": "2025-11-28T07:21:01.800781+00:00"
     },
     {
-      "title": "Account Behind Viral AI GTA 6 Bait Claims It Was ‘Just A Joke’ - Kotaku",
+      "title": "How to Build a PC Equivalent to the Steam Machine - IGN",
       "source": {
-        "name": "Kotaku"
+        "name": "IGN"
       },
-      "description": "An AI-generated video claiming to show off impressive GTA 6 graphics in action went viral this week...",
-      "url": "https://kotaku.com/account-behind-viral-ai-gta-6-bait-claims-it-was-just-a-joke-2000647720",
-      "publishedAt": "2025-11-26T22:16:36Z",
-      "processed_at": "2025-11-28T06:34:04.392418+00:00"
+      "description": "Valve says the Steam Machine will cost as much as an equivalent PC, but what does that mean?...",
+      "url": "https://www.ign.com/articles/how-to-build-a-pc-equivalent-to-the-steam-machine",
+      "publishedAt": "2025-11-27T00:28:18Z",
+      "processed_at": "2025-11-28T07:21:01.800781+00:00"
+    },
+    {
+      "title": "HP Gives Amazon Thousands of Laptops to Sell, Now 128GB Model Cheaper Than Budget Chromebooks - Gizmodo",
+      "source": {
+        "name": "Gizmodo.com"
+      },
+      "description": "Affordable Windows 11 laptop....",
+      "url": "https://gizmodo.com/hp-gives-amazon-thousands-of-laptops-to-sell-now-128gb-model-cheaper-than-budget-chromebooks-2000692334",
+      "publishedAt": "2025-11-26T22:55:06Z",
+      "processed_at": "2025-11-28T07:21:01.800781+00:00"
     },
     {
       "title": "Every Mario Switch Game on Sale During Black Friday This Year - IGN",
@@ -30,17 +50,17 @@
       "description": "Get a look at every Mario game on sale during Black Friday 2025, including which ones are worth pick...",
       "url": "https://www.ign.com/articles/mario-games-nintendo-switch-black-friday-deals-2025",
       "publishedAt": "2025-11-26T21:44:45Z",
-      "processed_at": "2025-11-28T06:34:04.392418+00:00"
+      "processed_at": "2025-11-28T07:21:01.800781+00:00"
     },
     {
-      "title": "Black Friday TV deals are live with huge discounts (and giant screens) from Samsung, Sony, Hisense and more — save up to 60% - Yahoo! Tech",
+      "title": "I've been tracking PS5 Black Friday deals since launch — here's today's best discounts on consoles, games and accessories - Tom's Guide",
       "source": {
-        "name": "Yahoo Entertainment"
+        "name": "Tom's Guide"
       },
-      "description": "Sale prices start as low as $60 (really!) for the newest TVs, ready to stream you a world of enterta...",
-      "url": "https://tech.yahoo.com/home-entertainment/tvs/deals/article/black-friday-tv-deals-are-live-with-huge-discounts-and-giant-screens-from-samsung-sony-hisense-and-more--save-up-to-60-224800957.html",
-      "publishedAt": "2025-11-26T21:21:43Z",
-      "processed_at": "2025-11-28T06:34:04.392418+00:00"
+      "description": "PlayStation's epic Black Friday sale is live...",
+      "url": "https://www.tomsguide.com/live/news/black-friday-ps5-playstation-deals-live-2025",
+      "publishedAt": "2025-11-26T21:33:37Z",
+      "processed_at": "2025-11-28T07:21:01.800781+00:00"
     },
     {
       "title": "The Super Hero Team-based PVP Shooter - Marvel Rivals",
@@ -50,7 +70,7 @@
       "description": "Play for free Now! Get ready to Ignite the Battle with Marvel Rivals!...",
       "url": "https://www.marvelrivals.com/gameupdate/20251126/41548_1273366.html",
       "publishedAt": "2025-11-26T21:04:03Z",
-      "processed_at": "2025-11-28T06:34:04.392418+00:00"
+      "processed_at": "2025-11-28T07:21:01.800781+00:00"
     },
     {
       "title": "Here's Every Xbox Game on Sale for Black Friday 2025 - IGN",
@@ -60,7 +80,17 @@
       "description": "There's already an excellent variety of Xbox video game deals available in Black Friday sales this y...",
       "url": "https://www.ign.com/articles/best-xbox-game-deal-available-for-black-friday-2025",
       "publishedAt": "2025-11-26T20:51:50Z",
-      "processed_at": "2025-11-28T06:34:04.392418+00:00"
+      "processed_at": "2025-11-28T07:21:01.800781+00:00"
+    },
+    {
+      "title": "M5 MacBook Pro vs M4 MacBook Air: Which should you buy this holiday season? - 9to5Mac",
+      "source": {
+        "name": "9to5Mac"
+      },
+      "description": "Apple offers two entry level MacBook models: the MacBook Air, and the base model MacBook Pro. There’...",
+      "url": "https://9to5mac.com/2025/11/26/m5-macbook-pro-vs-m4-macbook-air-black-friday-holiday-comparison/",
+      "publishedAt": "2025-11-26T20:21:00Z",
+      "processed_at": "2025-11-28T07:21:01.800781+00:00"
     },
     {
       "title": "Tech Firms From Dell to HP Warn of Memory Chip Squeeze From AI - Bloomberg.com",
@@ -70,30 +100,10 @@
       "description": "Dell Technologies Inc., HP Inc. and other tech companies are warning of potential memory-chip supply...",
       "url": "https://www.bloomberg.com/news/articles/2025-11-26/tech-firms-from-dell-to-hp-warn-of-memory-chip-squeeze-from-ai",
       "publishedAt": "2025-11-26T20:14:33Z",
-      "processed_at": "2025-11-28T06:34:04.392418+00:00"
-    },
-    {
-      "title": "Every PS5 DualSense Controller Color and Limited Edition on Sale for Black Friday 2025 - IGN",
-      "source": {
-        "name": "IGN"
-      },
-      "description": "Spoiler: it's literally every color....",
-      "url": "https://www.ign.com/articles/every-ps5-dualsense-controller-deal-black-friday-2025",
-      "publishedAt": "2025-11-26T18:16:51Z",
-      "processed_at": "2025-11-28T06:34:04.392418+00:00"
-    },
-    {
-      "title": "Is Fortnite down? Gamers report issues Nov. 26. Epic Games response - Bergen Record",
-      "source": {
-        "name": "NorthJersey.com"
-      },
-      "description": "Gamers were reporting issues with the Epic Games battle royale video game during the afternoon of We...",
-      "url": "https://www.northjersey.com/story/tech/gaming/2025/11/26/is-fortnite-down-users-report-issues-nov-26-epic-games-response/87483797007/",
-      "publishedAt": "2025-11-26T18:02:01Z",
-      "processed_at": "2025-11-28T06:34:04.392418+00:00"
+      "processed_at": "2025-11-28T07:21:01.800781+00:00"
     }
   ],
-  "lastUpdated": "2025-11-28T06:34:04.392492+00:00",
+  "lastUpdated": "2025-11-28T07:21:01.800857+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
