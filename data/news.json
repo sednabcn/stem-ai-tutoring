@@ -1,26 +1,56 @@
 {
   "status": "success",
-  "totalResults": 8,
+  "totalResults": 10,
   "articles": [
     {
-      "title": "I Found 60+ Anker Deals for Your Black Friday Haul - CNET",
+      "title": "The Black Friday Gaming Deals Are Here. Shop Now and Save Big on PlayStation, Xbox and Alienware - CNET",
       "source": {
         "name": "CNET"
       },
-      "description": "Anker's Black Friday deals are live with massive discounts on its products. Our favorites include de...",
-      "url": "https://www.cnet.com/deals/best-black-friday-anker-deals-2025-11-27/",
-      "publishedAt": "2025-11-28T05:05:31Z",
-      "processed_at": "2025-11-29T10:20:47.238310+00:00"
+      "description": "Black Friday sales are here, and major stores have big discounts right now. You can start shopping i...",
+      "url": "https://www.cnet.com/deals/best-black-friday-gaming-deals-2025-11-28/",
+      "publishedAt": "2025-11-28T12:07:03Z",
+      "processed_at": "2025-11-29T11:16:35.706710+00:00"
     },
     {
-      "title": "I just found the 13 best Black Friday laptop and computer deals so you don’t have to - CNN",
+      "title": "This $500 Dell Laptop Will Blow You Away, and It's Only This Cheap Today - WIRED",
       "source": {
-        "name": "CNN"
+        "name": "Wired"
       },
-      "description": "Don’t buy just any computer this Black Friday. Our PC expert picked out the laptop and computer deal...",
-      "url": "https://www.cnn.com/cnn-underscored/deals/black-friday-laptop-computer-deals-2025-11-27",
-      "publishedAt": "2025-11-28T01:41:00Z",
-      "processed_at": "2025-11-29T10:20:47.238310+00:00"
+      "description": "With a new low price, Dell just launched the best laptop deal from Black Friday I've seen so far....",
+      "url": "https://www.wired.com/story/dell-14-plus-black-friday-2025-1/",
+      "publishedAt": "2025-11-28T10:13:00Z",
+      "processed_at": "2025-11-29T11:16:35.706710+00:00"
+    },
+    {
+      "title": "Walmart’s Black Friday laptop deals are wild this year — our TOP picks - Windows Central",
+      "source": {
+        "name": "Windows Central"
+      },
+      "description": "Walmart just dropped some of its best Black Friday laptop deals yet, with big savings on gaming rigs...",
+      "url": "https://www.windowscentral.com/hardware/laptops/walmart-black-friday-laptop-deals",
+      "publishedAt": "2025-11-28T10:04:02Z",
+      "processed_at": "2025-11-29T11:16:35.706710+00:00"
+    },
+    {
+      "title": "I'm picking the best PS5 Black Friday deals live — discounts from $19 on consoles, controllers, games and more - Tom's Guide",
+      "source": {
+        "name": "Tom's Guide"
+      },
+      "description": "There are plenty of epic PS5 deals this Black Friday...",
+      "url": "https://www.tomsguide.com/live/news/black-friday-ps5-deals-live-2025",
+      "publishedAt": "2025-11-28T09:36:32Z",
+      "processed_at": "2025-11-29T11:16:35.706710+00:00"
+    },
+    {
+      "title": "Black Friday AirPods 4 and AirPods Pro deals: Apple's latest now at the best prices ever from $69 - 9to5Toys",
+      "source": {
+        "name": "9to5Toys"
+      },
+      "description": "The best Black Friday AirPods deals are already here folks. It was hard to say what we were going to...",
+      "url": "http://9to5toys.com/2025/11/28/black-friday-airpods-deals/",
+      "publishedAt": "2025-11-28T08:01:00Z",
+      "processed_at": "2025-11-29T11:16:35.706710+00:00"
     },
     {
       "title": "Google CEO says vibe coding has made software development 'so much more enjoyable' and 'exciting again' - Business Insider",
@@ -30,27 +60,7 @@
       "description": "Google CEO Sundar Pichai said vibe coding is making software development more accessible to non-tech...",
       "url": "https://www.businessinsider.com/google-sundar-pichai-vibe-coding-software-development-exciting-again-2025-11",
       "publishedAt": "2025-11-28T01:16:00Z",
-      "processed_at": "2025-11-29T10:20:47.238310+00:00"
-    },
-    {
-      "title": "The DualSense Edge has fallen to one of the lowest we’ve seen for Black Friday - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "We’ve seen the pro-grade DualSense Edge controller drop in price a few times this year, but you can ...",
-      "url": "https://www.theverge.com/gadgets/822252/sony-dualsense-edge-controller-black-friday-deal-sale-2025",
-      "publishedAt": "2025-11-27T23:00:00Z",
-      "processed_at": "2025-11-29T10:20:47.238310+00:00"
-    },
-    {
-      "title": "r/art drama explained: Reddit mod sparks chaos after banning artist - Dexerto",
-      "source": {
-        "name": "Dexerto"
-      },
-      "description": "Reddit’s r/Art subreddit was sent into chaos after artist Hayden Clay received a ban for mentioning ...",
-      "url": "https://www.dexerto.com/entertainment/r-art-drama-explained-reddit-mod-sparks-chaos-after-banning-artist-3287798/",
-      "publishedAt": "2025-11-27T22:46:33Z",
-      "processed_at": "2025-11-29T10:20:47.238310+00:00"
+      "processed_at": "2025-11-29T11:16:35.706710+00:00"
     },
     {
       "title": "HP Quietly Clears 1TB 17\" Laptop at 71% Off Through Amazon, Refuses to Show It on Own Site - Gizmodo",
@@ -60,30 +70,40 @@
       "description": "Powers 10 cores to 4.6GHz, displays 17.3 inches, stores everything on 1TB SSD....",
       "url": "https://gizmodo.com/hp-quietly-clears-1tb-17-laptop-at-71-off-through-amazon-refuses-to-show-it-on-own-site-2000692864",
       "publishedAt": "2025-11-27T22:20:55Z",
-      "processed_at": "2025-11-29T10:20:47.238310+00:00"
+      "processed_at": "2025-11-29T11:16:35.706710+00:00"
     },
     {
-      "title": "The Ray-Ban Meta smart glasses are at their best-ever price for Black Friday - The Verge",
+      "title": "Samsung 65\" OLED S90F TV Hits All-Time Low, 2025 Model Now Cheaper Than Last Year's Version - Kotaku",
       "source": {
-        "name": "The Verge"
+        "name": "Kotaku"
       },
-      "description": "The Ray-Ban Meta (Gen 1) are matching their all-time low of around $239 for Black Friday, making it ...",
-      "url": "https://www.theverge.com/gadgets/829574/ray-ban-meta-smart-glasses-gen-1-black-friday-deal-sale-2025",
-      "publishedAt": "2025-11-27T21:00:00Z",
-      "processed_at": "2025-11-29T10:20:47.238310+00:00"
+      "description": "The best OLED TV you can get is now a lot more affordable....",
+      "url": "https://kotaku.com/samsung-65-oled-s90f-tv-hits-all-time-low-2025-model-now-cheaper-than-last-years-version-2000648184",
+      "publishedAt": "2025-11-27T22:05:36Z",
+      "processed_at": "2025-11-29T11:16:35.706710+00:00"
     },
     {
-      "title": "Destiny 2 Renegades' new Invasion system in Lawless Frontier activity could become a core part of future Destiny content, says game director Tyson Green - The Game Post",
+      "title": "Man Keeps Rock For Years, Hoping It's Gold. It Turned Out to Be Way More Valuable. - ScienceAlert",
       "source": {
-        "name": "Thegamepost.com"
+        "name": "ScienceAlert"
       },
-      "description": "Destiny 2 Renegades brings a Gambit-inspired Invasion system to the new Lawless Frontier activity, a...",
-      "url": "https://thegamepost.com/destiny-2-renegades-invasion-system-core-part-future-content/",
-      "publishedAt": "2025-11-27T20:44:28Z",
-      "processed_at": "2025-11-29T10:20:47.238310+00:00"
+      "description": "In 2015, David Hole was prospecting in Maryborough Regional Park near Melbourne, Australia....",
+      "url": "https://www.sciencealert.com/man-keeps-rock-for-years-hoping-its-gold-it-turned-out-to-be-way-more-valuable",
+      "publishedAt": "2025-11-27T22:04:14Z",
+      "processed_at": "2025-11-29T11:16:35.706710+00:00"
+    },
+    {
+      "title": "Google changes Gemini 3 Pro free access limits due to ‘high demand’ - 9to5Google",
+      "source": {
+        "name": "9to5google.com"
+      },
+      "description": "Since the launch of Gemini 3 Pro and Nano Banana Pro, Google looks to have limited what free users c...",
+      "url": "http://9to5google.com/2025/11/27/gemini-3-pro-free-limits/",
+      "publishedAt": "2025-11-27T21:19:00Z",
+      "processed_at": "2025-11-29T11:16:35.706710+00:00"
     }
   ],
-  "lastUpdated": "2025-11-29T10:20:47.238382+00:00",
+  "lastUpdated": "2025-11-29T11:16:35.706779+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
