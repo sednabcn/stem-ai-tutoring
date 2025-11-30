@@ -1,26 +1,56 @@
 {
   "status": "success",
-  "totalResults": 9,
+  "totalResults": 10,
   "articles": [
     {
-      "title": "Is Nintendo Switch 2 On Sale For Black Friday? - IGN",
+      "title": "I’ve found the 19 best Black Friday laptop and computer deals that are still alive - CNN",
+      "source": {
+        "name": "CNN"
+      },
+      "description": "Don’t buy just any computer this Black Friday. Our PC expert picked out the laptop and computer deal...",
+      "url": "https://www.cnn.com/cnn-underscored/deals/black-friday-laptop-computer-deals-2025-11-28",
+      "publishedAt": "2025-11-29T12:36:00Z",
+      "processed_at": "2025-11-30T13:27:08.658648+00:00"
+    },
+    {
+      "title": "Best Black Friday Pokémon deals 2025: Trading cards, games, collectibles, and more - Mashable",
+      "source": {
+        "name": "Mashable"
+      },
+      "description": "Catch discounts on trading cards, games, collectibles, and much more....",
+      "url": "https://mashable.com/article/best-black-friday-pokemon-deals-2025-still-available",
+      "publishedAt": "2025-11-29T11:22:27Z",
+      "processed_at": "2025-11-30T13:27:08.658648+00:00"
+    },
+    {
+      "title": "The Best Nintendo Deals for Black Friday 2025: Discounts on Switch Consoles, Games, and More - IGN",
       "source": {
         "name": "IGN"
       },
-      "description": "While the Nintendo Switch 2 doesn't look likely to see a big price cut this week, there are savings ...",
-      "url": "https://www.ign.com/articles/black-friday-deals-nintendo-switch-2-consoles-bundles-where-to-buy",
-      "publishedAt": "2025-11-29T09:29:36Z",
-      "processed_at": "2025-11-30T12:40:00.351196+00:00"
+      "description": "Here's what's up for grabs now that Nintendo's official Black Friday 2025 sale is now live across al...",
+      "url": "https://www.ign.com/articles/nintendo-black-friday-2025-best-deals",
+      "publishedAt": "2025-11-29T11:20:19Z",
+      "processed_at": "2025-11-30T13:27:08.658648+00:00"
     },
     {
-      "title": "I'm tracking the best Black Friday TV deals LIVE — here are the can't-miss deals on 65-, 75- and 85-inch TVs you can still get - Tom's Guide",
+      "title": "Covid 2020: The surreal 'hugging room' in a care home - BBC",
       "source": {
-        "name": "Tom's Guide"
+        "name": "BBC News"
       },
-      "description": "Black Friday deals have arrived!...",
-      "url": "https://www.tomsguide.com/tvs/live/were-tracking-the-best-black-friday-tv-deals-live-the-best-oled-mini-led-and-qd-oled-deals-from-samsung-sony-lg-and-more",
-      "publishedAt": "2025-11-29T09:24:44Z",
-      "processed_at": "2025-11-30T12:40:00.351196+00:00"
+      "description": "In November 2020, one Italian care home created an ingenious solution to Covid's isolation: a \"huggi...",
+      "url": "https://www.bbc.com/future/article/20251128-covid-2020-the-surreal-hugging-room-in-a-care-home",
+      "publishedAt": "2025-11-29T10:00:30Z",
+      "processed_at": "2025-11-30T13:27:08.658648+00:00"
+    },
+    {
+      "title": "MSI GeForce RTX 5070 SHADOW 2X OC drops to $479, $70 under NVIDIA MSRP - VideoCardz.com",
+      "source": {
+        "name": "Videocardz.com"
+      },
+      "description": "NVIDIA RTX 5070 drops $70 below MSRP Better late than never. MSI’s GeForce RTX 5070 12G SHADOW 2X OC...",
+      "url": "https://videocardz.com/newz/msi-geforce-rtx-5070-shadow-2x-oc-drops-to-479-70-under-nvidia-msrp",
+      "publishedAt": "2025-11-29T09:37:00Z",
+      "processed_at": "2025-11-30T13:27:08.658648+00:00"
     },
     {
       "title": "iPhone Black Friday deals LIVE — here are the best offers I've found on iPhone 17, iPhone 17 Pro and more - Tom's Guide",
@@ -30,7 +60,7 @@
       "description": "Here’s the best iPhone offers I’ve found so far...",
       "url": "https://www.tomsguide.com/sales-events/live/i-found-the-best-iphone-black-friday-deals-live-biggest-sales-right-now-on-iphone-17-iphone-17-pro-and-more",
       "publishedAt": "2025-11-29T09:15:39Z",
-      "processed_at": "2025-11-30T12:40:00.351196+00:00"
+      "processed_at": "2025-11-30T13:27:08.658648+00:00"
     },
     {
       "title": "The best Black Friday deals you can still get on AirTags, iPad, and other Apple gear - The Verge",
@@ -40,7 +70,7 @@
       "description": "Black Friday 2025 is bringing steep discounts on both current and last-gen Apple gadgets. From AirPo...",
       "url": "https://www.theverge.com/gadgets/827826/best-black-friday-apple-deals-sale-2025",
       "publishedAt": "2025-11-29T06:59:00Z",
-      "processed_at": "2025-11-30T12:40:00.351196+00:00"
+      "processed_at": "2025-11-30T13:27:08.658648+00:00"
     },
     {
       "title": "The M4 MacBook Air is one of the best Apple deals you can get for Black Friday - The Verge",
@@ -50,7 +80,7 @@
       "description": "The 13-inch M4 MacBook Air is on sale at multiple retailers for $749 for Black Friday, which remains...",
       "url": "https://www.theverge.com/gadgets/832969/black-friday-macbook-air-m4-13-15-inch-deal-sale-2025",
       "publishedAt": "2025-11-29T04:35:00Z",
-      "processed_at": "2025-11-30T12:40:00.351196+00:00"
+      "processed_at": "2025-11-30T13:27:08.658648+00:00"
     },
     {
       "title": "You can pick up 32GB of DDR5 RAM with a whole PC for $999 for Black Friday - The Verge",
@@ -60,40 +90,20 @@
       "description": "RAM memory isn’t cheap right now, so instead of getting parts piecemeal, perhaps buying a prebuilt g...",
       "url": "https://www.theverge.com/gadgets/830678/black-friday-ibuypower-gaming-pc-5060ti-prebuilt-ddr5-ram-deal-sale-2025",
       "publishedAt": "2025-11-29T02:30:00Z",
-      "processed_at": "2025-11-30T12:40:00.351196+00:00"
+      "processed_at": "2025-11-30T13:27:08.658648+00:00"
     },
     {
-      "title": "Metroid Prime 4: Beyond Difficulty Settings Revealed By Nintendo - Nintendo Life",
+      "title": "Not everyone should buy the Garmin Fenix 8 Black Friday deal, no matter how good it is - Android Central",
       "source": {
-        "name": "Nintendo Life"
+        "name": "Android Central"
       },
-      "description": "Something for everyone...",
-      "url": "https://www.nintendolife.com/news/2025/11/metroid-prime-4-beyond-difficulty-settings-revealed-by-nintendo",
-      "publishedAt": "2025-11-29T02:05:00Z",
-      "processed_at": "2025-11-30T12:40:00.351196+00:00"
-    },
-    {
-      "title": "I Found Every Black Friday Board Game Deal Worth Buying in 2025 - IGN",
-      "source": {
-        "name": "IGN"
-      },
-      "description": "We've scoured the Black Friday deals to bring you the biggest discounts on the best board games you ...",
-      "url": "https://www.ign.com/articles/best-board-game-deals-black-friday-2025",
-      "publishedAt": "2025-11-28T23:45:39Z",
-      "processed_at": "2025-11-30T12:40:00.351196+00:00"
-    },
-    {
-      "title": "The Best Black Friday 2025 VR Headset Discounts & Deals - UploadVR",
-      "source": {
-        "name": "UploadVR"
-      },
-      "description": "Considering jumping into VR this Black Friday, or gifting a headset to a friend or relative so they ...",
-      "url": "https://www.uploadvr.com/best-black-friday-2025-vr-headset-deals/",
-      "publishedAt": "2025-11-28T22:09:39Z",
-      "processed_at": "2025-11-30T12:40:00.351196+00:00"
+      "description": "Having reviewed the Garmin Fenix 8, I know how impressive it is; I've also reviewed much cheaper Gar...",
+      "url": "https://www.androidcentral.com/wearables/garmin/the-fenix-8-has-never-been-cheaper-is-it-a-mistake-to-buy-one",
+      "publishedAt": "2025-11-29T02:20:00Z",
+      "processed_at": "2025-11-30T13:27:08.658648+00:00"
     }
   ],
-  "lastUpdated": "2025-11-30T12:40:00.351268+00:00",
+  "lastUpdated": "2025-11-30T13:27:08.658727+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
