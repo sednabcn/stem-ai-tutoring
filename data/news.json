@@ -1,7 +1,87 @@
 {
   "status": "success",
-  "totalResults": 10,
+  "totalResults": 9,
   "articles": [
+    {
+      "title": "The Alienware Cyber Monday Sale Looks Better Than Black Friday With New Gaming PC and Laptop Deals - IGN",
+      "source": {
+        "name": "IGN"
+      },
+      "description": "No better time to upgrade your PC for the next generation of games....",
+      "url": "https://www.ign.com/articles/alienware-cyber-monday-sale-2025-best-deals-on-gaming-pcs-and-laptops",
+      "publishedAt": "2025-12-01T14:37:09Z",
+      "processed_at": "2025-12-02T13:37:21.002048+00:00"
+    },
+    {
+      "title": "Best Cyber Monday iPhone deals 2025 LIVE — big savings on iPhone 17, iPhone 17 Pro and more - Tom's Guide",
+      "source": {
+        "name": "Tom's Guide"
+      },
+      "description": "Here’s the best iPhone offers I’ve found so far...",
+      "url": "https://www.tomsguide.com/live/news/best-iphone-cyber-monday-deals",
+      "publishedAt": "2025-12-01T13:33:42Z",
+      "processed_at": "2025-12-02T13:37:21.002048+00:00"
+    },
+    {
+      "title": "Review: Assassin's Creed Shadows (Switch 2) - An Ambitious Port Of A Captivating Series Refresh - Nintendo Life",
+      "source": {
+        "name": "Nintendo Life"
+      },
+      "description": "Without a Shadow of a doubt...",
+      "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/assassins-creed-shadows",
+      "publishedAt": "2025-12-01T13:00:00Z",
+      "processed_at": "2025-12-02T13:37:21.002048+00:00"
+    },
+    {
+      "title": "Apple’s M2 MacBook Air is just $599 during Cyber Monday - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "Apple’s 13-inch M2 MacBook Air is down to $599 ($200 off) at Best Buy for Cyber Monday. It comes wit...",
+      "url": "https://www.theverge.com/gadgets/834693/apple-m2-macbook-air-cyber-monday-deal-sale",
+      "publishedAt": "2025-12-01T12:30:00Z",
+      "processed_at": "2025-12-02T13:37:21.002048+00:00"
+    },
+    {
+      "title": "GTA 6 animation seemingly leaks via employee's demo reel, and Rockstar is now trying to remove it from the internet - Eurogamer",
+      "source": {
+        "name": "Eurogamer.net"
+      },
+      "description": "A small amount of animated footage widely believed to be from GTA 6 was featured in a demo reel by a...",
+      "url": "https://www.eurogamer.net/gta-6-animation-seemingly-leaks-via-employees-demo-reel-and-rockstar-is-now-trying-to-remove-it-from-the-internet",
+      "publishedAt": "2025-12-01T12:09:56Z",
+      "processed_at": "2025-12-02T13:37:21.002048+00:00"
+    },
+    {
+      "title": "Where Winds Meet Players Are Using the 'Solid Snake Method' to Trick AI Chatbot NPCs Into Skipping Sidequests - IGN",
+      "source": {
+        "name": "IGN"
+      },
+      "description": "Where Winds Meet players are taking a novel approach to solving riddles by… simply telling the game'...",
+      "url": "https://www.ign.com/articles/where-winds-meet-players-are-using-the-solid-snake-method-to-trick-ai-chatbot-npcs-into-skipping-sidequests",
+      "publishedAt": "2025-12-01T12:06:02Z",
+      "processed_at": "2025-12-02T13:37:21.002048+00:00"
+    },
+    {
+      "title": "After 40 years of adventure games, Ron Gilbert pivots to outrunning Death - Ars Technica",
+      "source": {
+        "name": "Ars Technica"
+      },
+      "description": "Interview: Storied designer talks lost RPG, a 3D Monkey Island, “Eat the Rich” philosophy....",
+      "url": "https://arstechnica.com/gaming/2025/12/after-40-years-of-adventure-games-ron-gilbert-pivots-to-outrunning-death/",
+      "publishedAt": "2025-12-01T12:00:09Z",
+      "processed_at": "2025-12-02T13:37:21.002048+00:00"
+    },
+    {
+      "title": "Anniversary: Monolith Soft Celebrates Xenoblade Chronicles 2 With A Post, But We're Desperate For A Switch 2 Revamp - Nintendo Life",
+      "source": {
+        "name": "Nintendo Life"
+      },
+      "description": "Happy birthday, but also why?...",
+      "url": "https://www.nintendolife.com/news/2025/12/anniversary-monolith-soft-celebrates-xenoblade-chronicles-2-with-a-post-but-were-desperate-for-a-switch-2-revamp",
+      "publishedAt": "2025-12-01T12:00:00Z",
+      "processed_at": "2025-12-02T13:37:21.002048+00:00"
+    },
     {
       "title": "These Are The Best TV Deals This Cyber Monday - WIRED",
       "source": {
@@ -10,100 +90,10 @@
       "description": "Here are the best deals on screens from Hisense, TCL, Samsung, Sony, and more this shopping holiday....",
       "url": "https://www.wired.com/story/cyber-monday-tv-deals-2025/",
       "publishedAt": "2025-12-01T10:30:08Z",
-      "processed_at": "2025-12-02T12:48:34.439566+00:00"
-    },
-    {
-      "title": "Netflix kills casting from phones - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "Netflix has removed the ability to cast shows and movies from phones to TVs, unless subscribers are ...",
-      "url": "https://www.theverge.com/news/834655/netflix-phone-casting-chromecast-support-killed",
-      "publishedAt": "2025-12-01T10:20:50Z",
-      "processed_at": "2025-12-02T12:48:34.439566+00:00"
-    },
-    {
-      "title": "Best Cyber Monday iPad deals LIVE — iPad, iPad Air, iPad Pro and more - Tom's Guide",
-      "source": {
-        "name": "Tom's Guide"
-      },
-      "description": "The best iPad sales are going strong with huge discounts...",
-      "url": "https://www.tomsguide.com/live/news/cyber-monday-apple-ipad-deals-2025",
-      "publishedAt": "2025-12-01T09:54:39Z",
-      "processed_at": "2025-12-02T12:48:34.439566+00:00"
-    },
-    {
-      "title": "Best Cyber Monday Pokémon deals 2025: Trading cards, games, collectibles, and more - Mashable",
-      "source": {
-        "name": "Mashable"
-      },
-      "description": "Catch discounts on trading cards, games, collectibles, and much more....",
-      "url": "https://mashable.com/article/best-cyber-monday-pokemon-deals-2025",
-      "publishedAt": "2025-12-01T08:28:14Z",
-      "processed_at": "2025-12-02T12:48:34.439566+00:00"
-    },
-    {
-      "title": "MKBHD's Panels wallpaper app is shutting down, here's what's next - Android Authority",
-      "source": {
-        "name": "Android Authority"
-      },
-      "description": "MKBHD is shutting down the Panels app this week. Users will get automatic refunds, and there are pla...",
-      "url": "https://www.androidauthority.com/mkbhd-panels-shutdown-3620792/",
-      "publishedAt": "2025-12-01T08:18:07Z",
-      "processed_at": "2025-12-02T12:48:34.439566+00:00"
-    },
-    {
-      "title": "These 13+ PS5, PS4, and PS Plus Games Are Coming Out This Week (1st-7th December) - Push Square",
-      "source": {
-        "name": "Push Square"
-      },
-      "description": "Marvel Cosmic Invasion! Red Dead Redemption!...",
-      "url": "https://www.pushsquare.com/guides/these-13plus-ps5-ps4-and-ps-plus-games-are-coming-out-this-week-1st-7th-december",
-      "publishedAt": "2025-12-01T07:39:03Z",
-      "processed_at": "2025-12-02T12:48:34.439566+00:00"
-    },
-    {
-      "title": "The best Cyber Monday deals on Apple MacBooks, AirTags, iPads, and more - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "Cyber Weekend brings steep discounts on both current and last-gen Apple gadgets. From AirPods to Mac...",
-      "url": "https://www.theverge.com/gadgets/827826/best-black-friday-apple-deals-sale-2025",
-      "publishedAt": "2025-12-01T02:53:00Z",
-      "processed_at": "2025-12-02T12:48:34.439566+00:00"
-    },
-    {
-      "title": "The Best Buy Cyber Monday Sale Has New, Exclusive Deals I Didn't See During Black Friday - IGN",
-      "source": {
-        "name": "IGN"
-      },
-      "description": "Get a 75\" Mini-LED TV for $399, Asus laptop for $199, $250 off a Steam handheld gaming PC, and more....",
-      "url": "https://www.ign.com/articles/best-buy-cyber-monday-sale-best-deals-on-tvs-laptops-gaming-pcs-and-laptops",
-      "publishedAt": "2025-12-01T02:48:42Z",
-      "processed_at": "2025-12-02T12:48:34.439566+00:00"
-    },
-    {
-      "title": "Google Home users are forcing Gemini on their devices with this URL hack - Android Authority",
-      "source": {
-        "name": "Android Authority"
-      },
-      "description": "A Reddit user has discovered a trick for force-enabling Gemini on Google Home devices, but the hack ...",
-      "url": "https://www.androidauthority.com/google-home-force-gemini-url-trick-3620768/",
-      "publishedAt": "2025-12-01T02:46:42Z",
-      "processed_at": "2025-12-02T12:48:34.439566+00:00"
-    },
-    {
-      "title": "Amazon Goes Full Liquidation on Fitbit Charge 6, Now at Record Low for Cyber Monday - Kotaku",
-      "source": {
-        "name": "Kotaku"
-      },
-      "description": "Enjoy health monitoring, accurate GPS tracking, and six months of premium analytics for nearly 40% o...",
-      "url": "https://kotaku.com/amazon-goes-full-liquidation-on-fitbit-charge-6-now-at-record-low-for-cyber-monday-2000648957",
-      "publishedAt": "2025-12-01T01:35:15Z",
-      "processed_at": "2025-12-02T12:48:34.439566+00:00"
+      "processed_at": "2025-12-02T13:37:21.002048+00:00"
     }
   ],
-  "lastUpdated": "2025-12-02T12:48:34.439642+00:00",
+  "lastUpdated": "2025-12-02T13:37:21.002151+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
