@@ -1,89 +1,99 @@
 {
   "status": "success",
-  "totalResults": 8,
+  "totalResults": 9,
   "articles": [
     {
-      "title": "Metroid Prime 4: Beyond Credits Reveal A Plethora Of Assist Devs, Including Next Level Games - Nintendo Life",
+      "title": "Amazon Restocks Nintendo Switch 2 Mario Kart Bundle Deal - Save $50 While You Can - GameSpot",
       "source": {
-        "name": "Nintendo Life"
+        "name": "GameSpot"
       },
-      "description": "And Samus has a brand new voice...",
-      "url": "https://www.nintendolife.com/news/2025/12/metroid-prime-4-beyond-credits-reveal-a-plethora-of-assist-devs-including-next-level-games",
-      "publishedAt": "2025-12-02T15:05:00Z",
-      "processed_at": "2025-12-03T16:31:37.063992+00:00"
+      "description": "After selling out on Cyber Monday, Amazon has rejoined Walmart in offering a surprising deal on the ...",
+      "url": "https://www.gamespot.com/articles/nintendo-switch-2-mario-kart-console-bundle-is-discounted-for-cyber-monday/1100-6536599/",
+      "publishedAt": "2025-12-02T18:36:39Z",
+      "processed_at": "2025-12-03T17:23:46.570033+00:00"
     },
     {
-      "title": "Mega Lucario Z Revealed in New Mega Dimensions Trailer! - Pokémon GO Hub",
+      "title": "‘Destiny 2: Renegades’ Begins The Strangest ‘Star Wars’ Experiment To Date - Forbes",
       "source": {
-        "name": "Pokemon GO Hub"
+        "name": "Forbes"
       },
-      "description": "Trainers, get excited, a brand new Mega Evolution has just been revealed for Lucario, Mega Lucario Z...",
-      "url": "https://pokemongohub.net/post/news/mega-lucario-z-revealed-in-new-mega-dimensions-trailer/",
-      "publishedAt": "2025-12-02T14:18:00Z",
-      "processed_at": "2025-12-03T16:31:37.063992+00:00"
+      "description": "Destiny 2 is taking a huge swing with a licensed Star Wars expansion that does not actually function...",
+      "url": "https://www.forbes.com/sites/paultassi/2025/12/02/destiny-2-renegades-begins-the-strangest-star-wars-experiment-to-date/",
+      "publishedAt": "2025-12-02T16:33:18Z",
+      "processed_at": "2025-12-03T17:23:46.570033+00:00"
     },
     {
-      "title": "Coming to Xbox Game Pass: Mortal Kombat 1, Death Howl, Dome Keeper, Routine, and More - Xbox Wire",
+      "title": "Fallout 76: Burning Springs Release Notes - Bethesda.net",
       "source": {
-        "name": "Xbox.com"
+        "name": "Bethesda.net"
       },
-      "description": "Coming soon to Xbox Game Pass:  Mortal Kombat 1, Death Howl, Dome Keeper, Routine, and more!...",
-      "url": "https://news.xbox.com/en-us/2025/12/02/xbox-game-pass-december-2025/",
-      "publishedAt": "2025-12-02T14:00:56Z",
-      "processed_at": "2025-12-03T16:31:37.063992+00:00"
+      "description": "Grab your duster, hat, and your favorite weapon because it’s time for some Bounty Hunting! Explore o...",
+      "url": "https://bethesda.net/en/article/2tpInvSHR0w7C8GXqEEbrz/fallout-76-burning-springs-release-notes",
+      "publishedAt": "2025-12-02T16:17:08Z",
+      "processed_at": "2025-12-03T17:23:46.570033+00:00"
     },
     {
-      "title": "YouTube introduces its own version of Spotify Wrapped for videos - The Verge",
+      "title": "Minecraft’s new version numbering system - Minecraft",
+      "source": {
+        "name": "Minecraft.net"
+      },
+      "description": "We’re making changes to version numbering in Minecraft. Now the version number will be based on cale...",
+      "url": "https://www.minecraft.net/en-us/article/minecraft-new-version-numbering-system",
+      "publishedAt": "2025-12-02T16:04:09Z",
+      "processed_at": "2025-12-03T17:23:46.570033+00:00"
+    },
+    {
+      "title": "Mistral closes in on Big AI rivals with new open-weight frontier and small models - TechCrunch",
+      "source": {
+        "name": "TechCrunch"
+      },
+      "description": "Mistral unveils its Mistral 3 lineup, including a frontier model and efficient small models designed...",
+      "url": "https://techcrunch.com/2025/12/02/mistral-closes-in-on-big-ai-rivals-with-mistral-3-open-weight-frontier-and-small-models/",
+      "publishedAt": "2025-12-02T15:37:07Z",
+      "processed_at": "2025-12-03T17:23:46.570033+00:00"
+    },
+    {
+      "title": "“Players are selfish”: Fallout 2’s Chris Avellone describes his game design philosophy - Ars Technica",
+      "source": {
+        "name": "Ars Technica"
+      },
+      "description": "Avellone recaps his journey from learning on a TRS-80 to today....",
+      "url": "https://arstechnica.com/gaming/2025/12/fallout-2-designer-chris-avellone-recalls-his-first-forays-into-game-development/",
+      "publishedAt": "2025-12-02T15:04:53Z",
+      "processed_at": "2025-12-03T17:23:46.570033+00:00"
+    },
+    {
+      "title": "Metroid Prime 4: Beyond is a technical marvel and game design nightmare - NPR",
+      "source": {
+        "name": "NPR"
+      },
+      "description": "After a decade of development, Metroid Prime 4: Beyond is a beautiful but befuddling game full of mi...",
+      "url": "https://www.npr.org/2025/12/02/nx-s1-5627515/metroid-prime-4-beyond-review",
+      "publishedAt": "2025-12-02T15:00:00Z",
+      "processed_at": "2025-12-03T17:23:46.570033+00:00"
+    },
+    {
+      "title": "30 practical smart home gifts that make everyday life a little easier - The Verge",
       "source": {
         "name": "The Verge"
       },
-      "description": "YouTube is rolling out a new roundup experience that lets you quickly review your most notable video...",
-      "url": "https://www.theverge.com/news/836173/youtube-recap-videos-eoy-review-wrapped",
-      "publishedAt": "2025-12-02T14:00:00Z",
-      "processed_at": "2025-12-03T16:31:37.063992+00:00"
+      "description": "If you want to help a loved one upgrade their home this holiday season, here are some of our favorit...",
+      "url": "https://www.theverge.com/gadgets/800449/best-practical-smart-home-gift-ideas-2025",
+      "publishedAt": "2025-12-02T15:00:00Z",
+      "processed_at": "2025-12-03T17:23:46.570033+00:00"
     },
     {
-      "title": "Delayed Marvel Cosmic Invasion achievements finally arrive on Xbox - TrueAchievements",
+      "title": "YouTube ‘Recap’ is like Spotify Wrapped for videos, starts rolling out today - 9to5Google",
       "source": {
-        "name": "TrueAchievements"
+        "name": "9to5google.com"
       },
-      "description": "Marvel Cosmic Invasion is out now on Xbox Game Pass, and after an annoying delay, we can now reveal ...",
-      "url": "https://www.trueachievements.com/news/marvel-cosmic-invasion-xbox-achievements",
-      "publishedAt": "2025-12-02T12:45:19Z",
-      "processed_at": "2025-12-03T16:31:37.063992+00:00"
-    },
-    {
-      "title": "Rockstar Causes Confusion Over Red Dead Redemption Upgrade On Xbox - Pure Xbox",
-      "source": {
-        "name": "Pure Xbox"
-      },
-      "description": "It's not working properly right now...",
-      "url": "https://www.purexbox.com/news/2025/12/rockstar-causes-confusion-over-red-dead-redemption-upgrade-on-xbox",
-      "publishedAt": "2025-12-02T11:00:00Z",
-      "processed_at": "2025-12-03T16:31:37.063992+00:00"
-    },
-    {
-      "title": "Lexus Sports Car Will Be Unveiled Together With The GR GT - Carscoops",
-      "source": {
-        "name": "CarScoops"
-      },
-      "description": "Toyota has teased three new sports cars, including the GR GT and what appears to be the production-r...",
-      "url": "https://www.carscoops.com/2025/12/lexus-has-a-surprise-or-three-for-sports-car-fans/",
-      "publishedAt": "2025-12-02T10:12:02Z",
-      "processed_at": "2025-12-03T16:31:37.063992+00:00"
-    },
-    {
-      "title": "Charge up your new Apple products with the Anker MagGo 3-in-1 charger on sale for Cyber Monday - Mashable",
-      "source": {
-        "name": "Mashable"
-      },
-      "description": "",
-      "url": "https://mashable.com/article/cyber-monday-deal-2025-anker-mag-go-ufo-3-in-1-charger",
-      "publishedAt": "2025-12-02T09:42:06Z",
-      "processed_at": "2025-12-03T16:31:37.063992+00:00"
+      "description": "YouTube is listening to feedback and officially launching “Recap,” its own take on Spotify’s popular...",
+      "url": "http://9to5google.com/2025/12/02/youtube-recap-rolling-out/",
+      "publishedAt": "2025-12-02T14:55:00Z",
+      "processed_at": "2025-12-03T17:23:46.570033+00:00"
     }
   ],
-  "lastUpdated": "2025-12-03T16:31:37.064063+00:00",
+  "lastUpdated": "2025-12-03T17:23:46.570112+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
