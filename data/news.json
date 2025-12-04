@@ -1,7 +1,27 @@
 {
   "status": "success",
-  "totalResults": 9,
+  "totalResults": 10,
   "articles": [
+    {
+      "title": "Red Dead Redemption's free remaster upgrade is now available on Xbox - Windows Central",
+      "source": {
+        "name": "Windows Central"
+      },
+      "description": "Relive the harrowing tale of John Marston with 60fps gameplay and 4K resolutions as Red Dead Redempt...",
+      "url": "https://www.windowscentral.com/gaming/red-dead-redemption-remaster-with-4k-and-60fps-is-now-live-and-its-completely-free-for-owners-of-the-original-xbox-360-version-to-upgrade-to",
+      "publishedAt": "2025-12-03T13:49:02Z",
+      "processed_at": "2025-12-04T15:26:30.301169+00:00"
+    },
+    {
+      "title": "Samus' death screams are no longer Jennifer Hale, as Dispatch actress takes over role for Metroid Prime 4: Beyond - Eurogamer",
+      "source": {
+        "name": "Eurogamer.net"
+      },
+      "description": "Metroid Prime 4: Beyond has cast a new voice actress for Samus....",
+      "url": "https://www.eurogamer.net/samus-death-screams-are-no-longer-jennifer-hale-as-dispatch-actress-takes-over-role-for-metroid-prime-4-beyond",
+      "publishedAt": "2025-12-03T13:29:53Z",
+      "processed_at": "2025-12-04T15:26:30.301169+00:00"
+    },
     {
       "title": "Guitar amp sims have gotten astonishingly good - Ars Technica",
       "source": {
@@ -10,7 +30,7 @@
       "description": "There has never been a better time to be a guitarist....",
       "url": "https://arstechnica.com/culture/2025/12/guitar-amp-sims-have-gotten-astonishingly-good/",
       "publishedAt": "2025-12-03T12:15:12Z",
-      "processed_at": "2025-12-04T14:23:31.639820+00:00"
+      "processed_at": "2025-12-04T15:26:30.301169+00:00"
     },
     {
       "title": "Mirumi the furry companion robot is now available on Kickstarter - The Verge",
@@ -20,7 +40,17 @@
       "description": "Yukai Engineering’s Mirumi robot that uses simple head movements to convey curiosity, interest, and ...",
       "url": "https://www.theverge.com/news/836762/yukai-engineering-mirumi-furry-companion-robot-preorder-available-kickstarter",
       "publishedAt": "2025-12-03T12:00:00Z",
-      "processed_at": "2025-12-04T14:23:31.639820+00:00"
+      "processed_at": "2025-12-04T15:26:30.301169+00:00"
+    },
+    {
+      "title": "One UI 8.5 full changelog just dropped, see what you're getting! - SamMobile",
+      "source": {
+        "name": "SamMobile"
+      },
+      "description": "In September, Samsung's next version of One UI for Galaxy phones and tablets, One UI 8.5, leaked onl...",
+      "url": "https://www.sammobile.com/news/one-ui-8-5-full-changelog-features-improvements/",
+      "publishedAt": "2025-12-03T10:10:00Z",
+      "processed_at": "2025-12-04T15:26:30.301169+00:00"
     },
     {
       "title": "The best games of 2025, picked by NPR's staff - NPR",
@@ -30,70 +60,50 @@
       "description": "From indies like Blue Prince to big console exclusives like Donkey Kong Bananza, NPR staff members a...",
       "url": "https://www.npr.org/2025/12/03/nx-s1-5627036/best-games-2025-npr",
       "publishedAt": "2025-12-03T10:00:00Z",
-      "processed_at": "2025-12-04T14:23:31.639820+00:00"
+      "processed_at": "2025-12-04T15:26:30.301169+00:00"
     },
     {
-      "title": "Samsung Unveils Its Exynos 2600, Puts Out An Initial Trailer That Says ‘In Silence, We Listened’ And ‘Refined At The Core’ - Wccftech",
+      "title": "Mario Kart World Update 1.4.0 Tweaks Track Layouts, Adds Custom Item Rules, Now Lets You See What Music is Playing - IGN",
       "source": {
-        "name": "Wccftech"
+        "name": "IGN"
       },
-      "description": "The Exynos 2600 has been announced by Samsung, with the company uploading a trailer that talks about...",
-      "url": "https://wccftech.com/samsung-exynos-2600-announced-company-showcases-first-trailer/",
-      "publishedAt": "2025-12-03T06:44:00Z",
-      "processed_at": "2025-12-04T14:23:31.639820+00:00"
+      "description": "Nintendo Switch 2 launch title Mario Kart World has just received a meaty update that finally adds c...",
+      "url": "https://www.ign.com/articles/mario-kart-world-update-140-tweaks-track-layouts-adds-custom-item-rules-now-lets-you-see-what-music-is-playing",
+      "publishedAt": "2025-12-03T09:50:39Z",
+      "processed_at": "2025-12-04T15:26:30.301169+00:00"
     },
     {
-      "title": "Samsung just can’t stop copying AirPods in latest Galaxy Buds 4 leaks - 9to5Google",
+      "title": "Google is replacing Discover news headlines with laughably awful AI-generated titles - Android Authority",
       "source": {
-        "name": "9to5google.com"
+        "name": "Android Authority"
       },
-      "description": "Samsung’s upcoming Galaxy Buds 4 lineup will give the “base” model a makeover too, as new leaks show...",
-      "url": "http://9to5google.com/2025/12/02/galaxy-buds-4-leak-copy-apple/",
-      "publishedAt": "2025-12-02T21:05:00Z",
-      "processed_at": "2025-12-04T14:23:31.639820+00:00"
+      "description": "Google is replacing news headlines in Discover with AI-generated titles that are either boring, too ...",
+      "url": "https://www.androidauthority.com/google-discover-ai-headlines-3621603/",
+      "publishedAt": "2025-12-03T08:10:03Z",
+      "processed_at": "2025-12-04T15:26:30.301169+00:00"
     },
     {
-      "title": "The Switch 2 is still on sale at multiple retailers if you missed out during Cyber Monday - The Verge",
+      "title": "The First Review For Octopath Traveler 0 Is In - Nintendo Life",
       "source": {
-        "name": "The Verge"
+        "name": "Nintendo Life"
       },
-      "description": "The Switch 2 is still relatively new, so deals are rare. However, you can still get Nintendo’s lates...",
-      "url": "https://www.theverge.com/gadgets/836519/nintendo-switch-2-mario-kart-world-bundle-walmart-deal",
-      "publishedAt": "2025-12-02T19:48:40Z",
-      "processed_at": "2025-12-04T14:23:31.639820+00:00"
+      "description": "Square Enix's new HD-2D RPG starring YOU...",
+      "url": "https://www.nintendolife.com/news/2025/12/the-first-review-for-octopath-traveler-0-is-in",
+      "publishedAt": "2025-12-03T07:30:00Z",
+      "processed_at": "2025-12-04T15:26:30.301169+00:00"
     },
     {
-      "title": "Google Phone adding ‘Urgent’ calling, Messages app getting ‘Unknown’ group chat alerts - 9to5Google",
+      "title": "Google's new Android 16 upgrades make a strong case for sticking with Pixel or Samsung - ZDNET",
       "source": {
-        "name": "9to5google.com"
+        "name": "ZDNet"
       },
-      "description": "In addition to Android 16 QPR2, Google is rolling out a pair of updates to the Messages (group chat ...",
-      "url": "http://9to5google.com/2025/12/02/google-phone-urgent-messages-unknown-group/",
-      "publishedAt": "2025-12-02T19:01:00Z",
-      "processed_at": "2025-12-04T14:23:31.639820+00:00"
-    },
-    {
-      "title": "Epic Games Store decides \"at the last minute\" not to distribute Horses - GamesIndustry.biz",
-      "source": {
-        "name": "GamesIndustry.biz"
-      },
-      "description": "Epic Games Store is the latest online storefront to withdraw support for the provocative indie game,...",
-      "url": "https://www.gamesindustry.biz/epic-games-store-decides-at-the-last-minute-not-to-distribute-horses",
-      "publishedAt": "2025-12-02T18:43:57Z",
-      "processed_at": "2025-12-04T14:23:31.639820+00:00"
-    },
-    {
-      "title": "Netflix launches a mobile-friendly version of Red Dead Redemption - TechCrunch",
-      "source": {
-        "name": "TechCrunch"
-      },
-      "description": "Players with a Netflix subscription can now download the game, which features mobile-friendly contro...",
-      "url": "https://techcrunch.com/2025/12/02/netflix-launches-a-mobile-friendly-version-of-red-dead-redemption/",
-      "publishedAt": "2025-12-02T18:00:51Z",
-      "processed_at": "2025-12-04T14:23:31.639820+00:00"
+      "description": "Android users are getting urgent call indicators, increased scam protection, pinned tabs in Chrome, ...",
+      "url": "https://www.zdnet.com/article/googles-new-android-16-upgrades-make-a-strong-case-for-sticking-with-pixel-or-samsung/",
+      "publishedAt": "2025-12-03T01:39:00Z",
+      "processed_at": "2025-12-04T15:26:30.301169+00:00"
     }
   ],
-  "lastUpdated": "2025-12-04T14:23:31.639892+00:00",
+  "lastUpdated": "2025-12-04T15:26:30.301237+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
