@@ -1,6 +1,6 @@
 {
   "status": "success",
-  "totalResults": 10,
+  "totalResults": 9,
   "articles": [
     {
       "title": "This is how Google Fi’s new Web Calls and RCS system works, rolling out now - 9to5Google",
@@ -10,7 +10,17 @@
       "description": "Google is introducing a new Fi Wireless “webcalls” page, while RCS is now handled by Google Messages...",
       "url": "http://9to5google.com/2025/12/03/google-fi-web-calling-rcs/",
       "publishedAt": "2025-12-04T00:42:00Z",
-      "processed_at": "2025-12-05T01:46:45.700332+00:00"
+      "processed_at": "2025-12-05T03:20:09.005403+00:00"
+    },
+    {
+      "title": "Meta poaches Apple design exec Alan Dye to lead new creative studio in Reality Labs - TechCrunch",
+      "source": {
+        "name": "TechCrunch"
+      },
+      "description": "Dye led Apple's user interface team for the last decade....",
+      "url": "https://techcrunch.com/2025/12/03/meta-poaches-apple-design-exec-alan-dye-to-lead-new-creative-studio-in-reality-labs/",
+      "publishedAt": "2025-12-03T23:37:26Z",
+      "processed_at": "2025-12-05T03:20:09.005403+00:00"
     },
     {
       "title": "Admins and defenders gird themselves against maximum-severity server vuln - Ars Technica",
@@ -20,17 +30,17 @@
       "description": "Open source React executes malicious code with malformed HTML—no authentication needed....",
       "url": "https://arstechnica.com/security/2025/12/admins-and-defenders-gird-themselves-against-maximum-severity-server-vulnerability/",
       "publishedAt": "2025-12-03T23:16:03Z",
-      "processed_at": "2025-12-05T01:46:45.700332+00:00"
+      "processed_at": "2025-12-05T03:20:09.005403+00:00"
     },
     {
-      "title": "Google shares 10 of its favorite Chrome extensions from 2025. - The Verge",
+      "title": "Escape From Tarkov Players Are Finally Escaping From Tarkov - GameSpot",
       "source": {
-        "name": "The Verge"
+        "name": "GameSpot"
       },
-      "description": "",
-      "url": "https://www.theverge.com/news/837226/google-favorite-chrome-browser-extension-2025",
-      "publishedAt": "2025-12-03T22:00:00Z",
-      "processed_at": "2025-12-05T01:46:45.700332+00:00"
+      "description": "Now that its possible, players are learning even more about how to Escape from Tarkov and get the be...",
+      "url": "https://www.gamespot.com/articles/escape-from-tarkov-players-are-finally-escaping-from-tarkov/1100-6536684/",
+      "publishedAt": "2025-12-03T22:21:58Z",
+      "processed_at": "2025-12-05T03:20:09.005403+00:00"
     },
     {
       "title": "All weapon buffs & nerfs in Warzone & Black Ops 7 Season 1 - Dexerto",
@@ -40,7 +50,7 @@
       "description": "Here are all of the weapon buffs and nerfs in Warzone and Black Ops 7’s Season 1 update, which are s...",
       "url": "https://www.dexerto.com/call-of-duty/all-weapon-buffs-nerfs-in-warzone-black-ops-7-season-1-3289534/",
       "publishedAt": "2025-12-03T21:35:58Z",
-      "processed_at": "2025-12-05T01:46:45.700332+00:00"
+      "processed_at": "2025-12-05T03:20:09.005403+00:00"
     },
     {
       "title": "Marvel Cosmic Invasion - Shitomatic Universe (Review) - The Jimquisition",
@@ -50,27 +60,7 @@
       "description": "Marvel Cosmic InvasionReleased: December 1st, 2025Developer: Tribute GamesPublisher: DotEmuSystems: ...",
       "url": "https://www.thejimquisition.com/post/marvel-cosmic-invasion-shitomatic-universe-review",
       "publishedAt": "2025-12-03T20:02:33Z",
-      "processed_at": "2025-12-05T01:46:45.700332+00:00"
-    },
-    {
-      "title": "Apple Design Executive Alan Dye Poached by Meta in Major Coup - Bloomberg.com",
-      "source": {
-        "name": "Bloomberg"
-      },
-      "description": "Meta Platforms Inc. has poached Apple Inc.’s most prominent design executive in a major coup that un...",
-      "url": "https://www.bloomberg.com/news/articles/2025-12-03/apple-design-executive-alan-dye-poached-by-meta-in-major-coup",
-      "publishedAt": "2025-12-03T19:30:22Z",
-      "processed_at": "2025-12-05T01:46:45.700332+00:00"
-    },
-    {
-      "title": "Valve reveals it’s the architect behind a push to bring Windows games to Arm - Hacker News",
-      "source": {
-        "name": "Hacker News"
-      },
-      "description": "",
-      "url": "https://news.ycombinator.com/item?id\\\\u003d46126446",
-      "publishedAt": "2025-12-03T18:42:29Z",
-      "processed_at": "2025-12-05T01:46:45.700332+00:00"
+      "processed_at": "2025-12-05T03:20:09.005403+00:00"
     },
     {
       "title": "Apple releases iOS 26.2 RC for iPhone - 9to5Mac",
@@ -80,7 +70,7 @@
       "description": "Apple has released the release candidate of iOS 26.2 for iPhone. The RC version is available as an o...",
       "url": "https://9to5mac.com/2025/12/03/apple-releases-ios-26-2-rc-for-iphone/",
       "publishedAt": "2025-12-03T18:37:00Z",
-      "processed_at": "2025-12-05T01:46:45.700332+00:00"
+      "processed_at": "2025-12-05T03:20:09.005403+00:00"
     },
     {
       "title": "The Super Hero Team-based PVP Shooter - Marvel Rivals",
@@ -90,7 +80,7 @@
       "description": "Play for free Now! Get ready to Ignite the Battle with Marvel Rivals!...",
       "url": "https://www.marvelrivals.com/gameupdate/20251203/41548_1274523.html",
       "publishedAt": "2025-12-03T18:02:26Z",
-      "processed_at": "2025-12-05T01:46:45.700332+00:00"
+      "processed_at": "2025-12-05T03:20:09.005403+00:00"
     },
     {
       "title": "Tencent's alleged Horizon rip-off is ironically back in the news as company agrees to halt promotion amid Sony lawsuit - Eurogamer",
@@ -100,10 +90,10 @@
       "description": "Tencent has agreed to halt all promotion and public testing of Light of Motiram, described as a \"sla...",
       "url": "https://www.eurogamer.net/tencents-alleged-horizon-rip-off-is-ironically-back-in-the-news-as-company-agrees-to-halt-promotion-amid-sony-lawsuit",
       "publishedAt": "2025-12-03T17:06:49Z",
-      "processed_at": "2025-12-05T01:46:45.700332+00:00"
+      "processed_at": "2025-12-05T03:20:09.005403+00:00"
     }
   ],
-  "lastUpdated": "2025-12-05T01:46:45.700404+00:00",
+  "lastUpdated": "2025-12-05T03:20:09.005476+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
