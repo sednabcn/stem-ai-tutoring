@@ -3,6 +3,36 @@
   "totalResults": 10,
   "articles": [
     {
+      "title": "This is how Google Fi’s new Web Calls and RCS system works, rolling out now - 9to5Google",
+      "source": {
+        "name": "9to5google.com"
+      },
+      "description": "Google is introducing a new Fi Wireless “webcalls” page, while RCS is now handled by Google Messages...",
+      "url": "http://9to5google.com/2025/12/03/google-fi-web-calling-rcs/",
+      "publishedAt": "2025-12-04T00:42:00Z",
+      "processed_at": "2025-12-05T01:46:45.700332+00:00"
+    },
+    {
+      "title": "Admins and defenders gird themselves against maximum-severity server vuln - Ars Technica",
+      "source": {
+        "name": "Ars Technica"
+      },
+      "description": "Open source React executes malicious code with malformed HTML—no authentication needed....",
+      "url": "https://arstechnica.com/security/2025/12/admins-and-defenders-gird-themselves-against-maximum-severity-server-vulnerability/",
+      "publishedAt": "2025-12-03T23:16:03Z",
+      "processed_at": "2025-12-05T01:46:45.700332+00:00"
+    },
+    {
+      "title": "Google shares 10 of its favorite Chrome extensions from 2025. - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "",
+      "url": "https://www.theverge.com/news/837226/google-favorite-chrome-browser-extension-2025",
+      "publishedAt": "2025-12-03T22:00:00Z",
+      "processed_at": "2025-12-05T01:46:45.700332+00:00"
+    },
+    {
       "title": "All weapon buffs & nerfs in Warzone & Black Ops 7 Season 1 - Dexerto",
       "source": {
         "name": "Dexerto"
@@ -10,7 +40,7 @@
       "description": "Here are all of the weapon buffs and nerfs in Warzone and Black Ops 7’s Season 1 update, which are s...",
       "url": "https://www.dexerto.com/call-of-duty/all-weapon-buffs-nerfs-in-warzone-black-ops-7-season-1-3289534/",
       "publishedAt": "2025-12-03T21:35:58Z",
-      "processed_at": "2025-12-04T23:20:51.318819+00:00"
+      "processed_at": "2025-12-05T01:46:45.700332+00:00"
     },
     {
       "title": "Marvel Cosmic Invasion - Shitomatic Universe (Review) - The Jimquisition",
@@ -20,7 +50,7 @@
       "description": "Marvel Cosmic InvasionReleased: December 1st, 2025Developer: Tribute GamesPublisher: DotEmuSystems: ...",
       "url": "https://www.thejimquisition.com/post/marvel-cosmic-invasion-shitomatic-universe-review",
       "publishedAt": "2025-12-03T20:02:33Z",
-      "processed_at": "2025-12-04T23:20:51.318819+00:00"
+      "processed_at": "2025-12-05T01:46:45.700332+00:00"
     },
     {
       "title": "Apple Design Executive Alan Dye Poached by Meta in Major Coup - Bloomberg.com",
@@ -30,7 +60,7 @@
       "description": "Meta Platforms Inc. has poached Apple Inc.’s most prominent design executive in a major coup that un...",
       "url": "https://www.bloomberg.com/news/articles/2025-12-03/apple-design-executive-alan-dye-poached-by-meta-in-major-coup",
       "publishedAt": "2025-12-03T19:30:22Z",
-      "processed_at": "2025-12-04T23:20:51.318819+00:00"
+      "processed_at": "2025-12-05T01:46:45.700332+00:00"
     },
     {
       "title": "Valve reveals it’s the architect behind a push to bring Windows games to Arm - Hacker News",
@@ -40,7 +70,7 @@
       "description": "",
       "url": "https://news.ycombinator.com/item?id\\\\u003d46126446",
       "publishedAt": "2025-12-03T18:42:29Z",
-      "processed_at": "2025-12-04T23:20:51.318819+00:00"
+      "processed_at": "2025-12-05T01:46:45.700332+00:00"
     },
     {
       "title": "Apple releases iOS 26.2 RC for iPhone - 9to5Mac",
@@ -50,7 +80,17 @@
       "description": "Apple has released the release candidate of iOS 26.2 for iPhone. The RC version is available as an o...",
       "url": "https://9to5mac.com/2025/12/03/apple-releases-ios-26-2-rc-for-iphone/",
       "publishedAt": "2025-12-03T18:37:00Z",
-      "processed_at": "2025-12-04T23:20:51.318819+00:00"
+      "processed_at": "2025-12-05T01:46:45.700332+00:00"
+    },
+    {
+      "title": "The Super Hero Team-based PVP Shooter - Marvel Rivals",
+      "source": {
+        "name": "Marvelrivals.com"
+      },
+      "description": "Play for free Now! Get ready to Ignite the Battle with Marvel Rivals!...",
+      "url": "https://www.marvelrivals.com/gameupdate/20251203/41548_1274523.html",
+      "publishedAt": "2025-12-03T18:02:26Z",
+      "processed_at": "2025-12-05T01:46:45.700332+00:00"
     },
     {
       "title": "Tencent's alleged Horizon rip-off is ironically back in the news as company agrees to halt promotion amid Sony lawsuit - Eurogamer",
@@ -60,50 +100,10 @@
       "description": "Tencent has agreed to halt all promotion and public testing of Light of Motiram, described as a \"sla...",
       "url": "https://www.eurogamer.net/tencents-alleged-horizon-rip-off-is-ironically-back-in-the-news-as-company-agrees-to-halt-promotion-amid-sony-lawsuit",
       "publishedAt": "2025-12-03T17:06:49Z",
-      "processed_at": "2025-12-04T23:20:51.318819+00:00"
-    },
-    {
-      "title": "One day, AI might be better than you at surfing the web. That day isn’t today. - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "Are AI browsers delivering a better internet experience? We test Comet, ChatGPT Atlas, Dia, Copilot ...",
-      "url": "https://www.theverge.com/tech/837287/ai-browsers-comet-chatgpt-atlas-edge-copilot-chrome-gemini",
-      "publishedAt": "2025-12-03T17:00:00Z",
-      "processed_at": "2025-12-04T23:20:51.318819+00:00"
-    },
-    {
-      "title": "Nintendo Offering 12 Months NSO Free With Switch 2 + Mario Kart World Bundle (UK) - Nintendo Life",
-      "source": {
-        "name": "Nintendo Life"
-      },
-      "description": "Plus some Luigi flare for your tree...",
-      "url": "https://www.nintendolife.com/news/2025/12/nintendo-offering-12-months-nso-free-with-switch-2-plus-mario-kart-world-bundle-uk",
-      "publishedAt": "2025-12-03T15:32:08Z",
-      "processed_at": "2025-12-04T23:20:51.318819+00:00"
-    },
-    {
-      "title": "Clair Obscur: Expedition 33 Is the Biggest New Third-Party Game Launch on Xbox Game Pass of 2025 - Xbox Wire",
-      "source": {
-        "name": "Xbox.com"
-      },
-      "description": "Sandfall Interactive’s phenomenal debut RPG, Clair Obscur: Expedition 33, is the biggest new third-p...",
-      "url": "https://news.xbox.com/en-us/2025/12/03/clair-obscur-expedition-33-game-pass-biggest-launch/",
-      "publishedAt": "2025-12-03T14:01:05Z",
-      "processed_at": "2025-12-04T23:20:51.318819+00:00"
-    },
-    {
-      "title": "Samus' death screams are no longer Jennifer Hale, as Dispatch actress takes over role for Metroid Prime 4: Beyond - Eurogamer",
-      "source": {
-        "name": "Eurogamer.net"
-      },
-      "description": "Metroid Prime 4: Beyond has cast a new voice actress for Samus....",
-      "url": "https://www.eurogamer.net/samus-death-screams-are-no-longer-jennifer-hale-as-dispatch-actress-takes-over-role-for-metroid-prime-4-beyond",
-      "publishedAt": "2025-12-03T13:29:53Z",
-      "processed_at": "2025-12-04T23:20:51.318819+00:00"
+      "processed_at": "2025-12-05T01:46:45.700332+00:00"
     }
   ],
-  "lastUpdated": "2025-12-04T23:20:51.318892+00:00",
+  "lastUpdated": "2025-12-05T01:46:45.700404+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
