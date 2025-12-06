@@ -1,7 +1,77 @@
 {
   "status": "success",
-  "totalResults": 10,
+  "totalResults": 8,
   "articles": [
+    {
+      "title": "Mrs. Rochel Reinitz, OBM - COLlive",
+      "source": {
+        "name": "COLlive - Chabad News"
+      },
+      "description": "Mrs. Rochel Reinitz, matriarch of a Chabad family from Yerushalayim, Israel, passed away on Wednesda...",
+      "url": "https://collive.com/mrs-rochel-reinitz-obm/",
+      "publishedAt": "2025-12-05T15:39:21Z",
+      "processed_at": "2025-12-06T17:17:34.227735+00:00"
+    },
+    {
+      "title": "Sony’s new PS5 DualSense controller might have way more battery life - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "A new CFI-ZCT2W version of the PS5 DualSense controller could nearly double the original’s battery l...",
+      "url": "https://www.theverge.com/news/838970/ps5-dualsense-battery-life-improvement",
+      "publishedAt": "2025-12-05T15:21:25Z",
+      "processed_at": "2025-12-06T17:17:34.227735+00:00"
+    },
+    {
+      "title": "\"Has caused extreme damage to our brand and our company reputation\" - Running with Scissors cancels Postal: Bullet Paradise over AI-generated assets... two days after reveal - Eurogamer",
+      "source": {
+        "name": "Eurogamer.net"
+      },
+      "description": "After receiving pushback for its flagrant use of generative AI, Postal: Bullet Paradise has been can...",
+      "url": "https://www.eurogamer.net/has-caused-extreme-damage-to-our-brand-and-our-company-reputation-running-with-scissors-cancels-postal-bullet-paradise-over-ai-generated-assets-two-days-after-reveal",
+      "publishedAt": "2025-12-05T15:13:30Z",
+      "processed_at": "2025-12-06T17:17:34.227735+00:00"
+    },
+    {
+      "title": "This tiny magnetic e-reader sticks to the back of your iPhone - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "Xteink’s X4 is a tiny e-reader with a 4.3-inch E Ink screen you can easily pocket or keep stuck to t...",
+      "url": "https://www.theverge.com/news/838885/xteink-x4-e-reader-magnetic-apple-iphone-google-pixel",
+      "publishedAt": "2025-12-05T15:04:57Z",
+      "processed_at": "2025-12-06T17:17:34.227735+00:00"
+    },
+    {
+      "title": "GTA Online: A Safehouse in the Hills Coming December 10 - Rockstar Games",
+      "source": {
+        "name": "Rockstargames.com"
+      },
+      "description": "Prime luxury real estate comes to GTA Online in A Safehouse in the Hills, the monumental new update ...",
+      "url": "https://www.rockstargames.com/newswire/article/51358a55o2o11o/gta-online-a-safehouse-in-the-hills-coming-december-10",
+      "publishedAt": "2025-12-05T14:57:44Z",
+      "processed_at": "2025-12-06T17:17:34.227735+00:00"
+    },
+    {
+      "title": "\"I Hate It With Every Bone In My Body\": People Are Calling Out The Overrated Things They're Tired Of Being Told Are Amazing - BuzzFeed",
+      "source": {
+        "name": "Buzzfeed"
+      },
+      "description": "\"The number of people telling me I will regret not having a big wedding is wild...\"...",
+      "url": "https://www.buzzfeed.com/claudiasantos/popular-things-that-are-not-good-fs",
+      "publishedAt": "2025-12-05T14:31:02Z",
+      "processed_at": "2025-12-06T17:17:34.227735+00:00"
+    },
+    {
+      "title": "Dragon Age Day Came And Went Without A Single Word From BioWare - Kotaku",
+      "source": {
+        "name": "Google News"
+      },
+      "description": "",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSURhREhZOEh1NkhsVThZOTU3amRHR0tzWEJxZnF1c2NRRkYwUEtHdmNtT1RQbDNrRWU3NFpRNE0wSllIZmdHVTF2RGtwWDA0Q3VRbUVyMElxQWdDUE5NR3ZUTVJUWnZzUHRRYkRZMVpYQW44YmlpT1prdFl6Q05pbjFQUmhsWERwbEVsR09n?oc=5",
+      "publishedAt": "2025-12-05T13:55:18Z",
+      "processed_at": "2025-12-06T17:17:34.227735+00:00"
+    },
     {
       "title": "Minecraft 1.21.11 Release Candidate 2 - Minecraft",
       "source": {
@@ -10,100 +80,10 @@
       "description": "Minecraft 1.21.11 Release Candidate 2...",
       "url": "https://www.minecraft.net/en-us/article/minecraft-1-21-11-release-candidate-2",
       "publishedAt": "2025-12-05T13:19:18Z",
-      "processed_at": "2025-12-06T16:25:02.781401+00:00"
-    },
-    {
-      "title": "PS5 Sci-Fi Action RPG SOL Shogunate Is Samurai in Space, and It Looks Awesome - Push Square",
-      "source": {
-        "name": "Push Square"
-      },
-      "description": "Moon knights...",
-      "url": "https://www.pushsquare.com/news/2025/12/ps5-sci-fi-action-rpg-sol-shogunate-is-samurai-in-space-and-it-looks-awesome",
-      "publishedAt": "2025-12-05T12:00:00Z",
-      "processed_at": "2025-12-06T16:25:02.781401+00:00"
-    },
-    {
-      "title": "Your Meta Guide to December Community Day - Pokémon GO Hub",
-      "source": {
-        "name": "Pokemon GO Hub"
-      },
-      "description": "Hello Trainers!. We are now in the month of December and with it comes the expected - Christmas, Hol...",
-      "url": "https://pokemongohub.net/post/guide/your-meta-guide-to-december-community-day/",
-      "publishedAt": "2025-12-05T10:01:36Z",
-      "processed_at": "2025-12-06T16:25:02.781401+00:00"
-    },
-    {
-      "title": "Sony's All-In on Exciting PS5 Action RPG The God Slayer, Despite an Xbox Version Existing - Push Square",
-      "source": {
-        "name": "Push Square"
-      },
-      "description": "An unusual re-reveal...",
-      "url": "https://www.pushsquare.com/news/2025/12/sonys-all-in-on-exciting-ps5-action-rpg-the-god-slayer-despite-an-xbox-version-existing",
-      "publishedAt": "2025-12-05T07:00:00Z",
-      "processed_at": "2025-12-06T16:25:02.781401+00:00"
-    },
-    {
-      "title": "Round Up: Every Switch And Switch 2 Announcement From The PC Gaming Show: Most Wanted 2025 - Nintendo Life",
-      "source": {
-        "name": "Nintendo Life"
-      },
-      "description": "",
-      "url": "https://www.nintendolife.com/news/2025/12/round-up-every-switch-and-switch-2-announcement-from-the-pc-gaming-show-most-wanted-2025",
-      "publishedAt": "2025-12-05T03:30:00Z",
-      "processed_at": "2025-12-06T16:25:02.781401+00:00"
-    },
-    {
-      "title": "Starship Troopers: Ultimate Bug War! Brings A \"New Retro FPS\" Experience To Switch 2 Next Year - Nintendo Life",
-      "source": {
-        "name": "Nintendo Life"
-      },
-      "description": "From the developers of Warhammer 40,000: Boltgun...",
-      "url": "https://www.nintendolife.com/news/2025/12/starship-troopers-ultimate-bug-war-brings-a-new-retro-fps-experience-to-switch-2-next-year",
-      "publishedAt": "2025-12-05T01:30:00Z",
-      "processed_at": "2025-12-06T16:25:02.781401+00:00"
-    },
-    {
-      "title": "Ditch Your PS5 Slim, PlayStation 5 Pro at New Record Low If You Want to Play at Pro Level - Kotaku",
-      "source": {
-        "name": "Kotaku"
-      },
-      "description": "The GPU delivers 67% more compute power while AI upscaling maintains crisp 4K output....",
-      "url": "https://kotaku.com/ditch-your-ps5-slim-playstation-5-pro-at-new-record-low-if-you-want-to-play-at-pro-level-2000650592",
-      "publishedAt": "2025-12-05T01:05:56Z",
-      "processed_at": "2025-12-06T16:25:02.781401+00:00"
-    },
-    {
-      "title": "Nintendo’s Switch 2 Mario Kart bundle is on sale at Amazon again for $50 off - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "The Switch 2 is still relatively new, so deals are rare. However, you can still get Nintendo’s lates...",
-      "url": "https://www.theverge.com/gadgets/836519/nintendo-switch-2-mario-kart-world-bundle-walmart-deal",
-      "publishedAt": "2025-12-04T22:24:13Z",
-      "processed_at": "2025-12-06T16:25:02.781401+00:00"
-    },
-    {
-      "title": "The Blood Ravens are not alone in a new Warhammer 40,000: Dawn of War IV story trailer - Warhammer Community",
-      "source": {
-        "name": "Warhammer-community.com"
-      },
-      "description": "Reinforcements are on the way....",
-      "url": "https://www.warhammer-community.com/articles/amsujx55/the-blood-ravens-are-not-alone-in-a-new-warhammer-40000-dawn-of-war-iv-story-trailer",
-      "publishedAt": "2025-12-04T22:04:43Z",
-      "processed_at": "2025-12-06T16:25:02.781401+00:00"
-    },
-    {
-      "title": "tvOS 26.2 gets new RC for Apple TV 4K ahead of launch - 9to5Mac",
-      "source": {
-        "name": "9to5Mac"
-      },
-      "description": "Apple has just debuted a revised RC (release candidate) build for tvOS 26.2, available both for deve...",
-      "url": "https://9to5mac.com/2025/12/04/tvos-26-2-gets-new-rc-for-apple-tv-4k-ahead-of-launch/",
-      "publishedAt": "2025-12-04T21:31:00Z",
-      "processed_at": "2025-12-06T16:25:02.781401+00:00"
+      "processed_at": "2025-12-06T17:17:34.227735+00:00"
     }
   ],
-  "lastUpdated": "2025-12-06T16:25:02.781480+00:00",
+  "lastUpdated": "2025-12-06T17:17:34.227798+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
