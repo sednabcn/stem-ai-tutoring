@@ -1,7 +1,47 @@
 {
   "status": "success",
-  "totalResults": 10,
+  "totalResults": 9,
   "articles": [
+    {
+      "title": "The Nintendo Switch 2 and Ninja’s Creami are the best deals of the week - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "For a limited time, Cyber Monday deals like $50 off Nintendo’s Switch 2 and a bigger discount on Nin...",
+      "url": "https://www.theverge.com/gadgets/839309/nintendo-switch-2-ninja-creami-mac-mini-best-deals-sale",
+      "publishedAt": "2025-12-06T17:00:00Z",
+      "processed_at": "2025-12-07T17:17:17.275893+00:00"
+    },
+    {
+      "title": "The tech world is sleeping on the most exciting Bluetooth feature in years - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "Auracast lets many devices tune into one Bluetooth broadcast. It’s great for accessibility and noisy...",
+      "url": "https://www.theverge.com/report/839245/auracast-marketing-jbl-lg-samsung-google",
+      "publishedAt": "2025-12-06T16:00:00Z",
+      "processed_at": "2025-12-07T17:17:17.275893+00:00"
+    },
+    {
+      "title": "How To Quickly Max A Faction In Destiny 2: Renegades For Tier 5 Loot - Forbes",
+      "source": {
+        "name": "Forbes"
+      },
+      "description": "Destiny 2 is gatekeeping higher-tier loot in Renegades, but it's much easier to upgrade it than it w...",
+      "url": "https://www.forbes.com/sites/paultassi/2025/12/06/how-to-quickly-max-a-faction-in-destiny-2-renegades-for-tier-5-loot/",
+      "publishedAt": "2025-12-06T14:14:06Z",
+      "processed_at": "2025-12-07T17:17:17.275893+00:00"
+    },
+    {
+      "title": "Tested: My Pixel 10 runs faster with the Android 16 QPR2 update - Android Authority",
+      "source": {
+        "name": "Android Authority"
+      },
+      "description": "My Pixel 10's performance appears to be better with Android 16 QPR2, in addition to all its new feat...",
+      "url": "https://www.androidauthority.com/android-16-qpr2-performance-test-3622602/",
+      "publishedAt": "2025-12-06T14:03:37Z",
+      "processed_at": "2025-12-07T17:17:17.275893+00:00"
+    },
     {
       "title": "Stop Charging Your Android Watch Daily. Here Are 7 Tips for Longer Battery Life - CNET",
       "source": {
@@ -10,7 +50,7 @@
       "description": "From Samsung's Galaxy Watch to Google's Pixel Watch and other Wear OS models, these settings can add...",
       "url": "https://www.cnet.com/tech/mobile/stop-charging-your-android-watch-daily-here-are-7-tips-for-longer-battery-life/",
       "publishedAt": "2025-12-06T13:00:00Z",
-      "processed_at": "2025-12-07T16:24:29.003132+00:00"
+      "processed_at": "2025-12-07T17:17:17.275893+00:00"
     },
     {
       "title": "Netflix is killing off a legacy streaming option, and I'm worried others are next - Android Police",
@@ -20,7 +60,27 @@
       "description": "Casting from Netflix is on its way out...",
       "url": "https://www.androidpolice.com/netflix-killing-chromecast-others-next/",
       "publishedAt": "2025-12-06T12:00:00Z",
-      "processed_at": "2025-12-07T16:24:29.003132+00:00"
+      "processed_at": "2025-12-07T17:17:17.275893+00:00"
+    },
+    {
+      "title": "And the winner of the Microsoft Christmas sweater is... - theregister.com",
+      "source": {
+        "name": "Theregister.com"
+      },
+      "description": ": Peak Microsoft is whatever you want it to be. Or not...",
+      "url": "https://www.theregister.com/2025/12/06/microsoft_sweater_competition/",
+      "publishedAt": "2025-12-06T11:00:00Z",
+      "processed_at": "2025-12-07T17:17:17.275893+00:00"
+    },
+    {
+      "title": "What Google Just Did To Nest Is The One Thing No Company Should Ever Do - Inc.com",
+      "source": {
+        "name": "Inc."
+      },
+      "description": "Back in October, Google ended software support for the original and second-generation Nest Learning ...",
+      "url": "https://www.inc.com/jason-aten/what-google-just-did-to-nest-is-the-one-thing-no-company-should-ever-do/91275297",
+      "publishedAt": "2025-12-06T10:20:50Z",
+      "processed_at": "2025-12-07T17:17:17.275893+00:00"
     },
     {
       "title": "How a 24-year-old Stanford Ph.D. dropout lured some of Meta's brightest minds to join her AI math startup - Business Insider",
@@ -30,80 +90,10 @@
       "description": "24-year-old Axiom Math founder Carina Hong wooed top Meta researchers in a competitive AI talent mar...",
       "url": "https://www.businessinsider.com/axiom-math-stanford-dropout-meta-ai-researchers-startup-2025-12",
       "publishedAt": "2025-12-06T10:00:00Z",
-      "processed_at": "2025-12-07T16:24:29.003132+00:00"
-    },
-    {
-      "title": "Switch Online Holiday Icons, Super Mario Ornament And 2026 Calendar Now Available (US) - Nintendo Life",
-      "source": {
-        "name": "Nintendo Life"
-      },
-      "description": "Get them with your Platinum Points...",
-      "url": "https://www.nintendolife.com/news/2025/12/switch-online-holiday-icons-super-mario-ornament-and-2026-calendar-now-available-us",
-      "publishedAt": "2025-12-06T03:30:00Z",
-      "processed_at": "2025-12-07T16:24:29.003132+00:00"
-    },
-    {
-      "title": "New MacBook Air M4 Is Now Cheaper Than Refurb M2, Amazon Liquidates Stock After Black Friday at Record Low - Gizmodo",
-      "source": {
-        "name": "Gizmodo.com"
-      },
-      "description": "Apple never discounts new hardware this deeply....",
-      "url": "https://gizmodo.com/new-macbook-air-m4-is-now-cheaper-than-refurb-m2-amazon-liquidates-stock-after-black-friday-at-record-low-2000696077",
-      "publishedAt": "2025-12-06T00:45:54Z",
-      "processed_at": "2025-12-07T16:24:29.003132+00:00"
-    },
-    {
-      "title": "Tesla announces 2025 holiday update with a few cool features - Electrek",
-      "source": {
-        "name": "Electrek"
-      },
-      "description": "Tesla has officially announced its 2025 Holiday Update, and this year, the automaker is not using th...",
-      "url": "http://electrek.co/2025/12/05/tesla-2025-holiday-update-few-cool-features/",
-      "publishedAt": "2025-12-06T00:39:00Z",
-      "processed_at": "2025-12-07T16:24:29.003132+00:00"
-    },
-    {
-      "title": "Apple Watch, Samsung Galaxy Watch: Am I addicted to my smartwatch? - BBC",
-      "source": {
-        "name": "BBC News"
-      },
-      "description": "Do they do what they say they do, or are they just making us more stressed?...",
-      "url": "https://www.bbc.com/news/articles/c8xdgwrrd0vo",
-      "publishedAt": "2025-12-06T00:03:59Z",
-      "processed_at": "2025-12-07T16:24:29.003132+00:00"
-    },
-    {
-      "title": "I Spent *Hours* Scrolling TikTok To Find These 29 Elite Gifts So You Don’t Have To - BuzzFeed",
-      "source": {
-        "name": "Buzzfeed"
-      },
-      "description": "Get the trendiest gifts without ever having to pick up your phone....",
-      "url": "https://www.buzzfeed.com/jessicahall2/elite-tiktok-gifts-2025",
-      "publishedAt": "2025-12-06T00:01:02Z",
-      "processed_at": "2025-12-07T16:24:29.003132+00:00"
-    },
-    {
-      "title": "Cosmic rays are cause behind JetBlue flight suddenly plunging in the sky. This is why it happened - WSB-TV",
-      "source": {
-        "name": "WSB Atlanta"
-      },
-      "description": "The plane suddenly lost altitude while traveling from Cancun to New Jersey in October....",
-      "url": "https://www.wsbtv.com/news/local/atlanta/cosmic-rays-are-cause-behind-jetblue-flight-suddenly-plunging-sky-this-is-why-it-happened/TV6KZQELXVFUVNLCQUAPETRT6E/",
-      "publishedAt": "2025-12-05T22:57:17Z",
-      "processed_at": "2025-12-07T16:24:29.003132+00:00"
-    },
-    {
-      "title": "Metroid Prime 4 Has A Lot Of Vaginal Doorways In It - Kotaku",
-      "source": {
-        "name": "Kotaku"
-      },
-      "description": "I mean, most of these doors look more like vulvas to me......",
-      "url": "https://kotaku.com/metroid-prime-4-players-discovering-vagina-vulva-doors-2000651050",
-      "publishedAt": "2025-12-05T22:44:18Z",
-      "processed_at": "2025-12-07T16:24:29.003132+00:00"
+      "processed_at": "2025-12-07T17:17:17.275893+00:00"
     }
   ],
-  "lastUpdated": "2025-12-07T16:24:29.003202+00:00",
+  "lastUpdated": "2025-12-07T17:17:17.275964+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
