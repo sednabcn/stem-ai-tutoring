@@ -1,16 +1,26 @@
 {
   "status": "success",
-  "totalResults": 9,
+  "totalResults": 10,
   "articles": [
     {
-      "title": "Report: Johny Srouji contemplating leaving Apple, considering career elsewhere - 9to5Mac",
+      "title": "41 People Who Almost Died Are Sharing How They Barely Survived, And It's Actually Terrifying - BuzzFeed",
       "source": {
-        "name": "9to5Mac"
+        "name": "Buzzfeed"
       },
-      "description": "According to a new report from Bloomberg, Apple’s hardware technologies SVP Johny Srouji is ‘serious...",
-      "url": "https://9to5mac.com/2025/12/06/apple-chip-lead-johny-srouji-considering-leaving-company-report/",
-      "publishedAt": "2025-12-06T17:29:00Z",
-      "processed_at": "2025-12-07T20:22:25.304930+00:00"
+      "description": "\"That night, I knew I was going to die. I called my mother to have a last conversation with her and ...",
+      "url": "https://www.buzzfeed.com/mychalthompson/41-people-who-almost-died",
+      "publishedAt": "2025-12-06T21:32:01Z",
+      "processed_at": "2025-12-07T21:18:06.893128+00:00"
+    },
+    {
+      "title": "Apple’s chip chief might be the next exec to leave - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "Apple’s chip chief, Johny Srouji is “seriously considering” leaving for another company in the near ...",
+      "url": "https://www.theverge.com/news/839700/apples-chip-chief-might-be-the-next-exec-to-leave",
+      "publishedAt": "2025-12-06T19:55:52Z",
+      "processed_at": "2025-12-07T21:18:06.893128+00:00"
     },
     {
       "title": "This Android 16 tablet feature is making me consider replacing my iPad - Android Police",
@@ -20,7 +30,7 @@
       "description": "The update that's making iPad owners nervous...",
       "url": "https://www.androidpolice.com/android-16-replacing-ipad/",
       "publishedAt": "2025-12-06T17:15:00Z",
-      "processed_at": "2025-12-07T20:22:25.304930+00:00"
+      "processed_at": "2025-12-07T21:18:06.893128+00:00"
     },
     {
       "title": "The Nintendo Switch 2 and Ninja’s Creami are the best deals of the week - The Verge",
@@ -30,7 +40,37 @@
       "description": "For a limited time, Cyber Monday deals like $50 off Nintendo’s Switch 2 and a bigger discount on Nin...",
       "url": "https://www.theverge.com/gadgets/839309/nintendo-switch-2-ninja-creami-mac-mini-best-deals-sale",
       "publishedAt": "2025-12-06T17:00:00Z",
-      "processed_at": "2025-12-07T20:22:25.304930+00:00"
+      "processed_at": "2025-12-07T21:18:06.893128+00:00"
+    },
+    {
+      "title": "Bungie Has No Plans For More Destiny 2 Expansion Crossovers After Star Wars-themed Renegades - The Game Post",
+      "source": {
+        "name": "Thegamepost.com"
+      },
+      "description": "Bungie has reportedly ruled out more full Destiny 2 expansion crossovers after its Star Wars-inspire...",
+      "url": "https://thegamepost.com/bungie-no-plans-destiny-2-expansion-crossovers-star-wars-renegades/",
+      "publishedAt": "2025-12-06T16:58:25Z",
+      "processed_at": "2025-12-07T21:18:06.893128+00:00"
+    },
+    {
+      "title": "Rare pre-Liquid Glass 'iOS 19' prototype provides tiny hint at iOS 27 plans - AppleInsider",
+      "source": {
+        "name": "AppleInsider"
+      },
+      "description": "A newly discovered iPhone prototype offers a rare glimpse of the unreleased iOS 19, which was a prec...",
+      "url": "https://appleinsider.com/articles/25/12/06/rare-pre-liquid-glass-ios-19-prototype-provides-tiny-hint-at-ios-27-plans",
+      "publishedAt": "2025-12-06T16:54:00Z",
+      "processed_at": "2025-12-07T21:18:06.893128+00:00"
+    },
+    {
+      "title": "Valve explains why Steam Machine doesn’t have HDMI 2.1 - VideoCardz.com",
+      "source": {
+        "name": "Videocardz.com"
+      },
+      "description": "Steam Machine HDMI 2.1 support held back by open-source driver rules, Valve confirms Valve has now c...",
+      "url": "https://videocardz.com/newz/valve-explains-why-steam-machine-doesnt-have-hdmi-2-1",
+      "publishedAt": "2025-12-06T16:15:00Z",
+      "processed_at": "2025-12-07T21:18:06.893128+00:00"
     },
     {
       "title": "The tech world is sleeping on the most exciting Bluetooth feature in years - The Verge",
@@ -40,7 +80,7 @@
       "description": "Auracast lets many devices tune into one Bluetooth broadcast. It’s great for accessibility and noisy...",
       "url": "https://www.theverge.com/report/839245/auracast-marketing-jbl-lg-samsung-google",
       "publishedAt": "2025-12-06T16:00:00Z",
-      "processed_at": "2025-12-07T20:22:25.304930+00:00"
+      "processed_at": "2025-12-07T21:18:06.893128+00:00"
     },
     {
       "title": "Grotmas Calendar Day 6 – Terrify and terminate with a new Chaos Space Marines Detachment - Warhammer Community",
@@ -50,50 +90,20 @@
       "description": "Check out a new Detachment for Warhammer 40,000....",
       "url": "https://www.warhammer-community.com/articles/kdtvqqh5/grotmas-calendar-day-6-terrify-and-terminate-with-a-new-chaos-space-marines-detachment",
       "publishedAt": "2025-12-06T15:59:36Z",
-      "processed_at": "2025-12-07T20:22:25.304930+00:00"
+      "processed_at": "2025-12-07T21:18:06.893128+00:00"
     },
     {
-      "title": "How To Quickly Max A Faction In Destiny 2: Renegades For Tier 5 Loot - Forbes",
-      "source": {
-        "name": "Forbes"
-      },
-      "description": "Destiny 2 is gatekeeping higher-tier loot in Renegades, but it's much easier to upgrade it than it w...",
-      "url": "https://www.forbes.com/sites/paultassi/2025/12/06/how-to-quickly-max-a-faction-in-destiny-2-renegades-for-tier-5-loot/",
-      "publishedAt": "2025-12-06T14:14:06Z",
-      "processed_at": "2025-12-07T20:22:25.304930+00:00"
-    },
-    {
-      "title": "Tested: My Pixel 10 runs faster with the Android 16 QPR2 update - Android Authority",
-      "source": {
-        "name": "Android Authority"
-      },
-      "description": "My Pixel 10's performance appears to be better with Android 16 QPR2, in addition to all its new feat...",
-      "url": "https://www.androidauthority.com/android-16-qpr2-performance-test-3622602/",
-      "publishedAt": "2025-12-06T14:03:37Z",
-      "processed_at": "2025-12-07T20:22:25.304930+00:00"
-    },
-    {
-      "title": "iOS 26.2 Will Add Two New Features To CarPlay In December - bgr.com",
+      "title": "Vizio TVs: Here's Who Makes Them And Where They're Manufactured - bgr.com",
       "source": {
         "name": "BGR"
       },
-      "description": "When Apple launches iOS 26.2 in December, CarPlay will get two useful new features that iPhone owner...",
-      "url": "https://www.bgr.com/2042875/ios-26-2-new-carplay-features/",
-      "publishedAt": "2025-12-06T13:47:00Z",
-      "processed_at": "2025-12-07T20:22:25.304930+00:00"
-    },
-    {
-      "title": "Stop Charging Your Android Watch Daily. Here Are 7 Tips for Longer Battery Life - CNET",
-      "source": {
-        "name": "CNET"
-      },
-      "description": "From Samsung's Galaxy Watch to Google's Pixel Watch and other Wear OS models, these settings can add...",
-      "url": "https://www.cnet.com/tech/mobile/stop-charging-your-android-watch-daily-here-are-7-tips-for-longer-battery-life/",
-      "publishedAt": "2025-12-06T13:00:00Z",
-      "processed_at": "2025-12-07T20:22:25.304930+00:00"
+      "description": "Vizio TVs are made by original design manufacturers (ODMs), including Foxconn and Innolux, in countr...",
+      "url": "https://www.bgr.com/2039452/vizio-tvs-who-makes-where-assembled/",
+      "publishedAt": "2025-12-06T15:47:00Z",
+      "processed_at": "2025-12-07T21:18:06.893128+00:00"
     }
   ],
-  "lastUpdated": "2025-12-07T20:22:25.304999+00:00",
+  "lastUpdated": "2025-12-07T21:18:06.893205+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
