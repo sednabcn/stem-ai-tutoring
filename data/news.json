@@ -3,6 +3,36 @@
   "totalResults": 10,
   "articles": [
     {
+      "title": "iam8bit sues Skybound Games for $4m, claiming breach of contract and theft of designs - Eurogamer",
+      "source": {
+        "name": "Eurogamer.net"
+      },
+      "description": "Iam8bit is suing Skybound Games for £2.9 million ($4 million), alleging breach of contract, fraudule...",
+      "url": "https://www.eurogamer.net/iam8bit-sues-skybound-games-for-4m-claiming-breach-of-contract-and-theft-of-designs",
+      "publishedAt": "2025-12-07T17:37:44Z",
+      "processed_at": "2025-12-08T17:21:46.240707+00:00"
+    },
+    {
+      "title": "iPadOS 26.2 will fix my biggest gripe with Apple’s current iPad software - 9to5Mac",
+      "source": {
+        "name": "9to5Mac"
+      },
+      "description": "With iPadOS 26.2, Apple is bringing two major upgrades to the iPad: Split View has returned, and Sli...",
+      "url": "https://9to5mac.com/2025/12/07/apple-fixed-ipad-software-gripe-ipados-26-2-slide-over/",
+      "publishedAt": "2025-12-07T15:49:00Z",
+      "processed_at": "2025-12-08T17:21:46.240707+00:00"
+    },
+    {
+      "title": "WebGPU is now supported by all major browsers - VideoCardz.com",
+      "source": {
+        "name": "Videocardz.com"
+      },
+      "description": "WebGPU could bring AAA games to browsers in 2027 WebGPU has cleared its last big hurdle. The new GPU...",
+      "url": "https://videocardz.com/newz/webgpu-is-now-supported-by-all-major-browsers",
+      "publishedAt": "2025-12-07T15:01:00Z",
+      "processed_at": "2025-12-08T17:21:46.240707+00:00"
+    },
+    {
       "title": "Microsoft’s Xbox bombed so badly that it got beat by a no‑name console - Windows Central",
       "source": {
         "name": "Windows Central"
@@ -10,7 +40,17 @@
       "description": "As the Switch 2 leads Black Friday and the NEX Playground secures a spot in the top three, Xbox fall...",
       "url": "https://www.windowscentral.com/gaming/xbox/xbox-did-so-badly-on-us-black-friday-sales-it-was-beaten-by-a-console-youve-never-heard-of",
       "publishedAt": "2025-12-07T15:00:21Z",
-      "processed_at": "2025-12-08T16:30:06.933719+00:00"
+      "processed_at": "2025-12-08T17:21:46.240707+00:00"
+    },
+    {
+      "title": "Anatomy Of A Minimalist Home Computer - Hackaday",
+      "source": {
+        "name": "Hackaday"
+      },
+      "description": "There are plenty of well-known models among the 8-bit machines of the 1980s, and most readers could ...",
+      "url": "https://hackaday.com/2025/12/07/anatomy-of-a-minimalist-home-computer/",
+      "publishedAt": "2025-12-07T15:00:00Z",
+      "processed_at": "2025-12-08T17:21:46.240707+00:00"
     },
     {
       "title": "Assassin's Creed Shadows On Switch 2 Supposedly \"Unplayable\" For Some Players After Repeated Crashes - Nintendo Life",
@@ -20,7 +60,7 @@
       "description": "\"I'm waiting for an update, it's impossible to play\"...",
       "url": "https://www.nintendolife.com/news/2025/12/assassins-creed-shadows-on-switch-2-supposedly-unplayable-for-some-players-after-repeated-crashes",
       "publishedAt": "2025-12-07T14:00:00Z",
-      "processed_at": "2025-12-08T16:30:06.933719+00:00"
+      "processed_at": "2025-12-08T17:21:46.240707+00:00"
     },
     {
       "title": "AI Researchers Say They’ve Invented Incantations Too Dangerous to Release to the Public - Futurism",
@@ -30,7 +70,7 @@
       "description": "A team of researchers found prompts that are so effective at tricking AI models that they're keeping...",
       "url": "http://futurism.com/artificial-intelligence/ai-researchers-dangerous-prompts",
       "publishedAt": "2025-12-07T13:15:00Z",
-      "processed_at": "2025-12-08T16:30:06.933719+00:00"
+      "processed_at": "2025-12-08T17:21:46.240707+00:00"
     },
     {
       "title": "Justin Bieber Gives Apple UX Advice, Threatens A “Rear Naked Choke Hold” - Wccftech",
@@ -40,7 +80,7 @@
       "description": "Apple's Messages app UX has irritated Justin Bieber so much so that he is threatening to place every...",
       "url": "https://wccftech.com/justin-bieber-gives-apple-ux-advice-threatens-a-rear-naked-choke-hold/",
       "publishedAt": "2025-12-07T12:05:00Z",
-      "processed_at": "2025-12-08T16:30:06.933719+00:00"
+      "processed_at": "2025-12-08T17:21:46.240707+00:00"
     },
     {
       "title": "The Pros And Cons Of The Mazda Miata RF's Folding Metal Roof - Jalopnik",
@@ -50,7 +90,7 @@
       "description": "The Mazda Miata RF's folding roof is more capable of blocking out the elements, but it's more expens...",
       "url": "https://www.jalopnik.com/2041440/mazda-miata-rf-folding-metal-roof-pros-and-cons/",
       "publishedAt": "2025-12-07T12:05:00Z",
-      "processed_at": "2025-12-08T16:30:06.933719+00:00"
+      "processed_at": "2025-12-08T17:21:46.240707+00:00"
     },
     {
       "title": "The Android password manager nobody talks about actually beats the giants - Android Police",
@@ -60,50 +100,10 @@
       "description": "This invisible Android password manager crushes the competition...",
       "url": "https://www.androidpolice.com/android-password-manager-nobody-talks-about-actually-beats-giants/",
       "publishedAt": "2025-12-07T12:00:00Z",
-      "processed_at": "2025-12-08T16:30:06.933719+00:00"
-    },
-    {
-      "title": "4 reasons Plex is turning into the thing it replaced - Android Authority",
-      "source": {
-        "name": "Android Authority"
-      },
-      "description": "Plex was once the go-to media server, but growing restrictions and paywalls are pushing users away. ...",
-      "url": "https://www.androidauthority.com/plex-restrictions-reasons-to-switch-3622348/",
-      "publishedAt": "2025-12-07T11:42:00Z",
-      "processed_at": "2025-12-08T16:30:06.933719+00:00"
-    },
-    {
-      "title": "The Pixel 11 is already the best phone of 2026 - Android Authority",
-      "source": {
-        "name": "Android Authority"
-      },
-      "description": "With its closest rivals asleep at the wheel, I have full faith in Google's Pixel 11 taking the reins...",
-      "url": "https://www.androidauthority.com/pixel-11-best-phone-2026-3621851/",
-      "publishedAt": "2025-12-07T10:37:28Z",
-      "processed_at": "2025-12-08T16:30:06.933719+00:00"
-    },
-    {
-      "title": "I tried Apple's app of the year. It's more than a tool for people with ADHD. - Business Insider",
-      "source": {
-        "name": "Business Insider"
-      },
-      "description": "Tiimo is an AI-powered visual planner that's marketed towards those with neurodivergent brains. It's...",
-      "url": "https://www.businessinsider.com/i-tried-tiimo-apple-iphone-app-of-the-year-2025-12",
-      "publishedAt": "2025-12-07T10:11:00Z",
-      "processed_at": "2025-12-08T16:30:06.933719+00:00"
-    },
-    {
-      "title": "7 tips to get the best sound quality out of your Samsung TV - Mashable",
-      "source": {
-        "name": "Mashable"
-      },
-      "description": "Samsung TVs sound great, but these simple tips can make them sound even better....",
-      "url": "https://mashable.com/article/tips-best-sound-quality-samsung-tv",
-      "publishedAt": "2025-12-07T10:00:48Z",
-      "processed_at": "2025-12-08T16:30:06.933719+00:00"
+      "processed_at": "2025-12-08T17:21:46.240707+00:00"
     }
   ],
-  "lastUpdated": "2025-12-08T16:30:06.933787+00:00",
+  "lastUpdated": "2025-12-08T17:21:46.240786+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
