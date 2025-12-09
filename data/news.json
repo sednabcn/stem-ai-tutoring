@@ -3,14 +3,24 @@
   "totalResults": 10,
   "articles": [
     {
-      "title": "Apple TV previews new F1 streaming deal, confirms driver onboard cams will be included - 9to5Mac",
+      "title": "Block all AI browsers for the foreseeable future: Gartner - theregister.com",
       "source": {
-        "name": "9to5Mac"
+        "name": "Theregister.com"
       },
-      "description": "Today was the last race of the 2025 F1 championship, and that also meant the last time ESPN will bro...",
-      "url": "https://9to5mac.com/2025/12/07/apple-tv-formula-1-features-first-look-app/",
-      "publishedAt": "2025-12-07T23:17:00Z",
-      "processed_at": "2025-12-09T06:35:12.991585+00:00"
+      "description": ": Analysts worry lazy users could have agents complete mandatory infosec training, and attackers cou...",
+      "url": "https://www.theregister.com/2025/12/08/gartner_recommends_ai_browser_ban/",
+      "publishedAt": "2025-12-08T04:57:00Z",
+      "processed_at": "2025-12-09T07:23:25.880812+00:00"
+    },
+    {
+      "title": "Wavebird Controller Soars Once More With Open Source Adapter - Hackaday",
+      "source": {
+        "name": "Hackaday"
+      },
+      "description": "After scouring the second-hand shops and the endless pages of eBay for original video game hardware,...",
+      "url": "https://hackaday.com/2025/12/07/wavebird-controller-soars-once-more-with-open-source-adapter/",
+      "publishedAt": "2025-12-08T03:00:00Z",
+      "processed_at": "2025-12-09T07:23:25.880812+00:00"
     },
     {
       "title": "A Fasting-Style Diet Seems to Result in Dynamic Changes to Human Brains - ScienceAlert",
@@ -20,7 +30,17 @@
       "description": "Scientists looking to tackle our ongoing obesity crisis have made an important discovery: Intermitte...",
       "url": "https://www.sciencealert.com/a-fasting-style-diet-seems-to-result-in-dynamic-changes-to-human-brains",
       "publishedAt": "2025-12-07T21:50:06Z",
-      "processed_at": "2025-12-09T06:35:12.991585+00:00"
+      "processed_at": "2025-12-09T07:23:25.880812+00:00"
+    },
+    {
+      "title": "The Most Scientifically Accurate Sci-Fi Movies, According To NASA - bgr.com",
+      "source": {
+        "name": "BGR"
+      },
+      "description": "Not all sci-fi movies are like \"2012.\" According to NASA scientists, films like Gattaca and even Jur...",
+      "url": "https://www.bgr.com/2044102/most-scientifically-accurate-sci-fi-movies-nasa/",
+      "publishedAt": "2025-12-07T21:17:00Z",
+      "processed_at": "2025-12-09T07:23:25.880812+00:00"
     },
     {
       "title": "RIP, ‘Dead Space’….Again (2008-2023) - Gizmodo",
@@ -30,7 +50,7 @@
       "description": "Unless EA decides to sell off the 'Dead Space' IP to someone else, the sci-fi horror series has died...",
       "url": "https://gizmodo.com/rip-dead-space-again-2000696495",
       "publishedAt": "2025-12-07T21:15:22Z",
-      "processed_at": "2025-12-09T06:35:12.991585+00:00"
+      "processed_at": "2025-12-09T07:23:25.880812+00:00"
     },
     {
       "title": "Gravity-Defying Colorado Mansion Designed by a Rocket Scientist Hits the Market for $2.7 Million - Realtor.com",
@@ -40,7 +60,7 @@
       "description": "",
       "url": "https://www.realtor.com/news/unique-homes/colorado-rocket-scientist-home-sale-daryl-maus/",
       "publishedAt": "2025-12-07T21:11:25Z",
-      "processed_at": "2025-12-09T06:35:12.991585+00:00"
+      "processed_at": "2025-12-09T07:23:25.880812+00:00"
     },
     {
       "title": "USB Video Capture Devices: Wow! They’re All Bad!! - Hackaday",
@@ -50,7 +70,7 @@
       "description": "[VWestlife] purchased all kinds of USB video capture devices — many of them from the early 2000s — a...",
       "url": "https://hackaday.com/2025/12/07/usb-video-capture-devices-wow-theyre-all-bad/",
       "publishedAt": "2025-12-07T21:00:00Z",
-      "processed_at": "2025-12-09T06:35:12.991585+00:00"
+      "processed_at": "2025-12-09T07:23:25.880812+00:00"
     },
     {
       "title": "How Home Assistant Leads a 'Local-First Rebellion' - Slashdot",
@@ -60,7 +80,7 @@
       "description": "It runs locally, a free/open source home automation platform connecting all your devices together, r...",
       "url": "https://news.slashdot.org/story/25/12/07/1955259/how-home-assistant-leads-a-local-first-rebellion",
       "publishedAt": "2025-12-07T20:53:08Z",
-      "processed_at": "2025-12-09T06:35:12.991585+00:00"
+      "processed_at": "2025-12-09T07:23:25.880812+00:00"
     },
     {
       "title": "Linux GPIB Drivers Declared Stable - 53 Years After HP Introduced The Bus - Phoronix",
@@ -70,7 +90,7 @@
       "description": "Merged to the mainline Linux kernel last year was GPIB drivers in the kernel's 'staging' area...",
       "url": "https://www.phoronix.com/news/GPIB-De-Staged-Linux-6.19",
       "publishedAt": "2025-12-07T19:47:00Z",
-      "processed_at": "2025-12-09T06:35:12.991585+00:00"
+      "processed_at": "2025-12-09T07:23:25.880812+00:00"
     },
     {
       "title": "6 Cheap Smart TVs To Avoid At All Costs, According To Consumer Reports - bgr.com",
@@ -80,30 +100,10 @@
       "description": "According to Consumer Reports, Vizio, Toshiba, TCL, and Hisense make some of the worst budget smart ...",
       "url": "https://www.bgr.com/2039725/cheap-smart-tvs-to-avoid-according-consumer-reports-2025/",
       "publishedAt": "2025-12-07T19:02:00Z",
-      "processed_at": "2025-12-09T06:35:12.991585+00:00"
-    },
-    {
-      "title": "PS5 reigns supreme over Black Friday, accounting for a staggering 62% of all console sales - Eurogamer",
-      "source": {
-        "name": "Eurogamer.net"
-      },
-      "description": "The European Top 20 didn't welcome any new entries last week, but Black Friday week saw a boost in s...",
-      "url": "https://www.eurogamer.net/ps5-reigns-supreme-over-black-friday-accounting-for-a-staggering-62-of-all-console-sales",
-      "publishedAt": "2025-12-07T18:33:00Z",
-      "processed_at": "2025-12-09T06:35:12.991585+00:00"
-    },
-    {
-      "title": "The ROG Xbox Ally Has Just Received Its First Major Discount - Pure Xbox",
-      "source": {
-        "name": "Pure Xbox"
-      },
-      "description": "Available until late December or while stocks last...",
-      "url": "https://www.purexbox.com/news/2025/12/the-rog-xbox-ally-has-just-received-its-first-major-discount",
-      "publishedAt": "2025-12-07T18:04:19Z",
-      "processed_at": "2025-12-09T06:35:12.991585+00:00"
+      "processed_at": "2025-12-09T07:23:25.880812+00:00"
     }
   ],
-  "lastUpdated": "2025-12-09T06:35:12.991658+00:00",
+  "lastUpdated": "2025-12-09T07:23:25.880887+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
