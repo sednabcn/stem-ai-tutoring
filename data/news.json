@@ -1,7 +1,27 @@
 {
   "status": "success",
-  "totalResults": 10,
+  "totalResults": 9,
   "articles": [
+    {
+      "title": "Nintendo Switch 2 System Update 21.1.0 Is Now Live, Here Are The Full Patch Notes - Nintendo Life",
+      "source": {
+        "name": "Nintendo Life"
+      },
+      "description": "Available for Switch as well...",
+      "url": "https://www.nintendolife.com/news/2025/12/nintendo-switch-2-system-update-21-1-0-is-now-live-here-are-the-full-patch-notes",
+      "publishedAt": "2025-12-09T01:35:00Z",
+      "processed_at": "2025-12-10T03:23:34.115100+00:00"
+    },
+    {
+      "title": "Xbox sale round-up December 9, 2025 - TrueAchievements",
+      "source": {
+        "name": "TrueAchievements"
+      },
+      "description": "Discounts on Borderlands 2, Tom Clancy's Splinter Cell Conviction, Descenders, Tom Clancy's Rainbow ...",
+      "url": "https://www.trueachievements.com/n61037/xbox-sale-roundup-december-9-2025",
+      "publishedAt": "2025-12-09T00:07:55Z",
+      "processed_at": "2025-12-10T03:23:34.115100+00:00"
+    },
     {
       "title": "Ditching Spotify Has Been A Bleak Experience To Say The Least - aftermath.site",
       "source": {
@@ -10,7 +30,17 @@
       "description": "It's bad out there...",
       "url": "https://aftermath.site/cancel-spotify-wrapped-ai-ceo-apple-music/",
       "publishedAt": "2025-12-08T23:05:16Z",
-      "processed_at": "2025-12-10T01:48:42.385607+00:00"
+      "processed_at": "2025-12-10T03:23:34.115100+00:00"
+    },
+    {
+      "title": "Save Over $100 On The ASUS ROG Xbox Ally, Now At Its Lowest Price Yet - IGN",
+      "source": {
+        "name": "IGN"
+      },
+      "description": "Save $100 on Microsoft and ASUS' handheld PC collaboration at Amazon right now, letting you take you...",
+      "url": "https://www.ign.com/articles/save-over-100-on-the-asus-rog-xbox-ally-now-at-its-lowest-price-yet",
+      "publishedAt": "2025-12-08T22:01:05Z",
+      "processed_at": "2025-12-10T03:23:34.115100+00:00"
     },
     {
       "title": "Horses Review: A Fine Game That Should’ve Came And Went - Kotaku",
@@ -20,7 +50,17 @@
       "description": "The horror game was banned from Steam and Epic, and the resulting furor feels needlessly intense aft...",
       "url": "https://kotaku.com/horses-review-steam-epic-games-ban-horror-ride-race-2000651442",
       "publishedAt": "2025-12-08T21:06:07Z",
-      "processed_at": "2025-12-10T01:48:42.385607+00:00"
+      "processed_at": "2025-12-10T03:23:34.115100+00:00"
+    },
+    {
+      "title": "10 Best Uses For Your Steam Deck (That Aren't Gaming) - bgr.com",
+      "source": {
+        "name": "BGR"
+      },
+      "description": "Sure, you can play games on your Steam Deck -- but did you know that with the right software, you co...",
+      "url": "https://www.bgr.com/2042926/best-uses-steam-deck-not-gaming/",
+      "publishedAt": "2025-12-08T21:02:00Z",
+      "processed_at": "2025-12-10T03:23:34.115100+00:00"
     },
     {
       "title": "Halo Infinite Is Four Years Old Today And It’s Bumming Me Out - Kotaku",
@@ -30,7 +70,7 @@
       "description": "Remember what Halo Infinite was supposed to be? I do...",
       "url": "https://kotaku.com/halo-infinite-campaign-master-chief-release-date-2000651439",
       "publishedAt": "2025-12-08T20:46:43Z",
-      "processed_at": "2025-12-10T01:48:42.385607+00:00"
+      "processed_at": "2025-12-10T03:23:34.115100+00:00"
     },
     {
       "title": "Who killed Star Wars: Knights of the Old Republic II’s 'Restored Content DLC' for Switch? Disney lawyers. - Game File | Stephen Totilo",
@@ -40,70 +80,20 @@
       "description": "EXCLUSIVE: How a studio's multi-year effort to give Switch (and mobile) gamers official access to KO...",
       "url": "https://www.gamefile.news/p/kotor-ii-restored-content-mod-dlc-switch-killed-disney",
       "publishedAt": "2025-12-08T20:36:12Z",
-      "processed_at": "2025-12-10T01:48:42.385607+00:00"
+      "processed_at": "2025-12-10T03:23:34.115100+00:00"
     },
     {
-      "title": "The Reason Why Vizio TVs Are So Cheap - bgr.com",
+      "title": "Tomb Raider News Confirmed For The Game Awards Following Remake Leak - GameSpot",
       "source": {
-        "name": "BGR"
+        "name": "GameSpot"
       },
-      "description": "Vizio is known for its affordability, so much so that users might doubt the quality of its devices. ...",
-      "url": "https://www.bgr.com/2041063/why-vizio-tvs-so-cheap-explained/",
-      "publishedAt": "2025-12-08T20:09:23Z",
-      "processed_at": "2025-12-10T01:48:42.385607+00:00"
-    },
-    {
-      "title": "Metroid Prime 4 On Switch 1 Impresses Digital Foundry - \"Nigh-Imperceptible Dips\" - Nintendo Life",
-      "source": {
-        "name": "Nintendo Life"
-      },
-      "description": "It's \"one of Switch 1's prettiest games yet\"...",
-      "url": "https://www.nintendolife.com/news/2025/12/metroid-prime-4-on-switch-1-impresses-digital-foundry-nigh-imperceptible-dips",
-      "publishedAt": "2025-12-08T19:30:00Z",
-      "processed_at": "2025-12-10T01:48:42.385607+00:00"
-    },
-    {
-      "title": "Claude Code is coming to Slack, and that’s a bigger deal than it sounds - TechCrunch",
-      "source": {
-        "name": "TechCrunch"
-      },
-      "description": "Anthropic launches Claude Code in Slack, letting developers delegate coding tasks from chat threads....",
-      "url": "https://techcrunch.com/2025/12/08/claude-code-is-coming-to-slack-and-thats-a-bigger-deal-than-it-sounds/",
-      "publishedAt": "2025-12-08T19:18:05Z",
-      "processed_at": "2025-12-10T01:48:42.385607+00:00"
-    },
-    {
-      "title": "The Apple Watch Series 11 just got a big $100 discount ahead of the holidays - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "The Apple Watch Series 11 has been discounted a few times since it launched, but it’s now cheaper th...",
-      "url": "https://www.theverge.com/gadgets/840161/apple-watch-series-11-holiday-deal-sale-2025",
-      "publishedAt": "2025-12-08T19:17:59Z",
-      "processed_at": "2025-12-10T01:48:42.385607+00:00"
-    },
-    {
-      "title": "New Tomb Raider Reveal Confirmed for The Game Awards - Push Square",
-      "source": {
-        "name": "Push Square"
-      },
-      "description": "A \"look at the future\" of Tomb Raider...",
-      "url": "https://www.pushsquare.com/news/2025/12/new-tomb-raider-reveal-confirmed-for-the-game-awards",
-      "publishedAt": "2025-12-08T19:15:00Z",
-      "processed_at": "2025-12-10T01:48:42.385607+00:00"
-    },
-    {
-      "title": "Lenovo’s next gaming laptop may have a rollable OLED screen that stretches ultrawide - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "Lenovo may reveal its Legion Pro Rollable, a gaming laptop hiding an ultrawide OLED screen, at CES 2...",
-      "url": "https://www.theverge.com/news/840124/lenovo-rollable-legion-pro-gaming-laptop-rumor",
-      "publishedAt": "2025-12-08T18:33:51Z",
-      "processed_at": "2025-12-10T01:48:42.385607+00:00"
+      "description": "\"Lara Croft returns at The Game Awards.\"...",
+      "url": "https://www.gamespot.com/articles/tomb-raider-news-confirmed-for-the-game-awards-following-remake-leak/1100-6536770/",
+      "publishedAt": "2025-12-08T20:26:25Z",
+      "processed_at": "2025-12-10T03:23:34.115100+00:00"
     }
   ],
-  "lastUpdated": "2025-12-10T01:48:42.385726+00:00",
+  "lastUpdated": "2025-12-10T03:23:34.115175+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
