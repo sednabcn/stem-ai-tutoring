@@ -3,14 +3,24 @@
   "totalResults": 10,
   "articles": [
     {
-      "title": "I wore Google's upcoming Android XR smart glasses, and it's a future I'd actually want to live in - ZDNET",
+      "title": "YouTube TV has fixed ‘restricted’ problem that broke recorded content [U] - 9to5Google",
       "source": {
-        "name": "ZDNet"
+        "name": "9to5google.com"
       },
-      "description": "From multimodal AI glasses to immersive headsets, Google's Android XR vision is more ambitious - yet...",
-      "url": "https://www.zdnet.com/article/android-xr-smart-glasses-hands-on-xreal-samsung/",
-      "publishedAt": "2025-12-09T20:53:00Z",
-      "processed_at": "2025-12-10T22:21:47.067840+00:00"
+      "description": "An issue affecting YouTube TV subscribers today is leaving recorded content inaccessible, but YouTub...",
+      "url": "http://9to5google.com/2025/12/09/youtube-tv-restricted-recordings-issue/",
+      "publishedAt": "2025-12-09T22:27:00Z",
+      "processed_at": "2025-12-10T23:19:12.766262+00:00"
+    },
+    {
+      "title": "Divinity Original Sin 3 Not Happening Now At Larian, Or Toilet Simulator - GameSpot",
+      "source": {
+        "name": "GameSpot"
+      },
+      "description": "\"I can confirm we aren't working on a toilet simulator at this moment.\"...",
+      "url": "https://www.gamespot.com/articles/divinity-original-sin-3-not-happening-now-at-larian-or-toilet-simulator/1100-6536810/",
+      "publishedAt": "2025-12-09T21:25:53Z",
+      "processed_at": "2025-12-10T23:19:12.766262+00:00"
     },
     {
       "title": "PlayStation Teases 2026 PS5 Games in New Trailer - Push Square",
@@ -20,17 +30,27 @@
       "description": "Halo! 007! Wolverine! Saros!...",
       "url": "https://www.pushsquare.com/news/2025/12/playstation-teases-2026-ps5-games-in-new-trailer",
       "publishedAt": "2025-12-09T20:30:00Z",
-      "processed_at": "2025-12-10T22:21:47.067840+00:00"
+      "processed_at": "2025-12-10T23:19:12.766262+00:00"
     },
     {
-      "title": "We Think We Know What Geoff Keighley's Weird Desert Statue Is Teasing - IGN",
+      "title": "First look: Android 17 may finally let you remap buttons on your game controller - Android Authority",
       "source": {
-        "name": "IGN"
+        "name": "Android Authority"
       },
-      "description": "The mystery of the weird desert statue may have been solved in advance of The Game Awards on Thursda...",
-      "url": "https://www.ign.com/articles/we-think-we-know-what-geoff-keighleys-weird-desert-statue-is-teasing",
-      "publishedAt": "2025-12-09T20:19:16Z",
-      "processed_at": "2025-12-10T22:21:47.067840+00:00"
+      "description": "2026's big Android 17 update could bring some major new gaming features like support for remapping t...",
+      "url": "https://www.androidauthority.com/android-17-gamepad-remapping-rumor-3623718/",
+      "publishedAt": "2025-12-09T19:35:53Z",
+      "processed_at": "2025-12-10T23:19:12.766262+00:00"
+    },
+    {
+      "title": "I’m obsessed with Redfin’s AI search - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "Redfin’s new AI-assisted search is unusually handy, whether you’re actively house hunting or just wi...",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/840190/redfin-ai-search-chatbot",
+      "publishedAt": "2025-12-09T19:15:00Z",
+      "processed_at": "2025-12-10T23:19:12.766262+00:00"
     },
     {
       "title": "Nothing’s community-designed Phone 3A adds some color and matching dice - The Verge",
@@ -40,7 +60,7 @@
       "description": "Nothing’s Phone 3A Community Edition features a teal-tinted 90s-themed design and a matching dice se...",
       "url": "https://www.theverge.com/news/841019/nothing-phone-3a-community-edition",
       "publishedAt": "2025-12-09T18:46:14Z",
-      "processed_at": "2025-12-10T22:21:47.067840+00:00"
+      "processed_at": "2025-12-10T23:19:12.766262+00:00"
     },
     {
       "title": "Microsoft rounds off 2025 with one final Windows 11 feature update — here's what's new and fixed - Windows Central",
@@ -50,7 +70,7 @@
       "description": "The Windows 11 December 2025 Security Update is now rolling out, and alongside it comes a number of ...",
       "url": "https://www.windowscentral.com/microsoft/windows-11/microsoft-rounds-off-2025-with-one-final-windows-11-feature-update-heres-whats-new-and-fixed",
       "publishedAt": "2025-12-09T18:40:37Z",
-      "processed_at": "2025-12-10T22:21:47.067840+00:00"
+      "processed_at": "2025-12-10T23:19:12.766262+00:00"
     },
     {
       "title": "Microsoft December 2025 Patch Tuesday fixes 3 zero-days, 57 flaws - BleepingComputer",
@@ -60,27 +80,17 @@
       "description": "Microsoft's December 2025 Patch Tuesday fixes 57 flaws, including one actively exploited and two pub...",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-december-2025-patch-tuesday-fixes-3-zero-days-57-flaws/",
       "publishedAt": "2025-12-09T18:38:00Z",
-      "processed_at": "2025-12-10T22:21:47.067840+00:00"
+      "processed_at": "2025-12-10T23:19:12.766262+00:00"
     },
     {
-      "title": "Google Photos launches new video editing tools - TechCrunch",
+      "title": "Microsoft promises it will upgrade Windows 11 with better performance for gamers in 2026 — \"we’re committed to making Windows the best place to play\" - Windows Central",
       "source": {
-        "name": "TechCrunch"
+        "name": "Windows Central"
       },
-      "description": "Google Photos' new update helps make editing video reels in the app quicker, such as new templates t...",
-      "url": "https://techcrunch.com/2025/12/09/google-photos-launches-new-video-editing-tools/",
-      "publishedAt": "2025-12-09T18:00:00Z",
-      "processed_at": "2025-12-10T22:21:47.067840+00:00"
-    },
-    {
-      "title": "Pixel Watch December 2025 update rolling out with Wear OS 6.1 - 9to5Google",
-      "source": {
-        "name": "9to5google.com"
-      },
-      "description": "Following the announcement this morning, Google is rolling out the December 2025 update to the Pixel...",
-      "url": "http://9to5google.com/2025/12/09/pixel-watch-december-2025-update/",
-      "publishedAt": "2025-12-09T17:46:00Z",
-      "processed_at": "2025-12-10T22:21:47.067840+00:00"
+      "description": "Windows 11 is set to gain a number of important improvements for gamers next year, all designed to a...",
+      "url": "https://www.windowscentral.com/microsoft/windows-11/microsoft-promises-it-will-upgrade-windows-11-with-better-performance-for-gamers-in-2026-were-committed-to-making-windows-the-best-place-to-play",
+      "publishedAt": "2025-12-09T18:32:01Z",
+      "processed_at": "2025-12-10T23:19:12.766262+00:00"
     },
     {
       "title": "Google rolling out Notification Organizer to Pixel - 9to5Google",
@@ -90,20 +100,10 @@
       "description": "Following AI Summaries last month, Google is rolling out the Notification Organizer to Pixel phones ...",
       "url": "http://9to5google.com/2025/12/09/google-pixel-notification-organizer/",
       "publishedAt": "2025-12-09T17:15:00Z",
-      "processed_at": "2025-12-10T22:21:47.067840+00:00"
-    },
-    {
-      "title": "Indiana Jones and the Great Circle update adds an outfit suitable to eat chilled monkey brains in - Eurogamer",
-      "source": {
-        "name": "Eurogamer.net"
-      },
-      "description": "The team at MachineGames has issued a new update for Indiana Jones and the Great Circle....",
-      "url": "https://www.eurogamer.net/indiana-jones-and-the-great-circle-update-adds-an-outfit-suitable-to-eat-chilled-monkey-brains-in",
-      "publishedAt": "2025-12-09T17:14:48Z",
-      "processed_at": "2025-12-10T22:21:47.067840+00:00"
+      "processed_at": "2025-12-10T23:19:12.766262+00:00"
     }
   ],
-  "lastUpdated": "2025-12-10T22:21:47.067913+00:00",
+  "lastUpdated": "2025-12-10T23:19:12.766341+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
