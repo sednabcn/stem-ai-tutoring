@@ -1,7 +1,67 @@
 {
   "status": "success",
-  "totalResults": 9,
+  "totalResults": 10,
   "articles": [
+    {
+      "title": "Getting Personal With AI: Microsoft Stock (NASDAQ:MSFT) Slips as Users Turn to AI in Strange Ways - TipRanks",
+      "source": {
+        "name": "Tipranks.com"
+      },
+      "description": "Tech giant Microsoft ($MSFT) has clearly focused on artificial intelligence (AI) of late, even when ...",
+      "url": "https://www.tipranks.com/news/getting-personal-with-ai-microsoft-stock-nasdaqmsft-slips-as-users-turn-to-ai-in-strange-ways",
+      "publishedAt": "2025-12-10T18:37:32Z",
+      "processed_at": "2025-12-11T19:21:18.506088+00:00"
+    },
+    {
+      "title": "Pokémon Legends: Z-A’s DLC Alleviates The Shiny Grind For $30 - Kotaku",
+      "source": {
+        "name": "Kotaku"
+      },
+      "description": "Mega Dimension has a roundabout way to find more Shinies if you drop the cash...",
+      "url": "https://kotaku.com/pokemon-legends-za-mega-dimension-research-shiny-charm-2000652209",
+      "publishedAt": "2025-12-10T17:46:24Z",
+      "processed_at": "2025-12-11T19:21:18.506088+00:00"
+    },
+    {
+      "title": "Deals for Today: Save Up to $15 on Pokémon Legends Z-A + Mega Dimension DLC While Stocks Last - IGN",
+      "source": {
+        "name": "IGN"
+      },
+      "description": "Save $15 on Pokémon Legends Z-A and its Mega Dimension DLC, plus huge discounts on first-party Ninte...",
+      "url": "https://www.ign.com/articles/deals-for-today-save-up-to-15-on-pokmon-legends-z-a-mega-dimension-dlc-while-stocks-last",
+      "publishedAt": "2025-12-10T17:32:28Z",
+      "processed_at": "2025-12-11T19:21:18.506088+00:00"
+    },
+    {
+      "title": "Android users can now share a live video on 911 calls - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "Android phones are getting a new Emergency Live Video feature that allows them to share a video feed...",
+      "url": "https://www.theverge.com/news/841503/android-emergency-live-video",
+      "publishedAt": "2025-12-10T17:01:21Z",
+      "processed_at": "2025-12-11T19:21:18.506088+00:00"
+    },
+    {
+      "title": "9 PS Plus Extra, Premium Games for December 2025 Announced - Push Square",
+      "source": {
+        "name": "Push Square"
+      },
+      "description": "",
+      "url": "https://www.pushsquare.com/news/2025/12/9-ps-plus-extra-premium-games-for-december-2025-announced",
+      "publishedAt": "2025-12-10T16:35:00Z",
+      "processed_at": "2025-12-11T19:21:18.506088+00:00"
+    },
+    {
+      "title": "50 Absolutely Perfect Texts People Sent In 2025 That Make Me Laugh Uncontrollably Literally Every Single Time I Think About Them - BuzzFeed",
+      "source": {
+        "name": "Buzzfeed"
+      },
+      "description": "They have such a way with words....",
+      "url": "https://www.buzzfeed.com/daves4/funny-and-best-text-messages-2025",
+      "publishedAt": "2025-12-10T16:25:28Z",
+      "processed_at": "2025-12-11T19:21:18.506088+00:00"
+    },
     {
       "title": "Two classic N64 platformers join Nintendo Switch Online later this month - Eurogamer",
       "source": {
@@ -10,17 +70,27 @@
       "description": "Two classic N64 platformers are making their way to Nintendo Switch Online this month for subscriber...",
       "url": "https://www.eurogamer.net/two-classic-n64-platformers-join-nintendo-switch-online-later-this-month",
       "publishedAt": "2025-12-10T15:42:48Z",
-      "processed_at": "2025-12-11T18:32:51.261470+00:00"
+      "processed_at": "2025-12-11T19:21:18.506088+00:00"
+    },
+    {
+      "title": "Galaxy S26 cost-cutting reportedly killed a long overdue camera upgrade - 9to5Google",
+      "source": {
+        "name": "9to5google.com"
+      },
+      "description": "According to a new report, Samsung’s upcoming Galaxy S26 series will forgo a long overdue camera upg...",
+      "url": "http://9to5google.com/2025/12/10/samsung-galaxy-s26-camera-upgrade-killed-report/",
+      "publishedAt": "2025-12-10T15:10:00Z",
+      "processed_at": "2025-12-11T19:21:18.506088+00:00"
     },
     {
       "title": "GTA Online: A Safehouse in the Hills Now Available - Rockstar Games",
       "source": {
         "name": "Rockstargames.com"
       },
-      "description": "",
+      "description": "Status is everything, and in GTA Online: A Safehouse in the Hills you can now revel in your rightful...",
       "url": "https://www.rockstargames.com/newswire/article/ak392a52o59o13/gta-online-a-safehouse-in-the-hills-now-available",
       "publishedAt": "2025-12-10T14:57:34Z",
-      "processed_at": "2025-12-11T18:32:51.261470+00:00"
+      "processed_at": "2025-12-11T19:21:18.506088+00:00"
     },
     {
       "title": "The Best Video Games of 2025 - The Ringer",
@@ -30,70 +100,10 @@
       "description": "The games were good this year. These were the best of them....",
       "url": "https://www.theringer.com/2025/12/10/video-games/best-video-games-2025-top-10-ranking-games-of-the-year-goty",
       "publishedAt": "2025-12-10T14:37:01Z",
-      "processed_at": "2025-12-11T18:32:51.261470+00:00"
-    },
-    {
-      "title": "Amazon Bets on Color and AI With Its Priciest Kindle to Date - Bloomberg.com",
-      "source": {
-        "name": "Bloomberg"
-      },
-      "description": "Review: Amazon’s $630 pen-enabled device is a tough sell for most people....",
-      "url": "https://www.bloomberg.com/news/features/2025-12-10/amazon-kindle-scribe-colorsoft-review-630-device-bets-big-on-ai-color-screen",
-      "publishedAt": "2025-12-10T14:00:24Z",
-      "processed_at": "2025-12-11T18:32:51.261470+00:00"
-    },
-    {
-      "title": "AMD FSR Redstone is an exciting and confusing upgrade for Radeon PC gamers - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "AMD FSR Redstone is here, absorbing FSR 4, to make your games speedier and/or look better with machi...",
-      "url": "https://www.theverge.com/games/841342/amd-fsr-redstone-is-an-exciting-and-confusing-upgrade-for-radeon-pc-gamers",
-      "publishedAt": "2025-12-10T14:00:00Z",
-      "processed_at": "2025-12-11T18:32:51.261470+00:00"
-    },
-    {
-      "title": "Adobe brings Photoshop, Express and Acrobat features to ChatGPT - TechCrunch",
-      "source": {
-        "name": "TechCrunch"
-      },
-      "description": "ChatGPT's 800 million plus userbase can now use Adobe's apps to modify images and PDFs...",
-      "url": "https://techcrunch.com/2025/12/10/adobe-brings-photoshop-express-and-acrobat-features-to-chatgpt/",
-      "publishedAt": "2025-12-10T13:18:28Z",
-      "processed_at": "2025-12-11T18:32:51.261470+00:00"
-    },
-    {
-      "title": "Win hardware, collectibles, and more in the 2025 Ars Technica Charity Drive - Ars Technica",
-      "source": {
-        "name": "Ars Technica"
-      },
-      "description": "Help yourself to prizes by helping us raise money for good causes....",
-      "url": "https://arstechnica.com/gaming/2025/12/win-hardware-collectibles-and-more-in-the-2025-ars-technica-charity-drive/",
-      "publishedAt": "2025-12-10T12:30:29Z",
-      "processed_at": "2025-12-11T18:32:51.261470+00:00"
-    },
-    {
-      "title": "Two New Free PlayStation Plus Games Leak Online Ahead of December Reveal - GAMINGbible",
-      "source": {
-        "name": "Gamingbible.com"
-      },
-      "description": "Two more exciting games arriving to PS Plus have been leaked...",
-      "url": "https://www.gamingbible.com/news/platform/playstation/playstation-plus-free-games-876444-20251210",
-      "publishedAt": "2025-12-10T12:15:03Z",
-      "processed_at": "2025-12-11T18:32:51.261470+00:00"
-    },
-    {
-      "title": "Warning: WinRAR Vulnerability CVE-2025-6218 Under Active Attack by Multiple Threat Groups - The Hacker News",
-      "source": {
-        "name": "Internet"
-      },
-      "description": "CISA warns WinRAR CVE-2025-6218 is under active attack by multiple threat groups, requiring federal ...",
-      "url": "https://thehackernews.com/2025/12/warning-winrar-vulnerability-cve-2025.html",
-      "publishedAt": "2025-12-10T11:54:00Z",
-      "processed_at": "2025-12-11T18:32:51.261470+00:00"
+      "processed_at": "2025-12-11T19:21:18.506088+00:00"
     }
   ],
-  "lastUpdated": "2025-12-11T18:32:51.261533+00:00",
+  "lastUpdated": "2025-12-11T19:21:18.506160+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
