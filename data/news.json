@@ -3,6 +3,46 @@
   "totalResults": 10,
   "articles": [
     {
+      "title": "iOS 26.2 is here with Liquid Glass, AirDrop, and Apple Music updates - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "iOS 26.2 gives iPhones a new way to reduce the Liquid Glass look and introduces AirDrop codes, new f...",
+      "url": "https://www.theverge.com/news/839534/apple-iphone-ipad-mac-update-26-2",
+      "publishedAt": "2025-12-12T19:18:42Z",
+      "processed_at": "2025-12-13T19:16:29.362153+00:00"
+    },
+    {
+      "title": "Google Translate brings real-time speech translations to any headphones - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "Google Translate will now let users hear live speech translations in any headphones on its Android a...",
+      "url": "https://www.theverge.com/news/843483/google-translate-live-speech-translations-headphones",
+      "publishedAt": "2025-12-12T18:11:14Z",
+      "processed_at": "2025-12-13T19:16:29.362153+00:00"
+    },
+    {
+      "title": "Amazon pulls AI recap from Fallout TV show after it made several mistakes - BBC",
+      "source": {
+        "name": "BBC News"
+      },
+      "description": "The errors included getting dialogue wrong and incorrectly claiming a scene was set 100 years earlie...",
+      "url": "https://www.bbc.com/news/articles/c3r77j5nze5o",
+      "publishedAt": "2025-12-12T18:04:47Z",
+      "processed_at": "2025-12-13T19:16:29.362153+00:00"
+    },
+    {
+      "title": "34.2.2 Patch Notes — Hearthstone - Blizzard News",
+      "source": {
+        "name": "Blizzard.com"
+      },
+      "description": "The latest balance update for Hearthstone and Battlegrounds is here....",
+      "url": "https://news.blizzard.com/en-us/article/24250382/34-2-2-patch-notes",
+      "publishedAt": "2025-12-12T16:55:00Z",
+      "processed_at": "2025-12-13T19:16:29.362153+00:00"
+    },
+    {
       "title": "The $2,400 Samsung Galaxy Z TriFold sold out in minutes - GSMArena.com news - GSMArena.com",
       "source": {
         "name": "GSMArena.com"
@@ -10,37 +50,27 @@
       "description": "It went on sale today in South Korea, which is the only country where it's being sold. The Samsung G...",
       "url": "https://www.gsmarena.com/samsung_galaxy_z_trifold_sold_out-news-70690.php",
       "publishedAt": "2025-12-12T16:17:02Z",
-      "processed_at": "2025-12-13T18:28:58.321210+00:00"
+      "processed_at": "2025-12-13T19:16:29.362153+00:00"
     },
     {
-      "title": "These On-Screen Automotive Mistakes Annoy Our Readers The Most - Jalopnik",
+      "title": "Mounts of Mayhem challenges - Minecraft",
       "source": {
-        "name": "Jalopnik"
+        "name": "Minecraft.net"
       },
-      "description": "Unsurprisingly, our audience had lots of examples of on-screen automotive mistakes that annoy them....",
-      "url": "https://www.jalopnik.com/2050130/automotive-mistakes-on-screen-reader-answers/",
-      "publishedAt": "2025-12-12T15:25:00Z",
-      "processed_at": "2025-12-13T18:28:58.321210+00:00"
+      "description": "Take on two challenges in the Mobs of Mayhem drop and earn dashing rewards! Defeat five mobs with a ...",
+      "url": "https://www.minecraft.net/en-us/article/mounts-of-mayhem-challenges",
+      "publishedAt": "2025-12-12T16:04:30Z",
+      "processed_at": "2025-12-13T19:16:29.362153+00:00"
     },
     {
-      "title": "Resident Evil Requiem's Leon and Grace will have differing gameplay like \"jumping into a cold bath after a hot sauna\" - Eurogamer",
+      "title": "Id Software devs form \"wall-to-wall\" union, with 165 workers at Doom studio the latest to vote in favour - Rock Paper Shotgun",
       "source": {
-        "name": "Eurogamer.net"
+        "name": "Rock Paper Shotgun"
       },
-      "description": "Resident Evil Requiem's dual protagonists will represent two styles of gameplay, which its developer...",
-      "url": "https://www.eurogamer.net/resident-evil-requiem-leon-grace-differing-gameplay",
-      "publishedAt": "2025-12-12T15:05:52Z",
-      "processed_at": "2025-12-13T18:28:58.321210+00:00"
-    },
-    {
-      "title": "These Unique Tech Accessories Make Easy Last-Minute Gifts - CNET",
-      "source": {
-        "name": "CNET"
-      },
-      "description": "Some of my favorite tech accessories can refresh your routine....",
-      "url": "https://www.cnet.com/tech/mobile/these-unique-tech-accessories-make-easy-last-minute-gifts/",
-      "publishedAt": "2025-12-12T13:01:00Z",
-      "processed_at": "2025-12-13T18:28:58.321210+00:00"
+      "description": "165 workers at Doom studio id Software have voted to unionise under the Communication Workers of Ame...",
+      "url": "https://www.rockpapershotgun.com/id-software-devs-form-wall-to-wall-union-with-165-workers-at-doom-studio-the-latest-to-vote-in-favour",
+      "publishedAt": "2025-12-12T14:00:00Z",
+      "processed_at": "2025-12-13T19:16:29.362153+00:00"
     },
     {
       "title": "The 5 most innovative tech products we tested this year (including a tri-fold surprise) - ZDNET",
@@ -50,17 +80,7 @@
       "description": "From AI glasses with digital overlays to robot vacuums that can pick up your leftover laundry, here ...",
       "url": "https://www.zdnet.com/article/zdnet-breakthrough-awards-2025/",
       "publishedAt": "2025-12-12T12:44:00Z",
-      "processed_at": "2025-12-13T18:28:58.321210+00:00"
-    },
-    {
-      "title": "The Ars Technica guide to “dumb” TVs - Ars Technica",
-      "source": {
-        "name": "Ars Technica"
-      },
-      "description": "Sick of smart TVs? Here are your best options....",
-      "url": "https://arstechnica.com/gadgets/2025/12/the-ars-technica-guide-to-dumb-tvs/",
-      "publishedAt": "2025-12-12T12:30:22Z",
-      "processed_at": "2025-12-13T18:28:58.321210+00:00"
+      "processed_at": "2025-12-13T19:16:29.362153+00:00"
     },
     {
       "title": "Framework Raises DDR5 Memory Prices By 50% For DIY Laptops - Phoronix",
@@ -70,40 +90,20 @@
       "description": "Framework Computer had worked to keep their memory prices lower than other laptop vendors amid the o...",
       "url": "https://www.phoronix.com/news/Framework-50p-DDR5-Memory",
       "publishedAt": "2025-12-12T11:41:00Z",
-      "processed_at": "2025-12-13T18:28:58.321210+00:00"
+      "processed_at": "2025-12-13T19:16:29.362153+00:00"
     },
     {
-      "title": "The Game Awards 2025 – Every Winner and Xbox Reveal, Plus New Details on Control Resonant, Diablo IV, Tomb Raider, and More - Xbox Wire",
+      "title": "Amputees often feel disconnected from their bionic hands. AI could bridge the gap : Shots - Health News - NPR",
       "source": {
-        "name": "Xbox.com"
+        "name": "NPR"
       },
-      "description": "On behalf of the creative teams at Xbox, Bethesda Softworks, Activision, and Blizzard, we extend our...",
-      "url": "https://news.xbox.com/en-us/2025/12/11/the-game-awards-2025-recap-every-winner-and-xbox-reveal/",
-      "publishedAt": "2025-12-12T04:32:55Z",
-      "processed_at": "2025-12-13T18:28:58.321210+00:00"
-    },
-    {
-      "title": "Mega Man Returns In 2027 With A Brand-New Entry For Switch And Switch 2 - Nintendo Life",
-      "source": {
-        "name": "Nintendo Life"
-      },
-      "description": "Here's a first look at the gameplay...",
-      "url": "https://www.nintendolife.com/news/2025/12/mega-man-returns-in-2027-with-a-brand-new-entry-for-switch-and-switch-2",
-      "publishedAt": "2025-12-12T03:50:00Z",
-      "processed_at": "2025-12-13T18:28:58.321210+00:00"
-    },
-    {
-      "title": "Announcing Total War: Warhammer 40,000! - Warhammer Community",
-      "source": {
-        "name": "Warhammer-community.com"
-      },
-      "description": "Watch the trailer now! The award-winning strategy franchise moves into the 41st Millennium....",
-      "url": "https://www.warhammer-community.com/articles/im0uezy0/announcing-total-war-warhammer-40000",
-      "publishedAt": "2025-12-12T03:32:05Z",
-      "processed_at": "2025-12-13T18:28:58.321210+00:00"
+      "description": "Sensors and artificial intelligence help a prosthetic hand act more like a natural one, new research...",
+      "url": "https://www.npr.org/sections/shots-health-news/2025/12/12/nx-s1-5639925/bionic-hand-prosthetic-artificial-intelligence",
+      "publishedAt": "2025-12-12T11:00:00Z",
+      "processed_at": "2025-12-13T19:16:29.362153+00:00"
     }
   ],
-  "lastUpdated": "2025-12-13T18:28:58.321284+00:00",
+  "lastUpdated": "2025-12-13T19:16:29.362220+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
