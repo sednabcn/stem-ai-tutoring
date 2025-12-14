@@ -3,6 +3,26 @@
   "totalResults": 10,
   "articles": [
     {
+      "title": "Video: Pragmata Hands-On Impressions Shared By Capcom - Nintendo Life",
+      "source": {
+        "name": "Nintendo Life"
+      },
+      "description": "See what it's all about...",
+      "url": "https://www.nintendolife.com/news/2025/12/video-pragmata-hands-on-impressions-shared-by-capcom",
+      "publishedAt": "2025-12-13T00:35:00Z",
+      "processed_at": "2025-12-14T11:17:23.738362+00:00"
+    },
+    {
+      "title": "How OpenAI is using GPT-5 Codex to improve the AI tool itself - Ars Technica",
+      "source": {
+        "name": "Ars Technica"
+      },
+      "description": "“The vast majority of Codex is built by Codex,” OpenAI told us about its new AI coding agent....",
+      "url": "https://arstechnica.com/ai/2025/12/how-openai-is-using-gpt-5-codex-to-improve-the-ai-tool-itself/",
+      "publishedAt": "2025-12-13T00:33:52Z",
+      "processed_at": "2025-12-14T11:17:23.738362+00:00"
+    },
+    {
       "title": "Google Turns Ordinary Headphones Into Instant Language Interpreters - CNET",
       "source": {
         "name": "CNET"
@@ -10,7 +30,7 @@
       "description": "Google is rolling out a beta version of the Translate app with support for more than 70 languages....",
       "url": "https://www.cnet.com/tech/mobile/google-turns-ordinary-headphones-into-instant-language-interpreters/",
       "publishedAt": "2025-12-12T21:40:00Z",
-      "processed_at": "2025-12-14T10:21:51.160732+00:00"
+      "processed_at": "2025-12-14T11:17:23.738362+00:00"
     },
     {
       "title": "Amazon Pulls AI Recap Video After ‘Fallout’ Mess - Gizmodo",
@@ -20,7 +40,7 @@
       "description": "Amazon is being forced to repeatedly learn a lesson: use AI slop, and get people yelling at you unti...",
       "url": "https://gizmodo.com/fallout-ai-recap-amazon-prime-video-anime-2000699210",
       "publishedAt": "2025-12-12T21:20:51Z",
-      "processed_at": "2025-12-14T10:21:51.160732+00:00"
+      "processed_at": "2025-12-14T11:17:23.738362+00:00"
     },
     {
       "title": "Porsche Just Unveiled a New 911 GT3 Inspired by Ferdinand Alexander Porsche Himself - Robb Report",
@@ -30,7 +50,7 @@
       "description": "The new 911 GT3 90 F.A. Porsche will be limited to just 90 examples....",
       "url": "http://robbreport.com/motors/cars/porsche-911-gt3-ferdinand-alexander-porsche-1237410568/",
       "publishedAt": "2025-12-12T21:00:00Z",
-      "processed_at": "2025-12-14T10:21:51.160732+00:00"
+      "processed_at": "2025-12-14T11:17:23.738362+00:00"
     },
     {
       "title": "With iOS 26.2, Apple lets you roll back Liquid Glass again — this time on the Lock Screen - TechCrunch",
@@ -40,7 +60,27 @@
       "description": "Your iPhone clock doesn't have to be so \"glassy\" anymore, thanks to a new Apple software update....",
       "url": "https://techcrunch.com/2025/12/12/with-ios-26-2-apple-lets-you-roll-back-liquid-glass-again-this-time-on-the-lock-screen/",
       "publishedAt": "2025-12-12T20:45:00Z",
-      "processed_at": "2025-12-14T10:21:51.160732+00:00"
+      "processed_at": "2025-12-14T11:17:23.738362+00:00"
+    },
+    {
+      "title": "Samsung’s new camera sensor could make motion blur issues a thing of the past - 9to5Google",
+      "source": {
+        "name": "9to5google.com"
+      },
+      "description": "Samsung is working on a new camera sensor, and once it finds its way into a next-gen Galaxy S-series...",
+      "url": "http://9to5google.com/2025/12/12/samsung-new-camera-sensor-motion-blur-global-shutter/",
+      "publishedAt": "2025-12-12T20:10:00Z",
+      "processed_at": "2025-12-14T11:17:23.738362+00:00"
+    },
+    {
+      "title": "Highguard, The Game Awards’ Final Trailer, Has Viewers Titled - Kotaku",
+      "source": {
+        "name": "Kotaku"
+      },
+      "description": "Highguard has some of the internet up in arms after closing out the awards ceremony, but is it merit...",
+      "url": "https://kotaku.com/game-awards-trailers-recap-highguard-titanfall-apex-2000653088",
+      "publishedAt": "2025-12-12T20:05:29Z",
+      "processed_at": "2025-12-14T11:17:23.738362+00:00"
     },
     {
       "title": "New Tomb Raider Games Recast Lara Croft With A Gaming Veteran - GameSpot",
@@ -50,7 +90,7 @@
       "description": "Here's who is playing Lara Croft in the upcoming Tomb Raider games....",
       "url": "https://www.gamespot.com/articles/new-tomb-raider-games-recast-lara-croft-with-a-gaming-veteran/1100-6536948/",
       "publishedAt": "2025-12-12T19:38:00Z",
-      "processed_at": "2025-12-14T10:21:51.160732+00:00"
+      "processed_at": "2025-12-14T11:17:23.738362+00:00"
     },
     {
       "title": "Pokémon Legends: Z-A’s DLC Leaves One Mega Evolution Out - Kotaku",
@@ -60,50 +100,10 @@
       "description": "There’s one more Mega Stone players can’t get yet, hiding in the game’s code...",
       "url": "https://kotaku.com/pokemon-legends-za-garchomp-z-mega-dimension-stone-where-2000653068",
       "publishedAt": "2025-12-12T18:45:55Z",
-      "processed_at": "2025-12-14T10:21:51.160732+00:00"
-    },
-    {
-      "title": "34.2.2 Patch Notes — Hearthstone - Blizzard News",
-      "source": {
-        "name": "Blizzard.com"
-      },
-      "description": "The latest balance update for Hearthstone and Battlegrounds is here....",
-      "url": "https://news.blizzard.com/en-us/article/24250382/34-2-2-patch-notes",
-      "publishedAt": "2025-12-12T16:55:00Z",
-      "processed_at": "2025-12-14T10:21:51.160732+00:00"
-    },
-    {
-      "title": "Mounts of Mayhem challenges - Minecraft",
-      "source": {
-        "name": "Minecraft.net"
-      },
-      "description": "Take on two challenges in the Mobs of Mayhem drop and earn dashing rewards! Defeat five mobs with a ...",
-      "url": "https://www.minecraft.net/en-us/article/mounts-of-mayhem-challenges",
-      "publishedAt": "2025-12-12T16:04:30Z",
-      "processed_at": "2025-12-14T10:21:51.160732+00:00"
-    },
-    {
-      "title": "Samsung’s Galaxy Z TriFold already sold out in South Korea ahead of US launch - 9to5Google",
-      "source": {
-        "name": "9to5google.com"
-      },
-      "description": "Samsung’s long-awaited Galaxy Z TriFold will hit store shelves in the US early next year, but if its...",
-      "url": "http://9to5google.com/2025/12/12/samsungs-galaxy-z-trifold-already-sold-out-in-south-korea-ahead-of-us-launch/",
-      "publishedAt": "2025-12-12T15:10:00Z",
-      "processed_at": "2025-12-14T10:21:51.160732+00:00"
-    },
-    {
-      "title": "Resident Evil Requiem's Leon and Grace will have differing gameplay like \"jumping into a cold bath after a hot sauna\" - Eurogamer",
-      "source": {
-        "name": "Eurogamer.net"
-      },
-      "description": "Resident Evil Requiem's dual protagonists will represent two styles of gameplay, which its developer...",
-      "url": "https://www.eurogamer.net/resident-evil-requiem-leon-grace-differing-gameplay",
-      "publishedAt": "2025-12-12T15:05:52Z",
-      "processed_at": "2025-12-14T10:21:51.160732+00:00"
+      "processed_at": "2025-12-14T11:17:23.738362+00:00"
     }
   ],
-  "lastUpdated": "2025-12-14T10:21:51.160808+00:00",
+  "lastUpdated": "2025-12-14T11:17:23.738438+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
