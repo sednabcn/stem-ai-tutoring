@@ -3,24 +3,34 @@
   "totalResults": 10,
   "articles": [
     {
-      "title": "LG Update Installs Unremovable Microsoft Copilot on Smart TVs, Ignites Backlash - WebProNews",
+      "title": "He created Grand Theft Auto. Now he's back with a novel about an AI that hijacks your mind - BBC",
       "source": {
-        "name": "WebProNews"
+        "name": "BBC News"
       },
-      "description": "LG's recent software update has forcibly installed Microsoft Copilot, an AI assistant, on smart TVs ...",
-      "url": "https://www.webpronews.com/lg-update-installs-unremovable-microsoft-copilot-on-smart-tvs-ignites-backlash/",
-      "publishedAt": "2025-12-13T19:38:24Z",
-      "processed_at": "2025-12-15T01:53:06.696370+00:00"
+      "description": "A Better Paradise is a dystopian vision of the near future in which an AI-led computer game goes rog...",
+      "url": "https://www.bbc.com/news/articles/c2epm9z9kkvo",
+      "publishedAt": "2025-12-14T00:58:34Z",
+      "processed_at": "2025-12-15T03:43:04.416804+00:00"
     },
     {
-      "title": "Fake Windows update pushes malware in new ClickFix attack - Fox News",
+      "title": "Nintendo fixes Resident Evil 4, Miitopia, and more on Switch 2 - full list of new backwards compatibility updates - Nintendo Everything",
       "source": {
-        "name": "Fox News"
+        "name": "Nintendoeverything.com"
       },
-      "description": "The ClickFix campaign disguises malware as legitimate Windows updates, using steganography to hide s...",
-      "url": "https://www.foxnews.com/tech/fake-windows-update-pushes-malware-new-clickfix-attack",
-      "publishedAt": "2025-12-13T18:30:11Z",
-      "processed_at": "2025-12-15T01:53:06.696370+00:00"
+      "description": "Nintendo has prepared more Switch 1 backwards compatibility fixes for Switch 2, including Miitopia a...",
+      "url": "https://nintendoeverything.com/nintendo-fixes-resident-evil-4-miitopia-and-more-on-switch-2-full-list-of-backwards-compatibility-updates/",
+      "publishedAt": "2025-12-13T21:03:07Z",
+      "processed_at": "2025-12-15T03:43:04.416804+00:00"
+    },
+    {
+      "title": "Sledgehammer founder reflects on \"bittersweet\" changes at EA and Activision: \"Watching them fade hits harder than expected\" - Eurogamer",
+      "source": {
+        "name": "Eurogamer.net"
+      },
+      "description": "Former Striking Distance and Sledgehammer founder Glen Schofield has shared his concerns about the s...",
+      "url": "https://www.eurogamer.net/sledgehammer-founder-reflects-on-bittersweet-changes-at-ea-and-activision-watching-them-fade-hits-harder-than-expected",
+      "publishedAt": "2025-12-13T18:25:14Z",
+      "processed_at": "2025-12-15T03:43:04.416804+00:00"
     },
     {
       "title": "A Kinect for kids is outselling Xbox to become the hot toy this holiday - The Verge",
@@ -30,7 +40,7 @@
       "description": "The Nex Playground is basically Kinect for kids, and it’s outselling Microsoft’s Xbox, shaking up th...",
       "url": "https://www.theverge.com/news/844380/nex-playground-outselling-the-xbox",
       "publishedAt": "2025-12-13T18:17:20Z",
-      "processed_at": "2025-12-15T01:53:06.696370+00:00"
+      "processed_at": "2025-12-15T03:43:04.416804+00:00"
     },
     {
       "title": "Destiny 2 Equilibrium Loot Table: Dungeon Weapons and Armor - The Game Post",
@@ -40,7 +50,7 @@
       "description": "Here's our full Destiny 2 Equilibrium loot table, including all dungeon weapons, armor, cosmetics, a...",
       "url": "https://thegamepost.com/destiny-2-equilibrium-loot-table-dungeon/",
       "publishedAt": "2025-12-13T18:01:38Z",
-      "processed_at": "2025-12-15T01:53:06.696370+00:00"
+      "processed_at": "2025-12-15T03:43:04.416804+00:00"
     },
     {
       "title": "Saturday Pre-orders: Era of Ruin special edition guaranteed stock - Warhammer Community",
@@ -50,17 +60,27 @@
       "description": "This week’s new releases are live....",
       "url": "https://www.warhammer-community.com/articles/wimoozuy/saturday-pre-orders-era-of-ruin-special-edition-guaranteed-stock",
       "publishedAt": "2025-12-13T17:56:43Z",
-      "processed_at": "2025-12-15T01:53:06.696370+00:00"
+      "processed_at": "2025-12-15T03:43:04.416804+00:00"
     },
     {
-      "title": "Slab is the first MIDI controller built exclusively for Serato Studio - The Verge",
+      "title": "‘Cyberpunk 2077’ Proved a Game Can Change Itself, But Not Its History - Gizmodo",
       "source": {
-        "name": "The Verge"
+        "name": "Gizmodo.com"
       },
-      "description": "Slab gives Serato Studio users an MPC-like hands-on controller for chopping samples and building bea...",
-      "url": "https://www.theverge.com/tech/839732/serato-slab-midi-controller-studio",
-      "publishedAt": "2025-12-13T17:00:00Z",
-      "processed_at": "2025-12-15T01:53:06.696370+00:00"
+      "description": "It ain't a thing of beauty, but 'Cyberpunk 2077' eventually became a good game that knows how it got...",
+      "url": "https://gizmodo.com/cyberpunk-2077-proved-a-game-can-change-itself-but-not-its-history-2000689506",
+      "publishedAt": "2025-12-13T17:25:31Z",
+      "processed_at": "2025-12-15T03:43:04.416804+00:00"
+    },
+    {
+      "title": "Early Buzz For ‘Highguard,’ The Game Awards Closer, Is Quite Poor - Forbes",
+      "source": {
+        "name": "Forbes"
+      },
+      "description": "Highguard may have closed The Game Awards this year, but it has been poorly received. THat's problem...",
+      "url": "https://www.forbes.com/sites/paultassi/2025/12/13/early-buzz-for-highguard-the-game-awards-closer-is-quite-poor/",
+      "publishedAt": "2025-12-13T16:45:36Z",
+      "processed_at": "2025-12-15T03:43:04.416804+00:00"
     },
     {
       "title": "Say hello to Google’s ‘Disco’, an AI tool that makes web apps from browser tabs - Mashable",
@@ -70,7 +90,7 @@
       "description": "GenTabs will be the first Disco feature, and many more are coming....",
       "url": "https://mashable.com/article/google-disco-ai-browser-tabs-app",
       "publishedAt": "2025-12-13T16:41:15Z",
-      "processed_at": "2025-12-15T01:53:06.696370+00:00"
+      "processed_at": "2025-12-15T03:43:04.416804+00:00"
     },
     {
       "title": "French President publicly congratulates Clair Obscur: Expedition 33, calling the Game of The Year win \"a historic first\" - Eurogamer",
@@ -80,30 +100,10 @@
       "description": "French President Emmanuel Macron has once again publicly congratulated Sandfall Interactive for Clai...",
       "url": "https://www.eurogamer.net/french-president-publicly-congratulates-clair-obscur-expedition-33-calling-the-game-of-the-year-win-a-historic-first",
       "publishedAt": "2025-12-13T16:07:48Z",
-      "processed_at": "2025-12-15T01:53:06.696370+00:00"
-    },
-    {
-      "title": "Ask HN: How can I get better at using AI for programming? - Hacker News",
-      "source": {
-        "name": "Hacker News"
-      },
-      "description": "",
-      "url": "https://news.ycombinator.com/item?id\\\\u003d46255285",
-      "publishedAt": "2025-12-13T16:06:06Z",
-      "processed_at": "2025-12-15T01:53:06.696370+00:00"
-    },
-    {
-      "title": "Nick Cassidy: WEC hypercar systems “like a holiday” after Formula E complexity - Motorsport.com",
-      "source": {
-        "name": "Motorsport.com"
-      },
-      "description": "Cassidy explains how he is adapting to the Hypercar class as he prepares for a twin programme in 202...",
-      "url": "https://www.motorsport.com/wec/news/nick-cassidy-wec-hypercar-systems-like-a-holiday-after-formula-e-complexity/10784416/",
-      "publishedAt": "2025-12-13T15:49:02Z",
-      "processed_at": "2025-12-15T01:53:06.696370+00:00"
+      "processed_at": "2025-12-15T03:43:04.416804+00:00"
     }
   ],
-  "lastUpdated": "2025-12-15T01:53:06.696447+00:00",
+  "lastUpdated": "2025-12-15T03:43:04.416877+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
