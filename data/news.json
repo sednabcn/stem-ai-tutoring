@@ -1,26 +1,76 @@
 {
   "status": "success",
-  "totalResults": 10,
+  "totalResults": 9,
   "articles": [
     {
-      "title": "Qi2 car chargers are the most convenient, yet frustrating Pixel 10 accessories - 9to5Google",
-      "source": {
-        "name": "9to5google.com"
-      },
-      "description": "I think it’s safe to say that Qi2 has been the most meaningful part of upgrading to the Pixel 10,......",
-      "url": "http://9to5google.com/2025/12/14/pixel-10-qi2-car-chargers/",
-      "publishedAt": "2025-12-14T14:15:00Z",
-      "processed_at": "2025-12-15T19:20:23.943023+00:00"
-    },
-    {
-      "title": "I’m finally beginning to trust Microsoft’s handheld Xbox Allys - The Verge",
+      "title": "Absynth is back and weirder than ever after 16 years - The Verge",
       "source": {
         "name": "The Verge"
       },
-      "description": "Microsoft and Asus’ Xbox Ally X and Xbox Ally are not the same when it comes to the most critical fe...",
-      "url": "https://www.theverge.com/games/843010/xbox-ally-x-sleep-battery-drain-two-months-later",
+      "description": "Native Instruments revives the cult-classic Absynth with MPE and new presets from Brian Eno and Kait...",
+      "url": "https://www.theverge.com/entertainment/844432/native-instruments-absynth-6-mpe-brian-eno",
+      "publishedAt": "2025-12-14T19:00:00Z",
+      "processed_at": "2025-12-15T20:26:35.914835+00:00"
+    },
+    {
+      "title": "Sunday Preview – A brief pause ahead of Christmas - Warhammer Community",
+      "source": {
+        "name": "Warhammer-community.com"
+      },
+      "description": "There’s still time to buy gifts!...",
+      "url": "https://www.warhammer-community.com/articles/qi7ljqqo/sunday-preview-a-brief-pause-ahead-of-christmas",
+      "publishedAt": "2025-12-14T18:02:36Z",
+      "processed_at": "2025-12-15T20:26:35.914835+00:00"
+    },
+    {
+      "title": "Clair Obscur: Expedition 33 fans can't get over just how difficult the Update's new bosses and challenges are now - Eurogamer",
+      "source": {
+        "name": "Eurogamer.net"
+      },
+      "description": "Clair Obscur: Expedition 33's new patch shadow-dropped earlier this week, and Sandfall Interactive s...",
+      "url": "https://www.eurogamer.net/clair-obscur-expedition-33-fans-cant-get-over-just-how-difficult-the-updates-new-bosses-and-challenges-are-now",
+      "publishedAt": "2025-12-14T16:21:28Z",
+      "processed_at": "2025-12-15T20:26:35.914835+00:00"
+    },
+    {
+      "title": "FamFS Hopes To Go Upstream In 2026 - Phoronix",
+      "source": {
+        "name": "Phoronix"
+      },
+      "description": "The FamFS file-system being developed by Micron hopes to go upstream for Linux in 'early-ish 2026'....",
+      "url": "https://www.phoronix.com/news/FamFS-2026-Upstream-Hopes",
+      "publishedAt": "2025-12-14T15:32:00Z",
+      "processed_at": "2025-12-15T20:26:35.914835+00:00"
+    },
+    {
+      "title": "iOS 26.2: All the new features now available on your iPhone - 9to5Mac",
+      "source": {
+        "name": "9to5Mac"
+      },
+      "description": "iOS 26.2 adds new features to your iPhone and is now available. There are new design features, Podca...",
+      "url": "https://9to5mac.com/2025/12/14/ios-26-2-new-features-iphone/",
+      "publishedAt": "2025-12-14T14:48:00Z",
+      "processed_at": "2025-12-15T20:26:35.914835+00:00"
+    },
+    {
+      "title": "We think we found the most active Waymo rider in SF. Prove us wrong. - The San Francisco Standard",
+      "source": {
+        "name": "Sfstandard.com"
+      },
+      "description": "A mystery rider hailed over 400 Waymos in 2025 and spent nearly eight days in the driverless vehicle...",
+      "url": "https://sfstandard.com/2025/12/14/think-found-active-waymo-rider-sf-prove-wrong/",
       "publishedAt": "2025-12-14T14:00:00Z",
-      "processed_at": "2025-12-15T19:20:23.943023+00:00"
+      "processed_at": "2025-12-15T20:26:35.914835+00:00"
+    },
+    {
+      "title": "CNET’s Complete Pet Tech Roundup: We Tested Every Device With Our Pets - CNET",
+      "source": {
+        "name": "CNET"
+      },
+      "description": "CNET explored every kind of pet technology to see what we -- and our four-legged friends -- liked th...",
+      "url": "https://www.cnet.com/home/smart-home/pet-tech-roundup-cnet-pet-owners-tested-devices-to-find-the-best/",
+      "publishedAt": "2025-12-14T13:00:00Z",
+      "processed_at": "2025-12-15T20:26:35.914835+00:00"
     },
     {
       "title": "iOS 26.2—Update Now Warning Issued To All iPhone Users - Forbes",
@@ -30,7 +80,7 @@
       "description": "Apple has released iOS 26.2, fixing 26  iPhone flaws, two of which are already being used in real-li...",
       "url": "https://www.forbes.com/sites/kateoflahertyuk/2025/12/14/ios-262-update-now-waning-issued-to-all-iphone-users/",
       "publishedAt": "2025-12-14T12:36:00Z",
-      "processed_at": "2025-12-15T19:20:23.943023+00:00"
+      "processed_at": "2025-12-15T20:26:35.914835+00:00"
     },
     {
       "title": "Android music apps are an embarrassment - Android Police",
@@ -40,70 +90,10 @@
       "description": "Android is so far behind Apple, it shocked me...",
       "url": "https://www.androidpolice.com/android-music-apps-are-an-embarrassment/",
       "publishedAt": "2025-12-14T12:30:00Z",
-      "processed_at": "2025-12-15T19:20:23.943023+00:00"
-    },
-    {
-      "title": "Six Months Later, the Switch 2 Proves It Has Staying Power - Gizmodo",
-      "source": {
-        "name": "Gizmodo.com"
-      },
-      "description": "There's no other handheld offering what the Nintendo Switch 2 does at its price....",
-      "url": "https://gizmodo.com/six-months-later-the-switch-2-proves-it-has-staying-power-2000699204",
-      "publishedAt": "2025-12-14T12:00:03Z",
-      "processed_at": "2025-12-15T19:20:23.943023+00:00"
-    },
-    {
-      "title": "This new Pixel 10 feature tells you more than any benchmark ever will - Android Police",
-      "source": {
-        "name": "Android Police"
-      },
-      "description": "The Quick Share update is important...",
-      "url": "https://www.androidpolice.com/pixel-10-quick-share/",
-      "publishedAt": "2025-12-14T11:00:00Z",
-      "processed_at": "2025-12-15T19:20:23.943023+00:00"
-    },
-    {
-      "title": "Google Messages has a major problem, and I'm sick of it - Android Authority",
-      "source": {
-        "name": "Android Authority"
-      },
-      "description": "Google Messages has improved in recent years, but it's missing something that all rival messaging pl...",
-      "url": "https://www.androidauthority.com/google-messages-issues-3619290/",
-      "publishedAt": "2025-12-14T10:50:58Z",
-      "processed_at": "2025-12-15T19:20:23.943023+00:00"
-    },
-    {
-      "title": "There’s a New Kind of Social Media App People Are Obsessed With. You’ve Probably Used It Already. - Slate",
-      "source": {
-        "name": "Slate Magazine"
-      },
-      "description": "Apple’s Find My is Gen Z’s newest social media app. And it’s a dang good one at that....",
-      "url": "https://slate.com/technology/2025/12/apple-find-my-app-location-sharing-gen-z-trend.html",
-      "publishedAt": "2025-12-14T10:45:00Z",
-      "processed_at": "2025-12-15T19:20:23.943023+00:00"
-    },
-    {
-      "title": "Stop using your router's USB port - what PC experts recommend instead - ZDNET",
-      "source": {
-        "name": "ZDNet"
-      },
-      "description": "Don't rely on your router's USB port; it's unreliable and potentially vulnerable to malware....",
-      "url": "https://www.zdnet.com/home-and-office/networking/why-you-shouldnt-use-your-router-usb-port/",
-      "publishedAt": "2025-12-14T10:30:00Z",
-      "processed_at": "2025-12-15T19:20:23.943023+00:00"
-    },
-    {
-      "title": "Survey suggests users are slowly ditching Plex for its big rivals - Android Authority",
-      "source": {
-        "name": "Android Authority"
-      },
-      "description": "Plex remains popular, but are users considering alternatives, like Jellyfin and Emby? We asked our r...",
-      "url": "https://www.androidauthority.com/plex-jellyfin-emby-2025-poll-results-3624703/",
-      "publishedAt": "2025-12-14T09:46:52Z",
-      "processed_at": "2025-12-15T19:20:23.943023+00:00"
+      "processed_at": "2025-12-15T20:26:35.914835+00:00"
     }
   ],
-  "lastUpdated": "2025-12-15T19:20:23.943098+00:00",
+  "lastUpdated": "2025-12-15T20:26:35.914905+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
