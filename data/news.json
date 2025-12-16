@@ -1,6 +1,6 @@
 {
   "status": "success",
-  "totalResults": 9,
+  "totalResults": 10,
   "articles": [
     {
       "title": "Grok got crucial facts wrong about Bondi Beach shooting - TechCrunch",
@@ -10,7 +10,27 @@
       "description": "Grok, the chatbot built by Elon Musk’s xAI and popularized on his social media platform X, appears t...",
       "url": "https://techcrunch.com/2025/12/14/grok-gets-the-facts-wrong-about-bondi-beach-shooting/",
       "publishedAt": "2025-12-14T23:17:47Z",
-      "processed_at": "2025-12-16T06:36:11.685016+00:00"
+      "processed_at": "2025-12-16T07:24:35.446950+00:00"
+    },
+    {
+      "title": "You can get a MacBook Pro for $400 if you act fast - Mashable",
+      "source": {
+        "name": "Mashable"
+      },
+      "description": "This MacBook Pro offer won't last long....",
+      "url": "https://mashable.com/article/dec-14-apple-macbook-pro-i5-2ghz-2020",
+      "publishedAt": "2025-12-14T23:00:00Z",
+      "processed_at": "2025-12-16T07:24:35.446950+00:00"
+    },
+    {
+      "title": "Why Porsche Switched From Air-Cooled To Water-Cooled Engines - Jalopnik",
+      "source": {
+        "name": "Jalopnik"
+      },
+      "description": "Porsche switched to water cooling to meet stricter emissions and noise rules, handle more power and ...",
+      "url": "https://www.jalopnik.com/2047202/why-porsche-switched-from-air-cooled-to-water-cooled-engines/",
+      "publishedAt": "2025-12-14T20:05:00Z",
+      "processed_at": "2025-12-16T07:24:35.446950+00:00"
     },
     {
       "title": "Ask HN: What Are You Working On? (December 2025) - Hacker News",
@@ -20,17 +40,17 @@
       "description": "",
       "url": "https://news.ycombinator.com/item?id\\\\u003d46264491",
       "publishedAt": "2025-12-14T19:27:43Z",
-      "processed_at": "2025-12-16T06:36:11.685016+00:00"
+      "processed_at": "2025-12-16T07:24:35.446950+00:00"
     },
     {
-      "title": "Ottocast launches new CarPlay AI Box plus wireless adapter with rear cabin monitoring - 9to5Mac",
+      "title": "The Galaxy Z TriFold embarks on a new horizon, but it kind of feels like Samsung missed the mark - Android Central",
       "source": {
-        "name": "9to5Mac"
+        "name": "Android Central"
       },
-      "description": "If you’ve been looking to upgrade your car’s tech without breaking the bank on a new vehicle, Ottoca...",
-      "url": "https://9to5mac.com/2025/12/14/ottocast-launches-new-carplay-ai-box/",
-      "publishedAt": "2025-12-14T18:49:00Z",
-      "processed_at": "2025-12-16T06:36:11.685016+00:00"
+      "description": "It's very exciting to see that the Galaxy Z TriFold will be released in the U.S. However, we can't h...",
+      "url": "https://www.androidcentral.com/phones/samsung-galaxy/samsung-galaxy-z-trifold-my-biggest-concerns",
+      "publishedAt": "2025-12-14T18:56:00Z",
+      "processed_at": "2025-12-16T07:24:35.446950+00:00"
     },
     {
       "title": "The Corvette ZR1 Won't Stop Breaking Lap Records: Video - Motor1.com",
@@ -40,17 +60,17 @@
       "description": "The Magician of Mosport, Ron Fellows, sets a new lap record in the 2026 Corvette ZR1. He beat the pr...",
       "url": "https://www.motor1.com/news/781678/corvette-zr1-track-record-canada/",
       "publishedAt": "2025-12-14T18:30:52Z",
-      "processed_at": "2025-12-16T06:36:11.685016+00:00"
+      "processed_at": "2025-12-16T07:24:35.446950+00:00"
     },
     {
-      "title": "Hands-on with Anker’s new 20,100mAh battery bank: 220W output, compact design - 9to5Mac",
+      "title": "ASUS launches GeForce RTX 5060 DUAL Evo series, slimmer design and shorter PCIe interface - VideoCardz.com",
       "source": {
-        "name": "9to5Mac"
+        "name": "Videocardz.com"
       },
-      "description": "Anker is back at it again with a new 20,100mAh power bank, under its Anker Prime brand. This power b...",
-      "url": "https://9to5mac.com/2025/12/14/hands-on-with-compact-anker-20k-battery-bank-for-iphone-and-macbook/",
-      "publishedAt": "2025-12-14T18:26:00Z",
-      "processed_at": "2025-12-16T06:36:11.685016+00:00"
+      "description": "ASUS quietly lists Dual GeForce RTX 5060 EVO and RTX 5060 Ti EVO models ASUS has added new Dual GeFo...",
+      "url": "https://videocardz.com/newz/asus-launches-geforce-rtx-5060-dual-evo-series-slimmer-design-and-shorter-pcie-interface",
+      "publishedAt": "2025-12-14T18:03:00Z",
+      "processed_at": "2025-12-16T07:24:35.446950+00:00"
     },
     {
       "title": "Sunday Preview – A brief pause ahead of Christmas - Warhammer Community",
@@ -60,7 +80,17 @@
       "description": "There’s still time to buy gifts!...",
       "url": "https://www.warhammer-community.com/articles/qi7ljqqo/sunday-preview-a-brief-pause-ahead-of-christmas",
       "publishedAt": "2025-12-14T18:02:36Z",
-      "processed_at": "2025-12-16T06:36:11.685016+00:00"
+      "processed_at": "2025-12-16T07:24:35.446950+00:00"
+    },
+    {
+      "title": "Bizarre iOS 26 bug causes some Android camera photos to turn red in iPhone Photos app - 9to5Mac",
+      "source": {
+        "name": "9to5Mac"
+      },
+      "description": "Users have been noticing a weird iPhone bug with some pictures they have saved in their Photos app o...",
+      "url": "https://9to5mac.com/2025/12/14/bizarre-ios-26-bug-causes-some-android-camera-photos-to-turn-red/",
+      "publishedAt": "2025-12-14T17:48:00Z",
+      "processed_at": "2025-12-16T07:24:35.446950+00:00"
     },
     {
       "title": "Microsoft Copilot AI Comes to LG TVs, and Can't Be Deleted - TechPowerUp",
@@ -70,30 +100,10 @@
       "description": "Microsoft's Copilot AI chatbot is arguably one of the most controversial add-ons ever implemented in...",
       "url": "https://www.techpowerup.com/344075/microsoft-copilot-ai-comes-to-lg-tvs-and-cant-be-deleted",
       "publishedAt": "2025-12-14T17:09:58Z",
-      "processed_at": "2025-12-16T06:36:11.685016+00:00"
-    },
-    {
-      "title": "Nearly half of the 19,000 games released on Steam this year went almost unnoticed - TechSpot",
-      "source": {
-        "name": "TechSpot"
-      },
-      "description": "Those numbers point to a widening gap between output and engagement on the world's largest PC game m...",
-      "url": "https://www.techspot.com/news/110592-nearly-half-19000-games-released-steam-year-went.html",
-      "publishedAt": "2025-12-14T17:03:00Z",
-      "processed_at": "2025-12-16T06:36:11.685016+00:00"
-    },
-    {
-      "title": "Watch Atlas V rocket launch 27 of Amazon's internet satellites to orbit early Dec. 15 - Space",
-      "source": {
-        "name": "Space.com"
-      },
-      "description": "Liftoff is scheduled for 3:49 a.m. ET on Monday (Dec. 15)....",
-      "url": "https://www.space.com/space-exploration/launches-spacecraft/ula-atlas-v-rocket-launch-amazon-leo-4",
-      "publishedAt": "2025-12-14T17:00:00Z",
-      "processed_at": "2025-12-16T06:36:11.685016+00:00"
+      "processed_at": "2025-12-16T07:24:35.446950+00:00"
     }
   ],
-  "lastUpdated": "2025-12-16T06:36:11.685125+00:00",
+  "lastUpdated": "2025-12-16T07:24:35.447022+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
