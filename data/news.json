@@ -3,44 +3,74 @@
   "totalResults": 10,
   "articles": [
     {
-      "title": "Apple releases first iOS 26.3 beta for iPhone - 9to5Mac",
+      "title": "Early iOS 26 Software Leak Uncovers Dozens of Upcoming Apple Features - MacRumors",
       "source": {
-        "name": "9to5Mac"
+        "name": "MacRumors"
       },
-      "description": "Apple has released the first iOS 26.3 developer beta for iPhone. One change we already expect is a j...",
-      "url": "https://9to5mac.com/2025/12/15/apple-releases-first-ios-26-3-beta-for-iphone/",
-      "publishedAt": "2025-12-15T19:09:00Z",
-      "processed_at": "2025-12-16T22:20:27.445658+00:00"
+      "description": "Software from an iPhone prototype running an early build of iOS 26 leaked last week, giving us a gli...",
+      "url": "https://www.macrumors.com/2025/12/15/ios-software-leak-apple-features/",
+      "publishedAt": "2025-12-15T23:05:17Z",
+      "processed_at": "2025-12-16T23:20:56.432927+00:00"
     },
     {
-      "title": "Bungie’s delayed shooter Marathon launches in March - The Verge",
+      "title": "Apple TV adds Google Cast streaming, but only on Android - The Verge",
       "source": {
         "name": "The Verge"
       },
-      "description": "Bungie’s new Marathon extraction shooter is going to launch in March 2026 with a target price of $39...",
-      "url": "https://www.theverge.com/news/844780/bungie-marathon-march-launch-delay",
-      "publishedAt": "2025-12-15T18:42:03Z",
-      "processed_at": "2025-12-16T22:20:27.445658+00:00"
+      "description": "The Android version of Apple TV finally has support for Google Cast, making it easier to watch shows...",
+      "url": "https://www.theverge.com/news/844867/apple-tv-google-cast-android",
+      "publishedAt": "2025-12-15T22:11:46Z",
+      "processed_at": "2025-12-16T23:20:56.432927+00:00"
     },
     {
-      "title": "Google letting you customize Discover using prompts with ‘Tailor your feed’ Lab - 9to5Google",
+      "title": "LG TVs Get Unremovable Microsoft Copilot App - Gizmodo",
       "source": {
-        "name": "9to5google.com"
+        "name": "Gizmodo.com"
       },
-      "description": "Google is testing a new \"Tailor your feed\" Labs experiment that lets you tell Discover exactly “what...",
-      "url": "http://9to5google.com/2025/12/15/google-discover-tailor-prompts/",
-      "publishedAt": "2025-12-15T18:15:00Z",
-      "processed_at": "2025-12-16T22:20:27.445658+00:00"
+      "description": "Users are not thrilled....",
+      "url": "https://gizmodo.com/lg-tvs-get-unremovable-microsoft-copilot-app-2000699870",
+      "publishedAt": "2025-12-15T21:45:48Z",
+      "processed_at": "2025-12-16T23:20:56.432927+00:00"
     },
     {
-      "title": "Google will end dark web reports that alerted users to leaked data - Ars Technica",
+      "title": "Google’s ‘dark web report’ feature will no longer be available starting in February - TechCrunch",
       "source": {
-        "name": "Ars Technica"
+        "name": "TechCrunch"
       },
-      "description": "Google says the reports lacked “helpful next steps.”…...",
-      "url": "https://arstechnica.com/gadgets/2025/12/google-is-shutting-down-dark-web-reports-in-january-because-they-werent-helpful/",
-      "publishedAt": "2025-12-15T18:13:24Z",
-      "processed_at": "2025-12-16T22:20:27.445658+00:00"
+      "description": "Launched initially about a year and a half ago, this tool aimed to help users monitor their personal...",
+      "url": "https://techcrunch.com/2025/12/15/googles-dark-web-report-feature-will-no-longer-be-available-starting-in-february/",
+      "publishedAt": "2025-12-15T19:19:18Z",
+      "processed_at": "2025-12-16T23:20:56.432927+00:00"
+    },
+    {
+      "title": "Six months after being delayed indefinitely, Bungie's troubled Marathon finally gets release window and price - Eurogamer",
+      "source": {
+        "name": "Eurogamer.net"
+      },
+      "description": "Bungie has announced a release window and price for its troubled extraction shooter Marathon....",
+      "url": "https://www.eurogamer.net/six-months-after-being-delayed-indefinitely-bungies-troubled-marathon-finally-gets-release-window-and-price",
+      "publishedAt": "2025-12-15T19:17:31Z",
+      "processed_at": "2025-12-16T23:20:56.432927+00:00"
+    },
+    {
+      "title": "Apple Seeds First Betas of iOS 26.3 and iPadOS 26.3 to Developers - MacRumors",
+      "source": {
+        "name": "MacRumors"
+      },
+      "description": "Apple today seeded the first betas of upcoming iOS 26.3 and iPadOS 26.3 updates to developers for te...",
+      "url": "https://www.macrumors.com/2025/12/15/apple-seeds-ios-26-3-beta-1/",
+      "publishedAt": "2025-12-15T19:09:42Z",
+      "processed_at": "2025-12-16T23:20:56.432927+00:00"
+    },
+    {
+      "title": "Gift guide: TechCrunch’s favorite things - TechCrunch",
+      "source": {
+        "name": "TechCrunch"
+      },
+      "description": "As tech journalists we have a lot of opinions. So if we really like something, it's probably good!...",
+      "url": "https://techcrunch.com/2025/12/15/gift-guide-techcrunchs-favorite-things/",
+      "publishedAt": "2025-12-15T18:41:35Z",
+      "processed_at": "2025-12-16T23:20:56.432927+00:00"
     },
     {
       "title": "Featured Chrome Browser Extension Caught Intercepting Millions of Users' AI Chats - The Hacker News",
@@ -50,60 +80,30 @@
       "description": "Urban VPN extensions collect AI prompts, responses, and browsing data from millions through hidden c...",
       "url": "https://thehackernews.com/2025/12/featured-chrome-browser-extension.html",
       "publishedAt": "2025-12-15T17:46:00Z",
-      "processed_at": "2025-12-16T22:20:27.445658+00:00"
+      "processed_at": "2025-12-16T23:20:56.432927+00:00"
     },
     {
-      "title": "Stalker 2 is adding \"hours\" of new quests in a major free update coming very, very soon - Eurogamer",
+      "title": "The Best Pokemon Gift Ideas for 2025 - IGN",
       "source": {
-        "name": "Eurogamer.net"
+        "name": "IGN"
       },
-      "description": "Stalker 2: Heart of Chornobyl 2 is getting a free update promising \"hours\" of new quests very soon....",
-      "url": "https://www.eurogamer.net/stalker-2-is-adding-hours-of-new-quests-in-a-major-free-update-coming-very-very-soon",
-      "publishedAt": "2025-12-15T17:20:57Z",
-      "processed_at": "2025-12-16T22:20:27.445658+00:00"
+      "description": "From TCG sets with rare cards to video games that explore the Pokémon world in new ways, there's som...",
+      "url": "https://www.ign.com/articles/best-pokemon-gift-ideas-2025",
+      "publishedAt": "2025-12-15T17:42:16Z",
+      "processed_at": "2025-12-16T23:20:56.432927+00:00"
     },
     {
-      "title": "Leak Reveals Foldable iPhone Details - MacRumors",
+      "title": "Notion Kicks Off Employee Share Sale At $11 Billion Valuation As AI Accelerates Its Growth - Forbes",
       "source": {
-        "name": "MacRumors"
+        "name": "Forbes"
       },
-      "description": "The first foldable iPhone will feature a series of design and hardware firsts for Apple, according t...",
-      "url": "https://www.macrumors.com/2025/12/15/leak-reveals-foldable-iphone-details/",
-      "publishedAt": "2025-12-15T17:09:30Z",
-      "processed_at": "2025-12-16T22:20:27.445658+00:00"
-    },
-    {
-      "title": "Ubisoft Acquires March of Giants From Amazon - Ubisoft",
-      "source": {
-        "name": "Ubisoft.com"
-      },
-      "description": "The Montreal-based team behind March of Giants joins Ubisoft to continue development on the free-to-...",
-      "url": "https://news.ubisoft.com/en-us/article/6TYgLsRkVYP97hVH0Rhzn7/ubisoft-acquires-march-of-giants-from-amazon",
-      "publishedAt": "2025-12-15T17:01:37Z",
-      "processed_at": "2025-12-16T22:20:27.445658+00:00"
-    },
-    {
-      "title": "Metacritic Reveals The 10 Worst-Rated Video Games Of 2025 - Pure Xbox",
-      "source": {
-        "name": "Pure Xbox"
-      },
-      "description": "We think #1 is harsh!...",
-      "url": "https://www.purexbox.com/news/2025/12/metacritic-reveals-the-10-worst-rated-video-games-of-2025",
-      "publishedAt": "2025-12-15T17:00:00Z",
-      "processed_at": "2025-12-16T22:20:27.445658+00:00"
-    },
-    {
-      "title": "The Best PC Games Of 2025 - GameSpot",
-      "source": {
-        "name": "GameSpot"
-      },
-      "description": "More games than ever are being released on PC, but we've narrowed down that sizable number to the 10...",
-      "url": "https://www.gamespot.com/gallery/the-best-pc-games-of-2025/2900-7326/",
-      "publishedAt": "2025-12-15T17:00:00Z",
-      "processed_at": "2025-12-16T22:20:27.445658+00:00"
+      "description": "The company, which sells a popular productivity software application and now wants to be an ‘AI ever...",
+      "url": "https://www.forbes.com/sites/annatong/2025/12/15/notion-kicks-off-employee-share-sale-at-11-billion-valuation-as-ai-accelerates-its-growth/",
+      "publishedAt": "2025-12-15T17:30:34Z",
+      "processed_at": "2025-12-16T23:20:56.432927+00:00"
     }
   ],
-  "lastUpdated": "2025-12-16T22:20:27.445734+00:00",
+  "lastUpdated": "2025-12-16T23:20:56.432997+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
