@@ -1,7 +1,17 @@
 {
   "status": "success",
-  "totalResults": 10,
+  "totalResults": 9,
   "articles": [
+    {
+      "title": "Grok got crucial facts wrong about Bondi Beach shooting - TechCrunch",
+      "source": {
+        "name": "TechCrunch"
+      },
+      "description": "Grok, the chatbot built by Elon Musk’s xAI and popularized on his social media platform X, appears t...",
+      "url": "https://techcrunch.com/2025/12/14/grok-gets-the-facts-wrong-about-bondi-beach-shooting/",
+      "publishedAt": "2025-12-14T23:17:47Z",
+      "processed_at": "2025-12-16T05:24:39.198951+00:00"
+    },
     {
       "title": "Ask HN: What Are You Working On? (December 2025) - Hacker News",
       "source": {
@@ -10,7 +20,7 @@
       "description": "",
       "url": "https://news.ycombinator.com/item?id\\\\u003d46264491",
       "publishedAt": "2025-12-14T19:27:43Z",
-      "processed_at": "2025-12-16T04:36:28.197068+00:00"
+      "processed_at": "2025-12-16T05:24:39.198951+00:00"
     },
     {
       "title": "Ottocast launches new CarPlay AI Box plus wireless adapter with rear cabin monitoring - 9to5Mac",
@@ -20,7 +30,7 @@
       "description": "If you’ve been looking to upgrade your car’s tech without breaking the bank on a new vehicle, Ottoca...",
       "url": "https://9to5mac.com/2025/12/14/ottocast-launches-new-carplay-ai-box/",
       "publishedAt": "2025-12-14T18:49:00Z",
-      "processed_at": "2025-12-16T04:36:28.197068+00:00"
+      "processed_at": "2025-12-16T05:24:39.198951+00:00"
     },
     {
       "title": "The Corvette ZR1 Won't Stop Breaking Lap Records: Video - Motor1.com",
@@ -30,7 +40,17 @@
       "description": "The Magician of Mosport, Ron Fellows, sets a new lap record in the 2026 Corvette ZR1. He beat the pr...",
       "url": "https://www.motor1.com/news/781678/corvette-zr1-track-record-canada/",
       "publishedAt": "2025-12-14T18:30:52Z",
-      "processed_at": "2025-12-16T04:36:28.197068+00:00"
+      "processed_at": "2025-12-16T05:24:39.198951+00:00"
+    },
+    {
+      "title": "Hands-on with Anker’s new 20,100mAh battery bank: 220W output, compact design - 9to5Mac",
+      "source": {
+        "name": "9to5Mac"
+      },
+      "description": "Anker is back at it again with a new 20,100mAh power bank, under its Anker Prime brand. This power b...",
+      "url": "https://9to5mac.com/2025/12/14/hands-on-with-compact-anker-20k-battery-bank-for-iphone-and-macbook/",
+      "publishedAt": "2025-12-14T18:26:00Z",
+      "processed_at": "2025-12-16T05:24:39.198951+00:00"
     },
     {
       "title": "Sunday Preview – A brief pause ahead of Christmas - Warhammer Community",
@@ -40,7 +60,17 @@
       "description": "There’s still time to buy gifts!...",
       "url": "https://www.warhammer-community.com/articles/qi7ljqqo/sunday-preview-a-brief-pause-ahead-of-christmas",
       "publishedAt": "2025-12-14T18:02:36Z",
-      "processed_at": "2025-12-16T04:36:28.197068+00:00"
+      "processed_at": "2025-12-16T05:24:39.198951+00:00"
+    },
+    {
+      "title": "Microsoft Copilot AI Comes to LG TVs, and Can't Be Deleted - TechPowerUp",
+      "source": {
+        "name": "Techpowerup.com"
+      },
+      "description": "Microsoft's Copilot AI chatbot is arguably one of the most controversial add-ons ever implemented in...",
+      "url": "https://www.techpowerup.com/344075/microsoft-copilot-ai-comes-to-lg-tvs-and-cant-be-deleted",
+      "publishedAt": "2025-12-14T17:09:58Z",
+      "processed_at": "2025-12-16T05:24:39.198951+00:00"
     },
     {
       "title": "Nearly half of the 19,000 games released on Steam this year went almost unnoticed - TechSpot",
@@ -50,60 +80,20 @@
       "description": "Those numbers point to a widening gap between output and engagement on the world's largest PC game m...",
       "url": "https://www.techspot.com/news/110592-nearly-half-19000-games-released-steam-year-went.html",
       "publishedAt": "2025-12-14T17:03:00Z",
-      "processed_at": "2025-12-16T04:36:28.197068+00:00"
+      "processed_at": "2025-12-16T05:24:39.198951+00:00"
     },
     {
-      "title": "Can You Use A Roku Without Internet? - bgr.com",
+      "title": "Watch Atlas V rocket launch 27 of Amazon's internet satellites to orbit early Dec. 15 - Space",
       "source": {
-        "name": "BGR"
+        "name": "Space.com"
       },
-      "description": "Using a Roku streaming device doesn't require much more than an internet connection. But does this m...",
-      "url": "https://www.bgr.com/2046701/can-you-use-roku-without-internet/",
-      "publishedAt": "2025-12-14T16:47:00Z",
-      "processed_at": "2025-12-16T04:36:28.197068+00:00"
-    },
-    {
-      "title": "Mobile's next big thing is unraveling, it's going to get messy, and it may already be too late to stop it - Android Police",
-      "source": {
-        "name": "Android Police"
-      },
-      "description": "AI has a serious reputation problem at the end of 2025, and it needs to change in 2026...",
-      "url": "https://www.androidpolice.com/mobile-ai-is-unraveling/",
-      "publishedAt": "2025-12-14T16:15:00Z",
-      "processed_at": "2025-12-16T04:36:28.197068+00:00"
-    },
-    {
-      "title": "Xbox Series X Enters Holiday Clearance Mode After Skipping Black Friday Discounts, Includes a Wireless Controller - Kotaku",
-      "source": {
-        "name": "Kotaku"
-      },
-      "description": "Save 8% on the 1TB, 4K, 120fps gaming console from Microsoft for a limited time....",
-      "url": "https://kotaku.com/xbox-series-x-enters-holiday-clearance-mode-after-skipping-black-friday-discounts-includes-a-wireless-controller-2000653061",
-      "publishedAt": "2025-12-14T16:05:36Z",
-      "processed_at": "2025-12-16T04:36:28.197068+00:00"
-    },
-    {
-      "title": "5 Free Apps That Can Replace Your Microsoft Office Subscription - bgr.com",
-      "source": {
-        "name": "BGR"
-      },
-      "description": "If you are tired of paying a fortune for a Microsoft Office subscription, you must check out some al...",
-      "url": "https://www.bgr.com/2047128/free-apps-replace-microsoft-office-subscription/",
-      "publishedAt": "2025-12-14T15:47:00Z",
-      "processed_at": "2025-12-16T04:36:28.197068+00:00"
-    },
-    {
-      "title": "Microsoft shares official Windows 11 gaming hardware requirements and recommendations guide - Neowin",
-      "source": {
-        "name": "Neowin"
-      },
-      "description": "",
-      "url": "https://www.neowin.net/news/microsoft-shares-official-windows-11-gaming-hardware-requirements-and-recommendations-guide/",
-      "publishedAt": "2025-12-14T15:40:00Z",
-      "processed_at": "2025-12-16T04:36:28.197068+00:00"
+      "description": "Liftoff is scheduled for 3:49 a.m. ET on Monday (Dec. 15)....",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/ula-atlas-v-rocket-launch-amazon-leo-4",
+      "publishedAt": "2025-12-14T17:00:00Z",
+      "processed_at": "2025-12-16T05:24:39.198951+00:00"
     }
   ],
-  "lastUpdated": "2025-12-16T04:36:28.197205+00:00",
+  "lastUpdated": "2025-12-16T05:24:39.199027+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
