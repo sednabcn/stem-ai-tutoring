@@ -1,6 +1,6 @@
 {
   "status": "success",
-  "totalResults": 8,
+  "totalResults": 9,
   "articles": [
     {
       "title": "Google rolling out update for original Pixel Buds Pro - 9to5Google",
@@ -10,7 +10,7 @@
       "description": "Google on Monday evening announced a new firmware update for the original Pixel Buds Pro. This OTA i...",
       "url": "http://9to5google.com/2025/12/15/pixel-buds-pro-update-2025/",
       "publishedAt": "2025-12-16T05:02:00Z",
-      "processed_at": "2025-12-17T06:36:12.303268+00:00"
+      "processed_at": "2025-12-17T07:24:06.002111+00:00"
     },
     {
       "title": "Hollow Knight: Silksong Expansion Coming 2026, Hollow Knight: Switch 2 Edition Also Announced - Nintendo Life",
@@ -20,7 +20,17 @@
       "description": "Free update and free upgrade confirmed...",
       "url": "https://www.nintendolife.com/news/2025/12/hollow-knight-silksong-expansion-coming-2026-hollow-knight-switch-2-edition-also-announced",
       "publishedAt": "2025-12-16T01:30:00Z",
-      "processed_at": "2025-12-17T06:36:12.303268+00:00"
+      "processed_at": "2025-12-17T07:24:06.002111+00:00"
+    },
+    {
+      "title": "A new Micro RGB TV is coming from LG - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "LG’s first ever Micro RGB TV will debut at CES 2026 with 75-, 86-, and 100-inch sizes....",
+      "url": "https://www.theverge.com/news/844885/lg-micro-rgb-evo-led-tv-ces-2026",
+      "publishedAt": "2025-12-16T01:00:00Z",
+      "processed_at": "2025-12-17T07:24:06.002111+00:00"
     },
     {
       "title": "New Mous Pixel Watch 4 Charger is the first 3rd-party dock with ‘official’ hardware - 9to5Google",
@@ -30,7 +40,27 @@
       "description": "Mous has released the first official, third-party dock for the Pixel Watch 4. It comes just over two...",
       "url": "http://9to5google.com/2025/12/15/mous-pixel-watch-4-charger/",
       "publishedAt": "2025-12-16T00:39:00Z",
-      "processed_at": "2025-12-17T06:36:12.303268+00:00"
+      "processed_at": "2025-12-17T07:24:06.002111+00:00"
+    },
+    {
+      "title": "Assassin's Creed Shadows Title Update 1.1.7 Out This Week On Switch 2, Here Are The Patch Notes - Nintendo Life",
+      "source": {
+        "name": "Nintendo Life"
+      },
+      "description": "Switch 2 version resolves crashes and stability issues...",
+      "url": "https://www.nintendolife.com/news/2025/12/assassins-creed-shadows-title-update-1-1-7-out-this-week-on-switch-2-here-are-the-patch-notes",
+      "publishedAt": "2025-12-16T00:30:00Z",
+      "processed_at": "2025-12-17T07:24:06.002111+00:00"
+    },
+    {
+      "title": "iOS 26.3 Beta 1 Features: What's New So Far - MacRumors",
+      "source": {
+        "name": "MacRumors"
+      },
+      "description": "Apple is testing iOS 26.3, the next version of iOS 26 that will launch around January. Since iOS 26....",
+      "url": "https://www.macrumors.com/2025/12/15/ios-26-3-beta-1-features/",
+      "publishedAt": "2025-12-16T00:23:27Z",
+      "processed_at": "2025-12-17T07:24:06.002111+00:00"
     },
     {
       "title": "Early iOS 26 Software Leak Uncovers Dozens of Upcoming Apple Features - MacRumors",
@@ -40,7 +70,7 @@
       "description": "Software from an iPhone prototype running an early build of iOS 26 leaked last week, giving us a gli...",
       "url": "https://www.macrumors.com/2025/12/15/ios-software-leak-apple-features/",
       "publishedAt": "2025-12-15T23:05:17Z",
-      "processed_at": "2025-12-17T06:36:12.303268+00:00"
+      "processed_at": "2025-12-17T07:24:06.002111+00:00"
     },
     {
       "title": "Canada man buys a fake iPhone 17 Pro Max and is left stunned at what turns up - supercarblondie.com",
@@ -50,7 +80,7 @@
       "description": "This Canadian tech guru unboxed the latest fake iPhone 17 Pro Max on the market, and is left stunned...",
       "url": "https://supercarblondie.com/fake-iphone-17-pro-max-left-man-stunned-at-what-turns-up/",
       "publishedAt": "2025-12-15T23:03:00Z",
-      "processed_at": "2025-12-17T06:36:12.303268+00:00"
+      "processed_at": "2025-12-17T07:24:06.002111+00:00"
     },
     {
       "title": "Meet ‘Fuzozo,’ the AI emotional companion debuting at CES 2026 - Mashable",
@@ -60,30 +90,10 @@
       "description": "You can carry it around like a Labubu....",
       "url": "https://mashable.com/article/fuzozo-ai-emotional-companion-ces-2026",
       "publishedAt": "2025-12-15T22:33:26Z",
-      "processed_at": "2025-12-17T06:36:12.303268+00:00"
-    },
-    {
-      "title": "Amazon Deletes AI-Generated Recap of \"Fallout\" Season 1 After It's Called Out for Being Full of Errors - Futurism",
-      "source": {
-        "name": "Futurism"
-      },
-      "description": "Amazon's AI video recap tool has already made an enormous mess by bungling up the details of its hit...",
-      "url": "http://futurism.com/artificial-intelligence/amazon-deletes-ai-recap-fallout",
-      "publishedAt": "2025-12-15T22:15:26Z",
-      "processed_at": "2025-12-17T06:36:12.303268+00:00"
-    },
-    {
-      "title": "Apple TV adds Google Cast streaming, but only on Android - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "The Android version of Apple TV finally has support for Google Cast, making it easier to watch shows...",
-      "url": "https://www.theverge.com/news/844867/apple-tv-google-cast-android",
-      "publishedAt": "2025-12-15T22:11:46Z",
-      "processed_at": "2025-12-17T06:36:12.303268+00:00"
+      "processed_at": "2025-12-17T07:24:06.002111+00:00"
     }
   ],
-  "lastUpdated": "2025-12-17T06:36:12.303351+00:00",
+  "lastUpdated": "2025-12-17T07:24:06.002184+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
