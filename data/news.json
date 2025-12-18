@@ -3,6 +3,16 @@
   "totalResults": 10,
   "articles": [
     {
+      "title": "Arcade1Up isn’t dead, maybe - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "Toy company Basic Fun is acquiring “select assets” of Arcade1Up, according to a statement. Last week...",
+      "url": "https://www.theverge.com/news/846034/arcade1up-basic-fun-dead-home-arcade",
+      "publishedAt": "2025-12-17T01:05:00Z",
+      "processed_at": "2025-12-18T05:24:27.709493+00:00"
+    },
+    {
       "title": "The Google app is intentionally replacing Pixel Launcher search - 9to5Google",
       "source": {
         "name": "9to5google.com"
@@ -10,7 +20,27 @@
       "description": "In the past few days, tapping the Pixel Launcher search bar opens a different screen powered by the ...",
       "url": "http://9to5google.com/2025/12/16/pixel-launcher-search-google-app/",
       "publishedAt": "2025-12-17T00:21:00Z",
-      "processed_at": "2025-12-18T04:35:28.134254+00:00"
+      "processed_at": "2025-12-18T05:24:27.709493+00:00"
+    },
+    {
+      "title": "Alexa Plus’ website is live for some users - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "The website for Amazon’s AI-powered voice assistant previously redirected to an information page. Fo...",
+      "url": "https://www.theverge.com/news/845678/alexa-dot-com-alexa-plus-website-live",
+      "publishedAt": "2025-12-16T23:10:44Z",
+      "processed_at": "2025-12-18T05:24:27.709493+00:00"
+    },
+    {
+      "title": "Samsung’s 2026 Micro RGB LED TVs can actually fit in your living room - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "The new TVs will range in size from 55 to 100 inches, but pricing details are yet to be released....",
+      "url": "https://www.theverge.com/news/845760/samsung-micro-rgb-led-ces-2026",
+      "publishedAt": "2025-12-16T23:00:00Z",
+      "processed_at": "2025-12-18T05:24:27.709493+00:00"
     },
     {
       "title": "BG3 studio Larian says it's using genAI for Divinity, but not 'looking at trimming down teams to replace them' - Polygon",
@@ -20,27 +50,47 @@
       "description": "Divinity, the next game from Baldur's Gate 3 devs Larian, employs AI and machine learning, but not a...",
       "url": "https://www.polygon.com/divinity-larian-studios-generative-ai-swen-vincke/",
       "publishedAt": "2025-12-16T22:35:00Z",
-      "processed_at": "2025-12-18T04:35:28.134254+00:00"
+      "processed_at": "2025-12-18T05:24:27.709493+00:00"
     },
     {
-      "title": "Leaked debug kit suggests Apple is testing a new “iMac Pro,” among many other Macs - Ars Technica",
+      "title": "Ricoh’s Nostalgia-Fueled GR IV HDF Arrives Soon and Adds a New Electronic Shutter - PetaPixel",
       "source": {
-        "name": "Ars Technica"
+        "name": "PetaPixel"
       },
-      "description": "Resurrected high-end all-in-one could be a worthy successor to 2017’s iMac Pro....",
-      "url": "https://arstechnica.com/gadgets/2025/12/leaked-debug-kit-suggests-apple-is-testing-a-new-imac-pro-among-many-other-macs/",
-      "publishedAt": "2025-12-16T18:52:43Z",
-      "processed_at": "2025-12-18T04:35:28.134254+00:00"
+      "description": "Dreamier photos for an extra $100....",
+      "url": "https://petapixel.com/2025/12/16/ricohs-nostalgia-fueled-gr-iv-hdf-arrives-soon-and-adds-a-new-electronic-shutter/",
+      "publishedAt": "2025-12-16T22:00:21Z",
+      "processed_at": "2025-12-18T05:24:27.709493+00:00"
     },
     {
-      "title": "The Elder Scrolls 6 Dev Says 'We're Going to Take Our Time and as Long as It Needs to Be Great,' Points to GTA 6 Delay as 'The Smartest Thing They Could Do' - IGN",
+      "title": "Apple headphones don't get cheaper than this: EarPods are down to just $11 - Yahoo! Tech",
       "source": {
-        "name": "IGN"
+        "name": "Yahoo Entertainment"
       },
-      "description": "Bethesda developers including chief Todd Howard have issued an update on The Elder Scrolls 6 — but s...",
-      "url": "https://www.ign.com/articles/the-elder-scrolls-6-dev-says-were-going-to-take-our-time-and-as-long-as-it-needs-to-be-great-points-to-gta-6-delay-as-the-smartest-thing-they-could-do",
-      "publishedAt": "2025-12-16T18:43:51Z",
-      "processed_at": "2025-12-18T04:35:28.134254+00:00"
+      "description": "Tired of charging things? These corded headphones will work with iPhones and iPads both old and new....",
+      "url": "https://tech.yahoo.com/audio/deals/article/apple-headphones-dont-get-cheaper-than-this-earpods-are-down-to-just-11-200052019.html",
+      "publishedAt": "2025-12-16T20:00:52Z",
+      "processed_at": "2025-12-18T05:24:27.709493+00:00"
+    },
+    {
+      "title": "4 Electronics You Should Only Buy From Amazon - bgr.com",
+      "source": {
+        "name": "BGR"
+      },
+      "description": "Consumers should buy smart TVs, Kindle devices, laptops, and Amazon Basics products from Amazon befo...",
+      "url": "https://www.bgr.com/2049731/electronics-only-buy-amazon/",
+      "publishedAt": "2025-12-16T19:47:00Z",
+      "processed_at": "2025-12-18T05:24:27.709493+00:00"
+    },
+    {
+      "title": "10 Best 3D Printing Projects For Beginners - bgr.com",
+      "source": {
+        "name": "BGR"
+      },
+      "description": "A few years ago, 3D printing sounded like science fiction. Today, there are thousands of beginner-fr...",
+      "url": "https://www.bgr.com/2047074/best-3d-printing-projects-beginners/",
+      "publishedAt": "2025-12-16T19:02:00Z",
+      "processed_at": "2025-12-18T05:24:27.709493+00:00"
     },
     {
       "title": "Meta’s AI glasses can now help you hear conversations better - TechCrunch",
@@ -50,60 +100,10 @@
       "description": "Conversation focus uses the AI glasses' open-ear speakers to amplify the voice of the person you're ...",
       "url": "https://techcrunch.com/2025/12/16/metas-ai-glasses-can-now-help-you-hear-conversations-better/",
       "publishedAt": "2025-12-16T18:30:55Z",
-      "processed_at": "2025-12-18T04:35:28.134254+00:00"
-    },
-    {
-      "title": "Enter the Mob Maze - Minecraft",
-      "source": {
-        "name": "Minecraft.net"
-      },
-      "description": "Step into Mob Maze, a roguelite multiplayer adventure with SUPER-SIZED environments and scaled-up ob...",
-      "url": "https://www.minecraft.net/en-us/article/mob-maze",
-      "publishedAt": "2025-12-16T18:10:01Z",
-      "processed_at": "2025-12-18T04:35:28.134254+00:00"
-    },
-    {
-      "title": "Goblins and Gifts Galore in Goblin Greedings — Diablo IV - Blizzard News",
-      "source": {
-        "name": "Blizzard.com"
-      },
-      "description": "Goblin Greedings descends on Sanctuary as Treasure Goblin variants roam in increased numbers and bou...",
-      "url": "https://news.blizzard.com/en-us/article/24243642/goblins-and-gifts-galore-in-goblin-greedings",
-      "publishedAt": "2025-12-16T18:00:00Z",
-      "processed_at": "2025-12-18T04:35:28.134254+00:00"
-    },
-    {
-      "title": "Google wants its AI assistant CC to replace your morning scroll - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "Google’s AI agent CC is similar to OpenAI’s ChatGPT Pulse, delivering a personalized morning briefin...",
-      "url": "https://www.theverge.com/news/845280/google-cc-morning-briefing-gemini-ai-agent",
-      "publishedAt": "2025-12-16T18:00:00Z",
-      "processed_at": "2025-12-18T04:35:28.134254+00:00"
-    },
-    {
-      "title": "Sony’s XM5 over-ear headphones are cheaper than ever — and they come with free wireless earbuds - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "Sony’s noise-canceling WH-1000XM5 headphones are currently at an all-time low price, and come with f...",
-      "url": "https://www.theverge.com/gadgets/845527/sony-wh-1000xm5-wf-c700n-dualsense-deal-sale",
-      "publishedAt": "2025-12-16T17:54:27Z",
-      "processed_at": "2025-12-18T04:35:28.134254+00:00"
-    },
-    {
-      "title": "Scott Pilgrim Creator Bryan Lee O'Malley's Three Favorite Games Of All Time - Game Informer",
-      "source": {
-        "name": "Gameinformer.com"
-      },
-      "description": "We spoke with Bryan Lee O'Malley about working on Scott Pilgrim EX, his all-time favorite games, and...",
-      "url": "https://gameinformer.com/interview/bryan-lee-omalley",
-      "publishedAt": "2025-12-16T17:49:48Z",
-      "processed_at": "2025-12-18T04:35:28.134254+00:00"
+      "processed_at": "2025-12-18T05:24:27.709493+00:00"
     }
   ],
-  "lastUpdated": "2025-12-18T04:35:28.134333+00:00",
+  "lastUpdated": "2025-12-18T05:24:27.709587+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
