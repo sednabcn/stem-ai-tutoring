@@ -3,6 +3,46 @@
   "totalResults": 10,
   "articles": [
     {
+      "title": "Stardew Valley Creator Says 1.7 Update Will Contain 'More Character/Social Stuff' and a New Farm Type - IGN",
+      "source": {
+        "name": "IGN"
+      },
+      "description": "As Stardew Valley fans continue to wait patiently for the previously announced 1.7 update, creator E...",
+      "url": "https://www.ign.com/articles/stardew-valley-creator-says-17-update-will-contain-more-charactersocial-stuff-and-a-new-farm-type",
+      "publishedAt": "2025-12-17T23:02:51Z",
+      "processed_at": "2025-12-18T23:21:37.105531+00:00"
+    },
+    {
+      "title": "OpenAI’s new ChatGPT image generator makes faking photos easy - Ars Technica",
+      "source": {
+        "name": "Ars Technica"
+      },
+      "description": "New GPT Image 1.5 allows more detailed conversational image editing, for better or worse....",
+      "url": "https://arstechnica.com/ai/2025/12/openais-new-chatgpt-image-generator-makes-faking-photos-easy/",
+      "publishedAt": "2025-12-17T22:22:33Z",
+      "processed_at": "2025-12-18T23:21:37.105531+00:00"
+    },
+    {
+      "title": "Hasbro Hires Video-Game Boss as ‘Exodus’ Studio Head Steps Down - Bloomberg.com",
+      "source": {
+        "name": "Bloomberg"
+      },
+      "description": "Blizzard veteran Paul Della Bitta will take over the video-game division...",
+      "url": "https://www.bloomberg.com/news/articles/2025-12-17/hasbro-hires-new-video-game-boss-as-exodus-studio-head-steps-down",
+      "publishedAt": "2025-12-17T21:19:31Z",
+      "processed_at": "2025-12-18T23:21:37.105531+00:00"
+    },
+    {
+      "title": "Hogwarts Legacy Just Did Something Only A Small Group Of Games Ever Have - GameSpot",
+      "source": {
+        "name": "GameSpot"
+      },
+      "description": "The Harry Potter RPG is one of the best-selling games of all time....",
+      "url": "https://www.gamespot.com/articles/hogwarts-legacy-just-did-something-only-a-small-group-of-games-ever-have/1100-6537058/",
+      "publishedAt": "2025-12-17T21:13:32Z",
+      "processed_at": "2025-12-18T23:21:37.105531+00:00"
+    },
+    {
       "title": "Video game hardware sales had a historically bad November in the US - The Verge",
       "source": {
         "name": "The Verge"
@@ -10,7 +50,17 @@
       "description": "Spending on video game hardware during the month of November dropped 27 percent compared to 2024, ac...",
       "url": "https://www.theverge.com/news/846693/video-game-hardware-sales-november-2025-circana",
       "publishedAt": "2025-12-17T20:15:00Z",
-      "processed_at": "2025-12-18T22:21:30.076987+00:00"
+      "processed_at": "2025-12-18T23:21:37.105531+00:00"
+    },
+    {
+      "title": "iOS 26.2 fulfills a five-year-old Apple Music request with new Apple Podcasts features - 9to5Mac",
+      "source": {
+        "name": "9to5Mac"
+      },
+      "description": "Five years ago, an Apple Music Radio show tailored to my taste amplified music discovery for me. Dis...",
+      "url": "https://9to5mac.com/2025/12/17/ios-26-2-fulfills-a-five-year-old-apple-music-request-with-new-apple-podcasts-features/",
+      "publishedAt": "2025-12-17T20:13:00Z",
+      "processed_at": "2025-12-18T23:21:37.105531+00:00"
     },
     {
       "title": "Game Awards 2025 Set New Record, Delivering Whopping 171 Million Livestreams Worldwide - Variety",
@@ -20,90 +70,40 @@
       "description": "The 2025 Game Awards show again set new viewership records with an estimated 171 million global live...",
       "url": "https://variety.com/2025/digital/news/game-awards-2025-viewing-record-livestreams-worldwide-1236611146/",
       "publishedAt": "2025-12-17T20:00:00Z",
-      "processed_at": "2025-12-18T22:21:30.076987+00:00"
+      "processed_at": "2025-12-18T23:21:37.105531+00:00"
     },
     {
-      "title": "New Year’s Sale 2025 - Minecraft",
+      "title": "Value Product of the Year Nominees - Pinkbike",
       "source": {
-        "name": "Minecraft.net"
+        "name": "Pinkbike.com"
       },
-      "description": "2025 is coming to an end, and what better way to commemorate this year than with a massive sale!...",
-      "url": "https://www.minecraft.net/en-us/article/new-years-sale-2025",
-      "publishedAt": "2025-12-17T18:05:01Z",
-      "processed_at": "2025-12-18T22:21:30.076987+00:00"
+      "description": "With so many discounts around, it's hard to know what really counts as good value, but these nominee...",
+      "url": "https://www.pinkbike.com/news/2025-pinkbike-awards-value-product-of-the-year-nominees.html",
+      "publishedAt": "2025-12-17T20:00:00Z",
+      "processed_at": "2025-12-18T23:21:37.105531+00:00"
     },
     {
-      "title": "Own a First-Gen Starlink Router? SpaceX Wants to Replace It for Free - PCMag",
+      "title": "Hackers Are Targeting Windows 10. Do This One Thing to Stay Safe - PCMag",
       "source": {
         "name": "PCMag.com"
       },
-      "description": "SpaceX plans to stop providing updates for its 'Gen 1' router in the near future....",
-      "url": "https://www.pcmag.com/news/own-a-first-gen-starlink-router-spacex-wants-to-replace-it-for-free",
-      "publishedAt": "2025-12-17T17:37:27Z",
-      "processed_at": "2025-12-18T22:21:30.076987+00:00"
+      "description": "The end of support for Windows 10 means it's now a prime target for malware. But that doesn't mean y...",
+      "url": "https://www.pcmag.com/explainers/hackers-are-targeting-windows-10-do-this-one-thing-to-stay-safe",
+      "publishedAt": "2025-12-17T18:29:13Z",
+      "processed_at": "2025-12-18T23:21:37.105531+00:00"
     },
     {
-      "title": "Fallout 5 Will Exist in a World Where 'The Stories and Events of the Show Happened or Are Happening,' Todd Howard Confirms - IGN",
+      "title": "An Australian man just built a 388mph drone and it’s now the fastest on Earth - supercarblondie.com",
       "source": {
-        "name": "IGN"
+        "name": "Supercarblondie.com"
       },
-      "description": "Fallout 5 will indeed take into account the canon events of the Fallout TV series, Bethesda developm...",
-      "url": "https://www.ign.com/articles/fallout-5-will-exist-in-a-world-where-the-stories-and-events-of-the-show-happened-or-are-happening-todd-howard-confirms",
-      "publishedAt": "2025-12-17T17:11:57Z",
-      "processed_at": "2025-12-18T22:21:30.076987+00:00"
-    },
-    {
-      "title": "GameStop Stock (NYSE:GME) Jumps With New Game Merch - TipRanks",
-      "source": {
-        "name": "Tipranks.com"
-      },
-      "description": "One of the few bright spots for retailer GameStop ($GME) these days is its collectible merchandise. ...",
-      "url": "https://www.tipranks.com/news/gamestop-stock-nysegme-jumps-with-new-game-merch",
-      "publishedAt": "2025-12-17T17:07:04Z",
-      "processed_at": "2025-12-18T22:21:30.076987+00:00"
-    },
-    {
-      "title": "Mercedes-Benz discontinues feature that syncs music to driving - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "Mercedes-Benz is shutting down its MBUX Sound Drive feature that synced driving actions to musical t...",
-      "url": "https://www.theverge.com/news/846367/mercedes-benz-discontinues-feature-that-syncs-music-to-driving",
-      "publishedAt": "2025-12-17T17:04:14Z",
-      "processed_at": "2025-12-18T22:21:30.076987+00:00"
-    },
-    {
-      "title": "Google releases Find Hub app for Wear OS - 9to5Google",
-      "source": {
-        "name": "9to5google.com"
-      },
-      "description": "As previously spotted in a promo video for the Pixel Watch 3, Google has released a Find Hub app for...",
-      "url": "http://9to5google.com/2025/12/17/find-hub-wear-os/",
-      "publishedAt": "2025-12-17T16:15:00Z",
-      "processed_at": "2025-12-18T22:21:30.076987+00:00"
-    },
-    {
-      "title": "Here's What The Divinity: Original Sin 2 Upgrade Looks Like On Xbox Series X|S - Pure Xbox",
-      "source": {
-        "name": "Pure Xbox"
-      },
-      "description": "Following its shadow drop earlier this week...",
-      "url": "https://www.purexbox.com/news/2025/12/heres-what-the-divinity-original-sin-2-upgrade-looks-like-on-xbox-series-xs",
-      "publishedAt": "2025-12-17T16:15:00Z",
-      "processed_at": "2025-12-18T22:21:30.076987+00:00"
-    },
-    {
-      "title": "Freshen Up Your Style with King Ice’s Brand-New Poké Ball Necklaces - Pokemon.com",
-      "source": {
-        "name": "Pokemon.com"
-      },
-      "description": "A variety of Poké Balls are taking center stage, with plenty of other Pokémon-inspired streetwear je...",
-      "url": "https://www.pokemon.com/us/pokemon-news/freshen-up-your-style-with-king-ices-brand-new-poke-ball-necklaces",
-      "publishedAt": "2025-12-17T16:10:39Z",
-      "processed_at": "2025-12-18T22:21:30.076987+00:00"
+      "description": "An Australian man built a lightweight drone that has just earned itself a Guinness World Record afte...",
+      "url": "https://supercarblondie.com/australian-man-built-388mph-drone-fastest-in-the-world/",
+      "publishedAt": "2025-12-17T18:09:00Z",
+      "processed_at": "2025-12-18T23:21:37.105531+00:00"
     }
   ],
-  "lastUpdated": "2025-12-18T22:21:30.077057+00:00",
+  "lastUpdated": "2025-12-18T23:21:37.105599+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
