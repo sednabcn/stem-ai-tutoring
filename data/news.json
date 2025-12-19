@@ -1,26 +1,56 @@
 {
   "status": "success",
-  "totalResults": 9,
+  "totalResults": 10,
   "articles": [
     {
-      "title": "Google Cuts Pixel Buds Pro 2 Price Again Following Rapid Sales, Pushing Them to a No-Margin Record Low - Gizmodo",
+      "title": "Micron says memory shortage will ‘persist’ beyond 2026 - The Verge",
       "source": {
-        "name": "Gizmodo.com"
+        "name": "The Verge"
       },
-      "description": "These are some of the best earbuds around and have loads off right now for Christmas....",
-      "url": "https://gizmodo.com/google-cuts-pixel-buds-pro-2-again-following-rapid-sales-pushing-them-to-a-no-margin-record-low-2000701192",
-      "publishedAt": "2025-12-18T14:10:20Z",
-      "processed_at": "2025-12-19T16:28:12.529908+00:00"
+      "description": "Micron doesn’t expect the memory shortage to end anytime soon, with CEO Sanjay Mehrotra saying that ...",
+      "url": "https://www.theverge.com/news/847344/micron-ram-memory-shortage-2026-earnings",
+      "publishedAt": "2025-12-18T15:14:24Z",
+      "processed_at": "2025-12-19T17:19:57.288329+00:00"
     },
     {
-      "title": "Google hands out massive 40% discount for Pixel 10 series to YouTube Premium subscribers - 9to5Google",
+      "title": "The Futuristic New Progen Luiva Supercar Arrives for the Holidays in GTA Online - Rockstar Games",
       "source": {
-        "name": "9to5google.com"
+        "name": "Rockstargames.com"
       },
-      "description": "A new promo email has begun appearing in YouTube Premium subscribers’ inboxes, and it includes a dis...",
-      "url": "http://9to5google.com/2025/12/18/google-offering-insane-pixel-10-discount-youtube-premium/",
-      "publishedAt": "2025-12-18T13:33:00Z",
-      "processed_at": "2025-12-19T16:28:12.529908+00:00"
+      "description": "Don’t be alarmed by the absence of a roof, windshield, or windows — that’s all part of Progen’s crea...",
+      "url": "https://www.rockstargames.com/newswire/article/k47k7292o57229/the-futuristic-new-progen-luiva-supercar-arrives-for-the-holidays-in-g",
+      "publishedAt": "2025-12-18T14:59:50Z",
+      "processed_at": "2025-12-19T17:19:57.288329+00:00"
+    },
+    {
+      "title": "What Car Never Lived Up To Its Potential? - Jalopnik",
+      "source": {
+        "name": "Jalopnik"
+      },
+      "description": "Building cars is a very hard thing to do, so making them everything they can be is a nearly impossib...",
+      "url": "https://www.jalopnik.com/2055105/what-car-never-lived-up-to-potential-question/",
+      "publishedAt": "2025-12-18T14:25:00Z",
+      "processed_at": "2025-12-19T17:19:57.288329+00:00"
+    },
+    {
+      "title": "The latest iPad Air is $400 for the first time and arrives by Christmas - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "Target has the best discount on the Apple iPad Air with 128GB of storage and an M3 processor at $200...",
+      "url": "https://www.theverge.com/gadgets/847156/apple-ipad-air-m3-astro-bot-airpods-pro-deal-sale",
+      "publishedAt": "2025-12-18T14:00:00Z",
+      "processed_at": "2025-12-19T17:19:57.288329+00:00"
+    },
+    {
+      "title": "Here’s What’s In Each ‘Fortnite’ Winterfest Cabin Present - Forbes",
+      "source": {
+        "name": "Forbes"
+      },
+      "description": "Want to grab some free gifts from the Fortnite Winterfest cabin? Here is what is in each present so ...",
+      "url": "https://www.forbes.com/sites/paultassi/2025/12/18/heres-whats-in-each-fortnite-winterfest-cabin-present/",
+      "publishedAt": "2025-12-18T13:56:20Z",
+      "processed_at": "2025-12-19T17:19:57.288329+00:00"
     },
     {
       "title": "With luck, the TV brightness war is over - The Verge",
@@ -30,70 +60,50 @@
       "description": "TVs from Samsung, LG, TCL, Hisense, and Sony keep getting brighter. But do they need to?...",
       "url": "https://www.theverge.com/tech/841054/tv-brightness-hdr-2025",
       "publishedAt": "2025-12-18T13:30:00Z",
-      "processed_at": "2025-12-19T16:28:12.529908+00:00"
+      "processed_at": "2025-12-19T17:19:57.288329+00:00"
     },
     {
-      "title": "Wizards of the Coast hires Blizzard veteran Paul Della Bitta to head up games arm - GamesIndustry.biz",
-      "source": {
-        "name": "GamesIndustry.biz"
-      },
-      "description": "Meanwhile, the co-founder of developer Archetype, James Ohlen, is stepping aside...",
-      "url": "https://www.gamesindustry.biz/wizards-of-the-coast-hires-blizzard-veteran-paul-della-bitta-to-head-up-games-arm",
-      "publishedAt": "2025-12-18T11:25:06Z",
-      "processed_at": "2025-12-19T16:28:12.529908+00:00"
-    },
-    {
-      "title": "Phone Updates Used to Be Annoying. The Latest iOS Is Awful - WIRED",
-      "source": {
-        "name": "Wired"
-      },
-      "description": "Is the latest iPhone operating system aesthetically appealing? No. But is it useful? Also no. At lea...",
-      "url": "https://www.wired.com/story/phone-updates-used-to-be-annoying-the-latest-ios-is-awful/",
-      "publishedAt": "2025-12-18T11:00:00Z",
-      "processed_at": "2025-12-19T16:28:12.529908+00:00"
-    },
-    {
-      "title": "The Game Awards breaks viewership records yet again, with over 170m viewers - Eurogamer",
+      "title": "Following controversial bans from Steam and Epic, Santa Ragione's Horses has sold 18k copies and repaid debts - Eurogamer",
       "source": {
         "name": "Eurogamer.net"
       },
-      "description": "A record-breaking number of people viewed The Game Awards this year....",
-      "url": "https://www.eurogamer.net/the-game-awards-breaks-viewership-records-yet-again-with-over-170m-viewers",
-      "publishedAt": "2025-12-18T10:02:32Z",
-      "processed_at": "2025-12-19T16:28:12.529908+00:00"
+      "description": "",
+      "url": "https://www.eurogamer.net/following-controversial-bans-from-steam-and-epic-santa-ragiones-horses-has-sold-18k-copies-and-repaid-debts",
+      "publishedAt": "2025-12-18T12:05:41Z",
+      "processed_at": "2025-12-19T17:19:57.288329+00:00"
     },
     {
-      "title": "Google Pixel 10 finally gets a GPU driver upgrade - Android Police",
+      "title": "Ten years ago, SpaceX turned tragedy into triumph with a historic rocket landing - Ars Technica",
       "source": {
-        "name": "Android Police"
+        "name": "Ars Technica"
       },
-      "description": "Arriving with Android 16 QPR3 Beta 1...",
-      "url": "https://www.androidpolice.com/google-pixel-10-gets-a-long-overdue-gpu-driver-upgrade/",
-      "publishedAt": "2025-12-18T04:59:00Z",
-      "processed_at": "2025-12-19T16:28:12.529908+00:00"
+      "description": "“It’s hard to describe how epic this comeback was after our first Falcon 9 launch failure.”…...",
+      "url": "https://arstechnica.com/space/2025/12/ten-years-ago-spacex-turned-tragedy-into-triumph-with-a-historic-rocket-landing/",
+      "publishedAt": "2025-12-18T12:00:22Z",
+      "processed_at": "2025-12-19T17:19:57.288329+00:00"
     },
     {
-      "title": "Sony’s legal battle against Tencent’s Horizon ‘clone’ is already over - The Verge",
+      "title": "A Filmmaker Made a Sam Altman Deepfake—and Got Unexpectedly Attached - WIRED",
       "source": {
-        "name": "The Verge"
+        "name": "Wired"
       },
-      "description": "Sony has reached a settlement with Tencent in its lawsuit over Light of Motiram, a game Sony alleged...",
-      "url": "https://www.theverge.com/news/847080/sony-tencent-lawsuit-horizon-clone-light-of-motiram-settlement",
-      "publishedAt": "2025-12-18T03:57:00Z",
-      "processed_at": "2025-12-19T16:28:12.529908+00:00"
+      "description": "The director of “Deepfaking Sam Altman” created a “Sam Bot” when he couldn’t get an interview with t...",
+      "url": "https://www.wired.com/story/a-filmmaker-made-a-sam-altman-deepfake-and-got-unexpectedly-attached/",
+      "publishedAt": "2025-12-18T12:00:00Z",
+      "processed_at": "2025-12-19T17:19:57.288329+00:00"
     },
     {
-      "title": "LG's First Dolby FlexConnect Soundbar Lets You Place Speakers Anywhere - CNET",
+      "title": "Report: Apple Developing 24-Inch OLED iMac With 600 Nits Brightness - MacRumors",
       "source": {
-        "name": "CNET"
+        "name": "MacRumors"
       },
-      "description": "The company unveiled its surround system which lets you add speakers to any TV if you buy the soundb...",
-      "url": "https://www.cnet.com/tech/home-entertainment/lgs-first-dolby-flexconnect-soundbar-lets-you-place-speakers-anywhere/",
-      "publishedAt": "2025-12-18T01:00:00Z",
-      "processed_at": "2025-12-19T16:28:12.529908+00:00"
+      "description": "Apple is working on a 24-inch iMac featuring an OLED display, with the aim of completing development...",
+      "url": "https://www.macrumors.com/2025/12/18/apple-developing-24-inch-oled-imac/",
+      "publishedAt": "2025-12-18T11:50:00Z",
+      "processed_at": "2025-12-19T17:19:57.288329+00:00"
     }
   ],
-  "lastUpdated": "2025-12-19T16:28:12.529979+00:00",
+  "lastUpdated": "2025-12-19T17:19:57.288408+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
