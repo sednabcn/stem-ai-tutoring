@@ -1,7 +1,87 @@
 {
   "status": "success",
-  "totalResults": 8,
+  "totalResults": 10,
   "articles": [
+    {
+      "title": "Mountain Bike of the Year Nominees - Pinkbike",
+      "source": {
+        "name": "Pinkbike.com"
+      },
+      "description": "This year's contenders include everything from a World Cup winning DH machine to a fast and friendly...",
+      "url": "https://www.pinkbike.com/news/2025-pinkbike-awards-mountain-bike-of-the-year-nominees.html",
+      "publishedAt": "2025-12-19T17:00:00Z",
+      "processed_at": "2025-12-20T19:16:56.344469+00:00"
+    },
+    {
+      "title": "Netflix acquires gaming avatar maker Ready Player Me - TechCrunch",
+      "source": {
+        "name": "TechCrunch"
+      },
+      "description": "The gaming startup will allow Netflix subscribers to create avatars that can extend across gaming ti...",
+      "url": "https://techcrunch.com/2025/12/19/netflix-acquires-gaming-avatar-maker-ready-player-me/",
+      "publishedAt": "2025-12-19T17:00:00Z",
+      "processed_at": "2025-12-20T19:16:56.344469+00:00"
+    },
+    {
+      "title": "Blizzard President Talks Culture, Bonuses and Releasing More Games - Bloomberg.com",
+      "source": {
+        "name": "Bloomberg"
+      },
+      "description": "Johanna Faries, who took over as president of Blizzard in 2024, reveals what’s coming from the stori...",
+      "url": "https://www.bloomberg.com/news/newsletters/2025-12-19/blizzard-president-johanna-faries-on-culture-bonuses-and-releasing-more-games",
+      "publishedAt": "2025-12-19T16:34:35Z",
+      "processed_at": "2025-12-20T19:16:56.344469+00:00"
+    },
+    {
+      "title": "Who owns Trump Mobile? - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "Which part of the Trump empire owns Trump Mobile, and how does a former FBI agent in Florida fit in?...",
+      "url": "https://www.theverge.com/tech/848029/trump-mobile-ownership-structure-licensing",
+      "publishedAt": "2025-12-19T16:20:27Z",
+      "processed_at": "2025-12-20T19:16:56.344469+00:00"
+    },
+    {
+      "title": "Where to Find Lorwyn Eclipsed Previews - Magic: The Gathering",
+      "source": {
+        "name": "Wizards.com"
+      },
+      "description": "Our return to the plane of Lorwyn-Shadowmoor is here! Prepare for a pastoral preview season when Lor...",
+      "url": "https://magic.wizards.com/en/news/announcements/where-to-find-lorwyn-eclipsed-previews",
+      "publishedAt": "2025-12-19T16:03:23Z",
+      "processed_at": "2025-12-20T19:16:56.344469+00:00"
+    },
+    {
+      "title": "UGreen’s Qi2 25W wireless charger is a perfectly portable Pixel 10 travel dock [Gallery] - 9to5Google",
+      "source": {
+        "name": "9to5google.com"
+      },
+      "description": "There are literally countless Qi2 charging docks available for the Pixel 10 series, each one with a ...",
+      "url": "http://9to5google.com/2025/12/19/ugreen-qi2-25w-charger-google-pixel-10-review/",
+      "publishedAt": "2025-12-19T15:05:00Z",
+      "processed_at": "2025-12-20T19:16:56.344469+00:00"
+    },
+    {
+      "title": "‘Cyberpunk 2077’ Walked A Long Road To Redemption - Defector",
+      "source": {
+        "name": "Defector.com"
+      },
+      "description": "Welcome to The Backlog, a series in which we will take a look back at 12 games from 2020 that, in on...",
+      "url": "https://defector.com/cyberpunk-2077-walked-a-long-road-to-redemption",
+      "publishedAt": "2025-12-19T14:02:00Z",
+      "processed_at": "2025-12-20T19:16:56.344469+00:00"
+    },
+    {
+      "title": "Apple might be requiring iPhone users to install iOS 26 for security fixes - 9to5Mac",
+      "source": {
+        "name": "9to5Mac"
+      },
+      "description": "Apple released iOS 26.2 last week with important security fixes. At the same time, it also shipped i...",
+      "url": "https://9to5mac.com/2025/12/19/ios-26-2-iios-18-7-3-update-options-security/",
+      "publishedAt": "2025-12-19T13:35:00Z",
+      "processed_at": "2025-12-20T19:16:56.344469+00:00"
+    },
     {
       "title": "Phones were fashionable again in 2025 - The Verge",
       "source": {
@@ -10,80 +90,20 @@
       "description": "From the wooden-back Motorola Razr Ultra to the iPhone 17 Pro’s vibrant turn in Cosmic Orange, phone...",
       "url": "https://www.theverge.com/tech/842190/2025-smartphones-design-color-fashion",
       "publishedAt": "2025-12-19T13:30:00Z",
-      "processed_at": "2025-12-20T18:28:28.829355+00:00"
+      "processed_at": "2025-12-20T19:16:56.344469+00:00"
     },
     {
-      "title": "Semi-solid state MagSafe power banks arrive from the founder of Hyper - The Verge",
+      "title": "New on Java Realms: Celebrate Java Realms Day, C’mon! - Minecraft",
       "source": {
-        "name": "The Verge"
+        "name": "Minecraft.net"
       },
-      "description": "BMX SolidSafe semi-solid state MagSafe power banks from the founder of Hyper are now available. They...",
-      "url": "https://www.theverge.com/news/847925/bmx-hyper-semi-solid-state-power-banks",
-      "publishedAt": "2025-12-19T12:46:19Z",
-      "processed_at": "2025-12-20T18:28:28.829355+00:00"
-    },
-    {
-      "title": "How to Quickly Find Out What's Streaming on Multiple Services at Once - WIRED",
-      "source": {
-        "name": "Wired"
-      },
-      "description": "Build a watchlist of all the movies and shows you want to watch, no matter where they’re streaming....",
-      "url": "https://www.wired.com/story/how-to-find-out-whats-streaming-and-where/",
-      "publishedAt": "2025-12-19T12:00:00Z",
-      "processed_at": "2025-12-20T18:28:28.829355+00:00"
-    },
-    {
-      "title": "WatchGuard Warns of Active Exploitation of Critical Fireware OS VPN Vulnerability - The Hacker News",
-      "source": {
-        "name": "Internet"
-      },
-      "description": "WatchGuard fixed CVE-2025-14733, a critical Fireware OS VPN flaw with CVSS 9.3 that is actively expl...",
-      "url": "https://thehackernews.com/2025/12/watchguard-warns-of-active-exploitation.html",
-      "publishedAt": "2025-12-19T11:23:00Z",
-      "processed_at": "2025-12-20T18:28:28.829355+00:00"
-    },
-    {
-      "title": "This Chrome Extension Turns LinkedIn Posts About AI Into Facts About Allen Iverson - WIRED",
-      "source": {
-        "name": "Wired"
-      },
-      "description": "The developers of a browser tool that changes AI-centric LinkedIn posts to Allen Iverson facts want ...",
-      "url": "https://www.wired.com/story/chrome-extension-linkedin-allen-iverson/",
-      "publishedAt": "2025-12-19T10:00:00Z",
-      "processed_at": "2025-12-20T18:28:28.829355+00:00"
-    },
-    {
-      "title": "Welcome to Your New ROG Xbox Ally: Essential Tips for Getting Started - Xbox Wire",
-      "source": {
-        "name": "Xbox.com"
-      },
-      "description": "Picking up a new ROG Xbox Ally or ROG Xbox Ally X? To help you hit the ground running, we’ve pulled ...",
-      "url": "https://news.xbox.com/en-us/2025/12/18/rog-xbox-ally-handheld-essential-tips-getting-started/",
-      "publishedAt": "2025-12-19T08:04:28Z",
-      "processed_at": "2025-12-20T18:28:28.829355+00:00"
-    },
-    {
-      "title": "Deals for Today: Last Chance MTG Deals and a Bargain 2025 Apple iPad Air - IGN",
-      "source": {
-        "name": "IGN"
-      },
-      "description": "Deals for Today brings last-chance MTG savings, a discounted 2025 Apple iPad Air, and an RTX 5070 Ti...",
-      "url": "https://www.ign.com/articles/deals-for-today-last-chance-mtg-deals-and-a-bargain-2025-apple-ipad-air",
-      "publishedAt": "2025-12-18T23:52:22Z",
-      "processed_at": "2025-12-20T18:28:28.829355+00:00"
-    },
-    {
-      "title": "Google Introduces New Android Features in Pixel Beta Update - CNET",
-      "source": {
-        "name": "CNET"
-      },
-      "description": "Participants in the Android Beta Program get first dibs on the next update, which is set to land in ...",
-      "url": "https://www.cnet.com/tech/mobile/google-introduces-new-android-features-in-pixel-beta-update/",
-      "publishedAt": "2025-12-18T22:40:00Z",
-      "processed_at": "2025-12-20T18:28:28.829355+00:00"
+      "description": "The latest batch of featured maps is here! Grab your Realms-nog, kick-back, and enjoy the December 2...",
+      "url": "https://www.minecraft.net/en-us/article/new-on-java-realms-december-20250",
+      "publishedAt": "2025-12-19T13:05:05Z",
+      "processed_at": "2025-12-20T19:16:56.344469+00:00"
     }
   ],
-  "lastUpdated": "2025-12-20T18:28:28.829418+00:00",
+  "lastUpdated": "2025-12-20T19:16:56.344542+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
