@@ -1,7 +1,27 @@
 {
   "status": "success",
-  "totalResults": 9,
+  "totalResults": 10,
   "articles": [
+    {
+      "title": "Tomb Raider: Legacy of Atlantis has opened Pandora’s box with its free gift - TrueAchievements",
+      "source": {
+        "name": "TrueAchievements"
+      },
+      "description": "Now that I know Tomb Raider: Legacy of Atlantis is bringing back old Lara Croft outfits, I’m going t...",
+      "url": "https://www.trueachievements.com/news/tomb-raider-legacy-of-atlantis-lara-croft-outfits",
+      "publishedAt": "2025-12-20T14:00:20Z",
+      "processed_at": "2025-12-21T17:18:15.437339+00:00"
+    },
+    {
+      "title": "Galaxy S26 Ultra Release Date: Samsung Flagship’s Disappointing Delay - Forbes",
+      "source": {
+        "name": "Forbes"
+      },
+      "description": "As Samsung prepares for the next Galaxy Unpacked event in early 2026, those eager to see the Galaxy ...",
+      "url": "https://www.forbes.com/sites/ewanspence/2025/12/20/samsung-galaxy-s26-ultra-galaxy-s26-plus-galaxy-s26-launch-date-galaxy-unpacked-2026/",
+      "publishedAt": "2025-12-20T13:51:11Z",
+      "processed_at": "2025-12-21T17:18:15.437339+00:00"
+    },
     {
       "title": "AI Image Generators Default to the Same 12 Photo Styles, Study Finds - Gizmodo",
       "source": {
@@ -10,37 +30,47 @@
       "description": "Anything your imagination desires, as long as it's one of just a few options....",
       "url": "https://gizmodo.com/ai-image-generators-default-to-the-same-12-photo-styles-study-finds-2000702012",
       "publishedAt": "2025-12-20T13:00:15Z",
-      "processed_at": "2025-12-21T16:26:09.648691+00:00"
+      "processed_at": "2025-12-21T17:18:15.437339+00:00"
     },
     {
-      "title": "Today's Hurdle hints and answers for December 20, 2025 - Mashable",
+      "title": "This is what a good affordable Android tablet looks like - Android Police",
       "source": {
-        "name": "Mashable"
+        "name": "Android Police"
       },
-      "description": "Everything you need to win....",
-      "url": "https://mashable.com/article/hurdle-hints-answers-december-20-2025",
-      "publishedAt": "2025-12-20T05:00:00Z",
-      "processed_at": "2025-12-21T16:26:09.648691+00:00"
+      "description": "Just in case you were looking...",
+      "url": "https://www.androidpolice.com/this-is-the-affordable-android-tablet-worth-picking-up/",
+      "publishedAt": "2025-12-20T12:18:00Z",
+      "processed_at": "2025-12-21T17:18:15.437339+00:00"
     },
     {
-      "title": "Another Switch 2 Game Has Been Updated This Week, Here Are The Full Patch Notes - Nintendo Life",
+      "title": "3 New Free PC Games Include Certified Banger, 100% Steam Discount Confirmed - GAMINGbible",
       "source": {
-        "name": "Nintendo Life"
+        "name": "Gamingbible.com"
       },
-      "description": "Good news, Daemon x Machina fans...",
-      "url": "https://www.nintendolife.com/news/2025/12/another-switch-2-game-has-been-updated-this-week-here-are-the-full-patch-notes",
-      "publishedAt": "2025-12-20T01:55:00Z",
-      "processed_at": "2025-12-21T16:26:09.648691+00:00"
+      "description": "These three Steam freebies are up for grabs for a seemingly limited time, so grab them ASAP...",
+      "url": "https://www.gamingbible.com/news/platform/steam/3-new-free-pc-games-certified-banger-steam-447824-20251220",
+      "publishedAt": "2025-12-20T11:04:41Z",
+      "processed_at": "2025-12-21T17:18:15.437339+00:00"
     },
     {
-      "title": "This Tool Can Tell You If Your Home Network Has Been Compromised - Lifehacker",
+      "title": "Nex Playground Boss Says The Console Solves The Wii \"Problem\" - GameSpot",
       "source": {
-        "name": "Lifehacker.com"
+        "name": "GameSpot"
       },
-      "description": "IP Check tells you if your address is involved in malicious scanning....",
-      "url": "https://lifehacker.com/tech/tool-checks-for-compromised-home-internet",
-      "publishedAt": "2025-12-20T00:19:12Z",
-      "processed_at": "2025-12-21T16:26:09.648691+00:00"
+      "description": "David Lee explains why the Nex Playground isn't selling any games....",
+      "url": "https://www.gamespot.com/articles/nex-playground-boss-says-the-console-solves-the-wii-problem/1100-6537124/",
+      "publishedAt": "2025-12-20T02:05:11Z",
+      "processed_at": "2025-12-21T17:18:15.437339+00:00"
+    },
+    {
+      "title": "Google is part of Movies Anywhere again - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "Your Google Play and YouTube movies will now show up as part of your Movies Anywhere collection agai...",
+      "url": "https://www.theverge.com/news/848548/google-youtube-movies-anywhere-back-return",
+      "publishedAt": "2025-12-20T00:50:00Z",
+      "processed_at": "2025-12-21T17:18:15.437339+00:00"
     },
     {
       "title": "Google releases factory, OTA images for second Pixel December 2025 update - 9to5Google",
@@ -50,7 +80,7 @@
       "description": "On Wednesday, Google started rolling out a second December 2025 update for Pixel phones, with factor...",
       "url": "http://9to5google.com/2025/12/19/second-pixel-december-2025-update/",
       "publishedAt": "2025-12-19T23:41:00Z",
-      "processed_at": "2025-12-21T16:26:09.648691+00:00"
+      "processed_at": "2025-12-21T17:18:15.437339+00:00"
     },
     {
       "title": "NotebookLM now uses Gemini 3, adds new ‘Data Tables’ output - 9to5Google",
@@ -60,7 +90,7 @@
       "description": "NotebookLM is getting in a few more features before the holidays, including an upgrade to Gemini 3 a...",
       "url": "http://9to5google.com/2025/12/19/notebooklm-gemini-3-data-tables/",
       "publishedAt": "2025-12-19T23:02:00Z",
-      "processed_at": "2025-12-21T16:26:09.648691+00:00"
+      "processed_at": "2025-12-21T17:18:15.437339+00:00"
     },
     {
       "title": "Gemini isn’t replacing Google Assistant on Android just yet - The Verge",
@@ -70,30 +100,10 @@
       "description": "Google is pushing back its timeline for replacing Google Assistant with Gemini on Android, as it now...",
       "url": "https://www.theverge.com/news/848455/google-assistant-gemini-upgrade-2026",
       "publishedAt": "2025-12-19T22:39:14Z",
-      "processed_at": "2025-12-21T16:26:09.648691+00:00"
-    },
-    {
-      "title": "Nintendo Might Change The Switch 2 Feature Players Complain About Most - GameSpot",
-      "source": {
-        "name": "GameSpot"
-      },
-      "description": "",
-      "url": "https://www.gamespot.com/articles/nintendo-might-change-the-switch-2-feature-players-complain-about-most/1100-6537120/",
-      "publishedAt": "2025-12-19T20:40:55Z",
-      "processed_at": "2025-12-21T16:26:09.648691+00:00"
-    },
-    {
-      "title": "Riot Games is making an anti-cheat change that could be rough on older PCs - Ars Technica",
-      "source": {
-        "name": "Ars Technica"
-      },
-      "description": "BIOS checks will only affect a limited subset of Valorant players for now....",
-      "url": "https://arstechnica.com/gadgets/2025/12/some-valorant-players-need-to-update-their-pc-bios-to-keep-anti-cheat-software-happy/",
-      "publishedAt": "2025-12-19T20:27:36Z",
-      "processed_at": "2025-12-21T16:26:09.648691+00:00"
+      "processed_at": "2025-12-21T17:18:15.437339+00:00"
     }
   ],
-  "lastUpdated": "2025-12-21T16:26:09.648759+00:00",
+  "lastUpdated": "2025-12-21T17:18:15.437411+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
