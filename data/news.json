@@ -1,99 +1,109 @@
 {
   "status": "success",
-  "totalResults": 9,
+  "totalResults": 10,
   "articles": [
     {
-      "title": "Our favorite stuff of 2025 - The Verge",
+      "title": "These 14 Facebook Moms Take Toxicity, Ignorance, And Inappropriateness To The Next Level - BuzzFeed",
+      "source": {
+        "name": "Buzzfeed"
+      },
+      "description": "I hadn't heard the term \"cupcaked\" until today, and I wish I still didn't know about it....",
+      "url": "https://www.buzzfeed.com/daniellaemanuel/facebook-moms-toxicity-fs",
+      "publishedAt": "2025-12-21T16:31:02Z",
+      "processed_at": "2025-12-22T17:20:03.839679+00:00"
+    },
+    {
+      "title": "The Surface Laptop 7 is $699.99 [Deal Over] - Windows Central",
+      "source": {
+        "name": "Windows Central"
+      },
+      "description": "Don't settle for a coal-powered PC. Grab the Snapdragon X Elite Surface Laptop 7 for just $699.99 wh...",
+      "url": "https://www.windowscentral.com/hardware/surface/the-surface-laptop-7-with-a-snapdragon-x-elite-is-down-to-usd699-99-and-you-can-still-get-it-before-christmas",
+      "publishedAt": "2025-12-21T16:00:27Z",
+      "processed_at": "2025-12-22T17:20:03.839679+00:00"
+    },
+    {
+      "title": "PlayStation Releases Ghost Of Yotei Free Downloads, All Yours - GAMINGbible",
+      "source": {
+        "name": "Gamingbible.com"
+      },
+      "description": "",
+      "url": "https://www.gamingbible.com/news/platform/playstation/ghost-of-yotei-free-avatars-835626-20251221",
+      "publishedAt": "2025-12-21T15:51:55Z",
+      "processed_at": "2025-12-22T17:20:03.839679+00:00"
+    },
+    {
+      "title": "Bazzite explodes in usage — here’s why gamers are switching from Windows - Windows Central",
+      "source": {
+        "name": "Windows Central"
+      },
+      "description": "Bazzite’s steady growth highlights a growing appetite for simpler, console-like PC gaming experience...",
+      "url": "https://www.windowscentral.com/gaming/pc-gaming/gamers-are-installing-bazzite-instead-of-sticking-with-windows",
+      "publishedAt": "2025-12-21T15:32:09Z",
+      "processed_at": "2025-12-22T17:20:03.839679+00:00"
+    },
+    {
+      "title": "5 Cool New Gadgets That Use Your PC's Extra USB Ports - bgr.com",
+      "source": {
+        "name": "BGR"
+      },
+      "description": "Your PCs USB ports can do more than support a keyboard, mouse, or portable drive. A monitor light ba...",
+      "url": "https://www.bgr.com/2053460/cool-gadgets-use-pc-usb-ports/",
+      "publishedAt": "2025-12-21T14:17:00Z",
+      "processed_at": "2025-12-22T17:20:03.839679+00:00"
+    },
+    {
+      "title": "Video games may be a surprisingly good way to get a cognitive boost - The Washington Post",
+      "source": {
+        "name": "The Washington Post"
+      },
+      "description": "However, the type of game and how often you play it matters, with experts recommending moderation....",
+      "url": "https://www.washingtonpost.com/wellness/2025/12/21/video-games-brain-cognition-boost/",
+      "publishedAt": "2025-12-21T14:11:59Z",
+      "processed_at": "2025-12-22T17:20:03.839679+00:00"
+    },
+    {
+      "title": "Only 25 People Can Own This Rolls-Royce, And That’s Probably Enough - Carscoops",
+      "source": {
+        "name": "CarScoops"
+      },
+      "description": "Venuum’s limited-run tuning package turns the Rolls-Royce Dawn convertible into a rolling spectacle ...",
+      "url": "https://www.carscoops.com/2025/12/rolls-royce-dawn-venuum-widebody-kit/",
+      "publishedAt": "2025-12-21T14:02:59Z",
+      "processed_at": "2025-12-22T17:20:03.839679+00:00"
+    },
+    {
+      "title": "The best thing I bought this year: The Nintendo Switch 2 - The Verge",
       "source": {
         "name": "The Verge"
       },
-      "description": "From Claude Code to the Switch 2, from Puzzmo to Good Hang, here are our favorite things from 2025....",
-      "url": "https://www.theverge.com/tech/848567/best-tech-movies-gadgets-2025-installer",
-      "publishedAt": "2025-12-21T13:00:00Z",
-      "processed_at": "2025-12-22T16:28:34.289549+00:00"
+      "description": "The Nintendo Switch 2 lets me play many older games at higher frame rates and resolutions, and it ha...",
+      "url": "https://www.theverge.com/gadgets/845477/nintendo-switch-2-game-system-favorite",
+      "publishedAt": "2025-12-21T14:00:00Z",
+      "processed_at": "2025-12-22T17:20:03.839679+00:00"
     },
     {
-      "title": "Nintendo Fans Might Get The Entire Tomb Raider Survivor Trilogy Thanks To Their \"Passionate Response\" - Nintendo Life",
+      "title": "Digital Storm hints at a next-gen Aventum system for CES 2026 - VideoCardz.com",
       "source": {
-        "name": "Nintendo Life"
+        "name": "Videocardz.com"
       },
-      "description": "But Aspyr \"can't announce anything at the moment\"...",
-      "url": "https://www.nintendolife.com/news/2025/12/nintendo-fans-might-get-the-entire-tomb-raider-survivor-trilogy-thanks-to-their-passionate-response",
-      "publishedAt": "2025-12-21T09:30:00Z",
-      "processed_at": "2025-12-22T16:28:34.289549+00:00"
+      "description": "New Aventum launching at CES 2026 Digital Storm says its next flagship desktop is moving into produc...",
+      "url": "https://videocardz.com/newz/digital-storm-hints-at-a-next-gen-aventum-system-for-ces-2026",
+      "publishedAt": "2025-12-21T13:50:00Z",
+      "processed_at": "2025-12-22T17:20:03.839679+00:00"
     },
     {
-      "title": "Embattled Divinity Dev to Host Q&A with Fans After Tough Week - Push Square",
+      "title": "You're Using Your Second Monitor Wrong - Here's How - bgr.com",
       "source": {
-        "name": "Push Square"
+        "name": "BGR"
       },
-      "description": "\"A lot has become lost in translation\"...",
-      "url": "https://www.pushsquare.com/news/2025/12/embattled-divinity-dev-to-host-qanda-with-fans-after-tough-week",
-      "publishedAt": "2025-12-21T09:11:27Z",
-      "processed_at": "2025-12-22T16:28:34.289549+00:00"
-    },
-    {
-      "title": "Forget sit-ups — I tried the sprinter bridge instead to boost my core strength, and here's what happened - Tom's Guide",
-      "source": {
-        "name": "Tom's Guide"
-      },
-      "description": "Mix up your core routine with the sprinter bridge...",
-      "url": "https://www.tomsguide.com/wellness/fitness/forget-sit-ups-i-tried-the-sprinter-bridge-instead-to-boost-my-core-strength-and-heres-what-happened",
-      "publishedAt": "2025-12-21T05:19:40Z",
-      "processed_at": "2025-12-22T16:28:34.289549+00:00"
-    },
-    {
-      "title": "I’ve been doing this standing exercise for six months and it’s transformed my core strength - Fit&Well",
-      "source": {
-        "name": "Fitandwell.com"
-      },
-      "description": "Swap sit-ups for this functional move...",
-      "url": "https://www.fitandwell.com/exercise/strength-workouts/ive-been-doing-this-standing-exercise-for-six-months-and-its-transformed-my-core-strength",
-      "publishedAt": "2025-12-21T05:05:22Z",
-      "processed_at": "2025-12-22T16:28:34.289549+00:00"
-    },
-    {
-      "title": "EDGE #419 review scores – Metroid Prime 4: Beyond, Kirby Air Riders, more - Nintendo Everything",
-      "source": {
-        "name": "Nintendoeverything.com"
-      },
-      "description": "EDGE #419 review scores released with some tough verdicts for Metroid Prime 4: Beyond, Kirby Air Rid...",
-      "url": "https://nintendoeverything.com/edge-419-review-scores-metroid-prime-4-beyond-kirby-air-riders-more/",
-      "publishedAt": "2025-12-20T23:05:32Z",
-      "processed_at": "2025-12-22T16:28:34.289549+00:00"
-    },
-    {
-      "title": "Month and location of Galaxy S26 series' unveiling leaked - PhoneArena",
-      "source": {
-        "name": "PhoneArena"
-      },
-      "description": "You might be surprised by the leaked date of Samsung's next Unpacked event for its flagship phone li...",
-      "url": "https://www.phonearena.com/news/month-location-galaxy-s26-series-unveiling-leaked_id176774",
-      "publishedAt": "2025-12-20T22:56:53Z",
-      "processed_at": "2025-12-22T16:28:34.289549+00:00"
-    },
-    {
-      "title": "The Best Deals Today: Nintendo Switch 2 + Mario Kart World Bundle, PS5 Pro, and More - IGN",
-      "source": {
-        "name": "IGN"
-      },
-      "description": "",
-      "url": "https://www.ign.com/articles/best-deals-for-december-20-2025",
-      "publishedAt": "2025-12-20T21:21:25Z",
-      "processed_at": "2025-12-22T16:28:34.289549+00:00"
-    },
-    {
-      "title": "Clair Obscur Is Having Its Indie Game Game Of The Year Award Stripped Away Due To AI Use - TheGamer",
-      "source": {
-        "name": "TheGamer"
-      },
-      "description": "The Indie Game Awards are disqualifying Expedition 33 and stripping the title and its developer of a...",
-      "url": "https://www.thegamer.com/clair-obscur-expedition-33-indie-game-awards-goty-stripped-ai-use/",
-      "publishedAt": "2025-12-20T20:48:00Z",
-      "processed_at": "2025-12-22T16:28:34.289549+00:00"
+      "description": "If you use a dual-monitor setup, chances are you might not be making the most of it. Placing the sec...",
+      "url": "https://www.bgr.com/2049250/how-to-use-second-monitor-vertical-guide/",
+      "publishedAt": "2025-12-21T13:47:00Z",
+      "processed_at": "2025-12-22T17:20:03.839679+00:00"
     }
   ],
-  "lastUpdated": "2025-12-22T16:28:34.289625+00:00",
+  "lastUpdated": "2025-12-22T17:20:03.839747+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
