@@ -1,109 +1,99 @@
 {
   "status": "success",
-  "totalResults": 10,
+  "totalResults": 9,
   "articles": [
     {
-      "title": "ChatGPT recapped your personal AI habits in 2025. Here's how to see yours. - Mashable",
+      "title": "Samsung’s 2026 gaming monitors promise 6K, 3D, and up to 1,040Hz - The Verge",
       "source": {
-        "name": "Mashable"
+        "name": "The Verge"
       },
-      "description": "Reflect on your generative AI use this year....",
-      "url": "https://mashable.com/article/chatgpt-year-review-wrap-up-2025-how-to-view",
-      "publishedAt": "2025-12-23T15:11:15Z",
-      "processed_at": "2025-12-24T18:32:37.935213+00:00"
+      "description": "Samsung has announced its 2026 gaming monitor lineup, which includes an upgraded version of the Odys...",
+      "url": "https://www.theverge.com/news/849850/samsung-odyssey-gaming-monitors-6k-3d-ces-2026",
+      "publishedAt": "2025-12-23T19:13:50Z",
+      "processed_at": "2025-12-24T19:17:19.633551+00:00"
     },
     {
-      "title": "Google Photos brings person and pet ‘face shortcuts’ back to search - 9to5Google",
+      "title": "GM is inviting EV owners to test this feature that should be standard for all vehicles - Electrek",
+      "source": {
+        "name": "Electrek"
+      },
+      "description": "If you haven’t used one yet, a Digital Key is life-changing. It should be a given on all new vehicle...",
+      "url": "http://electrek.co/2025/12/23/gm-inviting-ev-owners-test-long-awaited-feature/",
+      "publishedAt": "2025-12-23T18:48:00Z",
+      "processed_at": "2025-12-24T19:17:19.633551+00:00"
+    },
+    {
+      "title": "007 First Light’s release date gets shaken up - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "IO Interactive has delayed the release of 007 First Light, its upcoming James Bond origin story game...",
+      "url": "https://www.theverge.com/news/849810/james-bond-007-first-light-release-date-delay",
+      "publishedAt": "2025-12-23T18:39:11Z",
+      "processed_at": "2025-12-24T19:17:19.633551+00:00"
+    },
+    {
+      "title": "Recap: The Best Chronograph Watches of 2025 - Monochrome Watches",
+      "source": {
+        "name": "Monochrome-watches.com"
+      },
+      "description": "A fan favourite and one of the most productive catagories of the watch industry, here are the best c...",
+      "url": "https://monochrome-watches.com/recap-best-chronograph-watches-of-2025-monochrome-team-audemars-rd5-angelus-minerva-breguet-monaco-carbon/",
+      "publishedAt": "2025-12-23T17:00:09Z",
+      "processed_at": "2025-12-24T19:17:19.633551+00:00"
+    },
+    {
+      "title": "The Best PC Games Of 2025 According To Metacritic - GameSpot",
+      "source": {
+        "name": "GameSpot"
+      },
+      "description": "PC gamers had no shortage of great titles to play in 2025....",
+      "url": "https://www.gamespot.com/gallery/the-best-pc-games-of-2025-according-to-metacritic/2900-7356/",
+      "publishedAt": "2025-12-23T17:00:00Z",
+      "processed_at": "2025-12-24T19:17:19.633551+00:00"
+    },
+    {
+      "title": "Lost Ark 2026 Roadmap - Part 1 - Lost Ark",
+      "source": {
+        "name": "Playlostark.com"
+      },
+      "description": "",
+      "url": "https://www.playlostark.com/en-us/news/articles/2026-roadmap-part-1",
+      "publishedAt": "2025-12-23T17:00:00Z",
+      "processed_at": "2025-12-24T19:17:19.633551+00:00"
+    },
+    {
+      "title": "Gemini on Android Auto is an update drivers seem to love or hate – what do you think? [Poll] - 9to5Google",
       "source": {
         "name": "9to5google.com"
       },
-      "description": "Face grouping and search is perhaps one of the best parts of Google Photos, but the pivot to focus m...",
-      "url": "http://9to5google.com/2025/12/23/google-photos-brings-person-and-pet-face-shortcuts-back-to-search/",
-      "publishedAt": "2025-12-23T13:55:00Z",
-      "processed_at": "2025-12-24T18:32:37.935213+00:00"
+      "description": "As Google Assistant was crumbling, the arrival of Gemini in Android Auto felt like a needed step for...",
+      "url": "http://9to5google.com/2025/12/23/gemini-android-auto-update-initial-reactions/",
+      "publishedAt": "2025-12-23T16:30:00Z",
+      "processed_at": "2025-12-24T19:17:19.633551+00:00"
     },
     {
-      "title": "The Rumour Engine – 23rd of December - Warhammer Community",
+      "title": "Vince Zampella, video game pioneer behind megahit Call of Duty, dies at 55 - NPR",
       "source": {
-        "name": "Warhammer-community.com"
+        "name": "NPR"
       },
-      "description": "What could it be?...",
-      "url": "https://www.warhammer-community.com/articles/tvveavmu/the-rumour-engine-23rd-of-december",
-      "publishedAt": "2025-12-23T12:57:43Z",
-      "processed_at": "2025-12-24T18:32:37.935213+00:00"
+      "description": "One of Vince Zampella's crowning achievements was the creation of the Call of Duty franchise, which ...",
+      "url": "https://www.npr.org/2025/12/23/nx-s1-5653307/call-of-duty-vince-zampella-creator-dies",
+      "publishedAt": "2025-12-23T16:09:19Z",
+      "processed_at": "2025-12-24T19:17:19.633551+00:00"
     },
     {
-      "title": "Big Garmin Public Beta Update Adds 25 New Features to 2025 Watches - DC Rainmaker",
+      "title": "Review: The Yeti LTe Feels Like Magic - Pinkbike",
       "source": {
-        "name": "DC Rainmaker"
+        "name": "Pinkbike.com"
       },
-      "description": "A complete recap of the Dec 2025 public beta for Garmin watches, including all the new features....",
-      "url": "https://www.dcrainmaker.com/2025/12/garmin-features-watches.html",
-      "publishedAt": "2025-12-23T12:49:59Z",
-      "processed_at": "2025-12-24T18:32:37.935213+00:00"
-    },
-    {
-      "title": "Battlefield 6 players suspect AI cosmetics have been snuck into the game, despite EA saying that wouldn't happen - Eurogamer",
-      "source": {
-        "name": "Eurogamer.net"
-      },
-      "description": "Battlefield 6 players have found what they believe to be an generative AI sticker in the game, causi...",
-      "url": "https://www.eurogamer.net/battlefield-6-ai-sticker-backlash",
-      "publishedAt": "2025-12-23T12:42:35Z",
-      "processed_at": "2025-12-24T18:32:37.935213+00:00"
-    },
-    {
-      "title": "The Splay is a subpar monitor but an exciting portable projector - Ars Technica",
-      "source": {
-        "name": "Ars Technica"
-      },
-      "description": "Splay can be a monitor and takes a lot of the stress out of projectors, too....",
-      "url": "https://arstechnica.com/gadgets/2025/12/the-splay-is-a-subpar-monitor-but-an-exciting-portable-projector/",
-      "publishedAt": "2025-12-23T12:30:06Z",
-      "processed_at": "2025-12-24T18:32:37.935213+00:00"
-    },
-    {
-      "title": "UNIX V4 tape successfully recovered: First ever version of UNIX written in C is running again - theregister.com",
-      "source": {
-        "name": "Theregister.com"
-      },
-      "description": ": Crucial early evolutionary step found, imaged, and ... amazingly ... works...",
-      "url": "https://www.theregister.com/2025/12/23/unix_v4_tape_successfully_recovered/",
-      "publishedAt": "2025-12-23T12:08:00Z",
-      "processed_at": "2025-12-24T18:32:37.935213+00:00"
-    },
-    {
-      "title": "Libxml2 Narrowly Avoids Becoming Unmaintained - Hackaday",
-      "source": {
-        "name": "Hackaday"
-      },
-      "description": "In an excellent example of one of the most overused XKCD images, the libxml2 library has for a littl...",
-      "url": "https://hackaday.com/2025/12/23/libxml2-narrowly-avoids-becoming-unmaintained/",
-      "publishedAt": "2025-12-23T12:00:00Z",
-      "processed_at": "2025-12-24T18:32:37.935213+00:00"
-    },
-    {
-      "title": "Google’s and OpenAI’s Chatbots Can Strip Women in Photos Down to Bikinis - WIRED",
-      "source": {
-        "name": "Wired"
-      },
-      "description": "Users of AI image generators are offering each other instructions on how to use the tech to alter pi...",
-      "url": "https://www.wired.com/story/google-and-openais-chatbots-can-strip-women-in-photos-down-to-bikinis/",
-      "publishedAt": "2025-12-23T11:30:00Z",
-      "processed_at": "2025-12-24T18:32:37.935213+00:00"
-    },
-    {
-      "title": "Track a Flight on Your iPhone - MacRumors",
-      "source": {
-        "name": "MacRumors"
-      },
-      "description": "Flight tracker apps are a popular way to keep tabs on planes in the sky, because when you're prepari...",
-      "url": "https://www.macrumors.com/how-to/track-a-flight-on-your-iphone/",
-      "publishedAt": "2025-12-23T10:27:38Z",
-      "processed_at": "2025-12-24T18:32:37.935213+00:00"
+      "description": "Big Orange goes quick....",
+      "url": "https://www.pinkbike.com/news/emtb-field-test-yeti-lte-feels-like-magic.html",
+      "publishedAt": "2025-12-23T16:01:00Z",
+      "processed_at": "2025-12-24T19:17:19.633551+00:00"
     }
   ],
-  "lastUpdated": "2025-12-24T18:32:37.935285+00:00",
+  "lastUpdated": "2025-12-24T19:17:19.633628+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
