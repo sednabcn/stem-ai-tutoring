@@ -1,7 +1,37 @@
 {
   "status": "success",
-  "totalResults": 10,
+  "totalResults": 9,
   "articles": [
+    {
+      "title": "Pixel Camera brings Photo Sphere-esque Panorama mode to Pixel 8 - 9to5Google",
+      "source": {
+        "name": "9to5google.com"
+      },
+      "description": "With the Pixel 9, Google introduced a new Panorama mode, and the latest Camera update brought it to ...",
+      "url": "http://9to5google.com/2025/12/24/pixel-8-camera-new-panorama-mode/",
+      "publishedAt": "2025-12-24T20:07:00Z",
+      "processed_at": "2025-12-25T21:19:51.649287+00:00"
+    },
+    {
+      "title": "New image sensor breaks optical limits - Phys.org",
+      "source": {
+        "name": "Phys.Org"
+      },
+      "description": "Imaging technology has transformed how we observe the universe—from mapping distant galaxies with ra...",
+      "url": "https://phys.org/news/2025-12-image-sensor-optical-limits.html",
+      "publishedAt": "2025-12-24T19:01:18Z",
+      "processed_at": "2025-12-25T21:19:51.649287+00:00"
+    },
+    {
+      "title": "With Native NVMe Driver, NVMe SSDs Deliver Double-Digit Gains In Random Read/Write On Windows 11 - Wccftech",
+      "source": {
+        "name": "Wccftech"
+      },
+      "description": "Some users have gained drastic improvements in SSD performance on Windows 11 after using the NVMe dr...",
+      "url": "https://wccftech.com/with-native-nvme-driver-nvme-ssds-deliver-double-digit-gains-in-random-read-write-on-windows-11/",
+      "publishedAt": "2025-12-24T18:19:00Z",
+      "processed_at": "2025-12-25T21:19:51.649287+00:00"
+    },
     {
       "title": "Google says it is ‘gradually rolling out’ option to change your @gmail.com address - 9to5Google",
       "source": {
@@ -10,7 +40,7 @@
       "description": "Google says on a support page that it is \"gradually rolling out\" a new change allowing users to chan...",
       "url": "http://9to5google.com/2025/12/24/google-change-gmail-addresses/",
       "publishedAt": "2025-12-24T18:05:00Z",
-      "processed_at": "2025-12-25T20:25:20.370595+00:00"
+      "processed_at": "2025-12-25T21:19:51.649287+00:00"
     },
     {
       "title": "The Super Hero Team-based PVP Shooter - Marvel Rivals",
@@ -20,90 +50,50 @@
       "description": "Play for free Now! Get ready to Ignite the Battle with Marvel Rivals!...",
       "url": "https://www.marvelrivals.com/gameupdate/20251224/41548_1278404.html",
       "publishedAt": "2025-12-24T18:04:15Z",
-      "processed_at": "2025-12-25T20:25:20.370595+00:00"
+      "processed_at": "2025-12-25T21:19:51.649287+00:00"
     },
     {
-      "title": "Team Update - Balance Patches - Lost Ark",
+      "title": "OnePlus ‘Turbo’ certainly looks like a phone with a big battery in leaked images [Gallery] - 9to5Google",
       "source": {
-        "name": "Playlostark.com"
+        "name": "9to5google.com"
       },
-      "description": "We've seen significant discussion in the community following recent roadmap announcements, particula...",
-      "url": "https://www.playlostark.com/en-us/news/articles/team-update-balance-patches",
-      "publishedAt": "2025-12-24T18:00:00Z",
-      "processed_at": "2025-12-25T20:25:20.370595+00:00"
+      "description": "OnePlus has already confirmed its plans to launch a new “Turbo” series of devices, and a leak offers...",
+      "url": "http://9to5google.com/2025/12/24/oneplus-turbo-certainly-looks-like-a-phone-with-a-big-battery-in-leaked-images-gallery/",
+      "publishedAt": "2025-12-24T17:30:00Z",
+      "processed_at": "2025-12-25T21:19:51.649287+00:00"
     },
     {
-      "title": "Snadragon X Elite Laptop Performance On Linux Ends 2025 Disappointing - Phoronix",
+      "title": "My Nintendo December Wrap-Up - News - Nintendo Official Site - Nintendo",
       "source": {
-        "name": "Phoronix"
+        "name": "Nintendo.com"
       },
-      "description": "As part of my various end-of-year benchmarking comparison articles for looking at the performance ev...",
-      "url": "https://www.phoronix.com/review/snapdragon-x-elite-linux-eoy2025",
-      "publishedAt": "2025-12-24T16:00:00Z",
-      "processed_at": "2025-12-25T20:25:20.370595+00:00"
+      "description": "The holiday season is upon us and the Metroid Prime™ 4: Beyond game is available now on Nintendo Swi...",
+      "url": "https://www.nintendo.com/us/whatsnew/my-nintendo-december-wrap-up-2025/",
+      "publishedAt": "2025-12-24T17:18:56Z",
+      "processed_at": "2025-12-25T21:19:51.649287+00:00"
     },
     {
-      "title": "MongoDB warns admins to patch severe RCE flaw immediately - BleepingComputer",
+      "title": "Waymo is testing Gemini as an in-car AI assistant in its robotaxis - TechCrunch",
       "source": {
-        "name": "BleepingComputer"
+        "name": "TechCrunch"
       },
-      "description": "MongoDB has warned IT admins to immediately patch a high-severity vulnerability that can be exploite...",
-      "url": "https://www.bleepingcomputer.com/news/security/mongodb-warns-admins-to-patch-severe-rce-flaw-immediately/",
-      "publishedAt": "2025-12-24T14:18:36Z",
-      "processed_at": "2025-12-25T20:25:20.370595+00:00"
+      "description": "Waymo is testing a Gemini-powered in-car AI assistant, per findings from a 1,200-line system prompt....",
+      "url": "https://techcrunch.com/2025/12/24/waymo-is-testing-gemini-as-an-in-car-ai-assistant-in-its-robotaxis/",
+      "publishedAt": "2025-12-24T16:27:55Z",
+      "processed_at": "2025-12-25T21:19:51.649287+00:00"
     },
     {
-      "title": "Woman Suffers AI Psychosis After Obsessively Generating AI Images of Herself - Futurism",
+      "title": "Over 60 Nintendo eShop Games You Might Have Missed In 2025 - Sequential Planet",
       "source": {
-        "name": "Futurism"
+        "name": "Sequentialplanet.com"
       },
-      "description": "A woman working for a generative AI image startup says the tech led her into a manic bipolar episode...",
-      "url": "http://futurism.com/health-medicine/ai-psychosis-startup-images",
-      "publishedAt": "2025-12-24T14:02:18Z",
-      "processed_at": "2025-12-25T20:25:20.370595+00:00"
-    },
-    {
-      "title": "Why I Quit Streaming And Got Back Into Cassettes - 404 Media",
-      "source": {
-        "name": "404media.co"
-      },
-      "description": "In the age of Spotify and AI slop, tapes remind us what we’re missing when we stop taking risks....",
-      "url": "https://www.404media.co/why-i-quit-streaming-and-got-back-into-cassettes/",
-      "publishedAt": "2025-12-24T14:01:01Z",
-      "processed_at": "2025-12-25T20:25:20.370595+00:00"
-    },
-    {
-      "title": "Grotmas Calendar Day 24 – Da Red Gobbo’s big heist - Warhammer Community",
-      "source": {
-        "name": "Warhammer-community.com"
-      },
-      "description": "Will you be naughty or nice in this free battleplan?...",
-      "url": "https://www.warhammer-community.com/articles/qskksauw/grotmas-calendar-day-24-da-red-gobbos-big-heist",
-      "publishedAt": "2025-12-24T13:57:39Z",
-      "processed_at": "2025-12-25T20:25:20.370595+00:00"
-    },
-    {
-      "title": "Stop Treating Your Monitor Like a Printer. Here’s How to Buy One You’ll Actually Like - WIRED",
-      "source": {
-        "name": "Wired"
-      },
-      "description": "Monitors are cheaper, faster, and more beautiful than ever. Here’s how to choose one that will suit ...",
-      "url": "https://www.wired.com/story/how-to-choose-a-computer-monitor/",
-      "publishedAt": "2025-12-24T13:30:00Z",
-      "processed_at": "2025-12-25T20:25:20.370595+00:00"
-    },
-    {
-      "title": "Recap: The Best GMT Watches & World Timers of 2025 - Monochrome Watches",
-      "source": {
-        "name": "Monochrome-watches.com"
-      },
-      "description": "Travel the world and the seven seas with MONOCHROME's selection of the best World Timer and GMT watc...",
-      "url": "https://monochrome-watches.com/best-gmt-watches-and-world-timers-of-2025-monochrome-team/",
-      "publishedAt": "2025-12-24T13:00:34Z",
-      "processed_at": "2025-12-25T20:25:20.370595+00:00"
+      "description": "Looking for the best indie games on the Nintendo Switch tha you didn't even know about? Here are the...",
+      "url": "https://sequentialplanet.com/60-nintendo-eshop-games-you-might-have-missed-in-2025/",
+      "publishedAt": "2025-12-24T15:47:13Z",
+      "processed_at": "2025-12-25T21:19:51.649287+00:00"
     }
   ],
-  "lastUpdated": "2025-12-25T20:25:20.370690+00:00",
+  "lastUpdated": "2025-12-25T21:19:51.649361+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
