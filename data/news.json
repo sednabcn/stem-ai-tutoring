@@ -1,7 +1,17 @@
 {
   "status": "success",
-  "totalResults": 9,
+  "totalResults": 10,
   "articles": [
+    {
+      "title": "26 Totally Bonkers Language Facts We Learned In 2025 That Feel Made Up - BuzzFeed",
+      "source": {
+        "name": "Buzzfeed"
+      },
+      "description": "And now I'm obsessed with the word \"napkin\"...",
+      "url": "https://www.buzzfeed.com/mjs538/2025-dictionary-facts",
+      "publishedAt": "2025-12-24T20:56:18Z",
+      "processed_at": "2025-12-25T23:21:08.614343+00:00"
+    },
     {
       "title": "Pixel Camera brings Photo Sphere-esque Panorama mode to Pixel 8 - 9to5Google",
       "source": {
@@ -10,7 +20,17 @@
       "description": "With the Pixel 9, Google introduced a new Panorama mode, and the latest Camera update brought it to ...",
       "url": "http://9to5google.com/2025/12/24/pixel-8-camera-new-panorama-mode/",
       "publishedAt": "2025-12-24T20:07:00Z",
-      "processed_at": "2025-12-25T22:21:09.193281+00:00"
+      "processed_at": "2025-12-25T23:21:08.614343+00:00"
+    },
+    {
+      "title": "Steam goes down as outage hits the platform amid its big annual sale - Neowin",
+      "source": {
+        "name": "Neowin"
+      },
+      "description": "",
+      "url": "https://www.neowin.net/news/steam-goes-down-as-outage-hits-the-platform-amid-its-big-annual-sale/",
+      "publishedAt": "2025-12-24T19:06:00Z",
+      "processed_at": "2025-12-25T23:21:08.614343+00:00"
     },
     {
       "title": "New image sensor breaks optical limits - Phys.org",
@@ -20,7 +40,7 @@
       "description": "Imaging technology has transformed how we observe the universe—from mapping distant galaxies with ra...",
       "url": "https://phys.org/news/2025-12-image-sensor-optical-limits.html",
       "publishedAt": "2025-12-24T19:01:18Z",
-      "processed_at": "2025-12-25T22:21:09.193281+00:00"
+      "processed_at": "2025-12-25T23:21:08.614343+00:00"
     },
     {
       "title": "With Native NVMe Driver, NVMe SSDs Deliver Double-Digit Gains In Random Read/Write On Windows 11 - Wccftech",
@@ -30,7 +50,7 @@
       "description": "Some users have gained drastic improvements in SSD performance on Windows 11 after using the NVMe dr...",
       "url": "https://wccftech.com/with-native-nvme-driver-nvme-ssds-deliver-double-digit-gains-in-random-read-write-on-windows-11/",
       "publishedAt": "2025-12-24T18:19:00Z",
-      "processed_at": "2025-12-25T22:21:09.193281+00:00"
+      "processed_at": "2025-12-25T23:21:08.614343+00:00"
     },
     {
       "title": "Google says it is ‘gradually rolling out’ option to change your @gmail.com address - 9to5Google",
@@ -40,7 +60,7 @@
       "description": "Google says on a support page that it is \"gradually rolling out\" a new change allowing users to chan...",
       "url": "http://9to5google.com/2025/12/24/google-change-gmail-addresses/",
       "publishedAt": "2025-12-24T18:05:00Z",
-      "processed_at": "2025-12-25T22:21:09.193281+00:00"
+      "processed_at": "2025-12-25T23:21:08.614343+00:00"
     },
     {
       "title": "The Super Hero Team-based PVP Shooter - Marvel Rivals",
@@ -50,7 +70,17 @@
       "description": "Play for free Now! Get ready to Ignite the Battle with Marvel Rivals!...",
       "url": "https://www.marvelrivals.com/gameupdate/20251224/41548_1278404.html",
       "publishedAt": "2025-12-24T18:04:15Z",
-      "processed_at": "2025-12-25T22:21:09.193281+00:00"
+      "processed_at": "2025-12-25T23:21:08.614343+00:00"
+    },
+    {
+      "title": "Anker’s beefy Laptop Power Bank has returned to its Black Friday low - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "Anker’s 165W Laptop Power Bank is on sale for $87.99, matching its best price to date. You can also ...",
+      "url": "https://www.theverge.com/gadgets/849637/anker-laptop-power-bank-xbox-series-x-deal-sale",
+      "publishedAt": "2025-12-24T18:00:00Z",
+      "processed_at": "2025-12-25T23:21:08.614343+00:00"
     },
     {
       "title": "OnePlus ‘Turbo’ certainly looks like a phone with a big battery in leaked images [Gallery] - 9to5Google",
@@ -60,7 +90,7 @@
       "description": "OnePlus has already confirmed its plans to launch a new “Turbo” series of devices, and a leak offers...",
       "url": "http://9to5google.com/2025/12/24/oneplus-turbo-certainly-looks-like-a-phone-with-a-big-battery-in-leaked-images-gallery/",
       "publishedAt": "2025-12-24T17:30:00Z",
-      "processed_at": "2025-12-25T22:21:09.193281+00:00"
+      "processed_at": "2025-12-25T23:21:08.614343+00:00"
     },
     {
       "title": "My Nintendo December Wrap-Up - News - Nintendo Official Site - Nintendo",
@@ -70,30 +100,10 @@
       "description": "The holiday season is upon us and the Metroid Prime™ 4: Beyond game is available now on Nintendo Swi...",
       "url": "https://www.nintendo.com/us/whatsnew/my-nintendo-december-wrap-up-2025/",
       "publishedAt": "2025-12-24T17:18:56Z",
-      "processed_at": "2025-12-25T22:21:09.193281+00:00"
-    },
-    {
-      "title": "Waymo is testing Gemini as an in-car AI assistant in its robotaxis - TechCrunch",
-      "source": {
-        "name": "TechCrunch"
-      },
-      "description": "Waymo is testing a Gemini-powered in-car AI assistant, per findings from a 1,200-line system prompt....",
-      "url": "https://techcrunch.com/2025/12/24/waymo-is-testing-gemini-as-an-in-car-ai-assistant-in-its-robotaxis/",
-      "publishedAt": "2025-12-24T16:27:55Z",
-      "processed_at": "2025-12-25T22:21:09.193281+00:00"
-    },
-    {
-      "title": "Over 60 Nintendo eShop Games You Might Have Missed In 2025 - Sequential Planet",
-      "source": {
-        "name": "Sequentialplanet.com"
-      },
-      "description": "Looking for the best indie games on the Nintendo Switch tha you didn't even know about? Here are the...",
-      "url": "https://sequentialplanet.com/60-nintendo-eshop-games-you-might-have-missed-in-2025/",
-      "publishedAt": "2025-12-24T15:47:13Z",
-      "processed_at": "2025-12-25T22:21:09.193281+00:00"
+      "processed_at": "2025-12-25T23:21:08.614343+00:00"
     }
   ],
-  "lastUpdated": "2025-12-25T22:21:09.193371+00:00",
+  "lastUpdated": "2025-12-25T23:21:08.614419+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
