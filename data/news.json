@@ -3,6 +3,16 @@
   "totalResults": 10,
   "articles": [
     {
+      "title": "Nvidia GeForce Now’s Time Limit Will Stop Gamers After 100 Hours Each Month - PCMag",
+      "source": {
+        "name": "PCMag.com"
+      },
+      "description": "The game streaming service will make almost all of its users pay extra for extended access....",
+      "url": "https://www.pcmag.com/news/nvidia-geforce-nows-time-limit-will-stop-gamers-after-100-hours-each-month",
+      "publishedAt": "2025-12-24T10:42:21Z",
+      "processed_at": "2025-12-25T15:22:27.008178+00:00"
+    },
+    {
       "title": "Serpent Lake Leak Reveals First Intel-Nvidia Chip after $5 Billion Partnership - TipRanks",
       "source": {
         "name": "Tipranks.com"
@@ -10,7 +20,7 @@
       "description": "Intel ($INTC) and Nvidia ($NVDA) are developing a new laptop chip called Serpent Lake that integrate...",
       "url": "https://www.tipranks.com/news/serpent-lake-leak-reveals-first-intel-nvidia-chip-after-5-billion-partnership",
       "publishedAt": "2025-12-24T09:44:32Z",
-      "processed_at": "2025-12-25T14:21:09.945551+00:00"
+      "processed_at": "2025-12-25T15:22:27.008178+00:00"
     },
     {
       "title": "Microsoft wants to replace its entire C and C++ codebase, perhaps by 2030 - theregister.com",
@@ -20,7 +30,7 @@
       "description": ": Plans move to Rust, with help from AI...",
       "url": "https://www.theregister.com/2025/12/24/microsoft_rust_codebase_migration/",
       "publishedAt": "2025-12-24T03:39:00Z",
-      "processed_at": "2025-12-25T14:21:09.945551+00:00"
+      "processed_at": "2025-12-25T15:22:27.008178+00:00"
     },
     {
       "title": "UploadVR's Best of VR 2025 Awards – Game Of The Year, Hardware & Most Anticipated Of 2026 - UploadVR",
@@ -30,7 +40,7 @@
       "description": "And finally, here are UploadVR's Best of VR 2025 Awards, featuring our picks for Game of the Year, N...",
       "url": "https://www.uploadvr.com/best-of-vr-2025-awards/",
       "publishedAt": "2025-12-24T02:04:55Z",
-      "processed_at": "2025-12-25T14:21:09.945551+00:00"
+      "processed_at": "2025-12-25T15:22:27.008178+00:00"
     },
     {
       "title": "IOI Delays James Bond Video Game '007: First Light' Release Date \"To Further Polish And Refine The Experience\" - Deadline",
@@ -40,17 +50,7 @@
       "description": "IO Interactive has pushed the release date of the James Bond video game 007: First Light back by two...",
       "url": "http://deadline.com/2025/12/ioi-james-bond-video-game-007-first-light-release-date-1236656156/",
       "publishedAt": "2025-12-24T00:40:00Z",
-      "processed_at": "2025-12-25T14:21:09.945551+00:00"
-    },
-    {
-      "title": "Be Wary Of Flash-less ESP32-C3 Super Mini Boards - Hackaday",
-      "source": {
-        "name": "Hackaday"
-      },
-      "description": "Everyone loves tiny microcontroller boards, and the ESP32-C3 Super Mini boards are no exception. Unf...",
-      "url": "https://hackaday.com/2025/12/23/be-wary-of-flash-less-esp32-c3-super-mini-boards/",
-      "publishedAt": "2025-12-24T00:00:00Z",
-      "processed_at": "2025-12-25T14:21:09.945551+00:00"
+      "processed_at": "2025-12-25T15:22:27.008178+00:00"
     },
     {
       "title": "iPad Pro Vs iPad Air: 3 Differences Most Users Don't Know About - SlashGear",
@@ -60,17 +60,37 @@
       "description": "Key differences between the iPad Pro and iPad Air include OLED vs LCD displays, Thunderbolt support,...",
       "url": "https://www.slashgear.com/2055816/ipad-pro-vs-air-little-known-differences/",
       "publishedAt": "2025-12-24T00:00:00Z",
-      "processed_at": "2025-12-25T14:21:09.945551+00:00"
+      "processed_at": "2025-12-25T15:22:27.008178+00:00"
     },
     {
-      "title": "AMD Prepares EXPO v1.2 for Better Memory OC Profiles - TechPowerUp",
+      "title": "The Best Tabletop RPGs Of 2025 - Game Informer",
       "source": {
-        "name": "Techpowerup.com"
+        "name": "Gameinformer.com"
       },
-      "description": "AMD's Extended Profiles for Overclocking (EXPO) technology is receiving an update with version 1.2. ...",
-      "url": "https://www.techpowerup.com/344378/amd-prepares-expo-v1-2-for-better-memory-oc-profiles",
-      "publishedAt": "2025-12-23T22:17:49Z",
-      "processed_at": "2025-12-25T14:21:09.945551+00:00"
+      "description": "No matter your preference for setting and style, there’s likely a role-playing game from 2025 that w...",
+      "url": "https://gameinformer.com/tabletop/2025/12/23/the-best-tabletop-rpgs-of-2025",
+      "publishedAt": "2025-12-23T23:02:28Z",
+      "processed_at": "2025-12-25T15:22:27.008178+00:00"
+    },
+    {
+      "title": "Galaxy Z TriFold is probably durable enough, hinge gives way after 150,000 folds in torture test [Video] - 9to5Google",
+      "source": {
+        "name": "9to5google.com"
+      },
+      "description": "Samsung’s brand new Galaxy Z TriFold form factor has arrived and, of course, one of the big question...",
+      "url": "http://9to5google.com/2025/12/23/galaxy-z-trifold-hinge-torture-test/",
+      "publishedAt": "2025-12-23T22:50:00Z",
+      "processed_at": "2025-12-25T15:22:27.008178+00:00"
+    },
+    {
+      "title": "Check your stocking: Google just released Android 16 QPR3 Beta 1.1 - Android Authority",
+      "source": {
+        "name": "Android Authority"
+      },
+      "description": "Apps been crashing on you since installing the last Beta? Be sure to check out the fixes in today's ...",
+      "url": "https://www.androidauthority.com/android-16-qpr3-beta-1-1-3627665/",
+      "publishedAt": "2025-12-23T22:32:30Z",
+      "processed_at": "2025-12-25T15:22:27.008178+00:00"
     },
     {
       "title": "Bethesda Talks Fallout's Future And Lessons Learned - Game Informer",
@@ -80,30 +100,10 @@
       "description": "Todd Howard, Angela Browder, Emil Pagliarulo, and Istvan Pely discuss what a hypothetical Fallout 5 ...",
       "url": "https://gameinformer.com/exclusive-interview/2025/12/23/bethesda-talks-fallouts-future-and-lessons-learned",
       "publishedAt": "2025-12-23T22:05:07Z",
-      "processed_at": "2025-12-25T14:21:09.945551+00:00"
-    },
-    {
-      "title": "Have a 3D Printer? You Can Make Your Own iPhone Fold Dummy - MacRumors",
-      "source": {
-        "name": "MacRumors"
-      },
-      "description": "Apple is working on a foldable iPhone that's set to come out in September 2026, and rumors suggest t...",
-      "url": "https://www.macrumors.com/2025/12/23/have-a-3d-printer-you-can-make-your-own-iphone-fold-dummy/",
-      "publishedAt": "2025-12-23T21:31:00Z",
-      "processed_at": "2025-12-25T14:21:09.945551+00:00"
-    },
-    {
-      "title": "Google One discounting annual 2 TB and AI Pro plans by 50% - 9to5Google",
-      "source": {
-        "name": "9to5google.com"
-      },
-      "description": "Google One is running a “limited time” discount for 2026 where new subscribers can get 50% off 2 TB ...",
-      "url": "http://9to5google.com/2025/12/23/google-one-2026-offer/",
-      "publishedAt": "2025-12-23T21:05:00Z",
-      "processed_at": "2025-12-25T14:21:09.945551+00:00"
+      "processed_at": "2025-12-25T15:22:27.008178+00:00"
     }
   ],
-  "lastUpdated": "2025-12-25T14:21:09.945624+00:00",
+  "lastUpdated": "2025-12-25T15:22:27.008251+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
