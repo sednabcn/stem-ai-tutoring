@@ -3,6 +3,26 @@
   "totalResults": 10,
   "articles": [
     {
+      "title": "Google is rolling out a new feature allowing users to change their Gmail address - CNBC",
+      "source": {
+        "name": "CNBC"
+      },
+      "description": "Google says it is rolling out a feature that lets users change their Gmail addresses in a long-reque...",
+      "url": "https://www.cnbc.com/2025/12/26/google-gmail-change-email-address-without-new-account-india-hindi-support.html",
+      "publishedAt": "2025-12-26T08:58:52Z",
+      "processed_at": "2025-12-27T11:18:04.319317+00:00"
+    },
+    {
+      "title": "Surprise! Stardew Valley - Nintendo Switch 2 Edition Is Now Available - Nintendo Life",
+      "source": {
+        "name": "Nintendo Life"
+      },
+      "description": "A free update for existing Switch players...",
+      "url": "https://www.nintendolife.com/news/2025/12/surprise-stardew-valley-nintendo-switch-2-edition-is-now-available",
+      "publishedAt": "2025-12-26T08:00:00Z",
+      "processed_at": "2025-12-27T11:18:04.319317+00:00"
+    },
+    {
       "title": "How Does Android's New AirDrop-Style Feature Actually Work? - SlashGear",
       "source": {
         "name": "SlashGear"
@@ -10,7 +30,7 @@
       "description": "Android's new AirDrop feature is built in Rust for better security, stems from an EU ruling that req...",
       "url": "https://www.slashgear.com/2057701/how-does-androids-new-airdrop-style-feature-actually-work/",
       "publishedAt": "2025-12-26T02:15:00Z",
-      "processed_at": "2025-12-27T10:22:15.453510+00:00"
+      "processed_at": "2025-12-27T11:18:04.319317+00:00"
     },
     {
       "title": "5 Of The Best Electric Vehicles Under $50k, According To Consumer Reports - bgr.com",
@@ -20,17 +40,7 @@
       "description": "Cars like the Hyundai Ioniq 6, Mustang Mach‑E, and Nissan Ariya are among the best electric vehicles...",
       "url": "https://www.bgr.com/2056354/best-electric-vehicles-under-50000-according-consumer-reports-2025/",
       "publishedAt": "2025-12-25T23:17:00Z",
-      "processed_at": "2025-12-27T10:22:15.453510+00:00"
-    },
-    {
-      "title": "Asus could produce DDR5 RAM to ease memory shortage and keep laptop prices reasonable - Notebookcheck",
-      "source": {
-        "name": "Notebookcheck.net"
-      },
-      "description": "With DDR5 RAM prices out of control, Asus may have a strategy that will benefit laptop buyers and ga...",
-      "url": "https://www.notebookcheck.net/Asus-could-produce-DDR5-RAM-to-ease-memory-shortage-and-keep-laptop-prices-reasonable.1192377.0.html",
-      "publishedAt": "2025-12-25T23:11:00Z",
-      "processed_at": "2025-12-27T10:22:15.453510+00:00"
+      "processed_at": "2025-12-27T11:18:04.319317+00:00"
     },
     {
       "title": "Make your aging computer feel brand new with Windows 11 Pro, now just $10 - Mashable",
@@ -40,7 +50,7 @@
       "description": "Yes, it's only $10....",
       "url": "https://mashable.com/article/dec-25-microsoft-windows-11-pro",
       "publishedAt": "2025-12-25T23:00:00Z",
-      "processed_at": "2025-12-27T10:22:15.453510+00:00"
+      "processed_at": "2025-12-27T11:18:04.319317+00:00"
     },
     {
       "title": "Researchers create world's smallest programmable, autonomous robots - Tech Xplore",
@@ -50,7 +60,7 @@
       "description": "Researchers at the University of Pennsylvania and University of Michigan have created the world's sm...",
       "url": "https://techxplore.com/news/2025-12-world-smallest-programmable-autonomous-robots.html",
       "publishedAt": "2025-12-25T21:35:32Z",
-      "processed_at": "2025-12-27T10:22:15.453510+00:00"
+      "processed_at": "2025-12-27T11:18:04.319317+00:00"
     },
     {
       "title": "Top Games of 2025 for Three Atlus Staff Members - Persona Central",
@@ -60,7 +70,7 @@
       "description": "Weekly Famitsu issue 1929 includes the magazine's annual feature on the most popular games played in...",
       "url": "https://personacentral.com/famitsu-popular-games-2025/",
       "publishedAt": "2025-12-25T20:58:29Z",
-      "processed_at": "2025-12-27T10:22:15.453510+00:00"
+      "processed_at": "2025-12-27T11:18:04.319317+00:00"
     },
     {
       "title": "Arch Linux Powered CachyOS To Develop A Server Edition - Phoronix",
@@ -70,7 +80,7 @@
       "description": "The Arch Linux based CachyOS has been quite popular with Linux gamers and enthusiasts for offering l...",
       "url": "https://www.phoronix.com/news/CachyOS-Server-Edition-Coming",
       "publishedAt": "2025-12-25T20:44:00Z",
-      "processed_at": "2025-12-27T10:22:15.453510+00:00"
+      "processed_at": "2025-12-27T11:18:04.319317+00:00"
     },
     {
       "title": "Fujifilm in 2025: High Highs and Low Lows - PetaPixel",
@@ -80,7 +90,7 @@
       "description": "The GFX100RF and X-E5 are obvious standouts....",
       "url": "https://petapixel.com/2025/12/25/fujifilm-in-2025-high-highs-and-low-lows/",
       "publishedAt": "2025-12-25T20:30:25Z",
-      "processed_at": "2025-12-27T10:22:15.453510+00:00"
+      "processed_at": "2025-12-27T11:18:04.319317+00:00"
     },
     {
       "title": "Galaxy Z TriFold suffers horrific defeat in durability test; there’s just more to break - 9to5Google",
@@ -90,20 +100,10 @@
       "description": "Unlike its less impressive successor, the Galaxy Z TriFold just can’t stand up to the same sort of b...",
       "url": "http://9to5google.com/2025/12/25/galaxy-z-trifold-durability-test/",
       "publishedAt": "2025-12-25T19:34:00Z",
-      "processed_at": "2025-12-27T10:22:15.453510+00:00"
-    },
-    {
-      "title": "My Most Anticipated Video Game Of 2026 Might Be This Simple Vibes-Based Lanesplitting Indie - Jalopnik",
-      "source": {
-        "name": "Jalopnik"
-      },
-      "description": "\"LANESPLIT\" is a simple game from a one-person developer, and at my advanced age of 29 that's the ki...",
-      "url": "https://www.jalopnik.com/2058433/simple-vibes-based-lanesplitting-indie-game/",
-      "publishedAt": "2025-12-25T19:25:00Z",
-      "processed_at": "2025-12-27T10:22:15.453510+00:00"
+      "processed_at": "2025-12-27T11:18:04.319317+00:00"
     }
   ],
-  "lastUpdated": "2025-12-27T10:22:15.453579+00:00",
+  "lastUpdated": "2025-12-27T11:18:04.319385+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
