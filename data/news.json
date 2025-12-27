@@ -1,7 +1,57 @@
 {
   "status": "success",
-  "totalResults": 10,
+  "totalResults": 8,
   "articles": [
+    {
+      "title": "Atlus 2026 Aspirations Tease Upcoming Persona 30th Anniversary Announcements - Persona Central",
+      "source": {
+        "name": "Personacentral.com"
+      },
+      "description": "4Gamer has published their annual feature for 2026 aspirations of Japanese game developers, includin...",
+      "url": "https://personacentral.com/atlus-2026-aspirations-tease/",
+      "publishedAt": "2025-12-26T18:25:06Z",
+      "processed_at": "2025-12-27T21:19:27.982115+00:00"
+    },
+    {
+      "title": "Level-5 CEO Wants People To Stop Demonizing Generative AI - Kotaku",
+      "source": {
+        "name": "Kotaku"
+      },
+      "description": "Level-5 CEO Akihiro Hino has shared further thoughts on AI after a past interview of his went viral ...",
+      "url": "https://kotaku.com/professor-layton-boss-wants-people-to-stop-demonizing-generative-ai-2000655721",
+      "publishedAt": "2025-12-26T17:52:50Z",
+      "processed_at": "2025-12-27T21:19:27.982115+00:00"
+    },
+    {
+      "title": "This clever car charger delivers fast charging while using wired Android Auto & CarPlay [Gallery] - 9to5Google",
+      "source": {
+        "name": "9to5google.com"
+      },
+      "description": "As crucial as Android Auto and CarPlay have become to daily driving, the core problem remains. Wired...",
+      "url": "http://9to5google.com/2025/12/26/android-auto-carplay-wired-fast-charging-adapter/",
+      "publishedAt": "2025-12-26T17:15:00Z",
+      "processed_at": "2025-12-27T21:19:27.982115+00:00"
+    },
+    {
+      "title": "This school banned phones. Remarkable things happened. - The Washington Post",
+      "source": {
+        "name": "The Washington Post"
+      },
+      "description": "After Ballard High School banned phones, they saw a 67 percent increase in students checking out lib...",
+      "url": "https://www.washingtonpost.com/podcasts/post-reports/this-school-banned-phones-remarkable-things-happened/",
+      "publishedAt": "2025-12-26T17:05:38Z",
+      "processed_at": "2025-12-27T21:19:27.982115+00:00"
+    },
+    {
+      "title": "Recap: The Best Integrated and Elegant Sports Watches of 2025 - Monochrome Watches",
+      "source": {
+        "name": "Monochrome-watches.com"
+      },
+      "description": "From accessible steel to haute horlogerie, the integrated sports watch evolves again. And here are t...",
+      "url": "https://monochrome-watches.com/best-integrated-bracelet-and-luxury-sports-watches-of-2025-recap-monochrome/",
+      "publishedAt": "2025-12-26T17:00:54Z",
+      "processed_at": "2025-12-27T21:19:27.982115+00:00"
+    },
     {
       "title": "Mountain Bike of the Year Winner - Pinkbike",
       "source": {
@@ -10,7 +60,7 @@
       "description": "And the winner is......",
       "url": "https://www.pinkbike.com/news/2025-pinkbike-awards-mountain-bike-of-the-year-winner.html",
       "publishedAt": "2025-12-26T17:00:00Z",
-      "processed_at": "2025-12-27T20:24:12.660141+00:00"
+      "processed_at": "2025-12-27T21:19:27.982115+00:00"
     },
     {
       "title": "Embark on a visual voyage of art inspired by black holes - Ars Technica",
@@ -20,90 +70,20 @@
       "description": "Art and science converge in Lynn Gamwell's book, Conjuring the Void: The Art of Black Holes......",
       "url": "https://arstechnica.com/science/2025/12/embark-on-a-visual-voyage-of-art-inspired-by-black-holes/",
       "publishedAt": "2025-12-26T16:40:40Z",
-      "processed_at": "2025-12-27T20:24:12.660141+00:00"
+      "processed_at": "2025-12-27T21:19:27.982115+00:00"
     },
     {
-      "title": "Cyberpunk 2077: Ultimate Edition and other Switch games are up to 50 percent off - The Verge",
+      "title": "Just unwrap new AirPods Pro? Here are the must-try features - 9to5Mac",
       "source": {
-        "name": "The Verge"
+        "name": "9to5Mac"
       },
-      "description": "Along with Nintendo’s discounts on many of its games, there are major discounts on Amazon smart spea...",
-      "url": "https://www.theverge.com/gadgets/850279/cyberpunk-2077-ultimate-edition-and-other-nintendo-games-are-up-to-50-percent-off",
-      "publishedAt": "2025-12-26T16:08:50Z",
-      "processed_at": "2025-12-27T20:24:12.660141+00:00"
-    },
-    {
-      "title": "Google May Finally Let Users Change Embarrassing Old Gmail Addresses - Gizmodo",
-      "source": {
-        "name": "Gizmodo.com"
-      },
-      "description": "Updated support pages in multiple languages suggest a long-requested feature is quietly rolling out ...",
-      "url": "https://gizmodo.com/google-may-finally-let-users-change-embarrassing-old-gmail-addresses-2000703487",
-      "publishedAt": "2025-12-26T16:05:05Z",
-      "processed_at": "2025-12-27T20:24:12.660141+00:00"
-    },
-    {
-      "title": "Leaked documents show Instagram’s plan to win back teens - The Washington Post",
-      "source": {
-        "name": "The Washington Post"
-      },
-      "description": "Instagram has pursued a yearslong strategy to win teens back to the  app after its critics said the ...",
-      "url": "https://www.washingtonpost.com/technology/2025/12/26/meta-instagram-teen-strategy/",
-      "publishedAt": "2025-12-26T16:02:27Z",
-      "processed_at": "2025-12-27T20:24:12.660141+00:00"
-    },
-    {
-      "title": "Treat yourself: The best smart glasses to buy with your holiday gift money - TechCrunch",
-      "source": {
-        "name": "TechCrunch"
-      },
-      "description": "Whether you’re looking to get a pair yourself or just want to explore what’s available on the market...",
-      "url": "https://techcrunch.com/2025/12/26/treat-yourself-the-best-smart-glasses-to-buy-with-your-holiday-gift-money/",
-      "publishedAt": "2025-12-26T16:00:00Z",
-      "processed_at": "2025-12-27T20:24:12.660141+00:00"
-    },
-    {
-      "title": "Samsung Exynos 2600 Xclipse 960 GPU said to use AMD RDNA4-derived architecture - VideoCardz.com",
-      "source": {
-        "name": "Videocardz.com"
-      },
-      "description": "Report claims Exynos 2600 uses MGFX4 RDNA4-derived graphics Samsung's Exynos 2600 is the first Exyno...",
-      "url": "https://videocardz.com/newz/samsung-exynos-2600-xclipse-960-gpu-said-to-use-amd-rdna4-derived-architecture",
-      "publishedAt": "2025-12-26T15:43:00Z",
-      "processed_at": "2025-12-27T20:24:12.660141+00:00"
-    },
-    {
-      "title": "Stardew Valley Nintendo Switch 2 Edition Out Now With Mouse Controls, Local Split-Screen, And More - Game Informer",
-      "source": {
-        "name": "Gameinformer.com"
-      },
-      "description": "With Game Share, you only need one copy to play with friends....",
-      "url": "https://gameinformer.com/2025/12/26/stardew-valley-nintendo-switch-2-edition-out-now-with-mouse-controls-local-split-screen",
-      "publishedAt": "2025-12-26T15:42:15Z",
-      "processed_at": "2025-12-27T20:24:12.660141+00:00"
-    },
-    {
-      "title": "Destiny 2’s Renegades Is Great But Not Changing Its Playercount Trend - Forbes",
-      "source": {
-        "name": "Forbes"
-      },
-      "description": "Destiny 2's new Renegades expansion is excellent, but does not seem to be the shot in the arm the ga...",
-      "url": "https://www.forbes.com/sites/paultassi/2025/12/26/destiny-2s-renegades-is-great-but-not-changing-its-playercount-trend/",
-      "publishedAt": "2025-12-26T15:30:02Z",
-      "processed_at": "2025-12-27T20:24:12.660141+00:00"
-    },
-    {
-      "title": "Leaker Who Apple Is Suing Says ‘Screw It,’ Here’s the Foldable iPhone Early - Gizmodo",
-      "source": {
-        "name": "Gizmodo.com"
-      },
-      "description": "The YouTuber doesn't seem fazed by Apple's threats....",
-      "url": "https://gizmodo.com/leaker-who-apple-is-suing-says-screw-it-heres-the-foldable-iphone-early-2000703449",
-      "publishedAt": "2025-12-26T14:55:41Z",
-      "processed_at": "2025-12-27T20:24:12.660141+00:00"
+      "description": "Did you just unwrap new AirPods Pro? If so, it’s key that you know there is a lot more to......",
+      "url": "https://9to5mac.com/2025/12/26/new-airpods-pro-features-tricks-tips/",
+      "publishedAt": "2025-12-26T16:17:00Z",
+      "processed_at": "2025-12-27T21:19:27.982115+00:00"
     }
   ],
-  "lastUpdated": "2025-12-27T20:24:12.660218+00:00",
+  "lastUpdated": "2025-12-27T21:19:27.982173+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
