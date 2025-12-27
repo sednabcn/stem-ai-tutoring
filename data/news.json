@@ -3,6 +3,46 @@
   "totalResults": 10,
   "articles": [
     {
+      "title": "Mountain Bike of the Year Winner - Pinkbike",
+      "source": {
+        "name": "Pinkbike.com"
+      },
+      "description": "And the winner is......",
+      "url": "https://www.pinkbike.com/news/2025-pinkbike-awards-mountain-bike-of-the-year-winner.html",
+      "publishedAt": "2025-12-26T17:00:00Z",
+      "processed_at": "2025-12-27T17:18:32.002065+00:00"
+    },
+    {
+      "title": "Embark on a visual voyage of art inspired by black holes - Ars Technica",
+      "source": {
+        "name": "Ars Technica"
+      },
+      "description": "Art and science converge in Lynn Gamwell's book, Conjuring the Void: The Art of Black Holes......",
+      "url": "https://arstechnica.com/science/2025/12/embark-on-a-visual-voyage-of-art-inspired-by-black-holes/",
+      "publishedAt": "2025-12-26T16:40:40Z",
+      "processed_at": "2025-12-27T17:18:32.002065+00:00"
+    },
+    {
+      "title": "Cyberpunk 2077: Ultimate Edition and other Switch games are up to 50 percent off - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "Along with Nintendo’s discounts on many of its games, there are major discounts on Amazon smart spea...",
+      "url": "https://www.theverge.com/gadgets/850279/cyberpunk-2077-ultimate-edition-and-other-nintendo-games-are-up-to-50-percent-off",
+      "publishedAt": "2025-12-26T16:08:50Z",
+      "processed_at": "2025-12-27T17:18:32.002065+00:00"
+    },
+    {
+      "title": "Google May Finally Let Users Change Embarrassing Old Gmail Addresses - Gizmodo",
+      "source": {
+        "name": "Gizmodo.com"
+      },
+      "description": "Updated support pages in multiple languages suggest a long-requested feature is quietly rolling out ...",
+      "url": "https://gizmodo.com/google-may-finally-let-users-change-embarrassing-old-gmail-addresses-2000703487",
+      "publishedAt": "2025-12-26T16:05:05Z",
+      "processed_at": "2025-12-27T17:18:32.002065+00:00"
+    },
+    {
       "title": "Leaked documents show Instagram’s plan to win back teens - The Washington Post",
       "source": {
         "name": "The Washington Post"
@@ -10,100 +50,60 @@
       "description": "Instagram has pursued a yearslong strategy to win teens back to the  app after its critics said the ...",
       "url": "https://www.washingtonpost.com/technology/2025/12/26/meta-instagram-teen-strategy/",
       "publishedAt": "2025-12-26T16:02:27Z",
-      "processed_at": "2025-12-27T16:26:29.729267+00:00"
+      "processed_at": "2025-12-27T17:18:32.002065+00:00"
     },
     {
-      "title": "Google is letting some people change their @gmail address - The Verge",
+      "title": "Treat yourself: The best smart glasses to buy with your holiday gift money - TechCrunch",
       "source": {
-        "name": "The Verge"
+        "name": "TechCrunch"
       },
-      "description": "Google is letting some people change their @gmail address, and they can swap back to their old email...",
-      "url": "https://www.theverge.com/news/850237/google-change-your-gmail-address",
-      "publishedAt": "2025-12-26T15:41:48Z",
-      "processed_at": "2025-12-27T16:26:29.729267+00:00"
+      "description": "Whether you’re looking to get a pair yourself or just want to explore what’s available on the market...",
+      "url": "https://techcrunch.com/2025/12/26/treat-yourself-the-best-smart-glasses-to-buy-with-your-holiday-gift-money/",
+      "publishedAt": "2025-12-26T16:00:00Z",
+      "processed_at": "2025-12-27T17:18:32.002065+00:00"
     },
     {
-      "title": "These are the first accessories you should get for your new Google Pixel phone - 9to5Google",
-      "source": {
-        "name": "9to5google.com"
-      },
-      "description": "If you just got a new Google Pixel smartphone, there are a few key accessories you should get right ...",
-      "url": "http://9to5google.com/2025/12/26/google-pixel-accessories-new-phone/",
-      "publishedAt": "2025-12-26T14:00:00Z",
-      "processed_at": "2025-12-27T16:26:29.729267+00:00"
-    },
-    {
-      "title": "Suspension Product of the Year Winner - Pinkbike",
-      "source": {
-        "name": "Pinkbike.com"
-      },
-      "description": "In the end, there can only be one. The Suspension Product of the Year award goes to......",
-      "url": "https://www.pinkbike.com/news/2025-pinkbike-awards-suspension-product-of-the-year-winner.html",
-      "publishedAt": "2025-12-26T12:00:00Z",
-      "processed_at": "2025-12-27T16:26:29.729267+00:00"
-    },
-    {
-      "title": "NVIDIA Drops Pascal Support On Linux, Causing Chaos On Arch Linux - Hackaday",
-      "source": {
-        "name": "Hackaday"
-      },
-      "description": "It’s no surprise that NVIDIA is gradually dropping support for older videocards, with the Pascal (GT...",
-      "url": "https://hackaday.com/2025/12/26/nvidia-drops-pascal-support-on-linux-causing-chaos-on-arch-linux/",
-      "publishedAt": "2025-12-26T12:00:00Z",
-      "processed_at": "2025-12-27T16:26:29.729267+00:00"
-    },
-    {
-      "title": "Got a New iPhone 17? How to Use All the New Features - MacRumors",
-      "source": {
-        "name": "MacRumors"
-      },
-      "description": "Apple's iPhone 17, iPhone Air, iPhone 17 Pro, and iPhone 17 Pro Max have been available to buy since...",
-      "url": "https://www.macrumors.com/guide/got-new-iphone-17-how-to-use-new-features/",
-      "publishedAt": "2025-12-26T12:00:00Z",
-      "processed_at": "2025-12-27T16:26:29.729267+00:00"
-    },
-    {
-      "title": "Former B&B That Hosted Jeremy Renner and Tom Cruise in New York’s Hudson Valley Lists for $5.9 Million - Mansion Global",
-      "source": {
-        "name": "Mansion Global"
-      },
-      "description": "Other celebrity guests have included Jessica Chastain, Carly Simon, and Heath Ledger and Michelle Wi...",
-      "url": "https://www.mansionglobal.com/articles/former-b-b-that-hosted-jeremy-renner-and-tom-cruise-in-new-yorks-hudson-valley-lists-for-5-9-million-7b0c0be5",
-      "publishedAt": "2025-12-26T11:58:00Z",
-      "processed_at": "2025-12-27T16:26:29.729267+00:00"
-    },
-    {
-      "title": "New Runtime Standby ABI Proposed For Linux Akin To Microsoft Windows' \"Modern Standby\" - Phoronix",
-      "source": {
-        "name": "Phoronix"
-      },
-      "description": "An exciting post-Christmas patch series out on the Linux kernel mailing list this morning is proposi...",
-      "url": "https://www.phoronix.com/news/Linux-Runtime-ABI-Standby",
-      "publishedAt": "2025-12-26T11:23:00Z",
-      "processed_at": "2025-12-27T16:26:29.729267+00:00"
-    },
-    {
-      "title": "I changed one registry value and my Windows PC feels instantly faster - MakeUseOf",
-      "source": {
-        "name": "MakeUseOf"
-      },
-      "description": "This registry change fixed the sluggishness I’d learned to tolerate....",
-      "url": "https://www.makeuseof.com/windows-11-registry-tweak-instantly-reduced-lag/",
-      "publishedAt": "2025-12-26T11:00:00Z",
-      "processed_at": "2025-12-27T16:26:29.729267+00:00"
-    },
-    {
-      "title": "AMD Ryzen 9 9950X3D2 16-core CPU with 192MB L3 cache finally leaks out - VideoCardz.com",
+      "title": "Samsung Exynos 2600 Xclipse 960 GPU said to use AMD RDNA4-derived architecture - VideoCardz.com",
       "source": {
         "name": "Videocardz.com"
       },
-      "description": "Ryzen 9 9950X3D2 is real The AMD Ryzen 9 9950X3D2, the supposed dual 3D V-Cache CPU, has finally app...",
-      "url": "https://videocardz.com/newz/amd-ryzen-9-9950x3d2-16-core-cpu-with-192mb-l3-cache-finally-leaks-out",
-      "publishedAt": "2025-12-26T10:53:00Z",
-      "processed_at": "2025-12-27T16:26:29.729267+00:00"
+      "description": "Report claims Exynos 2600 uses MGFX4 RDNA4-derived graphics Samsung's Exynos 2600 is the first Exyno...",
+      "url": "https://videocardz.com/newz/samsung-exynos-2600-xclipse-960-gpu-said-to-use-amd-rdna4-derived-architecture",
+      "publishedAt": "2025-12-26T15:43:00Z",
+      "processed_at": "2025-12-27T17:18:32.002065+00:00"
+    },
+    {
+      "title": "Stardew Valley Nintendo Switch 2 Edition Out Now With Mouse Controls, Local Split-Screen, And More - Game Informer",
+      "source": {
+        "name": "Gameinformer.com"
+      },
+      "description": "With Game Share, you only need one copy to play with friends....",
+      "url": "https://gameinformer.com/2025/12/26/stardew-valley-nintendo-switch-2-edition-out-now-with-mouse-controls-local-split-screen",
+      "publishedAt": "2025-12-26T15:42:15Z",
+      "processed_at": "2025-12-27T17:18:32.002065+00:00"
+    },
+    {
+      "title": "Destiny 2’s Renegades Is Great But Not Changing Its Playercount Trend - Forbes",
+      "source": {
+        "name": "Forbes"
+      },
+      "description": "Destiny 2's new Renegades expansion is excellent, but does not seem to be the shot in the arm the ga...",
+      "url": "https://www.forbes.com/sites/paultassi/2025/12/26/destiny-2s-renegades-is-great-but-not-changing-its-playercount-trend/",
+      "publishedAt": "2025-12-26T15:30:02Z",
+      "processed_at": "2025-12-27T17:18:32.002065+00:00"
+    },
+    {
+      "title": "Leaker Who Apple Is Suing Says ‘Screw It,’ Here’s the Foldable iPhone Early - Gizmodo",
+      "source": {
+        "name": "Gizmodo.com"
+      },
+      "description": "The YouTuber doesn't seem fazed by Apple's threats....",
+      "url": "https://gizmodo.com/leaker-who-apple-is-suing-says-screw-it-heres-the-foldable-iphone-early-2000703449",
+      "publishedAt": "2025-12-26T14:55:41Z",
+      "processed_at": "2025-12-27T17:18:32.002065+00:00"
     }
   ],
-  "lastUpdated": "2025-12-27T16:26:29.729339+00:00",
+  "lastUpdated": "2025-12-27T17:18:32.002141+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
