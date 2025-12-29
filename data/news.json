@@ -1,109 +1,99 @@
 {
   "status": "success",
-  "totalResults": 10,
+  "totalResults": 9,
   "articles": [
     {
-      "title": "Cheetah MX4 Mini: A Pint-Sized 3D Printer Controller - Hackaday",
+      "title": "You may soon be able to change your Gmail address - TechCrunch",
       "source": {
-        "name": "Hackaday"
+        "name": "TechCrunch"
       },
-      "description": "There’s a seemingly unending list of modifications or upgrades you can make to a 3D printer. Most re...",
-      "url": "https://hackaday.com/2025/12/28/cheetah-mx4-mini-a-pint-sized-3d-printer-controller/",
-      "publishedAt": "2025-12-28T15:00:00Z",
-      "processed_at": "2025-12-29T20:26:23.088815+00:00"
+      "description": "Good news for anyone tired of or embarrassed by their current Gmail address....",
+      "url": "https://techcrunch.com/2025/12/28/you-may-soon-be-able-to-change-your-gmail-address/",
+      "publishedAt": "2025-12-28T21:29:59Z",
+      "processed_at": "2025-12-29T21:20:27.496907+00:00"
     },
     {
-      "title": "Microsoft Rolling Out An Update To Reduce RAM Usage In Windows 11 File Explorer Search Feature - Wccftech",
-      "source": {
-        "name": "Wccftech"
-      },
-      "description": "Microsoft is working on reducing the RAM usage in Windows 11 Build 26220.07523 for users who use the...",
-      "url": "https://wccftech.com/microsoft-rolling-out-an-update-to-reduce-ram-usage-in-windows-11-file-explorer-search-feature/",
-      "publishedAt": "2025-12-28T14:08:00Z",
-      "processed_at": "2025-12-29T20:26:23.088815+00:00"
-    },
-    {
-      "title": "In The Porsche 718 Cayman GT4 RS, Getting Lost Is The Best Part Of The Drive - Jalopnik",
-      "source": {
-        "name": "Jalopnik"
-      },
-      "description": "This is a car dedicated to driving, all other things be damned, and it's probably one of the last th...",
-      "url": "https://www.jalopnik.com/2058413/porsche-718-cayman-gt4-rs-getting-lost-review/",
-      "publishedAt": "2025-12-28T14:05:00Z",
-      "processed_at": "2025-12-29T20:26:23.088815+00:00"
-    },
-    {
-      "title": "Victorinox Has Never Made a Swiss Army Knife as Modern and Handy as This One Before - Gear Patrol",
-      "source": {
-        "name": "Gear Patrol"
-      },
-      "description": "The stylish Synergy Alox boasts two user-friendly features you rarely find on SAKs, especially those...",
-      "url": "https://www.gearpatrol.com/outdoors/victorinox-synergy-alox-gp100/",
-      "publishedAt": "2025-12-28T14:00:00Z",
-      "processed_at": "2025-12-29T20:26:23.088815+00:00"
-    },
-    {
-      "title": "This 4 TB DDR5 RDIMM kit is now more expensive than a sports car - VideoCardz.com",
+      "title": "Intel Jaguar Shores reportedly set to use HBM4E memory - VideoCardz.com",
       "source": {
         "name": "Videocardz.com"
       },
-      "description": "This 4 TB DDR5 kit just hit $76,999 The kit is sold by NEMIX and is built for servers and workstatio...",
-      "url": "https://videocardz.com/newz/this-4-tb-ddr5-rdimm-kit-is-now-more-expensive-than-a-sports-car",
-      "publishedAt": "2025-12-28T13:25:00Z",
-      "processed_at": "2025-12-29T20:26:23.088815+00:00"
+      "description": "Next-Gen Gaudi successor to use HBM4E Leaker claims Intel Jaguar Shores may jump to HBM4E, not HBM4 ...",
+      "url": "https://videocardz.com/newz/intel-jaguar-shores-reportedly-set-to-use-hbm4e-memory",
+      "publishedAt": "2025-12-28T20:24:00Z",
+      "processed_at": "2025-12-29T21:20:27.496907+00:00"
     },
     {
-      "title": "The best PS5 games from 2025 - The Verge",
+      "title": "Did the foldable iPhone just get leaked? Seems like it. - Mashable",
       "source": {
-        "name": "The Verge"
+        "name": "Mashable"
       },
-      "description": "The PS5 had a great year in 2025 with games like Death Stranding 2, Ghost of Yōtei, and Final Fantas...",
-      "url": "https://www.theverge.com/games/846828/ps5-best-games-2025",
-      "publishedAt": "2025-12-28T13:00:00Z",
-      "processed_at": "2025-12-29T20:26:23.088815+00:00"
+      "description": "YouTuber Jon Prosser is being sued by Apple for his previous leaks. Now he dropped a new one....",
+      "url": "https://mashable.com/article/foldable-iphone-leaked",
+      "publishedAt": "2025-12-28T18:43:19Z",
+      "processed_at": "2025-12-29T21:20:27.496907+00:00"
     },
     {
-      "title": "Japan retailers impose purchase limits as 16GB RTX 5060 Ti and RX 9600 XT stock tightens - VideoCardz.com",
+      "title": "Sunday Preview – A putrescent crop begins to bloom - Warhammer Community",
       "source": {
-        "name": "Videocardz.com"
+        "name": "Warhammer-community.com"
       },
-      "description": "High VRAM GPU restocks look shaky in Japan as memory costs rise A report from ITMedia claims that a ...",
-      "url": "https://videocardz.com/newz/japan-retailers-impose-purchase-limits-as-16gb-rtx-5060-ti-and-rx-9600-xt-stock-tightens",
-      "publishedAt": "2025-12-28T12:26:00Z",
-      "processed_at": "2025-12-29T20:26:23.088815+00:00"
+      "description": "Everything available to pre-order next week....",
+      "url": "https://www.warhammer-community.com/articles/dphevrv5/sunday-preview-a-putrescent-crop-begins-to-bloom",
+      "publishedAt": "2025-12-28T17:57:38Z",
+      "processed_at": "2025-12-29T21:20:27.496907+00:00"
     },
     {
-      "title": "How an underrated Gboard feature fixed my biggest typing fear on Android - Android Police",
+      "title": "5 Cool Things You Didn't Know Your Amazon Fire TV Stick Could Do - bgr.com",
       "source": {
-        "name": "Android Police"
+        "name": "BGR"
       },
-      "description": "One small button, but a big relief...",
-      "url": "https://www.androidpolice.com/underrated-gboard-feature-fixed-biggest-typing-fear-on-android/",
-      "publishedAt": "2025-12-28T11:00:00Z",
-      "processed_at": "2025-12-29T20:26:23.088815+00:00"
+      "description": "If you've been using the Amazon Fire TV Stick just for entertainment, you might be missing out on fe...",
+      "url": "https://www.bgr.com/2058400/cool-hidden-uses-amazon-fire-tv-stick-guide/",
+      "publishedAt": "2025-12-28T16:17:00Z",
+      "processed_at": "2025-12-29T21:20:27.496907+00:00"
     },
     {
-      "title": "Memory loss: As AI gobbles up chips, prices for devices may rise - NPR",
+      "title": "Intel Xe vs. i915 Driver Performance On Linux 6.19 For Arc Alchemist GPUs - Phoronix",
       "source": {
-        "name": "NPR"
+        "name": "Phoronix"
       },
-      "description": "Demand for memory chips currently exceeds supply and there's very little chance of that changing any...",
-      "url": "https://www.npr.org/2025/12/28/nx-s1-5656190/ai-chips-memory-prices-ram",
-      "publishedAt": "2025-12-28T11:00:00Z",
-      "processed_at": "2025-12-29T20:26:23.088815+00:00"
+      "description": "Similar to AMD GCN 1.0/1.1 GPUs where there was product overlap between the Radeon and AMDGPU kernel...",
+      "url": "https://www.phoronix.com/review/intel-xe-i915-linux-619",
+      "publishedAt": "2025-12-28T16:10:00Z",
+      "processed_at": "2025-12-29T21:20:27.496907+00:00"
     },
     {
-      "title": "The Year’s Most Impressive Dive Watch Comes from a Brand You Wouldn’t Expect - Gear Patrol",
+      "title": "Google Swiftly Issues Urgent Update For Over A Million Pixel Phones - Forbes",
       "source": {
-        "name": "Gear Patrol"
+        "name": "Forbes"
       },
-      "description": "Ulysse Nardin launched the Diver Air in 2025, the lightest mechanical dive watch ever made at just 4...",
-      "url": "https://www.gearpatrol.com/watches/ulysse-nardin-diver-air-gp100/",
-      "publishedAt": "2025-12-28T11:00:00Z",
-      "processed_at": "2025-12-29T20:26:23.088815+00:00"
+      "description": "A new update has just landed for Pixel phones. If you have any Pixel released in the last five years...",
+      "url": "https://www.forbes.com/sites/davidphelan/2025/12/28/google-rushes-out-urgent-update-for-over-a-million-pixel-phones/",
+      "publishedAt": "2025-12-28T16:07:34Z",
+      "processed_at": "2025-12-29T21:20:27.496907+00:00"
+    },
+    {
+      "title": "The Google Pixel Watch 4 made me like smartwatches again - TechCrunch",
+      "source": {
+        "name": "TechCrunch"
+      },
+      "description": "Google's Pixel Watch 4 is an excellent smartwatch with fast charging and great design....",
+      "url": "https://techcrunch.com/2025/12/28/the-google-pixel-watch-4-made-me-like-smartwatches-again/",
+      "publishedAt": "2025-12-28T16:00:00Z",
+      "processed_at": "2025-12-29T21:20:27.496907+00:00"
+    },
+    {
+      "title": "Fedora Continued At The Forefront Of Upstream Linux Innovations In 2025 - Phoronix",
+      "source": {
+        "name": "Phoronix"
+      },
+      "description": "Fedora Linux this year continued in punctually shipping the very latest upstream Linux innovations f...",
+      "url": "https://www.phoronix.com/news/Fedora-Linux-2025-Highlights",
+      "publishedAt": "2025-12-28T15:38:00Z",
+      "processed_at": "2025-12-29T21:20:27.496907+00:00"
     }
   ],
-  "lastUpdated": "2025-12-29T20:26:23.088888+00:00",
+  "lastUpdated": "2025-12-29T21:20:27.496979+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
