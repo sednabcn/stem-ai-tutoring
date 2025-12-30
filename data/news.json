@@ -3,6 +3,16 @@
   "totalResults": 10,
   "articles": [
     {
+      "title": "Man builds his own Apple Watch from scratch in just one week while in the world's largest electronics market in China - supercarblondie.com",
+      "source": {
+        "name": "Supercarblondie.com"
+      },
+      "description": "After building his own iPhone 17, YouTube tech guru Strange Parts has now built his own DIY Apple Wa...",
+      "url": "https://supercarblondie.com/man-builds-diy-apple-watch-from-scratch/",
+      "publishedAt": "2025-12-29T08:06:00Z",
+      "processed_at": "2025-12-30T09:27:30.914125+00:00"
+    },
+    {
       "title": "Streaming Music To Cassette - Hackaday",
       "source": {
         "name": "Hackaday"
@@ -10,7 +20,7 @@
       "description": "In almost every measurable way, a lossless digital audio file is superior to any analog media. This ...",
       "url": "https://hackaday.com/2025/12/28/streaming-music-to-cassette/",
       "publishedAt": "2025-12-29T03:00:00Z",
-      "processed_at": "2025-12-30T08:31:40.580378+00:00"
+      "processed_at": "2025-12-30T09:27:30.914125+00:00"
     },
     {
       "title": "KDE Plasma's Wayland Transition \"Nears Completion\" In Ending Out 2025 - Phoronix",
@@ -20,17 +30,17 @@
       "description": "In addition to today's blog post calling out the need for others to takeover the This Week In Plasma...",
       "url": "https://www.phoronix.com/news/KDE-Plasma-2025-Wayland-Success",
       "publishedAt": "2025-12-29T01:40:00Z",
-      "processed_at": "2025-12-30T08:31:40.580378+00:00"
+      "processed_at": "2025-12-30T09:27:30.914125+00:00"
     },
     {
-      "title": "Sony Removes Free Game From the Library of PlayStation Users - ComicBook.com",
+      "title": "Retro Semiconductors: The Silicon Controlled Rectifier - Hackaday",
       "source": {
-        "name": "ComicBook.com"
+        "name": "Hackaday"
       },
-      "description": "Sony has removed a game from the library of PlayStation users who took advantage of an exploit to do...",
-      "url": "http://comicbook.com/gaming/news/sony-removes-free-game-from-the-library-of-playstation-users/",
-      "publishedAt": "2025-12-29T00:10:27Z",
-      "processed_at": "2025-12-30T08:31:40.580378+00:00"
+      "description": "Over on YouTube [Lockdown Electronics] reviews an old bit of kit known as the Silicon Controlled Rec...",
+      "url": "https://hackaday.com/2025/12/28/retro-semiconductors-the-silicon-controlled-rectifier/",
+      "publishedAt": "2025-12-29T00:00:00Z",
+      "processed_at": "2025-12-30T09:27:30.914125+00:00"
     },
     {
       "title": "Microsoft Office 2019 drops to $29.97 for a lifetime Windows license - Mashable",
@@ -40,7 +50,7 @@
       "description": "A one-time purchase that gets the job done....",
       "url": "https://mashable.com/article/dec-28-microsoft-office-professional-plus-2019-for-windows",
       "publishedAt": "2025-12-28T23:08:28Z",
-      "processed_at": "2025-12-30T08:31:40.580378+00:00"
+      "processed_at": "2025-12-30T09:27:30.914125+00:00"
     },
     {
       "title": "You can use “sudo” on Windows 11 now — and it's more useful than I thought - MakeUseOf",
@@ -50,7 +60,7 @@
       "description": "Windows 11 now has sudo, and it’s surprisingly useful....",
       "url": "https://www.makeuseof.com/sudo-on-windows-11-more-useful-than-thought/",
       "publishedAt": "2025-12-28T22:00:00Z",
-      "processed_at": "2025-12-30T08:31:40.580378+00:00"
+      "processed_at": "2025-12-30T09:27:30.914125+00:00"
     },
     {
       "title": "LG announces new UltraGear evo gaming monitors with AI upscaling - The Verge",
@@ -60,7 +70,7 @@
       "description": "Even your gaming monitor isn’t safe from the buzz of AI....",
       "url": "https://www.theverge.com/tech/850572/lg-announces-new-ultragear-evo-gaming-monitors-with-ai-upscaling",
       "publishedAt": "2025-12-28T21:42:15Z",
-      "processed_at": "2025-12-30T08:31:40.580378+00:00"
+      "processed_at": "2025-12-30T09:27:30.914125+00:00"
     },
     {
       "title": "You may soon be able to change your Gmail address - TechCrunch",
@@ -70,7 +80,17 @@
       "description": "Good news for anyone tired of or embarrassed by their current Gmail address....",
       "url": "https://techcrunch.com/2025/12/28/you-may-soon-be-able-to-change-your-gmail-address/",
       "publishedAt": "2025-12-28T21:29:59Z",
-      "processed_at": "2025-12-30T08:31:40.580378+00:00"
+      "processed_at": "2025-12-30T09:27:30.914125+00:00"
+    },
+    {
+      "title": "Photographing Cosmic Rays With A Consumer Camera - Hackaday",
+      "source": {
+        "name": "Hackaday"
+      },
+      "description": "The reason photographic darkrooms are needed is because almost any amount of light can ruin the film...",
+      "url": "https://hackaday.com/2025/12/28/photographing-cosmic-rays-with-a-consumer-camera/",
+      "publishedAt": "2025-12-28T21:00:00Z",
+      "processed_at": "2025-12-30T09:27:30.914125+00:00"
     },
     {
       "title": "Intel Jaguar Shores reportedly set to use HBM4E memory - VideoCardz.com",
@@ -80,30 +100,10 @@
       "description": "Next-Gen Gaudi successor to use HBM4E Leaker claims Intel Jaguar Shores may jump to HBM4E, not HBM4 ...",
       "url": "https://videocardz.com/newz/intel-jaguar-shores-reportedly-set-to-use-hbm4e-memory",
       "publishedAt": "2025-12-28T20:24:00Z",
-      "processed_at": "2025-12-30T08:31:40.580378+00:00"
-    },
-    {
-      "title": "A guide to choosing the right Apple Watch - TechCrunch",
-      "source": {
-        "name": "TechCrunch"
-      },
-      "description": "The gap between Apple's standard and budget smart watches has never felt smaller....",
-      "url": "https://techcrunch.com/2025/12/28/is-the-apple-watch-se-3-a-good-deal/",
-      "publishedAt": "2025-12-28T20:00:00Z",
-      "processed_at": "2025-12-30T08:31:40.580378+00:00"
-    },
-    {
-      "title": "Don’t Forget, Apple TV Costs $3 For T-Mobile Customers Soon - The Mobile Report",
-      "source": {
-        "name": "Tmo.report"
-      },
-      "description": "The Apple TV “On Us” benefit, which was originally free with some T-Mobile postpaid accounts, will n...",
-      "url": "https://tmo.report/2025/12/dont-forget-apple-tv-costs-3-for-t-mobile-customers-soon/",
-      "publishedAt": "2025-12-28T19:59:58Z",
-      "processed_at": "2025-12-30T08:31:40.580378+00:00"
+      "processed_at": "2025-12-30T09:27:30.914125+00:00"
     }
   ],
-  "lastUpdated": "2025-12-30T08:31:40.580475+00:00",
+  "lastUpdated": "2025-12-30T09:27:30.914195+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
