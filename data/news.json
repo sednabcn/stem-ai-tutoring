@@ -3,6 +3,36 @@
   "totalResults": 10,
   "articles": [
     {
+      "title": "James Bond game 007 First Light delayed to May 2026 - BBC",
+      "source": {
+        "name": "BBC News"
+      },
+      "description": "Dexter Original Sin actor Patrick Gibson will star as the British spy when the game releases on 27 M...",
+      "url": "https://www.bbc.com/news/articles/c1lrlm9ydgno",
+      "publishedAt": "2025-12-29T10:22:44Z",
+      "processed_at": "2025-12-30T11:20:58.583408+00:00"
+    },
+    {
+      "title": "Silent Hill Producer Aims to Release One New Game Per Year - Push Square",
+      "source": {
+        "name": "Push Square"
+      },
+      "description": "Series back with a bang...",
+      "url": "https://www.pushsquare.com/news/2025/12/silent-hill-producer-aims-to-release-one-new-game-per-year",
+      "publishedAt": "2025-12-29T10:00:00Z",
+      "processed_at": "2025-12-30T11:20:58.583408+00:00"
+    },
+    {
+      "title": "Dell confirms Ryzen 7 9850X3D update for Alienware Area-51 PC set to launch in February 2026 - VideoCardz.com",
+      "source": {
+        "name": "Videocardz.com"
+      },
+      "description": "Dell Alienware PC gets confirmation on AMD unannounced CPU option Dell has published a press release...",
+      "url": "https://videocardz.com/newz/dell-confirms-ryzen-7-9850x3d-update-for-alienware-area-51-pc-set-to-launch-in-february-2026",
+      "publishedAt": "2025-12-29T09:30:00Z",
+      "processed_at": "2025-12-30T11:20:58.583408+00:00"
+    },
+    {
       "title": "Man builds his own Apple Watch from scratch in just one week while in the world's largest electronics market in China - supercarblondie.com",
       "source": {
         "name": "Supercarblondie.com"
@@ -10,7 +40,17 @@
       "description": "After building his own iPhone 17, YouTube tech guru Strange Parts has now built his own DIY Apple Wa...",
       "url": "https://supercarblondie.com/man-builds-diy-apple-watch-from-scratch/",
       "publishedAt": "2025-12-29T08:06:00Z",
-      "processed_at": "2025-12-30T10:26:09.501373+00:00"
+      "processed_at": "2025-12-30T11:20:58.583408+00:00"
+    },
+    {
+      "title": "Japan’s Viral Horse-Racing Video Game Has Players Flocking to Real-Life Stables - Bloomberg.com",
+      "source": {
+        "name": "Bloomberg"
+      },
+      "description": "With more than 30 million downloads, Umamusume: Pretty Derby has generated anime adaptations, live c...",
+      "url": "https://www.bloomberg.com/news/articles/2025-12-29/-umamusume-pretty-derby-horse-racing-video-game-sends-players-to-stables",
+      "publishedAt": "2025-12-29T05:01:00Z",
+      "processed_at": "2025-12-30T11:20:58.583408+00:00"
     },
     {
       "title": "Streaming Music To Cassette - Hackaday",
@@ -20,7 +60,7 @@
       "description": "In almost every measurable way, a lossless digital audio file is superior to any analog media. This ...",
       "url": "https://hackaday.com/2025/12/28/streaming-music-to-cassette/",
       "publishedAt": "2025-12-29T03:00:00Z",
-      "processed_at": "2025-12-30T10:26:09.501373+00:00"
+      "processed_at": "2025-12-30T11:20:58.583408+00:00"
     },
     {
       "title": "KDE Plasma's Wayland Transition \"Nears Completion\" In Ending Out 2025 - Phoronix",
@@ -30,7 +70,7 @@
       "description": "In addition to today's blog post calling out the need for others to takeover the This Week In Plasma...",
       "url": "https://www.phoronix.com/news/KDE-Plasma-2025-Wayland-Success",
       "publishedAt": "2025-12-29T01:40:00Z",
-      "processed_at": "2025-12-30T10:26:09.501373+00:00"
+      "processed_at": "2025-12-30T11:20:58.583408+00:00"
     },
     {
       "title": "Retro Semiconductors: The Silicon Controlled Rectifier - Hackaday",
@@ -40,7 +80,17 @@
       "description": "Over on YouTube [Lockdown Electronics] reviews an old bit of kit known as the Silicon Controlled Rec...",
       "url": "https://hackaday.com/2025/12/28/retro-semiconductors-the-silicon-controlled-rectifier/",
       "publishedAt": "2025-12-29T00:00:00Z",
-      "processed_at": "2025-12-30T10:26:09.501373+00:00"
+      "processed_at": "2025-12-30T11:20:58.583408+00:00"
+    },
+    {
+      "title": "What an unprocessed photo looks like - Hacker News",
+      "source": {
+        "name": "Hacker News"
+      },
+      "description": "",
+      "url": "https://news.ycombinator.com/item?id\\\\u003d46415225",
+      "publishedAt": "2025-12-28T23:32:55Z",
+      "processed_at": "2025-12-30T11:20:58.583408+00:00"
     },
     {
       "title": "Microsoft Office 2019 drops to $29.97 for a lifetime Windows license - Mashable",
@@ -50,60 +100,10 @@
       "description": "A one-time purchase that gets the job done....",
       "url": "https://mashable.com/article/dec-28-microsoft-office-professional-plus-2019-for-windows",
       "publishedAt": "2025-12-28T23:08:28Z",
-      "processed_at": "2025-12-30T10:26:09.501373+00:00"
-    },
-    {
-      "title": "You can use “sudo” on Windows 11 now — and it's more useful than I thought - MakeUseOf",
-      "source": {
-        "name": "MakeUseOf"
-      },
-      "description": "Windows 11 now has sudo, and it’s surprisingly useful....",
-      "url": "https://www.makeuseof.com/sudo-on-windows-11-more-useful-than-thought/",
-      "publishedAt": "2025-12-28T22:00:00Z",
-      "processed_at": "2025-12-30T10:26:09.501373+00:00"
-    },
-    {
-      "title": "LG announces new UltraGear evo gaming monitors with AI upscaling - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "Even your gaming monitor isn’t safe from the buzz of AI....",
-      "url": "https://www.theverge.com/tech/850572/lg-announces-new-ultragear-evo-gaming-monitors-with-ai-upscaling",
-      "publishedAt": "2025-12-28T21:42:15Z",
-      "processed_at": "2025-12-30T10:26:09.501373+00:00"
-    },
-    {
-      "title": "You may soon be able to change your Gmail address - TechCrunch",
-      "source": {
-        "name": "TechCrunch"
-      },
-      "description": "Good news for anyone tired of or embarrassed by their current Gmail address....",
-      "url": "https://techcrunch.com/2025/12/28/you-may-soon-be-able-to-change-your-gmail-address/",
-      "publishedAt": "2025-12-28T21:29:59Z",
-      "processed_at": "2025-12-30T10:26:09.501373+00:00"
-    },
-    {
-      "title": "Photographing Cosmic Rays With A Consumer Camera - Hackaday",
-      "source": {
-        "name": "Hackaday"
-      },
-      "description": "The reason photographic darkrooms are needed is because almost any amount of light can ruin the film...",
-      "url": "https://hackaday.com/2025/12/28/photographing-cosmic-rays-with-a-consumer-camera/",
-      "publishedAt": "2025-12-28T21:00:00Z",
-      "processed_at": "2025-12-30T10:26:09.501373+00:00"
-    },
-    {
-      "title": "Intel Jaguar Shores reportedly set to use HBM4E memory - VideoCardz.com",
-      "source": {
-        "name": "Videocardz.com"
-      },
-      "description": "Next-Gen Gaudi successor to use HBM4E Leaker claims Intel Jaguar Shores may jump to HBM4E, not HBM4 ...",
-      "url": "https://videocardz.com/newz/intel-jaguar-shores-reportedly-set-to-use-hbm4e-memory",
-      "publishedAt": "2025-12-28T20:24:00Z",
-      "processed_at": "2025-12-30T10:26:09.501373+00:00"
+      "processed_at": "2025-12-30T11:20:58.583408+00:00"
     }
   ],
-  "lastUpdated": "2025-12-30T10:26:09.501442+00:00",
+  "lastUpdated": "2025-12-30T11:20:58.583476+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
