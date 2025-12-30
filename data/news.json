@@ -1,7 +1,47 @@
 {
   "status": "success",
-  "totalResults": 9,
+  "totalResults": 10,
   "articles": [
+    {
+      "title": "71 Hysterical Fails From This Year That Made Me Laugh So Hard I Forgot 2025 Was Hell on Earth - BuzzFeed",
+      "source": {
+        "name": "Buzzfeed"
+      },
+      "description": "Feeling like I have a LOT to be grateful for in 2025 after seeing how badly some folks put their fee...",
+      "url": "https://www.buzzfeed.com/kelley_greene/best-internet-fails-from-2025",
+      "publishedAt": "2025-12-29T19:31:01Z",
+      "processed_at": "2025-12-30T21:21:38.322214+00:00"
+    },
+    {
+      "title": "Leonardo’s wood charring method predates Japanese practice - Ars Technica",
+      "source": {
+        "name": "Ars Technica"
+      },
+      "description": "Yakisugi, a Japanese technique of burning wood surfaces, creates a protective carbonized layer......",
+      "url": "https://arstechnica.com/science/2025/12/did-one-line-in-a-leonardo-codex-anticipate-yakisugi/",
+      "publishedAt": "2025-12-29T19:30:47Z",
+      "processed_at": "2025-12-30T21:21:38.322214+00:00"
+    },
+    {
+      "title": "Legendary Dev Loses His Mind Over AI Agent’s Unsolicited ‘Act of Kindness’ - Gizmodo",
+      "source": {
+        "name": "Gizmodo.com"
+      },
+      "description": "Just fuck you. Fuck you all....",
+      "url": "https://gizmodo.com/legendary-dev-loses-his-mind-over-ai-agents-unsolicited-act-of-kindness-2000704001",
+      "publishedAt": "2025-12-29T19:30:05Z",
+      "processed_at": "2025-12-30T21:21:38.322214+00:00"
+    },
+    {
+      "title": "Disneyland’s most expensive drink has shot up in price — and it could disappear soon - New York Post",
+      "source": {
+        "name": "New York Post"
+      },
+      "description": "Disneyland’s most expensive drink has shot up in price — and it’s only available for a few more days...",
+      "url": "https://nypost.com/2025/12/29/us-news/disneylands-250-cookie-shot-has-shot-up-in-price-in-2022/",
+      "publishedAt": "2025-12-29T18:12:00Z",
+      "processed_at": "2025-12-30T21:21:38.322214+00:00"
+    },
     {
       "title": "Turn your PC into a Super Nintendo with Epilogue’s new USB dock - The Verge",
       "source": {
@@ -10,7 +50,7 @@
       "description": "Turn your PC into a Super Nintendo with Epilogue’s new SN Operator that can play and backup your ori...",
       "url": "https://www.theverge.com/news/850793/epilogue-sn-operator-super-nintendo-snes-cartridge-slot-backup-emulator",
       "publishedAt": "2025-12-29T17:22:05Z",
-      "processed_at": "2025-12-30T20:25:57.931362+00:00"
+      "processed_at": "2025-12-30T21:21:38.322214+00:00"
     },
     {
       "title": "Want to live longer? Try fartleks. - The Washington Post",
@@ -20,7 +60,7 @@
       "description": "Today, we revisit one of our favorite episodes from the past year: how fartlek training – or “speed ...",
       "url": "https://www.washingtonpost.com/podcasts/post-reports/want-to-live-longer-try-fartleks-/",
       "publishedAt": "2025-12-29T17:05:49Z",
-      "processed_at": "2025-12-30T20:25:57.931362+00:00"
+      "processed_at": "2025-12-30T21:21:38.322214+00:00"
     },
     {
       "title": "Next year, the Mac could finally get two features I’ve long wished for - 9to5Mac",
@@ -30,7 +70,27 @@
       "description": "There are two Mac upgrades rumored for 2026 that could go a long way toward moving me away from the ...",
       "url": "https://9to5mac.com/2025/12/29/next-year-the-mac-could-finally-get-two-features-ive-long-wished-for/",
       "publishedAt": "2025-12-29T17:05:00Z",
-      "processed_at": "2025-12-30T20:25:57.931362+00:00"
+      "processed_at": "2025-12-30T21:21:38.322214+00:00"
+    },
+    {
+      "title": "How to tweak your online platform algorithms - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "Everythiing you need to know about adjusting what content is recommended to you on facebook, Instagr...",
+      "url": "https://www.theverge.com/tech/849742/how-to-tune-algorithms-recommendations-online-platforms",
+      "publishedAt": "2025-12-29T16:30:00Z",
+      "processed_at": "2025-12-30T21:21:38.322214+00:00"
+    },
+    {
+      "title": "Google seems ready to kill the last of Stadia; go convert your controller now - 9to5Google",
+      "source": {
+        "name": "9to5google.com"
+      },
+      "description": "As the three-year anniversary of Stadia’s death approaches, the final “active” part of Google’s shor...",
+      "url": "http://9to5google.com/2025/12/29/google-stadia-controller-website-near-death/",
+      "publishedAt": "2025-12-29T16:30:00Z",
+      "processed_at": "2025-12-30T21:21:38.322214+00:00"
     },
     {
       "title": "CD PROJEKT co-founder Michał Kiciński acquires GOG from CD PROJEKT - cdprojekt.com",
@@ -40,60 +100,10 @@
       "description": "Michał Kiciński, co-founder of CD PROJEKT and one of its major shareholders, has acquired 100% of th...",
       "url": "https://www.cdprojekt.com/en/media/news/cd-projekt-co-founder-michal-kicinski-acquires-gog-from-cd-projekt/",
       "publishedAt": "2025-12-29T16:16:28Z",
-      "processed_at": "2025-12-30T20:25:57.931362+00:00"
-    },
-    {
-      "title": "HyperX OMEN OLED gaming monitor leaked ahead of CES 2026 reveal - VideoCardz.com",
-      "source": {
-        "name": "Videocardz.com"
-      },
-      "description": "HP HyperX Omen gaming monitors Windows Latest sources say that these are 'the best gaming monitors H...",
-      "url": "https://videocardz.com/newz/hyperx-omen-oled-gaming-monitor-leaked-ahead-of-ces-2026-reveal",
-      "publishedAt": "2025-12-29T16:00:00Z",
-      "processed_at": "2025-12-30T20:25:57.931362+00:00"
-    },
-    {
-      "title": "Warhammer Miniature of the Year 2025 – The winners revealed - Warhammer Community",
-      "source": {
-        "name": "Warhammer-community.com"
-      },
-      "description": "The best miniatures of the year, voted for by you....",
-      "url": "https://www.warhammer-community.com/articles/j9nqbfym/warhammer-miniature-of-the-year-2025-the-winners-revealed",
-      "publishedAt": "2025-12-29T15:57:34Z",
-      "processed_at": "2025-12-30T20:25:57.931362+00:00"
-    },
-    {
-      "title": "Report: Xbox & PlayStation Could Delay Next-Gen Consoles Due To RAM Price Increases - Pure Xbox",
-      "source": {
-        "name": "Pure Xbox"
-      },
-      "description": "\"The industry as a whole is concerned about RAM availability\"...",
-      "url": "https://www.purexbox.com/news/2025/12/report-xbox-and-playstation-could-delay-next-gen-consoles-due-to-ram-price-increases",
-      "publishedAt": "2025-12-29T15:20:00Z",
-      "processed_at": "2025-12-30T20:25:57.931362+00:00"
-    },
-    {
-      "title": "The Performance Of Arch Linux Powered CachyOS On AMD EPYC Servers - Phoronix",
-      "source": {
-        "name": "Phoronix"
-      },
-      "description": "One of the more interesting announcements over the holiday period thus far is that moving into 2026,...",
-      "url": "https://www.phoronix.com/review/epyc-cachyos-server-preview",
-      "publishedAt": "2025-12-29T15:10:00Z",
-      "processed_at": "2025-12-30T20:25:57.931362+00:00"
-    },
-    {
-      "title": "Introduce new people to Warhammer, and help us reach a target of one million miniatures painted in 2026 - Warhammer Community",
-      "source": {
-        "name": "Warhammer-community.com"
-      },
-      "description": "Contribute and collect gifts at your local store....",
-      "url": "https://www.warhammer-community.com/articles/zuyx9b9b/introduce-new-people-to-warhammer-and-help-us-reach-a-target-of-one-million-miniatures-painted-in-2026",
-      "publishedAt": "2025-12-29T14:57:31Z",
-      "processed_at": "2025-12-30T20:25:57.931362+00:00"
+      "processed_at": "2025-12-30T21:21:38.322214+00:00"
     }
   ],
-  "lastUpdated": "2025-12-30T20:25:57.931442+00:00",
+  "lastUpdated": "2025-12-30T21:21:38.322294+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
