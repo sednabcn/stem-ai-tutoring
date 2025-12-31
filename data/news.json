@@ -1,7 +1,37 @@
 {
   "status": "success",
-  "totalResults": 10,
+  "totalResults": 8,
   "articles": [
+    {
+      "title": "How ‘Call of Duty’ Got Dethroned in 2025 - The Ringer",
+      "source": {
+        "name": "The Ringer"
+      },
+      "description": "‘Battlefield,’ ‘ARC Raiders,’ and the juggernaut franchise’s own failings knocked ‘Black Ops 7’ off ...",
+      "url": "https://www.theringer.com/2025/12/30/video-games/how-call-of-duty-got-dethroned-in-2025-black-ops-7-battlefield-arc-raiders",
+      "publishedAt": "2025-12-30T12:55:22Z",
+      "processed_at": "2025-12-31T13:33:43.723985+00:00"
+    },
+    {
+      "title": "Linux 6.19 Kernel Benchmarks With X86_NATIVE_CPU Optimization - Phoronix",
+      "source": {
+        "name": "Phoronix"
+      },
+      "description": "Added to the Linux kernel earlier this year was the new X86_NATIVE_CPU Kconfig option to enable comp...",
+      "url": "https://www.phoronix.com/news/Linux-6.19-X86_NATIVE_CPU",
+      "publishedAt": "2025-12-30T12:27:00Z",
+      "processed_at": "2025-12-31T13:33:43.723985+00:00"
+    },
+    {
+      "title": "In Memoriam: All the tech that died in 2025 - Mashable",
+      "source": {
+        "name": "Mashable"
+      },
+      "description": "Join us in saying goodbye (or good riddance) to these apps, gadgets, and software....",
+      "url": "https://mashable.com/article/in-memoriam-tech-deaths-2025-tivo-skype-microsoft-passwords",
+      "publishedAt": "2025-12-30T10:07:26Z",
+      "processed_at": "2025-12-31T13:33:43.723985+00:00"
+    },
     {
       "title": "Nintendo Comments On Metroid Prime 4's Placement In The Metroid Timeline - Nintendo Life",
       "source": {
@@ -10,7 +40,17 @@
       "description": "Take a guess...",
       "url": "https://www.nintendolife.com/news/2025/12/nintendo-comments-on-metroid-prime-4s-placement-in-the-metroid-timeline",
       "publishedAt": "2025-12-30T07:00:00Z",
-      "processed_at": "2025-12-31T12:47:14.214026+00:00"
+      "processed_at": "2025-12-31T13:33:43.723985+00:00"
+    },
+    {
+      "title": "Games coming to Nintendo Switch 2 and Nintendo Switch in 2026 - Nintendo",
+      "source": {
+        "name": "Nintendo.com"
+      },
+      "description": "Another year is on the horizon and it’s jam packed with games launching on both Nintendo Switch 2 an...",
+      "url": "https://www.nintendo.com/au/news-and-articles/games-coming-to-nintendo-switch-2-and-nintendo-switch-in-2026/",
+      "publishedAt": "2025-12-30T05:06:45Z",
+      "processed_at": "2025-12-31T13:33:43.723985+00:00"
     },
     {
       "title": "The Rise Of Fake Casio Scientific Calculators - Hackaday",
@@ -20,90 +60,30 @@
       "description": "Scientific calculators are an amazing invention that take pocket calculators from being merely basic...",
       "url": "https://hackaday.com/2025/12/29/the-rise-of-fake-casio-scientific-calculators/",
       "publishedAt": "2025-12-30T03:00:00Z",
-      "processed_at": "2025-12-31T12:47:14.214026+00:00"
+      "processed_at": "2025-12-31T13:33:43.723985+00:00"
     },
     {
-      "title": "LG officially enters the art TV category with the Gallery TV - The Verge",
+      "title": "It Took 6+ Years For Linux's \"New\" Mount API To Be Properly Documented In Man Pages - Phoronix",
       "source": {
-        "name": "The Verge"
+        "name": "Phoronix"
       },
-      "description": "The LG Gallery TV will compete with Samsung’s The Frame as well as the Hisense CanvasTV and TCL Nxtv...",
-      "url": "https://www.theverge.com/news/850876/lg-gallery-tv-ces-2026",
-      "publishedAt": "2025-12-30T01:00:00Z",
-      "processed_at": "2025-12-31T12:47:14.214026+00:00"
+      "description": "In demonstrating one of the gaps of man pages in modern times and likely having hindered the adoptio...",
+      "url": "https://www.phoronix.com/news/New-Mount-API-Man-Pages",
+      "publishedAt": "2025-12-30T01:35:00Z",
+      "processed_at": "2025-12-31T13:33:43.723985+00:00"
     },
     {
-      "title": "Google Store New Year’s deals discount Pixel Watch 4 - 9to5Google",
+      "title": "AYANEO Releases Screen Details and a Kickstarter Page for the Pocket Play - Retro Handhelds",
       "source": {
-        "name": "9to5google.com"
+        "name": "Retrohandhelds.gg"
       },
-      "description": "With the previous round of offers ending last week, the Google Store is running New Year’s deals ahe...",
-      "url": "http://9to5google.com/2025/12/29/google-store-new-years-2026-deals/",
-      "publishedAt": "2025-12-29T23:41:00Z",
-      "processed_at": "2025-12-31T12:47:14.214026+00:00"
-    },
-    {
-      "title": "What’s new in Android’s December 2025 Google System Updates [U] - 9to5Google",
-      "source": {
-        "name": "9to5google.com"
-      },
-      "description": "The monthly “Google System Release Notes” primarily detail what’s new in Play services, Play Store, ...",
-      "url": "http://9to5google.com/2025/12/29/december-2025-google-system-updates/",
-      "publishedAt": "2025-12-29T23:04:00Z",
-      "processed_at": "2025-12-31T12:47:14.214026+00:00"
-    },
-    {
-      "title": "Samsung’s New Wi-Fi Speaker Has Big Monolith Energy - Gizmodo",
-      "source": {
-        "name": "Gizmodo.com"
-      },
-      "description": "Playing the theme to '2001: A Space Odyssey' on this thing might feel a little too on-the-nose....",
-      "url": "https://gizmodo.com/samsungs-new-wi-fi-speaker-has-big-monolith-energy-2000703920",
-      "publishedAt": "2025-12-29T23:00:21Z",
-      "processed_at": "2025-12-31T12:47:14.214026+00:00"
-    },
-    {
-      "title": "Billionaire Bill Koch Sells Banking Scion Paul Mellon’s Former Cape Cod House for $20 Million - Mansion Global",
-      "source": {
-        "name": "Mansion Global"
-      },
-      "description": "Koch has closed on a 7.4-acre slice of the former Mellon property in Osterville, Massachusetts, that...",
-      "url": "https://www.mansionglobal.com/articles/billionaire-bill-koch-sells-banking-scion-paul-mellons-former-cape-cod-house-for-20-million-1c863e5c",
-      "publishedAt": "2025-12-29T21:59:00Z",
-      "processed_at": "2025-12-31T12:47:14.214026+00:00"
-    },
-    {
-      "title": "Samsung’s Bixby reboot shows up early with Perplexity in tow - 9to5Google",
-      "source": {
-        "name": "9to5google.com"
-      },
-      "description": "Samsung hasn’t been particularly quiet about its coming Perplexity partnership, and now we’re gettin...",
-      "url": "http://9to5google.com/2025/12/29/samsungs-bixby-reboot-shows-up-early-with-perplexity-in-tow/",
-      "publishedAt": "2025-12-29T21:00:00Z",
-      "processed_at": "2025-12-31T12:47:14.214026+00:00"
-    },
-    {
-      "title": "iOS 26 has three new iPhone features I’ve been really loving - 9to5Mac",
-      "source": {
-        "name": "9to5Mac"
-      },
-      "description": "Here are three new iOS 26 features I’ve been especially loving on my iPhone after nearly six months ...",
-      "url": "https://9to5mac.com/2025/12/29/ios-26-has-three-new-iphone-features-ive-been-really-loving/",
-      "publishedAt": "2025-12-29T20:52:00Z",
-      "processed_at": "2025-12-31T12:47:14.214026+00:00"
-    },
-    {
-      "title": "CD Projekt Co-Founder Buys Steam Rival GOG - Gizmodo",
-      "source": {
-        "name": "Gizmodo.com"
-      },
-      "description": "New owner, still DRM-free....",
-      "url": "https://gizmodo.com/cd-projekt-co-founder-buys-steam-rival-gog-2000704077",
-      "publishedAt": "2025-12-29T20:50:06Z",
-      "processed_at": "2025-12-31T12:47:14.214026+00:00"
+      "description": "AYANEO shares additional details concerning the screen that is being used in the upcoming Pocket Pla...",
+      "url": "https://retrohandhelds.gg/ayaneo-releases-screen-details-and-a-kickstarter-page-for-the-pocket-play/",
+      "publishedAt": "2025-12-30T00:30:33Z",
+      "processed_at": "2025-12-31T13:33:43.723985+00:00"
     }
   ],
-  "lastUpdated": "2025-12-31T12:47:14.214099+00:00",
+  "lastUpdated": "2025-12-31T13:33:43.724050+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
