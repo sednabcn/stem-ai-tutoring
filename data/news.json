@@ -1,89 +1,109 @@
 {
   "status": "success",
-  "totalResults": 8,
+  "totalResults": 10,
   "articles": [
     {
-      "title": "How ‘Call of Duty’ Got Dethroned in 2025 - The Ringer",
+      "title": "Report: Apple's AI Strategy Could Finally Pay Off in 2026 - MacRumors",
       "source": {
-        "name": "The Ringer"
+        "name": "MacRumors"
       },
-      "description": "‘Battlefield,’ ‘ARC Raiders,’ and the juggernaut franchise’s own failings knocked ‘Black Ops 7’ off ...",
-      "url": "https://www.theringer.com/2025/12/30/video-games/how-call-of-duty-got-dethroned-in-2025-black-ops-7-battlefield-arc-raiders",
-      "publishedAt": "2025-12-30T12:55:22Z",
-      "processed_at": "2025-12-31T16:28:32.995494+00:00"
+      "description": "",
+      "url": "https://www.macrumors.com/2025/12/30/apple-ai-strategy-could-pay-off-in-2026/",
+      "publishedAt": "2025-12-30T17:01:31Z",
+      "processed_at": "2025-12-31T17:19:56.472932+00:00"
     },
     {
-      "title": "Linux 6.19 Kernel Benchmarks With X86_NATIVE_CPU Optimization - Phoronix",
-      "source": {
-        "name": "Phoronix"
-      },
-      "description": "Added to the Linux kernel earlier this year was the new X86_NATIVE_CPU Kconfig option to enable comp...",
-      "url": "https://www.phoronix.com/news/Linux-6.19-X86_NATIVE_CPU",
-      "publishedAt": "2025-12-30T12:27:00Z",
-      "processed_at": "2025-12-31T16:28:32.995494+00:00"
-    },
-    {
-      "title": "In Memoriam: All the tech that died in 2025 - Mashable",
-      "source": {
-        "name": "Mashable"
-      },
-      "description": "Join us in saying goodbye (or good riddance) to these apps, gadgets, and software....",
-      "url": "https://mashable.com/article/in-memoriam-tech-deaths-2025-tivo-skype-microsoft-passwords",
-      "publishedAt": "2025-12-30T10:07:26Z",
-      "processed_at": "2025-12-31T16:28:32.995494+00:00"
-    },
-    {
-      "title": "Nintendo Comments On Metroid Prime 4's Placement In The Metroid Timeline - Nintendo Life",
+      "title": "Video: It's Time To Say Goodbye To The Lovely Felix-From-Nintendo-Life - Nintendo Life",
       "source": {
         "name": "Nintendo Life"
       },
-      "description": "Take a guess...",
-      "url": "https://www.nintendolife.com/news/2025/12/nintendo-comments-on-metroid-prime-4s-placement-in-the-metroid-timeline",
-      "publishedAt": "2025-12-30T07:00:00Z",
-      "processed_at": "2025-12-31T16:28:32.995494+00:00"
+      "description": "Hej hej Felix!...",
+      "url": "https://www.nintendolife.com/news/2025/12/video-its-time-to-say-goodbye-to-the-lovely-felix-from-nintendo-life",
+      "publishedAt": "2025-12-30T16:30:00Z",
+      "processed_at": "2025-12-31T17:19:56.472932+00:00"
     },
     {
-      "title": "Games coming to Nintendo Switch 2 and Nintendo Switch in 2026 - Nintendo",
+      "title": "iOS 27: Here are seven new features rumored to be coming - 9to5Mac",
       "source": {
-        "name": "Nintendo.com"
+        "name": "9to5Mac"
       },
-      "description": "Another year is on the horizon and it’s jam packed with games launching on both Nintendo Switch 2 an...",
-      "url": "https://www.nintendo.com/au/news-and-articles/games-coming-to-nintendo-switch-2-and-nintendo-switch-in-2026/",
-      "publishedAt": "2025-12-30T05:06:45Z",
-      "processed_at": "2025-12-31T16:28:32.995494+00:00"
+      "description": "The next major iPhone software update will be unveiled in less than six months, at WWDC in June. Her...",
+      "url": "https://9to5mac.com/2025/12/30/ios-27-here-are-seven-new-features-rumored-to-be-coming/",
+      "publishedAt": "2025-12-30T16:02:00Z",
+      "processed_at": "2025-12-31T17:19:56.472932+00:00"
     },
     {
-      "title": "The Rise Of Fake Casio Scientific Calculators - Hackaday",
+      "title": "Jessie-May's Predictions for 2026 - Pinkbike",
       "source": {
-        "name": "Hackaday"
+        "name": "Pinkbike.com"
       },
-      "description": "Scientific calculators are an amazing invention that take pocket calculators from being merely basic...",
-      "url": "https://hackaday.com/2025/12/29/the-rise-of-fake-casio-scientific-calculators/",
-      "publishedAt": "2025-12-30T03:00:00Z",
-      "processed_at": "2025-12-31T16:28:32.995494+00:00"
+      "description": "",
+      "url": "https://www.pinkbike.com/news/jessie-mays-predictions-for-2026.html",
+      "publishedAt": "2025-12-30T16:00:00Z",
+      "processed_at": "2025-12-31T17:19:56.472932+00:00"
     },
     {
-      "title": "It Took 6+ Years For Linux's \"New\" Mount API To Be Properly Documented In Man Pages - Phoronix",
+      "title": "Anker’s portable backup battery is an even better investment now that it’s nearly half off - The Verge",
       "source": {
-        "name": "Phoronix"
+        "name": "The Verge"
       },
-      "description": "In demonstrating one of the gaps of man pages in modern times and likely having hindered the adoptio...",
-      "url": "https://www.phoronix.com/news/New-Mount-API-Man-Pages",
-      "publishedAt": "2025-12-30T01:35:00Z",
-      "processed_at": "2025-12-31T16:28:32.995494+00:00"
+      "description": "Anker’s 521 PowerHouse is $129.99 ($120 off) at Amazon. Google’s TV Streamer (4K) and Silent Hill 2 ...",
+      "url": "https://www.theverge.com/gadgets/851016/anker-521-powerhouse-google-tv-streamer-4k-deal-sale",
+      "publishedAt": "2025-12-30T15:47:34Z",
+      "processed_at": "2025-12-31T17:19:56.472932+00:00"
     },
     {
-      "title": "AYANEO Releases Screen Details and a Kickstarter Page for the Pocket Play - Retro Handhelds",
+      "title": "Moore Threads GPUs gain Vulkan 1.3 support, Geeks3D confirms FurMark 2 compatibility - VideoCardz.com",
       "source": {
-        "name": "Retrohandhelds.gg"
+        "name": "Videocardz.com"
       },
-      "description": "AYANEO shares additional details concerning the screen that is being used in the upcoming Pocket Pla...",
-      "url": "https://retrohandhelds.gg/ayaneo-releases-screen-details-and-a-kickstarter-page-for-the-pocket-play/",
-      "publishedAt": "2025-12-30T00:30:33Z",
-      "processed_at": "2025-12-31T16:28:32.995494+00:00"
+      "description": "Moore Threads GPUs with Vulkan Support Some great news from China, more specifically on Moore Thread...",
+      "url": "https://videocardz.com/newz/moore-threads-gpus-gain-vulkan-1-3-support-geeks3d-confirms-furmark-2-compatibility",
+      "publishedAt": "2025-12-30T15:33:00Z",
+      "processed_at": "2025-12-31T17:19:56.472932+00:00"
+    },
+    {
+      "title": "Galaxy S26 Ultra leak shows off new camera bump that’s sure to be annoying [Gallery] - 9to5Google",
+      "source": {
+        "name": "9to5google.com"
+      },
+      "description": "While the launch date is a fair bit later this year, leaks continue to detail Samsung’s plans for th...",
+      "url": "http://9to5google.com/2025/12/30/samsung-galaxy-s26-ultra-camera-bump-hardware-leak/",
+      "publishedAt": "2025-12-30T15:20:00Z",
+      "processed_at": "2025-12-31T17:19:56.472932+00:00"
+    },
+    {
+      "title": "watchOS 26 has three big new updates for Apple Watch faces - 9to5Mac",
+      "source": {
+        "name": "9to5Mac"
+      },
+      "description": "watchOS 26 offers big improvements to watch faces for your Apple Watch in three main ways. Here’s wh...",
+      "url": "https://9to5mac.com/2025/12/30/watchos-26-has-three-big-new-updates-for-apple-watch-faces/",
+      "publishedAt": "2025-12-30T15:12:00Z",
+      "processed_at": "2025-12-31T17:19:56.472932+00:00"
+    },
+    {
+      "title": "10 Major Smart Thermostats Ranked From Worst To Best Based On User Reviews - bgr.com",
+      "source": {
+        "name": "BGR"
+      },
+      "description": "A thermostat is the kind of appliance that many smart home enthusiasts look forward to upgrading, bu...",
+      "url": "https://www.bgr.com/2060750/major-smart-thermostats-ranked-according-customer-reviews/",
+      "publishedAt": "2025-12-30T15:02:00Z",
+      "processed_at": "2025-12-31T17:19:56.472932+00:00"
+    },
+    {
+      "title": "Looking for friends, lobsters may stumble into an ecological trap - Ars Technica",
+      "source": {
+        "name": "Ars Technica"
+      },
+      "description": "Gathering for mutual defense puts young spiny lobsters at risk of predators....",
+      "url": "https://arstechnica.com/science/2025/12/looking-for-friends-lobsters-may-stumble-into-an-ecological-trap/",
+      "publishedAt": "2025-12-30T15:00:56Z",
+      "processed_at": "2025-12-31T17:19:56.472932+00:00"
     }
   ],
-  "lastUpdated": "2025-12-31T16:28:32.995559+00:00",
+  "lastUpdated": "2025-12-31T17:19:56.473007+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
