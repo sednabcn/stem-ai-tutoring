@@ -1,7 +1,37 @@
 {
   "status": "success",
-  "totalResults": 10,
+  "totalResults": 9,
   "articles": [
+    {
+      "title": "LG officially enters the art TV category with the Gallery TV - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "The LG Gallery TV will compete with Samsung’s The Frame as well as the Hisense CanvasTV and TCL Nxtv...",
+      "url": "https://www.theverge.com/news/850876/lg-gallery-tv-ces-2026",
+      "publishedAt": "2025-12-30T01:00:00Z",
+      "processed_at": "2025-12-31T03:37:25.944706+00:00"
+    },
+    {
+      "title": "Deals for Today: Pokémon TCG Price Check and Holiday Gaming PC Sale - IGN",
+      "source": {
+        "name": "IGN"
+      },
+      "description": "Amazon restocks Pokémon TCG for the holidays, but TCGPlayer still wins on price. Compare today’s bes...",
+      "url": "https://www.ign.com/articles/deals-for-today-december-29",
+      "publishedAt": "2025-12-29T23:13:07Z",
+      "processed_at": "2025-12-31T03:37:25.944706+00:00"
+    },
+    {
+      "title": "Samsung’s New Wi-Fi Speaker Has Big Monolith Energy - Gizmodo",
+      "source": {
+        "name": "Gizmodo.com"
+      },
+      "description": "Playing the theme to '2001: A Space Odyssey' on this thing might feel a little too on-the-nose....",
+      "url": "https://gizmodo.com/samsungs-new-wi-fi-speaker-has-big-monolith-energy-2000703920",
+      "publishedAt": "2025-12-29T23:00:21Z",
+      "processed_at": "2025-12-31T03:37:25.944706+00:00"
+    },
     {
       "title": "Samsung’s Bixby reboot shows up early with Perplexity in tow - 9to5Google",
       "source": {
@@ -10,7 +40,7 @@
       "description": "Samsung hasn’t been particularly quiet about its coming Perplexity partnership, and now we’re gettin...",
       "url": "http://9to5google.com/2025/12/29/samsungs-bixby-reboot-shows-up-early-with-perplexity-in-tow/",
       "publishedAt": "2025-12-29T21:00:00Z",
-      "processed_at": "2025-12-31T01:50:48.916916+00:00"
+      "processed_at": "2025-12-31T03:37:25.944706+00:00"
     },
     {
       "title": "iOS 26 has three new iPhone features I’ve been really loving - 9to5Mac",
@@ -20,7 +50,17 @@
       "description": "Here are three new iOS 26 features I’ve been especially loving on my iPhone after nearly six months ...",
       "url": "https://9to5mac.com/2025/12/29/ios-26-has-three-new-iphone-features-ive-been-really-loving/",
       "publishedAt": "2025-12-29T20:52:00Z",
-      "processed_at": "2025-12-31T01:50:48.916916+00:00"
+      "processed_at": "2025-12-31T03:37:25.944706+00:00"
+    },
+    {
+      "title": "Google is dead. Where do we go now? - Hacker News",
+      "source": {
+        "name": "Hacker News"
+      },
+      "description": "",
+      "url": "https://news.ycombinator.com/item?id\\\\u003d46425198",
+      "publishedAt": "2025-12-29T20:47:49Z",
+      "processed_at": "2025-12-31T03:37:25.944706+00:00"
     },
     {
       "title": "You Can Turn On Your iPhone's Flashlight Without Touching It - Here's How - bgr.com",
@@ -30,7 +70,17 @@
       "description": "The flashlight function built in to every iPhone is a handy tool with lots of configuration options,...",
       "url": "https://www.bgr.com/2062542/how-to-turn-on-iphone-flashlight-voice-command-guide/",
       "publishedAt": "2025-12-29T20:47:00Z",
-      "processed_at": "2025-12-31T01:50:48.916916+00:00"
+      "processed_at": "2025-12-31T03:37:25.944706+00:00"
+    },
+    {
+      "title": "Happy 16th Birthday, KrebsOnSecurity.com! - Krebs on Security",
+      "source": {
+        "name": "Krebs on Security"
+      },
+      "description": "KrebsOnSecurity.com celebrates its 16th anniversary today! A huge \"thank you\" to all of our readers ...",
+      "url": "https://krebsonsecurity.com/2025/12/happy-16th-birthday-krebsonsecurity-com/",
+      "publishedAt": "2025-12-29T20:31:42Z",
+      "processed_at": "2025-12-31T03:37:25.944706+00:00"
     },
     {
       "title": "Leonardo’s wood charring method predates Japanese practice - Ars Technica",
@@ -40,70 +90,10 @@
       "description": "Yakisugi, a Japanese technique of burning wood surfaces, creates a protective carbonized layer......",
       "url": "https://arstechnica.com/science/2025/12/did-one-line-in-a-leonardo-codex-anticipate-yakisugi/",
       "publishedAt": "2025-12-29T19:30:47Z",
-      "processed_at": "2025-12-31T01:50:48.916916+00:00"
-    },
-    {
-      "title": "Legendary Dev Loses His Mind Over AI Agent’s Unsolicited ‘Act of Kindness’ - Gizmodo",
-      "source": {
-        "name": "Gizmodo.com"
-      },
-      "description": "Just fuck you. Fuck you all....",
-      "url": "https://gizmodo.com/legendary-dev-loses-his-mind-over-ai-agents-unsolicited-act-of-kindness-2000704001",
-      "publishedAt": "2025-12-29T19:30:05Z",
-      "processed_at": "2025-12-31T01:50:48.916916+00:00"
-    },
-    {
-      "title": "Disneyland’s most expensive drink has shot up in price — and it could disappear soon - New York Post",
-      "source": {
-        "name": "New York Post"
-      },
-      "description": "Disneyland’s most expensive drink has shot up in price — and it’s only available for a few more days...",
-      "url": "https://nypost.com/2025/12/29/us-news/disneylands-250-cookie-shot-has-shot-up-in-price-in-2022/",
-      "publishedAt": "2025-12-29T18:12:00Z",
-      "processed_at": "2025-12-31T01:50:48.916916+00:00"
-    },
-    {
-      "title": "Plaud Note Pro is an excellent AI-powered recorder that I carry everywhere - TechCrunch",
-      "source": {
-        "name": "TechCrunch"
-      },
-      "description": "Plaud Note Pro is a $179 notetaker, which is an excellent recording device first...",
-      "url": "https://techcrunch.com/2025/12/29/plaud-note-pro-is-an-excellent-ai-powered-recorder-that-i-carry-everywhere/",
-      "publishedAt": "2025-12-29T18:00:00Z",
-      "processed_at": "2025-12-31T01:50:48.916916+00:00"
-    },
-    {
-      "title": "2025 Was the Year Ninja Games Made a Comeback - Gizmodo",
-      "source": {
-        "name": "Gizmodo.com"
-      },
-      "description": "With three 'Ninja Gaiden' games, 'Ghost of Yotei,' and 'Shinobi,' ninjas returned to the gaming fore...",
-      "url": "https://gizmodo.com/2025-was-the-year-ninja-games-made-a-comeback-2000696867",
-      "publishedAt": "2025-12-29T17:30:12Z",
-      "processed_at": "2025-12-31T01:50:48.916916+00:00"
-    },
-    {
-      "title": "Turn your PC into a Super Nintendo with Epilogue’s new USB dock - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "Turn your PC into a Super Nintendo with Epilogue’s new SN Operator that can play and backup your ori...",
-      "url": "https://www.theverge.com/news/850793/epilogue-sn-operator-super-nintendo-snes-cartridge-slot-backup-emulator",
-      "publishedAt": "2025-12-29T17:22:05Z",
-      "processed_at": "2025-12-31T01:50:48.916916+00:00"
-    },
-    {
-      "title": "How do I make clear ice at home? A food scientist shares easy tips - Phys.org",
-      "source": {
-        "name": "Phys.Org"
-      },
-      "description": "When you splurge on a cocktail in a bar, the drink often comes with a slab of aesthetically pleasing...",
-      "url": "https://phys.org/news/2025-12-ice-home-food-scientist-easy.html",
-      "publishedAt": "2025-12-29T17:20:02Z",
-      "processed_at": "2025-12-31T01:50:48.916916+00:00"
+      "processed_at": "2025-12-31T03:37:25.944706+00:00"
     }
   ],
-  "lastUpdated": "2025-12-31T01:50:48.916999+00:00",
+  "lastUpdated": "2025-12-31T03:37:25.944792+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
