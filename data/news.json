@@ -1,7 +1,57 @@
 {
   "status": "success",
-  "totalResults": 10,
+  "totalResults": 9,
   "articles": [
+    {
+      "title": "Stephane Pelletier's Predictions for 2026 - Pinkbike",
+      "source": {
+        "name": "Pinkbike.com"
+      },
+      "description": "Five tepid takes heading into 2026....",
+      "url": "https://www.pinkbike.com/news/stephane-pelletiers-2026-predictions.html",
+      "publishedAt": "2026-01-01T16:00:00Z",
+      "processed_at": "2026-01-02T15:24:00.391431+00:00"
+    },
+    {
+      "title": "Announcing the New Year Warhammer Preview Live! 2026 – your first reveal show of the year - Warhammer Community",
+      "source": {
+        "name": "Warhammer-community.com"
+      },
+      "description": "The first preview of 2026 is coming soon....",
+      "url": "https://www.warhammer-community.com/articles/uzoe2wdo/announcing-the-new-year-warhammer-preview-live-2026-your-first-reveal-show-of-the-year",
+      "publishedAt": "2026-01-01T14:57:30Z",
+      "processed_at": "2026-01-02T15:24:00.391431+00:00"
+    },
+    {
+      "title": "I won't buy an Android phone in 2026 without this feature - Android Police",
+      "source": {
+        "name": "Android Police"
+      },
+      "description": "The macro upgrade flagship phones ignore...",
+      "url": "https://www.androidpolice.com/i-wont-buy-an-android-phone-in-2026-without-this-feature/",
+      "publishedAt": "2026-01-01T13:00:00Z",
+      "processed_at": "2026-01-02T15:24:00.391431+00:00"
+    },
+    {
+      "title": "Raise an almighty stench with Festus the Leechlord and his Rotbringer lackeys in Battletome: Maggotkin of Nurgle - Warhammer Community",
+      "source": {
+        "name": "Warhammer-community.com"
+      },
+      "description": "New rules for warriors of the Plaguefather....",
+      "url": "https://www.warhammer-community.com/articles/wolqlwbn/raise-an-almighty-stench-with-festus-the-leechlord-and-his-rotbringer-lackeys-in-battletome-maggotkin-of-nurgle",
+      "publishedAt": "2026-01-01T12:57:43Z",
+      "processed_at": "2026-01-02T15:24:00.391431+00:00"
+    },
+    {
+      "title": "Amazon is selling $60 JBL headphones for only $30 - thestreet.com",
+      "source": {
+        "name": "TheStreet"
+      },
+      "description": "\"The microphone quality is amazing.\"...",
+      "url": "https://www.thestreet.com/deals/jbl-tune-520bt-wireless-headphones-amazon-sale",
+      "publishedAt": "2026-01-01T11:30:00Z",
+      "processed_at": "2026-01-02T15:24:00.391431+00:00"
+    },
     {
       "title": "The Galaxy Z Roll 5G: Samsung’s Boldest Move Yet - Geeky Gadgets",
       "source": {
@@ -10,100 +60,40 @@
       "description": "Discover the Samsung Galaxy Z Roll 5G with its rollable display, advanced camera, and powerful hardw...",
       "url": "https://www.geeky-gadgets.com/samsung-galaxy-z-roll-5g-3/",
       "publishedAt": "2026-01-01T10:01:17Z",
-      "processed_at": "2026-01-02T14:22:44.913641+00:00"
+      "processed_at": "2026-01-02T15:24:00.391431+00:00"
     },
     {
-      "title": "Blue Prince is so much more than just a brilliant puzzler - Eurogamer",
+      "title": "10 Tech Cleanup Tasks for New Year's Day - WIRED",
       "source": {
-        "name": "Eurogamer.net"
+        "name": "Wired"
       },
-      "description": "Why Blue Prince, from Dogubomb, is Eurogamer's 2025 game of the year....",
-      "url": "https://www.eurogamer.net/blue-prince-our-game-of-the-year-is-so-much-more-than-just-a-brilliant-puzzler",
-      "publishedAt": "2026-01-01T09:00:00Z",
-      "processed_at": "2026-01-02T14:22:44.913641+00:00"
+      "description": "Knock out these simple chores on this day of fresh starts to keep you and your devices humming smoot...",
+      "url": "https://www.wired.com/story/10-tech-cleanup-tasks-for-new-years-day/",
+      "publishedAt": "2026-01-01T10:00:00Z",
+      "processed_at": "2026-01-02T15:24:00.391431+00:00"
     },
     {
-      "title": "The Many-Sprites Interpretation Of Amiga Mechanics - Hackaday",
-      "source": {
-        "name": "Hackaday"
-      },
-      "description": "The invention of sprites triggered a major shift in video game design, enabling games with independe...",
-      "url": "https://hackaday.com/2025/12/31/the-many-sprites-interpretation-of-amiga-mechanics/",
-      "publishedAt": "2026-01-01T06:00:00Z",
-      "processed_at": "2026-01-02T14:22:44.913641+00:00"
-    },
-    {
-      "title": "Apple cuts Vision Pro production and marketing after weak sales - Financial Times",
-      "source": {
-        "name": "Financial Times"
-      },
-      "description": "High prices, limited apps and comfort issues expose difficulty of turning futuristic hardware into a...",
-      "url": "https://www.ft.com/content/ab817ba1-15ec-473f-b609-5b5016b3258d",
-      "publishedAt": "2026-01-01T05:00:19Z",
-      "processed_at": "2026-01-02T14:22:44.913641+00:00"
-    },
-    {
-      "title": "Ncurses 6.6 Released With Improved Windows Terminal Support, Other Enhancements - Phoronix",
-      "source": {
-        "name": "Phoronix"
-      },
-      "description": "Ncurses 6.6 was released today prior to closing out 2025...",
-      "url": "https://www.phoronix.com/news/Ncurses-6.6",
-      "publishedAt": "2026-01-01T01:01:00Z",
-      "processed_at": "2026-01-02T14:22:44.913641+00:00"
-    },
-    {
-      "title": "5 Infamous Co-Op Video Games That Always Start An Argument - svg.com",
-      "source": {
-        "name": "SVG"
-      },
-      "description": "There's nothing like a tricky co-op video game to ruin a relationship. These multiplayer games will ...",
-      "url": "https://www.svg.com/2062935/co-op-video-games-start-argument/",
-      "publishedAt": "2026-01-01T01:00:00Z",
-      "processed_at": "2026-01-02T14:22:44.913641+00:00"
-    },
-    {
-      "title": "\"It Deters Creeps\": Women Who Live Alone Are Sharing The Clever Things They Do To Help Them Feel Safer In Their Home, And It's So Terrible That This Advice Is Needed - BuzzFeed",
-      "source": {
-        "name": "Buzzfeed"
-      },
-      "description": "\"If someone were dumb enough to break in, they would be leaving in a body bag.\"...",
-      "url": "https://www.buzzfeed.com/dannicaramirez/safety-tips-from-women-who-live-alone",
-      "publishedAt": "2026-01-01T00:31:04Z",
-      "processed_at": "2026-01-02T14:22:44.913641+00:00"
-    },
-    {
-      "title": "5 Of The Best Chevy Models For Off-Roading - Yahoo! Autos",
+      "title": "4 Obscure Harbor Freight Tools You Probably Didn't Realize Existed - SlashGear",
       "source": {
         "name": "SlashGear"
       },
-      "description": "Though it is a division of General Motors, Chevrolet offers a vehicle for almost every occasion, inc...",
-      "url": "https://www.slashgear.com/2060746/best-chevrolet-car-models-off-roading/",
-      "publishedAt": "2026-01-01T00:30:00Z",
-      "processed_at": "2026-01-02T14:22:44.913641+00:00"
+      "description": "Obscure Harbor Freight tools include a Warrior handheld engraving tool, a Doyle reaming screwdriver,...",
+      "url": "https://www.slashgear.com/2063630/obscure-harbor-freight-tools-you-probably-didnt-realize-existed/",
+      "publishedAt": "2026-01-01T09:30:00Z",
+      "processed_at": "2026-01-02T15:24:00.391431+00:00"
     },
     {
-      "title": "Every Windows feature Microsoft removed or deprecated in 2025 - Neowin",
+      "title": "Editorial: Happy New Year From Nintendo Life - Nintendo Life",
       "source": {
-        "name": "Neowin"
+        "name": "Nintendo Life"
       },
-      "description": "",
-      "url": "https://www.neowin.net/news/every-windows-feature-microsoft-removed-or-deprecated-in-2025/",
-      "publishedAt": "2026-01-01T00:00:00Z",
-      "processed_at": "2026-01-02T14:22:44.913641+00:00"
-    },
-    {
-      "title": "Score Persona 5 Tactica for $10 Today at Best Buy - IGN",
-      "source": {
-        "name": "IGN"
-      },
-      "description": "",
-      "url": "https://www.ign.com/articles/score-persona-5-tactica-for-10-today-at-best-buy",
-      "publishedAt": "2025-12-31T23:08:15Z",
-      "processed_at": "2026-01-02T14:22:44.913641+00:00"
+      "description": "'26 mix...",
+      "url": "https://www.nintendolife.com/features/editorial-happy-new-year-from-nintendo-life",
+      "publishedAt": "2026-01-01T09:00:00Z",
+      "processed_at": "2026-01-02T15:24:00.391431+00:00"
     }
   ],
-  "lastUpdated": "2026-01-02T14:22:44.913708+00:00",
+  "lastUpdated": "2026-01-02T15:24:00.391513+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
