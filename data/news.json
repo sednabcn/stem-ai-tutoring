@@ -1,7 +1,67 @@
 {
   "status": "success",
-  "totalResults": 9,
+  "totalResults": 10,
   "articles": [
+    {
+      "title": "Here's How Much A 2020 BMW M2 Has Depreciated In 5 Years - Jalopnik",
+      "source": {
+        "name": "Jalopnik"
+      },
+      "description": "The 2020 BMW M2 retains its resale value exceptionally well. Here’s exactly what the data from CarEd...",
+      "url": "https://www.jalopnik.com/2062537/2020-bmw-m2-5-year-depreciation/",
+      "publishedAt": "2026-01-01T22:25:00Z",
+      "processed_at": "2026-01-02T23:20:31.065967+00:00"
+    },
+    {
+      "title": "Linux is good now - Hacker News",
+      "source": {
+        "name": "Hacker News"
+      },
+      "description": "",
+      "url": "https://news.ycombinator.com/item?id\\\\u003d46457770",
+      "publishedAt": "2026-01-01T21:16:06Z",
+      "processed_at": "2026-01-02T23:20:31.065967+00:00"
+    },
+    {
+      "title": "These AA batteries charge over USB-C and genuinely impressed me. - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "",
+      "url": "https://www.theverge.com/gadgets/852436/aa-batteries-usb-c-lithium-ion-coast-zepath-titw",
+      "publishedAt": "2026-01-01T20:49:10Z",
+      "processed_at": "2026-01-02T23:20:31.065967+00:00"
+    },
+    {
+      "title": "\"Limited Run Games Has Been My Life For Ten Years\" - Josh Fairhurst Announces He's Stepping Away - Time Extension",
+      "source": {
+        "name": "Timeextension.com"
+      },
+      "description": "\"It wasn't an easy decision to make\"...",
+      "url": "https://www.timeextension.com/news/2026/01/limited-run-games-has-been-my-life-for-ten-years-josh-fairhurst-announces-hes-stepping-away",
+      "publishedAt": "2026-01-01T20:18:31Z",
+      "processed_at": "2026-01-02T23:20:31.065967+00:00"
+    },
+    {
+      "title": "25th Anniversary Log-in Unlock - Halo Waypoint",
+      "source": {
+        "name": "Halowaypoint.com"
+      },
+      "description": "<p>All year long, we’ll be celebrating 25 years of Halo with reminiscences and retrospectives on the...",
+      "url": "https://www.halowaypoint.com/news/25th-anniversary-log-in-unlock",
+      "publishedAt": "2026-01-01T20:17:22Z",
+      "processed_at": "2026-01-02T23:20:31.065967+00:00"
+    },
+    {
+      "title": "Research roundup: 7 cool science stories we almost missed - Ars Technica",
+      "source": {
+        "name": "Ars Technica"
+      },
+      "description": "Double-detonating \"superkilonova,\" Roman liquid gypsum burials, biomechanics of kangaroo posture, an...",
+      "url": "https://arstechnica.com/science/2026/01/research-roundup-7-cool-science-stories-we-almost-missed-2/",
+      "publishedAt": "2026-01-01T19:43:45Z",
+      "processed_at": "2026-01-02T23:20:31.065967+00:00"
+    },
     {
       "title": "LG’s new karaoke-ready party speaker uses AI to remove song vocals - The Verge",
       "source": {
@@ -10,7 +70,7 @@
       "description": "LG is launching four new Xboom speakers, with the karaoke-friendly Stage 501 coming with an AI-power...",
       "url": "https://www.theverge.com/news/852362/lg-xboom-stage-501-karaoke-launch-ces-2026",
       "publishedAt": "2026-01-01T18:16:10Z",
-      "processed_at": "2026-01-02T22:22:20.561687+00:00"
+      "processed_at": "2026-01-02T23:20:31.065967+00:00"
     },
     {
       "title": "2026: Showtime for Android XR glasses - 9to5Google",
@@ -20,7 +80,7 @@
       "description": "During my hands-on with Android XR glasses last month, I kept returning to the digital clock that wa...",
       "url": "http://9to5google.com/2026/01/01/android-xr-glasses-2026/",
       "publishedAt": "2026-01-01T17:05:00Z",
-      "processed_at": "2026-01-02T22:22:20.561687+00:00"
+      "processed_at": "2026-01-02T23:20:31.065967+00:00"
     },
     {
       "title": "Turn Over a New Leaf with Budew in Pokémon Trading Card Game Live - Pokemon.com",
@@ -30,7 +90,7 @@
       "description": "Budew was a breakout star of 2025, and Pokémon TCG Live is itching to celebrate with deck cosmetics,...",
       "url": "https://www.pokemon.com/us/pokemon-news/turn-over-a-new-leaf-with-budew-in-pokemon-trading-card-game-live",
       "publishedAt": "2026-01-01T17:04:45Z",
-      "processed_at": "2026-01-02T22:22:20.561687+00:00"
+      "processed_at": "2026-01-02T23:20:31.065967+00:00"
     },
     {
       "title": "No iPhone 18 Launch This Year, Reports Suggest - MacRumors",
@@ -40,60 +100,10 @@
       "description": "Apple is not expected to release a standard iPhone 18 model this year, according to a growing number...",
       "url": "https://www.macrumors.com/2026/01/01/no-iphone-18-launch-this-year/",
       "publishedAt": "2026-01-01T16:43:10Z",
-      "processed_at": "2026-01-02T22:22:20.561687+00:00"
-    },
-    {
-      "title": "ReactOS Starts 2026 With Another \"Major Step\" Toward Windows NT6 Compatibility - Phoronix",
-      "source": {
-        "name": "Phoronix"
-      },
-      "description": "The ReactOS free software project is turning 30 this year and its 'open-source Windows' OS ambitions...",
-      "url": "https://www.phoronix.com/news/ReactOS-Starts-2026",
-      "publishedAt": "2026-01-01T15:42:00Z",
-      "processed_at": "2026-01-02T22:22:20.561687+00:00"
-    },
-    {
-      "title": "HP to launch EliteBook X G2 laptop with AMD, Intel and Qualcomm CPU options - VideoCardz.com",
-      "source": {
-        "name": "Videocardz.com"
-      },
-      "description": "EliteBook X G2 has three platforms to choose from With CES less than a week away, a new report from ...",
-      "url": "https://videocardz.com/newz/hp-to-launch-elitebook-x-g2-laptop-with-amd-intel-and-qualcomm-cpu-options",
-      "publishedAt": "2026-01-01T15:23:00Z",
-      "processed_at": "2026-01-02T22:22:20.561687+00:00"
-    },
-    {
-      "title": "Copilot Money brings clarity to your finances, now on the web - 9to5Mac",
-      "source": {
-        "name": "9to5Mac"
-      },
-      "description": "Copilot Money is an award-winning app that brings a personal approach to managing your finances. It ...",
-      "url": "https://9to5mac.com/2026/01/01/copilot-money-brings-clarity-to-your-finances-now-on-the-web/",
-      "publishedAt": "2026-01-01T15:04:00Z",
-      "processed_at": "2026-01-02T22:22:20.561687+00:00"
-    },
-    {
-      "title": "Announcing the New Year Warhammer Preview Live! 2026 – your first reveal show of the year - Warhammer Community",
-      "source": {
-        "name": "Warhammer-community.com"
-      },
-      "description": "The first preview of 2026 is coming soon....",
-      "url": "https://www.warhammer-community.com/articles/uzoe2wdo/announcing-the-new-year-warhammer-preview-live-2026-your-first-reveal-show-of-the-year",
-      "publishedAt": "2026-01-01T14:57:30Z",
-      "processed_at": "2026-01-02T22:22:20.561687+00:00"
-    },
-    {
-      "title": "3 apps I'm actually using to keep my New Year's resolutions - Android Authority",
-      "source": {
-        "name": "Android Authority"
-      },
-      "description": "Habit tracking app options are endless, but these 3 apps have proven to be the most effective in act...",
-      "url": "https://www.androidauthority.com/new-years-resolutions-apps-2026-3628951/",
-      "publishedAt": "2026-01-01T14:20:16Z",
-      "processed_at": "2026-01-02T22:22:20.561687+00:00"
+      "processed_at": "2026-01-02T23:20:31.065967+00:00"
     }
   ],
-  "lastUpdated": "2026-01-02T22:22:20.561761+00:00",
+  "lastUpdated": "2026-01-02T23:20:31.066042+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
