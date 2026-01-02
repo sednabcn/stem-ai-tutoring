@@ -1,7 +1,27 @@
 {
   "status": "success",
-  "totalResults": 9,
+  "totalResults": 8,
   "articles": [
+    {
+      "title": "2026: Showtime for Android XR glasses - 9to5Google",
+      "source": {
+        "name": "9to5google.com"
+      },
+      "description": "During my hands-on with Android XR glasses last month, I kept returning to the digital clock that wa...",
+      "url": "http://9to5google.com/2026/01/01/android-xr-glasses-2026/",
+      "publishedAt": "2026-01-01T17:05:00Z",
+      "processed_at": "2026-01-02T19:15:06.457323+00:00"
+    },
+    {
+      "title": "Turn Over a New Leaf with Budew in Pokémon Trading Card Game Live - Pokemon.com",
+      "source": {
+        "name": "Pokemon.com"
+      },
+      "description": "Budew was a breakout star of 2025, and Pokémon TCG Live is itching to celebrate with deck cosmetics,...",
+      "url": "https://www.pokemon.com/us/pokemon-news/turn-over-a-new-leaf-with-budew-in-pokemon-trading-card-game-live",
+      "publishedAt": "2026-01-01T17:04:45Z",
+      "processed_at": "2026-01-02T19:15:06.457323+00:00"
+    },
     {
       "title": "No iPhone 18 Launch This Year, Reports Suggest - MacRumors",
       "source": {
@@ -10,7 +30,7 @@
       "description": "Apple is not expected to release a standard iPhone 18 model this year, according to a growing number...",
       "url": "https://www.macrumors.com/2026/01/01/no-iphone-18-launch-this-year/",
       "publishedAt": "2026-01-01T16:43:10Z",
-      "processed_at": "2026-01-02T18:32:51.241415+00:00"
+      "processed_at": "2026-01-02T19:15:06.457323+00:00"
     },
     {
       "title": "ReactOS Starts 2026 With Another \"Major Step\" Toward Windows NT6 Compatibility - Phoronix",
@@ -20,7 +40,17 @@
       "description": "The ReactOS free software project is turning 30 this year and its 'open-source Windows' OS ambitions...",
       "url": "https://www.phoronix.com/news/ReactOS-Starts-2026",
       "publishedAt": "2026-01-01T15:42:00Z",
-      "processed_at": "2026-01-02T18:32:51.241415+00:00"
+      "processed_at": "2026-01-02T19:15:06.457323+00:00"
+    },
+    {
+      "title": "HP to launch EliteBook X G2 laptop with AMD, Intel and Qualcomm CPU options - VideoCardz.com",
+      "source": {
+        "name": "Videocardz.com"
+      },
+      "description": "EliteBook X G2 has three platforms to choose from With CES less than a week away, a new report from ...",
+      "url": "https://videocardz.com/newz/hp-to-launch-elitebook-x-g2-laptop-with-amd-intel-and-qualcomm-cpu-options",
+      "publishedAt": "2026-01-01T15:23:00Z",
+      "processed_at": "2026-01-02T19:15:06.457323+00:00"
     },
     {
       "title": "Announcing the New Year Warhammer Preview Live! 2026 – your first reveal show of the year - Warhammer Community",
@@ -30,7 +60,7 @@
       "description": "The first preview of 2026 is coming soon....",
       "url": "https://www.warhammer-community.com/articles/uzoe2wdo/announcing-the-new-year-warhammer-preview-live-2026-your-first-reveal-show-of-the-year",
       "publishedAt": "2026-01-01T14:57:30Z",
-      "processed_at": "2026-01-02T18:32:51.241415+00:00"
+      "processed_at": "2026-01-02T19:15:06.457323+00:00"
     },
     {
       "title": "Google Maps Vs. Apple Maps - Here's Which Navigation App You Should Use - bgr.com",
@@ -40,60 +70,20 @@
       "description": "Between Google Maps and Apple Maps, there's no major difference in accuracy between them. The differ...",
       "url": "https://www.bgr.com/2065070/google-maps-vs-apple-maps-which-is-better/",
       "publishedAt": "2026-01-01T14:17:00Z",
-      "processed_at": "2026-01-02T18:32:51.241415+00:00"
+      "processed_at": "2026-01-02T19:15:06.457323+00:00"
     },
     {
-      "title": "I won't buy an Android phone in 2026 without this feature - Android Police",
+      "title": "This YouTube Music quirk never bothered me — until I watched my partner use Spotify - Android Police",
       "source": {
         "name": "Android Police"
       },
-      "description": "The macro upgrade flagship phones ignore...",
-      "url": "https://www.androidpolice.com/i-wont-buy-an-android-phone-in-2026-without-this-feature/",
-      "publishedAt": "2026-01-01T13:00:00Z",
-      "processed_at": "2026-01-02T18:32:51.241415+00:00"
-    },
-    {
-      "title": "Upcoming Nintendo Switch 2 Games & Accessories For January & February 2026 - Nintendo Life",
-      "source": {
-        "name": "Nintendo Life"
-      },
-      "description": "Old horizons...",
-      "url": "https://www.nintendolife.com/guides/upcoming-nintendo-switch-2-games-and-accessories-for-january-and-february-2026",
-      "publishedAt": "2026-01-01T12:04:11Z",
-      "processed_at": "2026-01-02T18:32:51.241415+00:00"
-    },
-    {
-      "title": "Linux 6.19 Lands Fix For Dead WiFi With MediaTek MT792x Wireless - Phoronix",
-      "source": {
-        "name": "Phoronix"
-      },
-      "description": "Merged to Linux Git on New Year's Eve was a fix in the form of a code revert for broken MediaTek WiF...",
-      "url": "https://www.phoronix.com/news/Linux-6.19-Fix-MediaTek-WiFi",
-      "publishedAt": "2026-01-01T11:47:00Z",
-      "processed_at": "2026-01-02T18:32:51.241415+00:00"
-    },
-    {
-      "title": "Doug Bowser has now retired from Nintendo of America - My Nintendo News",
-      "source": {
-        "name": "My Nintendo News"
-      },
-      "description": "The mighty Doug Bower has now retired from Nintendo of America after being with the company for year...",
-      "url": "https://mynintendonews.com/2026/01/01/doug-bowser-has-now-retired-from-nintendo-of-america/",
-      "publishedAt": "2026-01-01T11:13:51Z",
-      "processed_at": "2026-01-02T18:32:51.241415+00:00"
-    },
-    {
-      "title": "Happy New Year! Now Clear Your Cache - CNET",
-      "source": {
-        "name": "CNET"
-      },
-      "description": "Embrace the excitement and potential of the new year by clearing out your browser's cache....",
-      "url": "https://www.cnet.com/tech/services-and-software/iphone-browser-clear-cache/",
-      "publishedAt": "2026-01-01T11:01:00Z",
-      "processed_at": "2026-01-02T18:32:51.241415+00:00"
+      "description": "I can't unsee it now...",
+      "url": "https://www.androidpolice.com/youtube-music-quirk-never-bothered-me-until-i-saw-partner-use-spotify/",
+      "publishedAt": "2026-01-01T13:30:00Z",
+      "processed_at": "2026-01-02T19:15:06.457323+00:00"
     }
   ],
-  "lastUpdated": "2026-01-02T18:32:51.241504+00:00",
+  "lastUpdated": "2026-01-02T19:15:06.457402+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
