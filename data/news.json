@@ -3,16 +3,6 @@
   "totalResults": 10,
   "articles": [
     {
-      "title": "Here's How Much A 2020 BMW M2 Has Depreciated In 5 Years - Jalopnik",
-      "source": {
-        "name": "Jalopnik"
-      },
-      "description": "The 2020 BMW M2 retains its resale value exceptionally well. Here’s exactly what the data from CarEd...",
-      "url": "https://www.jalopnik.com/2062537/2020-bmw-m2-5-year-depreciation/",
-      "publishedAt": "2026-01-01T22:25:00Z",
-      "processed_at": "2026-01-02T23:20:31.065967+00:00"
-    },
-    {
       "title": "Linux is good now - Hacker News",
       "source": {
         "name": "Hacker News"
@@ -20,7 +10,17 @@
       "description": "",
       "url": "https://news.ycombinator.com/item?id\\\\u003d46457770",
       "publishedAt": "2026-01-01T21:16:06Z",
-      "processed_at": "2026-01-02T23:20:31.065967+00:00"
+      "processed_at": "2026-01-03T01:46:29.276730+00:00"
+    },
+    {
+      "title": "Playmobil versus Lego: Which is the best USS Enterprise set? - Space",
+      "source": {
+        "name": "Space.com"
+      },
+      "description": "It's Playmobil versus Lego in this battle of the best U.S.S. Enterprise models on the market: Find o...",
+      "url": "https://www.space.com/entertainment/space-toys-lego/playmobil-versus-lego-which-is-the-best-uss-enterprise-set",
+      "publishedAt": "2026-01-01T21:05:00Z",
+      "processed_at": "2026-01-03T01:46:29.276730+00:00"
     },
     {
       "title": "These AA batteries charge over USB-C and genuinely impressed me. - The Verge",
@@ -30,7 +30,17 @@
       "description": "",
       "url": "https://www.theverge.com/gadgets/852436/aa-batteries-usb-c-lithium-ion-coast-zepath-titw",
       "publishedAt": "2026-01-01T20:49:10Z",
-      "processed_at": "2026-01-02T23:20:31.065967+00:00"
+      "processed_at": "2026-01-03T01:46:29.276730+00:00"
+    },
+    {
+      "title": "NVIDIA Graphics On Haiku OS Make Progress With NVIDIA Open Kernel Modules + NVK/Zink - Phoronix",
+      "source": {
+        "name": "Phoronix"
+      },
+      "description": "As a wonderful New Year surprise, there's good momentum on NVIDIA graphics support for the BeOS-insp...",
+      "url": "https://www.phoronix.com/news/NVIDIA-Haiku-0.0.1",
+      "publishedAt": "2026-01-01T20:20:00Z",
+      "processed_at": "2026-01-03T01:46:29.276730+00:00"
     },
     {
       "title": "\"Limited Run Games Has Been My Life For Ten Years\" - Josh Fairhurst Announces He's Stepping Away - Time Extension",
@@ -40,7 +50,7 @@
       "description": "\"It wasn't an easy decision to make\"...",
       "url": "https://www.timeextension.com/news/2026/01/limited-run-games-has-been-my-life-for-ten-years-josh-fairhurst-announces-hes-stepping-away",
       "publishedAt": "2026-01-01T20:18:31Z",
-      "processed_at": "2026-01-02T23:20:31.065967+00:00"
+      "processed_at": "2026-01-03T01:46:29.276730+00:00"
     },
     {
       "title": "25th Anniversary Log-in Unlock - Halo Waypoint",
@@ -50,7 +60,7 @@
       "description": "<p>All year long, we’ll be celebrating 25 years of Halo with reminiscences and retrospectives on the...",
       "url": "https://www.halowaypoint.com/news/25th-anniversary-log-in-unlock",
       "publishedAt": "2026-01-01T20:17:22Z",
-      "processed_at": "2026-01-02T23:20:31.065967+00:00"
+      "processed_at": "2026-01-03T01:46:29.276730+00:00"
     },
     {
       "title": "Research roundup: 7 cool science stories we almost missed - Ars Technica",
@@ -60,7 +70,17 @@
       "description": "Double-detonating \"superkilonova,\" Roman liquid gypsum burials, biomechanics of kangaroo posture, an...",
       "url": "https://arstechnica.com/science/2026/01/research-roundup-7-cool-science-stories-we-almost-missed-2/",
       "publishedAt": "2026-01-01T19:43:45Z",
-      "processed_at": "2026-01-02T23:20:31.065967+00:00"
+      "processed_at": "2026-01-03T01:46:29.276730+00:00"
+    },
+    {
+      "title": "AI chip boom to push global consumer electronics prices up in 2026 - Seeking Alpha",
+      "source": {
+        "name": "Seeking Alpha"
+      },
+      "description": "AI-driven chip shortages could push consumer electronics prices up 5–20% in 2026....",
+      "url": "https://seekingalpha.com/news/4536179-ai-chip-boom-to-push-global-consumer-electronics-prices-up-in-2026",
+      "publishedAt": "2026-01-01T18:28:13Z",
+      "processed_at": "2026-01-03T01:46:29.276730+00:00"
     },
     {
       "title": "LG’s new karaoke-ready party speaker uses AI to remove song vocals - The Verge",
@@ -70,40 +90,20 @@
       "description": "LG is launching four new Xboom speakers, with the karaoke-friendly Stage 501 coming with an AI-power...",
       "url": "https://www.theverge.com/news/852362/lg-xboom-stage-501-karaoke-launch-ces-2026",
       "publishedAt": "2026-01-01T18:16:10Z",
-      "processed_at": "2026-01-02T23:20:31.065967+00:00"
+      "processed_at": "2026-01-03T01:46:29.276730+00:00"
     },
     {
-      "title": "2026: Showtime for Android XR glasses - 9to5Google",
+      "title": "Valve's Linux Efforts, Kernel Improvements & KDE Plasma Wayland Advancements Topped 2025 - Phoronix",
       "source": {
-        "name": "9to5google.com"
+        "name": "Phoronix"
       },
-      "description": "During my hands-on with Android XR glasses last month, I kept returning to the digital clock that wa...",
-      "url": "http://9to5google.com/2026/01/01/android-xr-glasses-2026/",
-      "publishedAt": "2026-01-01T17:05:00Z",
-      "processed_at": "2026-01-02T23:20:31.065967+00:00"
-    },
-    {
-      "title": "Turn Over a New Leaf with Budew in Pokémon Trading Card Game Live - Pokemon.com",
-      "source": {
-        "name": "Pokemon.com"
-      },
-      "description": "Budew was a breakout star of 2025, and Pokémon TCG Live is itching to celebrate with deck cosmetics,...",
-      "url": "https://www.pokemon.com/us/pokemon-news/turn-over-a-new-leaf-with-budew-in-pokemon-trading-card-game-live",
-      "publishedAt": "2026-01-01T17:04:45Z",
-      "processed_at": "2026-01-02T23:20:31.065967+00:00"
-    },
-    {
-      "title": "No iPhone 18 Launch This Year, Reports Suggest - MacRumors",
-      "source": {
-        "name": "MacRumors"
-      },
-      "description": "Apple is not expected to release a standard iPhone 18 model this year, according to a growing number...",
-      "url": "https://www.macrumors.com/2026/01/01/no-iphone-18-launch-this-year/",
-      "publishedAt": "2026-01-01T16:43:10Z",
-      "processed_at": "2026-01-02T23:20:31.065967+00:00"
+      "description": "After looking yesterday at the most viewed Linux hardware reviews and benchmarks of 2025, today's lo...",
+      "url": "https://www.phoronix.com/news/Top-Linux-News-2025",
+      "publishedAt": "2026-01-01T17:50:00Z",
+      "processed_at": "2026-01-03T01:46:29.276730+00:00"
     }
   ],
-  "lastUpdated": "2026-01-02T23:20:31.066042+00:00",
+  "lastUpdated": "2026-01-03T01:46:29.276805+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
