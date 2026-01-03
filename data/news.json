@@ -1,16 +1,96 @@
 {
   "status": "success",
-  "totalResults": 9,
+  "totalResults": 10,
   "articles": [
     {
-      "title": "People Are Sharing The \"Harmless\" Things That Actually Make Society Worse - BuzzFeed",
+      "title": "Best smartwatch deal: Get $50 off the Google Pixel Watch 4 at Amazon - Mashable",
       "source": {
-        "name": "Buzzfeed"
+        "name": "Mashable"
       },
-      "description": "",
-      "url": "https://www.buzzfeed.com/kristenharris1/harmless-things-ruining-society",
-      "publishedAt": "2026-01-02T16:31:02Z",
-      "processed_at": "2026-01-03T20:24:11.388667+00:00"
+      "description": "Keep an eye on your fitness along with your entire day, right from your wrist....",
+      "url": "https://mashable.com/article/dec-31-google-pixel-watch-4-deal",
+      "publishedAt": "2026-01-02T19:17:55Z",
+      "processed_at": "2026-01-03T21:19:40.516718+00:00"
+    },
+    {
+      "title": "What product categories do you want Google Pixel to enter? - 9to5Google",
+      "source": {
+        "name": "9to5google.com"
+      },
+      "description": "Remember Google Clips? The not-quite-a-GoPro that used AI to automatically capture key moments was r...",
+      "url": "http://9to5google.com/2026/01/02/google-pixel-product-categories/",
+      "publishedAt": "2026-01-02T19:05:00Z",
+      "processed_at": "2026-01-03T21:19:40.516718+00:00"
+    },
+    {
+      "title": "Alexa users are infuriated by device’s ‘teenage girl’ voice: ‘Scared the s–t out of me’ - New York Post",
+      "source": {
+        "name": "New York Post"
+      },
+      "description": "“It sounds like I’m talking to a teenage girl, wayyyy too peppy for me at 6 o’clock in the morning. ...",
+      "url": "https://nypost.com/2026/01/02/tech/alexa-users-infuriated-by-devices-teenage-girl-voice/",
+      "publishedAt": "2026-01-02T18:04:00Z",
+      "processed_at": "2026-01-03T21:19:40.516718+00:00"
+    },
+    {
+      "title": "10 useful gadgets for your first apartment - TechCrunch",
+      "source": {
+        "name": "TechCrunch"
+      },
+      "description": "From home security systems and smart smoke detectors to a sunrise alarm gently that wakes you up, he...",
+      "url": "https://techcrunch.com/2026/01/02/10-useful-gadgets-for-your-first-apartment/",
+      "publishedAt": "2026-01-02T18:00:00Z",
+      "processed_at": "2026-01-03T21:19:40.516718+00:00"
+    },
+    {
+      "title": "Another AirPods Pro 3 model is coming, with one rumored upgrade - 9to5Mac",
+      "source": {
+        "name": "9to5Mac"
+      },
+      "description": "AirPods Pro 3 launched just a few months ago, but rumors indicate there’s a second model coming this...",
+      "url": "https://9to5mac.com/2026/01/02/another-airpods-pro-3-model-is-coming-with-one-rumored-upgrade/",
+      "publishedAt": "2026-01-02T17:47:00Z",
+      "processed_at": "2026-01-03T21:19:40.516718+00:00"
+    },
+    {
+      "title": "AI Is Fueling The First Gaming Price Hike Of 2026 - Kotaku",
+      "source": {
+        "name": "Kotaku"
+      },
+      "description": "Asus warned partners that devices like the Xbox Ally X could be getting more expensive...",
+      "url": "https://kotaku.com/asus-rog-ally-price-increase-nvidia-amd-ai-ps6-delay-2000656448",
+      "publishedAt": "2026-01-02T17:25:18Z",
+      "processed_at": "2026-01-03T21:19:40.516718+00:00"
+    },
+    {
+      "title": "5 DeWalt Gadgets Users Swear By - bgr.com",
+      "source": {
+        "name": "BGR"
+      },
+      "description": "Did you know DeWalt makes headphones? Check out our list of 5 surprising, user-approved gadgets, inc...",
+      "url": "https://www.bgr.com/2062038/best-dewalt-gadgets-users-swear-by/",
+      "publishedAt": "2026-01-02T17:17:00Z",
+      "processed_at": "2026-01-03T21:19:40.516718+00:00"
+    },
+    {
+      "title": "Low-Price 12.9-Inch MacBook With A18 Pro Chip Reportedly Launching Early This Year - MacRumors",
+      "source": {
+        "name": "MacRumors"
+      },
+      "description": "Apple plans to introduce a 12.9-inch MacBook in spring 2026, according to TrendForce.   In a press r...",
+      "url": "https://www.macrumors.com/2026/01/02/12-9-inch-macbook-spring-2026-rumor/",
+      "publishedAt": "2026-01-02T17:08:34Z",
+      "processed_at": "2026-01-03T21:19:40.516718+00:00"
+    },
+    {
+      "title": "Soldier’s M1 MacBook Air stops artillery shell fragment, yet still works - 9to5Mac",
+      "source": {
+        "name": "9to5Mac"
+      },
+      "description": "A Ukrainian solider has posted about his M1 MacBook Air stopping an artillery shell fragment, and co...",
+      "url": "https://9to5mac.com/2026/01/02/soldiers-m1-macbook-air-stops-artillery-shell-fragment-yet-still-works/",
+      "publishedAt": "2026-01-02T16:46:00Z",
+      "processed_at": "2026-01-03T21:19:40.516718+00:00"
     },
     {
       "title": "The Questions I Have About ‘Destiny 2’ In 2026 - Forbes",
@@ -20,80 +100,10 @@
       "description": "Destiny 2 is entering another year in 2026, and there are many questions to ask about where it's goi...",
       "url": "https://www.forbes.com/sites/paultassi/2026/01/02/the-questions-i-have-about-destiny-2-in-2026/",
       "publishedAt": "2026-01-02T16:29:46Z",
-      "processed_at": "2026-01-03T20:24:11.388667+00:00"
-    },
-    {
-      "title": "Here’s what to expect from Apple in January - 9to5Mac",
-      "source": {
-        "name": "9to5Mac"
-      },
-      "description": "Apple may kick off its busy 2026 with new Macs, iPads, and software updates as soon as January. Here...",
-      "url": "https://9to5mac.com/2026/01/02/heres-what-to-expect-from-apple-in-january/",
-      "publishedAt": "2026-01-02T15:52:00Z",
-      "processed_at": "2026-01-03T20:24:11.388667+00:00"
-    },
-    {
-      "title": "See the new and improved Captain Titus with free datasheets for the Wardens of Ultramar - Warhammer Community",
-      "source": {
-        "name": "Warhammer-community.com"
-      },
-      "description": "Check out the rules for Titus and his new command team....",
-      "url": "https://www.warhammer-community.com/articles/aa1dpgac/see-the-new-and-improved-captain-titus-with-free-datasheets-for-the-wardens-of-ultramar",
-      "publishedAt": "2026-01-02T14:57:29Z",
-      "processed_at": "2026-01-03T20:24:11.388667+00:00"
-    },
-    {
-      "title": "Should you invest in a NAS system at home to store your data? I did, and it's already paying off - ZDNET",
-      "source": {
-        "name": "ZDNet"
-      },
-      "description": "If you're looking to break away from third-party file and directory storage, this model from Terrama...",
-      "url": "https://www.zdnet.com/home-and-office/networking/terramaster-f4-425-nas-storage-review/",
-      "publishedAt": "2026-01-02T14:56:00Z",
-      "processed_at": "2026-01-03T20:24:11.388667+00:00"
-    },
-    {
-      "title": "Report: Apple Vision Pro Is Still Failing to Catch On - MacRumors",
-      "source": {
-        "name": "MacRumors"
-      },
-      "description": "Apple's Vision Pro headset is still failing to see appeal among consumers, according to a new report...",
-      "url": "https://www.macrumors.com/2026/01/02/vision-pro-still-failing-to-catch-on/",
-      "publishedAt": "2026-01-02T14:41:37Z",
-      "processed_at": "2026-01-03T20:24:11.388667+00:00"
-    },
-    {
-      "title": "AMD and Nvidia will reportedly raise GPU prices \"significantly\" in 2026 - Eurogamer",
-      "source": {
-        "name": "Eurogamer.net"
-      },
-      "description": "AMD and Nvidia will reportedly raise GPU prices \"significantly\" in 2026, according to a report by Ne...",
-      "url": "https://www.eurogamer.net/amd-and-nvidia-will-reportedly-raise-gpu-prices-significantly-in-2026",
-      "publishedAt": "2026-01-02T14:07:52Z",
-      "processed_at": "2026-01-03T20:24:11.388667+00:00"
-    },
-    {
-      "title": "Parental Controls Aren't for Parents - Hacker News",
-      "source": {
-        "name": "Hacker News"
-      },
-      "description": "",
-      "url": "https://news.ycombinator.com/item?id\\\\u003d46464652",
-      "publishedAt": "2026-01-02T14:05:48Z",
-      "processed_at": "2026-01-03T20:24:11.388667+00:00"
-    },
-    {
-      "title": "Stay active in the new year with Apple Watch - Apple",
-      "source": {
-        "name": "Apple Newsroom"
-      },
-      "description": "Apple Fitness+ is introducing new programming to help users to stay active and motivated to kick off...",
-      "url": "https://www.apple.com/newsroom/2026/01/stay-active-in-the-new-year-with-apple-watch/",
-      "publishedAt": "2026-01-02T14:00:40Z",
-      "processed_at": "2026-01-03T20:24:11.388667+00:00"
+      "processed_at": "2026-01-03T21:19:40.516718+00:00"
     }
   ],
-  "lastUpdated": "2026-01-03T20:24:11.388739+00:00",
+  "lastUpdated": "2026-01-03T21:19:40.516791+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
