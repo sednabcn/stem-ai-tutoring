@@ -1,6 +1,6 @@
 {
   "status": "success",
-  "totalResults": 10,
+  "totalResults": 9,
   "articles": [
     {
       "title": "Tipster reveals 10 spectacular upgrades for the Galaxy S26 Ultra - PhoneArena",
@@ -10,17 +10,27 @@
       "description": "The top-of-the-line Samsung Galaxy S26 Ultra will be much improved over last year's model....",
       "url": "https://www.phonearena.com/news/tipster-lists-10-upgrades-for-the-galaxy-s26-ultra_id176988",
       "publishedAt": "2026-01-02T00:29:45Z",
-      "processed_at": "2026-01-03T04:33:48.361580+00:00"
+      "processed_at": "2026-01-03T05:23:13.568796+00:00"
     },
     {
-      "title": "A website to destroy all websites - Hacker News",
+      "title": "Remember when setting up a Windows PC didn’t feel like harassment? - The Verge",
       "source": {
-        "name": "Hacker News"
+        "name": "The Verge"
       },
       "description": "",
-      "url": "https://news.ycombinator.com/item?id\\\\u003d46457784",
-      "publishedAt": "2026-01-01T21:32:03Z",
-      "processed_at": "2026-01-03T04:33:48.361580+00:00"
+      "url": "https://www.theverge.com/tech/852448/remember-when-setting-up-a-windows-pc-didnt-feel-like-harassment",
+      "publishedAt": "2026-01-01T22:22:22Z",
+      "processed_at": "2026-01-03T05:23:13.568796+00:00"
+    },
+    {
+      "title": "Swansea man swaps personal trainer for AI and is 'strongest ever' - BBC",
+      "source": {
+        "name": "BBC News"
+      },
+      "description": "Could AI be changing the fitness industry by offering a cheaper alternative to personal trainers?...",
+      "url": "https://www.bbc.com/news/articles/c04vk5z92veo",
+      "publishedAt": "2026-01-01T21:51:10Z",
+      "processed_at": "2026-01-03T05:23:13.568796+00:00"
     },
     {
       "title": "Linux is good now - Hacker News",
@@ -30,7 +40,7 @@
       "description": "",
       "url": "https://news.ycombinator.com/item?id\\\\u003d46457770",
       "publishedAt": "2026-01-01T21:16:06Z",
-      "processed_at": "2026-01-03T04:33:48.361580+00:00"
+      "processed_at": "2026-01-03T05:23:13.568796+00:00"
     },
     {
       "title": "Playmobil versus Lego: Which is the best USS Enterprise set? - Space",
@@ -40,7 +50,7 @@
       "description": "It's Playmobil versus Lego in this battle of the best U.S.S. Enterprise models on the market: Find o...",
       "url": "https://www.space.com/entertainment/space-toys-lego/playmobil-versus-lego-which-is-the-best-uss-enterprise-set",
       "publishedAt": "2026-01-01T21:05:00Z",
-      "processed_at": "2026-01-03T04:33:48.361580+00:00"
+      "processed_at": "2026-01-03T05:23:13.568796+00:00"
     },
     {
       "title": "These AA batteries charge over USB-C and genuinely impressed me. - The Verge",
@@ -50,7 +60,7 @@
       "description": "",
       "url": "https://www.theverge.com/gadgets/852436/aa-batteries-usb-c-lithium-ion-coast-zepath-titw",
       "publishedAt": "2026-01-01T20:49:10Z",
-      "processed_at": "2026-01-03T04:33:48.361580+00:00"
+      "processed_at": "2026-01-03T05:23:13.568796+00:00"
     },
     {
       "title": "NVIDIA Graphics On Haiku OS Make Progress With NVIDIA Open Kernel Modules + NVK/Zink - Phoronix",
@@ -60,17 +70,7 @@
       "description": "As a wonderful New Year surprise, there's good momentum on NVIDIA graphics support for the BeOS-insp...",
       "url": "https://www.phoronix.com/news/NVIDIA-Haiku-0.0.1",
       "publishedAt": "2026-01-01T20:20:00Z",
-      "processed_at": "2026-01-03T04:33:48.361580+00:00"
-    },
-    {
-      "title": "\"Limited Run Games Has Been My Life For Ten Years\" - Josh Fairhurst Announces He's Stepping Away - Time Extension",
-      "source": {
-        "name": "Timeextension.com"
-      },
-      "description": "\"It wasn't an easy decision to make\"...",
-      "url": "https://www.timeextension.com/news/2026/01/limited-run-games-has-been-my-life-for-ten-years-josh-fairhurst-announces-hes-stepping-away",
-      "publishedAt": "2026-01-01T20:18:31Z",
-      "processed_at": "2026-01-03T04:33:48.361580+00:00"
+      "processed_at": "2026-01-03T05:23:13.568796+00:00"
     },
     {
       "title": "25th Anniversary Log-in Unlock - Halo Waypoint",
@@ -80,7 +80,7 @@
       "description": "<p>All year long, we’ll be celebrating 25 years of Halo with reminiscences and retrospectives on the...",
       "url": "https://www.halowaypoint.com/news/25th-anniversary-log-in-unlock",
       "publishedAt": "2026-01-01T20:17:22Z",
-      "processed_at": "2026-01-03T04:33:48.361580+00:00"
+      "processed_at": "2026-01-03T05:23:13.568796+00:00"
     },
     {
       "title": "Research roundup: 7 cool science stories we almost missed - Ars Technica",
@@ -90,20 +90,10 @@
       "description": "Double-detonating \"superkilonova,\" Roman liquid gypsum burials, biomechanics of kangaroo posture, an...",
       "url": "https://arstechnica.com/science/2026/01/research-roundup-7-cool-science-stories-we-almost-missed-2/",
       "publishedAt": "2026-01-01T19:43:45Z",
-      "processed_at": "2026-01-03T04:33:48.361580+00:00"
-    },
-    {
-      "title": "AI chip boom to push global consumer electronics prices up in 2026 - Seeking Alpha",
-      "source": {
-        "name": "Seeking Alpha"
-      },
-      "description": "AI-driven chip shortages could push consumer electronics prices up 5–20% in 2026....",
-      "url": "https://seekingalpha.com/news/4536179-ai-chip-boom-to-push-global-consumer-electronics-prices-up-in-2026",
-      "publishedAt": "2026-01-01T18:28:13Z",
-      "processed_at": "2026-01-03T04:33:48.361580+00:00"
+      "processed_at": "2026-01-03T05:23:13.568796+00:00"
     }
   ],
-  "lastUpdated": "2026-01-03T04:33:48.361649+00:00",
+  "lastUpdated": "2026-01-03T05:23:13.568882+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
