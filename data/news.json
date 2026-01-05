@@ -1,7 +1,47 @@
 {
   "status": "success",
-  "totalResults": 10,
+  "totalResults": 9,
   "articles": [
+    {
+      "title": "Baseus’ new desktop dock includes a Qi2 25W charger - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "And it can support 4K@120Hz output, though only to one monitor at once....",
+      "url": "https://www.theverge.com/tech/850811/baseus-rd1-pro-desktop-dock-qi2-25w",
+      "publishedAt": "2026-01-04T14:00:00Z",
+      "processed_at": "2026-01-05T15:26:38.356336+00:00"
+    },
+    {
+      "title": "This startup brought WALL-E to life and will also sell you WALL-E’s weird cousin - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "A robotics startup called Zeroth is launching a home companion robot in the US that resembles Disney...",
+      "url": "https://www.theverge.com/tech/852956/zeroth-wall-e-robot-w1-m1-ces-2026",
+      "publishedAt": "2026-01-04T14:00:00Z",
+      "processed_at": "2026-01-05T15:26:38.356336+00:00"
+    },
+    {
+      "title": "German retailer claims it can’t sell RTX 5090, RTX 5080, or RTX 5070 Ti due to \"current market conditions\" - VideoCardz.com",
+      "source": {
+        "name": "Videocardz.com"
+      },
+      "description": "German retailer says RTX 5070 orders are capped, RTX 5070 Ti and up are unavailable Source: Newegg A...",
+      "url": "https://videocardz.com/newz/german-retailer-claims-it-cant-sell-rtx-5090-rtx-5080-or-rtx-5070-ti-due-to-current-market-conditions",
+      "publishedAt": "2026-01-04T13:48:00Z",
+      "processed_at": "2026-01-05T15:26:38.356336+00:00"
+    },
+    {
+      "title": "Govee’s latest smart lights can make your ceiling more interesting - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "Govee announced the Sky Ceiling Light and Ceiling Light Ultra at CES 2026. No prices or launch dates...",
+      "url": "https://www.theverge.com/tech/853006/govee-sky-ceiling-light-ultra-specs",
+      "publishedAt": "2026-01-04T13:00:00Z",
+      "processed_at": "2026-01-05T15:26:38.356336+00:00"
+    },
     {
       "title": "Jackery’s solar-powered Gazebo is a good DIY idea - The Verge",
       "source": {
@@ -10,7 +50,7 @@
       "description": "The Jackery Gazebo is fitted with 2,000W of solar panels, integrated lighting, a pull-down projectio...",
       "url": "https://www.theverge.com/tech/852600/jackerys-solar-powered-gazebo-is-a-good-diy-idea",
       "publishedAt": "2026-01-04T13:00:00Z",
-      "processed_at": "2026-01-05T14:26:41.604913+00:00"
+      "processed_at": "2026-01-05T15:26:38.356336+00:00"
     },
     {
       "title": "Subtle releases ear buds with its noise cancelation models - TechCrunch",
@@ -20,7 +60,7 @@
       "description": "Subtle's new $199 earbuds will also let you dictate in any app on desktop or phone...",
       "url": "https://techcrunch.com/2026/01/04/subtle-releases-ear-buds-with-its-noise-cancelation-models/",
       "publishedAt": "2026-01-04T12:00:00Z",
-      "processed_at": "2026-01-05T14:26:41.604913+00:00"
+      "processed_at": "2026-01-05T15:26:38.356336+00:00"
     },
     {
       "title": "AI Needs More Power and Big Tech Is Running Out of Earth - TipRanks",
@@ -30,80 +70,30 @@
       "description": "Big technology companies are starting to look beyond Earth to solve a growing AI problem. The issue ...",
       "url": "https://www.tipranks.com/news/ai-needs-more-power-and-big-tech-is-running-out-of-earth",
       "publishedAt": "2026-01-04T10:57:46Z",
-      "processed_at": "2026-01-05T14:26:41.604913+00:00"
+      "processed_at": "2026-01-05T15:26:38.356336+00:00"
     },
     {
-      "title": "LEAK: The Sims 4 Royalty & Legacy is The Next Expansion Pack Title - Sims Community",
+      "title": "This Week in Gaming (Week 2) - TechPowerUp",
       "source": {
-        "name": "Simscommunity.info"
+        "name": "Techpowerup.com"
       },
-      "description": "All the rumors about the last Sims 4 Expansion Pack are coming true. The official title of the next,...",
-      "url": "https://simscommunity.info/2026/01/04/leak-the-sims-4-royalty-legacy-expansion/",
-      "publishedAt": "2026-01-04T09:19:35Z",
-      "processed_at": "2026-01-05T14:26:41.604913+00:00"
+      "description": "Welcome to the first full week of 2026 and we kick off the week with a survival horror game where yo...",
+      "url": "https://www.techpowerup.com/344646/this-week-in-gaming-week-2",
+      "publishedAt": "2026-01-04T10:50:41Z",
+      "processed_at": "2026-01-05T15:26:38.356336+00:00"
     },
     {
-      "title": "Are We Ready For AR Smart Glasses Yet? - Hackaday",
+      "title": "Big Tech turned me down. At Walmart, I found a career opportunity, work-life balance, and good food. - Business Insider",
       "source": {
-        "name": "Hackaday"
+        "name": "Business Insider"
       },
-      "description": "In a recent article from IEEE Spectrum, [Alfred Poor] asks the question what do consumers really wan...",
-      "url": "https://hackaday.com/2026/01/04/are-we-ready-for-ar-smart-glasses-yet/",
-      "publishedAt": "2026-01-04T09:00:00Z",
-      "processed_at": "2026-01-05T14:26:41.604913+00:00"
-    },
-    {
-      "title": "ASUS launches ROG Swift 4th Gen Tandem OLED PG27UCWM and QD-OLED PG34WCDN monitors - VideoCardz.com",
-      "source": {
-        "name": "Videocardz.com"
-      },
-      "description": "ASUS reveals two ROG Swift OLED monitors for CES 2026: PG34WCDN and PG27UCWM ASUS is expanding its R...",
-      "url": "https://videocardz.com/newz/asus-launches-rog-swift-4th-gen-tandem-oled-pg27ucwm-and-qd-oled-pg34wcdn-monitors",
-      "publishedAt": "2026-01-04T08:20:00Z",
-      "processed_at": "2026-01-05T14:26:41.604913+00:00"
-    },
-    {
-      "title": "These are the best new MacBook Air and MacBook Pro deals in January so far - 9to5Mac",
-      "source": {
-        "name": "9to5Mac"
-      },
-      "description": "If you’re looking to kick off the new year with a new MacBook, now’s a fantastic time to buy. In......",
-      "url": "https://9to5mac.com/2026/01/03/best-apple-macbook-deals-in-january-2026/",
-      "publishedAt": "2026-01-04T02:00:00Z",
-      "processed_at": "2026-01-05T14:26:41.604913+00:00"
-    },
-    {
-      "title": "The Rare British Roadster That Helped Inspire The Mazda Miata - Jalopnik",
-      "source": {
-        "name": "Jalopnik"
-      },
-      "description": "Modestly powered and fun to drive, the Lotus Elan was the inspiration behind the Mazda Miata, and it...",
-      "url": "https://www.jalopnik.com/2058949/rare-british-roadster-that-inspired-mazda-miata/",
-      "publishedAt": "2026-01-04T00:25:00Z",
-      "processed_at": "2026-01-05T14:26:41.604913+00:00"
-    },
-    {
-      "title": "Alleged First Look at The Sims Project X Character Design - Sims Community",
-      "source": {
-        "name": "Simscommunity.info"
-      },
-      "description": "The rumors about The Sims Project X keep spreading like wildfire. First we got some talks spreading ...",
-      "url": "https://simscommunity.info/2026/01/04/the-sims-project-x-character-leak/",
-      "publishedAt": "2026-01-04T00:14:36Z",
-      "processed_at": "2026-01-05T14:26:41.604913+00:00"
-    },
-    {
-      "title": "Can You Use Apple CarPlay Without Cell Service? - bgr.com",
-      "source": {
-        "name": "BGR"
-      },
-      "description": "Apple CarPlay comes in handy during your travels, but will it work when you don't have cell service?...",
-      "url": "https://www.bgr.com/2063902/use-apple-carplay-without-cell-service/",
-      "publishedAt": "2026-01-03T23:17:00Z",
-      "processed_at": "2026-01-05T14:26:41.604913+00:00"
+      "description": "This software engineer couldn't land a Big Tech job — but says his Walmart role gave him everything ...",
+      "url": "https://www.businessinsider.com/software-engineer-walmart-job-search-advice-big-tech-market-internship-2026-1",
+      "publishedAt": "2026-01-04T10:28:00Z",
+      "processed_at": "2026-01-05T15:26:38.356336+00:00"
     }
   ],
-  "lastUpdated": "2026-01-05T14:26:41.605001+00:00",
+  "lastUpdated": "2026-01-05T15:26:38.356408+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
