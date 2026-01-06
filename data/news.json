@@ -3,6 +3,16 @@
   "totalResults": 6,
   "articles": [
     {
+      "title": "ASUS unveils ROG XREAL R1 AR gaming glasses offering 171-inch virtual screen for handhelds, PCs and consoles - VideoCardz.com",
+      "source": {
+        "name": "Videocardz.com"
+      },
+      "description": "ASUS shows ROG XREAL R1 AR gaming glasses with 240Hz micro-OLED and a 171-inch virtual screen ASUS i...",
+      "url": "https://videocardz.com/newz/asus-unveils-rog-xreal-r1-ar-gaming-glasses-offering-171-inch-virtual-screen-for-handhelds-pcs-and-consoles",
+      "publishedAt": "2026-01-05T08:02:00Z",
+      "processed_at": "2026-01-06T09:28:18.799738+00:00"
+    },
+    {
       "title": "AI start-ups take on Google in fight to reshape web browser market - Financial Times",
       "source": {
         "name": "Financial Times"
@@ -10,7 +20,7 @@
       "description": "OpenAI and Perplexity are betting cutting-edge technology will transform the way people access the i...",
       "url": "https://www.ft.com/content/5d566029-6aee-4627-a665-81108a1eb70e",
       "publishedAt": "2026-01-05T05:00:11Z",
-      "processed_at": "2026-01-06T08:34:12.737353+00:00"
+      "processed_at": "2026-01-06T09:28:18.799738+00:00"
     },
     {
       "title": "I just want to keep unfolding the Samsung Z Trifold - The Verge",
@@ -20,7 +30,17 @@
       "description": "The Galaxy Z Trifold really is a tablet with a phone attached. With a desktop mode included, it just...",
       "url": "https://www.theverge.com/tech/854352/samsung-galaxy-z-trifold-hands-on",
       "publishedAt": "2026-01-05T04:02:00Z",
-      "processed_at": "2026-01-06T08:34:12.737353+00:00"
+      "processed_at": "2026-01-06T09:28:18.799738+00:00"
+    },
+    {
+      "title": "LG’s Wallpaper OLED TV returns to CES, and it’s wafer thin - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "The W6 Wallpaper TV from LG will have a Zero Connect Box and use LG’s new Hyper Radiant Color Techno...",
+      "url": "https://www.theverge.com/tech/853886/lgs-wallpaper-oled-tv-returns-to-ces-and-its-wafer-thin",
+      "publishedAt": "2026-01-05T03:00:00Z",
+      "processed_at": "2026-01-06T09:28:18.799738+00:00"
     },
     {
       "title": "Voice control comes to Samsung’s smart fridges - The Verge",
@@ -30,7 +50,7 @@
       "description": "Voice control opening and closing comes to Samsung’s Family Hub smart fridges....",
       "url": "https://www.theverge.com/tech/853758/shut-the-fridge-door",
       "publishedAt": "2026-01-05T03:00:00Z",
-      "processed_at": "2026-01-06T08:34:12.737353+00:00"
+      "processed_at": "2026-01-06T09:28:18.799738+00:00"
     },
     {
       "title": "Watch The Intel CES 2026 Launch Event Live Here: Panther Lake Official, Refreshed CPUs & New AI Updates Expected - Wccftech",
@@ -40,30 +60,10 @@
       "description": "Intel will officially launch its next-generation Panther Lake Core Ultra Series 3 CPUs, along with s...",
       "url": "https://wccftech.com/watch-intel-ces-2026-launch-event-live-here-panther-lake-official/",
       "publishedAt": "2026-01-05T02:30:00Z",
-      "processed_at": "2026-01-06T08:34:12.737353+00:00"
-    },
-    {
-      "title": "The new Ultraloq smart lock uses both your face and your palm to let you in - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "Ultraloq is launching a smart lock that reads your palm and a new camera that works on HaLow Wi-Fi f...",
-      "url": "https://www.theverge.com/tech/853844/ultraloq-ces-smart-lock-face-palm-reading",
-      "publishedAt": "2026-01-05T02:00:00Z",
-      "processed_at": "2026-01-06T08:34:12.737353+00:00"
-    },
-    {
-      "title": "Ikea’s new $4 USB-C charger is cheaper than Apple’s and Anker’s - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "﻿You’ll feel a little less guilty about forgetting or losing Ikea’s new 20W Sjöss charger....",
-      "url": "https://www.theverge.com/tech/854333/ikea-sjoss-20w-usb-c-wall-charger",
-      "publishedAt": "2026-01-05T01:54:00Z",
-      "processed_at": "2026-01-06T08:34:12.737353+00:00"
+      "processed_at": "2026-01-06T09:28:18.799738+00:00"
     }
   ],
-  "lastUpdated": "2026-01-06T08:34:12.737405+00:00",
+  "lastUpdated": "2026-01-06T09:28:18.799792+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
