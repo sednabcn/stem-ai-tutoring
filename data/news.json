@@ -1,7 +1,57 @@
 {
   "status": "success",
-  "totalResults": 10,
+  "totalResults": 9,
   "articles": [
+    {
+      "title": "Qualcomm’s next-gen Snapdragon X2 laptops are here — and they brought a new friend - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "Qualcomm has announced the Snapdragon X2 Plus, and says both it and the Snapdragon X2 Elite should b...",
+      "url": "https://www.theverge.com/tech/853851/qualcomm-snapdragon-x2-plus-elite-laptops-price-ces-2026",
+      "publishedAt": "2026-01-05T17:00:00Z",
+      "processed_at": "2026-01-06T17:24:31.577693+00:00"
+    },
+    {
+      "title": "HP’s latest OmniBooks are getting chip bumps and OLED screens - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "HP has announced a revamped lineup of OmniBook productivity laptops at CES, including its latest AI-...",
+      "url": "https://www.theverge.com/tech/854240/hp-omnibook-ultra-14-3-5-7-x-laptop-updates-ces-2026",
+      "publishedAt": "2026-01-05T17:00:00Z",
+      "processed_at": "2026-01-06T17:24:31.577693+00:00"
+    },
+    {
+      "title": "Anker’s Eufy finally launches its first Android Find Hub tracker for $35 - 9to5Google",
+      "source": {
+        "name": "9to5google.com"
+      },
+      "description": "It’s been a couple of years since Eufy, one of the brands under Anker’s umbrella, first announced it...",
+      "url": "http://9to5google.com/2026/01/05/ankers-eufy-finally-launches-its-first-android-find-hub-tracker-for-35/",
+      "publishedAt": "2026-01-05T16:39:00Z",
+      "processed_at": "2026-01-06T17:24:31.577693+00:00"
+    },
+    {
+      "title": "Google Messages tweaks the camera to show more of your gallery - 9to5Google",
+      "source": {
+        "name": "9to5google.com"
+      },
+      "description": "Google Messages is more widely rolling out some tweaks to the combined camera and gallery interface ...",
+      "url": "http://9to5google.com/2026/01/05/google-messages-camera-tweaks/",
+      "publishedAt": "2026-01-05T16:32:00Z",
+      "processed_at": "2026-01-06T17:24:31.577693+00:00"
+    },
+    {
+      "title": "Anker Teases a New Whole Home Hybrid Battery Backup System - Gizmodo",
+      "source": {
+        "name": "Gizmodo.com"
+      },
+      "description": "The company says it’s the first of its kind, but remains mum on the specifics....",
+      "url": "https://gizmodo.com/anker-teases-a-new-whole-home-hybrid-battery-backup-system-2000705254",
+      "publishedAt": "2026-01-05T16:00:03Z",
+      "processed_at": "2026-01-06T17:24:31.577693+00:00"
+    },
     {
       "title": "Review: EXT Arma V4 - One of the Best Shocks Gets Even Better - Pinkbike",
       "source": {
@@ -10,100 +60,40 @@
       "description": "No more topping out, and no special tools needed for trailside adjustments....",
       "url": "https://www.pinkbike.com/news/review-ext-arma-v4-one-of-the-best-mtb-shocks-gets-even-better.html",
       "publishedAt": "2026-01-05T16:00:00Z",
-      "processed_at": "2026-01-06T16:32:02.002720+00:00"
+      "processed_at": "2026-01-06T17:24:31.577693+00:00"
     },
     {
-      "title": "Beloved Final Fantasy artist Toshiyuki Itahana leaves Square Enix - Eurogamer",
-      "source": {
-        "name": "Eurogamer.net"
-      },
-      "description": "Toshiyuki Itahana has decided to go freelance following the 25th anniversary of Final Fantasy....",
-      "url": "https://www.eurogamer.net/beloved-final-fantasy-artist-toshiyuki-itahana-leaves-square-enix",
-      "publishedAt": "2026-01-05T15:39:24Z",
-      "processed_at": "2026-01-06T16:32:02.002720+00:00"
-    },
-    {
-      "title": "The State of Anti-Surveillance Design - 404 Media",
-      "source": {
-        "name": "404media.co"
-      },
-      "description": "The most effective surveillance-evading gear might already be in your closet....",
-      "url": "https://www.404media.co/the-state-of-anti-surveillance-design/",
-      "publishedAt": "2026-01-05T15:08:43Z",
-      "processed_at": "2026-01-06T16:32:02.002720+00:00"
-    },
-    {
-      "title": "Amazon revamps Fire TV, launches its own ‘Artline’ televisions with frames at CES - TechCrunch",
-      "source": {
-        "name": "TechCrunch"
-      },
-      "description": "Fire TV's new interface focuses on your content and offers easier, speedier navigation, Amazon says....",
-      "url": "https://techcrunch.com/2026/01/05/amazon-revamps-fire-tv-launches-its-own-artline-televisions-with-frames/",
-      "publishedAt": "2026-01-05T15:00:00Z",
-      "processed_at": "2026-01-06T16:32:02.002720+00:00"
-    },
-    {
-      "title": "Amazon’s AI assistant comes to the web with Alexa.com - TechCrunch",
-      "source": {
-        "name": "TechCrunch"
-      },
-      "description": "Amazon is bringing Alexa+ to the web with a new Alexa.com site, expanding its AI assistant beyond de...",
-      "url": "https://techcrunch.com/2026/01/05/alexa-without-an-echo-amazons-ai-chatbot-comes-to-the-web-and-a-revamped-alexa-app/",
-      "publishedAt": "2026-01-05T15:00:00Z",
-      "processed_at": "2026-01-06T16:32:02.002720+00:00"
-    },
-    {
-      "title": "Six new Apple products will launch early this year, here’s what’s coming - 9to5Mac",
-      "source": {
-        "name": "9to5Mac"
-      },
-      "description": "Here are six new Apple products that are currently rumored to be launching early this year, some of ...",
-      "url": "https://9to5mac.com/2026/01/05/six-apple-products-will-launch-early-this-year-heres-whats-coming/",
-      "publishedAt": "2026-01-05T14:59:00Z",
-      "processed_at": "2026-01-06T16:32:02.002720+00:00"
-    },
-    {
-      "title": "Celebrate store anniversaries in 2026 with an Aeldari Autarch and a Vampire Lord - Warhammer Community",
-      "source": {
-        "name": "Warhammer-community.com"
-      },
-      "description": "Here are this year’s anniversary miniatures....",
-      "url": "https://www.warhammer-community.com/articles/eekdls2v/celebrate-store-anniversaries-in-2026-with-an-aeldari-autarch-and-a-vampire-lord",
-      "publishedAt": "2026-01-05T14:57:31Z",
-      "processed_at": "2026-01-06T16:32:02.002720+00:00"
-    },
-    {
-      "title": "You can get Apple Fitness+ for free, here’s how - 9to5Mac",
-      "source": {
-        "name": "9to5Mac"
-      },
-      "description": "Apple Fitness+ just launched new programs designed to help build exercise habits, and there are seve...",
-      "url": "https://9to5mac.com/2026/01/05/you-can-get-apple-fitness-plus-for-free-heres-how/",
-      "publishedAt": "2026-01-05T14:36:00Z",
-      "processed_at": "2026-01-06T16:32:02.002720+00:00"
-    },
-    {
-      "title": "Twelve South’s Valet is a handsome place to put your stuff - The Verge",
+      "title": "Anker’s AeroFit 2 Pro can be worn as open-ear headphones or ANC earbuds - The Verge",
       "source": {
         "name": "The Verge"
       },
-      "description": "The $179.99 gadget can charge one device wirelessly and another via a cable and is meant to sit on y...",
-      "url": "https://www.theverge.com/tech/854124/twelve-south-valet-ces-2026",
-      "publishedAt": "2026-01-05T14:14:45Z",
-      "processed_at": "2026-01-06T16:32:02.002720+00:00"
+      "description": "Anker’s new AeroFit 2 Pro headphones can switch between open-ear and ANC modes and are joined by upg...",
+      "url": "https://www.theverge.com/tech/852887/anker-soundcore-aerofit-2-pro-sleep-a30-special-boom-go-3i-bluetooth-headphones-earbuds-speaker",
+      "publishedAt": "2026-01-05T16:00:00Z",
+      "processed_at": "2026-01-06T17:24:31.577693+00:00"
     },
     {
-      "title": "Microsoft Edge is getting a Copilot-inspired redesign - The Verge",
+      "title": "Final Fantasy IX's Character Designer Has Left Square Enix - Nintendo Life",
       "source": {
-        "name": "The Verge"
+        "name": "Nintendo Life"
       },
-      "description": "Microsoft is working on a UI refresh for its Edge browser. The major overhaul will see Edge get the ...",
-      "url": "https://www.theverge.com/news/854832/microsoft-edge-copilot-redesign-ui-features",
-      "publishedAt": "2026-01-05T14:14:36Z",
-      "processed_at": "2026-01-06T16:32:02.002720+00:00"
+      "description": "\"I felt this was the right moment\"...",
+      "url": "https://www.nintendolife.com/news/2026/01/final-fantasy-ixs-character-designer-has-left-square-enix",
+      "publishedAt": "2026-01-05T15:30:00Z",
+      "processed_at": "2026-01-06T17:24:31.577693+00:00"
+    },
+    {
+      "title": "CEO Of Lies Of P Publisher, Neowiz, Talks 2025, Overture Expansion, Release Strategy, Gen AI, And More - Game Informer",
+      "source": {
+        "name": "Gameinformer.com"
+      },
+      "description": "With 2025 behind us all, we spoke with Neowiz co-CEO to discuss the publisher's year....",
+      "url": "https://gameinformer.com/exclusive-interview/2026/01/05/ceo-of-lies-of-p-publisher-neowiz-talks-2025-overture-expansion",
+      "publishedAt": "2026-01-05T15:27:39Z",
+      "processed_at": "2026-01-06T17:24:31.577693+00:00"
     }
   ],
-  "lastUpdated": "2026-01-06T16:32:02.002795+00:00",
+  "lastUpdated": "2026-01-06T17:24:31.577775+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
