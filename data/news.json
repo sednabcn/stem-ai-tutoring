@@ -1,89 +1,109 @@
 {
   "status": "success",
-  "totalResults": 8,
+  "totalResults": 10,
   "articles": [
     {
-      "title": "Oops, League of Legends was briefly unplayable as Riot Games forgot to renew the digital licence - Eurogamer",
+      "title": "Review: EXT Arma V4 - One of the Best Shocks Gets Even Better - Pinkbike",
+      "source": {
+        "name": "Pinkbike.com"
+      },
+      "description": "No more topping out, and no special tools needed for trailside adjustments....",
+      "url": "https://www.pinkbike.com/news/review-ext-arma-v4-one-of-the-best-mtb-shocks-gets-even-better.html",
+      "publishedAt": "2026-01-05T16:00:00Z",
+      "processed_at": "2026-01-06T15:25:49.355280+00:00"
+    },
+    {
+      "title": "Beloved Final Fantasy artist Toshiyuki Itahana leaves Square Enix - Eurogamer",
       "source": {
         "name": "Eurogamer.net"
       },
-      "description": "League of Legends was rendered unplayable thanks to a digital certification expiration....",
-      "url": "https://www.eurogamer.net/oops-league-of-legends-was-briefly-unplayable-as-riot-games-forgot-to-renew-the-digital-licence",
-      "publishedAt": "2026-01-05T11:45:43Z",
-      "processed_at": "2026-01-06T14:25:21.796432+00:00"
+      "description": "Toshiyuki Itahana has decided to go freelance following the 25th anniversary of Final Fantasy....",
+      "url": "https://www.eurogamer.net/beloved-final-fantasy-artist-toshiyuki-itahana-leaves-square-enix",
+      "publishedAt": "2026-01-05T15:39:24Z",
+      "processed_at": "2026-01-06T15:25:49.355280+00:00"
     },
     {
-      "title": "CES 2026 Showcases the Future of TVs. Learn Which Display Tech Will Make the Biggest Splash - CNET",
+      "title": "The State of Anti-Surveillance Design - 404 Media",
       "source": {
-        "name": "CNET"
+        "name": "404media.co"
       },
-      "description": "From unprecedented levels of brightness to micro-LED backlights, here are the features we'll be look...",
-      "url": "https://www.cnet.com/tech/home-entertainment/forget-invisible-tvs-heres-the-display-tech-that-will-matter-at-ces-2026/",
-      "publishedAt": "2026-01-05T11:14:00Z",
-      "processed_at": "2026-01-06T14:25:21.796432+00:00"
+      "description": "The most effective surveillance-evading gear might already be in your closet....",
+      "url": "https://www.404media.co/the-state-of-anti-surveillance-design/",
+      "publishedAt": "2026-01-05T15:08:43Z",
+      "processed_at": "2026-01-06T15:25:49.355280+00:00"
     },
     {
-      "title": "Microsoft shares official ways to save GBs of disk on Windows 11/10 using free native tools - Neowin",
+      "title": "Amazon revamps Fire TV, launches its own ‘Artline’ televisions with frames at CES - TechCrunch",
       "source": {
-        "name": "Neowin"
+        "name": "TechCrunch"
       },
-      "description": "",
-      "url": "https://www.neowin.net/news/microsoft-shares-official-ways-to-save-gbs-of-disk-on-windows-1110-using-free-native-tools/",
-      "publishedAt": "2026-01-05T10:22:00Z",
-      "processed_at": "2026-01-06T14:25:21.796432+00:00"
+      "description": "Fire TV's new interface focuses on your content and offers easier, speedier navigation, Amazon says....",
+      "url": "https://techcrunch.com/2026/01/05/amazon-revamps-fire-tv-launches-its-own-artline-televisions-with-frames/",
+      "publishedAt": "2026-01-05T15:00:00Z",
+      "processed_at": "2026-01-06T15:25:49.355280+00:00"
     },
     {
-      "title": "MSI Stealth 16 AI+ features Core Ultra 300 CPU and RTX 50 GPU - VideoCardz.com",
+      "title": "Amazon’s AI assistant comes to the web with Alexa.com - TechCrunch",
       "source": {
-        "name": "Videocardz.com"
+        "name": "TechCrunch"
       },
-      "description": "MSI announces Stealth 16 AI+ with Intel Panther Lake and NVIDIA RTX 50 graphics MSI is rolling out t...",
-      "url": "https://videocardz.com/newz/msi-stealth-16-ai-features-core-ultra-300-cpu-and-rtx-50-gpu",
-      "publishedAt": "2026-01-05T10:00:00Z",
-      "processed_at": "2026-01-06T14:25:21.796432+00:00"
+      "description": "Amazon is bringing Alexa+ to the web with a new Alexa.com site, expanding its AI assistant beyond de...",
+      "url": "https://techcrunch.com/2026/01/05/alexa-without-an-echo-amazons-ai-chatbot-comes-to-the-web-and-a-revamped-alexa-app/",
+      "publishedAt": "2026-01-05T15:00:00Z",
+      "processed_at": "2026-01-06T15:25:49.355280+00:00"
     },
     {
-      "title": "ASUS unveils ROG XREAL R1 AR gaming glasses offering 171-inch virtual screen for handhelds, PCs and consoles - VideoCardz.com",
+      "title": "Six new Apple products will launch early this year, here’s what’s coming - 9to5Mac",
       "source": {
-        "name": "Videocardz.com"
+        "name": "9to5Mac"
       },
-      "description": "ASUS shows ROG XREAL R1 AR gaming glasses with 240Hz micro-OLED and a 171-inch virtual screen ASUS i...",
-      "url": "https://videocardz.com/newz/asus-unveils-rog-xreal-r1-ar-gaming-glasses-offering-171-inch-virtual-screen-for-handhelds-pcs-and-consoles",
-      "publishedAt": "2026-01-05T08:02:00Z",
-      "processed_at": "2026-01-06T14:25:21.796432+00:00"
+      "description": "Here are six new Apple products that are currently rumored to be launching early this year, some of ...",
+      "url": "https://9to5mac.com/2026/01/05/six-apple-products-will-launch-early-this-year-heres-whats-coming/",
+      "publishedAt": "2026-01-05T14:59:00Z",
+      "processed_at": "2026-01-06T15:25:49.355280+00:00"
     },
     {
-      "title": "New VVS Stealer Malware Targets Discord Accounts via Obfuscated Python Code - The Hacker News",
+      "title": "Celebrate store anniversaries in 2026 with an Aeldari Autarch and a Vampire Lord - Warhammer Community",
       "source": {
-        "name": "Internet"
+        "name": "Warhammer-community.com"
       },
-      "description": "VVS Stealer is a Python-based malware sold on Telegram that steals Discord tokens, browser data, and...",
-      "url": "https://thehackernews.com/2026/01/new-vvs-stealer-malware-targets-discord.html",
-      "publishedAt": "2026-01-05T07:48:00Z",
-      "processed_at": "2026-01-06T14:25:21.796432+00:00"
+      "description": "Here are this year’s anniversary miniatures....",
+      "url": "https://www.warhammer-community.com/articles/eekdls2v/celebrate-store-anniversaries-in-2026-with-an-aeldari-autarch-and-a-vampire-lord",
+      "publishedAt": "2026-01-05T14:57:31Z",
+      "processed_at": "2026-01-06T15:25:49.355280+00:00"
     },
     {
-      "title": "Finally, a computing accessory that both PC enthusiasts and professionals can be excited for - ZDNET",
+      "title": "You can get Apple Fitness+ for free, here’s how - 9to5Mac",
       "source": {
-        "name": "ZDNet"
+        "name": "9to5Mac"
       },
-      "description": "Hyper announced a release date for its much-anticipated TrackPad Pro ahead of CES 2026....",
-      "url": "https://www.zdnet.com/article/hyper-trackpad-pro-ces-news/",
-      "publishedAt": "2026-01-05T07:22:00Z",
-      "processed_at": "2026-01-06T14:25:21.796432+00:00"
+      "description": "Apple Fitness+ just launched new programs designed to help build exercise habits, and there are seve...",
+      "url": "https://9to5mac.com/2026/01/05/you-can-get-apple-fitness-plus-for-free-heres-how/",
+      "publishedAt": "2026-01-05T14:36:00Z",
+      "processed_at": "2026-01-06T15:25:49.355280+00:00"
     },
     {
-      "title": "NVIDIA To Bring Back The GeForce RTX 3060 In Q1 2026 To Tackle Current-Gen GPU & Memory Shortages - Wccftech",
+      "title": "Twelve South’s Valet is a handsome place to put your stuff - The Verge",
       "source": {
-        "name": "Wccftech"
+        "name": "The Verge"
       },
-      "description": "NVIDIA is reportedly going to recommence production of its GeForce RTX 3060 GPUs owing to DRAM suppl...",
-      "url": "https://wccftech.com/nvidia-to-bring-back-geforce-rtx-3060-q1-2026-tackle-memory-shortages/",
-      "publishedAt": "2026-01-05T06:05:00Z",
-      "processed_at": "2026-01-06T14:25:21.796432+00:00"
+      "description": "The $179.99 gadget can charge one device wirelessly and another via a cable and is meant to sit on y...",
+      "url": "https://www.theverge.com/tech/854124/twelve-south-valet-ces-2026",
+      "publishedAt": "2026-01-05T14:14:45Z",
+      "processed_at": "2026-01-06T15:25:49.355280+00:00"
+    },
+    {
+      "title": "Microsoft Edge is getting a Copilot-inspired redesign - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "Microsoft is working on a UI refresh for its Edge browser. The major overhaul will see Edge get the ...",
+      "url": "https://www.theverge.com/news/854832/microsoft-edge-copilot-redesign-ui-features",
+      "publishedAt": "2026-01-05T14:14:36Z",
+      "processed_at": "2026-01-06T15:25:49.355280+00:00"
     }
   ],
-  "lastUpdated": "2026-01-06T14:25:21.796493+00:00",
+  "lastUpdated": "2026-01-06T15:25:49.355364+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
