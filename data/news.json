@@ -1,7 +1,67 @@
 {
   "status": "success",
-  "totalResults": 8,
+  "totalResults": 10,
   "articles": [
+    {
+      "title": "Anker’s display-equipped Nano Charger is on sale following its CES debut - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "Anker’s new 45W Nano Charger is on sale for $10 off ahead of its launch on January 20th. The Nothing...",
+      "url": "https://www.theverge.com/gadgets/855701/anker-45w-nano-charger-nothing-ear-open-earbuds-deal-sale",
+      "publishedAt": "2026-01-06T15:42:05Z",
+      "processed_at": "2026-01-07T15:27:34.252794+00:00"
+    },
+    {
+      "title": "Game Pass Adds All These Games In January 2026 - GameSpot",
+      "source": {
+        "name": "GameSpot"
+      },
+      "description": "",
+      "url": "https://www.gamespot.com/gallery/game-pass-adds-all-these-games-in-january-2026/2900-7386/",
+      "publishedAt": "2026-01-06T14:50:11Z",
+      "processed_at": "2026-01-07T15:27:34.252794+00:00"
+    },
+    {
+      "title": "I tested Apple’s hands-free Home Key — and it’s a big upgrade - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "Aqara’s new U400 smart lock is the first to use Apple’s UWB-based hands-free unlocking, and it works...",
+      "url": "https://www.theverge.com/tech/854757/aqara-u400-apple-home-key-hands-free-uwb",
+      "publishedAt": "2026-01-06T14:00:00Z",
+      "processed_at": "2026-01-07T15:27:34.252794+00:00"
+    },
+    {
+      "title": "Amazon’s Ring doorbells get fire alerts, an app store and new sensors - TechCrunch",
+      "source": {
+        "name": "TechCrunch"
+      },
+      "description": "The new Ring Sensors can detect motion, openings, glass breakage, and smoke, and can also monitor ca...",
+      "url": "https://techcrunch.com/2026/01/06/amazons-ring-doorbells-get-fire-alerts-an-app-store-and-new-sensors/",
+      "publishedAt": "2026-01-06T14:00:00Z",
+      "processed_at": "2026-01-07T15:27:34.252794+00:00"
+    },
+    {
+      "title": "Dell’s new 4K QD-OLED monitor offers true 10-bit color - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "The UltraSharp 32 4K QD-OLED is launching February 24th for $2,599.99 and boasts incredible color ac...",
+      "url": "https://www.theverge.com/tech/846633/dell-4k-32-qdoled-color-grading-specs-ultrasharp",
+      "publishedAt": "2026-01-06T14:00:00Z",
+      "processed_at": "2026-01-07T15:27:34.252794+00:00"
+    },
+    {
+      "title": "Romeo Is a Dead Man shatters space-time and expectations - Polygon",
+      "source": {
+        "name": "Polygon"
+      },
+      "description": "Romeo Is a Dead Man is a wild third-person action game with a chaotic storyline, unique visuals, and...",
+      "url": "https://www.polygon.com/romeo-is-a-dead-man-preview-impressions-sci-fi-adventure/",
+      "publishedAt": "2026-01-06T14:00:00Z",
+      "processed_at": "2026-01-07T15:27:34.252794+00:00"
+    },
     {
       "title": "500 Worlds: Titus – C’tan shards and Destroyers flood the field with new Necrons Detachments - Warhammer Community",
       "source": {
@@ -10,17 +70,17 @@
       "description": "Want to use all the C’tan shards at once? Of course you do!...",
       "url": "https://www.warhammer-community.com/articles/eskktjc3/500-worlds-titus-ctan-shards-and-destroyers-flood-the-field-with-new-necrons-detachments",
       "publishedAt": "2026-01-06T13:57:43Z",
-      "processed_at": "2026-01-07T14:26:12.007834+00:00"
+      "processed_at": "2026-01-07T15:27:34.252794+00:00"
     },
     {
-      "title": "Ugreen is now selling an AI NAS with more RAM than my desktop - The Verge",
+      "title": "Imagine Paying $200 for a Security Camera When Your Old Phone Does the Same Thing for Free - CNET",
       "source": {
-        "name": "The Verge"
+        "name": "CNET"
       },
-      "description": "Ugreen’s iDX6011 and iDX6011 Pro are its first AI-equipped network attached storage (NAS) devices, w...",
-      "url": "https://www.theverge.com/gadgets/852453/ugreen-ai-nas-idx6011-pro-photo-search",
-      "publishedAt": "2026-01-06T13:00:00Z",
-      "processed_at": "2026-01-07T14:26:12.007834+00:00"
+      "description": "If you have an unused phone in a drawer, learn how to use it for home surveillance....",
+      "url": "https://www.cnet.com/home/security/how-to-turn-old-phone-free-security-system/",
+      "publishedAt": "2026-01-06T12:01:00Z",
+      "processed_at": "2026-01-07T15:27:34.252794+00:00"
     },
     {
       "title": "No, Microsoft didn’t rebrand Office to Microsoft 365 Copilot - The Verge",
@@ -30,7 +90,7 @@
       "description": "Microsoft’s Office website is confusing the internet. Despite lots of posts, Microsoft hasn’t rebran...",
       "url": "https://www.theverge.com/tech/856149/microsoft-365-office-rebrand-copilot",
       "publishedAt": "2026-01-06T10:48:29Z",
-      "processed_at": "2026-01-07T14:26:12.007834+00:00"
+      "processed_at": "2026-01-07T15:27:34.252794+00:00"
     },
     {
       "title": "‘Autofocus’ glasses can change their lenses in real time - CNN",
@@ -40,50 +100,10 @@
       "description": "Finnish eyewear company IXI is gearing up to launch smart glasses that look just like ordinary spect...",
       "url": "https://www.cnn.com/science/autofocus-glasses-ixi-change-lenses-spc",
       "publishedAt": "2026-01-06T09:20:36Z",
-      "processed_at": "2026-01-07T14:26:12.007834+00:00"
-    },
-    {
-      "title": "Nvidia’s GeForce Now is getting native Linux and Fire TV apps - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "Nvidia is launching new GeForce Now apps for Linux and Amazon’s Fire TV devices. It’s also adding fl...",
-      "url": "https://www.theverge.com/tech/854688/nvidias-geforce-now-is-getting-native-linux-and-fire-tv-apps",
-      "publishedAt": "2026-01-06T05:22:00Z",
-      "processed_at": "2026-01-07T14:26:12.007834+00:00"
-    },
-    {
-      "title": "Alienware Teases Portfolio Expansion - Alienware Arena",
-      "source": {
-        "name": "Alienwarearena.com"
-      },
-      "description": "By Matt McGowan | Head of Product, Alienware | January 5, 2026 @ 7:30pm PT\n\nAlienware returns to the...",
-      "url": "http://dell.alienwarearena.com/alienware-teases-portfolio-expansion-unveils-anti-glare-oled-and-new-silicon-at-ces-2026/",
-      "publishedAt": "2026-01-06T03:56:15Z",
-      "processed_at": "2026-01-07T14:26:12.007834+00:00"
-    },
-    {
-      "title": "Intel launches Core Ultra Series 3 CPUs, made using its long-awaited 18A process - Ars Technica",
-      "source": {
-        "name": "Ars Technica"
-      },
-      "description": "New chips launch \"this month,\" targeting high-end ultraportable PCs....",
-      "url": "https://arstechnica.com/gadgets/2026/01/intel-launches-core-ultra-series-3-cpus-made-using-its-long-awaited-18a-process/",
-      "publishedAt": "2026-01-06T03:45:49Z",
-      "processed_at": "2026-01-07T14:26:12.007834+00:00"
-    },
-    {
-      "title": "Baby's got clack: HP pushes PC-in-a-keyboard for businesses with hot desks - theregister.com",
-      "source": {
-        "name": "Theregister.com"
-      },
-      "description": ": Notebook updates and enterprise tools also inbound from IT giant...",
-      "url": "https://www.theregister.com/2026/01/06/hp_keyboard_pc/",
-      "publishedAt": "2026-01-06T03:31:00Z",
-      "processed_at": "2026-01-07T14:26:12.007834+00:00"
+      "processed_at": "2026-01-07T15:27:34.252794+00:00"
     }
   ],
-  "lastUpdated": "2026-01-07T14:26:12.007919+00:00",
+  "lastUpdated": "2026-01-07T15:27:34.252875+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
