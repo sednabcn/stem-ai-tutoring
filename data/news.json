@@ -3,6 +3,16 @@
   "totalResults": 10,
   "articles": [
     {
+      "title": "Google’s Pixelsnap Chargers will get firmware updates - 9to5Google",
+      "source": {
+        "name": "9to5google.com"
+      },
+      "description": "Just like other devices, the Pixelsnap Charger will see firmware updates, with the latest version of...",
+      "url": "http://9to5google.com/2026/01/06/pixelsnap-charger-firmware-update/",
+      "publishedAt": "2026-01-06T19:03:00Z",
+      "processed_at": "2026-01-07T21:22:16.802239+00:00"
+    },
+    {
       "title": "How (not) to recycle those old gadgets - The Washington Post",
       "source": {
         "name": "The Washington Post"
@@ -10,7 +20,7 @@
       "description": "E-waste can be transformed into essentials if you’re willing to think outside the box....",
       "url": "https://www.washingtonpost.com/technology/2026/01/06/recycle-old-gadgets-comic/",
       "publishedAt": "2026-01-06T18:06:28Z",
-      "processed_at": "2026-01-07T20:27:44.803680+00:00"
+      "processed_at": "2026-01-07T21:22:16.802239+00:00"
     },
     {
       "title": "Power bank feature creep is out of control - The Verge",
@@ -20,7 +30,47 @@
       "description": "Power banks now feature integrated cables, kickstands, flashlights, 4G hotspots, giant display, Wi-F...",
       "url": "https://www.theverge.com/tech/856225/power-banks-are-the-latest-victims-of-feature-creep",
       "publishedAt": "2026-01-06T18:00:00Z",
-      "processed_at": "2026-01-07T20:27:44.803680+00:00"
+      "processed_at": "2026-01-07T21:22:16.802239+00:00"
+    },
+    {
+      "title": "This 16-inch laptop is so light I can easily lift it with three fingers - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "Asus is introducing an ultra-light Zenbook A16 to accompany its refreshed A14 model....",
+      "url": "https://www.theverge.com/news/852034/asus-zenbook-a16-thin-light-ces-2026",
+      "publishedAt": "2026-01-06T17:30:00Z",
+      "processed_at": "2026-01-07T21:22:16.802239+00:00"
+    },
+    {
+      "title": "Two Chrome Extensions Caught Stealing ChatGPT and DeepSeek Chats from 900,000 Users - The Hacker News",
+      "source": {
+        "name": "Internet"
+      },
+      "description": "Security researchers found two Chrome extensions with 900,000 installs secretly collecting ChatGPT a...",
+      "url": "https://thehackernews.com/2026/01/two-chrome-extensions-caught-stealing.html",
+      "publishedAt": "2026-01-06T17:21:00Z",
+      "processed_at": "2026-01-07T21:22:16.802239+00:00"
+    },
+    {
+      "title": "Roborock launches its first robot lawn mower in the US - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "Roborock’s next robot lawn mower, the RockMow X1 LiDAR, is coming to the US. Unveiled at CES 2026, t...",
+      "url": "https://www.theverge.com/news/851696/roborock-launches-its-first-robot-lawnmower-in-the-us",
+      "publishedAt": "2026-01-06T17:01:00Z",
+      "processed_at": "2026-01-07T21:22:16.802239+00:00"
+    },
+    {
+      "title": "Robot Vacuum Maker Roborock Shows Off Stair-Climbing Model With Legs - Bloomberg.com",
+      "source": {
+        "name": "Bloomberg"
+      },
+      "description": "Roborock, a Chinese robotic vacuum cleaner brand, unveiled a concept device with two legs that can c...",
+      "url": "https://www.bloomberg.com/news/articles/2026-01-06/robot-vacuum-maker-roborock-shows-off-stair-climbing-model",
+      "publishedAt": "2026-01-06T17:00:15Z",
+      "processed_at": "2026-01-07T21:22:16.802239+00:00"
     },
     {
       "title": "I played Resident Evil Requiem's terrible prequels so you don't have to - Polygon",
@@ -30,17 +80,7 @@
       "description": "Alyssa Ashcroft made her series debut in Resident Evil Outbreak, a dated multiplayer game that's a n...",
       "url": "https://www.polygon.com/resident-evil-requiem-re9-prequels-outbreak-alyssa-ashcroft/",
       "publishedAt": "2026-01-06T17:00:00Z",
-      "processed_at": "2026-01-07T20:27:44.803680+00:00"
-    },
-    {
-      "title": "You might mistake Satechi’s new Thunderbolt 5 hub for Apple’s Mac Mini - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "Satechi has revealed the Thunderbolt 5 CubeDock, a Mac Mini-style dock that offers an NVMe SSD enclo...",
-      "url": "https://www.theverge.com/tech/853378/satechi-thunderbolt-5-dock-mac-mini-ces-2026",
-      "publishedAt": "2026-01-06T17:00:00Z",
-      "processed_at": "2026-01-07T20:27:44.803680+00:00"
+      "processed_at": "2026-01-07T21:22:16.802239+00:00"
     },
     {
       "title": "Your Pixel might be buggy after latest Google Play system update - 9to5Google",
@@ -50,7 +90,7 @@
       "description": "A Google Play system update is rolling out to Pixel owners, and we’ve noticed across several devices...",
       "url": "http://9to5google.com/2026/01/06/google-play-system-update-pixel-buggy/",
       "publishedAt": "2026-01-06T17:00:00Z",
-      "processed_at": "2026-01-07T20:27:44.803680+00:00"
+      "processed_at": "2026-01-07T21:22:16.802239+00:00"
     },
     {
       "title": "Lego unveils tech-filled Smart Bricks - to play experts' dismay - BBC",
@@ -60,50 +100,10 @@
       "description": "Lego says its new tech-enabled products are its \"most revolutionary innovation\" since it launched it...",
       "url": "https://www.bbc.com/news/articles/crmlnmnwzk2o",
       "publishedAt": "2026-01-06T16:20:15Z",
-      "processed_at": "2026-01-07T20:27:44.803680+00:00"
-    },
-    {
-      "title": "Play! Pokémon Rules and Resources Updated for Q4 2025 - Pokemon.com",
-      "source": {
-        "name": "Pokemon.com"
-      },
-      "description": "",
-      "url": "https://www.pokemon.com/us/pokemon-news/play-pokemon-rules-and-resources-updated-for-q4-2025",
-      "publishedAt": "2026-01-06T16:03:40Z",
-      "processed_at": "2026-01-07T20:27:44.803680+00:00"
-    },
-    {
-      "title": "XREAL is going all-in on Android XR with more glasses coming in Google partnership - 9to5Google",
-      "source": {
-        "name": "9to5google.com"
-      },
-      "description": "XREAL has announced a new partnership with Google which will see more Android XR glasses in the pipe...",
-      "url": "http://9to5google.com/2026/01/06/xreal-is-going-all-in-on-android-xr-with-more-glasses-coming-in-google-partnership/",
-      "publishedAt": "2026-01-06T15:55:00Z",
-      "processed_at": "2026-01-07T20:27:44.803680+00:00"
-    },
-    {
-      "title": "Corral Bounty Hunter Bonuses in Red Dead Online - Rockstar Games",
-      "source": {
-        "name": "Rockstargames.com"
-      },
-      "description": "Criminals are riding high across Red Dead Online, and someone ought to bring them down a peg or two....",
-      "url": "https://www.rockstargames.com/newswire/article/ak394o271o2a59/corral-bounty-hunter-bonuses-in-red-dead-online",
-      "publishedAt": "2026-01-06T14:58:55Z",
-      "processed_at": "2026-01-07T20:27:44.803680+00:00"
-    },
-    {
-      "title": "Game Pass Adds All These Games In January 2026 - GameSpot",
-      "source": {
-        "name": "GameSpot"
-      },
-      "description": "The first month of the year brings lots more games to Game Pass....",
-      "url": "https://www.gamespot.com/gallery/game-pass-adds-all-these-games-in-january-2026/2900-7386/",
-      "publishedAt": "2026-01-06T14:50:11Z",
-      "processed_at": "2026-01-07T20:27:44.803680+00:00"
+      "processed_at": "2026-01-07T21:22:16.802239+00:00"
     }
   ],
-  "lastUpdated": "2026-01-07T20:27:44.803753+00:00",
+  "lastUpdated": "2026-01-07T21:22:16.802308+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
