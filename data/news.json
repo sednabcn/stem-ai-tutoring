@@ -1,16 +1,26 @@
 {
   "status": "success",
-  "totalResults": 10,
+  "totalResults": 9,
   "articles": [
     {
-      "title": "What’s Going on With Smart Rings? - WIRED",
+      "title": "What It's Like to Slice Food With an Ultrasonic Knife That Vibrates 30,000 Times Per Second - CNET",
       "source": {
-        "name": "Wired"
+        "name": "CNET"
       },
-      "description": "Ultrahuman smart rings currently can’t be sold in the US. We caught up with the company’s chief busi...",
-      "url": "https://www.wired.com/story/whats-going-on-with-smart-rings-oura-ultrahuman-ringconn/",
-      "publishedAt": "2026-01-07T19:19:41Z",
-      "processed_at": "2026-01-08T22:23:03.194580+00:00"
+      "description": "I tried a techy new knife at CES 2026. Here's my take on whether this pricey blade is worthy of the ...",
+      "url": "https://www.cnet.com/home/kitchen-and-household/what-its-like-to-slice-food-with-an-ultrasonic-knife/",
+      "publishedAt": "2026-01-07T20:56:00Z",
+      "processed_at": "2026-01-08T23:19:39.122024+00:00"
+    },
+    {
+      "title": "Third-Person StarCraft Shooter Will Reportedly Be Unveiled at BlizzCon 2026 - Wccftech",
+      "source": {
+        "name": "Wccftech"
+      },
+      "description": "Blizzard is reportedly getting set to finally unveil the long-rumoured third-person StarCraft shoote...",
+      "url": "https://wccftech.com/third-person-starcraft-shooter-will-reportedly-be-unveiled-at-blizzcon-2026/",
+      "publishedAt": "2026-01-07T20:21:00Z",
+      "processed_at": "2026-01-08T23:19:39.122024+00:00"
     },
     {
       "title": "Bose open-sources its SoundTouch home theater smart speakers ahead of end-of-life - Ars Technica",
@@ -20,17 +30,27 @@
       "description": "If companies insist on bricking gadgets, this is a better way to do it....",
       "url": "https://arstechnica.com/gadgets/2026/01/bose-open-sources-its-soundtouch-home-theater-smart-speakers-ahead-of-eol/",
       "publishedAt": "2026-01-07T18:51:37Z",
-      "processed_at": "2026-01-08T22:23:03.194580+00:00"
+      "processed_at": "2026-01-08T23:19:39.122024+00:00"
     },
     {
-      "title": "Dell admits consumers don’t care about AI PCs - The Verge",
+      "title": "Dell admits that PC buyers don’t actually care about AI - 9to5Mac",
       "source": {
-        "name": "The Verge"
+        "name": "9to5Mac"
       },
-      "description": "Dell is now shifting it focus this year away from being ‘all about the AI PC.’...",
-      "url": "https://www.theverge.com/news/857723/dell-consumers-ai-pcs-comments",
-      "publishedAt": "2026-01-07T17:57:27Z",
-      "processed_at": "2026-01-08T22:23:03.194580+00:00"
+      "description": "AI has been a huge buzzword at Apple and other tech companies for years. But Dell just admitted that...",
+      "url": "https://9to5mac.com/2026/01/07/dell-admits-that-pc-buyers-dont-actually-care-about-ai/",
+      "publishedAt": "2026-01-07T18:45:00Z",
+      "processed_at": "2026-01-08T23:19:39.122024+00:00"
+    },
+    {
+      "title": "PlayStation 5 Hyperpop Console Covers And Controllers Coming In March - Game Informer",
+      "source": {
+        "name": "Gameinformer.com"
+      },
+      "description": "Now you can add some RGB-inspired flair to your console....",
+      "url": "https://gameinformer.com/2026/01/07/playstation-5-hyperpop-console-covers-and-controllers-coming-in-march",
+      "publishedAt": "2026-01-07T18:03:07Z",
+      "processed_at": "2026-01-08T23:19:39.122024+00:00"
     },
     {
       "title": "Fight for All Futures with the Echoes of the Infinite Mini-Set — Hearthstone - Blizzard News",
@@ -40,7 +60,7 @@
       "description": "New Legendary cards and time-bending mechanics set the stage for the final showdown with Murozond!...",
       "url": "https://news.blizzard.com/en-us/article/24245105/fight-for-all-futures-with-the-echoes-of-the-infinite-mini-set",
       "publishedAt": "2026-01-07T17:55:00Z",
-      "processed_at": "2026-01-08T22:23:03.194580+00:00"
+      "processed_at": "2026-01-08T23:19:39.122024+00:00"
     },
     {
       "title": "Fujikura Updates Ventus TR Blue With VeloCore+ Technology - MyGolfSpy",
@@ -50,7 +70,7 @@
       "description": "It’s not a perfect description, perhaps, but (generally) Fujikura’s Ventus TR profiles sit between t...",
       "url": "https://mygolfspy.com/news-opinion/fujikura-updates-ventus-tr-blue-with-velocore-technology/",
       "publishedAt": "2026-01-07T17:33:01Z",
-      "processed_at": "2026-01-08T22:23:03.194580+00:00"
+      "processed_at": "2026-01-08T23:19:39.122024+00:00"
     },
     {
       "title": "NVIDIA Answers TechPowerUp Questions on DLSS 4.5, 6x Multi FrameGen, and 240 Hz Mode - TechPowerUp",
@@ -60,50 +80,20 @@
       "description": "NVIDIA responded to our follow-up questions on its DLSS 4.5 announcement. There had been some linger...",
       "url": "https://www.techpowerup.com/344926/nvidia-answers-techpowerup-questions-on-dlss-4-5-6x-multi-framegen-and-240-hz-mode",
       "publishedAt": "2026-01-07T17:21:23Z",
-      "processed_at": "2026-01-08T22:23:03.194580+00:00"
+      "processed_at": "2026-01-08T23:19:39.122024+00:00"
     },
     {
-      "title": "Blizzard will reportedly reveal a StarCraft shooter from the former Far Cry boss later this year - Video Games Chronicle",
+      "title": "See how Samsung almost ruined the camera experience with One UI 8.5 - SamMobile",
       "source": {
-        "name": "Video Games Chronicle"
+        "name": "SamMobile"
       },
-      "description": "The project is reportedly being led by former Ubisoft lead Dan Hay...",
-      "url": "https://www.videogameschronicle.com/news/blizzard-will-reportedly-reveal-a-starcraft-shooter-from-the-former-far-cry-boss-later-this-year/",
-      "publishedAt": "2026-01-07T17:16:13Z",
-      "processed_at": "2026-01-08T22:23:03.194580+00:00"
-    },
-    {
-      "title": "A Minecraft: Bedrock Edition Preview - Minecraft",
-      "source": {
-        "name": "Minecraft.net"
-      },
-      "description": "Minecraft Preview 26.0.27...",
-      "url": "https://www.minecraft.net/en-us/article/minecraft-preview-26-0-27",
-      "publishedAt": "2026-01-07T16:52:12Z",
-      "processed_at": "2026-01-08T22:23:03.194580+00:00"
-    },
-    {
-      "title": "The best phone chargers and portable power solutions at CES 2026 - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "Power to the people....",
-      "url": "https://www.theverge.com/tech/855028/ces-2026-best-chargers-wireless-power-bank-qi",
-      "publishedAt": "2026-01-07T16:37:21Z",
-      "processed_at": "2026-01-08T22:23:03.194580+00:00"
-    },
-    {
-      "title": "Kick off the year with new rewards - Minecraft",
-      "source": {
-        "name": "Minecraft.net"
-      },
-      "description": "Whether you’re new to Minecraft or you’ve been digging straight down since the beginning, the entire...",
-      "url": "https://www.minecraft.net/en-us/article/kick-off-the-year-with-new-rewards",
-      "publishedAt": "2026-01-07T16:07:12Z",
-      "processed_at": "2026-01-08T22:23:03.194580+00:00"
+      "description": "One UI 8.5, the next major iteration of Samsung's custom software, brings many improvements. However...",
+      "url": "https://www.sammobile.com/news/see-how-samsung-almost-ruined-the-camera-experience-with-one-ui-8-5/",
+      "publishedAt": "2026-01-07T17:14:00Z",
+      "processed_at": "2026-01-08T23:19:39.122024+00:00"
     }
   ],
-  "lastUpdated": "2026-01-08T22:23:03.194650+00:00",
+  "lastUpdated": "2026-01-08T23:19:39.122095+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
