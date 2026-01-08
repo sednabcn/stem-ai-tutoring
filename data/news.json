@@ -1,7 +1,47 @@
 {
   "status": "success",
-  "totalResults": 9,
+  "totalResults": 7,
   "articles": [
+    {
+      "title": "Motorola’s first book-style fold debuts with one big question unanswered - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "Motorola’s Razr Fold doesn’t have a price or a firm launch date yet, but it will bring a little bit ...",
+      "url": "https://www.theverge.com/tech/856577/motorola-razr-fold-hands-on",
+      "publishedAt": "2026-01-07T01:00:00Z",
+      "processed_at": "2026-01-08T03:40:50.314885+00:00"
+    },
+    {
+      "title": "Lenovo’s second SteamOS handheld is the Legion Go 2 - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "Lenovo will sell the Legion Go 2 handheld with Valve’s SteamOS in June 2026, starting at $1,199....",
+      "url": "https://www.theverge.com/tech/853587/lenovo-legion-go-2-steam-os-annoucement-price-release-date",
+      "publishedAt": "2026-01-07T01:00:00Z",
+      "processed_at": "2026-01-08T03:40:50.314885+00:00"
+    },
+    {
+      "title": "HP’s EliteBoard G1a is a Ryzen-powered Windows 11 PC in a membrane keyboard - Ars Technica",
+      "source": {
+        "name": "Ars Technica"
+      },
+      "description": "The most familiar, full-fledged PC experience you can get from a keyboard....",
+      "url": "https://arstechnica.com/gadgets/2026/01/hps-eliteboard-g1a-is-a-ryzen-powered-windows-11-pc-in-a-membrane-keyboard/",
+      "publishedAt": "2026-01-06T22:40:08Z",
+      "processed_at": "2026-01-08T03:40:50.314885+00:00"
+    },
+    {
+      "title": "The Inevitable Rise of the Art TV - WIRED",
+      "source": {
+        "name": "Wired"
+      },
+      "description": "New televisions from Amazon, Hisense, TCL, and others are designed to display fine art and look like...",
+      "url": "https://www.wired.com/story/art-frame-tv-trends/",
+      "publishedAt": "2026-01-06T20:41:00Z",
+      "processed_at": "2026-01-08T03:40:50.314885+00:00"
+    },
     {
       "title": "Wi-Fi 8 is appearing at CES before most of us have switched to Wi-Fi 7 - The Verge",
       "source": {
@@ -10,7 +50,17 @@
       "description": "Wi-Fi 8 devices made a surprise appearance at CES 2026, including a quirky new router and two new se...",
       "url": "https://www.theverge.com/tech/856883/ces-2026-wi-fi-8-asus-broadcom-mediatek",
       "publishedAt": "2026-01-06T20:26:17Z",
-      "processed_at": "2026-01-08T01:52:31.024688+00:00"
+      "processed_at": "2026-01-08T03:40:50.314885+00:00"
+    },
+    {
+      "title": "Breaking: Google will now only release Android source code twice a year - Android Authority",
+      "source": {
+        "name": "Android Authority"
+      },
+      "description": "Instead of four times a year, Google will now only release Android source code to AOSP twice a year,...",
+      "url": "https://www.androidauthority.com/aosp-source-code-schedule-3630018/",
+      "publishedAt": "2026-01-06T19:34:32Z",
+      "processed_at": "2026-01-08T03:40:50.314885+00:00"
     },
     {
       "title": "How (not) to recycle those old gadgets - The Washington Post",
@@ -20,80 +70,10 @@
       "description": "E-waste can be transformed into essentials if you’re willing to think outside the box....",
       "url": "https://www.washingtonpost.com/technology/2026/01/06/recycle-old-gadgets-comic/",
       "publishedAt": "2026-01-06T18:06:28Z",
-      "processed_at": "2026-01-08T01:52:31.024688+00:00"
-    },
-    {
-      "title": "Power bank feature creep is out of control - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "Power banks now feature integrated cables, kickstands, flashlights, 4G hotspots, giant display, Wi-F...",
-      "url": "https://www.theverge.com/tech/856225/power-banks-are-the-latest-victims-of-feature-creep",
-      "publishedAt": "2026-01-06T18:00:00Z",
-      "processed_at": "2026-01-08T01:52:31.024688+00:00"
-    },
-    {
-      "title": "This 16-inch laptop is so light I can easily lift it with three fingers - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "Asus is introducing an ultra-light Zenbook A16 to accompany its refreshed A14 model....",
-      "url": "https://www.theverge.com/news/852034/asus-zenbook-a16-thin-light-ces-2026",
-      "publishedAt": "2026-01-06T17:30:00Z",
-      "processed_at": "2026-01-08T01:52:31.024688+00:00"
-    },
-    {
-      "title": "Two Chrome Extensions Caught Stealing ChatGPT and DeepSeek Chats from 900,000 Users - The Hacker News",
-      "source": {
-        "name": "Internet"
-      },
-      "description": "Security researchers found two Chrome extensions with 900,000 installs secretly collecting ChatGPT a...",
-      "url": "https://thehackernews.com/2026/01/two-chrome-extensions-caught-stealing.html",
-      "publishedAt": "2026-01-06T17:21:00Z",
-      "processed_at": "2026-01-08T01:52:31.024688+00:00"
-    },
-    {
-      "title": "Loss32: An idea for a Linux designed around Win32 apps - theregister.com",
-      "source": {
-        "name": "Theregister.com"
-      },
-      "description": "",
-      "url": "https://www.theregister.com/2026/01/06/loss32_crazy_or_inspired/",
-      "publishedAt": "2026-01-06T17:17:00Z",
-      "processed_at": "2026-01-08T01:52:31.024688+00:00"
-    },
-    {
-      "title": "Roborock launches its first robot lawn mower in the US - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "Roborock’s next robot lawn mower, the RockMow X1 LiDAR, is coming to the US. Unveiled at CES 2026, t...",
-      "url": "https://www.theverge.com/news/851696/roborock-launches-its-first-robot-lawnmower-in-the-us",
-      "publishedAt": "2026-01-06T17:01:00Z",
-      "processed_at": "2026-01-08T01:52:31.024688+00:00"
-    },
-    {
-      "title": "Robot Vacuum Maker Roborock Shows Off Stair-Climbing Model With Legs - Bloomberg.com",
-      "source": {
-        "name": "Bloomberg"
-      },
-      "description": "Roborock, a Chinese robotic vacuum cleaner brand, unveiled a concept device with two legs that can c...",
-      "url": "https://www.bloomberg.com/news/articles/2026-01-06/robot-vacuum-maker-roborock-shows-off-stair-climbing-model",
-      "publishedAt": "2026-01-06T17:00:15Z",
-      "processed_at": "2026-01-08T01:52:31.024688+00:00"
-    },
-    {
-      "title": "I played Resident Evil Requiem's terrible prequels so you don't have to - Polygon",
-      "source": {
-        "name": "Polygon"
-      },
-      "description": "Alyssa Ashcroft made her series debut in Resident Evil Outbreak, a dated multiplayer game that's a n...",
-      "url": "https://www.polygon.com/resident-evil-requiem-re9-prequels-outbreak-alyssa-ashcroft/",
-      "publishedAt": "2026-01-06T17:00:00Z",
-      "processed_at": "2026-01-08T01:52:31.024688+00:00"
+      "processed_at": "2026-01-08T03:40:50.314885+00:00"
     }
   ],
-  "lastUpdated": "2026-01-08T01:52:31.024750+00:00",
+  "lastUpdated": "2026-01-08T03:40:50.314945+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
