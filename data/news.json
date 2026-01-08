@@ -1,16 +1,56 @@
 {
   "status": "success",
-  "totalResults": 7,
+  "totalResults": 9,
   "articles": [
     {
-      "title": "Motorola’s first book-style fold debuts with one big question unanswered - The Verge",
+      "title": "Global Blog | Motorola launches the first motorola signature - motorolanews.com",
+      "source": {
+        "name": "Motorolanews.com"
+      },
+      "description": "Motorola launches the first motorola signature, the most complete and sophisticated phone ever creat...",
+      "url": "https://motorolanews.com/motorola-sets-a-new-standard-for-world-class-refinement-with-the-launch-of-motorola-signature/",
+      "publishedAt": "2026-01-07T01:03:39Z",
+      "processed_at": "2026-01-08T05:26:50.273215+00:00"
+    },
+    {
+      "title": "Moto Tag 2 brings improved Android Find Hub tracking and longer battery life - 9to5Google",
+      "source": {
+        "name": "9to5google.com"
+      },
+      "description": "Motorola has announced a sequel to the Moto Tag, with the new Moto Tag 2 coming later this year with...",
+      "url": "http://9to5google.com/2026/01/06/moto-tag-2-announcement-ces-2026-android-find-hub/",
+      "publishedAt": "2026-01-07T01:01:00Z",
+      "processed_at": "2026-01-08T05:26:50.273215+00:00"
+    },
+    {
+      "title": "These Are the Coolest Laptops We've Seen at CES 2026 - CNET",
+      "source": {
+        "name": "CNET"
+      },
+      "description": "Laptops this year will get new processors, but many computer makers are turning back the clock with ...",
+      "url": "https://www.cnet.com/tech/computing/these-are-the-coolest-laptops-weve-seen-at-ces-2026/",
+      "publishedAt": "2026-01-07T01:01:00Z",
+      "processed_at": "2026-01-08T05:26:50.273215+00:00"
+    },
+    {
+      "title": "Motorola reveals the Razr Fold, a book-style foldable launching this summer - Ars Technica",
+      "source": {
+        "name": "Ars Technica"
+      },
+      "description": "Motorola is light on details but heavy on hype for its first book-style foldable....",
+      "url": "https://arstechnica.com/gadgets/2026/01/motorola-reveals-the-razr-fold-a-book-style-foldable-launching-this-summer/",
+      "publishedAt": "2026-01-07T01:00:06Z",
+      "processed_at": "2026-01-08T05:26:50.273215+00:00"
+    },
+    {
+      "title": "Lenovo’s new concept rollable could be the ideal gaming laptop - The Verge",
       "source": {
         "name": "The Verge"
       },
-      "description": "Motorola’s Razr Fold doesn’t have a price or a firm launch date yet, but it will bring a little bit ...",
-      "url": "https://www.theverge.com/tech/856577/motorola-razr-fold-hands-on",
+      "description": "The Lenovo Legion Pro Rollable concept is a high-end gaming laptop with a 16-inch OLED screen that e...",
+      "url": "https://www.theverge.com/tech/852352/lenovo-legion-pro-rollable-gaming-laptop-concept-ces-2026",
       "publishedAt": "2026-01-07T01:00:00Z",
-      "processed_at": "2026-01-08T04:40:53.276705+00:00"
+      "processed_at": "2026-01-08T05:26:50.273215+00:00"
     },
     {
       "title": "Lenovo’s second SteamOS handheld is the Legion Go 2 - The Verge",
@@ -20,7 +60,17 @@
       "description": "Lenovo will sell the Legion Go 2 handheld with Valve’s SteamOS in June 2026, starting at $1,199....",
       "url": "https://www.theverge.com/tech/853587/lenovo-legion-go-2-steam-os-annoucement-price-release-date",
       "publishedAt": "2026-01-07T01:00:00Z",
-      "processed_at": "2026-01-08T04:40:53.276705+00:00"
+      "processed_at": "2026-01-08T05:26:50.273215+00:00"
+    },
+    {
+      "title": "Our Favorite Home Tech Gear That Everyone's Talking About at CES 2026 - CNET",
+      "source": {
+        "name": "CNET"
+      },
+      "description": "CES 2026 is here, showcasing some cutting-edge new gear to on-the-ground reporters from CNET....",
+      "url": "https://www.cnet.com/home/our-favorite-home-tech-gear-that-everyones-talking-about-at-ces-2026/",
+      "publishedAt": "2026-01-06T23:00:00Z",
+      "processed_at": "2026-01-08T05:26:50.273215+00:00"
     },
     {
       "title": "HP’s EliteBoard G1a is a Ryzen-powered Windows 11 PC in a membrane keyboard - Ars Technica",
@@ -30,7 +80,7 @@
       "description": "The most familiar, full-fledged PC experience you can get from a keyboard....",
       "url": "https://arstechnica.com/gadgets/2026/01/hps-eliteboard-g1a-is-a-ryzen-powered-windows-11-pc-in-a-membrane-keyboard/",
       "publishedAt": "2026-01-06T22:40:08Z",
-      "processed_at": "2026-01-08T04:40:53.276705+00:00"
+      "processed_at": "2026-01-08T05:26:50.273215+00:00"
     },
     {
       "title": "The Inevitable Rise of the Art TV - WIRED",
@@ -40,40 +90,10 @@
       "description": "New televisions from Amazon, Hisense, TCL, and others are designed to display fine art and look like...",
       "url": "https://www.wired.com/story/art-frame-tv-trends/",
       "publishedAt": "2026-01-06T20:41:00Z",
-      "processed_at": "2026-01-08T04:40:53.276705+00:00"
-    },
-    {
-      "title": "Wi-Fi 8 is appearing at CES before most of us have switched to Wi-Fi 7 - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "Wi-Fi 8 devices made a surprise appearance at CES 2026, including a quirky new router and two new se...",
-      "url": "https://www.theverge.com/tech/856883/ces-2026-wi-fi-8-asus-broadcom-mediatek",
-      "publishedAt": "2026-01-06T20:26:17Z",
-      "processed_at": "2026-01-08T04:40:53.276705+00:00"
-    },
-    {
-      "title": "Breaking: Google will now only release Android source code twice a year - Android Authority",
-      "source": {
-        "name": "Android Authority"
-      },
-      "description": "Instead of four times a year, Google will now only release Android source code to AOSP twice a year,...",
-      "url": "https://www.androidauthority.com/aosp-source-code-schedule-3630018/",
-      "publishedAt": "2026-01-06T19:34:32Z",
-      "processed_at": "2026-01-08T04:40:53.276705+00:00"
-    },
-    {
-      "title": "How (not) to recycle those old gadgets - The Washington Post",
-      "source": {
-        "name": "The Washington Post"
-      },
-      "description": "E-waste can be transformed into essentials if you’re willing to think outside the box....",
-      "url": "https://www.washingtonpost.com/technology/2026/01/06/recycle-old-gadgets-comic/",
-      "publishedAt": "2026-01-06T18:06:28Z",
-      "processed_at": "2026-01-08T04:40:53.276705+00:00"
+      "processed_at": "2026-01-08T05:26:50.273215+00:00"
     }
   ],
-  "lastUpdated": "2026-01-08T04:40:53.276766+00:00",
+  "lastUpdated": "2026-01-08T05:26:50.273303+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
