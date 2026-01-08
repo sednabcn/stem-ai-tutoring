@@ -1,16 +1,46 @@
 {
   "status": "success",
-  "totalResults": 7,
+  "totalResults": 10,
   "articles": [
     {
-      "title": "I played with the Lego Smart Brick - The Verge",
+      "title": "The first features from our cutest drop yet - Minecraft",
       "source": {
-        "name": "The Verge"
+        "name": "Minecraft.net"
       },
-      "description": "No AI — and smarter than I expected....",
-      "url": "https://www.theverge.com/tech/855520/i-played-with-the-lego-smart-brick",
-      "publishedAt": "2026-01-07T12:00:00Z",
-      "processed_at": "2026-01-08T14:27:26.472160+00:00"
+      "description": "Baby farm mobs are first to waddle into Minecraft with a whole new look. Befriend these tiny rascals...",
+      "url": "https://www.minecraft.net/en-us/article/first-features-minecraft-cutest-drop-yet",
+      "publishedAt": "2026-01-07T16:05:04Z",
+      "processed_at": "2026-01-08T15:27:58.679167+00:00"
+    },
+    {
+      "title": "EXCLUSIVE: Hollywood Legend Jeff Bridges Lists Malibu Land for $4.4 Million—After Beloved Family Home Burned in Wildfires - Yahoo",
+      "source": {
+        "name": "Yahoo Entertainment"
+      },
+      "description": "Bridges' longtime Malibu home, which was passed to him by his parents, was destroyed in the Californ...",
+      "url": "https://www.yahoo.com/entertainment/celebrity/articles/exclusive-hollywood-legend-jeff-bridges-151218014.html",
+      "publishedAt": "2026-01-07T15:12:18Z",
+      "processed_at": "2026-01-08T15:27:58.679167+00:00"
+    },
+    {
+      "title": "LEGO Says Smart Brick Is 'Here to Stay,' and Responds to 'Questions and Concerns' Around Abandoning Non-Digital Play - IGN",
+      "source": {
+        "name": "IGN"
+      },
+      "description": "A day on from the official reveal of LEGO Smart Brick, the company has responded to concerns that it...",
+      "url": "https://www.ign.com/articles/lego-says-smart-brick-is-here-to-stay-and-responds-to-questions-and-concerns-around-abandoning-non-digital-play",
+      "publishedAt": "2026-01-07T11:55:21Z",
+      "processed_at": "2026-01-08T15:27:58.679167+00:00"
+    },
+    {
+      "title": "Locked Fallout TV Show Countdown Timer Coincides With Season 2 Finale — but Fans Are Hoping It Also Signals a Fallout 3 or New Vegas Remaster Shadowdrop - IGN",
+      "source": {
+        "name": "IGN"
+      },
+      "description": "There is a mysterious countdown timer on Amazon’s official website for its Fallout TV series that is...",
+      "url": "https://www.ign.com/articles/locked-fallout-tv-show-countdown-timer-coincides-with-season-2-finale-but-fans-are-hoping-it-also-signals-a-fallout-3-or-new-vegas-remaster-shadowdrop",
+      "publishedAt": "2026-01-07T11:54:19Z",
+      "processed_at": "2026-01-08T15:27:58.679167+00:00"
     },
     {
       "title": "Introducing Flame Rifle - Hunt: Showdown",
@@ -20,60 +50,60 @@
       "description": "Hunt: Showdown is a competitive first-person PvP bounty hunting game with heavy PvE elements. Set in...",
       "url": "https://www.huntshowdown.com/detailed",
       "publishedAt": "2026-01-07T11:26:40Z",
-      "processed_at": "2026-01-08T14:27:26.472160+00:00"
+      "processed_at": "2026-01-08T15:27:58.679167+00:00"
     },
     {
-      "title": "Babau: The Sludge of the Land Album Review - Pitchfork",
+      "title": "500 Worlds: Titus – Strike fast and hold the line with new Space Marines Detachments - Warhammer Community",
       "source": {
-        "name": "Pitchfork"
+        "name": "Warhammer-community.com"
       },
-      "description": "Read H.D. Angel’s review of the album....",
-      "url": "https://pitchfork.com/reviews/albums/babau-the-sludge-of-the-land/",
-      "publishedAt": "2026-01-07T05:01:00Z",
-      "processed_at": "2026-01-08T14:27:26.472160+00:00"
+      "description": "Fill the sky with Drop Pods!...",
+      "url": "https://www.warhammer-community.com/articles/uebtnxvg/500-worlds-titus-strike-fast-and-hold-the-line-with-new-space-marines-detachments",
+      "publishedAt": "2026-01-07T10:28:02Z",
+      "processed_at": "2026-01-08T15:27:58.679167+00:00"
     },
     {
-      "title": "Global Blog | Motorola at Lenovo Tech World 2026 - motorolanews.com",
+      "title": "The Clicks Communicator phone is made specifically for messaging - Dezeen",
       "source": {
-        "name": "Motorolanews.com"
+        "name": "Dezeen"
       },
-      "description": "Motorola took the Lenovo Tech World 2026 stage in Las Vegas to unveil the most exciting tech yet, in...",
-      "url": "https://motorolanews.com/tech-world-2026/",
-      "publishedAt": "2026-01-07T01:08:44Z",
-      "processed_at": "2026-01-08T14:27:26.472160+00:00"
+      "description": "UK-based company Clicks Technology has followed up its Blackberry-like keyboard accessory for smartp...",
+      "url": "https://www.dezeen.com/2026/01/07/clicks-communicator-phone-made-for-messaging-technology/",
+      "publishedAt": "2026-01-07T09:00:00Z",
+      "processed_at": "2026-01-08T15:27:58.679167+00:00"
     },
     {
-      "title": "Lenovo at CES 2026: Smarter AI for More Intuitive and Connected PC Experiences - Lenovo StoryHub",
+      "title": "Google’s Koray Kavukcuoglu: Turning abstract AI thinking into user-friendly products - Financial Times",
+      "source": {
+        "name": "Financial Times"
+      },
+      "description": "The tech giant’s chief AI architect and CTO of DeepMind discusses the Gemini 3 LLM and progress towa...",
+      "url": "https://www.ft.com/content/3b477836-8a87-4ce3-bea1-719f28952a9a",
+      "publishedAt": "2026-01-07T05:00:07Z",
+      "processed_at": "2026-01-08T15:27:58.679167+00:00"
+    },
+    {
+      "title": "The Nikon 24-105mm f/4-7.1 Is a New Kit Zoom to Pair with the Z5 II - PetaPixel",
+      "source": {
+        "name": "PetaPixel"
+      },
+      "description": "Nikon has announced the Nikkor Z 24-105mm f/4-7.1 zoom lens for Nikon full-frame mirrorless cameras....",
+      "url": "https://petapixel.com/2026/01/06/the-nikon-24-105mm-f-4-7-1-is-a-new-kit-zoom-to-pair-with-the-z5-ii/",
+      "publishedAt": "2026-01-07T04:03:48Z",
+      "processed_at": "2026-01-08T15:27:58.679167+00:00"
+    },
+    {
+      "title": "Lenovo at CES 2026: Smarter AI Meets Purposeful Business Innovation - Lenovo StoryHub",
       "source": {
         "name": "Lenovo.com"
       },
-      "description": "Lenovo announced its latest consumer-focused innovations, expanding its Windows 11-based Yoga™ and I...",
-      "url": "https://news.lenovo.com/pressroom/press-releases/lenovo-at-ces-2026-smarter-ai-for-more-intuitive-and-connected-pc-experiences/",
-      "publishedAt": "2026-01-07T01:06:16Z",
-      "processed_at": "2026-01-08T14:27:26.472160+00:00"
-    },
-    {
-      "title": "Global Blog | Motorola launches the first motorola signature - motorolanews.com",
-      "source": {
-        "name": "Motorolanews.com"
-      },
-      "description": "Motorola launches the first motorola signature, the most complete and sophisticated phone ever creat...",
-      "url": "https://motorolanews.com/motorola-sets-a-new-standard-for-world-class-refinement-with-the-launch-of-motorola-signature/",
-      "publishedAt": "2026-01-07T01:03:39Z",
-      "processed_at": "2026-01-08T14:27:26.472160+00:00"
-    },
-    {
-      "title": "Motorola Debuts Its First Book-Style Foldable and Wearable AI Concept - Bloomberg.com",
-      "source": {
-        "name": "Bloomberg"
-      },
-      "description": "Lenovo Group Ltd.‘s Motorola unveiled its first folding phone that opens like a book or passport, a ...",
-      "url": "https://www.bloomberg.com/news/features/2026-01-07/motorola-announces-razr-fold-in-challenge-to-samsung",
-      "publishedAt": "2026-01-07T01:00:00Z",
-      "processed_at": "2026-01-08T14:27:26.472160+00:00"
+      "description": "Delivering new Windows 11 laptop and desktop devices with enhanced user experiences, engineered for ...",
+      "url": "https://news.lenovo.com/pressroom/press-releases/lenovo-at-ces-2026-smarter-ai-meets-purposeful-business-innovation/",
+      "publishedAt": "2026-01-07T03:56:43Z",
+      "processed_at": "2026-01-08T15:27:58.679167+00:00"
     }
   ],
-  "lastUpdated": "2026-01-08T14:27:26.472217+00:00",
+  "lastUpdated": "2026-01-08T15:27:58.679254+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
