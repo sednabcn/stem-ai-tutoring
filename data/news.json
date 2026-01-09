@@ -1,7 +1,17 @@
 {
   "status": "success",
-  "totalResults": 9,
+  "totalResults": 10,
   "articles": [
+    {
+      "title": "Asus gave us a first look at its Wi-Fi 8 router at CES, and it's nothing we could've expected - ZDNET",
+      "source": {
+        "name": "ZDNet"
+      },
+      "description": "Asus previews the ROG NeoCore, a proof-of-concept router designed to address today's most significan...",
+      "url": "https://www.zdnet.com/home-and-office/asus-rog-neocore-wi-fi-8-router-ces-concept/",
+      "publishedAt": "2026-01-08T04:02:00Z",
+      "processed_at": "2026-01-09T07:27:03.642123+00:00"
+    },
     {
       "title": "All the Head-Turning Security Tech I Saw at CES 2026 - CNET",
       "source": {
@@ -10,7 +20,7 @@
       "description": "CES brought a crowd of security companies, all vying to impress with new cameras, sensors and locks....",
       "url": "https://www.cnet.com/home/security/all-the-head-turning-security-tech-i-saw-at-ces-2026/",
       "publishedAt": "2026-01-08T00:34:00Z",
-      "processed_at": "2026-01-09T06:37:02.903054+00:00"
+      "processed_at": "2026-01-09T07:27:03.642123+00:00"
     },
     {
       "title": "Tame your wayward cables with $60 off the Anker Prime Docking Station - Mashable",
@@ -20,7 +30,7 @@
       "description": "Connect up to three monitors at once and get more done....",
       "url": "https://mashable.com/article/jan-7-anker-prime-docking-station-deal",
       "publishedAt": "2026-01-07T23:11:46Z",
-      "processed_at": "2026-01-09T06:37:02.903054+00:00"
+      "processed_at": "2026-01-09T07:27:03.642123+00:00"
     },
     {
       "title": "Intel Stock Is Soaring. Is the Turnaround Gamble Finally Paying Off? - Investopedia",
@@ -30,7 +40,7 @@
       "description": "Intel stock soared on Wednesday, extending a recent run-up fueled by increasing confidence in its fo...",
       "url": "https://www.investopedia.com/intel-stock-is-soaring-is-the-turnaround-gamble-finally-paying-off-11881039",
       "publishedAt": "2026-01-07T21:16:39Z",
-      "processed_at": "2026-01-09T06:37:02.903054+00:00"
+      "processed_at": "2026-01-09T07:27:03.642123+00:00"
     },
     {
       "title": "Lenovo CEO addresses AI skeptics at CES: 'Nobody can avoid it.' - Mashable",
@@ -40,17 +50,27 @@
       "description": "Mashable spoke to Yang following Lenovo's keynote CES event at The Sphere....",
       "url": "https://mashable.com/article/lenovo-ceo-yang-yuanqing-interview-ai-nobody-can-avoid-it",
       "publishedAt": "2026-01-07T21:00:00Z",
-      "processed_at": "2026-01-09T06:37:02.903054+00:00"
+      "processed_at": "2026-01-09T07:27:03.642123+00:00"
     },
     {
-      "title": "Third-Person StarCraft Shooter Will Reportedly Be Unveiled at BlizzCon 2026 - Wccftech",
+      "title": "Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment - Venturebeat",
       "source": {
-        "name": "Wccftech"
+        "name": "VentureBeat"
       },
-      "description": "Blizzard is reportedly getting set to finally unveil the long-rumoured third-person StarCraft shoote...",
-      "url": "https://wccftech.com/third-person-starcraft-shooter-will-reportedly-be-unveiled-at-blizzcon-2026/",
-      "publishedAt": "2026-01-07T20:21:00Z",
-      "processed_at": "2026-01-09T06:37:02.903054+00:00"
+      "description": "",
+      "url": "https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in",
+      "publishedAt": "2026-01-07T20:27:48Z",
+      "processed_at": "2026-01-09T07:27:03.642123+00:00"
+    },
+    {
+      "title": "Meike Found a Loophole for Canon’s Closed RF Mount - PetaPixel",
+      "source": {
+        "name": "PetaPixel"
+      },
+      "description": "An EF lens in 2026? Yes, technically, but the Meike 85mm f/1.8 II is more interesting than that....",
+      "url": "https://petapixel.com/2026/01/07/meike-found-a-loophole-for-canons-closed-rf-mount/",
+      "publishedAt": "2026-01-07T19:19:21Z",
+      "processed_at": "2026-01-09T07:27:03.642123+00:00"
     },
     {
       "title": "AI Models Are Starting to Learn by Asking Themselves Questions - WIRED",
@@ -60,7 +80,7 @@
       "description": "An AI model that learns without human input—by posing interesting queries for itself—might point the...",
       "url": "https://www.wired.com/story/ai-models-keep-learning-after-training-research/",
       "publishedAt": "2026-01-07T19:00:00Z",
-      "processed_at": "2026-01-09T06:37:02.903054+00:00"
+      "processed_at": "2026-01-09T07:27:03.642123+00:00"
     },
     {
       "title": "Dell admits consumers don’t care about AI PCs - The Verge",
@@ -70,7 +90,7 @@
       "description": "Dell is now shifting it focus this year away from being ‘all about the AI PC.’...",
       "url": "https://www.theverge.com/news/857723/dell-consumers-ai-pcs-comments",
       "publishedAt": "2026-01-07T17:57:27Z",
-      "processed_at": "2026-01-09T06:37:02.903054+00:00"
+      "processed_at": "2026-01-09T07:27:03.642123+00:00"
     },
     {
       "title": "Fight for All Futures with the Echoes of the Infinite Mini-Set — Hearthstone - Blizzard News",
@@ -80,20 +100,10 @@
       "description": "New Legendary cards and time-bending mechanics set the stage for the final showdown with Murozond!...",
       "url": "https://news.blizzard.com/en-us/article/24245105/fight-for-all-futures-with-the-echoes-of-the-infinite-mini-set",
       "publishedAt": "2026-01-07T17:55:00Z",
-      "processed_at": "2026-01-09T06:37:02.903054+00:00"
-    },
-    {
-      "title": "Anker Unveils Expansive Accessories, Smart Home and Audio Lineup at CES 2026 - hypebeast.com",
-      "source": {
-        "name": "HYPEBEAST"
-      },
-      "description": "From next-gen chargers to projectors and smart home hardware, Anker previewed its growing ecosystem....",
-      "url": "https://hypebeast.com/2026/1/anker-unveils-huge-smart-home-audio-accessories-lineup-ces-2026",
-      "publishedAt": "2026-01-07T17:43:59Z",
-      "processed_at": "2026-01-09T06:37:02.903054+00:00"
+      "processed_at": "2026-01-09T07:27:03.642123+00:00"
     }
   ],
-  "lastUpdated": "2026-01-09T06:37:02.903126+00:00",
+  "lastUpdated": "2026-01-09T07:27:03.642200+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
