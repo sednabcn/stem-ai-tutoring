@@ -1,16 +1,16 @@
 {
   "status": "success",
-  "totalResults": 9,
+  "totalResults": 8,
   "articles": [
     {
-      "title": "These Are the Most Head-Turning TVs of CES 2026 - CNET",
+      "title": "Roundup: All The Xbox Trailers From The New Game Plus Showcase 2026 - Pure Xbox",
       "source": {
-        "name": "CNET"
+        "name": "Pure Xbox"
       },
-      "description": "From giant micro-LED screens to ultra-slim OLEDs, these are the TVs I'm most looking forward to this...",
-      "url": "https://www.cnet.com/tech/home-entertainment/these-are-the-head-turning-tvs-of-2026/",
-      "publishedAt": "2026-01-09T01:07:00Z",
-      "processed_at": "2026-01-10T01:49:18.680324+00:00"
+      "description": "",
+      "url": "https://www.purexbox.com/features/roundup-all-the-xbox-trailers-from-the-new-game-plus-showcase-2026",
+      "publishedAt": "2026-01-09T01:22:30Z",
+      "processed_at": "2026-01-10T03:25:26.761176+00:00"
     },
     {
       "title": "Intel's 'Panther Lake' Core Ultra Laptop Chips Are Ready for Prime Time: All the Details We Know So Far - PCMag",
@@ -20,7 +20,7 @@
       "description": "At CES, Intel details its launch lineup for the new Core Ultra Series 3 processors (based on its 2nm...",
       "url": "https://www.pcmag.com/news/intel-panther-lake-core-ultra-laptop-chips-details-ces-2026",
       "publishedAt": "2026-01-09T00:22:59Z",
-      "processed_at": "2026-01-10T01:49:18.680324+00:00"
+      "processed_at": "2026-01-10T03:25:26.761176+00:00"
     },
     {
       "title": "Google Fi starts selling its first 5G tablet - 9to5Google",
@@ -30,7 +30,7 @@
       "description": "Following phones and watches, the Google Fi store is getting its first tablet with the Samsung Galax...",
       "url": "http://9to5google.com/2026/01/08/google-fi-store-tablet/",
       "publishedAt": "2026-01-08T22:49:00Z",
-      "processed_at": "2026-01-10T01:49:18.680324+00:00"
+      "processed_at": "2026-01-10T03:25:26.761176+00:00"
     },
     {
       "title": "Towerborne Launches February 26 with Massive Full Game Update - Xbox Wire",
@@ -40,7 +40,27 @@
       "description": "",
       "url": "https://news.xbox.com/en-us/2026/01/08/towerborne-launches-february-26-with-massive-full-game-update/",
       "publishedAt": "2026-01-08T21:10:12Z",
-      "processed_at": "2026-01-10T01:49:18.680324+00:00"
+      "processed_at": "2026-01-10T03:25:26.761176+00:00"
+    },
+    {
+      "title": "Leaked test results from Galaxy S26 Ultra's new 60W charging fail to impress - GSMArena.com news - GSMArena.com",
+      "source": {
+        "name": "GSMArena.com"
+      },
+      "description": "The outgoing S25 Ultra only supports 45W wired charging - 60W is the first upgrade on Samsung phones...",
+      "url": "https://www.gsmarena.com/leak_galaxy_s26_ultras_new_60w_charging_was_tested_results_fail_to_impress-news-71021.php",
+      "publishedAt": "2026-01-08T20:07:02Z",
+      "processed_at": "2026-01-10T03:25:26.761176+00:00"
+    },
+    {
+      "title": "After 8 years of playing D&D nonstop, I've finally tried its biggest alternative - Polygon",
+      "source": {
+        "name": "Polygon"
+      },
+      "description": "",
+      "url": "https://www.polygon.com/dnd-alternative-dungeon-crawl-classics/",
+      "publishedAt": "2026-01-08T20:00:00Z",
+      "processed_at": "2026-01-10T03:25:26.761176+00:00"
     },
     {
       "title": "18 Products from CES 2026 You Can Order Right Now - CNET",
@@ -50,7 +70,7 @@
       "description": "Intrigued by the innovative devices unveiled at CES? We’ve gathered what you can buy or preorder rig...",
       "url": "https://www.cnet.com/deals/ces-2026-products-you-can-buy-now/",
       "publishedAt": "2026-01-08T19:47:55Z",
-      "processed_at": "2026-01-10T01:49:18.680324+00:00"
+      "processed_at": "2026-01-10T03:25:26.761176+00:00"
     },
     {
       "title": "AI Devices Are Coming. Will Your Favorite Apps Be Along for the Ride? - WIRED",
@@ -60,40 +80,10 @@
       "description": "Tech companies are calling AI the next platform. But some developers are reluctant to let AI agents ...",
       "url": "https://www.wired.com/story/openai-amazon-operating-system-ai-apps-ads/",
       "publishedAt": "2026-01-08T19:00:00Z",
-      "processed_at": "2026-01-10T01:49:18.680324+00:00"
-    },
-    {
-      "title": "Why Some Believe A Witcher 3 Expansion Is Coming Soon - GameSpot",
-      "source": {
-        "name": "GameSpot"
-      },
-      "description": "There may be some incentive for CD Projekt Red to release more Witcher content before The Witcher 4....",
-      "url": "https://www.gamespot.com/articles/why-some-believe-a-witcher-3-expansion-is-coming-soon/1100-6537282/",
-      "publishedAt": "2026-01-08T18:39:40Z",
-      "processed_at": "2026-01-10T01:49:18.680324+00:00"
-    },
-    {
-      "title": "Apple Releases Surprise iPhone Software Update For Millions Of Users - Forbes",
-      "source": {
-        "name": "Forbes"
-      },
-      "description": "There’s a new test update for the iPhone which nobody saw coming....",
-      "url": "https://www.forbes.com/sites/davidphelan/2026/01/08/apple-releases-surprise-iphone-software-update-for-millions-of-users/",
-      "publishedAt": "2026-01-08T18:21:00Z",
-      "processed_at": "2026-01-10T01:49:18.680324+00:00"
-    },
-    {
-      "title": "The future of PCs in the age of AI - Financial Times",
-      "source": {
-        "name": "Financial Times"
-      },
-      "description": "Processing of the technology is starting to migrate from data centres to ‘the edge’ — devices like p...",
-      "url": "https://www.ft.com/content/8e025895-cd24-4c99-a901-3161959fa041",
-      "publishedAt": "2026-01-08T17:38:54Z",
-      "processed_at": "2026-01-10T01:49:18.680324+00:00"
+      "processed_at": "2026-01-10T03:25:26.761176+00:00"
     }
   ],
-  "lastUpdated": "2026-01-10T01:49:18.680390+00:00",
+  "lastUpdated": "2026-01-10T03:25:26.761237+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
