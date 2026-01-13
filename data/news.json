@@ -3,44 +3,74 @@
   "totalResults": 10,
   "articles": [
     {
-      "title": "The most fascinating monitors at CES 2026 - Ars Technica",
+      "title": "Here are Monday's biggest analyst calls: Nvidia, Apple, Tesla, Palantir, Zoom, Microsoft, Roku, Netflix & more - CNBC",
       "source": {
-        "name": "Ars Technica"
+        "name": "CNBC"
       },
-      "description": "Big sizes, big resolution, and big ideas....",
-      "url": "https://arstechnica.com/gadgets/2026/01/the-most-fascinating-monitors-at-ces-2026/",
-      "publishedAt": "2026-01-12T11:30:06Z",
-      "processed_at": "2026-01-13T14:27:30.013870+00:00"
+      "description": "Here are Monday's biggest calls on Wall Street....",
+      "url": "https://www.cnbc.com/2026/01/12/mondays-biggest-analyst-calls-on-wall-street.html",
+      "publishedAt": "2026-01-12T13:33:21Z",
+      "processed_at": "2026-01-13T15:27:49.684485+00:00"
+    },
+    {
+      "title": "Nintendo president on Nintendo Switch 2 price, franchise games and new titles, movies, anime streaming, more - Nintendo Everything",
+      "source": {
+        "name": "Nintendoeverything.com"
+      },
+      "description": "Kyoto Shimbun has published a new interview with Nintendo president Shuntaro Furukawa. A wide range ...",
+      "url": "https://nintendoeverything.com/nintendo-president-on-nintendo-switch-2-price-franchise-games-and-new-titles-movies-anime-streaming-more/",
+      "publishedAt": "2026-01-12T12:54:00Z",
+      "processed_at": "2026-01-13T15:27:49.684485+00:00"
+    },
+    {
+      "title": "Palworld is getting an official card game this summer - Eurogamer",
+      "source": {
+        "name": "Eurogamer.net"
+      },
+      "description": "Pocketpair has announced Palworld Official Card Game, which is, yes, an official card game based on ...",
+      "url": "https://www.eurogamer.net/palworld-is-getting-an-official-card-game-this-summer",
+      "publishedAt": "2026-01-12T12:13:57Z",
+      "processed_at": "2026-01-13T15:27:49.684485+00:00"
+    },
+    {
+      "title": "As roughly one-in-ten Arc Raiders players reset their characters, Embark Studios is looking for new ways to incentivise expeditions - Eurogamer",
+      "source": {
+        "name": "Eurogamer.net"
+      },
+      "description": "Arc Raiders' design director has spoken about the game's expedition system, and how the team is look...",
+      "url": "https://www.eurogamer.net/arc-raiders-expeditions-one-in-ten",
+      "publishedAt": "2026-01-12T11:51:21Z",
+      "processed_at": "2026-01-13T15:27:49.684485+00:00"
     },
     {
       "title": "\"A sad end to a sad story\" - fond Anthem farewells begin as BioWare's Destiny-like game reaches last day of operation - Eurogamer",
       "source": {
         "name": "Eurogamer.net"
       },
-      "description": "",
+      "description": "Exactly when it'll be switched off remains unclear....",
       "url": "https://www.eurogamer.net/fond-anthem-farewells-begin-as-biowares-destiny-like-game-reaches-last-day-of-operation",
       "publishedAt": "2026-01-12T11:28:20Z",
-      "processed_at": "2026-01-13T14:27:30.013870+00:00"
+      "processed_at": "2026-01-13T15:27:49.684485+00:00"
     },
     {
-      "title": "Galaxy S26 with Exynos 2600 makes first Geekbench appearance – Global entry confirmed? - Sammy Fans",
+      "title": "CES 2026: I tried Xreal's unreleased ROG R1 gaming glasses - Mashable",
       "source": {
-        "name": "Sammyfans.com"
+        "name": "Mashable"
       },
-      "description": "For the first time, Samsung’s upcoming Galaxy S26 has surfaced on Geekbench with the Exynos 2600 pro...",
-      "url": "https://www.sammyfans.com/2026/01/11/samsung-galaxy-s26-exynos-2600-first-geekbench/",
-      "publishedAt": "2026-01-12T11:03:45Z",
-      "processed_at": "2026-01-13T14:27:30.013870+00:00"
+      "description": "",
+      "url": "https://mashable.com/article/ces-2026-xreal-1s-asus-r1-ar-smart-glasses-hands-on",
+      "publishedAt": "2026-01-12T11:24:47Z",
+      "processed_at": "2026-01-13T15:27:49.684485+00:00"
     },
     {
-      "title": "'Everything Is Real' — Nintendo Forced to Deny Using AI-Generated Mother and Baby in Super Mario Marketing Campaign, as Photoshoot Model Speaks Out - IGN",
+      "title": "Why the best way to understand the self is to build a robot one - Aeon",
       "source": {
-        "name": "IGN"
+        "name": "Aeon.co"
       },
-      "description": "Nintendo has been forced to deny reports it used AI-generated imagery to advertise its new My Mario ...",
-      "url": "https://www.ign.com/articles/everything-is-real-nintendo-forced-to-deny-using-ai-generated-mother-and-baby-in-super-mario-marketing-campaign-as-photoshoot-model-speaks-out",
-      "publishedAt": "2026-01-12T10:55:24Z",
-      "processed_at": "2026-01-13T14:27:30.013870+00:00"
+      "description": "In order to better understand our human nature, we must attempt to build a robot capable of robust s...",
+      "url": "https://aeon.co/essays/why-the-best-way-to-understand-the-self-is-to-build-a-robot-one",
+      "publishedAt": "2026-01-12T11:00:05Z",
+      "processed_at": "2026-01-13T15:27:49.684485+00:00"
     },
     {
       "title": "AI can now 'see' optical illusions. What does it tell us about our own brains? - BBC",
@@ -50,60 +80,30 @@
       "description": "Our eyes can frequently play tricks on us, but scientists have discovered that some artificial intel...",
       "url": "https://www.bbc.com/future/article/20251218-how-ai-is-shedding-new-light-on-optical-illusions",
       "publishedAt": "2026-01-12T10:00:00Z",
-      "processed_at": "2026-01-13T14:27:30.013870+00:00"
+      "processed_at": "2026-01-13T15:27:49.684485+00:00"
     },
     {
-      "title": "Supermicro SYS-E403-14B-FRN2T Review The Super Cool 1P Edge Server - ServeTheHome",
+      "title": "Maxis stresses \"values have not changed\" following $55bn EA acquisition - GamesIndustry.biz",
       "source": {
-        "name": "Servethehome.com"
+        "name": "GamesIndustry.biz"
       },
-      "description": "In our Supermicro SYS-E403-14B-FRN2T review, we take a look at what might be the coolest edge server...",
-      "url": "https://www.servethehome.com/supermicro-sys-e403-14b-frn2t-review-the-super-cool-1p-edge-server/",
-      "publishedAt": "2026-01-12T03:22:13Z",
-      "processed_at": "2026-01-13T14:27:30.013870+00:00"
+      "description": "Developer provides update on Sims franchise, maintaining \"single-player PC and console experiences w...",
+      "url": "https://www.gamesindustry.biz/maxis-stresses-values-have-not-changed-following-55bn-ea-acquisition",
+      "publishedAt": "2026-01-12T09:32:21Z",
+      "processed_at": "2026-01-13T15:27:49.684485+00:00"
     },
     {
-      "title": "Your Galaxy phone is about to get very strange - Android Authority",
+      "title": "Google Photos may finally add a long-awaited video playback feature - Android Authority",
       "source": {
         "name": "Android Authority"
       },
-      "description": "Samsung is taking Galaxy users on one last trip to Hawkins, with new Stranger Things theme packs and...",
-      "url": "https://www.androidauthority.com/samsung-galaxy-stranger-things-season-5-themes-wallpapers-3631593/",
-      "publishedAt": "2026-01-12T03:17:43Z",
-      "processed_at": "2026-01-13T14:27:30.013870+00:00"
-    },
-    {
-      "title": "Apple’s stock can climb 35% this year — if these four scenarios play out - MarketWatch",
-      "source": {
-        "name": "MarketWatch"
-      },
-      "description": "The biggest bull on Apple’s stock is looking for the company to address its ‘invisible AI strategy’ ...",
-      "url": "https://www.marketwatch.com/story/apples-stock-can-climb-35-this-year-if-these-four-scenarios-play-out-76137826",
-      "publishedAt": "2026-01-12T02:42:00Z",
-      "processed_at": "2026-01-13T14:27:30.013870+00:00"
-    },
-    {
-      "title": "First Nintendo Direct of 2026 Reportedly Leaked (Including New 3D Mario Game) - ComicBook.com",
-      "source": {
-        "name": "ComicBook.com"
-      },
-      "description": "The first Nintendo Direct of 2026 is reportedly happening very soon, and will include the reveal of ...",
-      "url": "http://comicbook.com/gaming/news/first-nintendo-direct-of-2026-reportedly-leaked-including-new-3d-mario-game/",
-      "publishedAt": "2026-01-12T02:23:58Z",
-      "processed_at": "2026-01-13T14:27:30.013870+00:00"
-    },
-    {
-      "title": "Goodwill shopper sparks outrage after sharing photos of local store's shelves: 'Is this normal?' - Yahoo",
-      "source": {
-        "name": "Yahoo Entertainment"
-      },
-      "description": "\"They never clean, they never organize.\"...",
-      "url": "https://www.yahoo.com/lifestyle/articles/goodwill-shopper-sparks-outrage-sharing-021500709.html",
-      "publishedAt": "2026-01-12T02:15:00Z",
-      "processed_at": "2026-01-13T14:27:30.013870+00:00"
+      "description": "Google Photos could soon allow users to adjust the video playback speed, and even allow date separat...",
+      "url": "https://www.androidauthority.com/google-photos-video-playback-speed-apk-teardown-3631639/",
+      "publishedAt": "2026-01-12T08:34:59Z",
+      "processed_at": "2026-01-13T15:27:49.684485+00:00"
     }
   ],
-  "lastUpdated": "2026-01-13T14:27:30.013950+00:00",
+  "lastUpdated": "2026-01-13T15:27:49.684551+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
