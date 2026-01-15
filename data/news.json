@@ -1,17 +1,7 @@
 {
   "status": "success",
-  "totalResults": 9,
+  "totalResults": 10,
   "articles": [
-    {
-      "title": "The Super Hero Team-based PVP Shooter - Marvel Rivals",
-      "source": {
-        "name": "Marvelrivals.com"
-      },
-      "description": "Play for free Now! Get ready to Ignite the Battle with Marvel Rivals!...",
-      "url": "https://www.marvelrivals.com/gameupdate/20260114/41548_1281774.html",
-      "publishedAt": "2026-01-14T20:02:18Z",
-      "processed_at": "2026-01-15T22:23:39.347709+00:00"
-    },
     {
       "title": "Last chance to get a Kindle for up to 31% off - Mashable",
       "source": {
@@ -20,7 +10,7 @@
       "description": "These Kindle deals end tomorrow, so this is go time....",
       "url": "https://mashable.com/article/jan-14-kindle-last-chance-deal",
       "publishedAt": "2026-01-14T19:38:05Z",
-      "processed_at": "2026-01-15T22:23:39.347709+00:00"
+      "processed_at": "2026-01-15T23:23:09.875256+00:00"
     },
     {
       "title": "PlayStation Plus Extra/Premium Games For January 2026 Revealed - GameSpot",
@@ -30,7 +20,7 @@
       "description": "PS Plus subscribers can grab plenty of horror and racing games this month....",
       "url": "https://www.gamespot.com/gallery/playstation-plus-extra-premium-games-for-january-2026-revealed/2900-7400/",
       "publishedAt": "2026-01-14T17:17:38Z",
-      "processed_at": "2026-01-15T22:23:39.347709+00:00"
+      "processed_at": "2026-01-15T23:23:09.875256+00:00"
     },
     {
       "title": "An Update to Our Shared Commitment to Safer Gaming - Xbox Wire",
@@ -40,17 +30,27 @@
       "description": "Nintendo, Sony Interactive Entertainment, and Microsoft continue to collaborate to improve player sa...",
       "url": "https://news.xbox.com/en-us/2026/01/14/online-safety-principles-xbox-nintendo-sony/",
       "publishedAt": "2026-01-14T17:00:51Z",
-      "processed_at": "2026-01-15T22:23:39.347709+00:00"
+      "processed_at": "2026-01-15T23:23:09.875256+00:00"
+    },
+    {
+      "title": "Will Apple Announce New MacBook Pros This January? - MacRumors",
+      "source": {
+        "name": "MacRumors"
+      },
+      "description": "While the entry-level 14-inch MacBook Pro was updated with an M5 chip in October, we are still waiti...",
+      "url": "https://www.macrumors.com/2026/01/14/macbook-pro-january/",
+      "publishedAt": "2026-01-14T16:33:44Z",
+      "processed_at": "2026-01-15T23:23:09.875256+00:00"
     },
     {
       "title": "Umamusume developer apologises after AI studio backlash, says it will not use generative AI \"without prior notice\" - Eurogamer",
       "source": {
         "name": "Eurogamer.net"
       },
-      "description": "",
+      "description": "Cygames has apologised following backlash to last week's announcement regarding an AI studio....",
       "url": "https://www.eurogamer.net/umamusume-developer-apologises-after-ai-studio-backlash-says-it-will-not-use-generative-ai-without-prior-notice",
       "publishedAt": "2026-01-14T16:16:50Z",
-      "processed_at": "2026-01-15T22:23:39.347709+00:00"
+      "processed_at": "2026-01-15T23:23:09.875256+00:00"
     },
     {
       "title": "Gemini's new beta feature provides proactive responses based on your photos, emails, and more - TechCrunch",
@@ -60,17 +60,27 @@
       "description": "Personal Intelligence is off by default, as users have the option to choose if and when they want to...",
       "url": "https://techcrunch.com/2026/01/14/geminis-new-beta-feature-provides-proactive-responses-based-on-your-photos-emails-and-more/",
       "publishedAt": "2026-01-14T16:00:00Z",
-      "processed_at": "2026-01-15T22:23:39.347709+00:00"
+      "processed_at": "2026-01-15T23:23:09.875256+00:00"
     },
     {
-      "title": "Animal Crossing: New Horizons Update 3.0 Is Live Now, A Day Early - Game Informer",
+      "title": "Apple's Foldable iPhone Rumored to Be Built With Liquid Metal and Improved Titanium - MacRumors",
       "source": {
-        "name": "Gameinformer.com"
+        "name": "MacRumors"
       },
-      "description": "While version 3.0 is live now, islanders will have to wait another day for the Switch 2 upgrade to w...",
-      "url": "https://gameinformer.com/2026/01/14/animal-crossing-new-horizons-update-30-is-live-now-a-day-early",
-      "publishedAt": "2026-01-14T15:21:52Z",
-      "processed_at": "2026-01-15T22:23:39.347709+00:00"
+      "description": "Apple is planning to use advanced liquid metal and improved titanium alloys for its first foldable i...",
+      "url": "https://www.macrumors.com/2026/01/14/foldable-iphone-to-be-built-with-liquid-metal/",
+      "publishedAt": "2026-01-14T15:30:53Z",
+      "processed_at": "2026-01-15T23:23:09.875256+00:00"
+    },
+    {
+      "title": "Animal Crossing’s big 3.0 update has fans itching to return to the cozy life - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "With its 3.0 update and Switch 2 upgrade, Animal Crossing: New Horizons is primed to bring many play...",
+      "url": "https://www.theverge.com/games/861760/animal-crossing-new-horizons-update-community-reaction",
+      "publishedAt": "2026-01-14T15:16:53Z",
+      "processed_at": "2026-01-15T23:23:09.875256+00:00"
     },
     {
       "title": "Popular PC franchise Civilization comes to Apple Arcade on February 5 - Apple",
@@ -80,7 +90,7 @@
       "description": "In February, four new games join Apple Arcade, including Sid Meier’s Civilization VII Arcade Edition...",
       "url": "https://www.apple.com/newsroom/2026/01/popular-pc-franchise-civilization-comes-to-apple-arcade-on-february-5/",
       "publishedAt": "2026-01-14T15:04:29Z",
-      "processed_at": "2026-01-15T22:23:39.347709+00:00"
+      "processed_at": "2026-01-15T23:23:09.875256+00:00"
     },
     {
       "title": "Leaker details iPhone 18 lineup screen sizes, Dynamic Island plans - 9to5Mac",
@@ -90,10 +100,10 @@
       "description": "We’re eight months away from the iPhone 18 being unveiled, and a reputable Weibo leaker has detailed...",
       "url": "https://9to5mac.com/2026/01/14/leaker-details-iphone-18-lineup-screen-sizes-dynamic-island-plans/",
       "publishedAt": "2026-01-14T14:39:00Z",
-      "processed_at": "2026-01-15T22:23:39.347709+00:00"
+      "processed_at": "2026-01-15T23:23:09.875256+00:00"
     }
   ],
-  "lastUpdated": "2026-01-15T22:23:39.347769+00:00",
+  "lastUpdated": "2026-01-15T23:23:09.875326+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
