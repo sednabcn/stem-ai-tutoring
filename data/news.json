@@ -1,16 +1,76 @@
 {
   "status": "success",
-  "totalResults": 10,
+  "totalResults": 9,
   "articles": [
     {
-      "title": "Meet The New Ford New Mustang Dark Horse SC - Motor1.com",
+      "title": "Gmail widget updated with Material 3 Expressive tweaks - 9to5Google",
       "source": {
-        "name": "Motor1 "
+        "name": "9to5google.com"
       },
-      "description": "We get an early look at the new Mustang Dark Horse SC with a Formula 1 pro behind the wheel. Watch t...",
-      "url": "https://www.motor1.com/news/784409/ford-mustang-dark-horse-sc-max-verstappen/",
-      "publishedAt": "2026-01-14T14:59:00Z",
-      "processed_at": "2026-01-15T16:37:22.291541+00:00"
+      "description": "Google has updated Gmail for Android’s homescreen widget with Material 3 Expressive tweaks that help...",
+      "url": "http://9to5google.com/2026/01/14/gmail-widget-material-3-expressive/",
+      "publishedAt": "2026-01-14T17:26:00Z",
+      "processed_at": "2026-01-15T17:33:48.429590+00:00"
+    },
+    {
+      "title": "An Update to Our Shared Commitment to Safer Gaming - Xbox Wire",
+      "source": {
+        "name": "Xbox.com"
+      },
+      "description": "Nintendo, Sony Interactive Entertainment, and Microsoft continue to collaborate to improve player sa...",
+      "url": "https://news.xbox.com/en-us/2026/01/14/online-safety-principles-xbox-nintendo-sony/",
+      "publishedAt": "2026-01-14T17:00:51Z",
+      "processed_at": "2026-01-15T17:33:48.429590+00:00"
+    },
+    {
+      "title": "Ubisoft confirms 29 jobs lost at Abu Dhabi mobile studio - GamesIndustry.biz",
+      "source": {
+        "name": "GamesIndustry.biz"
+      },
+      "description": "",
+      "url": "https://www.gamesindustry.biz/ubisoft-confirms-29-jobs-lost-at-abu-dhabi-mobile-studio",
+      "publishedAt": "2026-01-14T15:47:18Z",
+      "processed_at": "2026-01-15T17:33:48.429590+00:00"
+    },
+    {
+      "title": "Animal Crossing: New Horizons Update 3.0 Is Live Now, A Day Early - Game Informer",
+      "source": {
+        "name": "Gameinformer.com"
+      },
+      "description": "While version 3.0 is live now, islanders will have to wait another day for the Switch 2 upgrade to w...",
+      "url": "https://gameinformer.com/2026/01/14/animal-crossing-new-horizons-update-30-is-live-now-a-day-early",
+      "publishedAt": "2026-01-14T15:21:52Z",
+      "processed_at": "2026-01-15T17:33:48.429590+00:00"
+    },
+    {
+      "title": "Popular PC franchise Civilization comes to Apple Arcade on February 5 - Apple",
+      "source": {
+        "name": "Apple Newsroom"
+      },
+      "description": "In February, four new games join Apple Arcade, including Sid Meier’s Civilization VII Arcade Edition...",
+      "url": "https://www.apple.com/newsroom/2026/01/popular-pc-franchise-civilization-comes-to-apple-arcade-on-february-5/",
+      "publishedAt": "2026-01-14T15:04:29Z",
+      "processed_at": "2026-01-15T17:33:48.429590+00:00"
+    },
+    {
+      "title": "Someone’s Galaxy Z TriFold display already spontaneously broke - 9to5Google",
+      "source": {
+        "name": "9to5google.com"
+      },
+      "description": "Samsung’s new Galaxy Z TriFold looks incredible – all the more so in person – but also came with the...",
+      "url": "http://9to5google.com/2026/01/14/galaxy-z-trifold-display-spontaneously-broke/",
+      "publishedAt": "2026-01-14T14:55:00Z",
+      "processed_at": "2026-01-15T17:33:48.429590+00:00"
+    },
+    {
+      "title": "Red Bull F1 Just Revealed a Never-Before-Seen Variant of the Ford Mustang on YouTube - Road & Track",
+      "source": {
+        "name": "RoadandTrack.com"
+      },
+      "description": "A YouTube video posted by Red Bull showcasing the racing team's drivers and 100 years of Ford Racing...",
+      "url": "https://www.roadandtrack.com/news/a69998144/red-bull-f1-reveal-2026-ford-mustang-dark-horse-sc-max-verstappen/",
+      "publishedAt": "2026-01-14T14:24:00Z",
+      "processed_at": "2026-01-15T17:33:48.429590+00:00"
     },
     {
       "title": "Nvidia’s new app update includes DLSS 4.5 and more Control Panel features - The Verge",
@@ -20,7 +80,7 @@
       "description": "Nvidia is rolling out DLSS 4.5 to all RTX owners. The latest Nvidia app update includes DLSS 4.5 and...",
       "url": "https://www.theverge.com/news/861640/nvidia-dlss-4-5-app-update-available-download",
       "publishedAt": "2026-01-14T14:00:00Z",
-      "processed_at": "2026-01-15T16:37:22.291541+00:00"
+      "processed_at": "2026-01-15T17:33:48.429590+00:00"
     },
     {
       "title": "Reprompt attack let hackers hijack Microsoft Copilot sessions - BleepingComputer",
@@ -30,80 +90,10 @@
       "description": "Researchers identified an attack method dubbed \"Reprompt\" that could allow attackers to infiltrate a...",
       "url": "https://www.bleepingcomputer.com/news/security/reprompt-attack-let-hackers-hijack-microsoft-copilot-sessions/",
       "publishedAt": "2026-01-14T14:00:00Z",
-      "processed_at": "2026-01-15T16:37:22.291541+00:00"
-    },
-    {
-      "title": "Everything new in Livewire 4 - Laravel News",
-      "source": {
-        "name": "Laravel News"
-      },
-      "description": "Livewire 4 is the biggest release yet—featuring single-file components, islands for isolated renderi...",
-      "url": "https://laravel-news.com/everything-new-in-livewire-4",
-      "publishedAt": "2026-01-14T14:00:00Z",
-      "processed_at": "2026-01-15T16:37:22.291541+00:00"
-    },
-    {
-      "title": "Surprise! Animal Crossing: New Horizons' free 3.0 update for Switch releases early - Eurogamer",
-      "source": {
-        "name": "Eurogamer.net"
-      },
-      "description": "Good news, Animal Crossing: New Horizons' free 3.0 Switch update for all owners has been released ea...",
-      "url": "https://www.eurogamer.net/surprise-animal-crossing-new-horizons-free-30-update-for-switch-releases-early",
-      "publishedAt": "2026-01-14T13:24:14Z",
-      "processed_at": "2026-01-15T16:37:22.291541+00:00"
-    },
-    {
-      "title": "PS1 Ridge Racer Poised for PS5, PS4 via PS Plus Premium - Push Square",
-      "source": {
-        "name": "Push Square"
-      },
-      "description": "It takes a Village...",
-      "url": "https://www.pushsquare.com/news/2026/01/9-ps-plus-extra-premium-games-for-january-2026-announced",
-      "publishedAt": "2026-01-14T13:23:26Z",
-      "processed_at": "2026-01-15T16:37:22.291541+00:00"
-    },
-    {
-      "title": "An Overlooked Disney Collection From Digital Eclipse Has Been Rated For Switch - Nintendo Life",
-      "source": {
-        "name": "Nintendo Life"
-      },
-      "description": "And Switch 2!...",
-      "url": "https://www.nintendolife.com/news/2026/01/an-overlooked-disney-collection-from-digital-eclipse-has-been-rated-for-switch",
-      "publishedAt": "2026-01-14T13:15:00Z",
-      "processed_at": "2026-01-15T16:37:22.291541+00:00"
-    },
-    {
-      "title": "Four contestants test their creativity to make Rogue Traders and retinues on Scrap Demon - Warhammer Community",
-      "source": {
-        "name": "Warhammer-community.com"
-      },
-      "description": "What to watch on Warhammer TV this week....",
-      "url": "https://www.warhammer-community.com/articles/sgsr7vwj/four-contestants-test-their-creativity-to-make-rogue-traders-and-retinues-on-scrap-demon",
-      "publishedAt": "2026-01-14T12:56:44Z",
-      "processed_at": "2026-01-15T16:37:22.291541+00:00"
-    },
-    {
-      "title": "Fortinet Fixes Critical FortiSIEM Flaw Allowing Unauthenticated Remote Code Execution - The Hacker News",
-      "source": {
-        "name": "Internet"
-      },
-      "description": "Fortinet patches a critical FortiSIEM vulnerability (CVE-2025-64155) that allows unauthenticated rem...",
-      "url": "https://thehackernews.com/2026/01/fortinet-fixes-critical-fortisiem-flaw.html",
-      "publishedAt": "2026-01-14T11:53:00Z",
-      "processed_at": "2026-01-15T16:37:22.291541+00:00"
-    },
-    {
-      "title": "Battlefield 6 Season 2 delayed until February, but more content for Season 1 and events are on the way - Eurogamer",
-      "source": {
-        "name": "Eurogamer.net"
-      },
-      "description": "Battlefield 6's second season has been delayed....",
-      "url": "https://www.eurogamer.net/battlefield-6-season-2-delayed-until-february-but-more-content-for-season-1-and-events-are-on-the-way",
-      "publishedAt": "2026-01-14T11:12:29Z",
-      "processed_at": "2026-01-15T16:37:22.291541+00:00"
+      "processed_at": "2026-01-15T17:33:48.429590+00:00"
     }
   ],
-  "lastUpdated": "2026-01-15T16:37:22.291632+00:00",
+  "lastUpdated": "2026-01-15T17:33:48.429661+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
