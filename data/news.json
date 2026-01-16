@@ -1,76 +1,46 @@
 {
   "status": "success",
-  "totalResults": 10,
+  "totalResults": 9,
   "articles": [
     {
-      "title": "Pentagon’s “Arsenal of Freedom” tour borrows name from Star Trek episode—about killer AI - Ars Technica",
+      "title": "A single click mounted a covert, multistage attack against Copilot - Ars Technica",
       "source": {
         "name": "Ars Technica"
       },
-      "description": "AI weapons systems may annihilate their creators....",
-      "url": "https://arstechnica.com/culture/2026/01/pentagons-arsenal-of-freedom-tour-borrows-name-from-star-trek-episode-about-killer-ai/",
-      "publishedAt": "2026-01-14T23:43:46Z",
-      "processed_at": "2026-01-16T01:53:59.447690+00:00"
+      "description": "Exploit exfiltrating data from chat histories worked even after users closed chat windows....",
+      "url": "https://arstechnica.com/security/2026/01/a-single-click-mounted-a-covert-multistage-attack-against-copilot/",
+      "publishedAt": "2026-01-14T22:03:11Z",
+      "processed_at": "2026-01-16T03:41:03.740899+00:00"
     },
     {
-      "title": "Google rolling out Android 16 QPR3 Beta 2 to Pixel - 9to5Google",
+      "title": "Naya Connect is a modular mechanical keyboard system for the indecisive - The Verge",
       "source": {
-        "name": "9to5google.com"
+        "name": "The Verge"
       },
-      "description": "Android 16 QPR3 Beta 2 is now available for Pixel devices following last month's release just before...",
-      "url": "http://9to5google.com/2026/01/14/android-16-qpr3-beta-2-pixel/",
-      "publishedAt": "2026-01-14T21:34:00Z",
-      "processed_at": "2026-01-16T01:53:59.447690+00:00"
+      "description": "Naya Connect is a modular mechanical keyboard ecosystem with a swappable numpad, trackball, a 6DoF s...",
+      "url": "https://www.theverge.com/news/862123/naya-connect-modular-mechanical-keyboard-kickstarter",
+      "publishedAt": "2026-01-14T21:38:30Z",
+      "processed_at": "2026-01-16T03:41:03.740899+00:00"
     },
     {
-      "title": "Most Downloaded PS5 Games of 2025 Revealed, as Xbox's Forza Horizon 5 Tops Ghost of Yotei - Push Square",
+      "title": "Last chance to get a Kindle for up to 31% off - Mashable",
       "source": {
-        "name": "Push Square"
+        "name": "Mashable"
       },
-      "description": "Times have changed...",
-      "url": "https://www.pushsquare.com/news/2026/01/most-downloaded-ps5-games-of-2025-revealed-as-xboxs-forza-horizon-5-tops-ghost-of-yotei",
-      "publishedAt": "2026-01-14T21:00:00Z",
-      "processed_at": "2026-01-16T01:53:59.447690+00:00"
+      "description": "These Kindle deals end tomorrow, so this is go time....",
+      "url": "https://mashable.com/article/jan-14-kindle-last-chance-deal",
+      "publishedAt": "2026-01-14T21:37:05Z",
+      "processed_at": "2026-01-16T03:41:03.740899+00:00"
     },
     {
-      "title": "Dinosaur shooter Code Violet overpromises and never delivers - AV Club",
+      "title": "Nintendo, PlayStation, and Xbox update their 2020 pledge to \"improve player safety across our platforms\" - GamesIndustry.biz",
       "source": {
-        "name": "The A.V. Club"
+        "name": "GamesIndustry.biz"
       },
-      "description": "The new PlayStation 5 game Code Violet falls far short of its daring and hubristic claims of being t...",
-      "url": "https://www.avclub.com/code-violet-game-review",
-      "publishedAt": "2026-01-14T20:04:43Z",
-      "processed_at": "2026-01-16T01:53:59.447690+00:00"
-    },
-    {
-      "title": "The Super Hero Team-based PVP Shooter - Marvel Rivals",
-      "source": {
-        "name": "Marvelrivals.com"
-      },
-      "description": "Play for free Now! Get ready to Ignite the Battle with Marvel Rivals!...",
-      "url": "https://www.marvelrivals.com/20260115/41525_1281774.html",
-      "publishedAt": "2026-01-14T20:02:18Z",
-      "processed_at": "2026-01-16T01:53:59.447690+00:00"
-    },
-    {
-      "title": "One Of These Games Is From 2012 And The Other Is From 2026 - Kotaku",
-      "source": {
-        "name": "Kotaku"
-      },
-      "description": "Meltdown from Call of Duty: Black Ops 2 definitely looks different in Black Ops 7, but does it look ...",
-      "url": "https://kotaku.com/one-of-these-games-is-from-2012-and-the-other-is-from-2026-2000659848",
-      "publishedAt": "2026-01-14T19:04:49Z",
-      "processed_at": "2026-01-16T01:53:59.447690+00:00"
-    },
-    {
-      "title": "A random 2008 Nintendo DS game is closing in on Metacritic’s number one spot - Dexerto",
-      "source": {
-        "name": "Dexerto"
-      },
-      "description": "A random Nintendo DS game based on a Disney Channel series is shooting up the Metacritic charts, and...",
-      "url": "https://www.dexerto.com/gaming/cory-in-the-house-metacritic-3304242/",
-      "publishedAt": "2026-01-14T18:56:53Z",
-      "processed_at": "2026-01-16T01:53:59.447690+00:00"
+      "description": "Nintendo, Sony Interactive Entertainment, and Microsoft continue to collaborate in a bid to \"improve...",
+      "url": "https://www.gamesindustry.biz/nintendo-playstation-and-xbox-update-their-2020-pledge-to-improve-player-safety-across-our-platforms",
+      "publishedAt": "2026-01-14T21:06:34Z",
+      "processed_at": "2026-01-16T03:41:03.740899+00:00"
     },
     {
       "title": "Apple Creative Studio icons are ‘unique’ and not for all standalone purchase apps - 9to5Mac",
@@ -80,17 +50,17 @@
       "description": "Apple Creative Studio is a mighty good value for an impressive suite of pro apps. It also makes up a...",
       "url": "https://9to5mac.com/2026/01/14/apple-creative-studio-icons-are-unique-and-not-for-all-standalone-purchase-apps/",
       "publishedAt": "2026-01-14T18:23:00Z",
-      "processed_at": "2026-01-16T01:53:59.447690+00:00"
+      "processed_at": "2026-01-16T03:41:03.740899+00:00"
     },
     {
-      "title": "Hytale's early access launch isn't quite ready to step out of Minecraft's shadow, but as a block-loving survival fan I'm still having a blast - Eurogamer",
+      "title": "Pokémon Horizons: Season 2 Part 3 Available on Amazon, Apple TV, and YouTube - Pokemon.com",
       "source": {
-        "name": "Eurogamer.net"
+        "name": "Pokemon.com"
       },
-      "description": "I did not anticipate it'd take me an hour to start my first game of Hytale after loading it up, but ...",
-      "url": "https://www.eurogamer.net/hytales-early-access-launch-isnt-quite-ready-to-step-out-of-minecrafts-shadow-but-im-still-having-a-blast",
-      "publishedAt": "2026-01-14T17:47:52Z",
-      "processed_at": "2026-01-16T01:53:59.447690+00:00"
+      "description": "Pokémon Horizons: Season 2—The Search for Laqua Part 3 is now on Amazon, Apple TV, and YouTube....",
+      "url": "https://www.pokemon.com/us/pokemon-news/pokemon-horizons-season-2-part-3-available-on-amazon-apple-tv-and-youtube",
+      "publishedAt": "2026-01-14T18:11:58Z",
+      "processed_at": "2026-01-16T03:41:03.740899+00:00"
     },
     {
       "title": "PlayStation Plus Extra/Premium Games For January 2026 Revealed - GameSpot",
@@ -100,10 +70,30 @@
       "description": "PS Plus subscribers can grab plenty of horror and racing games this month....",
       "url": "https://www.gamespot.com/gallery/playstation-plus-extra-premium-games-for-january-2026-revealed/2900-7400/",
       "publishedAt": "2026-01-14T17:17:38Z",
-      "processed_at": "2026-01-16T01:53:59.447690+00:00"
+      "processed_at": "2026-01-16T03:41:03.740899+00:00"
+    },
+    {
+      "title": "Ligand-specific activation trajectories dictate GPCR signalling in cells - Nature",
+      "source": {
+        "name": "Nature.com"
+      },
+      "description": "Different agonists produce equilibria of at least four distinct active states of the G-protein-bound...",
+      "url": "https://www.nature.com/articles/s41586-025-09963-3",
+      "publishedAt": "2026-01-14T17:10:54Z",
+      "processed_at": "2026-01-16T03:41:03.740899+00:00"
+    },
+    {
+      "title": "Will Apple Announce New MacBook Pros This January? - MacRumors",
+      "source": {
+        "name": "MacRumors"
+      },
+      "description": "While the entry-level 14-inch MacBook Pro was updated with an M5 chip in October, we are still waiti...",
+      "url": "https://www.macrumors.com/2026/01/14/macbook-pro-january/",
+      "publishedAt": "2026-01-14T16:33:44Z",
+      "processed_at": "2026-01-16T03:41:03.740899+00:00"
     }
   ],
-  "lastUpdated": "2026-01-16T01:53:59.447762+00:00",
+  "lastUpdated": "2026-01-16T03:41:03.740972+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
