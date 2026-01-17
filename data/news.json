@@ -3,14 +3,44 @@
   "totalResults": 10,
   "articles": [
     {
-      "title": "The New Year Preview – Fulfil the bone-tithe with new Ossiarch Bonereapers - Warhammer Community",
+      "title": "Mandiant releases rainbow table that cracks weak admin password in 12 hours - Ars Technica",
+      "source": {
+        "name": "Ars Technica"
+      },
+      "description": "Windows laggards still using the vulnerable hashing function: Your days are numbered....",
+      "url": "https://arstechnica.com/security/2026/01/mandiant-releases-rainbow-table-that-cracks-weak-admin-password-in-12-hours/",
+      "publishedAt": "2026-01-16T21:05:37Z",
+      "processed_at": "2026-01-17T23:20:52.892030+00:00"
+    },
+    {
+      "title": "The New Year Preview – Tanks galore for the Legiones Astartes - Warhammer Community",
       "source": {
         "name": "Warhammer-community.com"
       },
-      "description": "Build new tactical options from the bones of the conquered....",
-      "url": "https://www.warhammer-community.com/articles/waia6lkr/the-new-year-preview-fulfil-the-bone-tithe-with-new-ossiarch-bonereapers",
-      "publishedAt": "2026-01-16T20:14:07Z",
-      "processed_at": "2026-01-17T22:21:09.875681+00:00"
+      "description": "New super-heavies and Journal Tactica announced....",
+      "url": "https://www.warhammer-community.com/articles/o0vvkblo/the-new-year-preview-tanks-galore-for-the-legiones-astartes",
+      "publishedAt": "2026-01-16T20:47:36Z",
+      "processed_at": "2026-01-17T23:20:52.892030+00:00"
+    },
+    {
+      "title": "Today’s Top Deals: Save on Audible, Cyberpunk 2077, USB Docks, and More - IGN",
+      "source": {
+        "name": "IGN"
+      },
+      "description": "And score discounts on other tech, gaming, and lifestyle must-haves....",
+      "url": "https://www.ign.com/articles/best-deals-for-january-16-2026",
+      "publishedAt": "2026-01-16T20:45:53Z",
+      "processed_at": "2026-01-17T23:20:52.892030+00:00"
+    },
+    {
+      "title": "The New Year Preview – All-new Legio Custodes Revealed - Warhammer Community",
+      "source": {
+        "name": "Warhammer-community.com"
+      },
+      "description": "The Emperor unsheathes his talons....",
+      "url": "https://www.warhammer-community.com/articles/mdp0kzdk/the-new-year-preview-all-new-legio-custodes-revealed",
+      "publishedAt": "2026-01-16T20:43:55Z",
+      "processed_at": "2026-01-17T23:20:52.892030+00:00"
     },
     {
       "title": "The New Year Preview – Prince Yriel counterattacks with new Aeldari Corsairs - Warhammer Community",
@@ -20,17 +50,27 @@
       "description": "The Eldritch Raiders strike from the void....",
       "url": "https://www.warhammer-community.com/articles/l7x5v6ib/the-new-year-preview-prince-yriel-counterattacks-with-new-aeldari-corsairs",
       "publishedAt": "2026-01-16T19:57:40Z",
-      "processed_at": "2026-01-17T22:21:09.875681+00:00"
+      "processed_at": "2026-01-17T23:20:52.892030+00:00"
     },
     {
-      "title": "Live The New Year Warhammer Preview Live! 2026 – See all of the reveals - Warhammer Community",
+      "title": "The two things AMD subtly revealed at CES that actually excite me - The Verge",
       "source": {
-        "name": "Warhammer-community.com"
+        "name": "The Verge"
       },
-      "description": "Every reveal in one convenient place....",
-      "url": "https://www.warhammer-community.com/articles/ssts1hyy/the-new-year-warhammer-preview-live-2026-see-all-of-the-reveals",
-      "publishedAt": "2026-01-16T19:17:26Z",
-      "processed_at": "2026-01-17T22:21:09.875681+00:00"
+      "description": "AMD’s big CES 2026 announcements might have bored gamers, but we were able to find out about about l...",
+      "url": "https://www.theverge.com/tech/862861/amd-ces-2026-socketed-laptop-chips-strix-halo-price",
+      "publishedAt": "2026-01-16T19:25:12Z",
+      "processed_at": "2026-01-17T23:20:52.892030+00:00"
+    },
+    {
+      "title": "Arc Raiders Starts Handing Out Brutal Permanent Bans To Its Worst Cheaters - Kotaku",
+      "source": {
+        "name": "Kotaku"
+      },
+      "description": "Gone are the 30-day suspensions for those egregiously cheating...",
+      "url": "https://kotaku.com/arc-raiders-permanent-bans-cheaters-stream-sniping-2000660615",
+      "publishedAt": "2026-01-16T19:00:51Z",
+      "processed_at": "2026-01-17T23:20:52.892030+00:00"
     },
     {
       "title": "Big Hops Review: A 3D Platformer As Good As Any Mario Game - Kotaku",
@@ -40,7 +80,7 @@
       "description": "Big Hops is a nearly perfect platformer that rewards exploration and creativity...",
       "url": "https://kotaku.com/nintendo-could-learn-something-from-this-incredible-3d-platformer-2000660289",
       "publishedAt": "2026-01-16T18:30:21Z",
-      "processed_at": "2026-01-17T22:21:09.875681+00:00"
+      "processed_at": "2026-01-17T23:20:52.892030+00:00"
     },
     {
       "title": "Games Journalism Layoffs Hit Inverse, The Verge - aftermath.site",
@@ -50,7 +90,7 @@
       "description": "Media companies continue to have no idea what to do with gaming coverage...",
       "url": "https://aftermath.site/layoff-verge-inverse-gaming/",
       "publishedAt": "2026-01-16T18:07:09Z",
-      "processed_at": "2026-01-17T22:21:09.875681+00:00"
+      "processed_at": "2026-01-17T23:20:52.892030+00:00"
     },
     {
       "title": "Meme-Fueled Metacritic War On Clair Obscur Gets Even Weirder - Kotaku",
@@ -60,50 +100,10 @@
       "description": "It costs more than ever to get Cory In The House in your house...",
       "url": "https://kotaku.com/cory-house-metacritic-clair-obscur-ebay-2000660631",
       "publishedAt": "2026-01-16T18:01:46Z",
-      "processed_at": "2026-01-17T22:21:09.875681+00:00"
-    },
-    {
-      "title": "The Latest Monster Hunter Wilds PC Perf Drama Explained - Digital Foundry",
-      "source": {
-        "name": "Digitalfoundry.net"
-      },
-      "description": "Thousands upon thousands of DLC checks hammer the CPU....",
-      "url": "https://www.digitalfoundry.net/news/2026/01/the-latest-monster-hunter-wilds-pc-perf-drama-explained",
-      "publishedAt": "2026-01-16T16:42:00Z",
-      "processed_at": "2026-01-17T22:21:09.875681+00:00"
-    },
-    {
-      "title": "Netflix likely killed off Google Cast support because no one’s really casting anymore - 9to5Google",
-      "source": {
-        "name": "9to5google.com"
-      },
-      "description": "A new report suggests the reasoning behind Netflix's move might be the most obvious: nobody was actu...",
-      "url": "http://9to5google.com/2026/01/16/netflix-google-cast-support-killed-reasoning/",
-      "publishedAt": "2026-01-16T16:29:00Z",
-      "processed_at": "2026-01-17T22:21:09.875681+00:00"
-    },
-    {
-      "title": "The Vibrant PS5 Hyperpop Controllers Are Now Up for Preorder - IGN",
-      "source": {
-        "name": "IGN"
-      },
-      "description": "Sony has dropped a new Hyperpop Collection of PlayStation 5 controllers, featuring vibrant colors ca...",
-      "url": "https://www.ign.com/articles/the-vibrant-ps5-hyperpop-controllers-are-now-up-for-preorder",
-      "publishedAt": "2026-01-16T16:02:02Z",
-      "processed_at": "2026-01-17T22:21:09.875681+00:00"
-    },
-    {
-      "title": "Lego’s Next ‘Legend of Zelda’ Set Takes Us Back to ‘Ocarina of Time’ - Gizmodo",
-      "source": {
-        "name": "Gizmodo.com"
-      },
-      "description": "Link and Zelda face off against Ganon in Lego's recreation of the iconic N64 game's climactic boss b...",
-      "url": "https://gizmodo.com/lego-legend-of-zelda-ocarina-of-time-final-battle-set-price-release-date-2000711082",
-      "publishedAt": "2026-01-16T16:00:09Z",
-      "processed_at": "2026-01-17T22:21:09.875681+00:00"
+      "processed_at": "2026-01-17T23:20:52.892030+00:00"
     }
   ],
-  "lastUpdated": "2026-01-17T22:21:09.875753+00:00",
+  "lastUpdated": "2026-01-17T23:20:52.892103+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
