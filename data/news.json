@@ -1,109 +1,99 @@
 {
   "status": "success",
-  "totalResults": 10,
+  "totalResults": 9,
   "articles": [
     {
-      "title": "Column | I found the most complete protein. It’s not meat. - The Washington Post",
+      "title": "The Warhammer Community team have made their Million Miniatures Challenge pledge – What are you planning? - Warhammer Community",
+      "source": {
+        "name": "Warhammer-community.com"
+      },
+      "description": "Here’s what we’re aiming to contribute....",
+      "url": "https://www.warhammer-community.com/articles/qoglpxve/the-warhammer-community-team-have-made-their-million-miniatures-challenge-pledge-what-are-you-planning",
+      "publishedAt": "2026-01-20T15:56:36Z",
+      "processed_at": "2026-01-21T15:34:50.973462+00:00"
+    },
+    {
+      "title": "Samsung Galaxy S26 Ultra colors basically confirmed after promising new leak - PhoneArena",
+      "source": {
+        "name": "PhoneArena"
+      },
+      "description": "These are most likely the finalized new colors for the Samsung Galaxy S26 Ultra....",
+      "url": "https://www.phonearena.com/news/samsung-galaxy-s26-ultra-colors-basically-confirmed-after-new-leak_id177427",
+      "publishedAt": "2026-01-20T15:15:01Z",
+      "processed_at": "2026-01-21T15:34:50.973462+00:00"
+    },
+    {
+      "title": "Ex-Nintendo of America Boss Doug Bowser Joins Hasbro, Owner of Dungeons & Dragons and Magic: The Gathering - ign.com",
+      "source": {
+        "name": "IGN"
+      },
+      "description": "Doug Bowser, the former president and chief operating officer at Nintendo of America, has joined the...",
+      "url": "https://www.ign.com/articles/ex-nintendo-of-america-boss-doug-bowser-joins-hasbro-owner-of-dungeons-dragons-and-magic-the-gathering",
+      "publishedAt": "2026-01-20T15:01:40Z",
+      "processed_at": "2026-01-21T15:34:50.973462+00:00"
+    },
+    {
+      "title": "The first commercial space station, Haven-1, is now undergoing assembly for launch - Ars Technica",
+      "source": {
+        "name": "Ars Technica"
+      },
+      "description": "We have a very strong incentive to send a crew as quickly as we can safely do so.\"...",
+      "url": "https://arstechnica.com/space/2026/01/the-first-commercial-space-station-haven-1-is-now-undergoing-assembly-for-launch/",
+      "publishedAt": "2026-01-20T15:00:04Z",
+      "processed_at": "2026-01-21T15:34:50.973462+00:00"
+    },
+    {
+      "title": "Razer CEO Can’t Get Out Of His Own Way In Car Crash Interview On AI - Kotaku",
+      "source": {
+        "name": "Kotaku"
+      },
+      "description": "The Grok-powered Ava waifu AI is about the most sensible part of the conversation...",
+      "url": "https://kotaku.com/razer-ava-ai-grok-interview-slop-motoko-2000661233",
+      "publishedAt": "2026-01-20T14:51:48Z",
+      "processed_at": "2026-01-21T15:34:50.973462+00:00"
+    },
+    {
+      "title": "‘Ball and gun’ gamers and the plague of uninformed expertise - The Washington Post",
       "source": {
         "name": "The Washington Post"
       },
-      "description": "The most “complete” protein is probably one you’re already eating....",
-      "url": "https://www.washingtonpost.com/climate-environment/2026/01/20/protein-meat-plant-myths/",
-      "publishedAt": "2026-01-20T11:32:01Z",
-      "processed_at": "2026-01-21T14:33:11.933082+00:00"
+      "description": "Sports games and shooters are often excellent. But the conversation around them is a symptom of a wi...",
+      "url": "https://www.washingtonpost.com/entertainment/video-games/2026/01/20/ball-and-gun-gamers/",
+      "publishedAt": "2026-01-20T14:33:48Z",
+      "processed_at": "2026-01-21T15:34:50.973462+00:00"
     },
     {
-      "title": "Microsoft’s free Xbox Cloud Gaming is coming soon with ads - The Verge",
+      "title": "Coming to Xbox Game Pass: Warhammer 40,000: Space Marine II, Death Stranding Director’s Cut, and More - Xbox Wire",
       "source": {
-        "name": "The Verge"
+        "name": "Xbox.com"
       },
-      "description": "Microsoft has started testing its ad-supported Xbox Cloud Gaming service. New loading screens with t...",
-      "url": "https://www.theverge.com/news/864261/xbox-cloud-gaming-free-ads-testing",
-      "publishedAt": "2026-01-20T10:38:34Z",
-      "processed_at": "2026-01-21T14:33:11.933082+00:00"
+      "description": "Coming to Xbox Game Pass: Warhammer 40,000: Space Marine II, Death Stranding Director’s Cut, and mor...",
+      "url": "https://news.xbox.com/en-us/2026/01/20/xbox-game-pass-january-2026-wave-2/",
+      "publishedAt": "2026-01-20T14:03:54Z",
+      "processed_at": "2026-01-21T15:34:50.973462+00:00"
     },
     {
-      "title": "iPhone 18 Pro Leak: Smaller Dynamic Island, No Top-Left Camera Cutout - MacRumors",
+      "title": "Larian games hit new highs after Divinity's reveal - Eurogamer",
       "source": {
-        "name": "MacRumors"
+        "name": "Eurogamer.net"
       },
-      "description": "Over the last few months, rumors around the iPhone 18 Pro's front-panel design have been conflicted,...",
-      "url": "https://www.macrumors.com/2026/01/20/iphone-18-pro-leak-smaller-dynamic-island/",
-      "publishedAt": "2026-01-20T10:34:20Z",
-      "processed_at": "2026-01-21T14:33:11.933082+00:00"
+      "description": "Divinity: Original Sin 2 and Baldur's Gate 3 are seeing new peaks in player numbers following Larian...",
+      "url": "https://www.eurogamer.net/divinity-original-sin-2-and-baldurs-gate-3-hit-new-highs-after-larian-game-awards-reveal",
+      "publishedAt": "2026-01-20T13:29:50Z",
+      "processed_at": "2026-01-21T15:34:50.973462+00:00"
     },
     {
-      "title": "Nintendo Boosts Its Reach With Another 'Nintendo Today!' Update - Nintendo Life",
+      "title": "Everything We Know About YouTube TV’s New Cheaper TV Packages - | Cord Cutters News",
       "source": {
-        "name": "Nintendo Life"
+        "name": "Cord Cutters News, LLC"
       },
-      "description": "Here are the patch notes...",
-      "url": "https://www.nintendolife.com/news/2026/01/nintendo-boosts-its-reach-with-another-nintendo-today-update",
-      "publishedAt": "2026-01-20T09:48:55Z",
-      "processed_at": "2026-01-21T14:33:11.933082+00:00"
-    },
-    {
-      "title": "Realme promises days of battery from its 10,001mAh phone - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "",
-      "url": "https://www.theverge.com/news/864254/realme-promises-days-of-battery-from-its-10001mah-phone",
-      "publishedAt": "2026-01-20T08:57:34Z",
-      "processed_at": "2026-01-21T14:33:11.933082+00:00"
-    },
-    {
-      "title": "NVIDIA N1X/N1 laptops to debut this quarter, N2 series in Q3 2027 - VideoCardz.com",
-      "source": {
-        "name": "Videocardz.com"
-      },
-      "description": "NVIDIA’s N1/N1X Arm PC chips return to the roadmap, N2 planned for Q3 2027 Is NVIDIA launching the l...",
-      "url": "https://videocardz.com/newz/nvidia-n1x-n1-laptops-to-debut-this-quarter-n2-series-in-q3-2027",
-      "publishedAt": "2026-01-20T07:58:00Z",
-      "processed_at": "2026-01-21T14:33:11.933082+00:00"
-    },
-    {
-      "title": "Kirby Air Riders Is Getting Its First Update Of 2026 \"Soon\" - Nintendo Life",
-      "source": {
-        "name": "Nintendo Life"
-      },
-      "description": "And it might be one of the last significant ones...",
-      "url": "https://www.nintendolife.com/news/2026/01/kirby-air-riders-is-getting-its-first-update-of-2026-soon",
-      "publishedAt": "2026-01-20T05:59:00Z",
-      "processed_at": "2026-01-21T14:33:11.933082+00:00"
-    },
-    {
-      "title": "Google Clock 8.5 rolling out ‘swipe to dismiss’ for alarms - 9to5Google",
-      "source": {
-        "name": "9to5google.com"
-      },
-      "description": "Version 8.5 of Google Clock for Android was released last week and it’s rolling out the ability to d...",
-      "url": "http://9to5google.com/2026/01/19/google-clock-alarm-swipe-dismiss/",
-      "publishedAt": "2026-01-20T05:18:00Z",
-      "processed_at": "2026-01-21T14:33:11.933082+00:00"
-    },
-    {
-      "title": "Galaxy S26 Ultra may not see a price hike, but it could cost you in other ways - SamMobile",
-      "source": {
-        "name": "SamMobile"
-      },
-      "description": "Samsung is expected to unveil the Galaxy S26 series late next month. While the lineup is not rumored...",
-      "url": "https://www.sammobile.com/news/galaxy-s26-ultra-price-remains-unchanged-cost-other-ways/",
-      "publishedAt": "2026-01-20T04:23:00Z",
-      "processed_at": "2026-01-21T14:33:11.933082+00:00"
-    },
-    {
-      "title": "Firehound is a huge repository of App Store apps exposing data from millions of users - 9to5Mac",
-      "source": {
-        "name": "9to5Mac"
-      },
-      "description": "An effort led by security research lab CovertLabs is actively uncovering troves of (mostly) AI-relat...",
-      "url": "https://9to5mac.com/2026/01/19/firehound-huge-repository-of-app-store-apps-exposing-data-from-millions-of-users/",
-      "publishedAt": "2026-01-20T01:55:00Z",
-      "processed_at": "2026-01-21T14:33:11.933082+00:00"
+      "description": "YouTube TV has announced plans to roll out a series of new, lower-cost streaming packages early this...",
+      "url": "https://cordcuttersnews.com/everything-we-know-about-youtube-tvs-new-cheaper-tv-packages/",
+      "publishedAt": "2026-01-20T13:14:52Z",
+      "processed_at": "2026-01-21T15:34:50.973462+00:00"
     }
   ],
-  "lastUpdated": "2026-01-21T14:33:11.933157+00:00",
+  "lastUpdated": "2026-01-21T15:34:50.973538+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
