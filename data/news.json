@@ -1,7 +1,67 @@
 {
   "status": "success",
-  "totalResults": 10,
+  "totalResults": 8,
   "articles": [
+    {
+      "title": "Sony Unveils $230 Clip-On Earbuds, Joining a Growing Wave - Bloomberg.com",
+      "source": {
+        "name": "Bloomberg"
+      },
+      "description": "Sony Group Corp. introduced its latest pair of consumer earbuds, with a clip-on design that resemble...",
+      "url": "https://www.bloomberg.com/news/articles/2026-01-21/sony-announces-230-linkbuds-clip-earbuds-joining-a-growing-style-trend",
+      "publishedAt": "2026-01-21T16:00:31Z",
+      "processed_at": "2026-01-22T17:30:19.449278+00:00"
+    },
+    {
+      "title": "This midrange Android phone also runs Windows and Linux - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "The NexPhone aims to answer the age-old question: why can’t your phone just be your whole dang compu...",
+      "url": "https://www.theverge.com/tech/864595/nexphone-android-linux-windows-11",
+      "publishedAt": "2026-01-21T16:00:00Z",
+      "processed_at": "2026-01-22T17:30:19.449278+00:00"
+    },
+    {
+      "title": "1348 Ex Voto launches March 12 for PS5 and PC; Xbox Series version canceled - Gematsu",
+      "source": {
+        "name": "Gematsu"
+      },
+      "description": "14th century Italy action adventure game 1348 Ex Voto will launch for PlayStation 5 and PC via Steam...",
+      "url": "https://www.gematsu.com/2026/01/1348-ex-voto-launches-march-12-for-ps5-and-pc-xbox-series-version-canceled",
+      "publishedAt": "2026-01-21T15:44:56Z",
+      "processed_at": "2026-01-22T17:30:19.449278+00:00"
+    },
+    {
+      "title": "Cyberpunk 2077 VR creator says he's being \"punished\" by pirates after mod take down - Eurogamer",
+      "source": {
+        "name": "Eurogamer.net"
+      },
+      "description": "Cyberpunk 2077 VR modder believes making it free following DMCA strike would be a moot point, as peo...",
+      "url": "https://www.eurogamer.net/cyberpunk-2077-vr-creator-says-hes-being-punished-by-pirates-after-mod-take-down",
+      "publishedAt": "2026-01-21T14:45:19Z",
+      "processed_at": "2026-01-22T17:30:19.449278+00:00"
+    },
+    {
+      "title": "Instagram’s top boss is missing the point about AI on the platform - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "Instagram head Adam Mosseri recently posted about the threat AI poses to his platform — but the call...",
+      "url": "https://www.theverge.com/tech/864768/instagram-adam-mosseri-ai-content-algorithm",
+      "publishedAt": "2026-01-21T14:15:00Z",
+      "processed_at": "2026-01-22T17:30:19.449278+00:00"
+    },
+    {
+      "title": "Arc Raiders players who spawn late into matches profit more, senior lead confirms - Eurogamer",
+      "source": {
+        "name": "Eurogamer.net"
+      },
+      "description": "",
+      "url": "https://www.eurogamer.net/arc-raiders-players-late-spawn-profit-more",
+      "publishedAt": "2026-01-21T13:56:50Z",
+      "processed_at": "2026-01-22T17:30:19.449278+00:00"
+    },
     {
       "title": "iPhone 18 Pro Dynamic Island confusion now appears to be resolved - 9to5Mac",
       "source": {
@@ -10,100 +70,20 @@
       "description": "There’s been considerable confusion about the fate of the iPhone 18 Pro Dynamic Island, with conflic...",
       "url": "https://9to5mac.com/2026/01/21/iphone-18-pro-dynamic-island-confusion-now-appears-to-be-resolved/",
       "publishedAt": "2026-01-21T12:40:00Z",
-      "processed_at": "2026-01-22T16:37:47.688180+00:00"
+      "processed_at": "2026-01-22T17:30:19.449278+00:00"
     },
     {
-      "title": "Random: YouTuber Combines Switch 2, PS5, And Xbox Series X Into One Huge Machine - Nintendo Life",
+      "title": "Random: YouTuber Combines Switch 2, PS5, And Xbox Series S Into One Huge Machine - Nintendo Life",
       "source": {
         "name": "Nintendo Life"
       },
       "description": "It's a beast...",
-      "url": "https://www.nintendolife.com/news/2026/01/random-youtuber-combines-switch-2-ps5-and-xbox-series-x-into-one-huge-machine",
+      "url": "https://www.nintendolife.com/news/2026/01/random-youtuber-combines-switch-2-ps5-and-xbox-series-s-into-one-huge-machine",
       "publishedAt": "2026-01-21T12:15:00Z",
-      "processed_at": "2026-01-22T16:37:47.688180+00:00"
-    },
-    {
-      "title": "Surprise Xbox Developer Direct Sale 2026 goes live on Microsoft Store - TrueAchievements",
-      "source": {
-        "name": "TrueAchievements"
-      },
-      "description": "With Microsoft's next big Xbox showcase on the horizon, a new Xbox Developer Direct Sale has just go...",
-      "url": "https://www.trueachievements.com/news/xbox-developer-direct-sale-2026",
-      "publishedAt": "2026-01-21T12:05:03Z",
-      "processed_at": "2026-01-22T16:37:47.688180+00:00"
-    },
-    {
-      "title": "Creator of DMCA'd Cyberpunk 2077 VR Mod Says People Are Now Pirating It to 'Punish' Him for Breaking CD Projekt's Terms of Service - IGN",
-      "source": {
-        "name": "IGN"
-      },
-      "description": "",
-      "url": "https://www.ign.com/articles/creator-of-dmcad-cyberpunk-2077-vr-mod-says-people-are-now-pirating-it-to-punish-him-for-breaking-cd-projekts-terms-of-service",
-      "publishedAt": "2026-01-21T11:58:13Z",
-      "processed_at": "2026-01-22T16:37:47.688180+00:00"
-    },
-    {
-      "title": "Why ‘aspirational clutter’ is some of the hardest to part with - The Washington Post",
-      "source": {
-        "name": "The Washington Post"
-      },
-      "description": "The idea of who we are doesn’t always align with reality — and that’s often reflected in our unused ...",
-      "url": "https://www.washingtonpost.com/home/2026/01/21/what-is-aspirational-clutter/",
-      "publishedAt": "2026-01-21T11:45:41Z",
-      "processed_at": "2026-01-22T16:37:47.688180+00:00"
-    },
-    {
-      "title": "The Game Awards' weirdest \"and finally\" game, Highguard, is showing signs of life, less than one week out from launch - Eurogamer",
-      "source": {
-        "name": "Eurogamer.net"
-      },
-      "description": "Following a lukewarm reception at The Game Awards, hero shooter Highguard appears to be readying thi...",
-      "url": "https://www.eurogamer.net/highguard-shows-signs-of-life-less-than-one-week-away-from-launch",
-      "publishedAt": "2026-01-21T11:36:11Z",
-      "processed_at": "2026-01-22T16:37:47.688180+00:00"
-    },
-    {
-      "title": "Three Games Are Available Today With Xbox Game Pass (January 21) - Pure Xbox",
-      "source": {
-        "name": "Pure Xbox"
-      },
-      "description": "Including a MASSIVE addition from Kojima Productions...",
-      "url": "https://www.purexbox.com/news/2026/01/three-games-are-available-today-with-xbox-game-pass-january-21",
-      "publishedAt": "2026-01-21T11:00:00Z",
-      "processed_at": "2026-01-22T16:37:47.688180+00:00"
-    },
-    {
-      "title": "Final Fantasy 7 Remake Switch 2: A PS5/PS4 Hybrid, Boosted With DLSS - Digital Foundry",
-      "source": {
-        "name": "Digitalfoundry.net"
-      },
-      "description": "Impressive in both docked and handheld play....",
-      "url": "https://www.digitalfoundry.net/features/final-fantasy-7-remake-switch-2-a-ps5ps4-hybrid-boosted-with-dlss",
-      "publishedAt": "2026-01-21T11:00:00Z",
-      "processed_at": "2026-01-22T16:37:47.688180+00:00"
-    },
-    {
-      "title": "Arc Raiders Dev Says Players Who Spawn Late Don't Realize They 'Economically Profit Way More' Than Players Who Don't - IGN",
-      "source": {
-        "name": "IGN"
-      },
-      "description": "Arc Raiders developer Embark Studios has said players who spawn late don’t realize they “economicall...",
-      "url": "https://www.ign.com/articles/arc-raiders-dev-says-players-who-spawn-late-dont-realize-they-economically-profit-way-more-than-players-who-dont",
-      "publishedAt": "2026-01-21T10:50:17Z",
-      "processed_at": "2026-01-22T16:37:47.688180+00:00"
-    },
-    {
-      "title": "‘Nightmare’—Microsoft Update Breaks Windows For Millions - Forbes",
-      "source": {
-        "name": "Forbes"
-      },
-      "description": "Do not install this Microsoft Windows update until you understand the risks....",
-      "url": "https://www.forbes.com/sites/zakdoffman/2026/01/21/nightmare-microsoft-update-breaks-windows-for-millions/",
-      "publishedAt": "2026-01-21T10:34:52Z",
-      "processed_at": "2026-01-22T16:37:47.688180+00:00"
+      "processed_at": "2026-01-22T17:30:19.449278+00:00"
     }
   ],
-  "lastUpdated": "2026-01-22T16:37:47.688259+00:00",
+  "lastUpdated": "2026-01-22T17:30:19.449346+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
