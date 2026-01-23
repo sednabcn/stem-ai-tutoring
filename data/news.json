@@ -1,7 +1,67 @@
 {
   "status": "success",
-  "totalResults": 8,
+  "totalResults": 9,
   "articles": [
+    {
+      "title": "Microsoft Down for Thousands of Users, Downdetector Reports - gvwire.com",
+      "source": {
+        "name": "Gvwire.com"
+      },
+      "description": "Thousands of users reported issues with Microsoft services including Outlook, Microsoft 365, and Mic...",
+      "url": "https://gvwire.com/2026/01/22/microsoft-down-for-thousands-of-users-downdetector-reports/",
+      "publishedAt": "2026-01-22T20:03:45Z",
+      "processed_at": "2026-01-23T21:23:31.894593+00:00"
+    },
+    {
+      "title": "All Nintendo Switch 1 & 2 Games With Analogue Trigger Compatibility (That Work With The GameCube NSO Controller) - Nintendo Life",
+      "source": {
+        "name": "Nintendo Life"
+      },
+      "description": "Digital disrespect...",
+      "url": "https://www.nintendolife.com/guides/all-nintendo-switch-1-and-2-games-with-analogue-trigger-compatibility-that-work-with-the-gamecube-nso-controller",
+      "publishedAt": "2026-01-22T19:06:02Z",
+      "processed_at": "2026-01-23T21:23:31.894593+00:00"
+    },
+    {
+      "title": "Fable finally gets a release window following Xbox Developer Direct, will launch in Autumn 2026 - Eurogamer",
+      "source": {
+        "name": "Eurogamer.net"
+      },
+      "description": "",
+      "url": "https://www.eurogamer.net/fable-finally-gets-a-release-window-following-xbox-developer-direct-will-launch-in-autumn-2026",
+      "publishedAt": "2026-01-22T18:56:07Z",
+      "processed_at": "2026-01-23T21:23:31.894593+00:00"
+    },
+    {
+      "title": "Beast of Reincarnation Gets New Look at Action/RPG-Hybrid Combat and a Summer Release Window - IGN",
+      "source": {
+        "name": "IGN"
+      },
+      "description": "",
+      "url": "https://www.ign.com/articles/beast-of-reincarnation-gets-new-look-at-actionrpg-hybrid-combat-and-a-summer-release-window",
+      "publishedAt": "2026-01-22T18:55:30Z",
+      "processed_at": "2026-01-23T21:23:31.894593+00:00"
+    },
+    {
+      "title": "Xbox Developer_Direct 2026 Recap: Everything Revealed, Including a Surprise New Double Fine Game - Xbox Wire",
+      "source": {
+        "name": "Xbox.com"
+      },
+      "description": "Developer_Direct just brought us gameplay and insights for Fable, Forza Horizon 6, Beast of Reincarn...",
+      "url": "https://news.xbox.com/en-us/2026/01/22/xbox-developer-direct-2026-recap/",
+      "publishedAt": "2026-01-22T18:52:12Z",
+      "processed_at": "2026-01-23T21:23:31.894593+00:00"
+    },
+    {
+      "title": "Creation and Destruction: How Double Fine’s Kiln Combines Pottery with Brawling - Xbox Wire",
+      "source": {
+        "name": "Xbox.com"
+      },
+      "description": "Double Fine’s newest creation has been revealed at Developer_Direct! We talk with Project Lead Derek...",
+      "url": "https://news.xbox.com/en-us/2026/01/22/kiln-developer-direct-double-fine-hands-on-preview/",
+      "publishedAt": "2026-01-22T18:42:12Z",
+      "processed_at": "2026-01-23T21:23:31.894593+00:00"
+    },
     {
       "title": "Forza Horizon 6: More Details on The Country, The Culture and The Cars of Playground Games’ Japan - Xbox Wire",
       "source": {
@@ -10,80 +70,30 @@
       "description": "Forza Horizon 6 is coming on May 19 - find out more about the cars and culture of Playground Games' ...",
       "url": "https://news.xbox.com/en-us/2026/01/22/forza-horizon-6-developer-direct-breakdown-interview/",
       "publishedAt": "2026-01-22T18:17:07Z",
-      "processed_at": "2026-01-23T20:28:40.208907+00:00"
+      "processed_at": "2026-01-23T21:23:31.894593+00:00"
     },
     {
-      "title": "Claude Code is suddenly everywhere inside Microsoft - The Verge",
+      "title": "Yakuza 3 Remake Ugly Alleyway Has Fans Concerned - Kotaku",
       "source": {
-        "name": "The Verge"
+        "name": "Kotaku"
       },
-      "description": "Microsoft is increasingly adopting Claude Code, despite selling its own GitHub Copilot AI tool. Micr...",
-      "url": "https://www.theverge.com/tech/865689/microsoft-claude-code-anthropic-partnership-notepad",
-      "publishedAt": "2026-01-22T17:00:00Z",
-      "processed_at": "2026-01-23T20:28:40.208907+00:00"
+      "description": "It seems like a technical issue is causing the spot to look bad and a modder may have already fixed ...",
+      "url": "https://kotaku.com/yakuza-3-remake-ugly-alleyway-has-fans-concerned-graphics-downgrade-fix-mod-2000662269",
+      "publishedAt": "2026-01-22T18:01:00Z",
+      "processed_at": "2026-01-23T21:23:31.894593+00:00"
     },
     {
-      "title": "Sony announces its first turntables in years - The Verge",
+      "title": "AMD Fires Back At Intel Panther Lake: Shows How Its Ryzen AI MAX & Ryzen AI 400/300 CPU Will Compete & Win Against Core Ultra Series 3 - Wccftech",
       "source": {
-        "name": "The Verge"
+        "name": "Wccftech"
       },
-      "description": "The PS-LX3BT and PS-LX5BT turntables will come out in February and April, respectively, and are aime...",
-      "url": "https://www.theverge.com/news/865333/sony-new-turntables-2026",
-      "publishedAt": "2026-01-22T17:00:00Z",
-      "processed_at": "2026-01-23T20:28:40.208907+00:00"
-    },
-    {
-      "title": "Pokémon TCG Pocket's Next Expansion Looks Truly Fantastical - Nintendo Life",
-      "source": {
-        "name": "Nintendo Life"
-      },
-      "description": "It's the Obstagoon Parade!...",
-      "url": "https://www.nintendolife.com/news/2026/01/pokemon-tcg-pockets-next-expansion-looks-truly-fantastical",
-      "publishedAt": "2026-01-22T16:30:00Z",
-      "processed_at": "2026-01-23T20:28:40.208907+00:00"
-    },
-    {
-      "title": "Free Play Days – Sherlock Holmes Chapter One, South Park: Snow Day, This War of Mine: Final Cut and Cult of the Lamb - Xbox Wire",
-      "source": {
-        "name": "Xbox.com"
-      },
-      "description": "",
-      "url": "https://news.xbox.com/en-us/2026/01/22/free-play-days-01-22-2026/",
-      "publishedAt": "2026-01-22T16:02:01Z",
-      "processed_at": "2026-01-23T20:28:40.208907+00:00"
-    },
-    {
-      "title": "Google’s AI Mode can now tap into your Gmail and Photos to provide tailored responses - TechCrunch",
-      "source": {
-        "name": "TechCrunch"
-      },
-      "description": "The company notes that AI Mode doesn’t train directly on your Gmail inbox or Google Photos library. ...",
-      "url": "https://techcrunch.com/2026/01/22/googles-ai-mode-can-now-tap-into-your-gmail-and-photos-to-provide-tailored-responses/",
-      "publishedAt": "2026-01-22T16:00:00Z",
-      "processed_at": "2026-01-23T20:28:40.208907+00:00"
-    },
-    {
-      "title": "Wrap the Karin Everon RS in the New Mosh Mosh Livery - Rockstar Games",
-      "source": {
-        "name": "Rockstargames.com"
-      },
-      "description": "The Karin Everon RS (SUV) was already oversized and overpowered. Now add ‘over-the-top’ to that list...",
-      "url": "https://www.rockstargames.com/newswire/article/2581391535k91o/wrap-the-karin-everon-rs-in-the-new-mosh-mosh-livery",
-      "publishedAt": "2026-01-22T14:59:33Z",
-      "processed_at": "2026-01-23T20:28:40.208907+00:00"
-    },
-    {
-      "title": "Nintendo Switch 2 led December sales in the U.S., now at 4.4 million, doubled Switch 1's performance - Nintendo Everything",
-      "source": {
-        "name": "Nintendoeverything.com"
-      },
-      "description": "Much has been made of Nintendo Switch 2’s sales during the holiday period, but with the December 202...",
-      "url": "https://nintendoeverything.com/nintendo-switch-2-led-december-sales-in-the-u-s-now-at-4-4-million-doubled-switch-1s-performance/",
-      "publishedAt": "2026-01-22T14:47:46Z",
-      "processed_at": "2026-01-23T20:28:40.208907+00:00"
+      "description": "AMD showcases Ryzen AI MAX CPUs outperforming Intel's Panther Lake in premium, mainstream, and entry...",
+      "url": "https://wccftech.com/amd-fires-back-at-intel-panther-lake-vs-ryzen-ai-max-400-300/",
+      "publishedAt": "2026-01-22T17:05:00Z",
+      "processed_at": "2026-01-23T21:23:31.894593+00:00"
     }
   ],
-  "lastUpdated": "2026-01-23T20:28:40.208989+00:00",
+  "lastUpdated": "2026-01-23T21:23:31.894668+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
