@@ -1,7 +1,27 @@
 {
   "status": "success",
-  "totalResults": 9,
+  "totalResults": 10,
   "articles": [
+    {
+      "title": "Hytale Patch Notes - Update 2 - Hytale",
+      "source": {
+        "name": "Hytale.com"
+      },
+      "description": "",
+      "url": "https://hytale.com/news/2026/1/hytale-patch-notes-update-2",
+      "publishedAt": "2026-01-24T10:30:00Z",
+      "processed_at": "2026-01-25T11:19:18.102191+00:00"
+    },
+    {
+      "title": "Samsung Galaxy S26: The 7 rumored features that could make me switch - Mashable",
+      "source": {
+        "name": "Mashable"
+      },
+      "description": "I've been an iPhone user for a long time, but these features could make me defect from Apple-land....",
+      "url": "https://mashable.com/article/samsung-galaxy-s26-features-switch-from-iphone",
+      "publishedAt": "2026-01-24T10:20:08Z",
+      "processed_at": "2026-01-25T11:19:18.102191+00:00"
+    },
     {
       "title": "PSA: Switch 2 Visual And Performance Improvements Included In New Rocket League Update - Nintendo Life",
       "source": {
@@ -10,17 +30,17 @@
       "description": "Update: Here's a look at this latest update...",
       "url": "https://www.nintendolife.com/news/2026/01/psa-switch-2-visual-and-performance-improvements-included-in-new-rocket-league-update",
       "publishedAt": "2026-01-24T04:30:00Z",
-      "processed_at": "2026-01-25T10:24:11.300011+00:00"
+      "processed_at": "2026-01-25T11:19:18.102191+00:00"
     },
     {
-      "title": "Industry Veteran Hideki Konno Has Apparently Left Nintendo After Four Decades - Nintendo Life",
+      "title": "Hideki Konno, who led Mario Kart, 3DS hardware, and more, is gone from Nintendo after 40 years - Nintendo Everything",
       "source": {
-        "name": "Nintendo Life"
+        "name": "Nintendoeverything.com"
       },
-      "description": "Thanks for everything, Konno-san...",
-      "url": "https://www.nintendolife.com/news/2026/01/industry-veteran-hideki-konno-has-apparently-left-nintendo-after-four-decades",
-      "publishedAt": "2026-01-24T02:35:00Z",
-      "processed_at": "2026-01-25T10:24:11.300011+00:00"
+      "description": "It’s been revealed that longtime Nintendo designer Hideki Konno has left the company after about for...",
+      "url": "https://nintendoeverything.com/hideki-konno-nintendo-retirement/",
+      "publishedAt": "2026-01-24T00:55:55Z",
+      "processed_at": "2026-01-25T11:19:18.102191+00:00"
     },
     {
       "title": "Sims 4 Sex Mod Used Hundreds Of Thousands Of Times A Day - Kotaku",
@@ -30,17 +50,7 @@
       "description": "What a wicked game to play, to make me feel this way...",
       "url": "https://kotaku.com/sims-4-sex-mod-wickedwhims-ea-maxis-2000662724",
       "publishedAt": "2026-01-23T23:20:22Z",
-      "processed_at": "2026-01-25T10:24:11.300011+00:00"
-    },
-    {
-      "title": "Final Fantasy 7 Remake Part 3's Title Has Finally Been Decided - GameSpot",
-      "source": {
-        "name": "GameSpot"
-      },
-      "description": "Final Fantasy 7 Remake trilogy game director Naoki Hamaguchi confirmed that the studio has finally s...",
-      "url": "https://www.gamespot.com/articles/final-fantasy-7-remake-part-3-officially-has-a-title/1100-6537603/",
-      "publishedAt": "2026-01-23T22:12:35Z",
-      "processed_at": "2026-01-25T10:24:11.300011+00:00"
+      "processed_at": "2026-01-25T11:19:18.102191+00:00"
     },
     {
       "title": "Massive data breach exposes 149 million accounts across Facebook, Gmail, and others - Android Police",
@@ -50,17 +60,37 @@
       "description": "Keep an eye out going forward...",
       "url": "https://www.androidpolice.com/big-data-leak-exposes-149-million-accounts-across-facebook-gmail/",
       "publishedAt": "2026-01-23T22:05:52Z",
-      "processed_at": "2026-01-25T10:24:11.300011+00:00"
+      "processed_at": "2026-01-25T11:19:18.102191+00:00"
     },
     {
-      "title": "Highguard Breaks Radio Silence And The Internet Reacts - Kotaku",
+      "title": "Surrender as a service: Microsoft unlocks BitLocker for feds - theregister.com",
       "source": {
-        "name": "Kotaku"
+        "name": "Theregister.com"
       },
-      "description": "The free-to-play FPS is doing a big launch day showcase stream next week...",
-      "url": "https://kotaku.com/highguard-breaks-radio-silence-and-the-internet-reacts-2000662650",
-      "publishedAt": "2026-01-23T19:11:38Z",
-      "processed_at": "2026-01-25T10:24:11.300011+00:00"
+      "description": "updated: If you're serious about encryption, keep control of your encryption keys...",
+      "url": "https://www.theregister.com/2026/01/23/surrender_as_a_service_microsoft/",
+      "publishedAt": "2026-01-23T20:41:00Z",
+      "processed_at": "2026-01-25T11:19:18.102191+00:00"
+    },
+    {
+      "title": "AI Agents Are Poised to Hit a Mathematical Wall, Study Finds - Gizmodo",
+      "source": {
+        "name": "Gizmodo.com"
+      },
+      "description": "LLMs have their limits....",
+      "url": "https://gizmodo.com/ai-agents-are-poised-to-hit-a-mathematical-wall-study-finds-2000713493",
+      "publishedAt": "2026-01-23T19:55:53Z",
+      "processed_at": "2026-01-25T11:19:18.102191+00:00"
+    },
+    {
+      "title": "GhostPoster: 17 malware browser extensions you should delete ASAP - Mashable",
+      "source": {
+        "name": "Mashable"
+      },
+      "description": "Cybersecurity researchers identified malware-infected browser extensions on Chrome, Firefox, and Edg...",
+      "url": "https://mashable.com/article/malicious-browser-extensions-malware-delete",
+      "publishedAt": "2026-01-23T19:52:31Z",
+      "processed_at": "2026-01-25T11:19:18.102191+00:00"
     },
     {
       "title": "CISA confirms active exploitation of four enterprise software bugs - BleepingComputer",
@@ -70,30 +100,10 @@
       "description": "The Cybersecurity and Infrastructure Security Agency (CISA) in the U.S. warned of active exploitatio...",
       "url": "https://www.bleepingcomputer.com/news/security/cisa-confirms-active-exploitation-of-four-enterprise-software-bugs/",
       "publishedAt": "2026-01-23T18:47:31Z",
-      "processed_at": "2026-01-25T10:24:11.300011+00:00"
-    },
-    {
-      "title": "iOS 27 sounds like exactly what the iPhone needs right now - 9to5Mac",
-      "source": {
-        "name": "9to5Mac"
-      },
-      "description": "Apple will unveil iOS 27 at WWDC in June, and rumors are already painting a clear picture: it sounds...",
-      "url": "https://9to5mac.com/2026/01/23/ios-27-sounds-like-exactly-what-the-iphone-needs-right-now/",
-      "publishedAt": "2026-01-23T17:50:00Z",
-      "processed_at": "2026-01-25T10:24:11.300011+00:00"
-    },
-    {
-      "title": "ARC Raiders Roadmap: January - April 2026 - arcraiders.com",
-      "source": {
-        "name": "Arcraiders.com"
-      },
-      "description": "ARC Raiders is a multiplayer extraction adventure, set in a lethal future earth, ravaged by a myster...",
-      "url": "https://arcraiders.com/news/roadmap-january-april-2026",
-      "publishedAt": "2026-01-23T17:02:54Z",
-      "processed_at": "2026-01-25T10:24:11.300011+00:00"
+      "processed_at": "2026-01-25T11:19:18.102191+00:00"
     }
   ],
-  "lastUpdated": "2026-01-25T10:24:11.300075+00:00",
+  "lastUpdated": "2026-01-25T11:19:18.102274+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
