@@ -1,7 +1,47 @@
 {
   "status": "success",
-  "totalResults": 10,
+  "totalResults": 9,
   "articles": [
+    {
+      "title": "RuneScape gold counts as real stolen property after UK judge rules in $700K theft case - Dexerto",
+      "source": {
+        "name": "Dexerto"
+      },
+      "description": "A UK judge has ruled that RuneScape gold can count as stolen property after an ex-developer was accu...",
+      "url": "https://www.dexerto.com/gaming/runescape-gold-counts-as-real-stolen-property-after-uk-judge-rules-in-700k-theft-case-3309301/",
+      "publishedAt": "2026-01-25T18:51:41Z",
+      "processed_at": "2026-01-26T19:24:58.410584+00:00"
+    },
+    {
+      "title": "Apple iPhone 18 Pro Set For Its Biggest Visual Change In Years, New Leak Claims - Forbes",
+      "source": {
+        "name": "Forbes"
+      },
+      "description": "This fall’s flagship iPhone could have a strikingly different design, according to a new report....",
+      "url": "https://www.forbes.com/sites/davidphelan/2026/01/25/apple-iphone-18-pro-display-set-for-biggest-design-change-in-years-new-leak-claims/",
+      "publishedAt": "2026-01-25T18:05:00Z",
+      "processed_at": "2026-01-26T19:24:58.410584+00:00"
+    },
+    {
+      "title": "I tested a solid-state portable battery for a week - now lithium-ion feels old school - ZDNET",
+      "source": {
+        "name": "ZDNet"
+      },
+      "description": "This wireless power bank uses solid-state batteries instead of lithium-ion, and you'll like the reas...",
+      "url": "https://www.zdnet.com/article/hey-bmx-solidsafe-5k-power-bank-review/",
+      "publishedAt": "2026-01-25T17:18:00Z",
+      "processed_at": "2026-01-26T19:24:58.410584+00:00"
+    },
+    {
+      "title": "Sapphire RX 9070 XT NITRO+ adds two more burned blue-tipped 12V-2×6 adapter reports, and issues with RMA - VideoCardz.com",
+      "source": {
+        "name": "Videocardz.com"
+      },
+      "description": "Sapphire RX 9070 XT NITRO+ continues to have issues Two fresh threads add more attention to Sapphire...",
+      "url": "https://videocardz.com/newz/sapphire-rx-9070-xt-nitro-adds-two-more-burned-blue-tipped-12v-2x6-adapter-reports-and-issues-with-rma",
+      "publishedAt": "2026-01-25T16:32:00Z",
+      "processed_at": "2026-01-26T19:24:58.410584+00:00"
+    },
     {
       "title": "Google says it’s fixed Gmail issues with spam and misclassification - TechCrunch",
       "source": {
@@ -10,17 +50,27 @@
       "description": "If your Gmail account doesn’t seem to be working properly today, you’re not alone....",
       "url": "https://techcrunch.com/2026/01/25/gmail-is-having-issues-with-spam-and-misclassification/",
       "publishedAt": "2026-01-25T16:16:39Z",
-      "processed_at": "2026-01-26T18:38:49.044760+00:00"
+      "processed_at": "2026-01-26T19:24:58.410584+00:00"
     },
     {
-      "title": "Super Mario Galaxy Movie's New Trailer Shares A \"First Look\" At Yoshi - Nintendo Life",
+      "title": "Google adding blur to Android 17’s system UI on Pixel - 9to5Google",
       "source": {
-        "name": "Nintendo Life"
+        "name": "9to5google.com"
       },
-      "description": "New galaxies, new friends...",
-      "url": "https://www.nintendolife.com/news/2026/01/super-mario-galaxy-movies-new-trailer-shares-a-first-look-at-yoshi",
-      "publishedAt": "2026-01-25T14:06:00Z",
-      "processed_at": "2026-01-26T18:38:49.044760+00:00"
+      "description": "Google is following last year’s Material 3 Expressive redesign on phones by introducing significantl...",
+      "url": "http://9to5google.com/2026/01/25/android-17-blur/",
+      "publishedAt": "2026-01-25T16:05:00Z",
+      "processed_at": "2026-01-26T19:24:58.410584+00:00"
+    },
+    {
+      "title": "Lenovo Legion gaming laptop with AMD Strix Halo shows up alongside NVIDIA N1X update - VideoCardz.com",
+      "source": {
+        "name": "Videocardz.com"
+      },
+      "description": "Lenovo Legion 7 15ASH11 is likely powered by AMD Strix Halo List of gaming laptops using only AMD Ry...",
+      "url": "https://videocardz.com/newz/lenovo-legion-gaming-laptop-with-amd-strix-halo-shows-up-alongside-nvidia-n1x-update",
+      "publishedAt": "2026-01-25T14:46:00Z",
+      "processed_at": "2026-01-26T19:24:58.410584+00:00"
     },
     {
       "title": "New York Startup Builds Fridge-Sized Machine That Can Turn Air Into Gasoline - Jalopnik",
@@ -30,7 +80,7 @@
       "description": "While it's not quite the free energy it sounds like at first, Aircela's technology in its current st...",
       "url": "https://www.jalopnik.com/2083556/new-york-startup-builds-machine-that-makes-gasoline-from-air/",
       "publishedAt": "2026-01-25T14:05:00Z",
-      "processed_at": "2026-01-26T18:38:49.044760+00:00"
+      "processed_at": "2026-01-26T19:24:58.410584+00:00"
     },
     {
       "title": "Act Now—48 Million Gmail Usernames And Passwords Leaked Online - Forbes",
@@ -40,70 +90,10 @@
       "description": "Are your Gmail login credentials amongst the 48 million estimated as exposed in this leak of existin...",
       "url": "https://www.forbes.com/sites/daveywinder/2026/01/25/48-million-gmail-usernames-and-passwords-leaked-online/",
       "publishedAt": "2026-01-25T14:04:29Z",
-      "processed_at": "2026-01-26T18:38:49.044760+00:00"
-    },
-    {
-      "title": "6 Performance Cars You Probably Didn't Know Used Yamaha Engines - Jalopnik",
-      "source": {
-        "name": "Jalopnik"
-      },
-      "description": "Yamaha is renowned for its high-performance motorcycles, but lesser known is the legendary builder h...",
-      "url": "https://www.jalopnik.com/2081530/performance-cars-use-yamaha-engine/",
-      "publishedAt": "2026-01-25T13:45:00Z",
-      "processed_at": "2026-01-26T18:38:49.044760+00:00"
-    },
-    {
-      "title": "Want a Galaxy S25 Ultra for Cheap? Buy a Galaxy S24 Ultra Instead - CNET",
-      "source": {
-        "name": "CNET"
-      },
-      "description": "Last year's Galaxy S24 Ultra is an impressive phone and costs half as much as the most recent model....",
-      "url": "https://www.cnet.com/tech/mobile/want-a-galaxy-s25-ultra-for-cheap-buy-a-galaxy-s24-ultra-instead/",
-      "publishedAt": "2026-01-25T13:01:00Z",
-      "processed_at": "2026-01-26T18:38:49.044760+00:00"
-    },
-    {
-      "title": "Inside Apple’s AI Shake-Up and Its Plans for Two New Versions of Siri - Bloomberg.com",
-      "source": {
-        "name": "Bloomberg"
-      },
-      "description": "Apple shakes up its AI efforts with a Google partnership, management changes and two new versions of...",
-      "url": "https://www.bloomberg.com/news/newsletters/2026-01-25/inside-apple-s-ai-shake-up-ai-safari-and-plans-for-new-siri-in-ios-26-4-ios-27-mktqy7xb",
-      "publishedAt": "2026-01-25T13:00:39Z",
-      "processed_at": "2026-01-26T18:38:49.044760+00:00"
-    },
-    {
-      "title": "This overlooked mountaineering roguelike makes icy exploration strangely cozy - Polygon",
-      "source": {
-        "name": "Polygon"
-      },
-      "description": "It's not exactly a cozy game, but this strategic exploration game is relaxing to play...",
-      "url": "https://www.polygon.com/insurmountable-mountaineering-roguelike/",
-      "publishedAt": "2026-01-25T13:00:17Z",
-      "processed_at": "2026-01-26T18:38:49.044760+00:00"
-    },
-    {
-      "title": "Retro Recap: All The Classic Gaming News From The Past Week (January 25th 2026) - Time Extension",
-      "source": {
-        "name": "Timeextension.com"
-      },
-      "description": "Sonic! Smurfs! Lara Croft! 2DS!...",
-      "url": "https://www.timeextension.com/features/retro-recap-all-the-classic-gaming-news-from-the-past-week-january-25th-2026",
-      "publishedAt": "2026-01-25T12:00:00Z",
-      "processed_at": "2026-01-26T18:38:49.044760+00:00"
-    },
-    {
-      "title": "7 CarPlay Features Apple Recently Added To Your Vehicle - bgr.com",
-      "source": {
-        "name": "BGR"
-      },
-      "description": "Apple CarPlay features widgets, Live Activities, and the Liquid Glass design since iOS 26 was introd...",
-      "url": "https://www.bgr.com/2079391/new-apple-carplay-features-added-vehicle-ios-26-2/",
-      "publishedAt": "2026-01-25T11:17:00Z",
-      "processed_at": "2026-01-26T18:38:49.044760+00:00"
+      "processed_at": "2026-01-26T19:24:58.410584+00:00"
     }
   ],
-  "lastUpdated": "2026-01-26T18:38:49.044856+00:00",
+  "lastUpdated": "2026-01-26T19:24:58.410657+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
