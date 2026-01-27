@@ -1,99 +1,109 @@
 {
   "status": "success",
-  "totalResults": 9,
+  "totalResults": 10,
   "articles": [
     {
-      "title": "Microsoft said my Windows 10 PC no longer supported updates - but this software saved it - ZDNET",
+      "title": "Apple introduces new AirTag with expanded range and improved findability - Apple",
       "source": {
-        "name": "ZDNet"
+        "name": "Apple Newsroom"
       },
-      "description": "0patch provides crucial security updates for Windows 10 and fills the support gap left by Microsoft....",
-      "url": "https://www.zdnet.com/article/0patch-review/",
-      "publishedAt": "2026-01-26T02:04:00Z",
-      "processed_at": "2026-01-27T12:55:07.482166+00:00"
+      "description": "Apple today unveiled the new AirTag, now with an expanded finding range and a louder speaker....",
+      "url": "https://www.apple.com/newsroom/2026/01/apple-introduces-new-airtag-with-expanded-range-and-improved-findability/",
+      "publishedAt": "2026-01-26T14:01:23Z",
+      "processed_at": "2026-01-27T13:50:29.464692+00:00"
     },
     {
-      "title": "If You Inherited The “I Need A Little Treat” Gene, These 16 Under-$10 Impulse Buys Won’t Break The Bank - BuzzFeed",
+      "title": "Tomodachi Life: Living The Dream Nintendo Direct Announced For Thursday, 29th January - Nintendo Life",
       "source": {
-        "name": "Buzzfeed"
+        "name": "Nintendo Life"
       },
-      "description": "\"I can't help it. It's in my DNA.\" —You adding goodies to your cart...",
-      "url": "https://www.buzzfeed.com/melanie_aman/little-treats-under-10-impulse-buys-an",
-      "publishedAt": "2026-01-26T01:31:02Z",
-      "processed_at": "2026-01-27T12:55:07.482166+00:00"
+      "description": "Dream Land...",
+      "url": "https://www.nintendolife.com/news/2026/01/tomodachi-life-living-the-dream-nintendo-direct-announced-for-thursday-29th-january",
+      "publishedAt": "2026-01-26T13:40:00Z",
+      "processed_at": "2026-01-27T13:50:29.464692+00:00"
     },
     {
-      "title": "Amazon is selling a 2-in-1 laptop and tablet for just $70 - thestreet.com",
+      "title": "Forza Horizon 6 confirms the return of a dreaded game mode - TrueAchievements",
       "source": {
-        "name": "TheStreet"
+        "name": "TrueAchievements"
       },
-      "description": "Shoppers say \"the functionality is great.\"...",
-      "url": "https://www.thestreet.com/deals/aiprotablet-a30-2-in-1-laptop-tablet-amazon-sale-january-2026",
-      "publishedAt": "2026-01-25T22:30:00Z",
-      "processed_at": "2026-01-27T12:55:07.482166+00:00"
+      "description": "Developer Playground Games has confirmed that The Eliminator will be returning to Forza Horizon 6, a...",
+      "url": "https://www.trueachievements.com/news/forza-horizon-6-eliminator",
+      "publishedAt": "2026-01-26T13:27:09Z",
+      "processed_at": "2026-01-27T13:50:29.464692+00:00"
     },
     {
-      "title": "Linux 6.19-rc7 Released With Kernel Continuity Plan, A Few Important Fixes - Phoronix",
+      "title": "PlayStation State of Play Is Locked in for February, It's Claimed - Push Square",
       "source": {
-        "name": "Phoronix"
+        "name": "Push Square"
       },
-      "description": "The Linux 6.19 kernel remains on track for its official release two weeks from today, with the extra...",
-      "url": "https://www.phoronix.com/news/Linux-6.19-rc7-Released",
-      "publishedAt": "2026-01-25T22:29:00Z",
-      "processed_at": "2026-01-27T12:55:07.482166+00:00"
+      "description": "So says NateTheHate2...",
+      "url": "https://www.pushsquare.com/news/2026/01/playstation-state-of-play-is-locked-in-for-february-its-claimed",
+      "publishedAt": "2026-01-26T13:08:57Z",
+      "processed_at": "2026-01-27T13:50:29.464692+00:00"
     },
     {
-      "title": "5 Free Apps Actually Better Than Premium Alternatives - bgr.com",
+      "title": "Final Fantasy 7 Remake Part 3 has a title now - Eurogamer",
       "source": {
-        "name": "BGR"
+        "name": "Eurogamer.net"
       },
-      "description": "While most professional-grade apps lock premium features behind a paywall, apps like VLC, DaVinci Re...",
-      "url": "https://www.bgr.com/2079999/free-apps-better-premium-alternatives/",
-      "publishedAt": "2026-01-25T22:17:00Z",
-      "processed_at": "2026-01-27T12:55:07.482166+00:00"
+      "description": "Final Fantasy 7 Remake trilogy director Naoki Hamaguchi has confirmed Part 3 now has a title and is ...",
+      "url": "https://www.eurogamer.net/final-fantasy-7-remake-part-3-made-with-unreal-engine-4-title-locked-now",
+      "publishedAt": "2026-01-26T12:46:39Z",
+      "processed_at": "2026-01-27T13:50:29.464692+00:00"
     },
     {
-      "title": "Here's How Much A 2021 Chevy Corvette Has Depreciated In Just 5 Years - Jalopnik",
+      "title": "Starfield 2.0 Could Be Real After All - Insider Gaming",
       "source": {
-        "name": "Jalopnik"
+        "name": "Insider-gaming.com"
       },
-      "description": "The Chevrolet Corvette hasn't depreciated much over the last five years, losing around a quarter of ...",
-      "url": "https://www.jalopnik.com/2080724/2021-chevy-corvette-5-year-depreciation/",
-      "publishedAt": "2026-01-25T21:05:00Z",
-      "processed_at": "2026-01-27T12:55:07.482166+00:00"
+      "description": "A new mention about Starfield 2.0 has surfaced, however, no concrete information has been shared. He...",
+      "url": "https://insider-gaming.com/starfield-2-0-could-be-real-after-all/",
+      "publishedAt": "2026-01-26T12:23:55Z",
+      "processed_at": "2026-01-27T13:50:29.464692+00:00"
     },
     {
-      "title": "Nightin Cage dev responds to fan feedback for more immersive fanservice - Niche Gamer",
+      "title": "'FTL in a Warhammer 40,000 Skin' Game Pulled From Steam After What May Be a Nuisance DMCA Takedown From a Troll Claiming to Be Games Workshop - IGN",
       "source": {
-        "name": "Niche Gamer"
+        "name": "IGN"
       },
-      "description": "The developer of the upcoming Action RPG Nightin Cage has responded quickly to fan feedback regardin...",
-      "url": "https://nichegamer.com/nightin-cage-dev-responds-to-fan-feedback-for-more-immersive-fanservice/",
-      "publishedAt": "2026-01-25T20:51:00Z",
-      "processed_at": "2026-01-27T12:55:07.482166+00:00"
+      "description": "A strategy game dubbed ‘FTL in a Warhammer 40,000 skin’ was recently pulled from Steam, with its dev...",
+      "url": "https://www.ign.com/articles/ftl-in-a-warhammer-40000-skin-game-pulled-from-steam-after-what-may-be-a-nuisance-dmca-takedown-from-a-troll-claiming-to-be-games-workshop",
+      "publishedAt": "2026-01-26T12:10:59Z",
+      "processed_at": "2026-01-27T13:50:29.464692+00:00"
     },
     {
-      "title": "YouTube Music now syncs your queue across Android, iOS, & web - 9to5Google",
+      "title": "Microsoft’s first Windows 11 update of 2026 has been a mess - The Verge",
       "source": {
-        "name": "9to5google.com"
+        "name": "The Verge"
       },
-      "description": "The YouTube Music queue will now sync between your signed in devices to let you seamlessly continue ...",
-      "url": "http://9to5google.com/2026/01/25/youtube-music-queue-sync/",
-      "publishedAt": "2026-01-25T20:47:00Z",
-      "processed_at": "2026-01-27T12:55:07.482166+00:00"
+      "description": "Microsoft has had two issue two out-of-band patches for its first Windows 11 update of 2026. The sec...",
+      "url": "https://www.theverge.com/news/867647/microsoft-windows-11-january-2026-update-bugs-issues",
+      "publishedAt": "2026-01-26T12:04:08Z",
+      "processed_at": "2026-01-27T13:50:29.464692+00:00"
     },
     {
-      "title": "Apple Reportedly Aiming to Upgrade the MacBook Pro Twice This Year - MacRumors",
+      "title": "Former astronaut on lunar spacesuits: “I don’t think they’re great right now” - Ars Technica",
       "source": {
-        "name": "MacRumors"
+        "name": "Ars Technica"
       },
-      "description": "Apple plans to release new MacBook Pro, MacBook Air, Mac Studio, and Studio Display models in the fi...",
-      "url": "https://www.macrumors.com/2026/01/25/macbook-pro-two-upgrades-in-2026-rumor/",
-      "publishedAt": "2026-01-25T19:46:28Z",
-      "processed_at": "2026-01-27T12:55:07.482166+00:00"
+      "description": "These are just the difficulties of designing a spacesuit for the lunar environment.\"...",
+      "url": "https://arstechnica.com/space/2026/01/former-astronaut-on-lunar-spacesuits-i-dont-think-theyre-great-right-now/",
+      "publishedAt": "2026-01-26T12:00:57Z",
+      "processed_at": "2026-01-27T13:50:29.464692+00:00"
+    },
+    {
+      "title": "CISA says critical VMware RCE flaw now actively exploited - BleepingComputer",
+      "source": {
+        "name": "BleepingComputer"
+      },
+      "description": "CISA has flagged a critical VMware vCenter Server vulnerability as actively exploited and ordered U....",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-says-critical-vmware-rce-flaw-now-actively-exploited/",
+      "publishedAt": "2026-01-26T11:49:41Z",
+      "processed_at": "2026-01-27T13:50:29.464692+00:00"
     }
   ],
-  "lastUpdated": "2026-01-27T12:55:07.482237+00:00",
+  "lastUpdated": "2026-01-27T13:50:29.464761+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
