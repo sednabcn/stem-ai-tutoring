@@ -1,7 +1,27 @@
 {
   "status": "success",
-  "totalResults": 10,
+  "totalResults": 9,
   "articles": [
+    {
+      "title": "Apple to Launch These 20+ Products This Year - MacRumors",
+      "source": {
+        "name": "MacRumors"
+      },
+      "description": "2026 promises to be yet another busy year for Apple, with the company rumored to be planning more th...",
+      "url": "https://www.macrumors.com/2026/01/25/rumored-apple-products/",
+      "publishedAt": "2026-01-26T02:02:08Z",
+      "processed_at": "2026-01-27T03:53:04.924199+00:00"
+    },
+    {
+      "title": "I Don’t Wanna Gatekeep, So I’m Putting These 27 Cool Things On Your Radar - buzzfeed.com",
+      "source": {
+        "name": "Buzzfeed"
+      },
+      "description": "This is me being nice, so...you're welcome or whatever....",
+      "url": "https://www.buzzfeed.com/taylor_steele/cool-things-to-put-on-your-radar",
+      "publishedAt": "2026-01-26T01:01:04Z",
+      "processed_at": "2026-01-27T03:53:04.924199+00:00"
+    },
     {
       "title": "Amazon is selling a 2-in-1 laptop and tablet for just $70 - thestreet.com",
       "source": {
@@ -10,7 +30,7 @@
       "description": "Shoppers say \"the functionality is great.\"...",
       "url": "https://www.thestreet.com/deals/aiprotablet-a30-2-in-1-laptop-tablet-amazon-sale-january-2026",
       "publishedAt": "2026-01-25T22:30:00Z",
-      "processed_at": "2026-01-27T01:59:59.995871+00:00"
+      "processed_at": "2026-01-27T03:53:04.924199+00:00"
     },
     {
       "title": "5 Free Apps Actually Better Than Premium Alternatives - bgr.com",
@@ -20,7 +40,7 @@
       "description": "While most professional-grade apps lock premium features behind a paywall, apps like VLC, DaVinci Re...",
       "url": "https://www.bgr.com/2079999/free-apps-better-premium-alternatives/",
       "publishedAt": "2026-01-25T22:17:00Z",
-      "processed_at": "2026-01-27T01:59:59.995871+00:00"
+      "processed_at": "2026-01-27T03:53:04.924199+00:00"
     },
     {
       "title": "Here's How Much A 2021 Chevy Corvette Has Depreciated In Just 5 Years - Jalopnik",
@@ -30,7 +50,7 @@
       "description": "The Chevrolet Corvette hasn't depreciated much over the last five years, losing around a quarter of ...",
       "url": "https://www.jalopnik.com/2080724/2021-chevy-corvette-5-year-depreciation/",
       "publishedAt": "2026-01-25T21:05:00Z",
-      "processed_at": "2026-01-27T01:59:59.995871+00:00"
+      "processed_at": "2026-01-27T03:53:04.924199+00:00"
     },
     {
       "title": "Nightin Cage dev responds to fan feedback for more immersive fanservice - Niche Gamer",
@@ -40,7 +60,7 @@
       "description": "The developer of the upcoming Action RPG Nightin Cage has responded quickly to fan feedback regardin...",
       "url": "https://nichegamer.com/nightin-cage-dev-responds-to-fan-feedback-for-more-immersive-fanservice/",
       "publishedAt": "2026-01-25T20:51:00Z",
-      "processed_at": "2026-01-27T01:59:59.995871+00:00"
+      "processed_at": "2026-01-27T03:53:04.924199+00:00"
     },
     {
       "title": "YouTube Music now syncs your queue across Android, iOS, & web - 9to5Google",
@@ -50,17 +70,7 @@
       "description": "The YouTube Music queue will now sync between your signed in devices to let you seamlessly continue ...",
       "url": "http://9to5google.com/2026/01/25/youtube-music-queue-sync/",
       "publishedAt": "2026-01-25T20:47:00Z",
-      "processed_at": "2026-01-27T01:59:59.995871+00:00"
-    },
-    {
-      "title": "‘Halo’ Actor Steve Downes Asks You Not to Remake His Voice with AI - Gizmodo",
-      "source": {
-        "name": "Gizmodo.com"
-      },
-      "description": "The man behind Master Chief feels a way about generative AI when it comes to his voice being used fo...",
-      "url": "https://gizmodo.com/halo-actor-steve-downes-asks-you-not-to-remake-his-voice-with-ai-2000713343",
-      "publishedAt": "2026-01-25T20:00:37Z",
-      "processed_at": "2026-01-27T01:59:59.995871+00:00"
+      "processed_at": "2026-01-27T03:53:04.924199+00:00"
     },
     {
       "title": "This Picture Of A Nissan CrossCab Repaired With Spray Foam Insulation Is A Terrifying Warning - The Autopian",
@@ -70,40 +80,20 @@
       "description": "As I’m sure you’re aware, we here at the Autopian have a company car: our ridiculous Nissan Murano C...",
       "url": "https://www.theautopian.com/this-picture-of-a-nissan-crosscab-repaired-with-spray-foam-insulation-is-a-terrifying-warning/",
       "publishedAt": "2026-01-25T19:23:04Z",
-      "processed_at": "2026-01-27T01:59:59.995871+00:00"
+      "processed_at": "2026-01-27T03:53:04.924199+00:00"
     },
     {
-      "title": "LACT 0.8.4 Brings Improved Overclocking UI For GPUs On Linux - Phoronix",
+      "title": "16 Best Trader Joe's Sides And Snacks For The Ultimate Super Bowl Party - Tasting Table",
       "source": {
-        "name": "Phoronix"
+        "name": "Tastingtable.com"
       },
-      "description": "In the absence of any official GUI control panel from AMD or Intel for their graphics cards on Linux...",
-      "url": "https://www.phoronix.com/news/LACT-0.8.4-Released",
-      "publishedAt": "2026-01-25T18:58:00Z",
-      "processed_at": "2026-01-27T01:59:59.995871+00:00"
-    },
-    {
-      "title": "RuneScape gold counts as real stolen property after UK judge rules in $700K theft case - Dexerto",
-      "source": {
-        "name": "Dexerto"
-      },
-      "description": "A UK judge has ruled that RuneScape gold can count as stolen property after an ex-developer was accu...",
-      "url": "https://www.dexerto.com/gaming/runescape-gold-counts-as-real-stolen-property-after-uk-judge-rules-in-700k-theft-case-3309301/",
-      "publishedAt": "2026-01-25T18:51:41Z",
-      "processed_at": "2026-01-27T01:59:59.995871+00:00"
-    },
-    {
-      "title": "Apple iPhone 18 Pro Set For Its Biggest Visual Change In Years, New Leak Claims - Forbes",
-      "source": {
-        "name": "Forbes"
-      },
-      "description": "This fall’s flagship iPhone could have a strikingly different design, according to a new report....",
-      "url": "https://www.forbes.com/sites/davidphelan/2026/01/25/apple-iphone-18-pro-display-set-for-biggest-design-change-in-years-new-leak-claims/",
-      "publishedAt": "2026-01-25T18:05:00Z",
-      "processed_at": "2026-01-27T01:59:59.995871+00:00"
+      "description": "You need not worry about planning a Super Bowl party if you have a Trader Joe's nearby, as these 16 ...",
+      "url": "https://www.tastingtable.com/2081064/trader-joes-sides-snacks-super-bowl/",
+      "publishedAt": "2026-01-25T19:20:00Z",
+      "processed_at": "2026-01-27T03:53:04.924199+00:00"
     }
   ],
-  "lastUpdated": "2026-01-27T01:59:59.995944+00:00",
+  "lastUpdated": "2026-01-27T03:53:04.924295+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
