@@ -1,99 +1,89 @@
 {
   "status": "success",
-  "totalResults": 9,
+  "totalResults": 8,
   "articles": [
     {
-      "title": "New PS5 Firmware Update Is Available Now, Here Are All the Patch Notes - Push Square",
+      "title": "Arc Raiders and The Finals hit by \"coordinated\" DDoS attacks - Eurogamer",
       "source": {
-        "name": "Push Square"
+        "name": "Eurogamer.net"
       },
-      "description": "What does version 26.01-12.60.00 do?...",
-      "url": "https://www.pushsquare.com/news/2026/01/new-ps5-firmware-update-is-available-now-here-are-all-the-patch-notes",
-      "publishedAt": "2026-01-28T09:30:00Z",
-      "processed_at": "2026-01-29T14:38:16.320162+00:00"
+      "description": "Embark Studios confirms that both Arc Raiders and The Finals have been hit by DDoS attacks....",
+      "url": "https://www.eurogamer.net/arc-raiders-and-the-finals-hit-by-coordinated-ddos-attacks",
+      "publishedAt": "2026-01-28T15:14:36Z",
+      "processed_at": "2026-01-29T15:37:21.216783+00:00"
     },
     {
-      "title": "Google just leaked a first look at Android for PC in action - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "Someone at the company uploaded a bug report with screen recordings from the upcoming Aluminium OS, ...",
-      "url": "https://www.theverge.com/news/869142/google-leak-aluminium-os-android-pc-bug-report-video",
-      "publishedAt": "2026-01-28T09:26:01Z",
-      "processed_at": "2026-01-29T14:38:16.320162+00:00"
-    },
-    {
-      "title": "Fatal Frame 2: Crimson Butterfly Remake Switch 2 Demo And Silent Hill f DLC Collab Announced - Nintendo Life",
-      "source": {
-        "name": "Nintendo Life"
-      },
-      "description": "The full game launches this March...",
-      "url": "https://www.nintendolife.com/news/2026/01/fatal-frame-2-crimson-butterfly-remake-switch-2-demo-and-silent-hill-f-dlc-collab-announced",
-      "publishedAt": "2026-01-28T01:05:00Z",
-      "processed_at": "2026-01-29T14:38:16.320162+00:00"
-    },
-    {
-      "title": "Samsung’s first Galaxy S26 teaser is for the ‘Privacy Display’ [Gallery] - 9to5Google",
+      "title": "Gemini details AI Plus limits, rolls out NotebookLM integration on iOS - 9to5Google",
       "source": {
         "name": "9to5google.com"
       },
-      "description": "Samsung is teasing the Galaxy S26’s new “Privacy display” feature in a series of new videos that sho...",
-      "url": "http://9to5google.com/2026/01/27/samsung-galaxy-s26-privacy-display-teaser/",
-      "publishedAt": "2026-01-27T23:25:00Z",
-      "processed_at": "2026-01-29T14:38:16.320162+00:00"
+      "description": "Google brought the AI Plus subscription to the US yesterday, and here’s how it upgrades usage limits...",
+      "url": "http://9to5google.com/2026/01/28/gemini-app-google-ai-plus/",
+      "publishedAt": "2026-01-28T14:05:00Z",
+      "processed_at": "2026-01-29T15:37:21.216783+00:00"
     },
     {
-      "title": "Clawdbot is now Moltbot for reasons that should be obvious - Mashable",
+      "title": "AMD Ryzen 7 9850X3D Linux Performance Review - Phoronix",
       "source": {
-        "name": "Mashable"
+        "name": "Phoronix"
       },
-      "description": "We saw this one coming......",
-      "url": "https://mashable.com/article/clawdbot-changes-name-to-moltbot",
-      "publishedAt": "2026-01-27T23:17:01Z",
-      "processed_at": "2026-01-29T14:38:16.320162+00:00"
+      "description": "Ahead of tomorrow's official availability of the AMD Ryzen 7 9850X3D at $499 USD, today the review e...",
+      "url": "https://www.phoronix.com/review/amd-ryzen-7-9850x3d-linux",
+      "publishedAt": "2026-01-28T14:00:00Z",
+      "processed_at": "2026-01-29T15:37:21.216783+00:00"
     },
     {
-      "title": "Microsoft promises behind the scenes platform changes on Windows 11 in 2026 - Windows Central",
+      "title": "Users flock to open source Moltbot for always-on AI, despite major risks - Ars Technica",
       "source": {
-        "name": "Windows Central"
+        "name": "Ars Technica"
       },
-      "description": "After a rough few weeks, Microsoft has promised to make behind-the-scenes platform changes to Window...",
-      "url": "https://www.windowscentral.com/microsoft/windows-11/microsoft-vows-to-make-behind-the-scenes-platform-changes-as-it-begins-testing-next-phase-of-windows-11",
-      "publishedAt": "2026-01-27T23:08:59Z",
-      "processed_at": "2026-01-29T14:38:16.320162+00:00"
+      "description": "The open source \"Jarvis\" chats via WhatsApp but requires access to your files and accounts....",
+      "url": "https://arstechnica.com/ai/2026/01/viral-ai-assistant-moltbot-rapidly-gains-popularity-but-poses-security-risks/",
+      "publishedAt": "2026-01-28T12:30:44Z",
+      "processed_at": "2026-01-29T15:37:21.216783+00:00"
     },
     {
-      "title": "Ubisoft Increases 'Just Dance' Subscription Prices In The Wake Of Restructuring & Cuts - Nintendo Life",
+      "title": "Glimmora in Pokémon GO Meta: Worth the Grind? - Pokémon GO Hub",
       "source": {
-        "name": "Nintendo Life"
+        "name": "Pokemon GO Hub"
       },
-      "description": "Money+...",
-      "url": "https://www.nintendolife.com/news/2026/01/ubisoft-increases-just-dance-subscription-prices-in-the-wake-of-restructuring-and-cuts",
-      "publishedAt": "2026-01-27T21:30:00Z",
-      "processed_at": "2026-01-29T14:38:16.320162+00:00"
+      "description": "Hello Trainers! Welcome again! We are here with yet another meta guide. Phew! we have done quite a f...",
+      "url": "https://pokemongohub.net/post/meta/glimmora-in-pokemon-go-meta-worth-the-grind/",
+      "publishedAt": "2026-01-28T11:37:22Z",
+      "processed_at": "2026-01-29T15:37:21.216783+00:00"
     },
     {
-      "title": "Nudify apps get past Google, Apple app moderation - theregister.com",
+      "title": "Baldur's Gate 3 studio boss calls out \"hurtful\", \"personal\" videogame reviewers - \"sometimes I think it'd be a good idea for critics to be scored, Metacritic-style\" - Rock Paper Shotgun",
       "source": {
-        "name": "Theregister.com"
+        "name": "Rock Paper Shotgun"
       },
-      "description": ": Researchers with the Tech Transparency Project found all sorts of apps that let users create fake ...",
-      "url": "https://www.theregister.com/2026/01/27/nudify_app_proliferation_shows_naked/",
-      "publishedAt": "2026-01-27T21:19:00Z",
-      "processed_at": "2026-01-29T14:38:16.320162+00:00"
+      "description": "Fresh from the trenches of the Divinity generative AI debate, Larian CEO Swen Vincke has taken to so...",
+      "url": "https://www.rockpapershotgun.com/baldurs-gate-3-studio-boss-calls-out-hurtful-personal-videogame-reviewers-sometimes-i-think-itd-be-a-good-idea-for-critics-to-be-scored-metacritic-style",
+      "publishedAt": "2026-01-28T11:28:45Z",
+      "processed_at": "2026-01-29T15:37:21.216783+00:00"
     },
     {
-      "title": "Apple Watch hypertension notifications now supported in seven additional countries - 9to5Mac",
+      "title": "Exclusive: First look at Samsung’s 25W wireless charger, possibly for Galaxy S26 - SamMobile",
       "source": {
-        "name": "9to5Mac"
+        "name": "SamMobile"
       },
-      "description": "Apple Watch hypertension alerts are rolling out to users in select countries across Asia, Oceania, S...",
-      "url": "https://9to5mac.com/2026/01/27/apple-watch-hypertension-notifications-now-supported-in-seven-additional-countries/",
-      "publishedAt": "2026-01-27T21:12:00Z",
-      "processed_at": "2026-01-29T14:38:16.320162+00:00"
+      "description": "It was reported earlier that Samsung plans to introduce a major upgrade to wireless charging speeds ...",
+      "url": "https://www.sammobile.com/news/exclusive-samsung-25w-wireless-charger-galaxy-s26-photos/",
+      "publishedAt": "2026-01-28T11:24:00Z",
+      "processed_at": "2026-01-29T15:37:21.216783+00:00"
+    },
+    {
+      "title": "Windows 11’s ability to resume Android apps on your PC is getting closer - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "Microsoft is getting ready to improve its cross-device resume feature in Windows 11. You’ll soon be ...",
+      "url": "https://www.theverge.com/news/869161/microsoft-windows-11-android-app-resume-feature-release-preview",
+      "publishedAt": "2026-01-28T11:18:36Z",
+      "processed_at": "2026-01-29T15:37:21.216783+00:00"
     }
   ],
-  "lastUpdated": "2026-01-29T14:38:16.320232+00:00",
+  "lastUpdated": "2026-01-29T15:37:21.216853+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
