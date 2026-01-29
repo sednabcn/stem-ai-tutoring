@@ -3,6 +3,16 @@
   "totalResults": 9,
   "articles": [
     {
+      "title": "New PS5 Firmware Update Is Available Now, Here Are All the Patch Notes - Push Square",
+      "source": {
+        "name": "Push Square"
+      },
+      "description": "What does version 26.01-12.60.00 do?...",
+      "url": "https://www.pushsquare.com/news/2026/01/new-ps5-firmware-update-is-available-now-here-are-all-the-patch-notes",
+      "publishedAt": "2026-01-28T09:30:00Z",
+      "processed_at": "2026-01-29T14:38:16.320162+00:00"
+    },
+    {
       "title": "Google just leaked a first look at Android for PC in action - The Verge",
       "source": {
         "name": "The Verge"
@@ -10,7 +20,7 @@
       "description": "Someone at the company uploaded a bug report with screen recordings from the upcoming Aluminium OS, ...",
       "url": "https://www.theverge.com/news/869142/google-leak-aluminium-os-android-pc-bug-report-video",
       "publishedAt": "2026-01-28T09:26:01Z",
-      "processed_at": "2026-01-29T13:01:41.795506+00:00"
+      "processed_at": "2026-01-29T14:38:16.320162+00:00"
     },
     {
       "title": "Fatal Frame 2: Crimson Butterfly Remake Switch 2 Demo And Silent Hill f DLC Collab Announced - Nintendo Life",
@@ -20,7 +30,7 @@
       "description": "The full game launches this March...",
       "url": "https://www.nintendolife.com/news/2026/01/fatal-frame-2-crimson-butterfly-remake-switch-2-demo-and-silent-hill-f-dlc-collab-announced",
       "publishedAt": "2026-01-28T01:05:00Z",
-      "processed_at": "2026-01-29T13:01:41.795506+00:00"
+      "processed_at": "2026-01-29T14:38:16.320162+00:00"
     },
     {
       "title": "Samsung’s first Galaxy S26 teaser is for the ‘Privacy Display’ [Gallery] - 9to5Google",
@@ -30,7 +40,17 @@
       "description": "Samsung is teasing the Galaxy S26’s new “Privacy display” feature in a series of new videos that sho...",
       "url": "http://9to5google.com/2026/01/27/samsung-galaxy-s26-privacy-display-teaser/",
       "publishedAt": "2026-01-27T23:25:00Z",
-      "processed_at": "2026-01-29T13:01:41.795506+00:00"
+      "processed_at": "2026-01-29T14:38:16.320162+00:00"
+    },
+    {
+      "title": "Clawdbot is now Moltbot for reasons that should be obvious - Mashable",
+      "source": {
+        "name": "Mashable"
+      },
+      "description": "We saw this one coming......",
+      "url": "https://mashable.com/article/clawdbot-changes-name-to-moltbot",
+      "publishedAt": "2026-01-27T23:17:01Z",
+      "processed_at": "2026-01-29T14:38:16.320162+00:00"
     },
     {
       "title": "Microsoft promises behind the scenes platform changes on Windows 11 in 2026 - Windows Central",
@@ -40,17 +60,7 @@
       "description": "After a rough few weeks, Microsoft has promised to make behind-the-scenes platform changes to Window...",
       "url": "https://www.windowscentral.com/microsoft/windows-11/microsoft-vows-to-make-behind-the-scenes-platform-changes-as-it-begins-testing-next-phase-of-windows-11",
       "publishedAt": "2026-01-27T23:08:59Z",
-      "processed_at": "2026-01-29T13:01:41.795506+00:00"
-    },
-    {
-      "title": "WhatsApp adds one-toggle privacy lockdown mode - theregister.com",
-      "source": {
-        "name": "Theregister.com"
-      },
-      "description": ": Meta also replaces a legacy C++ media-handling security library with Rust...",
-      "url": "https://www.theregister.com/2026/01/27/whatsapp_strict_account_settings_meta_rust/",
-      "publishedAt": "2026-01-27T22:15:00Z",
-      "processed_at": "2026-01-29T13:01:41.795506+00:00"
+      "processed_at": "2026-01-29T14:38:16.320162+00:00"
     },
     {
       "title": "Ubisoft Increases 'Just Dance' Subscription Prices In The Wake Of Restructuring & Cuts - Nintendo Life",
@@ -60,7 +70,17 @@
       "description": "Money+...",
       "url": "https://www.nintendolife.com/news/2026/01/ubisoft-increases-just-dance-subscription-prices-in-the-wake-of-restructuring-and-cuts",
       "publishedAt": "2026-01-27T21:30:00Z",
-      "processed_at": "2026-01-29T13:01:41.795506+00:00"
+      "processed_at": "2026-01-29T14:38:16.320162+00:00"
+    },
+    {
+      "title": "Nudify apps get past Google, Apple app moderation - theregister.com",
+      "source": {
+        "name": "Theregister.com"
+      },
+      "description": ": Researchers with the Tech Transparency Project found all sorts of apps that let users create fake ...",
+      "url": "https://www.theregister.com/2026/01/27/nudify_app_proliferation_shows_naked/",
+      "publishedAt": "2026-01-27T21:19:00Z",
+      "processed_at": "2026-01-29T14:38:16.320162+00:00"
     },
     {
       "title": "Apple Watch hypertension notifications now supported in seven additional countries - 9to5Mac",
@@ -70,30 +90,10 @@
       "description": "Apple Watch hypertension alerts are rolling out to users in select countries across Asia, Oceania, S...",
       "url": "https://9to5mac.com/2026/01/27/apple-watch-hypertension-notifications-now-supported-in-seven-additional-countries/",
       "publishedAt": "2026-01-27T21:12:00Z",
-      "processed_at": "2026-01-29T13:01:41.795506+00:00"
-    },
-    {
-      "title": "A New King of Handhelds? Intel Stock (NASDAQ:INTC) Jumps With New Panther Lake Details - TipRanks",
-      "source": {
-        "name": "Tipranks.com"
-      },
-      "description": "Things have been rough lately for chip stock Intel ($INTC), but one potential winner of a point emer...",
-      "url": "https://www.tipranks.com/news/a-new-king-of-handhelds-intel-stock-nasdaqintc-jumps-with-new-panther-lake-details",
-      "publishedAt": "2026-01-27T20:35:42Z",
-      "processed_at": "2026-01-29T13:01:41.795506+00:00"
-    },
-    {
-      "title": "Gemini 3 Flash’s new ‘Agentic Vision’ improves image responses - 9to5Google",
-      "source": {
-        "name": "9to5google.com"
-      },
-      "description": "Agentic Vision is a new capability for Gemini 3 Flash to make image-related tasks more accurate by “...",
-      "url": "http://9to5google.com/2026/01/27/gemini-3-flash-agentic-vision/",
-      "publishedAt": "2026-01-27T19:40:00Z",
-      "processed_at": "2026-01-29T13:01:41.795506+00:00"
+      "processed_at": "2026-01-29T14:38:16.320162+00:00"
     }
   ],
-  "lastUpdated": "2026-01-29T13:01:41.795576+00:00",
+  "lastUpdated": "2026-01-29T14:38:16.320232+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
