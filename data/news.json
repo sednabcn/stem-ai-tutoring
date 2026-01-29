@@ -1,7 +1,47 @@
 {
   "status": "success",
-  "totalResults": 9,
+  "totalResults": 8,
   "articles": [
+    {
+      "title": "Fatal Frame 2: Crimson Butterfly Remake Switch 2 Demo And Silent Hill f DLC Collab Announced - Nintendo Life",
+      "source": {
+        "name": "Nintendo Life"
+      },
+      "description": "The full game launches this March...",
+      "url": "https://www.nintendolife.com/news/2026/01/fatal-frame-2-crimson-butterfly-remake-switch-2-demo-and-silent-hill-f-dlc-collab-announced",
+      "publishedAt": "2026-01-28T01:05:00Z",
+      "processed_at": "2026-01-29T04:27:33.418466+00:00"
+    },
+    {
+      "title": "Samsung’s first Galaxy S26 teaser is for the ‘Privacy Display’ [Gallery] - 9to5Google",
+      "source": {
+        "name": "9to5google.com"
+      },
+      "description": "Samsung is teasing the Galaxy S26’s new “Privacy display” feature in a series of new videos that sho...",
+      "url": "http://9to5google.com/2026/01/27/samsung-galaxy-s26-privacy-display-teaser/",
+      "publishedAt": "2026-01-27T23:25:00Z",
+      "processed_at": "2026-01-29T04:27:33.418466+00:00"
+    },
+    {
+      "title": "Microsoft promises behind the scenes platform changes on Windows 11 in 2026 - Windows Central",
+      "source": {
+        "name": "Windows Central"
+      },
+      "description": "After a rough few weeks, Microsoft has promised to make behind-the-scenes platform changes to Window...",
+      "url": "https://www.windowscentral.com/microsoft/windows-11/microsoft-vows-to-make-behind-the-scenes-platform-changes-as-it-begins-testing-next-phase-of-windows-11",
+      "publishedAt": "2026-01-27T23:08:59Z",
+      "processed_at": "2026-01-29T04:27:33.418466+00:00"
+    },
+    {
+      "title": "Android’s full desktop interface leaks: New status bar, Chrome Extensions, more [Video] - 9to5Google",
+      "source": {
+        "name": "9to5google.com"
+      },
+      "description": "A Google bug report on the Chromium Issue Tracker today has inadvertently leaked the Android desktop...",
+      "url": "http://9to5google.com/2026/01/27/android-desktop-leak/",
+      "publishedAt": "2026-01-27T22:02:00Z",
+      "processed_at": "2026-01-29T04:27:33.418466+00:00"
+    },
     {
       "title": "AirTag 2 vs AirTag: Here’s everything new - 9to5Mac",
       "source": {
@@ -10,7 +50,7 @@
       "description": "Apple’s AirTag successor is finally here, five years after the original model. Here’s every feature ...",
       "url": "https://9to5mac.com/2026/01/27/airtag-2-vs-airtag-heres-everything-new/",
       "publishedAt": "2026-01-27T22:01:00Z",
-      "processed_at": "2026-01-29T02:10:23.479472+00:00"
+      "processed_at": "2026-01-29T04:27:33.418466+00:00"
     },
     {
       "title": "Ubisoft Increases 'Just Dance' Subscription Prices In The Wake Of Restructuring & Cuts - Nintendo Life",
@@ -20,80 +60,30 @@
       "description": "Money+...",
       "url": "https://www.nintendolife.com/news/2026/01/ubisoft-increases-just-dance-subscription-prices-in-the-wake-of-restructuring-and-cuts",
       "publishedAt": "2026-01-27T21:30:00Z",
-      "processed_at": "2026-01-29T02:10:23.479472+00:00"
+      "processed_at": "2026-01-29T04:27:33.418466+00:00"
     },
     {
-      "title": "Final Fantasy 7 Remake: Series S Beats Switch 2 Texture Quality - With Less RAM - Digital Foundry",
+      "title": "A New King of Handhelds? Intel Stock (NASDAQ:INTC) Jumps With New Panther Lake Details - TipRanks",
       "source": {
-        "name": "Digitalfoundry.net"
+        "name": "Tipranks.com"
       },
-      "description": "Both Xbox Series X and Series S ports are highly impressive....",
-      "url": "https://www.digitalfoundry.net/news/2026/01/final-fantasy-7-remake-series-s-beats-switch-2-texture-quality-with-less-ram",
-      "publishedAt": "2026-01-27T18:29:00Z",
-      "processed_at": "2026-01-29T02:10:23.479472+00:00"
+      "description": "Things have been rough lately for chip stock Intel ($INTC), but one potential winner of a point emer...",
+      "url": "https://www.tipranks.com/news/a-new-king-of-handhelds-intel-stock-nasdaqintc-jumps-with-new-panther-lake-details",
+      "publishedAt": "2026-01-27T20:35:42Z",
+      "processed_at": "2026-01-29T04:27:33.418466+00:00"
     },
     {
-      "title": "Resident Evil Requiem Not An Open-World Game - Kotaku",
+      "title": "WinRAR path traversal flaw still exploited by numerous hackers - BleepingComputer",
       "source": {
-        "name": "Kotaku"
+        "name": "BleepingComputer"
       },
-      "description": "Resident Evil Requiem game director Koshi Nakanishi reassured fans in Game Informer interview: Requi...",
-      "url": "https://kotaku.com/resident-evil-requiem-not-open-world-capcom-2000663537",
-      "publishedAt": "2026-01-27T17:34:03Z",
-      "processed_at": "2026-01-29T02:10:23.479472+00:00"
-    },
-    {
-      "title": "Why There's Simply No Need For An iPad Anymore - bgr.com",
-      "source": {
-        "name": "BGR"
-      },
-      "description": "Apple may finally be releasing the iPhone Fold this year, as well as a MacBook with touchscreen capa...",
-      "url": "https://www.bgr.com/2081519/why-no-one-needs-ipads-anymore/",
-      "publishedAt": "2026-01-27T17:17:00Z",
-      "processed_at": "2026-01-29T02:10:23.479472+00:00"
-    },
-    {
-      "title": "AI Overviews gets upgraded to Gemini 3 with a dash of AI Mode - Ars Technica",
-      "source": {
-        "name": "Ars Technica"
-      },
-      "description": "AI Overviews may get it right more often with the move to Gemini 3....",
-      "url": "https://arstechnica.com/google/2026/01/ai-overviews-gets-upgraded-to-gemini-3-with-a-dash-of-ai-mode/",
-      "publishedAt": "2026-01-27T17:00:58Z",
-      "processed_at": "2026-01-29T02:10:23.479472+00:00"
-    },
-    {
-      "title": "Clawdbot creator says Anthropic 'forced' him to rename the viral AI agent: 'Wasn't my decision' - Business Insider",
-      "source": {
-        "name": "Business Insider"
-      },
-      "description": "Clawdbot, the viral AI agent that caused techies to buy up Mac Minis, is now Moltbot after Anthropic...",
-      "url": "https://www.businessinsider.com/clawdbot-changes-name-moltbot-anthropic-trademark-2026-1",
-      "publishedAt": "2026-01-27T16:28:00Z",
-      "processed_at": "2026-01-29T02:10:23.479472+00:00"
-    },
-    {
-      "title": "Dozens of nudify apps found on Google and Apple’s app stores - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "A TTP report has identified over 40 apps on Google and Apple’s app stores that can generate sexualiz...",
-      "url": "https://www.theverge.com/news/868614/nudify-apps-ttp-report-google-apple-app-stores",
-      "publishedAt": "2026-01-27T16:26:34Z",
-      "processed_at": "2026-01-29T02:10:23.479472+00:00"
-    },
-    {
-      "title": "Galaxy S26 Ultra now rumored to embrace a display feature that only a few phones have - PhoneArena",
-      "source": {
-        "name": "PhoneArena"
-      },
-      "description": "A new rumor suggests the Galaxy S26 Ultra's display will cement its superiority over other flagships...",
-      "url": "https://www.phonearena.com/news/samsung-s26-ultra-10-bit-screen_id177724",
-      "publishedAt": "2026-01-27T15:36:24Z",
-      "processed_at": "2026-01-29T02:10:23.479472+00:00"
+      "description": "Multiple threat actors, both state-sponsored and financially motivated, are exploiting the CVE-2025-...",
+      "url": "https://www.bleepingcomputer.com/news/security/winrar-path-traversal-flaw-still-exploited-by-numerous-hackers/",
+      "publishedAt": "2026-01-27T19:38:24Z",
+      "processed_at": "2026-01-29T04:27:33.418466+00:00"
     }
   ],
-  "lastUpdated": "2026-01-29T02:10:23.479538+00:00",
+  "lastUpdated": "2026-01-29T04:27:33.418535+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
