@@ -3,6 +3,16 @@
   "totalResults": 9,
   "articles": [
     {
+      "title": "Villion: Code debut trailer, details, and screenshots - Gematsu",
+      "source": {
+        "name": "Gematsu"
+      },
+      "description": "Compile Heart has released the debut trailer, information, and screenshots for Villion: Code, its ne...",
+      "url": "https://www.gematsu.com/2026/01/villion-code-debut-trailer-details-and-screenshots",
+      "publishedAt": "2026-01-29T03:22:44Z",
+      "processed_at": "2026-01-30T09:40:12.718688+00:00"
+    },
+    {
       "title": "Galaxy S26 phones look sleek in new official-looking photos - PhoneArena",
       "source": {
         "name": "PhoneArena"
@@ -10,7 +20,7 @@
       "description": "A case listing reveals the official design of the Galaxy S26, S26+, and S26 Ultra....",
       "url": "https://www.phonearena.com/news/galaxy-s26-plus-ultra-final-design_id177769",
       "publishedAt": "2026-01-29T01:23:31Z",
-      "processed_at": "2026-01-30T08:41:58.310826+00:00"
+      "processed_at": "2026-01-30T09:40:12.718688+00:00"
     },
     {
       "title": "Android Gets Enhanced Set of Theft Protection Feature Updates - Droid Life",
@@ -20,27 +30,7 @@
       "description": "Android is getting a host of new theft protection updates from Google, designed for users on Android...",
       "url": "https://www.droid-life.com/2026/01/28/android-theft-protection-updates/",
       "publishedAt": "2026-01-28T23:26:40Z",
-      "processed_at": "2026-01-30T08:41:58.310826+00:00"
-    },
-    {
-      "title": "Disney Afternoon Collection Finally Announced for Nintendo Switch Consoles With February Release Date and 2 New Games - IGN",
-      "source": {
-        "name": "IGN"
-      },
-      "description": "The nostalgia-packed The Disney Afternoon Collection finally has a Nintendo Switch and Nintendo Swit...",
-      "url": "https://www.ign.com/articles/disney-afternoon-collection-finally-announced-for-nintendo-switch-consoles-with-february-release-date-and-2-new-games",
-      "publishedAt": "2026-01-28T23:04:52Z",
-      "processed_at": "2026-01-30T08:41:58.310826+00:00"
-    },
-    {
-      "title": "Seven things to know about how Apple's Creator Studio subscriptions work - Ars Technica",
-      "source": {
-        "name": "Ars Technica"
-      },
-      "description": "For the Mac versions of pro apps, things aren't actually changing much (yet)....",
-      "url": "https://arstechnica.com/gadgets/2026/01/seven-things-to-know-about-how-apples-creator-studio-subscriptions-work/",
-      "publishedAt": "2026-01-28T21:53:57Z",
-      "processed_at": "2026-01-30T08:41:58.310826+00:00"
+      "processed_at": "2026-01-30T09:40:12.718688+00:00"
     },
     {
       "title": "Warning: These Continuity Features Are Broken on Latest iOS 26.3 and iPadOS 26.3 Betas - MacRumors",
@@ -50,17 +40,37 @@
       "description": "Users of Apple's latest iPhone and iPad Pro models who have been beta testing iOS 26.3 and iPadOS 26...",
       "url": "https://www.macrumors.com/2026/01/28/continuity-features-broken-ios-26-3-beta/",
       "publishedAt": "2026-01-28T21:51:16Z",
-      "processed_at": "2026-01-30T08:41:58.310826+00:00"
+      "processed_at": "2026-01-30T09:40:12.718688+00:00"
     },
     {
-      "title": "Xbox Revenue Declines As Microsoft Reports FY26 Q2 Earnings - Insider Gaming",
+      "title": "Xbox down YoY in both hardware and services for Q2 FY26 - XboxEra",
       "source": {
-        "name": "Insider-gaming.com"
+        "name": "Xboxera.com"
       },
-      "description": "Microsoft delivered strong FY26 Q2 earnings, but Xbox struggled as hardware revenue dropped 32% and ...",
-      "url": "https://insider-gaming.com/xbox-revenue-declines-microsoft-earnings/",
-      "publishedAt": "2026-01-28T21:50:18Z",
-      "processed_at": "2026-01-30T08:41:58.310826+00:00"
+      "description": "Xbox is down in both their Services & Content and Hardware revenue per Microsoft's freshly released ...",
+      "url": "https://xboxera.com/2026/01/28/xbox-down-yoy-in-both-hardware-and-services-for-q2-fy26/",
+      "publishedAt": "2026-01-28T21:12:42Z",
+      "processed_at": "2026-01-30T09:40:12.718688+00:00"
+    },
+    {
+      "title": "Target Employee Shows In Real Time How Tech Prices Are Going Up, Up, Up - Kotaku",
+      "source": {
+        "name": "Kotaku"
+      },
+      "description": "A PS5 SSD jumped over $400 overnight, according to one employee on Reddit...",
+      "url": "https://kotaku.com/target-employee-shows-pc-game-memory-part-price-increases-shortage-ram-ssd-2000663863",
+      "publishedAt": "2026-01-28T20:32:51Z",
+      "processed_at": "2026-01-30T09:40:12.718688+00:00"
+    },
+    {
+      "title": "From Clawdbot to Moltbot: How This AI Agent Went Viral, and Changed Identities, in 72 Hours - CNET",
+      "source": {
+        "name": "CNET"
+      },
+      "description": "An AI tool that can text you and use your apps? It blew up online. What came next involved crypto sc...",
+      "url": "https://www.cnet.com/tech/services-and-software/from-clawdbot-to-moltbot-how-this-ai-agent-went-viral-and-changed-identities-in-72-hours/",
+      "publishedAt": "2026-01-28T19:33:00Z",
+      "processed_at": "2026-01-30T09:40:12.718688+00:00"
     },
     {
       "title": "The Amount Google's AI Knows About You Will Cause an Uncomfortable Prickling Sensation on Your Scalp - Futurism",
@@ -70,17 +80,7 @@
       "description": "Google has released a new \"Personal Intelligence\" feature that lets its AI go through an alarming am...",
       "url": "http://futurism.com/artificial-intelligence/google-ai-knows-about-you-uncomfortable",
       "publishedAt": "2026-01-28T19:09:32Z",
-      "processed_at": "2026-01-30T08:41:58.310826+00:00"
-    },
-    {
-      "title": "Moltbot Is Taking Over Silicon Valley - WIRED",
-      "source": {
-        "name": "Wired"
-      },
-      "description": "People are letting the viral AI assistant formerly known as Clawdbot run their lives, regardless of ...",
-      "url": "https://www.wired.com/story/clawdbot-moltbot-viral-ai-assistant/",
-      "publishedAt": "2026-01-28T19:01:00Z",
-      "processed_at": "2026-01-30T08:41:58.310826+00:00"
+      "processed_at": "2026-01-30T09:40:12.718688+00:00"
     },
     {
       "title": "Windows 11 will support resuming Spotify, web browsing, and other apps from Android - 9to5Google",
@@ -90,10 +90,10 @@
       "description": "Microsoft might’ve ditched Android apps in Windows 11 a couple of years ago, but that doesn’t mean i...",
       "url": "http://9to5google.com/2026/01/28/windows-11-android-cross-device-resume-spotify-office-browsing/",
       "publishedAt": "2026-01-28T18:13:00Z",
-      "processed_at": "2026-01-30T08:41:58.310826+00:00"
+      "processed_at": "2026-01-30T09:40:12.718688+00:00"
     }
   ],
-  "lastUpdated": "2026-01-30T08:41:58.310891+00:00",
+  "lastUpdated": "2026-01-30T09:40:12.718749+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
