@@ -1,7 +1,17 @@
 {
   "status": "success",
-  "totalResults": 10,
+  "totalResults": 9,
   "articles": [
+    {
+      "title": "Photo Mode - Borderlands | Official Website",
+      "source": {
+        "name": "2k.com"
+      },
+      "description": "Capture the beauty and mayhem on Kairos with Borderlands 4's Photo Mode!...",
+      "url": "https://borderlands.2k.com/borderlands-4/news/photo-mode/",
+      "publishedAt": "2026-01-31T11:11:28Z",
+      "processed_at": "2026-02-01T13:44:41.441283+00:00"
+    },
     {
       "title": "Poll: Do you like the new Xbox achievement designs? - TrueAchievements",
       "source": {
@@ -10,7 +20,7 @@
       "description": "Microsoft is finally doing something with achievements, and for this week's poll, we want to know: d...",
       "url": "https://www.trueachievements.com/poll/61435/poll-new-xbox-achievement-designs",
       "publishedAt": "2026-01-31T09:02:40Z",
-      "processed_at": "2026-02-01T12:54:00.640394+00:00"
+      "processed_at": "2026-02-01T13:44:41.441283+00:00"
     },
     {
       "title": "The latest Instax printer is a pricey but worthy upgrade - The Verge",
@@ -20,7 +30,7 @@
       "description": "Fujifilm’s most expensive Instax Mini Link+ printer improves contrast, color, and detail but doesn’t...",
       "url": "https://www.theverge.com/tech/870603/fujifilm-instax-mini-link-plus-reivew-improved-photos",
       "publishedAt": "2026-01-31T08:00:00Z",
-      "processed_at": "2026-02-01T12:54:00.640394+00:00"
+      "processed_at": "2026-02-01T13:44:41.441283+00:00"
     },
     {
       "title": "Day One Highlights at Pro Tour Lorwyn Eclipsed - MAGIC PLAY",
@@ -30,17 +40,7 @@
       "description": "Friday was full of off-the-wall decks, tricky Limited games, and players thrilled to kick off the fi...",
       "url": "https://magic.gg/news/day-one-highlights-at-pro-tour-lorwyn-eclipsed",
       "publishedAt": "2026-01-31T03:19:46Z",
-      "processed_at": "2026-02-01T12:54:00.640394+00:00"
-    },
-    {
-      "title": "Dispatch Dev AdHoc Responds To Nintendo's Statement, Says It Intends To Address Censored Switch Content - Nintendo Life",
-      "source": {
-        "name": "Nintendo Life"
-      },
-      "description": "\"We’re already working with Nintendo on a path forward\"...",
-      "url": "https://www.nintendolife.com/news/2026/01/dispatch-dev-adhoc-responds-to-nintendos-statement-says-it-intends-to-address-censored-switch-content",
-      "publishedAt": "2026-01-31T00:55:00Z",
-      "processed_at": "2026-02-01T12:54:00.640394+00:00"
+      "processed_at": "2026-02-01T13:44:41.441283+00:00"
     },
     {
       "title": "NASA Selects Axiom Space for Fifth Private Mission to Space Station - NASA (.gov)",
@@ -50,17 +50,7 @@
       "description": "NASA and Axiom Space have signed an order for the fifth private astronaut mission to the Internation...",
       "url": "https://www.nasa.gov/news-release/nasa-selects-axiom-space-for-fifth-private-mission-to-space-station/",
       "publishedAt": "2026-01-30T23:37:29Z",
-      "processed_at": "2026-02-01T12:54:00.640394+00:00"
-    },
-    {
-      "title": "PSA: OpenAI will remove several models from ChatGPT next month - 9to5Mac",
-      "source": {
-        "name": "9to5Mac"
-      },
-      "description": "From time to time, OpenAI removes older models from ChatGPT’s model picker, as users become accustom...",
-      "url": "https://9to5mac.com/2026/01/30/psa-openai-will-remove-several-models-from-chatgpt-next-month/",
-      "publishedAt": "2026-01-30T23:34:00Z",
-      "processed_at": "2026-02-01T12:54:00.640394+00:00"
+      "processed_at": "2026-02-01T13:44:41.441283+00:00"
     },
     {
       "title": "The TV industry finally concedes that the future may not be in 8K - Ars Technica",
@@ -70,27 +60,17 @@
       "description": "With virtually no content and limited benefits, 8K TVs were doomed....",
       "url": "https://arstechnica.com/gadgets/2026/01/lg-joins-the-rest-of-the-world-accepts-that-people-dont-want-8k-tvs/",
       "publishedAt": "2026-01-30T23:09:03Z",
-      "processed_at": "2026-02-01T12:54:00.640394+00:00"
-    },
-    {
-      "title": "Apple (AAPL) Makes Premium Pivot as Supply-Chain Pressures Mount - TipRanks",
-      "source": {
-        "name": "Tipranks.com"
-      },
-      "description": "Apple’s ($AAPL) reported decision to prioritize premium iPhone models for its launch in the second h...",
-      "url": "https://www.tipranks.com/news/apple-aapl-makes-premium-pivot-as-supply-chain-pressures-mount",
-      "publishedAt": "2026-01-30T22:23:59Z",
-      "processed_at": "2026-02-01T12:54:00.640394+00:00"
+      "processed_at": "2026-02-01T13:44:41.441283+00:00"
     },
     {
       "title": "Unity, Video Game Stocks Fall as Google’s AI Tool Sparks Fears - Bloomberg",
       "source": {
         "name": "Bloomberg"
       },
-      "description": "",
+      "description": "Unity Software Inc. and video game stocks plunge Friday on fears of possible artificial intelligence...",
       "url": "https://www.bloomberg.com/news/articles/2026-01-30/unity-video-game-stocks-fall-as-google-s-ai-tool-genie-sparks-fears",
       "publishedAt": "2026-01-30T21:48:19Z",
-      "processed_at": "2026-02-01T12:54:00.640394+00:00"
+      "processed_at": "2026-02-01T13:44:41.441283+00:00"
     },
     {
       "title": "Canon Fodder: Parasite’s Cake - Halo Waypoint",
@@ -100,10 +80,20 @@
       "description": "<p>Welcome back to ye ol’ Canon Fodder in 2026, a year of rather significant proportions as Halo wil...",
       "url": "https://www.halowaypoint.com/news/canon-fodder-parasites-cake",
       "publishedAt": "2026-01-30T21:10:24Z",
-      "processed_at": "2026-02-01T12:54:00.640394+00:00"
+      "processed_at": "2026-02-01T13:44:41.441283+00:00"
+    },
+    {
+      "title": "Sonos’ Super Bowl sale knocks hundreds off its audio gear - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "Sonos is offering big discounts on its Era 100 and 300 speakers, the Beam and Arc Ultra soundbars, a...",
+      "url": "https://www.theverge.com/gadgets/871054/sonos-super-bowl-deal-sale-era-beam-arc-ultra-sub",
+      "publishedAt": "2026-01-30T20:58:39Z",
+      "processed_at": "2026-02-01T13:44:41.441283+00:00"
     }
   ],
-  "lastUpdated": "2026-02-01T12:54:00.640463+00:00",
+  "lastUpdated": "2026-02-01T13:44:41.441346+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
