@@ -1,109 +1,99 @@
 {
   "status": "success",
-  "totalResults": 10,
+  "totalResults": 9,
   "articles": [
     {
-      "title": "This tiny pocket-friendly e-reader is packed with frustration and potential - The Verge",
+      "title": "Samsung Confirms Ground-Breaking Galaxy S26 Ultra Feature - Forbes",
       "source": {
-        "name": "The Verge"
+        "name": "Forbes"
       },
-      "description": "Xteink’s X4 e-reader is more pocketable than Kindles, Kobos, and E Ink smartphones, but comes with a...",
-      "url": "https://www.theverge.com/tech/870583/xteink-x4-e-ink-reader-books-hands-on",
-      "publishedAt": "2026-02-01T16:00:00Z",
-      "processed_at": "2026-02-02T18:48:59.709326+00:00"
+      "description": "",
+      "url": "https://www.forbes.com/sites/davidphelan/2026/02/01/galaxy-s26-ultra-samsung-confirms-ground-breaking-new-feature---why-it-matters/",
+      "publishedAt": "2026-02-02T00:06:00Z",
+      "processed_at": "2026-02-02T23:30:11.108519+00:00"
     },
     {
-      "title": "YouTube TV for Android updated with new icon style - 9to5Google",
+      "title": "This Week’s Japanese Game Releases: Dragon Quest VII Reimagined, Nioh 3, My Hero Academia: All’s Justice, more - Gematsu",
+      "source": {
+        "name": "Gematsu"
+      },
+      "description": "Dragon Quest VII Reimagined for PlayStation 5, Xbox Series, Switch 2, Switch, and PC, Nioh 3 for Pla...",
+      "url": "https://www.gematsu.com/2026/02/this-weeks-japanese-game-releases-dragon-quest-vii-reimagined-nioh-3-my-hero-academia-alls-justice-more",
+      "publishedAt": "2026-02-01T19:00:32Z",
+      "processed_at": "2026-02-02T23:30:11.108519+00:00"
+    },
+    {
+      "title": "Pixel 10 and Pixel Watch 4 discounts return to the Google Store - 9to5Google",
       "source": {
         "name": "9to5google.com"
       },
-      "description": "Following the Live guide redesign earlier this month, YouTube TV for Android now uses the new YouTub...",
-      "url": "http://9to5google.com/2026/02/01/youtube-tv-new-icons/",
-      "publishedAt": "2026-02-01T15:05:00Z",
-      "processed_at": "2026-02-02T18:48:59.709326+00:00"
+      "description": "After the inaugural 2026 deal, the US Google Store has brought back the same discounts on the Pixel ...",
+      "url": "http://9to5google.com/2026/02/01/google-store-february-2026-pixel/",
+      "publishedAt": "2026-02-01T18:46:00Z",
+      "processed_at": "2026-02-02T23:30:11.108519+00:00"
     },
     {
-      "title": "Xbox Game Pass Perks and free benefits for February 2026 - TrueAchievements",
+      "title": "M2’s Tokihiro NAITO and Skipmore announce pixel art ‘puzzle adventure shooter’ XeGrader plus for PC - Gematsu",
       "source": {
-        "name": "TrueAchievements"
+        "name": "Gematsu"
       },
-      "description": "Here are all the Xbox Game Pass Perks and benefits for February 2026, which offer in-game goodies fo...",
-      "url": "https://www.trueachievements.com/news/xbox-game-pass-perks-february-2026",
-      "publishedAt": "2026-02-01T14:03:00Z",
-      "processed_at": "2026-02-02T18:48:59.709326+00:00"
+      "description": "Tokihiro NAITO, a game designer and director who works for M2, has announced XeGrader plus, a fantas...",
+      "url": "https://www.gematsu.com/2026/02/m2s-tokihiro-naito-and-skipmore-announce-pixel-art-puzzle-adventure-shooter-xegrader-plus-for-pc",
+      "publishedAt": "2026-02-01T18:35:01Z",
+      "processed_at": "2026-02-02T23:30:11.108519+00:00"
     },
     {
-      "title": "Tesla Features Named After Pop Culture — and Their Origins: Sentry Mode, Plaid, Mad Max and More - Not a Tesla App",
+      "title": "RUMOR: YouTube app heading to Switch 2 sometime this month - GoNintendo",
       "source": {
-        "name": "Notateslaapp.com"
+        "name": "GoNintendo"
       },
-      "description": "We take a look at all the Tesla features that have been named after or inspired by pop culture....",
-      "url": "https://www.notateslaapp.com/news/3541/tesla-features-named-after-pop-culture-and-their-origins-sentry-mode-plaid-mad-max-and-more",
-      "publishedAt": "2026-02-01T13:56:00Z",
-      "processed_at": "2026-02-02T18:48:59.709326+00:00"
+      "description": "I need to stream my Cocomelon NOW!...",
+      "url": "https://gonintendo.com/contents/57237-rumor-youtube-app-heading-to-switch-2-sometime-this-month",
+      "publishedAt": "2026-02-01T18:05:29Z",
+      "processed_at": "2026-02-02T23:30:11.108519+00:00"
     },
     {
-      "title": "These Are The Best Car Tires Of 2026, According To Consumer Reports - Jalopnik",
+      "title": "Fujifilm Fixed Its Biggest Pre-2024 Mistake: The Beauty of an Open X-Mount Lens Roundup - Fuji Rumors",
       "source": {
-        "name": "Jalopnik"
+        "name": "Fujirumors.com"
       },
-      "description": "Of the millions of components that make cars go and stop with performance and comfort, tires are the...",
-      "url": "https://www.jalopnik.com/2086618/best-car-tires-2026-consumer-reports/",
-      "publishedAt": "2026-02-01T13:45:00Z",
-      "processed_at": "2026-02-02T18:48:59.709326+00:00"
+      "description": "Full List of Third Party AF Fujifilm X mount lenses available on Amazon When I wrote the FujiRumors ...",
+      "url": "https://www.fujirumors.com/fujifilm-fixed-its-biggest-pre-2024-mistake-the-beauty-of-an-open-x-mount-lens-roundup/",
+      "publishedAt": "2026-02-01T17:43:46Z",
+      "processed_at": "2026-02-02T23:30:11.108519+00:00"
     },
     {
-      "title": "New MacBook Pros Reportedly Launching Alongside macOS 26.3 - MacRumors",
+      "title": "Pokémon GO Events This Week: February 2 to February 8, 2026 - Pokémon GO Hub",
       "source": {
-        "name": "MacRumors"
+        "name": "Pokemon GO Hub"
       },
-      "description": "Apple is planning to launch new MacBook Pro models with M5 Pro and M5 Max chips alongside macOS 26.3...",
-      "url": "https://www.macrumors.com/2026/02/01/new-macbook-pro-macos-26-3-rumor/",
-      "publishedAt": "2026-02-01T13:42:14Z",
-      "processed_at": "2026-02-02T18:48:59.709326+00:00"
+      "description": "Pokémon GO’s February 2 to February 8 week has us entering the final month of Precious Paths! Get re...",
+      "url": "https://pokemongohub.net/post/event/pokemon-go-events-this-week-february-2-to-february-8-2026/",
+      "publishedAt": "2026-02-01T17:39:02Z",
+      "processed_at": "2026-02-02T23:30:11.108519+00:00"
     },
     {
-      "title": "Rumour: YouTube could be launching this month for Nintendo Switch 2 - My Nintendo News",
+      "title": "Game companies see share prices plummet following the launch of Google's very limited virtual world generator, Project Genie - Eurogamer",
       "source": {
-        "name": "My Nintendo News"
+        "name": "Eurogamer.net"
       },
-      "description": "One of the things that many of you have been asking for is a YouTube app for the Nintendo Switch 2. ...",
-      "url": "https://mynintendonews.com/2026/02/01/rumour-youtube-could-be-launching-this-month-for-nintendo-switch-2/",
-      "publishedAt": "2026-02-01T13:20:56Z",
-      "processed_at": "2026-02-02T18:48:59.709326+00:00"
+      "description": "Gaming companies saw share prices plummet this week after Google rolled out Project Genie 3, an AI t...",
+      "url": "https://www.eurogamer.net/game-companies-see-share-prices-plummet-following-the-launch-of-googles-very-limited-virtual-world-generator-project-genie",
+      "publishedAt": "2026-02-01T17:18:38Z",
+      "processed_at": "2026-02-02T23:30:11.108519+00:00"
     },
     {
-      "title": "12 Cool New Gadgets to Keep on Your Radar - Gear Patrol",
+      "title": "Report: Apple ‘exploring’ clamshell foldable iPhone as potential follow-up model - 9to5Mac",
       "source": {
-        "name": "Gear Patrol"
+        "name": "9to5Mac"
       },
-      "description": "Catching you up on the past week’s most notable product releases....",
-      "url": "https://www.gearpatrol.com/audio/best-new-tech-releases-2-01-2026/",
-      "publishedAt": "2026-02-01T13:00:00Z",
-      "processed_at": "2026-02-02T18:48:59.709326+00:00"
-    },
-    {
-      "title": "Borderlands 4 2026 Roadmap - Borderlands | Official Website",
-      "source": {
-        "name": "2k.com"
-      },
-      "description": "Here's your first look at what we've got in store for 2026!...",
-      "url": "https://borderlands.2k.com/borderlands-4/news/2026-roadmap/",
-      "publishedAt": "2026-02-01T12:06:58Z",
-      "processed_at": "2026-02-02T18:48:59.709326+00:00"
-    },
-    {
-      "title": "Lenovo Yoga Pro 9i 16 Aura Edition Review: Kick-Ass Laptop for Creators - CNET",
-      "source": {
-        "name": "CNET"
-      },
-      "description": "Editors' Choice: Centered around a gorgeous 16-inch OLED display, this Yoga laptop provides the perf...",
-      "url": "https://www.cnet.com/tech/computing/lenovo-yoga-pro-9i-16-aura-edition-review-kick-ass-laptop-for-creators/",
-      "publishedAt": "2026-02-01T12:01:13Z",
-      "processed_at": "2026-02-02T18:48:59.709326+00:00"
+      "description": "In today’s Power On newsletter from Mark Gurman, an interesting new possibility was shared for the i...",
+      "url": "https://9to5mac.com/2026/02/01/apple-considering-clamshell-style-foldable-iphone-flip/",
+      "publishedAt": "2026-02-01T17:10:00Z",
+      "processed_at": "2026-02-02T23:30:11.108519+00:00"
     }
   ],
-  "lastUpdated": "2026-02-02T18:48:59.709399+00:00",
+  "lastUpdated": "2026-02-02T23:30:11.108596+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
