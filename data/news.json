@@ -1,26 +1,46 @@
 {
   "status": "success",
-  "totalResults": 9,
+  "totalResults": 10,
   "articles": [
     {
-      "title": "Highguard boss says the player count “doesn’t matter” - Dexerto",
+      "title": "GTA 6 Marketing Will Kick Off This Summer, as Take-Two Confidently Reaffirms November Release Date - IGN",
       "source": {
-        "name": "Dexerto"
+        "name": "IGN"
       },
-      "description": "Highguard game director Chad Grenier insists it “doesn’t matter” about the player count, as long as ...",
-      "url": "https://www.dexerto.com/gaming/highguard-boss-says-the-player-count-doesnt-matter-3313383/",
-      "publishedAt": "2026-02-03T19:40:42Z",
-      "processed_at": "2026-02-04T22:30:34.150654+00:00"
+      "description": "Grand Theft Auto VI's November 19, 2026 release date is drawing nearer, and Take-Two Interactive is ...",
+      "url": "https://www.ign.com/articles/gta-6-marketing-will-kick-off-this-summer-as-take-two-confidently-reaffirms-november-release-date",
+      "publishedAt": "2026-02-03T21:15:08Z",
+      "processed_at": "2026-02-04T23:30:10.269604+00:00"
     },
     {
-      "title": "Teamfight Tactics patch 16.4 - Teamfight Tactics",
+      "title": "ChatGPT GPT-4o users are raging at OpenAI on Reddit right now - Mashable",
       "source": {
-        "name": "Leagueoflegends.com"
+        "name": "Mashable"
       },
-      "description": "16.4 brings new Augments, leveling adjustments, and balance changes!...",
-      "url": "https://teamfighttactics.leagueoflegends.com/en-us/news/game-updates/teamfight-tactics-patch-16-4/",
-      "publishedAt": "2026-02-03T19:00:00Z",
-      "processed_at": "2026-02-04T22:30:34.150654+00:00"
+      "description": "OpenAI announced it would be removing the model. Some users are very unhappy....",
+      "url": "https://mashable.com/article/chatgpt-gpt-4o-ai-retirement-protest-rage-openai-reddit",
+      "publishedAt": "2026-02-03T21:00:00Z",
+      "processed_at": "2026-02-04T23:30:10.269604+00:00"
+    },
+    {
+      "title": "Apple hosts Apple TV media event, here’s everything that’s been announced - 9to5Mac",
+      "source": {
+        "name": "9to5Mac"
+      },
+      "description": "Apple is hosting a special media event today called the ‘2026 Apple TV Press Day.’ Here’s everything...",
+      "url": "https://9to5mac.com/2026/02/03/apple-hosts-apple-tv-media-event-heres-everything-thats-been-announced/",
+      "publishedAt": "2026-02-03T20:01:00Z",
+      "processed_at": "2026-02-04T23:30:10.269604+00:00"
+    },
+    {
+      "title": "Stardew Valley Creator Teases Two More Marriage Candidates For Update 1.7 - Nintendo Life",
+      "source": {
+        "name": "Nintendo Life"
+      },
+      "description": "\"I'll reveal who it is on the anniversary day\"...",
+      "url": "https://www.nintendolife.com/news/2026/02/stardew-valley-creator-teases-two-more-marriage-candidates-for-update-1-7",
+      "publishedAt": "2026-02-03T19:30:00Z",
+      "processed_at": "2026-02-04T23:30:10.269604+00:00"
     },
     {
       "title": "Nintendo Switch is the second-bestselling game console ever, behind only the PS2 - Ars Technica",
@@ -30,7 +50,7 @@
       "description": "Switch 2 has already beaten the Wii U and is on its way to overtaking GameCube....",
       "url": "https://arstechnica.com/gadgets/2026/02/original-nintendo-switch-passes-the-ds-to-become-nintendos-bestselling-console/",
       "publishedAt": "2026-02-03T18:56:20Z",
-      "processed_at": "2026-02-04T22:30:34.150654+00:00"
+      "processed_at": "2026-02-04T23:30:10.269604+00:00"
     },
     {
       "title": "Secret Lair: Roll for Initiative Superdrop - Magic: The Gathering",
@@ -40,7 +60,7 @@
       "description": "Magic fans from Baldur's Gate, Ravenloft, and beyond—rally your party for the Roll for Initiative Su...",
       "url": "https://magic.wizards.com/en/news/announcements/secret-lair-roll-for-initiative-superdrop",
       "publishedAt": "2026-02-03T18:32:03Z",
-      "processed_at": "2026-02-04T22:30:34.150654+00:00"
+      "processed_at": "2026-02-04T23:30:10.269604+00:00"
     },
     {
       "title": "Google court filings suggest ChromeOS has an expiration date - Ars Technica",
@@ -50,7 +70,7 @@
       "description": "ChromeOS may be canned once the current support guarantee has run its course....",
       "url": "https://arstechnica.com/google/2026/02/google-court-filings-suggest-googles-chromeos-has-an-expiration-date/",
       "publishedAt": "2026-02-03T18:25:18Z",
-      "processed_at": "2026-02-04T22:30:34.150654+00:00"
+      "processed_at": "2026-02-04T23:30:10.269604+00:00"
     },
     {
       "title": "Xcode 26.3 unlocks the power of agentic coding - Apple",
@@ -60,7 +80,7 @@
       "description": "Xcode 26.3 introduces support for agentic coding, a new way in Xcode for developers to build apps, p...",
       "url": "https://www.apple.com/newsroom/2026/02/xcode-26-point-3-unlocks-the-power-of-agentic-coding/",
       "publishedAt": "2026-02-03T18:01:18Z",
-      "processed_at": "2026-02-04T22:30:34.150654+00:00"
+      "processed_at": "2026-02-04T23:30:10.269604+00:00"
     },
     {
       "title": "Grounded 2 thrived whilst Avowed and The Outer Worlds 2 under-performed, so now Obsidian may target shorter development cycles - Eurogamer",
@@ -70,30 +90,20 @@
       "description": "Key Obsidian Entertainment figures have talked to Bloomberg about Avowed, The Outer Worlds 2, and Gr...",
       "url": "https://www.eurogamer.net/obsidian-talks-avowed-the-outer-worlds-grounded-2-performance-and-studio-future",
       "publishedAt": "2026-02-03T17:06:27Z",
-      "processed_at": "2026-02-04T22:30:34.150654+00:00"
+      "processed_at": "2026-02-04T23:30:10.269604+00:00"
     },
     {
-      "title": "Minecraft 26.1 Snapshot 6 - Minecraft",
+      "title": "Gemini app Tools menu adds ‘Labs’ section, Personal Intelligence toggle - 9to5Google",
       "source": {
-        "name": "Minecraft.net"
+        "name": "9to5google.com"
       },
-      "description": "Minecraft 26.1 Snapshot 6...",
-      "url": "https://www.minecraft.net/en-us/article/minecraft-26-1-snapshot-6",
-      "publishedAt": "2026-02-03T16:06:32Z",
-      "processed_at": "2026-02-04T22:30:34.150654+00:00"
-    },
-    {
-      "title": "Fitbit founders launch AI platform to help families monitor their health - TechCrunch",
-      "source": {
-        "name": "TechCrunch"
-      },
-      "description": "Luffu uses AI in the background to gather and organize family information, learn day-to-day patterns...",
-      "url": "https://techcrunch.com/2026/02/03/fitbit-founders-launch-ai-platform-to-help-families-monitor-their-health/",
-      "publishedAt": "2026-02-03T15:53:36Z",
-      "processed_at": "2026-02-04T22:30:34.150654+00:00"
+      "description": "",
+      "url": "http://9to5google.com/2026/02/03/gemini-tools-menu-labs/",
+      "publishedAt": "2026-02-03T17:00:00Z",
+      "processed_at": "2026-02-04T23:30:10.269604+00:00"
     }
   ],
-  "lastUpdated": "2026-02-04T22:30:34.150720+00:00",
+  "lastUpdated": "2026-02-04T23:30:10.269679+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
