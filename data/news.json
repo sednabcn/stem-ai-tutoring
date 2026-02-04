@@ -1,16 +1,56 @@
 {
   "status": "success",
-  "totalResults": 9,
+  "totalResults": 10,
   "articles": [
     {
-      "title": "Spiritforged Merch Drawing FAQ - Riftbound",
+      "title": "Looking back at Catacomb 3D , the game that led to Wolfenstein 3D - Ars Technica",
       "source": {
-        "name": "Leagueoflegends.com"
+        "name": "Ars Technica"
       },
-      "description": "Starting with Spiritforged, Riftbound will use a drawing system for purchases from the Merch store. ...",
-      "url": "https://riftbound.leagueoflegends.com/en-us/news/announcements/spiritforged-product-drawing-faq/",
-      "publishedAt": "2026-02-02T21:52:32Z",
-      "processed_at": "2026-02-03T23:29:36.894180+00:00"
+      "description": "Romero, Carmack, and colleagues discuss an oft-forgotten piece of PC gaming history......",
+      "url": "https://arstechnica.com/gaming/2026/02/looking-back-at-catacomb-3d-the-game-that-led-to-wolfenstein-3d/",
+      "publishedAt": "2026-02-02T22:57:56Z",
+      "processed_at": "2026-02-04T02:11:48.614979+00:00"
+    },
+    {
+      "title": "'People Have a Right to Be Pissed' — Dispatch Developer Apologizes to Fans Over Nintendo Switch Censorship, Says Disclaimer Wasn't Visible Enough - IGN",
+      "source": {
+        "name": "IGN"
+      },
+      "description": "The developer of a game censored due to Nintendo's content guidelines has apologized to fans and sai...",
+      "url": "https://www.ign.com/articles/people-have-a-right-to-be-pissed-dispatch-developer-apologizes-to-fans-over-nintendo-switch-censorship-says-disclaimer-wasnt-visible-enough",
+      "publishedAt": "2026-02-02T22:20:30Z",
+      "processed_at": "2026-02-04T02:11:48.614979+00:00"
+    },
+    {
+      "title": "Jez Corden argues next Xbox could inherit Windows’ strengths and its flaws - Windows Central",
+      "source": {
+        "name": "Windows Central"
+      },
+      "description": "I've been using Windows almost daily for 30 years. I know my way around its idiosyncrasies and foibl...",
+      "url": "https://www.windowscentral.com/gaming/xbox/the-next-xbox-is-a-pc-with-all-of-windows-strengths-will-it-come-with-its-weaknesses-too",
+      "publishedAt": "2026-02-02T21:20:21Z",
+      "processed_at": "2026-02-04T02:11:48.614979+00:00"
+    },
+    {
+      "title": "Adobe Animate is shutting down as company focuses on AI - TechCrunch",
+      "source": {
+        "name": "TechCrunch"
+      },
+      "description": "Adobe Animate will be discontinued on March 1, 2026, as Adobe shifts its focus to AI....",
+      "url": "https://techcrunch.com/2026/02/02/adobe-animate-is-shutting-down-as-company-focuses-on-ai/",
+      "publishedAt": "2026-02-02T21:15:03Z",
+      "processed_at": "2026-02-04T02:11:48.614979+00:00"
+    },
+    {
+      "title": "Russian hackers exploit recently patched Microsoft Office bug in attacks - BleepingComputer",
+      "source": {
+        "name": "BleepingComputer"
+      },
+      "description": "Ukraine's Computer Emergency Response Team (CERT) says that Russian hackers are exploiting CVE-2026-...",
+      "url": "https://www.bleepingcomputer.com/news/security/russian-hackers-exploit-recently-patched-microsoft-office-bug-in-attacks/",
+      "publishedAt": "2026-02-02T21:00:07Z",
+      "processed_at": "2026-02-04T02:11:48.614979+00:00"
     },
     {
       "title": "Google Home update finally adds support for smart buttons in automations - 9to5Google",
@@ -20,7 +60,37 @@
       "description": "Google Home is finally addressing one of its biggest shortcomings in automations, with support now r...",
       "url": "http://9to5google.com/2026/02/02/google-home-smart-button-automations-update/",
       "publishedAt": "2026-02-02T20:20:00Z",
-      "processed_at": "2026-02-03T23:29:36.894180+00:00"
+      "processed_at": "2026-02-04T02:11:48.614979+00:00"
+    },
+    {
+      "title": "Samsung Confirms Ground-Breaking Galaxy S26 Ultra Feature - Forbes",
+      "source": {
+        "name": "Forbes"
+      },
+      "description": "While we’re waiting for Samsung to announce its next flagship phones, the company has unveiled a kil...",
+      "url": "https://www.forbes.com/sites/davidphelan/2026/02/02/galaxy-s26-ultra-samsung-confirms-ground-breaking-new-feature---why-it-matters/",
+      "publishedAt": "2026-02-02T20:17:48Z",
+      "processed_at": "2026-02-04T02:11:48.614979+00:00"
+    },
+    {
+      "title": "Russia Is Building a Plasma Engine to Get Humans to Mars in 30 Days - AOL.com",
+      "source": {
+        "name": "Popular Mechanics"
+      },
+      "description": "Plasma engines could be the future of human space travel, and Russia’s “manetoplasma rockets” have t...",
+      "url": "https://www.popularmechanics.com/space/rockets/a70162796/russian-plasma-engine-30-days/",
+      "publishedAt": "2026-02-02T20:14:29Z",
+      "processed_at": "2026-02-04T02:11:48.614979+00:00"
+    },
+    {
+      "title": "Get Ready for New Pixel Theme Packs - Droid Life",
+      "source": {
+        "name": "Droid Life"
+      },
+      "description": "A new wave of Pixel Theme packs is on the way, but will it be another collaboration or something ori...",
+      "url": "https://www.droid-life.com/2026/02/02/get-ready-for-new-pixel-theme-packs/",
+      "publishedAt": "2026-02-02T20:07:09Z",
+      "processed_at": "2026-02-04T02:11:48.614979+00:00"
     },
     {
       "title": "Firefox is adding a switch to turn AI features off - The Verge",
@@ -30,70 +100,10 @@
       "description": "Mozilla is launching a new option that will allow you to turn off AI-powered features inside Firefox...",
       "url": "https://www.theverge.com/news/872489/mozilla-firefox-ai-features-off-button",
       "publishedAt": "2026-02-02T20:02:39Z",
-      "processed_at": "2026-02-03T23:29:36.894180+00:00"
-    },
-    {
-      "title": "Crunchyroll is raising prices again - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "Crunchyroll is raising prices in the US and “select international markets.” The price hikes will aff...",
-      "url": "https://www.theverge.com/entertainment/872468/crunchyroll-price-hike-raise-fan-mega-ultimate-tier",
-      "publishedAt": "2026-02-02T19:42:04Z",
-      "processed_at": "2026-02-03T23:29:36.894180+00:00"
-    },
-    {
-      "title": "Gemini Live rolling out floating pill redesign on Android - 9to5Google",
-      "source": {
-        "name": "9to5google.com"
-      },
-      "description": "Since launch, Gemini Live has primarily been a fullscreen experience, but Google is now rolling out ...",
-      "url": "http://9to5google.com/2026/02/02/gemini-live-floating-redesign/",
-      "publishedAt": "2026-02-02T19:33:00Z",
-      "processed_at": "2026-02-03T23:29:36.894180+00:00"
-    },
-    {
-      "title": "Galaxy S26 is skipping built-in Qi2 magnets in latest leak - 9to5Google",
-      "source": {
-        "name": "9to5google.com"
-      },
-      "description": "Leaks continue to tell us the GalaxyS26 series won’t be a particularly big upgrade, and it seems mor...",
-      "url": "http://9to5google.com/2026/02/02/galaxy-s26-is-skipping-built-in-qi2-magnets-in-latest-leak/",
-      "publishedAt": "2026-02-02T19:20:00Z",
-      "processed_at": "2026-02-03T23:29:36.894180+00:00"
-    },
-    {
-      "title": "Report: Ashes Of Creation Developer Intrepid Studios Shuts Down Weeks After The MMO's Early Access Launch - Game Informer",
-      "source": {
-        "name": "Gameinformer.com"
-      },
-      "description": "Employees are posting on LinkedIn that the entire studio has been shut down....",
-      "url": "https://gameinformer.com/2026/02/02/report-ashes-of-creation-developer-intrepid-studios-shuts-down-weeks-after-the-mmos",
-      "publishedAt": "2026-02-02T18:54:12Z",
-      "processed_at": "2026-02-03T23:29:36.894180+00:00"
-    },
-    {
-      "title": "Microsoft Stock (NASDAQ:MSFT) Falters on Hibernation Fix Flop, Unexpected Xbox Permaban - TipRanks",
-      "source": {
-        "name": "Tipranks.com"
-      },
-      "description": "Tech giant Microsoft ($MSFT) has not been having a great Monday so far. Reports of a hibernation bug...",
-      "url": "https://www.tipranks.com/news/microsoft-stock-nasdaqmsft-falters-on-hibernation-fix-flop-unexpected-xbox-permaban",
-      "publishedAt": "2026-02-02T18:38:52Z",
-      "processed_at": "2026-02-03T23:29:36.894180+00:00"
-    },
-    {
-      "title": "Ubisoft Assassin's Creed Dev Fired Less Than Two Weeks After Criticizing Company's Plans To End Work From Home - Kotaku",
-      "source": {
-        "name": "Kotaku"
-      },
-      "description": "David Michaud-Cromp was previously punished with an unpaid suspension for publicly pushing back...",
-      "url": "https://kotaku.com/ubisoft-montreal-lead-fired-david-michaud-cromp-work-from-home-linkedin-2000665081",
-      "publishedAt": "2026-02-02T18:33:22Z",
-      "processed_at": "2026-02-03T23:29:36.894180+00:00"
+      "processed_at": "2026-02-04T02:11:48.614979+00:00"
     }
   ],
-  "lastUpdated": "2026-02-03T23:29:36.894245+00:00",
+  "lastUpdated": "2026-02-04T02:11:48.615055+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
