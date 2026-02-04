@@ -1,7 +1,77 @@
 {
   "status": "success",
-  "totalResults": 10,
+  "totalResults": 9,
   "articles": [
+    {
+      "title": "Highguard boss says the player count “doesn’t matter” - Dexerto",
+      "source": {
+        "name": "Dexerto"
+      },
+      "description": "Highguard game director Chad Grenier insists it “doesn’t matter” about the player count, as long as ...",
+      "url": "https://www.dexerto.com/gaming/highguard-boss-says-the-player-count-doesnt-matter-3313383/",
+      "publishedAt": "2026-02-03T19:40:42Z",
+      "processed_at": "2026-02-04T19:39:04.380009+00:00"
+    },
+    {
+      "title": "Teamfight Tactics patch 16.4 - Teamfight Tactics",
+      "source": {
+        "name": "Leagueoflegends.com"
+      },
+      "description": "16.4 brings new Augments, leveling adjustments, and balance changes!...",
+      "url": "https://teamfighttactics.leagueoflegends.com/en-us/news/game-updates/teamfight-tactics-patch-16-4/",
+      "publishedAt": "2026-02-03T19:00:00Z",
+      "processed_at": "2026-02-04T19:39:04.380009+00:00"
+    },
+    {
+      "title": "Nintendo Switch is the second-bestselling game console ever, behind only the PS2 - Ars Technica",
+      "source": {
+        "name": "Ars Technica"
+      },
+      "description": "Switch 2 has already beaten the Wii U and is on its way to overtaking GameCube....",
+      "url": "https://arstechnica.com/gadgets/2026/02/original-nintendo-switch-passes-the-ds-to-become-nintendos-bestselling-console/",
+      "publishedAt": "2026-02-03T18:56:20Z",
+      "processed_at": "2026-02-04T19:39:04.380009+00:00"
+    },
+    {
+      "title": "Secret Lair: Roll for Initiative Superdrop - Magic: The Gathering",
+      "source": {
+        "name": "Wizards.com"
+      },
+      "description": "Magic fans from Baldur's Gate, Ravenloft, and beyond—rally your party for the Roll for Initiative Su...",
+      "url": "https://magic.wizards.com/en/news/announcements/secret-lair-roll-for-initiative-superdrop",
+      "publishedAt": "2026-02-03T18:32:03Z",
+      "processed_at": "2026-02-04T19:39:04.380009+00:00"
+    },
+    {
+      "title": "Google court filings suggest ChromeOS has an expiration date - Ars Technica",
+      "source": {
+        "name": "Ars Technica"
+      },
+      "description": "ChromeOS may be canned once the current support guarantee has run its course....",
+      "url": "https://arstechnica.com/google/2026/02/google-court-filings-suggest-googles-chromeos-has-an-expiration-date/",
+      "publishedAt": "2026-02-03T18:25:18Z",
+      "processed_at": "2026-02-04T19:39:04.380009+00:00"
+    },
+    {
+      "title": "Xcode 26.3 unlocks the power of agentic coding - Apple",
+      "source": {
+        "name": "Apple Newsroom"
+      },
+      "description": "Xcode 26.3 introduces support for agentic coding, a new way in Xcode for developers to build apps, p...",
+      "url": "https://www.apple.com/newsroom/2026/02/xcode-26-point-3-unlocks-the-power-of-agentic-coding/",
+      "publishedAt": "2026-02-03T18:01:18Z",
+      "processed_at": "2026-02-04T19:39:04.380009+00:00"
+    },
+    {
+      "title": "Grounded 2 thrived whilst Avowed and The Outer Worlds 2 under-performed, so now Obsidian may target shorter development cycles - Eurogamer",
+      "source": {
+        "name": "Eurogamer.net"
+      },
+      "description": "Key Obsidian Entertainment figures have talked to Bloomberg about Avowed, The Outer Worlds 2, and Gr...",
+      "url": "https://www.eurogamer.net/obsidian-talks-avowed-the-outer-worlds-grounded-2-performance-and-studio-future",
+      "publishedAt": "2026-02-03T17:06:27Z",
+      "processed_at": "2026-02-04T19:39:04.380009+00:00"
+    },
     {
       "title": "Minecraft 26.1 Snapshot 6 - Minecraft",
       "source": {
@@ -10,100 +80,20 @@
       "description": "Minecraft 26.1 Snapshot 6...",
       "url": "https://www.minecraft.net/en-us/article/minecraft-26-1-snapshot-6",
       "publishedAt": "2026-02-03T16:06:32Z",
-      "processed_at": "2026-02-04T16:52:27.385385+00:00"
+      "processed_at": "2026-02-04T19:39:04.380009+00:00"
     },
     {
-      "title": "Samsung Galaxy S26 Ultra Release Date: New Leaks, Disappointing News - Forbes",
+      "title": "Fitbit founders launch AI platform to help families monitor their health - TechCrunch",
       "source": {
-        "name": "Forbes"
+        "name": "TechCrunch"
       },
-      "description": "The Samsung Galaxy S26 Ultra release date has been confirmed, but some of the new specifications rev...",
-      "url": "https://www.forbes.com/sites/jaymcgregor/2026/02/03/samsung-galaxy-s26-ultra-release-date-leak-battery-spec/",
-      "publishedAt": "2026-02-03T14:44:00Z",
-      "processed_at": "2026-02-04T16:52:27.385385+00:00"
-    },
-    {
-      "title": "On The ‘Luke Smith Is Returning To Bungie To Make Destiny 3’ Rumor - Forbes",
-      "source": {
-        "name": "Forbes"
-      },
-      "description": "A rumor spread quickly on social media this week that Luke Smith was coming back to Bungie to make D...",
-      "url": "https://www.forbes.com/sites/paultassi/2026/02/03/on-the-luke-smith-is-returning-to-bungie-to-make-destiny-3-rumor/",
-      "publishedAt": "2026-02-03T14:39:12Z",
-      "processed_at": "2026-02-04T16:52:27.385385+00:00"
-    },
-    {
-      "title": "Coming to Xbox Game Pass: High on Life 2, Madden NFL 26, Avatar: Frontiers of Pandora, and More - Xbox Wire",
-      "source": {
-        "name": "Xbox.com"
-      },
-      "description": "Coming soon to Xbox Game Pass: High on Life 2, Madden NFL 26, Avatar: Frontiers of Pandora, and more...",
-      "url": "https://news.xbox.com/en-us/2026/02/03/xbox-game-pass-february-2026-wave-1/",
-      "publishedAt": "2026-02-03T14:04:09Z",
-      "processed_at": "2026-02-04T16:52:27.385385+00:00"
-    },
-    {
-      "title": "As a Virtual Boy owner I can confirm the Switch 2's NSO offering is alarmingly accurate and an essential history lesson - Eurogamer",
-      "source": {
-        "name": "Eurogamer.net"
-      },
-      "description": "",
-      "url": "https://www.eurogamer.net/switch-virtual-boy",
-      "publishedAt": "2026-02-03T14:00:00Z",
-      "processed_at": "2026-02-04T16:52:27.385385+00:00"
-    },
-    {
-      "title": "I’m Already Tired of ‘Nintendo Switch 2 Editions’, and Even New Mario Wonder Content Can’t Change That - IGN",
-      "source": {
-        "name": "IGN"
-      },
-      "description": "The first-party Nintendo Switch 2 Editions have been wildly inconsistent across their price points, ...",
-      "url": "https://www.ign.com/articles/im-already-tired-of-nintendo-switch-2-editions-and-even-new-mario-wonder-content-cant-change-that",
-      "publishedAt": "2026-02-03T14:00:00Z",
-      "processed_at": "2026-02-04T16:52:27.385385+00:00"
-    },
-    {
-      "title": "Google Home finally adds support for buttons - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "An update allows programmable switches, also known as buttons, to work in Google’s smart home platfo...",
-      "url": "https://www.theverge.com/tech/872927/google-home-button-support-arrives",
-      "publishedAt": "2026-02-03T13:50:56Z",
-      "processed_at": "2026-02-04T16:52:27.385385+00:00"
-    },
-    {
-      "title": "The Rumour Engine – 3rd of February - Warhammer Community",
-      "source": {
-        "name": "Warhammer-community.com"
-      },
-      "description": "",
-      "url": "https://www.warhammer-community.com/en-gb/articles/fcmvqul0/the-rumour-engine-3rd-of-february/",
-      "publishedAt": "2026-02-03T12:58:05Z",
-      "processed_at": "2026-02-04T16:52:27.385385+00:00"
-    },
-    {
-      "title": "YouTube now blocking background playback on mobile browsers - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "Google says it has started enforcing its YouTube Premium requirement for background playback on mobi...",
-      "url": "https://www.theverge.com/news/872937/google-youtube-blocking-third-party-mobile-browsers-background-playback",
-      "publishedAt": "2026-02-03T12:53:52Z",
-      "processed_at": "2026-02-04T16:52:27.385385+00:00"
-    },
-    {
-      "title": "Inside Xbox, a Game Studio Is Trying to Reinvent Itself - Bloomberg",
-      "source": {
-        "name": "Bloomberg"
-      },
-      "description": "Microsoft’s Obsidian Entertainment is searching for ways to make games more quickly and on smaller b...",
-      "url": "https://www.bloomberg.com/news/articles/2026-02-03/xbox-studio-behind-grounded-outer-worlds-is-charting-new-path",
-      "publishedAt": "2026-02-03T12:00:25Z",
-      "processed_at": "2026-02-04T16:52:27.385385+00:00"
+      "description": "Luffu uses AI in the background to gather and organize family information, learn day-to-day patterns...",
+      "url": "https://techcrunch.com/2026/02/03/fitbit-founders-launch-ai-platform-to-help-families-monitor-their-health/",
+      "publishedAt": "2026-02-03T15:53:36Z",
+      "processed_at": "2026-02-04T19:39:04.380009+00:00"
     }
   ],
-  "lastUpdated": "2026-02-04T16:52:27.385456+00:00",
+  "lastUpdated": "2026-02-04T19:39:04.380081+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
