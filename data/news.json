@@ -1,16 +1,36 @@
 {
   "status": "success",
-  "totalResults": 10,
+  "totalResults": 9,
   "articles": [
     {
-      "title": "Blizzard unveils a major Overwatch 2 revamp, renaming it to just Overwatch and announcing ambitious, imminent expansion plan - Eurogamer",
+      "title": "Meet Gizmo: a TikTok for interactive, vibe-coded mini apps - TechCrunch",
       "source": {
-        "name": "Eurogamer.net"
+        "name": "TechCrunch"
       },
-      "description": "Five new heroes arrive at once, and then a further five this year. That's 10 new heroes in total thi...",
-      "url": "https://www.eurogamer.net/blizzard-unveils-major-overwatch-2-revamp-expansion-plan",
-      "publishedAt": "2026-02-04T18:45:00Z",
-      "processed_at": "2026-02-05T22:29:44.973832+00:00"
+      "description": "Gizmo's app is like a TikTok for vibe-coded mini apps... and it's a lot of fun....",
+      "url": "https://techcrunch.com/2026/02/04/meet-gizmo-a-tiktok-for-interactive-vibe-coded-mini-apps/",
+      "publishedAt": "2026-02-04T21:45:32Z",
+      "processed_at": "2026-02-05T23:25:00.904129+00:00"
+    },
+    {
+      "title": "Nintendo’s new Virtual Boy is more fun to look at than to play - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "The new Virtual Boy headset looks like a gorgeous blast from Nintendo’s past, but the games definite...",
+      "url": "https://www.theverge.com/games/873755/nintendo-switch-virtual-boy-impressions",
+      "publishedAt": "2026-02-04T21:37:50Z",
+      "processed_at": "2026-02-05T23:25:00.904129+00:00"
+    },
+    {
+      "title": "At 82, he’s as fit as a 20-year-old. His body holds clues to healthy aging. - washingtonpost.com",
+      "source": {
+        "name": "The Washington Post"
+      },
+      "description": "Scientists are studying Juan López García, 82, a world-record-holding ultramarathoner, to learn how ...",
+      "url": "https://www.washingtonpost.com/wellness/2026/02/04/healthy-aging-juan-lopez-garcia-ultramarathoner/",
+      "publishedAt": "2026-02-04T19:00:00Z",
+      "processed_at": "2026-02-05T23:25:00.904129+00:00"
     },
     {
       "title": "The Super Hero Team-based PVP Shooter - Marvel Rivals",
@@ -20,27 +40,27 @@
       "description": "Play for free Now! Get ready to Ignite the Battle with Marvel Rivals!...",
       "url": "https://www.marvelrivals.com/20260204/41525_1285429.html",
       "publishedAt": "2026-02-04T18:04:21Z",
-      "processed_at": "2026-02-05T22:29:44.973832+00:00"
+      "processed_at": "2026-02-05T23:25:00.904129+00:00"
     },
     {
-      "title": "Google announces Pixel 10a with completely flat camera, pre-order Feb 18 - 9to5Google",
+      "title": "Streaming Netflix Will Soon No Longer Be An Option On A Once Popular Device - SlashFilm",
       "source": {
-        "name": "9to5google.com"
+        "name": "/FILM"
       },
-      "description": "Google this morning officially announced the Pixel 10a via a video teaser emphasizing the updated de...",
-      "url": "http://9to5google.com/2026/02/04/pixel-10a-announcement/",
-      "publishedAt": "2026-02-04T17:10:00Z",
-      "processed_at": "2026-02-05T22:29:44.973832+00:00"
+      "description": "Netflix is phasing out the ability to stream the platform on a popular device that completely change...",
+      "url": "https://www.slashfilm.com/2092695/netflix-ps3-streaming-option-ending/",
+      "publishedAt": "2026-02-04T18:00:00Z",
+      "processed_at": "2026-02-05T23:25:00.904129+00:00"
     },
     {
-      "title": "GitHub adds Claude and Codex AI coding agents - The Verge",
+      "title": "Six New Leagues Coming to Apple Sports - MacRumors",
       "source": {
-        "name": "The Verge"
+        "name": "MacRumors"
       },
-      "description": "GitHub is adding rival AI agents from Anthropic and OpenAI. Claude and Codex are both available in p...",
-      "url": "https://www.theverge.com/news/873665/github-claude-codex-ai-agents",
-      "publishedAt": "2026-02-04T17:00:00Z",
-      "processed_at": "2026-02-05T22:29:44.973832+00:00"
+      "description": "Following today's update, Apple plans to add support for six new soccer leagues to the next version ...",
+      "url": "https://www.macrumors.com/2026/02/04/six-new-leagues-coming-to-apple-sports/",
+      "publishedAt": "2026-02-04T16:15:49Z",
+      "processed_at": "2026-02-05T23:25:00.904129+00:00"
     },
     {
       "title": "Stardew Valley is getting two new \"marriage candidates\" and more interesting children in its upcoming 1.7 update - Eurogamer",
@@ -50,7 +70,7 @@
       "description": "Update 1.7 for Stardew Valley will add two extra characters that can be married and upgrade the chil...",
       "url": "https://www.eurogamer.net/stardew-valley-getting-new-marriage-options-better-children-in-next-update",
       "publishedAt": "2026-02-04T15:26:13Z",
-      "processed_at": "2026-02-05T22:29:44.973832+00:00"
+      "processed_at": "2026-02-05T23:25:00.904129+00:00"
     },
     {
       "title": "Spotify launches offline lyrics, translations, and lyric previews - The Verge",
@@ -60,50 +80,20 @@
       "description": "Spotify is expanding lyric translations to all users worldwide and introducing lyric previews, along...",
       "url": "https://www.theverge.com/entertainment/873779/spotify-lyrics-offline-translations-previews",
       "publishedAt": "2026-02-04T14:31:10Z",
-      "processed_at": "2026-02-05T22:29:44.973832+00:00"
+      "processed_at": "2026-02-05T23:25:00.904129+00:00"
     },
     {
-      "title": "Pokémon to Celebrate 30 Years with Yearlong Campaign, Kicking Off with New Super Bowl LX Spot - Pokemon Press",
+      "title": "January 2026 Google Play system update just turned into November 2025? You're not alone - Android Authority",
       "source": {
-        "name": "Pokemon.com"
+        "name": "Android Authority"
       },
-      "description": "Additional Anniversary Offerings and Merchandise Available Beginning Today, Leading Up to Campaign D...",
-      "url": "https://press.pokemon.com/en/Pokemon-30th-Celebration-Teaser",
-      "publishedAt": "2026-02-04T14:06:25Z",
-      "processed_at": "2026-02-05T22:29:44.973832+00:00"
-    },
-    {
-      "title": "Alexa+, Amazon’s AI assistant, is now available to everyone in the U.S. - TechCrunch",
-      "source": {
-        "name": "TechCrunch"
-      },
-      "description": "Amazon opens Alexa+ to everyone in the U.S. The AI feature is free for Prime members across devices,...",
-      "url": "https://techcrunch.com/2026/02/04/alexa-amazons-ai-assistant-is-now-available-to-everyone-in-the-u-s/",
-      "publishedAt": "2026-02-04T14:00:00Z",
-      "processed_at": "2026-02-05T22:29:44.973832+00:00"
-    },
-    {
-      "title": "Nioh 3 review: \"Brutal clashes across wide maps avoid retreading Elden Ring – this is all demon killer, no filler\" - GamesRadar+",
-      "source": {
-        "name": "GamesRadar+"
-      },
-      "description": "Nioh 3 demands care, planning, and patience – and gives immense satisfaction in the form of a brutal...",
-      "url": "https://www.gamesradar.com/games/action-rpg/nioh-3-review/",
-      "publishedAt": "2026-02-04T14:00:00Z",
-      "processed_at": "2026-02-05T22:29:44.973832+00:00"
-    },
-    {
-      "title": "Nintendo Direct Partner Showcase Announced For Tomorrow, 5th February 2026 - Nintendo Life",
-      "source": {
-        "name": "Nintendo Life"
-      },
-      "description": "Howdy, partners!...",
-      "url": "https://www.nintendolife.com/news/2026/02/nintendo-direct-partner-showcase-announced-for-tomorrow-5th-february-2026",
-      "publishedAt": "2026-02-04T13:53:00Z",
-      "processed_at": "2026-02-05T22:29:44.973832+00:00"
+      "description": "Android users report a Google Play system update bug that downgrades them from January 2026 version ...",
+      "url": "https://www.androidauthority.com/google-play-system-update-downgrade-bug-3637834/",
+      "publishedAt": "2026-02-04T14:19:55Z",
+      "processed_at": "2026-02-05T23:25:00.904129+00:00"
     }
   ],
-  "lastUpdated": "2026-02-05T22:29:44.973909+00:00",
+  "lastUpdated": "2026-02-05T23:25:00.904194+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
