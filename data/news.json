@@ -1,7 +1,27 @@
 {
   "status": "success",
-  "totalResults": 9,
+  "totalResults": 10,
   "articles": [
+    {
+      "title": "Latest macOS 26.3 beta adds to signs that new M5 MacBook Pros are imminent - 9to5Mac",
+      "source": {
+        "name": "9to5Mac"
+      },
+      "description": "Today’s macOS 26.3 RC adds to the expectation that updated MacBook Pro versions with new M5 chips ar...",
+      "url": "https://9to5mac.com/2026/02/04/latest-macos-26-3-beta-adds-to-signs-that-new-m5-macbook-pros-are-imminent/",
+      "publishedAt": "2026-02-05T02:51:00Z",
+      "processed_at": "2026-02-06T05:54:54.499479+00:00"
+    },
+    {
+      "title": "System76's COSMIC Desktop Planning Vulkan Renderer, Improved Gaming Experience - Phoronix",
+      "source": {
+        "name": "Phoronix"
+      },
+      "description": "Following December's release of COSMIC Epoch 1 along with the Pop!_OS 24.04 release by System76, tod...",
+      "url": "https://www.phoronix.com/news/COSMIC-Desktop-Features-Coming",
+      "publishedAt": "2026-02-05T01:13:00Z",
+      "processed_at": "2026-02-06T05:54:54.499479+00:00"
+    },
     {
       "title": "Valve’s Steam Machine has been delayed, and the RAM crisis will impact pricing - The Verge",
       "source": {
@@ -10,7 +30,7 @@
       "description": "Valve is delaying the launch of the Steam Machine, Steam Frame, and Steam Controller, and it says th...",
       "url": "https://www.theverge.com/games/874196/valve-steam-machine-frame-controller-delay-pricing-memory-crisis",
       "publishedAt": "2026-02-05T00:12:00Z",
-      "processed_at": "2026-02-06T04:47:49.258146+00:00"
+      "processed_at": "2026-02-06T05:54:54.499479+00:00"
     },
     {
       "title": "Alphabet won’t talk about the Google-Apple AI deal, even to investors - TechCrunch",
@@ -20,7 +40,7 @@
       "description": "Alphabet CEO skipped an analyst's question about Apple on the company's earnings call....",
       "url": "https://techcrunch.com/2026/02/04/alphabet-wont-talk-about-the-google-apple-ai-deal-even-to-investors/",
       "publishedAt": "2026-02-04T23:28:31Z",
-      "processed_at": "2026-02-06T04:47:49.258146+00:00"
+      "processed_at": "2026-02-06T05:54:54.499479+00:00"
     },
     {
       "title": "Russian-state hackers exploit Office vulnerability to infect computers - Ars Technica",
@@ -30,17 +50,7 @@
       "description": "The window to patch vulnerabilities is shrinking rapidly....",
       "url": "https://arstechnica.com/security/2026/02/russian-state-hackers-exploit-office-vulnerability-to-infect-computers/",
       "publishedAt": "2026-02-04T23:08:04Z",
-      "processed_at": "2026-02-06T04:47:49.258146+00:00"
-    },
-    {
-      "title": "New M5 Chips Spotted in iOS 26.3 Beta - MacRumors",
-      "source": {
-        "name": "MacRumors"
-      },
-      "description": "The iOS 26.3 release candidate includes references to a pair of unreleased chips that are in the M5 ...",
-      "url": "https://www.macrumors.com/2026/02/04/new-m5-chips-ios-26-3-beta/",
-      "publishedAt": "2026-02-04T22:57:43Z",
-      "processed_at": "2026-02-06T04:47:49.258146+00:00"
+      "processed_at": "2026-02-06T05:54:54.499479+00:00"
     },
     {
       "title": "Meet Gizmo: a TikTok for interactive, vibe-coded mini apps - TechCrunch",
@@ -50,7 +60,17 @@
       "description": "Gizmo's app is like a TikTok for vibe-coded mini apps... and it's a lot of fun....",
       "url": "https://techcrunch.com/2026/02/04/meet-gizmo-a-tiktok-for-interactive-vibe-coded-mini-apps/",
       "publishedAt": "2026-02-04T21:45:32Z",
-      "processed_at": "2026-02-06T04:47:49.258146+00:00"
+      "processed_at": "2026-02-06T05:54:54.499479+00:00"
+    },
+    {
+      "title": "Overwatch’s Heroes Are Getting Hotter, Here’s Why - Kotaku",
+      "source": {
+        "name": "Kotaku"
+      },
+      "description": "Blizzard says that it’s hoping for more character diversity moving forward...",
+      "url": "https://kotaku.com/overwatch-heroes-characters-hotter-young-skins-collab-2000665796",
+      "publishedAt": "2026-02-04T21:38:59Z",
+      "processed_at": "2026-02-06T05:54:54.499479+00:00"
     },
     {
       "title": "Nintendo’s new Virtual Boy is more fun to look at than to play - The Verge",
@@ -60,7 +80,7 @@
       "description": "The new Virtual Boy headset looks like a gorgeous blast from Nintendo’s past, but the games definite...",
       "url": "https://www.theverge.com/games/873755/nintendo-switch-virtual-boy-impressions",
       "publishedAt": "2026-02-04T21:37:50Z",
-      "processed_at": "2026-02-06T04:47:49.258146+00:00"
+      "processed_at": "2026-02-06T05:54:54.499479+00:00"
     },
     {
       "title": "\"This has been heartbreaking\" - laid-off Ashes Of Creation devs won't get final paychecks and compensation, says former comms head - Rock Paper Shotgun",
@@ -70,7 +90,7 @@
       "description": "Ashes Of Creation devs laid off during the reported closure of Intrepid Studios will not receive the...",
       "url": "https://www.rockpapershotgun.com/this-has-been-heartbreaking-laid-off-ashes-of-creation-devs-wont-get-final-paychecks-and-compensation-says-former-comms-head",
       "publishedAt": "2026-02-04T19:20:37Z",
-      "processed_at": "2026-02-06T04:47:49.258146+00:00"
+      "processed_at": "2026-02-06T05:54:54.499479+00:00"
     },
     {
       "title": "At 82, he’s as fit as a 20-year-old. His body holds clues to healthy aging. - washingtonpost.com",
@@ -80,20 +100,10 @@
       "description": "Scientists are studying Juan López García, 82, a world-record-holding ultramarathoner, to learn how ...",
       "url": "https://www.washingtonpost.com/wellness/2026/02/04/healthy-aging-juan-lopez-garcia-ultramarathoner/",
       "publishedAt": "2026-02-04T19:00:00Z",
-      "processed_at": "2026-02-06T04:47:49.258146+00:00"
-    },
-    {
-      "title": "Google announces Pixel 10a with completely flat camera, pre-order Feb 18 - 9to5Google",
-      "source": {
-        "name": "9to5google.com"
-      },
-      "description": "Google this morning officially announced the Pixel 10a via a video teaser emphasizing the updated de...",
-      "url": "http://9to5google.com/2026/02/04/pixel-10a-announcement/",
-      "publishedAt": "2026-02-04T17:10:00Z",
-      "processed_at": "2026-02-06T04:47:49.258146+00:00"
+      "processed_at": "2026-02-06T05:54:54.499479+00:00"
     }
   ],
-  "lastUpdated": "2026-02-06T04:47:49.258219+00:00",
+  "lastUpdated": "2026-02-06T05:54:54.499557+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
