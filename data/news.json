@@ -1,16 +1,56 @@
 {
   "status": "success",
-  "totalResults": 10,
+  "totalResults": 9,
   "articles": [
     {
-      "title": "Anthropic's newest AI model uncovered 500 zero-day software flaws in testing - Axios",
+      "title": "The Switch 2 is getting a new Virtual Console (kind of) - Ars Technica",
       "source": {
-        "name": "Axios"
+        "name": "Ars Technica"
       },
-      "description": "The AI company sees the model's advancements as a major win for cyber defenders in the race against ...",
-      "url": "https://www.axios.com/2026/02/05/anthropic-claude-opus-46-software-hunting",
-      "publishedAt": "2026-02-05T18:15:38Z",
-      "processed_at": "2026-02-06T23:27:51.685427+00:00"
+      "description": "Hamster Corp.'s new \"Console Archives\" does what Nintendon't....",
+      "url": "https://arstechnica.com/gaming/2026/02/the-virtual-console-is-sort-of-back-on-the-switch-2/",
+      "publishedAt": "2026-02-05T22:14:34Z",
+      "processed_at": "2026-02-07T02:08:53.116017+00:00"
+    },
+    {
+      "title": "Overwatch’s New Jetpack-Using Cat Hero Is An Agent Of Pure Chaos - Kotaku",
+      "source": {
+        "name": "Kotaku"
+      },
+      "description": "Jetpack Cat can tether onto allies and enemies and fly them around the battlefield...",
+      "url": "https://kotaku.com/overwatch-jetpack-cat-tether-bob-dva-ultimate-flight-2000666163",
+      "publishedAt": "2026-02-05T21:45:12Z",
+      "processed_at": "2026-02-07T02:08:53.116017+00:00"
+    },
+    {
+      "title": "Samsung killed Galaxy S26 upgrades to avoid a price hike – leaks say it didn’t work - 9to5Google",
+      "source": {
+        "name": "9to5google.com"
+      },
+      "description": "Samsung’s Galaxy S26 series was expected to deliver on a few key upgrades that were long overdue, bu...",
+      "url": "http://9to5google.com/2026/02/05/samsung-galaxy-s26-upgrades-price-hike/",
+      "publishedAt": "2026-02-05T20:05:00Z",
+      "processed_at": "2026-02-07T02:08:53.116017+00:00"
+    },
+    {
+      "title": "We tasked Opus 4.6 using agent teams to build a C Compiler - Hacker News",
+      "source": {
+        "name": "Hacker News"
+      },
+      "description": "",
+      "url": "https://news.ycombinator.com/item?id\\\\u003d46903616",
+      "publishedAt": "2026-02-05T19:26:29Z",
+      "processed_at": "2026-02-07T02:08:53.116017+00:00"
+    },
+    {
+      "title": "Oblivion, Skyrim And Fallout Switch 2 Physicals Will All Be Code-In-A-Box, Bethesda Confirms - Nintendo Life",
+      "source": {
+        "name": "Nintendo Life"
+      },
+      "description": "Indy whips up a proper physical instead...",
+      "url": "https://www.nintendolife.com/news/2026/02/oblivion-skyrim-and-fallout-switch-2-physicals-will-all-be-code-in-a-box-bethesda-confirms",
+      "publishedAt": "2026-02-05T18:15:00Z",
+      "processed_at": "2026-02-07T02:08:53.116017+00:00"
     },
     {
       "title": "Google hints at big AirDrop expansion for Android \"very soon\" - Ars Technica",
@@ -20,7 +60,7 @@
       "description": "AirDrop came to the Pixel 10 last year, and more Android phones will join the party in 2026....",
       "url": "https://arstechnica.com/gadgets/2026/02/google-hints-at-big-airdrop-expansion-for-android-very-soon/",
       "publishedAt": "2026-02-05T18:06:56Z",
-      "processed_at": "2026-02-06T23:27:51.685427+00:00"
+      "processed_at": "2026-02-07T02:08:53.116017+00:00"
     },
     {
       "title": "Snag the budget-friendly Nothing Ear (a) wireless earbuds for their lowest price yet - Mashable",
@@ -30,80 +70,30 @@
       "description": "Plus, get ChatGPT support for chats right in your ear....",
       "url": "https://mashable.com/article/feb-5-nothing-ear-a-wireless-earbuds-deal",
       "publishedAt": "2026-02-05T18:00:00Z",
-      "processed_at": "2026-02-06T23:27:51.685427+00:00"
+      "processed_at": "2026-02-07T02:08:53.116017+00:00"
     },
     {
-      "title": "Google Issues Android Update—40% Of All Phones Now At Risk - Forbes",
+      "title": "Claude Opus 4.6 - Hacker News",
       "source": {
-        "name": "Forbes"
+        "name": "Hacker News"
       },
-      "description": "More than a billion Android smartphone users must upgrade now....",
-      "url": "https://www.forbes.com/sites/zakdoffman/2026/02/05/google-confirms-40-of-all-android-phones-at-risk-from-new-attacks/",
-      "publishedAt": "2026-02-05T17:03:18Z",
-      "processed_at": "2026-02-06T23:27:51.685427+00:00"
+      "description": "",
+      "url": "https://news.ycombinator.com/item?id\\\\u003d46902223",
+      "publishedAt": "2026-02-05T17:49:07Z",
+      "processed_at": "2026-02-07T02:08:53.116017+00:00"
     },
     {
-      "title": "Preparing for your second Expedition - ARC Raiders",
+      "title": "Google Home struggles with buttons as IKEA confirms Matter connectivity issues - 9to5Google",
       "source": {
-        "name": "Arcraiders.com"
+        "name": "9to5google.com"
       },
-      "description": "ARC Raiders is a multiplayer extraction adventure, set in a lethal future earth, ravaged by a myster...",
-      "url": "https://arcraiders.com/news/second-expedition-rewards-and-requirements",
-      "publishedAt": "2026-02-05T17:02:39Z",
-      "processed_at": "2026-02-06T23:27:51.685427+00:00"
-    },
-    {
-      "title": "Square Enix Will 'Share More Updates Than Ever Before' on Final Fantasy 7 Remake Project This Year, Says Director - IGN",
-      "source": {
-        "name": "IGN"
-      },
-      "description": "Square Enix is planning to \"share more updates than ever before\" on its Final Fantasy 7 Remake proje...",
-      "url": "https://www.ign.com/articles/square-enix-will-share-more-updates-than-ever-before-on-final-fantasy-7-remake-project-this-year-says-director",
-      "publishedAt": "2026-02-05T16:28:47Z",
-      "processed_at": "2026-02-06T23:27:51.685427+00:00"
-    },
-    {
-      "title": "Latest Nintendo Direct: Partner Showcase features new and classic titles coming to Nintendo Switch 2 and Nintendo Switch - News - Nintendo",
-      "source": {
-        "name": "Nintendo.com"
-      },
-      "description": "The latest Nintendo Direct: Partner Showcase featured a mix of classic titles making enhanced or upd...",
-      "url": "https://www.nintendo.com/us/whatsnew/latest-nintendo-direct-partner-showcase-features-new-and-classic-titles-coming-to-nintendo-switch-2-and-nintendo-switch/",
-      "publishedAt": "2026-02-05T16:23:29Z",
-      "processed_at": "2026-02-06T23:27:51.685427+00:00"
-    },
-    {
-      "title": "Bethesda Games Coming to Nintendo Switch™ 2 - Bethesda.net",
-      "source": {
-        "name": "Bethesda.net"
-      },
-      "description": "Indiana Jones and the Great Circle™, Fallout 4: Anniversary Edition and The Elder Scrolls IV: Oblivi...",
-      "url": "https://bethesda.net/en/article/17ZQE6BiOoEfIFRJJTtfz2/bethesda-games-coming-to-nintendo-switch-2",
-      "publishedAt": "2026-02-05T16:18:45Z",
-      "processed_at": "2026-02-06T23:27:51.685427+00:00"
-    },
-    {
-      "title": "Resident Evil Requiem's Amiibo Get The Spotlight In A New Switch 2 Trailer - Nintendo Life",
-      "source": {
-        "name": "Nintendo Life"
-      },
-      "description": "They look... okay?...",
-      "url": "https://www.nintendolife.com/news/2026/02/resident-evil-requiems-amiibo-get-the-spotlight-in-a-new-switch-2-trailer",
-      "publishedAt": "2026-02-05T16:15:00Z",
-      "processed_at": "2026-02-06T23:27:51.685427+00:00"
-    },
-    {
-      "title": "Horizon Hunters Gathering is a three-player tactical co-op game that looks a bit like Dauntless (with a closed playtest coming soon) - Eurogamer",
-      "source": {
-        "name": "Eurogamer.net"
-      },
-      "description": "Guerrilla and PlayStation have lifted the lid on Horizon Hunters Gathering, a new co-op game set for...",
-      "url": "https://www.eurogamer.net/horizon-hunters-gathering-is-a-three-player-tactical-co-op-game-that-looks-a-bit-like-dauntless-with-a-closed-playtest-coming-soon",
-      "publishedAt": "2026-02-05T16:06:38Z",
-      "processed_at": "2026-02-06T23:27:51.685427+00:00"
+      "description": "IKEA’s smart home tech gets a lot of the basics – including price – right, but Matter connectivity i...",
+      "url": "http://9to5google.com/2026/02/05/google-home-struggles-with-buttons-as-ikea-confirms-matter-connectivity-issues/",
+      "publishedAt": "2026-02-05T17:05:00Z",
+      "processed_at": "2026-02-07T02:08:53.116017+00:00"
     }
   ],
-  "lastUpdated": "2026-02-06T23:27:51.685542+00:00",
+  "lastUpdated": "2026-02-07T02:08:53.116089+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
