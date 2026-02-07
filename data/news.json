@@ -1,7 +1,27 @@
 {
   "status": "success",
-  "totalResults": 9,
+  "totalResults": 10,
   "articles": [
+    {
+      "title": "Super Mario Galaxy + Super Mario Galaxy 2 1.3.1 update out now, patch notes - Nintendo Everything",
+      "source": {
+        "name": "Nintendoeverything.com"
+      },
+      "description": "Super Mario Galaxy + Super Mario Galaxy 2 have released a new version 1.3.1 update, and you can chec...",
+      "url": "https://nintendoeverything.com/super-mario-galaxy-super-mario-galaxy-2-1-3-1-update-out-now-patch-notes/",
+      "publishedAt": "2026-02-06T01:16:51Z",
+      "processed_at": "2026-02-07T04:38:48.960903+00:00"
+    },
+    {
+      "title": "New iPhone launching this month with four key changes: report - 9to5Mac",
+      "source": {
+        "name": "9to5Mac"
+      },
+      "description": "According to a new report today, Apple’s next iPhone is launching very soon. Macwelt reports that th...",
+      "url": "https://9to5mac.com/2026/02/05/new-iphone-launching-soon-with-four-new-features/",
+      "publishedAt": "2026-02-05T23:52:00Z",
+      "processed_at": "2026-02-07T04:38:48.960903+00:00"
+    },
     {
       "title": "The Switch 2 is getting a new Virtual Console (kind of) - Ars Technica",
       "source": {
@@ -10,27 +30,37 @@
       "description": "Hamster Corp.'s new \"Console Archives\" does what Nintendon't....",
       "url": "https://arstechnica.com/gaming/2026/02/the-virtual-console-is-sort-of-back-on-the-switch-2/",
       "publishedAt": "2026-02-05T22:14:34Z",
-      "processed_at": "2026-02-07T02:08:53.116017+00:00"
+      "processed_at": "2026-02-07T04:38:48.960903+00:00"
     },
     {
-      "title": "Overwatch’s New Jetpack-Using Cat Hero Is An Agent Of Pure Chaos - Kotaku",
+      "title": "SUPER BOMBERMAN COLLECTION - Nintendo Switch 2 Edition for Nintendo Switch 2 - Nintendo",
       "source": {
-        "name": "Kotaku"
+        "name": "Nintendo.com"
       },
-      "description": "Jetpack Cat can tether onto allies and enemies and fly them around the battlefield...",
-      "url": "https://kotaku.com/overwatch-jetpack-cat-tether-bob-dva-ultimate-flight-2000666163",
-      "publishedAt": "2026-02-05T21:45:12Z",
-      "processed_at": "2026-02-07T02:08:53.116017+00:00"
+      "description": "Buy SUPER BOMBERMAN COLLECTION - Nintendo Switch 2 Edition and shop other great Nintendo products on...",
+      "url": "https://www.nintendo.com/us/store/products/super-bomberman-collection-nintendo-switch-2-edition-switch-2/",
+      "publishedAt": "2026-02-05T21:40:50Z",
+      "processed_at": "2026-02-07T04:38:48.960903+00:00"
     },
     {
-      "title": "Samsung killed Galaxy S26 upgrades to avoid a price hike – leaks say it didn’t work - 9to5Google",
+      "title": "Tim Cook Teases Plans for Apple's Upcoming 50th Anniversary - MacRumors",
       "source": {
-        "name": "9to5google.com"
+        "name": "MacRumors"
       },
-      "description": "Samsung’s Galaxy S26 series was expected to deliver on a few key upgrades that were long overdue, bu...",
-      "url": "http://9to5google.com/2026/02/05/samsung-galaxy-s26-upgrades-price-hike/",
-      "publishedAt": "2026-02-05T20:05:00Z",
-      "processed_at": "2026-02-07T02:08:53.116017+00:00"
+      "description": "Apple turns 50 this year, and its CEO Tim Cook has promised to celebrate the milestone. The big day ...",
+      "url": "https://www.macrumors.com/2026/02/05/tim-cook-teases-apple-50th-anniversary/",
+      "publishedAt": "2026-02-05T20:54:35Z",
+      "processed_at": "2026-02-07T04:38:48.960903+00:00"
+    },
+    {
+      "title": "GO Battle League Now Awards Championship Points: Leaderboard Challenges Explained - Pokémon GO Hub",
+      "source": {
+        "name": "Pokemon GO Hub"
+      },
+      "description": "Scopely and The Pokémon Company have announced a major competitive expansion for Pokémon GO: Pokémon...",
+      "url": "https://pokemongohub.net/post/news/go-battle-league-leaderboard-challenges/",
+      "publishedAt": "2026-02-05T20:49:12Z",
+      "processed_at": "2026-02-07T04:38:48.960903+00:00"
     },
     {
       "title": "We tasked Opus 4.6 using agent teams to build a C Compiler - Hacker News",
@@ -40,7 +70,27 @@
       "description": "",
       "url": "https://news.ycombinator.com/item?id\\\\u003d46903616",
       "publishedAt": "2026-02-05T19:26:29Z",
-      "processed_at": "2026-02-07T02:08:53.116017+00:00"
+      "processed_at": "2026-02-07T04:38:48.960903+00:00"
+    },
+    {
+      "title": "Apple’s Cook Vows to Lobby Lawmakers on Immigration Issue - Bloomberg",
+      "source": {
+        "name": "Bloomberg"
+      },
+      "description": "Apple Inc. Chief Executive Officer Tim Cook told employees that he’s “deeply distraught” with the cu...",
+      "url": "https://www.bloomberg.com/news/articles/2026-02-05/apple-s-cook-vows-to-lobby-lawmakers-on-immigration-issue",
+      "publishedAt": "2026-02-05T19:19:59Z",
+      "processed_at": "2026-02-07T04:38:48.960903+00:00"
+    },
+    {
+      "title": "My AI Adoption Journey - Hacker News",
+      "source": {
+        "name": "Hacker News"
+      },
+      "description": "",
+      "url": "https://news.ycombinator.com/item?id\\\\u003d46903558",
+      "publishedAt": "2026-02-05T19:16:26Z",
+      "processed_at": "2026-02-07T04:38:48.960903+00:00"
     },
     {
       "title": "Oblivion, Skyrim And Fallout Switch 2 Physicals Will All Be Code-In-A-Box, Bethesda Confirms - Nintendo Life",
@@ -50,50 +100,10 @@
       "description": "Indy whips up a proper physical instead...",
       "url": "https://www.nintendolife.com/news/2026/02/oblivion-skyrim-and-fallout-switch-2-physicals-will-all-be-code-in-a-box-bethesda-confirms",
       "publishedAt": "2026-02-05T18:15:00Z",
-      "processed_at": "2026-02-07T02:08:53.116017+00:00"
-    },
-    {
-      "title": "Google hints at big AirDrop expansion for Android \"very soon\" - Ars Technica",
-      "source": {
-        "name": "Ars Technica"
-      },
-      "description": "AirDrop came to the Pixel 10 last year, and more Android phones will join the party in 2026....",
-      "url": "https://arstechnica.com/gadgets/2026/02/google-hints-at-big-airdrop-expansion-for-android-very-soon/",
-      "publishedAt": "2026-02-05T18:06:56Z",
-      "processed_at": "2026-02-07T02:08:53.116017+00:00"
-    },
-    {
-      "title": "Snag the budget-friendly Nothing Ear (a) wireless earbuds for their lowest price yet - Mashable",
-      "source": {
-        "name": "Mashable"
-      },
-      "description": "Plus, get ChatGPT support for chats right in your ear....",
-      "url": "https://mashable.com/article/feb-5-nothing-ear-a-wireless-earbuds-deal",
-      "publishedAt": "2026-02-05T18:00:00Z",
-      "processed_at": "2026-02-07T02:08:53.116017+00:00"
-    },
-    {
-      "title": "Claude Opus 4.6 - Hacker News",
-      "source": {
-        "name": "Hacker News"
-      },
-      "description": "",
-      "url": "https://news.ycombinator.com/item?id\\\\u003d46902223",
-      "publishedAt": "2026-02-05T17:49:07Z",
-      "processed_at": "2026-02-07T02:08:53.116017+00:00"
-    },
-    {
-      "title": "Google Home struggles with buttons as IKEA confirms Matter connectivity issues - 9to5Google",
-      "source": {
-        "name": "9to5google.com"
-      },
-      "description": "IKEA’s smart home tech gets a lot of the basics – including price – right, but Matter connectivity i...",
-      "url": "http://9to5google.com/2026/02/05/google-home-struggles-with-buttons-as-ikea-confirms-matter-connectivity-issues/",
-      "publishedAt": "2026-02-05T17:05:00Z",
-      "processed_at": "2026-02-07T02:08:53.116017+00:00"
+      "processed_at": "2026-02-07T04:38:48.960903+00:00"
     }
   ],
-  "lastUpdated": "2026-02-07T02:08:53.116089+00:00",
+  "lastUpdated": "2026-02-07T04:38:48.960982+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
