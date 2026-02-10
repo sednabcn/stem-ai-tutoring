@@ -3,6 +3,36 @@
   "totalResults": 10,
   "articles": [
     {
+      "title": "I tried a Claude Code rival that's local, open source, and completely free - how it went - ZDNET",
+      "source": {
+        "name": "ZDNet"
+      },
+      "description": "I was curious if Block's Goose agent, paired with Ollama and the Qwen3-coder model, could really rep...",
+      "url": "https://www.zdnet.com/article/claude-code-alternative-free-local-open-source-goose/",
+      "publishedAt": "2026-02-09T02:16:00Z",
+      "processed_at": "2026-02-10T05:05:16.969562+00:00"
+    },
+    {
+      "title": "4 Best Uses For Your Old Audio System - SlashGear",
+      "source": {
+        "name": "SlashGear"
+      },
+      "description": "You can repurpose an old audio system as a Bluetooth music setup, PC speaker upgrade, TV sound solut...",
+      "url": "https://www.slashgear.com/2094714/best-uses-for-old-audio-systems/",
+      "publishedAt": "2026-02-09T00:45:00Z",
+      "processed_at": "2026-02-10T05:05:16.969562+00:00"
+    },
+    {
+      "title": "New Final Fantasy Game Revealed (And It’s Releasing Later This Year) - ComicBook.com",
+      "source": {
+        "name": "ComicBook.com"
+      },
+      "description": "A New Final Fantasy Game Has Been Revealed, And It's Actually Releasing Later This Year...",
+      "url": "http://comicbook.com/gaming/news/new-final-fantasy-game-revealed-and-its-releasing-later-this-year/",
+      "publishedAt": "2026-02-09T00:19:33Z",
+      "processed_at": "2026-02-10T05:05:16.969562+00:00"
+    },
+    {
       "title": "These 11+ PS5, PS4 Games Are Coming Out This Week (9th-15th February) - Push Square",
       "source": {
         "name": "Push Square"
@@ -10,7 +40,7 @@
       "description": "Yakuza! Reanimal! High on Life 2!...",
       "url": "https://www.pushsquare.com/guides/these-11plus-ps5-ps4-games-are-coming-out-this-week-9th-15th-february",
       "publishedAt": "2026-02-09T00:04:50Z",
-      "processed_at": "2026-02-10T02:35:26.125013+00:00"
+      "processed_at": "2026-02-10T05:05:16.969562+00:00"
     },
     {
       "title": "Samsung Galaxy S26 Ultra Release Date Latest: What To Expect And When - Forbes",
@@ -20,7 +50,27 @@
       "description": "Samsung will launch the Galaxy S26 Ultra, Galaxy S26+ and Galaxy S26 later this month. When can you ...",
       "url": "https://www.forbes.com/sites/ewanspence/2026/02/08/samsung-galaxy-s26-ultra-launch-date-release-date-galaxy-unpacked-new-galaxy-s26/",
       "publishedAt": "2026-02-08T23:06:00Z",
-      "processed_at": "2026-02-10T02:35:26.125013+00:00"
+      "processed_at": "2026-02-10T05:05:16.969562+00:00"
+    },
+    {
+      "title": "YouTube Music starts putting lyrics behind a paywall - theverge.com",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "YouTube Music is putting lyrics behind a paywall, and free accounts are being prompted to “Unlock ly...",
+      "url": "https://www.theverge.com/streaming/875511/youtube-music-lyrics-paywall",
+      "publishedAt": "2026-02-08T22:55:43Z",
+      "processed_at": "2026-02-10T05:05:16.969562+00:00"
+    },
+    {
+      "title": "There's a simple way to watch Super Bowl 2026 FREE in *USA* - Tom's Guide",
+      "source": {
+        "name": "Tom's Guide"
+      },
+      "description": "Super Bowl replays are now available for free...",
+      "url": "https://www.tomsguide.com/entertainment/sports/theres-a-simple-way-to-watch-super-bowl-2026-for-free-in-usa",
+      "publishedAt": "2026-02-08T22:53:29Z",
+      "processed_at": "2026-02-10T05:05:16.969562+00:00"
     },
     {
       "title": "Linus Torvalds Confirms The Next Kernel Is Linux 7.0 - Phoronix",
@@ -30,7 +80,17 @@
       "description": "Following Linus Torvalds releasing Linux 6.19 stable, Linus Torvalds is now out with his customary r...",
       "url": "https://www.phoronix.com/news/Linux-7.0-Is-Next",
       "publishedAt": "2026-02-08T21:25:00Z",
-      "processed_at": "2026-02-10T02:35:26.125013+00:00"
+      "processed_at": "2026-02-10T05:05:16.969562+00:00"
+    },
+    {
+      "title": "5 Essential Costco Gadgets Every Remote Worker Should Try - bgr.com",
+      "source": {
+        "name": "BGR"
+      },
+      "description": "If you work remotely, here are some Costco gadgets -- like ANC headphones, air dusters, and more -- ...",
+      "url": "https://www.bgr.com/2093003/essential-remote-work-gadgets/",
+      "publishedAt": "2026-02-08T20:47:00Z",
+      "processed_at": "2026-02-10T05:05:16.969562+00:00"
     },
     {
       "title": "Intel preparing Z990 and Z970 chipsets for Nova Lake-S desktop CPUs - VideoCardz.com",
@@ -40,70 +100,10 @@
       "description": "Intel's new roadmap lists Z990 and Z970 chipsets for the next-gen LGA-1954 platform According to our...",
       "url": "https://videocardz.com/newz/intel-reportedly-preparing-z990-and-z970-chipsets-for-nova-lake-s-desktop-cpus",
       "publishedAt": "2026-02-08T20:45:00Z",
-      "processed_at": "2026-02-10T02:35:26.125013+00:00"
-    },
-    {
-      "title": "Intel Recently Shelved Numerous Open-Source Projects - Phoronix",
-      "source": {
-        "name": "Phoronix"
-      },
-      "description": "After discovering this morning that Intel archived/discontinued its On Demand 'SDSi' GitHub project ...",
-      "url": "https://www.phoronix.com/news/Intel-OSS-Projects-Ended-2025",
-      "publishedAt": "2026-02-08T19:06:00Z",
-      "processed_at": "2026-02-10T02:35:26.125013+00:00"
-    },
-    {
-      "title": "PlayStation handheld reportedly with 24GB memory, PS6 console with 30GB - VideoCardz.com",
-      "source": {
-        "name": "Videocardz.com"
-      },
-      "description": "Leaker KeplerL2 claims PS6 comes with 30GB memory, 24GB for handheld A new round rumors for next-gen...",
-      "url": "https://videocardz.com/newz/playstation-handheld-reportedly-with-24gb-memory-ps6-console-with-30gb",
-      "publishedAt": "2026-02-08T19:03:00Z",
-      "processed_at": "2026-02-10T02:35:26.125013+00:00"
-    },
-    {
-      "title": "14 Cool Tech Products That Solve Everyday Problems - SlashGear",
-      "source": {
-        "name": "SlashGear"
-      },
-      "description": "Technology's job is to make life easier, but it feels like we often forget about this truth. These g...",
-      "url": "https://www.slashgear.com/2090861/cool-tech-products-solve-everyday-problems/",
-      "publishedAt": "2026-02-08T18:30:00Z",
-      "processed_at": "2026-02-10T02:35:26.125013+00:00"
-    },
-    {
-      "title": "Xbox Game Pass Could See More Changes, New Report Claims - Insider Gaming",
-      "source": {
-        "name": "Insider-gaming.com"
-      },
-      "description": "A new report suggests Microsoft may be planning further changes to Xbox Game Pass. However, these ar...",
-      "url": "https://insider-gaming.com/xbox-game-pass-could-see-more-changes-new-report-claims/",
-      "publishedAt": "2026-02-08T18:17:52Z",
-      "processed_at": "2026-02-10T02:35:26.125013+00:00"
-    },
-    {
-      "title": "Sunday Preview – Huron Blackheart sets sail from the Maelstrom - Warhammer Community",
-      "source": {
-        "name": "Warhammer-community.com"
-      },
-      "description": "What’s coming up next week?...",
-      "url": "https://www.warhammer-community.com/articles/lke65sad/sunday-preview-huron-blackheart-sets-sail-from-the-maelstrom",
-      "publishedAt": "2026-02-08T18:02:13Z",
-      "processed_at": "2026-02-10T02:35:26.125013+00:00"
-    },
-    {
-      "title": "Rayman creator reveals more details on what to expect from the Rayman remake that Ubisoft still won't admit is real - Eurogamer",
-      "source": {
-        "name": "Eurogamer.net"
-      },
-      "description": "The creator of the Rayman series has once again teased that a remake of the original Rayman game is ...",
-      "url": "https://www.eurogamer.net/rayman-creator-reveals-more-details-on-what-to-expect-from-the-rayman-remake-that-ubisoft-still-wont-admit-is-real",
-      "publishedAt": "2026-02-08T17:40:55Z",
-      "processed_at": "2026-02-10T02:35:26.125013+00:00"
+      "processed_at": "2026-02-10T05:05:16.969562+00:00"
     }
   ],
-  "lastUpdated": "2026-02-10T02:35:26.125084+00:00",
+  "lastUpdated": "2026-02-10T05:05:16.969627+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
