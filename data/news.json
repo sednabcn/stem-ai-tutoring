@@ -1,7 +1,47 @@
 {
   "status": "success",
-  "totalResults": 10,
+  "totalResults": 9,
   "articles": [
+    {
+      "title": "Monster Hunter Wilds large-scale expansion in development; version 1.041 update launches February 18 - Gematsu",
+      "source": {
+        "name": "Gematsu"
+      },
+      "description": "A large-scale expansion for Monster Hunter Wilds is in development, and the game’s version 1.041 upd...",
+      "url": "https://www.gematsu.com/2026/02/monster-hunter-wilds-large-scale-expansion-in-development-version-1-041-update-launches-february-18",
+      "publishedAt": "2026-02-10T01:21:56Z",
+      "processed_at": "2026-02-11T05:04:11.655424+00:00"
+    },
+    {
+      "title": "New video game sees Africans fantasise about taking back looted treasures - BBC",
+      "source": {
+        "name": "BBC News"
+      },
+      "description": "Imagine it is 2099 and a historic treaty to return African artefacts is falling apart....",
+      "url": "https://www.bbc.com/news/articles/clyg4lgm1d2o",
+      "publishedAt": "2026-02-10T00:47:00Z",
+      "processed_at": "2026-02-11T05:04:11.655424+00:00"
+    },
+    {
+      "title": "Apex Legends Season 28 patch notes: Legend changes, destructible walls, Ranked changes - Dexerto",
+      "source": {
+        "name": "Dexerto"
+      },
+      "description": "Apex Legends Season 28 comes with a new destructible environment mechanic, major legend updates, ran...",
+      "url": "https://www.dexerto.com/apex-legends/apex-legends-season-28-patch-notes-3313418/",
+      "publishedAt": "2026-02-10T00:35:08Z",
+      "processed_at": "2026-02-11T05:04:11.655424+00:00"
+    },
+    {
+      "title": "Sony's PS5 Fighter Marvel Tokon Confirms 20 Characters at Launch, Single Player 'Episode' Mode - Push Square",
+      "source": {
+        "name": "Push Square"
+      },
+      "description": "12 to be revealed...",
+      "url": "https://www.pushsquare.com/news/2026/02/sonys-ps5-fighter-marvel-tokon-confirms-20-characters-at-launch-single-player-episode-mode",
+      "publishedAt": "2026-02-09T23:00:00Z",
+      "processed_at": "2026-02-11T05:04:11.655424+00:00"
+    },
     {
       "title": "Just look at Ayaneo's absolute unit of a Windows gaming \"handheld\" - Ars Technica",
       "source": {
@@ -10,7 +50,7 @@
       "description": "The Ayaneo Next II pushes past 3 pounds, 13 inches wide, and costs up to $4,300....",
       "url": "https://arstechnica.com/gaming/2026/02/just-look-at-ayaneos-absolute-unit-of-a-windows-gaming-handheld/",
       "publishedAt": "2026-02-09T22:51:16Z",
-      "processed_at": "2026-02-11T02:32:58.289315+00:00"
+      "processed_at": "2026-02-11T05:04:11.655424+00:00"
     },
     {
       "title": "Mewgenics Review - IGN",
@@ -20,90 +60,40 @@
       "description": "Mewgenics is a fantastic tactical RPG that's good for more than a hundred hours of roguelike runs. J...",
       "url": "https://www.ign.com/articles/mewgenics-review",
       "publishedAt": "2026-02-09T22:04:50Z",
-      "processed_at": "2026-02-11T02:32:58.289315+00:00"
+      "processed_at": "2026-02-11T05:04:11.655424+00:00"
     },
     {
-      "title": "Four Spark Plugs, Eight Pistons, One Stroke: How The INNengine E-REX Promises To Be Different - Jalopnik",
+      "title": "Anthropic AI Safety Researcher Warns Of World ‘In Peril’ In Resignation - Forbes",
       "source": {
-        "name": "Jalopnik"
+        "name": "Forbes"
       },
-      "description": "The INNengine e-Rex is described as a one-stroke engine, though it actually has two strokes. But it'...",
-      "url": "https://www.jalopnik.com/2092352/four-spark-plugs-eight-pistons-one-stroke-innengine/",
-      "publishedAt": "2026-02-09T21:25:00Z",
-      "processed_at": "2026-02-11T02:32:58.289315+00:00"
+      "description": "Mrinank Sharma, who led the safeguards research team at Anthropic, shared his resignation letter on ...",
+      "url": "https://www.forbes.com/sites/conormurray/2026/02/09/anthropic-ai-safety-researcher-warns-of-world-in-peril-in-resignation/",
+      "publishedAt": "2026-02-09T22:01:01Z",
+      "processed_at": "2026-02-11T05:04:11.655424+00:00"
     },
     {
-      "title": "No humans allowed: This new space-based MMO is designed exclusively for AI agents - Ars Technica",
+      "title": "Samsung almost confirms when it's unveiling the Galaxy S26 family - GSMArena.com news - GSMArena.com",
       "source": {
-        "name": "Ars Technica"
+        "name": "GSMArena.com"
       },
-      "description": "SpaceMolt envisions a world where AI plays with itself and the humans just watch....",
-      "url": "https://arstechnica.com/ai/2026/02/after-moltbook-ai-agents-can-now-hang-out-in-their-own-space-faring-mmo/",
-      "publishedAt": "2026-02-09T21:09:42Z",
-      "processed_at": "2026-02-11T02:32:58.289315+00:00"
+      "description": "February 25 seems like a given at this point. Samsung has long been rumored to be unveiling the Gala...",
+      "url": "https://www.gsmarena.com/samsung_almost_confirms_when_its_unveiling_the_galaxy_s26_family-news-71476.php",
+      "publishedAt": "2026-02-09T21:57:01Z",
+      "processed_at": "2026-02-11T05:04:11.655424+00:00"
     },
     {
-      "title": "Apple’s new ‘MacBook’ is coming: Here’s every rumored feature - 9to5Mac",
+      "title": "Tim Russ And Robert Duncan McNeill To Reprise Their ‘Star Trek: Voyager’ Roles In ‘Across The Unknown’ Game - TrekMovie.com",
       "source": {
-        "name": "9to5Mac"
+        "name": "TrekMovie"
       },
-      "description": "Apple is rumored to have a brand new ‘MacBook’ launching soon—a Mac laptop with no Air or Pro suffix...",
-      "url": "https://9to5mac.com/2026/02/09/apples-new-macbook-is-coming-heres-every-rumored-feature/",
-      "publishedAt": "2026-02-09T20:29:00Z",
-      "processed_at": "2026-02-11T02:32:58.289315+00:00"
-    },
-    {
-      "title": "Trading Card Games Are Booming, So Here’s Why Blizzard Isn’t Making Hearthstone Cards (Yet) - Kotaku",
-      "source": {
-        "name": "Kotaku"
-      },
-      "description": "The Warcraft card game has only been available digitally since it launched in 2014...",
-      "url": "https://kotaku.com/hearthstone-real-cards-tcg-blizzard-magic-pokemon-2000666974",
-      "publishedAt": "2026-02-09T20:03:18Z",
-      "processed_at": "2026-02-11T02:32:58.289315+00:00"
-    },
-    {
-      "title": "Riot Games lays off roughly 80 employees from 2XKO team - Game Developer",
-      "source": {
-        "name": "Gamedeveloper.com"
-      },
-      "description": "Riot Games has laid off approximately half of the employees working on its League of Legends-themed ...",
-      "url": "https://www.gamedeveloper.com/business/riot-games-lays-off-roughly-80-employees-from-2xko-team",
-      "publishedAt": "2026-02-09T20:00:07Z",
-      "processed_at": "2026-02-11T02:32:58.289315+00:00"
-    },
-    {
-      "title": "Remedy appoints former EA VP Jean-Charles Gaudechon as new CEO - GamesIndustry.biz",
-      "source": {
-        "name": "GamesIndustry.biz"
-      },
-      "description": "Alan Wake developer Remedy Entertainment has appointed former EA executive Jean-Charles \"JC\" Gaudech...",
-      "url": "https://www.gamesindustry.biz/remedy-appoints-former-ea-vp-jean-charles-gaudechon-as-new-ceo",
-      "publishedAt": "2026-02-09T19:48:12Z",
-      "processed_at": "2026-02-11T02:32:58.289315+00:00"
-    },
-    {
-      "title": "You have to read this Valve job rejection for a high school teen - Polygon",
-      "source": {
-        "name": "Polygon"
-      },
-      "description": "In 2015, one intrepid teen tried to see if the people behind Steam might take a chance on his career...",
-      "url": "https://www.polygon.com/valve-job-rejection-letter-high-school-steam-career/",
-      "publishedAt": "2026-02-09T19:30:54Z",
-      "processed_at": "2026-02-11T02:32:58.289315+00:00"
-    },
-    {
-      "title": "Aqua Computer Ampinel device protecting 12V-2x6 GPUs launches at €100 - VideoCardz.com",
-      "source": {
-        "name": "Videocardz.com"
-      },
-      "description": "Aqua Computer's €100 Ampinel arrives for 12V-2×6 GPUs after November 2025 slip Aqua Computer's Ampin...",
-      "url": "https://videocardz.com/newz/aqua-computer-ampinel-device-protecting-12v-2x6-gpus-launches-at-e100",
-      "publishedAt": "2026-02-09T19:14:00Z",
-      "processed_at": "2026-02-11T02:32:58.289315+00:00"
+      "description": "Jerry Goldsmith's score will also be featured in the game....",
+      "url": "https://trekmovie.com/2026/02/09/tim-russ-and-robert-duncan-mcneill-to-reprise-their-star-trek-voyager-roles-in-across-the-unknown-game/",
+      "publishedAt": "2026-02-09T21:44:40Z",
+      "processed_at": "2026-02-11T05:04:11.655424+00:00"
     }
   ],
-  "lastUpdated": "2026-02-11T02:32:58.289390+00:00",
+  "lastUpdated": "2026-02-11T05:04:11.655502+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
