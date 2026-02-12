@@ -1,89 +1,109 @@
 {
   "status": "success",
-  "totalResults": 8,
+  "totalResults": 10,
   "articles": [
     {
-      "title": "Apple releases iOS 26.3 for iPhone, here’s what’s new - 9to5Mac",
+      "title": "Rain Annihilation in Reign of the Warlock — Diablo II: Resurrected - Blizzard News",
       "source": {
-        "name": "9to5Mac"
+        "name": "Blizzard.com"
       },
-      "description": "There’s a new software update available for iPhone. Apple has released iOS 26.3, the third big updat...",
-      "url": "https://9to5mac.com/2026/02/11/apple-releases-ios-26-3-for-iphone-heres-whats-new/",
-      "publishedAt": "2026-02-11T18:07:00Z",
-      "processed_at": "2026-02-12T22:34:36.608877+00:00"
+      "description": "Play the newest class in Diablo: II Resurrected. Fight your way through Terror Zones, face Colossal ...",
+      "url": "https://news.blizzard.com/en-us/article/24243863/rain-annihilation-in-reign-of-the-warlock",
+      "publishedAt": "2026-02-11T23:00:00Z",
+      "processed_at": "2026-02-12T23:31:34.015130+00:00"
     },
     {
-      "title": "Celebrating the 2025 Xbox Excellence Awards - Xbox Wire",
+      "title": "Rules of mysterious ancient board game decoded by AI, scientists say - CBS News",
       "source": {
-        "name": "Xbox.com"
+        "name": "CBS News"
       },
-      "description": "Join us in celebrating the year’s most outstanding games and the teams behind them with the 2025 Xbo...",
-      "url": "https://news.xbox.com/en-us/2026/02/11/xbox-excellence-awards-2025/",
-      "publishedAt": "2026-02-11T16:02:18Z",
-      "processed_at": "2026-02-12T22:34:36.608877+00:00"
+      "description": "The aim of the \"deceptively simple but thrilling strategy game\" was to hunt and trap the opponent's ...",
+      "url": "https://www.cbsnews.com/news/mysterious-ancient-board-game-rules-decoded-ai-scientists/",
+      "publishedAt": "2026-02-11T20:57:34Z",
+      "processed_at": "2026-02-12T23:31:34.015130+00:00"
     },
     {
-      "title": "Review: Reanimal (Switch 2) - Little Nightmares Team Delivers Its Darkest, Boldest Vision Yet - Nintendo Life",
+      "title": "Microsoft says hackers are exploiting critical zero-day bugs to target Windows and Office users - TechCrunch",
       "source": {
-        "name": "Nintendo Life"
+        "name": "TechCrunch"
       },
-      "description": "Not your average farm sim...",
-      "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/reanimal",
-      "publishedAt": "2026-02-11T16:00:00Z",
-      "processed_at": "2026-02-12T22:34:36.608877+00:00"
+      "description": "Critical security flaws targeting Windows and Office users allow hackers to take complete control of...",
+      "url": "https://techcrunch.com/2026/02/11/microsoft-says-hackers-are-exploiting-critical-zero-day-bugs-to-target-windows-and-office-users/",
+      "publishedAt": "2026-02-11T20:46:40Z",
+      "processed_at": "2026-02-12T23:31:34.015130+00:00"
     },
     {
-      "title": "No Man's Sky kicks off its tenth anniversary year with customisable trucks, hauling, and... gravity guns! - Eurogamer",
+      "title": "Is Therian Enamorus Worth Raiding in Pokémon GO? Full Meta Breakdown - Pokémon GO Hub",
       "source": {
-        "name": "Eurogamer.net"
+        "name": "Pokemon GO Hub"
       },
-      "description": "No Man's Sky introduces trucks, gravity guns, and more in its new Remnant update....",
-      "url": "https://www.eurogamer.net/no-mans-sky-customisable-trucks-hauling-and-gravity-guns",
-      "publishedAt": "2026-02-11T14:00:00Z",
-      "processed_at": "2026-02-12T22:34:36.608877+00:00"
+      "description": "We are in that time of the year when hearts are made (or break), soulmates meet (or leave). We are i...",
+      "url": "https://pokemongohub.net/post/meta/is-therian-enamorus-worth-raiding-in-pokemon-go-full-meta-breakdown/",
+      "publishedAt": "2026-02-11T20:43:46Z",
+      "processed_at": "2026-02-12T23:31:34.015130+00:00"
     },
     {
-      "title": "Mewgenics is a breakout hit on Steam: it sold 150,000 copies in six hours, and it's already made its development costs - Eurogamer",
+      "title": "Microsoft Is Considering A Big Game Pass Change - Report - GameSpot",
       "source": {
-        "name": "Eurogamer.net"
+        "name": "GameSpot"
       },
-      "description": "Mewgenics, the latest release by Edmund Mcmillan and Tyler Glail, has recouped its development costs...",
-      "url": "https://www.eurogamer.net/mewgenics-is-a-breakout-hit-on-steam-it-sold-150000-copies-in-six-hours-and-its-already-made-its-development-costs",
-      "publishedAt": "2026-02-11T11:29:05Z",
-      "processed_at": "2026-02-12T22:34:36.608877+00:00"
+      "description": "Microsoft may, or may not, be planning a big change to Game Pass in the future....",
+      "url": "https://www.gamespot.com/articles/microsoft-is-considering-a-big-game-pass-change-report/1100-6538116/",
+      "publishedAt": "2026-02-11T20:11:20Z",
+      "processed_at": "2026-02-12T23:31:34.015130+00:00"
     },
     {
-      "title": "Directive 8020 gets Xbox release date and awesome new feature for achievement hunters - TrueAchievements",
+      "title": "Apple releases iOS 26.3 with updates that mainly benefit non-Apple devices - Ars Technica",
       "source": {
-        "name": "TrueAchievements"
+        "name": "Ars Technica"
       },
-      "description": "Supermassive Games has finally given us a release date for Directive 8020, and the studio revealed a...",
-      "url": "https://www.trueachievements.com/news/directive-8020-release-date",
-      "publishedAt": "2026-02-11T11:28:07Z",
-      "processed_at": "2026-02-12T22:34:36.608877+00:00"
+      "description": "It's getting a little easier to move from iOS to Android, if that's your thing....",
+      "url": "https://arstechnica.com/gadgets/2026/02/apple-releases-ios-26-3-with-updates-that-mainly-benefit-non-apple-devices/",
+      "publishedAt": "2026-02-11T19:49:13Z",
+      "processed_at": "2026-02-12T23:31:34.015130+00:00"
     },
     {
-      "title": "PlayStation Plus Quietly Drops Free New-Gen Upgrade For GOTY Winner - GAMINGbible",
+      "title": "Overwatch's new \"story-driven era\" launch doubles release day concurrent record on Steam | News-in-Brief - GamesIndustry.biz",
       "source": {
-        "name": "Gamingbible.com"
+        "name": "GamesIndustry.biz"
       },
-      "description": "",
-      "url": "https://www.gamingbible.com/news/platform/playstation/playstation-plus-free-new-gen-upgrade-goty-winner-253985-20260211",
-      "publishedAt": "2026-02-11T11:00:00Z",
-      "processed_at": "2026-02-12T22:34:36.608877+00:00"
+      "description": "The resource for people who make and sell games....",
+      "url": "https://www.gamesindustry.biz/overwatchs-new-story-driven-era-launch-doubles-release-day-concurrent-record-on-steam-news-in-brief",
+      "publishedAt": "2026-02-11T19:18:46Z",
+      "processed_at": "2026-02-12T23:31:34.015130+00:00"
     },
     {
-      "title": "Players surge back to Overwatch with the new expansion, as it leapfrogs Marvel Rivals on Steam and dominates Twitch - Eurogamer",
+      "title": "Google cancels today’s Android 17 Beta 1 release - 9to5Google",
       "source": {
-        "name": "Eurogamer.net"
+        "name": "9to5google.com"
       },
-      "description": "The comeback is on, but for how long?...",
-      "url": "https://www.eurogamer.net/overwatch-expansion-brings-players-surging-back",
-      "publishedAt": "2026-02-11T10:52:32Z",
-      "processed_at": "2026-02-12T22:34:36.608877+00:00"
+      "description": "Android 17 Beta 1 was supposed to launch today, but Google has since pulled the release....",
+      "url": "http://9to5google.com/2026/02/11/android-17-beta-1-cancel/",
+      "publishedAt": "2026-02-11T19:14:00Z",
+      "processed_at": "2026-02-12T23:31:34.015130+00:00"
+    },
+    {
+      "title": "New Steam Hit Made Back Its Entire 7 Year Budget In Just 3 Hours - Kotaku",
+      "source": {
+        "name": "Kotaku"
+      },
+      "description": "Also: who's ready to watch a live-action remake of Frozen inside Fortnite?...",
+      "url": "https://kotaku.com/mewgenics-steam-best-seller-strategy-roguelike-2000667706",
+      "publishedAt": "2026-02-11T17:30:04Z",
+      "processed_at": "2026-02-12T23:31:34.015130+00:00"
+    },
+    {
+      "title": "Get the Excellent Sonos Arc Soundbar with Dolby Atmos for Half the Price of an Arc Ultra - IGN",
+      "source": {
+        "name": "IGN"
+      },
+      "description": "Certified refurbished from Sonos direct with the same warranty as buying new....",
+      "url": "https://www.ign.com/articles/sonos-arc-soundbar-deal-sonos-presidents-day-sale",
+      "publishedAt": "2026-02-11T16:45:59Z",
+      "processed_at": "2026-02-12T23:31:34.015130+00:00"
     }
   ],
-  "lastUpdated": "2026-02-12T22:34:36.608953+00:00",
+  "lastUpdated": "2026-02-12T23:31:34.015201+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
