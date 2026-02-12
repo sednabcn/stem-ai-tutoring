@@ -1,7 +1,27 @@
 {
   "status": "success",
-  "totalResults": 10,
+  "totalResults": 8,
   "articles": [
+    {
+      "title": "Apple releases iOS 26.3 for iPhone, here’s what’s new - 9to5Mac",
+      "source": {
+        "name": "9to5Mac"
+      },
+      "description": "There’s a new software update available for iPhone. Apple has released iOS 26.3, the third big updat...",
+      "url": "https://9to5mac.com/2026/02/11/apple-releases-ios-26-3-for-iphone-heres-whats-new/",
+      "publishedAt": "2026-02-11T18:07:00Z",
+      "processed_at": "2026-02-12T21:35:10.842514+00:00"
+    },
+    {
+      "title": "Celebrating the 2025 Xbox Excellence Awards - Xbox Wire",
+      "source": {
+        "name": "Xbox.com"
+      },
+      "description": "Join us in celebrating the year’s most outstanding games and the teams behind them with the 2025 Xbo...",
+      "url": "https://news.xbox.com/en-us/2026/02/11/xbox-excellence-awards-2025/",
+      "publishedAt": "2026-02-11T16:02:18Z",
+      "processed_at": "2026-02-12T21:35:10.842514+00:00"
+    },
     {
       "title": "Review: Reanimal (Switch 2) - Little Nightmares Team Delivers Its Darkest, Boldest Vision Yet - Nintendo Life",
       "source": {
@@ -10,27 +30,17 @@
       "description": "Not your average farm sim...",
       "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/reanimal",
       "publishedAt": "2026-02-11T16:00:00Z",
-      "processed_at": "2026-02-12T20:37:20.751604+00:00"
+      "processed_at": "2026-02-12T21:35:10.842514+00:00"
     },
     {
-      "title": "Preview: Despite Low Expectations, Pokémon Pokopia Had Me Grinning From Ear To Ear - Nintendo Life",
+      "title": "No Man's Sky kicks off its tenth anniversary year with customisable trucks, hauling, and... gravity guns! - Eurogamer",
       "source": {
-        "name": "Nintendo Life"
+        "name": "Eurogamer.net"
       },
-      "description": "Cut above...",
-      "url": "https://www.nintendolife.com/previews/despite-low-expectations-pokemon-pokopia-had-me-grinning-from-ear-to-ear",
+      "description": "No Man's Sky introduces trucks, gravity guns, and more in its new Remnant update....",
+      "url": "https://www.eurogamer.net/no-mans-sky-customisable-trucks-hauling-and-gravity-guns",
       "publishedAt": "2026-02-11T14:00:00Z",
-      "processed_at": "2026-02-12T20:37:20.751604+00:00"
-    },
-    {
-      "title": "Notepad's new Markdown powers served with a side of remote code execution - theregister.com",
-      "source": {
-        "name": "Theregister.com"
-      },
-      "description": ": Smug faces across all those who opposed the WordPad-ification of Microsoft's humble text editor...",
-      "url": "https://www.theregister.com/2026/02/11/notepad_rce_flaw/",
-      "publishedAt": "2026-02-11T11:31:00Z",
-      "processed_at": "2026-02-12T20:37:20.751604+00:00"
+      "processed_at": "2026-02-12T21:35:10.842514+00:00"
     },
     {
       "title": "Mewgenics is a breakout hit on Steam: it sold 150,000 copies in six hours, and it's already made its development costs - Eurogamer",
@@ -40,7 +50,7 @@
       "description": "Mewgenics, the latest release by Edmund Mcmillan and Tyler Glail, has recouped its development costs...",
       "url": "https://www.eurogamer.net/mewgenics-is-a-breakout-hit-on-steam-it-sold-150000-copies-in-six-hours-and-its-already-made-its-development-costs",
       "publishedAt": "2026-02-11T11:29:05Z",
-      "processed_at": "2026-02-12T20:37:20.751604+00:00"
+      "processed_at": "2026-02-12T21:35:10.842514+00:00"
     },
     {
       "title": "Directive 8020 gets Xbox release date and awesome new feature for achievement hunters - TrueAchievements",
@@ -50,7 +60,17 @@
       "description": "Supermassive Games has finally given us a release date for Directive 8020, and the studio revealed a...",
       "url": "https://www.trueachievements.com/news/directive-8020-release-date",
       "publishedAt": "2026-02-11T11:28:07Z",
-      "processed_at": "2026-02-12T20:37:20.751604+00:00"
+      "processed_at": "2026-02-12T21:35:10.842514+00:00"
+    },
+    {
+      "title": "PlayStation Plus Quietly Drops Free New-Gen Upgrade For GOTY Winner - GAMINGbible",
+      "source": {
+        "name": "Gamingbible.com"
+      },
+      "description": "",
+      "url": "https://www.gamingbible.com/news/platform/playstation/playstation-plus-free-new-gen-upgrade-goty-winner-253985-20260211",
+      "publishedAt": "2026-02-11T11:00:00Z",
+      "processed_at": "2026-02-12T21:35:10.842514+00:00"
     },
     {
       "title": "Players surge back to Overwatch with the new expansion, as it leapfrogs Marvel Rivals on Steam and dominates Twitch - Eurogamer",
@@ -60,50 +80,10 @@
       "description": "The comeback is on, but for how long?...",
       "url": "https://www.eurogamer.net/overwatch-expansion-brings-players-surging-back",
       "publishedAt": "2026-02-11T10:52:32Z",
-      "processed_at": "2026-02-12T20:37:20.751604+00:00"
-    },
-    {
-      "title": "Microsoft Patches 59 Vulnerabilities Including Six Actively Exploited Zero-Days - The Hacker News",
-      "source": {
-        "name": "Internet"
-      },
-      "description": "Microsoft patches 59 vulnerabilities, including six actively exploited zero-days, with CISA mandatin...",
-      "url": "https://thehackernews.com/2026/02/microsoft-patches-59-vulnerabilities.html",
-      "publishedAt": "2026-02-11T10:22:00Z",
-      "processed_at": "2026-02-12T20:37:20.751604+00:00"
-    },
-    {
-      "title": "TikTok is tracking you, even if you don't use the app. Here's how to stop it - BBC",
-      "source": {
-        "name": "BBC News"
-      },
-      "description": "TikTok is growing its data harvesting empire, and avoiding the app won’t protect you – but some easy...",
-      "url": "https://www.bbc.com/future/article/20260210-tiktok-is-tracking-you-even-if-you-dont-use-the-app-heres-how-to-stop-it",
-      "publishedAt": "2026-02-11T10:00:00Z",
-      "processed_at": "2026-02-12T20:37:20.751604+00:00"
-    },
-    {
-      "title": "Sorry, but don't expect to see Wolverine at tomorrow's PlayStation State of Play - Eurogamer",
-      "source": {
-        "name": "Eurogamer.net"
-      },
-      "description": "It seems that Insomniac's Wolverine won't be appearing during this week's PlayStation State of Play....",
-      "url": "https://www.eurogamer.net/sorry-but-dont-expect-to-see-wolverine-at-tomorrows-playstation-state-of-play",
-      "publishedAt": "2026-02-11T09:48:26Z",
-      "processed_at": "2026-02-12T20:37:20.751604+00:00"
-    },
-    {
-      "title": "Samsung to hold its Galaxy S26 event on February 25 - TechCrunch",
-      "source": {
-        "name": "TechCrunch"
-      },
-      "description": "Samsung is going to launch S26 lineup just before Mobile World Congress (MWC)....",
-      "url": "https://techcrunch.com/2026/02/10/samsung-to-hold-its-galaxy-s26-event-on-february-25/",
-      "publishedAt": "2026-02-11T07:06:44Z",
-      "processed_at": "2026-02-12T20:37:20.751604+00:00"
+      "processed_at": "2026-02-12T21:35:10.842514+00:00"
     }
   ],
-  "lastUpdated": "2026-02-12T20:37:20.751677+00:00",
+  "lastUpdated": "2026-02-12T21:35:10.842588+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
