@@ -1,16 +1,66 @@
 {
   "status": "success",
-  "totalResults": 9,
+  "totalResults": 10,
   "articles": [
     {
-      "title": "Four Apple products could be discontinued imminently - 9to5Mac",
+      "title": "PS5 State of Play February 2026 live updates — last-minute leaks and rumors, and how to watch - Tom's Guide",
+      "source": {
+        "name": "Tom's Guide"
+      },
+      "description": "State of Play returns for 2026, and it’s going to be a big one...",
+      "url": "https://www.tomsguide.com/news/live/ps5-state-of-play-february-2026-live-updates",
+      "publishedAt": "2026-02-12T18:20:05Z",
+      "processed_at": "2026-02-13T19:43:03.753573+00:00"
+    },
+    {
+      "title": "YouTube launches native app for Apple Vision Pro - 9to5Mac",
       "source": {
         "name": "9to5Mac"
       },
-      "description": "Apple has four products showing signs of being discontinued imminently, with supply drying up at the...",
-      "url": "https://9to5mac.com/2026/02/12/four-apple-products-could-be-discontinued-imminently/",
-      "publishedAt": "2026-02-12T15:33:00Z",
-      "processed_at": "2026-02-13T18:53:34.250546+00:00"
+      "description": "YouTube was one of the biggest apps missing from the Vision Pro platform at launch in February 2024....",
+      "url": "https://9to5mac.com/2026/02/12/youtube-launches-native-app-for-apple-vision-pro/",
+      "publishedAt": "2026-02-12T17:00:00Z",
+      "processed_at": "2026-02-13T19:43:03.753573+00:00"
+    },
+    {
+      "title": "Oblivion Remastered Aims High On Switch 2 - But Fallout 4 Falls Behind PS4 - Digital Foundry",
+      "source": {
+        "name": "Digitalfoundry.net"
+      },
+      "description": "",
+      "url": "https://www.digitalfoundry.net/news/2026/02/oblivion-remastered-aims-high-on-switch-2-but-fallout-4-falls-behind-ps4",
+      "publishedAt": "2026-02-12T16:57:00Z",
+      "processed_at": "2026-02-13T19:43:03.753573+00:00"
+    },
+    {
+      "title": "Sony WF-1000XM6 arrive with updated sound tuning, stronger ANC - GSMArena.com news - GSMArena.com",
+      "source": {
+        "name": "GSMArena.com"
+      },
+      "description": "Sony claims its latest flagship earbuds offer 25% more effective noise reduction compared to their p...",
+      "url": "https://www.gsmarena.com/sony_wf1000xm6_arrive_with_updated_sound_tuning_stronger_anc_-news-71532.php",
+      "publishedAt": "2026-02-12T16:24:02Z",
+      "processed_at": "2026-02-13T19:43:03.753573+00:00"
+    },
+    {
+      "title": "Hopes Fade For Early 2026 Apple Siri Release. Apple Stock Drops. - Investor's Business Daily",
+      "source": {
+        "name": "Investor's Business Daily"
+      },
+      "description": "Apple stock fell on reports that the company will delay the release of its AI-powered Siri until May...",
+      "url": "https://www.investors.com/news/technology/apple-stock-aapl-siri-release-delayed-again/",
+      "publishedAt": "2026-02-12T16:22:00Z",
+      "processed_at": "2026-02-13T19:43:03.753573+00:00"
+    },
+    {
+      "title": "High On Life 2′ s Intro Is One Of The Best Video Game Openings Ever - Kotaku",
+      "source": {
+        "name": "Kotaku"
+      },
+      "description": "More games should include fast-paced montages at the start and stop wasting my time...",
+      "url": "https://kotaku.com/high-on-life-2-intro-start-epstein-files-fps-sci-fi-montage-2000668195",
+      "publishedAt": "2026-02-12T15:56:43Z",
+      "processed_at": "2026-02-13T19:43:03.753573+00:00"
     },
     {
       "title": "Full Galaxy S26 series leaks in official-looking images showing off new colors [Gallery] - 9to5Google",
@@ -20,17 +70,7 @@
       "description": "The Galaxy S26 leaks just don’t stop, with the latest batch of images giving us our best look at the...",
       "url": "http://9to5google.com/2026/02/12/samsung-galaxy-s26-colors-image-leaks/",
       "publishedAt": "2026-02-12T14:15:00Z",
-      "processed_at": "2026-02-13T18:53:34.250546+00:00"
-    },
-    {
-      "title": "Samsung Display brands five-layer QD-OLED “Penta Tandem” for monitor panels up to 1,300 nits - VideoCardz.com",
-      "source": {
-        "name": "Videocardz.com"
-      },
-      "description": "QD-OLED Penta Tandem, Samsung Display brands five-layer organic light-emitting structure Samsung Dis...",
-      "url": "https://videocardz.com/newz/samsung-display-brands-five-layer-qd-oled-penta-tandem-for-monitor-panels-up-to-1300-nits",
-      "publishedAt": "2026-02-12T11:21:00Z",
-      "processed_at": "2026-02-13T18:53:34.250546+00:00"
+      "processed_at": "2026-02-13T19:43:03.753573+00:00"
     },
     {
       "title": "Edmund McMillen on assembling Mewgenics' meow cameo list: \"the inclusion of people with clashing ideologies felt appropriate\" - Rock Paper Shotgun",
@@ -40,7 +80,7 @@
       "description": "We spoke to Mewgenics co-developer Edmund McMillen about putting together the game's list of interne...",
       "url": "https://www.rockpapershotgun.com/edmund-mcmillen-on-assembling-mewgenics-meow-cameo-list-the-inclusion-of-people-with-clashing-ideologies-felt-appropriate",
       "publishedAt": "2026-02-12T11:18:21Z",
-      "processed_at": "2026-02-13T18:53:34.250546+00:00"
+      "processed_at": "2026-02-13T19:43:03.753573+00:00"
     },
     {
       "title": "Three Games Are Available Today With Xbox Game Pass, Including An ActiBlizz Surprise (February 12) - Pure Xbox",
@@ -50,7 +90,7 @@
       "description": "The Premium & Ultimate libraries expand!...",
       "url": "https://www.purexbox.com/news/2026/02/three-games-are-available-today-with-xbox-game-pass-including-an-actiblizz-surprise-february-12",
       "publishedAt": "2026-02-12T10:00:00Z",
-      "processed_at": "2026-02-13T18:53:34.250546+00:00"
+      "processed_at": "2026-02-13T19:43:03.753573+00:00"
     },
     {
       "title": "Google says attackers used 100,000+ prompts to try to clone AI chatbot Gemini - NBC News",
@@ -60,40 +100,10 @@
       "description": "Google says its flagship AI chatbot, Gemini, has been inundated by “commercially motivated” actors w...",
       "url": "https://www.nbcnews.com/tech/security/google-gemini-hit-100000-prompts-cloning-attempt-rcna258657",
       "publishedAt": "2026-02-12T07:00:00Z",
-      "processed_at": "2026-02-13T18:53:34.250546+00:00"
-    },
-    {
-      "title": "Round Up: The Previews Are In For Pokémon Pokopia - Nintendo Life",
-      "source": {
-        "name": "Nintendo Life"
-      },
-      "description": "\"Pokopia was a huge surprise\"...",
-      "url": "https://www.nintendolife.com/news/2026/02/round-up-the-previews-are-in-for-pokemon-pokopia",
-      "publishedAt": "2026-02-12T05:25:00Z",
-      "processed_at": "2026-02-13T18:53:34.250546+00:00"
-    },
-    {
-      "title": "Mario Tennis Fever 1.0.1 update out now, patch notes - Nintendo Everything",
-      "source": {
-        "name": "Nintendoeverything.com"
-      },
-      "description": "Mario Tennis Fever goes live with version 1.0.1 day one update and you can check out the patch notes...",
-      "url": "https://nintendoeverything.com/mario-tennis-fever-1-0-1-update-out-now-patch-notes/",
-      "publishedAt": "2026-02-12T01:12:26Z",
-      "processed_at": "2026-02-13T18:53:34.250546+00:00"
-    },
-    {
-      "title": "NASA Completes First Flight of Laminar Flow Scaled Wing Design - NASA (.gov)",
-      "source": {
-        "name": "NASA"
-      },
-      "description": "NASA completed the first flight test of a scale-model wing designed to improve laminar flow, reducin...",
-      "url": "https://www.nasa.gov/image-article/nasa-completes-first-flight-of-laminar-flow-scaled-wing-design/",
-      "publishedAt": "2026-02-12T00:22:23Z",
-      "processed_at": "2026-02-13T18:53:34.250546+00:00"
+      "processed_at": "2026-02-13T19:43:03.753573+00:00"
     }
   ],
-  "lastUpdated": "2026-02-13T18:53:34.250625+00:00",
+  "lastUpdated": "2026-02-13T19:43:03.753653+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
