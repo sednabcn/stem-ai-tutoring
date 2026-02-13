@@ -1,7 +1,27 @@
 {
   "status": "success",
-  "totalResults": 10,
+  "totalResults": 9,
   "articles": [
+    {
+      "title": "Samsung Display brands five-layer QD-OLED “Penta Tandem” for monitor panels up to 1,300 nits - VideoCardz.com",
+      "source": {
+        "name": "Videocardz.com"
+      },
+      "description": "QD-OLED Penta Tandem, Samsung Display brands five-layer organic light-emitting structure Samsung Dis...",
+      "url": "https://videocardz.com/newz/samsung-display-brands-five-layer-qd-oled-penta-tandem-for-monitor-panels-up-to-1300-nits",
+      "publishedAt": "2026-02-12T11:21:00Z",
+      "processed_at": "2026-02-13T15:43:08.899368+00:00"
+    },
+    {
+      "title": "Edmund McMillen on assembling Mewgenics' meow cameo list: \"the inclusion of people with clashing ideologies felt appropriate\" - Rock Paper Shotgun",
+      "source": {
+        "name": "Rock Paper Shotgun"
+      },
+      "description": "We spoke to Mewgenics co-developer Edmund McMillen about putting together the game's list of interne...",
+      "url": "https://www.rockpapershotgun.com/edmund-mcmillen-on-assembling-mewgenics-meow-cameo-list-the-inclusion-of-people-with-clashing-ideologies-felt-appropriate",
+      "publishedAt": "2026-02-12T11:18:21Z",
+      "processed_at": "2026-02-13T15:43:08.899368+00:00"
+    },
     {
       "title": "Google says attackers used 100,000+ prompts to try to clone AI chatbot Gemini - NBC News",
       "source": {
@@ -10,67 +30,47 @@
       "description": "Google says its flagship AI chatbot, Gemini, has been inundated by “commercially motivated” actors w...",
       "url": "https://www.nbcnews.com/tech/security/google-gemini-hit-100000-prompts-cloning-attempt-rcna258657",
       "publishedAt": "2026-02-12T07:00:00Z",
-      "processed_at": "2026-02-13T14:41:39.114542+00:00"
+      "processed_at": "2026-02-13T15:43:08.899368+00:00"
     },
     {
-      "title": "Samsung Display Intros “QD-OLED Penta-Tandem” Premium Technology Brand - Wccftech",
+      "title": "Round Up: The Previews Are In For Pokémon Pokopia - Nintendo Life",
       "source": {
-        "name": "Wccftech"
+        "name": "Nintendo Life"
       },
-      "description": "Samsung announced its new QD-OLED Penta-Tandem premium technology brand for its proprietary five-lay...",
-      "url": "https://wccftech.com/samsung-display-qd-oled-penta-tandem-premium-technology-brand/",
-      "publishedAt": "2026-02-12T06:05:00Z",
-      "processed_at": "2026-02-13T14:41:39.114542+00:00"
+      "description": "\"Pokopia was a huge surprise\"...",
+      "url": "https://www.nintendolife.com/news/2026/02/round-up-the-previews-are-in-for-pokemon-pokopia",
+      "publishedAt": "2026-02-12T05:25:00Z",
+      "processed_at": "2026-02-13T15:43:08.899368+00:00"
     },
     {
-      "title": "Mario Tennis Fever 1.0.1 update out now, patch notes - Nintendo Everything",
+      "title": "Mario Tennis Fever Takes To The Court With A Small Day One Game Update - Nintendo Life",
       "source": {
-        "name": "Nintendoeverything.com"
+        "name": "Nintendo Life"
       },
-      "description": "",
-      "url": "https://nintendoeverything.com/mario-tennis-fever-1-0-1-update-out-now-patch-notes/",
-      "publishedAt": "2026-02-12T01:12:26Z",
-      "processed_at": "2026-02-13T14:41:39.114542+00:00"
+      "description": "Version 1.0.1 is required to play online...",
+      "url": "https://www.nintendolife.com/news/2026/02/mario-tennis-fever-takes-to-the-court-with-a-small-day-one-game-update",
+      "publishedAt": "2026-02-12T01:30:00Z",
+      "processed_at": "2026-02-13T15:43:08.899368+00:00"
     },
     {
-      "title": "Highguard’s developer reportedly lays off ‘most’ of its staff just over two weeks after launch - The Verge",
+      "title": "Pixel VPN by Google update adds status to Quick Settings Tile - 9to5Google",
       "source": {
-        "name": "The Verge"
+        "name": "9to5google.com"
       },
-      "description": "Highguard developer Wildlight Entertainment has laid off “most of the team,” according to a former s...",
-      "url": "https://www.theverge.com/games/877674/highguard-wildlight-entertainment-layoffs",
-      "publishedAt": "2026-02-12T00:30:00Z",
-      "processed_at": "2026-02-13T14:41:39.114542+00:00"
+      "description": "A small update to the Pixel VPN by Google lets you more easily check connection status from the Quic...",
+      "url": "http://9to5google.com/2026/02/11/pixel-vpn-quick-settings-update/",
+      "publishedAt": "2026-02-11T23:09:00Z",
+      "processed_at": "2026-02-13T15:43:08.899368+00:00"
     },
     {
-      "title": "Blizzard Is Bringing The Warlock Class To Diablo IV: Lord Of Hatred, Diablo II, And Diablo Immortal - Game Informer",
+      "title": "‘Diablo 2’ Gets First Major Update in 25 Years With ‘Reign of the Warlock’ Starring Rahul Kohli - Variety",
       "source": {
-        "name": "Gameinformer.com"
+        "name": "Variety"
       },
-      "description": "You can play as the Warlock in Diablo II starting today as part of the new Reign of the Warlock DLC....",
-      "url": "https://gameinformer.com/2026/02/11/blizzard-is-bringing-the-warlock-class-to-diablo-iv-lord-of-hatred-diablo-ii-and-diablo",
-      "publishedAt": "2026-02-11T22:59:07Z",
-      "processed_at": "2026-02-13T14:41:39.114542+00:00"
-    },
-    {
-      "title": "Dangerous new spyware can take full control of iPhone and Android devices - TechSpot",
-      "source": {
-        "name": "TechSpot"
-      },
-      "description": "Security firm iVerify says it has uncovered a new spyware platform dubbed ZeroDayRAT, a tool designe...",
-      "url": "https://www.techspot.com/news/111293-dangerous-new-spyware-can-take-full-control-iphone.html",
-      "publishedAt": "2026-02-11T22:46:00Z",
-      "processed_at": "2026-02-13T14:41:39.114542+00:00"
-    },
-    {
-      "title": "Apple’s Siri revamp reportedly delayed… again - TechCrunch",
-      "source": {
-        "name": "TechCrunch"
-      },
-      "description": "While the new Siri was expected to launch with the upcoming iOS 26.4 update in March, now, the chang...",
-      "url": "https://techcrunch.com/2026/02/11/apples-siri-revamp-reportedly-delayed-again/",
-      "publishedAt": "2026-02-11T21:19:46Z",
-      "processed_at": "2026-02-13T14:41:39.114542+00:00"
+      "description": "Big news for \"Diablo II\" fans: the Blizzard Entertainment game is getting its first major update in ...",
+      "url": "https://variety.com/2026/gaming/news/diablo-2-update-reign-of-the-warlock-launches-1236659535/",
+      "publishedAt": "2026-02-11T23:00:00Z",
+      "processed_at": "2026-02-13T15:43:08.899368+00:00"
     },
     {
       "title": "Apple Stock Eyes Breakout As This Unseen Engine Unlocks Agentic AI - Investor's Business Daily",
@@ -80,7 +80,7 @@
       "description": "Joining fellow Mag 7 member Alphabet on the Breakout Stocks Index, Apple stock takes aim at two buy ...",
       "url": "https://www.investors.com/research/breakout-stocks-technical-analysis/apple-stock-near-breakout-xcode-agentic-ai-anthropic-claude-openai-codex/",
       "publishedAt": "2026-02-11T21:00:00Z",
-      "processed_at": "2026-02-13T14:41:39.114542+00:00"
+      "processed_at": "2026-02-13T15:43:08.899368+00:00"
     },
     {
       "title": "Rules of mysterious ancient board game decoded by AI, scientists say - CBS News",
@@ -90,20 +90,10 @@
       "description": "The aim of the \"deceptively simple but thrilling strategy game\" was to hunt and trap the opponent's ...",
       "url": "https://www.cbsnews.com/news/mysterious-ancient-board-game-rules-decoded-ai-scientists/",
       "publishedAt": "2026-02-11T20:57:34Z",
-      "processed_at": "2026-02-13T14:41:39.114542+00:00"
-    },
-    {
-      "title": "Microsoft says hackers are exploiting critical zero-day bugs to target Windows and Office users - TechCrunch",
-      "source": {
-        "name": "TechCrunch"
-      },
-      "description": "Critical security flaws targeting Windows and Office users allow hackers to take complete control of...",
-      "url": "https://techcrunch.com/2026/02/11/microsoft-says-hackers-are-exploiting-critical-zero-day-bugs-to-target-windows-and-office-users/",
-      "publishedAt": "2026-02-11T20:46:40Z",
-      "processed_at": "2026-02-13T14:41:39.114542+00:00"
+      "processed_at": "2026-02-13T15:43:08.899368+00:00"
     }
   ],
-  "lastUpdated": "2026-02-13T14:41:39.114620+00:00",
+  "lastUpdated": "2026-02-13T15:43:08.899445+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
