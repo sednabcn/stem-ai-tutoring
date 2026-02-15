@@ -1,6 +1,6 @@
 {
   "status": "success",
-  "totalResults": 9,
+  "totalResults": 10,
   "articles": [
     {
       "title": "Samsung Confirms Galaxy S26 Ultra Unpacked: How To Claim Your $900 Discount - Forbes",
@@ -10,7 +10,7 @@
       "description": "The date and time of the next Galaxy Unpacked have been confirmed by Samsung with details of how to ...",
       "url": "https://www.forbes.com/sites/davidphelan/2026/02/14/galaxy-s26-ultra-release-date-samsung-confirms-event-and-pre-order-perks/",
       "publishedAt": "2026-02-14T12:11:00Z",
-      "processed_at": "2026-02-15T14:29:29.058291+00:00"
+      "processed_at": "2026-02-15T15:27:32.347149+00:00"
     },
     {
       "title": "ChatGPT promised to help her find her soulmate. Then it betrayed her - NPR",
@@ -20,7 +20,7 @@
       "description": "ChatGPT sent screenwriter Micky Small down a fantastical rabbit hole. Now, she's finding her way out...",
       "url": "https://www.npr.org/2026/02/14/nx-s1-5711441/ai-chatgpt-openai-love-betrayal-delusion-chatbot",
       "publishedAt": "2026-02-14T10:00:00Z",
-      "processed_at": "2026-02-15T14:29:29.058291+00:00"
+      "processed_at": "2026-02-15T15:27:32.347149+00:00"
     },
     {
       "title": "The DJI Romo robovac had security so poor, this man remotely accessed thousands of them - The Verge",
@@ -30,7 +30,7 @@
       "description": "A man discovered that thousands of DJI Romo robot vacuums had a security issue that could have let s...",
       "url": "https://www.theverge.com/tech/879088/dji-romo-hack-vulnerability-remote-control-camera-access-mqtt",
       "publishedAt": "2026-02-14T08:00:00Z",
-      "processed_at": "2026-02-15T14:29:29.058291+00:00"
+      "processed_at": "2026-02-15T15:27:32.347149+00:00"
     },
     {
       "title": "Reanimal Review - IGN",
@@ -40,7 +40,7 @@
       "description": "The creator of Little Nightmares returns with more of the dark puzzle platforming it has honed over ...",
       "url": "https://www.ign.com/articles/reanimal-review",
       "publishedAt": "2026-02-14T00:26:00Z",
-      "processed_at": "2026-02-15T14:29:29.058291+00:00"
+      "processed_at": "2026-02-15T15:27:32.347149+00:00"
     },
     {
       "title": "There's Confusion Over God of War Sons of Sparta Having Co-Op, Based on Its PlayStation Store Description - IGN",
@@ -50,7 +50,17 @@
       "description": "God of War Sons of Sparta is a side-scrolling spin-off listed as having 1-2 player support. The only...",
       "url": "https://www.ign.com/articles/theres-confusion-over-god-of-war-sons-of-sparta-having-co-op-based-on-its-playstation-store-description",
       "publishedAt": "2026-02-14T00:01:00Z",
-      "processed_at": "2026-02-15T14:29:29.058291+00:00"
+      "processed_at": "2026-02-15T15:27:32.347149+00:00"
+    },
+    {
+      "title": "How to install the Android 17 Beta on Google Pixel - 9to5Google",
+      "source": {
+        "name": "9to5google.com"
+      },
+      "description": "Google has released Android 17 in beta for Pixel devices, skipping the usual Developer Preview given...",
+      "url": "http://9to5google.com/2026/02/13/how-to-install-the-android-17-beta-on-google-pixel/",
+      "publishedAt": "2026-02-13T23:05:00Z",
+      "processed_at": "2026-02-15T15:27:32.347149+00:00"
     },
     {
       "title": "Simulation showing what it would look like to go around Earth at the speed of light is absolutely wild - supercarblondie.com",
@@ -60,40 +70,40 @@
       "description": "This simulation showed how long it would take to circle the Earth at the speed of light, and it'll l...",
       "url": "https://supercarblondie.com/simulation-around-earth-speed-of-light/",
       "publishedAt": "2026-02-13T22:48:00Z",
-      "processed_at": "2026-02-15T14:29:29.058291+00:00"
+      "processed_at": "2026-02-15T15:27:32.347149+00:00"
     },
     {
-      "title": "The first Android 17 beta is now available on Pixel devices - Ars Technica",
+      "title": "Metal Gear Solid: Master Collection Vol. 2 Won't Have MGS4's Metal Gear Online - IGN",
       "source": {
-        "name": "Ars Technica"
+        "name": "IGN"
       },
-      "description": "Don't expect big changes yet....",
-      "url": "https://arstechnica.com/gadgets/2026/02/the-first-android-17-beta-is-now-available-on-pixel-devices/",
-      "publishedAt": "2026-02-13T20:58:25Z",
-      "processed_at": "2026-02-15T14:29:29.058291+00:00"
+      "description": "Metal Gear Solid: Master Collection Vol. 2 will not include the version of Metal Gear Online feature...",
+      "url": "https://www.ign.com/articles/konami-confirms-metal-gear-solid-master-collection-vol-2-wont-have-mgs4s-metal-gear-online-but-peace-walker-multiplayer-will-return",
+      "publishedAt": "2026-02-13T22:20:31Z",
+      "processed_at": "2026-02-15T15:27:32.347149+00:00"
     },
     {
-      "title": "Review: High on Life 2 reignites the Unreal Engine 5 image quality/performance debate - Digital Foundry",
+      "title": "Akali and Senna revealed as next champions for 2XKO as Director discusses future of the game - EventHubs",
       "source": {
-        "name": "Digitalfoundry.net"
+        "name": "Google News"
       },
-      "description": "But a clever, fun game shouldn't be overlooked....",
-      "url": "https://www.digitalfoundry.net/reviews/high-on-life-2-reignites-the-unreal-engine-5-image-qualityperformance-debate",
-      "publishedAt": "2026-02-13T18:12:15Z",
-      "processed_at": "2026-02-15T14:29:29.058291+00:00"
+      "description": "",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5MbTBTMlJVbWJveDRhbUdnSWhfTmJuSGwzN0dYT1FMaWV4RGQ2WkNjS2VSMGpJV3pabXJPckRwODVpd3cyVlRMcGRiUWxoY0MzX1JBbE4zMFYtWXJ6eEd0RVAxazJ4RWd0QjZxS0xnc0FPLWt5Q3hOWlhR?oc=5",
+      "publishedAt": "2026-02-13T21:09:08Z",
+      "processed_at": "2026-02-15T15:27:32.347149+00:00"
     },
     {
-      "title": "Stern Pinball’s New Pokémon Pinball Machine Is Available Now - Pokemon.com",
+      "title": "High On Life 2 Review - Contact High - Game Informer",
       "source": {
-        "name": "Pokemon.com"
+        "name": "Gameinformer.com"
       },
-      "description": "The noted pinball creator has just released a new table that lets players catch and battle Pokémon a...",
-      "url": "https://www.pokemon.com/us/pokemon-news/stern-pinballs-new-pokemon-pinball-machine-is-available-now",
-      "publishedAt": "2026-02-13T17:05:45Z",
-      "processed_at": "2026-02-15T14:29:29.058291+00:00"
+      "description": "High on Life 2 is the kind of game that you can put on, laugh at for a while, and forget what's trou...",
+      "url": "https://gameinformer.com/review/high-on-life-2/contact-high",
+      "publishedAt": "2026-02-13T19:49:10Z",
+      "processed_at": "2026-02-15T15:27:32.347149+00:00"
     }
   ],
-  "lastUpdated": "2026-02-15T14:29:29.058361+00:00",
+  "lastUpdated": "2026-02-15T15:27:32.347218+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
