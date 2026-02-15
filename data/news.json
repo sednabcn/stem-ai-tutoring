@@ -3,14 +3,24 @@
   "totalResults": 10,
   "articles": [
     {
-      "title": "Google is now rolling out Android 17 Beta 1 for Pixel [U] - 9to5Google",
+      "title": "Reanimal Review - IGN",
       "source": {
-        "name": "9to5google.com"
+        "name": "IGN"
       },
-      "description": "",
-      "url": "http://9to5google.com/2026/02/13/android-17-beta-1-pixel/",
-      "publishedAt": "2026-02-13T19:21:00Z",
-      "processed_at": "2026-02-14T23:26:42.052435+00:00"
+      "description": "The creator of Little Nightmares returns with more of the dark puzzle platforming it has honed over ...",
+      "url": "https://www.ign.com/articles/reanimal-review",
+      "publishedAt": "2026-02-14T00:26:00Z",
+      "processed_at": "2026-02-15T02:29:18.619466+00:00"
+    },
+    {
+      "title": "The first Android 17 beta is now available on Pixel devices - Ars Technica",
+      "source": {
+        "name": "Ars Technica"
+      },
+      "description": "Don't expect big changes yet....",
+      "url": "https://arstechnica.com/gadgets/2026/02/the-first-android-17-beta-is-now-available-on-pixel-devices/",
+      "publishedAt": "2026-02-13T20:58:25Z",
+      "processed_at": "2026-02-15T02:29:18.619466+00:00"
     },
     {
       "title": "The Galaxy S26 Ultra Is Almost Here: Samsung Confirms Unpacked Date And Pre-Order Perks - Forbes",
@@ -20,17 +30,17 @@
       "description": "The date and time of the next Galaxy Unpacked have been confirmed by Samsung with details of how to ...",
       "url": "https://www.forbes.com/sites/davidphelan/2026/02/13/galaxy-s26-ultra-release-date-samsung-confirms-event-and-pre-order-perks/",
       "publishedAt": "2026-02-13T18:32:10Z",
-      "processed_at": "2026-02-14T23:26:42.052435+00:00"
+      "processed_at": "2026-02-15T02:29:18.619466+00:00"
     },
     {
-      "title": "Here's the first glimpse of a One UI 9.0 Galaxy AI feature! - SamMobile",
+      "title": "Samsung’s ‘Wide Fold’ surfaces with near-16:10 aspect ratio, wider than first Pixel Fold - 9to5Google",
       "source": {
-        "name": "SamMobile"
+        "name": "9to5google.com"
       },
-      "description": "It's been several weeks since Samsung launched the One UI 8.5 beta for the Galaxy S25 series. The be...",
-      "url": "https://www.sammobile.com/news/samsung-one-ui-9-galaxy-ai-now-nudge/",
-      "publishedAt": "2026-02-13T17:06:00Z",
-      "processed_at": "2026-02-14T23:26:42.052435+00:00"
+      "description": "Well, that didn’t take long. After word of an early build of One UI 9 for Samsung’s upcoming foldabl...",
+      "url": "http://9to5google.com/2026/02/13/samsung-wide-foldable-surfaces-aspect-ratio-mockups-pixel-fold/",
+      "publishedAt": "2026-02-13T17:57:00Z",
+      "processed_at": "2026-02-15T02:29:18.619466+00:00"
     },
     {
       "title": "Stern Pinball’s New Pokémon Pinball Machine Is Available Now - Pokemon.com",
@@ -40,27 +50,37 @@
       "description": "The noted pinball creator has just released a new table that lets players catch and battle Pokémon a...",
       "url": "https://www.pokemon.com/us/pokemon-news/stern-pinballs-new-pokemon-pinball-machine-is-available-now",
       "publishedAt": "2026-02-13T17:05:45Z",
-      "processed_at": "2026-02-14T23:26:42.052435+00:00"
+      "processed_at": "2026-02-15T02:29:18.619466+00:00"
     },
     {
-      "title": "Exclusive: First official look at Samsung's 'Wide' Galaxy Z Fold - Android Authority",
+      "title": "There’s a tiny digital camera inside these retro 35mm film rolls - The Verge",
       "source": {
-        "name": "Android Authority"
+        "name": "The Verge"
       },
-      "description": "Samsung's first One UI 9 builds surfaced this week, and they're revealing our first official look at...",
-      "url": "https://www.androidauthority.com/wide-galaxy-fold-images-3640828/",
-      "publishedAt": "2026-02-13T15:55:10Z",
-      "processed_at": "2026-02-14T23:26:42.052435+00:00"
+      "description": "﻿Like the Kodak Charmera, the OPT100 Neo Film camera makes up for terrible specs with an adorable de...",
+      "url": "https://www.theverge.com/tech/878701/opt100-neo-film-35mm-digital-camera-japan",
+      "publishedAt": "2026-02-13T14:39:36Z",
+      "processed_at": "2026-02-15T02:29:18.619466+00:00"
     },
     {
-      "title": "Steam beta lets users attach PC specs to game reviews - VideoCardz.com",
+      "title": "iOS 26.3—Update Now Warning Issued To All iPhone Users - Forbes",
       "source": {
-        "name": "Videocardz.com"
+        "name": "Forbes"
       },
-      "description": "Steam introduces hardware specs attachment for reviews, plus opt-in FPS data Steam is rolling out a ...",
-      "url": "https://videocardz.com/newz/steam-beta-lets-users-attach-pc-specs-to-game-reviews",
-      "publishedAt": "2026-02-13T14:16:00Z",
-      "processed_at": "2026-02-14T23:26:42.052435+00:00"
+      "description": "Apple has released iOS 26.3 fixing 39 security flaws — one of which is already being used in real-li...",
+      "url": "https://www.forbes.com/sites/kateoflahertyuk/2026/02/13/ios-263-update-now-warning-issued-to-all-iphone-users/",
+      "publishedAt": "2026-02-13T14:14:40Z",
+      "processed_at": "2026-02-15T02:29:18.619466+00:00"
+    },
+    {
+      "title": "CISA flags critical Microsoft SCCM flaw as exploited in attacks - BleepingComputer",
+      "source": {
+        "name": "BleepingComputer"
+      },
+      "description": "CISA ordered federal agencies on Thursday to secure their systems against a critical Microsoft Confi...",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-flags-microsoft-configmgr-rce-flaw-as-exploited-in-attacks/",
+      "publishedAt": "2026-02-13T12:35:09Z",
+      "processed_at": "2026-02-15T02:29:18.619466+00:00"
     },
     {
       "title": "Silent Hill: Townfall Not Coming To Xbox At Launch, Along With A Few Other State Of Play Titles - Pure Xbox",
@@ -70,40 +90,20 @@
       "description": "Konami is only saying PS5, Steam and Epic right now...",
       "url": "https://www.purexbox.com/news/2026/02/silent-hill-townfall-not-coming-to-xbox-at-launch-along-with-a-few-other-state-of-play-titles",
       "publishedAt": "2026-02-13T12:00:00Z",
-      "processed_at": "2026-02-14T23:26:42.052435+00:00"
+      "processed_at": "2026-02-15T02:29:18.619466+00:00"
     },
     {
-      "title": "\"We were turned into a joke from minute one\" - fired Highguard developer reflects on game's ill-fated launch and \"false assumptions\" after Game Awards reveal - Eurogamer",
+      "title": "Inside the New York City Date Night for AI Lovers - WIRED",
       "source": {
-        "name": "Eurogamer.net"
+        "name": "Wired"
       },
-      "description": "A former Wildlight developer has shared their thoughts on Highguard's release after its announcement...",
-      "url": "https://www.eurogamer.net/we-were-turned-into-a-joke-from-minute-one-fired-highguard-developer-reflects-on-games-ill-fated-launch-and-false-assumptions-after-game-awards-reveal",
-      "publishedAt": "2026-02-13T11:28:36Z",
-      "processed_at": "2026-02-14T23:26:42.052435+00:00"
-    },
-    {
-      "title": "PlayStation UK gamers can lease a PS5 Digital Edition from £9.95 per month - VideoCardz.com",
-      "source": {
-        "name": "Videocardz.com"
-      },
-      "description": "PlayStation UK is promoting the Flex leasing offer again Gamers who can't afford a gaming console, o...",
-      "url": "https://videocardz.com/newz/playstation-uk-gamers-can-lease-a-ps5-digital-edition-from-9-95-per-month",
-      "publishedAt": "2026-02-13T10:29:00Z",
-      "processed_at": "2026-02-14T23:26:42.052435+00:00"
-    },
-    {
-      "title": "Google quietly fixed a big annoyance with Android's Driving Mode - Android Authority",
-      "source": {
-        "name": "Android Authority"
-      },
-      "description": "Google is quietly fixing an annoyance with Android that would result in automatic DND misfiring via ...",
-      "url": "https://www.androidauthority.com/android-driving-mode-annoyance-fix-3640721/",
-      "publishedAt": "2026-02-13T10:10:07Z",
-      "processed_at": "2026-02-14T23:26:42.052435+00:00"
+      "description": "EVA AI created a pop-up romantic date night at a Manhattan wine bar to help making AI-human relation...",
+      "url": "https://www.wired.com/story/inside-the-new-york-city-date-night-for-ai-lovers/",
+      "publishedAt": "2026-02-13T11:30:00Z",
+      "processed_at": "2026-02-15T02:29:18.619466+00:00"
     }
   ],
-  "lastUpdated": "2026-02-14T23:26:42.052510+00:00",
+  "lastUpdated": "2026-02-15T02:29:18.619541+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
