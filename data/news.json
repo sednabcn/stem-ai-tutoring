@@ -1,7 +1,47 @@
 {
   "status": "success",
-  "totalResults": 9,
+  "totalResults": 10,
   "articles": [
+    {
+      "title": "3D pixel art top-down action mystery game GUN NOSE announced for PC - Gematsu",
+      "source": {
+        "name": "Gematsu"
+      },
+      "description": "Pixel artist and independent game developer Addy Valentine has announced GUN NOSE, a 3D pixel art to...",
+      "url": "https://www.gematsu.com/2026/02/3d-pixel-art-top-down-action-mystery-game-gun-nose-announced-for-pc",
+      "publishedAt": "2026-02-15T16:10:10Z",
+      "processed_at": "2026-02-16T15:41:48.495270+00:00"
+    },
+    {
+      "title": "A controversial dating app uses credit scores to create matches - Mashable",
+      "source": {
+        "name": "Mashable"
+      },
+      "description": "Would you feel comfortable giving a dating app your credit score?...",
+      "url": "https://mashable.com/article/score-dating-app-uses-credit-scores-to-create-matches",
+      "publishedAt": "2026-02-15T14:35:56Z",
+      "processed_at": "2026-02-16T15:41:48.495270+00:00"
+    },
+    {
+      "title": "More Modes and Features for Death Stranding 2 Announced, Coming to PS5 Next Month - Push Square",
+      "source": {
+        "name": "Push Square"
+      },
+      "description": "Out on same day as PC version...",
+      "url": "https://www.pushsquare.com/news/2026/02/more-modes-and-features-for-death-stranding-2-announced-coming-to-ps5-next-month",
+      "publishedAt": "2026-02-15T13:00:00Z",
+      "processed_at": "2026-02-16T15:41:48.495270+00:00"
+    },
+    {
+      "title": "Save $100 on Apple Watch Series 11, plus 28 other Apple Presidents Day deals - CNN",
+      "source": {
+        "name": "CNN"
+      },
+      "description": "Apple products like AirPods, iPads and MacBooks are on sale with these Presidents Day weekend deals....",
+      "url": "https://www.cnn.com/cnn-underscored/deals/apple-presidents-day-sale-2026-02-14",
+      "publishedAt": "2026-02-15T12:27:00Z",
+      "processed_at": "2026-02-16T15:41:48.495270+00:00"
+    },
     {
       "title": "Google’s AI Overviews Can Scam You. Here’s How to Stay Safe - WIRED",
       "source": {
@@ -10,17 +50,17 @@
       "description": "Beyond mistakes or nonsense, deliberately bad information being injected into AI search summaries is...",
       "url": "https://www.wired.com/story/googles-ai-overviews-can-scam-you-heres-how-to-stay-safe/",
       "publishedAt": "2026-02-15T11:30:00Z",
-      "processed_at": "2026-02-16T14:42:28.948342+00:00"
+      "processed_at": "2026-02-16T15:41:48.495270+00:00"
     },
     {
-      "title": "I replaced 6 subscription-based Android apps with these free open source gems and couldn't be happier - Android Police",
+      "title": "There's Something Workers Prize More Than Money - Newser",
       "source": {
-        "name": "Android Police"
+        "name": "Newser"
       },
-      "description": "The subscription-free Android setup...",
-      "url": "https://www.androidpolice.com/replaced-subscription-based-android-apps-with-free-open-source-gems/",
-      "publishedAt": "2026-02-15T11:00:10Z",
-      "processed_at": "2026-02-16T14:42:28.948342+00:00"
+      "description": "Workers prioritize flexible schedules and time autonomy the most...",
+      "url": "https://www.newser.com/story/383054/theres-something-workers-prize-more-than-money.html",
+      "publishedAt": "2026-02-15T11:29:00Z",
+      "processed_at": "2026-02-16T15:41:48.495270+00:00"
     },
     {
       "title": "Xbox Game Pass loses another four games in February 2026 - TrueAchievements",
@@ -30,7 +70,7 @@
       "description": "The next wave of games leaving Xbox Game Pass in February 2026 has been confirmed. Another four game...",
       "url": "https://www.trueachievements.com/news/xbox-game-pass-leaving-soon-february-2026-wave-2",
       "publishedAt": "2026-02-15T10:22:49Z",
-      "processed_at": "2026-02-16T14:42:28.948342+00:00"
+      "processed_at": "2026-02-16T15:41:48.495270+00:00"
     },
     {
       "title": "Xbox gets another 26 new games next week - TrueAchievements",
@@ -40,17 +80,17 @@
       "description": "Next week, 26 new Xbox games, including Styx: Blades of Greed and Star Trek: Voyager - Across the Un...",
       "url": "https://www.trueachievements.com/news/new-xbox-games-february-16-2026",
       "publishedAt": "2026-02-15T10:10:55Z",
-      "processed_at": "2026-02-16T14:42:28.948342+00:00"
+      "processed_at": "2026-02-16T15:41:48.495270+00:00"
     },
     {
       "title": "3 ‘simple’ fitness tests adults over 60 should be able to pass - Tom's Guide",
       "source": {
         "name": "Tom's Guide"
       },
-      "description": "",
+      "description": "Test your fitness and see if you're above or below average!...",
       "url": "https://www.tomsguide.com/wellness/fitness/3-simple-fitness-tests-adults-over-60-should-be-able-to-pass",
       "publishedAt": "2026-02-15T07:18:24Z",
-      "processed_at": "2026-02-16T14:42:28.948342+00:00"
+      "processed_at": "2026-02-16T15:41:48.495270+00:00"
     },
     {
       "title": "'I Feel Cheated and I Want a Refund': Fans Lash Out at New PS5 God of War's Unlockable Local Multiplayer Mode - Push Square",
@@ -60,40 +100,10 @@
       "description": "Accused of false advertising...",
       "url": "https://www.pushsquare.com/news/2026/02/i-feel-cheated-and-i-want-a-refund-fans-lash-out-at-new-ps5-god-of-wars-unlockable-local-multiplayer-mode",
       "publishedAt": "2026-02-15T07:00:00Z",
-      "processed_at": "2026-02-16T14:42:28.948342+00:00"
-    },
-    {
-      "title": "New Strategy RPG 'Brigandine: Abyss' Is Coming To Switch 2 In 2026 - Nintendo Life",
-      "source": {
-        "name": "Nintendo Life"
-      },
-      "description": "NIS America teams up with Happinet...",
-      "url": "https://www.nintendolife.com/news/2026/02/new-strategy-rpg-brigandine-abyss-is-coming-to-switch-2-in-2026",
-      "publishedAt": "2026-02-15T05:55:00Z",
-      "processed_at": "2026-02-16T14:42:28.948342+00:00"
-    },
-    {
-      "title": "Your Samsung TV is watching you — how to turn off data collection - Tom's Guide",
-      "source": {
-        "name": "Tom's Guide"
-      },
-      "description": "Your Samsung TV knows too much about you...",
-      "url": "https://www.tomsguide.com/tvs/your-samsung-tv-is-watching-you-how-to-turn-off-data-collection",
-      "publishedAt": "2026-02-15T05:48:24Z",
-      "processed_at": "2026-02-16T14:42:28.948342+00:00"
-    },
-    {
-      "title": "Video: 007 First Light Official Story Trailer Revealed - Nintendo Life",
-      "source": {
-        "name": "Nintendo Life"
-      },
-      "description": "Earn the number...",
-      "url": "https://www.nintendolife.com/news/2026/02/video-007-first-light-official-story-trailer-revealed",
-      "publishedAt": "2026-02-15T04:55:00Z",
-      "processed_at": "2026-02-16T14:42:28.948342+00:00"
+      "processed_at": "2026-02-16T15:41:48.495270+00:00"
     }
   ],
-  "lastUpdated": "2026-02-16T14:42:28.948415+00:00",
+  "lastUpdated": "2026-02-16T15:41:48.495343+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
