@@ -3,14 +3,64 @@
   "totalResults": 10,
   "articles": [
     {
-      "title": "Apple introduces a new video podcast experience on Apple Podcasts - Apple",
+      "title": "macOS Tahoe 26.4 and iPadOS 26.4 add compact tab bar in Safari - 9to5Mac",
       "source": {
-        "name": "Apple Newsroom"
+        "name": "9to5Mac"
       },
-      "description": "Apple today announced a transformative update coming to Apple Podcasts this spring that will bring a...",
-      "url": "https://www.apple.com/newsroom/2026/02/apple-introduces-a-new-video-podcast-experience-on-apple-podcasts/",
-      "publishedAt": "2026-02-16T20:15:00Z",
-      "processed_at": "2026-02-17T22:33:44.238995+00:00"
+      "description": "macOS Tahoe and iPadOS 26 removed support for the compact tab bar in Safari. Now, the feature is bac...",
+      "url": "https://9to5mac.com/2026/02/16/macos-tahoe-26-4-and-ipados-26-4-add-compact-tab-bar-in-safari/",
+      "publishedAt": "2026-02-16T20:32:00Z",
+      "processed_at": "2026-02-17T23:31:07.399591+00:00"
+    },
+    {
+      "title": "Get ready for new Macs and iPads: Apple announces \"Special Experience\" on March 4 - Ars Technica",
+      "source": {
+        "name": "Ars Technica"
+      },
+      "description": "Apple has not confirmed whether you'll be able to watch live, but Ars will bring you the news....",
+      "url": "https://arstechnica.com/apple/2026/02/get-ready-for-new-macs-and-ipads-apple-announces-special-experience-on-march-4/",
+      "publishedAt": "2026-02-16T20:30:15Z",
+      "processed_at": "2026-02-17T23:31:07.399591+00:00"
+    },
+    {
+      "title": "iOS 26.4 beta 1: Here’s everything new - 9to5Mac",
+      "source": {
+        "name": "9to5Mac"
+      },
+      "description": "iOS 26.4 beta 1 is now available in beta for developers. The update includes a ton of new features a...",
+      "url": "https://9to5mac.com/2026/02/16/ios-26-4-beta-1-heres-everything-new/",
+      "publishedAt": "2026-02-16T20:26:00Z",
+      "processed_at": "2026-02-17T23:31:07.399591+00:00"
+    },
+    {
+      "title": "Apple starts testing end-to-end encrypted RCS messages on iPhone - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "Apple is testing end-to-end encrypted (E2EE) RCS messages with the iOS 26.4 first beta. When officia...",
+      "url": "https://www.theverge.com/tech/879792/apple-iphone-android-rcs-messages-end-to-end-encrypted",
+      "publishedAt": "2026-02-16T20:21:33Z",
+      "processed_at": "2026-02-17T23:31:07.399591+00:00"
+    },
+    {
+      "title": "macOS Tahoe 26.4 Displays Warnings for Apps That Won't Work After Rosetta 2 Support Ends - MacRumors",
+      "source": {
+        "name": "MacRumors"
+      },
+      "description": "macOS Tahoe will be the last version of macOS that supports Intel-based Macs, with Apple planning to...",
+      "url": "https://www.macrumors.com/2026/02/16/macos-tahoe-26-4-rosetta-2-warnings/",
+      "publishedAt": "2026-02-16T20:08:50Z",
+      "processed_at": "2026-02-17T23:31:07.399591+00:00"
+    },
+    {
+      "title": "This Is How PS Plus Premium's Time Crisis Will Play with PS5, PS4's Gyro Controls - Push Square",
+      "source": {
+        "name": "Push Square"
+      },
+      "description": "Reload...",
+      "url": "https://www.pushsquare.com/news/2026/02/this-is-how-ps-plus-premiums-time-crisis-will-play-with-ps5-ps4s-gyro-controls",
+      "publishedAt": "2026-02-16T20:00:00Z",
+      "processed_at": "2026-02-17T23:31:07.399591+00:00"
     },
     {
       "title": "Google responds to claim that it stole NPR host's voice - Mashable",
@@ -20,7 +70,7 @@
       "description": "Radio personality David Greene alleges that Google copied his voice for NotebookLM....",
       "url": "https://mashable.com/article/google-responds-to-david-greene-npr-voice-claim",
       "publishedAt": "2026-02-16T19:57:09Z",
-      "processed_at": "2026-02-17T22:33:44.238995+00:00"
+      "processed_at": "2026-02-17T23:31:07.399591+00:00"
     },
     {
       "title": "Metal Gear Solid 4 Remaster Is Leaving Online Multiplayer In The Past - Kotaku",
@@ -30,7 +80,7 @@
       "description": "But Peace Walker's coop mode is back...",
       "url": "https://kotaku.com/msg4-multiplayer-remaster-online-konami-2000669466",
       "publishedAt": "2026-02-16T19:53:18Z",
-      "processed_at": "2026-02-17T22:33:44.238995+00:00"
+      "processed_at": "2026-02-17T23:31:07.399591+00:00"
     },
     {
       "title": "Switch 2 price, PS6 release could be impacted by memory shortage - Mashable",
@@ -40,70 +90,20 @@
       "description": "Rumors are surfacing about more problems related to RAM shortages....",
       "url": "https://mashable.com/article/switch-2-price-ps6-release-could-be-impacted-by-memory-shortage",
       "publishedAt": "2026-02-16T19:41:15Z",
-      "processed_at": "2026-02-17T22:33:44.238995+00:00"
+      "processed_at": "2026-02-17T23:31:07.399591+00:00"
     },
     {
-      "title": "Gboard might finally add a cursor – the only good thing about the iPhone’s keyboard - 9to5Google",
+      "title": "Open World Fantasy RPG Promises No Day-One Microtransactions - Kotaku",
       "source": {
-        "name": "9to5google.com"
-      },
-      "description": "I’m not the first to sing the praises of Gboard. Google has done an excellent job evolving the once-...",
-      "url": "http://9to5google.com/2026/02/16/gboard-might-finally-add-a-cursor-the-only-good-thing-about-the-iphones-keyboard/",
-      "publishedAt": "2026-02-16T18:55:00Z",
-      "processed_at": "2026-02-17T22:33:44.238995+00:00"
-    },
-    {
-      "title": "iOS 26.4 redesigns Wallpaper Gallery - 9to5Mac",
-      "source": {
-        "name": "9to5Mac"
-      },
-      "description": "Apple just released the first iOS 26.4 beta, and it seems to feature a number of under-the-hood impr...",
-      "url": "https://9to5mac.com/2026/02/16/ios-26-4-redesigns-wallpaper-gallery/",
-      "publishedAt": "2026-02-16T18:54:00Z",
-      "processed_at": "2026-02-17T22:33:44.238995+00:00"
-    },
-    {
-      "title": "Freebooters on Made to Order - Warhammer Community",
-      "source": {
-        "name": "Warhammer-community.com"
-      },
-      "description": "Kaptin Badrukk will be Made to Order for Warhammer 40,000...",
-      "url": "https://www.warhammer-community.com/articles/thzonvza/freebooters-on-made-to-order",
-      "publishedAt": "2026-02-16T18:50:03Z",
-      "processed_at": "2026-02-17T22:33:44.238995+00:00"
-    },
-    {
-      "title": "iOS 26.4 beta adds support for testing end-to-end encrypted RCS messaging - 9to5Mac",
-      "source": {
-        "name": "9to5Mac"
-      },
-      "description": "Apple added RCS support to iPhone with iOS 18.1, enabling richer cross-platform messaging between iP...",
-      "url": "https://9to5mac.com/2026/02/16/ios-26-4-beta-adds-support-for-testing-end-to-end-encrypted-rcs-messaging/",
-      "publishedAt": "2026-02-16T18:13:00Z",
-      "processed_at": "2026-02-17T22:33:44.238995+00:00"
-    },
-    {
-      "title": "I stopped ignoring these Google Maps features, and my commute improved instantly - Android Police",
-      "source": {
-        "name": "Android Police"
-      },
-      "description": "These underrated features completely changed how I use Maps...",
-      "url": "https://www.androidpolice.com/i-stopped-ignoring-these-google-maps-features-commute-improved/",
-      "publishedAt": "2026-02-16T18:00:10Z",
-      "processed_at": "2026-02-17T22:33:44.238995+00:00"
-    },
-    {
-      "title": "Battlefield 6 Roadmap Has Devs ‘Biting Their Nails’ - Insider Gaming",
-      "source": {
-        "name": "Insider-gaming.com"
+        "name": "Kotaku"
       },
       "description": "",
-      "url": "https://insider-gaming.com/battlefield-6-roadmap-has-devs-biting-their-nails/",
-      "publishedAt": "2026-02-16T17:40:35Z",
-      "processed_at": "2026-02-17T22:33:44.238995+00:00"
+      "url": "https://kotaku.com/crimson-desert-mtx-microtransactions-deluxe-price-2000669462",
+      "publishedAt": "2026-02-16T19:00:03Z",
+      "processed_at": "2026-02-17T23:31:07.399591+00:00"
     }
   ],
-  "lastUpdated": "2026-02-17T22:33:44.239067+00:00",
+  "lastUpdated": "2026-02-17T23:31:07.399664+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
