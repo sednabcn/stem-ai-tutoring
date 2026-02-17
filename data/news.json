@@ -3,6 +3,16 @@
   "totalResults": 10,
   "articles": [
     {
+      "title": "Bloodstained Director Shutaro Iida Passes Away at 52 as Sequel Production Enters Its Final Stages - Noisy Pixel",
+      "source": {
+        "name": "Noisy Pixel"
+      },
+      "description": "ArtPlay announces the passing of Bloodstained director Shutaro Iida at 52 as Bloodstained: The Scarl...",
+      "url": "https://noisypixel.net/bloodstained-director-shutaro-iida-passes-away/",
+      "publishedAt": "2026-02-16T03:42:18Z",
+      "processed_at": "2026-02-17T09:52:02.686485+00:00"
+    },
+    {
       "title": "Pixel's 'Now Playing' is becoming a real app, but not for everyone - Android Authority",
       "source": {
         "name": "Android Authority"
@@ -10,7 +20,7 @@
       "description": "Google is spinning Pixel's Now Playing feature into a standalone app on the Play Store, but not ever...",
       "url": "https://www.androidauthority.com/google-pixel-now-playing-app-play-store-3641143/",
       "publishedAt": "2026-02-16T03:23:35Z",
-      "processed_at": "2026-02-17T08:50:30.543384+00:00"
+      "processed_at": "2026-02-17T09:52:02.686485+00:00"
     },
     {
       "title": "Kingdom’s Return: Time-Eating Fruit and the Ancient Monster ‘Alchemist Introduction’ trailer - Gematsu",
@@ -20,7 +30,7 @@
       "description": "Inti Creates has released a new trailer for hybrid 2D action and strategy game Kingdom’s Return: Tim...",
       "url": "https://www.gematsu.com/2026/02/kingdoms-return-time-eating-fruit-and-the-ancient-monster-alchemist-introduction-trailer",
       "publishedAt": "2026-02-16T03:00:31Z",
-      "processed_at": "2026-02-17T08:50:30.543384+00:00"
+      "processed_at": "2026-02-17T09:52:02.686485+00:00"
     },
     {
       "title": "5 MagSafe Gadgets You'll Use Every Day - bgr.com",
@@ -30,37 +40,27 @@
       "description": "If you think MagSafe on your iPhone is only for wireless charging, you might be surprised by the var...",
       "url": "https://www.bgr.com/2099044/magsafe-gadgets-use-every-day/",
       "publishedAt": "2026-02-16T02:17:00Z",
-      "processed_at": "2026-02-17T08:50:30.543384+00:00"
+      "processed_at": "2026-02-17T09:52:02.686485+00:00"
     },
     {
-      "title": "Bloodstained: The Scarlet Engagement creative director Shutaro Ida dies at age 52 - Gematsu",
+      "title": "Remembering Five Dreamcast Classics To Honor SEGA Pioneer Hideki Sato's Passing - OutKick",
       "source": {
-        "name": "Gematsu"
+        "name": "Outkick.com"
       },
-      "description": "Shutaro Ida, creative director behind the upcoming Bloodstained: The Scarlet Engagement, has died at...",
-      "url": "https://www.gematsu.com/2026/02/bloodstained-the-scarlet-engagement-creative-director-shutaro-ida-dies-at-age-52",
-      "publishedAt": "2026-02-16T02:00:06Z",
-      "processed_at": "2026-02-17T08:50:30.543384+00:00"
+      "description": "In honor of SEGA pioneer Hideki Sato's passing, here are five of my favorite Dreamcast games of all ...",
+      "url": "https://www.outkick.com/culture/remembering-five-dreamcast-classics-honor-sega-pioneer-hideki-satos-passing",
+      "publishedAt": "2026-02-16T00:00:04Z",
+      "processed_at": "2026-02-17T09:52:02.686485+00:00"
     },
     {
-      "title": "New ClickFix attack abuses nslookup to retrieve PowerShell payload via DNS - BleepingComputer",
+      "title": "8 Upcoming Open World Titles to Keep on Your Radar in 2026 - DualShockers",
       "source": {
-        "name": "BleepingComputer"
+        "name": "DualShockers"
       },
-      "description": "Threat actors are now abusing DNS queries as part of ClickFix social engineering attacks to deliver ...",
-      "url": "https://www.bleepingcomputer.com/news/security/new-clickfix-attack-abuses-nslookup-to-retrieve-powershell-payload-via-dns/",
-      "publishedAt": "2026-02-16T00:29:00Z",
-      "processed_at": "2026-02-17T08:50:30.543384+00:00"
-    },
-    {
-      "title": "Apple launching 5+ new products over the next several weeks - 9to5Mac",
-      "source": {
-        "name": "9to5Mac"
-      },
-      "description": "Apple is reportedly preparing to launch several new products soon, including a low-cost MacBook, M5 ...",
-      "url": "https://9to5mac.com/2026/02/15/apple-launching-5-new-products-over-the-next-several-weeks-per-report/",
-      "publishedAt": "2026-02-15T22:51:00Z",
-      "processed_at": "2026-02-17T08:50:30.543384+00:00"
+      "description": "Players should watch out for these promising open world games that are currently scheduled to launch...",
+      "url": "https://www.dualshockers.com/upcoming-open-world-titles-2026/",
+      "publishedAt": "2026-02-15T22:38:08Z",
+      "processed_at": "2026-02-17T09:52:02.686485+00:00"
     },
     {
       "title": "Windows 11 KB5077181 fixes boot failures linked to failed updates - BleepingComputer",
@@ -70,7 +70,7 @@
       "description": "Microsoft says it has resolved a Windows 11 bug that caused some commercial systems to fail to boot ...",
       "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5077181-fixes-boot-failures-linked-to-failed-updates/",
       "publishedAt": "2026-02-15T22:08:53Z",
-      "processed_at": "2026-02-17T08:50:30.543384+00:00"
+      "processed_at": "2026-02-17T09:52:02.686485+00:00"
     },
     {
       "title": "Longtime NPR host David Greene sues Google over NotebookLM voice - TechCrunch",
@@ -80,7 +80,7 @@
       "description": "The longtime host of NPR’s “Morning Edition,” is suing Google, alleging that the male podcast voice ...",
       "url": "https://techcrunch.com/2026/02/15/longtime-npr-host-david-greene-sues-google-over-notebooklm-voice/",
       "publishedAt": "2026-02-15T22:07:51Z",
-      "processed_at": "2026-02-17T08:50:30.543384+00:00"
+      "processed_at": "2026-02-17T09:52:02.686485+00:00"
     },
     {
       "title": "A bunch of first-party Nintendo Switch games are now on sale - Nintendo Everything",
@@ -90,7 +90,7 @@
       "description": "Nintendo has put eight different Switch games on sale, including Super Mario RPG, Xenoblade Chronicl...",
       "url": "https://nintendoeverything.com/a-bunch-of-first-party-nintendo-switch-games-are-now-on-sale/",
       "publishedAt": "2026-02-15T22:04:21Z",
-      "processed_at": "2026-02-17T08:50:30.543384+00:00"
+      "processed_at": "2026-02-17T09:52:02.686485+00:00"
     },
     {
       "title": "It’s time for Apple to let go of 60Hz displays - 9to5Mac",
@@ -100,10 +100,10 @@
       "description": "It’s been nearly a decade since the introduction of the first 120Hz ProMotion display, if you can be...",
       "url": "https://9to5mac.com/2026/02/15/its-time-for-apple-to-let-go-of-60hz-displays/",
       "publishedAt": "2026-02-15T21:46:00Z",
-      "processed_at": "2026-02-17T08:50:30.543384+00:00"
+      "processed_at": "2026-02-17T09:52:02.686485+00:00"
     }
   ],
-  "lastUpdated": "2026-02-17T08:50:30.543459+00:00",
+  "lastUpdated": "2026-02-17T09:52:02.686573+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
