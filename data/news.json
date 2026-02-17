@@ -3,6 +3,46 @@
   "totalResults": 10,
   "articles": [
     {
+      "title": "'Partnering with PS Studios Has Empowered Us': Sony Steps Up Investment in Kena's PS5 Sequel - Push Square",
+      "source": {
+        "name": "Push Square"
+      },
+      "description": "A bigger and better effort...",
+      "url": "https://www.pushsquare.com/news/2026/02/partnering-with-ps-studios-has-empowered-us-sony-steps-up-investment-in-kenas-ps5-sequel",
+      "publishedAt": "2026-02-16T11:00:00Z",
+      "processed_at": "2026-02-17T13:07:50.360084+00:00"
+    },
+    {
+      "title": "Metal Gear Solid 4 PS5 Has Assassin's Creed Content But No Online - Push Square",
+      "source": {
+        "name": "Push Square"
+      },
+      "description": "",
+      "url": "https://www.pushsquare.com/news/2026/02/metal-gear-solid-4-ps5-has-assassins-creed-content-but-no-online",
+      "publishedAt": "2026-02-16T10:30:00Z",
+      "processed_at": "2026-02-17T13:07:50.360084+00:00"
+    },
+    {
+      "title": "Galaxy S26 Ultra: Seven possible upgrades beyond the leaked specs - PhoneArena",
+      "source": {
+        "name": "PhoneArena"
+      },
+      "description": "Galaxy S26 Ultra specs may hide these seven key improvements....",
+      "url": "https://www.phonearena.com/news/Galaxy-S26-Ultra-Seven-possible-upgrades-beyond-the-leaked-specs_id178176",
+      "publishedAt": "2026-02-16T10:25:45Z",
+      "processed_at": "2026-02-17T13:07:50.360084+00:00"
+    },
+    {
+      "title": "New Chrome Zero-Day (CVE-2026-2441) Under Active Attack — Patch Released - The Hacker News",
+      "source": {
+        "name": "Internet"
+      },
+      "description": "Google fixes actively exploited Chrome zero-day CVE-2026-2441, a high-severity CSS use-after-free fl...",
+      "url": "https://thehackernews.com/2026/02/new-chrome-zero-day-cve-2026-2441-under.html",
+      "publishedAt": "2026-02-16T06:38:00Z",
+      "processed_at": "2026-02-17T13:07:50.360084+00:00"
+    },
+    {
       "title": "Bloodstained Director Shutaro Iida Passes Away at 52 as Sequel Production Enters Its Final Stages - Noisy Pixel",
       "source": {
         "name": "Noisy Pixel"
@@ -10,7 +50,7 @@
       "description": "ArtPlay announces the passing of Bloodstained director Shutaro Iida at 52 as Bloodstained: The Scarl...",
       "url": "https://noisypixel.net/bloodstained-director-shutaro-iida-passes-away/",
       "publishedAt": "2026-02-16T03:42:18Z",
-      "processed_at": "2026-02-17T11:40:30.110199+00:00"
+      "processed_at": "2026-02-17T13:07:50.360084+00:00"
     },
     {
       "title": "Pixel's 'Now Playing' is becoming a real app, but not for everyone - Android Authority",
@@ -20,7 +60,7 @@
       "description": "Google is spinning Pixel's Now Playing feature into a standalone app on the Play Store, but not ever...",
       "url": "https://www.androidauthority.com/google-pixel-now-playing-app-play-store-3641143/",
       "publishedAt": "2026-02-16T03:23:35Z",
-      "processed_at": "2026-02-17T11:40:30.110199+00:00"
+      "processed_at": "2026-02-17T13:07:50.360084+00:00"
     },
     {
       "title": "Kingdom’s Return: Time-Eating Fruit and the Ancient Monster ‘Alchemist Introduction’ trailer - Gematsu",
@@ -30,7 +70,7 @@
       "description": "Inti Creates has released a new trailer for hybrid 2D action and strategy game Kingdom’s Return: Tim...",
       "url": "https://www.gematsu.com/2026/02/kingdoms-return-time-eating-fruit-and-the-ancient-monster-alchemist-introduction-trailer",
       "publishedAt": "2026-02-16T03:00:31Z",
-      "processed_at": "2026-02-17T11:40:30.110199+00:00"
+      "processed_at": "2026-02-17T13:07:50.360084+00:00"
     },
     {
       "title": "5 MagSafe Gadgets You'll Use Every Day - bgr.com",
@@ -40,7 +80,7 @@
       "description": "If you think MagSafe on your iPhone is only for wireless charging, you might be surprised by the var...",
       "url": "https://www.bgr.com/2099044/magsafe-gadgets-use-every-day/",
       "publishedAt": "2026-02-16T02:17:00Z",
-      "processed_at": "2026-02-17T11:40:30.110199+00:00"
+      "processed_at": "2026-02-17T13:07:50.360084+00:00"
     },
     {
       "title": "Remembering Five Dreamcast Classics To Honor SEGA Pioneer Hideki Sato's Passing - OutKick",
@@ -50,7 +90,7 @@
       "description": "In honor of SEGA pioneer Hideki Sato's passing, here are five of my favorite Dreamcast games of all ...",
       "url": "https://www.outkick.com/culture/remembering-five-dreamcast-classics-honor-sega-pioneer-hideki-satos-passing",
       "publishedAt": "2026-02-16T00:00:04Z",
-      "processed_at": "2026-02-17T11:40:30.110199+00:00"
+      "processed_at": "2026-02-17T13:07:50.360084+00:00"
     },
     {
       "title": "8 Upcoming Open World Titles to Keep on Your Radar in 2026 - DualShockers",
@@ -60,50 +100,10 @@
       "description": "Players should watch out for these promising open world games that are currently scheduled to launch...",
       "url": "https://www.dualshockers.com/upcoming-open-world-titles-2026/",
       "publishedAt": "2026-02-15T22:38:08Z",
-      "processed_at": "2026-02-17T11:40:30.110199+00:00"
-    },
-    {
-      "title": "Windows 11 KB5077181 fixes boot failures linked to failed updates - BleepingComputer",
-      "source": {
-        "name": "BleepingComputer"
-      },
-      "description": "Microsoft says it has resolved a Windows 11 bug that caused some commercial systems to fail to boot ...",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5077181-fixes-boot-failures-linked-to-failed-updates/",
-      "publishedAt": "2026-02-15T22:08:53Z",
-      "processed_at": "2026-02-17T11:40:30.110199+00:00"
-    },
-    {
-      "title": "Longtime NPR host David Greene sues Google over NotebookLM voice - TechCrunch",
-      "source": {
-        "name": "TechCrunch"
-      },
-      "description": "The longtime host of NPR’s “Morning Edition,” is suing Google, alleging that the male podcast voice ...",
-      "url": "https://techcrunch.com/2026/02/15/longtime-npr-host-david-greene-sues-google-over-notebooklm-voice/",
-      "publishedAt": "2026-02-15T22:07:51Z",
-      "processed_at": "2026-02-17T11:40:30.110199+00:00"
-    },
-    {
-      "title": "A bunch of first-party Nintendo Switch games are now on sale - Nintendo Everything",
-      "source": {
-        "name": "Nintendoeverything.com"
-      },
-      "description": "Nintendo has put eight different Switch games on sale, including Super Mario RPG, Xenoblade Chronicl...",
-      "url": "https://nintendoeverything.com/a-bunch-of-first-party-nintendo-switch-games-are-now-on-sale/",
-      "publishedAt": "2026-02-15T22:04:21Z",
-      "processed_at": "2026-02-17T11:40:30.110199+00:00"
-    },
-    {
-      "title": "It’s time for Apple to let go of 60Hz displays - 9to5Mac",
-      "source": {
-        "name": "9to5Mac"
-      },
-      "description": "It’s been nearly a decade since the introduction of the first 120Hz ProMotion display, if you can be...",
-      "url": "https://9to5mac.com/2026/02/15/its-time-for-apple-to-let-go-of-60hz-displays/",
-      "publishedAt": "2026-02-15T21:46:00Z",
-      "processed_at": "2026-02-17T11:40:30.110199+00:00"
+      "processed_at": "2026-02-17T13:07:50.360084+00:00"
     }
   ],
-  "lastUpdated": "2026-02-17T11:40:30.110277+00:00",
+  "lastUpdated": "2026-02-17T13:07:50.360162+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
