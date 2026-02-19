@@ -1,16 +1,36 @@
 {
   "status": "success",
-  "totalResults": 9,
+  "totalResults": 10,
   "articles": [
     {
-      "title": "Sources: Tencent secretly funded struggling shooter Highguard - Game File | Stephen Totilo",
+      "title": "GameHub will give Mac owners another imperfect way to play Windows games - Ars Technica",
       "source": {
-        "name": "Gamefile.news"
+        "name": "Ars Technica"
       },
-      "description": "Wildlight Entertainment has said for years it was \"fully-funded\" but not shared details....",
-      "url": "https://www.gamefile.news/p/tencent-highguard-wildlight-entertainment",
-      "publishedAt": "2026-02-17T20:18:12Z",
-      "processed_at": "2026-02-18T23:32:06.996530+00:00"
+      "description": "GameHub's existing Windows emulator on Android has its fair share of issues....",
+      "url": "https://arstechnica.com/gaming/2026/02/gamehub-will-give-mac-owners-another-imperfect-way-to-play-windows-games/",
+      "publishedAt": "2026-02-17T22:45:07Z",
+      "processed_at": "2026-02-19T02:25:12.900826+00:00"
+    },
+    {
+      "title": "Google announces dates for I/O 2026 - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "Google has announced that I/O 2026 will take place from May 19th to the 20th, where it will show off...",
+      "url": "https://www.theverge.com/tech/880401/google-io-2026-dates-ai",
+      "publishedAt": "2026-02-17T20:56:56Z",
+      "processed_at": "2026-02-19T02:25:12.900826+00:00"
+    },
+    {
+      "title": "Highguard's Mysterious Funding Reportedly Came From Tencent - Kotaku",
+      "source": {
+        "name": "Kotaku"
+      },
+      "description": "The struggling hero shooter recently suffered mass layoffs...",
+      "url": "https://kotaku.com/highguard-wildlight-tencent-funding-layoffs-servers-2000669790",
+      "publishedAt": "2026-02-17T20:43:41Z",
+      "processed_at": "2026-02-19T02:25:12.900826+00:00"
     },
     {
       "title": "Stardew Valley Fan Sleeps 1,000 Years And Awakes To Wild Farm - Kotaku",
@@ -20,27 +40,27 @@
       "description": "Honk shoo mimimi...",
       "url": "https://kotaku.com/stardew-valley-sleep-meteorite-mushroom-trees-stone-owls-2000669774",
       "publishedAt": "2026-02-17T20:15:57Z",
-      "processed_at": "2026-02-18T23:32:06.996530+00:00"
+      "processed_at": "2026-02-19T02:25:12.900826+00:00"
     },
     {
-      "title": "'Can You Use Labo VR Goggles For Virtual Boy Games On Switch?' & Other Nintendo Classics VB Questions Answered - Nintendo Life",
+      "title": "Now Pixel 9 phones can transfer files with AirDrop, too - The Verge",
       "source": {
-        "name": "Nintendo Life"
+        "name": "The Verge"
       },
-      "description": "(Yes, you can, with a Switch 1)...",
-      "url": "https://www.nintendolife.com/guides/can-you-use-labo-vr-goggles-for-virtual-boy-games-on-switch-and-other-nintendo-classics-vb-questions-answered",
-      "publishedAt": "2026-02-17T18:22:00Z",
-      "processed_at": "2026-02-18T23:32:06.996530+00:00"
+      "description": "Google is expanding AirDrop compatibility to the Pixel 9 series, making it easier to send and receiv...",
+      "url": "https://www.theverge.com/tech/880210/google-pixel-9-airdrop-quick-share",
+      "publishedAt": "2026-02-17T19:48:15Z",
+      "processed_at": "2026-02-19T02:25:12.900826+00:00"
     },
     {
-      "title": "Apple releases first iOS 26.4 public beta with these changes - 9to5Mac",
+      "title": "Google shares how Android 17 is making everything run smoother - Android Authority",
       "source": {
-        "name": "9to5Mac"
+        "name": "Android Authority"
       },
-      "description": "Apple has released the first iOS 26.4 public beta version for iPhone. iOS 26.4 includes a number of ...",
-      "url": "https://9to5mac.com/2026/02/17/apple-releases-first-ios-26-4-public-beta-with-these-changes/",
-      "publishedAt": "2026-02-17T18:18:00Z",
-      "processed_at": "2026-02-18T23:32:06.996530+00:00"
+      "description": "Google shares the technical details behind its new system to reduce missed frames in Android 17, now...",
+      "url": "https://www.androidauthority.com/android-17-missed-frames-3641660/",
+      "publishedAt": "2026-02-17T19:03:13Z",
+      "processed_at": "2026-02-19T02:25:12.900826+00:00"
     },
     {
       "title": "Avowed Celebrates Anniversary with Massive Update – and Comes to PlayStation 5 - Xbox Wire",
@@ -50,27 +70,7 @@
       "description": "Happy anniversary Avowed! Today's major content update is packed with community-requested features, ...",
       "url": "https://news.xbox.com/en-us/2026/02/17/avowed-celebrates-anniversary-with-massive-update-and-comes-to-playstation-5/",
       "publishedAt": "2026-02-17T18:01:12Z",
-      "processed_at": "2026-02-18T23:32:06.996530+00:00"
-    },
-    {
-      "title": "Google expands Quick Share’s AirDrop support to Pixel 9 - 9to5Google",
-      "source": {
-        "name": "9to5google.com"
-      },
-      "description": "After introducing on the Pixel 10 last year, Google is expanding Quick Share support with AirDrop to...",
-      "url": "http://9to5google.com/2026/02/17/quick-share-airdrop-pixel-9/",
-      "publishedAt": "2026-02-17T17:44:00Z",
-      "processed_at": "2026-02-18T23:32:06.996530+00:00"
-    },
-    {
-      "title": "Google teases I/O 2026 with ‘Make Build Unlock’ puzzle - 9to5Google",
-      "source": {
-        "name": "9to5google.com"
-      },
-      "description": "The journey to Google I/O 2026 is well underway this morning with a puzzle to figure out the dates f...",
-      "url": "http://9to5google.com/2026/02/17/google-io-2026-puzzle/",
-      "publishedAt": "2026-02-17T16:16:00Z",
-      "processed_at": "2026-02-18T23:32:06.996530+00:00"
+      "processed_at": "2026-02-19T02:25:12.900826+00:00"
     },
     {
       "title": "Battlefield 6 Battle Pass Season 2: All Guns, Skins, And Other Rewards - GameSpot",
@@ -80,7 +80,17 @@
       "description": "Here is everything included in the Season 2 battle pass for Battlefield 6 and Redsec....",
       "url": "https://www.gamespot.com/gallery/battlefield-6-battle-pass-season-2-all-guns-skins-and-other-rewards/2900-7505/",
       "publishedAt": "2026-02-17T16:15:05Z",
-      "processed_at": "2026-02-18T23:32:06.996530+00:00"
+      "processed_at": "2026-02-19T02:25:12.900826+00:00"
+    },
+    {
+      "title": "Samsung reportedly can't even buy its own Exynos chips for less, adding to Galaxy S26 price hike - 9to5Google",
+      "source": {
+        "name": "9to5google.com"
+      },
+      "description": "Surfacing reports suggest that Samsung held out as long as it could in previous years, but current R...",
+      "url": "http://9to5google.com/2026/02/17/samsung-galaxy-s26-price-hike-factors/",
+      "publishedAt": "2026-02-17T16:15:00Z",
+      "processed_at": "2026-02-19T02:25:12.900826+00:00"
     },
     {
       "title": "The latest Apple iPads, MacBooks, AirPods and more are on sale for Presidents Day - CNN",
@@ -90,10 +100,10 @@
       "description": "Apple products like AirPods, iPads and MacBooks are on sale with these Presidents Day weekend deals....",
       "url": "https://www.cnn.com/cnn-underscored/deals/apple-presidents-day-sale-2026-02-16",
       "publishedAt": "2026-02-17T16:06:00Z",
-      "processed_at": "2026-02-18T23:32:06.996530+00:00"
+      "processed_at": "2026-02-19T02:25:12.900826+00:00"
     }
   ],
-  "lastUpdated": "2026-02-18T23:32:06.996629+00:00",
+  "lastUpdated": "2026-02-19T02:25:12.900895+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
