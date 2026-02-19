@@ -3,6 +3,46 @@
   "totalResults": 10,
   "articles": [
     {
+      "title": "Yes, Chrome’s Home icon changed on Android - 9to5Google",
+      "source": {
+        "name": "9to5google.com"
+      },
+      "description": "Chrome 145 is widely rolling out on Android today with a new Home icon in the address bar. This smal...",
+      "url": "http://9to5google.com/2026/02/17/chrome-145-home-icon/",
+      "publishedAt": "2026-02-18T02:10:00Z",
+      "processed_at": "2026-02-19T06:00:07.925375+00:00"
+    },
+    {
+      "title": "Zelda: Tears of the Kingdom 1.4.3 update out now, patch notes - Nintendo Everything",
+      "source": {
+        "name": "Nintendoeverything.com"
+      },
+      "description": "The Legend of Zelda: Tears of the Kingdom is now offering a new version 1.4.3 update and the patch n...",
+      "url": "https://nintendoeverything.com/zelda-tears-of-the-kingdom-1-4-3-update-out-now-patch-notes/",
+      "publishedAt": "2026-02-18T01:29:37Z",
+      "processed_at": "2026-02-19T06:00:07.925375+00:00"
+    },
+    {
+      "title": "Microsoft confirms new Windows 11 feature drop coming next month - Windows Central",
+      "source": {
+        "name": "Windows Central"
+      },
+      "description": "Windows 11's latest Release Preview Channel update has given us our first look at Microsoft's next f...",
+      "url": "https://www.windowscentral.com/microsoft/windows-11/microsoft-confirms-next-windows-11-feature-drop-with-new-taskbar-emoji-and-settings-updates-heres-whats-coming-to-your-pc-very-soon",
+      "publishedAt": "2026-02-18T01:12:32Z",
+      "processed_at": "2026-02-19T06:00:07.925375+00:00"
+    },
+    {
+      "title": "Bethesda Releases Skyrim Update 1.2 For Switch 2, Includes \"60Hz Mode\" And Much More - Nintendo Life",
+      "source": {
+        "name": "Nintendo Life"
+      },
+      "description": "Now might be a good time to revisit Skyrim...",
+      "url": "https://www.nintendolife.com/news/2026/02/bethesda-releases-skyrim-update-1-2-for-switch-2-includes-60hz-mode-and-much-more",
+      "publishedAt": "2026-02-18T00:55:00Z",
+      "processed_at": "2026-02-19T06:00:07.925375+00:00"
+    },
+    {
       "title": "GameHub will give Mac owners another imperfect way to play Windows games - Ars Technica",
       "source": {
         "name": "Ars Technica"
@@ -10,7 +50,7 @@
       "description": "GameHub's existing Windows emulator on Android has its fair share of issues....",
       "url": "https://arstechnica.com/gaming/2026/02/gamehub-will-give-mac-owners-another-imperfect-way-to-play-windows-games/",
       "publishedAt": "2026-02-17T22:45:07Z",
-      "processed_at": "2026-02-19T04:53:53.221484+00:00"
+      "processed_at": "2026-02-19T06:00:07.925375+00:00"
     },
     {
       "title": "Highguard Appears Ready To Say Bye-Guard, Players Believe - GameSpot",
@@ -20,17 +60,17 @@
       "description": "The game's official website has been down for hours, leading many to assume the worst....",
       "url": "https://www.gamespot.com/articles/highguard-appears-ready-to-say-bye-guard-players-believe/1100-6538232/",
       "publishedAt": "2026-02-17T22:42:32Z",
-      "processed_at": "2026-02-19T04:53:53.221484+00:00"
+      "processed_at": "2026-02-19T06:00:07.925375+00:00"
     },
     {
-      "title": "Stardew Valley Fan Sleeps 1,000 Years And Awakes To Wild Farm - Kotaku",
+      "title": "iOS 26.4 adds more Sleep and Vitals data to Apple Health - 9to5Mac",
       "source": {
-        "name": "Kotaku"
+        "name": "9to5Mac"
       },
-      "description": "Honk shoo mimimi...",
-      "url": "https://kotaku.com/stardew-valley-sleep-meteorite-mushroom-trees-stone-owls-2000669774",
-      "publishedAt": "2026-02-17T20:15:57Z",
-      "processed_at": "2026-02-19T04:53:53.221484+00:00"
+      "description": "Apple released iOS 26.4 beta 1 yesterday, and the update includes a variety of changes and new featu...",
+      "url": "https://9to5mac.com/2026/02/17/ios-26-4-adds-more-sleep-and-vitals-data-to-apple-health/",
+      "publishedAt": "2026-02-17T20:24:00Z",
+      "processed_at": "2026-02-19T06:00:07.925375+00:00"
     },
     {
       "title": "Now Pixel 9 phones can transfer files with AirDrop, too - The Verge",
@@ -40,7 +80,7 @@
       "description": "Google is expanding AirDrop compatibility to the Pixel 9 series, making it easier to send and receiv...",
       "url": "https://www.theverge.com/tech/880210/google-pixel-9-airdrop-quick-share",
       "publishedAt": "2026-02-17T19:48:15Z",
-      "processed_at": "2026-02-19T04:53:53.221484+00:00"
+      "processed_at": "2026-02-19T06:00:07.925375+00:00"
     },
     {
       "title": "Don't ignore Apple's urgent security update - Fox News",
@@ -50,60 +90,20 @@
       "description": "An Apple security update fixes CVE-2026-20700 zero-day vulnerability actively exploited by hackers t...",
       "url": "https://www.foxnews.com/tech/dont-ignore-apples-urgent-security-update",
       "publishedAt": "2026-02-17T19:32:37Z",
-      "processed_at": "2026-02-19T04:53:53.221484+00:00"
+      "processed_at": "2026-02-19T06:00:07.925375+00:00"
     },
     {
-      "title": "Secret Lair: Totally TubuLair Superdrop - Magic: The Gathering",
+      "title": "Sony is Reportedly Considering Delaying the PlayStation 6 until 2028 or 2029 - VGChartz",
       "source": {
-        "name": "Wizards.com"
-      },
-      "description": "Secret Lair brings mutant mayhem, iconic turtles, Stan Sakai's Usagi Yojimbo, and Kevin Eastman toge...",
-      "url": "https://magic.wizards.com/en/news/announcements/secret-lair-totally-tubulair-superdrop",
-      "publishedAt": "2026-02-17T19:11:18Z",
-      "processed_at": "2026-02-19T04:53:53.221484+00:00"
-    },
-    {
-      "title": "Google shares how Android 17 is making everything run smoother - Android Authority",
-      "source": {
-        "name": "Android Authority"
-      },
-      "description": "Google shares the technical details behind its new system to reduce missed frames in Android 17, now...",
-      "url": "https://www.androidauthority.com/android-17-missed-frames-3641660/",
-      "publishedAt": "2026-02-17T19:03:13Z",
-      "processed_at": "2026-02-19T04:53:53.221484+00:00"
-    },
-    {
-      "title": "Claude Sonnet 4.6 - Hacker News",
-      "source": {
-        "name": "Hacker News"
+        "name": "Vgchartz.com"
       },
       "description": "",
-      "url": "https://news.ycombinator.com/item?id\\\\u003d47050488",
-      "publishedAt": "2026-02-17T18:31:11Z",
-      "processed_at": "2026-02-19T04:53:53.221484+00:00"
-    },
-    {
-      "title": "'Can You Use Labo VR Goggles For Virtual Boy Games On Switch?' & Other Nintendo Classics VB Questions Answered - Nintendo Life",
-      "source": {
-        "name": "Nintendo Life"
-      },
-      "description": "(Yes, you can, with a Switch 1)...",
-      "url": "https://www.nintendolife.com/guides/can-you-use-labo-vr-goggles-for-virtual-boy-games-on-switch-and-other-nintendo-classics-vb-questions-answered",
-      "publishedAt": "2026-02-17T18:22:00Z",
-      "processed_at": "2026-02-19T04:53:53.221484+00:00"
-    },
-    {
-      "title": "Avowed Celebrates Anniversary with Massive Update – and Comes to PlayStation 5 - Xbox Wire",
-      "source": {
-        "name": "Xbox.com"
-      },
-      "description": "Happy anniversary Avowed! Today's major content update is packed with community-requested features, ...",
-      "url": "https://news.xbox.com/en-us/2026/02/17/avowed-celebrates-anniversary-with-massive-update-and-comes-to-playstation-5/",
-      "publishedAt": "2026-02-17T18:01:12Z",
-      "processed_at": "2026-02-19T04:53:53.221484+00:00"
+      "url": "https://www.vgchartz.com/article/467056/sony-is-reportedly-considering-delaying-the-playstation-6-until-2028-or-2029/",
+      "publishedAt": "2026-02-17T19:28:31Z",
+      "processed_at": "2026-02-19T06:00:07.925375+00:00"
     }
   ],
-  "lastUpdated": "2026-02-19T04:53:53.221555+00:00",
+  "lastUpdated": "2026-02-19T06:00:07.925448+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
