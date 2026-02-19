@@ -3,6 +3,16 @@
   "totalResults": 10,
   "articles": [
     {
+      "title": "I hacked ChatGPT and Google's AI – and it only took 20 minutes - BBC",
+      "source": {
+        "name": "BBC News"
+      },
+      "description": "I found a way to make AI tell you lies – and I'm not the only one....",
+      "url": "https://www.bbc.com/future/article/20260218-i-hacked-chatgpt-and-googles-ai-and-it-only-took-20-minutes",
+      "publishedAt": "2026-02-18T10:00:00Z",
+      "processed_at": "2026-02-19T13:10:10.676042+00:00"
+    },
+    {
       "title": "Samsung teases Galaxy S26 camera as ‘brightest’ and ‘easiest’ ever, thanks to AI - 9to5Google",
       "source": {
         "name": "9to5google.com"
@@ -10,7 +20,17 @@
       "description": "Samsung is continuing its Galaxy S26 teasers with a new post highlighting “an end-to-end” camera exp...",
       "url": "http://9to5google.com/2026/02/17/samsung-galaxy-s26-brightest-teaser/",
       "publishedAt": "2026-02-18T04:00:00Z",
-      "processed_at": "2026-02-19T11:38:47.884425+00:00"
+      "processed_at": "2026-02-19T13:10:10.676042+00:00"
+    },
+    {
+      "title": "Look Away Now, The Revuelto Has Been Mansoried - Carscoops",
+      "source": {
+        "name": "CarScoops"
+      },
+      "description": "This one-of-one Lamborghini, created for a client in Dubai, brings together extensive visual, interi...",
+      "url": "https://www.carscoops.com/2026/02/mansory-lamborghini-revuelto-carbonado-x/",
+      "publishedAt": "2026-02-18T02:39:29Z",
+      "processed_at": "2026-02-19T13:10:10.676042+00:00"
     },
     {
       "title": "Yes, Chrome’s Home icon changed on Android - 9to5Google",
@@ -20,7 +40,7 @@
       "description": "Chrome 145 is widely rolling out on Android today with a new Home icon in the address bar. This smal...",
       "url": "http://9to5google.com/2026/02/17/chrome-145-home-icon/",
       "publishedAt": "2026-02-18T02:10:00Z",
-      "processed_at": "2026-02-19T11:38:47.884425+00:00"
+      "processed_at": "2026-02-19T13:10:10.676042+00:00"
     },
     {
       "title": "Dead or Alive 6: Last Round will not include Mai Shiranui and Kula Diamond nor crossplay or upgrades for existing owners - EventHubs",
@@ -30,7 +50,7 @@
       "description": "There had been rumblings that Dead or Alive was not as dead as it seemed until recently, and that tu...",
       "url": "https://www.eventhubs.com/news/2026/feb/17/dead-alive-last-round-exclude/",
       "publishedAt": "2026-02-18T01:13:28Z",
-      "processed_at": "2026-02-19T11:38:47.884425+00:00"
+      "processed_at": "2026-02-19T13:10:10.676042+00:00"
     },
     {
       "title": "Microsoft confirms new Windows 11 feature drop coming next month - Windows Central",
@@ -40,7 +60,7 @@
       "description": "Windows 11's latest Release Preview Channel update has given us our first look at Microsoft's next f...",
       "url": "https://www.windowscentral.com/microsoft/windows-11/microsoft-confirms-next-windows-11-feature-drop-with-new-taskbar-emoji-and-settings-updates-heres-whats-coming-to-your-pc-very-soon",
       "publishedAt": "2026-02-18T01:12:32Z",
-      "processed_at": "2026-02-19T11:38:47.884425+00:00"
+      "processed_at": "2026-02-19T13:10:10.676042+00:00"
     },
     {
       "title": "GameHub will give Mac owners another imperfect way to play Windows games - Ars Technica",
@@ -50,7 +70,17 @@
       "description": "GameHub's existing Windows emulator on Android has its fair share of issues....",
       "url": "https://arstechnica.com/gaming/2026/02/gamehub-will-give-mac-owners-another-imperfect-way-to-play-windows-games/",
       "publishedAt": "2026-02-17T22:45:07Z",
-      "processed_at": "2026-02-19T11:38:47.884425+00:00"
+      "processed_at": "2026-02-19T13:10:10.676042+00:00"
+    },
+    {
+      "title": "Nothing Phone (4a) and Phone (4a) Pro price and release date leaked ahead of official announcement - Notebookcheck",
+      "source": {
+        "name": "Notebookcheck.net"
+      },
+      "description": "Nothing is expected to announce the Phone (4a) and Phone (4a) Pro on March 5. However, it seems like...",
+      "url": "https://www.notebookcheck.net/Nothing-Phone-4a-and-Phone-4a-Pro-price-and-release-date-leaked-ahead-of-official-announcement.1228649.0.html",
+      "publishedAt": "2026-02-17T22:45:00Z",
+      "processed_at": "2026-02-19T13:10:10.676042+00:00"
     },
     {
       "title": "Highguard Appears Ready To Say Bye-Guard, Players Believe - GameSpot",
@@ -60,50 +90,20 @@
       "description": "The game's official website has been down for hours, leading many to assume the worst....",
       "url": "https://www.gamespot.com/articles/highguard-appears-ready-to-say-bye-guard-players-believe/1100-6538232/",
       "publishedAt": "2026-02-17T22:42:32Z",
-      "processed_at": "2026-02-19T11:38:47.884425+00:00"
+      "processed_at": "2026-02-19T13:10:10.676042+00:00"
     },
     {
-      "title": "Google announces dates for I/O 2026 - The Verge",
+      "title": "Google’s AI search results will make links more obvious - The Verge",
       "source": {
         "name": "The Verge"
       },
-      "description": "Google has announced that I/O 2026 will take place from May 19th to the 20th, where it will show off...",
-      "url": "https://www.theverge.com/tech/880401/google-io-2026-dates-ai",
-      "publishedAt": "2026-02-17T20:56:56Z",
-      "processed_at": "2026-02-19T11:38:47.884425+00:00"
-    },
-    {
-      "title": "iOS 26.4 adds more Sleep and Vitals data to Apple Health - 9to5Mac",
-      "source": {
-        "name": "9to5Mac"
-      },
-      "description": "Apple released iOS 26.4 beta 1 yesterday, and the update includes a variety of changes and new featu...",
-      "url": "https://9to5mac.com/2026/02/17/ios-26-4-adds-more-sleep-and-vitals-data-to-apple-health/",
-      "publishedAt": "2026-02-17T20:24:00Z",
-      "processed_at": "2026-02-19T11:38:47.884425+00:00"
-    },
-    {
-      "title": "Apple is reportedly cooking up a trio of AI wearables - TechCrunch",
-      "source": {
-        "name": "TechCrunch"
-      },
-      "description": "As the AI hardware space heats up, the iPhone maker has multiple smart products in development....",
-      "url": "https://techcrunch.com/2026/02/17/apple-is-reportedly-cooking-up-a-trio-of-ai-wearables/",
-      "publishedAt": "2026-02-17T20:14:00Z",
-      "processed_at": "2026-02-19T11:38:47.884425+00:00"
-    },
-    {
-      "title": "Cyberpunk 2077 is now runs on Snapdragon 8 Gen 5 phone via PC emulation - VideoCardz.com",
-      "source": {
-        "name": "Videocardz.com"
-      },
-      "description": "Cyberpunk 2077 PC emulation on Android shown on Red Magic 11 Pro, 720p results range from high 20s t...",
-      "url": "https://videocardz.com/newz/cyberpunk-2077-is-now-runs-on-snapdragon-8-gen-5-phone-via-pc-emulation",
-      "publishedAt": "2026-02-17T20:09:00Z",
-      "processed_at": "2026-02-19T11:38:47.884425+00:00"
+      "description": "",
+      "url": "https://www.theverge.com/tech/880475/google-ai-overviews-ai-mode-links-update",
+      "publishedAt": "2026-02-17T22:38:24Z",
+      "processed_at": "2026-02-19T13:10:10.676042+00:00"
     }
   ],
-  "lastUpdated": "2026-02-19T11:38:47.884492+00:00",
+  "lastUpdated": "2026-02-19T13:10:10.676116+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
