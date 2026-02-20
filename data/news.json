@@ -1,6 +1,6 @@
 {
   "status": "success",
-  "totalResults": 9,
+  "totalResults": 10,
   "articles": [
     {
       "title": "Missed Potential Or A Campy Classic? Switch 2 Exclusive 'Tokyo Scramble' Hasn't Been A Hit - Nintendo Life",
@@ -10,7 +10,27 @@
       "description": "A dino crisis...",
       "url": "https://www.nintendolife.com/news/2026/02/missed-potential-or-a-campy-classic-switch-2-exclusive-tokyo-scramble-hasnt-been-a-hit",
       "publishedAt": "2026-02-18T22:00:00Z",
-      "processed_at": "2026-02-20T02:20:59.157198+00:00"
+      "processed_at": "2026-02-20T04:47:47.095772+00:00"
+    },
+    {
+      "title": "Another AirPods Pro 3 model is coming, with one rumored upgrade - 9to5Mac",
+      "source": {
+        "name": "9to5Mac"
+      },
+      "description": "AirPods Pro 3 launched just a few months ago, but rumors indicate there’s a second model coming this...",
+      "url": "https://9to5mac.com/2026/02/18/another-airpods-pro-3-model-is-coming-with-one-rumored-upgrade/",
+      "publishedAt": "2026-02-18T21:58:00Z",
+      "processed_at": "2026-02-20T04:47:47.095772+00:00"
+    },
+    {
+      "title": "A startup called Germ becomes the first private messenger that launches directly from Bluesky's app - TechCrunch",
+      "source": {
+        "name": "TechCrunch"
+      },
+      "description": "Social network Bluesky now offers private messaging by integrating the startup Germ's E2E encrypted ...",
+      "url": "https://techcrunch.com/2026/02/18/a-startup-called-germ-becomes-the-first-private-messenger-that-launches-directly-from-blueskys-app/",
+      "publishedAt": "2026-02-18T20:57:48Z",
+      "processed_at": "2026-02-20T04:47:47.095772+00:00"
     },
     {
       "title": "This is when Samsung is restocking the Galaxy Z TriFold in the US - GSMArena.com news - GSMArena.com",
@@ -20,7 +40,7 @@
       "description": "There will probably be limited quantities available again. Samsung's Galaxy Z TriFold launched in th...",
       "url": "https://www.gsmarena.com/this_is_when_samsung_is_restocking_the_galaxy_z_trifold_in_the_us-news-71619.php",
       "publishedAt": "2026-02-18T20:21:02Z",
-      "processed_at": "2026-02-20T02:20:59.157198+00:00"
+      "processed_at": "2026-02-20T04:47:47.095772+00:00"
     },
     {
       "title": "Todd Howard Shuts Down ‘Starfield 2.0’ Claims and Promises More News ‘Soonish’ - Insider Gaming",
@@ -30,7 +50,7 @@
       "description": "Todd Howard of Bethesda Game Studios has shut down claims that Starfield 2.0 is coming soon, but pro...",
       "url": "https://insider-gaming.com/todd-howard-starfield-2-shut-down-and-promises-more-news/",
       "publishedAt": "2026-02-18T20:13:38Z",
-      "processed_at": "2026-02-20T02:20:59.157198+00:00"
+      "processed_at": "2026-02-20T04:47:47.095772+00:00"
     },
     {
       "title": "Elder Scrolls 6 Is Powered By New Version Of Creation Engine - Kotaku",
@@ -40,7 +60,7 @@
       "description": "Todd Howard also says the upcoming RPG is a return to Bethesda's 'classic' RPG formula...",
       "url": "https://kotaku.com/elder-scrolls-6-is-powered-by-new-version-of-creation-engine-starfield-classic-rpg-2000670744",
       "publishedAt": "2026-02-18T19:49:59Z",
-      "processed_at": "2026-02-20T02:20:59.157198+00:00"
+      "processed_at": "2026-02-20T04:47:47.095772+00:00"
     },
     {
       "title": "5 changes to know about in Apple’s latest iOS, macOS, and iPadOS betas - Ars Technica",
@@ -50,7 +70,7 @@
       "description": "The 26.3 updates were mostly invisible; these changes are more significant....",
       "url": "https://arstechnica.com/gadgets/2026/02/5-changes-to-know-about-in-apples-latest-ios-macos-and-ipados-betas/",
       "publishedAt": "2026-02-18T19:28:26Z",
-      "processed_at": "2026-02-20T02:20:59.157198+00:00"
+      "processed_at": "2026-02-20T04:47:47.095772+00:00"
     },
     {
       "title": "Sony Could Offset Rising RAM Costs By \"Monetizing\" The PS5 Install Base - GameSpot",
@@ -60,7 +80,7 @@
       "description": "The company's CFO said it plans to grow its \"software and network services revenue.\"...",
       "url": "https://www.gamespot.com/articles/sony-could-offset-rising-ram-costs-by-monetizing-the-ps5-install-base/1100-6538266/",
       "publishedAt": "2026-02-18T19:15:05Z",
-      "processed_at": "2026-02-20T02:20:59.157198+00:00"
+      "processed_at": "2026-02-20T04:47:47.095772+00:00"
     },
     {
       "title": "Minecraft 26.1 Snapshot 9 - Minecraft",
@@ -70,7 +90,7 @@
       "description": "Minecraft 26.1 Snapshot 9...",
       "url": "https://www.minecraft.net/en-us/article/minecraft-26-1-snapshot-9",
       "publishedAt": "2026-02-18T18:21:48Z",
-      "processed_at": "2026-02-20T02:20:59.157198+00:00"
+      "processed_at": "2026-02-20T04:47:47.095772+00:00"
     },
     {
       "title": "Microsoft is bringing a built-in network speed test to Windows 11 - The Verge",
@@ -80,20 +100,10 @@
       "description": "Microsoft is testing a Windows 11 update that adds a network speed test tool to the taskbar....",
       "url": "https://www.theverge.com/tech/880756/windows-11-speed-test-build-in-update-preview",
       "publishedAt": "2026-02-18T18:09:03Z",
-      "processed_at": "2026-02-20T02:20:59.157198+00:00"
-    },
-    {
-      "title": "The Metal Gear Solid 4 Remaster Can Finally Deliver On The Promise Of Its Earliest PS3 Demo - Digital Foundry",
-      "source": {
-        "name": "Digitalfoundry.net"
-      },
-      "description": "60fps will be a game-changer....",
-      "url": "https://www.digitalfoundry.net/news/2026/02/the-metal-gear-solid-4-remaster-can-finally-deliver-on-the-promise-of-its-earliest-ps3-demo",
-      "publishedAt": "2026-02-18T17:00:00Z",
-      "processed_at": "2026-02-20T02:20:59.157198+00:00"
+      "processed_at": "2026-02-20T04:47:47.095772+00:00"
     }
   ],
-  "lastUpdated": "2026-02-20T02:20:59.157267+00:00",
+  "lastUpdated": "2026-02-20T04:47:47.095847+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
