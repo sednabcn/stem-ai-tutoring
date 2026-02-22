@@ -1,16 +1,16 @@
 {
   "status": "success",
-  "totalResults": 9,
+  "totalResults": 10,
   "articles": [
     {
-      "title": "Google Weather for Android is finally saying goodbye - Android Police",
+      "title": "Anker’s X1 Pro shouldn’t exist, but I’m so glad it does - The Verge",
       "source": {
-        "name": "Android Police"
+        "name": "The Verge"
       },
-      "description": "Not what we like to see...",
-      "url": "https://www.androidpolice.com/google-weather-app-for-android-on-its-way-out/",
-      "publishedAt": "2026-02-21T02:23:00Z",
-      "processed_at": "2026-02-22T10:27:33.692540+00:00"
+      "description": "Anker’s Soundcore Nebula X1 Pro is a 400W Dolby Atmos party speaker combined with a very bright 4K, ...",
+      "url": "https://www.theverge.com/tech/881788/soundcore-nebula-x1-pro-review-comparison-x1",
+      "publishedAt": "2026-02-21T08:00:00Z",
+      "processed_at": "2026-02-22T11:23:25.826008+00:00"
     },
     {
       "title": "Why There's Simply No Need For A Password Manager Anymore - bgr.com",
@@ -20,7 +20,17 @@
       "description": "With OS-level password managers, passkeys, and biometric authentication technology, there's no longe...",
       "url": "https://www.bgr.com/2102887/why-no-one-needs-password-managers-anymore/",
       "publishedAt": "2026-02-21T01:17:00Z",
-      "processed_at": "2026-02-22T10:27:33.692540+00:00"
+      "processed_at": "2026-02-22T11:23:25.826008+00:00"
+    },
+    {
+      "title": "Microsoft gaming chief Phil Spencer steps down after 38 years with company - Ars Technica",
+      "source": {
+        "name": "Ars Technica"
+      },
+      "description": "Microsoft CoreAI exec Asha Sharma will take over in surprise executive shake-up....",
+      "url": "https://arstechnica.com/gaming/2026/02/microsoft-gaming-chief-phil-spencer-steps-down-after-38-years-with-company/",
+      "publishedAt": "2026-02-20T23:28:21Z",
+      "processed_at": "2026-02-22T11:23:25.826008+00:00"
     },
     {
       "title": "Fury over Discord’s age checks explodes after shady Persona test in UK - Ars Technica",
@@ -30,7 +40,7 @@
       "description": "Persona confirmed all age-check data from Discord's UK test was deleted....",
       "url": "https://arstechnica.com/tech-policy/2026/02/discord-and-persona-end-partnership-after-shady-uk-age-test-sparks-outcry/",
       "publishedAt": "2026-02-20T22:41:02Z",
-      "processed_at": "2026-02-22T10:27:33.692540+00:00"
+      "processed_at": "2026-02-22T11:23:25.826008+00:00"
     },
     {
       "title": "Apple's Low-Cost Colorful MacBook: All the Rumors - MacRumors",
@@ -40,17 +50,17 @@
       "description": "Apple has been developing a more affordable version of the MacBook, and it's rumored to be launching...",
       "url": "https://www.macrumors.com/2026/02/20/low-cost-macbook-latest-rumors/",
       "publishedAt": "2026-02-20T22:37:39Z",
-      "processed_at": "2026-02-22T10:27:33.692540+00:00"
+      "processed_at": "2026-02-22T11:23:25.826008+00:00"
     },
     {
-      "title": "NieR:Automata \"To Be Continued\" As Sales Hit Another Milestone - Nintendo Life",
+      "title": "Android malware is now using Gemini AI to adapt in real time (Updated: Google statement) - Android Authority",
       "source": {
-        "name": "Nintendo Life"
+        "name": "Android Authority"
       },
-      "description": "10,000,000.0000000 (and counting)...",
-      "url": "https://www.nintendolife.com/news/2026/02/nierautomata-to-be-continued-as-sales-hit-another-milestone",
-      "publishedAt": "2026-02-20T22:15:00Z",
-      "processed_at": "2026-02-22T10:27:33.692540+00:00"
+      "description": "Researchers say PromptSpy is the first Android malware to use generative AI during execution, queryi...",
+      "url": "https://www.androidauthority.com/android-malware-promptspy-uses-generative-ai-gemini-3642832/",
+      "publishedAt": "2026-02-20T22:12:00Z",
+      "processed_at": "2026-02-22T11:23:25.826008+00:00"
     },
     {
       "title": "We asked what AI chatbot you prefer to use, and the top answer may surprise you - Android Central",
@@ -60,7 +70,7 @@
       "description": "Neither Gemini nor ChatGPT is the top choice for preferred AI chatbot in our latest poll....",
       "url": "https://www.androidcentral.com/apps-software/ai/poll-results-what-ai-chatbot-you-prefer-to-use-the-top-answer-may-surprise-you",
       "publishedAt": "2026-02-20T21:47:18Z",
-      "processed_at": "2026-02-22T10:27:33.692540+00:00"
+      "processed_at": "2026-02-22T11:23:25.826008+00:00"
     },
     {
       "title": "Xbox Drops 5 Limited-Time Free Games, Includes 2025 AAA Hit - GAMINGbible",
@@ -70,17 +80,7 @@
       "description": "Microsoft has launched the latest Free Play Days event on Xbox, dropping 5 free games with the line-...",
       "url": "https://www.gamingbible.com/news/platform/xbox/xbox-5-limited-time-free-games-2025-aaa-675151-20260220",
       "publishedAt": "2026-02-20T21:04:13Z",
-      "processed_at": "2026-02-22T10:27:33.692540+00:00"
-    },
-    {
-      "title": "Scientists May Have Found The Key Cellular Process Behind Aging in Animals - ScienceAlert",
-      "source": {
-        "name": "ScienceAlert"
-      },
-      "description": "A study on worms led by researchers from Vanderbilt University School of Medicine in the US has unco...",
-      "url": "https://www.sciencealert.com/scientists-may-have-found-the-key-cellular-process-behind-aging-in-animals",
-      "publishedAt": "2026-02-20T21:01:42Z",
-      "processed_at": "2026-02-22T10:27:33.692540+00:00"
+      "processed_at": "2026-02-22T11:23:25.826008+00:00"
     },
     {
       "title": "The Best New Gadgets and Hi-Fi Releases of 2026 (Updated) - Gear Patrol",
@@ -90,10 +90,20 @@
       "description": "The best tech products announced this week include Sony's new flagship wireless earbuds and JBL's au...",
       "url": "https://www.gearpatrol.com/audio/best-tech-audio-hi-fi-releases-2026-february-week-3/",
       "publishedAt": "2026-02-20T19:03:48Z",
-      "processed_at": "2026-02-22T10:27:33.692540+00:00"
+      "processed_at": "2026-02-22T11:23:25.826008+00:00"
+    },
+    {
+      "title": "As Google Home Speaker reboot nears, OpenAI reportedly launching smart speaker with camera - 9to5Google",
+      "source": {
+        "name": "9to5google.com"
+      },
+      "description": "OpenAI is apparently working on a new smart speaker due to launch in 2027, according to a new report...",
+      "url": "http://9to5google.com/2026/02/20/openai-smart-speaker-camera-report/",
+      "publishedAt": "2026-02-20T18:45:00Z",
+      "processed_at": "2026-02-22T11:23:25.826008+00:00"
     }
   ],
-  "lastUpdated": "2026-02-22T10:27:33.692608+00:00",
+  "lastUpdated": "2026-02-22T11:23:25.826077+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
