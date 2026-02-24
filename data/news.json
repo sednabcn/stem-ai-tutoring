@@ -1,16 +1,36 @@
 {
   "status": "success",
-  "totalResults": 10,
+  "totalResults": 9,
   "articles": [
     {
-      "title": "New Microsoft gaming chief has \"no tolerance for bad AI\" - Ars Technica",
+      "title": "Billions of dollars later and still nobody knows what an Xbox is - The Verge",
       "source": {
-        "name": "Ars Technica"
+        "name": "The Verge"
       },
-      "description": "But Asha Sharma faces scrutiny for lack of gaming experience....",
-      "url": "https://arstechnica.com/gaming/2026/02/new-microsoft-gaming-chief-has-no-tolerance-for-bad-ai/",
-      "publishedAt": "2026-02-23T17:45:29Z",
-      "processed_at": "2026-02-24T20:38:20.172790+00:00"
+      "description": "With leadership changes at Xbox, including the retirement of Phil Spencer, it’s unclear where Micros...",
+      "url": "https://www.theverge.com/games/883159/phil-spencer-xbox-game-pass",
+      "publishedAt": "2026-02-23T20:30:42Z",
+      "processed_at": "2026-02-24T21:36:52.898372+00:00"
+    },
+    {
+      "title": "Amazon shutting down another online-only game and refunding Xbox players - TrueAchievements",
+      "source": {
+        "name": "TrueAchievements"
+      },
+      "description": "Amazon Games and Glowmade are shutting down the King of Meat servers soon, which will discontinue al...",
+      "url": "https://www.trueachievements.com/news/king-of-meat-servers",
+      "publishedAt": "2026-02-23T20:21:16Z",
+      "processed_at": "2026-02-24T21:36:52.898372+00:00"
+    },
+    {
+      "title": "Indie Games Yeet Themselves Out Of Slay The Spire 2's Way - Kotaku",
+      "source": {
+        "name": "Kotaku"
+      },
+      "description": "No one wants to be in the deckbuilding roguelike juggernaut's way on Steam...",
+      "url": "https://kotaku.com/slay-spire-2-steam-roguelike-delay-2000672790",
+      "publishedAt": "2026-02-23T19:00:28Z",
+      "processed_at": "2026-02-24T21:36:52.898372+00:00"
     },
     {
       "title": "The creators of Dark Sky have a new weather app that shares multiple predictions - The Verge",
@@ -20,17 +40,17 @@
       "description": "The creators of Dark Sky have released Acme Weather for iOS, a new weather app that provides alterna...",
       "url": "https://www.theverge.com/tech/883089/acme-weather-forecast-app-ios-dark-sky-creators-subscription",
       "publishedAt": "2026-02-23T17:31:17Z",
-      "processed_at": "2026-02-24T20:38:20.172790+00:00"
+      "processed_at": "2026-02-24T21:36:52.898372+00:00"
     },
     {
-      "title": "Ubisoft Taps 3 Assassin's Creed Black Flag Vets To Lead Franchise - Kotaku",
+      "title": "iPhone 18 Pro to Revive Feature Samsung Dropped Years Ago - MacRumors",
       "source": {
-        "name": "Kotaku"
+        "name": "MacRumors"
       },
-      "description": "Ubisoft has picked three developers with a long history on Assassin's Creed to lead its future at Va...",
-      "url": "https://kotaku.com/assassins-creed-black-flag-vets-leading-frnachise-series-vantage-new-games-2000672792",
-      "publishedAt": "2026-02-23T17:07:52Z",
-      "processed_at": "2026-02-24T20:38:20.172790+00:00"
+      "description": "Apple's iPhone 18 Pro and iPhone 18 Pro Max are expected to resurrect a major feature Samsung's flag...",
+      "url": "https://www.macrumors.com/2026/02/23/iphone-18-pro-feature-samsung-dropped/",
+      "publishedAt": "2026-02-23T17:16:32Z",
+      "processed_at": "2026-02-24T21:36:52.898372+00:00"
     },
     {
       "title": "Fans Are Asking Nintendo To Refund Xenoblade Chronicles X's Switch 2 Upgrade - Nintendo Life",
@@ -40,7 +60,17 @@
       "description": "Potential upscaling issues are being called out...",
       "url": "https://www.nintendolife.com/news/2026/02/fans-are-asking-nintendo-to-refund-xenoblade-chronicles-xs-switch-2-upgrade",
       "publishedAt": "2026-02-23T17:00:00Z",
-      "processed_at": "2026-02-24T20:38:20.172790+00:00"
+      "processed_at": "2026-02-24T21:36:52.898372+00:00"
+    },
+    {
+      "title": "Pokémon FireRed And LeafGreen Are Topping The eShop Charts Despite Price Backlash - Kotaku",
+      "source": {
+        "name": "Kotaku"
+      },
+      "description": "The Switch ports of the GBA games have people debating game prices again...",
+      "url": "https://kotaku.com/pokemon-firered-leafgreen-switch-price-release-date-2000672803",
+      "publishedAt": "2026-02-23T16:59:11Z",
+      "processed_at": "2026-02-24T21:36:52.898372+00:00"
     },
     {
       "title": "First PS Plus Essential Game for March 2026 Leaked Early - Push Square",
@@ -50,7 +80,7 @@
       "description": "Forward, March...",
       "url": "https://www.pushsquare.com/news/2026/02/first-ps-plus-essential-game-for-march-2026-leaked-early",
       "publishedAt": "2026-02-23T16:39:30Z",
-      "processed_at": "2026-02-24T20:38:20.172790+00:00"
+      "processed_at": "2026-02-24T21:36:52.898372+00:00"
     },
     {
       "title": "PlayStation is Having a Big Sale on PS5 Games, Accessories and More at PS Direct This Week - IGN",
@@ -60,50 +90,10 @@
       "description": "You can currently save on PS5 games, accessories, and more in a brand new promotional sale at PS Dir...",
       "url": "https://www.ign.com/articles/playstation-launches-a-brand-new-promotional-sale-on-ps5-games-accessories-and-more",
       "publishedAt": "2026-02-23T16:32:12Z",
-      "processed_at": "2026-02-24T20:38:20.172790+00:00"
-    },
-    {
-      "title": "\"Game preservation only works if people care\" As GOG doubles down on its commitment to saving old games, it's asking players \"who give a s**t\" to support its crusade - Eurogamer",
-      "source": {
-        "name": "Eurogamer.net"
-      },
-      "description": "Digital game distribution and preservation platform GOG is asking players for support going into the...",
-      "url": "https://www.eurogamer.net/gog-asks-for-support-regarding-game-preservation-efforts",
-      "publishedAt": "2026-02-23T16:08:11Z",
-      "processed_at": "2026-02-24T20:38:20.172790+00:00"
-    },
-    {
-      "title": "Celebrating 8 years of Hunt! - huntshowdown.com",
-      "source": {
-        "name": "Huntshowdown.com"
-      },
-      "description": "Hunt: Showdown is a competitive first-person PvP bounty hunting game with heavy PvE elements. Set in...",
-      "url": "https://www.huntshowdown.com/detailed",
-      "publishedAt": "2026-02-23T16:07:31Z",
-      "processed_at": "2026-02-24T20:38:20.172790+00:00"
-    },
-    {
-      "title": "Meta Director of AI Safety Allows AI Agent to Accidentally Delete Her Inbox - 404 Media",
-      "source": {
-        "name": "404media.co"
-      },
-      "description": "Meta Superintelligence Labs’ director of alignment called it a “rookie mistake.”...",
-      "url": "https://www.404media.co/meta-director-of-ai-safety-allows-ai-agent-to-accidentally-delete-her-inbox/",
-      "publishedAt": "2026-02-23T15:24:12Z",
-      "processed_at": "2026-02-24T20:38:20.172790+00:00"
-    },
-    {
-      "title": "Nacon Connect 2026 set for March 4 - Gematsu",
-      "source": {
-        "name": "Gematsu"
-      },
-      "description": "Nacon will host Nacon Connect 2026 on March 4 at 11:00 a.m. PT / 2:00 p.m. ET, the company announced...",
-      "url": "https://www.gematsu.com/2026/02/nacon-connect-2026-set-for-march-4",
-      "publishedAt": "2026-02-23T15:12:50Z",
-      "processed_at": "2026-02-24T20:38:20.172790+00:00"
+      "processed_at": "2026-02-24T21:36:52.898372+00:00"
     }
   ],
-  "lastUpdated": "2026-02-24T20:38:20.172858+00:00",
+  "lastUpdated": "2026-02-24T21:36:52.898440+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
