@@ -1,16 +1,36 @@
 {
   "status": "success",
-  "totalResults": 9,
+  "totalResults": 10,
   "articles": [
     {
-      "title": "Billions of dollars later and still nobody knows what an Xbox is - The Verge",
+      "title": "Lego’s Smart Play Bricks Sound Awful - Gizmodo",
       "source": {
-        "name": "The Verge"
+        "name": "Gizmodo.com"
       },
-      "description": "With leadership changes at Xbox, including the retirement of Phil Spencer, it’s unclear where Micros...",
-      "url": "https://www.theverge.com/games/883159/phil-spencer-xbox-game-pass",
-      "publishedAt": "2026-02-23T20:30:42Z",
-      "processed_at": "2026-02-24T23:34:03.076095+00:00"
+      "description": "Lego's controversial wave of tech-enhanced 'Star Wars' sets are getting into people's hands, and sho...",
+      "url": "https://gizmodo.com/legos-smart-play-bricks-sound-awful-2000725514",
+      "publishedAt": "2026-02-23T23:00:01Z",
+      "processed_at": "2026-02-25T02:24:01.887113+00:00"
+    },
+    {
+      "title": "Another first-party Nintendo Switch games sale has gone live - Nintendo Everything",
+      "source": {
+        "name": "Nintendoeverything.com"
+      },
+      "description": "Another new first-party Nintendo Switch game sale is happening, including Super Mario Odyssey, Donke...",
+      "url": "https://nintendoeverything.com/another-first-party-nintendo-switch-games-sale-has-gone-live/",
+      "publishedAt": "2026-02-23T22:04:10Z",
+      "processed_at": "2026-02-25T02:24:01.887113+00:00"
+    },
+    {
+      "title": "Ex-Apple team launches Acme Weather, a new take on weather forecasting - TechCrunch",
+      "source": {
+        "name": "TechCrunch"
+      },
+      "description": "The team that sold their last app Dark Sky to Apple are back with Acme Weather, which offers alterna...",
+      "url": "https://techcrunch.com/2026/02/23/ex-apple-team-launches-acme-weather-a-new-take-on-weather-forecasting/",
+      "publishedAt": "2026-02-23T20:35:06Z",
+      "processed_at": "2026-02-25T02:24:01.887113+00:00"
     },
     {
       "title": "Amazon shutting down another online-only game and refunding Xbox players - TrueAchievements",
@@ -20,7 +40,57 @@
       "description": "Amazon Games and Glowmade are shutting down the King of Meat servers soon, which will discontinue al...",
       "url": "https://www.trueachievements.com/news/king-of-meat-servers",
       "publishedAt": "2026-02-23T20:21:16Z",
-      "processed_at": "2026-02-24T23:34:03.076095+00:00"
+      "processed_at": "2026-02-25T02:24:01.887113+00:00"
+    },
+    {
+      "title": "Adidas’ Go-Anywhere, Do-It-All Adventure Sneaker Is So Much More than a Hiking Shoe - Gear Patrol",
+      "source": {
+        "name": "Gear Patrol"
+      },
+      "description": "The brand's outdoor performance footwear offshoot revamps one of its best all-around shoes and intro...",
+      "url": "https://www.gearpatrol.com/outdoors/adidas-five-ten-guide-tennie-pro/",
+      "publishedAt": "2026-02-23T20:00:35Z",
+      "processed_at": "2026-02-25T02:24:01.887113+00:00"
+    },
+    {
+      "title": "Meta AI alignment director shares her OpenClaw email-deletion nightmare: 'I had to RUN to my Mac mini' - Business Insider",
+      "source": {
+        "name": "Business Insider"
+      },
+      "description": "Meta alignment director Summer Yue hooked OpenClaw up to her inbox. Then, the bot tried to delete he...",
+      "url": "https://www.businessinsider.com/meta-ai-alignment-director-openclaw-email-deletion-2026-2",
+      "publishedAt": "2026-02-23T19:56:00Z",
+      "processed_at": "2026-02-25T02:24:01.887113+00:00"
+    },
+    {
+      "title": "5 Home Security Cameras To Avoid At All Costs, According To Consumer Reports - bgr.com",
+      "source": {
+        "name": "BGR"
+      },
+      "description": "These are five home security cameras that Consumer Reports suggests avoiding....",
+      "url": "https://www.bgr.com/2104009/home-secruity-cameras-avoid-according-to-consumer-reports/",
+      "publishedAt": "2026-02-23T19:47:00Z",
+      "processed_at": "2026-02-25T02:24:01.887113+00:00"
+    },
+    {
+      "title": "Poll: What Review Score Would You Give Yakuza Kiwami 3 & Dark Ties? - Push Square",
+      "source": {
+        "name": "Push Square"
+      },
+      "description": "Extreme takes...",
+      "url": "https://www.pushsquare.com/features/poll-what-review-score-would-you-give-yakuza-kiwami-3-and-dark-ties",
+      "publishedAt": "2026-02-23T19:44:36Z",
+      "processed_at": "2026-02-25T02:24:01.887113+00:00"
+    },
+    {
+      "title": "Gemini app adds video templates to quick start generation - 9to5Google",
+      "source": {
+        "name": "9to5google.com"
+      },
+      "description": "Following music generation last week, the Gemini app is upgrading video generation with templates to...",
+      "url": "http://9to5google.com/2026/02/23/gemini-video-templates/",
+      "publishedAt": "2026-02-23T19:18:00Z",
+      "processed_at": "2026-02-25T02:24:01.887113+00:00"
     },
     {
       "title": "Indie Games Yeet Themselves Out Of Slay The Spire 2's Way - Kotaku",
@@ -30,70 +100,10 @@
       "description": "No one wants to be in the deckbuilding roguelike juggernaut's way on Steam...",
       "url": "https://kotaku.com/slay-spire-2-steam-roguelike-delay-2000672790",
       "publishedAt": "2026-02-23T19:00:28Z",
-      "processed_at": "2026-02-24T23:34:03.076095+00:00"
-    },
-    {
-      "title": "The creators of Dark Sky have a new weather app that shares multiple predictions - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "The creators of Dark Sky have released Acme Weather for iOS, a new weather app that provides alterna...",
-      "url": "https://www.theverge.com/tech/883089/acme-weather-forecast-app-ios-dark-sky-creators-subscription",
-      "publishedAt": "2026-02-23T17:31:17Z",
-      "processed_at": "2026-02-24T23:34:03.076095+00:00"
-    },
-    {
-      "title": "iPhone 18 Pro to Revive Feature Samsung Dropped Years Ago - MacRumors",
-      "source": {
-        "name": "MacRumors"
-      },
-      "description": "Apple's iPhone 18 Pro and iPhone 18 Pro Max are expected to resurrect a major feature Samsung's flag...",
-      "url": "https://www.macrumors.com/2026/02/23/iphone-18-pro-feature-samsung-dropped/",
-      "publishedAt": "2026-02-23T17:16:32Z",
-      "processed_at": "2026-02-24T23:34:03.076095+00:00"
-    },
-    {
-      "title": "Fans Are Asking Nintendo To Refund Xenoblade Chronicles X's Switch 2 Upgrade - Nintendo Life",
-      "source": {
-        "name": "Nintendo Life"
-      },
-      "description": "Potential upscaling issues are being called out...",
-      "url": "https://www.nintendolife.com/news/2026/02/fans-are-asking-nintendo-to-refund-xenoblade-chronicles-xs-switch-2-upgrade",
-      "publishedAt": "2026-02-23T17:00:00Z",
-      "processed_at": "2026-02-24T23:34:03.076095+00:00"
-    },
-    {
-      "title": "Pokémon FireRed And LeafGreen Are Topping The eShop Charts Despite Price Backlash - Kotaku",
-      "source": {
-        "name": "Kotaku"
-      },
-      "description": "The Switch ports of the GBA games have people debating game prices again...",
-      "url": "https://kotaku.com/pokemon-firered-leafgreen-switch-price-release-date-2000672803",
-      "publishedAt": "2026-02-23T16:59:11Z",
-      "processed_at": "2026-02-24T23:34:03.076095+00:00"
-    },
-    {
-      "title": "First PS Plus Essential Game for March 2026 Leaked Early - Push Square",
-      "source": {
-        "name": "Push Square"
-      },
-      "description": "Forward, March...",
-      "url": "https://www.pushsquare.com/news/2026/02/first-ps-plus-essential-game-for-march-2026-leaked-early",
-      "publishedAt": "2026-02-23T16:39:30Z",
-      "processed_at": "2026-02-24T23:34:03.076095+00:00"
-    },
-    {
-      "title": "PlayStation is Having a Big Sale on PS5 Games, Accessories and More at PS Direct This Week - IGN",
-      "source": {
-        "name": "IGN"
-      },
-      "description": "You can currently save on PS5 games, accessories, and more in a brand new promotional sale at PS Dir...",
-      "url": "https://www.ign.com/articles/playstation-launches-a-brand-new-promotional-sale-on-ps5-games-accessories-and-more",
-      "publishedAt": "2026-02-23T16:32:12Z",
-      "processed_at": "2026-02-24T23:34:03.076095+00:00"
+      "processed_at": "2026-02-25T02:24:01.887113+00:00"
     }
   ],
-  "lastUpdated": "2026-02-24T23:34:03.076163+00:00",
+  "lastUpdated": "2026-02-25T02:24:01.887184+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
