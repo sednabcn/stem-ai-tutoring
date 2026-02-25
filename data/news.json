@@ -3,6 +3,26 @@
   "totalResults": 10,
   "articles": [
     {
+      "title": "First look: Google Messages is finally catching up with live location sharing - Android Authority",
+      "source": {
+        "name": "Android Authority"
+      },
+      "description": "Here's your first look at how the upcoming \"Real-time Location\" sharing feature will work in Google ...",
+      "url": "https://www.androidauthority.com/google-messages-real-time-location-sharing-3643366/",
+      "publishedAt": "2026-02-24T04:19:09Z",
+      "processed_at": "2026-02-25T09:56:38.033357+00:00"
+    },
+    {
+      "title": "The Galaxy S26 series may already be behind Pixel phones in one big way - Android Authority",
+      "source": {
+        "name": "Android Authority"
+      },
+      "description": "Logs posted by a Google employee confirm the Galaxy S26 Ultra does not support powered-off tracking ...",
+      "url": "https://www.androidauthority.com/galaxy-s26-find-offline-3643363/",
+      "publishedAt": "2026-02-24T03:19:28Z",
+      "processed_at": "2026-02-25T09:56:38.033357+00:00"
+    },
+    {
       "title": "Google touts ‘Pixel Colors Through the Years’ – here’s a look back [Gallery] - 9to5Google",
       "source": {
         "name": "9to5google.com"
@@ -10,27 +30,7 @@
       "description": "Before the next cycle begins, Google posted a fun “Pixel Colors Through the Years” infographic today...",
       "url": "http://9to5google.com/2026/02/23/pixel-all-colors-10/",
       "publishedAt": "2026-02-24T01:17:00Z",
-      "processed_at": "2026-02-25T08:52:37.081361+00:00"
-    },
-    {
-      "title": "A Meta AI security researcher said an OpenClaw agent ran amok on her inbox - TechCrunch",
-      "source": {
-        "name": "TechCrunch"
-      },
-      "description": "The viral X post from an AI security researcher reads like satire. But it's really a word of warning...",
-      "url": "https://techcrunch.com/2026/02/23/a-meta-ai-security-researcher-said-an-openclaw-agent-ran-amok-on-her-inbox/",
-      "publishedAt": "2026-02-24T00:57:14Z",
-      "processed_at": "2026-02-25T08:52:37.081361+00:00"
-    },
-    {
-      "title": "Apple’s new ‘Sales Coach’ app is now live on the App Store, replacing ‘SEED’ - 9to5Mac",
-      "source": {
-        "name": "9to5Mac"
-      },
-      "description": "Following last week’s report that Apple was preparing to replace its “SEED” app with “Sales Coach,” ...",
-      "url": "https://9to5mac.com/2026/02/23/apples-new-sales-coach-app-is-now-live-on-the-app-store-replacing-seed/",
-      "publishedAt": "2026-02-24T00:24:00Z",
-      "processed_at": "2026-02-25T08:52:37.081361+00:00"
+      "processed_at": "2026-02-25T09:56:38.033357+00:00"
     },
     {
       "title": "What to Expect From the iPhone 17e Launching in March 2026 - MacRumors",
@@ -40,27 +40,37 @@
       "description": "We've got just over a week to go until Apple's \"Special Experience\" on March 4, and we're expecting ...",
       "url": "https://www.macrumors.com/2026/02/23/iphone-17e-latest-rumors/",
       "publishedAt": "2026-02-24T00:11:45Z",
-      "processed_at": "2026-02-25T08:52:37.081361+00:00"
+      "processed_at": "2026-02-25T09:56:38.033357+00:00"
     },
     {
       "title": "Xbox sale round-up February 24, 2026 - TrueAchievements",
       "source": {
         "name": "TrueAchievements"
       },
-      "description": "",
+      "description": "New Xbox sales are now live, with big discounts on Atomic Heart, Dead Island 2, Saints Row IV: Re-El...",
       "url": "https://www.trueachievements.com/n61632/xbox-sale-roundup-february-24-2026",
       "publishedAt": "2026-02-24T00:09:05Z",
-      "processed_at": "2026-02-25T08:52:37.081361+00:00"
+      "processed_at": "2026-02-25T09:56:38.033357+00:00"
     },
     {
-      "title": "Ferrari's Newest Sports Car Could Get A Convertible Option Soon - Motor1.com",
+      "title": "Entry-Level Ferrari Ready To Lose Its Head Soon Enough - Carscoops",
       "source": {
-        "name": "Motor1 "
+        "name": "CarScoops"
       },
-      "description": "Ferrari could launch an Amalfi Spider convertible early next month. Here are the details that we kno...",
-      "url": "https://www.motor1.com/news/787909/ferrari-amalfi-spider-convertible-debut-soon/",
-      "publishedAt": "2026-02-23T23:54:15Z",
-      "processed_at": "2026-02-25T08:52:37.081361+00:00"
+      "description": "Prices for the Ferrari Amalfi Spider will likely start at around $270,000, if not a little more...",
+      "url": "https://www.carscoops.com/2026/02/entry-level-ferrari-ready-to-lose-its-head-soon-enough/",
+      "publishedAt": "2026-02-23T23:54:35Z",
+      "processed_at": "2026-02-25T09:56:38.033357+00:00"
+    },
+    {
+      "title": "Apple Launches New 'Sales Coach' App - MacRumors",
+      "source": {
+        "name": "MacRumors"
+      },
+      "description": "Apple today debuted a new Sales Coach app for the iPhone and the iPad, replacing the former SEED app...",
+      "url": "https://www.macrumors.com/2026/02/23/apple-launches-new-sales-coach-app/",
+      "publishedAt": "2026-02-23T23:45:50Z",
+      "processed_at": "2026-02-25T09:56:38.033357+00:00"
     },
     {
       "title": "Lego’s Smart Play Bricks Sound Awful - Gizmodo",
@@ -70,7 +80,7 @@
       "description": "Lego's controversial wave of tech-enhanced 'Star Wars' sets are getting into people's hands, and sho...",
       "url": "https://gizmodo.com/legos-smart-play-bricks-sound-awful-2000725514",
       "publishedAt": "2026-02-23T23:00:01Z",
-      "processed_at": "2026-02-25T08:52:37.081361+00:00"
+      "processed_at": "2026-02-25T09:56:38.033357+00:00"
     },
     {
       "title": "Neopets TTRPG Playtest Material Pulled for Controversial Material - TechRaptor",
@@ -80,30 +90,20 @@
       "description": "The owners of the Neopets franchise recently pulled Neopets TTRPG playtest material due to it contai...",
       "url": "https://techraptor.net/tabletop/news/neopets-ttrpg-playtest-material-pulled-for-controversial-material",
       "publishedAt": "2026-02-23T22:51:08Z",
-      "processed_at": "2026-02-25T08:52:37.081361+00:00"
+      "processed_at": "2026-02-25T09:56:38.033357+00:00"
     },
     {
-      "title": "Another first-party Nintendo Switch games sale has gone live - Nintendo Everything",
+      "title": "Twisting optical fiber creates a robust new pathway for light - Phys.org",
       "source": {
-        "name": "Nintendoeverything.com"
+        "name": "Phys.Org"
       },
-      "description": "Another new first-party Nintendo Switch game sale is happening, including Super Mario Odyssey, Donke...",
-      "url": "https://nintendoeverything.com/another-first-party-nintendo-switch-games-sale-has-gone-live/",
-      "publishedAt": "2026-02-23T22:04:10Z",
-      "processed_at": "2026-02-25T08:52:37.081361+00:00"
-    },
-    {
-      "title": "AirPods as Apple’s first AI wearable product makes so much sense - 9to5Mac",
-      "source": {
-        "name": "Google News"
-      },
-      "description": "",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOUHNkZUNjV2dMSFpwMkNrM2ZYdjVqdTdZcm45bEVVenRhaDBFQ1RqR3ZIazZsSUFsZnJjQ1lKRVpxSXFBSE1JS1V6ZjZ5SGtyLU9Ia2E0ZnFyMnJ2NDhSVVdDNjF3eWc2MEVpay1RZ1hobmRTTHg0UVY5emNWVko3ZVVhRW9LS1dtY05BNmx3NFl4NGhLWnp2WlhnWQ?oc=5",
-      "publishedAt": "2026-02-23T21:47:00Z",
-      "processed_at": "2026-02-25T08:52:37.081361+00:00"
+      "description": "Light powers everything from communications to sensing, yet even tiny imperfections can scatter it a...",
+      "url": "https://phys.org/news/2026-02-optical-fiber-robust-pathway.html",
+      "publishedAt": "2026-02-23T22:20:35Z",
+      "processed_at": "2026-02-25T09:56:38.033357+00:00"
     }
   ],
-  "lastUpdated": "2026-02-25T08:52:37.081440+00:00",
+  "lastUpdated": "2026-02-25T09:56:38.033429+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
