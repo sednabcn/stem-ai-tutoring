@@ -3,6 +3,16 @@
   "totalResults": 10,
   "articles": [
     {
+      "title": "Everything announced at Samsung Unpacked 2026: Galaxy S26 Ultra, Privacy Display, Buds 4 Pro - ZDNET",
+      "source": {
+        "name": "ZDNet"
+      },
+      "description": "From the Galaxy S26 phones to new earbuds and agentic AI, here's everything unveiled at Samsung Unpa...",
+      "url": "https://www.zdnet.com/article/everything-announced-at-samsung-unpacked-2026/",
+      "publishedAt": "2026-02-27T11:48:00Z",
+      "processed_at": "2026-02-28T11:21:16.014011+00:00"
+    },
+    {
       "title": "Resident Evil Requiem Day One Patch And amiibo Release Date Confirmed - Nintendo Life",
       "source": {
         "name": "Nintendo Life"
@@ -10,7 +20,7 @@
       "description": "The new amiibo launch later this year...",
       "url": "https://www.nintendolife.com/news/2026/02/resident-evil-requiem-day-one-patch-and-amiibo-release-date-confirmed",
       "publishedAt": "2026-02-27T05:05:47Z",
-      "processed_at": "2026-02-28T10:25:58.251159+00:00"
+      "processed_at": "2026-02-28T11:21:16.014011+00:00"
     },
     {
       "title": "Pokemon Presents live stream for Pokemon Day 2026 - Nintendo Everything",
@@ -20,7 +30,7 @@
       "description": "Pokemon Presents live stream for Pokemon Day 2026 is available now - tune in for all of the news and...",
       "url": "https://nintendoeverything.com/pokemon-presents-live-stream-for-pokemon-day-2026/",
       "publishedAt": "2026-02-27T05:01:47Z",
-      "processed_at": "2026-02-28T10:25:58.251159+00:00"
+      "processed_at": "2026-02-28T11:21:16.014011+00:00"
     },
     {
       "title": "Samsung Uncommited to Another iPhone Air Rival or Trifold, COO Says - Bloomberg",
@@ -30,7 +40,17 @@
       "description": "Samsung Electronics Co. is still evaluating whether it will release another super-thin smartphone af...",
       "url": "https://www.bloomberg.com/news/articles/2026-02-27/samsung-uncommited-to-another-iphone-air-rival-or-trifold-coo-says",
       "publishedAt": "2026-02-27T01:12:00Z",
-      "processed_at": "2026-02-28T10:25:58.251159+00:00"
+      "processed_at": "2026-02-28T11:21:16.014011+00:00"
+    },
+    {
+      "title": "New God of War Sons of Sparta Feature Addresses Fan Criticism - GameRant",
+      "source": {
+        "name": "GameRant"
+      },
+      "description": "God of War Sons of Sparta developer addresses some early adopter criticism with a simple feature tha...",
+      "url": "https://gamerant.com/god-of-war-sons-of-sparta-co-op-mode-cheat-code/",
+      "publishedAt": "2026-02-27T00:43:00Z",
+      "processed_at": "2026-02-28T11:21:16.014011+00:00"
     },
     {
       "title": "Hands-On With Nano Banana 2, the Latest Version of Google's AI Image Generator - WIRED",
@@ -40,37 +60,17 @@
       "description": "Google’s latest image model, Nano Banana 2, is a powerful AI photo editor that punctures reality. We...",
       "url": "https://www.wired.com/story/google-nano-banana-2-ai-image-generator-hands-on/",
       "publishedAt": "2026-02-27T00:01:10Z",
-      "processed_at": "2026-02-28T10:25:58.251159+00:00"
+      "processed_at": "2026-02-28T11:21:16.014011+00:00"
     },
     {
-      "title": "What's Coming in the M5 MacBook Air - MacRumors",
+      "title": "Microsoft’s Copilot Tasks AI uses its own computer to get things done - The Verge",
       "source": {
-        "name": "MacRumors"
+        "name": "The Verge"
       },
-      "description": "Along with the low-cost MacBook, Apple could introduce a refreshed version of the MacBook Air next w...",
-      "url": "https://www.macrumors.com/2026/02/26/m5-macbook-air-latest-info/",
-      "publishedAt": "2026-02-26T23:57:00Z",
-      "processed_at": "2026-02-28T10:25:58.251159+00:00"
-    },
-    {
-      "title": "Samsung Galaxy S26 Ultra vs. Galaxy S25 Ultra, S24 Ultra: How the Ultras Stack Up - CNET",
-      "source": {
-        "name": "CNET"
-      },
-      "description": "Every way the Samsung's new $1,300 ultra flagship compares to the prior models, with the Privacy Dis...",
-      "url": "https://www.cnet.com/tech/mobile/samsung-galaxy-s26-ultra-vs-galaxy-s25-ultra-s24-ultra-how-the-ultras-stack-up/",
-      "publishedAt": "2026-02-26T23:16:00Z",
-      "processed_at": "2026-02-28T10:25:58.251159+00:00"
-    },
-    {
-      "title": "Here’s everything new in Android 17 Beta 2 [Gallery] - 9to5Google",
-      "source": {
-        "name": "9to5google.com"
-      },
-      "description": "Google today released Android 17 Beta 2 for Pixel devices. This comes less than two weeks after the ...",
-      "url": "http://9to5google.com/2026/02/26/android-17-beta-2-everything-new/",
-      "publishedAt": "2026-02-26T21:34:00Z",
-      "processed_at": "2026-02-28T10:25:58.251159+00:00"
+      "description": "Microsoft is launching a new Copilot Tasks feature designed to do busywork for you in the background...",
+      "url": "https://www.theverge.com/tech/885741/microsoft-copilot-tasks-ai",
+      "publishedAt": "2026-02-26T22:56:09Z",
+      "processed_at": "2026-02-28T11:21:16.014011+00:00"
     },
     {
       "title": "NASA lost a lunar spacecraft one day after launch. A new report details what went wrong - NPR",
@@ -80,7 +80,17 @@
       "description": "Why did a $72 million mission to study water on the moon fail so soon after launch? A new NASA repor...",
       "url": "https://www.npr.org/2026/02/26/nx-s1-5727622/nasa-lunar-trailblazer-moon-new-report-what-went-wrong",
       "publishedAt": "2026-02-26T20:55:33Z",
-      "processed_at": "2026-02-28T10:25:58.251159+00:00"
+      "processed_at": "2026-02-28T11:21:16.014011+00:00"
+    },
+    {
+      "title": "Highguard: New Report Details The Months Leading Up To Launch And The Fallout After - Game Informer",
+      "source": {
+        "name": "Gameinformer.com"
+      },
+      "description": "A new report explains leadership at Wildlight Entertainment wanted to follow in the steps of Apex Le...",
+      "url": "https://gameinformer.com/2026/02/26/highguard-new-report-details-the-months-leading-up-to-launch-and-the-fallout-after",
+      "publishedAt": "2026-02-26T20:44:52Z",
+      "processed_at": "2026-02-28T11:21:16.014011+00:00"
     },
     {
       "title": "NVIDIA “unlaunches” its GeForce 595.59 driver after reports of fan and clock issues - VideoCardz.com",
@@ -90,20 +100,10 @@
       "description": "NVIDIA unreleases its latest Game Ready drivers We just noted on X/Twitter that, for the first time ...",
       "url": "https://videocardz.com/newz/nvidia-unlaunches-its-geforce-595-59-driver-after-reports-of-fan-and-clock-issues",
       "publishedAt": "2026-02-26T18:20:00Z",
-      "processed_at": "2026-02-28T10:25:58.251159+00:00"
-    },
-    {
-      "title": "Tune in to The Division’s 10th Anniversary Celebration March 3 - Ubisoft",
-      "source": {
-        "name": "Ubisoft.com"
-      },
-      "description": "Tom Clancy’s The Division is turning ten this year, and we’re throwing a tenth anniversary celebrati...",
-      "url": "https://news.ubisoft.com/en-us/article/3AzMZuAFY2oju7yrOKCurV/tune-in-to-the-divisions-10th-anniversary-celebration-march-3",
-      "publishedAt": "2026-02-26T18:14:39Z",
-      "processed_at": "2026-02-28T10:25:58.251159+00:00"
+      "processed_at": "2026-02-28T11:21:16.014011+00:00"
     }
   ],
-  "lastUpdated": "2026-02-28T10:25:58.251231+00:00",
+  "lastUpdated": "2026-02-28T11:21:16.014080+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
