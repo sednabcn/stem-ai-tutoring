@@ -3,6 +3,46 @@
   "totalResults": 10,
   "articles": [
     {
+      "title": "Pokémon Winds & Waves Announced For Switch 2, Launching Next Year - Nintendo Life",
+      "source": {
+        "name": "Nintendo Life"
+      },
+      "description": "",
+      "url": "https://www.nintendolife.com/news/2026/02/pokemon-winds-and-waves-announced-for-switch-2-launching-next-year",
+      "publishedAt": "2026-02-27T14:33:00Z",
+      "processed_at": "2026-02-28T17:22:11.717800+00:00"
+    },
+    {
+      "title": "Pokémon-Themed Mini Game Boy Announced, Though It's Not What You Think - Nintendo Life",
+      "source": {
+        "name": "Nintendo Life"
+      },
+      "description": "Music to your ears?...",
+      "url": "https://www.nintendolife.com/news/2026/02/pokemon-themed-mini-game-boy-announced-though-its-not-what-you-think",
+      "publishedAt": "2026-02-27T14:30:00Z",
+      "processed_at": "2026-02-28T17:22:11.717800+00:00"
+    },
+    {
+      "title": "Honor exec showcases Magic V6’s crease-less display - GSMArena.com news - GSMArena.com",
+      "source": {
+        "name": "GSMArena.com"
+      },
+      "description": "Honor seems to have cracked the \"crease code\". The teasers for the upcoming Honor Magic V6 keep on c...",
+      "url": "https://www.gsmarena.com/honor_exec_showcases_magic_v6s_creaseless_display_-news-71750.php",
+      "publishedAt": "2026-02-27T12:21:02Z",
+      "processed_at": "2026-02-28T17:22:11.717800+00:00"
+    },
+    {
+      "title": "Phones are going to get weird next week - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "Mobile World Congress 2026 kicks off on Monday, but the first launches will be this weekend. Expect ...",
+      "url": "https://www.theverge.com/tech/885287/mwc-2026-what-to-expect-phones-mobile-weird",
+      "publishedAt": "2026-02-27T12:00:00Z",
+      "processed_at": "2026-02-28T17:22:11.717800+00:00"
+    },
+    {
       "title": "Everything announced at Samsung Unpacked 2026: Galaxy S26 Ultra, Privacy Display, Buds 4 Pro - ZDNET",
       "source": {
         "name": "ZDNet"
@@ -10,100 +50,60 @@
       "description": "From the Galaxy S26 phones to new earbuds and agentic AI, here's everything unveiled at Samsung Unpa...",
       "url": "https://www.zdnet.com/article/everything-announced-at-samsung-unpacked-2026/",
       "publishedAt": "2026-02-27T11:48:00Z",
-      "processed_at": "2026-02-28T16:29:00.647374+00:00"
+      "processed_at": "2026-02-28T17:22:11.717800+00:00"
     },
     {
-      "title": "Samsung Uncommited to Another iPhone Air Rival or Trifold, COO Says - Bloomberg",
+      "title": "Marathon Server Slam stirs Steam with 150,000 concurrent players day one, and that's not counting console participation - Eurogamer",
       "source": {
-        "name": "Bloomberg"
+        "name": "Eurogamer.net"
       },
-      "description": "Samsung Electronics Co. is still evaluating whether it will release another super-thin smartphone af...",
-      "url": "https://www.bloomberg.com/news/articles/2026-02-27/samsung-uncommited-to-another-iphone-air-rival-or-trifold-coo-says",
-      "publishedAt": "2026-02-27T01:12:00Z",
-      "processed_at": "2026-02-28T16:29:00.647374+00:00"
+      "description": "Marathon's Server Slam has started, and is already off to a great start on Steam in terms of players...",
+      "url": "https://www.eurogamer.net/marathon-server-slam-steam-players-concurrent",
+      "publishedAt": "2026-02-27T10:43:03Z",
+      "processed_at": "2026-02-28T17:22:11.717800+00:00"
     },
     {
-      "title": "Hands-On With Nano Banana 2, the Latest Version of Google's AI Image Generator - WIRED",
+      "title": "How AI can read our scrambled inner thoughts - BBC",
       "source": {
-        "name": "Wired"
+        "name": "BBC News"
       },
-      "description": "Google’s latest image model, Nano Banana 2, is a powerful AI photo editor that punctures reality. We...",
-      "url": "https://www.wired.com/story/google-nano-banana-2-ai-image-generator-hands-on/",
-      "publishedAt": "2026-02-27T00:01:10Z",
-      "processed_at": "2026-02-28T16:29:00.647374+00:00"
+      "description": "The crackle of electricity inside your brain has long been too complex to decode. Artificial intelli...",
+      "url": "https://www.bbc.com/future/article/20260226-how-ai-can-read-your-thoughts",
+      "publishedAt": "2026-02-27T10:00:00Z",
+      "processed_at": "2026-02-28T17:22:11.717800+00:00"
     },
     {
-      "title": "Microsoft’s Copilot Tasks AI uses its own computer to get things done - The Verge",
+      "title": "Samsung Brings Satellite Communication Support to Galaxy Smartphones Across the Globe - samsung.com",
       "source": {
-        "name": "The Verge"
+        "name": "Samsung.com"
       },
-      "description": "Microsoft is launching a new Copilot Tasks feature designed to do busywork for you in the background...",
-      "url": "https://www.theverge.com/tech/885741/microsoft-copilot-tasks-ai",
-      "publishedAt": "2026-02-26T22:56:09Z",
-      "processed_at": "2026-02-28T16:29:00.647374+00:00"
+      "description": "Samsung Electronics today announced the continued expansion of satellite communication capabilities ...",
+      "url": "https://news.samsung.com/global/samsung-brings-satellite-communication-support-to-galaxy-smartphones-across-the-globe",
+      "publishedAt": "2026-02-27T07:00:00Z",
+      "processed_at": "2026-02-28T17:22:11.717800+00:00"
     },
     {
-      "title": "Android 17 beta 2 brings a new multitasking trick and cross-device handoff - Android Central",
+      "title": "Pokemon Presents live stream for Pokemon Day 2026 - Nintendo Everything",
       "source": {
-        "name": "Android Central"
+        "name": "Nintendoeverything.com"
       },
-      "description": "Users can now turn any app into a floating bubble and manage them from a new taskbar bubble bar on l...",
-      "url": "https://www.androidcentral.com/apps-software/android-os/android-17-beta-2-rolling-out",
-      "publishedAt": "2026-02-26T22:07:47Z",
-      "processed_at": "2026-02-28T16:29:00.647374+00:00"
+      "description": "Pokemon Presents live stream for Pokemon Day 2026 is available now - tune in for all of the news and...",
+      "url": "https://nintendoeverything.com/pokemon-presents-live-stream-for-pokemon-day-2026/",
+      "publishedAt": "2026-02-27T05:01:47Z",
+      "processed_at": "2026-02-28T17:22:11.717800+00:00"
     },
     {
-      "title": "Apple Says iPhone and iPad Are Approved to Handle Some Classified Data - Gizmodo",
+      "title": "PSA: Pokémon Pokopia Switch 2 Preloads Are Now Officially Live - Nintendo Life",
       "source": {
-        "name": "Gizmodo.com"
+        "name": "Nintendo Life"
       },
-      "description": "No assembly required....",
-      "url": "https://gizmodo.com/apple-says-iphone-and-ipad-are-approved-to-handle-some-classified-data-2000727267",
-      "publishedAt": "2026-02-26T21:25:59Z",
-      "processed_at": "2026-02-28T16:29:00.647374+00:00"
-    },
-    {
-      "title": "NASA lost a lunar spacecraft one day after launch. A new report details what went wrong - NPR",
-      "source": {
-        "name": "NPR"
-      },
-      "description": "Why did a $72 million mission to study water on the moon fail so soon after launch? A new NASA repor...",
-      "url": "https://www.npr.org/2026/02/26/nx-s1-5727622/nasa-lunar-trailblazer-moon-new-report-what-went-wrong",
-      "publishedAt": "2026-02-26T20:55:33Z",
-      "processed_at": "2026-02-28T16:29:00.647374+00:00"
-    },
-    {
-      "title": "Previously harmless Google API keys now expose Gemini AI data - BleepingComputer",
-      "source": {
-        "name": "BleepingComputer"
-      },
-      "description": "Google API keys for services like Maps embedded in accessible client-side code could be used to auth...",
-      "url": "https://www.bleepingcomputer.com/news/security/previously-harmless-google-api-keys-now-expose-gemini-ai-data/",
-      "publishedAt": "2026-02-26T20:55:29Z",
-      "processed_at": "2026-02-28T16:29:00.647374+00:00"
-    },
-    {
-      "title": "Three ways new Apple products next week will modernize iPhone, iPad, and Mac - 9to5Mac",
-      "source": {
-        "name": "9to5Mac"
-      },
-      "description": "Apple officially confirmed that it will begin launching new products starting on Monday, March 2. Wi...",
-      "url": "https://9to5mac.com/2026/02/26/three-ways-new-apple-products-next-week-will-modernize-iphone-ipad-and-mac/",
-      "publishedAt": "2026-02-26T20:54:00Z",
-      "processed_at": "2026-02-28T16:29:00.647374+00:00"
-    },
-    {
-      "title": "Highguard: New Report Details The Months Leading Up To Launch And The Fallout After - Game Informer",
-      "source": {
-        "name": "Gameinformer.com"
-      },
-      "description": "A new report explains leadership at Wildlight Entertainment wanted to follow in the steps of Apex Le...",
-      "url": "https://gameinformer.com/2026/02/26/highguard-new-report-details-the-months-leading-up-to-launch-and-the-fallout-after",
-      "publishedAt": "2026-02-26T20:44:52Z",
-      "processed_at": "2026-02-28T16:29:00.647374+00:00"
+      "description": "The wait is almost over...",
+      "url": "https://www.nintendolife.com/news/2026/02/psa-pokemon-pokopia-switch-2-preloads-are-now-officially-live",
+      "publishedAt": "2026-02-27T02:55:00Z",
+      "processed_at": "2026-02-28T17:22:11.717800+00:00"
     }
   ],
-  "lastUpdated": "2026-02-28T16:29:00.647448+00:00",
+  "lastUpdated": "2026-02-28T17:22:11.717878+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
