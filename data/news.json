@@ -1,16 +1,46 @@
 {
   "status": "success",
-  "totalResults": 9,
+  "totalResults": 10,
   "articles": [
     {
-      "title": "Was Marathon’s Server Slam A Success Or A Failure? - Forbes",
+      "title": "Portable Sonos Play speaker leaks on Canadian Best Buy - The Verge",
       "source": {
-        "name": "Forbes"
+        "name": "The Verge"
       },
-      "description": "",
-      "url": "https://www.forbes.com/sites/paultassi/2026/03/01/was-marathons-server-slam-a-success-or-a-failure/",
-      "publishedAt": "2026-03-01T18:45:32Z",
-      "processed_at": "2026-03-02T22:29:20.082005+00:00"
+      "description": "A leak of the new portable Sonos Play speaker suggests it’s a more rugged successor to the Move 2....",
+      "url": "https://www.theverge.com/tech/887220/sonos-play-leak",
+      "publishedAt": "2026-03-01T20:10:10Z",
+      "processed_at": "2026-03-02T23:28:02.608533+00:00"
+    },
+    {
+      "title": "How to Get Money Fast (Nugget Bridge Glitch) - Pokemon Fire Red and Leaf Green Guide - IGN",
+      "source": {
+        "name": "IGN"
+      },
+      "description": "Whether it&apos;s for healing your Pokemon, curing a status effect, or buying Poke Balls, you need a...",
+      "url": "https://www.ign.com/wikis/pokemon-firered-leafgreen-version/How_to_Get_Money_Fast_(Nugget_Bridge_Glitch)",
+      "publishedAt": "2026-03-01T19:32:37Z",
+      "processed_at": "2026-03-02T23:28:02.608533+00:00"
+    },
+    {
+      "title": "“Entry-Level PC Segment Will Disappear by 2028,” Says Gartner, as Soaring Memory Costs Start to Cripple Manufacturers - Wccftech",
+      "source": {
+        "name": "Wccftech"
+      },
+      "description": "PC manufacturers won't find it viable to offer hardware to gamers at 'entry-level' prices, as memory...",
+      "url": "https://wccftech.com/entry-level-pc-segment-will-disappear-by-2028/",
+      "publishedAt": "2026-03-01T18:51:00Z",
+      "processed_at": "2026-03-02T23:28:02.608533+00:00"
+    },
+    {
+      "title": "God of War developer is working on \"a new franchise within the God of War universe\" - Eurogamer",
+      "source": {
+        "name": "Eurogamer.net"
+      },
+      "description": "A former senior writer from Sony Santa Monica has revealed the studio is working on \"a new franchise...",
+      "url": "https://www.eurogamer.net/god-of-war-developer-is-working-on-a-new-franchise-within-the-god-of-war-universe",
+      "publishedAt": "2026-03-01T18:15:29Z",
+      "processed_at": "2026-03-02T23:28:02.608533+00:00"
     },
     {
       "title": "Sunday Preview – Ahoy me hearties, space pirates inbound - Warhammer Community",
@@ -20,7 +50,17 @@
       "description": "Corsairs of different flavours lead next week’s pre-orders for Warhammer 40,000....",
       "url": "https://www.warhammer-community.com/articles/ewwcqh21/sunday-preview-ahoy-me-hearties-space-pirates-inbound",
       "publishedAt": "2026-03-01T17:56:06Z",
-      "processed_at": "2026-03-02T22:29:20.082005+00:00"
+      "processed_at": "2026-03-02T23:28:02.608533+00:00"
+    },
+    {
+      "title": "Microsoft’s DirectX SER Delivers a 90% Performance Boost on Intel’s Battlemage GPUs, Optimizing Intense Rendering Workloads - Wccftech",
+      "source": {
+        "name": "Wccftech"
+      },
+      "description": "Microsoft's latest attempt to optimize rendering has delivered impressive gains, with Intel's Battle...",
+      "url": "https://wccftech.com/microsoft-directx-ser-delivers-a-90-percent-performance-boost-on-intel-gpu/",
+      "publishedAt": "2026-03-01T17:23:00Z",
+      "processed_at": "2026-03-02T23:28:02.608533+00:00"
     },
     {
       "title": "Investors spill what they aren’t looking for anymore in AI SaaS companies - TechCrunch",
@@ -30,70 +70,40 @@
       "description": "TechCrunch spoke with VCs to learn what investors aren't looking for in AI SaaS startups anymore....",
       "url": "https://techcrunch.com/2026/03/01/investors-spill-what-they-arent-looking-for-anymore-in-ai-saas-companies/",
       "publishedAt": "2026-03-01T17:00:00Z",
-      "processed_at": "2026-03-02T22:29:20.082005+00:00"
+      "processed_at": "2026-03-02T23:28:02.608533+00:00"
     },
     {
-      "title": "I finally found 6 Android settings toggles that actually save my battery life - Android Police",
-      "source": {
-        "name": "Android Police"
-      },
-      "description": "Small tweaks, big battery gains...",
-      "url": "https://www.androidpolice.com/i-finally-found-android-settings-toggles-that-saves-my-battery-life/",
-      "publishedAt": "2026-03-01T14:30:11Z",
-      "processed_at": "2026-03-02T22:29:20.082005+00:00"
-    },
-    {
-      "title": "Here's How Much The Toyota GR Supra Has Depreciated In 5 Years - Jalopnik",
-      "source": {
-        "name": "Jalopnik"
-      },
-      "description": "The Toyota GR Supra has lost roughly 23% of its MSRP in the past five years, which means used exampl...",
-      "url": "https://www.jalopnik.com/2110548/2021-toyota-supra-gr-5-year-depreciation/",
-      "publishedAt": "2026-03-01T14:25:00Z",
-      "processed_at": "2026-03-02T22:29:20.082005+00:00"
-    },
-    {
-      "title": "China's Honor shows off smartphone with robotic camera arm and teases a humanoid robot - CNBC",
-      "source": {
-        "name": "CNBC"
-      },
-      "description": "Honor debuted a Robot Phone on Sunday at the Mobile World Congress as it looks to stand out from riv...",
-      "url": "https://www.cnbc.com/2026/03/01/honor-robot-phone-magic-v6-foldable-launch-mwc.html",
-      "publishedAt": "2026-03-01T14:15:41Z",
-      "processed_at": "2026-03-02T22:29:20.082005+00:00"
-    },
-    {
-      "title": "Upcoming Nintendo Switch 2 Games & Accessories For March & April 2026 - Nintendo Life",
-      "source": {
-        "name": "Nintendo Life"
-      },
-      "description": "March is on...",
-      "url": "https://www.nintendolife.com/guides/upcoming-nintendo-switch-2-games-and-accessories-for-march-and-april-2026",
-      "publishedAt": "2026-03-01T14:00:00Z",
-      "processed_at": "2026-03-02T22:29:20.082005+00:00"
-    },
-    {
-      "title": "Apple believes low-cost MacBook will be an ‘incredible value,’ tempting switchers: report - 9to5Mac",
+      "title": "Apple replacing Core ML with modernized Core AI framework for iOS 27 at WWDC - 9to5Mac",
       "source": {
         "name": "9to5Mac"
       },
-      "description": "As early as tomorrow, Apple will be unveiling its highly anticipated low-cost MacBook. It’ll be powe...",
-      "url": "https://9to5mac.com/2026/03/01/low-cost-macbook-incredible-value-convince-many-to-switch-report/",
-      "publishedAt": "2026-03-01T13:37:00Z",
-      "processed_at": "2026-03-02T22:29:20.082005+00:00"
+      "description": "A new report says that Apple will replace Core ML with a modernized Core AI framework at WWDC, helpi...",
+      "url": "https://9to5mac.com/2026/03/01/apple-replacing-core-ml-with-modernized-core-ai-framework-for-ios-27-at-wwdc/",
+      "publishedAt": "2026-03-01T16:31:00Z",
+      "processed_at": "2026-03-02T23:28:02.608533+00:00"
     },
     {
-      "title": "New Gmail Account Attack Warning—Hackers Abuse Critical Security Check - Forbes",
+      "title": "Marathon dev Bungie responds to Server Slam feedback, particularly around UI, PC performance, and more - Eurogamer",
       "source": {
-        "name": "Forbes"
+        "name": "Eurogamer.net"
       },
-      "description": "As Gmail support forums continue to fill with pleas for help amid hacker attacks, a new report revea...",
-      "url": "https://www.forbes.com/sites/daveywinder/2026/03/01/check-your-gmail-account-security-now-ongoing-attacks-reported/",
-      "publishedAt": "2026-03-01T13:05:02Z",
-      "processed_at": "2026-03-02T22:29:20.082005+00:00"
+      "description": "Bungie is continuing to respond to your feedback during Marathon's Server Slam event, paying particu...",
+      "url": "https://www.eurogamer.net/marathon-dev-bungie-responds-to-server-slam-feedback-particularly-around-ui-pc-performance-and-more",
+      "publishedAt": "2026-03-01T16:29:40Z",
+      "processed_at": "2026-03-02T23:28:02.608533+00:00"
+    },
+    {
+      "title": "PlayStation Retro Anime Spoof Will Be Available Outside Japan For The First Time In 27 Years - Kotaku",
+      "source": {
+        "name": "Kotaku"
+      },
+      "description": "Geppy-X riffs on watching a 1970s block of Japanese television, shampoo commercials and all...",
+      "url": "https://kotaku.com/playstation-retro-anime-geppyx-shmu-2000674842",
+      "publishedAt": "2026-03-01T15:36:17Z",
+      "processed_at": "2026-03-02T23:28:02.608533+00:00"
     }
   ],
-  "lastUpdated": "2026-03-02T22:29:20.082079+00:00",
+  "lastUpdated": "2026-03-02T23:28:02.608611+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
