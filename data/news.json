@@ -1,6 +1,6 @@
 {
   "status": "success",
-  "totalResults": 9,
+  "totalResults": 10,
   "articles": [
     {
       "title": "Linux 7.0-rc2 Released: \"So I'm Not Super-Happy With How Big This Is\" - Phoronix",
@@ -10,27 +10,17 @@
       "description": "The second weekly release candidate of Linux 7.0 is now available for testing....",
       "url": "https://www.phoronix.com/news/Linux-7.0-rc2-Released",
       "publishedAt": "2026-03-02T00:15:00Z",
-      "processed_at": "2026-03-03T04:47:24.119575+00:00"
+      "processed_at": "2026-03-03T05:50:56.861449+00:00"
     },
     {
-      "title": "Scientists train human brain cells on a microchip to play Doom - Dexerto",
+      "title": "A robot arm with puppy dog eyes is just one of Lenovo’s new desktop AI concepts - The Verge",
       "source": {
-        "name": "Dexerto"
+        "name": "The Verge"
       },
-      "description": "Scientists have demonstrated that human brain cells grown on a microchip can learn to play id Softwa...",
-      "url": "https://www.dexerto.com/gaming/scientists-train-human-brain-cells-on-a-chip-to-play-doom-3326709/",
-      "publishedAt": "2026-03-01T23:27:35Z",
-      "processed_at": "2026-03-03T04:47:24.119575+00:00"
-    },
-    {
-      "title": "At MWC 2026, Lenovo comes in hot with 6 concept products and big ideas: Everything announced - Mashable",
-      "source": {
-        "name": "Mashable"
-      },
-      "description": "So. Many. Laptops....",
-      "url": "https://mashable.com/article/everything-lenovo-announced-mwc-2026",
+      "description": "Lenovo debuted two new concept devices at MWC that use AI to handle office tasks like scanning and s...",
+      "url": "https://www.theverge.com/tech/885228/lenovo-ai-workmate-companion-work-concept-robot-arm-desktop-clock-hub",
       "publishedAt": "2026-03-01T23:01:00Z",
-      "processed_at": "2026-03-03T04:47:24.119575+00:00"
+      "processed_at": "2026-03-03T05:50:56.861449+00:00"
     },
     {
       "title": "Lenovo’s new 8.8-inch Legion Tab is $849 with 9,000 mAh battery, new colors [Gallery] - 9to5Google",
@@ -40,7 +30,7 @@
       "description": "Following up on its first release in the States, Lenovo is back with a new Legion Tab, Gen 5, which....",
       "url": "http://9to5google.com/2026/03/01/lenovo-legion-tab-gen-5-2026-specs-release-hands-on/",
       "publishedAt": "2026-03-01T23:01:00Z",
-      "processed_at": "2026-03-03T04:47:24.119575+00:00"
+      "processed_at": "2026-03-03T05:50:56.861449+00:00"
     },
     {
       "title": "Lenovo’s redesigned ThinkPad Detachable tablet has a bigger screen and legit keyboard - The Verge",
@@ -50,7 +40,17 @@
       "description": "Lenovo is announcing a bunch of new ThinkPad laptops for MWC 2026 in Barcelona, as well as a new Thi...",
       "url": "https://www.theverge.com/tech/886134/lenovo-thinkpad-x13-detachable-tablet-t14-t14s-t16-laptops-price-specs",
       "publishedAt": "2026-03-01T23:01:00Z",
-      "processed_at": "2026-03-03T04:47:24.119575+00:00"
+      "processed_at": "2026-03-03T05:50:56.861449+00:00"
+    },
+    {
+      "title": "Mystic & Aurora Ticket easily obtainable in Pokemon FireRed & LeafGreen on Switch - My Nintendo News",
+      "source": {
+        "name": "My Nintendo News"
+      },
+      "description": "Two things which were notoriously difficult to get in the original versions of Pokemon FireRed and L...",
+      "url": "https://mynintendonews.com/2026/03/01/mystic-aurora-ticket-easily-obtainable-in-pokemon-firered-leafgreen-on-switch/",
+      "publishedAt": "2026-03-01T22:05:05Z",
+      "processed_at": "2026-03-03T05:50:56.861449+00:00"
     },
     {
       "title": "Pokemon Champions storage limits and subscription details revealed - Nintendo Everything",
@@ -60,7 +60,7 @@
       "description": "New details have been released about the storage limits and subscription with Pokemon Champions. Pok...",
       "url": "https://nintendoeverything.com/pokemon-champions-storage-limits-and-subscription-details-revealed/",
       "publishedAt": "2026-03-01T22:04:53Z",
-      "processed_at": "2026-03-03T04:47:24.119575+00:00"
+      "processed_at": "2026-03-03T05:50:56.861449+00:00"
     },
     {
       "title": "This 10,000 mAh Qi2 battery bank for Pixel 10 is thin without compromise [Gallery] - 9to5Google",
@@ -70,7 +70,7 @@
       "description": "Qi2 battery banks are perhaps one of the best accessories for a Pixel 10 owner, but finding one that...",
       "url": "http://9to5google.com/2026/03/01/baseus-10000-mah-qi2-battery-bank-pixel-10/",
       "publishedAt": "2026-03-01T21:30:00Z",
-      "processed_at": "2026-03-03T04:47:24.119575+00:00"
+      "processed_at": "2026-03-03T05:50:56.861449+00:00"
     },
     {
       "title": "Bruce Springsteen Has An Extensive Car Collection, But There's Only One European Model In The Bunch - Jalopnik",
@@ -80,7 +80,17 @@
       "description": "The only European car Bruce Springsteen owns is a 2009 Land Rover Range Rover L322. It's one of his ...",
       "url": "https://www.jalopnik.com/2111473/bruce-springsteen-car-collection-european-model-range-rover-l322/",
       "publishedAt": "2026-03-01T21:25:00Z",
-      "processed_at": "2026-03-03T04:47:24.119575+00:00"
+      "processed_at": "2026-03-03T05:50:56.861449+00:00"
+    },
+    {
+      "title": "Apple is launching new products this week, here’s what’s coming - 9to5Mac",
+      "source": {
+        "name": "9to5Mac"
+      },
+      "description": "Apple is launching new hardware this week, with rumors indicating several new products are coming in...",
+      "url": "https://9to5mac.com/2026/03/01/apple-is-launching-new-products-this-week-heres-whats-coming/",
+      "publishedAt": "2026-03-01T20:55:00Z",
+      "processed_at": "2026-03-03T05:50:56.861449+00:00"
     },
     {
       "title": "Chinese SUV Beats Lexus GX, Toyota Land Cruiser In Off-Road Test - Jalopnik",
@@ -90,10 +100,10 @@
       "description": "The GWM Tank breezed through the same roller test that proved too much for the Toyota and the Lexus....",
       "url": "https://www.jalopnik.com/2111136/gwm-tank-chinese-suv-beats-lexus-gx-toyota-land-cruiser-off-road-test/",
       "publishedAt": "2026-03-01T20:25:00Z",
-      "processed_at": "2026-03-03T04:47:24.119575+00:00"
+      "processed_at": "2026-03-03T05:50:56.861449+00:00"
     }
   ],
-  "lastUpdated": "2026-03-03T04:47:24.119647+00:00",
+  "lastUpdated": "2026-03-03T05:50:56.861525+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
