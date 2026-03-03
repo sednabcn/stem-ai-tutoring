@@ -1,7 +1,17 @@
 {
   "status": "success",
-  "totalResults": 10,
+  "totalResults": 9,
   "articles": [
+    {
+      "title": "Linux 7.0-rc2 Released: \"So I'm Not Super-Happy With How Big This Is\" - Phoronix",
+      "source": {
+        "name": "Phoronix"
+      },
+      "description": "The second weekly release candidate of Linux 7.0 is now available for testing....",
+      "url": "https://www.phoronix.com/news/Linux-7.0-rc2-Released",
+      "publishedAt": "2026-03-02T00:15:00Z",
+      "processed_at": "2026-03-03T04:47:24.119575+00:00"
+    },
     {
       "title": "Scientists train human brain cells on a microchip to play Doom - Dexerto",
       "source": {
@@ -10,17 +20,37 @@
       "description": "Scientists have demonstrated that human brain cells grown on a microchip can learn to play id Softwa...",
       "url": "https://www.dexerto.com/gaming/scientists-train-human-brain-cells-on-a-chip-to-play-doom-3326709/",
       "publishedAt": "2026-03-01T23:27:35Z",
-      "processed_at": "2026-03-03T02:24:14.256088+00:00"
+      "processed_at": "2026-03-03T04:47:24.119575+00:00"
     },
     {
-      "title": "Mystic & Aurora Ticket easily obtainable in Pokemon FireRed & LeafGreen on Switch - My Nintendo News",
+      "title": "At MWC 2026, Lenovo comes in hot with 6 concept products and big ideas: Everything announced - Mashable",
       "source": {
-        "name": "My Nintendo News"
+        "name": "Mashable"
       },
-      "description": "Two things which were notoriously difficult to get in the original versions of Pokemon FireRed and L...",
-      "url": "https://mynintendonews.com/2026/03/01/mystic-aurora-ticket-easily-obtainable-in-pokemon-firered-leafgreen-on-switch/",
-      "publishedAt": "2026-03-01T22:05:05Z",
-      "processed_at": "2026-03-03T02:24:14.256088+00:00"
+      "description": "So. Many. Laptops....",
+      "url": "https://mashable.com/article/everything-lenovo-announced-mwc-2026",
+      "publishedAt": "2026-03-01T23:01:00Z",
+      "processed_at": "2026-03-03T04:47:24.119575+00:00"
+    },
+    {
+      "title": "Lenovo’s new 8.8-inch Legion Tab is $849 with 9,000 mAh battery, new colors [Gallery] - 9to5Google",
+      "source": {
+        "name": "9to5google.com"
+      },
+      "description": "Following up on its first release in the States, Lenovo is back with a new Legion Tab, Gen 5, which....",
+      "url": "http://9to5google.com/2026/03/01/lenovo-legion-tab-gen-5-2026-specs-release-hands-on/",
+      "publishedAt": "2026-03-01T23:01:00Z",
+      "processed_at": "2026-03-03T04:47:24.119575+00:00"
+    },
+    {
+      "title": "Lenovo’s redesigned ThinkPad Detachable tablet has a bigger screen and legit keyboard - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "Lenovo is announcing a bunch of new ThinkPad laptops for MWC 2026 in Barcelona, as well as a new Thi...",
+      "url": "https://www.theverge.com/tech/886134/lenovo-thinkpad-x13-detachable-tablet-t14-t14s-t16-laptops-price-specs",
+      "publishedAt": "2026-03-01T23:01:00Z",
+      "processed_at": "2026-03-03T04:47:24.119575+00:00"
     },
     {
       "title": "Pokemon Champions storage limits and subscription details revealed - Nintendo Everything",
@@ -30,7 +60,17 @@
       "description": "New details have been released about the storage limits and subscription with Pokemon Champions. Pok...",
       "url": "https://nintendoeverything.com/pokemon-champions-storage-limits-and-subscription-details-revealed/",
       "publishedAt": "2026-03-01T22:04:53Z",
-      "processed_at": "2026-03-03T02:24:14.256088+00:00"
+      "processed_at": "2026-03-03T04:47:24.119575+00:00"
+    },
+    {
+      "title": "This 10,000 mAh Qi2 battery bank for Pixel 10 is thin without compromise [Gallery] - 9to5Google",
+      "source": {
+        "name": "9to5google.com"
+      },
+      "description": "Qi2 battery banks are perhaps one of the best accessories for a Pixel 10 owner, but finding one that...",
+      "url": "http://9to5google.com/2026/03/01/baseus-10000-mah-qi2-battery-bank-pixel-10/",
+      "publishedAt": "2026-03-01T21:30:00Z",
+      "processed_at": "2026-03-03T04:47:24.119575+00:00"
     },
     {
       "title": "Bruce Springsteen Has An Extensive Car Collection, But There's Only One European Model In The Bunch - Jalopnik",
@@ -40,7 +80,7 @@
       "description": "The only European car Bruce Springsteen owns is a 2009 Land Rover Range Rover L322. It's one of his ...",
       "url": "https://www.jalopnik.com/2111473/bruce-springsteen-car-collection-european-model-range-rover-l322/",
       "publishedAt": "2026-03-01T21:25:00Z",
-      "processed_at": "2026-03-03T02:24:14.256088+00:00"
+      "processed_at": "2026-03-03T04:47:24.119575+00:00"
     },
     {
       "title": "Chinese SUV Beats Lexus GX, Toyota Land Cruiser In Off-Road Test - Jalopnik",
@@ -50,60 +90,10 @@
       "description": "The GWM Tank breezed through the same roller test that proved too much for the Toyota and the Lexus....",
       "url": "https://www.jalopnik.com/2111136/gwm-tank-chinese-suv-beats-lexus-gx-toyota-land-cruiser-off-road-test/",
       "publishedAt": "2026-03-01T20:25:00Z",
-      "processed_at": "2026-03-03T02:24:14.256088+00:00"
-    },
-    {
-      "title": "Portable Sonos Play speaker leaks on Canadian Best Buy - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "A leak of the new portable Sonos Play speaker suggests it’s a more rugged successor to the Move 2....",
-      "url": "https://www.theverge.com/tech/887220/sonos-play-leak",
-      "publishedAt": "2026-03-01T20:10:10Z",
-      "processed_at": "2026-03-03T02:24:14.256088+00:00"
-    },
-    {
-      "title": "“Entry-Level PC Segment Will Disappear by 2028,” Says Gartner, as Soaring Memory Costs Start to Cripple Manufacturers - Wccftech",
-      "source": {
-        "name": "Wccftech"
-      },
-      "description": "PC manufacturers won't find it viable to offer hardware to gamers at 'entry-level' prices, as memory...",
-      "url": "https://wccftech.com/entry-level-pc-segment-will-disappear-by-2028/",
-      "publishedAt": "2026-03-01T18:51:00Z",
-      "processed_at": "2026-03-03T02:24:14.256088+00:00"
-    },
-    {
-      "title": "God of War developer is working on \"a new franchise within the God of War universe\" - Eurogamer",
-      "source": {
-        "name": "Eurogamer.net"
-      },
-      "description": "A former senior writer from Sony Santa Monica has revealed the studio is working on \"a new franchise...",
-      "url": "https://www.eurogamer.net/god-of-war-developer-is-working-on-a-new-franchise-within-the-god-of-war-universe",
-      "publishedAt": "2026-03-01T18:15:29Z",
-      "processed_at": "2026-03-03T02:24:14.256088+00:00"
-    },
-    {
-      "title": "Microsoft’s DirectX SER Delivers a 90% Performance Boost on Intel’s Battlemage GPUs, Optimizing Intense Rendering Workloads - Wccftech",
-      "source": {
-        "name": "Wccftech"
-      },
-      "description": "Microsoft's latest attempt to optimize rendering has delivered impressive gains, with Intel's Battle...",
-      "url": "https://wccftech.com/microsoft-directx-ser-delivers-a-90-percent-performance-boost-on-intel-gpu/",
-      "publishedAt": "2026-03-01T17:23:00Z",
-      "processed_at": "2026-03-03T02:24:14.256088+00:00"
-    },
-    {
-      "title": "Investors spill what they aren’t looking for anymore in AI SaaS companies - TechCrunch",
-      "source": {
-        "name": "TechCrunch"
-      },
-      "description": "TechCrunch spoke with VCs to learn what investors aren't looking for in AI SaaS startups anymore....",
-      "url": "https://techcrunch.com/2026/03/01/investors-spill-what-they-arent-looking-for-anymore-in-ai-saas-companies/",
-      "publishedAt": "2026-03-01T17:00:00Z",
-      "processed_at": "2026-03-03T02:24:14.256088+00:00"
+      "processed_at": "2026-03-03T04:47:24.119575+00:00"
     }
   ],
-  "lastUpdated": "2026-03-03T02:24:14.256164+00:00",
+  "lastUpdated": "2026-03-03T04:47:24.119647+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
