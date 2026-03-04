@@ -1,16 +1,56 @@
 {
   "status": "success",
-  "totalResults": 10,
+  "totalResults": 9,
   "articles": [
     {
-      "title": "Apple Accidentally Leaks 'MacBook Neo' - MacRumors",
+      "title": "Google Chrome is switching to a two-week release cycle - 9to5Google",
       "source": {
-        "name": "MacRumors"
+        "name": "9to5google.com"
       },
-      "description": "Apple appears to have prematurely revealed the name of its rumored lower-cost MacBook model, which i...",
-      "url": "https://www.macrumors.com/2026/03/03/apple-accidentally-leaks-macbook-neo/",
-      "publishedAt": "2026-03-03T15:00:15Z",
-      "processed_at": "2026-03-04T18:54:25.676239+00:00"
+      "description": "Google will soon release a major update for its Chrome browser on all platforms every four weeks to ...",
+      "url": "http://9to5google.com/2026/03/03/chrome-two-week-updates/",
+      "publishedAt": "2026-03-03T17:00:00Z",
+      "processed_at": "2026-03-04T19:38:45.411685+00:00"
+    },
+    {
+      "title": "Trials season 3: what you need to know - ARC Raiders",
+      "source": {
+        "name": "Arcraiders.com"
+      },
+      "description": "ARC Raiders is a multiplayer extraction adventure, set in a lethal future earth, ravaged by a myster...",
+      "url": "https://arcraiders.com/news/quick-guide-to-trials-season-3",
+      "publishedAt": "2026-03-03T16:59:14Z",
+      "processed_at": "2026-03-04T19:38:45.411685+00:00"
+    },
+    {
+      "title": "Apple May Add AirPlay-Like Feature to CarPlay, Making Tesla Integration More Compelling - Not a Tesla App",
+      "source": {
+        "name": "Notateslaapp.com"
+      },
+      "description": "Apple is reportedly bringing native Apple TV support to CarPlay, just as Tesla works on officially a...",
+      "url": "https://www.notateslaapp.com/news/3614/apple-may-add-airplay-like-feature-to-carplay-making-tesla-integration-more-compelling",
+      "publishedAt": "2026-03-03T16:39:00Z",
+      "processed_at": "2026-03-04T19:38:45.411685+00:00"
+    },
+    {
+      "title": "Apple’s website leaks MacBook ‘Neo,’ which could be its new cheaper laptop - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "A listing on a regulatory page on Apple’s website appeared to leak the “MacBook Neo,” which could be...",
+      "url": "https://www.theverge.com/tech/888226/apple-macbook-neo-website-leak",
+      "publishedAt": "2026-03-03T16:02:41Z",
+      "processed_at": "2026-03-04T19:38:45.411685+00:00"
+    },
+    {
+      "title": "Wrangle Double Rewards Selling Moonshine in Red Dead Online - Rockstar Games",
+      "source": {
+        "name": "Rockstargames.com"
+      },
+      "description": "Fire the still and quench locals’ thirst for the hard stuff to earn 2X RDO$, XP, and Role XP complet...",
+      "url": "https://www.rockstargames.com/newswire/article/5174778o955352/wrangle-double-rewards-selling-moonshine-in-red-dead-online",
+      "publishedAt": "2026-03-03T15:05:57Z",
+      "processed_at": "2026-03-04T19:38:45.411685+00:00"
     },
     {
       "title": "Nintendo Indie World March 2026 Showcase: All The Biggest Announcements - GameSpot",
@@ -20,17 +60,17 @@
       "description": "Here's a closer look at several new games on the way to Switch 2 and Switch consoles....",
       "url": "https://www.gamespot.com/gallery/nintendo-indie-world-march-2026-showcase-all-the-biggest-announcements/2900-7555/",
       "publishedAt": "2026-03-03T14:49:22Z",
-      "processed_at": "2026-03-04T18:54:25.676239+00:00"
+      "processed_at": "2026-03-04T19:38:45.411685+00:00"
     },
     {
-      "title": "Apple’s new Studio Display XDR adds a Mini LED upgrade - The Verge",
+      "title": "Apple’s new Studio Displays come with Thunderbolt 5 - TechCrunch",
       "source": {
-        "name": "The Verge"
+        "name": "TechCrunch"
       },
-      "description": "Apple’s new Studio Display XDR monitor costs $3,299 with Mini LED backlighting and a 120Hz refresh r...",
-      "url": "https://www.theverge.com/tech/888119/apple-studio-display-xdr-5k-monitor",
-      "publishedAt": "2026-03-03T14:27:39Z",
-      "processed_at": "2026-03-04T18:54:25.676239+00:00"
+      "description": "The new displays come with better cameras, new sound systems, and Thunderbolt 5 ports....",
+      "url": "https://techcrunch.com/2026/03/03/apples-new-studio-displays-come-with-thunderbolt-5/",
+      "publishedAt": "2026-03-03T14:49:03Z",
+      "processed_at": "2026-03-04T19:38:45.411685+00:00"
     },
     {
       "title": "Bungie stands firm on Marathon aesthetic, while the 'fontslop' debate rages on - Eurogamer",
@@ -40,7 +80,7 @@
       "description": "Bungie will stick to its guns when it comes to the bold UI decisions in Marathon, while feedback abo...",
       "url": "https://www.eurogamer.net/bungie-stands-firm-on-marathon-aesthetic-while-the-fontslop-debate-rages-on",
       "publishedAt": "2026-03-03T14:21:53Z",
-      "processed_at": "2026-03-04T18:54:25.676239+00:00"
+      "processed_at": "2026-03-04T19:38:45.411685+00:00"
     },
     {
       "title": "Apple introduces the new MacBook Air with M5 - Apple",
@@ -50,60 +90,10 @@
       "description": "Apple today announced the new MacBook Air with M5, bringing exceptional performance and expanded AI ...",
       "url": "https://www.apple.com/newsroom/2026/03/apple-introduces-the-new-macbook-air-with-m5/",
       "publishedAt": "2026-03-03T14:02:41Z",
-      "processed_at": "2026-03-04T18:54:25.676239+00:00"
-    },
-    {
-      "title": "Coming to Xbox Game Pass: Cyberpunk 2077, Planet of Lana II, and More - Xbox Wire",
-      "source": {
-        "name": "Xbox.com"
-      },
-      "description": "Wake up samurai, we have games to play. Whether you want to check out haunted kingdoms, Night City, ...",
-      "url": "https://news.xbox.com/en-us/2026/03/03/xbox-game-pass-march-2026-wave-1/",
-      "publishedAt": "2026-03-03T14:01:20Z",
-      "processed_at": "2026-03-04T18:54:25.676239+00:00"
-    },
-    {
-      "title": "Fallout 76: The Backwoods Release Notes - Bethesda.net",
-      "source": {
-        "name": "Bethesda.net"
-      },
-      "description": "",
-      "url": "https://bethesda.net/en/article/0sXOoFYwO5TxarqDKVzts/fallout-76-the-backwoods-release-notes",
-      "publishedAt": "2026-03-03T13:02:32Z",
-      "processed_at": "2026-03-04T18:54:25.676239+00:00"
-    },
-    {
-      "title": "Meta Ray-Ban smart glasses send ‘sensitive’ videos to human data annotators - 9to5mac.com",
-      "source": {
-        "name": "9to5Mac"
-      },
-      "description": "A new report says that video feeds from Meta Ray-Ban smart glasses are sent for review by human data...",
-      "url": "https://9to5mac.com/2026/03/03/meta-ray-ban-smart-glasses-send-sensitive-videos-to-human-data-annotators/",
-      "publishedAt": "2026-03-03T12:19:00Z",
-      "processed_at": "2026-03-04T18:54:25.676239+00:00"
-    },
-    {
-      "title": "The Galaxy S26 series doesn't feature 10-bit displays - SamMobile",
-      "source": {
-        "name": "SamMobile"
-      },
-      "description": "Samsung’s latest flagship non-foldable smartphone, the Galaxy S26 Ultra, brings several upgrades ove...",
-      "url": "https://www.sammobile.com/news/samsung-galaxy-s26-plus-ultra-doesnt-feature-10-bit-displays/",
-      "publishedAt": "2026-03-03T12:01:00Z",
-      "processed_at": "2026-03-04T18:54:25.676239+00:00"
-    },
-    {
-      "title": "What’s new in Android’s March 2026 Google System Updates - 9to5Google",
-      "source": {
-        "name": "9to5google.com"
-      },
-      "description": "The monthly “Google System Release Notes” primarily detail what’s new in Play services, Play Store, ...",
-      "url": "http://9to5google.com/2026/03/02/march-2026-google-system-updates/",
-      "publishedAt": "2026-03-03T06:44:00Z",
-      "processed_at": "2026-03-04T18:54:25.676239+00:00"
+      "processed_at": "2026-03-04T19:38:45.411685+00:00"
     }
   ],
-  "lastUpdated": "2026-03-04T18:54:25.676317+00:00",
+  "lastUpdated": "2026-03-04T19:38:45.411759+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
