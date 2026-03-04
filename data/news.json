@@ -3,24 +3,44 @@
   "totalResults": 10,
   "articles": [
     {
-      "title": "Highguard is shutting down this month - The Verge",
+      "title": "Apple debuts M5 Pro and M5 Max to supercharge the most demanding pro workflows - Apple",
+      "source": {
+        "name": "Apple Newsroom"
+      },
+      "description": "Apple today announced M5 Pro and M5 Max, the world’s most advanced chips for pro laptops, powering t...",
+      "url": "https://www.apple.com/newsroom/2026/03/apple-debuts-m5-pro-and-m5-max-to-supercharge-the-most-demanding-pro-workflows/",
+      "publishedAt": "2026-03-03T23:47:32Z",
+      "processed_at": "2026-03-04T23:32:20.957546+00:00"
+    },
+    {
+      "title": "Highguard to Permanently Shut Down on March 12, Wildlight to Release One Final Update With a New Warden, a New Weapon, Skill Trees, and More - IGN",
+      "source": {
+        "name": "IGN"
+      },
+      "description": "Wildlight has announced that it will be permanently shutting down Highguard on March 12. Before then...",
+      "url": "https://www.ign.com/articles/highguard-to-permanently-shut-down-on-march-12-wildlight-to-release-one-final-update-with-a-new-warden-a-new-weapon-skill-trees-and-more",
+      "publishedAt": "2026-03-03T20:50:38Z",
+      "processed_at": "2026-03-04T23:32:20.957546+00:00"
+    },
+    {
+      "title": "A Possible US Government iPhone-Hacking Toolkit Is Now in the Hands of Foreign Spies and Criminals - WIRED",
+      "source": {
+        "name": "Wired"
+      },
+      "description": "A highly sophisticated set of iPhone hijacking techniques has likely infected tens of thousands of p...",
+      "url": "https://www.wired.com/story/coruna-iphone-hacking-toolkit-us-government/",
+      "publishedAt": "2026-03-03T19:01:00Z",
+      "processed_at": "2026-03-04T23:32:20.957546+00:00"
+    },
+    {
+      "title": "The Pixel Watch now lets you tap to pay without opening the Wallet app - The Verge",
       "source": {
         "name": "The Verge"
       },
-      "description": "Wildlight Entertainment has announced that the free-to-play shooter Highguard has shut down soon aft...",
-      "url": "https://www.theverge.com/games/880206/highguard-shut-down",
-      "publishedAt": "2026-03-03T20:16:03Z",
-      "processed_at": "2026-03-04T22:34:08.797974+00:00"
-    },
-    {
-      "title": "Pixel March 2026 update fixes 16 issues: Pixel 10 GPU, battery, more - 9to5Google",
-      "source": {
-        "name": "9to5google.com"
-      },
-      "description": "Besides the new features introduced with Android 16 QPR3, the March 2026 Pixel update includes sever...",
-      "url": "http://9to5google.com/2026/03/03/pixel-march-2026-update/",
-      "publishedAt": "2026-03-03T19:35:00Z",
-      "processed_at": "2026-03-04T22:34:08.797974+00:00"
+      "description": "Google is launching a bunch of updates for the Pixel Watch, including a new “express mode” feature t...",
+      "url": "https://www.theverge.com/tech/888509/google-pixel-watch-update-express-pay",
+      "publishedAt": "2026-03-03T19:00:00Z",
+      "processed_at": "2026-03-04T23:32:20.957546+00:00"
     },
     {
       "title": "New Apple Studio Display and Studio Display XDR Don't Work With Intel Macs - MacRumors",
@@ -30,7 +50,7 @@
       "description": "If you still have a Mac with an Intel chip inside, you're not going to want to pick up one of the ne...",
       "url": "https://www.macrumors.com/2026/03/03/apple-studio-display-no-intel-mac-support/",
       "publishedAt": "2026-03-03T18:31:37Z",
-      "processed_at": "2026-03-04T22:34:08.797974+00:00"
+      "processed_at": "2026-03-04T23:32:20.957546+00:00"
     },
     {
       "title": "New MacBooks, the iPhone 17E, and more: Everything we know about Apple’s March 2026 announcements - The Verge",
@@ -40,7 +60,7 @@
       "description": "Apple is making a bunch of product announcements, including for the iPhone, iPad, and for MacBooks, ...",
       "url": "https://www.theverge.com/tech/888352/apple-march-2026-event-experience-announcements-iphone-macbook-ipad",
       "publishedAt": "2026-03-03T17:27:40Z",
-      "processed_at": "2026-03-04T22:34:08.797974+00:00"
+      "processed_at": "2026-03-04T23:32:20.957546+00:00"
     },
     {
       "title": "Amid new competition, Chrome speeds up its release schedule - TechCrunch",
@@ -50,27 +70,7 @@
       "description": "Google Chrome will begin shipping new releases every two weeks in September, instead of monthly....",
       "url": "https://techcrunch.com/2026/03/03/amid-new-competition-chrome-speeds-up-its-release-schedule/",
       "publishedAt": "2026-03-03T17:00:00Z",
-      "processed_at": "2026-03-04T22:34:08.797974+00:00"
-    },
-    {
-      "title": "Trials season 3: what you need to know - ARC Raiders",
-      "source": {
-        "name": "Arcraiders.com"
-      },
-      "description": "ARC Raiders is a multiplayer extraction adventure, set in a lethal future earth, ravaged by a myster...",
-      "url": "https://arcraiders.com/news/quick-guide-to-trials-season-3",
-      "publishedAt": "2026-03-03T16:59:14Z",
-      "processed_at": "2026-03-04T22:34:08.797974+00:00"
-    },
-    {
-      "title": "Leaked Apple Documents Detail MacBook Neo Features Ahead of Launch - MacRumors",
-      "source": {
-        "name": "MacRumors"
-      },
-      "description": "Accidentally leaked Apple documents that reveal the \"Neo\" name of the upcoming low-cost MacBook also...",
-      "url": "https://www.macrumors.com/2026/03/03/apple-documents-macbook-neo-features/",
-      "publishedAt": "2026-03-03T16:51:46Z",
-      "processed_at": "2026-03-04T22:34:08.797974+00:00"
+      "processed_at": "2026-03-04T23:32:20.957546+00:00"
     },
     {
       "title": "Apple May Add AirPlay-Like Feature to CarPlay, Making Tesla Integration More Compelling - Not a Tesla App",
@@ -80,30 +80,30 @@
       "description": "Apple is reportedly bringing native Apple TV support to CarPlay, just as Tesla works on officially a...",
       "url": "https://www.notateslaapp.com/news/3614/apple-may-add-airplay-like-feature-to-carplay-making-tesla-integration-more-compelling",
       "publishedAt": "2026-03-03T16:39:00Z",
-      "processed_at": "2026-03-04T22:34:08.797974+00:00"
+      "processed_at": "2026-03-04T23:32:20.957546+00:00"
     },
     {
-      "title": "Apple Raises Computer Prices With New MacBook Pro and Air Lines - Bloomberg.com",
+      "title": "Apple’s website leaks MacBook ‘Neo,’ which could be its new cheaper laptop - The Verge",
       "source": {
-        "name": "Bloomberg"
+        "name": "The Verge"
       },
-      "description": "Apple Inc. updated the MacBook Air and MacBook Pro, the company’s two main laptop computer lines, ad...",
-      "url": "https://www.bloomberg.com/news/articles/2026-03-03/apple-launches-upgraded-macbook-pro-air-and-new-studio-monitors",
-      "publishedAt": "2026-03-03T16:12:07Z",
-      "processed_at": "2026-03-04T22:34:08.797974+00:00"
+      "description": "A listing on a regulatory page on Apple’s website appeared to leak the “MacBook Neo,” which could be...",
+      "url": "https://www.theverge.com/tech/888226/apple-macbook-neo-website-leak",
+      "publishedAt": "2026-03-03T16:02:41Z",
+      "processed_at": "2026-03-04T23:32:20.957546+00:00"
     },
     {
-      "title": "Wrangle Double Rewards Selling Moonshine in Red Dead Online - Rockstar Games",
+      "title": "MacBook Neo leaks as name for low-cost model powered by iPhone chip - 9to5Mac",
       "source": {
-        "name": "Rockstargames.com"
+        "name": "9to5Mac"
       },
-      "description": "Fire the still and quench locals’ thirst for the hard stuff to earn 2X RDO$, XP, and Role XP complet...",
-      "url": "https://www.rockstargames.com/newswire/article/5174778o955352/wrangle-double-rewards-selling-moonshine-in-red-dead-online",
-      "publishedAt": "2026-03-03T15:05:57Z",
-      "processed_at": "2026-03-04T22:34:08.797974+00:00"
+      "description": "Apple is expected to announce an all-new, low-cost MacBook as soon as tomorrow, and MacBook Neo may ...",
+      "url": "https://9to5mac.com/2026/03/03/macbook-neo-could-be-name-for-low-cost-model-powered-by-iphone-chip/",
+      "publishedAt": "2026-03-03T15:07:00Z",
+      "processed_at": "2026-03-04T23:32:20.957546+00:00"
     }
   ],
-  "lastUpdated": "2026-03-04T22:34:08.798043+00:00",
+  "lastUpdated": "2026-03-04T23:32:20.957623+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
