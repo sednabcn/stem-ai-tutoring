@@ -3,6 +3,16 @@
   "totalResults": 10,
   "articles": [
     {
+      "title": "Big Google Home update lets Gemini describe live camera feeds - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "Google Home updates fix a long list of annoyances and introduces Live Search to give Gemini the powe...",
+      "url": "https://www.theverge.com/tech/888008/big-google-home-update-lets-gemini-describe-live-camera-feeds",
+      "publishedAt": "2026-03-03T09:55:29Z",
+      "processed_at": "2026-03-04T14:37:53.704423+00:00"
+    },
+    {
       "title": "Apple launches iPhone 17e at $599, boosts base storage - Honolulu Star-Advertiser",
       "source": {
         "name": "Honolulu Star-Advertiser"
@@ -10,7 +20,7 @@
       "description": "Apple today launched iPhone 17e, its more affordable smartphone model that starts at a price of $599...",
       "url": "https://www.staradvertiser.com/2026/03/02/breaking-news/apple-launches-iphone-17e-at-599-boosts-base-storage/",
       "publishedAt": "2026-03-03T06:33:08Z",
-      "processed_at": "2026-03-04T13:00:56.174351+00:00"
+      "processed_at": "2026-03-04T14:37:53.704423+00:00"
     },
     {
       "title": "PSA: Pokémon FireRed & LeafGreen Switch Version Apparently Fixes Legendary Beast Glitch - Nintendo Life",
@@ -20,17 +30,7 @@
       "description": "Good news, trainers...",
       "url": "https://www.nintendolife.com/news/2026/03/psa-pokemon-firered-and-leafgreen-switch-version-apparently-fixes-legendary-beast-glitch",
       "publishedAt": "2026-03-03T03:55:00Z",
-      "processed_at": "2026-03-04T13:00:56.174351+00:00"
-    },
-    {
-      "title": "Google fixes Gemini’s biggest Google Home frustrations - Android Police",
-      "source": {
-        "name": "Android Police"
-      },
-      "description": "Less interruption, more control...",
-      "url": "https://www.androidpolice.com/google-fixes-geminis-biggest-google-home-frustrations/",
-      "publishedAt": "2026-03-03T03:12:00Z",
-      "processed_at": "2026-03-04T13:00:56.174351+00:00"
+      "processed_at": "2026-03-04T14:37:53.704423+00:00"
     },
     {
       "title": "The Making of the Music of Kirby Air Riders — Part 1 - Nintendo",
@@ -40,17 +40,7 @@
       "description": "Interviewees Masahiro Sakurai (middle) Director of Kirby Air Riders. Worked on the Kirby™ series, Su...",
       "url": "https://www.nintendo.com/us/whatsnew/the-making-of-the-music-of-kirby-air-riders-part-1/",
       "publishedAt": "2026-03-03T01:03:38Z",
-      "processed_at": "2026-03-04T13:00:56.174351+00:00"
-    },
-    {
-      "title": "KGO forecaster off the air after open-heart surgery - SFGATE",
-      "source": {
-        "name": "SFGate"
-      },
-      "description": "Spencer Christian, weather forecaster for KGO-TV, has been off the air since February after an open-...",
-      "url": "https://www.sfgate.com/sf-culture/article/kgo-forecaster-heart-surgery-21951373.php",
-      "publishedAt": "2026-03-02T23:55:16Z",
-      "processed_at": "2026-03-04T13:00:56.174351+00:00"
+      "processed_at": "2026-03-04T14:37:53.704423+00:00"
     },
     {
       "title": "A new app alerts you if someone nearby is wearing smart glasses - TechCrunch",
@@ -60,7 +50,7 @@
       "description": "A hobbyist developer's new app, which can detect nearby smart glasses, comes amid resistance to alwa...",
       "url": "https://techcrunch.com/2026/03/02/nearby-glasses-new-app-alerts-you-wearing-smart-glasses-surveillance-meta-snap-bluetooth/",
       "publishedAt": "2026-03-02T22:40:00Z",
-      "processed_at": "2026-03-04T13:00:56.174351+00:00"
+      "processed_at": "2026-03-04T14:37:53.704423+00:00"
     },
     {
       "title": "Ubisoft Is Having A Pretty Enormous Sale Right Now - Kotaku",
@@ -70,27 +60,7 @@
       "description": "There are great deals available on Assassin's Creed Shadows, Star Wars Outlaws, The Division 2, and ...",
       "url": "https://kotaku.com/ubisoft-steam-sale-assassins-creed-shadows-star-wars-2000675127",
       "publishedAt": "2026-03-02T22:31:59Z",
-      "processed_at": "2026-03-04T13:00:56.174351+00:00"
-    },
-    {
-      "title": "Google Pixel's Now Playing feature rolls out as an app, and boy does it look good - Android Police",
-      "source": {
-        "name": "Android Police"
-      },
-      "description": "Get it now...",
-      "url": "https://www.androidpolice.com/google-pixel-now-playing-app-arrives/",
-      "publishedAt": "2026-03-02T21:40:09Z",
-      "processed_at": "2026-03-04T13:00:56.174351+00:00"
-    },
-    {
-      "title": "Rumour: Fallout Project, Possibly Remasters, Teased by Surprise Developer - Push Square",
-      "source": {
-        "name": "Push Square"
-      },
-      "description": "Please stand by...",
-      "url": "https://www.pushsquare.com/news/2026/03/rumour-fallout-project-possibly-remasters-teased-by-surprise-developer",
-      "publishedAt": "2026-03-02T21:30:00Z",
-      "processed_at": "2026-03-04T13:00:56.174351+00:00"
+      "processed_at": "2026-03-04T14:37:53.704423+00:00"
     },
     {
       "title": "Apple’s new products add C1X chip for three unique advantages - 9to5Mac",
@@ -100,10 +70,40 @@
       "description": "Apple announced iPhone 17e and M4 iPad Air today. Both devices include a C1X 5G modem, offering thre...",
       "url": "https://9to5mac.com/2026/03/02/apples-new-products-add-c1x-chip-for-three-unique-advantages/",
       "publishedAt": "2026-03-02T21:19:00Z",
-      "processed_at": "2026-03-04T13:00:56.174351+00:00"
+      "processed_at": "2026-03-04T14:37:53.704423+00:00"
+    },
+    {
+      "title": "Warner Bros. Discovery is \"rebuilding its video game pipeline\" after a \"significant\" 2025 - GamesIndustry.biz",
+      "source": {
+        "name": "GamesIndustry.biz"
+      },
+      "description": "Warner Bros. Discovery said 2025 was a \"significant\" year for the company, but made little mention o...",
+      "url": "https://www.gamesindustry.biz/warner-bros-discovery-is-rebuilding-its-video-game-pipeline-after-a-significant-2025",
+      "publishedAt": "2026-03-02T20:27:46Z",
+      "processed_at": "2026-03-04T14:37:53.704423+00:00"
+    },
+    {
+      "title": "Leon Kennedy's voice actor has seen your thirst traps, and he approves - GoNintendo",
+      "source": {
+        "name": "GoNintendo"
+      },
+      "description": "Daddy Leon agrees...",
+      "url": "https://gonintendo.com/contents/58306-leon-kennedy-s-voice-actor-has-seen-your-thirst-traps-and-he-approves",
+      "publishedAt": "2026-03-02T20:14:40Z",
+      "processed_at": "2026-03-04T14:37:53.704423+00:00"
+    },
+    {
+      "title": "Motorola partners with GrapheneOS for future phones - theregister.com",
+      "source": {
+        "name": "Theregister.com"
+      },
+      "description": ": Don't expect to see compatible hardware before 2027...",
+      "url": "https://www.theregister.com/2026/03/02/motorola_grapheneos/",
+      "publishedAt": "2026-03-02T19:45:00Z",
+      "processed_at": "2026-03-04T14:37:53.704423+00:00"
     }
   ],
-  "lastUpdated": "2026-03-04T13:00:56.174428+00:00",
+  "lastUpdated": "2026-03-04T14:37:53.704502+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
