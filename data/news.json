@@ -1,7 +1,37 @@
 {
   "status": "success",
-  "totalResults": 10,
+  "totalResults": 9,
   "articles": [
+    {
+      "title": "Resident Evil Requiem sales top five million - Gematsu",
+      "source": {
+        "name": "Gematsu"
+      },
+      "description": "Total sales for Resident Evil Requiem have surpassed five million units, Capcom announced....",
+      "url": "https://www.gematsu.com/2026/03/resident-evil-requiem-sales-top-five-million",
+      "publishedAt": "2026-03-04T07:15:25Z",
+      "processed_at": "2026-03-05T07:43:07.654804+00:00"
+    },
+    {
+      "title": "The T-Mobile Samsung Galaxy S26 Ultra \"On Us\" Deal Explained (No Trade-In or Port-In Required) - IGN",
+      "source": {
+        "name": "IGN"
+      },
+      "description": "",
+      "url": "https://www.ign.com/articles/t-mobile-samsung-galaxy-s26-ultra-deals-no-trade-in-or-port-in-required",
+      "publishedAt": "2026-03-04T05:44:00Z",
+      "processed_at": "2026-03-05T07:43:07.654804+00:00"
+    },
+    {
+      "title": "Pokémon Pokopia For Switch 2 Receives A Day One Update - Nintendo Life",
+      "source": {
+        "name": "Nintendo Life"
+      },
+      "description": "You'll need it to access online play...",
+      "url": "https://www.nintendolife.com/news/2026/03/pokemon-pokopia-for-switch-2-receives-a-day-one-update",
+      "publishedAt": "2026-03-04T03:55:00Z",
+      "processed_at": "2026-03-05T07:43:07.654804+00:00"
+    },
     {
       "title": "Nintendo Expands Switch Online's Virtual Boy And GBA Library With Three More Titles - Nintendo Life",
       "source": {
@@ -10,7 +40,17 @@
       "description": "Celebrating MAR10 Day...",
       "url": "https://www.nintendolife.com/news/2026/03/nintendo-expands-switch-onlines-virtual-boy-and-gba-library-with-three-more-titles",
       "publishedAt": "2026-03-04T01:25:00Z",
-      "processed_at": "2026-03-05T06:55:22.463853+00:00"
+      "processed_at": "2026-03-05T07:43:07.654804+00:00"
+    },
+    {
+      "title": "Legacy Of Kain: Defiance Remastered Switch Versions Hit With Last-Minute Delay - Nintendo Life",
+      "source": {
+        "name": "Nintendo Life"
+      },
+      "description": "Now launching at a \"later date\"...",
+      "url": "https://www.nintendolife.com/news/2026/03/legacy-of-kain-defiance-remastered-switch-versions-hit-with-last-minute-delay",
+      "publishedAt": "2026-03-04T00:55:00Z",
+      "processed_at": "2026-03-05T07:43:07.654804+00:00"
     },
     {
       "title": "Apple introduces the new MacBook Air with M5 - Apple",
@@ -20,90 +60,40 @@
       "description": "Apple today announced the new MacBook Air with M5, bringing exceptional performance and expanded AI ...",
       "url": "https://www.apple.com/newsroom/2026/03/apple-introduces-the-new-macbook-air-with-m5/",
       "publishedAt": "2026-03-04T00:53:40Z",
-      "processed_at": "2026-03-05T06:55:22.463853+00:00"
+      "processed_at": "2026-03-05T07:43:07.654804+00:00"
     },
     {
-      "title": "Apple's Studio Display XDR Supports DICOM Medical Imaging for Diagnostic Radiology - MacRumors",
+      "title": "First M4 iPad Air Benchmarks Surface - MacRumors",
       "source": {
         "name": "MacRumors"
       },
-      "description": "The new Studio Display XDR is designed for all kinds of professional work, and it is uniquely suited...",
-      "url": "https://www.macrumors.com/2026/03/03/studio-display-xdr-dicom-medical-imaging/",
-      "publishedAt": "2026-03-03T22:11:00Z",
-      "processed_at": "2026-03-05T06:55:22.463853+00:00"
+      "description": "",
+      "url": "https://www.macrumors.com/2026/03/03/first-m4-ipad-air-benchmarks-surface/",
+      "publishedAt": "2026-03-03T23:38:30Z",
+      "processed_at": "2026-03-05T07:43:07.654804+00:00"
     },
     {
-      "title": "Resident Evil Requiem’s ‘Final Puzzle’ Has Been Solved Without Datamining - Kotaku",
+      "title": "A suite of government hacking tools targeting iPhones is now being used by cybercriminals - TechCrunch",
       "source": {
-        "name": "Kotaku"
+        "name": "TechCrunch"
       },
-      "description": "Now we know all the clues and steps to solve the game-long puzzle...",
-      "url": "https://kotaku.com/resident-evil-requiem-final-puzzle-solution-datamine-video-2000675457",
-      "publishedAt": "2026-03-03T21:10:51Z",
-      "processed_at": "2026-03-05T06:55:22.463853+00:00"
+      "description": "Security researchers say exploits used by governments to hack into iPhones have been found to be use...",
+      "url": "https://techcrunch.com/2026/03/03/a-suite-of-government-hacking-tools-targeting-iphones-is-now-being-used-by-cybercriminals/",
+      "publishedAt": "2026-03-03T23:27:31Z",
+      "processed_at": "2026-03-05T07:43:07.654804+00:00"
     },
     {
-      "title": "A Possible US Government iPhone-Hacking Toolkit Is Now in the Hands of Foreign Spies and Criminals - WIRED",
+      "title": "March Pixel Drop unlocks new features you wish you had sooner - Android Police",
       "source": {
-        "name": "Wired"
+        "name": "Android Police"
       },
-      "description": "A highly sophisticated set of iPhone hijacking techniques has likely infected tens of thousands of p...",
-      "url": "https://www.wired.com/story/coruna-iphone-hacking-toolkit-us-government/",
-      "publishedAt": "2026-03-03T19:01:00Z",
-      "processed_at": "2026-03-05T06:55:22.463853+00:00"
-    },
-    {
-      "title": "Google brings Android’s desktop mode to Pixel devices - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "The Pixel 8 and up will display a desktop-like experience when connected to an external monitor....",
-      "url": "https://www.theverge.com/tech/888370/google-pixel-tablet-android-desktop-mode",
-      "publishedAt": "2026-03-03T19:00:00Z",
-      "processed_at": "2026-03-05T06:55:22.463853+00:00"
-    },
-    {
-      "title": "Android’s Find Hub adds iPhone-like luggage tracking links - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "Google is launching a new luggage-tracking feature to its Find Hub, allowing you to provide airlines...",
-      "url": "https://www.theverge.com/tech/888200/google-android-find-hub-luggage-tracking",
-      "publishedAt": "2026-03-03T19:00:00Z",
-      "processed_at": "2026-03-05T06:55:22.463853+00:00"
-    },
-    {
-      "title": "Google’s latest Pixel drop allows Gemini to order groceries for you and more - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "Google is launching a big update for Pixel phones, and that includes the ability for its Gemini AI a...",
-      "url": "https://www.theverge.com/tech/888295/google-gemini-pixel-drop-march-2026",
-      "publishedAt": "2026-03-03T19:00:00Z",
-      "processed_at": "2026-03-05T06:55:22.463853+00:00"
-    },
-    {
-      "title": "Marathon Confirms Seasonal Resets, Which Means Everyone's Gear, Contract and Faction Progression, and Player Level Wipe Every Few Months - IGN",
-      "source": {
-        "name": "IGN"
-      },
-      "description": "Bungie has outlined what to expect from Marathon upon launch, and confirmed plans for seasonal wipes...",
-      "url": "https://www.ign.com/articles/marathon-confirms-seasonal-resets-which-means-everyones-gear-contract-and-faction-progression-and-player-level-wipe-every-few-months",
-      "publishedAt": "2026-03-03T18:20:22Z",
-      "processed_at": "2026-03-05T06:55:22.463853+00:00"
-    },
-    {
-      "title": "The Division 10th Anniversary Showcase: The Division 2 Anniversary Season and Roadmap, The Division Resurgence Launch Date - Ubisoft",
-      "source": {
-        "name": "Ubisoft.com"
-      },
-      "description": "The Division 2's Anniversary Season offers a limited-time Realism Mode, free access to the Warlords ...",
-      "url": "https://news.ubisoft.com/en-us/article/5pVBLd1upCxSwirB01VQ9m/the-division-10th-anniversary-showcase-the-division-2-anniversary-season-and-roadmap-the-division-resurgence-launch-date",
-      "publishedAt": "2026-03-03T17:28:49Z",
-      "processed_at": "2026-03-05T06:55:22.463853+00:00"
+      "description": "Get it now!...",
+      "url": "https://www.androidpolice.com/march-pixel-drop-lands-with-new-upgrades-you-dont-want-to-miss/",
+      "publishedAt": "2026-03-03T22:16:30Z",
+      "processed_at": "2026-03-05T07:43:07.654804+00:00"
     }
   ],
-  "lastUpdated": "2026-03-05T06:55:22.463927+00:00",
+  "lastUpdated": "2026-03-05T07:43:07.654890+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
