@@ -1,7 +1,27 @@
 {
   "status": "success",
-  "totalResults": 9,
+  "totalResults": 8,
   "articles": [
+    {
+      "title": "Capcom delivered a marketing masterclass with Resident Evil Requiem - The Game Business",
+      "source": {
+        "name": "Thegamebusiness.com"
+      },
+      "description": "Plus! What is AI telling gamers?...",
+      "url": "https://www.thegamebusiness.com/p/capcom-delivered-a-marketing-masterclass",
+      "publishedAt": "2026-03-05T14:30:23Z",
+      "processed_at": "2026-03-06T19:35:12.205700+00:00"
+    },
+    {
+      "title": "Pokémon Pokopia Is Available Now on Nintendo Switch 2 - Pokemon.com",
+      "source": {
+        "name": "Pokemon.com"
+      },
+      "description": "You can celebrate the release of this cozy new adventure with a special limited-time event and an ea...",
+      "url": "https://www.pokemon.com/us/pokemon-news/pokemon-pokopia-is-available-now-on-nintendo-switch-2",
+      "publishedAt": "2026-03-05T14:05:20Z",
+      "processed_at": "2026-03-06T19:35:12.205700+00:00"
+    },
     {
       "title": "macOS Tahoe 26.3.1 update will “upgrade” your M5’s CPU to new “super” cores - Ars Technica",
       "source": {
@@ -10,7 +30,7 @@
       "description": "In otherwise minor software update, macOS now uses M5's new nomenclature....",
       "url": "https://arstechnica.com/gadgets/2026/03/macos-tahoe-26-3-1-update-will-upgrade-your-m5s-cpu-to-new-super-cores/",
       "publishedAt": "2026-03-05T13:28:43Z",
-      "processed_at": "2026-03-06T18:50:30.460224+00:00"
+      "processed_at": "2026-03-06T19:35:12.205700+00:00"
     },
     {
       "title": "Xbox Game Pass subscribers now have two free bonus games to play - TrueAchievements",
@@ -20,17 +40,17 @@
       "description": "With the weekend now on the horizon, Free Play Days has returned with four games that Xbox Game Pass...",
       "url": "https://www.trueachievements.com/news/free-play-days-march-5-2026",
       "publishedAt": "2026-03-05T13:12:39Z",
-      "processed_at": "2026-03-06T18:50:30.460224+00:00"
+      "processed_at": "2026-03-06T19:35:12.205700+00:00"
     },
     {
-      "title": "Pokémon Pokopia is out today, but it already has its first limited-time event, with three cute Pokémon only available for a two-week window this month - Eurogamer",
+      "title": "MacBook Neo Expected to 'Reshape' Laptop Market in Major Way - MacRumors",
       "source": {
-        "name": "Eurogamer.net"
+        "name": "MacRumors"
       },
-      "description": "The first Pokémon Pokopia event sees players meeting and befriending Hoppip, Skiploom and Jumpluff, ...",
-      "url": "https://www.eurogamer.net/pokemon-pokopia-sets-first-limited-time-event-with-hoppip-skiploom-jumpluff",
-      "publishedAt": "2026-03-05T11:45:47Z",
-      "processed_at": "2026-03-06T18:50:30.460224+00:00"
+      "description": "Apple's new MacBook Neo could help the company grow notebook shipments by nearly 8% this year, even ...",
+      "url": "https://www.macrumors.com/2026/03/05/macbook-neo-could-ship-5m-units-2026/",
+      "publishedAt": "2026-03-05T12:52:38Z",
+      "processed_at": "2026-03-06T19:35:12.205700+00:00"
     },
     {
       "title": "Google starts shaming apps that drain your battery - Android Authority",
@@ -40,27 +60,17 @@
       "description": "Google is officially rolling out warning alert boxes, that highlight Play Store apps guilty of exces...",
       "url": "https://www.androidauthority.com/play-store-battery-warning-3646850/",
       "publishedAt": "2026-03-05T11:35:40Z",
-      "processed_at": "2026-03-06T18:50:30.460224+00:00"
+      "processed_at": "2026-03-06T19:35:12.205700+00:00"
     },
     {
-      "title": "Nothing Phone (4a) series goes official with major Pro upgrades from £349 - 9to5Google",
+      "title": "WhatsApp will soon join the premium subscription club - Android Police",
       "source": {
-        "name": "9to5google.com"
+        "name": "Android Police"
       },
-      "description": "Nothing has just launched its new Phone (4a) and Phone (4a) Pro with a slightly higher starting pric...",
-      "url": "http://9to5google.com/2026/03/05/nothing-phone-4a-specs-price-release-date/",
-      "publishedAt": "2026-03-05T11:15:00Z",
-      "processed_at": "2026-03-06T18:50:30.460224+00:00"
-    },
-    {
-      "title": "Apple MacBook Neo Capped at 8 GB RAM by A18 Pro InFO-PoP Packaging - TechPowerUp",
-      "source": {
-        "name": "Techpowerup.com"
-      },
-      "description": "Yesterday, Apple announced its newest low-cost MacBook Neo, starting at $599 in the United States, o...",
-      "url": "https://www.techpowerup.com/347063/apple-macbook-neo-capped-at-8-gb-ram-by-a18-pro-info-pop-packaging",
-      "publishedAt": "2026-03-05T09:53:01Z",
-      "processed_at": "2026-03-06T18:50:30.460224+00:00"
+      "description": "More features for power users...",
+      "url": "https://www.androidpolice.com/whatsapp-will-soon-join-the-premium-subscription-club/",
+      "publishedAt": "2026-03-05T08:06:54Z",
+      "processed_at": "2026-03-06T19:35:12.205700+00:00"
     },
     {
       "title": "Assassin's Creed: Into 2026 - Ubisoft",
@@ -70,30 +80,10 @@
       "description": "Take a look at what we’re planning over the next few months across the Assassin's Creed brand....",
       "url": "https://www.ubisoft.com/en-us/news/ignt.58638/assassin-s-creed-into-2026",
       "publishedAt": "2026-03-05T02:20:56Z",
-      "processed_at": "2026-03-06T18:50:30.460224+00:00"
-    },
-    {
-      "title": "Apple Does Not Include a Charger With All New MacBooks in UK and EU - MacRumors",
-      "source": {
-        "name": "MacRumors"
-      },
-      "description": "None of the new MacBook Neo, MacBook Air, or MacBook Pro models unveiled this week come with a charg...",
-      "url": "https://www.macrumors.com/2026/03/04/macbook-neo-no-charger-in-uk-or-eu/",
-      "publishedAt": "2026-03-05T00:55:55Z",
-      "processed_at": "2026-03-06T18:50:30.460224+00:00"
-    },
-    {
-      "title": "Highguard Skeleton Crew Crunches To Ship Update Amid Pile-On - Kotaku",
-      "source": {
-        "name": "Kotaku"
-      },
-      "description": "The major update adds an entire skill tree, XP progression, and hero...",
-      "url": "https://kotaku.com/highguard-final-update-shutdown-concord-toxic-2000675964",
-      "publishedAt": "2026-03-04T23:22:53Z",
-      "processed_at": "2026-03-06T18:50:30.460224+00:00"
+      "processed_at": "2026-03-06T19:35:12.205700+00:00"
     }
   ],
-  "lastUpdated": "2026-03-06T18:50:30.460290+00:00",
+  "lastUpdated": "2026-03-06T19:35:12.205771+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
