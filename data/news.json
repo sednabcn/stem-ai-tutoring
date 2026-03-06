@@ -1,26 +1,76 @@
 {
   "status": "success",
-  "totalResults": 8,
+  "totalResults": 9,
   "articles": [
     {
-      "title": "Capcom delivered a marketing masterclass with Resident Evil Requiem - The Game Business",
+      "title": "Microsoft teases its next Xbox, says ‘Project Helix’ will play PC games too - The Verge",
       "source": {
-        "name": "Thegamebusiness.com"
+        "name": "The Verge"
       },
-      "description": "Plus! What is AI telling gamers?...",
-      "url": "https://www.thegamebusiness.com/p/capcom-delivered-a-marketing-masterclass",
-      "publishedAt": "2026-03-05T14:30:23Z",
-      "processed_at": "2026-03-06T22:30:41.316232+00:00"
+      "description": "The next-generation Xbox console will play both Xbox and PC games, and its codename is “Project Heli...",
+      "url": "https://www.theverge.com/games/890194/microsoft-teases-its-next-xbox-says-project-helix-will-play-pc-games-too",
+      "publishedAt": "2026-03-05T20:14:17Z",
+      "processed_at": "2026-03-06T23:29:02.452202+00:00"
     },
     {
-      "title": "Pokémon Pokopia Is Available Now on Nintendo Switch 2 - Pokemon.com",
+      "title": "All of Apple's new launches graded from worst to best - AppleInsider",
       "source": {
-        "name": "Pokemon.com"
+        "name": "AppleInsider"
       },
-      "description": "You can celebrate the release of this cozy new adventure with a special limited-time event and an ea...",
-      "url": "https://www.pokemon.com/us/pokemon-news/pokemon-pokopia-is-available-now-on-nintendo-switch-2",
-      "publishedAt": "2026-03-05T14:05:20Z",
-      "processed_at": "2026-03-06T22:30:41.316232+00:00"
+      "description": "Apple's week of launches has seen it update its iPhones, MacBooks, iPads, and displays, but only som...",
+      "url": "https://appleinsider.com/articles/26/03/05/grading-apples-release-week---macbook-pro-air-neo-and-more",
+      "publishedAt": "2026-03-05T16:52:50Z",
+      "processed_at": "2026-03-06T23:29:02.452202+00:00"
+    },
+    {
+      "title": "Exclusive: Apple executive details affordable new MacBook Neo, AI-integrated technology and more - ABC News",
+      "source": {
+        "name": "Abcnews.com"
+      },
+      "description": "",
+      "url": "https://abcnews.com/GMA/News/exclusive-apple-executive-details-affordable-new-macbook-neo/story?id\\\\u003d130782617",
+      "publishedAt": "2026-03-05T16:20:25Z",
+      "processed_at": "2026-03-06T23:29:02.452202+00:00"
+    },
+    {
+      "title": "Claim the Vapid Firebolt ASP Off-Roader and Much More with GTA+ - Rockstar Games",
+      "source": {
+        "name": "Rockstargames.com"
+      },
+      "description": "Conquer the off-road trails of Southern San Andreas with a flatbed beast that's free to claim for GT...",
+      "url": "https://www.rockstargames.com/newswire/article/o394k121o8oa14/claim-the-vapid-firebolt-asp-off-roader-and-much-more-with-gta",
+      "publishedAt": "2026-03-05T16:09:21Z",
+      "processed_at": "2026-03-06T23:29:02.452202+00:00"
+    },
+    {
+      "title": "Free Play Days – Call of Duty Black Ops 7, Sonic Racing: CrossWorlds, FBC: Firebreak and Black Desert - Xbox Wire",
+      "source": {
+        "name": "Xbox.com"
+      },
+      "description": "Free Play Days - enjoy Call of Duty Black Ops 7, Sonic Racing: CrossWorlds, FBC: Firebreak and Black...",
+      "url": "https://news.xbox.com/en-us/2026/03/05/free-play-days-03-05-2026/",
+      "publishedAt": "2026-03-05T16:01:56Z",
+      "processed_at": "2026-03-06T23:29:02.452202+00:00"
+    },
+    {
+      "title": "\"We don't want to mislead players\" - Control Resonant devs confirm Jesse Faden won't be playable, there's no parry, and it's definitely not a Soulslike - Eurogamer.net",
+      "source": {
+        "name": "Eurogamer.net"
+      },
+      "description": "Remedy recently shared more details on its upcoming sequel, Control Resonant....",
+      "url": "https://www.eurogamer.net/we-dont-want-to-mislead-players-control-resonant-devs-confirm-jesse-faden-wont-be-playable-theres-no-parry-and-its-definitely-not-a-soulslike",
+      "publishedAt": "2026-03-05T15:39:53Z",
+      "processed_at": "2026-03-06T23:29:02.452202+00:00"
+    },
+    {
+      "title": "Outfit the Pfister X-Treme in the New Premier Half Camo Livery - Rockstar Games",
+      "source": {
+        "name": "Rockstargames.com"
+      },
+      "description": "They say you can’t improve on perfection, but they say a lot of things that aren’t true. Gild the li...",
+      "url": "https://www.rockstargames.com/newswire/article/25241811285o98/outfit-the-pfister-x-treme-in-the-new-premier-half-camo-livery",
+      "publishedAt": "2026-03-05T14:59:21Z",
+      "processed_at": "2026-03-06T23:29:02.452202+00:00"
     },
     {
       "title": "macOS Tahoe 26.3.1 update will “upgrade” your M5’s CPU to new “super” cores - Ars Technica",
@@ -30,60 +80,20 @@
       "description": "In otherwise minor software update, macOS now uses M5's new nomenclature....",
       "url": "https://arstechnica.com/gadgets/2026/03/macos-tahoe-26-3-1-update-will-upgrade-your-m5s-cpu-to-new-super-cores/",
       "publishedAt": "2026-03-05T13:28:43Z",
-      "processed_at": "2026-03-06T22:30:41.316232+00:00"
+      "processed_at": "2026-03-06T23:29:02.452202+00:00"
     },
     {
-      "title": "Xbox Game Pass subscribers now have two free bonus games to play - TrueAchievements",
+      "title": "Pokémon Pokopia is out today, but it already has its first limited-time event, with three cute Pokémon only available for a two-week window this month - Eurogamer",
       "source": {
-        "name": "TrueAchievements"
+        "name": "Eurogamer.net"
       },
-      "description": "With the weekend now on the horizon, Free Play Days has returned with four games that Xbox Game Pass...",
-      "url": "https://www.trueachievements.com/news/free-play-days-march-5-2026",
-      "publishedAt": "2026-03-05T13:12:39Z",
-      "processed_at": "2026-03-06T22:30:41.316232+00:00"
-    },
-    {
-      "title": "MacBook Neo Expected to 'Reshape' Laptop Market in Major Way - MacRumors",
-      "source": {
-        "name": "MacRumors"
-      },
-      "description": "Apple's new MacBook Neo could help the company grow notebook shipments by nearly 8% this year, even ...",
-      "url": "https://www.macrumors.com/2026/03/05/macbook-neo-could-ship-5m-units-2026/",
-      "publishedAt": "2026-03-05T12:52:38Z",
-      "processed_at": "2026-03-06T22:30:41.316232+00:00"
-    },
-    {
-      "title": "Google starts shaming apps that drain your battery - Android Authority",
-      "source": {
-        "name": "Android Authority"
-      },
-      "description": "Google is officially rolling out warning alert boxes, that highlight Play Store apps guilty of exces...",
-      "url": "https://www.androidauthority.com/play-store-battery-warning-3646850/",
-      "publishedAt": "2026-03-05T11:35:40Z",
-      "processed_at": "2026-03-06T22:30:41.316232+00:00"
-    },
-    {
-      "title": "WhatsApp will soon join the premium subscription club - Android Police",
-      "source": {
-        "name": "Android Police"
-      },
-      "description": "More features for power users...",
-      "url": "https://www.androidpolice.com/whatsapp-will-soon-join-the-premium-subscription-club/",
-      "publishedAt": "2026-03-05T08:06:54Z",
-      "processed_at": "2026-03-06T22:30:41.316232+00:00"
-    },
-    {
-      "title": "Assassin's Creed: Into 2026 - Ubisoft",
-      "source": {
-        "name": "Ubisoft.com"
-      },
-      "description": "Take a look at what we’re planning over the next few months across the Assassin's Creed brand....",
-      "url": "https://www.ubisoft.com/en-us/news/ignt.58638/assassin-s-creed-into-2026",
-      "publishedAt": "2026-03-05T02:20:56Z",
-      "processed_at": "2026-03-06T22:30:41.316232+00:00"
+      "description": "The first Pokémon Pokopia event sees players meeting and befriending Hoppip, Skiploom and Jumpluff, ...",
+      "url": "https://www.eurogamer.net/pokemon-pokopia-sets-first-limited-time-event-with-hoppip-skiploom-jumpluff",
+      "publishedAt": "2026-03-05T11:45:47Z",
+      "processed_at": "2026-03-06T23:29:02.452202+00:00"
     }
   ],
-  "lastUpdated": "2026-03-06T22:30:41.316298+00:00",
+  "lastUpdated": "2026-03-06T23:29:02.452274+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
