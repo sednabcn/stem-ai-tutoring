@@ -3,6 +3,16 @@
   "totalResults": 10,
   "articles": [
     {
+      "title": "Next-gen Xbox console, codenamed Project Helix, will play PC games - GamesIndustry.biz",
+      "source": {
+        "name": "GamesIndustry.biz"
+      },
+      "description": "Xbox CEO Asha Sharma says hardware demonstrates its \"commitment to the return of Xbox\"...",
+      "url": "https://www.gamesindustry.biz/next-gen-xbox-console-codenamed-project-helix-will-play-pc-games",
+      "publishedAt": "2026-03-06T10:14:27Z",
+      "processed_at": "2026-03-07T15:25:48.315206+00:00"
+    },
+    {
       "title": "Capcom's astronaut and small girl-starring Pragmata gets yet another new release date - Eurogamer",
       "source": {
         "name": "Eurogamer.net"
@@ -10,17 +20,37 @@
       "description": "Pragmata - the long-in-the-works space-based caper from Capcom - has a new release date....",
       "url": "https://www.eurogamer.net/capcoms-astronaut-and-small-girl-starring-pragmata-gets-yet-another-new-release-date",
       "publishedAt": "2026-03-06T09:34:11Z",
-      "processed_at": "2026-03-07T14:26:10.791678+00:00"
+      "processed_at": "2026-03-07T15:25:48.315206+00:00"
     },
     {
-      "title": "Here’s how the new M5 Max chip did on early Geekbench tests - 9to5Mac",
+      "title": "System76 on Age Verification Laws - Hacker News",
       "source": {
-        "name": "9to5Mac"
+        "name": "Hacker News"
       },
-      "description": "While the new Macs won’t be available until March 11, the first M5 Max benchmark has already appeare...",
-      "url": "https://9to5mac.com/2026/03/05/heres-how-the-new-m5-max-chip-did-on-early-geekbench-tests/",
-      "publishedAt": "2026-03-06T02:38:00Z",
-      "processed_at": "2026-03-07T14:26:10.791678+00:00"
+      "description": "",
+      "url": "https://news.ycombinator.com/item?id\\\\u003d47270784",
+      "publishedAt": "2026-03-06T04:35:32Z",
+      "processed_at": "2026-03-07T15:25:48.315206+00:00"
+    },
+    {
+      "title": "Apple Announces New Collaboration With Sydney Opera House - MacRumors",
+      "source": {
+        "name": "MacRumors"
+      },
+      "description": "Apple and the Sydney Opera House today announced a yearlong collaboration to help inspire the next g...",
+      "url": "https://www.macrumors.com/2026/03/05/apple-sydney-opera-house-collaboration/",
+      "publishedAt": "2026-03-06T03:49:12Z",
+      "processed_at": "2026-03-07T15:25:48.315206+00:00"
+    },
+    {
+      "title": "adidas Reveal the Hyperboost Edge, Beginning A New Era of Road Running - adidas News",
+      "source": {
+        "name": "Adidas.com"
+      },
+      "description": "",
+      "url": "https://news.adidas.com/running/adidas-reveal-the-hyperboost-edge--beginning-a-new-era-of-road-running/s/74c11526-ce60-405c-8c47-c1edae16c9e3",
+      "publishedAt": "2026-03-06T03:16:05Z",
+      "processed_at": "2026-03-07T15:25:48.315206+00:00"
     },
     {
       "title": "Sakurai reveals that he wrote the lyrics for Kirby Air Riders' main theme song, explains why he kept it under wraps - Nintendo Everything",
@@ -30,7 +60,7 @@
       "description": "Director Masahiro Sakurai reveals that he was behind the lyrics for Kirby Air Riders' main theme son...",
       "url": "https://nintendoeverything.com/kirby-air-riders-main-theme-song-lyrics-masahiro-sakurai/",
       "publishedAt": "2026-03-06T01:25:45Z",
-      "processed_at": "2026-03-07T14:26:10.791678+00:00"
+      "processed_at": "2026-03-07T15:25:48.315206+00:00"
     },
     {
       "title": "Bungie asks sites to delay Marathon reviews, with release date Steam player count below 100K - Notebookcheck",
@@ -40,17 +70,27 @@
       "description": "Gamers may have to form their own opinions about whether Marathon was worth the wait. Although not m...",
       "url": "https://www.notebookcheck.net/Bungie-asks-sites-to-delay-Marathon-reviews-with-release-date-Steam-player-count-below-100K.1243596.0.html",
       "publishedAt": "2026-03-06T00:42:00Z",
-      "processed_at": "2026-03-07T14:26:10.791678+00:00"
+      "processed_at": "2026-03-07T15:25:48.315206+00:00"
     },
     {
-      "title": "First MacBook Neo Benchmarks Are In: Here's How It Compares to the M1 MacBook Air - MacRumors",
+      "title": "Samsung Galaxy Book6 Ultra Review - Impressive multimedia laptop with gorgeous OLED & RTX 5070 - Notebookcheck",
+      "source": {
+        "name": "Notebookcheck.net"
+      },
+      "description": "Notebookcheck review of the Samsung Galaxy Book6 Ultra with Intel Core Ultra 7 356H, 32 GB RAM, GeFo...",
+      "url": "https://www.notebookcheck.net/Samsung-Galaxy-Book6-Ultra-Review-Impressive-multimedia-laptop-with-gorgeous-OLED-RTX-5070.1242686.0.html",
+      "publishedAt": "2026-03-06T00:40:00Z",
+      "processed_at": "2026-03-07T15:25:48.315206+00:00"
+    },
+    {
+      "title": "Apple's M5 Max Chip Achieves a New Record in First Benchmark Result - MacRumors",
       "source": {
         "name": "MacRumors"
       },
-      "description": "Benchmarks for the new MacBook Neo surfaced today, and unsurprisingly, CPU performance is almost ide...",
-      "url": "https://www.macrumors.com/2026/03/05/macbook-neo-first-benchmarks/",
-      "publishedAt": "2026-03-06T00:07:41Z",
-      "processed_at": "2026-03-07T14:26:10.791678+00:00"
+      "description": "The first Geekbench 6 result for a 16-inch MacBook Pro with the M5 Max chip surfaced today, and Appl...",
+      "url": "https://www.macrumors.com/2026/03/05/m5-max-geekbench-benchmarks/",
+      "publishedAt": "2026-03-05T23:50:14Z",
+      "processed_at": "2026-03-07T15:25:48.315206+00:00"
     },
     {
       "title": "Google releases Pixel 10a ‘stallion’ factory images - 9to5Google",
@@ -60,50 +100,10 @@
       "description": "With the Pixel 10a now on store shelves, Google today released factory images for \"stallion.” There ...",
       "url": "http://9to5google.com/2026/03/05/pixel-10a-factory-images/",
       "publishedAt": "2026-03-05T23:26:00Z",
-      "processed_at": "2026-03-07T14:26:10.791678+00:00"
-    },
-    {
-      "title": "Microsoft confirms Project Helix, the next-gen Xbox console: What we know - Mashable",
-      "source": {
-        "name": "Mashable"
-      },
-      "description": "The next-generation of Xbox is official....",
-      "url": "https://mashable.com/article/microsoft-confirms-project-helix-next-gen-xbox-gaming-console",
-      "publishedAt": "2026-03-05T23:13:45Z",
-      "processed_at": "2026-03-07T14:26:10.791678+00:00"
-    },
-    {
-      "title": "50 Job Tweets That Are So Funny, I Literally Choked On My Coffee During A Team Meeting - BuzzFeed",
-      "source": {
-        "name": "Buzzfeed"
-      },
-      "description": "\"ever since I moved my lectures from 9am to 1pm so many of my students family members have stopped p...",
-      "url": "https://www.buzzfeed.com/chelseastewart/funny-job-tweets-february-2026",
-      "publishedAt": "2026-03-05T21:55:12Z",
-      "processed_at": "2026-03-07T14:26:10.791678+00:00"
-    },
-    {
-      "title": "Robin Williams Had A Rare Computer Monitor That Even Modern Enthusiasts Would Love - bgr.com",
-      "source": {
-        "name": "BGR"
-      },
-      "description": "Robin Williams' love for video games extended beyond Nintendo, as a majority of his PC gaming early ...",
-      "url": "https://www.bgr.com/2109466/robin-williams-24-inch-sony-trinitron-rare-monitor/",
-      "publishedAt": "2026-03-05T21:17:00Z",
-      "processed_at": "2026-03-07T14:26:10.791678+00:00"
-    },
-    {
-      "title": "Pokémon Pokopia: Walkthrough, All Pokémon, Abilities, Building Tips & Tricks - Nintendo Life",
-      "source": {
-        "name": "Nintendo Life"
-      },
-      "description": "A Pocket Monster Paradise...",
-      "url": "https://www.nintendolife.com/guides/pokemon-pokopia-walkthrough-all-pokemon-abilities-building-tips-and-tricks",
-      "publishedAt": "2026-03-05T21:05:59Z",
-      "processed_at": "2026-03-07T14:26:10.791678+00:00"
+      "processed_at": "2026-03-07T15:25:48.315206+00:00"
     }
   ],
-  "lastUpdated": "2026-03-07T14:26:10.791752+00:00",
+  "lastUpdated": "2026-03-07T15:25:48.315280+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
