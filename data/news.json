@@ -1,7 +1,17 @@
 {
   "status": "success",
-  "totalResults": 10,
+  "totalResults": 9,
   "articles": [
+    {
+      "title": "DJI will pay $30K to the man who accidentally hacked 7,000 Romo robovacs - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "DJI will pay Sammy Azdoufal $30,000 after he used Claude Code to accidentally access a network of 7,...",
+      "url": "https://www.theverge.com/news/890982/dji-pay-sammy-azdoufal-robot-vacuum-hack-romo-security",
+      "publishedAt": "2026-03-07T02:59:00Z",
+      "processed_at": "2026-03-08T05:43:57.090629+00:00"
+    },
     {
       "title": "Valve’s Steam Machine may not launch this year - The Verge",
       "source": {
@@ -10,27 +20,37 @@
       "description": "Valve confirms to The Verge that the Steam Machine, Steam Frame, and Steam Controller will ship in 2...",
       "url": "https://www.theverge.com/games/890986/valve-steam-machine-frame-controller-delay-ram-memory",
       "publishedAt": "2026-03-06T23:39:25Z",
-      "processed_at": "2026-03-08T04:44:09.517352+00:00"
+      "processed_at": "2026-03-08T05:43:57.090629+00:00"
     },
     {
-      "title": "GLP-1 Patients Report New Side Effect—and It’s Worse Than ‘Ozempic Face’ - The Daily Beast",
+      "title": "Xbox Drops 2 AAA Free Games, No Game Pass Required To Play - GAMINGbible",
       "source": {
-        "name": "Daily Beast"
+        "name": "Gamingbible.com"
       },
-      "description": "It won’t ruin your face or butt, but it might ruin your life—at least for a little while....",
-      "url": "https://thelooker.thedailybeast.com/people-on-weight-loss-drugs-report-a-side-effect-worse-than-ozempic-face/",
-      "publishedAt": "2026-03-06T23:26:00Z",
-      "processed_at": "2026-03-08T04:44:09.517352+00:00"
+      "description": "Xbox users can enjoy 4 AAA games for free for a limited time, with 2 games not requiring a Game Pass...",
+      "url": "https://www.gamingbible.com/news/platform/xbox/xbox-drops-2-aaa-free-games-528407-20260306",
+      "publishedAt": "2026-03-06T22:00:00Z",
+      "processed_at": "2026-03-08T05:43:57.090629+00:00"
     },
     {
-      "title": "Apple on MacBook Neo Design: 'We're Certainly Not Making Any Compromises' - MacRumors",
+      "title": "iPhone 17e Benchmarks Reveal A19 Chip Performance With a Tiny Catch - MacRumors",
       "source": {
         "name": "MacRumors"
       },
-      "description": "While the MacBook Neo starts at just $599, or an even lower $499 for college students, Apple has ins...",
-      "url": "https://www.macrumors.com/2026/03/06/apple-macbook-neo-design-interview/",
-      "publishedAt": "2026-03-06T19:22:32Z",
-      "processed_at": "2026-03-08T04:44:09.517352+00:00"
+      "description": "The first benchmarks for the iPhone 17e surfaced in the Geekbench 6 database today, offering a close...",
+      "url": "https://www.macrumors.com/2026/03/06/iphone-17e-benchmarks/",
+      "publishedAt": "2026-03-06T21:18:21Z",
+      "processed_at": "2026-03-08T05:43:57.090629+00:00"
+    },
+    {
+      "title": "‘Final Fantasy VII Remake’ Director Teases The Trilogy’s Finale - Bloomberg.com",
+      "source": {
+        "name": "Bloomberg"
+      },
+      "description": "“I’m hoping it’s not going to be too far in the future,” Naoki Hamaguchi tells us...",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-03-06/-final-fantasy-vii-remake-director-teases-the-trilogy-s-finale",
+      "publishedAt": "2026-03-06T18:00:01Z",
+      "processed_at": "2026-03-08T05:43:57.090629+00:00"
     },
     {
       "title": "Review: Blue Prince (Switch 2) - A Masterful Mystery, And One Of The Best Puzzlers Ever - Nintendo Life",
@@ -40,7 +60,27 @@
       "description": "Homes Under The Planner...",
       "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/blue-prince",
       "publishedAt": "2026-03-06T18:00:00Z",
-      "processed_at": "2026-03-08T04:44:09.517352+00:00"
+      "processed_at": "2026-03-08T05:43:57.090629+00:00"
+    },
+    {
+      "title": "The Super Hero Team-based PVP Shooter - Marvel Rivals",
+      "source": {
+        "name": "Marvelrivals.com"
+      },
+      "description": "Play for free Now! Get ready to Ignite the Battle with Marvel Rivals!...",
+      "url": "https://www.marvelrivals.com/announcements/20260305/40955_1289568.html",
+      "publishedAt": "2026-03-06T17:53:56Z",
+      "processed_at": "2026-03-08T05:43:57.090629+00:00"
+    },
+    {
+      "title": "Slay the Spire 2's launch has been so incredibly successful, the studio had to apologise for a joke about Marathon that now \"seems a bit meaner than it was intended\" - Eurogamer.net",
+      "source": {
+        "name": "Eurogamer.net"
+      },
+      "description": "Game developer behind Slay the Spire 2 has assured people that their congratulations message to the ...",
+      "url": "https://www.eurogamer.net/slay-the-spire-2-launch-so-successful-studio-had-to-apologise-for-joke-marathon",
+      "publishedAt": "2026-03-06T17:34:29Z",
+      "processed_at": "2026-03-08T05:43:57.090629+00:00"
     },
     {
       "title": "Android 16 QPR3: Pixel Launcher search bar loses M3 Expressive redesign - 9to5Google",
@@ -50,60 +90,10 @@
       "description": "The Android 16 QPR3 March update compounds this design regression by removing the M3 Expressive sear...",
       "url": "http://9to5google.com/2026/03/06/android-16-qpr3-pixel-launcher-search/",
       "publishedAt": "2026-03-06T17:24:00Z",
-      "processed_at": "2026-03-08T04:44:09.517352+00:00"
-    },
-    {
-      "title": "The Super Hero Team-based PVP Shooter - Marvel Rivals",
-      "source": {
-        "name": "Marvelrivals.com"
-      },
-      "description": "Play for free Now! Get ready to Ignite the Battle with Marvel Rivals!...",
-      "url": "https://www.marvelrivals.com/announcements/20260305/40955_1289546.html",
-      "publishedAt": "2026-03-06T15:58:07Z",
-      "processed_at": "2026-03-08T04:44:09.517352+00:00"
-    },
-    {
-      "title": "Here's How Much Faster MacBook Air Gets With M5 Chip vs. M4 Chip - MacRumors",
-      "source": {
-        "name": "MacRumors"
-      },
-      "description": "We now know how much faster the new MacBook Air with the M5 chip is compared to the previous model w...",
-      "url": "https://www.macrumors.com/2026/03/06/macbook-air-m5-chip-benchmarks/",
-      "publishedAt": "2026-03-06T15:42:20Z",
-      "processed_at": "2026-03-08T04:44:09.517352+00:00"
-    },
-    {
-      "title": "Apple goes down market in its 'big week' of product rollouts with iPhone model that's $200 cheaper than the base - Fortune",
-      "source": {
-        "name": "Fortune"
-      },
-      "description": "The iPhone 17e, targeting budget-conscious shoppers, will include the same A19 chip as the one power...",
-      "url": "https://fortune.com/2026/03/06/apple-big-week-new-products-iphone-17e-cheaper-budget/",
-      "publishedAt": "2026-03-06T15:24:00Z",
-      "processed_at": "2026-03-08T04:44:09.517352+00:00"
-    },
-    {
-      "title": "Resident Evil Requiem's \"fan service\" is entirely earned - and it's much more than that too - Eurogamer.net",
-      "source": {
-        "name": "Eurogamer.net"
-      },
-      "description": "I'd wager my first vivid memory of Resident Evil is probably - if you're of a certain age at least -...",
-      "url": "https://www.eurogamer.net/resident-evil-requiems-fan-service-is-entirely-earned-and-its-much-more-than-that-too",
-      "publishedAt": "2026-03-06T14:50:41Z",
-      "processed_at": "2026-03-08T04:44:09.517352+00:00"
-    },
-    {
-      "title": "Nothing Phone (4a) Pro is coming to the US for the first time and, at $499, I can’t wait - 9to5Google",
-      "source": {
-        "name": "9to5google.com"
-      },
-      "description": "Nothing revealed its new Phone (4a) series yesterday and, in a “blink and you’ll miss it” reveal, th...",
-      "url": "http://9to5google.com/2026/03/06/nothing-phone-4a-pro-us-release-price/",
-      "publishedAt": "2026-03-06T13:30:00Z",
-      "processed_at": "2026-03-08T04:44:09.517352+00:00"
+      "processed_at": "2026-03-08T05:43:57.090629+00:00"
     }
   ],
-  "lastUpdated": "2026-03-08T04:44:09.517455+00:00",
+  "lastUpdated": "2026-03-08T05:43:57.090699+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
