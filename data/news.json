@@ -1,109 +1,99 @@
 {
   "status": "success",
-  "totalResults": 10,
+  "totalResults": 9,
   "articles": [
     {
-      "title": "‘Marathon’ Reveals First Buffs, Addresses Bad Microtransactions - Forbes",
-      "source": {
-        "name": "Forbes"
-      },
-      "description": "Bungie is about to patch Marathon and buff some things, and it's also changing up some microtransact...",
-      "url": "https://www.forbes.com/sites/paultassi/2026/03/07/marathon-reveals-first-buffs-addresses-bad-microtransactions/",
-      "publishedAt": "2026-03-07T13:38:09Z",
-      "processed_at": "2026-03-08T20:29:10.279528+00:00"
-    },
-    {
-      "title": "The new Google Maps logo is a gaping monstrosity - Creative Bloq",
-      "source": {
-        "name": "Creative Bloq"
-      },
-      "description": "I have never seen anything so crass....",
-      "url": "https://www.creativebloq.com/design/logos-icons/the-new-google-maps-logo-is-a-gaping-monstrosity",
-      "publishedAt": "2026-03-07T11:00:00Z",
-      "processed_at": "2026-03-08T20:29:10.279528+00:00"
-    },
-    {
-      "title": "NetEase to Stop Funding Nagoshi Studio as It Cuts Back on Gaming - Bloomberg.com",
-      "source": {
-        "name": "Bloomberg"
-      },
-      "description": "NetEase Inc. will cut off funding to the studio led by Yakuza franchise creator Toshihiro Nagoshi, t...",
-      "url": "https://www.bloomberg.com/news/articles/2026-03-07/netease-to-stop-funding-nagoshi-studio-as-it-cuts-back-on-gaming",
-      "publishedAt": "2026-03-07T07:55:00Z",
-      "processed_at": "2026-03-08T20:29:10.279528+00:00"
-    },
-    {
-      "title": "DJI will pay $30K to the man who accidentally hacked 7,000 Romo robovacs - The Verge",
+      "title": "Sony appears to be testing dynamic pricing on PlayStation games - The Verge",
       "source": {
         "name": "The Verge"
       },
-      "description": "DJI will pay Sammy Azdoufal $30,000 after he used Claude Code to accidentally access a network of 7,...",
-      "url": "https://www.theverge.com/news/890982/dji-pay-sammy-azdoufal-robot-vacuum-hack-romo-security",
-      "publishedAt": "2026-03-07T02:59:00Z",
-      "processed_at": "2026-03-08T20:29:10.279528+00:00"
+      "description": "Sony is testing dynamic pricing for some Playstation games, meaning some people to pay more for the ...",
+      "url": "https://www.theverge.com/games/891085/sony-dynamic-pricing-playstation-games",
+      "publishedAt": "2026-03-07T17:52:10Z",
+      "processed_at": "2026-03-08T21:25:54.499759+00:00"
     },
     {
-      "title": "Super Mario Run Gets A Super Mario Bros. Wonder Event - Nintendo Life",
+      "title": "How many more Highguards will it take for the game industry to change? - AV Club",
       "source": {
-        "name": "Nintendo Life"
+        "name": "The A.V. Club"
       },
-      "description": "Celebrating the Switch 2 Edition + Meetup in Bellabel Park...",
-      "url": "https://www.nintendolife.com/news/2026/03/super-mario-run-gets-a-super-mario-bros-wonder-event",
-      "publishedAt": "2026-03-07T02:00:00Z",
-      "processed_at": "2026-03-08T20:29:10.279528+00:00"
+      "description": "Highguard is the latest live-service game to shut down almost immediately, causing another all-too-f...",
+      "url": "https://www.avclub.com/highguard-shut-down-live-service-games",
+      "publishedAt": "2026-03-07T17:01:15Z",
+      "processed_at": "2026-03-08T21:25:54.499759+00:00"
     },
     {
-      "title": "Early Geekbench results hint at the performance of the A19-powered iPhone 17e - 9to5Mac",
+      "title": "Suunto vs Garmin Lawsuit Gets Really Frisky: Garmin’s Countersuit - DC Rainmaker",
       "source": {
-        "name": "9to5Mac"
+        "name": "DC Rainmaker"
       },
-      "description": "Following early tests of the M4 iPad Air, and the M5 Max chip, the first purported test of the iPhon...",
-      "url": "https://9to5mac.com/2026/03/06/early-geekbench-results-hint-at-the-performance-of-the-a19-powered-iphone-17e/",
-      "publishedAt": "2026-03-07T00:24:00Z",
-      "processed_at": "2026-03-08T20:29:10.279528+00:00"
+      "description": "A deep-dive into the Garmin vs Suunto lawsuit, and what each side is looking to accomplish in the la...",
+      "url": "https://www.dcrainmaker.com/2026/03/garmin-suunto-lawsuit-countersues.html",
+      "publishedAt": "2026-03-07T14:46:54Z",
+      "processed_at": "2026-03-08T21:25:54.499759+00:00"
     },
     {
-      "title": "Final Fantasy 7 Remake Part 3 Will Take To The Skies, Visit Wutai - GameSpot",
+      "title": "This Craftsperson Just Revived a 2,000-Year-Old Battery, And It Actually Works! - The Daily Galaxy",
       "source": {
-        "name": "GameSpot"
+        "name": "The Daily Galaxy --Great Discoveries Channel"
       },
-      "description": "Get your travel itineraries lined up for some of the places you first saw in the original Final Fant...",
-      "url": "https://www.gamespot.com/articles/final-fantasy-7-remake-part-3-will-take-to-the-skies-visit-wutai/1100-6538648/",
-      "publishedAt": "2026-03-06T22:07:30Z",
-      "processed_at": "2026-03-08T20:29:10.279528+00:00"
+      "description": "This battery has always been surrounded by mystery, its true purpose unclear. But what if it wasn’t ...",
+      "url": "https://dailygalaxy.com/2026/03/craftsman-revives-ancient-battery-it-works/",
+      "publishedAt": "2026-03-07T14:45:00Z",
+      "processed_at": "2026-03-08T21:25:54.499759+00:00"
     },
     {
-      "title": "Valve’s Steam Machine becomes less of a certainty in 2026 after passing product update - 9to5Google",
+      "title": "The Sims 4 Packs Collection Bundle Is Out On Steam - Sims Community",
+      "source": {
+        "name": "Simscommunity.info"
+      },
+      "description": "The Sims 4 Packs Collection Bundle is out now on steam, giving players the chance to (almost) comple...",
+      "url": "https://simscommunity.info/2026/03/07/sims-4-packs-collection-bundle/",
+      "publishedAt": "2026-03-07T14:32:10Z",
+      "processed_at": "2026-03-08T21:25:54.499759+00:00"
+    },
+    {
+      "title": "Google Messages starts rolling out ‘Tap to Draft’ for Smart Replies - 9to5Google",
       "source": {
         "name": "9to5google.com"
       },
-      "description": "Valve got tons of folks excited about its new Steam Machine, catering to gamers who want a familiar ...",
-      "url": "http://9to5google.com/2026/03/06/valve-steam-machine-potentially-delayed-2027/",
-      "publishedAt": "2026-03-06T22:04:00Z",
-      "processed_at": "2026-03-08T20:29:10.279528+00:00"
+      "description": "As we previously spotted, Google Messages is adding a new “Tap to Draft” behavior that saves you fro...",
+      "url": "http://9to5google.com/2026/03/07/google-messages-tap-to-draft/",
+      "publishedAt": "2026-03-07T14:30:00Z",
+      "processed_at": "2026-03-08T21:25:54.499759+00:00"
     },
     {
-      "title": "Xbox Drops 2 AAA Free Games, No Game Pass Required To Play - GAMINGbible",
+      "title": "'Sony Finally Understands': Over 70% of PS5 Fans Agree with Decision to Scrap PC Ports - Push Square",
       "source": {
-        "name": "Gamingbible.com"
+        "name": "Push Square"
       },
-      "description": "Xbox users can enjoy 4 AAA games for free for a limited time, with 2 games not requiring a Game Pass...",
-      "url": "https://www.gamingbible.com/news/platform/xbox/xbox-drops-2-aaa-free-games-528407-20260306",
-      "publishedAt": "2026-03-06T22:00:00Z",
-      "processed_at": "2026-03-08T20:29:10.279528+00:00"
+      "description": "All in agreement...",
+      "url": "https://www.pushsquare.com/news/2026/03/sony-finally-understands-over-70percent-of-ps5-fans-agree-with-decision-to-scrap-pc-ports",
+      "publishedAt": "2026-03-07T14:00:00Z",
+      "processed_at": "2026-03-08T21:25:54.499759+00:00"
     },
     {
-      "title": "Xbox Game Pass Just Added Its Best Day One Game of 2026 - ComicBook.com",
+      "title": "A bite-sized adventure that puts a wrench into the classic Zelda formula - The Verge",
       "source": {
-        "name": "ComicBook.com"
+        "name": "The Verge"
       },
-      "description": "Xbox Game Pass Ultimate and PC subscribers have a new day one game, and it's the best day one game s...",
-      "url": "http://comicbook.com/gaming/news/xbox-game-pass-gamepass-ultimate-day-one-game-2026/",
-      "publishedAt": "2026-03-06T21:42:55Z",
-      "processed_at": "2026-03-08T20:29:10.279528+00:00"
+      "description": "Ratcheteer DX captures the spirit of old-school Zelda games in a new release on the Nintendo Switch ...",
+      "url": "https://www.theverge.com/entertainment/890664/ratcheteer-dx-review-zelda-steam-switch",
+      "publishedAt": "2026-03-07T14:00:00Z",
+      "processed_at": "2026-03-08T21:25:54.499759+00:00"
+    },
+    {
+      "title": "Gran Turismo 7’s Fourth Anniversary Update is Coming Next Week - GTPlanet",
+      "source": {
+        "name": "GTPlanet"
+      },
+      "description": "In a departure from the usual sequence of events, Gran Turismo series producer Kazunori Yamauchi has...",
+      "url": "https://www.gtplanet.net/gt7-next-anniversary-update-coming-20260307/",
+      "publishedAt": "2026-03-07T14:00:00Z",
+      "processed_at": "2026-03-08T21:25:54.499759+00:00"
     }
   ],
-  "lastUpdated": "2026-03-08T20:29:10.279594+00:00",
+  "lastUpdated": "2026-03-08T21:25:54.499834+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
