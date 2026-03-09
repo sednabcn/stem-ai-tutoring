@@ -3,14 +3,54 @@
   "totalResults": 10,
   "articles": [
     {
-      "title": "Granblue Fantasy: Relink – Endless Ragnarok Introduces Beatrix - RPGamer",
+      "title": "The Division 2 breaks its own concurrent Steam record, 7 years after it was first released - Eurogamer.net",
       "source": {
-        "name": "Rpgamer.com"
+        "name": "Eurogamer.net"
       },
-      "description": "Cygames released a new trailer for Granblue Fantasy: Relink – Endless Ragnarok. The minute-long vide...",
-      "url": "https://rpgamer.com/2026/03/granblue-fantasy-relink-endless-ragnarok-introduces-beatrix/",
-      "publishedAt": "2026-03-08T17:32:45Z",
-      "processed_at": "2026-03-09T20:37:14.809766+00:00"
+      "description": "Tom Clancy's The Division 2 has broken its own concurrent record on Steam this weekend as players ju...",
+      "url": "https://www.eurogamer.net/the-division-2-breaks-its-own-concurrent-steam-record-7-years-after-it-was-first-released",
+      "publishedAt": "2026-03-08T18:45:18Z",
+      "processed_at": "2026-03-09T21:34:39.082050+00:00"
+    },
+    {
+      "title": "Tesla's 'Haha, Yes' Hedgehog: What It Means and Where It Came From - Not a Tesla App",
+      "source": {
+        "name": "Notateslaapp.com"
+      },
+      "description": "Tesla isn't your typical car company, and here's why it chooses to celebrate your multi-thousand-dol...",
+      "url": "https://www.notateslaapp.com/news/3749/teslas-haha-yes-hedgehog-what-it-means-and-where-it-came-from",
+      "publishedAt": "2026-03-08T18:00:00Z",
+      "processed_at": "2026-03-09T21:34:39.082050+00:00"
+    },
+    {
+      "title": "PS5 Modder Successfully Installs Linux, Boots GTA 5 at 60fps with Ray Tracing - Push Square",
+      "source": {
+        "name": "Push Square"
+      },
+      "description": "Open source sauce...",
+      "url": "https://www.pushsquare.com/news/2026/03/ps5-modder-successfully-installs-linux-boots-gta-5-at-60fps-with-ray-tracing",
+      "publishedAt": "2026-03-08T18:00:00Z",
+      "processed_at": "2026-03-09T21:34:39.082050+00:00"
+    },
+    {
+      "title": "The FBI Warns Americans To Replace These Wi-Fi Routers - bgr.com",
+      "source": {
+        "name": "BGR"
+      },
+      "description": "According to the FBI, if you have certain older Wi-Fi routers from Linksys or Cisco, consider replac...",
+      "url": "https://www.bgr.com/2115480/why-fbi-is-warning-americans-replace-wifi-routers/",
+      "publishedAt": "2026-03-08T17:17:00Z",
+      "processed_at": "2026-03-09T21:34:39.082050+00:00"
+    },
+    {
+      "title": "Samsung and Google Pixel keep making the same phone case mistake - 9to5Google",
+      "source": {
+        "name": "9to5google.com"
+      },
+      "description": "Smartphone cases are something we all use, but I don’t get why Samsung and Google keep making the sa...",
+      "url": "http://9to5google.com/2026/03/08/samsung-google-pixel-phone-case-mistake/",
+      "publishedAt": "2026-03-08T16:08:38Z",
+      "processed_at": "2026-03-09T21:34:39.082050+00:00"
     },
     {
       "title": "NV-UV brings one-click undervolting to GeForce RTX 50 GPUs - VideoCardz.com",
@@ -20,7 +60,7 @@
       "description": "NV-UV is a new GeForce RTX 50 undervolting tool built on MSI Afterburner A new utility called NV-UV ...",
       "url": "https://videocardz.com/newz/nv-uv-brings-one-click-undervolting-to-geforce-rtx-50-gpus",
       "publishedAt": "2026-03-08T15:32:00Z",
-      "processed_at": "2026-03-09T20:37:14.809766+00:00"
+      "processed_at": "2026-03-09T21:34:39.082050+00:00"
     },
     {
       "title": "Over half a million of us played Slay the Spire 2 this weekend - Eurogamer.net",
@@ -30,7 +70,7 @@
       "description": "The only games beating indie darling Slay the Spire 2's Steam concurrent player peak this weekend ar...",
       "url": "https://www.eurogamer.net/over-half-a-million-of-us-played-slay-the-spire-2-this-weekend",
       "publishedAt": "2026-03-08T15:18:58Z",
-      "processed_at": "2026-03-09T20:37:14.809766+00:00"
+      "processed_at": "2026-03-09T21:34:39.082050+00:00"
     },
     {
       "title": "Apple Planning 'MacBook Ultra' With Touchscreen and Higher Price - MacRumors",
@@ -40,7 +80,17 @@
       "description": "Apple is planning to launch an all-new \"MacBook Ultra\" model this year, featuring an OLED display, t...",
       "url": "https://www.macrumors.com/2026/03/08/apple-planning-macbook-ultra/",
       "publishedAt": "2026-03-08T15:05:08Z",
-      "processed_at": "2026-03-09T20:37:14.809766+00:00"
+      "processed_at": "2026-03-09T21:34:39.082050+00:00"
+    },
+    {
+      "title": "Marathon dev Bungie responds to microtransactions complaints and is \"preparing a patch\" for next week - Eurogamer.net",
+      "source": {
+        "name": "Eurogamer.net"
+      },
+      "description": "Marathon developer Bungie has committed to revising its approach to in-game currency, claiming it wi...",
+      "url": "https://www.eurogamer.net/marathon-dev-bungie-responds-to-microtransactions-complaints-and-is-preparing-a-patch-for-next-week",
+      "publishedAt": "2026-03-08T14:48:09Z",
+      "processed_at": "2026-03-09T21:34:39.082050+00:00"
     },
     {
       "title": "'No Girls Allowed' Box Set Spoofing Warhammer Hides Toxic Lead - Kotaku",
@@ -50,60 +100,10 @@
       "description": "Edgelord animation, riffing on Warhammer Space Marines, develops exciting new ways to ruin brains...",
       "url": "https://kotaku.com/space-king-edgelord-miniatures-no-girls-allowed-box-set-2000677061",
       "publishedAt": "2026-03-08T14:38:54Z",
-      "processed_at": "2026-03-09T20:37:14.809766+00:00"
-    },
-    {
-      "title": "Apple Still Has More New Macs Planned for 2026 - MacRumors",
-      "source": {
-        "name": "MacRumors"
-      },
-      "description": "Apple is planning more Mac refreshes for the rest of the year, Bloomberg's Mark Gurman writes.    In...",
-      "url": "https://www.macrumors.com/2026/03/08/apple-still-has-more-new-macs-planned/",
-      "publishedAt": "2026-03-08T13:15:53Z",
-      "processed_at": "2026-03-09T20:37:14.809766+00:00"
-    },
-    {
-      "title": "Der8auer explains Thermal Grizzly delays after company was scammed twice on raw materials worth €40,000 - VideoCardz.com",
-      "source": {
-        "name": "Videocardz.com"
-      },
-      "description": "der8auer says two China raw material orders turned into a loss Roman Hartung, better known as der8au...",
-      "url": "https://videocardz.com/newz/der8auer-explains-thermal-grizzly-delays-after-company-was-scammed-twice-on-raw-materials-worth-e40000",
-      "publishedAt": "2026-03-08T12:34:00Z",
-      "processed_at": "2026-03-09T20:37:14.809766+00:00"
-    },
-    {
-      "title": "Force Your MacBook to Only Charge up to 80 Percent (and Why You Should) - WIRED",
-      "source": {
-        "name": "Wired"
-      },
-      "description": "Laptop batteries lag in performance as they age. But you can slow down their deterioration by tweaki...",
-      "url": "https://www.wired.com/story/only-charge-your-macbook-to-80-percent/",
-      "publishedAt": "2026-03-08T12:00:00Z",
-      "processed_at": "2026-03-09T20:37:14.809766+00:00"
-    },
-    {
-      "title": "Mario Day: Nintendo Switch Games Are on Sale for Mario's 40th Anniversary Celebrations - IGN",
-      "source": {
-        "name": "IGN"
-      },
-      "description": "",
-      "url": "https://www.ign.com/articles/best-mario-day-deals-2026-mar10",
-      "publishedAt": "2026-03-08T08:00:00Z",
-      "processed_at": "2026-03-09T20:37:14.809766+00:00"
-    },
-    {
-      "title": "PSA: Pokémon Pokopia Players Can Now Tour The Developer's Cloud Island - Nintendo Life",
-      "source": {
-        "name": "Nintendo Life"
-      },
-      "description": "You'll need a code and Switch Online sub to visit...",
-      "url": "https://www.nintendolife.com/news/2026/03/psa-pokemon-pokopia-players-can-now-tour-the-developers-cloud-island",
-      "publishedAt": "2026-03-08T07:45:00Z",
-      "processed_at": "2026-03-09T20:37:14.809766+00:00"
+      "processed_at": "2026-03-09T21:34:39.082050+00:00"
     }
   ],
-  "lastUpdated": "2026-03-09T20:37:14.809836+00:00",
+  "lastUpdated": "2026-03-09T21:34:39.082112+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
