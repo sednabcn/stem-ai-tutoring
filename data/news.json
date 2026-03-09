@@ -3,6 +3,16 @@
   "totalResults": 10,
   "articles": [
     {
+      "title": "Samsung seeks AI deals to challenge Apple’s smartphone lead - Financial Times",
+      "source": {
+        "name": "Financial Times"
+      },
+      "description": "Korean giant’s device chief says its future Galaxy devices will host multiple models as users mix an...",
+      "url": "https://www.ft.com/content/3752d058-d3ee-41a4-b702-d49ae7f61b5c",
+      "publishedAt": "2026-03-08T05:00:24Z",
+      "processed_at": "2026-03-09T07:13:27.928318+00:00"
+    },
+    {
       "title": "This pimped out 1000-hp Mercedes-Benz limo has absolutely massive turbos that are bigger than your face - supercarblondie.com",
       "source": {
         "name": "Supercarblondie.com"
@@ -10,17 +20,27 @@
       "description": "This Mercedes-Benz limo not only drifts, but it has over 1,000hp and two turbochargers that are bigg...",
       "url": "https://supercarblondie.com/mercedes-benz-limo-1000hp-massive-turbos/",
       "publishedAt": "2026-03-08T02:07:00Z",
-      "processed_at": "2026-03-09T05:58:47.811907+00:00"
+      "processed_at": "2026-03-09T07:13:27.928318+00:00"
     },
     {
-      "title": "Apple’s upcoming Mac desktops may cost more, but not for the reason you might think - 9to5Mac",
+      "title": "Apple Adds Three Executives to Leadership Page - MacRumors",
       "source": {
-        "name": "9to5Mac"
+        "name": "MacRumors"
       },
-      "description": "This week, Apple unveiled a plethora of new Macs with M5 chips – and it revealed an interesting new ...",
-      "url": "https://9to5mac.com/2026/03/07/apple-m5-mac-mini-mac-studio-imac-might-get-more-expensive/",
-      "publishedAt": "2026-03-07T23:25:00Z",
-      "processed_at": "2026-03-09T05:58:47.811907+00:00"
+      "description": "Apple on Friday added three new executive profiles to its leadership page for Jennifer Newstead, Mol...",
+      "url": "https://www.macrumors.com/2026/03/07/apple-adds-three-executives-to-leadership-page/",
+      "publishedAt": "2026-03-07T23:17:33Z",
+      "processed_at": "2026-03-09T07:13:27.928318+00:00"
+    },
+    {
+      "title": "Apple's entry-level M5 SoC in the MacBook Air 13 only consumes 7-8 Watts in games like Cyberpunk 2077 or Baldur's Gate 3 - Notebookcheck",
+      "source": {
+        "name": "Notebookcheck.net"
+      },
+      "description": "Apple's new MacBook Air with the small M5 SoC is extremely efficient while gaming. During our tests,...",
+      "url": "https://www.notebookcheck.net/Apple-s-entry-level-M5-SoC-in-the-MacBook-Air-13-only-consumes-7-8-Watts-in-games-like-Cyberpunk-2077-or-Baldur-s-Gate-3.1244916.0.html",
+      "publishedAt": "2026-03-07T22:49:00Z",
+      "processed_at": "2026-03-09T07:13:27.928318+00:00"
     },
     {
       "title": "Review: Resident Evil 7 Shines On Switch 2, But Village Falls Short - Digital Foundry",
@@ -30,7 +50,7 @@
       "description": "DLSS is once again the console's best friend....",
       "url": "https://www.digitalfoundry.net/reviews/resident-evil-7-shines-on-switch-2-but-village-falls-short",
       "publishedAt": "2026-03-07T22:46:41Z",
-      "processed_at": "2026-03-09T05:58:47.811907+00:00"
+      "processed_at": "2026-03-09T07:13:27.928318+00:00"
     },
     {
       "title": "You Uncool Performative Dorks Drove Up The Price Of Porsches And It's Ruining The Vibe - Jalopnik",
@@ -40,7 +60,27 @@
       "description": "These are explicitly driver's cars, not collector pieces to shuttle to a cars and coffee once a mont...",
       "url": "https://www.jalopnik.com/2117254/dorks-porsche-prices-ruining-vibe/",
       "publishedAt": "2026-03-07T22:05:00Z",
-      "processed_at": "2026-03-09T05:58:47.811907+00:00"
+      "processed_at": "2026-03-09T07:13:27.928318+00:00"
+    },
+    {
+      "title": "A Crusade To Erase Obscure Japanese Game Cookie Finally Ends - Kotaku",
+      "source": {
+        "name": "Kotaku"
+      },
+      "description": "Investigative action has freed Cookie’s Bustle from harm. You are free to dance now, Cookie. Free to...",
+      "url": "https://kotaku.com/one-persons-unhinged-crusade-to-erase-an-obscure-pc-game-from-existence-has-finally-been-stopped-2000677017",
+      "publishedAt": "2026-03-07T22:00:19Z",
+      "processed_at": "2026-03-09T07:13:27.928318+00:00"
+    },
+    {
+      "title": "5 Things You Never Knew Your Nintendo Switch 2 Could Actually Do - bgr.com",
+      "source": {
+        "name": "BGR"
+      },
+      "description": "One Nintendo Switch 2 feature that's useful is the ability to enable GameShare to play Switch 2 game...",
+      "url": "https://www.bgr.com/2114606/things-never-knew-nintendo-switch-2-could-do/",
+      "publishedAt": "2026-03-07T21:47:00Z",
+      "processed_at": "2026-03-09T07:13:27.928318+00:00"
     },
     {
       "title": "Some buyers return Samsung Galaxy S26 Ultra over screen issue - Sammy Fans",
@@ -50,7 +90,7 @@
       "description": "Samsung launched the Galaxy S26 Ultra, a phone that comes with a new Privacy Display feature. This f...",
       "url": "https://www.sammyfans.com/2026/03/07/some-buyers-return-samsung-galaxy-s26-ultra-over-screen-issue/",
       "publishedAt": "2026-03-07T21:03:50Z",
-      "processed_at": "2026-03-09T05:58:47.811907+00:00"
+      "processed_at": "2026-03-09T07:13:27.928318+00:00"
     },
     {
       "title": "Dev says Nintendo is \"still pretty cagey about letting games launch on Switch 2\", doesn't want it to be \"a giant slop fest\" - Nintendo Everything",
@@ -60,50 +100,10 @@
       "description": "Based on comments from New Blood Interactive’s Dave Oshry, Nintendo is being careful with which game...",
       "url": "https://nintendoeverything.com/dev-says-nintendo-is-still-pretty-cagey-about-letting-games-launch-on-switch-2-dont-want-it-to-be-a-giant-slop-fest/",
       "publishedAt": "2026-03-07T21:01:13Z",
-      "processed_at": "2026-03-09T05:58:47.811907+00:00"
-    },
-    {
-      "title": "The Tragic Demise Of The Technirama Prism-Based Anamorphic Lens - Hackaday",
-      "source": {
-        "name": "Hackaday"
-      },
-      "description": "Although to the average person a camera lens is just that bit of glass you stick on the front of the...",
-      "url": "https://hackaday.com/2026/03/07/the-tragic-demise-of-the-technirama-prism-based-anamorphic-lens/",
-      "publishedAt": "2026-03-07T21:00:00Z",
-      "processed_at": "2026-03-09T05:58:47.811907+00:00"
-    },
-    {
-      "title": "Despite New CEO's Teasing, Xbox Insider Says Exclusives Are \"Absolutely Not Happening\" - TheGamer",
-      "source": {
-        "name": "TheGamer"
-      },
-      "description": "It perhaps might be too late for the company to reverse course after taking a third-party approach....",
-      "url": "https://www.thegamer.com/xbox-microsoft-exclusive-status-new-ceo-not-happening/",
-      "publishedAt": "2026-03-07T20:56:58Z",
-      "processed_at": "2026-03-09T05:58:47.811907+00:00"
-    },
-    {
-      "title": "Apple still has over a dozen products in the pipeline for 2026, here’s what’s coming - 9to5Mac",
-      "source": {
-        "name": "9to5Mac"
-      },
-      "description": "Apple just wrapped up a very exciting week of announcements – starting off with iPhone 17e, and endi...",
-      "url": "https://9to5mac.com/2026/03/07/apple-products-in-the-pipeline-for-2026-after-macbook-neo-launch/",
-      "publishedAt": "2026-03-07T19:53:00Z",
-      "processed_at": "2026-03-09T05:58:47.811907+00:00"
-    },
-    {
-      "title": "The Division 2 Comes Roaring Back On Steam After Plummeting To $3 Bargain Bin Territory - Kotaku",
-      "source": {
-        "name": "Kotaku"
-      },
-      "description": "Ubisoft's aging loot shooter has a new lease on life thanks to a new mode and future updates...",
-      "url": "https://kotaku.com/division-2-steam-sale-cheap-roadmap-update-2000676999",
-      "publishedAt": "2026-03-07T19:43:26Z",
-      "processed_at": "2026-03-09T05:58:47.811907+00:00"
+      "processed_at": "2026-03-09T07:13:27.928318+00:00"
     }
   ],
-  "lastUpdated": "2026-03-09T05:58:47.811980+00:00",
+  "lastUpdated": "2026-03-09T07:13:27.928386+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
