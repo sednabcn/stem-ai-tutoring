@@ -1,7 +1,37 @@
 {
   "status": "success",
-  "totalResults": 9,
+  "totalResults": 10,
   "articles": [
+    {
+      "title": "Falcom announces Dragon Slayer Project for console - Gematsu",
+      "source": {
+        "name": "Gematsu"
+      },
+      "description": "Falcom has announced Dragon Slayer Project, its tentatively titled 45th anniversary project for cons...",
+      "url": "https://www.gematsu.com/2026/03/falcom-announces-dragon-slayer-project-for-console",
+      "publishedAt": "2026-03-09T06:00:28Z",
+      "processed_at": "2026-03-10T07:42:10.675548+00:00"
+    },
+    {
+      "title": "iPhone Fold design leaks in purported 3D CAD rendering files - 9to5Mac",
+      "source": {
+        "name": "9to5Mac"
+      },
+      "description": "Apple is expected to announce an all-new iPhone with a foldable display later this year. Ahead of th...",
+      "url": "https://9to5mac.com/2026/03/08/iphone-fold-design-leaks-in-purported-3d-cad-rendering-files/",
+      "publishedAt": "2026-03-09T03:29:27Z",
+      "processed_at": "2026-03-10T07:42:10.675548+00:00"
+    },
+    {
+      "title": "Linux 7.0-rc3 Released: \"Some Of The Biggest In Recent History\" - Phoronix",
+      "source": {
+        "name": "Phoronix"
+      },
+      "description": "Linux 7.0-rc3 is out as the latest weekly test candidate in leading up to the stable Linux 7.0 relea...",
+      "url": "https://www.phoronix.com/news/Linux-7.0-rc3",
+      "publishedAt": "2026-03-09T00:27:00Z",
+      "processed_at": "2026-03-10T07:42:10.675548+00:00"
+    },
     {
       "title": "Microsoft Broke the Only Thing That Actually Mattered - Yanko Design",
       "source": {
@@ -10,7 +40,7 @@
       "description": "Any tech nerd knows the unspoken contract that comes with being the only tech-literate person in the...",
       "url": "https://www.yankodesign.com/2026/03/08/microsoft-broke-the-only-thing-that-actually-mattered/",
       "publishedAt": "2026-03-08T23:30:13Z",
-      "processed_at": "2026-03-10T06:53:29.986599+00:00"
+      "processed_at": "2026-03-10T07:42:10.675548+00:00"
     },
     {
       "title": "Microsoft's CEO to Xbox: We will \"always\" invest in gaming. - Windows Central",
@@ -20,7 +50,7 @@
       "description": "At a big internal Q&A session, Xbox CEO Asha Sharma hosted Microsoft CEO Satya Nadella, discussing t...",
       "url": "https://www.windowscentral.com/gaming/xbox/xbox-ceo-asha-sharma-hosted-microsoft-ceo-satya-nadella-we-will-always-invest-in-gaming",
       "publishedAt": "2026-03-08T22:55:45Z",
-      "processed_at": "2026-03-10T06:53:29.986599+00:00"
+      "processed_at": "2026-03-10T07:42:10.675548+00:00"
     },
     {
       "title": "Palmer Luckey’s retro gaming startup ModRetro reportedly seeks funding at $1B valuation - TechCrunch",
@@ -30,7 +60,17 @@
       "description": "The company launched its first product, a Game Boy-style handheld device called the Chromatic, in 20...",
       "url": "https://techcrunch.com/2026/03/08/palmer-luckeys-retro-gaming-startup-modretro-reportedly-seeks-funding-at-1b-valuation/",
       "publishedAt": "2026-03-08T21:26:07Z",
-      "processed_at": "2026-03-10T06:53:29.986599+00:00"
+      "processed_at": "2026-03-10T07:42:10.675548+00:00"
+    },
+    {
+      "title": "Woman Buys Plane Ticket to See Military Boyfriend for Just 30 Minutes (Exclusive) - Yahoo News New Zealand",
+      "source": {
+        "name": "PEOPLE"
+      },
+      "description": "When Sara Young found out her long-distance boyfriend would be flying through an airport near her, s...",
+      "url": "https://people.com/woman-buys-plane-ticket-to-see-military-boyfriend-for-30-minutes-exclusive-11913572",
+      "publishedAt": "2026-03-08T20:30:00Z",
+      "processed_at": "2026-03-10T07:42:10.675548+00:00"
     },
     {
       "title": "How Usable Is Windows 98 In 2026? - Hackaday",
@@ -40,7 +80,7 @@
       "description": "With the RAM and storage crisis hitting personal computing very hard – along with new software incre...",
       "url": "https://hackaday.com/2026/03/08/how-usable-is-windows-98-in-2026/",
       "publishedAt": "2026-03-08T20:15:52Z",
-      "processed_at": "2026-03-10T06:53:29.986599+00:00"
+      "processed_at": "2026-03-10T07:42:10.675548+00:00"
     },
     {
       "title": "Nintendo has begun blocking videos with Super Smash Bros. Ultimate mods which implies something interesting on the horizon... - EventHubs",
@@ -50,7 +90,7 @@
       "description": "Super Smash Bros. Ultimate concluded its post-launch development with Sora from Kingdom Hearts. This...",
       "url": "https://www.eventhubs.com/news/2026/mar/08/nintendo-blocking-mods-ssbu-implication/",
       "publishedAt": "2026-03-08T20:07:16Z",
-      "processed_at": "2026-03-10T06:53:29.986599+00:00"
+      "processed_at": "2026-03-10T07:42:10.675548+00:00"
     },
     {
       "title": "This might be the strangest wearable tech product of the decade - Creative Bloq",
@@ -60,40 +100,10 @@
       "description": "Why have an Apple Watch when you can have smart rosary beads?...",
       "url": "https://www.creativebloq.com/design/product-design/why-have-an-apple-watch-when-you-can-have-smart-rosary-beads",
       "publishedAt": "2026-03-08T19:48:29Z",
-      "processed_at": "2026-03-10T06:53:29.986599+00:00"
-    },
-    {
-      "title": "I finally found the one folding phone use case that I now can’t live without - Chrome Unboxed",
-      "source": {
-        "name": "Chrome Unboxed"
-      },
-      "description": "Since the launch of the original Pixel Fold, the tech enthusiast in me—the contrarian that loves try...",
-      "url": "https://chromeunboxed.com/i-finally-found-the-one-folding-phone-use-case-that-i-now-cant-live-without/",
-      "publishedAt": "2026-03-08T19:20:43Z",
-      "processed_at": "2026-03-10T06:53:29.986599+00:00"
-    },
-    {
-      "title": "The Division 2 breaks its own concurrent Steam record, 7 years after it was first released - Eurogamer.net",
-      "source": {
-        "name": "Eurogamer.net"
-      },
-      "description": "Tom Clancy's The Division 2 has broken its own concurrent record on Steam this weekend as players ju...",
-      "url": "https://www.eurogamer.net/the-division-2-breaks-its-own-concurrent-steam-record-7-years-after-it-was-first-released",
-      "publishedAt": "2026-03-08T18:45:18Z",
-      "processed_at": "2026-03-10T06:53:29.986599+00:00"
-    },
-    {
-      "title": "4 Gadgets That Can Upgrade Your Old Stereo System - bgr.com",
-      "source": {
-        "name": "BGR"
-      },
-      "description": "You don't need a full system swap to modernize a vintage stereo. These gadgets add wireless playback...",
-      "url": "https://www.bgr.com/2115530/gadgets-upgrade-old-stereo-systems/",
-      "publishedAt": "2026-03-08T18:17:00Z",
-      "processed_at": "2026-03-10T06:53:29.986599+00:00"
+      "processed_at": "2026-03-10T07:42:10.675548+00:00"
     }
   ],
-  "lastUpdated": "2026-03-10T06:53:29.986670+00:00",
+  "lastUpdated": "2026-03-10T07:42:10.675621+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
