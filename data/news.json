@@ -1,7 +1,37 @@
 {
   "status": "success",
-  "totalResults": 10,
+  "totalResults": 9,
   "articles": [
+    {
+      "title": "Microsoft’s ‘Xbox mode’ is coming to every Windows 11 PC - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "Starting in April Microsoft is bringing its full-screen Xbox mode to every kind of Windows 11 PC, in...",
+      "url": "https://www.theverge.com/games/892875/microsoft-xbox-mode-windows-11-gdc",
+      "publishedAt": "2026-03-11T18:02:31Z",
+      "processed_at": "2026-03-12T19:44:06.981677+00:00"
+    },
+    {
+      "title": "Microsoft’s next Xbox, Project Helix, won’t reach alpha until 2027 - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "Microsoft announced details about Project Helix, its next-generation Xbox, in a presentation at the ...",
+      "url": "https://www.theverge.com/games/893119/xbox-project-helix-jason-ronald-gdc-2026",
+      "publishedAt": "2026-03-11T17:28:28Z",
+      "processed_at": "2026-03-12T19:44:06.981677+00:00"
+    },
+    {
+      "title": "Intel shores up its desktop CPU lineup with boosted Core Ultra 200S Plus chips - Ars Technica",
+      "source": {
+        "name": "Ars Technica"
+      },
+      "description": "New CPUs are a bit faster and a bit cheaper than the ones they replace....",
+      "url": "https://arstechnica.com/gadgets/2026/03/intel-shores-up-its-desktop-cpu-lineup-with-boosted-core-ultra-200s-plus-chips/",
+      "publishedAt": "2026-03-11T17:21:25Z",
+      "processed_at": "2026-03-12T19:44:06.981677+00:00"
+    },
     {
       "title": "Enjoy New Prizes and Newly Distributed Battle Boxes at Play! Pokémon Stores - Pokemon.com",
       "source": {
@@ -10,7 +40,7 @@
       "description": "Acrylic standees, stickers, and Battle Boxes are coming to local Play! Pokémon Stores starting April...",
       "url": "https://www.pokemon.com/us/pokemon-news/enjoy-new-prizes-and-newly-distributed-battle-boxes-at-play-pokemon-stores",
       "publishedAt": "2026-03-11T15:02:27Z",
-      "processed_at": "2026-03-12T18:56:41.617441+00:00"
+      "processed_at": "2026-03-12T19:44:06.981677+00:00"
     },
     {
       "title": "New iPhone 18 Pro leaks explore design details, dimensions, more - 9to5Mac",
@@ -20,27 +50,17 @@
       "description": "New iPhone 18 Pro-related posts from Weibo leakers outline what to expect from the product’s design,...",
       "url": "https://9to5mac.com/2026/03/11/new-iphone-18-pro-leaks-explore-design-details-dimensions-more/",
       "publishedAt": "2026-03-11T14:15:08Z",
-      "processed_at": "2026-03-12T18:56:41.617441+00:00"
+      "processed_at": "2026-03-12T19:44:06.981677+00:00"
     },
     {
-      "title": "Studio Display vs. Studio Display XDR Buyer's Guide - MacRumors",
+      "title": "Former Apple engineer raises $5M for a note-taking pendant that only records your voice - TechCrunch",
       "source": {
-        "name": "MacRumors"
+        "name": "TechCrunch"
       },
-      "description": "Apple's refreshed Studio Display arrives alongside the all-new Studio Display XDR, which replaces th...",
-      "url": "https://www.macrumors.com/guide/studio-display-vs-studio-display-xdr-buyers-guide/",
-      "publishedAt": "2026-03-11T14:06:50Z",
-      "processed_at": "2026-03-12T18:56:41.617441+00:00"
-    },
-    {
-      "title": "Valve details Steam Frame and Steam Machine verification at GDC 2026 - VideoCardz.com",
-      "source": {
-        "name": "Videocardz.com"
-      },
-      "description": "Steam Frame Verified targets 90 FPS VR, Steam Machine targets 1080p 30 FPS Valve has now put concret...",
-      "url": "https://videocardz.com/newz/valve-details-steam-frame-and-steam-machine-verification-at-gdc-2026",
-      "publishedAt": "2026-03-11T13:03:00Z",
-      "processed_at": "2026-03-12T18:56:41.617441+00:00"
+      "description": "Taya is trying to address privacy concerns around note-taking wearables with its device that can be ...",
+      "url": "https://techcrunch.com/2026/03/11/former-apple-engineer-raises-5m-for-a-note-taking-pendant-that-only-records-your-voice/",
+      "publishedAt": "2026-03-11T14:00:00Z",
+      "processed_at": "2026-03-12T19:44:06.981677+00:00"
     },
     {
       "title": "After using MacBook Neo, it's clear Windows needs to rethink its PC strategy (and fast) - ZDNET",
@@ -50,17 +70,7 @@
       "description": "Apple's new $599 laptop will force Windows PCs and Chromebooks to respond in turn. That's a good thi...",
       "url": "https://www.zdnet.com/article/the-macbook-neo-is-here-its-time-for-windows-to-adapt/",
       "publishedAt": "2026-03-11T13:01:00Z",
-      "processed_at": "2026-03-12T18:56:41.617441+00:00"
-    },
-    {
-      "title": "Intel announces Core Ultra 270K Plus and 250K Plus, its ‘fastest gaming desktop processors ever’ - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "Intel claims it has finally surpassed the i9-14900K with the Intel Core Ultra 7 270K Plus, shipping ...",
-      "url": "https://www.theverge.com/tech/892838/intel-core-ultra-270k-plus-250k-plus-fastest-gaming-cpu-ever",
-      "publishedAt": "2026-03-11T13:00:00Z",
-      "processed_at": "2026-03-12T18:56:41.617441+00:00"
+      "processed_at": "2026-03-12T19:44:06.981677+00:00"
     },
     {
       "title": "Apple Just Transformed the CarPlay Experience in iOS 26.4 Beta 4 - Geeky Gadgets",
@@ -70,17 +80,7 @@
       "description": "iOS 26.4 beta 4 adds a CarPlay Music privacy confirmation screen; new emojis like Bigfoot arrive, wi...",
       "url": "https://www.geeky-gadgets.com/ios-26-4-beta-4/",
       "publishedAt": "2026-03-11T11:01:47Z",
-      "processed_at": "2026-03-12T18:56:41.617441+00:00"
-    },
-    {
-      "title": "Xbox hardware teased at GDC, just one week after PC/console hybrid Project Helix was first confirmed - Eurogamer.net",
-      "source": {
-        "name": "Eurogamer.net"
-      },
-      "description": "Microsoft has posted a set of photos giving us a small teaser for some unspecified work-in-progress ...",
-      "url": "https://www.eurogamer.net/xbox-hardware-teased-at-gdc-just-one-week-after-pcconsole-hybrid-project-helix-was-first-confirmed",
-      "publishedAt": "2026-03-11T10:55:02Z",
-      "processed_at": "2026-03-12T18:56:41.617441+00:00"
+      "processed_at": "2026-03-12T19:44:06.981677+00:00"
     },
     {
       "title": "Google is optimizing Android's core to make your phone feel faster - Android Authority",
@@ -90,20 +90,10 @@
       "description": "Google is introducing a new optimization trick to make the core of Android run faster by studying ho...",
       "url": "https://www.androidauthority.com/google-android-autofdo-kernel-3648273/",
       "publishedAt": "2026-03-11T10:09:24Z",
-      "processed_at": "2026-03-12T18:56:41.617441+00:00"
-    },
-    {
-      "title": "One of Marathon's best tricks? It dodges the \"Blorko\" problem that doomed Concord and Highguard - Eurogamer.net",
-      "source": {
-        "name": "Eurogamer.net"
-      },
-      "description": "To many shooters - from Concord to Highguard - have fallen into the trap of needing you to care abou...",
-      "url": "https://www.eurogamer.net/marathon-bungie-shells-avoid-blorko-problem-that-doomed-concord-highguard",
-      "publishedAt": "2026-03-11T10:00:00Z",
-      "processed_at": "2026-03-12T18:56:41.617441+00:00"
+      "processed_at": "2026-03-12T19:44:06.981677+00:00"
     }
   ],
-  "lastUpdated": "2026-03-12T18:56:41.617518+00:00",
+  "lastUpdated": "2026-03-12T19:44:06.981747+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
