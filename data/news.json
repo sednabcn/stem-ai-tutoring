@@ -3,6 +3,26 @@
   "totalResults": 9,
   "articles": [
     {
+      "title": "macOS 26.4: Four new features are coming to your Mac - 9to5Mac",
+      "source": {
+        "name": "9to5Mac"
+      },
+      "description": "macOS Tahoe 26.4 is coming soon as the next software update for your Mac. Here are four new features...",
+      "url": "https://9to5mac.com/2026/03/11/macos-26-4-four-new-features-are-coming-to-your-mac/",
+      "publishedAt": "2026-03-11T19:50:00Z",
+      "processed_at": "2026-03-12T21:35:02.858073+00:00"
+    },
+    {
+      "title": "Google is making Android phones faster and improving battery life with this change - 9to5Google",
+      "source": {
+        "name": "9to5google.com"
+      },
+      "description": "Google is working on some behind-the-scenes changes that should make Android phones feel faster whil...",
+      "url": "http://9to5google.com/2026/03/11/google-android-kernel-optimization-efforts/",
+      "publishedAt": "2026-03-11T19:10:53Z",
+      "processed_at": "2026-03-12T21:35:02.858073+00:00"
+    },
+    {
       "title": "Microsoft’s ‘Xbox mode’ is coming to every Windows 11 PC - The Verge",
       "source": {
         "name": "The Verge"
@@ -10,7 +30,7 @@
       "description": "Starting in April Microsoft is bringing its full-screen Xbox mode to every kind of Windows 11 PC, in...",
       "url": "https://www.theverge.com/games/892875/microsoft-xbox-mode-windows-11-gdc",
       "publishedAt": "2026-03-11T18:02:31Z",
-      "processed_at": "2026-03-12T20:37:40.197540+00:00"
+      "processed_at": "2026-03-12T21:35:02.858073+00:00"
     },
     {
       "title": "Microsoft’s next Xbox, Project Helix, won’t reach alpha until 2027 - The Verge",
@@ -20,7 +40,7 @@
       "description": "Microsoft announced details about Project Helix, its next-generation Xbox, in a presentation at the ...",
       "url": "https://www.theverge.com/games/893119/xbox-project-helix-jason-ronald-gdc-2026",
       "publishedAt": "2026-03-11T17:28:28Z",
-      "processed_at": "2026-03-12T20:37:40.197540+00:00"
+      "processed_at": "2026-03-12T21:35:02.858073+00:00"
     },
     {
       "title": "Intel shores up its desktop CPU lineup with boosted Core Ultra 200S Plus chips - Ars Technica",
@@ -30,7 +50,27 @@
       "description": "New CPUs are a bit faster and a bit cheaper than the ones they replace....",
       "url": "https://arstechnica.com/gadgets/2026/03/intel-shores-up-its-desktop-cpu-lineup-with-boosted-core-ultra-200s-plus-chips/",
       "publishedAt": "2026-03-11T17:21:25Z",
-      "processed_at": "2026-03-12T20:37:40.197540+00:00"
+      "processed_at": "2026-03-12T21:35:02.858073+00:00"
+    },
+    {
+      "title": "Pokémon Pokopia is such a \"viral hit\" that it's making Nintendo's share price surge (after months of going down) - Eurogamer.net",
+      "source": {
+        "name": "Eurogamer.net"
+      },
+      "description": "Pokémon Pokopia is huge and a viral hit already. Moreover, it's boosted Nintendo's share price and S...",
+      "url": "https://www.eurogamer.net/pokemon-pokopia-boosts-nintendo-share-price-after-first-weekend-out",
+      "publishedAt": "2026-03-11T16:47:13Z",
+      "processed_at": "2026-03-12T21:35:02.858073+00:00"
+    },
+    {
+      "title": "Here are our PlayStation Plus Extra and Premium games for March - Eurogamer.net",
+      "source": {
+        "name": "Eurogamer.net"
+      },
+      "description": "Sony has lifted the lid on its PS Plus Premium and Extra game offerings for March....",
+      "url": "https://www.eurogamer.net/here-are-our-playstation-plus-extra-and-premium-games-for-march",
+      "publishedAt": "2026-03-11T16:01:52Z",
+      "processed_at": "2026-03-12T21:35:02.858073+00:00"
     },
     {
       "title": "Enjoy New Prizes and Newly Distributed Battle Boxes at Play! Pokémon Stores - Pokemon.com",
@@ -40,60 +80,20 @@
       "description": "Acrylic standees, stickers, and Battle Boxes are coming to local Play! Pokémon Stores starting April...",
       "url": "https://www.pokemon.com/us/pokemon-news/enjoy-new-prizes-and-newly-distributed-battle-boxes-at-play-pokemon-stores",
       "publishedAt": "2026-03-11T15:02:27Z",
-      "processed_at": "2026-03-12T20:37:40.197540+00:00"
+      "processed_at": "2026-03-12T21:35:02.858073+00:00"
     },
     {
-      "title": "New iPhone 18 Pro leaks explore design details, dimensions, more - 9to5Mac",
-      "source": {
-        "name": "9to5Mac"
-      },
-      "description": "New iPhone 18 Pro-related posts from Weibo leakers outline what to expect from the product’s design,...",
-      "url": "https://9to5mac.com/2026/03/11/new-iphone-18-pro-leaks-explore-design-details-dimensions-more/",
-      "publishedAt": "2026-03-11T14:15:08Z",
-      "processed_at": "2026-03-12T20:37:40.197540+00:00"
-    },
-    {
-      "title": "Former Apple engineer raises $5M for a note-taking pendant that only records your voice - TechCrunch",
+      "title": "WhatsApp is launching parent-linked accounts for pre-teens - TechCrunch",
       "source": {
         "name": "TechCrunch"
       },
-      "description": "Taya is trying to address privacy concerns around note-taking wearables with its device that can be ...",
-      "url": "https://techcrunch.com/2026/03/11/former-apple-engineer-raises-5m-for-a-note-taking-pendant-that-only-records-your-voice/",
-      "publishedAt": "2026-03-11T14:00:00Z",
-      "processed_at": "2026-03-12T20:37:40.197540+00:00"
-    },
-    {
-      "title": "After using MacBook Neo, it's clear Windows needs to rethink its PC strategy (and fast) - ZDNET",
-      "source": {
-        "name": "ZDNet"
-      },
-      "description": "Apple's new $599 laptop will force Windows PCs and Chromebooks to respond in turn. That's a good thi...",
-      "url": "https://www.zdnet.com/article/the-macbook-neo-is-here-its-time-for-windows-to-adapt/",
-      "publishedAt": "2026-03-11T13:01:00Z",
-      "processed_at": "2026-03-12T20:37:40.197540+00:00"
-    },
-    {
-      "title": "Apple Just Transformed the CarPlay Experience in iOS 26.4 Beta 4 - Geeky Gadgets",
-      "source": {
-        "name": "Geeky Gadgets"
-      },
-      "description": "iOS 26.4 beta 4 adds a CarPlay Music privacy confirmation screen; new emojis like Bigfoot arrive, wi...",
-      "url": "https://www.geeky-gadgets.com/ios-26-4-beta-4/",
-      "publishedAt": "2026-03-11T11:01:47Z",
-      "processed_at": "2026-03-12T20:37:40.197540+00:00"
-    },
-    {
-      "title": "Google is optimizing Android's core to make your phone feel faster - Android Authority",
-      "source": {
-        "name": "Android Authority"
-      },
-      "description": "Google is introducing a new optimization trick to make the core of Android run faster by studying ho...",
-      "url": "https://www.androidauthority.com/google-android-autofdo-kernel-3648273/",
-      "publishedAt": "2026-03-11T10:09:24Z",
-      "processed_at": "2026-03-12T20:37:40.197540+00:00"
+      "description": "WhatsApp is rolling out parent-managed accounts for under-13 users, limiting features to messaging a...",
+      "url": "https://techcrunch.com/2026/03/11/whatsapp-is-launching-parent-linked-accounts-for-pre-teens/",
+      "publishedAt": "2026-03-11T15:00:00Z",
+      "processed_at": "2026-03-12T21:35:02.858073+00:00"
     }
   ],
-  "lastUpdated": "2026-03-12T20:37:40.197612+00:00",
+  "lastUpdated": "2026-03-12T21:35:02.858157+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
