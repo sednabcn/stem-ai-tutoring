@@ -1,7 +1,17 @@
 {
   "status": "success",
-  "totalResults": 9,
+  "totalResults": 7,
   "articles": [
+    {
+      "title": "Apple’s Foldable iPhone to Feature iPad-Like Interface When Opened - Bloomberg.com",
+      "source": {
+        "name": "Bloomberg"
+      },
+      "description": "Apple Inc.’s forthcoming foldable iPhone will include updates to the iOS operating system that enabl...",
+      "url": "https://www.bloomberg.com/news/articles/2026-03-11/apple-s-foldable-iphone-to-feature-ipad-like-interface-when-opened",
+      "publishedAt": "2026-03-11T20:06:16Z",
+      "processed_at": "2026-03-12T23:29:42.995914+00:00"
+    },
     {
       "title": "macOS 26.4: Four new features are coming to your Mac - 9to5Mac",
       "source": {
@@ -10,37 +20,17 @@
       "description": "macOS Tahoe 26.4 is coming soon as the next software update for your Mac. Here are four new features...",
       "url": "https://9to5mac.com/2026/03/11/macos-26-4-four-new-features-are-coming-to-your-mac/",
       "publishedAt": "2026-03-11T19:50:00Z",
-      "processed_at": "2026-03-12T22:28:05.256354+00:00"
+      "processed_at": "2026-03-12T23:29:42.995914+00:00"
     },
     {
-      "title": "Google is making Android phones faster and improving battery life with this change - 9to5Google",
+      "title": "CVS is packed with beauty markdowns in March, but only 10 made my cart - Yahoo",
       "source": {
-        "name": "9to5google.com"
+        "name": "Yahoo Entertainment"
       },
-      "description": "Google is working on some behind-the-scenes changes that should make Android phones feel faster whil...",
-      "url": "http://9to5google.com/2026/03/11/google-android-kernel-optimization-efforts/",
-      "publishedAt": "2026-03-11T19:10:53Z",
-      "processed_at": "2026-03-12T22:28:05.256354+00:00"
-    },
-    {
-      "title": "Microsoft’s ‘Xbox mode’ is coming to every Windows 11 PC - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "Starting in April Microsoft is bringing its full-screen Xbox mode to every kind of Windows 11 PC, in...",
-      "url": "https://www.theverge.com/games/892875/microsoft-xbox-mode-windows-11-gdc",
-      "publishedAt": "2026-03-11T18:02:31Z",
-      "processed_at": "2026-03-12T22:28:05.256354+00:00"
-    },
-    {
-      "title": "Microsoft’s next Xbox, Project Helix, won’t reach alpha until 2027 - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "Microsoft announced details about Project Helix, its next-generation Xbox, in a presentation at the ...",
-      "url": "https://www.theverge.com/games/893119/xbox-project-helix-jason-ronald-gdc-2026",
-      "publishedAt": "2026-03-11T17:28:28Z",
-      "processed_at": "2026-03-12T22:28:05.256354+00:00"
+      "description": "I'm loading up on brands like Dove, Olay and L'Oréal — all up to 50% off during one of the drugstore...",
+      "url": "https://shopping.yahoo.com/deals/article/cvs-is-packed-with-beauty-markdowns-in-march-but-only-10-made-my-cart-184809637.html",
+      "publishedAt": "2026-03-11T18:48:11Z",
+      "processed_at": "2026-03-12T23:29:42.995914+00:00"
     },
     {
       "title": "Intel shores up its desktop CPU lineup with boosted Core Ultra 200S Plus chips - Ars Technica",
@@ -50,7 +40,7 @@
       "description": "New CPUs are a bit faster and a bit cheaper than the ones they replace....",
       "url": "https://arstechnica.com/gadgets/2026/03/intel-shores-up-its-desktop-cpu-lineup-with-boosted-core-ultra-200s-plus-chips/",
       "publishedAt": "2026-03-11T17:21:25Z",
-      "processed_at": "2026-03-12T22:28:05.256354+00:00"
+      "processed_at": "2026-03-12T23:29:42.995914+00:00"
     },
     {
       "title": "Pokémon Pokopia is such a \"viral hit\" that it's making Nintendo's share price surge (after months of going down) - Eurogamer.net",
@@ -60,17 +50,17 @@
       "description": "Pokémon Pokopia is huge and a viral hit already. Moreover, it's boosted Nintendo's share price and S...",
       "url": "https://www.eurogamer.net/pokemon-pokopia-boosts-nintendo-share-price-after-first-weekend-out",
       "publishedAt": "2026-03-11T16:47:13Z",
-      "processed_at": "2026-03-12T22:28:05.256354+00:00"
+      "processed_at": "2026-03-12T23:29:42.995914+00:00"
     },
     {
-      "title": "Here are our PlayStation Plus Extra and Premium games for March - Eurogamer.net",
+      "title": "MacBook Pro to Receive 'Major Upgrade' by Early Next Year - MacRumors",
       "source": {
-        "name": "Eurogamer.net"
+        "name": "MacRumors"
       },
-      "description": "Sony has lifted the lid on its PS Plus Premium and Extra game offerings for March....",
-      "url": "https://www.eurogamer.net/here-are-our-playstation-plus-extra-and-premium-games-for-march",
-      "publishedAt": "2026-03-11T16:01:52Z",
-      "processed_at": "2026-03-12T22:28:05.256354+00:00"
+      "description": "Apple supply chain analyst Ming-Chi Kuo today said the MacBook Pro will receive a \"major upgrade\" wi...",
+      "url": "https://www.macrumors.com/2026/03/11/macbook-pro-major-upgrade/",
+      "publishedAt": "2026-03-11T15:53:19Z",
+      "processed_at": "2026-03-12T23:29:42.995914+00:00"
     },
     {
       "title": "Enjoy New Prizes and Newly Distributed Battle Boxes at Play! Pokémon Stores - Pokemon.com",
@@ -80,20 +70,10 @@
       "description": "Acrylic standees, stickers, and Battle Boxes are coming to local Play! Pokémon Stores starting April...",
       "url": "https://www.pokemon.com/us/pokemon-news/enjoy-new-prizes-and-newly-distributed-battle-boxes-at-play-pokemon-stores",
       "publishedAt": "2026-03-11T15:02:27Z",
-      "processed_at": "2026-03-12T22:28:05.256354+00:00"
-    },
-    {
-      "title": "WhatsApp is launching parent-linked accounts for pre-teens - TechCrunch",
-      "source": {
-        "name": "TechCrunch"
-      },
-      "description": "WhatsApp is rolling out parent-managed accounts for under-13 users, limiting features to messaging a...",
-      "url": "https://techcrunch.com/2026/03/11/whatsapp-is-launching-parent-linked-accounts-for-pre-teens/",
-      "publishedAt": "2026-03-11T15:00:00Z",
-      "processed_at": "2026-03-12T22:28:05.256354+00:00"
+      "processed_at": "2026-03-12T23:29:42.995914+00:00"
     }
   ],
-  "lastUpdated": "2026-03-12T22:28:05.256428+00:00",
+  "lastUpdated": "2026-03-12T23:29:42.995981+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
