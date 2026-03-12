@@ -3,6 +3,36 @@
   "totalResults": 10,
   "articles": [
     {
+      "title": "Enjoy New Prizes and Newly Distributed Battle Boxes at Play! Pokémon Stores - Pokemon.com",
+      "source": {
+        "name": "Pokemon.com"
+      },
+      "description": "Acrylic standees, stickers, and Battle Boxes are coming to local Play! Pokémon Stores starting April...",
+      "url": "https://www.pokemon.com/us/pokemon-news/enjoy-new-prizes-and-newly-distributed-battle-boxes-at-play-pokemon-stores",
+      "publishedAt": "2026-03-11T15:02:27Z",
+      "processed_at": "2026-03-12T18:56:41.617441+00:00"
+    },
+    {
+      "title": "New iPhone 18 Pro leaks explore design details, dimensions, more - 9to5Mac",
+      "source": {
+        "name": "9to5Mac"
+      },
+      "description": "New iPhone 18 Pro-related posts from Weibo leakers outline what to expect from the product’s design,...",
+      "url": "https://9to5mac.com/2026/03/11/new-iphone-18-pro-leaks-explore-design-details-dimensions-more/",
+      "publishedAt": "2026-03-11T14:15:08Z",
+      "processed_at": "2026-03-12T18:56:41.617441+00:00"
+    },
+    {
+      "title": "Studio Display vs. Studio Display XDR Buyer's Guide - MacRumors",
+      "source": {
+        "name": "MacRumors"
+      },
+      "description": "Apple's refreshed Studio Display arrives alongside the all-new Studio Display XDR, which replaces th...",
+      "url": "https://www.macrumors.com/guide/studio-display-vs-studio-display-xdr-buyers-guide/",
+      "publishedAt": "2026-03-11T14:06:50Z",
+      "processed_at": "2026-03-12T18:56:41.617441+00:00"
+    },
+    {
       "title": "Valve details Steam Frame and Steam Machine verification at GDC 2026 - VideoCardz.com",
       "source": {
         "name": "Videocardz.com"
@@ -10,7 +40,17 @@
       "description": "Steam Frame Verified targets 90 FPS VR, Steam Machine targets 1080p 30 FPS Valve has now put concret...",
       "url": "https://videocardz.com/newz/valve-details-steam-frame-and-steam-machine-verification-at-gdc-2026",
       "publishedAt": "2026-03-11T13:03:00Z",
-      "processed_at": "2026-03-12T17:05:59.324430+00:00"
+      "processed_at": "2026-03-12T18:56:41.617441+00:00"
+    },
+    {
+      "title": "After using MacBook Neo, it's clear Windows needs to rethink its PC strategy (and fast) - ZDNET",
+      "source": {
+        "name": "ZDNet"
+      },
+      "description": "Apple's new $599 laptop will force Windows PCs and Chromebooks to respond in turn. That's a good thi...",
+      "url": "https://www.zdnet.com/article/the-macbook-neo-is-here-its-time-for-windows-to-adapt/",
+      "publishedAt": "2026-03-11T13:01:00Z",
+      "processed_at": "2026-03-12T18:56:41.617441+00:00"
     },
     {
       "title": "Intel announces Core Ultra 270K Plus and 250K Plus, its ‘fastest gaming desktop processors ever’ - The Verge",
@@ -20,27 +60,17 @@
       "description": "Intel claims it has finally surpassed the i9-14900K with the Intel Core Ultra 7 270K Plus, shipping ...",
       "url": "https://www.theverge.com/tech/892838/intel-core-ultra-270k-plus-250k-plus-fastest-gaming-cpu-ever",
       "publishedAt": "2026-03-11T13:00:00Z",
-      "processed_at": "2026-03-12T17:05:59.324430+00:00"
+      "processed_at": "2026-03-12T18:56:41.617441+00:00"
     },
     {
-      "title": "Kuo shares MacBook Neo shipment and touchscreen updates, OLED MacBook Air timing - 9to5Mac",
+      "title": "Apple Just Transformed the CarPlay Experience in iOS 26.4 Beta 4 - Geeky Gadgets",
       "source": {
-        "name": "9to5Mac"
+        "name": "Geeky Gadgets"
       },
-      "description": "MacBook Neo launch day has arrived, and supply chain analyst Ming-Chi Kuo has some interesting insig...",
-      "url": "https://9to5mac.com/2026/03/11/kuo-shares-macbook-neo-shipment-and-touchscreen-updates-oled-macbook-air-timing/",
-      "publishedAt": "2026-03-11T12:26:56Z",
-      "processed_at": "2026-03-12T17:05:59.324430+00:00"
-    },
-    {
-      "title": "iPhone 18 Pro Max Thickness and Weight Allegedly Revealed - MacRumors",
-      "source": {
-        "name": "MacRumors"
-      },
-      "description": "Apple's upcoming iPhone 18 Pro Max will be slightly thicker than its predecessor, measuring in at 8....",
-      "url": "https://www.macrumors.com/2026/03/11/iphone-18-pro-max-thickness-weight-revealed/",
-      "publishedAt": "2026-03-11T12:08:22Z",
-      "processed_at": "2026-03-12T17:05:59.324430+00:00"
+      "description": "iOS 26.4 beta 4 adds a CarPlay Music privacy confirmation screen; new emojis like Bigfoot arrive, wi...",
+      "url": "https://www.geeky-gadgets.com/ios-26-4-beta-4/",
+      "publishedAt": "2026-03-11T11:01:47Z",
+      "processed_at": "2026-03-12T18:56:41.617441+00:00"
     },
     {
       "title": "Xbox hardware teased at GDC, just one week after PC/console hybrid Project Helix was first confirmed - Eurogamer.net",
@@ -50,7 +80,7 @@
       "description": "Microsoft has posted a set of photos giving us a small teaser for some unspecified work-in-progress ...",
       "url": "https://www.eurogamer.net/xbox-hardware-teased-at-gdc-just-one-week-after-pcconsole-hybrid-project-helix-was-first-confirmed",
       "publishedAt": "2026-03-11T10:55:02Z",
-      "processed_at": "2026-03-12T17:05:59.324430+00:00"
+      "processed_at": "2026-03-12T18:56:41.617441+00:00"
     },
     {
       "title": "Google is optimizing Android's core to make your phone feel faster - Android Authority",
@@ -60,7 +90,7 @@
       "description": "Google is introducing a new optimization trick to make the core of Android run faster by studying ho...",
       "url": "https://www.androidauthority.com/google-android-autofdo-kernel-3648273/",
       "publishedAt": "2026-03-11T10:09:24Z",
-      "processed_at": "2026-03-12T17:05:59.324430+00:00"
+      "processed_at": "2026-03-12T18:56:41.617441+00:00"
     },
     {
       "title": "One of Marathon's best tricks? It dodges the \"Blorko\" problem that doomed Concord and Highguard - Eurogamer.net",
@@ -70,40 +100,10 @@
       "description": "To many shooters - from Concord to Highguard - have fallen into the trap of needing you to care abou...",
       "url": "https://www.eurogamer.net/marathon-bungie-shells-avoid-blorko-problem-that-doomed-concord-highguard",
       "publishedAt": "2026-03-11T10:00:00Z",
-      "processed_at": "2026-03-12T17:05:59.324430+00:00"
-    },
-    {
-      "title": "Return of the wire: In a wireless world, headphone cables are back - BBC",
-      "source": {
-        "name": "BBC News"
-      },
-      "description": "Is the return of wired headphones driven by a simple desire for better sound quality or is it part o...",
-      "url": "https://www.bbc.com/future/article/20260310-wired-headphones-are-better-than-bluetooth",
-      "publishedAt": "2026-03-11T10:00:00Z",
-      "processed_at": "2026-03-12T17:05:59.324430+00:00"
-    },
-    {
-      "title": "PlayStation Plus Extra February games for March leak - Eurogamer.net",
-      "source": {
-        "name": "Eurogamer.net"
-      },
-      "description": "",
-      "url": "https://www.eurogamer.net/playstation-plus-extra-february-games-for-march-leak",
-      "publishedAt": "2026-03-11T09:32:35Z",
-      "processed_at": "2026-03-12T17:05:59.324430+00:00"
-    },
-    {
-      "title": "ASUS \"Panther Lake\" NUC 16 Pro launch price enters former ROG NUC territory - VideoCardz.com",
-      "source": {
-        "name": "Videocardz.com"
-      },
-      "description": "ASUS starts NUC 16 Pro sales in China, Core Ultra X7 358H model costs $1,602 ASUS has started sellin...",
-      "url": "https://videocardz.com/newz/asus-panther-lake-nuc-16-pro-launch-price-enters-former-rog-nuc-territory",
-      "publishedAt": "2026-03-11T08:12:00Z",
-      "processed_at": "2026-03-12T17:05:59.324430+00:00"
+      "processed_at": "2026-03-12T18:56:41.617441+00:00"
     }
   ],
-  "lastUpdated": "2026-03-12T17:05:59.324504+00:00",
+  "lastUpdated": "2026-03-12T18:56:41.617518+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
