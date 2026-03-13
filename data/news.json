@@ -1,16 +1,86 @@
 {
   "status": "success",
-  "totalResults": 8,
+  "totalResults": 10,
   "articles": [
     {
-      "title": "Perplexity’s Personal Computer turns your spare Mac into an AI agent - The Verge",
+      "title": "Anthropic’s Claude AI can respond with charts, diagrams, and other visuals now - The Verge",
       "source": {
         "name": "The Verge"
       },
-      "description": "Perplexity is positioning Personal Computer as a more secure version of OpenClaw that runs on a Mac....",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/893536/perplexitys-personal-computer-turns-your-spare-mac-into-an-ai-agent",
-      "publishedAt": "2026-03-12T12:00:34Z",
-      "processed_at": "2026-03-13T16:42:09.645949+00:00"
+      "description": "Anthropic is launching a new feature in Claude that allows the AI chatbot to respond with custom cha...",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/893625/anthropic-claude-ai-charts-diagrams",
+      "publishedAt": "2026-03-12T16:00:00Z",
+      "processed_at": "2026-03-13T17:35:55.531007+00:00"
+    },
+    {
+      "title": "Get Triple Rewards and Bonus GTA$ During the GTA Online Community Series Showcase - Rockstar Games",
+      "source": {
+        "name": "Rockstargames.com"
+      },
+      "description": "From March 12 through April 1, we're recognizing and honoring the Creators who keep the community su...",
+      "url": "https://www.rockstargames.com/newswire/article/39a83k188812ka/get-triple-rewards-and-bonus-gta-during-the-gta-online-community-serie",
+      "publishedAt": "2026-03-12T13:55:52Z",
+      "processed_at": "2026-03-13T17:35:55.531007+00:00"
+    },
+    {
+      "title": "MacBook Neo Teardown: Modular Ports, Glue-Less Battery, Zero Tape - MacRumors",
+      "source": {
+        "name": "MacRumors"
+      },
+      "description": "A teardown of the new MacBook Neo by Australian YouTube repair channel Tech Re-Nu reveals what may b...",
+      "url": "https://www.macrumors.com/2026/03/12/macbook-neo-six-minute-teardown-zero-tape/",
+      "publishedAt": "2026-03-12T13:43:19Z",
+      "processed_at": "2026-03-13T17:35:55.531007+00:00"
+    },
+    {
+      "title": "Apple to celebrate 50 years of thinking different - Apple",
+      "source": {
+        "name": "Apple Newsroom"
+      },
+      "description": "Apple today announced it will mark its 50th anniversary, celebrating five decades of thinking differ...",
+      "url": "https://www.apple.com/newsroom/2026/03/apple-to-celebrate-50-years-of-thinking-different/",
+      "publishedAt": "2026-03-12T13:01:26Z",
+      "processed_at": "2026-03-13T17:35:55.531007+00:00"
+    },
+    {
+      "title": "PlayStation Plus Announces 9 New Free Games For March - GAMINGbible",
+      "source": {
+        "name": "Gamingbible.com"
+      },
+      "description": "Sink your teeth into these later this month....",
+      "url": "https://www.gamingbible.com/news/platform/playstation/playstation-plus-extra-march-2026-games-921444-20260311",
+      "publishedAt": "2026-03-12T12:52:46Z",
+      "processed_at": "2026-03-13T17:35:55.531007+00:00"
+    },
+    {
+      "title": "After a successful launch weekend, Pokopia has become one of the best-selling Pokémon spin-offs ever - Eurogamer.net",
+      "source": {
+        "name": "Eurogamer.net"
+      },
+      "description": "It is fair to say Nintendo's new Animal Crossing-like Pokémon Pokopia has had a pretty darn successf...",
+      "url": "https://www.eurogamer.net/after-a-successful-launch-weekend-pokopia-has-become-one-of-the-best-selling-pokemon-spin-offs-ever",
+      "publishedAt": "2026-03-12T12:35:52Z",
+      "processed_at": "2026-03-13T17:35:55.531007+00:00"
+    },
+    {
+      "title": "Google Maps gets its biggest navigation redesign in a decade, plus more AI - Ars Technica",
+      "source": {
+        "name": "Ars Technica"
+      },
+      "description": "Google Maps is about to get more chatty and immersive....",
+      "url": "https://arstechnica.com/gadgets/2026/03/google-maps-gets-its-biggest-navigation-redesign-in-a-decade-plus-more-ai/",
+      "publishedAt": "2026-03-12T12:30:51Z",
+      "processed_at": "2026-03-13T17:35:55.531007+00:00"
+    },
+    {
+      "title": "Hasbro's CEO Says 'Magic: The Gathering' and 'Dungeons & Dragons' Will Never Use Generative AI - Gizmodo",
+      "source": {
+        "name": "Gizmodo.com"
+      },
+      "description": "Both brands already have guidelines in place barring the use of the technology....",
+      "url": "https://gizmodo.com/wizards-of-the-coast-dnd-magic-no-ai-2000732646",
+      "publishedAt": "2026-03-12T12:00:05Z",
+      "processed_at": "2026-03-13T17:35:55.531007+00:00"
     },
     {
       "title": "Poll: Has PS5's Dynamic Pricing Debacle Changed Your Relationship with the PS Store at All? - Push Square",
@@ -20,70 +90,20 @@
       "description": "To buy or not to buy...",
       "url": "https://www.pushsquare.com/features/poll-has-ps5s-dynamic-pricing-debacle-changed-your-relationship-with-the-ps-store-at-all",
       "publishedAt": "2026-03-12T11:00:00Z",
-      "processed_at": "2026-03-13T16:42:09.645949+00:00"
+      "processed_at": "2026-03-13T17:35:55.531007+00:00"
     },
     {
-      "title": "Former Overwatch Lead claims he was given a horrid ultimatum: meet revenue goals or 1,000 developers would lose jobs - Eurogamer.net",
+      "title": "Woman tests how Home Depot workers treat her in a “hot girl” outfit vs dressed “like a boy” - Yahoo",
       "source": {
-        "name": "Eurogamer.net"
+        "name": "The Daily Dot"
       },
-      "description": "In at interview with Lex Fridman, former Overwatch lead Jeff Kaplan claims he was told to hit revenu...",
-      "url": "https://www.eurogamer.net/former-overwatch-lead-claims-he-was-given-a-horrid-ultimatum-meet-revenue-goals-or-1000-developers-would-lose-jobs",
-      "publishedAt": "2026-03-12T09:53:37Z",
-      "processed_at": "2026-03-13T16:42:09.645949+00:00"
-    },
-    {
-      "title": "New GTA Online Event Week: Showcase Special (March 12th-18th) - RockstarINTEL",
-      "source": {
-        "name": "Rockstarintel.com"
-      },
-      "description": "It's another GTA Online Weekly Update and this is a big week! There is new content for St. Patrick's...",
-      "url": "https://rockstarintel.com/new-gta-online-event-week-march-12th-18th/",
-      "publishedAt": "2026-03-12T09:38:04Z",
-      "processed_at": "2026-03-13T16:42:09.645949+00:00"
-    },
-    {
-      "title": "AI may never be as cheap as it is today - Axios",
-      "source": {
-        "name": "Axios"
-      },
-      "description": "AI companies like OpenAI, Google subsidize costs. For now....",
-      "url": "https://www.axios.com/2026/03/12/ai-models-costs-ipo-pricing",
-      "publishedAt": "2026-03-12T09:00:32Z",
-      "processed_at": "2026-03-13T16:42:09.645949+00:00"
-    },
-    {
-      "title": "ASUS adds three 27-inch QHD ROG Strix OLED gaming monitors, starting at $599 - VideoCardz.com",
-      "source": {
-        "name": "Videocardz.com"
-      },
-      "description": "ASUS announces 240Hz and 280Hz 27-inch ROG Strix OLED monitors ASUS has announced three new 27-inch ...",
-      "url": "https://videocardz.com/newz/asus-adds-three-27-inch-qhd-rog-strix-oled-gaming-monitors-starting-at-599",
-      "publishedAt": "2026-03-12T08:15:00Z",
-      "processed_at": "2026-03-13T16:42:09.645949+00:00"
-    },
-    {
-      "title": "How well does the new MacBook Neo handle gaming? Andrew Tsai tested 10 games to find out - 9to5Mac",
-      "source": {
-        "name": "9to5Mac"
-      },
-      "description": "From AAA games to Windows to Switch emulated games, Andrew Tsai set out to find whether the MacBook ...",
-      "url": "https://9to5mac.com/2026/03/11/how-well-does-the-new-macbook-neo-handle-gaming-andrew-tsai-tested-10-games-to-find-out/",
-      "publishedAt": "2026-03-12T03:34:12Z",
-      "processed_at": "2026-03-13T16:42:09.645949+00:00"
-    },
-    {
-      "title": "Pokémon Pokopia Sales Surpass 2.2 Million Units Globally In First Four Days - Nintendo Life",
-      "source": {
-        "name": "Nintendo Life"
-      },
-      "description": "The Switch 2 exclusive is off to a strong start...",
-      "url": "https://www.nintendolife.com/news/2026/03/pokemon-pokopia-sales-surpass-2-2-million-units-globally-in-first-four-days",
-      "publishedAt": "2026-03-12T01:30:00Z",
-      "processed_at": "2026-03-13T16:42:09.645949+00:00"
+      "description": "Does pretty privilege apply at the hardware store?...",
+      "url": "https://dailydot.com/pretty-privilege-home-depot-outfit-comparisons/",
+      "publishedAt": "2026-03-12T10:00:00Z",
+      "processed_at": "2026-03-13T17:35:55.531007+00:00"
     }
   ],
-  "lastUpdated": "2026-03-13T16:42:09.646035+00:00",
+  "lastUpdated": "2026-03-13T17:35:55.531089+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
