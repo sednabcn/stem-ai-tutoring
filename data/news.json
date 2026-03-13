@@ -1,7 +1,17 @@
 {
   "status": "success",
-  "totalResults": 7,
+  "totalResults": 9,
   "articles": [
+    {
+      "title": "Google Play Games for PC is getting more premium titles and cross-buy with Android - Ars Technica",
+      "source": {
+        "name": "Ars Technica"
+      },
+      "description": "Google is more focused on desktop gaming than ever before....",
+      "url": "https://arstechnica.com/gaming/2026/03/google-play-games-for-pc-is-getting-more-premium-titles-and-cross-buy-with-android/",
+      "publishedAt": "2026-03-11T23:00:36Z",
+      "processed_at": "2026-03-13T04:45:28.033172+00:00"
+    },
     {
       "title": "Apple’s Foldable iPhone to Feature iPad-Like Interface When Opened - Bloomberg.com",
       "source": {
@@ -10,7 +20,7 @@
       "description": "Apple Inc.’s forthcoming foldable iPhone will include updates to the iOS operating system that enabl...",
       "url": "https://www.bloomberg.com/news/articles/2026-03-11/apple-s-foldable-iphone-to-feature-ipad-like-interface-when-opened",
       "publishedAt": "2026-03-11T20:06:16Z",
-      "processed_at": "2026-03-13T02:12:44.878324+00:00"
+      "processed_at": "2026-03-13T04:45:28.033172+00:00"
     },
     {
       "title": "macOS 26.4: Four new features are coming to your Mac - 9to5Mac",
@@ -20,37 +30,47 @@
       "description": "macOS Tahoe 26.4 is coming soon as the next software update for your Mac. Here are four new features...",
       "url": "https://9to5mac.com/2026/03/11/macos-26-4-four-new-features-are-coming-to-your-mac/",
       "publishedAt": "2026-03-11T19:50:00Z",
-      "processed_at": "2026-03-13T02:12:44.878324+00:00"
+      "processed_at": "2026-03-13T04:45:28.033172+00:00"
     },
     {
-      "title": "CVS is packed with beauty markdowns in March, but only 10 made my cart - Yahoo",
+      "title": "Don't post generated/AI-edited comments. HN is for conversation between humans. - Hacker News",
       "source": {
-        "name": "Yahoo Entertainment"
+        "name": "Hacker News"
       },
-      "description": "I'm loading up on brands like Dove, Olay and L'Oréal — all up to 50% off during one of the drugstore...",
-      "url": "https://shopping.yahoo.com/deals/article/cvs-is-packed-with-beauty-markdowns-in-march-but-only-10-made-my-cart-184809637.html",
-      "publishedAt": "2026-03-11T18:48:11Z",
-      "processed_at": "2026-03-13T02:12:44.878324+00:00"
+      "description": "",
+      "url": "https://news.ycombinator.com/item?id\\\\u003d47340079",
+      "publishedAt": "2026-03-11T19:44:16Z",
+      "processed_at": "2026-03-13T04:45:28.033172+00:00"
     },
     {
-      "title": "Intel shores up its desktop CPU lineup with boosted Core Ultra 200S Plus chips - Ars Technica",
+      "title": "Microsoft says you should build next-gen Xbox games by building them for PC. - The Verge",
       "source": {
-        "name": "Ars Technica"
+        "name": "The Verge"
       },
-      "description": "New CPUs are a bit faster and a bit cheaper than the ones they replace....",
-      "url": "https://arstechnica.com/gadgets/2026/03/intel-shores-up-its-desktop-cpu-lineup-with-boosted-core-ultra-200s-plus-chips/",
-      "publishedAt": "2026-03-11T17:21:25Z",
-      "processed_at": "2026-03-13T02:12:44.878324+00:00"
+      "description": "",
+      "url": "https://www.theverge.com/news/893196/microsoft-says-you-should-build-next-gen-xbox-games-by-building-them-for-pc",
+      "publishedAt": "2026-03-11T16:53:03Z",
+      "processed_at": "2026-03-13T04:45:28.033172+00:00"
     },
     {
-      "title": "Pokémon Pokopia is such a \"viral hit\" that it's making Nintendo's share price surge (after months of going down) - Eurogamer.net",
+      "title": "After Testing the Samsung Galaxy S26, I Found It Falls Short on These 2 Features - PCMag",
+      "source": {
+        "name": "PCMag.com"
+      },
+      "description": "The Galaxy S26 Ultra shines with incredible cameras, smart AI features, and a refined design, making...",
+      "url": "https://www.pcmag.com/reviews/samsung-galaxy-s26-ultra",
+      "publishedAt": "2026-03-11T16:11:52Z",
+      "processed_at": "2026-03-13T04:45:28.033172+00:00"
+    },
+    {
+      "title": "Here are our PlayStation Plus Extra and Premium games for March - Eurogamer.net",
       "source": {
         "name": "Eurogamer.net"
       },
-      "description": "Pokémon Pokopia is huge and a viral hit already. Moreover, it's boosted Nintendo's share price and S...",
-      "url": "https://www.eurogamer.net/pokemon-pokopia-boosts-nintendo-share-price-after-first-weekend-out",
-      "publishedAt": "2026-03-11T16:47:13Z",
-      "processed_at": "2026-03-13T02:12:44.878324+00:00"
+      "description": "Sony has lifted the lid on its PS Plus Premium and Extra game offerings for March....",
+      "url": "https://www.eurogamer.net/here-are-our-playstation-plus-extra-and-premium-games-for-march",
+      "publishedAt": "2026-03-11T16:01:52Z",
+      "processed_at": "2026-03-13T04:45:28.033172+00:00"
     },
     {
       "title": "MacBook Pro to Receive 'Major Upgrade' by Early Next Year - MacRumors",
@@ -60,20 +80,20 @@
       "description": "Apple supply chain analyst Ming-Chi Kuo today said the MacBook Pro will receive a \"major upgrade\" wi...",
       "url": "https://www.macrumors.com/2026/03/11/macbook-pro-major-upgrade/",
       "publishedAt": "2026-03-11T15:53:19Z",
-      "processed_at": "2026-03-13T02:12:44.878324+00:00"
+      "processed_at": "2026-03-13T04:45:28.033172+00:00"
     },
     {
-      "title": "Enjoy New Prizes and Newly Distributed Battle Boxes at Play! Pokémon Stores - Pokemon.com",
+      "title": "New iPhone 18 Pro leaks explore design details, dimensions, more - 9to5Mac",
       "source": {
-        "name": "Pokemon.com"
+        "name": "9to5Mac"
       },
-      "description": "Acrylic standees, stickers, and Battle Boxes are coming to local Play! Pokémon Stores starting April...",
-      "url": "https://www.pokemon.com/us/pokemon-news/enjoy-new-prizes-and-newly-distributed-battle-boxes-at-play-pokemon-stores",
-      "publishedAt": "2026-03-11T15:02:27Z",
-      "processed_at": "2026-03-13T02:12:44.878324+00:00"
+      "description": "New iPhone 18 Pro-related posts from Weibo leakers outline what to expect from the product’s design,...",
+      "url": "https://9to5mac.com/2026/03/11/new-iphone-18-pro-leaks-explore-design-details-dimensions-more/",
+      "publishedAt": "2026-03-11T15:11:00Z",
+      "processed_at": "2026-03-13T04:45:28.033172+00:00"
     }
   ],
-  "lastUpdated": "2026-03-13T02:12:44.878386+00:00",
+  "lastUpdated": "2026-03-13T04:45:28.033240+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
