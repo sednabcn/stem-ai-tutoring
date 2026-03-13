@@ -1,16 +1,66 @@
 {
   "status": "success",
-  "totalResults": 10,
+  "totalResults": 8,
   "articles": [
     {
-      "title": "Former Overwatch Director Breaks Silence About Sudden Departure From Blizzard - Nintendo Life",
+      "title": "Perplexity’s Personal Computer turns your spare Mac into an AI agent - The Verge",
       "source": {
-        "name": "Nintendo Life"
+        "name": "The Verge"
       },
-      "description": "\"I literally thought I'd retire from the place\"...",
-      "url": "https://www.nintendolife.com/news/2026/03/former-overwatch-director-breaks-silence-about-sudden-departure-from-blizzard",
-      "publishedAt": "2026-03-12T06:30:00Z",
-      "processed_at": "2026-03-13T13:02:54.194774+00:00"
+      "description": "Perplexity is positioning Personal Computer as a more secure version of OpenClaw that runs on a Mac....",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/893536/perplexitys-personal-computer-turns-your-spare-mac-into-an-ai-agent",
+      "publishedAt": "2026-03-12T12:00:34Z",
+      "processed_at": "2026-03-13T14:42:23.795222+00:00"
+    },
+    {
+      "title": "Poll: Has PS5's Dynamic Pricing Debacle Changed Your Relationship with the PS Store at All? - Push Square",
+      "source": {
+        "name": "Push Square"
+      },
+      "description": "To buy or not to buy...",
+      "url": "https://www.pushsquare.com/features/poll-has-ps5s-dynamic-pricing-debacle-changed-your-relationship-with-the-ps-store-at-all",
+      "publishedAt": "2026-03-12T11:00:00Z",
+      "processed_at": "2026-03-13T14:42:23.795222+00:00"
+    },
+    {
+      "title": "Former Overwatch Lead claims he was given a horrid ultimatum: meet revenue goals or 1,000 developers would lose jobs - Eurogamer.net",
+      "source": {
+        "name": "Eurogamer.net"
+      },
+      "description": "In at interview with Lex Fridman, former Overwatch lead Jeff Kaplan claims he was told to hit revenu...",
+      "url": "https://www.eurogamer.net/former-overwatch-lead-claims-he-was-given-a-horrid-ultimatum-meet-revenue-goals-or-1000-developers-would-lose-jobs",
+      "publishedAt": "2026-03-12T09:53:37Z",
+      "processed_at": "2026-03-13T14:42:23.795222+00:00"
+    },
+    {
+      "title": "New GTA Online Event Week: Showcase Special (March 12th-18th) - RockstarINTEL",
+      "source": {
+        "name": "Rockstarintel.com"
+      },
+      "description": "It's another GTA Online Weekly Update and this is a big week! There is new content for St. Patrick's...",
+      "url": "https://rockstarintel.com/new-gta-online-event-week-march-12th-18th/",
+      "publishedAt": "2026-03-12T09:38:04Z",
+      "processed_at": "2026-03-13T14:42:23.795222+00:00"
+    },
+    {
+      "title": "AI may never be as cheap as it is today - Axios",
+      "source": {
+        "name": "Axios"
+      },
+      "description": "AI companies like OpenAI, Google subsidize costs. For now....",
+      "url": "https://www.axios.com/2026/03/12/ai-models-costs-ipo-pricing",
+      "publishedAt": "2026-03-12T09:00:32Z",
+      "processed_at": "2026-03-13T14:42:23.795222+00:00"
+    },
+    {
+      "title": "ASUS adds three 27-inch QHD ROG Strix OLED gaming monitors, starting at $599 - VideoCardz.com",
+      "source": {
+        "name": "Videocardz.com"
+      },
+      "description": "ASUS announces 240Hz and 280Hz 27-inch ROG Strix OLED monitors ASUS has announced three new 27-inch ...",
+      "url": "https://videocardz.com/newz/asus-adds-three-27-inch-qhd-rog-strix-oled-gaming-monitors-starting-at-599",
+      "publishedAt": "2026-03-12T08:15:00Z",
+      "processed_at": "2026-03-13T14:42:23.795222+00:00"
     },
     {
       "title": "How well does the new MacBook Neo handle gaming? Andrew Tsai tested 10 games to find out - 9to5Mac",
@@ -20,90 +70,20 @@
       "description": "From AAA games to Windows to Switch emulated games, Andrew Tsai set out to find whether the MacBook ...",
       "url": "https://9to5mac.com/2026/03/11/how-well-does-the-new-macbook-neo-handle-gaming-andrew-tsai-tested-10-games-to-find-out/",
       "publishedAt": "2026-03-12T03:34:12Z",
-      "processed_at": "2026-03-13T13:02:54.194774+00:00"
+      "processed_at": "2026-03-13T14:42:23.795222+00:00"
     },
     {
-      "title": "Perplexity rolls out enterprise AI agent tools - Axios",
+      "title": "Pokémon Pokopia Sales Surpass 2.2 Million Units Globally In First Four Days - Nintendo Life",
       "source": {
-        "name": "Axios"
+        "name": "Nintendo Life"
       },
-      "description": "The AI startup claims to offer a safer version of OpenClaw...",
-      "url": "https://www.axios.com/2026/03/11/perplexity-personal-computer-mac",
-      "publishedAt": "2026-03-12T02:27:52Z",
-      "processed_at": "2026-03-13T13:02:54.194774+00:00"
-    },
-    {
-      "title": "Pokemon Pokopia sales top 2.2 million in four days - Gematsu",
-      "source": {
-        "name": "Gematsu"
-      },
-      "description": "Total sales for Pokemon Pokopia surpassed 2.2 million units in its first four days of release, The P...",
-      "url": "https://www.gematsu.com/2026/03/pokemon-pokopia-sales-top-2-2-million-in-four-days",
-      "publishedAt": "2026-03-12T00:07:27Z",
-      "processed_at": "2026-03-13T13:02:54.194774+00:00"
-    },
-    {
-      "title": "Google Play is adding new paid and PC games, game trials, community posts, and more - TechCrunch",
-      "source": {
-        "name": "TechCrunch"
-      },
-      "description": "The updates indicate that Google is focused on transforming Google Play into an enhanced gaming hub....",
-      "url": "https://techcrunch.com/2026/03/11/google-play-is-adding-new-paid-and-pc-games-game-trials-community-posts-and-more/",
-      "publishedAt": "2026-03-11T23:00:00Z",
-      "processed_at": "2026-03-13T13:02:54.194774+00:00"
-    },
-    {
-      "title": "Nanophotonic waveguide chip-to-world beam scanning - Nature",
-      "source": {
-        "name": "Nature.com"
-      },
-      "description": "A monolithically integrated photonic ski-jump enables scalable, diffraction-limited 2D beam scanning...",
-      "url": "https://www.nature.com/articles/s41586-025-10038-6",
-      "publishedAt": "2026-03-11T22:51:21Z",
-      "processed_at": "2026-03-13T13:02:54.194774+00:00"
-    },
-    {
-      "title": "iPhone Fold rumor: iPad-like multitasking, but no iPad apps and no Face ID - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "Apple’s rumored folding iPhone could offer an iPad-like layout with the ability to view apps side-by...",
-      "url": "https://www.theverge.com/tech/893429/iphone-fold-rumor-ipad-multitasking-face-id-rumor",
-      "publishedAt": "2026-03-11T22:22:33Z",
-      "processed_at": "2026-03-13T13:02:54.194774+00:00"
-    },
-    {
-      "title": "Xbox unveils first tech details of its next generation console, codenamed Project Helix - GamesIndustry.biz",
-      "source": {
-        "name": "GamesIndustry.biz"
-      },
-      "description": "Xbox has revealed limited technical details about its next console, codenamed Project Helix....",
-      "url": "https://www.gamesindustry.biz/xbox-unveils-first-tech-details-of-its-next-generation-console-codenamed-project-helix",
-      "publishedAt": "2026-03-11T21:14:46Z",
-      "processed_at": "2026-03-13T13:02:54.194774+00:00"
-    },
-    {
-      "title": "M5 Max’s Fusion Architecture Allows For Better Sustained Performance While Running 8 Degrees Celsius Cooler Than M4 Max; Still Gets Uncomfortably Hot - Wccftech",
-      "source": {
-        "name": "Wccftech"
-      },
-      "description": "The Fusion Architecture allows the M5 Max to maintain better thermals than the M4 Max while deliveri...",
-      "url": "https://wccftech.com/m5-max-runs-cooler-than-m4-max-but-still-gets-scorching-hot/",
-      "publishedAt": "2026-03-11T21:06:00Z",
-      "processed_at": "2026-03-13T13:02:54.194774+00:00"
-    },
-    {
-      "title": "Windows 11’s Steam Deck-ish, streamlined Xbox gaming UI comes to all PCs in April - Ars Technica",
-      "source": {
-        "name": "Ars Technica"
-      },
-      "description": "Running Windows on gaming handhelds is currently a blessing and a curse....",
-      "url": "https://arstechnica.com/gadgets/2026/03/windows-11s-steam-deck-ish-streamlined-xbox-gaming-ui-comes-to-all-pcs-in-april/",
-      "publishedAt": "2026-03-11T20:55:50Z",
-      "processed_at": "2026-03-13T13:02:54.194774+00:00"
+      "description": "The Switch 2 exclusive is off to a strong start...",
+      "url": "https://www.nintendolife.com/news/2026/03/pokemon-pokopia-sales-surpass-2-2-million-units-globally-in-first-four-days",
+      "publishedAt": "2026-03-12T01:30:00Z",
+      "processed_at": "2026-03-13T14:42:23.795222+00:00"
     }
   ],
-  "lastUpdated": "2026-03-13T13:02:54.194855+00:00",
+  "lastUpdated": "2026-03-13T14:42:23.795290+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
