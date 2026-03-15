@@ -1,7 +1,27 @@
 {
   "status": "success",
-  "totalResults": 10,
+  "totalResults": 9,
   "articles": [
+    {
+      "title": "12 Milwaukee Tools Under $50 Worth Adding To Your Collection - SlashGear",
+      "source": {
+        "name": "SlashGear"
+      },
+      "description": "Milwaukee is a toolmaker known for its high-end professional tools, but the brand has a lot to offer...",
+      "url": "https://www.slashgear.com/2119676/milwaukee-tools-under-50-dollars-worth-buying/",
+      "publishedAt": "2026-03-14T01:30:00Z",
+      "processed_at": "2026-03-15T07:50:39.382171+00:00"
+    },
+    {
+      "title": "Rebranded GDC Festival of Gaming attracts 20,000 attendees - Game Developer",
+      "source": {
+        "name": "Gamedeveloper.com"
+      },
+      "description": "The week-long showcase took place from March 9 to March 13....",
+      "url": "https://www.gamedeveloper.com/business/rebranded-gdc-festival-of-gaming-attracts-20-000-attendees",
+      "publishedAt": "2026-03-13T23:30:51Z",
+      "processed_at": "2026-03-15T07:50:39.382171+00:00"
+    },
     {
       "title": "Slay the Spire 2 is a bit too familiar for its own good - Ars Technica",
       "source": {
@@ -10,17 +30,7 @@
       "description": "Early Access impressions: New characters shine, but it feels like we've done this before....",
       "url": "https://arstechnica.com/gaming/2026/03/slay-the-spire-2-is-a-bit-too-familiar-for-its-own-good/",
       "publishedAt": "2026-03-13T22:26:06Z",
-      "processed_at": "2026-03-15T06:59:58.816021+00:00"
-    },
-    {
-      "title": "Bethesda Boss Todd Howard Will 'Stay the Course on Starfield,' Says Veteran Composer, Who Also Believes 'People Were Just Not Ready For It' at Launch - IGN",
-      "source": {
-        "name": "IGN"
-      },
-      "description": "Bethesda boss Todd Howard will continue to work on Starfield and ensure the company's ambitious spac...",
-      "url": "https://www.ign.com/articles/bethesda-boss-todd-howard-will-stay-the-course-on-starfield-says-veteran-composer-who-also-believes-people-were-just-not-ready-for-it-at-launch",
-      "publishedAt": "2026-03-13T21:59:14Z",
-      "processed_at": "2026-03-15T06:59:58.816021+00:00"
+      "processed_at": "2026-03-15T07:50:39.382171+00:00"
     },
     {
       "title": "Arc Raiders Has Started Replacing AI Voices With Human Ones Which CEO Admits Are Better - Kotaku",
@@ -30,7 +40,7 @@
       "description": "Embark's CEO says 'most' of the in-game voice lines are now recorded by real actors...",
       "url": "https://kotaku.com/arc-raiders-replaced-ai-generated-content-human-recorded-dialogue-voices-2000678774",
       "publishedAt": "2026-03-13T21:58:46Z",
-      "processed_at": "2026-03-15T06:59:58.816021+00:00"
+      "processed_at": "2026-03-15T07:50:39.382171+00:00"
     },
     {
       "title": "Figuring out why AIs get flummoxed by some games - Ars Technica",
@@ -40,7 +50,7 @@
       "description": "When winning depends on intuiting a mathematical function, AIs come up short....",
       "url": "https://arstechnica.com/ai/2026/03/figuring-out-why-ais-get-flummoxed-by-some-games/",
       "publishedAt": "2026-03-13T21:47:34Z",
-      "processed_at": "2026-03-15T06:59:58.816021+00:00"
+      "processed_at": "2026-03-15T07:50:39.382171+00:00"
     },
     {
       "title": "Nyne, founded by a father-son duo, gives AI agents the human context they’re missing - TechCrunch",
@@ -50,7 +60,7 @@
       "description": "The data infrastructure startup raised $5.3 million in seed funding led by Wischoff Ventures and Sou...",
       "url": "https://techcrunch.com/2026/03/13/nyne-founded-by-a-father-son-duo-gives-ai-agents-the-human-context-theyre-missing/",
       "publishedAt": "2026-03-13T21:37:01Z",
-      "processed_at": "2026-03-15T06:59:58.816021+00:00"
+      "processed_at": "2026-03-15T07:50:39.382171+00:00"
     },
     {
       "title": "Let Them Eat Skins: Fortnite Players Are Calling For A Boycott Over V-Buck Price Hikes - Kotaku",
@@ -60,7 +70,7 @@
       "description": "No one's buying Epic's defense of shrinkflation...",
       "url": "https://kotaku.com/fortnite-v-buck-price-boycott-epic-2000678759",
       "publishedAt": "2026-03-13T21:34:53Z",
-      "processed_at": "2026-03-15T06:59:58.816021+00:00"
+      "processed_at": "2026-03-15T07:50:39.382171+00:00"
     },
     {
       "title": "'This Would Have Been $30 DLC by Most Studios': Players Praise Ghost of Yotei's Free PS5 Update - Push Square",
@@ -70,7 +80,7 @@
       "description": "\"This is absolutely insane\"...",
       "url": "https://www.pushsquare.com/news/2026/03/this-would-have-been-usd30-dlc-by-most-studios-players-praise-ghost-of-yoteis-free-ps5-update",
       "publishedAt": "2026-03-13T21:00:00Z",
-      "processed_at": "2026-03-15T06:59:58.816021+00:00"
+      "processed_at": "2026-03-15T07:50:39.382171+00:00"
     },
     {
       "title": "Microsoft’s Copilot AI assistant is coming to current-gen Xbox consoles this year - The Verge",
@@ -80,30 +90,10 @@
       "description": "Xbox is planning to bring its Gaming Copilot AI assistant to “current-generation consoles” this year...",
       "url": "https://www.theverge.com/games/894799/microsoft-gaming-copilot-ai-xbox-consoles",
       "publishedAt": "2026-03-13T20:51:48Z",
-      "processed_at": "2026-03-15T06:59:58.816021+00:00"
-    },
-    {
-      "title": "Apple Kicks Off 50th Anniversary With Surprise Alicia Keys Concert in New York - MacRumors",
-      "source": {
-        "name": "MacRumors"
-      },
-      "description": "Apple mysteriously shut down its Grand Central Terminal store in New York City today, and it turns o...",
-      "url": "https://www.macrumors.com/2026/03/13/apple-50th-anniversary-alicia-keys-concert/",
-      "publishedAt": "2026-03-13T19:25:22Z",
-      "processed_at": "2026-03-15T06:59:58.816021+00:00"
-    },
-    {
-      "title": "Five Takeaways From the 2026 Game Developers Conference - Bloomberg.com",
-      "source": {
-        "name": "Bloomberg"
-      },
-      "description": "GDC in San Francisco this week was full of job-seekers, co-development studios and AI...",
-      "url": "https://www.bloomberg.com/news/newsletters/2026-03-13/the-2026-game-developers-conference-s-five-major-takeaways",
-      "publishedAt": "2026-03-13T18:00:01Z",
-      "processed_at": "2026-03-15T06:59:58.816021+00:00"
+      "processed_at": "2026-03-15T07:50:39.382171+00:00"
     }
   ],
-  "lastUpdated": "2026-03-15T06:59:58.816112+00:00",
+  "lastUpdated": "2026-03-15T07:50:39.382239+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
