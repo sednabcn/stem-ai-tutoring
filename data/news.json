@@ -1,99 +1,89 @@
 {
   "status": "success",
-  "totalResults": 9,
+  "totalResults": 8,
   "articles": [
     {
-      "title": "Judge Orders Subnautica 2 Studio CEO Reinstated Amid Lawsuit - Kotaku",
+      "title": "iPhone Fold looks like two of my all-time favorite products in one - 9to5Mac",
+      "source": {
+        "name": "9to5Mac"
+      },
+      "description": "Rumors make it seem clear that iPhone Fold will combine two of my favorite products—iPhone mini and ...",
+      "url": "https://9to5mac.com/2026/03/16/iphone-fold-looks-like-two-of-my-all-time-favorite-products-in-one/",
+      "publishedAt": "2026-03-16T20:39:00Z",
+      "processed_at": "2026-03-17T21:39:16.577555+00:00"
+    },
+    {
+      "title": "Marathon Testing Duos Mode Right Away After Fans Begged For It - Kotaku",
       "source": {
         "name": "Kotaku"
       },
-      "description": "Krafton is 'enjoined' from firing Ted Gill as part of a new court order...",
-      "url": "https://kotaku.com/subnautica-2-ted-gill-unknown-worlds-lawsuit-krafton-2000679131",
-      "publishedAt": "2026-03-16T17:28:32Z",
-      "processed_at": "2026-03-17T20:40:49.724056+00:00"
+      "description": "Duos comes to Perimeter as a test to see if it works...",
+      "url": "https://kotaku.com/marathon-duos-mode-matchmaking-update-2000679224",
+      "publishedAt": "2026-03-16T20:35:12Z",
+      "processed_at": "2026-03-17T21:39:16.577555+00:00"
     },
     {
-      "title": "Pokémon Go Maker Used Billions Of Images To Train An AI Map Of The World - Kotaku",
+      "title": "Google rolling out modem update for original Pixel Watch - 9to5Google",
+      "source": {
+        "name": "9to5google.com"
+      },
+      "description": "Following the last release in October, Google is rolling out a modem update for the original Pixel W...",
+      "url": "http://9to5google.com/2026/03/16/pixel-watch-modem-update/",
+      "publishedAt": "2026-03-16T19:50:00Z",
+      "processed_at": "2026-03-17T21:39:16.577555+00:00"
+    },
+    {
+      "title": "Apple's First Lightning iPhone is Now Obsolete - MacRumors",
+      "source": {
+        "name": "MacRumors"
+      },
+      "description": "The iPhone 5 that launched back in 2012 is now considered obsolete, according to Apple's list of vin...",
+      "url": "https://www.macrumors.com/2026/03/16/apple-iphone-5-obsolete/",
+      "publishedAt": "2026-03-16T18:46:15Z",
+      "processed_at": "2026-03-17T21:39:16.577555+00:00"
+    },
+    {
+      "title": "adidas and Humanrace Launch Adizero EVO SL ‘Mars’ and Matching Apparel - adidas News",
+      "source": {
+        "name": "Adidas.com"
+      },
+      "description": "",
+      "url": "https://news.adidas.com/originals/adidas-and-humanrace-launch-adizero-evo-sl--mars--and-matching-apparel/s/c9ef4531-8d38-4dee-aa88-f44c64c1c60a",
+      "publishedAt": "2026-03-16T18:46:04Z",
+      "processed_at": "2026-03-17T21:39:16.577555+00:00"
+    },
+    {
+      "title": "Biggest GTA Wiki Leaves Fandom Over Censorship And Annoying Ads Ahead Of GTA 6 Launch - Kotaku",
       "source": {
         "name": "Kotaku"
       },
-      "description": "The AR monster-catching app can’t simply stay a good thing...",
-      "url": "https://kotaku.com/pokemon-go-ai-map-data-niantic-spatial-delivery-robot-2000679110",
-      "publishedAt": "2026-03-16T15:15:00Z",
-      "processed_at": "2026-03-17T20:40:49.724056+00:00"
+      "description": "",
+      "url": "https://kotaku.com/gta-wiki-leaving-fandom-rules-censorship-ads-videos-ditching-2000679115",
+      "publishedAt": "2026-03-16T18:45:00Z",
+      "processed_at": "2026-03-17T21:39:16.577555+00:00"
     },
     {
-      "title": "Mid‑Year Celebrations Return to Play! Pokémon Stores on June 15 - Pokemon.com",
-      "source": {
-        "name": "Pokemon.com"
-      },
-      "description": "Earn cool new prizes in casual tournaments as the Pokémon Championship Series takes a break from Jun...",
-      "url": "https://www.pokemon.com/us/pokemon-news/mid-year-celebrations-return-to-play-pokemon-stores-on-june-15",
-      "publishedAt": "2026-03-16T15:06:37Z",
-      "processed_at": "2026-03-17T20:40:49.724056+00:00"
-    },
-    {
-      "title": "New Animation: The Saviour of Armageddon Returns - Warhammer Community",
-      "source": {
-        "name": "Warhammer-community.com"
-      },
-      "description": "The Hero of Hades Hive is back with a new miniature....",
-      "url": "https://www.warhammer-community.com/articles/sklouxc3/new-animation-the-saviour-of-armageddon-returns",
-      "publishedAt": "2026-03-16T15:04:47Z",
-      "processed_at": "2026-03-17T20:40:49.724056+00:00"
-    },
-    {
-      "title": "Tested: PS5 Pro's Upgraded PSSR Put Through Its Paces On Four Top-Tier Games - Digital Foundry",
-      "source": {
-        "name": "Digitalfoundry.net"
-      },
-      "description": "Silent Hill f, Final Fantasy 7 Rebirth, Monster Hunter Wilds, Dragon Age: The Veilguard...",
-      "url": "https://www.digitalfoundry.net/features/tested-ps5-pros-upgraded-pssr-put-through-its-paces-on-four-top-tier-games",
-      "publishedAt": "2026-03-16T15:00:00Z",
-      "processed_at": "2026-03-17T20:40:49.724056+00:00"
-    },
-    {
-      "title": "Crimson Desert PS5 Trophies Leak, and They're Basically Nonsensical - Push Square",
-      "source": {
-        "name": "Push Square"
-      },
-      "description": "35 Trophies with a Platinum to unlock...",
-      "url": "https://www.pushsquare.com/news/2026/03/crimson-desert-ps5-trophies-leak-and-theyre-basically-nonsensical",
-      "publishedAt": "2026-03-16T15:00:00Z",
-      "processed_at": "2026-03-17T20:40:49.724056+00:00"
-    },
-    {
-      "title": "Fans Are Furious After A Tomb Raider Remastered Patch Gives Lara Slop Outfits - Kotaku",
-      "source": {
-        "name": "Kotaku"
-      },
-      "description": "The new costumes are half-finished, seemingly melting, or just plain terrible...",
-      "url": "https://kotaku.com/fans-are-furious-after-a-tomb-raider-remastered-patch-gives-lara-slop-outfits-2000679054",
-      "publishedAt": "2026-03-16T14:52:39Z",
-      "processed_at": "2026-03-17T20:40:49.724056+00:00"
-    },
-    {
-      "title": "Apple quietly launches AirPods Max 2 - TechCrunch",
+      "title": "The MacBook Neo is ‘the most repairable MacBook’ in years, according to iFixit - TechCrunch",
       "source": {
         "name": "TechCrunch"
       },
-      "description": "The successor to its premium headphones cost $549 and are launching with enhanced active noise cance...",
-      "url": "https://techcrunch.com/2026/03/16/apple-quietly-launches-airpods-max-2/",
-      "publishedAt": "2026-03-16T14:12:50Z",
-      "processed_at": "2026-03-17T20:40:49.724056+00:00"
+      "description": "Apple’s new MacBook Neo isn’t just the most affordable MacBook — it’s also the company's most repair...",
+      "url": "https://techcrunch.com/2026/03/16/macbook-neo-ifixit-most-repairable-macbook-in-years-battery-replacement/",
+      "publishedAt": "2026-03-16T18:36:42Z",
+      "processed_at": "2026-03-17T21:39:16.577555+00:00"
     },
     {
-      "title": "Check out the 2026 Warhammer Open swag boxes! - Warhammer Community",
+      "title": "Sony’s AI graphics upscaling for PS5 Pro games is getting a big update tonight - The Verge",
       "source": {
-        "name": "Warhammer-community.com"
+        "name": "Google News"
       },
-      "description": "Ticket holders get the standard swag box included in the price of their ticket....",
-      "url": "https://www.warhammer-community.com/articles/jbt1j3ky/check-out-the-2026-warhammer-open-swag-boxes",
-      "publishedAt": "2026-03-16T13:56:20Z",
-      "processed_at": "2026-03-17T20:40:49.724056+00:00"
+      "description": "",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNdExaWXRYWUdnLUhfWkNRZjVSSm9zcEhwemRjMzFUTk56ZjNvb1U1bVBjQzcwZWRMN21qVDhxZU1IMEt0djlic3FwSUdrS1RaQW9TajBBNEdiNklmemgtSmdpZTJlYnNhQzlrcFBXM21pWVVpRkJCLXlyM1p0c0FCTWlEdURuY0NmVm9tT1RaNEhyeTlYY1E?oc=5",
+      "publishedAt": "2026-03-16T18:07:30Z",
+      "processed_at": "2026-03-17T21:39:16.577555+00:00"
     }
   ],
-  "lastUpdated": "2026-03-17T20:40:49.724144+00:00",
+  "lastUpdated": "2026-03-17T21:39:16.577634+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
