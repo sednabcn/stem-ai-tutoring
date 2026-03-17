@@ -1,26 +1,86 @@
 {
   "status": "success",
-  "totalResults": 10,
+  "totalResults": 9,
   "articles": [
+    {
+      "title": "New Animation: The Saviour of Armageddon Returns - Warhammer Community",
+      "source": {
+        "name": "Warhammer-community.com"
+      },
+      "description": "",
+      "url": "https://www.warhammer-community.com/en-gb/articles/sklouxc3/new-animation-the-saviour-of-armageddon-returns/",
+      "publishedAt": "2026-03-16T15:04:47Z",
+      "processed_at": "2026-03-17T16:12:15.149734+00:00"
+    },
+    {
+      "title": "Fans Are Furious After A Tomb Raider Remastered Patch Gives Lara Slop Outfits - Kotaku",
+      "source": {
+        "name": "Kotaku"
+      },
+      "description": "",
+      "url": "https://kotaku.com/fans-are-furious-after-a-tomb-raider-remastered-patch-gives-lara-slop-outfits-2000679054",
+      "publishedAt": "2026-03-16T14:52:39Z",
+      "processed_at": "2026-03-17T16:12:15.149734+00:00"
+    },
+    {
+      "title": "Apple Announces AirPods Max 2 - MacRumors",
+      "source": {
+        "name": "MacRumors"
+      },
+      "description": "Apple today unveiled AirPods Max 2, with key upgrades including the H2 chip, increased active noise ...",
+      "url": "https://www.macrumors.com/2026/03/16/apple-announces-airpods-max-2/",
+      "publishedAt": "2026-03-16T13:12:44Z",
+      "processed_at": "2026-03-17T16:12:15.149734+00:00"
+    },
+    {
+      "title": "Marathon Dev 'Truth Nukes' Claim Bungie Lost All Its Halo Talent - Kotaku",
+      "source": {
+        "name": "Kotaku"
+      },
+      "description": "There are still dozens of developers who have been there since Halo...",
+      "url": "https://kotaku.com/marathon-bungie-halo-developers-who-worked-on-2000679056",
+      "publishedAt": "2026-03-16T12:55:13Z",
+      "processed_at": "2026-03-17T16:12:15.149734+00:00"
+    },
+    {
+      "title": "\"We Can All Exist At The Same Time\" - Zelda Voice Actor Rejects The Need To Pass The Torch - Nintendo Life",
+      "source": {
+        "name": "Nintendo Life"
+      },
+      "description": "\"There are already many torches\"...",
+      "url": "https://www.nintendolife.com/news/2026/03/we-can-all-exist-at-the-same-time-zelda-voice-actor-rejects-the-need-to-pass-the-torch",
+      "publishedAt": "2026-03-16T11:15:00Z",
+      "processed_at": "2026-03-17T16:12:15.149734+00:00"
+    },
+    {
+      "title": "Linux 7.1 To Retire UDP-Lite - Allows For Better Performance With Cleansed Code - Phoronix",
+      "source": {
+        "name": "Phoronix"
+      },
+      "description": "The upcoming Linux 7.1 kernel cycle is set to retire UDP-Lite support...",
+      "url": "https://www.phoronix.com/news/Linux-7.1-Retiring-UDP-Lite",
+      "publishedAt": "2026-03-16T10:31:00Z",
+      "processed_at": "2026-03-17T16:12:15.149734+00:00"
+    },
     {
       "title": "UK Charts: Pokémon Pokopia's Physical Troubles Continue As It Slips From The Podium - Nintendo Life",
       "source": {
         "name": "Nintendo Life"
       },
-      "description": "",
+      "description": "Stock issues for Ditto...",
       "url": "https://www.nintendolife.com/news/2026/03/uk-charts-pokemon-pokopias-physical-troubles-continue-as-it-slips-from-the-podium",
       "publishedAt": "2026-03-16T10:30:00Z",
-      "processed_at": "2026-03-17T14:58:29.725417+00:00"
+      "processed_at": "2026-03-17T16:12:15.149734+00:00"
     },
     {
-      "title": "Resident Evil Requiem PS5 Flying Off Shelves, Now at 6 Million Sales - Push Square",
+      "title": "Resident Evil Requiem crosses 6 million copies sold, becoming the fastest-selling game in the survival horror series' history - Eurogamer",
       "source": {
-        "name": "Push Square"
+        "name": "Eurogamer.net"
       },
-      "description": "",
-      "url": "https://www.pushsquare.com/news/2026/03/resident-evil-requiem-ps5-flying-off-shelves-now-at-6-million-sales",
-      "publishedAt": "2026-03-16T10:00:00Z",
-      "processed_at": "2026-03-17T14:58:29.725417+00:00"
+      "description": "Resident Evil Requiem has already sold 6 million copies and become the fastest-selling entry in the ...",
+      "url": "https://www.eurogamer.net/resident-evil-requiem-sells-six-million-copies-march-2026",
+      "publishedAt": "2026-03-16T10:09:43Z",
+      "processed_at": "2026-03-17T16:12:15.149734+00:00"
     },
     {
       "title": "Misusing my fitness tracker to do less, not more - The Verge",
@@ -30,80 +90,10 @@
       "description": "Disabled folks are using their devices to manage long Covid, POTS, and more — and it’s working...",
       "url": "https://www.theverge.com/features/889835/fitness-trackers-chronic-illness-visible-whoop",
       "publishedAt": "2026-03-16T10:00:00Z",
-      "processed_at": "2026-03-17T14:58:29.725417+00:00"
-    },
-    {
-      "title": "AMD Zen6 \"Medusa Point\" 10-core CPU leak confirms 32MB L3 Cache - VideoCardz.com",
-      "source": {
-        "name": "Videocardz.com"
-      },
-      "description": "One of the first Zen6 CPUs finally spotted on Geekbench Over at Geekbench, you may stumble upon a my...",
-      "url": "https://videocardz.com/newz/amd-zen6-medusa-point-10-core-cpu-leak-confirms-32mb-l3-cache",
-      "publishedAt": "2026-03-16T09:55:00Z",
-      "processed_at": "2026-03-17T14:58:29.725417+00:00"
-    },
-    {
-      "title": "Warner Bros Montréal reportedly hit with staff cuts - GamesIndustry.biz",
-      "source": {
-        "name": "GamesIndustry.biz"
-      },
-      "description": "Former employees state that roles across multiple divisions were made redundant last Friday...",
-      "url": "https://www.gamesindustry.biz/warner-bros-montreal-reportedly-hit-with-staff-cuts",
-      "publishedAt": "2026-03-16T08:46:19Z",
-      "processed_at": "2026-03-17T14:58:29.725417+00:00"
-    },
-    {
-      "title": "Spotify's mobile app may soon get a feature fans have wanted for 15 years - Android Authority",
-      "source": {
-        "name": "Android Authority"
-      },
-      "description": "Spotify is working towards finally bringing the 'Playlist folders' feature to its mobile app after i...",
-      "url": "https://www.androidauthority.com/spotify-playlists-folder-coming-to-mobile-app-3649237/",
-      "publishedAt": "2026-03-16T08:02:10Z",
-      "processed_at": "2026-03-17T14:58:29.725417+00:00"
-    },
-    {
-      "title": "Looks like Samsung doesn't want to sell the Galaxy Z TriFold anymore - SamMobile",
-      "source": {
-        "name": "SamMobile"
-      },
-      "description": "Samsung released its first trifold phone, the Galaxy Z TriFold, late last year. It has only been rel...",
-      "url": "https://www.sammobile.com/news/looks-like-samsung-doesnt-want-to-sell-the-galaxy-z-trifold-anymore/",
-      "publishedAt": "2026-03-16T07:59:00Z",
-      "processed_at": "2026-03-17T14:58:29.725417+00:00"
-    },
-    {
-      "title": "Breaking: First One UI 9 build appears for the Galaxy S26 Ultra - SamMobile",
-      "source": {
-        "name": "SamMobile"
-      },
-      "description": "Samsung recently launched the Galaxy S26 series with One UI 8.5 onboard. The phones in the lineup we...",
-      "url": "https://www.sammobile.com/news/galaxy-s26-first-one-ui-9-build-appears/",
-      "publishedAt": "2026-03-16T07:02:00Z",
-      "processed_at": "2026-03-17T14:58:29.725417+00:00"
-    },
-    {
-      "title": "Despite record Galaxy S26 pre-orders, Samsung's mobile unit is literally in emergency mode - Android Authority",
-      "source": {
-        "name": "Android Authority"
-      },
-      "description": "Samsung is seeing record Galaxy S26 series pre-orders, but the mobile unit is entering 'emergency ma...",
-      "url": "https://www.androidauthority.com/samsung-mobile-division-emergency-management-3649220/",
-      "publishedAt": "2026-03-16T06:32:11Z",
-      "processed_at": "2026-03-17T14:58:29.725417+00:00"
-    },
-    {
-      "title": "I wore Meta Ray-Ban smart glasses while shopping at Target — 7 things that were surprisingly useful - Tom's Guide",
-      "source": {
-        "name": "Tom's Guide"
-      },
-      "description": "For the first time in forever, I actually remembered everything on my list...",
-      "url": "https://www.tomsguide.com/ai/i-wore-meta-ray-ban-smart-glasses-while-shopping-at-target-7-things-that-were-surprisingly-useful",
-      "publishedAt": "2026-03-16T05:15:00Z",
-      "processed_at": "2026-03-17T14:58:29.725417+00:00"
+      "processed_at": "2026-03-17T16:12:15.149734+00:00"
     }
   ],
-  "lastUpdated": "2026-03-17T14:58:29.725495+00:00",
+  "lastUpdated": "2026-03-17T16:12:15.149798+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
