@@ -1,7 +1,67 @@
 {
   "status": "success",
-  "totalResults": 9,
+  "totalResults": 10,
   "articles": [
+    {
+      "title": "PS Portal Gets Even Better with New Firmware Update, Improved Visuals and Enhanced Cloud Streaming - Push Square",
+      "source": {
+        "name": "Google News"
+      },
+      "description": "",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOMy1RVzNTMkl1VGFVRjh1cXdGNTlhS2RXd0ZEUEdMS28tQzBRdHY2d2NLdFpuSkFnMWg0YV8ydFhlUm0zNE5INC1QeVBlUXlnMUNPT2txdjJCUUh6dmhKcnV6TGRJZmNsZEt6RkpRM1dqR1lwekw1Q2RxU090TzEyNk9jdW4zVU50YmVNNzBYZGdNQjRfM09sa1BfTnFkQU1hb2NPd0JEUUwzWGhxUXEzcXNEejM3WXRuNDNBLTZRMEljTGZyN0FYNXJYVnBlNDIxcThF?oc=5",
+      "publishedAt": "2026-03-17T12:30:00Z",
+      "processed_at": "2026-03-18T17:02:41.576732+00:00"
+    },
+    {
+      "title": "Column | This app is quietly reformulating America’s food supply - The Washington Post",
+      "source": {
+        "name": "The Washington Post"
+      },
+      "description": "Food scanning app Yuka is empowering consumers to demand that processed food brands make their produ...",
+      "url": "https://www.washingtonpost.com/climate-environment/2026/03/17/yuka-app-processed-food-health/",
+      "publishedAt": "2026-03-17T12:26:07Z",
+      "processed_at": "2026-03-18T17:02:41.576732+00:00"
+    },
+    {
+      "title": "OPPO Find N6 - Ultra Flat, Flexible & Powerful | OPPO Global - OPPO",
+      "source": {
+        "name": "Oppo.com"
+      },
+      "description": "Discover the OPPO Find N6: foldable flagship featuring Zero-Feel Crease and 200MP Hasselblad Camera....",
+      "url": "https://www.oppo.com/en/smartphones/series-find-n/find-n6/",
+      "publishedAt": "2026-03-17T12:02:49Z",
+      "processed_at": "2026-03-18T17:02:41.576732+00:00"
+    },
+    {
+      "title": "How a MacBook Neo bought for a high school student is worth $50k to Apple - 9to5Mac",
+      "source": {
+        "name": "Google News"
+      },
+      "description": "",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOUG1TNU5yQnA0U01Pako4cjY3Z01pa3d4bHBEU2RNSzFLa3FyUUdDTUhSUGJCSHpRbnhtbWxaRTN4S3Fob2N4SUhocDF4YWV0QThvU1drUnltNUVIWXdKeTBDR09TendoSHJNTDdhYU9Zd1MzcUhVdWJrWWpyVEpxaXltaGtKWEZGNXhyeVByZEN2cFh2Qnd4Vm9zRHd5M0hvMU9BVHlrOA?oc=5",
+      "publishedAt": "2026-03-17T12:00:52Z",
+      "processed_at": "2026-03-18T17:02:41.576732+00:00"
+    },
+    {
+      "title": "Samsung discontinues its Galaxy Z TriFold after just three months - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "Samsung is preparing to axe its first three-panel foldable phone less than three months after launch...",
+      "url": "https://www.theverge.com/tech/895879/samsung-galaxy-z-trifold-discontinued-stock-sold-out",
+      "publishedAt": "2026-03-17T11:49:11Z",
+      "processed_at": "2026-03-18T17:02:41.576732+00:00"
+    },
+    {
+      "title": "Nintendo Switch App Update Introduces Support For Switch 2's New Friend List Features - Nintendo Life",
+      "source": {
+        "name": "Nintendo Life"
+      },
+      "description": "",
+      "url": "https://www.nintendolife.com/news/2026/03/nintendo-switch-app-update-introduces-support-for-switch-2s-new-friend-list-features",
+      "publishedAt": "2026-03-17T10:30:00Z",
+      "processed_at": "2026-03-18T17:02:41.576732+00:00"
+    },
     {
       "title": "Patch Notes 1.20.0 - ARC Raiders",
       "source": {
@@ -10,17 +70,7 @@
       "description": "ARC Raiders is a multiplayer extraction adventure, set in a lethal future earth, ravaged by a myster...",
       "url": "https://arcraiders.com/news/patch-notes-1-20-0",
       "publishedAt": "2026-03-17T10:03:51Z",
-      "processed_at": "2026-03-18T15:04:28.868889+00:00"
-    },
-    {
-      "title": "PSA: Switch 2 Update Adds Handheld Mode Boost, Here's How To Use It - Nintendo Life",
-      "source": {
-        "name": "Nintendo Life"
-      },
-      "description": "Enhance your experience with Switch games...",
-      "url": "https://www.nintendolife.com/news/2026/03/psa-switch-2-update-adds-handheld-mode-boost-heres-how-to-use-it",
-      "publishedAt": "2026-03-17T02:25:00Z",
-      "processed_at": "2026-03-18T15:04:28.868889+00:00"
+      "processed_at": "2026-03-18T17:02:41.576732+00:00"
     },
     {
       "title": "Clean your feed: Refresh your Instagram diet - Axios",
@@ -30,27 +80,7 @@
       "description": "It's not about missing out; it's about reclaiming your attention....",
       "url": "https://www.axios.com/2026/03/17/clean-your-feed-refresh-your-instagram-diet",
       "publishedAt": "2026-03-17T01:57:02Z",
-      "processed_at": "2026-03-18T15:04:28.868889+00:00"
-    },
-    {
-      "title": "GameStop Declares Xbox360, PS3 Retro Consoles, Millennials Are In Shambles - OutKick",
-      "source": {
-        "name": "Outkick.com"
-      },
-      "description": "GameStop released a memo designating the Xbox 360, PlayStation 3, and Wii U retro consoles, remindin...",
-      "url": "https://www.outkick.com/culture/gamestop-declares-xbox360-ps3-retro-consoles-millennials-shambles",
-      "publishedAt": "2026-03-17T01:27:56Z",
-      "processed_at": "2026-03-18T15:04:28.868889+00:00"
-    },
-    {
-      "title": "Is This What You Think Of Us - aftermath.site",
-      "source": {
-        "name": "Aftermath.site"
-      },
-      "description": "The feeding ramp is polished to a mirror sheen...",
-      "url": "https://aftermath.site/microsoft-copilot-ai-xbox/",
-      "publishedAt": "2026-03-17T01:22:42Z",
-      "processed_at": "2026-03-18T15:04:28.868889+00:00"
+      "processed_at": "2026-03-18T17:02:41.576732+00:00"
     },
     {
       "title": "iPhone 18 Pro leaks are all good news that could guarantee its smashing success - PhoneArena",
@@ -60,7 +90,7 @@
       "description": "The iPhone 18 Pro could become Apple’s best and most responsible upgrade in a long time....",
       "url": "https://www.phonearena.com/news/iPhone-18-Pro-leaks-are-all-good-news-that-could-guarantee-its-smashing-success_id178966",
       "publishedAt": "2026-03-17T00:34:10Z",
-      "processed_at": "2026-03-18T15:04:28.868889+00:00"
+      "processed_at": "2026-03-18T17:02:41.576732+00:00"
     },
     {
       "title": "One of S.F.’s biggest tech conferences saw attendance plunge 30% this year - San Francisco Chronicle",
@@ -70,30 +100,10 @@
       "description": "One of San Francisco’s biggest tech conferences saw its attendance plunge 30% this year, amid tech l...",
       "url": "https://www.sfchronicle.com/bayarea/article/tech-conference-attendance-plunged-22079584.php",
       "publishedAt": "2026-03-17T00:14:20Z",
-      "processed_at": "2026-03-18T15:04:28.868889+00:00"
-    },
-    {
-      "title": "New Pokemon Winds and Waves beta screenshot leaked - Nintendo Everything",
-      "source": {
-        "name": "Nintendoeverything.com"
-      },
-      "description": "Here's another look at Pokemon Winds and Pokemon Waves, coming to Nintendo Switch 2 in 2027, with a ...",
-      "url": "https://nintendoeverything.com/new-pokemon-winds-and-waves-beta-screenshot-leaked/",
-      "publishedAt": "2026-03-17T00:02:23Z",
-      "processed_at": "2026-03-18T15:04:28.868889+00:00"
-    },
-    {
-      "title": "10 Audio Improvements in Apple's New AirPods Max 2 - MacRumors",
-      "source": {
-        "name": "MacRumors"
-      },
-      "description": "Apple refreshed the AirPods Max today, and the main new addition is an H2 chip that replaces the H1 ...",
-      "url": "https://www.macrumors.com/2026/03/16/airpods-max-2-audio-improvements/",
-      "publishedAt": "2026-03-16T22:28:21Z",
-      "processed_at": "2026-03-18T15:04:28.868889+00:00"
+      "processed_at": "2026-03-18T17:02:41.576732+00:00"
     }
   ],
-  "lastUpdated": "2026-03-18T15:04:28.868963+00:00",
+  "lastUpdated": "2026-03-18T17:02:41.576807+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
