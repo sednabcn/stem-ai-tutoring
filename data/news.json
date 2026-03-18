@@ -1,16 +1,26 @@
 {
   "status": "success",
-  "totalResults": 10,
+  "totalResults": 9,
   "articles": [
     {
-      "title": "PS Portal Gets Even Better with New Firmware Update, Improved Visuals and Enhanced Cloud Streaming - Push Square",
+      "title": "Coming to Xbox Game Pass: Disco Elysium, Resident Evil 7: Biohazard, Final Fantasy IV and More - Xbox",
       "source": {
-        "name": "Google News"
+        "name": "Xbox.com"
+      },
+      "description": "Coming soon to Xbox Game Pass: Disco Elysium, Resident Evil 7: Biohazard, Final Fantasy IV, and more...",
+      "url": "https://news.xbox.com/en-us/2026/03/17/xbox-game-pass-march-2026-wave-2/",
+      "publishedAt": "2026-03-17T13:02:48Z",
+      "processed_at": "2026-03-18T19:02:55.938830+00:00"
+    },
+    {
+      "title": "Fallout 76 Update Notes – March 17, 2026 - Bethesda.net",
+      "source": {
+        "name": "Bethesda.net"
       },
       "description": "",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOMy1RVzNTMkl1VGFVRjh1cXdGNTlhS2RXd0ZEUEdMS28tQzBRdHY2d2NLdFpuSkFnMWg0YV8ydFhlUm0zNE5INC1QeVBlUXlnMUNPT2txdjJCUUh6dmhKcnV6TGRJZmNsZEt6RkpRM1dqR1lwekw1Q2RxU090TzEyNk9jdW4zVU50YmVNNzBYZGdNQjRfM09sa1BfTnFkQU1hb2NPd0JEUUwzWGhxUXEzcXNEejM3WXRuNDNBLTZRMEljTGZyN0FYNXJYVnBlNDIxcThF?oc=5",
-      "publishedAt": "2026-03-17T12:30:00Z",
-      "processed_at": "2026-03-18T17:02:41.576732+00:00"
+      "url": "https://bethesda.net/en/article/3ruetJXPdvHKgW0kZraAOI/fallout-76-update-notes-march-17-2026",
+      "publishedAt": "2026-03-17T13:02:34Z",
+      "processed_at": "2026-03-18T19:02:55.938830+00:00"
     },
     {
       "title": "Column | This app is quietly reformulating America’s food supply - The Washington Post",
@@ -20,7 +30,17 @@
       "description": "Food scanning app Yuka is empowering consumers to demand that processed food brands make their produ...",
       "url": "https://www.washingtonpost.com/climate-environment/2026/03/17/yuka-app-processed-food-health/",
       "publishedAt": "2026-03-17T12:26:07Z",
-      "processed_at": "2026-03-18T17:02:41.576732+00:00"
+      "processed_at": "2026-03-18T19:02:55.938830+00:00"
+    },
+    {
+      "title": "Bethesda promises Nvidia's controversial DLSS 5 AI filters will be \"totally optional\" for players - Eurogamer",
+      "source": {
+        "name": "Eurogamer.net"
+      },
+      "description": "Bethesda is committed to \"further adjusting the lighting and final effect\" of Nvidia's DLSS 5 visual...",
+      "url": "https://www.eurogamer.net/bethesda-promises-nvidias-controversial-dlss-5-ai-filters-will-be-totally-optional-for-players",
+      "publishedAt": "2026-03-17T12:06:35Z",
+      "processed_at": "2026-03-18T19:02:55.938830+00:00"
     },
     {
       "title": "OPPO Find N6 - Ultra Flat, Flexible & Powerful | OPPO Global - OPPO",
@@ -30,37 +50,37 @@
       "description": "Discover the OPPO Find N6: foldable flagship featuring Zero-Feel Crease and 200MP Hasselblad Camera....",
       "url": "https://www.oppo.com/en/smartphones/series-find-n/find-n6/",
       "publishedAt": "2026-03-17T12:02:49Z",
-      "processed_at": "2026-03-18T17:02:41.576732+00:00"
+      "processed_at": "2026-03-18T19:02:55.938830+00:00"
     },
     {
       "title": "How a MacBook Neo bought for a high school student is worth $50k to Apple - 9to5Mac",
       "source": {
-        "name": "Google News"
+        "name": "9to5Mac"
       },
-      "description": "",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOUG1TNU5yQnA0U01Pako4cjY3Z01pa3d4bHBEU2RNSzFLa3FyUUdDTUhSUGJCSHpRbnhtbWxaRTN4S3Fob2N4SUhocDF4YWV0QThvU1drUnltNUVIWXdKeTBDR09TendoSHJNTDdhYU9Zd1MzcUhVdWJrWWpyVEpxaXltaGtKWEZGNXhyeVByZEN2cFh2Qnd4Vm9zRHd5M0hvMU9BVHlrOA?oc=5",
+      "description": "One of the biggest mysteries ahead of the MacBook Neo launch was the price. We’d seen various estima...",
+      "url": "https://9to5mac.com/2026/03/17/how-a-macbook-neo-bought-for-a-high-school-student-is-worth-50k-to-apple/",
       "publishedAt": "2026-03-17T12:00:52Z",
-      "processed_at": "2026-03-18T17:02:41.576732+00:00"
-    },
-    {
-      "title": "Samsung discontinues its Galaxy Z TriFold after just three months - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "Samsung is preparing to axe its first three-panel foldable phone less than three months after launch...",
-      "url": "https://www.theverge.com/tech/895879/samsung-galaxy-z-trifold-discontinued-stock-sold-out",
-      "publishedAt": "2026-03-17T11:49:11Z",
-      "processed_at": "2026-03-18T17:02:41.576732+00:00"
+      "processed_at": "2026-03-18T19:02:55.938830+00:00"
     },
     {
       "title": "Nintendo Switch App Update Introduces Support For Switch 2's New Friend List Features - Nintendo Life",
       "source": {
         "name": "Nintendo Life"
       },
-      "description": "",
+      "description": "Noted...",
       "url": "https://www.nintendolife.com/news/2026/03/nintendo-switch-app-update-introduces-support-for-switch-2s-new-friend-list-features",
       "publishedAt": "2026-03-17T10:30:00Z",
-      "processed_at": "2026-03-18T17:02:41.576732+00:00"
+      "processed_at": "2026-03-18T19:02:55.938830+00:00"
+    },
+    {
+      "title": "Base PS5 footage of Crimson Desert finally emerges, and it looks OK? - Eurogamer",
+      "source": {
+        "name": "Eurogamer.net"
+      },
+      "description": "It's real, at least....",
+      "url": "https://www.eurogamer.net/base-ps5-footage-of-crimson-desert",
+      "publishedAt": "2026-03-17T10:21:34Z",
+      "processed_at": "2026-03-18T19:02:55.938830+00:00"
     },
     {
       "title": "Patch Notes 1.20.0 - ARC Raiders",
@@ -70,40 +90,10 @@
       "description": "ARC Raiders is a multiplayer extraction adventure, set in a lethal future earth, ravaged by a myster...",
       "url": "https://arcraiders.com/news/patch-notes-1-20-0",
       "publishedAt": "2026-03-17T10:03:51Z",
-      "processed_at": "2026-03-18T17:02:41.576732+00:00"
-    },
-    {
-      "title": "Clean your feed: Refresh your Instagram diet - Axios",
-      "source": {
-        "name": "Axios"
-      },
-      "description": "It's not about missing out; it's about reclaiming your attention....",
-      "url": "https://www.axios.com/2026/03/17/clean-your-feed-refresh-your-instagram-diet",
-      "publishedAt": "2026-03-17T01:57:02Z",
-      "processed_at": "2026-03-18T17:02:41.576732+00:00"
-    },
-    {
-      "title": "iPhone 18 Pro leaks are all good news that could guarantee its smashing success - PhoneArena",
-      "source": {
-        "name": "PhoneArena"
-      },
-      "description": "The iPhone 18 Pro could become Apple’s best and most responsible upgrade in a long time....",
-      "url": "https://www.phonearena.com/news/iPhone-18-Pro-leaks-are-all-good-news-that-could-guarantee-its-smashing-success_id178966",
-      "publishedAt": "2026-03-17T00:34:10Z",
-      "processed_at": "2026-03-18T17:02:41.576732+00:00"
-    },
-    {
-      "title": "One of S.F.’s biggest tech conferences saw attendance plunge 30% this year - San Francisco Chronicle",
-      "source": {
-        "name": "San Francisco Chronicle"
-      },
-      "description": "One of San Francisco’s biggest tech conferences saw its attendance plunge 30% this year, amid tech l...",
-      "url": "https://www.sfchronicle.com/bayarea/article/tech-conference-attendance-plunged-22079584.php",
-      "publishedAt": "2026-03-17T00:14:20Z",
-      "processed_at": "2026-03-18T17:02:41.576732+00:00"
+      "processed_at": "2026-03-18T19:02:55.938830+00:00"
     }
   ],
-  "lastUpdated": "2026-03-18T17:02:41.576807+00:00",
+  "lastUpdated": "2026-03-18T19:02:55.938899+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
