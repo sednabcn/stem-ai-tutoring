@@ -1,26 +1,46 @@
 {
   "status": "success",
-  "totalResults": 9,
+  "totalResults": 10,
   "articles": [
     {
-      "title": "MacBook Neo is just fine with 4K video editing and 59 Chrome tabs - 9to5Mac",
+      "title": "Available for Xbox Insiders: More Groups on Home, Custom User Colors, Quick Resume Settings, and More - Xbox Wire",
       "source": {
-        "name": "9to5Mac"
+        "name": "Xbox.com"
       },
-      "description": "Sam Henri Gold last week wrote a rather sweet blog post about the difference between advice from tec...",
-      "url": "https://9to5mac.com/2026/03/18/macbook-neo-is-just-fine-with-4k-video-editing-and-59-chrome-tabs/",
-      "publishedAt": "2026-03-18T13:16:00Z",
-      "processed_at": "2026-03-19T17:01:37.643666+00:00"
+      "description": "",
+      "url": "https://news.xbox.com/en-us/2026/03/18/xbox-insiders-april-2026-console-features/",
+      "publishedAt": "2026-03-18T15:03:09Z",
+      "processed_at": "2026-03-19T19:00:51.654603+00:00"
     },
     {
-      "title": "Your [Checks Notes] PlayStation 3 Just Got An Update - Kotaku",
+      "title": "Hundreds of Millions of iPhones Can Be Hacked With a New Tool Found in the Wild - WIRED",
       "source": {
-        "name": "Kotaku"
+        "name": "Wired"
       },
-      "description": "Sony just rolled out its annual patch for the 2006 console, to both support and break games preserva...",
-      "url": "https://kotaku.com/playsstation-3-update-4-93-sony-drm-blu-ray-jailbroken-modding-2000679921",
-      "publishedAt": "2026-03-18T11:26:26Z",
-      "processed_at": "2026-03-19T17:01:37.643666+00:00"
+      "description": "A powerful iPhone-hacking technique known as DarkSword has been discovered in use by Russian hackers...",
+      "url": "https://www.wired.com/story/hundreds-of-millions-of-iphones-can-be-hacked-with-a-new-tool-found-in-the-wild/",
+      "publishedAt": "2026-03-18T14:00:00Z",
+      "processed_at": "2026-03-19T19:00:51.654603+00:00"
+    },
+    {
+      "title": "DLSS 5: Has Nvidia’s AI graphics technology gone too far? - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "Nvidia’s new DLSS 5 technology uses AI to “achieve photorealism” by adjusting a game’s look in real-...",
+      "url": "https://www.theverge.com/games/896518/nvidia-dlss-5-ai-3d-rendering",
+      "publishedAt": "2026-03-18T13:32:19Z",
+      "processed_at": "2026-03-19T19:00:51.654603+00:00"
+    },
+    {
+      "title": "Cyberpunk TCG's Kickstarter Campaign Hits Its Pledge Goal Immediately, Already Raising Over $7M in Support - IGN",
+      "source": {
+        "name": "IGN"
+      },
+      "description": "",
+      "url": "https://www.ign.com/articles/cyberpunk-tcg-kickstarter-campaign-is-now-live-what-is-included-in-every-tier",
+      "publishedAt": "2026-03-18T12:09:03Z",
+      "processed_at": "2026-03-19T19:00:51.654603+00:00"
     },
     {
       "title": "Death Stranding 2 details new PC and PS5 features with stunning launch trailer as Steam build leaks ahead of launch - Eurogamer",
@@ -30,17 +50,17 @@
       "description": "Death Stranding 2 has detailed its long list of new content and graphical features coming to the PC ...",
       "url": "https://www.eurogamer.net/death-stranding-2-pc-launch-trailer-arrives-alongside-features-details-while-the-steam-release-leaks",
       "publishedAt": "2026-03-18T11:15:12Z",
-      "processed_at": "2026-03-19T17:01:37.643666+00:00"
+      "processed_at": "2026-03-19T19:00:51.654603+00:00"
     },
     {
-      "title": "Nvidia CEO says critics are \"completely wrong\" about DLSS 5 technology - GamesIndustry.biz",
+      "title": "Benchmarks show MacBook Neo rivaling more powerful cloud servers in database workloads - 9to5Mac",
       "source": {
-        "name": "GamesIndustry.biz"
+        "name": "9to5Mac"
       },
-      "description": "Following concerns that upscaling feature detracts from creative expression, Jensen Huang says it \"d...",
-      "url": "https://www.gamesindustry.biz/nvidia-ceo-says-critics-are-completely-wrong-about-dlss-5-technology",
-      "publishedAt": "2026-03-18T10:35:04Z",
-      "processed_at": "2026-03-19T17:01:37.643666+00:00"
+      "description": "DuckDB compared the MacBook Neo with a range of cloud servers to see how Apple’s new entry-level lap...",
+      "url": "https://9to5mac.com/2026/03/17/benchmarks-show-macbook-neo-rivaling-more-powerful-cloud-servers-in-database-workloads/",
+      "publishedAt": "2026-03-18T02:29:00Z",
+      "processed_at": "2026-03-19T19:00:51.654603+00:00"
     },
     {
       "title": "CERN Discovers New Particle After Upgrading Large Hadron Collider - ScienceAlert",
@@ -50,7 +70,7 @@
       "description": "The Large Hadron Collider has discovered a new particle, the 80th identified so far by the world's m...",
       "url": "https://www.sciencealert.com/cern-discovers-new-particle-after-upgrading-large-hadron-collider",
       "publishedAt": "2026-03-18T01:40:15Z",
-      "processed_at": "2026-03-19T17:01:37.643666+00:00"
+      "processed_at": "2026-03-19T19:00:51.654603+00:00"
     },
     {
       "title": "Nintendo Expands Switch 2's GameCube Library This Week - Nintendo Life",
@@ -60,7 +80,7 @@
       "description": "Pokémon XD: Gale Of Darkness is here...",
       "url": "https://www.nintendolife.com/news/2026/03/nintendo-expands-switch-2s-gamecube-library-this-week",
       "publishedAt": "2026-03-18T01:15:00Z",
-      "processed_at": "2026-03-19T17:01:37.643666+00:00"
+      "processed_at": "2026-03-19T19:00:51.654603+00:00"
     },
     {
       "title": "Samsung Halts Sale of Galaxy Z TriFold After Just 3 Months - CNET",
@@ -70,7 +90,7 @@
       "description": "The 10-inch device cost nearly $3,000 and will no longer be available to buy in the US or South Kore...",
       "url": "https://www.cnet.com/tech/mobile/samsung-ends-sales-galaxy-z-trifold/",
       "publishedAt": "2026-03-17T22:45:00Z",
-      "processed_at": "2026-03-19T17:01:37.643666+00:00"
+      "processed_at": "2026-03-19T19:00:51.654603+00:00"
     },
     {
       "title": "iPhone 17e Teardown Shows How Apple Made It An Effortless Process To Add MagSafe Charging To The iPhone 16e In A Few Minutes - Wccftech",
@@ -80,20 +100,10 @@
       "description": "A teardown performed by iFixit shows that the iPhone 17e is easy to get into and how you can added M...",
       "url": "https://wccftech.com/iphone-17e-teardown-from-ifixit/",
       "publishedAt": "2026-03-17T22:23:00Z",
-      "processed_at": "2026-03-19T17:01:37.643666+00:00"
-    },
-    {
-      "title": "WhatsApp update brings the new profile tab to iOS users - 9to5Mac",
-      "source": {
-        "name": "9to5Mac"
-      },
-      "description": "Following a few weeks of testing, WhatsApp is officially rolling out the new profile tab to iOS user...",
-      "url": "https://9to5mac.com/2026/03/17/whatsapp-update-brings-the-new-profile-tab-to-ios-users/",
-      "publishedAt": "2026-03-17T22:08:36Z",
-      "processed_at": "2026-03-19T17:01:37.643666+00:00"
+      "processed_at": "2026-03-19T19:00:51.654603+00:00"
     }
   ],
-  "lastUpdated": "2026-03-19T17:01:37.643730+00:00",
+  "lastUpdated": "2026-03-19T19:00:51.654678+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
