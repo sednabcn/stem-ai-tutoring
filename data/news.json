@@ -3,6 +3,16 @@
   "totalResults": 10,
   "articles": [
     {
+      "title": "Apple warns iPhone users to update software after mass hacking campaigns - NBC News",
+      "source": {
+        "name": "NBC News"
+      },
+      "description": "Apple is encouraging people to update their iPhones in light of new research that has pointed to vul...",
+      "url": "https://www.nbcnews.com/tech/security/apple-iphone-users-update-software-hacking-campaigns-rcna264199",
+      "publishedAt": "2026-03-18T22:39:56Z",
+      "processed_at": "2026-03-20T05:53:25.660044+00:00"
+    },
+    {
       "title": "New Cyberpunk TCG becomes the most-funded TCG game in Kickstarter history | News-in-brief - GamesIndustry.biz",
       "source": {
         "name": "GamesIndustry.biz"
@@ -10,7 +20,17 @@
       "description": "The resource for people who make and sell games....",
       "url": "https://www.gamesindustry.biz/new-cyberpunk-tcg-becomes-the-most-funded-tcg-game-in-kickstarter-history-news-in-brief",
       "publishedAt": "2026-03-18T21:00:36Z",
-      "processed_at": "2026-03-20T04:48:20.627628+00:00"
+      "processed_at": "2026-03-20T05:53:25.660044+00:00"
+    },
+    {
+      "title": "Devolver Digital and doinksoft announce fantasy action platformer Dark Scrolls for Switch, PC - Gematsu",
+      "source": {
+        "name": "Gematsu"
+      },
+      "description": "Publisher Devolver Digital and developer doinksoft have announced Dark Scrolls, a fantasy-themed sid...",
+      "url": "https://www.gematsu.com/2026/03/devolver-digital-and-doinksoft-announce-fantasy-action-platformer-dark-scrolls-for-switch-pc",
+      "publishedAt": "2026-03-18T19:04:51Z",
+      "processed_at": "2026-03-20T05:53:25.660044+00:00"
     },
     {
       "title": "A private space company has a radical new plan to bag an asteroid - Ars Technica",
@@ -20,27 +40,17 @@
       "description": "Company has previously tested its technology on the International Space Station....",
       "url": "https://arstechnica.com/space/2026/03/a-private-space-company-has-a-radical-new-plan-to-bag-an-asteroid/",
       "publishedAt": "2026-03-18T19:00:40Z",
-      "processed_at": "2026-03-20T04:48:20.627628+00:00"
+      "processed_at": "2026-03-20T05:53:25.660044+00:00"
     },
     {
-      "title": "Devolver's New 'Dungeon Scroller', Dark Scrolls, Is Packed With Retro Fantasy Goodness - Nintendo Life",
+      "title": "Sony Reportedly Issuing Automatic Refunds for Additional Content Bought for Short-Lived Live Service, Highguard - IGN",
       "source": {
-        "name": "Nintendo Life"
+        "name": "IGN"
       },
-      "description": "Scrolling onto Switch this year...",
-      "url": "https://www.nintendolife.com/news/2026/03/devolvers-new-dungeon-scroller-dark-scrolls-is-packed-with-retro-fantasy-goodness",
-      "publishedAt": "2026-03-18T19:00:00Z",
-      "processed_at": "2026-03-20T04:48:20.627628+00:00"
-    },
-    {
-      "title": "Nvidia CEO says the gamers rejecting the company's controversial AI are 'completely wrong' - Polygon.com",
-      "source": {
-        "name": "Polygon"
-      },
-      "description": "Amid a litany of memes and disses, CEO Jensen Huang tries to correct the public about Nvidia's DLSS ...",
-      "url": "https://www.polygon.com/nvidia-dlss-5-game-graphics-jensen-huang-ceo-response-backlash-memes/",
-      "publishedAt": "2026-03-18T18:28:17Z",
-      "processed_at": "2026-03-20T04:48:20.627628+00:00"
+      "description": "",
+      "url": "https://www.ign.com/articles/sony-reportedly-issuing-automatic-refunds-for-additional-content-bought-for-short-lived-live-service-highguard",
+      "publishedAt": "2026-03-18T17:59:47Z",
+      "processed_at": "2026-03-20T05:53:25.660044+00:00"
     },
     {
       "title": "Don't Expect Crimson Desert Xbox Series X or S Gameplay Footage Before Launch - IGN",
@@ -50,7 +60,7 @@
       "description": "Crimson Desert developer and publisher Pearl Abyss won’t show gameplay footage of the Xbox Series X ...",
       "url": "https://www.ign.com/articles/dont-expect-crimson-desert-xbox-series-x-or-s-gameplay-footage-before-launch",
       "publishedAt": "2026-03-18T17:57:11Z",
-      "processed_at": "2026-03-20T04:48:20.627628+00:00"
+      "processed_at": "2026-03-20T05:53:25.660044+00:00"
     },
     {
       "title": "Shinobi: Art Of Vengeance 'SEGA Villains Stage' DLC Arrives Next Month - Nintendo Life",
@@ -60,17 +70,17 @@
       "description": "Three familiar faces join the fight...",
       "url": "https://www.nintendolife.com/news/2026/03/shinobi-art-of-vengeance-sega-villains-stage-dlc-arrives-next-month",
       "publishedAt": "2026-03-18T17:30:00Z",
-      "processed_at": "2026-03-20T04:48:20.627628+00:00"
+      "processed_at": "2026-03-20T05:53:25.660044+00:00"
     },
     {
-      "title": "PSA: Hackers can raid iOS 18 with an infected link - The Verge",
+      "title": "AirPods Max 2 are here, but rumors say a bigger overhaul might be coming - 9to5Mac",
       "source": {
-        "name": "The Verge"
+        "name": "9to5Mac"
       },
-      "description": "Security researchers have discovered a vulnerability impacting iOS 18.4 to 18.6.2, which can allow h...",
-      "url": "https://www.theverge.com/tech/896841/iphone-ios-18-attack-darksword",
-      "publishedAt": "2026-03-18T16:45:45Z",
-      "processed_at": "2026-03-20T04:48:20.627628+00:00"
+      "description": "Apple unveiled AirPods Max 2 earlier this week, but you should know that rumors indicate another new...",
+      "url": "https://9to5mac.com/2026/03/18/airpods-max-2-are-here-but-rumors-say-a-bigger-overhaul-might-be-coming/",
+      "publishedAt": "2026-03-18T16:05:00Z",
+      "processed_at": "2026-03-20T05:53:25.660044+00:00"
     },
     {
       "title": "Double Fine’s Pottery Party Brawler Kiln Arrives April 23 (Plus a Direct Look at the First Public Play Sessions) - Xbox Wire",
@@ -80,30 +90,20 @@
       "description": "Kiln arrives on April 23! Read on for beta details and our observations of the first public play ses...",
       "url": "https://news.xbox.com/en-us/2026/03/18/kiln-release-date/",
       "publishedAt": "2026-03-18T16:04:02Z",
-      "processed_at": "2026-03-20T04:48:20.627628+00:00"
+      "processed_at": "2026-03-20T05:53:25.660044+00:00"
     },
     {
-      "title": "Available for Xbox Insiders: More Groups on Home, Custom User Colors, Quick Resume Settings, and More - Xbox Wire",
+      "title": "Share In The Incredible Moment An Indie Dev Discovers His Game Made $250,000 - Kotaku",
       "source": {
-        "name": "Xbox.com"
+        "name": "Kotaku"
       },
-      "description": "",
-      "url": "https://news.xbox.com/en-us/2026/03/18/xbox-insiders-april-2026-console-features/",
-      "publishedAt": "2026-03-18T15:03:09Z",
-      "processed_at": "2026-03-20T04:48:20.627628+00:00"
-    },
-    {
-      "title": "Captain Tsubasa II: World Fighters ‘Systems’ trailer - Gematsu",
-      "source": {
-        "name": "Gematsu"
-      },
-      "description": "Publisher Bandai Namco and developer Tamsoft have released a new traler for Captain Tsubasa II: Worl...",
-      "url": "https://www.gematsu.com/2026/03/captain-tsubasa-ii-world-fighters-systems-trailer",
-      "publishedAt": "2026-03-18T14:12:39Z",
-      "processed_at": "2026-03-20T04:48:20.627628+00:00"
+      "description": "Tangy TD developer Cakez livestreamed the moment he looked at his game's income...",
+      "url": "https://kotaku.com/tangy-td-cakez-twitch-steam-pc-indie-success-story-2000679960",
+      "publishedAt": "2026-03-18T15:45:16Z",
+      "processed_at": "2026-03-20T05:53:25.660044+00:00"
     }
   ],
-  "lastUpdated": "2026-03-20T04:48:20.627700+00:00",
+  "lastUpdated": "2026-03-20T05:53:25.660120+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
