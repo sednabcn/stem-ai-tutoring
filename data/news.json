@@ -1,26 +1,56 @@
 {
   "status": "success",
-  "totalResults": 10,
+  "totalResults": 9,
   "articles": [
     {
-      "title": "Google's AI plans for Fitbit include your medical records - Mashable",
+      "title": "\"I genuinely thought my controller wasn't working\" - Crimson Desert players are getting so annoyed with its clunky controls they're asking for launch day refunds - Eurogamer",
       "source": {
-        "name": "Mashable"
+        "name": "Eurogamer.net"
       },
-      "description": "This isn't your father's Fitbit....",
-      "url": "https://mashable.com/article/google-fitbit-ai",
-      "publishedAt": "2026-03-20T10:18:08Z",
-      "processed_at": "2026-03-21T12:53:50.621453+00:00"
+      "description": "Crimson Desert is out, and players are already having issues with the game's controls....",
+      "url": "https://www.eurogamer.net/crimson-desert-players-annoyed-clunky-controls-asking-for-launch-day-refunds",
+      "publishedAt": "2026-03-20T10:00:49Z",
+      "processed_at": "2026-03-21T13:43:41.144453+00:00"
     },
     {
-      "title": "Anthropic just shipped an OpenClaw killer called Claude Code Channels, letting you message it over Telegram and Discord - VentureBeat",
+      "title": "10 tried-and-true methods to stay off your phone, according to our readers - NPR",
       "source": {
-        "name": "VentureBeat"
+        "name": "NPR"
       },
-      "description": "The consensus among early adopters is that Anthropic has successfully internalized the most desirabl...",
-      "url": "https://venturebeat.com/orchestration/anthropic-just-shipped-an-openclaw-killer-called-claude-code-channels",
-      "publishedAt": "2026-03-20T01:53:08Z",
-      "processed_at": "2026-03-21T12:53:50.621453+00:00"
+      "description": "We asked our audience to share the creative ways they limit their own phone use. They range from the...",
+      "url": "https://www.npr.org/2026/03/20/nx-s1-5752170/clever-effective-ways-to-stay-off-your-phone",
+      "publishedAt": "2026-03-20T09:00:00Z",
+      "processed_at": "2026-03-21T13:43:41.144453+00:00"
+    },
+    {
+      "title": "Microsoft: March Windows updates break Teams, OneDrive sign-ins - BleepingComputer",
+      "source": {
+        "name": "BleepingComputer"
+      },
+      "description": "Microsoft says the March Windows 11 update breaks sign-ins with Microsoft accounts across multiple M...",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/kb5079473-march-windows-11-update-breaks-microsoft-account-sign-ins/",
+      "publishedAt": "2026-03-20T07:33:32Z",
+      "processed_at": "2026-03-21T13:43:41.144453+00:00"
+    },
+    {
+      "title": "Google reverses one of Android’s most annoying UI changes - Android Police",
+      "source": {
+        "name": "Android Police"
+      },
+      "description": "At least on the Canary channel...",
+      "url": "https://www.androidpolice.com/google-reverses-androids-most-annoying-ui-changes/",
+      "publishedAt": "2026-03-20T06:11:52Z",
+      "processed_at": "2026-03-21T13:43:41.144453+00:00"
+    },
+    {
+      "title": "Apple Warns Older iPhones Vulnerable to Coruna, DarkSword Exploit Kit Attacks - The Hacker News",
+      "source": {
+        "name": "Internet"
+      },
+      "description": "Outdated iOS exploited via Coruna, DarkSword kits through web attacks, enabling mass data theft on u...",
+      "url": "https://thehackernews.com/2026/03/apple-warns-older-iphones-vulnerable-to.html",
+      "publishedAt": "2026-03-20T05:16:00Z",
+      "processed_at": "2026-03-21T13:43:41.144453+00:00"
     },
     {
       "title": "AI is changing the style and substance of human writing, study finds - NBC News",
@@ -30,17 +60,7 @@
       "description": "Teams from Google and leading universities found that large-language models change the voice, tone a...",
       "url": "https://www.nbcnews.com/tech/tech-news/ai-changing-style-substance-human-writing-study-finds-rcna263789",
       "publishedAt": "2026-03-20T00:00:00Z",
-      "processed_at": "2026-03-21T12:53:50.621453+00:00"
-    },
-    {
-      "title": "Crimson Desert Day One Update Goes Live in Full on PC, in Part on Console — Check Out the Patch Notes - IGN",
-      "source": {
-        "name": "IGN"
-      },
-      "description": "Crimson Desert has launched across all platforms, and with it comes a day one update that makes some...",
-      "url": "https://www.ign.com/articles/crimson-desert-day-one-update-goes-live-in-full-on-pc-in-part-on-console-check-out-the-patch-notes",
-      "publishedAt": "2026-03-19T23:05:43Z",
-      "processed_at": "2026-03-21T12:53:50.621453+00:00"
+      "processed_at": "2026-03-21T13:43:41.144453+00:00"
     },
     {
       "title": "User Grabs iBuyPower Gaming PC With Ryzen 9800X3D-RTX 5070 Combo, 32 GB RAM And 2 TB SSD For Just $1000 - Wccftech",
@@ -50,7 +70,7 @@
       "description": "Redditor scores an iBuyPower gaming PC at Costco for $1000, featuring Ryzen 7 9800X3D and RTX 5070, ...",
       "url": "https://wccftech.com/user-grabs-ibuypower-gaming-pc-with-ryzen-9800x3d-rtx-5070-combo-32-gb-ram-and-2-tb-ssd-for-just-1000/",
       "publishedAt": "2026-03-19T22:53:00Z",
-      "processed_at": "2026-03-21T12:53:50.621453+00:00"
+      "processed_at": "2026-03-21T13:43:41.144453+00:00"
     },
     {
       "title": "New dispute emerges around Subnautica 2’s early access release - Game File | Stephen Totilo",
@@ -60,17 +80,7 @@
       "description": "Restored CEO's legal team says this week's announcement of a May launch was improper...",
       "url": "https://www.gamefile.news/p/subnautica-2-early-access-may-dispute",
       "publishedAt": "2026-03-19T21:28:47Z",
-      "processed_at": "2026-03-21T12:53:50.621453+00:00"
-    },
-    {
-      "title": "Bungie Reveals All Details of Marathon's First Raid, Cryo Archive; Goes Live on March 20 and Weekends Only - IGN",
-      "source": {
-        "name": "IGN"
-      },
-      "description": "Here's everything you need to know about Marathon's Cryo Archive raid that goes live on March 20, wh...",
-      "url": "https://www.ign.com/articles/bungie-reveals-all-details-of-marathons-first-raid-cryo-archive-goes-live-on-march-20-and-weekends-only",
-      "publishedAt": "2026-03-19T21:14:21Z",
-      "processed_at": "2026-03-21T12:53:50.621453+00:00"
+      "processed_at": "2026-03-21T13:43:41.144453+00:00"
     },
     {
       "title": "Xbox's Starfield Rockets to the Top of the PS5's Pre-Order Charts - Push Square",
@@ -80,30 +90,10 @@
       "description": "To infinity and beyond...",
       "url": "https://www.pushsquare.com/news/2026/03/xboxs-starfield-rockets-to-the-top-of-the-ps5s-pre-order-charts",
       "publishedAt": "2026-03-19T21:00:00Z",
-      "processed_at": "2026-03-21T12:53:50.621453+00:00"
-    },
-    {
-      "title": "Switch 2 Handheld Boost Mode Battery Life Sucks But Is Worth It - Kotaku",
-      "source": {
-        "name": "Kotaku"
-      },
-      "description": "Handheld Boost Mode is breathing new life into old Switch games...",
-      "url": "https://kotaku.com/switch-2-handheld-boost-mode-battery-life-xenoblade-2000680392",
-      "publishedAt": "2026-03-19T20:34:43Z",
-      "processed_at": "2026-03-21T12:53:50.621453+00:00"
-    },
-    {
-      "title": "A 32-Year-Old Bug Walks Into A Telnet Server (GNU inetutils Telnetd CVE-2026-32746) - watchTowr Labs",
-      "source": {
-        "name": "Watchtowr.com"
-      },
-      "description": "A long, long time ago, in a land free of binary exploit mitigations, when Unix still roamed the Eart...",
-      "url": "https://labs.watchtowr.com/a-32-year-old-bug-walks-into-a-telnet-server-gnu-inetutils-telnetd-cve-2026-32746/",
-      "publishedAt": "2026-03-19T20:23:32Z",
-      "processed_at": "2026-03-21T12:53:50.621453+00:00"
+      "processed_at": "2026-03-21T13:43:41.144453+00:00"
     }
   ],
-  "lastUpdated": "2026-03-21T12:53:50.621528+00:00",
+  "lastUpdated": "2026-03-21T13:43:41.144544+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
