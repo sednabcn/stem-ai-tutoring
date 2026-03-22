@@ -3,6 +3,46 @@
   "totalResults": 10,
   "articles": [
     {
+      "title": "PSN Service Returning on PS5, PS4 as Brief Outage Took Service Offline - Push Square",
+      "source": {
+        "name": "Push Square"
+      },
+      "description": "Taken offline for roughly two hours...",
+      "url": "https://www.pushsquare.com/news/2026/03/psn-service-returning-on-ps5-ps4-as-brief-outage-took-service-offline",
+      "publishedAt": "2026-03-21T22:45:00Z",
+      "processed_at": "2026-03-22T23:30:35.737311+00:00"
+    },
+    {
+      "title": "Halide co-founder is suing former partner for bringing source code to Apple - The Verge",
+      "source": {
+        "name": "Google News"
+      },
+      "description": "",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBseDM1dVl1eVRScGZYdVNKa1cxT2JkZHRFU3RQOFhld1BadFo1SWE5bFp4U1pPTVV5OVpSWVc1aTVlZ25mTk54WUswMEVOTFFmRDBYc2NuNGpLbnZPVlE1LUt6X0EydzhBdnVDeTJJaTJvXzZ4MVh6Yk9CS1g?oc=5",
+      "publishedAt": "2026-03-21T21:02:56Z",
+      "processed_at": "2026-03-22T23:30:35.737311+00:00"
+    },
+    {
+      "title": "Nintendo has fixed a new batch of Switch 1 games on Switch 2 for backwards compatibility - Nintendo Everything",
+      "source": {
+        "name": "Nintendoeverything.com"
+      },
+      "description": "Nintendo has put out fixes for a number of notable Switch 1 games on Switch 2 for backwards compatib...",
+      "url": "https://nintendoeverything.com/nintendo-has-fixed-a-new-batch-of-switch-1-games-on-switch-2-for-backwards-compatibility/",
+      "publishedAt": "2026-03-21T20:04:50Z",
+      "processed_at": "2026-03-22T23:30:35.737311+00:00"
+    },
+    {
+      "title": "Marathon's Soulslike Endgame Dungeon Is Blowing Players Away - Kotaku",
+      "source": {
+        "name": "Kotaku"
+      },
+      "description": "The multi-vault zone has complex puzzles, brutal RNG, and extremely powerful loot...",
+      "url": "https://kotaku.com/marathon-cryo-archive-endgame-raid-vault-compiler-contraband-2000680810",
+      "publishedAt": "2026-03-21T19:27:34Z",
+      "processed_at": "2026-03-22T23:30:35.737311+00:00"
+    },
+    {
       "title": "Surprise! Minecraft Dungeons 2 is coming later this year - Eurogamer",
       "source": {
         "name": "Eurogamer.net"
@@ -10,100 +50,60 @@
       "description": "Surprise! Minecraft Dungeons 2 is coming to PC via Xbox and Steam, PS5, Nintendo Switch and Switch 2...",
       "url": "https://www.eurogamer.net/surprise-minecraft-dungeons-2-is-coming-later-this-year",
       "publishedAt": "2026-03-21T18:22:57Z",
-      "processed_at": "2026-03-22T22:27:57.133741+00:00"
+      "processed_at": "2026-03-22T23:30:35.737311+00:00"
     },
     {
-      "title": "Crimson Desert Dev to Patch PS5 RPG's 'Uncomfortable' Controls - Push Square",
+      "title": "Speedrunner Discovers Groundbreaking New Glitch In Pokémon FireRed On Switch - Kotaku",
       "source": {
-        "name": "Push Square"
+        "name": "Kotaku"
       },
-      "description": "Apologises for launch day issues...",
-      "url": "https://www.pushsquare.com/news/2026/03/crimson-desert-dev-to-patch-ps5-rpgs-uncomfortable-controls",
-      "publishedAt": "2026-03-21T14:30:00Z",
-      "processed_at": "2026-03-22T22:27:57.133741+00:00"
+      "description": "Swiss runner iamClemi accidentally hit the L button while choosing a starter, but something was off...",
+      "url": "https://kotaku.com/pokemon-firered-leafgreen-glitch-speedrunning-2000680817",
+      "publishedAt": "2026-03-21T18:12:19Z",
+      "processed_at": "2026-03-22T23:30:35.737311+00:00"
     },
     {
-      "title": "Apple Wanted to Buy Halide to Boost iPhone 18 Pro's Camera App—Now There's a Lawsuit - MacRumors",
+      "title": "35 photos that show what life looked like in 1973 - AOL.com",
       "source": {
-        "name": "MacRumors"
+        "name": "AOL"
       },
-      "description": "Apple's plans to enhance the iPhone 18 Pro's Camera app led it to consider acquiring Halide, but the...",
-      "url": "https://www.macrumors.com/2026/03/21/apple-wanted-to-buy-halide-to-boost-iphone-18-pro/",
-      "publishedAt": "2026-03-21T13:50:03Z",
-      "processed_at": "2026-03-22T22:27:57.133741+00:00"
+      "description": "",
+      "url": "https://www.aol.com/35-photos-show-life-looked-170404927.html",
+      "publishedAt": "2026-03-21T17:00:22Z",
+      "processed_at": "2026-03-22T23:30:35.737311+00:00"
     },
     {
-      "title": "Spyware once used by governments is now spreading to cybercriminals - Axios",
+      "title": "Crimson Desert Hears Your Complaints And Will Fix The Controls - Kotaku",
       "source": {
-        "name": "Axios"
+        "name": "Kotaku"
       },
-      "description": "Anyone with an iPhone can now be the target of invasive malware that siphons off personal texts, cal...",
-      "url": "https://www.axios.com/2026/03/21/iphone-spyware-is-everyones-problem-now",
-      "publishedAt": "2026-03-21T12:03:43Z",
-      "processed_at": "2026-03-22T22:27:57.133741+00:00"
+      "description": "Pearl Abyss says its listening to Crimson Desert players' complaints about the complicated controls ...",
+      "url": "https://kotaku.com/crimson-desert-controls-fix-update-patch-2000680802",
+      "publishedAt": "2026-03-21T15:37:31Z",
+      "processed_at": "2026-03-22T23:30:35.737311+00:00"
     },
     {
-      "title": "The new MacBook Pro is still fast as hell - The Verge",
+      "title": "Calculate Your VO2 Max at Home in Just 5 Minutes, No Complex Lab Tests Needed - Outside Magazine",
       "source": {
-        "name": "The Verge"
+        "name": "Outside"
       },
-      "description": "MacBook Pro 16 M5 Max review: we re-tested the M1 Pro and M1 Max models from 2021 to see how much of...",
-      "url": "https://www.theverge.com/tech/898062/apple-macbook-pro-16-m5-max-m1-comparison-review",
-      "publishedAt": "2026-03-21T12:00:00Z",
-      "processed_at": "2026-03-22T22:27:57.133741+00:00"
+      "description": "It's one of endurance sport's most talked about yet elusive numbers, until now. A simple power test ...",
+      "url": "https://velo.outsideonline.com/road/road-training/calculate-vo2-max/#article",
+      "publishedAt": "2026-03-21T13:22:44Z",
+      "processed_at": "2026-03-22T23:30:35.737311+00:00"
     },
     {
-      "title": "Apple highlights 13 enhancements coming to iPhone with iOS 26.4 - 9to5Mac",
+      "title": "Staff at New Data Center Powered by Human Brain Cells Need to Swap Out Cerebrospinal Fluid Every Day - Futurism",
       "source": {
-        "name": "9to5Mac"
+        "name": "Futurism"
       },
-      "description": "Apple has released the first iOS 26.4 RC build, highlighting 13 enhancements coming to your iPhone, ...",
-      "url": "https://9to5mac.com/2026/03/21/apple-highlights-13-enhancements-coming-to-iphone-with-ios-26-4/",
-      "publishedAt": "2026-03-21T11:50:00Z",
-      "processed_at": "2026-03-22T22:27:57.133741+00:00"
-    },
-    {
-      "title": "iOS 26.3.1 (a): Apple’s Hidden iPhone Update Recommended For Hundreds Of Millions Of Users - Forbes",
-      "source": {
-        "name": "Forbes"
-      },
-      "description": "The latest iPhone update has arrived and it’s different from previous updates. Here’s why and what t...",
-      "url": "https://www.forbes.com/sites/davidphelan/2026/03/21/iphone-alert-why-you-must-check-this-hidden-setting-for-urgent-ios-2631-a-fix/",
-      "publishedAt": "2026-03-21T09:47:00Z",
-      "processed_at": "2026-03-22T22:27:57.133741+00:00"
-    },
-    {
-      "title": "Microsoft Promises Slew of Windows 11 Changes in Response to \"Microslop\" Criticisms - TechPowerUp",
-      "source": {
-        "name": "Techpowerup.com"
-      },
-      "description": "With every Windows 11 update seemingly introducing a new bug or somehow breaking some core functiona...",
-      "url": "https://www.techpowerup.com/347595/microsoft-promises-slew-of-windows-11-changes-in-response-to-microslop-criticisms",
-      "publishedAt": "2026-03-21T06:26:31Z",
-      "processed_at": "2026-03-22T22:27:57.133741+00:00"
-    },
-    {
-      "title": "Gran Turismo 7 Was an Inspiration for Microsoft Flight Sim 2024's PSVR2 Mode, Coming Soon - Push Square",
-      "source": {
-        "name": "Push Square"
-      },
-      "description": "Out early this year...",
-      "url": "https://www.pushsquare.com/news/2026/03/gran-turismo-7-was-an-inspiration-for-microsoft-flight-sim-2024s-psvr2-mode-coming-soon",
-      "publishedAt": "2026-03-21T00:01:07Z",
-      "processed_at": "2026-03-22T22:27:57.133741+00:00"
-    },
-    {
-      "title": "Microsoft rolls back some of its Copilot AI bloat on Windows - TechCrunch",
-      "source": {
-        "name": "TechCrunch"
-      },
-      "description": "The company is reducing Copilot entry points on Windows, starting with Photos, Widgets, Notepad, and...",
-      "url": "https://techcrunch.com/2026/03/20/microsoft-rolls-back-some-of-its-copilot-ai-bloat-on-windows/",
-      "publishedAt": "2026-03-20T20:53:09Z",
-      "processed_at": "2026-03-22T22:27:57.133741+00:00"
+      "description": "To keep the human brain cell-powered computers running, technicians constantly replenish their store...",
+      "url": "http://futurism.com/robots-and-machines/staff-brain-data-center-spine-fluid",
+      "publishedAt": "2026-03-21T13:00:00Z",
+      "processed_at": "2026-03-22T23:30:35.737311+00:00"
     }
   ],
-  "lastUpdated": "2026-03-22T22:27:57.133817+00:00",
+  "lastUpdated": "2026-03-22T23:30:35.737406+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
