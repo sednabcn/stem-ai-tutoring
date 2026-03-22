@@ -3,6 +3,26 @@
   "totalResults": 10,
   "articles": [
     {
+      "title": "Open-world adventure game CookieRun: New World announced for console, PC, and mobile - Gematsu",
+      "source": {
+        "name": "Gematsu"
+      },
+      "description": "Devsisters has announced CookieRun: New World, an open-world adventure game based on the CookieRun m...",
+      "url": "https://www.gematsu.com/2026/03/open-world-adventure-game-cookierun-new-world-announced-for-console-pc-and-mobile",
+      "publishedAt": "2026-03-21T02:48:47Z",
+      "processed_at": "2026-03-22T05:54:50.444654+00:00"
+    },
+    {
+      "title": "Google wants to fill Fitbit with AI — and your medical records - Mashable",
+      "source": {
+        "name": "Mashable"
+      },
+      "description": "This isn't your father's Fitbit....",
+      "url": "https://mashable.com/article/google-fitbit-ai",
+      "publishedAt": "2026-03-21T02:03:45Z",
+      "processed_at": "2026-03-22T05:54:50.444654+00:00"
+    },
+    {
       "title": "Microsoft Is Finally Ready to Make Windows 11 Less Terrible After Bloating It With AI Crap - Gizmodo",
       "source": {
         "name": "Gizmodo.com"
@@ -10,7 +30,7 @@
       "description": "Less Copilot, better search, and more taskbar customization are apparently in the pipeline....",
       "url": "https://gizmodo.com/microsoft-is-finally-ready-to-make-windows-11-less-terrible-after-bloating-it-with-ai-crap-2000736302",
       "publishedAt": "2026-03-20T22:45:42Z",
-      "processed_at": "2026-03-22T04:53:28.400673+00:00"
+      "processed_at": "2026-03-22T05:54:50.444654+00:00"
     },
     {
       "title": "iOS 26.4: Top 10 New Features Coming to Your iPhone - MacRumors",
@@ -20,17 +40,7 @@
       "description": "iOS 26.4 isn't the major update with new Siri features that we hoped for, but there are some useful ...",
       "url": "https://www.macrumors.com/2026/03/20/ios-26-4-top-10-features/",
       "publishedAt": "2026-03-20T21:44:41Z",
-      "processed_at": "2026-03-22T04:53:28.400673+00:00"
-    },
-    {
-      "title": "Baffling Crimson Desert Images Have Ignited A Generative AI Controversy - GameSpot",
-      "source": {
-        "name": "GameSpot"
-      },
-      "description": "Did the developers mean to depict mushy-faced warriors atop many-limbed horses, or is generative AI ...",
-      "url": "https://www.gamespot.com/articles/baffling-crimson-desert-images-have-ignited-a-generative-ai-controversy/1100-6538932/",
-      "publishedAt": "2026-03-20T21:33:17Z",
-      "processed_at": "2026-03-22T04:53:28.400673+00:00"
+      "processed_at": "2026-03-22T05:54:50.444654+00:00"
     },
     {
       "title": "Microsoft rolls back some of its Copilot AI bloat on Windows - TechCrunch",
@@ -40,7 +50,7 @@
       "description": "The company is reducing Copilot entry points on Windows, starting with Photos, Widgets, Notepad, and...",
       "url": "https://techcrunch.com/2026/03/20/microsoft-rolls-back-some-of-its-copilot-ai-bloat-on-windows/",
       "publishedAt": "2026-03-20T20:53:09Z",
-      "processed_at": "2026-03-22T04:53:28.400673+00:00"
+      "processed_at": "2026-03-22T05:54:50.444654+00:00"
     },
     {
       "title": "Amazon's smartphone would be ill-timed: IDC analyst - theregister.com",
@@ -50,7 +60,17 @@
       "description": ": The market is contracting...",
       "url": "https://www.theregister.com/2026/03/20/amazon_phone_worst_possible_time/",
       "publishedAt": "2026-03-20T20:20:00Z",
-      "processed_at": "2026-03-22T04:53:28.400673+00:00"
+      "processed_at": "2026-03-22T05:54:50.444654+00:00"
+    },
+    {
+      "title": "Crimson Desert Players Debate If The Game Secretly Uses AI Art - Kotaku",
+      "source": {
+        "name": "Kotaku"
+      },
+      "description": "One painting shows off a terrifying convention of weird-looking centaurs...",
+      "url": "https://kotaku.com/crimson-desert-painting-gen-ai-art-2000680661",
+      "publishedAt": "2026-03-20T19:17:36Z",
+      "processed_at": "2026-03-22T05:54:50.444654+00:00"
     },
     {
       "title": "Gamers Hate Nvidia's DLSS 5. Developers Aren’t Crazy About It Either - WIRED",
@@ -60,7 +80,17 @@
       "description": "Nvidia’s new AI upscaling gaming technology struck gamers as uncanny and off-putting. Developers don...",
       "url": "https://www.wired.com/story/gamers-hate-nvidia-dlss-5-developers-arent-crazy-about-it-either/",
       "publishedAt": "2026-03-20T19:13:00Z",
-      "processed_at": "2026-03-22T04:53:28.400673+00:00"
+      "processed_at": "2026-03-22T05:54:50.444654+00:00"
+    },
+    {
+      "title": "Samsung's Galaxy Z TriFold Replaced My Phone, Tablet, and Laptop—But There's a Big Catch - PCMag",
+      "source": {
+        "name": "PCMag.com"
+      },
+      "description": "The Galaxy Z TriFold aims to be an all-in-one device—serving as your phone, tablet, and even a makes...",
+      "url": "https://www.pcmag.com/reviews/samsung-galaxy-z-trifold",
+      "publishedAt": "2026-03-20T17:04:06Z",
+      "processed_at": "2026-03-22T05:54:50.444654+00:00"
     },
     {
       "title": "Google Messages launches group RCS Mentions and Trash folder - 9to5Google",
@@ -70,40 +100,10 @@
       "description": "After beta testing for the past several weeks and months, Google Messages today officially announced...",
       "url": "http://9to5google.com/2026/03/20/google-messages-mentions-trash/",
       "publishedAt": "2026-03-20T16:46:54Z",
-      "processed_at": "2026-03-22T04:53:28.400673+00:00"
-    },
-    {
-      "title": "WordPress.com now lets AI agents write and publish posts, and more - TechCrunch",
-      "source": {
-        "name": "TechCrunch"
-      },
-      "description": "New AI agents on WordPress.com could lower barriers to publishing while increasing machine-generated...",
-      "url": "https://techcrunch.com/2026/03/20/wordpress-com-now-lets-ai-agents-write-and-publish-posts-and-more/",
-      "publishedAt": "2026-03-20T16:43:09Z",
-      "processed_at": "2026-03-22T04:53:28.400673+00:00"
-    },
-    {
-      "title": "New controls can stretch, blur and even reverse quantum time flow - Phys.org",
-      "source": {
-        "name": "Phys.Org"
-      },
-      "description": "",
-      "url": "https://phys.org/news/2026-03-blur-reverse-quantum.html",
-      "publishedAt": "2026-03-20T16:40:03Z",
-      "processed_at": "2026-03-22T04:53:28.400673+00:00"
-    },
-    {
-      "title": "Slay the Spire 2: One of the best indie Steam launches of all time - The Alinea Insight newsletter",
-      "source": {
-        "name": "Substack.com"
-      },
-      "description": "In early access, Slay the Spire 2 has ALREADY made more money on Steam than Silksong & Hades 2. Keep...",
-      "url": "https://alineaanalytics.substack.com/p/slay-the-spire-2-one-of-the-best",
-      "publishedAt": "2026-03-20T16:17:01Z",
-      "processed_at": "2026-03-22T04:53:28.400673+00:00"
+      "processed_at": "2026-03-22T05:54:50.444654+00:00"
     }
   ],
-  "lastUpdated": "2026-03-22T04:53:28.400752+00:00",
+  "lastUpdated": "2026-03-22T05:54:50.444726+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
