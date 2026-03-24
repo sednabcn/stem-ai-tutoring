@@ -3,6 +3,36 @@
   "totalResults": 10,
   "articles": [
     {
+      "title": "The DLSS 5 Backlash Is Still Swirling - Dark Horizons",
+      "source": {
+        "name": "Dark Horizons"
+      },
+      "description": "Almost a week on, the controversy and backlash over NVIDIA’s DLSS 5 announcement are still swirling,...",
+      "url": "https://www.darkhorizons.com/the-dlss-5-backlash-is-still-swirling/",
+      "publishedAt": "2026-03-23T04:03:04Z",
+      "processed_at": "2026-03-24T07:54:05.183757+00:00"
+    },
+    {
+      "title": "The 3DFX Voodoo Lives Again In An FPGA - Hackaday",
+      "source": {
+        "name": "Hackaday"
+      },
+      "description": "The 3DFX Voodoo was not the first dedicated 3D graphics chipset by any means, but it became the favo...",
+      "url": "https://hackaday.com/2026/03/22/the-3dfx-voodoo-lives-again-in-an-fpga/",
+      "publishedAt": "2026-03-23T02:00:00Z",
+      "processed_at": "2026-03-24T07:54:05.183757+00:00"
+    },
+    {
+      "title": "5 Laptops With Better Specs Than The MacBook Neo For The Same Price - bgr.com",
+      "source": {
+        "name": "BGR"
+      },
+      "description": "The MacBook Neo starts at $600, but these five laptops deliver better RAM, storage, and larger scree...",
+      "url": "https://www.bgr.com/2126573/laptops-better-specs-macbook-neo-same-price/",
+      "publishedAt": "2026-03-23T01:29:21Z",
+      "processed_at": "2026-03-24T07:54:05.183757+00:00"
+    },
+    {
       "title": "Samsung rolling out AirDrop over Quick Share on Galaxy S26, more devices coming - 9to5Google",
       "source": {
         "name": "9to5google.com"
@@ -10,7 +40,17 @@
       "description": "Samsung has officially confirmed plans to start rolling out AirDrop support over Quick Share startin...",
       "url": "http://9to5google.com/2026/03/22/samsung-galaxy-s26-airdrop-quick-share/",
       "publishedAt": "2026-03-22T23:17:04Z",
-      "processed_at": "2026-03-24T06:00:48.320128+00:00"
+      "processed_at": "2026-03-24T07:54:05.183757+00:00"
+    },
+    {
+      "title": "Apple already has the perfect platform for deploying conversational AI - 9to5Mac",
+      "source": {
+        "name": "9to5Mac"
+      },
+      "description": "When Apple initially rolled out Apple Intelligence, the company was pretty openly against the idea o...",
+      "url": "https://9to5mac.com/2026/03/22/apple-already-has-the-perfect-platform-for-deploying-conversational-ai/",
+      "publishedAt": "2026-03-22T23:10:00Z",
+      "processed_at": "2026-03-24T07:54:05.183757+00:00"
     },
     {
       "title": "Man who bought $75 worth of Apple products from a stranger in a car park realizes he might be sitting on a small fortune - supercarblondie.com",
@@ -20,17 +60,27 @@
       "description": "A tech enthusiast who bought a bunch of used Apple products off a stranger in a car park was left pl...",
       "url": "https://supercarblondie.com/tech/man-75-worth-apple-products-from-stranger/",
       "publishedAt": "2026-03-22T22:25:00Z",
-      "processed_at": "2026-03-24T06:00:48.320128+00:00"
+      "processed_at": "2026-03-24T07:54:05.183757+00:00"
     },
     {
       "title": "Linux 7.0-rc5 Released: Linux 7.0 \"Starting To Calm Down\" - Phoronix",
       "source": {
+        "name": "Phoronix"
+      },
+      "description": "Linus Torvalds just issued Linux 7.0-rc5 as we inch toward the stable Linux 7.0 kernel release in Ap...",
+      "url": "https://www.phoronix.com/news/Linux-7.0-rc5-Released",
+      "publishedAt": "2026-03-22T22:01:00Z",
+      "processed_at": "2026-03-24T07:54:05.183757+00:00"
+    },
+    {
+      "title": "Scary Good Spring Steam Sale Deals On Horror Games - Kotaku",
+      "source": {
         "name": "Google News"
       },
       "description": "",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBrTW5WRVJDc0NnMVgza09lMmdMMUV3WDEzWUd6NE92aVBaRHhOVmlTdThZWEdkaV9PZnlPclhfaDRYTkFPaTRGRno2UnFqN2pFN3daekhvd3p4T0VaVEdrNUhn?oc=5",
-      "publishedAt": "2026-03-22T22:01:00Z",
-      "processed_at": "2026-03-24T06:00:48.320128+00:00"
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZE9ObTNlWWhnd0FLQVVxMjhZajdwVDl1MV9URlNkTjdiMVdrWmRuSEEzSjJubzVGXzZJTVhqWUdNSHVYdXNZUm5ZWWlSeWEzbTJjYzlBQUxxbGIxejRRWU80eTdFdy1NUHV2UEM4aDhkRFBZZ1V6Q1R5OHBOUHczRUFRRFE0Nk0?oc=5",
+      "publishedAt": "2026-03-22T21:19:23Z",
+      "processed_at": "2026-03-24T07:54:05.183757+00:00"
     },
     {
       "title": "What new Google Messages features are rolling out [March 2026] - 9to5Google",
@@ -40,7 +90,7 @@
       "description": "Like other Google apps, Messages for Android A/B tests many features. It can take the RCS/SMS client...",
       "url": "http://9to5google.com/2026/03/22/new-google-messages-features/",
       "publishedAt": "2026-03-22T20:10:01Z",
-      "processed_at": "2026-03-24T06:00:48.320128+00:00"
+      "processed_at": "2026-03-24T07:54:05.183757+00:00"
     },
     {
       "title": "Apple Store Prices for SanDisk SSDs Are Suddenly Astronomical - Gizmodo",
@@ -50,60 +100,10 @@
       "description": "A 200% price hike is extraordinary....",
       "url": "https://gizmodo.com/apple-store-prices-for-sandisk-ssds-are-suddenly-astronomical-2000736615",
       "publishedAt": "2026-03-22T19:25:48Z",
-      "processed_at": "2026-03-24T06:00:48.320128+00:00"
-    },
-    {
-      "title": "M5 Pro & M5 Max Feature Vertically Stacked Dies That Mimic 3D Packaging, According To Apple’s Platform Architecture Employee, Enabling Unrivaled Performance - Wccftech",
-      "source": {
-        "name": "Wccftech"
-      },
-      "description": "An Apple employee states that the M5 Pro and M5 Max sport a new chiplet design where the dies are st...",
-      "url": "https://wccftech.com/m5-pro-and-m5-max-featured-vertically-stacked-dies-for-unrivaled-performance/",
-      "publishedAt": "2026-03-22T19:23:00Z",
-      "processed_at": "2026-03-24T06:00:48.320128+00:00"
-    },
-    {
-      "title": "Pokémon Pokopia - The Means Of Poképroduction - The Jimquisition",
-      "source": {
-        "name": "Thejimquisition.com"
-      },
-      "description": "Pokémon PokopiaReleased: March 5th, 2026Developer: Omega Force, Game FreakPublisher: Nintendo, The P...",
-      "url": "https://www.thejimquisition.com/post/pokémon-pokopia-the-means-of-poképroduction",
-      "publishedAt": "2026-03-22T19:22:11Z",
-      "processed_at": "2026-03-24T06:00:48.320128+00:00"
-    },
-    {
-      "title": "The OG Four-Door Porsche Sports Sedan Wasn't Even Built By Porsche - Jalopnik",
-      "source": {
-        "name": "Jalopnik"
-      },
-      "description": "In 1967, a Texas-based car dealer wanted a four-door Porsche 911 S. Porsche wouldn't make it, so he ...",
-      "url": "https://www.jalopnik.com/2126955/pre-panamera-porsche-sports-sedan/",
-      "publishedAt": "2026-03-22T19:05:00Z",
-      "processed_at": "2026-03-24T06:00:48.320128+00:00"
-    },
-    {
-      "title": "Crimson Desert dev apologizes for use of AI art - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "It’s performing a ‘comprehensive audit’ to remove any AI assets....",
-      "url": "https://www.theverge.com/games/898771/crimson-desert-dev-apologizes-ai-art",
-      "publishedAt": "2026-03-22T17:34:34Z",
-      "processed_at": "2026-03-24T06:00:48.320128+00:00"
-    },
-    {
-      "title": "New report claims Crimson Desert's development was plagued by \"a hodgepodge of features crammed together\" and leaders who \"don't acknowledge anyone who doesn't share their exact mindset\" - Eurogamer",
-      "source": {
-        "name": "Eurogamer.net"
-      },
-      "description": "Two Pearl Abyss developers have claimed Crimson Desert was developed in a troubled environment, char...",
-      "url": "https://www.eurogamer.net/new-report-claims-crimson-deserts-development-was-plagued-by-a-hodgepodge-of-features-crammed-together-and-leaders-who-dont-acknowledge-anyone-who-doesnt-share-their-exact-mindset",
-      "publishedAt": "2026-03-22T17:31:59Z",
-      "processed_at": "2026-03-24T06:00:48.320128+00:00"
+      "processed_at": "2026-03-24T07:54:05.183757+00:00"
     }
   ],
-  "lastUpdated": "2026-03-24T06:00:48.320198+00:00",
+  "lastUpdated": "2026-03-24T07:54:05.183819+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
