@@ -3,6 +3,36 @@
   "totalResults": 10,
   "articles": [
     {
+      "title": "Major PlayStation Store Purge - Sony Removes Over 1000 Games - IXBT.games",
+      "source": {
+        "name": "Ixbt.games"
+      },
+      "description": "Sony continues to clean up the virtual storefronts....",
+      "url": "https://ixbt.games/en/news/2026/03/23/bolsaia-zacistka-playstation-store-sony-udalila-bolee-1000-igr.html",
+      "publishedAt": "2026-03-23T10:59:25Z",
+      "processed_at": "2026-03-24T11:51:43.040368+00:00"
+    },
+    {
+      "title": "I tested ChatGPT vs. Perplexity with the same 5 prompts — the winner surprised me - Tom's Guide",
+      "source": {
+        "name": "Tom's Guide"
+      },
+      "description": "AI Madness Round 1: The Heavyweight meets the Challenger in our first round of Tom's Guide AI Madnes...",
+      "url": "https://www.tomsguide.com/ai/i-tested-chatgpt-vs-perplexity-with-the-same-5-prompts-the-winner-surprised-me",
+      "publishedAt": "2026-03-23T06:01:11Z",
+      "processed_at": "2026-03-24T11:51:43.040368+00:00"
+    },
+    {
+      "title": "Samsung Galaxy S27 Ultra may not bring major S Pen reforms - SamMobile",
+      "source": {
+        "name": "SamMobile"
+      },
+      "description": "It has been over 15 years since Samsung began shipping the S Pen stylus with Galaxy devices. Through...",
+      "url": "https://www.sammobile.com/news/galaxy-s27-ultra-not-bring-major-s-pen-reforms/",
+      "publishedAt": "2026-03-23T04:43:00Z",
+      "processed_at": "2026-03-24T11:51:43.040368+00:00"
+    },
+    {
       "title": "The DLSS 5 Backlash Is Still Swirling - Dark Horizons",
       "source": {
         "name": "Dark Horizons"
@@ -10,7 +40,7 @@
       "description": "Almost a week on, the controversy and backlash over NVIDIA’s DLSS 5 announcement are still swirling,...",
       "url": "https://www.darkhorizons.com/the-dlss-5-backlash-is-still-swirling/",
       "publishedAt": "2026-03-23T04:03:04Z",
-      "processed_at": "2026-03-24T11:00:12.438952+00:00"
+      "processed_at": "2026-03-24T11:51:43.040368+00:00"
     },
     {
       "title": "I compared the best budget phones from Apple, Google, and Samsung - this model won it - ZDNET",
@@ -20,17 +50,27 @@
       "description": "The iPhone 17e, Pixel 10a, and Galaxy A56 are all solid midrangers, but they excel in different area...",
       "url": "https://www.zdnet.com/article/iphone-17e-vs-google-pixel-10a-vs-samsung-galaxy-a56/",
       "publishedAt": "2026-03-23T03:00:00Z",
-      "processed_at": "2026-03-24T11:00:12.438952+00:00"
+      "processed_at": "2026-03-24T11:51:43.040368+00:00"
     },
     {
-      "title": "Samsung reverses big S Pen change for Galaxy S27 Ultra after bold experiment fails - Sammy Fans",
+      "title": "Microsoft: Removing some Copilots will improve Windows 11 - theregister.com",
       "source": {
-        "name": "Sammyfans.com"
+        "name": "Theregister.com"
       },
-      "description": "Samsung has backed away from one of its more ambitious S Pen experiments for next year’s Galaxy S27 ...",
-      "url": "https://www.sammyfans.com/2026/03/22/samsung-reverses-big-s-pen-change-for-galaxy-s27-ultra/",
-      "publishedAt": "2026-03-23T02:50:49Z",
-      "processed_at": "2026-03-24T11:00:12.438952+00:00"
+      "description": ": 'Doze boss admits quality is down, promises smaller memory footprint and fixes for many well-known...",
+      "url": "https://www.theregister.com/2026/03/23/windows_quality_commitment/",
+      "publishedAt": "2026-03-23T02:34:00Z",
+      "processed_at": "2026-03-24T11:51:43.040368+00:00"
+    },
+    {
+      "title": "5 Laptops With Better Specs Than The MacBook Neo For The Same Price - bgr.com",
+      "source": {
+        "name": "BGR"
+      },
+      "description": "",
+      "url": "https://www.bgr.com/2126573/laptops-better-specs-macbook-neo-same-price/",
+      "publishedAt": "2026-03-23T02:17:00Z",
+      "processed_at": "2026-03-24T11:51:43.040368+00:00"
     },
     {
       "title": "The 3DFX Voodoo Lives Again In An FPGA - Hackaday",
@@ -40,7 +80,7 @@
       "description": "The 3DFX Voodoo was not the first dedicated 3D graphics chipset by any means, but it became the favo...",
       "url": "https://hackaday.com/2026/03/22/the-3dfx-voodoo-lives-again-in-an-fpga/",
       "publishedAt": "2026-03-23T02:00:00Z",
-      "processed_at": "2026-03-24T11:00:12.438952+00:00"
+      "processed_at": "2026-03-24T11:51:43.040368+00:00"
     },
     {
       "title": "Crimson Desert March 23 Update 1.00.03 Released – Patch Notes - DSOGaming",
@@ -50,60 +90,20 @@
       "description": "Pearl Abyss has just released Title Update 1.00.03 for Crimson Desert and shared its full patch note...",
       "url": "https://www.dsogaming.com/patches/crimson-desert-mar-23rd-update-1-00-03-released-patch-notes/",
       "publishedAt": "2026-03-23T01:48:58Z",
-      "processed_at": "2026-03-24T11:00:12.438952+00:00"
+      "processed_at": "2026-03-24T11:51:43.040368+00:00"
     },
     {
-      "title": "These are the best new MacBook deals right now: March 2026 Buyer’s Guide - 9to5Mac",
+      "title": "Nintendo Switch eShop deals - lowest prices ever for Blossom Tales 2, Crysis 2 and 3 Remastered, Ender Magnolia, more - Nintendo Everything",
       "source": {
-        "name": "9to5Mac"
+        "name": "Nintendoeverything.com"
       },
-      "description": "In the era of Apple Silicon, MacBooks are more affordable than ever. Nowadays, you can buy a MacBook...",
-      "url": "https://9to5mac.com/2026/03/22/best-new-macbook-deals-march-2026/",
-      "publishedAt": "2026-03-23T01:05:00Z",
-      "processed_at": "2026-03-24T11:00:12.438952+00:00"
-    },
-    {
-      "title": "Retro Recap: All The Classic Gaming News From The Past Week (March 22nd 2026) - Time Extension",
-      "source": {
-        "name": "Timeextension.com"
-      },
-      "description": "DOOM! Devastators! Animal Crossing!...",
-      "url": "https://www.timeextension.com/features/retro-recap-all-the-classic-gaming-news-from-the-past-week-march-22nd-2026",
-      "publishedAt": "2026-03-22T23:31:35Z",
-      "processed_at": "2026-03-24T11:00:12.438952+00:00"
-    },
-    {
-      "title": "Apple already has the perfect platform for deploying conversational AI - 9to5Mac",
-      "source": {
-        "name": "9to5Mac"
-      },
-      "description": "When Apple initially rolled out Apple Intelligence, the company was pretty openly against the idea o...",
-      "url": "https://9to5mac.com/2026/03/22/apple-already-has-the-perfect-platform-for-deploying-conversational-ai/",
-      "publishedAt": "2026-03-22T23:10:00Z",
-      "processed_at": "2026-03-24T11:00:12.438952+00:00"
-    },
-    {
-      "title": "Samsung Brings AirDrop Support to Quick Share with Galaxy S26 Series - samsung.com",
-      "source": {
-        "name": "Samsung.com"
-      },
-      "description": "Samsung is introducing AirDrop support to the Galaxy S26 series, making it easier for users to share...",
-      "url": "https://news.samsung.com/us/samsung-airdrop-quick-share-galaxy-s26-series",
-      "publishedAt": "2026-03-22T23:01:15Z",
-      "processed_at": "2026-03-24T11:00:12.438952+00:00"
-    },
-    {
-      "title": "Hackaday Links: March 22, 2026 - Hackaday",
-      "source": {
-        "name": "Hackaday"
-      },
-      "description": "On Friday, Reuters reported that Amazon is going to try to get into the smartphone game…again. The F...",
-      "url": "https://hackaday.com/2026/03/22/hackaday-links-march-22-2026/",
-      "publishedAt": "2026-03-22T23:00:00Z",
-      "processed_at": "2026-03-24T11:00:12.438952+00:00"
+      "description": "A number of new deals are up and running on the North American Nintendo Switch eShop. These include ...",
+      "url": "https://nintendoeverything.com/nintendo-switch-eshop-deals-lowest-prices-ever-for-blossom-tales-2-crysis-2-and-3-remastered-ender-magnolia-more/",
+      "publishedAt": "2026-03-23T01:10:22Z",
+      "processed_at": "2026-03-24T11:51:43.040368+00:00"
     }
   ],
-  "lastUpdated": "2026-03-24T11:00:12.439026+00:00",
+  "lastUpdated": "2026-03-24T11:51:43.040440+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
