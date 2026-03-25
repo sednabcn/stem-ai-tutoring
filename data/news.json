@@ -1,7 +1,17 @@
 {
   "status": "success",
-  "totalResults": 9,
+  "totalResults": 10,
   "articles": [
+    {
+      "title": "By Director Mr. Sakurai, Kirby Air Riders: Development Insights — Part 5 - nintendo.com",
+      "source": {
+        "name": "Nintendo.com"
+      },
+      "description": "Join Kirby Air Riders director Masahiro Sakurai as he shares insights into the development and detai...",
+      "url": "https://www.nintendo.com/us/whatsnew/by-director-mr-sakurai-kirby-air-riders-development-insights-part-5/",
+      "publishedAt": "2026-03-24T01:10:19Z",
+      "processed_at": "2026-03-25T06:03:18.432747+00:00"
+    },
     {
       "title": "35 Products I Bet You Haven’t Seen Yet, But I Also Bet You’ll *Love* - BuzzFeed",
       "source": {
@@ -10,7 +20,7 @@
       "description": "Nobody panic, but Summer Fridays just released a caramel-vanilla perfume....",
       "url": "https://www.buzzfeed.com/danielboan/products-you-havent-seen-yet-but-will-love",
       "publishedAt": "2026-03-24T01:01:02Z",
-      "processed_at": "2026-03-25T04:55:43.012266+00:00"
+      "processed_at": "2026-03-25T06:03:18.432747+00:00"
     },
     {
       "title": "Xbox is getting over 40 new games next week - TrueAchievements",
@@ -20,17 +30,17 @@
       "description": "Next week, another wave of 43 Xbox games will arrive on the platform, including Screamer, Life is St...",
       "url": "https://www.trueachievements.com/news/new-xbox-games-march-24-2026",
       "publishedAt": "2026-03-24T00:29:33Z",
-      "processed_at": "2026-03-25T04:55:43.012266+00:00"
+      "processed_at": "2026-03-25T06:03:18.432747+00:00"
     },
     {
-      "title": "Apple co-founder Steve Wozniak says he's 'not a fan' of AI - Fox Business",
+      "title": "Xbox sale round-up March 24, 2026 - TrueAchievements",
       "source": {
-        "name": "Fox Business"
+        "name": "TrueAchievements"
       },
-      "description": "Apple co-founder Steve Wozniak says he is 'not a fan of AI,' warning the technology lacks reliabilit...",
-      "url": "https://www.foxbusiness.com/media/apple-co-founder-steve-wozniak-says-hes-not-fan-ai",
-      "publishedAt": "2026-03-23T22:30:00Z",
-      "processed_at": "2026-03-25T04:55:43.012266+00:00"
+      "description": "New Xbox sales are now live, with big discounts on Minecraft Dungeons, Sunset Overdrive, Borderlands...",
+      "url": "https://www.trueachievements.com/n61880/xbox-sale-roundup-march-24-2026",
+      "publishedAt": "2026-03-24T00:12:56Z",
+      "processed_at": "2026-03-25T06:03:18.432747+00:00"
     },
     {
       "title": "Fortnite Added Peak Skins That Cost Twice As Much As The Actual Indie Game - Kotaku",
@@ -40,17 +50,17 @@
       "description": "Peak costs less than $10. Fortnite's Peak skin costs more than $20....",
       "url": "https://kotaku.com/fortnite-added-peak-skins-that-cost-twice-as-much-as-the-actual-indie-game-2000681185",
       "publishedAt": "2026-03-23T22:29:27Z",
-      "processed_at": "2026-03-25T04:55:43.012266+00:00"
+      "processed_at": "2026-03-25T06:03:18.432747+00:00"
     },
     {
-      "title": "That Air-Cooled Porsche Engine Isn't Just Cooled By Air, You Know - Jalopnik",
+      "title": "Anthropic's Claude Can Now Control Your Computer - CNET",
       "source": {
-        "name": "Jalopnik"
+        "name": "CNET"
       },
-      "description": "Air alone couldn't cool the Porsche 911. A variety of oil-cooling supplementary devices worked over ...",
-      "url": "https://www.jalopnik.com/2127417/air-cooled-porsche-cools-with-oil-too/",
-      "publishedAt": "2026-03-23T22:25:00Z",
-      "processed_at": "2026-03-25T04:55:43.012266+00:00"
+      "description": "The developer is boosting Claude's agentic capabilities in an apparent effort to compete with platfo...",
+      "url": "https://www.cnet.com/tech/services-and-software/claude-control-your-computer-to-perform-tasks/",
+      "publishedAt": "2026-03-23T22:00:00Z",
+      "processed_at": "2026-03-25T06:03:18.432747+00:00"
     },
     {
       "title": "MacBook Neo Silences Critics Over 8GB RAM Being Inadequate; Can Open 60 Apps In Unison While Windows Laptop Powers Off Performing The Same Task - Wccftech",
@@ -60,7 +70,7 @@
       "description": "A YouTube channel decided to take the MacBook Neo for an apps stress test and opened up 60 apps at t...",
       "url": "https://wccftech.com/macbook-neo-8gb-ram-stress-test-opens-60-apps-simultaneously/",
       "publishedAt": "2026-03-23T21:31:00Z",
-      "processed_at": "2026-03-25T04:55:43.012266+00:00"
+      "processed_at": "2026-03-25T06:03:18.432747+00:00"
     },
     {
       "title": "Nvidia CEO tries to explain why DLSS 5 isn’t just “AI slop” - Ars Technica",
@@ -70,7 +80,7 @@
       "description": "If game makers don’t like it, “they could decide not to use it, you know?\"...",
       "url": "https://arstechnica.com/gaming/2026/03/nvidia-ceo-tries-to-explain-why-dlss-5-isnt-just-ai-slop/",
       "publishedAt": "2026-03-23T21:19:51Z",
-      "processed_at": "2026-03-25T04:55:43.012266+00:00"
+      "processed_at": "2026-03-25T06:03:18.432747+00:00"
     },
     {
       "title": "iOS 26.4 offers two Liquid Glass customization updates - 9to5Mac",
@@ -80,7 +90,7 @@
       "description": "iOS 26.4 is launching soon, and it will bring two updates for how you can customize the Liquid Glass...",
       "url": "https://9to5mac.com/2026/03/23/ios-26-4-offers-two-liquid-glass-customization-updates/",
       "publishedAt": "2026-03-23T21:06:00Z",
-      "processed_at": "2026-03-25T04:55:43.012266+00:00"
+      "processed_at": "2026-03-25T06:03:18.432747+00:00"
     },
     {
       "title": "Someone has publicly leaked an exploit kit that can hack millions of iPhones - TechCrunch",
@@ -90,10 +100,10 @@
       "description": "Leaked \"DarkSword\" exploits published to GitHub allow hackers and cybercriminals to target iPhone us...",
       "url": "https://techcrunch.com/2026/03/23/someone-has-publicly-leaked-an-exploit-kit-that-can-hack-millions-of-iphones/",
       "publishedAt": "2026-03-23T20:42:41Z",
-      "processed_at": "2026-03-25T04:55:43.012266+00:00"
+      "processed_at": "2026-03-25T06:03:18.432747+00:00"
     }
   ],
-  "lastUpdated": "2026-03-25T04:55:43.012340+00:00",
+  "lastUpdated": "2026-03-25T06:03:18.432820+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
