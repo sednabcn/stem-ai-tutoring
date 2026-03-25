@@ -3,6 +3,16 @@
   "totalResults": 10,
   "articles": [
     {
+      "title": "Marvel Rivals confirmed for Nintendo Switch 2 - Nintendo Everything",
+      "source": {
+        "name": "Nintendoeverything.com"
+      },
+      "description": "It's now been officially confirmed that Marvel Rivals is on its way to Nintendo Switch 2, as shared ...",
+      "url": "https://nintendoeverything.com/marvel-rivals-confirmed-for-nintendo-switch-2/",
+      "publishedAt": "2026-03-24T20:15:00Z",
+      "processed_at": "2026-03-25T23:37:06.808343+00:00"
+    },
+    {
       "title": "Samsung says AirDrop support is enabled by default after all on Galaxy phones [U] - 9to5Google",
       "source": {
         "name": "9to5google.com"
@@ -10,17 +20,37 @@
       "description": "Samsung will officially start rolling out AirDrop support over Quick Share on Galaxy S26 devices thr...",
       "url": "http://9to5google.com/2026/03/24/samsung-galaxy-airdrop-disabled/",
       "publishedAt": "2026-03-24T19:23:02Z",
-      "processed_at": "2026-03-25T22:38:06.269666+00:00"
+      "processed_at": "2026-03-25T23:37:06.808343+00:00"
     },
     {
-      "title": "Apple releases iOS 26.4 with 8 new emoji and 12 more changes to your iPhone - 9to5Mac",
+      "title": "Apple releases iOS, iPadOS, macOS 26.4 with a long list of medium-size tweaks - Ars Technica",
+      "source": {
+        "name": "Ars Technica"
+      },
+      "description": "The 26.4 updates are more significant than the last few updates have been....",
+      "url": "https://arstechnica.com/gadgets/2026/03/apple-releases-ios-ipados-macos-26-4-with-a-long-list-of-medium-size-tweaks/",
+      "publishedAt": "2026-03-24T19:06:03Z",
+      "processed_at": "2026-03-25T23:37:06.808343+00:00"
+    },
+    {
+      "title": "Apple releases new updates for old versions of iOS, macOS, watchOS, more - 9to5Mac",
       "source": {
         "name": "9to5Mac"
       },
-      "description": "Apple has released iOS 26.4, bringing 13 enhancements to your iPhone. The new software update includ...",
-      "url": "https://9to5mac.com/2026/03/24/apple-releases-ios-26-4-with-8-new-emoji-and-12-more-changes-to-your-iphone/",
-      "publishedAt": "2026-03-24T18:03:00Z",
-      "processed_at": "2026-03-25T22:38:06.269666+00:00"
+      "description": "Apple debuted new software updates today for old iOS, macOS, iPadOS, and watchOS versions, including...",
+      "url": "https://9to5mac.com/2026/03/24/apple-releases-new-updates-for-old-versions-of-ios-macos-watchos-more/",
+      "publishedAt": "2026-03-24T18:40:00Z",
+      "processed_at": "2026-03-25T23:37:06.808343+00:00"
+    },
+    {
+      "title": "Crimson Desert sells another 1m, as Pearl Abyss pledges more fixes to address launch day struggles - Eurogamer",
+      "source": {
+        "name": "Eurogamer.net"
+      },
+      "description": "Crimson Desert has sold another 1m copies since Friday....",
+      "url": "https://www.eurogamer.net/crimson-desert-sells-another-1m-as-pearl-abyss-pledges-more-fixes",
+      "publishedAt": "2026-03-24T17:18:24Z",
+      "processed_at": "2026-03-25T23:37:06.808343+00:00"
     },
     {
       "title": "I Tried Some Games With Nvidia's DLSS 5. It's Controversial, Yes, But Also an Eyeful - PCMag",
@@ -30,7 +60,27 @@
       "description": "Is Nvidia's forthcoming DLSS 5, shown last week at GTC 2026, a game-ethics question mark? Is it spec...",
       "url": "https://www.pcmag.com/news/i-tried-games-with-nvidias-dlss-5-its-controversial-and-an-eyeful-gtc-2026",
       "publishedAt": "2026-03-24T16:44:06Z",
-      "processed_at": "2026-03-25T22:38:06.269666+00:00"
+      "processed_at": "2026-03-25T23:37:06.808343+00:00"
+    },
+    {
+      "title": "Google says Pixel Watch step counts and other stats are fixed, but your data won’t be - 9to5Google",
+      "source": {
+        "name": "9to5google.com"
+      },
+      "description": "Following a few days where Pixel Watch owners would run into wonky step counts and other stats, Goog...",
+      "url": "http://9to5google.com/2026/03/24/google-says-pixel-watch-step-counts-and-other-stats-are-fixed-but-your-data-wont-be/",
+      "publishedAt": "2026-03-24T16:40:00Z",
+      "processed_at": "2026-03-25T23:37:06.808343+00:00"
+    },
+    {
+      "title": "Epic Games to Lay Off 1,000 Staffers and Cut $500 Million in Costs Amid ‘Fortnite’ Downturn - Variety",
+      "source": {
+        "name": "Variety"
+      },
+      "description": "Epic Games will lay off 1,000 staffers and another $500 million in costs amid a slump in engagement ...",
+      "url": "https://variety.com/2026/gaming/news/epic-games-layoff-1000-fortnite-downturn-500-million-1236697837/",
+      "publishedAt": "2026-03-24T16:27:00Z",
+      "processed_at": "2026-03-25T23:37:06.808343+00:00"
     },
     {
       "title": "Play the Tiny Takeover drop - Minecraft",
@@ -40,70 +90,20 @@
       "description": "Tiny Takeover has officially stormed Minecraft! New versions of baby mobs are causing cuteness overl...",
       "url": "https://www.minecraft.net/en-us/article/play-the-tiny-takeover-drop",
       "publishedAt": "2026-03-24T16:02:08Z",
-      "processed_at": "2026-03-25T22:38:06.269666+00:00"
+      "processed_at": "2026-03-25T23:37:06.808343+00:00"
     },
     {
       "title": "New Xbox CEO Could Make Game Pass Less Expensive, Report Says - GameSpot",
       "source": {
         "name": "GameSpot"
       },
-      "description": "",
+      "description": "Asha Sharma is reportedly trying to make Xbox \"more enticing to a broader range of customers.\"...",
       "url": "https://www.gamespot.com/articles/new-xbox-ceo-could-make-game-pass-less-expensive-report-says/1100-6538978/",
       "publishedAt": "2026-03-24T16:01:20Z",
-      "processed_at": "2026-03-25T22:38:06.269666+00:00"
-    },
-    {
-      "title": "Claude Code can now take over your computer to complete tasks - Ars Technica",
-      "source": {
-        "name": "Ars Technica"
-      },
-      "description": "But Anthropic urges caution as \"research preview\" safeguards \"aren't absolute.\"...",
-      "url": "https://arstechnica.com/ai/2026/03/claude-code-can-now-take-over-your-computer-to-complete-tasks/",
-      "publishedAt": "2026-03-24T15:45:19Z",
-      "processed_at": "2026-03-25T22:38:06.269666+00:00"
-    },
-    {
-      "title": "Epic Games cuts 1,000 jobs, says Fortnite engagement is down - TechCrunch",
-      "source": {
-        "name": "TechCrunch"
-      },
-      "description": "Epic Games also increased the price of V-Bucks, the Fortnite in-game currency....",
-      "url": "https://techcrunch.com/2026/03/24/epic-games-cuts-1000-jobs-says-fortnite-engagement-is-down/",
-      "publishedAt": "2026-03-24T15:17:32Z",
-      "processed_at": "2026-03-25T22:38:06.269666+00:00"
-    },
-    {
-      "title": "Pokémon Champions Releases on Nintendo Switch and Nintendo Switch 2 on April 8, 2026 - Pokemon.com",
-      "source": {
-        "name": "Pokemon.com"
-      },
-      "description": "Take on Trainers from around the world and battle with recently discovered Mega-Evolved Pokémon....",
-      "url": "https://www.pokemon.com/us/pokemon-news/pokemon-champions-releases-on-nintendo-switch-and-nintendo-switch-2-on-april-8-2026",
-      "publishedAt": "2026-03-24T14:04:50Z",
-      "processed_at": "2026-03-25T22:38:06.269666+00:00"
-    },
-    {
-      "title": "Exclusive: Samsung Galaxy Z Fold 8 Official CAD Renders & Rumors - Android Headlines",
-      "source": {
-        "name": "Android Headlines"
-      },
-      "description": "This is the Samsung Galaxy Z Fold 8. After a pretty huge upgrade last year, for the Galaxy Z Fold 7,...",
-      "url": "https://www.androidheadlines.com/samsung-galaxy-z-fold-8",
-      "publishedAt": "2026-03-24T14:03:24Z",
-      "processed_at": "2026-03-25T22:38:06.269666+00:00"
-    },
-    {
-      "title": "‘Crimson Desert’ Reviews Go From 51% To 80% Positive In Four Days - Forbes",
-      "source": {
-        "name": "Forbes"
-      },
-      "description": "Crimson Desert reviews have flipped on their heads once players experienced more of the game and the...",
-      "url": "https://www.forbes.com/sites/paultassi/2026/03/24/crimson-desert-reviews-go-from-51-to-80-positive-in-four-days/",
-      "publishedAt": "2026-03-24T13:33:58Z",
-      "processed_at": "2026-03-25T22:38:06.269666+00:00"
+      "processed_at": "2026-03-25T23:37:06.808343+00:00"
     }
   ],
-  "lastUpdated": "2026-03-25T22:38:06.269741+00:00",
+  "lastUpdated": "2026-03-25T23:37:06.808410+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
