@@ -3,16 +3,6 @@
   "totalResults": 10,
   "articles": [
     {
-      "title": "'We Will Do It' — Marvel Rivals Dev Confirms Nintendo Switch 2 Version in the Works - IGN",
-      "source": {
-        "name": "IGN"
-      },
-      "description": "Marvel Rivals is officially coming to the Nintendo Switch 2, according to its developers in an inter...",
-      "url": "https://www.ign.com/articles/we-will-do-it-marvel-rivals-dev-confirms-nintendo-switch-2-version-in-the-works",
-      "publishedAt": "2026-03-24T22:27:56Z",
-      "processed_at": "2026-03-26T02:33:11.441043+00:00"
-    },
-    {
       "title": "Borderlands 4 March patch improves PC performance, native FPS up by 43% - VideoCardz.com",
       "source": {
         "name": "Videocardz.com"
@@ -20,7 +10,7 @@
       "description": "Borderlands 4 PC update cuts crashes and improves frame rates Gearbox has shared a new PC performanc...",
       "url": "https://videocardz.com/newz/borderlands-4-march-patch-improves-pc-performance-native-fps-up-by-43",
       "publishedAt": "2026-03-24T21:51:00Z",
-      "processed_at": "2026-03-26T02:33:11.441043+00:00"
+      "processed_at": "2026-03-26T05:07:39.434703+00:00"
     },
     {
       "title": "Sony’s new PSSR shares FSR Upscaling roots, but uses an INT8 implementation - VideoCardz.com",
@@ -30,7 +20,7 @@
       "description": "Mark Cerny says PS5 Pro’s new PSSR uses INT8 (like the leaked FSR4 for RDNA3/2) Mark Cerny has now g...",
       "url": "https://videocardz.com/newz/sonys-new-pssr-shares-fsr-upscaling-roots-but-uses-an-int8-implementation",
       "publishedAt": "2026-03-24T20:57:00Z",
-      "processed_at": "2026-03-26T02:33:11.441043+00:00"
+      "processed_at": "2026-03-26T05:07:39.434703+00:00"
     },
     {
       "title": "New ‘Marathon’ Sales, Playercount Reports Are Close To Reality - Forbes",
@@ -40,7 +30,7 @@
       "description": "New third-party estimates are in for Marathon sales and playercounts, and they are very close to the...",
       "url": "https://www.forbes.com/sites/paultassi/2026/03/24/new-marathon-sales-playercount-reports-are-close-to-reality/",
       "publishedAt": "2026-03-24T20:12:58Z",
-      "processed_at": "2026-03-26T02:33:11.441043+00:00"
+      "processed_at": "2026-03-26T05:07:39.434703+00:00"
     },
     {
       "title": "Samsung says AirDrop support is enabled by default after all on Galaxy phones [U] - 9to5Google",
@@ -50,7 +40,7 @@
       "description": "Samsung will officially start rolling out AirDrop support over Quick Share on Galaxy S26 devices thr...",
       "url": "http://9to5google.com/2026/03/24/samsung-galaxy-airdrop-disabled/",
       "publishedAt": "2026-03-24T19:23:02Z",
-      "processed_at": "2026-03-26T02:33:11.441043+00:00"
+      "processed_at": "2026-03-26T05:07:39.434703+00:00"
     },
     {
       "title": "Apple launches iOS 26.4 with AI playlists, purchase sharing, and more - The Verge",
@@ -60,7 +50,17 @@
       "description": "You can now ask Apple Music to generate a playlist based on a description....",
       "url": "https://www.theverge.com/tech/899799/apple-ios-26-4-ai-playlist-purchase-sharing-update",
       "publishedAt": "2026-03-24T19:22:29Z",
-      "processed_at": "2026-03-26T02:33:11.441043+00:00"
+      "processed_at": "2026-03-26T05:07:39.434703+00:00"
+    },
+    {
+      "title": "New Xbox Boss Has Considered 'Pricing Revamp' For Game Pass, Claims Report - Pure Xbox",
+      "source": {
+        "name": "Pure Xbox"
+      },
+      "description": "Involving lower-priced tiers and maybe even a partnership with Netflix...",
+      "url": "https://www.purexbox.com/news/2026/03/new-xbox-boss-has-considered-pricing-revamp-for-game-pass-claims-report",
+      "publishedAt": "2026-03-24T19:01:21Z",
+      "processed_at": "2026-03-26T05:07:39.434703+00:00"
     },
     {
       "title": "Apple Plans AI Reboot With Siri App, New Look and ‘Ask Siri’ Button in iOS 27 - Bloomberg.com",
@@ -70,7 +70,7 @@
       "description": "Apple Inc. is testing a standalone app for its Siri voice assistant alongside a new “Ask Siri” featu...",
       "url": "https://www.bloomberg.com/news/articles/2026-03-24/ios-27-features-apple-ai-reboot-with-siri-app-new-interface-ask-siri-button",
       "publishedAt": "2026-03-24T18:48:59Z",
-      "processed_at": "2026-03-26T02:33:11.441043+00:00"
+      "processed_at": "2026-03-26T05:07:39.434703+00:00"
     },
     {
       "title": "Apple releases new updates for old versions of iOS, macOS, watchOS, more - 9to5Mac",
@@ -80,7 +80,17 @@
       "description": "Apple debuted new software updates today for old iOS, macOS, iPadOS, and watchOS versions, including...",
       "url": "https://9to5mac.com/2026/03/24/apple-releases-new-updates-for-old-versions-of-ios-macos-watchos-more/",
       "publishedAt": "2026-03-24T18:40:00Z",
-      "processed_at": "2026-03-26T02:33:11.441043+00:00"
+      "processed_at": "2026-03-26T05:07:39.434703+00:00"
+    },
+    {
+      "title": "Firefox now has a free built-in VPN with 50GB monthly data limit - BleepingComputer",
+      "source": {
+        "name": "BleepingComputer"
+      },
+      "description": "Mozilla released Firefox 149 with added privacy protection through a built-in VPN tool offering up t...",
+      "url": "https://www.bleepingcomputer.com/news/security/firefox-now-has-a-free-built-in-vpn-with-50gb-monthly-data-limit/",
+      "publishedAt": "2026-03-24T17:23:01Z",
+      "processed_at": "2026-03-26T05:07:39.434703+00:00"
     },
     {
       "title": "Crimson Desert sells another 1m, as Pearl Abyss pledges more fixes to address launch day struggles - Eurogamer",
@@ -90,20 +100,10 @@
       "description": "Crimson Desert has sold another 1m copies since Friday....",
       "url": "https://www.eurogamer.net/crimson-desert-sells-another-1m-as-pearl-abyss-pledges-more-fixes",
       "publishedAt": "2026-03-24T17:18:24Z",
-      "processed_at": "2026-03-26T02:33:11.441043+00:00"
-    },
-    {
-      "title": "I Tried Some Games With Nvidia's DLSS 5. It's Controversial, Yes, But Also an Eyeful - PCMag",
-      "source": {
-        "name": "PCMag.com"
-      },
-      "description": "Is Nvidia's forthcoming DLSS 5, shown last week at GTC 2026, a game-ethics question mark? Is it spec...",
-      "url": "https://www.pcmag.com/news/i-tried-games-with-nvidias-dlss-5-its-controversial-and-an-eyeful-gtc-2026",
-      "publishedAt": "2026-03-24T16:44:06Z",
-      "processed_at": "2026-03-26T02:33:11.441043+00:00"
+      "processed_at": "2026-03-26T05:07:39.434703+00:00"
     }
   ],
-  "lastUpdated": "2026-03-26T02:33:11.441118+00:00",
+  "lastUpdated": "2026-03-26T05:07:39.434779+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
