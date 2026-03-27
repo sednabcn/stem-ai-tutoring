@@ -3,14 +3,44 @@
   "totalResults": 10,
   "articles": [
     {
-      "title": "Apple discontinues the Mac Pro with no plans for future hardware - 9to5Mac",
+      "title": "Apple Discontinues Mac Pro - MacRumors",
       "source": {
-        "name": "9to5Mac"
+        "name": "MacRumors"
       },
-      "description": "It’s the end of an era: Apple has confirmed to 9to5Mac that the Mac Pro is being discontinued. It ha...",
-      "url": "https://9to5mac.com/2026/03/26/apple-discontinues-the-mac-pro/",
-      "publishedAt": "2026-03-26T21:09:49Z",
-      "processed_at": "2026-03-27T22:34:45.473199+00:00"
+      "description": "Apple has discontinued the Mac Pro and has removed the machine from its website, reports 9to5Mac. Ap...",
+      "url": "https://www.macrumors.com/2026/03/26/apple-discontinues-mac-pro/",
+      "publishedAt": "2026-03-26T21:04:09Z",
+      "processed_at": "2026-03-27T23:34:56.294643+00:00"
+    },
+    {
+      "title": "Anker’s wireless charging pad offers Qi2 speeds for $15 - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "During Amazon’s Big Spring Sale, you can snag Anker’s Qi2 wireless charging pad that offers 15W spee...",
+      "url": "https://www.theverge.com/gadgets/901836/anker-qi2-wireless-charging-iphone-magsafe-amazon-big-spring-sale-2026-deal",
+      "publishedAt": "2026-03-26T21:00:00Z",
+      "processed_at": "2026-03-27T23:34:56.294643+00:00"
+    },
+    {
+      "title": "Ubisoft’s Cost-Cutting Crisis Could Put Its Biggest Games at Risk - Insider Gaming",
+      "source": {
+        "name": "Insider-gaming.com"
+      },
+      "description": "Ubisoft's cost cutting measures will lead us to getting worse games, with decreased scope and less q...",
+      "url": "https://insider-gaming.com/ubisofts-cost-cutting-measures-will-give-us-worse-games/",
+      "publishedAt": "2026-03-26T20:57:10Z",
+      "processed_at": "2026-03-27T23:34:56.294643+00:00"
+    },
+    {
+      "title": "Google Gemini Adds Tool to Make It Easier to Switch From ChatGPT - Bloomberg.com",
+      "source": {
+        "name": "Bloomberg"
+      },
+      "description": "Google released new tools for its Gemini artificial intelligence assistant that will let users uploa...",
+      "url": "https://www.bloomberg.com/news/articles/2026-03-26/google-gemini-adds-tool-to-make-it-easier-to-switch-from-chatgpt",
+      "publishedAt": "2026-03-26T20:24:29Z",
+      "processed_at": "2026-03-27T23:34:56.294643+00:00"
     },
     {
       "title": "Google rolling out Android 17 Beta 3 for Pixel - 9to5Google",
@@ -20,27 +50,47 @@
       "description": "Just under three weeks after the last release, Google is rolling out Android 17 Beta 3 for Pixel dev...",
       "url": "http://9to5google.com/2026/03/26/android-17-beta-3-pixel/",
       "publishedAt": "2026-03-26T20:18:49Z",
-      "processed_at": "2026-03-27T22:34:45.473199+00:00"
+      "processed_at": "2026-03-27T23:34:56.294643+00:00"
     },
     {
-      "title": "Gemini now lets you import chats and memory from other AI apps - 9to5Google",
+      "title": "Student Develops Clear Nail Polish That Turns Fingernails into Touchscreen Styluses - Indian Defence Review",
       "source": {
-        "name": "9to5google.com"
+        "name": "Indiandefencereview.com"
       },
-      "description": "Besides Gemini 3.1 Flash Live today, Google is rolling out the ability to import memory and chats in...",
-      "url": "http://9to5google.com/2026/03/26/gemini-import/",
-      "publishedAt": "2026-03-26T19:12:27Z",
-      "processed_at": "2026-03-27T22:34:45.473199+00:00"
+      "description": "A chemistry student’s groundbreaking nail polish may soon allow anyone, no matter their hand conditi...",
+      "url": "https://indiandefencereview.com/clear-nail-polish-fingernail-into-stylus/",
+      "publishedAt": "2026-03-26T20:15:00Z",
+      "processed_at": "2026-03-27T23:34:56.294643+00:00"
     },
     {
-      "title": "Apple Plans to Open Up Siri to Rival AI Assistants in iOS 27 Update - Bloomberg.com",
+      "title": "iOS 27: Apple will reportedly let Claude and other AI chatbot apps integrate with Siri - 9to5Mac",
       "source": {
-        "name": "Bloomberg"
+        "name": "9to5Mac"
       },
-      "description": "Apple Inc. plans to open Siri to outside artificial intelligence assistants, a major move aimed at b...",
-      "url": "https://www.bloomberg.com/news/articles/2026-03-26/apple-plans-to-open-up-siri-to-rival-ai-assistants-beyond-chatgpt-in-ios-27",
-      "publishedAt": "2026-03-26T18:06:20Z",
-      "processed_at": "2026-03-27T22:34:45.473199+00:00"
+      "description": "Apple will unveil iOS 27 on June 8 at WWDC, and we’re learning new details about what to expect in.....",
+      "url": "https://9to5mac.com/2026/03/26/ios-27-apple-will-reportedly-let-claude-and-other-ai-chatbot-apps-integrate-with-siri/",
+      "publishedAt": "2026-03-26T19:23:00Z",
+      "processed_at": "2026-03-27T23:34:56.294643+00:00"
+    },
+    {
+      "title": "Google Translate’s real-time headphone translations feature expands to iOS and more countries - TechCrunch",
+      "source": {
+        "name": "TechCrunch"
+      },
+      "description": "The real-time headphone translations experience keeps each speaker’s tone, emphasis, and cadence int...",
+      "url": "https://techcrunch.com/2026/03/26/google-translates-real-time-headphone-translations-feature-expands-to-ios-and-more-countries/",
+      "publishedAt": "2026-03-26T19:11:52Z",
+      "processed_at": "2026-03-27T23:34:56.294643+00:00"
+    },
+    {
+      "title": "\"Virtua Fighter Really Needs To Run At A Steady 60fps\" - Producer Seiji Aoki On Bringing An Iconic Series To Switch 2 - Nintendo Life",
+      "source": {
+        "name": "Nintendo Life"
+      },
+      "description": "\"I see this game as the foundational product for the future\"...",
+      "url": "https://www.nintendolife.com/features/virtua-fighter-really-needs-to-run-at-a-steady-60fps-producer-seiji-aoki-on-bringing-an-iconic-series-to-switch-2",
+      "publishedAt": "2026-03-26T18:00:00Z",
+      "processed_at": "2026-03-27T23:34:56.294643+00:00"
     },
     {
       "title": "Xbox’s latest games showcase had Hades 2, The Expanse, and Bluey - The Verge",
@@ -50,60 +100,10 @@
       "description": "At its Xbox Partner Preview livestream, Microsoft showed off a number of upcoming games, including t...",
       "url": "https://www.theverge.com/games/901384/xbox-partner-preview-games-news-trailers",
       "publishedAt": "2026-03-26T17:42:01Z",
-      "processed_at": "2026-03-27T22:34:45.473199+00:00"
-    },
-    {
-      "title": "Project Motor Racing free-to-play on PC - Traxion.GG",
-      "source": {
-        "name": "Traxion.gg"
-      },
-      "description": "The promotion means that those with a PC and Steam can play Project Motor Racing for no charge from ...",
-      "url": "https://traxion.gg/project-motor-racing-free-to-play-on-pc/",
-      "publishedAt": "2026-03-26T17:39:54Z",
-      "processed_at": "2026-03-27T22:34:45.473199+00:00"
-    },
-    {
-      "title": "Hades II Comes to Xbox Game Pass on April 14 – Here’s How It Builds on the Iconic Original - Xbox Wire",
-      "source": {
-        "name": "Xbox.com"
-      },
-      "description": "Hades II comes to Xbox (including Game Pass) on April 14, in its most complete form ever - find out ...",
-      "url": "https://news.xbox.com/en-us/2026/03/26/hades-2-xbox-partner-preview/",
-      "publishedAt": "2026-03-26T17:36:48Z",
-      "processed_at": "2026-03-27T22:34:45.473199+00:00"
-    },
-    {
-      "title": "Artificial Detective: Breaking Down the Gameplay Behind This Incredible Xbox Partner Preview Reveal - Xbox Wire",
-      "source": {
-        "name": "Xbox.com"
-      },
-      "description": "Artificial Detective puts you on the case of solving humanity’s disappearance. We spoke to its creat...",
-      "url": "https://news.xbox.com/en-us/2026/03/26/artificial-detective-xbox-partner-preview/",
-      "publishedAt": "2026-03-26T17:36:48Z",
-      "processed_at": "2026-03-27T22:34:45.473199+00:00"
-    },
-    {
-      "title": "My brief, weird time with the Samsung TriFold - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "$4000 and a ROM update later, the Galaxy Z TriFold we bought on eBay is up and running. But we’re st...",
-      "url": "https://www.theverge.com/tech/901525/samsung-galaxy-z-trifold-hands-on-singapore-rom",
-      "publishedAt": "2026-03-26T17:30:00Z",
-      "processed_at": "2026-03-27T22:34:45.473199+00:00"
-    },
-    {
-      "title": "S.T.A.L.K.E.R. 2: Cost of Hope – First Details About the Major Heart of Chornobyl Expansion - Xbox Wire",
-      "source": {
-        "name": "Xbox.com"
-      },
-      "description": "A massive new storyline, two new regions - including the Chornobyl Nuclear Power Plant - that can ta...",
-      "url": "https://news.xbox.com/en-us/2026/03/26/stalker-2-dlc-xbox-partner-preview/",
-      "publishedAt": "2026-03-26T17:21:45Z",
-      "processed_at": "2026-03-27T22:34:45.473199+00:00"
+      "processed_at": "2026-03-27T23:34:56.294643+00:00"
     }
   ],
-  "lastUpdated": "2026-03-27T22:34:45.473277+00:00",
+  "lastUpdated": "2026-03-27T23:34:56.294718+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
