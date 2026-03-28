@@ -1,7 +1,17 @@
 {
   "status": "success",
-  "totalResults": 10,
+  "totalResults": 9,
   "articles": [
+    {
+      "title": "Exclusive: Anthropic is testing 'Mythos' its 'most powerful AI model ever developed' - Fortune",
+      "source": {
+        "name": "Fortune"
+      },
+      "description": "Anthropic is testing 'Mythos,\" a previously undisclosed and highly-capable AI model, the company sai...",
+      "url": "https://fortune.com/2026/03/26/anthropic-says-testing-mythos-powerful-new-ai-model-after-data-leak-reveals-its-existence-step-change-in-capabilities/",
+      "publishedAt": "2026-03-27T03:27:00Z",
+      "processed_at": "2026-03-28T05:58:20.081103+00:00"
+    },
     {
       "title": "Devil May Cry 5 seemingly coming to Nintendo Switch 2, getting new Devil Hunter Edition - Nintendo Everything",
       "source": {
@@ -10,17 +20,17 @@
       "description": "Devil May Cry 5 has apparently been leaked for Nintendo Switch 2 with the console getting a new Devi...",
       "url": "https://nintendoeverything.com/devil-may-cry-5-seemingly-coming-to-nintendo-switch-2-getting-new-devil-hunter-edition/",
       "publishedAt": "2026-03-27T00:12:17Z",
-      "processed_at": "2026-03-28T04:54:23.799771+00:00"
+      "processed_at": "2026-03-28T05:58:20.081103+00:00"
     },
     {
-      "title": "You can now transfer your chats and personal information from other chatbots directly into Gemini - TechCrunch",
+      "title": "Android 17 Beta 3 starts adding more blur to system UI [Gallery] - 9to5Google",
       "source": {
-        "name": "TechCrunch"
+        "name": "9to5google.com"
       },
-      "description": "Google is launching \"switching tools\" that, just as it sounds, will make it easier for users of othe...",
-      "url": "https://techcrunch.com/2026/03/26/you-can-now-transfer-your-chats-and-personal-information-from-other-chatbots-directly-into-gemini/",
-      "publishedAt": "2026-03-26T23:47:56Z",
-      "processed_at": "2026-03-28T04:54:23.799771+00:00"
+      "description": "Android 16 introduced translucency to the notification shade and Quick Settings. As rumored, Android...",
+      "url": "http://9to5google.com/2026/03/26/android-17-background-blur/",
+      "publishedAt": "2026-03-26T23:52:56Z",
+      "processed_at": "2026-03-28T05:58:20.081103+00:00"
     },
     {
       "title": "Chernobyl Fungus Seems to Have Evolved an Incredible Ability - ScienceAlert",
@@ -30,7 +40,7 @@
       "description": "The Chernobyl exclusion zone may be off-limits to humans, but not to every form of life....",
       "url": "https://www.sciencealert.com/chernobyl-fungus-seems-to-have-evolved-an-incredible-ability",
       "publishedAt": "2026-03-26T22:27:37Z",
-      "processed_at": "2026-03-28T04:54:23.799771+00:00"
+      "processed_at": "2026-03-28T05:58:20.081103+00:00"
     },
     {
       "title": "Motorola’s next Razr Ultra is even thicker in first leak, and it makes me want to scream - 9to5Google",
@@ -40,17 +50,7 @@
       "description": "Motorola is making its next Razr Ultra even thicker than the last one, despite the trend of slimmer ...",
       "url": "http://9to5google.com/2026/03/26/motorola-razr-ultra-2026-first-leak-thicker-chassis/",
       "publishedAt": "2026-03-26T21:52:20Z",
-      "processed_at": "2026-03-28T04:54:23.799771+00:00"
-    },
-    {
-      "title": "Multitasking ‘Bubbles’ now live in Android 17 Beta 3 update - 9to5Google",
-      "source": {
-        "name": "9to5google.com"
-      },
-      "description": "It might be unfair to say that Android 17 Beta 3’s Bubbles are a new feature, but the premise has......",
-      "url": "http://9to5google.com/2026/03/26/android-17-beta-3-adds-bubbles/",
-      "publishedAt": "2026-03-26T21:43:00Z",
-      "processed_at": "2026-03-28T04:54:23.799771+00:00"
+      "processed_at": "2026-03-28T05:58:20.081103+00:00"
     },
     {
       "title": "Apple Discontinues Mac Pro Desktop in Favor of the Mac Studio - Bloomberg.com",
@@ -60,7 +60,7 @@
       "description": "Apple Inc. on Thursday discontinued the Mac Pro desktop, its highest-end computer aimed at video edi...",
       "url": "https://www.bloomberg.com/news/articles/2026-03-26/apple-discontinues-mac-pro-desktop-in-favor-of-the-mac-studio",
       "publishedAt": "2026-03-26T21:23:11Z",
-      "processed_at": "2026-03-28T04:54:23.799771+00:00"
+      "processed_at": "2026-03-28T05:58:20.081103+00:00"
     },
     {
       "title": "Anker’s wireless charging pad offers Qi2 speeds for $15 - The Verge",
@@ -70,7 +70,7 @@
       "description": "During Amazon’s Big Spring Sale, you can snag Anker’s Qi2 wireless charging pad that offers 15W spee...",
       "url": "https://www.theverge.com/gadgets/901836/anker-qi2-wireless-charging-iphone-magsafe-amazon-big-spring-sale-2026-deal",
       "publishedAt": "2026-03-26T21:00:00Z",
-      "processed_at": "2026-03-28T04:54:23.799771+00:00"
+      "processed_at": "2026-03-28T05:58:20.081103+00:00"
     },
     {
       "title": "Ubisoft’s Cost-Cutting Crisis Could Put Its Biggest Games at Risk - Insider Gaming",
@@ -80,7 +80,7 @@
       "description": "Ubisoft's cost cutting measures will lead us to getting worse games, with decreased scope and less q...",
       "url": "https://insider-gaming.com/ubisofts-cost-cutting-measures-will-give-us-worse-games/",
       "publishedAt": "2026-03-26T20:57:10Z",
-      "processed_at": "2026-03-28T04:54:23.799771+00:00"
+      "processed_at": "2026-03-28T05:58:20.081103+00:00"
     },
     {
       "title": "Student Develops Clear Nail Polish That Turns Fingernails into Touchscreen Styluses - Indian Defence Review",
@@ -90,20 +90,10 @@
       "description": "A chemistry student’s groundbreaking nail polish may soon allow anyone, no matter their hand conditi...",
       "url": "https://indiandefencereview.com/clear-nail-polish-fingernail-into-stylus/",
       "publishedAt": "2026-03-26T20:15:00Z",
-      "processed_at": "2026-03-28T04:54:23.799771+00:00"
-    },
-    {
-      "title": "Google Translate’s real-time headphone translations feature expands to iOS and more countries - TechCrunch",
-      "source": {
-        "name": "TechCrunch"
-      },
-      "description": "The real-time headphone translations experience keeps each speaker’s tone, emphasis, and cadence int...",
-      "url": "https://techcrunch.com/2026/03/26/google-translates-real-time-headphone-translations-feature-expands-to-ios-and-more-countries/",
-      "publishedAt": "2026-03-26T19:11:52Z",
-      "processed_at": "2026-03-28T04:54:23.799771+00:00"
+      "processed_at": "2026-03-28T05:58:20.081103+00:00"
     }
   ],
-  "lastUpdated": "2026-03-28T04:54:23.799849+00:00",
+  "lastUpdated": "2026-03-28T05:58:20.081172+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
