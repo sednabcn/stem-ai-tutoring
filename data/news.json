@@ -1,16 +1,16 @@
 {
   "status": "success",
-  "totalResults": 9,
+  "totalResults": 10,
   "articles": [
     {
-      "title": "Exclusive: Anthropic is testing 'Mythos' its 'most powerful AI model ever developed' - Fortune",
+      "title": "Exclusive: Anthropic left details of an unreleased model, an upcoming exclusive CEO event, in a public database - Fortune",
       "source": {
         "name": "Fortune"
       },
-      "description": "Anthropic is testing 'Mythos,\" a previously undisclosed and highly-capable AI model, the company sai...",
-      "url": "https://fortune.com/2026/03/26/anthropic-says-testing-mythos-powerful-new-ai-model-after-data-leak-reveals-its-existence-step-change-in-capabilities/",
-      "publishedAt": "2026-03-27T03:27:00Z",
-      "processed_at": "2026-03-28T05:58:20.081103+00:00"
+      "description": "Anthropic stored information about an upcoming model, draft blog posts, and other private informatio...",
+      "url": "https://fortune.com/2026/03/26/anthropic-leaked-unreleased-model-exclusive-event-security-issues-cybersecurity-unsecured-data-store/",
+      "publishedAt": "2026-03-27T03:25:00Z",
+      "processed_at": "2026-03-28T07:09:19.492852+00:00"
     },
     {
       "title": "Devil May Cry 5 seemingly coming to Nintendo Switch 2, getting new Devil Hunter Edition - Nintendo Everything",
@@ -20,7 +20,7 @@
       "description": "Devil May Cry 5 has apparently been leaked for Nintendo Switch 2 with the console getting a new Devi...",
       "url": "https://nintendoeverything.com/devil-may-cry-5-seemingly-coming-to-nintendo-switch-2-getting-new-devil-hunter-edition/",
       "publishedAt": "2026-03-27T00:12:17Z",
-      "processed_at": "2026-03-28T05:58:20.081103+00:00"
+      "processed_at": "2026-03-28T07:09:19.492852+00:00"
     },
     {
       "title": "Android 17 Beta 3 starts adding more blur to system UI [Gallery] - 9to5Google",
@@ -30,7 +30,7 @@
       "description": "Android 16 introduced translucency to the notification shade and Quick Settings. As rumored, Android...",
       "url": "http://9to5google.com/2026/03/26/android-17-background-blur/",
       "publishedAt": "2026-03-26T23:52:56Z",
-      "processed_at": "2026-03-28T05:58:20.081103+00:00"
+      "processed_at": "2026-03-28T07:09:19.492852+00:00"
     },
     {
       "title": "Chernobyl Fungus Seems to Have Evolved an Incredible Ability - ScienceAlert",
@@ -40,27 +40,17 @@
       "description": "The Chernobyl exclusion zone may be off-limits to humans, but not to every form of life....",
       "url": "https://www.sciencealert.com/chernobyl-fungus-seems-to-have-evolved-an-incredible-ability",
       "publishedAt": "2026-03-26T22:27:37Z",
-      "processed_at": "2026-03-28T05:58:20.081103+00:00"
+      "processed_at": "2026-03-28T07:09:19.492852+00:00"
     },
     {
-      "title": "Motorola’s next Razr Ultra is even thicker in first leak, and it makes me want to scream - 9to5Google",
+      "title": "Apple Confirms Mac Pro Is Dead, No Future Models Planned - MacRumors",
       "source": {
-        "name": "9to5google.com"
+        "name": "MacRumors"
       },
-      "description": "Motorola is making its next Razr Ultra even thicker than the last one, despite the trend of slimmer ...",
-      "url": "http://9to5google.com/2026/03/26/motorola-razr-ultra-2026-first-leak-thicker-chassis/",
-      "publishedAt": "2026-03-26T21:52:20Z",
-      "processed_at": "2026-03-28T05:58:20.081103+00:00"
-    },
-    {
-      "title": "Apple Discontinues Mac Pro Desktop in Favor of the Mac Studio - Bloomberg.com",
-      "source": {
-        "name": "Bloomberg"
-      },
-      "description": "Apple Inc. on Thursday discontinued the Mac Pro desktop, its highest-end computer aimed at video edi...",
-      "url": "https://www.bloomberg.com/news/articles/2026-03-26/apple-discontinues-mac-pro-desktop-in-favor-of-the-mac-studio",
-      "publishedAt": "2026-03-26T21:23:11Z",
-      "processed_at": "2026-03-28T05:58:20.081103+00:00"
+      "description": "Apple has discontinued the Mac Pro and has removed the machine from its website, reports 9to5Mac. Ap...",
+      "url": "https://www.macrumors.com/2026/03/26/apple-discontinues-mac-pro/",
+      "publishedAt": "2026-03-26T21:04:09Z",
+      "processed_at": "2026-03-28T07:09:19.492852+00:00"
     },
     {
       "title": "Anker’s wireless charging pad offers Qi2 speeds for $15 - The Verge",
@@ -70,7 +60,7 @@
       "description": "During Amazon’s Big Spring Sale, you can snag Anker’s Qi2 wireless charging pad that offers 15W spee...",
       "url": "https://www.theverge.com/gadgets/901836/anker-qi2-wireless-charging-iphone-magsafe-amazon-big-spring-sale-2026-deal",
       "publishedAt": "2026-03-26T21:00:00Z",
-      "processed_at": "2026-03-28T05:58:20.081103+00:00"
+      "processed_at": "2026-03-28T07:09:19.492852+00:00"
     },
     {
       "title": "Ubisoft’s Cost-Cutting Crisis Could Put Its Biggest Games at Risk - Insider Gaming",
@@ -80,7 +70,27 @@
       "description": "Ubisoft's cost cutting measures will lead us to getting worse games, with decreased scope and less q...",
       "url": "https://insider-gaming.com/ubisofts-cost-cutting-measures-will-give-us-worse-games/",
       "publishedAt": "2026-03-26T20:57:10Z",
-      "processed_at": "2026-03-28T05:58:20.081103+00:00"
+      "processed_at": "2026-03-28T07:09:19.492852+00:00"
+    },
+    {
+      "title": "Apple Plans to Open Up Siri to Rival AI Assistants in iOS 27 Update - Yahoo Finance",
+      "source": {
+        "name": "Yahoo Entertainment"
+      },
+      "description": "(Bloomberg) -- Apple Inc. plans to open Siri to outside artificial intelligence assistants, a major ...",
+      "url": "https://finance.yahoo.com/sectors/technology/articles/apple-plans-open-siri-rival-182447551.html",
+      "publishedAt": "2026-03-26T20:32:58Z",
+      "processed_at": "2026-03-28T07:09:19.492852+00:00"
+    },
+    {
+      "title": "Google Gemini Adds Tool to Make It Easier to Switch From ChatGPT - Bloomberg.com",
+      "source": {
+        "name": "Bloomberg"
+      },
+      "description": "Google released new tools for its Gemini artificial intelligence assistant that will let users uploa...",
+      "url": "https://www.bloomberg.com/news/articles/2026-03-26/google-gemini-adds-tool-to-make-it-easier-to-switch-from-chatgpt",
+      "publishedAt": "2026-03-26T20:24:29Z",
+      "processed_at": "2026-03-28T07:09:19.492852+00:00"
     },
     {
       "title": "Student Develops Clear Nail Polish That Turns Fingernails into Touchscreen Styluses - Indian Defence Review",
@@ -90,10 +100,10 @@
       "description": "A chemistry student’s groundbreaking nail polish may soon allow anyone, no matter their hand conditi...",
       "url": "https://indiandefencereview.com/clear-nail-polish-fingernail-into-stylus/",
       "publishedAt": "2026-03-26T20:15:00Z",
-      "processed_at": "2026-03-28T05:58:20.081103+00:00"
+      "processed_at": "2026-03-28T07:09:19.492852+00:00"
     }
   ],
-  "lastUpdated": "2026-03-28T05:58:20.081172+00:00",
+  "lastUpdated": "2026-03-28T07:09:19.492968+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
