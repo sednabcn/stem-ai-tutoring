@@ -1,26 +1,76 @@
 {
   "status": "success",
-  "totalResults": 9,
+  "totalResults": 10,
   "articles": [
     {
-      "title": "Android 17 Beta 3 reveals Google is testing a new 'Priority Charging' feature (APK teardown) - Android Authority",
+      "title": "PS5, PS5 Pro, and PlayStation Portal Price Rises Confirmed - IGN",
       "source": {
-        "name": "Android Authority"
+        "name": "IGN"
       },
-      "description": "Android 17 Beta 3 includes hidden code for a new \"Priority Charging\" feature that pauses background ...",
-      "url": "https://www.androidauthority.com/android-17-beta-3-priority-charging-3652492/",
-      "publishedAt": "2026-03-27T03:18:50Z",
-      "processed_at": "2026-03-28T10:34:23.346625+00:00"
+      "description": "Sony has announced price rises for PS5, PS5 Pro, and PlayStation Portal, blaming “continued pressure...",
+      "url": "https://www.ign.com/articles/sony-announces-price-rises-for-ps5-ps5-pro-and-playstation-portal-blames-continued-pressures-in-the-global-economic-landscape",
+      "publishedAt": "2026-03-27T12:25:18Z",
+      "processed_at": "2026-03-28T11:30:01.647232+00:00"
     },
     {
-      "title": "Devil May Cry 5 seemingly coming to Nintendo Switch 2, getting new Devil Hunter Edition - Nintendo Everything",
+      "title": "Saros has been made easier than Returnal due to player feedback, though creative director claims its still \"a very challenging game\" - Eurogamer",
       "source": {
-        "name": "Nintendoeverything.com"
+        "name": "Eurogamer.net"
       },
-      "description": "Devil May Cry 5 has apparently been leaked for Nintendo Switch 2 with the console getting a new Devi...",
-      "url": "https://nintendoeverything.com/devil-may-cry-5-seemingly-coming-to-nintendo-switch-2-getting-new-devil-hunter-edition/",
-      "publishedAt": "2026-03-27T00:12:17Z",
-      "processed_at": "2026-03-28T10:34:23.346625+00:00"
+      "description": "According to Saros' creative director, the game has been made easier thanks to player complaints aro...",
+      "url": "https://www.eurogamer.net/saros-made-easier-than-returnal-creative-director-claims-still-a-very-challenging-game",
+      "publishedAt": "2026-03-27T10:42:55Z",
+      "processed_at": "2026-03-28T11:30:01.647232+00:00"
+    },
+    {
+      "title": "Google employees have a new AI tool called 'Agent Smith'. It's so popular that access got restricted. - Business Insider",
+      "source": {
+        "name": "Business Insider"
+      },
+      "description": "Google employees are playing with Agent Smith, an autonomous coding agent, as cofounder Sergey Brin ...",
+      "url": "https://www.businessinsider.com/google-agent-smith-employees-ai-driven-coding-2026-3",
+      "publishedAt": "2026-03-27T10:00:00Z",
+      "processed_at": "2026-03-28T11:30:01.647232+00:00"
+    },
+    {
+      "title": "New Resident Evil Requiem patch adds highly-anticipated photo mode feature - Eurogamer",
+      "source": {
+        "name": "Eurogamer.net"
+      },
+      "description": "",
+      "url": "https://www.eurogamer.net/new-resident-evil-requiem-patch-adds-highly-anticipated-photo-mode-feature",
+      "publishedAt": "2026-03-27T09:00:19Z",
+      "processed_at": "2026-03-28T11:30:01.647232+00:00"
+    },
+    {
+      "title": "Android 17 Beta 3 starts adding more blur to system UI [Gallery] - 9to5Google",
+      "source": {
+        "name": "9to5google.com"
+      },
+      "description": "Android 16 introduced translucency to the notification shade and Quick Settings. As rumored, Android...",
+      "url": "http://9to5google.com/2026/03/26/android-17-background-blur/",
+      "publishedAt": "2026-03-26T23:52:56Z",
+      "processed_at": "2026-03-28T11:30:01.647232+00:00"
+    },
+    {
+      "title": "You can now transfer your chats and personal information from other chatbots directly into Gemini - TechCrunch",
+      "source": {
+        "name": "TechCrunch"
+      },
+      "description": "Google is launching \"switching tools\" that, just as it sounds, will make it easier for users of othe...",
+      "url": "https://techcrunch.com/2026/03/26/you-can-now-transfer-your-chats-and-personal-information-from-other-chatbots-directly-into-gemini/",
+      "publishedAt": "2026-03-26T23:47:56Z",
+      "processed_at": "2026-03-28T11:30:01.647232+00:00"
+    },
+    {
+      "title": "Google Translate Gets Gemini AI for Smarter Translations and Real-Time Headphone Translation - MacRumors",
+      "source": {
+        "name": "MacRumors"
+      },
+      "description": "Google is improving its translation features with Gemini integration, adding AI in search and the Go...",
+      "url": "https://www.macrumors.com/2026/03/26/google-translate-gemini-ai/",
+      "publishedAt": "2026-03-26T23:47:00Z",
+      "processed_at": "2026-03-28T11:30:01.647232+00:00"
     },
     {
       "title": "Chernobyl Fungus Seems to Have Evolved an Incredible Ability - ScienceAlert",
@@ -30,7 +80,7 @@
       "description": "The Chernobyl exclusion zone may be off-limits to humans, but not to every form of life....",
       "url": "https://www.sciencealert.com/chernobyl-fungus-seems-to-have-evolved-an-incredible-ability",
       "publishedAt": "2026-03-26T22:27:37Z",
-      "processed_at": "2026-03-28T10:34:23.346625+00:00"
+      "processed_at": "2026-03-28T11:30:01.647232+00:00"
     },
     {
       "title": "Windows 11 25H2/24H2 get 1000 Hz+ refresh rate support, File Explorer improvements, and more - Neowin",
@@ -40,7 +90,7 @@
       "description": "The March 2026 non-security update for Windows 11 is here with 1000Hz+ display refresh rate support,...",
       "url": "https://www.neowin.net/news/windows-11-25h224h2-get-1000-hz-refresh-rate-support-file-explorer-improvements-and-more/",
       "publishedAt": "2026-03-26T21:44:00Z",
-      "processed_at": "2026-03-28T10:34:23.346625+00:00"
+      "processed_at": "2026-03-28T11:30:01.647232+00:00"
     },
     {
       "title": "Apple Discontinues Mac Pro Desktop in Favor of the Mac Studio - Bloomberg.com",
@@ -50,50 +100,10 @@
       "description": "Apple Inc. on Thursday discontinued the Mac Pro desktop, its highest-end computer aimed at video edi...",
       "url": "https://www.bloomberg.com/news/articles/2026-03-26/apple-discontinues-mac-pro-desktop-in-favor-of-the-mac-studio",
       "publishedAt": "2026-03-26T21:23:11Z",
-      "processed_at": "2026-03-28T10:34:23.346625+00:00"
-    },
-    {
-      "title": "Anker’s wireless charging pad offers Qi2 speeds for $15 - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "During Amazon’s Big Spring Sale, you can snag Anker’s Qi2 wireless charging pad that offers 15W spee...",
-      "url": "https://www.theverge.com/gadgets/901836/anker-qi2-wireless-charging-iphone-magsafe-amazon-big-spring-sale-2026-deal",
-      "publishedAt": "2026-03-26T21:00:00Z",
-      "processed_at": "2026-03-28T10:34:23.346625+00:00"
-    },
-    {
-      "title": "Ubisoft’s Cost-Cutting Crisis Could Put Its Biggest Games at Risk - Insider Gaming",
-      "source": {
-        "name": "Insider-gaming.com"
-      },
-      "description": "Ubisoft's cost cutting measures will lead us to getting worse games, with decreased scope and less q...",
-      "url": "https://insider-gaming.com/ubisofts-cost-cutting-measures-will-give-us-worse-games/",
-      "publishedAt": "2026-03-26T20:57:10Z",
-      "processed_at": "2026-03-28T10:34:23.346625+00:00"
-    },
-    {
-      "title": "Student Develops Clear Nail Polish That Turns Fingernails into Touchscreen Styluses - Indian Defence Review",
-      "source": {
-        "name": "Indiandefencereview.com"
-      },
-      "description": "A chemistry student’s groundbreaking nail polish may soon allow anyone, no matter their hand conditi...",
-      "url": "https://indiandefencereview.com/clear-nail-polish-fingernail-into-stylus/",
-      "publishedAt": "2026-03-26T20:15:00Z",
-      "processed_at": "2026-03-28T10:34:23.346625+00:00"
-    },
-    {
-      "title": "'Come Back for the Adventure' — After a Turbulent 6 Months, Borderlands 4 Gets Its First Big DLC, and Gearbox Hopes Lapsed Fans Return for It - IGN",
-      "source": {
-        "name": "IGN"
-      },
-      "description": "IGN interviews Gearbox on Borderlands 4's first Story Pack DLC: Mad Ellie and the Vault of the Damne...",
-      "url": "https://www.ign.com/articles/come-back-for-the-adventure-after-a-turbulent-6-months-borderlands-4-gets-its-first-big-dlc-and-gearbox-hopes-lapsed-fans-return-for-it",
-      "publishedAt": "2026-03-26T20:00:03Z",
-      "processed_at": "2026-03-28T10:34:23.346625+00:00"
+      "processed_at": "2026-03-28T11:30:01.647232+00:00"
     }
   ],
-  "lastUpdated": "2026-03-28T10:34:23.346691+00:00",
+  "lastUpdated": "2026-03-28T11:30:01.647296+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
