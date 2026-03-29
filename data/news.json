@@ -1,27 +1,7 @@
 {
   "status": "success",
-  "totalResults": 10,
+  "totalResults": 9,
   "articles": [
-    {
-      "title": "Video: Super Mario Bros. Wonder Side-By-Side Graphics Comparison (Switch & Switch 2) - Nintendo Life",
-      "source": {
-        "name": "Nintendo Life"
-      },
-      "description": "Spot the difference...",
-      "url": "https://www.nintendolife.com/news/2026/03/video-super-mario-bros-wonder-side-by-side-graphics-comparison-switch-and-switch-2",
-      "publishedAt": "2026-03-28T02:00:00Z",
-      "processed_at": "2026-03-29T05:12:10.450578+00:00"
-    },
-    {
-      "title": "Sony temporarily suspends memory card sales due to shortages - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "﻿Sony Japan stopped accepting SD and CFexpress card orders from dealers and consumers today....",
-      "url": "https://www.theverge.com/tech/902828/sony-sd-cfexpress-memory-card-shortage",
-      "publishedAt": "2026-03-27T22:21:11Z",
-      "processed_at": "2026-03-29T05:12:10.450578+00:00"
-    },
     {
       "title": "Playing Wolfenstein 3D with one hand in 2026 - Ars Technica",
       "source": {
@@ -30,7 +10,37 @@
       "description": "Over three decades later, this historical curiosity has more than a few rough edges......",
       "url": "https://arstechnica.com/gaming/2026/03/playing-wolfenstein-3d-with-one-hand-in-2026/",
       "publishedAt": "2026-03-27T22:09:00Z",
-      "processed_at": "2026-03-29T05:12:10.450578+00:00"
+      "processed_at": "2026-03-29T07:06:40.774345+00:00"
+    },
+    {
+      "title": "Microsoft plans to build 100% native apps for Windows 11, as web apps ruin the OS experience - Windows Latest",
+      "source": {
+        "name": "WindowsLatest"
+      },
+      "description": "Microsoft has confirmed it will build 100% native apps for Windows 11 and form a new team to spearhe...",
+      "url": "https://www.windowslatest.com/2026/03/28/microsoft-plans-to-build-100-native-apps-for-windows-11-as-web-apps-ruin-the-os-experience/",
+      "publishedAt": "2026-03-27T20:54:51Z",
+      "processed_at": "2026-03-29T07:06:40.774345+00:00"
+    },
+    {
+      "title": "Android 17 Could Introduce “Priority Charging” Feature - droid-life.com",
+      "source": {
+        "name": "Droid Life"
+      },
+      "description": "Android 17 Beta 3 is packed with new features, some of which are hidden. Priority Charging is one th...",
+      "url": "https://www.droid-life.com/2026/03/27/android-17-priority-charging-feature/",
+      "publishedAt": "2026-03-27T20:25:17Z",
+      "processed_at": "2026-03-29T07:06:40.774345+00:00"
+    },
+    {
+      "title": "Gemini redesigning glow on Android, rolls out free Personal Intelligence & Memory - 9to5Google",
+      "source": {
+        "name": "9to5google.com"
+      },
+      "description": "Google has a few other Gemini app updates, starting with Personal Intelligence seeing wide US availa...",
+      "url": "http://9to5google.com/2026/03/27/gemini-free-personal-intelligence-rollout/",
+      "publishedAt": "2026-03-27T19:45:39Z",
+      "processed_at": "2026-03-29T07:06:40.774345+00:00"
     },
     {
       "title": "Microsoft Issues Statement On Why 'This Is An Xbox' Campaign Has Been Retired - purexbox.com",
@@ -40,17 +50,7 @@
       "description": "MS spokesperson confirms it's been nixed by the new Xbox boss...",
       "url": "https://www.purexbox.com/news/2026/03/microsoft-issues-statement-on-why-this-is-an-xbox-campaign-has-been-retired",
       "publishedAt": "2026-03-27T19:20:28Z",
-      "processed_at": "2026-03-29T05:12:10.450578+00:00"
-    },
-    {
-      "title": "Slay The Spire 2 Reverts Controversial Nerf As Devs Get More Detailed About What’s Changing And Why - Kotaku",
-      "source": {
-        "name": "Kotaku"
-      },
-      "description": "Developer Mega Crit specifically stated that the in-game feedback tool, and not the review bombing o...",
-      "url": "https://kotaku.com/slay-spire-2-patch-notes-nerf-infinite-combo-silent-2000682645",
-      "publishedAt": "2026-03-27T19:10:35Z",
-      "processed_at": "2026-03-29T05:12:10.450578+00:00"
+      "processed_at": "2026-03-29T07:06:40.774345+00:00"
     },
     {
       "title": "Anker’s 160W Prime Charger can power three devices at once, and it’s $50 off - The Verge",
@@ -60,7 +60,7 @@
       "description": "Anker’s 160W Prime Charger is down to $99.99 for Amazon’s Big Spring Sale. The USB-C charger can pow...",
       "url": "https://www.theverge.com/gadgets/902130/anker-prime-charger-160w-usb-c-amazon-big-spring-sale-2026-deal",
       "publishedAt": "2026-03-27T18:30:00Z",
-      "processed_at": "2026-03-29T05:12:10.450578+00:00"
+      "processed_at": "2026-03-29T07:06:40.774345+00:00"
     },
     {
       "title": "Which tiny will take over? - Minecraft",
@@ -70,7 +70,7 @@
       "description": "Take on the first of two challenges in the Tiny Takeover drop and earn adorable rewards together! Ch...",
       "url": "https://www.minecraft.net/en-us/article/which-tiny-will-take-over-",
       "publishedAt": "2026-03-27T18:15:02Z",
-      "processed_at": "2026-03-29T05:12:10.450578+00:00"
+      "processed_at": "2026-03-29T07:06:40.774345+00:00"
     },
     {
       "title": "It Sucks to Work in the Video-Game Industry Right Now - Bloomberg.com",
@@ -80,30 +80,20 @@
       "description": "Even developers who successfully release big hits, like Fortnite and Battlefield , are losing their ...",
       "url": "https://www.bloomberg.com/news/newsletters/2026-03-27/epic-layoffs-are-a-symptom-of-deeper-video-game-industry-problems",
       "publishedAt": "2026-03-27T17:00:01Z",
-      "processed_at": "2026-03-29T05:12:10.450578+00:00"
+      "processed_at": "2026-03-29T07:06:40.774345+00:00"
     },
     {
-      "title": "All-new Star Fox and Zelda: Ocarina of Time remake reportedly set for Switch 2 release this year - Eurogamer",
+      "title": "Slay the Spire 2's 'anti-infinite' balance patch has now itself been patched, much to the relief of some Silent and Necrobinder players - Rock Paper Shotgun",
       "source": {
-        "name": "Eurogamer.net"
+        "name": "Rock Paper Shotgun"
       },
-      "description": "Nintendo reportedly has great plans to tap into (and benefit from) our nostalgia this year....",
-      "url": "https://www.eurogamer.net/all-new-star-fox-and-zelda-ocarina-of-time-remake-reportedly-set-for-switch-2-release-this-year",
-      "publishedAt": "2026-03-27T16:31:15Z",
-      "processed_at": "2026-03-29T05:12:10.450578+00:00"
-    },
-    {
-      "title": "Don't worry, Dispatch isn't going to be censored on Xbox - Eurogamer",
-      "source": {
-        "name": "Eurogamer.net"
-      },
-      "description": "Dispatch won't be censored by default on Xbox, AdHoc has confirmed....",
-      "url": "https://www.eurogamer.net/dont-worry-dispatch-isnt-going-to-be-censored-on-xbox",
-      "publishedAt": "2026-03-27T16:22:55Z",
-      "processed_at": "2026-03-29T05:12:10.450578+00:00"
+      "description": "Mega Crit have reverted some of the Slay the Spire 2 beta card nerfs that made Silent and Necrobinde...",
+      "url": "https://www.rockpapershotgun.com/slay-the-spire-2s-anti-infinite-balance-patch-has-now-itself-been-patched-much-to-the-relief-of-some-silent-and-necrobinder-players",
+      "publishedAt": "2026-03-27T16:41:15Z",
+      "processed_at": "2026-03-29T07:06:40.774345+00:00"
     }
   ],
-  "lastUpdated": "2026-03-29T05:12:10.450649+00:00",
+  "lastUpdated": "2026-03-29T07:06:40.774409+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
