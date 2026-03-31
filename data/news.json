@@ -1,7 +1,27 @@
 {
   "status": "success",
-  "totalResults": 9,
+  "totalResults": 10,
   "articles": [
+    {
+      "title": "Amazon Spring Sale TV Deals 2026: Best Prices on OLED, 4K and Smart TVs - CNET",
+      "source": {
+        "name": "CNET"
+      },
+      "description": "From budget buys to premium OLEDs, we've picked the top deals across brands....",
+      "url": "https://www.cnet.com/deals/amazon-spring-sale-tv-deals-2026-3-29/",
+      "publishedAt": "2026-03-30T08:14:31Z",
+      "processed_at": "2026-03-31T10:54:31.664121+00:00"
+    },
+    {
+      "title": "GACHIAKUTA: The Game ‘Combat’ trailers – Enjin, Riyo, Rudo, and Zanka - Gematsu",
+      "source": {
+        "name": "Gematsu"
+      },
+      "description": "Com2uS has released a series of “Combat” trailers for action RPG GACHIAKUTA: The Game, showcasing pl...",
+      "url": "https://www.gematsu.com/2026/03/gachiakuta-the-game-combat-trailers-enjin-riyo-rudo-and-zanka",
+      "publishedAt": "2026-03-30T03:15:55Z",
+      "processed_at": "2026-03-31T10:54:31.664121+00:00"
+    },
     {
       "title": "YouTube adds Android Auto support for background play controls - 9to5Google",
       "source": {
@@ -10,7 +30,17 @@
       "description": "YouTube for Android is rolling out support for Android Auto but, before you get too excited, keep in...",
       "url": "http://9to5google.com/2026/03/29/youtube-android-auto-controls-support/",
       "publishedAt": "2026-03-29T23:50:00Z",
-      "processed_at": "2026-03-31T09:02:37.405920+00:00"
+      "processed_at": "2026-03-31T10:54:31.664121+00:00"
+    },
+    {
+      "title": "I changed 3 settings in Plex and my streams immediately stopped buffering - MakeUseOf",
+      "source": {
+        "name": "MakeUseOf"
+      },
+      "description": "Adjusting a few default settings can transform your Plex experience, by making streaming smoother an...",
+      "url": "https://www.makeuseof.com/i-changed-3-settings-plex-streams-immediately-stopped-buffering/",
+      "publishedAt": "2026-03-29T23:00:17Z",
+      "processed_at": "2026-03-31T10:54:31.664121+00:00"
     },
     {
       "title": "Vibe coding could mark the end of the App Store review process as we know it - 9to5Mac",
@@ -20,7 +50,7 @@
       "description": "Toward the tail end of last year, agentic coding (otherwise known as vibe coding) truly took off. Wi...",
       "url": "https://9to5mac.com/2026/03/29/vibe-coding-developers-report-long-app-store-review-queues/",
       "publishedAt": "2026-03-29T22:46:00Z",
-      "processed_at": "2026-03-31T09:02:37.405920+00:00"
+      "processed_at": "2026-03-31T10:54:31.664121+00:00"
     },
     {
       "title": "Pay $16 to make the internet a little less annoying - Mashable",
@@ -30,17 +60,17 @@
       "description": "Clean up your browsing across every screen....",
       "url": "https://mashable.com/article/march-29-adguard-family-plan-lifetime-subscription",
       "publishedAt": "2026-03-29T22:14:17Z",
-      "processed_at": "2026-03-31T09:02:37.405920+00:00"
+      "processed_at": "2026-03-31T10:54:31.664121+00:00"
     },
     {
-      "title": "'We're in It for the Long Haul': Bungie Rejects Rumours It Could Move on from Marathon After Unremarkable PS5 Sales - Push Square",
+      "title": "Bluesky’s new app is an AI for customizing your feed - The Verge",
       "source": {
-        "name": "Push Square"
+        "name": "The Verge"
       },
-      "description": "It's aiming for a Marathon...",
-      "url": "https://www.pushsquare.com/news/2026/03/were-in-it-for-the-long-haul-bungie-rejects-rumours-it-could-move-on-from-marathon-after-unremarkable-ps5-sales",
-      "publishedAt": "2026-03-29T21:45:00Z",
-      "processed_at": "2026-03-31T09:02:37.405920+00:00"
+      "description": "Eventually Attie will be able to vibe code entire apps for the AT Protocol....",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/903190/bluesky-attie-ai-custom-feeds",
+      "publishedAt": "2026-03-29T21:44:41Z",
+      "processed_at": "2026-03-31T10:54:31.664121+00:00"
     },
     {
       "title": "The Pixel 10a doesn’t have a camera bump, and it’s great - TechCrunch",
@@ -50,7 +80,7 @@
       "description": "The Google Pixel 10a can lay flat on a table, but otherwise the company hasn't brought a ton of upgr...",
       "url": "https://techcrunch.com/2026/03/29/google-pixel-10a-review-camera-bump-performance-ai-chip/",
       "publishedAt": "2026-03-29T21:30:00Z",
-      "processed_at": "2026-03-31T09:02:37.405920+00:00"
+      "processed_at": "2026-03-31T10:54:31.664121+00:00"
     },
     {
       "title": "Tetsuya Nomura posts new art for Kingdom Hearts 24th anniversary - My Nintendo News",
@@ -60,7 +90,7 @@
       "description": "The revered Tetsuya Nomura has uploaded some new Kingdom Hearts-inspired artwork to celebrate the fa...",
       "url": "https://mynintendonews.com/2026/03/29/tetsuya-nomura-posts-new-art-for-kingdom-hearts-24th-anniversary/",
       "publishedAt": "2026-03-29T20:21:28Z",
-      "processed_at": "2026-03-31T09:02:37.405920+00:00"
+      "processed_at": "2026-03-31T10:54:31.664121+00:00"
     },
     {
       "title": "Even the ‘Avatar’ Fighting Game Is Disrespecting ‘Legend of Korra’ - Gizmodo",
@@ -70,30 +100,10 @@
       "description": "The roster for 'Avatar Legends' doesn't play favorites, but at launch, it doesn't really care for 'L...",
       "url": "https://gizmodo.com/even-the-avatar-fighting-game-is-disrespecting-legend-of-korra-2000739485",
       "publishedAt": "2026-03-29T20:15:34Z",
-      "processed_at": "2026-03-31T09:02:37.405920+00:00"
-    },
-    {
-      "title": "Why iPad's Magic Keyboard Has A USB-C Port – And When To Use It - bgr.com",
-      "source": {
-        "name": "BGR"
-      },
-      "description": "Apple's Magic Keyboard is a handy accessory for leveling up your iPad and it comes with a built-in U...",
-      "url": "https://www.bgr.com/2130935/why-ipad-magic-keyboard-has-usb-c-port-when-to-use/",
-      "publishedAt": "2026-03-29T19:47:00Z",
-      "processed_at": "2026-03-31T09:02:37.405920+00:00"
-    },
-    {
-      "title": "4 Devices Your DualSense Controller Can Connect To (Other Than Your PlayStation 5) - bgr.com",
-      "source": {
-        "name": "BGR"
-      },
-      "description": "Your DualSense can connect to PCs, Macs, mobile devices, smart TVs, and the Steam Deck. Here's how t...",
-      "url": "https://www.bgr.com/2130928/devices-your-ps5-controller-can-connect-to/",
-      "publishedAt": "2026-03-29T19:17:00Z",
-      "processed_at": "2026-03-31T09:02:37.405920+00:00"
+      "processed_at": "2026-03-31T10:54:31.664121+00:00"
     }
   ],
-  "lastUpdated": "2026-03-31T09:02:37.406030+00:00",
+  "lastUpdated": "2026-03-31T10:54:31.664195+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
