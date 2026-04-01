@@ -3,14 +3,44 @@
   "totalResults": 10,
   "articles": [
     {
-      "title": "Minecraft 26.1.1 Release Candidate 1 - Minecraft",
+      "title": "'Rib remodeling' is a new plastic surgery trend. How did we get here? - USA Today",
+      "source": {
+        "name": "USA Today"
+      },
+      "description": "'Rib remodeling' is a relatively new plastic surgery trend that's picking up steam. How did we get h...",
+      "url": "https://www.usatoday.com/story/life/health-wellness/2026/03/31/rib-remodeling-plastic-surgery-trend/89392366007/",
+      "publishedAt": "2026-03-31T16:02:00Z",
+      "processed_at": "2026-04-01T19:04:49.456569+00:00"
+    },
+    {
+      "title": "The best headphones for flying, according to our frequent-flyer editors - CNN",
+      "source": {
+        "name": "CNN"
+      },
+      "description": "Frequent flyers know great headphones aren’t optional; they’re essential. With more than 200,000 mil...",
+      "url": "https://www.cnn.com/cnn-underscored/travel/editors-favorite-headphones-for-flying-2026",
+      "publishedAt": "2026-03-31T16:00:00Z",
+      "processed_at": "2026-04-01T19:04:49.456569+00:00"
+    },
+    {
+      "title": "Bedrock Edition 26.20.23 Preview Changelog - Minecraft",
       "source": {
         "name": "Minecraft.net"
       },
-      "description": "Minecraft 26.1.1 Release Candidate 1...",
-      "url": "https://www.minecraft.net/en-us/article/minecraft-26-1-1-release-candidate-1",
+      "description": "Minecraft: Bedrock Edition 26.20.23 Preview Changelog...",
+      "url": "https://www.minecraft.net/en-us/article/minecraft-preview-26-20-23",
       "publishedAt": "2026-03-31T15:55:26Z",
-      "processed_at": "2026-04-01T17:55:16.729243+00:00"
+      "processed_at": "2026-04-01T19:04:49.456569+00:00"
+    },
+    {
+      "title": "Epic Games CEO Tim Sweeney apologises and seemingly rectifies life insurance situation of laid off worker with terminal brain cancer - Eurogamer.net",
+      "source": {
+        "name": "Eurogamer.net"
+      },
+      "description": "Tim Sweeney, CEO of Epic Games, has responded online to messages about an ex-employee with terminal ...",
+      "url": "https://www.eurogamer.net/epic-games-ceo-tim-sweeney-responds-after-fortnite-layoffs-include-worker-with-brain-cancer",
+      "publishedAt": "2026-03-31T15:22:52Z",
+      "processed_at": "2026-04-01T19:04:49.456569+00:00"
     },
     {
       "title": "Pixel 11 Pro leaks with the all-glass camera bar and thinner body, but same design [Gallery] - 9to5Google",
@@ -20,90 +50,60 @@
       "description": "Right on schedule following yesterday’s Pixel 11 leak, the Pixel 11 Pro has shown up in leaked rende...",
       "url": "http://9to5google.com/2026/03/31/google-pixel-11-pro-thinner-same-design-leak/",
       "publishedAt": "2026-03-31T15:05:00Z",
-      "processed_at": "2026-04-01T17:55:16.729243+00:00"
+      "processed_at": "2026-04-01T19:04:49.456569+00:00"
     },
     {
-      "title": "NVIDIA launches DLSS 4.5 Dynamic Multi Frame Generation and 6X mode through app beta - VideoCardz.com",
+      "title": "Evercade Nexus Has A Better Screen, Dual Analog, Banjo, And Nintendo's Most Consumer-Friendly Feature - Time Extension",
       "source": {
-        "name": "Videocardz.com"
+        "name": "Timeextension.com"
       },
-      "description": "NVIDIA adds even more AI frames NVIDIA has started rolling out DLSS 4.5 Dynamic Multi Frame Generati...",
-      "url": "https://videocardz.com/newz/nvidia-launches-dlss-4-5-dynamic-multi-frame-generation-and-6x-mode-through-app-beta",
-      "publishedAt": "2026-03-31T13:09:00Z",
-      "processed_at": "2026-04-01T17:55:16.729243+00:00"
+      "description": "\"The best Evercade handheld experience that is available\"...",
+      "url": "https://www.timeextension.com/news/2026/03/evercade-nexus-has-a-better-screen-dual-analog-banjo-and-nintendos-most-consumer-friendly-feature",
+      "publishedAt": "2026-03-31T15:00:00Z",
+      "processed_at": "2026-04-01T19:04:49.456569+00:00"
     },
     {
-      "title": "Xbox and Fanta Team Up for a Special-Edition Collection - With Prizes and In-Game Rewards to be Claimed - Xbox Wire",
+      "title": "‘Marathon’ Earned Its Recent Review Scores, Which Shouldn’t Be Controversial - Forbes",
       "source": {
-        "name": "Xbox.com"
+        "name": "Forbes"
       },
-      "description": "To celebrate Xbox’s 25th anniversary, Xbox and Fanta have partnered to launch a delicious special-ed...",
-      "url": "https://news.xbox.com/en-us/2026/03/31/xbox-fanta-collaboration-prizes-rewards/",
-      "publishedAt": "2026-03-31T13:00:05Z",
-      "processed_at": "2026-04-01T17:55:16.729243+00:00"
+      "description": "Marathon is getting a number of great review scores lately, which is the subject of some controversy...",
+      "url": "https://www.forbes.com/sites/paultassi/2026/03/31/marathon-earned-its-recent-review-scores-which-shouldnt-be-controversial/",
+      "publishedAt": "2026-03-31T14:56:47Z",
+      "processed_at": "2026-04-01T19:04:49.456569+00:00"
     },
     {
-      "title": "Nintendo Will Be \"Absolutely Furious\" About Latest Leaks, Says Former PR Manager - Nintendo Life",
+      "title": "EXCLUSIVE: Eidos Montreal Cancels 7+ Year In-Development Title That Cost Hundreds of Millions - Insider Gaming",
       "source": {
-        "name": "Nintendo Life"
+        "name": "Insider-gaming.com"
       },
-      "description": "Huge claims have been made about Nintendo's 2026/7 plans...",
-      "url": "https://www.nintendolife.com/news/2026/03/nintendo-will-be-absolutely-furious-about-latest-leaks-says-former-pr-manager",
-      "publishedAt": "2026-03-31T12:45:00Z",
-      "processed_at": "2026-04-01T17:55:16.729243+00:00"
+      "description": "Yesterday's Eidos Montreal layoffs were due to the cancellation of Wildlands, a game that had been i...",
+      "url": "https://insider-gaming.com/eidos-montreal-wildlands-cancellation/",
+      "publishedAt": "2026-03-31T14:47:28Z",
+      "processed_at": "2026-04-01T19:04:49.456569+00:00"
     },
     {
-      "title": "Google finally lets you ditch that embarrassing old Gmail username, here's how to do it - Android Authority",
+      "title": "Price Hike or Discount? Nintendo's Changes to Physical and Digital Game Pricing Have Analysts Split, Too - ign.com",
       "source": {
-        "name": "Android Authority"
+        "name": "IGN"
       },
-      "description": "Google is widely rolling out the ability to change your Google Account username in the US. Here is h...",
-      "url": "https://www.androidauthority.com/change-google-account-gmail-username-usa-rollout-3653478/",
-      "publishedAt": "2026-03-31T11:12:55Z",
-      "processed_at": "2026-04-01T17:55:16.729243+00:00"
+      "description": "Nintendo games are about to get more expensive. Or less. Depending on whether or not you want a phys...",
+      "url": "https://www.ign.com/articles/price-hike-or-discount-nintendos-changes-to-physical-and-digital-game-pricing-have-analysts-split-too",
+      "publishedAt": "2026-03-31T14:42:54Z",
+      "processed_at": "2026-04-01T19:04:49.456569+00:00"
     },
     {
-      "title": "Apple at 50: a visual history - The Verge",
+      "title": "Hit the Gravy Train by Completing Trader Sales in Red Dead Online - rockstargames.com",
       "source": {
-        "name": "The Verge"
+        "name": "Rockstargames.com"
       },
-      "description": "Bondi Blue iMacs, block-long iPhone lines, and other moments from the company’s first 50 years....",
-      "url": "https://www.theverge.com/tech/901418/apple-history-photos",
-      "publishedAt": "2026-03-31T11:00:00Z",
-      "processed_at": "2026-04-01T17:55:16.729243+00:00"
-    },
-    {
-      "title": "Yes, Shigeru Miyamoto has heard the Star Fox \"amputation\" theory and he thinks it's \"nuts\" - GoNintendo",
-      "source": {
-        "name": "GoNintendo"
-      },
-      "description": "You don't have a leg to stand on...",
-      "url": "https://www.gonintendo.com/contents/59391-yes-shigeru-miyamoto-has-heard-the-star-fox-amputation-theory-and-he-thinks-it-s",
-      "publishedAt": "2026-03-31T10:01:37Z",
-      "processed_at": "2026-04-01T17:55:16.729243+00:00"
-    },
-    {
-      "title": "Flashpoint - Patch Notes 1.22.0 - ARC Raiders",
-      "source": {
-        "name": "Arcraiders.com"
-      },
-      "description": "ARC Raiders is a multiplayer extraction adventure, set in a lethal future earth, ravaged by a myster...",
-      "url": "https://arcraiders.com/news/patch-notes-1-22-0",
-      "publishedAt": "2026-03-31T09:11:15Z",
-      "processed_at": "2026-04-01T17:55:16.729243+00:00"
-    },
-    {
-      "title": "Amazon Big Spring Sale: Last chance for 150+ best-ever prices on Apple, Sony headphones, more - Mashable",
-      "source": {
-        "name": "Mashable"
-      },
-      "description": "The Big Spring Sale is basically Amazon's version of spring cleaning....",
-      "url": "https://mashable.com/article/best-amazon-big-spring-sale-deals-apple-kindle-bose-ninja-live-2026",
-      "publishedAt": "2026-03-31T09:01:32Z",
-      "processed_at": "2026-04-01T17:55:16.729243+00:00"
+      "description": "",
+      "url": "https://www.rockstargames.com/newswire/article/k4a9473a383191/hit-the-gravy-train-by-completing-trader-sales-in-red-dead-online",
+      "publishedAt": "2026-03-31T14:03:47Z",
+      "processed_at": "2026-04-01T19:04:49.456569+00:00"
     }
   ],
-  "lastUpdated": "2026-04-01T17:55:16.729369+00:00",
+  "lastUpdated": "2026-04-01T19:04:49.456641+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
