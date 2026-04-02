@@ -1,7 +1,57 @@
 {
   "status": "success",
-  "totalResults": 8,
+  "totalResults": 9,
   "articles": [
+    {
+      "title": "April Fool's Day is upon us, and you know what that means: Bubsy feet pics - PC Gamer",
+      "source": {
+        "name": "PC Gamer"
+      },
+      "description": "A round-up of best gaming-related April Fool's Day jokes we could find....",
+      "url": "https://www.pcgamer.com/games/april-fools-day-is-upon-us-and-you-know-what-that-means-bubsy-feet-pics/",
+      "publishedAt": "2026-04-01T19:00:14Z",
+      "processed_at": "2026-04-02T19:53:13.121806+00:00"
+    },
+    {
+      "title": "The Black Ops 7 / Half Baked Tracer Pack Featuring Dave Chapelle Is A Real Thing But Players Aren't Impressed - kotaku.com",
+      "source": {
+        "name": "Kotaku"
+      },
+      "description": "Also: classic Tomb Raider gets a patch for its ugly new cosmetics...",
+      "url": "https://kotaku.com/blops-7-half-baked-weed-ltm-420-update-2000683931",
+      "publishedAt": "2026-04-01T16:46:19Z",
+      "processed_at": "2026-04-02T19:53:13.121806+00:00"
+    },
+    {
+      "title": "Cloudflare Announces EmDash As Open-Source \"Spiritual Successor\" To WordPress - Phoronix",
+      "source": {
+        "name": "Phoronix"
+      },
+      "description": "Cloudflare continues to be full of open-source surprises...",
+      "url": "https://www.phoronix.com/news/Cloudflare-EmDash",
+      "publishedAt": "2026-04-01T16:32:00Z",
+      "processed_at": "2026-04-02T19:53:13.121806+00:00"
+    },
+    {
+      "title": "CarPlay’s latest upgrades offer exciting glimpse of what’s coming in iOS 27 - 9to5mac.com",
+      "source": {
+        "name": "9to5Mac"
+      },
+      "description": "CarPlay in iOS 26.4 unlocked access to third-party AI assistants, offering a glimpse at what’s expec...",
+      "url": "https://9to5mac.com/2026/04/01/carplays-latest-upgrades-offer-exciting-glimpse-of-whats-coming-in-ios-27/",
+      "publishedAt": "2026-04-01T16:26:00Z",
+      "processed_at": "2026-04-02T19:53:13.121806+00:00"
+    },
+    {
+      "title": "Minecraft Java Edition 26.1.1 - minecraft.net",
+      "source": {
+        "name": "Minecraft.net"
+      },
+      "description": "Minecraft 26.1.1...",
+      "url": "https://www.minecraft.net/en-us/article/minecraft-java-edition-26-1-1",
+      "publishedAt": "2026-04-01T16:20:55Z",
+      "processed_at": "2026-04-02T19:53:13.121806+00:00"
+    },
     {
       "title": "Mimikyu Debuts in Pokémon GO for April Fool’s 2026 - pokemongohub.net",
       "source": {
@@ -10,80 +60,40 @@
       "description": "Trainers, get excited, it is finally happening, Mimikyu is coming to Pokémon GO! During the A Shocki...",
       "url": "https://pokemongohub.net/post/news/mimikyu-finally-coming-to-pokemon-go/",
       "publishedAt": "2026-04-01T14:57:44Z",
-      "processed_at": "2026-04-02T18:59:10.762879+00:00"
+      "processed_at": "2026-04-02T19:53:13.121806+00:00"
     },
     {
-      "title": "PlayStation Announces Project Playmo, Its Next-Generation PS5 DualSense Controller That Will Change How You Play Games Forever - IGN",
+      "title": "Nintendo Loses Yet Another Battle In Its Pokémon Patent Trolling - kotaku.com",
       "source": {
-        "name": "IGN"
+        "name": "Kotaku"
       },
-      "description": "PlayStation has officially announced Project Playmo, its next-generation DualSense controller that c...",
-      "url": "https://www.ign.com/articles/playstation-announces-project-playmo-its-next-generation-ps5-dualsense-controller-that-will-change-how-you-play-games-forever",
-      "publishedAt": "2026-04-01T13:17:25Z",
-      "processed_at": "2026-04-02T18:59:10.762879+00:00"
+      "description": "The U.S. Patent Office has rejected one of the vital patent claims in the company's fight against Pa...",
+      "url": "https://kotaku.com/nintendo-pokemon-palworld-patent-trolling-courts-2000683904",
+      "publishedAt": "2026-04-01T14:44:29Z",
+      "processed_at": "2026-04-02T19:53:13.121806+00:00"
     },
     {
-      "title": "New Chrome Zero-Day CVE-2026-5281 Under Active Exploitation — Patch Released - The Hacker News",
+      "title": "Capcom Embraces 'Pragmata Is Secretly Mega Man' Conspiracy with Brilliant April Fool Gag - Push Square",
       "source": {
-        "name": "Internet"
-      },
-      "description": "Chrome patches 21 flaws including exploited CVE-2026-5281 in Dawn, marking fourth zero-day fixed in ...",
-      "url": "https://thehackernews.com/2026/04/new-chrome-zero-day-cve-2026-5281-under.html",
-      "publishedAt": "2026-04-01T11:42:00Z",
-      "processed_at": "2026-04-02T18:59:10.762879+00:00"
-    },
-    {
-      "title": "Stellar Blade Dev Acquires Shinji Mikami's New Studio, Will Publish Its Games - Push Square",
-      "source": {
-        "name": "Push Square"
-      },
-      "description": "Unbound now under Shift Up's wing...",
-      "url": "https://www.pushsquare.com/news/2026/04/stellar-blade-dev-acquires-shinji-mikamis-new-studio-will-publish-its-games",
-      "publishedAt": "2026-04-01T09:35:30Z",
-      "processed_at": "2026-04-02T18:59:10.762879+00:00"
-    },
-    {
-      "title": "Prices hiked on most Raspberry Pi 4 and 5 variants - theregister.com",
-      "source": {
-        "name": "Theregister.com"
+        "name": "Google News"
       },
       "description": "",
-      "url": "https://www.theregister.com/2026/04/01/raspberry_pi_price_hikes/",
-      "publishedAt": "2026-04-01T09:28:00Z",
-      "processed_at": "2026-04-02T18:59:10.762879+00:00"
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObHU3Tm9KeVp1MHlrbGpfUW5yczlHSXd0cUxPR3c2R1lrQXNDbVRtY19KblByUVhmUWxOc1BYUUpYY2RubnpxSnAyeVhQSms1RFlXdVdPaU5XOXE0ZUtka2hQOGhWcUtFdkJvOVhKMHlfT3dYVTNBRExlY3pOOFU1bTRybzRJQ2xIR3J6V0ptaDF5dTZldXNycWhoTUVDNFdBWnNvak5tNXBrVWNWSVRrYk0xWEx2ZGxJTFYzeThudmlJOHJ3?oc=5",
+      "publishedAt": "2026-04-01T12:36:32Z",
+      "processed_at": "2026-04-02T19:53:13.121806+00:00"
     },
     {
-      "title": "U.S. patent examiner rejects Nintendo’s “summon subcharacter and let it fight in 1 of 2 modes” patent as obvious: non-final ruling – games fray - games fray",
+      "title": "Upcoming Nintendo Switch 2 Games & Accessories For April & May 2026 - Nintendo Life",
       "source": {
-        "name": "Gamesfray.com"
+        "name": "Nintendo Life"
       },
-      "description": "",
-      "url": "https://gamesfray.com/u-s-patent-examiner-rejects-nintendos-summon-subcharacter-and-let-it-fight-in-1-of-2-modes-patent-as-obvious-non-final-ruling/",
-      "publishedAt": "2026-04-01T09:11:30Z",
-      "processed_at": "2026-04-02T18:59:10.762879+00:00"
-    },
-    {
-      "title": "From scrappy startup to tech giant, Apple celebrates its 50th year - NPR",
-      "source": {
-        "name": "NPR"
-      },
-      "description": "Countercultural mythmaking and global corporate dominance have helped the tech corporation sail thro...",
-      "url": "https://www.npr.org/2026/04/01/nx-s1-5753784/apple-50-anniversary-think-different-myth-reality",
-      "publishedAt": "2026-04-01T09:00:00Z",
-      "processed_at": "2026-04-02T18:59:10.762879+00:00"
-    },
-    {
-      "title": "AMD FSR 5 Scarlet Cortex Preview - TechPowerUp",
-      "source": {
-        "name": "Techpowerup.com"
-      },
-      "description": "AMD's FSR 5 \"Scarlet Cortex\" is a game-changer in real-time neural rendering, improving visual quali...",
-      "url": "https://www.techpowerup.com/review/amd-fsr-5-scarlet-cortex/",
-      "publishedAt": "2026-04-01T08:45:00Z",
-      "processed_at": "2026-04-02T18:59:10.762879+00:00"
+      "description": "April shower...",
+      "url": "https://www.nintendolife.com/guides/upcoming-nintendo-switch-2-games-and-accessories-for-april-and-may-2026",
+      "publishedAt": "2026-04-01T12:15:00Z",
+      "processed_at": "2026-04-02T19:53:13.121806+00:00"
     }
   ],
-  "lastUpdated": "2026-04-02T18:59:10.762945+00:00",
+  "lastUpdated": "2026-04-02T19:53:13.121909+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
