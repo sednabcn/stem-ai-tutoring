@@ -1,16 +1,26 @@
 {
   "status": "success",
-  "totalResults": 10,
+  "totalResults": 9,
   "articles": [
     {
-      "title": "Google making screen-less Fitbit band & here’s Steph Curry wearing it - 9to5Google",
+      "title": "SHIFT UP acquires Shinji Mikami-led studio UNBOUND - Gematsu",
       "source": {
-        "name": "9to5google.com"
+        "name": "Gematsu"
       },
-      "description": "Steph Curry is Google’s “Performance Advisor” and the basketball player today teased a screen-less F...",
-      "url": "http://9to5google.com/2026/03/31/fitbit-screen-less-band/",
-      "publishedAt": "2026-04-01T00:35:00Z",
-      "processed_at": "2026-04-02T02:31:16.972450+00:00"
+      "description": "SHIFT UP has fully acquired UNBOUND, the new Tokyo-based game studio founded by Resident Evil creato...",
+      "url": "https://www.gematsu.com/2026/03/shift-up-acquires-shinji-mikami-led-studio-unbound",
+      "publishedAt": "2026-04-01T02:25:57Z",
+      "processed_at": "2026-04-02T05:04:21.076178+00:00"
+    },
+    {
+      "title": "Google Readies Screenless Fitbit Band to Rival Growing Whoop Craze - Bloomberg.com",
+      "source": {
+        "name": "Bloomberg"
+      },
+      "description": "Alphabet Inc.’s Google is developing its own fitness band, aiming to compete with screenless wearabl...",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-01/google-readies-revamped-screenless-fitbit-to-rival-growing-whoop-craze",
+      "publishedAt": "2026-04-01T00:02:00Z",
+      "processed_at": "2026-04-02T05:04:21.076178+00:00"
     },
     {
       "title": "Running local models on Macs gets faster with Ollama’s MLX support - Ars Technica",
@@ -20,7 +30,7 @@
       "description": "Apple Silicon Macs get a performance boost thanks to better unified memory usage....",
       "url": "https://arstechnica.com/apple/2026/03/running-local-models-on-macs-gets-faster-with-ollamas-mlx-support/",
       "publishedAt": "2026-03-31T23:00:23Z",
-      "processed_at": "2026-04-02T02:31:16.972450+00:00"
+      "processed_at": "2026-04-02T05:04:21.076178+00:00"
     },
     {
       "title": "Amazon is offering up to 50 percent off chargers from Anker and others for its Big Spring Sale - The Verge",
@@ -30,7 +40,7 @@
       "description": "Amazon’s Big Spring sale is almost over, but you can still save on power banks, cables, and a host o...",
       "url": "https://www.theverge.com/gadgets/904242/amazon-big-spring-sale-2026-baseus-anker-chargers-power-banks-batteries-deals",
       "publishedAt": "2026-03-31T23:00:00Z",
-      "processed_at": "2026-04-02T02:31:16.972450+00:00"
+      "processed_at": "2026-04-02T05:04:21.076178+00:00"
     },
     {
       "title": "Shigeru Miyamoto says he's \"on a mission to try to include Pikmin in any kind of Nintendo product we put up\" - Nintendo Everything",
@@ -40,7 +50,7 @@
       "description": "It’s no secret that Pikmin is Shigeru Miyamoto’s baby. Miyamoto was also responsible for the likes o...",
       "url": "https://nintendoeverything.com/shigeru-miyamoto-says-hes-on-a-mission-to-try-to-include-pikmin-in-any-kind-of-nintendo-product-we-put-up/",
       "publishedAt": "2026-03-31T21:29:46Z",
-      "processed_at": "2026-04-02T02:31:16.972450+00:00"
+      "processed_at": "2026-04-02T05:04:21.076178+00:00"
     },
     {
       "title": "Apple iPhone 18 Pro: Latest Leak Signals Major Design Update - Forbes",
@@ -50,7 +60,17 @@
       "description": "When Apple releases the iPhone 18 Pro and iPhone 18 Pro Max this fall, it looks like there will be a...",
       "url": "https://www.forbes.com/sites/davidphelan/2026/03/31/apple-iphone-18-pro-latest-leak-signals-major-design-update/",
       "publishedAt": "2026-03-31T21:04:38Z",
-      "processed_at": "2026-04-02T02:31:16.972450+00:00"
+      "processed_at": "2026-04-02T05:04:21.076178+00:00"
+    },
+    {
+      "title": "iOS 26.4 has convenient change for iPhone personal hotspot users - 9to5Mac",
+      "source": {
+        "name": "9to5Mac"
+      },
+      "description": "iOS 26.4 is here, packing a wide array of new features, including a convenient change for personal h...",
+      "url": "https://9to5mac.com/2026/03/31/ios-26-4-makes-it-easy-to-see-whos-using-your-personal-hotspot/",
+      "publishedAt": "2026-03-31T20:38:00Z",
+      "processed_at": "2026-04-02T05:04:21.076178+00:00"
     },
     {
       "title": "The Biggest New Game Releases Of April 2026 - gamespot.com",
@@ -60,7 +80,7 @@
       "description": "Sci-fi adventures, turbo-powered wildcards, and cephalopod capers await in April....",
       "url": "https://www.gamespot.com/gallery/the-biggest-new-game-releases-of-april-2026/2900-7623/",
       "publishedAt": "2026-03-31T20:00:00Z",
-      "processed_at": "2026-04-02T02:31:16.972450+00:00"
+      "processed_at": "2026-04-02T05:04:21.076178+00:00"
     },
     {
       "title": "Samsung’s new app claims to alleviate motion sickness using sound - The Verge",
@@ -70,40 +90,10 @@
       "description": "﻿Listening to a 100Hz sine wave tone for just 60 seconds could reduce motion sickness symptoms for u...",
       "url": "https://www.theverge.com/tech/904579/samsung-hearapy-mobile-app-galaxy-buds-motion-sickness-symptoms",
       "publishedAt": "2026-03-31T19:56:26Z",
-      "processed_at": "2026-04-02T02:31:16.972450+00:00"
-    },
-    {
-      "title": "Last Chance Laptop and Desktop Deals Can Save You Hundreds Before Amazon's Big Spring Sale Ends - PCMag",
-      "source": {
-        "name": "PCMag.com"
-      },
-      "description": "At midnight tonight, Amazon's Big Spring Sale turns back into a pumpkin and all of these huge discou...",
-      "url": "https://www.pcmag.com/news/best-amazon-spring-sale-2026-laptops-desktops-gaming-deals-last-chance",
-      "publishedAt": "2026-03-31T18:43:10Z",
-      "processed_at": "2026-04-02T02:31:16.972450+00:00"
-    },
-    {
-      "title": "MindsEye CEO Says Was The Worst Launch Ever But It's Fun Now - Kotaku",
-      "source": {
-        "name": "Kotaku"
-      },
-      "description": "Build a Rocket Boy's CEO says police are investigating alleged saboteurs...",
-      "url": "https://kotaku.com/mindseye-sales-reviews-refunds-steam-update-2000683634",
-      "publishedAt": "2026-03-31T18:19:17Z",
-      "processed_at": "2026-04-02T02:31:16.972450+00:00"
-    },
-    {
-      "title": "The Galaxy S26’s photo app can sloppify your memories - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "Samsung’s S26 series offers some new AI photo editing capabilities to transform your photos. But whe...",
-      "url": "https://www.theverge.com/tech/904176/samsung-galaxy-s26-ai-photo-assist-slop",
-      "publishedAt": "2026-03-31T18:15:00Z",
-      "processed_at": "2026-04-02T02:31:16.972450+00:00"
+      "processed_at": "2026-04-02T05:04:21.076178+00:00"
     }
   ],
-  "lastUpdated": "2026-04-02T02:31:16.972528+00:00",
+  "lastUpdated": "2026-04-02T05:04:21.076258+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
