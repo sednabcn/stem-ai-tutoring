@@ -1,109 +1,89 @@
 {
   "status": "success",
-  "totalResults": 10,
+  "totalResults": 8,
   "articles": [
     {
-      "title": "Apple’s 50-year odyssey has redefined technology, pop culture and comeback stories - AP News",
+      "title": "Mimikyu Debuts in Pokémon GO for April Fool’s 2026 - pokemongohub.net",
       "source": {
-        "name": "Associated Press"
+        "name": "Pokemon GO Hub"
       },
-      "description": "",
-      "url": "https://apnews.com/article/apple-50-years-anniversary-computer-iphone-b462b82f1e202f28a75ab1a8070c00b7",
-      "publishedAt": "2026-04-01T11:21:00Z",
-      "processed_at": "2026-04-02T14:57:35.533284+00:00"
+      "description": "Trainers, get excited, it is finally happening, Mimikyu is coming to Pokémon GO! During the A Shocki...",
+      "url": "https://pokemongohub.net/post/news/mimikyu-finally-coming-to-pokemon-go/",
+      "publishedAt": "2026-04-01T14:57:44Z",
+      "processed_at": "2026-04-02T16:05:43.251503+00:00"
     },
     {
-      "title": "Tomodachi Life: Living the Dream FAQ details 70 Mii limit, Nintendo Switch 2 improvements, and more - Nintendo Everything",
-      "source": {
-        "name": "Nintendoeverything.com"
-      },
-      "description": "A Japanese FAQ page for Tomodachi Life: Living the Dream has been released on the Nintendo website, ...",
-      "url": "https://nintendoeverything.com/tomodachi-life-living-the-dream-faq-details-mii-registration-limit-nintendo-switch-2-improvements-and-more/",
-      "publishedAt": "2026-04-01T07:24:46Z",
-      "processed_at": "2026-04-02T14:57:35.533284+00:00"
-    },
-    {
-      "title": "Frizz Fighting Hair Products For Humidity - TMZ",
-      "source": {
-        "name": "TMZ"
-      },
-      "description": "TMZ may collect a share of sales or other compensation from links on this page....",
-      "url": "https://www.tmz.com/2026/04/01/no-frizz-hair-products-for-humidity/",
-      "publishedAt": "2026-04-01T07:05:44Z",
-      "processed_at": "2026-04-02T14:57:35.533284+00:00"
-    },
-    {
-      "title": "\"I'm On A Mission\" - Miyamoto Wants To Include Pikmin In Any Kind Of Nintendo Product He Can - Nintendo Life",
-      "source": {
-        "name": "Nintendo Life"
-      },
-      "description": "Somebody get this man a Pikmin...",
-      "url": "https://www.nintendolife.com/news/2026/04/im-on-a-mission-miyamoto-wants-to-include-pikmin-in-any-kind-of-nintendo-product-he-can",
-      "publishedAt": "2026-04-01T05:25:00Z",
-      "processed_at": "2026-04-02T14:57:35.533284+00:00"
-    },
-    {
-      "title": "“A computer should be yours”: Framework CEO calls out MacBook Neo design - Notebookcheck",
-      "source": {
-        "name": "Notebookcheck.net"
-      },
-      "description": "Framework CEO Nirav Patel posted a teardown comparing Apple’s $599 MacBook Neo with the similarly pr...",
-      "url": "https://www.notebookcheck.net/A-computer-should-be-yours-Framework-CEO-calls-out-MacBook-Neo-design.1262826.0.html",
-      "publishedAt": "2026-04-01T04:19:00Z",
-      "processed_at": "2026-04-02T14:57:35.533284+00:00"
-    },
-    {
-      "title": "Apple Will Push Out Rare ‘Backported’ Patches to Protect iOS 18 Users From DarkSword Hacking Tool - WIRED",
-      "source": {
-        "name": "Wired"
-      },
-      "description": "As DarkSword spreads, Apple tells WIRED it will enable iOS 18-specific fixes for millions of iPhone ...",
-      "url": "https://www.wired.com/story/apple-will-push-out-rare-backported-patches-to-protect-ios-18-users-from-darksword-hacking-tool/",
-      "publishedAt": "2026-04-01T00:49:00Z",
-      "processed_at": "2026-04-02T14:57:35.533284+00:00"
-    },
-    {
-      "title": "Google making screen-less Fitbit band & here’s Steph Curry wearing it - 9to5Google",
-      "source": {
-        "name": "9to5google.com"
-      },
-      "description": "Steph Curry is Google’s “Performance Advisor” and the basketball player today teased a screen-less F...",
-      "url": "http://9to5google.com/2026/03/31/fitbit-screen-less-band/",
-      "publishedAt": "2026-04-01T00:35:00Z",
-      "processed_at": "2026-04-02T14:57:35.533284+00:00"
-    },
-    {
-      "title": "AirTag 2 gets its first firmware update since January launch - 9to5mac.com",
-      "source": {
-        "name": "9to5Mac"
-      },
-      "description": "In addition to a firmware update for the new AirPods Max 2, Apple also rolled out a firmware update ...",
-      "url": "https://9to5mac.com/2026/03/31/airtag-2-gets-its-first-firmware-update-since-january-launch/",
-      "publishedAt": "2026-03-31T23:47:00Z",
-      "processed_at": "2026-04-02T14:57:35.533284+00:00"
-    },
-    {
-      "title": "Amazon is offering up to 50 percent off chargers from Anker and others for its Big Spring Sale - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "Amazon’s Big Spring sale is almost over, but you can still save on power banks, cables, and a host o...",
-      "url": "https://www.theverge.com/gadgets/904242/amazon-big-spring-sale-2026-baseus-anker-chargers-power-banks-batteries-deals",
-      "publishedAt": "2026-03-31T23:00:00Z",
-      "processed_at": "2026-04-02T14:57:35.533284+00:00"
-    },
-    {
-      "title": "Amazon Resale Might Be Your Best Bet to Get a PS5 Pro Before the Price Increase Goes Down - IGN",
+      "title": "PlayStation Announces Project Playmo, Its Next-Generation PS5 DualSense Controller That Will Change How You Play Games Forever - IGN",
       "source": {
         "name": "IGN"
       },
-      "description": "Get a PS5 Pro for around $700 while you still can....",
-      "url": "https://www.ign.com/articles/amazon-resale-might-be-the-best-way-to-buy-a-ps5-pro-before-the-price-increase",
-      "publishedAt": "2026-03-31T21:24:00Z",
-      "processed_at": "2026-04-02T14:57:35.533284+00:00"
+      "description": "PlayStation has officially announced Project Playmo, its next-generation DualSense controller that c...",
+      "url": "https://www.ign.com/articles/playstation-announces-project-playmo-its-next-generation-ps5-dualsense-controller-that-will-change-how-you-play-games-forever",
+      "publishedAt": "2026-04-01T13:17:25Z",
+      "processed_at": "2026-04-02T16:05:43.251503+00:00"
+    },
+    {
+      "title": "New Chrome Zero-Day CVE-2026-5281 Under Active Exploitation — Patch Released - The Hacker News",
+      "source": {
+        "name": "Internet"
+      },
+      "description": "Chrome patches 21 flaws including exploited CVE-2026-5281 in Dawn, marking fourth zero-day fixed in ...",
+      "url": "https://thehackernews.com/2026/04/new-chrome-zero-day-cve-2026-5281-under.html",
+      "publishedAt": "2026-04-01T11:42:00Z",
+      "processed_at": "2026-04-02T16:05:43.251503+00:00"
+    },
+    {
+      "title": "Stellar Blade Dev Acquires Shinji Mikami's New Studio, Will Publish Its Games - Push Square",
+      "source": {
+        "name": "Push Square"
+      },
+      "description": "Unbound now under Shift Up's wing...",
+      "url": "https://www.pushsquare.com/news/2026/04/stellar-blade-dev-acquires-shinji-mikamis-new-studio-will-publish-its-games",
+      "publishedAt": "2026-04-01T09:35:30Z",
+      "processed_at": "2026-04-02T16:05:43.251503+00:00"
+    },
+    {
+      "title": "Prices hiked on most Raspberry Pi 4 and 5 variants - theregister.com",
+      "source": {
+        "name": "Theregister.com"
+      },
+      "description": "",
+      "url": "https://www.theregister.com/2026/04/01/raspberry_pi_price_hikes/",
+      "publishedAt": "2026-04-01T09:28:00Z",
+      "processed_at": "2026-04-02T16:05:43.251503+00:00"
+    },
+    {
+      "title": "U.S. patent examiner rejects Nintendo’s “summon subcharacter and let it fight in 1 of 2 modes” patent as obvious: non-final ruling – games fray - games fray",
+      "source": {
+        "name": "Gamesfray.com"
+      },
+      "description": "",
+      "url": "https://gamesfray.com/u-s-patent-examiner-rejects-nintendos-summon-subcharacter-and-let-it-fight-in-1-of-2-modes-patent-as-obvious-non-final-ruling/",
+      "publishedAt": "2026-04-01T09:11:30Z",
+      "processed_at": "2026-04-02T16:05:43.251503+00:00"
+    },
+    {
+      "title": "From scrappy startup to tech giant, Apple celebrates its 50th year - NPR",
+      "source": {
+        "name": "NPR"
+      },
+      "description": "Countercultural mythmaking and global corporate dominance have helped the tech corporation sail thro...",
+      "url": "https://www.npr.org/2026/04/01/nx-s1-5753784/apple-50-anniversary-think-different-myth-reality",
+      "publishedAt": "2026-04-01T09:00:00Z",
+      "processed_at": "2026-04-02T16:05:43.251503+00:00"
+    },
+    {
+      "title": "AMD FSR 5 Scarlet Cortex Preview - TechPowerUp",
+      "source": {
+        "name": "Techpowerup.com"
+      },
+      "description": "AMD's FSR 5 \"Scarlet Cortex\" is a game-changer in real-time neural rendering, improving visual quali...",
+      "url": "https://www.techpowerup.com/review/amd-fsr-5-scarlet-cortex/",
+      "publishedAt": "2026-04-01T08:45:00Z",
+      "processed_at": "2026-04-02T16:05:43.251503+00:00"
     }
   ],
-  "lastUpdated": "2026-04-02T14:57:35.533363+00:00",
+  "lastUpdated": "2026-04-02T16:05:43.251583+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
