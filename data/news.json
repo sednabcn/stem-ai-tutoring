@@ -1,7 +1,57 @@
 {
   "status": "success",
-  "totalResults": 10,
+  "totalResults": 9,
   "articles": [
+    {
+      "title": "Pokemon Home 4.0.0 update released, support for Pokemon Legends: Z-A and Pokemon Champions added - patch notes - Nintendo Everything",
+      "source": {
+        "name": "Nintendoeverything.com"
+      },
+      "description": "As previously announced, Pokemon Home has received a version 4.0.0 update. Users should be seeing th...",
+      "url": "https://nintendoeverything.com/pokemon-home-4-0-0-update-released-support-for-pokemon-legends-z-a-and-pokemon-champions-added-patch-notes/",
+      "publishedAt": "2026-04-02T04:34:31Z",
+      "processed_at": "2026-04-03T07:12:31.929135+00:00"
+    },
+    {
+      "title": "Unlock rewards for starting GameChat—only with Nintendo Switch Online - Nintendo",
+      "source": {
+        "name": "Nintendo.com"
+      },
+      "description": "Fire up GameChat for rewards A new mission is buzzing in! Until April 22 at 5:59 p.m. PT, Nintendo S...",
+      "url": "https://www.nintendo.com/us/whatsnew/unlock-rewards-for-starting-gamechat-only-with-nintendo-switch-online/",
+      "publishedAt": "2026-04-02T01:03:32Z",
+      "processed_at": "2026-04-03T07:12:31.929135+00:00"
+    },
+    {
+      "title": "StarCraft-Inspired RTS From Former Blizzard Devs Losing Online Multiplayer Because Server Partner Was Bought By AI Company - aftermath.site",
+      "source": {
+        "name": "Aftermath.site"
+      },
+      "description": "AI taketh, and it taketh some more...",
+      "url": "https://aftermath.site/stormgate-multiplayer-servers-ai-frost-giant-starcraft-blizzard/",
+      "publishedAt": "2026-04-01T23:14:46Z",
+      "processed_at": "2026-04-03T07:12:31.929135+00:00"
+    },
+    {
+      "title": "Every Video Game Prank From April Fools' Day 2026 - Game Informer",
+      "source": {
+        "name": "Gameinformer.com"
+      },
+      "description": "From a horse controller to dateable dirt, the video game industry likes to go wild on April Fools' D...",
+      "url": "https://gameinformer.com/2026/04/01/every-video-game-prank-from-april-fools-day-2026",
+      "publishedAt": "2026-04-01T21:19:25Z",
+      "processed_at": "2026-04-03T07:12:31.929135+00:00"
+    },
+    {
+      "title": "Nintendo Switch Gets Free Super Mario Galaxy Downloads Ahead Of Movie Release - GAMINGbible",
+      "source": {
+        "name": "Gamingbible.com"
+      },
+      "description": "Galaxy Ice Flower, at last!...",
+      "url": "https://www.gamingbible.com/news/platform/nintendo/super-mario-galaxy-nintendo-switch-icons-752654-20260401",
+      "publishedAt": "2026-04-01T21:00:00Z",
+      "processed_at": "2026-04-03T07:12:31.929135+00:00"
+    },
     {
       "title": "Super Meat Boy 3D Review - IGN",
       "source": {
@@ -10,7 +60,7 @@
       "description": "Super Meat Boy 3D proves that Meat Boy can work in three dimensions, even if some perspective-relate...",
       "url": "https://www.ign.com/articles/super-meat-boy-3d-review",
       "publishedAt": "2026-04-01T20:58:19Z",
-      "processed_at": "2026-04-03T05:06:18.134084+00:00"
+      "processed_at": "2026-04-03T07:12:31.929135+00:00"
     },
     {
       "title": "Paul McCartney performs private show on Apple's Bay Area campus - sfgate.com",
@@ -20,7 +70,7 @@
       "description": "On Tuesday, the Beatles star played a 25-song concert that featured pyrotechnics and a three-song en...",
       "url": "https://www.sfgate.com/sf-culture/article/paul-mccartney-apple-concert-22183985.php",
       "publishedAt": "2026-04-01T20:39:57Z",
-      "processed_at": "2026-04-03T05:06:18.134084+00:00"
+      "processed_at": "2026-04-03T07:12:31.929135+00:00"
     },
     {
       "title": "Xbox Spring Sale 2026 Now Live In Full, 2000+ Games Discounted - purexbox.com",
@@ -30,80 +80,20 @@
       "description": "Everyone gets the deals!...",
       "url": "https://www.purexbox.com/news/2026/04/xbox-spring-sale-2026-now-live-in-full-2000plus-games-discounted",
       "publishedAt": "2026-04-01T20:15:00Z",
-      "processed_at": "2026-04-03T05:06:18.134084+00:00"
+      "processed_at": "2026-04-03T07:12:31.929135+00:00"
     },
     {
-      "title": "Download these ‘Apple at 50’ wallpapers for iPhone, iPad, and Mac - 9to5Mac",
+      "title": "Mario Galaxy Movie Exists Because Console Growth Is Tapped Out - Kotaku",
       "source": {
-        "name": "9to5Mac"
+        "name": "Kotaku"
       },
-      "description": "To celebrate Apple at 50, you can find a great set of iPhone wallpapers made by Basic Apple Guy feat...",
-      "url": "https://9to5mac.com/2026/04/01/download-these-apple-at-50-wallpapers-for-iphone-ipad-and-mac/",
-      "publishedAt": "2026-04-01T20:14:00Z",
-      "processed_at": "2026-04-03T05:06:18.134084+00:00"
-    },
-    {
-      "title": "Nintendo's 'Summon Character To Fight' Patent Rejected By US Patent Office - Nintendo Life",
-      "source": {
-        "name": "Google News"
-      },
-      "description": "",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZTJVYTJSTDZmWHQwaHFmN1hwNmctRFJ3d0dUSDJHYVVaNWkwY3NWc3dKbzdGZEV4YVl5SS1hMWpTdW9mMlVLbUR3eHpkVWdQejZvM3dlU1l4UXNrVzltYXFNUjRtS3ZNbDRuak5zZllUeG1HQWktOXFuZllvQjdEdWQ3QjBtU1IxdHJVYUljQW1weG5BMHNBb21Bd1dQQ0FDM0dicXR2QmlnVmM0OWluWlJpcw?oc=5",
-      "publishedAt": "2026-04-01T19:30:00Z",
-      "processed_at": "2026-04-03T05:06:18.134084+00:00"
-    },
-    {
-      "title": "YouTube's TV App Is Getting A New Feature That Has Been On Mobile For Years - bgr.com",
-      "source": {
-        "name": "Google News"
-      },
-      "description": "",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5QNVBvSVUyZjJFVWlFTE9feVRVM2pBblY0eHZnTnBZck12ejRLVjJWMkVFTWFpZ1dQS1FGMkdBLXBtd3F0TWJqSHdCRWR1VjZEWGs1VlhlLURWN3VGOEl1WHhvRXpSQVNPVlE?oc=5",
-      "publishedAt": "2026-04-01T19:17:00Z",
-      "processed_at": "2026-04-03T05:06:18.134084+00:00"
-    },
-    {
-      "title": "Apple releases security fix for older iPhones and iPads to protect against DarkSword attacks - TechCrunch",
-      "source": {
-        "name": "TechCrunch"
-      },
-      "description": "The security update protects a raft of older iPhones and iPads from attacks linked to leaked hacking...",
-      "url": "https://techcrunch.com/2026/04/01/apple-releases-security-fix-for-older-iphones-and-ipads-to-protect-against-darksword-attacks/",
-      "publishedAt": "2026-04-01T19:02:18Z",
-      "processed_at": "2026-04-03T05:06:18.134084+00:00"
-    },
-    {
-      "title": "The Best April Fools’ Day Photography Jokes of 2026 - PetaPixel",
-      "source": {
-        "name": "PetaPixel"
-      },
-      "description": "The best April Fools’ Day 2026 photo gear gags...",
-      "url": "https://petapixel.com/2026/04/01/the-best-april-fools-day-photography-jokes-of-2026/",
-      "publishedAt": "2026-04-01T19:00:26Z",
-      "processed_at": "2026-04-03T05:06:18.134084+00:00"
-    },
-    {
-      "title": "Bethesda Shares Starfield Free Lanes Deep Dive, Included in PS5 Version - Push Square",
-      "source": {
-        "name": "Google News"
-      },
-      "description": "",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMGN1ZURSUmR3ak5SWE52ZEtiQWhGT3Z4aEE3MmpoWHVYMUtiajFGbEdERkw2U1NLZjNRelFpNHRJeGtYUmNUSzdVRDBWLXlRU24weVprQ0tsbUhLTVpWTXNDNWgzZGVQSWNsUUV0Y1daclVoTl9RbkJQaGdvSVktSFNlV2ctbkRNSUhmc2lmXzUtc1Z4VXUxbXpDaDdwZWdOX1M0cVU0clZDQ19Sblc0?oc=5",
-      "publishedAt": "2026-04-01T19:00:00Z",
-      "processed_at": "2026-04-03T05:06:18.134084+00:00"
-    },
-    {
-      "title": "Canon Says it’s up to Sigma to Make Full-Frame RF Lenses - Canon Rumors",
-      "source": {
-        "name": "Canonrumors.com"
-      },
-      "description": "In a recent published interview with French publication Phototrend.fr, a pretty big bit of informati...",
-      "url": "https://www.canonrumors.com/canon-says-its-up-to-sigma-to-make-full-frame-rf-lenses/",
-      "publishedAt": "2026-04-01T18:41:18Z",
-      "processed_at": "2026-04-03T05:06:18.134084+00:00"
+      "description": "Shigeru Miyamoto felt the plumbers had reached their limits on Switch...",
+      "url": "https://kotaku.com/mario-galaxy-movie-miyamoto-switch-2-2000683993",
+      "publishedAt": "2026-04-01T20:00:15Z",
+      "processed_at": "2026-04-03T07:12:31.929135+00:00"
     }
   ],
-  "lastUpdated": "2026-04-03T05:06:18.134161+00:00",
+  "lastUpdated": "2026-04-03T07:12:31.929201+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
