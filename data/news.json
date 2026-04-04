@@ -3,6 +3,36 @@
   "totalResults": 10,
   "articles": [
     {
+      "title": "Here's Why Starfield Will Be Best on PS5 When It Finally Releases Next Week - Push Square",
+      "source": {
+        "name": "Push Square"
+      },
+      "description": "Bethesda going all-out...",
+      "url": "https://www.pushsquare.com/news/2026/04/heres-why-starfield-will-be-best-on-ps5-when-it-finally-releases-next-week",
+      "publishedAt": "2026-04-03T18:00:00Z",
+      "processed_at": "2026-04-04T21:34:06.574990+00:00"
+    },
+    {
+      "title": "Apple releases new iOS 26.5 beta 1 build for iPhone - 9to5Mac",
+      "source": {
+        "name": "9to5Mac"
+      },
+      "description": "iOS 26.5 beta 1 arrived earlier this week for developers, but Apple has just shipped an updated beta...",
+      "url": "https://9to5mac.com/2026/04/03/apple-releases-new-ios-26-5-beta-1-build-for-iphone/",
+      "publishedAt": "2026-04-03T17:57:00Z",
+      "processed_at": "2026-04-04T21:34:06.574990+00:00"
+    },
+    {
+      "title": "Fitbit 4.66 for Android rolling out water, food, & mood logging, more - 9to5google.com",
+      "source": {
+        "name": "9to5google.com"
+      },
+      "description": "Fitbit is rolling out version 4.66 of the Android app with all the new Public Preview features annou...",
+      "url": "http://9to5google.com/2026/04/03/fitbit-4-66-android/",
+      "publishedAt": "2026-04-03T17:05:00Z",
+      "processed_at": "2026-04-04T21:34:06.574990+00:00"
+    },
+    {
       "title": "Nintendo has made some changes to Mario user icons in latest Switch 2 and Switch update - Nintendo Everything",
       "source": {
         "name": "Nintendoeverything.com"
@@ -10,7 +40,17 @@
       "description": "A little interesting discovery has been made regarding the recent Switch 2 and Switch update, as Nin...",
       "url": "https://nintendoeverything.com/nintendo-has-made-some-changes-to-mario-user-icons-in-latest-switch-2-and-switch-update/",
       "publishedAt": "2026-04-03T16:32:56Z",
-      "processed_at": "2026-04-04T20:34:27.682368+00:00"
+      "processed_at": "2026-04-04T21:34:06.574990+00:00"
+    },
+    {
+      "title": "Morbid Metal launches in Early Access on April 8 - Gematsu",
+      "source": {
+        "name": "Gematsu"
+      },
+      "description": "Roguelike hack-and-slash action game Morbid Metal will launch in Early Access for PC via Steam on Ap...",
+      "url": "https://www.gematsu.com/2026/04/morbid-metal-launches-in-early-access-on-april-8",
+      "publishedAt": "2026-04-03T16:16:15Z",
+      "processed_at": "2026-04-04T21:34:06.574990+00:00"
     },
     {
       "title": "Ghost Of Yotei Devs Used Coins From The Game's Collector's Edition To Test Zeni Hajiki Multiplayer - Kotaku",
@@ -20,7 +60,7 @@
       "description": "Sucker Punch also explained how it built an online co-op game within a big single-player RPG...",
       "url": "https://kotaku.com/ghost-of-yotei-devs-coins-collectors-edition-test-zeni-hajiki-multiplayer-2000684625",
       "publishedAt": "2026-04-03T16:12:05Z",
-      "processed_at": "2026-04-04T20:34:27.682368+00:00"
+      "processed_at": "2026-04-04T21:34:06.574990+00:00"
     },
     {
       "title": "Google Issues Zero-Day Attack Alert For 3.5 Billion Chrome Users - Forbes",
@@ -30,7 +70,7 @@
       "description": "Google has issued an update alert for 3.5 billion Chrome browser users following confirmation of a n...",
       "url": "https://www.forbes.com/sites/daveywinder/2026/04/03/google-issues-zero-day-attack-alert-for-35-billion-chrome-users/",
       "publishedAt": "2026-04-03T15:44:17Z",
-      "processed_at": "2026-04-04T20:34:27.682368+00:00"
+      "processed_at": "2026-04-04T21:34:06.574990+00:00"
     },
     {
       "title": "Fans Rejoice As State Of Decay 3 Proves It’s Not Dead With An Alpha Playtest Six Years After It Was First Revealed - Kotaku",
@@ -40,7 +80,7 @@
       "description": "The zombie survival sim is calling for fans to try out the sequel...",
       "url": "https://kotaku.com/state-decay-3-alpha-test-signup-release-date-2000684636",
       "publishedAt": "2026-04-03T15:23:01Z",
-      "processed_at": "2026-04-04T20:34:27.682368+00:00"
+      "processed_at": "2026-04-04T21:34:06.574990+00:00"
     },
     {
       "title": "I saved a doomed Windows laptop by embracing Linux - The Verge",
@@ -50,7 +90,7 @@
       "description": "My laptop was supposed to be obsolete without Windows 11, but Linux helped me rescue it from the lan...",
       "url": "https://www.theverge.com/tech/905946/windows-11-forced-obsolescence-linux-thinkpad",
       "publishedAt": "2026-04-03T15:00:00Z",
-      "processed_at": "2026-04-04T20:34:27.682368+00:00"
+      "processed_at": "2026-04-04T21:34:06.574990+00:00"
     },
     {
       "title": "RAM Prices Are Killing Small Gaming Devices - Gizmodo",
@@ -60,50 +100,10 @@
       "description": "Lenovo's gaming handhelds and tablets, and several smaller handheld devices, are all suffering, and ...",
       "url": "https://gizmodo.com/ram-prices-are-killing-small-gaming-devices-2000742064",
       "publishedAt": "2026-04-03T14:55:35Z",
-      "processed_at": "2026-04-04T20:34:27.682368+00:00"
-    },
-    {
-      "title": "‘Marathon’ Players Are Furious About A Broken Endgame Weapon - Forbes",
-      "source": {
-        "name": "Forbes"
-      },
-      "description": "",
-      "url": "https://www.forbes.com/sites/paultassi/2026/04/03/marathon-players-are-furious-about-a-broken-endgame-weapon/",
-      "publishedAt": "2026-04-03T14:51:20Z",
-      "processed_at": "2026-04-04T20:34:27.682368+00:00"
-    },
-    {
-      "title": "One UI 9 reveals Galaxy Z Wide Fold's wider screen - SamMobile",
-      "source": {
-        "name": "SamMobile"
-      },
-      "description": "Samsung is working on three new foldable phones for this year: the Galaxy Z Flip 8, Galaxy Z Fold 8,...",
-      "url": "https://www.sammobile.com/news/one-ui-9-reveals-galaxy-fold-wides-wider-screen/",
-      "publishedAt": "2026-04-03T14:02:00Z",
-      "processed_at": "2026-04-04T20:34:27.682368+00:00"
-    },
-    {
-      "title": "Revealed: Inside the incredible new Defiler kit - Warhammer Community",
-      "source": {
-        "name": "Warhammer-community.com"
-      },
-      "description": "Sorry… how many heads do you get?...",
-      "url": "https://www.warhammer-community.com/articles/tgz401zu/revealed-inside-the-incredible-new-defiler-kit",
-      "publishedAt": "2026-04-03T13:58:18Z",
-      "processed_at": "2026-04-04T20:34:27.682368+00:00"
-    },
-    {
-      "title": "Ratatan’s Nintendo Switch version officially cancelled, dev explains why - Nintendo Everything",
-      "source": {
-        "name": "Nintendoeverything.com"
-      },
-      "description": "It’s now official that the Nintendo Switch version of Ratatan has been cancelled. You may recall tha...",
-      "url": "https://nintendoeverything.com/ratatans-nintendo-switch-version-officially-cancelled-dev-explains-why/",
-      "publishedAt": "2026-04-03T13:38:13Z",
-      "processed_at": "2026-04-04T20:34:27.682368+00:00"
+      "processed_at": "2026-04-04T21:34:06.574990+00:00"
     }
   ],
-  "lastUpdated": "2026-04-04T20:34:27.682450+00:00",
+  "lastUpdated": "2026-04-04T21:34:06.575066+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
