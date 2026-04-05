@@ -1,36 +1,86 @@
 {
   "status": "success",
-  "totalResults": 9,
+  "totalResults": 10,
   "articles": [
     {
-      "title": "‘I have two Microsoft Outlooks and neither one of those are working’: Astronauts couldn’t open emails - The Seattle Times",
+      "title": "Anthropic essentially bans OpenClaw from Claude by making subscribers pay extra - The Verge",
       "source": {
-        "name": "The Seattle Times"
+        "name": "The Verge"
       },
-      "description": "A day into their historic 10-day journey around the moon, astronauts told Houston they had a problem...",
-      "url": "https://www.seattletimes.com/business/boeing-aerospace/moon-bound-artemis-ii-astronauts-get-help-for-microsoft-outlook-glitch/",
-      "publishedAt": "2026-04-04T00:20:02Z",
-      "processed_at": "2026-04-05T02:40:15.627773+00:00"
+      "description": "The popular combination of OpenClaw and Claude Code is being severed now that Anthropic has announce...",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/907074/anthropic-openclaw-claude-subscription-ban",
+      "publishedAt": "2026-04-03T23:52:49Z",
+      "processed_at": "2026-04-05T05:13:49.026088+00:00"
     },
     {
-      "title": "The Big Dead by Daylight 10th Anniversary Interview - IGN",
+      "title": "Karpathy shares 'LLM Knowledge Base' architecture that bypasses RAG with an evolving markdown library maintained by AI - VentureBeat",
+      "source": {
+        "name": "VentureBeat"
+      },
+      "description": "Karpathy proposes something simpler and more loosely, messily elegant than the typical enterprise so...",
+      "url": "https://venturebeat.com/data/karpathy-shares-llm-knowledge-base-architecture-that-bypasses-rag-with-an",
+      "publishedAt": "2026-04-03T23:31:02Z",
+      "processed_at": "2026-04-05T05:13:49.026088+00:00"
+    },
+    {
+      "title": "This RollerCoaster Tycoon 2 Rollercoaster Is So Unfathomably Long That It Looks Like a Motherboard - IGN",
       "source": {
         "name": "IGN"
       },
-      "description": "",
-      "url": "https://www.ign.com/articles/dead-by-daylight-devs-celebrate-10-years-of-eldritch-evil-and-hope-for-many-many-more",
-      "publishedAt": "2026-04-03T21:11:57Z",
-      "processed_at": "2026-04-05T02:40:15.627773+00:00"
+      "description": "A RollerCoaster Tycoon 2 superfan has created what is believed to be the longest rollercoaster ever ...",
+      "url": "https://www.ign.com/articles/genius-rollercoaster-tycoon-2-player-makes-longest-rollercoaster-ever-built-manipulates-guests-into-staying-just-happy-enough-to-ride-it-for-1947-x-10-years",
+      "publishedAt": "2026-04-03T23:13:15Z",
+      "processed_at": "2026-04-05T05:13:49.026088+00:00"
     },
     {
-      "title": "Is GTA 6's Long Development The Result Of A Complete Engine Rebuild? It's Probably More Complicated Than That - Kotaku",
+      "title": "Google launches Gemma 4, a new open-source model: How to try it - Mashable",
+      "source": {
+        "name": "Mashable"
+      },
+      "description": "Google's newest Gemma model is now both open-weight and open-source...",
+      "url": "https://mashable.com/article/google-releases-gemma-4-open-ai-model-now-open-source-how-to-try-it",
+      "publishedAt": "2026-04-03T23:02:11Z",
+      "processed_at": "2026-04-05T05:13:49.026088+00:00"
+    },
+    {
+      "title": "First Jam Kuradoberi match footage released for Guilty Gear Strive Version 2.00 - EventHubs",
+      "source": {
+        "name": "EventHubs"
+      },
+      "description": "Guilty Gear Strive is less than a week away from it's huge Version 2.00 update, and now we can get a...",
+      "url": "https://www.eventhubs.com/news/2026/apr/03/jam-footage-guilty-gear/",
+      "publishedAt": "2026-04-03T22:05:52Z",
+      "processed_at": "2026-04-05T05:13:49.026088+00:00"
+    },
+    {
+      "title": "Rising Oil Prices Are Bad News For Fans Who Still Need A Switch 2 - Kotaku",
       "source": {
         "name": "Kotaku"
       },
-      "description": "Also: GTA V leaving Game Pass, a cool Manhunt mod, and the wildest GTA 6 rumor ever...",
-      "url": "https://kotaku.com/is-gta-6s-long-development-the-result-of-a-complete-engine-rebuild-its-probably-more-complicated-than-that-2000684709",
-      "publishedAt": "2026-04-03T21:02:51Z",
-      "processed_at": "2026-04-05T02:40:15.627773+00:00"
+      "description": "Trump's war on Iran could force the company's hand...",
+      "url": "https://kotaku.com/switch-2-price-ram-iran-oil-trump-tariffs-2000684755",
+      "publishedAt": "2026-04-03T22:00:02Z",
+      "processed_at": "2026-04-05T05:13:49.026088+00:00"
+    },
+    {
+      "title": "New Apple TV Waiting for Siri: Here's What's Coming When It Launches - MacRumors",
+      "source": {
+        "name": "MacRumors"
+      },
+      "description": "We're long overdue for an Apple TV update, and there have been rumors about an imminent refresh sinc...",
+      "url": "https://www.macrumors.com/2026/04/03/apple-tv-2026-rumors/",
+      "publishedAt": "2026-04-03T21:56:47Z",
+      "processed_at": "2026-04-05T05:13:49.026088+00:00"
+    },
+    {
+      "title": "NASA did eventually solve Artemis II’s Outlook glitch - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "NASA’s Artemis II astronauts experienced a glitch with Microsoft Outlook on Thursday on their way to...",
+      "url": "https://www.theverge.com/science/906988/nasa-artemis-ii-microsoft-outlook-issue-fixed",
+      "publishedAt": "2026-04-03T20:53:48Z",
+      "processed_at": "2026-04-05T05:13:49.026088+00:00"
     },
     {
       "title": "Cyberpunk, League Of Legends Games Suggest TCGs Are Having A Moment - Kotaku",
@@ -40,60 +90,20 @@
       "description": "New TCGs based on Cyberpunk 2077 and League of Legends are generating tons of hype...",
       "url": "https://kotaku.com/cyberpunk-tcg-riftbound-magic-the-gathering-mtg-2000684732",
       "publishedAt": "2026-04-03T20:27:04Z",
-      "processed_at": "2026-04-05T02:40:15.627773+00:00"
+      "processed_at": "2026-04-05T05:13:49.026088+00:00"
     },
     {
-      "title": "Nintendo's entire 2026 launch plans have leaked: Upcoming Switch 2 games, Direct details, 3D Mario, more - 9to5Toys",
+      "title": "Legal docs reveal Miyamoto originally saw Donkey Kong as \"a human in a gorilla costume,\" disclose other names considered for the game/character - GoNintendo",
       "source": {
-        "name": "9to5Toys"
+        "name": "GoNintendo"
       },
-      "description": "Update 4/3: We have now updated this post with some additional leaked details on some potential upco...",
-      "url": "http://9to5toys.com/2026/04/03/nintendo-2026-launch-plans-leaked/",
-      "publishedAt": "2026-04-03T20:25:00Z",
-      "processed_at": "2026-04-05T02:40:15.627773+00:00"
-    },
-    {
-      "title": "Miyamoto concedes that there’s only so many people to reach through consoles - My Nintendo News",
-      "source": {
-        "name": "My Nintendo News"
-      },
-      "description": "Nintendo have made it clear in recent years that they want to expand their franchises through differ...",
-      "url": "https://mynintendonews.com/2026/04/03/miyamoto-concedes-that-theres-only-so-many-people-to-reach-through-consoles/",
-      "publishedAt": "2026-04-03T19:45:02Z",
-      "processed_at": "2026-04-05T02:40:15.627773+00:00"
-    },
-    {
-      "title": "Lenovo Legion Go 2 suddenly costs $650 more as RAMageddon lays waste to gaming hardware - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "Best Buy is now listing Lenovo’s handheld for $1,499 with a Ryzen Z2 or $1,999 with a Z2 Extreme. Th...",
-      "url": "https://www.theverge.com/games/906752/lenovo-legion-go-2-suddenly-costs-650-more-as-ramageddon-lays-waste-to-gaming-hardware",
-      "publishedAt": "2026-04-03T19:19:14Z",
-      "processed_at": "2026-04-05T02:40:15.627773+00:00"
-    },
-    {
-      "title": "For All the Talk About Crimson Desert, Nothing Beats MLB The Show on the US PS5 Chart - Push Square",
-      "source": {
-        "name": "Push Square"
-      },
-      "description": "Home run...",
-      "url": "https://www.pushsquare.com/news/2026/04/for-all-the-talk-about-crimson-desert-nothing-beats-mlb-the-show-on-the-us-ps5-chart",
-      "publishedAt": "2026-04-03T19:00:00Z",
-      "processed_at": "2026-04-05T02:40:15.627773+00:00"
-    },
-    {
-      "title": "Xbox's State Of Decay 3 Finally Returns, Signups Now Live For Alpha Playtests - Pure Xbox",
-      "source": {
-        "name": "Pure Xbox"
-      },
-      "description": "\"A mysterious broadcast calls to all survivors of the blood plague\"...",
-      "url": "https://www.purexbox.com/news/2026/04/xboxs-state-of-decay-3-finally-returns-signups-now-live-for-alpha-playtests",
-      "publishedAt": "2026-04-03T18:32:00Z",
-      "processed_at": "2026-04-05T02:40:15.627773+00:00"
+      "description": "Nightmare unlocked...",
+      "url": "https://gonintendo.com/contents/59600-legal-docs-reveal-miyamoto-originally-saw-donkey-kong-as-a-human-in-a-gorilla",
+      "publishedAt": "2026-04-03T20:18:50Z",
+      "processed_at": "2026-04-05T05:13:49.026088+00:00"
     }
   ],
-  "lastUpdated": "2026-04-05T02:40:15.627847+00:00",
+  "lastUpdated": "2026-04-05T05:13:49.026163+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
