@@ -1,109 +1,99 @@
 {
   "status": "success",
-  "totalResults": 10,
+  "totalResults": 9,
   "articles": [
     {
-      "title": "The ‘P.T. Barnum of the miniature world’ moved his dollhouse emporium to Fall River - The Boston Globe",
-      "source": {
-        "name": "The Boston Globe"
-      },
-      "description": "Flip This Dollhouse founder Nathaniel Ellis built miniatures for Taylor Swift's Eras Tour and Hollyw...",
-      "url": "https://www.bostonglobe.com/2026/04/06/arts/flip-this-dollhouse/",
-      "publishedAt": "2026-04-06T12:21:15Z",
-      "processed_at": "2026-04-07T13:45:06.489340+00:00"
-    },
-    {
-      "title": "These 14+ New PS5, PS4, and PS Plus Games Are Coming Out This Week (6th-12th April) - Push Square",
-      "source": {
-        "name": "Push Square"
-      },
-      "description": "Starfield! People of Note! Tiny Bookshop!...",
-      "url": "https://www.pushsquare.com/guides/these-14plus-new-ps5-ps4-and-ps-plus-games-are-coming-out-this-week-6th-12th-april",
-      "publishedAt": "2026-04-06T10:17:47Z",
-      "processed_at": "2026-04-07T13:45:06.489340+00:00"
-    },
-    {
-      "title": "Monolith Soft Talks Up Ganondorf's \"Alluring Charm\" In New Interview - Nintendo Life",
-      "source": {
-        "name": "Nintendo Life"
-      },
-      "description": "",
-      "url": "https://www.nintendolife.com/news/2026/04/monolith-soft-talks-up-ganondorfs-alluring-charm-in-new-interview",
-      "publishedAt": "2026-04-06T10:00:00Z",
-      "processed_at": "2026-04-07T13:45:06.489340+00:00"
-    },
-    {
-      "title": "‘Stop Texting’—Apple Changes iPhone After 15 Years - Forbes",
-      "source": {
-        "name": "Forbes"
-      },
-      "description": "The FBI warned smartphone users to stop sending texts — here's what happens now....",
-      "url": "https://www.forbes.com/sites/zakdoffman/2026/04/06/stop-texting-apple-changes-iphone-after-15-years/",
-      "publishedAt": "2026-04-06T07:10:01Z",
-      "processed_at": "2026-04-07T13:45:06.489340+00:00"
-    },
-    {
-      "title": "\"What's going on?!!\": World of Warcraft delivers epic live moment I didn’t think was still possible - Windows Central",
-      "source": {
-        "name": "Windows Central"
-      },
-      "description": "During World of Warcraft's \"Race to World First\" esports event, U.S. team Liquid discovered live to ...",
-      "url": "https://www.windowscentral.com/gaming/pc-gaming/whats-going-on-world-of-warcraft-just-created-a-truly-insane-epic-moment-in-gaming-history-i-had-no-idea-blizzard-was-still-capable",
-      "publishedAt": "2026-04-06T05:53:56Z",
-      "processed_at": "2026-04-07T13:45:06.489340+00:00"
-    },
-    {
-      "title": "Stop pasting this into AI — 7 things you should never share with a chatbot - Tom's Guide",
-      "source": {
-        "name": "Tom's Guide"
-      },
-      "description": "AI tools aren’t designed to store sensitive information like private documents or bank details — so ...",
-      "url": "https://www.tomsguide.com/ai/never-paste-these-into-ai-7-things-you-should-never-share-with-a-chatbot",
-      "publishedAt": "2026-04-06T05:30:00Z",
-      "processed_at": "2026-04-07T13:45:06.489340+00:00"
-    },
-    {
-      "title": "Pocket-Sized E-Ink Gets A Firmware Upgrade - Hackaday",
-      "source": {
-        "name": "Hackaday"
-      },
-      "description": "Not so long ago, e-ink devices were rare and fairly pricey. As they have become more common and chea...",
-      "url": "https://hackaday.com/2026/04/05/pocket-sized-e-ink-gets-a-firmware-upgrade/",
-      "publishedAt": "2026-04-06T05:00:00Z",
-      "processed_at": "2026-04-07T13:45:06.489340+00:00"
-    },
-    {
-      "title": "LG's canceled rollable just embarrassed 2026 phones in a teardown video - Android Authority",
-      "source": {
-        "name": "Android Authority"
-      },
-      "description": "A teardown of the scrapped LG rollable shows an over-engineered marvel of a phone that makes anythin...",
-      "url": "https://www.androidauthority.com/lg-rollable-teardown-3654951/",
-      "publishedAt": "2026-04-06T02:39:04Z",
-      "processed_at": "2026-04-07T13:45:06.489340+00:00"
-    },
-    {
-      "title": "5 Things You Didn't Know Your Apple Watch Can Do In 2026 - SlashGear",
-      "source": {
-        "name": "SlashGear"
-      },
-      "description": "Your Apple Watch brings you a ton of capability to your wrist -- calls, texts, exercise tracking, et...",
-      "url": "https://www.slashgear.com/2132844/things-you-didnt-know-apple-watch-can-do-in-2026/",
-      "publishedAt": "2026-04-06T01:45:00Z",
-      "processed_at": "2026-04-07T13:45:06.489340+00:00"
-    },
-    {
-      "title": "NASA Shares Photos Shot on iPhone 17 Pro Max During Artemis II Mission to the Moon - MacRumors",
+      "title": "Apple Sued by Three YouTube Channels - MacRumors",
       "source": {
         "name": "MacRumors"
       },
-      "description": "NASA has shared three incredible photos shot on the iPhone 17 Pro Max by astronauts during the Artem...",
-      "url": "https://www.macrumors.com/2026/04/05/nasa-artemis-ii-photos-shot-on-iphone-17-pro-max/",
-      "publishedAt": "2026-04-06T01:39:49Z",
-      "processed_at": "2026-04-07T13:45:06.489340+00:00"
+      "description": "Three established YouTube channels have sued Apple, alleging that the company violated the U.S. Digi...",
+      "url": "https://www.macrumors.com/2026/04/06/apple-sued-by-three-youtube-channels/",
+      "publishedAt": "2026-04-06T15:53:49Z",
+      "processed_at": "2026-04-07T15:10:42.775559+00:00"
+    },
+    {
+      "title": "Logitech’s haptics-enhanced MX Master 4 mouse is on sale for under $100 - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "Logitech’s MX Master 4 is a great wireless mouse, and the black model is down to $99.99 at Newegg. T...",
+      "url": "https://www.theverge.com/gadgets/907302/logitech-mx-master-4-mouse-apple-macbook-air-m5-deal-sale",
+      "publishedAt": "2026-04-06T15:20:13Z",
+      "processed_at": "2026-04-07T15:10:42.775559+00:00"
+    },
+    {
+      "title": "Amazon Prime members can claim 12 free games this month, including a much-loved XCOM - Polygon.com",
+      "source": {
+        "name": "Polygon"
+      },
+      "description": "Amazon Prime members can head over to Amazon Luna to claim 12 free game codes, redeemable at storefr...",
+      "url": "https://www.polygon.com/amazon-prime-gaming-luna-free-games-april-2026-xcom/",
+      "publishedAt": "2026-04-06T15:18:09Z",
+      "processed_at": "2026-04-07T15:10:42.775559+00:00"
+    },
+    {
+      "title": "Holy Moly, The Eternal Life Of Goldman Is Looking Really Darn Good - Nintendo Life",
+      "source": {
+        "name": "Nintendo Life"
+      },
+      "description": "New gameplay trailer released...",
+      "url": "https://www.nintendolife.com/news/2026/04/holy-moly-the-eternal-life-of-goldman-is-looking-really-darn-good",
+      "publishedAt": "2026-04-06T15:00:00Z",
+      "processed_at": "2026-04-07T15:10:42.775559+00:00"
+    },
+    {
+      "title": "Samsung is discontinuing its texting app, tells impacted users to switch to Google Messages - AP News",
+      "source": {
+        "name": "Associated Press"
+      },
+      "description": "Samsung is saying goodbye its namesake texting app. According to an end of service announcement publ...",
+      "url": "https://apnews.com/article/samsung-android-messages-google-gemini-823b3eb598611b127e66008ee4390da6",
+      "publishedAt": "2026-04-06T14:59:00Z",
+      "processed_at": "2026-04-07T15:10:42.775559+00:00"
+    },
+    {
+      "title": "This Is The Longest I Haven’t Played ‘Destiny 2’ Since Curse Of Osiris - Forbes",
+      "source": {
+        "name": "Forbes"
+      },
+      "description": "Destiny 2 is not just in a content drought, it is in a content graveyard, and I have not played in m...",
+      "url": "https://www.forbes.com/sites/paultassi/2026/04/06/this-is-the-longest-i-havent-played-destiny-2-since-curse-of-osiris/",
+      "publishedAt": "2026-04-06T14:56:10Z",
+      "processed_at": "2026-04-07T15:10:42.775559+00:00"
+    },
+    {
+      "title": "After Hundreds of Hours, Some Crimson Desert Players Are Complaining That the World Has Become Too 'Peaceful' Because They've Basically Killed All the Enemies - IGN",
+      "source": {
+        "name": "IGN"
+      },
+      "description": "Crimson Desert has a huge map and lengthy story that will take most players over 100 hours to work t...",
+      "url": "https://www.ign.com/articles/after-hundreds-of-hours-some-crimson-desert-players-are-complaining-that-the-world-has-become-too-peaceful-because-theyve-basically-killed-all-the-enemies",
+      "publishedAt": "2026-04-06T14:35:36Z",
+      "processed_at": "2026-04-07T15:10:42.775559+00:00"
+    },
+    {
+      "title": "Gaming Handhelds Are Getting Really Funky—and We’re Here for It - Gizmodo",
+      "source": {
+        "name": "Gizmodo.com"
+      },
+      "description": "",
+      "url": "https://gizmodo.com/gaming-handhelds-are-getting-really-funky-and-were-here-for-it-2000742852",
+      "publishedAt": "2026-04-06T14:30:14Z",
+      "processed_at": "2026-04-07T15:10:42.775559+00:00"
+    },
+    {
+      "title": "New iPhone 18, iPhone Air 2 leaks on design, release date arrive - 9to5Mac",
+      "source": {
+        "name": "9to5Mac"
+      },
+      "description": "New leaks from over the weekend detail what to expect from iPhone 18 and iPhone Air 2’s design and r...",
+      "url": "https://9to5mac.com/2026/04/06/new-iphone-18-iphone-air-2-leaks-on-design-release-date-arrive/",
+      "publishedAt": "2026-04-06T14:26:00Z",
+      "processed_at": "2026-04-07T15:10:42.775559+00:00"
     }
   ],
-  "lastUpdated": "2026-04-07T13:45:06.489421+00:00",
+  "lastUpdated": "2026-04-07T15:10:42.775628+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
