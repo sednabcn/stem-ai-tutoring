@@ -1,6 +1,6 @@
 {
   "status": "success",
-  "totalResults": 10,
+  "totalResults": 8,
   "articles": [
     {
       "title": "Apple’s 2026 Shake-Up: iPhone 18 Pro Leaks While iPhone Fold Steals The Show - Forbes",
@@ -10,7 +10,17 @@
       "description": "Which iPhone flagship should you be waiting for? This September’s launches will be unlike any previo...",
       "url": "https://www.forbes.com/sites/davidphelan/2026/04/07/apples-2026-shake-up-iphone-18-pro-leaks-while-iphone-fold-steals-the-show/",
       "publishedAt": "2026-04-07T07:36:00Z",
-      "processed_at": "2026-04-08T10:58:15.262083+00:00"
+      "processed_at": "2026-04-08T11:58:27.251201+00:00"
+    },
+    {
+      "title": "Google Offers Free PC Upgrade For 500 Million Windows Users - Forbes",
+      "source": {
+        "name": "Forbes"
+      },
+      "description": "All change for Windows — it's now decision time for 30% of all PC owners....",
+      "url": "https://www.forbes.com/sites/zakdoffman/2026/04/07/google-offers-free-pc-upgrade-for-500-million-windows-users/",
+      "publishedAt": "2026-04-07T05:38:19Z",
+      "processed_at": "2026-04-08T11:58:27.251201+00:00"
     },
     {
       "title": "Assassin's Creed Shadows Switch 2 Update Adds Mouse And Keyboard Support - Nintendo Life",
@@ -20,37 +30,7 @@
       "description": "Included in the new game update...",
       "url": "https://www.nintendolife.com/news/2026/04/assassins-creed-shadows-switch-2-update-adds-mouse-and-keyboard-support",
       "publishedAt": "2026-04-07T05:05:34Z",
-      "processed_at": "2026-04-08T10:58:15.262083+00:00"
-    },
-    {
-      "title": "Say no to a ‘camera on your face’, says Meta smartglasses rival - Financial Times",
-      "source": {
-        "name": "Financial Times"
-      },
-      "description": "Shenzhen-based Even Realities pitches itself as a premium alternative that does not harvest user dat...",
-      "url": "https://www.ft.com/content/30390769-2dc1-4573-8d2e-2e8359b2ee39?syn-25a6b1a6\\\\u003d1",
-      "publishedAt": "2026-04-07T04:01:07Z",
-      "processed_at": "2026-04-08T10:58:15.262083+00:00"
-    },
-    {
-      "title": "Foldable iPhone hits engineering snags, shipment delays possible: sources - Nikkei Asia",
-      "source": {
-        "name": "Nikkei.com"
-      },
-      "description": "April-May 'extremely critical' period for Apple to resolve issues in time...",
-      "url": "https://asia.nikkei.com/spotlight/supply-chain/foldable-iphone-hits-engineering-snags-shipment-delays-possible-sources",
-      "publishedAt": "2026-04-07T02:30:00Z",
-      "processed_at": "2026-04-08T10:58:15.262083+00:00"
-    },
-    {
-      "title": "Moonshot on iPhone: Astronaut Reid Wiseman snaps unbelievable photo of the lunar surface - 9to5Mac",
-      "source": {
-        "name": "9to5Mac"
-      },
-      "description": "Artemis II's Commander Reid Wiseman showed off a fantastic photo of the lunar surface he took on his...",
-      "url": "https://9to5mac.com/2026/04/06/moonshot-on-iphone-astronaut-reid-wiseman-snaps-unbelievable-photo-of-the-lunar-surface/",
-      "publishedAt": "2026-04-07T02:17:00Z",
-      "processed_at": "2026-04-08T10:58:15.262083+00:00"
+      "processed_at": "2026-04-08T11:58:27.251201+00:00"
     },
     {
       "title": "Polls: Are you more or less interested to play with Ingrid after the divisive and mysterious girl's teaser in Street Fighter 6? - EventHubs",
@@ -60,7 +40,7 @@
       "description": "Street Fighter 6 is now approaching the end of its third season, but the game still has one more cha...",
       "url": "https://www.eventhubs.com/news/2026/apr/06/ingrid-interest-vote-sf6/",
       "publishedAt": "2026-04-07T01:15:11Z",
-      "processed_at": "2026-04-08T10:58:15.262083+00:00"
+      "processed_at": "2026-04-08T11:58:27.251201+00:00"
     },
     {
       "title": "Nintendo Switch 2 and Switch update 22.1.0 out now, patch notes - Nintendo Everything",
@@ -70,27 +50,7 @@
       "description": "Nintendo has now released a version 22.1.0 update for both Switch 2 and Switch, and here are the pat...",
       "url": "https://nintendoeverything.com/nintendo-switch-2-and-switch-update-22-1-0-out-now-patch-notes/",
       "publishedAt": "2026-04-07T01:14:50Z",
-      "processed_at": "2026-04-08T10:58:15.262083+00:00"
-    },
-    {
-      "title": "Google Pixel 10a finally launches in Japan with exclusive ‘Isai Blue’ color [Video] - 9to5Google",
-      "source": {
-        "name": "9to5google.com"
-      },
-      "description": "The Pixel 10a launched about a month ago in most of the world, but has been absent in Japan despite....",
-      "url": "http://9to5google.com/2026/04/06/google-pixel-10a-exclusive-blue-color-launch/",
-      "publishedAt": "2026-04-07T00:55:00Z",
-      "processed_at": "2026-04-08T10:58:15.262083+00:00"
-    },
-    {
-      "title": "Overwatch's Anran redesign is a massive improvement from Blizzard - Polygon.com",
-      "source": {
-        "name": "Polygon"
-      },
-      "description": "Blizzard revealed Anran's redesign in Overwatch, following backlash over how different her in-game m...",
-      "url": "https://www.polygon.com/overwatchs-anran-redesign-blizzard-better/",
-      "publishedAt": "2026-04-07T00:23:00Z",
-      "processed_at": "2026-04-08T10:58:15.262083+00:00"
+      "processed_at": "2026-04-08T11:58:27.251201+00:00"
     },
     {
       "title": "Apple Continues Promoting iOS 26 and macOS 26 Liquid Glass With Updated Design Gallery - MacRumors",
@@ -100,10 +60,30 @@
       "description": "Apple is continuing to highlight the Liquid Glass aesthetic that it introduced in iOS 26, iPadOS 26,...",
       "url": "https://www.macrumors.com/2026/04/06/apple-liquid-glass-design-gallery-update/",
       "publishedAt": "2026-04-06T23:14:04Z",
-      "processed_at": "2026-04-08T10:58:15.262083+00:00"
+      "processed_at": "2026-04-08T11:58:27.251201+00:00"
+    },
+    {
+      "title": "The 10-Year-Old Nikon D5 DSLR Really Is the Best Camera for Artemis II - PetaPixel",
+      "source": {
+        "name": "PetaPixel"
+      },
+      "description": "The Nikon D5 may be relatively old, but it's also uniquely powerful in low light....",
+      "url": "https://petapixel.com/2026/04/06/the-10-year-old-nikon-d5-dslr-really-is-the-best-camera-for-artemis-ii/",
+      "publishedAt": "2026-04-06T21:48:26Z",
+      "processed_at": "2026-04-08T11:58:27.251201+00:00"
+    },
+    {
+      "title": "Magic: The Gathering's Teenage Mutant Ninja Turtles Is The Most Video Gamey Set Ever - GameSpot",
+      "source": {
+        "name": "GameSpot"
+      },
+      "description": "Other Magic sets draw from video game universes, but the TMNT set stands apart by making the languag...",
+      "url": "https://www.gamespot.com/articles/magic-the-gatherings-teenage-mutant-ninja-turtles-is-the-most-video-gamey-set-ever/1100-6539240/",
+      "publishedAt": "2026-04-06T21:41:33Z",
+      "processed_at": "2026-04-08T11:58:27.251201+00:00"
     }
   ],
-  "lastUpdated": "2026-04-08T10:58:15.262157+00:00",
+  "lastUpdated": "2026-04-08T11:58:27.251273+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
