@@ -3,6 +3,36 @@
   "totalResults": 10,
   "articles": [
     {
+      "title": "LinkedIn scanning users’ browser extensions sparks controversy and two lawsuits - Ars Technica",
+      "source": {
+        "name": "Ars Technica"
+      },
+      "description": "LinkedIn says claims fabricated by extension maker suspended for scraping data....",
+      "url": "https://arstechnica.com/tech-policy/2026/04/linkedin-scanning-users-browser-extensions-sparks-controversy-and-two-lawsuits/",
+      "publishedAt": "2026-04-08T21:08:06Z",
+      "processed_at": "2026-04-09T21:46:45.174005+00:00"
+    },
+    {
+      "title": "Vaughn Gittin Jr. Accuses Car And Driver Of Using AI After A Negative Review Of His 800 HP Mustang That’s Slower Than A Mustang GT - The Autopian",
+      "source": {
+        "name": "Theautopian.com"
+      },
+      "description": "After disappointing test figures from an RTR Spec 3 Mustang, Vaughn Gittin Jr. seems to be accusing ...",
+      "url": "https://www.theautopian.com/vaughn-gittin-jr-baselessly-suggests-that-car-and-driver-is-using-ai-after-slightly-negative-review-of-his-spec-3-mustang/",
+      "publishedAt": "2026-04-08T20:46:01Z",
+      "processed_at": "2026-04-09T21:46:45.174005+00:00"
+    },
+    {
+      "title": "Amazon to end support for older Kindle devices - TechCrunch",
+      "source": {
+        "name": "TechCrunch"
+      },
+      "description": "Amazon told Kindle owners this week that it's ending support for all e-readers released in 2012 or e...",
+      "url": "https://techcrunch.com/2026/04/08/amazon-to-end-support-for-older-kindle-devices-2012/",
+      "publishedAt": "2026-04-08T19:56:16Z",
+      "processed_at": "2026-04-09T21:46:45.174005+00:00"
+    },
+    {
       "title": "I finally get the iPhone Air - The Verge",
       "source": {
         "name": "The Verge"
@@ -10,7 +40,7 @@
       "description": "The iPhone Air is delightfully slim but comes with a small battery and one rear camera. But maybe th...",
       "url": "https://www.theverge.com/gadgets/908788/iphone-air-magsafe-wallet-battery-modular",
       "publishedAt": "2026-04-08T19:45:00Z",
-      "processed_at": "2026-04-09T20:53:44.976416+00:00"
+      "processed_at": "2026-04-09T21:46:45.174005+00:00"
     },
     {
       "title": "PlayStation®5 Pro Update Is Live! - cyberpunk.net",
@@ -20,7 +50,17 @@
       "description": "",
       "url": "https://www.cyberpunk.net/en/news/51938/playstation-r-5-pro-update-is-live",
       "publishedAt": "2026-04-08T19:18:29Z",
-      "processed_at": "2026-04-09T20:53:44.976416+00:00"
+      "processed_at": "2026-04-09T21:46:45.174005+00:00"
+    },
+    {
+      "title": "Google Offers Free PC Upgrade For 500 Million Windows Users - Forbes",
+      "source": {
+        "name": "Forbes"
+      },
+      "description": "All change for Windows — it's now decision time for 30% of all PC owners....",
+      "url": "https://www.forbes.com/sites/zakdoffman/2026/04/08/google-offers-free-pc-upgrade-for-500-million-windows-users/",
+      "publishedAt": "2026-04-08T19:16:41Z",
+      "processed_at": "2026-04-09T21:46:45.174005+00:00"
     },
     {
       "title": "Pokémon Fans Blast New ‘Champions’ Game As Nintendo Stock Erases Gains From ‘Pokopia’ - Forbes",
@@ -30,7 +70,7 @@
       "description": "Nintendo stock dipped Wednesday, closing at its lowest price in a month and erasing gains it made la...",
       "url": "https://www.forbes.com/sites/conormurray/2026/04/08/fans-blast-pokmon-champions-game-as-nintendo-wipes-pokopia-stock-gains/",
       "publishedAt": "2026-04-08T18:15:53Z",
-      "processed_at": "2026-04-09T20:53:44.976416+00:00"
+      "processed_at": "2026-04-09T21:46:45.174005+00:00"
     },
     {
       "title": "Available for Xbox Insiders: New Improvements to Achievements - Xbox Wire",
@@ -40,27 +80,7 @@
       "description": "",
       "url": "https://news.xbox.com/en-us/2026/04/08/xbox-insiders-may-2026-console-features/",
       "publishedAt": "2026-04-08T17:02:01Z",
-      "processed_at": "2026-04-09T20:53:44.976416+00:00"
-    },
-    {
-      "title": "Microsoft’s executive shake-up continues as developer division chief resigns - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "Microsoft executive Julia Liuson is leaving the company after 34 years. Liuson is the head of Micros...",
-      "url": "https://www.theverge.com/tech/908793/microsoft-devdiv-julia-liuson-resignation",
-      "publishedAt": "2026-04-08T16:56:43Z",
-      "processed_at": "2026-04-09T20:53:44.976416+00:00"
-    },
-    {
-      "title": "Amazon Pulls Support for Perfectly Fine Older Kindles - WIRED",
-      "source": {
-        "name": "Wired"
-      },
-      "description": "In an email to customers, Amazon announced that it would be ending service for Kindle devices older ...",
-      "url": "https://www.wired.com/story/amazon-pulls-support-for-perfectly-fine-older-kindles/",
-      "publishedAt": "2026-04-08T16:54:00Z",
-      "processed_at": "2026-04-09T20:53:44.976416+00:00"
+      "processed_at": "2026-04-09T21:46:45.174005+00:00"
     },
     {
       "title": "iPhone Air 2 and iPhone 18e Reportedly Launching Early Next Year - MacRumors",
@@ -70,7 +90,7 @@
       "description": "Apple plans to release an updated iPhone Air and a lower-end iPhone 18e early next year, according t...",
       "url": "https://www.macrumors.com/2026/04/08/iphone-air-2-and-iphone-18e-early-next-year/",
       "publishedAt": "2026-04-08T16:38:45Z",
-      "processed_at": "2026-04-09T20:53:44.976416+00:00"
+      "processed_at": "2026-04-09T21:46:45.174005+00:00"
     },
     {
       "title": "Overwatch’s Next Hero Isn’t Who Fans Thought She Was - Kotaku",
@@ -80,30 +100,10 @@
       "description": "The game’s 51st hero looked a lot like a character from the novels...",
       "url": "https://kotaku.com/overwatch-hero-51-season-2-frankie-sierra-trailer-reveal-2000685793",
       "publishedAt": "2026-04-08T16:33:42Z",
-      "processed_at": "2026-04-09T20:53:44.976416+00:00"
-    },
-    {
-      "title": "2026’s Newest Sci-Fi Extraction Shooter Only Lasted Three Weeks Before Announcing It’s Shutting Down - Kotaku",
-      "source": {
-        "name": "Kotaku"
-      },
-      "description": "Live-Service game The Cube, Save Us is closing in one month...",
-      "url": "https://kotaku.com/the-cube-save-us-live-service-closure-extraction-shooter-2000685769",
-      "publishedAt": "2026-04-08T16:06:13Z",
-      "processed_at": "2026-04-09T20:53:44.976416+00:00"
-    },
-    {
-      "title": "Early Build Of Mirror's Edge Reveals A Wonderfully Cringe Quote - Kotaku",
-      "source": {
-        "name": "Kotaku"
-      },
-      "description": "Also: Star Fox's big new game reveal could happen any day now...",
-      "url": "https://kotaku.com/assassins-creed-black-flag-remake-star-fox-reveal-2000685729",
-      "publishedAt": "2026-04-08T15:45:18Z",
-      "processed_at": "2026-04-09T20:53:44.976416+00:00"
+      "processed_at": "2026-04-09T21:46:45.174005+00:00"
     }
   ],
-  "lastUpdated": "2026-04-09T20:53:44.976490+00:00",
+  "lastUpdated": "2026-04-09T21:46:45.174119+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
