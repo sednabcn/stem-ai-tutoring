@@ -1,7 +1,47 @@
 {
   "status": "success",
-  "totalResults": 10,
+  "totalResults": 7,
   "articles": [
+    {
+      "title": "Regularly $999, score a MacBook Air for $200 with this limited-time deal - Mashable",
+      "source": {
+        "name": "Mashable"
+      },
+      "description": "High-end laptop, low-end price tag....",
+      "url": "https://mashable.com/article/april-8-macbook-air-13-3-inch-8gbram-128gb",
+      "publishedAt": "2026-04-08T14:37:22Z",
+      "processed_at": "2026-04-09T14:06:26.020697+00:00"
+    },
+    {
+      "title": "#New40k – Take cover with updated terrain rules - Warhammer Community",
+      "source": {
+        "name": "Warhammer-community.com"
+      },
+      "description": "It’s not hiding, it’s tactical! See how rocks and ruins have changed in the new edition....",
+      "url": "https://www.warhammer-community.com/articles/xlppkx5s/new40k-take-cover-with-updated-terrain-rules",
+      "publishedAt": "2026-04-08T13:59:58Z",
+      "processed_at": "2026-04-09T14:06:26.020697+00:00"
+    },
+    {
+      "title": "Xbox’s new era needs games like Forza Horizon 6 - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "Forza Horizon 6 launches on the Xbox and PC on May 19th, and it represents an important moment for M...",
+      "url": "https://www.theverge.com/games/908305/forza-horizon-6-preview-xbox",
+      "publishedAt": "2026-04-08T13:00:00Z",
+      "processed_at": "2026-04-09T14:06:26.020697+00:00"
+    },
+    {
+      "title": "Apple very cautious about iPhone Ultra sales, as Samsung wins major concession - 9to5Mac",
+      "source": {
+        "name": "9to5Mac"
+      },
+      "description": "A new report suggests Apple is being extremely cautious in its expectations of demand for its most e...",
+      "url": "https://9to5mac.com/2026/04/08/apple-very-cautious-about-iphone-ultra-sales-as-samsung-wins-major-concession/",
+      "publishedAt": "2026-04-08T12:52:00Z",
+      "processed_at": "2026-04-09T14:06:26.020697+00:00"
+    },
     {
       "title": "A year of continuous glucose monitoring pushed me to the edge - The Verge",
       "source": {
@@ -10,7 +50,17 @@
       "description": "After over a year of testing continuous glucose monitors for non-diabetics, the jury is still out on...",
       "url": "https://www.theverge.com/features/907359/cgms-optimizing-metabolism-dexcom-abbott-wearables-health-tech",
       "publishedAt": "2026-04-08T11:00:00Z",
-      "processed_at": "2026-04-09T12:00:13.415636+00:00"
+      "processed_at": "2026-04-09T14:06:26.020697+00:00"
+    },
+    {
+      "title": "Cyberpunk 2077 gets a free PS5 Pro upgrade today that brings PSSR and better ray tracing options - Eurogamer",
+      "source": {
+        "name": "Eurogamer.net"
+      },
+      "description": "",
+      "url": "https://www.eurogamer.net/cyberpunk-2077-ps5-pro-upgrade-arrives",
+      "publishedAt": "2026-04-08T10:03:59Z",
+      "processed_at": "2026-04-09T14:06:26.020697+00:00"
     },
     {
       "title": "Apple’s 2026 Shake-Up: iPhone 18 Pro Leaks While iPhone Fold Steals The Show - Forbes",
@@ -20,90 +70,10 @@
       "description": "Which iPhone flagship should you be waiting for? This September’s launches will be unlike any previo...",
       "url": "https://www.forbes.com/sites/davidphelan/2026/04/08/apples-2026-shake-up-iphone-18-pro-leaks-while-iphone-fold-steals-the-show/",
       "publishedAt": "2026-04-08T10:01:00Z",
-      "processed_at": "2026-04-09T12:00:13.415636+00:00"
-    },
-    {
-      "title": "Sony Testing New PlayStation 5 Dashboard, Fans Say, And the Hope is That Full Themes Are Next - IGN",
-      "source": {
-        "name": "IGN"
-      },
-      "description": "",
-      "url": "https://www.ign.com/articles/looks-like-sony-is-testing-a-new-playstation-5-dashboard-design-and-fans-hope-full-themes-are-next",
-      "publishedAt": "2026-04-08T09:48:33Z",
-      "processed_at": "2026-04-09T12:00:13.415636+00:00"
-    },
-    {
-      "title": "Why Microsoft’s war on Windows’ Control Panel is taking so long - theverge.com",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "It’s all to do with pesky printer and network drivers....",
-      "url": "https://www.theverge.com/news/908624/microsoft-windows-control-panel-removal-explanation",
-      "publishedAt": "2026-04-08T09:23:58Z",
-      "processed_at": "2026-04-09T12:00:13.415636+00:00"
-    },
-    {
-      "title": "Google’s April 2026 Pixel update tackles some annoying bugs - androidpolice.com",
-      "source": {
-        "name": "Android Police"
-      },
-      "description": "Fixes game crashes and Quick Share issues...",
-      "url": "https://www.androidpolice.com/google-april-2026-pixel-update-tackles-some-annoying-bugs/",
-      "publishedAt": "2026-04-08T05:07:34Z",
-      "processed_at": "2026-04-09T12:00:13.415636+00:00"
-    },
-    {
-      "title": "PSA: You Can Now Download Pokémon Champions On Switch - Nintendo Life",
-      "source": {
-        "name": "Nintendo Life"
-      },
-      "description": "There's also a free update for Switch 2...",
-      "url": "https://www.nintendolife.com/news/2026/04/psa-you-can-now-download-pokemon-champions-on-switch",
-      "publishedAt": "2026-04-08T03:35:00Z",
-      "processed_at": "2026-04-09T12:00:13.415636+00:00"
-    },
-    {
-      "title": "Google finally adds a long-requested gaming feature to Android 17 - Android Authority",
-      "source": {
-        "name": "Android Authority"
-      },
-      "description": "Google has added controller remapping in Android 17 Beta, allowing gamers to customize how their gam...",
-      "url": "https://www.androidauthority.com/android-17-controller-remapping-3655681/",
-      "publishedAt": "2026-04-08T02:01:22Z",
-      "processed_at": "2026-04-09T12:00:13.415636+00:00"
-    },
-    {
-      "title": "WhatsApp Gets New CarPlay App - MacRumors",
-      "source": {
-        "name": "MacRumors"
-      },
-      "description": "Facebook-owned messaging app WhatsApp was today updated with expanded support for CarPlay. CarPlay u...",
-      "url": "https://www.macrumors.com/2026/04/07/whatsapp-gets-new-carplay-app/",
-      "publishedAt": "2026-04-07T23:32:35Z",
-      "processed_at": "2026-04-09T12:00:13.415636+00:00"
-    },
-    {
-      "title": "Apple and Lenovo have the least repairable laptops, analysis finds - Ars Technica",
-      "source": {
-        "name": "Ars Technica"
-      },
-      "description": "The MacBook Neo is a step in the right direction, though....",
-      "url": "https://arstechnica.com/gadgets/2026/04/apple-has-the-lowest-grades-in-laptop-phone-repairability-analysis/",
-      "publishedAt": "2026-04-07T22:08:32Z",
-      "processed_at": "2026-04-09T12:00:13.415636+00:00"
-    },
-    {
-      "title": "Amazon is ending support for older Kindles and Kindle Fires - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "Amazon is ending support for several Kindle and Kindle Fire devices released in 2012 and earlier, in...",
-      "url": "https://www.theverge.com/tech/908302/amazon-ending-support-kindle-fire-tablet-e-reader-pre-2012-older",
-      "publishedAt": "2026-04-07T21:44:20Z",
-      "processed_at": "2026-04-09T12:00:13.415636+00:00"
+      "processed_at": "2026-04-09T14:06:26.020697+00:00"
     }
   ],
-  "lastUpdated": "2026-04-09T12:00:13.415711+00:00",
+  "lastUpdated": "2026-04-09T14:06:26.020764+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
