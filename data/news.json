@@ -3,6 +3,36 @@
   "totalResults": 10,
   "articles": [
     {
+      "title": "I finally get the iPhone Air - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "The iPhone Air is delightfully slim but comes with a small battery and one rear camera. But maybe th...",
+      "url": "https://www.theverge.com/gadgets/908788/iphone-air-magsafe-wallet-battery-modular",
+      "publishedAt": "2026-04-08T19:45:00Z",
+      "processed_at": "2026-04-09T19:21:35.282486+00:00"
+    },
+    {
+      "title": "PlayStation®5 Pro Update Is Live! - cyberpunk.net",
+      "source": {
+        "name": "Cyberpunk.net"
+      },
+      "description": "",
+      "url": "https://www.cyberpunk.net/en/news/51938/playstation-r-5-pro-update-is-live",
+      "publishedAt": "2026-04-08T19:18:29Z",
+      "processed_at": "2026-04-09T19:21:35.282486+00:00"
+    },
+    {
+      "title": "Pokémon Fans Blast New ‘Champions’ Game As Nintendo Stock Erases Gains From ‘Pokopia’ - Forbes",
+      "source": {
+        "name": "Forbes"
+      },
+      "description": "Nintendo stock dipped Wednesday, closing at its lowest price in a month and erasing gains it made la...",
+      "url": "https://www.forbes.com/sites/conormurray/2026/04/08/fans-blast-pokmon-champions-game-as-nintendo-wipes-pokopia-stock-gains/",
+      "publishedAt": "2026-04-08T18:15:53Z",
+      "processed_at": "2026-04-09T19:21:35.282486+00:00"
+    },
+    {
       "title": "Available for Xbox Insiders: New Improvements to Achievements - Xbox Wire",
       "source": {
         "name": "Xbox.com"
@@ -10,7 +40,17 @@
       "description": "",
       "url": "https://news.xbox.com/en-us/2026/04/08/xbox-insiders-may-2026-console-features/",
       "publishedAt": "2026-04-08T17:02:01Z",
-      "processed_at": "2026-04-09T17:59:39.863027+00:00"
+      "processed_at": "2026-04-09T19:21:35.282486+00:00"
+    },
+    {
+      "title": "Microsoft’s executive shake-up continues as developer division chief resigns - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "Microsoft executive Julia Liuson is leaving the company after 34 years. Liuson is the head of Micros...",
+      "url": "https://www.theverge.com/tech/908793/microsoft-devdiv-julia-liuson-resignation",
+      "publishedAt": "2026-04-08T16:56:43Z",
+      "processed_at": "2026-04-09T19:21:35.282486+00:00"
     },
     {
       "title": "Amazon Pulls Support for Perfectly Fine Older Kindles - WIRED",
@@ -20,7 +60,17 @@
       "description": "In an email to customers, Amazon announced that it would be ending service for Kindle devices older ...",
       "url": "https://www.wired.com/story/amazon-pulls-support-for-perfectly-fine-older-kindles/",
       "publishedAt": "2026-04-08T16:54:00Z",
-      "processed_at": "2026-04-09T17:59:39.863027+00:00"
+      "processed_at": "2026-04-09T19:21:35.282486+00:00"
+    },
+    {
+      "title": "iPhone Air 2 and iPhone 18e Reportedly Launching Early Next Year - MacRumors",
+      "source": {
+        "name": "MacRumors"
+      },
+      "description": "Apple plans to release an updated iPhone Air and a lower-end iPhone 18e early next year, according t...",
+      "url": "https://www.macrumors.com/2026/04/08/iphone-air-2-and-iphone-18e-early-next-year/",
+      "publishedAt": "2026-04-08T16:38:45Z",
+      "processed_at": "2026-04-09T19:21:35.282486+00:00"
     },
     {
       "title": "Overwatch’s Next Hero Isn’t Who Fans Thought She Was - Kotaku",
@@ -30,7 +80,7 @@
       "description": "The game’s 51st hero looked a lot like a character from the novels...",
       "url": "https://kotaku.com/overwatch-hero-51-season-2-frankie-sierra-trailer-reveal-2000685793",
       "publishedAt": "2026-04-08T16:33:42Z",
-      "processed_at": "2026-04-09T17:59:39.863027+00:00"
+      "processed_at": "2026-04-09T19:21:35.282486+00:00"
     },
     {
       "title": "2026’s Newest Sci-Fi Extraction Shooter Only Lasted Three Weeks Before Announcing It’s Shutting Down - Kotaku",
@@ -40,70 +90,20 @@
       "description": "Live-Service game The Cube, Save Us is closing in one month...",
       "url": "https://kotaku.com/the-cube-save-us-live-service-closure-extraction-shooter-2000685769",
       "publishedAt": "2026-04-08T16:06:13Z",
-      "processed_at": "2026-04-09T17:59:39.863027+00:00"
+      "processed_at": "2026-04-09T19:21:35.282486+00:00"
     },
     {
-      "title": "Steam client files point to \"framerate estimator\" feature in the works - Ars Technica",
+      "title": "Early Build Of Mirror's Edge Reveals A Wonderfully Cringe Quote - Kotaku",
       "source": {
-        "name": "Ars Technica"
+        "name": "Kotaku"
       },
-      "description": "JSON text strings suggest performance charts based on \"framerates of other Steam users.\"...",
-      "url": "https://arstechnica.com/gaming/2026/04/steam-client-files-point-to-framerate-estimator-feature-in-the-works/",
-      "publishedAt": "2026-04-08T15:37:04Z",
-      "processed_at": "2026-04-09T17:59:39.863027+00:00"
-    },
-    {
-      "title": "007 First Light Is Getting Its Own Limited Edition DualSense PS5 Controller - Push Square",
-      "source": {
-        "name": "Push Square"
-      },
-      "description": "The Man with the Golden Pad...",
-      "url": "https://www.pushsquare.com/news/2026/04/007-first-light-is-getting-its-own-limited-edition-dualsense-ps5-controller",
-      "publishedAt": "2026-04-08T15:30:00Z",
-      "processed_at": "2026-04-09T17:59:39.863027+00:00"
-    },
-    {
-      "title": "Car Keys in Wallet recently launched for two major vehicle brands, with more soon - 9to5Mac",
-      "source": {
-        "name": "9to5Mac"
-      },
-      "description": "Apple Wallet car key support keeps expanding to more new vehicle brands, here are the recent and upc...",
-      "url": "https://9to5mac.com/2026/04/08/car-keys-in-wallet-recently-launched-for-two-major-vehicle-brands-with-more-soon/",
-      "publishedAt": "2026-04-08T15:06:00Z",
-      "processed_at": "2026-04-09T17:59:39.863027+00:00"
-    },
-    {
-      "title": "Apple's Three-Year Plan to 'Reinvent' the iPhone is Underway - MacRumors",
-      "source": {
-        "name": "MacRumors"
-      },
-      "description": "Apple is in the middle of a three-year plan to \"reinvent\" the look and feel of the iPhone, according...",
-      "url": "https://www.macrumors.com/2026/04/08/apple-three-year-plan-to-reinvent-iphone/",
-      "publishedAt": "2026-04-08T15:04:22Z",
-      "processed_at": "2026-04-09T17:59:39.863027+00:00"
-    },
-    {
-      "title": "Pokémon Champions launches to mixed reception, as performance woes and competitive changes turn some away - Eurogamer",
-      "source": {
-        "name": "Eurogamer.net"
-      },
-      "description": "Pokémon Champions is out, and due to performance limitations and certain gameplay choices has some f...",
-      "url": "https://www.eurogamer.net/pokemon-champions-reception-performance-woes-competitive-changes",
-      "publishedAt": "2026-04-08T14:38:30Z",
-      "processed_at": "2026-04-09T17:59:39.863027+00:00"
-    },
-    {
-      "title": "James Bond game 007: First Light delayed a bit on Nintendo Switch 2 - Eurogamer",
-      "source": {
-        "name": "Eurogamer.net"
-      },
-      "description": "IO Interactive's 007: First Light is still targeting a May release, but its Nintendo Switch 2 port w...",
-      "url": "https://www.eurogamer.net/007-first-light-delayed-nintendo-switch-2",
-      "publishedAt": "2026-04-08T14:07:34Z",
-      "processed_at": "2026-04-09T17:59:39.863027+00:00"
+      "description": "Also: Star Fox's big new game reveal could happen any day now...",
+      "url": "https://kotaku.com/assassins-creed-black-flag-remake-star-fox-reveal-2000685729",
+      "publishedAt": "2026-04-08T15:45:18Z",
+      "processed_at": "2026-04-09T19:21:35.282486+00:00"
     }
   ],
-  "lastUpdated": "2026-04-09T17:59:39.863103+00:00",
+  "lastUpdated": "2026-04-09T19:21:35.282561+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
