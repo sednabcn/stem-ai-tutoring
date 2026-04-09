@@ -3,6 +3,56 @@
   "totalResults": 10,
   "articles": [
     {
+      "title": "A year of continuous glucose monitoring pushed me to the edge - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "After over a year of testing continuous glucose monitors for non-diabetics, the jury is still out on...",
+      "url": "https://www.theverge.com/features/907359/cgms-optimizing-metabolism-dexcom-abbott-wearables-health-tech",
+      "publishedAt": "2026-04-08T11:00:00Z",
+      "processed_at": "2026-04-09T12:00:13.415636+00:00"
+    },
+    {
+      "title": "Apple’s 2026 Shake-Up: iPhone 18 Pro Leaks While iPhone Fold Steals The Show - Forbes",
+      "source": {
+        "name": "Forbes"
+      },
+      "description": "Which iPhone flagship should you be waiting for? This September’s launches will be unlike any previo...",
+      "url": "https://www.forbes.com/sites/davidphelan/2026/04/08/apples-2026-shake-up-iphone-18-pro-leaks-while-iphone-fold-steals-the-show/",
+      "publishedAt": "2026-04-08T10:01:00Z",
+      "processed_at": "2026-04-09T12:00:13.415636+00:00"
+    },
+    {
+      "title": "Sony Testing New PlayStation 5 Dashboard, Fans Say, And the Hope is That Full Themes Are Next - IGN",
+      "source": {
+        "name": "IGN"
+      },
+      "description": "",
+      "url": "https://www.ign.com/articles/looks-like-sony-is-testing-a-new-playstation-5-dashboard-design-and-fans-hope-full-themes-are-next",
+      "publishedAt": "2026-04-08T09:48:33Z",
+      "processed_at": "2026-04-09T12:00:13.415636+00:00"
+    },
+    {
+      "title": "Why Microsoft’s war on Windows’ Control Panel is taking so long - theverge.com",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "It’s all to do with pesky printer and network drivers....",
+      "url": "https://www.theverge.com/news/908624/microsoft-windows-control-panel-removal-explanation",
+      "publishedAt": "2026-04-08T09:23:58Z",
+      "processed_at": "2026-04-09T12:00:13.415636+00:00"
+    },
+    {
+      "title": "Google’s April 2026 Pixel update tackles some annoying bugs - androidpolice.com",
+      "source": {
+        "name": "Android Police"
+      },
+      "description": "Fixes game crashes and Quick Share issues...",
+      "url": "https://www.androidpolice.com/google-april-2026-pixel-update-tackles-some-annoying-bugs/",
+      "publishedAt": "2026-04-08T05:07:34Z",
+      "processed_at": "2026-04-09T12:00:13.415636+00:00"
+    },
+    {
       "title": "PSA: You Can Now Download Pokémon Champions On Switch - Nintendo Life",
       "source": {
         "name": "Nintendo Life"
@@ -10,27 +60,27 @@
       "description": "There's also a free update for Switch 2...",
       "url": "https://www.nintendolife.com/news/2026/04/psa-you-can-now-download-pokemon-champions-on-switch",
       "publishedAt": "2026-04-08T03:35:00Z",
-      "processed_at": "2026-04-09T11:00:18.907747+00:00"
+      "processed_at": "2026-04-09T12:00:13.415636+00:00"
     },
     {
-      "title": "WhatsApp’s improved CarPlay experience is now available to all iPhone users - 9to5Mac",
+      "title": "Google finally adds a long-requested gaming feature to Android 17 - Android Authority",
       "source": {
-        "name": "9to5Mac"
+        "name": "Android Authority"
       },
-      "description": "Following just a few days of beta testing, WhatsApp has now released its improved CarPlay experience...",
-      "url": "https://9to5mac.com/2026/04/07/whatsapps-improved-carplay-experience-is-now-available-to-all-iphone-users/",
-      "publishedAt": "2026-04-08T00:59:00Z",
-      "processed_at": "2026-04-09T11:00:18.907747+00:00"
+      "description": "Google has added controller remapping in Android 17 Beta, allowing gamers to customize how their gam...",
+      "url": "https://www.androidauthority.com/android-17-controller-remapping-3655681/",
+      "publishedAt": "2026-04-08T02:01:22Z",
+      "processed_at": "2026-04-09T12:00:13.415636+00:00"
     },
     {
-      "title": "Valve brings native Steam Link app to Apple's Vision Pro - Ars Technica",
+      "title": "WhatsApp Gets New CarPlay App - MacRumors",
       "source": {
-        "name": "Ars Technica"
+        "name": "MacRumors"
       },
-      "description": "New app can replace third-party options that were jankier to use....",
-      "url": "https://arstechnica.com/gaming/2026/04/valve-brings-native-steam-link-app-to-apples-vision-pro/",
-      "publishedAt": "2026-04-07T22:21:21Z",
-      "processed_at": "2026-04-09T11:00:18.907747+00:00"
+      "description": "Facebook-owned messaging app WhatsApp was today updated with expanded support for CarPlay. CarPlay u...",
+      "url": "https://www.macrumors.com/2026/04/07/whatsapp-gets-new-carplay-app/",
+      "publishedAt": "2026-04-07T23:32:35Z",
+      "processed_at": "2026-04-09T12:00:13.415636+00:00"
     },
     {
       "title": "Apple and Lenovo have the least repairable laptops, analysis finds - Ars Technica",
@@ -40,7 +90,7 @@
       "description": "The MacBook Neo is a step in the right direction, though....",
       "url": "https://arstechnica.com/gadgets/2026/04/apple-has-the-lowest-grades-in-laptop-phone-repairability-analysis/",
       "publishedAt": "2026-04-07T22:08:32Z",
-      "processed_at": "2026-04-09T11:00:18.907747+00:00"
+      "processed_at": "2026-04-09T12:00:13.415636+00:00"
     },
     {
       "title": "Amazon is ending support for older Kindles and Kindle Fires - The Verge",
@@ -50,60 +100,10 @@
       "description": "Amazon is ending support for several Kindle and Kindle Fire devices released in 2012 and earlier, in...",
       "url": "https://www.theverge.com/tech/908302/amazon-ending-support-kindle-fire-tablet-e-reader-pre-2012-older",
       "publishedAt": "2026-04-07T21:44:20Z",
-      "processed_at": "2026-04-09T11:00:18.907747+00:00"
-    },
-    {
-      "title": "Google Brings Vertical Tabs and Improved Reading Mode to Chrome - MacRumors",
-      "source": {
-        "name": "MacRumors"
-      },
-      "description": "Google today updated its Chrome browser with support for vertical tabs, which are displayed in a sid...",
-      "url": "https://www.macrumors.com/2026/04/07/chrome-vertical-tabs/",
-      "publishedAt": "2026-04-07T20:27:08Z",
-      "processed_at": "2026-04-09T11:00:18.907747+00:00"
-    },
-    {
-      "title": "Google Introduces $3 ChromeOS Flex Kit for 500M Windows 10 Users - TechRepublic",
-      "source": {
-        "name": "TechRepublic"
-      },
-      "description": "Google and Back Market’s $3 ChromeOS Flex USB Kit offers Windows 10 users a low-cost way to revive o...",
-      "url": "https://www.techrepublic.com/article/news-google-3-dollar-chromeos-flex-kit-windows-10-users/",
-      "publishedAt": "2026-04-07T20:24:51Z",
-      "processed_at": "2026-04-09T11:00:18.907747+00:00"
-    },
-    {
-      "title": "Nickelodeon Extreme Tennis Next announced for Nintendo Switch - Nintendo Everything",
-      "source": {
-        "name": "Nintendoeverything.com"
-      },
-      "description": "Today, Gameloft unveiled Nickelodeon Extreme Tennis Next for Nintendo Switch. The game is launching ...",
-      "url": "https://nintendoeverything.com/nickelodeon-extreme-tennis-next-announced-for-nintendo-switch/",
-      "publishedAt": "2026-04-07T20:05:44Z",
-      "processed_at": "2026-04-09T11:00:18.907747+00:00"
-    },
-    {
-      "title": "Chris Pratt Gets Roasted For Fumbling Basic Mario Lore - Kotaku",
-      "source": {
-        "name": "Kotaku"
-      },
-      "description": "‘It’s one thing to not know the source material but how do you not even know what’s happening in you...",
-      "url": "https://kotaku.com/chris-pratt-mario-galaxy-movie-mushroom-planet-kingdom-2000685457",
-      "publishedAt": "2026-04-07T19:51:28Z",
-      "processed_at": "2026-04-09T11:00:18.907747+00:00"
-    },
-    {
-      "title": "Review: Cyberpunk 2077's PS5 Pro Patch Goes Heavy On RT And Performance Upgrades - Digital Foundry",
-      "source": {
-        "name": "Digitalfoundry.net"
-      },
-      "description": "Three new modes, backed by the new PSSR....",
-      "url": "https://www.digitalfoundry.net/reviews/cyberpunk-2077s-ps5-pro-patch-goes-heavy-on-rt-and-performance-upgrades",
-      "publishedAt": "2026-04-07T19:47:00Z",
-      "processed_at": "2026-04-09T11:00:18.907747+00:00"
+      "processed_at": "2026-04-09T12:00:13.415636+00:00"
     }
   ],
-  "lastUpdated": "2026-04-09T11:00:18.907821+00:00",
+  "lastUpdated": "2026-04-09T12:00:13.415711+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
