@@ -1,7 +1,47 @@
 {
   "status": "success",
-  "totalResults": 9,
+  "totalResults": 10,
   "articles": [
+    {
+      "title": "How to get a refund on the Nintendo eShop - Nintendo Everything",
+      "source": {
+        "name": "Nintendoeverything.com"
+      },
+      "description": "Here's what you can and can't get refunds for on the Nintendo eShop on Switch and Switch 2 with info...",
+      "url": "https://nintendoeverything.com/how-to-get-a-refund-on-the-nintendo-eshop/",
+      "publishedAt": "2026-04-12T04:54:52Z",
+      "processed_at": "2026-04-13T05:43:46.782506+00:00"
+    },
+    {
+      "title": "Two First-Party Switch 2 Ratings Have Been Spotted - Nintendo Life",
+      "source": {
+        "name": "Nintendo Life"
+      },
+      "description": "We're ready when you are, Nintendo...",
+      "url": "https://www.nintendolife.com/news/2026/04/two-first-party-switch-2-ratings-have-been-spotted",
+      "publishedAt": "2026-04-12T01:05:00Z",
+      "processed_at": "2026-04-13T05:43:46.782506+00:00"
+    },
+    {
+      "title": "Regularly $1,099, you can now get this MacBook Air for $230 if you act fast - Mashable",
+      "source": {
+        "name": "Mashable"
+      },
+      "description": "Who knew MacBook Airs could be budget friendly?...",
+      "url": "https://mashable.com/article/april-10-macbook-air-13-3-inch-8gbram-128gb",
+      "publishedAt": "2026-04-12T00:20:45Z",
+      "processed_at": "2026-04-13T05:43:46.782506+00:00"
+    },
+    {
+      "title": "Department 56 Reveals Disneyland Haunted Mansion Figure - WDW News Today",
+      "source": {
+        "name": "wdwnt.com"
+      },
+      "description": "Department 56, known for their miniature holiday village figures, has announced a new Disneyland-ins...",
+      "url": "https://wdwnt.com/2026/04/department-56-reveals-disneyland-haunted-mansion-figure/",
+      "publishedAt": "2026-04-11T23:37:00Z",
+      "processed_at": "2026-04-13T05:43:46.782506+00:00"
+    },
     {
       "title": "Starfield Has a Serious Crashing Issue on PS5, PS5 Pro - Push Square",
       "source": {
@@ -9,91 +49,61 @@
       },
       "description": "Seeing stars...",
       "url": "https://www.pushsquare.com/news/2026/04/starfield-has-a-serious-crashing-issue-on-ps5-ps5-pro",
-      "publishedAt": "2026-04-11T19:30:00Z",
-      "processed_at": "2026-04-13T02:51:31.353579+00:00"
+      "publishedAt": "2026-04-11T23:00:00Z",
+      "processed_at": "2026-04-13T05:43:46.782506+00:00"
     },
     {
-      "title": "Nintendo Prime: Nintendo is spreading fake information internally to patch leaks - My Nintendo News",
+      "title": "PS5's PS Store Is Getting a Netflix-Style Makeover Soon - Push Square",
       "source": {
-        "name": "My Nintendo News"
+        "name": "Push Square"
       },
-      "description": "Nintendo is an extremely secretive company but in recent weeks they’ve sprung some leaks and it isn’...",
-      "url": "https://mynintendonews.com/2026/04/11/nintendo-prime-nintendo-is-spreading-fake-information-internally-to-patch-leaks/",
-      "publishedAt": "2026-04-11T19:24:32Z",
-      "processed_at": "2026-04-13T02:51:31.353579+00:00"
+      "description": "Refit coming soon...",
+      "url": "https://www.pushsquare.com/news/2026/04/ps5s-ps-store-is-getting-a-netflix-style-makeover-soon",
+      "publishedAt": "2026-04-11T22:49:29Z",
+      "processed_at": "2026-04-13T05:43:46.782506+00:00"
     },
     {
-      "title": "XChat to launch on iPhone and iPad - Mashable",
+      "title": "Samsung Galaxy Z Fold 8 launch date leaks - Mashable",
       "source": {
         "name": "Mashable"
       },
-      "description": "Can this X-affiliated chat app compete with WhatsApp and Signal?...",
-      "url": "https://mashable.com/article/xchat-to-launch-on-iphone-and-ipad",
-      "publishedAt": "2026-04-11T18:21:20Z",
-      "processed_at": "2026-04-13T02:51:31.353579+00:00"
+      "description": "And it's not terribly surprising....",
+      "url": "https://mashable.com/article/samsung-galaxy-z-fold-8-launch-date-leaked",
+      "publishedAt": "2026-04-11T22:00:39Z",
+      "processed_at": "2026-04-13T05:43:46.782506+00:00"
     },
     {
-      "title": "Epic set to release Arc Raiders-like extraction shooter with Disney characters by the end of the year - Eurogamer",
+      "title": "Samsung Confirms Bad Price News For Galaxy Phone Buyers - Forbes",
       "source": {
-        "name": "Eurogamer.net"
+        "name": "Forbes"
       },
-      "description": "Epic Games will allegedly release an Arc Raiders-like shooter later this year....",
-      "url": "https://www.eurogamer.net/epic-set-to-release-arc-raiders-like-extraction-shooter-with-disney-characters-by-the-end-of-the-year",
-      "publishedAt": "2026-04-11T17:24:37Z",
-      "processed_at": "2026-04-13T02:51:31.353579+00:00"
+      "description": "Samsung is raising prices for premium Galaxy phones that are months old. Bucking a long-held trend o...",
+      "url": "https://www.forbes.com/sites/jaymcgregor/2026/04/11/samsung-price-hike-galaxy-z-fold-7-galaxy-s25-2026/",
+      "publishedAt": "2026-04-11T20:35:53Z",
+      "processed_at": "2026-04-13T05:43:46.782506+00:00"
     },
     {
-      "title": "Anthropic's Claude for Word is another challenge to Microsoft's software empire - Business Insider",
-      "source": {
-        "name": "Business Insider"
-      },
-      "description": "Anthropic launched a beta version of Claude for Word. It's another challenge to Microsoft's software...",
-      "url": "https://www.businessinsider.com/anthropic-claude-microsoft-word-lawyers-2026-4",
-      "publishedAt": "2026-04-11T15:48:00Z",
-      "processed_at": "2026-04-13T02:51:31.353579+00:00"
-    },
-    {
-      "title": "'iPhone Ultra' Will Solve Two Key Problems - MacRumors",
-      "source": {
-        "name": "MacRumors"
-      },
-      "description": "Apple reportedly plans to unveil a foldable iPhone in September, and the device will supposedly solv...",
-      "url": "https://www.macrumors.com/2026/04/11/iphone-ultra-will-solve-two-key-problems/",
-      "publishedAt": "2026-04-11T15:40:00Z",
-      "processed_at": "2026-04-13T02:51:31.353579+00:00"
-    },
-    {
-      "title": "“AI polls” are fake polls - Silver Bulletin",
-      "source": {
-        "name": "Natesilver.net"
-      },
-      "description": "But they might be useful as something else: models....",
-      "url": "https://www.natesilver.net/p/ai-polls-are-fake-polls",
-      "publishedAt": "2026-04-11T15:38:26Z",
-      "processed_at": "2026-04-13T02:51:31.353579+00:00"
-    },
-    {
-      "title": "Borderlands 4 Nintendo Switch 2 copies apparently spotted in the wild despite the game being put on hold indefinitely - Nintendo Everything",
+      "title": "Mouse: P.I. for Hire details Nintendo Switch 2 frame rate, resolution - Nintendo Everything",
       "source": {
         "name": "Nintendoeverything.com"
       },
-      "description": "There’s been an interesting development with the Nintendo Switch 2 version of Borderlands 4 as the g...",
-      "url": "https://nintendoeverything.com/borderlands-4-nintendo-switch-2-copies-apparently-spotted-in-the-wild-despite-the-game-being-put-on-hold-indefinitely/",
-      "publishedAt": "2026-04-11T15:19:36Z",
-      "processed_at": "2026-04-13T02:51:31.353579+00:00"
+      "description": "PlaySide and Fumi Games have shared details about the frame rate and resolution for Mouse: P.I. for ...",
+      "url": "https://nintendoeverything.com/mouse-p-i-for-hire-details-nintendo-switch-2-frame-rate-resolution/",
+      "publishedAt": "2026-04-11T20:04:36Z",
+      "processed_at": "2026-04-13T05:43:46.782506+00:00"
     },
     {
-      "title": "Apple Highlights Photos Shot on iPhone During NASA's Mission to Moon - MacRumors",
+      "title": "Hackers meet their match: New DNA encryption protects engineered cells from within - Phys.org",
       "source": {
-        "name": "MacRumors"
+        "name": "Phys.Org"
       },
-      "description": "As we previously reported, astronauts aboard NASA's Orion spacecraft used the iPhone 17 Pro Max to t...",
-      "url": "https://www.macrumors.com/2026/04/11/apple-highlights-artemis-ii-iphone-photos/",
-      "publishedAt": "2026-04-11T15:17:14Z",
-      "processed_at": "2026-04-13T02:51:31.353579+00:00"
+      "description": "",
+      "url": "https://phys.org/news/2026-04-hackers-dna-encryption-cells.html",
+      "publishedAt": "2026-04-11T19:00:05Z",
+      "processed_at": "2026-04-13T05:43:46.782506+00:00"
     }
   ],
-  "lastUpdated": "2026-04-13T02:51:31.353653+00:00",
+  "lastUpdated": "2026-04-13T05:43:46.782576+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
