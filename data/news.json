@@ -1,6 +1,6 @@
 {
   "status": "success",
-  "totalResults": 10,
+  "totalResults": 9,
   "articles": [
     {
       "title": "Starfield Has a Serious Crashing Issue on PS5, PS5 Pro - Push Square",
@@ -10,7 +10,27 @@
       "description": "Seeing stars...",
       "url": "https://www.pushsquare.com/news/2026/04/starfield-has-a-serious-crashing-issue-on-ps5-ps5-pro",
       "publishedAt": "2026-04-11T19:30:00Z",
-      "processed_at": "2026-04-12T23:37:11.857601+00:00"
+      "processed_at": "2026-04-13T02:51:31.353579+00:00"
+    },
+    {
+      "title": "Nintendo Prime: Nintendo is spreading fake information internally to patch leaks - My Nintendo News",
+      "source": {
+        "name": "My Nintendo News"
+      },
+      "description": "Nintendo is an extremely secretive company but in recent weeks they’ve sprung some leaks and it isn’...",
+      "url": "https://mynintendonews.com/2026/04/11/nintendo-prime-nintendo-is-spreading-fake-information-internally-to-patch-leaks/",
+      "publishedAt": "2026-04-11T19:24:32Z",
+      "processed_at": "2026-04-13T02:51:31.353579+00:00"
+    },
+    {
+      "title": "XChat to launch on iPhone and iPad - Mashable",
+      "source": {
+        "name": "Mashable"
+      },
+      "description": "Can this X-affiliated chat app compete with WhatsApp and Signal?...",
+      "url": "https://mashable.com/article/xchat-to-launch-on-iphone-and-ipad",
+      "publishedAt": "2026-04-11T18:21:20Z",
+      "processed_at": "2026-04-13T02:51:31.353579+00:00"
     },
     {
       "title": "Epic set to release Arc Raiders-like extraction shooter with Disney characters by the end of the year - Eurogamer",
@@ -20,7 +40,17 @@
       "description": "Epic Games will allegedly release an Arc Raiders-like shooter later this year....",
       "url": "https://www.eurogamer.net/epic-set-to-release-arc-raiders-like-extraction-shooter-with-disney-characters-by-the-end-of-the-year",
       "publishedAt": "2026-04-11T17:24:37Z",
-      "processed_at": "2026-04-12T23:37:11.857601+00:00"
+      "processed_at": "2026-04-13T02:51:31.353579+00:00"
+    },
+    {
+      "title": "Anthropic's Claude for Word is another challenge to Microsoft's software empire - Business Insider",
+      "source": {
+        "name": "Business Insider"
+      },
+      "description": "Anthropic launched a beta version of Claude for Word. It's another challenge to Microsoft's software...",
+      "url": "https://www.businessinsider.com/anthropic-claude-microsoft-word-lawyers-2026-4",
+      "publishedAt": "2026-04-11T15:48:00Z",
+      "processed_at": "2026-04-13T02:51:31.353579+00:00"
     },
     {
       "title": "'iPhone Ultra' Will Solve Two Key Problems - MacRumors",
@@ -30,7 +60,7 @@
       "description": "Apple reportedly plans to unveil a foldable iPhone in September, and the device will supposedly solv...",
       "url": "https://www.macrumors.com/2026/04/11/iphone-ultra-will-solve-two-key-problems/",
       "publishedAt": "2026-04-11T15:40:00Z",
-      "processed_at": "2026-04-12T23:37:11.857601+00:00"
+      "processed_at": "2026-04-13T02:51:31.353579+00:00"
     },
     {
       "title": "“AI polls” are fake polls - Silver Bulletin",
@@ -40,17 +70,17 @@
       "description": "But they might be useful as something else: models....",
       "url": "https://www.natesilver.net/p/ai-polls-are-fake-polls",
       "publishedAt": "2026-04-11T15:38:26Z",
-      "processed_at": "2026-04-12T23:37:11.857601+00:00"
+      "processed_at": "2026-04-13T02:51:31.353579+00:00"
     },
     {
-      "title": "GTA 6 maker Rockstar might've been hacked with highly secret info now up for ransom - Polygon.com",
+      "title": "Borderlands 4 Nintendo Switch 2 copies apparently spotted in the wild despite the game being put on hold indefinitely - Nintendo Everything",
       "source": {
-        "name": "Polygon"
+        "name": "Nintendoeverything.com"
       },
-      "description": "Grand Theft Auto may have cost $3 billion. A new hack by ShinyHunters could divulge that and more....",
-      "url": "https://www.polygon.com/gta-6-studio-rockstar-reportedly-breached-with-data-held-for-ransom/",
-      "publishedAt": "2026-04-11T15:25:36Z",
-      "processed_at": "2026-04-12T23:37:11.857601+00:00"
+      "description": "There’s been an interesting development with the Nintendo Switch 2 version of Borderlands 4 as the g...",
+      "url": "https://nintendoeverything.com/borderlands-4-nintendo-switch-2-copies-apparently-spotted-in-the-wild-despite-the-game-being-put-on-hold-indefinitely/",
+      "publishedAt": "2026-04-11T15:19:36Z",
+      "processed_at": "2026-04-13T02:51:31.353579+00:00"
     },
     {
       "title": "Apple Highlights Photos Shot on iPhone During NASA's Mission to Moon - MacRumors",
@@ -60,50 +90,10 @@
       "description": "As we previously reported, astronauts aboard NASA's Orion spacecraft used the iPhone 17 Pro Max to t...",
       "url": "https://www.macrumors.com/2026/04/11/apple-highlights-artemis-ii-iphone-photos/",
       "publishedAt": "2026-04-11T15:17:14Z",
-      "processed_at": "2026-04-12T23:37:11.857601+00:00"
-    },
-    {
-      "title": "Pokémon Champions is off to a rough start - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "The new free-to-start competitive battle sim launched with a number of bugs, and some have already b...",
-      "url": "https://www.theverge.com/games/910110/pokemon-champions-bugs-balance-issues-vgc-newcomers",
-      "publishedAt": "2026-04-11T15:00:00Z",
-      "processed_at": "2026-04-12T23:37:11.857601+00:00"
-    },
-    {
-      "title": "Several Mac mini and Mac Studio configs are now completely out of stock at Apple - 9to5Mac",
-      "source": {
-        "name": "9to5Mac"
-      },
-      "description": "The availability of higher-end models of Mac Studio and Mac mini continues to deplete, amid worsenin...",
-      "url": "https://9to5mac.com/2026/04/11/mac-mini-mac-studio-configs-completely-out-of-stock/",
-      "publishedAt": "2026-04-11T13:48:00Z",
-      "processed_at": "2026-04-12T23:37:11.857601+00:00"
-    },
-    {
-      "title": "Four Games Are Confirmed For Xbox Game Pass In May 2026 So Far - Pure Xbox",
-      "source": {
-        "name": "Pure Xbox"
-      },
-      "description": "Including a first-party release you may have heard about...",
-      "url": "https://www.purexbox.com/news/2026/04/four-games-are-confirmed-for-xbox-game-pass-in-may-2026-so-far",
-      "publishedAt": "2026-04-11T13:32:25Z",
-      "processed_at": "2026-04-12T23:37:11.857601+00:00"
-    },
-    {
-      "title": "Amazon ends support for these older devices - AL.com",
-      "source": {
-        "name": "AL.com"
-      },
-      "description": "Some have criticized it for making up to two million devices “obsolete.\"...",
-      "url": "https://www.al.com/news/2026/04/amazon-ends-support-for-these-older-devices.html",
-      "publishedAt": "2026-04-11T13:08:00Z",
-      "processed_at": "2026-04-12T23:37:11.857601+00:00"
+      "processed_at": "2026-04-13T02:51:31.353579+00:00"
     }
   ],
-  "lastUpdated": "2026-04-12T23:37:11.857673+00:00",
+  "lastUpdated": "2026-04-13T02:51:31.353653+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
