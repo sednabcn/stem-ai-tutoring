@@ -1,99 +1,109 @@
 {
   "status": "success",
-  "totalResults": 9,
+  "totalResults": 10,
   "articles": [
     {
-      "title": "Tune in on Thursday for Xbox First Look: Metro 2039 - Xbox",
+      "title": "Get a Pokémon TCG: Mega Evolution—Chaos Rising Build & Battle Box Early - Pokemon.com",
       "source": {
-        "name": "Xbox.com"
+        "name": "Pokemon.com"
       },
-      "description": "Get ready for the world premiere of Metro 2039, the next entry in 4A Games’ beloved post-apocalyptic...",
-      "url": "https://news.xbox.com/en-us/2026/04/13/metro-2039-xbox-first-look-how-to-watch/",
-      "publishedAt": "2026-04-13T13:04:19Z",
-      "processed_at": "2026-04-14T13:45:17.914400+00:00"
+      "description": "Open booster packs from a Mega Evolution—Chaos Rising Build & Battle Box at a Prerelease event near ...",
+      "url": "https://www.pokemon.com/us/pokemon-news/get-a-pokemon-tcg-mega-evolution-chaos-rising-build-battle-box-early",
+      "publishedAt": "2026-04-13T15:09:58Z",
+      "processed_at": "2026-04-14T15:14:37.437856+00:00"
     },
     {
-      "title": "Introducing: The Breitling Navitimer B02 Chronograph 41 Cosmonaute Artemis II - Hodinkee",
+      "title": "PowerWash Simulator delisting two free DLC packs from Xbox store in May - TrueAchievements",
       "source": {
-        "name": "HODINKEE"
+        "name": "TrueAchievements"
       },
-      "description": "Astronaut Reid Wiseman and other crew members wore the new Cosmonaute model on the Artemis II missio...",
-      "url": "https://www.hodinkee.com/articles/the-breitling-navitimer-b02-chronograph-41-cosmonaute-artemis-ii-a-new-cosmonaute-just-back-from-spa",
-      "publishedAt": "2026-04-13T12:00:58Z",
-      "processed_at": "2026-04-14T13:45:17.914400+00:00"
+      "description": "Developer FuturLab has announced it is delisting two free PowerWash Simulator DLC packs soon, as its...",
+      "url": "https://www.trueachievements.com/news/powerwash-simulator-tomb-raider-midgar-dlc-delisting",
+      "publishedAt": "2026-04-13T15:07:50Z",
+      "processed_at": "2026-04-14T15:14:37.437856+00:00"
     },
     {
-      "title": "The Ultimate Secrets of Strixhaven Limited Set Review - Draftsim",
+      "title": "Pragmata is just OK, but it could’ve been great - The Verge",
       "source": {
-        "name": "Draftsim.com"
+        "name": "The Verge"
       },
-      "description": "Ready for a second semester at Strixhaven? We'll give you a crash course on everything you can expec...",
-      "url": "https://draftsim.com/mtg-sos-limited-set-review/",
-      "publishedAt": "2026-04-13T12:00:20Z",
-      "processed_at": "2026-04-14T13:45:17.914400+00:00"
+      "description": "Resident Evil developer Capcom has a brand-new franchise in the works with the sci-fi shooter Pragma...",
+      "url": "https://www.theverge.com/games/910385/pragmata-review-ps5-xbox-switch-2-pc",
+      "publishedAt": "2026-04-13T15:00:00Z",
+      "processed_at": "2026-04-14T15:14:37.437856+00:00"
     },
     {
-      "title": "You can create a multicolor MacBook Neo with official Apple parts for just $39 - 9to5Mac",
+      "title": "The AI Revolution in Math Has Arrived - Quanta Magazine",
+      "source": {
+        "name": "Quanta Magazine"
+      },
+      "description": "AI is being used to prove new results at a rapid pace. Mathematicians think this is just the beginni...",
+      "url": "https://www.quantamagazine.org/the-ai-revolution-in-math-has-arrived-20260413/",
+      "publishedAt": "2026-04-13T14:58:41Z",
+      "processed_at": "2026-04-14T15:14:37.437856+00:00"
+    },
+    {
+      "title": "4A Games announces Metro 2039, and we're getting an Xbox-themed reveal stream later this week - Eurogamer",
+      "source": {
+        "name": "Eurogamer.net"
+      },
+      "description": "Developer 4A Games and publisher Deep Silver have announced Metro 2039, the fourth entry in the post...",
+      "url": "https://www.eurogamer.net/metro-2039-announced-xbox-stream-reveal",
+      "publishedAt": "2026-04-13T14:39:01Z",
+      "processed_at": "2026-04-14T15:14:37.437856+00:00"
+    },
+    {
+      "title": "This is the Pixel 11 Color Google Needs to Make - Droid Life",
+      "source": {
+        "name": "Droid Life"
+      },
+      "description": "Pixel 11 and Pixel 11 Pro models are unlikely to go through a design change and the expectation is t...",
+      "url": "https://www.droid-life.com/2026/04/13/this-is-the-pixel-11-color-google-needs-to-make/",
+      "publishedAt": "2026-04-13T14:35:18Z",
+      "processed_at": "2026-04-14T15:14:37.437856+00:00"
+    },
+    {
+      "title": "The next MacBook Neo already sounds like a big upgrade for one reason - 9to5Mac",
       "source": {
         "name": "9to5Mac"
       },
-      "description": "The MacBook Neo is already available in a fun choice of colors, but some people like to go further b...",
-      "url": "https://9to5mac.com/2026/04/13/you-can-create-a-multicolor-macbook-neo-with-official-apple-parts-for-just-39/",
-      "publishedAt": "2026-04-13T11:56:00Z",
-      "processed_at": "2026-04-14T13:45:17.914400+00:00"
+      "description": "Last week a new report on the MacBook Neo’s success contained details on Apple’s plan for the next-g...",
+      "url": "https://9to5mac.com/2026/04/13/the-next-macbook-neo-already-sounds-like-a-big-upgrade-for-one-reason/",
+      "publishedAt": "2026-04-13T14:17:00Z",
+      "processed_at": "2026-04-14T15:14:37.437856+00:00"
     },
     {
-      "title": "iPhone 18 Pro Deep Red Color Likely as Android Rivals Prep Same Shade - MacRumors",
+      "title": "Just Moments After Declaring Himself ‘Cooked,’ Speedrunner Breaks Major Mario 64 World Record - Kotaku",
       "source": {
-        "name": "MacRumors"
+        "name": "Kotaku"
       },
-      "description": "Apple's upcoming iPhone 18 Pro is very likely to come in a new deep red color, claims a Chinese leak...",
-      "url": "https://www.macrumors.com/2026/04/13/iphone-18-pro-deep-red-color/",
-      "publishedAt": "2026-04-13T10:22:12Z",
-      "processed_at": "2026-04-14T13:45:17.914400+00:00"
+      "description": "Suigi shaves seconds off his own record, but reckons it could still be minutes shorter...",
+      "url": "https://kotaku.com/speedrunner-breaks-super-mario-64-record-nintendo-2000687113",
+      "publishedAt": "2026-04-13T14:14:17Z",
+      "processed_at": "2026-04-14T15:14:37.437856+00:00"
     },
     {
-      "title": "One of the best Android settings is hidden away, and I hate having to enable it on every phone - Android Authority",
+      "title": "Naughty Dog Embraced Crunch Culture After The Last of Us, as It's 'What It Takes to Make Games at Our Level' - Push Square",
       "source": {
-        "name": "Android Authority"
+        "name": "Push Square"
       },
-      "description": "One of the best Android settings is somewhat hidden away, but I really wish Google enabled it by def...",
-      "url": "https://www.androidauthority.com/best-android-settings-hidden-away-notifications-3655448/",
-      "publishedAt": "2026-04-13T10:12:33Z",
-      "processed_at": "2026-04-14T13:45:17.914400+00:00"
+      "description": "Naughty naughty...",
+      "url": "https://www.pushsquare.com/news/2026/04/naughty-dog-embraced-crunch-culture-after-the-last-of-us-as-its-what-it-takes-to-make-games-at-our-level",
+      "publishedAt": "2026-04-13T14:00:00Z",
+      "processed_at": "2026-04-14T15:14:37.437856+00:00"
     },
     {
-      "title": "We Tested Every Ryzen 5 and 7 X3D CPU: From 5800X3D to 9800X3D - TechSpot",
+      "title": "Studio Behind Umamusume: Pretty Derby Reportedly Facing Insolvency - Kotaku",
       "source": {
-        "name": "TechSpot"
+        "name": "Kotaku"
       },
-      "description": "Nine X3D CPUs, two platforms, and 14 games tested. We compare every Ryzen 5 and 7 X3D processor to f...",
-      "url": "https://www.techspot.com/review/3111-every-ryzen-x3d-cpu/",
-      "publishedAt": "2026-04-13T10:06:00Z",
-      "processed_at": "2026-04-14T13:45:17.914400+00:00"
-    },
-    {
-      "title": "Apple Testing Four Smart Glasses Styles Made of High-End Materials - MacRumors",
-      "source": {
-        "name": "MacRumors"
-      },
-      "description": "Apple is developing at least four different styles of smart glasses, and the company is betting that...",
-      "url": "https://www.macrumors.com/2026/04/13/apple-smart-glasses-four-styles/",
-      "publishedAt": "2026-04-13T09:29:30Z",
-      "processed_at": "2026-04-14T13:45:17.914400+00:00"
-    },
-    {
-      "title": "Can red light therapy really deliver a beauty and health glow-up? Here's the science - NPR",
-      "source": {
-        "name": "NPR"
-      },
-      "description": "Wellness influencers tout the therapy's power for everything from rejuvenating skin and hair to boos...",
-      "url": "https://www.npr.org/2026/04/13/nx-s1-5759287/red-light-therapy-science-skin-hair",
-      "publishedAt": "2026-04-13T09:00:00Z",
-      "processed_at": "2026-04-14T13:45:17.914400+00:00"
+      "description": "The Japanese animation studio reported a $3.5 million deficit in its latest financial earnings repor...",
+      "url": "https://kotaku.com/studio-kai-umamusume-pretty-derby-insolvency-krafton-2000687097",
+      "publishedAt": "2026-04-13T13:55:25Z",
+      "processed_at": "2026-04-14T15:14:37.437856+00:00"
     }
   ],
-  "lastUpdated": "2026-04-14T13:45:17.914465+00:00",
+  "lastUpdated": "2026-04-14T15:14:37.437937+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
