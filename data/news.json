@@ -1,109 +1,99 @@
 {
   "status": "success",
-  "totalResults": 10,
+  "totalResults": 9,
   "articles": [
     {
-      "title": "Can red light therapy really deliver a beauty and health glow up? Here's the science - NPR",
+      "title": "Tune in on Thursday for Xbox First Look: Metro 2039 - Xbox",
+      "source": {
+        "name": "Xbox.com"
+      },
+      "description": "Get ready for the world premiere of Metro 2039, the next entry in 4A Games’ beloved post-apocalyptic...",
+      "url": "https://news.xbox.com/en-us/2026/04/13/metro-2039-xbox-first-look-how-to-watch/",
+      "publishedAt": "2026-04-13T13:04:19Z",
+      "processed_at": "2026-04-14T13:45:17.914400+00:00"
+    },
+    {
+      "title": "Introducing: The Breitling Navitimer B02 Chronograph 41 Cosmonaute Artemis II - Hodinkee",
+      "source": {
+        "name": "HODINKEE"
+      },
+      "description": "Astronaut Reid Wiseman and other crew members wore the new Cosmonaute model on the Artemis II missio...",
+      "url": "https://www.hodinkee.com/articles/the-breitling-navitimer-b02-chronograph-41-cosmonaute-artemis-ii-a-new-cosmonaute-just-back-from-spa",
+      "publishedAt": "2026-04-13T12:00:58Z",
+      "processed_at": "2026-04-14T13:45:17.914400+00:00"
+    },
+    {
+      "title": "The Ultimate Secrets of Strixhaven Limited Set Review - Draftsim",
+      "source": {
+        "name": "Draftsim.com"
+      },
+      "description": "Ready for a second semester at Strixhaven? We'll give you a crash course on everything you can expec...",
+      "url": "https://draftsim.com/mtg-sos-limited-set-review/",
+      "publishedAt": "2026-04-13T12:00:20Z",
+      "processed_at": "2026-04-14T13:45:17.914400+00:00"
+    },
+    {
+      "title": "You can create a multicolor MacBook Neo with official Apple parts for just $39 - 9to5Mac",
+      "source": {
+        "name": "9to5Mac"
+      },
+      "description": "The MacBook Neo is already available in a fun choice of colors, but some people like to go further b...",
+      "url": "https://9to5mac.com/2026/04/13/you-can-create-a-multicolor-macbook-neo-with-official-apple-parts-for-just-39/",
+      "publishedAt": "2026-04-13T11:56:00Z",
+      "processed_at": "2026-04-14T13:45:17.914400+00:00"
+    },
+    {
+      "title": "iPhone 18 Pro Deep Red Color Likely as Android Rivals Prep Same Shade - MacRumors",
+      "source": {
+        "name": "MacRumors"
+      },
+      "description": "Apple's upcoming iPhone 18 Pro is very likely to come in a new deep red color, claims a Chinese leak...",
+      "url": "https://www.macrumors.com/2026/04/13/iphone-18-pro-deep-red-color/",
+      "publishedAt": "2026-04-13T10:22:12Z",
+      "processed_at": "2026-04-14T13:45:17.914400+00:00"
+    },
+    {
+      "title": "One of the best Android settings is hidden away, and I hate having to enable it on every phone - Android Authority",
+      "source": {
+        "name": "Android Authority"
+      },
+      "description": "One of the best Android settings is somewhat hidden away, but I really wish Google enabled it by def...",
+      "url": "https://www.androidauthority.com/best-android-settings-hidden-away-notifications-3655448/",
+      "publishedAt": "2026-04-13T10:12:33Z",
+      "processed_at": "2026-04-14T13:45:17.914400+00:00"
+    },
+    {
+      "title": "We Tested Every Ryzen 5 and 7 X3D CPU: From 5800X3D to 9800X3D - TechSpot",
+      "source": {
+        "name": "TechSpot"
+      },
+      "description": "Nine X3D CPUs, two platforms, and 14 games tested. We compare every Ryzen 5 and 7 X3D processor to f...",
+      "url": "https://www.techspot.com/review/3111-every-ryzen-x3d-cpu/",
+      "publishedAt": "2026-04-13T10:06:00Z",
+      "processed_at": "2026-04-14T13:45:17.914400+00:00"
+    },
+    {
+      "title": "Apple Testing Four Smart Glasses Styles Made of High-End Materials - MacRumors",
+      "source": {
+        "name": "MacRumors"
+      },
+      "description": "Apple is developing at least four different styles of smart glasses, and the company is betting that...",
+      "url": "https://www.macrumors.com/2026/04/13/apple-smart-glasses-four-styles/",
+      "publishedAt": "2026-04-13T09:29:30Z",
+      "processed_at": "2026-04-14T13:45:17.914400+00:00"
+    },
+    {
+      "title": "Can red light therapy really deliver a beauty and health glow-up? Here's the science - NPR",
       "source": {
         "name": "NPR"
       },
       "description": "Wellness influencers tout the therapy's power for everything from rejuvenating skin and hair to boos...",
       "url": "https://www.npr.org/2026/04/13/nx-s1-5759287/red-light-therapy-science-skin-hair",
       "publishedAt": "2026-04-13T09:00:00Z",
-      "processed_at": "2026-04-14T11:04:25.596730+00:00"
-    },
-    {
-      "title": "Huawei beats Apple and Samsung with new wide foldable - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "Huawei’s Pura X Max is launching in China on April 20th, in a similar ‘passport’ aspect ratio to the...",
-      "url": "https://www.theverge.com/tech/910867/huawei-pura-x-max-foldable-phone-wide-china",
-      "publishedAt": "2026-04-13T08:13:41Z",
-      "processed_at": "2026-04-14T11:04:25.596730+00:00"
-    },
-    {
-      "title": "Microsoft Shuts Down Outlook App For Android Users In 6 Weeks - Forbes",
-      "source": {
-        "name": "Forbes"
-      },
-      "description": "Outlook Lite is no more — here's what you need to do before you lose access to your emails....",
-      "url": "https://www.forbes.com/sites/zakdoffman/2026/04/13/microsoft-shuts-down-outlook-app-for-android-users-in-6-weeks/",
-      "publishedAt": "2026-04-13T04:22:39Z",
-      "processed_at": "2026-04-14T11:04:25.596730+00:00"
-    },
-    {
-      "title": "Tested: Windows 11 just fixed slow storage management and removed a 30-year FAT32 limit - Windows Latest",
-      "source": {
-        "name": "WindowsLatest"
-      },
-      "description": "Windows 11 improves storage performance and removes FAT32 32GB limit. Disk properties now load faste...",
-      "url": "https://www.windowslatest.com/2026/04/13/tested-windows-11-just-fixed-slow-storage-management-and-removed-a-30-year-fat32-limit/",
-      "publishedAt": "2026-04-13T01:07:17Z",
-      "processed_at": "2026-04-14T11:04:25.596730+00:00"
-    },
-    {
-      "title": "8.8-inch OLED, Snapdragon 8 Gen 5: High-end compact tablet gets official launch date - Notebookcheck",
-      "source": {
-        "name": "Notebookcheck.net"
-      },
-      "description": "Compact tablet enthusiasts have likely been awaiting more details regarding the Oppo Pad Mini tablet...",
-      "url": "https://www.notebookcheck.net/8-8-inch-OLED-Snapdragon-8-Gen-5-High-end-compact-tablet-gets-official-launch-date.1272008.0.html",
-      "publishedAt": "2026-04-13T00:43:00Z",
-      "processed_at": "2026-04-14T11:04:25.596730+00:00"
-    },
-    {
-      "title": "Rolex Teases a Seriously Surprising New Sports Watch - Gear Patrol",
-      "source": {
-        "name": "Gear Patrol"
-      },
-      "description": "Rolex released another video teasing its new watches ahead of Watches and Wonders, including a surpr...",
-      "url": "https://www.gearpatrol.com/watches/rolex-sports-watch-2026-teaser/",
-      "publishedAt": "2026-04-12T23:18:50Z",
-      "processed_at": "2026-04-14T11:04:25.596730+00:00"
-    },
-    {
-      "title": "Porsche Patents Racing Stripes That Appear When You Switch Into Sport Mode - Jalopnik",
-      "source": {
-        "name": "Jalopnik"
-      },
-      "description": "Using an electrical current to change the outward appearance of certain body panels, this Porsche te...",
-      "url": "https://www.jalopnik.com/2144896/porsche-patents-racing-stripes-that-appear-in-sport-mode/",
-      "publishedAt": "2026-04-12T22:25:00Z",
-      "processed_at": "2026-04-14T11:04:25.596730+00:00"
-    },
-    {
-      "title": "Tomodachi Life: Living the Dream ROM leaked online - Nintendo Everything",
-      "source": {
-        "name": "Nintendoeverything.com"
-      },
-      "description": "It's now been confirmed that the Tomodachi Life: Living the Dream ROM has leaked online just days be...",
-      "url": "https://nintendoeverything.com/tomodachi-life-living-the-dream-rom-leaked-online/",
-      "publishedAt": "2026-04-12T22:14:37Z",
-      "processed_at": "2026-04-14T11:04:25.596730+00:00"
-    },
-    {
-      "title": "10 Vintage Plates That Are Worth a Small Fortune - AOL.com",
-      "source": {
-        "name": "Financebuzz.com"
-      },
-      "description": "Vintage dining ware from these 10 makers has become highly collectible, often selling for thousands....",
-      "url": "https://financebuzz.com/news/vintage-plates-worth-small-fortune-2",
-      "publishedAt": "2026-04-12T21:52:34Z",
-      "processed_at": "2026-04-14T11:04:25.596730+00:00"
-    },
-    {
-      "title": "Linux 7.0 Released With New Hardware Support, Optimizations & Self-Healing XFS - Phoronix",
-      "source": {
-        "name": "Phoronix"
-      },
-      "description": "As expected the stable Linux 7.0 kernel was just released today in marking this next kernel release...",
-      "url": "https://www.phoronix.com/news/Linux-7.0-Released",
-      "publishedAt": "2026-04-12T21:07:00Z",
-      "processed_at": "2026-04-14T11:04:25.596730+00:00"
+      "processed_at": "2026-04-14T13:45:17.914400+00:00"
     }
   ],
-  "lastUpdated": "2026-04-14T11:04:25.596802+00:00",
+  "lastUpdated": "2026-04-14T13:45:17.914465+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
