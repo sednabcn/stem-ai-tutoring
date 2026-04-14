@@ -1,7 +1,77 @@
 {
   "status": "success",
-  "totalResults": 10,
+  "totalResults": 9,
   "articles": [
+    {
+      "title": "Xbox Game Pass ‘has become too expensive,’ says Microsoft’s new gaming chief in leaked memo - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "Microsoft’s new Xbox chief is getting ready to improve Game Pass pricing. A leaked memo suggests tha...",
+      "url": "https://www.theverge.com/tech/911182/microsoft-xbox-game-pass-too-expensive-leaked-memo",
+      "publishedAt": "2026-04-13T17:39:51Z",
+      "processed_at": "2026-04-14T17:11:34.711526+00:00"
+    },
+    {
+      "title": "You can make a multicolor MacBook Neo out of Apple’s spare parts - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "You don’t have to choose just one color for the MacBook Neo, as MacWorld found that you can order sp...",
+      "url": "https://www.theverge.com/tech/911172/macbook-neo-apple-spare-parts-multicolor",
+      "publishedAt": "2026-04-13T17:08:31Z",
+      "processed_at": "2026-04-14T17:11:34.711526+00:00"
+    },
+    {
+      "title": "MTG Arena Announcements – April 13, 2026 - Magic: The Gathering",
+      "source": {
+        "name": "Wizards.com"
+      },
+      "description": "Catch up with the latest info and events on MTG Arena....",
+      "url": "https://magic.wizards.com/en/news/mtg-arena/announcements-april-13-2026",
+      "publishedAt": "2026-04-13T17:06:57Z",
+      "processed_at": "2026-04-14T17:11:34.711526+00:00"
+    },
+    {
+      "title": "Warhammer Classics brings legendary games back to your PC - Warhammer Community",
+      "source": {
+        "name": "Warhammer-community.com"
+      },
+      "description": "Shadow of the Horned Rat, Chaos Gate, Dark Omen, Fire Warrior and more have returned....",
+      "url": "https://www.warhammer-community.com/articles/ud4dbah1/warhammer-classics-brings-legendary-games-back-to-your-pc",
+      "publishedAt": "2026-04-13T16:57:42Z",
+      "processed_at": "2026-04-14T17:11:34.711526+00:00"
+    },
+    {
+      "title": "Careful, huge spoilers are out for James Bond game 007: First Light, following an Indonesian Game Rating leak - Eurogamer",
+      "source": {
+        "name": "Eurogamer.net"
+      },
+      "description": "IO Interactive's 007: First Light spoilers have surfaced online alongside other upcoming video game ...",
+      "url": "https://www.eurogamer.net/007-first-light-spoilers-leak",
+      "publishedAt": "2026-04-13T15:53:46Z",
+      "processed_at": "2026-04-14T17:11:34.711526+00:00"
+    },
+    {
+      "title": "Xbox Shoots Down ‘Fable’ Delay Rumors, Must Dodge ‘GTA 6’ - Forbes",
+      "source": {
+        "name": "Forbes"
+      },
+      "description": "Fable will come out in the fall of 2026, Xbox reiterates, after viral rumors said it would be delaye...",
+      "url": "https://www.forbes.com/sites/paultassi/2026/04/13/xbox-shoots-down-fable-delay-rumors-must-dodge-gta-6/",
+      "publishedAt": "2026-04-13T15:29:42Z",
+      "processed_at": "2026-04-14T17:11:34.711526+00:00"
+    },
+    {
+      "title": "Intel May Have an Answer to AMD’s Most Powerful Gaming CPUs - Gizmodo",
+      "source": {
+        "name": "Gizmodo.com"
+      },
+      "description": "The Intel and AMD CPU rivalry is getting exciting again....",
+      "url": "https://gizmodo.com/intel-may-have-an-answer-to-amds-most-powerful-gaming-cpus-2000745665",
+      "publishedAt": "2026-04-13T15:15:02Z",
+      "processed_at": "2026-04-14T17:11:34.711526+00:00"
+    },
     {
       "title": "Get a Pokémon TCG: Mega Evolution—Chaos Rising Build & Battle Box Early - Pokemon.com",
       "source": {
@@ -10,17 +80,7 @@
       "description": "Open booster packs from a Mega Evolution—Chaos Rising Build & Battle Box at a Prerelease event near ...",
       "url": "https://www.pokemon.com/us/pokemon-news/get-a-pokemon-tcg-mega-evolution-chaos-rising-build-battle-box-early",
       "publishedAt": "2026-04-13T15:09:58Z",
-      "processed_at": "2026-04-14T15:14:37.437856+00:00"
-    },
-    {
-      "title": "PowerWash Simulator delisting two free DLC packs from Xbox store in May - TrueAchievements",
-      "source": {
-        "name": "TrueAchievements"
-      },
-      "description": "Developer FuturLab has announced it is delisting two free PowerWash Simulator DLC packs soon, as its...",
-      "url": "https://www.trueachievements.com/news/powerwash-simulator-tomb-raider-midgar-dlc-delisting",
-      "publishedAt": "2026-04-13T15:07:50Z",
-      "processed_at": "2026-04-14T15:14:37.437856+00:00"
+      "processed_at": "2026-04-14T17:11:34.711526+00:00"
     },
     {
       "title": "Pragmata is just OK, but it could’ve been great - The Verge",
@@ -30,80 +90,10 @@
       "description": "Resident Evil developer Capcom has a brand-new franchise in the works with the sci-fi shooter Pragma...",
       "url": "https://www.theverge.com/games/910385/pragmata-review-ps5-xbox-switch-2-pc",
       "publishedAt": "2026-04-13T15:00:00Z",
-      "processed_at": "2026-04-14T15:14:37.437856+00:00"
-    },
-    {
-      "title": "The AI Revolution in Math Has Arrived - Quanta Magazine",
-      "source": {
-        "name": "Quanta Magazine"
-      },
-      "description": "AI is being used to prove new results at a rapid pace. Mathematicians think this is just the beginni...",
-      "url": "https://www.quantamagazine.org/the-ai-revolution-in-math-has-arrived-20260413/",
-      "publishedAt": "2026-04-13T14:58:41Z",
-      "processed_at": "2026-04-14T15:14:37.437856+00:00"
-    },
-    {
-      "title": "4A Games announces Metro 2039, and we're getting an Xbox-themed reveal stream later this week - Eurogamer",
-      "source": {
-        "name": "Eurogamer.net"
-      },
-      "description": "Developer 4A Games and publisher Deep Silver have announced Metro 2039, the fourth entry in the post...",
-      "url": "https://www.eurogamer.net/metro-2039-announced-xbox-stream-reveal",
-      "publishedAt": "2026-04-13T14:39:01Z",
-      "processed_at": "2026-04-14T15:14:37.437856+00:00"
-    },
-    {
-      "title": "This is the Pixel 11 Color Google Needs to Make - Droid Life",
-      "source": {
-        "name": "Droid Life"
-      },
-      "description": "Pixel 11 and Pixel 11 Pro models are unlikely to go through a design change and the expectation is t...",
-      "url": "https://www.droid-life.com/2026/04/13/this-is-the-pixel-11-color-google-needs-to-make/",
-      "publishedAt": "2026-04-13T14:35:18Z",
-      "processed_at": "2026-04-14T15:14:37.437856+00:00"
-    },
-    {
-      "title": "The next MacBook Neo already sounds like a big upgrade for one reason - 9to5Mac",
-      "source": {
-        "name": "9to5Mac"
-      },
-      "description": "Last week a new report on the MacBook Neo’s success contained details on Apple’s plan for the next-g...",
-      "url": "https://9to5mac.com/2026/04/13/the-next-macbook-neo-already-sounds-like-a-big-upgrade-for-one-reason/",
-      "publishedAt": "2026-04-13T14:17:00Z",
-      "processed_at": "2026-04-14T15:14:37.437856+00:00"
-    },
-    {
-      "title": "Just Moments After Declaring Himself ‘Cooked,’ Speedrunner Breaks Major Mario 64 World Record - Kotaku",
-      "source": {
-        "name": "Kotaku"
-      },
-      "description": "Suigi shaves seconds off his own record, but reckons it could still be minutes shorter...",
-      "url": "https://kotaku.com/speedrunner-breaks-super-mario-64-record-nintendo-2000687113",
-      "publishedAt": "2026-04-13T14:14:17Z",
-      "processed_at": "2026-04-14T15:14:37.437856+00:00"
-    },
-    {
-      "title": "Naughty Dog Embraced Crunch Culture After The Last of Us, as It's 'What It Takes to Make Games at Our Level' - Push Square",
-      "source": {
-        "name": "Push Square"
-      },
-      "description": "Naughty naughty...",
-      "url": "https://www.pushsquare.com/news/2026/04/naughty-dog-embraced-crunch-culture-after-the-last-of-us-as-its-what-it-takes-to-make-games-at-our-level",
-      "publishedAt": "2026-04-13T14:00:00Z",
-      "processed_at": "2026-04-14T15:14:37.437856+00:00"
-    },
-    {
-      "title": "Studio Behind Umamusume: Pretty Derby Reportedly Facing Insolvency - Kotaku",
-      "source": {
-        "name": "Kotaku"
-      },
-      "description": "The Japanese animation studio reported a $3.5 million deficit in its latest financial earnings repor...",
-      "url": "https://kotaku.com/studio-kai-umamusume-pretty-derby-insolvency-krafton-2000687097",
-      "publishedAt": "2026-04-13T13:55:25Z",
-      "processed_at": "2026-04-14T15:14:37.437856+00:00"
+      "processed_at": "2026-04-14T17:11:34.711526+00:00"
     }
   ],
-  "lastUpdated": "2026-04-14T15:14:37.437937+00:00",
+  "lastUpdated": "2026-04-14T17:11:34.711606+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
