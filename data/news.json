@@ -1,16 +1,66 @@
 {
   "status": "success",
-  "totalResults": 8,
+  "totalResults": 10,
   "articles": [
     {
-      "title": "Millions of people are pretending to be AI chatbots — for fun - NPR",
+      "title": "Google will begin punishing sites for back button hijacking in June - Ars Technica",
       "source": {
-        "name": "NPR"
+        "name": "Ars Technica"
       },
-      "description": "Websites like youraislopbores.me have become playgrounds for people looking for light relief in a bo...",
-      "url": "https://www.npr.org/2026/04/14/nx-s1-5776842/ai-chatbot-comedy-ben-palmer-chatgpt",
-      "publishedAt": "2026-04-14T13:30:19Z",
-      "processed_at": "2026-04-15T15:05:36.223923+00:00"
+      "description": "Google says it could penalize back button hijacking by demoting websites in search ranking....",
+      "url": "https://arstechnica.com/gadgets/2026/04/websites-that-hijack-your-back-button-must-stop-by-june-15-or-face-googles-wrath/",
+      "publishedAt": "2026-04-14T15:48:41Z",
+      "processed_at": "2026-04-15T17:06:02.131240+00:00"
+    },
+    {
+      "title": "Rosalina and Samus have new Nintendo eShop cards, plus an eShop credit sale is live - Nintendo Everything",
+      "source": {
+        "name": "Nintendoeverything.com"
+      },
+      "description": "New Rosalina and Samus Nintendo eShop cards have been revealed, and a sale is happening that can sav...",
+      "url": "https://nintendoeverything.com/rosalina-and-samus-nintendo-eshop-cards-new-sale/",
+      "publishedAt": "2026-04-14T14:34:58Z",
+      "processed_at": "2026-04-15T17:06:02.131240+00:00"
+    },
+    {
+      "title": "Apple Wallet keeps getting better, here’s what’s new and coming next - 9to5Mac",
+      "source": {
+        "name": "Google News"
+      },
+      "description": "",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZjdjYl9mTzIwSXhQdmxiazhnQWFkeFNhdkdkNjFsb2k0c3RRdUJSc1dNa1dURkR0YUFZTHo1WFNCWHAwODJDRzBhdF9EaDRLcTBsSTdoOElQN1pEanZVcVFXTU9aaDlPSlpDZl9rNmwzM21iTkVMVmFSdFlabHZ4cTRsUTBQNjdBaEpqSmhZY1Y3WFFlWkJJN2I0bGwtdw?oc=5",
+      "publishedAt": "2026-04-14T14:25:00Z",
+      "processed_at": "2026-04-15T17:06:02.131240+00:00"
+    },
+    {
+      "title": "Lightweight cabriolet with a high-revving naturally aspirated engine and manual transmission - Porsche Newsroom",
+      "source": {
+        "name": "Porsche.com"
+      },
+      "description": "The Porsche GT family welcomes a particularly exciting new member. The 911 GT3 S/C combines a range ...",
+      "url": "https://newsroom.porsche.com/en/2026/products/porsche-gt3-sc-world-premiere-lightweight-cabriolet-42136.html",
+      "publishedAt": "2026-04-14T14:03:20Z",
+      "processed_at": "2026-04-15T17:06:02.131240+00:00"
+    },
+    {
+      "title": "Xbox Game Pass finally gets big day-one game after multiple delays - TrueAchievements",
+      "source": {
+        "name": "TrueAchievements"
+      },
+      "description": "After numerous delays, Replaced finally joins Xbox Game Pass today, and we can now reveal its secret...",
+      "url": "https://www.trueachievements.com/news/replaced-xbox-achievements",
+      "publishedAt": "2026-04-14T14:02:50Z",
+      "processed_at": "2026-04-15T17:06:02.131240+00:00"
+    },
+    {
+      "title": "Anbernic’s new handheld is a pocket-friendly Android device with a swiveling screen - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "The RG Rotate is a Game Boy clone with a rotating display that shrinks its size....",
+      "url": "https://www.theverge.com/tech/911600/anbernic-rg-rotate-square-handheld-gaming-console-emulator",
+      "publishedAt": "2026-04-14T13:43:15Z",
+      "processed_at": "2026-04-15T17:06:02.131240+00:00"
     },
     {
       "title": "‘Marathon’ Testing A Battle Royale-ish Mode, An Offering To Casuals - Forbes",
@@ -20,7 +70,7 @@
       "description": "Marathon is attempting to extend a hand to casuals by putting all players on the same page for a bat...",
       "url": "https://www.forbes.com/sites/paultassi/2026/04/14/marathon-testing-a-battle-royale-ish-mode-an-offering-to-casuals/",
       "publishedAt": "2026-04-14T13:25:27Z",
-      "processed_at": "2026-04-15T15:05:36.223923+00:00"
+      "processed_at": "2026-04-15T17:06:02.131240+00:00"
     },
     {
       "title": "Ask the Developer Vol. 21: Tomodachi Life: Living the Dream — Part 1 - Nintendo",
@@ -30,60 +80,30 @@
       "description": "This article has been translated from the original Japanese content. This interview was conducted be...",
       "url": "https://www.nintendo.com/us/whatsnew/ask-the-developer-vol-21-tomodachi-life-living-the-dream-part-1/",
       "publishedAt": "2026-04-14T13:12:33Z",
-      "processed_at": "2026-04-15T15:05:36.223923+00:00"
+      "processed_at": "2026-04-15T17:06:02.131240+00:00"
     },
     {
-      "title": "Xbox Raises Eyebrows By Mentioning 'Exclusives' On The Series X|S Dashboard - Pure Xbox",
-      "source": {
-        "name": "Pure Xbox"
-      },
-      "description": "Interesting timing!...",
-      "url": "https://www.purexbox.com/news/2026/04/xbox-raises-eyebrows-by-mentioning-exclusives-on-the-series-xs-dashboard",
-      "publishedAt": "2026-04-14T13:07:32Z",
-      "processed_at": "2026-04-15T15:05:36.223923+00:00"
-    },
-    {
-      "title": "10 Reasons to Wait for the iPhone 18 Pro - MacRumors",
-      "source": {
-        "name": "MacRumors"
-      },
-      "description": "Apple's iPhone development roadmap runs several years into the future and the company is continually...",
-      "url": "https://www.macrumors.com/2026/04/14/reasons-to-wait-iphone-18-pro-2/",
-      "publishedAt": "2026-04-14T11:39:55Z",
-      "processed_at": "2026-04-15T15:05:36.223923+00:00"
-    },
-    {
-      "title": "Assassin's Creed Black Flag Rival Launches, Hailed As 'True AAAA Pirate Experience\" - GAMINGbible",
-      "source": {
-        "name": "Gamingbible.com"
-      },
-      "description": "Assassin's Creed Black Flag remake fans check out this AAAA pirate experience!...",
-      "url": "https://www.gamingbible.com/news/platform/pc/assassins-creed-black-flag-rival-pirate-experience-623622-20260414",
-      "publishedAt": "2026-04-14T10:42:26Z",
-      "processed_at": "2026-04-15T15:05:36.223923+00:00"
-    },
-    {
-      "title": "The new Trump Phone design is here - The Verge",
+      "title": "GoPro goes bigger and pro-er with support for Micro Four Thirds lenses - The Verge",
       "source": {
         "name": "The Verge"
       },
-      "description": "A heavily redesigned Trump Mobile website brings with it a better look at the updated T1 Phone, matc...",
-      "url": "https://www.theverge.com/tech/911503/trump-mobile-t1-phone-redesign-new-website",
-      "publishedAt": "2026-04-14T08:25:07Z",
-      "processed_at": "2026-04-15T15:05:36.223923+00:00"
+      "description": "GoPro’s new Mission 1 cameras use larger 1-inch-type sensors and the new GP3 processor for 8K and 4K...",
+      "url": "https://www.theverge.com/gadgets/911324/gopro-mission1-pro-action-video-camera-price-specs",
+      "publishedAt": "2026-04-14T13:00:00Z",
+      "processed_at": "2026-04-15T17:06:02.131240+00:00"
     },
     {
-      "title": "Introducing: Two Bracelet Updates For Tudor, Including A Full Ceramic Black Bay Bracelet - Hodinkee",
+      "title": "Alienware’s new gaming monitor offers a 240Hz QD-OLED panel for just $350 - The Verge",
       "source": {
-        "name": "HODINKEE"
+        "name": "The Verge"
       },
-      "description": "The brand's first ever ceramic bracelet, and a dressy addition to a classic GMT....",
-      "url": "https://www.hodinkee.com/articles/two-bracelet-updates-for-tudor-including-a-full-ceramic-black-bay-bracelet",
-      "publishedAt": "2026-04-14T08:08:00Z",
-      "processed_at": "2026-04-15T15:05:36.223923+00:00"
+      "description": "The Alienware AW2726DM is a 27-inch QD-OLED gaming monitor with QHD resolution and 240Hz refresh. At...",
+      "url": "https://www.theverge.com/games/909344/alienware-aw2726dm-qdoled-240hz-gaming-monitor-affordable-price-specs",
+      "publishedAt": "2026-04-14T13:00:00Z",
+      "processed_at": "2026-04-15T17:06:02.131240+00:00"
     }
   ],
-  "lastUpdated": "2026-04-15T15:05:36.223990+00:00",
+  "lastUpdated": "2026-04-15T17:06:02.131319+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
