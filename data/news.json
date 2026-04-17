@@ -3,6 +3,36 @@
   "totalResults": 10,
   "articles": [
     {
+      "title": "Google One discount takes 50% off YouTube Premium for a year - 9to5Google",
+      "source": {
+        "name": "9to5google.com"
+      },
+      "description": "After boosting AI Pro storage earlier this month, Google One is now running a limited-time YouTube P...",
+      "url": "http://9to5google.com/2026/04/15/google-one-youtube-premium/",
+      "publishedAt": "2026-04-15T23:19:00Z",
+      "processed_at": "2026-04-17T02:44:48.564106+00:00"
+    },
+    {
+      "title": "YouTube now lets you turn off Shorts - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "All YouTube users are getting an option to set their Shorts time limit to zero minutes.﻿...",
+      "url": "https://www.theverge.com/streaming/912898/youtube-shorts-feed-limit-zero-minutes",
+      "publishedAt": "2026-04-15T22:18:36Z",
+      "processed_at": "2026-04-17T02:44:48.564106+00:00"
+    },
+    {
+      "title": "Language models transmit behavioural traits through hidden signals in data - Nature",
+      "source": {
+        "name": "Nature.com"
+      },
+      "description": "During model distillation, large language models can subtly transmit traits unrelated to the trainin...",
+      "url": "https://www.nature.com/articles/s41586-026-10319-8",
+      "publishedAt": "2026-04-15T22:07:30Z",
+      "processed_at": "2026-04-17T02:44:48.564106+00:00"
+    },
+    {
       "title": "These 108 Malicious Chrome Extensions Are Stealing Google and Telegram Data - Lifehacker",
       "source": {
         "name": "Lifehacker.com"
@@ -10,37 +40,47 @@
       "description": "Be careful which extensions you install in Chrome....",
       "url": "https://lifehacker.com/tech/108-malicious-chrome-extensions-stealing-google-telegram-data",
       "publishedAt": "2026-04-15T21:56:15Z",
-      "processed_at": "2026-04-16T23:41:53.178167+00:00"
+      "processed_at": "2026-04-17T02:44:48.564106+00:00"
     },
     {
-      "title": "“TotalRecall Reloaded” tool finds a side entrance to Windows 11’s Recall database - Ars Technica",
+      "title": "Google releases new apps for Windows and MacOS - Ars Technica",
       "source": {
         "name": "Ars Technica"
       },
-      "description": "The vault is solid. The delivery truck is not.\"...",
-      "url": "https://arstechnica.com/gadgets/2026/04/totalrecall-reloaded-tool-finds-a-side-entrance-to-windows-11s-recall-database/",
-      "publishedAt": "2026-04-15T20:36:28Z",
-      "processed_at": "2026-04-16T23:41:53.178167+00:00"
+      "description": "Google mostly creates products for the web, but it has some new desktop apps today....",
+      "url": "https://arstechnica.com/gadgets/2026/04/google-launches-search-app-for-windows-gemini-app-for-mac/",
+      "publishedAt": "2026-04-15T19:46:43Z",
+      "processed_at": "2026-04-17T02:44:48.564106+00:00"
     },
     {
-      "title": "Apple says Jon Prosser has only partially complied with subpoenas in iOS 26 leak case [U] - 9to5Mac",
+      "title": "Microsoft has a new idea on how to deter students from MacBook Neo - 9to5Mac",
       "source": {
         "name": "9to5Mac"
       },
-      "description": "In a joint status report, attorneys for Apple and Michael Ramacciotti updated the court on the lates...",
-      "url": "https://9to5mac.com/2026/04/15/apple-says-jon-prosser-has-only-partially-complied-with-subpoenas-in-ios-26-leak-case/",
-      "publishedAt": "2026-04-15T19:42:00Z",
-      "processed_at": "2026-04-16T23:41:53.178167+00:00"
+      "description": "The effects of MacBook Neo continue to ripple through the PC industry this week. As spotted by The V...",
+      "url": "https://9to5mac.com/2026/04/15/microsoft-has-a-new-idea-on-how-to-deter-students-from-macbook-neo/",
+      "publishedAt": "2026-04-15T19:40:00Z",
+      "processed_at": "2026-04-17T02:44:48.564106+00:00"
     },
     {
-      "title": "Google launches a Gemini AI app on Mac - The Verge",
+      "title": "Trump Mobile Drops Trashy Update on New Phone - The Daily Beast",
       "source": {
-        "name": "The Verge"
+        "name": "Daily Beast"
       },
-      "description": "Google is launching a new Gemini app for Mac, allowing you to pull up the AI assistant from anywhere...",
-      "url": "https://www.theverge.com/tech/912638/google-gemini-mac-app",
-      "publishedAt": "2026-04-15T18:10:15Z",
-      "processed_at": "2026-04-16T23:41:53.178167+00:00"
+      "description": "The phone is marketed as being “designed with American values in mind.”...",
+      "url": "https://www.thedailybeast.com/trump-mobile-drops-trashy-update-on-new-phone/",
+      "publishedAt": "2026-04-15T19:30:00Z",
+      "processed_at": "2026-04-17T02:44:48.564106+00:00"
+    },
+    {
+      "title": "Google rolls out a native Gemini app for Mac - TechCrunch",
+      "source": {
+        "name": "TechCrunch"
+      },
+      "description": "You can share anything on their screen with Gemini to get help with what they're looking at in the m...",
+      "url": "https://techcrunch.com/2026/04/15/google-rolls-out-a-native-gemini-app-for-mac/",
+      "publishedAt": "2026-04-15T18:22:13Z",
+      "processed_at": "2026-04-17T02:44:48.564106+00:00"
     },
     {
       "title": "The Super Hero Team-based PVP Shooter - Marvel Rivals",
@@ -50,60 +90,20 @@
       "description": "Play for free Now! Get ready to Ignite the Battle with Marvel Rivals!...",
       "url": "https://www.marvelrivals.com/gameupdate/20260415/41548_1296163.html",
       "publishedAt": "2026-04-15T18:02:34Z",
-      "processed_at": "2026-04-16T23:41:53.178167+00:00"
+      "processed_at": "2026-04-17T02:44:48.564106+00:00"
     },
     {
-      "title": "Blue Prince Devs Want You To Go Into These Indie Games Blind - Kotaku",
+      "title": "A small but growing movement wants you to put down your phone. But first read this - AP News",
       "source": {
-        "name": "Kotaku"
+        "name": "Associated Press"
       },
-      "description": "Pick up Animal Well, Blue Prince, Outer Wilds and more, but don't find out anything else about them ...",
-      "url": "https://kotaku.com/blue-prince-fez-outer-wilds-animal-well-tunic-bundle-steam-2000687887",
-      "publishedAt": "2026-04-15T17:15:46Z",
-      "processed_at": "2026-04-16T23:41:53.178167+00:00"
-    },
-    {
-      "title": "My Ex Bought Our Son a Much Too Grown-Up Gift for His Birthday. He’s Only 6! - Slate",
-      "source": {
-        "name": "Slate Magazine"
-      },
-      "description": "This is totally inappropriate....",
-      "url": "https://slate.com/advice/2026/04/parenting-advice-inappropriate-gift.html",
-      "publishedAt": "2026-04-15T17:00:00Z",
-      "processed_at": "2026-04-16T23:41:53.178167+00:00"
-    },
-    {
-      "title": "Adobe takes Creative Cloud into Claude Code-esque territory - Ars Technica",
-      "source": {
-        "name": "Ars Technica"
-      },
-      "description": "This is a big step in a new strategic direction for Adobe....",
-      "url": "https://arstechnica.com/ai/2026/04/adobe-takes-creative-cloud-into-claude-code-esque-territory/",
-      "publishedAt": "2026-04-15T16:54:33Z",
-      "processed_at": "2026-04-16T23:41:53.178167+00:00"
-    },
-    {
-      "title": "Vivo X300 Ultra goes global with insane videography capabilities - 9to5Google",
-      "source": {
-        "name": "9to5google.com"
-      },
-      "description": "After a Chinese launch, the Vivo X300 Ultra is now officially available in global markets with a sle...",
-      "url": "http://9to5google.com/2026/04/15/vivo-x300-ultra-goes-global-with-insane-videography-capabilities/",
-      "publishedAt": "2026-04-15T16:34:00Z",
-      "processed_at": "2026-04-16T23:41:53.178167+00:00"
-    },
-    {
-      "title": "Galaxy devices ditch some image data using AirDrop over Quick Share, fix coming - 9to5Google",
-      "source": {
-        "name": "9to5google.com"
-      },
-      "description": "After a monumental update allowed Galaxy S26 phones to share with Apple’s iOS devices using AirDrop,...",
-      "url": "http://9to5google.com/2026/04/15/galaxy-phones-ditch-location-data-during-airdrop/",
-      "publishedAt": "2026-04-15T16:01:00Z",
-      "processed_at": "2026-04-16T23:41:53.178167+00:00"
+      "description": "Two decades after Steve Jobs premiered the iPhone, a small but intensely passionate movement is rebe...",
+      "url": "https://apnews.com/article/internet-screens-phone-addiction-attention-bde9f575a54921ca320d30519783c250",
+      "publishedAt": "2026-04-15T17:47:00Z",
+      "processed_at": "2026-04-17T02:44:48.564106+00:00"
     }
   ],
-  "lastUpdated": "2026-04-16T23:41:53.178241+00:00",
+  "lastUpdated": "2026-04-17T02:44:48.564174+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
