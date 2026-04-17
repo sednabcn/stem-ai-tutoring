@@ -1,109 +1,99 @@
 {
   "status": "success",
-  "totalResults": 10,
+  "totalResults": 9,
   "articles": [
     {
-      "title": "New Stoner Survival Dealing 4X Rewards as LD Organics Presents: The 420 Event - Rockstar Games",
+      "title": "Xbox First Look: Metro 2039 – Everything We Learned Today from This World Premiere Broadcast - Xbox Wire",
       "source": {
-        "name": "Rockstargames.com"
+        "name": "Xbox.com"
       },
-      "description": "The man with the van and the plan is putting his stamp on Los Santos this 420 as LD Organics Present...",
-      "url": "https://www.rockstargames.com/newswire/article/ak419987491453/new-stoner-survival-dealing-4x-rewards-as-ld-organics-presents-the-420",
-      "publishedAt": "2026-04-16T14:02:20Z",
-      "processed_at": "2026-04-17T16:04:26.580402+00:00"
+      "description": "Here’s everything we just learned about Metro 2039, the fourth entry and darkest chapter yet in 4A G...",
+      "url": "https://news.xbox.com/en-us/2026/04/16/metro-2039-first-look-recap-everything-announced/",
+      "publishedAt": "2026-04-16T17:18:10Z",
+      "processed_at": "2026-04-17T17:50:49.747748+00:00"
     },
     {
-      "title": "Rumour: Red Dead Redemption May Be Getting A Rubbish 'Code-In-A-Box' Release - Nintendo Life",
-      "source": {
-        "name": "Nintendo Life"
-      },
-      "description": "Out to pasture...",
-      "url": "https://www.nintendolife.com/news/2026/04/rumour-red-dead-redemption-may-be-getting-a-rubbish-code-in-a-box-release",
-      "publishedAt": "2026-04-16T13:30:00Z",
-      "processed_at": "2026-04-17T16:04:26.580402+00:00"
-    },
-    {
-      "title": "What Works And What Doesn’t In Marathon’s Almost-Battle Royale Mode - Forbes",
-      "source": {
-        "name": "Forbes"
-      },
-      "description": "Marathon just launched another experimental playlist, joining its Duos concept run previously. This ...",
-      "url": "https://www.forbes.com/sites/paultassi/2026/04/16/what-works-and-what-doesnt-in-marathons-almost-battle-royale-mode/",
-      "publishedAt": "2026-04-16T13:29:15Z",
-      "processed_at": "2026-04-17T16:04:26.580402+00:00"
-    },
-    {
-      "title": "Street Fighter 6’s Long-Awaited Incest Nerf Is Here And Does Basically Nothing - Kotaku",
-      "source": {
-        "name": "Kotaku"
-      },
-      "description": "Capcom is trying to make Alex’s backstory more vague so you forget he married his cousin sister...",
-      "url": "https://kotaku.com/street-fighter-6-alex-patricia-incest-tom-patch-notes-2000688200",
-      "publishedAt": "2026-04-16T13:04:03Z",
-      "processed_at": "2026-04-17T16:04:26.580402+00:00"
-    },
-    {
-      "title": "Dangerous Fake Microsoft Windows Update Confirmed—Do Not Download - Forbes",
-      "source": {
-        "name": "Forbes"
-      },
-      "description": "As security researchers warn about a dangerous Microsoft Windows update that isn’t legitimate, users...",
-      "url": "https://www.forbes.com/sites/daveywinder/2026/04/16/dangerous-microsoft-windows-update-warning-do-not-download/",
-      "publishedAt": "2026-04-16T13:02:00Z",
-      "processed_at": "2026-04-17T16:04:26.580402+00:00"
-    },
-    {
-      "title": "Arc Raiders has lost almost 80% of its players this year on Steam - Dexerto",
-      "source": {
-        "name": "Dexerto"
-      },
-      "description": "Arc Raiders’ player count is starting to plummet, and the extraction shooter has lost nearly 80% of ...",
-      "url": "https://www.dexerto.com/gaming/arc-raiders-has-lost-almost-80-of-its-players-this-year-on-steam-3352712/",
-      "publishedAt": "2026-04-16T12:05:17Z",
-      "processed_at": "2026-04-17T16:04:26.580402+00:00"
-    },
-    {
-      "title": "Apple accelerates progress with highest-ever recycled material in its products - Apple",
-      "source": {
-        "name": "Apple Newsroom"
-      },
-      "description": "Apple today announced that a record 30 percent of material across all of its products shipped in 202...",
-      "url": "https://www.apple.com/newsroom/2026/04/apple-accelerates-progress-with-highest-ever-recycled-material-in-its-products/",
-      "publishedAt": "2026-04-16T12:05:01Z",
-      "processed_at": "2026-04-17T16:04:26.580402+00:00"
-    },
-    {
-      "title": "AMD Ryzen 7 5800X3D Is Making A Comeback In Q2 2026 As AM4 Turns 10 - Wccftech",
-      "source": {
-        "name": "Wccftech"
-      },
-      "description": "AMD is re-launching the Ryzen 7 5800X3D in Q2 2026, featuring 8 cores, 16 threads, and 3D V-Cache fo...",
-      "url": "https://wccftech.com/amd-ryzen-7-5800x3d-reportedly-making-a-comeback-in-q2-2026-as-am4-turns-10/",
-      "publishedAt": "2026-04-16T12:01:00Z",
-      "processed_at": "2026-04-17T16:04:26.580402+00:00"
-    },
-    {
-      "title": "DJI’s Osmo Pocket 4 camera is better at capturing slo-mo footage and photos - The Verge",
+      "title": "OpenAI’s big Codex update is a direct shot at Anthropic’s Claude Code - The Verge",
       "source": {
         "name": "The Verge"
       },
-      "description": "DJI’s new Osmo Pocket 4 features a better 1-inch sensor, a new fill light accessory, improved tracki...",
-      "url": "https://www.theverge.com/tech/912381/dji-osmo-pocket-4-camera-stabilizied-gimbal-4k-slow-motion",
-      "publishedAt": "2026-04-16T12:00:00Z",
-      "processed_at": "2026-04-17T16:04:26.580402+00:00"
+      "description": "OpenAI has updated its Codex desktop AI tool to let it use your computer independently, and learn fr...",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/913034/openai-codex-updates-use-macos",
+      "publishedAt": "2026-04-16T17:00:00Z",
+      "processed_at": "2026-04-17T17:50:49.747748+00:00"
     },
     {
-      "title": "Apple leaks four iOS 27 features, including overdue Wallet upgrade - 9to5Mac",
+      "title": "Epic’s Head Of HR Is Out Less Than A Month After 1,000+ Layoffs - Kotaku",
       "source": {
-        "name": "9to5Mac"
+        "name": "Kotaku"
       },
-      "description": "As we approach WWDC kicking off in June, we’re learning more about what to expect from iOS 27. A new...",
-      "url": "https://9to5mac.com/2026/04/16/apple-leaks-four-ios-27-features-including-overdue-wallet-upgrade/",
-      "publishedAt": "2026-04-16T11:54:00Z",
-      "processed_at": "2026-04-17T16:04:26.580402+00:00"
+      "description": "Monika Fahlbusch joined the Fortnite maker five years ago...",
+      "url": "https://kotaku.com/epics-head-of-hr-is-out-less-than-a-month-after-1000-layoffs-2000688217",
+      "publishedAt": "2026-04-16T16:53:31Z",
+      "processed_at": "2026-04-17T17:50:49.747748+00:00"
+    },
+    {
+      "title": "Gemini app using Personal Intelligence, Photos for tailored Nano Banana generation - 9to5Google",
+      "source": {
+        "name": "9to5google.com"
+      },
+      "description": "With the international expansion underway, Gemini is now bringing together Personal Intelligence, Go...",
+      "url": "http://9to5google.com/2026/04/16/gemini-photos-personal-intelligence/",
+      "publishedAt": "2026-04-16T16:00:00Z",
+      "processed_at": "2026-04-17T17:50:49.747748+00:00"
+    },
+    {
+      "title": "Microsoft’s new Xbox chief starts making her mark - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "Microsoft’s new Xbox CEO, Asha Sharma, has started to make her mark. From prioritizing console featu...",
+      "url": "https://www.theverge.com/tech/913093/microsoft-new-xbox-ceo-asha-sharma-memo-notepad",
+      "publishedAt": "2026-04-16T16:00:00Z",
+      "processed_at": "2026-04-17T17:50:49.747748+00:00"
+    },
+    {
+      "title": "Upcoming Content Roadmap - Borderlands | Official Website",
+      "source": {
+        "name": "2k.com"
+      },
+      "description": "",
+      "url": "https://borderlands.2k.com/borderlands-4/news/upcoming-content-roadmap/",
+      "publishedAt": "2026-04-16T15:58:37Z",
+      "processed_at": "2026-04-17T17:50:49.747748+00:00"
+    },
+    {
+      "title": "Meta Is Increasing The Price Of Quest 3 & Quest 3S - UploadVR",
+      "source": {
+        "name": "UploadVR"
+      },
+      "description": "Meta is increasing the price of Quest 3 to $600 and Quest 3S to $350, citing the global memory chip ...",
+      "url": "https://www.uploadvr.com/meta-quest-3-quest-3s-price-hike-memory-crisis/",
+      "publishedAt": "2026-04-16T15:33:37Z",
+      "processed_at": "2026-04-17T17:50:49.747748+00:00"
+    },
+    {
+      "title": "Battlefield 6 Getting 7 New Maps This Year, Plus A Server Browser And More - Kotaku",
+      "source": {
+        "name": "Kotaku"
+      },
+      "description": "",
+      "url": "https://kotaku.com/battlefield-6-7-new-maps-ea-season-3-wake-island-prox-server-browser-reworks-2000687562",
+      "publishedAt": "2026-04-16T15:04:15Z",
+      "processed_at": "2026-04-17T17:50:49.747748+00:00"
+    },
+    {
+      "title": "The new NEOGEO AES+ is the most ambitious retro console yet - creativebloq.com",
+      "source": {
+        "name": "Creative Bloq"
+      },
+      "description": "It's not emulation or simulation, but remaking the feel of '90s gaming a chip level....",
+      "url": "https://www.creativebloq.com/entertainment/gaming/why-the-new-neogeo-aes-console-changes-everything-about-retro-gaming",
+      "publishedAt": "2026-04-16T15:00:00Z",
+      "processed_at": "2026-04-17T17:50:49.747748+00:00"
     }
   ],
-  "lastUpdated": "2026-04-17T16:04:26.580481+00:00",
+  "lastUpdated": "2026-04-17T17:50:49.747818+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
