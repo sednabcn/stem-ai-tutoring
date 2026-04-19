@@ -3,6 +3,36 @@
   "totalResults": 10,
   "articles": [
     {
+      "title": "It's No Mustang: 911 GT3 RS WIth Manthey Kit Sets Nürburgring Lap Time - Motor1.com",
+      "source": {
+        "name": "Motor1 "
+      },
+      "description": "Watch a 911 GT3 RS with the $116,160 Manthey Kit demolish the Nürburgring Nordschleife as it tries t...",
+      "url": "https://www.motor1.com/news/793299/porsche-911-gt3-rs-manthey-kit-nubrurgring-lap/",
+      "publishedAt": "2026-04-18T06:54:42Z",
+      "processed_at": "2026-04-19T09:53:18.333690+00:00"
+    },
+    {
+      "title": "Google Starts Scanning All Your Photos As New Update Goes Live - Forbes",
+      "source": {
+        "name": "Forbes"
+      },
+      "description": "Google wants its AI to see all the photos of \"you and your loved ones.\" Billions of users must now d...",
+      "url": "https://www.forbes.com/sites/zakdoffman/2026/04/18/google-starts-scanning-all-your-photos-as-new-update-goes-live/",
+      "publishedAt": "2026-04-18T05:18:19Z",
+      "processed_at": "2026-04-19T09:53:18.333690+00:00"
+    },
+    {
+      "title": "'Starting In April'—Microsoft Changes Windows Update After 15 Years - Forbes",
+      "source": {
+        "name": "Forbes"
+      },
+      "description": "Security certificates on more than a billion Windows PCs expire in 8 weeks — check yours now....",
+      "url": "https://www.forbes.com/sites/zakdoffman/2026/04/18/starting-in-april-microsoft-changes-windows-update-after-15-years/",
+      "publishedAt": "2026-04-18T04:26:24Z",
+      "processed_at": "2026-04-19T09:53:18.333690+00:00"
+    },
+    {
       "title": "5+ Things to Know About the Next Mac Studio - MacRumors",
       "source": {
         "name": "MacRumors"
@@ -10,100 +40,70 @@
       "description": "Apple is working on an updated version of the Mac Studio that's expected at some point in 2026, and ...",
       "url": "https://www.macrumors.com/2026/04/17/mac-studio-rumor-recap-april/",
       "publishedAt": "2026-04-17T23:14:12Z",
-      "processed_at": "2026-04-19T08:56:56.668746+00:00"
+      "processed_at": "2026-04-19T09:53:18.333690+00:00"
     },
     {
-      "title": "Latest iPhone rumors: iPhone 18 colors and cameras appear in new leaks - Mashable",
+      "title": "'WTF Embark' — Arc Raiders Expedition Changes Leave Players Who Spent Months Saving Millions of Credits Feeling Left Behind - IGN",
       "source": {
-        "name": "Mashable"
+        "name": "IGN"
       },
-      "description": "Spoiler alert: No more cosmic orange....",
-      "url": "https://mashable.com/article/iphone-18-color-camera-leaks-rumors",
-      "publishedAt": "2026-04-17T23:09:31Z",
-      "processed_at": "2026-04-19T08:56:56.668746+00:00"
+      "description": "Embark Studios has once again announced tweaks to the Arc Raiders Expedition window, and players who...",
+      "url": "https://www.ign.com/articles/arc-raiders-players-are-disappointed-in-the-new-expedition-changes",
+      "publishedAt": "2026-04-17T22:07:43Z",
+      "processed_at": "2026-04-19T09:53:18.333690+00:00"
     },
     {
-      "title": "Apple Maps is quickly improving, and iOS 26.5 brings useful new addition - 9to5Mac",
+      "title": "Intel eases reliance on TSMC with Core Series 3 CPUs - theregister.com",
       "source": {
-        "name": "9to5Mac"
+        "name": "Theregister.com"
       },
-      "description": "Apple Maps got several great new features in iOS 26, but another useful improvement is coming soon i...",
-      "url": "https://9to5mac.com/2026/04/17/apple-maps-is-quickly-improving-and-ios-26-5-brings-useful-new-addition/",
-      "publishedAt": "2026-04-17T19:45:00Z",
-      "processed_at": "2026-04-19T08:56:56.668746+00:00"
+      "description": ": Stripped-down Ultra for laptops and low-power edge boxes...",
+      "url": "https://www.theregister.com/2026/04/17/intel_eases_reliance_on_tsmc/",
+      "publishedAt": "2026-04-17T21:46:00Z",
+      "processed_at": "2026-04-19T09:53:18.333690+00:00"
     },
     {
-      "title": "Steph Curry is testing Google and Fitbit's screenless Whoop competitor: Everything we know - Mashable",
+      "title": "Pragmata Launch: Glowing Reviews and Chart-Topping Sales but Mediocre Player Counts - TechPowerUp",
       "source": {
-        "name": "Mashable"
+        "name": "Techpowerup.com"
       },
-      "description": "The NBA's greatest shooter has been not-so-subtly showing off the potential Whoop killer....",
-      "url": "https://mashable.com/article/steph-curry-google-fitbit-screenless-whoop-competitor",
-      "publishedAt": "2026-04-17T17:59:27Z",
-      "processed_at": "2026-04-19T08:56:56.668746+00:00"
+      "description": "Pragmata has officially launched on Steam, PlayStation 5, Nintendo Switch 2, and Xbox Series console...",
+      "url": "https://www.techpowerup.com/348321/pragmata-launch-glowing-reviews-and-chart-topping-sales-but-mediocre-player-counts",
+      "publishedAt": "2026-04-17T21:28:46Z",
+      "processed_at": "2026-04-19T09:53:18.333690+00:00"
     },
     {
-      "title": "Hackers are abusing unpatched Windows security flaws to hack into organizations - TechCrunch",
+      "title": "Months-old start-up Recursive Superintelligence raises $500mn for self-teaching AI - Financial Times",
       "source": {
-        "name": "TechCrunch"
+        "name": "Financial Times"
       },
-      "description": "A security researcher published details of three security vulnerabilities in Windows Defender, and t...",
-      "url": "https://techcrunch.com/2026/04/17/hackers-are-abusing-unpatched-windows-security-flaws-to-hack-into-organizations/",
-      "publishedAt": "2026-04-17T17:48:46Z",
-      "processed_at": "2026-04-19T08:56:56.668746+00:00"
+      "description": "Group founded by former engineers at DeepMind and OpenAI secures $4bn valuation in deal with Google’...",
+      "url": "https://www.ft.com/content/a92bf04b-bbac-400f-9554-5b1c70957ad4?syn-25a6b1a6\\\\u003d1",
+      "publishedAt": "2026-04-17T21:10:31Z",
+      "processed_at": "2026-04-19T09:53:18.333690+00:00"
     },
     {
-      "title": "BAFTA Pulls Game From Showcase Due To Depiction Of Child Abuse - Kotaku",
+      "title": "Steam Giving Away 4 PC Games for Free - ComicBook.com",
       "source": {
-        "name": "Kotaku"
+        "name": "ComicBook.com"
       },
-      "description": "The Quiet Things is an autobiographical narrative game about childhood trauma...",
-      "url": "https://kotaku.com/bafta-game-awards-quiet-things-trailer-silver-script-2000688583",
-      "publishedAt": "2026-04-17T17:48:36Z",
-      "processed_at": "2026-04-19T08:56:56.668746+00:00"
+      "description": "",
+      "url": "https://comicbook.com/gaming/news/steam-pc-free-games-download-april-2026/",
+      "publishedAt": "2026-04-17T21:05:38Z",
+      "processed_at": "2026-04-19T09:53:18.333690+00:00"
     },
     {
-      "title": "Iron Galaxy Studios lays off 'a number' of workers as it reduces company size - Game Developer",
+      "title": "Tomodachi Life: Living The Dream: Beginner's Guide - Tips & Tricks - Nintendo Life",
       "source": {
-        "name": "Gamedeveloper.com"
+        "name": "Nintendo Life"
       },
-      "description": "Co-development and porting firm Iron Galaxy Studios is adopting 'a new posture to accept these curre...",
-      "url": "https://www.gamedeveloper.com/business/iron-galaxy-studios-lays-off-a-number-of-workers-as-it-reduces-company-size",
-      "publishedAt": "2026-04-17T17:36:38Z",
-      "processed_at": "2026-04-19T08:56:56.668746+00:00"
-    },
-    {
-      "title": "Unlock New Rewards in the Rivals and Rockets - Rocket League ®",
-      "source": {
-        "name": "Rocketleague.com"
-      },
-      "description": "Complete cross-game Quests and Challenges in Rocket League and Fortnite to unlock rewards in both ga...",
-      "url": "https://www.rocketleague.com/news/get-the-havoc-car-body-as-rivals-and-rockets-kicks-off-april-17",
-      "publishedAt": "2026-04-17T17:10:40Z",
-      "processed_at": "2026-04-19T08:56:56.668746+00:00"
-    },
-    {
-      "title": "Save up to 90% on Spike Chunsoft Games During the Spike Chunsoft Spring Sale on Nintendo eShop April 17 to April 29, 2026 - Spike Chunsoft",
-      "source": {
-        "name": "Spike-chunsoft.com"
-      },
-      "description": "HUNTINGTON BEACH, Calif. (April 17, 2026) - Players can save up to 90% on these Spike Chunsoft, Inc....",
-      "url": "https://www.spike-chunsoft.com/uncategorized/noa_noe_sale-spikechunsoftspring2026/",
-      "publishedAt": "2026-04-17T17:02:18Z",
-      "processed_at": "2026-04-19T08:56:56.668746+00:00"
-    },
-    {
-      "title": "Kingdom Come: Deliverance 2 director \"really proud\" the gay romance he pushed for, which is somehow totally different to \"woke\" games' representation, is up for awards - Rock Paper Shotgun",
-      "source": {
-        "name": "Rock Paper Shotgun"
-      },
-      "description": "Kingdom Come: Deliverance 2 director Daniel Vávra has tweeted that he's proud of the game's gay roma...",
-      "url": "https://www.rockpapershotgun.com/kingdom-come-deliverance-2-director-really-proud-the-gay-romance-he-pushed-for-which-is-somehow-totally-different-to-woke-games-representation-is-up-for-awards",
-      "publishedAt": "2026-04-17T16:40:13Z",
-      "processed_at": "2026-04-19T08:56:56.668746+00:00"
+      "description": "How to get started on Tomodachi Life...",
+      "url": "https://www.nintendolife.com/guides/tomodachi-life-living-the-dream-beginners-guide-tips-and-tricks",
+      "publishedAt": "2026-04-17T20:18:14Z",
+      "processed_at": "2026-04-19T09:53:18.333690+00:00"
     }
   ],
-  "lastUpdated": "2026-04-19T08:56:56.668813+00:00",
+  "lastUpdated": "2026-04-19T09:53:18.333772+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
