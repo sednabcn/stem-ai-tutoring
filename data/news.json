@@ -3,6 +3,16 @@
   "totalResults": 10,
   "articles": [
     {
+      "title": "Lakefront N.J. home is a steal for $550,000. Here’s why. - NJ.com",
+      "source": {
+        "name": "nj.com"
+      },
+      "description": "It's listed for less than the statewide median sales price of $570,000....",
+      "url": "https://www.nj.com/realestate-news/2026/04/lakefront-nj-home-is-a-steal-for-550000-heres-why.html",
+      "publishedAt": "2026-04-19T11:00:00Z",
+      "processed_at": "2026-04-20T12:05:21.823933+00:00"
+    },
+    {
       "title": "Metroid Prime Remastered Studio 'Iron Galaxy' Announces More Layoffs - Nintendo Life",
       "source": {
         "name": "Nintendo Life"
@@ -10,7 +20,17 @@
       "description": "It released Tony Hawk's Pro Skater 3 + 4 last year...",
       "url": "https://www.nintendolife.com/news/2026/04/metroid-prime-remastered-studio-iron-galaxy-announces-more-layoffs",
       "publishedAt": "2026-04-19T01:25:00Z",
-      "processed_at": "2026-04-20T10:49:46.542686+00:00"
+      "processed_at": "2026-04-20T12:05:21.823933+00:00"
+    },
+    {
+      "title": "Next Big PS5 Exclusive Confirms Huge PS5 Pro Upgrade - ComicBook.com",
+      "source": {
+        "name": "ComicBook.com"
+      },
+      "description": "The next big PS5 exclusive game, which is set to release later this month, has confirmed a huge PS5 ...",
+      "url": "http://comicbook.com/gaming/news/ps5-pro-exclusive-game-upgrade-april/",
+      "publishedAt": "2026-04-19T00:50:21Z",
+      "processed_at": "2026-04-20T12:05:21.823933+00:00"
     },
     {
       "title": "Steam Beloved RPG Surpasses Even Crimson Desert In Scale, And It's Free - GAMINGbible",
@@ -20,7 +40,17 @@
       "description": "Steam users have a free alternative to Crimson Desert they've been sleeping on....",
       "url": "https://www.gamingbible.com/news/platform/steam/steam-rpg-surpasses-crimson-desert-free-060133-20260416",
       "publishedAt": "2026-04-18T23:04:35Z",
-      "processed_at": "2026-04-20T10:49:46.542686+00:00"
+      "processed_at": "2026-04-20T12:05:21.823933+00:00"
+    },
+    {
+      "title": "Microsoft is giving Windows 11 File Explorer a speed boost, dark mode fix, and reducing explorer.exe crashes - Windows Latest",
+      "source": {
+        "name": "WindowsLatest"
+      },
+      "description": "Microsoft now says it's preparing a big update for File Explorer that would allow it to run faster, ...",
+      "url": "https://www.windowslatest.com/2026/04/19/microsoft-is-giving-windows-11-file-explorer-a-speed-boost-dark-mode-fix-and-new-archive-support-in-next-update/",
+      "publishedAt": "2026-04-18T23:03:59Z",
+      "processed_at": "2026-04-20T12:05:21.823933+00:00"
     },
     {
       "title": "How One Line Of TF2 Code Ruined This Simple Feature - Hackaday",
@@ -30,7 +60,7 @@
       "description": "Ever encountered a minor annoying bug in a video game? How about one dating back to 2018? Usually, y...",
       "url": "https://hackaday.com/2026/04/18/how-one-line-of-tf2-code-ruined-this-simple-feature/",
       "publishedAt": "2026-04-18T23:00:00Z",
-      "processed_at": "2026-04-20T10:49:46.542686+00:00"
+      "processed_at": "2026-04-20T12:05:21.823933+00:00"
     },
     {
       "title": "Super Mario-kun manga may finally be ending after more then 30 years - Nintendo Everything",
@@ -40,7 +70,27 @@
       "description": "Super Mario-kun has been a long-running manga in Japan having started in 1990, but it could finally ...",
       "url": "https://nintendoeverything.com/?p=911790",
       "publishedAt": "2026-04-18T22:03:29Z",
-      "processed_at": "2026-04-20T10:49:46.542686+00:00"
+      "processed_at": "2026-04-20T12:05:21.823933+00:00"
+    },
+    {
+      "title": "MacBook Neo has a chip supply problem, here’s how Apple could fix it - 9to5Mac",
+      "source": {
+        "name": "9to5Mac"
+      },
+      "description": "Apple has a chip problem. MacBook Neo is selling far better than the company had expected, and now i...",
+      "url": "https://9to5mac.com/2026/04/18/macbook-neo-has-a-chip-supply-problem-heres-how-apple-could-fix-it/",
+      "publishedAt": "2026-04-18T21:47:00Z",
+      "processed_at": "2026-04-20T12:05:21.823933+00:00"
+    },
+    {
+      "title": "Microsoft released Windows 11 KB5083826 update for OS recovery - Neowin",
+      "source": {
+        "name": "Neowin"
+      },
+      "description": "New dynamic updates for Windows 11 26H1, 25H2, and 24H2, as well as Windows 11 22H2, under KB5083826...",
+      "url": "https://www.neowin.net/news/microsoft-released-windows-11-kb5083826-update-for-os-recovery/",
+      "publishedAt": "2026-04-18T21:18:00Z",
+      "processed_at": "2026-04-20T12:05:21.823933+00:00"
     },
     {
       "title": "Samsung To Release New Free Upgrade To Millions Of Galaxy Phones - Forbes",
@@ -50,60 +100,10 @@
       "description": "Samsung is bringing a major free Galaxy S26 upgrade to millions of Galaxy phones via the One UI 8.5 ...",
       "url": "https://www.forbes.com/sites/jaymcgregor/2026/04/18/samsung-one-ui-85-galaxy-s24-s25-ai-features-update/",
       "publishedAt": "2026-04-18T20:22:20Z",
-      "processed_at": "2026-04-20T10:49:46.542686+00:00"
-    },
-    {
-      "title": "New Apple iPhone Fold Decision Changes Smartphones Forever - Forbes",
-      "source": {
-        "name": "Forbes"
-      },
-      "description": "Apple's key design decision has forced and inspired its rivals to follow suit. A (partially) new way...",
-      "url": "https://www.forbes.com/sites/jaymcgregor/2026/04/18/apple-iphone-fold-battery-vs-samsung-huawei/",
-      "publishedAt": "2026-04-18T20:19:50Z",
-      "processed_at": "2026-04-20T10:49:46.542686+00:00"
-    },
-    {
-      "title": "Here are all of the new Apple products worth waiting for, and what to avoid buying now - 9to5Mac",
-      "source": {
-        "name": "9to5Mac"
-      },
-      "description": "Apple has already unveiled numerous products to date, including new versions of the MacBook Air and ...",
-      "url": "https://9to5mac.com/2026/04/18/upcoming-apple-product-launches-worth-waiting-for-later-this-year/",
-      "publishedAt": "2026-04-18T20:14:00Z",
-      "processed_at": "2026-04-20T10:49:46.542686+00:00"
-    },
-    {
-      "title": "Bayonetta creator explains what actually happened in Bayonetta 3’s ending - Nintendo Everything",
-      "source": {
-        "name": "Nintendoeverything.com"
-      },
-      "description": "The creator of Bayonetta argues that the inclusion of the multiverse didn't come out of nowhere and ...",
-      "url": "https://nintendoeverything.com/bayonetta-3-multiverse-ending-explained/",
-      "publishedAt": "2026-04-18T20:13:29Z",
-      "processed_at": "2026-04-20T10:49:46.542686+00:00"
-    },
-    {
-      "title": "Gemini app bug removes features, reverts UI on Android - 9to5Google",
-      "source": {
-        "name": "9to5google.com"
-      },
-      "description": "A bug with the Gemini app today is responsible for several recent features being rolled back. For st...",
-      "url": "http://9to5google.com/2026/04/18/gemini-app-bug/",
-      "publishedAt": "2026-04-18T19:46:00Z",
-      "processed_at": "2026-04-20T10:49:46.542686+00:00"
-    },
-    {
-      "title": "Amazon’s new Fire TV Stick HD signals the end of sideloading - Android Authority",
-      "source": {
-        "name": "Android Authority"
-      },
-      "description": "Amazon is weirdly warning only some customers that they will not be able to sideload apps on the new...",
-      "url": "https://www.androidauthority.com/fire-tv-stick-hd-sideloading-warning-3658819/",
-      "publishedAt": "2026-04-18T19:42:46Z",
-      "processed_at": "2026-04-20T10:49:46.542686+00:00"
+      "processed_at": "2026-04-20T12:05:21.823933+00:00"
     }
   ],
-  "lastUpdated": "2026-04-20T10:49:46.542762+00:00",
+  "lastUpdated": "2026-04-20T12:05:21.824050+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
