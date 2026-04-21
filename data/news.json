@@ -3,6 +3,16 @@
   "totalResults": 10,
   "articles": [
     {
+      "title": "I finally figured out when to use Gemini Notebooks vs NotebookLM — here’s the winning workflow - Tom's Guide",
+      "source": {
+        "name": "Tom's Guide"
+      },
+      "description": "This \"sync loop\" is a productivity game-changer...",
+      "url": "https://www.tomsguide.com/ai/i-finally-figured-out-when-to-use-gemini-notebooks-vs-notebooklm-heres-the-winning-workflow",
+      "publishedAt": "2026-04-20T04:30:00Z",
+      "processed_at": "2026-04-21T07:54:48.754408+00:00"
+    },
+    {
       "title": "MacBook Pro With Touch Screen and New Mac Studio Likely 'Postponed' - MacRumors",
       "source": {
         "name": "MacRumors"
@@ -10,7 +20,27 @@
       "description": "The global memory chip shortage may result in the next MacBook Pro and Mac Studio models launching l...",
       "url": "https://www.macrumors.com/2026/04/19/when-to-expect-next-macbook-pro-and-mac-studio/",
       "publishedAt": "2026-04-20T02:00:30Z",
-      "processed_at": "2026-04-21T05:28:55.750672+00:00"
+      "processed_at": "2026-04-21T07:54:48.754408+00:00"
+    },
+    {
+      "title": "Real photo of iPhone 18 Pro in new colors reveals two very welcome changes - PhoneArena",
+      "source": {
+        "name": "PhoneArena"
+      },
+      "description": "A real photo of the iPhone 18 Pro in its new color options shows off two very welcome additions....",
+      "url": "https://www.phonearena.com/news/real-photo-of-iphone-18-pro-new-colors_id179765",
+      "publishedAt": "2026-04-20T01:08:40Z",
+      "processed_at": "2026-04-21T07:54:48.754408+00:00"
+    },
+    {
+      "title": "Ford Mustang GTD Crushes Corvette ZR1X's Nürburgring Record With 6:40 Lap - Motor1.com",
+      "source": {
+        "name": "Motor1 "
+      },
+      "description": "Ford has regained the title for the fastest American production car at the Nürburgring after beating...",
+      "url": "https://www.motor1.com/news/793249/ford-mustang-gtd-competition-nurburgring-record/",
+      "publishedAt": "2026-04-19T22:56:05Z",
+      "processed_at": "2026-04-21T07:54:48.754408+00:00"
     },
     {
       "title": "'Fitbit Air' is Whoop competitor debuting with 'Google Health' - 9to5Google",
@@ -20,7 +50,7 @@
       "description": "At the end of March, Google started teasing a screen-less Fitbit band. 9to5Google can now report tha...",
       "url": "http://9to5google.com/2026/04/19/fitbit-air-google-health/",
       "publishedAt": "2026-04-19T21:30:00Z",
-      "processed_at": "2026-04-21T05:28:55.750672+00:00"
+      "processed_at": "2026-04-21T07:54:48.754408+00:00"
     },
     {
       "title": "Five for 45! Reddick wins rousing overtime shootout at Kansas - NASCAR.com",
@@ -30,7 +60,7 @@
       "description": "Watch Tyler Reddick make a wild run in NASCAR Overtime to win at Kansas Speedway and earn his fifth ...",
       "url": "https://www.nascar.com/videos/franchise/nascar-cup-final-laps/five-for-45-reddick-wins-rousing-overtime-shootout-at-kansas/",
       "publishedAt": "2026-04-19T21:23:28Z",
-      "processed_at": "2026-04-21T05:28:55.750672+00:00"
+      "processed_at": "2026-04-21T07:54:48.754408+00:00"
     },
     {
       "title": "New Debian Project Leader Elected For 2026 - Phoronix",
@@ -40,7 +70,7 @@
       "description": "Sruthi Chandran has been elected the new Debian Project Leader 'DPL' after running unopposed in this...",
       "url": "https://www.phoronix.com/news/Debian-DPL-Sruthi-Chandran",
       "publishedAt": "2026-04-19T20:58:00Z",
-      "processed_at": "2026-04-21T05:28:55.750672+00:00"
+      "processed_at": "2026-04-21T07:54:48.754408+00:00"
     },
     {
       "title": "Modder Discovers Abandoned Dark Souls II Level: Even More Sewers - Kotaku",
@@ -50,7 +80,7 @@
       "description": "The infamous Gutter appears to have been far more ambitious in an earlier development phase...",
       "url": "https://kotaku.com/modder-discovers-abandoned-dark-souls-ii-level-even-more-sewers-2000688887",
       "publishedAt": "2026-04-19T20:49:15Z",
-      "processed_at": "2026-04-21T05:28:55.750672+00:00"
+      "processed_at": "2026-04-21T07:54:48.754408+00:00"
     },
     {
       "title": "iOS 26.5 Release Date: When Your iPhone Gets Its Biggest Messaging Upgrade Ever - Forbes",
@@ -60,50 +90,20 @@
       "description": "Apple is working to bring the biggest change to iPhone messaging in years....",
       "url": "https://www.forbes.com/sites/davidphelan/2026/04/19/ios-265-release-date-when-your-iphone-gets-its-biggest-messaging-upgrade-ever/",
       "publishedAt": "2026-04-19T20:15:00Z",
-      "processed_at": "2026-04-21T05:28:55.750672+00:00"
+      "processed_at": "2026-04-21T07:54:48.754408+00:00"
     },
     {
-      "title": "Gemini Live redesign replaces fullscreen interface on Android - 9to5Google",
+      "title": "The demand for local AI could shape a new business model for Apple - 9to5Mac",
       "source": {
-        "name": "9to5google.com"
+        "name": "9to5Mac"
       },
-      "description": "Visually, Gemini Live has remained mostly unchanged since launch, but Google is now testing a redesi...",
-      "url": "http://9to5google.com/2026/04/19/gemini-live-app-redesign/",
-      "publishedAt": "2026-04-19T19:32:00Z",
-      "processed_at": "2026-04-21T05:28:55.750672+00:00"
-    },
-    {
-      "title": "AI sets sights on touchy new frontier: Taste - Axios",
-      "source": {
-        "name": "Axios"
-      },
-      "description": "Anthropic says Claude Opus 4.7 is more tasteful on work tasks....",
-      "url": "https://www.axios.com/2026/04/19/ai-taste-anthropic-claude-opus",
-      "publishedAt": "2026-04-19T19:31:43Z",
-      "processed_at": "2026-04-21T05:28:55.750672+00:00"
-    },
-    {
-      "title": "Nobody talks about this polished open-source note-taking app, and I don’t get it - MakeUseOf",
-      "source": {
-        "name": "MakeUseOf"
-      },
-      "description": "A rare note-taking app that prioritizes control, privacy, and long-term reliability....",
-      "url": "https://www.makeuseof.com/nobody-talks-about-this-polished-open-source-note-taking-app-and-i-dont-get-it/",
-      "publishedAt": "2026-04-19T19:00:18Z",
-      "processed_at": "2026-04-21T05:28:55.750672+00:00"
-    },
-    {
-      "title": "4.5mm iPhone Ultra/Fold cases and \"final design\" renders leak; big MagSafe mystery - Notebookcheck",
-      "source": {
-        "name": "Notebookcheck.net"
-      },
-      "description": "Leaked iPhone Ultra/Fold cases confirm a wider book-style foldable design for Apple’s 2026 flagship....",
-      "url": "https://www.notebookcheck.net/4-5mm-iPhone-Ultra-Fold-cases-and-final-design-renders-leak-big-MagSafe-mystery.1277651.0.html",
-      "publishedAt": "2026-04-19T18:58:00Z",
-      "processed_at": "2026-04-21T05:28:55.750672+00:00"
+      "description": "To put it simply: Apple Silicon is impressively optimized for running local AI models. And the data ...",
+      "url": "https://9to5mac.com/2026/04/19/apple-local-ai-server-hosting-new-business-model/",
+      "publishedAt": "2026-04-19T19:43:00Z",
+      "processed_at": "2026-04-21T07:54:48.754408+00:00"
     }
   ],
-  "lastUpdated": "2026-04-21T05:28:55.750737+00:00",
+  "lastUpdated": "2026-04-21T07:54:48.754538+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
