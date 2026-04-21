@@ -3,14 +3,14 @@
   "totalResults": 10,
   "articles": [
     {
-      "title": "WWDC 2026 Graphic Teases Major iOS 27 Feature - MacRumors",
+      "title": "MacBook Pro With Touch Screen and New Mac Studio Likely 'Postponed' - MacRumors",
       "source": {
         "name": "MacRumors"
       },
-      "description": "Apple's WWDC 2026 graphic provides \"a glimpse of the revamped Siri interface coming in iOS 27,\" acco...",
-      "url": "https://www.macrumors.com/2026/04/19/wwdc-2026-graphic-teases-ios-27-feature/",
-      "publishedAt": "2026-04-19T22:02:34Z",
-      "processed_at": "2026-04-21T02:46:00.314650+00:00"
+      "description": "The global memory chip shortage may result in the next MacBook Pro and Mac Studio models launching l...",
+      "url": "https://www.macrumors.com/2026/04/19/when-to-expect-next-macbook-pro-and-mac-studio/",
+      "publishedAt": "2026-04-20T02:00:30Z",
+      "processed_at": "2026-04-21T05:28:55.750672+00:00"
     },
     {
       "title": "'Fitbit Air' is Whoop competitor debuting with 'Google Health' - 9to5Google",
@@ -20,7 +20,7 @@
       "description": "At the end of March, Google started teasing a screen-less Fitbit band. 9to5Google can now report tha...",
       "url": "http://9to5google.com/2026/04/19/fitbit-air-google-health/",
       "publishedAt": "2026-04-19T21:30:00Z",
-      "processed_at": "2026-04-21T02:46:00.314650+00:00"
+      "processed_at": "2026-04-21T05:28:55.750672+00:00"
     },
     {
       "title": "Five for 45! Reddick wins rousing overtime shootout at Kansas - NASCAR.com",
@@ -30,7 +30,7 @@
       "description": "Watch Tyler Reddick make a wild run in NASCAR Overtime to win at Kansas Speedway and earn his fifth ...",
       "url": "https://www.nascar.com/videos/franchise/nascar-cup-final-laps/five-for-45-reddick-wins-rousing-overtime-shootout-at-kansas/",
       "publishedAt": "2026-04-19T21:23:28Z",
-      "processed_at": "2026-04-21T02:46:00.314650+00:00"
+      "processed_at": "2026-04-21T05:28:55.750672+00:00"
     },
     {
       "title": "New Debian Project Leader Elected For 2026 - Phoronix",
@@ -40,7 +40,7 @@
       "description": "Sruthi Chandran has been elected the new Debian Project Leader 'DPL' after running unopposed in this...",
       "url": "https://www.phoronix.com/news/Debian-DPL-Sruthi-Chandran",
       "publishedAt": "2026-04-19T20:58:00Z",
-      "processed_at": "2026-04-21T02:46:00.314650+00:00"
+      "processed_at": "2026-04-21T05:28:55.750672+00:00"
     },
     {
       "title": "Modder Discovers Abandoned Dark Souls II Level: Even More Sewers - Kotaku",
@@ -50,7 +50,17 @@
       "description": "The infamous Gutter appears to have been far more ambitious in an earlier development phase...",
       "url": "https://kotaku.com/modder-discovers-abandoned-dark-souls-ii-level-even-more-sewers-2000688887",
       "publishedAt": "2026-04-19T20:49:15Z",
-      "processed_at": "2026-04-21T02:46:00.314650+00:00"
+      "processed_at": "2026-04-21T05:28:55.750672+00:00"
+    },
+    {
+      "title": "iOS 26.5 Release Date: When Your iPhone Gets Its Biggest Messaging Upgrade Ever - Forbes",
+      "source": {
+        "name": "Forbes"
+      },
+      "description": "Apple is working to bring the biggest change to iPhone messaging in years....",
+      "url": "https://www.forbes.com/sites/davidphelan/2026/04/19/ios-265-release-date-when-your-iphone-gets-its-biggest-messaging-upgrade-ever/",
+      "publishedAt": "2026-04-19T20:15:00Z",
+      "processed_at": "2026-04-21T05:28:55.750672+00:00"
     },
     {
       "title": "Gemini Live redesign replaces fullscreen interface on Android - 9to5Google",
@@ -60,7 +70,27 @@
       "description": "Visually, Gemini Live has remained mostly unchanged since launch, but Google is now testing a redesi...",
       "url": "http://9to5google.com/2026/04/19/gemini-live-app-redesign/",
       "publishedAt": "2026-04-19T19:32:00Z",
-      "processed_at": "2026-04-21T02:46:00.314650+00:00"
+      "processed_at": "2026-04-21T05:28:55.750672+00:00"
+    },
+    {
+      "title": "AI sets sights on touchy new frontier: Taste - Axios",
+      "source": {
+        "name": "Axios"
+      },
+      "description": "Anthropic says Claude Opus 4.7 is more tasteful on work tasks....",
+      "url": "https://www.axios.com/2026/04/19/ai-taste-anthropic-claude-opus",
+      "publishedAt": "2026-04-19T19:31:43Z",
+      "processed_at": "2026-04-21T05:28:55.750672+00:00"
+    },
+    {
+      "title": "Nobody talks about this polished open-source note-taking app, and I don’t get it - MakeUseOf",
+      "source": {
+        "name": "MakeUseOf"
+      },
+      "description": "A rare note-taking app that prioritizes control, privacy, and long-term reliability....",
+      "url": "https://www.makeuseof.com/nobody-talks-about-this-polished-open-source-note-taking-app-and-i-dont-get-it/",
+      "publishedAt": "2026-04-19T19:00:18Z",
+      "processed_at": "2026-04-21T05:28:55.750672+00:00"
     },
     {
       "title": "4.5mm iPhone Ultra/Fold cases and \"final design\" renders leak; big MagSafe mystery - Notebookcheck",
@@ -70,40 +100,10 @@
       "description": "Leaked iPhone Ultra/Fold cases confirm a wider book-style foldable design for Apple’s 2026 flagship....",
       "url": "https://www.notebookcheck.net/4-5mm-iPhone-Ultra-Fold-cases-and-final-design-renders-leak-big-MagSafe-mystery.1277651.0.html",
       "publishedAt": "2026-04-19T18:58:00Z",
-      "processed_at": "2026-04-21T02:46:00.314650+00:00"
-    },
-    {
-      "title": "Close call! Reddick, Hamlin make contact on opening Kansas lap - NASCAR.com",
-      "source": {
-        "name": "NASCAR"
-      },
-      "description": "Tyler Reddick and Denny Hamlin make slight contact while battling for the lead during the opening la...",
-      "url": "https://www.nascar.com/videos/franchise/nascar-cup-series-highlights/close-call-reddick-hamlin-make-contact-on-opening-kansas-lap/",
-      "publishedAt": "2026-04-19T18:33:17Z",
-      "processed_at": "2026-04-21T02:46:00.314650+00:00"
-    },
-    {
-      "title": "Space Force weighs Vulcan flights without solid boosters - SpaceNews",
-      "source": {
-        "name": "SpaceNews"
-      },
-      "description": "Space Force weighs Vulcan flights without solid boosters  Space Force weighs Vulcan flights without ...",
-      "url": "http://spacenews.com/space-force-weighs-vulcan-flights-without-solid-boosters/",
-      "publishedAt": "2026-04-19T17:59:19Z",
-      "processed_at": "2026-04-21T02:46:00.314650+00:00"
-    },
-    {
-      "title": "Pragmata On Consoles: Fine on PS5/Series X - But PS5 Pro Is The Best Way To Play - Digital Foundry",
-      "source": {
-        "name": "Digitalfoundry.net"
-      },
-      "description": "Series S runs well, but image quality and features take a big hit....",
-      "url": "https://www.digitalfoundry.net/news/2026/04/pragmata-on-consoles-fine-on-ps5series-x-but-ps5-pro-is-the-best-way-to-play",
-      "publishedAt": "2026-04-19T17:42:00Z",
-      "processed_at": "2026-04-21T02:46:00.314650+00:00"
+      "processed_at": "2026-04-21T05:28:55.750672+00:00"
     }
   ],
-  "lastUpdated": "2026-04-21T02:46:00.314726+00:00",
+  "lastUpdated": "2026-04-21T05:28:55.750737+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
