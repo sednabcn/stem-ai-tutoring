@@ -1,36 +1,66 @@
 {
   "status": "success",
-  "totalResults": 9,
+  "totalResults": 7,
   "articles": [
     {
-      "title": "Surprise! Alien: Rogue Incursion Has Shadow-Dropped On Switch 2 - Nintendo Life",
+      "title": "Prego Pivots From Budget-Tier Pasta Sauce to Small Microphones That Listen to Your Family's Intimate Conversations - Futurism",
       "source": {
-        "name": "Nintendo Life"
+        "name": "Futurism"
       },
-      "description": "MU/TH/UR may I?...",
-      "url": "https://www.nintendolife.com/news/2026/04/surprise-alien-rogue-incursion-has-shadow-dropped-on-switch-2",
-      "publishedAt": "2026-04-21T18:00:00Z",
-      "processed_at": "2026-04-22T20:56:59.167692+00:00"
+      "description": "Prego, the pasta sauce brand, announced a new lid-shaped device designed to record and preserve fami...",
+      "url": "http://futurism.com/future-society/prego-pivots-pasta-sauce-microphone",
+      "publishedAt": "2026-04-21T19:01:00Z",
+      "processed_at": "2026-04-22T21:55:27.870141+00:00"
     },
     {
-      "title": "Apple says iOS 27 and macOS 27 will have stricter security requirements for networks - 9to5Mac",
+      "title": "Mozilla Used Anthropic’s Mythos to Find and Fix 151 Bugs in Firefox - WIRED",
       "source": {
-        "name": "9to5Mac"
+        "name": "Wired"
       },
-      "description": "Apple has a new support document that warns of a network security change coming in iOS 27, macOS 27,...",
-      "url": "https://9to5mac.com/2026/04/21/apple-says-ios-27-and-macos-27-will-have-stricter-security-requirements-for-networks/",
-      "publishedAt": "2026-04-21T17:30:00Z",
-      "processed_at": "2026-04-22T20:56:59.167692+00:00"
+      "description": "The Firefox team doesn’t think emerging AI capabilities will upend cybersecurity long term, but they...",
+      "url": "https://www.wired.com/story/mozilla-used-anthropics-mythos-to-find-271-bugs-in-firefox/",
+      "publishedAt": "2026-04-21T18:30:00Z",
+      "processed_at": "2026-04-22T21:55:27.870141+00:00"
     },
     {
-      "title": "Xbox Game Pass Ultimate gets a price cut but loses new Call of Duty games - The Verge",
+      "title": "X makes it 1,900 percent more expensive to post links - The Verge",
       "source": {
         "name": "The Verge"
       },
-      "description": "Microsoft is adjusting Game Pass pricing. Game Pass Ultimate and PC Game Pass prices are dropping, b...",
-      "url": "https://www.theverge.com/news/915928/microsoft-xbox-game-pass-ultimate-price-drop",
-      "publishedAt": "2026-04-21T16:03:27Z",
-      "processed_at": "2026-04-22T20:56:59.167692+00:00"
+      "description": "Posting links to X through custom social media software just got a lot more expensive. As a result, ...",
+      "url": "https://www.theverge.com/tech/916178/x-link-post-api-expensive-techmeme",
+      "publishedAt": "2026-04-21T18:27:18Z",
+      "processed_at": "2026-04-22T21:55:27.870141+00:00"
+    },
+    {
+      "title": "Framework announces Laptop 13 Pro, ‘the MacBook Pro for Linux users’ - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "Framework’s new Laptop 13 Pro, on preorder today, takes on the M5 MacBook Pro with a CNC aluminum ch...",
+      "url": "https://www.theverge.com/gadgets/915508/framework-announces-laptop-13-pro-the-macbook-pro-for-linux-users",
+      "publishedAt": "2026-04-21T18:08:00Z",
+      "processed_at": "2026-04-22T21:55:27.870141+00:00"
+    },
+    {
+      "title": "Alien: Rogue Incursion gets surprise release on Nintendo Switch 2 - Nintendo Everything",
+      "source": {
+        "name": "Nintendoeverything.com"
+      },
+      "description": "Alien: Rogue Incursion – Part One: Evolved Edition has not only been announced for Nintendo Switch 2...",
+      "url": "https://nintendoeverything.com/alien-rogue-incursion-gets-surprise-release-on-nintendo-switch-2/",
+      "publishedAt": "2026-04-21T18:03:45Z",
+      "processed_at": "2026-04-22T21:55:27.870141+00:00"
+    },
+    {
+      "title": "Diablo IV: Lord of Hatred Review - Embrace The Hate - Game Informer",
+      "source": {
+        "name": "Gameinformer.com"
+      },
+      "description": "Lord of Hatred is an exceptional cherry on top of Diablo IV, further cementing the entire package as...",
+      "url": "https://gameinformer.com/review/diablo-iv-lord-of-hatred/embrace-the-hate",
+      "publishedAt": "2026-04-21T16:02:43Z",
+      "processed_at": "2026-04-22T21:55:27.870141+00:00"
     },
     {
       "title": "Former Pinterest team redesigns email with Extra — and it’s actually good - TechCrunch",
@@ -40,60 +70,10 @@
       "description": "Extra, from a team of former Pinterest designers and engineers, reimagines email around your life in...",
       "url": "https://techcrunch.com/2026/04/21/former-pinterest-team-redesigns-email-with-extra-and-its-actually-good/",
       "publishedAt": "2026-04-21T16:00:00Z",
-      "processed_at": "2026-04-22T20:56:59.167692+00:00"
-    },
-    {
-      "title": "Diablo 4: Lord of Hatred Review - IGN",
-      "source": {
-        "name": "IGN"
-      },
-      "description": "An extremely satisfying conclusion to Diablo's latest demonic saga....",
-      "url": "https://www.ign.com/articles/diablo-4-lord-of-hatred-review",
-      "publishedAt": "2026-04-21T16:00:00Z",
-      "processed_at": "2026-04-22T20:56:59.167692+00:00"
-    },
-    {
-      "title": "The next evolution of The Verge’s homepage is here - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "We’re continuously improving how The Verge works for you....",
-      "url": "https://www.theverge.com/bulletin/914842/the-next-evolution-of-the-verges-homepage-is-here",
-      "publishedAt": "2026-04-21T15:48:04Z",
-      "processed_at": "2026-04-22T20:56:59.167692+00:00"
-    },
-    {
-      "title": "A Realm Reborn in Magic: The Gathering®—FINAL FANTASY™ - Magic: The Gathering",
-      "source": {
-        "name": "Wizards.com"
-      },
-      "description": "Cameron Williams discusses how Magic: The Gathering—FINAL FANTASY's designers brought the critically...",
-      "url": "https://magic.wizards.com/en/news/feature/a-realm-reborn-in-final-fantasy",
-      "publishedAt": "2026-04-21T15:16:01Z",
-      "processed_at": "2026-04-22T20:56:59.167692+00:00"
-    },
-    {
-      "title": "/dev: Apex Tier Ranked Reset - League of Legends",
-      "source": {
-        "name": "Leagueoflegends.com"
-      },
-      "description": "Why we’re doing a Ranked reset for Master+ in NA, EUW, EUNE, BR, LAN, and TR in 26.9....",
-      "url": "https://www.leagueoflegends.com/en-us/news/dev/dev-apex-tier-ranked-reset/",
-      "publishedAt": "2026-04-21T15:00:00Z",
-      "processed_at": "2026-04-22T20:56:59.167692+00:00"
-    },
-    {
-      "title": "Da Speedwaaagh! begins with two new Ork Detachments - Warhammer Community",
-      "source": {
-        "name": "Warhammer-community.com"
-      },
-      "description": "Join Wazdakka’s lads for a high-speed krumpin’ with new Warhammer 40,000 rules....",
-      "url": "https://www.warhammer-community.com/articles/zd2usx9o/da-speedwaaagh-begins-with-two-new-ork-detachments",
-      "publishedAt": "2026-04-21T14:57:10Z",
-      "processed_at": "2026-04-22T20:56:59.167692+00:00"
+      "processed_at": "2026-04-22T21:55:27.870141+00:00"
     }
   ],
-  "lastUpdated": "2026-04-22T20:56:59.167765+00:00",
+  "lastUpdated": "2026-04-22T21:55:27.870204+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
