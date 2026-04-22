@@ -1,7 +1,47 @@
 {
   "status": "success",
-  "totalResults": 7,
+  "totalResults": 10,
   "articles": [
+    {
+      "title": "Mozilla: Anthropic’s Mythos found 271 zero-day vulnerabilities in Firefox 150 - Ars Technica",
+      "source": {
+        "name": "Ars Technica"
+      },
+      "description": "CTO says new AI model is \"every bit as capable\" as world's best security researchers....",
+      "url": "https://arstechnica.com/ai/2026/04/mozilla-anthropics-mythos-found-271-zero-day-vulnerabilities-in-firefox-150/",
+      "publishedAt": "2026-04-21T21:40:41Z",
+      "processed_at": "2026-04-22T23:48:17.628947+00:00"
+    },
+    {
+      "title": "Rumor: Street Fighter 6 Season 4 DLC character roster potentially leaks online including big Final Fantasy crossover - EventHubs",
+      "source": {
+        "name": "EventHubs"
+      },
+      "description": "Street Fighter 6 is getting ready to close out its third season of DLC content with Ingrid on the wa...",
+      "url": "https://www.eventhubs.com/news/2026/apr/21/street-fighter-season-4-leak/",
+      "publishedAt": "2026-04-21T20:41:50Z",
+      "processed_at": "2026-04-22T23:48:17.628947+00:00"
+    },
+    {
+      "title": "Motorola Razr 70 listed ahead of announcement - GSMArena.com news - GSMArena.com",
+      "source": {
+        "name": "GSMArena.com"
+      },
+      "description": "It brings an updated 50MP ultrawide camera alongside a larger 4,800mAh battery compared to its prede...",
+      "url": "https://www.gsmarena.com/motorola_razr_70_listed_ahead_of_announcement-news-72474.php",
+      "publishedAt": "2026-04-21T19:11:02Z",
+      "processed_at": "2026-04-22T23:48:17.628947+00:00"
+    },
+    {
+      "title": "Apple’s Cal AI crackdown signals it’s still policing the App Store - TechCrunch",
+      "source": {
+        "name": "TechCrunch"
+      },
+      "description": "Apple tells TechCrunch Cal AI was removed not for web payments alone, but for deceptive billing, man...",
+      "url": "https://techcrunch.com/2026/04/21/apples-cal-ai-crackdown-signals-its-still-policing-the-app-store/",
+      "publishedAt": "2026-04-21T19:09:12Z",
+      "processed_at": "2026-04-22T23:48:17.628947+00:00"
+    },
     {
       "title": "Prego Pivots From Budget-Tier Pasta Sauce to Small Microphones That Listen to Your Family's Intimate Conversations - Futurism",
       "source": {
@@ -10,27 +50,7 @@
       "description": "Prego, the pasta sauce brand, announced a new lid-shaped device designed to record and preserve fami...",
       "url": "http://futurism.com/future-society/prego-pivots-pasta-sauce-microphone",
       "publishedAt": "2026-04-21T19:01:00Z",
-      "processed_at": "2026-04-22T22:50:45.585270+00:00"
-    },
-    {
-      "title": "Mozilla Used Anthropic’s Mythos to Find and Fix 151 Bugs in Firefox - WIRED",
-      "source": {
-        "name": "Wired"
-      },
-      "description": "The Firefox team doesn’t think emerging AI capabilities will upend cybersecurity long term, but they...",
-      "url": "https://www.wired.com/story/mozilla-used-anthropics-mythos-to-find-271-bugs-in-firefox/",
-      "publishedAt": "2026-04-21T18:30:00Z",
-      "processed_at": "2026-04-22T22:50:45.585270+00:00"
-    },
-    {
-      "title": "X makes it 1,900 percent more expensive to post links - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "Posting links to X through custom social media software just got a lot more expensive. As a result, ...",
-      "url": "https://www.theverge.com/tech/916178/x-link-post-api-expensive-techmeme",
-      "publishedAt": "2026-04-21T18:27:18Z",
-      "processed_at": "2026-04-22T22:50:45.585270+00:00"
+      "processed_at": "2026-04-22T23:48:17.628947+00:00"
     },
     {
       "title": "Framework announces Laptop 13 Pro, ‘the MacBook Pro for Linux users’ - The Verge",
@@ -40,7 +60,17 @@
       "description": "Framework’s new Laptop 13 Pro, on preorder today, takes on the M5 MacBook Pro with a CNC aluminum ch...",
       "url": "https://www.theverge.com/gadgets/915508/framework-announces-laptop-13-pro-the-macbook-pro-for-linux-users",
       "publishedAt": "2026-04-21T18:08:00Z",
-      "processed_at": "2026-04-22T22:50:45.585270+00:00"
+      "processed_at": "2026-04-22T23:48:17.628947+00:00"
+    },
+    {
+      "title": "Framework is building a better couch keyboard because everyone hates the Logitech one - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "Framework is building a wireless keyboard and touchpad combo to beat the Logitech K400....",
+      "url": "https://www.theverge.com/tech/915497/framework-is-building-a-better-couch-keyboard-because-everyone-hates-the-logitech-one",
+      "publishedAt": "2026-04-21T18:06:29Z",
+      "processed_at": "2026-04-22T23:48:17.628947+00:00"
     },
     {
       "title": "Alien: Rogue Incursion gets surprise release on Nintendo Switch 2 - Nintendo Everything",
@@ -50,30 +80,30 @@
       "description": "Alien: Rogue Incursion – Part One: Evolved Edition has not only been announced for Nintendo Switch 2...",
       "url": "https://nintendoeverything.com/alien-rogue-incursion-gets-surprise-release-on-nintendo-switch-2/",
       "publishedAt": "2026-04-21T18:03:45Z",
-      "processed_at": "2026-04-22T22:50:45.585270+00:00"
+      "processed_at": "2026-04-22T23:48:17.628947+00:00"
     },
     {
-      "title": "Diablo IV: Lord of Hatred Review - Embrace The Hate - Game Informer",
+      "title": "The AirPods are Tim Cook’s most underrated achievement - The Verge",
       "source": {
-        "name": "Gameinformer.com"
+        "name": "The Verge"
       },
-      "description": "Lord of Hatred is an exceptional cherry on top of Diablo IV, further cementing the entire package as...",
-      "url": "https://gameinformer.com/review/diablo-iv-lord-of-hatred/embrace-the-hate",
-      "publishedAt": "2026-04-21T16:02:43Z",
-      "processed_at": "2026-04-22T22:50:45.585270+00:00"
+      "description": "﻿Cook and incoming CEO John Ternus made a computer company the most important audio company of the 2...",
+      "url": "https://www.theverge.com/tech/916031/tim-cook-apple-airpods-legacy",
+      "publishedAt": "2026-04-21T17:49:35Z",
+      "processed_at": "2026-04-22T23:48:17.628947+00:00"
     },
     {
-      "title": "Former Pinterest team redesigns email with Extra — and it’s actually good - TechCrunch",
+      "title": "I was happy with my Pixel camera until I tried the Oppo Find X9 Ultra [Gallery] - 9to5Google",
       "source": {
-        "name": "TechCrunch"
+        "name": "9to5google.com"
       },
-      "description": "Extra, from a team of former Pinterest designers and engineers, reimagines email around your life in...",
-      "url": "https://techcrunch.com/2026/04/21/former-pinterest-team-redesigns-email-with-extra-and-its-actually-good/",
-      "publishedAt": "2026-04-21T16:00:00Z",
-      "processed_at": "2026-04-22T22:50:45.585270+00:00"
+      "description": "While there are a ton of different things I care about on my smartphone, the camera is a huge decidi...",
+      "url": "http://9to5google.com/2026/04/21/oppo-find-x9-ultra-camera-samples-gallery/",
+      "publishedAt": "2026-04-21T17:25:00Z",
+      "processed_at": "2026-04-22T23:48:17.628947+00:00"
     }
   ],
-  "lastUpdated": "2026-04-22T22:50:45.585335+00:00",
+  "lastUpdated": "2026-04-22T23:48:17.629024+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
