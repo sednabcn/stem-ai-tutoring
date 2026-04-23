@@ -1,7 +1,17 @@
 {
   "status": "success",
-  "totalResults": 8,
+  "totalResults": 10,
   "articles": [
+    {
+      "title": "Northrop Grumman takes $71 million charge on Vulcan booster issue - SpaceNews",
+      "source": {
+        "name": "SpaceNews"
+      },
+      "description": "Northrop Grumman said April 21 it took a $71 million charge in its fiscal first quarter linked to an...",
+      "url": "http://spacenews.com/northrop-grumman-takes-71-million-charge-on-vulcan-booster-issue/",
+      "publishedAt": "2026-04-22T02:19:37Z",
+      "processed_at": "2026-04-23T09:51:22.552409+00:00"
+    },
     {
       "title": "Rumor: Street Fighter 6 Year 4 DLC characters leak, includes big crossover - Nintendo Everything",
       "source": {
@@ -10,7 +20,7 @@
       "description": "A leaker with a reliable track record has allegedly leaked DLC characters for Street Fighter 6 Year ...",
       "url": "https://nintendoeverything.com/rumor-street-fighter-6-year-4-dlc-characters-leak-includes-big-crossover/",
       "publishedAt": "2026-04-22T00:38:45Z",
-      "processed_at": "2026-04-23T07:57:31.938691+00:00"
+      "processed_at": "2026-04-23T09:51:22.552409+00:00"
     },
     {
       "title": "Mozilla: Anthropic’s Mythos found 271 zero-day vulnerabilities in Firefox 150 - Ars Technica",
@@ -20,7 +30,7 @@
       "description": "CTO says new AI model is \"every bit as capable\" as world's best security researchers....",
       "url": "https://arstechnica.com/ai/2026/04/mozilla-anthropics-mythos-found-271-zero-day-vulnerabilities-in-firefox-150/",
       "publishedAt": "2026-04-21T21:40:41Z",
-      "processed_at": "2026-04-23T07:57:31.938691+00:00"
+      "processed_at": "2026-04-23T09:51:22.552409+00:00"
     },
     {
       "title": "Here's What's New in iOS 26.5 So Far - MacRumors",
@@ -30,7 +40,7 @@
       "description": "iOS 26.5 has been in beta since late March, with a third beta released this week. The update is rela...",
       "url": "https://www.macrumors.com/2026/04/21/ios-26-5-new-iphone-features/",
       "publishedAt": "2026-04-21T20:30:00Z",
-      "processed_at": "2026-04-23T07:57:31.938691+00:00"
+      "processed_at": "2026-04-23T09:51:22.552409+00:00"
     },
     {
       "title": "Keanu Reeves Raced This Supercharged Scion tC, And Now You Can, Too - Jalopnik",
@@ -40,7 +50,7 @@
       "description": "If you've already jacked into the Matrix and downloaded the good driver file, maybe you'll want to p...",
       "url": "https://www.jalopnik.com/2153993/keanu-reeves-raced-supercharged-scion-tc-auction/",
       "publishedAt": "2026-04-21T20:25:09Z",
-      "processed_at": "2026-04-23T07:57:31.938691+00:00"
+      "processed_at": "2026-04-23T09:51:22.552409+00:00"
     },
     {
       "title": "This Watch Brand Is Fast on Its Way to Winning 2026 - Gear Patrol",
@@ -50,7 +60,7 @@
       "description": "IWC \"won\" Watches and Wonders this year, with a broad range of outstanding new models and innovation...",
       "url": "https://www.gearpatrol.com/watches/iwc-watches-and-wonders-2026/",
       "publishedAt": "2026-04-21T20:01:01Z",
-      "processed_at": "2026-04-23T07:57:31.938691+00:00"
+      "processed_at": "2026-04-23T09:51:22.552409+00:00"
     },
     {
       "title": "Apple’s Cal AI crackdown signals it’s still policing the App Store - TechCrunch",
@@ -60,7 +70,7 @@
       "description": "Apple tells TechCrunch Cal AI was removed not for web payments alone, but for deceptive billing, man...",
       "url": "https://techcrunch.com/2026/04/21/apples-cal-ai-crackdown-signals-its-still-policing-the-app-store/",
       "publishedAt": "2026-04-21T19:09:12Z",
-      "processed_at": "2026-04-23T07:57:31.938691+00:00"
+      "processed_at": "2026-04-23T09:51:22.552409+00:00"
     },
     {
       "title": "Prego Pivots From Budget-Tier Pasta Sauce to Small Microphones That Listen to Your Family's Intimate Conversations - Futurism",
@@ -70,7 +80,7 @@
       "description": "Prego, the pasta sauce brand, announced a new lid-shaped device designed to record and preserve fami...",
       "url": "http://futurism.com/future-society/prego-pivots-pasta-sauce-microphone",
       "publishedAt": "2026-04-21T19:01:00Z",
-      "processed_at": "2026-04-23T07:57:31.938691+00:00"
+      "processed_at": "2026-04-23T09:51:22.552409+00:00"
     },
     {
       "title": "Framework’s first eGPUs turn its laptop into a desktop PC - The Verge",
@@ -80,10 +90,20 @@
       "description": "Framework is officially revealing its external OCuLink solutions for power users to connect its Lapt...",
       "url": "https://www.theverge.com/gadgets/915328/framework-oculink-egpu-dev-kit-laptop-16",
       "publishedAt": "2026-04-21T18:07:24Z",
-      "processed_at": "2026-04-23T07:57:31.938691+00:00"
+      "processed_at": "2026-04-23T09:51:22.552409+00:00"
+    },
+    {
+      "title": "Tim Cook’s Legacy Is Turning Apple Into a Subscription - WIRED",
+      "source": {
+        "name": "Wired"
+      },
+      "description": "The soon-to-exit Apple CEO went all in on services. Now, the incoming CEO, John Ternus, will need to...",
+      "url": "https://www.wired.com/story/apple-tim-cook-subscription-business/",
+      "publishedAt": "2026-04-21T17:35:00Z",
+      "processed_at": "2026-04-23T09:51:22.552409+00:00"
     }
   ],
-  "lastUpdated": "2026-04-23T07:57:31.938757+00:00",
+  "lastUpdated": "2026-04-23T09:51:22.552484+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
