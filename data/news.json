@@ -1,7 +1,17 @@
 {
   "status": "success",
-  "totalResults": 10,
+  "totalResults": 9,
   "articles": [
+    {
+      "title": "Rumor: Street Fighter 6 Year 4 DLC characters leak, includes big crossover - Nintendo Everything",
+      "source": {
+        "name": "Nintendoeverything.com"
+      },
+      "description": "A leaker with a reliable track record has allegedly leaked DLC characters for Street Fighter 6 Year ...",
+      "url": "https://nintendoeverything.com/rumor-street-fighter-6-year-4-dlc-characters-leak-includes-big-crossover/",
+      "publishedAt": "2026-04-22T00:38:45Z",
+      "processed_at": "2026-04-23T02:47:45.143098+00:00"
+    },
     {
       "title": "Mozilla: Anthropic’s Mythos found 271 zero-day vulnerabilities in Firefox 150 - Ars Technica",
       "source": {
@@ -10,17 +20,17 @@
       "description": "CTO says new AI model is \"every bit as capable\" as world's best security researchers....",
       "url": "https://arstechnica.com/ai/2026/04/mozilla-anthropics-mythos-found-271-zero-day-vulnerabilities-in-firefox-150/",
       "publishedAt": "2026-04-21T21:40:41Z",
-      "processed_at": "2026-04-22T23:48:17.628947+00:00"
+      "processed_at": "2026-04-23T02:47:45.143098+00:00"
     },
     {
-      "title": "Rumor: Street Fighter 6 Season 4 DLC character roster potentially leaks online including big Final Fantasy crossover - EventHubs",
+      "title": "Here's What's New in iOS 26.5 So Far - MacRumors",
       "source": {
-        "name": "EventHubs"
+        "name": "MacRumors"
       },
-      "description": "Street Fighter 6 is getting ready to close out its third season of DLC content with Ingrid on the wa...",
-      "url": "https://www.eventhubs.com/news/2026/apr/21/street-fighter-season-4-leak/",
-      "publishedAt": "2026-04-21T20:41:50Z",
-      "processed_at": "2026-04-22T23:48:17.628947+00:00"
+      "description": "iOS 26.5 has been in beta since late March, with a third beta released this week. The update is rela...",
+      "url": "https://www.macrumors.com/2026/04/21/ios-26-5-new-iphone-features/",
+      "publishedAt": "2026-04-21T20:30:00Z",
+      "processed_at": "2026-04-23T02:47:45.143098+00:00"
     },
     {
       "title": "Motorola Razr 70 listed ahead of announcement - GSMArena.com news - GSMArena.com",
@@ -30,7 +40,7 @@
       "description": "It brings an updated 50MP ultrawide camera alongside a larger 4,800mAh battery compared to its prede...",
       "url": "https://www.gsmarena.com/motorola_razr_70_listed_ahead_of_announcement-news-72474.php",
       "publishedAt": "2026-04-21T19:11:02Z",
-      "processed_at": "2026-04-22T23:48:17.628947+00:00"
+      "processed_at": "2026-04-23T02:47:45.143098+00:00"
     },
     {
       "title": "Apple’s Cal AI crackdown signals it’s still policing the App Store - TechCrunch",
@@ -40,7 +50,7 @@
       "description": "Apple tells TechCrunch Cal AI was removed not for web payments alone, but for deceptive billing, man...",
       "url": "https://techcrunch.com/2026/04/21/apples-cal-ai-crackdown-signals-its-still-policing-the-app-store/",
       "publishedAt": "2026-04-21T19:09:12Z",
-      "processed_at": "2026-04-22T23:48:17.628947+00:00"
+      "processed_at": "2026-04-23T02:47:45.143098+00:00"
     },
     {
       "title": "Prego Pivots From Budget-Tier Pasta Sauce to Small Microphones That Listen to Your Family's Intimate Conversations - Futurism",
@@ -50,27 +60,17 @@
       "description": "Prego, the pasta sauce brand, announced a new lid-shaped device designed to record and preserve fami...",
       "url": "http://futurism.com/future-society/prego-pivots-pasta-sauce-microphone",
       "publishedAt": "2026-04-21T19:01:00Z",
-      "processed_at": "2026-04-22T23:48:17.628947+00:00"
+      "processed_at": "2026-04-23T02:47:45.143098+00:00"
     },
     {
-      "title": "Framework announces Laptop 13 Pro, ‘the MacBook Pro for Linux users’ - The Verge",
+      "title": "Framework’s first eGPUs turn its laptop into a desktop PC - The Verge",
       "source": {
         "name": "The Verge"
       },
-      "description": "Framework’s new Laptop 13 Pro, on preorder today, takes on the M5 MacBook Pro with a CNC aluminum ch...",
-      "url": "https://www.theverge.com/gadgets/915508/framework-announces-laptop-13-pro-the-macbook-pro-for-linux-users",
-      "publishedAt": "2026-04-21T18:08:00Z",
-      "processed_at": "2026-04-22T23:48:17.628947+00:00"
-    },
-    {
-      "title": "Framework is building a better couch keyboard because everyone hates the Logitech one - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "Framework is building a wireless keyboard and touchpad combo to beat the Logitech K400....",
-      "url": "https://www.theverge.com/tech/915497/framework-is-building-a-better-couch-keyboard-because-everyone-hates-the-logitech-one",
-      "publishedAt": "2026-04-21T18:06:29Z",
-      "processed_at": "2026-04-22T23:48:17.628947+00:00"
+      "description": "Framework is officially revealing its external OCuLink solutions for power users to connect its Lapt...",
+      "url": "https://www.theverge.com/gadgets/915328/framework-oculink-egpu-dev-kit-laptop-16",
+      "publishedAt": "2026-04-21T18:07:24Z",
+      "processed_at": "2026-04-23T02:47:45.143098+00:00"
     },
     {
       "title": "Alien: Rogue Incursion gets surprise release on Nintendo Switch 2 - Nintendo Everything",
@@ -80,17 +80,7 @@
       "description": "Alien: Rogue Incursion – Part One: Evolved Edition has not only been announced for Nintendo Switch 2...",
       "url": "https://nintendoeverything.com/alien-rogue-incursion-gets-surprise-release-on-nintendo-switch-2/",
       "publishedAt": "2026-04-21T18:03:45Z",
-      "processed_at": "2026-04-22T23:48:17.628947+00:00"
-    },
-    {
-      "title": "The AirPods are Tim Cook’s most underrated achievement - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "﻿Cook and incoming CEO John Ternus made a computer company the most important audio company of the 2...",
-      "url": "https://www.theverge.com/tech/916031/tim-cook-apple-airpods-legacy",
-      "publishedAt": "2026-04-21T17:49:35Z",
-      "processed_at": "2026-04-22T23:48:17.628947+00:00"
+      "processed_at": "2026-04-23T02:47:45.143098+00:00"
     },
     {
       "title": "I was happy with my Pixel camera until I tried the Oppo Find X9 Ultra [Gallery] - 9to5Google",
@@ -100,10 +90,10 @@
       "description": "While there are a ton of different things I care about on my smartphone, the camera is a huge decidi...",
       "url": "http://9to5google.com/2026/04/21/oppo-find-x9-ultra-camera-samples-gallery/",
       "publishedAt": "2026-04-21T17:25:00Z",
-      "processed_at": "2026-04-22T23:48:17.628947+00:00"
+      "processed_at": "2026-04-23T02:47:45.143098+00:00"
     }
   ],
-  "lastUpdated": "2026-04-22T23:48:17.629024+00:00",
+  "lastUpdated": "2026-04-23T02:47:45.143168+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
