@@ -1,36 +1,66 @@
 {
   "status": "success",
-  "totalResults": 10,
+  "totalResults": 9,
   "articles": [
+    {
+      "title": "How To Run Pragmata At 1440p on PlayStation 5 - But Should You? - Digital Foundry",
+      "source": {
+        "name": "Digitalfoundry.net"
+      },
+      "description": "A big improvement over stock 1080p - but frame-rates are impacted....",
+      "url": "https://www.digitalfoundry.net/features/how-to-run-pragmata-at-1440p-on-playstation-5-but-should-you",
+      "publishedAt": "2026-04-22T20:20:00Z",
+      "processed_at": "2026-04-23T21:47:35.489364+00:00"
+    },
+    {
+      "title": "Apple fixes bug that cops used to extract deleted chat messages from iPhones - TechCrunch",
+      "source": {
+        "name": "TechCrunch"
+      },
+      "description": "The iPhone and iPad bug allowed law enforcement using forensic tools to read messages that had long ...",
+      "url": "https://techcrunch.com/2026/04/22/apple-fixes-bug-that-cops-used-to-extract-deleted-chat-messages-from-iphones/",
+      "publishedAt": "2026-04-22T19:13:02Z",
+      "processed_at": "2026-04-23T21:47:35.489364+00:00"
+    },
+    {
+      "title": "Google turns Chrome into an AI co-worker for the workplace - TechCrunch",
+      "source": {
+        "name": "TechCrunch"
+      },
+      "description": "Google brings Gemini-powered \"auto browse\" capabilities to Chrome for enterprise users, letting work...",
+      "url": "https://techcrunch.com/2026/04/22/google-turns-chrome-into-an-ai-coworker-for-the-workplace/",
+      "publishedAt": "2026-04-22T17:30:00Z",
+      "processed_at": "2026-04-23T21:47:35.489364+00:00"
+    },
     {
       "title": "The Super Hero Team-based PVP Shooter - Marvel Rivals",
       "source": {
         "name": "Marvelrivals.com"
       },
-      "description": "",
+      "description": "Play for free Now! Get ready to Ignite the Battle with Marvel Rivals!...",
       "url": "https://www.marvelrivals.com/gameupdate/20260422/41548_1297228.html",
       "publishedAt": "2026-04-22T16:56:22Z",
-      "processed_at": "2026-04-23T20:54:42.825442+00:00"
+      "processed_at": "2026-04-23T21:47:35.489364+00:00"
     },
     {
-      "title": "Lille’s Top Decks - Riftbound | League of Legends Trading Card Game",
+      "title": "Google Meet will take AI notes for in-person meetings too - The Verge",
       "source": {
-        "name": "Leagueoflegends.com"
+        "name": "The Verge"
       },
-      "description": "RQ Lille’s 1800 players display the latest and greatest decks in Riftbound....",
-      "url": "https://riftbound.leagueoflegends.com/en-us/news/organizedplay/lilles-top-decks/",
-      "publishedAt": "2026-04-22T16:00:00Z",
-      "processed_at": "2026-04-23T20:54:42.825442+00:00"
+      "description": "Google’s AI notetaker that uses Gemini to generate meeting transcripts and summaries now supports in...",
+      "url": "https://www.theverge.com/tech/916779/google-meet-ai-notetaker-in-person-meetings",
+      "publishedAt": "2026-04-22T16:38:19Z",
+      "processed_at": "2026-04-23T21:47:35.489364+00:00"
     },
     {
-      "title": "Leaker shares iPhone 18 Pro’s new camera feature, plus future upgrades - 9to5Mac",
+      "title": "Sayonara Wild Hearts, Lorelei and the Laser Eyes Nintendo Switch 2 Editions have just released - Nintendo Everything",
       "source": {
-        "name": "9to5Mac"
+        "name": "Nintendoeverything.com"
       },
-      "description": "Four new camera upgrades are reportedly in development at Apple, at least one of which is coming wit...",
-      "url": "https://9to5mac.com/2026/04/22/leaker-shares-iphone-18-pros-new-camera-feature-plus-future-upgrades/",
-      "publishedAt": "2026-04-22T15:04:00Z",
-      "processed_at": "2026-04-23T20:54:42.825442+00:00"
+      "description": "Two more Nintendo Switch 2 Editions have just dropped with Annapurna releasing new versions of Sayon...",
+      "url": "https://nintendoeverything.com/sayonara-wild-hearts-lorelei-and-the-laser-eyes-nintendo-switch-2-editions-have-just-released/",
+      "publishedAt": "2026-04-22T15:18:25Z",
+      "processed_at": "2026-04-23T21:47:35.489364+00:00"
     },
     {
       "title": "Leaker: Apple to Downgrade iPhone 18 in Two Ways - MacRumors",
@@ -40,7 +70,7 @@
       "description": "Following the emergence of a rumor that Apple is planning to downgrade the iPhone 18 to cut costs, f...",
       "url": "https://www.macrumors.com/2026/04/22/leaker-apple-downgrade-iphone-18-two-ways/",
       "publishedAt": "2026-04-22T15:02:54Z",
-      "processed_at": "2026-04-23T20:54:42.825442+00:00"
+      "processed_at": "2026-04-23T21:47:35.489364+00:00"
     },
     {
       "title": "A Powerful New ‘QR Code’ Untangles Math’s Knottiest Knots - Quanta Magazine",
@@ -50,7 +80,7 @@
       "description": "With a newly discovered mathematical tool, researchers are hoping to gain unprecedented insight into...",
       "url": "https://www.quantamagazine.org/a-powerful-new-qr-code-untangles-maths-knottiest-knots-20260422/",
       "publishedAt": "2026-04-22T14:50:53Z",
-      "processed_at": "2026-04-23T20:54:42.825442+00:00"
+      "processed_at": "2026-04-23T21:47:35.489364+00:00"
     },
     {
       "title": "More Bungie Devs Are Working On ‘Marathon’ Than ‘Destiny 2’ Now - Forbes",
@@ -60,50 +90,10 @@
       "description": "Destiny 2 used to be the priority at Bungie, last we heard, but now that's changed in the wake of Ma...",
       "url": "https://www.forbes.com/sites/paultassi/2026/04/22/more-bungie-devs-are-working-on-marathon-than-destiny-2-now/",
       "publishedAt": "2026-04-22T14:50:43Z",
-      "processed_at": "2026-04-23T20:54:42.825442+00:00"
-    },
-    {
-      "title": "Ecco The Dolphin: Complete Announced, Includes Remasters & A Brand New Game - Nintendo Life",
-      "source": {
-        "name": "Nintendo Life"
-      },
-      "description": "Making a splash...",
-      "url": "https://www.nintendolife.com/news/2026/04/ecco-the-dolphin-complete-announced-includes-remasters-and-a-brand-new-game",
-      "publishedAt": "2026-04-22T14:45:00Z",
-      "processed_at": "2026-04-23T20:54:42.825442+00:00"
-    },
-    {
-      "title": "The Expanse: Osiris Reborn closed beta now available - Gematsu",
-      "source": {
-        "name": "Gematsu"
-      },
-      "description": "The closed beta test for third-person action RPG The Expanse: Osiris Reborn is now available for Pla...",
-      "url": "https://www.gematsu.com/2026/04/the-expanse-osiris-reborn-closed-beta-now-available",
-      "publishedAt": "2026-04-22T14:27:50Z",
-      "processed_at": "2026-04-23T20:54:42.825442+00:00"
-    },
-    {
-      "title": "8 Cool New Audio Gadgets To Upgrade Your Music Setup - bgr.com",
-      "source": {
-        "name": "BGR"
-      },
-      "description": "From sleek DACs to clever wireless add-ons, these audio gadgets bring sharper detail and richer soun...",
-      "url": "https://www.bgr.com/2150344/cool-new-audio-gadgets-upgrade-music-setup/",
-      "publishedAt": "2026-04-22T14:02:00Z",
-      "processed_at": "2026-04-23T20:54:42.825442+00:00"
-    },
-    {
-      "title": "Shigeru Miyamoto wants Peach's backstory in The Super Mario Galaxy Movie to remain canon in future Nintendo games - Eurogamer.net",
-      "source": {
-        "name": "Eurogamer.net"
-      },
-      "description": "",
-      "url": "https://www.eurogamer.net/nintendo-miyamoto-peach-backstory-super-mario-galaxy-movie-canon",
-      "publishedAt": "2026-04-22T14:00:14Z",
-      "processed_at": "2026-04-23T20:54:42.825442+00:00"
+      "processed_at": "2026-04-23T21:47:35.489364+00:00"
     }
   ],
-  "lastUpdated": "2026-04-23T20:54:42.825512+00:00",
+  "lastUpdated": "2026-04-23T21:47:35.489459+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
