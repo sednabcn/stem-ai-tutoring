@@ -3,6 +3,26 @@
   "totalResults": 9,
   "articles": [
     {
+      "title": "Google updates Workspace to make AI your new office intern - TechCrunch",
+      "source": {
+        "name": "TechCrunch"
+      },
+      "description": "Google has introduced a host of new automated functions into Workspace, all of which are driven by W...",
+      "url": "https://techcrunch.com/2026/04/22/google-updates-workspace-to-make-ai-your-new-office-intern/",
+      "publishedAt": "2026-04-22T22:44:26Z",
+      "processed_at": "2026-04-24T02:48:35.619537+00:00"
+    },
+    {
+      "title": "Sam Altman’s Orb Company Promoted a Bruno Mars Partnership That Doesn't Exist - WIRED",
+      "source": {
+        "name": "Wired"
+      },
+      "description": "“To be clear, we were never approached … nor were we in any discussions regarding a partnership or t...",
+      "url": "https://www.wired.com/story/sam-altman-orb-company-bruno-mars-partnership-fake/",
+      "publishedAt": "2026-04-22T22:11:00Z",
+      "processed_at": "2026-04-24T02:48:35.619537+00:00"
+    },
+    {
       "title": "How To Run Pragmata At 1440p on PlayStation 5 - But Should You? - Digital Foundry",
       "source": {
         "name": "Digitalfoundry.net"
@@ -10,7 +30,17 @@
       "description": "A big improvement over stock 1080p - but frame-rates are impacted....",
       "url": "https://www.digitalfoundry.net/features/how-to-run-pragmata-at-1440p-on-playstation-5-but-should-you",
       "publishedAt": "2026-04-22T20:20:00Z",
-      "processed_at": "2026-04-23T23:49:18.975165+00:00"
+      "processed_at": "2026-04-24T02:48:35.619537+00:00"
+    },
+    {
+      "title": "Microsoft issues emergency update for macOS and Linux ASP.NET threat - Ars Technica",
+      "source": {
+        "name": "Ars Technica"
+      },
+      "description": "When authentication fails, things can go very, very wrong....",
+      "url": "https://arstechnica.com/security/2026/04/microsoft-issues-emergency-update-for-macos-and-linux-asp-net-threat/",
+      "publishedAt": "2026-04-22T19:32:56Z",
+      "processed_at": "2026-04-24T02:48:35.619537+00:00"
     },
     {
       "title": "Apple fixes bug that cops used to extract deleted chat messages from iPhones - TechCrunch",
@@ -20,47 +50,37 @@
       "description": "The iPhone and iPad bug allowed law enforcement using forensic tools to read messages that had long ...",
       "url": "https://techcrunch.com/2026/04/22/apple-fixes-bug-that-cops-used-to-extract-deleted-chat-messages-from-iphones/",
       "publishedAt": "2026-04-22T19:13:02Z",
-      "processed_at": "2026-04-23T23:49:18.975165+00:00"
+      "processed_at": "2026-04-24T02:48:35.619537+00:00"
     },
     {
-      "title": "Google turns Chrome into an AI co-worker for the workplace - TechCrunch",
+      "title": "Google Confirms Gemini-Powered Siri Coming Later This Year - MacRumors",
       "source": {
-        "name": "TechCrunch"
+        "name": "MacRumors"
       },
-      "description": "Google brings Gemini-powered \"auto browse\" capabilities to Chrome for enterprise users, letting work...",
-      "url": "https://techcrunch.com/2026/04/22/google-turns-chrome-into-an-ai-coworker-for-the-workplace/",
-      "publishedAt": "2026-04-22T17:30:00Z",
-      "processed_at": "2026-04-23T23:49:18.975165+00:00"
+      "description": "Google today commented on its partnership with Apple, confirming that Gemini will power a new, more ...",
+      "url": "https://www.macrumors.com/2026/04/22/google-gemini-powered-siri-2026/",
+      "publishedAt": "2026-04-22T18:08:04Z",
+      "processed_at": "2026-04-24T02:48:35.619537+00:00"
     },
     {
-      "title": "The Super Hero Team-based PVP Shooter - Marvel Rivals",
+      "title": "Amazon upgrades to Gigabit with its new Fire TV Ethernet adapter, but there’s a catch - AFTVnews",
       "source": {
-        "name": "Marvelrivals.com"
+        "name": "Aftvnews.com"
       },
-      "description": "Play for free Now! Get ready to Ignite the Battle with Marvel Rivals!...",
-      "url": "https://www.marvelrivals.com/gameupdate/20260422/41548_1297228.html",
-      "publishedAt": "2026-04-22T16:56:22Z",
-      "processed_at": "2026-04-23T23:49:18.975165+00:00"
+      "description": "Despite its many Vega OS flaws, one of the new Fire TV Stick HD's few redeeming qualities is that it...",
+      "url": "https://www.aftvnews.com/amazon-upgrades-to-gigabit-with-its-new-fire-tv-ethernet-adapter-but-theres-a-catch/",
+      "publishedAt": "2026-04-22T16:51:17Z",
+      "processed_at": "2026-04-24T02:48:35.619537+00:00"
     },
     {
-      "title": "Google Meet will take AI notes for in-person meetings too - The Verge",
+      "title": "Leaker shares iPhone 18 Pro’s new camera feature, plus future upgrades - 9to5Mac",
       "source": {
-        "name": "The Verge"
+        "name": "9to5Mac"
       },
-      "description": "Google’s AI notetaker that uses Gemini to generate meeting transcripts and summaries now supports in...",
-      "url": "https://www.theverge.com/tech/916779/google-meet-ai-notetaker-in-person-meetings",
-      "publishedAt": "2026-04-22T16:38:19Z",
-      "processed_at": "2026-04-23T23:49:18.975165+00:00"
-    },
-    {
-      "title": "Sayonara Wild Hearts, Lorelei and the Laser Eyes Nintendo Switch 2 Editions have just released - Nintendo Everything",
-      "source": {
-        "name": "Nintendoeverything.com"
-      },
-      "description": "Two more Nintendo Switch 2 Editions have just dropped with Annapurna releasing new versions of Sayon...",
-      "url": "https://nintendoeverything.com/sayonara-wild-hearts-lorelei-and-the-laser-eyes-nintendo-switch-2-editions-have-just-released/",
-      "publishedAt": "2026-04-22T15:18:25Z",
-      "processed_at": "2026-04-23T23:49:18.975165+00:00"
+      "description": "Four new camera upgrades are reportedly in development at Apple, at least one of which is coming wit...",
+      "url": "https://9to5mac.com/2026/04/22/leaker-shares-iphone-18-pros-new-camera-feature-plus-future-upgrades/",
+      "publishedAt": "2026-04-22T15:04:00Z",
+      "processed_at": "2026-04-24T02:48:35.619537+00:00"
     },
     {
       "title": "Leaker: Apple to Downgrade iPhone 18 in Two Ways - MacRumors",
@@ -70,30 +90,10 @@
       "description": "Following the emergence of a rumor that Apple is planning to downgrade the iPhone 18 to cut costs, f...",
       "url": "https://www.macrumors.com/2026/04/22/leaker-apple-downgrade-iphone-18-two-ways/",
       "publishedAt": "2026-04-22T15:02:54Z",
-      "processed_at": "2026-04-23T23:49:18.975165+00:00"
-    },
-    {
-      "title": "A Powerful New ‘QR Code’ Untangles Math’s Knottiest Knots - Quanta Magazine",
-      "source": {
-        "name": "Quanta Magazine"
-      },
-      "description": "With a newly discovered mathematical tool, researchers are hoping to gain unprecedented insight into...",
-      "url": "https://www.quantamagazine.org/a-powerful-new-qr-code-untangles-maths-knottiest-knots-20260422/",
-      "publishedAt": "2026-04-22T14:50:53Z",
-      "processed_at": "2026-04-23T23:49:18.975165+00:00"
-    },
-    {
-      "title": "More Bungie Devs Are Working On ‘Marathon’ Than ‘Destiny 2’ Now - Forbes",
-      "source": {
-        "name": "Forbes"
-      },
-      "description": "Destiny 2 used to be the priority at Bungie, last we heard, but now that's changed in the wake of Ma...",
-      "url": "https://www.forbes.com/sites/paultassi/2026/04/22/more-bungie-devs-are-working-on-marathon-than-destiny-2-now/",
-      "publishedAt": "2026-04-22T14:50:43Z",
-      "processed_at": "2026-04-23T23:49:18.975165+00:00"
+      "processed_at": "2026-04-24T02:48:35.619537+00:00"
     }
   ],
-  "lastUpdated": "2026-04-23T23:49:18.975238+00:00",
+  "lastUpdated": "2026-04-24T02:48:35.619607+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
