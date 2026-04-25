@@ -1,7 +1,17 @@
 {
   "status": "success",
-  "totalResults": 10,
+  "totalResults": 9,
   "articles": [
+    {
+      "title": "Review: Saros on PS5/Pro: Beautiful Visuals, Polished And Approachable - Digital Foundry",
+      "source": {
+        "name": "Digitalfoundry.net"
+      },
+      "description": "An Unreal Engine 5 game that looks nothing like it....",
+      "url": "https://www.digitalfoundry.net/reviews/saros-on-ps5pro-beautiful-visuals-polished-and-approachable",
+      "publishedAt": "2026-04-24T07:26:48Z",
+      "processed_at": "2026-04-25T07:20:16.136301+00:00"
+    },
     {
       "title": "Leak reveals new Xbox Game Pass “Starter Edition” that’s part of Discord Nitro - The Verge",
       "source": {
@@ -10,17 +20,7 @@
       "description": "Microsoft is getting ready to bundle Xbox Game Pass with Discord Nitro. A more limited “Starter Edit...",
       "url": "https://www.theverge.com/news/917880/xbox-game-pass-starter-edition-discord-nitro-bundle",
       "publishedAt": "2026-04-23T22:36:39Z",
-      "processed_at": "2026-04-25T05:13:08.418520+00:00"
-    },
-    {
-      "title": "Diablo 4: Lord of Hatred will release earlier than expected in the US, and teams up with Overwatch for some of the coolest skins I've ever seen - Windows Central",
-      "source": {
-        "name": "Windows Central"
-      },
-      "description": "The Diablo 4 developer chat just dropped a bunch of new info, Overwatch Skins, Twitch Drops, and a b...",
-      "url": "https://www.windowscentral.com/gaming/diablo-4-lord-of-hatred-will-release-earlier-than-expected-in-the-us-and-teams-up-with-overwatch-for-some-of-the-coolest-skins-ive-ever-seen",
-      "publishedAt": "2026-04-23T20:36:20Z",
-      "processed_at": "2026-04-25T05:13:08.418520+00:00"
+      "processed_at": "2026-04-25T07:20:16.136301+00:00"
     },
     {
       "title": "iOS 26.4.2: Apple Fixes iPhone Flaw Used By FBI To Read Deleted Messages - Forbes",
@@ -30,7 +30,27 @@
       "description": "Apple has released a new iPhone update — that has taken many by surprise — to address a vulnerabilit...",
       "url": "https://www.forbes.com/sites/davidphelan/2026/04/23/ios-2642-apple-issues-unexpected-iphone-update-to-block-fbi-data-extraction-method/",
       "publishedAt": "2026-04-23T20:28:00Z",
-      "processed_at": "2026-04-25T05:13:08.418520+00:00"
+      "processed_at": "2026-04-25T07:20:16.136301+00:00"
+    },
+    {
+      "title": "Overwatch Is Making Good On A Decade-Old Promise - Kotaku",
+      "source": {
+        "name": "Kotaku"
+      },
+      "description": "The hero shooter’s reboot is getting one thing right...",
+      "url": "https://kotaku.com/overwatch-season-2-sierra-cassidy-ashe-audio-comic-2000690198",
+      "publishedAt": "2026-04-23T19:50:47Z",
+      "processed_at": "2026-04-25T07:20:16.136301+00:00"
+    },
+    {
+      "title": "Meet Noscroll, an AI bot that does your doomscrolling for you - TechCrunch",
+      "source": {
+        "name": "TechCrunch"
+      },
+      "description": "Noscroll wants to cure doomscrolling with an AI bot that reads the internet for you....",
+      "url": "https://techcrunch.com/2026/04/23/meet-noscroll-an-ai-bot-that-does-your-doomscrolling-for-you/",
+      "publishedAt": "2026-04-23T19:38:25Z",
+      "processed_at": "2026-04-25T07:20:16.136301+00:00"
     },
     {
       "title": "YouTube TV starts rolling out Multiview upgrade that supports any channel - 9to5Google",
@@ -40,7 +60,7 @@
       "description": "Multiview is one of the best features to launch on YouTube TV for some time, but it’s always been re...",
       "url": "http://9to5google.com/2026/04/23/youtube-tv-starts-rolling-out-multiview-upgrade-that-supports-any-channel/",
       "publishedAt": "2026-04-23T19:30:00Z",
-      "processed_at": "2026-04-25T05:13:08.418520+00:00"
+      "processed_at": "2026-04-25T07:20:16.136301+00:00"
     },
     {
       "title": "Here's What's Coming in the 2026 Apple TV - MacRumors",
@@ -50,7 +70,17 @@
       "description": "There are a lot of folks waiting for a new version of the Apple TV because the set-top box hasn't be...",
       "url": "https://www.macrumors.com/2026/04/23/apple-tv-4k-2026-rumors/",
       "publishedAt": "2026-04-23T19:08:00Z",
-      "processed_at": "2026-04-25T05:13:08.418520+00:00"
+      "processed_at": "2026-04-25T07:20:16.136301+00:00"
+    },
+    {
+      "title": "Prepare for the Reckoning: Lord of Hatred Draws Near — Diablo IV - Blizzard News",
+      "source": {
+        "name": "Blizzard.com"
+      },
+      "description": "Prepare for the ultimate reckoning against Mephisto. Lord of Hatred burns into Sanctuary next week....",
+      "url": "https://news.blizzard.com/en-gb/article/24267729/prepare-for-the-reckoning-lord-of-hatred-draws-near",
+      "publishedAt": "2026-04-23T19:03:43Z",
+      "processed_at": "2026-04-25T07:20:16.136301+00:00"
     },
     {
       "title": "Microsoft’s new Xbox chief is ‘reevaluating’ exclusive games - The Verge",
@@ -60,50 +90,10 @@
       "description": "Asha Sharma has a new strategy for her return of Xbox....",
       "url": "https://www.theverge.com/tech/917657/microsoft-xbox-exclusive-games-windowing-comments-asha-sharma",
       "publishedAt": "2026-04-23T18:51:14Z",
-      "processed_at": "2026-04-25T05:13:08.418520+00:00"
-    },
-    {
-      "title": "\"Pulsing Aura\" Set Revealed for \"Pocket\" Featuring Mega Lucario ex! - PokeBeach",
-      "source": {
-        "name": "Pokebeach.com"
-      },
-      "description": "The next Pocket set will be named Pulsing Aura (B3) and will release on April 28th! It will feature ...",
-      "url": "https://www.pokebeach.com/2026/04/pulsing-aura-set-revealed-for-pocket-featuring-mega-lucario",
-      "publishedAt": "2026-04-23T18:06:52Z",
-      "processed_at": "2026-04-25T05:13:08.418520+00:00"
-    },
-    {
-      "title": "ID@Xbox Spring Showcase – Check Out All of the Amazing Games Announced and Revealed - Xbox Wire",
-      "source": {
-        "name": "Xbox.com"
-      },
-      "description": "",
-      "url": "https://news.xbox.com/en-us/2026/04/23/idxbox-spring-showcase-recap/",
-      "publishedAt": "2026-04-23T18:04:15Z",
-      "processed_at": "2026-04-25T05:13:08.418520+00:00"
-    },
-    {
-      "title": "Ikea’s new inflatable chair doesn’t look like an inflatable chair - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "Ikea shared a sneak peek at its new experimental collection that includes an inflatable chair that d...",
-      "url": "https://www.theverge.com/design/917567/ikea-ps-collection-2026-inflatable-easy-chair-experimental-design",
-      "publishedAt": "2026-04-23T17:52:58Z",
-      "processed_at": "2026-04-25T05:13:08.418520+00:00"
-    },
-    {
-      "title": "Solo Leveling: ARISE OVERDRIVE for PS5, Xbox Series launches in Q3 2026 - Gematsu",
-      "source": {
-        "name": "Gematsu"
-      },
-      "description": "The PlayStation 5 and Xbox Series versions of action RPG Solo Leveling: ARISE OVERDRIVE will launch ...",
-      "url": "https://www.gematsu.com/2026/04/solo-leveling-arise-overdrive-for-ps5-xbox-series-launches-in-q3-2026",
-      "publishedAt": "2026-04-23T17:28:45Z",
-      "processed_at": "2026-04-25T05:13:08.418520+00:00"
+      "processed_at": "2026-04-25T07:20:16.136301+00:00"
     }
   ],
-  "lastUpdated": "2026-04-25T05:13:08.418603+00:00",
+  "lastUpdated": "2026-04-25T07:20:16.136379+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
