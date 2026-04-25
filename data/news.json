@@ -1,6 +1,6 @@
 {
   "status": "success",
-  "totalResults": 9,
+  "totalResults": 10,
   "articles": [
     {
       "title": "Final Fantasy XIV Is Coming To Nintendo Switch 2, But There's A Terrible And Expensive Catch - Game Informer",
@@ -9,8 +9,58 @@
       },
       "description": "Not the way I envisioned my Warrior of Light on the go......",
       "url": "https://gameinformer.com/2026/04/24/final-fantasy-xiv-is-coming-to-nintendo-switch-2-but-theres-a-terrible-and-expensive",
-      "publishedAt": "2026-04-24T19:34:25Z",
-      "processed_at": "2026-04-25T22:38:42.633290+00:00"
+      "publishedAt": "2026-04-24T22:11:07Z",
+      "processed_at": "2026-04-25T23:39:34.066067+00:00"
+    },
+    {
+      "title": "Astrobotic’s Detonation Engine Fires 4,000 Pounds of Thrust in Wild Test - Gizmodo",
+      "source": {
+        "name": "Gizmodo.com"
+      },
+      "description": "The cutting-edge propulsion system could be used to power rockets to the Moon and beyond....",
+      "url": "https://gizmodo.com/astrobotics-detonation-engine-fires-4000-pounds-of-thrust-in-wild-new-demonstration-2000750533",
+      "publishedAt": "2026-04-24T20:25:56Z",
+      "processed_at": "2026-04-25T23:39:34.066067+00:00"
+    },
+    {
+      "title": "SQUARE ENIX ANNOUNCES EVERCOLD— LATEST FINAL FANTASY XIV EXPANSION SET FOR JANUARY 2027 - Square Enix press site",
+      "source": {
+        "name": "Square-enix.com"
+      },
+      "description": "EVANGELION Crossover Alliance Raid and Nintendo Switch 2 Version Revealed;\r\nShadowbringers Expansion...",
+      "url": "https://press.na.square-enix.com/SQUARE-ENIX-ANNOUNCES-EVERCOLD-LATEST-FINAL-FANTASY-XIV-EXPANSION-SET-",
+      "publishedAt": "2026-04-24T19:28:33Z",
+      "processed_at": "2026-04-25T23:39:34.066067+00:00"
+    },
+    {
+      "title": "PS5 Live Service Fairgames Reportedly Roasted in Recent Pre-Alpha - Push Square",
+      "source": {
+        "name": "Push Square"
+      },
+      "description": "Not looking good...",
+      "url": "https://www.pushsquare.com/news/2026/04/ps5-live-service-fairgames-reportedly-roasted-in-recent-pre-alpha",
+      "publishedAt": "2026-04-24T19:00:00Z",
+      "processed_at": "2026-04-25T23:39:34.066067+00:00"
+    },
+    {
+      "title": "AMD’s Flagship Ryzen 9 9950X3D2 Outsells Every Intel CPU On Amazon As X3D Chips Dominate Top 10 - Wccftech",
+      "source": {
+        "name": "Wccftech"
+      },
+      "description": "AMD Ryzen 9 9950X3D2 is a top 10 selling CPU on Amazon at $899, outpacing Intel's offerings, but lac...",
+      "url": "https://wccftech.com/amd-ryzen-9-9950xd2-rises-to-top-10-best-selling-cpus-on-amazon-us/",
+      "publishedAt": "2026-04-24T18:36:00Z",
+      "processed_at": "2026-04-25T23:39:34.066067+00:00"
+    },
+    {
+      "title": "Mina the Hollower has gone gold - Nintendo Everything",
+      "source": {
+        "name": "Nintendoeverything.com"
+      },
+      "description": "Mina the Hollower has now gone gold, Yacht Club Games just announced. Typically we don’t post about ...",
+      "url": "https://nintendoeverything.com/mina-the-hollower-has-gone-gold/",
+      "publishedAt": "2026-04-24T18:26:12Z",
+      "processed_at": "2026-04-25T23:39:34.066067+00:00"
     },
     {
       "title": "Alice: Madness Returns Dev Put Dildos On A Snail To Shut EA Up - Kotaku",
@@ -20,7 +70,7 @@
       "description": "Also Resident Evil Requiem is still killing it...",
       "url": "https://kotaku.com/alice-madness-returns-sexy-american-mcgee-ea-snail-2000690452",
       "publishedAt": "2026-04-24T18:00:38Z",
-      "processed_at": "2026-04-25T22:38:42.633290+00:00"
+      "processed_at": "2026-04-25T23:39:34.066067+00:00"
     },
     {
       "title": "Foldable 'iPhone Ultra' Could Be Missing These 5 Key Features Despite $2,000 Price Tag - MacRumors",
@@ -30,70 +80,30 @@
       "description": "Apple's first foldable iPhone, dubbed the \"iPhone Ultra,\" could be missing at least five key feature...",
       "url": "https://www.macrumors.com/2026/04/24/iphone-ultra-could-be-missing-5-features/",
       "publishedAt": "2026-04-24T17:41:52Z",
-      "processed_at": "2026-04-25T22:38:42.633290+00:00"
+      "processed_at": "2026-04-25T23:39:34.066067+00:00"
     },
     {
-      "title": "EXCLUSIVE: FairGames Struggles to ‘Find The Fun’ in Latest Pre-Alpha Playtest - Insider Gaming",
+      "title": "Apple to Launch 'MacBook Ultra' With These Six New Features - MacRumors",
       "source": {
-        "name": "Insider-gaming.com"
+        "name": "MacRumors"
       },
-      "description": "Haven Studios' latest playtest of a pre-alpha version of Fairgames continues to 'find the fun', acco...",
-      "url": "https://insider-gaming.com/fairgames-struggles-to-find-fun/",
-      "publishedAt": "2026-04-24T17:09:23Z",
-      "processed_at": "2026-04-25T22:38:42.633290+00:00"
+      "description": "While the 14-inch and 16-inch MacBook Pro were just updated with M5 Pro and M5 Max chips last month,...",
+      "url": "https://www.macrumors.com/2026/04/24/macbook-ultra-up-to-six-new-features/",
+      "publishedAt": "2026-04-24T17:32:18Z",
+      "processed_at": "2026-04-25T23:39:34.066067+00:00"
     },
     {
-      "title": "Samsung may be bracing for first-ever annual loss in smartphone business - Ars Technica",
+      "title": "Fitbit 4.68 rolling out sleep editing, motivational Coach messages, more personalization - 9to5Google",
       "source": {
-        "name": "Ars Technica"
+        "name": "9to5google.com"
       },
-      "description": "The AI-driven memory shortage is hitting Samsung's bottom line....",
-      "url": "https://arstechnica.com/gadgets/2026/04/samsung-may-be-bracing-for-first-ever-annual-loss-in-smartphone-business/",
-      "publishedAt": "2026-04-24T16:58:45Z",
-      "processed_at": "2026-04-25T22:38:42.633290+00:00"
-    },
-    {
-      "title": "Marked-up Mac minis flood eBay amid shortages driven by AI - TechCrunch",
-      "source": {
-        "name": "TechCrunch"
-      },
-      "description": "Apple’s sold-out Mac mini is spawning marked-up eBay listings as demand surges for the compact deskt...",
-      "url": "https://techcrunch.com/2026/04/24/mac-mini-price-expensive-ebay-shortage-ai-memory/",
-      "publishedAt": "2026-04-24T16:42:19Z",
-      "processed_at": "2026-04-25T22:38:42.633290+00:00"
-    },
-    {
-      "title": "Famously streaming-averse Nintendo has finally added the Super Mario Galaxy 1 + 2 OST to Spotify, but the big picture makes it look like a very weird move - Eurogamer.net",
-      "source": {
-        "name": "Eurogamer.net"
-      },
-      "description": "Nintendo is bringing one of its most celebrated OSTs to Spotify - but only for a limited time....",
-      "url": "https://www.eurogamer.net/super-mario-galaxy-1-2-ost-spotify-weird",
-      "publishedAt": "2026-04-24T15:54:49Z",
-      "processed_at": "2026-04-25T22:38:42.633290+00:00"
-    },
-    {
-      "title": "Atari acquires emulation studio Implicit Conversions - GamesIndustry.biz",
-      "source": {
-        "name": "GamesIndustry.biz"
-      },
-      "description": "Firm has been working with Atari over the past year on Mortal Kombat: Legacy Collection, Rayman, and...",
-      "url": "https://www.gamesindustry.biz/atari-acquires-emulation-studio-implicit-conversions",
-      "publishedAt": "2026-04-24T14:37:05Z",
-      "processed_at": "2026-04-25T22:38:42.633290+00:00"
-    },
-    {
-      "title": "Community painters enter the City of Ash - Warhammer Community",
-      "source": {
-        "name": "Warhammer-community.com"
-      },
-      "description": "The Warhammer hobby community has painted the new Skaven and Cities of Sigmar miniatures....",
-      "url": "https://www.warhammer-community.com/articles/duqtqeo3/community-painters-enter-the-city-of-ash",
-      "publishedAt": "2026-04-24T14:15:06Z",
-      "processed_at": "2026-04-25T22:38:42.633290+00:00"
+      "description": "In addition to the Sleep Score redesign, Fitbit this week is rolling out version 4.68 of the Android...",
+      "url": "http://9to5google.com/2026/04/24/fitbit-4-68/",
+      "publishedAt": "2026-04-24T17:30:00Z",
+      "processed_at": "2026-04-25T23:39:34.066067+00:00"
     }
   ],
-  "lastUpdated": "2026-04-25T22:38:42.633366+00:00",
+  "lastUpdated": "2026-04-25T23:39:34.066147+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
