@@ -1,7 +1,87 @@
 {
   "status": "success",
-  "totalResults": 9,
+  "totalResults": 10,
   "articles": [
+    {
+      "title": "Expedition 33 Gets Free PS5 Content Update as It Turns One Year Old and Surpasses 8 Million Sales - Push Square",
+      "source": {
+        "name": "Push Square"
+      },
+      "description": "Available now...",
+      "url": "https://www.pushsquare.com/news/2026/04/expedition-33-gets-free-ps5-content-update-as-it-turns-one-year-old-and-surpasses-8-million-sales",
+      "publishedAt": "2026-04-24T13:15:00Z",
+      "processed_at": "2026-04-25T13:08:45.701294+00:00"
+    },
+    {
+      "title": "Here’s the next Apple Watch face coming in watchOS 26.5 - 9to5Mac",
+      "source": {
+        "name": "9to5Mac"
+      },
+      "description": "There’s a new Apple Watch face that will be included in the upcoming watchOS 26.5 software update. A...",
+      "url": "https://9to5mac.com/2026/04/24/heres-the-next-apple-watch-face-coming-in-watchos-26-5/",
+      "publishedAt": "2026-04-24T12:40:00Z",
+      "processed_at": "2026-04-25T13:08:45.701294+00:00"
+    },
+    {
+      "title": "Fresh off the news that Xbox is cutting Game Pass pricing, reports emerge of a new \"Starter Edition\" tier that bundles in a Discord sub - Eurogamer.net",
+      "source": {
+        "name": "Eurogamer.net"
+      },
+      "description": "Will Microsoft begin introducing new tiers of Xbox Game Pass? That's the suggestion, and here's evid...",
+      "url": "https://www.eurogamer.net/xbox-game-pass-starter-edition-discord",
+      "publishedAt": "2026-04-24T11:48:41Z",
+      "processed_at": "2026-04-25T13:08:45.701294+00:00"
+    },
+    {
+      "title": "Nintendo releases Super Mario Galaxy 1 and 2 soundtracks on Spotify - Nintendo Everything",
+      "source": {
+        "name": "Nintendoeverything.com"
+      },
+      "description": "Starting today, Super Mario Galaxy and Super Mario Galaxy music can be played on Spotify. Nintendo s...",
+      "url": "https://nintendoeverything.com/nintendo-releases-super-mario-galaxy-1-and-2-soundtracks-on-spotify/",
+      "publishedAt": "2026-04-24T11:36:12Z",
+      "processed_at": "2026-04-25T13:08:45.701294+00:00"
+    },
+    {
+      "title": "20th Anniversary iPhone to Feature Custom 'Micro-Curved' OLED Panel - MacRumors",
+      "source": {
+        "name": "MacRumors"
+      },
+      "description": "For its 20th-anniversary iPhone, Apple is tapping Samsung to produce a custom micro-curved OLED disp...",
+      "url": "https://www.macrumors.com/2026/04/24/20th-anniversary-iphone-micro-curved-oled-panel/",
+      "publishedAt": "2026-04-24T10:34:42Z",
+      "processed_at": "2026-04-25T13:08:45.701294+00:00"
+    },
+    {
+      "title": "Microsoft Gaming reverts to Xbox branding - GamesIndustry.biz",
+      "source": {
+        "name": "GamesIndustry.biz"
+      },
+      "description": "\"Microsoft Gaming describes our structure, but it does not describe our ambition,\" says CEO Asha Sha...",
+      "url": "https://www.gamesindustry.biz/microsoft-gaming-reverts-to-xbox-branding",
+      "publishedAt": "2026-04-24T09:14:30Z",
+      "processed_at": "2026-04-25T13:08:45.701294+00:00"
+    },
+    {
+      "title": "\"We care deeply about this game, and we play it right alongside you\": World of Warcraft team apologizes for the state of the game — as patch 12.0.5 frustration boils over - Windows Central",
+      "source": {
+        "name": "Windows Central"
+      },
+      "description": "World of Warcraft is the most popular subscription based MMORPG in history owing to the absolute mou...",
+      "url": "https://www.windowscentral.com/gaming/pc-gaming/world-of-warcraft-developers-lament-the-state-of-midnight-as-patch-12-0-5-frustration-boils-over",
+      "publishedAt": "2026-04-24T08:27:44Z",
+      "processed_at": "2026-04-25T13:08:45.701294+00:00"
+    },
+    {
+      "title": "\"No Old, Stay Gold\" - It Looks Like Sega Is About To Revive More Of Its Classic Franchises - Time Extension",
+      "source": {
+        "name": "Timeextension.com"
+      },
+      "description": "'Sega Universe' project teases new developments...",
+      "url": "https://www.timeextension.com/news/2026/04/no-old-stay-gold-it-looks-like-sega-is-about-to-revive-more-of-its-classic-franchises",
+      "publishedAt": "2026-04-24T08:00:00Z",
+      "processed_at": "2026-04-25T13:08:45.701294+00:00"
+    },
     {
       "title": "Review: Saros on PS5/Pro: Beautiful Visuals, Polished And Approachable - Digital Foundry",
       "source": {
@@ -10,90 +90,20 @@
       "description": "An Unreal Engine 5 game that looks nothing like it....",
       "url": "https://www.digitalfoundry.net/reviews/saros-on-ps5pro-beautiful-visuals-polished-and-approachable",
       "publishedAt": "2026-04-24T07:26:48Z",
-      "processed_at": "2026-04-25T11:39:37.610092+00:00"
+      "processed_at": "2026-04-25T13:08:45.701294+00:00"
     },
     {
-      "title": "Leak reveals new Xbox Game Pass “Starter Edition” that’s part of Discord Nitro - The Verge",
+      "title": "Search for Treasure During Sableye’s Gem Hunt in Pokémon Pokopia - Pokemon.com",
       "source": {
-        "name": "The Verge"
+        "name": "Pokemon.com"
       },
-      "description": "Microsoft is getting ready to bundle Xbox Game Pass with Discord Nitro. A more limited “Starter Edit...",
-      "url": "https://www.theverge.com/news/917880/xbox-game-pass-starter-edition-discord-nitro-bundle",
-      "publishedAt": "2026-04-23T22:36:39Z",
-      "processed_at": "2026-04-25T11:39:37.610092+00:00"
-    },
-    {
-      "title": "Diablo 4: Lord of Hatred will release earlier than expected in the US, and teams up with Overwatch for some of the coolest skins I've ever seen - Windows Central",
-      "source": {
-        "name": "Windows Central"
-      },
-      "description": "The Diablo 4 developer chat just dropped a bunch of new info, Overwatch Skins, Twitch Drops, and a b...",
-      "url": "https://www.windowscentral.com/gaming/diablo-4-lord-of-hatred-will-release-earlier-than-expected-in-the-us-and-teams-up-with-overwatch-for-some-of-the-coolest-skins-ive-ever-seen",
-      "publishedAt": "2026-04-23T20:36:20Z",
-      "processed_at": "2026-04-25T11:39:37.610092+00:00"
-    },
-    {
-      "title": "iOS 26.4.2: Apple Fixes iPhone Flaw Used By FBI To Read Deleted Messages - Forbes",
-      "source": {
-        "name": "Forbes"
-      },
-      "description": "Apple has released a new iPhone update — that has taken many by surprise — to address a vulnerabilit...",
-      "url": "https://www.forbes.com/sites/davidphelan/2026/04/23/ios-2642-apple-issues-unexpected-iphone-update-to-block-fbi-data-extraction-method/",
-      "publishedAt": "2026-04-23T20:28:00Z",
-      "processed_at": "2026-04-25T11:39:37.610092+00:00"
-    },
-    {
-      "title": "\"Pulsing Aura\" Set Revealed for \"Pocket\" Featuring Mega Lucario ex! - PokeBeach",
-      "source": {
-        "name": "Pokebeach.com"
-      },
-      "description": "The next Pocket set will be named Pulsing Aura (B3) and will release on April 28th! It will feature ...",
-      "url": "https://www.pokebeach.com/2026/04/pulsing-aura-set-revealed-for-pocket-featuring-mega-lucario",
-      "publishedAt": "2026-04-23T20:07:19Z",
-      "processed_at": "2026-04-25T11:39:37.610092+00:00"
-    },
-    {
-      "title": "Apple Invites for iPhone adds 7 new features, including an iMessage app - 9to5Mac",
-      "source": {
-        "name": "9to5Mac"
-      },
-      "description": "Apple Invites has its second new version in as many months, adding seven new features. One key highl...",
-      "url": "https://9to5mac.com/2026/04/23/apple-invites-for-iphone-adds-7-new-features-including-an-imessage-app/",
-      "publishedAt": "2026-04-23T19:55:00Z",
-      "processed_at": "2026-04-25T11:39:37.610092+00:00"
-    },
-    {
-      "title": "Overwatch Is Making Good On A Decade-Old Promise - Kotaku",
-      "source": {
-        "name": "Kotaku"
-      },
-      "description": "The hero shooter’s reboot is getting one thing right...",
-      "url": "https://kotaku.com/overwatch-season-2-sierra-cassidy-ashe-audio-comic-2000690198",
-      "publishedAt": "2026-04-23T19:50:47Z",
-      "processed_at": "2026-04-25T11:39:37.610092+00:00"
-    },
-    {
-      "title": "Meet Noscroll, an AI bot that does your doomscrolling for you - TechCrunch",
-      "source": {
-        "name": "TechCrunch"
-      },
-      "description": "Noscroll wants to cure doomscrolling with an AI bot that reads the internet for you....",
-      "url": "https://techcrunch.com/2026/04/23/meet-noscroll-an-ai-bot-that-does-your-doomscrolling-for-you/",
-      "publishedAt": "2026-04-23T19:38:25Z",
-      "processed_at": "2026-04-25T11:39:37.610092+00:00"
-    },
-    {
-      "title": "Microsoft Gaming Scrapped As Asha Sharma Promotes 'Return Of Xbox' At MS HQ - Pure Xbox",
-      "source": {
-        "name": "Pure Xbox"
-      },
-      "description": "Update: Now official!...",
-      "url": "https://www.purexbox.com/news/2026/04/microsoft-gaming-scrapped-as-asha-sharma-promotes-return-of-xbox-at-ms-hq",
-      "publishedAt": "2026-04-23T19:32:00Z",
-      "processed_at": "2026-04-25T11:39:37.610092+00:00"
+      "description": "Befriend Sableye and exchange red crystal fragments for unique items during this event....",
+      "url": "https://www.pokemon.com/us/pokemon-news/search-for-treasure-during-sableyes-gem-hunt-in-pokemon-pokopia",
+      "publishedAt": "2026-04-24T05:05:25Z",
+      "processed_at": "2026-04-25T13:08:45.701294+00:00"
     }
   ],
-  "lastUpdated": "2026-04-25T11:39:37.610167+00:00",
+  "lastUpdated": "2026-04-25T13:08:45.701378+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
