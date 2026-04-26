@@ -3,14 +3,34 @@
   "totalResults": 10,
   "articles": [
     {
-      "title": "FuRyu announces roguelike action game CRYMELIGHT for PS5, Switch 2, and PC - Gematsu",
+      "title": "Trials season 4: What’s on the horizon - ARC Raiders",
       "source": {
-        "name": "Gematsu"
+        "name": "Arcraiders.com"
       },
-      "description": "FuRyu has announced roguelike action game CRYMELIGHT, the next entry in its “dark bishoujou action” ...",
-      "url": "https://www.gematsu.com/2026/04/furyu-announces-roguelike-action-game-crymelight-for-ps5-switch-2-and-pc",
-      "publishedAt": "2026-04-25T11:33:42Z",
-      "processed_at": "2026-04-26T16:46:54.603189+00:00"
+      "description": "ARC Raiders is a multiplayer extraction adventure, set in a lethal future earth, ravaged by a myster...",
+      "url": "https://arcraiders.com/news/quick-guide-to-trials-season-4",
+      "publishedAt": "2026-04-25T15:58:44Z",
+      "processed_at": "2026-04-26T17:40:00.254760+00:00"
+    },
+    {
+      "title": "A Surprise DRM Issue For Digital PlayStation Games Has Fans Worried - Kotaku",
+      "source": {
+        "name": "Kotaku"
+      },
+      "description": "Some players claim a new DRM system for digital PlayStation purchases is locking them out of games a...",
+      "url": "https://kotaku.com/a-surprise-drm-issue-for-digital-playstation-games-has-fans-worried-2000690624",
+      "publishedAt": "2026-04-25T15:07:37Z",
+      "processed_at": "2026-04-26T17:40:00.254760+00:00"
+    },
+    {
+      "title": "Xbox’s weirdest studio is on a roll - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "With the release of the multiplayer brawler Kiln, Xbox studio Double Fine is showing that it still h...",
+      "url": "https://www.theverge.com/games/918200/kiln-review-double-fine-xbox-ps5-steam",
+      "publishedAt": "2026-04-25T13:00:00Z",
+      "processed_at": "2026-04-26T17:40:00.254760+00:00"
     },
     {
       "title": "Disco Elysium dev's highly-anticipated follow-up, Zero Parades: For Dead Spies, has things to say about our nostalgia - Eurogamer.net",
@@ -20,7 +40,7 @@
       "description": "Our impressions from the first few hours of the Zero Parades: For Dead Spies demo, available now on ...",
       "url": "https://www.eurogamer.net/disco-elysium-zaum-follow-up-zero-parades-for-dead-spies-nostalgia-preview",
       "publishedAt": "2026-04-25T10:52:59Z",
-      "processed_at": "2026-04-26T16:46:54.603189+00:00"
+      "processed_at": "2026-04-26T17:40:00.254760+00:00"
     },
     {
       "title": "‘Shutdown, Restart’—Microsoft Changes Windows On 1 Billion PCs - Forbes",
@@ -30,7 +50,7 @@
       "description": "Microsoft confirms 'major' change affecting almost all Windows PC owners....",
       "url": "https://www.forbes.com/sites/zakdoffman/2026/04/25/shutdown-restart-microsoft-changes-windows-on-1-billion-pcs/",
       "publishedAt": "2026-04-25T09:59:42Z",
-      "processed_at": "2026-04-26T16:46:54.603189+00:00"
+      "processed_at": "2026-04-26T17:40:00.254760+00:00"
     },
     {
       "title": "'Sega Universe' Initiative Announced, Celebrating Multiple Classics With Anniversary Projects - Nintendo Life",
@@ -40,7 +60,7 @@
       "description": "Reviving IP such as OutRun, NiGHTS, Sakura Wars and more...",
       "url": "https://www.nintendolife.com/news/2026/04/sega-universe-initiative-announced-celebrating-multiple-classics-with-anniversary-projects",
       "publishedAt": "2026-04-25T08:00:00Z",
-      "processed_at": "2026-04-26T16:46:54.603189+00:00"
+      "processed_at": "2026-04-26T17:40:00.254760+00:00"
     },
     {
       "title": "Qualcomm’s 16-year Snapdragon recap ends with a Galaxy S27 hint - Sammy Fans",
@@ -50,7 +70,7 @@
       "description": "Qualcomm posted a video on X recapping every Samsung flagship that ran on Snapdragon, which ends up ...",
       "url": "https://www.sammyfans.com/2026/04/24/qualcomm-galaxy-s27-snapdragon-chip-tease/",
       "publishedAt": "2026-04-25T06:34:31Z",
-      "processed_at": "2026-04-26T16:46:54.603189+00:00"
+      "processed_at": "2026-04-26T17:40:00.254760+00:00"
     },
     {
       "title": "New iPhone Ultra schematics leak, showing prior reports didn’t do it justice - PhoneArena",
@@ -60,7 +80,17 @@
       "description": "The iPhone Ultra is apparently even sleeker than previous leaks had claimed....",
       "url": "https://www.phonearena.com/news/new-iphone-ultra-schematics-leak-prior-reports-didnt-do-it-justice_id179925",
       "publishedAt": "2026-04-25T02:56:21Z",
-      "processed_at": "2026-04-26T16:46:54.603189+00:00"
+      "processed_at": "2026-04-26T17:40:00.254760+00:00"
+    },
+    {
+      "title": "Xbox Game Pass Users Are Scared How \"Insanely Addictive\" New Day One Game Is - comicbook.com",
+      "source": {
+        "name": "ComicBook.com"
+      },
+      "description": "A new Xbox Game Pass day one game available via Ultimate and PC tiers is being described as \"insanel...",
+      "url": "http://comicbook.com/gaming/news/xbox-game-pass-ultimate-pc-day-one-game-addictive/",
+      "publishedAt": "2026-04-25T01:17:02Z",
+      "processed_at": "2026-04-26T17:40:00.254760+00:00"
     },
     {
       "title": "Astrobotic’s Detonation Engine Fires 4,000 Pounds of Thrust in Wild Test - Gizmodo",
@@ -70,40 +100,10 @@
       "description": "The cutting-edge propulsion system could be used to power rockets to the Moon and beyond....",
       "url": "https://gizmodo.com/astrobotics-detonation-engine-fires-4000-pounds-of-thrust-in-wild-new-demonstration-2000750533",
       "publishedAt": "2026-04-24T20:25:56Z",
-      "processed_at": "2026-04-26T16:46:54.603189+00:00"
-    },
-    {
-      "title": "Final Fantasy 14 coming to Nintendo Switch 2 - Nintendo Everything",
-      "source": {
-        "name": "Nintendoeverything.com"
-      },
-      "description": "Square Enix is bringing Final Fantasy 14 to Nintendo Switch 2, Square Enix just announced. The game ...",
-      "url": "https://nintendoeverything.com/final-fantasy-14-coming-to-nintendo-switch-2/",
-      "publishedAt": "2026-04-24T19:29:59Z",
-      "processed_at": "2026-04-26T16:46:54.603189+00:00"
-    },
-    {
-      "title": "SQUARE ENIX ANNOUNCES EVERCOLD— LATEST FINAL FANTASY XIV EXPANSION SET FOR JANUARY 2027 - Square Enix press site",
-      "source": {
-        "name": "Square-enix.com"
-      },
-      "description": "EVANGELION Crossover Alliance Raid and Nintendo Switch 2 Version Revealed;\r\nShadowbringers Expansion...",
-      "url": "https://press.na.square-enix.com/SQUARE-ENIX-ANNOUNCES-EVERCOLD-LATEST-FINAL-FANTASY-XIV-EXPANSION-SET-",
-      "publishedAt": "2026-04-24T19:28:33Z",
-      "processed_at": "2026-04-26T16:46:54.603189+00:00"
-    },
-    {
-      "title": "AMD’s Flagship Ryzen 9 9950X3D2 Outsells Every Intel CPU On Amazon As X3D Chips Dominate Top 10 - Wccftech",
-      "source": {
-        "name": "Wccftech"
-      },
-      "description": "AMD Ryzen 9 9950X3D2 is a top 10 selling CPU on Amazon at $899, outpacing Intel's offerings, but lac...",
-      "url": "https://wccftech.com/amd-ryzen-9-9950xd2-rises-to-top-10-best-selling-cpus-on-amazon-us/",
-      "publishedAt": "2026-04-24T18:36:00Z",
-      "processed_at": "2026-04-26T16:46:54.603189+00:00"
+      "processed_at": "2026-04-26T17:40:00.254760+00:00"
     }
   ],
-  "lastUpdated": "2026-04-26T16:46:54.603265+00:00",
+  "lastUpdated": "2026-04-26T17:40:00.254840+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
