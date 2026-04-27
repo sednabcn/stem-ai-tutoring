@@ -3,6 +3,16 @@
   "totalResults": 10,
   "articles": [
     {
+      "title": "I had Claude, ChatGPT, and Gemini each build the same Chrome extension, and only one actually worked - MakeUseOf",
+      "source": {
+        "name": "MakeUseOf"
+      },
+      "description": "Three LLMs, one prompt, and a lot of disappointment....",
+      "url": "https://www.makeuseof.com/had-claude-chatgpt-and-gemini-each-vibe-code-the-same-chrome-extension/",
+      "publishedAt": "2026-04-26T19:00:17Z",
+      "processed_at": "2026-04-27T23:55:26.110933+00:00"
+    },
+    {
       "title": "Google’s new gradient icon design is coming to more apps - The Verge",
       "source": {
         "name": "The Verge"
@@ -10,7 +20,17 @@
       "description": "The looks are softer and more varied....",
       "url": "https://www.theverge.com/tech/918852/googles-new-gradient-icon-design-is-coming-to-more-apps",
       "publishedAt": "2026-04-26T18:34:26Z",
-      "processed_at": "2026-04-27T22:54:24.204532+00:00"
+      "processed_at": "2026-04-27T23:55:26.110933+00:00"
+    },
+    {
+      "title": "New Legend of Zelda Game Reportedly Leaked Ahead of Reveal - comicbook.com",
+      "source": {
+        "name": "ComicBook.com"
+      },
+      "description": "A new Legend of Zelda game, a 2D game, specifically, for the Nintendo Switch 2 has reportedly leaked...",
+      "url": "http://comicbook.com/gaming/news/the-legend-of-zelda-new-2d-game-nintendo-switch-2-release-2027/",
+      "publishedAt": "2026-04-26T18:00:56Z",
+      "processed_at": "2026-04-27T23:55:26.110933+00:00"
     },
     {
       "title": "Walmart’s new Google TV streamers are now available for some as wide launch nears - 9to5Google",
@@ -20,7 +40,7 @@
       "description": "After weeks of leaks from retail stores, Walmart’s new Onn 4K Pro and Onn 4K streaming stick with Go...",
       "url": "http://9to5google.com/2026/04/26/walmart-google-tv-official-launch-nears-2026/",
       "publishedAt": "2026-04-26T18:00:00Z",
-      "processed_at": "2026-04-27T22:54:24.204532+00:00"
+      "processed_at": "2026-04-27T23:55:26.110933+00:00"
     },
     {
       "title": "The new iPhones have a problem turning back on after the battery runs out - 9to5Mac",
@@ -30,7 +50,7 @@
       "description": "Last night, my iPhone Air battery went to zero about 11 PM. I plugged in the USB-C charging cable wi...",
       "url": "https://9to5mac.com/2026/04/26/iphone-turned-off-dead-how-to-turn-back-on/",
       "publishedAt": "2026-04-26T17:04:00Z",
-      "processed_at": "2026-04-27T22:54:24.204532+00:00"
+      "processed_at": "2026-04-27T23:55:26.110933+00:00"
     },
     {
       "title": "I finally stopped fighting with spotty hotel Wi-Fi thanks to this Netflix USB hack - Android Police",
@@ -40,7 +60,7 @@
       "description": "No more fighting slow hotel internet...",
       "url": "https://www.androidpolice.com/i-stopped-fighting-spotty-wifi-thanks-android-ethernet/",
       "publishedAt": "2026-04-26T17:00:10Z",
-      "processed_at": "2026-04-27T22:54:24.204532+00:00"
+      "processed_at": "2026-04-27T23:55:26.110933+00:00"
     },
     {
       "title": "CachyOS Introduces New Default GUI Package Manager, Kyber For NVMe I/O Scheduler - Phoronix",
@@ -50,7 +70,7 @@
       "description": "The April 2026 ISO refresh of the Arch Linux based CachyOS is now available with a variety of refine...",
       "url": "https://www.phoronix.com/news/CachyOS-April-2026",
       "publishedAt": "2026-04-26T16:50:00Z",
-      "processed_at": "2026-04-27T22:54:24.204532+00:00"
+      "processed_at": "2026-04-27T23:55:26.110933+00:00"
     },
     {
       "title": "Universal patterns emerge across 22 languages, mapping how vocabularies evolve - Phys.org",
@@ -60,7 +80,7 @@
       "description": "Human languages are known to have grown and changed considerably over the course of history, often r...",
       "url": "https://phys.org/news/2026-04-universal-patterns-emerge-languages-vocabularies.html",
       "publishedAt": "2026-04-26T16:40:01Z",
-      "processed_at": "2026-04-27T22:54:24.204532+00:00"
+      "processed_at": "2026-04-27T23:55:26.110933+00:00"
     },
     {
       "title": "The First Look at ‘Alien: Isolation 2’ Calls You Back for More - Gizmodo",
@@ -70,7 +90,7 @@
       "description": "You'll probably be scared to death in 'Alien: Isolation 2,' but at least there'll be payphones for y...",
       "url": "https://gizmodo.com/the-first-look-at-alien-isolation-2-calls-you-back-for-more-2000750960",
       "publishedAt": "2026-04-26T16:30:12Z",
-      "processed_at": "2026-04-27T22:54:24.204532+00:00"
+      "processed_at": "2026-04-27T23:55:26.110933+00:00"
     },
     {
       "title": "Google Pixel ruined voice typing on every other phone for me, but the fix is in sight - 9to5Google",
@@ -80,30 +100,10 @@
       "description": "Every time I use a Google Pixel phone, voice-to-text on every other Android phone is ruined for me, ...",
       "url": "http://9to5google.com/2026/04/26/google-pixel-voice-to-text-android-app/",
       "publishedAt": "2026-04-26T16:00:00Z",
-      "processed_at": "2026-04-27T22:54:24.204532+00:00"
-    },
-    {
-      "title": "EA Sports UFC 6 Planned For June Release - Insider Gaming",
-      "source": {
-        "name": "Insider-gaming.com"
-      },
-      "description": "To paraphrase Bruce Buffer, it's almost time to step back into the virtual octagon for the next EA S...",
-      "url": "https://insider-gaming.com/ea-sports-ufc-6-planned-for-june-release/",
-      "publishedAt": "2026-04-26T15:52:46Z",
-      "processed_at": "2026-04-27T22:54:24.204532+00:00"
-    },
-    {
-      "title": "Final Fantasy 14 Localizer Draws Criticism For AI Art At Fan Fest - Kotaku",
-      "source": {
-        "name": "Kotaku"
-      },
-      "description": "The long-serving Square Enix localizer and lyricist revealed that the Final Fantasy maker's CEO \"has...",
-      "url": "https://kotaku.com/ff14-fanfest-panel-koji-fox-ai-art-square-enix-2000690711",
-      "publishedAt": "2026-04-26T15:23:20Z",
-      "processed_at": "2026-04-27T22:54:24.204532+00:00"
+      "processed_at": "2026-04-27T23:55:26.110933+00:00"
     }
   ],
-  "lastUpdated": "2026-04-27T22:54:24.204611+00:00",
+  "lastUpdated": "2026-04-27T23:55:26.111006+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
