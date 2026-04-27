@@ -3,6 +3,36 @@
   "totalResults": 10,
   "articles": [
     {
+      "title": "CachyOS Introduces New Default GUI Package Manager, Kyber For NVMe I/O Scheduler - Phoronix",
+      "source": {
+        "name": "Phoronix"
+      },
+      "description": "The April 2026 ISO refresh of the Arch Linux based CachyOS is now available with a variety of refine...",
+      "url": "https://www.phoronix.com/news/CachyOS-April-2026",
+      "publishedAt": "2026-04-26T16:50:00Z",
+      "processed_at": "2026-04-27T17:23:54.754916+00:00"
+    },
+    {
+      "title": "The First Look at ‘Alien: Isolation 2’ Calls You Back for More - Gizmodo",
+      "source": {
+        "name": "Gizmodo.com"
+      },
+      "description": "You'll probably be scared to death in 'Alien: Isolation 2,' but at least there'll be payphones for y...",
+      "url": "https://gizmodo.com/the-first-look-at-alien-isolation-2-calls-you-back-for-more-2000750960",
+      "publishedAt": "2026-04-26T16:30:12Z",
+      "processed_at": "2026-04-27T17:23:54.754916+00:00"
+    },
+    {
+      "title": "Google Pixel ruined voice typing on every other phone for me, but the fix is in sight - 9to5Google",
+      "source": {
+        "name": "9to5google.com"
+      },
+      "description": "Every time I use a Google Pixel phone, voice-to-text on every other Android phone is ruined for me, ...",
+      "url": "http://9to5google.com/2026/04/26/google-pixel-voice-to-text-android-app/",
+      "publishedAt": "2026-04-26T16:00:00Z",
+      "processed_at": "2026-04-27T17:23:54.754916+00:00"
+    },
+    {
       "title": "Final Fantasy 14 Localizer Draws Criticism For AI Art At Fan Fest - Kotaku",
       "source": {
         "name": "Kotaku"
@@ -10,7 +40,17 @@
       "description": "The long-serving Square Enix localizer and lyricist revealed that the Final Fantasy maker's CEO \"has...",
       "url": "https://kotaku.com/ff14-fanfest-panel-koji-fox-ai-art-square-enix-2000690711",
       "publishedAt": "2026-04-26T15:23:20Z",
-      "processed_at": "2026-04-27T15:53:22.373373+00:00"
+      "processed_at": "2026-04-27T17:23:54.754916+00:00"
+    },
+    {
+      "title": "SpeakOn’s dictation device is a good idea marred by platform limitations - TechCrunch",
+      "source": {
+        "name": "TechCrunch"
+      },
+      "description": "This $129 device uses MagSafe to stick on the back of an iPhone to power transcription across apps...",
+      "url": "https://techcrunch.com/2026/04/26/speakons-dictation-device-is-a-good-idea-marred-by-platform-limitations/",
+      "publishedAt": "2026-04-26T15:00:00Z",
+      "processed_at": "2026-04-27T17:23:54.754916+00:00"
     },
     {
       "title": "NateTheHate has “zero doubt” about the new Star Fox project announcement - My Nintendo News",
@@ -20,17 +60,17 @@
       "description": "NateTheHate has spoken a little more about the Star Fox game which he claims is coming to the Ninten...",
       "url": "https://mynintendonews.com/2026/04/26/natethehate-has-zero-doubt-about-the-new-star-fox-project-announcement/",
       "publishedAt": "2026-04-26T14:46:57Z",
-      "processed_at": "2026-04-27T15:53:22.373373+00:00"
+      "processed_at": "2026-04-27T17:23:54.754916+00:00"
     },
     {
-      "title": "Alien: Isolation 2 Gets Its First Teaser Trailer - Nintendo Life",
+      "title": "Apple’s Cook Gives Ternus a Pipeline of 10 Major New Product Categories - Bloomberg.com",
       "source": {
-        "name": "Nintendo Life"
+        "name": "Bloomberg"
       },
-      "description": "'False Sense of Security'...",
-      "url": "https://www.nintendolife.com/news/2026/04/alien-isolation-2-gets-its-first-teaser-trailer",
-      "publishedAt": "2026-04-26T14:45:00Z",
-      "processed_at": "2026-04-27T15:53:22.373373+00:00"
+      "description": "Also: John Ternus talks AI and services with employees....",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-04-26/new-apple-ceo-john-ternus-first-major-product-is-the-foldable-iphone-road-map-mofu521p",
+      "publishedAt": "2026-04-26T14:00:01Z",
+      "processed_at": "2026-04-27T17:23:54.754916+00:00"
     },
     {
       "title": "5 Ryobi Products That Fix Problems You Didn't Realize You Had - SlashGear",
@@ -40,7 +80,7 @@
       "description": "Discover five standout Ryobi tools, including a stowaway bench, scrubbers, a foam cutter, a pump, an...",
       "url": "https://www.slashgear.com/2153622/ryobi-tools-product-fix-problems-didnt-realize-had/",
       "publishedAt": "2026-04-26T13:45:00Z",
-      "processed_at": "2026-04-27T15:53:22.373373+00:00"
+      "processed_at": "2026-04-27T17:23:54.754916+00:00"
     },
     {
       "title": "Google's new gradient icons for Gmail, Calendar, Drive, and other apps are radical redesigns - 9to5Google",
@@ -50,7 +90,7 @@
       "description": "9to5Google can now report on a complete gradient redesign for Gmail and other Google Workspace apps....",
       "url": "http://9to5google.com/2026/04/26/gmail-google-gradient-redesign/",
       "publishedAt": "2026-04-26T13:00:00Z",
-      "processed_at": "2026-04-27T15:53:22.373373+00:00"
+      "processed_at": "2026-04-27T17:23:54.754916+00:00"
     },
     {
       "title": "After three months on Linux, I don’t miss Windows at all - The Verge",
@@ -60,50 +100,10 @@
       "description": "﻿I regret nothing...",
       "url": "https://www.theverge.com/tech/918797/switched-to-linux-dont-miss-windows",
       "publishedAt": "2026-04-26T13:00:00Z",
-      "processed_at": "2026-04-27T15:53:22.373373+00:00"
-    },
-    {
-      "title": "A Trendy Way to Break Your Social Media Addiction Costs $59. I Found a Clever Dupe. - Slate",
-      "source": {
-        "name": "Slate Magazine"
-      },
-      "description": "Finally, I can actually relax instead of just scroll....",
-      "url": "https://slate.com/technology/2026/04/instagram-social-media-brick-alternative.html",
-      "publishedAt": "2026-04-26T13:00:00Z",
-      "processed_at": "2026-04-27T15:53:22.373373+00:00"
-    },
-    {
-      "title": "I left Kindle for a better e-reader a year ago, and I recommend it to everyone - Android Police",
-      "source": {
-        "name": "Android Police"
-      },
-      "description": "Amazon has delved too greedily and too deep...",
-      "url": "https://www.androidpolice.com/i-left-kindle-a-year-ago-and-have-no-regrets/",
-      "publishedAt": "2026-04-26T12:30:10Z",
-      "processed_at": "2026-04-27T15:53:22.373373+00:00"
-    },
-    {
-      "title": "8 Cool New Gadgets to Keep on Your Radar - Gear Patrol",
-      "source": {
-        "name": "Gear Patrol"
-      },
-      "description": "Catching you up on the past week’s most notable product releases....",
-      "url": "https://www.gearpatrol.com/audio/best-new-tech-releases-4-26-26/",
-      "publishedAt": "2026-04-26T12:00:00Z",
-      "processed_at": "2026-04-27T15:53:22.373373+00:00"
-    },
-    {
-      "title": "AMD Ryzen 9 9950X3D2 appears in Amazon’s top 10 CPU best sellers - VideoCardz.com",
-      "source": {
-        "name": "Videocardz.com"
-      },
-      "description": "Despite mixed reviews, AMD’s most expensive AM5 desktop CPU briefly appeared among Amazon’s top 10 b...",
-      "url": "https://videocardz.com/newz/amd-ryzen-9-9950x3d2-appears-in-amazons-top-10-cpu-best-sellers",
-      "publishedAt": "2026-04-26T11:55:00Z",
-      "processed_at": "2026-04-27T15:53:22.373373+00:00"
+      "processed_at": "2026-04-27T17:23:54.754916+00:00"
     }
   ],
-  "lastUpdated": "2026-04-27T15:53:22.373447+00:00",
+  "lastUpdated": "2026-04-27T17:23:54.754994+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
