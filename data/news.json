@@ -3,6 +3,76 @@
   "totalResults": 10,
   "articles": [
     {
+      "title": "After three months on Linux, I don’t miss Windows at all - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "﻿I regret nothing...",
+      "url": "https://www.theverge.com/tech/918797/switched-to-linux-dont-miss-windows",
+      "publishedAt": "2026-04-26T13:00:00Z",
+      "processed_at": "2026-04-27T13:58:10.147590+00:00"
+    },
+    {
+      "title": "Google's new gradient icons for Gmail, Calendar, Drive, and other apps are radical redesigns - 9to5Google",
+      "source": {
+        "name": "9to5google.com"
+      },
+      "description": "9to5Google can now report on a complete gradient redesign for Gmail and other Google Workspace apps....",
+      "url": "http://9to5google.com/2026/04/26/gmail-google-gradient-redesign/",
+      "publishedAt": "2026-04-26T13:00:00Z",
+      "processed_at": "2026-04-27T13:58:10.147590+00:00"
+    },
+    {
+      "title": "A Trendy Way to Break Your Social Media Addiction Costs $59. I Found a Clever Dupe. - Slate",
+      "source": {
+        "name": "Slate Magazine"
+      },
+      "description": "Finally, I can actually relax instead of just scroll....",
+      "url": "https://slate.com/technology/2026/04/instagram-social-media-brick-alternative.html",
+      "publishedAt": "2026-04-26T13:00:00Z",
+      "processed_at": "2026-04-27T13:58:10.147590+00:00"
+    },
+    {
+      "title": "Inside Windows K2: Microsoft's major plan to save Windows 11 and win back users before it's too late - Windows Central",
+      "source": {
+        "name": "Windows Central"
+      },
+      "description": "Microsoft has restructured its Windows team to better position Windows 11 as a strong platform that ...",
+      "url": "https://www.windowscentral.com/microsoft/windows-11/what-is-windows-k2-everything-you-need-to-know-saving-windows-11",
+      "publishedAt": "2026-04-26T10:37:23Z",
+      "processed_at": "2026-04-27T13:58:10.147590+00:00"
+    },
+    {
+      "title": "Ikea's New Blow-Up Chair Was Tested by Cats - WIRED",
+      "source": {
+        "name": "Wired"
+      },
+      "description": "Part of the new PS 2026 collection, it's taken the Swedish company 26 years to finally nail inflatab...",
+      "url": "https://www.wired.com/story/ikea-new-blow-up-chair-was-tested-by-cats/",
+      "publishedAt": "2026-04-26T10:00:00Z",
+      "processed_at": "2026-04-27T13:58:10.147590+00:00"
+    },
+    {
+      "title": "\"The finest stills camera ever made\" wins major industry award – it shoots 100MP images in true end-to-end HDR color - Digital Camera World",
+      "source": {
+        "name": "Digital Camera World"
+      },
+      "description": "The prize for the best medium format camera goes to a masterpiece of engineering...",
+      "url": "https://www.digitalcameraworld.com/cameras/mirrorless-cameras/the-finest-stills-camera-ever-made-wins-major-industry-award-it-shoots-100mp-images-in-true-end-to-end-hdr-color",
+      "publishedAt": "2026-04-26T07:25:00Z",
+      "processed_at": "2026-04-27T13:58:10.147590+00:00"
+    },
+    {
+      "title": "What Separates Porsche's GTS Models From The 'Real' GT Cars? - Jalopnik",
+      "source": {
+        "name": "Jalopnik"
+      },
+      "description": "Porsche's naming scheme can get confusing for the uninitiated. Here's what seperates a true GT Porsc...",
+      "url": "https://www.jalopnik.com/2153735/are-porsche-gts-models-gt-cars/",
+      "publishedAt": "2026-04-26T04:25:00Z",
+      "processed_at": "2026-04-27T13:58:10.147590+00:00"
+    },
+    {
       "title": "Digimon Story: Time Stranger Nintendo Switch 2 vs. Switch comparison, more frame rate and resolution details - Nintendo Everything",
       "source": {
         "name": "Nintendoeverything.com"
@@ -10,7 +80,17 @@
       "description": "Digimon Story: Time Stranger gets more details on Nintendo Switch 2 and Switch frame rate and resolu...",
       "url": "https://nintendoeverything.com/digimon-story-time-stranger-nintendo-switch-2-vs-switch-comparison-more-frame-rate-and-resolution-details/",
       "publishedAt": "2026-04-26T04:02:31Z",
-      "processed_at": "2026-04-27T11:44:46.109200+00:00"
+      "processed_at": "2026-04-27T13:58:10.147590+00:00"
+    },
+    {
+      "title": "Final Fantasy XIV Online For Switch 2 Able To Reach \"30fps In A Stable State\" - Nintendo Life",
+      "source": {
+        "name": "Nintendo Life"
+      },
+      "description": "But \"certain areas\" may experience frame rate drops...",
+      "url": "https://www.nintendolife.com/news/2026/04/final-fantasy-xiv-online-for-switch-2-able-to-reach-30fps-in-a-stable-state",
+      "publishedAt": "2026-04-26T03:25:00Z",
+      "processed_at": "2026-04-27T13:58:10.147590+00:00"
     },
     {
       "title": "Foldable iPhone Ultra confidential docs leak: 9.2mm design, Android-style selfie cameras, color options - Notebookcheck",
@@ -20,90 +100,10 @@
       "description": "Leaked schematics from a case manufacturer detail the possible dimensions of the upcoming iPhone Fol...",
       "url": "https://www.notebookcheck.net/Foldable-iPhone-Ultra-confidential-docs-leak-9-2mm-design-Android-style-selfie-cameras-color-options.1282973.0.html",
       "publishedAt": "2026-04-25T22:54:00Z",
-      "processed_at": "2026-04-27T11:44:46.109200+00:00"
-    },
-    {
-      "title": "Microsoft explains why Windows 11 File Explorer scrolls smoothly in some places, but not everywhere - Windows Latest",
-      "source": {
-        "name": "WindowsLatest"
-      },
-      "description": "Microsoft has finally explained why Windows 11 File Explorer lacks smooth scrolling in all folders, ...",
-      "url": "https://www.windowslatest.com/2026/04/26/microsoft-explains-why-windows-11-file-explorer-scrolls-smoothly-in-some-places-but-not-everywhere/",
-      "publishedAt": "2026-04-25T22:28:35Z",
-      "processed_at": "2026-04-27T11:44:46.109200+00:00"
-    },
-    {
-      "title": "The ‘Invincible’ Game’s Story Brings Action and New Voices - Gizmodo",
-      "source": {
-        "name": "Gizmodo.com"
-      },
-      "description": "A new, but familiar story lies at the heart of 'Invincible VS,' and with some slightly different act...",
-      "url": "https://gizmodo.com/the-invincible-games-story-brings-action-and-new-voices-2000750453",
-      "publishedAt": "2026-04-25T20:15:12Z",
-      "processed_at": "2026-04-27T11:44:46.109200+00:00"
-    },
-    {
-      "title": "Google Wallet adds support for three more digital passport IDs on Android - 9to5Google",
-      "source": {
-        "name": "9to5google.com"
-      },
-      "description": "Following the initial launch in two countries, Google Wallet for Android now supports three more pas...",
-      "url": "http://9to5google.com/2026/04/25/google-wallet-passport-brazil-singapore-taiwan/",
-      "publishedAt": "2026-04-25T20:12:00Z",
-      "processed_at": "2026-04-27T11:44:46.109200+00:00"
-    },
-    {
-      "title": "Pokemon Champions producer comments on the game’s graphics - Nintendo Everything",
-      "source": {
-        "name": "Nintendoeverything.com"
-      },
-      "description": "Pokemon Champions producer Masaaki Hoshino shares a few words about the game's graphics....",
-      "url": "https://nintendoeverything.com/pokemon-champions-dev-comments-on-the-games-graphics/",
-      "publishedAt": "2026-04-25T20:02:07Z",
-      "processed_at": "2026-04-27T11:44:46.109200+00:00"
-    },
-    {
-      "title": "Samsung Messages is Shutting Down: Here's How to Rescue All Your Messages Before It's Gone - CNET",
-      "source": {
-        "name": "CNET"
-      },
-      "description": "The Samsung Messages app is being deactivated in July. Here's how to save all your messages....",
-      "url": "https://www.cnet.com/tech/mobile/samsung-messages-is-shutting-down-heres-how-to-rescue-all-your-messages-before-its-gone/",
-      "publishedAt": "2026-04-25T20:01:00Z",
-      "processed_at": "2026-04-27T11:44:46.109200+00:00"
-    },
-    {
-      "title": "PS5 Players Craving Assassin's Creed: Black Flag Resynced, the Best-Selling Pre-Order in the USA, UK Already - Push Square",
-      "source": {
-        "name": "Push Square"
-      },
-      "description": "Doing the business on PS Store...",
-      "url": "https://www.pushsquare.com/news/2026/04/ps5-players-craving-assassins-creed-black-flag-resynced-the-best-selling-pre-order-in-the-usa-uk-already",
-      "publishedAt": "2026-04-25T20:00:00Z",
-      "processed_at": "2026-04-27T11:44:46.109200+00:00"
-    },
-    {
-      "title": "Final Fantasy XIV on Nintendo Switch 2 has some frame rate issues, game director says players don’t have to be concerned - Nintendo Everything",
-      "source": {
-        "name": "Nintendoeverything.com"
-      },
-      "description": "A port of Final Fantasy XIV for Nintendo Switch 2 was announced just yesterday during a keynote at t...",
-      "url": "https://nintendoeverything.com/final-fantasy-xiv-on-nintendo-switch-2-has-some-frame-rate-issues-game-director-says-players-dont-have-to-be-concerned/",
-      "publishedAt": "2026-04-25T18:51:33Z",
-      "processed_at": "2026-04-27T11:44:46.109200+00:00"
-    },
-    {
-      "title": "Microsoft rolls out revamped Windows Insider Program - BleepingComputer",
-      "source": {
-        "name": "BleepingComputer"
-      },
-      "description": "Microsoft says it's rolling out a revamped Windows Insider Program experience as part of the broader...",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-revamped-windows-insider-program/",
-      "publishedAt": "2026-04-25T17:07:13Z",
-      "processed_at": "2026-04-27T11:44:46.109200+00:00"
+      "processed_at": "2026-04-27T13:58:10.147590+00:00"
     }
   ],
-  "lastUpdated": "2026-04-27T11:44:46.109275+00:00",
+  "lastUpdated": "2026-04-27T13:58:10.147659+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
