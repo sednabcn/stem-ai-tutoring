@@ -1,16 +1,56 @@
 {
   "status": "success",
-  "totalResults": 9,
+  "totalResults": 10,
   "articles": [
     {
-      "title": "Final Fantasy X 25th anniversary website launched - Gematsu",
+      "title": "The Steam controller release date may have been leaked online - Eurogamer.net",
       "source": {
-        "name": "Gematsu"
+        "name": "Eurogamer.net"
       },
-      "description": "Square Enix has launched a special website in celebration of Final Fantasy X’s 25th anniversary, whi...",
-      "url": "https://www.gematsu.com/2026/04/final-fantasy-x-25th-anniversary-website-launched",
-      "publishedAt": "2026-04-27T03:52:40Z",
-      "processed_at": "2026-04-28T06:30:19.057980+00:00"
+      "description": "In a now-deleted article on 4Gamer, the Steam controller's release date was revealed, indicating a p...",
+      "url": "https://www.eurogamer.net/steam-controller-release-date-leak",
+      "publishedAt": "2026-04-27T09:03:44Z",
+      "processed_at": "2026-04-28T09:22:57.881054+00:00"
+    },
+    {
+      "title": "Shiny Volcanion Released For the First Time Ever in Pokémon Games - Pokémon GO Hub",
+      "source": {
+        "name": "Pokemon GO Hub"
+      },
+      "description": "For the first time ever, Shiny Volcanion is available to obtain in the Pokémon games main series! Th...",
+      "url": "https://pokemongohub.net/post/news/shiny-volcanion-released-for-the-first-time-in-pokemon/",
+      "publishedAt": "2026-04-27T08:23:37Z",
+      "processed_at": "2026-04-28T09:22:57.881054+00:00"
+    },
+    {
+      "title": "I used ChatGPT to apply Warren Buffett’s ‘two-list’ rule — and it changed how I set goals - Tom's Guide",
+      "source": {
+        "name": "Tom's Guide"
+      },
+      "description": "I used ChatGPT to apply Warren Buffett’s ‘two-list’ rule — and it changed how I set goals...",
+      "url": "https://www.tomsguide.com/ai/i-used-chatgpt-to-apply-warren-buffetts-two-list-rule-and-it-changed-how-i-set-goals",
+      "publishedAt": "2026-04-27T05:15:00Z",
+      "processed_at": "2026-04-28T09:22:57.881054+00:00"
+    },
+    {
+      "title": "OpenAI Building A Custom Smartphone Processor With Qualcomm and MediaTek, Targeting 300-400 Million Annual Smartphone Shipments to Dethrone Apple’s iPhone - Wccftech",
+      "source": {
+        "name": "Wccftech"
+      },
+      "description": "OpenAI's strategy upends Apple's business model, which is all about milking revenue from its ecosyst...",
+      "url": "https://wccftech.com/openai-building-a-custom-smartphone-processor-with-qualcomm-and-mediatek-targeting-300-400-million-annual-smartphone-shipments-to-dethrone-apples-iphone/",
+      "publishedAt": "2026-04-27T03:49:00Z",
+      "processed_at": "2026-04-28T09:22:57.881054+00:00"
+    },
+    {
+      "title": "Galaxy Z Fold 8 ‘Wide’ shows off its new form factor in side-by-side leak [Gallery] - 9to5Google",
+      "source": {
+        "name": "9to5google.com"
+      },
+      "description": "Samsung’s upcoming foldable lineup includes its first new mainstream form factor in years, as the “W...",
+      "url": "http://9to5google.com/2026/04/26/samsung-galaxy-z-fold-8-wide-leak/",
+      "publishedAt": "2026-04-27T03:30:00Z",
+      "processed_at": "2026-04-28T09:22:57.881054+00:00"
     },
     {
       "title": "Why Consumer Reports Says The Best Monitor Size For Your Home Office Isn't 27-Inches - bgr.com",
@@ -20,7 +60,7 @@
       "description": "It may be tempting to go for the biggest monitor you can find for your home office, but Consumer Rep...",
       "url": "https://www.bgr.com/2152698/best-monitor-size-for-home-office-not-27-inches-consumer-reports/",
       "publishedAt": "2026-04-27T02:02:39Z",
-      "processed_at": "2026-04-28T06:30:19.057980+00:00"
+      "processed_at": "2026-04-28T09:22:57.881054+00:00"
     },
     {
       "title": "Exclusive / What’s next for Letterboxd? - Semafor",
@@ -30,70 +70,40 @@
       "description": "The controlling investor in Letterboxd, the cinephile social platform, is looking to sell its stake....",
       "url": "https://www.semafor.com/article/04/26/2026/whats-next-for-letterboxd",
       "publishedAt": "2026-04-27T01:11:00Z",
-      "processed_at": "2026-04-28T06:30:19.057980+00:00"
+      "processed_at": "2026-04-28T09:22:57.881054+00:00"
     },
     {
-      "title": "Xbox's \"exclusive\" issue: Will Microsoft pull games like Halo PlayStation? - Windows Central",
+      "title": "The foldable iPhone Ultra might have a problem on launch day - PhoneArena",
       "source": {
-        "name": "Windows Central"
+        "name": "PhoneArena"
       },
-      "description": "The big conversation right now revolves around whether or not Xbox will return to \"exclusive\" games....",
-      "url": "https://www.windowscentral.com/gaming/xbox/lets-predict-will-xbox-return-to-exclusive-games-will-halo-etc-continue-to-hit-playstation",
-      "publishedAt": "2026-04-26T20:39:44Z",
-      "processed_at": "2026-04-28T06:30:19.057980+00:00"
+      "description": "The foldable iPhone Ultra might not have the smoothest of launches....",
+      "url": "https://www.phonearena.com/news/foldable-iphone-ultra-might-have-a-problem-on-launch-day_id179940",
+      "publishedAt": "2026-04-26T23:35:01Z",
+      "processed_at": "2026-04-28T09:22:57.881054+00:00"
     },
     {
-      "title": "I had Claude, ChatGPT, and Gemini each build the same Chrome extension, and only one actually worked - MakeUseOf",
+      "title": "Steam Game Developed by Suspected Gunman at Trump White House Press Dinner Is Being Review-Bombed - IGN",
       "source": {
-        "name": "MakeUseOf"
+        "name": "IGN"
       },
-      "description": "Three LLMs, one prompt, and a lot of disappointment....",
-      "url": "https://www.makeuseof.com/had-claude-chatgpt-and-gemini-each-vibe-code-the-same-chrome-extension/",
-      "publishedAt": "2026-04-26T19:00:17Z",
-      "processed_at": "2026-04-28T06:30:19.057980+00:00"
+      "description": "The suspected gunman who attempted to storm the White House Correspondents' Dinner at the Washington...",
+      "url": "https://www.ign.com/articles/steam-game-allegedly-developed-by-suspected-gunman-at-trump-white-house-press-dinner-is-being-review-bombed",
+      "publishedAt": "2026-04-26T22:28:50Z",
+      "processed_at": "2026-04-28T09:22:57.881054+00:00"
     },
     {
-      "title": "Google’s new gradient icon design is coming to more apps - The Verge",
+      "title": "These 6+ PS5, PS4 Games Will Be Delisted in May and June - Push Square",
       "source": {
-        "name": "The Verge"
+        "name": "Push Square"
       },
-      "description": "The looks are softer and more varied....",
-      "url": "https://www.theverge.com/tech/918852/googles-new-gradient-icon-design-is-coming-to-more-apps",
-      "publishedAt": "2026-04-26T18:34:26Z",
-      "processed_at": "2026-04-28T06:30:19.057980+00:00"
-    },
-    {
-      "title": "New Legend of Zelda Game Reportedly Leaked Ahead of Reveal - comicbook.com",
-      "source": {
-        "name": "ComicBook.com"
-      },
-      "description": "A new Legend of Zelda game, a 2D game, specifically, for the Nintendo Switch 2 has reportedly leaked...",
-      "url": "http://comicbook.com/gaming/news/the-legend-of-zelda-new-2d-game-nintendo-switch-2-release-2027/",
-      "publishedAt": "2026-04-26T18:00:56Z",
-      "processed_at": "2026-04-28T06:30:19.057980+00:00"
-    },
-    {
-      "title": "Walmart’s new Google TV streamers are now available for some as wide launch nears - 9to5Google",
-      "source": {
-        "name": "9to5google.com"
-      },
-      "description": "After weeks of leaks from retail stores, Walmart’s new Onn 4K Pro and Onn 4K streaming stick with Go...",
-      "url": "http://9to5google.com/2026/04/26/walmart-google-tv-official-launch-nears-2026/",
-      "publishedAt": "2026-04-26T18:00:00Z",
-      "processed_at": "2026-04-28T06:30:19.057980+00:00"
-    },
-    {
-      "title": "The new iPhones have a problem turning back on after the battery runs out - 9to5Mac",
-      "source": {
-        "name": "9to5Mac"
-      },
-      "description": "Last night, my iPhone Air battery went to zero about 11 PM. I plugged in the USB-C charging cable wi...",
-      "url": "https://9to5mac.com/2026/04/26/iphone-turned-off-dead-how-to-turn-back-on/",
-      "publishedAt": "2026-04-26T17:04:00Z",
-      "processed_at": "2026-04-28T06:30:19.057980+00:00"
+      "description": "Sorry to see you go...",
+      "url": "https://www.pushsquare.com/news/2026/04/these-6plus-ps5-ps4-games-will-be-delisted-in-may-and-june",
+      "publishedAt": "2026-04-26T22:02:11Z",
+      "processed_at": "2026-04-28T09:22:57.881054+00:00"
     }
   ],
-  "lastUpdated": "2026-04-28T06:30:19.058051+00:00",
+  "lastUpdated": "2026-04-28T09:22:57.881134+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
