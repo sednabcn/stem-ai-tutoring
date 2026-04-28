@@ -1,7 +1,87 @@
 {
   "status": "success",
-  "totalResults": 9,
+  "totalResults": 10,
   "articles": [
+    {
+      "title": "Gemini app preps ‘Proactive Assistance’ and new Gemini voices - 9to5Google",
+      "source": {
+        "name": "9to5google.com"
+      },
+      "description": "Google’s goal with Gemini is to build a personal, proactive, and powerful assistant. The Gemini app ...",
+      "url": "http://9to5google.com/2026/04/27/gemini-proactive-assistance/",
+      "publishedAt": "2026-04-27T18:42:00Z",
+      "processed_at": "2026-04-28T20:17:30.826745+00:00"
+    },
+    {
+      "title": "\"Super ZSNES\" is a stab at a modern SNES emulator from the original developers - Ars Technica",
+      "source": {
+        "name": "Ars Technica"
+      },
+      "description": "Upgrades to SNES graphics and sound go way beyond the typical screen filtering....",
+      "url": "https://arstechnica.com/gadgets/2026/04/super-zsnes-is-a-stab-at-a-modern-snes-emulator-from-the-original-developers/",
+      "publishedAt": "2026-04-27T18:30:14Z",
+      "processed_at": "2026-04-28T20:17:30.826745+00:00"
+    },
+    {
+      "title": "Apple releases iOS 26.5 beta 4 for iPhone [U] - 9to5Mac",
+      "source": {
+        "name": "9to5Mac"
+      },
+      "description": "Update: A few hours later, the new public beta version has arrived. Apple says iOS 26.5 will come ou...",
+      "url": "https://9to5mac.com/2026/04/27/apple-releases-ios-26-5-beta-4-for-iphone/",
+      "publishedAt": "2026-04-27T17:02:00Z",
+      "processed_at": "2026-04-28T20:17:30.826745+00:00"
+    },
+    {
+      "title": "Valve launches the Steam Controller without the Steam Machine - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "Valve is releasing the Steam Controller on May 4th for $99. It was originally designed alongside the...",
+      "url": "https://www.theverge.com/games/918622/valve-steam-controller-price-release-date-steam-machine-delay",
+      "publishedAt": "2026-04-27T17:00:00Z",
+      "processed_at": "2026-04-28T20:17:30.826745+00:00"
+    },
+    {
+      "title": "Sonic Racing: CrossWorlds ‘Captain Majima Content Drop’ update launches April 29 - Gematsu",
+      "source": {
+        "name": "Gematsu"
+      },
+      "description": "",
+      "url": "https://www.gematsu.com/2026/04/sonic-racing-crossworlds-captain-majima-content-drop-update-launches-april-29",
+      "publishedAt": "2026-04-27T16:36:10Z",
+      "processed_at": "2026-04-28T20:17:30.826745+00:00"
+    },
+    {
+      "title": "Samsung’s first smart glasses have leaked - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "Leaked images of the Samsung Galaxy Glasses show a design that’s very similar to the Ray-Ban Meta gl...",
+      "url": "https://www.theverge.com/gadgets/919189/samsung-galaxy-glasses-leaked-images",
+      "publishedAt": "2026-04-27T16:25:51Z",
+      "processed_at": "2026-04-28T20:17:30.826745+00:00"
+    },
+    {
+      "title": "Preparing for the Unleashed Pre-Rift - Riftbound | League of Legends Trading Card Game",
+      "source": {
+        "name": "Leagueoflegends.com"
+      },
+      "description": "Get ready to play Riftbound’s newest set at your local Pre-Rift....",
+      "url": "https://riftbound.leagueoflegends.com/en-us/news/announcements/preparing-for-the-unleashed-pre-rift/",
+      "publishedAt": "2026-04-27T16:05:04Z",
+      "processed_at": "2026-04-28T20:17:30.826745+00:00"
+    },
+    {
+      "title": "Tony Hinchcliffe’s ‘Kill Tony’ Inks Multiyear Deal With Fox’s Red Seat Ventures (Exclusive) - The Hollywood Reporter",
+      "source": {
+        "name": "Hollywood Reporter"
+      },
+      "description": "Red Seat will sell advertising for the popular comedy show, which will also gain distribution throug...",
+      "url": "http://www.hollywoodreporter.com/business/digital/tony-hinchcliffe-kill-tony-inks-deal-fox-red-seat-ventures-1236574989/",
+      "publishedAt": "2026-04-27T16:00:31Z",
+      "processed_at": "2026-04-28T20:17:30.826745+00:00"
+    },
     {
       "title": "Riven Tides update - Reclaim the coast - ARC Raiders",
       "source": {
@@ -10,90 +90,20 @@
       "description": "ARC Raiders is a multiplayer extraction adventure, set in a lethal future earth, ravaged by a myster...",
       "url": "https://arcraiders.com/news/riven-tides",
       "publishedAt": "2026-04-27T15:57:28Z",
-      "processed_at": "2026-04-28T18:18:40.272990+00:00"
+      "processed_at": "2026-04-28T20:17:30.826745+00:00"
     },
     {
-      "title": "Someone recreated Google’s new Gmail, Drive, Workspace icons for you to use early - 9to5Google",
+      "title": "iPhone Ultra and MacBook Ultra are coming this year, per report - 9to5Mac",
       "source": {
-        "name": "9to5google.com"
+        "name": "9to5Mac"
       },
-      "description": "Over the weekend, 9to5Google published an early look at Google’s new icons for Workspace apps such a...",
-      "url": "http://9to5google.com/2026/04/27/google-workspace-new-icons-recreated/",
-      "publishedAt": "2026-04-27T15:40:00Z",
-      "processed_at": "2026-04-28T18:18:40.272990+00:00"
-    },
-    {
-      "title": "Enter The Gungeon Creators Say Roguelikes Have Become 'Cash-Grabby' - Kotaku",
-      "source": {
-        "name": "Kotaku"
-      },
-      "description": "Dodge Roll's co-founder believes the 'slot machine' aspect of Balatro and Vampire Survivors has led ...",
-      "url": "https://kotaku.com/enter-the-gungeon-balatro-vampire-survivors-roguelikes-gambling-dodge-roll-cash-grab-2000690804",
-      "publishedAt": "2026-04-27T14:48:26Z",
-      "processed_at": "2026-04-28T18:18:40.272990+00:00"
-    },
-    {
-      "title": "Apple Planning to Launch Two New 'Ultra' Products in the Next Year - MacRumors",
-      "source": {
-        "name": "MacRumors"
-      },
-      "description": "Apple has decided to market two of its new products over the next year as \"Ultra\" devices, Macworld ...",
-      "url": "https://www.macrumors.com/2026/04/27/apple-planning-to-launch-two-new-ultra-products/",
-      "publishedAt": "2026-04-27T14:34:42Z",
-      "processed_at": "2026-04-28T18:18:40.272990+00:00"
-    },
-    {
-      "title": "Adventure Of Samsara 2.0 Update Adds A Slew Of New Content And Adjustments - Nintendo Life",
-      "source": {
-        "name": "Nintendo Life"
-      },
-      "description": "Available now...",
-      "url": "https://www.nintendolife.com/news/2026/04/adventure-of-samsara-2-0-update-adds-a-slew-of-new-content-and-adjustments",
-      "publishedAt": "2026-04-27T14:30:00Z",
-      "processed_at": "2026-04-28T18:18:40.272990+00:00"
-    },
-    {
-      "title": "Canva apologizes after its AI tool replaces ‘Palestine’ in designs - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "Canva’s new Magic Layers AI feature has been caught replacing the word “Palestine” in designs...",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/919028/canva-magic-layers-ai-replacing-palestine",
-      "publishedAt": "2026-04-27T14:29:23Z",
-      "processed_at": "2026-04-28T18:18:40.272990+00:00"
-    },
-    {
-      "title": "Unprecedented PS5 Price Hikes Spread To Even More Countries - Kotaku",
-      "source": {
-        "name": "Kotaku"
-      },
-      "description": "The cheapest PS5 will hit 43 percent above its launch price in South Korea...",
-      "url": "https://kotaku.com/sony-jacks-up-the-price-of-the-ps5-in-even-more-countries-amid-continued-pressures-in-the-global-economic-landscape-2000690815",
-      "publishedAt": "2026-04-27T14:00:58Z",
-      "processed_at": "2026-04-28T18:18:40.272990+00:00"
-    },
-    {
-      "title": "The Man Behind AlphaGo Thinks AI Is Taking the Wrong Path - WIRED",
-      "source": {
-        "name": "Wired"
-      },
-      "description": "David Silver has a new billion-dollar company that aims to build AI “superlearners.”...",
-      "url": "https://www.wired.com/story/david-silver-ai-ineffable-intelligence-reinforcement-learning/",
-      "publishedAt": "2026-04-27T14:00:00Z",
-      "processed_at": "2026-04-28T18:18:40.272990+00:00"
-    },
-    {
-      "title": "Here Are The ‘Diablo 4: Lord Of Hatred’ Launch Times In Your Region - Forbes",
-      "source": {
-        "name": "Forbes"
-      },
-      "description": "Here's when you can play Diablo 4: Lord of Hatred today with the release times across each region fo...",
-      "url": "https://www.forbes.com/sites/paultassi/2026/04/27/here-are-the-diablo-4-lord-of-hatred-launch-times-in-your-region/",
-      "publishedAt": "2026-04-27T13:13:07Z",
-      "processed_at": "2026-04-28T18:18:40.272990+00:00"
+      "description": "A new report says Apple’s foldable iPhone and touchscreen MacBook Pro will be named ‘iPhone Ultra’ a...",
+      "url": "https://9to5mac.com/2026/04/27/iphone-ultra-and-macbook-ultra-are-coming-this-year-per-report/",
+      "publishedAt": "2026-04-27T15:44:00Z",
+      "processed_at": "2026-04-28T20:17:30.826745+00:00"
     }
   ],
-  "lastUpdated": "2026-04-28T18:18:40.273065+00:00",
+  "lastUpdated": "2026-04-28T20:17:30.826824+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
