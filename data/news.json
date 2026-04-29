@@ -1,26 +1,36 @@
 {
   "status": "success",
-  "totalResults": 10,
+  "totalResults": 9,
   "articles": [
     {
-      "title": "Microsoft confirms Microsoft 365 and Outlook outage - Windows Central",
+      "title": "Nintendo has discounted a bunch of its Switch games in new rare sale - Nintendo Everything",
       "source": {
-        "name": "Windows Central"
+        "name": "Nintendoeverything.com"
       },
-      "description": "Outlook, Teams and Microsoft 365 are no longer experiencing issues...",
-      "url": "https://www.windowscentral.com/software-apps/microsoft-365-and-outlook-are-down-to-start-the-work-week-microsoft-confirms-outage",
-      "publishedAt": "2026-04-28T11:56:11Z",
-      "processed_at": "2026-04-29T14:01:23.923054+00:00"
+      "description": "A rare first-party Nintendo games sale has just gone live on Amazon with around a dozen of the compa...",
+      "url": "https://nintendoeverything.com/nintendo-switch-games-sale-amazon-digital/",
+      "publishedAt": "2026-04-28T13:17:49Z",
+      "processed_at": "2026-04-29T16:41:32.279894+00:00"
     },
     {
-      "title": "20th Anniversary iPhone's 'Liquid Glass' Display to Make Bezels Vanish - MacRumors",
+      "title": "Behold the crown jewel of outrageous gaming laptops - The Verge",
       "source": {
-        "name": "MacRumors"
+        "name": "The Verge"
       },
-      "description": "Apple's 20th-anniversary iPhone will use a new type of curved screen technology that more effectivel...",
-      "url": "https://www.macrumors.com/2026/04/28/20th-anniversary-iphone-liquid-glass-display/",
-      "publishedAt": "2026-04-28T10:39:46Z",
-      "processed_at": "2026-04-29T14:01:23.923054+00:00"
+      "description": "The new Zephyrus Duo has two full-size 16-inch OLEDs, an Intel Panther Lake chip, and up to Nvidia R...",
+      "url": "https://www.theverge.com/tech/918529/asus-rog-zephyrus-duo-2026-intel-nvidia-5090-review",
+      "publishedAt": "2026-04-28T13:00:00Z",
+      "processed_at": "2026-04-29T16:41:32.279894+00:00"
+    },
+    {
+      "title": "PlayStation Seemingly Brings Back the DRM Policy Sony Mocked Xbox For in 2013, Sparking Massive Backlash - Wccftech",
+      "source": {
+        "name": "Wccftech"
+      },
+      "description": "Sony introduced a 30-day online check-in DRM for new PS4/PS5 digital purchases — the very policy it ...",
+      "url": "https://wccftech.com/playstation-drm-policy-xbox-2013-backlash/",
+      "publishedAt": "2026-04-28T10:35:00Z",
+      "processed_at": "2026-04-29T16:41:32.279894+00:00"
     },
     {
       "title": "The Hottest Anti-AI Gadget Is a Cyberdeck - WIRED",
@@ -30,7 +40,27 @@
       "description": "On TikTok, young women are going viral for crafting whimsical homemade computers inside purses....",
       "url": "https://www.wired.com/story/cyberdecks-tiktok-ube-boobey-diy-computer-gadget/",
       "publishedAt": "2026-04-28T10:00:00Z",
-      "processed_at": "2026-04-29T14:01:23.923054+00:00"
+      "processed_at": "2026-04-29T16:41:32.279894+00:00"
+    },
+    {
+      "title": "Final Fantasy 7 Rebirth gets a surprise demo today, complete with progression carry-over on Xbox, Switch 2 and PC - Eurogamer.net",
+      "source": {
+        "name": "Eurogamer.net"
+      },
+      "description": "Play the first two chapters of Final Fantasy 7 Rebirth now, then transfer your progress over when th...",
+      "url": "https://www.eurogamer.net/final-fantasy-vii-remake-demo-switch-2-xbox-pc-save-data",
+      "publishedAt": "2026-04-28T09:52:23Z",
+      "processed_at": "2026-04-29T16:41:32.279894+00:00"
+    },
+    {
+      "title": "Valve is \"hard at work\" on Steam Deck 2, but the company's idea of \"next-gen\" performance isn't possible yet - Eurogamer.net",
+      "source": {
+        "name": "Eurogamer.net"
+      },
+      "description": "As the new Steam Controller is readied for launch, Valve has commented on the next Steam Deck and co...",
+      "url": "https://www.eurogamer.net/steam-deck-2-comments-next-gen-performance",
+      "publishedAt": "2026-04-28T09:37:28Z",
+      "processed_at": "2026-04-29T16:41:32.279894+00:00"
     },
     {
       "title": "Riven Tides - Patch Notes 1.26.0 - ARC Raiders",
@@ -40,17 +70,17 @@
       "description": "ARC Raiders is a multiplayer extraction adventure, set in a lethal future earth, ravaged by a myster...",
       "url": "https://arcraiders.com/news/riven-tides-patch-notes-1-26-0",
       "publishedAt": "2026-04-28T09:04:30Z",
-      "processed_at": "2026-04-29T14:01:23.923054+00:00"
+      "processed_at": "2026-04-29T16:41:32.279894+00:00"
     },
     {
-      "title": "Microsoft Office can now be controlled with Logitech’s MX Creative Console - The Verge",
+      "title": "Microsoft asks iPhone users to reauthenticate after Outlook outage - BleepingComputer",
       "source": {
-        "name": "The Verge"
+        "name": "BleepingComputer"
       },
-      "description": "Logitech’s new Productivity Plugins make common shortcuts and tools in Slack, Office, and Notion acc...",
-      "url": "https://www.theverge.com/tech/919165/logitech-mx-ecosystem-creative-console-productivity-plugins-microsoft-office-slack-notion",
-      "publishedAt": "2026-04-28T07:01:00Z",
-      "processed_at": "2026-04-29T14:01:23.923054+00:00"
+      "description": "After addressing a widespread outage that affected Outlook.com users worldwide on Monday, Microsoft ...",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-asks-iphone-users-to-re-enter-credentials-after-outlook-outage/",
+      "publishedAt": "2026-04-28T08:37:12Z",
+      "processed_at": "2026-04-29T16:41:32.279894+00:00"
     },
     {
       "title": "Here's your first look at Google's upcoming 'Proactive Assistance' feature for Gemini - Android Authority",
@@ -60,50 +90,10 @@
       "description": "Google is developing a new Proactive Assistance feature for Gemini to delivers timely, context-aware...",
       "url": "https://www.androidauthority.com/google-gemini-proactive-assistance-3661314/",
       "publishedAt": "2026-04-28T04:49:59Z",
-      "processed_at": "2026-04-29T14:01:23.923054+00:00"
-    },
-    {
-      "title": "Replit's CEO says it's dumb to study computer science thinking you can make a 'boatload' at Google - Business Insider",
-      "source": {
-        "name": "Business Insider"
-      },
-      "description": "Amjad Masad said that young people who are not deeply interested in computer science should not stud...",
-      "url": "https://www.businessinsider.com/replit-ceo-dumb-to-study-computer-science-money-google-2026-4",
-      "publishedAt": "2026-04-28T04:08:50Z",
-      "processed_at": "2026-04-29T14:01:23.923054+00:00"
-    },
-    {
-      "title": "Axios Finish Line: Prompt like a pro - Axios",
-      "source": {
-        "name": "Axios"
-      },
-      "description": "Anyone can prompt AI with greater sophistication and confidence and get greater results....",
-      "url": "https://www.axios.com/2026/04/28/improve-your-ai-prompt",
-      "publishedAt": "2026-04-28T01:57:07Z",
-      "processed_at": "2026-04-29T14:01:23.923054+00:00"
-    },
-    {
-      "title": "Tetris 99's New Crossover Event Celebrates Tomodachi Life: Living The Dream, Unlock A Special Theme - Nintendo Life",
-      "source": {
-        "name": "Nintendo Life"
-      },
-      "description": "",
-      "url": "https://www.nintendolife.com/news/2026/04/tetris-99s-new-crossover-event-celebrates-tomodachi-life-living-the-dream-unlock-a-special-theme",
-      "publishedAt": "2026-04-28T00:55:00Z",
-      "processed_at": "2026-04-29T14:01:23.923054+00:00"
-    },
-    {
-      "title": "Google is testing AI chatbot search for YouTube - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "Google is trying out an AI Mode-like search called “Ask YouTube” that builds a result page with vide...",
-      "url": "https://www.theverge.com/streaming/919441/google-ask-youtube-ai-chatbot-search",
-      "publishedAt": "2026-04-28T00:01:00Z",
-      "processed_at": "2026-04-29T14:01:23.923054+00:00"
+      "processed_at": "2026-04-29T16:41:32.279894+00:00"
     }
   ],
-  "lastUpdated": "2026-04-29T14:01:23.923125+00:00",
+  "lastUpdated": "2026-04-29T16:41:32.279981+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
