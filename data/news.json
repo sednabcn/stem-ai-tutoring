@@ -1,7 +1,37 @@
 {
   "status": "success",
-  "totalResults": 8,
+  "totalResults": 9,
   "articles": [
+    {
+      "title": "Denuvo Responds to Day-Zero DRM Hypervisor Crack: \"We're Already Working on Updated Security Versions\" - TechPowerUp",
+      "source": {
+        "name": "Techpowerup.com"
+      },
+      "description": "A Hypervisor bypass recently appeared giving game crackers an alternative way to circumvent protecti...",
+      "url": "https://www.techpowerup.com/348609/denuvo-responds-to-day-zero-drm-hypervisor-crack-were-already-working-on-updated-security-versions",
+      "publishedAt": "2026-04-28T20:08:59Z",
+      "processed_at": "2026-04-29T23:04:10.782603+00:00"
+    },
+    {
+      "title": "Want to Max Out The Blood of Dawnwalker at 4K on PC? It'll Cost You at Least $3,000 - IGN",
+      "source": {
+        "name": "IGN"
+      },
+      "description": "",
+      "url": "https://www.ign.com/articles/the-blood-of-dawnwalker-specs-rtx-5090-4k-max-setting",
+      "publishedAt": "2026-04-28T20:02:11Z",
+      "processed_at": "2026-04-29T23:04:10.782603+00:00"
+    },
+    {
+      "title": "YouTube TV officially launches fully custom multiview – here’s where it doesn’t work - 9to5Google",
+      "source": {
+        "name": "9to5google.com"
+      },
+      "description": "After showing up for some users last week, YouTube TV has officially launched its fully custom multi...",
+      "url": "http://9to5google.com/2026/04/28/youtube-tv-custom-multiview/",
+      "publishedAt": "2026-04-28T19:45:00Z",
+      "processed_at": "2026-04-29T23:04:10.782603+00:00"
+    },
     {
       "title": "35.2.2 Patch Notes - Blizzard Entertainment",
       "source": {
@@ -10,17 +40,17 @@
       "description": "Check out the balance updates coming for Hearthstone and Battlegrounds....",
       "url": "https://playhearthstone.com/en-gb/blog/24252014/",
       "publishedAt": "2026-04-28T19:30:00Z",
-      "processed_at": "2026-04-29T21:59:39.048158+00:00"
+      "processed_at": "2026-04-29T23:04:10.782603+00:00"
     },
     {
-      "title": "MindsEye Has a New Update and a Cheaper Price as Developer Launches Comeback Bid - IGN",
+      "title": "Researchers Discover Critical GitHub CVE-2026-3854 RCE Flaw Exploitable via Single Git Push - The Hacker News",
       "source": {
-        "name": "IGN"
+        "name": "Internet"
       },
-      "description": "MindsEye has begun staging its comeback, seemingly hoping for a Cyberpunk 2077-level redemption stor...",
-      "url": "https://www.ign.com/articles/mindseye-has-a-new-update-and-a-cheaper-price-as-developer-launches-comeback-bid",
-      "publishedAt": "2026-04-28T18:22:20Z",
-      "processed_at": "2026-04-29T21:59:39.048158+00:00"
+      "description": "CVE-2026-3854 (CVSS 8.7) enabled GitHub RCE via git push, risking cross-tenant access to millions of...",
+      "url": "https://thehackernews.com/2026/04/researchers-discover-critical-github.html",
+      "publishedAt": "2026-04-28T18:19:00Z",
+      "processed_at": "2026-04-29T23:04:10.782603+00:00"
     },
     {
       "title": "Teamfight Tactics patch 17.2 - Teamfight Tactics",
@@ -30,7 +60,7 @@
       "description": "Opening Encounters & new God Blessings make 17.2 a celestial encounter you won’t want to miss....",
       "url": "https://teamfighttactics.leagueoflegends.com/en-us/news/game-updates/teamfight-tactics-patch-17-2/",
       "publishedAt": "2026-04-28T18:00:00Z",
-      "processed_at": "2026-04-29T21:59:39.048158+00:00"
+      "processed_at": "2026-04-29T23:04:10.782603+00:00"
     },
     {
       "title": "Logitech made an analog and mechanical keyboard in one - The Verge",
@@ -40,7 +70,17 @@
       "description": "The Logitech G512 X wired gaming keyboard features Dual Swap, a feature that allows 39 of its switch...",
       "url": "https://www.theverge.com/news/919517/logitech-g512x-gaming-keyboard-hall-effect-tmr-mechanical-swap",
       "publishedAt": "2026-04-28T17:50:49Z",
-      "processed_at": "2026-04-29T21:59:39.048158+00:00"
+      "processed_at": "2026-04-29T23:04:10.782603+00:00"
+    },
+    {
+      "title": "Nvidia Is Finally Doing Something About the RAM Apocalypse - Gizmodo",
+      "source": {
+        "name": "Gizmodo.com"
+      },
+      "description": "Hopefully, it’s the start of better, more affordable GPU options....",
+      "url": "https://gizmodo.com/nvidia-is-finally-doing-something-about-the-ram-apocalypse-2000751748",
+      "publishedAt": "2026-04-28T17:35:12Z",
+      "processed_at": "2026-04-29T23:04:10.782603+00:00"
     },
     {
       "title": "Claude can now plug directly into Photoshop, Blender, and Ableton - The Verge",
@@ -50,40 +90,10 @@
       "description": "Anthropic has launched a set of connectors for Claude that allow the AI chatbot to tap into popular ...",
       "url": "https://www.theverge.com/ai-artificial-intelligence/919648/anthropic-claude-creative-connectors-adobe-blender",
       "publishedAt": "2026-04-28T16:49:08Z",
-      "processed_at": "2026-04-29T21:59:39.048158+00:00"
-    },
-    {
-      "title": "Pokémon GO Fest 2026: Global - Pokémon GO Hub",
-      "source": {
-        "name": "Pokemon GO Hub"
-      },
-      "description": "",
-      "url": "https://pokemongohub.net/post/event/pokemon-go-fest-2026-global/",
-      "publishedAt": "2026-04-28T16:46:04Z",
-      "processed_at": "2026-04-29T21:59:39.048158+00:00"
-    },
-    {
-      "title": "Google Home app modernizes camera & media controls, Gemini voice assistant gets speed upgrades - 9to5Google",
-      "source": {
-        "name": "9to5google.com"
-      },
-      "description": "Google is ending April with a rather sizable Home app and Gemini for Home voice assistant updates. T...",
-      "url": "http://9to5google.com/2026/04/28/google-home-gemini-update-april-28/",
-      "publishedAt": "2026-04-28T16:45:00Z",
-      "processed_at": "2026-04-29T21:59:39.048158+00:00"
-    },
-    {
-      "title": "Saros Guide: 12 Tips To Know Before Playing - Kotaku",
-      "source": {
-        "name": "Kotaku"
-      },
-      "description": "Housemarque’s roguelike shooter can be a test of resilience or a pretty breezy third-person shooter...",
-      "url": "https://kotaku.com/saros-tips-easy-mode-difficulty-eclipse-ps5-housemarque-2000691291",
-      "publishedAt": "2026-04-28T16:26:22Z",
-      "processed_at": "2026-04-29T21:59:39.048158+00:00"
+      "processed_at": "2026-04-29T23:04:10.782603+00:00"
     }
   ],
-  "lastUpdated": "2026-04-29T21:59:39.048223+00:00",
+  "lastUpdated": "2026-04-29T23:04:10.782673+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
