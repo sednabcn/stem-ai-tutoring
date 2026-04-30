@@ -1,6 +1,6 @@
 {
   "status": "success",
-  "totalResults": 10,
+  "totalResults": 9,
   "articles": [
     {
       "title": "Tensor G6 reportedly bringing latest ARM CPU cores but outdated GPU to Pixel 11 - 9to5Google",
@@ -10,17 +10,27 @@
       "description": "An early, limited leak around Google’s upcoming Pixel 11 series offers some limited details around t...",
       "url": "http://9to5google.com/2026/04/28/google-pixel-11-tensor-g6-cpu-gpu-leak/",
       "publishedAt": "2026-04-29T01:25:00Z",
-      "processed_at": "2026-04-30T03:24:55.307806+00:00"
+      "processed_at": "2026-04-30T06:28:19.437675+00:00"
     },
     {
-      "title": "Take-Two CEO Addresses Grand Theft Auto 6 Price, and the Possibility for More L.A. Noire - IGN",
+      "title": "Save Up To 50% On Nintendo Switch Digital Games At Amazon - GameSpot",
       "source": {
-        "name": "IGN"
+        "name": "GameSpot"
       },
-      "description": "Strauss Zelnick says price of GTA 6 is being carefully considered and that Rockstar is focused on \"m...",
-      "url": "https://www.ign.com/articles/take-two-ceo-addresses-grand-theft-auto-6-price-and-the-possibility-for-more-la-noire",
-      "publishedAt": "2026-04-29T00:06:23Z",
-      "processed_at": "2026-04-30T03:24:55.307806+00:00"
+      "description": "More than a dozen digital Switch games are on sale at Amazon, including Metroid Dread and Bayonetta ...",
+      "url": "https://www.gamespot.com/articles/switch-digital-games-sale/1100-6539663/",
+      "publishedAt": "2026-04-29T00:05:56Z",
+      "processed_at": "2026-04-30T06:28:19.437675+00:00"
+    },
+    {
+      "title": "OpenAI Really Wants Codex to Shut Up About Goblins - WIRED",
+      "source": {
+        "name": "Wired"
+      },
+      "description": "“Never talk about goblins, gremlins, raccoons, trolls, ogres, pigeons, or other animals or creatures...",
+      "url": "https://www.wired.com/story/openai-really-wants-codex-to-shut-up-about-goblins/",
+      "publishedAt": "2026-04-28T23:45:00Z",
+      "processed_at": "2026-04-30T06:28:19.437675+00:00"
     },
     {
       "title": "'We've Been A Little Bit Too Romantic About The Idea That We Should Have Employees And Give People Long-term Job Security' Is An Extraordinary Thing For A Video Games CEO To Say On Record - Aftermath",
@@ -30,7 +40,7 @@
       "description": "'I've been in the industry for 20 years, and those of us who joined in the early 2000s, we had it ve...",
       "url": "https://aftermath.site/video-game-job-security/",
       "publishedAt": "2026-04-28T22:46:25Z",
-      "processed_at": "2026-04-30T03:24:55.307806+00:00"
+      "processed_at": "2026-04-30T06:28:19.437675+00:00"
     },
     {
       "title": "Hatsune Miku gets glowing fishing rod and reel in wild new collab - Dexerto",
@@ -40,7 +50,7 @@
       "description": "Hatsune Miku is officially getting her own fishing gear, because apparently even the virtual pop sta...",
       "url": "https://www.dexerto.com/entertainment/hatsune-miku-gets-glowing-fishing-rod-and-reel-in-wild-new-collab-3357801/",
       "publishedAt": "2026-04-28T22:17:34Z",
-      "processed_at": "2026-04-30T03:24:55.307806+00:00"
+      "processed_at": "2026-04-30T06:28:19.437675+00:00"
     },
     {
       "title": "Rupaul's Drag Race Subreddit Has Banned Tomodachi Life Posts - Kotaku",
@@ -50,7 +60,17 @@
       "description": "Don't ban mii...",
       "url": "https://kotaku.com/rupauls-drag-race-subreddit-banned-tomodachi-life-2000691381",
       "publishedAt": "2026-04-28T22:05:23Z",
-      "processed_at": "2026-04-30T03:24:55.307806+00:00"
+      "processed_at": "2026-04-30T06:28:19.437675+00:00"
+    },
+    {
+      "title": "An L.A. Noire Return? Take-Two CEO Strauss Zelnick Hints At Something New - Insider Gaming",
+      "source": {
+        "name": "Insider-gaming.com"
+      },
+      "description": "Could L.A. Noire make a comeback? Take-Two CEO Strauss Zelnick seemed to suggest as much during a re...",
+      "url": "https://insider-gaming.com/an-l-a-noire-return-take-two-ceo-strauss-zelnick-hints-at-something-new/",
+      "publishedAt": "2026-04-28T20:20:38Z",
+      "processed_at": "2026-04-30T06:28:19.437675+00:00"
     },
     {
       "title": "Denuvo Responds to Day-Zero DRM Hypervisor Crack: \"We're Already Working on Updated Security Versions\" - TechPowerUp",
@@ -60,37 +80,7 @@
       "description": "A Hypervisor bypass recently appeared giving game crackers an alternative way to circumvent protecti...",
       "url": "https://www.techpowerup.com/348609/denuvo-responds-to-day-zero-drm-hypervisor-crack-were-already-working-on-updated-security-versions",
       "publishedAt": "2026-04-28T20:08:59Z",
-      "processed_at": "2026-04-30T03:24:55.307806+00:00"
-    },
-    {
-      "title": "Want to Max Out The Blood of Dawnwalker at 4K on PC? It'll Cost You at Least $3,000 - IGN",
-      "source": {
-        "name": "IGN"
-      },
-      "description": "",
-      "url": "https://www.ign.com/articles/the-blood-of-dawnwalker-specs-rtx-5090-4k-max-setting",
-      "publishedAt": "2026-04-28T20:02:11Z",
-      "processed_at": "2026-04-30T03:24:55.307806+00:00"
-    },
-    {
-      "title": "New Mario Coffins Will Make Fans Think Twice About Cremation - Kotaku",
-      "source": {
-        "name": "Kotaku"
-      },
-      "description": "Mario will live forever, but we won't....",
-      "url": "https://kotaku.com/super-mario-bros-themed-coffins-2000691343",
-      "publishedAt": "2026-04-28T19:59:57Z",
-      "processed_at": "2026-04-30T03:24:55.307806+00:00"
-    },
-    {
-      "title": "Garry’s Mod Successor s&box Releases To Mixed Steam Reviews And An Influx Of AI Slop - Kotaku",
-      "source": {
-        "name": "Kotaku"
-      },
-      "description": "Also: is L.A. Noire 2 still on the table?...",
-      "url": "https://kotaku.com/garrys-mod-sbox-steam-reviews-facepunch-ai-2000691298",
-      "publishedAt": "2026-04-28T19:31:32Z",
-      "processed_at": "2026-04-30T03:24:55.307806+00:00"
+      "processed_at": "2026-04-30T06:28:19.437675+00:00"
     },
     {
       "title": "35.2.2 Patch Notes - Blizzard Entertainment",
@@ -100,10 +90,10 @@
       "description": "Check out the balance updates coming for Hearthstone and Battlegrounds....",
       "url": "https://playhearthstone.com/en-gb/blog/24252014/",
       "publishedAt": "2026-04-28T19:30:00Z",
-      "processed_at": "2026-04-30T03:24:55.307806+00:00"
+      "processed_at": "2026-04-30T06:28:19.437675+00:00"
     }
   ],
-  "lastUpdated": "2026-04-30T03:24:55.307881+00:00",
+  "lastUpdated": "2026-04-30T06:28:19.437738+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
