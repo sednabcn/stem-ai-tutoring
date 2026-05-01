@@ -1,26 +1,76 @@
 {
   "status": "success",
-  "totalResults": 10,
+  "totalResults": 8,
   "articles": [
     {
-      "title": "Introducing Mood Swings - Magic: The Gathering",
+      "title": "Apex Legends Season 29 patch notes: New Legend Axle, Deathbox Respawns, buffs and nerfs - Dexerto",
       "source": {
-        "name": "Wizards.com"
+        "name": "Dexerto"
       },
-      "description": "Mark introduces and shares excitement for his brand-new trading card game, Mood Swings....",
-      "url": "https://magic.wizards.com/en/news/announcements/introducing-mood-swings",
-      "publishedAt": "2026-04-30T16:05:42Z",
-      "processed_at": "2026-05-01T17:58:47.036090+00:00"
+      "description": "Here’s everything coming to Season 29 of Apex Legends, including a new hypermobile legend, changes t...",
+      "url": "https://www.dexerto.com/apex-legends/apex-legends-season-29-patch-notes-3358938/",
+      "publishedAt": "2026-04-30T18:13:47Z",
+      "processed_at": "2026-05-01T19:23:23.085881+00:00"
     },
     {
-      "title": "Playing 007: First Light makes me wonder if it's actually possible to nail James Bond - but IOI has made a cracking attempt - Eurogamer.net",
+      "title": "Steam's Most Wishlisted Game Is Skipping PS5 for Now - Push Square",
       "source": {
-        "name": "Eurogamer.net"
+        "name": "Push Square"
+      },
+      "description": "But it's a miracle Subnautica 2 is launching at all...",
+      "url": "https://www.pushsquare.com/news/2026/04/steams-most-wishlisted-game-is-skipping-ps5-for-now",
+      "publishedAt": "2026-04-30T17:00:00Z",
+      "processed_at": "2026-05-01T19:23:23.085881+00:00"
+    },
+    {
+      "title": "Wizards of the Coast Is Making a Brand New Trading Card Game - Gizmodo",
+      "source": {
+        "name": "Gizmodo.com"
+      },
+      "description": "Almost 30 years in the making, 'Mood Swings' wants to deliver a smaller, quicker, and more accessibl...",
+      "url": "https://gizmodo.com/magic-the-gathering-mood-swings-reveal-wizards-of-the-coast-2000752647",
+      "publishedAt": "2026-04-30T16:05:43Z",
+      "processed_at": "2026-05-01T19:23:23.085881+00:00"
+    },
+    {
+      "title": "Gemini is rolling out to cars with Google built-in - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "Google is preparing to update vehicles that have Google built-in with its Gemini AI assistant....",
+      "url": "https://www.theverge.com/tech/921117/google-gemini-ai-assistant-cars-upgrade",
+      "publishedAt": "2026-04-30T16:00:00Z",
+      "processed_at": "2026-05-01T19:23:23.085881+00:00"
+    },
+    {
+      "title": "Microsoft’s DLSS competitor is now available on the Xbox Ally X handheld - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "Microsoft is starting to test Auto SR, its answer to Nvidia’s DLSS. Xbox Insiders can now test Auto ...",
+      "url": "https://www.theverge.com/news/921112/microsoft-auto-sr-xbox-ally-x-preview",
+      "publishedAt": "2026-04-30T16:00:00Z",
+      "processed_at": "2026-05-01T19:23:23.085881+00:00"
+    },
+    {
+      "title": "Free Play Days – Predator: Hunting Grounds, Railway Empire 2, Dragon Ball FighterZ and NBA Bounce - Xbox Wire",
+      "source": {
+        "name": "Xbox.com"
       },
       "description": "",
-      "url": "https://www.eurogamer.net/007-first-light-game-preview-james-bond-hands-on-interview",
-      "publishedAt": "2026-04-30T15:01:36Z",
-      "processed_at": "2026-05-01T17:58:47.036090+00:00"
+      "url": "https://news.xbox.com/en-us/2026/04/30/free-play-days-04-30-2026/",
+      "publishedAt": "2026-04-30T15:03:14Z",
+      "processed_at": "2026-05-01T19:23:23.085881+00:00"
+    },
+    {
+      "title": "Porsche Penske to Run Apple Retro-Inspired Liveries at Laguna - Sportscar365",
+      "source": {
+        "name": "Sportscar365"
+      },
+      "description": "Pair of Penske Porsche 963s to sport Apple rainbow colors from 1980 Porsche 935 K3......",
+      "url": "https://sportscar365.com/imsa/iwsc/porsche-penske-to-run-apple-retro-inspired-liveries/",
+      "publishedAt": "2026-04-30T15:03:01Z",
+      "processed_at": "2026-05-01T19:23:23.085881+00:00"
     },
     {
       "title": "Indiana Jones and the Great Circle gets first Nintendo Switch 2 gameplay - Nintendo Everything",
@@ -30,80 +80,10 @@
       "description": "The first pure gameplay for the upcoming Nintendo Switch 2 version of Indiana Jones and the Great Ci...",
       "url": "https://nintendoeverything.com/indiana-jones-and-the-great-circle-gets-first-nintendo-switch-2-gameplay/",
       "publishedAt": "2026-04-30T14:15:59Z",
-      "processed_at": "2026-05-01T17:58:47.036090+00:00"
-    },
-    {
-      "title": "The New ‘Diablo 4: Lord Of Hatred’ Skill Trees Have One Weird Problem - Forbes",
-      "source": {
-        "name": "Forbes"
-      },
-      "description": "Diablo 4 has made some cool changes to its skill trees, but has mangled the entire point of a skill ...",
-      "url": "https://www.forbes.com/sites/paultassi/2026/04/30/the-new-diablo-4-lord-of-hatred-skill-trees-have-one-weird-problem/",
-      "publishedAt": "2026-04-30T13:29:19Z",
-      "processed_at": "2026-05-01T17:58:47.036090+00:00"
-    },
-    {
-      "title": "The Pokémon TCG: Mega Evolution—Pitch Black Expansion Arrives July 17, 2026 - Pokemon.com",
-      "source": {
-        "name": "Pokemon.com"
-      },
-      "description": "Menacing Mega Evolution Pokémon debut in Mega Evolution—Pitch Black....",
-      "url": "https://www.pokemon.com/us/pokemon-news/the-pokemon-tcg-mega-evolution-pitch-black-expansion-arrives-july-17-2026",
-      "publishedAt": "2026-04-30T13:18:08Z",
-      "processed_at": "2026-05-01T17:58:47.036090+00:00"
-    },
-    {
-      "title": "Samsung reportedly prepares Galaxy Book laptops running Android with One UI 9 skin - 9to5Google",
-      "source": {
-        "name": "9to5google.com"
-      },
-      "description": "As Google’s “Aluminium” OS slowly makes it way to launch, a new report reveals that Samsung is prepa...",
-      "url": "http://9to5google.com/2026/04/30/samsung-galaxy-book-android-laptops-report/",
-      "publishedAt": "2026-04-30T13:10:00Z",
-      "processed_at": "2026-05-01T17:58:47.036090+00:00"
-    },
-    {
-      "title": "Famitsu sales (4/20/26 - 4/26/26) - first week sales revealed for Pragmata on Nintendo Switch 2 - Nintendo Everything",
-      "source": {
-        "name": "Nintendoeverything.com"
-      },
-      "description": "The latest Japanese hardware sales from Famitsu are as follows: Switch 2 – 45,825 Switch Lite – 11,2...",
-      "url": "https://nintendoeverything.com/famitsu-sales-4-20-26-4-26-26-first-week-sales-revealed-for-pragmata-on-nintendo-switch-2/",
-      "publishedAt": "2026-04-30T13:05:59Z",
-      "processed_at": "2026-05-01T17:58:47.036090+00:00"
-    },
-    {
-      "title": "Xbox Presents: A Special Look at Stranger Than Heaven Airs Next Wednesday - Here’s Everything You Need to Know - Xbox Wire",
-      "source": {
-        "name": "Xbox.com"
-      },
-      "description": "Tune in next Wednesday for Xbox Presents: A Special Look at Stranger Than Heaven – here are all the ...",
-      "url": "https://news.xbox.com/en-us/2026/04/30/xbox-presents-stranger-than-heaven-details-how-to-watch/",
-      "publishedAt": "2026-04-30T13:03:18Z",
-      "processed_at": "2026-05-01T17:58:47.036090+00:00"
-    },
-    {
-      "title": "A PvE Analysis of Steeled Resolve: Taken Over - Pokémon GO Hub",
-      "source": {
-        "name": "Pokemon GO Hub"
-      },
-      "description": "Welcome, Trainers! Another Team GO Rocket takeover is here, and this time it’s the Steeled Resolve: ...",
-      "url": "https://pokemongohub.net/post/meta/a-pve-analysis-of-steeled-resolve-taken-over/",
-      "publishedAt": "2026-04-30T12:35:31Z",
-      "processed_at": "2026-05-01T17:58:47.036090+00:00"
-    },
-    {
-      "title": "Take-Two Interactive’s Strauss Zelnick on ‘GTA 6’ Jitters, Zynga’s Turnaround and Investing in Original Properties - Variety",
-      "source": {
-        "name": "Variety"
-      },
-      "description": "Take-Two CEO Strauss Zelnick addressed the pressure around the release of 'GTA 6' and Zynga's turnar...",
-      "url": "https://variety.com/2026/gaming/news/gta-6-take-two-strauss-zelnick-zynga-iicon-conference-1236733784/",
-      "publishedAt": "2026-04-30T12:30:00Z",
-      "processed_at": "2026-05-01T17:58:47.036090+00:00"
+      "processed_at": "2026-05-01T19:23:23.085881+00:00"
     }
   ],
-  "lastUpdated": "2026-05-01T17:58:47.036168+00:00",
+  "lastUpdated": "2026-05-01T19:23:23.085955+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
