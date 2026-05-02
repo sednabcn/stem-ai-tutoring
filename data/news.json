@@ -1,7 +1,27 @@
 {
   "status": "success",
-  "totalResults": 10,
+  "totalResults": 9,
   "articles": [
+    {
+      "title": "Linux Kernel 0-Day \"Copy Fail\" Roots Every Major Distribution Since 2017 - CyberSecurityNews",
+      "source": {
+        "name": "Cybersecuritynews.com"
+      },
+      "description": "A critical zero-day vulnerability in the Linux kernel has been publicly disclosed, enabling any unpr...",
+      "url": "https://cybersecuritynews.com/linux-kernel-0-day-copy-fail/",
+      "publishedAt": "2026-05-01T21:59:37Z",
+      "processed_at": "2026-05-02T23:46:59.908554+00:00"
+    },
+    {
+      "title": "Despite saying otherwise, Mai Shiranui and Kula Diamond are coming back for Dead or Alive 6: Last Round, but there's a catch - EventHubs",
+      "source": {
+        "name": "EventHubs"
+      },
+      "description": "It's already been almost three months since we first learned about the revival of Dead or Alive, but...",
+      "url": "https://www.eventhubs.com/news/2026/may/01/mai-kula-doa6-last-round/",
+      "publishedAt": "2026-05-01T20:53:10Z",
+      "processed_at": "2026-05-02T23:46:59.908554+00:00"
+    },
     {
       "title": "Warhammer 40,000: Armageddon Unboxing – The Space Marines - Warhammer Community",
       "source": {
@@ -10,37 +30,17 @@
       "description": "What are the Angels of Death bringing to Armageddon?...",
       "url": "https://www.warhammer-community.com/articles/kunoahk1/warhammer-40000-armageddon-unboxing-the-space-marines",
       "publishedAt": "2026-05-01T18:57:52Z",
-      "processed_at": "2026-05-02T22:44:10.916585+00:00"
+      "processed_at": "2026-05-02T23:46:59.908554+00:00"
     },
     {
-      "title": "Are The Expanse and Exodus the True Heirs to Mass Effect? - IGN",
+      "title": "ChatGPT Became So Obsessed With Goblins That OpenAI Had to Intervene - WSJ",
       "source": {
-        "name": "IGN"
+        "name": "The Wall Street Journal"
       },
-      "description": "We take a closer look at upcoming Mass Effect-likes The Expanse: Osiris Reborn and Exodus to work ou...",
-      "url": "https://www.ign.com/articles/are-the-expanse-and-exodus-the-true-heirs-to-mass-effect",
-      "publishedAt": "2026-05-01T17:04:55Z",
-      "processed_at": "2026-05-02T22:44:10.916585+00:00"
-    },
-    {
-      "title": "This accessory can snap a Steam Controller to your phone — or almost anything else - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "Accessories maker Mechanism is launching a Basegrip for the Steam Controller so you can mount the co...",
-      "url": "https://www.theverge.com/games/921823/valve-steam-controller-mechanism-mounts-basegrip-dock",
-      "publishedAt": "2026-05-01T17:00:00Z",
-      "processed_at": "2026-05-02T22:44:10.916585+00:00"
-    },
-    {
-      "title": "NASA’s Lithium-Fed Nuclear Thruster Flares to Life in First of Its Kind Test - Gizmodo",
-      "source": {
-        "name": "Gizmodo.com"
-      },
-      "description": "The next-generation thruster could one day propel humans to Mars....",
-      "url": "https://gizmodo.com/nasas-lithium-fed-nuclear-thruster-flares-to-life-in-first-of-its-kind-test-2000753195",
-      "publishedAt": "2026-05-01T16:35:04Z",
-      "processed_at": "2026-05-02T22:44:10.916585+00:00"
+      "description": "",
+      "url": "https://www.wsj.com/tech/ai/chatgpt-became-so-obsessed-with-goblins-that-openai-had-to-intervene-a6644e66",
+      "publishedAt": "2026-05-01T17:16:00Z",
+      "processed_at": "2026-05-02T23:46:59.908554+00:00"
     },
     {
       "title": "Watch Out For Those Fees - Defector",
@@ -50,7 +50,7 @@
       "description": "Obviously, going to print with piddly retail squabbles is the stuff of hacks. But I’m hacky enough, ...",
       "url": "https://defector.com/watch-out-for-those-fees",
       "publishedAt": "2026-05-01T16:33:00Z",
-      "processed_at": "2026-05-02T22:44:10.916585+00:00"
+      "processed_at": "2026-05-02T23:46:59.908554+00:00"
     },
     {
       "title": "Next year’s iPhone Pro models could get all-new design, quad-curved display - 9to5Mac",
@@ -60,7 +60,7 @@
       "description": "Apple’s rumored 20th anniversary iPhone might actually just be an all-new design that’s coming to ne...",
       "url": "https://9to5mac.com/2026/05/01/next-years-iphone-pro-models-could-get-all-new-design-quad-curved-display/",
       "publishedAt": "2026-05-01T16:17:00Z",
-      "processed_at": "2026-05-02T22:44:10.916585+00:00"
+      "processed_at": "2026-05-02T23:46:59.908554+00:00"
     },
     {
       "title": "Apple Was Caught Off Guard by MacBook Neo's 'Off the Charts' Demand - MacRumors",
@@ -70,7 +70,7 @@
       "description": "Apple's most affordable MacBook ever appears to be a resounding hit with customers, based on comment...",
       "url": "https://www.macrumors.com/2026/05/01/apple-was-caught-off-guard-by-macbook-neo/",
       "publishedAt": "2026-05-01T16:06:04Z",
-      "processed_at": "2026-05-02T22:44:10.916585+00:00"
+      "processed_at": "2026-05-02T23:46:59.908554+00:00"
     },
     {
       "title": "Apple plans ‘aggressive pricing’ for iPhone 18 Pro models, per report - 9to5Mac",
@@ -80,17 +80,7 @@
       "description": "Rising memory costs have led to price increases on many Android smartphones, but in a new report, an...",
       "url": "https://9to5mac.com/2026/05/01/apple-plans-aggressive-pricing-for-iphone-18-pro-models-per-report/",
       "publishedAt": "2026-05-01T15:51:00Z",
-      "processed_at": "2026-05-02T22:44:10.916585+00:00"
-    },
-    {
-      "title": "Final Fantasy 7 Rebirth confirms Nintendo Switch 2 resolution, dev talks hair rendering changes - Nintendo Everything",
-      "source": {
-        "name": "Nintendoeverything.com"
-      },
-      "description": "Wondering what to expect from the resolution of Final Fantasy 7 Rebirth on Nintendo Switch 2? Thanks...",
-      "url": "https://nintendoeverything.com/final-fantasy-7-rebirth-confirms-nintendo-switch-2-resolution-dev-talks-hair-rendering-changes/",
-      "publishedAt": "2026-05-01T15:47:33Z",
-      "processed_at": "2026-05-02T22:44:10.916585+00:00"
+      "processed_at": "2026-05-02T23:46:59.908554+00:00"
     },
     {
       "title": "Google releases experimental ‘COSMO’ AI assistant app on Play Store - 9to5Google",
@@ -100,10 +90,10 @@
       "description": "Yesterday, Google published “COSMO,” an “experimental AI assistant application for Android devices” ...",
       "url": "http://9to5google.com/2026/05/01/google-cosmo-assistant/",
       "publishedAt": "2026-05-01T15:36:00Z",
-      "processed_at": "2026-05-02T22:44:10.916585+00:00"
+      "processed_at": "2026-05-02T23:46:59.908554+00:00"
     }
   ],
-  "lastUpdated": "2026-05-02T22:44:10.916666+00:00",
+  "lastUpdated": "2026-05-02T23:46:59.908628+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
