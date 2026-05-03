@@ -1,16 +1,66 @@
 {
   "status": "success",
-  "totalResults": 9,
+  "totalResults": 10,
   "articles": [
     {
-      "title": "Melty Blood: ﻿Twi-Lumina Announced For Switch 1 & 2, Out \"Early 2027\" - Nintendo Life",
+      "title": "Old-School iPods Are Making A Comeback Thanks To A Gen Z Loophole - bgr.com",
       "source": {
-        "name": "Nintendo Life"
+        "name": "BGR"
       },
-      "description": "\"Type Lumina is back and better than ever\"...",
-      "url": "https://www.nintendolife.com/news/2026/05/melty-blood-twi-lumina-announced-for-switch-1-and-2-out-early-2027",
-      "publishedAt": "2026-05-02T05:00:00Z",
-      "processed_at": "2026-05-03T11:43:27.430393+00:00"
+      "description": "Old-school iPods are popular with Gen Z, partly because they have no connectivity. That means they c...",
+      "url": "https://www.bgr.com/2158017/ipods-making-comeback-thanks-to-gen-z-loophole/",
+      "publishedAt": "2026-05-02T10:17:00Z",
+      "processed_at": "2026-05-03T13:14:53.491989+00:00"
+    },
+    {
+      "title": "Google is finally fixing its most annoying design mistake - Android Police",
+      "source": {
+        "name": "Android Police"
+      },
+      "description": "I can finally tell Google's apps apart again...",
+      "url": "https://www.androidpolice.com/google-is-finally-fixing-its-most-annoying-design-mistake/",
+      "publishedAt": "2026-05-02T10:00:11Z",
+      "processed_at": "2026-05-03T13:14:53.491989+00:00"
+    },
+    {
+      "title": "5 Summer Tires That Outperform Michelin In Price And Performance - SlashGear",
+      "source": {
+        "name": "SlashGear"
+      },
+      "description": "Michelin tires frequently dominate just about every tire test you can think of, but nowadays, there ...",
+      "url": "https://www.slashgear.com/2157790/summer-tires-that-outperform-michelin-price-performance/",
+      "publishedAt": "2026-05-02T09:45:00Z",
+      "processed_at": "2026-05-03T13:14:53.491989+00:00"
+    },
+    {
+      "title": "Private or not, I couldn't live with the S26 Ultra's screen - Android Authority",
+      "source": {
+        "name": "Android Authority"
+      },
+      "description": "The Privacy Display on the Galaxy S26 Ultra is an impressive feat of engineering, but as much as I w...",
+      "url": "https://www.androidauthority.com/couldnt-live-with-s26-screen-3660952/",
+      "publishedAt": "2026-05-02T09:06:41Z",
+      "processed_at": "2026-05-03T13:14:53.491989+00:00"
+    },
+    {
+      "title": "Crimson Desert Update 1.05.00 Out Now — Check Out the Patch Notes - IGN",
+      "source": {
+        "name": "IGN"
+      },
+      "description": "Crimson Desert developer Pearl Abyss has dropped another major patch for the game, this time adding ...",
+      "url": "https://www.ign.com/articles/crimson-desert-gets-major-patch-designed-for-players-whod-made-pywel-too-peaceful-because-theyd-killed-all-the-enemies",
+      "publishedAt": "2026-05-02T05:57:00Z",
+      "processed_at": "2026-05-03T13:14:53.491989+00:00"
+    },
+    {
+      "title": "Your Roku TV is watching you — 3 settings to change right now - Tom's Guide",
+      "source": {
+        "name": "Tom's Guide"
+      },
+      "description": "The hidden Roku settings that are snitching on your viewing habits...",
+      "url": "https://www.tomsguide.com/entertainment/streaming-devices/how-to-stop-your-roku-from-tracking-everything-you-watch",
+      "publishedAt": "2026-05-02T05:02:00Z",
+      "processed_at": "2026-05-03T13:14:53.491989+00:00"
     },
     {
       "title": "Mr. Karate revealed for Fatal Fury: City of the Wolves though he looks a bit different now - EventHubs",
@@ -20,7 +70,17 @@
       "description": "Although it just began months ago, Fatal Fury: City of the Wolves is quickly approaching the end of ...",
       "url": "https://www.eventhubs.com/news/2026/may/01/mr-karate-fatal-fury-reveal/",
       "publishedAt": "2026-05-02T00:00:21Z",
-      "processed_at": "2026-05-03T11:43:27.430393+00:00"
+      "processed_at": "2026-05-03T13:14:53.491989+00:00"
+    },
+    {
+      "title": "Super Mario Galaxy 2’s new storybook epilogue explained - Nintendo Everything",
+      "source": {
+        "name": "Nintendoeverything.com"
+      },
+      "description": "Super Mario Galaxy 2 has added a new chapter of Rosalina's Storybook. Here's what it could mean for ...",
+      "url": "https://nintendoeverything.com/super-mario-galaxy-2s-new-storybook-epilogue-explained/",
+      "publishedAt": "2026-05-01T23:02:33Z",
+      "processed_at": "2026-05-03T13:14:53.491989+00:00"
     },
     {
       "title": "Google Photos' New AI Tool Will Help You Picture Yourself in All Your Clothes - CNET",
@@ -30,7 +90,7 @@
       "description": "The Google Photos wardrobe feature uses AI to scan your camera roll and create a digital version of ...",
       "url": "https://www.cnet.com/tech/services-and-software/google-photos-wardrobe-ai-try-on-feature/",
       "publishedAt": "2026-05-01T22:53:00Z",
-      "processed_at": "2026-05-03T11:43:27.430393+00:00"
+      "processed_at": "2026-05-03T13:14:53.491989+00:00"
     },
     {
       "title": "NASA to increase value of CLPS contract to support surge of lunar lander missions - SpaceNews",
@@ -40,60 +100,10 @@
       "description": "NASA is planning to increase the total value of a contract for robotic lunar lander missions to supp...",
       "url": "http://spacenews.com/nasa-to-increase-value-of-clps-contract-to-support-surge-of-lunar-lander-missions/",
       "publishedAt": "2026-05-01T22:43:05Z",
-      "processed_at": "2026-05-03T11:43:27.430393+00:00"
-    },
-    {
-      "title": "Study: AI models that consider user's feeling are more likely to make errors - Ars Technica",
-      "source": {
-        "name": "Ars Technica"
-      },
-      "description": "Overtuning can cause models to \"prioritize user satisfaction over truthfulness.”......",
-      "url": "https://arstechnica.com/ai/2026/05/study-ai-models-that-consider-users-feeling-are-more-likely-to-make-errors/",
-      "publishedAt": "2026-05-01T22:23:36Z",
-      "processed_at": "2026-05-03T11:43:27.430393+00:00"
-    },
-    {
-      "title": "The RAMpocalypse has bought Microsoft valuable time in the fight against SteamOS - Ars Technica",
-      "source": {
-        "name": "Ars Technica"
-      },
-      "description": "Op-ed: Valve has made a dent in Windows' gaming share, but can it keep going?...",
-      "url": "https://arstechnica.com/gaming/2026/05/the-rampocalypse-has-bought-microsoft-valuable-time-in-the-fight-against-steamos/",
-      "publishedAt": "2026-05-01T22:00:59Z",
-      "processed_at": "2026-05-03T11:43:27.430393+00:00"
-    },
-    {
-      "title": "Subnautica 2’s System Requirements Could Have You Diving for a Little Extra RAM Just to Reach 30FPS at 1080p - Wccftech",
-      "source": {
-        "name": "Wccftech"
-      },
-      "description": "Unknown Worlds has revealed Subnautica 2's PC system requirements, and they may have players with ol...",
-      "url": "https://wccftech.com/subnautica-2-pc-requirements/",
-      "publishedAt": "2026-05-01T19:40:00Z",
-      "processed_at": "2026-05-03T11:43:27.430393+00:00"
-    },
-    {
-      "title": "Warhammer 40,000: Armageddon Unboxing – The Space Marines - Warhammer Community",
-      "source": {
-        "name": "Warhammer-community.com"
-      },
-      "description": "What are the Angels of Death bringing to Armageddon?...",
-      "url": "https://www.warhammer-community.com/articles/kunoahk1/warhammer-40000-armageddon-unboxing-the-space-marines",
-      "publishedAt": "2026-05-01T18:57:52Z",
-      "processed_at": "2026-05-03T11:43:27.430393+00:00"
-    },
-    {
-      "title": "30,000 Facebook Accounts Hacked via Google AppSheet Phishing Campaign - The Hacker News",
-      "source": {
-        "name": "Internet"
-      },
-      "description": "30,000 Facebook accounts hacked via AppSheet phishing emails, exploiting Meta lures, leading to larg...",
-      "url": "https://thehackernews.com/2026/05/30000-facebook-accounts-hacked-via.html",
-      "publishedAt": "2026-05-01T18:09:00Z",
-      "processed_at": "2026-05-03T11:43:27.430393+00:00"
+      "processed_at": "2026-05-03T13:14:53.491989+00:00"
     }
   ],
-  "lastUpdated": "2026-05-03T11:43:27.430468+00:00",
+  "lastUpdated": "2026-05-03T13:14:53.492059+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
