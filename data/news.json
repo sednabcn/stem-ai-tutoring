@@ -3,24 +3,24 @@
   "totalResults": 9,
   "articles": [
     {
-      "title": "Linux Kernel 0-Day \"Copy Fail\" Roots Every Major Distribution Since 2017 - CyberSecurityNews",
+      "title": "Study: AI models that consider user's feeling are more likely to make errors - Ars Technica",
       "source": {
-        "name": "Cybersecuritynews.com"
+        "name": "Ars Technica"
       },
-      "description": "A critical zero-day vulnerability in the Linux kernel has been publicly disclosed, enabling any unpr...",
-      "url": "https://cybersecuritynews.com/linux-kernel-0-day-copy-fail/",
-      "publishedAt": "2026-05-01T21:59:37Z",
-      "processed_at": "2026-05-02T23:46:59.908554+00:00"
+      "description": "Overtuning can cause models to \"prioritize user satisfaction over truthfulness.”......",
+      "url": "https://arstechnica.com/ai/2026/05/study-ai-models-that-consider-users-feeling-are-more-likely-to-make-errors/",
+      "publishedAt": "2026-05-01T22:23:36Z",
+      "processed_at": "2026-05-03T03:26:39.007201+00:00"
     },
     {
-      "title": "Despite saying otherwise, Mai Shiranui and Kula Diamond are coming back for Dead or Alive 6: Last Round, but there's a catch - EventHubs",
+      "title": "The RAMpocalypse has bought Microsoft valuable time in the fight against SteamOS - Ars Technica",
       "source": {
-        "name": "EventHubs"
+        "name": "Ars Technica"
       },
-      "description": "It's already been almost three months since we first learned about the revival of Dead or Alive, but...",
-      "url": "https://www.eventhubs.com/news/2026/may/01/mai-kula-doa6-last-round/",
-      "publishedAt": "2026-05-01T20:53:10Z",
-      "processed_at": "2026-05-02T23:46:59.908554+00:00"
+      "description": "Op-ed: Valve has made a dent in Windows' gaming share, but can it keep going?...",
+      "url": "https://arstechnica.com/gaming/2026/05/the-rampocalypse-has-bought-microsoft-valuable-time-in-the-fight-against-steamos/",
+      "publishedAt": "2026-05-01T22:00:59Z",
+      "processed_at": "2026-05-03T03:26:39.007201+00:00"
     },
     {
       "title": "Warhammer 40,000: Armageddon Unboxing – The Space Marines - Warhammer Community",
@@ -30,17 +30,27 @@
       "description": "What are the Angels of Death bringing to Armageddon?...",
       "url": "https://www.warhammer-community.com/articles/kunoahk1/warhammer-40000-armageddon-unboxing-the-space-marines",
       "publishedAt": "2026-05-01T18:57:52Z",
-      "processed_at": "2026-05-02T23:46:59.908554+00:00"
+      "processed_at": "2026-05-03T03:26:39.007201+00:00"
     },
     {
-      "title": "ChatGPT Became So Obsessed With Goblins That OpenAI Had to Intervene - WSJ",
+      "title": "Severe Linux Copy Fail security flaw uncovered using AI scanning help - The Verge",
       "source": {
-        "name": "The Wall Street Journal"
+        "name": "The Verge"
       },
-      "description": "",
-      "url": "https://www.wsj.com/tech/ai/chatgpt-became-so-obsessed-with-goblins-that-openai-had-to-intervene-a6644e66",
-      "publishedAt": "2026-05-01T17:16:00Z",
-      "processed_at": "2026-05-02T23:46:59.908554+00:00"
+      "description": "The CVE-2026-31431 “Copy Fail” exploit affects nearly all recent Linux distributions, giving attacke...",
+      "url": "https://www.theverge.com/tech/922243/linux-cve-2026-3141-copy-fail-exploit",
+      "publishedAt": "2026-05-01T16:55:16Z",
+      "processed_at": "2026-05-03T03:26:39.007201+00:00"
+    },
+    {
+      "title": "NASA’s Lithium-Fed Nuclear Thruster Flares to Life in First of Its Kind Test - Gizmodo",
+      "source": {
+        "name": "Gizmodo.com"
+      },
+      "description": "The next-generation thruster could one day propel humans to Mars....",
+      "url": "https://gizmodo.com/nasas-lithium-fed-nuclear-thruster-flares-to-life-in-first-of-its-kind-test-2000753195",
+      "publishedAt": "2026-05-01T16:35:04Z",
+      "processed_at": "2026-05-03T03:26:39.007201+00:00"
     },
     {
       "title": "Watch Out For Those Fees - Defector",
@@ -50,7 +60,7 @@
       "description": "Obviously, going to print with piddly retail squabbles is the stuff of hacks. But I’m hacky enough, ...",
       "url": "https://defector.com/watch-out-for-those-fees",
       "publishedAt": "2026-05-01T16:33:00Z",
-      "processed_at": "2026-05-02T23:46:59.908554+00:00"
+      "processed_at": "2026-05-03T03:26:39.007201+00:00"
     },
     {
       "title": "Next year’s iPhone Pro models could get all-new design, quad-curved display - 9to5Mac",
@@ -60,7 +70,7 @@
       "description": "Apple’s rumored 20th anniversary iPhone might actually just be an all-new design that’s coming to ne...",
       "url": "https://9to5mac.com/2026/05/01/next-years-iphone-pro-models-could-get-all-new-design-quad-curved-display/",
       "publishedAt": "2026-05-01T16:17:00Z",
-      "processed_at": "2026-05-02T23:46:59.908554+00:00"
+      "processed_at": "2026-05-03T03:26:39.007201+00:00"
     },
     {
       "title": "Apple Was Caught Off Guard by MacBook Neo's 'Off the Charts' Demand - MacRumors",
@@ -70,30 +80,20 @@
       "description": "Apple's most affordable MacBook ever appears to be a resounding hit with customers, based on comment...",
       "url": "https://www.macrumors.com/2026/05/01/apple-was-caught-off-guard-by-macbook-neo/",
       "publishedAt": "2026-05-01T16:06:04Z",
-      "processed_at": "2026-05-02T23:46:59.908554+00:00"
+      "processed_at": "2026-05-03T03:26:39.007201+00:00"
     },
     {
-      "title": "Apple plans ‘aggressive pricing’ for iPhone 18 Pro models, per report - 9to5Mac",
+      "title": "Thinner than a hair and stretchy like rubber: New material could shield against radiation in next-gen space tech - Space",
       "source": {
-        "name": "9to5Mac"
+        "name": "Space.com"
       },
-      "description": "Rising memory costs have led to price increases on many Android smartphones, but in a new report, an...",
-      "url": "https://9to5mac.com/2026/05/01/apple-plans-aggressive-pricing-for-iphone-18-pro-models-per-report/",
-      "publishedAt": "2026-05-01T15:51:00Z",
-      "processed_at": "2026-05-02T23:46:59.908554+00:00"
-    },
-    {
-      "title": "Google releases experimental ‘COSMO’ AI assistant app on Play Store - 9to5Google",
-      "source": {
-        "name": "9to5google.com"
-      },
-      "description": "Yesterday, Google published “COSMO,” an “experimental AI assistant application for Android devices” ...",
-      "url": "http://9to5google.com/2026/05/01/google-cosmo-assistant/",
-      "publishedAt": "2026-05-01T15:36:00Z",
-      "processed_at": "2026-05-02T23:46:59.908554+00:00"
+      "description": "It can even be 3D-printed....",
+      "url": "https://www.space.com/technology/thinner-than-a-hair-and-stretchy-like-rubber-new-material-could-shield-against-radiation-in-next-gen-space-tech",
+      "publishedAt": "2026-05-01T16:00:00Z",
+      "processed_at": "2026-05-03T03:26:39.007201+00:00"
     }
   ],
-  "lastUpdated": "2026-05-02T23:46:59.908628+00:00",
+  "lastUpdated": "2026-05-03T03:26:39.007287+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
