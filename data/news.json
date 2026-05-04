@@ -3,6 +3,26 @@
   "totalResults": 10,
   "articles": [
     {
+      "title": "Marvel Snap studio insists: \"This is us making hard decisions to keep going, not a sign we're winding down\" - Eurogamer.net",
+      "source": {
+        "name": "Eurogamer.net"
+      },
+      "description": "Marvel Snap developer Second Dinner has assured fans \"we're still here\" after high-profile exits tri...",
+      "url": "https://www.eurogamer.net/marvel-snap-studio-insists-this-is-us-making-hard-decisions-to-keep-going-not-a-sign-were-winding-down",
+      "publishedAt": "2026-05-03T18:40:45Z",
+      "processed_at": "2026-05-04T20:16:38.695016+00:00"
+    },
+    {
+      "title": "Microsoft Defender wrongly flags DigiCert certs as Trojan:Win32/Cerdigent.A!dha - BleepingComputer",
+      "source": {
+        "name": "BleepingComputer"
+      },
+      "description": "Microsoft Defender is detecting legitimate DigiCert root certificates as Trojan:Win32/Cerdigent.A!dh...",
+      "url": "https://www.bleepingcomputer.com/news/security/microsoft-defender-wrongly-flags-digicert-certs-as-trojan-win32-cerdigentadha/",
+      "publishedAt": "2026-05-03T18:11:25Z",
+      "processed_at": "2026-05-04T20:16:38.695016+00:00"
+    },
+    {
       "title": "ICYMI: Indiana Jones And The Great Circle Estimated Switch 2 File Size Revealed - Nintendo Life",
       "source": {
         "name": "Nintendo Life"
@@ -10,7 +30,17 @@
       "description": "Make some space...",
       "url": "https://www.nintendolife.com/news/2026/05/icymi-indiana-jones-and-the-great-circle-estimated-switch-2-file-size-revealed",
       "publishedAt": "2026-05-03T18:00:00Z",
-      "processed_at": "2026-05-04T18:15:46.721926+00:00"
+      "processed_at": "2026-05-04T20:16:38.695016+00:00"
+    },
+    {
+      "title": "AMD Ryzen AI MAX+ 495 “Gorgon Halo” Leak Smokes Strix Halo by 10%, Packs 192GB Memory and Radeon 8065S - Wccftech",
+      "source": {
+        "name": "Wccftech"
+      },
+      "description": "AMD's next-generation Halo flagship, the Ryzen AI MAX+ 495, has leaked out, featuring a 10% bump in ...",
+      "url": "https://wccftech.com/amd-ryzen-ai-max-495-gorgon-halo-leak-192gb-memory-radeon-8065s/",
+      "publishedAt": "2026-05-03T17:03:00Z",
+      "processed_at": "2026-05-04T20:16:38.695016+00:00"
     },
     {
       "title": "Rumored Assassin’s Creed PvP Game’s Playtest Reportedly A Huge Letdown - Kotaku",
@@ -20,7 +50,27 @@
       "description": "The repeatedly delayed and much speculated Fall Guys-esque “Assassin’s Creed Invictus” had a reporte...",
       "url": "https://kotaku.com/rumored-assassins-creed-invictus-pvp-games-playtest-reportedly-a-huge-letdown-2000692801",
       "publishedAt": "2026-05-03T17:00:09Z",
-      "processed_at": "2026-05-04T18:15:46.721926+00:00"
+      "processed_at": "2026-05-04T20:16:38.695016+00:00"
+    },
+    {
+      "title": "Sunday Preview – Take on the Red Terror - Warhammer Community",
+      "source": {
+        "name": "Warhammer-community.com"
+      },
+      "description": "Sunday Preview – Take on the Red Terror...",
+      "url": "https://www.warhammer-community.com/articles/mmvq6nnx/sunday-preview-take-on-the-red-terror",
+      "publishedAt": "2026-05-03T16:57:58Z",
+      "processed_at": "2026-05-04T20:16:38.695016+00:00"
+    },
+    {
+      "title": "Sony Lawsuit Settlement May Result in PlayStation Refunds - IGN",
+      "source": {
+        "name": "IGN"
+      },
+      "description": "Select PlayStation users may be eligible for refunds tied to digital PSN purchases after a judge off...",
+      "url": "https://www.ign.com/articles/sony-expected-to-pay-78-million-in-playstation-refunds-after-psn-lawsuit-settlement-gets-preliminary-approval-from-california-judge",
+      "publishedAt": "2026-05-03T16:25:18Z",
+      "processed_at": "2026-05-04T20:16:38.695016+00:00"
     },
     {
       "title": "\"This Is Fine\" Dog Fights For Therapy In Official Metroidvania - Kotaku",
@@ -30,7 +80,7 @@
       "description": "In This Is Fine: Maximum Cope, help Question Hound overcome his anxieties in this nightmare-inspired...",
       "url": "https://kotaku.com/this-is-fine-dog-fights-for-overdue-therapy-in-official-metroidvania-2000692724",
       "publishedAt": "2026-05-03T16:02:41Z",
-      "processed_at": "2026-05-04T18:15:46.721926+00:00"
+      "processed_at": "2026-05-04T20:16:38.695016+00:00"
     },
     {
       "title": "Reggie Fils-Aimé says Amazon once asked Nintendo to break the law - The Verge",
@@ -40,7 +90,7 @@
       "description": "Amazon wanted ‘obscene’ financial support to undercut Walmart on Nintendo consoles....",
       "url": "https://www.theverge.com/games/922840/reggie-fils-aime-amazon-nintendo-illegal",
       "publishedAt": "2026-05-03T15:24:27Z",
-      "processed_at": "2026-05-04T18:15:46.721926+00:00"
+      "processed_at": "2026-05-04T20:16:38.695016+00:00"
     },
     {
       "title": "Registry hack lets you bypass Windows 11 KB5083769, KB5083631 patch that blocks some apps - Neowin",
@@ -50,60 +100,10 @@
       "description": "Microsoft earlier confirmed that its latest Windows 11 updates under KB5083769 and KB5083631 have ne...",
       "url": "https://www.neowin.net/news/registry-hack-lets-you-bypass-windows-11-kb5083769-kb5083631-patch-that-blocks-some-apps/",
       "publishedAt": "2026-05-03T14:28:17Z",
-      "processed_at": "2026-05-04T18:15:46.721926+00:00"
-    },
-    {
-      "title": "iPhone 18 Pro has broken a four-year curse, leaked image shows - PhoneArena",
-      "source": {
-        "name": "PhoneArena"
-      },
-      "description": "",
-      "url": "https://www.phonearena.com/news/iphone-18-pro-smaller-dynamic-island_id180100",
-      "publishedAt": "2026-05-03T13:38:53Z",
-      "processed_at": "2026-05-04T18:15:46.721926+00:00"
-    },
-    {
-      "title": "Why Almost No One Needs An RFID Blocking Wallet Anymore - bgr.com",
-      "source": {
-        "name": "BGR"
-      },
-      "description": "One of the more common wallet types you'll see are ones with RFID blocking technology, but it may no...",
-      "url": "https://www.bgr.com/2158163/why-almost-no-one-needs-rfid-blocking-wallet-anymore/",
-      "publishedAt": "2026-05-03T13:17:00Z",
-      "processed_at": "2026-05-04T18:15:46.721926+00:00"
-    },
-    {
-      "title": "All Life on Earth Comes From One Single Ancestor. And It's So Much Older Than We Thought. - Yahoo",
-      "source": {
-        "name": "Popular Mechanics"
-      },
-      "description": "All life on Earth can be traced back to a Last Universal Common Ancestor, or LUCA—and it likely live...",
-      "url": "https://www.popularmechanics.com/science/environment/a71195054/one-single-ancestor-life-luca-found/",
-      "publishedAt": "2026-05-03T13:11:07Z",
-      "processed_at": "2026-05-04T18:15:46.721926+00:00"
-    },
-    {
-      "title": "2026 Toyota Tacoma vs. Toyota 4Runner: To Truck or Not to Truck? - Edmunds",
-      "source": {
-        "name": "Edmunds.com"
-      },
-      "description": "",
-      "url": "https://www.edmunds.com/car-news/2026-toyota-4runner-toyota-tacoma-spec-comparison.html",
-      "publishedAt": "2026-05-03T13:02:12Z",
-      "processed_at": "2026-05-04T18:15:46.721926+00:00"
-    },
-    {
-      "title": "This tiny, magnetic e-reader could stop you from doomscrolling - TechCrunch",
-      "source": {
-        "name": "TechCrunch"
-      },
-      "description": "The Xteink X3 is a delightfully tiny, MagSafe-compatible e-ink reader that attaches to the back of y...",
-      "url": "https://techcrunch.com/2026/05/03/xteink-x3-review-tiny-magnetic-ereader/",
-      "publishedAt": "2026-05-03T13:00:00Z",
-      "processed_at": "2026-05-04T18:15:46.721926+00:00"
+      "processed_at": "2026-05-04T20:16:38.695016+00:00"
     }
   ],
-  "lastUpdated": "2026-05-04T18:15:46.722008+00:00",
+  "lastUpdated": "2026-05-04T20:16:38.695092+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
