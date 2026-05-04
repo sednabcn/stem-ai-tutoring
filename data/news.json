@@ -3,6 +3,26 @@
   "totalResults": 10,
   "articles": [
     {
+      "title": "Console Archives could get pre-Famicom Nintendo hardware games - Nintendo Everything",
+      "source": {
+        "name": "Nintendoeverything.com"
+      },
+      "description": "Console Archives developer has discussed the possibility of some older Nintendo hardware games that ...",
+      "url": "https://nintendoeverything.com/console-archives-nintendo-hardware-games/",
+      "publishedAt": "2026-05-02T22:03:17Z",
+      "processed_at": "2026-05-04T03:24:58.722573+00:00"
+    },
+    {
+      "title": "'I Wasn't Going to Do Something Illegal' — Reggie Fils-Aimé Remembers the Phone Call That Made Nintendo Stop Working With Amazon During the DS Era - IGN",
+      "source": {
+        "name": "IGN"
+      },
+      "description": "Reggie Fils-Aimé has opened up about the time an Amazon executive gave him a phone call and asked Ni...",
+      "url": "https://www.ign.com/articles/i-wasnt-going-to-do-something-illegal-reggie-fils-aime-remembers-the-phone-call-that-made-nintendo-stop-working-with-amazon-during-the-ds-era",
+      "publishedAt": "2026-05-02T21:31:49Z",
+      "processed_at": "2026-05-04T03:24:58.722573+00:00"
+    },
+    {
       "title": "Farewell, Jeeves: Ask.com shuts down - TechCrunch",
       "source": {
         "name": "TechCrunch"
@@ -10,7 +30,7 @@
       "description": "Owner IAC says it's discontinuing its search business....",
       "url": "https://techcrunch.com/2026/05/02/farewell-jeeves-ask-com-shuts-down/",
       "publishedAt": "2026-05-02T21:11:28Z",
-      "processed_at": "2026-05-03T23:49:49.279457+00:00"
+      "processed_at": "2026-05-04T03:24:58.722573+00:00"
     },
     {
       "title": "Scientists Develop New Antibody For Virus That Infects 95% of People - ScienceAlert",
@@ -20,7 +40,7 @@
       "description": "The Epstein-Barr virus (EBV) is one of the world's most common viruses, thought to be lurking in 95 ...",
       "url": "https://www.sciencealert.com/scientists-develop-new-antibody-for-virus-that-infects-95-of-people",
       "publishedAt": "2026-05-02T21:02:32Z",
-      "processed_at": "2026-05-03T23:49:49.279457+00:00"
+      "processed_at": "2026-05-04T03:24:58.722573+00:00"
     },
     {
       "title": "The Menu Trend Boomers Hate (And We Can't Blame Them) - The Takeout",
@@ -30,7 +50,17 @@
       "description": "The QR code menu trend is frustrating boomers who prefer printed menus, as scanning codes at restaur...",
       "url": "https://www.thetakeout.com/2160544/menu-trend-boomers-hate-qr-codes/",
       "publishedAt": "2026-05-02T21:00:00Z",
-      "processed_at": "2026-05-03T23:49:49.279457+00:00"
+      "processed_at": "2026-05-04T03:24:58.722573+00:00"
+    },
+    {
+      "title": "These Are The 10 Quickest Factory-Stock Porsches Ever Tested - Jalopnik",
+      "source": {
+        "name": "Jalopnik"
+      },
+      "description": "The 918 Spyder and 991.1 Turbo S are iconic cars, but they have some serious company now. Here are t...",
+      "url": "https://www.jalopnik.com/2160120/quickest-factory-porsches/",
+      "publishedAt": "2026-05-02T20:45:00Z",
+      "processed_at": "2026-05-04T03:24:58.722573+00:00"
     },
     {
       "title": "Nintendo explains why The Super Mario Galaxy Movie is so fast-paced - Nintendo Everything",
@@ -40,7 +70,27 @@
       "description": "Nintendo’s Shigeru Miyamoto has shared some insight into why The Super Mario Galaxy Movie is so fast...",
       "url": "https://nintendoeverything.com/nintendo-explains-why-the-super-mario-galaxy-movie-is-so-fast-paced/",
       "publishedAt": "2026-05-02T20:03:17Z",
-      "processed_at": "2026-05-03T23:49:49.279457+00:00"
+      "processed_at": "2026-05-04T03:24:58.722573+00:00"
+    },
+    {
+      "title": "Samsung Shuts Down Messages—Apple Changes iPhone After 15 Years - Forbes",
+      "source": {
+        "name": "Forbes"
+      },
+      "description": "Samsung gives iPhone users a reality check before new iMessage update goes live....",
+      "url": "https://www.forbes.com/sites/zakdoffman/2026/05/02/samsung-shuts-down-messages-apple-changes-iphone-after-15-years/",
+      "publishedAt": "2026-05-02T18:44:22Z",
+      "processed_at": "2026-05-04T03:24:58.722573+00:00"
+    },
+    {
+      "title": "This Early Access pirate game was quietly killing your SSD without you knowing - TechSpot",
+      "source": {
+        "name": "TechSpot"
+      },
+      "description": "Developer Kraken Express introduced Windrose as a survival adventure set in the age of piracy, featu...",
+      "url": "https://www.techspot.com/news/112271-early-access-pirate-game-quietly-killing-ssd-without.html",
+      "publishedAt": "2026-05-02T18:28:00Z",
+      "processed_at": "2026-05-04T03:24:58.722573+00:00"
     },
     {
       "title": "Google explains why Android AICore occasionally takes up more storage - 9to5Google",
@@ -50,60 +100,10 @@
       "description": "AI are inherently large, but Google now has a more detailed explanation of why Android AICore storag...",
       "url": "http://9to5google.com/2026/05/02/android-aicore-storage/",
       "publishedAt": "2026-05-02T18:04:00Z",
-      "processed_at": "2026-05-03T23:49:49.279457+00:00"
-    },
-    {
-      "title": "Motorola Beats Apple And Samsung: The Razr Ultra 2026 Debuts Innovative Battery Tech - Forbes",
-      "source": {
-        "name": "Forbes"
-      },
-      "description": "Motorola’s latest is the first major U.S.-focused smartphone brand to use a carbon-silicon battery....",
-      "url": "https://www.forbes.com/sites/davidphelan/2026/05/02/motorola-beats-apple-and-samsung-the-razr-ultra-2026-debuts-game-changing-battery-tech/",
-      "publishedAt": "2026-05-02T17:44:00Z",
-      "processed_at": "2026-05-03T23:49:49.279457+00:00"
-    },
-    {
-      "title": "‘Action Is Needed’—Microsoft Changes Windows Update In 10 Days - Forbes",
-      "source": {
-        "name": "Forbes"
-      },
-      "description": "Microsoft's critical Secure Boot security is about to expire on more than 1 billion PCs. Here's what...",
-      "url": "https://www.forbes.com/sites/zakdoffman/2026/05/02/action-is-needed-microsoft-changes-windows-update-in-10-days/",
-      "publishedAt": "2026-05-02T17:21:53Z",
-      "processed_at": "2026-05-03T23:49:49.279457+00:00"
-    },
-    {
-      "title": "Satoru Iwata wanted to tell Reggie face to face that his cancer had sadly returned - My Nintendo News",
-      "source": {
-        "name": "My Nintendo News"
-      },
-      "description": "There have been a lot of interesting Nintendo tidbits revealed by former Nintendo of America preside...",
-      "url": "https://mynintendonews.com/2026/05/02/satoru-iwata-wanted-to-tell-reggie-face-to-face-that-his-cancer-had-sadly-returned/",
-      "publishedAt": "2026-05-02T16:36:01Z",
-      "processed_at": "2026-05-03T23:49:49.279457+00:00"
-    },
-    {
-      "title": "Nasa Beamed 484 Gigabytes From The Moon, And It Could Redefine How Humans Experience Deep Space Forever - The Daily Galaxy",
-      "source": {
-        "name": "The Daily Galaxy --Great Discoveries Channel"
-      },
-      "description": "NASA’s laser communication system on Artemis II delivered record-breaking data speeds from lunar dis...",
-      "url": "https://dailygalaxy.com/2026/05/nasa-just-beamed-484-gigabytes-from-moon/",
-      "publishedAt": "2026-05-02T16:15:00Z",
-      "processed_at": "2026-05-03T23:49:49.279457+00:00"
-    },
-    {
-      "title": "PS5 Players Set For $7.8 Million Payout After Settlement Approval - Kotaku",
-      "source": {
-        "name": "Kotaku"
-      },
-      "description": "The $7.8 million will be distributed as \"credits\" to the PSN accounts of those who are eligible...",
-      "url": "https://kotaku.com/sony-set-pay-7-8-million-to-playstation-users-after-jude-approves-preliminary-settlement-in-psn-digital-games-class-action-lawsuit-2000692676",
-      "publishedAt": "2026-05-02T16:00:56Z",
-      "processed_at": "2026-05-03T23:49:49.279457+00:00"
+      "processed_at": "2026-05-04T03:24:58.722573+00:00"
     }
   ],
-  "lastUpdated": "2026-05-03T23:49:49.279529+00:00",
+  "lastUpdated": "2026-05-04T03:24:58.722645+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
