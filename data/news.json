@@ -3,6 +3,36 @@
   "totalResults": 10,
   "articles": [
     {
+      "title": "Apple Plans to Let Users Build Their Own Passes in iOS 27 Wallet App - Yahoo Finance",
+      "source": {
+        "name": "Yahoo Entertainment"
+      },
+      "description": "(Bloomberg) -- Apple Inc. is preparing a new “Create a Pass” feature for its next major iPhone softw...",
+      "url": "https://finance.yahoo.com/sectors/technology/articles/apple-plans-let-users-build-173410420.html",
+      "publishedAt": "2026-05-05T02:45:00Z",
+      "processed_at": "2026-05-06T06:29:50.927868+00:00"
+    },
+    {
+      "title": "Nintendo Announces Switch 2 Pokémon Pokopia Bundle - Nintendo Life",
+      "source": {
+        "name": "Nintendo Life"
+      },
+      "description": "Launching this June down under...",
+      "url": "https://www.nintendolife.com/news/2026/05/nintendo-announces-switch-2-pokemon-pokopia-bundle",
+      "publishedAt": "2026-05-05T02:30:00Z",
+      "processed_at": "2026-05-06T06:29:50.927868+00:00"
+    },
+    {
+      "title": "35.4 Patch Notes - Blizzard Entertainment",
+      "source": {
+        "name": "Playhearthstone.com"
+      },
+      "description": "This patch features the debut of Class Sets, the return of Dual Class Arena, new event rewards, and ...",
+      "url": "https://playhearthstone.com/en-us/blog/24266874/",
+      "publishedAt": "2026-05-05T02:03:45Z",
+      "processed_at": "2026-05-06T06:29:50.927868+00:00"
+    },
+    {
       "title": "Valve just imported 50 tons of game consoles in two days - The Verge",
       "source": {
         "name": "The Verge"
@@ -10,7 +40,7 @@
       "description": "Valve imported roughly 50 tons of “Game Consoles” into the United States in the two-day period betwe...",
       "url": "https://www.theverge.com/news/923461/valve-steam-machine-frame-deck-import-records-may-2026",
       "publishedAt": "2026-05-04T23:58:44Z",
-      "processed_at": "2026-05-06T03:21:56.909612+00:00"
+      "processed_at": "2026-05-06T06:29:50.927868+00:00"
     },
     {
       "title": "Video offers clearest look yet at foldable iPhone Ultra dummy unit - 9to5Mac",
@@ -20,7 +50,7 @@
       "description": "Unbox Therapy has published a 10-minute close-up look at a dummy unit that aligns with what the iPho...",
       "url": "https://9to5mac.com/2026/05/04/video-offers-clearest-look-yet-at-foldable-iphone-ultra-dummy-unit/",
       "publishedAt": "2026-05-04T23:15:00Z",
-      "processed_at": "2026-05-06T03:21:56.909612+00:00"
+      "processed_at": "2026-05-06T06:29:50.927868+00:00"
     },
     {
       "title": "US government warns of severe CopyFail bug affecting major versions of Linux - TechCrunch",
@@ -30,7 +60,7 @@
       "description": "U.S. cybersecurity agency CISA says the CopyFail bug is being actively used in hacking campaigns, an...",
       "url": "https://techcrunch.com/2026/05/04/u-s-government-warns-of-severe-copyfail-bug-affecting-major-versions-of-linux/",
       "publishedAt": "2026-05-04T22:21:32Z",
-      "processed_at": "2026-05-06T03:21:56.909612+00:00"
+      "processed_at": "2026-05-06T06:29:50.927868+00:00"
     },
     {
       "title": "\"Notepad++ for Mac\" release is disavowed by the creator of the original - Ars Technica",
@@ -40,7 +70,7 @@
       "description": "To be clear: Notepad++ has never released a macOS version.\"...",
       "url": "https://arstechnica.com/gadgets/2026/05/unofficial-vibe-coded-notepad-for-mac-draws-objections-from-original-author/",
       "publishedAt": "2026-05-04T21:38:37Z",
-      "processed_at": "2026-05-06T03:21:56.909612+00:00"
+      "processed_at": "2026-05-06T06:29:50.927868+00:00"
     },
     {
       "title": "What to Know About Sony’s $7.85 Million PlayStation Settlement - WIRED",
@@ -50,7 +80,7 @@
       "description": "Are you eligible for a payout? Probably, but it might take a while and will likely be pretty small....",
       "url": "https://www.wired.com/story/what-to-know-about-sony-785-million-playstation-settlement/",
       "publishedAt": "2026-05-04T21:22:00Z",
-      "processed_at": "2026-05-06T03:21:56.909612+00:00"
+      "processed_at": "2026-05-06T06:29:50.927868+00:00"
     },
     {
       "title": "Call of Duty 2026 Won't Be Releasing on Last-Gen Consoles - IGN",
@@ -60,7 +90,7 @@
       "description": "Call of Duty fans can breathe a sigh of relief as this year's entry will not release on last-gen con...",
       "url": "https://www.ign.com/articles/call-of-duty-2026-wont-be-releasing-on-last-gen-consoles",
       "publishedAt": "2026-05-04T21:13:31Z",
-      "processed_at": "2026-05-06T03:21:56.909612+00:00"
+      "processed_at": "2026-05-06T06:29:50.927868+00:00"
     },
     {
       "title": "Fallout Co-Creator Says Some Players Watch Influencers So They Can Be Told What to Think About Games - IGN",
@@ -70,40 +100,10 @@
       "description": "Fallout co-creator Tim Cain has shared his fear that some gamers are watching influencers just so th...",
       "url": "https://www.ign.com/articles/fallout-co-creator-says-some-players-watch-influencers-so-they-can-be-told-what-to-think-about-games",
       "publishedAt": "2026-05-04T21:00:09Z",
-      "processed_at": "2026-05-06T03:21:56.909612+00:00"
-    },
-    {
-      "title": "“You’re Judged by Serving the Core”: Take-Two Boss Talks Why GTA 6 Arrives on Consoles First and PC Second - Wccftech",
-      "source": {
-        "name": "Wccftech"
-      },
-      "description": "Take-Two boss Strauss Zelnick reveals why GTA 6 and Rockstar's big titles come to consoles before th...",
-      "url": "https://wccftech.com/take-two-boss-why-gta-6-comes-to-consoles-first-pc-second/",
-      "publishedAt": "2026-05-04T20:04:00Z",
-      "processed_at": "2026-05-06T03:21:56.909612+00:00"
-    },
-    {
-      "title": "Pokémon Scalpers Selling Limited-Edition Pop-Tarts For Ridiculous Prices - Nintendo Life",
-      "source": {
-        "name": "Nintendo Life"
-      },
-      "description": "Pop tart-lio...",
-      "url": "https://www.nintendolife.com/news/2026/05/pokemon-scalpers-selling-limited-edition-pop-tarts-for-ridiculous-prices",
-      "publishedAt": "2026-05-04T20:00:00Z",
-      "processed_at": "2026-05-06T03:21:56.909612+00:00"
-    },
-    {
-      "title": "PS5's 007 First Light Will See You Embody the Charismatic James Bond for 20+ Hours - Push Square",
-      "source": {
-        "name": "Push Square"
-      },
-      "description": "Approx running time revealed...",
-      "url": "https://www.pushsquare.com/news/2026/05/ps5s-007-first-light-will-see-you-embody-the-charismatic-james-bond-for-20plus-hours",
-      "publishedAt": "2026-05-04T20:00:00Z",
-      "processed_at": "2026-05-06T03:21:56.909612+00:00"
+      "processed_at": "2026-05-06T06:29:50.927868+00:00"
     }
   ],
-  "lastUpdated": "2026-05-06T03:21:56.909686+00:00",
+  "lastUpdated": "2026-05-06T06:29:50.927944+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
