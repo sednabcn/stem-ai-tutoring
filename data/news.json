@@ -3,14 +3,54 @@
   "totalResults": 8,
   "articles": [
     {
-      "title": "Pixel 10’s May 2026 update prevents you from installing older Android versions - 9to5Google",
+      "title": "Chrome’s AI features may be hogging 4GB of your computer storage - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "Chrome users are discovering that Google is installing a 4GB weights.bin file inside their browser d...",
+      "url": "https://www.theverge.com/tech/924933/google-chrome-4gb-gemini-nano-ai-features",
+      "publishedAt": "2026-05-06T10:13:09Z",
+      "processed_at": "2026-05-07T11:48:33.637042+00:00"
+    },
+    {
+      "title": "Stable One UI 8.5 update is rolling out to the Galaxy S25 series - SamMobile",
+      "source": {
+        "name": "SamMobile"
+      },
+      "description": "Samsung has released the stable version of One UI 8.5 (Android 16) for the Galaxy S25, Galaxy S25+, ...",
+      "url": "https://www.sammobile.com/news/samsung-galaxy-s25-stable-one-ui-8-5-update/",
+      "publishedAt": "2026-05-06T08:15:00Z",
+      "processed_at": "2026-05-07T11:48:33.637042+00:00"
+    },
+    {
+      "title": "Palo Alto PAN-OS Flaw Under Active Exploitation Enables Remote Code Execution - The Hacker News",
+      "source": {
+        "name": "Internet"
+      },
+      "description": "CVE-2026-0300 exploited via public PAN-OS portal before May 13, 2026 patch, enabling root RCE on fir...",
+      "url": "https://thehackernews.com/2026/05/palo-alto-pan-os-flaw-under-active.html",
+      "publishedAt": "2026-05-06T06:14:00Z",
+      "processed_at": "2026-05-07T11:48:33.637042+00:00"
+    },
+    {
+      "title": "Galaxy S26 Ultra outsold its predecessor, but still dropped off of 2026’s first top 10 list - 9to5Google",
       "source": {
         "name": "9to5google.com"
       },
-      "description": "With the May 2026 update, rolling out now, Google is implementing an anti-rollback measure on Pixel ...",
-      "url": "http://9to5google.com/2026/05/05/google-pixel-10-update-anti-rollback-may-2026/",
-      "publishedAt": "2026-05-05T21:55:00Z",
-      "processed_at": "2026-05-07T09:33:47.005778+00:00"
+      "description": "The numbers are in for Q1 2026 and, for the first time in a while, Samsung’s Galaxy S26 Ultra almost...",
+      "url": "http://9to5google.com/2026/05/05/galaxy-s26-ultra-outsold-its-predecessor-but-still-dropped-off-of-2026s-first-top-10-list/",
+      "publishedAt": "2026-05-06T01:15:00Z",
+      "processed_at": "2026-05-07T11:48:33.637042+00:00"
+    },
+    {
+      "title": "Pixel update fixes wireless charging, camera zoom video glitch, and more - Android Police",
+      "source": {
+        "name": "Android Police"
+      },
+      "description": "It's time to update your Pixel...",
+      "url": "https://www.androidpolice.com/pixel-update-fixes-wireless-charging-camera-zoom-and-more/",
+      "publishedAt": "2026-05-05T22:47:23Z",
+      "processed_at": "2026-05-07T11:48:33.637042+00:00"
     },
     {
       "title": "Google Home’s Gemini AI can handle more complicated requests - The Verge",
@@ -20,17 +60,7 @@
       "description": "Google is upgrading Gemini for Home to Gemini 3.1, allowing users to give the smart home assistant m...",
       "url": "https://www.theverge.com/tech/924755/google-home-gemini-3-1-upgrade",
       "publishedAt": "2026-05-05T21:46:04Z",
-      "processed_at": "2026-05-07T09:33:47.005778+00:00"
-    },
-    {
-      "title": "Apple plans to make iOS 27 a Choose Your Own Adventure of AI models - TechCrunch",
-      "source": {
-        "name": "TechCrunch"
-      },
-      "description": "With Apple's latest operating system updates, users will reportedly have their pick of which third-p...",
-      "url": "https://techcrunch.com/2026/05/05/apple-plans-to-make-ios-27-a-choose-your-own-adventure-of-ai-models/",
-      "publishedAt": "2026-05-05T20:56:41Z",
-      "processed_at": "2026-05-07T09:33:47.005778+00:00"
+      "processed_at": "2026-05-07T11:48:33.637042+00:00"
     },
     {
       "title": "TPCi's TCG Vending Machines Grow 27% in Second-Biggest Year, But 1 in 7 from Last Summer Are Gone - PokeBeach",
@@ -40,50 +70,20 @@
       "description": "After manually going through Pokemon.com's locator, we can confirm TPCi now operates 1,871 Pokemon T...",
       "url": "https://www.pokebeach.com/2026/05/tpcis-tcg-vending-machines-grow-27-in-second-biggest-year-but-1-in-7-from-last-summer-are-gone",
       "publishedAt": "2026-05-05T20:53:54Z",
-      "processed_at": "2026-05-07T09:33:47.005778+00:00"
+      "processed_at": "2026-05-07T11:48:33.637042+00:00"
     },
     {
-      "title": "Apple Cuts More Mac Studio and Mac Mini RAM Options as Memory Shortage Worsens - MacRumors",
+      "title": "Microsoft’s Windows 11 update just fixed memory leaks, slow startup, and File Explorer bugs - Windows Latest",
       "source": {
-        "name": "MacRumors"
+        "name": "WindowsLatest"
       },
-      "description": "Apple has removed more desktop Macs from its online store as the global memory shortage continues. M...",
-      "url": "https://www.macrumors.com/2026/05/05/apple-mac-studio-mac-mini-ram-cuts/",
-      "publishedAt": "2026-05-05T19:34:48Z",
-      "processed_at": "2026-05-07T09:33:47.005778+00:00"
-    },
-    {
-      "title": "The Star Wars: Fate of the Old Republic team has several KotOR and Mass Effect devs from BioWare's golden years - Windows Central",
-      "source": {
-        "name": "Windows Central"
-      },
-      "description": "Star Wars: Fate of the Old Republic director Casey Hudson announced the game's lead dev team on Star...",
-      "url": "https://www.windowscentral.com/gaming/star-wars-fate-of-the-old-republic-announced-its-dev-team-and-its-full-of-mass-effect-and-kotor-bioware-talent",
-      "publishedAt": "2026-05-05T18:56:58Z",
-      "processed_at": "2026-05-07T09:33:47.005778+00:00"
-    },
-    {
-      "title": "IGN Entertainment releases internal data as public report, developed by Kantar and UC Berkeley - GamesIndustry.biz",
-      "source": {
-        "name": "GamesIndustry.biz"
-      },
-      "description": "Generations in Play report highlights differences in game consumption habits, with Gen X as completi...",
-      "url": "https://www.gamesindustry.biz/ign-entertainment-releases-internal-data-as-public-report-developed-by-kantar-and-uc-berkeley",
-      "publishedAt": "2026-05-05T18:53:26Z",
-      "processed_at": "2026-05-07T09:33:47.005778+00:00"
-    },
-    {
-      "title": "GTA 6 Fan Creates Trailer 3 Release Date Theory With Astronomy - IGN",
-      "source": {
-        "name": "IGN"
-      },
-      "description": "The hype for GTA 6 has led fans down some excessively deep rabbit holes in an effort to predict the ...",
-      "url": "https://www.ign.com/articles/gta-6-fan-spends-3-months-charting-the-planetary-positions-for-every-rockstar-trailer-drop-since-2007-to-predict-trailer-3-release-date",
-      "publishedAt": "2026-05-05T18:02:06Z",
-      "processed_at": "2026-05-07T09:33:47.005778+00:00"
+      "description": "Microsoft is fixing Windows 11's biggest bugs. The new update stops the File Explorer white flash, l...",
+      "url": "https://www.windowslatest.com/2026/05/06/microsofts-windows-11-update-just-fixed-memory-leaks-slow-startup-and-file-explorer-bugs/",
+      "publishedAt": "2026-05-05T20:18:14Z",
+      "processed_at": "2026-05-07T11:48:33.637042+00:00"
     }
   ],
-  "lastUpdated": "2026-05-07T09:33:47.005844+00:00",
+  "lastUpdated": "2026-05-07T11:48:33.637111+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
