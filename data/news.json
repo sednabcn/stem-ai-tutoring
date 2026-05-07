@@ -10,7 +10,7 @@
       "description": "With the May 2026 update, rolling out now, Google is implementing an anti-rollback measure on Pixel ...",
       "url": "http://9to5google.com/2026/05/05/google-pixel-10-update-anti-rollback-may-2026/",
       "publishedAt": "2026-05-05T21:55:00Z",
-      "processed_at": "2026-05-07T06:36:31.775269+00:00"
+      "processed_at": "2026-05-07T09:33:47.005778+00:00"
     },
     {
       "title": "Google Home’s Gemini AI can handle more complicated requests - The Verge",
@@ -20,7 +20,7 @@
       "description": "Google is upgrading Gemini for Home to Gemini 3.1, allowing users to give the smart home assistant m...",
       "url": "https://www.theverge.com/tech/924755/google-home-gemini-3-1-upgrade",
       "publishedAt": "2026-05-05T21:46:04Z",
-      "processed_at": "2026-05-07T06:36:31.775269+00:00"
+      "processed_at": "2026-05-07T09:33:47.005778+00:00"
     },
     {
       "title": "Apple plans to make iOS 27 a Choose Your Own Adventure of AI models - TechCrunch",
@@ -30,7 +30,7 @@
       "description": "With Apple's latest operating system updates, users will reportedly have their pick of which third-p...",
       "url": "https://techcrunch.com/2026/05/05/apple-plans-to-make-ios-27-a-choose-your-own-adventure-of-ai-models/",
       "publishedAt": "2026-05-05T20:56:41Z",
-      "processed_at": "2026-05-07T06:36:31.775269+00:00"
+      "processed_at": "2026-05-07T09:33:47.005778+00:00"
     },
     {
       "title": "TPCi's TCG Vending Machines Grow 27% in Second-Biggest Year, But 1 in 7 from Last Summer Are Gone - PokeBeach",
@@ -40,7 +40,7 @@
       "description": "After manually going through Pokemon.com's locator, we can confirm TPCi now operates 1,871 Pokemon T...",
       "url": "https://www.pokebeach.com/2026/05/tpcis-tcg-vending-machines-grow-27-in-second-biggest-year-but-1-in-7-from-last-summer-are-gone",
       "publishedAt": "2026-05-05T20:53:54Z",
-      "processed_at": "2026-05-07T06:36:31.775269+00:00"
+      "processed_at": "2026-05-07T09:33:47.005778+00:00"
     },
     {
       "title": "Apple Cuts More Mac Studio and Mac Mini RAM Options as Memory Shortage Worsens - MacRumors",
@@ -50,7 +50,17 @@
       "description": "Apple has removed more desktop Macs from its online store as the global memory shortage continues. M...",
       "url": "https://www.macrumors.com/2026/05/05/apple-mac-studio-mac-mini-ram-cuts/",
       "publishedAt": "2026-05-05T19:34:48Z",
-      "processed_at": "2026-05-07T06:36:31.775269+00:00"
+      "processed_at": "2026-05-07T09:33:47.005778+00:00"
+    },
+    {
+      "title": "The Star Wars: Fate of the Old Republic team has several KotOR and Mass Effect devs from BioWare's golden years - Windows Central",
+      "source": {
+        "name": "Windows Central"
+      },
+      "description": "Star Wars: Fate of the Old Republic director Casey Hudson announced the game's lead dev team on Star...",
+      "url": "https://www.windowscentral.com/gaming/star-wars-fate-of-the-old-republic-announced-its-dev-team-and-its-full-of-mass-effect-and-kotor-bioware-talent",
+      "publishedAt": "2026-05-05T18:56:58Z",
+      "processed_at": "2026-05-07T09:33:47.005778+00:00"
     },
     {
       "title": "IGN Entertainment releases internal data as public report, developed by Kantar and UC Berkeley - GamesIndustry.biz",
@@ -60,7 +70,7 @@
       "description": "Generations in Play report highlights differences in game consumption habits, with Gen X as completi...",
       "url": "https://www.gamesindustry.biz/ign-entertainment-releases-internal-data-as-public-report-developed-by-kantar-and-uc-berkeley",
       "publishedAt": "2026-05-05T18:53:26Z",
-      "processed_at": "2026-05-07T06:36:31.775269+00:00"
+      "processed_at": "2026-05-07T09:33:47.005778+00:00"
     },
     {
       "title": "GTA 6 Fan Creates Trailer 3 Release Date Theory With Astronomy - IGN",
@@ -70,20 +80,10 @@
       "description": "The hype for GTA 6 has led fans down some excessively deep rabbit holes in an effort to predict the ...",
       "url": "https://www.ign.com/articles/gta-6-fan-spends-3-months-charting-the-planetary-positions-for-every-rockstar-trailer-drop-since-2007-to-predict-trailer-3-release-date",
       "publishedAt": "2026-05-05T18:02:06Z",
-      "processed_at": "2026-05-07T06:36:31.775269+00:00"
-    },
-    {
-      "title": "LG’s Third-Gen Tandem OLED Slashes Power Draw By 18% While Doubling Durability, Hitting 1200 Nits And 15,000-Hour Lifespan - Wccftech",
-      "source": {
-        "name": "Wccftech"
-      },
-      "description": "LG Display unveils 3rd-gen Tandem OLED technology, cutting power consumption by 18% and enhancing du...",
-      "url": "https://wccftech.com/lg-introduces-third-gen-tandem-oled-panel-and-5k-oled-panel/",
-      "publishedAt": "2026-05-05T17:57:00Z",
-      "processed_at": "2026-05-07T06:36:31.775269+00:00"
+      "processed_at": "2026-05-07T09:33:47.005778+00:00"
     }
   ],
-  "lastUpdated": "2026-05-07T06:36:31.775343+00:00",
+  "lastUpdated": "2026-05-07T09:33:47.005844+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
