@@ -1,89 +1,109 @@
 {
   "status": "success",
-  "totalResults": 8,
+  "totalResults": 10,
   "articles": [
     {
-      "title": "Chrome’s AI features may be hogging 4GB of your computer storage - The Verge",
+      "title": "Man Finds $1 Million Worth of Yu-Gi-Oh Cards in a Dumpster - 404 Media",
       "source": {
-        "name": "The Verge"
+        "name": "404media.co"
       },
-      "description": "Chrome users are discovering that Google is installing a 4GB weights.bin file inside their browser d...",
-      "url": "https://www.theverge.com/tech/924933/google-chrome-4gb-gemini-nano-ai-features",
-      "publishedAt": "2026-05-06T10:13:09Z",
-      "processed_at": "2026-05-07T11:48:33.637042+00:00"
+      "description": "It was already a sordid tale of online drama, blurry photographs, and erratic TikToks. Then his mom ...",
+      "url": "https://www.404media.co/man-finds-1-million-worth-of-yu-gi-oh-cards-in-a-dumpster/",
+      "publishedAt": "2026-05-06T13:26:25Z",
+      "processed_at": "2026-05-07T14:13:20.524535+00:00"
     },
     {
-      "title": "Stable One UI 8.5 update is rolling out to the Galaxy S25 series - SamMobile",
-      "source": {
-        "name": "SamMobile"
-      },
-      "description": "Samsung has released the stable version of One UI 8.5 (Android 16) for the Galaxy S25, Galaxy S25+, ...",
-      "url": "https://www.sammobile.com/news/samsung-galaxy-s25-stable-one-ui-8-5-update/",
-      "publishedAt": "2026-05-06T08:15:00Z",
-      "processed_at": "2026-05-07T11:48:33.637042+00:00"
-    },
-    {
-      "title": "Palo Alto PAN-OS Flaw Under Active Exploitation Enables Remote Code Execution - The Hacker News",
-      "source": {
-        "name": "Internet"
-      },
-      "description": "CVE-2026-0300 exploited via public PAN-OS portal before May 13, 2026 patch, enabling root RCE on fir...",
-      "url": "https://thehackernews.com/2026/05/palo-alto-pan-os-flaw-under-active.html",
-      "publishedAt": "2026-05-06T06:14:00Z",
-      "processed_at": "2026-05-07T11:48:33.637042+00:00"
-    },
-    {
-      "title": "Galaxy S26 Ultra outsold its predecessor, but still dropped off of 2026’s first top 10 list - 9to5Google",
+      "title": "Liquid Glass for Android is ‘not happening,’ at least not for Pixels - 9to5Google",
       "source": {
         "name": "9to5google.com"
       },
-      "description": "The numbers are in for Q1 2026 and, for the first time in a while, Samsung’s Galaxy S26 Ultra almost...",
-      "url": "http://9to5google.com/2026/05/05/galaxy-s26-ultra-outsold-its-predecessor-but-still-dropped-off-of-2026s-first-top-10-list/",
-      "publishedAt": "2026-05-06T01:15:00Z",
-      "processed_at": "2026-05-07T11:48:33.637042+00:00"
+      "description": "Apple’s Liquid Glass redesign of its platforms, especially iOS, has been divisive to say the least b...",
+      "url": "http://9to5google.com/2026/05/06/liquid-glass-for-android-is-not-happening-at-least-not-for-pixels/",
+      "publishedAt": "2026-05-06T13:05:00Z",
+      "processed_at": "2026-05-07T14:13:20.524535+00:00"
     },
     {
-      "title": "Pixel update fixes wireless charging, camera zoom video glitch, and more - Android Police",
+      "title": "How do you kill a tank-sized monster in Kill Team? - Warhammer Community",
       "source": {
-        "name": "Android Police"
+        "name": "Warhammer-community.com"
       },
-      "description": "It's time to update your Pixel...",
-      "url": "https://www.androidpolice.com/pixel-update-fixes-wireless-charging-camera-zoom-and-more/",
-      "publishedAt": "2026-05-05T22:47:23Z",
-      "processed_at": "2026-05-07T11:48:33.637042+00:00"
+      "description": "Take on the Red Terror with new rules and missions....",
+      "url": "https://www.warhammer-community.com/articles/ij95ia48/how-do-you-kill-a-tank-sized-monster-in-kill-team",
+      "publishedAt": "2026-05-06T12:58:03Z",
+      "processed_at": "2026-05-07T14:13:20.524535+00:00"
     },
     {
-      "title": "Google Home’s Gemini AI can handle more complicated requests - The Verge",
+      "title": "reMarkable’s new Paper Pure tablet goes back to basics with a monochrome screen - TechCrunch",
       "source": {
-        "name": "The Verge"
+        "name": "TechCrunch"
       },
-      "description": "Google is upgrading Gemini for Home to Gemini 3.1, allowing users to give the smart home assistant m...",
-      "url": "https://www.theverge.com/tech/924755/google-home-gemini-3-1-upgrade",
-      "publishedAt": "2026-05-05T21:46:04Z",
-      "processed_at": "2026-05-07T11:48:33.637042+00:00"
+      "description": "The new Paper Pure is lighter and faster than the reMarkable 2, which is going to be retired six yea...",
+      "url": "https://techcrunch.com/2026/05/06/remarkables-new-paper-pure-tablet-goes-back-to-basics-with-a-monochrome-screen/",
+      "publishedAt": "2026-05-06T12:00:00Z",
+      "processed_at": "2026-05-07T14:13:20.524535+00:00"
     },
     {
-      "title": "TPCi's TCG Vending Machines Grow 27% in Second-Biggest Year, But 1 in 7 from Last Summer Are Gone - PokeBeach",
+      "title": "Samsung’s One UI 8.5 Official Rollout Starts May 6 - samsung.com",
       "source": {
-        "name": "Pokebeach.com"
+        "name": "Samsung.com"
       },
-      "description": "After manually going through Pokemon.com's locator, we can confirm TPCi now operates 1,871 Pokemon T...",
-      "url": "https://www.pokebeach.com/2026/05/tpcis-tcg-vending-machines-grow-27-in-second-biggest-year-but-1-in-7-from-last-summer-are-gone",
-      "publishedAt": "2026-05-05T20:53:54Z",
-      "processed_at": "2026-05-07T11:48:33.637042+00:00"
+      "description": "Samsung is expanding the One UI 8.5 rollout to more devices, bringing the latest Galaxy AI features ...",
+      "url": "https://news.samsung.com/global/samsungs-one-ui-8-5-official-rollout-starts-may-6",
+      "publishedAt": "2026-05-06T12:00:00Z",
+      "processed_at": "2026-05-07T14:13:20.524535+00:00"
     },
     {
-      "title": "Microsoft’s Windows 11 update just fixed memory leaks, slow startup, and File Explorer bugs - Windows Latest",
+      "title": "Microsoft Says Edge Password Security Vulnerability Is ‘By Design’—Is It Time To Switch To Chrome? - Forbes",
       "source": {
-        "name": "WindowsLatest"
+        "name": "Forbes"
       },
-      "description": "Microsoft is fixing Windows 11's biggest bugs. The new update stops the File Explorer white flash, l...",
-      "url": "https://www.windowslatest.com/2026/05/06/microsofts-windows-11-update-just-fixed-memory-leaks-slow-startup-and-file-explorer-bugs/",
-      "publishedAt": "2026-05-05T20:18:14Z",
-      "processed_at": "2026-05-07T11:48:33.637042+00:00"
+      "description": "",
+      "url": "https://www.forbes.com/sites/daveywinder/2026/05/06/microsoft-says-edge-password-security-vulnerability-is-by-design-is-it-time-to-switch-to-chrome/",
+      "publishedAt": "2026-05-06T11:20:43Z",
+      "processed_at": "2026-05-07T14:13:20.524535+00:00"
+    },
+    {
+      "title": "Apple may have just made one of the most important new Siri announcements - 9to5Mac",
+      "source": {
+        "name": "9to5Mac"
+      },
+      "description": "Apple’s painfully slow launch of the new Siri has become such a long-running saga, it seems to have ...",
+      "url": "https://9to5mac.com/2026/05/06/apple-may-have-just-made-one-of-the-most-important-new-siri-announcements/",
+      "publishedAt": "2026-05-06T11:19:00Z",
+      "processed_at": "2026-05-07T14:13:20.524535+00:00"
+    },
+    {
+      "title": "'Not Great to Spread Misinformation': Assassin's Creed Leaker Sparks Ubisoft Response After Posting Multiplayer Game Image Edited by AI - IGN",
+      "source": {
+        "name": "IGN"
+      },
+      "description": "",
+      "url": "https://www.ign.com/articles/assassins-creed-multiplayer-leak-criticized-by-ubisoft-after-fan-admits-editing-image-using-ai",
+      "publishedAt": "2026-05-06T10:58:18Z",
+      "processed_at": "2026-05-07T14:13:20.524535+00:00"
+    },
+    {
+      "title": "GTA 6 Estimated to Have Cost Take-Two $1 Billion to $1.5 Billion So Far, CEO Strauss Zelnick Says 'It Was Expensive' - IGN",
+      "source": {
+        "name": "IGN"
+      },
+      "description": "GTA 6 may well be the most expensive video game ever made, with parent company Take-Two estimated to...",
+      "url": "https://www.ign.com/articles/gta-6-estimated-to-have-cost-take-two-1-billion-to-15-billion-so-far-ceo-strauss-zelnick-says-it-was-expensive",
+      "publishedAt": "2026-05-06T10:50:32Z",
+      "processed_at": "2026-05-07T14:13:20.524535+00:00"
+    },
+    {
+      "title": "Pragmata Gets PS5 Pro Resolution Bump: Version 1.21 Comes With an Undocumented Upgrade - Digital Foundry",
+      "source": {
+        "name": "Digitalfoundry.net"
+      },
+      "description": "PS5 Increasingly Professional....",
+      "url": "https://www.digitalfoundry.net/features/pragmata-gets-ps5-pro-resolution-bump-version-1-21-comes-with-an-undocumented-upgrade",
+      "publishedAt": "2026-05-06T10:21:00Z",
+      "processed_at": "2026-05-07T14:13:20.524535+00:00"
     }
   ],
-  "lastUpdated": "2026-05-07T11:48:33.637111+00:00",
+  "lastUpdated": "2026-05-07T14:13:20.524642+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
