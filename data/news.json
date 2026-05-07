@@ -1,7 +1,17 @@
 {
   "status": "success",
-  "totalResults": 9,
+  "totalResults": 8,
   "articles": [
+    {
+      "title": "Pixel 10’s May 2026 update prevents you from installing older Android versions - 9to5Google",
+      "source": {
+        "name": "9to5google.com"
+      },
+      "description": "With the May 2026 update, rolling out now, Google is implementing an anti-rollback measure on Pixel ...",
+      "url": "http://9to5google.com/2026/05/05/google-pixel-10-update-anti-rollback-may-2026/",
+      "publishedAt": "2026-05-05T21:55:00Z",
+      "processed_at": "2026-05-07T03:54:27.947653+00:00"
+    },
     {
       "title": "Google Home’s Gemini AI can handle more complicated requests - The Verge",
       "source": {
@@ -10,7 +20,7 @@
       "description": "Google is upgrading Gemini for Home to Gemini 3.1, allowing users to give the smart home assistant m...",
       "url": "https://www.theverge.com/tech/924755/google-home-gemini-3-1-upgrade",
       "publishedAt": "2026-05-05T21:46:04Z",
-      "processed_at": "2026-05-06T23:58:07.600133+00:00"
+      "processed_at": "2026-05-07T03:54:27.947653+00:00"
     },
     {
       "title": "Apple plans to make iOS 27 a Choose Your Own Adventure of AI models - TechCrunch",
@@ -20,7 +30,7 @@
       "description": "With Apple's latest operating system updates, users will reportedly have their pick of which third-p...",
       "url": "https://techcrunch.com/2026/05/05/apple-plans-to-make-ios-27-a-choose-your-own-adventure-of-ai-models/",
       "publishedAt": "2026-05-05T20:56:41Z",
-      "processed_at": "2026-05-06T23:58:07.600133+00:00"
+      "processed_at": "2026-05-07T03:54:27.947653+00:00"
     },
     {
       "title": "TPCi's TCG Vending Machines Grow 27% in Second-Biggest Year, But 1 in 7 from Last Summer Are Gone - PokeBeach",
@@ -30,27 +40,7 @@
       "description": "After manually going through Pokemon.com's locator, we can confirm TPCi now operates 1,871 Pokemon T...",
       "url": "https://www.pokebeach.com/2026/05/tpcis-tcg-vending-machines-grow-27-in-second-biggest-year-but-1-in-7-from-last-summer-are-gone",
       "publishedAt": "2026-05-05T20:53:54Z",
-      "processed_at": "2026-05-06T23:58:07.600133+00:00"
-    },
-    {
-      "title": "Xbox officially kills console's AI chatbot in another big shakeup - Polygon.com",
-      "source": {
-        "name": "Polygon"
-      },
-      "description": "Asha Sharma confirms that Xbox is ending development for Copilot on Xbox as the brand continues to r...",
-      "url": "https://www.polygon.com/xbox-ai-gaming-copilot-canceled-asha-sharma-microsoft/",
-      "publishedAt": "2026-05-05T20:35:24Z",
-      "processed_at": "2026-05-06T23:58:07.600133+00:00"
-    },
-    {
-      "title": "Apple reaches $250mn settlement over delayed ‘AI Siri’ - Financial Times",
-      "source": {
-        "name": "Financial Times"
-      },
-      "description": "iPhone buyers sued the tech giant for touting features in 2024 that have yet to launch...",
-      "url": "https://www.ft.com/content/f2c6a27e-8ed9-487c-9384-7e0f0dca3061?syn-25a6b1a6\\\\u003d1",
-      "publishedAt": "2026-05-05T20:13:01Z",
-      "processed_at": "2026-05-06T23:58:07.600133+00:00"
+      "processed_at": "2026-05-07T03:54:27.947653+00:00"
     },
     {
       "title": "Apple Cuts More Mac Studio and Mac Mini RAM Options as Memory Shortage Worsens - MacRumors",
@@ -60,17 +50,7 @@
       "description": "Apple has removed more desktop Macs from its online store as the global memory shortage continues. M...",
       "url": "https://www.macrumors.com/2026/05/05/apple-mac-studio-mac-mini-ram-cuts/",
       "publishedAt": "2026-05-05T19:34:48Z",
-      "processed_at": "2026-05-06T23:58:07.600133+00:00"
-    },
-    {
-      "title": "Fixes spotted: Google's May update solves its slow wireless Pixel charging - Android Central",
-      "source": {
-        "name": "Android Central"
-      },
-      "description": "Google rolls out its monthly security update, which again targets the Pixel 10's display problems, b...",
-      "url": "https://www.androidcentral.com/phones/google-pixel/googles-may-security-patch-for-pixels-is-here-targeting-charging-and-display",
-      "publishedAt": "2026-05-05T19:03:44Z",
-      "processed_at": "2026-05-06T23:58:07.600133+00:00"
+      "processed_at": "2026-05-07T03:54:27.947653+00:00"
     },
     {
       "title": "IGN Entertainment releases internal data as public report, developed by Kantar and UC Berkeley - GamesIndustry.biz",
@@ -80,7 +60,17 @@
       "description": "Generations in Play report highlights differences in game consumption habits, with Gen X as completi...",
       "url": "https://www.gamesindustry.biz/ign-entertainment-releases-internal-data-as-public-report-developed-by-kantar-and-uc-berkeley",
       "publishedAt": "2026-05-05T18:53:26Z",
-      "processed_at": "2026-05-06T23:58:07.600133+00:00"
+      "processed_at": "2026-05-07T03:54:27.947653+00:00"
+    },
+    {
+      "title": "Samsung is discounting a ton of Galaxy accessories including cases, chargers, more - 9to5Google",
+      "source": {
+        "name": "9to5google.com"
+      },
+      "description": "If you’ve had your eye on any official Samsung Galaxy accessories lately, right now the company is o...",
+      "url": "http://9to5google.com/2026/05/05/samsung-galaxy-cases-accessories-discount/",
+      "publishedAt": "2026-05-05T18:40:00Z",
+      "processed_at": "2026-05-07T03:54:27.947653+00:00"
     },
     {
       "title": "GTA 6 Fan Creates Trailer 3 Release Date Theory With Astronomy - IGN",
@@ -90,10 +80,10 @@
       "description": "The hype for GTA 6 has led fans down some excessively deep rabbit holes in an effort to predict the ...",
       "url": "https://www.ign.com/articles/gta-6-fan-spends-3-months-charting-the-planetary-positions-for-every-rockstar-trailer-drop-since-2007-to-predict-trailer-3-release-date",
       "publishedAt": "2026-05-05T18:02:06Z",
-      "processed_at": "2026-05-06T23:58:07.600133+00:00"
+      "processed_at": "2026-05-07T03:54:27.947653+00:00"
     }
   ],
-  "lastUpdated": "2026-05-06T23:58:07.600205+00:00",
+  "lastUpdated": "2026-05-07T03:54:27.947716+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
