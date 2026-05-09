@@ -1,16 +1,36 @@
 {
   "status": "success",
-  "totalResults": 9,
+  "totalResults": 10,
   "articles": [
     {
-      "title": "Resident Evil Requiem Update Adds New Minigame Mode 'Leon Must Die Forever' - Nintendo Life",
+      "title": "Nintendo announces Switch 2 price increase, going into effect worldwide - Nintendo Everything",
       "source": {
-        "name": "Nintendo Life"
+        "name": "Nintendoeverything.com"
       },
-      "description": "Try it out today on Switch 2...",
-      "url": "https://www.nintendolife.com/news/2026/05/resident-evil-requiem-update-adds-new-minigame-mode-leon-must-die-forever",
-      "publishedAt": "2026-05-08T02:00:00Z",
-      "processed_at": "2026-05-09T06:17:31.807227+00:00"
+      "description": "Nintendo is increasing the price of Switch 2 worldwide, the company has announced. In the U.S. and C...",
+      "url": "https://nintendoeverything.com/nintendo-announces-switch-2-price-increase-going-into-effect-worldwide/",
+      "publishedAt": "2026-05-08T06:38:02Z",
+      "processed_at": "2026-05-09T08:27:38.358008+00:00"
+    },
+    {
+      "title": "Resident Evil Requiem update live, adds Leon Must Die Forever mini-game - Nintendo Everything",
+      "source": {
+        "name": "Nintendoeverything.com"
+      },
+      "description": "The much-discussed mini-game for Resident Evil Requiem has just been made available as part of a new...",
+      "url": "https://nintendoeverything.com/resident-evil-requiem-update-live-adds-leon-must-die-forever-mini-game/",
+      "publishedAt": "2026-05-08T02:16:33Z",
+      "processed_at": "2026-05-09T08:27:38.358008+00:00"
+    },
+    {
+      "title": "Anthropic introduces \"dreaming,\" a system that lets AI agents learn from their own mistakes - VentureBeat",
+      "source": {
+        "name": "VentureBeat"
+      },
+      "description": "Anthropic has launched “dreaming” for AI agents, giving Claude new self-improving tools designed to ...",
+      "url": "https://venturebeat.com/technology/anthropic-introduces-dreaming-a-system-that-lets-ai-agents-learn-from-their-own-mistakes",
+      "publishedAt": "2026-05-08T00:10:01Z",
+      "processed_at": "2026-05-09T08:27:38.358008+00:00"
     },
     {
       "title": "Dirty Frag Vulnerability Made Public Early: Root Privilege On All Distributions - Phoronix",
@@ -20,7 +40,7 @@
       "description": "One week after the Copy Fail vulnerability, a new Linux local privilege escalation bug has been made...",
       "url": "https://www.phoronix.com/news/Dirty-Frag-Linux",
       "publishedAt": "2026-05-08T00:08:00Z",
-      "processed_at": "2026-05-09T06:17:31.807227+00:00"
+      "processed_at": "2026-05-09T08:27:38.358008+00:00"
     },
     {
       "title": "Gmail adds AI Inbox to the bottom bar as Help me write becomes more personal - 9to5Google",
@@ -30,17 +50,7 @@
       "description": "After its introduction on the web, AI Inbox is coming to Gmail for Android and iOS. In the navigatio...",
       "url": "http://9to5google.com/2026/05/07/gmail-ai-inbox-android-ios/",
       "publishedAt": "2026-05-07T21:45:00Z",
-      "processed_at": "2026-05-09T06:17:31.807227+00:00"
-    },
-    {
-      "title": "AirPods with cameras reportedly in final testing at Apple - Mashable",
-      "source": {
-        "name": "Mashable"
-      },
-      "description": "But the cameras aren't used for what you think they're used for....",
-      "url": "https://mashable.com/article/apple-airpods-ai-cameras-final-testing",
-      "publishedAt": "2026-05-07T21:31:37Z",
-      "processed_at": "2026-05-09T06:17:31.807227+00:00"
+      "processed_at": "2026-05-09T08:27:38.358008+00:00"
     },
     {
       "title": "Path of Exile 2 aims for a full 1.0 release this year, but not all of the promised character classes will make it - Eurogamer.net",
@@ -50,17 +60,17 @@
       "description": "It's nearly the end of the early access road for Path of Exile 2. We ask the director about launchin...",
       "url": "https://www.eurogamer.net/path-of-exile-2-full-release-classes",
       "publishedAt": "2026-05-07T21:30:00Z",
-      "processed_at": "2026-05-09T06:17:31.807227+00:00"
+      "processed_at": "2026-05-09T08:27:38.358008+00:00"
     },
     {
       "title": "With GTA 6 Due Out in November, Rockstar Teases 'Exciting New Update' for GTA Online This Summer - IGN",
       "source": {
         "name": "IGN"
       },
-      "description": "",
+      "description": "In a blog post, Rockstar Games teased that an \"exciting\" new GTA Online update will be released this...",
       "url": "https://www.ign.com/articles/with-gta-6-due-out-in-november-rockstar-teases-exciting-new-update-for-gta-online-this-summer",
       "publishedAt": "2026-05-07T21:26:31Z",
-      "processed_at": "2026-05-09T06:17:31.807227+00:00"
+      "processed_at": "2026-05-09T08:27:38.358008+00:00"
     },
     {
       "title": "New Yakuza Prequel Game Uses The Likeness Of An Actor Who Died 12 Years Ago - Kotaku",
@@ -70,7 +80,7 @@
       "description": "Bunta Sugawara, whose likeness is used in the upcoming prequel game Stranger than Heaven, died in 20...",
       "url": "https://kotaku.com/stranger-than-heaven-yakuza-like-a-dragon-bunta-sugawara-dead-actor-likeness-rgg-studio-2000694063",
       "publishedAt": "2026-05-07T20:41:12Z",
-      "processed_at": "2026-05-09T06:17:31.807227+00:00"
+      "processed_at": "2026-05-09T08:27:38.358008+00:00"
     },
     {
       "title": "You Can Disable Gemini in Chrome if It’s Freaking You Out - WIRED",
@@ -80,20 +90,20 @@
       "description": "Chrome users were caught off guard by a 4-GB Google AI model baked into Chrome, sparking privacy con...",
       "url": "https://www.wired.com/story/you-can-disable-gemini-in-chrome-if-its-freaking-you-out/",
       "publishedAt": "2026-05-07T20:31:00Z",
-      "processed_at": "2026-05-09T06:17:31.807227+00:00"
+      "processed_at": "2026-05-09T08:27:38.358008+00:00"
     },
     {
-      "title": "Perplexity’s Personal Computer is now available everyone on Mac - TechCrunch",
+      "title": "Project Helix Stream: Xbox Game Dev Update Spring '26 Is Here - Digital Foundry",
       "source": {
-        "name": "TechCrunch"
+        "name": "Digitalfoundry.net"
       },
-      "description": "Perplexity's Personal Computer brings AI agents to your Mac, and is now open to everyone....",
-      "url": "https://techcrunch.com/2026/05/07/perplexitys-personal-computer-is-now-available-everyone-on-mac/",
-      "publishedAt": "2026-05-07T19:57:59Z",
-      "processed_at": "2026-05-09T06:17:31.807227+00:00"
+      "description": "Microsoft, this is a welcome surprise....",
+      "url": "https://www.digitalfoundry.net/news/2026/05/project-helix-stream-xbox-game-dev-update-spring-26-is-here",
+      "publishedAt": "2026-05-07T20:06:02Z",
+      "processed_at": "2026-05-09T08:27:38.358008+00:00"
     }
   ],
-  "lastUpdated": "2026-05-09T06:17:31.807310+00:00",
+  "lastUpdated": "2026-05-09T08:27:38.358084+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
