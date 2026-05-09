@@ -1,7 +1,27 @@
 {
   "status": "success",
-  "totalResults": 9,
+  "totalResults": 10,
   "articles": [
+    {
+      "title": "Discord down today: What is wrong with servers? Company addresses API errors - how to fix | Hindustan Times - Hindustan Times",
+      "source": {
+        "name": "Hindustan Times"
+      },
+      "description": "Users across multiple regions reported issues accessing Discord today, with many complaining about A...",
+      "url": "https://www.hindustantimes.com/world-news/us-news/discord-down-today-what-is-wrong-with-servers-company-addresses-api-errors-how-to-fix-downdetector-101778267510807.html",
+      "publishedAt": "2026-05-08T19:17:43Z",
+      "processed_at": "2026-05-09T21:45:55.798550+00:00"
+    },
+    {
+      "title": "Walmart’s new 4K Google TV stick is the Chromecast replacement I needed [Gallery] - 9to5Google",
+      "source": {
+        "name": "9to5google.com"
+      },
+      "description": "Walmart is in the process of launching its new Google TV streamer lineup and, while I’m pretty intri...",
+      "url": "http://9to5google.com/2026/05/08/walmart-chromecast-with-google-tv-replacement-hands-on/",
+      "publishedAt": "2026-05-08T17:35:00Z",
+      "processed_at": "2026-05-09T21:45:55.798550+00:00"
+    },
     {
       "title": "No, Google hasn't changed Chrome's local AI features—it's just as confusing as ever - Ars Technica",
       "source": {
@@ -10,17 +30,27 @@
       "description": "You can stop Chrome from taking up 4GB of storage for local AI, but that shouldn't be your problem....",
       "url": "https://arstechnica.com/google/2026/05/no-google-hasnt-changed-chromes-local-ai-features-its-just-as-confusing-as-ever/",
       "publishedAt": "2026-05-08T17:17:17Z",
-      "processed_at": "2026-05-09T20:46:21.136709+00:00"
+      "processed_at": "2026-05-09T21:45:55.798550+00:00"
     },
     {
-      "title": "Google Launches $99 Fitbit Air, a Screenless Wearable for Health Tracking - eWeek",
+      "title": "Google starts rolling out big Snapseed 4.0 update for Android - 9to5Google",
       "source": {
-        "name": "eWeek"
+        "name": "9to5google.com"
       },
-      "description": "",
-      "url": "https://www.eweek.com/news/google-fitbit-air-screenless/",
-      "publishedAt": "2026-05-08T16:56:25Z",
-      "processed_at": "2026-05-09T20:46:21.136709+00:00"
+      "description": "In June of 2025, Google surprisingly released a major update for Snapseed after a long dormancy. Aft...",
+      "url": "http://9to5google.com/2026/05/08/snapseed-4-android-update/",
+      "publishedAt": "2026-05-08T17:07:00Z",
+      "processed_at": "2026-05-09T21:45:55.798550+00:00"
+    },
+    {
+      "title": "Google Fitbit Air preorders come with a second band for free - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "The $99.99 Google Fitbit Air fitness tracker launches on May 26th. Preordering it beforehand will ne...",
+      "url": "https://www.theverge.com/gadgets/926766/google-fitbit-air-preorder-free-band-deal-sale",
+      "publishedAt": "2026-05-08T15:39:43Z",
+      "processed_at": "2026-05-09T21:45:55.798550+00:00"
     },
     {
       "title": "Here Are The Best ‘Diablo 4: Lord Of Hatred’ Horadric Cube Recipes - Forbes",
@@ -30,17 +60,37 @@
       "description": "There are a ton of great Horadric Cube recipes in Diablo 4: Lord of Hatred, and these are the most i...",
       "url": "https://www.forbes.com/sites/paultassi/2026/05/08/here-are-the-best-diablo-4-lord-of-hatred-horadric-cube-recipes/",
       "publishedAt": "2026-05-08T15:08:16Z",
-      "processed_at": "2026-05-09T20:46:21.136709+00:00"
+      "processed_at": "2026-05-09T21:45:55.798550+00:00"
     },
     {
-      "title": "Which Macs are suffering from shortages—and where are things getting worse? - Ars Technica",
+      "title": "Pricing and censorship complaints be damned: Pokémon FireRed and LeafGreen sold over 4 million units in six weeks - Eurogamer.net",
       "source": {
-        "name": "Ars Technica"
+        "name": "Eurogamer.net"
       },
-      "description": "There are a couple signs of strain beyond the MacBook Neo and the desktops....",
-      "url": "https://arstechnica.com/gadgets/2026/05/were-tracking-423-mac-configurations-to-see-how-apple-is-handling-shortages/",
-      "publishedAt": "2026-05-08T15:00:27Z",
-      "processed_at": "2026-05-09T20:46:21.136709+00:00"
+      "description": "Both versions managed to sell an impressive amount in the first month and a half on sale....",
+      "url": "https://www.eurogamer.net/pokemon-fire-red-leaf-green-sales-switch-2",
+      "publishedAt": "2026-05-08T14:38:09Z",
+      "processed_at": "2026-05-09T21:45:55.798550+00:00"
+    },
+    {
+      "title": "YouTube app for Google TV, more revamps side menu with easier library access, recent channels [Gallery] - 9to5Google",
+      "source": {
+        "name": "9to5google.com"
+      },
+      "description": "The YouTube app for TVs, including Google TV, is rolling out a new design for the sidebar that makes...",
+      "url": "http://9to5google.com/2026/05/08/youtube-app-tv-sidebar-subscription-library-access/",
+      "publishedAt": "2026-05-08T14:35:00Z",
+      "processed_at": "2026-05-09T21:45:55.798550+00:00"
+    },
+    {
+      "title": "PS5 Sales Drop Almost 50%, As Sony Discusses AI Ambitions, Including New Hair Tech - GameSpot",
+      "source": {
+        "name": "GameSpot"
+      },
+      "description": "Sony sold 1.5 million PS5 systems over the past three months....",
+      "url": "https://www.gamespot.com/articles/ps5-sales-drop-almost-50-as-sony-discusses-ai-ambitions-including-new-hair-tech/1100-6539860/",
+      "publishedAt": "2026-05-08T14:15:04Z",
+      "processed_at": "2026-05-09T21:45:55.798550+00:00"
     },
     {
       "title": "OnePlus’ latest phone cuts OS updates in half, because clearly everything is fine - 9to5Google",
@@ -50,50 +100,10 @@
       "description": "The new OnePlus Nord CE6 looks good, but it cuts software updates in half amid a seemingly crumbling...",
       "url": "http://9to5google.com/2026/05/08/oneplus-software-updates-nord-ce6/",
       "publishedAt": "2026-05-08T14:05:00Z",
-      "processed_at": "2026-05-09T20:46:21.136709+00:00"
-    },
-    {
-      "title": "Marathon and Destiny developer Bungie underperformed last year, causing a $765 million impairment loss for PlayStation - Eurogamer.net",
-      "source": {
-        "name": "Eurogamer.net"
-      },
-      "description": "Marathon and Destiny 2 continue to be a loss leader for Bungie and PlayStation....",
-      "url": "https://www.eurogamer.net/bungie-marathon-destiny-765-million-impairment-loss-sony",
-      "publishedAt": "2026-05-08T12:34:12Z",
-      "processed_at": "2026-05-09T20:46:21.136709+00:00"
-    },
-    {
-      "title": "Frame-Gen to 30fps? Lego Batman's \"Bizarre\" PC Specs Sheet Is a Case Study in How Not To Market a Game - Digital Foundry",
-      "source": {
-        "name": "Digitalfoundry.net"
-      },
-      "description": "\"It's a bad decision and kind of funny.\"...",
-      "url": "https://www.digitalfoundry.net/features/frame-gen-to-30fps-lego-batmans-bizarre-pc-specs-sheet-is-a-case-study-in-how-not-to-market-a-game",
-      "publishedAt": "2026-05-08T11:25:00Z",
-      "processed_at": "2026-05-09T20:46:21.136709+00:00"
-    },
-    {
-      "title": "Two More Big Xbox Series X|S Sequels Have Just Been Confirmed For Summer 2026 - Pure Xbox",
-      "source": {
-        "name": "Pure Xbox"
-      },
-      "description": "The return of Aliens and Sinking City!...",
-      "url": "https://www.purexbox.com/news/2026/05/two-more-big-xbox-series-xs-sequels-have-just-been-confirmed-for-summer-2026",
-      "publishedAt": "2026-05-08T11:00:00Z",
-      "processed_at": "2026-05-09T20:46:21.136709+00:00"
-    },
-    {
-      "title": "Nintendo Switch 2 price rise takes effect from September - BBC",
-      "source": {
-        "name": "BBC News"
-      },
-      "description": "The Japanese company behind Mario says \"global market conditions\" contributed to the decision....",
-      "url": "https://www.bbc.com/news/articles/c9we8lzw8x8o",
-      "publishedAt": "2026-05-08T10:46:42Z",
-      "processed_at": "2026-05-09T20:46:21.136709+00:00"
+      "processed_at": "2026-05-09T21:45:55.798550+00:00"
     }
   ],
-  "lastUpdated": "2026-05-09T20:46:21.136787+00:00",
+  "lastUpdated": "2026-05-09T21:45:55.798628+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
