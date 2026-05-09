@@ -1,16 +1,36 @@
 {
   "status": "success",
-  "totalResults": 10,
+  "totalResults": 9,
   "articles": [
     {
-      "title": "Resident Evil Requiem ‘Leon Must Die Forever’ update now available - Gematsu",
+      "title": "Resident Evil Requiem Update Adds New Minigame Mode 'Leon Must Die Forever' - Nintendo Life",
       "source": {
-        "name": "Gematsu"
+        "name": "Nintendo Life"
       },
-      "description": "Capcom has released a free update for Resident Evil Requiem, which adds the new minigame mode “Leon ...",
-      "url": "https://www.gematsu.com/2026/05/resident-evil-requiem-leon-must-die-forever-update-now-available",
-      "publishedAt": "2026-05-08T01:34:10Z",
-      "processed_at": "2026-05-09T03:47:54.540129+00:00"
+      "description": "Try it out today on Switch 2...",
+      "url": "https://www.nintendolife.com/news/2026/05/resident-evil-requiem-update-adds-new-minigame-mode-leon-must-die-forever",
+      "publishedAt": "2026-05-08T02:00:00Z",
+      "processed_at": "2026-05-09T06:17:31.807227+00:00"
+    },
+    {
+      "title": "Dirty Frag Vulnerability Made Public Early: Root Privilege On All Distributions - Phoronix",
+      "source": {
+        "name": "Phoronix"
+      },
+      "description": "One week after the Copy Fail vulnerability, a new Linux local privilege escalation bug has been made...",
+      "url": "https://www.phoronix.com/news/Dirty-Frag-Linux",
+      "publishedAt": "2026-05-08T00:08:00Z",
+      "processed_at": "2026-05-09T06:17:31.807227+00:00"
+    },
+    {
+      "title": "Gmail adds AI Inbox to the bottom bar as Help me write becomes more personal - 9to5Google",
+      "source": {
+        "name": "9to5google.com"
+      },
+      "description": "After its introduction on the web, AI Inbox is coming to Gmail for Android and iOS. In the navigatio...",
+      "url": "http://9to5google.com/2026/05/07/gmail-ai-inbox-android-ios/",
+      "publishedAt": "2026-05-07T21:45:00Z",
+      "processed_at": "2026-05-09T06:17:31.807227+00:00"
     },
     {
       "title": "AirPods with cameras reportedly in final testing at Apple - Mashable",
@@ -20,7 +40,7 @@
       "description": "But the cameras aren't used for what you think they're used for....",
       "url": "https://mashable.com/article/apple-airpods-ai-cameras-final-testing",
       "publishedAt": "2026-05-07T21:31:37Z",
-      "processed_at": "2026-05-09T03:47:54.540129+00:00"
+      "processed_at": "2026-05-09T06:17:31.807227+00:00"
     },
     {
       "title": "Path of Exile 2 aims for a full 1.0 release this year, but not all of the promised character classes will make it - Eurogamer.net",
@@ -30,17 +50,27 @@
       "description": "It's nearly the end of the early access road for Path of Exile 2. We ask the director about launchin...",
       "url": "https://www.eurogamer.net/path-of-exile-2-full-release-classes",
       "publishedAt": "2026-05-07T21:30:00Z",
-      "processed_at": "2026-05-09T03:47:54.540129+00:00"
+      "processed_at": "2026-05-09T06:17:31.807227+00:00"
     },
     {
-      "title": "After A Chaotic Launch, Steam Controller Reservations Will Open Tomorrow - Game Informer",
+      "title": "With GTA 6 Due Out in November, Rockstar Teases 'Exciting New Update' for GTA Online This Summer - IGN",
       "source": {
-        "name": "Gameinformer.com"
+        "name": "IGN"
       },
-      "description": "The Steam Controller is going back on sale, only this time in a more organized fashion....",
-      "url": "https://gameinformer.com/2026/05/07/after-a-chaotic-launch-steam-controller-reservations-will-open-tomorrow",
-      "publishedAt": "2026-05-07T21:24:27Z",
-      "processed_at": "2026-05-09T03:47:54.540129+00:00"
+      "description": "",
+      "url": "https://www.ign.com/articles/with-gta-6-due-out-in-november-rockstar-teases-exciting-new-update-for-gta-online-this-summer",
+      "publishedAt": "2026-05-07T21:26:31Z",
+      "processed_at": "2026-05-09T06:17:31.807227+00:00"
+    },
+    {
+      "title": "New Yakuza Prequel Game Uses The Likeness Of An Actor Who Died 12 Years Ago - Kotaku",
+      "source": {
+        "name": "Kotaku"
+      },
+      "description": "Bunta Sugawara, whose likeness is used in the upcoming prequel game Stranger than Heaven, died in 20...",
+      "url": "https://kotaku.com/stranger-than-heaven-yakuza-like-a-dragon-bunta-sugawara-dead-actor-likeness-rgg-studio-2000694063",
+      "publishedAt": "2026-05-07T20:41:12Z",
+      "processed_at": "2026-05-09T06:17:31.807227+00:00"
     },
     {
       "title": "You Can Disable Gemini in Chrome if It’s Freaking You Out - WIRED",
@@ -50,60 +80,20 @@
       "description": "Chrome users were caught off guard by a 4-GB Google AI model baked into Chrome, sparking privacy con...",
       "url": "https://www.wired.com/story/you-can-disable-gemini-in-chrome-if-its-freaking-you-out/",
       "publishedAt": "2026-05-07T20:31:00Z",
-      "processed_at": "2026-05-09T03:47:54.540129+00:00"
+      "processed_at": "2026-05-09T06:17:31.807227+00:00"
     },
     {
-      "title": "Apple Notes is a killer app, and iOS 27’s rumored upgrade excites me for more - 9to5Mac",
+      "title": "Perplexity’s Personal Computer is now available everyone on Mac - TechCrunch",
       "source": {
-        "name": "9to5Mac"
+        "name": "TechCrunch"
       },
-      "description": "Apple Notes is one of my most-used apps, and iOS 27 is rumored to add a powerful capability that I k...",
-      "url": "https://9to5mac.com/2026/05/07/apple-notes-is-a-killer-app-and-ios-27s-rumored-upgrade-excites-me-for-more/",
-      "publishedAt": "2026-05-07T19:29:00Z",
-      "processed_at": "2026-05-09T03:47:54.540129+00:00"
-    },
-    {
-      "title": "\"Chaos Rising\" Set Guide: Full Set List, Product Lineup, Store Promos, and More! - PokeBeach",
-      "source": {
-        "name": "Pokebeach.com"
-      },
-      "description": "We now have the full English set list for Chaos Rising starring Mega Greninja ex! As posted before, ...",
-      "url": "https://www.pokebeach.com/2026/05/chaos-rising-set-guide-full-set-list-product-lineup-store-promos-and-more",
-      "publishedAt": "2026-05-07T19:13:23Z",
-      "processed_at": "2026-05-09T03:47:54.540129+00:00"
-    },
-    {
-      "title": "Perplexity AI app introduces ‘all-new native Mac experience’ for Personal Computer - 9to5Mac",
-      "source": {
-        "name": "9to5Mac"
-      },
-      "description": "Perplexity has released a brand new version of its macOS app that is replacing the company’s previou...",
-      "url": "https://9to5mac.com/2026/05/07/perplexity-ai-app-introduces-all-new-native-mac-experience-for-personal-computer/",
-      "publishedAt": "2026-05-07T18:31:00Z",
-      "processed_at": "2026-05-09T03:47:54.540129+00:00"
-    },
-    {
-      "title": "Failed Online Shooter Won’t Shut Down Because ‘Games Are Art And Deserve To Be Preserved’ - Kotaku",
-      "source": {
-        "name": "Kotaku"
-      },
-      "description": "Blindfire is now free to play and will stick around for 'years' so players can see what the studio c...",
-      "url": "https://kotaku.com/blindfire-free-to-play-steam-shooter-fps-update-shut-down-2000694020",
-      "publishedAt": "2026-05-07T18:10:58Z",
-      "processed_at": "2026-05-09T03:47:54.540129+00:00"
-    },
-    {
-      "title": "Xbox Teases More Project Helix News For 2026, Shares Full Presentation From GDC - Pure Xbox",
-      "source": {
-        "name": "Pure Xbox"
-      },
-      "description": "\"The console is absolutely core to Xbox\"...",
-      "url": "https://www.purexbox.com/news/2026/05/xbox-teases-more-project-helix-news-for-2026-shares-full-presentation-from-gdc",
-      "publishedAt": "2026-05-07T16:32:10Z",
-      "processed_at": "2026-05-09T03:47:54.540129+00:00"
+      "description": "Perplexity's Personal Computer brings AI agents to your Mac, and is now open to everyone....",
+      "url": "https://techcrunch.com/2026/05/07/perplexitys-personal-computer-is-now-available-everyone-on-mac/",
+      "publishedAt": "2026-05-07T19:57:59Z",
+      "processed_at": "2026-05-09T06:17:31.807227+00:00"
     }
   ],
-  "lastUpdated": "2026-05-09T03:47:54.540211+00:00",
+  "lastUpdated": "2026-05-09T06:17:31.807310+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
