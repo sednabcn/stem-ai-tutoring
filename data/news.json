@@ -3,6 +3,76 @@
   "totalResults": 10,
   "articles": [
     {
+      "title": "GTA 6 hopefuls encouraged by Sony to upgrade to PS5 now - Eurogamer",
+      "source": {
+        "name": "Eurogamer.net"
+      },
+      "description": "PlayStation is writing to PS4 owners to suggest they'll need to upgrade to a PS5 if they want to pla...",
+      "url": "https://www.eurogamer.net/gta-6-hopefuls-encouraged-by-sony-to-upgrade-to-ps5-now",
+      "publishedAt": "2026-05-10T16:35:52Z",
+      "processed_at": "2026-05-11T17:27:27.347827+00:00"
+    },
+    {
+      "title": "Google Health kills the Fitbit we knew, but maybe that’s not a bad thing - 9to5Google",
+      "source": {
+        "name": "9to5google.com"
+      },
+      "description": "Alongside its new Fitbit Air, Google this week announced that the Fitbit app is dead, to be replaced...",
+      "url": "http://9to5google.com/2026/05/10/google-health-kills-the-fitbit-we-knew-but-maybe-thats-not-a-bad-thing/",
+      "publishedAt": "2026-05-10T16:00:00Z",
+      "processed_at": "2026-05-11T17:27:27.347827+00:00"
+    },
+    {
+      "title": "Warhammer 40,000 Faction Focus: Chaos Space Marines and Chaos Daemons - Warhammer Community",
+      "source": {
+        "name": "Warhammer-community.com"
+      },
+      "description": "",
+      "url": "https://www.warhammer-community.com/en-gb/articles/ztuwo7gs/warhammer-40000-faction-focus-chaos-space-marines-and-chaos-daemons/",
+      "publishedAt": "2026-05-10T15:12:32Z",
+      "processed_at": "2026-05-11T17:27:27.347827+00:00"
+    },
+    {
+      "title": "Zelda: Twilight Princess unofficially ported to PC with lots of extra features & quality of life - My Nintendo News",
+      "source": {
+        "name": "My Nintendo News"
+      },
+      "description": "The long-awaited Dusk, which is an unofficial enhanced port of the acclaimed The Legend of Zelda: Tw...",
+      "url": "https://mynintendonews.com/2026/05/10/zelda-twilight-princess-unofficially-ported-to-pc-with-lots-of-extra-features-quality-of-life/",
+      "publishedAt": "2026-05-10T14:01:36Z",
+      "processed_at": "2026-05-11T17:27:27.347827+00:00"
+    },
+    {
+      "title": "Apple to Make Design Changes in macOS 27 to Address Tahoe Quirks - Bloomberg",
+      "source": {
+        "name": "Bloomberg"
+      },
+      "description": "Also: The latest on iOS 27 and the truth about the Vision Pro....",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-05-10/apple-plans-macos-27-design-changes-latest-on-ios-27-visionos-safari-wwdc-26-mozuaz9m",
+      "publishedAt": "2026-05-10T14:00:01Z",
+      "processed_at": "2026-05-11T17:27:27.347827+00:00"
+    },
+    {
+      "title": "Cricut’s $99 craft cutting machine helped me feel creative again - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "The Joy 2 is an affordable, capable machine for cutting and drawing crafts at home. However, its com...",
+      "url": "https://www.theverge.com/gadgets/924281/cricut-joy-2-smart-cutting-machine-printer-hands-on",
+      "publishedAt": "2026-05-10T14:00:00Z",
+      "processed_at": "2026-05-11T17:27:27.347827+00:00"
+    },
+    {
+      "title": "I Knew Shopping for a Wedding Dress Would Be Hard. I Didn’t Expect It to Go Like This. - Slate",
+      "source": {
+        "name": "Slate Magazine"
+      },
+      "description": "I’ve seen hundreds of dresses that defy the laws of physics....",
+      "url": "https://slate.com/culture/2026/05/wedding-dress-shopping-ai-fake.html",
+      "publishedAt": "2026-05-10T14:00:00Z",
+      "processed_at": "2026-05-11T17:27:27.347827+00:00"
+    },
+    {
       "title": "Rifle Finally Unlocked In Bully 20 Years Later Thanks To Wild Glitch - Kotaku",
       "source": {
         "name": "Kotaku"
@@ -10,7 +80,7 @@
       "description": "It's imperative that we not let this news reach Jack Thompson...",
       "url": "https://kotaku.com/newly-discovered-exploit-for-rockstars-bully-exploit-lets-you-unlock-lets-you-finally-unlock-bb-rifle-20-years-later-2000694646",
       "publishedAt": "2026-05-10T13:44:30Z",
-      "processed_at": "2026-05-11T14:57:12.766161+00:00"
+      "processed_at": "2026-05-11T17:27:27.347827+00:00"
     },
     {
       "title": "AMD DGF SuperCompression cuts geometry storage size by up to 22% - VideoCardz.com",
@@ -20,90 +90,20 @@
       "description": "AMD’s DGF SuperCompression reduces asset size for future GPU support AMD has released DGF SDK 1.2, a...",
       "url": "https://videocardz.com/newz/amd-dgf-supercompression-cuts-geometry-storage-size-by-up-to-22",
       "publishedAt": "2026-05-10T13:02:40Z",
-      "processed_at": "2026-05-11T14:57:12.766161+00:00"
+      "processed_at": "2026-05-11T17:27:27.347827+00:00"
     },
     {
-      "title": "Ollama Out-of-Bounds Read Vulnerability Allows Remote Process Memory Leak - The Hacker News",
+      "title": "PLAYISM and Rusted Moss developer announce ‘momentum Metroidvania’ game Iron Bramble for PC - Gematsu",
       "source": {
-        "name": "Google News"
+        "name": "Gematsu"
       },
-      "description": "",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPck9Cakd0Qm9xQnlVN0dpWWJqYjZCY3U4bWV6SExFMzlkakdSM2djSmtodVk4c05ocXRmeEtCS2VsOUx3ODl5V2xTRzlURmh4bktIZURScnZuQXZFUkZVaXBMOVRvMFRpcFc3Y1lud1ZoVTNEWjY2a0I3LTBQaDNOd0thQTM?oc=5",
-      "publishedAt": "2026-05-10T12:41:00Z",
-      "processed_at": "2026-05-11T14:57:12.766161+00:00"
-    },
-    {
-      "title": "Not Apple TV, Not Fire TV Stick: This Streaming Device Gets Consumer Reports' Top Rating - bgr.com",
-      "source": {
-        "name": "BGR"
-      },
-      "description": "When it comes to top streaming devices, many might point to the Apple TV or the Amazon Fire TV Stick...",
-      "url": "https://www.bgr.com/2163875/consumer-reports-top-rated-streaming-device-nvidia-shield/",
-      "publishedAt": "2026-05-10T11:47:00Z",
-      "processed_at": "2026-05-11T14:57:12.766161+00:00"
-    },
-    {
-      "title": "Axboe Hacking On New Linux Patches For 60% Increase To Per-Core I/O Performance - Phoronix",
-      "source": {
-        "name": "Phoronix"
-      },
-      "description": "Following a presentation at last week's Linux storage, file-system, memory management and BPF summit...",
-      "url": "https://www.phoronix.com/news/Axboe-60p-Faster-Per-Core-Perf",
-      "publishedAt": "2026-05-10T11:13:00Z",
-      "processed_at": "2026-05-11T14:57:12.766161+00:00"
-    },
-    {
-      "title": "Dricus du Plessis crowns himself 'world champion again' after Sean Strickland beat Khamzat Chimaev - Bloody Elbow",
-      "source": {
-        "name": "Bloody Elbow"
-      },
-      "description": "Saturday's UFC 328 main event result was a good one for Dricus du Plessis....",
-      "url": "https://bloodyelbow.com/2026/05/10/dricus-du-plessis-crowns-himself-world-champion-again-after-sean-strickland-beat-khamzat-chimaev/",
-      "publishedAt": "2026-05-10T11:00:00Z",
-      "processed_at": "2026-05-11T14:57:12.766161+00:00"
-    },
-    {
-      "title": "5 Cool USB-C Gadgets You Should Plug Into Your New iPad - bgr.com",
-      "source": {
-        "name": "BGR"
-      },
-      "description": "The USB-C port on your iPad is good for more than just charging your device, as you can use these de...",
-      "url": "https://www.bgr.com/2163872/cool-usb-c-gadgets-plug-into-with-new-ipad/",
-      "publishedAt": "2026-05-10T10:17:00Z",
-      "processed_at": "2026-05-11T14:57:12.766161+00:00"
-    },
-    {
-      "title": "Pokémon GO Events This Week: 11 – 17 May 2026 - Pokémon GO Hub",
-      "source": {
-        "name": "Pokemon GO Hub"
-      },
-      "description": "Pokémon GO’s May 11-17 week sees us enter the final month of the season of Memories in Motion! Welco...",
-      "url": "https://pokemongohub.net/post/event/pokemon-go-events-this-week-11-17-may-2026/",
-      "publishedAt": "2026-05-10T08:53:06Z",
-      "processed_at": "2026-05-11T14:57:12.766161+00:00"
-    },
-    {
-      "title": "GM's Rare Quadrasteer System For Pickup Trucks Was Innovative (And A Massive Failure) - Jalopnik",
-      "source": {
-        "name": "Jalopnik"
-      },
-      "description": "The Quadrasteer system from GM drew plenty of praise when it debuted, but only lasted a few years. H...",
-      "url": "https://www.jalopnik.com/2164412/gm-quadrasteer-innovative-failure/",
-      "publishedAt": "2026-05-10T04:25:00Z",
-      "processed_at": "2026-05-11T14:57:12.766161+00:00"
-    },
-    {
-      "title": "Kconfirm Is On A Quest To Clean Up The Linux Kernel's Configuration System - Phoronix",
-      "source": {
-        "name": "Phoronix"
-      },
-      "description": "New tooling being worked on for possible mainline Linux kernel inclusion is Kconfirm as a new tool f...",
-      "url": "https://www.phoronix.com/news/Linux-Kconfirm",
-      "publishedAt": "2026-05-10T00:29:00Z",
-      "processed_at": "2026-05-11T14:57:12.766161+00:00"
+      "description": "Publisher PLAYISM, Rusted Moss developer Emlise, and developer Mini Bunnies have announced Iron Bram...",
+      "url": "https://www.gematsu.com/2026/05/playism-and-rusted-moss-developer-announce-momentum-metroidvania-game-iron-bramble-for-pc",
+      "publishedAt": "2026-05-10T12:12:40Z",
+      "processed_at": "2026-05-11T17:27:27.347827+00:00"
     }
   ],
-  "lastUpdated": "2026-05-11T14:57:12.766218+00:00",
+  "lastUpdated": "2026-05-11T17:27:27.347902+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
