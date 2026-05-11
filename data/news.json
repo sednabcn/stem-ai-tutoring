@@ -3,6 +3,56 @@
   "totalResults": 10,
   "articles": [
     {
+      "title": "Rifle Finally Unlocked In Bully 20 Years Later Thanks To Wild Glitch - Kotaku",
+      "source": {
+        "name": "Kotaku"
+      },
+      "description": "It's imperative that we not let this news reach Jack Thompson...",
+      "url": "https://kotaku.com/newly-discovered-exploit-for-rockstars-bully-exploit-lets-you-unlock-lets-you-finally-unlock-bb-rifle-20-years-later-2000694646",
+      "publishedAt": "2026-05-10T13:44:30Z",
+      "processed_at": "2026-05-11T14:57:12.766161+00:00"
+    },
+    {
+      "title": "AMD DGF SuperCompression cuts geometry storage size by up to 22% - VideoCardz.com",
+      "source": {
+        "name": "Videocardz.com"
+      },
+      "description": "AMD’s DGF SuperCompression reduces asset size for future GPU support AMD has released DGF SDK 1.2, a...",
+      "url": "https://videocardz.com/newz/amd-dgf-supercompression-cuts-geometry-storage-size-by-up-to-22",
+      "publishedAt": "2026-05-10T13:02:40Z",
+      "processed_at": "2026-05-11T14:57:12.766161+00:00"
+    },
+    {
+      "title": "Ollama Out-of-Bounds Read Vulnerability Allows Remote Process Memory Leak - The Hacker News",
+      "source": {
+        "name": "Google News"
+      },
+      "description": "",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPck9Cakd0Qm9xQnlVN0dpWWJqYjZCY3U4bWV6SExFMzlkakdSM2djSmtodVk4c05ocXRmeEtCS2VsOUx3ODl5V2xTRzlURmh4bktIZURScnZuQXZFUkZVaXBMOVRvMFRpcFc3Y1lud1ZoVTNEWjY2a0I3LTBQaDNOd0thQTM?oc=5",
+      "publishedAt": "2026-05-10T12:41:00Z",
+      "processed_at": "2026-05-11T14:57:12.766161+00:00"
+    },
+    {
+      "title": "Not Apple TV, Not Fire TV Stick: This Streaming Device Gets Consumer Reports' Top Rating - bgr.com",
+      "source": {
+        "name": "BGR"
+      },
+      "description": "When it comes to top streaming devices, many might point to the Apple TV or the Amazon Fire TV Stick...",
+      "url": "https://www.bgr.com/2163875/consumer-reports-top-rated-streaming-device-nvidia-shield/",
+      "publishedAt": "2026-05-10T11:47:00Z",
+      "processed_at": "2026-05-11T14:57:12.766161+00:00"
+    },
+    {
+      "title": "Axboe Hacking On New Linux Patches For 60% Increase To Per-Core I/O Performance - Phoronix",
+      "source": {
+        "name": "Phoronix"
+      },
+      "description": "Following a presentation at last week's Linux storage, file-system, memory management and BPF summit...",
+      "url": "https://www.phoronix.com/news/Axboe-60p-Faster-Per-Core-Perf",
+      "publishedAt": "2026-05-10T11:13:00Z",
+      "processed_at": "2026-05-11T14:57:12.766161+00:00"
+    },
+    {
       "title": "Dricus du Plessis crowns himself 'world champion again' after Sean Strickland beat Khamzat Chimaev - Bloody Elbow",
       "source": {
         "name": "Bloody Elbow"
@@ -10,17 +60,37 @@
       "description": "Saturday's UFC 328 main event result was a good one for Dricus du Plessis....",
       "url": "https://bloodyelbow.com/2026/05/10/dricus-du-plessis-crowns-himself-world-champion-again-after-sean-strickland-beat-khamzat-chimaev/",
       "publishedAt": "2026-05-10T11:00:00Z",
-      "processed_at": "2026-05-11T11:24:15.368933+00:00"
+      "processed_at": "2026-05-11T14:57:12.766161+00:00"
     },
     {
-      "title": "Xbox gets another 30 new games next week - TrueAchievements",
+      "title": "5 Cool USB-C Gadgets You Should Plug Into Your New iPad - bgr.com",
       "source": {
-        "name": "TrueAchievements"
+        "name": "BGR"
       },
-      "description": "Over the next seven days, Subnautica 2, Outbound, Directive 8020, and 27 more new games launch acros...",
-      "url": "https://www.trueachievements.com/news/new-xbox-games-may-11-2026",
-      "publishedAt": "2026-05-10T09:02:27Z",
-      "processed_at": "2026-05-11T11:24:15.368933+00:00"
+      "description": "The USB-C port on your iPad is good for more than just charging your device, as you can use these de...",
+      "url": "https://www.bgr.com/2163872/cool-usb-c-gadgets-plug-into-with-new-ipad/",
+      "publishedAt": "2026-05-10T10:17:00Z",
+      "processed_at": "2026-05-11T14:57:12.766161+00:00"
+    },
+    {
+      "title": "Pokémon GO Events This Week: 11 – 17 May 2026 - Pokémon GO Hub",
+      "source": {
+        "name": "Pokemon GO Hub"
+      },
+      "description": "Pokémon GO’s May 11-17 week sees us enter the final month of the season of Memories in Motion! Welco...",
+      "url": "https://pokemongohub.net/post/event/pokemon-go-events-this-week-11-17-may-2026/",
+      "publishedAt": "2026-05-10T08:53:06Z",
+      "processed_at": "2026-05-11T14:57:12.766161+00:00"
+    },
+    {
+      "title": "GM's Rare Quadrasteer System For Pickup Trucks Was Innovative (And A Massive Failure) - Jalopnik",
+      "source": {
+        "name": "Jalopnik"
+      },
+      "description": "The Quadrasteer system from GM drew plenty of praise when it debuted, but only lasted a few years. H...",
+      "url": "https://www.jalopnik.com/2164412/gm-quadrasteer-innovative-failure/",
+      "publishedAt": "2026-05-10T04:25:00Z",
+      "processed_at": "2026-05-11T14:57:12.766161+00:00"
     },
     {
       "title": "Kconfirm Is On A Quest To Clean Up The Linux Kernel's Configuration System - Phoronix",
@@ -30,80 +100,10 @@
       "description": "New tooling being worked on for possible mainline Linux kernel inclusion is Kconfirm as a new tool f...",
       "url": "https://www.phoronix.com/news/Linux-Kconfirm",
       "publishedAt": "2026-05-10T00:29:00Z",
-      "processed_at": "2026-05-11T11:24:15.368933+00:00"
-    },
-    {
-      "title": "'Resident Evil: Requiem' gets a cool and free new mode, out now - Mashable",
-      "source": {
-        "name": "Mashable"
-      },
-      "description": "Leon Must Die Forever sounds fun as heck....",
-      "url": "https://mashable.com/article/resident-evil-requiem-leon-must-die-forever-free-mode-out-now",
-      "publishedAt": "2026-05-10T00:05:03Z",
-      "processed_at": "2026-05-11T11:24:15.368933+00:00"
-    },
-    {
-      "title": "Star Fox Switch 2 amiibo Compatibility Confirmed, Here's What You Can Unlock - Nintendo Life",
-      "source": {
-        "name": "Nintendo Life"
-      },
-      "description": "It's time to dust off your Fox amiibo...",
-      "url": "https://www.nintendolife.com/news/2026/05/star-fox-switch-2-amiibo-compatibility-confirmed-heres-what-you-can-unlock",
-      "publishedAt": "2026-05-10T00:00:00Z",
-      "processed_at": "2026-05-11T11:24:15.368933+00:00"
-    },
-    {
-      "title": "Lamborghini Fenomeno Roadster (2027) - NetCarShow.com",
-      "source": {
-        "name": "Netcarshow.com"
-      },
-      "description": "Lamborghini Fenomeno Roadster features a completely new aerodynamic package compared to the Coupe, d...",
-      "url": "https://www.netcarshow.com/lamborghini/2027-fenomeno_roadster/",
-      "publishedAt": "2026-05-09T21:44:09Z",
-      "processed_at": "2026-05-11T11:24:15.368933+00:00"
-    },
-    {
-      "title": "Galaxy Z Fold 8 Wide: Leaked Case Images Reconfirms Shorter, Wider Design - Android Headlines",
-      "source": {
-        "name": "Android Headlines"
-      },
-      "description": "New leaked case images of the Galaxy Z Fold 8 Wide reconfirm a shorter and wider design: Here's what...",
-      "url": "https://www.androidheadlines.com/2026/05/galaxy-z-fold-8-wide-case-leak-design-confirmation.html",
-      "publishedAt": "2026-05-09T19:28:51Z",
-      "processed_at": "2026-05-11T11:24:15.368933+00:00"
-    },
-    {
-      "title": "Nintendo’s Takashi Tezuka Reinvented The Legend Of Zelda Without Overthinking It - Kotaku",
-      "source": {
-        "name": "Kotaku"
-      },
-      "description": "Originally an outsider to gaming, Tezuka's otherworldly influences extended far beyond what arcade h...",
-      "url": "https://kotaku.com/takashi-tezuka-reinvented-the-legend-of-zelda-without-overthinking-it-2000694600",
-      "publishedAt": "2026-05-09T19:01:25Z",
-      "processed_at": "2026-05-11T11:24:15.368933+00:00"
-    },
-    {
-      "title": "One UI 8.5 and One UI 9 news cycle to intensify next week - Sammy Fans",
-      "source": {
-        "name": "Sammyfans.com"
-      },
-      "description": "The next week of May could kick off an intensifying news cycle of Samsung’s One UI 8.5 and One UI 9....",
-      "url": "https://www.sammyfans.com/2026/05/09/one-ui-8-5-and-one-ui-9-news-cycle-to-intensify-next-week/",
-      "publishedAt": "2026-05-09T18:59:34Z",
-      "processed_at": "2026-05-11T11:24:15.368933+00:00"
-    },
-    {
-      "title": "New Subnautica 2 gameplay teaser has just dropped and if you weren't excited before, you will be now - Eurogamer.net",
-      "source": {
-        "name": "Eurogamer.net"
-      },
-      "description": "We're just days away from returning to the beautiful briny in Subnautica 2, and to celebrate, we've ...",
-      "url": "https://www.eurogamer.net/new-subnautica-2-gameplay-teaser-has-just-dropped-and-if-you-werent-excited-before-you-will-be-now",
-      "publishedAt": "2026-05-09T18:17:08Z",
-      "processed_at": "2026-05-11T11:24:15.368933+00:00"
+      "processed_at": "2026-05-11T14:57:12.766161+00:00"
     }
   ],
-  "lastUpdated": "2026-05-11T11:24:15.369010+00:00",
+  "lastUpdated": "2026-05-11T14:57:12.766218+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
