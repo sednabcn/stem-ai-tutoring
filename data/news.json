@@ -3,6 +3,66 @@
   "totalResults": 10,
   "articles": [
     {
+      "title": "Xbox sale round-up May 12, 2026 - TrueAchievements",
+      "source": {
+        "name": "TrueAchievements"
+      },
+      "description": "New Xbox sales are now live, with big discounts on Dying Light, Dragon Ball Xenoverse 2, Dying Light...",
+      "url": "https://www.trueachievements.com/n62321/xbox-sale-roundup-may-12-2026",
+      "publishedAt": "2026-05-12T00:09:56Z",
+      "processed_at": "2026-05-12T23:03:52.673070+00:00"
+    },
+    {
+      "title": "Linux bitten by second severe vulnerability in as many weeks - Ars Technica",
+      "source": {
+        "name": "Ars Technica"
+      },
+      "description": "Production-version patches are coming online and should be installed pronto....",
+      "url": "https://arstechnica.com/security/2026/05/linux-bitten-by-second-severe-vulnerability-in-as-many-weeks/",
+      "publishedAt": "2026-05-11T22:28:19Z",
+      "processed_at": "2026-05-12T23:03:52.673070+00:00"
+    },
+    {
+      "title": "Here’s what Mira Murati’s AI company is up to - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "Thinking Machines, the AI company founded by former OpenAI CTO Mira Murati, announced Monday that it...",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/928309/mira-murati-thinking-machines-ai-interaction-model",
+      "publishedAt": "2026-05-11T22:19:15Z",
+      "processed_at": "2026-05-12T23:03:52.673070+00:00"
+    },
+    {
+      "title": "Finally, texts between Android and iPhone users can be end-to-end encrypted - TechCrunch",
+      "source": {
+        "name": "TechCrunch"
+      },
+      "description": "Google had urged Apple for years to support RCS texting to make communication between each company's...",
+      "url": "https://techcrunch.com/2026/05/11/finally-texts-between-android-and-iphone-users-can-be-end-to-end-encrypted/",
+      "publishedAt": "2026-05-11T21:59:34Z",
+      "processed_at": "2026-05-12T23:03:52.673070+00:00"
+    },
+    {
+      "title": "Everett-based Funko is hit with a new lawsuit - The Seattle Times",
+      "source": {
+        "name": "The Seattle Times"
+      },
+      "description": "A new lawsuit claims Everett-based Funko, known for its Pop! vinyl figures, misleads users about how...",
+      "url": "https://www.seattletimes.com/business/funko-accused-of-collecting-user-data-without-permission/",
+      "publishedAt": "2026-05-11T21:20:28Z",
+      "processed_at": "2026-05-12T23:03:52.673070+00:00"
+    },
+    {
+      "title": "Govee’s new portable smart lamp is on sale for the first time - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "Govee’s Table Lamp Classic is $63.99 ($16 off) at Amazon. The cordless lamp offers colorful lighting...",
+      "url": "https://www.theverge.com/gadgets/928249/govee-table-lamp-classic-deal-sale",
+      "publishedAt": "2026-05-11T19:56:28Z",
+      "processed_at": "2026-05-12T23:03:52.673070+00:00"
+    },
+    {
       "title": "Valve Has a Plan to Stop Scalpers From Botting the Steam Machine - Gizmodo",
       "source": {
         "name": "Gizmodo.com"
@@ -10,27 +70,27 @@
       "description": "It's what Valve should have done with the Steam Controller from the start....",
       "url": "https://gizmodo.com/valve-has-a-plan-to-stop-scalpers-from-botting-the-steam-machine-2000757147",
       "publishedAt": "2026-05-11T19:30:53Z",
-      "processed_at": "2026-05-12T21:21:21.293675+00:00"
+      "processed_at": "2026-05-12T23:03:52.673070+00:00"
+    },
+    {
+      "title": "Poll: Is Saros Better Than Returnal? - Push Square",
+      "source": {
+        "name": "Push Square"
+      },
+      "description": "Total eclipse...",
+      "url": "https://www.pushsquare.com/features/poll-is-saros-better-than-returnal",
+      "publishedAt": "2026-05-11T19:00:00Z",
+      "processed_at": "2026-05-12T23:03:52.673070+00:00"
     },
     {
       "title": "You Need a PS5 Pro to Play 007 First Light at Its Best on Console - Push Square",
       "source": {
         "name": "Push Square"
       },
-      "description": "",
+      "description": "First clip of PS5 Pro gameplay revealed...",
       "url": "https://www.pushsquare.com/news/2026/05/you-need-a-ps5-pro-to-play-007-first-light-at-its-best-on-console",
       "publishedAt": "2026-05-11T18:25:22Z",
-      "processed_at": "2026-05-12T21:21:21.293675+00:00"
-    },
-    {
-      "title": "Apple brings encrypted RCS chats to iPhone - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "Apple now lets you have encrypted RCS chats with Android users through the Messages app on iOS, as p...",
-      "url": "https://www.theverge.com/tech/928141/apple-ios-26-5-rcs-messages-iphone-google-android",
-      "publishedAt": "2026-05-11T17:57:56Z",
-      "processed_at": "2026-05-12T21:21:21.293675+00:00"
+      "processed_at": "2026-05-12T23:03:52.673070+00:00"
     },
     {
       "title": "Starlink blocks access to its GPS alternative ahead of SpaceX IPO - Ars Technica",
@@ -40,70 +100,10 @@
       "description": "Shutdown of Starlink location feature won’t dampen interest in GPS alternatives....",
       "url": "https://arstechnica.com/gadgets/2026/05/starlink-blocks-access-to-its-gps-alternative-ahead-of-spacex-ipo/",
       "publishedAt": "2026-05-11T17:55:34Z",
-      "processed_at": "2026-05-12T21:21:21.293675+00:00"
-    },
-    {
-      "title": "Today’s Top Deals: MTG Edge of Eternities, Metal Gear Solid: Master Collection, and Pragmata - IGN",
-      "source": {
-        "name": "IGN"
-      },
-      "description": "The Resident Evil Generation Pack is back in stock, plus deals on a streaming mic, Pokémon’s Perfect...",
-      "url": "https://www.ign.com/articles/todays-top-deals-mtg-edge-of-eternities-metal-gear-solid-master-collection-and-pragmata",
-      "publishedAt": "2026-05-11T17:20:00Z",
-      "processed_at": "2026-05-12T21:21:21.293675+00:00"
-    },
-    {
-      "title": "MTG Arena Announcements – May 11, 2026 - Magic: The Gathering",
-      "source": {
-        "name": "Wizards.com"
-      },
-      "description": "Catch up with the latest info and events on MTG Arena....",
-      "url": "https://magic.wizards.com/en/news/mtg-arena/announcements-may-11-2026",
-      "publishedAt": "2026-05-11T17:16:50Z",
-      "processed_at": "2026-05-12T21:21:21.293675+00:00"
-    },
-    {
-      "title": "watchOS 26.5 available now for Apple Watch, here’s what’s new - 9to5Mac",
-      "source": {
-        "name": "9to5Mac"
-      },
-      "description": "Apple has just released watchOS 26.5, the latest software update for Apple Watch. Here’s what’s new ...",
-      "url": "https://9to5mac.com/2026/05/11/watchos-26-5-available-now-for-apple-watch-heres-whats-new/",
-      "publishedAt": "2026-05-11T17:10:00Z",
-      "processed_at": "2026-05-12T21:21:21.293675+00:00"
-    },
-    {
-      "title": "Heroes of the Storm Balance Patch Notes - May 11, 2026 - Blizzard News",
-      "source": {
-        "name": "Blizzard.com"
-      },
-      "description": "We’ve just released a patch to the live servers in order to apply some balance and bug fixes....",
-      "url": "https://news.blizzard.com/en-us/article/24276959/heroes-of-the-storm-balance-patch-notes-may-11-2026",
-      "publishedAt": "2026-05-11T17:00:00Z",
-      "processed_at": "2026-05-12T21:21:21.293675+00:00"
-    },
-    {
-      "title": "The Claude Delusion - Defector",
-      "source": {
-        "name": "Defector.com"
-      },
-      "description": "If you asked philosophers what the most mysterious thing about the mind is, most of them would say: ...",
-      "url": "https://defector.com/the-claude-delusion",
-      "publishedAt": "2026-05-11T16:40:00Z",
-      "processed_at": "2026-05-12T21:21:21.293675+00:00"
-    },
-    {
-      "title": "Canon Offers Another Cryptic Look at a Mysterious New Camera - PetaPixel",
-      "source": {
-        "name": "PetaPixel"
-      },
-      "description": "Canon offers another cryptic teaser....",
-      "url": "https://petapixel.com/2026/05/11/canon-offers-another-cryptic-look-at-a-mysterious-new-camera/",
-      "publishedAt": "2026-05-11T16:26:59Z",
-      "processed_at": "2026-05-12T21:21:21.293675+00:00"
+      "processed_at": "2026-05-12T23:03:52.673070+00:00"
     }
   ],
-  "lastUpdated": "2026-05-12T21:21:21.293746+00:00",
+  "lastUpdated": "2026-05-12T23:03:52.673169+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
