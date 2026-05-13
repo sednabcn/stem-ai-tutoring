@@ -1,7 +1,57 @@
 {
   "status": "success",
-  "totalResults": 9,
+  "totalResults": 10,
   "articles": [
+    {
+      "title": "Sega Cancels $882 Million 'Super Game,' Details Schedule For Upcoming Games - Game Informer",
+      "source": {
+        "name": "Gameinformer.com"
+      },
+      "description": "Super done....",
+      "url": "https://gameinformer.com/2026/05/12/sega-cancels-882-million-super-game-details-schedule-for-upcoming-games",
+      "publishedAt": "2026-05-12T13:44:52Z",
+      "processed_at": "2026-05-13T15:44:21.957135+00:00"
+    },
+    {
+      "title": "Nintendo Switch 2: Choose Your Game Bundle launches this summer - News - Nintendo Official Site - Nintendo",
+      "source": {
+        "name": "Nintendo.com"
+      },
+      "description": "Nintendo Switch 2: Choose Your Game Bundle includes Mario Kart World or Donkey Kong Bananza or Pokém...",
+      "url": "https://www.nintendo.com/us/whatsnew/nintendo-switch-2-choose-your-game-bundle-launches-this-summer/",
+      "publishedAt": "2026-05-12T13:05:14Z",
+      "processed_at": "2026-05-13T15:44:21.957135+00:00"
+    },
+    {
+      "title": "Can The Jumper Be Hacked? Inside Basketball’s Next Arms Race - Defector",
+      "source": {
+        "name": "Defector.com"
+      },
+      "description": "In the summer of 2024, during the WNBA’s Olympic break, several Atlanta Dream players who weren’t co...",
+      "url": "https://defector.com/can-the-jumper-be-hacked-inside-basketballs-next-arms-race",
+      "publishedAt": "2026-05-12T13:01:00Z",
+      "processed_at": "2026-05-13T15:44:21.957135+00:00"
+    },
+    {
+      "title": "Samsung Launches One UI 9 Beta for Galaxy S26 Series Users - samsung.com",
+      "source": {
+        "name": "Samsung.com"
+      },
+      "description": "Samsung Electronics today announced the One UI 9 beta program, launching this week beginning with th...",
+      "url": "https://news.samsung.com/global/samsung-launches-one-ui-9-beta-for-galaxy-s26-series-users",
+      "publishedAt": "2026-05-12T12:20:00Z",
+      "processed_at": "2026-05-13T15:44:21.957135+00:00"
+    },
+    {
+      "title": "iRobot announces eight smaller and better Roomba bots after bankruptcy - 9to5Mac",
+      "source": {
+        "name": "9to5Mac"
+      },
+      "description": "It’s only a few months since iRobot filed for bankruptcy, but it has now re-emerged under new owners...",
+      "url": "https://9to5mac.com/2026/05/12/irobot-announces-eight-smaller-and-better-roomba-bots-after-bankruptcy/",
+      "publishedAt": "2026-05-12T11:51:00Z",
+      "processed_at": "2026-05-13T15:44:21.957135+00:00"
+    },
     {
       "title": "Indiana Jones and the Great Circle's Nintendo Switch 2 port is finally here and it holds up pretty well - Eurogamer",
       "source": {
@@ -10,7 +60,7 @@
       "description": "Bethesda and MachineGames' Nintendo Switch 2 port of Indiana Jones and the Great Circle is a looker ...",
       "url": "https://www.eurogamer.net/indiana-jones-and-the-great-circle-nintendo-switch-2",
       "publishedAt": "2026-05-12T11:01:16Z",
-      "processed_at": "2026-05-13T12:06:04.296093+00:00"
+      "processed_at": "2026-05-13T15:44:21.957135+00:00"
     },
     {
       "title": "AI-assisted hacking is already here, Google warns - Axios",
@@ -20,7 +70,17 @@
       "description": "Researchers have found the first known case of cybercriminals using AI to exploit a zero-day flaw....",
       "url": "https://www.axios.com/2026/05/12/ai-hacking-found-google-report",
       "publishedAt": "2026-05-12T09:41:26Z",
-      "processed_at": "2026-05-13T12:06:04.296093+00:00"
+      "processed_at": "2026-05-13T15:44:21.957135+00:00"
+    },
+    {
+      "title": "Pocketpair Continues To Defy Nintendo With New Palworld Trademark - Nintendo Life",
+      "source": {
+        "name": "Nintendo Life"
+      },
+      "description": "Taking things online...",
+      "url": "https://www.nintendolife.com/news/2026/05/pocketpair-continues-to-defy-nintendo-with-new-palworld-trademark",
+      "publishedAt": "2026-05-12T09:30:00Z",
+      "processed_at": "2026-05-13T15:44:21.957135+00:00"
     },
     {
       "title": "AI coders are carrying half-open laptops through airports, offices, and ice rinks - Business Insider",
@@ -30,17 +90,7 @@
       "description": "Techies are walking with their laptops open to keep their agents running. They told Business Insider...",
       "url": "https://www.businessinsider.com/coders-keep-laptops-open-in-public-ai-agent-2026-5",
       "publishedAt": "2026-05-12T09:05:12Z",
-      "processed_at": "2026-05-13T12:06:04.296093+00:00"
-    },
-    {
-      "title": "Samsung is preparing the One UI 9 beta program - SamMobile",
-      "source": {
-        "name": "SamMobile"
-      },
-      "description": "Now that the stable One UI 8.5 update has started rolling out for eligible Galaxy devices, Samsung s...",
-      "url": "https://www.sammobile.com/news/samsung-one-ui-9-beta-program-open-soon/",
-      "publishedAt": "2026-05-12T08:09:00Z",
-      "processed_at": "2026-05-13T12:06:04.296093+00:00"
+      "processed_at": "2026-05-13T15:44:21.957135+00:00"
     },
     {
       "title": "Another Gift To The World From CERN: Their Entire Set Of KiCad Libraries - Hackaday",
@@ -50,50 +100,10 @@
       "description": "As the foremost boffins of Europe toil deep underneath the border between Switzerland and France in ...",
       "url": "https://hackaday.com/2026/05/12/another-gift-to-the-world-from-cern-their-entire-set-of-kicad-libraries/",
       "publishedAt": "2026-05-12T08:00:00Z",
-      "processed_at": "2026-05-13T12:06:04.296093+00:00"
-    },
-    {
-      "title": "Sega Has Officially Cancelled Its \"Super Game\" - Nintendo Life",
-      "source": {
-        "name": "Nintendo Life"
-      },
-      "description": "Other projects and revivals are still on the way...",
-      "url": "https://www.nintendolife.com/news/2026/05/sega-has-officially-cancelled-its-super-game",
-      "publishedAt": "2026-05-12T05:00:00Z",
-      "processed_at": "2026-05-13T12:06:04.296093+00:00"
-    },
-    {
-      "title": "Thinking Machines wants to build an AI that actually listens while it talks - TechCrunch",
-      "source": {
-        "name": "TechCrunch"
-      },
-      "description": "Right now, every AI model you've ever used works the same way. You talk, it listens. It responds, yo...",
-      "url": "https://techcrunch.com/2026/05/11/thinking-machines-wants-to-build-an-ai-that-actually-listens-while-it-talks/",
-      "publishedAt": "2026-05-12T04:52:35Z",
-      "processed_at": "2026-05-13T12:06:04.296093+00:00"
-    },
-    {
-      "title": "Google Fitbit Air: 6 unique features that could tempt us to switch - Mashable",
-      "source": {
-        "name": "Mashable"
-      },
-      "description": "The upcoming Fitbit Air has some features that should make smartwatches and Whoop sweat....",
-      "url": "https://mashable.com/article/google-fitbit-air-top-features",
-      "publishedAt": "2026-05-12T04:04:49Z",
-      "processed_at": "2026-05-13T12:06:04.296093+00:00"
-    },
-    {
-      "title": "Zelda: Tears of the Kingdom – Mineru Construct amiibo release date finally revealed - Nintendo Everything",
-      "source": {
-        "name": "Nintendoeverything.com"
-      },
-      "description": "We’ve been waiting a long time for this one, but Nintendo just provided the release date for the Zel...",
-      "url": "https://nintendoeverything.com/zelda-tears-of-the-kingdom-mineru-construct-amiibo-release-date-finally-revealed/",
-      "publishedAt": "2026-05-12T01:01:46Z",
-      "processed_at": "2026-05-13T12:06:04.296093+00:00"
+      "processed_at": "2026-05-13T15:44:21.957135+00:00"
     }
   ],
-  "lastUpdated": "2026-05-13T12:06:04.296163+00:00",
+  "lastUpdated": "2026-05-13T15:44:21.957218+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
