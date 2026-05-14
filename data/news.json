@@ -3,6 +3,16 @@
   "totalResults": 10,
   "articles": [
     {
+      "title": "Sony’s new Xperia phone gets an overdue redesign - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "The Sony Xperia 1 VIII gets a new look with a refreshed square camera module, but still no US releas...",
+      "url": "https://www.theverge.com/tech/927928/sony-xperia-viii-release-date-price-specs",
+      "publishedAt": "2026-05-13T02:00:00Z",
+      "processed_at": "2026-05-14T07:43:05.088755+00:00"
+    },
+    {
       "title": "DeepMind details Googlebook ‘Magic Pointer’ with demos you can try, also coming to Gemini in Chrome - 9to5Google",
       "source": {
         "name": "9to5google.com"
@@ -10,17 +20,47 @@
       "description": "The Magic Pointer on Googlebook was built with Google DeepMind. The research team behind this underl...",
       "url": "http://9to5google.com/2026/05/12/deepmind-googlebook-magic-pointer/",
       "publishedAt": "2026-05-12T23:12:00Z",
-      "processed_at": "2026-05-14T04:43:02.919931+00:00"
+      "processed_at": "2026-05-14T07:43:05.088755+00:00"
     },
     {
-      "title": "Apple Plans Customizable Camera for Pros, Siri Design Changes in iOS 27 - Bloomberg.com",
+      "title": "Ultralight laptop under 1 kg: Lenovo officially launches ThinkPad X13 Gen 7 - Notebookcheck",
       "source": {
-        "name": "Bloomberg"
+        "name": "Notebookcheck.net"
       },
-      "description": "Apple Inc. is planning to upgrade its Camera app, making the software fully customizable as part of ...",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-12/ios-27-apple-plans-customizable-iphone-camera-app-siri-overhaul",
-      "publishedAt": "2026-05-12T19:43:04Z",
-      "processed_at": "2026-05-14T04:43:02.919931+00:00"
+      "description": "Lenovo has officially unveiled a new addition to their ThinkPad line: The ultralight Lenovo ThinkPad...",
+      "url": "https://www.notebookcheck.net/Ultralight-laptop-under-1-kg-Lenovo-officially-launches-ThinkPad-X13-Gen-7.1295182.0.html",
+      "publishedAt": "2026-05-12T23:01:00Z",
+      "processed_at": "2026-05-14T07:43:05.088755+00:00"
+    },
+    {
+      "title": "Android Auto's big 2026 makeover brings immersive maps and FHD YouTube - Android Police",
+      "source": {
+        "name": "Android Police"
+      },
+      "description": "The perfect UI for ever screen, regardless of the shape and size...",
+      "url": "https://www.androidpolice.com/everything-new-with-android-auto/",
+      "publishedAt": "2026-05-12T21:13:43Z",
+      "processed_at": "2026-05-14T07:43:05.088755+00:00"
+    },
+    {
+      "title": "Ken Levine On Why He Quit Making BioShock Games--\"Scary And Risky And Crazy\" - GameSpot",
+      "source": {
+        "name": "GameSpot"
+      },
+      "description": "\"I wanted to step away and challenge myself in a different way.\"...",
+      "url": "https://www.gamespot.com/articles/ken-levine-on-why-he-quit-making-bioshock-games-scary-and-risky-and-crazy/1100-6539902/",
+      "publishedAt": "2026-05-12T20:23:46Z",
+      "processed_at": "2026-05-14T07:43:05.088755+00:00"
+    },
+    {
+      "title": "Rivian rolls out ‘Hey Rivian’ AI assistant with full vehicle control - Electrek",
+      "source": {
+        "name": "Electrek"
+      },
+      "description": "Rivian launches its AI-powered voice assistant to all R1 owners with Connect+, offering deep vehicle...",
+      "url": "http://electrek.co/2026/05/12/rivian-hey-rivian-ai-assistant-vehicle-control/",
+      "publishedAt": "2026-05-12T18:15:00Z",
+      "processed_at": "2026-05-14T07:43:05.088755+00:00"
     },
     {
       "title": "Microsoft May 2026 Patch Tuesday fixes 120 flaws, no zero-days - BleepingComputer",
@@ -30,7 +70,7 @@
       "description": "Today is Microsoft's May 2026 Patch Tuesday, with security updates for 120 flaws and no zero-days di...",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-may-2026-patch-tuesday-fixes-120-flaws-no-zero-days/",
       "publishedAt": "2026-05-12T18:08:06Z",
-      "processed_at": "2026-05-14T04:43:02.919931+00:00"
+      "processed_at": "2026-05-14T07:43:05.088755+00:00"
     },
     {
       "title": "The Super Hero Team-based PVP Shooter - Marvel Rivals",
@@ -40,27 +80,17 @@
       "description": "Play for free Now! Get ready to Ignite the Battle with Marvel Rivals!...",
       "url": "https://www.marvelrivals.com/balancepost/20260512/41667_1299947.html",
       "publishedAt": "2026-05-12T18:01:55Z",
-      "processed_at": "2026-05-14T04:43:02.919931+00:00"
+      "processed_at": "2026-05-14T07:43:05.088755+00:00"
     },
     {
       "title": "Teamfight Tactics patch 17.3 - Teamfight Tactics",
       "source": {
         "name": "Leagueoflegends.com"
       },
-      "description": "",
+      "description": "God balancing, new Blessings and trait Augments join a patch full of balance changes certain to shak...",
       "url": "https://teamfighttactics.leagueoflegends.com/en-us/news/game-updates/teamfight-tactics-patch-17-3/",
       "publishedAt": "2026-05-12T18:00:00Z",
-      "processed_at": "2026-05-14T04:43:02.919931+00:00"
-    },
-    {
-      "title": "Lenovo releases new 15-inch laptop globally with 64 GB RAM and 1,100 nit OLED display - Notebookcheck",
-      "source": {
-        "name": "Notebookcheck.net"
-      },
-      "description": "Lenovo has released a new 15-inch laptop globally featuring the Intel Panther Lake platform. Also eq...",
-      "url": "https://www.notebookcheck.net/Lenovo-releases-new-15-inch-laptop-globally-with-64-GB-RAM-and-1-100-nit-OLED-display.1294607.0.html",
-      "publishedAt": "2026-05-12T17:53:00Z",
-      "processed_at": "2026-05-14T04:43:02.919931+00:00"
+      "processed_at": "2026-05-14T07:43:05.088755+00:00"
     },
     {
       "title": "iOS 26.5’s Apple Maps app has two notable changes, here’s what’s new - 9to5Mac",
@@ -70,40 +100,10 @@
       "description": "Apple Maps is one of several apps with new features in iOS 26.5, the latest iPhone update. Here’s wh...",
       "url": "https://9to5mac.com/2026/05/12/ios-26-5s-apple-maps-app-has-two-notable-changes-heres-whats-new/",
       "publishedAt": "2026-05-12T17:37:00Z",
-      "processed_at": "2026-05-14T04:43:02.919931+00:00"
-    },
-    {
-      "title": "Android Auto is getting video apps, music updates, and more Gemini smarts - 9to5Google",
-      "source": {
-        "name": "9to5google.com"
-      },
-      "description": "Google is delivering some major Android Auto updates over the course of 2026, including support for ...",
-      "url": "http://9to5google.com/2026/05/12/android-auto-video-apps-gemini-updates/",
-      "publishedAt": "2026-05-12T17:30:00Z",
-      "processed_at": "2026-05-14T04:43:02.919931+00:00"
-    },
-    {
-      "title": "Google Unveils New Android AI Features Ahead of Apple’s Siri Revamp - Bloomberg.com",
-      "source": {
-        "name": "Bloomberg"
-      },
-      "description": "Alphabet Inc.’s Google announced a slew of upcoming features for its Android 17 operating system, sh...",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-12/google-unveils-android-ai-updates-ahead-of-apple-s-siri-revamp",
-      "publishedAt": "2026-05-12T17:00:07Z",
-      "processed_at": "2026-05-14T04:43:02.919931+00:00"
-    },
-    {
-      "title": "First look at Googlebook: A premium Chromebook alternative for Android users - ZDNET",
-      "source": {
-        "name": "ZDNet"
-      },
-      "description": "Googlebooks use an all-new OS that merges Android and ChromeOS with more premium hardware....",
-      "url": "https://www.zdnet.com/article/googlebook-news-premium-chromebook-for-android/",
-      "publishedAt": "2026-05-12T17:00:00Z",
-      "processed_at": "2026-05-14T04:43:02.919931+00:00"
+      "processed_at": "2026-05-14T07:43:05.088755+00:00"
     }
   ],
-  "lastUpdated": "2026-05-14T04:43:02.920010+00:00",
+  "lastUpdated": "2026-05-14T07:43:05.088819+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
