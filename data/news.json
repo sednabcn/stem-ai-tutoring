@@ -3,24 +3,84 @@
   "totalResults": 10,
   "articles": [
     {
-      "title": "Microsoft Stock (NASDAQ:MSFT) Jumps as Microsoft Plans to Roll Back Faulty Drivers - TipRanks",
+      "title": "Windows BitLocker 0-Day Vulnerability Enables Access to Encrypted Drives - CyberSecurityNews",
       "source": {
-        "name": "Tipranks.com"
+        "name": "Cybersecuritynews.com"
       },
-      "description": "Tech giant Microsoft ($MSFT) has recently come under fire for releasing software updates that actual...",
-      "url": "https://www.tipranks.com/news/microsoft-stock-nasdaqmsft-jumps-as-microsoft-plans-to-roll-back-faulty-drivers",
-      "publishedAt": "2026-05-15T18:13:22Z",
-      "processed_at": "2026-05-16T22:48:35.596465+00:00"
+      "description": "Two new unpatched Windows BitLocker zero-day vulnerabilities significantly compromise Microsoft's ec...",
+      "url": "https://cybersecuritynews.com/windows-bitlocker-0-day-vulnerability/",
+      "publishedAt": "2026-05-15T23:17:31Z",
+      "processed_at": "2026-05-16T23:54:30.889682+00:00"
     },
     {
-      "title": "PS5 Now Tells You Exactly How Many People Play GTA 5 - Kotaku",
+      "title": "Xbox is now XBOX - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "Believe it or not, Microsoft appears to be rebranding Xbox....",
+      "url": "https://www.theverge.com/news/931918/microsoft-xbox-rebrand-caps",
+      "publishedAt": "2026-05-15T23:10:13Z",
+      "processed_at": "2026-05-16T23:54:30.889682+00:00"
+    },
+    {
+      "title": "Nintendo president hints they’re preparing to continue support for original Switch - My Nintendo News",
+      "source": {
+        "name": "My Nintendo News"
+      },
+      "description": "The Nintendo Switch has a ridiculously large instal base and not everyone has shifted over to the ne...",
+      "url": "https://mynintendonews.com/2026/05/15/nintendo-president-hints-theyre-preparing-to-continue-support-for-original-switch/",
+      "publishedAt": "2026-05-15T21:25:57Z",
+      "processed_at": "2026-05-16T23:54:30.889682+00:00"
+    },
+    {
+      "title": "One Diablo 4 Bug Fix Just Completely Shifted The Game's Meta - Kotaku",
       "source": {
         "name": "Kotaku"
       },
-      "description": "A new beta feature lists the most played games and their player counts...",
-      "url": "https://kotaku.com/it-looks-like-sony-is-bringing-steam-charts-to-ps5-sorta-2000696556",
-      "publishedAt": "2026-05-15T17:59:20Z",
-      "processed_at": "2026-05-16T22:48:35.596465+00:00"
+      "description": "A small issue is having big consequences in Lord of Hatred...",
+      "url": "https://kotaku.com/diablo-4-bug-fix-accidentally-makes-players-basically-immortal-instead-yep-this-broke-the-game-2000696580",
+      "publishedAt": "2026-05-15T21:23:03Z",
+      "processed_at": "2026-05-16T23:54:30.889682+00:00"
+    },
+    {
+      "title": "Windows 11 tests an adjustable taskbar and resizable Start menu - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "Microsoft is testing an update for Windows 11 that will allow users to change the position of the ta...",
+      "url": "https://www.theverge.com/tech/931817/windows-11-movable-taskbar-start-button",
+      "publishedAt": "2026-05-15T21:14:45Z",
+      "processed_at": "2026-05-16T23:54:30.889682+00:00"
+    },
+    {
+      "title": "General Catalyst posted VC rage bait and it worked, especially on a16z - TechCrunch",
+      "source": {
+        "name": "TechCrunch"
+      },
+      "description": "Compulsive X user Marc Andreessen himself couldn't resist responding, many, many times....",
+      "url": "https://techcrunch.com/2026/05/15/general-catalyst-posted-vc-rage-bait-and-it-worked-especially-on-a16z/",
+      "publishedAt": "2026-05-15T20:25:35Z",
+      "processed_at": "2026-05-16T23:54:30.889682+00:00"
+    },
+    {
+      "title": "The Analogue 3D is finally getting save states - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "﻿A new firmware update for Analogue’s 4K N64 clone will let you save your progress at any point duri...",
+      "url": "https://www.theverge.com/tech/931615/analogue-3d-nintendo-64-console-memories-save-state",
+      "publishedAt": "2026-05-15T18:43:43Z",
+      "processed_at": "2026-05-16T23:54:30.889682+00:00"
+    },
+    {
+      "title": "Apple will launch 15+ new products this fall, here’s what’s coming - 9to5Mac",
+      "source": {
+        "name": "9to5Mac"
+      },
+      "description": "Here’s every new Apple product rumored to launch this year, with 15+ total spanning iPhone, iPad, Ma...",
+      "url": "https://9to5mac.com/2026/05/15/apple-will-launch-15-new-products-this-fall-heres-whats-coming/",
+      "publishedAt": "2026-05-15T18:11:00Z",
+      "processed_at": "2026-05-16T23:54:30.889682+00:00"
     },
     {
       "title": "Gemini Intelligence has high Android spec requirements, likely won't support Pixel 9 or Galaxy Z Fold 7 - 9to5Google",
@@ -30,80 +90,20 @@
       "description": "Google’s new Gemini Intelligence push was announced this week and it has pretty steep requirements f...",
       "url": "http://9to5google.com/2026/05/15/gemini-intelligence-android-spec-requirements/",
       "publishedAt": "2026-05-15T17:40:00Z",
-      "processed_at": "2026-05-16T22:48:35.596465+00:00"
+      "processed_at": "2026-05-16T23:54:30.889682+00:00"
     },
     {
-      "title": "Forza Horizon 6 Makes Cherry Blossom Trees and Shrines Indestructible — Here's Why - IGN",
-      "source": {
-        "name": "IGN"
-      },
-      "description": "Forza Horizon 6 makes cherry blossom trees and shrines indestructible — here's why....",
-      "url": "https://www.ign.com/articles/forza-horizon-6-dev-explains-why-shrines-temples-and-cherry-blossom-trees-are-indestructible",
-      "publishedAt": "2026-05-15T17:12:30Z",
-      "processed_at": "2026-05-16T22:48:35.596465+00:00"
-    },
-    {
-      "title": "Yoshi And The Mysterious Book Charms And Delights With New Trailer - Nintendo Life",
-      "source": {
-        "name": "Nintendo Life"
-      },
-      "description": "The egg hatches in less than a week...",
-      "url": "https://www.nintendolife.com/news/2026/05/yoshi-and-the-mysterious-book-charms-and-delights-with-new-trailer",
-      "publishedAt": "2026-05-15T16:45:00Z",
-      "processed_at": "2026-05-16T22:48:35.596465+00:00"
-    },
-    {
-      "title": "Google sidles up to unsuspecting users, asks for their number - The Register",
-      "source": {
-        "name": "Theregister.com"
-      },
-      "description": "You may only get 5GB of storage instead of 15GB if you don't share your digits with the Chocolate Fa...",
-      "url": "https://www.theregister.com/personal-tech/2026/05/15/google-tests-5-gb-cap-for-users-who-skip-phone-numbers/5241280",
-      "publishedAt": "2026-05-15T16:09:22Z",
-      "processed_at": "2026-05-16T22:48:35.596465+00:00"
-    },
-    {
-      "title": "Upcoming Apple Card promo will basically give you free AirPods Pro 3 - 9to5Mac",
+      "title": "The biggest iPhone Ultra mystery left to sway my upgrade decision - 9to5Mac",
       "source": {
         "name": "9to5Mac"
       },
-      "description": "Apple is planning a huge Apple Card sign-up bonus for new customers as soon as next week. If you sig...",
-      "url": "https://9to5mac.com/2026/05/15/upcoming-apple-card-promo-will-basically-give-you-free-airpods-pro-3/",
-      "publishedAt": "2026-05-15T15:51:00Z",
-      "processed_at": "2026-05-16T22:48:35.596465+00:00"
-    },
-    {
-      "title": "Subnautica 2 Early Access Roadmap - Unknown Worlds",
-      "source": {
-        "name": "Unknownworlds.com"
-      },
-      "description": "We want to share a few more details about what you can expect from Subnautica 2 in our first Early A...",
-      "url": "https://unknownworlds.com/news/subnautica-2-early-access-roadmap",
-      "publishedAt": "2026-05-15T15:04:54Z",
-      "processed_at": "2026-05-16T22:48:35.596465+00:00"
-    },
-    {
-      "title": "CineD tested the Sony A7rVI: Highest DR ever tested (with a caveat) and promising prospects for the A7sIV :) - SonyAlphaRumors",
-      "source": {
-        "name": "Sonyalpharumors.com"
-      },
-      "description": "CineD tested the Sony A7rVI and wrote this: Sony managed to create a very attractive package with th...",
-      "url": "https://www.sonyalpharumors.com/cined-tested-the-sony-a7rvi-highest-dr-ever-tested-with-a-caveat-and-promising-prospects-for-the-a7siv/",
-      "publishedAt": "2026-05-15T14:51:41Z",
-      "processed_at": "2026-05-16T22:48:35.596465+00:00"
-    },
-    {
-      "title": "Googlebook finally delivers a true desktop with app icons and widgets to Google’s laptops - Chrome Unboxed",
-      "source": {
-        "name": "Chrome Unboxed"
-      },
-      "description": "For over a decade, the ChromeOS desktop has been little more than a glorified wallpaper viewer. Whil...",
-      "url": "https://chromeunboxed.com/googlebook-finally-delivers-a-true-desktop-with-app-icons-and-widgets-to-googles-laptops/",
-      "publishedAt": "2026-05-15T14:25:26Z",
-      "processed_at": "2026-05-16T22:48:35.596465+00:00"
+      "description": "One big iPhone Ultra question likely won’t be resolved until September: will the new form factor mak...",
+      "url": "https://9to5mac.com/2026/05/15/the-biggest-iphone-ultra-mystery-left-to-sway-my-upgrade-decision/",
+      "publishedAt": "2026-05-15T17:14:00Z",
+      "processed_at": "2026-05-16T23:54:30.889682+00:00"
     }
   ],
-  "lastUpdated": "2026-05-16T22:48:35.596541+00:00",
+  "lastUpdated": "2026-05-16T23:54:30.889760+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
