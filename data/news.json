@@ -3,6 +3,16 @@
   "totalResults": 10,
   "articles": [
     {
+      "title": "Review: Forza Horizon 6: PC Ray Tracing Looks Great - A Hint Of The Project Helix Port To Come? - Digital Foundry",
+      "source": {
+        "name": "Digitalfoundry.net"
+      },
+      "description": "The PC and Xbox Series X|S versions under the microscope....",
+      "url": "https://www.digitalfoundry.net/reviews/forza-horizon-6-pc-ray-tracing-looks-great-a-hint-of-the-project-helix-port-to-come",
+      "publishedAt": "2026-05-15T09:26:04Z",
+      "processed_at": "2026-05-16T11:52:23.715779+00:00"
+    },
+    {
       "title": "Did Chrome Just Install a Massive AI Model on Your Device Without Telling You? Yes, Probably - CNET",
       "source": {
         "name": "CNET"
@@ -10,17 +20,57 @@
       "description": "A 4GB file called weights.bin may be sitting on your hard drive right now, put there by Chrome witho...",
       "url": "https://www.cnet.com/tech/services-and-software/did-chrome-just-install-a-massive-ai-model-on-your-device-without-telling-you-yes-probably/",
       "publishedAt": "2026-05-15T06:03:17Z",
-      "processed_at": "2026-05-16T10:17:16.968073+00:00"
+      "processed_at": "2026-05-16T11:52:23.715779+00:00"
     },
     {
-      "title": "Marathon Reveals New PVE Mode and Big Plans for the Future - IGN",
+      "title": "Google starts rolling out QR code-based Quick Share transfers between Android and iPhone - Android Authority",
       "source": {
-        "name": "IGN"
+        "name": "Android Authority"
       },
-      "description": "Marathon is attempting to broaden its playerbase with new offerings, such as a PVE-only mode....",
-      "url": "https://www.ign.com/articles/marathon-reveals-new-pve-mode-and-big-plans-for-the-future",
-      "publishedAt": "2026-05-14T23:04:14Z",
-      "processed_at": "2026-05-16T10:17:16.968073+00:00"
+      "description": "Google has started rolling out a new Quick Share feature that lets Android users share files with iP...",
+      "url": "https://www.androidauthority.com/android-quick-share-qr-code-sharing-with-iphone-3667293/",
+      "publishedAt": "2026-05-15T03:16:08Z",
+      "processed_at": "2026-05-16T11:52:23.715779+00:00"
+    },
+    {
+      "title": "Linux's Latest Vulnerability Allows Reading Root-Owned Files By Unprivileged Users - Phoronix",
+      "source": {
+        "name": "Phoronix"
+      },
+      "description": "Following Dirty Frag, Fragnesia, and other Linux kernel vulnerabilities making themselves known in r...",
+      "url": "https://www.phoronix.com/news/Linux-ssh-keysign-pwn",
+      "publishedAt": "2026-05-15T01:35:00Z",
+      "processed_at": "2026-05-16T11:52:23.715779+00:00"
+    },
+    {
+      "title": "Apple's iPhone 18 Modem Switch Comes With a Quiet Privacy Benefit - MacRumors",
+      "source": {
+        "name": "MacRumors"
+      },
+      "description": "Rumors suggest Apple plans to expand Apple-designed modems to the entire iPhone 18 lineup, ending su...",
+      "url": "https://www.macrumors.com/2026/05/14/iphone-18-pro-modem-benefits/",
+      "publishedAt": "2026-05-14T23:23:21Z",
+      "processed_at": "2026-05-16T11:52:23.715779+00:00"
+    },
+    {
+      "title": "Dell releases new 16-inch laptop globally with 120 Hz OLED display and Intel Panther Lake - Notebookcheck",
+      "source": {
+        "name": "Notebookcheck.net"
+      },
+      "description": "Dell has released a new 16-inch laptop globally. Sold with Intel Panther Lake processors and up to 3...",
+      "url": "https://www.notebookcheck.net/Dell-releases-new-16-inch-laptop-globally-with-120-Hz-OLED-display-and-Intel-Panther-Lake.1297377.0.html",
+      "publishedAt": "2026-05-14T23:07:00Z",
+      "processed_at": "2026-05-16T11:52:23.715779+00:00"
+    },
+    {
+      "title": "Xbox Elite Series 3 Controller Leaks With Highly Customizable Design and New Controls - TechPowerUp",
+      "source": {
+        "name": "Techpowerup.com"
+      },
+      "description": "Hot on the heels of the leaked compact Xbox cloud gaming controller, the same site responsible for t...",
+      "url": "https://www.techpowerup.com/349062/xbox-elite-series-3-controller-leaks-with-highly-customizable-design-and-new-controls",
+      "publishedAt": "2026-05-14T22:47:18Z",
+      "processed_at": "2026-05-16T11:52:23.715779+00:00"
     },
     {
       "title": "BioWare Veteran Says New Sci-Fi RPG Exodus Nearly Killed Him - Kotaku",
@@ -30,7 +80,7 @@
       "description": "James Ohlen said leading the studio behind the ambitious new game was bad for his health...",
       "url": "https://kotaku.com/bioware-veteran-talks-about-burnout-on-sci-fi-rpg-exodus-you-have-to-be-cutting-the-baby-in-half-all-the-time-2000696194",
       "publishedAt": "2026-05-14T22:38:53Z",
-      "processed_at": "2026-05-16T10:17:16.968073+00:00"
+      "processed_at": "2026-05-16T11:52:23.715779+00:00"
     },
     {
       "title": "Sure Seems Like Subnautica 2’s Developers Are Going To Get Their $250 Million Bonus - Aftermath",
@@ -40,7 +90,7 @@
       "description": "Perhaps the mostly costly example yet of why you should never take advice from ChatGPT...",
       "url": "https://aftermath.site/subnautica-2-units-sold-250-million-bonus-krafton/",
       "publishedAt": "2026-05-14T22:33:59Z",
-      "processed_at": "2026-05-16T10:17:16.968073+00:00"
+      "processed_at": "2026-05-16T11:52:23.715779+00:00"
     },
     {
       "title": "Meta brings virtual writing to everyone with Meta Ray-Ban Display glasses - The Verge",
@@ -50,60 +100,10 @@
       "description": "Meta will now let all Meta Ray-Ban Display smart glasses owners write messages with hand gestures. I...",
       "url": "https://www.theverge.com/tech/930941/meta-ray-ban-display-virtual-neural-handwriting-apps-developer",
       "publishedAt": "2026-05-14T21:08:46Z",
-      "processed_at": "2026-05-16T10:17:16.968073+00:00"
-    },
-    {
-      "title": "OpenAI brings Codex to ChatGPT for iPhone, iPad, and Android with these features - 9to5Mac",
-      "source": {
-        "name": "9to5Mac"
-      },
-      "description": "OpenAI has released a new way to interact with its Codex app from your smartphone. An update to Chat...",
-      "url": "https://9to5mac.com/2026/05/14/openai-brings-codex-control-to-chatgpt-for-iphone-and-android/",
-      "publishedAt": "2026-05-14T20:14:00Z",
-      "processed_at": "2026-05-16T10:17:16.968073+00:00"
-    },
-    {
-      "title": "Raid Boss 2 details - Borderlands | Official Website",
-      "source": {
-        "name": "2k.com"
-      },
-      "description": "Learn more about the raid boss fight against Subjugator and Thol, along with the powerful loot they ...",
-      "url": "https://borderlands.2k.com/borderlands-4/news/subjugator-and-thol-details-loot/",
-      "publishedAt": "2026-05-14T19:25:02Z",
-      "processed_at": "2026-05-16T10:17:16.968073+00:00"
-    },
-    {
-      "title": "Google launches a gorgeous new landing page for the upcoming Googlebook - Chrome Unboxed",
-      "source": {
-        "name": "Chrome Unboxed"
-      },
-      "description": "The dust is just beginning to settle from The Android Show and the massive Googlebook announcement, ...",
-      "url": "https://chromeunboxed.com/google-launches-a-gorgeous-new-landing-page-for-the-upcoming-googlebook/",
-      "publishedAt": "2026-05-14T19:17:40Z",
-      "processed_at": "2026-05-16T10:17:16.968073+00:00"
-    },
-    {
-      "title": "Over a year later, AMD is bringing improved FSR 4 upscaling to its older GPUs - Ars Technica",
-      "source": {
-        "name": "Ars Technica"
-      },
-      "description": "FSR 4.1 running on RDNA3 or RDNA2 GPUs may take a bigger performance hit....",
-      "url": "https://arstechnica.com/gadgets/2026/05/amd-promises-to-bring-improved-hardware-backed-fsr-4-upscaling-to-older-radeon-gpus/",
-      "publishedAt": "2026-05-14T18:55:54Z",
-      "processed_at": "2026-05-16T10:17:16.968073+00:00"
-    },
-    {
-      "title": "Zero-day exploit completely defeats default Windows 11 BitLocker protections - Ars Technica",
-      "source": {
-        "name": "Ars Technica"
-      },
-      "description": "It's not entirely clear how the exploit works. Microsoft says it's investigating....",
-      "url": "https://arstechnica.com/security/2026/05/zero-day-exploit-completely-defeats-default-windows-11-bitlocker-protections/",
-      "publishedAt": "2026-05-14T18:32:01Z",
-      "processed_at": "2026-05-16T10:17:16.968073+00:00"
+      "processed_at": "2026-05-16T11:52:23.715779+00:00"
     }
   ],
-  "lastUpdated": "2026-05-16T10:17:16.968147+00:00",
+  "lastUpdated": "2026-05-16T11:52:23.715857+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
