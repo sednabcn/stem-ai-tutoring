@@ -1,7 +1,27 @@
 {
   "status": "success",
-  "totalResults": 9,
+  "totalResults": 10,
   "articles": [
+    {
+      "title": "Gemini Intelligence has high Android spec requirements, likely won't support Pixel 9 or Galaxy Z Fold 7 - 9to5Google",
+      "source": {
+        "name": "9to5google.com"
+      },
+      "description": "Google’s new Gemini Intelligence push was announced this week and it has pretty steep requirements f...",
+      "url": "http://9to5google.com/2026/05/15/gemini-intelligence-android-spec-requirements/",
+      "publishedAt": "2026-05-15T17:40:00Z",
+      "processed_at": "2026-05-16T19:07:35.386705+00:00"
+    },
+    {
+      "title": "Upcoming Apple Card promo will basically give you free AirPods Pro 3 - 9to5Mac",
+      "source": {
+        "name": "9to5Mac"
+      },
+      "description": "Apple is planning a huge Apple Card sign-up bonus for new customers as soon as next week. If you sig...",
+      "url": "https://9to5mac.com/2026/05/15/upcoming-apple-card-promo-will-basically-give-you-free-airpods-pro-3/",
+      "publishedAt": "2026-05-15T15:51:00Z",
+      "processed_at": "2026-05-16T19:07:35.386705+00:00"
+    },
     {
       "title": "Subnautica 2 Early Access Roadmap - Unknown Worlds",
       "source": {
@@ -10,7 +30,17 @@
       "description": "We want to share a few more details about what you can expect from Subnautica 2 in our first Early A...",
       "url": "https://unknownworlds.com/news/subnautica-2-early-access-roadmap",
       "publishedAt": "2026-05-15T15:04:54Z",
-      "processed_at": "2026-05-16T17:55:29.596570+00:00"
+      "processed_at": "2026-05-16T19:07:35.386705+00:00"
+    },
+    {
+      "title": "CineD tested the Sony A7rVI: Highest DR ever tested (with a caveat) and promising prospects for the A7sIV :) - SonyAlphaRumors",
+      "source": {
+        "name": "Sonyalpharumors.com"
+      },
+      "description": "CineD tested the Sony A7rVI and wrote this: Sony managed to create a very attractive package with th...",
+      "url": "https://www.sonyalpharumors.com/cined-tested-the-sony-a7rvi-highest-dr-ever-tested-with-a-caveat-and-promising-prospects-for-the-a7siv/",
+      "publishedAt": "2026-05-15T14:51:41Z",
+      "processed_at": "2026-05-16T19:07:35.386705+00:00"
     },
     {
       "title": "PS5 Will Reveal the Most Played Games with Steam-Like Player Numbers - Push Square",
@@ -20,27 +50,37 @@
       "description": "Also, trending titles too...",
       "url": "https://www.pushsquare.com/news/2026/05/ps5-will-reveal-the-most-played-games-with-steam-like-player-numbers",
       "publishedAt": "2026-05-15T14:30:00Z",
-      "processed_at": "2026-05-16T17:55:29.596570+00:00"
+      "processed_at": "2026-05-16T19:07:35.386705+00:00"
     },
     {
-      "title": "Five Xbox Games Are Set To Be Delisted In May & June 2026 - Pure Xbox",
+      "title": "Googlebook finally delivers a true desktop with app icons and widgets to Google’s laptops - Chrome Unboxed",
       "source": {
-        "name": "Pure Xbox"
+        "name": "Chrome Unboxed"
       },
-      "description": "Update: LEGO 2K Drive added to the mix...",
-      "url": "https://www.purexbox.com/news/2026/05/five-xbox-games-are-set-to-be-delisted-in-may-and-june-2026",
-      "publishedAt": "2026-05-15T14:17:30Z",
-      "processed_at": "2026-05-16T17:55:29.596570+00:00"
+      "description": "For over a decade, the ChromeOS desktop has been little more than a glorified wallpaper viewer. Whil...",
+      "url": "https://chromeunboxed.com/googlebook-finally-delivers-a-true-desktop-with-app-icons-and-widgets-to-googles-laptops/",
+      "publishedAt": "2026-05-15T14:25:26Z",
+      "processed_at": "2026-05-16T19:07:35.386705+00:00"
+    },
+    {
+      "title": "14 Cool Mini Gadgets You Can Find On Amazon - bgr.com",
+      "source": {
+        "name": "BGR"
+      },
+      "description": "From portable projectors to pocket-sized tools and speakers, these budget gadgets pack surprising fu...",
+      "url": "https://www.bgr.com/2169193/cool-mini-gadgets-you-can-find-on-amazon/",
+      "publishedAt": "2026-05-15T14:02:00Z",
+      "processed_at": "2026-05-16T19:07:35.386705+00:00"
     },
     {
       "title": "Fitbit 4.69 rolls out with redesign of focus stats and logging - 9to5Google",
       "source": {
-        "name": "Google News"
+        "name": "9to5google.com"
       },
-      "description": "",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1nOVFOVjRjVGdLb2pYbmNmX09UZ2szN1Vnelo2TlZNckVHN3czN3BNOXZUelByanFHRllTcUtNQUVLV25ySzhsVzMtQy1kQXZrazViOVJ3bnNmdw?oc=5",
+      "description": "Google has rolled out version 4.69 of Fitbit for Android as the last update before the Google Health...",
+      "url": "http://9to5google.com/2026/05/15/fitbit-4-69/",
       "publishedAt": "2026-05-15T14:00:00Z",
-      "processed_at": "2026-05-16T17:55:29.596570+00:00"
+      "processed_at": "2026-05-16T19:07:35.386705+00:00"
     },
     {
       "title": "Marathon \"overwhelming\" for newcomers, director admits as plans for PvE and PvP-lite modes revealed - Eurogamer",
@@ -50,50 +90,20 @@
       "description": "Game director Joe Ziegler has written a lengthy article about the future of Marathon....",
       "url": "https://www.eurogamer.net/marathon-future-seasons-pve-pvp-lite",
       "publishedAt": "2026-05-15T13:46:26Z",
-      "processed_at": "2026-05-16T17:55:29.596570+00:00"
+      "processed_at": "2026-05-16T19:07:35.386705+00:00"
     },
     {
-      "title": "BioWare had a plan to reboot Star Wars: The Old Republic and make it more KOTOR like, but EA's board of directors shut it down - Eurogamer",
+      "title": "LEGO 2K Drive Is Being Delisted From Digital Storefronts Next Week - Nintendo Life",
       "source": {
-        "name": "Eurogamer.net"
+        "name": "Nintendo Life"
       },
-      "description": "",
-      "url": "https://www.eurogamer.net/bioware-swtor-old-republic-reboot-ohlen",
-      "publishedAt": "2026-05-15T13:10:27Z",
-      "processed_at": "2026-05-16T17:55:29.596570+00:00"
-    },
-    {
-      "title": "One Year Later, DOOM: The Dark Ages DLC Is Nowhere to Be Seen - Push Square",
-      "source": {
-        "name": "Push Square"
-      },
-      "description": "But it is meant to be substantial, says dev...",
-      "url": "https://www.pushsquare.com/news/2026/05/one-year-later-doom-the-dark-ages-dlc-is-nowhere-to-be-seen",
-      "publishedAt": "2026-05-15T12:30:00Z",
-      "processed_at": "2026-05-16T17:55:29.596570+00:00"
-    },
-    {
-      "title": "Apple Watch: 15 Tips Every Owner Needs to Know - MacRumors",
-      "source": {
-        "name": "MacRumors"
-      },
-      "description": "Apple Watch is now eleven generations in, and packed with useful features that are easy to miss at f...",
-      "url": "https://www.macrumors.com/guide/apple-watch-15-tips-need-to-know/",
-      "publishedAt": "2026-05-15T11:07:47Z",
-      "processed_at": "2026-05-16T17:55:29.596570+00:00"
-    },
-    {
-      "title": "The perfect commuter bike? Velotric’s Discover 3 makes its case. - Ars Technica",
-      "source": {
-        "name": "Ars Technica"
-      },
-      "description": "A customized mid-motor and Shimano's new Cues components are a winning combination....",
-      "url": "https://arstechnica.com/cars/2026/05/the-perfect-commuter-bike-velotrics-discover-3-makes-its-case/",
-      "publishedAt": "2026-05-15T11:00:44Z",
-      "processed_at": "2026-05-16T17:55:29.596570+00:00"
+      "description": "Just three years after release...",
+      "url": "https://www.nintendolife.com/news/2026/05/lego-2k-drive-is-being-delisted-from-digital-storefronts-next-week",
+      "publishedAt": "2026-05-15T12:45:00Z",
+      "processed_at": "2026-05-16T19:07:35.386705+00:00"
     }
   ],
-  "lastUpdated": "2026-05-16T17:55:29.596663+00:00",
+  "lastUpdated": "2026-05-16T19:07:35.386795+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
