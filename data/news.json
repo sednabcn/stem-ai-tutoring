@@ -1,7 +1,77 @@
 {
   "status": "success",
-  "totalResults": 9,
+  "totalResults": 10,
   "articles": [
+    {
+      "title": "Report: Cancelled Star Wars KOTOR Remake Version Surfaces With Opening Cinematic - MP1st",
+      "source": {
+        "name": "http://mp1st.com/category/news"
+      },
+      "description": "MP1st has come across a newly surfaced cinematic from Aspyr's canceled Star Wars KOTOR Remake, showi...",
+      "url": "https://mp1st.com/news/report-cancelled-star-wars-kotor-remake-version-surfaces-with-opening-cinematic",
+      "publishedAt": "2026-05-17T21:15:58Z",
+      "processed_at": "2026-05-18T23:03:08.582020+00:00"
+    },
+    {
+      "title": "Microsoft is retiring Teams’ Together Mode - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "Microsoft is retiring Teams’ Together Mode to focus on improving video quality and performance inste...",
+      "url": "https://www.theverge.com/tech/932215/microsoft-teams-together-mode",
+      "publishedAt": "2026-05-17T21:15:28Z",
+      "processed_at": "2026-05-18T23:03:08.582020+00:00"
+    },
+    {
+      "title": "Thermal Grizzly adds wired WireView Pro II GPU with 40 cm 12V-2x6 cable - VideoCardz.com",
+      "source": {
+        "name": "Videocardz.com"
+      },
+      "description": "Thermal Grizzly WireView Pro II Wired adds GPU power cable for cards with limited adapter clearance,...",
+      "url": "https://videocardz.com/newz/thermal-grizzly-adds-wired-wireview-pro-ii-gpu-with-40-cm-12v-2x6-cable",
+      "publishedAt": "2026-05-17T20:38:26Z",
+      "processed_at": "2026-05-18T23:03:08.582020+00:00"
+    },
+    {
+      "title": "Apple’s Siri revamp could include auto-deleting chats - TechCrunch",
+      "source": {
+        "name": "TechCrunch"
+      },
+      "description": "Privacy will be a major theme when Apple unveils a new version of Siri....",
+      "url": "https://techcrunch.com/2026/05/17/apples-siri-revamp-could-include-auto-deleting-chats/",
+      "publishedAt": "2026-05-17T20:15:00Z",
+      "processed_at": "2026-05-18T23:03:08.582020+00:00"
+    },
+    {
+      "title": "5 Lexus Engines You Should Steer Clear Of - SlashGear",
+      "source": {
+        "name": "SlashGear"
+      },
+      "description": "Discover which 5 Lexus engines you should steer clear of. We detail reliability issues with the 1MZ-...",
+      "url": "https://www.slashgear.com/2172668/lexus-engines-you-should-steer-clear-of/",
+      "publishedAt": "2026-05-17T19:15:00Z",
+      "processed_at": "2026-05-18T23:03:08.582020+00:00"
+    },
+    {
+      "title": "ASUS shows custom ROG Xbox Ally X Cyberpunk 2077 Edition handheld - VideoCardz.com",
+      "source": {
+        "name": "Videocardz.com"
+      },
+      "description": "ASUS reveals custom ROG Xbox Ally X made with AK Studio ASUS has shown a custom ROG Xbox Ally X insp...",
+      "url": "https://videocardz.com/newz/asus-shows-custom-rog-xbox-ally-x-cyberpunk-2077-edition-handheld",
+      "publishedAt": "2026-05-17T19:13:26Z",
+      "processed_at": "2026-05-18T23:03:08.582020+00:00"
+    },
+    {
+      "title": "I almost gave up on Google Calendar until this Gemini hack fixed my main gripe - Android Police",
+      "source": {
+        "name": "Android Police"
+      },
+      "description": "Google Calendar gets better when I don't have to open it...",
+      "url": "https://www.androidpolice.com/i-almost-gave-up-on-google-calendar-until-this-gemini-hack-fixed-my-main-gripe/",
+      "publishedAt": "2026-05-17T19:00:10Z",
+      "processed_at": "2026-05-18T23:03:08.582020+00:00"
+    },
     {
       "title": "Splitgate Developer Making Titanfall Successor Called 'Empulse' - Kotaku",
       "source": {
@@ -10,90 +80,30 @@
       "description": "Titanfall fans may watch another finger curl on the monkey’s paw when 1047 Games’ next project is re...",
       "url": "https://kotaku.com/splitgate-developer-said-he-wanted-titanfall-3-and-it-appears-hes-making-his-own-2000696833",
       "publishedAt": "2026-05-17T18:52:15Z",
-      "processed_at": "2026-05-18T21:13:47.490675+00:00"
+      "processed_at": "2026-05-18T23:03:08.582020+00:00"
     },
     {
-      "title": "First Disney Store Limited Time Location Opening This Week - WDW News Today",
+      "title": "Samsung Warns Galaxy Users—Delete ‘High Risk Apps’ - Forbes",
       "source": {
-        "name": "wdwnt.com"
+        "name": "Forbes"
       },
-      "description": "As Disney continues experimenting with smaller-scale retail concepts, the Disney Store is becoming a...",
-      "url": "https://wdwnt.com/2026/05/first-disney-store-limited-time-location-opening-this-week/",
-      "publishedAt": "2026-05-17T16:47:11Z",
-      "processed_at": "2026-05-18T21:13:47.490675+00:00"
+      "description": "Samsung says these high risk apps put your phone and data at risk — here's what to know....",
+      "url": "https://www.forbes.com/sites/zakdoffman/2026/05/17/samsung-warns-galaxy-users-to-delete-high-risk-apps/",
+      "publishedAt": "2026-05-17T17:53:16Z",
+      "processed_at": "2026-05-18T23:03:08.582020+00:00"
     },
     {
-      "title": "Google hasn't shown any reason for 'Googlebook' laptops to exist, so why should we be excited? - 9to5Google",
+      "title": "Take-Two CEO Reaffirms GTA 6 Release Date Once Again - Insider Gaming",
       "source": {
-        "name": "9to5google.com"
+        "name": "Insider-gaming.com"
       },
-      "description": "We’ve been hearing about Google’s behind-the-scenes work to move its laptop efforts over to Android,...",
-      "url": "http://9to5google.com/2026/05/17/google-hasnt-shown-any-reason-for-googlebook-laptops-to-exist-so-why-should-we-be-excited/",
-      "publishedAt": "2026-05-17T16:00:00Z",
-      "processed_at": "2026-05-18T21:13:47.490675+00:00"
-    },
-    {
-      "title": "Clair Obscur: Expedition 33 Takes The Top Spot At This Year’s SGDQ - Kotaku",
-      "source": {
-        "name": "Kotaku"
-      },
-      "description": "Pragmata, Saros and Mouse P.I. join the beloved speedrunning charity marathon...",
-      "url": "https://kotaku.com/clair-obscur-expedition-33-takes-the-top-spot-at-this-years-sgdq-pragmata-saros-games-done-quick-2000696827",
-      "publishedAt": "2026-05-17T15:42:59Z",
-      "processed_at": "2026-05-18T21:13:47.490675+00:00"
-    },
-    {
-      "title": "ARC Raiders' World Is About To Get Much Bigger - ScreenRant",
-      "source": {
-        "name": "Screen Rant"
-      },
-      "description": "ARC Raiders devs confirm new maps beyond the Rust Belt are in development as Embark plans major worl...",
-      "url": "https://screenrant.com/arc-raiders-new-maps-world-expansion-beyond-rust-belt/",
-      "publishedAt": "2026-05-17T15:28:52Z",
-      "processed_at": "2026-05-18T21:13:47.490675+00:00"
-    },
-    {
-      "title": "Xbox Takes #1 Spot In Metacritic's Top 10 Video Games Of 2026 So Far - Pure Xbox",
-      "source": {
-        "name": "Pure Xbox"
-      },
-      "description": "But bizarrely it doesn't top the Series X and Series S list...",
-      "url": "https://www.purexbox.com/news/2026/05/xbox-takes-1-spot-in-metacritics-top-10-video-games-of-2026-so-far",
-      "publishedAt": "2026-05-17T15:00:00Z",
-      "processed_at": "2026-05-18T21:13:47.490675+00:00"
-    },
-    {
-      "title": "Report: Apple to upgrade Genmoji in iOS 27 with new automatic suggestions - 9to5Mac",
-      "source": {
-        "name": "9to5Mac"
-      },
-      "description": "According to the Power On newsletter from Mark Gurman, Apple is planning an interesting new Genmoji ...",
-      "url": "https://9to5mac.com/2026/05/17/report-apple-to-upgrade-genmoji-in-ios-27-with-new-automatic-suggestions/",
-      "publishedAt": "2026-05-17T14:49:00Z",
-      "processed_at": "2026-05-18T21:13:47.490675+00:00"
-    },
-    {
-      "title": "Omaha Steaks, Nerf basketball and Hazmat suits: Former contagion patients describe life in quarantine amid Hantavirus - NBC News",
-      "source": {
-        "name": "NBC News"
-      },
-      "description": "As more than 40 Americans remain in quarantine for up to six weeks following a hantavirus outbreak a...",
-      "url": "https://www.nbcnews.com/health/health-news/former-contagion-patients-describe-life-in-quarantine-amid-hantavirus-rcna344946",
-      "publishedAt": "2026-05-17T14:30:40Z",
-      "processed_at": "2026-05-18T21:13:47.490675+00:00"
-    },
-    {
-      "title": "Amazon Stops Supporting Pre-2013 Kindles Today. Some Owners Turn to Jailbreaking - Slashdot",
-      "source": {
-        "name": "Slashdot.org"
-      },
-      "description": "Today Amazon ends support for first- and second-generation versions of Kindles and Kindle Fire table...",
-      "url": "https://news.slashdot.org/story/26/05/17/0014220/amazon-stops-supporting-pre-2013-kindles-today-some-owners-turn-to-jailbreaking",
-      "publishedAt": "2026-05-17T14:25:39Z",
-      "processed_at": "2026-05-18T21:13:47.490675+00:00"
+      "description": "Take-Two CEO Strauss Zelnick once again confirmed Grand Theft Auto 6 is still set to launch on Novem...",
+      "url": "https://insider-gaming.com/take-two-ceo-reaffirms-gta-6-release-date-once-again/",
+      "publishedAt": "2026-05-17T17:16:58Z",
+      "processed_at": "2026-05-18T23:03:08.582020+00:00"
     }
   ],
-  "lastUpdated": "2026-05-18T21:13:47.490752+00:00",
+  "lastUpdated": "2026-05-18T23:03:08.582100+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
