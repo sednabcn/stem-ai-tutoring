@@ -3,6 +3,36 @@
   "totalResults": 10,
   "articles": [
     {
+      "title": "GTA 6 'About 18 Months Behind the Original Date,' Take-Two Boss Says - IGN",
+      "source": {
+        "name": "IGN"
+      },
+      "description": "Take-Two CEO Strauss Zelnick has said GTA 6 is about 18 months behind its original release date, sug...",
+      "url": "https://www.ign.com/articles/gta-6-release-date-about-18-months-behind-original-target-take-two-boss-reveals-suggesting-spring-2025-was-once-the-goal-internally",
+      "publishedAt": "2026-05-18T09:00:02Z",
+      "processed_at": "2026-05-19T11:19:33.487119+00:00"
+    },
+    {
+      "title": "Xbox Game Pass loses another five games in May 2026 - TrueAchievements",
+      "source": {
+        "name": "TrueAchievements"
+      },
+      "description": "The next batch of games leaving Xbox Game Pass in May 2026 has now been confirmed. Another five game...",
+      "url": "https://www.trueachievements.com/news/xbox-game-pass-leaving-soon-may-2026-wave-2",
+      "publishedAt": "2026-05-18T08:58:47Z",
+      "processed_at": "2026-05-19T11:19:33.487119+00:00"
+    },
+    {
+      "title": "UK Charts: Indiana Jones Commences His Great Circular Crusade On Switch 2 - Nintendo Life",
+      "source": {
+        "name": "Nintendo Life"
+      },
+      "description": "But Tomodachi Life claims the top spot...",
+      "url": "https://www.nintendolife.com/news/2026/05/uk-charts-indiana-jones-commences-his-great-circular-crusade-on-switch-2",
+      "publishedAt": "2026-05-18T07:17:32Z",
+      "processed_at": "2026-05-19T11:19:33.487119+00:00"
+    },
+    {
       "title": "GEAR UP FOR GUILTY GEAR -STRIVE-’S NEW “BLAZING PASS” - Arc System Works",
       "source": {
         "name": "Arcsystemworks.com"
@@ -10,17 +40,57 @@
       "description": "",
       "url": "https://www.arcsystemworks.com/gear-up-for-guilty-gear-strive-s-new-blazing-pass/",
       "publishedAt": "2026-05-18T05:10:41Z",
-      "processed_at": "2026-05-19T07:48:03.084851+00:00"
+      "processed_at": "2026-05-19T11:19:33.487119+00:00"
     },
     {
-      "title": "BeXide announces 3D puzzle game NAMCO LEGENDARY Mountains for Switch 2, Switch, and PC - Gematsu",
+      "title": "Microsoft Brings Back Windows 10-Style Taskbar and Start Menu Customization in Windows 11 - TechPowerUp",
       "source": {
-        "name": "Gematsu"
+        "name": "Techpowerup.com"
       },
-      "description": "BeXide, in cooperation with Bandai Namco, has announced 3D puzzle game NAMCO LEGENDARY Mountains for...",
-      "url": "https://www.gematsu.com/2026/05/bexide-announces-3d-puzzle-game-namco-legendary-mountains-for-switch-2-switch-and-pc",
-      "publishedAt": "2026-05-18T03:16:03Z",
-      "processed_at": "2026-05-19T07:48:03.084851+00:00"
+      "description": "If you were a user of the Windows 10 operating system with a customizable Taskbar location, you were...",
+      "url": "https://www.techpowerup.com/349132/microsoft-brings-back-windows-10-style-taskbar-and-start-menu-customization-in-windows-11",
+      "publishedAt": "2026-05-18T04:53:51Z",
+      "processed_at": "2026-05-19T11:19:33.487119+00:00"
+    },
+    {
+      "title": "Puzzle game Namco Legendary Mountains announced for Nintendo Switch 2 and Switch - Nintendo Everything",
+      "source": {
+        "name": "Nintendoeverything.com"
+      },
+      "description": "BeXide has announced Namco Legendary Mountains for the Nintendo Switch, and the Nintendo Switch 2. T...",
+      "url": "https://nintendoeverything.com/puzzle-game-namco-legendary-mountains-announced-for-nintendo-switch-2-and-switch/",
+      "publishedAt": "2026-05-18T04:41:14Z",
+      "processed_at": "2026-05-19T11:19:33.487119+00:00"
+    },
+    {
+      "title": "Intel’s First Wildcat Lake Laptop Hits Retail at sub-$600, Undercutting Apple’s MacBook Neo, Doubles the RAM and Battery Capacity - Wccftech",
+      "source": {
+        "name": "Wccftech"
+      },
+      "description": "The first Intel Wildcat Lake Core Series 3 laptops have entered the retail markets, tackling Apple's...",
+      "url": "https://wccftech.com/intel-first-wildcat-lake-laptop-hits-retail-sub-600-usd-price-undercutting-apple-macbook-neo/",
+      "publishedAt": "2026-05-18T02:55:00Z",
+      "processed_at": "2026-05-19T11:19:33.487119+00:00"
+    },
+    {
+      "title": "Jack’s Deli ‘unexpectedly’ closing for 4-6 months - Cleveland Jewish News",
+      "source": {
+        "name": "Clevelandjewishnews.com"
+      },
+      "description": "After 40 years, Jack’s Deli and Restaurant in University Heights abruptly closed its doors on May 17...",
+      "url": "https://www.clevelandjewishnews.com/features/nosh/jacks-deli-closes/article_ecd6e43a-3b4a-4c4e-8658-20b7e38046e6.html",
+      "publishedAt": "2026-05-18T01:32:00Z",
+      "processed_at": "2026-05-19T11:19:33.487119+00:00"
+    },
+    {
+      "title": "Report: Cancelled Star Wars KOTOR Remake Version Surfaces With Opening Cinematic - MP1st",
+      "source": {
+        "name": "http://mp1st.com/category/news"
+      },
+      "description": "MP1st has come across a newly surfaced cinematic from Aspyr's canceled Star Wars KOTOR Remake, showi...",
+      "url": "https://mp1st.com/news/report-cancelled-star-wars-kotor-remake-version-surfaces-with-opening-cinematic",
+      "publishedAt": "2026-05-18T00:14:32Z",
+      "processed_at": "2026-05-19T11:19:33.487119+00:00"
     },
     {
       "title": "What That Line Under The Battery Icon On Your iPhone Lock Screen Is For - bgr.com",
@@ -30,80 +100,10 @@
       "description": "What is the line under the battery icon on your iPhone lock screen? We explain the Control Center in...",
       "url": "https://www.bgr.com/2170512/what-line-under-battery-icon-on-iphone-lock-screen-is-for/",
       "publishedAt": "2026-05-17T22:47:00Z",
-      "processed_at": "2026-05-19T07:48:03.084851+00:00"
-    },
-    {
-      "title": "New Windows 'MiniPlasma' zero-day exploit gives SYSTEM access, PoC released - BleepingComputer",
-      "source": {
-        "name": "BleepingComputer"
-      },
-      "description": "A cybersecurity researcher has released a proof-of-concept exploit for a Windows privilege escalatio...",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/new-windows-miniplasma-zero-day-exploit-gives-system-access-poc-released/",
-      "publishedAt": "2026-05-17T22:30:08Z",
-      "processed_at": "2026-05-19T07:48:03.084851+00:00"
-    },
-    {
-      "title": "Report: Cancelled Star Wars KOTOR Remake Version Surfaces With Opening Cinematic - MP1st",
-      "source": {
-        "name": "http://mp1st.com/category/news"
-      },
-      "description": "MP1st has come across a newly surfaced cinematic from Aspyr's canceled Star Wars KOTOR Remake, showi...",
-      "url": "https://mp1st.com/news/report-cancelled-star-wars-kotor-remake-version-surfaces-with-opening-cinematic",
-      "publishedAt": "2026-05-17T21:15:58Z",
-      "processed_at": "2026-05-19T07:48:03.084851+00:00"
-    },
-    {
-      "title": "Microsoft is retiring Teams’ Together Mode - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "Microsoft is retiring Teams’ Together Mode to focus on improving video quality and performance inste...",
-      "url": "https://www.theverge.com/tech/932215/microsoft-teams-together-mode",
-      "publishedAt": "2026-05-17T21:15:28Z",
-      "processed_at": "2026-05-19T07:48:03.084851+00:00"
-    },
-    {
-      "title": "Thermal Grizzly adds wired WireView Pro II GPU with 40 cm 12V-2x6 cable - VideoCardz.com",
-      "source": {
-        "name": "Videocardz.com"
-      },
-      "description": "Thermal Grizzly WireView Pro II Wired adds GPU power cable for cards with limited adapter clearance,...",
-      "url": "https://videocardz.com/newz/thermal-grizzly-adds-wired-wireview-pro-ii-gpu-with-40-cm-12v-2x6-cable",
-      "publishedAt": "2026-05-17T20:38:26Z",
-      "processed_at": "2026-05-19T07:48:03.084851+00:00"
-    },
-    {
-      "title": "6 Portable Entertainment Gadgets To Buy From Costco (And 5 To Skip) - SlashGear",
-      "source": {
-        "name": "SlashGear"
-      },
-      "description": "Costco can be a great place to find deals on all sorts of technological goodies, but though its sele...",
-      "url": "https://www.slashgear.com/2173157/costco-gadgets-for-portable-entertainment-to-buy-and-skip/",
-      "publishedAt": "2026-05-17T20:30:00Z",
-      "processed_at": "2026-05-19T07:48:03.084851+00:00"
-    },
-    {
-      "title": "Apple’s Siri revamp could include auto-deleting chats - TechCrunch",
-      "source": {
-        "name": "TechCrunch"
-      },
-      "description": "Privacy will be a major theme when Apple unveils a new version of Siri....",
-      "url": "https://techcrunch.com/2026/05/17/apples-siri-revamp-could-include-auto-deleting-chats/",
-      "publishedAt": "2026-05-17T20:15:00Z",
-      "processed_at": "2026-05-19T07:48:03.084851+00:00"
-    },
-    {
-      "title": "A 750 HP Mustang Took On A Dodge Demon And The Results Weren't Even Close - SlashGear",
-      "source": {
-        "name": "SlashGear"
-      },
-      "description": "A 1,025-hp Dodge Demon took on a 750-hp Ford Mustang in a drag race and finished nearly a second qui...",
-      "url": "https://www.slashgear.com/2172601/750-hp-ford-mustang-vs-dodge-demon-drag-race/",
-      "publishedAt": "2026-05-17T20:15:00Z",
-      "processed_at": "2026-05-19T07:48:03.084851+00:00"
+      "processed_at": "2026-05-19T11:19:33.487119+00:00"
     }
   ],
-  "lastUpdated": "2026-05-19T07:48:03.084922+00:00",
+  "lastUpdated": "2026-05-19T11:19:33.487196+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
