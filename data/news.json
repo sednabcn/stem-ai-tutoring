@@ -1,7 +1,37 @@
 {
   "status": "success",
-  "totalResults": 10,
+  "totalResults": 9,
   "articles": [
+    {
+      "title": "How to use Google’s new AI agents to go beyond your standard searches - TechCrunch",
+      "source": {
+        "name": "TechCrunch"
+      },
+      "description": "Google is launching AI-powered “information agents” that can monitor topics in the background and pr...",
+      "url": "https://techcrunch.com/2026/05/19/how-to-use-googles-new-ai-agents-to-go-beyond-your-standard-searches/",
+      "publishedAt": "2026-05-19T21:16:25Z",
+      "processed_at": "2026-05-20T23:15:17.750138+00:00"
+    },
+    {
+      "title": "Google rolling out Android 17 QPR1 Beta 3 for Pixel - 9to5Google",
+      "source": {
+        "name": "9to5google.com"
+      },
+      "description": "The two week cadence this cycle continues with Google today releasing Android 17 QPR1 Beta 3 during ...",
+      "url": "http://9to5google.com/2026/05/19/android-17-qpr1-beta-3-pixel/",
+      "publishedAt": "2026-05-19T20:45:00Z",
+      "processed_at": "2026-05-20T23:15:17.750138+00:00"
+    },
+    {
+      "title": "Everything Announced at Google I/O 2026: Gemini, Search, Smart Glasses - WIRED",
+      "source": {
+        "name": "Wired"
+      },
+      "description": "Google is sprucing up its Gemini models, revamping search, and enabling AI agents in everything. The...",
+      "url": "https://www.wired.com/story/everything-google-announced-at-google-io-2026/",
+      "publishedAt": "2026-05-19T20:00:00Z",
+      "processed_at": "2026-05-20T23:15:17.750138+00:00"
+    },
     {
       "title": "Plex’s 200% Lifetime Pass price hike tries forcing users to another subscription - Ars Technica",
       "source": {
@@ -10,7 +40,7 @@
       "description": "Plex says that it has considered getting rid of Lifetime Passes....",
       "url": "https://arstechnica.com/gadgets/2026/05/plexs-200-lifetime-pass-price-hike-tries-forcing-users-to-another-subscription/",
       "publishedAt": "2026-05-19T19:52:01Z",
-      "processed_at": "2026-05-20T21:55:56.722974+00:00"
+      "processed_at": "2026-05-20T23:15:17.750138+00:00"
     },
     {
       "title": "Everything New in Wear OS 7 - Droid Life",
@@ -20,7 +50,7 @@
       "description": "Wear OS 7 has been announced, set to release to supported smartwatches later this year. Google claim...",
       "url": "https://www.droid-life.com/2026/05/19/wear-os-7-changes/",
       "publishedAt": "2026-05-19T18:34:56Z",
-      "processed_at": "2026-05-20T21:55:56.722974+00:00"
+      "processed_at": "2026-05-20T23:15:17.750138+00:00"
     },
     {
       "title": "Google unveils new $100 per month AI Ultra plan; cuts price of top-tier plan (GOOG:NASDAQ) - Seeking Alpha",
@@ -30,80 +60,40 @@
       "description": "Google unveils $100/mo AI Ultra plan at I/O for developers: higher Gemini limits, Antigravity access...",
       "url": "https://seekingalpha.com/news/4595020-google-unveils-new-100-per-month-ai-ultra-plan-cuts-price-of-top-tier-plan",
       "publishedAt": "2026-05-19T18:31:31Z",
-      "processed_at": "2026-05-20T21:55:56.722974+00:00"
+      "processed_at": "2026-05-20T23:15:17.750138+00:00"
     },
     {
-      "title": "Kickstarter just killed its new mature content rules - The Verge",
+      "title": "‘Gmail Live’ is a new way to search emails as AI Inbox comes to AI Plus, AI Pro - 9to5Google",
+      "source": {
+        "name": "9to5google.com"
+      },
+      "description": "At I/O 2026, Google announced two big updates for Gmail, starting with a new Live voice search exper...",
+      "url": "http://9to5google.com/2026/05/19/gmail-live/",
+      "publishedAt": "2026-05-19T17:50:00Z",
+      "processed_at": "2026-05-20T23:15:17.750138+00:00"
+    },
+    {
+      "title": "A first (and second) look at the Android XR glasses launching this year - The Verge",
       "source": {
         "name": "The Verge"
       },
-      "description": "‘Honestly? We botched it.’...",
-      "url": "https://www.theverge.com/tech/933844/kickstarter-just-killed-its-new-mature-content-rules",
-      "publishedAt": "2026-05-19T18:30:43Z",
-      "processed_at": "2026-05-20T21:55:56.722974+00:00"
+      "description": "At Google I/O, the company showed off the latest Android XR demos, Project Aura, and new designs for...",
+      "url": "https://www.theverge.com/tech/933125/android-xr-samsung-warby-parker-gentle-monster-project-aura-xreal-google-io-2026",
+      "publishedAt": "2026-05-19T17:45:00Z",
+      "processed_at": "2026-05-20T23:15:17.750138+00:00"
     },
     {
-      "title": "The Disco Elysium Studio's New RPG Is Uneven But Absorbing - Kotaku",
-      "source": {
-        "name": "Kotaku"
-      },
-      "description": "This follow-up to Disco Elysium is righteously angry at the state of the world, though sometimes its...",
-      "url": "https://kotaku.com/zero-parades-for-dead-spies-review-zaum-disco-elysium-pc-steam-2000697108",
-      "publishedAt": "2026-05-19T18:25:24Z",
-      "processed_at": "2026-05-20T21:55:56.722974+00:00"
-    },
-    {
-      "title": "XREAL’s Android XR glasses will launch before the end of 2026, early access for devs - 9to5Google",
-      "source": {
-        "name": "9to5google.com"
-      },
-      "description": "Alongside other Android XR announcements at Google I/O 2026, XREAL has confirmed that its Project Au...",
-      "url": "http://9to5google.com/2026/05/19/xreal-project-aura-android-xr-developers-2026-launch/",
-      "publishedAt": "2026-05-19T18:00:00Z",
-      "processed_at": "2026-05-20T21:55:56.722974+00:00"
-    },
-    {
-      "title": "Google's interactive world builder, Project Genie, will drop you in real places using Street View - 9to5Google",
-      "source": {
-        "name": "9to5google.com"
-      },
-      "description": "Google just announced its world-exploring game, Project Genie, is getting a new feature that drops y...",
-      "url": "http://9to5google.com/2026/05/19/google-project-genie-to-generate-real-places-with-street-view/",
-      "publishedAt": "2026-05-19T17:57:00Z",
-      "processed_at": "2026-05-20T21:55:56.722974+00:00"
-    },
-    {
-      "title": "With Gemini 3.5 Flash, Google bets its next AI wave on agents, not chatbots - TechCrunch",
+      "title": "Google’s AI Studio now lets anyone build Android apps in minutes - TechCrunch",
       "source": {
         "name": "TechCrunch"
       },
-      "description": "Google launched Gemini 3.5 Flash, its most powerful coding and agentic AI model yet, at the company'...",
-      "url": "https://techcrunch.com/2026/05/19/with-gemini-3-5-flash-google-bets-its-next-ai-wave-on-agents-not-chatbots/",
-      "publishedAt": "2026-05-19T17:51:30Z",
-      "processed_at": "2026-05-20T21:55:56.722974+00:00"
-    },
-    {
-      "title": "Google gets ‘intelligent’ Search box redesign, information agents, mini apps, & more - 9to5Google",
-      "source": {
-        "name": "9to5google.com"
-      },
-      "description": "Google Search received big updates at I/O 2026. For starters, AI Mode is now powered by Gemini 3.5 F...",
-      "url": "http://9to5google.com/2026/05/19/google-gets-intelligent-search-box-redesign/",
-      "publishedAt": "2026-05-19T17:47:00Z",
-      "processed_at": "2026-05-20T21:55:56.722974+00:00"
-    },
-    {
-      "title": "Advancing content provenance for a safer, more transparent AI ecosystem - OpenAI",
-      "source": {
-        "name": "Openai.com"
-      },
-      "description": "OpenAI advances AI content provenance with Content Credentials, SynthID, and a verification tool to ...",
-      "url": "https://openai.com/index/advancing-content-provenance/",
-      "publishedAt": "2026-05-19T17:46:11Z",
-      "processed_at": "2026-05-20T21:55:56.722974+00:00"
+      "description": "Google unveiled new web-based AI tools that can generate native Android apps in minutes, as the comp...",
+      "url": "https://techcrunch.com/2026/05/19/googles-ai-studio-now-lets-anyone-build-android-apps-in-minutes/",
+      "publishedAt": "2026-05-19T17:45:00Z",
+      "processed_at": "2026-05-20T23:15:17.750138+00:00"
     }
   ],
-  "lastUpdated": "2026-05-20T21:55:56.723051+00:00",
+  "lastUpdated": "2026-05-20T23:15:17.750212+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
