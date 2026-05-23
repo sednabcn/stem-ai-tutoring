@@ -3,6 +3,26 @@
   "totalResults": 10,
   "articles": [
     {
+      "title": "AirPods with cameras suddenly make a lot more sense after this new reveal - 9to5Mac",
+      "source": {
+        "name": "9to5Mac"
+      },
+      "description": "AirPods with cameras are coming soon, perhaps named ‘AirPods Ultra,’ and after a new reveal the prod...",
+      "url": "https://9to5mac.com/2026/05/22/airpods-with-cameras-suddenly-make-a-lot-more-sense-after-this-new-reveal/",
+      "publishedAt": "2026-05-22T18:10:00Z",
+      "processed_at": "2026-05-23T21:56:36.503968+00:00"
+    },
+    {
+      "title": "Microsoft reports are exposing AI's real cost problem: Using the tech is more expensive than paying human employees - Fortune",
+      "source": {
+        "name": "Fortune"
+      },
+      "description": "Companies are racing to incentivize employees to use AI. But as some companies are finding, the more...",
+      "url": "https://fortune.com/2026/05/22/microsoft-ai-cost-problem-tokens-agents/",
+      "publishedAt": "2026-05-22T16:56:00Z",
+      "processed_at": "2026-05-23T21:56:36.503968+00:00"
+    },
+    {
       "title": "iPhone 18 Pro leak reveals brand new colors that could be coming - 9to5Mac",
       "source": {
         "name": "9to5Mac"
@@ -10,17 +30,17 @@
       "description": "A new leak might provide our first glimpse at the new iPhone 18 Pro color lineup via alleged camera ...",
       "url": "https://9to5mac.com/2026/05/22/iphone-18-pro-leak-reveals-brand-new-colors-that-could-be-coming/",
       "publishedAt": "2026-05-22T16:43:00Z",
-      "processed_at": "2026-05-23T20:54:57.673355+00:00"
+      "processed_at": "2026-05-23T21:56:36.503968+00:00"
     },
     {
-      "title": "PSA: The Steam Controller’s magnetic charger can be a fire hazard - Ars Technica",
+      "title": "iOS 26.5.1 Update for iPhones is Coming Soon - MacRumors",
       "source": {
-        "name": "Ars Technica"
+        "name": "MacRumors"
       },
-      "description": "Keep the charging puck’s exposed pins far away from anything metal....",
-      "url": "https://arstechnica.com/gaming/2026/05/psa-the-steam-controllers-magnetic-charger-can-be-a-fire-hazard/",
-      "publishedAt": "2026-05-22T16:24:11Z",
-      "processed_at": "2026-05-23T20:54:57.673355+00:00"
+      "description": "Apple's software engineers are testing iOS 26.5.1, according to the MacRumors visitor logs, which ha...",
+      "url": "https://www.macrumors.com/2026/05/22/ios-26-5-1-coming-soon/",
+      "publishedAt": "2026-05-22T16:23:08Z",
+      "processed_at": "2026-05-23T21:56:36.503968+00:00"
     },
     {
       "title": "You can no longer Google the word ‘disregard’ - TechCrunch",
@@ -30,17 +50,7 @@
       "description": "After Google Search's AI update, the word \"disregard\" now effectively breaks the search interface....",
       "url": "https://techcrunch.com/2026/05/22/you-can-no-longer-google-the-word-disregard/",
       "publishedAt": "2026-05-22T16:16:48Z",
-      "processed_at": "2026-05-23T20:54:57.673355+00:00"
-    },
-    {
-      "title": "Aliens: Fireteam Elite 2 Adds Exactly What You Wanted: A 4th Player and Smarter Xenos - IGN",
-      "source": {
-        "name": "IGN"
-      },
-      "description": "With a fourth player added, a new completely open-ended Specialist class, new special Xenomorph type...",
-      "url": "https://www.ign.com/articles/aliens-fireteam-elite-2-the-first-preview-ign-first",
-      "publishedAt": "2026-05-22T16:00:00Z",
-      "processed_at": "2026-05-23T20:54:57.673355+00:00"
+      "processed_at": "2026-05-23T21:56:36.503968+00:00"
     },
     {
       "title": "Random: Nintendo's New Yoshi Game Contains A Galactic Easter Egg - Nintendo Life",
@@ -50,7 +60,17 @@
       "description": "Warning: Spoilers lie within...",
       "url": "https://www.nintendolife.com/news/2026/05/random-nintendos-new-yoshi-game-contains-a-galactic-easter-egg",
       "publishedAt": "2026-05-22T16:00:00Z",
-      "processed_at": "2026-05-23T20:54:57.673355+00:00"
+      "processed_at": "2026-05-23T21:56:36.503968+00:00"
+    },
+    {
+      "title": "Aliens: Fireteam Elite 2 Adds Exactly What You Wanted: A 4th Player and Smarter Xenos - IGN",
+      "source": {
+        "name": "IGN"
+      },
+      "description": "With a fourth player added, a new completely open-ended Specialist class, new special Xenomorph type...",
+      "url": "https://www.ign.com/articles/aliens-fireteam-elite-2-the-first-preview-ign-first",
+      "publishedAt": "2026-05-22T16:00:00Z",
+      "processed_at": "2026-05-23T21:56:36.503968+00:00"
     },
     {
       "title": "We tried Google’s AI glasses and they’re almost there - TechCrunch",
@@ -60,7 +80,7 @@
       "description": "Google demoed prototype Android XR glasses that overlay Gemini-powered translation, navigation, and ...",
       "url": "https://techcrunch.com/2026/05/22/we-tried-googles-ai-glasses-and-theyre-almost-there/",
       "publishedAt": "2026-05-22T15:37:15Z",
-      "processed_at": "2026-05-23T20:54:57.673355+00:00"
+      "processed_at": "2026-05-23T21:56:36.503968+00:00"
     },
     {
       "title": "Final Fantasy 7 Rebirth Dev Regrets Brutal PS5 Platinum Trophy - Push Square",
@@ -70,40 +90,20 @@
       "description": "Now considers it \"excessive\" in hindsight...",
       "url": "https://www.pushsquare.com/news/2026/05/final-fantasy-7-rebirth-dev-regrets-brutal-ps5-platinum-trophy",
       "publishedAt": "2026-05-22T15:30:00Z",
-      "processed_at": "2026-05-23T20:54:57.673355+00:00"
+      "processed_at": "2026-05-23T21:56:36.503968+00:00"
     },
     {
-      "title": "Warhammer 40,000: Chaos Gate – Deathwatch: Redefined Brutal Turn-Based Tactics on XBOX - XBOX Wire",
+      "title": "Snap’s AR Glasses May Launch Soon With a Jaw-Dropping Pricing - Gizmodo",
       "source": {
-        "name": "Xbox.com"
+        "name": "Gizmodo.com"
       },
-      "description": "Complex Games Studio Head Jonas Van Niekerk lays out everything you need to know to get excited abou...",
-      "url": "https://news.xbox.com/en-us/2026/05/22/warhammer-40k-chaos-gate-deathwatch-announcement/",
-      "publishedAt": "2026-05-22T15:00:36Z",
-      "processed_at": "2026-05-23T20:54:57.673355+00:00"
-    },
-    {
-      "title": "#New40k rules – Da biggest and best Orks in da box - Warhammer Community",
-      "source": {
-        "name": "Warhammer-community.com"
-      },
-      "description": "There are new Warhammer 40,000 rules for Ork characters....",
-      "url": "https://www.warhammer-community.com/articles/uwdimgen/new40k-rules-da-biggest-and-best-orks-in-da-box",
-      "publishedAt": "2026-05-22T13:57:37Z",
-      "processed_at": "2026-05-23T20:54:57.673355+00:00"
-    },
-    {
-      "title": "Android 17 QPR1 Beta 3 finally enables partial screenshots, but not for everyone - Android Authority",
-      "source": {
-        "name": "Android Authority"
-      },
-      "description": "Android 17 QPR1 Beta 3 brings the long-leaked partial screenshot feature and enables it by default, ...",
-      "url": "https://www.androidauthority.com/android-17-qpr1-beta-3-partial-screenshot-screen-recording-toolbar-3670201/",
-      "publishedAt": "2026-05-22T13:29:50Z",
-      "processed_at": "2026-05-23T20:54:57.673355+00:00"
+      "description": "Making full-fledged AR glasses isn't cheap, nor will they be cheap to purchase....",
+      "url": "https://gizmodo.com/snaps-ar-glasses-may-launch-soon-with-a-jaw-dropping-pricing-2000762457",
+      "publishedAt": "2026-05-22T15:15:14Z",
+      "processed_at": "2026-05-23T21:56:36.503968+00:00"
     }
   ],
-  "lastUpdated": "2026-05-23T20:54:57.673434+00:00",
+  "lastUpdated": "2026-05-23T21:56:36.504053+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
