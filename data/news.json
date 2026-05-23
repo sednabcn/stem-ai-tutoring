@@ -1,7 +1,37 @@
 {
   "status": "success",
-  "totalResults": 10,
+  "totalResults": 9,
   "articles": [
+    {
+      "title": "IN BRIEF: Frontier Developments stock up on new Warhammer game launch - London South East",
+      "source": {
+        "name": "London South East"
+      },
+      "description": "IN BRIEF: Frontier Developments stock up on new Warhammer game launch | Financial News...",
+      "url": "https://www.lse.co.uk/news/in-brief-frontier-developments-stock-up-on-new-warhammer-game-launch-jjvylje3akw5hgp.html",
+      "publishedAt": "2026-05-22T11:30:00Z",
+      "processed_at": "2026-05-23T11:13:16.812623+00:00"
+    },
+    {
+      "title": "Warhammer 40,000 Video Game Crossover Event – Tacticus and Dawn of War IV | Warhammer Skulls 2026 - Warhammer Community",
+      "source": {
+        "name": "Warhammer-community.com"
+      },
+      "description": "War escalates in Warhammer 40,000: Tacticus with the Warhammer 40,000: Dawn of War IV crossover!\n\nTa...",
+      "url": "https://www.warhammer-community.com/videos/6qylarrs/warhammer-40000-video-game-crossover-event-tacticus-and-dawn-of-war-iv-warhammer-skulls-2026",
+      "publishedAt": "2026-05-22T10:04:26Z",
+      "processed_at": "2026-05-23T11:13:16.812623+00:00"
+    },
+    {
+      "title": "Why cruise ships are sailing to a phantom destination that doesn’t appear on any map - CNN",
+      "source": {
+        "name": "CNN"
+      },
+      "description": "Null Island isn’t an actual place. But that hasn’t stopped a small number of cruises from taking int...",
+      "url": "https://www.cnn.com/travel/visiting-null-island-cruises",
+      "publishedAt": "2026-05-22T09:03:43Z",
+      "processed_at": "2026-05-23T11:13:16.812623+00:00"
+    },
     {
       "title": "Google has tripled Gemini usage limits for Antigravity, twice - 9to5Google",
       "source": {
@@ -10,7 +40,17 @@
       "description": "New usage limits have hit Google’s Gemini AI models and, following user concerns, Google has raised ...",
       "url": "http://9to5google.com/2026/05/21/google-has-tripled-gemini-usage-limits-for-antigravity-twice/",
       "publishedAt": "2026-05-22T03:40:00Z",
-      "processed_at": "2026-05-23T09:01:58.607862+00:00"
+      "processed_at": "2026-05-23T11:13:16.812623+00:00"
+    },
+    {
+      "title": "Google just replaced another major piece of Fitbit's identity - Android Authority",
+      "source": {
+        "name": "Android Authority"
+      },
+      "description": "Google has transitioned the Fitbit Community page to Google Health Community with no clear way of ac...",
+      "url": "https://www.androidauthority.com/fitbit-community-google-health-community-3670056/",
+      "publishedAt": "2026-05-22T03:38:36Z",
+      "processed_at": "2026-05-23T11:13:16.812623+00:00"
     },
     {
       "title": "Azure Striker Gunvolt Trilogy Enhanced - Nintendo Switch 2 Edition announced, includes new story mode - Nintendo Everything",
@@ -20,17 +60,27 @@
       "description": "Azure Striker Gunvolt Trilogy Enhanced – Nintendo Switch 2 Edition is on the way, Inti Creates has a...",
       "url": "https://nintendoeverything.com/azure-striker-gunvolt-trilogy-enhanced-nintendo-switch-2-edition-announced-includes-new-story-mode/",
       "publishedAt": "2026-05-22T02:07:06Z",
-      "processed_at": "2026-05-23T09:01:58.607862+00:00"
+      "processed_at": "2026-05-23T11:13:16.812623+00:00"
     },
     {
-      "title": "'Warhammer 40k: Chaos Gate - Deathwatch' Announced, Featuring Elite Xeno-Hunting Specialists - Inven Global",
+      "title": "For England, James! 007 First Light's PS5 Launch Trailer Is Here to Hype You Up - Push Square",
       "source": {
-        "name": "InvenGlobal"
+        "name": "Push Square"
       },
-      "description": "On the 22nd, during the 'Warhammer Skulls 2026' showcase, Games Workshop unveiled 'Warhammer 40k: Ch...",
-      "url": "https://www.invenglobal.com/articles/warhammer-40k-chaos-gate-deathwatch-announced-featuring-elite-xeno-hunting-specialists",
-      "publishedAt": "2026-05-21T23:35:48Z",
-      "processed_at": "2026-05-23T09:01:58.607862+00:00"
+      "description": "Just a few days left...",
+      "url": "https://www.pushsquare.com/news/2026/05/for-england-james-007-first-lights-ps5-launch-trailer-is-here-to-hype-you-up",
+      "publishedAt": "2026-05-22T00:00:00Z",
+      "processed_at": "2026-05-23T11:13:16.812623+00:00"
+    },
+    {
+      "title": "Google's Smart Glasses Plan To One-Up Meta's Ray-Bans With These 4 New Features - bgr.com",
+      "source": {
+        "name": "BGR"
+      },
+      "description": "Google's new smart glasses will have screens, more capable AI features, better audio, and the smart ...",
+      "url": "https://www.bgr.com/2178968/google-smart-glasses-vs-meta-ray-ban-features/",
+      "publishedAt": "2026-05-21T23:17:00Z",
+      "processed_at": "2026-05-23T11:13:16.812623+00:00"
     },
     {
       "title": "Bungie Plans Layoffs After Ending ‘Destiny 2’ Development - Bloomberg",
@@ -40,70 +90,10 @@
       "description": "The Sony subsidiary will focus on ‘Marathon’ rather than jumping directly to ‘Destiny 3’...",
       "url": "https://www.bloomberg.com/news/articles/2026-05-21/bungie-plans-layoffs-after-ending-destiny-2-development",
       "publishedAt": "2026-05-21T23:13:50Z",
-      "processed_at": "2026-05-23T09:01:58.607862+00:00"
-    },
-    {
-      "title": "Anker’s new earbuds are the first with its AI chip that boosts noise reduction - theverge.com",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "The Liberty 5 Pro and Liberty 5 Pro Max are Anker’s first earbuds to feature its dedicated AI chip f...",
-      "url": "https://www.theverge.com/tech/934621/anker-liberty-5-pro-max-wireless-headphones-earbuds-ai-thus-chip",
-      "publishedAt": "2026-05-21T23:00:00Z",
-      "processed_at": "2026-05-23T09:01:58.607862+00:00"
-    },
-    {
-      "title": "Forza Horizon 6 Is A Difficult Game To Be Around - Aftermath",
-      "source": {
-        "name": "Aftermath.site"
-      },
-      "description": "'There is one hell of a driving game here to enjoy, so long as you're left in peace to enjoy it'...",
-      "url": "https://aftermath.site/forza-horizon-6-story-characters-dialogue/",
-      "publishedAt": "2026-05-21T22:32:12Z",
-      "processed_at": "2026-05-23T09:01:58.607862+00:00"
-    },
-    {
-      "title": "IoT gadget maker AcuRite shares reasoning for killing customers’ favorite app - Ars Technica",
-      "source": {
-        "name": "Ars Technica"
-      },
-      "description": "The move to AcuRite NOW has not been as smooth as some customers expected ...\"...",
-      "url": "https://arstechnica.com/gadgets/2026/05/iot-gadget-maker-acurite-shares-reasoning-for-killing-customers-favorite-app/",
-      "publishedAt": "2026-05-21T22:26:34Z",
-      "processed_at": "2026-05-23T09:01:58.607862+00:00"
-    },
-    {
-      "title": "XBOX Celebrates Global Accessibility Awareness Day with Improved Adaptive Thumbstick Toppers and More - XBOX Wire",
-      "source": {
-        "name": "Xbox.com"
-      },
-      "description": "Today, in recognition of Global Accessibility Awareness Day, we're sharing an update to the Adaptive...",
-      "url": "https://news.xbox.com/en-us/2026/05/21/xbox-global-accessibility-awareness-day-2026/",
-      "publishedAt": "2026-05-21T20:30:49Z",
-      "processed_at": "2026-05-23T09:01:58.607862+00:00"
-    },
-    {
-      "title": "‘GTA 6’ Price Still Not Revealed, but Take-Two Chief Says Rockstar on Track to Begin Marketing This Summer - Variety",
-      "source": {
-        "name": "Variety"
-      },
-      "description": "\"Grand Theft Auto 6\" does not yet have an announced price, and Take-Two Interactive CEO Strauss Zeln...",
-      "url": "https://variety.com/2026/gaming/news/gta-5-no-delay-price-marketing-summer-1236755303/",
-      "publishedAt": "2026-05-21T20:15:00Z",
-      "processed_at": "2026-05-23T09:01:58.607862+00:00"
-    },
-    {
-      "title": "Firefox is working on a rounded redesign with easy-to-find controls for privacy and AI - theverge.com",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "Mozilla’s Project Nova redesign for Firefox will give the browser a rounded UI and make it easier to...",
-      "url": "https://www.theverge.com/tech/935631/firefox-project-nova-redesign",
-      "publishedAt": "2026-05-21T20:05:09Z",
-      "processed_at": "2026-05-23T09:01:58.607862+00:00"
+      "processed_at": "2026-05-23T11:13:16.812623+00:00"
     }
   ],
-  "lastUpdated": "2026-05-23T09:01:58.607945+00:00",
+  "lastUpdated": "2026-05-23T11:13:16.812700+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
