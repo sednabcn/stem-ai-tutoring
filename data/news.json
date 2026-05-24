@@ -1,7 +1,47 @@
 {
   "status": "success",
-  "totalResults": 8,
+  "totalResults": 10,
   "articles": [
+    {
+      "title": "Gemini Live redesign now works with more ‘Connected Apps’ on Android - 9to5Google",
+      "source": {
+        "name": "9to5google.com"
+      },
+      "description": "As part of the Neural Expressive redesign, Gemini Live on Android can now access more first- and thi...",
+      "url": "http://9to5google.com/2026/05/23/gemini-live-connected-apps/",
+      "publishedAt": "2026-05-23T17:46:00Z",
+      "processed_at": "2026-05-24T19:35:12.709666+00:00"
+    },
+    {
+      "title": "Saturday pre-orders – Shake the battlefield with new tanks - Warhammer Community",
+      "source": {
+        "name": "Warhammer-community.com"
+      },
+      "description": "Add the Spartan Prometheus and Falchion to your Legiones Astartes army in Warhammer: The Horus Heres...",
+      "url": "https://www.warhammer-community.com/articles/3cak2ho1/saturday-pre-orders-shake-the-battlefield-with-new-tanks",
+      "publishedAt": "2026-05-23T16:59:45Z",
+      "processed_at": "2026-05-24T19:35:12.709666+00:00"
+    },
+    {
+      "title": "You can turn off AI in Google Search results with this easy modifier - 9to5Google",
+      "source": {
+        "name": "9to5google.com"
+      },
+      "description": "AI in Google Search can be useful, but it’s also one of those “love it or hate it” tools. If......",
+      "url": "http://9to5google.com/2026/05/23/google-ai-overviews-turn-off-modifier/",
+      "publishedAt": "2026-05-23T15:05:00Z",
+      "processed_at": "2026-05-24T19:35:12.709666+00:00"
+    },
+    {
+      "title": "The man behind the legendary MPC, Roger Linn, stays focused with a single browser tab - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "Roger Linn, the inventor of the MPC says take deep breaths, keep it simple, and maybe play a little ...",
+      "url": "https://www.theverge.com/entertainment/936426/mpc-linndrum-roger-linn-questionnaire-music-tech",
+      "publishedAt": "2026-05-23T15:00:00Z",
+      "processed_at": "2026-05-24T19:35:12.709666+00:00"
+    },
     {
       "title": "After Destiny 2’s Closure, PlayStation’s Live Service Push Is Officially In Shambles - Forbes",
       "source": {
@@ -10,7 +50,17 @@
       "description": "Destiny 2 is shutting down and Sony has nothing to replace it, relying mainly on a single first-part...",
       "url": "https://www.forbes.com/sites/paultassi/2026/05/23/after-destiny-2s-closure-playstations-live-service-push-is-officially-in-shambles/",
       "publishedAt": "2026-05-23T14:47:52Z",
-      "processed_at": "2026-05-24T17:58:32.423629+00:00"
+      "processed_at": "2026-05-24T19:35:12.709666+00:00"
+    },
+    {
+      "title": "Is Switch 2 Powerful Enough To Last Into the 2030s With PS6 and Project Helix Coming Soon? - Digital Foundry",
+      "source": {
+        "name": "Digitalfoundry.net"
+      },
+      "description": "Betteridge be damned....",
+      "url": "https://www.digitalfoundry.net/features/is-switch-2-powerful-enough-to-last-into-the-2030s-with-ps6-and-project-helix-coming-soon",
+      "publishedAt": "2026-05-23T14:20:00Z",
+      "processed_at": "2026-05-24T19:35:12.709666+00:00"
     },
     {
       "title": "The ‘GTA 6’ Release Date Is Confirmed, And Everything We’ve Learned Recently - Forbes",
@@ -20,70 +70,40 @@
       "description": "GTA 6 now has a triple confirmed release date, and we have gotten some new information about what's ...",
       "url": "https://www.forbes.com/sites/paultassi/2026/05/23/the-gta-6-release-date-is-confirmed-and-everything-weve-learned-recently/",
       "publishedAt": "2026-05-23T13:47:38Z",
-      "processed_at": "2026-05-24T17:58:32.423629+00:00"
+      "processed_at": "2026-05-24T19:35:12.709666+00:00"
     },
     {
-      "title": "Paralives in Early Access VS The Sims 4 at Release: A Battle for the Ages - Sims Community",
+      "title": "Fighting game notables are asked if they'd prefer Final Fantasy's Tifa Lockhart to join Street Fighter 6 or Tekken 8 - EventHubs",
       "source": {
-        "name": "Simscommunity.info"
+        "name": "EventHubs"
       },
-      "description": "With the now rapidly approaching release of Paralives into Early Access on May 25th, 2026 (which, as...",
-      "url": "https://simscommunity.info/2026/05/23/paralives-vs-the-sims-4-at-release/",
-      "publishedAt": "2026-05-23T10:28:33Z",
-      "processed_at": "2026-05-24T17:58:32.423629+00:00"
+      "description": "Final Fantasy is beginning to see more notable crossovers into the fighting game genre. Super Smash ...",
+      "url": "https://www.eventhubs.com/news/2026/may/23/question-tifa-lockhart-sf6-tekken/",
+      "publishedAt": "2026-05-23T13:43:49Z",
+      "processed_at": "2026-05-24T19:35:12.709666+00:00"
     },
     {
-      "title": "The Team Behind The Flipper One Needs Your Help - Hackaday",
+      "title": "Hanging out in my favorite virtual coffee shop in Tokyo - The Verge",
       "source": {
-        "name": "Hackaday"
+        "name": "The Verge"
       },
-      "description": "You’ve probably heard of the Flipper Zero, a pocket-sized device that packs in lots of great hacking...",
-      "url": "https://hackaday.com/2026/05/22/the-team-behind-the-flipper-one-needs-your-help/",
-      "publishedAt": "2026-05-23T05:00:00Z",
-      "processed_at": "2026-05-24T17:58:32.423629+00:00"
+      "description": "Coffee Talk Tokyo is a continuation of the cozy cafe series, available on the Nintendo Switch, PS5, ...",
+      "url": "https://www.theverge.com/entertainment/936278/coffee-talk-tokyo-review-switch-xbox-ps5-steam",
+      "publishedAt": "2026-05-23T13:00:00Z",
+      "processed_at": "2026-05-24T19:35:12.709666+00:00"
     },
     {
-      "title": "First-gen Chromecast streamers are suddenly failing for some users, 13 years later - 9to5Google",
+      "title": "Nintendo loves Yoshi but hasn't made a good Yoshi game in 30 years - Polygon.com",
       "source": {
-        "name": "9to5google.com"
+        "name": "Polygon"
       },
-      "description": "One of Google’s first true hit pieces of hardware, 2013’s Chromecast, is starting to stop working fo...",
-      "url": "http://9to5google.com/2026/05/22/first-gen-chromecast-streamers-are-suddenly-failing-for-some-users-13-years-later/",
-      "publishedAt": "2026-05-23T02:49:00Z",
-      "processed_at": "2026-05-24T17:58:32.423629+00:00"
-    },
-    {
-      "title": "Blue Origin completes investigation into New Glenn launch failure - SpaceNews",
-      "source": {
-        "name": "SpaceNews"
-      },
-      "description": "Blue Origin has completed the investigation into the failure on the third flight of its New Glenn ro...",
-      "url": "http://spacenews.com/blue-origin-completes-investigation-into-new-glenn-launch-failure/",
-      "publishedAt": "2026-05-23T02:32:12Z",
-      "processed_at": "2026-05-24T17:58:32.423629+00:00"
-    },
-    {
-      "title": "iPad Fold Leak Shows Apple’s Bigger Foldable Strategy - Memeburn",
-      "source": {
-        "name": "Memeburn"
-      },
-      "description": "iPad Fold may use the same crease-free hinge technology as Apple’s iPhone Ultra, with an 18-inch dis...",
-      "url": "https://memeburn.com/ipad-fold-leak-apple-foldable-strategy/",
-      "publishedAt": "2026-05-23T02:22:38Z",
-      "processed_at": "2026-05-24T17:58:32.423629+00:00"
-    },
-    {
-      "title": "Google Just Triggered a $1 Billion AI Price War: Does It Make Alphabet Stock a Buy Right Now? - Yahoo Finance",
-      "source": {
-        "name": "Motley Fool"
-      },
-      "description": "Google slashed the price of its Gemini enterprise offering by 20% to undercut OpenAI and Anthropic....",
-      "url": "https://www.fool.com/investing/2026/05/22/google-just-triggered-a-1-billion-ai-price-war-doe/",
-      "publishedAt": "2026-05-22T23:05:00Z",
-      "processed_at": "2026-05-24T17:58:32.423629+00:00"
+      "description": "Nintendo's mascot character Yoshi has never reached the heights of 1995's Yoshi's Island again. How ...",
+      "url": "https://www.polygon.com/switchboard-yoshi-curse/",
+      "publishedAt": "2026-05-23T12:01:18Z",
+      "processed_at": "2026-05-24T19:35:12.709666+00:00"
     }
   ],
-  "lastUpdated": "2026-05-24T17:58:32.423696+00:00",
+  "lastUpdated": "2026-05-24T19:35:12.709746+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
