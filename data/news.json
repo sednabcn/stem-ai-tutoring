@@ -1,6 +1,6 @@
 {
   "status": "success",
-  "totalResults": 9,
+  "totalResults": 10,
   "articles": [
     {
       "title": "The Team Behind The Flipper One Needs Your Help - Hackaday",
@@ -10,7 +10,7 @@
       "description": "You’ve probably heard of the Flipper Zero, a pocket-sized device that packs in lots of great hacking...",
       "url": "https://hackaday.com/2026/05/22/the-team-behind-the-flipper-one-needs-your-help/",
       "publishedAt": "2026-05-23T05:00:00Z",
-      "processed_at": "2026-05-24T10:42:08.691330+00:00"
+      "processed_at": "2026-05-24T12:00:26.929619+00:00"
     },
     {
       "title": "First-gen Chromecast streamers are suddenly failing for some users, 13 years later - 9to5Google",
@@ -20,7 +20,7 @@
       "description": "One of Google’s first true hit pieces of hardware, 2013’s Chromecast, is starting to stop working fo...",
       "url": "http://9to5google.com/2026/05/22/first-gen-chromecast-streamers-are-suddenly-failing-for-some-users-13-years-later/",
       "publishedAt": "2026-05-23T02:49:00Z",
-      "processed_at": "2026-05-24T10:42:08.691330+00:00"
+      "processed_at": "2026-05-24T12:00:26.929619+00:00"
     },
     {
       "title": "Unannounced Apple headphones revealed in FCC documents - 9to5Mac",
@@ -30,7 +30,7 @@
       "description": "A new filing in the FCC database has revealed an unannounced Apple-made Bluetooth headphone. Here ar...",
       "url": "https://9to5mac.com/2026/05/22/unannounced-apple-headphones-revealed-in-fcc-documents/",
       "publishedAt": "2026-05-23T01:43:00Z",
-      "processed_at": "2026-05-24T10:42:08.691330+00:00"
+      "processed_at": "2026-05-24T12:00:26.929619+00:00"
     },
     {
       "title": "'It's Nuts': Major PS5 Security Vulnerability Exposed, And We're All At Risk - Push Square",
@@ -40,7 +40,7 @@
       "description": "Social engineering scam uncovered...",
       "url": "https://www.pushsquare.com/news/2026/05/its-nuts-major-ps5-security-vulnerability-exposed-and-were-all-at-risk",
       "publishedAt": "2026-05-23T00:30:00Z",
-      "processed_at": "2026-05-24T10:42:08.691330+00:00"
+      "processed_at": "2026-05-24T12:00:26.929619+00:00"
     },
     {
       "title": "Google Just Triggered a $1 Billion AI Price War: Does It Make Alphabet Stock a Buy Right Now? - The Motley Fool",
@@ -50,17 +50,7 @@
       "description": "Google slashed the price of its Gemini enterprise offering by 20% to undercut OpenAI and Anthropic....",
       "url": "https://www.fool.com/investing/2026/05/22/google-just-triggered-a-1-billion-ai-price-war-doe/",
       "publishedAt": "2026-05-22T23:45:00Z",
-      "processed_at": "2026-05-24T10:42:08.691330+00:00"
-    },
-    {
-      "title": "Gemini app for Mac adding ‘Spark’ agent and voice control this summer - 9to5Google",
-      "source": {
-        "name": "9to5google.com"
-      },
-      "description": "At I/O 2026, Google previewed two major features for the Gemini app on macOS that are coming this su...",
-      "url": "http://9to5google.com/2026/05/22/gemini-mac-spark-control-summer/",
-      "publishedAt": "2026-05-22T22:26:00Z",
-      "processed_at": "2026-05-24T10:42:08.691330+00:00"
+      "processed_at": "2026-05-24T12:00:26.929619+00:00"
     },
     {
       "title": "Google goes for the glitter with disco-ball icons: ‘Are y’all sure you still want this?’ - TechCrunch",
@@ -70,7 +60,7 @@
       "description": "You can now disco ball-ify your entire Pixel home screen, says Google....",
       "url": "https://techcrunch.com/2026/05/22/google-goes-for-the-glitter-with-disco-ball-icons-are-yall-sure-you-still-want-this/",
       "publishedAt": "2026-05-22T21:02:36Z",
-      "processed_at": "2026-05-24T10:42:08.691330+00:00"
+      "processed_at": "2026-05-24T12:00:26.929619+00:00"
     },
     {
       "title": "CNN Tested 15 Travel Cameras — And This Fujifilm Model Won the Battle - Fuji Rumors",
@@ -80,20 +70,40 @@
       "description": "Summer is just around the corner, and for many of us this means high peak travel season. So the inev...",
       "url": "https://www.fujirumors.com/cnn-tested-15-travel-cameras-and-this-fujifilm-model-won-the-battle/",
       "publishedAt": "2026-05-22T20:59:59Z",
-      "processed_at": "2026-05-24T10:42:08.691330+00:00"
+      "processed_at": "2026-05-24T12:00:26.929619+00:00"
     },
     {
-      "title": "Google’s AI search is so broken it can ‘disregard’ what you’re looking for - The Verge",
+      "title": "Riot Claims Valorant Anti-Cheat Software Isn't Bricking PCs - Kotaku",
       "source": {
-        "name": "The Verge"
+        "name": "Kotaku"
       },
-      "description": "Google’s AI Overviews are responding like traditional AI chatbots if you search for terms like “disr...",
-      "url": "https://www.theverge.com/tech/936176/google-ai-overviews-search-disregard",
-      "publishedAt": "2026-05-22T20:39:54Z",
-      "processed_at": "2026-05-24T10:42:08.691330+00:00"
+      "description": "'They can absolutely get f*cked. I'll be joining whatever class action comes from this,' one player ...",
+      "url": "https://kotaku.com/riot-says-its-anti-cheat-update-isnt-bricking-pcs-but-players-are-still-worried-2000698675",
+      "publishedAt": "2026-05-22T20:16:26Z",
+      "processed_at": "2026-05-24T12:00:26.929619+00:00"
+    },
+    {
+      "title": "Physical Copies Of A Remake Of A 25-Year-Old RPG Are Unplayable Without A Day-One Update - Kotaku",
+      "source": {
+        "name": "Kotaku"
+      },
+      "description": "The Gothic remake won't require a permanent internet connection, but.......",
+      "url": "https://kotaku.com/gothic-remake-rpg-day-one-physical-internet-connection-update-required-thq-2000698754",
+      "publishedAt": "2026-05-22T19:31:51Z",
+      "processed_at": "2026-05-24T12:00:26.929619+00:00"
+    },
+    {
+      "title": "Paralives Announces Launch Discount And Post-Release Roadmap - Sims Community",
+      "source": {
+        "name": "Simscommunity.info"
+      },
+      "description": "The Post-Release Roadmap for Paralives reveals the developer's sharp focus, especially from June 202...",
+      "url": "https://simscommunity.info/2026/05/22/post-release-roadmap-paralives/",
+      "publishedAt": "2026-05-22T17:39:53Z",
+      "processed_at": "2026-05-24T12:00:26.929619+00:00"
     }
   ],
-  "lastUpdated": "2026-05-24T10:42:08.691409+00:00",
+  "lastUpdated": "2026-05-24T12:00:26.929694+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
