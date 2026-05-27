@@ -1,16 +1,46 @@
 {
   "status": "success",
-  "totalResults": 10,
+  "totalResults": 9,
   "articles": [
+    {
+      "title": "4 new pizzerias up the ante for neighborhood joints - Pittsburgh Post-Gazette",
+      "source": {
+        "name": "Pittsburgh Post-Gazette"
+      },
+      "description": "False...",
+      "url": "https://www.post-gazette.com/life/dining/2026/05/26/pittsburgh-pizza-news-paps-muns-slice-squared-burghers/stories/202605220046",
+      "publishedAt": "2026-05-26T12:32:25Z",
+      "processed_at": "2026-05-27T12:53:12.949464+00:00"
+    },
+    {
+      "title": "NASA just gave SpaceX more crew missions because Boeing can’t certify - Teslarati",
+      "source": {
+        "name": "Teslarati"
+      },
+      "description": "NASA has filed a procurement notice announcing its intent to add six post-certification missions to ...",
+      "url": "https://www.teslarati.com/spacex-nasa-contracts/",
+      "publishedAt": "2026-05-26T12:13:55Z",
+      "processed_at": "2026-05-27T12:53:12.949464+00:00"
+    },
+    {
+      "title": "PSA: You Can Pre-Order Star Fox Physically For Less Than The Digital Version (UK) - Nintendo Life",
+      "source": {
+        "name": "Nintendo Life"
+      },
+      "description": "Do a bank roll!...",
+      "url": "https://www.nintendolife.com/news/2026/05/psa-you-can-pre-order-star-fox-physically-for-less-than-the-digital-version-uk",
+      "publishedAt": "2026-05-26T10:30:00Z",
+      "processed_at": "2026-05-27T12:53:12.949464+00:00"
+    },
     {
       "title": "One Of 2025's Best Games Is Now Free For Switch Online Members - Nintendo Life",
       "source": {
         "name": "Nintendo Life"
       },
-      "description": "",
+      "description": "Play it until 1st June...",
       "url": "https://www.nintendolife.com/news/2026/05/one-of-2025s-best-games-is-now-free-for-switch-online-members",
       "publishedAt": "2026-05-26T09:45:00Z",
-      "processed_at": "2026-05-27T09:53:46.774207+00:00"
+      "processed_at": "2026-05-27T12:53:12.949464+00:00"
     },
     {
       "title": "Store Update 1.30.0 - ARC Raiders",
@@ -20,7 +50,7 @@
       "description": "ARC Raiders is a multiplayer extraction adventure, set in a lethal future earth, ravaged by a myster...",
       "url": "https://arcraiders.com/news/store-update-1-30-0",
       "publishedAt": "2026-05-26T09:05:57Z",
-      "processed_at": "2026-05-27T09:53:46.774207+00:00"
+      "processed_at": "2026-05-27T12:53:12.949464+00:00"
     },
     {
       "title": "‘Persona 4 Revival BGM’ Registered on NexTone Music Copyright Database - Persona Central",
@@ -30,7 +60,7 @@
       "description": "An new entry has appeared on a music copyright management database for 'Persona 4 Revival' BGM imply...",
       "url": "https://personacentral.com/p4r-bgm/",
       "publishedAt": "2026-05-26T06:42:28Z",
-      "processed_at": "2026-05-27T09:53:46.774207+00:00"
+      "processed_at": "2026-05-27T12:53:12.949464+00:00"
     },
     {
       "title": "LEGO Skylines by Paradox Interactive, Persona 4 Revival, and more rated in Korea - Gematsu",
@@ -40,7 +70,17 @@
       "description": "The Game Rating and Administration Committee of Korea has rated the unannounced LEGO Skylines by Par...",
       "url": "https://www.gematsu.com/2026/05/lego-skylines-by-paradox-interactive-persona-4-revival-and-more-rated-in-korea",
       "publishedAt": "2026-05-26T06:38:18Z",
-      "processed_at": "2026-05-27T09:53:46.774207+00:00"
+      "processed_at": "2026-05-27T12:53:12.949464+00:00"
+    },
+    {
+      "title": "Gemini user hits 5-hour usage cap after a single prompt, Google responds - Android Authority",
+      "source": {
+        "name": "Android Authority"
+      },
+      "description": "A Gemini user reportedly exhausted their five-hour usage limit with a single failed prompt, and Goog...",
+      "url": "https://www.androidauthority.com/google-gemini-usage-limit-problem-3670846/",
+      "publishedAt": "2026-05-26T06:12:58Z",
+      "processed_at": "2026-05-27T12:53:12.949464+00:00"
     },
     {
       "title": "Motorola phones have started hijacking the Amazon app to insert affiliate codes [Video] - 9to5Google",
@@ -50,60 +90,10 @@
       "description": "A truly bizarre situation on Motorola phones has led to the software hijacking the Amazon app to inj...",
       "url": "http://9to5google.com/2026/05/25/motorola-amazon-app-hijacking-behavior/",
       "publishedAt": "2026-05-26T03:30:00Z",
-      "processed_at": "2026-05-27T09:53:46.774207+00:00"
-    },
-    {
-      "title": "TEVI DLC ‘Fauna Arcana’ announced - Gematsu",
-      "source": {
-        "name": "Gematsu"
-      },
-      "description": "Publisher and developer CreSpirit, and developer GemaYue have announced TEVI downloadable content “F...",
-      "url": "https://www.gematsu.com/2026/05/tevi-dlc-fauna-arcana-announced",
-      "publishedAt": "2026-05-26T03:00:57Z",
-      "processed_at": "2026-05-27T09:53:46.774207+00:00"
-    },
-    {
-      "title": "Tetris 99's Latest Crossover Event Celebrates Yoshi's New Game, Unlock A Special Theme - Nintendo Life",
-      "source": {
-        "name": "Nintendo Life"
-      },
-      "description": "Starting this week...",
-      "url": "https://www.nintendolife.com/news/2026/05/tetris-99s-latest-crossover-event-celebrates-yoshis-new-game-unlock-a-special-theme",
-      "publishedAt": "2026-05-26T01:25:00Z",
-      "processed_at": "2026-05-27T09:53:46.774207+00:00"
-    },
-    {
-      "title": "Outfit 3 DLC revealed for Ingrid, Sagat, Alex and C. Viper in Street Fighter 6 - EventHubs",
-      "source": {
-        "name": "EventHubs"
-      },
-      "description": "We're now just a few days away from Street Fighter 6's next big update with Ingrid's release and can...",
-      "url": "https://www.eventhubs.com/news/2026/may/25/season-3-costumes-sf6/",
-      "publishedAt": "2026-05-25T23:05:05Z",
-      "processed_at": "2026-05-27T09:53:46.774207+00:00"
-    },
-    {
-      "title": "Z386: An Open-Source 80386 Built Around Original Microcode - Hackaday",
-      "source": {
-        "name": "Hackaday"
-      },
-      "description": "There are many ways you can implement an Intel i386 CPU on an FPGA, with the use of original microco...",
-      "url": "https://hackaday.com/2026/05/25/z386-an-open-source-80386-built-around-original-microcode/",
-      "publishedAt": "2026-05-25T23:00:00Z",
-      "processed_at": "2026-05-27T09:53:46.774207+00:00"
-    },
-    {
-      "title": "The Virtual OS Museum is a fantastic project that lets you run Mac OS, A/UX, NeXTSTEP, more - 9to5Mac",
-      "source": {
-        "name": "9to5Mac"
-      },
-      "description": "If you’ve ever wondered what it felt like to use the many operating systems Apple (and NeXT) release...",
-      "url": "https://9to5mac.com/2026/05/25/the-virtual-os-museum-is-a-fantastic-project-that-lets-you-run-mac-os-a-ux-nextstep-more/",
-      "publishedAt": "2026-05-25T22:44:00Z",
-      "processed_at": "2026-05-27T09:53:46.774207+00:00"
+      "processed_at": "2026-05-27T12:53:12.949464+00:00"
     }
   ],
-  "lastUpdated": "2026-05-27T09:53:46.774285+00:00",
+  "lastUpdated": "2026-05-27T12:53:12.949543+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
