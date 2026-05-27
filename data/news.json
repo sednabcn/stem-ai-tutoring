@@ -1,16 +1,86 @@
 {
   "status": "success",
-  "totalResults": 8,
+  "totalResults": 10,
   "articles": [
     {
-      "title": "iOS 27’s new Siri design will look like this, per report - 9to5Mac",
+      "title": "Apple Seeds First iOS 26.6 and iPadOS 26.6 Betas to Developers - MacRumors",
       "source": {
-        "name": "9to5Mac"
+        "name": "MacRumors"
       },
-      "description": "Apple’s major Siri overhaul will be unveiled soon, and a new report reveals exactly what to expect f...",
-      "url": "https://9to5mac.com/2026/05/26/ios-27s-new-siri-design-will-look-like-this-per-report/",
-      "publishedAt": "2026-05-26T15:51:00Z",
-      "processed_at": "2026-05-27T16:38:27.307444+00:00"
+      "description": "Apple today seeded the first betas of upcoming iOS 26.6 and iPadOS 26.6 updates to developers for te...",
+      "url": "https://www.macrumors.com/2026/05/26/apple-releases-ios-26-beta-1/",
+      "publishedAt": "2026-05-26T17:07:59Z",
+      "processed_at": "2026-05-27T19:26:00.649788+00:00"
+    },
+    {
+      "title": "Bari Weiss: Think For Yourself, Not By Yourself - The Free Press",
+      "source": {
+        "name": "Thefp.com"
+      },
+      "description": "The next chapter of The Free Press begins today with the launch of our community-fostering initiativ...",
+      "url": "https://www.thefp.com/p/free-press-community-launch",
+      "publishedAt": "2026-05-26T17:00:11Z",
+      "processed_at": "2026-05-27T19:26:00.649788+00:00"
+    },
+    {
+      "title": "Man's Girlfriend Put His Backpack in What She Thought Was the Trunk of a C8 Corvette. The Hot Engine Nearly Caught Fire - Yahoo Autos",
+      "source": {
+        "name": "Guessingheadlights.com"
+      },
+      "description": "A brand-new Chevrolet Corvette C8 and a melted backpack have become the latest viral combo on X afte...",
+      "url": "https://guessingheadlights.com/mans-girlfriend-put-his-backpack-in-what-she-thought-was-the-trunk-of-a-c8-corvette-the-hot-engine-nearly-caught-fire/",
+      "publishedAt": "2026-05-26T16:28:54Z",
+      "processed_at": "2026-05-27T19:26:00.649788+00:00"
+    },
+    {
+      "title": "Windows' classic 3D Space Cadet pinball is getting a physical re-creation - Ars Technica",
+      "source": {
+        "name": "Ars Technica"
+      },
+      "description": "But there are some real-world constraints that virtual pinball could easily ignore....",
+      "url": "https://arstechnica.com/gaming/2026/05/windows-classic-3d-space-cadet-pinball-is-getting-a-physical-re-creation/",
+      "publishedAt": "2026-05-26T16:24:02Z",
+      "processed_at": "2026-05-27T19:26:00.649788+00:00"
+    },
+    {
+      "title": "Update from the Dragon Quest team live stream announced - Nintendo Everything",
+      "source": {
+        "name": "Nintendoeverything.com"
+      },
+      "description": "Square Enix is gearing up for an Update from the Dragon Quest team live stream, the company announce...",
+      "url": "https://nintendoeverything.com/update-from-the-dragon-quest-team-live-stream-announced/",
+      "publishedAt": "2026-05-26T16:16:58Z",
+      "processed_at": "2026-05-27T19:26:00.649788+00:00"
+    },
+    {
+      "title": "Rocket League's Unreal Engine 6 makeover teased as Epic reveals a glimpse of the future - Eurogamer",
+      "source": {
+        "name": "Eurogamer.net"
+      },
+      "description": "Four years after the launch of Unreal Engine 5, Epic has given a first glimpse of what's next, with ...",
+      "url": "https://www.eurogamer.net/rocket-league-unreal-engine-6-tease",
+      "publishedAt": "2026-05-26T16:03:07Z",
+      "processed_at": "2026-05-27T19:26:00.649788+00:00"
+    },
+    {
+      "title": "Is Paradox making a Lego Skylines city-building game? Korean ratings board also details Persona 4 Revival and Gears of War: E-Day - Eurogamer",
+      "source": {
+        "name": "Eurogamer.net"
+      },
+      "description": "How do you follow a game like Cities: Skylines 2? If this news is true, by making a Lego-ified versi...",
+      "url": "https://www.eurogamer.net/lego-skylines-city-building-paradox",
+      "publishedAt": "2026-05-26T15:52:48Z",
+      "processed_at": "2026-05-27T19:26:00.649788+00:00"
+    },
+    {
+      "title": "Oppo’s Bubble is a thin round screen for taking rear camera selfies - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "Oppo’s Bubble is a magnetic wireless preview screen that sticks to the back of your phone so you can...",
+      "url": "https://www.theverge.com/tech/937067/oppo-bubble-wireless-screen-remote-selfie-magnetic",
+      "publishedAt": "2026-05-26T15:07:45Z",
+      "processed_at": "2026-05-27T19:26:00.649788+00:00"
     },
     {
       "title": "Most Valuable Cards from \"Abyss Eye,\" Slowbro the Favorite Illustration Rare! - PokeBeach",
@@ -20,70 +90,20 @@
       "description": "Abyss Eye released in Japan on Friday! I've gathered card prices from online stores to give us a clu...",
       "url": "https://www.pokebeach.com/?p=320704",
       "publishedAt": "2026-05-26T15:01:10Z",
-      "processed_at": "2026-05-27T16:38:27.307444+00:00"
+      "processed_at": "2026-05-27T19:26:00.649788+00:00"
     },
     {
-      "title": "Nvidia has retired its GeForce Control Panel app after 20 years - The Verge",
+      "title": "Apple’s new MacBook Air M5 just dropped below Memorial Day pricing at $199 off - CNN",
       "source": {
-        "name": "The Verge"
+        "name": "CNN"
       },
-      "description": "Nvidia has now ported across all of the major Control Panel features to its Nvidia app....",
-      "url": "https://www.theverge.com/news/937221/nvidia-geforce-control-panel-app-retirement",
-      "publishedAt": "2026-05-26T14:14:35Z",
-      "processed_at": "2026-05-27T16:38:27.307444+00:00"
-    },
-    {
-      "title": "iPhone 18 Pro Max vs Google Pixel 11 Pro XL: Main differences to expect - PhoneArena",
-      "source": {
-        "name": "PhoneArena"
-      },
-      "description": "",
-      "url": "https://www.phonearena.com/reviews/apple-iphone-18-pro-max-vs-google-pixel-11-pro-xl_id7937",
-      "publishedAt": "2026-05-26T14:02:52Z",
-      "processed_at": "2026-05-27T16:38:27.307444+00:00"
-    },
-    {
-      "title": "Hundreds of Marvel Rivals cheats named and shamed in \"an immediate, targeted purge\" - Eurogamer",
-      "source": {
-        "name": "Eurogamer.net"
-      },
-      "description": "Played against someone in Marvel Rivals you think is cheating? Their name might be on this list....",
-      "url": "https://www.eurogamer.net/marvel-rivals-exploiters-cheats-named-shamed",
-      "publishedAt": "2026-05-26T13:08:33Z",
-      "processed_at": "2026-05-27T16:38:27.307444+00:00"
-    },
-    {
-      "title": "Here are our PS Plus monthly games for June, with an Xbox title headlining - Eurogamer",
-      "source": {
-        "name": "Eurogamer.net"
-      },
-      "description": "Sony has announced its PlayStation Plus games for June....",
-      "url": "https://www.eurogamer.net/here-are-our-ps-plus-monthly-games-for-june-with-an-xbox-title-headlining",
-      "publishedAt": "2026-05-26T12:56:18Z",
-      "processed_at": "2026-05-27T16:38:27.307444+00:00"
-    },
-    {
-      "title": "Nobody wants to tell me why they only listen to their own Suno slop - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "Suno users are abandoning Spotify, and real music for their own AI slop....",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/937059/nobody-wants-to-tell-me-why-they-only-listen-their-own-suno-slop",
-      "publishedAt": "2026-05-26T12:46:03Z",
-      "processed_at": "2026-05-27T16:38:27.307444+00:00"
-    },
-    {
-      "title": "4 new pizzerias up the ante for neighborhood joints - Pittsburgh Post-Gazette",
-      "source": {
-        "name": "Pittsburgh Post-Gazette"
-      },
-      "description": "False...",
-      "url": "https://www.post-gazette.com/life/dining/2026/05/26/pittsburgh-pizza-news-paps-muns-slice-squared-burghers/stories/202605220046",
-      "publishedAt": "2026-05-26T12:32:25Z",
-      "processed_at": "2026-05-27T16:38:27.307444+00:00"
+      "description": "Apple just launched its newest MacBook Air back in March, and now the best MacBook and overall lapto...",
+      "url": "https://www.cnn.com/cnn-underscored/deals/apple-macbook-air-m5-sale-2026-05-26",
+      "publishedAt": "2026-05-26T15:00:00Z",
+      "processed_at": "2026-05-27T19:26:00.649788+00:00"
     }
   ],
-  "lastUpdated": "2026-05-27T16:38:27.307510+00:00",
+  "lastUpdated": "2026-05-27T19:26:00.649869+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
