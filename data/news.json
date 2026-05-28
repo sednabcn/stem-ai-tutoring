@@ -3,6 +3,16 @@
   "totalResults": 10,
   "articles": [
     {
+      "title": "Experimental randomness amplification - Nature",
+      "source": {
+        "name": "Nature.com"
+      },
+      "description": "An experimental realization of device-independent randomness amplification is demonstrated using sup...",
+      "url": "https://www.nature.com/articles/s41586-026-10521-8",
+      "publishedAt": "2026-05-27T21:48:41Z",
+      "processed_at": "2026-05-28T21:55:40.355532+00:00"
+    },
+    {
       "title": "TL;DW: Mayhem, Ranked 5s & More Dev Update - League of Legends",
       "source": {
         "name": "Leagueoflegends.com"
@@ -10,27 +20,17 @@
       "description": "A short rundown of changes from today’s Dev Update....",
       "url": "https://www.leagueoflegends.com/en-us/news/dev/tldw-mayhem-ranked-5s-more-dev-update/",
       "publishedAt": "2026-05-27T20:26:25Z",
-      "processed_at": "2026-05-28T19:35:26.728000+00:00"
+      "processed_at": "2026-05-28T21:55:40.355532+00:00"
     },
     {
-      "title": "/dev: The Return of Ranked 5s - League of Legends",
+      "title": "Microsoft is Rolling Out Windows 11 Performance Boosting Update - TechPowerUp",
       "source": {
-        "name": "Leagueoflegends.com"
+        "name": "Techpowerup.com"
       },
-      "description": "We’re experimenting with a new Ranked queue....",
-      "url": "https://www.leagueoflegends.com/en-us/news/dev/dev-the-return-of-ranked-5s/",
-      "publishedAt": "2026-05-27T20:06:42Z",
-      "processed_at": "2026-05-28T19:35:26.728000+00:00"
-    },
-    {
-      "title": "Roku OS’s home screen now features a large, permanent ad - Ars Technica",
-      "source": {
-        "name": "Ars Technica"
-      },
-      "description": "“I don't want recommendations! I know what I want to watch.\"...",
-      "url": "https://arstechnica.com/gadgets/2026/05/roku-oss-home-screen-now-features-a-large-permanent-ad/",
-      "publishedAt": "2026-05-27T19:12:59Z",
-      "processed_at": "2026-05-28T19:35:26.728000+00:00"
+      "description": "If readers recall, Microsoft was preparing a \"Low Latency Profile\" feature as part of the Windows K2...",
+      "url": "https://www.techpowerup.com/349411/microsoft-is-rolling-out-windows-11-performance-boosting-update",
+      "publishedAt": "2026-05-27T18:12:58Z",
+      "processed_at": "2026-05-28T21:55:40.355532+00:00"
     },
     {
       "title": "Valve raises Steam Deck prices by more than $200 - The Verge",
@@ -40,7 +40,7 @@
       "description": "Valve has raised the price of the Steam Deck OLED, with the 1TB model jumping to $949, and the 512GB...",
       "url": "https://www.theverge.com/games/938340/valve-steam-deck-price-increase",
       "publishedAt": "2026-05-27T17:32:48Z",
-      "processed_at": "2026-05-28T19:35:26.728000+00:00"
+      "processed_at": "2026-05-28T21:55:40.355532+00:00"
     },
     {
       "title": "You can print, slice, and engrave using this desktop crafting machine - The Verge",
@@ -50,7 +50,7 @@
       "description": "The $599 xTool M2 is the company’s most affordable laser cutting tool, but you can upgrade it with f...",
       "url": "https://www.theverge.com/tech/938031/xtool-m2-craft-machine-cmyk-inkjet-printing-laser-diode-cutter",
       "publishedAt": "2026-05-27T16:56:02Z",
-      "processed_at": "2026-05-28T19:35:26.728000+00:00"
+      "processed_at": "2026-05-28T21:55:40.355532+00:00"
     },
     {
       "title": "IO Interactive has a plan to keep you playing 007: First Light long after the credits roll - Eurogamer",
@@ -60,7 +60,7 @@
       "description": "James Bond game 007: First Light isn't naturally replayable like Hitman World of Assassination, but ...",
       "url": "https://www.eurogamer.net/007-first-light-replayability-tacsim-dlc",
       "publishedAt": "2026-05-27T16:05:07Z",
-      "processed_at": "2026-05-28T19:35:26.728000+00:00"
+      "processed_at": "2026-05-28T21:55:40.355532+00:00"
     },
     {
       "title": "Halide Mark III pro camera for iPhone arrives with three key photography upgrades - 9to5Mac",
@@ -70,7 +70,7 @@
       "description": "Halide’s big 3.0 upgrade has been on our radar since late 2024. Today, the pro camera app has arrive...",
       "url": "https://9to5mac.com/2026/05/27/halide-mark-iii-pro-camera-for-iphone-arrives-with-three-key-photography-upgrades/",
       "publishedAt": "2026-05-27T16:00:00Z",
-      "processed_at": "2026-05-28T19:35:26.728000+00:00"
+      "processed_at": "2026-05-28T21:55:40.355532+00:00"
     },
     {
       "title": "Sony’s Bravia 7 II makes a statement - The Verge",
@@ -80,7 +80,17 @@
       "description": "While the tech is still new, Sony’s Bravia 7 II proves that RGB LED TVs are capable of serious perfo...",
       "url": "https://www.theverge.com/tech/937879/sony-bravia-7-ii-review",
       "publishedAt": "2026-05-27T16:00:00Z",
-      "processed_at": "2026-05-28T19:35:26.728000+00:00"
+      "processed_at": "2026-05-28T21:55:40.355532+00:00"
+    },
+    {
+      "title": "Marathon Goes Free-To-Play For Just One Week During Season 2 - Kotaku",
+      "source": {
+        "name": "Kotaku"
+      },
+      "description": "Some fans have been wondering if the game would go free-to-play...",
+      "url": "https://kotaku.com/marathon-is-finally-going-free-for-a-week-as-bungie-looks-for-a-rebound-2000699845",
+      "publishedAt": "2026-05-27T15:54:35Z",
+      "processed_at": "2026-05-28T21:55:40.355532+00:00"
     },
     {
       "title": "The Highest Metacritic Review-Scored Game Of 2026 Is ‘Mina The Hollower’ - Forbes",
@@ -90,20 +100,10 @@
       "description": "Mina the Hollower is here and has amassed the single highest Metacritic score of 2026 so far but a d...",
       "url": "https://www.forbes.com/sites/paultassi/2026/05/27/the-highest-metacritic-scored-game-of-2026-has-just-arrived/",
       "publishedAt": "2026-05-27T15:34:49Z",
-      "processed_at": "2026-05-28T19:35:26.728000+00:00"
-    },
-    {
-      "title": "Here’s how Google is responding to Fitbit users who don’t like the new Health app - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "Google announced changes to the Google Health app after users complained about the Fitbit app replac...",
-      "url": "https://www.theverge.com/tech/938179/google-health-fitbit-roadmap",
-      "publishedAt": "2026-05-27T15:28:43Z",
-      "processed_at": "2026-05-28T19:35:26.728000+00:00"
+      "processed_at": "2026-05-28T21:55:40.355532+00:00"
     }
   ],
-  "lastUpdated": "2026-05-28T19:35:26.728076+00:00",
+  "lastUpdated": "2026-05-28T21:55:40.355612+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
