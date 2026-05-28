@@ -1,7 +1,37 @@
 {
   "status": "success",
-  "totalResults": 9,
+  "totalResults": 8,
   "articles": [
+    {
+      "title": "Rumor: Sonic Frontiers: Definitive Edition Nintendo Switch 2 tech improvements detailed - Nintendo Everything",
+      "source": {
+        "name": "Nintendoeverything.com"
+      },
+      "description": "More details about Sonic Frontiers: Definitive Edition has apparently come to light via the latest l...",
+      "url": "https://nintendoeverything.com/rumor-sonic-frontiers-definitive-edition-nintendo-switch-2-tech-improvements-detailed/",
+      "publishedAt": "2026-05-27T11:47:57Z",
+      "processed_at": "2026-05-28T12:27:16.235091+00:00"
+    },
+    {
+      "title": "Motorola’s 2026 Razrs are almost worth buying just for their stunning looks… almost - Ars Technica",
+      "source": {
+        "name": "Ars Technica"
+      },
+      "description": "Pretty little phones with pretty big price tags....",
+      "url": "https://arstechnica.com/gadgets/2026/05/motorolas-2026-razrs-are-almost-worth-buying-just-for-their-stunning-looks-almost/",
+      "publishedAt": "2026-05-27T11:00:28Z",
+      "processed_at": "2026-05-28T12:27:16.235091+00:00"
+    },
+    {
+      "title": "New Witcher 3 Expansion Revealed: \"Songs of the Past\" Continues Geralt's Story More Than A Decade On - Digital Foundry",
+      "source": {
+        "name": "Digitalfoundry.net"
+      },
+      "description": "Plus: new minimum requirements, effective from the next patch....",
+      "url": "https://www.digitalfoundry.net/news/2026/05/new-witcher-3-expansion-revealed-songs-of-the-past-continues-geralts-story-more-than-a-decade-on",
+      "publishedAt": "2026-05-27T09:18:00Z",
+      "processed_at": "2026-05-28T12:27:16.235091+00:00"
+    },
     {
       "title": "Street Fighter 6 server maintenance time revealed for Ingrid and the game's largest content update to date - EventHubs",
       "source": {
@@ -10,7 +40,27 @@
       "description": "It's finally almost time for the conclusion of Street Fighter 6 Season 3, and they're looking to go ...",
       "url": "https://www.eventhubs.com/news/2026/may/26/street-fighter-ingrid-update-maintenance/",
       "publishedAt": "2026-05-27T02:12:35Z",
-      "processed_at": "2026-05-28T08:00:25.692537+00:00"
+      "processed_at": "2026-05-28T12:27:16.235091+00:00"
+    },
+    {
+      "title": "Google Health Premium joins AI Pro as weekly email redesigned - 9to5Google",
+      "source": {
+        "name": "9to5google.com"
+      },
+      "description": "Besides the new mobile app fully rolling out today, Google Health is joining the Google AI Pro subsc...",
+      "url": "http://9to5google.com/2026/05/26/google-health-premium/",
+      "publishedAt": "2026-05-27T01:04:00Z",
+      "processed_at": "2026-05-28T12:27:16.235091+00:00"
+    },
+    {
+      "title": "Capcom Releases Resident Evil Requiem Demo On Switch 2 - Nintendo Life",
+      "source": {
+        "name": "Nintendo Life"
+      },
+      "description": "Experience the game's early stages...",
+      "url": "https://www.nintendolife.com/news/2026/05/capcom-releases-resident-evil-requiem-demo-on-switch-2",
+      "publishedAt": "2026-05-27T00:55:00Z",
+      "processed_at": "2026-05-28T12:27:16.235091+00:00"
     },
     {
       "title": "PS Store Days of Play Sale Live Now with 2,000+ PS5 Game Deals - Push Square",
@@ -20,17 +70,7 @@
       "description": "RE Requiem! Ghost of Yotei! Dispatch!...",
       "url": "https://www.pushsquare.com/news/2026/05/ps-store-days-of-play-sale-live-now-with-2000plus-ps5-game-deals",
       "publishedAt": "2026-05-27T00:11:05Z",
-      "processed_at": "2026-05-28T08:00:25.692537+00:00"
-    },
-    {
-      "title": "Apple working on iPhone anti-snatching feature that locks the device automatically - 9to5Mac",
-      "source": {
-        "name": "9to5Mac"
-      },
-      "description": "Apple is working on a new iPhone security feature that can automatically lock the device when it det...",
-      "url": "https://9to5mac.com/2026/05/26/apple-working-on-iphone-anti-snatching-feature-that-locks-the-device-automatically/",
-      "publishedAt": "2026-05-26T23:29:00Z",
-      "processed_at": "2026-05-28T08:00:25.692537+00:00"
+      "processed_at": "2026-05-28T12:27:16.235091+00:00"
     },
     {
       "title": "DuckDuckGo installs are up 30% as users reject being ‘force-fed’ Google’s AI Search - TechCrunch",
@@ -40,60 +80,10 @@
       "description": "Google overhauled Search at I/O 2026, replacing blue links with AI agents. The backlash has been swi...",
       "url": "https://techcrunch.com/2026/05/26/duckduckgo-installs-are-up-30-as-users-reject-being-force-fed-googles-ai-search/",
       "publishedAt": "2026-05-26T22:32:56Z",
-      "processed_at": "2026-05-28T08:00:25.692537+00:00"
-    },
-    {
-      "title": "PS5's Destruction AllStars Delisted and Disabled Without Notice Due to 'Ongoing Technical Issues' - Push Square",
-      "source": {
-        "name": "Push Square"
-      },
-      "description": "It's basically been down since 2024...",
-      "url": "https://www.pushsquare.com/news/2026/05/ps5s-destruction-allstars-delisted-and-disabled-without-notice-due-to-ongoing-technical-issues",
-      "publishedAt": "2026-05-26T22:30:00Z",
-      "processed_at": "2026-05-28T08:00:25.692537+00:00"
-    },
-    {
-      "title": "One Small Season 2 Change Will Completely Change Marathon - Kotaku",
-      "source": {
-        "name": "Kotaku"
-      },
-      "description": "Season 2 is turning the whole game upside down with one simple change...",
-      "url": "https://kotaku.com/marathon-goes-full-survival-horror-mode-in-new-nightfall-trailer-and-i-cant-believe-im-about-to-get-sucked-in-all-over-again-2000699604",
-      "publishedAt": "2026-05-26T22:26:25Z",
-      "processed_at": "2026-05-28T08:00:25.692537+00:00"
-    },
-    {
-      "title": "Windows 11's latest OS update is packing serious performance gains - Windows Central",
-      "source": {
-        "name": "Windows Central"
-      },
-      "description": "Windows 11 update KB5089573 is now generally available as Microsoft's non-security preview update fo...",
-      "url": "https://www.windowscentral.com/microsoft/windows-11/microsoft-rolls-out-windows-11-kb5089573-update-that-makes-your-pc-genuinely-faster-and-more-responsive",
-      "publishedAt": "2026-05-26T21:57:16Z",
-      "processed_at": "2026-05-28T08:00:25.692537+00:00"
-    },
-    {
-      "title": "We're starting to see some PC makers respond to Apple's MacBook Neo - Ars Technica",
-      "source": {
-        "name": "Ars Technica"
-      },
-      "description": "Sub-$600 laptops have existed for years, but consistently good ones remain rare....",
-      "url": "https://arstechnica.com/gadgets/2026/05/were-starting-to-see-some-pc-makers-respond-to-apples-macbook-neo/",
-      "publishedAt": "2026-05-26T20:47:31Z",
-      "processed_at": "2026-05-28T08:00:25.692537+00:00"
-    },
-    {
-      "title": "Steam's New Sims Competitor Is Killing It And Fully Of Funny Bugs - Kotaku",
-      "source": {
-        "name": "Kotaku"
-      },
-      "description": "Eerie access...",
-      "url": "https://kotaku.com/characters-in-steams-latest-sims-rival-are-eating-counters-losing-their-skin-and-giving-birth-on-the-street-2000699465",
-      "publishedAt": "2026-05-26T20:45:08Z",
-      "processed_at": "2026-05-28T08:00:25.692537+00:00"
+      "processed_at": "2026-05-28T12:27:16.235091+00:00"
     }
   ],
-  "lastUpdated": "2026-05-28T08:00:25.692635+00:00",
+  "lastUpdated": "2026-05-28T12:27:16.235158+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
