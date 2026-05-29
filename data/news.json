@@ -1,7 +1,27 @@
 {
   "status": "success",
-  "totalResults": 9,
+  "totalResults": 10,
   "articles": [
+    {
+      "title": "The Outer Worlds 'Free' PS5 Upgrade Has Immediately Turned into a Mess - Push Square",
+      "source": {
+        "name": "Push Square"
+      },
+      "description": "Mixed messaging from Obsidian...",
+      "url": "https://www.pushsquare.com/news/2026/05/the-outer-worlds-free-ps5-upgrade-has-immediately-turned-into-a-mess",
+      "publishedAt": "2026-05-28T10:15:00Z",
+      "processed_at": "2026-05-29T11:36:29.863293+00:00"
+    },
+    {
+      "title": "Vertu wants CEOs to run companies from an AI foldable starting at $6,880 - TechCrunch",
+      "source": {
+        "name": "TechCrunch"
+      },
+      "description": "Built on top of the open-source Hermes project, Vertu's new foldable combines AI-agent workflows, en...",
+      "url": "https://techcrunch.com/2026/05/28/vertu-wants-ceos-to-run-companies-from-an-ai-foldable-starting-at-6880/",
+      "publishedAt": "2026-05-28T07:00:00Z",
+      "processed_at": "2026-05-29T11:36:29.863293+00:00"
+    },
     {
       "title": "The golden age of handheld gaming is already over - The Verge",
       "source": {
@@ -10,7 +30,27 @@
       "description": "With Valve raising the starting price of the Steam Deck gaming handheld to $789, handhelds aren’t ju...",
       "url": "https://www.theverge.com/games/938451/steam-deck-price-hike-end-of-handheld-gaming-era",
       "publishedAt": "2026-05-28T06:30:00Z",
-      "processed_at": "2026-05-29T07:58:29.516674+00:00"
+      "processed_at": "2026-05-29T11:36:29.863293+00:00"
+    },
+    {
+      "title": "Anker announces a full Pokémon-Themed tech collection for 2026 - Gizmochina",
+      "source": {
+        "name": "gizmochina"
+      },
+      "description": "Anker Japan launches a Pokémon 30th anniversary tech collection featuring a 70W charger, travel adap...",
+      "url": "https://www.gizmochina.com/2026/05/28/anker-pokemon-30th-anniversary-collection-2026-charger-adpater-earphone-pouch/",
+      "publishedAt": "2026-05-28T06:28:14Z",
+      "processed_at": "2026-05-29T11:36:29.863293+00:00"
+    },
+    {
+      "title": "Square Enix Has \"No Plans\" To Sell A Switch 2 Upgrade For Dragon Quest XI S - Nintendo Life",
+      "source": {
+        "name": "Nintendo Life"
+      },
+      "description": "According to the official Switch listing...",
+      "url": "https://www.nintendolife.com/news/2026/05/square-enix-has-no-plans-to-sell-a-switch-2-upgrade-for-dragon-quest-xi-s",
+      "publishedAt": "2026-05-28T02:55:00Z",
+      "processed_at": "2026-05-29T11:36:29.863293+00:00"
     },
     {
       "title": "All 109 \"Paradox Drive\" Cards Revealed for \"Pocket!\" - PokeBeach",
@@ -20,7 +60,7 @@
       "description": "Paradox Drive has just launched in Pokemon TCG Pocket as its B3a set! As the set name implies, it fe...",
       "url": "https://www.pokebeach.com/2026/05/all-109-paradox-drive-cards-revealed-for-pocket",
       "publishedAt": "2026-05-28T01:14:15Z",
-      "processed_at": "2026-05-29T07:58:29.516674+00:00"
+      "processed_at": "2026-05-29T11:36:29.863293+00:00"
     },
     {
       "title": "Nintendo Expands Switch Online's N64 Library With Another Game Next Week - Nintendo Life",
@@ -30,7 +70,7 @@
       "description": "DK is back!...",
       "url": "https://www.nintendolife.com/news/2026/05/nintendo-expands-switch-onlines-n64-library-with-another-game-next-week",
       "publishedAt": "2026-05-28T01:05:00Z",
-      "processed_at": "2026-05-29T07:58:29.516674+00:00"
+      "processed_at": "2026-05-29T11:36:29.863293+00:00"
     },
     {
       "title": "Why Google’s AI can’t spell Google (or anything else) - TechCrunch",
@@ -40,60 +80,30 @@
       "description": "Google is embarrassing itself, again....",
       "url": "https://techcrunch.com/2026/05/27/why-googles-ai-cant-spell-google-or-anything-else/",
       "publishedAt": "2026-05-28T00:17:41Z",
-      "processed_at": "2026-05-29T07:58:29.516674+00:00"
+      "processed_at": "2026-05-29T11:36:29.863293+00:00"
     },
     {
-      "title": "Mina the Hollower is the best old-school action adventure I’ve played in a while - Ars Technica",
+      "title": "31 hours with the spit-shined Mina the Hollower (and 34 with the four games that came before it) - Game File | Stephen Totilo",
       "source": {
-        "name": "Ars Technica"
+        "name": "Gamefile.news"
       },
-      "description": "Smooth movement, compelling combat, and tons of secrets make for an innovative throwback....",
-      "url": "https://arstechnica.com/gaming/2026/05/mina-the-hollower-is-the-best-old-school-action-adventure-ive-played-in-a-while/",
-      "publishedAt": "2026-05-27T20:22:04Z",
-      "processed_at": "2026-05-29T07:58:29.516674+00:00"
+      "description": "A review of a stunning new Super Nintendo-style epic made by a studio that keeps getting better...",
+      "url": "https://www.gamefile.news/p/mina-the-hollower-review-plus-shovel-knight",
+      "publishedAt": "2026-05-27T23:55:58Z",
+      "processed_at": "2026-05-29T11:36:29.863293+00:00"
     },
     {
-      "title": "Mechanism of age-related accumulation of mtDNA mutations in human blood - Nature",
+      "title": "5 Cool Tech Products You Can Find On Amazon Outlet In May 2026 - SlashGear",
       "source": {
-        "name": "Nature.com"
+        "name": "SlashGear"
       },
-      "description": "Genome-wide analyses indicate that accumulation of mitochondrial DNA mutations, a hallmark of ageing...",
-      "url": "https://www.nature.com/articles/s41586-026-10569-6",
-      "publishedAt": "2026-05-27T19:19:01Z",
-      "processed_at": "2026-05-29T07:58:29.516674+00:00"
-    },
-    {
-      "title": "Dodge’s New Copperhead SRT Might Not Have a V8, and It’s Not Based on the Charger - The Drive",
-      "source": {
-        "name": "The Drive"
-      },
-      "description": "In an exclusive interview, the \"Father of the Hellcat\" reveals why the Copperhead’s proportions are ...",
-      "url": "https://www.thedrive.com/news/dodges-new-copperhead-srt-might-not-have-a-v8-and-its-not-based-on-the-charger",
-      "publishedAt": "2026-05-27T18:28:58Z",
-      "processed_at": "2026-05-29T07:58:29.516674+00:00"
-    },
-    {
-      "title": "Google is bringing Gemini to smart glasses, and they come with one big advantage - Chrome Unboxed",
-      "source": {
-        "name": "Chrome Unboxed"
-      },
-      "description": "During the Google I/O 2026 keynote, the company announced a major expansion of the Android XR platfo...",
-      "url": "https://chromeunboxed.com/google-is-bringing-gemini-to-smart-glasses-and-they-come-with-one-big-advantage/",
-      "publishedAt": "2026-05-27T16:34:19Z",
-      "processed_at": "2026-05-29T07:58:29.516674+00:00"
-    },
-    {
-      "title": "IO Interactive has a plan to keep you playing 007: First Light long after the credits roll - Eurogamer",
-      "source": {
-        "name": "Eurogamer.net"
-      },
-      "description": "James Bond game 007: First Light isn't naturally replayable like Hitman World of Assassination, but ...",
-      "url": "https://www.eurogamer.net/007-first-light-replayability-tacsim-dlc",
-      "publishedAt": "2026-05-27T16:05:07Z",
-      "processed_at": "2026-05-29T07:58:29.516674+00:00"
+      "description": "Amazon Outlet in May 2026 is home to a revolving door of cool tech products at a significant discoun...",
+      "url": "https://www.slashgear.com/2180660/cool-products-on-amazon-outlet-may-2026/",
+      "publishedAt": "2026-05-27T23:30:00Z",
+      "processed_at": "2026-05-29T11:36:29.863293+00:00"
     }
   ],
-  "lastUpdated": "2026-05-29T07:58:29.516735+00:00",
+  "lastUpdated": "2026-05-29T11:36:29.863365+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
