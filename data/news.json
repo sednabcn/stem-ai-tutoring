@@ -3,6 +3,16 @@
   "totalResults": 9,
   "articles": [
     {
+      "title": "The golden age of handheld gaming is already over - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "With Valve raising the starting price of the Steam Deck gaming handheld to $789, handhelds aren’t ju...",
+      "url": "https://www.theverge.com/games/938451/steam-deck-price-hike-end-of-handheld-gaming-era",
+      "publishedAt": "2026-05-28T06:30:00Z",
+      "processed_at": "2026-05-29T07:58:29.516674+00:00"
+    },
+    {
       "title": "All 109 \"Paradox Drive\" Cards Revealed for \"Pocket!\" - PokeBeach",
       "source": {
         "name": "Pokebeach.com"
@@ -10,7 +20,7 @@
       "description": "Paradox Drive has just launched in Pokemon TCG Pocket as its B3a set! As the set name implies, it fe...",
       "url": "https://www.pokebeach.com/2026/05/all-109-paradox-drive-cards-revealed-for-pocket",
       "publishedAt": "2026-05-28T01:14:15Z",
-      "processed_at": "2026-05-29T03:49:30.061228+00:00"
+      "processed_at": "2026-05-29T07:58:29.516674+00:00"
     },
     {
       "title": "Nintendo Expands Switch Online's N64 Library With Another Game Next Week - Nintendo Life",
@@ -20,7 +30,7 @@
       "description": "DK is back!...",
       "url": "https://www.nintendolife.com/news/2026/05/nintendo-expands-switch-onlines-n64-library-with-another-game-next-week",
       "publishedAt": "2026-05-28T01:05:00Z",
-      "processed_at": "2026-05-29T03:49:30.061228+00:00"
+      "processed_at": "2026-05-29T07:58:29.516674+00:00"
     },
     {
       "title": "Why Google’s AI can’t spell Google (or anything else) - TechCrunch",
@@ -30,27 +40,7 @@
       "description": "Google is embarrassing itself, again....",
       "url": "https://techcrunch.com/2026/05/27/why-googles-ai-cant-spell-google-or-anything-else/",
       "publishedAt": "2026-05-28T00:17:41Z",
-      "processed_at": "2026-05-29T03:49:30.061228+00:00"
-    },
-    {
-      "title": "Experimental randomness amplification - Nature",
-      "source": {
-        "name": "Nature.com"
-      },
-      "description": "An experimental realization of device-independent randomness amplification is demonstrated using sup...",
-      "url": "https://www.nature.com/articles/s41586-026-10521-8",
-      "publishedAt": "2026-05-27T21:48:41Z",
-      "processed_at": "2026-05-29T03:49:30.061228+00:00"
-    },
-    {
-      "title": "Apple Developing iPhone Anti-Snatching Feature That Locks Stolen Phones Instantly - MacRumors",
-      "source": {
-        "name": "MacRumors"
-      },
-      "description": "Apple is developing a new feature that will lock your iPhone if it's snatched from your hand by a th...",
-      "url": "https://www.macrumors.com/2026/05/27/apple-anti-theft-iphone-feature/",
-      "publishedAt": "2026-05-27T21:00:46Z",
-      "processed_at": "2026-05-29T03:49:30.061228+00:00"
+      "processed_at": "2026-05-29T07:58:29.516674+00:00"
     },
     {
       "title": "Mina the Hollower is the best old-school action adventure I’ve played in a while - Ars Technica",
@@ -60,7 +50,37 @@
       "description": "Smooth movement, compelling combat, and tons of secrets make for an innovative throwback....",
       "url": "https://arstechnica.com/gaming/2026/05/mina-the-hollower-is-the-best-old-school-action-adventure-ive-played-in-a-while/",
       "publishedAt": "2026-05-27T20:22:04Z",
-      "processed_at": "2026-05-29T03:49:30.061228+00:00"
+      "processed_at": "2026-05-29T07:58:29.516674+00:00"
+    },
+    {
+      "title": "Mechanism of age-related accumulation of mtDNA mutations in human blood - Nature",
+      "source": {
+        "name": "Nature.com"
+      },
+      "description": "Genome-wide analyses indicate that accumulation of mitochondrial DNA mutations, a hallmark of ageing...",
+      "url": "https://www.nature.com/articles/s41586-026-10569-6",
+      "publishedAt": "2026-05-27T19:19:01Z",
+      "processed_at": "2026-05-29T07:58:29.516674+00:00"
+    },
+    {
+      "title": "Dodge’s New Copperhead SRT Might Not Have a V8, and It’s Not Based on the Charger - The Drive",
+      "source": {
+        "name": "The Drive"
+      },
+      "description": "In an exclusive interview, the \"Father of the Hellcat\" reveals why the Copperhead’s proportions are ...",
+      "url": "https://www.thedrive.com/news/dodges-new-copperhead-srt-might-not-have-a-v8-and-its-not-based-on-the-charger",
+      "publishedAt": "2026-05-27T18:28:58Z",
+      "processed_at": "2026-05-29T07:58:29.516674+00:00"
+    },
+    {
+      "title": "Google is bringing Gemini to smart glasses, and they come with one big advantage - Chrome Unboxed",
+      "source": {
+        "name": "Chrome Unboxed"
+      },
+      "description": "During the Google I/O 2026 keynote, the company announced a major expansion of the Android XR platfo...",
+      "url": "https://chromeunboxed.com/google-is-bringing-gemini-to-smart-glasses-and-they-come-with-one-big-advantage/",
+      "publishedAt": "2026-05-27T16:34:19Z",
+      "processed_at": "2026-05-29T07:58:29.516674+00:00"
     },
     {
       "title": "IO Interactive has a plan to keep you playing 007: First Light long after the credits roll - Eurogamer",
@@ -70,30 +90,10 @@
       "description": "James Bond game 007: First Light isn't naturally replayable like Hitman World of Assassination, but ...",
       "url": "https://www.eurogamer.net/007-first-light-replayability-tacsim-dlc",
       "publishedAt": "2026-05-27T16:05:07Z",
-      "processed_at": "2026-05-29T03:49:30.061228+00:00"
-    },
-    {
-      "title": "Hands on: Sony Bravia 7 II review - What Hi-Fi?",
-      "source": {
-        "name": "What Hi-Fi? US"
-      },
-      "description": "How does Sony’s step-down ‘True RGB’ technology perform?...",
-      "url": "https://www.whathifi.com/tv-home-cinema/televisions/sony-bravia-7-ii",
-      "publishedAt": "2026-05-27T16:00:00Z",
-      "processed_at": "2026-05-29T03:49:30.061228+00:00"
-    },
-    {
-      "title": "iOS 26.5 gave Messages app encrypted RCS, here’s how to check it’s working - 9to5Mac",
-      "source": {
-        "name": "9to5Mac"
-      },
-      "description": "Here’s how to check if end-to-end encrypted RCS messaging is enabled on your iPhone in iOS 26.5 and ...",
-      "url": "https://9to5mac.com/2026/05/27/ios-26-5-gave-messages-app-encrypted-rcs-heres-how-to-check-its-working/",
-      "publishedAt": "2026-05-27T15:18:00Z",
-      "processed_at": "2026-05-29T03:49:30.061228+00:00"
+      "processed_at": "2026-05-29T07:58:29.516674+00:00"
     }
   ],
-  "lastUpdated": "2026-05-29T03:49:30.061303+00:00",
+  "lastUpdated": "2026-05-29T07:58:29.516735+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
