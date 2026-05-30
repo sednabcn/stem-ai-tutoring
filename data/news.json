@@ -1,16 +1,66 @@
 {
   "status": "success",
-  "totalResults": 9,
+  "totalResults": 10,
   "articles": [
     {
-      "title": "007 First Light truly 'earns the number', as critical acclaim leads to impressive sales milestone in just 24 hours - Eurogamer",
+      "title": "‘Destiny 2’ Reveals Its Last Update Will Be Its Best In Years - Forbes",
       "source": {
         "name": "Google News"
       },
       "description": "",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOVThhOGc1eGZMM0diaWdFb2c5cTA5MXZaS0lqSG1QdzlJeERUWDVUVXdETEYwUnZ0aG4tRWhUQ2VqeXE1ZWhXXzFkVjZHRUZadEJQZ2FlTWNrU2JROE9qVkw4eUxCNGEwNUk1THk2VGVHcjk2ak1SMkNjRzhtWEFBMHZWZw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPcklVOF9ubVg5cHp1LVNvMTg2MjZyejdELXBjNENSeXZDRnIyXzZjNC14M1RyWm9pWU1Sa2MtVEQ1RDBYV3AzODhyWUh2cmtaN3dSY3VmcFo0N1BFd0R4TGxUamxOT2ZyQk9wTXNjT3hVMnF1a0hMMEtDSTBNYlkycE1MZzV4d3RHNk1sOVMxNVhkUGlKZkluT1VRZzVLck90aWFIVzRrRWlveE9FRV9B?oc=5",
+      "publishedAt": "2026-05-29T13:15:51Z",
+      "processed_at": "2026-05-30T13:41:56.714893+00:00"
+    },
+    {
+      "title": "Acer’s answer to the MacBook Neo is a $699 laptop with Intel chips and 8GB of RAM - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "Acer is announcing a variety of laptops for Computex, including a Swift Air 14, Aspire 18 AI, Nitro ...",
+      "url": "https://www.theverge.com/tech/939596/acer-swift-air-14-aspire-18-nitro-16-computex-price-specs",
+      "publishedAt": "2026-05-29T13:00:00Z",
+      "processed_at": "2026-05-30T13:41:56.714893+00:00"
+    },
+    {
+      "title": "This is MSI’s new Claw 8 EX AI Plus gaming handheld - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "﻿And it’s using Intel’s custom Arc G3 Extreme handheld gaming chip....",
+      "url": "https://www.theverge.com/entertainment/939758/msi-claw-8-ex-ai-plus-gaming-handheld-reveal-computex-2026",
+      "publishedAt": "2026-05-29T11:11:39Z",
+      "processed_at": "2026-05-30T13:41:56.714893+00:00"
+    },
+    {
+      "title": "iPhone 18 Pro's Camera Upgrade Will Cost Apple 50% More - MacRumors",
+      "source": {
+        "name": "MacRumors"
+      },
+      "description": "The iPhone 18 Pro and iPhone 18 Pro Max's all-new variable aperture lens will cost Apple 50% more th...",
+      "url": "https://www.macrumors.com/2026/05/29/iphone-18-pros-camera-upgrade-will-cost-more/",
+      "publishedAt": "2026-05-29T10:44:01Z",
+      "processed_at": "2026-05-30T13:41:56.714893+00:00"
+    },
+    {
+      "title": "007 First Light truly 'earns the number', as critical acclaim leads to impressive sales milestone in just 24 hours - Eurogamer",
+      "source": {
+        "name": "Eurogamer.net"
+      },
+      "description": "In just one day, IO Interactive's Bond origin game 007 First Light has reached an impressive milesto...",
+      "url": "https://www.eurogamer.net/007-first-light-james-bond-sales-milestone-24-hours",
       "publishedAt": "2026-05-29T08:50:37Z",
-      "processed_at": "2026-05-30T11:21:36.202064+00:00"
+      "processed_at": "2026-05-30T13:41:56.714893+00:00"
+    },
+    {
+      "title": "Valve Steam Deck Sells Out in 24 Hours Despite Price Hike - TechPowerUp",
+      "source": {
+        "name": "Techpowerup.com"
+      },
+      "description": "The internet has recently been rife with complaints and discussions about the recent price increases...",
+      "url": "https://www.techpowerup.com/349469/valve-steam-deck-sells-out-in-24-hours-despite-price-hike",
+      "publishedAt": "2026-05-29T03:43:13Z",
+      "processed_at": "2026-05-30T13:41:56.714893+00:00"
     },
     {
       "title": "Ancient Killer Is Rapidly Gaining Resistance to Antibiotics, Study Warns - ScienceAlert",
@@ -20,80 +70,40 @@
       "description": "An ancient killer has plagued humans for millennia....",
       "url": "https://www.sciencealert.com/ancient-killer-is-rapidly-gaining-resistance-to-antibiotics-study-warns",
       "publishedAt": "2026-05-29T00:16:59Z",
-      "processed_at": "2026-05-30T11:21:36.202064+00:00"
+      "processed_at": "2026-05-30T13:41:56.714893+00:00"
     },
     {
-      "title": "LLMs believe false statements even after explicit warnings that they’re false - Ars Technica",
+      "title": "Rumor: Rayman Legends Retold coming to Nintendo Switch 2 - Nintendo Everything",
       "source": {
-        "name": "Ars Technica"
+        "name": "Nintendoeverything.com"
       },
-      "description": "Fine-tuning tests show \"bias ... toward confidently representing the claims as true.\"...",
-      "url": "https://arstechnica.com/ai/2026/05/llms-believe-false-statements-even-after-explicit-warnings-that-theyre-false/",
-      "publishedAt": "2026-05-28T21:29:43Z",
-      "processed_at": "2026-05-30T11:21:36.202064+00:00"
+      "description": "Rayman Legends Retold is in development for Nintendo Switch 2, according to a new report. If you’ve ...",
+      "url": "https://nintendoeverything.com/rumor-rayman-legends-retold-coming-to-nintendo-switch-2/",
+      "publishedAt": "2026-05-28T22:54:03Z",
+      "processed_at": "2026-05-30T13:41:56.714893+00:00"
     },
     {
-      "title": "The Chrome browser is getting a big safety upgrade — if you use Windows - Android Authority",
+      "title": "The Walmart Exclusive Icon Blue PlayStation 5 DualSense Controller Is on Sale During the Sony Days of Play Sale - IGN",
       "source": {
-        "name": "Android Authority"
+        "name": "IGN"
       },
-      "description": "Google is generally rolling out a Chrome safety feature called DBSC, making it harder for stolen coo...",
-      "url": "https://www.androidauthority.com/chrome-browser-dbsc-3672363/",
-      "publishedAt": "2026-05-28T20:47:28Z",
-      "processed_at": "2026-05-30T11:21:36.202064+00:00"
+      "description": "I'm blue....",
+      "url": "https://www.ign.com/articles/icon-blue-playstation-5-dualsense-controller-is-on-sale-for-the-first-time",
+      "publishedAt": "2026-05-28T22:45:00Z",
+      "processed_at": "2026-05-30T13:41:56.714893+00:00"
     },
     {
-      "title": "The FBI Just Issued an Urgent Warning for Anyone Using Microsoft Teams, Outlook, or OneDrive Over a New Phishing Scheme - inc.com",
+      "title": "GTA 6 Boss Says High Review Scores Reflect Rockstar’s “Commitment To Quality” - GameSpot",
       "source": {
-        "name": "Inc."
+        "name": "GameSpot"
       },
-      "description": "",
-      "url": "https://www.inc.com/amaya-nichole/fbi-just-issued-urgent-warning-anyone-using-microsoft-over-new-phishing-scheme/91351360",
-      "publishedAt": "2026-05-28T20:34:33Z",
-      "processed_at": "2026-05-30T11:21:36.202064+00:00"
-    },
-    {
-      "title": "'We Are Building A Stronger Xbox' - Asha Sharma Updates Employees On Progress In 2026 - Pure Xbox",
-      "source": {
-        "name": "Pure Xbox"
-      },
-      "description": "The Xbox CEO says hard choices are still ahead...",
-      "url": "https://www.purexbox.com/news/2026/05/we-are-building-a-stronger-xbox-asha-sharma-updates-employees-on-progress-in-2026",
-      "publishedAt": "2026-05-28T20:26:00Z",
-      "processed_at": "2026-05-30T11:21:36.202064+00:00"
-    },
-    {
-      "title": "Disgruntled 0-day hunter 'humiliated' by Microsoft pledges 'bone shattering drop' as Redmond calls cops - The Register",
-      "source": {
-        "name": "Theregister.com"
-      },
-      "description": "Six 0-days, three under active exploitation, more to come on July 14?...",
-      "url": "https://www.theregister.com/security/2026/05/28/microsoft-0-day-feud-escalates-as-researcher-threatens-another-windows-exploit-dump/5248085",
-      "publishedAt": "2026-05-28T20:19:09Z",
-      "processed_at": "2026-05-30T11:21:36.202064+00:00"
-    },
-    {
-      "title": "Bloodborne Player Done Helping People After 11 Years Because Game Is Dead - Kotaku",
-      "source": {
-        "name": "Kotaku"
-      },
-      "description": "After thousands of hours and successful runs, he's done paying for PSN access to 'sit in a cave and ...",
-      "url": "https://kotaku.com/bloodborne-sicko-who-spent-11-years-helping-people-with-one-boss-is-retiring-because-nobody-is-playing-it-anymore-2000700265",
-      "publishedAt": "2026-05-28T20:12:48Z",
-      "processed_at": "2026-05-30T11:21:36.202064+00:00"
-    },
-    {
-      "title": "iPhone 18 Pro vs iPhone Ultra: Here are the biggest differences - 9to5Mac",
-      "source": {
-        "name": "9to5Mac"
-      },
-      "description": "Here are the three biggest feature differences between iPhone 18 Pro and iPhone Ultra—price aside—th...",
-      "url": "https://9to5mac.com/2026/05/28/iphone-18-pro-vs-iphone-ultra-three-features-to-win-your-upgrade/",
-      "publishedAt": "2026-05-28T19:59:00Z",
-      "processed_at": "2026-05-30T11:21:36.202064+00:00"
+      "description": "Grand Theft Auto 6 is still on-track to release in just under six months. And while it’s too soon to...",
+      "url": "https://www.gamespot.com/articles/gta-6-boss-says-high-review-scores-reflect-rockstars-commitment-to-quality/",
+      "publishedAt": "2026-05-28T22:01:59Z",
+      "processed_at": "2026-05-30T13:41:56.714893+00:00"
     }
   ],
-  "lastUpdated": "2026-05-30T11:21:36.202140+00:00",
+  "lastUpdated": "2026-05-30T13:41:56.714959+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
