@@ -3,6 +3,26 @@
   "totalResults": 9,
   "articles": [
     {
+      "title": "007 First Light truly 'earns the number', as critical acclaim leads to impressive sales milestone in just 24 hours - Eurogamer",
+      "source": {
+        "name": "Google News"
+      },
+      "description": "",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOVThhOGc1eGZMM0diaWdFb2c5cTA5MXZaS0lqSG1QdzlJeERUWDVUVXdETEYwUnZ0aG4tRWhUQ2VqeXE1ZWhXXzFkVjZHRUZadEJQZ2FlTWNrU2JROE9qVkw4eUxCNGEwNUk1THk2VGVHcjk2ak1SMkNjRzhtWEFBMHZWZw?oc=5",
+      "publishedAt": "2026-05-29T08:50:37Z",
+      "processed_at": "2026-05-30T11:21:36.202064+00:00"
+    },
+    {
+      "title": "Ancient Killer Is Rapidly Gaining Resistance to Antibiotics, Study Warns - ScienceAlert",
+      "source": {
+        "name": "ScienceAlert"
+      },
+      "description": "An ancient killer has plagued humans for millennia....",
+      "url": "https://www.sciencealert.com/ancient-killer-is-rapidly-gaining-resistance-to-antibiotics-study-warns",
+      "publishedAt": "2026-05-29T00:16:59Z",
+      "processed_at": "2026-05-30T11:21:36.202064+00:00"
+    },
+    {
       "title": "LLMs believe false statements even after explicit warnings that they’re false - Ars Technica",
       "source": {
         "name": "Ars Technica"
@@ -10,7 +30,17 @@
       "description": "Fine-tuning tests show \"bias ... toward confidently representing the claims as true.\"...",
       "url": "https://arstechnica.com/ai/2026/05/llms-believe-false-statements-even-after-explicit-warnings-that-theyre-false/",
       "publishedAt": "2026-05-28T21:29:43Z",
-      "processed_at": "2026-05-30T09:19:09.562900+00:00"
+      "processed_at": "2026-05-30T11:21:36.202064+00:00"
+    },
+    {
+      "title": "The Chrome browser is getting a big safety upgrade — if you use Windows - Android Authority",
+      "source": {
+        "name": "Android Authority"
+      },
+      "description": "Google is generally rolling out a Chrome safety feature called DBSC, making it harder for stolen coo...",
+      "url": "https://www.androidauthority.com/chrome-browser-dbsc-3672363/",
+      "publishedAt": "2026-05-28T20:47:28Z",
+      "processed_at": "2026-05-30T11:21:36.202064+00:00"
     },
     {
       "title": "The FBI Just Issued an Urgent Warning for Anyone Using Microsoft Teams, Outlook, or OneDrive Over a New Phishing Scheme - inc.com",
@@ -20,7 +50,7 @@
       "description": "",
       "url": "https://www.inc.com/amaya-nichole/fbi-just-issued-urgent-warning-anyone-using-microsoft-over-new-phishing-scheme/91351360",
       "publishedAt": "2026-05-28T20:34:33Z",
-      "processed_at": "2026-05-30T09:19:09.562900+00:00"
+      "processed_at": "2026-05-30T11:21:36.202064+00:00"
     },
     {
       "title": "'We Are Building A Stronger Xbox' - Asha Sharma Updates Employees On Progress In 2026 - Pure Xbox",
@@ -30,7 +60,7 @@
       "description": "The Xbox CEO says hard choices are still ahead...",
       "url": "https://www.purexbox.com/news/2026/05/we-are-building-a-stronger-xbox-asha-sharma-updates-employees-on-progress-in-2026",
       "publishedAt": "2026-05-28T20:26:00Z",
-      "processed_at": "2026-05-30T09:19:09.562900+00:00"
+      "processed_at": "2026-05-30T11:21:36.202064+00:00"
     },
     {
       "title": "Disgruntled 0-day hunter 'humiliated' by Microsoft pledges 'bone shattering drop' as Redmond calls cops - The Register",
@@ -40,17 +70,17 @@
       "description": "Six 0-days, three under active exploitation, more to come on July 14?...",
       "url": "https://www.theregister.com/security/2026/05/28/microsoft-0-day-feud-escalates-as-researcher-threatens-another-windows-exploit-dump/5248085",
       "publishedAt": "2026-05-28T20:19:09Z",
-      "processed_at": "2026-05-30T09:19:09.562900+00:00"
+      "processed_at": "2026-05-30T11:21:36.202064+00:00"
     },
     {
-      "title": "Nintendo’s newest WarioWare is a weirdo smartphone app - The Verge",
+      "title": "Bloodborne Player Done Helping People After 11 Years Because Game Is Dead - Kotaku",
       "source": {
-        "name": "The Verge"
+        "name": "Kotaku"
       },
-      "description": "Nintendo released the mobile game Pictonico on the iPhone and Android, and it’s a strange cross betw...",
-      "url": "https://www.theverge.com/games/939283/pictonico-nintendo-mobile-game",
-      "publishedAt": "2026-05-28T20:16:16Z",
-      "processed_at": "2026-05-30T09:19:09.562900+00:00"
+      "description": "After thousands of hours and successful runs, he's done paying for PSN access to 'sit in a cave and ...",
+      "url": "https://kotaku.com/bloodborne-sicko-who-spent-11-years-helping-people-with-one-boss-is-retiring-because-nobody-is-playing-it-anymore-2000700265",
+      "publishedAt": "2026-05-28T20:12:48Z",
+      "processed_at": "2026-05-30T11:21:36.202064+00:00"
     },
     {
       "title": "iPhone 18 Pro vs iPhone Ultra: Here are the biggest differences - 9to5Mac",
@@ -60,40 +90,10 @@
       "description": "Here are the three biggest feature differences between iPhone 18 Pro and iPhone Ultra—price aside—th...",
       "url": "https://9to5mac.com/2026/05/28/iphone-18-pro-vs-iphone-ultra-three-features-to-win-your-upgrade/",
       "publishedAt": "2026-05-28T19:59:00Z",
-      "processed_at": "2026-05-30T09:19:09.562900+00:00"
-    },
-    {
-      "title": "The Witcher 3 expansion Songs of the Past was once intended to launch this year, CD Projekt Red reveals, so the rumours were correct - Eurogamer",
-      "source": {
-        "name": "Eurogamer.net"
-      },
-      "description": "CD Projekt Red reveals new info about The Witcher 3 expansion Songs of the Past, including its origi...",
-      "url": "https://www.eurogamer.net/witcher-3-expansion-songs-of-the-past-release-date-details",
-      "publishedAt": "2026-05-28T18:17:02Z",
-      "processed_at": "2026-05-30T09:19:09.562900+00:00"
-    },
-    {
-      "title": "Apple Seeds First Public Betas of iOS 26.6, macOS Tahoe 26.6 and More - MacRumors",
-      "source": {
-        "name": "MacRumors"
-      },
-      "description": "Apple today provided public beta testers with the first betas of iOS 26.6, iPadOS 26.6, macOS Tahoe ...",
-      "url": "https://www.macrumors.com/2026/05/28/apple-seeds-ios-26-6-public-beta-1/",
-      "publishedAt": "2026-05-28T17:46:02Z",
-      "processed_at": "2026-05-30T09:19:09.562900+00:00"
-    },
-    {
-      "title": "Critical Gogs RCE Vulnerability Lets Any Authenticated User Execute Arbitrary Code - The Hacker News",
-      "source": {
-        "name": "Internet"
-      },
-      "description": "Gogs 9.4 CVSS flaw exploits git rebase injection on 1,141 exposed instances, enabling remote code ex...",
-      "url": "https://thehackernews.com/2026/05/critical-gogs-rce-vulnerability-lets.html",
-      "publishedAt": "2026-05-28T17:24:00Z",
-      "processed_at": "2026-05-30T09:19:09.562900+00:00"
+      "processed_at": "2026-05-30T11:21:36.202064+00:00"
     }
   ],
-  "lastUpdated": "2026-05-30T09:19:09.562961+00:00",
+  "lastUpdated": "2026-05-30T11:21:36.202140+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
