@@ -1,7 +1,37 @@
 {
   "status": "success",
-  "totalResults": 9,
+  "totalResults": 10,
   "articles": [
+    {
+      "title": "Gears of War E-Day, Fable, and Project Helix: What to Expect From Xbox's Games Showcase 2026 - IGN",
+      "source": {
+        "name": "IGN"
+      },
+      "description": "Every game, reveal, and surprise that we could see at Xbox's Games Showcase on June 7....",
+      "url": "https://www.ign.com/articles/gears-of-war-e-day-fable-and-project-helix-what-to-expect-from-xboxs-games-showcase-2026",
+      "publishedAt": "2026-05-29T19:08:56Z",
+      "processed_at": "2026-05-30T22:09:01.835721+00:00"
+    },
+    {
+      "title": "Gemini Spark rolls out to Google AI Ultra in the US: How it works - 9to5Google",
+      "source": {
+        "name": "9to5google.com"
+      },
+      "description": "As previewed last week, Gemini Spark is now available in the US for Google AI Ultra subscribers. Spa...",
+      "url": "http://9to5google.com/2026/05/29/gemini-spark-ultra-us/",
+      "publishedAt": "2026-05-29T17:35:00Z",
+      "processed_at": "2026-05-30T22:09:01.835721+00:00"
+    },
+    {
+      "title": "Apple has five new products coming that could launch at WWDC - 9to5Mac",
+      "source": {
+        "name": "9to5Mac"
+      },
+      "description": "We’re currently WWDC to be software-only, but here are five upcoming Apple products with the best ch...",
+      "url": "https://9to5mac.com/2026/05/29/apple-has-five-new-products-coming-that-could-launch-at-wwdc/",
+      "publishedAt": "2026-05-29T17:19:00Z",
+      "processed_at": "2026-05-30T22:09:01.835721+00:00"
+    },
     {
       "title": "Microsoft under fire for threatening security researcher with criminal investigation - TechCrunch",
       "source": {
@@ -10,17 +40,37 @@
       "description": "A public spat between Microsoft and an independent security researcher reopens a long-running debate...",
       "url": "https://techcrunch.com/2026/05/29/microsoft-under-fire-for-threatening-security-researcher-with-criminal-investigation/",
       "publishedAt": "2026-05-29T17:03:39Z",
-      "processed_at": "2026-05-30T20:59:40.740340+00:00"
+      "processed_at": "2026-05-30T22:09:01.835721+00:00"
     },
     {
-      "title": "Xbox Delays Fable Into Next Year - Kotaku",
+      "title": "Why One of This Year’s Best Games, ‘Mina the Hollower,’ Is Only $20 - Bloomberg.com",
       "source": {
-        "name": "Kotaku"
+        "name": "Bloomberg"
       },
-      "description": "The move is allegedly being made in order to plan game launches 'in a way that works best for player...",
-      "url": "https://kotaku.com/xbox-delays-fable-into-next-year-2000700600",
-      "publishedAt": "2026-05-29T16:48:55Z",
-      "processed_at": "2026-05-30T20:59:40.740340+00:00"
+      "description": "The developers at Yacht Club say that charging $20 for their slick new platformer was a no-brainer...",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-05-29/why-mina-the-hollower-is-only-20",
+      "publishedAt": "2026-05-29T17:00:01Z",
+      "processed_at": "2026-05-30T22:09:01.835721+00:00"
+    },
+    {
+      "title": "Microsoft delays Fable (again) to avoid GTA VI - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "Microsoft has delayed its upcoming Fable reboot once again. Now, it’s set to launch in February 2027...",
+      "url": "https://www.theverge.com/games/939991/microsoft-fable-xbox-delay-gta-vi",
+      "publishedAt": "2026-05-29T16:51:08Z",
+      "processed_at": "2026-05-30T22:09:01.835721+00:00"
+    },
+    {
+      "title": "Stray Nintendo Switch 2 launch trailer - adventure game appears with upgraded with visuals, frame rate, 4K, and mouse controls - Nintendo Everything",
+      "source": {
+        "name": "Nintendoeverything.com"
+      },
+      "description": "Stray has now made its way to Nintendo Switch 2, and along with that, we have a new launch trailer. ...",
+      "url": "https://nintendoeverything.com/stray-nintendo-switch-2-launch-trailer-adventure-game-appears-with-upgraded-with-visuals-frame-rate-4k-and-mouse-controls/",
+      "publishedAt": "2026-05-29T16:33:44Z",
+      "processed_at": "2026-05-30T22:09:01.835721+00:00"
     },
     {
       "title": "Microsoft teases new Surface hardware and ‘a new era of PC’ - The Verge",
@@ -30,7 +80,17 @@
       "description": "The teasers point to Computex and Build announcements next week....",
       "url": "https://www.theverge.com/news/939960/microsoft-computex-teaser-surface-nvidia-windows-rumors",
       "publishedAt": "2026-05-29T16:21:22Z",
-      "processed_at": "2026-05-30T20:59:40.740340+00:00"
+      "processed_at": "2026-05-30T22:09:01.835721+00:00"
+    },
+    {
+      "title": "You can buy two of Anker’s Qi2 wireless chargers for under $25 - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "Two of of Anker’s Zolo Magnetic Wireless Chargers are down to $23.99 ($16 off). Ultimate Ears’ Wonde...",
+      "url": "https://www.theverge.com/gadgets/939445/anker-zolo-magnetic-wireless-charger-ue-wonderboom-4-speaker-deal-sale",
+      "publishedAt": "2026-05-29T14:46:58Z",
+      "processed_at": "2026-05-30T22:09:01.835721+00:00"
     },
     {
       "title": "‘007 First Light’ Is The Uncontroversial Hit Of 2026 With Huge 24 Hour Sales - Forbes",
@@ -40,60 +100,10 @@
       "description": "Sales data is in for 007 First Light, and it's done enormous numbers in 24 hours, including being a ...",
       "url": "https://www.forbes.com/sites/paultassi/2026/05/29/007-first-light-is-the-uncontroversial-hit-of-2026-with-huge-24-hour-sales/",
       "publishedAt": "2026-05-29T14:44:15Z",
-      "processed_at": "2026-05-30T20:59:40.740340+00:00"
-    },
-    {
-      "title": "Acer announces Predator and Nitro monitors with up to 1000Hz refresh rate - VideoCardz.com",
-      "source": {
-        "name": "Videocardz.com"
-      },
-      "description": "Acer reveals Predator XB273K 3D and Nitro XV273U F5 1000Hz monitor Acer has announced a new gaming m...",
-      "url": "https://videocardz.com/newz/acer-announces-predator-and-nitro-monitors-with-up-to-1000hz-refresh-rate",
-      "publishedAt": "2026-05-29T14:25:39Z",
-      "processed_at": "2026-05-30T20:59:40.740340+00:00"
-    },
-    {
-      "title": "Ghost of Yotei and Ghost of Tsushima Hit All-Time Lows for PlayStation's Days of Play Sale - IGN",
-      "source": {
-        "name": "IGN"
-      },
-      "description": "During PlayStation's Days of Play sale, Ghost of Yotei and Ghost of Tsushima have both seen big disc...",
-      "url": "https://www.ign.com/articles/ghost-of-yotei-and-ghost-of-tsushima-hit-all-time-lows-for-playstations-days-of-play-sale",
-      "publishedAt": "2026-05-29T14:10:56Z",
-      "processed_at": "2026-05-30T20:59:40.740340+00:00"
-    },
-    {
-      "title": "‘Destiny 2’ Reveals Its Last Update Will Be Its Best In Years - Forbes",
-      "source": {
-        "name": "Forbes"
-      },
-      "description": "Destiny 2 is putting out one final update before it ceases development, and its bittersweet, given h...",
-      "url": "https://www.forbes.com/sites/paultassi/2026/05/29/destiny-2-reveals-its-last-update-will-be-its-best-in-years/",
-      "publishedAt": "2026-05-29T13:15:51Z",
-      "processed_at": "2026-05-30T20:59:40.740340+00:00"
-    },
-    {
-      "title": "Epic Games CEO Dunks On Valve Raising Steam Deck Prices - Kotaku",
-      "source": {
-        "name": "Kotaku"
-      },
-      "description": "Then people turned around and dunked on Sweeney for laying off 1,000 employees...",
-      "url": "https://kotaku.com/epic-games-ceo-tim-sweeney-dunks-on-gabe-newell-raising-steam-deck-prices-while-flaunting-500-super-yacht-2000700489",
-      "publishedAt": "2026-05-29T13:08:34Z",
-      "processed_at": "2026-05-30T20:59:40.740340+00:00"
-    },
-    {
-      "title": "Acer’s answer to the MacBook Neo is a $699 laptop with Intel chips and 8GB of RAM - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "Acer is announcing a variety of laptops for Computex, including a Swift Air 14, Aspire 18 AI, Nitro ...",
-      "url": "https://www.theverge.com/tech/939596/acer-swift-air-14-aspire-18-nitro-16-computex-price-specs",
-      "publishedAt": "2026-05-29T13:00:00Z",
-      "processed_at": "2026-05-30T20:59:40.740340+00:00"
+      "processed_at": "2026-05-30T22:09:01.835721+00:00"
     }
   ],
-  "lastUpdated": "2026-05-30T20:59:40.740416+00:00",
+  "lastUpdated": "2026-05-30T22:09:01.835812+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
