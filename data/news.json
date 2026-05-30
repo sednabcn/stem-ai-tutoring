@@ -3,16 +3,6 @@
   "totalResults": 10,
   "articles": [
     {
-      "title": "LLMs believe false statements even after explicit warnings that they’re false - Ars Technica",
-      "source": {
-        "name": "Ars Technica"
-      },
-      "description": "Fine-tuning tests show \"bias ... toward confidently representing the claims as true.\"...",
-      "url": "https://arstechnica.com/ai/2026/05/llms-believe-false-statements-even-after-explicit-warnings-that-theyre-false/",
-      "publishedAt": "2026-05-28T21:29:43Z",
-      "processed_at": "2026-05-30T03:35:07.086141+00:00"
-    },
-    {
       "title": "Xbox fans brace for tough decisions as CEO Asha Sharma outlines challenges ahead - Windows Central",
       "source": {
         "name": "Windows Central"
@@ -20,37 +10,7 @@
       "description": "Xbox's new CEO revealed that Xbox is in a tough spot in a new memo shared by The Verge. What could t...",
       "url": "https://www.windowscentral.com/gaming/xbox/xbox-ceo-asha-sharma-tough-decisions-ahead-what-could-this-mean-for-xbox-helix-xbox-games-studios-or-xbox-exclusives",
       "publishedAt": "2026-05-28T21:09:11Z",
-      "processed_at": "2026-05-30T03:35:07.086141+00:00"
-    },
-    {
-      "title": "Nintendo’s newest WarioWare is a weirdo smartphone app - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "Nintendo released the mobile game Pictonico on the iPhone and Android, and it’s a strange cross betw...",
-      "url": "https://www.theverge.com/games/939283/pictonico-nintendo-mobile-game",
-      "publishedAt": "2026-05-28T20:16:16Z",
-      "processed_at": "2026-05-30T03:35:07.086141+00:00"
-    },
-    {
-      "title": "Bloodborne Player Done Helping People After 11 Years Because Game Is Dead - Kotaku",
-      "source": {
-        "name": "Kotaku"
-      },
-      "description": "After thousands of hours and successful runs, he's done paying for PSN access to 'sit in a cave and ...",
-      "url": "https://kotaku.com/bloodborne-sicko-who-spent-11-years-helping-people-with-one-boss-is-retiring-because-nobody-is-playing-it-anymore-2000700265",
-      "publishedAt": "2026-05-28T20:12:48Z",
-      "processed_at": "2026-05-30T03:35:07.086141+00:00"
-    },
-    {
-      "title": "Amazon’s last-gen Paperwhite is on sale for less than the entry-level Kindle - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "Woot is selling the 2021 Kindle Paperwhite for $99.99, its best price to date. The waterproof e-read...",
-      "url": "https://www.theverge.com/gadgets/939259/amazon-kindle-paperwhite-2021-woot-dad-tech-sale",
-      "publishedAt": "2026-05-28T20:10:09Z",
-      "processed_at": "2026-05-30T03:35:07.086141+00:00"
+      "processed_at": "2026-05-30T06:46:52.703892+00:00"
     },
     {
       "title": "iPhone 18 Pro vs iPhone Ultra: Here are the biggest differences - 9to5Mac",
@@ -60,7 +20,17 @@
       "description": "Here are the three biggest feature differences between iPhone 18 Pro and iPhone Ultra—price aside—th...",
       "url": "https://9to5mac.com/2026/05/28/iphone-18-pro-vs-iphone-ultra-three-features-to-win-your-upgrade/",
       "publishedAt": "2026-05-28T19:59:00Z",
-      "processed_at": "2026-05-30T03:35:07.086141+00:00"
+      "processed_at": "2026-05-30T06:46:52.703892+00:00"
+    },
+    {
+      "title": "The Witcher 3 expansion Songs of the Past was once intended to launch this year, CD Projekt Red reveals, so the rumours were correct - Eurogamer",
+      "source": {
+        "name": "Eurogamer.net"
+      },
+      "description": "CD Projekt Red reveals new info about The Witcher 3 expansion Songs of the Past, including its origi...",
+      "url": "https://www.eurogamer.net/witcher-3-expansion-songs-of-the-past-release-date-details",
+      "publishedAt": "2026-05-28T18:17:02Z",
+      "processed_at": "2026-05-30T06:46:52.703892+00:00"
     },
     {
       "title": "Apple releases first iOS 26.6 public beta, here’s what to expect - 9to5Mac",
@@ -70,7 +40,7 @@
       "description": "Apple has released the first iOS 26.6 public beta. The update follows the first developer beta relea...",
       "url": "https://9to5mac.com/2026/05/28/apple-releases-first-ios-26-6-public-beta-heres-what-to-expect/",
       "publishedAt": "2026-05-28T17:38:00Z",
-      "processed_at": "2026-05-30T03:35:07.086141+00:00"
+      "processed_at": "2026-05-30T06:46:52.703892+00:00"
     },
     {
       "title": "Intel makes a bid for handheld gaming PCs with new Arc G3 processors - Ars Technica",
@@ -80,7 +50,7 @@
       "description": "Intel's Arc B390 integrated GPU has offered impressive performance in laptops....",
       "url": "https://arstechnica.com/gadgets/2026/05/intel-makes-a-bid-for-handheld-gaming-pcs-with-new-arc-g3-processors/",
       "publishedAt": "2026-05-28T17:10:10Z",
-      "processed_at": "2026-05-30T03:35:07.086141+00:00"
+      "processed_at": "2026-05-30T06:46:52.703892+00:00"
     },
     {
       "title": "Help, An Immortal Snail Is Chasing My Mouse Cursor While I Work - Kotaku",
@@ -90,7 +60,7 @@
       "description": "I will not let it catch me—oh god wait no there it is...",
       "url": "https://kotaku.com/help-an-immortal-snail-is-chasing-my-mouse-cursor-2000690963",
       "publishedAt": "2026-05-28T17:00:43Z",
-      "processed_at": "2026-05-30T03:35:07.086141+00:00"
+      "processed_at": "2026-05-30T06:46:52.703892+00:00"
     },
     {
       "title": "The 3.1 PTR: What You Need to Know — Diablo IV - Blizzard News",
@@ -100,10 +70,40 @@
       "description": "Preview the return of Realmwalkers, reworked Mythic Uniques system, and more in the upcoming 3.1. PT...",
       "url": "https://news.blizzard.com/en-gb/article/24259077/the-3-1-ptr-what-you-need-to-know",
       "publishedAt": "2026-05-28T17:00:00Z",
-      "processed_at": "2026-05-30T03:35:07.086141+00:00"
+      "processed_at": "2026-05-30T06:46:52.703892+00:00"
+    },
+    {
+      "title": "Oura Ring 5 Unveiled With Smaller Design and Blood Pressure Tracking - MacRumors",
+      "source": {
+        "name": "MacRumors"
+      },
+      "description": "Oura today unveiled the Oura Ring 5, a significantly smaller smart ring with new health-monitoring c...",
+      "url": "https://www.macrumors.com/2026/05/28/oura-ring-5-unveiled-with-smaller-design/",
+      "publishedAt": "2026-05-28T16:22:04Z",
+      "processed_at": "2026-05-30T06:46:52.703892+00:00"
+    },
+    {
+      "title": "New Specialized Crux goes all in on aero gravel, with a 15-watt improvement, new geometry, and lighter builds - Cyclingnews",
+      "source": {
+        "name": "Cyclingnews.com"
+      },
+      "description": "Does this mean 'cross is dead?...",
+      "url": "https://www.cyclingnews.com/bikes/gravel/new-specialized-crux-goes-all-in-on-aero-gravel-with-a-15-watt-improvement-new-geometry-and-lighter-builds/",
+      "publishedAt": "2026-05-28T16:00:00Z",
+      "processed_at": "2026-05-30T06:46:52.703892+00:00"
+    },
+    {
+      "title": "Steam Deck sells out in North America within 24 hours of price hike - Ars Technica",
+      "source": {
+        "name": "Ars Technica"
+      },
+      "description": "Europe, Australia, and Asia can still get it while the getting's good....",
+      "url": "https://arstechnica.com/gaming/2026/05/despite-price-hike-steam-deck-is-already-sold-out-in-north-america/",
+      "publishedAt": "2026-05-28T15:43:41Z",
+      "processed_at": "2026-05-30T06:46:52.703892+00:00"
     }
   ],
-  "lastUpdated": "2026-05-30T03:35:07.086225+00:00",
+  "lastUpdated": "2026-05-30T06:46:52.703963+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
