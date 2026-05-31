@@ -3,24 +3,94 @@
   "totalResults": 10,
   "articles": [
     {
-      "title": "Nvidia, Microsoft, and Arm are all teasing Nvidia’s new N1X laptop processors - The Verge",
+      "title": "Sony Is Wrong To Take ‘Destiny 2’ Support Down To Absolute Zero - Forbes",
       "source": {
-        "name": "The Verge"
+        "name": "Forbes"
       },
-      "description": "All eyes area now on Nvidia’s keynote at Computex on Sunday night....",
-      "url": "https://www.theverge.com/news/940275/nvidia-n1x-laptop-processor-arm-microsoft-teaser",
-      "publishedAt": "2026-05-29T23:03:29Z",
-      "processed_at": "2026-05-31T12:16:07.535472+00:00"
+      "description": "When Sony says Destiny 2 is getting no more updates, they truly mean zero, and that is a big mistake...",
+      "url": "https://www.forbes.com/sites/paultassi/2026/05/30/sony-is-wrong-to-take-destiny-2-support-down-to-absolute-zero/",
+      "publishedAt": "2026-05-30T13:51:30Z",
+      "processed_at": "2026-05-31T14:46:30.586980+00:00"
     },
     {
-      "title": "DuckDuckGo's 'No AI' Search Traffic Climbs as Users Reject Google's AI Overhaul - MacRumors",
+      "title": "The ‘Return To Xbox’ Movement Is Starting To Lose The Plot - Forbes",
       "source": {
-        "name": "MacRumors"
+        "name": "Forbes"
       },
-      "description": "Privacy-focused search engine DuckDuckGo has seen a surge in demand for its \"No AI\" search option in...",
-      "url": "https://www.macrumors.com/2026/05/29/duckduckgo-no-ai-search/",
-      "publishedAt": "2026-05-29T22:55:24Z",
-      "processed_at": "2026-05-31T12:16:07.535472+00:00"
+      "description": "Microsoft is trying to recapture Xbox magic, but doing so by getting lost in minor complaints from f...",
+      "url": "https://www.forbes.com/sites/paultassi/2026/05/30/the-return-to-xbox-movement-is-starting-to-lose-the-plot/",
+      "publishedAt": "2026-05-30T12:35:07Z",
+      "processed_at": "2026-05-31T14:46:30.586980+00:00"
+    },
+    {
+      "title": "Scoop: First Windows PCs powered by Nvidia chips to debut next week - Axios",
+      "source": {
+        "name": "Axios"
+      },
+      "description": "The chips will appear in Microsoft Surface computers and PCs from other manufacturers....",
+      "url": "https://www.axios.com/2026/05/30/nvidia-microsoft-pcs-ai-surface-dell",
+      "publishedAt": "2026-05-30T12:04:49Z",
+      "processed_at": "2026-05-31T14:46:30.586980+00:00"
+    },
+    {
+      "title": "Mina The Hollower Is Now Metacritic's Highest-Rated Game Of 2026 - Nintendo Life",
+      "source": {
+        "name": "Nintendo Life"
+      },
+      "description": "Early sales data has also been shared...",
+      "url": "https://www.nintendolife.com/news/2026/05/mina-the-hollower-is-now-metacritics-highest-rated-game-of-2026",
+      "publishedAt": "2026-05-30T08:00:00Z",
+      "processed_at": "2026-05-31T14:46:30.586980+00:00"
+    },
+    {
+      "title": "Apple Music could soon get different subscription tiers - 9to5Mac",
+      "source": {
+        "name": "9to5Mac"
+      },
+      "description": "As spotted by Aaron Perris, Apple seems to be working on different subscription tiers to Apple Music...",
+      "url": "https://9to5mac.com/2026/05/29/apple-music-could-soon-get-different-subscription-tiers/",
+      "publishedAt": "2026-05-30T02:09:00Z",
+      "processed_at": "2026-05-31T14:46:30.586980+00:00"
+    },
+    {
+      "title": "Tested: Windows 11's new Start menu lets you fully customize it, and it works surprisingly well - Windows Latest",
+      "source": {
+        "name": "WindowsLatest"
+      },
+      "description": "Windows 11’s new Start menu finally adds smaller layouts, removable sections, and deeper customizati...",
+      "url": "https://www.windowslatest.com/2026/05/30/tested-windows-11s-new-start-menu-lets-you-fully-customize-it-and-it-works-surprisingly-well/",
+      "publishedAt": "2026-05-30T01:47:11Z",
+      "processed_at": "2026-05-31T14:46:30.586980+00:00"
+    },
+    {
+      "title": "Four New Console Features Begin Rolling Out Today For Xbox Insiders (May 29) - Pure Xbox",
+      "source": {
+        "name": "Pure Xbox"
+      },
+      "description": "\"We’re excited to hear what you think\"...",
+      "url": "https://www.purexbox.com/features/four-new-console-features-begin-rolling-out-today-for-xbox-insiders-may-29",
+      "publishedAt": "2026-05-30T00:04:59Z",
+      "processed_at": "2026-05-31T14:46:30.586980+00:00"
+    },
+    {
+      "title": "Apple Boosts Trade-In Prices for iPhones, iPads, Apple Watches and MacBooks - CNET",
+      "source": {
+        "name": "CNET"
+      },
+      "description": "Apple boosted its maximum trade-in values for selected iPhones, iPads, Apple Watches, MacBooks and d...",
+      "url": "https://www.cnet.com/tech/mobile/apple-boosts-trade-in-prices-iphones-ipads-apple-watches-and-macbooks/",
+      "publishedAt": "2026-05-29T23:53:00Z",
+      "processed_at": "2026-05-31T14:46:30.586980+00:00"
+    },
+    {
+      "title": "TPCi Has Banned Sales of Graded Slabs and Japanese Pokemon Center Products at Events - PokeBeach",
+      "source": {
+        "name": "Pokebeach.com"
+      },
+      "description": "We've learned that TPCi is no longer allowing partnered vendors to sell graded slabs at its events, ...",
+      "url": "https://www.pokebeach.com/2026/05/tpci-has-banned-sales-of-graded-slabs-and-pokemon-center-products-at-events",
+      "publishedAt": "2026-05-29T22:46:47Z",
+      "processed_at": "2026-05-31T14:46:30.586980+00:00"
     },
     {
       "title": "Kuo: Apple’s iPhone camera roadmap includes a costly upgrade - 9to5Mac",
@@ -30,80 +100,10 @@
       "description": "Analyst Ming-Chi Kuo is out with a new look at Apple’s upcoming iPhone camera plans, including an un...",
       "url": "https://9to5mac.com/2026/05/29/kuo-apples-iphone-camera-roadmap-includes-a-costly-upgrade/",
       "publishedAt": "2026-05-29T21:05:00Z",
-      "processed_at": "2026-05-31T12:16:07.535472+00:00"
-    },
-    {
-      "title": "Rayman Origins: Enhanced Edition leaked, first details and screenshots - Nintendo Everything",
-      "source": {
-        "name": "Nintendoeverything.com"
-      },
-      "description": "Rayman leaks are springing up all over, and now one has happened for the unannounced Rayman Origins:...",
-      "url": "https://nintendoeverything.com/rayman-origins-enhanced-edition-leaked-first-details-and-screenshots/",
-      "publishedAt": "2026-05-29T20:58:44Z",
-      "processed_at": "2026-05-31T12:16:07.535472+00:00"
-    },
-    {
-      "title": "TP-Link Says Screw It, We’re Doing Wi-Fi 8 Now - Gizmodo",
-      "source": {
-        "name": "Gizmodo.com"
-      },
-      "description": "The company plans to launch its first router with the new standard in October....",
-      "url": "https://gizmodo.com/tp-link-says-screw-it-were-doing-wi-fi-8-now-2000765221",
-      "publishedAt": "2026-05-29T20:25:49Z",
-      "processed_at": "2026-05-31T12:16:07.535472+00:00"
-    },
-    {
-      "title": "Xbox CCO Matt Booty confirms it will show off PS5 availability for games at the Xbox Games Showcase - Windows Central",
-      "source": {
-        "name": "Windows Central"
-      },
-      "description": "Microsoft's Xbox CCO Matt Booty has confirmed it will broadcast multiplatform availability of titles...",
-      "url": "https://www.windowscentral.com/gaming/xbox/xbox-games-chief-confirms-microsoft-will-show-when-its-titles-are-coming-to-ps5-and-other-platforms-at-the-xbox-games-showcase",
-      "publishedAt": "2026-05-29T20:13:35Z",
-      "processed_at": "2026-05-31T12:16:07.535472+00:00"
-    },
-    {
-      "title": "This Revolutionary Energy Gel Will Transform the Tour de France. It Contains the Last Thing You’d Expect. - Outside Magazine",
-      "source": {
-        "name": "Outside"
-      },
-      "description": "A project led by former Ineos scientist achieved what Pogačar and UAE Emirates couldn't and solved o...",
-      "url": "https://velo.outsideonline.com/road/road-training/lactate-energy-gel-tour-de-france/#article",
-      "publishedAt": "2026-05-29T20:07:11Z",
-      "processed_at": "2026-05-31T12:16:07.535472+00:00"
-    },
-    {
-      "title": "Apple Music outage confirmed in multiple countries - 9to5Mac",
-      "source": {
-        "name": "9to5Mac"
-      },
-      "description": "Apple’s System Status pages in several countries are showing an ongoing Apple Music disruption. Here...",
-      "url": "https://9to5mac.com/2026/05/29/apple-music-outage-confirmed-in-multiple-countries/",
-      "publishedAt": "2026-05-29T19:16:00Z",
-      "processed_at": "2026-05-31T12:16:07.535472+00:00"
-    },
-    {
-      "title": "Acer’s launching a Linux handheld for streaming your PC games - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "The new Acer Nitro Blaze Link handheld is designed for streaming games from your PC like a PlayStati...",
-      "url": "https://www.theverge.com/games/940091/acer-nitro-blaze-link-linux-handheld",
-      "publishedAt": "2026-05-29T19:01:48Z",
-      "processed_at": "2026-05-31T12:16:07.535472+00:00"
-    },
-    {
-      "title": "Diablo 4 Is Getting A Long-Awaited Solo Mode Next Season - GameSpot",
-      "source": {
-        "name": "GameSpot"
-      },
-      "description": "Diablo 4 players looking for even more of a challenge will be able to create Solo-Self-Found charact...",
-      "url": "https://www.gamespot.com/articles/diablo-4-is-getting-a-long-awaited-solo-mode-next-season/",
-      "publishedAt": "2026-05-29T18:40:11Z",
-      "processed_at": "2026-05-31T12:16:07.535472+00:00"
+      "processed_at": "2026-05-31T14:46:30.586980+00:00"
     }
   ],
-  "lastUpdated": "2026-05-31T12:16:07.535552+00:00",
+  "lastUpdated": "2026-05-31T14:46:30.587057+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
