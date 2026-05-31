@@ -3,6 +3,56 @@
   "totalResults": 9,
   "articles": [
     {
+      "title": "Minecraft LIVE from TwitchCon 2026: The Recap - Minecraft",
+      "source": {
+        "name": "Minecraft.net"
+      },
+      "description": "Find out what went down at Minecraft LIVE @ TwitchCon Europe, including sneak peeks from the Chaos C...",
+      "url": "https://www.minecraft.net/en-us/article/minecraft-live-twitchcon-rotterdam-recap",
+      "publishedAt": "2026-05-30T15:54:16Z",
+      "processed_at": "2026-05-31T20:10:21.439969+00:00"
+    },
+    {
+      "title": "I put Google’s 24/7 AI assistant Gemini Spark to work, and it’s actually pretty useful - TechCrunch",
+      "source": {
+        "name": "TechCrunch"
+      },
+      "description": "Gemini Spark helps automate everyday tasks, from inbox summaries to local event planning, but it’s u...",
+      "url": "https://techcrunch.com/2026/05/30/i-put-googles-24-7-ai-assistant-gemini-spark-to-work-and-its-actually-pretty-useful/",
+      "publishedAt": "2026-05-30T15:30:00Z",
+      "processed_at": "2026-05-31T20:10:21.439969+00:00"
+    },
+    {
+      "title": "Microsoft is threatening legal action for disclosing exploits - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "Microsoft is threatening legal action against a security researcher Nightmare Eclipse for publicly p...",
+      "url": "https://www.theverge.com/tech/940416/microsoft-nightmare-eclipse-zero-day-vulnerability",
+      "publishedAt": "2026-05-30T15:19:50Z",
+      "processed_at": "2026-05-31T20:10:21.439969+00:00"
+    },
+    {
+      "title": "The groupthink boom: what three top VCs really think about the AI frenzy - TechCrunch",
+      "source": {
+        "name": "TechCrunch"
+      },
+      "description": "\"If you're 22 years old in San Francisco and building something in AI, there may be a seed term shee...",
+      "url": "https://techcrunch.com/2026/05/30/the-groupthink-boom-what-three-top-vcs-really-think-about-the-ai-frenzy/",
+      "publishedAt": "2026-05-30T14:49:27Z",
+      "processed_at": "2026-05-31T20:10:21.439969+00:00"
+    },
+    {
+      "title": "The Arduboy FX-C is an excellent time killer you might forget you’re carrying - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "The Arduboy FX-C’s power and capabilities are limited but it comes with a big library of games that ...",
+      "url": "https://www.theverge.com/tech/939782/arduboy-fx-c-arduino-handheld-hands-on",
+      "publishedAt": "2026-05-30T14:00:00Z",
+      "processed_at": "2026-05-31T20:10:21.439969+00:00"
+    },
+    {
       "title": "Sony Is Wrong To Take ‘Destiny 2’ Support Down To Absolute Zero - Forbes",
       "source": {
         "name": "Forbes"
@@ -10,90 +60,40 @@
       "description": "When Sony says Destiny 2 is getting no more updates, they truly mean zero, and that is a big mistake...",
       "url": "https://www.forbes.com/sites/paultassi/2026/05/30/sony-is-wrong-to-take-destiny-2-support-down-to-absolute-zero/",
       "publishedAt": "2026-05-30T13:51:30Z",
-      "processed_at": "2026-05-31T18:03:26.890515+00:00"
+      "processed_at": "2026-05-31T20:10:21.439969+00:00"
     },
     {
-      "title": "'It Was A Miss, And I Own It' - Xbox CEO Hints At Removing PS5 & Switch Logos From Showcases - Pure Xbox",
+      "title": "Sony takes final bow as stand-alone TV maker with new Bravia sets - The Seattle Times",
       "source": {
-        "name": "Pure Xbox"
+        "name": "Bloomberg"
       },
-      "description": "She says they're going to adjust for the future...",
-      "url": "https://www.purexbox.com/news/2026/05/it-was-a-miss-and-i-own-it-xbox-ceo-hints-at-removing-ps5-and-switch-logos-from-showcases",
-      "publishedAt": "2026-05-30T10:12:00Z",
-      "processed_at": "2026-05-31T18:03:26.890515+00:00"
+      "description": "Sony unveiled two high-end TVs, which are likely to be its last premium sets before its home theater...",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-27/sony-takes-final-bow-as-standalone-tv-maker-with-new-bravia-9-ii-and-bravia-7-ii",
+      "publishedAt": "2026-05-30T13:01:02Z",
+      "processed_at": "2026-05-31T20:10:21.439969+00:00"
     },
     {
-      "title": "Mina The Hollower Is Now Metacritic's Highest-Rated Game Of 2026 - Nintendo Life",
+      "title": "MSI Claw 8 EX AI+ with Intel Arc G3 Extreme appears in early Computex hands-on - VideoCardz.com",
       "source": {
-        "name": "Nintendo Life"
+        "name": "Videocardz.com"
       },
-      "description": "Early sales data has also been shared...",
-      "url": "https://www.nintendolife.com/news/2026/05/mina-the-hollower-is-now-metacritics-highest-rated-game-of-2026",
-      "publishedAt": "2026-05-30T08:00:00Z",
-      "processed_at": "2026-05-31T18:03:26.890515+00:00"
+      "description": "MSI Claw 8 EX AI+ spotted at Computex booth with Arc G3 Extreme MSI’s next Claw handheld has appeare...",
+      "url": "https://videocardz.com/newz/msi-claw-8-ex-ai-with-intel-arc-g3-extreme-appears-in-early-computex-hands-on",
+      "publishedAt": "2026-05-30T12:50:52Z",
+      "processed_at": "2026-05-31T20:10:21.439969+00:00"
     },
     {
-      "title": "Apple Music could soon get different subscription tiers - 9to5Mac",
+      "title": "Asking Eric: Memory issues threaten relationship with hairstylist - MLive.com",
       "source": {
-        "name": "9to5Mac"
+        "name": "mlive.com"
       },
-      "description": "As spotted by Aaron Perris, Apple seems to be working on different subscription tiers to Apple Music...",
-      "url": "https://9to5mac.com/2026/05/29/apple-music-could-soon-get-different-subscription-tiers/",
-      "publishedAt": "2026-05-30T02:09:00Z",
-      "processed_at": "2026-05-31T18:03:26.890515+00:00"
-    },
-    {
-      "title": "Four New Console Features Begin Rolling Out Today For Xbox Insiders (May 29) - Pure Xbox",
-      "source": {
-        "name": "Pure Xbox"
-      },
-      "description": "\"We’re excited to hear what you think\"...",
-      "url": "https://www.purexbox.com/features/four-new-console-features-begin-rolling-out-today-for-xbox-insiders-may-29",
-      "publishedAt": "2026-05-30T00:04:59Z",
-      "processed_at": "2026-05-31T18:03:26.890515+00:00"
-    },
-    {
-      "title": "Apple Boosts Trade-In Prices for iPhones, iPads, Apple Watches and MacBooks - CNET",
-      "source": {
-        "name": "CNET"
-      },
-      "description": "Apple boosted its maximum trade-in values for selected iPhones, iPads, Apple Watches, MacBooks and d...",
-      "url": "https://www.cnet.com/tech/mobile/apple-boosts-trade-in-prices-iphones-ipads-apple-watches-and-macbooks/",
-      "publishedAt": "2026-05-29T23:53:00Z",
-      "processed_at": "2026-05-31T18:03:26.890515+00:00"
-    },
-    {
-      "title": "DuckDuckGo's 'No AI' Search Traffic Climbs as Users Reject Google's AI Overhaul - MacRumors",
-      "source": {
-        "name": "MacRumors"
-      },
-      "description": "Privacy-focused search engine DuckDuckGo has seen a surge in demand for its \"No AI\" search option in...",
-      "url": "https://www.macrumors.com/2026/05/29/duckduckgo-no-ai-search/",
-      "publishedAt": "2026-05-29T22:55:24Z",
-      "processed_at": "2026-05-31T18:03:26.890515+00:00"
-    },
-    {
-      "title": "TPCi Has Banned Sales of Graded Slabs and Japanese Pokemon Center Products at Events - PokeBeach",
-      "source": {
-        "name": "Pokebeach.com"
-      },
-      "description": "We've learned that TPCi is no longer allowing partnered vendors to sell graded slabs at its events, ...",
-      "url": "https://www.pokebeach.com/2026/05/tpci-has-banned-sales-of-graded-slabs-and-pokemon-center-products-at-events",
-      "publishedAt": "2026-05-29T22:46:47Z",
-      "processed_at": "2026-05-31T18:03:26.890515+00:00"
-    },
-    {
-      "title": "Kuo: Apple’s iPhone camera roadmap includes a costly upgrade - 9to5Mac",
-      "source": {
-        "name": "9to5Mac"
-      },
-      "description": "Analyst Ming-Chi Kuo is out with a new look at Apple’s upcoming iPhone camera plans, including an un...",
-      "url": "https://9to5mac.com/2026/05/29/kuo-apples-iphone-camera-roadmap-includes-a-costly-upgrade/",
-      "publishedAt": "2026-05-29T21:05:00Z",
-      "processed_at": "2026-05-31T18:03:26.890515+00:00"
+      "description": "",
+      "url": "https://www.mlive.com/advice/2026/05/asking-eric-memory-issues-threaten-relationship-with-hairstylist.html",
+      "publishedAt": "2026-05-30T11:00:00Z",
+      "processed_at": "2026-05-31T20:10:21.439969+00:00"
     }
   ],
-  "lastUpdated": "2026-05-31T18:03:26.890587+00:00",
+  "lastUpdated": "2026-05-31T20:10:21.440042+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
