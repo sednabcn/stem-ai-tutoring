@@ -1,7 +1,37 @@
 {
   "status": "success",
-  "totalResults": 9,
+  "totalResults": 10,
   "articles": [
+    {
+      "title": "Feger tops MARS field at Red Hill, wins $5,000 - Dirt on Dirt",
+      "source": {
+        "name": "Dirtondirt.com"
+      },
+      "description": "DirtonDirt.com covers Dirt Late Model racing like no other publication, magazine or website with mas...",
+      "url": "https://www.dirtondirt.com/racewire9723.html",
+      "publishedAt": "2026-05-31T04:19:57Z",
+      "processed_at": "2026-06-01T06:03:36.634447+00:00"
+    },
+    {
+      "title": "'007: First Light' is a huge sales hit - Mashable",
+      "source": {
+        "name": "Mashable"
+      },
+      "description": "It turns out people like James Bond....",
+      "url": "https://mashable.com/entertainment/007-first-light-james-bond-game-sales-numbers",
+      "publishedAt": "2026-05-31T02:21:09Z",
+      "processed_at": "2026-06-01T06:03:36.634447+00:00"
+    },
+    {
+      "title": "LEGO MINECRAFT CHICKEN MOUNTS - Minecraft",
+      "source": {
+        "name": "Minecraft.net"
+      },
+      "description": "Check out the Minecraft Marketplace. Get Minecoins and discover new games and exclusive DLC like new...",
+      "url": "https://www.minecraft.net/en-us/marketplace/pdp",
+      "publishedAt": "2026-05-31T01:14:23Z",
+      "processed_at": "2026-06-01T06:03:36.634447+00:00"
+    },
     {
       "title": "Nintendo releases new wave of backwards compatibility fixes for Switch games on Switch 2 - Nintendo Everything",
       "source": {
@@ -10,27 +40,57 @@
       "description": "Get the full list of backwards compatibility fixes for Nintendo Switch games on Switch 2 that were j...",
       "url": "https://nintendoeverything.com/nintendo-switch-2-switch-backwards-compatibility-fixes-may-2026/",
       "publishedAt": "2026-05-30T20:26:15Z",
-      "processed_at": "2026-06-01T00:07:36.374470+00:00"
+      "processed_at": "2026-06-01T06:03:36.634447+00:00"
     },
     {
-      "title": "‘What a joke’: Github Copilot’s new token-based billing spurs consternation among devs - TechCrunch",
-      "source": {
-        "name": "TechCrunch"
-      },
-      "description": "The golden age of Microsoft's Github Copilot appears to be at an end....",
-      "url": "https://techcrunch.com/2026/05/30/what-a-joke-github-copilots-new-token-based-billing-spurs-consternation-among-devs/",
-      "publishedAt": "2026-05-30T16:30:00Z",
-      "processed_at": "2026-06-01T00:07:36.374470+00:00"
-    },
-    {
-      "title": "Infinity Ward Vows Modern Warfare 4 Stays Grounded, Slams Door on Lady Gaga, Nicki Minaj and Omni-Man Skins - Wccftech",
+      "title": "Intel Arc G3, New Generation Xeon, And Nova Lake, Here’s What We Expect From Intel At Computex 2026 - Wccftech",
       "source": {
         "name": "Wccftech"
       },
-      "description": "",
-      "url": "https://wccftech.com/modern-warfare-4-infinity-ward-grounded-cosmetics/",
+      "description": "Intel will be going big on the stage, and we expect multiple product stacks to be introduced at the ...",
+      "url": "https://wccftech.com/intel-computex-2026-what-to-expect/",
+      "publishedAt": "2026-05-30T20:08:00Z",
+      "processed_at": "2026-06-01T06:03:36.634447+00:00"
+    },
+    {
+      "title": "Nintendo Switch Online Makes 2025 Game Free to Download for 48 Hours - comicbook.com",
+      "source": {
+        "name": "ComicBook.com"
+      },
+      "description": "Nintendo Switch Online has made a 2025 game free to download in its entirety for roughly the next 48...",
+      "url": "http://comicbook.com/gaming/news/nintendo-switch-online-free-game-2025-download/",
+      "publishedAt": "2026-05-30T18:33:12Z",
+      "processed_at": "2026-06-01T06:03:36.634447+00:00"
+    },
+    {
+      "title": "Modern Warfare 4 aims to fix what Call of Duty players hated years ago - Polygon.com",
+      "source": {
+        "name": "Polygon"
+      },
+      "description": "Infinity Ward says it addressed negative feedback toward movement in Modern Warfare 2 will make it f...",
+      "url": "https://www.polygon.com/call-of-duty-modern-warfare-4-movement/",
+      "publishedAt": "2026-05-30T17:07:36Z",
+      "processed_at": "2026-06-01T06:03:36.634447+00:00"
+    },
+    {
+      "title": "Another New Biome Is Coming To Minecraft This Fall - GameSpot",
+      "source": {
+        "name": "GameSpot"
+      },
+      "description": "During today’s Minecraft Live broadcast, Mojang dropped some small teasers about a new biome coming ...",
+      "url": "https://www.gamespot.com/articles/another-new-biome-is-coming-to-minecraft-this-fall/",
+      "publishedAt": "2026-05-30T16:01:58Z",
+      "processed_at": "2026-06-01T06:03:36.634447+00:00"
+    },
+    {
+      "title": "Poll: Are You Happy with Your PS Plus Essential Games for June 2026? - Push Square",
+      "source": {
+        "name": "Push Square"
+      },
+      "description": "Plus or minus?...",
+      "url": "https://www.pushsquare.com/features/poll-are-you-happy-with-your-ps-plus-essential-games-for-june-2026",
       "publishedAt": "2026-05-30T16:00:00Z",
-      "processed_at": "2026-06-01T00:07:36.374470+00:00"
+      "processed_at": "2026-06-01T06:03:36.634447+00:00"
     },
     {
       "title": "I put Google’s 24/7 AI assistant Gemini Spark to work, and it’s actually pretty useful - TechCrunch",
@@ -40,60 +100,10 @@
       "description": "Gemini Spark helps automate everyday tasks, from inbox summaries to local event planning, but it’s u...",
       "url": "https://techcrunch.com/2026/05/30/i-put-googles-24-7-ai-assistant-gemini-spark-to-work-and-its-actually-pretty-useful/",
       "publishedAt": "2026-05-30T15:30:00Z",
-      "processed_at": "2026-06-01T00:07:36.374470+00:00"
-    },
-    {
-      "title": "Sony Is Wrong To Take ‘Destiny 2’ Support Down To Absolute Zero - Forbes",
-      "source": {
-        "name": "Forbes"
-      },
-      "description": "When Sony says Destiny 2 is getting no more updates, they truly mean zero, and that is a big mistake...",
-      "url": "https://www.forbes.com/sites/paultassi/2026/05/30/sony-is-wrong-to-take-destiny-2-support-down-to-absolute-zero/",
-      "publishedAt": "2026-05-30T13:51:30Z",
-      "processed_at": "2026-06-01T00:07:36.374470+00:00"
-    },
-    {
-      "title": "Sony takes final bow as stand-alone TV maker with new Bravia sets - The Seattle Times",
-      "source": {
-        "name": "Bloomberg"
-      },
-      "description": "Sony unveiled two high-end TVs, which are likely to be its last premium sets before its home theater...",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-27/sony-takes-final-bow-as-standalone-tv-maker-with-new-bravia-9-ii-and-bravia-7-ii",
-      "publishedAt": "2026-05-30T13:01:02Z",
-      "processed_at": "2026-06-01T00:07:36.374470+00:00"
-    },
-    {
-      "title": "Jony Ive’s Apple Car is finally here. It’s a Ferrari. Nobody likes it - The San Francisco Standard",
-      "source": {
-        "name": "Sfstandard.com"
-      },
-      "description": "The Italian carmaker unveiled its first EV supercar to widespread, AI-slop-fueled scorn....",
-      "url": "https://sfstandard.com/2026/05/30/ferrari-luce-backlash-apple-design/",
-      "publishedAt": "2026-05-30T13:00:00Z",
-      "processed_at": "2026-06-01T00:07:36.374470+00:00"
-    },
-    {
-      "title": "Top Stories: iOS 27 Leaks, MacBook Ultra Rumors, and More - MacRumors",
-      "source": {
-        "name": "MacRumors"
-      },
-      "description": "WWDC 2026 is coming up very quickly now and we're continuing to learn more about what to expect in i...",
-      "url": "https://www.macrumors.com/2026/05/30/top-stories-ios-27-leaks/",
-      "publishedAt": "2026-05-30T13:00:00Z",
-      "processed_at": "2026-06-01T00:07:36.374470+00:00"
-    },
-    {
-      "title": "MSI Claw 8 EX AI+ with Intel Arc G3 Extreme appears in early Computex hands-on - VideoCardz.com",
-      "source": {
-        "name": "Google News"
-      },
-      "description": "",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWjFLSkpIQWJSWnpBWnZhZ0lveUlDSUgyOVdnU1M1VGNfWGZZMkpHd3pncHFFYW1rS2ZFMExSbi1BRXVLZjVId1pSYUd4YldMUE9lY1dtdDVUWDlQQ1NSbUwzRXV3ZTNNbXN5Uk1NSHNRaDJSdW5qN3gwVFNiV1FBXy1MZk5EYzFTdjA5eVNCQzJ4RjYwa0NmUFkwb0JuMVdaZW5ZYjY2bTY?oc=5",
-      "publishedAt": "2026-05-30T12:50:52Z",
-      "processed_at": "2026-06-01T00:07:36.374470+00:00"
+      "processed_at": "2026-06-01T06:03:36.634447+00:00"
     }
   ],
-  "lastUpdated": "2026-06-01T00:07:36.374576+00:00",
+  "lastUpdated": "2026-06-01T06:03:36.634547+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
