@@ -1,7 +1,27 @@
 {
   "status": "success",
-  "totalResults": 8,
+  "totalResults": 9,
   "articles": [
+    {
+      "title": "Arm, IBM and Hewlett Packard soar as Nvidia chip 'reinvention' extends software rally - CNBC",
+      "source": {
+        "name": "CNBC"
+      },
+      "description": "Shares in software compares surged ahead of Monday's opening bell....",
+      "url": "https://www.cnbc.com/2026/06/01/arm-ibm-and-hewlett-packard-nvidia-chip-extends-software-rally.html",
+      "publishedAt": "2026-06-01T09:58:23Z",
+      "processed_at": "2026-06-02T10:26:22.084729+00:00"
+    },
+    {
+      "title": "NVIDIA DLSS 4.5 Ray Reconstruction coming in August for RTX 20, 30, 40 and 50 series - VideoCardz.com",
+      "source": {
+        "name": "Videocardz.com"
+      },
+      "description": "NVIDIA confirms DLSS 4.5 Ray Reconstruction for all GeForce RTX GPUs NVIDIA has announced DLSS 4.5 R...",
+      "url": "https://videocardz.com/newz/nvidia-dlss-4-5-ray-reconstruction-coming-in-august-for-rtx-20-30-40-and-50-series",
+      "publishedAt": "2026-06-01T05:06:09Z",
+      "processed_at": "2026-06-02T10:26:22.084729+00:00"
+    },
     {
       "title": "Ragnarok Console Project announced for PS5, Xbox Series, Switch 2, and PC - Gematsu",
       "source": {
@@ -10,27 +30,57 @@
       "description": "Publishers Gravity and Daweon Game Media Lab, and developer Waycoder have announced Ragnarok Console...",
       "url": "https://www.gematsu.com/2026/05/ragnarok-console-project-announced-for-ps5-xbox-series-switch-2-and-pc",
       "publishedAt": "2026-06-01T03:25:04Z",
-      "processed_at": "2026-06-02T05:49:29.633460+00:00"
+      "processed_at": "2026-06-02T10:26:22.084729+00:00"
     },
     {
-      "title": "Google Home Speaker gets June release date from one retailer - 9to5Google",
+      "title": "Foldable iPhone Ultra design model leaks in hands-on video from Chinese factory - Notebookcheck",
       "source": {
-        "name": "9to5google.com"
+        "name": "Notebookcheck.net"
       },
-      "description": "Following the Pixel 10a and Fitbit Air, Google’s new Gemini-powered Home Speaker might launch on Jun...",
-      "url": "http://9to5google.com/2026/05/31/google-home-speaker-release-date-june/",
-      "publishedAt": "2026-06-01T02:44:00Z",
-      "processed_at": "2026-06-02T05:49:29.633460+00:00"
+      "description": "Here is an early look at the design of the upcoming foldable iPhone Ultra through a newly leaked vid...",
+      "url": "https://www.notebookcheck.net/Foldable-iPhone-Ultra-design-model-leaks-in-hands-on-video-from-Chinese-factory.1311684.0.html",
+      "publishedAt": "2026-06-01T01:14:00Z",
+      "processed_at": "2026-06-02T10:26:22.084729+00:00"
     },
     {
-      "title": "AMD Announces Socket AM5 Longevity till 2029 - TechPowerUp",
+      "title": "AMD’s Plan to Fix RAM Costs: Bring Back Bygone CPUs - Gizmodo",
       "source": {
-        "name": "Techpowerup.com"
+        "name": "Gizmodo.com"
       },
-      "description": "AMD in its Computex 2026 presentation, celebrated 10 years of the Socket AM4 platform that kickstart...",
-      "url": "https://www.techpowerup.com/349541/amd-announces-socket-am5-longevity-till-2029",
-      "publishedAt": "2026-06-01T00:22:12Z",
-      "processed_at": "2026-06-02T05:49:29.633460+00:00"
+      "description": "Decade-old AM4 motherboards now seem even more appealing if you can’t afford to upgrade....",
+      "url": "https://gizmodo.com/amds-plan-to-fix-ram-costs-bring-back-bygone-cpus-2000765337",
+      "publishedAt": "2026-06-01T00:00:58Z",
+      "processed_at": "2026-06-02T10:26:22.084729+00:00"
+    },
+    {
+      "title": "AMD Announces Radeon RX 9070 GRE, Ryzen AI Max PRO 400 Series - Phoronix",
+      "source": {
+        "name": "Phoronix"
+      },
+      "description": "AMD is kicking off the busy Computex 2026 week with some new product announcements....",
+      "url": "https://www.phoronix.com/review/amd-rx-9070-gre-ryzen-ai-max-400",
+      "publishedAt": "2026-06-01T00:00:00Z",
+      "processed_at": "2026-06-02T10:26:22.084729+00:00"
+    },
+    {
+      "title": "Dell Rivals Apple’s MacBook Neo With $699 Touch-Screen XPS 13 Laptop - Bloomberg.com",
+      "source": {
+        "name": "Bloomberg"
+      },
+      "description": "Dell Technologies Inc. introduced a redesigned XPS 13 laptop, positioning the device as a direct ans...",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-31/dell-challenges-apple-s-macbook-neo-with-699-touch-screen-xps-13-laptop",
+      "publishedAt": "2026-05-31T23:00:04Z",
+      "processed_at": "2026-06-02T10:26:22.084729+00:00"
+    },
+    {
+      "title": "Everyone Has Their Targets Set on the MacBook Neo - WIRED",
+      "source": {
+        "name": "Wired"
+      },
+      "description": "Dell, Microsoft, and others are unveiling new laptops to compete directly with the Neo, but not all ...",
+      "url": "https://www.wired.com/story/everyone-has-their-targets-set-on-the-macbook-neo/",
+      "publishedAt": "2026-05-31T23:00:00Z",
+      "processed_at": "2026-06-02T10:26:22.084729+00:00"
     },
     {
       "title": "State of Play's Special Alamo Drafthouse Menu Has Leaked, And Here's What Sony's Cooking - Push Square",
@@ -40,50 +90,10 @@
       "description": "Hope you're hungry, bub...",
       "url": "https://www.pushsquare.com/news/2026/06/state-of-plays-special-alamo-drafthouse-menu-has-leaked-and-heres-what-sonys-cooking",
       "publishedAt": "2026-05-31T23:00:00Z",
-      "processed_at": "2026-06-02T05:49:29.633460+00:00"
-    },
-    {
-      "title": "iOS 28 Will Reportedly Be 'Far More Significant' Than iOS 27 - MacRumors",
-      "source": {
-        "name": "MacRumors"
-      },
-      "description": "While we are still a week away from Apple unveiling iOS 27, Bloomberg's Mark Gurman has just shared ...",
-      "url": "https://www.macrumors.com/2026/05/31/ios-28-far-more-significant-rumor/",
-      "publishedAt": "2026-05-31T21:44:33Z",
-      "processed_at": "2026-06-02T05:49:29.633460+00:00"
-    },
-    {
-      "title": "Someone allegedly found a Pixel Watch 5 in the ocean - 9to5Google",
-      "source": {
-        "name": "9to5google.com"
-      },
-      "description": "Prototype devices find their way to leaking in a variety of different ways, such as the infamous iPh...",
-      "url": "http://9to5google.com/2026/05/31/someone-allegedly-found-a-pixel-watch-5-in-the-ocean/",
-      "publishedAt": "2026-05-31T20:35:00Z",
-      "processed_at": "2026-06-02T05:49:29.633460+00:00"
-    },
-    {
-      "title": "\"Thought I'd Give It Another Go\" - Super Play Artist Wil Overton Reimagines The Debut Issue's Cover - Time Extension",
-      "source": {
-        "name": "Timeextension.com"
-      },
-      "description": "\"This might be a daft idea\"...",
-      "url": "https://www.timeextension.com/news/2026/05/thought-id-give-it-another-go-super-play-artist-wil-overton-reimagines-the-debut-issues-cover",
-      "publishedAt": "2026-05-31T19:05:00Z",
-      "processed_at": "2026-06-02T05:49:29.633460+00:00"
-    },
-    {
-      "title": "An Essential Cyberpunk Roguelike Returns In 868-BACK - Kotaku",
-      "source": {
-        "name": "Kotaku"
-      },
-      "description": "The Broughlike’s namesake boots up all the old terminals, nodes and circuitry for a more accessible ...",
-      "url": "https://kotaku.com/an-essential-cyberpunk-roguelike-returns-in-868-back-2000700901",
-      "publishedAt": "2026-05-31T18:27:33Z",
-      "processed_at": "2026-06-02T05:49:29.633460+00:00"
+      "processed_at": "2026-06-02T10:26:22.084729+00:00"
     }
   ],
-  "lastUpdated": "2026-06-02T05:49:29.633531+00:00",
+  "lastUpdated": "2026-06-02T10:26:22.084804+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
