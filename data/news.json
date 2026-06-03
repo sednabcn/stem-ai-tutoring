@@ -1,7 +1,57 @@
 {
   "status": "success",
-  "totalResults": 9,
+  "totalResults": 10,
   "articles": [
+    {
+      "title": "PlayStation State of Play June 2026: All the news and trailers - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "Sony’s next State of Play showcase airs on June 2nd and will feature major PS5 reveals, including th...",
+      "url": "https://www.theverge.com/entertainment/940913/playstation-state-of-play-june-2026-news-trailers",
+      "publishedAt": "2026-06-02T21:55:32Z",
+      "processed_at": "2026-06-03T23:44:56.418130+00:00"
+    },
+    {
+      "title": "Rayman Legends Retold announced for Nintendo Switch 2 - Nintendo Everything",
+      "source": {
+        "name": "Nintendoeverything.com"
+      },
+      "description": "Following a recent leak, Ubisoft made it official that it’s developing Rayman Legends Retold. The ga...",
+      "url": "https://nintendoeverything.com/rayman-legends-retold-announced-for-nintendo-switch-2/",
+      "publishedAt": "2026-06-02T21:19:45Z",
+      "processed_at": "2026-06-03T23:44:56.418130+00:00"
+    },
+    {
+      "title": "YouTube TV subscribers can get 50% off Google TV Streamer - 9to5Google",
+      "source": {
+        "name": "9to5google.com"
+      },
+      "description": "YouTube TV is now offering members a 50% discount on the Google TV Streamer via a Google Store promo...",
+      "url": "http://9to5google.com/2026/06/02/youtube-tv-google-tv-streamer/",
+      "publishedAt": "2026-06-02T20:40:00Z",
+      "processed_at": "2026-06-03T23:44:56.418130+00:00"
+    },
+    {
+      "title": "iOS 27 is coming, here are five new features I’m most excited about - 9to5Mac",
+      "source": {
+        "name": "9to5Mac"
+      },
+      "description": "We’re days away from Apple’s iOS 27 unveiling on June 8 at WWDC. Here are five rumored new features ...",
+      "url": "https://9to5mac.com/2026/06/02/ios-27-is-coming-here-are-five-new-features-im-most-excited-about/",
+      "publishedAt": "2026-06-02T20:21:00Z",
+      "processed_at": "2026-06-03T23:44:56.418130+00:00"
+    },
+    {
+      "title": "Cyberdecks are having a moment, rejecting big tech surveillance with style and substance - TechCrunch",
+      "source": {
+        "name": "TechCrunch"
+      },
+      "description": "Over the last few months, these DIY hardware communities have exploded in popularity as people on so...",
+      "url": "https://techcrunch.com/2026/06/02/cyberdeck-tiktok-trend-reject-big-tech/",
+      "publishedAt": "2026-06-02T20:20:00Z",
+      "processed_at": "2026-06-03T23:44:56.418130+00:00"
+    },
     {
       "title": "Microsoft Build 2026: the 7 biggest announcements - The Verge",
       "source": {
@@ -10,17 +60,37 @@
       "description": "Microsoft just held its Build 2026 opening keynote, where it showed off updates across AI, its Surfa...",
       "url": "https://www.theverge.com/tech/941738/microsoft-build-2026-biggest-announcements",
       "publishedAt": "2026-06-02T19:23:52Z",
-      "processed_at": "2026-06-03T21:50:25.620267+00:00"
+      "processed_at": "2026-06-03T23:44:56.418130+00:00"
     },
     {
-      "title": "Microsoft launches Scout, an OpenClaw-inspired personal assistant - TechCrunch",
+      "title": "Microsoft Announces Open-Source \"Intelligent Terminal\" - Phoronix",
+      "source": {
+        "name": "Phoronix"
+      },
+      "description": "Microsoft today announced their newest open-source creation.....",
+      "url": "https://www.phoronix.com/news/Microsoft-Intelligent-Terminal",
+      "publishedAt": "2026-06-02T19:18:00Z",
+      "processed_at": "2026-06-03T23:44:56.418130+00:00"
+    },
+    {
+      "title": "Microsoft Wants to 'Make People Addicted' to its New AI Assistant, Internal Documents Reveal - 404 Media",
+      "source": {
+        "name": "404media.co"
+      },
+      "description": "Planning documents for \"Scout\" say the plan is to \"make people addicted\" to the tool before adding n...",
+      "url": "https://www.404media.co/microsoft-wants-to-make-people-addicted-to-scout-its-new-ai-assistant-internal-documents-reveal/",
+      "publishedAt": "2026-06-02T18:48:46Z",
+      "processed_at": "2026-06-03T23:44:56.418130+00:00"
+    },
+    {
+      "title": "Exclusive: Ex-Anduril engineer raises $42M to build the Amazon of composite parts - TechCrunch",
       "source": {
         "name": "TechCrunch"
       },
-      "description": "Launched at Build, Microsoft Scout is a new AI assistant meant to bring the power and flexibility of...",
-      "url": "https://techcrunch.com/2026/06/02/microsoft-launches-scout-an-openclaw-inspired-personal-assistant/",
-      "publishedAt": "2026-06-02T18:02:44Z",
-      "processed_at": "2026-06-03T21:50:25.620267+00:00"
+      "description": "Layup Parts co-founder Zack Eakin has drawn on a motorsports background, and his experience working ...",
+      "url": "https://techcrunch.com/2026/06/02/ex-anduril-engineer-raises-42m-to-build-the-amazon-of-composite-parts/",
+      "publishedAt": "2026-06-02T18:00:00Z",
+      "processed_at": "2026-06-03T23:44:56.418130+00:00"
     },
     {
       "title": "Android Is Fighting Phone Scams With a New Feature to Prove Who's Calling - WIRED",
@@ -30,70 +100,10 @@
       "description": "Available for Android 12 and later, the anti-scam feature is baked into Google Dialer, which sends a...",
       "url": "https://www.wired.com/story/android-is-fighting-phone-scams-with-a-new-feature-to-prove-whos-calling/",
       "publishedAt": "2026-06-02T18:00:00Z",
-      "processed_at": "2026-06-03T21:50:25.620267+00:00"
-    },
-    {
-      "title": "Indie Video Game ‘Mina the Hollower’ Sells 300,000 Copies in Three Days - Bloomberg.com",
-      "source": {
-        "name": "Bloomberg"
-      },
-      "description": "The new action-platformer is the best-reviewed video game of 2026 so far...",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-02/indie-video-game-mina-the-hollower-sells-300-000-copies-in-three-days",
-      "publishedAt": "2026-06-02T17:20:25Z",
-      "processed_at": "2026-06-03T21:50:25.620267+00:00"
-    },
-    {
-      "title": "Microsoft launches MXC, an OS-level sandbox for AI agents, with OpenAI and Nvidia already on board - Venturebeat",
-      "source": {
-        "name": "VentureBeat"
-      },
-      "description": "Microsoft launches MXC, an OS-level sandbox for AI agents in Windows, giving enterprises secure runt...",
-      "url": "https://venturebeat.com/security/microsoft-launches-mxc-an-os-level-sandbox-for-ai-agents-with-openai-and-nvidia-already-on-board",
-      "publishedAt": "2026-06-02T16:30:00Z",
-      "processed_at": "2026-06-03T21:50:25.620267+00:00"
-    },
-    {
-      "title": "A New Declaration Warns AI Could Threaten the Foundations of Mathematics - Gizmodo",
-      "source": {
-        "name": "Gizmodo.com"
-      },
-      "description": "AI is reshaping math—and how mathematicians work. That's fine, but experts want some clear standards...",
-      "url": "https://gizmodo.com/a-new-declaration-warns-ai-could-threaten-the-foundations-of-mathematics-2000766375",
-      "publishedAt": "2026-06-02T15:45:42Z",
-      "processed_at": "2026-06-03T21:50:25.620267+00:00"
-    },
-    {
-      "title": "iOS 27 Rumored to Include Split-Screen App Adaptation Feature - MacRumors",
-      "source": {
-        "name": "MacRumors"
-      },
-      "description": "Apple is working on a split-screen app landscape adaptation feature for iOS 27, according to a known...",
-      "url": "https://www.macrumors.com/2026/06/02/ios-27-split-screen-app-adaptation-feature/",
-      "publishedAt": "2026-06-02T15:29:53Z",
-      "processed_at": "2026-06-03T21:50:25.620267+00:00"
-    },
-    {
-      "title": "Nvidia and Microsoft Researchers Say AI Agents Don't Care About Safety or Reliability - 404 Media",
-      "source": {
-        "name": "404media.co"
-      },
-      "description": "The researchers compared AI to the near-sighted cartoon character Mr. Magoo, who can’t see he’s stum...",
-      "url": "https://www.404media.co/nvidia-and-microsoft-researchers-say-ai-agents-dont-care-about-safety-or-reliability/",
-      "publishedAt": "2026-06-02T15:04:01Z",
-      "processed_at": "2026-06-03T21:50:25.620267+00:00"
-    },
-    {
-      "title": "PlayStation State of Play live report - all of today's news from Sony's 2026 summer showcase - Eurogamer",
-      "source": {
-        "name": "Eurogamer.net"
-      },
-      "description": "What PlayStation surprises does Sony have for tonight's summer showcase? Let's find out....",
-      "url": "https://www.eurogamer.net/june-2026-playstation-state-of-play-live-report",
-      "publishedAt": "2026-06-02T14:21:59Z",
-      "processed_at": "2026-06-03T21:50:25.620267+00:00"
+      "processed_at": "2026-06-03T23:44:56.418130+00:00"
     }
   ],
-  "lastUpdated": "2026-06-03T21:50:25.620338+00:00",
+  "lastUpdated": "2026-06-03T23:44:56.418194+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
