@@ -1,7 +1,27 @@
 {
   "status": "success",
-  "totalResults": 10,
+  "totalResults": 9,
   "articles": [
+    {
+      "title": "Google Releases Fitbit Air CAD Drawings & Specs: Bicep Bands Welcomed! - DC Rainmaker",
+      "source": {
+        "name": "DC Rainmaker"
+      },
+      "description": "Google releases CAD drawings and specs for the Fitbit Air pod, allowing 3rd party companies to make ...",
+      "url": "https://www.dcrainmaker.com/2026/06/google-releases-fitbit-air-cad-drawings-specs-bicep-bands-welcomed.html",
+      "publishedAt": "2026-06-04T09:38:36Z",
+      "processed_at": "2026-06-05T12:38:48.845071+00:00"
+    },
+    {
+      "title": "Shokz upgraded its open earbuds with better sound and a lighter design - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "Shokz’ clip-on open earbuds are now available in two versions with lighter designs, improved bass an...",
+      "url": "https://www.theverge.com/tech/942054/shokz-clip-on-opendots-2-air-earbuds-wireless-headphones",
+      "publishedAt": "2026-06-04T07:00:00Z",
+      "processed_at": "2026-06-05T12:38:48.845071+00:00"
+    },
     {
       "title": "Nvidia takes AI battle from the data centre to the laptop - Financial Times",
       "source": {
@@ -10,7 +30,7 @@
       "description": "Chipmaker opens new front in rivalry with Apple, Intel, AMD and Qualcomm...",
       "url": "https://www.ft.com/content/4db277bf-e67b-473d-a75e-e358fb31f69b?syn-25a6b1a6\\\\u003d1",
       "publishedAt": "2026-06-04T04:01:40Z",
-      "processed_at": "2026-06-05T09:53:42.130284+00:00"
+      "processed_at": "2026-06-05T12:38:48.845071+00:00"
     },
     {
       "title": "Google AI Edge Gallery launches on macOS, letting Mac users run Gemini models locally - 9to5Mac",
@@ -20,7 +40,7 @@
       "description": "In addition to Google AI Edge Gallery, the company also released the Gemma 4 12B model and the Googl...",
       "url": "https://9to5mac.com/2026/06/03/google-ai-edge-gallery-launches-to-macos-letting-mac-users-run-gemini-models-locally/",
       "publishedAt": "2026-06-04T02:58:00Z",
-      "processed_at": "2026-06-05T09:53:42.130284+00:00"
+      "processed_at": "2026-06-05T12:38:48.845071+00:00"
     },
     {
       "title": "Report details Apple’s plan to use Nvidia chips for the Gemini-powered Siri - 9to5Mac",
@@ -30,27 +50,7 @@
       "description": "A new report from The Information shares fresh details on how the new Gemini-powered Siri will work ...",
       "url": "https://9to5mac.com/2026/06/03/report-details-apples-plan-to-use-nvidia-chips-for-the-gemini-powered-siri/",
       "publishedAt": "2026-06-04T00:25:00Z",
-      "processed_at": "2026-06-05T09:53:42.130284+00:00"
-    },
-    {
-      "title": "Google may have surprising new colors for the Pixel 11 series phones - PhoneArena",
-      "source": {
-        "name": "PhoneArena"
-      },
-      "description": "",
-      "url": "https://www.phonearena.com/news/google-may-have-surprising-new-colors-for-the-pixel-11-series-phones_id180857",
-      "publishedAt": "2026-06-04T00:19:40Z",
-      "processed_at": "2026-06-05T09:53:42.130284+00:00"
-    },
-    {
-      "title": "Nintendo confirms it will sell a new Switch 2 with replaceable battery in the EU - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "Nintendo is planning to launch versions of Switch 2 hardware in the EU that will let users easily re...",
-      "url": "https://www.theverge.com/games/942808/nintendo-switch-2-replaceable-battery-eu",
-      "publishedAt": "2026-06-04T00:04:00Z",
-      "processed_at": "2026-06-05T09:53:42.130284+00:00"
+      "processed_at": "2026-06-05T12:38:48.845071+00:00"
     },
     {
       "title": "Samsung Introduces Next-Gen Galaxy Watch Features for AI-Powered Everyday Health Companion - samsung.com",
@@ -60,7 +60,17 @@
       "description": "Samsung Electronics today announced a major update to the Samsung Health app, transforming the upcom...",
       "url": "https://news.samsung.com/global/samsung-introduces-next-gen-galaxy-watch-features-for-ai-powered-everyday-health-companion",
       "publishedAt": "2026-06-03T23:00:00Z",
-      "processed_at": "2026-06-05T09:53:42.130284+00:00"
+      "processed_at": "2026-06-05T12:38:48.845071+00:00"
+    },
+    {
+      "title": "Control Resonant Early Access Is Exclusive To PS5, But At Least We Get 'Play Anywhere' On Xbox - Pure Xbox",
+      "source": {
+        "name": "Pure Xbox"
+      },
+      "description": "A worthy trade-off?...",
+      "url": "https://www.purexbox.com/news/2026/06/control-resonant-early-access-is-exclusive-to-ps5-but-at-least-we-get-play-anywhere-on-xbox",
+      "publishedAt": "2026-06-03T22:18:00Z",
+      "processed_at": "2026-06-05T12:38:48.845071+00:00"
     },
     {
       "title": "Pioneering AI Founders Join to Accelerate Roblox Reality Vision - Roblox",
@@ -70,17 +80,7 @@
       "description": "Founders from Morpheus AI, Dynamics Lab, Lucid AI Make Playable Photorealistic Roblox World Models P...",
       "url": "https://about.roblox.com/newsroom/2026/06/pioneering-ai-founders-join-to-accelerate-roblox-reality-vision",
       "publishedAt": "2026-06-03T21:55:42Z",
-      "processed_at": "2026-06-05T09:53:42.130284+00:00"
-    },
-    {
-      "title": "High-pulse-energy integrated mode-locked laser using a Mamyshev oscillator - Nature",
-      "source": {
-        "name": "Nature.com"
-      },
-      "description": "A&nbsp;Mamyshev oscillator mode-locked laser compactly integrated on a photonic-chip delivers nanojo...",
-      "url": "https://www.nature.com/articles/s41586-026-10517-4",
-      "publishedAt": "2026-06-03T21:22:30Z",
-      "processed_at": "2026-06-05T09:53:42.130284+00:00"
+      "processed_at": "2026-06-05T12:38:48.845071+00:00"
     },
     {
       "title": "In Less Than A Day, God Of War Laufey Has Created One Of The Fandom’s Funniest Memes - Kotaku",
@@ -90,20 +90,10 @@
       "description": "Kratos and Atreus’ journey is downright serene compared to what Faye is going through...",
       "url": "https://kotaku.com/god-of-war-laufey-kratos-atreus-faye-mother-grief-jokes-2000702119",
       "publishedAt": "2026-06-03T21:15:00Z",
-      "processed_at": "2026-06-05T09:53:42.130284+00:00"
-    },
-    {
-      "title": "Google’s Dreambeans, its weirdest-named AI tool to date, will turn your life into a cartoon - TechCrunch",
-      "source": {
-        "name": "TechCrunch"
-      },
-      "description": "Dreambeans is a curated list of AI-illustrated \"stories\" culled from the personal data in your Googl...",
-      "url": "https://techcrunch.com/2026/06/03/googles-dreambeans-its-weirdest-named-ai-tool-to-date-will-turn-your-life-into-a-cartoon/",
-      "publishedAt": "2026-06-03T19:07:42Z",
-      "processed_at": "2026-06-05T09:53:42.130284+00:00"
+      "processed_at": "2026-06-05T12:38:48.845071+00:00"
     }
   ],
-  "lastUpdated": "2026-06-05T09:53:42.130362+00:00",
+  "lastUpdated": "2026-06-05T12:38:48.845142+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
