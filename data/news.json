@@ -3,6 +3,26 @@
   "totalResults": 10,
   "articles": [
     {
+      "title": "Nvidia takes AI battle from the data centre to the laptop - Financial Times",
+      "source": {
+        "name": "Financial Times"
+      },
+      "description": "Chipmaker opens new front in rivalry with Apple, Intel, AMD and Qualcomm...",
+      "url": "https://www.ft.com/content/4db277bf-e67b-473d-a75e-e358fb31f69b?syn-25a6b1a6\\\\u003d1",
+      "publishedAt": "2026-06-04T04:01:40Z",
+      "processed_at": "2026-06-05T09:53:42.130284+00:00"
+    },
+    {
+      "title": "Google AI Edge Gallery launches on macOS, letting Mac users run Gemini models locally - 9to5Mac",
+      "source": {
+        "name": "9to5Mac"
+      },
+      "description": "In addition to Google AI Edge Gallery, the company also released the Gemma 4 12B model and the Googl...",
+      "url": "https://9to5mac.com/2026/06/03/google-ai-edge-gallery-launches-to-macos-letting-mac-users-run-gemini-models-locally/",
+      "publishedAt": "2026-06-04T02:58:00Z",
+      "processed_at": "2026-06-05T09:53:42.130284+00:00"
+    },
+    {
       "title": "Report details Apple’s plan to use Nvidia chips for the Gemini-powered Siri - 9to5Mac",
       "source": {
         "name": "9to5Mac"
@@ -10,7 +30,37 @@
       "description": "A new report from The Information shares fresh details on how the new Gemini-powered Siri will work ...",
       "url": "https://9to5mac.com/2026/06/03/report-details-apples-plan-to-use-nvidia-chips-for-the-gemini-powered-siri/",
       "publishedAt": "2026-06-04T00:25:00Z",
-      "processed_at": "2026-06-05T05:18:24.605286+00:00"
+      "processed_at": "2026-06-05T09:53:42.130284+00:00"
+    },
+    {
+      "title": "Google may have surprising new colors for the Pixel 11 series phones - PhoneArena",
+      "source": {
+        "name": "PhoneArena"
+      },
+      "description": "",
+      "url": "https://www.phonearena.com/news/google-may-have-surprising-new-colors-for-the-pixel-11-series-phones_id180857",
+      "publishedAt": "2026-06-04T00:19:40Z",
+      "processed_at": "2026-06-05T09:53:42.130284+00:00"
+    },
+    {
+      "title": "Nintendo confirms it will sell a new Switch 2 with replaceable battery in the EU - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "Nintendo is planning to launch versions of Switch 2 hardware in the EU that will let users easily re...",
+      "url": "https://www.theverge.com/games/942808/nintendo-switch-2-replaceable-battery-eu",
+      "publishedAt": "2026-06-04T00:04:00Z",
+      "processed_at": "2026-06-05T09:53:42.130284+00:00"
+    },
+    {
+      "title": "Samsung Introduces Next-Gen Galaxy Watch Features for AI-Powered Everyday Health Companion - samsung.com",
+      "source": {
+        "name": "Samsung.com"
+      },
+      "description": "Samsung Electronics today announced a major update to the Samsung Health app, transforming the upcom...",
+      "url": "https://news.samsung.com/global/samsung-introduces-next-gen-galaxy-watch-features-for-ai-powered-everyday-health-companion",
+      "publishedAt": "2026-06-03T23:00:00Z",
+      "processed_at": "2026-06-05T09:53:42.130284+00:00"
     },
     {
       "title": "Pioneering AI Founders Join to Accelerate Roblox Reality Vision - Roblox",
@@ -20,7 +70,7 @@
       "description": "Founders from Morpheus AI, Dynamics Lab, Lucid AI Make Playable Photorealistic Roblox World Models P...",
       "url": "https://about.roblox.com/newsroom/2026/06/pioneering-ai-founders-join-to-accelerate-roblox-reality-vision",
       "publishedAt": "2026-06-03T21:55:42Z",
-      "processed_at": "2026-06-05T05:18:24.605286+00:00"
+      "processed_at": "2026-06-05T09:53:42.130284+00:00"
     },
     {
       "title": "High-pulse-energy integrated mode-locked laser using a Mamyshev oscillator - Nature",
@@ -30,7 +80,7 @@
       "description": "A&nbsp;Mamyshev oscillator mode-locked laser compactly integrated on a photonic-chip delivers nanojo...",
       "url": "https://www.nature.com/articles/s41586-026-10517-4",
       "publishedAt": "2026-06-03T21:22:30Z",
-      "processed_at": "2026-06-05T05:18:24.605286+00:00"
+      "processed_at": "2026-06-05T09:53:42.130284+00:00"
     },
     {
       "title": "In Less Than A Day, God Of War Laufey Has Created One Of The Fandom’s Funniest Memes - Kotaku",
@@ -40,27 +90,7 @@
       "description": "Kratos and Atreus’ journey is downright serene compared to what Faye is going through...",
       "url": "https://kotaku.com/god-of-war-laufey-kratos-atreus-faye-mother-grief-jokes-2000702119",
       "publishedAt": "2026-06-03T21:15:00Z",
-      "processed_at": "2026-06-05T05:18:24.605286+00:00"
-    },
-    {
-      "title": "A top Metaverse executive quietly left after a few months on the job - Business Insider",
-      "source": {
-        "name": "Business Insider"
-      },
-      "description": "Gabriel Aul, who led the Metaverse unit, retired earlier this year, replaced by former Epic Games ex...",
-      "url": "https://www.businessinsider.com/top-metaverse-exec-quietly-left-four-months-ago-2026-6",
-      "publishedAt": "2026-06-03T20:38:00Z",
-      "processed_at": "2026-06-05T05:18:24.605286+00:00"
-    },
-    {
-      "title": "Google’s new Gemma 4 12B model is designed to run on any laptop with 16GB of RAM - Ars Technica",
-      "source": {
-        "name": "Ars Technica"
-      },
-      "description": "Gemma 4 12B uses a new encoding scheme and token prediction to punch above its weight....",
-      "url": "https://arstechnica.com/google/2026/06/googles-new-gemma-4-open-ai-model-is-sized-for-your-laptop/",
-      "publishedAt": "2026-06-03T19:10:03Z",
-      "processed_at": "2026-06-05T05:18:24.605286+00:00"
+      "processed_at": "2026-06-05T09:53:42.130284+00:00"
     },
     {
       "title": "Google’s Dreambeans, its weirdest-named AI tool to date, will turn your life into a cartoon - TechCrunch",
@@ -70,40 +100,10 @@
       "description": "Dreambeans is a curated list of AI-illustrated \"stories\" culled from the personal data in your Googl...",
       "url": "https://techcrunch.com/2026/06/03/googles-dreambeans-its-weirdest-named-ai-tool-to-date-will-turn-your-life-into-a-cartoon/",
       "publishedAt": "2026-06-03T19:07:42Z",
-      "processed_at": "2026-06-05T05:18:24.605286+00:00"
-    },
-    {
-      "title": "John Ternus scaled back Apple’s Vision products roadmap: report - 9to5Mac",
-      "source": {
-        "name": "9to5Mac"
-      },
-      "description": "Ming-Chi Kuo just shared an update on Apple’s future Vision products that scales back the lineup—a s...",
-      "url": "https://9to5mac.com/2026/06/03/john-ternus-scaled-back-apples-vision-products-roadmap-report/",
-      "publishedAt": "2026-06-03T17:19:00Z",
-      "processed_at": "2026-06-05T05:18:24.605286+00:00"
-    },
-    {
-      "title": "GTA 6 Has Turned September Into a Video Game Battle Royale - IGN",
-      "source": {
-        "name": "IGN"
-      },
-      "description": "In an attempt to avoid GTA 6, almost every other big end-of-year game is launching in September, tur...",
-      "url": "https://www.ign.com/articles/gta-6-has-turned-september-into-a-video-game-battle-royale",
-      "publishedAt": "2026-06-03T16:30:00Z",
-      "processed_at": "2026-06-05T05:18:24.605286+00:00"
-    },
-    {
-      "title": "'Galaxy Z Fold 8 Ultra' confirmed, likely leaving Samsung's most interesting foldable with a boring name - 9to5Google",
-      "source": {
-        "name": "9to5google.com"
-      },
-      "description": "Samsung is planning two Galaxy Z Fold 8 models for launch this year, and one is confirmed to have “U...",
-      "url": "http://9to5google.com/2026/06/03/galaxy-z-fold-8-ultra-name-confirmed/",
-      "publishedAt": "2026-06-03T16:12:00Z",
-      "processed_at": "2026-06-05T05:18:24.605286+00:00"
+      "processed_at": "2026-06-05T09:53:42.130284+00:00"
     }
   ],
-  "lastUpdated": "2026-06-05T05:18:24.605367+00:00",
+  "lastUpdated": "2026-06-05T09:53:42.130362+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
