@@ -1,99 +1,109 @@
 {
   "status": "success",
-  "totalResults": 9,
+  "totalResults": 10,
   "articles": [
     {
-      "title": "Google Releases Fitbit Air CAD Drawings & Specs: Bicep Bands Welcomed! - DC Rainmaker",
+      "title": "Dreaming: Better memory for a more helpful ChatGPT - OpenAI",
       "source": {
-        "name": "DC Rainmaker"
+        "name": "Openai.com"
       },
-      "description": "Google releases CAD drawings and specs for the Fitbit Air pod, allowing 3rd party companies to make ...",
-      "url": "https://www.dcrainmaker.com/2026/06/google-releases-fitbit-air-cad-drawings-specs-bicep-bands-welcomed.html",
-      "publishedAt": "2026-06-04T09:38:36Z",
-      "processed_at": "2026-06-05T12:38:48.845071+00:00"
+      "description": "ChatGPT introduces a new memory system to better remember preferences, keeping context fresh and rel...",
+      "url": "https://openai.com/index/chatgpt-memory-dreaming/",
+      "publishedAt": "2026-06-04T16:07:30Z",
+      "processed_at": "2026-06-05T15:55:00.308499+00:00"
     },
     {
-      "title": "Shokz upgraded its open earbuds with better sound and a lighter design - The Verge",
+      "title": "FromSoftware has finally announced an Elden Ring Switch 2 release date - Eurogamer",
       "source": {
-        "name": "The Verge"
+        "name": "Eurogamer.net"
       },
-      "description": "Shokz’ clip-on open earbuds are now available in two versions with lighter designs, improved bass an...",
-      "url": "https://www.theverge.com/tech/942054/shokz-clip-on-opendots-2-air-earbuds-wireless-headphones",
-      "publishedAt": "2026-06-04T07:00:00Z",
-      "processed_at": "2026-06-05T12:38:48.845071+00:00"
+      "description": "",
+      "url": "https://www.eurogamer.net/elden-ring-switch-2-release-date",
+      "publishedAt": "2026-06-04T15:04:58Z",
+      "processed_at": "2026-06-05T15:55:00.308499+00:00"
     },
     {
-      "title": "Nvidia takes AI battle from the data centre to the laptop - Financial Times",
+      "title": "What To Play And How To Prepare For Destiny 2’s Huge June 9 Patch - Forbes",
       "source": {
-        "name": "Financial Times"
+        "name": "Forbes"
       },
-      "description": "Chipmaker opens new front in rivalry with Apple, Intel, AMD and Qualcomm...",
-      "url": "https://www.ft.com/content/4db277bf-e67b-473d-a75e-e358fb31f69b?syn-25a6b1a6\\\\u003d1",
-      "publishedAt": "2026-06-04T04:01:40Z",
-      "processed_at": "2026-06-05T12:38:48.845071+00:00"
+      "description": "Destiny 2 is getting its big update on June 9, and there's plenty to do before then if you're trying...",
+      "url": "https://www.forbes.com/sites/paultassi/2026/06/04/what-to-play-and-how-to-prepare-for-destiny-2s-huge-june-9-patch/",
+      "publishedAt": "2026-06-04T13:43:24Z",
+      "processed_at": "2026-06-05T15:55:00.308499+00:00"
     },
     {
-      "title": "Google AI Edge Gallery launches on macOS, letting Mac users run Gemini models locally - 9to5Mac",
+      "title": "Google Employees Internally Share Memes About How Its AI Sucks - 404 Media",
       "source": {
-        "name": "9to5Mac"
+        "name": "404media.co"
       },
-      "description": "In addition to Google AI Edge Gallery, the company also released the Gemma 4 12B model and the Googl...",
-      "url": "https://9to5mac.com/2026/06/03/google-ai-edge-gallery-launches-to-macos-letting-mac-users-run-gemini-models-locally/",
-      "publishedAt": "2026-06-04T02:58:00Z",
-      "processed_at": "2026-06-05T12:38:48.845071+00:00"
+      "description": "Google’s CEO says 75% of the company’s code is AI-generated. The people who write that code say the ...",
+      "url": "https://www.404media.co/google-employees-internally-share-memes-about-how-its-ai-sucks/",
+      "publishedAt": "2026-06-04T13:32:21Z",
+      "processed_at": "2026-06-05T15:55:00.308499+00:00"
     },
     {
-      "title": "Report details Apple’s plan to use Nvidia chips for the Gemini-powered Siri - 9to5Mac",
+      "title": "Ace Combat 8 Asks You to Play the Hero, Whether You Are One or Not | IGN Preview - IGN",
       "source": {
-        "name": "9to5Mac"
+        "name": "IGN"
       },
-      "description": "A new report from The Information shares fresh details on how the new Gemini-powered Siri will work ...",
-      "url": "https://9to5mac.com/2026/06/03/report-details-apples-plan-to-use-nvidia-chips-for-the-gemini-powered-siri/",
-      "publishedAt": "2026-06-04T00:25:00Z",
-      "processed_at": "2026-06-05T12:38:48.845071+00:00"
+      "description": "We played Ace Combat 8: Wings of Theve and found it to be visually stunning with appreciated gamepla...",
+      "url": "https://www.ign.com/articles/ace-combat-8-is-a-very-grounded-game-set-in-the-skies-ign-preview",
+      "publishedAt": "2026-06-04T13:30:00Z",
+      "processed_at": "2026-06-05T15:55:00.308499+00:00"
     },
     {
-      "title": "Samsung Introduces Next-Gen Galaxy Watch Features for AI-Powered Everyday Health Companion - samsung.com",
+      "title": "The Good And Bad Of ‘Marathon’ Season 2 So Far - Forbes",
       "source": {
-        "name": "Samsung.com"
+        "name": "Forbes"
       },
-      "description": "Samsung Electronics today announced a major update to the Samsung Health app, transforming the upcom...",
-      "url": "https://news.samsung.com/global/samsung-introduces-next-gen-galaxy-watch-features-for-ai-powered-everyday-health-companion",
-      "publishedAt": "2026-06-03T23:00:00Z",
-      "processed_at": "2026-06-05T12:38:48.845071+00:00"
+      "description": "Bungie has launched Marathon season 2, which has some cool additions and changes, but other things t...",
+      "url": "https://www.forbes.com/sites/paultassi/2026/06/04/the-good-and-bad-of-marathon-season-2-so-far/",
+      "publishedAt": "2026-06-04T13:20:31Z",
+      "processed_at": "2026-06-05T15:55:00.308499+00:00"
     },
     {
-      "title": "Control Resonant Early Access Is Exclusive To PS5, But At Least We Get 'Play Anywhere' On Xbox - Pure Xbox",
+      "title": "Warhammer Opens in Kraków, Atlanta, and Palm Springs announced - Warhammer Community",
       "source": {
-        "name": "Pure Xbox"
+        "name": "Warhammer-community.com"
       },
-      "description": "A worthy trade-off?...",
-      "url": "https://www.purexbox.com/news/2026/06/control-resonant-early-access-is-exclusive-to-ps5-but-at-least-we-get-play-anywhere-on-xbox",
-      "publishedAt": "2026-06-03T22:18:00Z",
-      "processed_at": "2026-06-05T12:38:48.845071+00:00"
+      "description": "Grand Narrative details, and the first-ever Warhammer Open in Poland....",
+      "url": "https://www.warhammer-community.com/articles/9bi6zsmk/warhammer-opens-in-krakow-atlanta-and-palm-springs-announced",
+      "publishedAt": "2026-06-04T12:59:46Z",
+      "processed_at": "2026-06-05T15:55:00.308499+00:00"
     },
     {
-      "title": "Pioneering AI Founders Join to Accelerate Roblox Reality Vision - Roblox",
+      "title": "iPhone 18 Pro: Dark Cherry, Light Blue, and Dark Gray Chassis Leaked [Update] - MacRumors",
       "source": {
-        "name": "Roblox.com"
+        "name": "MacRumors"
       },
-      "description": "Founders from Morpheus AI, Dynamics Lab, Lucid AI Make Playable Photorealistic Roblox World Models P...",
-      "url": "https://about.roblox.com/newsroom/2026/06/pioneering-ai-founders-join-to-accelerate-roblox-reality-vision",
-      "publishedAt": "2026-06-03T21:55:42Z",
-      "processed_at": "2026-06-05T12:38:48.845071+00:00"
+      "description": "Update: Since publication, new information has come to light suggesting the images have been AI-mani...",
+      "url": "https://www.macrumors.com/2026/06/04/iphone-18-pro-dark-cherry-chassis-leaked/",
+      "publishedAt": "2026-06-04T12:18:30Z",
+      "processed_at": "2026-06-05T15:55:00.308499+00:00"
     },
     {
-      "title": "In Less Than A Day, God Of War Laufey Has Created One Of The Fandom’s Funniest Memes - Kotaku",
+      "title": "Think you've got a handle on Mina the Hollower? Yacht Club reckons many playthroughs are \"missing 50 percent of the game\", and \"there are a few very secret things\" players are yet to find - Eurogamer",
       "source": {
-        "name": "Kotaku"
+        "name": "Eurogamer.net"
       },
-      "description": "Kratos and Atreus’ journey is downright serene compared to what Faye is going through...",
-      "url": "https://kotaku.com/god-of-war-laufey-kratos-atreus-faye-mother-grief-jokes-2000702119",
-      "publishedAt": "2026-06-03T21:15:00Z",
-      "processed_at": "2026-06-05T12:38:48.845071+00:00"
+      "description": "Yacht Club Games developers Sean Velasco and David D'Angelo admire the growing Mina the Hollower com...",
+      "url": "https://www.eurogamer.net/mina-the-hollower-secrets",
+      "publishedAt": "2026-06-04T12:14:52Z",
+      "processed_at": "2026-06-05T15:55:00.308499+00:00"
+    },
+    {
+      "title": "Oura Ring 5 review: Thinner, lighter, better - TechCrunch",
+      "source": {
+        "name": "TechCrunch"
+      },
+      "description": "The Ring 5, which Oura describes as the world’s smallest smart ring, is 40% smaller than its predece...",
+      "url": "https://techcrunch.com/2026/06/04/oura-ring-5-review-thinner-lighter-better/",
+      "publishedAt": "2026-06-04T12:00:00Z",
+      "processed_at": "2026-06-05T15:55:00.308499+00:00"
     }
   ],
-  "lastUpdated": "2026-06-05T12:38:48.845142+00:00",
+  "lastUpdated": "2026-06-05T15:55:00.308563+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
