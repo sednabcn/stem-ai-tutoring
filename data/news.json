@@ -1,7 +1,47 @@
 {
   "status": "success",
-  "totalResults": 10,
+  "totalResults": 9,
   "articles": [
+    {
+      "title": "Apple announces Siri AI and its next generation of Apple Intelligence - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "Apple’s second chance at an AI Siri should bring improved capabilities to Apple devices....",
+      "url": "https://www.theverge.com/tech/942416/apple-siri-ai-update-wwdc",
+      "publishedAt": "2026-06-08T17:34:24Z",
+      "processed_at": "2026-06-09T20:59:02.177512+00:00"
+    },
+    {
+      "title": "visionOS 27 announced with new features for Vision Pro - 9to5Mac",
+      "source": {
+        "name": "9to5Mac"
+      },
+      "description": "Today at WWDC, Apple announced visionOS 27, its next major software version for Vision Pro. Here’s w...",
+      "url": "https://9to5mac.com/2026/06/08/visionos-27-announced-with-new-features-for-vision-pro/",
+      "publishedAt": "2026-06-08T17:30:00Z",
+      "processed_at": "2026-06-09T20:59:02.177512+00:00"
+    },
+    {
+      "title": "Apple announces macOS 27 Golden Gate - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "Apple is announcing its new macOS version for the Mac Studio, Mac Mini, MacBook Pro, MacBook Air, an...",
+      "url": "https://www.theverge.com/tech/943695/apple-wwdc-2026-macos-27-macbook-mac-announcement-features",
+      "publishedAt": "2026-06-08T17:07:30Z",
+      "processed_at": "2026-06-09T20:59:02.177512+00:00"
+    },
+    {
+      "title": "Apple's Beta Website Says 'We'll Be Back Soon' Just Ahead of WWDC - MacRumors",
+      "source": {
+        "name": "MacRumors"
+      },
+      "description": "Apple's Beta Software Program website has gone down ahead of the company's WWDC 2026 keynote next ho...",
+      "url": "https://www.macrumors.com/2026/06/08/apple-beta-website-back-soon/",
+      "publishedAt": "2026-06-08T16:20:04Z",
+      "processed_at": "2026-06-09T20:59:02.177512+00:00"
+    },
     {
       "title": "Halo: Campaign Evolved - Creating New Cosmetics for Master Chief That Honor the Halo Legacy - XBOX Wire",
       "source": {
@@ -10,17 +50,17 @@
       "description": "Take a look at the new weapon and armor cosmetics for Master Chief coming to Halo: Campaign Evolved ...",
       "url": "https://news.xbox.com/en-us/2026/06/08/halo-campaign-evolved-prorder-alpha-halo-armory-pack-skins/",
       "publishedAt": "2026-06-08T16:02:18Z",
-      "processed_at": "2026-06-09T18:09:14.986390+00:00"
+      "processed_at": "2026-06-09T20:59:02.177512+00:00"
     },
     {
-      "title": "WWDC 2026: What to expect, from Siri's highly anticipated revamp to Apple Intelligence and iOS 27 - TechCrunch",
+      "title": "NotebookLM’s new update will help you build source repository from chat - TechCrunch",
       "source": {
         "name": "TechCrunch"
       },
-      "description": "Apple's WWDC nears: Here's what you can look forward to....",
-      "url": "https://techcrunch.com/2026/06/08/wwdc-2026-what-to-expect-from-siris-highly-anticipated-revamp-to-apple-intelligence-and-ios-27/",
-      "publishedAt": "2026-06-08T15:34:59Z",
-      "processed_at": "2026-06-09T18:09:14.986390+00:00"
+      "description": "Google is making Gemini 3.5 the default model in NotebookLM...",
+      "url": "https://techcrunch.com/2026/06/08/notebooklms-new-update-will-help-you-build-source-repository-from-chat/",
+      "publishedAt": "2026-06-08T16:00:00Z",
+      "processed_at": "2026-06-09T20:59:02.177512+00:00"
     },
     {
       "title": "Get a Pokémon TCG: Mega Evolution—Pitch Black Build & Battle Box Early - Pokemon.com",
@@ -30,7 +70,7 @@
       "description": "Open booster packs from a Mega Evolution—Pitch Black Build & Battle Box at a Prerelease event near y...",
       "url": "https://www.pokemon.com/us/pokemon-news/get-a-pokemon-tcg-mega-evolution-pitch-black-build-battle-box-early",
       "publishedAt": "2026-06-08T15:10:48Z",
-      "processed_at": "2026-06-09T18:09:14.986390+00:00"
+      "processed_at": "2026-06-09T20:59:02.177512+00:00"
     },
     {
       "title": "New MkIV Space Marines deploy to the Horus Heresy - Warhammer Community",
@@ -40,70 +80,20 @@
       "description": "Classic power armour reborn with updated miniatures for Warhammer: The Horus Heresy....",
       "url": "https://www.warhammer-community.com/articles/egzsv8co/new-mkiv-space-marines-deploy-to-the-horus-heresy",
       "publishedAt": "2026-06-08T13:58:19Z",
-      "processed_at": "2026-06-09T18:09:14.986390+00:00"
+      "processed_at": "2026-06-09T20:59:02.177512+00:00"
     },
     {
-      "title": "Xbox exclusives are back and more complicated than ever - The Verge",
+      "title": "\"It's top of mind and being worked on\" Xbox confirms anti-scalping methods will be in place ahead of the Xbox Series X25 preorder - Windows Central",
       "source": {
-        "name": "The Verge"
+        "name": "Windows Central"
       },
-      "description": "﻿The next Gears of War is an Xbox exclusive, but Halo isn’t. What’s going on?...",
-      "url": "https://www.theverge.com/report/945639/xbox-exclusives-strategy-complicated-confusing",
-      "publishedAt": "2026-06-08T13:54:01Z",
-      "processed_at": "2026-06-09T18:09:14.986390+00:00"
-    },
-    {
-      "title": "Nintendo Direct Announced For Tomorrow, 9th June 2026 - Nintendo Life",
-      "source": {
-        "name": "Nintendo Life"
-      },
-      "description": "It's about time!...",
-      "url": "https://www.nintendolife.com/news/2026/06/nintendo-direct-announced-for-tomorrow-9th-june-2026",
-      "publishedAt": "2026-06-08T13:50:00Z",
-      "processed_at": "2026-06-09T18:09:14.986390+00:00"
-    },
-    {
-      "title": "'It's very aesthetically pleasing.' Prada and Axiom just revealed the stylish cooling suit Artemis astronuats will wear under their spacesuit on the moon - Space",
-      "source": {
-        "name": "Space.com"
-      },
-      "description": "Prada (yes, that Prada) and Axiom Space are taking spacesuits up a notch with this liquid cooling ve...",
-      "url": "https://www.space.com/space-exploration/human-spaceflight/its-very-aesthetically-pleasing-prada-and-axiom-just-revealed-the-stylish-cooling-suit-artemis-astronuats-will-wear-under-their-spacesuit-on-the-moon",
-      "publishedAt": "2026-06-08T12:00:00Z",
-      "processed_at": "2026-06-09T18:09:14.986390+00:00"
-    },
-    {
-      "title": "Round Up: Every Switch 1 & 2 Announcement From Summer Game Fest's Weekend Showcases - Nintendo Life",
-      "source": {
-        "name": "Nintendo Life"
-      },
-      "description": "Stacked showcases...",
-      "url": "https://www.nintendolife.com/news/2026/06/round-up-every-switch-1-and-2-announcement-from-summer-game-fests-weekend-showcases",
-      "publishedAt": "2026-06-08T11:45:00Z",
-      "processed_at": "2026-06-09T18:09:14.986390+00:00"
-    },
-    {
-      "title": "Fable is getting some post-launch DLC already, with an extended look at gameplay planned for later this week - Eurogamer",
-      "source": {
-        "name": "Eurogamer.net"
-      },
-      "description": "Fable: Order of the Hero will bring a new region and storyline to the upcoming fantasy RPG....",
-      "url": "https://www.eurogamer.net/fable-post-launch-dlc-gameplay",
-      "publishedAt": "2026-06-08T08:40:00Z",
-      "processed_at": "2026-06-09T18:09:14.986390+00:00"
-    },
-    {
-      "title": "Why You Need to Prepare Your iPhone Before Downloading iOS 27 - Geeky Gadgets",
-      "source": {
-        "name": "Geeky Gadgets"
-      },
-      "description": "Prepare for the iOS 27 beta release at WWDC 2026. Learn about new AI features, Siri 2.0, and which o...",
-      "url": "https://www.geeky-gadgets.com/siri-2-ai-upgrades-ios-27/",
-      "publishedAt": "2026-06-08T06:39:10Z",
-      "processed_at": "2026-06-09T18:09:14.986390+00:00"
+      "description": "The Xbox Series X25 will drop as a limited-edition console in November 2026, and Xbox want to make s...",
+      "url": "https://www.windowscentral.com/gaming/xbox/its-top-of-mind-and-being-worked-on-xbox-confirms-anti-scalping-methods-will-be-in-place-ahead-of-the-xbox-series-x25-preorder",
+      "publishedAt": "2026-06-08T13:54:02Z",
+      "processed_at": "2026-06-09T20:59:02.177512+00:00"
     }
   ],
-  "lastUpdated": "2026-06-09T18:09:14.986473+00:00",
+  "lastUpdated": "2026-06-09T20:59:02.177585+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
