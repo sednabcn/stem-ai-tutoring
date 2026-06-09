@@ -1,99 +1,109 @@
 {
   "status": "success",
-  "totalResults": 9,
+  "totalResults": 10,
   "articles": [
     {
-      "title": "Apple announces Siri AI and its next generation of Apple Intelligence - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "Apple’s second chance at an AI Siri should bring improved capabilities to Apple devices....",
-      "url": "https://www.theverge.com/tech/942416/apple-siri-ai-update-wwdc",
-      "publishedAt": "2026-06-08T17:34:24Z",
-      "processed_at": "2026-06-09T20:59:02.177512+00:00"
-    },
-    {
-      "title": "visionOS 27 announced with new features for Vision Pro - 9to5Mac",
-      "source": {
-        "name": "9to5Mac"
-      },
-      "description": "Today at WWDC, Apple announced visionOS 27, its next major software version for Vision Pro. Here’s w...",
-      "url": "https://9to5mac.com/2026/06/08/visionos-27-announced-with-new-features-for-vision-pro/",
-      "publishedAt": "2026-06-08T17:30:00Z",
-      "processed_at": "2026-06-09T20:59:02.177512+00:00"
-    },
-    {
-      "title": "Apple announces macOS 27 Golden Gate - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "Apple is announcing its new macOS version for the Mac Studio, Mac Mini, MacBook Pro, MacBook Air, an...",
-      "url": "https://www.theverge.com/tech/943695/apple-wwdc-2026-macos-27-macbook-mac-announcement-features",
-      "publishedAt": "2026-06-08T17:07:30Z",
-      "processed_at": "2026-06-09T20:59:02.177512+00:00"
-    },
-    {
-      "title": "Apple's Beta Website Says 'We'll Be Back Soon' Just Ahead of WWDC - MacRumors",
+      "title": "tvOS 27 Drops Support for Two Apple TV Models - MacRumors",
       "source": {
         "name": "MacRumors"
       },
-      "description": "Apple's Beta Software Program website has gone down ahead of the company's WWDC 2026 keynote next ho...",
-      "url": "https://www.macrumors.com/2026/06/08/apple-beta-website-back-soon/",
-      "publishedAt": "2026-06-08T16:20:04Z",
-      "processed_at": "2026-06-09T20:59:02.177512+00:00"
+      "description": "The upcoming tvOS 27 update that was previewed today drops support for two Apple TV models.   The tw...",
+      "url": "https://www.macrumors.com/2026/06/08/tvos-27-compatible-apple-tv-models/",
+      "publishedAt": "2026-06-08T21:17:47Z",
+      "processed_at": "2026-06-09T22:42:22.199236+00:00"
     },
     {
-      "title": "Halo: Campaign Evolved - Creating New Cosmetics for Master Chief That Honor the Halo Legacy - XBOX Wire",
-      "source": {
-        "name": "Xbox.com"
-      },
-      "description": "Take a look at the new weapon and armor cosmetics for Master Chief coming to Halo: Campaign Evolved ...",
-      "url": "https://news.xbox.com/en-us/2026/06/08/halo-campaign-evolved-prorder-alpha-halo-armory-pack-skins/",
-      "publishedAt": "2026-06-08T16:02:18Z",
-      "processed_at": "2026-06-09T20:59:02.177512+00:00"
-    },
-    {
-      "title": "NotebookLM’s new update will help you build source repository from chat - TechCrunch",
+      "title": "Apple plays catch-up at WWDC - TechCrunch",
       "source": {
         "name": "TechCrunch"
       },
-      "description": "Google is making Gemini 3.5 the default model in NotebookLM...",
-      "url": "https://techcrunch.com/2026/06/08/notebooklms-new-update-will-help-you-build-source-repository-from-chat/",
-      "publishedAt": "2026-06-08T16:00:00Z",
-      "processed_at": "2026-06-09T20:59:02.177512+00:00"
+      "description": "Apple spent much of its WWDC keynote highlighting fixes, performance improvements, and long-requeste...",
+      "url": "https://techcrunch.com/2026/06/08/apple-plays-catch-up-at-wwdc/",
+      "publishedAt": "2026-06-08T21:15:42Z",
+      "processed_at": "2026-06-09T22:42:22.199236+00:00"
     },
     {
-      "title": "Get a Pokémon TCG: Mega Evolution—Pitch Black Build & Battle Box Early - Pokemon.com",
+      "title": "iOS 27 and iPadOS 27 don’t drop support for any iPhones—and just a few iPads - Ars Technica",
       "source": {
-        "name": "Pokemon.com"
+        "name": "Ars Technica"
       },
-      "description": "Open booster packs from a Mega Evolution—Pitch Black Build & Battle Box at a Prerelease event near y...",
-      "url": "https://www.pokemon.com/us/pokemon-news/get-a-pokemon-tcg-mega-evolution-pitch-black-build-battle-box-early",
-      "publishedAt": "2026-06-08T15:10:48Z",
-      "processed_at": "2026-06-09T20:59:02.177512+00:00"
+      "description": "This promises to be a solid release for aging iPhones....",
+      "url": "https://arstechnica.com/gadgets/2026/06/ios-27-and-ipados-27-dont-drop-support-for-any-iphones-and-just-a-few-ipads/",
+      "publishedAt": "2026-06-08T20:55:58Z",
+      "processed_at": "2026-06-09T22:42:22.199236+00:00"
     },
     {
-      "title": "New MkIV Space Marines deploy to the Horus Heresy - Warhammer Community",
+      "title": "Apple drops support for a long list of iPads and Apple Watches with latest OS updates - The Verge",
       "source": {
-        "name": "Warhammer-community.com"
+        "name": "The Verge"
       },
-      "description": "Classic power armour reborn with updated miniatures for Warhammer: The Horus Heresy....",
-      "url": "https://www.warhammer-community.com/articles/egzsv8co/new-mkiv-space-marines-deploy-to-the-horus-heresy",
-      "publishedAt": "2026-06-08T13:58:19Z",
-      "processed_at": "2026-06-09T20:59:02.177512+00:00"
+      "description": "WatchOS 27 won’t support the Series 6, 7, or 8, or the 2nd-gen SE....",
+      "url": "https://www.theverge.com/news/946147/apple-watchos-27-ipados-27-supported-devices-dropped",
+      "publishedAt": "2026-06-08T19:45:00Z",
+      "processed_at": "2026-06-09T22:42:22.199236+00:00"
     },
     {
-      "title": "\"It's top of mind and being worked on\" Xbox confirms anti-scalping methods will be in place ahead of the Xbox Series X25 preorder - Windows Central",
+      "title": "iCloud+ subscribers will get new benefits in iOS 27 - 9to5Mac",
       "source": {
-        "name": "Windows Central"
+        "name": "9to5Mac"
       },
-      "description": "The Xbox Series X25 will drop as a limited-edition console in November 2026, and Xbox want to make s...",
-      "url": "https://www.windowscentral.com/gaming/xbox/its-top-of-mind-and-being-worked-on-xbox-confirms-anti-scalping-methods-will-be-in-place-ahead-of-the-xbox-series-x25-preorder",
-      "publishedAt": "2026-06-08T13:54:02Z",
-      "processed_at": "2026-06-09T20:59:02.177512+00:00"
+      "description": "Today Apple unveiled its next generation of Apple Intelligence, which includes new benefits for iClo...",
+      "url": "https://9to5mac.com/2026/06/08/icloud-subscribers-will-get-new-benefits-in-ios-27/",
+      "publishedAt": "2026-06-08T18:58:00Z",
+      "processed_at": "2026-06-09T22:42:22.199236+00:00"
+    },
+    {
+      "title": "Due to DMA, Siri AI delayed in EU for iOS 27 and iPadOS 27 - Apple",
+      "source": {
+        "name": "Apple Newsroom"
+      },
+      "description": "Due to the Digital Markets Act, Apple will not be able to ship Siri AI in the European Union with th...",
+      "url": "https://www.apple.com/newsroom/2026/06/due-to-dma-siri-ai-delayed-in-eu-for-ios-27-and-ipados-27/",
+      "publishedAt": "2026-06-08T18:20:13Z",
+      "processed_at": "2026-06-09T22:42:22.199236+00:00"
+    },
+    {
+      "title": "Apple introduces systemwide dictation - TechCrunch",
+      "source": {
+        "name": "TechCrunch"
+      },
+      "description": "Apple's new dictation system could compete with Wispr Flow and others....",
+      "url": "https://techcrunch.com/2026/06/08/apple-introduces-systemwide-dictation/",
+      "publishedAt": "2026-06-08T18:00:09Z",
+      "processed_at": "2026-06-09T22:42:22.199236+00:00"
+    },
+    {
+      "title": "Apple is redesigning Screen Time and overhauling child controls - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "Apple announced an overhaul to its Screen Time and parental control features that aim to better safe...",
+      "url": "https://www.theverge.com/tech/945898/apple-parental-controls-child-accounts-wwdc2026",
+      "publishedAt": "2026-06-08T17:55:30Z",
+      "processed_at": "2026-06-09T22:42:22.199236+00:00"
+    },
+    {
+      "title": "Apple is tweaking its controversial Liquid Glass design - TechCrunch",
+      "source": {
+        "name": "TechCrunch"
+      },
+      "description": "While some users liked the sleek, transparent designs that look \"glassy,\" others found Apple's desig...",
+      "url": "https://techcrunch.com/2026/06/08/apple-is-tweaking-its-controversial-liquid-glass-design/",
+      "publishedAt": "2026-06-08T17:24:33Z",
+      "processed_at": "2026-06-09T22:42:22.199236+00:00"
+    },
+    {
+      "title": "Google AI Plus gets price drop to $4.99 and storage bump - 9to5Google",
+      "source": {
+        "name": "9to5google.com"
+      },
+      "description": "Google announced today that its AI Plus subscription is getting a price drop to $4.99 per month and ...",
+      "url": "http://9to5google.com/2026/06/08/google-ai-plus-price-drop/",
+      "publishedAt": "2026-06-08T17:21:00Z",
+      "processed_at": "2026-06-09T22:42:22.199236+00:00"
     }
   ],
-  "lastUpdated": "2026-06-09T20:59:02.177585+00:00",
+  "lastUpdated": "2026-06-09T22:42:22.199308+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
