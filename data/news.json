@@ -1,6 +1,6 @@
 {
   "status": "success",
-  "totalResults": 10,
+  "totalResults": 9,
   "articles": [
     {
       "title": "Apple introduces Siri AI, a profoundly more capable and personal assistant - Apple",
@@ -10,100 +10,90 @@
       "description": "Apple introduces Siri AI, a profoundly more capable and personal assistant powered by Apple Intellig...",
       "url": "https://www.apple.com/newsroom/2026/06/apple-introduces-siri-ai-a-profoundly-more-capable-and-personal-assistant/",
       "publishedAt": "2026-06-09T03:49:47Z",
-      "processed_at": "2026-06-10T05:19:57.144128+00:00"
+      "processed_at": "2026-06-10T10:03:38.117947+00:00"
     },
     {
-      "title": "Crazy Taxi: World Tour Producer Clarifies AI Use - Game Informer",
+      "title": "Apple’s iOS 27 Is Filled With Hints About Its Upcoming Foldable iPhone - Bloomberg.com",
       "source": {
-        "name": "Gameinformer.com"
+        "name": "Bloomberg"
       },
-      "description": "Producer on the new Crazy Taxi title clarifies the use of AI, which has stirred up controversy surro...",
-      "url": "https://gameinformer.com/sgf-2026/2026/06/08/crazy-taxi-world-tour-producer-clarifies-ai-use",
-      "publishedAt": "2026-06-09T02:16:07Z",
-      "processed_at": "2026-06-10T05:19:57.144128+00:00"
+      "description": "Apple Inc.’s iOS 27 and related software updates offer the clearest public signs yet of the company’...",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-09/apple-s-ios-27-is-filled-with-hints-about-its-upcoming-foldable-iphone",
+      "publishedAt": "2026-06-09T02:20:00Z",
+      "processed_at": "2026-06-10T10:03:38.117947+00:00"
     },
     {
-      "title": "Instagram is finally letting everyone reorganize their profile grid - The Verge",
+      "title": "5 things I already love from the iOS 27 beta - The Verge",
       "source": {
         "name": "The Verge"
       },
-      "description": "On June 8th, Instagram widely launched the ability to freely rearrange the order of photos and video...",
-      "url": "https://www.theverge.com/tech/946458/instagram-is-finally-letting-everyone-reorganize-their-grid",
-      "publishedAt": "2026-06-08T23:58:30Z",
-      "processed_at": "2026-06-10T05:19:57.144128+00:00"
+      "description": "I’ve already been testing the first iOS 27 developer beta, and there are some features that I’m a bi...",
+      "url": "https://www.theverge.com/tech/946391/apple-ios-27-developer-beta-1-wwdc-2026-5-things",
+      "publishedAt": "2026-06-08T23:30:00Z",
+      "processed_at": "2026-06-10T10:03:38.117947+00:00"
     },
     {
-      "title": "Whoops! Xbox Accidentally Uploads Gears of War PS5 Trailer - Push Square",
+      "title": "Xbox Employee Responds To New Trailer Showing PS5 Logo For Gears Of War E-Day - Pure Xbox",
       "source": {
-        "name": "Push Square"
+        "name": "Pure Xbox"
       },
-      "description": "You couldn't make this up...",
-      "url": "https://www.pushsquare.com/news/2026/06/whoops-xbox-accidentally-uploads-gears-of-war-ps5-trailer",
-      "publishedAt": "2026-06-08T23:11:03Z",
-      "processed_at": "2026-06-10T05:19:57.144128+00:00"
+      "description": "\"I can confirm this is not true\"...",
+      "url": "https://www.purexbox.com/news/2026/06/xbox-employee-responds-to-new-trailer-showing-ps5-logo-for-gears-of-war-e-day",
+      "publishedAt": "2026-06-08T23:00:00Z",
+      "processed_at": "2026-06-10T10:03:38.117947+00:00"
     },
     {
-      "title": "iOS 27 Tidbits: Share a Phone Number on Two iPhones, Independent Alarm Volume, Faster AirPlay and More - MacRumors",
-      "source": {
-        "name": "MacRumors"
-      },
-      "description": "At the WWDC 2026 keynote, Apple detailed iOS 27 changes like a new version of Siri with a dedicated ...",
-      "url": "https://www.macrumors.com/2026/06/08/ios-27-tidbits/",
-      "publishedAt": "2026-06-08T22:23:03Z",
-      "processed_at": "2026-06-10T05:19:57.144128+00:00"
-    },
-    {
-      "title": "Apple confirms watchOS 27 will run on Apple Watch Series 9 - 9to5Mac",
+      "title": "iOS 27 revamps AirPods settings in a big way, here’s the new design - 9to5Mac",
       "source": {
         "name": "9to5Mac"
       },
-      "description": "Although watchOS 27 drops support for several older Apple Watch models, Apple has confirmed to 9to5M...",
-      "url": "https://9to5mac.com/2026/06/08/apple-confirms-watchos-27-will-run-on-apple-watch-series-9/",
-      "publishedAt": "2026-06-08T21:09:00Z",
-      "processed_at": "2026-06-10T05:19:57.144128+00:00"
+      "description": "iOS 27 was introduced today at WWDC, and the first developer beta reveals an overhaul to AirPods set...",
+      "url": "https://9to5mac.com/2026/06/08/ios-27-revamps-airpods-settings-in-a-big-way-heres-the-new-design/",
+      "publishedAt": "2026-06-08T21:38:00Z",
+      "processed_at": "2026-06-10T10:03:38.117947+00:00"
     },
     {
-      "title": "macOS 27 requires Apple Silicon, as Apple draws down the Intel Mac era - Ars Technica",
+      "title": "tvOS 27 Drops Support for Two Apple TV Models - MacRumors",
+      "source": {
+        "name": "MacRumors"
+      },
+      "description": "The upcoming tvOS 27 update that was previewed today drops support for two Apple TV models.   The tw...",
+      "url": "https://www.macrumors.com/2026/06/08/tvos-27-compatible-apple-tv-models/",
+      "publishedAt": "2026-06-08T21:17:47Z",
+      "processed_at": "2026-06-10T10:03:38.117947+00:00"
+    },
+    {
+      "title": "Apple announces watchOS 27, now with Siri AI - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "watchOS 27 introduces support for Siri AI, a redesigned “dynamic” app grid, and improvements to heal...",
+      "url": "https://www.theverge.com/tech/943145/apple-watch-watchos-27-wwdc-2026",
+      "publishedAt": "2026-06-08T19:34:10Z",
+      "processed_at": "2026-06-10T10:03:38.117947+00:00"
+    },
+    {
+      "title": "Gemini 3.5 and Antigravity come to Google NotebookLM - Ars Technica",
       "source": {
         "name": "Ars Technica"
       },
-      "description": "You'll need an M1 or better to run the next release of macOS....",
-      "url": "https://arstechnica.com/gadgets/2026/06/macos-27-requires-apple-silicon-as-apple-draws-down-the-intel-mac-era/",
-      "publishedAt": "2026-06-08T21:03:56Z",
-      "processed_at": "2026-06-10T05:19:57.144128+00:00"
+      "description": "NotebookLM is getting a big upgrade, but it's only for AI Ultra and enterprise accounts right now....",
+      "url": "https://arstechnica.com/ai/2026/06/gemini-3-5-and-antigravity-come-to-google-notebooklm/",
+      "publishedAt": "2026-06-08T19:00:30Z",
+      "processed_at": "2026-06-10T10:03:38.117947+00:00"
     },
     {
-      "title": "The 13 Biggest Reveals During All Of Summer Game Fest 2026 - Kotaku",
+      "title": "macOS 27 'Golden Gate' delivers more Liquid Glass and updated Siri - AppleInsider",
       "source": {
-        "name": "Kotaku"
+        "name": "AppleInsider"
       },
-      "description": "From a new Spyro to our first real look at the Final Fantasy 7 remake trilogy's last installment, he...",
-      "url": "https://kotaku.com/the-13-biggest-video-game-reveals-and-surprises-from-all-of-sgfs-showcases-2000704059",
-      "publishedAt": "2026-06-08T20:48:04Z",
-      "processed_at": "2026-06-10T05:19:57.144128+00:00"
-    },
-    {
-      "title": "Apple puts parents back in control of kids’ iPhone use - TechCrunch",
-      "source": {
-        "name": "TechCrunch"
-      },
-      "description": "Apple is putting control back into the hands of parents with more granular screen time features....",
-      "url": "https://techcrunch.com/2026/06/08/apple-puts-parents-back-in-control-of-kids-iphone-use/",
-      "publishedAt": "2026-06-08T18:07:32Z",
-      "processed_at": "2026-06-10T05:19:57.144128+00:00"
-    },
-    {
-      "title": "'It's very aesthetically pleasing.' Prada and Axiom just revealed the stylish cooling suit Artemis astronuats will wear under their spacesuit on the moon - Space",
-      "source": {
-        "name": "Space.com"
-      },
-      "description": "Prada (yes, that Prada) and Axiom Space are taking spacesuits up a notch with this liquid cooling ve...",
-      "url": "https://www.space.com/space-exploration/human-spaceflight/its-very-aesthetically-pleasing-prada-and-axiom-just-revealed-the-stylish-cooling-suit-artemis-astronuats-will-wear-under-their-spacesuit-on-the-moon",
-      "publishedAt": "2026-06-08T12:00:00Z",
-      "processed_at": "2026-06-10T05:19:57.144128+00:00"
+      "description": "",
+      "url": "https://appleinsider.com/articles/26/06/08/macos-27-golden-gate-delivers-more-liquid-glass-and-updated-siri",
+      "publishedAt": "2026-06-08T18:08:23Z",
+      "processed_at": "2026-06-10T10:03:38.117947+00:00"
     }
   ],
-  "lastUpdated": "2026-06-10T05:19:57.144198+00:00",
+  "lastUpdated": "2026-06-10T10:03:38.118024+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
