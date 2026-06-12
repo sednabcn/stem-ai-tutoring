@@ -1,16 +1,46 @@
 {
   "status": "success",
-  "totalResults": 10,
+  "totalResults": 9,
   "articles": [
     {
-      "title": "Xbox CEO Gives A Good Explanation For Why A Console Now Costs $800 - Forbes",
+      "title": "Stranger Than Heaven Devs Say Adding Tupac To The Game Was A ‘Good Idea’ - Kotaku",
       "source": {
-        "name": "Forbes"
+        "name": "Kotaku"
       },
-      "description": "Xbox prices have skyrocketed, but there's a reason for that which is out of Microsoft's control, as ...",
-      "url": "https://www.forbes.com/sites/paultassi/2026/06/11/xbox-ceo-gives-a-good-explanation-for-why-a-console-now-costs-800/",
-      "publishedAt": "2026-06-11T13:35:14Z",
-      "processed_at": "2026-06-12T16:19:23.438121+00:00"
+      "description": "'This was something we thought would add value to our game,' said Masayoshi Yokoyama...",
+      "url": "https://kotaku.com/stranger-than-heaven-devs-say-adding-tupac-to-the-game-was-a-good-idea-2000705565",
+      "publishedAt": "2026-06-11T15:35:14Z",
+      "processed_at": "2026-06-12T19:05:32.107575+00:00"
+    },
+    {
+      "title": "PS5's God of War Laufey Dominated Summer Game Fest - Push Square",
+      "source": {
+        "name": "Push Square"
+      },
+      "description": "Topped engagement index by a mile...",
+      "url": "https://www.pushsquare.com/news/2026/06/ps5s-god-of-war-laufey-dominated-summer-game-fest",
+      "publishedAt": "2026-06-11T14:45:00Z",
+      "processed_at": "2026-06-12T19:05:32.107575+00:00"
+    },
+    {
+      "title": "Spyro’s Big Comeback Wouldn’t Be Possible Without First Escaping The Call Of Duty Mines - Kotaku",
+      "source": {
+        "name": "Kotaku"
+      },
+      "description": "Toys for Bob studio head Paul Yan said they bought their independence from Microsoft to 'get back to...",
+      "url": "https://kotaku.com/spyros-big-comeback-wouldnt-be-possible-without-first-escaping-the-call-of-duty-mines-2000705537",
+      "publishedAt": "2026-06-11T13:53:19Z",
+      "processed_at": "2026-06-12T19:05:32.107575+00:00"
+    },
+    {
+      "title": "Kingdom Hearts 4 PS5 Release Date Hopium Hits New High - Push Square",
+      "source": {
+        "name": "Push Square"
+      },
+      "description": "Is it closer than we think?...",
+      "url": "https://www.pushsquare.com/news/2026/06/kingdom-hearts-4-ps5-release-date-hopium-hits-new-high",
+      "publishedAt": "2026-06-11T13:45:00Z",
+      "processed_at": "2026-06-12T19:05:32.107575+00:00"
     },
     {
       "title": "Preview: Tomb Raider: Legacy Of Atlantis Sees An \"Unfettered\" Lara Put The Survivor Era Behind Her - Nintendo Life",
@@ -20,17 +50,27 @@
       "description": "\"It’s a blue sky horizon ahead of her\"...",
       "url": "https://www.nintendolife.com/previews/tomb-raider-legacy-of-atlantis-sees-an-unfettered-lara-put-the-survivor-era-behind-her",
       "publishedAt": "2026-06-11T13:30:00Z",
-      "processed_at": "2026-06-12T16:19:23.438121+00:00"
+      "processed_at": "2026-06-12T19:05:32.107575+00:00"
     },
     {
       "title": "The Legend of Heroes: Trails from Zero - Gematsu",
       "source": {
         "name": "Gematsu"
       },
-      "description": "",
+      "description": "The PlayStation 5 and Switch 2 versions of Falcom-developed story RPGs The Legend of Heroes: Trails ...",
       "url": "https://www.gematsu.com/2026/06/the-legend-of-heroes-trails-from-zero-and-the-legend-of-heroes-trails-to-azure-for-ps5-switch-2-launch-september-10",
       "publishedAt": "2026-06-11T13:18:38Z",
-      "processed_at": "2026-06-12T16:19:23.438121+00:00"
+      "processed_at": "2026-06-12T19:05:32.107575+00:00"
+    },
+    {
+      "title": "Apple Maps to Get These 10 New Features in iOS 27 - MacRumors",
+      "source": {
+        "name": "MacRumors"
+      },
+      "description": "Apple Maps is getting a range of new features in iOS 27, headlined by an upgraded Flyover experience...",
+      "url": "https://www.macrumors.com/2026/06/11/apple-maps-to-get-these-10-new-features-in-ios-27/",
+      "publishedAt": "2026-06-11T12:45:07Z",
+      "processed_at": "2026-06-12T19:05:32.107575+00:00"
     },
     {
       "title": "How To Unlock Destiny 2’s Two Secret, Final Endings - Forbes",
@@ -40,7 +80,7 @@
       "description": "Destiny 2 may be ending abruptly, but Bungie has put in two secret endings that you'll have to work ...",
       "url": "https://www.forbes.com/sites/paultassi/2026/06/11/how-to-unlock-destiny-2s-two-secret-final-endings/",
       "publishedAt": "2026-06-11T12:42:40Z",
-      "processed_at": "2026-06-12T16:19:23.438121+00:00"
+      "processed_at": "2026-06-12T19:05:32.107575+00:00"
     },
     {
       "title": "Minecraft 26.2 Release Candidate 1 - Minecraft",
@@ -50,60 +90,10 @@
       "description": "Minecraft 26.2 Release Candidate 1...",
       "url": "https://www.minecraft.net/en-us/article/minecraft-26-2-release-candidate-1",
       "publishedAt": "2026-06-11T12:42:27Z",
-      "processed_at": "2026-06-12T16:19:23.438121+00:00"
-    },
-    {
-      "title": "Five things I like (and one thing I still want) in the macOS 27 Golden Gate beta - Ars Technica",
-      "source": {
-        "name": "Ars Technica"
-      },
-      "description": "AI aside, Golden Gate includes a bunch of subtle-but-helpful improvements....",
-      "url": "https://arstechnica.com/gadgets/2026/06/five-things-i-like-and-one-thing-i-still-want-in-the-macos-27-golden-gate-beta/",
-      "publishedAt": "2026-06-11T11:00:32Z",
-      "processed_at": "2026-06-12T16:19:23.438121+00:00"
-    },
-    {
-      "title": "iFixit Trump phone teardown confirms it’s an HTC dupe - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "The Trump Mobile T1 Phone’s internals are almost identical to the ‘made in China’ HTC U24 Pro’s, iFi...",
-      "url": "https://www.theverge.com/gadgets/948262/trump-phone-t1-ifixit-teardown-htc-u24-pro",
-      "publishedAt": "2026-06-11T10:40:21Z",
-      "processed_at": "2026-06-12T16:19:23.438121+00:00"
-    },
-    {
-      "title": "‘We Wanted To Match the Original and Go Beyond’ – Alien: Isolation 2’s Director on Improving a Survivor Horror Icon - IGN",
-      "source": {
-        "name": "IGN"
-      },
-      "description": "Alien: Isolation 2's director discusses the long wait for the sequel, and how the new game needs to ...",
-      "url": "https://www.ign.com/articles/we-wanted-to-match-the-original-and-go-beyond-alien-isolation-2s-director-on-improving-a-survivor-horror-icon",
-      "publishedAt": "2026-06-11T08:10:38Z",
-      "processed_at": "2026-06-12T16:19:23.438121+00:00"
-    },
-    {
-      "title": "Deezer launches an AI music detector for other streaming services - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "Since the competition won’t buy Deezer’s AI music detection tech, they’re bringing it directly to us...",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/948153/deezer-ai-music-detector-spotify-apple",
-      "publishedAt": "2026-06-11T08:00:00Z",
-      "processed_at": "2026-06-12T16:19:23.438121+00:00"
-    },
-    {
-      "title": "Galaxy S25 gets Galaxy S26's two Galaxy AI features missing from its One UI 8.5 update - SamMobile",
-      "source": {
-        "name": "SamMobile"
-      },
-      "description": "A few moments ago, Samsung released a software update for the Galaxy S25 series that brings the June...",
-      "url": "https://www.sammobile.com/news/galaxy-s25-gets-galaxy-s26s-two-galaxy-ai-features-missing-from-its-one-ui-8-5-update/",
-      "publishedAt": "2026-06-11T07:00:00Z",
-      "processed_at": "2026-06-12T16:19:23.438121+00:00"
+      "processed_at": "2026-06-12T19:05:32.107575+00:00"
     }
   ],
-  "lastUpdated": "2026-06-12T16:19:23.438198+00:00",
+  "lastUpdated": "2026-06-12T19:05:32.107650+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
