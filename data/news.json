@@ -3,54 +3,94 @@
   "totalResults": 10,
   "articles": [
     {
-      "title": "Framework delays its first Laptop 13 Pro shipments by a month - The Verge",
+      "title": "Five things I like (and one thing I still want) in the macOS 27 Golden Gate beta - Ars Technica",
+      "source": {
+        "name": "Ars Technica"
+      },
+      "description": "AI aside, Golden Gate includes a bunch of subtle-but-helpful improvements....",
+      "url": "https://arstechnica.com/gadgets/2026/06/five-things-i-like-and-one-thing-i-still-want-in-the-macos-27-golden-gate-beta/",
+      "publishedAt": "2026-06-11T11:00:32Z",
+      "processed_at": "2026-06-12T12:25:01.692185+00:00"
+    },
+    {
+      "title": "iFixit Trump phone teardown confirms it’s an HTC dupe - The Verge",
       "source": {
         "name": "The Verge"
       },
-      "description": "Framework’s new flagship Laptop 13 Pro is delayed a month, with first batch shipments now expected i...",
-      "url": "https://www.theverge.com/gadgets/948044/framework-laptop-13-pro-delay-shipment-july-august",
-      "publishedAt": "2026-06-10T23:12:51Z",
-      "processed_at": "2026-06-12T08:57:57.534363+00:00"
+      "description": "The Trump Mobile T1 Phone’s internals are almost identical to the ‘made in China’ HTC U24 Pro’s, iFi...",
+      "url": "https://www.theverge.com/gadgets/948262/trump-phone-t1-ifixit-teardown-htc-u24-pro",
+      "publishedAt": "2026-06-11T10:40:21Z",
+      "processed_at": "2026-06-12T12:25:01.692185+00:00"
     },
     {
-      "title": "Yet more layoffs reported at Ubisoft, this time in San Francisco - GamesIndustry.biz",
-      "source": {
-        "name": "GamesIndustry.biz"
-      },
-      "description": "On the same day as Ubisoft announced it was closing its studios in Winnipeg and Belgrade and proposi...",
-      "url": "https://www.gamesindustry.biz/yet-more-layoffs-reported-at-ubisoft-this-time-in-san-francisco",
-      "publishedAt": "2026-06-10T23:06:00Z",
-      "processed_at": "2026-06-12T08:57:57.534363+00:00"
-    },
-    {
-      "title": "Apple’s new Siri AI knows when to shut up - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "Apple’s new Siri AI is finally here, and so far, it seems like it works. My biggest impression so fa...",
-      "url": "https://www.theverge.com/tech/948155/apple-siri-ai-chatbot-personality",
-      "publishedAt": "2026-06-10T22:52:17Z",
-      "processed_at": "2026-06-12T08:57:57.534363+00:00"
-    },
-    {
-      "title": "Gears of War: E-Day – Everything We Learned Behind Closed Doors at Xbox - IGN",
+      "title": "‘We Wanted To Match the Original and Go Beyond’ – Alien: Isolation 2’s Director on Improving a Survivor Horror Icon - IGN",
       "source": {
         "name": "IGN"
       },
-      "description": "IGN interviews The Coalition to find out more on Xbox console exclusive Gears of War: E-Day....",
-      "url": "https://www.ign.com/articles/gears-e-day-devs-on-gears-lore-game-length-new-movement-mechanics-and-ai",
-      "publishedAt": "2026-06-10T20:56:57Z",
-      "processed_at": "2026-06-12T08:57:57.534363+00:00"
+      "description": "Alien: Isolation 2's director discusses the long wait for the sequel, and how the new game needs to ...",
+      "url": "https://www.ign.com/articles/we-wanted-to-match-the-original-and-go-beyond-alien-isolation-2s-director-on-improving-a-survivor-horror-icon",
+      "publishedAt": "2026-06-11T08:10:38Z",
+      "processed_at": "2026-06-12T12:25:01.692185+00:00"
     },
     {
-      "title": "New Destiny 3 Event is Officially Happening on June 17 - GameRant",
+      "title": "Deezer launches an AI music detector for other streaming services - The Verge",
       "source": {
-        "name": "GameRant"
+        "name": "The Verge"
       },
-      "description": "A new event in support of Destiny 3, or at least a continuation of Destiny 2, is taking place on Jun...",
-      "url": "https://gamerant.com/new-destiny-3-event-is-officially-happening-on-june-17/",
-      "publishedAt": "2026-06-10T20:45:26Z",
-      "processed_at": "2026-06-12T08:57:57.534363+00:00"
+      "description": "Since the competition won’t buy Deezer’s AI music detection tech, they’re bringing it directly to us...",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/948153/deezer-ai-music-detector-spotify-apple",
+      "publishedAt": "2026-06-11T08:00:00Z",
+      "processed_at": "2026-06-12T12:25:01.692185+00:00"
+    },
+    {
+      "title": "Galaxy S25 gets Galaxy S26's two Galaxy AI features missing from its One UI 8.5 update - SamMobile",
+      "source": {
+        "name": "SamMobile"
+      },
+      "description": "A few moments ago, Samsung released a software update for the Galaxy S25 series that brings the June...",
+      "url": "https://www.sammobile.com/news/galaxy-s25-gets-galaxy-s26s-two-galaxy-ai-features-missing-from-its-one-ui-8-5-update/",
+      "publishedAt": "2026-06-11T07:00:00Z",
+      "processed_at": "2026-06-12T12:25:01.692185+00:00"
+    },
+    {
+      "title": "Satya Nadella is trying to rein in the tokenmaxxers at Microsoft - Business Insider",
+      "source": {
+        "name": "Business Insider"
+      },
+      "description": "Microsoft's CEO said workers should use the right AI model for the job as companies look for ways to...",
+      "url": "https://www.businessinsider.com/satya-nadella-tokenmaxxing-microsoft-rein-in-2026-6",
+      "publishedAt": "2026-06-11T04:18:57Z",
+      "processed_at": "2026-06-12T12:25:01.692185+00:00"
+    },
+    {
+      "title": "Square Enix Releases Final Fantasy XIV Online Switch 2 Gameplay Trailer - Nintendo Life",
+      "source": {
+        "name": "Nintendo Life"
+      },
+      "description": "Early access begins this August...",
+      "url": "https://www.nintendolife.com/news/2026/06/square-enix-releases-final-fantasy-xiv-online-switch-2-gameplay-trailer",
+      "publishedAt": "2026-06-11T02:00:00Z",
+      "processed_at": "2026-06-12T12:25:01.692185+00:00"
+    },
+    {
+      "title": "The wide Samsung Galaxy Z Fold8 and the Galaxy Watch Ultra 2 receive new certifications - GSMArena.com news - GSMArena.com",
+      "source": {
+        "name": "GSMArena.com"
+      },
+      "description": "They will both be available in India, unsurprisingly. Samsung's upcoming wide-format Galaxy Z Fold, ...",
+      "url": "https://www.gsmarena.com/the_wide_samsung_galaxy_z_fold8_and_the_galaxy_watch_ultra_2_receive_new_certifications-news-73219.php",
+      "publishedAt": "2026-06-11T01:01:02Z",
+      "processed_at": "2026-06-12T12:25:01.692185+00:00"
+    },
+    {
+      "title": "Report: Ubisoft Announces More Studio Closures And Layoffs Amid New Organizational Restructuring - Game Informer",
+      "source": {
+        "name": "Gameinformer.com"
+      },
+      "description": "Ubisoft's Winnipeg and Belgrade studios have reportedly closed their doors....",
+      "url": "https://gameinformer.com/2026/06/10/report-ubisoft-announces-more-studio-closures-and-layoffs-amid-new-organizational",
+      "publishedAt": "2026-06-10T22:57:29Z",
+      "processed_at": "2026-06-12T12:25:01.692185+00:00"
     },
     {
       "title": "Apple Shares Massive List of Over 250 Changes Across iOS 27, macOS Golden Gate, and More - MacRumors",
@@ -60,50 +100,10 @@
       "description": "During its WWDC 2026 keynote on Monday, Apple briefly showed a slide with hundreds of new features a...",
       "url": "https://www.macrumors.com/2026/06/10/apple-lists-250-changes-ios-27-and-more/",
       "publishedAt": "2026-06-10T20:34:00Z",
-      "processed_at": "2026-06-12T08:57:57.534363+00:00"
-    },
-    {
-      "title": "The Super Hero Team-based PVP Shooter - Marvel Rivals",
-      "source": {
-        "name": "Marvelrivals.com"
-      },
-      "description": "Play for free Now! Get ready to Ignite the Battle with Marvel Rivals!...",
-      "url": "https://www.marvelrivals.com/20260610/41525_1303717.html",
-      "publishedAt": "2026-06-10T18:54:11Z",
-      "processed_at": "2026-06-12T08:57:57.534363+00:00"
-    },
-    {
-      "title": "Amazon’s Echo speakers can now help kids wind down and fall asleep - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "Amazon’s new Sleep Studio turns Echo and Echo Kids speakers into a tool to help kids wind-down and m...",
-      "url": "https://www.theverge.com/tech/947871/amazon-sleep-studio-echo-kids-smart-speakers-calm-moshi-headspace",
-      "publishedAt": "2026-06-10T16:54:17Z",
-      "processed_at": "2026-06-12T08:57:57.534363+00:00"
-    },
-    {
-      "title": "Sony 'Exploring New Ways' to Deliver PS Plus Games - Push Square",
-      "source": {
-        "name": "Push Square"
-      },
-      "description": "Spreading things out...",
-      "url": "https://www.pushsquare.com/news/2026/06/sony-exploring-new-ways-to-deliver-ps-plus-games",
-      "publishedAt": "2026-06-10T16:00:00Z",
-      "processed_at": "2026-06-12T08:57:57.534363+00:00"
-    },
-    {
-      "title": "Killer Bean Is A Very, Very Bad Game - Kotaku",
-      "source": {
-        "name": "Kotaku"
-      },
-      "description": "Some cool ideas don't make this open-world action-shooter worth playing...",
-      "url": "https://kotaku.com/killer-bean-is-a-very-very-bad-game-2000704867",
-      "publishedAt": "2026-06-10T15:45:34Z",
-      "processed_at": "2026-06-12T08:57:57.534363+00:00"
+      "processed_at": "2026-06-12T12:25:01.692185+00:00"
     }
   ],
-  "lastUpdated": "2026-06-12T08:57:57.534452+00:00",
+  "lastUpdated": "2026-06-12T12:25:01.692263+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
