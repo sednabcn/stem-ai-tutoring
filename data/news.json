@@ -3,6 +3,16 @@
   "totalResults": 10,
   "articles": [
     {
+      "title": "NYT Strands hints, answers for June 12, 2026 - Mashable",
+      "source": {
+        "name": "Mashable"
+      },
+      "description": "Every hint, nudge and outright answer you need to complete today's NYT Strands puzzle....",
+      "url": "https://mashable.com/entertainment/strands-nyt-hint-june-12-2026",
+      "publishedAt": "2026-06-12T23:29:43Z",
+      "processed_at": "2026-06-14T08:41:05.290230+00:00"
+    },
+    {
       "title": "'The Only Way to Keep Bungie Alive Is to Support Marathon,' Ex-Destiny Community Manager Says - IGN",
       "source": {
         "name": "IGN"
@@ -10,7 +20,7 @@
       "description": "As Destiny 2 fans mourn the game's final update, Bungie's former community manager has said its play...",
       "url": "https://www.ign.com/articles/the-only-way-to-keep-bungie-alive-is-to-support-marathon-ex-destiny-community-manager-says",
       "publishedAt": "2026-06-12T21:59:38Z",
-      "processed_at": "2026-06-14T04:15:19.156816+00:00"
+      "processed_at": "2026-06-14T08:41:05.290230+00:00"
     },
     {
       "title": "Poll: How do you feel about Street Fighter 6 Season 4's bold direction, and are you interested in Tifa and the newcomers? - EventHubs",
@@ -20,7 +30,17 @@
       "description": "After months of supposed leaks and speculation, Street Fighter 6's Season 4 plans were officially re...",
       "url": "https://www.eventhubs.com/news/2026/jun/12/street-fighter-season-4-poll/",
       "publishedAt": "2026-06-12T21:44:50Z",
-      "processed_at": "2026-06-14T04:15:19.156816+00:00"
+      "processed_at": "2026-06-14T08:41:05.290230+00:00"
+    },
+    {
+      "title": "iOS 27 brings new keyboards and typing improvements across multiple languages - 9to5Mac",
+      "source": {
+        "name": "9to5Mac"
+      },
+      "description": "Among the many tidbits coming to iOS 27 is support for a new set of keyboards, including Afrikaans, ...",
+      "url": "https://9to5mac.com/2026/06/12/ios-27-brings-new-keyboards-and-typing-improvements-across-multiple-languages/",
+      "publishedAt": "2026-06-12T21:16:00Z",
+      "processed_at": "2026-06-14T08:41:05.290230+00:00"
     },
     {
       "title": "Zelda: Ocarina of Time Nintendo Switch 2 remake was one of the most popular titles of Summer Game Fest 2026, according to data - Nintendo Everything",
@@ -30,7 +50,27 @@
       "description": "Top 10 most popular games of Summer Games Fest revealed, with Zelda: Ocarina of Time remake placing ...",
       "url": "https://nintendoeverything.com/zelda-ocarina-of-time-nintendo-switch-2-remake-was-one-of-the-most-popular-titles-of-summer-game-fest-2026-according-to-data/",
       "publishedAt": "2026-06-12T21:12:02Z",
-      "processed_at": "2026-06-14T04:15:19.156816+00:00"
+      "processed_at": "2026-06-14T08:41:05.290230+00:00"
+    },
+    {
+      "title": "How to See Which Mac Apps Will Stop Working After macOS Golden Gate - MacRumors",
+      "source": {
+        "name": "MacRumors"
+      },
+      "description": "Apple is phasing out support for Rosetta 2, which is a feature that allows Intel-based apps to run o...",
+      "url": "https://www.macrumors.com/2026/06/12/macos-golden-gate-rosetta-support/",
+      "publishedAt": "2026-06-12T21:05:57Z",
+      "processed_at": "2026-06-14T08:41:05.290230+00:00"
+    },
+    {
+      "title": "Scarlett Johansson's Jurassic World Rebirth 2 Potential Gets New Update From Writer - ScreenRant",
+      "source": {
+        "name": "Screen Rant"
+      },
+      "description": "",
+      "url": "https://screenrant.com/jurassic-world-rebirth-2-update-future-writer-david-koepp/",
+      "publishedAt": "2026-06-12T19:20:38Z",
+      "processed_at": "2026-06-14T08:41:05.290230+00:00"
     },
     {
       "title": "GameStop Employees Panic As Pro Membership Gets Way Worse - Kotaku",
@@ -40,7 +80,17 @@
       "description": "The Pro Membership is getting nerfed and staff are ready to revolt...",
       "url": "https://kotaku.com/one-of-the-only-good-things-left-about-gamestop-is-about-to-get-worse-2000706035",
       "publishedAt": "2026-06-12T19:15:56Z",
-      "processed_at": "2026-06-14T04:15:19.156816+00:00"
+      "processed_at": "2026-06-14T08:41:05.290230+00:00"
+    },
+    {
+      "title": "Everything We Know About Persona 6, the Next Mainline Release in Atlus's Iconic RPG Series - IGN",
+      "source": {
+        "name": "IGN"
+      },
+      "description": "After years of hints and leaks, Atlus has officially announced Persona 6. Here's everything we know ...",
+      "url": "https://www.ign.com/articles/everything-we-know-about-persona-6",
+      "publishedAt": "2026-06-12T18:10:07Z",
+      "processed_at": "2026-06-14T08:41:05.290230+00:00"
     },
     {
       "title": "32 Games You Should Check Out In Nintendo's Multiplayer eShop Sale (Europe) - Nintendo Life",
@@ -50,60 +100,10 @@
       "description": "Every game we scored 9/10 or higher...",
       "url": "https://www.nintendolife.com/guides/32-games-you-should-check-out-in-nintendos-multiplayer-eshop-sale-europe",
       "publishedAt": "2026-06-12T18:03:25Z",
-      "processed_at": "2026-06-14T04:15:19.156816+00:00"
-    },
-    {
-      "title": "AMD Stiffs Researcher $10,000 Bug Bounty After Critical Security Flaw, Takes 124 Days to Fix - Gadget Review",
-      "source": {
-        "name": "Gadgetreview.com"
-      },
-      "description": "AMD's auto-updater downloaded software over insecure HTTP, letting attackers inject malware during u...",
-      "url": "https://www.gadgetreview.com/amd-stiffs-researcher-10000-bug-bounty-after-critical-security-flaw-takes-124-days-to-fix",
-      "publishedAt": "2026-06-12T17:17:12Z",
-      "processed_at": "2026-06-14T04:15:19.156816+00:00"
-    },
-    {
-      "title": "Huawei’s HarmonyOS Can Be Further Optimized To Run On 64KB RAM While Running On A Single Dry Cell Battery For A Year, Says Executive Director - Wccftech",
-      "source": {
-        "name": "Wccftech"
-      },
-      "description": "At the Huawei Developer Conference 2026, an executive makes a bold claim stating that the HarmonyOS ...",
-      "url": "https://wccftech.com/huawei-executive-says-harmonyos-can-be-optimized-to-run-on-64kb-ram/",
-      "publishedAt": "2026-06-12T16:07:00Z",
-      "processed_at": "2026-06-14T04:15:19.156816+00:00"
-    },
-    {
-      "title": "I held the Trump phone - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "After spending a few moments with the Trump phone and a real, solid gold iPhone, I can’t say there’s...",
-      "url": "https://www.theverge.com/tech/948464/trump-phone-t1-hands-on",
-      "publishedAt": "2026-06-12T16:05:00Z",
-      "processed_at": "2026-06-14T04:15:19.156816+00:00"
-    },
-    {
-      "title": "Nintendo Fans Lose It Over Switch Sports Resort's 'Colonization' - Kotaku",
-      "source": {
-        "name": "Kotaku"
-      },
-      "description": "'It's been ethnically cleansed and gentrified,' one fan wrote...",
-      "url": "https://kotaku.com/fans-hate-on-switch-sports-resorts-new-sportsmates-for-colonizing-wuhu-islands-sacred-mii-territory-2000704934",
-      "publishedAt": "2026-06-12T15:02:25Z",
-      "processed_at": "2026-06-14T04:15:19.156816+00:00"
-    },
-    {
-      "title": "Waze's traffic lights feature continues to roll out to more users - GSMArena.com",
-      "source": {
-        "name": "GSMArena.com"
-      },
-      "description": "Waze started testing the feature last December. Last December, we heard that Waze - a crowd-sourced ...",
-      "url": "https://www.gsmarena.com/waze_traffic_lights_feature_gradual_rollout-news-73251.php",
-      "publishedAt": "2026-06-12T14:37:02Z",
-      "processed_at": "2026-06-14T04:15:19.156816+00:00"
+      "processed_at": "2026-06-14T08:41:05.290230+00:00"
     }
   ],
-  "lastUpdated": "2026-06-14T04:15:19.156891+00:00",
+  "lastUpdated": "2026-06-14T08:41:05.290319+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
