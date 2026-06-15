@@ -1,7 +1,97 @@
 {
   "status": "success",
-  "totalResults": 9,
+  "totalResults": 10,
   "articles": [
+    {
+      "title": "Onimusha: Way Of The Sword Switch 2 Resolution And Frame Rate Revealed - Nintendo Life",
+      "source": {
+        "name": "Nintendo Life"
+      },
+      "description": "Here's what you can expect...",
+      "url": "https://www.nintendolife.com/news/2026/06/onimusha-way-of-the-sword-switch-2-resolution-and-frame-rate-revealed",
+      "publishedAt": "2026-06-14T00:30:00Z",
+      "processed_at": "2026-06-15T06:25:55.165834+00:00"
+    },
+    {
+      "title": "Bambuddy Says Bye To Bambu Lab Cloud Services - Hackaday",
+      "source": {
+        "name": "Hackaday"
+      },
+      "description": "If you have a Bambu Labs printer and aren’t keen to send your files to Bambu’s servers with each pri...",
+      "url": "https://hackaday.com/2026/06/13/bambuddy-says-bye-to-bambu-lab-cloud-services/",
+      "publishedAt": "2026-06-13T23:00:00Z",
+      "processed_at": "2026-06-15T06:25:55.165834+00:00"
+    },
+    {
+      "title": "iOS 27 adds an all-new app to your iPhone’s Home Screen - 9to5Mac",
+      "source": {
+        "name": "9to5Mac"
+      },
+      "description": "Apple announced iOS 27 at WWDC this week, coming with a ton of new Siri and Apple Intelligence featu...",
+      "url": "https://9to5mac.com/2026/06/13/ios-27-adds-an-all-new-app-to-your-iphones-home-screen/",
+      "publishedAt": "2026-06-13T22:53:00Z",
+      "processed_at": "2026-06-15T06:25:55.165834+00:00"
+    },
+    {
+      "title": "Google has a free flight simulator you can pilot - USA Today",
+      "source": {
+        "name": "USA Today"
+      },
+      "description": "There's a free Google Earth Flight Simulator available now that you can pilot over 3D maps using a w...",
+      "url": "https://www.usatoday.com/story/money/2026/06/13/google-free-flight-simulator/90539296007/",
+      "publishedAt": "2026-06-13T21:44:00Z",
+      "processed_at": "2026-06-15T06:25:55.165834+00:00"
+    },
+    {
+      "title": "Famitsu review scores - June 13, 2026 - first score for The Adventures of Elliot: The Millennium Tales - Nintendo Everything",
+      "source": {
+        "name": "Nintendoeverything.com"
+      },
+      "description": "The latest Famitsu review scores for the week of June 13, 2026 are as follows: 007 First Light – 9/9...",
+      "url": "https://nintendoeverything.com/famitsu-review-scores-june-14-2026-first-score-for-the-adventures-of-elliot-the-millennium-tales/",
+      "publishedAt": "2026-06-13T20:32:22Z",
+      "processed_at": "2026-06-15T06:25:55.165834+00:00"
+    },
+    {
+      "title": "Send Crimson Desert your \"fun and incredible videos\", and you could win an all-expenses-paid trip to South Korea - Eurogamer",
+      "source": {
+        "name": "Eurogamer.net"
+      },
+      "description": "Crimson Desert, the open-world action RPG from Pearl Abyss, has a new challenge for Greymanes – a co...",
+      "url": "https://www.eurogamer.net/crimson-desert-video-challenge-trip-korea",
+      "publishedAt": "2026-06-13T19:42:29Z",
+      "processed_at": "2026-06-15T06:25:55.165834+00:00"
+    },
+    {
+      "title": "Gemini's Daily Brief replaced my morning routine, and I'm shocked how well it works - Android Police",
+      "source": {
+        "name": "Android Police"
+      },
+      "description": "Gemini's Daily Brief provides helpful nudges and reminders, making mornings easier...",
+      "url": "https://www.androidpolice.com/gemini-daily-brief-replaced-morning-routine-shocked-well-works/",
+      "publishedAt": "2026-06-13T19:00:11Z",
+      "processed_at": "2026-06-15T06:25:55.165834+00:00"
+    },
+    {
+      "title": "Bungie’s Last ‘Destiny 2’ Update Is a Bittersweet Blast - Gizmodo",
+      "source": {
+        "name": "Gizmodo.com"
+      },
+      "description": "The 'Monuments of Triumph' update lets 'Destiny 2' go out on its own terms, tie up some threads, and...",
+      "url": "https://gizmodo.com/bungies-last-destiny-2-update-is-a-bittersweet-blast-2000771352",
+      "publishedAt": "2026-06-13T18:50:28Z",
+      "processed_at": "2026-06-15T06:25:55.165834+00:00"
+    },
+    {
+      "title": "DJI and Insta360 go to war in the U.S. over its action gimbal cameras - Mashable",
+      "source": {
+        "name": "Mashable"
+      },
+      "description": "Insta360's Luna Ultra and DJI's Osmo Pocket 4 Pro can't compete among consumers in the U.S. due to t...",
+      "url": "https://mashable.com/tech/dji-insta360-action-gimbal-cameras-patent-lawsuits",
+      "publishedAt": "2026-06-13T18:37:47Z",
+      "processed_at": "2026-06-15T06:25:55.165834+00:00"
+    },
     {
       "title": "Sealed Super Mario Bros. sells for a record $3 million - The Verge",
       "source": {
@@ -10,90 +100,10 @@
       "description": "The vintage gaming collectibles market keeps getting more ridiculous as a sealed Super Mario Bros. f...",
       "url": "https://www.theverge.com/games/949593/super-mario-bros-3-million-auction",
       "publishedAt": "2026-06-13T18:37:21Z",
-      "processed_at": "2026-06-15T00:11:45.060383+00:00"
-    },
-    {
-      "title": "\"We Have The Means To Fight This Case To The End\" - Gaming's Most Infamous Trademark Troll Is Back - Time Extension",
-      "source": {
-        "name": "Timeextension.com"
-      },
-      "description": "\"We intend to expose Tim Langdell for what he is\"...",
-      "url": "https://www.timeextension.com/news/2026/06/we-have-the-means-to-fight-this-case-to-the-end-gamings-most-infamous-trademark-troll-is-back",
-      "publishedAt": "2026-06-13T18:00:00Z",
-      "processed_at": "2026-06-15T00:11:45.060383+00:00"
-    },
-    {
-      "title": "Apple iPhone 18 Pro Release Date: How WWDC 2026 Clues Signal September Launch Details - Forbes",
-      "source": {
-        "name": "Forbes"
-      },
-      "description": "Apple's WWDC 2026 schedule mirrors last year's rollout, offering fresh clues about when the iPhone 1...",
-      "url": "https://www.forbes.com/sites/davidphelan/2026/06/13/apple-iphone-18-pro-release-date-september-2026/",
-      "publishedAt": "2026-06-13T17:11:43Z",
-      "processed_at": "2026-06-15T00:11:45.060383+00:00"
-    },
-    {
-      "title": "Tomb Raider's new star reveals her 'classic' and 'unapologetic' approach to Lara Croft - Polygon.com",
-      "source": {
-        "name": "Polygon"
-      },
-      "description": "Alix Wilton Regan plays Lara Croft in Tomb Raider: Legacy of Atlantis, and she's aiming to bring bac...",
-      "url": "https://www.polygon.com/tomb-raider-legacy-of-atlantis-alex-wilton-regan-interview/",
-      "publishedAt": "2026-06-13T16:00:20Z",
-      "processed_at": "2026-06-15T00:11:45.060383+00:00"
-    },
-    {
-      "title": "Poll: Are You Happy with Your PS Plus Extra, Premium Games for June 2026? - Push Square",
-      "source": {
-        "name": "Push Square"
-      },
-      "description": "Plus or minus?...",
-      "url": "https://www.pushsquare.com/features/poll-are-you-happy-with-your-ps-plus-extra-premium-games-for-june-2026",
-      "publishedAt": "2026-06-13T16:00:00Z",
-      "processed_at": "2026-06-15T00:11:45.060383+00:00"
-    },
-    {
-      "title": "This Guy Is Trying to Vibe Code GTA 6 Before Its Official Release - Gizmodo",
-      "source": {
-        "name": "Gizmodo.com"
-      },
-      "description": "An AI startup founder is using Claude to make a GTA ripoff....",
-      "url": "https://gizmodo.com/this-guy-is-trying-to-vibe-code-gta-6-before-its-official-release-2000771395",
-      "publishedAt": "2026-06-13T15:23:54Z",
-      "processed_at": "2026-06-15T00:11:45.060383+00:00"
-    },
-    {
-      "title": "Every Major Streaming Device Brand Ranked Worst To Best - SlashGear",
-      "source": {
-        "name": "SlashGear"
-      },
-      "description": "Nvidia, Apple, and Roku lead our ranking of the best streaming device brands, while Google, Amazon, ...",
-      "url": "https://www.slashgear.com/2191988/every-major-streaming-device-brand-ranked-worst-to-best/",
-      "publishedAt": "2026-06-13T15:15:00Z",
-      "processed_at": "2026-06-15T00:11:45.060383+00:00"
-    },
-    {
-      "title": "Have One of These 16 Apple Devices? Software Support Ends This Fall - MacRumors",
-      "source": {
-        "name": "MacRumors"
-      },
-      "description": "Apple will end software support for 16 devices this fall across four product lines, with the Apple W...",
-      "url": "https://www.macrumors.com/2026/06/13/these-16-apple-devices-lose-software-support-this-fall/",
-      "publishedAt": "2026-06-13T15:00:00Z",
-      "processed_at": "2026-06-15T00:11:45.060383+00:00"
-    },
-    {
-      "title": "XBOX reportedly loses hundreds of dollars per console as Microsoft weighs XBOX spinoff options - VideoCardz.com",
-      "source": {
-        "name": "Videocardz.com"
-      },
-      "description": "Memory prices are said to be putting more pressure on Xbox hardware margins....",
-      "url": "https://videocardz.com/newz/xbox-reportedly-loses-hundreds-of-dollars-per-console-as-microsoft-weighs-xbox-spinoff-options",
-      "publishedAt": "2026-06-13T14:53:47Z",
-      "processed_at": "2026-06-15T00:11:45.060383+00:00"
+      "processed_at": "2026-06-15T06:25:55.165834+00:00"
     }
   ],
-  "lastUpdated": "2026-06-15T00:11:45.060450+00:00",
+  "lastUpdated": "2026-06-15T06:25:55.165941+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
