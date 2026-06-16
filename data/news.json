@@ -1,7 +1,47 @@
 {
   "status": "success",
-  "totalResults": 9,
+  "totalResults": 10,
   "articles": [
+    {
+      "title": "DOKAPON 3-2-1: Super Collection! coming to PC on June 29 - Gematsu",
+      "source": {
+        "name": "Gematsu"
+      },
+      "description": "Sting will release sugoroku RPG bundle DOKAPON 3-2-1: Super Collection! for PC via Steam on June 29,...",
+      "url": "https://www.gematsu.com/2026/06/dokapon-3-2-1-super-collection-coming-to-pc-on-june-29",
+      "publishedAt": "2026-06-15T02:35:11Z",
+      "processed_at": "2026-06-16T04:22:19.139651+00:00"
+    },
+    {
+      "title": "Everything Announced at the Dead by Daylight 10th Anniversary Broadcast (Updating Live) - IGN",
+      "source": {
+        "name": "IGN"
+      },
+      "description": "Behaviour Interactive just finished celebrating Dead by Daylight with its 10th Anniversary Broadcast...",
+      "url": "https://www.ign.com/articles/dead-by-daylight-10th-anniversary-broadcast-everything-announced",
+      "publishedAt": "2026-06-15T02:31:00Z",
+      "processed_at": "2026-06-16T04:22:19.139651+00:00"
+    },
+    {
+      "title": "Halo PS5 Poised to Sell Extremely Well, Topping PS Store Charts Around the World - Push Square",
+      "source": {
+        "name": "Push Square"
+      },
+      "description": "Belief in Master Chief...",
+      "url": "https://www.pushsquare.com/news/2026/06/halo-ps5-poised-to-sell-extremely-well-topping-ps-store-charts-around-the-world",
+      "publishedAt": "2026-06-15T00:00:00Z",
+      "processed_at": "2026-06-16T04:22:19.139651+00:00"
+    },
+    {
+      "title": "1993 GMC Typhoon Making 682 HP At The Wheels Says 'Durango Hellcat, Who?' - Jalopnik",
+      "source": {
+        "name": "Jalopnik"
+      },
+      "description": "With the help of a little nitrous, this Typhoon now reportedly makes 682 horsepower....",
+      "url": "https://www.jalopnik.com/2193372/1993-gmc-typhoon-682-hp-for-sale/",
+      "publishedAt": "2026-06-14T22:25:00Z",
+      "processed_at": "2026-06-16T04:22:19.139651+00:00"
+    },
     {
       "title": "Dragon's Dogma 2 discontinues deluxe edition - and withdraws many of its controversial time-saving microtransaction - Eurogamer",
       "source": {
@@ -10,7 +50,17 @@
       "description": "Capcom is discontinuing the deluxe edition of Dragon's Dogma 2 on 24th June, as well as pulling many...",
       "url": "https://www.eurogamer.net/dragon-dogma-2-discontinues-microtransactions",
       "publishedAt": "2026-06-14T20:56:01Z",
-      "processed_at": "2026-06-15T23:46:24.181931+00:00"
+      "processed_at": "2026-06-16T04:22:19.139651+00:00"
+    },
+    {
+      "title": "Users' opinion of T-Mobile reaches a new low after bombshell discovery - PhoneArena",
+      "source": {
+        "name": "PhoneArena"
+      },
+      "description": "",
+      "url": "https://www.phonearena.com/news/t-mobile-t-life-app-selling-user-data_id181081",
+      "publishedAt": "2026-06-14T20:55:39Z",
+      "processed_at": "2026-06-16T04:22:19.139651+00:00"
     },
     {
       "title": "Google ads tease next Pixel Drop with Screen Reactions and Gemini Omni [Video] - 9to5Google",
@@ -20,17 +70,17 @@
       "description": "We’re due for Google’s next Pixel Drop and, thanks to some early ads, we now know that Screen Reacti...",
       "url": "http://9to5google.com/2026/06/14/google-ads-tease-next-pixel-drop-with-screen-reactions-and-gemini-omni-video/",
       "publishedAt": "2026-06-14T20:55:00Z",
-      "processed_at": "2026-06-15T23:46:24.181931+00:00"
+      "processed_at": "2026-06-16T04:22:19.139651+00:00"
     },
     {
-      "title": "Apple's $1,999 Foldable Could Help Keep iPhone Prices In Check - Forbes",
+      "title": "Signal Veterans Want to Encrypt Slack, Google Docs, and Basically Every Other App - Gizmodo",
       "source": {
-        "name": "Forbes"
+        "name": "Gizmodo.com"
       },
-      "description": "Apple's rumored $1,999 foldable iPhone could help absorb rising component costs and reduce pressure ...",
-      "url": "https://www.forbes.com/sites/ewanspence/2026/06/14/foldable-iphone-18-pro-pricing/",
-      "publishedAt": "2026-06-14T20:46:00Z",
-      "processed_at": "2026-06-15T23:46:24.181931+00:00"
+      "description": "Encrypted Spaces provides \"verifiable, encrypted, untrusted storage.”...",
+      "url": "https://gizmodo.com/signal-veterans-want-to-encrypt-slack-google-docs-and-basically-every-other-app-2000771623",
+      "publishedAt": "2026-06-14T19:54:15Z",
+      "processed_at": "2026-06-16T04:22:19.139651+00:00"
     },
     {
       "title": "Pilots And Flight Attendants Reveal What Passengers Do That's Way More Risky Than You Think - BuzzFeed",
@@ -40,7 +90,7 @@
       "description": "\"The reason they tell you to ask the cabin crew for help if you lose your phone is not to be friendl...",
       "url": "https://www.buzzfeed.com/jake_farrington/pilots-flight-attendants-important-tips-reddit",
       "publishedAt": "2026-06-14T19:21:02Z",
-      "processed_at": "2026-06-15T23:46:24.181931+00:00"
+      "processed_at": "2026-06-16T04:22:19.139651+00:00"
     },
     {
       "title": "Is SMIC N+3’s Metal Pitch Smaller than Intel 18A’s? - SemiAnalysis",
@@ -50,50 +100,10 @@
       "description": "SMIC N+3 Node Deep Dive vs TSMC N6, TechInsights Private Equity Sale, SemiAnalysis Teardown Engineer...",
       "url": "https://newsletter.semianalysis.com/p/steel-smic-n3-teardown",
       "publishedAt": "2026-06-14T19:14:21Z",
-      "processed_at": "2026-06-15T23:46:24.181931+00:00"
-    },
-    {
-      "title": "I stopped relying on Google Play for apps, and here's what I switched to - Android Police",
-      "source": {
-        "name": "Android Police"
-      },
-      "description": "This app store made me forget Google Play...",
-      "url": "https://www.androidpolice.com/found-better-google-play-alternative/",
-      "publishedAt": "2026-06-14T19:01:14Z",
-      "processed_at": "2026-06-15T23:46:24.181931+00:00"
-    },
-    {
-      "title": "Report: Unannounced The Witcher Multiplayer Game Slated for PC & Mobile; Gameplay Details Revealed - MP1st",
-      "source": {
-        "name": "http://mp1st.com/category/news"
-      },
-      "description": "Exclusive details on a new unannounced Witcher multiplayer title reveal a F2P co-op action RPG set i...",
-      "url": "https://mp1st.com/news/unannounced-witcher-multiplayer-game-details-pc-mobile",
-      "publishedAt": "2026-06-14T18:26:10Z",
-      "processed_at": "2026-06-15T23:46:24.181931+00:00"
-    },
-    {
-      "title": "Sunday Preview – Hedonites head into battle along with a new General’s Handbook - Warhammer Community",
-      "source": {
-        "name": "Warhammer-community.com"
-      },
-      "description": "Next week’s pre-orders include Hedonites of Slaanesh, Skaven, and a new edition of False Gods....",
-      "url": "https://www.warhammer-community.com/articles/0y4dh0xg/sunday-preview-hedonites-head-into-battle-along-with-a-new-generals-handbook",
-      "publishedAt": "2026-06-14T16:59:51Z",
-      "processed_at": "2026-06-15T23:46:24.181931+00:00"
-    },
-    {
-      "title": "Microsoft released the Windows 11 Secure Boot update for all PCs, how to verify yours - Windows Latest",
-      "source": {
-        "name": "WindowsLatest"
-      },
-      "description": "Secure Boot 2023 is now rolling out to most Windows 11 PCs via the June update. Check your status an...",
-      "url": "https://www.windowslatest.com/2026/06/14/microsoft-released-the-windows-11-secure-boot-update-for-all-pcs-how-to-verify-yours/",
-      "publishedAt": "2026-06-14T16:13:27Z",
-      "processed_at": "2026-06-15T23:46:24.181931+00:00"
+      "processed_at": "2026-06-16T04:22:19.139651+00:00"
     }
   ],
-  "lastUpdated": "2026-06-15T23:46:24.182006+00:00",
+  "lastUpdated": "2026-06-16T04:22:19.139729+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
