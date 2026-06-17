@@ -1,6 +1,6 @@
 {
   "status": "success",
-  "totalResults": 10,
+  "totalResults": 9,
   "articles": [
     {
       "title": "Xbox is closing down Hellblade creator Ninja Theory - The Verge",
@@ -10,17 +10,37 @@
       "description": "Xbox is closing down Ninja Theory, the studio behind the Hellblade series, a source tells The Verge....",
       "url": "https://www.theverge.com/games/950204/xbox-ninja-theory-shutdown-hellblade-senua",
       "publishedAt": "2026-06-15T21:13:35Z",
-      "processed_at": "2026-06-16T22:12:51.760651+00:00"
+      "processed_at": "2026-06-17T00:17:44.965359+00:00"
     },
     {
-      "title": "Call Of Duty Studio Treyarch Is Losing Its Studio Head Of Nearly A Decade - Kotaku",
+      "title": "Gemini suddenly can’t make calls on Android and Android Auto for some - 9to5Google",
       "source": {
-        "name": "Kotaku"
+        "name": "9to5google.com"
       },
-      "description": "Mark Gordon had been with the studio since 2005, and served as studio head since 2016...",
-      "url": "https://kotaku.com/call-of-duty-studio-treyarch-loses-studio-head-mark-gordon-2000706712",
-      "publishedAt": "2026-06-15T19:40:10Z",
-      "processed_at": "2026-06-16T22:12:51.760651+00:00"
+      "description": "The transition to Gemini on Android Auto has been a bit rough for a number of reasons, but a current...",
+      "url": "http://9to5google.com/2026/06/15/gemini-suddenly-cant-make-calls-on-android-and-android-auto-for-some/",
+      "publishedAt": "2026-06-15T20:55:00Z",
+      "processed_at": "2026-06-17T00:17:44.965359+00:00"
+    },
+    {
+      "title": "More Galaxy Z Fold 8 ‘Ultra’ leaks confirm it looks just like a normal Samsung foldable - 9to5Google",
+      "source": {
+        "name": "9to5google.com"
+      },
+      "description": "Previous reports indicated that Samsung has reassigned the standard naming scheme to a shorter, wide...",
+      "url": "http://9to5google.com/2026/06/15/galaxy-z-fold-8-ultra-fcc-leak/",
+      "publishedAt": "2026-06-15T19:37:00Z",
+      "processed_at": "2026-06-17T00:17:44.965359+00:00"
+    },
+    {
+      "title": "Gran Turismo 7 Daily Races: Payday on the Expressway - GTPlanet",
+      "source": {
+        "name": "GTPlanet"
+      },
+      "description": "A new week brings a new set of Gran Turismo 7 Daily Races, with three fresh events now live and runn...",
+      "url": "https://www.gtplanet.net/gran-turismo-7-daily-races-payday-on-the-expressway-20260615/",
+      "publishedAt": "2026-06-15T19:27:22Z",
+      "processed_at": "2026-06-17T00:17:44.965359+00:00"
     },
     {
       "title": "Apple explains why Siri’s major iOS 27 overhaul took so long - 9to5Mac",
@@ -30,7 +50,7 @@
       "description": "iOS 27’s new Siri AI is a huge upgrade from the old Siri, but it also took longer than expected to a...",
       "url": "https://9to5mac.com/2026/06/15/apple-explains-why-siris-major-ios-27-overhaul-took-so-long/",
       "publishedAt": "2026-06-15T19:19:00Z",
-      "processed_at": "2026-06-16T22:12:51.760651+00:00"
+      "processed_at": "2026-06-17T00:17:44.965359+00:00"
     },
     {
       "title": "Steam Next Fest Is Flooded With AI Games And It Sucks - Kotaku",
@@ -40,7 +60,27 @@
       "description": "The event has been flooded by games containing AI-generated content...",
       "url": "https://kotaku.com/exploring-steam-next-fest-with-an-ai-blocking-extension-is-very-depressing-2000706695",
       "publishedAt": "2026-06-15T19:14:00Z",
-      "processed_at": "2026-06-16T22:12:51.760651+00:00"
+      "processed_at": "2026-06-17T00:17:44.965359+00:00"
+    },
+    {
+      "title": "Treyarch Studio Head Stepping Down After 22 Years - Insider Gaming",
+      "source": {
+        "name": "Insider-gaming.com"
+      },
+      "description": "Mark Gordon, the studio head at Treyarch, has stepped down from his role after 22 years at the studi...",
+      "url": "https://insider-gaming.com/mark-gordon-treyarch-stepping-down/",
+      "publishedAt": "2026-06-15T18:54:29Z",
+      "processed_at": "2026-06-17T00:17:44.965359+00:00"
+    },
+    {
+      "title": "Preorders For Kingdom Hearts Collection I-III - GameSpot",
+      "source": {
+        "name": "GameSpot"
+      },
+      "description": "Apparently it's the final, final Kingdom Hearts collection....",
+      "url": "https://www.gamespot.com/articles/preorders-for-kingdom-hearts-collection-i-iii/",
+      "publishedAt": "2026-06-15T18:52:57Z",
+      "processed_at": "2026-06-17T00:17:44.965359+00:00"
     },
     {
       "title": "FBI issues urgent Kali365 security warning for Teams, Outlook, OneDrive users - NewsNation",
@@ -50,60 +90,10 @@
       "description": "The agency warned that the hacking platform Kali365 seeks out OAuth device codes, allowing scammers ...",
       "url": "https://www.newsnationnow.com/business/tech/kali365-security-warning-teams-outlook-onedrive/",
       "publishedAt": "2026-06-15T18:38:40Z",
-      "processed_at": "2026-06-16T22:12:51.760651+00:00"
-    },
-    {
-      "title": "Final Fantasy Resonance Interview: The First HD-2D FF Was Conceptualized 6-7 Years Ago and Inspired by Final Fantasy V - IGN",
-      "source": {
-        "name": "IGN"
-      },
-      "description": "Final Fantasy Resonance's producer and director talk with IGN about how Final Fantasy V and VI inspi...",
-      "url": "https://www.ign.com/articles/final-fantasy-resonance-interview-the-first-hd-2d-ff-was-conceptualized-6-7-years-ago-and-inspired-by-final-fantasy-v",
-      "publishedAt": "2026-06-15T18:16:04Z",
-      "processed_at": "2026-06-16T22:12:51.760651+00:00"
-    },
-    {
-      "title": "Google Chrome is closing the loopholes that let old ad blockers keep working - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "Google is removing code in Chrome that allowed workarounds for running older ad blockers, two years ...",
-      "url": "https://www.theverge.com/tech/950005/google-chrome-removing-ad-blocker-loopholes",
-      "publishedAt": "2026-06-15T18:06:18Z",
-      "processed_at": "2026-06-16T22:12:51.760651+00:00"
-    },
-    {
-      "title": "Users cry foul after AMD stripped memory crypto from its consumer CPUs - Ars Technica",
-      "source": {
-        "name": "Ars Technica"
-      },
-      "description": "AMD's stripping of TSME from consumer CPUs appears to be a deliberate, covert move....",
-      "url": "https://arstechnica.com/security/2026/06/users-cry-foul-after-amd-stripped-memory-crypto-from-its-consumer-cpus/",
-      "publishedAt": "2026-06-15T17:55:46Z",
-      "processed_at": "2026-06-16T22:12:51.760651+00:00"
-    },
-    {
-      "title": "No iPhone 18 This Year, Apple Supplier Comments Seemingly Confirm - MacRumors",
-      "source": {
-        "name": "MacRumors"
-      },
-      "description": "Apple's standard iPhone 18 model will launch in early 2027, based on comments from a partner in the ...",
-      "url": "https://www.macrumors.com/2026/06/15/no-iphone-18-this-year-apple-supplier-confirms/",
-      "publishedAt": "2026-06-15T17:51:57Z",
-      "processed_at": "2026-06-16T22:12:51.760651+00:00"
-    },
-    {
-      "title": "South of Midnight Maker Said to Be Shuttered by Xbox - Push Square",
-      "source": {
-        "name": "Push Square"
-      },
-      "description": "Update: Double Fine, Ninja Theory, and Compulsion named...",
-      "url": "https://www.pushsquare.com/news/2026/06/several-xbox-studios-at-risk-of-closure-in-talks-to-become-independent",
-      "publishedAt": "2026-06-15T17:30:00Z",
-      "processed_at": "2026-06-16T22:12:51.760651+00:00"
+      "processed_at": "2026-06-17T00:17:44.965359+00:00"
     }
   ],
-  "lastUpdated": "2026-06-16T22:12:51.760730+00:00",
+  "lastUpdated": "2026-06-17T00:17:44.965439+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
