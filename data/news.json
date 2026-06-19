@@ -3,14 +3,64 @@
   "totalResults": 10,
   "articles": [
     {
-      "title": "Succumb to Temptation with Hedonites of Slaanesh - Warhammer Community",
+      "title": "This Spirited New Puzzle Platformer Puts A Clever Spin On Celeste - Kotaku",
+      "source": {
+        "name": "Kotaku"
+      },
+      "description": "Tethergeist is a clever spin on a familiar genre, with a parade of new and interesting ideas giving ...",
+      "url": "https://kotaku.com/celeste-like-puzzle-platformer-tethergeist-indie-2000708091",
+      "publishedAt": "2026-06-18T15:49:25Z",
+      "processed_at": "2026-06-19T18:54:57.869867+00:00"
+    },
+    {
+      "title": "Scientists Made a Car Paint So Black It Looks Like a Hole in Reality - Gizmodo",
+      "source": {
+        "name": "Gizmodo.com"
+      },
+      "description": "Researchers with Singapore-based Nipsea have created a new “ultra-black coating” that absorbs an ave...",
+      "url": "https://gizmodo.com/scientists-made-a-car-paint-so-black-it-looks-like-a-hole-in-reality-2000773588",
+      "publishedAt": "2026-06-18T15:00:07Z",
+      "processed_at": "2026-06-19T18:54:57.869867+00:00"
+    },
+    {
+      "title": "Warriors of Armageddon – Painted by the Warhammer community - Warhammer Community",
       "source": {
         "name": "Warhammer-community.com"
       },
-      "description": "Learn about the new battle traits for the Hedonites of Slaanesh in Warhammer Age of Sigmar....",
-      "url": "https://www.warhammer-community.com/articles/75cyi2wg/succumb-to-temptation",
-      "publishedAt": "2026-06-18T14:25:41Z",
-      "processed_at": "2026-06-19T16:01:32.590573+00:00"
+      "description": "See community painters tackle new Orks and Space Marines miniatures for Warhammer 40,000....",
+      "url": "https://www.warhammer-community.com/articles/gksheuhx/warriors-of-armageddon-painted-by-the-warhammer-community",
+      "publishedAt": "2026-06-18T14:55:51Z",
+      "processed_at": "2026-06-19T18:54:57.869867+00:00"
+    },
+    {
+      "title": "Google Calendar finally has more color options for events - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "Running out of color options for events in Google Calendar shouldn’t be an issue going forward thank...",
+      "url": "https://www.theverge.com/tech/952123/google-calendar-event-color-options-expansion",
+      "publishedAt": "2026-06-18T14:32:16Z",
+      "processed_at": "2026-06-19T18:54:57.869867+00:00"
+    },
+    {
+      "title": "Digimon Story: Time Stranger free update launches July 9, adds Terriermon Assistant, Graphics Mode options, more - Gematsu",
+      "source": {
+        "name": "Gematsu"
+      },
+      "description": "Publisher Bandai Namco and developer Media.Vision will release a free update for Digimon Story: Time...",
+      "url": "https://www.gematsu.com/2026/06/digimon-story-time-stranger-free-update-launches-july-9-adds-terriermon-assistant-graphics-mode-options-more",
+      "publishedAt": "2026-06-18T14:28:06Z",
+      "processed_at": "2026-06-19T18:54:57.869867+00:00"
+    },
+    {
+      "title": "If AI Is Sentient Then So Is ‘Age of Empires II’ - 404 Media",
+      "source": {
+        "name": "404media.co"
+      },
+      "description": "“The point of the paper is to formally show that we anthropomorphise too readily.\"...",
+      "url": "https://www.404media.co/if-ai-is-sentient-then-so-is-age-of-empires-ii/",
+      "publishedAt": "2026-06-18T14:25:44Z",
+      "processed_at": "2026-06-19T18:54:57.869867+00:00"
     },
     {
       "title": "Gabe Newell, founder of Bellevue’s Valve, buys $70.8M Florida mansion - The Seattle Times",
@@ -20,17 +70,7 @@
       "description": "The 20,000-square-foot house spans from the ocean to the Intracoastal Waterway, with a private dock ...",
       "url": "https://www.seattletimes.com/business/real-estate/gabe-newell-founder-of-bellevues-valve-buys-70-8m-florida-mansion/",
       "publishedAt": "2026-06-18T14:20:47Z",
-      "processed_at": "2026-06-19T16:01:32.590573+00:00"
-    },
-    {
-      "title": "Grand Theft Auto VI Cover and Pre-Order Date Revealed in New Viral Video Months Before Release - Bleacher Report",
-      "source": {
-        "name": "Bleacher Report"
-      },
-      "description": "Video game fans were given a treat on Thursday morning, as the official cover art for the highly ant...",
-      "url": "https://bleacherreport.com/articles/25442069-grand-theft-auto-vi-cover-and-pre-order-date-revealed-new-viral-video-months-release",
-      "publishedAt": "2026-06-18T14:03:45Z",
-      "processed_at": "2026-06-19T16:01:32.590573+00:00"
+      "processed_at": "2026-06-19T18:54:57.869867+00:00"
     },
     {
       "title": "No, Sony Did Not End ‘Destiny 2’ To Get ‘Revenge’ On Bungie - Forbes",
@@ -40,70 +80,30 @@
       "description": "New reporting says that Sony closed down Destiny 2 as a sort of revenge for Bungie's influence on it...",
       "url": "https://www.forbes.com/sites/paultassi/2026/06/18/no-sony-did-not-end-destiny-2-to-get-revenge-on-bungie/",
       "publishedAt": "2026-06-18T13:56:36Z",
-      "processed_at": "2026-06-19T16:01:32.590573+00:00"
+      "processed_at": "2026-06-19T18:54:57.869867+00:00"
     },
     {
-      "title": "Is your Pixel running smoother after updating to Android 17? [Poll] - 9to5Google",
+      "title": "Snap's $2,195 AR glasses may have cost an insane amount to develop, analyst estimates - Yahoo Finance",
       "source": {
-        "name": "9to5google.com"
+        "name": "Yahoo Entertainment"
       },
-      "description": "How is the Android 17 performance with your Pixel, and are you experiencing a better device across t...",
-      "url": "http://9to5google.com/2026/06/18/is-your-pixel-running-smoother-after-updating-to-android-17-poll/",
-      "publishedAt": "2026-06-18T12:00:00Z",
-      "processed_at": "2026-06-19T16:01:32.590573+00:00"
+      "description": "Snap stock has had a down week following the hyped reveal of its latest AR glasses....",
+      "url": "https://finance.yahoo.com/markets/article/snaps-2195-ar-glasses-may-have-cost-an-insane-amount-to-develop-analyst-estimates-134930607.html",
+      "publishedAt": "2026-06-18T13:49:30Z",
+      "processed_at": "2026-06-19T18:54:57.869867+00:00"
     },
     {
-      "title": "This Ghost in the Shell keyboard makes me want to activate the hundred spidery robot fingers inside my regular fingers - The Verge",
+      "title": "Grand Theft Auto VI Pre-Order Date And Cover Art Revealed - Game Informer",
       "source": {
-        "name": "The Verge"
+        "name": "Gameinformer.com"
       },
-      "description": "Iqunix’s EV63 Ghost in the Shell Edition mechanical keyboard is an anime fan’s dream: cyberpunk styl...",
-      "url": "https://www.theverge.com/tech/951371/iqunix-ev63-ghost-in-the-shell-edition-anime-gaming-mechanical-keyboard-review",
-      "publishedAt": "2026-06-18T12:00:00Z",
-      "processed_at": "2026-06-19T16:01:32.590573+00:00"
-    },
-    {
-      "title": "Feature: Seven Hilarious Ocarina Of Time Moments I Can't Wait To See In The Zelda Remake - Nintendo Life",
-      "source": {
-        "name": "Nintendo Life"
-      },
-      "description": "WHOOOOAH!...",
-      "url": "https://www.nintendolife.com/features/seven-hilarious-ocarina-of-time-moments-i-cant-wait-to-see-in-the-zelda-remake",
-      "publishedAt": "2026-06-18T12:00:00Z",
-      "processed_at": "2026-06-19T16:01:32.590573+00:00"
-    },
-    {
-      "title": "Earn Special Rewards in GTA Online with the Fine Art Collector Program - Rockstar Games",
-      "source": {
-        "name": "Rockstargames.com"
-      },
-      "description": "Prepare to target the city's cultural centerpiece in The Kortz Center Heist by first enrolling in th...",
-      "url": "https://www.rockstargames.com/newswire/article/4k157o2o8k7o7o/earn-special-rewards-in-gta-online-with-the-fine-art-collector-program",
-      "publishedAt": "2026-06-18T11:55:53Z",
-      "processed_at": "2026-06-19T16:01:32.590573+00:00"
-    },
-    {
-      "title": "Ahead of Xbox Studio 'Bloodbath', Report Lays Out Why the Company is Struggling So Bad - IGN",
-      "source": {
-        "name": "IGN"
-      },
-      "description": "A new report suggests Xbox layoffs will likely result in a \"bloodbath\" of job losses and studio clos...",
-      "url": "https://www.ign.com/articles/amid-concern-over-xbox-studio-bloodbath-new-report-says-developers-are-being-punished-today-for-following-orders",
-      "publishedAt": "2026-06-18T11:47:07Z",
-      "processed_at": "2026-06-19T16:01:32.590573+00:00"
-    },
-    {
-      "title": "Commodore Unveils Linux Powered Flip Phone - Hackaday",
-      "source": {
-        "name": "Hackaday"
-      },
-      "description": "Whatever happens with the new incarnation of the Commodore corporation, we’ll always remember the ol...",
-      "url": "https://hackaday.com/2026/06/18/commodore-unveils-linux-powered-flip-phone/",
-      "publishedAt": "2026-06-18T11:00:00Z",
-      "processed_at": "2026-06-19T16:01:32.590573+00:00"
+      "description": "You may be shocked to learn that the box art looks exactly what you would expect from a GTA game....",
+      "url": "https://gameinformer.com/2026/06/18/grand-theft-auto-vi-pre-order-date-and-cover-art-revealed",
+      "publishedAt": "2026-06-18T13:42:43Z",
+      "processed_at": "2026-06-19T18:54:57.869867+00:00"
     }
   ],
-  "lastUpdated": "2026-06-19T16:01:32.590652+00:00",
+  "lastUpdated": "2026-06-19T18:54:57.869951+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
