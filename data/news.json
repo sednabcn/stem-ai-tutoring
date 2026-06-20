@@ -1,7 +1,17 @@
 {
   "status": "success",
-  "totalResults": 9,
+  "totalResults": 10,
   "articles": [
+    {
+      "title": "Beloved seafood restaurant serves last ever dish before closing after 42yrs - the-sun.com",
+      "source": {
+        "name": "The-sun.com"
+      },
+      "description": "",
+      "url": "https://www.the-sun.com/money/16538263/beloved-seafood-restaurant-serves-last-dish-closing-doors/",
+      "publishedAt": "2026-06-19T09:26:06Z",
+      "processed_at": "2026-06-20T14:14:57.606152+00:00"
+    },
     {
       "title": "Succumb to Temptation with Hedonites of Slaanesh - Warhammer Community",
       "source": {
@@ -10,7 +20,17 @@
       "description": "Learn about the new battle traits for the Hedonites of Slaanesh in Warhammer Age of Sigmar....",
       "url": "https://www.warhammer-community.com/articles/75cyi2wg/succumb-to-temptation",
       "publishedAt": "2026-06-19T08:37:35Z",
-      "processed_at": "2026-06-20T11:56:45.240075+00:00"
+      "processed_at": "2026-06-20T14:14:57.606152+00:00"
+    },
+    {
+      "title": "AI is turning Nintendo and Sony products into accidental luxury goods - Financial Times",
+      "source": {
+        "name": "Financial Times"
+      },
+      "description": "With component-makers busy supplying data centres, console prices are rising as demand outstrips pro...",
+      "url": "https://www.ft.com/content/c1d00925-39b9-43ac-88c7-abe13d1d3f84?syn-25a6b1a6\\\\u003d1",
+      "publishedAt": "2026-06-19T04:00:25Z",
+      "processed_at": "2026-06-20T14:14:57.606152+00:00"
     },
     {
       "title": "Pokémon Pokopia Updated To Version 1.1.1, Here Are The Patch Notes - Nintendo Life",
@@ -20,17 +40,17 @@
       "description": "Includes small but welcome fixes...",
       "url": "https://www.nintendolife.com/news/2026/06/pokemon-pokopia-updated-to-version-1-1-1-here-are-the-patch-notes",
       "publishedAt": "2026-06-19T03:59:19Z",
-      "processed_at": "2026-06-20T11:56:45.240075+00:00"
+      "processed_at": "2026-06-20T14:14:57.606152+00:00"
     },
     {
-      "title": "These 13 Retro Games Are All Getting Revived for the PS5 - Push Square",
+      "title": "Asus releases new gaming laptop globally with 1,600 nit Mini LED display and 175 W GPU - Notebookcheck",
       "source": {
-        "name": "Push Square"
+        "name": "Notebookcheck.net"
       },
-      "description": "The nicher the better...",
-      "url": "https://www.pushsquare.com/news/2026/06/these-13-retro-games-are-all-getting-revived-for-the-ps5",
-      "publishedAt": "2026-06-19T00:30:00Z",
-      "processed_at": "2026-06-20T11:56:45.240075+00:00"
+      "description": "Asus has finally released an ultra-premium gaming laptop globally. With up to 320 W of power under f...",
+      "url": "https://www.notebookcheck.net/Asus-releases-new-gaming-laptop-globally-with-1-600-nit-Mini-LED-display-and-175-W-GPU.1324861.0.html",
+      "publishedAt": "2026-06-19T02:38:00Z",
+      "processed_at": "2026-06-20T14:14:57.606152+00:00"
     },
     {
       "title": "The GTPLAYER Big and Tall Gaming Chair Drops to Less Than $160 Ahead of Amazon Prime Day - IGN",
@@ -40,7 +60,7 @@
       "description": "This is an awesome gift for big and tall dads, as long as he's okay with slightly belated delivery....",
       "url": "https://www.ign.com/articles/gtplayer-big-and-tall-gaming-chair-deal-amazon-fathers-day-sale",
       "publishedAt": "2026-06-18T23:43:20Z",
-      "processed_at": "2026-06-20T11:56:45.240075+00:00"
+      "processed_at": "2026-06-20T14:14:57.606152+00:00"
     },
     {
       "title": "Sony drops “PC”, adds “AI” to official PlayStation business strategy summary - Game File | Stephen Totilo",
@@ -50,7 +70,7 @@
       "description": "Plus: PlayStation division’s headcount went up for the first time since 2023...",
       "url": "https://www.gamefile.news/p/sony-annual-report-fine-print",
       "publishedAt": "2026-06-18T23:43:17Z",
-      "processed_at": "2026-06-20T11:56:45.240075+00:00"
+      "processed_at": "2026-06-20T14:14:57.606152+00:00"
     },
     {
       "title": "Persona 4 Revival Gameplay Showcase Covers Combat Changes, New Content, and More - Push Square",
@@ -60,7 +80,7 @@
       "description": "Prime Time...",
       "url": "https://www.pushsquare.com/news/2026/06/persona-4-revival-gameplay-showcase-covers-combat-changes-new-content-and-more",
       "publishedAt": "2026-06-18T23:30:00Z",
-      "processed_at": "2026-06-20T11:56:45.240075+00:00"
+      "processed_at": "2026-06-20T14:14:57.606152+00:00"
     },
     {
       "title": "Gemini Live can now access your past chats Memory, Connected Apps info - 9to5Google",
@@ -70,7 +90,7 @@
       "description": "Following the big Neural Expressive redesign and new voices last month, Google has updated Gemini Li...",
       "url": "http://9to5google.com/2026/06/18/gemini-live-memory/",
       "publishedAt": "2026-06-18T21:50:00Z",
-      "processed_at": "2026-06-20T11:56:45.240075+00:00"
+      "processed_at": "2026-06-20T14:14:57.606152+00:00"
     },
     {
       "title": "Shinobi: Art of Vengeance coming to Nintendo Switch 2 - Nintendo Everything",
@@ -80,20 +100,10 @@
       "description": "SEGA is putting Shinobi: Art of Vengeance on Nintendo Switch 2, the company just announced. Fans wil...",
       "url": "https://nintendoeverything.com/shinobi-art-of-vengeance-coming-to-nintendo-switch-2/",
       "publishedAt": "2026-06-18T21:32:01Z",
-      "processed_at": "2026-06-20T11:56:45.240075+00:00"
-    },
-    {
-      "title": "Game Informer's Favorite Steam Next Fest Demos – Summer 2026 Edition - Game Informer",
-      "source": {
-        "name": "Gameinformer.com"
-      },
-      "description": "Steam Next Fest is back, so here's a selection of demos the GI Editors have been digging the most....",
-      "url": "https://gameinformer.com/2026/06/18/game-informers-favorite-steam-next-fest-demos-summer-2026-edition",
-      "publishedAt": "2026-06-18T20:38:10Z",
-      "processed_at": "2026-06-20T11:56:45.240075+00:00"
+      "processed_at": "2026-06-20T14:14:57.606152+00:00"
     }
   ],
-  "lastUpdated": "2026-06-20T11:56:45.240168+00:00",
+  "lastUpdated": "2026-06-20T14:14:57.606224+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
