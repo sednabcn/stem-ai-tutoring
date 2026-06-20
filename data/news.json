@@ -3,6 +3,56 @@
   "totalResults": 10,
   "articles": [
     {
+      "title": "Here's What's Leaving the PS Plus Library in July 2026 - IGN",
+      "source": {
+        "name": "IGN"
+      },
+      "description": "It's once again time for Sony's PlayStation Plus library to shed some of its titles, meaning you hav...",
+      "url": "https://www.ign.com/articles/heres-whats-leaving-the-ps-plus-library-in-july-2026",
+      "publishedAt": "2026-06-19T15:46:19Z",
+      "processed_at": "2026-06-20T18:12:51.052371+00:00"
+    },
+    {
+      "title": "Apple just said the thing about Siri that we’ve long wanted to hear - 9to5Mac",
+      "source": {
+        "name": "9to5Mac"
+      },
+      "description": "One key Siri AI upgrade is that it’s the same Siri everywhere, regardless of device—which Apple says...",
+      "url": "https://9to5mac.com/2026/06/19/apple-just-said-the-thing-about-siri-that-weve-long-wanted-to-hear/",
+      "publishedAt": "2026-06-19T15:01:00Z",
+      "processed_at": "2026-06-20T18:12:51.052371+00:00"
+    },
+    {
+      "title": "Researchers uncover an unpatchable security flaw affecting several iPhone generations - GSMArena.com news - GSMArena.com",
+      "source": {
+        "name": "GSMArena.com"
+      },
+      "description": "All devices running A12, A13, S4 and S5 chips are at risk. Researchers at Paradigm Shift published a...",
+      "url": "https://www.gsmarena.com/researchers_uncover_an_unpatchable_security_flaw_affecting_several_iphone_generations-news-73357.php",
+      "publishedAt": "2026-06-19T15:00:02Z",
+      "processed_at": "2026-06-20T18:12:51.052371+00:00"
+    },
+    {
+      "title": "Pragmata makes one achievement easier and adds a cute skin in rare update - TrueAchievements",
+      "source": {
+        "name": "TrueAchievements"
+      },
+      "description": "Capcom's Pragmata is now a little easier to complete thanks to a surprise June 2026 update that also...",
+      "url": "https://www.trueachievements.com/news/pragmata-update-june-2026",
+      "publishedAt": "2026-06-19T14:40:08Z",
+      "processed_at": "2026-06-20T18:12:51.052371+00:00"
+    },
+    {
+      "title": "Take-Two's ex-AI boss says the generative AI hype is \"poisoning the well\" and could ward off all use of traditional AI in the future if it leaves a bad taste in everyone's mouth - Eurogamer",
+      "source": {
+        "name": "Eurogamer.net"
+      },
+      "description": "According to the former head of AI at Take-Two, the hype around generative AI is not healthy, but he...",
+      "url": "https://www.eurogamer.net/take-two-former-ai-head-generative-ai-hype-poisoning-the-well",
+      "publishedAt": "2026-06-19T14:30:28Z",
+      "processed_at": "2026-06-20T18:12:51.052371+00:00"
+    },
+    {
       "title": "Sony’s ‘Destiny 2’ Obliteration Has Almost No Precedent In The Industry - Forbes",
       "source": {
         "name": "Forbes"
@@ -10,100 +60,50 @@
       "description": "Destiny 2 is not just ending, its support is being liquidated. What Sony is doing here is almost ent...",
       "url": "https://www.forbes.com/sites/paultassi/2026/06/19/sonys-destiny-2-obliteration-has-almost-no-precedent-in-the-industry/",
       "publishedAt": "2026-06-19T14:08:01Z",
-      "processed_at": "2026-06-20T16:20:08.283177+00:00"
+      "processed_at": "2026-06-20T18:12:51.052371+00:00"
     },
     {
-      "title": "Apple Explains Why watchOS 27 Drops Support for So Many Models - MacRumors",
+      "title": "watchOS 27 drops support for five Apple Watch models, here’s why - 9to5Mac",
       "source": {
-        "name": "MacRumors"
+        "name": "9to5Mac"
       },
-      "description": "Apple today detailed why five Apple Watch models will miss out on watchOS 27 and the new Siri AI fea...",
-      "url": "https://www.macrumors.com/2026/06/19/apple-explains-why-watchos-27-drops-support/",
-      "publishedAt": "2026-06-19T13:07:11Z",
-      "processed_at": "2026-06-20T16:20:08.283177+00:00"
+      "description": "When Apple announced watchOS 27 last week, one thing people noticed right away was device compatibil...",
+      "url": "https://9to5mac.com/2026/06/19/watchos-27-drops-support-for-five-apple-watch-models-heres-why/",
+      "publishedAt": "2026-06-19T13:34:00Z",
+      "processed_at": "2026-06-20T18:12:51.052371+00:00"
     },
     {
-      "title": "Kaleidescape’s high-end movie player is too legit - The Verge",
+      "title": "Here Are The Patch Notes From Crimson Desert’s Latest Big Update - Forbes",
       "source": {
-        "name": "The Verge"
+        "name": "Forbes"
       },
-      "description": "The Strato E combines the convenience of streaming and the quality of Blu-ray without discs — at a h...",
-      "url": "https://www.theverge.com/tech/951718/kaleidescape-strato-e-review",
-      "publishedAt": "2026-06-19T12:00:00Z",
-      "processed_at": "2026-06-20T16:20:08.283177+00:00"
+      "description": "Crimson Desert has another big patch out, and here's what's been added in the latest version to get ...",
+      "url": "https://www.forbes.com/sites/paultassi/2026/06/19/here-are-the-patch-notes-from-crimson-deserts-latest-big-update/",
+      "publishedAt": "2026-06-19T13:26:59Z",
+      "processed_at": "2026-06-20T18:12:51.052371+00:00"
     },
     {
-      "title": "Activision Confirms Call of Duty: Black Ops Ports to PS5/PS4 Are Not Remasters - Digital Foundry",
+      "title": "\"Clunky\" Epic Games Launcher is getting a \"Ground-up rebuild\" that promises to be at least 5x faster - PC Guide",
       "source": {
-        "name": "Digitalfoundry.net"
+        "name": "Pcguide.com"
       },
-      "description": "Does that mean 120Hz support on PS5 is off the table?...",
-      "url": "https://www.digitalfoundry.net/news/2026/06/activision-confirms-call-of-duty-black-ops-ports-to-ps5ps4-are-not-remasters",
-      "publishedAt": "2026-06-19T12:00:00Z",
-      "processed_at": "2026-06-20T16:20:08.283177+00:00"
+      "description": "The company has confirmed that a major overhaul of the Epic Games Store with several improvements an...",
+      "url": "https://www.pcguide.com/news/clunky-epic-games-launcher-is-getting-a-ground-up-rebuild-that-promises-to-be-at-least-5x-faster/",
+      "publishedAt": "2026-06-19T13:01:40Z",
+      "processed_at": "2026-06-20T18:12:51.052371+00:00"
     },
     {
-      "title": "These 32 Pictures Will Instantly Make You Smile - BuzzFeed",
+      "title": "Game Pass Could’ve Worked, Moon Studios Boss Says, But Xbox Never Delivered the Big Hits It Needed - Wccftech",
       "source": {
-        "name": "Buzzfeed"
+        "name": "Wccftech"
       },
-      "description": "They're just that good....",
-      "url": "https://www.buzzfeed.com/daves4/funny-picture-collection-june-19-2026",
-      "publishedAt": "2026-06-19T11:47:14Z",
-      "processed_at": "2026-06-20T16:20:08.283177+00:00"
-    },
-    {
-      "title": "AI is turning Nintendo and Sony products into accidental luxury goods - Financial Times",
-      "source": {
-        "name": "Financial Times"
-      },
-      "description": "With component-makers busy supplying data centres, console prices are rising as demand outstrips pro...",
-      "url": "https://www.ft.com/content/c1d00925-39b9-43ac-88c7-abe13d1d3f84?syn-25a6b1a6\\\\u003d1",
-      "publishedAt": "2026-06-19T04:00:25Z",
-      "processed_at": "2026-06-20T16:20:08.283177+00:00"
-    },
-    {
-      "title": "Digimon Story Time Stranger Free Update Releasing Alongside Switch Versions - Nintendo Life",
-      "source": {
-        "name": "Nintendo Life"
-      },
-      "description": "Get ready for July...",
-      "url": "https://www.nintendolife.com/news/2026/06/digimon-story-time-stranger-free-update-releasing-alongside-switch-versions",
-      "publishedAt": "2026-06-19T02:55:00Z",
-      "processed_at": "2026-06-20T16:20:08.283177+00:00"
-    },
-    {
-      "title": "Asus releases new gaming laptop globally with 1,600 nit Mini LED display and 175 W GPU - Notebookcheck",
-      "source": {
-        "name": "Notebookcheck.net"
-      },
-      "description": "Asus has finally released an ultra-premium gaming laptop globally. With up to 320 W of power under f...",
-      "url": "https://www.notebookcheck.net/Asus-releases-new-gaming-laptop-globally-with-1-600-nit-Mini-LED-display-and-175-W-GPU.1324861.0.html",
-      "publishedAt": "2026-06-19T02:38:00Z",
-      "processed_at": "2026-06-20T16:20:08.283177+00:00"
-    },
-    {
-      "title": "The GTPLAYER Big and Tall Gaming Chair Drops to Less Than $160 Ahead of Amazon Prime Day - IGN",
-      "source": {
-        "name": "IGN"
-      },
-      "description": "This is an awesome gift for big and tall dads, as long as he's okay with slightly belated delivery....",
-      "url": "https://www.ign.com/articles/gtplayer-big-and-tall-gaming-chair-deal-amazon-fathers-day-sale",
-      "publishedAt": "2026-06-18T23:43:20Z",
-      "processed_at": "2026-06-20T16:20:08.283177+00:00"
-    },
-    {
-      "title": "Sony drops “PC”, adds “AI” to official PlayStation business strategy summary - Game File | Stephen Totilo",
-      "source": {
-        "name": "Gamefile.news"
-      },
-      "description": "Plus: PlayStation division’s headcount went up for the first time since 2023...",
-      "url": "https://www.gamefile.news/p/sony-annual-report-fine-print",
-      "publishedAt": "2026-06-18T23:43:17Z",
-      "processed_at": "2026-06-20T16:20:08.283177+00:00"
+      "description": "Moon Studios boss Thomas Mahler says Game Pass could have worked, but Xbox never delivered the stand...",
+      "url": "https://wccftech.com/game-pass-couldve-worked-xbox-big-hit-needed/",
+      "publishedAt": "2026-06-19T13:00:00Z",
+      "processed_at": "2026-06-20T18:12:51.052371+00:00"
     }
   ],
-  "lastUpdated": "2026-06-20T16:20:08.283260+00:00",
+  "lastUpdated": "2026-06-20T18:12:51.052447+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
