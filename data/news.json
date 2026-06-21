@@ -1,7 +1,17 @@
 {
   "status": "success",
-  "totalResults": 9,
+  "totalResults": 10,
   "articles": [
+    {
+      "title": "Apple’s Early Prime Day Sale Is Live. Grab the Best Deals on MacBooks, iPads and AirPods - CNET",
+      "source": {
+        "name": "CNET"
+      },
+      "description": "Score early Prime Day savings on Apple favorites like AirPods and iPads at Amazon right now....",
+      "url": "https://www.cnet.com/deals/best-prime-day-apple-deals-2026-06-19/",
+      "publishedAt": "2026-06-20T07:42:23Z",
+      "processed_at": "2026-06-21T10:30:24.100907+00:00"
+    },
     {
       "title": "Succumb to Temptation with Hedonites of Slaanesh - Warhammer Community",
       "source": {
@@ -10,7 +20,7 @@
       "description": "Learn about the new battle traits for the Hedonites of Slaanesh in Warhammer Age of Sigmar....",
       "url": "https://www.warhammer-community.com/articles/75cyi2wg/succumb-to-temptation",
       "publishedAt": "2026-06-20T02:50:46Z",
-      "processed_at": "2026-06-21T06:03:08.594987+00:00"
+      "processed_at": "2026-06-21T10:30:24.100907+00:00"
     },
     {
       "title": "What is the Nex Playground console, how much is it and when is it out in the UK? - BBC",
@@ -20,7 +30,7 @@
       "description": "The cube-shaped console will cost £269 (€319) when it is released on 22 June in the UK and Ireland....",
       "url": "https://www.bbc.com/news/articles/czx50rrz7zro",
       "publishedAt": "2026-06-20T01:10:51Z",
-      "processed_at": "2026-06-21T06:03:08.594987+00:00"
+      "processed_at": "2026-06-21T10:30:24.100907+00:00"
     },
     {
       "title": "Nothing cancels this year’s CMF phone due to RAM prices - The Verge",
@@ -30,17 +40,17 @@
       "description": "Nothing isn’t launching a successor to its budget-friendly CMF Phone 2 Pro this year due to skyrocke...",
       "url": "https://www.theverge.com/gadgets/953066/nothing-cmf-phone-delayed-ram-prices",
       "publishedAt": "2026-06-19T21:28:39Z",
-      "processed_at": "2026-06-21T06:03:08.594987+00:00"
+      "processed_at": "2026-06-21T10:30:24.100907+00:00"
     },
     {
-      "title": "Google confirms death of Nest Mini and Nest Audio - Mashable",
+      "title": "Aura’s impressive e-ink photo frame doesn’t even look digital - TechCrunch",
       "source": {
-        "name": "Mashable"
+        "name": "TechCrunch"
       },
-      "description": "Google is just selling one speaker now....",
-      "url": "https://mashable.com/tech/google-nest-mini-audio-discontinued",
-      "publishedAt": "2026-06-19T21:25:10Z",
-      "processed_at": "2026-06-21T06:03:08.594987+00:00"
+      "description": "What's the most cliche possible gift you can give a relative? A digital photo frame, displaying a ro...",
+      "url": "https://techcrunch.com/2026/06/19/auras-impressive-e-ink-photo-frame-doesnt-even-look-digital/",
+      "publishedAt": "2026-06-19T21:00:34Z",
+      "processed_at": "2026-06-21T10:30:24.100907+00:00"
     },
     {
       "title": "Here's why Apple is already dropping support for so many watches in watchOS 27 - GSMArena.com news - GSMArena.com",
@@ -50,7 +60,27 @@
       "description": "It's for your own good, unsurprisingly. At its Worldwide Developers Conference earlier this month, A...",
       "url": "https://www.gsmarena.com/heres_why_apple_is_already_dropping_support_for_so_many_watches_in_watchos_27-news-73362.php",
       "publishedAt": "2026-06-19T21:00:02Z",
-      "processed_at": "2026-06-21T06:03:08.594987+00:00"
+      "processed_at": "2026-06-21T10:30:24.100907+00:00"
+    },
+    {
+      "title": "Microsoft confirms Windows 11 26H2 for fall 2026 release, reveals supported PCs and other details - Windows Latest",
+      "source": {
+        "name": "WindowsLatest"
+      },
+      "description": "Microsoft reveals Windows 11 26H2 will be a 200KB update, killing major feature releases for the sec...",
+      "url": "https://www.windowslatest.com/2026/06/20/microsoft-confirms-windows-11-26h2-for-fall-2026-release-reveals-supported-pcs-and-other-details/",
+      "publishedAt": "2026-06-19T20:35:26Z",
+      "processed_at": "2026-06-21T10:30:24.100907+00:00"
+    },
+    {
+      "title": "Ubisoft Makes 149 Games Available for Free - comicbook.com",
+      "source": {
+        "name": "ComicBook.com"
+      },
+      "description": "Ubisoft has made 149 games available for free for a limited time for PC, Xbox One, and Xbox Series X...",
+      "url": "http://comicbook.com/gaming/news/ubisoft-games-free-download/",
+      "publishedAt": "2026-06-19T20:18:16Z",
+      "processed_at": "2026-06-21T10:30:24.100907+00:00"
     },
     {
       "title": "Hands-On With Ace Combat 8: Triumphant Return After 7 Years - Kotaku",
@@ -60,7 +90,7 @@
       "description": "No Top Gun here, folks!...",
       "url": "https://kotaku.com/hands-on-with-ace-combat-8-incredible-fights-and-spectacular-failures-2000708545",
       "publishedAt": "2026-06-19T19:46:57Z",
-      "processed_at": "2026-06-21T06:03:08.594987+00:00"
+      "processed_at": "2026-06-21T10:30:24.100907+00:00"
     },
     {
       "title": "Unpatchable 'usbliter8' Exploit Breaks Apple A12 and A13 SecureROM Boot Chain - The Hacker News",
@@ -70,30 +100,10 @@
       "description": "Paradigm Shift’s usbliter8 exploit targets Apple A12 and A13 SecureROM via USB DFU mode, creating an...",
       "url": "https://thehackernews.com/2026/06/unpatchable-usbliter8-exploit-breaks.html",
       "publishedAt": "2026-06-19T18:37:00Z",
-      "processed_at": "2026-06-21T06:03:08.594987+00:00"
-    },
-    {
-      "title": "Microsoft confirms Windows 11 26H2, urges IT admins to prepare for release - Neowin",
-      "source": {
-        "name": "Neowin"
-      },
-      "description": "Microsoft officially confirms Windows 11 26H2, revealing a fast enablement-package rollout model and...",
-      "url": "https://www.neowin.net/news/microsoft-confirms-windows-11-26h2-urges-it-admins-to-prepare-for-release/",
-      "publishedAt": "2026-06-19T18:23:00Z",
-      "processed_at": "2026-06-21T06:03:08.594987+00:00"
-    },
-    {
-      "title": "The 5 best gaming deals I'd buy before Prime Day — Asus gaming laptops and Samsung monitors on sale - Mashable",
-      "source": {
-        "name": "Mashable"
-      },
-      "description": "Get the upgrades you've been eyeing before stock dwindles....",
-      "url": "https://mashable.com/tech/best-early-prime-day-gaming-deals-2026",
-      "publishedAt": "2026-06-19T16:42:01Z",
-      "processed_at": "2026-06-21T06:03:08.594987+00:00"
+      "processed_at": "2026-06-21T10:30:24.100907+00:00"
     }
   ],
-  "lastUpdated": "2026-06-21T06:03:08.595062+00:00",
+  "lastUpdated": "2026-06-21T10:30:24.100987+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
