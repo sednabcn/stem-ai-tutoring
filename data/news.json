@@ -1,26 +1,36 @@
 {
   "status": "success",
-  "totalResults": 9,
+  "totalResults": 10,
   "articles": [
     {
-      "title": "Capcom Spotlight set for June 25 - Gematsu",
+      "title": "I’ve built hundreds of Lego sets. These Prime Day deals are worth building yourself - CNN",
       "source": {
-        "name": "Gematsu"
+        "name": "CNN"
       },
-      "description": "Capcom will host a Capcom Spotlight broadcast on June 25 at 2:00 p.m. PT / 5:00 p.m. ET / June 27 at...",
-      "url": "https://www.gematsu.com/2026/06/capcom-spotlight-set-for-june-25",
-      "publishedAt": "2026-06-23T01:37:45Z",
-      "processed_at": "2026-06-24T08:22:28.325380+00:00"
+      "description": "As an avid Lego builder, I found the best Amazon Prime Day deals on Lego Star Wars sets, brick-built...",
+      "url": "https://www.cnn.com/cnn-underscored/deals/best-amazon-prime-day-lego-deals-2026-06-23",
+      "publishedAt": "2026-06-23T07:16:00Z",
+      "processed_at": "2026-06-24T11:45:55.355158+00:00"
     },
     {
-      "title": "Target Just Launched New LEGO Super Mario Deals and Amazon Is Matching For Prime Day 2026 - IGN",
+      "title": "Prime Day is almost here: We found 50+ deals to shop early - Mashable",
       "source": {
-        "name": "IGN"
+        "name": "Mashable"
       },
-      "description": "",
-      "url": "https://www.ign.com/articles/lego-super-mario-set-deals-prime-day-2026",
-      "publishedAt": "2026-06-23T01:37:00Z",
-      "processed_at": "2026-06-24T08:22:28.325380+00:00"
+      "description": "Amazon devices, Kindle bundles, headphones, and portable power stations are highlights....",
+      "url": "https://mashable.com/tech/best-amazon-prime-day-deals-2026",
+      "publishedAt": "2026-06-23T07:15:40Z",
+      "processed_at": "2026-06-24T11:45:55.355158+00:00"
+    },
+    {
+      "title": "Everything New in iOS 27 Beta 2 - MacRumors",
+      "source": {
+        "name": "MacRumors"
+      },
+      "description": "Apple released the second beta of iOS 27 today, and as is common with a second beta, there are multi...",
+      "url": "https://www.macrumors.com/guide/ios-27-features/",
+      "publishedAt": "2026-06-22T23:02:49Z",
+      "processed_at": "2026-06-24T11:45:55.355158+00:00"
     },
     {
       "title": "Samsung Unveils Industry’s Fastest UFS 5.0 Solution for Next-Gen On-Device AI Applications - Samsung",
@@ -30,7 +40,7 @@
       "description": "Samsung Electronics, the world leader in advanced memory technology today announced that, for the fi...",
       "url": "https://news.samsung.com/global/samsung-unveils-industrys-fastest-ufs-5-0-solution-for-next-gen-on-device-ai-applications",
       "publishedAt": "2026-06-22T23:00:00Z",
-      "processed_at": "2026-06-24T08:22:28.325380+00:00"
+      "processed_at": "2026-06-24T11:45:55.355158+00:00"
     },
     {
       "title": "SEGA Shares Lifetime Sales Update for Persona, Metaphor, and Like a Dragon - Push Square",
@@ -40,7 +50,7 @@
       "description": "For the role-players...",
       "url": "https://www.pushsquare.com/news/2026/06/sega-shares-lifetime-sales-update-for-persona-metaphor-and-like-a-dragon",
       "publishedAt": "2026-06-22T23:00:00Z",
-      "processed_at": "2026-06-24T08:22:28.325380+00:00"
+      "processed_at": "2026-06-24T11:45:55.355158+00:00"
     },
     {
       "title": "The 4 PSI Rule For Tires: What Is It, And Is It Reliable? - Jalopnik",
@@ -50,7 +60,7 @@
       "description": "The 4 PSI rule compares cold and hot tire pressures to estimate proper inflation, but its reliabilit...",
       "url": "https://www.jalopnik.com/2199207/is-4-psi-tire-rule-reliable/",
       "publishedAt": "2026-06-22T22:25:00Z",
-      "processed_at": "2026-06-24T08:22:28.325380+00:00"
+      "processed_at": "2026-06-24T11:45:55.355158+00:00"
     },
     {
       "title": "Hideo Kojima Shares New Screenshot Of Upcoming Horror Game OD And…Hey, That Looks Like PT - Kotaku",
@@ -60,7 +70,7 @@
       "description": "Playable Teaser? More like....uh...Passageway...Terrifying!...",
       "url": "https://kotaku.com/hideo-kojima-shares-new-screenshot-od-looks-like-pt-2000709099",
       "publishedAt": "2026-06-22T21:44:02Z",
-      "processed_at": "2026-06-24T08:22:28.325380+00:00"
+      "processed_at": "2026-06-24T11:45:55.355158+00:00"
     },
     {
       "title": "EA is reportedly laying off recruitment, customer support, safety, and IT staff - GamesIndustry.biz",
@@ -70,7 +80,7 @@
       "description": "Electronic Arts (EA) is allegedly initiating another round of cuts, primarily impacting recruitment,...",
       "url": "https://www.gamesindustry.biz/ea-is-reportedly-laying-off-recruitment-customer-support-safety-and-it-staff",
       "publishedAt": "2026-06-22T21:29:34Z",
-      "processed_at": "2026-06-24T08:22:28.325380+00:00"
+      "processed_at": "2026-06-24T11:45:55.355158+00:00"
     },
     {
       "title": "Final Fantasy VII Revelation Director Says Queer Romances Make The World Feel More Real - Kotaku",
@@ -80,20 +90,20 @@
       "description": "Naoki Hamaguchi said that the presence of queer people and relationships in the remake trilogy 'enha...",
       "url": "https://kotaku.com/final-fantasy-7-ff7-remake-revelation-queer-gay-characters-director-hamaguchi-2000709062",
       "publishedAt": "2026-06-22T20:03:46Z",
-      "processed_at": "2026-06-24T08:22:28.325380+00:00"
+      "processed_at": "2026-06-24T11:45:55.355158+00:00"
     },
     {
-      "title": "iOS 27 Beta 2 Adds Inline Replies to iPhone-to-Android RCS Chats - MacRumors",
+      "title": "StarCraft II 5.0.16 Patch Notes - Blizzard News",
       "source": {
-        "name": "MacRumors"
+        "name": "Blizzard.com"
       },
-      "description": "With the second beta of iOS 27, Apple added support for replying to a specific message in an RCS con...",
-      "url": "https://www.macrumors.com/2026/06/22/ios-27-beta-2-inline-replies-rcs/",
-      "publishedAt": "2026-06-22T19:06:13Z",
-      "processed_at": "2026-06-24T08:22:28.325380+00:00"
+      "description": "Patch 5.0.16 has been released with map pool and economy updates, balance changes with expanding str...",
+      "url": "https://news.blizzard.com/en-us/article/24259080/starcraft-ii-5-0-16-patch-notes",
+      "publishedAt": "2026-06-22T18:55:00Z",
+      "processed_at": "2026-06-24T11:45:55.355158+00:00"
     }
   ],
-  "lastUpdated": "2026-06-24T08:22:28.325461+00:00",
+  "lastUpdated": "2026-06-24T11:45:55.355232+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
