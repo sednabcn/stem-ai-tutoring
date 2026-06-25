@@ -1,27 +1,7 @@
 {
   "status": "success",
-  "totalResults": 10,
+  "totalResults": 9,
   "articles": [
-    {
-      "title": "GTA VI is a worrying sign for the future of physical games - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "Rockstar says that physical versions of GTA VI won’t include a disc, and instead will only contain a...",
-      "url": "https://www.theverge.com/games/956389/grand-theft-auto-6-gta-digital-code-in-box-physical-games",
-      "publishedAt": "2026-06-24T18:42:07Z",
-      "processed_at": "2026-06-25T21:43:56.713654+00:00"
-    },
-    {
-      "title": "The 23 best Amazon Prime Day laptop deals, from someone who’s tested them for 13 years - CNN",
-      "source": {
-        "name": "CNN"
-      },
-      "description": "Prime Day is officially here, and our computing expert found some great deals on laptops and compute...",
-      "url": "https://www.cnn.com/cnn-underscored/deals/best-amazon-prime-day-laptop-computer-deals-2026-06-24",
-      "publishedAt": "2026-06-24T18:28:09Z",
-      "processed_at": "2026-06-25T21:43:56.713654+00:00"
-    },
     {
       "title": "Gemini in Chrome adds ‘Select from screen’ tool as Gemini 3.5 Flash gains computer use - 9to5Google",
       "source": {
@@ -30,47 +10,27 @@
       "description": "Gemini in Chrome now lets you focus a prompt with a new \"Select from screen\" tool, while developers ...",
       "url": "http://9to5google.com/2026/06/24/gemini-chrome-select-screen/",
       "publishedAt": "2026-06-24T17:45:00Z",
-      "processed_at": "2026-06-25T21:43:56.713654+00:00"
+      "processed_at": "2026-06-25T23:19:31.026595+00:00"
     },
     {
-      "title": "Facebook rolls out an AI companion app for creators - TechCrunch",
+      "title": "The 35 Best Gaming Deals in the Prime Day Sales — Hand-Picked by Our Deals Experts - IGN",
       "source": {
-        "name": "TechCrunch"
+        "name": "IGN"
       },
-      "description": "The new app, which is currently being tested with select creators, will have Facebook's recently lau...",
-      "url": "https://techcrunch.com/2026/06/24/facebook-rolls-out-an-ai-companion-app-for-creators/",
-      "publishedAt": "2026-06-24T17:16:24Z",
-      "processed_at": "2026-06-25T21:43:56.713654+00:00"
+      "description": "There's a surprisingly healthy amount of video game deals up for grabs in the 2026 Prime Day sales, ...",
+      "url": "https://www.ign.com/articles/best-video-game-deals-prime-day-2026",
+      "publishedAt": "2026-06-24T15:56:50Z",
+      "processed_at": "2026-06-25T23:19:31.026595+00:00"
     },
     {
-      "title": "These are the 20+ best Prime Day phone deals I'd actually buy for myself - ZDNET",
+      "title": "Boffin claims Microsoft's supposed quantum leap does not compute due to 'basic Python errors' - The Register",
       "source": {
-        "name": "ZDNet"
+        "name": "Theregister.com"
       },
-      "description": "Prime Day 2026 has officially started. Save hundreds right now on smartphones, including the Google ...",
-      "url": "https://www.zdnet.com/article/best-amazon-prime-day-phone-deals-2026/",
-      "publishedAt": "2026-06-24T16:49:00Z",
-      "processed_at": "2026-06-25T21:43:56.713654+00:00"
-    },
-    {
-      "title": "The best Prime Day deals on LG, Samsung, and more 4K TVs - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "Prime Day has offered up some fantastic deals on 4K TVs at a range of size and price, from Sony, LG,...",
-      "url": "https://www.theverge.com/gadgets/952282/best-4k-tv-deals-amazon-prime-day-sale",
-      "publishedAt": "2026-06-24T16:00:00Z",
-      "processed_at": "2026-06-25T21:43:56.713654+00:00"
-    },
-    {
-      "title": "Microsoft's claims over its quantum chip questioned in Nature article - BBC",
-      "source": {
-        "name": "Google News"
-      },
-      "description": "",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1rVkNkb3RZdlRDYlNTN0YtdDVoQlY5cTNPTzZoN1VtWFJmeUJwZjREWlhJUGM0MGYxTkZTZUJWNWY2Q3c2YUsta1FqMjJSQnNSY2lDdkNUQVliQQ?oc=5",
-      "publishedAt": "2026-06-24T15:00:34Z",
-      "processed_at": "2026-06-25T21:43:56.713654+00:00"
+      "description": "Nature paper argues researchers cherry-picked data. Redmond insists its work is sound...",
+      "url": "https://www.theregister.com/research/2026/06/24/boffin-claims-microsofts-supposed-quantum-leap-does-not-compute-due-to-basic-python-errors/5260489",
+      "publishedAt": "2026-06-24T15:02:00Z",
+      "processed_at": "2026-06-25T23:19:31.026595+00:00"
     },
     {
       "title": "NSF selects five additional teams in National Quantum Virtual Laboratory design competition - National Science Foundation (.gov)",
@@ -80,30 +40,60 @@
       "description": "The U.S. National Science Foundation has selected five new teams to design experimental quantum tech...",
       "url": "https://www.nsf.gov/news/nsf-selects-five-additional-teams-national-quantum-virtual",
       "publishedAt": "2026-06-24T14:00:08Z",
-      "processed_at": "2026-06-25T21:43:56.713654+00:00"
+      "processed_at": "2026-06-25T23:19:31.026595+00:00"
     },
     {
-      "title": "19 great Prime Day deals on our favorite charging gear - The Verge",
+      "title": "Galaxy Watch Ultra 2 leaks from every angle, and looks pretty familiar [Gallery] - 9to5Google",
       "source": {
-        "name": "The Verge"
+        "name": "9to5google.com"
       },
-      "description": "We found Prime Day discounts on battery packs and chargers from brands like Anker, Belkin, Baseus, a...",
-      "url": "https://www.theverge.com/gadgets/951249/prime-day-chargers-power-banks-deal-sale",
-      "publishedAt": "2026-06-24T14:00:00Z",
-      "processed_at": "2026-06-25T21:43:56.713654+00:00"
+      "description": "Following a Galaxy Watch 9 leak yesterday, new renders of the Galaxy Watch Ultra 2 have hit the web ...",
+      "url": "http://9to5google.com/2026/06/24/galaxy-watch-ultra-2-leaks-from-every-angle-and-looks-pretty-familiar-gallery/",
+      "publishedAt": "2026-06-24T13:25:00Z",
+      "processed_at": "2026-06-25T23:19:31.026595+00:00"
     },
     {
-      "title": "The Best Nintendo Deals at Amazon for Prime Day 2026 (Day 2) - Nintendo Wire",
+      "title": "Google’s New $100 Speaker Makes a Weak Case for Gemini in the Home - Bloomberg",
       "source": {
-        "name": "Nintendo Wire"
+        "name": "Bloomberg"
       },
-      "description": "Welcome back to Day 2 of Amazon Prime Day! Amazon's biggest shopping event outside of Black Friday i...",
-      "url": "https://nintendowire.com/news/2026/06/24/the-best-nintendo-deals-at-amazon-for-prime-day-2026-day-2/",
-      "publishedAt": "2026-06-24T13:41:17Z",
-      "processed_at": "2026-06-25T21:43:56.713654+00:00"
+      "description": "The Google Home Speaker is the first new device of its kind to come from Alphabet Inc. in six years....",
+      "url": "https://www.bloomberg.com/news/features/2026-06-24/google-home-speaker-review-impressive-ai-underwhelming-audio-quality",
+      "publishedAt": "2026-06-24T13:00:15Z",
+      "processed_at": "2026-06-25T23:19:31.026595+00:00"
+    },
+    {
+      "title": "Prime Day 2026: Top Savings on Anker, Beats, TVs, and More Accessories - MacRumors",
+      "source": {
+        "name": "MacRumors"
+      },
+      "description": "Earlier this week we highlighted some of the best Apple-related product discounts that you can find ...",
+      "url": "https://www.macrumors.com/2026/06/24/the-best-prime-day-deals-accessories-3/",
+      "publishedAt": "2026-06-24T12:21:58Z",
+      "processed_at": "2026-06-25T23:19:31.026595+00:00"
+    },
+    {
+      "title": "Star Fox Review: Can't quite teach an old Fox new tricks - NPR",
+      "source": {
+        "name": "NPR"
+      },
+      "description": "The Switch 2 Star Fox remake comes with high-effort visuals and a fun battle mode, but its campaign ...",
+      "url": "https://www.npr.org/2026/06/24/nx-s1-5868629/star-fox-remake-review-switch-2",
+      "publishedAt": "2026-06-24T12:00:00Z",
+      "processed_at": "2026-06-25T23:19:31.026595+00:00"
+    },
+    {
+      "title": "GTA 6 will cost $80 - and physical edition will not contain a disc - BBC",
+      "source": {
+        "name": "BBC News"
+      },
+      "description": "Rockstar has said physical copies of the game will contain a code for a digital download for the gam...",
+      "url": "https://www.bbc.com/news/articles/cjrg52egw1ro",
+      "publishedAt": "2026-06-24T11:35:14Z",
+      "processed_at": "2026-06-25T23:19:31.026595+00:00"
     }
   ],
-  "lastUpdated": "2026-06-25T21:43:56.713770+00:00",
+  "lastUpdated": "2026-06-25T23:19:31.026657+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
