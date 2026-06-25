@@ -1,36 +1,56 @@
 {
   "status": "success",
-  "totalResults": 10,
+  "totalResults": 8,
   "articles": [
     {
-      "title": "35+ of the best Prime Day tech deals, according to a tech editor on a budget - Mashable",
+      "title": "Introducing Grand Seiko Updates The Core Evolution 9 Collection With Tapered Bracelets And Micro-Adjustment Clasps (Live Pics) - Hodinkee",
       "source": {
-        "name": "Mashable"
+        "name": "HODINKEE"
       },
-      "description": "As Mashable's tech editor, I can personally vouch for these deals....",
-      "url": "https://mashable.com/tech/best-amazon-prime-day-tech-deals-2026",
-      "publishedAt": "2026-06-24T07:21:24Z",
-      "processed_at": "2026-06-25T10:43:23.317763+00:00"
+      "description": "A whopping nine new references with both major and subtle tweaks....",
+      "url": "https://www.hodinkee.com/articles/grand-seiko-updates-the-core-evolution-9-collection-with-tapered-bracelets-and-micro-adjustment-clas",
+      "publishedAt": "2026-06-24T07:30:37Z",
+      "processed_at": "2026-06-25T13:20:02.863178+00:00"
     },
     {
-      "title": "Google Home Speaker unboxed early, revealing an unfortunate hardware decision - Android Authority",
+      "title": "Monster Fantasy announced for PC – action RPG with cozy life simulation elements - Gematsu",
       "source": {
-        "name": "Android Authority"
+        "name": "Gematsu"
       },
-      "description": "A user claims they bought the new Google Home Speaker from Walmart, confirming an unfortunate design...",
-      "url": "https://www.androidauthority.com/google-home-speaker-early-unboxing-3680712/",
-      "publishedAt": "2026-06-24T04:41:28Z",
-      "processed_at": "2026-06-25T10:43:23.317763+00:00"
+      "description": "Chengdu-based developer Jotoyo has announced Monster Fantasy, an action RPG with cozy life simulatio...",
+      "url": "https://www.gematsu.com/2026/06/monster-fantasy-announced-for-pc-action-rpg-with-cozy-life-simulation-elements",
+      "publishedAt": "2026-06-24T05:22:40Z",
+      "processed_at": "2026-06-25T13:20:02.863178+00:00"
     },
     {
       "title": "Star Fox Nintendo Switch 2 reviews roundup - Nintendo Everything",
       "source": {
         "name": "Nintendoeverything.com"
       },
-      "description": "",
+      "description": "Here's a full roundup of Star Fox reviews with the game releasing on Nintendo Switch 2 in just a cou...",
       "url": "https://nintendoeverything.com/star-fox-nintendo-switch-2-reviews-roundup/",
       "publishedAt": "2026-06-24T03:55:57Z",
-      "processed_at": "2026-06-25T10:43:23.317763+00:00"
+      "processed_at": "2026-06-25T13:20:02.863178+00:00"
+    },
+    {
+      "title": "The RayNeo Air 4 Pro AR Glasses Drop to a New Low Price for Prime Day - IGN",
+      "source": {
+        "name": "IGN"
+      },
+      "description": "",
+      "url": "https://www.ign.com/articles/the-rayneo-air-4-pro-ar-glasses-drop-to-a-new-low-price-for-prime-day-2026",
+      "publishedAt": "2026-06-24T03:21:00Z",
+      "processed_at": "2026-06-25T13:20:02.863178+00:00"
+    },
+    {
+      "title": "Someone got a Google Home Speaker early, and the big downside is a fixed power cable - 9to5Google",
+      "source": {
+        "name": "9to5google.com"
+      },
+      "description": "The Google Home Speaker is set to start shipping very soon but, ahead of that, one user was able to....",
+      "url": "http://9to5google.com/2026/06/23/google-home-speaker-early-purchase-impressions/",
+      "publishedAt": "2026-06-24T03:15:00Z",
+      "processed_at": "2026-06-25T13:20:02.863178+00:00"
     },
     {
       "title": "Sega Announces Two Sonic Game Collections For Switch - Nintendo Life",
@@ -40,70 +60,30 @@
       "description": "Including a \"Modern\" and \"Classic\" collection...",
       "url": "https://www.nintendolife.com/news/2026/06/sega-announces-two-sonic-game-collections-for-switch",
       "publishedAt": "2026-06-23T23:30:00Z",
-      "processed_at": "2026-06-25T10:43:23.317763+00:00"
+      "processed_at": "2026-06-25T13:20:02.863178+00:00"
     },
     {
-      "title": "Gemini Intelligence makes brief Pixel 10 series appearance on Android 17 QPR1 Beta - 9to5Google",
+      "title": "Android 17 QPR1 Beta 5 is out now for your Pixel phone to test - Android Authority",
       "source": {
-        "name": "9to5google.com"
+        "name": "Android Authority"
       },
-      "description": "Google today is rolling out Android 17 QPR1 Beta 5 and it’s mainly just a bug fixer except for the i...",
-      "url": "http://9to5google.com/2026/06/23/gemini-intelligence-android-17-qpr1-beta-pixel/",
-      "publishedAt": "2026-06-23T22:23:00Z",
-      "processed_at": "2026-06-25T10:43:23.317763+00:00"
+      "description": "We only just got Android 17 stable, but testers are already getting a preview of Android's latest ad...",
+      "url": "https://www.androidauthority.com/android-17-qpr1-beta-5-3680687/",
+      "publishedAt": "2026-06-23T21:34:52Z",
+      "processed_at": "2026-06-25T13:20:02.863178+00:00"
     },
     {
-      "title": "Best Buy Tech Fest: The Biggest Discounts on Headphones, Video Games, and More - PCMag",
+      "title": "Marathon’s New PvE Mode Isn’t Really an Extraction Mode At All - Insider Gaming",
       "source": {
-        "name": "PCMag.com"
+        "name": "Insider-gaming.com"
       },
-      "description": "There's more than one big sale going down today! Over at Best Buy, you can nab some fantastic deals ...",
-      "url": "https://www.pcmag.com/news/best-buy-tech-fest-2026-electronics-sales-discounts-june-23",
-      "publishedAt": "2026-06-23T21:09:47Z",
-      "processed_at": "2026-06-25T10:43:23.317763+00:00"
-    },
-    {
-      "title": "Prime Day has some solid deals on Switch 2, PS5, and Xbox games - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "Consoles are expensive, but Prime Day is proof that good deals on games and accessories for the Nint...",
-      "url": "https://www.theverge.com/gadgets/951901/prime-day-video-games-switch-playstation-xbox-pc-deal-sale",
-      "publishedAt": "2026-06-23T20:00:00Z",
-      "processed_at": "2026-06-25T10:43:23.317763+00:00"
-    },
-    {
-      "title": "DeepMind Chief Demis Hassabis says Google’s still winning AI talent - Semafor",
-      "source": {
-        "name": "Semafor.com"
-      },
-      "description": "Despite the departure of two top AI leaders that sent the company’s stock price down, Hassabis says ...",
-      "url": "https://www.semafor.com/article/06/23/2026/deepmind-chief-demis-hassabis-says-googles-still-winning-ai-talent",
-      "publishedAt": "2026-06-23T19:56:00Z",
-      "processed_at": "2026-06-25T10:43:23.317763+00:00"
-    },
-    {
-      "title": "iOS 27 Wallet App Gets 7 New Features - MacRumors",
-      "source": {
-        "name": "MacRumors"
-      },
-      "description": "Apple is making more of an effort to turn the iPhone into a physical wallet replacement in iOS 27, a...",
-      "url": "https://www.macrumors.com/guide/ios-27-wallet/",
-      "publishedAt": "2026-06-23T19:32:14Z",
-      "processed_at": "2026-06-25T10:43:23.317763+00:00"
-    },
-    {
-      "title": "Prime Day has served up several great deals on 4K TVs - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "Prime Day has offered up some fantastic deals on 4K TVs at a range of size and price, from Sony, LG,...",
-      "url": "https://www.theverge.com/gadgets/952282/best-4k-tv-deals-amazon-prime-day-sale",
-      "publishedAt": "2026-06-23T19:30:00Z",
-      "processed_at": "2026-06-25T10:43:23.317763+00:00"
+      "description": "Marathon is getting a new PvE mode called Vault Breaker, but it doesn't even sound like an extractio...",
+      "url": "https://insider-gaming.com/marathon-pve-mode-not-really-extraction/",
+      "publishedAt": "2026-06-23T21:01:36Z",
+      "processed_at": "2026-06-25T13:20:02.863178+00:00"
     }
   ],
-  "lastUpdated": "2026-06-25T10:43:23.317837+00:00",
+  "lastUpdated": "2026-06-25T13:20:02.863282+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
