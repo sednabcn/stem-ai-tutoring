@@ -1,7 +1,17 @@
 {
   "status": "success",
-  "totalResults": 9,
+  "totalResults": 10,
   "articles": [
+    {
+      "title": "GTA VI is a worrying sign for the future of physical games - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "Rockstar says that physical versions of GTA VI won’t include a disc, and instead will only contain a...",
+      "url": "https://www.theverge.com/games/956389/grand-theft-auto-6-gta-digital-code-in-box-physical-games",
+      "publishedAt": "2026-06-24T18:42:07Z",
+      "processed_at": "2026-06-25T21:43:56.713654+00:00"
+    },
     {
       "title": "The 23 best Amazon Prime Day laptop deals, from someone who’s tested them for 13 years - CNN",
       "source": {
@@ -10,7 +20,17 @@
       "description": "Prime Day is officially here, and our computing expert found some great deals on laptops and compute...",
       "url": "https://www.cnn.com/cnn-underscored/deals/best-amazon-prime-day-laptop-computer-deals-2026-06-24",
       "publishedAt": "2026-06-24T18:28:09Z",
-      "processed_at": "2026-06-25T19:05:19.401800+00:00"
+      "processed_at": "2026-06-25T21:43:56.713654+00:00"
+    },
+    {
+      "title": "Gemini in Chrome adds ‘Select from screen’ tool as Gemini 3.5 Flash gains computer use - 9to5Google",
+      "source": {
+        "name": "9to5google.com"
+      },
+      "description": "Gemini in Chrome now lets you focus a prompt with a new \"Select from screen\" tool, while developers ...",
+      "url": "http://9to5google.com/2026/06/24/gemini-chrome-select-screen/",
+      "publishedAt": "2026-06-24T17:45:00Z",
+      "processed_at": "2026-06-25T21:43:56.713654+00:00"
     },
     {
       "title": "Facebook rolls out an AI companion app for creators - TechCrunch",
@@ -20,7 +40,7 @@
       "description": "The new app, which is currently being tested with select creators, will have Facebook's recently lau...",
       "url": "https://techcrunch.com/2026/06/24/facebook-rolls-out-an-ai-companion-app-for-creators/",
       "publishedAt": "2026-06-24T17:16:24Z",
-      "processed_at": "2026-06-25T19:05:19.401800+00:00"
+      "processed_at": "2026-06-25T21:43:56.713654+00:00"
     },
     {
       "title": "These are the 20+ best Prime Day phone deals I'd actually buy for myself - ZDNET",
@@ -30,17 +50,37 @@
       "description": "Prime Day 2026 has officially started. Save hundreds right now on smartphones, including the Google ...",
       "url": "https://www.zdnet.com/article/best-amazon-prime-day-phone-deals-2026/",
       "publishedAt": "2026-06-24T16:49:00Z",
-      "processed_at": "2026-06-25T19:05:19.401800+00:00"
+      "processed_at": "2026-06-25T21:43:56.713654+00:00"
     },
     {
-      "title": "‘GTA 6’ Reveals $80 Price, ‘Single-Player Experience’ Only for Game’s November Launch - Variety",
+      "title": "The best Prime Day deals on LG, Samsung, and more 4K TVs - The Verge",
       "source": {
-        "name": "Variety"
+        "name": "The Verge"
       },
-      "description": "Rockstar Games has finally revealed the price for \"Grand Theft Auto VI\" -- and the fact the game wil...",
-      "url": "https://variety.com/2026/gaming/news/gta-6-price-single-player-pre-orders-1236789407/",
-      "publishedAt": "2026-06-24T15:55:00Z",
-      "processed_at": "2026-06-25T19:05:19.401800+00:00"
+      "description": "Prime Day has offered up some fantastic deals on 4K TVs at a range of size and price, from Sony, LG,...",
+      "url": "https://www.theverge.com/gadgets/952282/best-4k-tv-deals-amazon-prime-day-sale",
+      "publishedAt": "2026-06-24T16:00:00Z",
+      "processed_at": "2026-06-25T21:43:56.713654+00:00"
+    },
+    {
+      "title": "Microsoft's claims over its quantum chip questioned in Nature article - BBC",
+      "source": {
+        "name": "Google News"
+      },
+      "description": "",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1rVkNkb3RZdlRDYlNTN0YtdDVoQlY5cTNPTzZoN1VtWFJmeUJwZjREWlhJUGM0MGYxTkZTZUJWNWY2Q3c2YUsta1FqMjJSQnNSY2lDdkNUQVliQQ?oc=5",
+      "publishedAt": "2026-06-24T15:00:34Z",
+      "processed_at": "2026-06-25T21:43:56.713654+00:00"
+    },
+    {
+      "title": "NSF selects five additional teams in National Quantum Virtual Laboratory design competition - National Science Foundation (.gov)",
+      "source": {
+        "name": "Nsf.gov"
+      },
+      "description": "The U.S. National Science Foundation has selected five new teams to design experimental quantum tech...",
+      "url": "https://www.nsf.gov/news/nsf-selects-five-additional-teams-national-quantum-virtual",
+      "publishedAt": "2026-06-24T14:00:08Z",
+      "processed_at": "2026-06-25T21:43:56.713654+00:00"
     },
     {
       "title": "19 great Prime Day deals on our favorite charging gear - The Verge",
@@ -50,50 +90,20 @@
       "description": "We found Prime Day discounts on battery packs and chargers from brands like Anker, Belkin, Baseus, a...",
       "url": "https://www.theverge.com/gadgets/951249/prime-day-chargers-power-banks-deal-sale",
       "publishedAt": "2026-06-24T14:00:00Z",
-      "processed_at": "2026-06-25T19:05:19.401800+00:00"
+      "processed_at": "2026-06-25T21:43:56.713654+00:00"
     },
     {
-      "title": "4 OLED TVs With Deep Discounts During Amazon Prime Day 2026 - bgr.com",
+      "title": "The Best Nintendo Deals at Amazon for Prime Day 2026 (Day 2) - Nintendo Wire",
       "source": {
-        "name": "BGR"
+        "name": "Nintendo Wire"
       },
-      "description": "Looking to get a new TV during Amazon's Prime Day sales? These four OLED TVs are on sale for signifi...",
-      "url": "https://www.bgr.com/2200551/best-amazon-prime-day-deals-oled-smart-tv-june/",
-      "publishedAt": "2026-06-24T13:31:18Z",
-      "processed_at": "2026-06-25T19:05:19.401800+00:00"
-    },
-    {
-      "title": "iPhone Ultra 3D-printed hinge problems reportedly solved, ready for September launch - 9to5Mac",
-      "source": {
-        "name": "9to5Mac"
-      },
-      "description": "Talk of a delayed launch for the upcoming iPhone Ultra now seems to have faded away, with all recent...",
-      "url": "https://9to5mac.com/2026/06/24/iphone-ultra-3d-printed-hinge-problems-reportedly-solved-ready-for-september-launch/",
-      "publishedAt": "2026-06-24T13:05:00Z",
-      "processed_at": "2026-06-25T19:05:19.401800+00:00"
-    },
-    {
-      "title": "The Google Home Speaker sounds good and looks great — but it’s finicky - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "Our first test with Google’s new Gemini-powered smart speaker shows it has good audio, but slightly ...",
-      "url": "https://www.theverge.com/gadgets/955537/google-home-smart-speaker-hands-on",
-      "publishedAt": "2026-06-24T13:00:00Z",
-      "processed_at": "2026-06-25T19:05:19.401800+00:00"
-    },
-    {
-      "title": "All the best Prime Day deals: Pixel 10, Galaxy gear, tech accessories, more [Updated] - 9to5Google",
-      "source": {
-        "name": "9to5google.com"
-      },
-      "description": "The 2026 Amazon Prime Day sale is now flying with a countless number of price drops across just abou...",
-      "url": "http://9to5google.com/2026/06/24/best-prime-day-deals-pixel-galaxy/",
-      "publishedAt": "2026-06-24T07:05:00Z",
-      "processed_at": "2026-06-25T19:05:19.401800+00:00"
+      "description": "Welcome back to Day 2 of Amazon Prime Day! Amazon's biggest shopping event outside of Black Friday i...",
+      "url": "https://nintendowire.com/news/2026/06/24/the-best-nintendo-deals-at-amazon-for-prime-day-2026-day-2/",
+      "publishedAt": "2026-06-24T13:41:17Z",
+      "processed_at": "2026-06-25T21:43:56.713654+00:00"
     }
   ],
-  "lastUpdated": "2026-06-25T19:05:19.401877+00:00",
+  "lastUpdated": "2026-06-25T21:43:56.713770+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
