@@ -1,46 +1,46 @@
 {
   "status": "success",
-  "totalResults": 9,
+  "totalResults": 8,
   "articles": [
     {
-      "title": "Gemini in Chrome adds ‘Select from screen’ tool as Gemini 3.5 Flash gains computer use - 9to5Google",
+      "title": "The 25 best Amazon Prime Day laptop deals, from someone who’s tested them for 13 years - CNN",
       "source": {
-        "name": "9to5google.com"
+        "name": "CNN"
       },
-      "description": "Gemini in Chrome now lets you focus a prompt with a new \"Select from screen\" tool, while developers ...",
-      "url": "http://9to5google.com/2026/06/24/gemini-chrome-select-screen/",
-      "publishedAt": "2026-06-24T17:45:00Z",
-      "processed_at": "2026-06-25T23:19:31.026595+00:00"
+      "description": "Prime Day is officially here, and our computing expert found some great deals on laptops and compute...",
+      "url": "https://www.cnn.com/cnn-underscored/deals/best-amazon-prime-day-laptop-computer-deals-2026-06-24",
+      "publishedAt": "2026-06-24T21:31:00Z",
+      "processed_at": "2026-06-26T03:53:19.995931+00:00"
     },
     {
-      "title": "The 35 Best Gaming Deals in the Prime Day Sales — Hand-Picked by Our Deals Experts - IGN",
+      "title": "iOS 27 beta 2: Apple tells Siri AI to clearly refuse requests to summarize URLs - 9to5Mac",
       "source": {
-        "name": "IGN"
+        "name": "9to5Mac"
       },
-      "description": "There's a surprisingly healthy amount of video game deals up for grabs in the 2026 Prime Day sales, ...",
-      "url": "https://www.ign.com/articles/best-video-game-deals-prime-day-2026",
-      "publishedAt": "2026-06-24T15:56:50Z",
-      "processed_at": "2026-06-25T23:19:31.026595+00:00"
+      "description": "A new rule added to Siri AI’s system prompt in iOS 27 beta 2 changes how it should handle requests i...",
+      "url": "https://9to5mac.com/2026/06/24/ios-27-beta-2-apple-tells-siri-ai-to-clearly-refuse-requests-to-summarize-urls/",
+      "publishedAt": "2026-06-24T21:17:00Z",
+      "processed_at": "2026-06-26T03:53:19.995931+00:00"
     },
     {
-      "title": "Boffin claims Microsoft's supposed quantum leap does not compute due to 'basic Python errors' - The Register",
+      "title": "Star Fox Nintendo Switch 2 voice actors revealed, including Fox, Falco, Peppy, Slippy, and more - Nintendo Everything",
       "source": {
-        "name": "Theregister.com"
+        "name": "Nintendoeverything.com"
       },
-      "description": "Nature paper argues researchers cherry-picked data. Redmond insists its work is sound...",
-      "url": "https://www.theregister.com/research/2026/06/24/boffin-claims-microsofts-supposed-quantum-leap-does-not-compute-due-to-basic-python-errors/5260489",
-      "publishedAt": "2026-06-24T15:02:00Z",
-      "processed_at": "2026-06-25T23:19:31.026595+00:00"
+      "description": "The full Star Fox Nintendo Switch 2 cast has now been revealed, and here are the new voices for Fox,...",
+      "url": "https://nintendoeverything.com/star-fox-nintendo-switch-2-voice-actors-revealed-including-fox-falco-peppy-slippy-and-more/",
+      "publishedAt": "2026-06-24T20:50:57Z",
+      "processed_at": "2026-06-26T03:53:19.995931+00:00"
     },
     {
-      "title": "NSF selects five additional teams in National Quantum Virtual Laboratory design competition - National Science Foundation (.gov)",
+      "title": "Google is finally opening the Play Store to outside payments - The Verge",
       "source": {
-        "name": "Nsf.gov"
+        "name": "The Verge"
       },
-      "description": "The U.S. National Science Foundation has selected five new teams to design experimental quantum tech...",
-      "url": "https://www.nsf.gov/news/nsf-selects-five-additional-teams-national-quantum-virtual",
-      "publishedAt": "2026-06-24T14:00:08Z",
-      "processed_at": "2026-06-25T23:19:31.026595+00:00"
+      "description": "Google has outlined how it plans to roll out alternative billing options and lower commissions for A...",
+      "url": "https://www.theverge.com/policy/956296/google-play-app-store-alternative-billing-fee-antitrust",
+      "publishedAt": "2026-06-24T17:36:44Z",
+      "processed_at": "2026-06-26T03:53:19.995931+00:00"
     },
     {
       "title": "Galaxy Watch Ultra 2 leaks from every angle, and looks pretty familiar [Gallery] - 9to5Google",
@@ -50,7 +50,7 @@
       "description": "Following a Galaxy Watch 9 leak yesterday, new renders of the Galaxy Watch Ultra 2 have hit the web ...",
       "url": "http://9to5google.com/2026/06/24/galaxy-watch-ultra-2-leaks-from-every-angle-and-looks-pretty-familiar-gallery/",
       "publishedAt": "2026-06-24T13:25:00Z",
-      "processed_at": "2026-06-25T23:19:31.026595+00:00"
+      "processed_at": "2026-06-26T03:53:19.995931+00:00"
     },
     {
       "title": "Google’s New $100 Speaker Makes a Weak Case for Gemini in the Home - Bloomberg",
@@ -60,27 +60,7 @@
       "description": "The Google Home Speaker is the first new device of its kind to come from Alphabet Inc. in six years....",
       "url": "https://www.bloomberg.com/news/features/2026-06-24/google-home-speaker-review-impressive-ai-underwhelming-audio-quality",
       "publishedAt": "2026-06-24T13:00:15Z",
-      "processed_at": "2026-06-25T23:19:31.026595+00:00"
-    },
-    {
-      "title": "Prime Day 2026: Top Savings on Anker, Beats, TVs, and More Accessories - MacRumors",
-      "source": {
-        "name": "MacRumors"
-      },
-      "description": "Earlier this week we highlighted some of the best Apple-related product discounts that you can find ...",
-      "url": "https://www.macrumors.com/2026/06/24/the-best-prime-day-deals-accessories-3/",
-      "publishedAt": "2026-06-24T12:21:58Z",
-      "processed_at": "2026-06-25T23:19:31.026595+00:00"
-    },
-    {
-      "title": "Star Fox Review: Can't quite teach an old Fox new tricks - NPR",
-      "source": {
-        "name": "NPR"
-      },
-      "description": "The Switch 2 Star Fox remake comes with high-effort visuals and a fun battle mode, but its campaign ...",
-      "url": "https://www.npr.org/2026/06/24/nx-s1-5868629/star-fox-remake-review-switch-2",
-      "publishedAt": "2026-06-24T12:00:00Z",
-      "processed_at": "2026-06-25T23:19:31.026595+00:00"
+      "processed_at": "2026-06-26T03:53:19.995931+00:00"
     },
     {
       "title": "GTA 6 will cost $80 - and physical edition will not contain a disc - BBC",
@@ -90,10 +70,20 @@
       "description": "Rockstar has said physical copies of the game will contain a code for a digital download for the gam...",
       "url": "https://www.bbc.com/news/articles/cjrg52egw1ro",
       "publishedAt": "2026-06-24T11:35:14Z",
-      "processed_at": "2026-06-25T23:19:31.026595+00:00"
+      "processed_at": "2026-06-26T03:53:19.995931+00:00"
+    },
+    {
+      "title": "Valve admits Steam Machine is \"more expensive\" than it hoped - GamesIndustry.biz",
+      "source": {
+        "name": "GamesIndustry.biz"
+      },
+      "description": "The PC giant is non-commital on whether the console's price will come down in the future if hardware...",
+      "url": "https://www.gamesindustry.biz/valve-admits-steam-machine-is-more-expensive-than-it-hoped",
+      "publishedAt": "2026-06-24T09:48:50Z",
+      "processed_at": "2026-06-26T03:53:19.995931+00:00"
     }
   ],
-  "lastUpdated": "2026-06-25T23:19:31.026657+00:00",
+  "lastUpdated": "2026-06-26T03:53:19.996003+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
