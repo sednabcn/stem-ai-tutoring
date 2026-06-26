@@ -1,56 +1,56 @@
 {
   "status": "success",
-  "totalResults": 9,
+  "totalResults": 8,
   "articles": [
     {
-      "title": "Samsung confirms the existence of the Galaxy S27 Pro - SamMobile",
+      "title": "Get Macbooks at a Prime Day discount before Apple’s new price hikes kick in - The Verge",
       "source": {
-        "name": "SamMobile"
+        "name": "The Verge"
       },
-      "description": "It has long been rumored that Samsung could launch at least four Galaxy S27 series phones next year....",
-      "url": "https://www.sammobile.com/news/samsung-confirms-the-existence-of-the-galaxy-s27-pro/",
-      "publishedAt": "2026-06-25T06:16:00Z",
-      "processed_at": "2026-06-26T13:12:47.545695+00:00"
+      "description": "Apple just announced steep price increases to all MacBooks, Mac desktops, and iPads due to memory sh...",
+      "url": "https://www.theverge.com/gadgets/956830/prime-day-macbook-deals-apple-price-hikes",
+      "publishedAt": "2026-06-25T15:16:28Z",
+      "processed_at": "2026-06-26T16:18:31.687168+00:00"
     },
     {
-      "title": "Porsche Unveils 911 GT4 R as 718 Cayman Replacement - Sportscar365",
+      "title": "Bungie Hit With Widespread Layoffs As ‘Destiny 2’ Ends And ‘Marathon’ Continues - Forbes",
       "source": {
-        "name": "Sportscar365"
+        "name": "Forbes"
       },
-      "description": "Porsche 911 Cup-based model to compete in GT4 ranks beginning next year......",
-      "url": "https://sportscar365.com/imsa/impc/porsche-unveils-911-gt4-r-as-718-cayman-replacement/",
-      "publishedAt": "2026-06-25T06:14:44Z",
-      "processed_at": "2026-06-26T13:12:47.545695+00:00"
+      "description": "",
+      "url": "https://www.forbes.com/sites/paultassi/2026/06/25/bungie-hit-with-widespread-layoffs-as-destiny-2-ends-and-marathon-continues/",
+      "publishedAt": "2026-06-25T14:42:39Z",
+      "processed_at": "2026-06-26T16:18:31.687168+00:00"
     },
     {
-      "title": "Google opens the Play Store to external billing in the US, UK, and Europe next week - 9to5Google",
+      "title": "Revealed – Warhammer: The Old World Made to Order miniatures - Warhammer Community",
       "source": {
-        "name": "9to5google.com"
+        "name": "Warhammer-community.com"
       },
-      "description": "Google today announced that it will open up the Play Store to external payments starting on June 30 ...",
-      "url": "http://9to5google.com/2026/06/24/google-play-store-external-billing-june-30/",
-      "publishedAt": "2026-06-25T01:20:00Z",
-      "processed_at": "2026-06-26T13:12:47.545695+00:00"
+      "description": "Classic baby Dragons, Ogres, and more return to the World of Legend....",
+      "url": "https://www.warhammer-community.com/articles/bfjhjmvu/revealed-warhammer-the-old-world-made-to-order-miniatures",
+      "publishedAt": "2026-06-25T11:57:07Z",
+      "processed_at": "2026-06-26T16:18:31.687168+00:00"
     },
     {
-      "title": "iOS 27 Home App: 10+ New HomeKit Features - MacRumors",
+      "title": "After More Than a Decade of Waiting, ‘GTA VI’ Is Finally Around the Corner - WIRED",
       "source": {
-        "name": "MacRumors"
+        "name": "Wired"
       },
-      "description": "Apple updated the Home app with some useful new features that rely on Apple Intelligence. The update...",
-      "url": "https://www.macrumors.com/guide/ios-27-home/",
-      "publishedAt": "2026-06-24T23:15:38Z",
-      "processed_at": "2026-06-26T13:12:47.545695+00:00"
+      "description": "We’re finally getting ‘Grand Theft Auto VI,’ poised to be one of the largest gaming releases in hist...",
+      "url": "https://www.wired.com/story/after-more-than-a-decade-of-waiting-gta-vi-is-finally-around-the-corner/",
+      "publishedAt": "2026-06-25T10:30:00Z",
+      "processed_at": "2026-06-26T16:18:31.687168+00:00"
     },
     {
-      "title": "Hotly anticipated Grand Theft Auto VI will cost more than other AAA games - Ars Technica",
+      "title": "Porsche unveils the new 911 GT4 R for global customer motorsport - Porsche Newsroom",
       "source": {
-        "name": "Ars Technica"
+        "name": "Porsche.com"
       },
-      "description": "GTA6 might be an outlier, though—at least for now....",
-      "url": "https://arstechnica.com/gaming/2026/06/grand-theft-auto-vi-will-cost-80-without-a-physical-disc/",
-      "publishedAt": "2026-06-24T22:47:03Z",
-      "processed_at": "2026-06-26T13:12:47.545695+00:00"
+      "description": "The Dr. Ing. h.c. F. Porsche AG is expanding its customer motorsport portfolio with the new 911 GT4 ...",
+      "url": "https://newsroom.porsche.com/en/2026/motorsports/porsche-911-gt4-r-customer-motorsport-42700.html",
+      "publishedAt": "2026-06-25T06:15:24Z",
+      "processed_at": "2026-06-26T16:18:31.687168+00:00"
     },
     {
       "title": "New website names and shames companies that still don’t offer passkeys to users - TechCrunch",
@@ -60,7 +60,17 @@
       "description": "According to a new site, 24% of the most popular websites in the world don't offer support for passk...",
       "url": "https://techcrunch.com/2026/06/24/new-website-names-and-shames-companies-that-still-dont-offer-passkeys-to-users/",
       "publishedAt": "2026-06-24T21:04:04Z",
-      "processed_at": "2026-06-26T13:12:47.545695+00:00"
+      "processed_at": "2026-06-26T16:18:31.687168+00:00"
+    },
+    {
+      "title": "A new paper argues Microsoft exaggerated its quantum claims a year ago - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "﻿A peer-reviewed critique of Majorana 1 claims Microsoft did not conclusively demonstrate a working ...",
+      "url": "https://www.theverge.com/tech/956450/nature-microsoft-quantum-computing-majorana-1-claims",
+      "publishedAt": "2026-06-24T20:54:57Z",
+      "processed_at": "2026-06-26T16:18:31.687168+00:00"
     },
     {
       "title": "Star Fox Nintendo Switch 2 voice actors revealed, including Fox, Falco, Peppy, Slippy, and more - Nintendo Everything",
@@ -70,30 +80,10 @@
       "description": "The full Star Fox Nintendo Switch 2 cast has now been revealed, and here are the new voices for Fox,...",
       "url": "https://nintendoeverything.com/star-fox-nintendo-switch-2-voice-actors-revealed-including-fox-falco-peppy-slippy-and-more/",
       "publishedAt": "2026-06-24T20:50:57Z",
-      "processed_at": "2026-06-26T13:12:47.545695+00:00"
-    },
-    {
-      "title": "Facebook rolls out an AI companion app for creators - TechCrunch",
-      "source": {
-        "name": "TechCrunch"
-      },
-      "description": "The new app, which is currently being tested with select creators, will have Facebook's recently lau...",
-      "url": "https://techcrunch.com/2026/06/24/facebook-rolls-out-an-ai-companion-app-for-creators/",
-      "publishedAt": "2026-06-24T17:16:24Z",
-      "processed_at": "2026-06-26T13:12:47.545695+00:00"
-    },
-    {
-      "title": "Galaxy Z Fold 8 Release Date: Samsung Devices Get New Confirmation - Forbes",
-      "source": {
-        "name": "Forbes"
-      },
-      "description": "Samsung's Galaxy Z Fold 8 Ultra, Z Flip 8 and Watch 9 series have been cleared for U.S. launch, conf...",
-      "url": "https://www.forbes.com/sites/jaymcgregor/2026/06/24/samsung-galaxy-z-fold-8-release-date-fcc-specifications-leak/",
-      "publishedAt": "2026-06-24T16:58:00Z",
-      "processed_at": "2026-06-26T13:12:47.545695+00:00"
+      "processed_at": "2026-06-26T16:18:31.687168+00:00"
     }
   ],
-  "lastUpdated": "2026-06-26T13:12:47.545768+00:00",
+  "lastUpdated": "2026-06-26T16:18:31.687246+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
