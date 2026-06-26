@@ -1,16 +1,26 @@
 {
   "status": "success",
-  "totalResults": 8,
+  "totalResults": 9,
   "articles": [
     {
-      "title": "The 25 best Amazon Prime Day laptop deals, from someone who’s tested them for 13 years - CNN",
+      "title": "22 New GTA 6 Gameplay Details Revealed - IGN",
       "source": {
-        "name": "CNN"
+        "name": "IGN"
       },
-      "description": "Prime Day is officially here, and our computing expert found some great deals on laptops and compute...",
-      "url": "https://www.cnn.com/cnn-underscored/deals/best-amazon-prime-day-laptop-computer-deals-2026-06-24",
-      "publishedAt": "2026-06-24T21:31:00Z",
-      "processed_at": "2026-06-26T03:53:19.995931+00:00"
+      "description": "The latest GTA 6 Ultimate Edition news reveals plenty of fresh gameplay details, including fishing, ...",
+      "url": "https://www.ign.com/articles/gta-6-special-edition-pre-order-gameplay-details",
+      "publishedAt": "2026-06-24T22:53:42Z",
+      "processed_at": "2026-06-26T07:55:12.640490+00:00"
+    },
+    {
+      "title": "Hotly anticipated Grand Theft Auto VI will cost more than other AAA games - Ars Technica",
+      "source": {
+        "name": "Ars Technica"
+      },
+      "description": "GTA6 might be an outlier, though—at least for now....",
+      "url": "https://arstechnica.com/gaming/2026/06/grand-theft-auto-vi-will-cost-80-without-a-physical-disc/",
+      "publishedAt": "2026-06-24T22:47:03Z",
+      "processed_at": "2026-06-26T07:55:12.640490+00:00"
     },
     {
       "title": "iOS 27 beta 2: Apple tells Siri AI to clearly refuse requests to summarize URLs - 9to5Mac",
@@ -20,7 +30,7 @@
       "description": "A new rule added to Siri AI’s system prompt in iOS 27 beta 2 changes how it should handle requests i...",
       "url": "https://9to5mac.com/2026/06/24/ios-27-beta-2-apple-tells-siri-ai-to-clearly-refuse-requests-to-summarize-urls/",
       "publishedAt": "2026-06-24T21:17:00Z",
-      "processed_at": "2026-06-26T03:53:19.995931+00:00"
+      "processed_at": "2026-06-26T07:55:12.640490+00:00"
     },
     {
       "title": "Star Fox Nintendo Switch 2 voice actors revealed, including Fox, Falco, Peppy, Slippy, and more - Nintendo Everything",
@@ -30,17 +40,37 @@
       "description": "The full Star Fox Nintendo Switch 2 cast has now been revealed, and here are the new voices for Fox,...",
       "url": "https://nintendoeverything.com/star-fox-nintendo-switch-2-voice-actors-revealed-including-fox-falco-peppy-slippy-and-more/",
       "publishedAt": "2026-06-24T20:50:57Z",
-      "processed_at": "2026-06-26T03:53:19.995931+00:00"
+      "processed_at": "2026-06-26T07:55:12.640490+00:00"
     },
     {
-      "title": "Google is finally opening the Play Store to outside payments - The Verge",
+      "title": "Tech deals on Prime Day 2026: Our picks for PC hardware, laptops, gadgets, and more - TechSpot",
       "source": {
-        "name": "The Verge"
+        "name": "TechSpot"
       },
-      "description": "Google has outlined how it plans to roll out alternative billing options and lower commissions for A...",
-      "url": "https://www.theverge.com/policy/956296/google-play-app-store-alternative-billing-fee-antitrust",
-      "publishedAt": "2026-06-24T17:36:44Z",
-      "processed_at": "2026-06-26T03:53:19.995931+00:00"
+      "description": "Amazon Prime Day is back, running from June 23 through June 26. While this year's event isn't overfl...",
+      "url": "https://www.techspot.com/news/112860-tech-deals-prime-day-2026-our-picks-pc.html",
+      "publishedAt": "2026-06-24T15:07:34Z",
+      "processed_at": "2026-06-26T07:55:12.640490+00:00"
+    },
+    {
+      "title": "Microsoft's claims over its quantum chip questioned in Nature article - BBC",
+      "source": {
+        "name": "BBC News"
+      },
+      "description": "The tech giant has consistently stood by its Majorana chip research despite scepticism from some exp...",
+      "url": "https://www.bbc.com/news/articles/c05y9pl3ejmo",
+      "publishedAt": "2026-06-24T15:00:34Z",
+      "processed_at": "2026-06-26T07:55:12.640490+00:00"
+    },
+    {
+      "title": "Foldable iPhone 'Ultra' Set for Production in July Despite Hinge Issues - MacRumors",
+      "source": {
+        "name": "MacRumors"
+      },
+      "description": "Apple's rumored foldable iPhone \"Ultra\" is expected to begin mass production at the end of July, acc...",
+      "url": "https://www.macrumors.com/2026/06/24/foldable-iphone-ultra-set-for-production-july/",
+      "publishedAt": "2026-06-24T13:56:24Z",
+      "processed_at": "2026-06-26T07:55:12.640490+00:00"
     },
     {
       "title": "Galaxy Watch Ultra 2 leaks from every angle, and looks pretty familiar [Gallery] - 9to5Google",
@@ -50,40 +80,20 @@
       "description": "Following a Galaxy Watch 9 leak yesterday, new renders of the Galaxy Watch Ultra 2 have hit the web ...",
       "url": "http://9to5google.com/2026/06/24/galaxy-watch-ultra-2-leaks-from-every-angle-and-looks-pretty-familiar-gallery/",
       "publishedAt": "2026-06-24T13:25:00Z",
-      "processed_at": "2026-06-26T03:53:19.995931+00:00"
+      "processed_at": "2026-06-26T07:55:12.640490+00:00"
     },
     {
-      "title": "Google’s New $100 Speaker Makes a Weak Case for Gemini in the Home - Bloomberg",
+      "title": "The Google Home Speaker sounds good and looks great — but it’s finicky - The Verge",
       "source": {
-        "name": "Bloomberg"
+        "name": "The Verge"
       },
-      "description": "The Google Home Speaker is the first new device of its kind to come from Alphabet Inc. in six years....",
-      "url": "https://www.bloomberg.com/news/features/2026-06-24/google-home-speaker-review-impressive-ai-underwhelming-audio-quality",
-      "publishedAt": "2026-06-24T13:00:15Z",
-      "processed_at": "2026-06-26T03:53:19.995931+00:00"
-    },
-    {
-      "title": "GTA 6 will cost $80 - and physical edition will not contain a disc - BBC",
-      "source": {
-        "name": "BBC News"
-      },
-      "description": "Rockstar has said physical copies of the game will contain a code for a digital download for the gam...",
-      "url": "https://www.bbc.com/news/articles/cjrg52egw1ro",
-      "publishedAt": "2026-06-24T11:35:14Z",
-      "processed_at": "2026-06-26T03:53:19.995931+00:00"
-    },
-    {
-      "title": "Valve admits Steam Machine is \"more expensive\" than it hoped - GamesIndustry.biz",
-      "source": {
-        "name": "GamesIndustry.biz"
-      },
-      "description": "The PC giant is non-commital on whether the console's price will come down in the future if hardware...",
-      "url": "https://www.gamesindustry.biz/valve-admits-steam-machine-is-more-expensive-than-it-hoped",
-      "publishedAt": "2026-06-24T09:48:50Z",
-      "processed_at": "2026-06-26T03:53:19.995931+00:00"
+      "description": "Our first test with Google’s new Gemini-powered smart speaker shows it has good audio, but slightly ...",
+      "url": "https://www.theverge.com/gadgets/955537/google-home-smart-speaker-hands-on",
+      "publishedAt": "2026-06-24T13:00:00Z",
+      "processed_at": "2026-06-26T07:55:12.640490+00:00"
     }
   ],
-  "lastUpdated": "2026-06-26T03:53:19.996003+00:00",
+  "lastUpdated": "2026-06-26T07:55:12.640563+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
