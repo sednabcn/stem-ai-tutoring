@@ -1,6 +1,6 @@
 {
   "status": "success",
-  "totalResults": 10,
+  "totalResults": 9,
   "articles": [
     {
       "title": "Best 150 Prime Day Deals Under $50 on Ninja, Anker and Samsung - CNET",
@@ -10,17 +10,47 @@
       "description": "Time is running out to grab these affordable Prime Day finds that punch well above their price....",
       "url": "https://www.cnet.com/deals/best-prime-day-deals-under-50-2026-06-25/",
       "publishedAt": "2026-06-26T00:42:44Z",
-      "processed_at": "2026-06-27T00:09:30.327190+00:00"
+      "processed_at": "2026-06-27T04:54:10.421699+00:00"
     },
     {
-      "title": "Valve Quietly Walks Back Steam Machine 4K 60 FPS Performance Claims - TechPowerUp",
+      "title": "Brand New, Retail Boxed Nintendo Switch 2 Gaming Consoles Are Going for as Low as $399 for Amazon Prime Day - IGN",
       "source": {
-        "name": "Techpowerup.com"
+        "name": "IGN"
       },
-      "description": "Valve's Steam Machine has earned more than its fair share of skeptics, thanks to performance claims ...",
-      "url": "https://www.techpowerup.com/350313/valve-quietly-walks-back-steam-machine-4k-60-fps-performance-claims",
-      "publishedAt": "2026-06-25T21:25:34Z",
-      "processed_at": "2026-06-27T00:09:30.327190+00:00"
+      "description": "Brand new....",
+      "url": "https://www.ign.com/articles/nintendo-switch-2-gaming-console-deal-at-woot-amazon-prime-day",
+      "publishedAt": "2026-06-26T00:34:00Z",
+      "processed_at": "2026-06-27T04:54:10.421699+00:00"
+    },
+    {
+      "title": "Valve Removes ‘4K Gaming At 60 FPS’ From Steam Machine Page After Early Review Backlash - Kotaku",
+      "source": {
+        "name": "Kotaku"
+      },
+      "description": "Some have struggled to hit consistently high framerates on the new hardware...",
+      "url": "https://kotaku.com/valve-removes-4k-gaming-at-60-fps-from-steam-machine-page-after-early-review-backlash-2000710663",
+      "publishedAt": "2026-06-25T23:00:42Z",
+      "processed_at": "2026-06-27T04:54:10.421699+00:00"
+    },
+    {
+      "title": "Android 17’s new foldable gaming mode could make flippy phones more fun - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "Android 17 is getting a dedicated gaming mode for foldables that will put a virtual gamepad with tou...",
+      "url": "https://www.theverge.com/tech/957450/android-17-foldable-gaming-mode-virtual-controller",
+      "publishedAt": "2026-06-25T22:33:54Z",
+      "processed_at": "2026-06-27T04:54:10.421699+00:00"
+    },
+    {
+      "title": "‘Grand Theft Auto VI’ Going Digital-Only Is a Car Crash for Physical Media - The Hollywood Reporter",
+      "source": {
+        "name": "Hollywood Reporter"
+      },
+      "description": "Not all progress is progress....",
+      "url": "http://www.hollywoodreporter.com/business/business-news/grand-theft-auto-vi-digital-only-no-disc-rip-physical-media-1236629695/",
+      "publishedAt": "2026-06-25T22:29:36Z",
+      "processed_at": "2026-06-27T04:54:10.421699+00:00"
     },
     {
       "title": "Best Prime Day laptop deals: Save up to $970 on MacBooks, Windows PCs - Mashable",
@@ -30,27 +60,17 @@
       "description": "Laptops are very expensive these days. These discounts help....",
       "url": "https://mashable.com/tech/best-prime-day-laptop-deals-live-2026",
       "publishedAt": "2026-06-25T20:36:49Z",
-      "processed_at": "2026-06-27T00:09:30.327190+00:00"
+      "processed_at": "2026-06-27T04:54:10.421699+00:00"
     },
     {
-      "title": "Prime Day ends soon: We narrowed down the best 150+ deals from Apple, Lego, Kindle, and more - Mashable",
-      "source": {
-        "name": "Mashable"
-      },
-      "description": "Kindle e-readers, Apple Watches, and Samsung TVs are at record-low prices on day three of the Amazon...",
-      "url": "https://mashable.com/tech/best-amazon-prime-day-deals-2026-live",
-      "publishedAt": "2026-06-25T20:19:11Z",
-      "processed_at": "2026-06-27T00:09:30.327190+00:00"
-    },
-    {
-      "title": "Google finally releases a Finance Android app, promises iOS version later in 2026 - Ars Technica",
+      "title": "Microsoft adds another year to Windows 10 extended update program - Ars Technica",
       "source": {
         "name": "Ars Technica"
       },
-      "description": "It took 20 years, but the Finance app arrives just in time to be packed full of AI....",
-      "url": "https://arstechnica.com/google/2026/06/google-finance-finally-gets-a-mobile-app-as-ai-powered-overhaul-leaves-beta/",
-      "publishedAt": "2026-06-25T18:38:51Z",
-      "processed_at": "2026-06-27T00:09:30.327190+00:00"
+      "description": "About a quarter of PCs are still running Microsoft's previous operating system....",
+      "url": "https://arstechnica.com/gadgets/2026/06/microsoft-adds-another-year-to-windows-10-extended-update-program/",
+      "publishedAt": "2026-06-25T20:24:09Z",
+      "processed_at": "2026-06-27T04:54:10.421699+00:00"
     },
     {
       "title": "Microsoft lifts price of Xbox consoles due to soaring component costs - CNBC",
@@ -60,7 +80,7 @@
       "description": "Microsoft said it's increasing the price of Xbox game consoles after Apple announced price hikes for...",
       "url": "https://www.cnbc.com/2026/06/25/microsoft-lifts-price-of-xbox-consoles-due-to-soaring-component-costs.html",
       "publishedAt": "2026-06-25T17:34:13Z",
-      "processed_at": "2026-06-27T00:09:30.327190+00:00"
+      "processed_at": "2026-06-27T04:54:10.421699+00:00"
     },
     {
       "title": "YouTube Shorts player adding Clear Screen mode & 2x playback, removes dislike - 9to5Google",
@@ -70,40 +90,10 @@
       "description": "YouTube today announced a number of updates to the Shorts player meant to “create a more intuitive S...",
       "url": "http://9to5google.com/2026/06/25/youtube-shorts-clear-screen-more/",
       "publishedAt": "2026-06-25T17:25:00Z",
-      "processed_at": "2026-06-27T00:09:30.327190+00:00"
-    },
-    {
-      "title": "Microsoft extends Windows 10 extended security updates program amid RAMpocalypse - Windows Central",
-      "source": {
-        "name": "Windows Central"
-      },
-      "description": "Windows 10's ESU program has been quietly extended by an extra year, now ending on October 12, 2027 ...",
-      "url": "https://www.windowscentral.com/microsoft/windows-10/microsoft-quietly-extends-windows-10s-extra-security-updates-program-for-free-users-can-now-stay-on-windows-10-until-october-2027-securely",
-      "publishedAt": "2026-06-25T16:35:42Z",
-      "processed_at": "2026-06-27T00:09:30.327190+00:00"
-    },
-    {
-      "title": "Apple to Skip High-End M6 Mac Chips in Favor of AI-Focused M7 Line - Bloomberg",
-      "source": {
-        "name": "Bloomberg"
-      },
-      "description": "Apple Inc. is making one of the biggest-ever changes to its Mac silicon strategy, preparing to jump ...",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-25/apple-to-skip-high-end-m6-mac-chips-to-launch-m7-pro-m7-max-m7-ultra-instead",
-      "publishedAt": "2026-06-25T16:35:34Z",
-      "processed_at": "2026-06-27T00:09:30.327190+00:00"
-    },
-    {
-      "title": "Star Fox Players Are Up To Debauchery With Its VTuber Avatars - Kotaku",
-      "source": {
-        "name": "Kotaku"
-      },
-      "description": "Who could have foreseen this?...",
-      "url": "https://kotaku.com/star-fox-switch-2-nintendo-avatars-fox-falco-slippy-2000710547",
-      "publishedAt": "2026-06-25T16:30:14Z",
-      "processed_at": "2026-06-27T00:09:30.327190+00:00"
+      "processed_at": "2026-06-27T04:54:10.421699+00:00"
     }
   ],
-  "lastUpdated": "2026-06-27T00:09:30.327258+00:00",
+  "lastUpdated": "2026-06-27T04:54:10.421795+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
