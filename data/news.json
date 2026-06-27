@@ -1,26 +1,46 @@
 {
   "status": "success",
-  "totalResults": 9,
+  "totalResults": 10,
   "articles": [
     {
-      "title": "Prime Day deals end tonight: Live updates on the best tech sales from Apple, Sony, Bose, Anker and others - Yahoo Tech",
+      "title": "New iPhone Ultra report has latest pricing and release timing updates - 9to5Mac",
       "source": {
-        "name": "Yahoo Entertainment"
+        "name": "9to5Mac"
       },
-      "description": "Prime Day is almost over, but you can still save on a bunch of our favorite tech from headphones to ...",
-      "url": "https://tech.yahoo.com/deals/breaking-news/live/prime-day-deals-end-tonight-live-updates-on-the-best-tech-sales-from-apple-sony-bose-anker-and-others-184252541.html",
-      "publishedAt": "2026-06-26T14:00:11Z",
-      "processed_at": "2026-06-27T16:05:35.707306+00:00"
+      "description": "Apple’s highly anticipated foldable iPhone is launching this fall, but a new report today claims you...",
+      "url": "https://9to5mac.com/2026/06/26/new-iphone-ultra-report-has-latest-pricing-and-release-timing-updates/",
+      "publishedAt": "2026-06-26T15:11:00Z",
+      "processed_at": "2026-06-27T18:04:56.758584+00:00"
     },
     {
-      "title": "Nintendo Switch 2 ends first full year in the U.S. at nearly 6 million units sold, second fastest-selling video game system - Nintendo Everything",
+      "title": "Xbox Sales Are Its Lowest Ever This Month, PlayStation Its Lowest Since 2000 - Forbes",
       "source": {
-        "name": "Nintendoeverything.com"
+        "name": "Forbes"
       },
-      "description": "Following the latest U.S. sales report from Circana, we have information about the first full-year s...",
-      "url": "https://nintendoeverything.com/nintendo-switch-2-first-year-sales-us/",
-      "publishedAt": "2026-06-26T13:16:33Z",
-      "processed_at": "2026-06-27T16:05:35.707306+00:00"
+      "description": "Xbox and PS5 sales have cratered due to skyrocketing prices based on skyrocketing component costs th...",
+      "url": "https://www.forbes.com/sites/paultassi/2026/06/26/xbox-sales-are-its-lowest-ever-this-month-playstation-its-lowest-since-2000/",
+      "publishedAt": "2026-06-26T14:51:19Z",
+      "processed_at": "2026-06-27T18:04:56.758584+00:00"
+    },
+    {
+      "title": "PlayStation Removing Purchased Content From Your Library Again - PlayStation LifeStyle",
+      "source": {
+        "name": "PlayStation LifeStyle"
+      },
+      "description": "Sony Interactive Entertainment is conducting another round of purchased content removal from the Pla...",
+      "url": "https://www.playstationlifestyle.net/2026/06/26/purchased-studio-canal-content-removed-playstation-library/",
+      "publishedAt": "2026-06-26T13:11:35Z",
+      "processed_at": "2026-06-27T18:04:56.758584+00:00"
+    },
+    {
+      "title": "How to get free Windows 10 security patches until October 2027 - and avoid the $30 fee - ZDNET",
+      "source": {
+        "name": "ZDNet"
+      },
+      "description": "Don't want to pay to keep Windows 10 security updates? Microsoft has several workarounds, with the b...",
+      "url": "https://www.zdnet.com/article/how-to-get-free-windows-10-security-patches-until-october-2027-avoid-fee/",
+      "publishedAt": "2026-06-26T12:34:00Z",
+      "processed_at": "2026-06-27T18:04:56.758584+00:00"
     },
     {
       "title": "Framework lowers Laptop 13 Pro prices in response to Apple’s Mac price hikes - VideoCardz.com",
@@ -30,7 +50,7 @@
       "description": "Framework has lowered some Laptop 13 Pro prices after switching to ADATA Gen 5 SSDs. Existing pre-or...",
       "url": "https://videocardz.com/newz/framework-lowers-laptop-13-pro-prices-in-response-to-apples-mac-price-hikes",
       "publishedAt": "2026-06-26T12:12:21Z",
-      "processed_at": "2026-06-27T16:05:35.707306+00:00"
+      "processed_at": "2026-06-27T18:04:56.758584+00:00"
     },
     {
       "title": "I’ve tested laptops for 13 years. Here are 29 Prime Day deals you should actually shop - CNN",
@@ -40,7 +60,7 @@
       "description": "Prime Day is officially into Day 4, and our computing expert found some great deals on laptops and c...",
       "url": "https://www.cnn.com/cnn-underscored/deals/best-amazon-prime-day-laptop-computer-deals-2026-06-26",
       "publishedAt": "2026-06-26T11:35:00Z",
-      "processed_at": "2026-06-27T16:05:35.707306+00:00"
+      "processed_at": "2026-06-27T18:04:56.758584+00:00"
     },
     {
       "title": "Introducing Breguet Celebrates the 225th Anniversary of the Tourbillon with Four New Releases, And the Return of a Collector Favorite (Live Pics) - Hodinkee",
@@ -50,50 +70,40 @@
       "description": "A revived and revised version of the Roth-designed caliber 558.1 movement (significantly improved) h...",
       "url": "https://www.hodinkee.com/articles/introducing-breguet-225th-tourbillons",
       "publishedAt": "2026-06-26T11:30:00Z",
-      "processed_at": "2026-06-27T16:05:35.707306+00:00"
+      "processed_at": "2026-06-27T18:04:56.758584+00:00"
     },
     {
-      "title": "Trump Mobile Takes The T1 Phone Reservation Holders For A Ride, Opens Sales To The Public Without Clearing The Backlog - Wccftech",
+      "title": "Amazon Brazil GTA 6 description mentions unannounced features - Video Games Chronicle",
       "source": {
-        "name": "Wccftech"
+        "name": "Video Games Chronicle"
       },
-      "description": "Those who paid Trump Mobile a $100 deposit to gain early access to the T1 Phone suddenly find themse...",
-      "url": "https://wccftech.com/trump-mobile-takes-the-t1-phone-reservation-holders-for-a-ride-opens-sales-to-the-public-without-clearing-the-backlog/",
-      "publishedAt": "2026-06-26T11:05:00Z",
-      "processed_at": "2026-06-27T16:05:35.707306+00:00"
+      "description": "New Grand Theft Auto 6 details are potentially leaked by an Amazon Brazil product description...",
+      "url": "https://www.videogameschronicle.com/news/amazon-brazil-gta-6-description-mentions-unannounced-features/",
+      "publishedAt": "2026-06-26T11:14:58Z",
+      "processed_at": "2026-06-27T18:04:56.758584+00:00"
     },
     {
-      "title": "Ozone Ascent: Mega Rayquaza Timed Research - Pokémon GO Hub",
+      "title": "Prime Day deals end tonight — I hand-picked 361+ of the best ones to shop before they’re gone - NBC News",
       "source": {
-        "name": "Pokemon GO Hub"
+        "name": "NBC News"
       },
-      "description": "From Saturday, July 25, at 10:00 a.m. to Sunday, July 26, 2026, at 8:00 p.m. local time free Timed R...",
-      "url": "https://pokemongohub.net/post/event/ozone-ascent-mega-rayquaza-timed-research/",
-      "publishedAt": "2026-06-26T07:46:25Z",
-      "processed_at": "2026-06-27T16:05:35.707306+00:00"
+      "description": "It’s the final day of Amazon Prime Day 2026, and we’re updating our list of editor-approved deals li...",
+      "url": "https://www.nbcnews.com/select/shopping/best-amazon-prime-day-deals-2026-rcna351886",
+      "publishedAt": "2026-06-26T10:32:19Z",
+      "processed_at": "2026-06-27T18:04:56.758584+00:00"
     },
     {
-      "title": "Brand New, Retail Boxed Nintendo Switch 2 Gaming Consoles Are Going for as Low as $399 for Amazon Prime Day - IGN",
+      "title": "Steam Summer Sale 2026 arrives: 10 deals to know - Mashable",
       "source": {
-        "name": "IGN"
+        "name": "Mashable"
       },
-      "description": "Brand new....",
-      "url": "https://www.ign.com/articles/nintendo-switch-2-gaming-console-deal-at-woot-amazon-prime-day",
-      "publishedAt": "2026-06-26T00:34:00Z",
-      "processed_at": "2026-06-27T16:05:35.707306+00:00"
-    },
-    {
-      "title": "It's Xbox's turn (again), as console prices keep going up - Game File | Stephen Totilo",
-      "source": {
-        "name": "Gamefile.news"
-      },
-      "description": "Plus: Sony cuts at least 292 jobs at Bungie...",
-      "url": "https://www.gamefile.news/p/console-price-hike-chart-bungie-cuts-video",
-      "publishedAt": "2026-06-26T00:20:51Z",
-      "processed_at": "2026-06-27T16:05:35.707306+00:00"
+      "description": "Do you like Star Wars? We have good news....",
+      "url": "https://mashable.com/entertainment/steam-summer-sale-2026-10-deals-to-know",
+      "publishedAt": "2026-06-26T10:00:46Z",
+      "processed_at": "2026-06-27T18:04:56.758584+00:00"
     }
   ],
-  "lastUpdated": "2026-06-27T16:05:35.707378+00:00",
+  "lastUpdated": "2026-06-27T18:04:56.758662+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
