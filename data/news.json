@@ -1,6 +1,6 @@
 {
   "status": "success",
-  "totalResults": 9,
+  "totalResults": 10,
   "articles": [
     {
       "title": "Best 150 Prime Day Deals Under $50 on Ninja, Anker and Samsung - CNET",
@@ -10,7 +10,7 @@
       "description": "Time is running out to grab these affordable Prime Day finds that punch well above their price....",
       "url": "https://www.cnet.com/deals/best-prime-day-deals-under-50-2026-06-25/",
       "publishedAt": "2026-06-26T00:42:44Z",
-      "processed_at": "2026-06-27T04:54:10.421699+00:00"
+      "processed_at": "2026-06-27T07:50:08.666519+00:00"
     },
     {
       "title": "Brand New, Retail Boxed Nintendo Switch 2 Gaming Consoles Are Going for as Low as $399 for Amazon Prime Day - IGN",
@@ -20,7 +20,17 @@
       "description": "Brand new....",
       "url": "https://www.ign.com/articles/nintendo-switch-2-gaming-console-deal-at-woot-amazon-prime-day",
       "publishedAt": "2026-06-26T00:34:00Z",
-      "processed_at": "2026-06-27T04:54:10.421699+00:00"
+      "processed_at": "2026-06-27T07:50:08.666519+00:00"
+    },
+    {
+      "title": "It's Summer Sale Season, So I Tracked Down 25 Actually Good Gaming Deals Under $20 - IGN",
+      "source": {
+        "name": "IGN"
+      },
+      "description": "There's a million sales happening right now, so I sifted through them all to find 25 genuinely solid...",
+      "url": "https://www.ign.com/articles/25-gaming-deals-under-20-switch-xbox-ps5-pc-prime-day-2026",
+      "publishedAt": "2026-06-26T00:30:00Z",
+      "processed_at": "2026-06-27T07:50:08.666519+00:00"
     },
     {
       "title": "Valve Removes ‘4K Gaming At 60 FPS’ From Steam Machine Page After Early Review Backlash - Kotaku",
@@ -30,7 +40,17 @@
       "description": "Some have struggled to hit consistently high framerates on the new hardware...",
       "url": "https://kotaku.com/valve-removes-4k-gaming-at-60-fps-from-steam-machine-page-after-early-review-backlash-2000710663",
       "publishedAt": "2026-06-25T23:00:42Z",
-      "processed_at": "2026-06-27T04:54:10.421699+00:00"
+      "processed_at": "2026-06-27T07:50:08.666519+00:00"
+    },
+    {
+      "title": "Sony files notice for layoffs at Bellevue-based video game company - KOMO",
+      "source": {
+        "name": "KOMO News"
+      },
+      "description": "Sony Interactive Entertainment is reducing the workforce at Bungie, with layoffs affecting a signifi...",
+      "url": "https://komonews.com/news/local/a-bellevue-based-video-company-announces-layoffs-sony-interactive-entertainment-to-cut-bungie-workforce-playstation-destiny-video-game-company-engineer-tech-layoffs",
+      "publishedAt": "2026-06-25T22:45:56Z",
+      "processed_at": "2026-06-27T07:50:08.666519+00:00"
     },
     {
       "title": "Android 17’s new foldable gaming mode could make flippy phones more fun - The Verge",
@@ -40,7 +60,7 @@
       "description": "Android 17 is getting a dedicated gaming mode for foldables that will put a virtual gamepad with tou...",
       "url": "https://www.theverge.com/tech/957450/android-17-foldable-gaming-mode-virtual-controller",
       "publishedAt": "2026-06-25T22:33:54Z",
-      "processed_at": "2026-06-27T04:54:10.421699+00:00"
+      "processed_at": "2026-06-27T07:50:08.666519+00:00"
     },
     {
       "title": "‘Grand Theft Auto VI’ Going Digital-Only Is a Car Crash for Physical Media - The Hollywood Reporter",
@@ -50,17 +70,7 @@
       "description": "Not all progress is progress....",
       "url": "http://www.hollywoodreporter.com/business/business-news/grand-theft-auto-vi-digital-only-no-disc-rip-physical-media-1236629695/",
       "publishedAt": "2026-06-25T22:29:36Z",
-      "processed_at": "2026-06-27T04:54:10.421699+00:00"
-    },
-    {
-      "title": "Best Prime Day laptop deals: Save up to $970 on MacBooks, Windows PCs - Mashable",
-      "source": {
-        "name": "Mashable"
-      },
-      "description": "Laptops are very expensive these days. These discounts help....",
-      "url": "https://mashable.com/tech/best-prime-day-laptop-deals-live-2026",
-      "publishedAt": "2026-06-25T20:36:49Z",
-      "processed_at": "2026-06-27T04:54:10.421699+00:00"
+      "processed_at": "2026-06-27T07:50:08.666519+00:00"
     },
     {
       "title": "Microsoft adds another year to Windows 10 extended update program - Ars Technica",
@@ -70,7 +80,17 @@
       "description": "About a quarter of PCs are still running Microsoft's previous operating system....",
       "url": "https://arstechnica.com/gadgets/2026/06/microsoft-adds-another-year-to-windows-10-extended-update-program/",
       "publishedAt": "2026-06-25T20:24:09Z",
-      "processed_at": "2026-06-27T04:54:10.421699+00:00"
+      "processed_at": "2026-06-27T07:50:08.666519+00:00"
+    },
+    {
+      "title": "Dating Coach Urges All Men to Avoid 'Worst' Hobby for Single Guys - Yahoo",
+      "source": {
+        "name": "Men's Journal"
+      },
+      "description": "A professional dating coach isn't holding back on the \"F\" tier hobby for single men in the United St...",
+      "url": "https://www.mensjournal.com/news/dating-coach-urges-all-men-to-avoid-worst-hobby-for-single-guys",
+      "publishedAt": "2026-06-25T18:19:30Z",
+      "processed_at": "2026-06-27T07:50:08.666519+00:00"
     },
     {
       "title": "Microsoft lifts price of Xbox consoles due to soaring component costs - CNBC",
@@ -80,20 +100,10 @@
       "description": "Microsoft said it's increasing the price of Xbox game consoles after Apple announced price hikes for...",
       "url": "https://www.cnbc.com/2026/06/25/microsoft-lifts-price-of-xbox-consoles-due-to-soaring-component-costs.html",
       "publishedAt": "2026-06-25T17:34:13Z",
-      "processed_at": "2026-06-27T04:54:10.421699+00:00"
-    },
-    {
-      "title": "YouTube Shorts player adding Clear Screen mode & 2x playback, removes dislike - 9to5Google",
-      "source": {
-        "name": "9to5google.com"
-      },
-      "description": "YouTube today announced a number of updates to the Shorts player meant to “create a more intuitive S...",
-      "url": "http://9to5google.com/2026/06/25/youtube-shorts-clear-screen-more/",
-      "publishedAt": "2026-06-25T17:25:00Z",
-      "processed_at": "2026-06-27T04:54:10.421699+00:00"
+      "processed_at": "2026-06-27T07:50:08.666519+00:00"
     }
   ],
-  "lastUpdated": "2026-06-27T04:54:10.421795+00:00",
+  "lastUpdated": "2026-06-27T07:50:08.666593+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
