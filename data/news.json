@@ -1,16 +1,36 @@
 {
   "status": "success",
-  "totalResults": 9,
+  "totalResults": 8,
   "articles": [
     {
-      "title": "People Share Their Most Embarrassing Hospital Visits That Left Doctors Trying Not To Laugh - buzzfeed.com",
+      "title": "Xbox has been promising 'State of Decay 3' for years — and now it faces cancellation, despite its trailers and alpha. What are we even doing here? - Windows Central",
       "source": {
-        "name": "Buzzfeed"
+        "name": "Windows Central"
       },
-      "description": "You had WHAT in your puke?...",
-      "url": "https://www.buzzfeed.com/jennifer_mcphee/people-share-their-embarrassing-er-stories",
-      "publishedAt": "2026-06-29T19:30:02Z",
-      "processed_at": "2026-06-30T20:02:32.768154+00:00"
+      "description": "Increasingly it looks like Xbox's layoffs are going to be catastrophic....",
+      "url": "https://www.windowscentral.com/gaming/xbox/xbox-has-been-promising-state-of-decay-3-for-years-and-now-it-faces-cancellation-despite-its-trailers-and-alpha-what-are-we-even-doing-here",
+      "publishedAt": "2026-06-29T21:03:50Z",
+      "processed_at": "2026-06-30T22:15:31.121746+00:00"
+    },
+    {
+      "title": "Samsung Galaxy Z Fold 8 Wide Gets New Confirmation Before Launch - Forbes",
+      "source": {
+        "name": "Forbes"
+      },
+      "description": "Samsung's Galaxy Z Fold 8 Ultra won't have a privacy screen, but it will get a charging upgrade as n...",
+      "url": "https://www.forbes.com/sites/jaymcgregor/2026/06/29/samsung-galaxy-z-fold-8-release-date-no-privacy-screen/",
+      "publishedAt": "2026-06-29T20:31:36Z",
+      "processed_at": "2026-06-30T22:15:31.121746+00:00"
+    },
+    {
+      "title": "Here's Some Wrestlers Hitting Some Other Wrestlers With A NES - Kotaku",
+      "source": {
+        "name": "Kotaku"
+      },
+      "description": "'What a nerd'...",
+      "url": "https://kotaku.com/aew-wrestling-nintendo-entertainment-system-forbidden-door-2000711483",
+      "publishedAt": "2026-06-29T20:15:26Z",
+      "processed_at": "2026-06-30T22:15:31.121746+00:00"
     },
     {
       "title": "Sony’s next-gen PlayStation will go ‘beyond the living room’ - The Verge",
@@ -20,7 +40,17 @@
       "description": "Sony hinted in a recent Q&A with investors that the next generation PlayStation will offer some kind...",
       "url": "https://www.theverge.com/games/959191/sony-next-generation-playstation-ps6-beyond-the-living-room",
       "publishedAt": "2026-06-29T19:12:15Z",
-      "processed_at": "2026-06-30T20:02:32.768154+00:00"
+      "processed_at": "2026-06-30T22:15:31.121746+00:00"
+    },
+    {
+      "title": "Meta Fury AI Glasses Review: The Worst Company Still Makes the Best Smart Glasses - Gizmodo",
+      "source": {
+        "name": "Gizmodo.com"
+      },
+      "description": "Meta's new smart glasses are like if \"the worst person you know just made a really point\" could be w...",
+      "url": "https://gizmodo.com/meta-fury-ai-glasses-review-the-worst-company-still-makes-the-best-smart-glasses-2000777827",
+      "publishedAt": "2026-06-29T18:30:32Z",
+      "processed_at": "2026-06-30T22:15:31.121746+00:00"
     },
     {
       "title": "Evidence points to potential new LCD screen for Nintendo Switch 2 - Nintendo Everything",
@@ -30,70 +60,30 @@
       "description": "The Nintendo Switch 2 screen could be getting a revision, based on the latest evidence. On a Chinese...",
       "url": "https://nintendoeverything.com/evidence-points-to-potential-new-lcd-screen-for-nintendo-switch-2/",
       "publishedAt": "2026-06-29T18:16:35Z",
-      "processed_at": "2026-06-30T20:02:32.768154+00:00"
+      "processed_at": "2026-06-30T22:15:31.121746+00:00"
     },
     {
-      "title": "macOS 26.5.2 now available, here’s what’s new - 9to5Mac",
+      "title": "Is this the best TV you can buy for under $1,000? - Yahoo Tech",
       "source": {
-        "name": "9to5Mac"
+        "name": "Yahoo Entertainment"
       },
-      "description": "In addition to iOS and iPadOS 26.5.2, Apple is also rolling out macOS 26.5.2. Here are the details....",
-      "url": "https://9to5mac.com/2026/06/29/macos-26-5-2-now-available-heres-whats-new/",
-      "publishedAt": "2026-06-29T17:51:00Z",
-      "processed_at": "2026-06-30T20:02:32.768154+00:00"
+      "description": "From $400 to $999.99, here's which of these Mini-LED TVs is worth your money....",
+      "url": "https://tech.yahoo.com/home-entertainment/tvs/article/is-this-the-best-tv-you-can-buy-for-under-1000-180540500.html",
+      "publishedAt": "2026-06-29T18:05:40Z",
+      "processed_at": "2026-06-30T22:15:31.121746+00:00"
     },
     {
-      "title": "At $499, Apple’s M3-powered iPad Air is a good deal - The Verge",
+      "title": "Git 2.55 Released With Rust Support Enabled By Default, git history fixup - Phoronix",
       "source": {
-        "name": "The Verge"
+        "name": "Phoronix"
       },
-      "description": "After a bunch of price increases, the M3 iPad Air stands out if you’re looking for the best tablet u...",
-      "url": "https://www.theverge.com/gadgets/959080/ipad-air-m3-5g-wifi-deal-sale",
-      "publishedAt": "2026-06-29T17:49:12Z",
-      "processed_at": "2026-06-30T20:02:32.768154+00:00"
-    },
-    {
-      "title": "iPhone 18, iPhone 18e, and iPhone Air 2 screen specs leak - GSMArena.com news - GSMArena.com",
-      "source": {
-        "name": "GSMArena.com"
-      },
-      "description": "The iPhone 18e is missing out on an important upgrade, it seems. A new rumor from Digital Chat Stati...",
-      "url": "https://www.gsmarena.com/iphone_18_iphone_18e_and_iphone_air_2_screen_specs_leak-news-73489.php",
-      "publishedAt": "2026-06-29T17:33:02Z",
-      "processed_at": "2026-06-30T20:02:32.768154+00:00"
-    },
-    {
-      "title": "Target Seems To Be Artificially Increasing Prices On Pokémon TCG Products - Kotaku",
-      "source": {
-        "name": "Kotaku"
-      },
-      "description": "Why let scalpers get all the extra cash?...",
-      "url": "https://kotaku.com/pokemon-tcg-where-target-stock-prices-gouging-scalpers-2000711454",
-      "publishedAt": "2026-06-29T17:30:58Z",
-      "processed_at": "2026-06-30T20:02:32.768154+00:00"
-    },
-    {
-      "title": "WhatsApp usernames launch ‘later this year’ – here’s how to get yours now - 9to5Google",
-      "source": {
-        "name": "9to5google.com"
-      },
-      "description": "WhatsApp has just announced that usernames are officially coming, but you might not be able to get y...",
-      "url": "http://9to5google.com/2026/06/29/whatsapp-usernames-launch-later-this-year-heres-how-to-get-yours-now/",
-      "publishedAt": "2026-06-29T17:15:00Z",
-      "processed_at": "2026-06-30T20:02:32.768154+00:00"
-    },
-    {
-      "title": "Cursor now has a mobile app for guiding your coding agent on the go - TechCrunch",
-      "source": {
-        "name": "TechCrunch"
-      },
-      "description": "Cursor has launched a new mobile app for remote oversight over coding agents....",
-      "url": "https://techcrunch.com/2026/06/29/cursor-now-has-a-mobile-app-for-guiding-your-coding-agent-on-the-go/",
-      "publishedAt": "2026-06-29T17:03:50Z",
-      "processed_at": "2026-06-30T20:02:32.768154+00:00"
+      "description": "Git 2.55 is out today as the latest stable update to this distributed version control system....",
+      "url": "https://www.phoronix.com/news/Git-2.55-Released",
+      "publishedAt": "2026-06-29T17:50:00Z",
+      "processed_at": "2026-06-30T22:15:31.121746+00:00"
     }
   ],
-  "lastUpdated": "2026-06-30T20:02:32.768227+00:00",
+  "lastUpdated": "2026-06-30T22:15:31.121817+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
