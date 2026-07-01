@@ -1,7 +1,47 @@
 {
   "status": "success",
-  "totalResults": 9,
+  "totalResults": 7,
   "articles": [
+    {
+      "title": "Best Prime Day Deals Under $50 on Ninja, Anker and Samsung - CNET",
+      "source": {
+        "name": "CNET"
+      },
+      "description": "From everyday essentials to fun finds, these affordable picks are worth shopping ahead of the holida...",
+      "url": "https://www.cnet.com/deals/july-4-early-deals-under-50-2026-06-30/",
+      "publishedAt": "2026-06-30T10:17:45Z",
+      "processed_at": "2026-07-01T09:50:13.723748+00:00"
+    },
+    {
+      "title": "It sure looks like Nintendo is planning to upgrade the Switch 2's oft-criticised LCD screen - Eurogamer",
+      "source": {
+        "name": "Eurogamer.net"
+      },
+      "description": "",
+      "url": "https://www.eurogamer.net/new-nintendo-switch-2-lcd-screen-rumours",
+      "publishedAt": "2026-06-30T09:36:30Z",
+      "processed_at": "2026-07-01T09:50:13.723748+00:00"
+    },
+    {
+      "title": "Xbox is reportedly considering closing State of Decay developer Undead Labs - Eurogamer.net",
+      "source": {
+        "name": "Eurogamer.net"
+      },
+      "description": "Having a promising project like State of Decay 3 in development is seemingly not enough to save Unde...",
+      "url": "https://www.eurogamer.net/undead-labs-xbox-potential-closure-state-of-decay-3",
+      "publishedAt": "2026-06-30T09:04:09Z",
+      "processed_at": "2026-07-01T09:50:13.723748+00:00"
+    },
+    {
+      "title": "Apple's biggest leak in years shows the iPhone 18 Pro surviving a drop test - Android Authority",
+      "source": {
+        "name": "Android Authority"
+      },
+      "description": "A massive iPhone 18 Pro leak includes photos and videos of Apple's upcoming flagship undergoing inte...",
+      "url": "https://www.androidauthority.com/apple-iphone-18-pro-drop-test-video-images-leak-3682690/",
+      "publishedAt": "2026-06-30T05:02:36Z",
+      "processed_at": "2026-07-01T09:50:13.723748+00:00"
+    },
     {
       "title": "Samsung’s Galaxy Z Fold 8 series colors look stunning as official cases leak [Gallery] - 9to5Google",
       "source": {
@@ -10,27 +50,7 @@
       "description": "While we’ve yet to get clean renders of the Galaxy Z Fold 8 series, a new leak shows off Samsung’s.....",
       "url": "http://9to5google.com/2026/06/29/galaxy-z-fold-8-colors-leak-official-cases/",
       "publishedAt": "2026-06-30T00:35:00Z",
-      "processed_at": "2026-07-01T05:21:54.200154+00:00"
-    },
-    {
-      "title": "Xbox sale round-up June 30, 2026 - TrueAchievements",
-      "source": {
-        "name": "TrueAchievements"
-      },
-      "description": "New Xbox sales are now live, with big discounts on Call of Duty, Dying Light, Diablo IV, BioShock Re...",
-      "url": "https://www.trueachievements.com/n62931/xbox-sale-roundup-june-30-2026",
-      "publishedAt": "2026-06-30T00:13:41Z",
-      "processed_at": "2026-07-01T05:21:54.200154+00:00"
-    },
-    {
-      "title": "Rumour: State of Decay 3 Dev Also Facing Xbox Axe, Just Weeks After Game Was Revealed for PS5 - Push Square",
-      "source": {
-        "name": "Push Square"
-      },
-      "description": "Looking for a buyer...",
-      "url": "https://www.pushsquare.com/news/2026/06/rumour-state-of-decay-3-dev-also-facing-xbox-axe-just-weeks-after-game-was-revealed-for-ps5",
-      "publishedAt": "2026-06-29T22:45:53Z",
-      "processed_at": "2026-07-01T05:21:54.200154+00:00"
+      "processed_at": "2026-07-01T09:50:13.723748+00:00"
     },
     {
       "title": "Mammoth Structure Found in Deep Space Challenges Our Understanding of The Universe - ScienceAlert",
@@ -40,60 +60,20 @@
       "description": "A massive structure detected in the distant Universe is defying our understanding of how the Univers...",
       "url": "https://www.sciencealert.com/impossible-structure-in-deep-space-challenges-our-understanding-of-the-universe",
       "publishedAt": "2026-06-29T22:25:02Z",
-      "processed_at": "2026-07-01T05:21:54.200154+00:00"
+      "processed_at": "2026-07-01T09:50:13.723748+00:00"
     },
     {
-      "title": "Dbrand Forced To Pull Steam Machine Companion Cube - TechPowerUp",
+      "title": "The CEO behind Grand Theft Auto VI doesn’t play video games, but analysts say he has put $1.5 billion behind the biggest game launch of the decade - Forex Factory",
       "source": {
-        "name": "Techpowerup.com"
+        "name": "Forex Factory"
       },
-      "description": "Mere after the reveal of the Valve Steam Machine, accessory maker Dbrand announced that it was relea...",
-      "url": "https://www.techpowerup.com/350392/dbrand-forced-to-pull-steam-machine-companion-cube",
-      "publishedAt": "2026-06-29T20:34:38Z",
-      "processed_at": "2026-07-01T05:21:54.200154+00:00"
-    },
-    {
-      "title": "Report: Xbox Has No 'Blanket Plans' To End Funding For Third-Party Game Pass Titles - Pure Xbox",
-      "source": {
-        "name": "Pure Xbox"
-      },
-      "description": "But some deals may have been put on hold...",
-      "url": "https://www.purexbox.com/news/2026/06/report-xbox-has-no-blanket-plans-to-end-funding-for-third-party-game-pass-titles",
-      "publishedAt": "2026-06-29T20:16:00Z",
-      "processed_at": "2026-07-01T05:21:54.200154+00:00"
-    },
-    {
-      "title": "Here's Some Wrestlers Hitting Some Other Wrestlers With A NES - Kotaku",
-      "source": {
-        "name": "Kotaku"
-      },
-      "description": "'What a nerd'...",
-      "url": "https://kotaku.com/aew-wrestling-nintendo-entertainment-system-forbidden-door-2000711483",
-      "publishedAt": "2026-06-29T20:15:26Z",
-      "processed_at": "2026-07-01T05:21:54.200154+00:00"
-    },
-    {
-      "title": "Google VP explains why Googlebook is launching with premium hardware first - Chrome Unboxed",
-      "source": {
-        "name": "Chrome Unboxed"
-      },
-      "description": "For years, the narrative surrounding Google’s laptops has been firmly rooted in the budget-heavy lan...",
-      "url": "https://chromeunboxed.com/google-vp-explains-why-googlebook-is-launching-with-premium-hardware-first/",
-      "publishedAt": "2026-06-29T19:54:01Z",
-      "processed_at": "2026-07-01T05:21:54.200154+00:00"
-    },
-    {
-      "title": "People Share Their Most Embarrassing Hospital Visits That Left Doctors Trying Not To Laugh - BuzzFeed",
-      "source": {
-        "name": "Buzzfeed"
-      },
-      "description": "You had WHAT in your puke?...",
-      "url": "https://www.buzzfeed.com/jennifer_mcphee/people-share-their-embarrassing-er-stories",
-      "publishedAt": "2026-06-29T19:30:02Z",
-      "processed_at": "2026-07-01T05:21:54.200154+00:00"
+      "description": "After 15 years churning out hit titles like Grand Theft Auto, Red Dead Redemption, and NBA2k, this C...",
+      "url": "https://www.forexfactory.com/news/1406255-the-ceo-behind-grand-theft-auto-vi-doesnt",
+      "publishedAt": "2026-06-29T20:34:49Z",
+      "processed_at": "2026-07-01T09:50:13.723748+00:00"
     }
   ],
-  "lastUpdated": "2026-07-01T05:21:54.200221+00:00",
+  "lastUpdated": "2026-07-01T09:50:13.723820+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
