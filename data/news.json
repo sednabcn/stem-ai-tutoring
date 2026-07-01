@@ -1,6 +1,6 @@
 {
   "status": "success",
-  "totalResults": 7,
+  "totalResults": 9,
   "articles": [
     {
       "title": "Best Prime Day Deals Under $50 on Ninja, Anker and Samsung - CNET",
@@ -10,27 +10,27 @@
       "description": "From everyday essentials to fun finds, these affordable picks are worth shopping ahead of the holida...",
       "url": "https://www.cnet.com/deals/july-4-early-deals-under-50-2026-06-30/",
       "publishedAt": "2026-06-30T10:17:45Z",
-      "processed_at": "2026-07-01T09:50:13.723748+00:00"
+      "processed_at": "2026-07-01T12:34:01.364871+00:00"
+    },
+    {
+      "title": "GTA 6 Could Skip 60 FPS Entirely, as Rockstar’s Insane Detail Forces a 30 FPS Lock Even on PS5 Pro - Wccftech",
+      "source": {
+        "name": "Wccftech"
+      },
+      "description": "",
+      "url": "https://wccftech.com/gta-6-skip-60-fps-entirely-insane-detail-ps5-pro/",
+      "publishedAt": "2026-06-30T10:01:00Z",
+      "processed_at": "2026-07-01T12:34:01.364871+00:00"
     },
     {
       "title": "It sure looks like Nintendo is planning to upgrade the Switch 2's oft-criticised LCD screen - Eurogamer",
       "source": {
         "name": "Eurogamer.net"
       },
-      "description": "",
+      "description": "Following complaints about the quality of the Nintendo Switch 2's LCD screen, the entertainment gian...",
       "url": "https://www.eurogamer.net/new-nintendo-switch-2-lcd-screen-rumours",
       "publishedAt": "2026-06-30T09:36:30Z",
-      "processed_at": "2026-07-01T09:50:13.723748+00:00"
-    },
-    {
-      "title": "Xbox is reportedly considering closing State of Decay developer Undead Labs - Eurogamer.net",
-      "source": {
-        "name": "Eurogamer.net"
-      },
-      "description": "Having a promising project like State of Decay 3 in development is seemingly not enough to save Unde...",
-      "url": "https://www.eurogamer.net/undead-labs-xbox-potential-closure-state-of-decay-3",
-      "publishedAt": "2026-06-30T09:04:09Z",
-      "processed_at": "2026-07-01T09:50:13.723748+00:00"
+      "processed_at": "2026-07-01T12:34:01.364871+00:00"
     },
     {
       "title": "Apple's biggest leak in years shows the iPhone 18 Pro surviving a drop test - Android Authority",
@@ -40,7 +40,27 @@
       "description": "A massive iPhone 18 Pro leak includes photos and videos of Apple's upcoming flagship undergoing inte...",
       "url": "https://www.androidauthority.com/apple-iphone-18-pro-drop-test-video-images-leak-3682690/",
       "publishedAt": "2026-06-30T05:02:36Z",
-      "processed_at": "2026-07-01T09:50:13.723748+00:00"
+      "processed_at": "2026-07-01T12:34:01.364871+00:00"
+    },
+    {
+      "title": "China's Xiaomi, Oppo, Vivo cut 2026 smartphone targets again: sources - Nikkei Asia",
+      "source": {
+        "name": "Nikkei.com"
+      },
+      "description": "Rising costs and component shortages lead some brands to slash outlook by up to 30%...",
+      "url": "https://asia.nikkei.com/business/technology/china-s-xiaomi-oppo-vivo-cut-2026-smartphone-targets-again-sources",
+      "publishedAt": "2026-06-30T03:09:00Z",
+      "processed_at": "2026-07-01T12:34:01.364871+00:00"
+    },
+    {
+      "title": "Dead or Alive 6 sales reach 1 million copies while Last Round hits 'Mostly Negative' reviews on Steam for myriad of complaints - EventHubs",
+      "source": {
+        "name": "EventHubs"
+      },
+      "description": "After years of mostly silence, Koei Tecmo is now trying to bring back the Dead or Alive fighting gam...",
+      "url": "https://www.eventhubs.com/news/2026/jun/29/dead-alive-6-sales-negative/",
+      "publishedAt": "2026-06-30T00:39:25Z",
+      "processed_at": "2026-07-01T12:34:01.364871+00:00"
     },
     {
       "title": "Samsung’s Galaxy Z Fold 8 series colors look stunning as official cases leak [Gallery] - 9to5Google",
@@ -50,30 +70,30 @@
       "description": "While we’ve yet to get clean renders of the Galaxy Z Fold 8 series, a new leak shows off Samsung’s.....",
       "url": "http://9to5google.com/2026/06/29/galaxy-z-fold-8-colors-leak-official-cases/",
       "publishedAt": "2026-06-30T00:35:00Z",
-      "processed_at": "2026-07-01T09:50:13.723748+00:00"
+      "processed_at": "2026-07-01T12:34:01.364871+00:00"
     },
     {
-      "title": "Mammoth Structure Found in Deep Space Challenges Our Understanding of The Universe - ScienceAlert",
+      "title": "Gmail Live now in testing on Android and iOS - 9to5Google",
       "source": {
-        "name": "ScienceAlert"
+        "name": "9to5google.com"
       },
-      "description": "A massive structure detected in the distant Universe is defying our understanding of how the Univers...",
-      "url": "https://www.sciencealert.com/impossible-structure-in-deep-space-challenges-our-understanding-of-the-universe",
-      "publishedAt": "2026-06-29T22:25:02Z",
-      "processed_at": "2026-07-01T09:50:13.723748+00:00"
+      "description": "Following the announcement at I/O 2026 last month, Google is now testing Gmail Live on Android and i...",
+      "url": "http://9to5google.com/2026/06/29/gmail-live-testing/",
+      "publishedAt": "2026-06-30T00:30:00Z",
+      "processed_at": "2026-07-01T12:34:01.364871+00:00"
     },
     {
-      "title": "The CEO behind Grand Theft Auto VI doesn’t play video games, but analysts say he has put $1.5 billion behind the biggest game launch of the decade - Forex Factory",
+      "title": "What’s new in Android’s June 2026 Google System Updates [U] - 9to5Google",
       "source": {
-        "name": "Forex Factory"
+        "name": "9to5google.com"
       },
-      "description": "After 15 years churning out hit titles like Grand Theft Auto, Red Dead Redemption, and NBA2k, this C...",
-      "url": "https://www.forexfactory.com/news/1406255-the-ceo-behind-grand-theft-auto-vi-doesnt",
-      "publishedAt": "2026-06-29T20:34:49Z",
-      "processed_at": "2026-07-01T09:50:13.723748+00:00"
+      "description": "The monthly “Google System Release Notes” primarily detail what’s new in Play services, Play Store, ...",
+      "url": "http://9to5google.com/2026/06/29/june-2026-google-system-updates/",
+      "publishedAt": "2026-06-29T23:17:00Z",
+      "processed_at": "2026-07-01T12:34:01.364871+00:00"
     }
   ],
-  "lastUpdated": "2026-07-01T09:50:13.723820+00:00",
+  "lastUpdated": "2026-07-01T12:34:01.364944+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
