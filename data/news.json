@@ -1,89 +1,99 @@
 {
   "status": "success",
-  "totalResults": 8,
+  "totalResults": 9,
   "articles": [
     {
-      "title": "Splatoon Raiders Direct 6.30.2026 - Nintendo",
+      "title": "'I Don't Know What They're Thinking': Ex-PlayStation Boss Weighs in on Sony's PC Port Backtracking - Push Square",
       "source": {
-        "name": "Nintendo.com"
+        "name": "Push Square"
       },
-      "description": "Join us on June 30 at 7am PT for the Splatoon Raiders Direct! The presentation will last roughly 15 ...",
-      "url": "https://www.nintendo.com/us/nintendo-direct/6-30-2026/",
-      "publishedAt": "2026-06-30T12:16:53Z",
-      "processed_at": "2026-07-01T15:42:48.529444+00:00"
+      "description": "Porting is all about \"mindshare\"...",
+      "url": "https://www.pushsquare.com/news/2026/06/i-dont-know-what-theyre-thinking-ex-playstation-boss-weighs-in-on-sonys-pc-port-backtracking",
+      "publishedAt": "2026-06-30T15:30:00Z",
+      "processed_at": "2026-07-01T17:57:42.292273+00:00"
     },
     {
-      "title": "US bill requiring paid games to be playable after they shut down has failed to pass a Senate vote - Video Games Chronicle",
+      "title": "Pokémon TCG: Prismatic Evolutions ETBs Are Back in Stock, and Under Market Price at Amazon - IGN",
       "source": {
-        "name": "Video Games Chronicle"
+        "name": "IGN"
       },
-      "description": "Stop Killing Games says it will try again with \"the funding to do this properly\"...",
-      "url": "https://www.videogameschronicle.com/news/us-bill-requiring-paid-games-to-be-playable-after-they-shut-down-has-failed-to-pass-a-senate-vote/",
-      "publishedAt": "2026-06-30T12:10:41Z",
-      "processed_at": "2026-07-01T15:42:48.529444+00:00"
+      "description": "Amazon has restocked Pokémon TCG: Prismatic Evolutions Elite Trainer Boxes at under market price, bu...",
+      "url": "https://www.ign.com/articles/pokemon-tcg-prismatic-evolutions-etbs-are-back-in-stock-and-under-market-price-at-amazon",
+      "publishedAt": "2026-06-30T14:55:13Z",
+      "processed_at": "2026-07-01T17:57:42.292273+00:00"
     },
     {
-      "title": "Minecraft 26.3 Snapshot 2 - Minecraft",
+      "title": "Concern Mounts About Rumored ‘State Of Decay 3’ Cancellation At Xbox - Forbes",
       "source": {
-        "name": "Minecraft.net"
+        "name": "Forbes"
       },
-      "description": "Minecraft 26.3 Snapshot 2...",
-      "url": "https://www.minecraft.net/en-us/article/minecraft-26-3-snapshot-2",
-      "publishedAt": "2026-06-30T11:06:37Z",
-      "processed_at": "2026-07-01T15:42:48.529444+00:00"
+      "description": "Xbox fans are now worried about reports that State of Decay 3 may be cancelled, despite recent previ...",
+      "url": "https://www.forbes.com/sites/paultassi/2026/06/30/concern-mounts-about-rumored-state-of-decay-3-cancellation-at-xbox/",
+      "publishedAt": "2026-06-30T14:51:55Z",
+      "processed_at": "2026-07-01T17:57:42.292273+00:00"
     },
     {
-      "title": "Best Prime Day Deals Under $50 on Ninja, Anker and Samsung - CNET",
+      "title": "Viral Marathon Fan Hit Level 45 Without Ever Extracting Or Looting - Kotaku",
       "source": {
-        "name": "CNET"
+        "name": "Kotaku"
       },
-      "description": "From everyday essentials to fun finds, these affordable picks are worth shopping ahead of the holida...",
-      "url": "https://www.cnet.com/deals/july-4-early-deals-under-50-2026-06-30/",
-      "publishedAt": "2026-06-30T10:17:45Z",
-      "processed_at": "2026-07-01T15:42:48.529444+00:00"
+      "description": "Some doubt the person is real, but in our gaming lives we've all known or been a Marathon Steve...",
+      "url": "https://kotaku.com/marathon-fan-goes-viral-for-getting-to-level-45-without-having-any-idea-how-the-game-actually-works-2000711622",
+      "publishedAt": "2026-06-30T14:34:10Z",
+      "processed_at": "2026-07-01T17:57:42.292273+00:00"
     },
     {
-      "title": "GTA 6 Could Skip 60 FPS Entirely, as Rockstar’s Insane Detail Forces a 30 FPS Lock Even on PS5 Pro - Wccftech",
+      "title": "The Elder Scrolls 4: Oblivion reveals Nintendo Switch 2 physical release with full game on cartridge - Nintendo Everything",
       "source": {
-        "name": "Wccftech"
+        "name": "Nintendoeverything.com"
+      },
+      "description": "Original: There’s finally some news about the upcoming Nintendo Switch 2 version of The Elder Scroll...",
+      "url": "https://nintendoeverything.com/the-elder-scrolls-4-oblivion-reveals-nintendo-switch-2-physical-release-with-full-game-on-cartridge/",
+      "publishedAt": "2026-06-30T14:16:47Z",
+      "processed_at": "2026-07-01T17:57:42.292273+00:00"
+    },
+    {
+      "title": "Apple Watch to get ‘major overhaul’ next year, says leaker - 9to5Mac",
+      "source": {
+        "name": "9to5Mac"
+      },
+      "description": "Apple Watch Ultra 4 is rumored to have major design changes, and per a new leak, the ‘Series’ line c...",
+      "url": "https://9to5mac.com/2026/06/30/apple-watch-to-get-major-overhaul-next-year-says-leaker/",
+      "publishedAt": "2026-06-30T14:09:00Z",
+      "processed_at": "2026-07-01T17:57:42.292273+00:00"
+    },
+    {
+      "title": "Band Together to Take Down Criminals and Earn Bounty Hunter Bonuses - Rockstar Games",
+      "source": {
+        "name": "Rockstargames.com"
       },
       "description": "",
-      "url": "https://wccftech.com/gta-6-skip-60-fps-entirely-insane-detail-ps5-pro/",
-      "publishedAt": "2026-06-30T10:01:00Z",
-      "processed_at": "2026-07-01T15:42:48.529444+00:00"
+      "url": "https://www.rockstargames.com/newswire/article/k4a252972ok755/band-together-to-take-down-criminals-and-earn-bounty-hunter-bonuses",
+      "publishedAt": "2026-06-30T14:05:19Z",
+      "processed_at": "2026-07-01T17:57:42.292273+00:00"
     },
     {
-      "title": "Nintendo Switch 2 Owners Face a New Hardware Lottery, as Upgraded LCD Revision Could Split Buyers Into Winners and Losers - Wccftech",
+      "title": "Win Fin, Flow Fork, Speed Sniffer: Specialized launches 'fastest road bike ever made' in the S-Works Tarmac SL9 - Cyclingnews",
       "source": {
-        "name": "Wccftech"
+        "name": "Cyclingnews.com"
       },
-      "description": "A new Nintendo Switch 2 LCD panel leak points to a hardware revision potentially fixing the handheld...",
-      "url": "https://wccftech.com/nintendo-switch-2-hardware-lottery-lcd-revision/",
-      "publishedAt": "2026-06-30T09:27:00Z",
-      "processed_at": "2026-07-01T15:42:48.529444+00:00"
+      "description": "American brand draws on Formula 1 lap times software to quantify performance beyond just aero and we...",
+      "url": "https://www.cyclingnews.com/bikes/win-fin-flow-fork-speed-sniffer-specialized-launches-fastest-road-bike-ever-made-in-the-s-works-tarmac-sl9/",
+      "publishedAt": "2026-06-30T13:14:07Z",
+      "processed_at": "2026-07-01T17:57:42.292273+00:00"
     },
     {
-      "title": "Xbox is reportedly considering closing State of Decay developer Undead Labs - Eurogamer",
+      "title": "Inside White Dwarf 526: A Dawn of War IV special - Warhammer Community",
       "source": {
-        "name": "Eurogamer.net"
+        "name": "Warhammer-community.com"
       },
-      "description": "Having a promising project like State of Decay 3 in development is seemingly not enough to save Unde...",
-      "url": "https://www.eurogamer.net/undead-labs-xbox-potential-closure-state-of-decay-3",
-      "publishedAt": "2026-06-30T09:04:09Z",
-      "processed_at": "2026-07-01T15:42:48.529444+00:00"
-    },
-    {
-      "title": "CWA union says Xbox workers are not \"disposable\" as layoffs loom - GamesIndustry.biz",
-      "source": {
-        "name": "GamesIndustry.biz"
-      },
-      "description": "\"The money is there. Leadership is simply choosing where it goes and who pays\"...",
-      "url": "https://www.gamesindustry.biz/cwa-union-says-xbox-workers-are-not-disposable-as-layoffs-loom",
-      "publishedAt": "2026-06-30T08:47:14Z",
-      "processed_at": "2026-07-01T15:42:48.529444+00:00"
+      "description": "Dawn of War, Genestealer Cults, and a Battle Report from the World of Legend....",
+      "url": "https://www.warhammer-community.com/articles/ddtxjn5x/inside-white-dwarf-526-a-dawn-of-war-iv-special",
+      "publishedAt": "2026-06-30T12:57:48Z",
+      "processed_at": "2026-07-01T17:57:42.292273+00:00"
     }
   ],
-  "lastUpdated": "2026-07-01T15:42:48.529511+00:00",
+  "lastUpdated": "2026-07-01T17:57:42.292347+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
