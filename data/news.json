@@ -1,7 +1,37 @@
 {
   "status": "success",
-  "totalResults": 9,
+  "totalResults": 8,
   "articles": [
+    {
+      "title": "Splatoon Raiders Direct 6.30.2026 - Nintendo",
+      "source": {
+        "name": "Nintendo.com"
+      },
+      "description": "Join us on June 30 at 7am PT for the Splatoon Raiders Direct! The presentation will last roughly 15 ...",
+      "url": "https://www.nintendo.com/us/nintendo-direct/6-30-2026/",
+      "publishedAt": "2026-06-30T12:16:53Z",
+      "processed_at": "2026-07-01T15:42:48.529444+00:00"
+    },
+    {
+      "title": "US bill requiring paid games to be playable after they shut down has failed to pass a Senate vote - Video Games Chronicle",
+      "source": {
+        "name": "Video Games Chronicle"
+      },
+      "description": "Stop Killing Games says it will try again with \"the funding to do this properly\"...",
+      "url": "https://www.videogameschronicle.com/news/us-bill-requiring-paid-games-to-be-playable-after-they-shut-down-has-failed-to-pass-a-senate-vote/",
+      "publishedAt": "2026-06-30T12:10:41Z",
+      "processed_at": "2026-07-01T15:42:48.529444+00:00"
+    },
+    {
+      "title": "Minecraft 26.3 Snapshot 2 - Minecraft",
+      "source": {
+        "name": "Minecraft.net"
+      },
+      "description": "Minecraft 26.3 Snapshot 2...",
+      "url": "https://www.minecraft.net/en-us/article/minecraft-26-3-snapshot-2",
+      "publishedAt": "2026-06-30T11:06:37Z",
+      "processed_at": "2026-07-01T15:42:48.529444+00:00"
+    },
     {
       "title": "Best Prime Day Deals Under $50 on Ninja, Anker and Samsung - CNET",
       "source": {
@@ -10,7 +40,7 @@
       "description": "From everyday essentials to fun finds, these affordable picks are worth shopping ahead of the holida...",
       "url": "https://www.cnet.com/deals/july-4-early-deals-under-50-2026-06-30/",
       "publishedAt": "2026-06-30T10:17:45Z",
-      "processed_at": "2026-07-01T12:34:01.364871+00:00"
+      "processed_at": "2026-07-01T15:42:48.529444+00:00"
     },
     {
       "title": "GTA 6 Could Skip 60 FPS Entirely, as Rockstar’s Insane Detail Forces a 30 FPS Lock Even on PS5 Pro - Wccftech",
@@ -20,80 +50,40 @@
       "description": "",
       "url": "https://wccftech.com/gta-6-skip-60-fps-entirely-insane-detail-ps5-pro/",
       "publishedAt": "2026-06-30T10:01:00Z",
-      "processed_at": "2026-07-01T12:34:01.364871+00:00"
+      "processed_at": "2026-07-01T15:42:48.529444+00:00"
     },
     {
-      "title": "It sure looks like Nintendo is planning to upgrade the Switch 2's oft-criticised LCD screen - Eurogamer",
+      "title": "Nintendo Switch 2 Owners Face a New Hardware Lottery, as Upgraded LCD Revision Could Split Buyers Into Winners and Losers - Wccftech",
+      "source": {
+        "name": "Wccftech"
+      },
+      "description": "A new Nintendo Switch 2 LCD panel leak points to a hardware revision potentially fixing the handheld...",
+      "url": "https://wccftech.com/nintendo-switch-2-hardware-lottery-lcd-revision/",
+      "publishedAt": "2026-06-30T09:27:00Z",
+      "processed_at": "2026-07-01T15:42:48.529444+00:00"
+    },
+    {
+      "title": "Xbox is reportedly considering closing State of Decay developer Undead Labs - Eurogamer",
       "source": {
         "name": "Eurogamer.net"
       },
-      "description": "Following complaints about the quality of the Nintendo Switch 2's LCD screen, the entertainment gian...",
-      "url": "https://www.eurogamer.net/new-nintendo-switch-2-lcd-screen-rumours",
-      "publishedAt": "2026-06-30T09:36:30Z",
-      "processed_at": "2026-07-01T12:34:01.364871+00:00"
+      "description": "Having a promising project like State of Decay 3 in development is seemingly not enough to save Unde...",
+      "url": "https://www.eurogamer.net/undead-labs-xbox-potential-closure-state-of-decay-3",
+      "publishedAt": "2026-06-30T09:04:09Z",
+      "processed_at": "2026-07-01T15:42:48.529444+00:00"
     },
     {
-      "title": "Apple's biggest leak in years shows the iPhone 18 Pro surviving a drop test - Android Authority",
+      "title": "CWA union says Xbox workers are not \"disposable\" as layoffs loom - GamesIndustry.biz",
       "source": {
-        "name": "Android Authority"
+        "name": "GamesIndustry.biz"
       },
-      "description": "A massive iPhone 18 Pro leak includes photos and videos of Apple's upcoming flagship undergoing inte...",
-      "url": "https://www.androidauthority.com/apple-iphone-18-pro-drop-test-video-images-leak-3682690/",
-      "publishedAt": "2026-06-30T05:02:36Z",
-      "processed_at": "2026-07-01T12:34:01.364871+00:00"
-    },
-    {
-      "title": "China's Xiaomi, Oppo, Vivo cut 2026 smartphone targets again: sources - Nikkei Asia",
-      "source": {
-        "name": "Nikkei.com"
-      },
-      "description": "Rising costs and component shortages lead some brands to slash outlook by up to 30%...",
-      "url": "https://asia.nikkei.com/business/technology/china-s-xiaomi-oppo-vivo-cut-2026-smartphone-targets-again-sources",
-      "publishedAt": "2026-06-30T03:09:00Z",
-      "processed_at": "2026-07-01T12:34:01.364871+00:00"
-    },
-    {
-      "title": "Dead or Alive 6 sales reach 1 million copies while Last Round hits 'Mostly Negative' reviews on Steam for myriad of complaints - EventHubs",
-      "source": {
-        "name": "EventHubs"
-      },
-      "description": "After years of mostly silence, Koei Tecmo is now trying to bring back the Dead or Alive fighting gam...",
-      "url": "https://www.eventhubs.com/news/2026/jun/29/dead-alive-6-sales-negative/",
-      "publishedAt": "2026-06-30T00:39:25Z",
-      "processed_at": "2026-07-01T12:34:01.364871+00:00"
-    },
-    {
-      "title": "Samsung’s Galaxy Z Fold 8 series colors look stunning as official cases leak [Gallery] - 9to5Google",
-      "source": {
-        "name": "9to5google.com"
-      },
-      "description": "While we’ve yet to get clean renders of the Galaxy Z Fold 8 series, a new leak shows off Samsung’s.....",
-      "url": "http://9to5google.com/2026/06/29/galaxy-z-fold-8-colors-leak-official-cases/",
-      "publishedAt": "2026-06-30T00:35:00Z",
-      "processed_at": "2026-07-01T12:34:01.364871+00:00"
-    },
-    {
-      "title": "Gmail Live now in testing on Android and iOS - 9to5Google",
-      "source": {
-        "name": "9to5google.com"
-      },
-      "description": "Following the announcement at I/O 2026 last month, Google is now testing Gmail Live on Android and i...",
-      "url": "http://9to5google.com/2026/06/29/gmail-live-testing/",
-      "publishedAt": "2026-06-30T00:30:00Z",
-      "processed_at": "2026-07-01T12:34:01.364871+00:00"
-    },
-    {
-      "title": "What’s new in Android’s June 2026 Google System Updates [U] - 9to5Google",
-      "source": {
-        "name": "9to5google.com"
-      },
-      "description": "The monthly “Google System Release Notes” primarily detail what’s new in Play services, Play Store, ...",
-      "url": "http://9to5google.com/2026/06/29/june-2026-google-system-updates/",
-      "publishedAt": "2026-06-29T23:17:00Z",
-      "processed_at": "2026-07-01T12:34:01.364871+00:00"
+      "description": "\"The money is there. Leadership is simply choosing where it goes and who pays\"...",
+      "url": "https://www.gamesindustry.biz/cwa-union-says-xbox-workers-are-not-disposable-as-layoffs-loom",
+      "publishedAt": "2026-06-30T08:47:14Z",
+      "processed_at": "2026-07-01T15:42:48.529444+00:00"
     }
   ],
-  "lastUpdated": "2026-07-01T12:34:01.364944+00:00",
+  "lastUpdated": "2026-07-01T15:42:48.529511+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
