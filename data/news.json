@@ -3,24 +3,34 @@
   "totalResults": 10,
   "articles": [
     {
-      "title": "You won’t be able to buy new PlayStation games on discs starting in 2028 - The Washington Post",
+      "title": "SpaceX has an AI device prototype, and it sure sounds phone-ish - TechCrunch",
       "source": {
-        "name": "The Washington Post"
+        "name": "TechCrunch"
       },
-      "description": "It's is a massive step toward the dissolution of physical media in games, since PlayStation holds th...",
-      "url": "https://www.washingtonpost.com/entertainment/video-games/2026/07/01/you-wont-be-able-buy-new-playstation-games-discs-starting-2028/",
-      "publishedAt": "2026-07-01T18:21:45Z",
-      "processed_at": "2026-07-02T20:19:13.670157+00:00"
+      "description": "SpaceX reportedly showed investors a \"handset-like\" AI device before going public. It could be anoth...",
+      "url": "https://techcrunch.com/2026/07/01/spacex-has-an-ai-device-prototype-and-it-sure-sounds-phone-ish/",
+      "publishedAt": "2026-07-01T18:54:18Z",
+      "processed_at": "2026-07-02T22:07:59.204087+00:00"
+    },
+    {
+      "title": "Sony to end physical PlayStation game discs for new releases starting in 2028 - Fox Business",
+      "source": {
+        "name": "Fox Business"
+      },
+      "description": "Sony says all new PlayStation games released after January 2028 will be sold digitally, reflecting c...",
+      "url": "https://www.foxbusiness.com/lifestyle/sony-end-physical-playstation-game-discs-new-releases-starting-2028",
+      "publishedAt": "2026-07-01T18:04:00Z",
+      "processed_at": "2026-07-02T22:07:59.204087+00:00"
     },
     {
       "title": "Xbox testing disc-to-digital feature that digitizes a physical game collection - The Verge",
       "source": {
         "name": "The Verge"
       },
-      "description": "",
+      "description": "Microsoft’s disc-to-digital feature could be essential for next-gen Xbox consoles....",
       "url": "https://www.theverge.com/report/960173/microsoft-xbox-disc-to-digital-feature-physical-game-collection",
       "publishedAt": "2026-07-01T17:41:23Z",
-      "processed_at": "2026-07-02T20:19:13.670157+00:00"
+      "processed_at": "2026-07-02T22:07:59.204087+00:00"
     },
     {
       "title": "Rumor: Metroid Ravenous leaked for Nintendo Switch 2 - Nintendo Everything",
@@ -30,37 +40,27 @@
       "description": "Metroid Ravenous has apparently been leaked for Nintendo Switch 2. A listing for the game supposedly...",
       "url": "https://nintendoeverything.com/rumor-metroid-ravenous-leaked-for-nintendo-switch-2/",
       "publishedAt": "2026-07-01T17:03:45Z",
-      "processed_at": "2026-07-02T20:19:13.670157+00:00"
+      "processed_at": "2026-07-02T22:07:59.204087+00:00"
     },
     {
-      "title": "My favorite Kindle alternative is $30 off after a recent price increase - The Verge",
+      "title": "Subnautica 2 studio Unknown Worlds' CEO resigns as Krafton agrees to pay $250m bonus - GamesIndustry.biz",
       "source": {
-        "name": "The Verge"
+        "name": "GamesIndustry.biz"
       },
-      "description": "The Kobo Libra Colour is $229.99 ($30 off). The color e-reader is our favorite Kindle alternative, w...",
-      "url": "https://www.theverge.com/gadgets/960282/kobo-libra-colour-july-fourth-sale-deal-sale",
-      "publishedAt": "2026-07-01T16:28:40Z",
-      "processed_at": "2026-07-02T20:19:13.670157+00:00"
-    },
-    {
-      "title": "Google Gemini Spark Comes to Mac With Local File Automation - MacRumors",
-      "source": {
-        "name": "MacRumors"
-      },
-      "description": "Google today launched Gemini Spark for its macOS desktop app, allowing the AI agent to automate task...",
-      "url": "https://www.macrumors.com/2026/07/01/google-gemini-spark-comes-to-mac/",
-      "publishedAt": "2026-07-01T16:10:20Z",
-      "processed_at": "2026-07-02T20:19:13.670157+00:00"
+      "description": "Krafton has settled its lawsuit with the former leadership team of Subnautica 2 developer, Unknown W...",
+      "url": "https://www.gamesindustry.biz/subnautica-2-studio-unknown-worlds-ceo-resigns-as-krafton-agrees-to-pay-250m-bonus",
+      "publishedAt": "2026-07-01T16:38:14Z",
+      "processed_at": "2026-07-02T22:07:59.204087+00:00"
     },
     {
       "title": "The Blood of Dawnwalker Quest Gameplay - IGN",
       "source": {
         "name": "IGN"
       },
-      "description": "",
+      "description": "See Coen's investigation and fighting skills on full display in this quest gameplay from The Blood o...",
       "url": "https://www.ign.com/articles/the-blood-of-dawnwalker-8-minutes-of-quest-gameplay",
       "publishedAt": "2026-07-01T16:00:00Z",
-      "processed_at": "2026-07-02T20:19:13.670157+00:00"
+      "processed_at": "2026-07-02T22:07:59.204087+00:00"
     },
     {
       "title": "PS Plus Essential Games for July 2026 Announced - Push Square",
@@ -70,40 +70,40 @@
       "description": "Crossing the codes...",
       "url": "https://www.pushsquare.com/news/2026/07/ps-plus-essential-games-for-july-2026-announced",
       "publishedAt": "2026-07-01T15:30:00Z",
-      "processed_at": "2026-07-02T20:19:13.670157+00:00"
+      "processed_at": "2026-07-02T22:07:59.204087+00:00"
+    },
+    {
+      "title": "Oregon store suspends Yu-Gi-Oh tournaments due to hygiene concerns - upi.com",
+      "source": {
+        "name": "UPI.com"
+      },
+      "description": "An Oregon game store announced it is suspending Yu-Gi-Oh card game tournaments for one week due to c...",
+      "url": "https://www.upi.com",
+      "publishedAt": "2026-07-01T15:06:52Z",
+      "processed_at": "2026-07-02T22:07:59.204087+00:00"
     },
     {
       "title": "The PlayStation Stores On PlayStation 3 And Vita Are Shutting Down - Game Informer",
       "source": {
-        "name": "Google News"
+        "name": "Gameinformer.com"
       },
-      "description": "",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZmUzMDI4dlZBVzVWVUUtdFE1SWtpb1N3bVZzWWh2ZVRudm0xMVN5MDZwUWFRYXVfTjZIdEVpR3hIcWdiS3NqSHFScXlRNUhXRDRYV25jTWN6Q2JlRC1VTFpMZkpJck9Sa29LYXJrbWY3NTBuS1BMYlFyMWZHTHBPcHFnSG1ubGt3LXNaUUw2N3ZBQ3Zqc0daQ09vMWdkSUhheHFMcA?oc=5",
+      "description": "Starting this year and into 2027, Sony is sunsetting the digital storefront for two of its oldest on...",
+      "url": "https://gameinformer.com/2026/07/01/the-playstation-stores-on-playstation-3-and-vita-are-shutting-down",
       "publishedAt": "2026-07-01T14:51:35Z",
-      "processed_at": "2026-07-02T20:19:13.670157+00:00"
+      "processed_at": "2026-07-02T22:07:59.204087+00:00"
     },
     {
-      "title": "Krafton Agrees to Pay ‘Subnautica 2’ Bonuses as Developer’s CEO Resigns - Bloomberg.com",
+      "title": "Gemini Spark, Google’s agentic assistant, is now available on Mac - TechCrunch",
       "source": {
-        "name": "Google News"
+        "name": "TechCrunch"
       },
-      "description": "",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSFh6azl5SFRXM1d2T1NDRXRNNENyUGplQ0o4NkE1Q21hblhNTG9sYTJhZ2ZSN29QdzJRbWVkSEtFMFY2RjZuQWR3dVhDMVpzTWc0dUVtcncyVzFJUnNwZ291ZEdYT3gwcm1kbklNRGlaSG50ZjZsQmpTWk5HSDVqVzVzYmp4VnI1d0FfRU9jUTlubVJkTExyRGMwR2VtR1cxNFFWaWFnN0x5UTVSWC1EUlE5cEx0MUhWQ3Blcw?oc=5",
-      "publishedAt": "2026-07-01T14:18:54Z",
-      "processed_at": "2026-07-02T20:19:13.670157+00:00"
-    },
-    {
-      "title": "DOOM: The Dark Ages Goes Supersonic With New DLC Chain Spear - XBOX Wire",
-      "source": {
-        "name": "Xbox.com"
-      },
-      "description": "DOOM: The Dark Ages | Revelations is its first major DLC, showcasing a versatile new Chain Spear. Re...",
-      "url": "https://news.xbox.com/en-us/2026/07/01/doom-the-dark-ages-revelations-chain-spear-preview/",
-      "publishedAt": "2026-07-01T14:00:26Z",
-      "processed_at": "2026-07-02T20:19:13.670157+00:00"
+      "description": "Google's 24/7 agentic assistant, Gemini Spark, comes to Mac alongside other improvements, like real-...",
+      "url": "https://techcrunch.com/2026/07/01/gemini-spark-googles-agentic-assistant-is-now-available-on-mac/",
+      "publishedAt": "2026-07-01T14:20:19Z",
+      "processed_at": "2026-07-02T22:07:59.204087+00:00"
     }
   ],
-  "lastUpdated": "2026-07-02T20:19:13.670237+00:00",
+  "lastUpdated": "2026-07-02T22:07:59.204166+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
