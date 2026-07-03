@@ -3,44 +3,74 @@
   "totalResults": 10,
   "articles": [
     {
+      "title": "Apple reportedly orders 10M foldable iPhone Ultra models, which could sell for around $2500 - 9to5Mac",
+      "source": {
+        "name": "9to5Mac"
+      },
+      "description": "Apple plans to manufacture and sell around 10 million foldable iPhone Ultra models, according to a n...",
+      "url": "https://9to5mac.com/2026/07/01/apple-reportedly-orders-10m-foldable-iphone-ultra-models-which-could-sell-for-around-2500/",
+      "publishedAt": "2026-07-02T04:24:00Z",
+      "processed_at": "2026-07-03T11:33:01.868318+00:00"
+    },
+    {
+      "title": "Apple to launch 5 new iPhone models to gain market share amid memory crunch - Nikkei Asia",
+      "source": {
+        "name": "Nikkei.com"
+      },
+      "description": "Company raises production target for first foldable phone to about 10 million units...",
+      "url": "https://asia.nikkei.com/business/technology/apple-to-launch-5-new-iphone-models-to-gain-market-share-amid-memory-crunch",
+      "publishedAt": "2026-07-02T03:07:00Z",
+      "processed_at": "2026-07-03T11:33:01.868318+00:00"
+    },
+    {
+      "title": "Onimusha PS5 Has Actually Brought Its Launch Forward to 4th September - Push Square",
+      "source": {
+        "name": "Push Square"
+      },
+      "description": "Now releasing three weeks earlier...",
+      "url": "https://www.pushsquare.com/news/2026/07/onimusha-ps5-has-actually-brought-its-launch-forward-to-4th-september",
+      "publishedAt": "2026-07-02T00:45:00Z",
+      "processed_at": "2026-07-03T11:33:01.868318+00:00"
+    },
+    {
       "title": "Bethesda Shows Off Oblivion Remastered Switch 2 Physical Release - Nintendo Life",
       "source": {
         "name": "Nintendo Life"
       },
-      "description": "",
+      "description": "\"I knew I could count on you\"...",
       "url": "https://www.nintendolife.com/news/2026/07/bethesda-shows-off-oblivion-remastered-switch-2-physical-release",
       "publishedAt": "2026-07-02T00:45:00Z",
-      "processed_at": "2026-07-03T08:09:49.508539+00:00"
-    },
-    {
-      "title": "Onimusha: Way of the Sword release date moved up to September 4 - Gematsu",
-      "source": {
-        "name": "Gematsu"
-      },
-      "description": "",
-      "url": "https://www.gematsu.com/2026/07/onimusha-way-of-the-sword-release-date-moved-up-to-september-4",
-      "publishedAt": "2026-07-02T00:16:26Z",
-      "processed_at": "2026-07-03T08:09:49.508539+00:00"
-    },
-    {
-      "title": "Apple is reportedly planning new iPad Pro and MacBook Pro releases early next year - TechCrunch",
-      "source": {
-        "name": "TechCrunch"
-      },
-      "description": "",
-      "url": "https://techcrunch.com/2026/07/01/apple-is-reportedly-planning-new-ipad-pro-and-macbook-pro-releases-early-next-year/",
-      "publishedAt": "2026-07-01T23:57:55Z",
-      "processed_at": "2026-07-03T08:09:49.508539+00:00"
+      "processed_at": "2026-07-03T11:33:01.868318+00:00"
     },
     {
       "title": "'Billionaires’ Vagina Club' sees Silicon Valley's richest wives spend $30K to 'healthmaxxx' their sex lives - New York Post",
       "source": {
         "name": "New York Post"
       },
-      "description": "",
+      "description": "The nickname was coined by concierge gynecologist Sally Greenwald, an assistant clinical professor a...",
       "url": "https://nypost.com/2026/07/01/us-news/billionaires-vagina-club-sees-silicon-valleys-richest-wives-spend-30k-to-healthmaxxx-their-sex-lives/",
       "publishedAt": "2026-07-01T23:46:00Z",
-      "processed_at": "2026-07-03T08:09:49.508539+00:00"
+      "processed_at": "2026-07-03T11:33:01.868318+00:00"
+    },
+    {
+      "title": "World Of Warcraft Is Finally Fixing Its Stupidest Settings Problem After 22 Years - Kotaku",
+      "source": {
+        "name": "Kotaku"
+      },
+      "description": "I do not have time to pick up all of these Rust-Covered Blunderbusses...",
+      "url": "https://kotaku.com/world-of-warcraft-finally-fixing-auto-loot-2000712079",
+      "publishedAt": "2026-07-01T21:15:58Z",
+      "processed_at": "2026-07-03T11:33:01.868318+00:00"
+    },
+    {
+      "title": "Apple Readies New iPad Pro, Redesigned Entry MacBook Pro for 2027 - Bloomberg.com",
+      "source": {
+        "name": "Bloomberg"
+      },
+      "description": "Apple Inc. is preparing an upgraded iPad Pro line and a redesigned entry-level MacBook Pro for next ...",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-01/apple-readies-new-ipad-pro-redesigned-entry-macbook-pro-for-first-half-2027",
+      "publishedAt": "2026-07-01T20:47:49Z",
+      "processed_at": "2026-07-03T11:33:01.868318+00:00"
     },
     {
       "title": "Xbox is reportedly considering dropping disc drives as it tests new feature that lets players digitize physical games - GamesIndustry.biz",
@@ -50,60 +80,30 @@
       "description": "A new report now claims Xbox, like PlayStation, is set to \"drop the disc drive.\"...",
       "url": "https://www.gamesindustry.biz/xbox-is-reportedly-considering-dropping-disc-drives-as-it-tests-new-feature-that-lets-players-digitize-physical-games",
       "publishedAt": "2026-07-01T20:35:19Z",
-      "processed_at": "2026-07-03T08:09:49.508539+00:00"
+      "processed_at": "2026-07-03T11:33:01.868318+00:00"
     },
     {
       "title": "Elon Musk denies a report about SpaceX’s AI phone prototype - The Verge",
       "source": {
         "name": "The Verge"
       },
-      "description": "",
+      "description": "Elon Musk called a report from The Wall Street Journal saying SpaceX has shown investors a “handset-...",
       "url": "https://www.theverge.com/science/960442/spacex-phone-prototype-elon-musk",
       "publishedAt": "2026-07-01T20:10:21Z",
-      "processed_at": "2026-07-03T08:09:49.508539+00:00"
+      "processed_at": "2026-07-03T11:33:01.868318+00:00"
     },
     {
-      "title": "Sony to end physical PlayStation game discs for new releases starting in 2028 - Fox Business",
+      "title": "Apple's Hide My Email feature has a bug that's been exposing real email addresses, researcher claims - TechCrunch",
       "source": {
-        "name": "Fox Business"
+        "name": "TechCrunch"
       },
-      "description": "",
-      "url": "https://www.foxbusiness.com/lifestyle/sony-end-physical-playstation-game-discs-new-releases-starting-2028",
-      "publishedAt": "2026-07-01T18:04:00Z",
-      "processed_at": "2026-07-03T08:09:49.508539+00:00"
-    },
-    {
-      "title": "Krafton settles with Subnautica 2 developer after drawn-out dispute over $250 million - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "",
-      "url": "https://www.theverge.com/games/960354/krafton-subnautica-2-settlement-bonuses-unknown-worlds",
-      "publishedAt": "2026-07-01T17:45:23Z",
-      "processed_at": "2026-07-03T08:09:49.508539+00:00"
-    },
-    {
-      "title": "Metroid Ravenous For Switch 2 Seemingly Leaked In New Rating - Kotaku",
-      "source": {
-        "name": "Kotaku"
-      },
-      "description": "",
-      "url": "https://kotaku.com/metroid-ravenous-could-be-a-new-switch-2-sequel-to-dread-after-latest-ratings-leak-2000712029",
-      "publishedAt": "2026-07-01T17:35:02Z",
-      "processed_at": "2026-07-03T08:09:49.508539+00:00"
-    },
-    {
-      "title": "PlayStation Plus July 2026 lineup revealed, including a recent Call of Duty to prepare you for Modern Warfare 4 - Polygon.com",
-      "source": {
-        "name": "Polygon"
-      },
-      "description": "",
-      "url": "https://www.polygon.com/playstation-plus-july-2026-games-announced-ps4-ps5-free-essentials/",
-      "publishedAt": "2026-07-01T16:04:42Z",
-      "processed_at": "2026-07-03T08:09:49.508539+00:00"
+      "description": "Research appears to reveal a bug that could render the feature effectively useless....",
+      "url": "https://techcrunch.com/2026/07/01/apples-hide-my-email-feature-has-a-bug-thats-been-exposing-real-email-addresses-researcher-claims/",
+      "publishedAt": "2026-07-01T19:18:07Z",
+      "processed_at": "2026-07-03T11:33:01.868318+00:00"
     }
   ],
-  "lastUpdated": "2026-07-03T08:09:49.508614+00:00",
+  "lastUpdated": "2026-07-03T11:33:01.868418+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
