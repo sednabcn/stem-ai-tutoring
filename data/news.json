@@ -1,26 +1,96 @@
 {
   "status": "success",
-  "totalResults": 9,
+  "totalResults": 10,
   "articles": [
     {
-      "title": "Jon Prosser responds to Apple lawsuit by blaming the other guy - The Verge",
+      "title": "\"Pitch Black\" Store Promos Revealed with Special 30th Anniversary Stamps! - PokeBeach",
+      "source": {
+        "name": "Pokebeach.com"
+      },
+      "description": "The store promos for Pitch Black have now been revealed -- Primarina, Zarude, and Armarouge! As usua...",
+      "url": "https://www.pokebeach.com/2026/07/pitch-black-store-promos-revealed-with-special-30th-anniversary-stamps",
+      "publishedAt": "2026-07-03T17:20:37Z",
+      "processed_at": "2026-07-04T18:02:32.422987+00:00"
+    },
+    {
+      "title": "‘Destiny 2’ Players Discover Hugely Overpowered Armor Set Before Closure - Forbes",
+      "source": {
+        "name": "Forbes"
+      },
+      "description": "Destiny 2 has a new, overpowered armor set it has just introduced, but it is too late for Bungie to ...",
+      "url": "https://www.forbes.com/sites/paultassi/2026/07/03/destiny-2-players-discover-hugely-overpowered-armor-set-before-closure/",
+      "publishedAt": "2026-07-03T16:10:42Z",
+      "processed_at": "2026-07-04T18:02:32.422987+00:00"
+    },
+    {
+      "title": "10 More Amazing Indie Games To Wishlist This Indie-Penance Day - Kotaku",
+      "source": {
+        "name": "Kotaku"
+      },
+      "description": "An exquisite array of games of every type, packed with invention and originality...",
+      "url": "https://kotaku.com/indie-penance-day-indie-games-steam-wishlist-deckbuilder-4x-2000712495",
+      "publishedAt": "2026-07-03T15:30:46Z",
+      "processed_at": "2026-07-04T18:02:32.422987+00:00"
+    },
+    {
+      "title": "Free Xbox game with easy achievements now available on Microsoft Store - TrueAchievements",
+      "source": {
+        "name": "TrueAchievements"
+      },
+      "description": "The Legend of Fireball is a new idle game that is now free on Xbox and has easy achievements that yo...",
+      "url": "https://www.trueachievements.com/news/the-legend-of-fireball-free-xbox-game-easy-achievements",
+      "publishedAt": "2026-07-03T15:17:32Z",
+      "processed_at": "2026-07-04T18:02:32.422987+00:00"
+    },
+    {
+      "title": "This slim camera has a transparent LCD screen for a viewfinder - The Verge",
       "source": {
         "name": "The Verge"
       },
-      "description": "YouTuber Jon Prosser has finally filed a formal response to Apple’s lawsuit made against him and ano...",
-      "url": "https://www.theverge.com/tech/961285/jon-prosser-apple-lawsuit-response-ios-leak",
-      "publishedAt": "2026-07-03T13:12:35Z",
-      "processed_at": "2026-07-04T16:03:28.173348+00:00"
+      "description": "﻿The Godox C100 skips a color preview screen for a multi-function viewfinder that can double as a li...",
+      "url": "https://www.theverge.com/tech/961362/godox-c100-digital-camera-transparent-lcd-screen",
+      "publishedAt": "2026-07-03T14:51:38Z",
+      "processed_at": "2026-07-04T18:02:32.422987+00:00"
+    },
+    {
+      "title": "Nintendo Speaking With The Pokémon Company Over Widespread Card Scalping 'Issue' - IGN",
+      "source": {
+        "name": "IGN"
+      },
+      "description": "Nintendo's president has been asked to address the current state of Pokémon card shortages and scalp...",
+      "url": "https://www.ign.com/articles/nintendo-president-says-the-pokemon-company-will-take-measures-to-respond-to-widespread-card-scalping-issues",
+      "publishedAt": "2026-07-03T14:23:10Z",
+      "processed_at": "2026-07-04T18:02:32.422987+00:00"
     },
     {
       "title": "Best Fourth of July Deals Under $50 on Ninja, Anker and Samsung - cnet.com",
       "source": {
         "name": "CNET"
       },
-      "description": "",
+      "description": "We've rounded up almost 100 deals on tech, home essentials and more that won't break the bank....",
       "url": "https://www.cnet.com/deals/july-4-deals-under-50-2026-07-03/",
       "publishedAt": "2026-07-03T12:45:45Z",
-      "processed_at": "2026-07-04T16:03:28.173348+00:00"
+      "processed_at": "2026-07-04T18:02:32.422987+00:00"
+    },
+    {
+      "title": "Xbox Is Highlighting That Halo: Campaign Evolved Will Have a Physical Game Case and Disc - IGN",
+      "source": {
+        "name": "IGN"
+      },
+      "description": "Microsoft is using the fact that Halo: Campaign Evolved will offer a physical game disc in its box a...",
+      "url": "https://www.ign.com/articles/after-sony-kills-ps5-discs-and-gta-6-is-just-a-code-in-a-box-xbox-is-using-halo-campaign-evolveds-physical-disc-as-a-selling-point",
+      "publishedAt": "2026-07-03T12:40:45Z",
+      "processed_at": "2026-07-04T18:02:32.422987+00:00"
+    },
+    {
+      "title": "Cyberpunk 2077 passes another extraordinary sales milestone as CD Projekt Red hails \"the incredible, lasting strength\" of the game - Eurogamer.net",
+      "source": {
+        "name": "Eurogamer.net"
+      },
+      "description": "Yes, the launch was bad, but the success of CDPR's retro-futuristic RPG is undeniable....",
+      "url": "https://www.eurogamer.net/cyberpunk-2077-sales-total-cd-projekt-red",
+      "publishedAt": "2026-07-03T12:30:56Z",
+      "processed_at": "2026-07-04T18:02:32.422987+00:00"
     },
     {
       "title": "\"We are profoundly disappointed by Sony's decision\" – Game companies express dismay at the end of PlayStation disc production - GamesIndustry.biz",
@@ -30,70 +100,10 @@
       "description": "Atari, Iam8bit, Lost in Cult, and Silver Linings Interactive are among the firms lamenting the loss ...",
       "url": "https://www.gamesindustry.biz/we-are-profoundly-disappointed-by-sonys-decision-game-companies-express-dismay-at-the-end-of-playstation-disc-production",
       "publishedAt": "2026-07-03T12:22:42Z",
-      "processed_at": "2026-07-04T16:03:28.173348+00:00"
-    },
-    {
-      "title": "Report claims OxygenOS and Realme UI set to be discontinued - 9to5Google",
-      "source": {
-        "name": "9to5google.com"
-      },
-      "description": "The woes for OnePlus continue as a new report suggests that OxygenOS is being discontinued alongside...",
-      "url": "http://9to5google.com/2026/07/03/report-claims-oxygenos-and-realme-ui-set-to-be-discontinued/",
-      "publishedAt": "2026-07-03T12:18:00Z",
-      "processed_at": "2026-07-04T16:03:28.173348+00:00"
-    },
-    {
-      "title": "Wing Commander IV and the FMV future that never quite was - Ars Technica",
-      "source": {
-        "name": "Ars Technica"
-      },
-      "description": "ArsGames takes a look at the time Chris Roberts more or less made a whole movie....",
-      "url": "https://arstechnica.com/gaming/2026/07/wing-commander-iv-and-the-fmv-future-that-never-quite-was/",
-      "publishedAt": "2026-07-03T11:03:39Z",
-      "processed_at": "2026-07-04T16:03:28.173348+00:00"
-    },
-    {
-      "title": "Poll: $1,000 and No Disc Drive - Is PS6 Dead on Arrival? - Push Square",
-      "source": {
-        "name": "Push Square"
-      },
-      "description": "Nixed-gen...",
-      "url": "https://www.pushsquare.com/features/poll-usd1000-and-no-disc-drive-is-ps6-dead-on-arrival",
-      "publishedAt": "2026-07-03T11:00:00Z",
-      "processed_at": "2026-07-04T16:03:28.173348+00:00"
-    },
-    {
-      "title": "If you still own one of these 6 popular Android phones, it's probably time to upgrade - Android Authority",
-      "source": {
-        "name": "Android Authority"
-      },
-      "description": "Holding onto an old Android phone from Samsung, Google, or Motorola? It might be time to finally giv...",
-      "url": "https://www.androidauthority.com/old-android-phones-worth-upgrading-2026-3681922/",
-      "publishedAt": "2026-07-03T10:31:02Z",
-      "processed_at": "2026-07-04T16:03:28.173348+00:00"
-    },
-    {
-      "title": "Assassin's Creed Black Flag Resynced Global Release and Preload Times Confirmed - IGN",
-      "source": {
-        "name": "IGN"
-      },
-      "description": "Assassin's Creed Black Flag Resynced publisher Ubisoft has confirmed the game's global release and p...",
-      "url": "https://www.ign.com/articles/assassins-creed-black-flag-resynced-global-release-and-preload-times-confirmed",
-      "publishedAt": "2026-07-03T09:58:12Z",
-      "processed_at": "2026-07-04T16:03:28.173348+00:00"
-    },
-    {
-      "title": "Early Steam Machine user mourns \"red line of death\" following GPU failure - Digital Foundry",
-      "source": {
-        "name": "Digitalfoundry.net"
-      },
-      "description": "\"Pretty cool for the 20 minutes that it worked\"....",
-      "url": "https://www.digitalfoundry.net/news/2026/07/early-steam-machine-user-mourns-red-line-of-death-following-gpu-failure",
-      "publishedAt": "2026-07-03T09:57:00Z",
-      "processed_at": "2026-07-04T16:03:28.173348+00:00"
+      "processed_at": "2026-07-04T18:02:32.422987+00:00"
     }
   ],
-  "lastUpdated": "2026-07-04T16:03:28.173466+00:00",
+  "lastUpdated": "2026-07-04T18:02:32.423054+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
