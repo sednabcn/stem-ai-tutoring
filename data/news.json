@@ -1,7 +1,87 @@
 {
   "status": "success",
-  "totalResults": 10,
+  "totalResults": 9,
   "articles": [
+    {
+      "title": "Jon Prosser responds to Apple lawsuit by blaming the other guy - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "YouTuber Jon Prosser has finally filed a formal response to Apple’s lawsuit made against him and ano...",
+      "url": "https://www.theverge.com/tech/961285/jon-prosser-apple-lawsuit-response-ios-leak",
+      "publishedAt": "2026-07-03T13:12:35Z",
+      "processed_at": "2026-07-04T14:38:21.403343+00:00"
+    },
+    {
+      "title": "Best Fourth of July Deals Under $50 on Ninja, Anker and Samsung - cnet.com",
+      "source": {
+        "name": "CNET"
+      },
+      "description": "",
+      "url": "https://www.cnet.com/deals/july-4-deals-under-50-2026-07-03/",
+      "publishedAt": "2026-07-03T12:45:45Z",
+      "processed_at": "2026-07-04T14:38:21.403343+00:00"
+    },
+    {
+      "title": "\"We are profoundly disappointed by Sony's decision\" – Game companies express dismay at the end of PlayStation disc production - GamesIndustry.biz",
+      "source": {
+        "name": "GamesIndustry.biz"
+      },
+      "description": "Atari, Iam8bit, Lost in Cult, and Silver Linings Interactive are among the firms lamenting the loss ...",
+      "url": "https://www.gamesindustry.biz/we-are-profoundly-disappointed-by-sonys-decision-game-companies-express-dismay-at-the-end-of-playstation-disc-production",
+      "publishedAt": "2026-07-03T12:22:42Z",
+      "processed_at": "2026-07-04T14:38:21.403343+00:00"
+    },
+    {
+      "title": "Report claims OxygenOS and Realme UI set to be discontinued - 9to5Google",
+      "source": {
+        "name": "9to5google.com"
+      },
+      "description": "The woes for OnePlus continue as a new report suggests that OxygenOS is being discontinued alongside...",
+      "url": "http://9to5google.com/2026/07/03/report-claims-oxygenos-and-realme-ui-set-to-be-discontinued/",
+      "publishedAt": "2026-07-03T12:18:00Z",
+      "processed_at": "2026-07-04T14:38:21.403343+00:00"
+    },
+    {
+      "title": "Wing Commander IV and the FMV future that never quite was - Ars Technica",
+      "source": {
+        "name": "Ars Technica"
+      },
+      "description": "ArsGames takes a look at the time Chris Roberts more or less made a whole movie....",
+      "url": "https://arstechnica.com/gaming/2026/07/wing-commander-iv-and-the-fmv-future-that-never-quite-was/",
+      "publishedAt": "2026-07-03T11:03:39Z",
+      "processed_at": "2026-07-04T14:38:21.403343+00:00"
+    },
+    {
+      "title": "Poll: $1,000 and No Disc Drive - Is PS6 Dead on Arrival? - Push Square",
+      "source": {
+        "name": "Push Square"
+      },
+      "description": "Nixed-gen...",
+      "url": "https://www.pushsquare.com/features/poll-usd1000-and-no-disc-drive-is-ps6-dead-on-arrival",
+      "publishedAt": "2026-07-03T11:00:00Z",
+      "processed_at": "2026-07-04T14:38:21.403343+00:00"
+    },
+    {
+      "title": "If you still own one of these 6 popular Android phones, it's probably time to upgrade - Android Authority",
+      "source": {
+        "name": "Android Authority"
+      },
+      "description": "Holding onto an old Android phone from Samsung, Google, or Motorola? It might be time to finally giv...",
+      "url": "https://www.androidauthority.com/old-android-phones-worth-upgrading-2026-3681922/",
+      "publishedAt": "2026-07-03T10:31:02Z",
+      "processed_at": "2026-07-04T14:38:21.403343+00:00"
+    },
+    {
+      "title": "Assassin's Creed Black Flag Resynced Global Release and Preload Times Confirmed - IGN",
+      "source": {
+        "name": "IGN"
+      },
+      "description": "Assassin's Creed Black Flag Resynced publisher Ubisoft has confirmed the game's global release and p...",
+      "url": "https://www.ign.com/articles/assassins-creed-black-flag-resynced-global-release-and-preload-times-confirmed",
+      "publishedAt": "2026-07-03T09:58:12Z",
+      "processed_at": "2026-07-04T14:38:21.403343+00:00"
+    },
     {
       "title": "Early Steam Machine user mourns \"red line of death\" following GPU failure - Digital Foundry",
       "source": {
@@ -10,100 +90,10 @@
       "description": "\"Pretty cool for the 20 minutes that it worked\"....",
       "url": "https://www.digitalfoundry.net/news/2026/07/early-steam-machine-user-mourns-red-line-of-death-following-gpu-failure",
       "publishedAt": "2026-07-03T09:57:00Z",
-      "processed_at": "2026-07-04T12:07:09.534607+00:00"
-    },
-    {
-      "title": "Sony has already started repurposing its lone PlayStation disc factory, and the body of physical gaming isn't even cold - Eurogamer.net",
-      "source": {
-        "name": "Eurogamer.net"
-      },
-      "description": "The Sony disc-making operation is already planning to retrain its 300 employees to make microlenses....",
-      "url": "https://www.eurogamer.net/sony-playstation-disc-factory-repurposed",
-      "publishedAt": "2026-07-03T09:17:43Z",
-      "processed_at": "2026-07-04T12:07:09.534607+00:00"
-    },
-    {
-      "title": "News of disease outbreaks can warp our brains in strange and subtle ways - BBC",
-      "source": {
-        "name": "BBC News"
-      },
-      "description": "The \"behavioural immune system\" can drive harsher moral judgement and may even contribute to xenopho...",
-      "url": "https://www.bbc.com/future/article/20260702-ebola-and-hantavirus-how-fear-of-infection-warps-our-psychology",
-      "publishedAt": "2026-07-03T09:01:05Z",
-      "processed_at": "2026-07-04T12:07:09.534607+00:00"
-    },
-    {
-      "title": "Apple Responds to Lawsuit Filed by Three YouTube Channels - MacRumors",
-      "source": {
-        "name": "MacRumors"
-      },
-      "description": "Earlier this year, three YouTube channels sued Apple, alleging that the company violated the U.S. Di...",
-      "url": "https://www.macrumors.com/2026/07/02/apple-responds-to-youtuber-ai-lawsuit/",
-      "publishedAt": "2026-07-03T02:47:37Z",
-      "processed_at": "2026-07-04T12:07:09.534607+00:00"
-    },
-    {
-      "title": "Splatoon Raiders Demo Now Available At Switch 2 Kiosks (North America) - Nintendo Life",
-      "source": {
-        "name": "Nintendo Life"
-      },
-      "description": "Splashing news...",
-      "url": "https://www.nintendolife.com/news/2026/07/splatoon-raiders-demo-now-available-at-switch-2-kiosks-north-america",
-      "publishedAt": "2026-07-02T23:45:00Z",
-      "processed_at": "2026-07-04T12:07:09.534607+00:00"
-    },
-    {
-      "title": "Sony Discusses Potential Future PlayStation Plus Price Hikes - Insider Gaming",
-      "source": {
-        "name": "Insider-gaming.com"
-      },
-      "description": "Sony says it continues to balance value and pricing for PlayStation Plus, addressing the possibility...",
-      "url": "https://insider-gaming.com/sony-discusses-potential-future-playstation-plus-price-hikes/",
-      "publishedAt": "2026-07-02T22:57:16Z",
-      "processed_at": "2026-07-04T12:07:09.534607+00:00"
-    },
-    {
-      "title": "iOS 27 helps apps detect when a user may be getting scammed in real time - 9to5Mac",
-      "source": {
-        "name": "9to5Mac"
-      },
-      "description": "A new iOS 27 framework will help apps fight back against social engineering scams as they unfold via...",
-      "url": "https://9to5mac.com/2026/07/02/ios-27-helps-apps-detect-when-a-user-may-be-getting-scammed-in-real-time/",
-      "publishedAt": "2026-07-02T22:54:00Z",
-      "processed_at": "2026-07-04T12:07:09.534607+00:00"
-    },
-    {
-      "title": "'Grand Theft Auto 6' Video Game Sales Off To Strong Start - Investor's Business Daily",
-      "source": {
-        "name": "Investor's Business Daily"
-      },
-      "description": "Sales of video game \"Grand Theft Auto 6\" from Take-Two Interactive Software appear to be off to a st...",
-      "url": "https://www.investors.com/news/technology/ttwo-stock-gta-6-sales-off-to-strong-start/",
-      "publishedAt": "2026-07-02T20:11:00Z",
-      "processed_at": "2026-07-04T12:07:09.534607+00:00"
-    },
-    {
-      "title": "One Chart Shows Just How Unaffordable Playing The Next GTA Has Become - Kotaku",
-      "source": {
-        "name": "Kotaku"
-      },
-      "description": "Even if you factor in inflation, buying GTA 6 and a new PS5 is the most pricey way to play in the fr...",
-      "url": "https://kotaku.com/this-is-the-most-expensive-its-ever-been-to-buy-a-new-gta-and-a-playstation-to-play-it-on-2000712281",
-      "publishedAt": "2026-07-02T19:30:15Z",
-      "processed_at": "2026-07-04T12:07:09.534607+00:00"
-    },
-    {
-      "title": "Apple's Foldable iPhone Push Gets Bigger - Yahoo Finance",
-      "source": {
-        "name": "Yahoo Entertainment"
-      },
-      "description": "Suppliers reportedly preparing higher production volume....",
-      "url": "https://finance.yahoo.com/technology/articles/apples-foldable-iphone-push-gets-191639066.html",
-      "publishedAt": "2026-07-02T19:16:39Z",
-      "processed_at": "2026-07-04T12:07:09.534607+00:00"
+      "processed_at": "2026-07-04T14:38:21.403343+00:00"
     }
   ],
-  "lastUpdated": "2026-07-04T12:07:09.534675+00:00",
+  "lastUpdated": "2026-07-04T14:38:21.403433+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
