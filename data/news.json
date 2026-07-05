@@ -1,7 +1,37 @@
 {
   "status": "success",
-  "totalResults": 10,
+  "totalResults": 9,
   "articles": [
+    {
+      "title": "Sony Underfire Yet Again for Blocking Marvel Tokon in 132 Countries on PC - Push Square",
+      "source": {
+        "name": "Push Square"
+      },
+      "description": "",
+      "url": "https://www.pushsquare.com/news/2026/07/sony-underfire-yet-again-for-blocking-marvel-tokon-in-132-countries-on-pc",
+      "publishedAt": "2026-07-04T16:30:00Z",
+      "processed_at": "2026-07-05T20:14:57.143480+00:00"
+    },
+    {
+      "title": "The Big Summer Preview – New Ork miniatures and codex are coming - Warhammer Community",
+      "source": {
+        "name": "Warhammer-community.com"
+      },
+      "description": "Updated Trukk, Mek and Warboss are on the horizon....",
+      "url": "https://www.warhammer-community.com/articles/6pvhlvqm/the-big-summer-preview-new-ork-miniatures-and-codex-are-coming",
+      "publishedAt": "2026-07-04T16:22:02Z",
+      "processed_at": "2026-07-05T20:14:57.143480+00:00"
+    },
+    {
+      "title": "Poll: Are You Happy with Your PS Plus Essential Games for July 2026? - Push Square",
+      "source": {
+        "name": "Push Square"
+      },
+      "description": "Plus or minus?...",
+      "url": "https://www.pushsquare.com/features/poll-are-you-happy-with-your-ps-plus-essential-games-for-july-2026",
+      "publishedAt": "2026-07-04T16:00:00Z",
+      "processed_at": "2026-07-05T20:14:57.143480+00:00"
+    },
     {
       "title": "Poll: Vote for Your PS5 Game of the Month (June 2026) - Push Square",
       "source": {
@@ -10,7 +40,7 @@
       "description": "Decide Push Square's GOTM...",
       "url": "https://www.pushsquare.com/features/poll-vote-for-your-ps5-game-of-the-month-june-2026",
       "publishedAt": "2026-07-04T14:00:00Z",
-      "processed_at": "2026-07-05T18:04:09.056715+00:00"
+      "processed_at": "2026-07-05T20:14:57.143480+00:00"
     },
     {
       "title": "Galaxy Z Fold 8 prices leak – the all-new ‘Wide’ is cheaper than the unchanged ‘Ultra’ - 9to5Google",
@@ -20,7 +50,27 @@
       "description": "Peak ironic comedy. That’s how I’d describe leaked prices for the Galaxy Z Fold 8 series, as Samsung...",
       "url": "http://9to5google.com/2026/07/04/samsung-galaxy-z-fold-8-price-leak/",
       "publishedAt": "2026-07-04T14:00:00Z",
-      "processed_at": "2026-07-05T18:04:09.056715+00:00"
+      "processed_at": "2026-07-05T20:14:57.143480+00:00"
+    },
+    {
+      "title": "Danganronpa 2x2 New Content Teased Alongside Surprise Delay - Kotaku",
+      "source": {
+        "name": "Kotaku"
+      },
+      "description": "The designers revealed fresh details at Anime Expo 2026...",
+      "url": "https://kotaku.com/creator-says-fans-worried-by-danganronpa-2x2s-surprise-delay-can-just-play-gta-6-while-they-wait-2000712572",
+      "publishedAt": "2026-07-04T13:51:14Z",
+      "processed_at": "2026-07-05T20:14:57.143480+00:00"
+    },
+    {
+      "title": "These 20+ Games Are Coming To Xbox Next Week (July 6-10) - Pure Xbox",
+      "source": {
+        "name": "Pure Xbox"
+      },
+      "description": "Including at least two more Game Pass additions...",
+      "url": "https://www.purexbox.com/features/these-20plus-games-are-coming-to-xbox-next-week-july-6-10",
+      "publishedAt": "2026-07-04T13:44:08Z",
+      "processed_at": "2026-07-05T20:14:57.143480+00:00"
     },
     {
       "title": "The best 4th of July sales worth shopping right now: Save up to 70% on Apple, Yeti and more - NBC News",
@@ -30,17 +80,7 @@
       "description": "The best 4th of July sales are happening now. Our editors found worthwhile deals on Apple, Yeti, Med...",
       "url": "https://www.nbcnews.com/select/shopping/best-4th-of-july-sales-deals-2026-rcna352871",
       "publishedAt": "2026-07-04T12:53:26Z",
-      "processed_at": "2026-07-05T18:04:09.056715+00:00"
-    },
-    {
-      "title": "Best Fourth of July Deals Under $50 on Ninja, Anker and Samsung - CNET",
-      "source": {
-        "name": "CNET"
-      },
-      "description": "We've rounded up almost 100 deals on tech, home essentials and more that won't break the bank....",
-      "url": "https://www.cnet.com/deals/july-4-deals-under-50-2026-07-03/",
-      "publishedAt": "2026-07-04T12:47:06Z",
-      "processed_at": "2026-07-05T18:04:09.056715+00:00"
+      "processed_at": "2026-07-05T20:14:57.143480+00:00"
     },
     {
       "title": "2027 Toyota GR GT3 Testing At Nürburgring - dailysportscar.com",
@@ -50,60 +90,10 @@
       "description": "2027 Toyota GR GT3 Testing At Nürburgring...",
       "url": "https://www.dailysportscar.com/2026/07/04/2027-toyota-gr-gt3-testing-at-nurburgring.html",
       "publishedAt": "2026-07-04T12:30:23Z",
-      "processed_at": "2026-07-05T18:04:09.056715+00:00"
-    },
-    {
-      "title": "Why Video Games Cost So Much More Now - Newser",
-      "source": {
-        "name": "Newser"
-      },
-      "description": "Ballooning development budgets, digital trends are driving higher game, console prices...",
-      "url": "https://www.newser.com/story/391772/why-video-games-cost-so-much-more-now.html",
-      "publishedAt": "2026-07-04T12:10:00Z",
-      "processed_at": "2026-07-05T18:04:09.056715+00:00"
-    },
-    {
-      "title": "TP-Link Deco BE77 Review: Great Mesh Wi-Fi for the Eero-Weary - Gizmodo",
-      "source": {
-        "name": "Gizmodo.com"
-      },
-      "description": "TP-Link’s mesh Wi-Fi system is super fast, stable, and probably way more than my apartment needs....",
-      "url": "https://gizmodo.com/tp-link-deco-be77-review-great-mesh-wi-fi-for-the-eero-weary-2000771246",
-      "publishedAt": "2026-07-04T12:00:35Z",
-      "processed_at": "2026-07-05T18:04:09.056715+00:00"
-    },
-    {
-      "title": "AYANEO NEXT 2 Strix Halo handheld starts global shipping in late July, top SKU hits $5,299 - VideoCardz.com",
-      "source": {
-        "name": "Videocardz.com"
-      },
-      "description": "AYANEO is preparing global NEXT 2 shipments for late July after months of delays. The top Ryzen AI M...",
-      "url": "https://videocardz.com/newz/ayaneo-next-2-strix-halo-handheld-starts-global-shipping-in-late-july-top-sku-hits-5299",
-      "publishedAt": "2026-07-04T11:50:48Z",
-      "processed_at": "2026-07-05T18:04:09.056715+00:00"
-    },
-    {
-      "title": "What Does The Shield In The Battery Icon Mean On A Samsung Phone? - bgr.com",
-      "source": {
-        "name": "BGR"
-      },
-      "description": "The new shield icon on Samsung phones indicates that the phone's software is protecting your battery...",
-      "url": "https://www.bgr.com/2203985/what-does-the-shield-in-battery-icon-mean-on-samsung-phone/",
-      "publishedAt": "2026-07-04T11:47:00Z",
-      "processed_at": "2026-07-05T18:04:09.056715+00:00"
-    },
-    {
-      "title": "Where NASA Posts Its Best Space Photos, and How to Find Them - WIRED",
-      "source": {
-        "name": "Wired"
-      },
-      "description": "Explore decades of incredible images and videos of stars, planets, moons, and galaxies—most of which...",
-      "url": "https://www.wired.com/story/where-nasa-posts-its-best-space-photos/",
-      "publishedAt": "2026-07-04T11:00:00Z",
-      "processed_at": "2026-07-05T18:04:09.056715+00:00"
+      "processed_at": "2026-07-05T20:14:57.143480+00:00"
     }
   ],
-  "lastUpdated": "2026-07-05T18:04:09.056788+00:00",
+  "lastUpdated": "2026-07-05T20:14:57.143553+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
