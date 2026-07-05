@@ -3,6 +3,26 @@
   "totalResults": 10,
   "articles": [
     {
+      "title": "I Got a First Look at Sony’s Cooling Neck Device, Just in Time for the Heat Wave - CNET",
+      "source": {
+        "name": "CNET"
+      },
+      "description": "Sony's Japanese Reon Pocket Pro Plus is now shipping in the US. These are my thoughts after days of ...",
+      "url": "https://www.cnet.com/health/personal-care/i-got-first-look-sony-cooling-neck-device-in-time-heat-wave/",
+      "publishedAt": "2026-07-04T09:21:00Z",
+      "processed_at": "2026-07-05T14:44:23.407269+00:00"
+    },
+    {
+      "title": "Cancel ChatGPT and get lifetime access to Claude, Gemini, and more for $55.30 with this code - Mashable",
+      "source": {
+        "name": "Mashable"
+      },
+      "description": "No monthly subscription fees, and it'll even let you send one prompt to multiple AI models....",
+      "url": "https://mashable.com/tech/july-4-chatplayground-ai-unlimited-plan-lifetime-subscriptions",
+      "publishedAt": "2026-07-04T09:00:00Z",
+      "processed_at": "2026-07-05T14:44:23.407269+00:00"
+    },
+    {
       "title": "Qi fan fan - The Verge",
       "source": {
         "name": "The Verge"
@@ -10,7 +30,67 @@
       "description": "Active cooling really works as demonstrated on a Kuxiu D5  Qi2.2 charging dock. Useful at Qi 25W, it...",
       "url": "https://www.theverge.com/tech/961332/qi-active-cooling-really-works",
       "publishedAt": "2026-07-04T07:00:00Z",
-      "processed_at": "2026-07-05T12:16:59.744133+00:00"
+      "processed_at": "2026-07-05T14:44:23.407269+00:00"
+    },
+    {
+      "title": "From Nintendo to KFC, how brands reacted to the PlayStation disc controversy - Creative Bloq",
+      "source": {
+        "name": "Creative Bloq"
+      },
+      "description": "Brands have expressed a mix of parody and outrage....",
+      "url": "https://www.creativebloq.com/design/branding/from-nintendo-to-kfc-how-brands-reacted-to-the-playstation-disc-controversy",
+      "publishedAt": "2026-07-04T07:00:00Z",
+      "processed_at": "2026-07-05T14:44:23.407269+00:00"
+    },
+    {
+      "title": "A MAJOR change is afoot at Xbox's Arkane Studios and MachineGames - Windows Central",
+      "source": {
+        "name": "Windows Central"
+      },
+      "description": "MachineGames Studio Director and co-founder Jerk Gustafsson is seemingly taking over leadership of A...",
+      "url": "https://www.windowscentral.com/gaming/xbox/change-is-afoot-at-xboxs-arkane-studios-and-machinegames-with-machines-co-founder-taking-over-arkanes-operations",
+      "publishedAt": "2026-07-04T05:45:18Z",
+      "processed_at": "2026-07-05T14:44:23.407269+00:00"
+    },
+    {
+      "title": "The only AI glossary you’ll need this year - TechCrunch",
+      "source": {
+        "name": "TechCrunch"
+      },
+      "description": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions ...",
+      "url": "https://techcrunch.com/2026/07/03/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+      "publishedAt": "2026-07-03T21:20:00Z",
+      "processed_at": "2026-07-05T14:44:23.407269+00:00"
+    },
+    {
+      "title": "Apple has reportedly suspended the development of the AirPods Ultra - GSMArena.com news - GSMArena.com",
+      "source": {
+        "name": "GSMArena.com"
+      },
+      "description": "Even so, they could still presumably be launched late next year. For quite a while now we’ve been he...",
+      "url": "https://www.gsmarena.com/apple_has_reportedly_suspended_the_development_of_the_airpods_ultra-news-73567.php",
+      "publishedAt": "2026-07-03T21:18:02Z",
+      "processed_at": "2026-07-05T14:44:23.407269+00:00"
+    },
+    {
+      "title": "Square Enix just kicked off its biggest Nintendo Switch 2 and Switch sale ever with massive discounts for Final Fantasy, Dragon Quest, more - Nintendo Everything",
+      "source": {
+        "name": "Nintendoeverything.com"
+      },
+      "description": "Square Enix has a massive Nintendo Switch 2 and Switch sale running featuring Final Fantasy, Dragon ...",
+      "url": "https://nintendoeverything.com/square-enix-just-kicked-off-its-biggest-nintendo-switch-2-and-switch-sale-ever-with-massive-discounts-for-final-fantasy-dragon-quest-more/",
+      "publishedAt": "2026-07-03T21:08:32Z",
+      "processed_at": "2026-07-05T14:44:23.407269+00:00"
+    },
+    {
+      "title": "Apple Loop: iPhone 18 Pro Pre-Order Dates, New iPad Pro Details, iPhone 16e Special Offers - Forbes",
+      "source": {
+        "name": "Forbes"
+      },
+      "description": "This week’s Apple headlines: iPhone 18 Pro pre-orders, Apple's significant data leak, iOS 27 dates, ...",
+      "url": "https://www.forbes.com/sites/ewanspence/2026/07/03/apple-news-headlines-iphone-18-pro-preorder-dates-new-ipad-pro-macbook-pro/",
+      "publishedAt": "2026-07-03T20:03:49Z",
+      "processed_at": "2026-07-05T14:44:23.407269+00:00"
     },
     {
       "title": "Samsung Galaxy Z Fold8, Fold8 Ultra, Flip8, Watch9, Watch Ultra 2 prices leak - GSMArena.com news - GSMArena.com",
@@ -20,90 +100,10 @@
       "description": "The motherlode is here. Samsung is widely expected to unveil the Galaxy Z Fold8, Galaxy Z Fold8 Ultr...",
       "url": "https://www.gsmarena.com/samsung_galaxy_z_fold8_fold8_ultra_flip8_watch9_watch_ultra_2_prices_leak-news-73569.php",
       "publishedAt": "2026-07-03T19:41:02Z",
-      "processed_at": "2026-07-05T12:16:59.744133+00:00"
-    },
-    {
-      "title": "New \"Bad Epoll\" Linux Kernel Flaw Lets Unprivileged Users Gain Root, Hits Android - The Hacker News",
-      "source": {
-        "name": "Internet"
-      },
-      "description": "Bad Epoll (CVE-2026-46242) is a use-after-free race in the Linux kernel that lets a local user gain ...",
-      "url": "https://thehackernews.com/2026/07/new-bad-epoll-linux-kernel-flaw-lets.html",
-      "publishedAt": "2026-07-03T19:40:00Z",
-      "processed_at": "2026-07-05T12:16:59.744133+00:00"
-    },
-    {
-      "title": "iPhone 18 With 9GB RAM Still Won't Support Two New iOS 27 Features - MacRumors",
-      "source": {
-        "name": "MacRumors"
-      },
-      "description": "The lower-end iPhone 18 and iPhone 18e will be equipped with 9GB of RAM, up from 8GB in the iPhone 1...",
-      "url": "https://www.macrumors.com/2026/07/03/iphone-18-wont-support-two-ios-27-features/",
-      "publishedAt": "2026-07-03T19:10:00Z",
-      "processed_at": "2026-07-05T12:16:59.744133+00:00"
-    },
-    {
-      "title": "Danganronpa 2x2 Game Reveals ‘Slayhem’ Title for New Scenario, Delay to Early 2027 - Anime News Network",
-      "source": {
-        "name": "Anime News Network"
-      },
-      "description": "New alternate “Slayhem” scenario to be about 35 hours long...",
-      "url": "https://www.animenewsnetwork.com/news/2026-07-03/danganronpa-2x2-game-reveals-lsquo-slayhem-rsquo-title-for-new-scenario-delay-to-early-2027/.239263",
-      "publishedAt": "2026-07-03T18:44:41Z",
-      "processed_at": "2026-07-05T12:16:59.744133+00:00"
-    },
-    {
-      "title": "Oura Ring 5 In-Depth Review: Smaller yes, but still worth it? - DC Rainmaker",
-      "source": {
-        "name": "DC Rainmaker"
-      },
-      "description": "The Oura Ring 5 In-Depth Review, covering accuracy, new features, size comparisons, and plenty more....",
-      "url": "https://www.dcrainmaker.com/2026/07/oura-ring-5-in-depth-review-comparison.html",
-      "publishedAt": "2026-07-03T18:42:41Z",
-      "processed_at": "2026-07-05T12:16:59.744133+00:00"
-    },
-    {
-      "title": "Ferrari Finally Brought Back The Manual—Sort Of - Motor1.com",
-      "source": {
-        "name": "Motor1 "
-      },
-      "description": "The new Ferrari 12Cilindri Manuale is a special trim with a gearbox that offers both manual and auto...",
-      "url": "https://www.motor1.com/news/800495/ferrari-12cilindri-manual/",
-      "publishedAt": "2026-07-03T18:01:01Z",
-      "processed_at": "2026-07-05T12:16:59.744133+00:00"
-    },
-    {
-      "title": "Amazon quietly updated 2023’s Fire HD 10 tablet with 4GB of RAM - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "The 32GB model is now available with a bump from 3GB to 4GB of RAM with a small price increase....",
-      "url": "https://www.theverge.com/tech/961387/amazon-2023-fire-hd-10-tablet-4gb-update",
-      "publishedAt": "2026-07-03T17:33:55Z",
-      "processed_at": "2026-07-05T12:16:59.744133+00:00"
-    },
-    {
-      "title": "‘Destiny 2’ Players Discover Hugely Overpowered Armor Set Before Closure - Forbes",
-      "source": {
-        "name": "Forbes"
-      },
-      "description": "Destiny 2 has a new, overpowered armor set it has just introduced, but it is too late for Bungie to ...",
-      "url": "https://www.forbes.com/sites/paultassi/2026/07/03/destiny-2-players-discover-hugely-overpowered-armor-set-before-closure/",
-      "publishedAt": "2026-07-03T16:10:42Z",
-      "processed_at": "2026-07-05T12:16:59.744133+00:00"
-    },
-    {
-      "title": "This Backrooms Game Outsold Every PS5 Title on PS Store Last Month - Push Square",
-      "source": {
-        "name": "Push Square"
-      },
-      "description": "You can thank the movie for that...",
-      "url": "https://www.pushsquare.com/news/2026/07/this-backrooms-game-outsold-every-ps5-title-on-ps-store-last-month",
-      "publishedAt": "2026-07-03T16:00:00Z",
-      "processed_at": "2026-07-05T12:16:59.744133+00:00"
+      "processed_at": "2026-07-05T14:44:23.407269+00:00"
     }
   ],
-  "lastUpdated": "2026-07-05T12:16:59.744208+00:00",
+  "lastUpdated": "2026-07-05T14:44:23.407355+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
