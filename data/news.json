@@ -1,7 +1,37 @@
 {
   "status": "success",
-  "totalResults": 10,
+  "totalResults": 9,
   "articles": [
+    {
+      "title": "Crimson Desert Update 1.13.00 is live – here's what's new - Eurogamer.net",
+      "source": {
+        "name": "Eurogamer.net"
+      },
+      "description": "There are also dozens of new pieces of equipment for Kilff and Oongka obtainable through quests, ach...",
+      "url": "https://www.eurogamer.net/crimson-desert-update-11300",
+      "publishedAt": "2026-07-05T16:04:09Z",
+      "processed_at": "2026-07-06T19:59:16.364599+00:00"
+    },
+    {
+      "title": "We Posted a $100 Mario 64 Bounty 30 Years Ago. It's Time to Settle Our Debt! - IGN",
+      "source": {
+        "name": "IGN"
+      },
+      "description": "It's been 30 years since we posted our bounty about unlocking Luigi in Mario 64, so it’s time to fin...",
+      "url": "https://www.ign.com/articles/the-mario-64-bounty-that-took-30-years-to-settle",
+      "publishedAt": "2026-07-05T16:00:00Z",
+      "processed_at": "2026-07-06T19:59:16.364599+00:00"
+    },
+    {
+      "title": "5 desk gadgets that can make your workday better - TechCrunch",
+      "source": {
+        "name": "TechCrunch"
+      },
+      "description": "The right desk gadgets can help you reduce clutter, stay focused, and add a little extra convenience...",
+      "url": "https://techcrunch.com/2026/07/05/5-desk-gadgets-that-can-make-your-workday-better/",
+      "publishedAt": "2026-07-05T15:00:00Z",
+      "processed_at": "2026-07-06T19:59:16.364599+00:00"
+    },
     {
       "title": "Infuriating Google commercial imagines the founding fathers embracing AI - The Verge",
       "source": {
@@ -10,7 +40,17 @@
       "description": "Google imagines if the founding fathers used Gemini AI to write the Declaration of Independence, and...",
       "url": "https://www.theverge.com/ai-artificial-intelligence/961468/google-ai-commercial-founding-fathers-declaration-of-independence",
       "publishedAt": "2026-07-05T14:23:11Z",
-      "processed_at": "2026-07-06T17:44:22.310565+00:00"
+      "processed_at": "2026-07-06T19:59:16.364599+00:00"
+    },
+    {
+      "title": "Metal Gear Creator Responds To Sony Killing PlayStation Discs - Kotaku",
+      "source": {
+        "name": "Kotaku"
+      },
+      "description": "The Death Stranding 2 director warns about a world without physical media...",
+      "url": "https://kotaku.com/hideo-kojima-finds-it-really-sad-that-sony-is-killing-playstation-game-discs-2000712659",
+      "publishedAt": "2026-07-05T14:18:40Z",
+      "processed_at": "2026-07-06T19:59:16.364599+00:00"
     },
     {
       "title": "Epic Games settles a court case against former contractor accused of leaking Fortnite collaborations - Eurogamer.net",
@@ -20,7 +60,7 @@
       "description": "Former contractor Hayden Cohen has agreed to a judgment that bars them from \"possessing, accessing, ...",
       "url": "https://www.eurogamer.net/epic-games-fortnite-settles-leaker-contractor-lawsuit",
       "publishedAt": "2026-07-05T14:06:30Z",
-      "processed_at": "2026-07-06T17:44:22.310565+00:00"
+      "processed_at": "2026-07-06T19:59:16.364599+00:00"
     },
     {
       "title": "3 features that Google still hasn’t launched: Photos, Gboard - 9to5Google",
@@ -30,7 +70,7 @@
       "description": "This is a list of features that Google has shown off but not yet launched. It goes a bit beyond......",
       "url": "http://9to5google.com/2026/07/05/3-google-features-photos-gboard/",
       "publishedAt": "2026-07-05T14:00:00Z",
-      "processed_at": "2026-07-06T17:44:22.310565+00:00"
+      "processed_at": "2026-07-06T19:59:16.364599+00:00"
     },
     {
       "title": "5 Foldable Harbor Freight Finds That Can Easily Fit Into Your Pocket Or Backpack - SlashGear",
@@ -40,7 +80,7 @@
       "description": "Discover 5 foldable Harbor Freight finds that can easily fit into your pocket or backpack. We review...",
       "url": "https://www.slashgear.com/2205693/harbor-freight-foldable-finds-fit-into-pocket-backpack/",
       "publishedAt": "2026-07-05T13:45:00Z",
-      "processed_at": "2026-07-06T17:44:22.310565+00:00"
+      "processed_at": "2026-07-06T19:59:16.364599+00:00"
     },
     {
       "title": "It's Official, Shantae's Seventh Game Will Arrive In 2027 - Nintendo Life",
@@ -50,60 +90,10 @@
       "description": "Check out the brand-new teaser image...",
       "url": "https://www.nintendolife.com/news/2026/07/its-official-shantaes-seventh-game-will-arrive-in-2027",
       "publishedAt": "2026-07-05T13:30:00Z",
-      "processed_at": "2026-07-06T17:44:22.310565+00:00"
-    },
-    {
-      "title": "Americans of all ages are spending less time socializing - Axios",
-      "source": {
-        "name": "Axios"
-      },
-      "description": "It's a fundamental shift in the way we live our lives that has implications for everything from what...",
-      "url": "https://www.axios.com/2026/07/05/americans-socializing-decline",
-      "publishedAt": "2026-07-05T13:10:02Z",
-      "processed_at": "2026-07-06T17:44:22.310565+00:00"
-    },
-    {
-      "title": "7 Windows 11 features you’ll actually want to use in version 26H2 - Windows Central",
-      "source": {
-        "name": "Windows Central"
-      },
-      "description": "The Windows 11 2026 Update isn't about a major redesign. It's about giving users more control, bette...",
-      "url": "https://www.windowscentral.com/microsoft/windows-11/7-features-im-most-excited-to-use-on-windows-11-version-26h2",
-      "publishedAt": "2026-07-05T13:06:12Z",
-      "processed_at": "2026-07-06T17:44:22.310565+00:00"
-    },
-    {
-      "title": "Vizio made a great dumb TV, and it might have been by accident - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "The Mini LED Quantum is the cheapest quantum-dot TV you can get, but Walmart’s tracking is worrisome...",
-      "url": "https://www.theverge.com/tech/960916/vizio-mini-led-quantum-tv-review",
-      "publishedAt": "2026-07-05T13:00:00Z",
-      "processed_at": "2026-07-06T17:44:22.310565+00:00"
-    },
-    {
-      "title": "PS5 Fans Panic Over 'Lost Games' Clause, But There's More to the Story - Push Square",
-      "source": {
-        "name": "Push Square"
-      },
-      "description": "Never a dull day...",
-      "url": "https://www.pushsquare.com/news/2026/07/ps5-fans-panic-over-lost-games-clause-but-theres-more-to-the-story",
-      "publishedAt": "2026-07-05T12:01:13Z",
-      "processed_at": "2026-07-06T17:44:22.310565+00:00"
-    },
-    {
-      "title": "How I Cleaned Up the Thousands of Photos and Videos I Had Scattered Across the Internet - CNET",
-      "source": {
-        "name": "CNET"
-      },
-      "description": "I reduced my storage subscription fees and learned a valuable lesson in how to back up priceless mem...",
-      "url": "https://www.cnet.com/tech/computing/how-to-organize-your-photos-and-videos/",
-      "publishedAt": "2026-07-05T12:01:00Z",
-      "processed_at": "2026-07-06T17:44:22.310565+00:00"
+      "processed_at": "2026-07-06T19:59:16.364599+00:00"
     }
   ],
-  "lastUpdated": "2026-07-06T17:44:22.310640+00:00",
+  "lastUpdated": "2026-07-06T19:59:16.364667+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
