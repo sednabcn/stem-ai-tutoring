@@ -3,6 +3,36 @@
   "totalResults": 10,
   "articles": [
     {
+      "title": "The rise of computer chips — and the race to control them - Nature",
+      "source": {
+        "name": "Nature.com"
+      },
+      "description": "An analysis sets out the history of computing beyond software and Californian entrepreneurs....",
+      "url": "https://www.nature.com/articles/d41586-026-02099-y",
+      "publishedAt": "2026-07-06T19:51:09Z",
+      "processed_at": "2026-07-07T19:56:36.103007+00:00"
+    },
+    {
+      "title": "The Fast-Playing Cyberpunk TCG Is a Blast - Kotaku",
+      "source": {
+        "name": "Kotaku"
+      },
+      "description": "The Cyberpunk TCG is fast, fulfilling, and respects your time...",
+      "url": "https://kotaku.com/the-cyberpunk-tcg-isnt-even-out-yet-and-im-already-planning-my-next-deck-2000712976",
+      "publishedAt": "2026-07-06T19:15:26Z",
+      "processed_at": "2026-07-07T19:56:36.103007+00:00"
+    },
+    {
+      "title": "Game Pass Is Reportedly Back Down To 30 Million Subscribers - Kotaku",
+      "source": {
+        "name": "Kotaku"
+      },
+      "description": "The decline comes after a very unpopular price hike in 2025...",
+      "url": "https://kotaku.com/game-pass-is-reportedly-back-down-to-30-million-subscribers-2000712971",
+      "publishedAt": "2026-07-06T18:15:05Z",
+      "processed_at": "2026-07-07T19:56:36.103007+00:00"
+    },
+    {
       "title": "Founder Asks 'How Much' As Xbox Looks To Cut Arkane Loose - Kotaku",
       "source": {
         "name": "Kotaku"
@@ -10,17 +40,37 @@
       "description": "A storied studio's future is more uncertain than ever...",
       "url": "https://kotaku.com/with-arkane-for-sale-and-blade-at-risk-original-founder-asks-xbox-ceo-how-much-2000712945",
       "publishedAt": "2026-07-06T17:31:39Z",
-      "processed_at": "2026-07-07T17:14:51.238707+00:00"
+      "processed_at": "2026-07-07T19:56:36.103007+00:00"
     },
     {
-      "title": "iOS 27 beta 3 now available as Apple tests major Siri AI upgrade - 9to5Mac",
+      "title": "Guilty Gear Strive Shocks Players with Confirmation of a Second Guest Character - Push Square",
       "source": {
-        "name": "9to5Mac"
+        "name": "Push Square"
       },
-      "description": "Apple has released the third iOS 27 beta for developer testing. iOS 27 beta 3 replaces the second iO...",
-      "url": "https://9to5mac.com/2026/07/06/ios-27-beta-3/",
-      "publishedAt": "2026-07-06T17:23:00Z",
-      "processed_at": "2026-07-07T17:14:51.238707+00:00"
+      "description": "Coming in winter 2026...",
+      "url": "https://www.pushsquare.com/news/2026/07/guilty-gear-strive-shocks-players-with-confirmation-of-a-second-guest-character",
+      "publishedAt": "2026-07-06T17:30:00Z",
+      "processed_at": "2026-07-07T19:56:36.103007+00:00"
+    },
+    {
+      "title": "Apple Seeds Third iOS 27 and iPadOS 27 Betas to Developers - MacRumors",
+      "source": {
+        "name": "MacRumors"
+      },
+      "description": "Apple today seeded the third betas of iOS 27 and iPadOS 27 to developers for testing purposes, with ...",
+      "url": "https://www.macrumors.com/2026/07/06/apple-seeds-ios-27-beta-3/",
+      "publishedAt": "2026-07-06T17:24:00Z",
+      "processed_at": "2026-07-07T19:56:36.103007+00:00"
+    },
+    {
+      "title": "Undead Labs' New Mystery Owner Won't Have to Bring State of Decay 3 to Xbox Game Pass — Report - IGN",
+      "source": {
+        "name": "IGN"
+      },
+      "description": "As Undead Labs continues development on State of Decay 3 under new ownership, it sounds like the zom...",
+      "url": "https://www.ign.com/articles/undead-labs-reportedly-wont-be-required-to-bring-state-of-decay-3-to-xbox-game-pass-after-microsoft-sale",
+      "publishedAt": "2026-07-06T17:13:42Z",
+      "processed_at": "2026-07-07T19:56:36.103007+00:00"
     },
     {
       "title": "If you use Google, you’re training its AI. Here’s how to opt out. - TechCrunch",
@@ -30,7 +80,7 @@
       "description": "PSA: A change to Google's privacy settings let it train its AI on more of your data. Here's how to o...",
       "url": "https://techcrunch.com/2026/07/06/if-you-use-google-youre-training-its-ai-heres-how-to-opt-out/",
       "publishedAt": "2026-07-06T17:04:58Z",
-      "processed_at": "2026-07-07T17:14:51.238707+00:00"
+      "processed_at": "2026-07-07T19:56:36.103007+00:00"
     },
     {
       "title": "Apple starts offering free 4K upgrades for purchased TV shows - 9to5Mac",
@@ -40,7 +90,7 @@
       "description": "Back in 2017, Apple began rolling out 4K content on the iTunes Store in conjunction with the launch ...",
       "url": "https://9to5mac.com/2026/07/06/apple-starts-offering-free-4k-upgrades-for-purchased-tv-shows/",
       "publishedAt": "2026-07-06T16:17:00Z",
-      "processed_at": "2026-07-07T17:14:51.238707+00:00"
+      "processed_at": "2026-07-07T19:56:36.103007+00:00"
     },
     {
       "title": "Mint Mobile cuts all plans to $15/month as its Google Pixel phones have vanished - 9to5Google",
@@ -50,60 +100,10 @@
       "description": "Mint Mobile is currently running one of its recurring specials that cuts all of its plans to $15/mon...",
       "url": "http://9to5google.com/2026/07/06/mint-mobile-15-dollar-plan-deal/",
       "publishedAt": "2026-07-06T16:05:00Z",
-      "processed_at": "2026-07-07T17:14:51.238707+00:00"
-    },
-    {
-      "title": "The Ferrari 12Cilindri Manuale's Stick-Shift Might Not Be 'Real' But You've Gotta Stop Freaking Out About It - Jalopnik",
-      "source": {
-        "name": "Jalopnik"
-      },
-      "description": "In essence, it was either going to be this \"fake\" manual, or no manual at all, and I personally beli...",
-      "url": "https://www.jalopnik.com/2208594/ferrari-12cilindri-manuale-stick-shift-stop-freaking-out/",
-      "publishedAt": "2026-07-06T15:21:58Z",
-      "processed_at": "2026-07-07T17:14:51.238707+00:00"
-    },
-    {
-      "title": "Clip-Ons Are Wireless Earbuds’ Next Inescapable Trend - Gizmodo",
-      "source": {
-        "name": "Gizmodo.com"
-      },
-      "description": "With Samsung looming large over the category, clip-style wireless earbuds might go fully mainstream....",
-      "url": "https://gizmodo.com/clip-ons-are-wireless-earbuds-next-inescapable-trend-2000781703",
-      "publishedAt": "2026-07-06T15:20:00Z",
-      "processed_at": "2026-07-07T17:14:51.238707+00:00"
-    },
-    {
-      "title": "Xbox CEO Asha Sharma wants the company to \"entertain more than a billion people\" every day: here's why that's a deeply unrealistic thing to say - Eurogamer.net",
-      "source": {
-        "name": "Eurogamer.net"
-      },
-      "description": "The company will have to do so with four less studios under its belt....",
-      "url": "https://www.eurogamer.net/xbox-ceo-asha-sharma-one-billion",
-      "publishedAt": "2026-07-06T15:16:27Z",
-      "processed_at": "2026-07-07T17:14:51.238707+00:00"
-    },
-    {
-      "title": "A World Of Warcraft Plague Kills Players And Fills Inns With Nasty Contagious Goo - Kotaku",
-      "source": {
-        "name": "Kotaku"
-      },
-      "description": "World Of Warcraft's 'Corrupted Blood Incident 2.0' resulted in the game getting even more toxic than...",
-      "url": "https://kotaku.com/world-of-warcraft-wow-corrupted-blood-withering-contagion-spreading-infection-2000712838",
-      "publishedAt": "2026-07-06T15:06:21Z",
-      "processed_at": "2026-07-07T17:14:51.238707+00:00"
-    },
-    {
-      "title": "AMD Ryzen AI Halo Is An Excellent & Powerful Mini PC With Fully Open-Source Software Review - Phoronix",
-      "source": {
-        "name": "Phoronix"
-      },
-      "description": "Earlier this year AMD announced the Ryzen AI Halo as their in-house mini PC offering built around th...",
-      "url": "https://www.phoronix.com/review/amd-ryzen-ai-halo",
-      "publishedAt": "2026-07-06T15:00:00Z",
-      "processed_at": "2026-07-07T17:14:51.238707+00:00"
+      "processed_at": "2026-07-07T19:56:36.103007+00:00"
     }
   ],
-  "lastUpdated": "2026-07-07T17:14:51.238779+00:00",
+  "lastUpdated": "2026-07-07T19:56:36.103079+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
