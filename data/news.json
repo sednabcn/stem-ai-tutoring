@@ -3,24 +3,54 @@
   "totalResults": 9,
   "articles": [
     {
+      "title": "Samsung's Galaxy Z Fold 8 Ultra reportedly revives the S Pen, but there's a catch - PhoneArena",
+      "source": {
+        "name": "PhoneArena"
+      },
+      "description": "The rumored spec sheet checks nearly every box the Fold 7 missed, except one....",
+      "url": "https://www.phonearena.com/news/samsungs-galaxy-z-fold-8-ultra-reportedly-revives-the-s-pen-but-theres-a-catch_id181627",
+      "publishedAt": "2026-07-05T23:17:18Z",
+      "processed_at": "2026-07-07T03:33:15.252988+00:00"
+    },
+    {
+      "title": "Video games are a fortune. Blame Trump and AI. - Daily Kos",
+      "source": {
+        "name": "Dailykos.com"
+      },
+      "description": "Spiking console prices are a clear sign of inflation—especially for one key voting bloc....",
+      "url": "http://www.dailykos.com/stories/2026/7/5/800064336/series/xbox-nintendo-playstation-price-increases-ai-ram-trump/",
+      "publishedAt": "2026-07-05T23:00:00Z",
+      "processed_at": "2026-07-07T03:33:15.252988+00:00"
+    },
+    {
+      "title": "Report: iPhone Ultra to have incredibly limited availability at launch, may ship slightly later - 9to5Mac",
+      "source": {
+        "name": "9to5Mac"
+      },
+      "description": "According to supply chain analyst Ming-Chi Kuo, Apple is likely to have very limited supply for iPho...",
+      "url": "https://9to5mac.com/2026/07/05/iphone-fold-low-supply-at-launch-delayed-release/",
+      "publishedAt": "2026-07-05T20:38:00Z",
+      "processed_at": "2026-07-07T03:33:15.252988+00:00"
+    },
+    {
       "title": "Nintendo President Promises To Tackle Pokémon Card Scalpers After Billions Printed Fail To Satisfy Market - Kotaku",
       "source": {
         "name": "Kotaku"
       },
-      "description": "",
+      "description": "During a meeting with shareholders, Shuntaro Furukawa said that the intense world of Pokémon Card fl...",
       "url": "https://kotaku.com/nintendo-president-promises-to-tackle-pokemon-card-scalpers-after-billions-printed-fail-to-satisfy-market-2000712688",
       "publishedAt": "2026-07-05T18:31:05Z",
-      "processed_at": "2026-07-06T23:09:19.725657+00:00"
+      "processed_at": "2026-07-07T03:33:15.252988+00:00"
     },
     {
-      "title": "'iPhone Ultra' Likely to 'Repeat the iPhone X Story' - MacRumors",
+      "title": "This $35 AI-powered Mac app transcribes your voice three times faster than typing — last chance to save - Mashable",
       "source": {
-        "name": "MacRumors"
+        "name": "Mashable"
       },
-      "description": "Apple will likely \"repeat the iPhone X story\" by unveiling its foldable iPhone at the same time as t...",
-      "url": "https://www.macrumors.com/2026/07/05/foldable-iphone-to-repeat-iphone-x-story/",
-      "publishedAt": "2026-07-05T17:28:32Z",
-      "processed_at": "2026-07-06T23:09:19.725657+00:00"
+      "description": "",
+      "url": "https://mashable.com/tech/july-5-voibe-lifetime-subscription",
+      "publishedAt": "2026-07-05T17:44:06Z",
+      "processed_at": "2026-07-07T03:33:15.252988+00:00"
     },
     {
       "title": "Crimson Desert Update 1.13.00 is live – here's what's new - Eurogamer.net",
@@ -30,7 +60,7 @@
       "description": "There are also dozens of new pieces of equipment for Kilff and Oongka obtainable through quests, ach...",
       "url": "https://www.eurogamer.net/crimson-desert-update-11300",
       "publishedAt": "2026-07-05T16:04:09Z",
-      "processed_at": "2026-07-06T23:09:19.725657+00:00"
+      "processed_at": "2026-07-07T03:33:15.252988+00:00"
     },
     {
       "title": "We Posted a $100 Mario 64 Bounty 30 Years Ago. It's Time to Settle Our Debt! - IGN",
@@ -40,7 +70,7 @@
       "description": "It's been 30 years since we posted our bounty about unlocking Luigi in Mario 64, so it’s time to fin...",
       "url": "https://www.ign.com/articles/the-mario-64-bounty-that-took-30-years-to-settle",
       "publishedAt": "2026-07-05T16:00:00Z",
-      "processed_at": "2026-07-06T23:09:19.725657+00:00"
+      "processed_at": "2026-07-07T03:33:15.252988+00:00"
     },
     {
       "title": "5 desk gadgets that can make your workday better - TechCrunch",
@@ -50,7 +80,7 @@
       "description": "The right desk gadgets can help you reduce clutter, stay focused, and add a little extra convenience...",
       "url": "https://techcrunch.com/2026/07/05/5-desk-gadgets-that-can-make-your-workday-better/",
       "publishedAt": "2026-07-05T15:00:00Z",
-      "processed_at": "2026-07-06T23:09:19.725657+00:00"
+      "processed_at": "2026-07-07T03:33:15.252988+00:00"
     },
     {
       "title": "Infuriating Google commercial imagines the founding fathers embracing AI - The Verge",
@@ -60,40 +90,10 @@
       "description": "Google imagines if the founding fathers used Gemini AI to write the Declaration of Independence, and...",
       "url": "https://www.theverge.com/ai-artificial-intelligence/961468/google-ai-commercial-founding-fathers-declaration-of-independence",
       "publishedAt": "2026-07-05T14:23:11Z",
-      "processed_at": "2026-07-06T23:09:19.725657+00:00"
-    },
-    {
-      "title": "Metal Gear Creator Responds To Sony Killing PlayStation Discs - Kotaku",
-      "source": {
-        "name": "Kotaku"
-      },
-      "description": "The Death Stranding 2 director warns about a world without physical media...",
-      "url": "https://kotaku.com/hideo-kojima-finds-it-really-sad-that-sony-is-killing-playstation-game-discs-2000712659",
-      "publishedAt": "2026-07-05T14:18:40Z",
-      "processed_at": "2026-07-06T23:09:19.725657+00:00"
-    },
-    {
-      "title": "Flipper Zero firmware development continues with community help - BleepingComputer",
-      "source": {
-        "name": "BleepingComputer"
-      },
-      "description": "Flipper Devices says development of the Flipper Zero firmware will continue, albeit with a smaller i...",
-      "url": "https://www.bleepingcomputer.com/news/security/flipper-zero-firmware-development-continues-with-community-help/",
-      "publishedAt": "2026-07-05T14:14:52Z",
-      "processed_at": "2026-07-06T23:09:19.725657+00:00"
-    },
-    {
-      "title": "Epic Games settles a court case against former contractor accused of leaking Fortnite collaborations - Eurogamer.net",
-      "source": {
-        "name": "Eurogamer.net"
-      },
-      "description": "Former contractor Hayden Cohen has agreed to a judgment that bars them from \"possessing, accessing, ...",
-      "url": "https://www.eurogamer.net/epic-games-fortnite-settles-leaker-contractor-lawsuit",
-      "publishedAt": "2026-07-05T14:06:30Z",
-      "processed_at": "2026-07-06T23:09:19.725657+00:00"
+      "processed_at": "2026-07-07T03:33:15.252988+00:00"
     }
   ],
-  "lastUpdated": "2026-07-06T23:09:19.725735+00:00",
+  "lastUpdated": "2026-07-07T03:33:15.253040+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
