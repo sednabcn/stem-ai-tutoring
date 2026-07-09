@@ -3,14 +3,24 @@
   "totalResults": 10,
   "articles": [
     {
-      "title": "Meta tests ‘super sensing’ AI glasses that can capture every moment - Financial Times",
+      "title": "Nintendo announces that Mario Kart Tour is shutting down - Nintendo Everything",
       "source": {
-        "name": "Financial Times"
+        "name": "Nintendoeverything.com"
       },
-      "description": "Mark Zuckerberg’s hardware ambitions are edging into a new privacy fight over who gets recorded...",
-      "url": "https://www.ft.com/content/ac282450-91a8-4597-8f60-9e6ef416865a?syn-25a6b1a6\\\\u003d1",
-      "publishedAt": "2026-07-08T05:24:58Z",
-      "processed_at": "2026-07-09T08:29:15.358443+00:00"
+      "description": "Mario Kart Tour is ending service with a full shutdown - here's what's happening with the Gold Pass ...",
+      "url": "https://nintendoeverything.com/nintendo-announces-that-mario-kart-tour-is-shutting-down/",
+      "publishedAt": "2026-07-08T08:49:59Z",
+      "processed_at": "2026-07-09T12:09:02.073320+00:00"
+    },
+    {
+      "title": "Meta & Ray-Ban glasses rolling out mandatory update that disables the camera when privacy light is broken - 9to5Google",
+      "source": {
+        "name": "9to5google.com"
+      },
+      "description": "Smart glasses with a camera are inherently a privacy nightmare, but Meta’s Ray-Ban glasses (and now ...",
+      "url": "http://9to5google.com/2026/07/07/meta-ray-ban-smart-glasses-privacy-light-camera-update/",
+      "publishedAt": "2026-07-08T01:25:00Z",
+      "processed_at": "2026-07-09T12:09:02.073320+00:00"
     },
     {
       "title": "Nintendo Expands Switch Online's Game Boy & GBA Library With Four More Titles - Nintendo Life",
@@ -20,7 +30,7 @@
       "description": "Wario Land and more!...",
       "url": "https://www.nintendolife.com/news/2026/07/nintendo-expands-switch-onlines-game-boy-and-gba-library-with-four-more-titles",
       "publishedAt": "2026-07-08T01:15:00Z",
-      "processed_at": "2026-07-09T08:29:15.358443+00:00"
+      "processed_at": "2026-07-09T12:09:02.073320+00:00"
     },
     {
       "title": "Samsung unveils Galaxy Z Fold 8 deal for $1,230 off ahead of July Unpacked - how to qualify - ZDNET",
@@ -30,7 +40,7 @@
       "description": "Samsung Unpacked will take place later this month in London, and all eyes are on the Galaxy Glasses....",
       "url": "https://www.zdnet.com/article/samsung-unveils-foldable-deal-ahead-of-july-unpacked/",
       "publishedAt": "2026-07-07T23:00:00Z",
-      "processed_at": "2026-07-09T08:29:15.358443+00:00"
+      "processed_at": "2026-07-09T12:09:02.073320+00:00"
     },
     {
       "title": "A New Minecraft Update Will Finally Let Players Sit Down - IGN",
@@ -40,7 +50,27 @@
       "description": "Minecraft's new update is getting a lot of praise for adding the simple, but long-awaited feature th...",
       "url": "https://www.ign.com/articles/new-minecraft-update-finally-allows-players-to-sit-down",
       "publishedAt": "2026-07-07T22:09:32Z",
-      "processed_at": "2026-07-09T08:29:15.358443+00:00"
+      "processed_at": "2026-07-09T12:09:02.073320+00:00"
+    },
+    {
+      "title": "Report: Microsoft will make even more of its games exclusive to Xbox — as multiplatform strategy totally fails. What's going on? - Windows Central",
+      "source": {
+        "name": "Windows Central"
+      },
+      "description": "Xbox's loathed \"Project Latitude\" strategy which saw Microsoft support its biggest rival with conten...",
+      "url": "https://www.windowscentral.com/gaming/xbox/report-microsoft-will-make-even-more-of-its-games-exclusive-to-xbox-as-multiplatform-strategy-totally-fails-whats-going-on",
+      "publishedAt": "2026-07-07T21:47:35Z",
+      "processed_at": "2026-07-09T12:09:02.073320+00:00"
+    },
+    {
+      "title": "Massive Marvel Rivals Update Reworks Black Widow And Overhauls The Team-Up System - Game Informer",
+      "source": {
+        "name": "Gameinformer.com"
+      },
+      "description": "The updates coming with season 9: The Mystery of Thebes, is a major shake-up affecting \"80% of chara...",
+      "url": "https://gameinformer.com/2026/07/07/massive-marvel-rivals-update-reworks-black-widow-and-overhauls-the-team-up-system",
+      "publishedAt": "2026-07-07T21:19:40Z",
+      "processed_at": "2026-07-09T12:09:02.073320+00:00"
     },
     {
       "title": "Fans Canceling PS Plus To Boycott Sony Killing Discs Discover You Can Actually Save Money By Threatening To Quit - Kotaku",
@@ -50,7 +80,17 @@
       "description": "But wait, before you leave, here's a 50 percent off coupon......",
       "url": "https://kotaku.com/fans-canceling-ps-plus-to-boycott-sony-killing-discs-discover-you-can-actually-save-money-by-threatening-to-quit-2000713459",
       "publishedAt": "2026-07-07T21:00:13Z",
-      "processed_at": "2026-07-09T08:29:15.358443+00:00"
+      "processed_at": "2026-07-09T12:09:02.073320+00:00"
+    },
+    {
+      "title": "9 Rhythm Heaven Groove Games That Made Me Want To Scream - Kotaku",
+      "source": {
+        "name": "Kotaku"
+      },
+      "description": "In order of how close I got to actually doing it...",
+      "url": "https://kotaku.com/rhythm-heaven-groove-games-frustrating-worst-best-2000713407",
+      "publishedAt": "2026-07-07T20:30:29Z",
+      "processed_at": "2026-07-09T12:09:02.073320+00:00"
     },
     {
       "title": "Bethesda, id Software reportedly hit hard by Microsoft layoffs - Ars Technica",
@@ -60,50 +100,10 @@
       "description": "As much as 50 percent of some teams affected by reductions, and more could be coming....",
       "url": "https://arstechnica.com/gaming/2026/07/bethesda-id-software-reportedly-hit-hard-by-microsoft-layoffs/",
       "publishedAt": "2026-07-07T19:52:59Z",
-      "processed_at": "2026-07-09T08:29:15.358443+00:00"
-    },
-    {
-      "title": "Microsoft Spent $80 Billion On Its Bet For Xbox Game Pass. It Did Not Work. - GameSpot",
-      "source": {
-        "name": "GameSpot"
-      },
-      "description": "People inside Xbox warned that the plan might be problematic, but management went ahead anyway, a re...",
-      "url": "https://www.gamespot.com/articles/microsoft-spent-80-billion-on-its-bet-for-xbox-game-pass-it-did-not-work/",
-      "publishedAt": "2026-07-07T19:20:56Z",
-      "processed_at": "2026-07-09T08:29:15.358443+00:00"
-    },
-    {
-      "title": "Road of Legends Day 3: All Five-Star Raids, Mega Gardevoir, Bonuses and Guides - Pokémon GO Hub",
-      "source": {
-        "name": "Pokemon GO Hub"
-      },
-      "description": "Road of Legends is a stacked week of Legendary raids, Mega Raids, event bonuses, Special Backgrounds...",
-      "url": "https://pokemongohub.net/post/event/road-of-legends-day-3-all-five-star-raids-mega-gardevoir-bonuses-and-guides/",
-      "publishedAt": "2026-07-07T19:13:08Z",
-      "processed_at": "2026-07-09T08:29:15.358443+00:00"
-    },
-    {
-      "title": "Google’s Pixel 11 launch event is set for August 12, with possible price increases - Ars Technica",
-      "source": {
-        "name": "Ars Technica"
-      },
-      "description": "Google's new phones could feature glowing LEDs and higher price tags....",
-      "url": "https://arstechnica.com/gadgets/2026/07/googles-pixel-11-launch-event-is-set-for-august-12-with-possible-price-increases/",
-      "publishedAt": "2026-07-07T19:08:34Z",
-      "processed_at": "2026-07-09T08:29:15.358443+00:00"
-    },
-    {
-      "title": "\"Pitch Black\" Set Guide: Full Set List, Product Lineup, Store Promos, and More! - PokeBeach",
-      "source": {
-        "name": "Pokebeach.com"
-      },
-      "description": "We now have the full English set list for Pitch Black starring Mega Darkrai ex! As posted before, it...",
-      "url": "https://www.pokebeach.com/2026/07/pitch-black-set-guide-full-set-list-product-lineup-store-promos-and-more",
-      "publishedAt": "2026-07-07T19:05:04Z",
-      "processed_at": "2026-07-09T08:29:15.358443+00:00"
+      "processed_at": "2026-07-09T12:09:02.073320+00:00"
     }
   ],
-  "lastUpdated": "2026-07-09T08:29:15.358518+00:00",
+  "lastUpdated": "2026-07-09T12:09:02.073399+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
