@@ -3,16 +3,6 @@
   "totalResults": 9,
   "articles": [
     {
-      "title": "Everything Coming in the 2026 Apple TV 4K - MacRumors",
-      "source": {
-        "name": "MacRumors"
-      },
-      "description": "The Apple TV 4K hasn't been updated since 2022, and it's due for a refresh. An update is planned for...",
-      "url": "https://www.macrumors.com/2026/07/08/apple-tv-4k-latest-rumors/",
-      "publishedAt": "2026-07-08T23:51:18Z",
-      "processed_at": "2026-07-10T03:28:58.550623+00:00"
-    },
-    {
       "title": "Sony Settles With Fired Bungie Dev, Adds Him To Marathon Credits - Kotaku",
       "source": {
         "name": "Kotaku"
@@ -20,7 +10,17 @@
       "description": "Christopher Barrett had accused the PS5 maker of trying to avoid paying him vested bonuses from the ...",
       "url": "https://kotaku.com/sony-reaches-settlement-with-bungie-director-it-accused-of-sexual-misconduct-and-adds-his-name-to-marathons-credits-2000713874",
       "publishedAt": "2026-07-08T22:58:38Z",
-      "processed_at": "2026-07-10T03:28:58.550623+00:00"
+      "processed_at": "2026-07-10T07:36:56.633521+00:00"
+    },
+    {
+      "title": "Persona 4 Revival Producer Confirms Some Noteworthy Character Changes Are Coming - GameSpot",
+      "source": {
+        "name": "GameSpot"
+      },
+      "description": "Or: Yosuke's less of a jerk now, probably...",
+      "url": "https://www.gamespot.com/articles/persona-4-revival-producer-confirms-some-noteworthy-character-changes-are-coming/",
+      "publishedAt": "2026-07-08T22:42:52Z",
+      "processed_at": "2026-07-10T07:36:56.633521+00:00"
     },
     {
       "title": "Over 220,000 People Petition Sony Not To Kill Physical PlayStation Game Discs - GameSpot",
@@ -30,7 +30,17 @@
       "description": "Canadian retailer PNP Games has started the Don't Kill the Disc position to change Sony's mind....",
       "url": "https://www.gamespot.com/articles/over-220000-people-petition-sony-not-to-kill-physical-playstation-game-discs/",
       "publishedAt": "2026-07-08T19:20:43Z",
-      "processed_at": "2026-07-10T03:28:58.550623+00:00"
+      "processed_at": "2026-07-10T07:36:56.633521+00:00"
+    },
+    {
+      "title": "New ‘Fallout’ Game Reportedly Coming From Obsidian, ‘Avowed 2’ Cancelled - Forbes",
+      "source": {
+        "name": "Forbes"
+      },
+      "description": "Obsidian has reportedly cancelled a sequel to Avowed, and will instead work on a new Fallout game un...",
+      "url": "https://www.forbes.com/sites/paultassi/2026/07/08/new-fallout-game-reportedly-coming-from-obsidian-avowed-2-cancelled/",
+      "publishedAt": "2026-07-08T18:31:19Z",
+      "processed_at": "2026-07-10T07:36:56.633521+00:00"
     },
     {
       "title": "Google Photos adds a new AI ‘Video Remix’ tool - TechCrunch",
@@ -40,7 +50,7 @@
       "description": "The feature can do things like apply cinematic relighting to brighten up a dark clip, swap out a pla...",
       "url": "https://techcrunch.com/2026/07/08/google-photos-adds-a-new-ai-video-remix-tool/",
       "publishedAt": "2026-07-08T18:30:08Z",
-      "processed_at": "2026-07-10T03:28:58.550623+00:00"
+      "processed_at": "2026-07-10T07:36:56.633521+00:00"
     },
     {
       "title": "Samsung Galaxy Z Fold8, Fold8 Ultra, Flip8, Watch9, and Watch Ultra2 renders leak - GSMArena.com news - GSMArena.com",
@@ -50,27 +60,17 @@
       "description": "It's the mega leak you've been waiting for. Samsung is holding its next Unpacked event on July 22 in...",
       "url": "https://www.gsmarena.com/samsung_galaxy_z_fold8_fold8_ultra_flip8_watch9_and_watch_ultra2_renders_leak-news-73637.php",
       "publishedAt": "2026-07-08T18:29:02Z",
-      "processed_at": "2026-07-10T03:28:58.550623+00:00"
+      "processed_at": "2026-07-10T07:36:56.633521+00:00"
     },
     {
-      "title": "Microsoft’s Xbox to Shift Obsidian Studio to New ‘Fallout’ Video Game - Bloomberg.com",
+      "title": "Nintendo is fully shutting down Mario Kart Tour in September, no offline version coming - 9to5Google",
       "source": {
-        "name": "Bloomberg"
+        "name": "9to5google.com"
       },
-      "description": "The game maker is also canceling a planned sequel to last year’s ‘Avowed’...",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-08/microsoft-s-xbox-to-shift-obsidian-studio-to-new-fallout-video-game",
-      "publishedAt": "2026-07-08T17:52:30Z",
-      "processed_at": "2026-07-10T03:28:58.550623+00:00"
-    },
-    {
-      "title": "Parents’ Phone Addiction Affects Bond with Kids, New Study Finds - Bloomberg.com",
-      "source": {
-        "name": "Bloomberg"
-      },
-      "description": "Parents’ attachment to screens and smartphones can have negative, long-lasting developmental and psy...",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-08/parents-phone-addiction-affects-bond-with-kids-new-study-finds",
-      "publishedAt": "2026-07-08T16:57:21Z",
-      "processed_at": "2026-07-10T03:28:58.550623+00:00"
+      "description": "Mario Kart Tour was perhaps the biggest mobile game release in Nintendo’s collection but, as the com...",
+      "url": "http://9to5google.com/2026/07/08/mario-kart-tour-shutting-down/",
+      "publishedAt": "2026-07-08T18:15:00Z",
+      "processed_at": "2026-07-10T07:36:56.633521+00:00"
     },
     {
       "title": "Yoshi and the Mysterious Book demo now available on Nintendo Switch 2 - Nintendo Everything",
@@ -80,7 +80,7 @@
       "description": "Nintendo has just announced that a demo for Yoshi and the Mysterious Book is now available for free ...",
       "url": "https://nintendoeverything.com/yoshi-and-the-mysterious-book-demo-now-available-on-nintendo-switch-2/",
       "publishedAt": "2026-07-08T16:48:06Z",
-      "processed_at": "2026-07-10T03:28:58.550623+00:00"
+      "processed_at": "2026-07-10T07:36:56.633521+00:00"
     },
     {
       "title": "Bethesda HR Forced Staff To Remove Small Memorial To Laid-Off Colleagues - Kotaku",
@@ -90,10 +90,10 @@
       "description": "The Bethesda Games Studios Union shared images of the now-removed display featuring photos of fired ...",
       "url": "https://kotaku.com/bethesda-hr-forced-staff-to-remove-small-memorial-to-laid-off-colleagues-2000713777",
       "publishedAt": "2026-07-08T16:30:10Z",
-      "processed_at": "2026-07-10T03:28:58.550623+00:00"
+      "processed_at": "2026-07-10T07:36:56.633521+00:00"
     }
   ],
-  "lastUpdated": "2026-07-10T03:28:58.550698+00:00",
+  "lastUpdated": "2026-07-10T07:36:56.633613+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
