@@ -3,6 +3,26 @@
   "totalResults": 10,
   "articles": [
     {
+      "title": "The New Roku Update Is Terrible And Everyone Hates It - Kotaku",
+      "source": {
+        "name": "Kotaku"
+      },
+      "description": "Stop fucking things up just to shove more ads and algorithm nonsense into my face...",
+      "url": "https://kotaku.com/its-not-just-you-everyone-is-mad-at-rokus-horrible-update-2000714762",
+      "publishedAt": "2026-07-10T20:48:34Z",
+      "processed_at": "2026-07-11T21:50:53.766374+00:00"
+    },
+    {
+      "title": "God Of War Laufey Promises PS5 Disc, Teasing 2027 Release Date - Kotaku",
+      "source": {
+        "name": "Kotaku"
+      },
+      "description": "The action game doesn't currently have a release date...",
+      "url": "https://kotaku.com/god-of-war-laufey-promises-physical-disc-version-all-but-confirming-2027-launch-2000714778",
+      "publishedAt": "2026-07-10T20:29:38Z",
+      "processed_at": "2026-07-11T21:50:53.766374+00:00"
+    },
+    {
       "title": "Ransomware Used Microsoft-Signed Malicious Driver to Kill EDR: 10 Hosts Hit Before Encryption - Tech Times",
       "source": {
         "name": "Tech Times"
@@ -10,100 +30,80 @@
       "description": "Ransomware EDR killers just leveled up: GodDamn ransomware used PoisonX — a kernel driver bearing a ...",
       "url": "https://www.techtimes.com/articles/320091/20260710/ransomware-used-microsoft-signed-malicious-driver-kill-edr-10-hosts-hit-before-encryption.htm",
       "publishedAt": "2026-07-10T17:55:43Z",
-      "processed_at": "2026-07-11T20:50:14.735606+00:00"
+      "processed_at": "2026-07-11T21:50:53.766374+00:00"
     },
     {
-      "title": "Valve’s new Steam Machine verification system is silent on these Steam Deck-busters - Ars Technica",
-      "source": {
-        "name": "Ars Technica"
-      },
-      "description": "Dozens of titles too taxing for Steam Deck are still unrated for the new hardware....",
-      "url": "https://arstechnica.com/gaming/2026/07/valves-steam-machine-verified-ratings-offer-more-questions-than-answers/",
-      "publishedAt": "2026-07-10T16:53:31Z",
-      "processed_at": "2026-07-11T20:50:14.735606+00:00"
-    },
-    {
-      "title": "Firmware update bricks Hue Bridge Pro devices; Philips gives free replacements - Ars Technica",
-      "source": {
-        "name": "Ars Technica"
-      },
-      "description": "Affected users will have to configure their lights and settings all over again....",
-      "url": "https://arstechnica.com/gadgets/2026/07/firmware-update-bricks-hue-bridge-pro-devices-philips-gives-free-replacements/",
-      "publishedAt": "2026-07-10T16:36:09Z",
-      "processed_at": "2026-07-11T20:50:14.735606+00:00"
-    },
-    {
-      "title": "The Water In This 2002 Surfing Game Is Blowing People’s Minds - Kotaku",
+      "title": "EU Can’t Force Sony To Keep Making Physical Games, Says Consumer Rights Commissioner - Kotaku",
       "source": {
         "name": "Kotaku"
       },
-      "description": "Gnarly water Kelly Slater, most excellent dude...",
-      "url": "https://kotaku.com/the-water-in-this-2002-surfing-game-is-blowing-peoples-minds-2000714695",
-      "publishedAt": "2026-07-10T16:20:06Z",
-      "processed_at": "2026-07-11T20:50:14.735606+00:00"
+      "description": "The European Union won't stop the all-digital future that video game fans are facing...",
+      "url": "https://kotaku.com/eu-cant-force-sony-to-keep-making-physical-games-says-consumer-rights-commissioner-2000714728",
+      "publishedAt": "2026-07-10T17:31:28Z",
+      "processed_at": "2026-07-11T21:50:53.766374+00:00"
     },
     {
-      "title": "‘Palworld 1.0’ Is Putting Up Enormous Steam Player Numbers At Launch - Forbes",
+      "title": "What Xbox's layoffs, massive reboot says about the gaming industry - KUOW",
       "source": {
-        "name": "Forbes"
+        "name": "KUOW News and Information"
       },
-      "description": "Palworld, the former viral sensation, has just launched its 1.0 version, and it has shown it still h...",
-      "url": "https://www.forbes.com/sites/paultassi/2026/07/10/palworld-10-is-putting-up-enormous-steam-player-numbers-at-launch/",
-      "publishedAt": "2026-07-10T15:13:26Z",
-      "processed_at": "2026-07-11T20:50:14.735606+00:00"
+      "description": "Microsoft plans to reduce Xbox by 3,200 jobs over the next fiscal year, calling it “the most signifi...",
+      "url": "https://www.kuow.org/stories/what-xbox-s-layoffs-massive-reboot-says-about-the-gaming-industry",
+      "publishedAt": "2026-07-10T17:29:12Z",
+      "processed_at": "2026-07-11T21:50:53.766374+00:00"
     },
     {
-      "title": "Anker’s 3-in-1 Qi2.2 charging station is $95 off - The Verge",
+      "title": "Google's Pixel 11 Pro Fold Gets Major Approval - Droid Life",
       "source": {
-        "name": "The Verge"
+        "name": "Droid Life"
       },
-      "description": "Anker’s Prime Wireless Charging Station is $134.99 ($95 off) at multiple retailers. Fanttik’s A10 Pr...",
-      "url": "https://www.theverge.com/gadgets/963665/anker-prime-wireless-charging-station-lg-oled-c6-tv-deal-sale",
-      "publishedAt": "2026-07-10T15:11:08Z",
-      "processed_at": "2026-07-11T20:50:14.735606+00:00"
+      "description": "A new Google phone just rolled through the FCC today, a device that we believe to be the Pixel 11 Pr...",
+      "url": "https://www.droid-life.com/2026/07/10/google-pixel-11-pro-fold-just-landed-at-the-fcc/",
+      "publishedAt": "2026-07-10T17:20:53Z",
+      "processed_at": "2026-07-11T21:50:53.766374+00:00"
     },
     {
-      "title": "[Chronicles] Magistus Ep 4 Teaser & Some Sinful Spoils - YGOrganization",
+      "title": "\"Just too gay\" - designer Robert Yang is battling censorship to launch a collection of his award-winning games on Steam and Itch, and it's completely free - Eurogamer.net",
       "source": {
-        "name": "Ygorganization.com"
+        "name": "Eurogamer.net"
       },
-      "description": "Total Spellcaster Domination The teaser for episode 4 of the Magistus arc of The Chronicles is now a...",
-      "url": "https://ygorganization.com/chronicles-magistus-ep-4-teaser-some-sinful-spoils/",
-      "publishedAt": "2026-07-10T15:07:46Z",
-      "processed_at": "2026-07-11T20:50:14.735606+00:00"
+      "description": "Yang's \"ongoing re-remaster\" compilation Radiator Forever is launching with four games included, and...",
+      "url": "https://www.eurogamer.net/robert-yang-radiator-forever-collection-steam-itch-free",
+      "publishedAt": "2026-07-10T16:50:45Z",
+      "processed_at": "2026-07-11T21:50:53.766374+00:00"
     },
     {
-      "title": "25 Games Tested On The Steam Machine: A Good, But Pricey Device - Kotaku",
+      "title": "\"We really squeezed the PS5 as much as we could\": Ubisoft talks tech on Assassin's Creed Black Flag Resynced - Digital Foundry",
       "source": {
-        "name": "Kotaku"
+        "name": "Digitalfoundry.net"
       },
-      "description": "How does Valve's $1,000 console-like PC compare to a PS5 Pro out of the box?...",
-      "url": "https://kotaku.com/steam-machine-games-tested-gta-halo-cyberpunk-peak-mouse-fps-review-valve-kotaku-2000710643",
-      "publishedAt": "2026-07-10T15:05:42Z",
-      "processed_at": "2026-07-11T20:50:14.735606+00:00"
+      "description": "How a 13-year-old game becomes a modern graphical showcase....",
+      "url": "https://www.digitalfoundry.net/features/we-really-squeezed-the-ps5-as-much-as-we-could-ubisoft-talks-tech-on-assassins-creed-black-flag-resynced",
+      "publishedAt": "2026-07-10T16:44:11Z",
+      "processed_at": "2026-07-11T21:50:53.766374+00:00"
     },
     {
-      "title": "FCC Approves Reflect Orbital's Space Mirror Satellite That Astronomers Hate - PCMag",
+      "title": "Motorola has the chance to do something special with the Edge 70 Max, so why am I skeptical? - PhoneArena",
       "source": {
-        "name": "PCMag.com"
+        "name": "PhoneArena"
       },
-      "description": "The FCC says the most controversial aspect of Reflect Orbital's Earendil-1 satellite, its giant mirr...",
-      "url": "https://www.pcmag.com/news/fcc-approves-reflect-orbitals-giant-mirror-satellite-that-astronomers-hate",
-      "publishedAt": "2026-07-10T14:39:47Z",
-      "processed_at": "2026-07-11T20:50:14.735606+00:00"
+      "description": "",
+      "url": "https://www.phonearena.com/news/motorola-edge-70-max-could-be-something-special-but-i-am-skeptical-editorial_id181778",
+      "publishedAt": "2026-07-10T16:28:27Z",
+      "processed_at": "2026-07-11T21:50:53.766374+00:00"
     },
     {
-      "title": "\"They want us to accept this as a done deal and quietly disappear\" – Bethesda union members organise protest in response to Xbox layoffs - GamesIndustry.biz",
+      "title": "Dumb Co dared me to trade my iPhone for a hacked flip phone - TechCrunch",
       "source": {
-        "name": "GamesIndustry.biz"
+        "name": "TechCrunch"
       },
-      "description": "440 OneBGS devs were affected by cuts at Bethesda Game Studios, Id Software, and ZeniMax Online Stud...",
-      "url": "https://www.gamesindustry.biz/they-want-us-to-accept-this-as-a-done-deal-and-quietly-disappear-bethesda-union-members-organise-protest-in-response-to-xbox-layoffs",
-      "publishedAt": "2026-07-10T13:22:07Z",
-      "processed_at": "2026-07-11T20:50:14.735606+00:00"
+      "description": "Dumb Co sells flip phones that sync to your smartphone, bridging the infinite connectivity of the iP...",
+      "url": "https://techcrunch.com/2026/07/10/dumb-co-dared-me-to-trade-my-iphone-for-a-hacked-flip-phone/",
+      "publishedAt": "2026-07-10T16:06:49Z",
+      "processed_at": "2026-07-11T21:50:53.766374+00:00"
     }
   ],
-  "lastUpdated": "2026-07-11T20:50:14.735673+00:00",
+  "lastUpdated": "2026-07-11T21:50:53.766451+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
