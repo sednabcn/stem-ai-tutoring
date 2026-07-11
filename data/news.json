@@ -3,6 +3,36 @@
   "totalResults": 10,
   "articles": [
     {
+      "title": "Ransomware Used Microsoft-Signed Malicious Driver to Kill EDR: 10 Hosts Hit Before Encryption - Tech Times",
+      "source": {
+        "name": "Tech Times"
+      },
+      "description": "Ransomware EDR killers just leveled up: GodDamn ransomware used PoisonX — a kernel driver bearing a ...",
+      "url": "https://www.techtimes.com/articles/320091/20260710/ransomware-used-microsoft-signed-malicious-driver-kill-edr-10-hosts-hit-before-encryption.htm",
+      "publishedAt": "2026-07-10T17:55:43Z",
+      "processed_at": "2026-07-11T19:05:04.529680+00:00"
+    },
+    {
+      "title": "Valve’s new Steam Machine verification system is silent on these Steam Deck-busters - Ars Technica",
+      "source": {
+        "name": "Ars Technica"
+      },
+      "description": "Dozens of titles too taxing for Steam Deck are still unrated for the new hardware....",
+      "url": "https://arstechnica.com/gaming/2026/07/valves-steam-machine-verified-ratings-offer-more-questions-than-answers/",
+      "publishedAt": "2026-07-10T16:53:31Z",
+      "processed_at": "2026-07-11T19:05:04.529680+00:00"
+    },
+    {
+      "title": "Firmware update bricks Hue Bridge Pro devices; Philips gives free replacements - Ars Technica",
+      "source": {
+        "name": "Ars Technica"
+      },
+      "description": "Affected users will have to configure their lights and settings all over again....",
+      "url": "https://arstechnica.com/gadgets/2026/07/firmware-update-bricks-hue-bridge-pro-devices-philips-gives-free-replacements/",
+      "publishedAt": "2026-07-10T16:36:09Z",
+      "processed_at": "2026-07-11T19:05:04.529680+00:00"
+    },
+    {
       "title": "The Water In This 2002 Surfing Game Is Blowing People’s Minds - Kotaku",
       "source": {
         "name": "Kotaku"
@@ -10,17 +40,17 @@
       "description": "Gnarly water Kelly Slater, most excellent dude...",
       "url": "https://kotaku.com/the-water-in-this-2002-surfing-game-is-blowing-peoples-minds-2000714695",
       "publishedAt": "2026-07-10T16:20:06Z",
-      "processed_at": "2026-07-11T17:04:59.954893+00:00"
+      "processed_at": "2026-07-11T19:05:04.529680+00:00"
     },
     {
-      "title": "Men found ‘Love Island.’ Then they started betting on it. - Yahoo",
+      "title": "‘Palworld 1.0’ Is Putting Up Enormous Steam Player Numbers At Launch - Forbes",
       "source": {
-        "name": "Yahoo Entertainment"
+        "name": "Forbes"
       },
-      "description": "Prediction market apps are turning America's hottest dating show into a different obsession — and br...",
-      "url": "https://www.yahoo.com/news/us/articles/men-found-love-island-then-154727043.html",
-      "publishedAt": "2026-07-10T15:47:27Z",
-      "processed_at": "2026-07-11T17:04:59.954893+00:00"
+      "description": "Palworld, the former viral sensation, has just launched its 1.0 version, and it has shown it still h...",
+      "url": "https://www.forbes.com/sites/paultassi/2026/07/10/palworld-10-is-putting-up-enormous-steam-player-numbers-at-launch/",
+      "publishedAt": "2026-07-10T15:13:26Z",
+      "processed_at": "2026-07-11T19:05:04.529680+00:00"
     },
     {
       "title": "Anker’s 3-in-1 Qi2.2 charging station is $95 off - The Verge",
@@ -30,7 +60,7 @@
       "description": "Anker’s Prime Wireless Charging Station is $134.99 ($95 off) at multiple retailers. Fanttik’s A10 Pr...",
       "url": "https://www.theverge.com/gadgets/963665/anker-prime-wireless-charging-station-lg-oled-c6-tv-deal-sale",
       "publishedAt": "2026-07-10T15:11:08Z",
-      "processed_at": "2026-07-11T17:04:59.954893+00:00"
+      "processed_at": "2026-07-11T19:05:04.529680+00:00"
     },
     {
       "title": "[Chronicles] Magistus Ep 4 Teaser & Some Sinful Spoils - YGOrganization",
@@ -40,7 +70,7 @@
       "description": "Total Spellcaster Domination The teaser for episode 4 of the Magistus arc of The Chronicles is now a...",
       "url": "https://ygorganization.com/chronicles-magistus-ep-4-teaser-some-sinful-spoils/",
       "publishedAt": "2026-07-10T15:07:46Z",
-      "processed_at": "2026-07-11T17:04:59.954893+00:00"
+      "processed_at": "2026-07-11T19:05:04.529680+00:00"
     },
     {
       "title": "25 Games Tested On The Steam Machine: A Good, But Pricey Device - Kotaku",
@@ -50,17 +80,7 @@
       "description": "How does Valve's $1,000 console-like PC compare to a PS5 Pro out of the box?...",
       "url": "https://kotaku.com/steam-machine-games-tested-gta-halo-cyberpunk-peak-mouse-fps-review-valve-kotaku-2000710643",
       "publishedAt": "2026-07-10T15:05:42Z",
-      "processed_at": "2026-07-11T17:04:59.954893+00:00"
-    },
-    {
-      "title": "IndyCar game release date pushed back to 2027 - RACER - Racing News",
-      "source": {
-        "name": "RACER"
-      },
-      "description": "The IndyCar Series and iRacing have provided new screenshots of IndyCar Racing The Game, which was p...",
-      "url": "https://racer.com/2026/07/10/indycar-game-release-date-pushed-back-to-2027",
-      "publishedAt": "2026-07-10T15:00:00Z",
-      "processed_at": "2026-07-11T17:04:59.954893+00:00"
+      "processed_at": "2026-07-11T19:05:04.529680+00:00"
     },
     {
       "title": "FCC Approves Reflect Orbital's Space Mirror Satellite That Astronomers Hate - PCMag",
@@ -70,40 +90,20 @@
       "description": "The FCC says the most controversial aspect of Reflect Orbital's Earendil-1 satellite, its giant mirr...",
       "url": "https://www.pcmag.com/news/fcc-approves-reflect-orbitals-giant-mirror-satellite-that-astronomers-hate",
       "publishedAt": "2026-07-10T14:39:47Z",
-      "processed_at": "2026-07-11T17:04:59.954893+00:00"
+      "processed_at": "2026-07-11T19:05:04.529680+00:00"
     },
     {
-      "title": "Worried about status bar clutter with Android Halo? Google may let you clean it up - Android Authority",
+      "title": "\"They want us to accept this as a done deal and quietly disappear\" – Bethesda union members organise protest in response to Xbox layoffs - GamesIndustry.biz",
       "source": {
-        "name": "Android Authority"
+        "name": "GamesIndustry.biz"
       },
-      "description": "Google is working on new Android status bar settings to let users hide the upcoming Android Halo ico...",
-      "url": "https://www.androidauthority.com/android-halo-status-bar-icon-settings-apk-teardown-3686316/",
-      "publishedAt": "2026-07-10T13:16:00Z",
-      "processed_at": "2026-07-11T17:04:59.954893+00:00"
-    },
-    {
-      "title": "The ChatGPT \"Super App\" Sort of Super Sucks - spyglass.org",
-      "source": {
-        "name": "Spyglass.org"
-      },
-      "description": "Even if it's ultimately the right call, the new Mac app is a mess......",
-      "url": "https://spyglass.org/chatgpt-gets-to-work/",
-      "publishedAt": "2026-07-10T13:08:45Z",
-      "processed_at": "2026-07-11T17:04:59.954893+00:00"
-    },
-    {
-      "title": "Xreal’s new AR glasses are way cheaper and almost just right - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "The A01 Plus are flimsier and have fewer features than the 1S, but they might deliver exactly what y...",
-      "url": "https://www.theverge.com/tech/963465/xreal-a01-plus-xbx-ar-glasses-hands-on",
-      "publishedAt": "2026-07-10T13:00:00Z",
-      "processed_at": "2026-07-11T17:04:59.954893+00:00"
+      "description": "440 OneBGS devs were affected by cuts at Bethesda Game Studios, Id Software, and ZeniMax Online Stud...",
+      "url": "https://www.gamesindustry.biz/they-want-us-to-accept-this-as-a-done-deal-and-quietly-disappear-bethesda-union-members-organise-protest-in-response-to-xbox-layoffs",
+      "publishedAt": "2026-07-10T13:22:07Z",
+      "processed_at": "2026-07-11T19:05:04.529680+00:00"
     }
   ],
-  "lastUpdated": "2026-07-11T17:04:59.954963+00:00",
+  "lastUpdated": "2026-07-11T19:05:04.529761+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
