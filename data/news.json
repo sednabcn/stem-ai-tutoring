@@ -1,7 +1,17 @@
 {
   "status": "success",
-  "totalResults": 9,
+  "totalResults": 10,
   "articles": [
+    {
+      "title": "Obsidian Dev Slams 'Cold Take Artists' Running Their Mouths - Kotaku",
+      "source": {
+        "name": "Kotaku"
+      },
+      "description": "Obsidian is reportedly still working on Avowed 2 as it spins up a new Fallout...",
+      "url": "https://kotaku.com/obsidian-game-director-hits-back-at-cold-take-artists-making-up-stuff-about-the-studio-in-the-wake-of-layoffs-2000714963",
+      "publishedAt": "2026-07-11T16:00:47Z",
+      "processed_at": "2026-07-12T17:58:55.319462+00:00"
+    },
     {
       "title": "Pokemon Company document shows wanting to increase price from $60, encouraging people to buy both versions - Nintendo Everything",
       "source": {
@@ -10,7 +20,7 @@
       "description": "An internal document from The Pokemon Company has surfaced which shows past interest in increasing t...",
       "url": "https://nintendoeverything.com/pokemon-company-document-shows-wanting-to-increase-price-from-60-encouraging-people-to-buy-both-versions/",
       "publishedAt": "2026-07-11T13:08:49Z",
-      "processed_at": "2026-07-12T16:03:34.698044+00:00"
+      "processed_at": "2026-07-12T17:58:55.319462+00:00"
     },
     {
       "title": "My Fitbit Air test revealed the flaws of calorie counting with a health tracker - here's why - ZDNET",
@@ -20,7 +30,37 @@
       "description": "You should take calorie data with a grain of salt. Here's what I learned after testing the Fitbit Ai...",
       "url": "https://www.zdnet.com/article/heart-rate-tracking-fitbit-air-accuracy-chest-strap-monitor/",
       "publishedAt": "2026-07-11T12:52:00Z",
-      "processed_at": "2026-07-12T16:03:34.698044+00:00"
+      "processed_at": "2026-07-12T17:58:55.319462+00:00"
+    },
+    {
+      "title": "The perfect kit for all your tiny repairs - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "Plus, in this week’s Installer: The Nothing Earbuds 3A, GPT-Live, Apple EarPods, and more....",
+      "url": "https://www.theverge.com/tech/964169/ifixit-repairs-kit-nothing-3a-installer",
+      "publishedAt": "2026-07-11T12:00:00Z",
+      "processed_at": "2026-07-12T17:58:55.319462+00:00"
+    },
+    {
+      "title": "Avowed 2 May Still Happen, Obsidian Skeleton Crew Continues Work - Push Square",
+      "source": {
+        "name": "Push Square"
+      },
+      "description": "",
+      "url": "https://www.pushsquare.com/news/2026/07/avowed-2-may-still-happen-obsidian-skeleton-crew-continues-work",
+      "publishedAt": "2026-07-11T12:00:00Z",
+      "processed_at": "2026-07-12T17:58:55.319462+00:00"
+    },
+    {
+      "title": "EU Says It's Powerless to Stop PlayStation From Killing Discs - IGN",
+      "source": {
+        "name": "IGN"
+      },
+      "description": "As gamers sign online petitions and swarm upon each and every PlayStation social media post, the EU ...",
+      "url": "https://www.ign.com/articles/eu-says-its-powerless-to-stop-playstation-from-killing-discs-companies-are-free-to-offer-games-and-services-in-the-manner-they-see-fit",
+      "publishedAt": "2026-07-11T08:05:53Z",
+      "processed_at": "2026-07-12T17:58:55.319462+00:00"
     },
     {
       "title": "Pokémon Go 'Genetic Mastery' choose a path quest steps — Mega Mewtwo X or Y? - Polygon.com",
@@ -30,7 +70,17 @@
       "description": "Should you pick Mega Mewtwo X or Mega Mewtwo Y in Pokémon Go Fest: Global's 2026 Timed Research? We ...",
       "url": "https://www.polygon.com/pokemon-go-fest-2026-genetic-mastery-timed-research-mega-mewtwo-x-y-which-to-pick/",
       "publishedAt": "2026-07-11T06:00:19Z",
-      "processed_at": "2026-07-12T16:03:34.698044+00:00"
+      "processed_at": "2026-07-12T17:58:55.319462+00:00"
+    },
+    {
+      "title": "Microsoft loses lawsuit after blocking hacked Xbox account with digital games - Notebookcheck",
+      "source": {
+        "name": "Notebookcheck.net"
+      },
+      "description": "One gamer took extreme measures to restore access to his compromised Xbox account. The Brazilian use...",
+      "url": "https://www.notebookcheck.net/Microsoft-loses-lawsuit-after-blocking-hacked-Xbox-account-with-digital-games.1339855.0.html",
+      "publishedAt": "2026-07-11T01:48:00Z",
+      "processed_at": "2026-07-12T17:58:55.319462+00:00"
     },
     {
       "title": "Donkey Kong Arcade Set Surfaces In New LEGO Leak, Here's A First Look - Nintendo Life",
@@ -40,60 +90,20 @@
       "description": "It's on like Donkey Kong!...",
       "url": "https://www.nintendolife.com/news/2026/07/donkey-kong-arcade-set-surfaces-in-new-lego-leak-heres-a-first-look",
       "publishedAt": "2026-07-11T00:55:00Z",
-      "processed_at": "2026-07-12T16:03:34.698044+00:00"
+      "processed_at": "2026-07-12T17:58:55.319462+00:00"
     },
     {
-      "title": "iOS 27: What's New With the Mail App - MacRumors",
+      "title": "Is the Assassin's Creed Black Flag remake worth the 13 year wait? - BBC",
       "source": {
-        "name": "MacRumors"
+        "name": "BBC News"
       },
-      "description": "Apple's Mail app is getting some useful updates in iOS 27, with Apple making big improvements to sea...",
-      "url": "https://www.macrumors.com/guide/ios-27-mail/",
-      "publishedAt": "2026-07-10T22:26:09Z",
-      "processed_at": "2026-07-12T16:03:34.698044+00:00"
-    },
-    {
-      "title": "Pixel 11 Pro Fold FCC listing adds support for a big Tensor G6 shake-up - Android Authority",
-      "source": {
-        "name": "Android Authority"
-      },
-      "description": "Today's Pixel 11 Pro Fold FCC document dump appears to support rumors of Google moving to a MediaTek...",
-      "url": "https://www.androidauthority.com/tensor-g6-mediatek-modem-2-3686559/",
-      "publishedAt": "2026-07-10T21:39:00Z",
-      "processed_at": "2026-07-12T16:03:34.698044+00:00"
-    },
-    {
-      "title": "Latest Galaxy Z Fold 8 leak offers your clearest look yet at Samsung's new foldables - Android Authority",
-      "source": {
-        "name": "Android Authority"
-      },
-      "description": "More renders of Samsung's Galaxy Z Fold 8 and Galaxy Z Flip 8 have leaked, giving us a better look a...",
-      "url": "https://www.androidauthority.com/samsung-galaxy-z-fold-8-z-flip-8-renders-3686550/",
-      "publishedAt": "2026-07-10T21:28:00Z",
-      "processed_at": "2026-07-12T16:03:34.698044+00:00"
-    },
-    {
-      "title": "'The Greatest Reward We Could Have Hoped for' — Ubisoft Shares Day 1 Sales for Assassin's Creed Black Flag Resynced - IGN",
-      "source": {
-        "name": "IGN"
-      },
-      "description": "Ubisoft has announced that Assassin's Creed Black Flag Resynced has passed 2 million copies sold in ...",
-      "url": "https://www.ign.com/articles/assassins-creed-black-flag-resynced-sales-reach-2-million-on-day-1",
-      "publishedAt": "2026-07-10T21:17:55Z",
-      "processed_at": "2026-07-12T16:03:34.698044+00:00"
-    },
-    {
-      "title": "The New Roku Update Is Terrible And Everyone Hates It - Kotaku",
-      "source": {
-        "name": "Kotaku"
-      },
-      "description": "Stop fucking things up just to shove more ads and algorithm nonsense into my face...",
-      "url": "https://kotaku.com/its-not-just-you-everyone-is-mad-at-rokus-horrible-update-2000714762",
-      "publishedAt": "2026-07-10T20:48:34Z",
-      "processed_at": "2026-07-12T16:03:34.698044+00:00"
+      "description": "The BBC's Tom Gerken plays the much-anticipated pirate game which has been remade from the ground up...",
+      "url": "https://www.bbc.com/news/articles/cjrg9r80908o",
+      "publishedAt": "2026-07-11T00:08:51Z",
+      "processed_at": "2026-07-12T17:58:55.319462+00:00"
     }
   ],
-  "lastUpdated": "2026-07-12T16:03:34.698120+00:00",
+  "lastUpdated": "2026-07-12T17:58:55.319514+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
