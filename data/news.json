@@ -3,6 +3,16 @@
   "totalResults": 10,
   "articles": [
     {
+      "title": "The problem with drinking too much water - Pittsburgh Post-Gazette",
+      "source": {
+        "name": "Pittsburgh Post-Gazette"
+      },
+      "description": "False...",
+      "url": "https://www.post-gazette.com/news/health/2026/07/11/exercise-associated-hyponatremia/stories/202607120001",
+      "publishedAt": "2026-07-11T17:12:51Z",
+      "processed_at": "2026-07-12T19:17:25.850485+00:00"
+    },
+    {
       "title": "Obsidian Dev Slams 'Cold Take Artists' Running Their Mouths - Kotaku",
       "source": {
         "name": "Kotaku"
@@ -10,7 +20,37 @@
       "description": "Obsidian is reportedly still working on Avowed 2 as it spins up a new Fallout...",
       "url": "https://kotaku.com/obsidian-game-director-hits-back-at-cold-take-artists-making-up-stuff-about-the-studio-in-the-wake-of-layoffs-2000714963",
       "publishedAt": "2026-07-11T16:00:47Z",
-      "processed_at": "2026-07-12T17:58:55.319462+00:00"
+      "processed_at": "2026-07-12T19:17:25.850485+00:00"
+    },
+    {
+      "title": "‘The Mandalorian and Grogu’ Is Done, But Rotta the Hutt is Forever - Gizmodo",
+      "source": {
+        "name": "Gizmodo.com"
+      },
+      "description": "It's time for you to be your own man and go trick-or-treating as Rotta the Hutt this Halloween....",
+      "url": "https://gizmodo.com/the-mandalorian-and-grogu-is-done-but-rotta-the-hutt-is-forever-2000784379",
+      "publishedAt": "2026-07-11T14:30:53Z",
+      "processed_at": "2026-07-12T19:17:25.850485+00:00"
+    },
+    {
+      "title": "EU admits it cannot stop Sony killing physical disc – \"companies are free to offer games and services in the manner that they see fit\" - Eurogamer.net",
+      "source": {
+        "name": "Eurogamer.net"
+      },
+      "description": "The EU confirms it cannot stop Sony from scrapping physical discs, stating \"companies are free to of...",
+      "url": "https://www.eurogamer.net/eu-cannot-stop-sony-killing-physical-discs",
+      "publishedAt": "2026-07-11T14:10:55Z",
+      "processed_at": "2026-07-12T19:17:25.850485+00:00"
+    },
+    {
+      "title": "Five Games Are Confirmed For Xbox Game Pass In August 2026 So Far - Pure Xbox",
+      "source": {
+        "name": "Pure Xbox"
+      },
+      "description": "An early look at what's to come...",
+      "url": "https://www.purexbox.com/news/2026/07/five-games-are-confirmed-for-xbox-game-pass-in-august-2026-so-far",
+      "publishedAt": "2026-07-11T13:30:00Z",
+      "processed_at": "2026-07-12T19:17:25.850485+00:00"
     },
     {
       "title": "Pokemon Company document shows wanting to increase price from $60, encouraging people to buy both versions - Nintendo Everything",
@@ -20,17 +60,7 @@
       "description": "An internal document from The Pokemon Company has surfaced which shows past interest in increasing t...",
       "url": "https://nintendoeverything.com/pokemon-company-document-shows-wanting-to-increase-price-from-60-encouraging-people-to-buy-both-versions/",
       "publishedAt": "2026-07-11T13:08:49Z",
-      "processed_at": "2026-07-12T17:58:55.319462+00:00"
-    },
-    {
-      "title": "My Fitbit Air test revealed the flaws of calorie counting with a health tracker - here's why - ZDNET",
-      "source": {
-        "name": "ZDNet"
-      },
-      "description": "You should take calorie data with a grain of salt. Here's what I learned after testing the Fitbit Ai...",
-      "url": "https://www.zdnet.com/article/heart-rate-tracking-fitbit-air-accuracy-chest-strap-monitor/",
-      "publishedAt": "2026-07-11T12:52:00Z",
-      "processed_at": "2026-07-12T17:58:55.319462+00:00"
+      "processed_at": "2026-07-12T19:17:25.850485+00:00"
     },
     {
       "title": "The perfect kit for all your tiny repairs - The Verge",
@@ -40,70 +70,40 @@
       "description": "Plus, in this week’s Installer: The Nothing Earbuds 3A, GPT-Live, Apple EarPods, and more....",
       "url": "https://www.theverge.com/tech/964169/ifixit-repairs-kit-nothing-3a-installer",
       "publishedAt": "2026-07-11T12:00:00Z",
-      "processed_at": "2026-07-12T17:58:55.319462+00:00"
+      "processed_at": "2026-07-12T19:17:25.850485+00:00"
     },
     {
       "title": "Avowed 2 May Still Happen, Obsidian Skeleton Crew Continues Work - Push Square",
       "source": {
         "name": "Push Square"
       },
-      "description": "",
+      "description": "Until new Fallout game needs them...",
       "url": "https://www.pushsquare.com/news/2026/07/avowed-2-may-still-happen-obsidian-skeleton-crew-continues-work",
       "publishedAt": "2026-07-11T12:00:00Z",
-      "processed_at": "2026-07-12T17:58:55.319462+00:00"
+      "processed_at": "2026-07-12T19:17:25.850485+00:00"
     },
     {
-      "title": "EU Says It's Powerless to Stop PlayStation From Killing Discs - IGN",
+      "title": "I tried DuckDuckGo's new and free YouTube ad blocker. Here's how it works - Android Authority",
       "source": {
-        "name": "IGN"
+        "name": "Android Authority"
       },
-      "description": "As gamers sign online petitions and swarm upon each and every PlayStation social media post, the EU ...",
-      "url": "https://www.ign.com/articles/eu-says-its-powerless-to-stop-playstation-from-killing-discs-companies-are-free-to-offer-games-and-services-in-the-manner-they-see-fit",
-      "publishedAt": "2026-07-11T08:05:53Z",
-      "processed_at": "2026-07-12T17:58:55.319462+00:00"
+      "description": "DuckDuckGo can now block YouTube ads for free. I tested it across multiple devices to see if it actu...",
+      "url": "https://www.androidauthority.com/duckduckgo-youtube-ad-blocker-how-use-3686151/",
+      "publishedAt": "2026-07-11T12:00:00Z",
+      "processed_at": "2026-07-12T19:17:25.850485+00:00"
     },
     {
-      "title": "Pokémon Go 'Genetic Mastery' choose a path quest steps — Mega Mewtwo X or Y? - Polygon.com",
+      "title": "Need to ID a plant? The University of Michigan launched a free app to help. - MLive.com",
       "source": {
-        "name": "Polygon"
+        "name": "mlive.com"
       },
-      "description": "Should you pick Mega Mewtwo X or Mega Mewtwo Y in Pokémon Go Fest: Global's 2026 Timed Research? We ...",
-      "url": "https://www.polygon.com/pokemon-go-fest-2026-genetic-mastery-timed-research-mega-mewtwo-x-y-which-to-pick/",
-      "publishedAt": "2026-07-11T06:00:19Z",
-      "processed_at": "2026-07-12T17:58:55.319462+00:00"
-    },
-    {
-      "title": "Microsoft loses lawsuit after blocking hacked Xbox account with digital games - Notebookcheck",
-      "source": {
-        "name": "Notebookcheck.net"
-      },
-      "description": "One gamer took extreme measures to restore access to his compromised Xbox account. The Brazilian use...",
-      "url": "https://www.notebookcheck.net/Microsoft-loses-lawsuit-after-blocking-hacked-Xbox-account-with-digital-games.1339855.0.html",
-      "publishedAt": "2026-07-11T01:48:00Z",
-      "processed_at": "2026-07-12T17:58:55.319462+00:00"
-    },
-    {
-      "title": "Donkey Kong Arcade Set Surfaces In New LEGO Leak, Here's A First Look - Nintendo Life",
-      "source": {
-        "name": "Nintendo Life"
-      },
-      "description": "It's on like Donkey Kong!...",
-      "url": "https://www.nintendolife.com/news/2026/07/donkey-kong-arcade-set-surfaces-in-new-lego-leak-heres-a-first-look",
-      "publishedAt": "2026-07-11T00:55:00Z",
-      "processed_at": "2026-07-12T17:58:55.319462+00:00"
-    },
-    {
-      "title": "Is the Assassin's Creed Black Flag remake worth the 13 year wait? - BBC",
-      "source": {
-        "name": "BBC News"
-      },
-      "description": "The BBC's Tom Gerken plays the much-anticipated pirate game which has been remade from the ground up...",
-      "url": "https://www.bbc.com/news/articles/cjrg9r80908o",
-      "publishedAt": "2026-07-11T00:08:51Z",
-      "processed_at": "2026-07-12T17:58:55.319462+00:00"
+      "description": "",
+      "url": "https://www.mlive.com/news/ann-arbor/2026/07/need-to-id-a-plant-the-university-of-michigan-launched-a-free-app-to-help.html",
+      "publishedAt": "2026-07-11T10:00:00Z",
+      "processed_at": "2026-07-12T19:17:25.850485+00:00"
     }
   ],
-  "lastUpdated": "2026-07-12T17:58:55.319514+00:00",
+  "lastUpdated": "2026-07-12T19:17:25.850562+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
