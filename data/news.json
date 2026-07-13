@@ -1,16 +1,56 @@
 {
   "status": "success",
-  "totalResults": 10,
+  "totalResults": 9,
   "articles": [
     {
-      "title": "Apple’s failed self-driving car program left a legacy of powerful AI chips - The Verge",
+      "title": "TennoCon 2026: Everything Announced at the Warframe and Soulframe Fan Event - IGN",
       "source": {
-        "name": "The Verge"
+        "name": "IGN"
       },
-      "description": "Apple is accelerating development of the M7 Ultra, which could support up to 1.5TB of RAM and featur...",
-      "url": "https://www.theverge.com/tech/964519/apple-silicon-self-driving-car-ai-m7-ultra",
-      "publishedAt": "2026-07-12T16:27:06Z",
-      "processed_at": "2026-07-13T18:43:57.495363+00:00"
+      "description": "Here's everything announced at TennoCon 2026, including all the latest news and trailers on Warframe...",
+      "url": "https://www.ign.com/articles/tennocon-2026-everything-announced-at-the-warframe-and-soulframe-fan-event",
+      "publishedAt": "2026-07-12T19:06:05Z",
+      "processed_at": "2026-07-13T20:15:53.222622+00:00"
+    },
+    {
+      "title": "Vanillaware Artist Moved Into The Mountains For Six Years To Create Lush Love Letter To Old School RPGs - Kotaku",
+      "source": {
+        "name": "Kotaku"
+      },
+      "description": "Yoshio Nishimura’s Veritas Tales: Witch of the Dark Castle is a delightfully quirky love letter to t...",
+      "url": "https://kotaku.com/vanillaware-artist-moved-into-the-mountains-for-six-years-to-create-lush-love-letter-to-old-school-rpgs-2000715013",
+      "publishedAt": "2026-07-12T17:57:11Z",
+      "processed_at": "2026-07-13T20:15:53.222622+00:00"
+    },
+    {
+      "title": "Retro Recap: All The Classic Gaming News From The Past Week (July 12th 2026) - Time Extension",
+      "source": {
+        "name": "Timeextension.com"
+      },
+      "description": "Super Mario Bros. Special! Rhapsody: A Musical Adventure! Evercade price hike!...",
+      "url": "https://www.timeextension.com/features/retro-recap-all-the-classic-gaming-news-from-the-past-week-july-12th-2026",
+      "publishedAt": "2026-07-12T17:30:00Z",
+      "processed_at": "2026-07-13T20:15:53.222622+00:00"
+    },
+    {
+      "title": "Warframe Dev Reacts To The Sudden Death Of Rival Destiny 2 - Kotaku",
+      "source": {
+        "name": "Kotaku"
+      },
+      "description": "Business realities remain an existential threat to live service art...",
+      "url": "https://kotaku.com/warframe-dev-calls-the-sudden-death-of-destiny-2-horrible-news-and-says-its-terrifying-to-not-be-in-charge-of-your-own-goodbye-2000715006",
+      "publishedAt": "2026-07-12T17:10:22Z",
+      "processed_at": "2026-07-13T20:15:53.222622+00:00"
+    },
+    {
+      "title": "Sunday Preview – Ogor Mawtribes on the warpath - Warhammer Community",
+      "source": {
+        "name": "Warhammer-community.com"
+      },
+      "description": "See what’s coming up next week for Warhammer Age of Sigmar, Legions Imperialis, and more....",
+      "url": "https://www.warhammer-community.com/articles/p0r8elbp/sunday-preview-ogor-mawtribes-on-the-warpath",
+      "publishedAt": "2026-07-12T16:56:28Z",
+      "processed_at": "2026-07-13T20:15:53.222622+00:00"
     },
     {
       "title": "Summer Games Done Quick 2026 raises another $2.4 million for Doctors Without Borders - Eurogamer.net",
@@ -20,7 +60,7 @@
       "description": "The annual speedrunning marathon, held in Minneapolis this week, welcomed around 2500 in-person atte...",
       "url": "https://www.eurogamer.net/sgdq-2026-raises-24-m",
       "publishedAt": "2026-07-12T16:24:43Z",
-      "processed_at": "2026-07-13T18:43:57.495363+00:00"
+      "processed_at": "2026-07-13T20:15:53.222622+00:00"
     },
     {
       "title": "The problems with Google Pixel price hikes - 9to5Google",
@@ -30,7 +70,7 @@
       "description": "Like everything else in the tech industry, Google’s Pixel 11 series appears to be getting a price hi...",
       "url": "http://9to5google.com/2026/07/12/google-pixel-price-hike-problems/",
       "publishedAt": "2026-07-12T16:15:00Z",
-      "processed_at": "2026-07-13T18:43:57.495363+00:00"
+      "processed_at": "2026-07-13T20:15:53.222622+00:00"
     },
     {
       "title": "Apple plans new Apple pencils, expands iPhone tap to pay in stores: Report - Firstpost",
@@ -40,70 +80,20 @@
       "description": "Apple is reportedly planning new Apple Pencils with replaceable batteries while expanding iPhone-bas...",
       "url": "https://www.firstpost.com/world/apple-plans-new-apple-pencils-expands-iphone-tap-to-pay-in-stores-report-14030857.html",
       "publishedAt": "2026-07-12T16:03:45Z",
-      "processed_at": "2026-07-13T18:43:57.495363+00:00"
+      "processed_at": "2026-07-13T20:15:53.222622+00:00"
     },
     {
-      "title": "Minecraft's New Cushion Is Reinventing Pretty Much Everything - Kotaku",
+      "title": "The Rare Pyrex Bowl Produced For Only A Year That Collectors Dream Of Finding At Thrift Stores - House Digest",
       "source": {
-        "name": "Kotaku"
+        "name": "Housedigest.com"
       },
-      "description": "Mojang, please don't nerf the cushion...",
-      "url": "https://kotaku.com/minecraft-adds-the-ability-to-sit-17-years-later-and-its-reinventing-everything-2000714330",
-      "publishedAt": "2026-07-12T15:30:56Z",
-      "processed_at": "2026-07-13T18:43:57.495363+00:00"
-    },
-    {
-      "title": "iPhone 18 Pro Release Date: New iOS Update Reveals September Plan - Forbes",
-      "source": {
-        "name": "Forbes"
-      },
-      "description": "The schedule that runs up to the release of the next iPhones is meticulously staged. So far, it look...",
-      "url": "https://www.forbes.com/sites/davidphelan/2026/07/12/apple-iphone-18-pro-release-date-ios-27-locks-in-september-schedule/",
-      "publishedAt": "2026-07-12T14:38:20Z",
-      "processed_at": "2026-07-13T18:43:57.495363+00:00"
-    },
-    {
-      "title": "Nintendo Switch 2’s official camera gets massive discount, at lowest price ever - Nintendo Everything",
-      "source": {
-        "name": "Nintendoeverything.com"
-      },
-      "description": "You can now get the official Nintendo Switch 2 camera at a massive discount with the device at its l...",
-      "url": "https://nintendoeverything.com/nintendo-switch-2s-official-camera-gets-massive-discount-at-lowest-price-ever/",
-      "publishedAt": "2026-07-12T14:28:31Z",
-      "processed_at": "2026-07-13T18:43:57.495363+00:00"
-    },
-    {
-      "title": "AI giants learn what everyone else on the modern internet already knows - Business Insider",
-      "source": {
-        "name": "Business Insider"
-      },
-      "description": "Anthropic's distillation complaints expose an awkward question: does AI's fair use argument cut both...",
-      "url": "https://www.businessinsider.com/ai-giants-learn-hard-truth-modern-internet-anthropic-openai-google-2026-7#article",
-      "publishedAt": "2026-07-12T14:03:35Z",
-      "processed_at": "2026-07-13T18:43:57.495363+00:00"
-    },
-    {
-      "title": "The Right Way to Get Rid of Old Laptops, PCs and Printers (and It's Free) - CNET",
-      "source": {
-        "name": "CNET"
-      },
-      "description": "Getting rid of old computers and printers responsibly is free, accessible and considerably simpler t...",
-      "url": "https://www.cnet.com/tech/computing/the-right-way-to-get-rid-of-old-laptops-pcs-and-printers-and-its-free/",
-      "publishedAt": "2026-07-12T14:00:00Z",
-      "processed_at": "2026-07-13T18:43:57.495363+00:00"
-    },
-    {
-      "title": "Less is more with the Oura Ring 5 - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "The $399 Oura Ring 5 is truly thinner and lighter, but it’s mostly the same user experience as the p...",
-      "url": "https://www.theverge.com/tech/964386/oura-ring-5-review-smart-ring-wearables",
-      "publishedAt": "2026-07-12T14:00:00Z",
-      "processed_at": "2026-07-13T18:43:57.495363+00:00"
+      "description": "Pyrex’s Black Tulip casserole dish is a rare find for thrifters because its pattern of black flowers...",
+      "url": "https://www.housedigest.com/2210434/rare-pyrex-dish-black-tulip-pattern-collectors-dream-of-finding-thrift-stores/",
+      "publishedAt": "2026-07-12T16:00:00Z",
+      "processed_at": "2026-07-13T20:15:53.222622+00:00"
     }
   ],
-  "lastUpdated": "2026-07-13T18:43:57.495433+00:00",
+  "lastUpdated": "2026-07-13T20:15:53.222691+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
