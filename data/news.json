@@ -1,7 +1,87 @@
 {
   "status": "success",
-  "totalResults": 9,
+  "totalResults": 10,
   "articles": [
+    {
+      "title": "Pokémon Winds and Wave leak teases exciting changes to battle system - Polygon.com",
+      "source": {
+        "name": "Polygon"
+      },
+      "description": "The RPG will still feature turned-based battles, but they will reportedly unfold differently than ot...",
+      "url": "https://www.polygon.com/pokemon-winds-wave-leak-turn-based-real-time-battle/",
+      "publishedAt": "2026-07-13T18:37:44Z",
+      "processed_at": "2026-07-14T21:58:33.425697+00:00"
+    },
+    {
+      "title": "Pixel 11’s Tensor G6 chip beats the iPhone 18 to TSMC’s 2nm process - 9to5Google",
+      "source": {
+        "name": "9to5google.com"
+      },
+      "description": "While Google’s next Tensor chipset in the Pixel 11 series isn’t expecting to be a gamechanger by any...",
+      "url": "http://9to5google.com/2026/07/13/pixel-11-tensor-g6-upgrade-tsmc-2nm/",
+      "publishedAt": "2026-07-13T18:10:00Z",
+      "processed_at": "2026-07-14T21:58:33.425697+00:00"
+    },
+    {
+      "title": "‘Deep Dive Into Kingdom Hearts’ event set for D23 2026 - Gematsu",
+      "source": {
+        "name": "Gematsu"
+      },
+      "description": "Disney will host a “Deep Dive Into Kingdom Hearts” event at D23 2026 on August 15 from 4:30 p.m. to ...",
+      "url": "https://www.gematsu.com/2026/07/deep-dive-into-kingdom-hearts-event-set-for-d23-2026",
+      "publishedAt": "2026-07-13T17:45:25Z",
+      "processed_at": "2026-07-14T21:58:33.425697+00:00"
+    },
+    {
+      "title": "OnePlus will reportedly officially shut down in the US and Europe later this week - 9to5Google",
+      "source": {
+        "name": "9to5google.com"
+      },
+      "description": "The end is near and the clock is ticking. OnePlus is reportedly going to be shut down for good in......",
+      "url": "http://9to5google.com/2026/07/13/oneplus-us-europe-shut-down-report/",
+      "publishedAt": "2026-07-13T17:45:00Z",
+      "processed_at": "2026-07-14T21:58:33.425697+00:00"
+    },
+    {
+      "title": "Galaxy Z Fold 8 Ultra display crease missing in latest hands-on leak [Video] - 9to5Google",
+      "source": {
+        "name": "9to5google.com"
+      },
+      "description": "Rumors have suggested the Galaxy Z Fold series would take a big step in removing the inner display c...",
+      "url": "http://9to5google.com/2026/07/13/galaxy-z-fold-8-ultra-crease-missing-in-leaked-video/",
+      "publishedAt": "2026-07-13T17:33:00Z",
+      "processed_at": "2026-07-14T21:58:33.425697+00:00"
+    },
+    {
+      "title": "Someone created a 'Ghost Font' that humans can read but AI can't — I had to try it for myself - Tom's Guide",
+      "source": {
+        "name": "Tom's Guide"
+      },
+      "description": "Ghost Font hides messages inside moving dots that humans can read almost instantly and it exposes on...",
+      "url": "https://www.tomsguide.com/ai/someone-created-a-ghost-font-that-humans-can-read-but-ai-cant-i-had-to-try-it-for-myself",
+      "publishedAt": "2026-07-13T17:28:01Z",
+      "processed_at": "2026-07-14T21:58:33.425697+00:00"
+    },
+    {
+      "title": "Microsoft unveils major Windows 11 search experience overhaul that it promises will fix search - Windows Central",
+      "source": {
+        "name": "Windows Central"
+      },
+      "description": "Windows 11's search user experience is getting a big update, with Microsoft moving to prioritize loc...",
+      "url": "https://www.windowscentral.com/microsoft/windows-11/microsoft-announces-major-windows-11-search-overhaul-that-prioritizes-clearer-local-results-and-removes-ads",
+      "publishedAt": "2026-07-13T17:24:08Z",
+      "processed_at": "2026-07-14T21:58:33.425697+00:00"
+    },
+    {
+      "title": "Ultra Unlock: 10th Anniversary Edition - Pokémon GO Hub",
+      "source": {
+        "name": "Pokemon GO Hub"
+      },
+      "description": "First Partner Pokémon with special backgrounds feature during the Ultra Unlock: 10th Anniversary eve...",
+      "url": "https://pokemongohub.net/post/event/ultra-unlock-10th-anniversary-edition/",
+      "publishedAt": "2026-07-13T17:05:45Z",
+      "processed_at": "2026-07-14T21:58:33.425697+00:00"
+    },
     {
       "title": "Hackers quickly prove that Neo Geo Doom ports are not \"impossible\" - Ars Technica",
       "source": {
@@ -10,7 +90,7 @@
       "description": "Clever coding and graphical compromises get a classic game on more classic hardware....",
       "url": "https://arstechnica.com/gaming/2026/07/hackers-quickly-prove-that-neo-geo-doom-ports-are-not-impossible/",
       "publishedAt": "2026-07-13T16:37:14Z",
-      "processed_at": "2026-07-14T20:12:30.625363+00:00"
+      "processed_at": "2026-07-14T21:58:33.425697+00:00"
     },
     {
       "title": "Dining critic's notebook: Recent standouts, from unexpected tavern bites to a Pittsburgh classic - Pittsburgh Post-Gazette",
@@ -20,80 +100,10 @@
       "description": "False...",
       "url": "https://www.post-gazette.com/life/dining/2026/07/13/best-dishes-pittsburgh/stories/202607100050",
       "publishedAt": "2026-07-13T16:23:50Z",
-      "processed_at": "2026-07-14T20:12:30.625363+00:00"
-    },
-    {
-      "title": "I got obliterated in the Pokémon team's new Soulslike — and I can’t wait to play more - Polygon.com",
-      "source": {
-        "name": "Polygon"
-      },
-      "description": "Game Freak's action RPG is emphatically not a Pokémon game for widdle babies, but a combat-forward e...",
-      "url": "https://www.polygon.com/beast-of-reincarnation-preview-demo-impressions/",
-      "publishedAt": "2026-07-13T16:00:17Z",
-      "processed_at": "2026-07-14T20:12:30.625363+00:00"
-    },
-    {
-      "title": "'Not every road bike has to be an aero spaceship' - Cervélo launches a brand-new Soloist - Cyclingnews",
-      "source": {
-        "name": "Cyclingnews.com"
-      },
-      "description": "The Soloist is for the rider who meets at the cafe for the Tuesday night tear-up...",
-      "url": "https://www.cyclingnews.com/bikes/road/not-every-road-bike-has-to-be-an-aero-spaceship-cervelo-launches-a-brand-new-soloist/",
-      "publishedAt": "2026-07-13T15:26:48Z",
-      "processed_at": "2026-07-14T20:12:30.625363+00:00"
-    },
-    {
-      "title": "Destiny 2’s Demise Is ‘Existentially Threatening,’ Says ‘Warframe’ Creative Director - Forbes",
-      "source": {
-        "name": "Forbes"
-      },
-      "description": "Another game in the live-service shooter genre, Warframe, has been running in parallel with Destiny ...",
-      "url": "https://www.forbes.com/sites/paultassi/2026/07/13/destiny-2s-demise-is-existentially-threatening-says-warframe-creative-director/",
-      "publishedAt": "2026-07-13T15:11:35Z",
-      "processed_at": "2026-07-14T20:12:30.625363+00:00"
-    },
-    {
-      "title": "DOOM PS5 DLC Quietly Becomes One of 2026's Best-Rated Releases - Push Square",
-      "source": {
-        "name": "Push Square"
-      },
-      "description": "Revelations gets a 90 on Opencritic...",
-      "url": "https://www.pushsquare.com/news/2026/07/doom-ps5-dlc-quietly-becomes-one-of-2026s-best-rated-releases",
-      "publishedAt": "2026-07-13T15:11:03Z",
-      "processed_at": "2026-07-14T20:12:30.625363+00:00"
-    },
-    {
-      "title": "Dragon's Dogma 2 devs on the big fast travel U-turn, and wanting to \"win back the trust\" of RPG fans with the Dark Arisen DLC - Eurogamer.net",
-      "source": {
-        "name": "Eurogamer.net"
-      },
-      "description": "A chat with producer Naoto Oyama and director Kenta Kinoshita about Capcom's lofty plans for a huge ...",
-      "url": "https://www.eurogamer.net/dragons-dogma-2-dark-arisen-interview-performance-microtransactions",
-      "publishedAt": "2026-07-13T15:00:00Z",
-      "processed_at": "2026-07-14T20:12:30.625363+00:00"
-    },
-    {
-      "title": "I Bought the $3,000 Fitness Suit That Electrocutes You. I’m Sending It Back - 404 Media",
-      "source": {
-        "name": "404media.co"
-      },
-      "description": "Celebrities like George Clooney have praised the expensive Katalyst suit. For me, it derailed my oth...",
-      "url": "https://www.404media.co/i-bought-the-3-000-fitness-suit-that-electrocutes-you-im-sending-it-back/",
-      "publishedAt": "2026-07-13T14:32:58Z",
-      "processed_at": "2026-07-14T20:12:30.625363+00:00"
-    },
-    {
-      "title": "Google Pixel 11 devices to have the first 2nm smartphone SoC, new modem - GSMArena.com news - GSMArena.com",
-      "source": {
-        "name": "GSMArena.com"
-      },
-      "description": "The Tensor G6 is expected to leapfrog the competition in one very specific metric and probably not m...",
-      "url": "https://www.gsmarena.com/google_pixel_11_devices_to_have_the_first_2nm_smartphone_soc_new_modem-news-73693.php",
-      "publishedAt": "2026-07-13T14:30:02Z",
-      "processed_at": "2026-07-14T20:12:30.625363+00:00"
+      "processed_at": "2026-07-14T21:58:33.425697+00:00"
     }
   ],
-  "lastUpdated": "2026-07-14T20:12:30.625423+00:00",
+  "lastUpdated": "2026-07-14T21:58:33.425779+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
