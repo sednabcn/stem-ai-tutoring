@@ -1,16 +1,36 @@
 {
   "status": "success",
-  "totalResults": 10,
+  "totalResults": 9,
   "articles": [
     {
-      "title": "Siri AI makes the Apple Watch finally feel like a wrist computer - The Verge",
+      "title": "ADHD and periods: Are my hormones making my symptoms worse? - BBC",
+      "source": {
+        "name": "BBC News"
+      },
+      "description": "A first-of-its-kind study by UK researchers is looking at the link between menstrual cycles and ADHD...",
+      "url": "https://www.bbc.com/news/articles/czj8zp9e084o",
+      "publishedAt": "2026-07-13T23:00:58Z",
+      "processed_at": "2026-07-15T02:34:10.037644+00:00"
+    },
+    {
+      "title": "OnePlus is reportedly bailing on the US - The Verge",
       "source": {
         "name": "The Verge"
       },
-      "description": "After testing the watchOS 27 developer beta, Siri AI has some limitations but helps make the Apple W...",
-      "url": "https://www.theverge.com/tech/964800/watchos-27-preview-siri-ai-apple-watch-gestures-smartwatch",
-      "publishedAt": "2026-07-13T20:44:20Z",
-      "processed_at": "2026-07-14T23:03:53.578243+00:00"
+      "description": "Oppo-owned OnePlus plans to announce in the coming days that it will be exiting the US and European ...",
+      "url": "https://www.theverge.com/tech/965084/oneplus-oppo-exit-us-europe",
+      "publishedAt": "2026-07-13T21:48:43Z",
+      "processed_at": "2026-07-15T02:34:10.037644+00:00"
+    },
+    {
+      "title": "New Google Pixel 11 renders show it in three colors - GSMArena.com news - GSMArena.com",
+      "source": {
+        "name": "GSMArena.com"
+      },
+      "description": "It's an interesting leak originating at Amazon. Google is announcing the Pixel 11 family on August 1...",
+      "url": "https://www.gsmarena.com/new_google_pixel_11_renders_show_it_in_three_colors-news-73696.php",
+      "publishedAt": "2026-07-13T21:45:02Z",
+      "processed_at": "2026-07-15T02:34:10.037644+00:00"
     },
     {
       "title": "First macOS Golden Gate Public Beta Now Available - MacRumors",
@@ -20,7 +40,7 @@
       "description": "Apple today released the first public beta of macOS Golden Gate, expanding the macOS 27 beta test to...",
       "url": "https://www.macrumors.com/2026/07/13/macos-golden-gate-public-beta/",
       "publishedAt": "2026-07-13T20:41:27Z",
-      "processed_at": "2026-07-14T23:03:53.578243+00:00"
+      "processed_at": "2026-07-15T02:34:10.037644+00:00"
     },
     {
       "title": "Someone Trapped Zelda: Tears Of The Kingdom's Ganondorf Inside A Hamster Wheel - Kotaku",
@@ -30,7 +50,7 @@
       "description": "When we work together it's much better...",
       "url": "https://kotaku.com/heres-ganondorf-hamster-wheel-2000715325",
       "publishedAt": "2026-07-13T20:15:58Z",
-      "processed_at": "2026-07-14T23:03:53.578243+00:00"
+      "processed_at": "2026-07-15T02:34:10.037644+00:00"
     },
     {
       "title": "Pokémon GO Water Festival 2026 Guide – Arrokuda, Cramorant, Bonuses and GO Pass - Pokémon GO Hub",
@@ -40,17 +60,7 @@
       "description": "Arrokuda and Cramorant make their Pokémon GO debuts during the Ultra Unlock: Water Festival 2026 eve...",
       "url": "https://pokemongohub.net/post/event/water-festival-2026/",
       "publishedAt": "2026-07-13T19:25:27Z",
-      "processed_at": "2026-07-14T23:03:53.578243+00:00"
-    },
-    {
-      "title": "Former Xbox Studio Compulsion Games Says It's Open to Collaborations - IGN",
-      "source": {
-        "name": "IGN"
-      },
-      "description": "Montreal-based developer Compulsion Games, who avoided closure amidst the mass layoffs by Xbox Game ...",
-      "url": "https://www.ign.com/articles/former-xbox-studio-compulsion-games-says-its-open-to-collaborations",
-      "publishedAt": "2026-07-13T19:24:39Z",
-      "processed_at": "2026-07-14T23:03:53.578243+00:00"
+      "processed_at": "2026-07-15T02:34:10.037644+00:00"
     },
     {
       "title": "The First Final Fantasy Game With HD-2D Graphics Is Up for Preorder — Here's What Comes in Each Edition - IGN",
@@ -60,7 +70,7 @@
       "description": "Final Fantasy Resonance will be released in two separate editions. Here's everything we know about w...",
       "url": "https://www.ign.com/articles/final-fantasy-resonance-where-to-buy",
       "publishedAt": "2026-07-13T19:08:50Z",
-      "processed_at": "2026-07-14T23:03:53.578243+00:00"
+      "processed_at": "2026-07-15T02:34:10.037644+00:00"
     },
     {
       "title": "Pokémon Winds and Wave leak teases exciting changes to battle system - Polygon.com",
@@ -70,40 +80,20 @@
       "description": "The RPG will still feature turned-based battles, but they will reportedly unfold differently than ot...",
       "url": "https://www.polygon.com/pokemon-winds-wave-leak-turn-based-real-time-battle/",
       "publishedAt": "2026-07-13T18:37:44Z",
-      "processed_at": "2026-07-14T23:03:53.578243+00:00"
+      "processed_at": "2026-07-15T02:34:10.037644+00:00"
     },
     {
-      "title": "Kingdom Hearts Fans Are On High Alert After Disney Announces A D23 Panel For The RPG Series - Kotaku",
+      "title": "Assassin's Creed Black Flag Resynced Handheld Performance Review - TechPowerUp",
       "source": {
-        "name": "Kotaku"
+        "name": "Techpowerup.com"
       },
-      "description": "Disney's fan event is celebrating Kingdom Hearts' anniversary...",
-      "url": "https://kotaku.com/kingdom-hearts-4-d23-disney-panel-date-time-2000715294",
-      "publishedAt": "2026-07-13T18:15:08Z",
-      "processed_at": "2026-07-14T23:03:53.578243+00:00"
-    },
-    {
-      "title": "Pixel 11’s Tensor G6 chip beats the iPhone 18 to TSMC’s 2nm process - 9to5Google",
-      "source": {
-        "name": "9to5google.com"
-      },
-      "description": "While Google’s next Tensor chipset in the Pixel 11 series isn’t expecting to be a gamechanger by any...",
-      "url": "http://9to5google.com/2026/07/13/pixel-11-tensor-g6-upgrade-tsmc-2nm/",
-      "publishedAt": "2026-07-13T18:10:00Z",
-      "processed_at": "2026-07-14T23:03:53.578243+00:00"
-    },
-    {
-      "title": "OnePlus will reportedly officially shut down in the US and Europe later this week - 9to5Google",
-      "source": {
-        "name": "9to5google.com"
-      },
-      "description": "The end is near and the clock is ticking. OnePlus is reportedly going to be shut down for good in......",
-      "url": "http://9to5google.com/2026/07/13/oneplus-us-europe-shut-down-report/",
-      "publishedAt": "2026-07-13T17:45:00Z",
-      "processed_at": "2026-07-14T23:03:53.578243+00:00"
+      "description": "Whether you thought the original needed a remake or not, Assassin's Creed Black Flag Resynced is her...",
+      "url": "https://www.techpowerup.com/review/assassins-creed-black-flag-resynced-steam-deck-xbox-ally-x-claw-8-ex-performance/",
+      "publishedAt": "2026-07-13T18:20:49Z",
+      "processed_at": "2026-07-15T02:34:10.037644+00:00"
     }
   ],
-  "lastUpdated": "2026-07-14T23:03:53.578317+00:00",
+  "lastUpdated": "2026-07-15T02:34:10.037721+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
