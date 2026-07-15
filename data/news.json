@@ -1,7 +1,27 @@
 {
   "status": "success",
-  "totalResults": 9,
+  "totalResults": 10,
   "articles": [
+    {
+      "title": "All Unreleased GTA Online The Kortz Center Heist Vehicles And Prices - RockstarINTEL",
+      "source": {
+        "name": "Rockstarintel.com"
+      },
+      "description": "All of the currently unreleased vehicles part of the GTA Online The Kortz Center Heist update have b...",
+      "url": "https://rockstarintel.com/all-unreleased-gta-online-the-kortz-center-heist-vehicles-and-prices/",
+      "publishedAt": "2026-07-14T10:14:15Z",
+      "processed_at": "2026-07-15T12:15:48.104602+00:00"
+    },
+    {
+      "title": "Google Pixel Watch Fitbit Sensor Permission Bug Leaves Health Tracking Broken for Some Users - Techgenyz",
+      "source": {
+        "name": "Techgenyz.com"
+      },
+      "description": "The Google Pixel Fitbit sensor permission bug locks users out of Google Health apps by demanding sen...",
+      "url": "https://techgenyz.com/google-pixel-watch-fitbit-sensor-permission-bug/",
+      "publishedAt": "2026-07-14T10:04:41Z",
+      "processed_at": "2026-07-15T12:15:48.104602+00:00"
+    },
     {
       "title": "Pokémon GO Fest 2026: Raid Make-Up Event - Pokémon GO Hub",
       "source": {
@@ -10,7 +30,17 @@
       "description": "During Pokémon GO Fest 2026: Global certain areas experienced issues with raids. This led to Scopely...",
       "url": "https://pokemongohub.net/post/news/pokemon-go-fest-2026-raid-make-up-event/",
       "publishedAt": "2026-07-14T09:58:56Z",
-      "processed_at": "2026-07-15T10:51:14.388028+00:00"
+      "processed_at": "2026-07-15T12:15:48.104602+00:00"
+    },
+    {
+      "title": "New rumours suggest Nintendo could be looking into upgrading the Switch 2 with an OLED screen - Eurogamer.net",
+      "source": {
+        "name": "Eurogamer.net"
+      },
+      "description": "It's been claimed serious talks about upgrading the Switch 2 with an OLED screen are underway at Nin...",
+      "url": "https://www.eurogamer.net/nintendo-switch-2-oled-rumours",
+      "publishedAt": "2026-07-14T09:41:06Z",
+      "processed_at": "2026-07-15T12:15:48.104602+00:00"
     },
     {
       "title": "New leak reportedly reveals nearly full spec sheet for Samsung Galaxy Watch Ultra 2 - Mashable",
@@ -20,7 +50,7 @@
       "description": "Ahead of a July 22 Unpacked event, a new report details battery upgrades, chip changes, and pricing ...",
       "url": "https://mashable.com/tech/leak-reveals-spec-sheet-for-samsung-watch-and-ultra-watch",
       "publishedAt": "2026-07-14T08:25:55Z",
-      "processed_at": "2026-07-15T10:51:14.388028+00:00"
+      "processed_at": "2026-07-15T12:15:48.104602+00:00"
     },
     {
       "title": "More deleted Pixel 11 Amazon listings reveal full US pricing and specs - Android Authority",
@@ -30,17 +60,7 @@
       "description": "Now deleted Amazon.com listings for the Pixel 11 lineup have revealed almost everything about the ph...",
       "url": "https://www.androidauthority.com/google-pixel-11-us-pricing-specs-leak-3687082/",
       "publishedAt": "2026-07-14T04:16:00Z",
-      "processed_at": "2026-07-15T10:51:14.388028+00:00"
-    },
-    {
-      "title": "Rumour: Nintendo Is Reportedly Considering A Switch 2 OLED Model - Nintendo Life",
-      "source": {
-        "name": "Nintendo Life"
-      },
-      "description": "Switch 2 launched with an LCD panel...",
-      "url": "https://www.nintendolife.com/news/2026/07/rumour-nintendo-is-reportedly-considering-a-switch-2-oled-model",
-      "publishedAt": "2026-07-14T03:30:00Z",
-      "processed_at": "2026-07-15T10:51:14.388028+00:00"
+      "processed_at": "2026-07-15T12:15:48.104602+00:00"
     },
     {
       "title": "Samsung Galaxy S26 Ultra users are seeing red over screen issue - Android Police",
@@ -50,7 +70,7 @@
       "description": "Privacy Display might be to blame...",
       "url": "https://www.androidpolice.com/samsung-galaxy-s26-ultra-users-are-seeing-red-over-screen-issue/",
       "publishedAt": "2026-07-13T22:30:28Z",
-      "processed_at": "2026-07-15T10:51:14.388028+00:00"
+      "processed_at": "2026-07-15T12:15:48.104602+00:00"
     },
     {
       "title": "EXCLUSIVE INTERVIEW: Former Sony Veteran On Digital vs. Disc Gaming and PlayStation Stars Failure - Insider Gaming",
@@ -60,40 +80,30 @@
       "description": "In this exclusive interview, we catch up with an 18-year SIE veteran about digital vs. disc gaming, ...",
       "url": "https://insider-gaming.com/exclusive-interview-sony-veteran-digital-disc-gaming-playstation-stars/",
       "publishedAt": "2026-07-13T22:30:26Z",
-      "processed_at": "2026-07-15T10:51:14.388028+00:00"
+      "processed_at": "2026-07-15T12:15:48.104602+00:00"
     },
     {
-      "title": "OnePlus is reportedly bailing on the US - The Verge",
+      "title": "Samsung Health will delete your data unless you hand it over for AI training - 9to5Google",
+      "source": {
+        "name": "9to5google.com"
+      },
+      "description": "As its new redesign rolls out, Samsung Health is also forcing users into a choice – let their data b...",
+      "url": "http://9to5google.com/2026/07/13/samsung-health-ai-training-data-consent/",
+      "publishedAt": "2026-07-13T22:15:00Z",
+      "processed_at": "2026-07-15T12:15:48.104602+00:00"
+    },
+    {
+      "title": "Microsoft tests Windows Search without all the ads and fluff - The Verge",
       "source": {
         "name": "The Verge"
       },
-      "description": "Oppo-owned OnePlus plans to announce in the coming days that it will be exiting the US and European ...",
-      "url": "https://www.theverge.com/tech/965084/oneplus-oppo-exit-us-europe",
-      "publishedAt": "2026-07-13T21:48:43Z",
-      "processed_at": "2026-07-15T10:51:14.388028+00:00"
-    },
-    {
-      "title": "The Shokz OpenRun Pro are the cheapest they’ve been since January - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "The last-gen Shokz OpenRun Pro bone-conduction headphones are back to their all-time low of $109, of...",
-      "url": "https://www.theverge.com/gadgets/964982/shokz-openrun-pro-bone-conduction-headphones-summer-deal-sale",
-      "publishedAt": "2026-07-13T20:57:44Z",
-      "processed_at": "2026-07-15T10:51:14.388028+00:00"
-    },
-    {
-      "title": "Someone Trapped Zelda: Tears Of The Kingdom's Ganondorf Inside A Hamster Wheel - Kotaku",
-      "source": {
-        "name": "Kotaku"
-      },
-      "description": "When we work together it's much better...",
-      "url": "https://kotaku.com/heres-ganondorf-hamster-wheel-2000715325",
-      "publishedAt": "2026-07-13T20:15:58Z",
-      "processed_at": "2026-07-15T10:51:14.388028+00:00"
+      "description": "Microsoft is testing an update to its Windows 11 search menu that gets rid of recommended content an...",
+      "url": "https://www.theverge.com/tech/965090/microsoft-windows-11-search-menu-ads",
+      "publishedAt": "2026-07-13T21:53:20Z",
+      "processed_at": "2026-07-15T12:15:48.104602+00:00"
     }
   ],
-  "lastUpdated": "2026-07-15T10:51:14.388098+00:00",
+  "lastUpdated": "2026-07-15T12:15:48.104683+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
