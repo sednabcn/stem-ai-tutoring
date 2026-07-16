@@ -3,6 +3,16 @@
   "totalResults": 9,
   "articles": [
     {
+      "title": "Castlevania: Belmont’s Curse for Switch launches October 15 - Gematsu",
+      "source": {
+        "name": "Gematsu"
+      },
+      "description": "The Switch version of Castlevania: Belmont’s Curse will launch day and date with the PlayStation 5, ...",
+      "url": "https://www.gematsu.com/2026/07/castlevania-belmonts-curse-for-switch-launches-october-15",
+      "publishedAt": "2026-07-15T01:22:34Z",
+      "processed_at": "2026-07-16T03:27:55.858345+00:00"
+    },
+    {
       "title": "Google temporarily offers open Pixel Care+ enrollment for Pixel 9 and 10 - 9to5Google",
       "source": {
         "name": "9to5google.com"
@@ -10,7 +20,27 @@
       "description": "Google today announced a limited-time Pixel Care+ open enrollment period for existing Pixel 9 and 10...",
       "url": "http://9to5google.com/2026/07/14/pixel-care-open-enrollment/",
       "publishedAt": "2026-07-14T22:40:00Z",
-      "processed_at": "2026-07-15T23:59:10.156439+00:00"
+      "processed_at": "2026-07-16T03:27:55.858345+00:00"
+    },
+    {
+      "title": "Dead Space Creator Glen Schofield Announces Retirement From \"Day to Day\" Work of the Gaming Industry - IGN",
+      "source": {
+        "name": "IGN"
+      },
+      "description": "Dead Space creator Glen Schofield has announced his retirement from the gaming industry....",
+      "url": "https://www.ign.com/articles/dead-space-creator-glen-schofield-announces-retirement-from-gaming-industry",
+      "publishedAt": "2026-07-14T22:31:13Z",
+      "processed_at": "2026-07-16T03:27:55.858345+00:00"
+    },
+    {
+      "title": "OpenAI’s first hardware device is reportedly a screenless speaker that can move - TechCrunch",
+      "source": {
+        "name": "TechCrunch"
+      },
+      "description": "The device is weirdly described as involving \"mechanical elements that can move on their own\" and th...",
+      "url": "https://techcrunch.com/2026/07/14/openais-first-hardware-device-is-reportedly-a-screenless-speaker-that-can-move/",
+      "publishedAt": "2026-07-14T22:22:24Z",
+      "processed_at": "2026-07-16T03:27:55.858345+00:00"
     },
     {
       "title": "Microsoft Secure Boot has been broken for most of its existence - Ars Technica",
@@ -20,17 +50,17 @@
       "description": "Old and forgotten \"shims\" Microsoft failed to revoke have made Secure Boot bypasses simple....",
       "url": "https://arstechnica.com/security/2026/07/microsoft-secure-boot-has-been-broken-for-most-of-its-existence/",
       "publishedAt": "2026-07-14T22:20:48Z",
-      "processed_at": "2026-07-15T23:59:10.156439+00:00"
+      "processed_at": "2026-07-16T03:27:55.858345+00:00"
     },
     {
-      "title": "Glen Schofield Announces Retirement in Emotional Video: ‘This is an Amazing Industry’ - Insider Gaming",
+      "title": "Halo Studios Reportedly Cancels \"Big Team Battle\" Multiplayer Project - IGN",
       "source": {
-        "name": "Insider-gaming.com"
+        "name": "IGN"
       },
-      "description": "Glen Schofield has retired from making games after a whopping 35 years in the industry. He announced...",
-      "url": "https://insider-gaming.com/glen-schofield-retirement-video-posted-online-emotional/",
-      "publishedAt": "2026-07-14T21:35:10Z",
-      "processed_at": "2026-07-15T23:59:10.156439+00:00"
+      "description": "A brand new Halo multiplayer game has been scrapped, according to sources....",
+      "url": "https://www.ign.com/articles/halo-studios-reportedly-cancels-new-multiplayer-project",
+      "publishedAt": "2026-07-14T22:08:19Z",
+      "processed_at": "2026-07-16T03:27:55.858345+00:00"
     },
     {
       "title": "Microsoft Patches Record 622 Flaws, Including Two Zero-Days Under Active Attack - The Hacker News",
@@ -40,27 +70,7 @@
       "description": "Microsoft fixes a record 622 CVEs, including two exploited SharePoint and AD FS zero-days, while a K...",
       "url": "https://thehackernews.com/2026/07/microsoft-patches-record-622-flaws.html",
       "publishedAt": "2026-07-14T20:25:00Z",
-      "processed_at": "2026-07-15T23:59:10.156439+00:00"
-    },
-    {
-      "title": "Apple opens its new Siri AI to everyone with the iOS 27 public beta - TechCrunch",
-      "source": {
-        "name": "TechCrunch"
-      },
-      "description": "If you’ve been waiting to try Apple’s revamped Siri without installing a developer beta, you now can...",
-      "url": "https://techcrunch.com/2026/07/14/apple-opens-its-new-siri-ai-to-everyone-with-the-ios-27-public-beta/",
-      "publishedAt": "2026-07-14T19:42:27Z",
-      "processed_at": "2026-07-15T23:59:10.156439+00:00"
-    },
-    {
-      "title": "The founder of Hinge raised $18M to build a new AI dating service, Overtone - TechCrunch",
-      "source": {
-        "name": "TechCrunch"
-      },
-      "description": "Overtone describes itself as \"a voice- and audio-forward service, enabled by AI, that provides highl...",
-      "url": "https://techcrunch.com/2026/07/14/the-founder-of-hinge-raised-18m-to-build-a-new-ai-dating-service-overtone/",
-      "publishedAt": "2026-07-14T19:39:39Z",
-      "processed_at": "2026-07-15T23:59:10.156439+00:00"
+      "processed_at": "2026-07-16T03:27:55.858345+00:00"
     },
     {
       "title": "Galaxy Watch 9 and Ultra 2 specs leak with Snapdragon chip, 800 mAh battery - 9to5Google",
@@ -70,7 +80,7 @@
       "description": "Ahead of their debut in just over a week, yet another leak details the full specs of Samsung’s Galax...",
       "url": "http://9to5google.com/2026/07/14/samsung-galaxy-watch-9-ultra-2-specs-leak/",
       "publishedAt": "2026-07-14T19:35:00Z",
-      "processed_at": "2026-07-15T23:59:10.156439+00:00"
+      "processed_at": "2026-07-16T03:27:55.858345+00:00"
     },
     {
       "title": "47 revelatory hours with Assassin’s Creed Black Flag Resynced - Game File | Stephen Totilo",
@@ -80,20 +90,10 @@
       "description": "A review in the new Assassin’s Creed's fringes, where some truths about the game can be found....",
       "url": "https://www.gamefile.news/p/assassins-creed-black-flag-resynced-review",
       "publishedAt": "2026-07-14T19:18:48Z",
-      "processed_at": "2026-07-15T23:59:10.156439+00:00"
-    },
-    {
-      "title": "Starlink's New V5 Dish: No Speed Boost, But It Trims Power Consumption, Weight - PCMag",
-      "source": {
-        "name": "PCMag.com"
-      },
-      "description": "Starlink.com posts new support pages for the upcoming satellite dish, which is more compact and weig...",
-      "url": "https://www.pcmag.com/news/starlinks-new-v5-dish-no-speed-boost-but-it-trims-power-consumption-weight",
-      "publishedAt": "2026-07-14T18:54:18Z",
-      "processed_at": "2026-07-15T23:59:10.156439+00:00"
+      "processed_at": "2026-07-16T03:27:55.858345+00:00"
     }
   ],
-  "lastUpdated": "2026-07-15T23:59:10.156520+00:00",
+  "lastUpdated": "2026-07-16T03:27:55.858406+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
