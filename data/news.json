@@ -1,109 +1,99 @@
 {
   "status": "success",
-  "totalResults": 10,
+  "totalResults": 9,
   "articles": [
     {
-      "title": "Love And Deepspace’s Gay Fans Say It Has A Homophobia Problem - Kotaku",
+      "title": "Final Fantasy Resonance ‘Pixel’ trailer, latest details and screenshots - Gematsu",
+      "source": {
+        "name": "Gematsu"
+      },
+      "description": "Publisher and developer Square Enix, and developer Lancarse have released a new trailer for Final Fa...",
+      "url": "https://www.gematsu.com/2026/07/final-fantasy-resonance-pixel-trailer-latest-details-and-screenshots",
+      "publishedAt": "2026-07-16T03:11:18Z",
+      "processed_at": "2026-07-17T04:06:55.674685+00:00"
+    },
+    {
+      "title": "Langrisser: Sea of Sword announced for PC, iOS, Android, and more - Gematsu",
+      "source": {
+        "name": "Gematsu"
+      },
+      "description": "BlackJack Studio has announced Langrisser: Sea of Sword, a “next-generation fantasy tactical RPG” in...",
+      "url": "https://www.gematsu.com/2026/07/langrisser-sea-of-sword-announced-for-pc-ios-android-and-more",
+      "publishedAt": "2026-07-16T02:27:14Z",
+      "processed_at": "2026-07-17T04:06:55.674685+00:00"
+    },
+    {
+      "title": "Mario Tennis Fever major 1.1.0 update out now, patch notes - Galaxy Court, Black Hole Racket, balance adjustments, more - Nintendo Everything",
+      "source": {
+        "name": "Nintendoeverything.com"
+      },
+      "description": "Mario Tennis Fever just got a massive update with version 1.1.0 including new content and more - che...",
+      "url": "https://nintendoeverything.com/mario-tennis-fever-major-1-1-0-update-out-now-patch-notes-galaxy-court-black-hole-racket-balance-adjustments-more/",
+      "publishedAt": "2026-07-16T01:17:54Z",
+      "processed_at": "2026-07-17T04:06:55.674685+00:00"
+    },
+    {
+      "title": "AirPods just got a long-requested feature in new public beta - 9to5Mac",
+      "source": {
+        "name": "9to5Mac"
+      },
+      "description": "A new AirPods public beta just arrived with custom EQ, a long-requested feature. Here's how to insta...",
+      "url": "https://9to5mac.com/2026/07/15/airpods-just-got-a-long-requested-feature-in-new-public-beta/",
+      "publishedAt": "2026-07-16T00:19:00Z",
+      "processed_at": "2026-07-17T04:06:55.674685+00:00"
+    },
+    {
+      "title": "PlayStation’s Summer Sale Includes A Ton Of PS5 Games That Cost $15 Or Less - Kotaku",
       "source": {
         "name": "Kotaku"
       },
-      "description": "The otome hit is a worldwide phenomenon directed at women, so what happens when men who like men wan...",
-      "url": "https://kotaku.com/love-deepspace-gay-bl-ships-men-love-interests-homophobia-2000716290",
-      "publishedAt": "2026-07-15T19:03:46Z",
-      "processed_at": "2026-07-16T22:11:15.365698+00:00"
+      "description": "A lot of Resident Evil, Mortal Kombat, and Star Wars games are on sale for less than $20...",
+      "url": "https://kotaku.com/playstations-summer-sale-includes-a-ton-of-ps5-games-that-cost-15-or-less-2000716362",
+      "publishedAt": "2026-07-16T00:00:19Z",
+      "processed_at": "2026-07-17T04:06:55.674685+00:00"
     },
     {
-      "title": "Phone maker OnePlus reportedly plans to wind down US and Europe operations - TechCrunch",
+      "title": "ZeniMax Online Studios leadership to exit as part of Xbox cuts - Game File | Stephen Totilo",
       "source": {
-        "name": "TechCrunch"
+        "name": "Gamefile.news"
       },
-      "description": "OnePlus could also wind down its operations in India by 2027....",
-      "url": "https://techcrunch.com/2026/07/15/phone-maker-oneplus-reportedly-plans-to-wind-down-us-and-europe-operations/",
-      "publishedAt": "2026-07-15T17:53:32Z",
-      "processed_at": "2026-07-16T22:11:15.365698+00:00"
+      "description": "A rundown of 379 gaming roles eliminated in Maryland last week listed some surprisingly senior job t...",
+      "url": "https://www.gamefile.news/p/zenimax-online-studio-head-out",
+      "publishedAt": "2026-07-15T23:41:44Z",
+      "processed_at": "2026-07-17T04:06:55.674685+00:00"
     },
     {
-      "title": "Google releases first Pixel 11 teaser and shows Pixel Glow [Video] - 9to5Google",
+      "title": "Valve says iFixit will keep selling Steam Deck batteries after all - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "Valve and iFixit tell The Verge that they’re getting new stock of the Steam Deck LCD’s replacement b...",
+      "url": "https://www.theverge.com/games/966106/valve-ifixit-will-keep-selling-steam-deck-lcd-battery",
+      "publishedAt": "2026-07-15T22:16:46Z",
+      "processed_at": "2026-07-17T04:06:55.674685+00:00"
+    },
+    {
+      "title": "Xbox Summer Sale 2026 Now Live, 2000+ Games Discounted - Pure Xbox",
+      "source": {
+        "name": "Pure Xbox"
+      },
+      "description": "The Ultimate Game Sale has arrived!...",
+      "url": "https://www.purexbox.com/news/2026/07/xbox-summer-sale-2026-now-live-2000plus-games-discounted",
+      "publishedAt": "2026-07-15T22:14:41Z",
+      "processed_at": "2026-07-17T04:06:55.674685+00:00"
+    },
+    {
+      "title": "Android 17 QPR1 Beta 7 rolling out for Pixel - 9to5Google",
       "source": {
         "name": "9to5google.com"
       },
-      "description": "Following the event announcement last week, Google today released the first Pixel 11 teaser. We are ...",
-      "url": "http://9to5google.com/2026/07/15/pixel-11-first-tease/",
-      "publishedAt": "2026-07-15T17:35:00Z",
-      "processed_at": "2026-07-16T22:11:15.365698+00:00"
-    },
-    {
-      "title": "A DeepMind researcher resigned over its AI military deal: 'I couldn't stay at Google in good conscience' - Business Insider",
-      "source": {
-        "name": "Business Insider"
-      },
-      "description": "Alex Turner, a research scientist at Google DeepMind, said he tried to change Google executives' min...",
-      "url": "https://www.businessinsider.com/google-deepmind-ai-researcher-resign-military-contract-pentagon-2026-7#article",
-      "publishedAt": "2026-07-15T17:25:42Z",
-      "processed_at": "2026-07-16T22:11:15.365698+00:00"
-    },
-    {
-      "title": "Overwatch Is No Longer Updating One Of Its Coolest Modes After Significant Player Drop-Off - Kotaku",
-      "source": {
-        "name": "Kotaku"
-      },
-      "description": "The Stadium mode is one of the best things Blizzard has done with the game, but not enough people ar...",
-      "url": "https://kotaku.com/overwatch-stadium-mode-updates-heroes-builds-blizzard-2000716267",
-      "publishedAt": "2026-07-15T17:15:31Z",
-      "processed_at": "2026-07-16T22:11:15.365698+00:00"
-    },
-    {
-      "title": "Halo's Physical PS5 Disc Won't Play without a Download - Push Square",
-      "source": {
-        "name": "Push Square"
-      },
-      "description": "Campaign devolved...",
-      "url": "https://www.pushsquare.com/news/2026/07/halos-physical-ps5-disc-wont-play-without-a-download1",
-      "publishedAt": "2026-07-15T17:15:00Z",
-      "processed_at": "2026-07-16T22:11:15.365698+00:00"
-    },
-    {
-      "title": "PS Plus Extra Games July 2026: Avatar, Rise Of The Ronin, And Dying Light - Kotaku",
-      "source": {
-        "name": "Kotaku"
-      },
-      "description": "Also Citizen Sleeper 2 is coming to PlayStation Plus' Extra tier...",
-      "url": "https://kotaku.com/two-very-big-open-world-games-and-some-ps2-deep-cuts-join-ps-plus-in-july-2026-2000716262",
-      "publishedAt": "2026-07-15T17:01:48Z",
-      "processed_at": "2026-07-16T22:11:15.365698+00:00"
-    },
-    {
-      "title": "Pokémon Drops Underdog Spin-Off From Its World Championships - Kotaku",
-      "source": {
-        "name": "Kotaku"
-      },
-      "description": "The 2027 World Championships tournament will be a little smaller...",
-      "url": "https://kotaku.com/pokemon-world-championships-2026-2027-unite-worlds-go-2000716258",
-      "publishedAt": "2026-07-15T16:31:01Z",
-      "processed_at": "2026-07-16T22:11:15.365698+00:00"
-    },
-    {
-      "title": "Microsoft patches record number of security vulnerabilities, citing its use of AI - TechCrunch",
-      "source": {
-        "name": "TechCrunch"
-      },
-      "description": "Microsoft's monthly release of security fixes, dubbed Patch Tuesday, resolved a record 570 security ...",
-      "url": "https://techcrunch.com/2026/07/15/microsoft-patches-record-number-of-security-vulnerabilities-citing-its-use-of-ai/",
-      "publishedAt": "2026-07-15T16:20:18Z",
-      "processed_at": "2026-07-16T22:11:15.365698+00:00"
-    },
-    {
-      "title": "Ubuntu 26.04 LTS vs. Windows 11 vs. CachyOS Performance On A $5399 Laptop - Phoronix",
-      "source": {
-        "name": "Phoronix"
-      },
-      "description": "Earlier this month on Phoronix I reviewed the Razer Blade 18 RZ09-0582 as the first laptop Razer is ...",
-      "url": "https://www.phoronix.com/review/razer-blade18-windows-linux",
-      "publishedAt": "2026-07-15T16:15:00Z",
-      "processed_at": "2026-07-16T22:11:15.365698+00:00"
+      "description": "Following the last release two weeks ago, Android 17 QPR1 Beta 7 is rolling out today for Pixel devi...",
+      "url": "http://9to5google.com/2026/07/15/android-17-qpr1-beta-6-pixel-2/",
+      "publishedAt": "2026-07-15T21:29:00Z",
+      "processed_at": "2026-07-17T04:06:55.674685+00:00"
     }
   ],
-  "lastUpdated": "2026-07-16T22:11:15.365783+00:00",
+  "lastUpdated": "2026-07-17T04:06:55.674757+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
