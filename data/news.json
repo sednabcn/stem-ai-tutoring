@@ -1,16 +1,76 @@
 {
   "status": "success",
-  "totalResults": 9,
+  "totalResults": 10,
   "articles": [
     {
-      "title": "The Xbox Ultimate Game Sale 2026 is live — here's the full list - Windows Central",
+      "title": "AC Black Flag Resynced Update 1.04 Available to Download Now - Push Square",
       "source": {
-        "name": "Windows Central"
+        "name": "Push Square"
       },
-      "description": "The sales event is so big that it's making our content management system lag out as I type this. I'v...",
-      "url": "https://www.windowscentral.com/gaming/xbox/the-xbox-ultimate-game-sale-2026-is-live-it-might-be-one-of-microsofts-best-ever-here-are-all-of-the-deals",
-      "publishedAt": "2026-07-16T10:25:48Z",
-      "processed_at": "2026-07-17T13:40:29.766434+00:00"
+      "description": "Get the full patch notes list here...",
+      "url": "https://www.pushsquare.com/news/2026/07/ac-black-flag-resynced-update-1-04-available-to-download-now",
+      "publishedAt": "2026-07-16T14:15:00Z",
+      "processed_at": "2026-07-17T15:14:11.572001+00:00"
+    },
+    {
+      "title": "Dollar Tree installs customer price scanners for a disheartening reason: ‘Never thought I’d see the day’ - New York Post",
+      "source": {
+        "name": "New York Post"
+      },
+      "description": "The tech shocked some shoppers who questioned why a store that was made famous for having items pric...",
+      "url": "https://nypost.com/2026/07/16/lifestyle/dollar-tree-installs-price-scanners-for-surprising-reason/",
+      "publishedAt": "2026-07-16T14:07:00Z",
+      "processed_at": "2026-07-17T15:14:11.572001+00:00"
+    },
+    {
+      "title": "\"It's not that we don't care about PC\" - Former Rockstar developer suggests why GTA 6 is only coming to consoles at launch - Eurogamer.net",
+      "source": {
+        "name": "Eurogamer.net"
+      },
+      "description": "John Ricchio - who worked on the likes of GTA 5 and Red Dead Redemption - has shed some light on GTA...",
+      "url": "https://www.eurogamer.net/gta-6-rockstar-pc-consoles-release",
+      "publishedAt": "2026-07-16T13:11:51Z",
+      "processed_at": "2026-07-17T15:14:11.572001+00:00"
+    },
+    {
+      "title": "AMD Ryzen 7 7700X3D Review - TechPowerUp",
+      "source": {
+        "name": "Techpowerup.com"
+      },
+      "description": "The AMD Ryzen 7 7700X3D delivers fantastic gaming performance thanks to 3D V-Cache. Priced at $330, ...",
+      "url": "https://www.techpowerup.com/review/amd-ryzen-7-7700x3d/",
+      "publishedAt": "2026-07-16T13:10:21Z",
+      "processed_at": "2026-07-17T15:14:11.572001+00:00"
+    },
+    {
+      "title": "Move over, GPS: Navigation satellites in low Earth orbit are making a comeback - Ars Technica",
+      "source": {
+        "name": "Ars Technica"
+      },
+      "description": "Xona aims to deploy 258 satellites into low-Earth orbit as a GPS alternative....",
+      "url": "https://arstechnica.com/space/2026/07/move-over-gps-navigation-satellites-in-low-earth-orbit-are-making-a-comeback/",
+      "publishedAt": "2026-07-16T11:00:21Z",
+      "processed_at": "2026-07-17T15:14:11.572001+00:00"
+    },
+    {
+      "title": "A $399 Smart Ring Aims to Replace the 150-Year-Old Blood Pressure Cuff - Bloomberg.com",
+      "source": {
+        "name": "Bloomberg"
+      },
+      "description": "A three-year-old startup says it has produced a smart ring that can track blood pressure as accurate...",
+      "url": "https://www.bloomberg.com/news/features/2026-07-16/vital-signals-announces-399-signal-ring-that-gives-blood-pressure-readings",
+      "publishedAt": "2026-07-16T11:00:20Z",
+      "processed_at": "2026-07-17T15:14:11.572001+00:00"
+    },
+    {
+      "title": "Xbox Game Pass adds Mavrix by Matt Jones today - TrueAchievements",
+      "source": {
+        "name": "TrueAchievements"
+      },
+      "description": "Xbox Game Pass subscribers have a new sports game to check out, as Mavrix by Matt Jones launches in ...",
+      "url": "https://www.trueachievements.com/news/mavrix-by-matt-jones-xbox-game-pass",
+      "publishedAt": "2026-07-16T09:51:36Z",
+      "processed_at": "2026-07-17T15:14:11.572001+00:00"
     },
     {
       "title": "The privacy problems hidden in your period tracker - BBC",
@@ -20,80 +80,30 @@
       "description": "Some apps are sharing users' health data. New research uncovers which apps lock down your privacy, a...",
       "url": "https://www.bbc.com/future/article/20260715-how-period-trackers-share-womens-private-details",
       "publishedAt": "2026-07-16T09:04:25Z",
-      "processed_at": "2026-07-17T13:40:29.766434+00:00"
+      "processed_at": "2026-07-17T15:14:11.572001+00:00"
     },
     {
-      "title": "OnePlus officially gives up on the US and Europe - The Verge",
+      "title": "OnePlus, the ‘Flagship-Killer’ Smartphone Brand, Is All but Dead - WIRED",
       "source": {
-        "name": "The Verge"
+        "name": "Wired"
       },
-      "description": "OnePlus will no longer sell new hardware in the two markets, and existing devices will transition to...",
-      "url": "https://www.theverge.com/tech/966404/oneplus-oppo-us-europe-withdrawal-realme",
+      "description": "The original OnePlus phone disrupted the mobile market 13 years ago with its affordable price and to...",
+      "url": "https://www.wired.com/story/oneplus-is-all-but-dead/",
       "publishedAt": "2026-07-16T09:00:00Z",
-      "processed_at": "2026-07-17T13:40:29.766434+00:00"
+      "processed_at": "2026-07-17T15:14:11.572001+00:00"
     },
     {
-      "title": "Pre-order page for HTC VIVE Eagle smart glasses reveals release date before it's taken down - PhoneArena",
-      "source": {
-        "name": "PhoneArena"
-      },
-      "description": "HTC's VIVE Eagle smart glasses are coming to the US although a pre-order listing on Amazon was remov...",
-      "url": "https://www.phonearena.com/news/htc-vive-eagle-smart-glasses-pre-order-page-taken-down-by-amazon_id181888",
-      "publishedAt": "2026-07-16T04:00:48Z",
-      "processed_at": "2026-07-17T13:40:29.766434+00:00"
-    },
-    {
-      "title": "Final Fantasy Resonance ‘Pixel’ trailer, latest details and screenshots - Gematsu",
-      "source": {
-        "name": "Gematsu"
-      },
-      "description": "Publisher and developer Square Enix, and developer Lancarse have released a new trailer for Final Fa...",
-      "url": "https://www.gematsu.com/2026/07/final-fantasy-resonance-pixel-trailer-latest-details-and-screenshots",
-      "publishedAt": "2026-07-16T03:11:18Z",
-      "processed_at": "2026-07-17T13:40:29.766434+00:00"
-    },
-    {
-      "title": "Fantasy Tactical RPG Langrisser: Sea of Sword Announced with Debut Trailer - IGN",
-      "source": {
-        "name": "IGN"
-      },
-      "description": "",
-      "url": "https://www.ign.com/articles/fantasy-tactical-rpg-langrisser-sea-of-sword-announced-with-debut-trailer",
-      "publishedAt": "2026-07-16T02:00:00Z",
-      "processed_at": "2026-07-17T13:40:29.766434+00:00"
-    },
-    {
-      "title": "Mario Tennis Fever Free 'Super Mario Galaxy' Update Out Now, Here Are The Full Patch Notes - nintendolife.com",
+      "title": "Final Fantasy Resonance Gets A Stunning New Trailer Ahead Of Switch 1 & 2 Launch - nintendolife.com",
       "source": {
         "name": "Nintendo Life"
       },
-      "description": "Including a new court, GameShare and much more...",
-      "url": "https://www.nintendolife.com/news/2026/07/mario-tennis-fever-free-super-mario-galaxy-update-out-now-here-are-the-full-patch-notes",
-      "publishedAt": "2026-07-16T01:30:00Z",
-      "processed_at": "2026-07-17T13:40:29.766434+00:00"
-    },
-    {
-      "title": "AirPods just got a long-requested feature in new public beta - 9to5Mac",
-      "source": {
-        "name": "9to5Mac"
-      },
-      "description": "A new AirPods public beta just arrived with custom EQ, a long-requested feature. Here's how to insta...",
-      "url": "https://9to5mac.com/2026/07/15/airpods-just-got-a-long-requested-feature-in-new-public-beta/",
-      "publishedAt": "2026-07-16T00:19:00Z",
-      "processed_at": "2026-07-17T13:40:29.766434+00:00"
-    },
-    {
-      "title": "PlayStation’s Summer Sale Includes A Ton Of PS5 Games That Cost $15 Or Less - Kotaku",
-      "source": {
-        "name": "Kotaku"
-      },
-      "description": "A lot of Resident Evil, Mortal Kombat, and Star Wars games are on sale for less than $20...",
-      "url": "https://kotaku.com/playstations-summer-sale-includes-a-ton-of-ps5-games-that-cost-15-or-less-2000716362",
-      "publishedAt": "2026-07-16T00:00:19Z",
-      "processed_at": "2026-07-17T13:40:29.766434+00:00"
+      "description": "The HD-2D RPG adventure unfolds this October...",
+      "url": "https://www.nintendolife.com/news/2026/07/final-fantasy-resonance-gets-a-stunning-new-trailer-ahead-of-switch-1-and-2-launch",
+      "publishedAt": "2026-07-16T05:55:00Z",
+      "processed_at": "2026-07-17T15:14:11.572001+00:00"
     }
   ],
-  "lastUpdated": "2026-07-17T13:40:29.766521+00:00",
+  "lastUpdated": "2026-07-17T15:14:11.572096+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
