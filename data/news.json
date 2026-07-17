@@ -1,7 +1,27 @@
 {
   "status": "success",
-  "totalResults": 10,
+  "totalResults": 9,
   "articles": [
+    {
+      "title": "The Xbox Ultimate Game Sale 2026 is live — here's the full list - Windows Central",
+      "source": {
+        "name": "Windows Central"
+      },
+      "description": "The sales event is so big that it's making our content management system lag out as I type this. I'v...",
+      "url": "https://www.windowscentral.com/gaming/xbox/the-xbox-ultimate-game-sale-2026-is-live-it-might-be-one-of-microsofts-best-ever-here-are-all-of-the-deals",
+      "publishedAt": "2026-07-16T10:25:48Z",
+      "processed_at": "2026-07-17T13:40:29.766434+00:00"
+    },
+    {
+      "title": "The privacy problems hidden in your period tracker - BBC",
+      "source": {
+        "name": "BBC News"
+      },
+      "description": "Some apps are sharing users' health data. New research uncovers which apps lock down your privacy, a...",
+      "url": "https://www.bbc.com/future/article/20260715-how-period-trackers-share-womens-private-details",
+      "publishedAt": "2026-07-16T09:04:25Z",
+      "processed_at": "2026-07-17T13:40:29.766434+00:00"
+    },
     {
       "title": "OnePlus officially gives up on the US and Europe - The Verge",
       "source": {
@@ -10,17 +30,27 @@
       "description": "OnePlus will no longer sell new hardware in the two markets, and existing devices will transition to...",
       "url": "https://www.theverge.com/tech/966404/oneplus-oppo-us-europe-withdrawal-realme",
       "publishedAt": "2026-07-16T09:00:00Z",
-      "processed_at": "2026-07-17T11:26:14.032587+00:00"
+      "processed_at": "2026-07-17T13:40:29.766434+00:00"
     },
     {
-      "title": "Final Fantasy Resonance Gets A Stunning New Trailer Ahead Of Switch 1 & 2 Launch - nintendolife.com",
+      "title": "Pre-order page for HTC VIVE Eagle smart glasses reveals release date before it's taken down - PhoneArena",
       "source": {
-        "name": "Nintendo Life"
+        "name": "PhoneArena"
       },
-      "description": "The HD-2D RPG adventure unfolds this October...",
-      "url": "https://www.nintendolife.com/news/2026/07/final-fantasy-resonance-gets-a-stunning-new-trailer-ahead-of-switch-1-and-2-launch",
-      "publishedAt": "2026-07-16T05:55:00Z",
-      "processed_at": "2026-07-17T11:26:14.032587+00:00"
+      "description": "HTC's VIVE Eagle smart glasses are coming to the US although a pre-order listing on Amazon was remov...",
+      "url": "https://www.phonearena.com/news/htc-vive-eagle-smart-glasses-pre-order-page-taken-down-by-amazon_id181888",
+      "publishedAt": "2026-07-16T04:00:48Z",
+      "processed_at": "2026-07-17T13:40:29.766434+00:00"
+    },
+    {
+      "title": "Final Fantasy Resonance ‘Pixel’ trailer, latest details and screenshots - Gematsu",
+      "source": {
+        "name": "Gematsu"
+      },
+      "description": "Publisher and developer Square Enix, and developer Lancarse have released a new trailer for Final Fa...",
+      "url": "https://www.gematsu.com/2026/07/final-fantasy-resonance-pixel-trailer-latest-details-and-screenshots",
+      "publishedAt": "2026-07-16T03:11:18Z",
+      "processed_at": "2026-07-17T13:40:29.766434+00:00"
     },
     {
       "title": "Fantasy Tactical RPG Langrisser: Sea of Sword Announced with Debut Trailer - IGN",
@@ -30,7 +60,7 @@
       "description": "",
       "url": "https://www.ign.com/articles/fantasy-tactical-rpg-langrisser-sea-of-sword-announced-with-debut-trailer",
       "publishedAt": "2026-07-16T02:00:00Z",
-      "processed_at": "2026-07-17T11:26:14.032587+00:00"
+      "processed_at": "2026-07-17T13:40:29.766434+00:00"
     },
     {
       "title": "Mario Tennis Fever Free 'Super Mario Galaxy' Update Out Now, Here Are The Full Patch Notes - nintendolife.com",
@@ -40,7 +70,7 @@
       "description": "Including a new court, GameShare and much more...",
       "url": "https://www.nintendolife.com/news/2026/07/mario-tennis-fever-free-super-mario-galaxy-update-out-now-here-are-the-full-patch-notes",
       "publishedAt": "2026-07-16T01:30:00Z",
-      "processed_at": "2026-07-17T11:26:14.032587+00:00"
+      "processed_at": "2026-07-17T13:40:29.766434+00:00"
     },
     {
       "title": "AirPods just got a long-requested feature in new public beta - 9to5Mac",
@@ -50,17 +80,7 @@
       "description": "A new AirPods public beta just arrived with custom EQ, a long-requested feature. Here's how to insta...",
       "url": "https://9to5mac.com/2026/07/15/airpods-just-got-a-long-requested-feature-in-new-public-beta/",
       "publishedAt": "2026-07-16T00:19:00Z",
-      "processed_at": "2026-07-17T11:26:14.032587+00:00"
-    },
-    {
-      "title": "Skullcandy’s New Wireless Headphones Have So Much Bose in Them - Gizmodo",
-      "source": {
-        "name": "Gizmodo.com"
-      },
-      "description": "There are three technologies in the Crusher 1080 ANC that have never been in a non-Bose pair of wire...",
-      "url": "https://gizmodo.com/skullcandys-new-wireless-headphones-have-so-much-bose-in-them-2000785885",
-      "publishedAt": "2026-07-16T00:00:35Z",
-      "processed_at": "2026-07-17T11:26:14.032587+00:00"
+      "processed_at": "2026-07-17T13:40:29.766434+00:00"
     },
     {
       "title": "PlayStation’s Summer Sale Includes A Ton Of PS5 Games That Cost $15 Or Less - Kotaku",
@@ -70,40 +90,10 @@
       "description": "A lot of Resident Evil, Mortal Kombat, and Star Wars games are on sale for less than $20...",
       "url": "https://kotaku.com/playstations-summer-sale-includes-a-ton-of-ps5-games-that-cost-15-or-less-2000716362",
       "publishedAt": "2026-07-16T00:00:19Z",
-      "processed_at": "2026-07-17T11:26:14.032587+00:00"
-    },
-    {
-      "title": "ZeniMax Online Studios leadership to exit as part of Xbox cuts - Game File | Stephen Totilo",
-      "source": {
-        "name": "Gamefile.news"
-      },
-      "description": "A rundown of 379 gaming roles eliminated in Maryland last week listed some surprisingly senior job t...",
-      "url": "https://www.gamefile.news/p/zenimax-online-studio-head-out",
-      "publishedAt": "2026-07-15T23:41:44Z",
-      "processed_at": "2026-07-17T11:26:14.032587+00:00"
-    },
-    {
-      "title": "Google is opening the floodgates to third-party app stores on Android next week - 9to5Google",
-      "source": {
-        "name": "9to5google.com"
-      },
-      "description": "The final sticking point in the long-running Google vs Epic Games lawsuit is coming to an end, as Go...",
-      "url": "http://9to5google.com/2026/07/15/google-play-store-third-party-android-app-store-changes-july/",
-      "publishedAt": "2026-07-15T23:15:00Z",
-      "processed_at": "2026-07-17T11:26:14.032587+00:00"
-    },
-    {
-      "title": "Apple Closes Unlocked iPhone Loophole for T-Mobile and Verizon Financing - MacRumors",
-      "source": {
-        "name": "MacRumors"
-      },
-      "description": "Carrier-financed iPhones purchased from Apple will soon be locked to the carrier, ending a workaroun...",
-      "url": "https://www.macrumors.com/2026/07/15/apple-carrier-iphone-financing/",
-      "publishedAt": "2026-07-15T22:20:29Z",
-      "processed_at": "2026-07-17T11:26:14.032587+00:00"
+      "processed_at": "2026-07-17T13:40:29.766434+00:00"
     }
   ],
-  "lastUpdated": "2026-07-17T11:26:14.032672+00:00",
+  "lastUpdated": "2026-07-17T13:40:29.766521+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
