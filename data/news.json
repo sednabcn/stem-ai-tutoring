@@ -3,6 +3,36 @@
   "totalResults": 10,
   "articles": [
     {
+      "title": "Google Gemini Launch Delayed as Tech Falls Short of Internal Goals - Bloomberg.com",
+      "source": {
+        "name": "Bloomberg"
+      },
+      "description": "Alphabet Inc.’s Google is months behind schedule on delivering Gemini 3.5 Pro, its most powerful fla...",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-16/google-gemini-launch-delayed-as-tech-falls-short-of-internal-goals",
+      "publishedAt": "2026-07-16T18:07:15Z",
+      "processed_at": "2026-07-17T20:56:43.159242+00:00"
+    },
+    {
+      "title": "Google continues its renaming streak by turning NotebookLM to Gemini Notebook - TechCrunch",
+      "source": {
+        "name": "TechCrunch"
+      },
+      "description": "Google said users can soon access their notebooks through AI Mode in Search....",
+      "url": "https://techcrunch.com/2026/07/16/google-continues-its-renaming-streak-by-turning-notebooklm-to-gemini-notebook/",
+      "publishedAt": "2026-07-16T16:00:00Z",
+      "processed_at": "2026-07-17T20:56:43.159242+00:00"
+    },
+    {
+      "title": "Apple’s OLED iPad Mini upgrade is on the way as prices continue to rise - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "Apple is reportedly planning to upgrade the iPad Mini with an OLED display later this year, but it w...",
+      "url": "https://www.theverge.com/tech/966535/apple-oled-ipad-mini-rumor",
+      "publishedAt": "2026-07-16T15:04:12Z",
+      "processed_at": "2026-07-17T20:56:43.159242+00:00"
+    },
+    {
       "title": "Hone your skills with the Warhammer Academy - Warhammer Community",
       "source": {
         "name": "Warhammer-community.com"
@@ -10,7 +40,27 @@
       "description": "The ultimate online beginner’s resource, for free....",
       "url": "https://www.warhammer-community.com/articles/htyubijb/hone-your-skills-with-the-warhammer-academy",
       "publishedAt": "2026-07-16T14:58:05Z",
-      "processed_at": "2026-07-17T17:13:15.620089+00:00"
+      "processed_at": "2026-07-17T20:56:43.159242+00:00"
+    },
+    {
+      "title": "EA Is Salivating At The Prospect Of Loading Games Up With Ads - Kotaku",
+      "source": {
+        "name": "Kotaku"
+      },
+      "description": "The last un-monetized frontier of gaming: virtual billboards...",
+      "url": "https://kotaku.com/ea-vp-urges-companies-to-think-about-in-game-ads-during-development-thats-a-huge-opportunity-2000716639",
+      "publishedAt": "2026-07-16T14:30:56Z",
+      "processed_at": "2026-07-17T20:56:43.159242+00:00"
+    },
+    {
+      "title": "AC Black Flag Resynced Update 1.04 Available to Download Now - Push Square",
+      "source": {
+        "name": "Push Square"
+      },
+      "description": "Get the full patch notes list here...",
+      "url": "https://www.pushsquare.com/news/2026/07/ac-black-flag-resynced-update-1-04-available-to-download-now",
+      "publishedAt": "2026-07-16T14:15:00Z",
+      "processed_at": "2026-07-17T20:56:43.159242+00:00"
     },
     {
       "title": "Sony’s Crunchyroll Has Put Its Merchandise Store Behind Paywall - Forbes",
@@ -20,90 +70,40 @@
       "description": "Crunchyroll, has announced that subscribers will need to be in its “Mega” or “Ultimate” fan tiers in...",
       "url": "https://www.forbes.com/sites/paultassi/2026/07/16/sonys-crunchyroll-has-put-its-merchandise-store-behind-paywall/",
       "publishedAt": "2026-07-16T14:09:05Z",
-      "processed_at": "2026-07-17T17:13:15.620089+00:00"
+      "processed_at": "2026-07-17T20:56:43.159242+00:00"
     },
     {
-      "title": "PlayStation Plus Game Catalog and Classics Catalog lineup for July 2026 announced - Gematsu",
+      "title": "Dollar Tree installs customer price scanners for a disheartening reason: ‘Never thought I’d see the day’ - New York Post",
       "source": {
-        "name": "Gematsu"
+        "name": "New York Post"
       },
-      "description": "Sony Interactive Entertainment has announced the July 2026 Game Catalog lineup for PlayStation Plus ...",
-      "url": "https://www.gematsu.com/2026/07/playstation-plus-game-catalog-and-classics-catalog-lineup-for-july-2026-announced",
-      "publishedAt": "2026-07-16T13:42:39Z",
-      "processed_at": "2026-07-17T17:13:15.620089+00:00"
+      "description": "The tech shocked some shoppers who questioned why a store that was made famous for having items pric...",
+      "url": "https://nypost.com/2026/07/16/lifestyle/dollar-tree-installs-price-scanners-for-surprising-reason/",
+      "publishedAt": "2026-07-16T14:07:00Z",
+      "processed_at": "2026-07-17T20:56:43.159242+00:00"
     },
     {
-      "title": "Samsung’s Galaxy Z Flip 8 leaks a week before launch event - The Verge",
+      "title": "Upcoming Souls-Like So Popular It Sells Out Of PS5 Preorders - GameSpot",
       "source": {
-        "name": "The Verge"
+        "name": "GameSpot"
       },
-      "description": "The upcoming Galaxy Z Flip 8 might be nearly identical to last year’s Galaxy Z Flip 7, based on spec...",
-      "url": "https://www.theverge.com/tech/966492/samsung-galaxy-z-flip-8-design-specs-leaked",
-      "publishedAt": "2026-07-16T13:23:50Z",
-      "processed_at": "2026-07-17T17:13:15.620089+00:00"
+      "description": "You're SOL for now if you were hoping to get the $70 physical copy of Mortal Shell 2's Revered Editi...",
+      "url": "https://www.gamespot.com/articles/upcoming-souls-like-so-popular-it-sells-out-of-ps5-preorders/",
+      "publishedAt": "2026-07-16T13:54:22Z",
+      "processed_at": "2026-07-17T20:56:43.159242+00:00"
     },
     {
-      "title": "Apple Readies OLED iPad Mini, With Low-End and Air Updates Coming in 2027 - Bloomberg.com",
+      "title": "OnePlus will continue software updates, all devices move to ColorOS with Android 17 - 9to5Google",
       "source": {
-        "name": "Bloomberg"
+        "name": "9to5google.com"
       },
-      "description": "Apple Inc. is preparing to introduce its biggest overhaul to the iPad mini in half a decade, giving ...",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-16/apple-nears-launch-of-oled-ipad-mini-new-ipad-air-and-base-ipad-in-2027",
-      "publishedAt": "2026-07-16T13:22:13Z",
-      "processed_at": "2026-07-17T17:13:15.620089+00:00"
-    },
-    {
-      "title": "GTA 6 has ‘the strongest pre-order campaign on record’, is on track to sell 37-51 million in week one, analytics firm says - Video Games Chronicle",
-      "source": {
-        "name": "Video Games Chronicle"
-      },
-      "description": "Newzoo estimates around $260 million was spent during the first week of pre-orders...",
-      "url": "https://www.videogameschronicle.com/news/analytics-firm-says-gta-6-has-the-strongest-pre-order-campaign-on-record-is-on-track-to-sell-37-51-million-in-its-first-week/",
-      "publishedAt": "2026-07-16T13:10:45Z",
-      "processed_at": "2026-07-17T17:13:15.620089+00:00"
-    },
-    {
-      "title": "AMD Ryzen 7 7700X3D Review - TechPowerUp",
-      "source": {
-        "name": "Techpowerup.com"
-      },
-      "description": "The AMD Ryzen 7 7700X3D delivers fantastic gaming performance thanks to 3D V-Cache. Priced at $330, ...",
-      "url": "https://www.techpowerup.com/review/amd-ryzen-7-7700x3d/",
-      "publishedAt": "2026-07-16T13:10:21Z",
-      "processed_at": "2026-07-17T17:13:15.620089+00:00"
-    },
-    {
-      "title": "Famitsu sales (7/6/26 - 7/12/26) - first week sales revealed for Digimon Story: Time Stranger, Granblue Fantasy on Nintendo Switch 2 - Nintendo Everything",
-      "source": {
-        "name": "Nintendoeverything.com"
-      },
-      "description": "The latest Japanese hardware sales from Famitsu are as follows: Switch 2 – 28,755 PS5 Digital Editio...",
-      "url": "https://nintendoeverything.com/famitsu-sales-7-6-26-7-12-26-first-week-sales-revealed-for-digimon-story-time-stranger-granblue-fantasy-on-nintendo-switch-2/",
-      "publishedAt": "2026-07-16T13:07:14Z",
-      "processed_at": "2026-07-17T17:13:15.620089+00:00"
-    },
-    {
-      "title": "Prinny Party: Going Overboard! launches November 12 in Japan and Asia, coming west - Gematsu",
-      "source": {
-        "name": "Gematsu"
-      },
-      "description": "Nippon Ichi Software has officially announced four-player party game Prinny Party: Going Overboard! ...",
-      "url": "https://www.gematsu.com/2026/07/prinny-party-going-overboard-launches-november-12-in-japan-and-asia-coming-west",
-      "publishedAt": "2026-07-16T13:00:13Z",
-      "processed_at": "2026-07-17T17:13:15.620089+00:00"
-    },
-    {
-      "title": "Deals: All 150+ Backwards Compatible Games In The Xbox Summer Sale 2026 - Pure Xbox",
-      "source": {
-        "name": "Pure Xbox"
-      },
-      "description": "Original Xbox and Xbox 360 classics...",
-      "url": "https://www.purexbox.com/news/2026/07/deals-all-150plus-backwards-compatible-games-in-the-xbox-summer-sale-2026",
-      "publishedAt": "2026-07-16T12:30:00Z",
-      "processed_at": "2026-07-17T17:13:15.620089+00:00"
+      "description": "While OnePlus will continue software updates, the brand's OxygenOS is fully going away with devices ...",
+      "url": "http://9to5google.com/2026/07/16/oneplus-software-updates-android-17-coloros/",
+      "publishedAt": "2026-07-16T13:45:00Z",
+      "processed_at": "2026-07-17T20:56:43.159242+00:00"
     }
   ],
-  "lastUpdated": "2026-07-17T17:13:15.620169+00:00",
+  "lastUpdated": "2026-07-17T20:56:43.159316+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
