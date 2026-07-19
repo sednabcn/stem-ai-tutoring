@@ -3,14 +3,44 @@
   "totalResults": 10,
   "articles": [
     {
-      "title": "Apple Increases Prices For Apple Music & Apple One Over \"Rising Licensing Costs\" - Deadline",
+      "title": "Apple raises iCloud+ subscription prices in several countries - 9to5Mac",
       "source": {
-        "name": "Deadline"
+        "name": "9to5Mac"
       },
-      "description": "Apple is raising prices for its music streaming service, Apple Music, for subscribers in the U.S. an...",
-      "url": "http://deadline.com/2026/07/apple-increases-prices-music-one-subscriptions-1236997295/",
-      "publishedAt": "2026-07-17T22:52:00Z",
-      "processed_at": "2026-07-19T08:21:06.336913+00:00"
+      "description": "Following recent hardware and services price increases, Apple has now raised iCloud+ prices in sever...",
+      "url": "https://9to5mac.com/2026/07/17/apple-raises-icloud-subscription-prices-in-several-countries/",
+      "publishedAt": "2026-07-18T04:35:00Z",
+      "processed_at": "2026-07-19T10:35:17.661392+00:00"
+    },
+    {
+      "title": "Vertu wants executives to pay $6,880 for an AI agent — here’s how it actually performs - TechCrunch",
+      "source": {
+        "name": "TechCrunch"
+      },
+      "description": "From AI workflows to battery life and security, here's what it's really like to live with Vertu's lu...",
+      "url": "https://techcrunch.com/2026/07/17/vertu-wants-executives-to-pay-6880-for-an-ai-agent-heres-how-it-actually-performs/",
+      "publishedAt": "2026-07-17T22:55:09Z",
+      "processed_at": "2026-07-19T10:35:17.661392+00:00"
+    },
+    {
+      "title": "Steam Proves an All-Digital Future (Mostly) Works - IGN",
+      "source": {
+        "name": "IGN"
+      },
+      "description": "PC gaming has been all-digital for years, but while Steam proves it can work, PlayStation owners sho...",
+      "url": "https://www.ign.com/articles/should-we-fear-consoles-going-all-digital-or-does-the-pc-status-quo-prove-it-works",
+      "publishedAt": "2026-07-17T22:28:14Z",
+      "processed_at": "2026-07-19T10:35:17.661392+00:00"
+    },
+    {
+      "title": "Battlefield 6 Top Gun Crossover Features Maverick Stars Miles Teller, Lewis Pullman, and Charles Parnell - IGN",
+      "source": {
+        "name": "IGN"
+      },
+      "description": "EA and Battlefield Studios have revealed a full roadmap for Battlefield 6 Season 4 alongside additio...",
+      "url": "https://www.ign.com/articles/battlefield-6-to-get-top-gun-crossover-in-august",
+      "publishedAt": "2026-07-17T21:38:11Z",
+      "processed_at": "2026-07-19T10:35:17.661392+00:00"
     },
     {
       "title": "The Zoom hack that says, ‘Don’t record me’ - TechCrunch",
@@ -20,17 +50,7 @@
       "description": "If every meeting, watercooler conversation, and date gets transcribed and summarized, who's actually...",
       "url": "https://techcrunch.com/2026/07/17/the-zoom-hack-that-says-dont-record-me/",
       "publishedAt": "2026-07-17T21:20:47Z",
-      "processed_at": "2026-07-19T08:21:06.336913+00:00"
-    },
-    {
-      "title": "New wp2shell WordPress Core Flaw Lets Unauthenticated Attackers Run Code - The Hacker News",
-      "source": {
-        "name": "Internet"
-      },
-      "description": "WordPress 6.9.5 and 7.0.2 patch wp2shell, a pre-auth core RCE that lets anonymous attackers run code...",
-      "url": "https://thehackernews.com/2026/07/new-wp2shell-wordpress-core-flaw-lets.html",
-      "publishedAt": "2026-07-17T21:20:00Z",
-      "processed_at": "2026-07-19T08:21:06.336913+00:00"
+      "processed_at": "2026-07-19T10:35:17.661392+00:00"
     },
     {
       "title": "Why I Don't Recommend the Steam Deck Anymore - IGN",
@@ -40,7 +60,7 @@
       "description": "Ever since the Steam Deck debuted in 2022, it's been one of my favorite devices. It was relatively a...",
       "url": "https://www.ign.com/articles/why-i-dont-recommend-the-steam-deck-anymore",
       "publishedAt": "2026-07-17T21:19:29Z",
-      "processed_at": "2026-07-19T08:21:06.336913+00:00"
+      "processed_at": "2026-07-19T10:35:17.661392+00:00"
     },
     {
       "title": "Obviously, Bethesda Is Remastering ‘Fallout: New Vegas’ and ‘Fallout 3’ - Gizmodo",
@@ -50,7 +70,27 @@
       "description": "The remasters have been an extremely poorly kept secret for months, but now, they're official....",
       "url": "https://gizmodo.com/obviously-bethesda-is-remastering-fallout-new-vegas-and-fallout-3-2000787259",
       "publishedAt": "2026-07-17T21:00:27Z",
-      "processed_at": "2026-07-19T08:21:06.336913+00:00"
+      "processed_at": "2026-07-19T10:35:17.661392+00:00"
+    },
+    {
+      "title": "Shark’s versatile ChillPill cooling system is back to its best price - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "Shark’s ChillPill Personal Fan and Cooling System is $99.99 ($30 off). The versatile cooling gadget ...",
+      "url": "https://www.theverge.com/gadgets/967512/shark-chillpill-personal-fan-and-cooling-system-deal-sale",
+      "publishedAt": "2026-07-17T20:15:54Z",
+      "processed_at": "2026-07-19T10:35:17.661392+00:00"
+    },
+    {
+      "title": "Apple and Google ordered to purge ‘nudify’ apps from App Stores - TechCrunch",
+      "source": {
+        "name": "TechCrunch"
+      },
+      "description": "In letters sent to Apple and Google, San Francisco City Attorney David Chiu said that both companies...",
+      "url": "https://techcrunch.com/2026/07/17/apple-and-google-ordered-to-purge-nudify-apps-from-app-stores/",
+      "publishedAt": "2026-07-17T19:49:53Z",
+      "processed_at": "2026-07-19T10:35:17.661392+00:00"
     },
     {
       "title": "Big Shake-Up on Sony's Struggling Live Service as Marathon's Game Director Departs - Push Square",
@@ -60,50 +100,10 @@
       "description": "Bungie woes go on...",
       "url": "https://www.pushsquare.com/news/2026/07/big-shake-up-on-sonys-struggling-live-service-as-marathons-game-director-departs",
       "publishedAt": "2026-07-17T19:45:00Z",
-      "processed_at": "2026-07-19T08:21:06.336913+00:00"
-    },
-    {
-      "title": "San Francisco demands Google and Apple remove 'nudify' apps from their stores - Yahoo Tech",
-      "source": {
-        "name": "Yahoo Entertainment"
-      },
-      "description": "The San Francisco city attorney has sent cease-and-desist letters to Apple and Google, demanding the...",
-      "url": "https://tech.yahoo.com/apps/article/san-francisco-demands-google-and-apple-remove-nudify-apps-from-their-stores-192154957.html",
-      "publishedAt": "2026-07-17T19:21:54Z",
-      "processed_at": "2026-07-19T08:21:06.336913+00:00"
-    },
-    {
-      "title": "Zelda: Ocarina Of Time Remake Price And Pre-Order Rumors Swirl - Kotaku",
-      "source": {
-        "name": "Kotaku"
-      },
-      "description": "Also: that mobile version of Final Fantasy 14 has been canceled...",
-      "url": "https://kotaku.com/fans-are-desperate-for-a-zelda-ocarina-of-time-remake-nintendo-direct-as-price-and-pre-order-rumors-swirl-2000717069",
-      "publishedAt": "2026-07-17T18:45:39Z",
-      "processed_at": "2026-07-19T08:21:06.336913+00:00"
-    },
-    {
-      "title": "Disco Elysium Studio Says Game About People Forced Into Impossible Situations Didn't Sell Well Enough To Prevent Layoffs - Kotaku",
-      "source": {
-        "name": "Kotaku"
-      },
-      "description": "In a post on social media, ZA/UM wrote that it would lay off 32 developers two months after releasin...",
-      "url": "https://kotaku.com/disco-elysium-studio-says-game-about-people-forced-into-impossible-situations-didnt-sell-well-enough-to-prevent-layoffs-2000717249",
-      "publishedAt": "2026-07-17T18:02:19Z",
-      "processed_at": "2026-07-19T08:21:06.336913+00:00"
-    },
-    {
-      "title": "OpenAI tweaks chat access in the ChatGPT app for Mac - 9to5Mac",
-      "source": {
-        "name": "9to5Mac"
-      },
-      "description": "OpenAI has updated its recently redesigned ChatGPT app for Mac to make chats easier to access once a...",
-      "url": "https://9to5mac.com/2026/07/17/openai-fixes-chat-access-in-the-chatgpt-app-for-mac/",
-      "publishedAt": "2026-07-17T18:01:00Z",
-      "processed_at": "2026-07-19T08:21:06.336913+00:00"
+      "processed_at": "2026-07-19T10:35:17.661392+00:00"
     }
   ],
-  "lastUpdated": "2026-07-19T08:21:06.337023+00:00",
+  "lastUpdated": "2026-07-19T10:35:17.661481+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
