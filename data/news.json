@@ -10,7 +10,7 @@
       "description": "Apple is raising prices for its music streaming service, Apple Music, for subscribers in the U.S. an...",
       "url": "http://deadline.com/2026/07/apple-increases-prices-music-one-subscriptions-1236997295/",
       "publishedAt": "2026-07-17T22:52:00Z",
-      "processed_at": "2026-07-19T05:54:42.766933+00:00"
+      "processed_at": "2026-07-19T08:21:06.336913+00:00"
     },
     {
       "title": "The Zoom hack that says, ‘Don’t record me’ - TechCrunch",
@@ -20,7 +20,7 @@
       "description": "If every meeting, watercooler conversation, and date gets transcribed and summarized, who's actually...",
       "url": "https://techcrunch.com/2026/07/17/the-zoom-hack-that-says-dont-record-me/",
       "publishedAt": "2026-07-17T21:20:47Z",
-      "processed_at": "2026-07-19T05:54:42.766933+00:00"
+      "processed_at": "2026-07-19T08:21:06.336913+00:00"
     },
     {
       "title": "New wp2shell WordPress Core Flaw Lets Unauthenticated Attackers Run Code - The Hacker News",
@@ -30,17 +30,27 @@
       "description": "WordPress 6.9.5 and 7.0.2 patch wp2shell, a pre-auth core RCE that lets anonymous attackers run code...",
       "url": "https://thehackernews.com/2026/07/new-wp2shell-wordpress-core-flaw-lets.html",
       "publishedAt": "2026-07-17T21:20:00Z",
-      "processed_at": "2026-07-19T05:54:42.766933+00:00"
+      "processed_at": "2026-07-19T08:21:06.336913+00:00"
     },
     {
-      "title": "Apple and Google ordered to purge ‘nudify’ apps from App Stores - TechCrunch",
+      "title": "Why I Don't Recommend the Steam Deck Anymore - IGN",
       "source": {
-        "name": "TechCrunch"
+        "name": "IGN"
       },
-      "description": "In letters sent to Apple and Google, San Francisco City Attorney David Chiu said that both companies...",
-      "url": "https://techcrunch.com/2026/07/17/apple-and-google-ordered-to-purge-nudify-apps-from-app-stores/",
-      "publishedAt": "2026-07-17T19:49:53Z",
-      "processed_at": "2026-07-19T05:54:42.766933+00:00"
+      "description": "Ever since the Steam Deck debuted in 2022, it's been one of my favorite devices. It was relatively a...",
+      "url": "https://www.ign.com/articles/why-i-dont-recommend-the-steam-deck-anymore",
+      "publishedAt": "2026-07-17T21:19:29Z",
+      "processed_at": "2026-07-19T08:21:06.336913+00:00"
+    },
+    {
+      "title": "Obviously, Bethesda Is Remastering ‘Fallout: New Vegas’ and ‘Fallout 3’ - Gizmodo",
+      "source": {
+        "name": "Gizmodo.com"
+      },
+      "description": "The remasters have been an extremely poorly kept secret for months, but now, they're official....",
+      "url": "https://gizmodo.com/obviously-bethesda-is-remastering-fallout-new-vegas-and-fallout-3-2000787259",
+      "publishedAt": "2026-07-17T21:00:27Z",
+      "processed_at": "2026-07-19T08:21:06.336913+00:00"
     },
     {
       "title": "Big Shake-Up on Sony's Struggling Live Service as Marathon's Game Director Departs - Push Square",
@@ -50,7 +60,17 @@
       "description": "Bungie woes go on...",
       "url": "https://www.pushsquare.com/news/2026/07/big-shake-up-on-sonys-struggling-live-service-as-marathons-game-director-departs",
       "publishedAt": "2026-07-17T19:45:00Z",
-      "processed_at": "2026-07-19T05:54:42.766933+00:00"
+      "processed_at": "2026-07-19T08:21:06.336913+00:00"
+    },
+    {
+      "title": "San Francisco demands Google and Apple remove 'nudify' apps from their stores - Yahoo Tech",
+      "source": {
+        "name": "Yahoo Entertainment"
+      },
+      "description": "The San Francisco city attorney has sent cease-and-desist letters to Apple and Google, demanding the...",
+      "url": "https://tech.yahoo.com/apps/article/san-francisco-demands-google-and-apple-remove-nudify-apps-from-their-stores-192154957.html",
+      "publishedAt": "2026-07-17T19:21:54Z",
+      "processed_at": "2026-07-19T08:21:06.336913+00:00"
     },
     {
       "title": "Zelda: Ocarina Of Time Remake Price And Pre-Order Rumors Swirl - Kotaku",
@@ -60,7 +80,7 @@
       "description": "Also: that mobile version of Final Fantasy 14 has been canceled...",
       "url": "https://kotaku.com/fans-are-desperate-for-a-zelda-ocarina-of-time-remake-nintendo-direct-as-price-and-pre-order-rumors-swirl-2000717069",
       "publishedAt": "2026-07-17T18:45:39Z",
-      "processed_at": "2026-07-19T05:54:42.766933+00:00"
+      "processed_at": "2026-07-19T08:21:06.336913+00:00"
     },
     {
       "title": "Disco Elysium Studio Says Game About People Forced Into Impossible Situations Didn't Sell Well Enough To Prevent Layoffs - Kotaku",
@@ -70,40 +90,20 @@
       "description": "In a post on social media, ZA/UM wrote that it would lay off 32 developers two months after releasin...",
       "url": "https://kotaku.com/disco-elysium-studio-says-game-about-people-forced-into-impossible-situations-didnt-sell-well-enough-to-prevent-layoffs-2000717249",
       "publishedAt": "2026-07-17T18:02:19Z",
-      "processed_at": "2026-07-19T05:54:42.766933+00:00"
+      "processed_at": "2026-07-19T08:21:06.336913+00:00"
     },
     {
-      "title": "iPhone 18 Pro Launching in Two Months With These 12 New Features - MacRumors",
+      "title": "OpenAI tweaks chat access in the ChatGPT app for Mac - 9to5Mac",
       "source": {
-        "name": "MacRumors"
+        "name": "9to5Mac"
       },
-      "description": "It is now mid-July, and that means the iPhone 18 Pro and iPhone 18 Pro Max are now just two months a...",
-      "url": "https://www.macrumors.com/2026/07/17/iphone-18-pro-12-rumored-features/",
-      "publishedAt": "2026-07-17T17:39:18Z",
-      "processed_at": "2026-07-19T05:54:42.766933+00:00"
-    },
-    {
-      "title": "The new MoonSwatch is expected to go fast. How to get one - USA Today",
-      "source": {
-        "name": "USA Today"
-      },
-      "description": "Swatch said only a certain number of people will be approved to purchase the limited-edition watch. ...",
-      "url": "https://www.usatoday.com/story/money/2026/07/17/swatch-omega-gold-moonswatch/90954418007/",
-      "publishedAt": "2026-07-17T17:33:00Z",
-      "processed_at": "2026-07-19T05:54:42.766933+00:00"
-    },
-    {
-      "title": "If You Own One Of These Routers, You're At Risk - And There May Never Be A Fix - SlashGear",
-      "source": {
-        "name": "SlashGear"
-      },
-      "description": "If you own an older Tenda router, your home network could be at risk. Learn which models are vulnera...",
-      "url": "https://www.slashgear.com/2215484/wi-fi-router-security-risk-tenda-backdoor/",
-      "publishedAt": "2026-07-17T16:45:00Z",
-      "processed_at": "2026-07-19T05:54:42.766933+00:00"
+      "description": "OpenAI has updated its recently redesigned ChatGPT app for Mac to make chats easier to access once a...",
+      "url": "https://9to5mac.com/2026/07/17/openai-fixes-chat-access-in-the-chatgpt-app-for-mac/",
+      "publishedAt": "2026-07-17T18:01:00Z",
+      "processed_at": "2026-07-19T08:21:06.336913+00:00"
     }
   ],
-  "lastUpdated": "2026-07-19T05:54:42.767007+00:00",
+  "lastUpdated": "2026-07-19T08:21:06.337023+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
