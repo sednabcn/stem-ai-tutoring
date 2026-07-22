@@ -1,7 +1,27 @@
 {
   "status": "success",
-  "totalResults": 10,
+  "totalResults": 9,
   "articles": [
+    {
+      "title": "Sales Data Paints a Very Grim Picture for Physical PS5 Games in the USA, UK - Push Square",
+      "source": {
+        "name": "Push Square"
+      },
+      "description": "Just 7 PS5 games sell over 100k boxed copies...",
+      "url": "https://www.pushsquare.com/news/2026/07/sales-data-paints-a-very-grim-picture-for-physical-ps5-games-in-the-usa-uk",
+      "publishedAt": "2026-07-21T09:30:00Z",
+      "processed_at": "2026-07-22T11:47:56.500182+00:00"
+    },
+    {
+      "title": "Former Left 4 Dead Writer Pans PlayStation Backlash Over Physical Media - TechPowerUp",
+      "source": {
+        "name": "Techpowerup.com"
+      },
+      "description": "Unsurprisingly, there has been more than a little backlash following Sony's recent decision to end t...",
+      "url": "https://www.techpowerup.com/350907/former-left-4-dead-writer-pans-playstation-backlash-over-physical-media",
+      "publishedAt": "2026-07-21T03:32:45Z",
+      "processed_at": "2026-07-22T11:47:56.500182+00:00"
+    },
     {
       "title": "The New Mercedes-Maybach GLS Debuts With More Power, Better Style - Motor1.com",
       "source": {
@@ -10,17 +30,17 @@
       "description": "Mercedes-Benz has unveiled the 2027 Maybach GLS 680, which now has a more powerful twin-turbocharged...",
       "url": "https://www.motor1.com/news/802238/2027-mercedes-maybach-gls-680-engine-specs-details/",
       "publishedAt": "2026-07-21T03:00:23Z",
-      "processed_at": "2026-07-22T09:26:43.398287+00:00"
+      "processed_at": "2026-07-22T11:47:56.500182+00:00"
     },
     {
       "title": "Donkey Kong Arcade LEGO Set Official Images Surface, Already In-Store - nintendolife.com",
       "source": {
         "name": "Nintendo Life"
       },
-      "description": "",
-      "url": "http://www.nintendolife.com/news/2026/07/donkey-kong-arcade-lego-set-official-images-surface-already-in-store",
+      "description": "Announcement incoming......",
+      "url": "https://www.nintendolife.com/news/2026/07/donkey-kong-arcade-lego-set-official-images-surface-already-in-store",
       "publishedAt": "2026-07-21T02:45:00Z",
-      "processed_at": "2026-07-22T09:26:43.398287+00:00"
+      "processed_at": "2026-07-22T11:47:56.500182+00:00"
     },
     {
       "title": "iOS 27 beta 4 adds a useful Apple TV app feature, here’s how it works - 9to5Mac",
@@ -30,7 +50,27 @@
       "description": "Apple released iOS 27 beta 4 today, and it comes with a useful new “Automatic Downloads” feature in ...",
       "url": "https://9to5mac.com/2026/07/20/ios-27-beta-4-adds-a-useful-apple-tv-app-feature-heres-how-it-works/",
       "publishedAt": "2026-07-21T00:25:00Z",
-      "processed_at": "2026-07-22T09:26:43.398287+00:00"
+      "processed_at": "2026-07-22T11:47:56.500182+00:00"
+    },
+    {
+      "title": "Kingdom Hearts Missing-Link Leak Has Fans Wishing Square Enix Hadn't Canceled Its Mobile Spinoff - IGN",
+      "source": {
+        "name": "IGN"
+      },
+      "description": "What appears to be nearly finished footage of the intro for canceled mobile game Kingdom Hearts Miss...",
+      "url": "https://www.ign.com/articles/kingdom-hearts-missing-link-leak-has-fans-wishing-square-enix-hadnt-canceled-its-mobile-spinoff",
+      "publishedAt": "2026-07-20T23:43:49Z",
+      "processed_at": "2026-07-22T11:47:56.500182+00:00"
+    },
+    {
+      "title": "Colossal Biosciences reportedly in talks to raise new capital at $20B–$30B valuation - TechCrunch",
+      "source": {
+        "name": "TechCrunch"
+      },
+      "description": "The de-extinction startup is looking to double or triple its previous valuation, according to the re...",
+      "url": "https://techcrunch.com/2026/07/20/colossal-biosciences-reportedly-in-talks-to-raise-new-capital-at-20b-30b-valuation/",
+      "publishedAt": "2026-07-20T23:39:35Z",
+      "processed_at": "2026-07-22T11:47:56.500182+00:00"
     },
     {
       "title": "A $33,700 Tiny Home That Finally Gets the Floor Plan Right - Yanko Design",
@@ -40,7 +80,7 @@
       "description": "The tiny home movement has been having its moment for years now, and yet every time I think it has p...",
       "url": "https://www.yankodesign.com/2026/07/20/a-33700-tiny-home-that-finally-gets-the-floor-plan-right/",
       "publishedAt": "2026-07-20T23:30:31Z",
-      "processed_at": "2026-07-22T09:26:43.398287+00:00"
+      "processed_at": "2026-07-22T11:47:56.500182+00:00"
     },
     {
       "title": "Fallout New Vegas Director: RPGs Can't Let Players Control Everything - Kotaku",
@@ -50,60 +90,10 @@
       "description": "Josh Sawyer doesn't want to let players fight all their problems and solve everything...",
       "url": "https://kotaku.com/reported-director-of-obsidians-upcoming-fallout-game-says-rpgs-are-at-their-best-when-you-cant-control-everything-2000717793",
       "publishedAt": "2026-07-20T22:46:19Z",
-      "processed_at": "2026-07-22T09:26:43.398287+00:00"
-    },
-    {
-      "title": "Bethesda Reveals Roadmap: The Elder Scrolls 6, Fallout 5, Obsidian's New Fallout Game, Several Remaster Projects, and More All Confirmed - IGN",
-      "source": {
-        "name": "IGN"
-      },
-      "description": "Bethesda Game Studios has laid out its roadmap for the foreseeable future. It includes The Elder Scr...",
-      "url": "https://www.ign.com/articles/bethesda-reveals-roadmap-the-elder-scrolls-6-fallout-5-obsidians-new-fallout-game-several-remaster-projects-and-more-all-confirmed",
-      "publishedAt": "2026-07-20T22:38:21Z",
-      "processed_at": "2026-07-22T09:26:43.398287+00:00"
-    },
-    {
-      "title": "Google Photos toggle lets you switch between classic search & Ask Photos - 9to5Google",
-      "source": {
-        "name": "9to5google.com"
-      },
-      "description": "Google Photos has rolled out a “classic search” toggle for Ask Photos that delivers a big quality-of...",
-      "url": "http://9to5google.com/2026/07/20/google-photos-classic-search-toggle/",
-      "publishedAt": "2026-07-20T22:16:00Z",
-      "processed_at": "2026-07-22T09:26:43.398287+00:00"
-    },
-    {
-      "title": "Garmin CIRQA leaks in four colors with outdated sensor - Notebookcheck",
-      "source": {
-        "name": "Notebookcheck.net"
-      },
-      "description": "Shortly before the launch of the Garmin CIRQA, leaked images reveal not only the design but also all...",
-      "url": "https://www.notebookcheck.net/Garmin-CIRQA-leaks-in-four-colors-with-outdated-sensor.1347560.0.html",
-      "publishedAt": "2026-07-20T22:00:00Z",
-      "processed_at": "2026-07-22T09:26:43.398287+00:00"
-    },
-    {
-      "title": "iPhone 18 Pro Release Date: Apple’s 15-Year Event Timeline Signals Exact Date - Forbes",
-      "source": {
-        "name": "Forbes"
-      },
-      "description": "As rumors build, analysis of every fall iPhone release indicates one date above other possibilities....",
-      "url": "https://www.forbes.com/sites/davidphelan/2026/07/20/iphone-18-pro-release-date-apples-15-year-event-timeline-points-to-one-september-date/",
-      "publishedAt": "2026-07-20T21:55:01Z",
-      "processed_at": "2026-07-22T09:26:43.398287+00:00"
-    },
-    {
-      "title": "Activision Confirms Call of Duty: Modern Warfare 4 Beta Dates for August - IGN",
-      "source": {
-        "name": "IGN"
-      },
-      "description": "Activision and Infinity Ward have confirmed dates for the upcoming Call of Duty: Modern Warfare 4 be...",
-      "url": "https://www.ign.com/articles/call-of-duty-modern-warfare-4-beta-dates-confirmed",
-      "publishedAt": "2026-07-20T21:23:20Z",
-      "processed_at": "2026-07-22T09:26:43.398287+00:00"
+      "processed_at": "2026-07-22T11:47:56.500182+00:00"
     }
   ],
-  "lastUpdated": "2026-07-22T09:26:43.398357+00:00",
+  "lastUpdated": "2026-07-22T11:47:56.500242+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
