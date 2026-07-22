@@ -1,7 +1,17 @@
 {
   "status": "success",
-  "totalResults": 10,
+  "totalResults": 9,
   "articles": [
+    {
+      "title": "Meet a Devious Pixie Who’ll Trade Treasures for Teeth in This Brand New the Blood of Dawnwalker Quest Gameplay - IGN",
+      "source": {
+        "name": "IGN"
+      },
+      "description": "Check out some brand new quest gameplay from The Blood of Dawnwalker, featuring a devious pixie who'...",
+      "url": "https://www.ign.com/articles/the-blood-of-dawnwalker-gameplay-pixie-quest",
+      "publishedAt": "2026-07-21T16:00:00Z",
+      "processed_at": "2026-07-22T17:20:44.971047+00:00"
+    },
     {
       "title": "Hasbro's Big Video Game Push Is Already Struggling - Kotaku",
       "source": {
@@ -10,7 +20,27 @@
       "description": "Well, that didn't last long...",
       "url": "https://kotaku.com/hasbro-56-million-impairment-charge-video-games-canceled-2000718018",
       "publishedAt": "2026-07-21T15:56:00Z",
-      "processed_at": "2026-07-22T15:46:10.954854+00:00"
+      "processed_at": "2026-07-22T17:20:44.971047+00:00"
+    },
+    {
+      "title": "Apple Fixes Hide My Email Vulnerability After 404 Media Coverage - 404 Media",
+      "source": {
+        "name": "404media.co"
+      },
+      "description": "For a year, Apple knew that an issue in its Hide My Email feature was exposing customers’ real email...",
+      "url": "https://www.404media.co/apple-fixes-hide-my-email-vulnerability-after-404-media-coverage/",
+      "publishedAt": "2026-07-21T15:24:03Z",
+      "processed_at": "2026-07-22T17:20:44.971047+00:00"
+    },
+    {
+      "title": "Samsung can’t afford to play it safe with Apple’s first foldable looming - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "Reports of a new wider Galaxy Z Fold 8 model suggest Samsung is ready to take a risk before Apple’s ...",
+      "url": "https://www.theverge.com/tech/968583/samsung-galaxy-unpacked-wide-z-fold-8-iphone",
+      "publishedAt": "2026-07-21T15:20:33Z",
+      "processed_at": "2026-07-22T17:20:44.971047+00:00"
     },
     {
       "title": "TreeSize won’t renew perpetual-license support unless users subscribe - Ars Technica",
@@ -20,7 +50,17 @@
       "description": "Current economic conditions\" have shifted TreeSize's business model....",
       "url": "https://arstechnica.com/gadgets/2026/07/treesize-wont-renew-perpetual-license-support-unless-users-subscribe/",
       "publishedAt": "2026-07-21T15:18:23Z",
-      "processed_at": "2026-07-22T15:46:10.954854+00:00"
+      "processed_at": "2026-07-22T17:20:44.971047+00:00"
+    },
+    {
+      "title": "Apple to Launch ‘Upgrade’ Device Leasing Program With Klarna to Spur Sales - Bloomberg.com",
+      "source": {
+        "name": "Bloomberg"
+      },
+      "description": "Apple Inc. is preparing to introduce Apple Upgrade, a leasing program that will mark one of the bigg...",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-21/apple-to-launch-upgrade-device-leasing-program-with-klarna-to-spur-sales",
+      "publishedAt": "2026-07-21T15:10:36Z",
+      "processed_at": "2026-07-22T17:20:44.971047+00:00"
     },
     {
       "title": "XBOX and Meta: More Ways to Enjoy XBOX Game Pass - XBOX Wire",
@@ -30,80 +70,30 @@
       "description": "Starting today, eligible Meta Horizon+ subscribers now get a starter edition of XBOX Game Pass – fin...",
       "url": "https://news.xbox.com/en-us/2026/07/21/xbox-game-pass-meta-horizon/",
       "publishedAt": "2026-07-21T15:00:21Z",
-      "processed_at": "2026-07-22T15:46:10.954854+00:00"
+      "processed_at": "2026-07-22T17:20:44.971047+00:00"
     },
     {
-      "title": "Light made a flip phone — it’s colorful and it’s cheap - TechCrunch",
-      "source": {
-        "name": "TechCrunch"
-      },
-      "description": "Light co-founder Kaiwei Tang helped create the Motorola Razr, and he's as surprised as anyone that o...",
-      "url": "https://techcrunch.com/2026/07/21/light-is-modernizing-the-flip-phone-with-light-flip/",
-      "publishedAt": "2026-07-21T15:00:00Z",
-      "processed_at": "2026-07-22T15:46:10.954854+00:00"
-    },
-    {
-      "title": "Google launches a cheaper alternative to large AI security models like Mythos - The Verge",
+      "title": "The Light Flip is a minimalist flip phone with a point to prove - The Verge",
       "source": {
         "name": "The Verge"
       },
-      "description": "Google is launching a new cybersecurity-focused AI model, called Gemini 3.5 Flash Cyber, that’s capa...",
-      "url": "https://www.theverge.com/tech/968572/google-gemini-flash-cyber-ai-security-model",
+      "description": "After releasing the Light Phone III, Light is now shipping a flip phone with a T9 keypad, some new s...",
+      "url": "https://www.theverge.com/gadgets/968563/light-flip-phone-price-specs",
       "publishedAt": "2026-07-21T15:00:00Z",
-      "processed_at": "2026-07-22T15:46:10.954854+00:00"
+      "processed_at": "2026-07-22T17:20:44.971047+00:00"
     },
     {
-      "title": "New Numbers Present Sony’s Case For Abandoning PlayStation Discs - Forbes",
+      "title": "iPhone 18 Rumor Reality Check: 20 Claims Ranked by Likelihood - MacRumors",
       "source": {
-        "name": "Forbes"
+        "name": "MacRumors"
       },
-      "description": "While Sony has been shamed out of many fan-hated changes over the years, that was never going to be ...",
-      "url": "https://www.forbes.com/sites/paultassi/2026/07/21/new-numbers-present-sonys-case-for-abandoning-playstation-discs/",
-      "publishedAt": "2026-07-21T14:26:19Z",
-      "processed_at": "2026-07-22T15:46:10.954854+00:00"
-    },
-    {
-      "title": "iPhone 18 Pro: New display upgrades are coming in two ways - 9to5Mac",
-      "source": {
-        "name": "9to5Mac"
-      },
-      "description": "iPhone 18 Pro models will have the same screen sizes as last year, but rumors indicate their display...",
-      "url": "https://9to5mac.com/2026/07/21/iphone-18-pro-new-display-upgrades-are-coming-in-two-ways/",
-      "publishedAt": "2026-07-21T14:04:00Z",
-      "processed_at": "2026-07-22T15:46:10.954854+00:00"
-    },
-    {
-      "title": "‘Marathon’ PvE Mode Is Live, But Temper Your Expectations - Forbes",
-      "source": {
-        "name": "Forbes"
-      },
-      "description": "Marathon is launching its Vault Breaker PvE experimental mode today, a type of run that removes all ...",
-      "url": "https://www.forbes.com/sites/paultassi/2026/07/21/marathon-pve-mode-is-live-today-but-expectations-should-be-tempered/",
-      "publishedAt": "2026-07-21T14:02:48Z",
-      "processed_at": "2026-07-22T15:46:10.954854+00:00"
-    },
-    {
-      "title": "Xbox Game Pass was a good idea in theory, former Forza Horizon 5 director says, but \"the reality is not enough people have subscribed\" - Eurogamer.net",
-      "source": {
-        "name": "Eurogamer.net"
-      },
-      "description": "One of the lead creatives behind Forza Horizon 5, who departed developer Playground Games, still bel...",
-      "url": "https://www.eurogamer.net/forza-horizon-5-director-comments-xbox-game-pass",
-      "publishedAt": "2026-07-21T13:59:47Z",
-      "processed_at": "2026-07-22T15:46:10.954854+00:00"
-    },
-    {
-      "title": "T-Mobile Cracks Down on Samsung Store Upgrades by Adding $35 Device Fee - Droid Life",
-      "source": {
-        "name": "Droid Life"
-      },
-      "description": "",
-      "url": "https://www.droid-life.com/2026/07/21/t-mobile-cracks-down-on-samsung-com-upgrades-by-adding-35-device-fee/",
-      "publishedAt": "2026-07-21T13:52:20Z",
-      "processed_at": "2026-07-22T15:46:10.954854+00:00"
+      "description": "Apple's iPhone 18 Pro models and its first foldable iPhone are less than two months away from being ...",
+      "url": "https://www.macrumors.com/2026/07/21/ranked-best-features-rumored-iphone-18/",
+      "publishedAt": "2026-07-21T14:32:19Z",
+      "processed_at": "2026-07-22T17:20:44.971047+00:00"
     }
   ],
-  "lastUpdated": "2026-07-22T15:46:10.954935+00:00",
+  "lastUpdated": "2026-07-22T17:20:44.971124+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
