@@ -1,7 +1,57 @@
 {
   "status": "success",
-  "totalResults": 10,
+  "totalResults": 9,
   "articles": [
+    {
+      "title": "Samsung Galaxy Glasses revealed at Unpacked - Mashable",
+      "source": {
+        "name": "Mashable"
+      },
+      "description": "Samsung said the highly anticipated glasses will arrive in the fall...",
+      "url": "https://mashable.com/tech/samsung-galaxy-unpacked-galaxy-glasses-revealed",
+      "publishedAt": "2026-07-22T17:30:25Z",
+      "processed_at": "2026-07-23T18:13:12.152329+00:00"
+    },
+    {
+      "title": "Miyamoto on how Nintendo chooses which games to release, confirms Star Fox and Yoshi games happened because of The Super Mario Galaxy Movie - Nintendo Everything",
+      "source": {
+        "name": "Nintendoeverything.com"
+      },
+      "description": "Famitsu published a new interview with Nintendo legend Shigeru Miyamoto this week, and one topic of ...",
+      "url": "https://nintendoeverything.com/miyamoto-on-how-nintendo-chooses-which-games-to-release-confirms-star-fox-and-yoshi-games-happened-because-of-the-super-mario-galaxy-movie/",
+      "publishedAt": "2026-07-22T15:39:18Z",
+      "processed_at": "2026-07-23T18:13:12.152329+00:00"
+    },
+    {
+      "title": "Apple Working on New MacBook Neo With Two Upgrades - MacRumors",
+      "source": {
+        "name": "MacRumors"
+      },
+      "description": "Apple is working on a new MacBook Neo with two key upgrades, including an A19 Pro chip and increased...",
+      "url": "https://www.macrumors.com/2026/07/22/new-macbook-neo-two-upgrades/",
+      "publishedAt": "2026-07-22T15:27:54Z",
+      "processed_at": "2026-07-23T18:13:12.152329+00:00"
+    },
+    {
+      "title": "Microsoft is bringing original Xbox games to PC - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "Xbox backward compatibility for PC allows classic Xbox console games to officially run on Windows....",
+      "url": "https://www.theverge.com/news/969117/microsoft-xbox-games-pc-backward-compatibility",
+      "publishedAt": "2026-07-22T15:00:00Z",
+      "processed_at": "2026-07-23T18:13:12.152329+00:00"
+    },
+    {
+      "title": "Apple Plans Overhaul of MacBooks, iMac in Push to Meet AI Demand - Bloomberg.com",
+      "source": {
+        "name": "Bloomberg"
+      },
+      "description": "Apple Inc. is readying an overhaul of its Mac line, seeking to capitalize on demand for powerful lap...",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-22/apple-to-launch-new-macbook-air-imac-macbook-pro-neo-mac-mini-mac-studio",
+      "publishedAt": "2026-07-22T14:30:12Z",
+      "processed_at": "2026-07-23T18:13:12.152329+00:00"
+    },
     {
       "title": "Exodites in Warhammer 40,000 – See the full rules - Warhammer Community",
       "source": {
@@ -10,17 +60,17 @@
       "description": "Dragon Knights get ready to skewer the competition....",
       "url": "https://www.warhammer-community.com/articles/bauwdcyl/exodites-in-warhammer-40000-see-the-full-rules",
       "publishedAt": "2026-07-22T13:56:10Z",
-      "processed_at": "2026-07-23T16:27:16.446505+00:00"
+      "processed_at": "2026-07-23T18:13:12.152329+00:00"
     },
     {
-      "title": "Xbox Console Sales Jumped 86 Percent In June Despite High Prices - Kotaku",
+      "title": "AMD’s Zen 6 EPYC Venice Pictured as a 256-Core Monster, Massive Twin I/O Dies & First 2nm HPC Chip To Enter Volume Ramp - Wccftech",
       "source": {
-        "name": "Kotaku"
+        "name": "Wccftech"
       },
-      "description": "Meccha Chameleon was the second-best-selling game in the U.S. last month, with an estimated 4 millio...",
-      "url": "https://kotaku.com/xbox-console-sales-up-june-price-increases-switch-2-2000718346",
-      "publishedAt": "2026-07-22T13:24:42Z",
-      "processed_at": "2026-07-23T16:27:16.446505+00:00"
+      "description": "AMD has showcased its next-generation EPYC Venice CPU at the Advancing AI event, featuring a phenome...",
+      "url": "https://wccftech.com/amd-256-core-epyc-venice-behemoth-cpu-pictured-confirms-32-cores-per-zen-6-ccd/",
+      "publishedAt": "2026-07-22T13:41:04Z",
+      "processed_at": "2026-07-23T18:13:12.152329+00:00"
     },
     {
       "title": "[Galaxy Unpacked July 2026] A First Look at Galaxy Z Fold8 Ultra, Galaxy Z Fold8 and Galaxy Z Flip8 - Samsung Global Newsroom",
@@ -30,80 +80,20 @@
       "description": "At Galaxy Unpacked July 2026 in London, Samsung Electronics unveiled the eighth-generation Galaxy Z ...",
       "url": "https://news.samsung.com/global/galaxy-unpacked-july-2026-a-first-look-at-galaxy-z-fold8-ultra-galaxy-z-fold8-and-galaxy-z-flip8",
       "publishedAt": "2026-07-22T13:18:45Z",
-      "processed_at": "2026-07-23T16:27:16.446505+00:00"
+      "processed_at": "2026-07-23T18:13:12.152329+00:00"
     },
     {
-      "title": "Samsung’s Galaxy Watch 9 and Ultra 2 bet big on battery - The Verge",
+      "title": "Gemini task automation expands to 40+ apps, Samsung shows off two more Android XR glasses - 9to5Google",
       "source": {
-        "name": "The Verge"
+        "name": "9to5google.com"
       },
-      "description": "The Samsung Galaxy Watch 9 and Ultra 2 both have bigger batteries, a more power-efficient Qualcomm c...",
-      "url": "https://www.theverge.com/tech/968728/samsung-galaxy-watch-9-ultra-2-hands-on-wearables-smartwatches",
-      "publishedAt": "2026-07-22T13:00:00Z",
-      "processed_at": "2026-07-23T16:27:16.446505+00:00"
-    },
-    {
-      "title": "Metal Gear Solid: Master Collection Vol. 2's Resolutions & Frame Rates Revealed - nintendolife.com",
-      "source": {
-        "name": "Nintendo Life"
-      },
-      "description": "Switch 1 players are capped at 30fps...",
-      "url": "https://www.nintendolife.com/news/2026/07/metal-gear-solid-master-collection-vol-2s-resolutions-and-frame-rates-revealed",
-      "publishedAt": "2026-07-22T11:49:00Z",
-      "processed_at": "2026-07-23T16:27:16.446505+00:00"
-    },
-    {
-      "title": "Players can apply to join the network test for FromSoftware’s Switch 2 exclusive The Duskbloods today - Video Games Chronicle",
-      "source": {
-        "name": "Video Games Chronicle"
-      },
-      "description": "Players have a week to apply for the test, which runs from August 21-24...",
-      "url": "https://www.videogameschronicle.com/news/players-can-apply-to-join-the-network-test-for-fromsoftwares-switch-2-exclusive-the-duskbloods-today/",
-      "publishedAt": "2026-07-22T11:29:05Z",
-      "processed_at": "2026-07-23T16:27:16.446505+00:00"
-    },
-    {
-      "title": "The reported Apple Upgrade program raises a very big concern - 9to5Mac",
-      "source": {
-        "name": "9to5Mac"
-      },
-      "description": "A Bloomberg report yesterday suggested that Apple is about to launch a new Apple Upgrade leasing con...",
-      "url": "https://9to5mac.com/2026/07/22/the-reported-apple-upgrade-program-raises-a-very-big-concern/",
-      "publishedAt": "2026-07-22T11:19:00Z",
-      "processed_at": "2026-07-23T16:27:16.446505+00:00"
-    },
-    {
-      "title": "Asha Sharma-appointed Xbox VP of engineering leaves just three months after moving over from Microsoft's CoreAI team - Eurogamer.net",
-      "source": {
-        "name": "Eurogamer.net"
-      },
-      "description": "Xbox engineering boss, who only joined the team three months ago, is leaving for an AI startup....",
-      "url": "https://www.eurogamer.net/xbox-vp-engineering-leaves-after-three-months",
-      "publishedAt": "2026-07-22T10:36:09Z",
-      "processed_at": "2026-07-23T16:27:16.446505+00:00"
-    },
-    {
-      "title": "Sony's Decision to Kill PlayStation Discs Puts Second-Hand Market Under Threat, Analysts Say - IGN",
-      "source": {
-        "name": "IGN"
-      },
-      "description": "Sony’s decision to end production of PlayStation discs for new games from 2028 threatens to destroy ...",
-      "url": "https://www.ign.com/articles/the-global-second-hand-video-game-market-is-valued-at-72-billion-but-sonys-decision-to-kill-playstation-discs-threatens-to-destroy-it-analysts-say",
-      "publishedAt": "2026-07-22T09:51:52Z",
-      "processed_at": "2026-07-23T16:27:16.446505+00:00"
-    },
-    {
-      "title": "GeForce RTX 50 GPUs reportedly crash on Battlefield 6 maps with large bodies of water - VideoCardz.com",
-      "source": {
-        "name": "Videocardz.com"
-      },
-      "description": "EA has confirmed GPU driver crashes on some Battlefield 6 maps with large bodies of water. Reports a...",
-      "url": "https://videocardz.com/newz/geforce-rtx-50-gpus-reportedly-crash-on-battlefield-6-maps-with-large-bodies-of-water",
-      "publishedAt": "2026-07-22T09:49:18Z",
-      "processed_at": "2026-07-23T16:27:16.446505+00:00"
+      "description": "At Galaxy Unpacked, Google announced a handful of Gemini updates for the Galaxy Z Fold 8 Ultra, Fold...",
+      "url": "http://9to5google.com/2026/07/22/gemini-task-automation-samsung/",
+      "publishedAt": "2026-07-22T13:05:00Z",
+      "processed_at": "2026-07-23T18:13:12.152329+00:00"
     }
   ],
-  "lastUpdated": "2026-07-23T16:27:16.446595+00:00",
+  "lastUpdated": "2026-07-23T18:13:12.152398+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
