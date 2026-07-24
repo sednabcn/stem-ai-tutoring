@@ -3,6 +3,26 @@
   "totalResults": 9,
   "articles": [
     {
+      "title": "Samsung announces Galaxy Watch 9 and Ultra 2, with new AI features - Mashable",
+      "source": {
+        "name": "Mashable"
+      },
+      "description": "Sorry, no Classic model this year....",
+      "url": "https://mashable.com/life/samsung-galaxy-unpacked-watch-9-ultra-2-announced",
+      "publishedAt": "2026-07-23T04:50:40Z",
+      "processed_at": "2026-07-24T07:32:03.416197+00:00"
+    },
+    {
+      "title": "Splatoon Raiders Switch 2 Launch Update Out Now, Here Are The Patch Notes - nintendolife.com",
+      "source": {
+        "name": "Nintendo Life"
+      },
+      "description": "The hunt begins...",
+      "url": "https://www.nintendolife.com/news/2026/07/splatoon-raiders-switch-2-launch-update-out-now-here-are-the-patch-notes",
+      "publishedAt": "2026-07-23T01:30:00Z",
+      "processed_at": "2026-07-24T07:32:03.416197+00:00"
+    },
+    {
       "title": "Samsung’s Galaxy Z Fold 8 Is for Everyone Who Can’t Stop Scrolling - CNET",
       "source": {
         "name": "CNET"
@@ -10,7 +30,17 @@
       "description": "Samsung's book-style foldable could be better suited to the way we actually browse the internet and ...",
       "url": "https://www.cnet.com/tech/mobile/samsung-galaxy-z-fold-8-wide-design-social-media-scolling/",
       "publishedAt": "2026-07-22T22:45:00Z",
-      "processed_at": "2026-07-24T04:15:02.393948+00:00"
+      "processed_at": "2026-07-24T07:32:03.416197+00:00"
+    },
+    {
+      "title": "Pixel Watch 5 specs leak with no chip upgrade, but more RAM - 9to5Google",
+      "source": {
+        "name": "9to5google.com"
+      },
+      "description": "The Pixel Watch 5 is expected to look identical to last year's model, but the similarities might als...",
+      "url": "http://9to5google.com/2026/07/22/pixel-watch-5-specs-leak/",
+      "publishedAt": "2026-07-22T21:44:00Z",
+      "processed_at": "2026-07-24T07:32:03.416197+00:00"
     },
     {
       "title": "Microsoft brings original Xbox backward compatibility to Windows PCs - Ars Technica",
@@ -20,7 +50,7 @@
       "description": "First four compatible titles can be run with an 11-year-old graphics card....",
       "url": "https://arstechnica.com/gaming/2026/07/microsoft-brings-original-xbox-backward-compatibility-to-windows-pcs/",
       "publishedAt": "2026-07-22T20:36:19Z",
-      "processed_at": "2026-07-24T04:15:02.393948+00:00"
+      "processed_at": "2026-07-24T07:32:03.416197+00:00"
     },
     {
       "title": "Pixel 11 series leaks in more official-looking images with new angles [Gallery] - 9to5Google",
@@ -30,17 +60,7 @@
       "description": "Google’s Pixel 11 series has leaked pretty extensively at this point, but another new leak has just ...",
       "url": "http://9to5google.com/2026/07/22/google-pixel-11-series-leaked-images-angles/",
       "publishedAt": "2026-07-22T19:05:00Z",
-      "processed_at": "2026-07-24T04:15:02.393948+00:00"
-    },
-    {
-      "title": "Samsung Galaxy Glasses revealed at Unpacked - Mashable",
-      "source": {
-        "name": "Mashable"
-      },
-      "description": "Samsung said the highly anticipated glasses will arrive in the fall...",
-      "url": "https://mashable.com/tech/samsung-galaxy-unpacked-galaxy-glasses-revealed",
-      "publishedAt": "2026-07-22T17:30:25Z",
-      "processed_at": "2026-07-24T04:15:02.393948+00:00"
+      "processed_at": "2026-07-24T07:32:03.416197+00:00"
     },
     {
       "title": "Apple is reportedly testing a MacBook Neo with more RAM - The Verge",
@@ -50,27 +70,17 @@
       "description": "The MacBook Neo may be getting an upgrade with a new processor, more memory, and new colors, but App...",
       "url": "https://www.theverge.com/tech/969434/apple-macbook-neo-a19-pro-ram-upgrade",
       "publishedAt": "2026-07-22T16:35:58Z",
-      "processed_at": "2026-07-24T04:15:02.393948+00:00"
+      "processed_at": "2026-07-24T07:32:03.416197+00:00"
     },
     {
-      "title": "Splatoon Raiders 1.1.0 update out now, patch notes - Nintendo Everything",
+      "title": "Samsung Says Smart Glasses Privacy Concerns Need Industrywide Fix - Bloomberg.com",
       "source": {
-        "name": "Nintendoeverything.com"
+        "name": "Bloomberg"
       },
-      "description": "Splatoon Raiders has released a day one update with version 1.1.0, and you can check out the patch n...",
-      "url": "https://nintendoeverything.com/splatoon-raiders-1-1-0-update-out-now-patch-notes/",
-      "publishedAt": "2026-07-22T12:24:18Z",
-      "processed_at": "2026-07-24T04:15:02.393948+00:00"
-    },
-    {
-      "title": "Sony's decision to kill off PlayStation discs could destroy the $7.2bn used game market, according to analysts - Eurogamer.net",
-      "source": {
-        "name": "Eurogamer.net"
-      },
-      "description": "Sony decided to kill discs at a time when everyone is concerned about affordability, and it may take...",
-      "url": "https://www.eurogamer.net/used-video-game-market-at-risk-sony-killing-playstation-discs",
-      "publishedAt": "2026-07-22T12:19:08Z",
-      "processed_at": "2026-07-24T04:15:02.393948+00:00"
+      "description": "Samsung Electronics Co. showcased the smart glasses it developed in partnership with Alphabet Inc.’s...",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-22/samsung-says-smart-glasses-privacy-concerns-need-industrywide-fix",
+      "publishedAt": "2026-07-22T13:12:14Z",
+      "processed_at": "2026-07-24T07:32:03.416197+00:00"
     },
     {
       "title": "The reported Apple Upgrade program raises a very big concern - 9to5Mac",
@@ -80,20 +90,10 @@
       "description": "A Bloomberg report yesterday suggested that Apple is about to launch a new Apple Upgrade leasing con...",
       "url": "https://9to5mac.com/2026/07/22/the-reported-apple-upgrade-program-raises-a-very-big-concern/",
       "publishedAt": "2026-07-22T11:19:00Z",
-      "processed_at": "2026-07-24T04:15:02.393948+00:00"
-    },
-    {
-      "title": "Hasbro Shares Sneak Peek Of Its Official Legend Of Zelda Toy Line - nintendolife.com",
-      "source": {
-        "name": "Nintendo Life"
-      },
-      "description": "It will include multiple scale figures...",
-      "url": "https://www.nintendolife.com/news/2026/07/hasbro-shares-sneak-peek-of-its-official-legend-of-zelda-toy-line",
-      "publishedAt": "2026-07-22T00:35:00Z",
-      "processed_at": "2026-07-24T04:15:02.393948+00:00"
+      "processed_at": "2026-07-24T07:32:03.416197+00:00"
     }
   ],
-  "lastUpdated": "2026-07-24T04:15:02.394009+00:00",
+  "lastUpdated": "2026-07-24T07:32:03.416271+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
