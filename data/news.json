@@ -1,6 +1,6 @@
 {
   "status": "success",
-  "totalResults": 9,
+  "totalResults": 10,
   "articles": [
     {
       "title": "Samsung announces Galaxy Watch 9 and Ultra 2, with new AI features - Mashable",
@@ -10,27 +10,17 @@
       "description": "Sorry, no Classic model this year....",
       "url": "https://mashable.com/life/samsung-galaxy-unpacked-watch-9-ultra-2-announced",
       "publishedAt": "2026-07-23T04:50:40Z",
-      "processed_at": "2026-07-24T07:32:03.416197+00:00"
+      "processed_at": "2026-07-24T10:19:18.376460+00:00"
     },
     {
-      "title": "Splatoon Raiders Switch 2 Launch Update Out Now, Here Are The Patch Notes - nintendolife.com",
+      "title": "The fight for the future of foldable phones is here - NBC News",
       "source": {
-        "name": "Nintendo Life"
+        "name": "NBC News"
       },
-      "description": "The hunt begins...",
-      "url": "https://www.nintendolife.com/news/2026/07/splatoon-raiders-switch-2-launch-update-out-now-here-are-the-patch-notes",
-      "publishedAt": "2026-07-23T01:30:00Z",
-      "processed_at": "2026-07-24T07:32:03.416197+00:00"
-    },
-    {
-      "title": "Samsung’s Galaxy Z Fold 8 Is for Everyone Who Can’t Stop Scrolling - CNET",
-      "source": {
-        "name": "CNET"
-      },
-      "description": "Samsung's book-style foldable could be better suited to the way we actually browse the internet and ...",
-      "url": "https://www.cnet.com/tech/mobile/samsung-galaxy-z-fold-8-wide-design-social-media-scolling/",
-      "publishedAt": "2026-07-22T22:45:00Z",
-      "processed_at": "2026-07-24T07:32:03.416197+00:00"
+      "description": "Samsung has owned the market for foldable phones. Now Apple is getting in on it. NBC News chief tech...",
+      "url": "https://www.nbcnews.com/tech/gadgets/samsung-vs-apple-fight-foldable-phones-rcna588802",
+      "publishedAt": "2026-07-23T04:30:00Z",
+      "processed_at": "2026-07-24T10:19:18.376460+00:00"
     },
     {
       "title": "Pixel Watch 5 specs leak with no chip upgrade, but more RAM - 9to5Google",
@@ -40,7 +30,7 @@
       "description": "The Pixel Watch 5 is expected to look identical to last year's model, but the similarities might als...",
       "url": "http://9to5google.com/2026/07/22/pixel-watch-5-specs-leak/",
       "publishedAt": "2026-07-22T21:44:00Z",
-      "processed_at": "2026-07-24T07:32:03.416197+00:00"
+      "processed_at": "2026-07-24T10:19:18.376460+00:00"
     },
     {
       "title": "Microsoft brings original Xbox backward compatibility to Windows PCs - Ars Technica",
@@ -50,7 +40,27 @@
       "description": "First four compatible titles can be run with an 11-year-old graphics card....",
       "url": "https://arstechnica.com/gaming/2026/07/microsoft-brings-original-xbox-backward-compatibility-to-windows-pcs/",
       "publishedAt": "2026-07-22T20:36:19Z",
-      "processed_at": "2026-07-24T07:32:03.416197+00:00"
+      "processed_at": "2026-07-24T10:19:18.376460+00:00"
+    },
+    {
+      "title": "Steam wishlists are getting categories, making it even easier to organise all those games you'll definitely buy next sale - Rock Paper Shotgun",
+      "source": {
+        "name": "Rock Paper Shotgun"
+      },
+      "description": "Gifting games is a lot easier now too....",
+      "url": "https://www.rockpapershotgun.com/steam-wishlists-are-getting-categories-making-it-even-easier-to-organise-all-those-games-youll-definitely-buy-next-sale",
+      "publishedAt": "2026-07-22T20:32:01Z",
+      "processed_at": "2026-07-24T10:19:18.376460+00:00"
+    },
+    {
+      "title": "iOS code could reportedly let Apple cut off apps when users miss iPhone payments - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "Code found in an iOS 27 beta would reportedly allow Apple to put financed devices in “Restricted Mod...",
+      "url": "https://www.theverge.com/tech/969596/apple-restricted-mode-ios-27",
+      "publishedAt": "2026-07-22T19:13:21Z",
+      "processed_at": "2026-07-24T10:19:18.376460+00:00"
     },
     {
       "title": "Pixel 11 series leaks in more official-looking images with new angles [Gallery] - 9to5Google",
@@ -60,7 +70,17 @@
       "description": "Google’s Pixel 11 series has leaked pretty extensively at this point, but another new leak has just ...",
       "url": "http://9to5google.com/2026/07/22/google-pixel-11-series-leaked-images-angles/",
       "publishedAt": "2026-07-22T19:05:00Z",
-      "processed_at": "2026-07-24T07:32:03.416197+00:00"
+      "processed_at": "2026-07-24T10:19:18.376460+00:00"
+    },
+    {
+      "title": "Lenovo reveals more about its new lightweight Legion gaming handheld - Notebookcheck",
+      "source": {
+        "name": "Notebookcheck.net"
+      },
+      "description": "A fresh set of teasers for the Legion C700 has emerged, and through them, Lenovo has shared more det...",
+      "url": "https://www.notebookcheck.net/Lenovo-reveals-more-about-its-new-lightweight-Legion-gaming-handheld.1348860.0.html",
+      "publishedAt": "2026-07-22T17:07:00Z",
+      "processed_at": "2026-07-24T10:19:18.376460+00:00"
     },
     {
       "title": "Apple is reportedly testing a MacBook Neo with more RAM - The Verge",
@@ -70,7 +90,7 @@
       "description": "The MacBook Neo may be getting an upgrade with a new processor, more memory, and new colors, but App...",
       "url": "https://www.theverge.com/tech/969434/apple-macbook-neo-a19-pro-ram-upgrade",
       "publishedAt": "2026-07-22T16:35:58Z",
-      "processed_at": "2026-07-24T07:32:03.416197+00:00"
+      "processed_at": "2026-07-24T10:19:18.376460+00:00"
     },
     {
       "title": "Samsung Says Smart Glasses Privacy Concerns Need Industrywide Fix - Bloomberg.com",
@@ -80,20 +100,10 @@
       "description": "Samsung Electronics Co. showcased the smart glasses it developed in partnership with Alphabet Inc.’s...",
       "url": "https://www.bloomberg.com/news/articles/2026-07-22/samsung-says-smart-glasses-privacy-concerns-need-industrywide-fix",
       "publishedAt": "2026-07-22T13:12:14Z",
-      "processed_at": "2026-07-24T07:32:03.416197+00:00"
-    },
-    {
-      "title": "The reported Apple Upgrade program raises a very big concern - 9to5Mac",
-      "source": {
-        "name": "9to5Mac"
-      },
-      "description": "A Bloomberg report yesterday suggested that Apple is about to launch a new Apple Upgrade leasing con...",
-      "url": "https://9to5mac.com/2026/07/22/the-reported-apple-upgrade-program-raises-a-very-big-concern/",
-      "publishedAt": "2026-07-22T11:19:00Z",
-      "processed_at": "2026-07-24T07:32:03.416197+00:00"
+      "processed_at": "2026-07-24T10:19:18.376460+00:00"
     }
   ],
-  "lastUpdated": "2026-07-24T07:32:03.416271+00:00",
+  "lastUpdated": "2026-07-24T10:19:18.376529+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
