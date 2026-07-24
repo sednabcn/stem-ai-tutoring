@@ -1,7 +1,27 @@
 {
   "status": "success",
-  "totalResults": 8,
+  "totalResults": 10,
   "articles": [
+    {
+      "title": "My Galaxy Z Fold 8 Ongoing Review Living With Samsung’s Passport Foldable - CNET",
+      "source": {
+        "name": "CNET"
+      },
+      "description": "Samsung's new book-style foldable phone is making a strong first impression, but I'm still testing h...",
+      "url": "https://www.cnet.com/news-live/my-galaxy-z-fold-8-ongoing-review-as-i-live-with-the-samsungs-passport-foldable/",
+      "publishedAt": "2026-07-23T19:26:21Z",
+      "processed_at": "2026-07-24T20:20:27.154186+00:00"
+    },
+    {
+      "title": "AMD EPYC 9006 Venice Announced & Looks Poised To Be A Grand Slam - Phoronix",
+      "source": {
+        "name": "Phoronix"
+      },
+      "description": "While AMD EPYC 9005 'Turin' launched just under two years ago, it has aged remarkably well....",
+      "url": "https://www.phoronix.com/review/amd-epyc-9006-venice",
+      "publishedAt": "2026-07-23T17:20:00Z",
+      "processed_at": "2026-07-24T20:20:27.154186+00:00"
+    },
     {
       "title": "The PlayStation game disc was dying long before Sony pulled the plug - Ars Technica",
       "source": {
@@ -10,17 +30,27 @@
       "description": "Circana numbers show US gamers overwhelmingly voting with their wallets....",
       "url": "https://arstechnica.com/gaming/2026/07/the-playstation-game-disc-was-dying-long-before-sony-pulled-the-plug/",
       "publishedAt": "2026-07-23T16:25:46Z",
-      "processed_at": "2026-07-24T18:18:27.114251+00:00"
+      "processed_at": "2026-07-24T20:20:27.154186+00:00"
     },
     {
-      "title": "Halo Support 'Investigating' Issues With Premium Upgrade For Campaign Evolved - Pure Xbox",
+      "title": "Google will now let you sign in to your account with a selfie video - TechCrunch",
       "source": {
-        "name": "Pure Xbox"
+        "name": "TechCrunch"
       },
-      "description": "It launched with problems across Xbox and PC...",
-      "url": "https://www.purexbox.com/news/2026/07/halo-support-investigating-issues-with-premium-upgrade-for-campaign-evolved",
-      "publishedAt": "2026-07-23T16:25:31Z",
-      "processed_at": "2026-07-24T18:18:27.114251+00:00"
+      "description": "The tech giant says selfie videos give users more options to sign in if they're ever locked out or d...",
+      "url": "https://techcrunch.com/2026/07/23/google-will-now-let-you-sign-in-to-your-account-with-a-selfie-video/",
+      "publishedAt": "2026-07-23T16:01:03Z",
+      "processed_at": "2026-07-24T20:20:27.154186+00:00"
+    },
+    {
+      "title": "Samsung Galaxy Glasses revealed at Unpacked - Mashable",
+      "source": {
+        "name": "Mashable"
+      },
+      "description": "Samsung said the highly anticipated glasses will arrive in the fall...",
+      "url": "https://mashable.com/tech/samsung-galaxy-unpacked-galaxy-glasses-revealed",
+      "publishedAt": "2026-07-23T16:00:13Z",
+      "processed_at": "2026-07-24T20:20:27.154186+00:00"
     },
     {
       "title": "Microsoft is testing free, ad-supported cloud gaming for Xbox Insiders - The Verge",
@@ -30,17 +60,27 @@
       "description": "Xbox Insiders can stream certain games from their libraries for free with an ad-supported cloud gami...",
       "url": "https://www.theverge.com/games/969969/xbox-testing-ad-supported-streaming",
       "publishedAt": "2026-07-23T16:00:00Z",
-      "processed_at": "2026-07-24T18:18:27.114251+00:00"
+      "processed_at": "2026-07-24T20:20:27.154186+00:00"
     },
     {
-      "title": "Tech reporter Joanna Stern asked AI to do 'almost everything' for a year—the No. 1 tool she'll keep using - CNBC",
+      "title": "Halo: Campaign Evolved Comparison Shows Difference Between Xbox Series X And Series S - Pure Xbox",
       "source": {
-        "name": "CNBC"
+        "name": "Pure Xbox"
       },
-      "description": "\"I Am Not a Robot\" author Joanna Stern integrated dozens of AI applications into her life over the c...",
-      "url": "https://www.cnbc.com/2026/07/23/joanna-stern-used-ai-for-almost-everything-for-a-year-the-no-1-tool-shell-keep-using.html",
-      "publishedAt": "2026-07-23T14:25:01Z",
-      "processed_at": "2026-07-24T18:18:27.114251+00:00"
+      "description": "How the Xbox versions stack up...",
+      "url": "https://www.purexbox.com/news/2026/07/halo-campaign-evolved-comparison-shows-difference-between-xbox-series-x-and-series-s",
+      "publishedAt": "2026-07-23T16:00:00Z",
+      "processed_at": "2026-07-24T20:20:27.154186+00:00"
+    },
+    {
+      "title": "Microsoft 365 outage affects Teams, SharePoint and other services - BleepingComputer",
+      "source": {
+        "name": "BleepingComputer"
+      },
+      "description": "Microsoft is impacted by a massive outage affecting Teams and Microsoft 365 services, primarily affe...",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-365-outage-affects-teams-sharepoint-and-other-services/",
+      "publishedAt": "2026-07-23T15:34:43Z",
+      "processed_at": "2026-07-24T20:20:27.154186+00:00"
     },
     {
       "title": "Amazon Adds Video Games Into Prime Video in Expansion Push - The Hollywood Reporter",
@@ -50,7 +90,7 @@
       "description": "The Amazon Luna gaming platform, which had been included in the larger Prime offering, will now be b...",
       "url": "http://www.hollywoodreporter.com/business/digital/amazon-prime-video-games-luna-1236653286/",
       "publishedAt": "2026-07-23T13:00:33Z",
-      "processed_at": "2026-07-24T18:18:27.114251+00:00"
+      "processed_at": "2026-07-24T20:20:27.154186+00:00"
     },
     {
       "title": "Xbox 360 games might already be backward compatible on PC, and that bodes extremely well for the program's future - Windows Central",
@@ -60,30 +100,10 @@
       "description": "New details about how the four new back-compat Xbox games on PC are running lead me to believe that ...",
       "url": "https://www.windowscentral.com/gaming/pc-gaming/xbox-pc-back-compat-360-emulator",
       "publishedAt": "2026-07-23T12:47:01Z",
-      "processed_at": "2026-07-24T18:18:27.114251+00:00"
-    },
-    {
-      "title": "Everything Samsung Announced at Galaxy Unpacked: Z Fold 8, Flip 8, Watch 9, More - PCMag",
-      "source": {
-        "name": "PCMag.com"
-      },
-      "description": "Here's the latest on Samsung's newest foldables and wearables, along with details on how to buy them...",
-      "url": "https://www.pcmag.com/news/samsung-galaxy-unpacked-july-2026-live-zfold8-zflip8-watch9-news",
-      "publishedAt": "2026-07-23T11:47:27Z",
-      "processed_at": "2026-07-24T18:18:27.114251+00:00"
-    },
-    {
-      "title": "Samsung & Google's Android XR glasses privacy light works like Meta Ray-Bans, core features detailed [Gallery] - 9to5Google",
-      "source": {
-        "name": "9to5google.com"
-      },
-      "description": "With more details now out, we've got a better idea of what to expect from the features and privacy l...",
-      "url": "http://9to5google.com/2026/07/23/samsung-google-android-xr-glasses-features-privacy-light-details/",
-      "publishedAt": "2026-07-23T11:00:00Z",
-      "processed_at": "2026-07-24T18:18:27.114251+00:00"
+      "processed_at": "2026-07-24T20:20:27.154186+00:00"
     }
   ],
-  "lastUpdated": "2026-07-24T18:18:27.114330+00:00",
+  "lastUpdated": "2026-07-24T20:20:27.154255+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
