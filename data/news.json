@@ -1,36 +1,66 @@
 {
   "status": "success",
-  "totalResults": 9,
+  "totalResults": 8,
   "articles": [
     {
-      "title": "The ‘Halo: Campaign Evolved’ Metacritic Review Score Is In - Forbes",
+      "title": "The PlayStation game disc was dying long before Sony pulled the plug - Ars Technica",
       "source": {
-        "name": "Forbes"
+        "name": "Ars Technica"
       },
-      "description": "The Metacritic score for Halo: Campaign Evolved is in, with the most reviews coming in for the PS5 v...",
-      "url": "https://www.forbes.com/sites/paultassi/2026/07/23/the-halo-campaign-evolved-metacritic-review-score-is-in/",
-      "publishedAt": "2026-07-23T15:25:05Z",
-      "processed_at": "2026-07-24T16:44:02.278606+00:00"
+      "description": "Circana numbers show US gamers overwhelmingly voting with their wallets....",
+      "url": "https://arstechnica.com/gaming/2026/07/the-playstation-game-disc-was-dying-long-before-sony-pulled-the-plug/",
+      "publishedAt": "2026-07-23T16:25:46Z",
+      "processed_at": "2026-07-24T18:18:27.114251+00:00"
     },
     {
-      "title": "PS5's War for Attention Finds a New Foe with Games on Amazon Prime - Push Square",
+      "title": "Halo Support 'Investigating' Issues With Premium Upgrade For Campaign Evolved - Pure Xbox",
       "source": {
-        "name": "Push Square"
+        "name": "Pure Xbox"
       },
-      "description": "Here comes a new challenger...",
-      "url": "https://www.pushsquare.com/news/2026/07/ps5s-war-for-attention-finds-a-new-foe-with-games-on-amazon-prime",
-      "publishedAt": "2026-07-23T14:30:00Z",
-      "processed_at": "2026-07-24T16:44:02.278606+00:00"
+      "description": "It launched with problems across Xbox and PC...",
+      "url": "https://www.purexbox.com/news/2026/07/halo-support-investigating-issues-with-premium-upgrade-for-campaign-evolved",
+      "publishedAt": "2026-07-23T16:25:31Z",
+      "processed_at": "2026-07-24T18:18:27.114251+00:00"
     },
     {
-      "title": "Apple prepares new MacBook Neo with more RAM and color options, report says - Mashable",
+      "title": "Microsoft is testing free, ad-supported cloud gaming for Xbox Insiders - The Verge",
       "source": {
-        "name": "Mashable"
+        "name": "The Verge"
       },
-      "description": "According to a new Bloomberg report, big MacBook refreshes are on the way....",
-      "url": "https://mashable.com/tech/apple-prepares-next-generation-mac-imac-macbook-pro-macbook-neo",
-      "publishedAt": "2026-07-23T13:47:05Z",
-      "processed_at": "2026-07-24T16:44:02.278606+00:00"
+      "description": "Xbox Insiders can stream certain games from their libraries for free with an ad-supported cloud gami...",
+      "url": "https://www.theverge.com/games/969969/xbox-testing-ad-supported-streaming",
+      "publishedAt": "2026-07-23T16:00:00Z",
+      "processed_at": "2026-07-24T18:18:27.114251+00:00"
+    },
+    {
+      "title": "Tech reporter Joanna Stern asked AI to do 'almost everything' for a year—the No. 1 tool she'll keep using - CNBC",
+      "source": {
+        "name": "CNBC"
+      },
+      "description": "\"I Am Not a Robot\" author Joanna Stern integrated dozens of AI applications into her life over the c...",
+      "url": "https://www.cnbc.com/2026/07/23/joanna-stern-used-ai-for-almost-everything-for-a-year-the-no-1-tool-shell-keep-using.html",
+      "publishedAt": "2026-07-23T14:25:01Z",
+      "processed_at": "2026-07-24T18:18:27.114251+00:00"
+    },
+    {
+      "title": "Amazon Adds Video Games Into Prime Video in Expansion Push - The Hollywood Reporter",
+      "source": {
+        "name": "Hollywood Reporter"
+      },
+      "description": "The Amazon Luna gaming platform, which had been included in the larger Prime offering, will now be b...",
+      "url": "http://www.hollywoodreporter.com/business/digital/amazon-prime-video-games-luna-1236653286/",
+      "publishedAt": "2026-07-23T13:00:33Z",
+      "processed_at": "2026-07-24T18:18:27.114251+00:00"
+    },
+    {
+      "title": "Xbox 360 games might already be backward compatible on PC, and that bodes extremely well for the program's future - Windows Central",
+      "source": {
+        "name": "Windows Central"
+      },
+      "description": "New details about how the four new back-compat Xbox games on PC are running lead me to believe that ...",
+      "url": "https://www.windowscentral.com/gaming/pc-gaming/xbox-pc-back-compat-360-emulator",
+      "publishedAt": "2026-07-23T12:47:01Z",
+      "processed_at": "2026-07-24T18:18:27.114251+00:00"
     },
     {
       "title": "Everything Samsung Announced at Galaxy Unpacked: Z Fold 8, Flip 8, Watch 9, More - PCMag",
@@ -40,7 +70,7 @@
       "description": "Here's the latest on Samsung's newest foldables and wearables, along with details on how to buy them...",
       "url": "https://www.pcmag.com/news/samsung-galaxy-unpacked-july-2026-live-zfold8-zflip8-watch9-news",
       "publishedAt": "2026-07-23T11:47:27Z",
-      "processed_at": "2026-07-24T16:44:02.278606+00:00"
+      "processed_at": "2026-07-24T18:18:27.114251+00:00"
     },
     {
       "title": "Samsung & Google's Android XR glasses privacy light works like Meta Ray-Bans, core features detailed [Gallery] - 9to5Google",
@@ -50,50 +80,10 @@
       "description": "With more details now out, we've got a better idea of what to expect from the features and privacy l...",
       "url": "http://9to5google.com/2026/07/23/samsung-google-android-xr-glasses-features-privacy-light-details/",
       "publishedAt": "2026-07-23T11:00:00Z",
-      "processed_at": "2026-07-24T16:44:02.278606+00:00"
-    },
-    {
-      "title": "Shigeru Miyamoto Defends Nintendo's Production Of Remakes - Nintendo Life",
-      "source": {
-        "name": "Nintendo Life"
-      },
-      "description": "No worries, Shigsy...",
-      "url": "https://www.nintendolife.com/news/2026/07/shigeru-miyamoto-defends-nintendos-production-of-remakes",
-      "publishedAt": "2026-07-23T10:30:00Z",
-      "processed_at": "2026-07-24T16:44:02.278606+00:00"
-    },
-    {
-      "title": "Google now lets you sign in to your account using a selfie video - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "Capturing a short selfie video of your moving face is Google’s latest approach to streamlining acces...",
-      "url": "https://www.theverge.com/tech/969361/google-account-sign-in-selfie-video-security",
-      "publishedAt": "2026-07-23T10:00:00Z",
-      "processed_at": "2026-07-24T16:44:02.278606+00:00"
-    },
-    {
-      "title": "Samsung announces Galaxy Watch 9 and Ultra 2, with new AI features - Mashable",
-      "source": {
-        "name": "Mashable"
-      },
-      "description": "Sorry, no Classic model this year....",
-      "url": "https://mashable.com/life/samsung-galaxy-unpacked-watch-9-ultra-2-announced",
-      "publishedAt": "2026-07-23T01:12:05Z",
-      "processed_at": "2026-07-24T16:44:02.278606+00:00"
-    },
-    {
-      "title": "The Legend of Zelda Officially Returns With New Release Spring 2027 - Comic Book Resources",
-      "source": {
-        "name": "CBR - Comic Book Resources"
-      },
-      "description": "Nintendo might be working hard on The Legend of Zelda: Ocarina of Time remake, but another new relea...",
-      "url": "https://www.cbr.com/legend-of-zelda-official-return-new-release-spring-2027/",
-      "publishedAt": "2026-07-22T21:40:14Z",
-      "processed_at": "2026-07-24T16:44:02.278606+00:00"
+      "processed_at": "2026-07-24T18:18:27.114251+00:00"
     }
   ],
-  "lastUpdated": "2026-07-24T16:44:02.278671+00:00",
+  "lastUpdated": "2026-07-24T18:18:27.114330+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
