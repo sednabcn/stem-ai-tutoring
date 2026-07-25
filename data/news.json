@@ -1,16 +1,56 @@
 {
   "status": "success",
-  "totalResults": 9,
+  "totalResults": 10,
   "articles": [
     {
-      "title": "Classic Skaven miniatures return via Made to Order - Warhammer Community",
+      "title": "Pixel 11 \"Exclusive Offer\" is Getting Teased Everywhere - Droid Life",
       "source": {
-        "name": "Warhammer-community.com"
+        "name": "Droid Life"
       },
-      "description": "Snap up some sneaky skaven from yesteryear....",
-      "url": "https://www.warhammer-community.com/articles/kmgdy8ll/classic-skaven-miniatures-return-via-made-to-order",
-      "publishedAt": "2026-07-24T13:55:47Z",
-      "processed_at": "2026-07-25T16:59:07.283539+00:00"
+      "description": "",
+      "url": "https://www.droid-life.com/2026/07/24/pixel-11-exclusive-offer-is-getting-teased-everywhere/",
+      "publishedAt": "2026-07-24T15:04:51Z",
+      "processed_at": "2026-07-25T18:02:08.801701+00:00"
+    },
+    {
+      "title": "Boox’s New Tiny E-Reader Could Shake Up the Market - Gizmodo",
+      "source": {
+        "name": "Gizmodo.com"
+      },
+      "description": "The Boox Picco will be the company's smallest e-reader yet....",
+      "url": "https://gizmodo.com/booxs-new-tiny-e-reader-could-shake-up-the-market-2000790361",
+      "publishedAt": "2026-07-24T14:35:44Z",
+      "processed_at": "2026-07-25T18:02:08.801701+00:00"
+    },
+    {
+      "title": "5 Galaxy Z Fold 8 features the iPhone Ultra Fold will struggle to top - Mashable",
+      "source": {
+        "name": "Mashable"
+      },
+      "description": "Apple's rumored foldable may have a steep hill to climb....",
+      "url": "https://mashable.com/tech/samsung-galaxy-z-fold-8-features-iphone-fold-cant-top",
+      "publishedAt": "2026-07-24T14:31:27Z",
+      "processed_at": "2026-07-25T18:02:08.801701+00:00"
+    },
+    {
+      "title": "Apple Wallet driver’s licenses coming to two more states soon: report - 9to5Mac",
+      "source": {
+        "name": "9to5Mac"
+      },
+      "description": "Apple Wallet offers digital IDs and driver’s licenses in a variety of US states, and two new states ...",
+      "url": "https://9to5mac.com/2026/07/24/apple-wallet-drivers-licenses-coming-to-two-more-states-soon-report/",
+      "publishedAt": "2026-07-24T13:27:00Z",
+      "processed_at": "2026-07-25T18:02:08.801701+00:00"
+    },
+    {
+      "title": "New Macs are coming soon, here’s everything we know - 9to5Mac",
+      "source": {
+        "name": "9to5Mac"
+      },
+      "description": "Apple has multiple new Macs launching later this year, including the first touchscreen MacBook and a...",
+      "url": "https://9to5mac.com/2026/07/24/new-macs-are-coming-soon-heres-everything-we-know/",
+      "publishedAt": "2026-07-24T13:19:00Z",
+      "processed_at": "2026-07-25T18:02:08.801701+00:00"
     },
     {
       "title": "Playstation Network down, as tens of thousands of players queue to play Marvel Tokon Fighting Souls newly-launched beta - Eurogamer.net",
@@ -20,17 +60,7 @@
       "description": "PlayStation owners trying to get a few hours in during work hours are reporting network issues en ma...",
       "url": "https://www.eurogamer.net/psn-network-down-login-failure",
       "publishedAt": "2026-07-24T13:03:51Z",
-      "processed_at": "2026-07-25T16:59:07.283539+00:00"
-    },
-    {
-      "title": "WhatsApp Rolls Out Redesigned Message Bubbles for iOS - MacRumors",
-      "source": {
-        "name": "MacRumors"
-      },
-      "description": "",
-      "url": "https://www.macrumors.com/2026/07/24/whatsapp-redesigned-message-bubbles-ios/",
-      "publishedAt": "2026-07-24T11:19:16Z",
-      "processed_at": "2026-07-25T16:59:07.283539+00:00"
+      "processed_at": "2026-07-25T18:02:08.801701+00:00"
     },
     {
       "title": "Facebook considers giving up and becoming TikTok - The Verge",
@@ -40,7 +70,17 @@
       "description": "Facebook will begin testing a “reimagined experience” later this year that will put a subset of user...",
       "url": "https://www.theverge.com/tech/970504/facebook-video-experience-testing-tiktok-updates",
       "publishedAt": "2026-07-24T11:00:00Z",
-      "processed_at": "2026-07-25T16:59:07.283539+00:00"
+      "processed_at": "2026-07-25T18:02:08.801701+00:00"
+    },
+    {
+      "title": "Asking Eric: I found out they used my photo for this AI nonsense - The Mercury News",
+      "source": {
+        "name": "The Mercury News"
+      },
+      "description": "How do I not come off like I’m sitting in my cave judging them?...",
+      "url": "https://www.mercurynews.com/2026/07/24/asking-eric-thomas-photos-ai/",
+      "publishedAt": "2026-07-24T09:33:07Z",
+      "processed_at": "2026-07-25T18:02:08.801701+00:00"
     },
     {
       "title": "Microsoft pressures LG into killing unwanted McAfee ads - The Verge",
@@ -50,17 +90,7 @@
       "description": "Microsoft has intervened to stop Windows 11 users with LG monitors from being bombarded with annoyin...",
       "url": "https://www.theverge.com/tech/970489/lg-mcafee-ads-windows-microsoft-crackdown",
       "publishedAt": "2026-07-24T09:20:09Z",
-      "processed_at": "2026-07-25T16:59:07.283539+00:00"
-    },
-    {
-      "title": "If PlayStation kills physical media, it should \"get rid of the hardware\" too, says the creator of popular RPG series Disgaea - Eurogamer.net",
-      "source": {
-        "name": "Eurogamer.net"
-      },
-      "description": "Disgaea creator Sohei Niikawa has strong thoughts on Sony's planned move away from physical media....",
-      "url": "https://www.eurogamer.net/playstation-physical-media-hardware-disgaea-creator",
-      "publishedAt": "2026-07-24T09:07:36Z",
-      "processed_at": "2026-07-25T16:59:07.283539+00:00"
+      "processed_at": "2026-07-25T18:02:08.801701+00:00"
     },
     {
       "title": "\"Storm Emeralda\" All 76 Main Set Cards Revealed! - PokeBeach",
@@ -70,30 +100,10 @@
       "description": "All 76 cards from Storm Emeralda have been officially revealed! The set stars Mega Rayquaza ex and w...",
       "url": "https://www.pokebeach.com/2026/07/storm-emeralda-all-76-main-set-cards-revealed",
       "publishedAt": "2026-07-24T08:10:26Z",
-      "processed_at": "2026-07-25T16:59:07.283539+00:00"
-    },
-    {
-      "title": "My Galaxy Z Fold 8 Ongoing Review Living With Samsung’s Passport Foldable - CNET",
-      "source": {
-        "name": "CNET"
-      },
-      "description": "Samsung's new book-style foldable phone is making a strong first impression, but I'm still testing h...",
-      "url": "https://www.cnet.com/news-live/my-galaxy-z-fold-8-ongoing-review-as-i-live-with-the-samsungs-passport-foldable/",
-      "publishedAt": "2026-07-24T06:08:32Z",
-      "processed_at": "2026-07-25T16:59:07.283539+00:00"
-    },
-    {
-      "title": "【F】 The Top 5 Omega × Swatch MoonSwatch Models - Fratello Watches",
-      "source": {
-        "name": "Fratellowatches.com"
-      },
-      "description": "✓ We've seen over 30 MoonSwatch models released in the last four years ✓ Check out Fratello's picks ...",
-      "url": "https://www.fratellowatches.com/the-top-5-omega-x-swatch-moonswatch-models/",
-      "publishedAt": "2026-07-24T05:01:54Z",
-      "processed_at": "2026-07-25T16:59:07.283539+00:00"
+      "processed_at": "2026-07-25T18:02:08.801701+00:00"
     }
   ],
-  "lastUpdated": "2026-07-25T16:59:07.283615+00:00",
+  "lastUpdated": "2026-07-25T18:02:08.801771+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
