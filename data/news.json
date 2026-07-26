@@ -1,16 +1,26 @@
 {
   "status": "success",
-  "totalResults": 9,
+  "totalResults": 10,
   "articles": [
     {
-      "title": "Our First Look At Absolute Superman #25, At San Diego Comic-Con - Bleeding Cool News",
+      "title": "ChatGPT now has a space for sharing medical records. Should you? - CBS News",
       "source": {
-        "name": "Bleeding Cool News"
+        "name": "CBS News"
       },
-      "description": "Shown off at the DC Absolute Universe panel at San Diego Comic-Con today were the upcoming twenty-fi...",
-      "url": "https://bleedingcool.com/comics/our-first-look-at-absolute-superman-25-at-san-diego-comic-con/",
-      "publishedAt": "2026-07-25T21:03:13Z",
-      "processed_at": "2026-07-26T22:00:12.582869+00:00"
+      "description": "OpenAI announced a dedicated space in ChatGPT for sharing medical records, Health in ChatGPT. Health...",
+      "url": "https://www.cbsnews.com/news/chatgpt-health-medical-records-advice-expert-risks/",
+      "publishedAt": "2026-07-25T23:10:03Z",
+      "processed_at": "2026-07-26T23:07:01.318842+00:00"
+    },
+    {
+      "title": "'If People Want That, I Think Companies Should Provide It' — Rockstar Co-Founder Shares His Thoughts on the Conversation Around Physical Game Releases - IGN",
+      "source": {
+        "name": "IGN"
+      },
+      "description": "Rockstar Games co-founder Dan Houser believes that, if players want their games released on physical...",
+      "url": "https://www.ign.com/articles/rockstar-co-founder-says-if-people-want-physical-game-releases-then-companies-should-provide-it",
+      "publishedAt": "2026-07-25T22:56:51Z",
+      "processed_at": "2026-07-26T23:07:01.318842+00:00"
     },
     {
       "title": "Sony Reon Pocket Pro Plus Air Conditioner Arrives In U.S. To Beat Summer Heatwaves - Forbes",
@@ -20,7 +30,27 @@
       "description": "As another heat dome is predicted in the U.S., Sony’s wearable air conditioner has just arrived. Her...",
       "url": "https://www.forbes.com/sites/davidphelan/2026/07/25/sony-reon-pocket-pro-plus-air-conditioner-arrives-in-us-to-beat-summer-heatwaves/",
       "publishedAt": "2026-07-25T21:03:00Z",
-      "processed_at": "2026-07-26T22:00:12.582869+00:00"
+      "processed_at": "2026-07-26T23:07:01.318842+00:00"
+    },
+    {
+      "title": "Warren Spector’s Thick As Thieves Ends Support After Two Months - Kotaku",
+      "source": {
+        "name": "Kotaku"
+      },
+      "description": "After significant layoffs at the studio, the leaner Thief successor is hoping to continue with peer-...",
+      "url": "https://kotaku.com/warren-spectors-thick-as-thieves-ends-support-after-two-months-2000719337",
+      "publishedAt": "2026-07-25T21:02:55Z",
+      "processed_at": "2026-07-26T23:07:01.318842+00:00"
+    },
+    {
+      "title": "The Tactical Tank Turns Splatoon Raiders Into Vampire Survivors - Kotaku",
+      "source": {
+        "name": "Kotaku"
+      },
+      "description": "Nothing sizzles quite like fashioning a biblically accurate balloon animal and watching it become a ...",
+      "url": "https://kotaku.com/the-tactical-tank-turns-splatoon-raiders-into-vampire-survivors-2000719331",
+      "publishedAt": "2026-07-25T20:23:00Z",
+      "processed_at": "2026-07-26T23:07:01.318842+00:00"
     },
     {
       "title": "Google basically confirms the Pixel 11 is getting a price hike - The Verge",
@@ -30,7 +60,7 @@
       "description": "The Pixel 11 is just the latest victim of RAMageddon as Google all but confirms a price hike....",
       "url": "https://www.theverge.com/tech/971041/google-confirms-pixel-11-price-hike",
       "publishedAt": "2026-07-25T18:13:36Z",
-      "processed_at": "2026-07-26T22:00:12.582869+00:00"
+      "processed_at": "2026-07-26T23:07:01.318842+00:00"
     },
     {
       "title": "Rare Nintendo Console Discovered Throughout Japanese Love Hotel - Kotaku",
@@ -40,7 +70,7 @@
       "description": "Each room in an unnamed hourly establishment was outfitted with a fully functioning 'Famicombox,' re...",
       "url": "https://kotaku.com/rare-nintendo-console-discovered-throughout-japanese-love-hotel-2000719317",
       "publishedAt": "2026-07-25T18:08:45Z",
-      "processed_at": "2026-07-26T22:00:12.582869+00:00"
+      "processed_at": "2026-07-26T23:07:01.318842+00:00"
     },
     {
       "title": "iPhone 18 won’t debut this fall, here’s why - 9to5Mac",
@@ -50,7 +80,7 @@
       "description": "We’re about two months away from Apple’s annual iPhone debut in September. This year, though, will b...",
       "url": "https://9to5mac.com/2026/07/25/heres-why-iphone-18-wont-launch-in-september/",
       "publishedAt": "2026-07-25T17:35:00Z",
-      "processed_at": "2026-07-26T22:00:12.582869+00:00"
+      "processed_at": "2026-07-26T23:07:01.318842+00:00"
     },
     {
       "title": "The Nintendo Switch 2 has finally justified its existence - Polygon.com",
@@ -60,40 +90,20 @@
       "description": "Donkey Kong Bananza, Kirby Air Riders, and Splatoon Raiders all show us what Nintendo is able to do ...",
       "url": "https://www.polygon.com/nintendo-switch-2-tech-boost-splatoon-raiders/",
       "publishedAt": "2026-07-25T16:00:11Z",
-      "processed_at": "2026-07-26T22:00:12.582869+00:00"
+      "processed_at": "2026-07-26T23:07:01.318842+00:00"
     },
     {
-      "title": "Six Years Ago, I Indulged My Husband’s Biggest Fantasy. Now It’s Eating Me Alive. - Slate",
+      "title": "Librarians are hosting viral ‘Avoiding AI’ workshops for people who are fed up with Big Tech - TechCrunch",
       "source": {
-        "name": "Slate Magazine"
+        "name": "TechCrunch"
       },
-      "description": "Once ... just once ... I'd like to try anything else....",
-      "url": "https://slate.com/advice/2026/07/male-advice-fantasy-men-lingerie-cross-dressing.html",
+      "description": "At libraries around the country, \"Avoiding AI\" workshops have elicited unprecedented demand....",
+      "url": "https://techcrunch.com/2026/07/25/librarians-are-hosting-viral-avoiding-ai-workshops-for-people-who-are-fed-up-with-big-tech/",
       "publishedAt": "2026-07-25T16:00:00Z",
-      "processed_at": "2026-07-26T22:00:12.582869+00:00"
-    },
-    {
-      "title": "Castlevania: Belmont's Curse Will Run At 30fps On Switch - Nintendo Life",
-      "source": {
-        "name": "Nintendo Life"
-      },
-      "description": "Konami's 2D action-exploration game arrives this October...",
-      "url": "https://www.nintendolife.com/news/2026/07/castlevania-belmonts-curse-will-run-at-30fps-on-switch",
-      "publishedAt": "2026-07-25T15:20:09Z",
-      "processed_at": "2026-07-26T22:00:12.582869+00:00"
-    },
-    {
-      "title": "LG users complain about unwanted ads on TVs and gaming monitors - Mashable",
-      "source": {
-        "name": "Mashable"
-      },
-      "description": "Even Microsoft is irked by LG's advertising....",
-      "url": "https://mashable.com/tech/lg-customers-complain-about-unwanted-ads-tvs-gaming-monitors",
-      "publishedAt": "2026-07-25T14:32:30Z",
-      "processed_at": "2026-07-26T22:00:12.582869+00:00"
+      "processed_at": "2026-07-26T23:07:01.318842+00:00"
     }
   ],
-  "lastUpdated": "2026-07-26T22:00:12.582945+00:00",
+  "lastUpdated": "2026-07-26T23:07:01.318898+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
