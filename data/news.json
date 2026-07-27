@@ -3,6 +3,26 @@
   "totalResults": 9,
   "articles": [
     {
+      "title": "Jackery FridgeGuard review: Keep your refrigerator cooling during an outage - Mashable",
+      "source": {
+        "name": "Mashable"
+      },
+      "description": "Rest easy the fridge will keep cooling during the next power outage with zero effort on your part....",
+      "url": "https://mashable.com/tech/jackery-fridgeguard-review",
+      "publishedAt": "2026-07-26T21:03:43Z",
+      "processed_at": "2026-07-27T22:08:35.085558+00:00"
+    },
+    {
+      "title": "Apple is banking on privacy to set its smart glasses apart - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "They’re expected be revealed next June at WWDC....",
+      "url": "https://www.theverge.com/tech/971101/apple-smart-glasses-privacy",
+      "publishedAt": "2026-07-26T19:36:38Z",
+      "processed_at": "2026-07-27T22:08:35.085558+00:00"
+    },
+    {
       "title": "Angry PlayStation Fans Propose PS5 Blackout in Protest of Sony's Disc Decision - Push Square",
       "source": {
         "name": "Push Square"
@@ -10,17 +30,7 @@
       "description": "Unplug your consoles for a week in August...",
       "url": "https://www.pushsquare.com/news/2026/07/angry-playstation-fans-propose-ps5-blackout-in-protest-of-sonys-disc-decision",
       "publishedAt": "2026-07-26T18:59:15Z",
-      "processed_at": "2026-07-27T20:23:05.481427+00:00"
-    },
-    {
-      "title": "Apple’s Smart Glasses Will Need to Overcome Meta’s Privacy Reputation - Bloomberg.com",
-      "source": {
-        "name": "Bloomberg"
-      },
-      "description": "Company debated whether glasses will be able to record video....",
-      "url": "https://www.bloomberg.com/news/newsletters/2026-07-26/apple-glasses-may-debut-at-wwdc-2027-privacy-camera-features-versus-meta-ms1v7lta",
-      "publishedAt": "2026-07-26T18:31:17Z",
-      "processed_at": "2026-07-27T20:23:05.481427+00:00"
+      "processed_at": "2026-07-27T22:08:35.085558+00:00"
     },
     {
       "title": "6 Cool New Gadgets For Cleaning Your Car - bgr.com",
@@ -30,17 +40,27 @@
       "description": "These gadgets are great for cleaning your car, from powerful vacuums and detailing tools to clever a...",
       "url": "https://www.bgr.com/2221979/cool-new-gadgets-cleaning-your-car/",
       "publishedAt": "2026-07-26T18:02:00Z",
-      "processed_at": "2026-07-27T20:23:05.481427+00:00"
+      "processed_at": "2026-07-27T22:08:35.085558+00:00"
     },
     {
-      "title": "Big PlayStation Game Sale Is A Perfect Chance To Build Up Your Physical Collection Before Sony Kills Discs - Kotaku",
+      "title": "The next Kratos God of War game will follow and connect to Laufey, says Cory Barlog - Eurogamer.net",
       "source": {
-        "name": "Kotaku"
+        "name": "Eurogamer.net"
       },
-      "description": "Critically-acclaimed exclusives are super discounted right now...",
-      "url": "https://kotaku.com/big-playstation-game-sale-is-a-perfect-chance-to-build-up-your-physical-collection-before-sony-kills-discs-2000719394",
-      "publishedAt": "2026-07-26T17:13:58Z",
-      "processed_at": "2026-07-27T20:23:05.481427+00:00"
+      "description": "Talking at a panel at San Diego Comic-Con, Barlog revealed that \"everything\" the team at Santa Monic...",
+      "url": "https://www.eurogamer.net/kratos-god-of-war-links-directly-to-laufey",
+      "publishedAt": "2026-07-26T17:27:52Z",
+      "processed_at": "2026-07-27T22:08:35.085558+00:00"
+    },
+    {
+      "title": "5 British Car Brands You've Probably Never Seen On American Highways - Jalopnik",
+      "source": {
+        "name": "Jalopnik"
+      },
+      "description": "Ever seen a wooden chassis? Here are the most fascinating and obscure British car brands you won't s...",
+      "url": "https://www.jalopnik.com/2220615/british-car-brands-never-seen-on-american-highways/",
+      "publishedAt": "2026-07-26T16:25:00Z",
+      "processed_at": "2026-07-27T22:08:35.085558+00:00"
     },
     {
       "title": "AI devices that see, listen and record: Are we ready for the post-smartphone world? - CNN",
@@ -50,7 +70,7 @@
       "description": "Picture this: On a normal workday, you and your coworkers walk around the office with tiny recorders...",
       "url": "https://www.cnn.com/2026/07/26/tech/ai-devices-see-listen-record-meta-amazon-plaud",
       "publishedAt": "2026-07-26T16:00:25Z",
-      "processed_at": "2026-07-27T20:23:05.481427+00:00"
+      "processed_at": "2026-07-27T22:08:35.085558+00:00"
     },
     {
       "title": "007 First Light's first major patch is here – and it's a doozy if you're playing on PS5 - Eurogamer.net",
@@ -60,7 +80,7 @@
       "description": "007 First Light's first major post-launch update, Patch 1.1.0, is here, introducing \"fixes and impro...",
       "url": "https://www.eurogamer.net/007-first-light-first-major-patch-details",
       "publishedAt": "2026-07-26T15:44:24Z",
-      "processed_at": "2026-07-27T20:23:05.481427+00:00"
+      "processed_at": "2026-07-27T22:08:35.085558+00:00"
     },
     {
       "title": "\"KVM Chainsaw\" Expected To Hit Linux 7.3 For Dealing With God Data Structure - Phoronix",
@@ -70,30 +90,10 @@
       "description": "A patch series that appears destined for the upcoming Linux 7.3 merge window is what's dubbed the 'K...",
       "url": "https://www.phoronix.com/news/KVM-Chainsaw-Linux-7.3",
       "publishedAt": "2026-07-26T15:32:00Z",
-      "processed_at": "2026-07-27T20:23:05.481427+00:00"
-    },
-    {
-      "title": "'Apple Upgrade' Program Launching on Tuesday - MacRumors",
-      "source": {
-        "name": "MacRumors"
-      },
-      "description": "In his newsletter today, Bloomberg's Mark Gurman reiterated that a new \"Apple Upgrade\" program is se...",
-      "url": "https://www.macrumors.com/2026/07/26/apple-upgrade-program-launching-tuesday/",
-      "publishedAt": "2026-07-26T15:20:00Z",
-      "processed_at": "2026-07-27T20:23:05.481427+00:00"
-    },
-    {
-      "title": "I finally found a Google Photos alternative worth switching to - Android Police",
-      "source": {
-        "name": "Android Police"
-      },
-      "description": "It gave me something Google Photos never could...",
-      "url": "https://www.androidpolice.com/i-finally-found-google-photos-alternative-worth-switching-to/",
-      "publishedAt": "2026-07-26T15:15:15Z",
-      "processed_at": "2026-07-27T20:23:05.481427+00:00"
+      "processed_at": "2026-07-27T22:08:35.085558+00:00"
     }
   ],
-  "lastUpdated": "2026-07-27T20:23:05.481526+00:00",
+  "lastUpdated": "2026-07-27T22:08:35.085631+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
