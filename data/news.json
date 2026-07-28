@@ -1,109 +1,99 @@
 {
   "status": "success",
-  "totalResults": 10,
+  "totalResults": 9,
   "articles": [
     {
-      "title": "Framework Laptop 13 Pro review: Much better battery, much worse price - Ars Technica",
+      "title": "Experts warn current Starship heat shield tech is a \"dead end\" for rapid reuse - Ars Technica",
       "source": {
         "name": "Ars Technica"
       },
-      "description": "Framework's latest modular laptop trades one set of problems for another....",
-      "url": "https://arstechnica.com/gadgets/2026/07/framework-laptop-13-pro-review-much-better-battery-much-worse-price/",
-      "publishedAt": "2026-07-27T15:02:45Z",
-      "processed_at": "2026-07-28T17:35:31.390631+00:00"
+      "description": "NASA has not made substantial investments in thermal protection research for decades....",
+      "url": "https://arstechnica.com/space/2026/07/despite-recent-successes-rapid-reuse-of-starship-remains-a-tough-nut-to-crack/",
+      "publishedAt": "2026-07-27T18:34:40Z",
+      "processed_at": "2026-07-28T19:25:44.116655+00:00"
     },
     {
-      "title": "Play More Ubisoft Games on PC: New Content Now Available for XBOX on PC, Plus Free PC Redemption - XBOX Wire",
+      "title": "Microsoft launches its first cybersecurity model, plus a new agentic cybersecurity system - TechCrunch",
       "source": {
-        "name": "Xbox.com"
+        "name": "TechCrunch"
       },
-      "description": "Ubisoft and XBOX are expanding their partnership with new Ubisoft content for XBOX on PC, and a free...",
-      "url": "https://news.xbox.com/en-us/2026/07/27/ubisoft-xbox-pc/",
-      "publishedAt": "2026-07-27T15:00:21Z",
-      "processed_at": "2026-07-28T17:35:31.390631+00:00"
+      "description": "Microsoft bolstered its AI cybersecurity offerings this week with the launch of its first AI securit...",
+      "url": "https://techcrunch.com/2026/07/27/microsoft-launches-its-first-cyber-model-and-a-new-agentic-cybersecurity-system/",
+      "publishedAt": "2026-07-27T18:32:11Z",
+      "processed_at": "2026-07-28T19:25:44.116655+00:00"
     },
     {
-      "title": "Aviate, Android’s answer to Flighty, is now available to download - 9to5Google",
+      "title": "Apple Releases iOS 26.6 and iPadOS 26.6 With iOS 27 Optimizations - MacRumors",
+      "source": {
+        "name": "MacRumors"
+      },
+      "description": "Apple today released iOS 26.6 and iPadOS 26.6, updates to the iOS and iPadOS 26 operating systems th...",
+      "url": "https://www.macrumors.com/2026/07/27/apple-releases-ios-26-6/",
+      "publishedAt": "2026-07-27T17:27:06Z",
+      "processed_at": "2026-07-28T19:25:44.116655+00:00"
+    },
+    {
+      "title": "Users’ seemingly private conversations with Anthropic’s Claude showed up in Google search results - Fortune",
+      "source": {
+        "name": "Fortune"
+      },
+      "description": "The topics of the chats, which seem to have been inadvertently exposed, ranged from erotica to progr...",
+      "url": "https://fortune.com/2026/07/27/a-trove-of-users-seemingly-private-conversations-with-anthropics-claude-ai-chatbot-showed-up-in-google-search-results/",
+      "publishedAt": "2026-07-27T17:20:00Z",
+      "processed_at": "2026-07-28T19:25:44.116655+00:00"
+    },
+    {
+      "title": "The 'it' toy for Christmas 2026 dropped today (and it'll probably sell out soon) - USA Today",
+      "source": {
+        "name": "USA Today"
+      },
+      "description": "The Toniebox Lite just launched, offering a smaller and cheaper way for kids to enjoy screen-free en...",
+      "url": "https://www.usatoday.com/story/shopping/parenting/2026/07/27/kids-are-obsessed-with-the-toniebox-and-it-just-got-smaller-and-cheaper/91063319007/",
+      "publishedAt": "2026-07-27T16:59:00Z",
+      "processed_at": "2026-07-28T19:25:44.116655+00:00"
+    },
+    {
+      "title": "Xbox Outage Locks Players out of Games and Accounts for Over 12 Hours - TechPowerUp",
+      "source": {
+        "name": "Techpowerup.com"
+      },
+      "description": "Following a similar story relating to PlayStation Account server errors just a few days prior, on th...",
+      "url": "https://www.techpowerup.com/351116/xbox-outage-locks-players-out-of-games-and-accounts-for-over-12-hours",
+      "publishedAt": "2026-07-27T16:58:42Z",
+      "processed_at": "2026-07-28T19:25:44.116655+00:00"
+    },
+    {
+      "title": "Huge PS5 game sale will help you stock up on physical discs before they disappear - Polygon.com",
+      "source": {
+        "name": "Polygon"
+      },
+      "description": "From Marvel's Spider-Man to God of War, the sale includes a ton of PS5 first-party bangers via some ...",
+      "url": "https://www.polygon.com/ps5-spider-man-ghost-tsushima-game-sales-amazon-best-buy-gamestop/",
+      "publishedAt": "2026-07-27T16:50:11Z",
+      "processed_at": "2026-07-28T19:25:44.116655+00:00"
+    },
+    {
+      "title": "Samsung teases Android XR glasses with phone & watch integration, ‘reasonable’ price - 9to5Google",
       "source": {
         "name": "9to5google.com"
       },
-      "description": "Aviate, the flight tracking application that aims to be a full rebuttal to iPhone's Flighty tracker,...",
-      "url": "http://9to5google.com/2026/07/27/aviate-androids-answer-to-flighty-is-now-available-to-download/",
-      "publishedAt": "2026-07-27T14:44:00Z",
-      "processed_at": "2026-07-28T17:35:31.390631+00:00"
+      "description": "Following a partial unveiling at its Unpacked event last week, Samsung is teasing some further detai...",
+      "url": "http://9to5google.com/2026/07/27/samsung-android-xr-glasses-integration-price-tease/",
+      "publishedAt": "2026-07-27T16:45:00Z",
+      "processed_at": "2026-07-28T19:25:44.116655+00:00"
     },
     {
-      "title": "Game Pass Was Supposed To Save Xbox – Instead, It’s Killing the Company - IGN",
+      "title": "Fable PS5 Has Run 'Uncomfortably Beyond Budget', Sources Claim - Push Square",
       "source": {
-        "name": "IGN"
+        "name": "Push Square"
       },
-      "description": "Game Pass was supposed to be the all-you-can-play subscription service that put Xbox on top after a ...",
-      "url": "https://www.ign.com/articles/game-pass-was-supposed-to-save-xbox-instead-its-killing-the-company",
-      "publishedAt": "2026-07-27T14:30:00Z",
-      "processed_at": "2026-07-28T17:35:31.390631+00:00"
-    },
-    {
-      "title": "Samsung’s entire 2027 Galaxy flagship lineup leaks with TriFold return, more - 9to5Google",
-      "source": {
-        "name": "9to5google.com"
-      },
-      "description": "A reliable source has just detailed Samsung’s entire 2027 lineup of flagship Galaxy phones, which in...",
-      "url": "http://9to5google.com/2026/07/27/samsung-galaxy-flagship-2027-leaks/",
-      "publishedAt": "2026-07-27T14:05:00Z",
-      "processed_at": "2026-07-28T17:35:31.390631+00:00"
-    },
-    {
-      "title": "Poll: What Review Score Would You Give Splatoon Raiders? - Nintendo Life",
-      "source": {
-        "name": "Nintendo Life"
-      },
-      "description": "Feel Good Ink...",
-      "url": "https://www.nintendolife.com/features/poll-what-review-score-would-you-give-splatoon-raiders",
-      "publishedAt": "2026-07-27T14:00:00Z",
-      "processed_at": "2026-07-28T17:35:31.390631+00:00"
-    },
-    {
-      "title": "Cleanse the Mortal Realms with the new Warhammer Heroes - Warhammer Community",
-      "source": {
-        "name": "Warhammer-community.com"
-      },
-      "description": "The new season of Warhammer Heroes miniatures is revealed....",
-      "url": "https://www.warhammer-community.com/articles/jgxqfhcz/cleanse-the-mortal-realms-with-the-new-warhammer-heroes",
-      "publishedAt": "2026-07-27T13:58:11Z",
-      "processed_at": "2026-07-28T17:35:31.390631+00:00"
-    },
-    {
-      "title": "Tons of Peoples’ Claude Chats and Creations are Exposed on Google - 404 Media",
-      "source": {
-        "name": "404media.co"
-      },
-      "description": "Claude users are creating public share links, but probably don't realize that means their chats are ...",
-      "url": "https://www.404media.co/tons-of-peoples-claude-chats-and-creations-are-exposed-on-google/",
-      "publishedAt": "2026-07-27T13:51:35Z",
-      "processed_at": "2026-07-28T17:35:31.390631+00:00"
-    },
-    {
-      "title": "Xbox service is down, with outages meaning players can't play any digital or physical games, after similar PlayStation Network issues last week - Eurogamer.net",
-      "source": {
-        "name": "Eurogamer.net"
-      },
-      "description": "Shortly after PlayStation Network's outage last week, Xbox's online services are facing trouble too,...",
-      "url": "https://www.eurogamer.net/xbox-outage-july-2026",
-      "publishedAt": "2026-07-27T13:26:55Z",
-      "processed_at": "2026-07-28T17:35:31.390631+00:00"
-    },
-    {
-      "title": "Fit For a Spartan: Win a 1:18 Replica of a Special Halo-Inspired Ride - XBOX Wire",
-      "source": {
-        "name": "Xbox.com"
-      },
-      "description": "To celebrate the global launch of Halo: Campaign Evolved, Halo and Automobili Lamborghini have joine...",
-      "url": "https://news.xbox.com/en-us/2026/07/27/halo-master-chief-inspired-car-replica-sweepstakes-giveaway/",
-      "publishedAt": "2026-07-27T13:00:21Z",
-      "processed_at": "2026-07-28T17:35:31.390631+00:00"
+      "description": "God of War Laufey invades RPG's \"dedicated moment\"...",
+      "url": "https://www.pushsquare.com/news/2026/07/fable-ps5-has-run-uncomfortably-beyond-budget-sources-claim",
+      "publishedAt": "2026-07-27T16:30:00Z",
+      "processed_at": "2026-07-28T19:25:44.116655+00:00"
     }
   ],
-  "lastUpdated": "2026-07-28T17:35:31.390713+00:00",
+  "lastUpdated": "2026-07-28T19:25:44.116730+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
