@@ -1,89 +1,109 @@
 {
   "status": "success",
-  "totalResults": 8,
+  "totalResults": 10,
   "articles": [
     {
-      "title": "PlayStation Veteran Explains Why Sony Closed Japan Studio - Kotaku",
+      "title": "New data suggests layoffs will affect 14,259 people by the end of 2026, up 78% from first forecast of the year - GamesIndustry.biz",
       "source": {
-        "name": "Kotaku"
+        "name": "GamesIndustry.biz"
       },
-      "description": "Even SIE's former president, Shuhei Yoshida, thinks its 'unbelievable' that the company chose to shu...",
-      "url": "https://kotaku.com/playstation-veteran-says-japan-studio-was-closed-because-it-couldnt-make-games-that-drive-hardware-sales-like-god-of-war-or-uncharted-2000719737",
-      "publishedAt": "2026-07-28T11:32:32Z",
-      "processed_at": "2026-07-29T14:11:44.299999+00:00"
+      "description": "\"The pace of layoffs is accelerating faster than our models initially predicted\"...",
+      "url": "https://www.gamesindustry.biz/new-data-suggests-layoffs-will-affect-14259-people-by-the-end-of-2026-up-78-from-first-forecast-of-the-year",
+      "publishedAt": "2026-07-28T13:44:03Z",
+      "processed_at": "2026-07-29T16:21:51.289504+00:00"
     },
     {
-      "title": "What your internet provider, websites and advertisers see - Fox News",
+      "title": "Google Pixel 11 leak details battery sizes & where some prices will technically drop - 9to5Google",
       "source": {
-        "name": "Fox News"
+        "name": "9to5google.com"
       },
-      "description": "Your internet provider, websites and advertisers can track your browsing activity even without you p...",
-      "url": "https://www.foxnews.com/tech/what-your-internet-provider-websites-advertisers-see",
-      "publishedAt": "2026-07-28T11:08:24Z",
-      "processed_at": "2026-07-29T14:11:44.299999+00:00"
+      "description": "As if we’ve not seen enough already, yet another leak is reiterating some Pixel 11 details, includin...",
+      "url": "http://9to5google.com/2026/07/28/google-pixel-11-battery-size-uk-price-leak/",
+      "publishedAt": "2026-07-28T13:30:00Z",
+      "processed_at": "2026-07-29T16:21:51.289504+00:00"
     },
     {
-      "title": "Polar bear pulls seal pup onto ice then backs away. The reason why is extraordinary - BBC Wildlife Magazine",
+      "title": "Pokémon GO Fest: Mega Finale Announced - Pokémon GO Hub",
       "source": {
-        "name": "Discoverwildlife.com"
+        "name": "Pokemon GO Hub"
       },
-      "description": "Mother seals usually stay close to their pups and this polar bear tried to use that fact to its adva...",
-      "url": "https://www.discoverwildlife.com/animal-facts/polar-bear-seal-pup-svalbard",
-      "publishedAt": "2026-07-28T08:53:44Z",
-      "processed_at": "2026-07-29T14:11:44.299999+00:00"
+      "description": "Just when you thought Pokémon GO Fest was over for another year, it turns out one more global advent...",
+      "url": "https://pokemongohub.net/post/event/pokemon-go-fest-mega-finale-announced/",
+      "publishedAt": "2026-07-28T13:11:50Z",
+      "processed_at": "2026-07-29T16:21:51.289504+00:00"
     },
     {
-      "title": "Microsoft Says New Cybersecurity AI Model Helps MDASH Score 95.95% at Half the Cost - The Hacker News",
-      "source": {
-        "name": "Internet"
-      },
-      "description": "Microsoft launches MAI-Cyber-1-Flash inside MDASH, routing up to 90% of tasks to the model while GPT...",
-      "url": "https://thehackernews.com/2026/07/microsoft-says-new-cybersecurity-ai.html",
-      "publishedAt": "2026-07-28T06:07:00Z",
-      "processed_at": "2026-07-29T14:11:44.299999+00:00"
-    },
-    {
-      "title": "Hugging Face Has a Deepfake Nudes Problem - WIRED",
-      "source": {
-        "name": "Wired"
-      },
-      "description": "Researchers tested top image editing models on Hugging Face and found they could easily create expli...",
-      "url": "https://www.wired.com/story/hugging-face-has-a-nonconsensual-deepfakes-problem/",
-      "publishedAt": "2026-07-28T05:30:00Z",
-      "processed_at": "2026-07-29T14:11:44.299999+00:00"
-    },
-    {
-      "title": "Ubisoft Adds Free PC License to Xbox Digital Game Purchases - TechPowerUp",
-      "source": {
-        "name": "Techpowerup.com"
-      },
-      "description": "There has been a lot of talk recently about both the merit of platform exclusive games and digital g...",
-      "url": "https://www.techpowerup.com/351127/ubisoft-adds-free-pc-license-to-xbox-digital-game-purchases",
-      "publishedAt": "2026-07-27T23:38:27Z",
-      "processed_at": "2026-07-29T14:11:44.299999+00:00"
-    },
-    {
-      "title": "Apple's 2026 and 2027 Mac Roadmap: Every Model and When It Ships - MacRumors",
-      "source": {
-        "name": "MacRumors"
-      },
-      "description": "A shortage of memory chips has impacted the entire computer market, affecting Macs and PCs alike. Ap...",
-      "url": "https://www.macrumors.com/2026/07/27/mac-roadmap-2026/",
-      "publishedAt": "2026-07-27T22:48:41Z",
-      "processed_at": "2026-07-29T14:11:44.299999+00:00"
-    },
-    {
-      "title": "Nintendo just debuted maybe the hardest boss in its 136-year history - Polygon.com",
+      "title": "15 years ago, 4 letters changed Magic forever — and one new ability backfired - Polygon.com",
       "source": {
         "name": "Polygon"
       },
-      "description": "Splatoon Raiders' hardest boss fight is against a tiny villain, and the Splatoon community is loving...",
-      "url": "https://www.polygon.com/splatoon-raiders-pudyin-den-smallfry-fight/",
-      "publishedAt": "2026-07-27T22:00:12Z",
-      "processed_at": "2026-07-29T14:11:44.299999+00:00"
+      "description": "Magic 2012 introduced a revolutionary new term, but its other major innovation proved too powerful f...",
+      "url": "https://www.polygon.com/mtg-magic-2012-15th-anniversary-dies-hexproof/",
+      "publishedAt": "2026-07-28T13:00:12Z",
+      "processed_at": "2026-07-29T16:21:51.289504+00:00"
+    },
+    {
+      "title": "Apple Set to Make Big Smart Home Push With Siri AI at Center - Bloomberg",
+      "source": {
+        "name": "Bloomberg"
+      },
+      "description": "Apple Inc., after spending years as a laggard in the smart home market, is preparing a dramatic new ...",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-28/new-apple-tv-4k-box-homepod-mini-and-siri-ai-smart-home-hub-are-coming",
+      "publishedAt": "2026-07-28T13:00:00Z",
+      "processed_at": "2026-07-29T16:21:51.289504+00:00"
+    },
+    {
+      "title": "Microsoft Starts Offering Free PC Versions of Your Ubisoft Games on Xbox - Digital Foundry",
+      "source": {
+        "name": "Digitalfoundry.net"
+      },
+      "description": "Some restrictions apply, read article for details....",
+      "url": "https://www.digitalfoundry.net/news/2026/07/microsoft-starts-offering-free-pc-versions-of-your-ubisoft-games-on-xbox",
+      "publishedAt": "2026-07-28T13:00:00Z",
+      "processed_at": "2026-07-29T16:21:51.289504+00:00"
+    },
+    {
+      "title": "Apple plans to lease iPhones for $17.99 a month through partnership with Klarna - CNBC",
+      "source": {
+        "name": "CNBC"
+      },
+      "description": "Apple is announcing an iPhone lease option weeks after raising iPad and Mac prices due to the global...",
+      "url": "https://www.cnbc.com/2026/07/28/apple-plans-to-lease-iphones-for-17point99-a-month-through-klarna-deal.html",
+      "publishedAt": "2026-07-28T12:18:55Z",
+      "processed_at": "2026-07-29T16:21:51.289504+00:00"
+    },
+    {
+      "title": "Leaks Point to Return of 4GB GPUs as AI Flash Memory Crisis Worsens - Digital Foundry",
+      "source": {
+        "name": "Digitalfoundry.net"
+      },
+      "description": "Welcome back to 2022....",
+      "url": "https://www.digitalfoundry.net/news/2026/07/leaks-point-to-return-of-4gb-gpus-as-ai-flash-memory-crisis-worsens",
+      "publishedAt": "2026-07-28T12:16:00Z",
+      "processed_at": "2026-07-29T16:21:51.289504+00:00"
+    },
+    {
+      "title": "Cyberpunk: Edgerunners was reportedly being turned into a 2.5D brawler by CD Projekt Red and Shantae studio WayForward, but its fate is uncertain - Eurogamer.net",
+      "source": {
+        "name": "Eurogamer.net"
+      },
+      "description": "The spin-off was in development between 2025 and 2026, before layoffs hit the retro-inspired develop...",
+      "url": "https://www.eurogamer.net/cyberpunk-edgerunners-brawler-report",
+      "publishedAt": "2026-07-28T12:06:31Z",
+      "processed_at": "2026-07-29T16:21:51.289504+00:00"
+    },
+    {
+      "title": "MCP just got its biggest update ever — here’s what changes for AI agents - VentureBeat",
+      "source": {
+        "name": "VentureBeat"
+      },
+      "description": "The Model Context Protocol’s biggest update yet makes MCP stateless, strengthens security and govern...",
+      "url": "https://venturebeat.com/infrastructure/mcp-just-got-its-biggest-update-ever-heres-what-changes-for-ai-agents",
+      "publishedAt": "2026-07-28T12:00:00Z",
+      "processed_at": "2026-07-29T16:21:51.289504+00:00"
     }
   ],
-  "lastUpdated": "2026-07-29T14:11:44.300071+00:00",
+  "lastUpdated": "2026-07-29T16:21:51.289583+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
