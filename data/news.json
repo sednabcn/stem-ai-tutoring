@@ -1,7 +1,57 @@
 {
   "status": "success",
-  "totalResults": 8,
+  "totalResults": 9,
   "articles": [
+    {
+      "title": "Pokémon Red And Blue Mod Turns The Game Boy Games Into A Gorgeous 3D Diorama - Kotaku",
+      "source": {
+        "name": "Kotaku"
+      },
+      "description": "The Recompilation Project lets you look at the old games in a new way...",
+      "url": "https://kotaku.com/pokemon-red-blue-recompilation-project-voxel-3d-mod-2000720281",
+      "publishedAt": "2026-07-29T18:45:30Z",
+      "processed_at": "2026-07-30T20:14:53.339563+00:00"
+    },
+    {
+      "title": "What’s the catch with the Apple Upgrade program? - theverge.com",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "Apple has just announced a new program that allows you to lease an iPhone, iPad, Mac, and Apple Watc...",
+      "url": "https://www.theverge.com/tech/972583/apple-upgrade-program-deal",
+      "publishedAt": "2026-07-29T18:40:06Z",
+      "processed_at": "2026-07-30T20:14:53.339563+00:00"
+    },
+    {
+      "title": "One Of The Best Lego Sets Ever Made Is On Sale For Under $50 - Kotaku",
+      "source": {
+        "name": "Kotaku"
+      },
+      "description": "The Lego Game Boy is a masterpiece and so much fun to build...",
+      "url": "https://kotaku.com/one-of-the-best-lego-sets-ever-made-is-on-sale-for-under-50-2000720270",
+      "publishedAt": "2026-07-29T18:30:54Z",
+      "processed_at": "2026-07-30T20:14:53.339563+00:00"
+    },
+    {
+      "title": "All The Video Game Studios That Refuse To Use Generative AI - Aftermath",
+      "source": {
+        "name": "Aftermath.site"
+      },
+      "description": "People made games before it existed, and they'll keep doing so long after its gone...",
+      "url": "https://aftermath.site/video-games-no-ai/",
+      "publishedAt": "2026-07-29T18:27:34Z",
+      "processed_at": "2026-07-30T20:14:53.339563+00:00"
+    },
+    {
+      "title": "This Revelation Should Terrify All Console Fans, Particularly Those Looking Forward to PS6 - Push Square",
+      "source": {
+        "name": "Push Square"
+      },
+      "description": "Xbox losing $150 on each console sold...",
+      "url": "https://www.pushsquare.com/news/2026/07/this-revelation-should-terrify-all-console-fans-particularly-those-looking-forward-to-ps6",
+      "publishedAt": "2026-07-29T17:00:00Z",
+      "processed_at": "2026-07-30T20:14:53.339563+00:00"
+    },
     {
       "title": "Early Data Suggests Unspectacular Start for Halo on PS5 - pushsquare.com",
       "source": {
@@ -10,7 +60,7 @@
       "description": "But story still to be written...",
       "url": "https://www.pushsquare.com/news/2026/07/early-data-suggests-unspectacular-start-for-halo-on-ps5",
       "publishedAt": "2026-07-29T16:42:50Z",
-      "processed_at": "2026-07-30T18:17:08.428829+00:00"
+      "processed_at": "2026-07-30T20:14:53.339563+00:00"
     },
     {
       "title": "Apple One’s high-end tier is getting harder to resist in iOS 27 - 9to5mac.com",
@@ -20,7 +70,7 @@
       "description": "Apple One offers a bundle of popular Apple services at a discount, and in iOS 27 the high-end Premie...",
       "url": "https://9to5mac.com/2026/07/29/apple-ones-high-end-tier-is-getting-harder-to-resist-in-ios-27/",
       "publishedAt": "2026-07-29T16:34:00Z",
-      "processed_at": "2026-07-30T18:17:08.428829+00:00"
+      "processed_at": "2026-07-30T20:14:53.339563+00:00"
     },
     {
       "title": "‘Fable’ May Be The Last Straw For Day One On Xbox Game Pass - Forbes",
@@ -30,7 +80,7 @@
       "description": "Fable is Microsoft's biggest release in years, but will strain the concept of \"day one on Xbox Game ...",
       "url": "https://www.forbes.com/sites/paultassi/2026/07/29/fable-may-be-the-last-straw-for-day-one-on-xbox-game-pass/",
       "publishedAt": "2026-07-29T15:59:39Z",
-      "processed_at": "2026-07-30T18:17:08.428829+00:00"
+      "processed_at": "2026-07-30T20:14:53.339563+00:00"
     },
     {
       "title": "Xenoblade Chronicles 2 Nintendo Switch 2 players discover that one of the game's biggest issues has now been fixed - Nintendo Everything",
@@ -40,50 +90,10 @@
       "description": "Fans discovered that the just-launched Xenoblade Chronicles 2 - Nintendo Switch 2 Edition fixed one ...",
       "url": "https://nintendoeverything.com/xenoblade-chronicles-2-nintendo-switch-2-players-discover-that-one-of-the-games-biggest-issues-has-now-been-fixed/",
       "publishedAt": "2026-07-29T15:49:08Z",
-      "processed_at": "2026-07-30T18:17:08.428829+00:00"
-    },
-    {
-      "title": "Valve has released the CAD design files for the Steam Machine's exterior, leaving us asking: how long before someone makes a GabeCube skin? - Eurogamer.net",
-      "source": {
-        "name": "Eurogamer.net"
-      },
-      "description": "The release, which has been done under a Creative Commons licence, follows Valve's CAD files for the...",
-      "url": "https://www.eurogamer.net/valve-releases-steam-machine-cad-files",
-      "publishedAt": "2026-07-29T15:45:38Z",
-      "processed_at": "2026-07-30T18:17:08.428829+00:00"
-    },
-    {
-      "title": "Gemini for macOS rolling out voice control and Gboard Rambler-level transcription - 9to5Google",
-      "source": {
-        "name": "9to5google.com"
-      },
-      "description": "After the preview at I/O 2026 in May, Gemini for macOS is now rolling out advanced voice control cap...",
-      "url": "http://9to5google.com/2026/07/29/gemini-mac-voice-control/",
-      "publishedAt": "2026-07-29T15:36:00Z",
-      "processed_at": "2026-07-30T18:17:08.428829+00:00"
-    },
-    {
-      "title": "Google Pixel’s Tensor grows as global smartphone shipments continue to fall - 9to5Google",
-      "source": {
-        "name": "9to5google.com"
-      },
-      "description": "The chipset giants like MediaTek and Qualcomm are facing a drop in shipments as proprietary SoCs fro...",
-      "url": "http://9to5google.com/2026/07/29/google-tensor-shipments-increase/",
-      "publishedAt": "2026-07-29T15:00:00Z",
-      "processed_at": "2026-07-30T18:17:08.428829+00:00"
-    },
-    {
-      "title": "Keychron announces first open-source firmware for gaming mice - Digital Foundry",
-      "source": {
-        "name": "Digitalfoundry.net"
-      },
-      "description": "The equivalent of keyboard projects QMK and ZMK....",
-      "url": "https://www.digitalfoundry.net/news/2026/07/keychron-announces-first-open-source-firmware-for-gaming-mice",
-      "publishedAt": "2026-07-29T15:00:00Z",
-      "processed_at": "2026-07-30T18:17:08.428829+00:00"
+      "processed_at": "2026-07-30T20:14:53.339563+00:00"
     }
   ],
-  "lastUpdated": "2026-07-30T18:17:08.428930+00:00",
+  "lastUpdated": "2026-07-30T20:14:53.339622+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
