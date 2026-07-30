@@ -1,99 +1,89 @@
 {
   "status": "success",
-  "totalResults": 9,
+  "totalResults": 8,
   "articles": [
     {
-      "title": "iOS 27 adds three new iPhone features you’ll use all the time - 9to5Mac",
+      "title": "Early Data Suggests Unspectacular Start for Halo on PS5 - pushsquare.com",
+      "source": {
+        "name": "Push Square"
+      },
+      "description": "But story still to be written...",
+      "url": "https://www.pushsquare.com/news/2026/07/early-data-suggests-unspectacular-start-for-halo-on-ps5",
+      "publishedAt": "2026-07-29T16:42:50Z",
+      "processed_at": "2026-07-30T18:17:08.428829+00:00"
+    },
+    {
+      "title": "Apple One’s high-end tier is getting harder to resist in iOS 27 - 9to5mac.com",
       "source": {
         "name": "9to5Mac"
       },
-      "description": "iOS 27 launches this fall as the next major iPhone update, here are three new features that could be...",
-      "url": "https://9to5mac.com/2026/07/29/ios-27-adds-three-new-iphone-features-youll-use-all-the-time/",
-      "publishedAt": "2026-07-29T14:07:00Z",
-      "processed_at": "2026-07-30T16:27:04.505570+00:00"
+      "description": "Apple One offers a bundle of popular Apple services at a discount, and in iOS 27 the high-end Premie...",
+      "url": "https://9to5mac.com/2026/07/29/apple-ones-high-end-tier-is-getting-harder-to-resist-in-ios-27/",
+      "publishedAt": "2026-07-29T16:34:00Z",
+      "processed_at": "2026-07-30T18:17:08.428829+00:00"
     },
     {
-      "title": "Tentpole Xbox release Halo: Campaign Evolved performs better on the PlayStation 5, with the PS5 Pro providing the best experience - Eurogamer.net",
+      "title": "‘Fable’ May Be The Last Straw For Day One On Xbox Game Pass - Forbes",
+      "source": {
+        "name": "Forbes"
+      },
+      "description": "Fable is Microsoft's biggest release in years, but will strain the concept of \"day one on Xbox Game ...",
+      "url": "https://www.forbes.com/sites/paultassi/2026/07/29/fable-may-be-the-last-straw-for-day-one-on-xbox-game-pass/",
+      "publishedAt": "2026-07-29T15:59:39Z",
+      "processed_at": "2026-07-30T18:17:08.428829+00:00"
+    },
+    {
+      "title": "Xenoblade Chronicles 2 Nintendo Switch 2 players discover that one of the game's biggest issues has now been fixed - Nintendo Everything",
+      "source": {
+        "name": "Nintendoeverything.com"
+      },
+      "description": "Fans discovered that the just-launched Xenoblade Chronicles 2 - Nintendo Switch 2 Edition fixed one ...",
+      "url": "https://nintendoeverything.com/xenoblade-chronicles-2-nintendo-switch-2-players-discover-that-one-of-the-games-biggest-issues-has-now-been-fixed/",
+      "publishedAt": "2026-07-29T15:49:08Z",
+      "processed_at": "2026-07-30T18:17:08.428829+00:00"
+    },
+    {
+      "title": "Valve has released the CAD design files for the Steam Machine's exterior, leaving us asking: how long before someone makes a GabeCube skin? - Eurogamer.net",
       "source": {
         "name": "Eurogamer.net"
       },
-      "description": "According to a new Digital Foundry article, the PS5 version of the game meets Xbox Series X quality,...",
-      "url": "https://www.eurogamer.net/halo-campaign-evolved-performs-better-ps5",
-      "publishedAt": "2026-07-29T13:37:44Z",
-      "processed_at": "2026-07-30T16:27:04.505570+00:00"
+      "description": "The release, which has been done under a Creative Commons licence, follows Valve's CAD files for the...",
+      "url": "https://www.eurogamer.net/valve-releases-steam-machine-cad-files",
+      "publishedAt": "2026-07-29T15:45:38Z",
+      "processed_at": "2026-07-30T18:17:08.428829+00:00"
     },
     {
-      "title": "New GTA 6 Info Coming Soon, It Seems - GameSpot",
+      "title": "Gemini for macOS rolling out voice control and Gboard Rambler-level transcription - 9to5Google",
       "source": {
-        "name": "GameSpot"
+        "name": "9to5google.com"
       },
-      "description": "We could see GTA 6 again soon....",
-      "url": "https://www.gamespot.com/articles/new-gta-6-info-coming-soon-it-seems/",
-      "publishedAt": "2026-07-29T13:02:09Z",
-      "processed_at": "2026-07-30T16:27:04.505570+00:00"
+      "description": "After the preview at I/O 2026 in May, Gemini for macOS is now rolling out advanced voice control cap...",
+      "url": "http://9to5google.com/2026/07/29/gemini-mac-voice-control/",
+      "publishedAt": "2026-07-29T15:36:00Z",
+      "processed_at": "2026-07-30T18:17:08.428829+00:00"
     },
     {
-      "title": "Samsung’s Galaxy Z Fold 8 feels like the future - The Verge",
+      "title": "Google Pixel’s Tensor grows as global smartphone shipments continue to fall - 9to5Google",
       "source": {
-        "name": "The Verge"
+        "name": "9to5google.com"
       },
-      "description": "The Z Fold 8 looks unusual at first, with its squat outer screen, but you get used to it fast — and ...",
-      "url": "https://www.theverge.com/tech/972387/samsung-galaxy-z-fold-8-review",
-      "publishedAt": "2026-07-29T12:22:03Z",
-      "processed_at": "2026-07-30T16:27:04.505570+00:00"
+      "description": "The chipset giants like MediaTek and Qualcomm are facing a drop in shipments as proprietary SoCs fro...",
+      "url": "http://9to5google.com/2026/07/29/google-tensor-shipments-increase/",
+      "publishedAt": "2026-07-29T15:00:00Z",
+      "processed_at": "2026-07-30T18:17:08.428829+00:00"
     },
     {
-      "title": "Clair Obscur: Expedition 33 devs are working on a Nintendo Switch 2 version, but note the \"big technical challenge\" of getting it up and running - Eurogamer.net",
+      "title": "Keychron announces first open-source firmware for gaming mice - Digital Foundry",
       "source": {
-        "name": "Eurogamer.net"
+        "name": "Digitalfoundry.net"
       },
-      "description": "Sandfall Interactive knows there is demand for a Switch 2 version of the breakout RPG, and the studi...",
-      "url": "https://www.eurogamer.net/clair-obscur-expedition-33-sandfall-switch-2-version-technical-challenge",
-      "publishedAt": "2026-07-29T12:01:23Z",
-      "processed_at": "2026-07-30T16:27:04.505570+00:00"
-    },
-    {
-      "title": "Cities: Skylines meets Balatro in a frighteningly good new Steam roguelike - Polygon.com",
-      "source": {
-        "name": "Polygon"
-      },
-      "description": "Combolands combines the combo-chaining thrills of Balatro with the strategic placement of Cities: Sk...",
-      "url": "https://www.polygon.com/combolands-demo-impressions/",
-      "publishedAt": "2026-07-29T12:00:12Z",
-      "processed_at": "2026-07-30T16:27:04.505570+00:00"
-    },
-    {
-      "title": "White Dwarf 527: The Inside Scoop on Warhammer 40,000 - Warhammer Community",
-      "source": {
-        "name": "Warhammer-community.com"
-      },
-      "description": "Miniatures and rules for the new edition of Warhammer 40,000, solo missions in the Jade Abbey, and m...",
-      "url": "https://www.warhammer-community.com/articles/qx3hqwpl/white-dwarf-527-the-inside-scoop-on-warhammer-40000",
-      "publishedAt": "2026-07-29T11:58:35Z",
-      "processed_at": "2026-07-30T16:27:04.505570+00:00"
-    },
-    {
-      "title": "Tested: Google SynthID works great, but labeling AI content may be a losing game - Ars Technica",
-      "source": {
-        "name": "Ars Technica"
-      },
-      "description": "Deciding what's real on the Internet won't be easy in the future....",
-      "url": "https://arstechnica.com/ai/2026/07/tested-google-synthid-works-great-but-labeling-ai-content-may-be-a-losing-game/",
-      "publishedAt": "2026-07-29T11:00:39Z",
-      "processed_at": "2026-07-30T16:27:04.505570+00:00"
-    },
-    {
-      "title": "Xbox outage shouldn’t have affected games on disc, Microsoft confirms - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "While physical Xbox game discs are subject to licensing inspections, that shouldn’t have prevented t...",
-      "url": "https://www.theverge.com/games/972416/xbox-outage-game-disc-entitlement-check-issue",
-      "publishedAt": "2026-07-29T10:58:29Z",
-      "processed_at": "2026-07-30T16:27:04.505570+00:00"
+      "description": "The equivalent of keyboard projects QMK and ZMK....",
+      "url": "https://www.digitalfoundry.net/news/2026/07/keychron-announces-first-open-source-firmware-for-gaming-mice",
+      "publishedAt": "2026-07-29T15:00:00Z",
+      "processed_at": "2026-07-30T18:17:08.428829+00:00"
     }
   ],
-  "lastUpdated": "2026-07-30T16:27:04.505646+00:00",
+  "lastUpdated": "2026-07-30T18:17:08.428930+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
