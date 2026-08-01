@@ -3,24 +3,34 @@
   "totalResults": 10,
   "articles": [
     {
-      "title": "Tim Cook says Apple may charge for AI Siri - Axios",
+      "title": "Sony Says It's Not Backing Down From Ending PlayStation Discs - kotaku.com",
       "source": {
-        "name": "Axios"
+        "name": "Kotaku"
       },
-      "description": "Heavy users of Apple Intelligence may need an iCloud+ subscription...",
-      "url": "https://www.axios.com/2026/07/30/tim-cook-apple-may-charge-for-ai-siri",
-      "publishedAt": "2026-07-31T02:36:57Z",
-      "processed_at": "2026-08-01T08:23:59.558392+00:00"
+      "description": "The PS5 maker said it already put a lot of thought into the decision...",
+      "url": "https://kotaku.com/sony-not-budging-on-ending-playstation-discs-in-the-face-of-fan-protests-were-going-to-cautiously-move-this-forward-2000720708",
+      "publishedAt": "2026-07-31T08:12:24Z",
+      "processed_at": "2026-08-01T10:41:19.302534+00:00"
     },
     {
-      "title": "Nintendo Expands Switch 2's GameCube Library With Another Game In August - Nintendo Life",
+      "title": "The Most Polarizing Mario Game Is About To Come To Switch 2 - kotaku.com",
       "source": {
-        "name": "Nintendo Life"
+        "name": "Kotaku"
       },
-      "description": "Return to Isle Delfino in Super Mario Sunshine...",
-      "url": "https://www.nintendolife.com/news/2026/07/nintendo-expands-switch-2s-gamecube-library-with-another-game-in-august",
-      "publishedAt": "2026-07-31T01:05:00Z",
-      "processed_at": "2026-08-01T08:23:59.558392+00:00"
+      "description": "The underrated 3D Mario game will be part of Switch Online's GameCube library...",
+      "url": "https://kotaku.com/super-mario-sunshine-is-coming-to-switch-2-2000720607",
+      "publishedAt": "2026-07-31T04:24:08Z",
+      "processed_at": "2026-08-01T10:41:19.302534+00:00"
+    },
+    {
+      "title": "Tim Cook praises John Ternus again in Apple's Q3 2026 earnings call - mashable.com",
+      "source": {
+        "name": "Mashable"
+      },
+      "description": "The tech giant has been working to ensure a smooth transition for its incoming CEO....",
+      "url": "https://mashable.com/tech/apple-tim-cook-ternus-earnings-call-q3-2026",
+      "publishedAt": "2026-07-31T01:40:08Z",
+      "processed_at": "2026-08-01T10:41:19.302534+00:00"
     },
     {
       "title": "MacBook Ultra's New Design Won't Stay Exclusive for Long - MacRumors",
@@ -30,7 +40,17 @@
       "description": "The touchscreen and the OLED panel have dominated discussion about Apple's next high-end laptop, but...",
       "url": "https://www.macrumors.com/2026/07/30/macbook-ultra-design-wont-stay-exclusive/",
       "publishedAt": "2026-07-31T01:00:00Z",
-      "processed_at": "2026-08-01T08:23:59.558392+00:00"
+      "processed_at": "2026-08-01T10:41:19.302534+00:00"
+    },
+    {
+      "title": "PlayStation 5 Video Games Are Heavily Discounted During Best Buy's Back to School Sale - IGN",
+      "source": {
+        "name": "IGN"
+      },
+      "description": "Several standout games are included....",
+      "url": "https://www.ign.com/articles/best-buy-back-to-school-sale-playstation-5-video-game-deals",
+      "publishedAt": "2026-07-31T00:45:00Z",
+      "processed_at": "2026-08-01T10:41:19.302534+00:00"
     },
     {
       "title": "\"Insane\" demand has the Galaxy Z Fold 8 line generating more pre-orders than the Galaxy S26 series - PhoneArena",
@@ -40,17 +60,17 @@
       "description": "",
       "url": "https://www.phonearena.com/news/galaxy-z-fold-8-series-garners-huge-preorder-totals_id182246",
       "publishedAt": "2026-07-31T00:20:58Z",
-      "processed_at": "2026-08-01T08:23:59.558392+00:00"
+      "processed_at": "2026-08-01T10:41:19.302534+00:00"
     },
     {
-      "title": "Google brings Nano Banana 2 to Google Earth - GSMArena.com news - GSMArena.com",
+      "title": "Tim Cook hints at iCloud Plus tier for AI power users - The Verge",
       "source": {
-        "name": "GSMArena.com"
+        "name": "The Verge"
       },
-      "description": "You can now generate stuff based on Google Earth’s satellite, aerial, and 3D imagery. Google's Nano ...",
-      "url": "https://www.gsmarena.com/google_brings_nano_banana_to_google_earth-news-73947.php",
-      "publishedAt": "2026-07-31T00:07:02Z",
-      "processed_at": "2026-08-01T08:23:59.558392+00:00"
+      "description": "Apple CEO Tim Cook hinted at allowing users to increase their AI usage limits with an iCloud Plus su...",
+      "url": "https://www.theverge.com/tech/973552/apple-ceo-tim-cook-icloud-plus-ai",
+      "publishedAt": "2026-07-30T22:29:45Z",
+      "processed_at": "2026-08-01T10:41:19.302534+00:00"
     },
     {
       "title": "Xbox CEO says the team has one year to start growing again - The Verge",
@@ -60,50 +80,30 @@
       "description": "In a memo obtained by The Verge, CEO Asha Sharma told staff by the end of June 2027, “we will return...",
       "url": "https://www.theverge.com/games/973520/xbox-ceo-memo-one-year-growth",
       "publishedAt": "2026-07-30T22:10:13Z",
-      "processed_at": "2026-08-01T08:23:59.558392+00:00"
+      "processed_at": "2026-08-01T10:41:19.302534+00:00"
     },
     {
-      "title": "Fans Think A Long-Lost Pokémon Game Has Been Found 21 Years Later - kotaku.com",
+      "title": "Gemini Spark can now use Chrome to auto browse, AI Pro access goes international - 9to5google.com",
       "source": {
-        "name": "Kotaku"
+        "name": "9to5google.com"
       },
-      "description": "PokePark Fishing Tournament DS was released for a limited time in 2005 as a download-only game that ...",
-      "url": "https://kotaku.com/pokemon-pokepark-fishing-rally-ds-ebay-listing-game-preservation-2000720552",
-      "publishedAt": "2026-07-30T20:45:21Z",
-      "processed_at": "2026-08-01T08:23:59.558392+00:00"
+      "description": "Gemini Spark is getting two big updates today, starting with Chrome auto browse integration on deskt...",
+      "url": "http://9to5google.com/2026/07/30/gemini-spark-chrome-auto-browse/",
+      "publishedAt": "2026-07-30T20:29:00Z",
+      "processed_at": "2026-08-01T10:41:19.302534+00:00"
     },
     {
-      "title": "The disc is not the game: Physical releases increasingly require extra downloads - Ars Technica",
+      "title": "TAG Heuer Adds Some 1980s Japanese Swagger to the Carrera Chronograph - Gear Patrol",
       "source": {
-        "name": "Ars Technica"
+        "name": "Gear Patrol"
       },
-      "description": "DoesItPlay tracks the many \"physical\" games that don't work without the Internet....",
-      "url": "https://arstechnica.com/gaming/2026/07/the-disc-is-not-the-game-physical-releases-increasingly-require-extra-downloads/",
-      "publishedAt": "2026-07-30T20:12:50Z",
-      "processed_at": "2026-08-01T08:23:59.558392+00:00"
-    },
-    {
-      "title": "Friend, the lonely AI wearable, returns with a new voice and a much bigger price tag - TechCrunch",
-      "source": {
-        "name": "TechCrunch"
-      },
-      "description": "Friend, the AI wearable, can now talk to its users — for an enhanced price....",
-      "url": "https://techcrunch.com/2026/07/30/friend-the-lonely-ai-wearable-returns-with-a-new-voice-and-a-much-bigger-price-tag/",
-      "publishedAt": "2026-07-30T19:44:16Z",
-      "processed_at": "2026-08-01T08:23:59.558392+00:00"
-    },
-    {
-      "title": "Casio’s Tiny Ring Watch Is Now a Full-Blown Oura Alternative - Gizmodo",
-      "source": {
-        "name": "Gizmodo.com"
-      },
-      "description": "The CRW-H001 can track heart rate, blood oxygen, and sleep and vibrate when you receive a notificati...",
-      "url": "https://gizmodo.com/casios-tiny-ring-watch-is-now-a-full-blown-oura-alternative-2000793116",
-      "publishedAt": "2026-07-30T19:30:55Z",
-      "processed_at": "2026-08-01T08:23:59.558392+00:00"
+      "description": "In collaboration with Bamford Watch Dept and Team Ikuzawa racing, the 'Glassbox' Carrera gets a gorg...",
+      "url": "https://www.gearpatrol.com/watches/tag-heuer-carerra-chronograph-team-ikuzawa/",
+      "publishedAt": "2026-07-30T20:24:47Z",
+      "processed_at": "2026-08-01T10:41:19.302534+00:00"
     }
   ],
-  "lastUpdated": "2026-08-01T08:23:59.558462+00:00",
+  "lastUpdated": "2026-08-01T10:41:19.302595+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
