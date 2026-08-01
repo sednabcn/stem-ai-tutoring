@@ -1,99 +1,109 @@
 {
   "status": "success",
-  "totalResults": 9,
+  "totalResults": 10,
   "articles": [
     {
-      "title": "New Google Earth AI tool could fuel misinformation, experts say - BBC",
+      "title": "Google Earth’s AI deepfake tool only lasted one day - The Verge",
       "source": {
-        "name": "BBC News"
+        "name": "The Verge"
       },
-      "description": "Experts tell BBC Verify Google's new feature which lets people generate fake satellite images could ...",
-      "url": "https://www.bbc.com/news/articles/c9349yx2ydvo",
-      "publishedAt": "2026-07-31T16:09:15Z",
-      "processed_at": "2026-08-01T18:02:20.590285+00:00"
+      "description": "Google Earth’s AI image editing tool has been removed, just one day after it launched. Examples onli...",
+      "url": "https://www.theverge.com/tech/973943/google-earth-ai-image-generation-deepfake-tool",
+      "publishedAt": "2026-07-31T19:13:29Z",
+      "processed_at": "2026-08-01T20:10:06.251123+00:00"
     },
     {
-      "title": "This is the ‘Google Pixel Tag’ - 9to5Google",
+      "title": "Meet the Pixel Tag, Google's answer to the AirTag - Android Authority",
+      "source": {
+        "name": "Android Authority"
+      },
+      "description": "Google has its Find Hub tracking network, but has never introduced its own tracking fob. Now that co...",
+      "url": "https://www.androidauthority.com/pixel-tag-leak-3693436/",
+      "publishedAt": "2026-07-31T18:01:00Z",
+      "processed_at": "2026-08-01T20:10:06.251123+00:00"
+    },
+    {
+      "title": "Sony acknowledges backlash, will “cautiously” move forward with end of discs - Ars Technica",
+      "source": {
+        "name": "Ars Technica"
+      },
+      "description": "Sony doesn't think the move will hurt it financially....",
+      "url": "https://arstechnica.com/gaming/2026/07/sony-acknowledges-backlash-will-cautiously-move-forward-with-end-of-discs/",
+      "publishedAt": "2026-07-31T17:07:42Z",
+      "processed_at": "2026-08-01T20:10:06.251123+00:00"
+    },
+    {
+      "title": "Inside Tencent’s Failed Attempt to Take On ‘Grand Theft Auto’ - Bloomberg.com",
+      "source": {
+        "name": "Bloomberg"
+      },
+      "description": "Lightspeed’s Last Sentinel burnt through six years of development and hundreds of millions of dollar...",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-07-31/inside-tencent-s-failed-attempt-to-take-on-grand-theft-auto",
+      "publishedAt": "2026-07-31T17:00:01Z",
+      "processed_at": "2026-08-01T20:10:06.251123+00:00"
+    },
+    {
+      "title": "First Googlebooks from Lenovo leak: Two sizes and 2-in-1 tablet - 9to5Google",
       "source": {
         "name": "9to5google.com"
       },
-      "description": "Ahead of Google’s Pixel 11 launch, 9to5Google has obtained an image of a new tracker called the “Goo...",
-      "url": "http://9to5google.com/2026/07/31/this-is-the-google-pixel-tag/",
-      "publishedAt": "2026-07-31T16:05:00Z",
-      "processed_at": "2026-08-01T18:02:20.590285+00:00"
+      "description": "Ahead of the fall launch, the first set of Googlebooks from Lenovo has leaked. According to images f...",
+      "url": "http://9to5google.com/2026/07/31/googlebook-lenovo-leak/",
+      "publishedAt": "2026-07-31T16:52:00Z",
+      "processed_at": "2026-08-01T20:10:06.251123+00:00"
     },
     {
-      "title": "Apple has five products launching this fall that we’ve waited a long time for - 9to5Mac",
+      "title": "Game Devs Put Together An Itch.io Bundle Of Over 100 Games With Proceeds Going To Help Laid-Off Colleagues - Kotaku",
       "source": {
-        "name": "9to5Mac"
+        "name": "Kotaku"
       },
-      "description": "Apple has a lot of new products launching this fall, including five that have been several years in ...",
-      "url": "https://9to5mac.com/2026/07/31/apple-has-five-products-launching-this-fall-that-weve-waited-a-long-time-for/",
-      "publishedAt": "2026-07-31T15:34:00Z",
-      "processed_at": "2026-08-01T18:02:20.590285+00:00"
+      "description": "The Game Industry Hardship Fund bundle contains over 100 games and will be on sale for the next two ...",
+      "url": "https://kotaku.com/itchio-game-developer-hardship-bundle-necrosoft-games-layoffs-unionization-2000720782",
+      "publishedAt": "2026-07-31T16:04:03Z",
+      "processed_at": "2026-08-01T20:10:06.251123+00:00"
+    },
+    {
+      "title": "Xbox Cloud Gaming update expands Game Pass access to more smart TVs - TrueAchievements",
+      "source": {
+        "name": "TrueAchievements"
+      },
+      "description": "Hisense and certain VIDAA OS-compatible smart TVs now support Xbox Cloud Gaming, which lets Xbox Gam...",
+      "url": "https://www.trueachievements.com/news/xbox-cloud-gaming-update-august-2026",
+      "publishedAt": "2026-07-31T14:49:26Z",
+      "processed_at": "2026-08-01T20:10:06.251123+00:00"
+    },
+    {
+      "title": "Reddit is testing a new way to watch — and listen to — its viral posts - TechCrunch",
+      "source": {
+        "name": "TechCrunch"
+      },
+      "description": "Reddit is developing a new video experience that lets users watch — or simply listen to — its most p...",
+      "url": "https://techcrunch.com/2026/07/31/reddit-is-testing-a-new-way-to-watch-and-listen-to-its-viral-posts/",
+      "publishedAt": "2026-07-31T14:49:21Z",
+      "processed_at": "2026-08-01T20:10:06.251123+00:00"
     },
     {
       "title": "In A 'Who Could Have Possibly Seen This Coming' Event, Ubisoft Will Shut Down Its NFT Game - kotaku.com",
       "source": {
-        "name": "Google News"
+        "name": "Kotaku"
       },
-      "description": "",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRG5TTWplZnIyanhUWGhpcE03QmxFczluZjBSVEhjWVlRUXpScndRbnNsTEwxZ2lja0hHNWF5cTROOEoydFVMUU9jdWhWOWtHSnJQX2lvbHpSS0RHWkhzMVo1TktuLXBVWElLMWNYcXNfd2hlZDZGXzd5d1UwMnF4NHd5UHZFM2FENTRpQVdFdFRKMFdTaEJsOS12N28?oc=5",
+      "description": "Champions Tactics had previously removed its Web3 functionality and will be sunset in October...",
+      "url": "https://kotaku.com/ubisoft-nft-game-shut-down-champions-tactics-might-and-magic-fates-2000720757",
       "publishedAt": "2026-07-31T14:40:24Z",
-      "processed_at": "2026-08-01T18:02:20.590285+00:00"
+      "processed_at": "2026-08-01T20:10:06.251123+00:00"
     },
     {
-      "title": "New set of leaked Pixel 11 marketing images reveals Google's real selling point - PhoneArena",
+      "title": "List of new voice actors for Xenoblade Chronicles 2 – Nintendo Switch 2 Edition - Nintendo Everything",
       "source": {
-        "name": "PhoneArena"
+        "name": "Nintendoeverything.com"
       },
-      "description": "",
-      "url": "https://www.phonearena.com/news/new-set-of-leaked-pixel-11-marketing-images-reveals-googles-real-selling-point_id182273",
-      "publishedAt": "2026-07-31T12:45:49Z",
-      "processed_at": "2026-08-01T18:02:20.590285+00:00"
-    },
-    {
-      "title": "Could Switch 2's The Legend of Zelda: Ocarina of Time remake be squaring up for a GTA 6 head-to-head? Newly sighted amiibo suggest a potential November release - Eurogamer.net",
-      "source": {
-        "name": "Eurogamer.net"
-      },
-      "description": "Despite being announced back in June, Nintendo's Ocarina of Time remake still doesn't have an offici...",
-      "url": "https://www.eurogamer.net/zelda-ocarina-of-time-remake-switch-2-amiibo-november",
-      "publishedAt": "2026-07-31T12:42:19Z",
-      "processed_at": "2026-08-01T18:02:20.590285+00:00"
-    },
-    {
-      "title": "iPhone 18 Pro Models Could Be Up to $300 More Expensive, Says Analyst - MacRumors",
-      "source": {
-        "name": "MacRumors"
-      },
-      "description": "This year's iPhone 18 Pro and iPhone 18 Pro Max could be $250-$300 more expensive than existing iPho...",
-      "url": "https://www.macrumors.com/2026/07/31/iphone-18-pro-models-300-more-expensive/",
-      "publishedAt": "2026-07-31T12:27:01Z",
-      "processed_at": "2026-08-01T18:02:20.590285+00:00"
-    },
-    {
-      "title": "This tattoo is permanent, pain-free, and might soon come in the mail - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "CipherX has launched a new Microdot tattoo patch that offers a pain-free alternative to getting inke...",
-      "url": "https://www.theverge.com/tech/972466/cipherx-permanent-pain-free-tattoo-microdot-patches",
-      "publishedAt": "2026-07-31T12:01:00Z",
-      "processed_at": "2026-08-01T18:02:20.590285+00:00"
-    },
-    {
-      "title": "Sony Heard Backlash Over Dropping PlayStation Discs, Plans to Press Ahead - PCMag",
-      "source": {
-        "name": "PCMag.com"
-      },
-      "description": "Despite boycott threats, Sony says it plans to 'cautiously move this forward.'...",
-      "url": "https://www.pcmag.com/news/sony-heard-backlash-over-dropping-playstation-discs-plans-to-press-ahead",
-      "publishedAt": "2026-07-31T11:45:46Z",
-      "processed_at": "2026-08-01T18:02:20.590285+00:00"
+      "description": "Xenoblade Chronicles 2 introduces new voice characters for its Nintendo Switch 2 Edition...",
+      "url": "https://nintendoeverything.com/list-of-new-voice-actors-for-xenoblade-chronicles-2-nintendo-switch-2-edition/",
+      "publishedAt": "2026-07-31T14:31:10Z",
+      "processed_at": "2026-08-01T20:10:06.251123+00:00"
     }
   ],
-  "lastUpdated": "2026-08-01T18:02:20.590358+00:00",
+  "lastUpdated": "2026-08-01T20:10:06.251224+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
