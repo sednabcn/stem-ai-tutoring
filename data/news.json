@@ -1,16 +1,46 @@
 {
   "status": "success",
-  "totalResults": 10,
+  "totalResults": 9,
   "articles": [
     {
-      "title": "Sony Says It's Not Backing Down From Ending PlayStation Discs - kotaku.com",
+      "title": "This tattoo is permanent, pain-free, and might soon come in the mail - The Verge",
       "source": {
-        "name": "Kotaku"
+        "name": "The Verge"
       },
-      "description": "The PS5 maker said it already put a lot of thought into the decision...",
-      "url": "https://kotaku.com/sony-not-budging-on-ending-playstation-discs-in-the-face-of-fan-protests-were-going-to-cautiously-move-this-forward-2000720708",
-      "publishedAt": "2026-07-31T08:12:24Z",
-      "processed_at": "2026-08-01T12:02:42.369190+00:00"
+      "description": "CipherX has launched a new Microdot tattoo patch that offers a pain-free alternative to getting inke...",
+      "url": "https://www.theverge.com/tech/972466/cipherx-permanent-pain-free-tattoo-microdot-patches",
+      "publishedAt": "2026-07-31T12:01:00Z",
+      "processed_at": "2026-08-01T14:26:53.367914+00:00"
+    },
+    {
+      "title": "Shift-Up promotes Stellar Blade 2 with AI-generated KPop music video featuring the game's main character - Eurogamer.net",
+      "source": {
+        "name": "Eurogamer.net"
+      },
+      "description": "The video ends with Shift-Up developers interacting with an AI-generated Evie from Stellar Blade 2, ...",
+      "url": "https://www.eurogamer.net/stellar-blade-2-generative-ai-music-video",
+      "publishedAt": "2026-07-31T10:59:42Z",
+      "processed_at": "2026-08-01T14:26:53.367914+00:00"
+    },
+    {
+      "title": "Sony Admits It Hears Angry PlayStation Fans on Disc Death, yet Goes Forward and Says the Decision Won’t Hurt Business - Wccftech",
+      "source": {
+        "name": "Wccftech"
+      },
+      "description": "Sony says it hears PlayStation fan backlash over the end of discs, but cautiously goes forward and i...",
+      "url": "https://wccftech.com/sony-playstation-disc-support-backlash-business/",
+      "publishedAt": "2026-07-31T10:15:00Z",
+      "processed_at": "2026-08-01T14:26:53.367914+00:00"
+    },
+    {
+      "title": "New Creator Emotes, Overlays, and More - Halo Waypoint",
+      "source": {
+        "name": "Halowaypoint.com"
+      },
+      "description": "<p>To celebrate the release of Halo: Campaign Evolved, we’re unveiling new additions to our Silver A...",
+      "url": "https://www.halowaypoint.com/news/creator-bundle-july-update",
+      "publishedAt": "2026-07-31T04:28:03Z",
+      "processed_at": "2026-08-01T14:26:53.367914+00:00"
     },
     {
       "title": "The Most Polarizing Mario Game Is About To Come To Switch 2 - kotaku.com",
@@ -20,7 +50,17 @@
       "description": "The underrated 3D Mario game will be part of Switch Online's GameCube library...",
       "url": "https://kotaku.com/super-mario-sunshine-is-coming-to-switch-2-2000720607",
       "publishedAt": "2026-07-31T04:24:08Z",
-      "processed_at": "2026-08-01T12:02:42.369190+00:00"
+      "processed_at": "2026-08-01T14:26:53.367914+00:00"
+    },
+    {
+      "title": "Sony Says Don’t Panic, It Has Enough RAM For All The PS5s It Plans To Sell This Year With The Launch Of GTA 6 - Kotaku",
+      "source": {
+        "name": "Kotaku"
+      },
+      "description": "Profit projects are up even as console sales are down...",
+      "url": "https://kotaku.com/sony-says-dont-panic-it-has-enough-ram-for-all-the-ps5s-it-plans-to-sell-this-year-with-the-launch-of-gta-6-2000720603",
+      "publishedAt": "2026-07-31T03:53:28Z",
+      "processed_at": "2026-08-01T14:26:53.367914+00:00"
     },
     {
       "title": "Tim Cook praises John Ternus again in Apple's Q3 2026 earnings call - mashable.com",
@@ -30,7 +70,7 @@
       "description": "The tech giant has been working to ensure a smooth transition for its incoming CEO....",
       "url": "https://mashable.com/tech/apple-tim-cook-ternus-earnings-call-q3-2026",
       "publishedAt": "2026-07-31T01:40:08Z",
-      "processed_at": "2026-08-01T12:02:42.369190+00:00"
+      "processed_at": "2026-08-01T14:26:53.367914+00:00"
     },
     {
       "title": "MacBook Ultra's New Design Won't Stay Exclusive for Long - MacRumors",
@@ -40,70 +80,20 @@
       "description": "The touchscreen and the OLED panel have dominated discussion about Apple's next high-end laptop, but...",
       "url": "https://www.macrumors.com/2026/07/30/macbook-ultra-design-wont-stay-exclusive/",
       "publishedAt": "2026-07-31T01:00:00Z",
-      "processed_at": "2026-08-01T12:02:42.369190+00:00"
-    },
-    {
-      "title": "PlayStation 5 Video Games Are Heavily Discounted During Best Buy's Back to School Sale - IGN",
-      "source": {
-        "name": "IGN"
-      },
-      "description": "Several standout games are included....",
-      "url": "https://www.ign.com/articles/best-buy-back-to-school-sale-playstation-5-video-game-deals",
-      "publishedAt": "2026-07-31T00:45:00Z",
-      "processed_at": "2026-08-01T12:02:42.369190+00:00"
+      "processed_at": "2026-08-01T14:26:53.367914+00:00"
     },
     {
       "title": "\"Insane\" demand has the Galaxy Z Fold 8 line generating more pre-orders than the Galaxy S26 series - PhoneArena",
       "source": {
         "name": "PhoneArena"
       },
-      "description": "",
+      "description": "Since when does a foldable series attract more pre-orders than a popular flagship series?...",
       "url": "https://www.phonearena.com/news/galaxy-z-fold-8-series-garners-huge-preorder-totals_id182246",
       "publishedAt": "2026-07-31T00:20:58Z",
-      "processed_at": "2026-08-01T12:02:42.369190+00:00"
-    },
-    {
-      "title": "Tim Cook hints at iCloud Plus tier for AI power users - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "Apple CEO Tim Cook hinted at allowing users to increase their AI usage limits with an iCloud Plus su...",
-      "url": "https://www.theverge.com/tech/973552/apple-ceo-tim-cook-icloud-plus-ai",
-      "publishedAt": "2026-07-30T22:29:45Z",
-      "processed_at": "2026-08-01T12:02:42.369190+00:00"
-    },
-    {
-      "title": "Xbox CEO says the team has one year to start growing again - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "In a memo obtained by The Verge, CEO Asha Sharma told staff by the end of June 2027, “we will return...",
-      "url": "https://www.theverge.com/games/973520/xbox-ceo-memo-one-year-growth",
-      "publishedAt": "2026-07-30T22:10:13Z",
-      "processed_at": "2026-08-01T12:02:42.369190+00:00"
-    },
-    {
-      "title": "Gemini Spark can now use Chrome to auto browse, AI Pro access goes international - 9to5google.com",
-      "source": {
-        "name": "9to5google.com"
-      },
-      "description": "Gemini Spark is getting two big updates today, starting with Chrome auto browse integration on deskt...",
-      "url": "http://9to5google.com/2026/07/30/gemini-spark-chrome-auto-browse/",
-      "publishedAt": "2026-07-30T20:29:00Z",
-      "processed_at": "2026-08-01T12:02:42.369190+00:00"
-    },
-    {
-      "title": "TAG Heuer Adds Some 1980s Japanese Swagger to the Carrera Chronograph - Gear Patrol",
-      "source": {
-        "name": "Gear Patrol"
-      },
-      "description": "In collaboration with Bamford Watch Dept and Team Ikuzawa racing, the 'Glassbox' Carrera gets a gorg...",
-      "url": "https://www.gearpatrol.com/watches/tag-heuer-carerra-chronograph-team-ikuzawa/",
-      "publishedAt": "2026-07-30T20:24:47Z",
-      "processed_at": "2026-08-01T12:02:42.369190+00:00"
+      "processed_at": "2026-08-01T14:26:53.367914+00:00"
     }
   ],
-  "lastUpdated": "2026-08-01T12:02:42.369253+00:00",
+  "lastUpdated": "2026-08-01T14:26:53.367988+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
