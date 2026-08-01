@@ -1,6 +1,6 @@
 {
   "status": "success",
-  "totalResults": 9,
+  "totalResults": 10,
   "articles": [
     {
       "title": "Tim Cook says Apple may charge for AI Siri - Axios",
@@ -10,17 +10,17 @@
       "description": "Heavy users of Apple Intelligence may need an iCloud+ subscription...",
       "url": "https://www.axios.com/2026/07/30/tim-cook-apple-may-charge-for-ai-siri",
       "publishedAt": "2026-07-31T02:36:57Z",
-      "processed_at": "2026-08-01T05:55:57.374665+00:00"
+      "processed_at": "2026-08-01T08:23:59.558392+00:00"
     },
     {
-      "title": "Major Nintendo Switch update adds Mario Sunshine and unreleased Virtual Boy games - Video Games Chronicle",
+      "title": "Nintendo Expands Switch 2's GameCube Library With Another Game In August - Nintendo Life",
       "source": {
-        "name": "Video Games Chronicle"
+        "name": "Nintendo Life"
       },
-      "description": "Switch Online will add new features and games next month...",
-      "url": "https://www.videogameschronicle.com/news/major-nintendo-switch-update-adds-mario-sunshine-and-unreleased-virtual-boy-games/",
-      "publishedAt": "2026-07-31T01:23:12Z",
-      "processed_at": "2026-08-01T05:55:57.374665+00:00"
+      "description": "Return to Isle Delfino in Super Mario Sunshine...",
+      "url": "https://www.nintendolife.com/news/2026/07/nintendo-expands-switch-2s-gamecube-library-with-another-game-in-august",
+      "publishedAt": "2026-07-31T01:05:00Z",
+      "processed_at": "2026-08-01T08:23:59.558392+00:00"
     },
     {
       "title": "MacBook Ultra's New Design Won't Stay Exclusive for Long - MacRumors",
@@ -30,17 +30,27 @@
       "description": "The touchscreen and the OLED panel have dominated discussion about Apple's next high-end laptop, but...",
       "url": "https://www.macrumors.com/2026/07/30/macbook-ultra-design-wont-stay-exclusive/",
       "publishedAt": "2026-07-31T01:00:00Z",
-      "processed_at": "2026-08-01T05:55:57.374665+00:00"
+      "processed_at": "2026-08-01T08:23:59.558392+00:00"
     },
     {
-      "title": "Big Terminator Vibes in Bethesda's New Logo - IGN",
+      "title": "\"Insane\" demand has the Galaxy Z Fold 8 line generating more pre-orders than the Galaxy S26 series - PhoneArena",
       "source": {
-        "name": "IGN"
+        "name": "PhoneArena"
       },
-      "description": "Bethesda has unveiled a new logo to celebrate the studio’s 40th anniversary....",
-      "url": "https://www.ign.com/articles/bethesda-has-a-new-logo-to-celebrate-its-40th-anniversary-and-it-harkens-back-to-the-studios-old-terminator-games",
-      "publishedAt": "2026-07-30T23:29:30Z",
-      "processed_at": "2026-08-01T05:55:57.374665+00:00"
+      "description": "",
+      "url": "https://www.phonearena.com/news/galaxy-z-fold-8-series-garners-huge-preorder-totals_id182246",
+      "publishedAt": "2026-07-31T00:20:58Z",
+      "processed_at": "2026-08-01T08:23:59.558392+00:00"
+    },
+    {
+      "title": "Google brings Nano Banana 2 to Google Earth - GSMArena.com news - GSMArena.com",
+      "source": {
+        "name": "GSMArena.com"
+      },
+      "description": "You can now generate stuff based on Google Earth’s satellite, aerial, and 3D imagery. Google's Nano ...",
+      "url": "https://www.gsmarena.com/google_brings_nano_banana_to_google_earth-news-73947.php",
+      "publishedAt": "2026-07-31T00:07:02Z",
+      "processed_at": "2026-08-01T08:23:59.558392+00:00"
     },
     {
       "title": "Xbox CEO says the team has one year to start growing again - The Verge",
@@ -50,7 +60,7 @@
       "description": "In a memo obtained by The Verge, CEO Asha Sharma told staff by the end of June 2027, “we will return...",
       "url": "https://www.theverge.com/games/973520/xbox-ceo-memo-one-year-growth",
       "publishedAt": "2026-07-30T22:10:13Z",
-      "processed_at": "2026-08-01T05:55:57.374665+00:00"
+      "processed_at": "2026-08-01T08:23:59.558392+00:00"
     },
     {
       "title": "Fans Think A Long-Lost Pokémon Game Has Been Found 21 Years Later - kotaku.com",
@@ -60,7 +70,7 @@
       "description": "PokePark Fishing Tournament DS was released for a limited time in 2005 as a download-only game that ...",
       "url": "https://kotaku.com/pokemon-pokepark-fishing-rally-ds-ebay-listing-game-preservation-2000720552",
       "publishedAt": "2026-07-30T20:45:21Z",
-      "processed_at": "2026-08-01T05:55:57.374665+00:00"
+      "processed_at": "2026-08-01T08:23:59.558392+00:00"
     },
     {
       "title": "The disc is not the game: Physical releases increasingly require extra downloads - Ars Technica",
@@ -70,7 +80,7 @@
       "description": "DoesItPlay tracks the many \"physical\" games that don't work without the Internet....",
       "url": "https://arstechnica.com/gaming/2026/07/the-disc-is-not-the-game-physical-releases-increasingly-require-extra-downloads/",
       "publishedAt": "2026-07-30T20:12:50Z",
-      "processed_at": "2026-08-01T05:55:57.374665+00:00"
+      "processed_at": "2026-08-01T08:23:59.558392+00:00"
     },
     {
       "title": "Friend, the lonely AI wearable, returns with a new voice and a much bigger price tag - TechCrunch",
@@ -80,20 +90,20 @@
       "description": "Friend, the AI wearable, can now talk to its users — for an enhanced price....",
       "url": "https://techcrunch.com/2026/07/30/friend-the-lonely-ai-wearable-returns-with-a-new-voice-and-a-much-bigger-price-tag/",
       "publishedAt": "2026-07-30T19:44:16Z",
-      "processed_at": "2026-08-01T05:55:57.374665+00:00"
+      "processed_at": "2026-08-01T08:23:59.558392+00:00"
     },
     {
-      "title": "Square Enix Insists That Cursed Kingdom Hearts Art Was Not AI-Generated - GameSpot",
+      "title": "Casio’s Tiny Ring Watch Is Now a Full-Blown Oura Alternative - Gizmodo",
       "source": {
-        "name": "GameSpot"
+        "name": "Gizmodo.com"
       },
-      "description": "A new statement from Square Enix says the odd-looking cover art for The Kingdom Hearts Collection [I...",
-      "url": "https://www.gamespot.com/articles/exclusive-disney-insists-that-cursed-kingdom-hearts-art-was-not-ai-generated/",
-      "publishedAt": "2026-07-30T19:15:55Z",
-      "processed_at": "2026-08-01T05:55:57.374665+00:00"
+      "description": "The CRW-H001 can track heart rate, blood oxygen, and sleep and vibrate when you receive a notificati...",
+      "url": "https://gizmodo.com/casios-tiny-ring-watch-is-now-a-full-blown-oura-alternative-2000793116",
+      "publishedAt": "2026-07-30T19:30:55Z",
+      "processed_at": "2026-08-01T08:23:59.558392+00:00"
     }
   ],
-  "lastUpdated": "2026-08-01T05:55:57.374735+00:00",
+  "lastUpdated": "2026-08-01T08:23:59.558462+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
