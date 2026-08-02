@@ -3,34 +3,44 @@
   "totalResults": 10,
   "articles": [
     {
-      "title": "Google Earth’s AI deepfake tool only lasted one day - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "Google Earth’s AI image editing tool has been removed, just one day after it launched. Examples onli...",
-      "url": "https://www.theverge.com/tech/973943/google-earth-ai-image-generation-deepfake-tool",
-      "publishedAt": "2026-07-31T19:13:29Z",
-      "processed_at": "2026-08-01T22:59:20.901206+00:00"
-    },
-    {
-      "title": "Meet the Pixel Tag, Google's answer to the AirTag - Android Authority",
-      "source": {
-        "name": "Android Authority"
-      },
-      "description": "Google has its Find Hub tracking network, but has never introduced its own tracking fob. Now that co...",
-      "url": "https://www.androidauthority.com/pixel-tag-leak-3693436/",
-      "publishedAt": "2026-07-31T18:01:00Z",
-      "processed_at": "2026-08-01T22:59:20.901206+00:00"
-    },
-    {
-      "title": "Sony acknowledges backlash, will “cautiously” move forward with end of discs - Ars Technica",
+      "title": "Google Earth releases, swiftly retracts AI feature to make fake satellite images - Ars Technica",
       "source": {
         "name": "Ars Technica"
       },
-      "description": "Sony doesn't think the move will hurt it financially....",
-      "url": "https://arstechnica.com/gaming/2026/07/sony-acknowledges-backlash-will-cautiously-move-forward-with-end-of-discs/",
-      "publishedAt": "2026-07-31T17:07:42Z",
-      "processed_at": "2026-08-01T22:59:20.901206+00:00"
+      "description": "“What on earth is Google doing?” Misinformation fears spur walk-back of AI tool....",
+      "url": "https://arstechnica.com/ai/2026/07/google-earth-releases-swiftly-retracts-ai-feature-to-make-fake-satellite-images/",
+      "publishedAt": "2026-07-31T20:21:05Z",
+      "processed_at": "2026-08-02T00:04:36.222425+00:00"
+    },
+    {
+      "title": "Google rolling out Android 17 QPR1 Beta 8 for Pixel - 9to5Google",
+      "source": {
+        "name": "9to5google.com"
+      },
+      "description": "Following the last release over two weeks ago, Android 17 QPR1 Beta 8 is rolling out today for Pixel...",
+      "url": "http://9to5google.com/2026/07/31/android-17-qpr1-beta-8-pixel/",
+      "publishedAt": "2026-07-31T20:17:00Z",
+      "processed_at": "2026-08-02T00:04:36.222425+00:00"
+    },
+    {
+      "title": "Google might launch a ‘Pixel Tag’ - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "Google is seemingly working on an item tracker that might compete with Apple’s AirTag. 9to5Google ob...",
+      "url": "https://www.theverge.com/tech/973889/google-pixel-tag-item-tracker",
+      "publishedAt": "2026-07-31T18:27:24Z",
+      "processed_at": "2026-08-02T00:04:36.222425+00:00"
+    },
+    {
+      "title": "PlayStation 5 Video Games Are Heavily Discounted During Best Buy's Back to School Sale - IGN",
+      "source": {
+        "name": "IGN"
+      },
+      "description": "Several standout games are included....",
+      "url": "https://www.ign.com/articles/best-buy-back-to-school-sale-playstation-5-video-game-deals",
+      "publishedAt": "2026-07-31T17:48:25Z",
+      "processed_at": "2026-08-02T00:04:36.222425+00:00"
     },
     {
       "title": "Inside Tencent’s Failed Attempt to Take On ‘Grand Theft Auto’ - Bloomberg.com",
@@ -40,17 +50,37 @@
       "description": "Lightspeed’s Last Sentinel burnt through six years of development and hundreds of millions of dollar...",
       "url": "https://www.bloomberg.com/news/newsletters/2026-07-31/inside-tencent-s-failed-attempt-to-take-on-grand-theft-auto",
       "publishedAt": "2026-07-31T17:00:01Z",
-      "processed_at": "2026-08-01T22:59:20.901206+00:00"
+      "processed_at": "2026-08-02T00:04:36.222425+00:00"
     },
     {
-      "title": "First Googlebooks from Lenovo leak: Two sizes and 2-in-1 tablet - 9to5Google",
+      "title": "12 Interesting Mini Gadgets You Can Buy From Ace Hardware - SlashGear",
+      "source": {
+        "name": "SlashGear"
+      },
+      "description": "Looking for clever gadgets that don't take up much space? Here are the most useful compact finds wor...",
+      "url": "https://www.slashgear.com/2224790/mini-ace-hardware-gadgets-cool-finds-buy/",
+      "publishedAt": "2026-07-31T16:30:00Z",
+      "processed_at": "2026-08-02T00:04:36.222425+00:00"
+    },
+    {
+      "title": "Google’s Pixel 11 Glow might be called ‘HiLight’ - 9to5Google",
       "source": {
         "name": "9to5google.com"
       },
-      "description": "Ahead of the fall launch, the first set of Googlebooks from Lenovo has leaked. According to images f...",
-      "url": "http://9to5google.com/2026/07/31/googlebook-lenovo-leak/",
-      "publishedAt": "2026-07-31T16:52:00Z",
-      "processed_at": "2026-08-01T22:59:20.901206+00:00"
+      "description": "The “Pixel Glow” name first appeared during the Android 17 Beta, but Google might actually launch it...",
+      "url": "http://9to5google.com/2026/07/31/pixel-glow-hilight/",
+      "publishedAt": "2026-07-31T16:16:00Z",
+      "processed_at": "2026-08-02T00:04:36.222425+00:00"
+    },
+    {
+      "title": "Siri AI could come with a paywall for power users - TechCrunch",
+      "source": {
+        "name": "TechCrunch"
+      },
+      "description": "Apple CEO Tim Cook envisions users being able to buy more compute for Siri AI via Apple's existing i...",
+      "url": "https://techcrunch.com/2026/07/31/siri-ai-could-come-with-a-paywall-for-power-users/",
+      "publishedAt": "2026-07-31T16:08:18Z",
+      "processed_at": "2026-08-02T00:04:36.222425+00:00"
     },
     {
       "title": "Game Devs Put Together An Itch.io Bundle Of Over 100 Games With Proceeds Going To Help Laid-Off Colleagues - Kotaku",
@@ -60,50 +90,20 @@
       "description": "The Game Industry Hardship Fund bundle contains over 100 games and will be on sale for the next two ...",
       "url": "https://kotaku.com/itchio-game-developer-hardship-bundle-necrosoft-games-layoffs-unionization-2000720782",
       "publishedAt": "2026-07-31T16:04:03Z",
-      "processed_at": "2026-08-01T22:59:20.901206+00:00"
+      "processed_at": "2026-08-02T00:04:36.222425+00:00"
     },
     {
-      "title": "Xbox Cloud Gaming update expands Game Pass access to more smart TVs - TrueAchievements",
+      "title": "Here's an early look at Lenovo's inaugural Googlebooks - Android Authority",
       "source": {
-        "name": "TrueAchievements"
+        "name": "Android Authority"
       },
-      "description": "Hisense and certain VIDAA OS-compatible smart TVs now support Xbox Cloud Gaming, which lets Xbox Gam...",
-      "url": "https://www.trueachievements.com/news/xbox-cloud-gaming-update-august-2026",
-      "publishedAt": "2026-07-31T14:49:26Z",
-      "processed_at": "2026-08-01T22:59:20.901206+00:00"
-    },
-    {
-      "title": "Reddit is testing a new way to watch — and listen to — its viral posts - TechCrunch",
-      "source": {
-        "name": "TechCrunch"
-      },
-      "description": "Reddit is developing a new video experience that lets users watch — or simply listen to — its most p...",
-      "url": "https://techcrunch.com/2026/07/31/reddit-is-testing-a-new-way-to-watch-and-listen-to-its-viral-posts/",
-      "publishedAt": "2026-07-31T14:49:21Z",
-      "processed_at": "2026-08-01T22:59:20.901206+00:00"
-    },
-    {
-      "title": "In A 'Who Could Have Possibly Seen This Coming' Event, Ubisoft Will Shut Down Its NFT Game - kotaku.com",
-      "source": {
-        "name": "Kotaku"
-      },
-      "description": "Champions Tactics had previously removed its Web3 functionality and will be sunset in October...",
-      "url": "https://kotaku.com/ubisoft-nft-game-shut-down-champions-tactics-might-and-magic-fates-2000720757",
-      "publishedAt": "2026-07-31T14:40:24Z",
-      "processed_at": "2026-08-01T22:59:20.901206+00:00"
-    },
-    {
-      "title": "List of new voice actors for Xenoblade Chronicles 2 – Nintendo Switch 2 Edition - Nintendo Everything",
-      "source": {
-        "name": "Nintendoeverything.com"
-      },
-      "description": "Xenoblade Chronicles 2 introduces new voice characters for its Nintendo Switch 2 Edition...",
-      "url": "https://nintendoeverything.com/list-of-new-voice-actors-for-xenoblade-chronicles-2-nintendo-switch-2-edition/",
-      "publishedAt": "2026-07-31T14:31:10Z",
-      "processed_at": "2026-08-01T22:59:20.901206+00:00"
+      "description": "Newly leaked imagery shows off two laptops and one tablet from Lenovo, all three sporting Googlebook...",
+      "url": "https://www.androidauthority.com/lenovo-googlebook-leak-3693356/",
+      "publishedAt": "2026-07-31T15:43:00Z",
+      "processed_at": "2026-08-02T00:04:36.222425+00:00"
     }
   ],
-  "lastUpdated": "2026-08-01T22:59:20.901290+00:00",
+  "lastUpdated": "2026-08-02T00:04:36.222492+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
