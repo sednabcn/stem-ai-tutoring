@@ -1,26 +1,86 @@
 {
   "status": "success",
-  "totalResults": 10,
+  "totalResults": 9,
   "articles": [
     {
-      "title": "Google Earth releases, swiftly retracts AI feature to make fake satellite images - Ars Technica",
+      "title": "See how Google Earth let people make fake scenes of bombings, riots and destruction - The Washington Post",
       "source": {
-        "name": "Ars Technica"
+        "name": "The Washington Post"
       },
-      "description": "“What on earth is Google doing?” Misinformation fears spur walk-back of AI tool....",
-      "url": "https://arstechnica.com/ai/2026/07/google-earth-releases-swiftly-retracts-ai-feature-to-make-fake-satellite-images/",
-      "publishedAt": "2026-07-31T20:21:05Z",
-      "processed_at": "2026-08-02T00:04:36.222425+00:00"
+      "description": "Google put on hold an AI feature in Google Earth just hours after it was introduced. People used it ...",
+      "url": "https://www.washingtonpost.com/technology/2026/07/31/see-how-google-earth-let-people-make-fake-scenes-bombings-riots-destruction/",
+      "publishedAt": "2026-08-01T02:33:52Z",
+      "processed_at": "2026-08-02T04:23:31.892468+00:00"
     },
     {
-      "title": "Google rolling out Android 17 QPR1 Beta 8 for Pixel - 9to5Google",
+      "title": "With Switch 2, iPhone, and laptop tricks, the Sharge Disk Pro 2 is finally a worthy EDC - The Verge",
       "source": {
-        "name": "9to5google.com"
+        "name": "The Verge"
       },
-      "description": "Following the last release over two weeks ago, Android 17 QPR1 Beta 8 is rolling out today for Pixel...",
-      "url": "http://9to5google.com/2026/07/31/android-17-qpr1-beta-8-pixel/",
-      "publishedAt": "2026-07-31T20:17:00Z",
-      "processed_at": "2026-08-02T00:04:36.222425+00:00"
+      "description": "Hands-on the Sharge Disk Pro 2, an SSD enclosure that doubles as a USB-C to HDMI dock, one that even...",
+      "url": "https://www.theverge.com/gadgets/973886/sharge-disk-pro-2-hands-on-switch-2-hdmi-usb-c-dock",
+      "publishedAt": "2026-07-31T22:09:11Z",
+      "processed_at": "2026-08-02T04:23:31.892468+00:00"
+    },
+    {
+      "title": "EA FC 27 Drops Official Career Mode Deep Dive Trailer Featuring New Gameplay - Bleacher Report",
+      "source": {
+        "name": "Bleacher Report"
+      },
+      "description": "The hype for EA FC 27 continues to build with EA Sports dropping a new deep dive trailer for career ...",
+      "url": "https://bleacherreport.com/articles/25460359-ea-fc-27-drops-official-career-mode-deep-dive-trailer-featuring-new-gameplay",
+      "publishedAt": "2026-07-31T21:56:15Z",
+      "processed_at": "2026-08-02T04:23:31.892468+00:00"
+    },
+    {
+      "title": "A London Startup Is Selling Permanent Stick-On Tattoos—and It Wants to Do Mail Order - Gizmodo",
+      "source": {
+        "name": "Gizmodo.com"
+      },
+      "description": "Concerned parents of the world, unite....",
+      "url": "https://gizmodo.com/a-london-startup-is-selling-permanent-stick-on-tattoos-and-it-wants-to-do-mail-order-2000793432",
+      "publishedAt": "2026-07-31T20:59:30Z",
+      "processed_at": "2026-08-02T04:23:31.892468+00:00"
+    },
+    {
+      "title": "Even after the RAM crisis ends, the era of affordable gaming hardware is gone for good. - IGN",
+      "source": {
+        "name": "IGN"
+      },
+      "description": "Gaming hardware is more expensive than ever. There’s a few different reasons things are as bad as th...",
+      "url": "https://www.ign.com/articles/the-500-console-is-dead",
+      "publishedAt": "2026-07-31T20:39:48Z",
+      "processed_at": "2026-08-02T04:23:31.892468+00:00"
+    },
+    {
+      "title": "Nvidia And AMD Wait Until The Same Time To Raise GPU Prices - kotaku.com",
+      "source": {
+        "name": "Kotaku"
+      },
+      "description": "Even budget cards are getting ridiculously expensive...",
+      "url": "https://kotaku.com/cant-decide-between-nvidia-and-amd-graphics-cards-dont-worry-theyre-both-rumored-to-be-raising-prices-2000720862",
+      "publishedAt": "2026-07-31T20:01:30Z",
+      "processed_at": "2026-08-02T04:23:31.892468+00:00"
+    },
+    {
+      "title": "PlayStation Discs Are the Least of Sony’s Problems Right Now - Gizmodo",
+      "source": {
+        "name": "Gizmodo.com"
+      },
+      "description": "With RAM prices as high as they are, Sony wants to claim its consoles win on affordability....",
+      "url": "https://gizmodo.com/playstations-discs-are-the-least-of-sonys-problems-right-now-2000793552",
+      "publishedAt": "2026-07-31T19:50:32Z",
+      "processed_at": "2026-08-02T04:23:31.892468+00:00"
+    },
+    {
+      "title": "Tiny Difference in Username Sent Innocent Man to Prison - Newser",
+      "source": {
+        "name": "Newser"
+      },
+      "description": "",
+      "url": "https://www.newser.com/story/393891/missing-underscore-in-name-sent-innocent-man-to-prison.html",
+      "publishedAt": "2026-07-31T19:35:00Z",
+      "processed_at": "2026-08-02T04:23:31.892468+00:00"
     },
     {
       "title": "Google might launch a ‘Pixel Tag’ - The Verge",
@@ -30,80 +90,10 @@
       "description": "Google is seemingly working on an item tracker that might compete with Apple’s AirTag. 9to5Google ob...",
       "url": "https://www.theverge.com/tech/973889/google-pixel-tag-item-tracker",
       "publishedAt": "2026-07-31T18:27:24Z",
-      "processed_at": "2026-08-02T00:04:36.222425+00:00"
-    },
-    {
-      "title": "PlayStation 5 Video Games Are Heavily Discounted During Best Buy's Back to School Sale - IGN",
-      "source": {
-        "name": "IGN"
-      },
-      "description": "Several standout games are included....",
-      "url": "https://www.ign.com/articles/best-buy-back-to-school-sale-playstation-5-video-game-deals",
-      "publishedAt": "2026-07-31T17:48:25Z",
-      "processed_at": "2026-08-02T00:04:36.222425+00:00"
-    },
-    {
-      "title": "Inside Tencent’s Failed Attempt to Take On ‘Grand Theft Auto’ - Bloomberg.com",
-      "source": {
-        "name": "Bloomberg"
-      },
-      "description": "Lightspeed’s Last Sentinel burnt through six years of development and hundreds of millions of dollar...",
-      "url": "https://www.bloomberg.com/news/newsletters/2026-07-31/inside-tencent-s-failed-attempt-to-take-on-grand-theft-auto",
-      "publishedAt": "2026-07-31T17:00:01Z",
-      "processed_at": "2026-08-02T00:04:36.222425+00:00"
-    },
-    {
-      "title": "12 Interesting Mini Gadgets You Can Buy From Ace Hardware - SlashGear",
-      "source": {
-        "name": "SlashGear"
-      },
-      "description": "Looking for clever gadgets that don't take up much space? Here are the most useful compact finds wor...",
-      "url": "https://www.slashgear.com/2224790/mini-ace-hardware-gadgets-cool-finds-buy/",
-      "publishedAt": "2026-07-31T16:30:00Z",
-      "processed_at": "2026-08-02T00:04:36.222425+00:00"
-    },
-    {
-      "title": "Google’s Pixel 11 Glow might be called ‘HiLight’ - 9to5Google",
-      "source": {
-        "name": "9to5google.com"
-      },
-      "description": "The “Pixel Glow” name first appeared during the Android 17 Beta, but Google might actually launch it...",
-      "url": "http://9to5google.com/2026/07/31/pixel-glow-hilight/",
-      "publishedAt": "2026-07-31T16:16:00Z",
-      "processed_at": "2026-08-02T00:04:36.222425+00:00"
-    },
-    {
-      "title": "Siri AI could come with a paywall for power users - TechCrunch",
-      "source": {
-        "name": "TechCrunch"
-      },
-      "description": "Apple CEO Tim Cook envisions users being able to buy more compute for Siri AI via Apple's existing i...",
-      "url": "https://techcrunch.com/2026/07/31/siri-ai-could-come-with-a-paywall-for-power-users/",
-      "publishedAt": "2026-07-31T16:08:18Z",
-      "processed_at": "2026-08-02T00:04:36.222425+00:00"
-    },
-    {
-      "title": "Game Devs Put Together An Itch.io Bundle Of Over 100 Games With Proceeds Going To Help Laid-Off Colleagues - Kotaku",
-      "source": {
-        "name": "Kotaku"
-      },
-      "description": "The Game Industry Hardship Fund bundle contains over 100 games and will be on sale for the next two ...",
-      "url": "https://kotaku.com/itchio-game-developer-hardship-bundle-necrosoft-games-layoffs-unionization-2000720782",
-      "publishedAt": "2026-07-31T16:04:03Z",
-      "processed_at": "2026-08-02T00:04:36.222425+00:00"
-    },
-    {
-      "title": "Here's an early look at Lenovo's inaugural Googlebooks - Android Authority",
-      "source": {
-        "name": "Android Authority"
-      },
-      "description": "Newly leaked imagery shows off two laptops and one tablet from Lenovo, all three sporting Googlebook...",
-      "url": "https://www.androidauthority.com/lenovo-googlebook-leak-3693356/",
-      "publishedAt": "2026-07-31T15:43:00Z",
-      "processed_at": "2026-08-02T00:04:36.222425+00:00"
+      "processed_at": "2026-08-02T04:23:31.892468+00:00"
     }
   ],
-  "lastUpdated": "2026-08-02T00:04:36.222492+00:00",
+  "lastUpdated": "2026-08-02T04:23:31.892539+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
