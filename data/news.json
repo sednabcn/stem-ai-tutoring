@@ -3,6 +3,26 @@
   "totalResults": 9,
   "articles": [
     {
+      "title": "The Switch 2 is already starting to show its seams - polygon.com",
+      "source": {
+        "name": "Polygon"
+      },
+      "description": "Despite the Nintendo Switch 2 getting some miracle ports of huge games, some developers are still st...",
+      "url": "https://www.polygon.com/switchboard-clair-obscur-expedition-33-switch-2/",
+      "publishedAt": "2026-08-01T13:00:12Z",
+      "processed_at": "2026-08-02T13:23:32.274872+00:00"
+    },
+    {
+      "title": "Instapaper, the OG reading app, just got a big update - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "Plus: Spider-Man: Brand New Day, Pastebot 3, Halo Campaign Evolved, Leafy Corner, and more in this w...",
+      "url": "https://www.theverge.com/tech/973929/instapaper-app-pastebot-spiderman-movie-installer",
+      "publishedAt": "2026-08-01T12:00:00Z",
+      "processed_at": "2026-08-02T13:23:32.274872+00:00"
+    },
+    {
       "title": "Google Pixel 11: Every rumor, leak, and confirmed fact - Mashable",
       "source": {
         "name": "Mashable"
@@ -10,7 +30,17 @@
       "description": "What's up with Google's next batch of flagships?...",
       "url": "https://mashable.com/tech/google-pixel-11-everything-we-know",
       "publishedAt": "2026-08-01T09:46:15Z",
-      "processed_at": "2026-08-02T11:22:37.960771+00:00"
+      "processed_at": "2026-08-02T13:23:32.274872+00:00"
+    },
+    {
+      "title": "Hijacked Hotel Wi-Fi Pushes Fake Updates to Deliver Surveillance Malware - The Hacker News",
+      "source": {
+        "name": "Internet"
+      },
+      "description": "Microsoft links hijacked hotel Wi-Fi to fake updates that deliver CornFlake, steal cloud tokens, and...",
+      "url": "https://thehackernews.com/2026/08/hijacked-hotel-wi-fi-pushes-fake.html",
+      "publishedAt": "2026-08-01T06:29:00Z",
+      "processed_at": "2026-08-02T13:23:32.274872+00:00"
     },
     {
       "title": "Samsung Galaxy S27 Ultra leak reveals massive camera and battery overhaul - Android Central",
@@ -20,7 +50,17 @@
       "description": "A new leak points to a silicon-carbon battery and a redesigned camera island for Samsung's next Ultr...",
       "url": "https://www.androidcentral.com/phones/samsung-galaxy/samsung-galaxy-s27-ultra-leak-reveals-massive-camera-and-battery-overhaul",
       "publishedAt": "2026-08-01T03:21:07Z",
-      "processed_at": "2026-08-02T11:22:37.960771+00:00"
+      "processed_at": "2026-08-02T13:23:32.274872+00:00"
+    },
+    {
+      "title": "iPad Air Could Finally Be Redesigned Next Year - MacRumors",
+      "source": {
+        "name": "MacRumors"
+      },
+      "description": "The iPad Air has looked the same since 2020, making it the longest-running design in Apple's tablet ...",
+      "url": "https://www.macrumors.com/2026/07/31/ipad-air-could-be-redesigned-next-year/",
+      "publishedAt": "2026-08-01T01:00:00Z",
+      "processed_at": "2026-08-02T13:23:32.274872+00:00"
     },
     {
       "title": "With Switch 2, iPhone, and laptop tricks, the Sharge Disk Pro 2 is finally a worthy EDC - The Verge",
@@ -30,7 +70,7 @@
       "description": "Hands-on the Sharge Disk Pro 2, an SSD enclosure that doubles as a USB-C to HDMI dock, one that even...",
       "url": "https://www.theverge.com/gadgets/973886/sharge-disk-pro-2-hands-on-switch-2-hdmi-usb-c-dock",
       "publishedAt": "2026-07-31T22:09:11Z",
-      "processed_at": "2026-08-02T11:22:37.960771+00:00"
+      "processed_at": "2026-08-02T13:23:32.274872+00:00"
     },
     {
       "title": "EA FC 27 Drops Official Career Mode Deep Dive Trailer Featuring New Gameplay - Bleacher Report",
@@ -40,27 +80,7 @@
       "description": "The hype for EA FC 27 continues to build with EA Sports dropping a new deep dive trailer for career ...",
       "url": "https://bleacherreport.com/articles/25460359-ea-fc-27-drops-official-career-mode-deep-dive-trailer-featuring-new-gameplay",
       "publishedAt": "2026-07-31T21:56:15Z",
-      "processed_at": "2026-08-02T11:22:37.960771+00:00"
-    },
-    {
-      "title": "A London Startup Is Selling Permanent Stick-On Tattoos—and It Wants to Do Mail Order - Gizmodo",
-      "source": {
-        "name": "Gizmodo.com"
-      },
-      "description": "Concerned parents of the world, unite....",
-      "url": "https://gizmodo.com/a-london-startup-is-selling-permanent-stick-on-tattoos-and-it-wants-to-do-mail-order-2000793432",
-      "publishedAt": "2026-07-31T20:59:30Z",
-      "processed_at": "2026-08-02T11:22:37.960771+00:00"
-    },
-    {
-      "title": "Even after the RAM crisis ends, the era of affordable gaming hardware is gone for good. - IGN",
-      "source": {
-        "name": "IGN"
-      },
-      "description": "Gaming hardware is more expensive than ever. There’s a few different reasons things are as bad as th...",
-      "url": "https://www.ign.com/articles/the-500-console-is-dead",
-      "publishedAt": "2026-07-31T20:54:51Z",
-      "processed_at": "2026-08-02T11:22:37.960771+00:00"
+      "processed_at": "2026-08-02T13:23:32.274872+00:00"
     },
     {
       "title": "Tiny Difference in Username Sent Innocent Man to Prison - newser.com",
@@ -70,30 +90,10 @@
       "description": "Canadian man served 18 months because police didn't notice difference in underscores...",
       "url": "https://www.newser.com/story/393891/missing-underscore-in-name-sent-innocent-man-to-prison.html",
       "publishedAt": "2026-07-31T19:35:00Z",
-      "processed_at": "2026-08-02T11:22:37.960771+00:00"
-    },
-    {
-      "title": "Tencent’s “GTA Rival” Last Sentinel Collapses After Six Years of Development as 80 Layoffs Hit the Studio Behind It - Wccftech",
-      "source": {
-        "name": "Wccftech"
-      },
-      "description": "Tencent's GTA rival Last Sentinel has collapsed after six years in development, with 80 layoffs hitt...",
-      "url": "https://wccftech.com/tencent-last-sentinel-gta-rival-collapses-layoffs/",
-      "publishedAt": "2026-07-31T19:00:00Z",
-      "processed_at": "2026-08-02T11:22:37.960771+00:00"
-    },
-    {
-      "title": "Google might launch a ‘Pixel Tag’ - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "Google is seemingly working on an item tracker that might compete with Apple’s AirTag. 9to5Google ob...",
-      "url": "https://www.theverge.com/tech/973889/google-pixel-tag-item-tracker",
-      "publishedAt": "2026-07-31T18:27:24Z",
-      "processed_at": "2026-08-02T11:22:37.960771+00:00"
+      "processed_at": "2026-08-02T13:23:32.274872+00:00"
     }
   ],
-  "lastUpdated": "2026-08-02T11:22:37.960841+00:00",
+  "lastUpdated": "2026-08-02T13:23:32.274937+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
