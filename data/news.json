@@ -1,16 +1,26 @@
 {
   "status": "success",
-  "totalResults": 9,
+  "totalResults": 10,
   "articles": [
     {
-      "title": "Bike Check: Wes Lukens' Custom Frameworks 26/24\" Mullet - Pinkbike",
+      "title": "Pixel 11 specs and price leak with no surprises - The Verge",
       "source": {
-        "name": "Pinkbike.com"
+        "name": "The Verge"
       },
-      "description": "Built to handle the abuse of an 11-year-old phenom, Neko Mulally shares the engineering tricks, reve...",
-      "url": "https://www.pinkbike.com/news/bike-check-wes-lukens-custom-frameworks-2624-mullet.html",
-      "publishedAt": "2026-08-01T17:26:12Z",
-      "processed_at": "2026-08-02T20:56:06.779848+00:00"
+      "description": "The latest leak is more confirmation that price hikes and RAM cuts are coming to the Google Pixel 11...",
+      "url": "https://www.theverge.com/tech/974238/pixel-11-specs-and-price-leak",
+      "publishedAt": "2026-08-01T21:31:24Z",
+      "processed_at": "2026-08-02T21:58:10.940911+00:00"
+    },
+    {
+      "title": "On Tim Cook’s Final Earnings Call, He Said Apple May Charge for Siri - Gizmodo",
+      "source": {
+        "name": "Gizmodo.com"
+      },
+      "description": "A price may come into play \"when people use it a lot,\" he said....",
+      "url": "https://gizmodo.com/on-tim-cooks-final-earnings-call-he-said-apple-may-charge-for-siri-2000793670",
+      "publishedAt": "2026-08-01T18:13:22Z",
+      "processed_at": "2026-08-02T21:58:10.940911+00:00"
     },
     {
       "title": "Xbox May Walk Away From Steam, As It Reportedly Prepares PC Strategy Shift Amid 2026 Reset - Wccftech",
@@ -20,7 +30,17 @@
       "description": "Xbox may evaluate its PC presence alongside Project Helix, though leaving Steam remains unlikely....",
       "url": "https://wccftech.com/xbox-walk-away-steam-pc-strategy-shift/",
       "publishedAt": "2026-08-01T17:24:49Z",
-      "processed_at": "2026-08-02T20:56:06.779848+00:00"
+      "processed_at": "2026-08-02T21:58:10.940911+00:00"
+    },
+    {
+      "title": "Got a spare $10? Net yourself almost 150 games and help support laid off game devs with the game industry hardship fund bundle - Rock Paper Shotgun",
+      "source": {
+        "name": "Rock Paper Shotgun"
+      },
+      "description": "What's the worst that could happen?...",
+      "url": "https://www.rockpapershotgun.com/got-a-spare-10-net-yourself-almost-150-games-and-help-support-laid-off-game-devs-with-the-game-industry-hardship-fund-bundle",
+      "publishedAt": "2026-08-01T17:01:19Z",
+      "processed_at": "2026-08-02T21:58:10.940911+00:00"
     },
     {
       "title": "Did You Know Gaming Disputes Metacritic’s Ocarina Of Time Score, Upsetting Its Top Rated Spot - Kotaku",
@@ -30,7 +50,17 @@
       "description": "While researching for a retrospective, the historical YouTuber account came across inconsistencies w...",
       "url": "https://kotaku.com/did-you-know-gaming-disputes-metacritics-zelda-ocarina-of-time-score-upsetting-its-top-rated-spot-2000721004",
       "publishedAt": "2026-08-01T16:50:30Z",
-      "processed_at": "2026-08-02T20:56:06.779848+00:00"
+      "processed_at": "2026-08-02T21:58:10.940911+00:00"
+    },
+    {
+      "title": "Princess Charlotte demonstrates close bond with Duchess Sophie in touching moment - Yahoo",
+      "source": {
+        "name": "HELLO!"
+      },
+      "description": "Princess Charlotte and the Duchess of Edinburgh have a famously close bond, and this was demonstrate...",
+      "url": "https://www.hellomagazine.com/royalty/915976/princess-charlotte-close-bond-duchess-sophie/",
+      "publishedAt": "2026-08-01T16:45:02Z",
+      "processed_at": "2026-08-02T21:58:10.940911+00:00"
     },
     {
       "title": "Poll: Are You Happy with Your PS Plus Essential Games for August 2026? - Push Square",
@@ -40,60 +70,40 @@
       "description": "Plus or minus?...",
       "url": "https://www.pushsquare.com/features/poll-are-you-happy-with-your-ps-plus-essential-games-for-august-2026",
       "publishedAt": "2026-08-01T16:00:00Z",
-      "processed_at": "2026-08-02T20:56:06.779848+00:00"
+      "processed_at": "2026-08-02T21:58:10.940911+00:00"
     },
     {
-      "title": "Review: Xenoblade Chronicles 2: Does Switch 2's Power Finally Fix This Ambitious Open-World RPG? - Digital Foundry",
+      "title": "Google Briefly Turned Google Earth Into an AI Slop Factory - Gizmodo",
       "source": {
-        "name": "Digitalfoundry.net"
+        "name": "Gizmodo.com"
       },
-      "description": "And is truly a 4K 60fps experience docked - as promised?...",
-      "url": "https://www.digitalfoundry.net/reviews/xenoblade-chronicles-2-does-switch-2s-power-finally-fix-this-ambitious-open-world-rpg",
-      "publishedAt": "2026-08-01T15:06:00Z",
-      "processed_at": "2026-08-02T20:56:06.779848+00:00"
+      "description": "The company said it's \"rolling back\" the feature after just one day....",
+      "url": "https://gizmodo.com/google-briefly-turned-google-earth-into-an-ai-slop-factory-2000793605",
+      "publishedAt": "2026-08-01T15:00:09Z",
+      "processed_at": "2026-08-02T21:58:10.940911+00:00"
     },
     {
-      "title": "I knew caring for my 88-year-old mom would be hard. I didn't expect to spend so much time on tech support. - Yahoo",
+      "title": "Palworld TCG Scalpers Are Selling Cards for Thousands of Dollars as Pocketpair Launches Its New Trading Card Game - IGN",
       "source": {
-        "name": "Business Insider"
+        "name": "IGN"
       },
-      "description": "My fiercely independent mom managed mostly on her own into her 80s. Now two-factor authentication ha...",
-      "url": "https://www.businessinsider.com/caring-elderly-parent-means-being-tech-support-two-factor-authetication-2026-8",
-      "publishedAt": "2026-08-01T14:25:01Z",
-      "processed_at": "2026-08-02T20:56:06.779848+00:00"
+      "description": "The Palworld TCG has officially launched, and so too has a wave of scalpers looking to make a quick ...",
+      "url": "https://www.ign.com/articles/palworld-tcg-prices-skyrocket-as-ebay-scalpers-profit-off-of-card-game-launch",
+      "publishedAt": "2026-08-01T14:54:20Z",
+      "processed_at": "2026-08-02T21:58:10.940911+00:00"
     },
     {
-      "title": "Apps that help you break free from doomscrolling and get active - techcrunch.com",
+      "title": "Super Robot Wars Y DLC ‘Anniversary Expansion Pack’ launches August 5 - Gematsu",
       "source": {
-        "name": "TechCrunch"
+        "name": "Gematsu"
       },
-      "description": "If you’re looking to cut back on screen time and get a little more active, here’s a roundup of the a...",
-      "url": "https://techcrunch.com/2026/08/01/apps-that-help-you-break-free-from-doomscrolling-and-get-active/",
-      "publishedAt": "2026-08-01T14:00:00Z",
-      "processed_at": "2026-08-02T20:56:06.779848+00:00"
-    },
-    {
-      "title": "Xbox Game Pass: All Games Coming Soon In August 2026 - Pure Xbox",
-      "source": {
-        "name": "Pure Xbox"
-      },
-      "description": "All the confirmed reveals so far...",
-      "url": "https://www.purexbox.com/guides/xbox-game-pass-all-games-coming-soon-in-august-2026",
-      "publishedAt": "2026-08-01T13:30:00Z",
-      "processed_at": "2026-08-02T20:56:06.779848+00:00"
-    },
-    {
-      "title": "The Switch 2 is already starting to show its seams - polygon.com",
-      "source": {
-        "name": "Polygon"
-      },
-      "description": "Despite the Nintendo Switch 2 getting some miracle ports of huge games, some developers are still st...",
-      "url": "https://www.polygon.com/switchboard-clair-obscur-expedition-33-switch-2/",
-      "publishedAt": "2026-08-01T13:00:12Z",
-      "processed_at": "2026-08-02T20:56:06.779848+00:00"
+      "description": "The Super Robot Wars Y version 1.4.0 update will launch on August 4, followed by the paid downloadab...",
+      "url": "https://www.gematsu.com/2026/08/super-robot-wars-y-dlc-anniversary-expansion-pack-launches-august-5",
+      "publishedAt": "2026-08-01T14:30:28Z",
+      "processed_at": "2026-08-02T21:58:10.940911+00:00"
     }
   ],
-  "lastUpdated": "2026-08-02T20:56:06.779911+00:00",
+  "lastUpdated": "2026-08-02T21:58:10.940987+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
