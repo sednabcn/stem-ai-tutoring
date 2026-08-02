@@ -1,7 +1,17 @@
 {
   "status": "success",
-  "totalResults": 9,
+  "totalResults": 10,
   "articles": [
+    {
+      "title": "Samsung Galaxy S27 Ultra leak reveals massive camera and battery overhaul - Android Central",
+      "source": {
+        "name": "Android Central"
+      },
+      "description": "",
+      "url": "https://www.androidcentral.com/phones/samsung-galaxy/samsung-galaxy-s27-ultra-leak-reveals-massive-camera-and-battery-overhaul",
+      "publishedAt": "2026-08-01T03:21:07Z",
+      "processed_at": "2026-08-02T07:31:41.840905+00:00"
+    },
     {
       "title": "See how Google Earth let people make fake scenes of bombings, riots and destruction - The Washington Post",
       "source": {
@@ -10,7 +20,7 @@
       "description": "Google put on hold an AI feature in Google Earth just hours after it was introduced. People used it ...",
       "url": "https://www.washingtonpost.com/technology/2026/07/31/see-how-google-earth-let-people-make-fake-scenes-bombings-riots-destruction/",
       "publishedAt": "2026-08-01T02:33:52Z",
-      "processed_at": "2026-08-02T04:23:31.892468+00:00"
+      "processed_at": "2026-08-02T07:31:41.840905+00:00"
     },
     {
       "title": "With Switch 2, iPhone, and laptop tricks, the Sharge Disk Pro 2 is finally a worthy EDC - The Verge",
@@ -20,7 +30,7 @@
       "description": "Hands-on the Sharge Disk Pro 2, an SSD enclosure that doubles as a USB-C to HDMI dock, one that even...",
       "url": "https://www.theverge.com/gadgets/973886/sharge-disk-pro-2-hands-on-switch-2-hdmi-usb-c-dock",
       "publishedAt": "2026-07-31T22:09:11Z",
-      "processed_at": "2026-08-02T04:23:31.892468+00:00"
+      "processed_at": "2026-08-02T07:31:41.840905+00:00"
     },
     {
       "title": "EA FC 27 Drops Official Career Mode Deep Dive Trailer Featuring New Gameplay - Bleacher Report",
@@ -30,7 +40,7 @@
       "description": "The hype for EA FC 27 continues to build with EA Sports dropping a new deep dive trailer for career ...",
       "url": "https://bleacherreport.com/articles/25460359-ea-fc-27-drops-official-career-mode-deep-dive-trailer-featuring-new-gameplay",
       "publishedAt": "2026-07-31T21:56:15Z",
-      "processed_at": "2026-08-02T04:23:31.892468+00:00"
+      "processed_at": "2026-08-02T07:31:41.840905+00:00"
     },
     {
       "title": "A London Startup Is Selling Permanent Stick-On Tattoos—and It Wants to Do Mail Order - Gizmodo",
@@ -40,7 +50,7 @@
       "description": "Concerned parents of the world, unite....",
       "url": "https://gizmodo.com/a-london-startup-is-selling-permanent-stick-on-tattoos-and-it-wants-to-do-mail-order-2000793432",
       "publishedAt": "2026-07-31T20:59:30Z",
-      "processed_at": "2026-08-02T04:23:31.892468+00:00"
+      "processed_at": "2026-08-02T07:31:41.840905+00:00"
     },
     {
       "title": "Even after the RAM crisis ends, the era of affordable gaming hardware is gone for good. - IGN",
@@ -49,8 +59,8 @@
       },
       "description": "Gaming hardware is more expensive than ever. There’s a few different reasons things are as bad as th...",
       "url": "https://www.ign.com/articles/the-500-console-is-dead",
-      "publishedAt": "2026-07-31T20:39:48Z",
-      "processed_at": "2026-08-02T04:23:31.892468+00:00"
+      "publishedAt": "2026-07-31T20:54:51Z",
+      "processed_at": "2026-08-02T07:31:41.840905+00:00"
     },
     {
       "title": "Nvidia And AMD Wait Until The Same Time To Raise GPU Prices - kotaku.com",
@@ -60,27 +70,7 @@
       "description": "Even budget cards are getting ridiculously expensive...",
       "url": "https://kotaku.com/cant-decide-between-nvidia-and-amd-graphics-cards-dont-worry-theyre-both-rumored-to-be-raising-prices-2000720862",
       "publishedAt": "2026-07-31T20:01:30Z",
-      "processed_at": "2026-08-02T04:23:31.892468+00:00"
-    },
-    {
-      "title": "PlayStation Discs Are the Least of Sony’s Problems Right Now - Gizmodo",
-      "source": {
-        "name": "Gizmodo.com"
-      },
-      "description": "With RAM prices as high as they are, Sony wants to claim its consoles win on affordability....",
-      "url": "https://gizmodo.com/playstations-discs-are-the-least-of-sonys-problems-right-now-2000793552",
-      "publishedAt": "2026-07-31T19:50:32Z",
-      "processed_at": "2026-08-02T04:23:31.892468+00:00"
-    },
-    {
-      "title": "Tiny Difference in Username Sent Innocent Man to Prison - Newser",
-      "source": {
-        "name": "Newser"
-      },
-      "description": "",
-      "url": "https://www.newser.com/story/393891/missing-underscore-in-name-sent-innocent-man-to-prison.html",
-      "publishedAt": "2026-07-31T19:35:00Z",
-      "processed_at": "2026-08-02T04:23:31.892468+00:00"
+      "processed_at": "2026-08-02T07:31:41.840905+00:00"
     },
     {
       "title": "Google might launch a ‘Pixel Tag’ - The Verge",
@@ -90,10 +80,30 @@
       "description": "Google is seemingly working on an item tracker that might compete with Apple’s AirTag. 9to5Google ob...",
       "url": "https://www.theverge.com/tech/973889/google-pixel-tag-item-tracker",
       "publishedAt": "2026-07-31T18:27:24Z",
-      "processed_at": "2026-08-02T04:23:31.892468+00:00"
+      "processed_at": "2026-08-02T07:31:41.840905+00:00"
+    },
+    {
+      "title": "Researchers devise a full-color night vision goggle - Ars Technica",
+      "source": {
+        "name": "Ars Technica"
+      },
+      "description": "Wavelength and intensity in the infrared are translated into colors in the visible....",
+      "url": "https://arstechnica.com/science/2026/07/see-the-heat-an-infrared-imaging-system-that-outputs-in-color/",
+      "publishedAt": "2026-07-31T17:58:38Z",
+      "processed_at": "2026-08-02T07:31:41.840905+00:00"
+    },
+    {
+      "title": "Sony acknowledges backlash, will “cautiously” move forward with end of discs - Ars Technica",
+      "source": {
+        "name": "Ars Technica"
+      },
+      "description": "Sony doesn't think the move will hurt it financially....",
+      "url": "https://arstechnica.com/gaming/2026/07/sony-acknowledges-backlash-will-cautiously-move-forward-with-end-of-discs/",
+      "publishedAt": "2026-07-31T17:07:42Z",
+      "processed_at": "2026-08-02T07:31:41.840905+00:00"
     }
   ],
-  "lastUpdated": "2026-08-02T04:23:31.892539+00:00",
+  "lastUpdated": "2026-08-02T07:31:41.840983+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
