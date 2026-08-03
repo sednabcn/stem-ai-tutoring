@@ -3,6 +3,36 @@
   "totalResults": 10,
   "articles": [
     {
+      "title": "Google voice redesign merges AI Mode, Search Live, & Song lookup on Android - 9to5Google",
+      "source": {
+        "name": "9to5google.com"
+      },
+      "description": "The voice search button accessible from the Google bar found on most Android homescreens is getting ...",
+      "url": "http://9to5google.com/2026/08/02/google-voice-search-redesign-2/",
+      "publishedAt": "2026-08-02T19:14:00Z",
+      "processed_at": "2026-08-03T20:26:35.111568+00:00"
+    },
+    {
+      "title": "If You’re Struggling to Find a MacBook Air Right Now, This Is Probably Why - Gizmodo",
+      "source": {
+        "name": "Gizmodo.com"
+      },
+      "description": "You'll never guess what's reportedly causing the shortage....",
+      "url": "https://gizmodo.com/if-youre-struggling-to-find-a-macbook-air-right-now-this-is-probably-why-2000793739",
+      "publishedAt": "2026-08-02T19:00:31Z",
+      "processed_at": "2026-08-03T20:26:35.111568+00:00"
+    },
+    {
+      "title": "Windows 11's WinUI 3 modernization just reached one of its oldest legacy tools, meet the new Print Management - Windows Latest",
+      "source": {
+        "name": "WindowsLatest"
+      },
+      "description": "Windows 11's WinUI 3 modernization reaches Print Management, an early Insider test replacing the dec...",
+      "url": "https://www.windowslatest.com/2026/08/02/windows-11s-winui-3-modernization-just-reached-one-of-its-oldest-legacy-tools-meet-the-new-print-management/",
+      "publishedAt": "2026-08-02T17:33:15Z",
+      "processed_at": "2026-08-03T20:26:35.111568+00:00"
+    },
+    {
       "title": "Apple iPhone 18 Pro Release Date September Signaled In Keynote Update - Forbes",
       "source": {
         "name": "Forbes"
@@ -10,7 +40,47 @@
       "description": "A new report suggests when Apple will announce its key September event, revealing when the iPhone 18...",
       "url": "https://www.forbes.com/sites/davidphelan/2026/08/02/apple-iphone-18-pro-september-release-date-signaled-in-keynote-update/",
       "publishedAt": "2026-08-02T16:30:01Z",
-      "processed_at": "2026-08-03T18:51:07.091267+00:00"
+      "processed_at": "2026-08-03T20:26:35.111568+00:00"
+    },
+    {
+      "title": "Apple’s rumored AirPods with cameras could potentially debut as soon as next month - 9to5Mac",
+      "source": {
+        "name": "9to5Mac"
+      },
+      "description": "Apple has been working on camera-equipped AirPods for quite some time, with Visual Intelligence at t...",
+      "url": "https://9to5mac.com/2026/08/02/airpods-with-cameras-visual-intelligence-could-arrive-this-year/",
+      "publishedAt": "2026-08-02T16:18:00Z",
+      "processed_at": "2026-08-03T20:26:35.111568+00:00"
+    },
+    {
+      "title": "Xbox prices are increasing by up to €200 or £170 - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "Microsoft’s struggling Xbox console continues to see unprecedented price bumps in the face of RAM an...",
+      "url": "https://www.theverge.com/games/974253/xbox-prices-increasing-200-euros",
+      "publishedAt": "2026-08-02T16:14:20Z",
+      "processed_at": "2026-08-03T20:26:35.111568+00:00"
+    },
+    {
+      "title": "Remember Pokémon Ruby? Game Boy Advance Remake Is on the Way - PCMag",
+      "source": {
+        "name": "PCMag.com"
+      },
+      "description": "Though it won't support vintage cartridges, Ayaneo's Android handheld will emulate classic console t...",
+      "url": "https://www.pcmag.com/news/remember-pokemon-ruby-game-boy-advance-remake-is-on-the-way",
+      "publishedAt": "2026-08-02T15:15:35Z",
+      "processed_at": "2026-08-03T20:26:35.111568+00:00"
+    },
+    {
+      "title": "Linux 7.3 To Begin Laying The Groundwork For Intel Starfire - Phoronix",
+      "source": {
+        "name": "Phoronix"
+      },
+      "description": "Intel recently announced Starfire as their new Panther Lake derived, space-grade SoC designed for ex...",
+      "url": "https://www.phoronix.com/news/Intel-Starfire-Starts-Linux-7.3",
+      "publishedAt": "2026-08-02T14:32:00Z",
+      "processed_at": "2026-08-03T20:26:35.111568+00:00"
     },
     {
       "title": "PlayStation Petition Loses Steam Even As Sony Doubles Down on Disc Decision - Insider Gaming",
@@ -20,17 +90,7 @@
       "description": "Sony Interactive Entertainment has not backed down from the decision to scrap discs, but the energy ...",
       "url": "https://insider-gaming.com/playstation-petition-loses-steam-sony-double-down-disc/",
       "publishedAt": "2026-08-02T14:29:33Z",
-      "processed_at": "2026-08-03T18:51:07.091267+00:00"
-    },
-    {
-      "title": "Xgimi MemoMind One Review: You Don’t Want Smart Glasses That Record Everything You Say - Gizmodo",
-      "source": {
-        "name": "Gizmodo.com"
-      },
-      "description": "I tested Xgimi's MemoMind One, and I don't think I ever want to venture down that path again....",
-      "url": "https://gizmodo.com/you-dont-want-smart-glasses-that-record-everything-you-say-trust-me-2000793058",
-      "publishedAt": "2026-08-02T14:00:04Z",
-      "processed_at": "2026-08-03T18:51:07.091267+00:00"
+      "processed_at": "2026-08-03T20:26:35.111568+00:00"
     },
     {
       "title": "Apple Maps vs. Google Maps vs. Waze: Which CarPlay App Wins? - Geeky Gadgets",
@@ -40,70 +100,10 @@
       "description": "Which CarPlay navigation app deserves your dashboard? We test Google Maps' new 3D buildings directly...",
       "url": "https://www.geeky-gadgets.com/best-carplay-navigation-app/",
       "publishedAt": "2026-08-02T13:01:51Z",
-      "processed_at": "2026-08-03T18:51:07.091267+00:00"
-    },
-    {
-      "title": "I almost returned my Google Fitbit Air for broken sleep tracking until I changed one setting - Android Police",
-      "source": {
-        "name": "Android Police"
-      },
-      "description": "A single tweak in Google Health revived the sleep points I'd been missing...",
-      "url": "https://www.androidpolice.com/i-almost-returned-google-fitbit-air-broken-sleep-tracking-until-i-changed-setting/",
-      "publishedAt": "2026-08-02T12:30:15Z",
-      "processed_at": "2026-08-03T18:51:07.091267+00:00"
-    },
-    {
-      "title": "I almost downloaded another app until I found this Samsung Camera feature - Android Police",
-      "source": {
-        "name": "Android Police"
-      },
-      "description": "It's not perfect, and that's the point...",
-      "url": "https://www.androidpolice.com/i-almost-downloaded-another-app-until-i-found-this-samsung-camera-feature/",
-      "publishedAt": "2026-08-02T12:15:15Z",
-      "processed_at": "2026-08-03T18:51:07.091267+00:00"
-    },
-    {
-      "title": "I tracked sleep with Galaxy Watch Ultra 2, Fitbit Air, and Oura Ring 5. This is the one I'd buy - Android Police",
-      "source": {
-        "name": "Android Police"
-      },
-      "description": "Which one should you share your bed with?...",
-      "url": "https://www.androidpolice.com/i-tracked-sleep-with-the-galaxy-watch-ultra-2-fitbit-air-and-oura-ring-5/",
-      "publishedAt": "2026-08-02T12:00:16Z",
-      "processed_at": "2026-08-03T18:51:07.091267+00:00"
-    },
-    {
-      "title": "10 Cool New Gadgets to Keep on Your Radar - Gear Patrol",
-      "source": {
-        "name": "Gear Patrol"
-      },
-      "description": "Catching you up on the past week’s most notable product releases....",
-      "url": "https://www.gearpatrol.com/audio/best-new-tech-releases-8-02-26/",
-      "publishedAt": "2026-08-02T12:00:00Z",
-      "processed_at": "2026-08-03T18:51:07.091267+00:00"
-    },
-    {
-      "title": "26 New Watches You Might’ve Missed from Citizen, Timex, Breitling, TAG Heuer and More - gearpatrol.com",
-      "source": {
-        "name": "Gear Patrol"
-      },
-      "description": "Keep time with the industry's most exciting new watches, including Citizen, Timex, Breitling, TAG He...",
-      "url": "https://www.gearpatrol.com/watches/watches-you-missed-august-2-2026/",
-      "publishedAt": "2026-08-02T12:00:00Z",
-      "processed_at": "2026-08-03T18:51:07.091267+00:00"
-    },
-    {
-      "title": "Silent Hill: Townfall's dev team wrecked old TVs with magnets to make its in-game gadget feel real - Eurogamer.net",
-      "source": {
-        "name": "Eurogamer.net"
-      },
-      "description": "Silent Hill: Townfall studio Screen Burn used broken TVs and magnets to make its in-game gadget, the...",
-      "url": "https://www.eurogamer.net/silent-hill-townfall-crtv",
-      "publishedAt": "2026-08-02T11:50:59Z",
-      "processed_at": "2026-08-03T18:51:07.091267+00:00"
+      "processed_at": "2026-08-03T20:26:35.111568+00:00"
     }
   ],
-  "lastUpdated": "2026-08-03T18:51:07.091345+00:00",
+  "lastUpdated": "2026-08-03T20:26:35.111642+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
