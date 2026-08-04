@@ -3,6 +3,46 @@
   "totalResults": 10,
   "articles": [
     {
+      "title": "The global memory shortage hits the MacBook Air - TechCrunch",
+      "source": {
+        "name": "TechCrunch"
+      },
+      "description": "The global memory chip shortage appears to be affecting the availability of Apple’s most popular Mac...",
+      "url": "https://techcrunch.com/2026/08/02/the-global-memory-shortage-hits-the-macbook-air/",
+      "publishedAt": "2026-08-02T21:33:59Z",
+      "processed_at": "2026-08-04T00:09:38.938972+00:00"
+    },
+    {
+      "title": "Google pulls AI feature after users create fake satellite images (GOOGL:NASDAQ) - Seeking Alpha",
+      "source": {
+        "name": "Seeking Alpha"
+      },
+      "description": "Google paused a new AI feature in Google Earth after it created realistic fake satellite images....",
+      "url": "https://seekingalpha.com/news/4623153-google-pulls-ai-feature-after-users-create-fake-satellite-images",
+      "publishedAt": "2026-08-02T20:12:54Z",
+      "processed_at": "2026-08-04T00:09:38.938972+00:00"
+    },
+    {
+      "title": "Here’s how iPhone Ultra’s form factor could compare to other Apple products - 9to5Mac",
+      "source": {
+        "name": "9to5Mac"
+      },
+      "description": "Next month, Apple will be unveiling its first foldable iPhone – rumored to be called iPhone Ultra. I...",
+      "url": "https://9to5mac.com/2026/08/02/heres-how-iphone-ultras-form-factor-could-compare-to-other-apple-products/",
+      "publishedAt": "2026-08-02T19:21:00Z",
+      "processed_at": "2026-08-04T00:09:38.938972+00:00"
+    },
+    {
+      "title": "3 Tech Brands You Might Not Realize Are Owned By TCL - bgr.com",
+      "source": {
+        "name": "BGR"
+      },
+      "description": "TCL owns several other tech brands that help expand its marketplace reach beyond TVs and smartphones...",
+      "url": "https://www.bgr.com/2226201/tech-brands-owned-by-tcl/",
+      "publishedAt": "2026-08-02T19:17:00Z",
+      "processed_at": "2026-08-04T00:09:38.938972+00:00"
+    },
+    {
       "title": "Google voice redesign merges AI Mode, Search Live, & Song lookup on Android - 9to5Google",
       "source": {
         "name": "9to5google.com"
@@ -10,17 +50,7 @@
       "description": "The voice search button accessible from the Google bar found on most Android homescreens is getting ...",
       "url": "http://9to5google.com/2026/08/02/google-voice-search-redesign-2/",
       "publishedAt": "2026-08-02T19:14:00Z",
-      "processed_at": "2026-08-03T22:09:26.045931+00:00"
-    },
-    {
-      "title": "If You’re Struggling to Find a MacBook Air Right Now, This Is Probably Why - Gizmodo",
-      "source": {
-        "name": "Gizmodo.com"
-      },
-      "description": "You'll never guess what's reportedly causing the shortage....",
-      "url": "https://gizmodo.com/if-youre-struggling-to-find-a-macbook-air-right-now-this-is-probably-why-2000793739",
-      "publishedAt": "2026-08-02T19:00:31Z",
-      "processed_at": "2026-08-03T22:09:26.045931+00:00"
+      "processed_at": "2026-08-04T00:09:38.938972+00:00"
     },
     {
       "title": "5 Essential Apps To Download On Your Nvidia Shield TV Pro - bgr.com",
@@ -30,7 +60,17 @@
       "description": "If you recently picked up an Nvidia Shield TV Pro, make sure to check out these essential apps to ma...",
       "url": "https://www.bgr.com/2225145/essential-apps-download-nvidia-shield-tv-pro/",
       "publishedAt": "2026-08-02T18:17:00Z",
-      "processed_at": "2026-08-03T22:09:26.045931+00:00"
+      "processed_at": "2026-08-04T00:09:38.938972+00:00"
+    },
+    {
+      "title": "Samsung Galaxy S27 Ultra: Weird camera designs and higher prices tipped - Notebookcheck",
+      "source": {
+        "name": "Notebookcheck.net"
+      },
+      "description": "We’re halfway between the Galaxy S26 launch and the next big Galaxy Unpacked event and the rumors su...",
+      "url": "https://www.notebookcheck.net/Samsung-Galaxy-S27-Ultra-Weird-camera-designs-and-higher-prices-tipped.1358369.0.html",
+      "publishedAt": "2026-08-02T17:28:00Z",
+      "processed_at": "2026-08-04T00:09:38.938972+00:00"
     },
     {
       "title": "Apple iPhone 18 Pro Release Date September Signaled In Keynote Update - Forbes",
@@ -40,7 +80,7 @@
       "description": "A new report suggests when Apple will announce its key September event, revealing when the iPhone 18...",
       "url": "https://www.forbes.com/sites/davidphelan/2026/08/02/apple-iphone-18-pro-september-release-date-signaled-in-keynote-update/",
       "publishedAt": "2026-08-02T16:30:01Z",
-      "processed_at": "2026-08-03T22:09:26.045931+00:00"
+      "processed_at": "2026-08-04T00:09:38.938972+00:00"
     },
     {
       "title": "Marvel’s Wolverine Will Feature a Handful of Brief Sequences With “Exposed Buttocks” - MP1st",
@@ -50,7 +90,7 @@
       "description": "Marvel's Wolverine will feature partial nudity confirmed by its summary, as it earns its M for Matur...",
       "url": "https://mp1st.com/news/marvels-wolverine-feature-a-handful-brief-sequences-with-exposed-buttocks",
       "publishedAt": "2026-08-02T16:29:10Z",
-      "processed_at": "2026-08-03T22:09:26.045931+00:00"
+      "processed_at": "2026-08-04T00:09:38.938972+00:00"
     },
     {
       "title": "Apple’s rumored AirPods with cameras could potentially debut as soon as next month - 9to5Mac",
@@ -60,50 +100,10 @@
       "description": "Apple has been working on camera-equipped AirPods for quite some time, with Visual Intelligence at t...",
       "url": "https://9to5mac.com/2026/08/02/airpods-with-cameras-visual-intelligence-could-arrive-this-year/",
       "publishedAt": "2026-08-02T16:18:00Z",
-      "processed_at": "2026-08-03T22:09:26.045931+00:00"
-    },
-    {
-      "title": "Xbox prices are increasing by up to €200 or £170 - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "Microsoft’s struggling Xbox console continues to see unprecedented price bumps in the face of RAM an...",
-      "url": "https://www.theverge.com/games/974253/xbox-prices-increasing-200-euros",
-      "publishedAt": "2026-08-02T16:14:20Z",
-      "processed_at": "2026-08-03T22:09:26.045931+00:00"
-    },
-    {
-      "title": "8 New Audio Upgrades To Look Out For In 2026 - bgr.com",
-      "source": {
-        "name": "BGR"
-      },
-      "description": "From record players and desk speakers to wireless headphones, here are some of the newest audio upgr...",
-      "url": "https://www.bgr.com/2226365/new-audio-upgrades-look-out-for/",
-      "publishedAt": "2026-08-02T16:02:00Z",
-      "processed_at": "2026-08-03T22:09:26.045931+00:00"
-    },
-    {
-      "title": "Razer Blade 18 Review: Biggest (but Not Heaviest), Baddest Gaming Laptop Money Can Buy - CNET",
-      "source": {
-        "name": "CNET"
-      },
-      "description": "And it will take a lot of money to buy....",
-      "url": "https://www.cnet.com/tech/computing/razer-blade-18-gaming-laptop-review/",
-      "publishedAt": "2026-08-02T15:08:00Z",
-      "processed_at": "2026-08-03T22:09:26.045931+00:00"
-    },
-    {
-      "title": "Linux 7.3 To Begin Laying The Groundwork For Intel Starfire - Phoronix",
-      "source": {
-        "name": "Phoronix"
-      },
-      "description": "Intel recently announced Starfire as their new Panther Lake derived, space-grade SoC designed for ex...",
-      "url": "https://www.phoronix.com/news/Intel-Starfire-Starts-Linux-7.3",
-      "publishedAt": "2026-08-02T14:32:00Z",
-      "processed_at": "2026-08-03T22:09:26.045931+00:00"
+      "processed_at": "2026-08-04T00:09:38.938972+00:00"
     }
   ],
-  "lastUpdated": "2026-08-03T22:09:26.046003+00:00",
+  "lastUpdated": "2026-08-04T00:09:38.939048+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
