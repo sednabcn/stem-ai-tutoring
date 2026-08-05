@@ -1,7 +1,97 @@
 {
   "status": "success",
-  "totalResults": 9,
+  "totalResults": 10,
   "articles": [
+    {
+      "title": "Here’s the first Asus Googlebook as the floodgates start to open - 9to5Google",
+      "source": {
+        "name": "9to5google.com"
+      },
+      "description": "Another Googlebook has surfaced online just a day after images of a separate PC maker’s version made...",
+      "url": "http://9to5google.com/2026/08/04/heres-the-first-asus-googlebook/",
+      "publishedAt": "2026-08-04T18:37:00Z",
+      "processed_at": "2026-08-05T19:35:58.149871+00:00"
+    },
+    {
+      "title": "Fans Upset Over Some New Vinyl Records Missing Content And Final Mixes - Kotaku",
+      "source": {
+        "name": "Kotaku"
+      },
+      "description": "Artists like Olivia Rodrigo and Raye are catching flak from collectors and fans for selling incomple...",
+      "url": "https://kotaku.com/physical-media-fans-are-sick-of-expensive-vinyl-albums-with-unfinished-tracks-or-missing-songs-a-bait-and-switch-isnt-cool-2000721582",
+      "publishedAt": "2026-08-04T18:15:53Z",
+      "processed_at": "2026-08-05T19:35:58.149871+00:00"
+    },
+    {
+      "title": "Android 17 August update rolling out with three Pixel 10 fixes - 9to5Google",
+      "source": {
+        "name": "9to5google.com"
+      },
+      "description": "Google is rolling out the August 2026 security patch for Android 17 on the Pixel 10 Pro, Pixel 10 Pr...",
+      "url": "http://9to5google.com/2026/08/04/android-17-august-pixel-update/",
+      "publishedAt": "2026-08-04T18:12:00Z",
+      "processed_at": "2026-08-05T19:35:58.149871+00:00"
+    },
+    {
+      "title": "Apple Gears Up for September iPhone Launch With Retail Employee Lottery - Bloomberg.com",
+      "source": {
+        "name": "Bloomberg"
+      },
+      "description": "With Apple Inc. gearing up for its biggest product launch of the year, the company is opening a lott...",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-04/apple-gears-up-for-september-iphone-launch-with-retail-employee-lottery",
+      "publishedAt": "2026-08-04T16:56:01Z",
+      "processed_at": "2026-08-05T19:35:58.149871+00:00"
+    },
+    {
+      "title": "Fresh Pixel 11 series leak reveals thinner camera bar and 30-hour battery - Android Authority",
+      "source": {
+        "name": "Android Authority"
+      },
+      "description": "A new leak has come for the base model Pixel 11 and Pixel 11 Pro Fold, revealing marketing materials...",
+      "url": "https://www.androidauthority.com/pixel-11-series-marketing-materials-3694475/",
+      "publishedAt": "2026-08-04T16:23:00Z",
+      "processed_at": "2026-08-05T19:35:58.149871+00:00"
+    },
+    {
+      "title": "Crimson Moon launches September 1 - Gematsu",
+      "source": {
+        "name": "Gematsu"
+      },
+      "description": "Gothic action adventure RPG Crimson Moon will launch for PlayStation 5, Xbox Series, and PC via Stea...",
+      "url": "https://www.gematsu.com/2026/08/crimson-moon-launches-september-1",
+      "publishedAt": "2026-08-04T16:15:48Z",
+      "processed_at": "2026-08-05T19:35:58.149871+00:00"
+    },
+    {
+      "title": "‘One of Our Biggest Reinventions in Recent History’ – All of the Biggest Details on FC 27’s Open World The Grounds Mode - IGN",
+      "source": {
+        "name": "Google News"
+      },
+      "description": "",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNM3VMRnB1UmFBVmhhQ3lrbDQ1OFNFMTdhbVBaeUEyclpsNkhyRExnVjJ5ODEzSE9iRnlxQWFQdDNXN3EwS01ZN2g5XzJpa0ZpQzBBNlJaRTI4OXVpVXQzdVNZSWpFaWZrak9RRGtEWWYyUUFWSUN6cGhWd0lCbm5heDdtOWZmaFZtOEYxM0dmN1M2ZTgtLTFyeg?oc=5",
+      "publishedAt": "2026-08-04T16:00:00Z",
+      "processed_at": "2026-08-05T19:35:58.149871+00:00"
+    },
+    {
+      "title": "Steam’s Cyberpunk Sale Features Some Massive Classics At Their Lowest Ever Prices - kotaku.com",
+      "source": {
+        "name": "Kotaku"
+      },
+      "description": "Cyberpunk 2077 and RoboCop: Rogue City will barely trouble your wallet...",
+      "url": "https://kotaku.com/steam-cyberpunk-sale-2077-robocop-rogue-city-uplink-ghostrunner-2000721522",
+      "publishedAt": "2026-08-04T15:52:18Z",
+      "processed_at": "2026-08-05T19:35:58.149871+00:00"
+    },
+    {
+      "title": "Google Password Manager passkeys could be at risk with new ‘Pass-ta-key’ attack - 9to5Google",
+      "source": {
+        "name": "9to5google.com"
+      },
+      "description": "Passkeys are becoming more popular as a safer alternative to traditional passwords, but some cracks ...",
+      "url": "http://9to5google.com/2026/08/04/google-password-manager-passkeys-could-be-at-risk/",
+      "publishedAt": "2026-08-04T15:50:00Z",
+      "processed_at": "2026-08-05T19:35:58.149871+00:00"
+    },
     {
       "title": "iPhone 18 Pro will have three upgrades that have been rumored for years - 9to5Mac",
       "source": {
@@ -10,90 +100,10 @@
       "description": "iPhone 18 Pro is coming very soon, and expected to feature three upgrades that have been rumored for...",
       "url": "https://9to5mac.com/2026/08/04/iphone-18-pro-will-have-three-upgrades-that-have-been-rumored-for-years/",
       "publishedAt": "2026-08-04T15:28:00Z",
-      "processed_at": "2026-08-05T17:38:45.933230+00:00"
-    },
-    {
-      "title": "Mafia: The Old Country expansion ‘Man of Honor’ gameplay first look trailer - Gematsu",
-      "source": {
-        "name": "Gematsu"
-      },
-      "description": "Publisher 2K and developer Hangar 13 have released a three-minute gameplay first look trailer for Ma...",
-      "url": "https://www.gematsu.com/2026/08/mafia-the-old-country-expansion-man-of-honor-gameplay-first-look-trailer",
-      "publishedAt": "2026-08-04T15:07:49Z",
-      "processed_at": "2026-08-05T17:38:45.933230+00:00"
-    },
-    {
-      "title": "Pixel Watch 5 specs leak reveals what’s new: ‘Accelerated’ chip, 2nd-gen Active Band, more - 9to5Google",
-      "source": {
-        "name": "9to5google.com"
-      },
-      "description": "Full Pixel Watch 5 specs have leaked today and reveal that Google made a trio of key hardware change...",
-      "url": "http://9to5google.com/2026/08/04/pixel-watch-5-specs-leak-2/",
-      "publishedAt": "2026-08-04T14:46:00Z",
-      "processed_at": "2026-08-05T17:38:45.933230+00:00"
-    },
-    {
-      "title": "My Strange Amex Credit Card Fraud: What Really Happened In Malaysia?! - One Mile at a Time",
-      "source": {
-        "name": "One Mile at a Time"
-      },
-      "description": "I just had fraudulent transactions on an Amex card, and I find them to be particularly strange, give...",
-      "url": "https://onemileatatime.com/insights/strange-amex-credit-card-fraud/",
-      "publishedAt": "2026-08-04T14:22:20Z",
-      "processed_at": "2026-08-05T17:38:45.933230+00:00"
-    },
-    {
-      "title": "WhatsApp launches three new features to upgrade group chats - 9to5Mac",
-      "source": {
-        "name": "9to5Mac"
-      },
-      "description": "WhatsApp has three upgrades for group chats launching today, including improvements to polls, @all m...",
-      "url": "https://9to5mac.com/2026/08/04/whatsapp-launches-new-features-to-upgrade-group-chats/",
-      "publishedAt": "2026-08-04T14:00:00Z",
-      "processed_at": "2026-08-05T17:38:45.933230+00:00"
-    },
-    {
-      "title": "VST is 30 years old, and Steinberg is giving away some of its earliest plugins - CDM Create Digital Music",
-      "source": {
-        "name": "Cdm.link"
-      },
-      "description": "It's the format that changed software music making forever: the VST plug-in format turns 30 this yea...",
-      "url": "https://cdm.link/vst-at-30-years-and-steinberg-classics-free/",
-      "publishedAt": "2026-08-04T13:54:14Z",
-      "processed_at": "2026-08-05T17:38:45.933230+00:00"
-    },
-    {
-      "title": "Leak confirms Pixel 11 ‘Glow’ is called ‘HiLight’ and what it can do - 9to5Google",
-      "source": {
-        "name": "9to5google.com"
-      },
-      "description": "As we reported on last week, the “Pixel Glow” feature coming to the Pixel 11 series is likely going ...",
-      "url": "http://9to5google.com/2026/08/04/google-pixel-11-hilight-glow-leak/",
-      "publishedAt": "2026-08-04T13:45:00Z",
-      "processed_at": "2026-08-05T17:38:45.933230+00:00"
-    },
-    {
-      "title": "Next year’s iPhone Pro models will have larger screen sizes, per leak - 9to5Mac",
-      "source": {
-        "name": "9to5Mac"
-      },
-      "description": "Next year’s 20th anniversary iPhone Pro models could bring new, larger screen sizes per a reputable ...",
-      "url": "https://9to5mac.com/2026/08/04/next-years-iphone-pro-models-will-have-larger-screen-sizes-per-leak/",
-      "publishedAt": "2026-08-04T13:34:00Z",
-      "processed_at": "2026-08-05T17:38:45.933230+00:00"
-    },
-    {
-      "title": "Shift Up CEO Tries To Defend Stellar Blade: Blood Rain Slop Video From Fan Backlash And Continues To Get Roasted: 'Insane Cope' - Kotaku",
-      "source": {
-        "name": "Kotaku"
-      },
-      "description": "Kim Hyung Tae is at odds with some of the sequel's biggest boosters...",
-      "url": "https://kotaku.com/shift-up-ceo-tries-to-defend-stellar-blade-blood-rain-slop-video-from-fan-backlash-and-continues-to-get-roasted-insane-cope-2000721498",
-      "publishedAt": "2026-08-04T13:27:11Z",
-      "processed_at": "2026-08-05T17:38:45.933230+00:00"
+      "processed_at": "2026-08-05T19:35:58.149871+00:00"
     }
   ],
-  "lastUpdated": "2026-08-05T17:38:45.933317+00:00",
+  "lastUpdated": "2026-08-05T19:35:58.149949+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
