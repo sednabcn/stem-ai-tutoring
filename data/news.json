@@ -1,89 +1,109 @@
 {
   "status": "success",
-  "totalResults": 8,
+  "totalResults": 10,
   "articles": [
     {
-      "title": "Google Assistant will disappear from your phone next month - The Verge",
+      "title": "Google plans to kill Assistant on your phone on September 4 - Ars Technica",
+      "source": {
+        "name": "Ars Technica"
+      },
+      "description": "Assistant will disappear, leaving only Gemini for voice control in the coming weeks....",
+      "url": "https://arstechnica.com/ai/2026/08/google-plans-to-kill-assistant-on-your-phone-on-september-4/",
+      "publishedAt": "2026-08-05T15:30:02Z",
+      "processed_at": "2026-08-06T15:19:40.191737+00:00"
+    },
+    {
+      "title": "Is Nintendo Losing Its Soul? - IGN",
+      "source": {
+        "name": "IGN"
+      },
+      "description": "The Switch 2 is an iterative update console. The Zelda: Ocarina of Time and Star Fox remakes are saf...",
+      "url": "https://www.ign.com/articles/is-nintendo-losing-its-soul",
+      "publishedAt": "2026-08-05T15:30:00Z",
+      "processed_at": "2026-08-06T15:19:40.191737+00:00"
+    },
+    {
+      "title": "Pixel Watch 5 leaked marketing images surface one week before launch - 9to5Google",
+      "source": {
+        "name": "9to5google.com"
+      },
+      "description": "Google’s marketing images for the Pixel Watch 5 have sprouted up online, and they dive a little deep...",
+      "url": "http://9to5google.com/2026/08/05/pixel-watch-5-leaked-images/",
+      "publishedAt": "2026-08-05T14:58:00Z",
+      "processed_at": "2026-08-06T15:19:40.191737+00:00"
+    },
+    {
+      "title": "Nintendo announces Gamescom 2026 lineup - Nintendo Everything",
+      "source": {
+        "name": "Nintendoeverything.com"
+      },
+      "description": "Nintendo has shared its full lineup of games for Gamescom 2026, including a couple of titles that wi...",
+      "url": "https://nintendoeverything.com/nintendo-announces-gamescom-2026-lineup/",
+      "publishedAt": "2026-08-05T14:37:30Z",
+      "processed_at": "2026-08-06T15:19:40.191737+00:00"
+    },
+    {
+      "title": "Sunbird relaunched its iMessage app for Android users after three years away - The Verge",
       "source": {
         "name": "The Verge"
       },
-      "description": "﻿It’ll be Gemini or nothing on Android from September 4th....",
-      "url": "https://www.theverge.com/tech/975516/google-assistant-android-phones-tablets-shutdown",
-      "publishedAt": "2026-08-05T11:12:50Z",
-      "processed_at": "2026-08-06T12:57:20.507932+00:00"
+      "description": "Sunbird relaunched its app that offers direct iMessage access on Android, and claims it fixed securi...",
+      "url": "https://www.theverge.com/tech/975563/imessage-android-sunbird",
+      "publishedAt": "2026-08-05T14:13:15Z",
+      "processed_at": "2026-08-06T15:19:40.191737+00:00"
     },
     {
-      "title": "Gene-edited beagles may offer a future option for people with dog allergies - AP News",
+      "title": "iOS 27’s best new Messages feature is all about saving you time - 9to5Mac",
       "source": {
-        "name": "Associated Press"
+        "name": "9to5Mac"
       },
-      "description": "Scientists at a biotech company have used gene editing to create two hypoallergenic beagles that don...",
-      "url": "https://apnews.com/article/hypoallergenic-dogs-crispr-pet-allergies-f5bd8cb438dfd1a9d1cccd4a1d46fd2a",
-      "publishedAt": "2026-08-05T11:05:00Z",
-      "processed_at": "2026-08-06T12:57:20.507932+00:00"
+      "description": "iOS 27 gives the Messages app a convenient new feature that’s designed to save you time: one-tap sug...",
+      "url": "https://9to5mac.com/2026/08/05/ios-27s-best-new-messages-feature-is-all-about-saving-you-time/",
+      "publishedAt": "2026-08-05T14:05:00Z",
+      "processed_at": "2026-08-06T15:19:40.191737+00:00"
     },
     {
-      "title": "‘We take your feedback to heart’: Game Freak is planning regular Beast of Reincarnation updates, starting next week - Video Games Chronicle",
+      "title": "Tactical RPG Beaten Path launches in 2027 for PS5, Xbox Series, Switch, and PC - Gematsu",
       "source": {
-        "name": "Video Games Chronicle"
+        "name": "Gematsu"
       },
-      "description": "Reviews for the game have been mixed so far...",
-      "url": "https://www.videogameschronicle.com/news/we-take-your-feedback-to-heart-game-freak-is-planning-regular-beast-of-reincarnation-updates-starting-next-week/",
-      "publishedAt": "2026-08-05T09:45:37Z",
-      "processed_at": "2026-08-06T12:57:20.507932+00:00"
+      "description": "Kickstarter-funded turn-based strategy RPG Beaten Path will launch for PlayStation 5, Xbox Series, S...",
+      "url": "https://www.gematsu.com/2026/08/tactical-rpg-beaten-path-launches-in-2027-for-ps5-xbox-series-switch-and-pc",
+      "publishedAt": "2026-08-05T13:09:25Z",
+      "processed_at": "2026-08-06T15:19:40.191737+00:00"
     },
     {
-      "title": "Leaked Galaxy S26 FE firmware shows wallpapers, hints at One UI 9.5 - SamMobile",
+      "title": "TikTok is telling people to put their phones into the fridge, and repair shops are happy - 9to5Mac",
       "source": {
-        "name": "SamMobile"
+        "name": "9to5Mac"
       },
-      "description": "Leaked firmware for the Galaxy S26 FE revealed new wallpapers and gives us a hint at what the One UI...",
-      "url": "https://www.sammobile.com/news/leaked-galaxy-s26-fe-firmware-wallpapers-one-ui-9-5/",
-      "publishedAt": "2026-08-05T09:15:00Z",
-      "processed_at": "2026-08-06T12:57:20.507932+00:00"
+      "description": "I don’t use TikTok myself, but from all of the second-hand reports I see, it seems to have become a....",
+      "url": "https://9to5mac.com/2026/08/05/tiktok-is-telling-people-to-put-their-phones-into-the-fridge-and-repair-shops-are-happy/",
+      "publishedAt": "2026-08-05T12:32:00Z",
+      "processed_at": "2026-08-06T15:19:40.191737+00:00"
     },
     {
-      "title": "The Pixel 10 gets the spotlight in Google's August update - Android Police",
-      "source": {
-        "name": "Android Police"
-      },
-      "description": "It fixes several GPU-related issues...",
-      "url": "https://www.androidpolice.com/pixel-10-gets-the-spotlight-in-googles-august-update/",
-      "publishedAt": "2026-08-05T04:54:33Z",
-      "processed_at": "2026-08-06T12:57:20.507932+00:00"
-    },
-    {
-      "title": "Pokémon Pokopia Updated To Version 2.0.0, Here Are The Full Patch Notes - Nintendo Life",
+      "title": "Review: Jurassic World Evolution 2: Complete Edition (Switch 2) - A Nearly Definitive Dinosaur Sandbox - Nintendo Life",
       "source": {
         "name": "Nintendo Life"
       },
-      "description": "Bubbly Basin, free updates and much more...",
-      "url": "https://www.nintendolife.com/news/2026/08/pokemon-pokopia-updated-to-version-2-0-0-here-are-the-full-patch-notes",
-      "publishedAt": "2026-08-05T03:08:13Z",
-      "processed_at": "2026-08-06T12:57:20.507932+00:00"
+      "description": "",
+      "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/jurassic-world-evolution-2-complete-edition",
+      "publishedAt": "2026-08-05T12:00:00Z",
+      "processed_at": "2026-08-06T15:19:40.191737+00:00"
     },
     {
-      "title": "Burt Reynolds was gifted a brand new Pontiac Trans Am every year for the rest of his life until an awkward call with General Motors president - supercarblondie.com",
+      "title": "Marvel Rivals’ next update drastically reduces the game’s install size on PC and console - Eurogamer.net",
       "source": {
-        "name": "Supercarblondie.com"
+        "name": "Eurogamer.net"
       },
-      "description": "Following the huge success of the film Smokey and the Bandit, Burt Reynolds struck a deal with GM fo...",
-      "url": "https://supercarblondie.com/burt-reynolds-pontiac-trans-am-smokey-and-the-bandit-free-car/",
-      "publishedAt": "2026-08-05T01:39:00Z",
-      "processed_at": "2026-08-06T12:57:20.507932+00:00"
-    },
-    {
-      "title": "Big Walk Just Hit A Major Milestone On PS Plus - GameSpot",
-      "source": {
-        "name": "GameSpot"
-      },
-      "description": "The follow-up title from the developers of Untitled Goose Game has achieved a critical high upon its...",
-      "url": "https://www.gamespot.com/articles/big-walk-just-hit-a-major-milestone-on-ps-plus/",
-      "publishedAt": "2026-08-04T22:42:27Z",
-      "processed_at": "2026-08-06T12:57:20.507932+00:00"
+      "description": "As of Season 9.5, Marvel Rivals is going to take up a lot less space on your platform of choice....",
+      "url": "https://www.eurogamer.net/marvel-rivals-file-size-reduction-pc-xbox-playstation",
+      "publishedAt": "2026-08-05T11:28:58Z",
+      "processed_at": "2026-08-06T15:19:40.191737+00:00"
     }
   ],
-  "lastUpdated": "2026-08-06T12:57:20.508011+00:00",
+  "lastUpdated": "2026-08-06T15:19:40.191813+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
