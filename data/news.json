@@ -1,36 +1,76 @@
 {
   "status": "success",
-  "totalResults": 9,
+  "totalResults": 10,
   "articles": [
     {
-      "title": "Google reveals who is hosting Pixel 11 launch event and other guests - 9to5Google",
+      "title": "Quake remaster ‘Dawn of the Machine’ update now available - Gematsu",
       "source": {
-        "name": "9to5google.com"
+        "name": "Gematsu"
       },
-      "description": "With Made by Google 2026 taking place in less than a week, the company today revealed who is hosting...",
-      "url": "http://9to5google.com/2026/08/06/pixel-11-launch-host/",
-      "publishedAt": "2026-08-06T17:31:00Z",
-      "processed_at": "2026-08-07T20:41:30.722239+00:00"
+      "description": "Publisher Bethseda Softworks and developers id Software and Nightdive Studios have released a free u...",
+      "url": "https://www.gematsu.com/2026/08/quake-remaster-dawn-of-the-machine-update-now-available",
+      "publishedAt": "2026-08-06T18:10:52Z",
+      "processed_at": "2026-08-07T21:39:26.878242+00:00"
     },
     {
-      "title": "OpenAI updating ChatGPT with a smarter GPT-5.6 Sol and unlimited free chats - 9to5Mac",
+      "title": "Tesla Rolls Out New Maps Update in North America - Not a Tesla App",
       "source": {
-        "name": "9to5Mac"
+        "name": "Notateslaapp.com"
       },
-      "description": "ChatGPT has become so much more than just chat over the last year. To that end, OpenAI is removing l...",
-      "url": "https://9to5mac.com/2026/08/06/openai-updating-chatgpt-with-a-smarter-gpt-5-6-sol-and-unlimited-free-chats/",
-      "publishedAt": "2026-08-06T17:16:00Z",
-      "processed_at": "2026-08-07T20:41:30.722239+00:00"
+      "description": "The new map data package brings updated street layouts, revised speed limits, and points of interest...",
+      "url": "https://www.notateslaapp.com/news/4548/tesla-rolls-out-new-maps-update-in-north-america",
+      "publishedAt": "2026-08-06T17:54:00Z",
+      "processed_at": "2026-08-07T21:39:26.878242+00:00"
     },
     {
-      "title": "Free 4K, 60fps PS5 Upgrade for Ghost Recon Wildlands Out Now, Included with PS Plus Extra - Push Square",
+      "title": "5 Lawsuits Accusing PlayStation Of Being Anti-Competitive, Explained - Kotaku",
       "source": {
-        "name": "Push Square"
+        "name": "Kotaku"
       },
-      "description": "",
-      "url": "https://www.pushsquare.com/news/2026/08/free-4k-60fps-ps5-upgrade-for-ghost-recon-wildlands-out-now-included-with-ps-plus-extra",
-      "publishedAt": "2026-08-06T16:45:00Z",
-      "processed_at": "2026-08-07T20:41:30.722239+00:00"
+      "description": "Here's how these anti-compete lawsuits are playing out...",
+      "url": "https://kotaku.com/playstation-is-being-sued-in-five-different-countries-over-anti-competitive-concerns-and-the-end-of-discs-isnt-helping-2000722141",
+      "publishedAt": "2026-08-06T17:44:00Z",
+      "processed_at": "2026-08-07T21:39:26.878242+00:00"
+    },
+    {
+      "title": "ChatGPT brings unlimited text chats to free users - TechCrunch",
+      "source": {
+        "name": "TechCrunch"
+      },
+      "description": "OpenAI said that ChatGPT free and Go users are also getting a new think button for complex queries....",
+      "url": "https://techcrunch.com/2026/08/06/openai-brings-unlimited-chatgpt-text-chats-to-free-users/",
+      "publishedAt": "2026-08-06T17:34:42Z",
+      "processed_at": "2026-08-07T21:39:26.878242+00:00"
+    },
+    {
+      "title": "Apple Releases macOS Tahoe 26.6.1 With Security Fixes - MacRumors",
+      "source": {
+        "name": "MacRumors"
+      },
+      "description": "Apple today released macOS Tahoe 26.6.1, an update to the macOS Tahoe operating system that came out...",
+      "url": "https://www.macrumors.com/2026/08/06/apple-releases-macos-tahoe-26-6-1/",
+      "publishedAt": "2026-08-06T17:34:39Z",
+      "processed_at": "2026-08-07T21:39:26.878242+00:00"
+    },
+    {
+      "title": "Square Enix teases Octopath Traveler 3, aware of high expectations for the game - Nintendo Everything",
+      "source": {
+        "name": "Nintendoeverything.com"
+      },
+      "description": "Developers of the Octopath Traveler series all but confirmed Octopath Traveler 3 for the future in a...",
+      "url": "https://nintendoeverything.com/square-enix-teases-octopath-traveler-3-aware-of-high-expectations-for-the-game/",
+      "publishedAt": "2026-08-06T16:46:22Z",
+      "processed_at": "2026-08-07T21:39:26.878242+00:00"
+    },
+    {
+      "title": "Ghost Recon: Future Soldier is free to claim on PC for the next week - Video Games Chronicle",
+      "source": {
+        "name": "Video Games Chronicle"
+      },
+      "description": "Ubisoft is giving away the PC version to mark the series' 25th anniversary...",
+      "url": "https://www.videogameschronicle.com/news/ghost-recon-future-soldier-is-free-to-claim-on-pc-for-the-next-week/",
+      "publishedAt": "2026-08-06T16:15:49Z",
+      "processed_at": "2026-08-07T21:39:26.878242+00:00"
     },
     {
       "title": "Sony's Looking to Bring More Ads to PlayStation, and Fans Won't Like It - Push Square",
@@ -40,60 +80,30 @@
       "description": "Push Square for a Taco Bell...",
       "url": "https://www.pushsquare.com/news/2026/08/sonys-looking-to-bring-more-ads-to-playstation-and-fans-wont-like-it",
       "publishedAt": "2026-08-06T16:05:00Z",
-      "processed_at": "2026-08-07T20:41:30.722239+00:00"
+      "processed_at": "2026-08-07T21:39:26.878242+00:00"
     },
     {
-      "title": "Sony Is Slapping Warning Labels On PS5s About Its Discless Future - Kotaku",
+      "title": "Ghost Recon Wildlands: Last Rites – A Major Free Update Powered by Community Feedback and Player Insights - XBOX Wire",
       "source": {
-        "name": "Kotaku"
+        "name": "Xbox.com"
       },
-      "description": "The newly added label warns consumers that PS5 games 'will be available for purchase on PlayStation ...",
-      "url": "https://kotaku.com/ps5-playstation-5-discs-physical-digital-sony-sticker-label-warning-2000722144",
-      "publishedAt": "2026-08-06T14:30:51Z",
-      "processed_at": "2026-08-07T20:41:30.722239+00:00"
+      "description": "Ghost Recon Wildlands: Last Rites is a major free update out now for XBOX Series X|S. Learn about ho...",
+      "url": "https://news.xbox.com/en-us/2026/08/06/ghost-recon-wildlands-last-rites-community-feedback/",
+      "publishedAt": "2026-08-06T16:00:55Z",
+      "processed_at": "2026-08-07T21:39:26.878242+00:00"
     },
     {
-      "title": "Microsoft No Longer Recommends Windows 11 Users Have 32GB RAM In Their Systems, Removes All Traces Of The Statement As It Focuses On 8GB Memory Optimizations - Wccftech",
+      "title": "Google Home update adds support for viewing third-party cameras from Wyze, Eufy, more - 9to5Google",
       "source": {
-        "name": "Wccftech"
+        "name": "9to5google.com"
       },
-      "description": "Microsoft silently removes its 32GB RAM recommendation for Windows 11 users as it shifts focus towar...",
-      "url": "https://wccftech.com/microsoft-removes-32gb-ram-recommendation-windows-11-optimization/",
-      "publishedAt": "2026-08-06T14:24:49Z",
-      "processed_at": "2026-08-07T20:41:30.722239+00:00"
-    },
-    {
-      "title": "Apple Raises Trade-In Values for iPhone, Mac, and More - MacRumors",
-      "source": {
-        "name": "MacRumors"
-      },
-      "description": "Apple today updated its U.S. trade-in estimates, raising values for most iPhone, iPad, Mac, and Appl...",
-      "url": "https://www.macrumors.com/2026/08/06/apple-raises-trade-in-values/",
-      "publishedAt": "2026-08-06T14:17:51Z",
-      "processed_at": "2026-08-07T20:41:30.722239+00:00"
-    },
-    {
-      "title": "Xbox Is Getting Platinum Trophies Later This Year, Says CEO - Forbes",
-      "source": {
-        "name": "Forbes"
-      },
-      "description": "Xbox is attempting to win back fans, or at least satisfy the ones they already have, by making chang...",
-      "url": "https://www.forbes.com/sites/paultassi/2026/08/06/xbox-is-getting-platinum-trophies-later-this-year-says-ceo/",
-      "publishedAt": "2026-08-06T13:42:57Z",
-      "processed_at": "2026-08-07T20:41:30.722239+00:00"
-    },
-    {
-      "title": "Bose’s upgraded QuietComfort headphones add head-tracking immersive audio - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "Bose’s second-generation QuietComfort headphones get upgraded ANC, a refreshed design that’s more co...",
-      "url": "https://www.theverge.com/tech/975643/bose-quietcomfort-wireless-headphones-anc-immersive-spatial-audio",
-      "publishedAt": "2026-08-06T13:00:00Z",
-      "processed_at": "2026-08-07T20:41:30.722239+00:00"
+      "description": "A Google Home update has added better support for third-party cameras from brands such as Wyze and A...",
+      "url": "http://9to5google.com/2026/08/06/google-home-third-party-cameras-update/",
+      "publishedAt": "2026-08-06T15:55:00Z",
+      "processed_at": "2026-08-07T21:39:26.878242+00:00"
     }
   ],
-  "lastUpdated": "2026-08-07T20:41:30.722310+00:00",
+  "lastUpdated": "2026-08-07T21:39:26.878313+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
