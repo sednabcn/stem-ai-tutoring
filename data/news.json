@@ -1,79 +1,99 @@
 {
   "status": "success",
-  "totalResults": 7,
+  "totalResults": 9,
   "articles": [
     {
-      "title": "Pokémon Pokopia's free 2.0 update is here, and it's making a splash with new underwater features and improvements - Eurogamer.net",
+      "title": "Google reveals who is hosting Pixel 11 launch event and other guests - 9to5Google",
       "source": {
-        "name": "Eurogamer.net"
+        "name": "9to5google.com"
       },
-      "description": "Pokémon Pokopia's 2.0 update has added a bunch of underwater features and fixes to the popular spin-...",
-      "url": "https://www.eurogamer.net/pokemon-pokopia-version-bubbly-basin-patch-notes",
-      "publishedAt": "2026-08-06T12:39:01Z",
-      "processed_at": "2026-08-07T16:57:02.938488+00:00"
+      "description": "With Made by Google 2026 taking place in less than a week, the company today revealed who is hosting...",
+      "url": "http://9to5google.com/2026/08/06/pixel-11-launch-host/",
+      "publishedAt": "2026-08-06T17:31:00Z",
+      "processed_at": "2026-08-07T17:51:50.321026+00:00"
     },
     {
-      "title": "‘GTA 6’ to Debut ‘Extended Look’ on Netflix and YouTube on Aug. 27 - Variety",
+      "title": "OpenAI updating ChatGPT with a smarter GPT-5.6 Sol and unlimited free chats - 9to5Mac",
       "source": {
-        "name": "Variety"
+        "name": "9to5Mac"
       },
-      "description": "New footage of \"Grand Theft Auto VI\" will debut on Netflix and YouTube later this month....",
-      "url": "https://variety.com/2026/gaming/news/gta-6-trailer-netflix-youtube-aug-27-1236789693/",
-      "publishedAt": "2026-08-06T12:12:00Z",
-      "processed_at": "2026-08-07T16:57:02.938488+00:00"
+      "description": "ChatGPT has become so much more than just chat over the last year. To that end, OpenAI is removing l...",
+      "url": "https://9to5mac.com/2026/08/06/openai-updating-chatgpt-with-a-smarter-gpt-5-6-sol-and-unlimited-free-chats/",
+      "publishedAt": "2026-08-06T17:16:00Z",
+      "processed_at": "2026-08-07T17:51:50.321026+00:00"
     },
     {
-      "title": "New PS5 Beta Firmware Is Available Now, Here Are All the Patch Notes - pushsquare.com",
+      "title": "Free 4K, 60fps PS5 Upgrade for Ghost Recon Wildlands Out Now, Included with PS Plus Extra - Push Square",
       "source": {
         "name": "Push Square"
       },
-      "description": "Making things beta...",
-      "url": "https://www.pushsquare.com/news/2026/08/new-ps5-beta-firmware-is-available-now-here-are-all-the-patch-notes",
-      "publishedAt": "2026-08-06T11:30:00Z",
-      "processed_at": "2026-08-07T16:57:02.938488+00:00"
+      "description": "",
+      "url": "https://www.pushsquare.com/news/2026/08/free-4k-60fps-ps5-upgrade-for-ghost-recon-wildlands-out-now-included-with-ps-plus-extra",
+      "publishedAt": "2026-08-06T16:45:00Z",
+      "processed_at": "2026-08-07T17:51:50.321026+00:00"
     },
     {
-      "title": "AI isn’t enough to protect social media communities from AI - Ars Technica",
+      "title": "Sony's Looking to Bring More Ads to PlayStation, and Fans Won't Like It - Push Square",
       "source": {
-        "name": "Ars Technica"
+        "name": "Push Square"
       },
-      "description": "Why humans need to moderate humans....",
-      "url": "https://arstechnica.com/gadgets/2026/08/ai-isnt-enough-to-protect-social-media-communities-from-ai/",
-      "publishedAt": "2026-08-06T11:00:44Z",
-      "processed_at": "2026-08-07T16:57:02.938488+00:00"
+      "description": "Push Square for a Taco Bell...",
+      "url": "https://www.pushsquare.com/news/2026/08/sonys-looking-to-bring-more-ads-to-playstation-and-fans-wont-like-it",
+      "publishedAt": "2026-08-06T16:05:00Z",
+      "processed_at": "2026-08-07T17:51:50.321026+00:00"
     },
     {
-      "title": "Sony Doubles Down On The Death Of Physical Discs, As New PlayStation 5 Units Come With A Warning Sticker - Wccftech",
+      "title": "Sony Is Slapping Warning Labels On PS5s About Its Discless Future - Kotaku",
+      "source": {
+        "name": "Kotaku"
+      },
+      "description": "The newly added label warns consumers that PS5 games 'will be available for purchase on PlayStation ...",
+      "url": "https://kotaku.com/ps5-playstation-5-discs-physical-digital-sony-sticker-label-warning-2000722144",
+      "publishedAt": "2026-08-06T14:30:51Z",
+      "processed_at": "2026-08-07T17:51:50.321026+00:00"
+    },
+    {
+      "title": "Microsoft No Longer Recommends Windows 11 Users Have 32GB RAM In Their Systems, Removes All Traces Of The Statement As It Focuses On 8GB Memory Optimizations - Wccftech",
       "source": {
         "name": "Wccftech"
       },
-      "description": "Sony seems set on sunsetting physical discs in 2028, as a warning sticker is found on the boxes of n...",
-      "url": "https://wccftech.com/sony-doubles-down-death-discs-playstation-5-warning/",
-      "publishedAt": "2026-08-06T09:44:11Z",
-      "processed_at": "2026-08-07T16:57:02.938488+00:00"
+      "description": "Microsoft silently removes its 32GB RAM recommendation for Windows 11 users as it shifts focus towar...",
+      "url": "https://wccftech.com/microsoft-removes-32gb-ram-recommendation-windows-11-optimization/",
+      "publishedAt": "2026-08-06T14:24:49Z",
+      "processed_at": "2026-08-07T17:51:50.321026+00:00"
     },
     {
-      "title": "\"This is just a tough reality in the gaming industry right now\" - Halo Studios hit by layoffs after release of Halo: Campaign Evolved - Eurogamer.net",
+      "title": "Apple Raises Trade-In Values for iPhone, Mac, and More - MacRumors",
       "source": {
-        "name": "Eurogamer.net"
+        "name": "MacRumors"
       },
-      "description": "An unconfirmed number of developers have been let go from Halo Studios just over a week since Campai...",
-      "url": "https://www.eurogamer.net/halo-studios-layoffs-campaign-evolved",
-      "publishedAt": "2026-08-06T09:08:08Z",
-      "processed_at": "2026-08-07T16:57:02.938488+00:00"
+      "description": "Apple today updated its U.S. trade-in estimates, raising values for most iPhone, iPad, Mac, and Appl...",
+      "url": "https://www.macrumors.com/2026/08/06/apple-raises-trade-in-values/",
+      "publishedAt": "2026-08-06T14:17:51Z",
+      "processed_at": "2026-08-07T17:51:50.321026+00:00"
     },
     {
-      "title": "Samsung Galaxy Z series is breaking pre-order records - Mashable",
+      "title": "Xbox Is Getting Platinum Trophies Later This Year, Says CEO - Forbes",
       "source": {
-        "name": "Mashable"
+        "name": "Forbes"
       },
-      "description": "Will we finally see foldable phones enter the mainstream?...",
-      "url": "https://mashable.com/tech/samsung-galaxy-z-foldables-break-sales-records-korea-europe",
-      "publishedAt": "2026-08-05T23:07:03Z",
-      "processed_at": "2026-08-07T16:57:02.938488+00:00"
+      "description": "Xbox is attempting to win back fans, or at least satisfy the ones they already have, by making chang...",
+      "url": "https://www.forbes.com/sites/paultassi/2026/08/06/xbox-is-getting-platinum-trophies-later-this-year-says-ceo/",
+      "publishedAt": "2026-08-06T13:42:57Z",
+      "processed_at": "2026-08-07T17:51:50.321026+00:00"
+    },
+    {
+      "title": "Bose’s upgraded QuietComfort headphones add head-tracking immersive audio - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "Bose’s second-generation QuietComfort headphones get upgraded ANC, a refreshed design that’s more co...",
+      "url": "https://www.theverge.com/tech/975643/bose-quietcomfort-wireless-headphones-anc-immersive-spatial-audio",
+      "publishedAt": "2026-08-06T13:00:00Z",
+      "processed_at": "2026-08-07T17:51:50.321026+00:00"
     }
   ],
-  "lastUpdated": "2026-08-07T16:57:02.938566+00:00",
+  "lastUpdated": "2026-08-07T17:51:50.321100+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
