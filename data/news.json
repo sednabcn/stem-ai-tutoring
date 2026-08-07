@@ -1,7 +1,47 @@
 {
   "status": "success",
-  "totalResults": 10,
+  "totalResults": 9,
   "articles": [
+    {
+      "title": "Grand Theft Auto 6: An Extended Look Premieres on Netflix This Month, Rockstar Confirms - ign.com",
+      "source": {
+        "name": "IGN"
+      },
+      "description": "Rockstar has announced that a special Grand Theft Auto 6: An Extended Look will premiere on Netflix ...",
+      "url": "https://www.ign.com/articles/grand-theft-auto-6-an-extended-look-premieres-on-netflix-this-month-rockstar-confirms",
+      "publishedAt": "2026-08-06T12:11:41Z",
+      "processed_at": "2026-08-07T13:05:28.680692+00:00"
+    },
+    {
+      "title": "\"This is just a tough reality in the gaming industry right now\" - Halo Studios hit by layoffs after release of Halo: Campaign Evolved - Eurogamer.net",
+      "source": {
+        "name": "Eurogamer.net"
+      },
+      "description": "An unconfirmed number of developers have been let go from Halo Studios just over a week since Campai...",
+      "url": "https://www.eurogamer.net/halo-studios-layoffs-campaign-evolved",
+      "publishedAt": "2026-08-06T09:08:08Z",
+      "processed_at": "2026-08-07T13:05:28.680692+00:00"
+    },
+    {
+      "title": "Minecraft finally has a Switch 2 release date, but there may be bad news for Switch 1 owners - Eurogamer.net",
+      "source": {
+        "name": "Eurogamer.net"
+      },
+      "description": "Mojang is done teasing us about an imminent release of Minecraft on Switch 2....",
+      "url": "https://www.eurogamer.net/minecraft-switch-2-release-date-upgrade-path",
+      "publishedAt": "2026-08-06T08:57:15Z",
+      "processed_at": "2026-08-07T13:05:28.680692+00:00"
+    },
+    {
+      "title": "Another huge Pixel Watch 5 leak showcases everything from design to health features - Android Authority",
+      "source": {
+        "name": "Android Authority"
+      },
+      "description": "New Pixel Watch 5 leak showcases health features such as heart rate variability tracking, \"Ask Coach...",
+      "url": "https://www.androidauthority.com/pixel-watch-5-leak-design-health-features-3695089/",
+      "publishedAt": "2026-08-06T06:38:00Z",
+      "processed_at": "2026-08-07T13:05:28.680692+00:00"
+    },
     {
       "title": "Samsung Galaxy Z series is breaking pre-order records - Mashable",
       "source": {
@@ -10,7 +50,7 @@
       "description": "Will we finally see foldable phones enter the mainstream?...",
       "url": "https://mashable.com/tech/samsung-galaxy-z-foldables-break-sales-records-korea-europe",
       "publishedAt": "2026-08-05T23:07:03Z",
-      "processed_at": "2026-08-07T11:46:05.845091+00:00"
+      "processed_at": "2026-08-07T13:05:28.680692+00:00"
     },
     {
       "title": "Full Teardown Of A 2026 Amazon Fire Stick HD - Hackaday",
@@ -20,17 +60,7 @@
       "description": "After the release of Google’s Chromecast so-called ‘streaming sticks’ have remained a popular form f...",
       "url": "https://hackaday.com/2026/08/05/full-teardown-of-a-2026-amazon-fire-stick-hd/",
       "publishedAt": "2026-08-05T23:00:00Z",
-      "processed_at": "2026-08-07T11:46:05.845091+00:00"
-    },
-    {
-      "title": "Halo Studios hit by layoffs just days after Halo: Campaign Evolved launch - Windows Central",
-      "source": {
-        "name": "Windows Central"
-      },
-      "description": "A number of developers previously employed at Halo Studios have posted on LinkedIn confirming layoff...",
-      "url": "https://www.windowscentral.com/gaming/halo/halo-studios-is-the-latest-xbox-games-studio-to-be-hit-by-layoffs-just-days-after-campaign-evolved-launch-as-reports-reveal-troubled-development",
-      "publishedAt": "2026-08-05T22:49:41Z",
-      "processed_at": "2026-08-07T11:46:05.845091+00:00"
+      "processed_at": "2026-08-07T13:05:28.680692+00:00"
     },
     {
       "title": "Google Is Finally Shutting Down the Google Assistant. Here's What Android Users Need to Know - inc.com",
@@ -40,7 +70,7 @@
       "description": "",
       "url": "https://www.inc.com/georgia-fearn/google-is-finally-shutting-down-the-google-assistant-heres-what-android-users-need-to-know/91385340",
       "publishedAt": "2026-08-05T21:50:53Z",
-      "processed_at": "2026-08-07T11:46:05.845091+00:00"
+      "processed_at": "2026-08-07T13:05:28.680692+00:00"
     },
     {
       "title": "Disc-Based PS5s Now Warn Buyers About the Impending Death of Physical Games - Push Square",
@@ -50,27 +80,7 @@
       "description": "Important notice...",
       "url": "https://www.pushsquare.com/news/2026/08/disc-based-ps5s-now-warn-buyers-about-the-impending-death-of-physical-games",
       "publishedAt": "2026-08-05T21:30:00Z",
-      "processed_at": "2026-08-07T11:46:05.845091+00:00"
-    },
-    {
-      "title": "Minecraft Gets Nintendo Switch 2 Version With an Upgrade Path for Switch 1 Owners - IGN",
-      "source": {
-        "name": "IGN"
-      },
-      "description": "Minecraft is getting a proper Nintendo Switch 2 version very soon, and Switch 1 owners will be entit...",
-      "url": "https://www.ign.com/articles/minecraft-is-coming-to-nintendo-switch-2-soon-with-an-upgrade-path-for-switch-1-owners",
-      "publishedAt": "2026-08-05T21:14:21Z",
-      "processed_at": "2026-08-07T11:46:05.845091+00:00"
-    },
-    {
-      "title": "Next Xbox console will play every generation according to leaked Microsoft memo - Dexerto",
-      "source": {
-        "name": "Dexerto"
-      },
-      "description": "The next generation of Xbox could be Microsoft’s most backwards-compatible console yet after a newly...",
-      "url": "https://www.dexerto.com/gaming/next-xbox-console-will-play-every-generation-according-to-leaked-microsoft-memo-3395110/",
-      "publishedAt": "2026-08-05T20:22:13Z",
-      "processed_at": "2026-08-07T11:46:05.845091+00:00"
+      "processed_at": "2026-08-07T13:05:28.680692+00:00"
     },
     {
       "title": "Apple Watch Ultra 4: Three new features that already have me excited - 9to5Mac",
@@ -80,30 +90,10 @@
       "description": "Apple Watch Ultra 4 is coming next month, here are three rumored new features that I’m especially ex...",
       "url": "https://9to5mac.com/2026/08/05/apple-watch-ultra-4-three-new-features-that-already-have-me-excited/",
       "publishedAt": "2026-08-05T20:04:00Z",
-      "processed_at": "2026-08-07T11:46:05.845091+00:00"
-    },
-    {
-      "title": "Some Gen Zers swap their smartphones for \"dumb\" phones to curb social media habits - CBS News",
-      "source": {
-        "name": "CBS News"
-      },
-      "description": "\"It really opens up your mind,\" said one 23-year-old who ditched smartphones to wean herself off soc...",
-      "url": "https://www.cbsnews.com/news/social-media-smartphones-gen-z-dumb-phones/",
-      "publishedAt": "2026-08-05T19:50:00Z",
-      "processed_at": "2026-08-07T11:46:05.845091+00:00"
-    },
-    {
-      "title": "Fallout 3 Dev Excited For Remaster To Improve Game's Visuals - Kotaku",
-      "source": {
-        "name": "Kotaku"
-      },
-      "description": "According to longtime game developer Nathan Purkeypile, Bethesda's open-world RPG was 'super tech co...",
-      "url": "https://kotaku.com/fallout-3-dev-excited-for-the-remaster-because-the-original-games-visuals-were-100-percent-not-what-we-intended-2000721988",
-      "publishedAt": "2026-08-05T19:30:25Z",
-      "processed_at": "2026-08-07T11:46:05.845091+00:00"
+      "processed_at": "2026-08-07T13:05:28.680692+00:00"
     }
   ],
-  "lastUpdated": "2026-08-07T11:46:05.845166+00:00",
+  "lastUpdated": "2026-08-07T13:05:28.680763+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
