@@ -1,7 +1,37 @@
 {
   "status": "success",
-  "totalResults": 10,
+  "totalResults": 9,
   "articles": [
+    {
+      "title": "‘Destiny 2’ Players Are Miraculously Unvaulting Cut Content From The Game - Forbes",
+      "source": {
+        "name": "Forbes"
+      },
+      "description": "It is one of the most infamous moments in Destiny history, when Bungie announced that it could no lo...",
+      "url": "https://www.forbes.com/sites/paultassi/2026/08/07/destiny-2-players-are-miraculously-unvaulting-cut-content-from-the-game/",
+      "publishedAt": "2026-08-07T13:59:42Z",
+      "processed_at": "2026-08-08T15:30:53.404600+00:00"
+    },
+    {
+      "title": "Take-Two Boss Defends No Disc Version of GTA 6, Equates Physical Releases to Vinyl Records - IGN",
+      "source": {
+        "name": "IGN"
+      },
+      "description": "Strauss Zelnick, boss of Rockstar parent company Take-Two, has defended the company’s decision not t...",
+      "url": "https://www.ign.com/articles/take-two-boss-defends-no-disc-version-of-gta-6-equates-physical-releases-to-vinyl-records",
+      "publishedAt": "2026-08-07T13:22:43Z",
+      "processed_at": "2026-08-08T15:30:53.404600+00:00"
+    },
+    {
+      "title": "These New Donkey Kong Clothes From Nintendo And OppoSuits Are Bananas - Nintendo Life",
+      "source": {
+        "name": "Nintendo Life"
+      },
+      "description": "We want them all...",
+      "url": "https://www.nintendolife.com/news/2026/08/these-new-donkey-kong-clothes-from-nintendo-and-opposuits-are-bananas",
+      "publishedAt": "2026-08-07T12:45:00Z",
+      "processed_at": "2026-08-08T15:30:53.404600+00:00"
+    },
     {
       "title": "Rockstar Owner Take-Two Confirms GTA 6 November Release Date Still on Track - IGN",
       "source": {
@@ -10,7 +40,27 @@
       "description": "Rockstar owner Take-Two has confirmed the current November 19 GTA 6 release date is still on track, ...",
       "url": "https://www.ign.com/articles/rockstar-owner-take-two-confirms-gta-6-release-date-still-on-track-says-gta-6-an-extended-look-will-help-grow-consumers-passion-and-anticipation",
       "publishedAt": "2026-08-07T11:30:00Z",
-      "processed_at": "2026-08-08T14:32:29.052779+00:00"
+      "processed_at": "2026-08-08T15:30:53.404600+00:00"
+    },
+    {
+      "title": "Ex-Minecraft devs' Reforj finally starts taking shape with major graphics overhaul - trueachievements.com",
+      "source": {
+        "name": "TrueAchievements"
+      },
+      "description": "Reforj — the upcoming sandbox game from ex-Minecraft porting team 4J Studios — got a new graphics up...",
+      "url": "https://www.trueachievements.com/news/reforj-graphics-rixels",
+      "publishedAt": "2026-08-07T11:15:17Z",
+      "processed_at": "2026-08-08T15:30:53.404600+00:00"
+    },
+    {
+      "title": "Free 4K, 60fps PS5 Update for Ghost Recon Wildlands Out Now, Included with PS Plus Extra - Push Square",
+      "source": {
+        "name": "Push Square"
+      },
+      "description": "Or everyone can try until 10th August...",
+      "url": "https://www.pushsquare.com/news/2026/08/free-4k-60fps-ps5-update-for-ghost-recon-wildlands-out-now-included-with-ps-plus-extra",
+      "publishedAt": "2026-08-07T11:15:00Z",
+      "processed_at": "2026-08-08T15:30:53.404600+00:00"
     },
     {
       "title": "Remembering the pre-Google web, when search was an experiment - Ars Technica",
@@ -20,90 +70,30 @@
       "description": "Most people have completely forgotten how chaotic it really was.\"...",
       "url": "https://arstechnica.com/gadgets/2026/08/remembering-the-pre-google-web-when-search-was-an-experiment/",
       "publishedAt": "2026-08-07T11:00:06Z",
-      "processed_at": "2026-08-08T14:32:29.052779+00:00"
+      "processed_at": "2026-08-08T15:30:53.404600+00:00"
     },
     {
-      "title": "QuakeCon goes wild as a surprise, free expansion for Quake is released for the legendary shooter's 30th birthday - eurogamer.net",
+      "title": "Minecraft Switch 2 Edition Coming This Autumn, Featuring Vibrant Visuals - Digital Foundry",
       "source": {
-        "name": "Eurogamer.net"
+        "name": "Digitalfoundry.net"
       },
-      "description": "A 19-level campaign, a deathmatch map, a new soundtrack: now that's a 30th birthday present....",
-      "url": "https://www.eurogamer.net/quake-expansion-dawn-of-the-machine-quakecon",
-      "publishedAt": "2026-08-07T09:28:09Z",
-      "processed_at": "2026-08-08T14:32:29.052779+00:00"
+      "description": "But how much will it cost for owners of the original Switch edition?...",
+      "url": "https://www.digitalfoundry.net/news/2026/08/minecraft-switch-2-edition-coming-this-autumn-featuring-vibrant-visuals",
+      "publishedAt": "2026-08-07T11:00:00Z",
+      "processed_at": "2026-08-08T15:30:53.404600+00:00"
     },
     {
-      "title": "New Gemini overlay for Wear OS rolling out to Pixel Watch - 9to5Google",
+      "title": "iOS 27's New Compact Clock Gives Your Wallpaper Room to Breathe - MacRumors",
       "source": {
-        "name": "9to5google.com"
+        "name": "MacRumors"
       },
-      "description": "Gemini on Wear OS is getting a new overlay design that takes after Neural Expressive on Android phon...",
-      "url": "http://9to5google.com/2026/08/06/gemini-overlay-wear-os/",
-      "publishedAt": "2026-08-07T03:10:00Z",
-      "processed_at": "2026-08-08T14:32:29.052779+00:00"
-    },
-    {
-      "title": "Splatoon Raiders 1.1.1 update out now, patch notes - Nintendo Everything",
-      "source": {
-        "name": "Nintendoeverything.com"
-      },
-      "description": "Splatoon Raiders gets its first post-launch update with version 1.1.1, and here are the patch notes ...",
-      "url": "https://nintendoeverything.com/splatoon-raiders-1-1-1-update-out-now-patch-notes/",
-      "publishedAt": "2026-08-07T00:41:07Z",
-      "processed_at": "2026-08-08T14:32:29.052779+00:00"
-    },
-    {
-      "title": "iPhone 18 Pro price: Here’s how much more it could cost - 9to5Mac",
-      "source": {
-        "name": "9to5Mac"
-      },
-      "description": "The iPhone 18 Pro will cost more than the iPhone 17 Pro, with estimates ranging from $100 to $300. H...",
-      "url": "https://9to5mac.com/2026/08/06/iphone-18-pro-price-heres-how-much-more-it-could-cost/",
-      "publishedAt": "2026-08-06T23:33:00Z",
-      "processed_at": "2026-08-08T14:32:29.052779+00:00"
-    },
-    {
-      "title": "OpenAI’s new AI smart speaker will reportedly sell for between $300 and $400 - TechCrunch",
-      "source": {
-        "name": "TechCrunch"
-      },
-      "description": "Additional details about OpenAI's mysterious new AI device make it sound like a pricey smart speaker...",
-      "url": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400/",
-      "publishedAt": "2026-08-06T22:43:53Z",
-      "processed_at": "2026-08-08T14:32:29.052779+00:00"
-    },
-    {
-      "title": "The last generation of fully upgradeable PCs is being built right now - XDA",
-      "source": {
-        "name": "XDA Developers"
-      },
-      "description": "The next generation might not let you upgrade anymore...",
-      "url": "https://www.xda-developers.com/the-last-generation-of-fully-upgradeable-pcs-is-being-built-right-now/",
-      "publishedAt": "2026-08-06T21:30:10Z",
-      "processed_at": "2026-08-08T14:32:29.052779+00:00"
-    },
-    {
-      "title": "Trevor Noah is hosting Google’s Pixel 11 launch event - theverge.com",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "Comedian Trevor Noah will host August 12th’s Made by Google event for Pixel hardware. Other celebrit...",
-      "url": "https://www.theverge.com/tech/976454/made-by-google-2026-event-pixel-11-trevor-noah",
-      "publishedAt": "2026-08-06T21:15:47Z",
-      "processed_at": "2026-08-08T14:32:29.052779+00:00"
-    },
-    {
-      "title": "Seiko’s $750 Speedtimer Chronograph Gets a New “Edo Purple” Dial - Gear Patrol",
-      "source": {
-        "name": "Gear Patrol"
-      },
-      "description": "The affordable Prospex Speedtimer, equipped with a solar quartz movement, receives a \"purple panda\" ...",
-      "url": "https://www.gearpatrol.com/watches/seikos-750-speedtimer-chronograph-gets-a-new-edo-purple-dial/",
-      "publishedAt": "2026-08-06T21:12:58Z",
-      "processed_at": "2026-08-08T14:32:29.052779+00:00"
+      "description": "In iOS 26, Apple let you stretch the Lock Screen clock down your iPhone's display until it dwarfed e...",
+      "url": "https://www.macrumors.com/how-to/ios-use-compact-lock-screen-clock/",
+      "publishedAt": "2026-08-07T10:52:58Z",
+      "processed_at": "2026-08-08T15:30:53.404600+00:00"
     }
   ],
-  "lastUpdated": "2026-08-08T14:32:29.052854+00:00",
+  "lastUpdated": "2026-08-08T15:30:53.404675+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
