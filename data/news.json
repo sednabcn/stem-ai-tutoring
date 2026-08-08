@@ -1,7 +1,77 @@
 {
   "status": "success",
-  "totalResults": 9,
+  "totalResults": 10,
   "articles": [
+    {
+      "title": "Take-Two Interactive Software, Inc. Reports Results for Fiscal First Quarter 2027 - Take-Two Interactive Software, Inc.",
+      "source": {
+        "name": "Take2games.com"
+      },
+      "description": "The Investor Relations website contains information about Take-Two Interactive Software, Inc.'s busi...",
+      "url": "http://www.take2games.com/ir/news/take-two-interactive-software-inc-reports-results-fiscal-first-6",
+      "publishedAt": "2026-08-07T17:32:12Z",
+      "processed_at": "2026-08-08T19:30:33.282130+00:00"
+    },
+    {
+      "title": "Tesla Rolls Out Rare Software Update to Mobile Connectors - Not a Tesla App",
+      "source": {
+        "name": "Notateslaapp.com"
+      },
+      "description": "In an unexpected hardware drop, Tesla has started pushing a firmware update for its portable Mobile ...",
+      "url": "https://www.notateslaapp.com/news/4555/tesla-rolls-out-rare-software-update-to-mobile-connectors",
+      "publishedAt": "2026-08-07T16:27:00Z",
+      "processed_at": "2026-08-08T19:30:33.282130+00:00"
+    },
+    {
+      "title": "Pixel Watch 5 teaser pokes fun at Apple, Samsung by having ‘decency to look like a watch’ - 9to5Google",
+      "source": {
+        "name": "9to5google.com"
+      },
+      "description": "Following teasers for the 11 Pro and 11 Pro Fold over the past week, Google today finally released a...",
+      "url": "http://9to5google.com/2026/08/07/pixel-watch-5-teaser/",
+      "publishedAt": "2026-08-07T16:23:00Z",
+      "processed_at": "2026-08-08T19:30:33.282130+00:00"
+    },
+    {
+      "title": "Cloudflare launches Kitesurf, a browser built for AI agents - TechCrunch",
+      "source": {
+        "name": "TechCrunch"
+      },
+      "description": "Cloudflare has introduced Kitesurf, a cloud-hosted browser designed for AI agents instead of people....",
+      "url": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
+      "publishedAt": "2026-08-07T16:16:09Z",
+      "processed_at": "2026-08-08T19:30:33.282130+00:00"
+    },
+    {
+      "title": "Blizzard Swears Overwatch’s New Mech Hero Isn’t ‘D.Va 2.0’ - Kotaku",
+      "source": {
+        "name": "Kotaku"
+      },
+      "description": "D.Mon is meant to be the ‘icy, cool, and very confident’ leader to D.Va’s more aggressive, dive-base...",
+      "url": "https://kotaku.com/overwatch-dmon-dva-new-tank-hero-season-4-trailer-ability-2000722499",
+      "publishedAt": "2026-08-07T16:00:21Z",
+      "processed_at": "2026-08-08T19:30:33.282130+00:00"
+    },
+    {
+      "title": "Control Resonant: Check Out a Full Mission of New Gameplay as We Take On the Metro Fault — IGN First - IGN",
+      "source": {
+        "name": "IGN"
+      },
+      "description": "Control Resonant is our IGN First for August, and we have a whole new mission of gameplay to kick th...",
+      "url": "https://www.ign.com/articles/control-resonant-exclusive-metro-fault-mission-gameplay-ign-first",
+      "publishedAt": "2026-08-07T16:00:00Z",
+      "processed_at": "2026-08-08T19:30:33.282130+00:00"
+    },
+    {
+      "title": "The Super Bee Is Back: Dodge's Newest Charger Packs 600 Horsepower - Motor1.com",
+      "source": {
+        "name": "Motor1 "
+      },
+      "description": "The 2027 Dodge Super Bee is the most powerful Charger Sixpack yet with a revised twin-turbocharged e...",
+      "url": "https://www.motor1.com/news/804106/2027-dodge-charger-super-bee-sixpack-engine-specs-details/",
+      "publishedAt": "2026-08-07T15:01:32Z",
+      "processed_at": "2026-08-08T19:30:33.282130+00:00"
+    },
     {
       "title": "Pokémon TCG Pocket Loses Nearly Half Its Players, And It’s Pretty Obvious Why - Kotaku",
       "source": {
@@ -10,17 +80,7 @@
       "description": "The game's shortcomings have put a real hole in creator DeNA's financial results...",
       "url": "https://kotaku.com/pokemon-tcg-pocket-dena-players-trading-hourglass-pull-rates-2000722438",
       "publishedAt": "2026-08-07T15:00:23Z",
-      "processed_at": "2026-08-08T18:38:29.694301+00:00"
-    },
-    {
-      "title": "Overwatch's Mech Designers Must Really Want D.Mon To Die, Huh? - Kotaku",
-      "source": {
-        "name": "Kotaku"
-      },
-      "description": "I mean why else would they have her whole ass exposed like that?...",
-      "url": "https://kotaku.com/new-overwatch-hero-dmon-bad-mech-design-2000722433",
-      "publishedAt": "2026-08-07T14:25:37Z",
-      "processed_at": "2026-08-08T18:38:29.694301+00:00"
+      "processed_at": "2026-08-08T19:30:33.282130+00:00"
     },
     {
       "title": "Final Fantasy XIV Online Updated On Switch 2, Here Are The Full Patch Notes - Nintendo Life",
@@ -30,7 +90,7 @@
       "description": "Faster load times and more...",
       "url": "https://www.nintendolife.com/news/2026/08/final-fantasy-xiv-online-updated-on-switch-2-here-are-the-full-patch-notes",
       "publishedAt": "2026-08-07T14:15:00Z",
-      "processed_at": "2026-08-08T18:38:29.694301+00:00"
+      "processed_at": "2026-08-08T19:30:33.282130+00:00"
     },
     {
       "title": "I compared Google's pricier Pixel 11 series to Samsung's Galaxy lineup - here's the better value now - ZDNET",
@@ -40,60 +100,10 @@
       "description": "The Pixel 11 may cost more, but Google's software advantage may make it worth it for you....",
       "url": "https://www.zdnet.com/article/google-pricier-pixel-11-series-compared-to-samsung-galaxy-lineup-heres-the-better-value/",
       "publishedAt": "2026-08-07T14:10:00Z",
-      "processed_at": "2026-08-08T18:38:29.694301+00:00"
-    },
-    {
-      "title": "‘Destiny 2’ Players Are Miraculously Unvaulting Cut Content From The Game - Forbes",
-      "source": {
-        "name": "Forbes"
-      },
-      "description": "It is one of the most infamous moments in Destiny history, when Bungie announced that it could no lo...",
-      "url": "https://www.forbes.com/sites/paultassi/2026/08/07/destiny-2-players-are-miraculously-unvaulting-cut-content-from-the-game/",
-      "publishedAt": "2026-08-07T13:59:42Z",
-      "processed_at": "2026-08-08T18:38:29.694301+00:00"
-    },
-    {
-      "title": "iPhone 18 Pro is getting even more ‘Pro’ this year in three ways - 9to5Mac",
-      "source": {
-        "name": "9to5Mac"
-      },
-      "description": "iPhone 18 Pro and Pro Max will be unveiled soon, and rumors point to at least three ways the new mod...",
-      "url": "https://9to5mac.com/2026/08/07/iphone-18-pro-is-getting-even-more-pro-this-year-in-three-ways/",
-      "publishedAt": "2026-08-07T13:47:00Z",
-      "processed_at": "2026-08-08T18:38:29.694301+00:00"
-    },
-    {
-      "title": "As GTA 6 publisher Take-Two revises its 2027 net bookings up to $8.2bn, Strauss Zelnick confirms its sales are \"well over 90% digital\" - Eurogamer.net",
-      "source": {
-        "name": "Eurogamer.net"
-      },
-      "description": "First Capcom, now Take-Two: Strauss Zelnick doesn't appear phased by PlayStation's migration to an '...",
-      "url": "https://www.eurogamer.net/take-two-stock-digital-gta6-physical",
-      "publishedAt": "2026-08-07T13:33:56Z",
-      "processed_at": "2026-08-08T18:38:29.694301+00:00"
-    },
-    {
-      "title": "Sony WH-1000XM4C price and release date leaked - Notebookcheck",
-      "source": {
-        "name": "Notebookcheck.net"
-      },
-      "description": "According to a new leak, the Sony WH-1000XM4C will launch next month, in September, with a €249.99 p...",
-      "url": "https://www.notebookcheck.net/Sony-WH-1000XM4C-price-and-release-date-leaked.1362589.0.html",
-      "publishedAt": "2026-08-07T13:18:00Z",
-      "processed_at": "2026-08-08T18:38:29.694301+00:00"
-    },
-    {
-      "title": "Gears of War: E-Day multiplayer beta blows past series' records on Steam - Eurogamer.net",
-      "source": {
-        "name": "Eurogamer.net"
-      },
-      "description": "Those who pre-ordered the game are hopping in, and more are expected next week as the doors are flun...",
-      "url": "https://www.eurogamer.net/gears-of-war-multiplayer-beta-popular-steam",
-      "publishedAt": "2026-08-07T13:10:07Z",
-      "processed_at": "2026-08-08T18:38:29.694301+00:00"
+      "processed_at": "2026-08-08T19:30:33.282130+00:00"
     }
   ],
-  "lastUpdated": "2026-08-08T18:38:29.694381+00:00",
+  "lastUpdated": "2026-08-08T19:30:33.282208+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
