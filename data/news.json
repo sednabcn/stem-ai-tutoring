@@ -3,6 +3,16 @@
   "totalResults": 9,
   "articles": [
     {
+      "title": "iOS 27 Hints at 'Apple Reference Image' Photo Authentication - MacRumors",
+      "source": {
+        "name": "MacRumors"
+      },
+      "description": "Apple is working on \"Apple Reference Image,\" a photo provenance system that will verify if an image ...",
+      "url": "https://www.macrumors.com/2026/08/10/ios-27-apple-reference-image/",
+      "publishedAt": "2026-08-11T00:08:01Z",
+      "processed_at": "2026-08-12T10:05:55.629803+00:00"
+    },
+    {
       "title": "13 Fields of Mistria Tips For First-Time Farmers - Kotaku",
       "source": {
         "name": "Kotaku"
@@ -10,7 +20,17 @@
       "description": "Starting your first farm in Mistria 1.0? Here are a few things that will make your journey easier...",
       "url": "https://kotaku.com/13-fields-of-mistria-tips-for-first-time-farmers-2000723128",
       "publishedAt": "2026-08-10T22:45:34Z",
-      "processed_at": "2026-08-12T08:18:10.921055+00:00"
+      "processed_at": "2026-08-12T10:05:55.629803+00:00"
+    },
+    {
+      "title": "Leaked Galaxy S26 FE specs confirm another battery disappointment from Samsung - PhoneArena",
+      "source": {
+        "name": "PhoneArena"
+      },
+      "description": "",
+      "url": "https://www.phonearena.com/news/leaked-galaxy-s26-fe-specs-confirm-another-battery-disappointment-from-samsung_id182497",
+      "publishedAt": "2026-08-10T22:26:15Z",
+      "processed_at": "2026-08-12T10:05:55.629803+00:00"
     },
     {
       "title": "GTA 6 Boss Says More People Are Pre-Ordering the $100 Version of the Game - IGN",
@@ -20,17 +40,7 @@
       "description": "Grand Theft Auto 6 fans are pre-ordering the $100 Ultimate Edition more than the standard edition of...",
       "url": "https://www.ign.com/articles/gta-6-boss-says-more-people-are-pre-ordering-the-100-version-of-the-game",
       "publishedAt": "2026-08-10T22:14:30Z",
-      "processed_at": "2026-08-12T08:18:10.921055+00:00"
-    },
-    {
-      "title": "iPhone 18 Pro BOM cost estimated to be up by 40% - GSMArena.com news - gsmarena.com",
-      "source": {
-        "name": "GSMArena.com"
-      },
-      "description": "Apple is reportedly paying three times more for RAM and storage than it did with the iPhone 17 Pro. ...",
-      "url": "https://www.gsmarena.com/iphone_18_pro_components_estimated_to_be_40_more_than_before__-news-74098.php",
-      "publishedAt": "2026-08-10T21:58:02Z",
-      "processed_at": "2026-08-12T08:18:10.921055+00:00"
+      "processed_at": "2026-08-12T10:05:55.629803+00:00"
     },
     {
       "title": "Players lose access to Aliens: Fireteam Elite on Nintendo Switch without refunds - arstechnica.com",
@@ -40,27 +50,37 @@
       "description": "A reminder of the perils of digital ownership....",
       "url": "https://arstechnica.com/gadgets/2026/08/players-lose-access-to-aliens-fireteam-elite-on-nintendo-switch-without-refunds/",
       "publishedAt": "2026-08-10T21:26:38Z",
-      "processed_at": "2026-08-12T08:18:10.921055+00:00"
+      "processed_at": "2026-08-12T10:05:55.629803+00:00"
     },
     {
       "title": "Battlefield 6 Player With Over 400 Hours Gets Full Refund from Steam After Key Modes Were Removed - IGN",
       "source": {
         "name": "IGN"
       },
-      "description": "",
+      "description": "A Battlefield 6 player with hundreds of hours of playtime has scored a full refund of the game after...",
       "url": "https://www.ign.com/articles/battlefield-6-player-with-over-400-hours-gets-full-refund-from-steam-after-key-modes-were-removed",
       "publishedAt": "2026-08-10T21:10:18Z",
-      "processed_at": "2026-08-12T08:18:10.921055+00:00"
+      "processed_at": "2026-08-12T10:05:55.629803+00:00"
     },
     {
-      "title": "Windows 11 license fee hikes contributing to higher laptop prices, says report - Windows Central",
+      "title": "Marvel Tōkon PC Patch Improves Struggling Steam Version: ‘Maybe PS5 Players Will Play With Us Now’ - Kotaku",
       "source": {
-        "name": "Windows Central"
+        "name": "Kotaku"
       },
-      "description": "A new report claims Microsoft has raised the cost of the Windows license by up to 10% for certain OE...",
-      "url": "https://www.windowscentral.com/microsoft/windows-11/amid-ram-price-hikes-microsoft-reportedly-raises-windows-license-cost-forcing-oems-to-hike-prices-even-further-on-hardware",
-      "publishedAt": "2026-08-10T20:47:20Z",
-      "processed_at": "2026-08-12T08:18:10.921055+00:00"
+      "description": "Arc System Works’ new Marvel tag fighter has been struggling on PC since beta...",
+      "url": "https://kotaku.com/marvel-tokon-fighting-souls-pc-patch-performance-steam-2000723166",
+      "publishedAt": "2026-08-10T20:59:49Z",
+      "processed_at": "2026-08-12T10:05:55.629803+00:00"
+    },
+    {
+      "title": "Google’s base Pixel 11 probably won’t have ‘HiLight’ but will actually have enough RAM - 9to5Google",
+      "source": {
+        "name": "9to5google.com"
+      },
+      "description": "With just hours left to go for Google’s Pixel 11 launch event, details keep on leaking out, with som...",
+      "url": "http://9to5google.com/2026/08/10/pixel-11-hilight-ram-leak/",
+      "publishedAt": "2026-08-10T20:15:00Z",
+      "processed_at": "2026-08-12T10:05:55.629803+00:00"
     },
     {
       "title": "I Just Had My Mind Blown By A Car Museum In The Middle Of Nowhere Built By A Scrap-Metal Magnate - The Autopian",
@@ -70,30 +90,10 @@
       "description": "Having lived in Detroit, LA, and Bavaria, and having a brother who lives in Hong Kong, I’ve been luc...",
       "url": "https://www.theautopian.com/i-just-had-my-mind-blown-by-a-car-museum-in-the-middle-of-nowhere-built-by-a-scrap-metal-magnate/",
       "publishedAt": "2026-08-10T19:49:59Z",
-      "processed_at": "2026-08-12T08:18:10.921055+00:00"
-    },
-    {
-      "title": "Galaxy S26 FE specs leak alongside a higher price tag - 9to5Google",
-      "source": {
-        "name": "9to5google.com"
-      },
-      "description": "Ahead of its launch that will likely happen next month, Samsung’s Galaxy S26 FE has had its full spe...",
-      "url": "http://9to5google.com/2026/08/10/galaxy-s26-fe-specs-leak-alongside-a-higher-price-tag/",
-      "publishedAt": "2026-08-10T19:45:00Z",
-      "processed_at": "2026-08-12T08:18:10.921055+00:00"
-    },
-    {
-      "title": "Big Walk Sells One Million Copies In Less Than A Week - Game Informer",
-      "source": {
-        "name": "Gameinformer.com"
-      },
-      "description": "The follow up game from the makers of Untitled Goose Game is off to a great start...",
-      "url": "https://gameinformer.com/2026/08/10/big-walk-sells-one-million-copies-in-less-than-a-week",
-      "publishedAt": "2026-08-10T18:41:00Z",
-      "processed_at": "2026-08-12T08:18:10.921055+00:00"
+      "processed_at": "2026-08-12T10:05:55.629803+00:00"
     }
   ],
-  "lastUpdated": "2026-08-12T08:18:10.921170+00:00",
+  "lastUpdated": "2026-08-12T10:05:55.629889+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
