@@ -1,16 +1,86 @@
 {
   "status": "success",
-  "totalResults": 9,
+  "totalResults": 10,
   "articles": [
     {
-      "title": "The 7 biggest announcements of Google’s Pixel 11 launch - The Verge",
+      "title": "Google redesigns icons for Pixel Camera, Calculator, Clock, Recorder, & Weather apps - 9to5Google",
       "source": {
-        "name": "The Verge"
+        "name": "9to5google.com"
       },
-      "description": "Google’s August 12th Pixel event included its new lineup of Pixel 11 phones and the Pixel Watch 5, p...",
-      "url": "https://www.theverge.com/tech/978712/google-pixel-11-event-everything-announced",
+      "description": "With the launch of the Pixel 11, Google has updated a handful of Pixel app icons to better align wit...",
+      "url": "http://9to5google.com/2026/08/12/pixel-camera-icon-redesign-more/",
+      "publishedAt": "2026-08-12T15:00:00Z",
+      "processed_at": "2026-08-13T16:03:28.484238+00:00"
+    },
+    {
+      "title": "Oblivion Remastered Is Fine On Switch 2, But Fans Want A PS5 Patch - Kotaku",
+      "source": {
+        "name": "Kotaku"
+      },
+      "description": "Many players want Bethesda to update the RPG on PS5 and Xbox following the release of the new port...",
+      "url": "https://kotaku.com/the-oblivion-remaster-on-switch-2-is-better-than-expected-and-fans-are-angry-2000723781",
+      "publishedAt": "2026-08-12T14:45:18Z",
+      "processed_at": "2026-08-13T16:03:28.484238+00:00"
+    },
+    {
+      "title": "‘Palworld’ Patch Notes: Big Buffs For Way Less Grinding - forbes.com",
+      "source": {
+        "name": "Forbes"
+      },
+      "description": "Here are the Palworld patch notes for its latest update, which significantly nerfs some of the most ...",
+      "url": "https://www.forbes.com/sites/paultassi/2026/08/12/palworld-patch-notes-big-buffs-for-way-less-grinding/",
+      "publishedAt": "2026-08-12T14:42:57Z",
+      "processed_at": "2026-08-13T16:03:28.484238+00:00"
+    },
+    {
+      "title": "Everything announced at Made by Google '26: Pixel 11, Pixel Watch 5, Pixel Tag, and tons of Gemini features - TechCrunch",
+      "source": {
+        "name": "TechCrunch"
+      },
+      "description": "From the Pixel 11 series and a brand new competitor to Apple’s AirTag, here are all the announcement...",
+      "url": "https://techcrunch.com/2026/08/12/google-unveils-pixel-11-lineup-new-airtag-rival-and-gemini-features-at-made-by-google-2026/",
+      "publishedAt": "2026-08-12T14:20:33Z",
+      "processed_at": "2026-08-13T16:03:28.484238+00:00"
+    },
+    {
+      "title": "Google starts rolling out Tap to Share for Pixel 6 and newer - 9to5Google",
+      "source": {
+        "name": "9to5google.com"
+      },
+      "description": "While Tap to Share was announced with the Pixel 11 series, it’s also beginning to roll out for the P...",
+      "url": "http://9to5google.com/2026/08/12/pixel-tap-to-share/",
       "publishedAt": "2026-08-12T14:15:00Z",
-      "processed_at": "2026-08-13T14:58:22.497204+00:00"
+      "processed_at": "2026-08-13T16:03:28.484238+00:00"
+    },
+    {
+      "title": "Ghost of Yotei: Complete Edition Announced, Includes New Expansion, Game Mode, More - Push Square",
+      "source": {
+        "name": "Push Square"
+      },
+      "description": "Launches in October...",
+      "url": "https://www.pushsquare.com/news/2026/08/ghost-of-yotei-complete-edition-announced-includes-new-expansion-game-mode-more",
+      "publishedAt": "2026-08-12T14:15:00Z",
+      "processed_at": "2026-08-13T16:03:28.484238+00:00"
+    },
+    {
+      "title": "Here’s what’s new with Pixel Buds Pro 2 and Pixel Buds 2a. - blog.google",
+      "source": {
+        "name": "Blog.google"
+      },
+      "description": "Google is launching a new color and upgraded features for Pixel Buds Pro 2 and Pixel Buds 2a as part...",
+      "url": "https://blog.google/products-and-platforms/devices/pixel/google-pixel-buds-mbg-2026/",
+      "publishedAt": "2026-08-12T14:14:57Z",
+      "processed_at": "2026-08-13T16:03:28.484238+00:00"
+    },
+    {
+      "title": "Google-made Pixel 11 cases and Pixelsnap accessories get fresh hues [Gallery] - 9to5Google",
+      "source": {
+        "name": "9to5google.com"
+      },
+      "description": "The Pixel 11, no matter which model you look at, ranges from bright and loud to quiet and stealthy c...",
+      "url": "http://9to5google.com/2026/08/12/google-made-pixel-11-cases-new-colors/",
+      "publishedAt": "2026-08-12T14:03:00Z",
+      "processed_at": "2026-08-13T16:03:28.484238+00:00"
     },
     {
       "title": "Google’s Pixel Watch 5 dives deeper into AI and health - The Verge",
@@ -20,80 +90,20 @@
       "description": "The $399 Google Pixel Watch 5 doesn’t change much in terms of hardware, but it features a ton of new...",
       "url": "https://www.theverge.com/tech/978094/pixel-watch-5-hands-on-made-by-google-gemini-wearables-smartwatch",
       "publishedAt": "2026-08-12T14:00:00Z",
-      "processed_at": "2026-08-13T14:58:22.497204+00:00"
+      "processed_at": "2026-08-13T16:03:28.484238+00:00"
     },
     {
-      "title": "'iPhone Ultra' Screen Protectors Reveal Asymmetric Corners - MacRumors",
+      "title": "The Pixel Tag is Google’s answer to the AirTag - The Verge",
       "source": {
-        "name": "MacRumors"
+        "name": "The Verge"
       },
-      "description": "The leaker known as \"Ice Universe\" today shared images and a hands on video of screen protectors for...",
-      "url": "https://www.macrumors.com/2026/08/12/iphone-ultra-screen-protectors-reveal-asymmetry/",
-      "publishedAt": "2026-08-12T12:44:04Z",
-      "processed_at": "2026-08-13T14:58:22.497204+00:00"
-    },
-    {
-      "title": "Acer Googlebook 14 confirmed with Intel Panther Lake Core Ultra 5 325 processor - VideoCardz.com",
-      "source": {
-        "name": "Videocardz.com"
-      },
-      "description": "A European retailer has listed Acer's GP714-91N Googlebook with a Panther Lake processor. The system...",
-      "url": "https://videocardz.com/newz/acer-googlebook-14-confirmed-with-intel-panther-lake-core-ultra-5-325-processor",
-      "publishedAt": "2026-08-12T11:10:58Z",
-      "processed_at": "2026-08-13T14:58:22.497204+00:00"
-    },
-    {
-      "title": "Helldivers 2 Update 7.0.0 Out Now — Check Out the Patch Notes - ign.com",
-      "source": {
-        "name": "IGN"
-      },
-      "description": "Helldivers 2 developer Arrowhead has released a major update for the game, adding new Illuminate ene...",
-      "url": "https://www.ign.com/articles/huge-helldivers-2-patch-adds-new-illuminate-enemies-a-new-biome-full-of-fresh-horrors-a-level-cap-increase-and-much-more",
-      "publishedAt": "2026-08-12T09:49:03Z",
-      "processed_at": "2026-08-13T14:58:22.497204+00:00"
-    },
-    {
-      "title": "Xbox CEO Asha Sharma's internal playthrough of The Elder Scrolls 6 disrupted by a giant inflatable rat, as Bethesda union protests cuts - Eurogamer.net",
-      "source": {
-        "name": "Eurogamer.net"
-      },
-      "description": "The CWA video games union brought a giant inflatable rat as well as red flags marking each laid off ...",
-      "url": "https://www.eurogamer.net/elder-scrolls-6-giant-inflatable-rat",
-      "publishedAt": "2026-08-12T09:16:25Z",
-      "processed_at": "2026-08-13T14:58:22.497204+00:00"
-    },
-    {
-      "title": "State of Play for Phantom Blade Zero Announced for Next Week, 11-Minute Trailer Revealed - Push Square",
-      "source": {
-        "name": "Push Square"
-      },
-      "description": "A $60 PS5 game with pre-orders live now...",
-      "url": "https://www.pushsquare.com/news/2026/08/state-of-play-for-phantom-blade-zero-announced-for-next-week-11-minute-trailer-revealed",
-      "publishedAt": "2026-08-12T08:00:00Z",
-      "processed_at": "2026-08-13T14:58:22.497204+00:00"
-    },
-    {
-      "title": "Google TV just got 10,000 free movies and shows to binge - Android Authority",
-      "source": {
-        "name": "Android Authority"
-      },
-      "description": "Google TV Freeplay now offers more than 10,000 free movies and TV shows on demand, with no subscript...",
-      "url": "https://www.androidauthority.com/google-tv-freeplay-free-movies-tv-shows-3697473/",
-      "publishedAt": "2026-08-12T05:17:00Z",
-      "processed_at": "2026-08-13T14:58:22.497204+00:00"
-    },
-    {
-      "title": "Aspyr Announces The Lord of the Rings: War in the North Legacy Edition , Out Now on PC & Consoles! - Games Press",
-      "source": {
-        "name": "Gamespress.com"
-      },
-      "description": "'Legacy Edition' is now out....",
-      "url": "https://www.gamespress.com/Aspyr-Announces-The-Lord-of-the-Rings-War-in-the-North-Legacy-Edition-",
-      "publishedAt": "2026-08-12T01:28:41Z",
-      "processed_at": "2026-08-13T14:58:22.497204+00:00"
+      "description": "The $29 tracker combines UWB with Bluetooth channel sounding....",
+      "url": "https://www.theverge.com/tech/978713/google-pixel-tag-uwb-bluetooth-channel-finding-news",
+      "publishedAt": "2026-08-12T14:00:00Z",
+      "processed_at": "2026-08-13T16:03:28.484238+00:00"
     }
   ],
-  "lastUpdated": "2026-08-13T14:58:22.497322+00:00",
+  "lastUpdated": "2026-08-13T16:03:28.484320+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
