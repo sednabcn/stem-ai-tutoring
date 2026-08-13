@@ -3,6 +3,26 @@
   "totalResults": 9,
   "articles": [
     {
+      "title": "Google sends out $150 discount codes ahead of Pixel 11 pre-orders - 9to5Google",
+      "source": {
+        "name": "9to5google.com"
+      },
+      "description": "With less than 24 hours to go until the company’s Pixel 11 launch event, Google is sending $150 disc...",
+      "url": "http://9to5google.com/2026/08/11/google-pixel-11-discount-code-email/",
+      "publishedAt": "2026-08-12T02:30:00Z",
+      "processed_at": "2026-08-13T04:51:19.862252+00:00"
+    },
+    {
+      "title": "Phantom Blade Zero pre-orders now available, 11-minute trailer - Gematsu",
+      "source": {
+        "name": "Gematsu"
+      },
+      "description": "S-GAME has opened pre-orders and released an 11-minute trailer for Wuxia action RPG Phantom Blade Ze...",
+      "url": "https://www.gematsu.com/2026/08/phantom-blade-zero-pre-orders-now-available-11-minute-trailer-dedicated-state-of-play-set-for-august-17",
+      "publishedAt": "2026-08-12T02:06:03Z",
+      "processed_at": "2026-08-13T04:51:19.862252+00:00"
+    },
+    {
       "title": "Xbox Elite 3 prototype pad leaks with tiny built-in screen - The Verge",
       "source": {
         "name": "The Verge"
@@ -10,17 +30,27 @@
       "description": "A Redditor has legit-looking photos of a prototype Xbox controller that’s almost certainly the Xbox ...",
       "url": "https://www.theverge.com/games/978374/xbox-elite-3-prototype-pad-leaks-with-tiny-built-in-screen",
       "publishedAt": "2026-08-11T22:36:35Z",
-      "processed_at": "2026-08-13T02:04:12.877898+00:00"
+      "processed_at": "2026-08-13T04:51:19.862252+00:00"
     },
     {
-      "title": "Microsoft Plugs Nearly 400 Security Holes - Krebs on Security",
+      "title": "What to know as your driver's license gets a digital upgrade - PBS",
       "source": {
-        "name": "Krebs on Security"
+        "name": "PBS"
       },
-      "description": "Microsoft today released updates to remedy at least 398 security vulnerabilities in its Windows oper...",
-      "url": "https://krebsonsecurity.com/2026/08/microsoft-plugs-nearly-400-security-holes/",
-      "publishedAt": "2026-08-11T21:46:02Z",
-      "processed_at": "2026-08-13T02:04:12.877898+00:00"
+      "description": "Your old plastic driver's license could soon be getting a digital upgrade. Multiplatform producer Ti...",
+      "url": "https://www.pbs.org/newshour/show/what-to-know-as-your-drivers-license-gets-a-digital-upgrade",
+      "publishedAt": "2026-08-11T22:25:07Z",
+      "processed_at": "2026-08-13T04:51:19.862252+00:00"
+    },
+    {
+      "title": "Get a Complete CyberPowerPC Prebuilt Gaming PC With GeForce RTX 5070 GPU for Just $1,399 Shipped - IGN",
+      "source": {
+        "name": "IGN"
+      },
+      "description": "It comes with two free upcoming PC games - Star Wars Galactic Racer and Tomb Raider: Legacy of Atlan...",
+      "url": "https://www.ign.com/articles/cyberpowerpc-geforce-rtx-5070-gaming-pc-deal-august-2026",
+      "publishedAt": "2026-08-11T22:03:18Z",
+      "processed_at": "2026-08-13T04:51:19.862252+00:00"
     },
     {
       "title": "Xbox CEO Asha Sharma Gushes About Elder Scrolls VI, Does Not Seem To Notice Giant Rat On Bethesda Office Lawn - Aftermath",
@@ -30,7 +60,7 @@
       "description": "Please clap (instead of talking about layoffs)...",
       "url": "https://aftermath.site/xbox-asha-sharma-elder-scrolls-vi-bethesda-giant-rat/",
       "publishedAt": "2026-08-11T21:40:26Z",
-      "processed_at": "2026-08-13T02:04:12.877898+00:00"
+      "processed_at": "2026-08-13T04:51:19.862252+00:00"
     },
     {
       "title": "Chrome adopts what may be the best protection yet against account takeovers - Ars Technica",
@@ -40,60 +70,30 @@
       "description": "Device-bound session credentials thwart an increasingly common form of account takeover....",
       "url": "https://arstechnica.com/security/2026/08/chrome-adopts-what-may-be-the-best-protection-yet-against-account-takeovers/",
       "publishedAt": "2026-08-11T20:59:52Z",
-      "processed_at": "2026-08-13T02:04:12.877898+00:00"
+      "processed_at": "2026-08-13T04:51:19.862252+00:00"
     },
     {
-      "title": "Ultra rare Nintendo Mario game cartridges discovered in Wisconsin - AP News",
+      "title": "Apple Extends 2026 Back to School Promotion Until September 24 - MacRumors",
       "source": {
-        "name": "Associated Press"
+        "name": "MacRumors"
       },
-      "description": "A set of unique, extremely rare Super Mario cartridges was found in a gaming store in Waukesha, Wisc...",
-      "url": "https://apnews.com/article/nintendo-wisconsin-mario-cartridges-video-de88a9fd5643913454328830e73f74c2",
-      "publishedAt": "2026-08-11T20:02:00Z",
-      "processed_at": "2026-08-13T02:04:12.877898+00:00"
+      "description": "Apple today extended its 2026 Back to School Promotion until September 24, which means it will last ...",
+      "url": "https://www.macrumors.com/2026/08/11/apple-extends-2026-back-to-school-promo/",
+      "publishedAt": "2026-08-11T20:52:37Z",
+      "processed_at": "2026-08-13T04:51:19.862252+00:00"
     },
     {
-      "title": "‘Everyone’ at Apple uses iPhone Ultra name, says Mark Gurman - 9to5Mac",
+      "title": "Microsoft Patches 398 Flaws Including a Windows Driver Zero-Day Under Active Attack - The Hacker News",
       "source": {
-        "name": "9to5Mac"
+        "name": "Internet"
       },
-      "description": "Mark Gurman says that ‘iPhone Ultra’ is the name widely used within Apple when referring to the upco...",
-      "url": "https://9to5mac.com/2026/08/11/everyone-at-apple-uses-iphone-ultra-name-says-mark-gurman/",
-      "publishedAt": "2026-08-11T19:40:00Z",
-      "processed_at": "2026-08-13T02:04:12.877898+00:00"
-    },
-    {
-      "title": "King's Field IV Will Kill You, And Some Of You Will Like It - Kotaku",
-      "source": {
-        "name": "Kotaku"
-      },
-      "description": "Beware: Poison...",
-      "url": "https://kotaku.com/kings-field-4-kill-you-like-it-2000722569",
-      "publishedAt": "2026-08-11T19:32:14Z",
-      "processed_at": "2026-08-13T02:04:12.877898+00:00"
-    },
-    {
-      "title": "Google TV adds over 10,000 free movies & shows on-demand, no apps needed - 9to5Google",
-      "source": {
-        "name": "9to5google.com"
-      },
-      "description": "An update to Google TV Freeplay is bringing over 10,000 free movies and TV shows to the platform, no...",
-      "url": "http://9to5google.com/2026/08/11/google-tv-free-movies-on-demand/",
-      "publishedAt": "2026-08-11T18:55:00Z",
-      "processed_at": "2026-08-13T02:04:12.877898+00:00"
-    },
-    {
-      "title": "Stop Killing Games Joins Lawsuit Against Sony Over Its ‘Total Control Of PlayStation Store Pricing’ - Kotaku",
-      "source": {
-        "name": "Kotaku"
-      },
-      "description": "Both Stop Killing Games and DoesItPlay are lending their support to a lawsuit against the digital 'm...",
-      "url": "https://kotaku.com/stop-killing-games-joins-lawsuit-against-sony-over-its-total-control-of-playstation-store-pricing-2000723377",
-      "publishedAt": "2026-08-11T17:53:14Z",
-      "processed_at": "2026-08-13T02:04:12.877898+00:00"
+      "description": "Microsoft patches 398 flaws, including exploited CVE-2026-68820 that lets local attackers reach SYST...",
+      "url": "https://thehackernews.com/2026/08/microsoft-patches-398-flaws-including.html",
+      "publishedAt": "2026-08-11T20:10:00Z",
+      "processed_at": "2026-08-13T04:51:19.862252+00:00"
     }
   ],
-  "lastUpdated": "2026-08-13T02:04:12.877977+00:00",
+  "lastUpdated": "2026-08-13T04:51:19.862306+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
