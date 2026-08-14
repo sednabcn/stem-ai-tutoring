@@ -3,6 +3,16 @@
   "totalResults": 9,
   "articles": [
     {
+      "title": "Saber CEO Makes Rideshare's Undisclosed AI Mess Even Worse - Kotaku",
+      "source": {
+        "name": "Kotaku"
+      },
+      "description": "Matt Karch said a missing Steam disclosure will be added eventually...",
+      "url": "https://kotaku.com/saber-ceo-denies-replacing-rideshare-writer-with-chatgpt-but-says-i-would-frankly-in-retrospect-have-been-happy-to-replace-her-with-ai-2000723953",
+      "publishedAt": "2026-08-13T04:42:19Z",
+      "processed_at": "2026-08-14T08:16:23.797643+00:00"
+    },
+    {
       "title": "Everything announced at Made by Google today, including Pixel 11, Pixel Watch 4, and Pixel Tag - Mashable",
       "source": {
         "name": "Mashable"
@@ -10,7 +20,7 @@
       "description": "No surprises here, just new phones....",
       "url": "https://mashable.com/tech/made-by-google-2026-pixel-11-event-everything-announced",
       "publishedAt": "2026-08-12T23:44:50Z",
-      "processed_at": "2026-08-14T06:14:19.444626+00:00"
+      "processed_at": "2026-08-14T08:16:23.797643+00:00"
     },
     {
       "title": "Exclusive | Apple in Talks to Pay Publishers to Improve AI-Powered Siri - WSJ",
@@ -20,7 +30,7 @@
       "description": "",
       "url": "https://www.wsj.com/business/media/apple-in-talks-to-pay-publishers-to-improve-ai-powered-siri-0641f64b",
       "publishedAt": "2026-08-12T22:30:00Z",
-      "processed_at": "2026-08-14T06:14:19.444626+00:00"
+      "processed_at": "2026-08-14T08:16:23.797643+00:00"
     },
     {
       "title": "Hogwarts Legacy 2 Is Officially in the Works, Confirms Warner Bros. - IGN",
@@ -30,7 +40,7 @@
       "description": "A sequel to Hogwarts Legacy is actively in development, according to Warner Bros....",
       "url": "https://www.ign.com/articles/hogwarts-legacy-2-is-officially-in-the-works-confirms-warner-bros",
       "publishedAt": "2026-08-12T21:22:25Z",
-      "processed_at": "2026-08-14T06:14:19.444626+00:00"
+      "processed_at": "2026-08-14T08:16:23.797643+00:00"
     },
     {
       "title": "Things I Said Out Loud While Suffering Through King's Field 4 - Kotaku",
@@ -40,17 +50,7 @@
       "description": "This is just like Dark Souls...",
       "url": "https://kotaku.com/things-said-kings-field-4-ancient-city-dark-souls-warp-week-2002-2000723445",
       "publishedAt": "2026-08-12T20:30:44Z",
-      "processed_at": "2026-08-14T06:14:19.444626+00:00"
-    },
-    {
-      "title": "Amazon will train on Twitch streamers’ content by default, unless they opt out - TechCrunch",
-      "source": {
-        "name": "TechCrunch"
-      },
-      "description": "\"If this was opt-in, nobody would opt in,\" Twitch CPO Mike Minton said on a livestream responding to...",
-      "url": "https://techcrunch.com/2026/08/12/amazon-will-train-on-twitch-streamers-content-by-default-unless-they-opt-out/",
-      "publishedAt": "2026-08-12T20:10:40Z",
-      "processed_at": "2026-08-14T06:14:19.444626+00:00"
+      "processed_at": "2026-08-14T08:16:23.797643+00:00"
     },
     {
       "title": "Xbox Reveals Stunning 3D-Moulded Gears of War: E-Day Limited Edition Controllers - IGN",
@@ -60,7 +60,7 @@
       "description": "Microsoft has announced a pair of highly-detailed Gears of War: E-Day Limited Edition Xbox controlle...",
       "url": "https://www.ign.com/articles/xbox-reveals-stunning-3d-moulded-gears-of-war-e-day-limited-edition-controllers",
       "publishedAt": "2026-08-12T19:33:53Z",
-      "processed_at": "2026-08-14T06:14:19.444626+00:00"
+      "processed_at": "2026-08-14T08:16:23.797643+00:00"
     },
     {
       "title": "Kinetic Publishing Showcase Recap: Every Reveal, Including the New Sam Barlow Game - XBOX Wire",
@@ -70,7 +70,7 @@
       "description": "Kinetic Publishing just held its first ever showcase - here are all the details on the five games in...",
       "url": "https://news.xbox.com/en-us/2026/08/12/kinetic-publishing-showcase-recap-sam-barlow/",
       "publishedAt": "2026-08-12T19:32:10Z",
-      "processed_at": "2026-08-14T06:14:19.444626+00:00"
+      "processed_at": "2026-08-14T08:16:23.797643+00:00"
     },
     {
       "title": "Google Unveils $29 Pixel Tag to Take On Apple's AirTag - MacRumors",
@@ -80,7 +80,7 @@
       "description": "Google today introduced the Pixel Tag, its answer to Apple's AirTag. Pixel Tag is Google's first ite...",
       "url": "https://www.macrumors.com/2026/08/12/google-pixel-tag/",
       "publishedAt": "2026-08-12T18:52:17Z",
-      "processed_at": "2026-08-14T06:14:19.444626+00:00"
+      "processed_at": "2026-08-14T08:16:23.797643+00:00"
     },
     {
       "title": "iPhone 18 Pro set to become Apple’s new default model - 9to5Mac",
@@ -90,10 +90,10 @@
       "description": "iPhone 18 Pro is being unveiled soon, and due to a lineup overhaul this year, it’s set to become App...",
       "url": "https://9to5mac.com/2026/08/12/iphone-18-pro-set-to-become-apples-new-default-model/",
       "publishedAt": "2026-08-12T17:50:00Z",
-      "processed_at": "2026-08-14T06:14:19.444626+00:00"
+      "processed_at": "2026-08-14T08:16:23.797643+00:00"
     }
   ],
-  "lastUpdated": "2026-08-14T06:14:19.444700+00:00",
+  "lastUpdated": "2026-08-14T08:16:23.797711+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
