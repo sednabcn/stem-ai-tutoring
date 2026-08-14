@@ -1,26 +1,46 @@
 {
   "status": "success",
-  "totalResults": 9,
+  "totalResults": 8,
   "articles": [
     {
-      "title": "Saber CEO Makes Rideshare's Undisclosed AI Mess Even Worse - Kotaku",
+      "title": "We're Live at Made By Google Sharing Every Pixel 11, Pro Fold, and Watch 5 Announcement - PCMag",
       "source": {
-        "name": "Kotaku"
+        "name": "PCMag.com"
       },
-      "description": "Matt Karch said a missing Steam disclosure will be added eventually...",
-      "url": "https://kotaku.com/saber-ceo-denies-replacing-rideshare-writer-with-chatgpt-but-says-i-would-frankly-in-retrospect-have-been-happy-to-replace-her-with-ai-2000723953",
-      "publishedAt": "2026-08-13T04:42:19Z",
-      "processed_at": "2026-08-14T08:16:23.797643+00:00"
+      "description": "The Made by Google event kicks off at 6 p.m. ET, but tune in for our preshow at 5:30 p.m. ET for ana...",
+      "url": "https://www.pcmag.com/news/made-by-google-live-2026-pixel-11-pro-fold-watch5-tag-tracker-announcement",
+      "publishedAt": "2026-08-13T07:39:54Z",
+      "processed_at": "2026-08-14T10:03:07.785042+00:00"
     },
     {
-      "title": "Everything announced at Made by Google today, including Pixel 11, Pixel Watch 4, and Pixel Tag - Mashable",
+      "title": "iPhone 18 Pro Event Tipped As Apple Shifts Key Release Schedule Date - forbes.com",
       "source": {
-        "name": "Mashable"
+        "name": "Forbes"
       },
-      "description": "No surprises here, just new phones....",
-      "url": "https://mashable.com/tech/made-by-google-2026-pixel-11-event-everything-announced",
-      "publishedAt": "2026-08-12T23:44:50Z",
-      "processed_at": "2026-08-14T08:16:23.797643+00:00"
+      "description": "Exactly when the next Apple special event will take place to reveal the iPhone 18 Pro has just becom...",
+      "url": "https://www.forbes.com/sites/davidphelan/2026/08/13/iphone-18-pro-event-tipped-as-apple-shifts-key-release-schedule-date/",
+      "publishedAt": "2026-08-13T07:36:09Z",
+      "processed_at": "2026-08-14T10:03:07.785042+00:00"
+    },
+    {
+      "title": "Twitch faces backlash over Amazon training AI on its users' livestreams - BBC",
+      "source": {
+        "name": "BBC News"
+      },
+      "description": "Fans of the streaming platform criticised Twitch for letting Amazon use their content for AI trainin...",
+      "url": "https://www.bbc.com/news/articles/cp30pz8d09jo",
+      "publishedAt": "2026-08-13T02:46:04Z",
+      "processed_at": "2026-08-14T10:03:07.785042+00:00"
+    },
+    {
+      "title": "Saber Interactive's CEO Matt Karch Can Get In The Bin - Aftermath",
+      "source": {
+        "name": "Aftermath.site"
+      },
+      "description": "'I would frankly in retrospect have been happy to replace her with AI'...",
+      "url": "https://aftermath.site/saber-interactive-ceo-ai-writer/",
+      "publishedAt": "2026-08-13T00:55:57Z",
+      "processed_at": "2026-08-14T10:03:07.785042+00:00"
     },
     {
       "title": "Exclusive | Apple in Talks to Pay Publishers to Improve AI-Powered Siri - WSJ",
@@ -30,27 +50,7 @@
       "description": "",
       "url": "https://www.wsj.com/business/media/apple-in-talks-to-pay-publishers-to-improve-ai-powered-siri-0641f64b",
       "publishedAt": "2026-08-12T22:30:00Z",
-      "processed_at": "2026-08-14T08:16:23.797643+00:00"
-    },
-    {
-      "title": "Hogwarts Legacy 2 Is Officially in the Works, Confirms Warner Bros. - IGN",
-      "source": {
-        "name": "IGN"
-      },
-      "description": "A sequel to Hogwarts Legacy is actively in development, according to Warner Bros....",
-      "url": "https://www.ign.com/articles/hogwarts-legacy-2-is-officially-in-the-works-confirms-warner-bros",
-      "publishedAt": "2026-08-12T21:22:25Z",
-      "processed_at": "2026-08-14T08:16:23.797643+00:00"
-    },
-    {
-      "title": "Things I Said Out Loud While Suffering Through King's Field 4 - Kotaku",
-      "source": {
-        "name": "Kotaku"
-      },
-      "description": "This is just like Dark Souls...",
-      "url": "https://kotaku.com/things-said-kings-field-4-ancient-city-dark-souls-warp-week-2002-2000723445",
-      "publishedAt": "2026-08-12T20:30:44Z",
-      "processed_at": "2026-08-14T08:16:23.797643+00:00"
+      "processed_at": "2026-08-14T10:03:07.785042+00:00"
     },
     {
       "title": "Xbox Reveals Stunning 3D-Moulded Gears of War: E-Day Limited Edition Controllers - IGN",
@@ -60,7 +60,7 @@
       "description": "Microsoft has announced a pair of highly-detailed Gears of War: E-Day Limited Edition Xbox controlle...",
       "url": "https://www.ign.com/articles/xbox-reveals-stunning-3d-moulded-gears-of-war-e-day-limited-edition-controllers",
       "publishedAt": "2026-08-12T19:33:53Z",
-      "processed_at": "2026-08-14T08:16:23.797643+00:00"
+      "processed_at": "2026-08-14T10:03:07.785042+00:00"
     },
     {
       "title": "Kinetic Publishing Showcase Recap: Every Reveal, Including the New Sam Barlow Game - XBOX Wire",
@@ -70,7 +70,7 @@
       "description": "Kinetic Publishing just held its first ever showcase - here are all the details on the five games in...",
       "url": "https://news.xbox.com/en-us/2026/08/12/kinetic-publishing-showcase-recap-sam-barlow/",
       "publishedAt": "2026-08-12T19:32:10Z",
-      "processed_at": "2026-08-14T08:16:23.797643+00:00"
+      "processed_at": "2026-08-14T10:03:07.785042+00:00"
     },
     {
       "title": "Google Unveils $29 Pixel Tag to Take On Apple's AirTag - MacRumors",
@@ -80,20 +80,10 @@
       "description": "Google today introduced the Pixel Tag, its answer to Apple's AirTag. Pixel Tag is Google's first ite...",
       "url": "https://www.macrumors.com/2026/08/12/google-pixel-tag/",
       "publishedAt": "2026-08-12T18:52:17Z",
-      "processed_at": "2026-08-14T08:16:23.797643+00:00"
-    },
-    {
-      "title": "iPhone 18 Pro set to become Apple’s new default model - 9to5Mac",
-      "source": {
-        "name": "9to5Mac"
-      },
-      "description": "iPhone 18 Pro is being unveiled soon, and due to a lineup overhaul this year, it’s set to become App...",
-      "url": "https://9to5mac.com/2026/08/12/iphone-18-pro-set-to-become-apples-new-default-model/",
-      "publishedAt": "2026-08-12T17:50:00Z",
-      "processed_at": "2026-08-14T08:16:23.797643+00:00"
+      "processed_at": "2026-08-14T10:03:07.785042+00:00"
     }
   ],
-  "lastUpdated": "2026-08-14T08:16:23.797711+00:00",
+  "lastUpdated": "2026-08-14T10:03:07.785100+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
