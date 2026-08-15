@@ -3,16 +3,6 @@
   "totalResults": 10,
   "articles": [
     {
-      "title": "iPhone 17 Pro One Year Later: What Held Up and What Didn't - MacRumors",
-      "source": {
-        "name": "MacRumors"
-      },
-      "description": "We're getting close to the launch of new iPhone 18 Pro models that will replace the iPhone 17 Pro mo...",
-      "url": "https://www.macrumors.com/2026/08/13/iphone-17-pro-one-year-later/",
-      "publishedAt": "2026-08-13T23:58:41Z",
-      "processed_at": "2026-08-15T08:29:35.356833+00:00"
-    },
-    {
       "title": "Google Play is hiding a Pixel 11 Pro discount in plain sight - Android Central",
       "source": {
         "name": "Android Central"
@@ -20,17 +10,27 @@
       "description": "Check your perks and compare trade-in deals before pre-ordering....",
       "url": "https://www.androidcentral.com/phones/google-pixel/google-play-is-hiding-a-pixel-11-pro-discount-in-plain-sight",
       "publishedAt": "2026-08-13T23:52:18Z",
-      "processed_at": "2026-08-15T08:29:35.356833+00:00"
+      "processed_at": "2026-08-15T09:26:23.516078+00:00"
+    },
+    {
+      "title": "What's Coming in September: New iPhones, Apple Watches and More - MacRumors",
+      "source": {
+        "name": "MacRumors"
+      },
+      "description": "Apple will introduce at least five new devices at its iPhone-centric event next month, and it's also...",
+      "url": "https://www.macrumors.com/2026/08/13/apple-september-announcement-rumors/",
+      "publishedAt": "2026-08-13T23:20:34Z",
+      "processed_at": "2026-08-15T09:26:23.516078+00:00"
     },
     {
       "title": "Apple’s next iPhone battle just got more complicated - thestreet.com",
       "source": {
         "name": "TheStreet"
       },
-      "description": "",
+      "description": "Apple is walking into an AI fight with an unusual disadvantage...",
       "url": "https://www.thestreet.com/investing/apple-next-iphone-battle-google-pixel-11",
       "publishedAt": "2026-08-13T22:54:48Z",
-      "processed_at": "2026-08-15T08:29:35.356833+00:00"
+      "processed_at": "2026-08-15T09:26:23.516078+00:00"
     },
     {
       "title": "Google Meet rolling out ‘Take Notes’ for in-person meetings on Android, web, & iOS - 9to5Google",
@@ -40,7 +40,7 @@
       "description": "As previewed in April, Google Meet’s “Take Notes for me” feature can now work for in-person meetings...",
       "url": "http://9to5google.com/2026/08/13/google-meet-take-notes-in-person/",
       "publishedAt": "2026-08-13T22:40:00Z",
-      "processed_at": "2026-08-15T08:29:35.356833+00:00"
+      "processed_at": "2026-08-15T09:26:23.516078+00:00"
     },
     {
       "title": "‘That is not acceptable’: Judge orders Google to make rival app store installs easier - The Verge",
@@ -50,7 +50,7 @@
       "description": "Judge James Donato just ordered Google to make it easier to install rival app stores on Android....",
       "url": "https://www.theverge.com/policy/979852/that-is-not-acceptable-judge-orders-google-to-make-rival-app-store-installs-easier",
       "publishedAt": "2026-08-13T21:53:04Z",
-      "processed_at": "2026-08-15T08:29:35.356833+00:00"
+      "processed_at": "2026-08-15T09:26:23.516078+00:00"
     },
     {
       "title": "If Apple sends you a push notification alerting you to a spyware attack, take it seriously - TechCrunch",
@@ -60,7 +60,7 @@
       "description": "Apple now sends out push notifications to iPhone lock screens when the company identifies government...",
       "url": "https://techcrunch.com/2026/08/13/if-apple-sends-you-a-push-notification-alerting-you-to-a-spyware-attack-take-it-seriously/",
       "publishedAt": "2026-08-13T21:50:11Z",
-      "processed_at": "2026-08-15T08:29:35.356833+00:00"
+      "processed_at": "2026-08-15T09:26:23.516078+00:00"
     },
     {
       "title": "Google Targets Apple's AirTag With Its Pixel Tag Bluetooth Tracker - PCMag",
@@ -70,17 +70,7 @@
       "description": "The Pixel Tag pairs UWB and Bluetooth Channel Sounding to precisely pinpoint your lost items....",
       "url": "https://www.pcmag.com/news/google-pixel-tag-bluetooth-tracker-targets-apple-airtag",
       "publishedAt": "2026-08-13T21:18:09Z",
-      "processed_at": "2026-08-15T08:29:35.356833+00:00"
-    },
-    {
-      "title": "The Future Of Roku As An Affordable Streaming Platform Is Looking Bleak - bgr.com",
-      "source": {
-        "name": "BGR"
-      },
-      "description": "Roku cemented its current dominance of the streaming device market in large part thanks to its affor...",
-      "url": "https://www.bgr.com/2232436/future-roku-affordable-streaming-platform-bleak/",
-      "publishedAt": "2026-08-13T21:17:00Z",
-      "processed_at": "2026-08-15T08:29:35.356833+00:00"
+      "processed_at": "2026-08-15T09:26:23.516078+00:00"
     },
     {
       "title": "Pixel 11’s Gboard Rambler is prompt-based, rather than real-time - 9to5Google",
@@ -90,7 +80,7 @@
       "description": "Gboard Rambler is likely the flagship Gemini Intelligence feature on the Pixel 11 series, but it’s n...",
       "url": "http://9to5google.com/2026/08/13/gboard-rambler-prompt/",
       "publishedAt": "2026-08-13T20:41:00Z",
-      "processed_at": "2026-08-15T08:29:35.356833+00:00"
+      "processed_at": "2026-08-15T09:26:23.516078+00:00"
     },
     {
       "title": "ChatGPT for Mac adds opt-in Computer History feature, replacing Chronicle - 9to5Mac",
@@ -100,10 +90,20 @@
       "description": "OpenAI is giving ChatGPT and Codex a new way to learn from and remember how you use your Mac, even.....",
       "url": "https://9to5mac.com/2026/08/13/chatgpt-for-mac-adds-opt-in-computer-history-feature-replacing-chronicle/",
       "publishedAt": "2026-08-13T20:13:00Z",
-      "processed_at": "2026-08-15T08:29:35.356833+00:00"
+      "processed_at": "2026-08-15T09:26:23.516078+00:00"
+    },
+    {
+      "title": "NEO BERLIN 2087 launches in 2028 - Gematsu",
+      "source": {
+        "name": "Gematsu"
+      },
+      "description": "Action RPG NEO BERLIN 2087 will launch for PlayStation 5, Xbox Series, and PC via Steam in 2028, pub...",
+      "url": "https://www.gematsu.com/2026/08/neo-berlin-2087-launches-in-2028",
+      "publishedAt": "2026-08-13T20:05:31Z",
+      "processed_at": "2026-08-15T09:26:23.516078+00:00"
     }
   ],
-  "lastUpdated": "2026-08-15T08:29:35.356914+00:00",
+  "lastUpdated": "2026-08-15T09:26:23.516152+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
