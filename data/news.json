@@ -1,7 +1,27 @@
 {
   "status": "success",
-  "totalResults": 10,
+  "totalResults": 9,
   "articles": [
+    {
+      "title": "Pyrex Collectors Are Always Looking For This Rare Mod Pattern - Tasting Table",
+      "source": {
+        "name": "Tastingtable.com"
+      },
+      "description": "Vintage Pyrex dishes are well-known to collectors who look for the fun colors and patterns, but the ...",
+      "url": "https://www.tastingtable.com/2234550/rare-mod-kitchen-pyrex-collectors-always-looking/",
+      "publishedAt": "2026-08-16T19:40:00Z",
+      "processed_at": "2026-08-17T21:26:49.921603+00:00"
+    },
+    {
+      "title": "Insomniac Staff Pins Overnight Wolverine Hate On Twitter - Kotaku",
+      "source": {
+        "name": "Kotaku"
+      },
+      "description": "The studio’s marketing director blows off some steam on the sudden surge of scrutiny, believing this...",
+      "url": "https://kotaku.com/insomniac-staff-blame-social-media-feedback-loops-for-overnight-wolverine-hate-2000724780",
+      "publishedAt": "2026-08-16T19:11:50Z",
+      "processed_at": "2026-08-17T21:26:49.921603+00:00"
+    },
     {
       "title": "iCloud Private Relay leaks can expose your real IP - Fox News",
       "source": {
@@ -10,7 +30,7 @@
       "description": "iCloud Private Relay can be bypassed by three WebKit features, potentially exposing your real IP add...",
       "url": "https://www.foxnews.com/tech/icloud-private-relay-leaks-expose-real-ip",
       "publishedAt": "2026-08-16T18:15:50Z",
-      "processed_at": "2026-08-17T20:27:53.435119+00:00"
+      "processed_at": "2026-08-17T21:26:49.921603+00:00"
     },
     {
       "title": "Velocity Micro Raptor Z55i (2026) Review: A Low-Key Little Gaming Leviathan - PCMag",
@@ -20,7 +40,7 @@
       "description": "Don’t let Velocity Micro's sensible, workstation-style chassis fool you—the Raptor Z55i delivers raw...",
       "url": "https://www.pcmag.com/reviews/velocity-micro-raptor-z55i-2026",
       "publishedAt": "2026-08-16T18:00:53Z",
-      "processed_at": "2026-08-17T20:27:53.435119+00:00"
+      "processed_at": "2026-08-17T21:26:49.921603+00:00"
     },
     {
       "title": "Now It Will Be Sonic Who Gets To Have A Gun In Latest Fortnite Update - Kotaku",
@@ -30,7 +50,17 @@
       "description": "Mega Man, Crash Bandicoot, Spyro and Jazz Jackrabbit join Fortnite’s ever growing IP pit in ‘Gaming ...",
       "url": "https://kotaku.com/now-it-will-be-sonic-who-gets-to-have-a-gun-in-latest-fortnite-update-2000724774",
       "publishedAt": "2026-08-16T17:55:42Z",
-      "processed_at": "2026-08-17T20:27:53.435119+00:00"
+      "processed_at": "2026-08-17T21:26:49.921603+00:00"
+    },
+    {
+      "title": "Saber's CEO defends the studio's AI use as an AI disclaimer finally appears on Steam - Eurogamer",
+      "source": {
+        "name": "Eurogamer.net"
+      },
+      "description": "Saber Interactive has added an AI disclaimer to Rideshare Stimulator's Steam page, days after the ga...",
+      "url": "https://www.eurogamer.net/saber-rideshare-stimulator-steam-ai-disclaimer",
+      "publishedAt": "2026-08-16T17:34:21Z",
+      "processed_at": "2026-08-17T21:26:49.921603+00:00"
     },
     {
       "title": "It’s time for iOS to have its own Material You - 9to5Mac",
@@ -40,7 +70,7 @@
       "description": "Over the years, Apple has only added more and more customization to iOS. First, we got all of the lo...",
       "url": "https://9to5mac.com/2026/08/16/its-time-for-ios-to-have-its-own-material-you/",
       "publishedAt": "2026-08-16T17:33:00Z",
-      "processed_at": "2026-08-17T20:27:53.435119+00:00"
+      "processed_at": "2026-08-17T21:26:49.921603+00:00"
     },
     {
       "title": "10 Best 'Good Neighbor' Cities - Newser",
@@ -50,60 +80,20 @@
       "description": "Madison, Wisconsin, earns top honors...",
       "url": "https://www.newser.com/story/394563/10-best-good-neighbor-cities.html",
       "publishedAt": "2026-08-16T17:13:00Z",
-      "processed_at": "2026-08-17T20:27:53.435119+00:00"
+      "processed_at": "2026-08-17T21:26:49.921603+00:00"
     },
     {
-      "title": "LEGO Super Mario Minifigure Sets Reportedly Leaked For 2027 - TwistedVoxel",
+      "title": "Apple may finally have a $2,000 reason to enter foldables - thestreet.com",
       "source": {
-        "name": "Twistedvoxel.com"
-      },
-      "description": "Several LEGO Super Mario sets reportedly planned for January 2027 have leaked online, with the alleg...",
-      "url": "https://twistedvoxel.com/lego-super-mario-2027-sets/",
-      "publishedAt": "2026-08-16T16:58:34Z",
-      "processed_at": "2026-08-17T20:27:53.435119+00:00"
-    },
-    {
-      "title": "Steam Deck LCD replacement battery jumps to $180 - VideoCardz.com",
-      "source": {
-        "name": "Videocardz.com"
+        "name": "TheStreet"
       },
       "description": "",
-      "url": "https://videocardz.com/newz/steam-deck-lcd-replacement-battery-jumps-to-180",
-      "publishedAt": "2026-08-16T16:35:58Z",
-      "processed_at": "2026-08-17T20:27:53.435119+00:00"
-    },
-    {
-      "title": "Weekly poll: which Google Pixel 11 model would you buy? - GSMArena.com news - gsmarena.com",
-      "source": {
-        "name": "GSMArena.com"
-      },
-      "description": "This generation brings a new chipset, some changes to the cameras and batteries - as well as new pri...",
-      "url": "https://www.gsmarena.com/weekly_poll_which_google_pixel_11_model_would_you_buy-news-74157.php",
-      "publishedAt": "2026-08-16T16:03:02Z",
-      "processed_at": "2026-08-17T20:27:53.435119+00:00"
-    },
-    {
-      "title": "5 disabled Samsung Galaxy features every owner should enable immediately - Android Police",
-      "source": {
-        "name": "Android Police"
-      },
-      "description": "Galaxy AI is no longer just a gimmick...",
-      "url": "https://www.androidpolice.com/disabled-samsung-galaxy-features-every-owner-enable/",
-      "publishedAt": "2026-08-16T15:15:15Z",
-      "processed_at": "2026-08-17T20:27:53.435119+00:00"
-    },
-    {
-      "title": "5 Tech Brands That Are Owned By Anker - slashgear.com",
-      "source": {
-        "name": "SlashGear"
-      },
-      "description": "Anker owns Anker Solix, AnkerWork, Eufy, Soundcore, and Nebula, covering portable power, office gear...",
-      "url": "https://www.slashgear.com/2234390/tech-brands-anker-owns/",
-      "publishedAt": "2026-08-16T15:15:00Z",
-      "processed_at": "2026-08-17T20:27:53.435119+00:00"
+      "url": "https://www.thestreet.com/investing/apple-may-finally-have-a-2000-reason-to-enter-foldables",
+      "publishedAt": "2026-08-16T17:07:00Z",
+      "processed_at": "2026-08-17T21:26:49.921603+00:00"
     }
   ],
-  "lastUpdated": "2026-08-17T20:27:53.435197+00:00",
+  "lastUpdated": "2026-08-17T21:26:49.921673+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
