@@ -1,89 +1,109 @@
 {
   "status": "success",
-  "totalResults": 8,
+  "totalResults": 10,
   "articles": [
     {
-      "title": "Apple releases iOS 26.6.1 for iPhone, here’s what’s new - 9to5Mac",
+      "title": "AI automation startup Relay shuts down, staff joins Google’s Chrome team - techcrunch.com",
       "source": {
-        "name": "9to5Mac"
+        "name": "TechCrunch"
       },
-      "description": "Apple has just released iOS 26.6.1, a new software update for iPhone that arrives ahead of iOS 27 ne...",
-      "url": "https://9to5mac.com/2026/08/17/apple-releases-ios-26-6-1-for-iphone-heres-whats-new/",
-      "publishedAt": "2026-08-17T17:36:00Z",
-      "processed_at": "2026-08-18T20:24:29.872778+00:00"
+      "description": "\"We have some really ambitious plans to help you work with AI in Chrome to get things done, and I’ll...",
+      "url": "https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team/",
+      "publishedAt": "2026-08-17T21:27:05Z",
+      "processed_at": "2026-08-18T21:24:55.890459+00:00"
     },
     {
-      "title": "iOS 27 beta 6 now available as Apple tests major Siri AI upgrade - 9to5Mac",
+      "title": "Star Citizen Dev Hosts Disastrous Livestream To Show How A Mission Works And Is Told To Pull The Plug: 'It's Your Show, Wrap It Up' - Kotaku",
       "source": {
-        "name": "9to5Mac"
+        "name": "Kotaku"
       },
-      "description": "Apple has released the sixth iOS 27 beta for developer testing. iOS 27 beta 6 continues Apple’s summ...",
-      "url": "https://9to5mac.com/2026/08/17/ios-27-beta-6/",
-      "publishedAt": "2026-08-17T17:18:00Z",
-      "processed_at": "2026-08-18T20:24:29.872778+00:00"
+      "description": "The Star Citizen Live stream featuring the Siege of Orison mission doesn't go well at all...",
+      "url": "https://kotaku.com/star-citizen-live-stream-fail-siege-of-orison-mission-2000725084",
+      "publishedAt": "2026-08-17T20:59:33Z",
+      "processed_at": "2026-08-18T21:24:55.890459+00:00"
     },
     {
-      "title": "Arepa Zone: “After 12 years in business, we’re facing the biggest challenge we’ve ever encountered.” - PoPville",
-      "source": {
-        "name": "PoPville"
-      },
-      "description": "1121 14th Street, NW Thanks to Alexandra for passing on the tough request from the Arepa Zone: \"This...",
-      "url": "https://www.popville.com/2026/08/arepa-zone-needs-your-support/",
-      "publishedAt": "2026-08-17T17:15:47Z",
-      "processed_at": "2026-08-18T20:24:29.872778+00:00"
-    },
-    {
-      "title": "Samsung Galaxy design might ditch its ‘core identity’ for a Pixel camera bar – it needs to - 9to5Google",
+      "title": "Google rolling out Android 17 QPR1 Beta 9 for Pixel - 9to5Google",
       "source": {
         "name": "9to5google.com"
       },
-      "description": "New evidence suggests that Samsung is possibly, maybe, potentially looking to move away from the ver...",
-      "url": "http://9to5google.com/2026/08/17/samsung-galaxy-google-pixel-camera-bar-rumors/",
-      "publishedAt": "2026-08-17T17:15:00Z",
-      "processed_at": "2026-08-18T20:24:29.872778+00:00"
+      "description": "The Android 17 QPR1 preview is surprisingly still active as Google today released Beta 9. This follo...",
+      "url": "http://9to5google.com/2026/08/17/android-17-qpr1-beta-9-pixel/",
+      "publishedAt": "2026-08-17T20:43:00Z",
+      "processed_at": "2026-08-18T21:24:55.890459+00:00"
     },
     {
-      "title": "Long-awaited Switch 2 version of Diablo 4 reportedly releases days after BlizzCon, and includes both game expansions - Eurogamer",
+      "title": "This compact Glorious mechanical keyboard is just $35 - The Verge",
       "source": {
-        "name": "Eurogamer.net"
+        "name": "The Verge"
       },
-      "description": "It's been a long wait for Diablo 4 on Switch 2, and it seems that wait may now, finally, be over....",
-      "url": "https://www.eurogamer.net/diablo-4-switch-2-release-date-rumour-expansions",
-      "publishedAt": "2026-08-17T16:00:08Z",
-      "processed_at": "2026-08-18T20:24:29.872778+00:00"
+      "description": "The GMMK 3 features a compact layout, swappable switches, and RGB lighting. It’s discounted to $35 o...",
+      "url": "https://www.theverge.com/gadgets/981134/glorious-gmmk-3-mechanical-keyboard-deal-sale",
+      "publishedAt": "2026-08-17T19:27:49Z",
+      "processed_at": "2026-08-18T21:24:55.890459+00:00"
     },
     {
-      "title": "Aliens: Fireteam Elite 2 – The Final Preview - IGN",
+      "title": "Best Buy 60th Anniversary Sale Offers Huge Deals on Apple, LG, Dyson and More - CNET",
       "source": {
-        "name": "IGN"
+        "name": "CNET"
       },
-      "description": "Aliens: Fireteam Elite 2 seems like one of those lazy Sunday games, where you kill part of an aftern...",
-      "url": "https://www.ign.com/articles/aliens-fireteam-elite-2-the-final-preview",
-      "publishedAt": "2026-08-17T16:00:00Z",
-      "processed_at": "2026-08-18T20:24:29.872778+00:00"
+      "description": "Save on everything from AirPods to air fryers as Best Buy celebrates its big birthday....",
+      "url": "https://www.cnet.com/news-live/best-buy-60th-anniversary-sale-offers-huge-deals-on-apple-lg-dyson-and-more/",
+      "publishedAt": "2026-08-17T19:18:53Z",
+      "processed_at": "2026-08-18T21:24:55.890459+00:00"
     },
     {
-      "title": "iPhone 18 Pro: Six new features are coming next month - 9to5Mac",
+      "title": "Wordle meets Clippy in this new word game - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "The Game Band, the developer behind viral hit Blaseball, has launched a new daily word game called D...",
+      "url": "https://www.theverge.com/entertainment/981014/dartwords-clippy-word-game",
+      "publishedAt": "2026-08-17T19:03:41Z",
+      "processed_at": "2026-08-18T21:24:55.890459+00:00"
+    },
+    {
+      "title": "Rare deals land on Apple’s new AirTag 2 trackers at the best prices in months - CNN",
+      "source": {
+        "name": "CNN"
+      },
+      "description": "Apple’s improved second-generation AirTags are now as affordable as $22 apiece when you take advanta...",
+      "url": "https://www.cnn.com/cnn-underscored/deals/apple-airtag-sale-08-17-2026",
+      "publishedAt": "2026-08-17T19:00:00Z",
+      "processed_at": "2026-08-18T21:24:55.890459+00:00"
+    },
+    {
+      "title": "ELDEN RING Tarnished Edition hands-on leaves press member \"utterly speechless\" in terms of smooth performance, footage shared - GoNintendo",
+      "source": {
+        "name": "GoNintendo"
+      },
+      "description": "A port worth the wait...",
+      "url": "https://gonintendo.com/contents/63860-elden-ring-tarnished-edition-hands-on-leaves-press-member-utterly-speechless-in",
+      "publishedAt": "2026-08-17T18:40:50Z",
+      "processed_at": "2026-08-18T21:24:55.890459+00:00"
+    },
+    {
+      "title": "iOS 26.6.1 has fixes for 20+ security issues on iPhone, details here - 9to5Mac",
       "source": {
         "name": "9to5Mac"
       },
-      "description": "Here are six new features rumored for the iPhone 18 Pro and Pro Max, both of which will launch next ...",
-      "url": "https://9to5mac.com/2026/08/17/iphone-18-pro-six-new-features-are-coming-this-fall/",
-      "publishedAt": "2026-08-17T15:33:00Z",
-      "processed_at": "2026-08-18T20:24:29.872778+00:00"
+      "description": "Apple released iOS 26.6.1 today, a new software update for iPhone that includes fixes for 20+ securi...",
+      "url": "https://9to5mac.com/2026/08/17/ios-26-6-1-has-fixes-for-20-security-issues-on-iphone-details-here/",
+      "publishedAt": "2026-08-17T18:29:00Z",
+      "processed_at": "2026-08-18T21:24:55.890459+00:00"
     },
     {
-      "title": "Sony's New 'It Happens on PS5' Ad Has Gone Down Exactly as You'd Expect - Push Square",
+      "title": "iPhone 18 Pro and iPhone Ultra: New Details Leak as Apple Event Nears - MacRumors",
       "source": {
-        "name": "Push Square"
+        "name": "MacRumors"
       },
-      "description": "\"Discs used to happen on PS5\"...",
-      "url": "https://www.pushsquare.com/news/2026/08/sonys-new-it-happens-on-ps5-ad-has-gone-down-exactly-as-youd-expect",
-      "publishedAt": "2026-08-17T15:30:00Z",
-      "processed_at": "2026-08-18T20:24:29.872778+00:00"
+      "description": "\"iPhone Ultra\" supply will be very limited when the foldable device is first released later this yea...",
+      "url": "https://www.macrumors.com/2026/08/17/iphone-18-pro-and-iphone-ultra-rumors/",
+      "publishedAt": "2026-08-17T18:09:40Z",
+      "processed_at": "2026-08-18T21:24:55.890459+00:00"
     }
   ],
-  "lastUpdated": "2026-08-18T20:24:29.872845+00:00",
+  "lastUpdated": "2026-08-18T21:24:55.890537+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
