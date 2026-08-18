@@ -3,6 +3,36 @@
   "totalResults": 8,
   "articles": [
     {
+      "title": "McL 6GT - McLaren",
+      "source": {
+        "name": "mclaren.com"
+      },
+      "description": "",
+      "url": "https://www.mclaren.com/cars/gl_en/mcl-6gt",
+      "publishedAt": "2026-08-17T01:21:23Z",
+      "processed_at": "2026-08-18T01:16:29.838724+00:00"
+    },
+    {
+      "title": "Here's How Much A 2021 Ford Mustang Mach 1 Has Depreciated In 5 Years - Jalopnik",
+      "source": {
+        "name": "Jalopnik"
+      },
+      "description": "Shopping for a modern 5.0L track pony? Check average used prices, current asking rates, and five-yea...",
+      "url": "https://www.jalopnik.com/2234582/2021-ford-mustang-mach-1-5-year-depreciation/",
+      "publishedAt": "2026-08-16T23:45:00Z",
+      "processed_at": "2026-08-18T01:16:29.838724+00:00"
+    },
+    {
+      "title": "Anthropic confirms Claude is down in major outage affecting multiple services - BleepingComputer",
+      "source": {
+        "name": "BleepingComputer"
+      },
+      "description": "Claude is experiencing a major outage, with users reporting login problems and degraded performance ...",
+      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-is-down-in-major-outage-affecting-multiple-services/",
+      "publishedAt": "2026-08-16T22:28:57Z",
+      "processed_at": "2026-08-18T01:16:29.838724+00:00"
+    },
+    {
       "title": "Drew Barrymore's Charming New 12-Piece Stoneware Dinnerware Set Is Full of Romantic Whimsy - Dengarden",
       "source": {
         "name": "Dengarden.com"
@@ -10,7 +40,7 @@
       "description": "It's so pretty!...",
       "url": "https://dengarden.com/shopping/walmart-beautiful-by-drew-barrymore-embossed-flower-stoneware-dinnerware-set",
       "publishedAt": "2026-08-16T21:32:00Z",
-      "processed_at": "2026-08-17T23:23:16.133160+00:00"
+      "processed_at": "2026-08-18T01:16:29.838724+00:00"
     },
     {
       "title": "Apple iPhone 18 Pro Release Date: Discounted Day Re-Enters The September Schedule - Forbes",
@@ -20,7 +50,7 @@
       "description": "As a new report asserts a date for the next Apple keynote. Here’s why I think it’s wrong and what’s ...",
       "url": "https://www.forbes.com/sites/davidphelan/2026/08/16/apple-iphone-18-pro-release-date-discounted-day-re-enters-the-september-schedule/",
       "publishedAt": "2026-08-16T20:28:59Z",
-      "processed_at": "2026-08-17T23:23:16.133160+00:00"
+      "processed_at": "2026-08-18T01:16:29.838724+00:00"
     },
     {
       "title": "Forget Phone Link; this ad-free open source app beats it in every category - Android Police",
@@ -30,7 +60,7 @@
       "description": "This one belongs on my list of must-haves...",
       "url": "https://www.androidpolice.com/forget-phone-link-this-ad-free-open-source-app-beats-it-in-every-category/",
       "publishedAt": "2026-08-16T20:00:15Z",
-      "processed_at": "2026-08-17T23:23:16.133160+00:00"
+      "processed_at": "2026-08-18T01:16:29.838724+00:00"
     },
     {
       "title": "Pyrex Collectors Are Always Looking For This Rare Mod Pattern - Tasting Table",
@@ -40,7 +70,7 @@
       "description": "Vintage Pyrex dishes are well-known to collectors who look for the fun colors and patterns, but the ...",
       "url": "https://www.tastingtable.com/2234550/rare-mod-kitchen-pyrex-collectors-always-looking/",
       "publishedAt": "2026-08-16T19:40:00Z",
-      "processed_at": "2026-08-17T23:23:16.133160+00:00"
+      "processed_at": "2026-08-18T01:16:29.838724+00:00"
     },
     {
       "title": "Insomniac Staff Pins Overnight Wolverine Hate On Twitter - Kotaku",
@@ -50,40 +80,10 @@
       "description": "The studio’s marketing director blows off some steam on the sudden surge of scrutiny, believing this...",
       "url": "https://kotaku.com/insomniac-staff-blame-social-media-feedback-loops-for-overnight-wolverine-hate-2000724780",
       "publishedAt": "2026-08-16T19:11:50Z",
-      "processed_at": "2026-08-17T23:23:16.133160+00:00"
-    },
-    {
-      "title": "iCloud Private Relay leaks can expose your real IP - Fox News",
-      "source": {
-        "name": "Fox News"
-      },
-      "description": "iCloud Private Relay can be bypassed by three WebKit features, potentially exposing your real IP add...",
-      "url": "https://www.foxnews.com/tech/icloud-private-relay-leaks-expose-real-ip",
-      "publishedAt": "2026-08-16T18:15:50Z",
-      "processed_at": "2026-08-17T23:23:16.133160+00:00"
-    },
-    {
-      "title": "The 10 Biggest GPU Flops In History - bgr.com",
-      "source": {
-        "name": "BGR"
-      },
-      "description": "The GPU race is as competitive as ever. With AI pushing demand past the red line, we look back on so...",
-      "url": "https://www.bgr.com/2235556/biggest-gpu-flops-ever/",
-      "publishedAt": "2026-08-16T18:02:00Z",
-      "processed_at": "2026-08-17T23:23:16.133160+00:00"
-    },
-    {
-      "title": "Velocity Micro Raptor Z55i (2026) Review: A Low-Key Little Gaming Leviathan - PCMag",
-      "source": {
-        "name": "PCMag.com"
-      },
-      "description": "Don’t let Velocity Micro's sensible, workstation-style chassis fool you—the Raptor Z55i delivers raw...",
-      "url": "https://www.pcmag.com/reviews/velocity-micro-raptor-z55i-2026",
-      "publishedAt": "2026-08-16T18:00:53Z",
-      "processed_at": "2026-08-17T23:23:16.133160+00:00"
+      "processed_at": "2026-08-18T01:16:29.838724+00:00"
     }
   ],
-  "lastUpdated": "2026-08-17T23:23:16.133223+00:00",
+  "lastUpdated": "2026-08-18T01:16:29.838774+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
