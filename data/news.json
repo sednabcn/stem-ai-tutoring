@@ -1,109 +1,99 @@
 {
   "status": "success",
-  "totalResults": 10,
+  "totalResults": 9,
   "articles": [
     {
-      "title": "Apple’s camera-equipped AirPods appear in leaked video - The Verge",
+      "title": "New Apple TV 4K to have upgraded Siri Remote, per leak - 9to5Mac",
       "source": {
-        "name": "The Verge"
+        "name": "9to5Mac"
       },
-      "description": "We may have our first glimpse of Apple’s rumored camera-equipped AirPods, thanks to a demo video pul...",
-      "url": "https://www.theverge.com/tech/981326/apple-airpods-with-cameras-demo-video-leak",
-      "publishedAt": "2026-08-18T09:00:01Z",
-      "processed_at": "2026-08-19T12:54:01.049778+00:00"
+      "description": "A new Apple TV 4K is launching soon, and an Apple code leak uncovered by MacRumors indicates a new S...",
+      "url": "https://9to5mac.com/2026/08/18/new-apple-tv-4k-to-have-upgraded-siri-remote-per-leak/",
+      "publishedAt": "2026-08-18T13:29:00Z",
+      "processed_at": "2026-08-19T13:44:24.613443+00:00"
     },
     {
-      "title": "Rumoured Phantom Blade Zero PS5 Demo Nowhere to Be Seen After State of Play Deep Dive - Push Square",
+      "title": "Don't boycott Grand Theft Auto 6, say workers fired by Rockstar - buy a T-shirt to help fund the legal battle instead - Eurogamer",
       "source": {
-        "name": "Push Square"
+        "name": "Eurogamer.net"
       },
-      "description": "Zero'd...",
-      "url": "https://www.pushsquare.com/news/2026/08/rumoured-phantom-blade-zero-ps5-demo-nowhere-to-be-seen-after-state-of-play-deep-dive",
-      "publishedAt": "2026-08-18T02:57:56Z",
-      "processed_at": "2026-08-19T12:54:01.049778+00:00"
+      "description": "",
+      "url": "https://www.eurogamer.net/rockstar-workers-dont-boycott-grand-theft-auto-6-support-union-costs",
+      "publishedAt": "2026-08-18T13:27:24Z",
+      "processed_at": "2026-08-19T13:44:24.613443+00:00"
     },
     {
-      "title": "5 Anker Gadgets Under $25 Worth Adding To Your Kit - bgr.com",
-      "source": {
-        "name": "BGR"
-      },
-      "description": "Anker USB-C to Ethernet Adapter, USB-A to USB-C Adapter, 5-in-1 USB-C Hub, USB-C Charging Cable, and...",
-      "url": "https://www.bgr.com/2237515/anker-accessories-under-50-dollars-worth-buying/",
-      "publishedAt": "2026-08-18T01:19:39Z",
-      "processed_at": "2026-08-19T12:54:01.049778+00:00"
-    },
-    {
-      "title": "Apple Releases New iOS 27, iPadOS 27, macOS 27, and tvOS 27 Public Betas - MacRumors",
-      "source": {
-        "name": "MacRumors"
-      },
-      "description": "Apple today released the fourth public betas of iOS 27, iPadOS 27, tvOS 27, and macOS Golden Gate, a...",
-      "url": "https://www.macrumors.com/2026/08/17/apple-ios-27-public-beta-4/",
-      "publishedAt": "2026-08-17T22:09:51Z",
-      "processed_at": "2026-08-19T12:54:01.049778+00:00"
-    },
-    {
-      "title": "Microsoft admits Windows 11 context menus are sluggish, announces major improvements - Windows Central",
-      "source": {
-        "name": "Windows Central"
-      },
-      "description": "Windows 11's context menus are being overhauled with more customizability and a new decluttered layo...",
-      "url": "https://www.windowscentral.com/microsoft/windows-11/microsoft-admits-windows-11s-context-menus-are-cluttered-and-sluggish-announces-major-upgrades-to-the-right-click-menu-that-increases-performance-and-customizability",
-      "publishedAt": "2026-08-17T22:06:04Z",
-      "processed_at": "2026-08-19T12:54:01.049778+00:00"
-    },
-    {
-      "title": "The 12 biggest gaming flops of all time - Polygon.com",
-      "source": {
-        "name": "Polygon"
-      },
-      "description": "Games miss sales projections and disappoint consumers all the time, but 12 titles in particular fail...",
-      "url": "https://www.polygon.com/12-biggest-gaming-flops-ever/",
-      "publishedAt": "2026-08-17T22:00:11Z",
-      "processed_at": "2026-08-19T12:54:01.049778+00:00"
-    },
-    {
-      "title": "After A $42.9 Million Sale, The Shelby Cobra Daytona Coupe Is Now The Most Expensive American Car Ever Sold At Auction - Jalopnik",
-      "source": {
-        "name": "Jalopnik"
-      },
-      "description": "This was the only Daytona personally owned by Carroll Shelby, and it shattered the previous mark of ...",
-      "url": "https://www.jalopnik.com/2238732/shelby-cobra-daytona-coupe-most-expensive-american-car-auction-sale-ever/",
-      "publishedAt": "2026-08-17T21:55:00Z",
-      "processed_at": "2026-08-19T12:54:01.049778+00:00"
-    },
-    {
-      "title": "Star Citizen Developer Stream Goes Horribly Off the Rails, Creating Further Distrust Among Players - IGN",
-      "source": {
-        "name": "IGN"
-      },
-      "description": "A recent Star Citizen development stream went horribly wrong and resulted in some fans losing confid...",
-      "url": "https://www.ign.com/articles/star-citizen-developer-stream-goes-horribly-off-the-rails-creating-further-distrust-among-players",
-      "publishedAt": "2026-08-17T21:47:04Z",
-      "processed_at": "2026-08-19T12:54:01.049778+00:00"
-    },
-    {
-      "title": "Halo Studios Reveals Five Main Highlights In Campaign Evolved's Latest Update - Pure Xbox",
+      "title": "These 10 Games Are Coming To Xbox Game Pass (August 18 - September 1) - Pure Xbox",
       "source": {
         "name": "Pure Xbox"
       },
-      "description": "Update: Out now on Xbox!...",
-      "url": "https://www.purexbox.com/news/2026/08/halo-studios-reveals-five-main-highlights-in-campaign-evolveds-latest-update",
-      "publishedAt": "2026-08-17T21:30:00Z",
-      "processed_at": "2026-08-19T12:54:01.049778+00:00"
+      "description": "",
+      "url": "https://www.purexbox.com/news/2026/08/these-10-games-are-coming-to-xbox-game-pass-august-18-september-1",
+      "publishedAt": "2026-08-18T13:08:00Z",
+      "processed_at": "2026-08-19T13:44:24.613443+00:00"
     },
     {
-      "title": "Apple iPhone 18 Pro Release Date: Discounted Day Re-Enters The September Schedule - Forbes",
+      "title": "Microsoft Copilot reveals secret input that allowed it to be hacked - Ars Technica",
       "source": {
-        "name": "Forbes"
+        "name": "Ars Technica"
       },
-      "description": "As a new report asserts a date for the next Apple keynote. Here’s why I think it’s wrong and what’s ...",
-      "url": "https://www.forbes.com/sites/davidphelan/2026/08/17/apple-iphone-18-pro-release-date-discounted-day-re-enters-the-september-schedule/",
-      "publishedAt": "2026-08-17T21:21:47Z",
-      "processed_at": "2026-08-19T12:54:01.049778+00:00"
+      "description": "Secret parameter allowed hackers to steal passwords when a target clicked on a link....",
+      "url": "https://arstechnica.com/security/2026/08/microsoft-copilot-reveals-secret-input-that-allowed-it-to-be-hacked/",
+      "publishedAt": "2026-08-18T13:00:04Z",
+      "processed_at": "2026-08-19T13:44:24.613443+00:00"
+    },
+    {
+      "title": "Aliens: Fireteam Elite 2 reveals a much simpler list of Xbox achievements than its predecessor - TrueAchievements",
+      "source": {
+        "name": "TrueAchievements"
+      },
+      "description": "The Aliens: Fireteam Elite 2 Xbox achievements have been revealed, and the list looks to be far more...",
+      "url": "https://www.trueachievements.com/news/aliens-fireteam-elite-2-xbox-achievements-revealed",
+      "publishedAt": "2026-08-18T11:42:02Z",
+      "processed_at": "2026-08-19T13:44:24.613443+00:00"
+    },
+    {
+      "title": "Fairphone Is Finally Selling Its Repairable Phone in the US - WIRED",
+      "source": {
+        "name": "Wired"
+      },
+      "description": "More than a decade after launching in Europe, the Netherlands company is now selling its repairable ...",
+      "url": "https://www.wired.com/story/you-can-finally-buy-a-fairphone-a-sustainable-repairable-smartphone-in-the-us/",
+      "publishedAt": "2026-08-18T10:30:00Z",
+      "processed_at": "2026-08-19T13:44:24.613443+00:00"
+    },
+    {
+      "title": "Be warned: Fallout 4's next update may break your mods - and there's a similar one for Skyrim in the works, too - Eurogamer",
+      "source": {
+        "name": "Eurogamer.net"
+      },
+      "description": "Fallout 4 players on PC are bracing for a period of pain as Bethesda announces a new patch for the g...",
+      "url": "https://www.eurogamer.net/fallout-4-creations-update-mods-breaking",
+      "publishedAt": "2026-08-18T10:12:06Z",
+      "processed_at": "2026-08-19T13:44:24.613443+00:00"
+    },
+    {
+      "title": "'We cannot survive in this landscape' — Sony CEO confirms the PS6 has no fixed launch date and it needs to 'take some action' as the RAM shortage continues - Yahoo Tech",
+      "source": {
+        "name": "TechRadar"
+      },
+      "description": "Sony CEO Hiroko Totoki has confirmed that the PlayStation 6 release date remains undecided due to th...",
+      "url": "https://www.techradar.com/gaming/sony-ceo-confirms-the-ps6-launch-date-is-still-undecided-due-to-the-ongoing-component-shortage-considering-that-importance-we-need-to-take-some-action-otherwise-we-cannot-survive-in-this-landscape",
+      "publishedAt": "2026-08-18T09:58:46Z",
+      "processed_at": "2026-08-19T13:44:24.613443+00:00"
+    },
+    {
+      "title": "Over 170,000 Nonprofits Lost All Their Data. Is Microsoft to Blame? - Slate Magazine",
+      "source": {
+        "name": "Slate Magazine"
+      },
+      "description": "When the tech giant retired a popular software grant, years of nonprofit data vanished with it....",
+      "url": "https://slate.com/technology/2026/08/microsoft-software-nonprofit-data-delete.html",
+      "publishedAt": "2026-08-18T09:40:00Z",
+      "processed_at": "2026-08-19T13:44:24.613443+00:00"
     }
   ],
-  "lastUpdated": "2026-08-19T12:54:01.049851+00:00",
+  "lastUpdated": "2026-08-19T13:44:24.613522+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
