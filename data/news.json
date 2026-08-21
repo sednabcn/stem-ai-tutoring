@@ -1,16 +1,66 @@
 {
   "status": "success",
-  "totalResults": 9,
+  "totalResults": 10,
   "articles": [
     {
-      "title": "GTA 6 leaker claims to have \"full access\" to the game, as Rockstar struggles to contain even more gameplay videos - Eurogamer",
+      "title": "Nintendo Download: 20th August (North America) - Nintendo Life",
       "source": {
-        "name": "Eurogamer.net"
+        "name": "Nintendo Life"
       },
-      "description": "Rockstar's efforts to stop the GTA 6 gameplay video leaker are proving futile so far. More footage e...",
-      "url": "https://www.eurogamer.net/rockstar-gta-6-leaker-full-access-gameplay-leaks-continue",
-      "publishedAt": "2026-08-20T11:27:51Z",
-      "processed_at": "2026-08-21T12:49:22.438087+00:00"
+      "description": "Elden Ring! Metal Gear! 1000xResist!...",
+      "url": "https://www.nintendolife.com/news/2026/08/nintendo-download-20th-august-north-america",
+      "publishedAt": "2026-08-20T13:30:00Z",
+      "processed_at": "2026-08-21T13:45:46.459030+00:00"
+    },
+    {
+      "title": "‘GTA VI’ Leaker Shows They May Have An Actual Game Build - Forbes",
+      "source": {
+        "name": "Forbes"
+      },
+      "description": "Things have taken a turn in the great 'Grand Theft Auto VI' leak saga, where an individual known as ...",
+      "url": "https://www.forbes.com/sites/paultassi/2026/08/20/gta-vi-leaker-shows-they-may-have-an-actual-game-build/",
+      "publishedAt": "2026-08-20T13:17:14Z",
+      "processed_at": "2026-08-21T13:45:46.459030+00:00"
+    },
+    {
+      "title": "Nobody’s Buying New Physical Games On Xbox In The U.S. - Kotaku",
+      "source": {
+        "name": "Kotaku"
+      },
+      "description": "Nintendo runs away with it...",
+      "url": "https://kotaku.com/nobodys-buying-new-physical-games-on-xbox-in-the-u-s-2000725930",
+      "publishedAt": "2026-08-20T13:00:44Z",
+      "processed_at": "2026-08-21T13:45:46.459030+00:00"
+    },
+    {
+      "title": "I bought DJI’s banned camera — it was cheap and easy - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "The DJI Osmo Pocket 4 and Pocket 4P are banned in the United States, but that isn’t stopping smuggle...",
+      "url": "https://www.theverge.com/tech/981669/dji-osmo-pocket-4-pro-us-ban-black-market",
+      "publishedAt": "2026-08-20T13:00:00Z",
+      "processed_at": "2026-08-21T13:45:46.459030+00:00"
+    },
+    {
+      "title": "The Google Pixel 11 series is now on sale - GSMArena.com news - GSMArena.com",
+      "source": {
+        "name": "GSMArena.com"
+      },
+      "description": "After a week of pre-orders, the new Pixel 11 models are available in several countries (the same cou...",
+      "url": "https://www.gsmarena.com/the_google_pixel_11_series_is_now_on_sale-news-74266.php",
+      "publishedAt": "2026-08-20T12:47:02Z",
+      "processed_at": "2026-08-21T13:45:46.459030+00:00"
+    },
+    {
+      "title": "Meta AI’s new Mac app wants you to talk to your apps - TechCrunch",
+      "source": {
+        "name": "TechCrunch"
+      },
+      "description": "Meta said its Muse Spark model is powering the dictation feature....",
+      "url": "https://techcrunch.com/2026/08/20/meta-ais-new-mac-app-wants-you-to-talk-to-your-apps/",
+      "publishedAt": "2026-08-20T12:11:57Z",
+      "processed_at": "2026-08-21T13:45:46.459030+00:00"
     },
     {
       "title": "Nintendo Details Switch 2 Price Increase For The UK - Nintendo Life",
@@ -20,7 +70,7 @@
       "description": "Brace yourselves...",
       "url": "https://www.nintendolife.com/news/2026/08/nintendo-details-switch-2-price-increase-for-the-uk",
       "publishedAt": "2026-08-20T11:15:00Z",
-      "processed_at": "2026-08-21T12:49:22.438087+00:00"
+      "processed_at": "2026-08-21T13:45:46.459030+00:00"
     },
     {
       "title": "Gran Turismo 7 Update 1.71 Arrives With Major Physics Changes & Fanatec FullForce Support - GTPlanet",
@@ -30,7 +80,17 @@
       "description": "Almost two weeks after first being teased, the fifth update this calendar year for Gran Turismo 7 is...",
       "url": "https://www.gtplanet.net/gran-turismo-7-update-1-71-arrives-with-major-physics-changes-fanatec-fullforce-support-20260820/",
       "publishedAt": "2026-08-20T11:12:14Z",
-      "processed_at": "2026-08-21T12:49:22.438087+00:00"
+      "processed_at": "2026-08-21T13:45:46.459030+00:00"
+    },
+    {
+      "title": "Best Buy’s 60th Anniversary Sale Has Some Great TCG Deals - IGN",
+      "source": {
+        "name": "IGN"
+      },
+      "description": "Save on Pokémon, MTG, and Disney Lorcana in Best Buy’s 60th Anniversary Sale, plus compare prices ag...",
+      "url": "https://www.ign.com/articles/best-buy-60th-anniversary-sale-tcg-deals",
+      "publishedAt": "2026-08-20T10:34:52Z",
+      "processed_at": "2026-08-21T13:45:46.459030+00:00"
     },
     {
       "title": "Is Mega Starmie any good for Pokémon GO Raids? - Pokémon GO Hub",
@@ -40,60 +100,10 @@
       "description": "We got a slew of new Mega Evolutions in Pokémon Legends: Z-A and its DLC, but none of them has been ...",
       "url": "https://pokemongohub.net/post/meta/is-mega-starmie-any-good-for-pokemon-go-raids/",
       "publishedAt": "2026-08-20T10:05:43Z",
-      "processed_at": "2026-08-21T12:49:22.438087+00:00"
-    },
-    {
-      "title": "LG’s new OLED breakthrough can boost display lifespans - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "LG Display’s new FLiPP OLED panels are brighter, longer-lasting, more efficient, and theoretically c...",
-      "url": "https://www.theverge.com/tech/982609/lg-oled-panel-flipp-display-technology",
-      "publishedAt": "2026-08-20T09:11:26Z",
-      "processed_at": "2026-08-21T12:49:22.438087+00:00"
-    },
-    {
-      "title": "A new 15-minute trailer of Black Myth: Zhong Kui shows the game’s combat in action - Video Games Chronicle",
-      "source": {
-        "name": "Video Games Chronicle"
-      },
-      "description": "The work in progress video highlights the game's visual fidelity at this stage...",
-      "url": "https://www.videogameschronicle.com/news/a-new-15-minute-trailer-of-black-myth-zhong-kui-shows-the-games-combat-in-action/",
-      "publishedAt": "2026-08-20T08:30:49Z",
-      "processed_at": "2026-08-21T12:49:22.438087+00:00"
-    },
-    {
-      "title": "Pokémon Pokopia Expansion Pass Getting Packaged Download Release - Nintendo Life",
-      "source": {
-        "name": "Nintendo Life"
-      },
-      "description": "Launching in Korea this September...",
-      "url": "https://www.nintendolife.com/news/2026/08/pokemon-pokopia-expansion-pass-getting-packaged-download-release",
-      "publishedAt": "2026-08-20T04:30:00Z",
-      "processed_at": "2026-08-21T12:49:22.438087+00:00"
-    },
-    {
-      "title": "Pixel 11 series quietly and exclusively adds one of the most useful new haptic features - Android Authority",
-      "source": {
-        "name": "Android Authority"
-      },
-      "description": "The Pixel 11 series debuts custom vibration features we first uncovered in APK teardowns, letting us...",
-      "url": "https://www.androidauthority.com/google-pixel-11-custom-vibration-3700805/",
-      "publishedAt": "2026-08-20T04:17:00Z",
-      "processed_at": "2026-08-21T12:49:22.438087+00:00"
-    },
-    {
-      "title": "Samsung confirms August 27 event for the ‘newest addition to the Galaxy S26 family’ - 9to5Google",
-      "source": {
-        "name": "9to5google.com"
-      },
-      "description": "Samsung is teasing a new entrant to the Galaxy S26 series coming at an event on August 27, but it’s....",
-      "url": "http://9to5google.com/2026/08/19/samsung-august-event-galaxy-s26-family/",
-      "publishedAt": "2026-08-20T02:45:00Z",
-      "processed_at": "2026-08-21T12:49:22.438087+00:00"
+      "processed_at": "2026-08-21T13:45:46.459030+00:00"
     }
   ],
-  "lastUpdated": "2026-08-21T12:49:22.438160+00:00",
+  "lastUpdated": "2026-08-21T13:45:46.459107+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
