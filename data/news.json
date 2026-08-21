@@ -3,6 +3,16 @@
   "totalResults": 10,
   "articles": [
     {
+      "title": "Samsung confirms August 27 event for the ‘newest addition to the Galaxy S26 family’ - 9to5Google",
+      "source": {
+        "name": "9to5google.com"
+      },
+      "description": "Samsung is teasing a new entrant to the Galaxy S26 series coming at an event on August 27, but it’s....",
+      "url": "http://9to5google.com/2026/08/19/samsung-august-event-galaxy-s26-family/",
+      "publishedAt": "2026-08-20T02:45:00Z",
+      "processed_at": "2026-08-21T07:42:32.778928+00:00"
+    },
+    {
       "title": "Trails in the Sky 2nd Chapter demo now available, Season Pass and Digital Deluxe Edition announced - RPG Site",
       "source": {
         "name": "RPG Site"
@@ -10,7 +20,7 @@
       "description": "GungHo has launched a free Trails in the Sky 2nd Chapter demo on PS5, Steam, and Switch 1 with save ...",
       "url": "https://www.rpgsite.net/news/21138-trails-in-the-sky-2nd-chapter-demo-download-save-transfer-ps5-switch-2-pc-steam",
       "publishedAt": "2026-08-20T02:06:15Z",
-      "processed_at": "2026-08-21T06:48:58.393944+00:00"
+      "processed_at": "2026-08-21T07:42:32.778928+00:00"
     },
     {
       "title": "Apple’s Camera-Equipped AI AirPods Remain on Track for 2027 Despite Video Leak - Bloomberg.com",
@@ -20,7 +30,7 @@
       "description": "An Apple Inc. effort to sell camera-equipped AirPods remains on track for 2027, despite a leak from ...",
       "url": "https://www.bloomberg.com/news/articles/2026-08-19/apple-s-camera-equipped-ai-airpods-remain-on-track-for-2027-despite-video-leak",
       "publishedAt": "2026-08-19T23:05:35Z",
-      "processed_at": "2026-08-21T06:48:58.393944+00:00"
+      "processed_at": "2026-08-21T07:42:32.778928+00:00"
     },
     {
       "title": "Google built a camera-based tool to estimate body fat more accurately than wearables - Android Authority",
@@ -30,7 +40,7 @@
       "description": "Google explains how its new photo-based tool can do a body composition analysis more accurately than...",
       "url": "https://www.androidauthority.com/google-research-photoscan-body-composition-3700687/",
       "publishedAt": "2026-08-19T20:30:00Z",
-      "processed_at": "2026-08-21T06:48:58.393944+00:00"
+      "processed_at": "2026-08-21T07:42:32.778928+00:00"
     },
     {
       "title": "Framework responds to complaints that BIOS update bricks Ryzen 7040 laptops - Ars Technica",
@@ -40,17 +50,27 @@
       "description": "Framework says it's replacing some out-of-warranty AMD mainboards....",
       "url": "https://arstechnica.com/gadgets/2026/08/framework-responds-to-complaints-that-bios-update-bricked-ryzen-7040-laptops/",
       "publishedAt": "2026-08-19T20:21:59Z",
-      "processed_at": "2026-08-21T06:48:58.393944+00:00"
+      "processed_at": "2026-08-21T07:42:32.778928+00:00"
     },
     {
-      "title": "Want A Modern Warfare 4 Beta Code? Just Talk Trash - GameSpot",
+      "title": "Witcher 3 Cut A Feature Because NPCs Kept Dropping Babies - Kotaku",
       "source": {
-        "name": "GameSpot"
+        "name": "Kotaku"
       },
-      "description": "Talk s***, get hit (with a free code)?...",
-      "url": "https://www.gamespot.com/articles/want-a-modern-warfare-4-beta-code-just-talk-trash/",
-      "publishedAt": "2026-08-19T19:55:41Z",
-      "processed_at": "2026-08-21T06:48:58.393944+00:00"
+      "description": "A commitment to realism had some unintended consequences...",
+      "url": "https://kotaku.com/witcher-3-dev-explains-how-ultra-realistic-npcs-created-weird-problems-women-were-just-dropping-their-babies-left-and-right-2000725923",
+      "publishedAt": "2026-08-19T20:13:01Z",
+      "processed_at": "2026-08-21T07:42:32.778928+00:00"
+    },
+    {
+      "title": "iPhone 18 Pro: Three new design updates are coming - 9to5Mac",
+      "source": {
+        "name": "9to5Mac"
+      },
+      "description": "iPhone 18 Pro and Pro Max will reportedly bring three new design changes for users. Here’s what rumo...",
+      "url": "https://9to5mac.com/2026/08/19/iphone-18-pro-three-new-design-updates-are-coming-this-year/",
+      "publishedAt": "2026-08-19T20:03:00Z",
+      "processed_at": "2026-08-21T07:42:32.778928+00:00"
     },
     {
       "title": "LG Display unveils FLiPP OLED technology with up to 1.6x higher brightness and 2.4x longer lifespan - VideoCardz.com",
@@ -60,7 +80,7 @@
       "description": "LG Display says FLiPP improves OLED aperture ratio by 55%. The process supports panels from 1 to 100...",
       "url": "https://videocardz.com/newz/lg-display-unveils-flipp-oled-technology-with-up-to-1-6x-higher-brightness-and-2-4x-longer-lifespan",
       "publishedAt": "2026-08-19T19:09:49Z",
-      "processed_at": "2026-08-21T06:48:58.393944+00:00"
+      "processed_at": "2026-08-21T07:42:32.778928+00:00"
     },
     {
       "title": "Cloudflare Workers Spectre Attack Leaks JWT From Co-Located Worker at 12 Bits/Second - The Hacker News",
@@ -70,40 +90,20 @@
       "description": "Researchers leak a JWT from a co-located Cloudflare Worker via Spectre at up to 12 bits per second; ...",
       "url": "https://thehackernews.com/2026/08/cloudflare-workers-spectre-attack-leaks.html",
       "publishedAt": "2026-08-19T19:02:00Z",
-      "processed_at": "2026-08-21T06:48:58.393944+00:00"
+      "processed_at": "2026-08-21T07:42:32.778928+00:00"
     },
     {
-      "title": "Gemini Live adds Deep Research as Notebooks come to AI Mode - 9to5Google",
+      "title": "Google packs Search and Gemini with new AI study tools - TechCrunch",
       "source": {
-        "name": "9to5google.com"
+        "name": "TechCrunch"
       },
-      "description": "With the back-to-school season underway, Google is introducing new study tools across the Gemini app...",
-      "url": "http://9to5google.com/2026/08/19/gemini-app-ai-mode-study-tools/",
+      "description": "The launch of the new study features marks Google's latest effort to make Gemini the AI assistant th...",
+      "url": "https://techcrunch.com/2026/08/19/google-launches-new-study-tools-for-students-across-search-and-gemini/",
       "publishedAt": "2026-08-19T19:00:00Z",
-      "processed_at": "2026-08-21T06:48:58.393944+00:00"
-    },
-    {
-      "title": "Mattel Brick Shop Announces 1:1-Scale, 3,509-Piece Original Xbox, Complete With Scenes from 3 Games - IGN",
-      "source": {
-        "name": "IGN"
-      },
-      "description": "In celebration of the Xbox's 25th anniversary, Mattel has announced a 3,509-piece, 1:1-scale buildab...",
-      "url": "https://www.ign.com/articles/relive-the-original-xbox-by-building-your-own-11-scale-3509-piece-mattel-brick-shop-version",
-      "publishedAt": "2026-08-19T17:58:58Z",
-      "processed_at": "2026-08-21T06:48:58.393944+00:00"
-    },
-    {
-      "title": "Following accusations, James Pond Legacy devs say no generative AI was used in creating artwork - gonintendo.com",
-      "source": {
-        "name": "GoNintendo"
-      },
-      "description": "Out of their depth...",
-      "url": "https://gonintendo.com/contents/63928-following-accusations-james-pond-legacy-devs-say-no-generative-ai-was-used-in",
-      "publishedAt": "2026-08-19T17:50:55Z",
-      "processed_at": "2026-08-21T06:48:58.393944+00:00"
+      "processed_at": "2026-08-21T07:42:32.778928+00:00"
     }
   ],
-  "lastUpdated": "2026-08-21T06:48:58.394017+00:00",
+  "lastUpdated": "2026-08-21T07:42:32.779001+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
