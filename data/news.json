@@ -1,26 +1,66 @@
 {
   "status": "success",
-  "totalResults": 10,
+  "totalResults": 9,
   "articles": [
     {
-      "title": "\"Who Are They Kidding?\" - System 3 Insists No GenAI Was Used In James Pond Legacy, But Fans Aren't Convinced - Time Extension",
+      "title": "GTA 6 leaker claims to have \"full access\" to the game, as Rockstar struggles to contain even more gameplay videos - Eurogamer",
       "source": {
-        "name": "Timeextension.com"
+        "name": "Eurogamer.net"
       },
-      "description": "Update: System 3 denies GenAI usage...",
-      "url": "https://www.timeextension.com/news/2026/08/who-are-they-kidding-system-3-insists-no-genai-was-used-in-james-pond-legacy-but-fans-arent-convinced",
-      "publishedAt": "2026-08-20T07:00:00Z",
-      "processed_at": "2026-08-21T10:31:01.520903+00:00"
+      "description": "Rockstar's efforts to stop the GTA 6 gameplay video leaker are proving futile so far. More footage e...",
+      "url": "https://www.eurogamer.net/rockstar-gta-6-leaker-full-access-gameplay-leaks-continue",
+      "publishedAt": "2026-08-20T11:27:51Z",
+      "processed_at": "2026-08-21T11:26:36.408599+00:00"
     },
     {
-      "title": "LG Display Introduces FLiPP OLED Technology, Improving Brightness By Up To 1.6X With Longer Lifespan - Wccftech",
+      "title": "Nintendo Details Switch 2 Price Increase For The UK - Nintendo Life",
       "source": {
-        "name": "Wccftech"
+        "name": "Nintendo Life"
       },
-      "description": "LG's FLiPP OLED technology offers 1.6x brightness, 2.4x lifespan, and 13% lower power consumption co...",
-      "url": "https://wccftech.com/lg-display-introduces-flipp-oled-technology/",
-      "publishedAt": "2026-08-20T06:44:19Z",
-      "processed_at": "2026-08-21T10:31:01.520903+00:00"
+      "description": "Brace yourselves...",
+      "url": "https://www.nintendolife.com/news/2026/08/nintendo-details-switch-2-price-increase-for-the-uk",
+      "publishedAt": "2026-08-20T11:15:00Z",
+      "processed_at": "2026-08-21T11:26:36.408599+00:00"
+    },
+    {
+      "title": "Gran Turismo 7 Update 1.71 Arrives With Major Physics Changes & Fanatec FullForce Support - GTPlanet",
+      "source": {
+        "name": "GTPlanet"
+      },
+      "description": "Almost two weeks after first being teased, the fifth update this calendar year for Gran Turismo 7 is...",
+      "url": "https://www.gtplanet.net/gran-turismo-7-update-1-71-arrives-with-major-physics-changes-fanatec-fullforce-support-20260820/",
+      "publishedAt": "2026-08-20T11:12:14Z",
+      "processed_at": "2026-08-21T11:26:36.408599+00:00"
+    },
+    {
+      "title": "Is Mega Starmie any good for Pokémon GO Raids? - Pokémon GO Hub",
+      "source": {
+        "name": "Pokemon GO Hub"
+      },
+      "description": "We got a slew of new Mega Evolutions in Pokémon Legends: Z-A and its DLC, but none of them has been ...",
+      "url": "https://pokemongohub.net/post/meta/is-mega-starmie-any-good-for-pokemon-go-raids/",
+      "publishedAt": "2026-08-20T10:05:43Z",
+      "processed_at": "2026-08-21T11:26:36.408599+00:00"
+    },
+    {
+      "title": "LG’s new OLED breakthrough can boost display lifespans - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "LG Display’s new FLiPP OLED panels are brighter, longer-lasting, more efficient, and theoretically c...",
+      "url": "https://www.theverge.com/tech/982609/lg-oled-panel-flipp-display-technology",
+      "publishedAt": "2026-08-20T09:11:26Z",
+      "processed_at": "2026-08-21T11:26:36.408599+00:00"
+    },
+    {
+      "title": "A new 15-minute trailer of Black Myth: Zhong Kui shows the game’s combat in action - Video Games Chronicle",
+      "source": {
+        "name": "Video Games Chronicle"
+      },
+      "description": "The work in progress video highlights the game's visual fidelity at this stage...",
+      "url": "https://www.videogameschronicle.com/news/a-new-15-minute-trailer-of-black-myth-zhong-kui-shows-the-games-combat-in-action/",
+      "publishedAt": "2026-08-20T08:30:49Z",
+      "processed_at": "2026-08-21T11:26:36.408599+00:00"
     },
     {
       "title": "Pokémon Pokopia Expansion Pass Getting Packaged Download Release - Nintendo Life",
@@ -30,7 +70,17 @@
       "description": "Launching in Korea this September...",
       "url": "https://www.nintendolife.com/news/2026/08/pokemon-pokopia-expansion-pass-getting-packaged-download-release",
       "publishedAt": "2026-08-20T04:30:00Z",
-      "processed_at": "2026-08-21T10:31:01.520903+00:00"
+      "processed_at": "2026-08-21T11:26:36.408599+00:00"
+    },
+    {
+      "title": "Pixel 11 series quietly and exclusively adds one of the most useful new haptic features - Android Authority",
+      "source": {
+        "name": "Android Authority"
+      },
+      "description": "The Pixel 11 series debuts custom vibration features we first uncovered in APK teardowns, letting us...",
+      "url": "https://www.androidauthority.com/google-pixel-11-custom-vibration-3700805/",
+      "publishedAt": "2026-08-20T04:17:00Z",
+      "processed_at": "2026-08-21T11:26:36.408599+00:00"
     },
     {
       "title": "Samsung confirms August 27 event for the ‘newest addition to the Galaxy S26 family’ - 9to5Google",
@@ -40,70 +90,10 @@
       "description": "Samsung is teasing a new entrant to the Galaxy S26 series coming at an event on August 27, but it’s....",
       "url": "http://9to5google.com/2026/08/19/samsung-august-event-galaxy-s26-family/",
       "publishedAt": "2026-08-20T02:45:00Z",
-      "processed_at": "2026-08-21T10:31:01.520903+00:00"
-    },
-    {
-      "title": "Black Myth: Zhong Kui 15-minute ‘Gameplay’ trailer - Gematsu",
-      "source": {
-        "name": "Gematsu"
-      },
-      "description": "Game Science has released a 15-minute early gameplay trailer for Black Myth: Wukong successor Black ...",
-      "url": "https://www.gematsu.com/2026/08/black-myth-zhong-kui-15-minute-gameplay-trailer",
-      "publishedAt": "2026-08-20T02:05:19Z",
-      "processed_at": "2026-08-21T10:31:01.520903+00:00"
-    },
-    {
-      "title": "OpenAI confirms ChatGPT is down as logins and signups fail - BleepingComputer",
-      "source": {
-        "name": "BleepingComputer"
-      },
-      "description": "ChatGPT is experiencing a major outage, and users are unable to sign in, create accounts, or load ch...",
-      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-is-down-as-logins-and-signups-fail/",
-      "publishedAt": "2026-08-20T00:20:55Z",
-      "processed_at": "2026-08-21T10:31:01.520903+00:00"
-    },
-    {
-      "title": "Apple’s Camera-Equipped AI AirPods Remain on Track for 2027 Despite Video Leak - Bloomberg.com",
-      "source": {
-        "name": "Bloomberg"
-      },
-      "description": "An Apple Inc. effort to sell camera-equipped AirPods remains on track for 2027, despite a leak from ...",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-19/apple-s-camera-equipped-ai-airpods-remain-on-track-for-2027-despite-video-leak",
-      "publishedAt": "2026-08-19T23:05:35Z",
-      "processed_at": "2026-08-21T10:31:01.520903+00:00"
-    },
-    {
-      "title": "Google built a camera-based tool to estimate body fat more accurately than wearables - Android Authority",
-      "source": {
-        "name": "Android Authority"
-      },
-      "description": "Google explains how its new photo-based tool can do a body composition analysis more accurately than...",
-      "url": "https://www.androidauthority.com/google-research-photoscan-body-composition-3700687/",
-      "publishedAt": "2026-08-19T20:30:00Z",
-      "processed_at": "2026-08-21T10:31:01.520903+00:00"
-    },
-    {
-      "title": "iPhone 18 Pro: Three new design updates are coming - 9to5Mac",
-      "source": {
-        "name": "9to5Mac"
-      },
-      "description": "iPhone 18 Pro and Pro Max will reportedly bring three new design changes for users. Here’s what rumo...",
-      "url": "https://9to5mac.com/2026/08/19/iphone-18-pro-three-new-design-updates-are-coming-this-year/",
-      "publishedAt": "2026-08-19T20:03:00Z",
-      "processed_at": "2026-08-21T10:31:01.520903+00:00"
-    },
-    {
-      "title": "Cloudflare Workers Spectre Attack Leaks JWT From Co-Located Worker at 12 Bits/Second - The Hacker News",
-      "source": {
-        "name": "Internet"
-      },
-      "description": "Researchers leak a JWT from a co-located Cloudflare Worker via Spectre at up to 12 bits per second; ...",
-      "url": "https://thehackernews.com/2026/08/cloudflare-workers-spectre-attack-leaks.html",
-      "publishedAt": "2026-08-19T19:02:00Z",
-      "processed_at": "2026-08-21T10:31:01.520903+00:00"
+      "processed_at": "2026-08-21T11:26:36.408599+00:00"
     }
   ],
-  "lastUpdated": "2026-08-21T10:31:01.520985+00:00",
+  "lastUpdated": "2026-08-21T11:26:36.408719+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
