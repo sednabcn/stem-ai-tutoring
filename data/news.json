@@ -1,7 +1,27 @@
 {
   "status": "success",
-  "totalResults": 10,
+  "totalResults": 9,
   "articles": [
+    {
+      "title": "We Think We Found ‘Human Printer’ Natalie Harp’s Printer Setup. It’s Bulky - Gizmodo",
+      "source": {
+        "name": "Gizmodo.com"
+      },
+      "description": "A fairly bulky printer, and a totally unnecessary backup battery. Why?...",
+      "url": "https://gizmodo.com/we-think-we-found-human-printer-natalie-harps-printer-setup-its-bulky-2000800705",
+      "publishedAt": "2026-08-20T00:45:25Z",
+      "processed_at": "2026-08-21T01:20:48.884901+00:00"
+    },
+    {
+      "title": "Apple’s Camera-Equipped AI AirPods Remain on Track for 2027 Despite Video Leak - Bloomberg.com",
+      "source": {
+        "name": "Bloomberg"
+      },
+      "description": "An Apple Inc. effort to sell camera-equipped AirPods remains on track for 2027, despite a leak from ...",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-19/apple-s-camera-equipped-ai-airpods-remain-on-track-for-2027-despite-video-leak",
+      "publishedAt": "2026-08-19T23:05:35Z",
+      "processed_at": "2026-08-21T01:20:48.884901+00:00"
+    },
     {
       "title": "Framework responds to complaints that BIOS update bricks Ryzen 7040 laptops - Ars Technica",
       "source": {
@@ -10,7 +30,17 @@
       "description": "Framework says it's replacing some out-of-warranty AMD mainboards....",
       "url": "https://arstechnica.com/gadgets/2026/08/framework-responds-to-complaints-that-bios-update-bricked-ryzen-7040-laptops/",
       "publishedAt": "2026-08-19T20:21:59Z",
-      "processed_at": "2026-08-20T23:25:55.974453+00:00"
+      "processed_at": "2026-08-21T01:20:48.884901+00:00"
+    },
+    {
+      "title": "Want A Modern Warfare 4 Beta Code? Just Talk Trash - GameSpot",
+      "source": {
+        "name": "GameSpot"
+      },
+      "description": "Talk s***, get hit (with a free code)?...",
+      "url": "https://www.gamespot.com/articles/want-a-modern-warfare-4-beta-code-just-talk-trash/",
+      "publishedAt": "2026-08-19T19:55:41Z",
+      "processed_at": "2026-08-21T01:20:48.884901+00:00"
     },
     {
       "title": "Pixel 11 introduces unified ‘Pixel search,’ hides it in the drawer - 9to5Google",
@@ -20,7 +50,27 @@
       "description": "Google is introducing “Pixel search” as a “dedicated search companion designed to help you find pers...",
       "url": "http://9to5google.com/2026/08/19/pixel-11-search/",
       "publishedAt": "2026-08-19T19:15:00Z",
-      "processed_at": "2026-08-20T23:25:55.974453+00:00"
+      "processed_at": "2026-08-21T01:20:48.884901+00:00"
+    },
+    {
+      "title": "LG Display unveils FLiPP OLED technology with up to 1.6x higher brightness and 2.4x longer lifespan - VideoCardz.com",
+      "source": {
+        "name": "Videocardz.com"
+      },
+      "description": "LG Display says FLiPP improves OLED aperture ratio by 55%. The process supports panels from 1 to 100...",
+      "url": "https://videocardz.com/newz/lg-display-unveils-flipp-oled-technology-with-up-to-1-6x-higher-brightness-and-2-4x-longer-lifespan",
+      "publishedAt": "2026-08-19T19:09:49Z",
+      "processed_at": "2026-08-21T01:20:48.884901+00:00"
+    },
+    {
+      "title": "Cloudflare Workers Spectre Attack Leaks JWT From Co-Located Worker at 12 Bits/Second - The Hacker News",
+      "source": {
+        "name": "Internet"
+      },
+      "description": "Researchers leak a JWT from a co-located Cloudflare Worker via Spectre at up to 12 bits per second; ...",
+      "url": "https://thehackernews.com/2026/08/cloudflare-workers-spectre-attack-leaks.html",
+      "publishedAt": "2026-08-19T19:02:00Z",
+      "processed_at": "2026-08-21T01:20:48.884901+00:00"
     },
     {
       "title": "Dire Forecast Predicts Big Drop In Console Sales If PS6 Is $1,000 - Kotaku",
@@ -30,17 +80,7 @@
       "description": "Console gaming could continue to shrink if something doesn't change...",
       "url": "https://kotaku.com/dire-forecast-predicts-39-million-fewer-consoles-sold-if-ps6-and-xbox-helix-are-1000-2000725914",
       "publishedAt": "2026-08-19T18:45:31Z",
-      "processed_at": "2026-08-20T23:25:55.974453+00:00"
-    },
-    {
-      "title": "Watch Valve set up the Steam Frame in its own leaked videos - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "Valve has leaked several videos that demonstrate how to set up the Steam Frame, its upcoming virtual...",
-      "url": "https://www.theverge.com/games/982406/valve-steam-frame-setup-unboxing-leaked-videos",
-      "publishedAt": "2026-08-19T18:16:27Z",
-      "processed_at": "2026-08-20T23:25:55.974453+00:00"
+      "processed_at": "2026-08-21T01:20:48.884901+00:00"
     },
     {
       "title": "Mattel Brick Shop Announces 1:1-Scale, 3,509-Piece Original Xbox, Complete With Scenes from 3 Games - IGN",
@@ -50,60 +90,10 @@
       "description": "In celebration of the Xbox's 25th anniversary, Mattel has announced a 3,509-piece, 1:1-scale buildab...",
       "url": "https://www.ign.com/articles/relive-the-original-xbox-by-building-your-own-11-scale-3509-piece-mattel-brick-shop-version",
       "publishedAt": "2026-08-19T17:58:58Z",
-      "processed_at": "2026-08-20T23:25:55.974453+00:00"
-    },
-    {
-      "title": "Following accusations, James Pond Legacy devs say no generative AI was used in creating artwork - gonintendo.com",
-      "source": {
-        "name": "GoNintendo"
-      },
-      "description": "Out of their depth...",
-      "url": "https://gonintendo.com/contents/63928-following-accusations-james-pond-legacy-devs-say-no-generative-ai-was-used-in",
-      "publishedAt": "2026-08-19T17:50:55Z",
-      "processed_at": "2026-08-20T23:25:55.974453+00:00"
-    },
-    {
-      "title": "Gears of War: E-Day and Gibson Unite for a Custom Guitar Collection - XBOX Wire",
-      "source": {
-        "name": "Xbox.com"
-      },
-      "description": "Gibson Guitars and The Coalition are teaming up with a one-of-a-kind collaboration - two custom guit...",
-      "url": "https://news.xbox.com/en-us/2026/08/19/gears-of-war-eday-gibson-guitars-collection-sweepstakes-xbox/",
-      "publishedAt": "2026-08-19T17:17:25Z",
-      "processed_at": "2026-08-20T23:25:55.974453+00:00"
-    },
-    {
-      "title": "Pixel Weather update brings new icon & ‘Weather Brief’ rename - 9to5Google",
-      "source": {
-        "name": "9to5google.com"
-      },
-      "description": "The Pixel app updates continue today with Weather getting a new icon and some minor interface tweaks...",
-      "url": "http://9to5google.com/2026/08/19/pixel-weather-new-icon/",
-      "publishedAt": "2026-08-19T17:05:00Z",
-      "processed_at": "2026-08-20T23:25:55.974453+00:00"
-    },
-    {
-      "title": "Best Buy removes 32GB RAM worth $600 to \"repair\" customer's 64GB gaming laptop - TechSpot",
-      "source": {
-        "name": "TechSpot"
-      },
-      "description": "Redditor GRINZ_DOCTOR claims to have bought a Lenovo Legion 5 gaming laptop from Best Buy's website ...",
-      "url": "https://www.techspot.com/news/113533-best-buy-removes-32gb-ram-worth-600-repair.html",
-      "publishedAt": "2026-08-19T16:50:00Z",
-      "processed_at": "2026-08-20T23:25:55.974453+00:00"
-    },
-    {
-      "title": "Google rolling out new gradient AI ring for subscribers on Android, web - 9to5Google",
-      "source": {
-        "name": "9to5google.com"
-      },
-      "description": "Google is introducing a blue gradient ring around your Account photo to indicate whether you're subs...",
-      "url": "http://9to5google.com/2026/08/19/google-account-gradient-ring/",
-      "publishedAt": "2026-08-19T16:35:00Z",
-      "processed_at": "2026-08-20T23:25:55.974453+00:00"
+      "processed_at": "2026-08-21T01:20:48.884901+00:00"
     }
   ],
-  "lastUpdated": "2026-08-20T23:25:55.974517+00:00",
+  "lastUpdated": "2026-08-21T01:20:48.885010+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
