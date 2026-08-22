@@ -1,36 +1,86 @@
 {
   "status": "success",
-  "totalResults": 9,
+  "totalResults": 10,
   "articles": [
+    {
+      "title": "The ‘GTA 6’ Leaker Is Leaking Again, Ending Rumors Of Being Caught - Forbes",
+      "source": {
+        "name": "Forbes"
+      },
+      "description": "After 24 hours of silence, implying they may have been caught, the GTA 6 leaker has returned and is ...",
+      "url": "https://www.forbes.com/sites/paultassi/2026/08/21/the-gta-6-leaker-is-leaking-again-ending-rumors-of-being-caught/",
+      "publishedAt": "2026-08-21T13:30:21Z",
+      "processed_at": "2026-08-22T15:21:26.589092+00:00"
+    },
     {
       "title": "Having Duskbloods connectivity issues? FromSoftware says sit closer to your router or use an ethernet cable - Eurogamer",
       "source": {
         "name": "Eurogamer.net"
       },
-      "description": "",
+      "description": "FromSoftware has issued a statement regarding connectivity problems with The Duskbloods network test...",
       "url": "https://www.eurogamer.net/the-duskbloods-network-test-connection-problems-fromsoftware",
       "publishedAt": "2026-08-21T11:03:41Z",
-      "processed_at": "2026-08-22T14:21:48.261774+00:00"
+      "processed_at": "2026-08-22T15:21:26.589092+00:00"
     },
     {
-      "title": "Xbox Series X25 price and release date leaked - Notebookcheck",
+      "title": "Woot Is Practically Giving Away Sonic Games to New Customers Today - IGN",
       "source": {
-        "name": "Notebookcheck.net"
+        "name": "IGN"
       },
-      "description": "The Xbox Series X25 was unveiled during the Xbox Game Showcase back in June, and Microsoft is curren...",
-      "url": "https://www.notebookcheck.net/Xbox-Series-X25-price-and-release-date-leaked.1374745.0.html",
-      "publishedAt": "2026-08-21T09:40:00Z",
-      "processed_at": "2026-08-22T14:21:48.261774+00:00"
+      "description": "Amazon-owned retailer Woot is practically giving away top Sonic titles today—including Sonic x Shado...",
+      "url": "https://www.ign.com/articles/woot-sonic-games-one-dollar-deal",
+      "publishedAt": "2026-08-21T11:01:15Z",
+      "processed_at": "2026-08-22T15:21:26.589092+00:00"
     },
     {
-      "title": "AEW lost an insane amount of money on the Fight Forever video game - Cageside Seats",
+      "title": "Why I permanently retired my Fire Stick after connecting a spare Android phone to my TV - Android Police",
       "source": {
-        "name": "Cageside Seats"
+        "name": "Android Police"
       },
-      "description": "Fight Forever was a “massive loss” for AEW, which explains why Tony Khan isn’t in a rush to make ano...",
-      "url": "https://www.cagesideseats.com/aew/470109/aew-fight-forever-video-game-massive-loss-30-million-dollars-future-sequel-licensing-rumor",
-      "publishedAt": "2026-08-21T03:52:18Z",
-      "processed_at": "2026-08-22T14:21:48.261774+00:00"
+      "description": "My Fire Stick is now redundant...",
+      "url": "https://www.androidpolice.com/permanently-retired-fire-stick-after-connecting-spare-android-phone-to-tv/",
+      "publishedAt": "2026-08-21T11:00:10Z",
+      "processed_at": "2026-08-22T15:21:26.589092+00:00"
+    },
+    {
+      "title": "Xbox Series X25 Price & Release Date Details Are Starting To Leak Out - Pure Xbox",
+      "source": {
+        "name": "Pure Xbox"
+      },
+      "description": "",
+      "url": "https://www.purexbox.com/news/2026/08/xbox-series-x25-price-and-release-date-details-are-starting-to-leak-out",
+      "publishedAt": "2026-08-21T10:30:46Z",
+      "processed_at": "2026-08-22T15:21:26.589092+00:00"
+    },
+    {
+      "title": "Camera AirPods Code Reveals Image Capture Resolution, Status Light, Person Detection, and More - MacRumors",
+      "source": {
+        "name": "MacRumors"
+      },
+      "description": "Apple is working on camera-equipped AirPods, as indicated by various reports and a demo video of the...",
+      "url": "https://www.macrumors.com/2026/08/21/camera-airpods-code-reveals-hardware-details/",
+      "publishedAt": "2026-08-21T09:31:54Z",
+      "processed_at": "2026-08-22T15:21:26.589092+00:00"
+    },
+    {
+      "title": "New ASUS Googlebook leak shows more configurations and pricing details - Android Authority",
+      "source": {
+        "name": "Android Authority"
+      },
+      "description": "The ASUS Googlebook CX9406 has been spotted on a retailer's website with 16GB of RAM, an Intel Core ...",
+      "url": "https://www.androidauthority.com/asus-cx9406-googlebook-leak-16gb-ram-3701366/",
+      "publishedAt": "2026-08-21T07:49:00Z",
+      "processed_at": "2026-08-22T15:21:26.589092+00:00"
+    },
+    {
+      "title": "AEW reportedly took $30 million loss on Fight Forever video game, more details - F4W/WON",
+      "source": {
+        "name": "Figure Four Online"
+      },
+      "description": "Tony Khan has been asked frequently about the future of the AEW Fight Forever video game and whether...",
+      "url": "https://www.f4wonline.com/news/aew/aew-losses-30-million-fight-forever/",
+      "publishedAt": "2026-08-21T02:50:26Z",
+      "processed_at": "2026-08-22T15:21:26.589092+00:00"
     },
     {
       "title": "Google posts Pixel Watch 5 factory images with one unified build - 9to5Google",
@@ -40,60 +90,20 @@
       "description": "Following the Pixel 11 series earlier today, Google has released factory and OTA images for the Pixe...",
       "url": "http://9to5google.com/2026/08/20/pixel-watch-5-images/",
       "publishedAt": "2026-08-21T02:48:00Z",
-      "processed_at": "2026-08-22T14:21:48.261774+00:00"
+      "processed_at": "2026-08-22T15:21:26.589092+00:00"
     },
     {
-      "title": "All Admin Panel Lobby Hack Codes For Free Rewards - IGN",
+      "title": "Genki’s new customizable controller has a big screen and adjustable buttons - The Verge",
       "source": {
-        "name": "IGN"
+        "name": "The Verge"
       },
-      "description": "Fortnite Chapter 7 Season 4 Override is here and, in a first for the battle royale, you can input lo...",
-      "url": "https://www.ign.com/wikis/fortnite/All_Admin_Panel_Lobby_Hack_Codes_For_Free_Rewards",
-      "publishedAt": "2026-08-21T02:26:00Z",
-      "processed_at": "2026-08-22T14:21:48.261774+00:00"
-    },
-    {
-      "title": "Dark Cherry and More: Every iPhone 18 Pro and iPhone Ultra Color Rumor - MacRumors",
-      "source": {
-        "name": "MacRumors"
-      },
-      "description": "We're likely about a month away from when Apple will launch new iPhone models, and color has been a ...",
-      "url": "https://www.macrumors.com/guide/iphone-18-pro-ultra-colors/",
-      "publishedAt": "2026-08-21T00:32:00Z",
-      "processed_at": "2026-08-22T14:21:48.261774+00:00"
-    },
-    {
-      "title": "Wall Street is starting to warm to Apple’s $2,199 foldable gamble - thestreet.com",
-      "source": {
-        "name": "TheStreet"
-      },
-      "description": "",
-      "url": "https://www.thestreet.com/technology/rothschild-bets-on-apple-iphone-ultra-foldable-phone",
-      "publishedAt": "2026-08-21T00:07:00Z",
-      "processed_at": "2026-08-22T14:21:48.261774+00:00"
-    },
-    {
-      "title": "25 Things From The 2000s That Millennials Got To Experience, But Gen Z'ers Will Never Understand - BuzzFeed",
-      "source": {
-        "name": "Buzzfeed"
-      },
-      "description": "\"The early 2000s were a blur between house parties, underground raves, punk shows, days at Disneylan...",
-      "url": "https://www.buzzfeed.com/lizmrichardson/best-2000s-trends-millennials-remember",
-      "publishedAt": "2026-08-20T23:01:02Z",
-      "processed_at": "2026-08-22T14:21:48.261774+00:00"
-    },
-    {
-      "title": "'We Don't Need to Aggressively Sell the Console': Sony CEO Says Timing of Memory Crisis Is 'Lucky' for PS5 - Push Square",
-      "source": {
-        "name": "Push Square"
-      },
-      "description": "\"Monetising users is quite important for us\"...",
-      "url": "https://www.pushsquare.com/news/2026/08/we-dont-need-to-aggressively-sell-the-console-sony-ceo-says-timing-of-memory-crisis-is-lucky-for-ps5",
-      "publishedAt": "2026-08-20T23:00:00Z",
-      "processed_at": "2026-08-22T14:21:48.261774+00:00"
+      "description": "Genki’s Manta controller features a color screen for customizing the controller’s functionality plus...",
+      "url": "https://www.theverge.com/tech/981536/genki-manta-wireless-customizable-controller-tmr-screen",
+      "publishedAt": "2026-08-21T02:00:49Z",
+      "processed_at": "2026-08-22T15:21:26.589092+00:00"
     }
   ],
-  "lastUpdated": "2026-08-22T14:21:48.261876+00:00",
+  "lastUpdated": "2026-08-22T15:21:26.589207+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
