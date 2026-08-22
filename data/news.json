@@ -1,7 +1,57 @@
 {
   "status": "success",
-  "totalResults": 9,
+  "totalResults": 10,
   "articles": [
+    {
+      "title": "Hacker targets ‘Grand Theft Auto VI’ in apparent leak - NBC News",
+      "source": {
+        "name": "NBC News"
+      },
+      "description": "The gaming world has been rattled by what appears to be a major leak of the highly anticipated “Gran...",
+      "url": "https://www.nbcnews.com/tech/tech-news/hacker-targets-grand-theft-auto-vi-apparent-leak-rcna593634",
+      "publishedAt": "2026-08-21T18:09:00Z",
+      "processed_at": "2026-08-22T19:22:39.750554+00:00"
+    },
+    {
+      "title": "First gameplay revealed for Call of Duty: Modern Warfare 4 on Nintendo Switch 2 - Nintendo Everything",
+      "source": {
+        "name": "Nintendoeverything.com"
+      },
+      "description": "Call of Duty: Modern Warfare 4 has received the first ever Nintendo Switch 2 gameplay, plus informat...",
+      "url": "https://nintendoeverything.com/first-gameplay-revealed-for-call-of-duty-modern-warfare-4-on-nintendo-switch-2/",
+      "publishedAt": "2026-08-21T16:23:49Z",
+      "processed_at": "2026-08-22T19:22:39.750554+00:00"
+    },
+    {
+      "title": "Samsung's Absolutely Massive 57\" Dual 4K Gaming Monitor Drops to the Lowest Price I've Ever Seen - IGN",
+      "source": {
+        "name": "IGN"
+      },
+      "description": "Bigger is better....",
+      "url": "https://www.ign.com/articles/samsung-odyssey-g9-gaming-monitor-deal-august-2026",
+      "publishedAt": "2026-08-21T16:22:50Z",
+      "processed_at": "2026-08-22T19:22:39.750554+00:00"
+    },
+    {
+      "title": "Pixel Camera adds 'Launch control' and new 'Quick access' slider controls on Pixel 11 [Gallery] - 9to5Google",
+      "source": {
+        "name": "9to5google.com"
+      },
+      "description": "The Google Pixel camera app is adding new “Quick access” controls on the Pixel 11 series, but it’s a...",
+      "url": "http://9to5google.com/2026/08/21/google-pixel-camera-11-update-launch-mode-quick-access/",
+      "publishedAt": "2026-08-21T16:05:00Z",
+      "processed_at": "2026-08-22T19:22:39.750554+00:00"
+    },
+    {
+      "title": "Dev TFT: SPACE GODS Reviewed - Teamfight Tactics",
+      "source": {
+        "name": "Leagueoflegends.com"
+      },
+      "description": "Reflecting on SPACE GODS (and more) with the team behind and beyond the set!...",
+      "url": "https://teamfighttactics.leagueoflegends.com/en-us/news/dev/dev-tft-space-gods-reviewed/",
+      "publishedAt": "2026-08-21T16:00:00Z",
+      "processed_at": "2026-08-22T19:22:39.750554+00:00"
+    },
     {
       "title": "The Blood of Dawnwalker Won't Have 60FPS Mode on PS5 or Even PS5 Pro - Push Square",
       "source": {
@@ -10,7 +60,37 @@
       "description": "Console footage shared online...",
       "url": "https://www.pushsquare.com/news/2026/08/the-blood-of-dawnwalker-wont-have-60fps-mode-on-ps5-or-even-ps5-pro",
       "publishedAt": "2026-08-21T15:00:00Z",
-      "processed_at": "2026-08-22T18:31:27.935920+00:00"
+      "processed_at": "2026-08-22T19:22:39.750554+00:00"
+    },
+    {
+      "title": "Here’s how iPhone 18 Pro will differentiate itself from prior models - 9to5Mac",
+      "source": {
+        "name": "9to5Mac"
+      },
+      "description": "Here are some key ways Apple plans to differentiate iPhone 18 Pro from prior models, per the latest ...",
+      "url": "https://9to5mac.com/2026/08/21/heres-how-iphone-18-pro-will-differentiate-itself-from-prior-models/",
+      "publishedAt": "2026-08-21T14:58:00Z",
+      "processed_at": "2026-08-22T19:22:39.750554+00:00"
+    },
+    {
+      "title": "GrapheneOS phone from Motorola arrives next year, 'higher end' compared to Pixel with a price to match - 9to5Google",
+      "source": {
+        "name": "9to5google.com"
+      },
+      "description": "The privacy-focused GrapheneOS is making its way to dedicated hardware soon, with a device in the wo...",
+      "url": "http://9to5google.com/2026/08/21/motorola-grapheneos-phone-2027-spec-tease/",
+      "publishedAt": "2026-08-21T14:30:00Z",
+      "processed_at": "2026-08-22T19:22:39.750554+00:00"
+    },
+    {
+      "title": "Metal Gear Solid: Master Collection Vol. 2 Is An Exciting Return To Metal Gear’s Past - GameSpot",
+      "source": {
+        "name": "GameSpot"
+      },
+      "description": "The new compilation of Metal Gear Solid games is a great time capsule of classic Solid Snake adventu...",
+      "url": "https://www.gamespot.com/articles/metal-gear-solid-master-collection-vol-2-is-an-exciting-return-to-metal-gears-past/",
+      "publishedAt": "2026-08-21T14:15:34Z",
+      "processed_at": "2026-08-22T19:22:39.750554+00:00"
     },
     {
       "title": "Pixel Watch 5’s AI watch face generator keeps the same form factor feeling fresh [Gallery] - 9to5Google",
@@ -20,80 +100,10 @@
       "description": "Google's new Pixel Watch 5 series comes with an AI watch face generator, and it's maybe one of my fa...",
       "url": "http://9to5google.com/2026/08/21/google-pixel-watch-5-ai-face-generator-feature/",
       "publishedAt": "2026-08-21T14:15:00Z",
-      "processed_at": "2026-08-22T18:31:27.935920+00:00"
-    },
-    {
-      "title": "The ‘GTA 6’ Leaker Is Leaking Again, Ending Rumors Of Being Caught - Forbes",
-      "source": {
-        "name": "Forbes"
-      },
-      "description": "After 24 hours of silence, implying they may have been caught, the GTA 6 leaker has returned and is ...",
-      "url": "https://www.forbes.com/sites/paultassi/2026/08/21/the-gta-6-leaker-is-leaking-again-ending-rumors-of-being-caught/",
-      "publishedAt": "2026-08-21T13:30:21Z",
-      "processed_at": "2026-08-22T18:31:27.935920+00:00"
-    },
-    {
-      "title": "Apple Reportedly Lays Off 60 Vision Products Group Employees - MacRumors",
-      "source": {
-        "name": "MacRumors"
-      },
-      "description": "Apple \"has just laid off an entire team dedicated to VR development,\" reports AppleInsider, citing i...",
-      "url": "https://www.macrumors.com/2026/08/21/apple-lays-off-vision-products-employees/",
-      "publishedAt": "2026-08-21T11:28:45Z",
-      "processed_at": "2026-08-22T18:31:27.935920+00:00"
-    },
-    {
-      "title": "Having Duskbloods connectivity issues? FromSoftware says sit closer to your router or use an ethernet cable - Eurogamer",
-      "source": {
-        "name": "Eurogamer.net"
-      },
-      "description": "FromSoftware has issued a statement regarding connectivity problems with The Duskbloods network test...",
-      "url": "https://www.eurogamer.net/the-duskbloods-network-test-connection-problems-fromsoftware",
-      "publishedAt": "2026-08-21T11:03:41Z",
-      "processed_at": "2026-08-22T18:31:27.935920+00:00"
-    },
-    {
-      "title": "Woot Is Practically Giving Away Sonic Games to New Customers Today - IGN",
-      "source": {
-        "name": "IGN"
-      },
-      "description": "Amazon-owned retailer Woot is practically giving away top Sonic titles today—including Sonic x Shado...",
-      "url": "https://www.ign.com/articles/woot-sonic-games-one-dollar-deal",
-      "publishedAt": "2026-08-21T11:01:15Z",
-      "processed_at": "2026-08-22T18:31:27.935920+00:00"
-    },
-    {
-      "title": "Why I permanently retired my Fire Stick after connecting a spare Android phone to my TV - Android Police",
-      "source": {
-        "name": "Android Police"
-      },
-      "description": "My Fire Stick is now redundant...",
-      "url": "https://www.androidpolice.com/permanently-retired-fire-stick-after-connecting-spare-android-phone-to-tv/",
-      "publishedAt": "2026-08-21T11:00:10Z",
-      "processed_at": "2026-08-22T18:31:27.935920+00:00"
-    },
-    {
-      "title": "Xbox Series X25 Price & Release Date Details Are Starting To Leak Out - Pure Xbox",
-      "source": {
-        "name": "Pure Xbox"
-      },
-      "description": "We've got the European price and a seemingly confirmed date...",
-      "url": "https://www.purexbox.com/news/2026/08/xbox-series-x25-price-and-release-date-details-are-starting-to-leak-out",
-      "publishedAt": "2026-08-21T10:30:46Z",
-      "processed_at": "2026-08-22T18:31:27.935920+00:00"
-    },
-    {
-      "title": "Camera AirPods Code Reveals Image Capture Resolution, Status Light, Person Detection, and More - MacRumors",
-      "source": {
-        "name": "MacRumors"
-      },
-      "description": "Apple is working on camera-equipped AirPods, as indicated by various reports and a demo video of the...",
-      "url": "https://www.macrumors.com/2026/08/21/camera-airpods-code-reveals-hardware-details/",
-      "publishedAt": "2026-08-21T09:31:54Z",
-      "processed_at": "2026-08-22T18:31:27.935920+00:00"
+      "processed_at": "2026-08-22T19:22:39.750554+00:00"
     }
   ],
-  "lastUpdated": "2026-08-22T18:31:27.935987+00:00",
+  "lastUpdated": "2026-08-22T19:22:39.750638+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
