@@ -3,6 +3,46 @@
   "totalResults": 10,
   "articles": [
     {
+      "title": "Industry analyst says he doesn't see a path back for the Epic Games Store - Eurogamer",
+      "source": {
+        "name": "Eurogamer.net"
+      },
+      "description": "Newzoo's Emmanuel Rosier has weighed in on Epic's planned launcher overhaul, arguing Steam's dominan...",
+      "url": "https://www.eurogamer.net/epic-games-store-recovery-newzoo-analyst-steam-fortnite",
+      "publishedAt": "2026-08-23T16:19:53Z",
+      "processed_at": "2026-08-24T17:31:43.998392+00:00"
+    },
+    {
+      "title": "Report: Apple launching updated iMac with M6 chip and new colors later this year - 9to5Mac",
+      "source": {
+        "name": "9to5Mac"
+      },
+      "description": "After a two year hiatus, Apple is working on a new iMac with the M6 chipset and updated color option...",
+      "url": "https://9to5mac.com/2026/08/23/apple-refreshed-imac-m6-chip-new-colors/",
+      "publishedAt": "2026-08-23T15:20:00Z",
+      "processed_at": "2026-08-24T17:31:43.998392+00:00"
+    },
+    {
+      "title": "6 disabled Google Pixel features that every owner should enable first - Android Police",
+      "source": {
+        "name": "Android Police"
+      },
+      "description": "Google buried some genuinely useful features...",
+      "url": "https://www.androidpolice.com/disabled-pixel-features-that-every-owner-should-enable-first/",
+      "publishedAt": "2026-08-23T15:00:10Z",
+      "processed_at": "2026-08-24T17:31:43.998392+00:00"
+    },
+    {
+      "title": "Should Tesla Introduce UI Themes? - Not a Tesla App",
+      "source": {
+        "name": "Notateslaapp.com"
+      },
+      "description": "Adding a theme selector to the Toybox or Display settings could give Tesla owners a whole new way to...",
+      "url": "https://www.notateslaapp.com/news/4564/should-tesla-introduce-ui-themes",
+      "publishedAt": "2026-08-23T14:51:00Z",
+      "processed_at": "2026-08-24T17:31:43.998392+00:00"
+    },
+    {
       "title": "Apple’s Foldable iPhone Will Help Bring Some Magic Back - Bloomberg.com",
       "source": {
         "name": "Bloomberg"
@@ -10,7 +50,27 @@
       "description": "Also: Get ready for iPhone price hikes....",
       "url": "https://www.bloomberg.com/news/newsletters/2026-08-23/apple-s-foldable-iphone-details-retail-store-changes-for-new-home-products-mt5vjf61",
       "publishedAt": "2026-08-23T14:00:01Z",
-      "processed_at": "2026-08-24T16:37:56.535173+00:00"
+      "processed_at": "2026-08-24T17:31:43.998392+00:00"
+    },
+    {
+      "title": "Amiga-Inspired AROS Goes Bare Metal On Raspberry Pi - Hackaday",
+      "source": {
+        "name": "Hackaday"
+      },
+      "description": "There’s no actual data, but if we had to guess the least-favourite Disney movie of former Amiga owne...",
+      "url": "https://hackaday.com/2026/08/23/amiga-inspired-aros-goes-bare-metal-on-raspberry-pi/",
+      "publishedAt": "2026-08-23T14:00:00Z",
+      "processed_at": "2026-08-24T17:31:43.998392+00:00"
+    },
+    {
+      "title": "This is the only budget ergonomic office chair to get a 10/10 review from Creative Bloq, and it's now reduced by 22% - Creative Bloq",
+      "source": {
+        "name": "Creative Bloq"
+      },
+      "description": "The one cheap office chair we actually wanted to keep is now just $132.53....",
+      "url": "https://www.creativebloq.com/tech/chairs-desks/one-of-the-top-rated-economic-office-chairs-is-reduced-by-22-percent",
+      "publishedAt": "2026-08-23T14:00:00Z",
+      "processed_at": "2026-08-24T17:31:43.998392+00:00"
     },
     {
       "title": "35 Expensive Purchases People Regretted The Second They Bought Them - AOL.com",
@@ -20,7 +80,7 @@
       "description": "Ouch. Right in the wallet....",
       "url": "https://www.buzzfeed.com/daves4/35-people-who-spent-a-tooooooooooooooon-of-money-on?origin=bf-yahoo",
       "publishedAt": "2026-08-23T13:48:38Z",
-      "processed_at": "2026-08-24T16:37:56.535173+00:00"
+      "processed_at": "2026-08-24T17:31:43.998392+00:00"
     },
     {
       "title": "Can't Wait? How to Get Early Access to the Call of Duty: Modern Warfare 4 Beta - PCMag",
@@ -30,7 +90,7 @@
       "description": "Are you ready for the next big Call of Duty release? You don't have to. The early access beta is und...",
       "url": "https://www.pcmag.com/news/cant-wait-how-to-access-call-of-duty-modern-warfare-4-beta-today",
       "publishedAt": "2026-08-23T13:25:34Z",
-      "processed_at": "2026-08-24T16:37:56.535173+00:00"
+      "processed_at": "2026-08-24T17:31:43.998392+00:00"
     },
     {
       "title": "Another Galaxy S27 Ultra surprise drops alongside new images - PhoneArena",
@@ -40,70 +100,10 @@
       "description": "",
       "url": "https://www.phonearena.com/news/two-galaxy-s27-ultra-models_id182777",
       "publishedAt": "2026-08-23T13:24:05Z",
-      "processed_at": "2026-08-24T16:37:56.535173+00:00"
-    },
-    {
-      "title": "I stopped using third-party adblock VPNs after discovering Android's built-in Private DNS toggle - Android Police",
-      "source": {
-        "name": "Android Police"
-      },
-      "description": "Android's built-in ad blocker alternative...",
-      "url": "https://www.androidpolice.com/use-android-built-in-private-dns-settings/",
-      "publishedAt": "2026-08-23T12:30:10Z",
-      "processed_at": "2026-08-24T16:37:56.535173+00:00"
-    },
-    {
-      "title": "FromSoftware boss explains how The Duskbloods will handle its skill gap between players - Eurogamer",
-      "source": {
-        "name": "Eurogamer.net"
-      },
-      "description": "Hidetaka Miyazaki details how The Duskbloods will use ranked matchmaking to separate strong and new ...",
-      "url": "https://www.eurogamer.net/the-duskbloods-skill-based-matchmaking-hidetaka-miyazaki",
-      "publishedAt": "2026-08-23T11:43:40Z",
-      "processed_at": "2026-08-24T16:37:56.535173+00:00"
-    },
-    {
-      "title": "Sony's PlayStation terms of service reminder email couldn't have landed at a worse time - Eurogamer",
-      "source": {
-        "name": "Eurogamer.net"
-      },
-      "description": "PlayStation users receive unsolicited terms-of-service reminder emails stating that their digital ga...",
-      "url": "https://www.eurogamer.net/playstation-terms-of-service-reminder-psblackout-protest",
-      "publishedAt": "2026-08-23T11:14:16Z",
-      "processed_at": "2026-08-24T16:37:56.535173+00:00"
-    },
-    {
-      "title": "Transistors Changed Everything. Here’s How They Work - WIRED",
-      "source": {
-        "name": "Wired"
-      },
-      "description": "How a tiny little electronic switch sparked the computer revolution....",
-      "url": "https://www.wired.com/story/transistors-changed-everything-heres-how-they-work/",
-      "publishedAt": "2026-08-23T11:00:00Z",
-      "processed_at": "2026-08-24T16:37:56.535173+00:00"
-    },
-    {
-      "title": "Arc Raiders is putting Expeditions on hold until 2027 - Eurogamer",
-      "source": {
-        "name": "Eurogamer.net"
-      },
-      "description": "Embark Studios has confirmed the fifth Arc Raiders Expedition</a> will be the last for a while, as i...",
-      "url": "https://www.eurogamer.net/arc-raiders-expedition-5-pause-2027-changes",
-      "publishedAt": "2026-08-23T10:43:11Z",
-      "processed_at": "2026-08-24T16:37:56.535173+00:00"
-    },
-    {
-      "title": "Google Keep's new Gemini voice feature saved me hours of organizing messy grocery lists - Android Police",
-      "source": {
-        "name": "Android Police"
-      },
-      "description": "A different way to use Keep...",
-      "url": "https://www.androidpolice.com/google-keep-gemini-voice-checklist-notes/",
-      "publishedAt": "2026-08-23T10:00:10Z",
-      "processed_at": "2026-08-24T16:37:56.535173+00:00"
+      "processed_at": "2026-08-24T17:31:43.998392+00:00"
     }
   ],
-  "lastUpdated": "2026-08-24T16:37:56.535250+00:00",
+  "lastUpdated": "2026-08-24T17:31:43.998455+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
