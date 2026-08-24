@@ -1,26 +1,56 @@
 {
   "status": "success",
-  "totalResults": 9,
+  "totalResults": 10,
   "articles": [
     {
-      "title": "20 Famous Things Photographed From Angles That Feel Weirdly Illegal To Look At - Yahoo Life UK",
+      "title": "Apple’s Foldable iPhone Will Help Bring Some Magic Back - Bloomberg.com",
       "source": {
-        "name": "Buzzfeed"
+        "name": "Bloomberg"
       },
-      "description": "The wrong sides of history....",
-      "url": "https://www.buzzfeed.com/jamieko/famous-things-unusual-angles-photos?origin=bf-yahoo",
-      "publishedAt": "2026-08-23T12:31:02Z",
-      "processed_at": "2026-08-24T14:42:27.437228+00:00"
+      "description": "Also: Get ready for iPhone price hikes....",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-08-23/apple-s-foldable-iphone-details-retail-store-changes-for-new-home-products-mt5vjf61",
+      "publishedAt": "2026-08-23T14:00:01Z",
+      "processed_at": "2026-08-24T15:39:42.439938+00:00"
     },
     {
-      "title": "35 People Who Spent A Tooooooooooooooon Of Money On Something Expensive And Pretty Much Immediately Regretted It - BuzzFeed",
+      "title": "35 Expensive Purchases People Regretted The Second They Bought Them - AOL.com",
       "source": {
         "name": "Buzzfeed"
       },
       "description": "Ouch. Right in the wallet....",
-      "url": "https://www.buzzfeed.com/daves4/35-people-who-spent-a-tooooooooooooooon-of-money-on",
-      "publishedAt": "2026-08-23T12:16:02Z",
-      "processed_at": "2026-08-24T14:42:27.437228+00:00"
+      "url": "https://www.buzzfeed.com/daves4/35-people-who-spent-a-tooooooooooooooon-of-money-on?origin=bf-yahoo",
+      "publishedAt": "2026-08-23T13:48:38Z",
+      "processed_at": "2026-08-24T15:39:42.439938+00:00"
+    },
+    {
+      "title": "Can't Wait? How to Get Early Access to the Call of Duty: Modern Warfare 4 Beta - PCMag",
+      "source": {
+        "name": "PCMag.com"
+      },
+      "description": "Are you ready for the next big Call of Duty release? You don't have to. The early access beta is und...",
+      "url": "https://www.pcmag.com/news/cant-wait-how-to-access-call-of-duty-modern-warfare-4-beta-today",
+      "publishedAt": "2026-08-23T13:25:34Z",
+      "processed_at": "2026-08-24T15:39:42.439938+00:00"
+    },
+    {
+      "title": "Another Galaxy S27 Ultra surprise drops alongside new images - PhoneArena",
+      "source": {
+        "name": "PhoneArena"
+      },
+      "description": "",
+      "url": "https://www.phonearena.com/news/two-galaxy-s27-ultra-models_id182777",
+      "publishedAt": "2026-08-23T13:24:05Z",
+      "processed_at": "2026-08-24T15:39:42.439938+00:00"
+    },
+    {
+      "title": "I stopped using third-party adblock VPNs after discovering Android's built-in Private DNS toggle - Android Police",
+      "source": {
+        "name": "Android Police"
+      },
+      "description": "Android's built-in ad blocker alternative...",
+      "url": "https://www.androidpolice.com/use-android-built-in-private-dns-settings/",
+      "publishedAt": "2026-08-23T12:30:10Z",
+      "processed_at": "2026-08-24T15:39:42.439938+00:00"
     },
     {
       "title": "FromSoftware boss explains how The Duskbloods will handle its skill gap between players - Eurogamer",
@@ -30,17 +60,17 @@
       "description": "Hidetaka Miyazaki details how The Duskbloods will use ranked matchmaking to separate strong and new ...",
       "url": "https://www.eurogamer.net/the-duskbloods-skill-based-matchmaking-hidetaka-miyazaki",
       "publishedAt": "2026-08-23T11:43:40Z",
-      "processed_at": "2026-08-24T14:42:27.437228+00:00"
+      "processed_at": "2026-08-24T15:39:42.439938+00:00"
     },
     {
       "title": "Sony's PlayStation terms of service reminder email couldn't have landed at a worse time - Eurogamer",
       "source": {
         "name": "Eurogamer.net"
       },
-      "description": "",
+      "description": "PlayStation users receive unsolicited terms-of-service reminder emails stating that their digital ga...",
       "url": "https://www.eurogamer.net/playstation-terms-of-service-reminder-psblackout-protest",
       "publishedAt": "2026-08-23T11:14:16Z",
-      "processed_at": "2026-08-24T14:42:27.437228+00:00"
+      "processed_at": "2026-08-24T15:39:42.439938+00:00"
     },
     {
       "title": "Transistors Changed Everything. Here’s How They Work - WIRED",
@@ -50,7 +80,17 @@
       "description": "How a tiny little electronic switch sparked the computer revolution....",
       "url": "https://www.wired.com/story/transistors-changed-everything-heres-how-they-work/",
       "publishedAt": "2026-08-23T11:00:00Z",
-      "processed_at": "2026-08-24T14:42:27.437228+00:00"
+      "processed_at": "2026-08-24T15:39:42.439938+00:00"
+    },
+    {
+      "title": "Arc Raiders is putting Expeditions on hold until 2027 - Eurogamer",
+      "source": {
+        "name": "Eurogamer.net"
+      },
+      "description": "Embark Studios has confirmed the fifth Arc Raiders Expedition</a> will be the last for a while, as i...",
+      "url": "https://www.eurogamer.net/arc-raiders-expedition-5-pause-2027-changes",
+      "publishedAt": "2026-08-23T10:43:11Z",
+      "processed_at": "2026-08-24T15:39:42.439938+00:00"
     },
     {
       "title": "Google Keep's new Gemini voice feature saved me hours of organizing messy grocery lists - Android Police",
@@ -60,40 +100,10 @@
       "description": "A different way to use Keep...",
       "url": "https://www.androidpolice.com/google-keep-gemini-voice-checklist-notes/",
       "publishedAt": "2026-08-23T10:00:10Z",
-      "processed_at": "2026-08-24T14:42:27.437228+00:00"
-    },
-    {
-      "title": "iPhone 18 Pro Latest Release Schedule: What To Expect When - Forbes",
-      "source": {
-        "name": "Forbes"
-      },
-      "description": "As August ticks away into September, the next iPhone launch inches nearer. Here’s the latest on what...",
-      "url": "https://www.forbes.com/sites/davidphelan/2026/08/23/iphone-18-pro-latest-release-schedule-what-to-expect-when/",
-      "publishedAt": "2026-08-23T10:00:02Z",
-      "processed_at": "2026-08-24T14:42:27.437228+00:00"
-    },
-    {
-      "title": "Parents Are at a Breaking Point — AI Companies See an Opportunity. - Business Insider",
-      "source": {
-        "name": "Business Insider"
-      },
-      "description": "Parents are at a breaking point — AI companies see an opportunity....",
-      "url": "https://www.businessinsider.com/parents-breaking-point-ai-companies-opportunity-2026-8#article",
-      "publishedAt": "2026-08-23T08:07:23Z",
-      "processed_at": "2026-08-24T14:42:27.437228+00:00"
-    },
-    {
-      "title": "Video: Metal Gear Solid 4 Side-By-Side Graphics Comparison (Switch 2, PS5, PS3) - Nintendo Life",
-      "source": {
-        "name": "Nintendo Life"
-      },
-      "description": "Master Collection Vol. 2 launches next week...",
-      "url": "https://www.nintendolife.com/news/2026/08/video-metal-gear-solid-4-side-by-side-graphics-comparison-switch-2-ps5-ps3",
-      "publishedAt": "2026-08-23T07:00:00Z",
-      "processed_at": "2026-08-24T14:42:27.437228+00:00"
+      "processed_at": "2026-08-24T15:39:42.439938+00:00"
     }
   ],
-  "lastUpdated": "2026-08-24T14:42:27.437293+00:00",
+  "lastUpdated": "2026-08-24T15:39:42.439988+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
