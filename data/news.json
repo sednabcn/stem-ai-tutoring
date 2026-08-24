@@ -3,6 +3,36 @@
   "totalResults": 10,
   "articles": [
     {
+      "title": "The ‘GTA 6’ Leaks Get Higher Quality With No End In Sight - Forbes",
+      "source": {
+        "name": "Forbes"
+      },
+      "description": "We are approaching a week of non-stop Grand Theft Auto 6 leaks from a so-far unstoppable leaker, Cyb...",
+      "url": "https://www.forbes.com/sites/paultassi/2026/08/23/the-gta-6-leaks-get-higher-quality-with-no-end-in-sight/",
+      "publishedAt": "2026-08-23T18:52:00Z",
+      "processed_at": "2026-08-24T19:30:10.558911+00:00"
+    },
+    {
+      "title": "Gurman: iPhone Ultra Wows Early Testers, Except for Its Camera - MacRumors",
+      "source": {
+        "name": "MacRumors"
+      },
+      "description": "Apple's upcoming foldable iPhone Ultra is winning over the few people who have had hands-on time wit...",
+      "url": "https://www.macrumors.com/2026/08/23/apple-foldable-iphone-early-tester-thoughts/",
+      "publishedAt": "2026-08-23T18:19:25Z",
+      "processed_at": "2026-08-24T19:30:10.558911+00:00"
+    },
+    {
+      "title": "Call of Duty: Modern Warfare 4 Beta Struggles To Impress - Kotaku",
+      "source": {
+        "name": "Kotaku"
+      },
+      "description": "With more competition than ever, the once immovable military shooter is going to have to earn its st...",
+      "url": "https://kotaku.com/maps-spawn-issues-and-overall-lack-of-razzle-dazzle-leaves-players-cold-on-modern-warfare-4-beta-2000727258",
+      "publishedAt": "2026-08-23T18:16:45Z",
+      "processed_at": "2026-08-24T19:30:10.558911+00:00"
+    },
+    {
       "title": "Industry analyst says he doesn't see a path back for the Epic Games Store - Eurogamer",
       "source": {
         "name": "Eurogamer.net"
@@ -10,7 +40,7 @@
       "description": "Newzoo's Emmanuel Rosier has weighed in on Epic's planned launcher overhaul, arguing Steam's dominan...",
       "url": "https://www.eurogamer.net/epic-games-store-recovery-newzoo-analyst-steam-fortnite",
       "publishedAt": "2026-08-23T16:19:53Z",
-      "processed_at": "2026-08-24T18:40:28.154996+00:00"
+      "processed_at": "2026-08-24T19:30:10.558911+00:00"
     },
     {
       "title": "Report: Apple launching updated iMac with M6 chip and new colors later this year - 9to5Mac",
@@ -20,7 +50,7 @@
       "description": "After a two year hiatus, Apple is working on a new iMac with the M6 chipset and updated color option...",
       "url": "https://9to5mac.com/2026/08/23/apple-refreshed-imac-m6-chip-new-colors/",
       "publishedAt": "2026-08-23T15:20:00Z",
-      "processed_at": "2026-08-24T18:40:28.154996+00:00"
+      "processed_at": "2026-08-24T19:30:10.558911+00:00"
     },
     {
       "title": "6 disabled Google Pixel features that every owner should enable first - Android Police",
@@ -30,7 +60,7 @@
       "description": "Google buried some genuinely useful features...",
       "url": "https://www.androidpolice.com/disabled-pixel-features-that-every-owner-should-enable-first/",
       "publishedAt": "2026-08-23T15:00:10Z",
-      "processed_at": "2026-08-24T18:40:28.154996+00:00"
+      "processed_at": "2026-08-24T19:30:10.558911+00:00"
     },
     {
       "title": "Should Tesla Introduce UI Themes? - Not a Tesla App",
@@ -40,17 +70,17 @@
       "description": "Adding a theme selector to the Toybox or Display settings could give Tesla owners a whole new way to...",
       "url": "https://www.notateslaapp.com/news/4564/should-tesla-introduce-ui-themes",
       "publishedAt": "2026-08-23T14:51:00Z",
-      "processed_at": "2026-08-24T18:40:28.154996+00:00"
+      "processed_at": "2026-08-24T19:30:10.558911+00:00"
     },
     {
-      "title": "Apple’s Foldable iPhone Will Help Bring Some Magic Back - Bloomberg.com",
+      "title": "Apple Stores preparing ‘significant’ changes for new Home product launches: report - 9to5Mac",
       "source": {
-        "name": "Bloomberg"
+        "name": "9to5Mac"
       },
-      "description": "Also: Get ready for iPhone price hikes....",
-      "url": "https://www.bloomberg.com/news/newsletters/2026-08-23/apple-s-foldable-iphone-details-retail-store-changes-for-new-home-products-mt5vjf61",
-      "publishedAt": "2026-08-23T14:00:01Z",
-      "processed_at": "2026-08-24T18:40:28.154996+00:00"
+      "description": "According to Bloomberg’s Mark Gurman, Apple is preparing significant changes at its retail stores in...",
+      "url": "https://9to5mac.com/2026/08/23/apple-preparing-for-homepod-mini-apple-tv-smart-home-launches/",
+      "publishedAt": "2026-08-23T14:33:00Z",
+      "processed_at": "2026-08-24T19:30:10.558911+00:00"
     },
     {
       "title": "Amiga-Inspired AROS Goes Bare Metal On Raspberry Pi - Hackaday",
@@ -60,7 +90,7 @@
       "description": "There’s no actual data, but if we had to guess the least-favourite Disney movie of former Amiga owne...",
       "url": "https://hackaday.com/2026/08/23/amiga-inspired-aros-goes-bare-metal-on-raspberry-pi/",
       "publishedAt": "2026-08-23T14:00:00Z",
-      "processed_at": "2026-08-24T18:40:28.154996+00:00"
+      "processed_at": "2026-08-24T19:30:10.558911+00:00"
     },
     {
       "title": "This is the only budget ergonomic office chair to get a 10/10 review from Creative Bloq, and it's now reduced by 22% - Creative Bloq",
@@ -70,40 +100,10 @@
       "description": "The one cheap office chair we actually wanted to keep is now just $132.53....",
       "url": "https://www.creativebloq.com/tech/chairs-desks/one-of-the-top-rated-economic-office-chairs-is-reduced-by-22-percent",
       "publishedAt": "2026-08-23T14:00:00Z",
-      "processed_at": "2026-08-24T18:40:28.154996+00:00"
-    },
-    {
-      "title": "35 Expensive Purchases People Regretted The Second They Bought Them - AOL.com",
-      "source": {
-        "name": "Buzzfeed"
-      },
-      "description": "Ouch. Right in the wallet....",
-      "url": "https://www.buzzfeed.com/daves4/35-people-who-spent-a-tooooooooooooooon-of-money-on?origin=bf-yahoo",
-      "publishedAt": "2026-08-23T13:48:38Z",
-      "processed_at": "2026-08-24T18:40:28.154996+00:00"
-    },
-    {
-      "title": "Can't Wait? How to Get Early Access to the Call of Duty: Modern Warfare 4 Beta - PCMag",
-      "source": {
-        "name": "PCMag.com"
-      },
-      "description": "Are you ready for the next big Call of Duty release? You don't have to. The early access beta is und...",
-      "url": "https://www.pcmag.com/news/cant-wait-how-to-access-call-of-duty-modern-warfare-4-beta-today",
-      "publishedAt": "2026-08-23T13:25:34Z",
-      "processed_at": "2026-08-24T18:40:28.154996+00:00"
-    },
-    {
-      "title": "Another Galaxy S27 Ultra surprise drops alongside new images - PhoneArena",
-      "source": {
-        "name": "PhoneArena"
-      },
-      "description": "",
-      "url": "https://www.phonearena.com/news/two-galaxy-s27-ultra-models_id182777",
-      "publishedAt": "2026-08-23T13:24:05Z",
-      "processed_at": "2026-08-24T18:40:28.154996+00:00"
+      "processed_at": "2026-08-24T19:30:10.558911+00:00"
     }
   ],
-  "lastUpdated": "2026-08-24T18:40:28.155081+00:00",
+  "lastUpdated": "2026-08-24T19:30:10.558993+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
