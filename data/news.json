@@ -1,56 +1,66 @@
 {
   "status": "success",
-  "totalResults": 10,
+  "totalResults": 8,
   "articles": [
     {
-      "title": "Genshin Impact Studio Trades Zelda: Breath Of The Wild For Elden Ring In Its New Action-RPG - kotaku.com",
+      "title": "Everything Announced At Gamescom Opening Night Live 2026 - Game Informer",
       "source": {
-        "name": "Kotaku"
+        "name": "Gameinformer.com"
       },
-      "description": "Nodus Fall takes place in a world where 'divine authority has crumbled'—sound familiar?...",
-      "url": "https://kotaku.com/genshin-impact-nodus-fall-elden-ring-2000727990",
-      "publishedAt": "2026-08-25T20:43:51Z",
-      "processed_at": "2026-08-26T22:49:43.173518+00:00"
+      "description": "Here's a quick rundown at all of the news from Gamescom's annual presentation. - Game Informer...",
+      "url": "https://gameinformer.com/gamescom-2026/2026/08/25/everything-announced-at-gamescom-opening-night-live-2026",
+      "publishedAt": "2026-08-26T01:27:00Z",
+      "processed_at": "2026-08-27T04:21:08.548844+00:00"
     },
     {
-      "title": "Opening Night Live 2026: All the Announcements, Trailers and News Direct From gamescom - IGN",
+      "title": "Dozens of engineers laid off at Apple headquarters - SFGATE",
+      "source": {
+        "name": "SFGate"
+      },
+      "description": "Apple announced 147 layoffs, largely engineers at the company's Cupertino headquarters....",
+      "url": "https://www.sfgate.com/tech/article/apple-engineers-layoff-22403206.php",
+      "publishedAt": "2026-08-25T21:40:36Z",
+      "processed_at": "2026-08-27T04:21:08.548844+00:00"
+    },
+    {
+      "title": "Exclusive | $16.9M listing for Old Hollywood mansion is exposes bitter family feud - New York Post",
+      "source": {
+        "name": "New York Post"
+      },
+      "description": "The mansion, connected to the late Paris Nourafchan, is on the market for $16.9 million — all while ...",
+      "url": "https://nypost.com/2026/08/25/real-estate/16-9m-listing-for-old-hollywood-mansion-is-exposes-bitter-family-feud/",
+      "publishedAt": "2026-08-25T21:21:00Z",
+      "processed_at": "2026-08-27T04:21:08.548844+00:00"
+    },
+    {
+      "title": "Geralt Returns in The Witcher 3: Wild Hunt — Songs of the Past and Remastered - XBOX Wire",
+      "source": {
+        "name": "Xbox.com"
+      },
+      "description": "The Witcher 3: Wild Hunt Remastered launches September 29 with an array of improvements and moderniz...",
+      "url": "https://news.xbox.com/en-us/2026/08/25/witcher-3-remastered-and-songs-of-the-past/",
+      "publishedAt": "2026-08-25T21:02:11Z",
+      "processed_at": "2026-08-27T04:21:08.548844+00:00"
+    },
+    {
+      "title": "Apple Maps Ads Are Here, and There's No Way to Turn Them Off - MacRumors",
+      "source": {
+        "name": "MacRumors"
+      },
+      "description": "Ads in Apple Maps are live in the United States and Canada, which means iPhone and iPad users will s...",
+      "url": "https://www.macrumors.com/2026/08/25/apple-maps-ads-live/",
+      "publishedAt": "2026-08-25T20:40:09Z",
+      "processed_at": "2026-08-27T04:21:08.548844+00:00"
+    },
+    {
+      "title": "Final Fantasy 7 Revelation Gamescom Trailer Shows Off Submarine Combat, Weapon Boss Fights, and More - IGN",
       "source": {
         "name": "IGN"
       },
-      "description": "Opening Night Live 2026 is upon us, and with it comes the promise of big new gameplay reveals, plent...",
-      "url": "https://www.ign.com/articles/gamescom-opening-night-live-2026-everything-announced",
-      "publishedAt": "2026-08-25T20:26:00Z",
-      "processed_at": "2026-08-26T22:49:43.173518+00:00"
-    },
-    {
-      "title": "The Witcher 3 is getting a remaster - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "The Witcher 3: Wild Hunt — Remastered will be released on September 29th, bringing improvements to v...",
-      "url": "https://www.theverge.com/games/984680/the-witcher-3-wild-hunt-remastered-launch-date-trailer",
-      "publishedAt": "2026-08-25T20:24:24Z",
-      "processed_at": "2026-08-26T22:49:43.173518+00:00"
-    },
-    {
-      "title": "Final Fantasy VII Revelation Continues To Stun In New Trailer - Nintendo Life",
-      "source": {
-        "name": "Nintendo Life"
-      },
-      "description": "What a Revelation!...",
-      "url": "https://www.nintendolife.com/news/2026/08/final-fantasy-vii-revelation-continues-to-stun-in-new-trailer",
-      "publishedAt": "2026-08-25T20:20:00Z",
-      "processed_at": "2026-08-26T22:49:43.173518+00:00"
-    },
-    {
-      "title": "Roundup: All The Biggest Xbox Reveals From Gamescom Opening Night Live 2026 - Pure Xbox",
-      "source": {
-        "name": "Pure Xbox"
-      },
-      "description": "Missed the event? Here's a recap...",
-      "url": "https://www.purexbox.com/features/roundup-all-the-biggest-xbox-reveals-from-gamescom-opening-night-live-2026",
-      "publishedAt": "2026-08-25T20:05:00Z",
-      "processed_at": "2026-08-26T22:49:43.173518+00:00"
+      "description": "Fans were treated to a new Final Fantasy 7 Revelation trailer at Gamescom’s Opening Night Live showc...",
+      "url": "https://www.ign.com/articles/final-fantasy-7-revelations-gets-new-trailer-at-gamescom-2026-showing-off-submarine-combat-weapons-and-more",
+      "publishedAt": "2026-08-25T20:36:51Z",
+      "processed_at": "2026-08-27T04:21:08.548844+00:00"
     },
     {
       "title": "Memory and Storage Configurations and Pricing for the New Mac Minis (M6/M5 Pro) and Mac Studios (M5 Max/M5 Ultra) - Daring Fireball",
@@ -60,50 +70,20 @@
       "description": "Here’s my attempt to put all of the RAM/SSD configurations into condensed tables, so you can see whi...",
       "url": "https://daringfireball.net/2026/08/configurations_and_pricing_for_new_mac_minis_and_mac_studios",
       "publishedAt": "2026-08-25T20:01:10Z",
-      "processed_at": "2026-08-26T22:49:43.173518+00:00"
+      "processed_at": "2026-08-27T04:21:08.548844+00:00"
     },
     {
-      "title": "PREVIEW: Gears of War: E-Day might be remembered as the best Gears story ever - Windows Central",
+      "title": "Gears of War: E-Day somehow feels exactly like a direct continuation of the original Xbox 360 trilogy, for better and for worse - Eurogamer.net",
       "source": {
-        "name": "Windows Central"
+        "name": "Eurogamer.net"
       },
-      "description": "Recently I played 1.5 hours of the Gears of War: E-Day campaign, and oh man, if the whole experience...",
-      "url": "https://www.windowscentral.com/gaming/xbox/preview-gears-of-war-e-day-might-be-remembered-as-the-best-gears-story-ever",
+      "description": "The Coalition is picking up where Epic Games left off, seemingly glazing over everything Gears 5 tri...",
+      "url": "https://www.eurogamer.net/gears-of-war-eday-preview",
       "publishedAt": "2026-08-25T20:00:00Z",
-      "processed_at": "2026-08-26T22:49:43.173518+00:00"
-    },
-    {
-      "title": "Lego Skylines Is A Brick-Based City Builder From – Aug 25, 2026 - Game Informer",
-      "source": {
-        "name": "Gameinformer.com"
-      },
-      "description": "The game was revealed during today's Opening Night Live showcase at Gamescom. - Game Informer...",
-      "url": "https://gameinformer.com/gamescom-2026/2026/08/25/lego-skylines-is-a-brick-based-city-builder-from-cities-skyline-ii-devs",
-      "publishedAt": "2026-08-25T19:48:00Z",
-      "processed_at": "2026-08-26T22:49:43.173518+00:00"
-    },
-    {
-      "title": "NO LAW launches in 2027 - Gematsu",
-      "source": {
-        "name": "Gematsu"
-      },
-      "description": "First-person, story rich, cyber-noire shooter NO LAW will launch for PlayStation 5, Xbox Series, and...",
-      "url": "https://www.gematsu.com/2026/08/no-law-launches-in-2027",
-      "publishedAt": "2026-08-25T19:43:08Z",
-      "processed_at": "2026-08-26T22:49:43.173518+00:00"
-    },
-    {
-      "title": "Heroes of Might and Magic III Remake announced for PS5, Xbox Series, and PC - Gematsu",
-      "source": {
-        "name": "Gematsu"
-      },
-      "description": "Ubisoft has announced Heroes of Might and Magic III Remake, a remake of the 1999-released turn-based...",
-      "url": "https://www.gematsu.com/2026/08/heroes-of-might-and-magic-iii-remake-announced-for-ps5-xbox-series-and-pc",
-      "publishedAt": "2026-08-25T19:32:13Z",
-      "processed_at": "2026-08-26T22:49:43.173518+00:00"
+      "processed_at": "2026-08-27T04:21:08.548844+00:00"
     }
   ],
-  "lastUpdated": "2026-08-26T22:49:43.173594+00:00",
+  "lastUpdated": "2026-08-27T04:21:08.548912+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
