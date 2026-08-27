@@ -1,89 +1,109 @@
 {
   "status": "success",
-  "totalResults": 8,
+  "totalResults": 10,
   "articles": [
     {
-      "title": "Everything Announced At Gamescom Opening Night Live 2026 - Game Informer",
-      "source": {
-        "name": "Gameinformer.com"
-      },
-      "description": "Here's a quick rundown at all of the news from Gamescom's annual presentation. - Game Informer...",
-      "url": "https://gameinformer.com/gamescom-2026/2026/08/25/everything-announced-at-gamescom-opening-night-live-2026",
-      "publishedAt": "2026-08-26T01:27:00Z",
-      "processed_at": "2026-08-27T04:21:08.548844+00:00"
-    },
-    {
-      "title": "Dozens of engineers laid off at Apple headquarters - SFGATE",
-      "source": {
-        "name": "SFGate"
-      },
-      "description": "Apple announced 147 layoffs, largely engineers at the company's Cupertino headquarters....",
-      "url": "https://www.sfgate.com/tech/article/apple-engineers-layoff-22403206.php",
-      "publishedAt": "2026-08-25T21:40:36Z",
-      "processed_at": "2026-08-27T04:21:08.548844+00:00"
-    },
-    {
-      "title": "Exclusive | $16.9M listing for Old Hollywood mansion is exposes bitter family feud - New York Post",
-      "source": {
-        "name": "New York Post"
-      },
-      "description": "The mansion, connected to the late Paris Nourafchan, is on the market for $16.9 million — all while ...",
-      "url": "https://nypost.com/2026/08/25/real-estate/16-9m-listing-for-old-hollywood-mansion-is-exposes-bitter-family-feud/",
-      "publishedAt": "2026-08-25T21:21:00Z",
-      "processed_at": "2026-08-27T04:21:08.548844+00:00"
-    },
-    {
-      "title": "Geralt Returns in The Witcher 3: Wild Hunt — Songs of the Past and Remastered - XBOX Wire",
-      "source": {
-        "name": "Xbox.com"
-      },
-      "description": "The Witcher 3: Wild Hunt Remastered launches September 29 with an array of improvements and moderniz...",
-      "url": "https://news.xbox.com/en-us/2026/08/25/witcher-3-remastered-and-songs-of-the-past/",
-      "publishedAt": "2026-08-25T21:02:11Z",
-      "processed_at": "2026-08-27T04:21:08.548844+00:00"
-    },
-    {
-      "title": "Apple Maps Ads Are Here, and There's No Way to Turn Them Off - MacRumors",
+      "title": "Apple Giving Some Mac Mini Customers a Free Upgrade - MacRumors",
       "source": {
         "name": "MacRumors"
       },
-      "description": "Ads in Apple Maps are live in the United States and Canada, which means iPhone and iPad users will s...",
-      "url": "https://www.macrumors.com/2026/08/25/apple-maps-ads-live/",
-      "publishedAt": "2026-08-25T20:40:09Z",
-      "processed_at": "2026-08-27T04:21:08.548844+00:00"
+      "description": "Apple has informed some customers who recently ordered a Mac mini with an M4 chip that has yet to sh...",
+      "url": "https://www.macrumors.com/2026/08/26/apple-free-mac-mini-upgrade-email/",
+      "publishedAt": "2026-08-26T13:10:59Z",
+      "processed_at": "2026-08-27T16:10:22.273910+00:00"
     },
     {
-      "title": "Final Fantasy 7 Revelation Gamescom Trailer Shows Off Submarine Combat, Weapon Boss Fights, and More - IGN",
+      "title": "Rockstar finally responds to ‘heartbreaking’ GTA 6 leaks - The Verge",
       "source": {
-        "name": "IGN"
+        "name": "The Verge"
       },
-      "description": "Fans were treated to a new Final Fantasy 7 Revelation trailer at Gamescom’s Opening Night Live showc...",
-      "url": "https://www.ign.com/articles/final-fantasy-7-revelations-gets-new-trailer-at-gamescom-2026-showing-off-submarine-combat-weapons-and-more",
-      "publishedAt": "2026-08-25T20:36:51Z",
-      "processed_at": "2026-08-27T04:21:08.548844+00:00"
+      "description": "The Grand Theft Auto developer releases a statement following a week of repeated leaks....",
+      "url": "https://www.theverge.com/games/984959/gta-vi-leaks-rockstar-games-official-statement-heartbreaking",
+      "publishedAt": "2026-08-26T12:04:15Z",
+      "processed_at": "2026-08-27T16:10:22.273910+00:00"
     },
     {
-      "title": "Memory and Storage Configurations and Pricing for the New Mac Minis (M6/M5 Pro) and Mac Studios (M5 Max/M5 Ultra) - Daring Fireball",
+      "title": "Alleged Foldable iPhone Motherboard Photos Surface Online - MacRumors",
       "source": {
-        "name": "Daringfireball.net"
+        "name": "MacRumors"
       },
-      "description": "Here’s my attempt to put all of the RAM/SSD configurations into condensed tables, so you can see whi...",
-      "url": "https://daringfireball.net/2026/08/configurations_and_pricing_for_new_mac_minis_and_mac_studios",
-      "publishedAt": "2026-08-25T20:01:10Z",
-      "processed_at": "2026-08-27T04:21:08.548844+00:00"
+      "description": "Images and video claiming to show circuitry from Apple's upcoming foldable iPhone are circulating on...",
+      "url": "https://www.macrumors.com/2026/08/26/foldable-iphone-motherboard-photos-surface/",
+      "publishedAt": "2026-08-26T11:33:50Z",
+      "processed_at": "2026-08-27T16:10:22.273910+00:00"
     },
     {
-      "title": "Gears of War: E-Day somehow feels exactly like a direct continuation of the original Xbox 360 trilogy, for better and for worse - Eurogamer.net",
+      "title": "The story for Witcher 3: Songs of the Past was actually written \"years ago\", according to Fool's Theory CEO - Eurogamer.net",
       "source": {
         "name": "Eurogamer.net"
       },
-      "description": "The Coalition is picking up where Epic Games left off, seemingly glazing over everything Gears 5 tri...",
-      "url": "https://www.eurogamer.net/gears-of-war-eday-preview",
-      "publishedAt": "2026-08-25T20:00:00Z",
-      "processed_at": "2026-08-27T04:21:08.548844+00:00"
+      "description": "Jakub Rokosz, CEO of Fool's Theory, explains how Songs of the Past has actually been in CDPR's mind ...",
+      "url": "https://www.eurogamer.net/witcher-3-songs-of-the-past-story-written-years-ago-interview",
+      "publishedAt": "2026-08-26T10:27:37Z",
+      "processed_at": "2026-08-27T16:10:22.273910+00:00"
+    },
+    {
+      "title": "Fable: After Watching a Full Quest, I Couldn’t Be More Excited to Play It | gamescom 2026 - IGN",
+      "source": {
+        "name": "IGN"
+      },
+      "description": "Beer, swearing, and aggressive strangers. I feel at home. After watching a full quest from Fable, I ...",
+      "url": "https://www.ign.com/articles/fable-after-watching-a-full-quest-i-couldnt-be-more-excited-to-play-it-gamescom-2026",
+      "publishedAt": "2026-08-26T10:07:03Z",
+      "processed_at": "2026-08-27T16:10:22.273910+00:00"
+    },
+    {
+      "title": "Ikea’s Xbox collection includes a giant thumbstick stool - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "Ikea has teamed up with Microsoft to launch a new assortment of Xbox-inspired furniture and home acc...",
+      "url": "https://www.theverge.com/games/984869/ikea-xbox-yxstaby-collection-thumbstick-stool",
+      "publishedAt": "2026-08-26T10:00:00Z",
+      "processed_at": "2026-08-27T16:10:22.273910+00:00"
+    },
+    {
+      "title": "The Warhammer 40,000 August Update – Everything you need to know - Warhammer Community",
+      "source": {
+        "name": "Warhammer-community.com"
+      },
+      "description": "New updates for points, maps, and detachments....",
+      "url": "https://www.warhammer-community.com/articles/b4zj2o7u/the-warhammer-40000-august-update-everything-you-need-to-know",
+      "publishedAt": "2026-08-26T09:30:38Z",
+      "processed_at": "2026-08-27T16:10:22.273910+00:00"
+    },
+    {
+      "title": "Metro 2039 Developers on Russia's Invasion of Ukraine: \"Quite a Lot of Our Plans Changed Overnight\" - IGN",
+      "source": {
+        "name": "IGN"
+      },
+      "description": "After finishing the four-or-so-hour preview build of Metro 2039, the upcoming first-person shooter s...",
+      "url": "https://www.ign.com/articles/metro-2039-developers-on-how-russias-invasion-of-ukraine-changed-their-plans",
+      "publishedAt": "2026-08-26T07:02:00Z",
+      "processed_at": "2026-08-27T16:10:22.273910+00:00"
+    },
+    {
+      "title": "Perplexity launches a local AI agent with zero token costs - Android Authority",
+      "source": {
+        "name": "Android Authority"
+      },
+      "description": "Perplexity has launched \"Portable Computer\" — a new agentic AI that runs locally on NVIDIA hardware ...",
+      "url": "https://www.androidauthority.com/perplexity-portable-computer-local-ai-agent-3703083/",
+      "publishedAt": "2026-08-26T06:40:00Z",
+      "processed_at": "2026-08-27T16:10:22.273910+00:00"
+    },
+    {
+      "title": "Porsche Unveils 911 Challenge as New Entry-Level Race Car - Sportscar365",
+      "source": {
+        "name": "Sportscar365"
+      },
+      "description": "Race car largely based around road-going Porsche 911 GT3 to debut in single-make Challenge, Trophy s...",
+      "url": "https://sportscar365.com/industry/porsche-unveils-911-challenge-car/",
+      "publishedAt": "2026-08-26T06:04:04Z",
+      "processed_at": "2026-08-27T16:10:22.273910+00:00"
     }
   ],
-  "lastUpdated": "2026-08-27T04:21:08.548912+00:00",
+  "lastUpdated": "2026-08-27T16:10:22.273991+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
