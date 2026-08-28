@@ -1,7 +1,97 @@
 {
   "status": "success",
-  "totalResults": 8,
+  "totalResults": 10,
   "articles": [
+    {
+      "title": "GTA 6 Netflix extended look: What time it releases today - Mashable",
+      "source": {
+        "name": "Mashable"
+      },
+      "description": "We might finally see some non-leaked gameplay, maybe....",
+      "url": "https://mashable.com/entertainment/gta-6-netflix-extended-look-time-details",
+      "publishedAt": "2026-08-27T14:44:28Z",
+      "processed_at": "2026-08-28T13:54:56.467061+00:00"
+    },
+    {
+      "title": "Plaud’s new earphones come with an eSIM-enabled case for talking to AI agents - TechCrunch",
+      "source": {
+        "name": "TechCrunch"
+      },
+      "description": "Plaud's new 'agentic' earbuds are priced at $249....",
+      "url": "https://techcrunch.com/2026/08/27/plauds-new-earphones-come-with-an-esim-enabled-case-for-talking-to-ai-agents/",
+      "publishedAt": "2026-08-27T13:00:00Z",
+      "processed_at": "2026-08-28T13:54:56.467061+00:00"
+    },
+    {
+      "title": "Samsung announces 2027 Odyssey monitors with 1,100 Hz IPS and 720 Hz QD-OLED modes - VideoCardz.com",
+      "source": {
+        "name": "Videocardz.com"
+      },
+      "description": "Samsung's Gamescom lineup includes new 49, 42, 32 and 27-inch Odyssey monitors. Refresh rates range ...",
+      "url": "https://videocardz.com/newz/samsung-announces-2027-odyssey-monitors-with-1100-hz-ips-and-720-hz-qd-oled-modes",
+      "publishedAt": "2026-08-27T11:58:26Z",
+      "processed_at": "2026-08-28T13:54:56.467061+00:00"
+    },
+    {
+      "title": "Apple Event Logo Hints at Two iPhone 18 Pro Features - MacRumors",
+      "source": {
+        "name": "MacRumors"
+      },
+      "description": "Apple's logo for its upcoming September 9 \"Surprise and shine\" event hints at two rumored iPhone 18 ...",
+      "url": "https://www.macrumors.com/2026/08/27/apple-event-hints-iphone-18-pro-features/",
+      "publishedAt": "2026-08-27T11:46:03Z",
+      "processed_at": "2026-08-28T13:54:56.467061+00:00"
+    },
+    {
+      "title": "\"All of the industry needs to start to innovate on affordability and efficiency\" - Xbox's Asha Sharma wants change and \"more choice\" for people buying consoles - Eurogamer.net",
+      "source": {
+        "name": "Eurogamer.net"
+      },
+      "description": "As console prices skyrocket, Xbox leader Asha Sharma has called for change in the way companies sell...",
+      "url": "https://www.eurogamer.net/xbox-console-affordability-price-asha-sharma",
+      "publishedAt": "2026-08-27T11:16:24Z",
+      "processed_at": "2026-08-28T13:54:56.467061+00:00"
+    },
+    {
+      "title": "Hugging Face Unveils $400 Singing, Skating Duck-Like Robot - Bloomberg.com",
+      "source": {
+        "name": "Bloomberg"
+      },
+      "description": "Artificial intelligence platform Hugging Face Inc. unveiled a singing $400 bipedal robot that can be...",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-27/hugging-face-unveils-400-singing-skating-duck-like-robot",
+      "publishedAt": "2026-08-27T10:00:10Z",
+      "processed_at": "2026-08-28T13:54:56.467061+00:00"
+    },
+    {
+      "title": "Marmots Are Terrorizing California Hikers and Stealing Their Shoes - WSJ",
+      "source": {
+        "name": "The Wall Street Journal"
+      },
+      "description": "",
+      "url": "https://www.wsj.com/lifestyle/travel/marmots-hikers-california-sequoia-a197b314",
+      "publishedAt": "2026-08-27T09:30:00Z",
+      "processed_at": "2026-08-28T13:54:56.467061+00:00"
+    },
+    {
+      "title": "Apple says these three things can speed up the new Spotlight indexing - 9to5Mac",
+      "source": {
+        "name": "9to5Mac"
+      },
+      "description": "Apple has explained how Spotlight indexing works across its devices, including three things it says ...",
+      "url": "https://9to5mac.com/2026/08/26/apple-says-these-three-things-can-speed-up-the-new-spotlight-indexing/",
+      "publishedAt": "2026-08-27T02:24:00Z",
+      "processed_at": "2026-08-28T13:54:56.467061+00:00"
+    },
+    {
+      "title": "Microsoft's latest AI rebrand beats its own history of terrible rebrands, renaming Microsoft 365 Roadmap to \"AI at Work\" - Windows Latest",
+      "source": {
+        "name": "WindowsLatest"
+      },
+      "description": "If you use Microsoft 365 and want to know what’s coming next, what would you search for on Google/Bi...",
+      "url": "https://www.windowslatest.com/2026/08/27/microsoft-just-renamed-a-product-after-ai-microsoft-365-roadmap-is-called-at-at-work/",
+      "publishedAt": "2026-08-27T00:32:24Z",
+      "processed_at": "2026-08-28T13:54:56.467061+00:00"
+    },
     {
       "title": "Viral AI startup Instinct has raised $350 million at a $2.5 billion valuation - TechCrunch",
       "source": {
@@ -10,80 +100,10 @@
       "description": "The startup is only a year old but it has already generated a massive amount of hype (and money) whi...",
       "url": "https://techcrunch.com/2026/08/26/viral-ai-startup-instinct-has-raised-350-million-at-a-2-5-billion-valuation/",
       "publishedAt": "2026-08-27T00:24:57Z",
-      "processed_at": "2026-08-28T01:19:02.821727+00:00"
-    },
-    {
-      "title": "Here’s how many foldable iPhones IDC expects Apple to ship in one year - 9to5Mac",
-      "source": {
-        "name": "9to5Mac"
-      },
-      "description": "Bloomberg notes that IDC has a bullish outlook on the device’s performance during its first year. He...",
-      "url": "https://9to5mac.com/2026/08/26/heres-how-many-foldable-iphones-idc-expects-apple-to-ship-in-one-year/",
-      "publishedAt": "2026-08-26T21:13:00Z",
-      "processed_at": "2026-08-28T01:19:02.821727+00:00"
-    },
-    {
-      "title": "New Twitter launches, says Musk’s X gave up the name - Ars Technica",
-      "source": {
-        "name": "Ars Technica"
-      },
-      "description": "Judge hasn't ruled on X Corp’s preliminary injunction, but Operation Bluebird plows ahead......",
-      "url": "https://arstechnica.com/tech-policy/2026/08/new-twitter-launches-says-musks-x-gave-up-the-name/",
-      "publishedAt": "2026-08-26T20:49:04Z",
-      "processed_at": "2026-08-28T01:19:02.821727+00:00"
-    },
-    {
-      "title": "Amazon knocks $150 off Pixel 11 phones, with up to $200 in gift cards - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "We also spotted discounts on the Scuf Valor Pro, a Cuktech 100W battery pack, and the lowest price y...",
-      "url": "https://www.theverge.com/gadgets/984516/pixel-11-promo-code-doom-dark-ages-deal-sale",
-      "publishedAt": "2026-08-26T19:18:23Z",
-      "processed_at": "2026-08-28T01:19:02.821727+00:00"
-    },
-    {
-      "title": "Review: Resonance: A Plague Tale Legacy Is a Visual Feast to Cherish on Every Console - Digital Foundry",
-      "source": {
-        "name": "Digitalfoundry.net"
-      },
-      "description": "Though PS5 Pro is a class apart....",
-      "url": "https://www.digitalfoundry.net/reviews/resonance-a-plague-tale-legacy-is-a-visual-feast-to-cherish-on-every-console",
-      "publishedAt": "2026-08-26T18:40:00Z",
-      "processed_at": "2026-08-28T01:19:02.821727+00:00"
-    },
-    {
-      "title": "Elden Ring On Switch 2 – The Worst Way To Play The Best Game - Game Informer",
-      "source": {
-        "name": "Gameinformer.com"
-      },
-      "description": "Elden Ring on Switch 2 gets the job done admirably, but it is the inferior version of a fantastic ga...",
-      "url": "https://gameinformer.com/2026/08/26/elden-ring-on-switch-2-the-worst-way-to-play-the-best-game-new-gameplay-today",
-      "publishedAt": "2026-08-26T18:36:02Z",
-      "processed_at": "2026-08-28T01:19:02.821727+00:00"
-    },
-    {
-      "title": "Fable Looks Absolutely Incredible In New 18-Minute Quest Gameplay - Pure Xbox",
-      "source": {
-        "name": "Pure Xbox"
-      },
-      "description": "It's got Game of the Year written all over it...",
-      "url": "https://www.purexbox.com/news/2026/08/fable-looks-absolutely-incredible-in-new-18-minute-quest-gameplay",
-      "publishedAt": "2026-08-26T17:08:00Z",
-      "processed_at": "2026-08-28T01:19:02.821727+00:00"
-    },
-    {
-      "title": "Google launches Gemini 3.5 Transcribe, which powers Gboard Rambler & is coming to Chrome - 9to5Google",
-      "source": {
-        "name": "9to5google.com"
-      },
-      "description": "Google today introduced Gemini 3.5 Transcribe as its “most precise speech-to-text model yet” that is...",
-      "url": "http://9to5google.com/2026/08/26/gemini-3-5-transcribe/",
-      "publishedAt": "2026-08-26T17:00:00Z",
-      "processed_at": "2026-08-28T01:19:02.821727+00:00"
+      "processed_at": "2026-08-28T13:54:56.467061+00:00"
     }
   ],
-  "lastUpdated": "2026-08-28T01:19:02.821804+00:00",
+  "lastUpdated": "2026-08-28T13:54:56.467135+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
