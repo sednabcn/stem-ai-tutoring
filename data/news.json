@@ -1,109 +1,89 @@
 {
   "status": "success",
-  "totalResults": 10,
+  "totalResults": 8,
   "articles": [
     {
-      "title": "Apple Giving Some Mac Mini Customers a Free Upgrade - MacRumors",
+      "title": "Viral AI startup Instinct has raised $350 million at a $2.5 billion valuation - TechCrunch",
       "source": {
-        "name": "MacRumors"
+        "name": "TechCrunch"
       },
-      "description": "Apple has informed some customers who recently ordered a Mac mini with an M4 chip that has yet to sh...",
-      "url": "https://www.macrumors.com/2026/08/26/apple-free-mac-mini-upgrade-email/",
-      "publishedAt": "2026-08-26T13:10:59Z",
-      "processed_at": "2026-08-27T16:10:22.273910+00:00"
+      "description": "The startup is only a year old but it has already generated a massive amount of hype (and money) whi...",
+      "url": "https://techcrunch.com/2026/08/26/viral-ai-startup-instinct-has-raised-350-million-at-a-2-5-billion-valuation/",
+      "publishedAt": "2026-08-27T00:24:57Z",
+      "processed_at": "2026-08-28T01:19:02.821727+00:00"
     },
     {
-      "title": "Rockstar finally responds to ‘heartbreaking’ GTA 6 leaks - The Verge",
+      "title": "Here’s how many foldable iPhones IDC expects Apple to ship in one year - 9to5Mac",
+      "source": {
+        "name": "9to5Mac"
+      },
+      "description": "Bloomberg notes that IDC has a bullish outlook on the device’s performance during its first year. He...",
+      "url": "https://9to5mac.com/2026/08/26/heres-how-many-foldable-iphones-idc-expects-apple-to-ship-in-one-year/",
+      "publishedAt": "2026-08-26T21:13:00Z",
+      "processed_at": "2026-08-28T01:19:02.821727+00:00"
+    },
+    {
+      "title": "New Twitter launches, says Musk’s X gave up the name - Ars Technica",
+      "source": {
+        "name": "Ars Technica"
+      },
+      "description": "Judge hasn't ruled on X Corp’s preliminary injunction, but Operation Bluebird plows ahead......",
+      "url": "https://arstechnica.com/tech-policy/2026/08/new-twitter-launches-says-musks-x-gave-up-the-name/",
+      "publishedAt": "2026-08-26T20:49:04Z",
+      "processed_at": "2026-08-28T01:19:02.821727+00:00"
+    },
+    {
+      "title": "Amazon knocks $150 off Pixel 11 phones, with up to $200 in gift cards - The Verge",
       "source": {
         "name": "The Verge"
       },
-      "description": "The Grand Theft Auto developer releases a statement following a week of repeated leaks....",
-      "url": "https://www.theverge.com/games/984959/gta-vi-leaks-rockstar-games-official-statement-heartbreaking",
-      "publishedAt": "2026-08-26T12:04:15Z",
-      "processed_at": "2026-08-27T16:10:22.273910+00:00"
+      "description": "We also spotted discounts on the Scuf Valor Pro, a Cuktech 100W battery pack, and the lowest price y...",
+      "url": "https://www.theverge.com/gadgets/984516/pixel-11-promo-code-doom-dark-ages-deal-sale",
+      "publishedAt": "2026-08-26T19:18:23Z",
+      "processed_at": "2026-08-28T01:19:02.821727+00:00"
     },
     {
-      "title": "Alleged Foldable iPhone Motherboard Photos Surface Online - MacRumors",
+      "title": "Review: Resonance: A Plague Tale Legacy Is a Visual Feast to Cherish on Every Console - Digital Foundry",
       "source": {
-        "name": "MacRumors"
+        "name": "Digitalfoundry.net"
       },
-      "description": "Images and video claiming to show circuitry from Apple's upcoming foldable iPhone are circulating on...",
-      "url": "https://www.macrumors.com/2026/08/26/foldable-iphone-motherboard-photos-surface/",
-      "publishedAt": "2026-08-26T11:33:50Z",
-      "processed_at": "2026-08-27T16:10:22.273910+00:00"
+      "description": "Though PS5 Pro is a class apart....",
+      "url": "https://www.digitalfoundry.net/reviews/resonance-a-plague-tale-legacy-is-a-visual-feast-to-cherish-on-every-console",
+      "publishedAt": "2026-08-26T18:40:00Z",
+      "processed_at": "2026-08-28T01:19:02.821727+00:00"
     },
     {
-      "title": "The story for Witcher 3: Songs of the Past was actually written \"years ago\", according to Fool's Theory CEO - Eurogamer.net",
+      "title": "Elden Ring On Switch 2 – The Worst Way To Play The Best Game - Game Informer",
       "source": {
-        "name": "Eurogamer.net"
+        "name": "Gameinformer.com"
       },
-      "description": "Jakub Rokosz, CEO of Fool's Theory, explains how Songs of the Past has actually been in CDPR's mind ...",
-      "url": "https://www.eurogamer.net/witcher-3-songs-of-the-past-story-written-years-ago-interview",
-      "publishedAt": "2026-08-26T10:27:37Z",
-      "processed_at": "2026-08-27T16:10:22.273910+00:00"
+      "description": "Elden Ring on Switch 2 gets the job done admirably, but it is the inferior version of a fantastic ga...",
+      "url": "https://gameinformer.com/2026/08/26/elden-ring-on-switch-2-the-worst-way-to-play-the-best-game-new-gameplay-today",
+      "publishedAt": "2026-08-26T18:36:02Z",
+      "processed_at": "2026-08-28T01:19:02.821727+00:00"
     },
     {
-      "title": "Fable: After Watching a Full Quest, I Couldn’t Be More Excited to Play It | gamescom 2026 - IGN",
+      "title": "Fable Looks Absolutely Incredible In New 18-Minute Quest Gameplay - Pure Xbox",
       "source": {
-        "name": "IGN"
+        "name": "Pure Xbox"
       },
-      "description": "Beer, swearing, and aggressive strangers. I feel at home. After watching a full quest from Fable, I ...",
-      "url": "https://www.ign.com/articles/fable-after-watching-a-full-quest-i-couldnt-be-more-excited-to-play-it-gamescom-2026",
-      "publishedAt": "2026-08-26T10:07:03Z",
-      "processed_at": "2026-08-27T16:10:22.273910+00:00"
+      "description": "It's got Game of the Year written all over it...",
+      "url": "https://www.purexbox.com/news/2026/08/fable-looks-absolutely-incredible-in-new-18-minute-quest-gameplay",
+      "publishedAt": "2026-08-26T17:08:00Z",
+      "processed_at": "2026-08-28T01:19:02.821727+00:00"
     },
     {
-      "title": "Ikea’s Xbox collection includes a giant thumbstick stool - The Verge",
+      "title": "Google launches Gemini 3.5 Transcribe, which powers Gboard Rambler & is coming to Chrome - 9to5Google",
       "source": {
-        "name": "The Verge"
+        "name": "9to5google.com"
       },
-      "description": "Ikea has teamed up with Microsoft to launch a new assortment of Xbox-inspired furniture and home acc...",
-      "url": "https://www.theverge.com/games/984869/ikea-xbox-yxstaby-collection-thumbstick-stool",
-      "publishedAt": "2026-08-26T10:00:00Z",
-      "processed_at": "2026-08-27T16:10:22.273910+00:00"
-    },
-    {
-      "title": "The Warhammer 40,000 August Update – Everything you need to know - Warhammer Community",
-      "source": {
-        "name": "Warhammer-community.com"
-      },
-      "description": "New updates for points, maps, and detachments....",
-      "url": "https://www.warhammer-community.com/articles/b4zj2o7u/the-warhammer-40000-august-update-everything-you-need-to-know",
-      "publishedAt": "2026-08-26T09:30:38Z",
-      "processed_at": "2026-08-27T16:10:22.273910+00:00"
-    },
-    {
-      "title": "Metro 2039 Developers on Russia's Invasion of Ukraine: \"Quite a Lot of Our Plans Changed Overnight\" - IGN",
-      "source": {
-        "name": "IGN"
-      },
-      "description": "After finishing the four-or-so-hour preview build of Metro 2039, the upcoming first-person shooter s...",
-      "url": "https://www.ign.com/articles/metro-2039-developers-on-how-russias-invasion-of-ukraine-changed-their-plans",
-      "publishedAt": "2026-08-26T07:02:00Z",
-      "processed_at": "2026-08-27T16:10:22.273910+00:00"
-    },
-    {
-      "title": "Perplexity launches a local AI agent with zero token costs - Android Authority",
-      "source": {
-        "name": "Android Authority"
-      },
-      "description": "Perplexity has launched \"Portable Computer\" — a new agentic AI that runs locally on NVIDIA hardware ...",
-      "url": "https://www.androidauthority.com/perplexity-portable-computer-local-ai-agent-3703083/",
-      "publishedAt": "2026-08-26T06:40:00Z",
-      "processed_at": "2026-08-27T16:10:22.273910+00:00"
-    },
-    {
-      "title": "Porsche Unveils 911 Challenge as New Entry-Level Race Car - Sportscar365",
-      "source": {
-        "name": "Sportscar365"
-      },
-      "description": "Race car largely based around road-going Porsche 911 GT3 to debut in single-make Challenge, Trophy s...",
-      "url": "https://sportscar365.com/industry/porsche-unveils-911-challenge-car/",
-      "publishedAt": "2026-08-26T06:04:04Z",
-      "processed_at": "2026-08-27T16:10:22.273910+00:00"
+      "description": "Google today introduced Gemini 3.5 Transcribe as its “most precise speech-to-text model yet” that is...",
+      "url": "http://9to5google.com/2026/08/26/gemini-3-5-transcribe/",
+      "publishedAt": "2026-08-26T17:00:00Z",
+      "processed_at": "2026-08-28T01:19:02.821727+00:00"
     }
   ],
-  "lastUpdated": "2026-08-27T16:10:22.273991+00:00",
+  "lastUpdated": "2026-08-28T01:19:02.821804+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
