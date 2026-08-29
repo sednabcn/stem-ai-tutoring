@@ -1,7 +1,27 @@
 {
   "status": "success",
-  "totalResults": 9,
+  "totalResults": 8,
   "articles": [
+    {
+      "title": "ER doctors say popular hair accessory is a death trap: ‘They get embedded in your skull’ - New York Post",
+      "source": {
+        "name": "New York Post"
+      },
+      "description": "We need some claw and order....",
+      "url": "https://nypost.com/2026/08/28/lifestyle/er-docs-say-claw-clip-is-a-death-trap/",
+      "publishedAt": "2026-08-28T17:57:00Z",
+      "processed_at": "2026-08-29T23:01:42.952740+00:00"
+    },
+    {
+      "title": "Apple One and Apple TV subscription prices increase by up to 20 percent - Ars Technica",
+      "source": {
+        "name": "Ars Technica"
+      },
+      "description": "Annual Apple TV subscriptions get the biggest bump....",
+      "url": "https://arstechnica.com/gadgets/2026/08/apple-one-and-apple-tv-subscription-prices-increase-by-up-to-20-percent/",
+      "publishedAt": "2026-08-28T17:23:53Z",
+      "processed_at": "2026-08-29T23:01:42.952740+00:00"
+    },
     {
       "title": "DLSS 5 leaked and modders are putting Nvidia’s AI effects on everything - The Verge",
       "source": {
@@ -10,17 +30,7 @@
       "description": "Modders are applying an unofficial version of Nvidia’s DLSS 5 to a bunch of different games after co...",
       "url": "https://www.theverge.com/games/986197/nvidia-dlss-5-leak-ai",
       "publishedAt": "2026-08-28T16:22:16Z",
-      "processed_at": "2026-08-29T20:32:41.444738+00:00"
-    },
-    {
-      "title": "Xbox Anniversary Consoles Sell for Thousands on eBay as Scalpers Cash In on X25 - IGN",
-      "source": {
-        "name": "IGN"
-      },
-      "description": "The Xbox Series X25 anniversary console is officially up for pre-order, so you know what that means:...",
-      "url": "https://www.ign.com/articles/xbox-anniversary-consoles-sell-for-thousands-on-ebay-as-scalpers-cash-in-on-x25",
-      "publishedAt": "2026-08-28T16:13:08Z",
-      "processed_at": "2026-08-29T20:32:41.444738+00:00"
+      "processed_at": "2026-08-29T23:01:42.952740+00:00"
     },
     {
       "title": "Indie Dev Releases Tearful Message After Multiple Laptops Are Stolen At Gamescom - Kotaku",
@@ -30,27 +40,7 @@
       "description": "The creator of the forthcoming Mimic and others had equipment taken from booths overnight...",
       "url": "https://kotaku.com/indie-dev-releases-tearful-message-after-multiple-laptops-are-stolen-at-gamescom-2000729338",
       "publishedAt": "2026-08-28T16:00:28Z",
-      "processed_at": "2026-08-29T20:32:41.444738+00:00"
-    },
-    {
-      "title": "iPhone 18 Pro Pre-Orders May Start at an Unusual Time - MacRumors",
-      "source": {
-        "name": "MacRumors"
-      },
-      "description": "Pre-orders of Apple's iPhone 18 Pro may not open until Saturday, September 12, a day later than the ...",
-      "url": "https://www.macrumors.com/2026/08/28/iphone-18-pro-pre-orders-may-start-at-unusual-time/",
-      "publishedAt": "2026-08-28T15:17:18Z",
-      "processed_at": "2026-08-29T20:32:41.444738+00:00"
-    },
-    {
-      "title": "Apple’s new M6 adds feature previously exclusive to high-end chips - 9to5Mac",
-      "source": {
-        "name": "9to5Mac"
-      },
-      "description": "Apple’s M6 chip adds a new feature previously exclusive to higher-end chips like the M5 Pro, Max, an...",
-      "url": "https://9to5mac.com/2026/08/28/apples-new-m6-adds-feature-previously-exclusive-to-high-end-chips/",
-      "publishedAt": "2026-08-28T15:07:00Z",
-      "processed_at": "2026-08-29T20:32:41.444738+00:00"
+      "processed_at": "2026-08-29T23:01:42.952740+00:00"
     },
     {
       "title": "Dev Calls Steam Branding His Adventure Game Porn 'Humiliating' - Kotaku",
@@ -60,7 +50,7 @@
       "description": "Valve's decision to slap the PEGI 12-rated indie game Future? No Thanks! with an adults-only rating ...",
       "url": "https://kotaku.com/steams-decision-to-brand-his-open-world-adventure-about-a-cranky-old-boomer-pornography-is-humiliating-and-surreal-developer-says-2000729298",
       "publishedAt": "2026-08-28T14:40:45Z",
-      "processed_at": "2026-08-29T20:32:41.444738+00:00"
+      "processed_at": "2026-08-29T23:01:42.952740+00:00"
     },
     {
       "title": "Footage of new Iron Man game from EA Motive appears to leak, showing blistering speed and freedom, as MIA superhero game finally reappears - Eurogamer.net",
@@ -70,7 +60,7 @@
       "description": "The Iron Man game EA announced four years ago finally reappears, albeit in a leaked gameplay video....",
       "url": "https://www.eurogamer.net/ea-motive-iron-man-gameplay-footage-leak",
       "publishedAt": "2026-08-28T14:31:10Z",
-      "processed_at": "2026-08-29T20:32:41.444738+00:00"
+      "processed_at": "2026-08-29T23:01:42.952740+00:00"
     },
     {
       "title": "Why do people get so weird about Grand Theft Auto? - A.V. Club",
@@ -80,20 +70,20 @@
       "description": "Why do people get so weird about Grand Theft Auto?...",
       "url": "https://www.avclub.com/game-theory-grand-theft-auto-vi",
       "publishedAt": "2026-08-28T14:09:57Z",
-      "processed_at": "2026-08-29T20:32:41.444738+00:00"
+      "processed_at": "2026-08-29T23:01:42.952740+00:00"
     },
     {
-      "title": "Apple TV Hikes Prices as Streaming Inflation Continues - The Hollywood Reporter",
+      "title": "iPhone 18 Pro pre-orders could kick off slightly later than usual - 9to5Mac",
       "source": {
-        "name": "Hollywood Reporter"
+        "name": "9to5Mac"
       },
-      "description": "The streaming service now costs $14.99 per month, with Apple One rising to $21.95 per month....",
-      "url": "http://www.hollywoodreporter.com/tv/tv-news/apple-tv-price-hike-streaming-plans-monthly-annual-1236684161/",
-      "publishedAt": "2026-08-28T13:23:54Z",
-      "processed_at": "2026-08-29T20:32:41.444738+00:00"
+      "description": "iPhone 18 Pro will be unveiled on September 9, and a new report says pre-orders for the device will ...",
+      "url": "https://9to5mac.com/2026/08/28/iphone-18-pro-pre-orders-could-kick-off-slightly-later-than-usual/",
+      "publishedAt": "2026-08-28T13:45:00Z",
+      "processed_at": "2026-08-29T23:01:42.952740+00:00"
     }
   ],
-  "lastUpdated": "2026-08-29T20:32:41.444806+00:00",
+  "lastUpdated": "2026-08-29T23:01:42.952793+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
