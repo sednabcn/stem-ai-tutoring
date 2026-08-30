@@ -1,7 +1,47 @@
 {
   "status": "success",
-  "totalResults": 9,
+  "totalResults": 7,
   "articles": [
+    {
+      "title": "‘Force Restart’—Microsoft Changes Windows Update Next Month - Forbes",
+      "source": {
+        "name": "Forbes"
+      },
+      "description": "Your Windows PC will force restart in September — here's why....",
+      "url": "https://www.forbes.com/sites/zakdoffman/2026/08/29/force-restart-microsoft-changes-windows-update-next-month/",
+      "publishedAt": "2026-08-29T06:59:40Z",
+      "processed_at": "2026-08-30T15:11:51.590813+00:00"
+    },
+    {
+      "title": "PlayStation Plus Monthly Games Locked In For September 2026 - The Otaku's Study",
+      "source": {
+        "name": "Otakustudy.com"
+      },
+      "description": "",
+      "url": "https://www.otakustudy.com/video-game/2026/08/playstation-plus-monthly-games-locked-in-for-september-2026/",
+      "publishedAt": "2026-08-29T06:17:37Z",
+      "processed_at": "2026-08-30T15:11:51.590813+00:00"
+    },
+    {
+      "title": "All iRacing content will be available in career mode at ‘zero extra cost’ - Traxion.GG",
+      "source": {
+        "name": "Traxion.gg"
+      },
+      "description": "All content will be available in iRacing's career mode at ‘zero extra cost’, according to Senior Vic...",
+      "url": "https://traxion.gg/all-iracing-content-will-be-available-in-career-mode-at-zero-extra-cost/",
+      "publishedAt": "2026-08-28T23:58:19Z",
+      "processed_at": "2026-08-30T15:11:51.590813+00:00"
+    },
+    {
+      "title": "Google further buries search results under AI mode - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "Google Search now automatically expands AI Overviews at the top of the results page for some searche...",
+      "url": "https://www.theverge.com/tech/986364/google-search-ai-overviews-auto-expand",
+      "publishedAt": "2026-08-28T22:48:11Z",
+      "processed_at": "2026-08-30T15:11:51.590813+00:00"
+    },
     {
       "title": "Fatal Fury: City of the Wolves is free to play for the weekend though only on one platform, Standard Edition on sale for just $10 - EventHubs",
       "source": {
@@ -10,7 +50,7 @@
       "description": "Duck King just launched as the second DLC character of Fatal Fury: City of the Wolves Season 3, and ...",
       "url": "https://www.eventhubs.com/news/2026/aug/28/fatal-fury-free-sale/",
       "publishedAt": "2026-08-28T22:29:02Z",
-      "processed_at": "2026-08-30T10:18:18.405256+00:00"
+      "processed_at": "2026-08-30T15:11:51.590813+00:00"
     },
     {
       "title": "Xbox CEO calls Project Helix a ‘family of devices’ - The Verge",
@@ -20,7 +60,7 @@
       "description": "Xbox CEO Asha Sharma tells BBC News that Project Helix will be a “family of devices.”...",
       "url": "https://www.theverge.com/games/986337/xbox-ceo-asha-sharma-project-helix-family-of-devices",
       "publishedAt": "2026-08-28T22:03:13Z",
-      "processed_at": "2026-08-30T10:18:18.405256+00:00"
+      "processed_at": "2026-08-30T15:11:51.590813+00:00"
     },
     {
       "title": "Android 17 QPR2 Beta 4 rolling out with many Pixel bug fixes - 9to5Google",
@@ -30,70 +70,10 @@
       "description": "Following the big release two weeks ago, Google is rolling out Android 17 QPR2 Beta 4 for Pixel devi...",
       "url": "http://9to5google.com/2026/08/28/android-17-qpr2-beta-4-pixel/",
       "publishedAt": "2026-08-28T21:53:00Z",
-      "processed_at": "2026-08-30T10:18:18.405256+00:00"
-    },
-    {
-      "title": "For The First Time In 25+ Years, GTA 6 Will Make Stealing Cars Hard - Kotaku",
-      "source": {
-        "name": "Kotaku"
-      },
-      "description": "Committing grand theft auto in Grand Theft Auto 6 will be much more challenging and rewarding...",
-      "url": "https://kotaku.com/for-the-first-time-in-25-years-gta-6-will-make-stealing-cars-hard-2000729419",
-      "publishedAt": "2026-08-28T19:31:12Z",
-      "processed_at": "2026-08-30T10:18:18.405256+00:00"
-    },
-    {
-      "title": "Game Developers Devastated By Gamescom Laptop Theft Spree - Aftermath",
-      "source": {
-        "name": "Aftermath.site"
-      },
-      "description": "Multiple developers had laptops stolen Thursday night...",
-      "url": "https://aftermath.site/gamescom-laptop-theft-spree-iam8bit-mimic/",
-      "publishedAt": "2026-08-28T18:29:15Z",
-      "processed_at": "2026-08-30T10:18:18.405256+00:00"
-    },
-    {
-      "title": "Samsung Galaxy S26 series receives seventh One UI 9 beta with Galaxy Z Fold8 series' features - GSMArena.com news - GSMArena.com",
-      "source": {
-        "name": "GSMArena.com"
-      },
-      "description": "This was a surprise, as the sixth beta was released just a few days ago. Samsung released the sixth ...",
-      "url": "https://www.gsmarena.com/samsung_galaxy_s26_series_one_ui_9_beta_7_update-news-74387.php",
-      "publishedAt": "2026-08-28T17:47:02Z",
-      "processed_at": "2026-08-30T10:18:18.405256+00:00"
-    },
-    {
-      "title": "Turn-Based-Tactics Fans Are Suddenly Eating Very Well - GameSpot",
-      "source": {
-        "name": "GameSpot"
-      },
-      "description": "Enjoying Star Wars Zero Company? There are some other impressive-looking turn-based games coming soo...",
-      "url": "https://www.gamespot.com/articles/turn-based-tactics-fans-are-suddenly-eating-very-well/",
-      "publishedAt": "2026-08-28T17:26:41Z",
-      "processed_at": "2026-08-30T10:18:18.405256+00:00"
-    },
-    {
-      "title": "Apple One and Apple TV subscription prices increase by up to 20 percent - Ars Technica",
-      "source": {
-        "name": "Ars Technica"
-      },
-      "description": "Annual Apple TV subscriptions get the biggest bump....",
-      "url": "https://arstechnica.com/gadgets/2026/08/apple-one-and-apple-tv-subscription-prices-increase-by-up-to-20-percent/",
-      "publishedAt": "2026-08-28T17:23:53Z",
-      "processed_at": "2026-08-30T10:18:18.405256+00:00"
-    },
-    {
-      "title": "DLSS 5 Patched to Work on RTX 4000 \"Ada Lovelace\" GPUs Despite No Official Support - TechPowerUp",
-      "source": {
-        "name": "Techpowerup.com"
-      },
-      "description": "The modding community has been hard at work ever since the untimely release of DLSS-NR, a precursor ...",
-      "url": "https://www.techpowerup.com/352086/dlss-5-patched-to-work-on-rtx-4000-ada-lovelace-gpus-despite-no-official-support",
-      "publishedAt": "2026-08-28T17:22:12Z",
-      "processed_at": "2026-08-30T10:18:18.405256+00:00"
+      "processed_at": "2026-08-30T15:11:51.590813+00:00"
     }
   ],
-  "lastUpdated": "2026-08-30T10:18:18.405326+00:00",
+  "lastUpdated": "2026-08-30T15:11:51.590860+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
