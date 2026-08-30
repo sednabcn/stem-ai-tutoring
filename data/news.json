@@ -1,7 +1,57 @@
 {
   "status": "success",
-  "totalResults": 8,
+  "totalResults": 9,
   "articles": [
+    {
+      "title": "Apple implements price hikes for its TV streaming service and 'One' subscription bundle - Fox Business",
+      "source": {
+        "name": "Fox Business"
+      },
+      "description": "Apple TV now costs $14.99 per month after a $2 streaming price increase, while the Apple One bundle ...",
+      "url": "https://www.foxbusiness.com/technology/apple-implements-price-hikes-tv-streaming-service-one-subscription-bundle",
+      "publishedAt": "2026-08-29T02:09:00Z",
+      "processed_at": "2026-08-30T04:10:55.936052+00:00"
+    },
+    {
+      "title": "Xbox CEO calls Project Helix a ‘family of devices’ - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "Xbox CEO Asha Sharma tells BBC News that Project Helix will be a “family of devices.”...",
+      "url": "https://www.theverge.com/games/986337/xbox-ceo-asha-sharma-project-helix-family-of-devices",
+      "publishedAt": "2026-08-28T22:03:13Z",
+      "processed_at": "2026-08-30T04:10:55.936052+00:00"
+    },
+    {
+      "title": "Android 17 QPR2 Beta 4 rolling out with many Pixel bug fixes - 9to5Google",
+      "source": {
+        "name": "9to5google.com"
+      },
+      "description": "Following the big release two weeks ago, Google is rolling out Android 17 QPR2 Beta 4 for Pixel devi...",
+      "url": "http://9to5google.com/2026/08/28/android-17-qpr2-beta-4-pixel/",
+      "publishedAt": "2026-08-28T21:53:00Z",
+      "processed_at": "2026-08-30T04:10:55.936052+00:00"
+    },
+    {
+      "title": "Steve Jobs' 8th Grade Science Project Sells for $34,375 - MacRumors",
+      "source": {
+        "name": "MacRumors"
+      },
+      "description": "A science project that Apple co-founder Steve Jobs built for his 8th-grade science fair sold at auct...",
+      "url": "https://www.macrumors.com/2026/08/28/steve-jobs-science-project-auction/",
+      "publishedAt": "2026-08-28T19:24:32Z",
+      "processed_at": "2026-08-30T04:10:55.936052+00:00"
+    },
+    {
+      "title": "Game Developers Devastated By Gamescom Laptop Theft Spree - Aftermath",
+      "source": {
+        "name": "Aftermath.site"
+      },
+      "description": "Multiple developers had laptops stolen Thursday night...",
+      "url": "https://aftermath.site/gamescom-laptop-theft-spree-iam8bit-mimic/",
+      "publishedAt": "2026-08-28T18:29:15Z",
+      "processed_at": "2026-08-30T04:10:55.936052+00:00"
+    },
     {
       "title": "ER doctors say popular hair accessory is a death trap: ‘They get embedded in your skull’ - New York Post",
       "source": {
@@ -10,17 +60,27 @@
       "description": "We need some claw and order....",
       "url": "https://nypost.com/2026/08/28/lifestyle/er-docs-say-claw-clip-is-a-death-trap/",
       "publishedAt": "2026-08-28T17:57:00Z",
-      "processed_at": "2026-08-29T23:01:42.952740+00:00"
+      "processed_at": "2026-08-30T04:10:55.936052+00:00"
     },
     {
-      "title": "Apple One and Apple TV subscription prices increase by up to 20 percent - Ars Technica",
+      "title": "Samsung Galaxy S26 series receives seventh One UI 9 beta with Galaxy Z Fold8 series' features - GSMArena.com news - GSMArena.com",
       "source": {
-        "name": "Ars Technica"
+        "name": "GSMArena.com"
       },
-      "description": "Annual Apple TV subscriptions get the biggest bump....",
-      "url": "https://arstechnica.com/gadgets/2026/08/apple-one-and-apple-tv-subscription-prices-increase-by-up-to-20-percent/",
-      "publishedAt": "2026-08-28T17:23:53Z",
-      "processed_at": "2026-08-29T23:01:42.952740+00:00"
+      "description": "This was a surprise, as the sixth beta was released just a few days ago. Samsung released the sixth ...",
+      "url": "https://www.gsmarena.com/samsung_galaxy_s26_series_one_ui_9_beta_7_update-news-74387.php",
+      "publishedAt": "2026-08-28T17:47:02Z",
+      "processed_at": "2026-08-30T04:10:55.936052+00:00"
+    },
+    {
+      "title": "Here’s Your New Trade-in Values Towards the Pixel 11 Series - Droid Life",
+      "source": {
+        "name": "Droid Life"
+      },
+      "description": "If you didn't buy a Pixel 11 series phone before today, you missed out on the higher trade-in values...",
+      "url": "https://www.droid-life.com/2026/08/28/new-trade-in-values-towards-pixel-11-series/",
+      "publishedAt": "2026-08-28T17:01:13Z",
+      "processed_at": "2026-08-30T04:10:55.936052+00:00"
     },
     {
       "title": "DLSS 5 leaked and modders are putting Nvidia’s AI effects on everything - The Verge",
@@ -30,60 +90,10 @@
       "description": "Modders are applying an unofficial version of Nvidia’s DLSS 5 to a bunch of different games after co...",
       "url": "https://www.theverge.com/games/986197/nvidia-dlss-5-leak-ai",
       "publishedAt": "2026-08-28T16:22:16Z",
-      "processed_at": "2026-08-29T23:01:42.952740+00:00"
-    },
-    {
-      "title": "Indie Dev Releases Tearful Message After Multiple Laptops Are Stolen At Gamescom - Kotaku",
-      "source": {
-        "name": "Kotaku"
-      },
-      "description": "The creator of the forthcoming Mimic and others had equipment taken from booths overnight...",
-      "url": "https://kotaku.com/indie-dev-releases-tearful-message-after-multiple-laptops-are-stolen-at-gamescom-2000729338",
-      "publishedAt": "2026-08-28T16:00:28Z",
-      "processed_at": "2026-08-29T23:01:42.952740+00:00"
-    },
-    {
-      "title": "Dev Calls Steam Branding His Adventure Game Porn 'Humiliating' - Kotaku",
-      "source": {
-        "name": "Kotaku"
-      },
-      "description": "Valve's decision to slap the PEGI 12-rated indie game Future? No Thanks! with an adults-only rating ...",
-      "url": "https://kotaku.com/steams-decision-to-brand-his-open-world-adventure-about-a-cranky-old-boomer-pornography-is-humiliating-and-surreal-developer-says-2000729298",
-      "publishedAt": "2026-08-28T14:40:45Z",
-      "processed_at": "2026-08-29T23:01:42.952740+00:00"
-    },
-    {
-      "title": "Footage of new Iron Man game from EA Motive appears to leak, showing blistering speed and freedom, as MIA superhero game finally reappears - Eurogamer.net",
-      "source": {
-        "name": "Eurogamer.net"
-      },
-      "description": "The Iron Man game EA announced four years ago finally reappears, albeit in a leaked gameplay video....",
-      "url": "https://www.eurogamer.net/ea-motive-iron-man-gameplay-footage-leak",
-      "publishedAt": "2026-08-28T14:31:10Z",
-      "processed_at": "2026-08-29T23:01:42.952740+00:00"
-    },
-    {
-      "title": "Why do people get so weird about Grand Theft Auto? - A.V. Club",
-      "source": {
-        "name": "The A.V. Club"
-      },
-      "description": "Why do people get so weird about Grand Theft Auto?...",
-      "url": "https://www.avclub.com/game-theory-grand-theft-auto-vi",
-      "publishedAt": "2026-08-28T14:09:57Z",
-      "processed_at": "2026-08-29T23:01:42.952740+00:00"
-    },
-    {
-      "title": "iPhone 18 Pro pre-orders could kick off slightly later than usual - 9to5Mac",
-      "source": {
-        "name": "9to5Mac"
-      },
-      "description": "iPhone 18 Pro will be unveiled on September 9, and a new report says pre-orders for the device will ...",
-      "url": "https://9to5mac.com/2026/08/28/iphone-18-pro-pre-orders-could-kick-off-slightly-later-than-usual/",
-      "publishedAt": "2026-08-28T13:45:00Z",
-      "processed_at": "2026-08-29T23:01:42.952740+00:00"
+      "processed_at": "2026-08-30T04:10:55.936052+00:00"
     }
   ],
-  "lastUpdated": "2026-08-29T23:01:42.952793+00:00",
+  "lastUpdated": "2026-08-30T04:10:55.936115+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
