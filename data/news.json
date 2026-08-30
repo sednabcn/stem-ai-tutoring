@@ -1,7 +1,57 @@
 {
   "status": "success",
-  "totalResults": 7,
+  "totalResults": 9,
   "articles": [
+    {
+      "title": "'This Looks Like Dogsh*t': Disturbing DLSS 5 AI Filter Applied to Major PS5 Games After Leaking - Push Square",
+      "source": {
+        "name": "Push Square"
+      },
+      "description": "AI don't really like it...",
+      "url": "https://www.pushsquare.com/news/2026/08/this-looks-like-dogsht-disturbing-dlss-5-ai-filter-applied-to-major-ps5-games-after-leaking",
+      "publishedAt": "2026-08-29T19:00:00Z",
+      "processed_at": "2026-08-30T22:28:10.749146+00:00"
+    },
+    {
+      "title": "“We’re aware,” Microsoft on Windows 11 KB5120998 breaking the mouse cursor - Windows Latest",
+      "source": {
+        "name": "WindowsLatest"
+      },
+      "description": "Windows 11's biggest update KB 5120998 is breaking mouse cursors, Microsoft admits the issue, and co...",
+      "url": "https://www.windowslatest.com/2026/08/29/were-aware-microsoft-on-windows-11-kb5120998-breaking-the-mouse-cursor/",
+      "publishedAt": "2026-08-29T17:40:32Z",
+      "processed_at": "2026-08-30T22:28:10.749146+00:00"
+    },
+    {
+      "title": "State of Decay 3 Hands-On: This Could Be the Punchier, Deeper Entry the Zombie Survival Series Needs - IGN",
+      "source": {
+        "name": "IGN"
+      },
+      "description": "State of Decay 3 seems to be showing promise after playing an action-packed 30 minutes of an early a...",
+      "url": "https://www.ign.com/articles/we-played-state-of-decay-3-and-its-in-good-shape-despite-the-xbox-upheaval",
+      "publishedAt": "2026-08-29T15:58:06Z",
+      "processed_at": "2026-08-30T22:28:10.749146+00:00"
+    },
+    {
+      "title": "Apple's iOS 27 and Siri AI are coming soon: Everything we know so far - Mashable",
+      "source": {
+        "name": "Mashable"
+      },
+      "description": "Bonus: Learn about the best iOS 27 features you need to try out ASAP....",
+      "url": "https://mashable.com/tech/apple-iphone-ios-27-everything-we-know",
+      "publishedAt": "2026-08-29T15:37:44Z",
+      "processed_at": "2026-08-30T22:28:10.749146+00:00"
+    },
+    {
+      "title": "Apple will be launching its first pair of smart glasses next year: Here’s what’s coming - 9to5Mac",
+      "source": {
+        "name": "9to5Mac"
+      },
+      "description": "As soon as next year, Apple will be debuting its first pair of AI-powered smart glasses. They’ll int...",
+      "url": "https://9to5mac.com/2026/08/29/apple-first-ai-smart-glasses-feature-release-date-roundup/",
+      "publishedAt": "2026-08-29T14:48:00Z",
+      "processed_at": "2026-08-30T22:28:10.749146+00:00"
+    },
     {
       "title": "The ‘Iron Man’ Game Lives, And Its First Look Leaked - Gizmodo",
       "source": {
@@ -10,70 +60,40 @@
       "description": "If you've spent years holding out hope for Motive's 'Iron Man' game, you can apparently stay in line...",
       "url": "https://gizmodo.com/the-iron-man-game-lives-and-its-first-look-leaked-2000804575",
       "publishedAt": "2026-08-29T14:30:44Z",
-      "processed_at": "2026-08-30T19:05:41.191513+00:00"
+      "processed_at": "2026-08-30T22:28:10.749146+00:00"
     },
     {
-      "title": "The Galaxy Z Flip 8 is at its best when there’s friction - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "The Samsung Galaxy Z Flip 8’s cover screen feels more like a phone than ever, but the limitations ar...",
-      "url": "https://www.theverge.com/tech/986033/samsung-galaxy-z-flip-8-review",
-      "publishedAt": "2026-08-29T13:00:00Z",
-      "processed_at": "2026-08-30T19:05:41.191513+00:00"
-    },
-    {
-      "title": "Total War: Warhammer 40,000 is aiming to be the \"definitive\" game for the setting, and I think it might be exactly that - Eurogamer.net",
+      "title": "GTA 6's gameplay reveal broke a streaming record, and also broke Twitch and Netflix - Eurogamer.net",
       "source": {
         "name": "Eurogamer.net"
       },
-      "description": "Total War: Warhammer 40,000 was playable at Gamescom this year, a game that Creative Assembly hopes ...",
-      "url": "https://www.eurogamer.net/total-war-warhammer-40000-impressions-gamescom",
-      "publishedAt": "2026-08-29T09:01:15Z",
-      "processed_at": "2026-08-30T19:05:41.191513+00:00"
+      "description": "GTA 6's first gameplay reveal drew more than 3.97 million peak viewers across platforms, according t...",
+      "url": "https://www.eurogamer.net/gta-6-gameplay-reveal-streaming-viewership-record-twitch-netflix",
+      "publishedAt": "2026-08-29T14:25:56Z",
+      "processed_at": "2026-08-30T22:28:10.749146+00:00"
     },
     {
-      "title": "‘Force Restart’—Microsoft Changes Windows Update Next Month - Forbes",
+      "title": "Why Rockstar Has Said Nothing About ‘GTA 6 Online’ So Far - Forbes",
       "source": {
         "name": "Forbes"
       },
-      "description": "Your Windows PC will force restart in September — here's why....",
-      "url": "https://www.forbes.com/sites/zakdoffman/2026/08/29/force-restart-microsoft-changes-windows-update-next-month/",
-      "publishedAt": "2026-08-29T06:59:40Z",
-      "processed_at": "2026-08-30T19:05:41.191513+00:00"
+      "description": "Rockstar has now opened the doors to \"Grand Theft Auto 6\" previews, but they have not and wil not ta...",
+      "url": "https://www.forbes.com/sites/paultassi/2026/08/29/why-rockstar-has-said-nothing-about-gta-6-online-so-far/",
+      "publishedAt": "2026-08-29T14:18:35Z",
+      "processed_at": "2026-08-30T22:28:10.749146+00:00"
     },
     {
-      "title": "PlayStation Plus Monthly Games Locked In For September 2026 - The Otaku's Study",
+      "title": "Gamescom's Response To Stolen Laptops Gets Community Noted - Kotaku",
       "source": {
-        "name": "Otakustudy.com"
+        "name": "Kotaku"
       },
-      "description": "",
-      "url": "https://www.otakustudy.com/video-game/2026/08/playstation-plus-monthly-games-locked-in-for-september-2026/",
-      "publishedAt": "2026-08-29T06:17:37Z",
-      "processed_at": "2026-08-30T19:05:41.191513+00:00"
-    },
-    {
-      "title": "All iRacing content will be available in career mode at ‘zero extra cost’ - Traxion.GG",
-      "source": {
-        "name": "Traxion.gg"
-      },
-      "description": "All content will be available in iRacing's career mode at ‘zero extra cost’, according to Senior Vic...",
-      "url": "https://traxion.gg/all-iracing-content-will-be-available-in-career-mode-at-zero-extra-cost/",
-      "publishedAt": "2026-08-28T23:58:19Z",
-      "processed_at": "2026-08-30T19:05:41.191513+00:00"
-    },
-    {
-      "title": "Indie Dev Posts Video Reporting Stolen Laptops at gamescom as CD Projekt Red and More Step in to Help - IGN",
-      "source": {
-        "name": "IGN"
-      },
-      "description": "Ryan Laley, the solo indie developer behind upcoming asymmetrical horror game Mimic, has shared a vi...",
-      "url": "https://www.ign.com/articles/indie-dev-posts-video-reporting-stolen-laptops-at-gamescom-as-cd-projekt-red-and-more-step-in-to-help",
-      "publishedAt": "2026-08-28T22:48:40Z",
-      "processed_at": "2026-08-30T19:05:41.191513+00:00"
+      "description": "Gamescom's official statement noted that while they treat the theft 'very seriously and understand t...",
+      "url": "https://kotaku.com/gamescom-says-stolen-laptops-make-us-very-sad-but-says-exhibitors-have-to-protect-against-theft-this-is-noted-in-the-terms-and-conditions-2000729563",
+      "publishedAt": "2026-08-29T13:39:18Z",
+      "processed_at": "2026-08-30T22:28:10.749146+00:00"
     }
   ],
-  "lastUpdated": "2026-08-30T19:05:41.191589+00:00",
+  "lastUpdated": "2026-08-30T22:28:10.749210+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
