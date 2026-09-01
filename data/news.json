@@ -1,99 +1,109 @@
 {
   "status": "success",
-  "totalResults": 9,
+  "totalResults": 10,
   "articles": [
     {
-      "title": "Fake Chrome update scam could infect your computer - Fox News",
+      "title": "Microsoft Outlook and OpenAI's ChatGPT Work are experiencing user outages - CNBC",
       "source": {
-        "name": "Fox News"
+        "name": "CNBC"
       },
-      "description": "A Chrome extension with 70,000 users and a 4.7-star rating began injecting fake update warnings afte...",
-      "url": "https://www.foxnews.com/tech/fake-chrome-update-scam-infect-computer",
-      "publishedAt": "2026-08-31T16:00:19Z",
-      "processed_at": "2026-09-01T17:39:42.154105+00:00"
+      "description": "OpenAI's ChatGPT Work offering was down for some users on Monday, and Microsoft said it was having i...",
+      "url": "https://www.cnbc.com/2026/08/31/microsoft-outlook-and-openais-chatgpt-work-experience-outages-.html",
+      "publishedAt": "2026-08-31T19:30:10Z",
+      "processed_at": "2026-09-01T20:41:16.885441+00:00"
     },
     {
-      "title": "Stellar Blade dev confirms Nintendo Switch 2 frame rate and resolution, explains how DLSS is being used - Nintendo Everything",
-      "source": {
-        "name": "Nintendoeverything.com"
-      },
-      "description": "Shift Up has shared new information about the Nintendo Switch 2 port of Stellar Blade, including inf...",
-      "url": "https://nintendoeverything.com/stellar-blade-dev-confirms-nintendo-switch-2-frame-rate-resolution-explains-how-dlss-is-being-used/",
-      "publishedAt": "2026-08-31T15:11:38Z",
-      "processed_at": "2026-09-01T17:39:42.154105+00:00"
-    },
-    {
-      "title": "Onimusha: Way of the Sword Review: Excellent Action With Some - Game Informer",
-      "source": {
-        "name": "Gameinformer.com"
-      },
-      "description": "Onimusha: Way of the Sword (PC) Review – 8/10: Onimusha: Way of the Sword is a challenging and compl...",
-      "url": "https://gameinformer.com/review/onimusha-way-of-the-sword/excellent-action-with-some-aging-elements",
-      "publishedAt": "2026-08-31T15:00:00Z",
-      "processed_at": "2026-09-01T17:39:42.154105+00:00"
-    },
-    {
-      "title": "iPhone 18 Pro is coming: Here’s what’s new with each model - 9to5Mac",
+      "title": "iPhone Ultra release timing: Here’s what the latest reporting says - 9to5Mac",
       "source": {
         "name": "9to5Mac"
       },
-      "description": "iPhone 18 Pro will be unveiled next week, with new Pro and Pro Max models debuting. Here’s what rumo...",
-      "url": "https://9to5mac.com/2026/08/31/iphone-18-pro-is-coming-heres-whats-new-with-each-model/",
-      "publishedAt": "2026-08-31T14:06:00Z",
-      "processed_at": "2026-09-01T17:39:42.154105+00:00"
+      "description": "Apple will unveil its foldable iPhone Ultra next week at the September event, here’s what to expect ...",
+      "url": "https://9to5mac.com/2026/08/31/iphone-ultra-release-timing-heres-what-the-latest-reporting-says/",
+      "publishedAt": "2026-08-31T18:55:00Z",
+      "processed_at": "2026-09-01T20:41:16.885441+00:00"
     },
     {
-      "title": "The Blood of Dawnwalker: Benchmarks of Graphics Cards and Processors - GameGPU",
+      "title": "Apple Seemingly Made a Mistake When Announcing the New Mac Studio - MacRumors",
       "source": {
-        "name": "Gamegpu.com"
+        "name": "MacRumors"
       },
-      "description": "We completed large-scale benchmarks The Blood of Dawnwalker + GPU from RTX 3060 to RTX 5090 and RX 6...",
-      "url": "https://en.gamegpu.com/test-gpu/action-fps-tps/the-blood-of-dawnwalker-benchmarki-videokart-i-protsessorov-na-pk",
-      "publishedAt": "2026-08-31T14:00:00Z",
-      "processed_at": "2026-09-01T17:39:42.154105+00:00"
+      "description": "Apple's press release for the new Mac Studio with M5 Max and M5 Ultra chips last week initially stat...",
+      "url": "https://www.macrumors.com/2026/08/31/apple-edits-mac-studio-press-release/",
+      "publishedAt": "2026-08-31T18:19:11Z",
+      "processed_at": "2026-09-01T20:41:16.885441+00:00"
     },
     {
-      "title": "Sony Says It No Longer Needs To 'Aggressively Sell' The PS5 - Kotaku",
+      "title": "'Don't Let Your Husband Play GTA 6' - Angry Spouses Are Threatening to Break Up With Their Partners If They Play GTA 6 - IGN",
+      "source": {
+        "name": "IGN"
+      },
+      "description": "A bunch of angry spouses on social media believe that Grand Theft Auto 6's in-depth relationship mec...",
+      "url": "https://www.ign.com/articles/gta-6s-relationship-mechanic-is-cheating-on-your-real-life-partner-and-break-up-worthy-according-to-angry-spouses",
+      "publishedAt": "2026-08-31T17:55:43Z",
+      "processed_at": "2026-09-01T20:41:16.885441+00:00"
+    },
+    {
+      "title": "Apple Watch will reportedly get a big redesign, but not this year - Mashable",
+      "source": {
+        "name": "Mashable"
+      },
+      "description": "The changes on this year's Watch devices will reportedly be minor and cosmetic....",
+      "url": "https://mashable.com/tech/apple-watch-series-12-rumors-upgrades",
+      "publishedAt": "2026-08-31T17:42:41Z",
+      "processed_at": "2026-09-01T20:41:16.885441+00:00"
+    },
+    {
+      "title": "AC Black Flag Resynced Update 1.0.7 Live Tomorrow on PS5, Get the Patch Notes Here - Push Square",
+      "source": {
+        "name": "Push Square"
+      },
+      "description": "Visual effects changed and a new pet for the Hideout...",
+      "url": "https://www.pushsquare.com/news/2026/08/ac-black-flag-resynced-update-1-0-7-live-tomorrow-on-ps5-get-the-patch-notes-here",
+      "publishedAt": "2026-08-31T17:30:00Z",
+      "processed_at": "2026-09-01T20:41:16.885441+00:00"
+    },
+    {
+      "title": "Apple Seeds Eighth iOS 27 and iPadOS 27 Betas to Developers - MacRumors",
+      "source": {
+        "name": "MacRumors"
+      },
+      "description": "Apple today seeded the eighth betas of iOS 27 and iPadOS 27 to developers for testing purposes, with...",
+      "url": "https://www.macrumors.com/2026/08/31/apple-seeds-ios-27-beta-8/",
+      "publishedAt": "2026-08-31T17:13:17Z",
+      "processed_at": "2026-09-01T20:41:16.885441+00:00"
+    },
+    {
+      "title": "Microsoft Exchange Online outage causes email failures, auth issues - BleepingComputer",
+      "source": {
+        "name": "BleepingComputer"
+      },
+      "description": "Microsoft is investigating a widespread service issue causing authentication issues, email delays an...",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-online-outage-causes-email-failures-auth-issues/",
+      "publishedAt": "2026-08-31T16:56:57Z",
+      "processed_at": "2026-09-01T20:41:16.885441+00:00"
+    },
+    {
+      "title": "Intergalactic: The Heretic Prophet Has Finished Shooting its Performance Capture, Confirms Naughty Dog - IGN",
+      "source": {
+        "name": "IGN"
+      },
+      "description": "",
+      "url": "https://www.ign.com/articles/intergalactic-the-heretic-prophet-has-finished-shooting-its-performance-capture-confirms-naughty-dog",
+      "publishedAt": "2026-08-31T16:53:40Z",
+      "processed_at": "2026-09-01T20:41:16.885441+00:00"
+    },
+    {
+      "title": "Fans Think Ubisoft Just Accidentally Revealed The Date Of The Next Nintendo Direct - Kotaku",
       "source": {
         "name": "Kotaku"
       },
-      "description": "125 million PS Plus users turns out to be enough...",
-      "url": "https://kotaku.com/sony-says-selling-more-ps5s-is-now-secondary-to-getting-its-players-to-spend-more-2000729852",
-      "publishedAt": "2026-08-31T13:53:13Z",
-      "processed_at": "2026-09-01T17:39:42.154105+00:00"
-    },
-    {
-      "title": "Housemarque co-founder Ilari Kuittinen steps down after 31 years - Gematsu",
-      "source": {
-        "name": "Gematsu"
-      },
-      "description": "",
-      "url": "https://www.gematsu.com/2026/08/housemarque-co-founder-ilari-kuittinen-steps-down-after-31-years",
-      "publishedAt": "2026-08-31T13:33:28Z",
-      "processed_at": "2026-09-01T17:39:42.154105+00:00"
-    },
-    {
-      "title": "Vitamin C 101: Dermatologist-Recommended Products From Cetaphil, Medicube, More - TODAY.com",
-      "source": {
-        "name": "TODAY"
-      },
-      "description": "Shop dermatologist- and editor-recommended vitamin C products for brightening dull skin from brands ...",
-      "url": "https://www.today.com/shop/vitamin-c-skin-care-products-2026-rcna594814",
-      "publishedAt": "2026-08-31T13:13:03Z",
-      "processed_at": "2026-09-01T17:39:42.154105+00:00"
-    },
-    {
-      "title": "Instagram cracks down on AI accounts pretending to be human - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "Instagram will hunt down AI-generated profiles pretending to be real humans and limit their reach if...",
-      "url": "https://www.theverge.com/tech/986593/instagram-addresses-fake-ai-profile-slop",
-      "publishedAt": "2026-08-31T13:00:00Z",
-      "processed_at": "2026-09-01T17:39:42.154105+00:00"
+      "description": "If true, I guess we already know one game we'll be seeing...",
+      "url": "https://kotaku.com/ubisoft-leaked-nintendo-direct-date-2000729913",
+      "publishedAt": "2026-08-31T16:20:56Z",
+      "processed_at": "2026-09-01T20:41:16.885441+00:00"
     }
   ],
-  "lastUpdated": "2026-09-01T17:39:42.154177+00:00",
+  "lastUpdated": "2026-09-01T20:41:16.885520+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
