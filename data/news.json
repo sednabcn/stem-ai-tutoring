@@ -1,7 +1,87 @@
 {
   "status": "success",
-  "totalResults": 8,
+  "totalResults": 9,
   "articles": [
+    {
+      "title": "State of Play Confirmed for 3rd September, State of Play Japan Show Straight After - Push Square",
+      "source": {
+        "name": "Push Square"
+      },
+      "description": "See a new look at Final Fantasy 7 Revelation...",
+      "url": "https://www.pushsquare.com/news/2026/08/state-of-play-confirmed-for-3rd-september-state-of-play-japan-show-straight-after",
+      "publishedAt": "2026-08-31T12:11:15Z",
+      "processed_at": "2026-09-01T13:11:19.488375+00:00"
+    },
+    {
+      "title": "September’s Miniature of the Month and Collectible Coin revealed - Warhammer Community",
+      "source": {
+        "name": "Warhammer-community.com"
+      },
+      "description": "See what you can get in your local Warhammer store in September....",
+      "url": "https://www.warhammer-community.com/articles/qgmvkomp/septembers-miniature-of-the-month-and-collectible-coin-revealed",
+      "publishedAt": "2026-08-31T11:58:25Z",
+      "processed_at": "2026-09-01T13:11:19.488375+00:00"
+    },
+    {
+      "title": "How long is Fable? - Eurogamer.net",
+      "source": {
+        "name": "Eurogamer.net"
+      },
+      "description": "Xbox has revealed how long Fable's main story will take to finish, and its life sim elements could s...",
+      "url": "https://www.eurogamer.net/fable-main-story-length-15-20-hours-xbox",
+      "publishedAt": "2026-08-31T11:05:50Z",
+      "processed_at": "2026-09-01T13:11:19.488375+00:00"
+    },
+    {
+      "title": "Amazon makes Alexa+ free on compatible Fire TVs - Fox News",
+      "source": {
+        "name": "Fox News"
+      },
+      "description": "Amazon's Alexa+ rolls out free to Fire TV devices across the U.S., but hands-free microphones and st...",
+      "url": "https://www.foxnews.com/tech/amazon-makes-alexa-free-compatible-fire-tvs",
+      "publishedAt": "2026-08-31T10:51:18Z",
+      "processed_at": "2026-09-01T13:11:19.488375+00:00"
+    },
+    {
+      "title": "The Witcher 4 already runs on all target platforms - CD Projekt Red not taking any chances after Cyberpunk 2077 - Eurogamer.net",
+      "source": {
+        "name": "Eurogamer.net"
+      },
+      "description": "CD Projekt Red has seemingly learned its lesson from Cyberpunk 2077, as the developer already has Th...",
+      "url": "https://www.eurogamer.net/the-witcher-4-runs-on-pc-ps5-xbox-cyberpunk-2077-lessons",
+      "publishedAt": "2026-08-31T10:10:17Z",
+      "processed_at": "2026-09-01T13:11:19.488375+00:00"
+    },
+    {
+      "title": "Pocket’s AI made my game ideas real. Now Meta controls the results. - Ars Technica",
+      "source": {
+        "name": "Ars Technica"
+      },
+      "description": "Interactive mobile \"gizmos\" are easy to make, hard to share outside Meta's platform....",
+      "url": "https://arstechnica.com/gaming/2026/08/pockets-ai-made-my-game-ideas-real-now-meta-controls-the-results/",
+      "publishedAt": "2026-08-31T10:00:34Z",
+      "processed_at": "2026-09-01T13:11:19.488375+00:00"
+    },
+    {
+      "title": "Apple Reportedly Considered Going Full Palm Pilot With Its Foldable iPhone - Gizmodo",
+      "source": {
+        "name": "Gizmodo.com"
+      },
+      "description": "Steve Jobs did not want the iPhone to be controlled with a stylus....",
+      "url": "https://gizmodo.com/apple-reportedly-considered-going-full-palm-pilot-with-its-foldable-iphone-2000804798",
+      "publishedAt": "2026-08-31T09:30:15Z",
+      "processed_at": "2026-09-01T13:11:19.488375+00:00"
+    },
+    {
+      "title": "Call of Duty: Modern Warfare 4 beta Steam numbers haven't budged in the second weekend, despite Warzone's arrival and transformative patch - Eurogamer.net",
+      "source": {
+        "name": "Eurogamer.net"
+      },
+      "description": "",
+      "url": "https://www.eurogamer.net/call-of-duty-modern-warfare-4-beta-second-weekend-major-patch-steam-numbers",
+      "publishedAt": "2026-08-31T08:35:55Z",
+      "processed_at": "2026-09-01T13:11:19.488375+00:00"
+    },
     {
       "title": "10 Practical Camping Gadgets Worth Buying From Tractor Supply - SlashGear",
       "source": {
@@ -10,80 +90,10 @@
       "description": "Tractor Supply may not be your first choice for camping gear, but it offers more than you might expe...",
       "url": "https://www.slashgear.com/2244394/tractor-supply-camping-gadgets-worth-buying/",
       "publishedAt": "2026-08-31T01:30:00Z",
-      "processed_at": "2026-09-01T07:24:21.198162+00:00"
-    },
-    {
-      "title": "GTA VI Extended Gameplay Preview Attracted Over 4 Million Live Viewers - TechPowerUp",
-      "source": {
-        "name": "Techpowerup.com"
-      },
-      "description": "It's been known since Rockstar released the first trailer for GTA VI that the upcoming action game w...",
-      "url": "https://www.techpowerup.com/352158/gta-vi-extended-gameplay-preview-attracted-over-4-million-live-viewers",
-      "publishedAt": "2026-08-30T22:02:27Z",
-      "processed_at": "2026-09-01T07:24:21.198162+00:00"
-    },
-    {
-      "title": "A 12TB Steam “teraleak” spills more than a decade of lost PC gaming history - Ars Technica",
-      "source": {
-        "name": "Ars Technica"
-      },
-      "description": "Cut content from Portal 2, hints of Half Life 2: Episode 3, and so much more....",
-      "url": "https://arstechnica.com/gaming/2026/08/a-12tb-steam-teraleak-spills-more-than-a-decade-of-lost-pc-gaming-history/",
-      "publishedAt": "2026-08-30T21:40:56Z",
-      "processed_at": "2026-09-01T07:24:21.198162+00:00"
-    },
-    {
-      "title": "Apple iPhone 18 Pro Release Timeline: New Date Enters The Schedule - Forbes",
-      "source": {
-        "name": "Forbes"
-      },
-      "description": "It’s a matter of days before the next iPhones are revealed. Here’s a full schedule of what’s happeni...",
-      "url": "https://www.forbes.com/sites/davidphelan/2026/08/30/apple-iphone-18-pro-release-timeline-new-date-enters-the-schedule/",
-      "publishedAt": "2026-08-30T20:01:00Z",
-      "processed_at": "2026-09-01T07:24:21.198162+00:00"
-    },
-    {
-      "title": "The Witcher 3 Remastered Accessibility Options Include Health Regen, Auto Loot, Infinite Item Durability - Push Square",
-      "source": {
-        "name": "Push Square"
-      },
-      "description": "And more...",
-      "url": "https://www.pushsquare.com/news/2026/08/the-witcher-3-remastered-accessibility-options-include-health-regen-auto-loot-infinite-item-durability",
-      "publishedAt": "2026-08-30T18:15:00Z",
-      "processed_at": "2026-09-01T07:24:21.198162+00:00"
-    },
-    {
-      "title": "PlayStation May Delay Digital-Only Shift Following Rumors of \"100% Physical Xbox Helix\" - TechPowerUp",
-      "source": {
-        "name": "Techpowerup.com"
-      },
-      "description": "We recently reported that Xbox's disc-to-digital entitlement program and the new CEO's refusal to ad...",
-      "url": "https://www.techpowerup.com/352145/playstation-may-delay-digital-only-shift-following-rumors-of-100-physical-xbox-helix",
-      "publishedAt": "2026-08-30T16:28:50Z",
-      "processed_at": "2026-09-01T07:24:21.198162+00:00"
-    },
-    {
-      "title": "Fable Gets Forgiving PC Minimum Hardware Requirements and Potential 60 FPS Cap - TechPowerUp",
-      "source": {
-        "name": "Techpowerup.com"
-      },
-      "description": "Following the official announcement that Fable would be released on February 23, 2027, Playground Ga...",
-      "url": "https://www.techpowerup.com/352143/fable-gets-forgiving-pc-minimum-hardware-requirements-and-potential-60-fps-cap",
-      "publishedAt": "2026-08-30T16:10:17Z",
-      "processed_at": "2026-09-01T07:24:21.198162+00:00"
-    },
-    {
-      "title": "Apple Caught Off Guard by AI Demand for Mac Mini and Mac Studio - MacRumors",
-      "source": {
-        "name": "MacRumors"
-      },
-      "description": "Apple's unusually timed announcement of new Mac mini and Mac Studio models this week was driven by u...",
-      "url": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/",
-      "publishedAt": "2026-08-30T15:52:05Z",
-      "processed_at": "2026-09-01T07:24:21.198162+00:00"
+      "processed_at": "2026-09-01T13:11:19.488375+00:00"
     }
   ],
-  "lastUpdated": "2026-09-01T07:24:21.198234+00:00",
+  "lastUpdated": "2026-09-01T13:11:19.488474+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
