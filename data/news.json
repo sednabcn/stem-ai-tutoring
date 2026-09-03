@@ -3,6 +3,86 @@
   "totalResults": 10,
   "articles": [
     {
+      "title": "Apple shares are doing something they haven't done in 20 years. Here’s what’s happening - cnbc.com",
+      "source": {
+        "name": "CNBC"
+      },
+      "description": "Apple stock hasn't been this inversely correlated to its tech peers since 2005....",
+      "url": "https://www.cnbc.com/2026/09/02/apple-shares-are-doing-something-they-havent-done-in-20-years-heres-whats-happening.html",
+      "publishedAt": "2026-09-02T12:10:05Z",
+      "processed_at": "2026-09-03T13:19:00.469079+00:00"
+    },
+    {
+      "title": "Leaked iPhone 18 Pro Parts Point to Three Color Options Excluding Black - MacRumors",
+      "source": {
+        "name": "MacRumors"
+      },
+      "description": "Longtime leaker Sonny Dickson has shared an image of differently colored SIM card trays that he clai...",
+      "url": "https://www.macrumors.com/2026/09/02/leaked-iphone-18-pro-parts-point-to-three-colors/",
+      "publishedAt": "2026-09-02T10:17:17Z",
+      "processed_at": "2026-09-03T13:19:00.469079+00:00"
+    },
+    {
+      "title": "Confirmed: Over 800 Xbox discs are supported by the disc-to-digital program, and growing. Here's the list. - Windows Central",
+      "source": {
+        "name": "Windows Central"
+      },
+      "description": "A new database tracking Xbox's new disc-to-digital program shows just how big the scale of the opera...",
+      "url": "https://www.windowscentral.com/gaming/xbox/confirmed-over-800-xbox-discs-are-supported-by-the-disc-to-digital-program-and-growing-heres-the-list",
+      "publishedAt": "2026-09-02T09:52:02Z",
+      "processed_at": "2026-09-03T13:19:00.469079+00:00"
+    },
+    {
+      "title": "The Grand Theft Auto run button has changed after 25 years - GTA 6 no longer requires you to tap a face button to peg it - Eurogamer.net",
+      "source": {
+        "name": "Eurogamer.net"
+      },
+      "description": "Rockstar has decided to finally fall in line with other games regarding how you control Grand Theft ...",
+      "url": "https://www.eurogamer.net/gta-6-run-button-changes-tap-rockstar",
+      "publishedAt": "2026-09-02T08:48:30Z",
+      "processed_at": "2026-09-03T13:19:00.469079+00:00"
+    },
+    {
+      "title": "Alienware launches 32-inch 4K Tandem WOLED monitor for $699 and 560Hz QD-OLED model - VideoCardz.com",
+      "source": {
+        "name": "Videocardz.com"
+      },
+      "description": "Alienware has announced two RGB-stripe OLED gaming monitors, including a 32-inch 4K Tandem WOLED mod...",
+      "url": "https://videocardz.com/newz/alienware-launches-32-inch-4k-tandem-woled-monitor-for-699-and-560hz-qd-oled-model",
+      "publishedAt": "2026-09-02T08:01:37Z",
+      "processed_at": "2026-09-03T13:19:00.469079+00:00"
+    },
+    {
+      "title": "Leaked Galaxy S27, Plus, Pro, and Ultra image will make you appreciate Samsung's direction - PhoneArena",
+      "source": {
+        "name": "PhoneArena"
+      },
+      "description": "A lineup photo depicting the new designs will make you see the void the S27 Ultra and Pro will fill....",
+      "url": "https://www.phonearena.com/news/galaxy-s27-ultra-pro-plus-design_id183020",
+      "publishedAt": "2026-09-02T07:16:21Z",
+      "processed_at": "2026-09-03T13:19:00.469079+00:00"
+    },
+    {
+      "title": "Dell’s newest laptop sounds a lot like a MacBook Neo - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "Dell’s new Dell 14S is a colorful laptop aimed at students, starting with 8GB of RAM and sporting In...",
+      "url": "https://www.theverge.com/gadgets/987839/dell-14s-student-laptop-ifa-2026-price-specs",
+      "publishedAt": "2026-09-02T07:00:00Z",
+      "processed_at": "2026-09-03T13:19:00.469079+00:00"
+    },
+    {
+      "title": "Ahead of Windows 11 26H2, Microsoft gives admins \"more control\" over updates and recovery - Neowin",
+      "source": {
+        "name": "Neowin"
+      },
+      "description": "",
+      "url": "https://www.neowin.net/news/ahead-of-windows-11-26h2-microsoft-gives-admins-more-control-over-updates-and-recovery/",
+      "publishedAt": "2026-09-02T05:40:00Z",
+      "processed_at": "2026-09-03T13:19:00.469079+00:00"
+    },
+    {
       "title": "Super Smash Bros. Ultimate Version 13.0.5 Is Now Live, Here Are The Full Patch Notes - Nintendo Life",
       "source": {
         "name": "Nintendo Life"
@@ -10,7 +90,7 @@
       "description": "Signs of life with a small update...",
       "url": "https://www.nintendolife.com/news/2026/09/super-smash-bros-ultimate-version-13-0-5-is-now-live-here-are-the-full-patch-notes",
       "publishedAt": "2026-09-02T02:05:00Z",
-      "processed_at": "2026-09-03T08:38:34.752856+00:00"
+      "processed_at": "2026-09-03T13:19:00.469079+00:00"
     },
     {
       "title": "9 Years Later, Mario Kart 8 Just Got a Game-Changing Update for Nintendo Switch 2 - Polygon.com",
@@ -20,90 +100,10 @@
       "description": "Nintendo adds Switch 2 support to Mario Kart 8 Deluxe bringing 8-player split-screen multiplayer and...",
       "url": "https://www.polygon.com/mario-kart-8-deluxe-switch-2-update-patch-notes-nintendo/",
       "publishedAt": "2026-09-02T02:03:00Z",
-      "processed_at": "2026-09-03T08:38:34.752856+00:00"
-    },
-    {
-      "title": "Nintendo Expands Switch Online's NES Library With Three More Titles - Nintendo Life",
-      "source": {
-        "name": "Nintendo Life"
-      },
-      "description": "Japan's Famicom library also got an update...",
-      "url": "https://www.nintendolife.com/news/2026/09/nintendo-expands-switch-onlines-nes-library-with-three-more-titles",
-      "publishedAt": "2026-09-02T01:30:00Z",
-      "processed_at": "2026-09-03T08:38:34.752856+00:00"
-    },
-    {
-      "title": "Mac App Store Apps Can Now Drop Support for Intel Macs - MacRumors",
-      "source": {
-        "name": "MacRumors"
-      },
-      "description": "Apple today informed developers that universal Mac App Store apps that require macOS 13 or later can...",
-      "url": "https://www.macrumors.com/2026/09/01/mac-app-store-intel-mac-support/",
-      "publishedAt": "2026-09-01T23:50:02Z",
-      "processed_at": "2026-09-03T08:38:34.752856+00:00"
-    },
-    {
-      "title": "Samsung’s Android 17-based One UI 9 beta expands to these Galaxy phones this month - 9to5Google",
-      "source": {
-        "name": "9to5google.com"
-      },
-      "description": "Samsung is expanding its Android 17 / One UI 9 beta program to several new Galaxy smartphones this m...",
-      "url": "http://9to5google.com/2026/09/01/samsung-android-17-one-ui-9-beta-update-expand/",
-      "publishedAt": "2026-09-01T21:50:00Z",
-      "processed_at": "2026-09-03T08:38:34.752856+00:00"
-    },
-    {
-      "title": "New iPhone Ultra details arrive for specs, multitasking, launch timing, more - 9to5Mac",
-      "source": {
-        "name": "9to5Mac"
-      },
-      "description": "A new Tom’s Guide interview with Mark Gurman has fresh details on what to expect from iPhone Ultra’s...",
-      "url": "https://9to5mac.com/2026/09/01/new-iphone-ultra-details-arrive-for-specs-multitasking-launch-timing-more/",
-      "publishedAt": "2026-09-01T20:25:00Z",
-      "processed_at": "2026-09-03T08:38:34.752856+00:00"
-    },
-    {
-      "title": "Google rolling out Pixel Watch 5 September update - 9to5Google",
-      "source": {
-        "name": "9to5google.com"
-      },
-      "description": "Following last month’s launch, Google is rolling out the first update (September 2026) for the Pixel...",
-      "url": "http://9to5google.com/2026/09/01/first-pixel-watch-5-update/",
-      "publishedAt": "2026-09-01T20:25:00Z",
-      "processed_at": "2026-09-03T08:38:34.752856+00:00"
-    },
-    {
-      "title": "I've Been Playing The Blood of Dawnwalker For a Week and It's Avoided the Classic Unreal 5 Pitfalls - IGN",
-      "source": {
-        "name": "IGN"
-      },
-      "description": "Just like with Star Wars Zero Company and Halo: Campaign Evolved, The Blood of Dawnwalker runs on Un...",
-      "url": "https://www.ign.com/articles/the-blood-of-dawnwalker-proves-unreal-5-can-be-done-well",
-      "publishedAt": "2026-09-01T20:18:20Z",
-      "processed_at": "2026-09-03T08:38:34.752856+00:00"
-    },
-    {
-      "title": "As GTA 6 looms on the horizon, Rockstar Games is releasing a closed beta for GTA Online RP's official server, nopixel 5 - Eurogamer.net",
-      "source": {
-        "name": "Eurogamer.net"
-      },
-      "description": "GTA 6's online is still an unknown, but Rockstar Games is putting a closed beta out for its GTA Onli...",
-      "url": "https://www.eurogamer.net/rockstar-games-official-gta-online-rp-server-closed-beta",
-      "publishedAt": "2026-09-01T19:44:40Z",
-      "processed_at": "2026-09-03T08:38:34.752856+00:00"
-    },
-    {
-      "title": "Apple Watch Series 12: Three new features coming next week - 9to5Mac",
-      "source": {
-        "name": "9to5Mac"
-      },
-      "description": "Apple Watch Series 12 is coming next week at the September event, here are three new features rumore...",
-      "url": "https://9to5mac.com/2026/09/01/apple-watch-series-12-three-new-features-coming-next-week/",
-      "publishedAt": "2026-09-01T19:18:00Z",
-      "processed_at": "2026-09-03T08:38:34.752856+00:00"
+      "processed_at": "2026-09-03T13:19:00.469079+00:00"
     }
   ],
-  "lastUpdated": "2026-09-03T08:38:34.752947+00:00",
+  "lastUpdated": "2026-09-03T13:19:00.469161+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
