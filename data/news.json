@@ -1,36 +1,66 @@
 {
   "status": "success",
-  "totalResults": 9,
+  "totalResults": 10,
   "articles": [
     {
-      "title": "iOS 27 Introduces New 'iPhone Handoff' Feature - MacRumors",
+      "title": "'GTA 6' on PS5 vs Xbox: Key differences to consider - Mashable",
       "source": {
-        "name": "MacRumors"
+        "name": "Mashable"
       },
-      "description": "Apple has added a new \"iPhone Handoff\" feature to iOS 27 that will allow you to switch between two i...",
-      "url": "https://www.macrumors.com/2026/09/02/ios-27-iphone-handoff-feature/",
-      "publishedAt": "2026-09-02T19:35:43Z",
-      "processed_at": "2026-09-03T23:01:32.270545+00:00"
+      "description": "The extended look that premiered on Netflix was played on a PS5. But will Xbox be able to play the g...",
+      "url": "https://mashable.com/entertainment/gta-grand-theft-auto-6-xbox-series-x-s-playstation-differences",
+      "publishedAt": "2026-09-03T02:18:52Z",
+      "processed_at": "2026-09-04T03:23:11.189846+00:00"
     },
     {
-      "title": "1Password wades into a right-wing mess after funding a Linux project - The Verge",
+      "title": "New Lollipop Chainsaw game playable at TGS 2026 - gematsu.com",
       "source": {
-        "name": "The Verge"
+        "name": "Gematsu"
       },
-      "description": "The controversy surrounds David Heinemeier Hansson, who has posted strident anti-vax and anti-immigr...",
-      "url": "https://www.theverge.com/tech/988536/1password-dhh-linux-controversy",
-      "publishedAt": "2026-09-02T18:48:14Z",
-      "processed_at": "2026-09-03T23:01:32.270545+00:00"
+      "description": "The new Lollipop Chainsaw game first announced in July 2025 will be playable at Tokyo Game Show 2026...",
+      "url": "https://www.gematsu.com/2026/09/new-lollipop-chainsaw-game-playable-at-tgs-2026",
+      "publishedAt": "2026-09-03T01:35:20Z",
+      "processed_at": "2026-09-04T03:23:11.189846+00:00"
     },
     {
-      "title": "The Blood of Dawnwalker Review: Time Doesn't Heal All Wounds - Game Informer",
+      "title": "The Witcher 3 Remastered Isn't Pulling Punches: 'When We Think About This Remaster, It's Almost Like A 2.0 Overhaul' - kotaku.com",
       "source": {
-        "name": "Google News"
+        "name": "Kotaku"
       },
-      "description": "",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPU096aVpQU2pKd3pnaXZmNGZMZmdMb1dqa3ZCMnlreWtzbko3MHJhTTVvdVRWNTN3VVY0OEdsV25uSkN0dWlxMkp5dE5mTDRqd1lBdXd5TzNNOFItUmlMRXA2VlVaTVB5Z0NYME56VVh5MlZXNHhFaDdqZzVjR2o5WW5KQ1d1SzBpdVBv?oc=5",
-      "publishedAt": "2026-09-02T18:27:40Z",
-      "processed_at": "2026-09-03T23:01:32.270545+00:00"
+      "description": "Just calling it a 'remaster' might not do justice to what CDPR has planned...",
+      "url": "https://kotaku.com/the-witcher-3-remastered-isnt-pulling-punches-when-we-think-about-this-remaster-its-almost-like-a-2-0-overhaul-2000730636",
+      "publishedAt": "2026-09-02T22:30:38Z",
+      "processed_at": "2026-09-04T03:23:11.189846+00:00"
+    },
+    {
+      "title": "Leak lists Zelda: Ocarina of Time remake developer as Xenoblade Chronicles studio - notebookcheck.net",
+      "source": {
+        "name": "Notebookcheck.net"
+      },
+      "description": "A retailer may have inadvertently leaked information about the Ocarina of Time remake. Elkjøp specif...",
+      "url": "https://www.notebookcheck.net/Leak-lists-Zelda-Ocarina-of-Time-remake-developer-as-Xenoblade-Chronicles-studio.1386525.0.html",
+      "publishedAt": "2026-09-02T22:26:00Z",
+      "processed_at": "2026-09-04T03:23:11.189846+00:00"
+    },
+    {
+      "title": "Huawei’s Watch D3 Doubles as an Inflatable Blood Pressure Cuff - Gizmodo",
+      "source": {
+        "name": "Gizmodo.com"
+      },
+      "description": "The Huawei Watch D3 can track your sleep and workouts, but its best trick is a clever method for mea...",
+      "url": "https://gizmodo.com/huaweis-watch-d3-doubles-as-an-inflatable-blood-pressure-cuff-2000806409",
+      "publishedAt": "2026-09-02T18:45:13Z",
+      "processed_at": "2026-09-04T03:23:11.189846+00:00"
+    },
+    {
+      "title": "Early DLSS 5 Testing Suggests the RTX 5090's Single Power Connector Might Be the Bottleneck - TechPowerUp",
+      "source": {
+        "name": "Techpowerup.com"
+      },
+      "description": "Community testing of leaked DLSS 5 builds suggests the tech may already be hitting a wall on NVIDIA'...",
+      "url": "https://www.techpowerup.com/352262/early-dlss-5-testing-suggests-the-rtx-5090s-single-power-connector-might-be-the-bottleneck",
+      "publishedAt": "2026-09-02T18:27:55Z",
+      "processed_at": "2026-09-04T03:23:11.189846+00:00"
     },
     {
       "title": "The Best Mobile Networks in America, Ranked - PCMag",
@@ -40,37 +70,17 @@
       "description": "We analyzed more than 2 million speed tests alongside price, coverage, and customer satisfaction dat...",
       "url": "https://www.pcmag.com/articles/the-best-mobile-networks-usa-2026",
       "publishedAt": "2026-09-02T18:26:15Z",
-      "processed_at": "2026-09-03T23:01:32.270545+00:00"
+      "processed_at": "2026-09-04T03:23:11.189846+00:00"
     },
     {
-      "title": "These Russian Mathematicians Taught AI Models How to Talk to Each Other Without Using Words - WIRED",
+      "title": "iPhone 18 Pro will have three upgrades that have been rumored for years - 9to5Mac",
       "source": {
-        "name": "Wired"
+        "name": "9to5Mac"
       },
-      "description": "A startup called Mostik has a wild new approach to combining the capabilities of AI models....",
-      "url": "https://www.wired.com/story/russian-startup-mostik-ai-models-communication/",
-      "publishedAt": "2026-09-02T18:20:00Z",
-      "processed_at": "2026-09-03T23:01:32.270545+00:00"
-    },
-    {
-      "title": "Report: Early Splinter Cell Remake Screenshots Unearthed, Revealing Environments and Easter Eggs - mp1st.com",
-      "source": {
-        "name": "http://mp1st.com/category/news"
-      },
-      "description": "Check out early screenshots for the Splinter Cell Remake, revealing our first look at the game's env...",
-      "url": "https://mp1st.com/news/report-early-splinter-cell-remake-screenshots-unearthed-revealing-environments-and-easter-eggs",
-      "publishedAt": "2026-09-02T18:08:16Z",
-      "processed_at": "2026-09-03T23:01:32.270545+00:00"
-    },
-    {
-      "title": "Rockstar Is Finally Ditching 'Tap X To Sprint' In GTA 6, But Not Everyone Is Happy: 'I’m Honestly A Little Disappointed' - Kotaku",
-      "source": {
-        "name": "Kotaku"
-      },
-      "description": "For some players, this is good news; for others, it's the end of an era...",
-      "url": "https://kotaku.com/rockstar-is-finally-ditching-tap-x-to-sprint-in-gta-6-but-not-everyone-is-happy-im-honestly-a-little-disappointed-2000730560",
-      "publishedAt": "2026-09-02T18:00:39Z",
-      "processed_at": "2026-09-03T23:01:32.270545+00:00"
+      "description": "iPhone 18 Pro launches next week, and expected to feature three upgrades that have been rumored for ...",
+      "url": "https://9to5mac.com/2026/09/02/iphone-18-pro-will-have-three-upgrades-that-have-been-rumored-for-years/",
+      "publishedAt": "2026-09-02T18:21:00Z",
+      "processed_at": "2026-09-04T03:23:11.189846+00:00"
     },
     {
       "title": "Dragon's Dogma 2 Frame Rates Massively Improved with Patch 3.2 on PS5, PS5 Pro - Push Square",
@@ -80,20 +90,20 @@
       "description": "Top Dogma...",
       "url": "https://www.pushsquare.com/news/2026/09/dragons-dogma-2-frame-rates-massively-improved-with-patch-3-2-on-ps5-ps5-pro",
       "publishedAt": "2026-09-02T18:00:00Z",
-      "processed_at": "2026-09-03T23:01:32.270545+00:00"
+      "processed_at": "2026-09-04T03:23:11.189846+00:00"
     },
     {
-      "title": "This Is the Worst Possible Time for OpenAI to BfЖ7!م#2猫$9&क - Gizmodo",
+      "title": "Galaxy S25 gets Super Steady with Horizontal Lock with the One UI 9 update - SamMobile",
       "source": {
-        "name": "Gizmodo.com"
+        "name": "SamMobile"
       },
-      "description": "While the world braces itself for a new era of rogue AI agents, the company is reportedly dabbling w...",
-      "url": "https://gizmodo.com/this-is-the-worst-possible-time-for-openai-to-bfж7م2猫9क-2000806350",
-      "publishedAt": "2026-09-02T17:42:23Z",
-      "processed_at": "2026-09-03T23:01:32.270545+00:00"
+      "description": "Samsung has released the One UI 9.0 beta update to the Galaxy S25 series and introduced the Horizont...",
+      "url": "https://www.sammobile.com/news/galaxy-s25-camera-horizon-lock-one-ui-9-update/",
+      "publishedAt": "2026-09-02T17:40:00Z",
+      "processed_at": "2026-09-04T03:23:11.189846+00:00"
     }
   ],
-  "lastUpdated": "2026-09-03T23:01:32.270617+00:00",
+  "lastUpdated": "2026-09-04T03:23:11.189922+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
