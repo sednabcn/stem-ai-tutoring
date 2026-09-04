@@ -1,16 +1,26 @@
 {
   "status": "success",
-  "totalResults": 10,
+  "totalResults": 9,
   "articles": [
     {
-      "title": "Our Favourite Shark-PG Returns! Maneater 2 Comes to PS5 in 2027 - pushsquare.com",
+      "title": "Metagame Mentor: The Top Standard Decks for September 2026's RCQs - magic.gg",
       "source": {
-        "name": "Push Square"
+        "name": "Magic.gg"
       },
       "description": "",
-      "url": "https://www.pushsquare.com/news/2026/09/our-favourite-shark-pg-returns-maneater-2-comes-to-ps5-in-2027",
-      "publishedAt": "2026-09-03T17:30:50Z",
-      "processed_at": "2026-09-04T20:24:34.539240+00:00"
+      "url": "https://www.magic.gg/news/metagame-mentor-the-top-standard-decks-for-september-2026s-rcqs",
+      "publishedAt": "2026-09-03T18:56:15Z",
+      "processed_at": "2026-09-04T22:49:28.336243+00:00"
+    },
+    {
+      "title": "1Password Users Flee Platform After $300,000 Donation. Should You Run, Too? - All About Cookies",
+      "source": {
+        "name": "Allaboutcookies.org"
+      },
+      "description": "",
+      "url": "https://allaboutcookies.org/1password-linux-donation-controversy",
+      "publishedAt": "2026-09-03T17:55:32Z",
+      "processed_at": "2026-09-04T22:49:28.336243+00:00"
     },
     {
       "title": "Microsoft to impose time limits on Xbox cloud gaming subscribers as costs continue to climb - CNBC",
@@ -20,37 +30,7 @@
       "description": "Xbox Game Pass subscribers will have cloud gaming capped starting in November....",
       "url": "https://www.cnbc.com/2026/09/03/microsoft-xbox-game-pass-cloud-limits.html",
       "publishedAt": "2026-09-03T17:00:01Z",
-      "processed_at": "2026-09-04T20:24:34.539240+00:00"
-    },
-    {
-      "title": "Nintendo adds three more NES games to Switch Online, bringing the total to 87 in the West - Video Games Chronicle",
-      "source": {
-        "name": "Video Games Chronicle"
-      },
-      "description": "Ninja Gaiden 3, Ikari Warriors and RC Pro-Am 2 join the Nintendo Classics service...",
-      "url": "https://www.videogameschronicle.com/news/nintendo-adds-three-more-nes-games-to-switch-online-bringing-the-total-to-87-in-the-west/",
-      "publishedAt": "2026-09-03T16:37:55Z",
-      "processed_at": "2026-09-04T20:24:34.539240+00:00"
-    },
-    {
-      "title": "The Final Fantasy 7 Remake series is getting a $500 Japan-only collector’s edition - Video Games Chronicle",
-      "source": {
-        "name": "Video Games Chronicle"
-      },
-      "description": "The FF7 Remake Series Complete Edition includes displays for all three games...",
-      "url": "https://www.videogameschronicle.com/news/the-final-fantasy-7-remake-series-is-getting-a-500-japan-only-collectors-edition/",
-      "publishedAt": "2026-09-03T16:24:59Z",
-      "processed_at": "2026-09-04T20:24:34.539240+00:00"
-    },
-    {
-      "title": "Google launches AI voice features in Gmail, Docs and Keep - TechCrunch",
-      "source": {
-        "name": "TechCrunch"
-      },
-      "description": "Users can search for emails or draft documents using the new conversational feature....",
-      "url": "https://techcrunch.com/2026/09/03/google-launches-ai-voice-features-in-gmail-docs-and-keep/",
-      "publishedAt": "2026-09-03T16:00:00Z",
-      "processed_at": "2026-09-04T20:24:34.539240+00:00"
+      "processed_at": "2026-09-04T22:49:28.336243+00:00"
     },
     {
       "title": "Nvidia’s new RTX Spark laptops launch in October with two different configs - The Verge",
@@ -60,50 +40,60 @@
       "description": "Nvidia’s N1X laptop will ship in two different configurations for laptops and mini PCs....",
       "url": "https://www.theverge.com/news/989133/nvidia-rtx-spark-laptops-n1x-specifications",
       "publishedAt": "2026-09-03T16:00:00Z",
-      "processed_at": "2026-09-04T20:24:34.539240+00:00"
+      "processed_at": "2026-09-04T22:49:28.336243+00:00"
     },
     {
-      "title": "Nvidia launches free tool that links idle computers into a personal AI data center - The Verge",
+      "title": "Google rolling out Gmail Live, Docs Live, and Keep Live - 9to5Google",
       "source": {
-        "name": "The Verge"
+        "name": "9to5google.com"
       },
-      "description": "Nvidia’s new Personal AI Router (PAIR) links the computers on your home network to locally tackle AI...",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/989435/nvidia-pair-personal-ai-router-home-local-llm-compute-tool-rtx-macbook",
+      "description": "Following the announcement at I/O 2026, Google is rolling out Gmail Live, Docs Live, and Keep Live t...",
+      "url": "http://9to5google.com/2026/09/03/gmail-docs-keep-live/",
       "publishedAt": "2026-09-03T16:00:00Z",
-      "processed_at": "2026-09-04T20:24:34.539240+00:00"
+      "processed_at": "2026-09-04T22:49:28.336243+00:00"
     },
     {
-      "title": "Everything Announced At The September 2026 PlayStation State Of Play - Game Informer",
+      "title": "Lenovo IdeaPad Vibe is a MacBook Neo competitor starting at $699 - 9to5Google",
       "source": {
-        "name": "Gameinformer.com"
+        "name": "9to5google.com"
       },
-      "description": "Here's a quick play-by-play breakdown of PlayStation's latest broadcast. - Game Informer...",
-      "url": "https://gameinformer.com/state-of-play/2026/09/03/everything-announced-at-the-september-2026-playstation-state-of-play",
-      "publishedAt": "2026-09-03T15:38:00Z",
-      "processed_at": "2026-09-04T20:24:34.539240+00:00"
+      "description": "Lenovo is taking on the MacBook Neo with a colorful new laptop – the IdeaPad Vibe. Announced at Leno...",
+      "url": "http://9to5google.com/2026/09/03/lenovo-ideapad-vibe-is-a-macbook-neo-competitor-starting-at-699/",
+      "publishedAt": "2026-09-03T16:00:00Z",
+      "processed_at": "2026-09-04T22:49:28.336243+00:00"
     },
     {
-      "title": "Final Fantasy 7 Revelation finally gets a 2027 release date, as Final Fantasy Resonance gets a surprise demo - Eurogamer.net",
+      "title": "Motorola is finally making a new Wear OS watch and it’s not called the Moto 360 - 9to5Google",
       "source": {
-        "name": "Eurogamer.net"
+        "name": "9to5google.com"
       },
-      "description": "",
-      "url": "https://www.eurogamer.net/final-fantasy-7-revelation-release-date-resonance-demo",
-      "publishedAt": "2026-09-03T15:35:54Z",
-      "processed_at": "2026-09-04T20:24:34.539240+00:00"
+      "description": "It’s finally happening. Motorola is making a new Wear OS smartwatch, but it’s not a new Moto 360 – t...",
+      "url": "http://9to5google.com/2026/09/03/moto-watch-ultra-wear-os-smartwatch-motorola/",
+      "publishedAt": "2026-09-03T16:00:00Z",
+      "processed_at": "2026-09-04T22:49:28.336243+00:00"
     },
     {
-      "title": "Gran Turismo 7 Spec IV: Autumn Ring, Sugo Circuit, 12 Cars, Shuffle Racing, and More - GTPlanet",
+      "title": "Nvidia PAIR Speeds Up AI Agents by Annexing PCs on Your Network - CNET",
       "source": {
-        "name": "GTPlanet"
+        "name": "CNET"
       },
-      "description": "Polyphony Digital has announced Gran Turismo 7 Spec IV at PlayStation's State of Play, adding Sports...",
-      "url": "https://www.gtplanet.net/gran-turismo-7-spec-iv-autumn-ring-sugo-circuit-12-cars-shuffle-racing-and-more-20260903/",
-      "publishedAt": "2026-09-03T14:37:33Z",
-      "processed_at": "2026-09-04T20:24:34.539240+00:00"
+      "description": "It's the home LAN reimagined....",
+      "url": "https://www.cnet.com/tech/services-and-software/nvidia-pair-speeds-ai-agents-by-annexing-pcs-on-your-network/",
+      "publishedAt": "2026-09-03T16:00:00Z",
+      "processed_at": "2026-09-04T22:49:28.336243+00:00"
+    },
+    {
+      "title": "How often should you be cleaning your reusable water bottle? Here’s what experts had to say - NBC News",
+      "source": {
+        "name": "NBC News"
+      },
+      "description": "To learn the best way to clean reusable water bottles from Stanley, Owala and other brands, I spoke ...",
+      "url": "https://www.nbcnews.com/select/shopping/how-to-clean-water-bottle-rcna595888",
+      "publishedAt": "2026-09-03T15:50:48Z",
+      "processed_at": "2026-09-04T22:49:28.336243+00:00"
     }
   ],
-  "lastUpdated": "2026-09-04T20:24:34.539316+00:00",
+  "lastUpdated": "2026-09-04T22:49:28.336305+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
