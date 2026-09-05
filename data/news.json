@@ -3,14 +3,54 @@
   "totalResults": 9,
   "articles": [
     {
-      "title": "NVIDIA Confirms DLSS 5 Support Extends To RTX 40 GPUs, But First Focusing On Model Optimization on RTX 50 Series - Wccftech",
+      "title": "All the Weirdest, Wildest Tech We Found at IFA 2026 - CNET",
       "source": {
-        "name": "Wccftech"
+        "name": "CNET"
       },
-      "description": "NVIDIA DLSS 5 is going to be released on older RTX 40 GPUs and will be available once the model is f...",
-      "url": "https://wccftech.com/nvidia-dlss-5-rtx-40-gpus-support-confirmed/",
-      "publishedAt": "2026-09-04T03:30:14Z",
-      "processed_at": "2026-09-05T10:06:38.026668+00:00"
+      "description": "From intimate AI companions to feline food processors, here’s what made us do a double take at the t...",
+      "url": "https://www.cnet.com/tech/the-weirdest-and-wackiest-tech-we-found-at-ifa-2026/",
+      "publishedAt": "2026-09-04T12:18:00Z",
+      "processed_at": "2026-09-05T13:42:10.501492+00:00"
+    },
+    {
+      "title": "Nearly impossible? How Fairphone built the ethical, repairable Fairphone Gen 6+. - Ars Technica",
+      "source": {
+        "name": "Ars Technica"
+      },
+      "description": "Fairphone's CTO explains how and why the Dutch company builds a different kind of smartphone....",
+      "url": "https://arstechnica.com/gadgets/2026/09/nearly-impossible-how-fairphone-built-the-ethical-repairable-fairphone-gen-6/",
+      "publishedAt": "2026-09-04T11:00:05Z",
+      "processed_at": "2026-09-05T13:42:10.501492+00:00"
+    },
+    {
+      "title": "The 300-year-old tool helping stranded astronauts get home - BBC",
+      "source": {
+        "name": "BBC News"
+      },
+      "description": "An old seafaring instrument could help astronauts on ever more far-flung and perilous missions....",
+      "url": "https://www.bbc.com/future/article/20260903-the-300-year-old-instrument-that-could-save-stranded-astronauts",
+      "publishedAt": "2026-09-04T09:47:10Z",
+      "processed_at": "2026-09-05T13:42:10.501492+00:00"
+    },
+    {
+      "title": "Final Fantasy 7 Revelation is getting a physical version, but it will require an internet connection to download - Eurogamer.net",
+      "source": {
+        "name": "Eurogamer.net"
+      },
+      "description": "",
+      "url": "https://www.eurogamer.net/final-fantasy-7-revelation-physical-version-catch",
+      "publishedAt": "2026-09-04T08:58:46Z",
+      "processed_at": "2026-09-05T13:42:10.501492+00:00"
+    },
+    {
+      "title": "NVIDIA Confirms DLSS 5 for GeForce RTX 40-Series is Coming - TechPowerUp",
+      "source": {
+        "name": "Techpowerup.com"
+      },
+      "description": "NVIDIA has officially confirmed that the company is working to bring DLSS 5 neural rendering to the ...",
+      "url": "https://www.techpowerup.com/352330/nvidia-confirms-dlss-5-for-geforce-rtx-40-series-is-coming",
+      "publishedAt": "2026-09-04T06:33:20Z",
+      "processed_at": "2026-09-05T13:42:10.501492+00:00"
     },
     {
       "title": "Blizzard Officially Starts Teasing StarCraft News with Cryptic Secret Messages - Polygon.com",
@@ -20,7 +60,17 @@
       "description": "Amid StarCraft 3 reports, Blizzard has started teasing a new StarCraft project the week before Blizz...",
       "url": "https://www.polygon.com/starcraft-teaser-blizzard-blizzcon-2026/",
       "publishedAt": "2026-09-04T02:50:00Z",
-      "processed_at": "2026-09-05T10:06:38.026668+00:00"
+      "processed_at": "2026-09-05T13:42:10.501492+00:00"
+    },
+    {
+      "title": "Watch The AMD IFA Opening Keynote Live Here – Consumer-Tech, Ryzen AI MAX 400 Launch & More - Wccftech",
+      "source": {
+        "name": "Wccftech"
+      },
+      "description": "AMD's Jack Huynh to present The Era of Personal AI keynote at IFA 2026, highlighting Ryzen AI MAX 40...",
+      "url": "https://wccftech.com/watch-amd-ifa-2026-opening-keynote-live-here/",
+      "publishedAt": "2026-09-03T22:15:09Z",
+      "processed_at": "2026-09-05T13:42:10.501492+00:00"
     },
     {
       "title": "‘Magic: The Gathering’ Zeta Set Drop Was a ‘Disaster,’ Says Wizards of the Coast - Gizmodo",
@@ -30,17 +80,7 @@
       "description": "The Secret Lair platform is no stranger to botched sales, but this one was particularly bad....",
       "url": "https://gizmodo.com/magic-the-gathering-zeta-set-drop-was-a-disaster-says-wizards-of-the-coast-2000806927",
       "publishedAt": "2026-09-03T22:00:55Z",
-      "processed_at": "2026-09-05T10:06:38.026668+00:00"
-    },
-    {
-      "title": "You can watch the coolant flow inside Ugreen’s liquid-cooled power bank - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "Ugreen claims its new MagFlow Pro Magnetic Power Bank is the world’s first with a liquid cooling sys...",
-      "url": "https://www.theverge.com/tech/988648/ugreen-magflow-pro-magnetic-wireless-power-bank-10k-liquid-cooling",
-      "publishedAt": "2026-09-03T22:00:00Z",
-      "processed_at": "2026-09-05T10:06:38.026668+00:00"
+      "processed_at": "2026-09-05T13:42:10.501492+00:00"
     },
     {
       "title": "Xbox Announces Monthly Hour Limits To Cloud Gaming Are Coming In November - Game Informer",
@@ -50,50 +90,10 @@
       "description": "Game Pass subscribers can now only use cloud gaming for a limited number of hours each month. - Game...",
       "url": "https://gameinformer.com/2026/09/03/xbox-announces-monthly-hour-limits-to-cloud-gaming-are-coming-in-november",
       "publishedAt": "2026-09-03T22:00:00Z",
-      "processed_at": "2026-09-05T10:06:38.026668+00:00"
-    },
-    {
-      "title": "First Star Wars Zero Company Patch Coming Next Week - Bespin Bulletin",
-      "source": {
-        "name": "Bespinbulletin.com"
-      },
-      "description": "The first post launch patch for Star Wars Zero Company is coming very soon. EA Star Wars has finally...",
-      "url": "https://bespinbulletin.com/first-star-wars-zero-company-patch-coming-next-week/",
-      "publishedAt": "2026-09-03T21:17:17Z",
-      "processed_at": "2026-09-05T10:06:38.026668+00:00"
-    },
-    {
-      "title": "How to check if Motion Assist has rolled out to your Android 17 phone - 9to5Google",
-      "source": {
-        "name": "9to5google.com"
-      },
-      "description": "Following the announcement on Tuesday, Google is slowly rolling out Motion Assist to phones running ...",
-      "url": "http://9to5google.com/2026/09/03/android-motion-assist-rollout/",
-      "publishedAt": "2026-09-03T21:02:00Z",
-      "processed_at": "2026-09-05T10:06:38.026668+00:00"
-    },
-    {
-      "title": "Tesla Introduces 'Automatic Collision Evasion' for Manual Drives - Not a Tesla App",
-      "source": {
-        "name": "Notateslaapp.com"
-      },
-      "description": "Tesla has quietly added a major new active safety capability to its vehicles, turning its autonomous...",
-      "url": "https://www.notateslaapp.com/news/4646/tesla-adds-fsd-automatic-collision-evasion-for-manual-drives",
-      "publishedAt": "2026-09-03T20:36:00Z",
-      "processed_at": "2026-09-05T10:06:38.026668+00:00"
-    },
-    {
-      "title": "Foldable iPhone Ultra: The Latest Rumors Before Apple's Event - MacRumors",
-      "source": {
-        "name": "MacRumors"
-      },
-      "description": "We're less than a week away from the debut of Apple's first foldable iPhone, and rumors have been pi...",
-      "url": "https://www.macrumors.com/2026/09/03/iphone-ultra-latest-rumors/",
-      "publishedAt": "2026-09-03T20:10:36Z",
-      "processed_at": "2026-09-05T10:06:38.026668+00:00"
+      "processed_at": "2026-09-05T13:42:10.501492+00:00"
     }
   ],
-  "lastUpdated": "2026-09-05T10:06:38.026727+00:00",
+  "lastUpdated": "2026-09-05T13:42:10.501564+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
