@@ -1,7 +1,47 @@
 {
   "status": "success",
-  "totalResults": 9,
+  "totalResults": 10,
   "articles": [
+    {
+      "title": "'Next This Game Will Make You File Tax Returns' — Is GTA 6 Too Realistic for Its Own Good? Refueling Cars and Gun Restrictions Spark Debate - IGN",
+      "source": {
+        "name": "IGN"
+      },
+      "description": "Early Grand Theft Auto 6 details have sparked debate about whether Rockstar Games' latest is too rea...",
+      "url": "https://www.ign.com/articles/is-gta-6-too-realistic-for-its-own-good-refueling-cars-and-gun-restrictions-spark-debate",
+      "publishedAt": "2026-09-07T19:09:53Z",
+      "processed_at": "2026-09-08T21:38:04.225012+00:00"
+    },
+    {
+      "title": "ASUS details ProArt GR1X mini PC with NVIDIA RTX Spark, 128GB unified memory and 10GbE - VideoCardz.com",
+      "source": {
+        "name": "Videocardz.com"
+      },
+      "description": "ASUS has finalized more specifications for its RTX Spark ProArt hardware. The GR1X mini PC measures ...",
+      "url": "https://videocardz.com/newz/asus-details-proart-gr1x-mini-pc-with-nvidia-rtx-spark-128gb-unified-memory-and-10gbe",
+      "publishedAt": "2026-09-07T18:18:25Z",
+      "processed_at": "2026-09-08T21:38:04.225012+00:00"
+    },
+    {
+      "title": "Final Fantasy Resonance modders have already reinstated the original mobile game's biggest icon, Ariana Grande - eurogamer.net",
+      "source": {
+        "name": "Eurogamer.net"
+      },
+      "description": "Final Fantasy Resonance isn't even out yet, but modders are already reviving characters from Brave E...",
+      "url": "https://www.eurogamer.net/final-fantasy-resonance-mod-ariana-grande-mobile-game",
+      "publishedAt": "2026-09-07T18:07:32Z",
+      "processed_at": "2026-09-08T21:38:04.225012+00:00"
+    },
+    {
+      "title": "Forza Horizon 6 PS5 Release Window Confirmed - insider-gaming.com",
+      "source": {
+        "name": "Insider-gaming.com"
+      },
+      "description": "The developers of Forza Horizon 6 have just provided players with the PS5 release window. Here are m...",
+      "url": "https://insider-gaming.com/forza-horizon-6-ps5-release-window-confirmed/",
+      "publishedAt": "2026-09-07T18:05:06Z",
+      "processed_at": "2026-09-08T21:38:04.225012+00:00"
+    },
     {
       "title": "GTA 6's Worldwide Release Times Revealed - with New Zealand Set to Receive Access 19 Hours Before Mexico and Central America - Digital Foundry",
       "source": {
@@ -10,90 +50,60 @@
       "description": "Will you become an honorary Kiwi to play early?...",
       "url": "https://www.digitalfoundry.net/news/2026/09/gta-6s-worldwide-release-times-revealed-with-new-zealand-set-to-receive-access-19-hours-before-mexico-and-central-america",
       "publishedAt": "2026-09-07T17:59:00Z",
-      "processed_at": "2026-09-08T18:25:30.236645+00:00"
+      "processed_at": "2026-09-08T21:38:04.225012+00:00"
     },
     {
-      "title": "Five iPhone 18 Pro Camera Features Seemingly Leak in Code - MacRumors",
+      "title": "Two years after its rocky launch, Civilization 7's first paid expansion Earthrise is on its way - but first comes the atomic age - eurogamer.net",
       "source": {
-        "name": "MacRumors"
+        "name": "Eurogamer.net"
       },
-      "description": "Apple is working on a broader set of Camera app improvements in iOS 27 it has announced, according t...",
-      "url": "https://www.macrumors.com/2026/09/07/five-iphone-18-pro-camera-features-seemingly-leak/",
-      "publishedAt": "2026-09-07T16:07:39Z",
-      "processed_at": "2026-09-08T18:25:30.236645+00:00"
+      "description": "As the legendary Civilization series celebrates its 35th anniversary, developer Firaxis has unveiled...",
+      "url": "https://www.eurogamer.net/civilization-7-paid-expansion-earthrise-atomic-age-free-update",
+      "publishedAt": "2026-09-07T17:31:14Z",
+      "processed_at": "2026-09-08T21:38:04.225012+00:00"
     },
     {
-      "title": "Sony brings back its fan-favorite headphones, the XM4 - The Verge",
+      "title": "Disconnect your LG television from the internet, now - AppleInsider",
       "source": {
-        "name": "The Verge"
+        "name": "AppleInsider"
       },
-      "description": "After the WH-1000XM4 were discontinued in 2025, Sony is bringing them back as the WH-1000XM4C....",
-      "url": "https://www.theverge.com/tech/990687/sony-announces-xm4c-headphones",
-      "publishedAt": "2026-09-07T16:00:00Z",
-      "processed_at": "2026-09-08T18:25:30.236645+00:00"
+      "description": "If you've got an Apple TV set-top box, that's not enough to protect your privacy if you have an LG t...",
+      "url": "https://appleinsider.com/articles/26/09/07/disconnect-your-lg-television-from-the-internet-now",
+      "publishedAt": "2026-09-07T17:20:51Z",
+      "processed_at": "2026-09-08T21:38:04.225012+00:00"
     },
     {
-      "title": "Leak Hints at Four New Features for Apple Watch Series 12 and Ultra 4 - MacRumors",
+      "title": "New Super Smash Bros and Nintendogs games are on the way, according to prominent Nintendo leaker - eurogamer.net",
       "source": {
-        "name": "MacRumors"
+        "name": "Eurogamer.net"
       },
-      "description": "Ahead of the announcement of the Apple Watch Series 12 and Ultra 4 later this week, code in the watc...",
-      "url": "https://www.macrumors.com/2026/09/07/leak-hints-at-four-new-apple-watch-features/",
-      "publishedAt": "2026-09-07T15:57:56Z",
-      "processed_at": "2026-09-08T18:25:30.236645+00:00"
+      "description": "",
+      "url": "https://www.eurogamer.net/super-smash-bros-new-nintendogs-games-nintendo-leaker",
+      "publishedAt": "2026-09-07T17:14:35Z",
+      "processed_at": "2026-09-08T21:38:04.225012+00:00"
     },
     {
-      "title": "Xiaomi Announces Foldable iPhone Rival - MacRumors",
+      "title": "It’s 10 p.m., and your kids want to know where you are - The Washington Post",
       "source": {
-        "name": "MacRumors"
+        "name": "The Washington Post"
       },
-      "description": "Xiaomi today officially announced the 18 Fold, its first wide-format foldable, at a product event in...",
-      "url": "https://www.macrumors.com/2026/09/07/xiaomi-announces-foldable-iphone-rival/",
-      "publishedAt": "2026-09-07T15:26:11Z",
-      "processed_at": "2026-09-08T18:25:30.236645+00:00"
+      "description": "They want to know where you are — and whether you can pick up Starbucks on the way home....",
+      "url": "https://www.washingtonpost.com/style/2026/09/07/parents-are-tracking-their-kids-kids-are-tracking-them-right-back/",
+      "publishedAt": "2026-09-07T17:00:01Z",
+      "processed_at": "2026-09-08T21:38:04.225012+00:00"
     },
     {
-      "title": "Walmart Has PS5 Pro Consoles Back in Stock for Labor Day, if You Can Stomach the Price - IGN",
+      "title": "Capcom says it will focus on reviving dormant IPs after Onimusha: Way of the Sword's breakout launch - GamesIndustry.biz",
       "source": {
-        "name": "IGN"
+        "name": "GamesIndustry.biz"
       },
-      "description": "Walmart has a few PS5 Pro console bundles in stock right now during Labor Day sales... if you can st...",
-      "url": "https://www.ign.com/articles/walmart-ps5-pro-restock-labor-day",
-      "publishedAt": "2026-09-07T15:05:00Z",
-      "processed_at": "2026-09-08T18:25:30.236645+00:00"
-    },
-    {
-      "title": "Pokémon TCG First Partner Collection Series 3 Is Back in Stock at Amazon - IGN",
-      "source": {
-        "name": "IGN"
-      },
-      "description": "Amazon has restocked the Pokémon TCG First Partner Illustration Collection Series 3 at market price....",
-      "url": "https://www.ign.com/articles/pokemon-tcg-first-partner-series-3-amazon-restock",
-      "publishedAt": "2026-09-07T15:00:00Z",
-      "processed_at": "2026-09-08T18:25:30.236645+00:00"
-    },
-    {
-      "title": "Google Messages slowly rolling out fix for bug that randomly sends old texts to other people - 9to5Google",
-      "source": {
-        "name": "9to5google.com"
-      },
-      "description": "A bug in Google Messages is causing the app to randomly send old text messages to other random peopl...",
-      "url": "http://9to5google.com/2026/09/07/google-messages-old-texts-bug-fix/",
-      "publishedAt": "2026-09-07T14:25:00Z",
-      "processed_at": "2026-09-08T18:25:30.236645+00:00"
-    },
-    {
-      "title": "Video: Here's What Nintendo's Revised Switch 2 Console Looks Like - Nintendo Life",
-      "source": {
-        "name": "Nintendo Life"
-      },
-      "description": "Spoiler: It's really similar...",
-      "url": "https://www.nintendolife.com/news/2026/09/video-heres-what-nintendos-revised-switch-2-console-looks-like",
-      "publishedAt": "2026-09-07T14:15:00Z",
-      "processed_at": "2026-09-08T18:25:30.236645+00:00"
+      "description": "Capcom has revealed it will focus on reactivating dormant intellectual property following a strong l...",
+      "url": "https://www.gamesindustry.biz/capcom-says-it-will-focus-on-reviving-dormant-ips-after-onimusha-way-of-the-swords-breakout-launch",
+      "publishedAt": "2026-09-07T16:51:44Z",
+      "processed_at": "2026-09-08T21:38:04.225012+00:00"
     }
   ],
-  "lastUpdated": "2026-09-08T18:25:30.236716+00:00",
+  "lastUpdated": "2026-09-08T21:38:04.225078+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
