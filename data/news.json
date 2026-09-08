@@ -1,36 +1,46 @@
 {
   "status": "success",
-  "totalResults": 10,
+  "totalResults": 9,
   "articles": [
     {
-      "title": "“PRIDE AND SOUL” [OCG] - YGOrganization",
+      "title": "This Week in Gaming (Week 37) - TechPowerUp",
       "source": {
-        "name": "Ygorganization.com"
+        "name": "Techpowerup.com"
       },
-      "description": "4th Time’s the Charm....",
-      "url": "https://ygorganization.com/prideandsoul2027",
-      "publishedAt": "2026-09-07T04:52:42Z",
-      "processed_at": "2026-09-08T05:49:20.053232+00:00"
+      "description": "As we enter the second week of September, there are a lot of new releases, but all the more popular ...",
+      "url": "https://www.techpowerup.com/352407/this-week-in-gaming-week-37",
+      "publishedAt": "2026-09-07T09:01:03Z",
+      "processed_at": "2026-09-08T10:47:06.243707+00:00"
     },
     {
-      "title": "[UPDATE] Halloween: The Game Patches Out Sex Minigame — Dev Confirms 'Major Oversight' - ign.com",
+      "title": "LG smart TVs caught logging audio with screen off and snooping on local devices - notebookcheck.net",
       "source": {
-        "name": "IGN"
+        "name": "Notebookcheck.net"
       },
-      "description": "Halloween: The Game developer IllFonic has patched out a sex mini-game after a gameplay clip went vi...",
-      "url": "https://www.ign.com/articles/halloween-the-game-appears-to-patch-out-a-sex-minigame-and-players-think-they-know-why",
-      "publishedAt": "2026-09-07T04:02:51Z",
-      "processed_at": "2026-09-08T05:49:20.053232+00:00"
+      "description": "An investigation by Gamers Nexus found LG smart TVs sweep local networks to map phones and nearby de...",
+      "url": "https://www.notebookcheck.net/LG-smart-TVs-caught-logging-audio-with-screen-off-and-snooping-on-local-devices.1391214.0.html",
+      "publishedAt": "2026-09-07T05:40:00Z",
+      "processed_at": "2026-09-08T10:47:06.243707+00:00"
     },
     {
-      "title": "John Ternus’s first test at Apple: selling a $2,000 foldable iPhone - Financial Times",
+      "title": "Scientists find a way to slash computer memory energy use by orders of magnitude - Science Daily",
       "source": {
-        "name": "Financial Times"
+        "name": "Science Daily"
       },
-      "description": "Smartphone maker needs to raise prices across its device range to make up for rising costs...",
-      "url": "https://www.ft.com/content/8bbc2b5f-d1fc-4d8d-8085-4c27c362653a?syn-25a6b1a6\\\\u003d1",
-      "publishedAt": "2026-09-07T04:00:19Z",
-      "processed_at": "2026-09-08T05:49:20.053232+00:00"
+      "description": "Scientists have devised a new way to switch magnetic computer memory while using far less energy tha...",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260906170132.htm",
+      "publishedAt": "2026-09-07T01:15:56Z",
+      "processed_at": "2026-09-08T10:47:06.243707+00:00"
+    },
+    {
+      "title": "Apple (AAPL) Sets iPhone Launch Event. The First Under New CEO John Ternus - Yahoo Finance",
+      "source": {
+        "name": "Yahoo Entertainment"
+      },
+      "description": "CNBC and Reuters reported that Apple Inc. (NASDAQ:AAPL) will hold its next product launch event on S...",
+      "url": "https://finance.yahoo.com/technology/articles/apple-aapl-sets-iphone-launch-221225248.html",
+      "publishedAt": "2026-09-06T22:12:25Z",
+      "processed_at": "2026-09-08T10:47:06.243707+00:00"
     },
     {
       "title": "Miami sheriff blasts Dem mayor for planned Grand Theft Auto 6 tie-in that top cops claim glorifies crime - New York Post",
@@ -40,27 +50,17 @@
       "description": "The Miami-Dade County Sheriff blasted a proposal that would temporarily transform Miami into a real-...",
       "url": "https://nypost.com/2026/09/06/us-news/miami-sheriff-blasts-dem-mayor-for-planned-grand-theft-auto-6-tie-in-that-top-cops-claim-glorifies-crime/",
       "publishedAt": "2026-09-06T22:09:00Z",
-      "processed_at": "2026-09-08T05:49:20.053232+00:00"
+      "processed_at": "2026-09-08T10:47:06.243707+00:00"
     },
     {
-      "title": "'You Might Not Have Every Companion You Started With' — Exodus Ending and Character Fates Change Based on Your Choices - ign.com",
+      "title": "The Top Tech Trends at IFA Berlin 2026 - CNET",
       "source": {
-        "name": "IGN"
+        "name": "CNET"
       },
-      "description": "Exodus is an upcoming sci-fi RPG that will account for the decisions you make in its story, and its ...",
-      "url": "https://www.ign.com/articles/exodus-companions-might-not-make-the-ending-based-on-player-choices-mass-effect",
-      "publishedAt": "2026-09-06T20:47:47Z",
-      "processed_at": "2026-09-08T05:49:20.053232+00:00"
-    },
-    {
-      "title": "iPhone 18 colors, Galaxy S27 Ultra camera detailed, Poco F9 series unveiled, Week 36 in review - GSMArena.com news - gsmarena.com",
-      "source": {
-        "name": "GSMArena.com"
-      },
-      "description": "vivo T5 5g also unveiled. The iPhone 18 Pro and Pro Max could get a completely refreshed color palet...",
-      "url": "https://www.gsmarena.com/iphone_18_colors_galaxy_s27_ultra_camera_detailed_poco_f9_series_unveiled_week_36_in_review-news-74483.php",
-      "publishedAt": "2026-09-06T19:31:02Z",
-      "processed_at": "2026-09-08T05:49:20.053232+00:00"
+      "description": "Here are six of the top trends I spotted while roaming the IFA floor....",
+      "url": "https://www.cnet.com/tech/tech-industry/the-top-tech-trends-at-ifa-berlin-2026-2/",
+      "publishedAt": "2026-09-06T20:31:53Z",
+      "processed_at": "2026-09-08T10:47:06.243707+00:00"
     },
     {
       "title": "This Samsung TV deal stopped me mid-scroll. Save $1,200 right now - USA Today",
@@ -70,7 +70,17 @@
       "description": "From foldable phones to premium home entertainment systems, Samsung is offering savings of up to $1,...",
       "url": "https://www.usatoday.com/story/shopping/deals/labor-day/2026/09/06/samsung-labor-day-tech-sale-2026/91642540007/",
       "publishedAt": "2026-09-06T17:56:00Z",
-      "processed_at": "2026-09-08T05:49:20.053232+00:00"
+      "processed_at": "2026-09-08T10:47:06.243707+00:00"
+    },
+    {
+      "title": "TCL Reveals New Soundbar Range - Forbes",
+      "source": {
+        "name": "Forbes"
+      },
+      "description": "",
+      "url": "https://www.forbes.com/sites/johnarcher/2026/09/06/tcl-reveals-new-soundbar-range/",
+      "publishedAt": "2026-09-06T17:13:12Z",
+      "processed_at": "2026-09-08T10:47:06.243707+00:00"
     },
     {
       "title": "Sunday Preview – Shake the earth with the Sons of Behemat - Warhammer Community",
@@ -80,30 +90,10 @@
       "description": "See what’s coming up for pre-order next week....",
       "url": "https://www.warhammer-community.com/articles/krnawho8/sunday-preview-shake-the-earth-with-the-sons-of-behemat",
       "publishedAt": "2026-09-06T16:55:43Z",
-      "processed_at": "2026-09-08T05:49:20.053232+00:00"
-    },
-    {
-      "title": "Boox’s tiny Picco e-reader should land in November - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "There won’t be magnets and there’s still no word on price, though....",
-      "url": "https://www.theverge.com/tech/990895/boox-picco-tiny-e-reader-november-ifa",
-      "publishedAt": "2026-09-06T16:28:58Z",
-      "processed_at": "2026-09-08T05:49:20.053232+00:00"
-    },
-    {
-      "title": "LibreWolf 155.0.1-1 - Neowin",
-      "source": {
-        "name": "Neowin"
-      },
-      "description": "",
-      "url": "https://www.neowin.net/software/librewolf-15501-1/",
-      "publishedAt": "2026-09-06T16:11:24Z",
-      "processed_at": "2026-09-08T05:49:20.053232+00:00"
+      "processed_at": "2026-09-08T10:47:06.243707+00:00"
     }
   ],
-  "lastUpdated": "2026-09-08T05:49:20.053311+00:00",
+  "lastUpdated": "2026-09-08T10:47:06.243779+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
