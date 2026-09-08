@@ -1,109 +1,99 @@
 {
   "status": "success",
-  "totalResults": 10,
+  "totalResults": 9,
   "articles": [
     {
-      "title": "Three new iPhones launch this week, here’s what’s coming - 9to5Mac",
+      "title": "GTA 6's Worldwide Release Times Revealed - with New Zealand Set to Receive Access 19 Hours Before Mexico and Central America - Digital Foundry",
       "source": {
-        "name": "9to5Mac"
+        "name": "Digitalfoundry.net"
       },
-      "description": "Apple’s big September event is almost here, with three new iPhone models set to launch: iPhone 18 Pr...",
-      "url": "https://9to5mac.com/2026/09/07/three-new-iphones-launch-this-week-heres-whats-coming/",
-      "publishedAt": "2026-09-07T12:23:00Z",
-      "processed_at": "2026-09-08T14:57:03.524034+00:00"
+      "description": "Will you become an honorary Kiwi to play early?...",
+      "url": "https://www.digitalfoundry.net/news/2026/09/gta-6s-worldwide-release-times-revealed-with-new-zealand-set-to-receive-access-19-hours-before-mexico-and-central-america",
+      "publishedAt": "2026-09-07T17:59:00Z",
+      "processed_at": "2026-09-08T18:25:30.236645+00:00"
     },
     {
-      "title": "iPhone 18 Pro: Nine Reasons Not to Upgrade This Year - macrumors.com",
+      "title": "Five iPhone 18 Pro Camera Features Seemingly Leak in Code - MacRumors",
       "source": {
         "name": "MacRumors"
       },
-      "description": "Apple is set to unveil new iPhone 18 Pro and iPhone 18 Pro Max models on Wednesday, September 9, and...",
-      "url": "https://www.macrumors.com/2026/09/07/iphone-18-pro-reasons-not-to-upgrade-this-year/",
-      "publishedAt": "2026-09-07T12:01:27Z",
-      "processed_at": "2026-09-08T14:57:03.524034+00:00"
+      "description": "Apple is working on a broader set of Camera app improvements in iOS 27 it has announced, according t...",
+      "url": "https://www.macrumors.com/2026/09/07/five-iphone-18-pro-camera-features-seemingly-leak/",
+      "publishedAt": "2026-09-07T16:07:39Z",
+      "processed_at": "2026-09-08T18:25:30.236645+00:00"
     },
     {
-      "title": "Last Chance To Check Out 84 Switch 1 & 2 Games In Nintendo's Blockbuster eShop Sale (US) - Nintendo Life",
+      "title": "Sony brings back its fan-favorite headphones, the XM4 - The Verge",
       "source": {
-        "name": "Nintendo Life"
+        "name": "The Verge"
       },
-      "description": "Attack the Block(buster)...",
-      "url": "https://www.nintendolife.com/guides/last-chance-to-check-out-84-switch-1-and-2-games-in-nintendos-blockbuster-eshop-sale-us",
-      "publishedAt": "2026-09-07T12:00:00Z",
-      "processed_at": "2026-09-08T14:57:03.524034+00:00"
+      "description": "After the WH-1000XM4 were discontinued in 2025, Sony is bringing them back as the WH-1000XM4C....",
+      "url": "https://www.theverge.com/tech/990687/sony-announces-xm4c-headphones",
+      "publishedAt": "2026-09-07T16:00:00Z",
+      "processed_at": "2026-09-08T18:25:30.236645+00:00"
     },
     {
-      "title": "User Demonstrates Offloading DLSS 5 Neural Rendering To The Second RTX 5060 Ti Using ReShade Add-On, Restoring Original Performance - Wccftech",
+      "title": "Leak Hints at Four New Features for Apple Watch Series 12 and Ultra 4 - MacRumors",
       "source": {
-        "name": "Wccftech"
+        "name": "MacRumors"
       },
-      "description": "DLSS 5 Neural Rendering can now run on a second GPU with MGPU Bridge, boosting performance in games ...",
-      "url": "https://wccftech.com/dlss-5-runs-on-dual-gpu-setup-using-reshade-add-on/",
-      "publishedAt": "2026-09-07T11:56:37Z",
-      "processed_at": "2026-09-08T14:57:03.524034+00:00"
+      "description": "Ahead of the announcement of the Apple Watch Series 12 and Ultra 4 later this week, code in the watc...",
+      "url": "https://www.macrumors.com/2026/09/07/leak-hints-at-four-new-apple-watch-features/",
+      "publishedAt": "2026-09-07T15:57:56Z",
+      "processed_at": "2026-09-08T18:25:30.236645+00:00"
     },
     {
-      "title": "Pokémon Go is Milking Mewtwo Too Hard, Fans Say, After a Lackluster Weekend Event Marred by More Server Issues - IGN",
+      "title": "Xiaomi Announces Foldable iPhone Rival - MacRumors",
+      "source": {
+        "name": "MacRumors"
+      },
+      "description": "Xiaomi today officially announced the 18 Fold, its first wide-format foldable, at a product event in...",
+      "url": "https://www.macrumors.com/2026/09/07/xiaomi-announces-foldable-iphone-rival/",
+      "publishedAt": "2026-09-07T15:26:11Z",
+      "processed_at": "2026-09-08T18:25:30.236645+00:00"
+    },
+    {
+      "title": "Walmart Has PS5 Pro Consoles Back in Stock for Labor Day, if You Can Stomach the Price - IGN",
       "source": {
         "name": "IGN"
       },
-      "description": "Mewtwo is being milked too hard, fans say, as Pokémon Go continues to capitalize on the creature's p...",
-      "url": "https://www.ign.com/articles/pokemon-go-is-milking-mewtwo-too-hard-fans-say-after-a-lackluster-weekend-event-marred-by-more-server-issues",
-      "publishedAt": "2026-09-07T11:41:05Z",
-      "processed_at": "2026-09-08T14:57:03.524034+00:00"
+      "description": "Walmart has a few PS5 Pro console bundles in stock right now during Labor Day sales... if you can st...",
+      "url": "https://www.ign.com/articles/walmart-ps5-pro-restock-labor-day",
+      "publishedAt": "2026-09-07T15:05:00Z",
+      "processed_at": "2026-09-08T18:25:30.236645+00:00"
     },
     {
-      "title": "Pokémon Champions’ director vows to keep turn-based battles as single-player is ruled out - Video Games Chronicle",
+      "title": "Pokémon TCG First Partner Collection Series 3 Is Back in Stock at Amazon - IGN",
       "source": {
-        "name": "Video Games Chronicle"
+        "name": "IGN"
       },
-      "description": "Masaaki Hoshino reflects on Champions' launch and discusses the future of competitive Pokémon...",
-      "url": "https://www.videogameschronicle.com/features/pokemon-champions-director-vows-to-keep-turn-based-battles-as-single-player-is-ruled-out/",
-      "publishedAt": "2026-09-07T11:18:10Z",
-      "processed_at": "2026-09-08T14:57:03.524034+00:00"
+      "description": "Amazon has restocked the Pokémon TCG First Partner Illustration Collection Series 3 at market price....",
+      "url": "https://www.ign.com/articles/pokemon-tcg-first-partner-series-3-amazon-restock",
+      "publishedAt": "2026-09-07T15:00:00Z",
+      "processed_at": "2026-09-08T18:25:30.236645+00:00"
     },
     {
-      "title": "Xbox Is Telling Some People They Don't Need To Worry About Cloud Gaming Time Limits - Pure Xbox",
+      "title": "Google Messages slowly rolling out fix for bug that randomly sends old texts to other people - 9to5Google",
       "source": {
-        "name": "Pure Xbox"
+        "name": "9to5google.com"
       },
-      "description": "Emails being sent to users in specific countries...",
-      "url": "https://www.purexbox.com/news/2026/09/xbox-is-telling-some-people-they-dont-need-to-worry-about-cloud-gaming-time-limits",
-      "publishedAt": "2026-09-07T11:00:00Z",
-      "processed_at": "2026-09-08T14:57:03.524034+00:00"
+      "description": "A bug in Google Messages is causing the app to randomly send old text messages to other random peopl...",
+      "url": "http://9to5google.com/2026/09/07/google-messages-old-texts-bug-fix/",
+      "publishedAt": "2026-09-07T14:25:00Z",
+      "processed_at": "2026-09-08T18:25:30.236645+00:00"
     },
     {
-      "title": "An Iconic Playstation FPS Is Coming Back, Claims New Report - Polygon.com",
+      "title": "Video: Here's What Nintendo's Revised Switch 2 Console Looks Like - Nintendo Life",
       "source": {
-        "name": "Polygon"
+        "name": "Nintendo Life"
       },
-      "description": "A new report claims that Killzone is coming back soon, in the form of a remaster from both Guerilla ...",
-      "url": "https://www.polygon.com/killzone-remaster-guerilla-games-people-can-fly-report-2026/",
-      "publishedAt": "2026-09-07T10:50:27Z",
-      "processed_at": "2026-09-08T14:57:03.524034+00:00"
-    },
-    {
-      "title": "Onimusha: Way of the Sword has already sold over 1 million copies - Eurogamer.net",
-      "source": {
-        "name": "Eurogamer.net"
-      },
-      "description": "Onimusha: Way of the Sword is a certified hit, one of several for Capcom this year....",
-      "url": "https://www.eurogamer.net/onimusha-way-of-the-sword-one-million-sales",
-      "publishedAt": "2026-09-07T10:19:15Z",
-      "processed_at": "2026-09-08T14:57:03.524034+00:00"
-    },
-    {
-      "title": "Lenovo's newest tablets come with Android 17, 7 OS upgrades, huge batteries, and stunning screens - PhoneArena",
-      "source": {
-        "name": "PhoneArena"
-      },
-      "description": "",
-      "url": "https://www.phonearena.com/news/lenovo-yoga-tab-gen-2-yoga-tab-plus-gen-2-official-specs-features-prices-us-availability_id183126",
-      "publishedAt": "2026-09-07T10:09:31Z",
-      "processed_at": "2026-09-08T14:57:03.524034+00:00"
+      "description": "Spoiler: It's really similar...",
+      "url": "https://www.nintendolife.com/news/2026/09/video-heres-what-nintendos-revised-switch-2-console-looks-like",
+      "publishedAt": "2026-09-07T14:15:00Z",
+      "processed_at": "2026-09-08T18:25:30.236645+00:00"
     }
   ],
-  "lastUpdated": "2026-09-08T14:57:03.524112+00:00",
+  "lastUpdated": "2026-09-08T18:25:30.236716+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
