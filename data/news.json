@@ -1,7 +1,37 @@
 {
   "status": "success",
-  "totalResults": 10,
+  "totalResults": 9,
   "articles": [
+    {
+      "title": "Labor Day is a great time to save on MacBooks, iPads, AirPods and Apple Watches - CNN",
+      "source": {
+        "name": "CNN"
+      },
+      "description": "Apple products like AirPods, iPads, MacBooks and official accessories are on sale during the final h...",
+      "url": "https://www.cnn.com/cnn-underscored/deals/apple-labor-day-sale-2026-09-07",
+      "publishedAt": "2026-09-08T00:41:00Z",
+      "processed_at": "2026-09-08T23:53:57.646179+00:00"
+    },
+    {
+      "title": "Arjun's gameplay trailer for Street Fighter 6, releases in October - EventHubs",
+      "source": {
+        "name": "EventHubs"
+      },
+      "description": "Just yesterday, Capcom announced that Arjun's gameplay trailer was set to go live today at 4:00 p.m....",
+      "url": "https://www.eventhubs.com/news/2026/sep/07/arjun-gameplay-trailer-sf6-reveal/",
+      "publishedAt": "2026-09-07T22:31:00Z",
+      "processed_at": "2026-09-08T23:53:57.646179+00:00"
+    },
+    {
+      "title": "Amal Clooney Stuns in a Plunging Red-Hot Strapless Gown and a Colorful Beaded Necklace - instyle.com",
+      "source": {
+        "name": "InStyle"
+      },
+      "description": "Amal Clooney turned up the heat in a plunging red-hot gown and a colorful statement necklace while a...",
+      "url": "https://www.instyle.com/amal-clooney-plunging-red-strapless-dress-beaded-necklace-cartier-venice-film-festival-12110550",
+      "publishedAt": "2026-09-07T20:58:22Z",
+      "processed_at": "2026-09-08T23:53:57.646179+00:00"
+    },
     {
       "title": "'Next This Game Will Make You File Tax Returns' — Is GTA 6 Too Realistic for Its Own Good? Refueling Cars and Gun Restrictions Spark Debate - IGN",
       "source": {
@@ -10,7 +40,7 @@
       "description": "Early Grand Theft Auto 6 details have sparked debate about whether Rockstar Games' latest is too rea...",
       "url": "https://www.ign.com/articles/is-gta-6-too-realistic-for-its-own-good-refueling-cars-and-gun-restrictions-spark-debate",
       "publishedAt": "2026-09-07T19:09:53Z",
-      "processed_at": "2026-09-08T21:38:04.225012+00:00"
+      "processed_at": "2026-09-08T23:53:57.646179+00:00"
     },
     {
       "title": "ASUS details ProArt GR1X mini PC with NVIDIA RTX Spark, 128GB unified memory and 10GbE - VideoCardz.com",
@@ -20,7 +50,7 @@
       "description": "ASUS has finalized more specifications for its RTX Spark ProArt hardware. The GR1X mini PC measures ...",
       "url": "https://videocardz.com/newz/asus-details-proart-gr1x-mini-pc-with-nvidia-rtx-spark-128gb-unified-memory-and-10gbe",
       "publishedAt": "2026-09-07T18:18:25Z",
-      "processed_at": "2026-09-08T21:38:04.225012+00:00"
+      "processed_at": "2026-09-08T23:53:57.646179+00:00"
     },
     {
       "title": "Final Fantasy Resonance modders have already reinstated the original mobile game's biggest icon, Ariana Grande - eurogamer.net",
@@ -30,17 +60,7 @@
       "description": "Final Fantasy Resonance isn't even out yet, but modders are already reviving characters from Brave E...",
       "url": "https://www.eurogamer.net/final-fantasy-resonance-mod-ariana-grande-mobile-game",
       "publishedAt": "2026-09-07T18:07:32Z",
-      "processed_at": "2026-09-08T21:38:04.225012+00:00"
-    },
-    {
-      "title": "Forza Horizon 6 PS5 Release Window Confirmed - insider-gaming.com",
-      "source": {
-        "name": "Insider-gaming.com"
-      },
-      "description": "The developers of Forza Horizon 6 have just provided players with the PS5 release window. Here are m...",
-      "url": "https://insider-gaming.com/forza-horizon-6-ps5-release-window-confirmed/",
-      "publishedAt": "2026-09-07T18:05:06Z",
-      "processed_at": "2026-09-08T21:38:04.225012+00:00"
+      "processed_at": "2026-09-08T23:53:57.646179+00:00"
     },
     {
       "title": "GTA 6's Worldwide Release Times Revealed - with New Zealand Set to Receive Access 19 Hours Before Mexico and Central America - Digital Foundry",
@@ -50,7 +70,7 @@
       "description": "Will you become an honorary Kiwi to play early?...",
       "url": "https://www.digitalfoundry.net/news/2026/09/gta-6s-worldwide-release-times-revealed-with-new-zealand-set-to-receive-access-19-hours-before-mexico-and-central-america",
       "publishedAt": "2026-09-07T17:59:00Z",
-      "processed_at": "2026-09-08T21:38:04.225012+00:00"
+      "processed_at": "2026-09-08T23:53:57.646179+00:00"
     },
     {
       "title": "Two years after its rocky launch, Civilization 7's first paid expansion Earthrise is on its way - but first comes the atomic age - eurogamer.net",
@@ -60,7 +80,7 @@
       "description": "As the legendary Civilization series celebrates its 35th anniversary, developer Firaxis has unveiled...",
       "url": "https://www.eurogamer.net/civilization-7-paid-expansion-earthrise-atomic-age-free-update",
       "publishedAt": "2026-09-07T17:31:14Z",
-      "processed_at": "2026-09-08T21:38:04.225012+00:00"
+      "processed_at": "2026-09-08T23:53:57.646179+00:00"
     },
     {
       "title": "Disconnect your LG television from the internet, now - AppleInsider",
@@ -70,40 +90,10 @@
       "description": "If you've got an Apple TV set-top box, that's not enough to protect your privacy if you have an LG t...",
       "url": "https://appleinsider.com/articles/26/09/07/disconnect-your-lg-television-from-the-internet-now",
       "publishedAt": "2026-09-07T17:20:51Z",
-      "processed_at": "2026-09-08T21:38:04.225012+00:00"
-    },
-    {
-      "title": "New Super Smash Bros and Nintendogs games are on the way, according to prominent Nintendo leaker - eurogamer.net",
-      "source": {
-        "name": "Eurogamer.net"
-      },
-      "description": "",
-      "url": "https://www.eurogamer.net/super-smash-bros-new-nintendogs-games-nintendo-leaker",
-      "publishedAt": "2026-09-07T17:14:35Z",
-      "processed_at": "2026-09-08T21:38:04.225012+00:00"
-    },
-    {
-      "title": "It’s 10 p.m., and your kids want to know where you are - The Washington Post",
-      "source": {
-        "name": "The Washington Post"
-      },
-      "description": "They want to know where you are — and whether you can pick up Starbucks on the way home....",
-      "url": "https://www.washingtonpost.com/style/2026/09/07/parents-are-tracking-their-kids-kids-are-tracking-them-right-back/",
-      "publishedAt": "2026-09-07T17:00:01Z",
-      "processed_at": "2026-09-08T21:38:04.225012+00:00"
-    },
-    {
-      "title": "Capcom says it will focus on reviving dormant IPs after Onimusha: Way of the Sword's breakout launch - GamesIndustry.biz",
-      "source": {
-        "name": "GamesIndustry.biz"
-      },
-      "description": "Capcom has revealed it will focus on reactivating dormant intellectual property following a strong l...",
-      "url": "https://www.gamesindustry.biz/capcom-says-it-will-focus-on-reviving-dormant-ips-after-onimusha-way-of-the-swords-breakout-launch",
-      "publishedAt": "2026-09-07T16:51:44Z",
-      "processed_at": "2026-09-08T21:38:04.225012+00:00"
+      "processed_at": "2026-09-08T23:53:57.646179+00:00"
     }
   ],
-  "lastUpdated": "2026-09-08T21:38:04.225078+00:00",
+  "lastUpdated": "2026-09-08T23:53:57.646250+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
