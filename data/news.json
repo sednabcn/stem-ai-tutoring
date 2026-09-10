@@ -1,16 +1,36 @@
 {
   "status": "success",
-  "totalResults": 10,
+  "totalResults": 9,
   "articles": [
     {
-      "title": "Apple adds 37 hardware identifiers ahead of ‘Surprise and Shine’ event - 9to5Mac",
+      "title": "Major Persona 6 Spoilers May Have Just Leaked In A Crazy Way - Kotaku",
       "source": {
-        "name": "9to5Mac"
+        "name": "Kotaku"
       },
-      "description": "Apple has added new hardware identifiers for iPhones, iPads, Macs, and other devices, some of which ...",
-      "url": "https://9to5mac.com/2026/09/08/apple-adds-37-hardware-identifiers-ahead-of-surprise-and-shine-event/",
-      "publishedAt": "2026-09-08T23:27:00Z",
-      "processed_at": "2026-09-10T01:00:00.394766+00:00"
+      "description": "Atlus has been very tight-lipped on the upcoming RPG...",
+      "url": "https://kotaku.com/persona-6-spoilers-leaks-steam-achievements-story-characters-2000732445",
+      "publishedAt": "2026-09-09T01:34:53Z",
+      "processed_at": "2026-09-10T05:51:06.732345+00:00"
+    },
+    {
+      "title": "Zelda: Master Collection Trading Cards Are On The Way - Nintendo Life",
+      "source": {
+        "name": "Nintendo Life"
+      },
+      "description": "Celebrating 40 years of Link...",
+      "url": "https://www.nintendolife.com/news/2026/09/zelda-master-collection-trading-cards-are-on-the-way",
+      "publishedAt": "2026-09-09T00:45:00Z",
+      "processed_at": "2026-09-10T05:51:06.732345+00:00"
+    },
+    {
+      "title": "Xbox’s Disc‑to‑Digital program just got a major boost as Ubisoft signs on with more publishers expected soon - Windows Central",
+      "source": {
+        "name": "Windows Central"
+      },
+      "description": "Some outlets were highlighting Ubisoft's lack of involvement in Xbox's disc-to-digital program. Perh...",
+      "url": "https://www.windowscentral.com/gaming/xbox/ubisoft-joins-xboxs-disc-to-digital-program-with-more-publishers-to-follow",
+      "publishedAt": "2026-09-08T23:58:27Z",
+      "processed_at": "2026-09-10T05:51:06.732345+00:00"
     },
     {
       "title": "Apple wanted the iPhone Ultra to cost $1,999, new report says - GSMArena.com news - GSMArena.com",
@@ -20,7 +40,7 @@
       "description": "But the RAM apocalypse intervened. Apple is holding its big annual iPhone launch event on September ...",
       "url": "https://www.gsmarena.com/apple_wanted_the_iphone_ultra_to_cost_1999_new_report_says-news-74523.php",
       "publishedAt": "2026-09-08T23:02:01Z",
-      "processed_at": "2026-09-10T01:00:00.394766+00:00"
+      "processed_at": "2026-09-10T05:51:06.732345+00:00"
     },
     {
       "title": "Microsoft Plugs Nearly 1,000 Security Holes - Krebs on Security",
@@ -30,7 +50,7 @@
       "description": "",
       "url": "https://krebsonsecurity.com/2026/09/microsoft-plugs-nearly-1000-security-holes/",
       "publishedAt": "2026-09-08T22:07:59Z",
-      "processed_at": "2026-09-10T01:00:00.394766+00:00"
+      "processed_at": "2026-09-10T05:51:06.732345+00:00"
     },
     {
       "title": "LG TV shown scanning LAN for third-party phones and other devices - Ars Technica",
@@ -40,7 +60,7 @@
       "description": "“It doesn’t cost a lot to store text forever.”......",
       "url": "https://arstechnica.com/gadgets/2026/09/lg-tv-shown-capable-of-tracking-user-activity-even-when-offline/",
       "publishedAt": "2026-09-08T21:52:29Z",
-      "processed_at": "2026-09-10T01:00:00.394766+00:00"
+      "processed_at": "2026-09-10T05:51:06.732345+00:00"
     },
     {
       "title": "GOG brings back \"big box\" PC games, one printable template at a time - Ars Technica",
@@ -50,37 +70,7 @@
       "description": "Preservation \"goodies\" also includes downloadable 3D models for desktop perusal....",
       "url": "https://arstechnica.com/gaming/2026/09/gog-brings-back-big-box-pc-games-one-printable-template-at-a-time/",
       "publishedAt": "2026-09-08T21:23:13Z",
-      "processed_at": "2026-09-10T01:00:00.394766+00:00"
-    },
-    {
-      "title": "Apple Releases Firmware Update for 140W USB-C Power Adapter - MacRumors",
-      "source": {
-        "name": "MacRumors"
-      },
-      "description": "Apple today released a firmware update (version 1.4.90) for its 140W USB-C Power Adapter.  It is unc...",
-      "url": "https://www.macrumors.com/2026/09/08/apple-releases-140w-usb-c-charger-firmware-update/",
-      "publishedAt": "2026-09-08T20:34:55Z",
-      "processed_at": "2026-09-10T01:00:00.394766+00:00"
-    },
-    {
-      "title": "Apple event expected to deliver foldable iPhone and debut of new CEO John Ternus - CBS News",
-      "source": {
-        "name": "CBS News"
-      },
-      "description": "Apple's Sept. 9 tech showcase is set to feature new CEO John Ternus unveiling its first foldable iPh...",
-      "url": "https://www.cbsnews.com/news/apple-event-foldable-iphone-john-ternus/",
-      "publishedAt": "2026-09-08T20:25:52Z",
-      "processed_at": "2026-09-10T01:00:00.394766+00:00"
-    },
-    {
-      "title": "ChatGPT Sketch turns your bad drawings into detailed AI images - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "OpenAI has launched ChatGPT Images 2.5 and added a new “Sketch” feature that lets you make a doodle ...",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/991727/openai-chatgpt-images-2-5-sketch",
-      "publishedAt": "2026-09-08T20:16:09Z",
-      "processed_at": "2026-09-10T01:00:00.394766+00:00"
+      "processed_at": "2026-09-10T05:51:06.732345+00:00"
     },
     {
       "title": "Exclusive: Two of gaming’s biggest names are making a big investment in gaming’s future - Game File | Stephen Totilo",
@@ -90,7 +80,7 @@
       "description": "Mark Cerny and Geoff Keighley are spending time and big money to launch a fellowship program for gam...",
       "url": "https://www.gamefile.news/p/nova-games-foundation-mark-cerny-geoff-keighley",
       "publishedAt": "2026-09-08T19:12:02Z",
-      "processed_at": "2026-09-10T01:00:00.394766+00:00"
+      "processed_at": "2026-09-10T05:51:06.732345+00:00"
     },
     {
       "title": "Sonos just launched ‘Sonos 27’ app update, here’s what’s new - 9to5Mac",
@@ -100,10 +90,10 @@
       "description": "Last week Sonos unveiled several new features coming soon, and now the first of those upgrades are h...",
       "url": "https://9to5mac.com/2026/09/08/sonos-just-launched-sonos-27-app-update-heres-whats-new/",
       "publishedAt": "2026-09-08T18:59:00Z",
-      "processed_at": "2026-09-10T01:00:00.394766+00:00"
+      "processed_at": "2026-09-10T05:51:06.732345+00:00"
     }
   ],
-  "lastUpdated": "2026-09-10T01:00:00.394838+00:00",
+  "lastUpdated": "2026-09-10T05:51:06.732404+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
