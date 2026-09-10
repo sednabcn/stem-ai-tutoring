@@ -3,34 +3,74 @@
   "totalResults": 10,
   "articles": [
     {
-      "title": "New Apple CEO to unveil latest iPhone lineup - AP News",
+      "title": "iPhone 18 Pro Details Purportedly Leaked By Verizon's AI Assistant - MacRumors",
       "source": {
-        "name": "Associated Press"
+        "name": "MacRumors"
       },
-      "description": "Apple is unveiling its latest generation of iPhones on Wednesday at an event headlined by new CEO Jo...",
-      "url": "https://apnews.com/article/apple-foldable-iphone-ternus-fd35312e6d894d5f3b055b3d62f22cd2",
-      "publishedAt": "2026-09-09T07:02:00Z",
-      "processed_at": "2026-09-10T10:50:15.720041+00:00"
+      "description": "A series of screenshots shared with MacRumors today seemingly show Verizon's AI chat assistant answe...",
+      "url": "https://www.macrumors.com/2026/09/09/iphone-18-pro-details-leaked-by-verizon/",
+      "publishedAt": "2026-09-09T11:28:32Z",
+      "processed_at": "2026-09-10T14:54:10.102972+00:00"
     },
     {
-      "title": "Kingdom Hearts 4's Disney Worlds May Have Been Revealed By Massive Steam Leak - kotaku.com",
+      "title": "Samsung ‘advice’ to Apple suggests it fears the build quality of the iPhone Duo - 9to5mac.com",
       "source": {
-        "name": "Kotaku"
+        "name": "9to5Mac"
+      },
+      "description": "Samsung says it welcomes Apple’s entry into the foldable smartphone market, although the company app...",
+      "url": "https://9to5mac.com/2026/09/09/samsung-advice-to-apple-suggests-it-fears-the-build-quality-of-the-iphone-duo/",
+      "publishedAt": "2026-09-09T10:58:00Z",
+      "processed_at": "2026-09-10T14:54:10.102972+00:00"
+    },
+    {
+      "title": "Massive achievement leak seemingly stemming from Steam reveals info on Persona 6, Kingdom Hearts 4, and multiple unreleased PC games - Eurogamer.net",
+      "source": {
+        "name": "Eurogamer.net"
       },
       "description": "",
-      "url": "https://kotaku.com/kingdom-hearts-4-disney-worlds-coco-zootopia-star-wars-2000732471",
-      "publishedAt": "2026-09-09T06:04:42Z",
-      "processed_at": "2026-09-10T10:50:15.720041+00:00"
+      "url": "https://www.eurogamer.net/achievement-leak-persona-6-kingdom-hearts-games-list-steam",
+      "publishedAt": "2026-09-09T10:34:15Z",
+      "processed_at": "2026-09-10T14:54:10.102972+00:00"
     },
     {
-      "title": "Apple’s foldable ‘iPhone Duo’ will reportedly start at $2,000 - The Verge",
+      "title": "Apple’s (AAPL) “Surprise and Shine” Event Tests Its Foldable iPhone Against Huawei and Xiaomi - Yahoo Finance",
       "source": {
-        "name": "The Verge"
+        "name": "Yahoo Entertainment"
       },
-      "description": "Apple’s foldable iPhone will be called the iPhone Duo, according to a report from Bloomberg....",
-      "url": "https://www.theverge.com/tech/991884/apple-iphone-duo-rumor-foldable",
-      "publishedAt": "2026-09-09T05:26:00Z",
-      "processed_at": "2026-09-10T10:50:15.720041+00:00"
+      "description": "Wall Street sees Apple Inc. (NASDAQ:AAPL) entering a significant hardware cycle ahead of its “Surpri...",
+      "url": "https://finance.yahoo.com/technology/articles/apple-aapl-surprise-shine-event-101521233.html",
+      "publishedAt": "2026-09-09T10:15:21Z",
+      "processed_at": "2026-09-10T14:54:10.102972+00:00"
+    },
+    {
+      "title": "The new Apple Watch will use microphone and other sensors to generate AI recaps of your day - 9to5Mac",
+      "source": {
+        "name": "9to5Mac"
+      },
+      "description": "Apple will announce the new Apple Watch lineup later today, and Mark Gurman at Bloomberg has the ear...",
+      "url": "https://9to5mac.com/2026/09/09/the-new-apple-watch-will-use-microphone-and-other-sensors-to-generate-ai-recaps-of-your-day/",
+      "publishedAt": "2026-09-09T07:52:00Z",
+      "processed_at": "2026-09-10T14:54:10.102972+00:00"
+    },
+    {
+      "title": "Google warns of new Chrome zero-day bug exploited in attacks - bleepingcomputer.com",
+      "source": {
+        "name": "BleepingComputer"
+      },
+      "description": "Google has patched 230 vulnerabilities on Tuesday, including another actively exploited Chrome zero-...",
+      "url": "https://www.bleepingcomputer.com/news/security/google-patches-seventh-chrome-zero-day-exploited-in-attacks-this-year/",
+      "publishedAt": "2026-09-09T06:25:48Z",
+      "processed_at": "2026-09-10T14:54:10.102972+00:00"
+    },
+    {
+      "title": "OM System PEN review: Get the F out! This camera isn't a PEN-F II – but it's better in every single way - Digital Camera World",
+      "source": {
+        "name": "Digital Camera World"
+      },
+      "description": "The OM System PEN is the ultimate everyday carry – and in many ways, a better Lumix L10 than the act...",
+      "url": "https://www.digitalcameraworld.com/cameras/mirrorless-cameras/om-system-pen-review",
+      "publishedAt": "2026-09-09T06:06:29Z",
+      "processed_at": "2026-09-10T14:54:10.102972+00:00"
     },
     {
       "title": "Multiple amiibo Listings Have Apparently Been Spotted On GameStop's Internal Database - Nintendo Life",
@@ -40,70 +80,30 @@
       "description": "New Zelda amiibo were announced yesterday...",
       "url": "https://www.nintendolife.com/news/2026/09/multiple-amiibo-listings-have-apparently-been-spotted-on-gamestops-internal-database",
       "publishedAt": "2026-09-09T04:55:00Z",
-      "processed_at": "2026-09-10T10:50:15.720041+00:00"
+      "processed_at": "2026-09-10T14:54:10.102972+00:00"
     },
     {
-      "title": "First Real Canon EOS R8 Mark II Images Surface Alongside Full Specs & Pricing - Canon Rumors",
+      "title": "Valheim 1.0 Launches After 5 Years in Early Access - TechPowerUp",
       "source": {
-        "name": "Canonrumors.com"
+        "name": "Techpowerup.com"
       },
-      "description": "A person on Reddit has posted a bunch of images of the Canon EOS R8 Mark II that are the real deal. ...",
-      "url": "https://www.canonrumors.com/first-real-canon-eos-r8-mark-ii-images-surface/",
-      "publishedAt": "2026-09-09T03:37:52Z",
-      "processed_at": "2026-09-10T10:50:15.720041+00:00"
+      "description": "Valheim launched into Steam Early Access in February 2021 and quickly garnered attention, launching ...",
+      "url": "https://www.techpowerup.com/352474/valheim-1-0-launches-after-5-years-in-early-access",
+      "publishedAt": "2026-09-09T02:41:39Z",
+      "processed_at": "2026-09-10T14:54:10.102972+00:00"
     },
     {
-      "title": "Xbox’s Disc‑to‑Digital program just got a major boost as Ubisoft signs on with more publishers expected soon - Windows Central",
+      "title": "Microsoft breaks Patch Tuesday record with 974-CVE deluge - The Register",
       "source": {
-        "name": "Windows Central"
+        "name": "Theregister.com"
       },
-      "description": "Some outlets were highlighting Ubisoft's lack of involvement in Xbox's disc-to-digital program. Perh...",
-      "url": "https://www.windowscentral.com/gaming/xbox/ubisoft-joins-xboxs-disc-to-digital-program-with-more-publishers-to-follow",
-      "publishedAt": "2026-09-08T23:58:27Z",
-      "processed_at": "2026-09-10T10:50:15.720041+00:00"
-    },
-    {
-      "title": "LG TV shown scanning LAN for third-party phones and other devices - Ars Technica",
-      "source": {
-        "name": "Ars Technica"
-      },
-      "description": "“It doesn’t cost a lot to store text forever.”......",
-      "url": "https://arstechnica.com/gadgets/2026/09/lg-tv-shown-capable-of-tracking-user-activity-even-when-offline/",
-      "publishedAt": "2026-09-08T21:52:29Z",
-      "processed_at": "2026-09-10T10:50:15.720041+00:00"
-    },
-    {
-      "title": "GOG brings back \"big box\" PC games, one printable template at a time - Ars Technica",
-      "source": {
-        "name": "Ars Technica"
-      },
-      "description": "Preservation \"goodies\" also includes downloadable 3D models for desktop perusal....",
-      "url": "https://arstechnica.com/gaming/2026/09/gog-brings-back-big-box-pc-games-one-printable-template-at-a-time/",
-      "publishedAt": "2026-09-08T21:23:13Z",
-      "processed_at": "2026-09-10T10:50:15.720041+00:00"
-    },
-    {
-      "title": "Microsoft patches a record 972 vulnerabilities, 112 of them critical - Ars Technica",
-      "source": {
-        "name": "Ars Technica"
-      },
-      "description": "Security gnomes are pumping out patches ahead of an expected onslaught of AI-assisted attacks....",
-      "url": "https://arstechnica.com/security/2026/09/microsoft-patches-a-record-972-vulnerabilities-112-of-them-critical/",
-      "publishedAt": "2026-09-08T21:11:46Z",
-      "processed_at": "2026-09-10T10:50:15.720041+00:00"
-    },
-    {
-      "title": "Hackers breach F5 BIG-IP APM devices to deploy Linux rootkit - BleepingComputer",
-      "source": {
-        "name": "BleepingComputer"
-      },
-      "description": "A Linux rootkit targeting devices in F5 BIG-IP APM environments can intercept PHP file loading and i...",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-breach-f5-big-ip-apm-devices-to-deploy-linux-rootkit/",
-      "publishedAt": "2026-09-08T20:08:55Z",
-      "processed_at": "2026-09-10T10:50:15.720041+00:00"
+      "description": "Adobe also brought goodies to the patch party and they deserve immediate attention...",
+      "url": "https://www.theregister.com/security/2026/09/09/microsoft-breaks-patch-tuesday-record-with-974-cve-deluge/5295160",
+      "publishedAt": "2026-09-09T00:25:22Z",
+      "processed_at": "2026-09-10T14:54:10.102972+00:00"
     }
   ],
-  "lastUpdated": "2026-09-10T10:50:15.720143+00:00",
+  "lastUpdated": "2026-09-10T14:54:10.103087+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
