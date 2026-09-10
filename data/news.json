@@ -3,6 +3,36 @@
   "totalResults": 10,
   "articles": [
     {
+      "title": "Apple adds 37 hardware identifiers ahead of ‘Surprise and Shine’ event - 9to5Mac",
+      "source": {
+        "name": "9to5Mac"
+      },
+      "description": "Apple has added new hardware identifiers for iPhones, iPads, Macs, and other devices, some of which ...",
+      "url": "https://9to5mac.com/2026/09/08/apple-adds-37-hardware-identifiers-ahead-of-surprise-and-shine-event/",
+      "publishedAt": "2026-09-08T23:27:00Z",
+      "processed_at": "2026-09-10T01:00:00.394766+00:00"
+    },
+    {
+      "title": "Apple wanted the iPhone Ultra to cost $1,999, new report says - GSMArena.com news - GSMArena.com",
+      "source": {
+        "name": "GSMArena.com"
+      },
+      "description": "But the RAM apocalypse intervened. Apple is holding its big annual iPhone launch event on September ...",
+      "url": "https://www.gsmarena.com/apple_wanted_the_iphone_ultra_to_cost_1999_new_report_says-news-74523.php",
+      "publishedAt": "2026-09-08T23:02:01Z",
+      "processed_at": "2026-09-10T01:00:00.394766+00:00"
+    },
+    {
+      "title": "Microsoft Plugs Nearly 1,000 Security Holes - Krebs on Security",
+      "source": {
+        "name": "Krebs on Security"
+      },
+      "description": "",
+      "url": "https://krebsonsecurity.com/2026/09/microsoft-plugs-nearly-1000-security-holes/",
+      "publishedAt": "2026-09-08T22:07:59Z",
+      "processed_at": "2026-09-10T01:00:00.394766+00:00"
+    },
+    {
       "title": "LG TV shown scanning LAN for third-party phones and other devices - Ars Technica",
       "source": {
         "name": "Ars Technica"
@@ -10,7 +40,7 @@
       "description": "“It doesn’t cost a lot to store text forever.”......",
       "url": "https://arstechnica.com/gadgets/2026/09/lg-tv-shown-capable-of-tracking-user-activity-even-when-offline/",
       "publishedAt": "2026-09-08T21:52:29Z",
-      "processed_at": "2026-09-09T23:00:19.817255+00:00"
+      "processed_at": "2026-09-10T01:00:00.394766+00:00"
     },
     {
       "title": "GOG brings back \"big box\" PC games, one printable template at a time - Ars Technica",
@@ -20,17 +50,27 @@
       "description": "Preservation \"goodies\" also includes downloadable 3D models for desktop perusal....",
       "url": "https://arstechnica.com/gaming/2026/09/gog-brings-back-big-box-pc-games-one-printable-template-at-a-time/",
       "publishedAt": "2026-09-08T21:23:13Z",
-      "processed_at": "2026-09-09T23:00:19.817255+00:00"
+      "processed_at": "2026-09-10T01:00:00.394766+00:00"
     },
     {
-      "title": "Microsoft patches a record 972 vulnerabilities, 112 of them critical - Ars Technica",
+      "title": "Apple Releases Firmware Update for 140W USB-C Power Adapter - MacRumors",
       "source": {
-        "name": "Ars Technica"
+        "name": "MacRumors"
       },
-      "description": "Security gnomes are pumping out patches ahead of an expected onslaught of AI-assisted attacks....",
-      "url": "https://arstechnica.com/security/2026/09/microsoft-patches-a-record-972-vulnerabilities-112-of-them-critical/",
-      "publishedAt": "2026-09-08T21:11:46Z",
-      "processed_at": "2026-09-09T23:00:19.817255+00:00"
+      "description": "Apple today released a firmware update (version 1.4.90) for its 140W USB-C Power Adapter.  It is unc...",
+      "url": "https://www.macrumors.com/2026/09/08/apple-releases-140w-usb-c-charger-firmware-update/",
+      "publishedAt": "2026-09-08T20:34:55Z",
+      "processed_at": "2026-09-10T01:00:00.394766+00:00"
+    },
+    {
+      "title": "Apple event expected to deliver foldable iPhone and debut of new CEO John Ternus - CBS News",
+      "source": {
+        "name": "CBS News"
+      },
+      "description": "Apple's Sept. 9 tech showcase is set to feature new CEO John Ternus unveiling its first foldable iPh...",
+      "url": "https://www.cbsnews.com/news/apple-event-foldable-iphone-john-ternus/",
+      "publishedAt": "2026-09-08T20:25:52Z",
+      "processed_at": "2026-09-10T01:00:00.394766+00:00"
     },
     {
       "title": "ChatGPT Sketch turns your bad drawings into detailed AI images - The Verge",
@@ -40,7 +80,7 @@
       "description": "OpenAI has launched ChatGPT Images 2.5 and added a new “Sketch” feature that lets you make a doodle ...",
       "url": "https://www.theverge.com/ai-artificial-intelligence/991727/openai-chatgpt-images-2-5-sketch",
       "publishedAt": "2026-09-08T20:16:09Z",
-      "processed_at": "2026-09-09T23:00:19.817255+00:00"
+      "processed_at": "2026-09-10T01:00:00.394766+00:00"
     },
     {
       "title": "Exclusive: Two of gaming’s biggest names are making a big investment in gaming’s future - Game File | Stephen Totilo",
@@ -50,7 +90,7 @@
       "description": "Mark Cerny and Geoff Keighley are spending time and big money to launch a fellowship program for gam...",
       "url": "https://www.gamefile.news/p/nova-games-foundation-mark-cerny-geoff-keighley",
       "publishedAt": "2026-09-08T19:12:02Z",
-      "processed_at": "2026-09-09T23:00:19.817255+00:00"
+      "processed_at": "2026-09-10T01:00:00.394766+00:00"
     },
     {
       "title": "Sonos just launched ‘Sonos 27’ app update, here’s what’s new - 9to5Mac",
@@ -60,50 +100,10 @@
       "description": "Last week Sonos unveiled several new features coming soon, and now the first of those upgrades are h...",
       "url": "https://9to5mac.com/2026/09/08/sonos-just-launched-sonos-27-app-update-heres-whats-new/",
       "publishedAt": "2026-09-08T18:59:00Z",
-      "processed_at": "2026-09-09T23:00:19.817255+00:00"
-    },
-    {
-      "title": "How to watch Apple’s foldable iPhone announcement - TechCrunch",
-      "source": {
-        "name": "TechCrunch"
-      },
-      "description": "Apple's annual iPhone event will stream live on September 9 at 10 a.m. PDT, and we're expecting big ...",
-      "url": "https://techcrunch.com/2026/09/08/how-to-watch-apples-foldable-iphone-announcement/",
-      "publishedAt": "2026-09-08T17:46:53Z",
-      "processed_at": "2026-09-09T23:00:19.817255+00:00"
-    },
-    {
-      "title": "Next Apple TV's Chip Revealed in Latest Leak - MacRumors",
-      "source": {
-        "name": "MacRumors"
-      },
-      "description": "The next Apple TV 4K will be equipped with an A19 or A19 Pro chip, according to evidence in Apple's ...",
-      "url": "https://www.macrumors.com/2026/09/08/next-apple-tv-chip-leak/",
-      "publishedAt": "2026-09-08T17:19:48Z",
-      "processed_at": "2026-09-09T23:00:19.817255+00:00"
-    },
-    {
-      "title": "Nintendo isn’t scared of GTA VI - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "Most game publishers are getting out of the way of Grand Theft Auto 6, but Nintendo is going up agai...",
-      "url": "https://www.theverge.com/games/991484/zelda-ocarina-of-time-gta-6",
-      "publishedAt": "2026-09-08T17:13:51Z",
-      "processed_at": "2026-09-09T23:00:19.817255+00:00"
-    },
-    {
-      "title": "Preview: BlizzCon 2026 feels like a turning point as Blizzard prepares updates for every major franchise - Windows Central",
-      "source": {
-        "name": "Windows Central"
-      },
-      "description": "BlizzCon 2026 is shaping up to be incredibly special this year, with a huge amount of panels, unexpe...",
-      "url": "https://www.windowscentral.com/gaming/blizzard/blizzcon-2026-preview-what-to-expect-for-warcraft-starcraft-overwatch-diablo",
-      "publishedAt": "2026-09-08T16:50:28Z",
-      "processed_at": "2026-09-09T23:00:19.817255+00:00"
+      "processed_at": "2026-09-10T01:00:00.394766+00:00"
     }
   ],
-  "lastUpdated": "2026-09-09T23:00:19.817322+00:00",
+  "lastUpdated": "2026-09-10T01:00:00.394838+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
