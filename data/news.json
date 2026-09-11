@@ -1,16 +1,56 @@
 {
   "status": "success",
-  "totalResults": 8,
+  "totalResults": 10,
   "articles": [
     {
-      "title": "Hands-On With Apple's First Foldable Phone: The iPhone Duo Redefines the Formula - PCMag",
+      "title": "Wardogs Is Already a Huge Hit As It Sells a Million Copies and Blows Past 300k Concurrent Players on Launch Day - IGN",
       "source": {
-        "name": "PCMag.com"
+        "name": "IGN"
       },
-      "description": "The Apple iPhone Duo is an impressive first-generation folding phone with tricks of its own, even if...",
-      "url": "https://www.pcmag.com/news/hands-on-apples-iphone-duo-refines-the-foldable-formula-apple-event",
-      "publishedAt": "2026-09-10T17:32:45Z",
-      "processed_at": "2026-09-11T17:36:31.846305+00:00"
+      "description": "Wardogs has already surpassed a million copies sold and is lighting up Steam's concurrent player cha...",
+      "url": "https://www.ign.com/articles/wardogs-surpasses-1-million-copies-sold-on-day-one-blows-past-300k-peak-concurrent-players-on-steam",
+      "publishedAt": "2026-09-10T18:19:15Z",
+      "processed_at": "2026-09-11T20:37:10.095256+00:00"
+    },
+    {
+      "title": "Anthropic reveals rogue AI agents hate CAPTCHAs, just like you - TechCrunch",
+      "source": {
+        "name": "TechCrunch"
+      },
+      "description": "Come inside the mind of a bot trying to convince the internet it's human....",
+      "url": "https://techcrunch.com/2026/09/10/anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-you/",
+      "publishedAt": "2026-09-10T17:54:44Z",
+      "processed_at": "2026-09-11T20:37:10.095256+00:00"
+    },
+    {
+      "title": "Apple Watch Ultra 4 Hands-On: A Closer Look at Its Biggest Upgrades - CNET",
+      "source": {
+        "name": "CNET"
+      },
+      "description": "Finally a battery worthy of an ultramarathon, better health sensors and a powerful processor that ke...",
+      "url": "https://www.cnet.com/tech/mobile/apple-watch-ultra-4-hands-on/",
+      "publishedAt": "2026-09-10T17:19:39Z",
+      "processed_at": "2026-09-11T20:37:10.095256+00:00"
+    },
+    {
+      "title": "Apple’s big goal after foldable iPhone - Financial Times",
+      "source": {
+        "name": "Financial Times"
+      },
+      "description": "The first critical step for new CEO John Ternus will be to make AI an everyday reality on its device...",
+      "url": "https://www.ft.com/content/cc99c301-8c5d-4014-889e-8eb374d993f9?syn-25a6b1a6\\\\u003d1",
+      "publishedAt": "2026-09-10T17:12:31Z",
+      "processed_at": "2026-09-11T20:37:10.095256+00:00"
+    },
+    {
+      "title": "Google brings Gemini for desktop app to Windows - 9to5google.com",
+      "source": {
+        "name": "9to5google.com"
+      },
+      "description": "Following the macOS launch in April, Google is bringing the Gemini for desktop app to Windows. Launc...",
+      "url": "http://9to5google.com/2026/09/10/gemini-windows-app/",
+      "publishedAt": "2026-09-10T16:33:00Z",
+      "processed_at": "2026-09-11T20:37:10.095256+00:00"
     },
     {
       "title": "Metroid Dread studio MercurySteam appears to confirm it's making Metroid Ravenous, addressing a lingering question from yesterday's Nintendo Direct - Eurogamer.net",
@@ -20,70 +60,50 @@
       "description": "For a moment there, we weren't sure which studio was making the new Switch 2 Metroid game, but Mercu...",
       "url": "https://www.eurogamer.net/metroid-ravenous-mercury-steam-developer",
       "publishedAt": "2026-09-10T16:27:10Z",
-      "processed_at": "2026-09-11T17:36:31.846305+00:00"
+      "processed_at": "2026-09-11T20:37:10.095256+00:00"
     },
     {
-      "title": "Apple Watch Series 12 Has Smaller Screens and Bigger Cases - MacRumors",
+      "title": "Nintendo Having A Sale—Instead Of Giving Refunds—Thanks To Tariff Rebates, Company Says - Forbes",
       "source": {
-        "name": "MacRumors"
+        "name": "Forbes"
       },
-      "description": "The Apple Watch Series 12 pairs a smaller display with a wider case than Series 10 and Series 11, ev...",
-      "url": "https://www.macrumors.com/2026/09/10/apple-watch-series-12-has-smaller-screens/",
-      "publishedAt": "2026-09-10T15:52:09Z",
-      "processed_at": "2026-09-11T17:36:31.846305+00:00"
+      "description": "Nintendo is one of more than 80 companies facing lawsuits from customers who want to see a piece of ...",
+      "url": "https://www.forbes.com/sites/maryroeloffs/2026/09/10/nintendo-offers-rare-discounts-for-american-customers-thanks-to-tariff-refunds-company-says/",
+      "publishedAt": "2026-09-10T16:25:48Z",
+      "processed_at": "2026-09-11T20:37:10.095256+00:00"
     },
     {
-      "title": "Nintendo of America thanks fans for dealing with tariff-related price hikes by encouraging them to spend more money in a new sale - Eurogamer.net",
+      "title": "Android rolling out passkey transfers between password managers - 9to5google.com",
       "source": {
-        "name": "Eurogamer.net"
+        "name": "9to5google.com"
       },
-      "description": "Nintendo America has faced a lot of pushback for not passing tariff refunds onto consumers, so its n...",
-      "url": "https://www.eurogamer.net/nintendo-american-tarrif-refund-sale",
-      "publishedAt": "2026-09-10T15:18:43Z",
-      "processed_at": "2026-09-11T17:36:31.846305+00:00"
+      "description": "Google announced today that Android now offers a system-level way to transfer passwords and passkeys...",
+      "url": "http://9to5google.com/2026/09/10/android-passkey-password-transfer/",
+      "publishedAt": "2026-09-10T16:00:00Z",
+      "processed_at": "2026-09-11T20:37:10.095256+00:00"
     },
     {
-      "title": "GTA 6 DualSense pre-orders LIVE — limited-edition PS5 controllers are now available at Best Buy, Walmart and more - Tom's Guide",
+      "title": "Professor Layton and the Curious Village Remake Announced, Coming to Multiple Platforms in 2027 - IGN",
       "source": {
-        "name": "Tom's Guide"
+        "name": "IGN"
       },
-      "description": "Add some Vice City to your PS5 setup...",
-      "url": "https://www.tomsguide.com/news/live/gta-6-ps5-dualsense-controller-pre-orders-live-updates",
-      "publishedAt": "2026-09-10T14:29:38Z",
-      "processed_at": "2026-09-11T17:36:31.846305+00:00"
+      "description": "",
+      "url": "https://www.ign.com/articles/professor-layton-and-the-curious-village-remake-announced-coming-to-multiple-platforms-in-2027",
+      "publishedAt": "2026-09-10T14:57:11Z",
+      "processed_at": "2026-09-11T20:37:10.095256+00:00"
     },
     {
-      "title": "Professor Layton and the Curious Village Remake announced for PS5, Switch 2, Switch, and PC - Gematsu",
+      "title": "GTA 6 PS5 Controller Pre-Orders Go Live On PlayStation Store And It Immediately Collapses, Meanwhile eBay Is Flooded With Scalpers - kotaku.com",
       "source": {
-        "name": "Gematsu"
+        "name": "Kotaku"
       },
-      "description": "LEVEL-5 has announced Professor Layton and the Curious Village Remake, a remake of the first game in...",
-      "url": "https://www.gematsu.com/2026/09/professor-layton-and-the-curious-village-remake-announced-for-ps5-switch-2-switch-and-pc",
-      "publishedAt": "2026-09-10T13:44:46Z",
-      "processed_at": "2026-09-11T17:36:31.846305+00:00"
-    },
-    {
-      "title": "Apple makes biggest change to iPhone release cadence in 7 years in Ternus' first showcase as CEO - CNBC",
-      "source": {
-        "name": "CNBC"
-      },
-      "description": "In John Ternus' first launch event as CEO, Apple announced its first foldable phone and the iPhone 1...",
-      "url": "https://www.cnbc.com/2026/09/10/apple-makes-biggest-change-to-iphone-release-cadence-in-7-years.html",
-      "publishedAt": "2026-09-10T13:13:45Z",
-      "processed_at": "2026-09-11T17:36:31.846305+00:00"
-    },
-    {
-      "title": "'Final Fantasy 7 Revelation' Interview: Hands-On Preview - Deadline",
-      "source": {
-        "name": "Deadline"
-      },
-      "description": "Square Enix game director Naoki Hamaguchi talks about the expansive world of the Final Fantasy 7 Rev...",
-      "url": "http://deadline.com/2026/09/final-fantasy-vii-revelation-interview-naoki-hamaguchi-1237073176/",
-      "publishedAt": "2026-09-10T12:00:00Z",
-      "processed_at": "2026-09-11T17:36:31.846305+00:00"
+      "description": "Other players got stuck in hour long queues or couldn't check out at all...",
+      "url": "https://kotaku.com/gta-6-ps5-controller-pre-orders-go-live-on-playstation-store-and-it-immediately-collapses-2000733219",
+      "publishedAt": "2026-09-10T14:27:54Z",
+      "processed_at": "2026-09-11T20:37:10.095256+00:00"
     }
   ],
-  "lastUpdated": "2026-09-11T17:36:31.846355+00:00",
+  "lastUpdated": "2026-09-11T20:37:10.095335+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
