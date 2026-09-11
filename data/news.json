@@ -1,7 +1,47 @@
 {
   "status": "success",
-  "totalResults": 9,
+  "totalResults": 8,
   "articles": [
+    {
+      "title": "Hands-On With Apple's First Foldable Phone: The iPhone Duo Redefines the Formula - PCMag",
+      "source": {
+        "name": "PCMag.com"
+      },
+      "description": "The Apple iPhone Duo is an impressive first-generation folding phone with tricks of its own, even if...",
+      "url": "https://www.pcmag.com/news/hands-on-apples-iphone-duo-refines-the-foldable-formula-apple-event",
+      "publishedAt": "2026-09-10T17:32:45Z",
+      "processed_at": "2026-09-11T17:36:31.846305+00:00"
+    },
+    {
+      "title": "Metroid Dread studio MercurySteam appears to confirm it's making Metroid Ravenous, addressing a lingering question from yesterday's Nintendo Direct - Eurogamer.net",
+      "source": {
+        "name": "Eurogamer.net"
+      },
+      "description": "For a moment there, we weren't sure which studio was making the new Switch 2 Metroid game, but Mercu...",
+      "url": "https://www.eurogamer.net/metroid-ravenous-mercury-steam-developer",
+      "publishedAt": "2026-09-10T16:27:10Z",
+      "processed_at": "2026-09-11T17:36:31.846305+00:00"
+    },
+    {
+      "title": "Apple Watch Series 12 Has Smaller Screens and Bigger Cases - MacRumors",
+      "source": {
+        "name": "MacRumors"
+      },
+      "description": "The Apple Watch Series 12 pairs a smaller display with a wider case than Series 10 and Series 11, ev...",
+      "url": "https://www.macrumors.com/2026/09/10/apple-watch-series-12-has-smaller-screens/",
+      "publishedAt": "2026-09-10T15:52:09Z",
+      "processed_at": "2026-09-11T17:36:31.846305+00:00"
+    },
+    {
+      "title": "Nintendo of America thanks fans for dealing with tariff-related price hikes by encouraging them to spend more money in a new sale - Eurogamer.net",
+      "source": {
+        "name": "Eurogamer.net"
+      },
+      "description": "Nintendo America has faced a lot of pushback for not passing tariff refunds onto consumers, so its n...",
+      "url": "https://www.eurogamer.net/nintendo-american-tarrif-refund-sale",
+      "publishedAt": "2026-09-10T15:18:43Z",
+      "processed_at": "2026-09-11T17:36:31.846305+00:00"
+    },
     {
       "title": "GTA 6 DualSense pre-orders LIVE — limited-edition PS5 controllers are now available at Best Buy, Walmart and more - Tom's Guide",
       "source": {
@@ -10,37 +50,17 @@
       "description": "Add some Vice City to your PS5 setup...",
       "url": "https://www.tomsguide.com/news/live/gta-6-ps5-dualsense-controller-pre-orders-live-updates",
       "publishedAt": "2026-09-10T14:29:38Z",
-      "processed_at": "2026-09-11T13:20:16.697618+00:00"
+      "processed_at": "2026-09-11T17:36:31.846305+00:00"
     },
     {
-      "title": "Apple Watch Ultra 4 and Series 12 have surprise upgrade that wasn’t announced - 9to5Mac",
+      "title": "Professor Layton and the Curious Village Remake announced for PS5, Switch 2, Switch, and PC - Gematsu",
       "source": {
-        "name": "9to5Mac"
+        "name": "Gematsu"
       },
-      "description": "Apple Watch Series 12 and Apple Watch Ultra 4 are here, and new findings reveal they each have a sur...",
-      "url": "https://9to5mac.com/2026/09/10/apple-watch-ultra-4-and-series-12-have-surprise-upgrade-that-wasnt-announced/",
-      "publishedAt": "2026-09-10T13:54:00Z",
-      "processed_at": "2026-09-11T13:20:16.697618+00:00"
-    },
-    {
-      "title": "We’re Tracking Every Zelda Switch 2 Restock for You - CNET",
-      "source": {
-        "name": "CNET"
-      },
-      "description": "Nintendo's limited-edition Legend of Zelda 40th Anniversary console arrives Oct. 29, and we're watch...",
-      "url": "https://www.cnet.com/deals/legend-of-zelda-40th-anniversary-nintendo-switch-2-console-preorder-restock/",
-      "publishedAt": "2026-09-10T13:41:00Z",
-      "processed_at": "2026-09-11T13:20:16.697618+00:00"
-    },
-    {
-      "title": "Nintendo Announces Big 'Customer Appreciation Sale' Supported By Tariff Refunds It Doesn't Want To Pay Back To Players - kotaku.com",
-      "source": {
-        "name": "Kotaku"
-      },
-      "description": "No, the company won't provide any refunds, but it will sell you some games and merch at a discounted...",
-      "url": "https://kotaku.com/nintendo-announces-big-customer-appreciation-sale-supported-by-tariff-refunds-it-doesnt-want-to-pay-back-to-players-2000733198",
-      "publishedAt": "2026-09-10T13:34:03Z",
-      "processed_at": "2026-09-11T13:20:16.697618+00:00"
+      "description": "LEVEL-5 has announced Professor Layton and the Curious Village Remake, a remake of the first game in...",
+      "url": "https://www.gematsu.com/2026/09/professor-layton-and-the-curious-village-remake-announced-for-ps5-switch-2-switch-and-pc",
+      "publishedAt": "2026-09-10T13:44:46Z",
+      "processed_at": "2026-09-11T17:36:31.846305+00:00"
     },
     {
       "title": "Apple makes biggest change to iPhone release cadence in 7 years in Ternus' first showcase as CEO - CNBC",
@@ -50,50 +70,20 @@
       "description": "In John Ternus' first launch event as CEO, Apple announced its first foldable phone and the iPhone 1...",
       "url": "https://www.cnbc.com/2026/09/10/apple-makes-biggest-change-to-iphone-release-cadence-in-7-years.html",
       "publishedAt": "2026-09-10T13:13:45Z",
-      "processed_at": "2026-09-11T13:20:16.697618+00:00"
+      "processed_at": "2026-09-11T17:36:31.846305+00:00"
     },
     {
-      "title": "How Final Fantasy 7 Revelation Is Going All Out For The Big Finale: Having Less Content Was 'Never Part Of The Conversation' - Kotaku",
+      "title": "'Final Fantasy 7 Revelation' Interview: Hands-On Preview - Deadline",
       "source": {
-        "name": "Kotaku"
+        "name": "Deadline"
       },
-      "description": "Final Fantasy 7 Revelation isn’t backing down from the smorgasbord open-world design of Rebirth, and...",
-      "url": "https://kotaku.com/how-final-fantasy-7-revelation-is-going-all-out-for-the-big-finale-having-less-content-was-never-part-of-the-conversation-2000733035",
-      "publishedAt": "2026-09-10T12:00:25Z",
-      "processed_at": "2026-09-11T13:20:16.697618+00:00"
-    },
-    {
-      "title": "Muramasa: Revenant Blades launches February 4, 2027 - Gematsu",
-      "source": {
-        "name": "Gematsu"
-      },
-      "description": "Side-scrolling action RPG Muramasa: Revenant Blades will launch for PlayStation 5, Switch 2, Switch,...",
-      "url": "https://www.gematsu.com/2026/09/muramasa-revenant-blades-launches-february-4-2027",
-      "publishedAt": "2026-09-10T11:15:35Z",
-      "processed_at": "2026-09-11T13:20:16.697618+00:00"
-    },
-    {
-      "title": "Switch 2 Update Adds TV VRR Support - but It Only Works in One Game Right Now - Digital Foundry",
-      "source": {
-        "name": "Digitalfoundry.net"
-      },
-      "description": "",
-      "url": "https://www.digitalfoundry.net/news/2026/09/switch-2-update-adds-tv-vrr-support-but-it-only-works-in-one-game-right-now",
-      "publishedAt": "2026-09-10T09:06:00Z",
-      "processed_at": "2026-09-11T13:20:16.697618+00:00"
-    },
-    {
-      "title": "Xbox picks up Kojima’s Physint after PlayStation dropped it - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "Physint is Xbox’s second upcoming Kojima Productions game, joining OD....",
-      "url": "https://www.theverge.com/games/993205/physint-hideo-kojima-sony-playstation-microsoft-xbox",
-      "publishedAt": "2026-09-10T08:22:40Z",
-      "processed_at": "2026-09-11T13:20:16.697618+00:00"
+      "description": "Square Enix game director Naoki Hamaguchi talks about the expansive world of the Final Fantasy 7 Rev...",
+      "url": "http://deadline.com/2026/09/final-fantasy-vii-revelation-interview-naoki-hamaguchi-1237073176/",
+      "publishedAt": "2026-09-10T12:00:00Z",
+      "processed_at": "2026-09-11T17:36:31.846305+00:00"
     }
   ],
-  "lastUpdated": "2026-09-11T13:20:16.697674+00:00",
+  "lastUpdated": "2026-09-11T17:36:31.846355+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
