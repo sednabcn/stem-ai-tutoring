@@ -1,6 +1,6 @@
 {
   "status": "success",
-  "totalResults": 10,
+  "totalResults": 9,
   "articles": [
     {
       "title": "‘Death Stranding’ Creator Hideo Kojima’s Upcoming ‘Physint’ Moves From PlayStation to Xbox as New Publisher - Variety",
@@ -10,37 +10,57 @@
       "description": "Xbox is expanding its partnership with video game industry legend Hideo Kojima....",
       "url": "https://variety.com/2026/gaming/news/hideo-kojima-physint-game-xbox-playstation-1236855372/",
       "publishedAt": "2026-09-10T02:34:00Z",
-      "processed_at": "2026-09-11T03:31:05.474410+00:00"
+      "processed_at": "2026-09-11T08:41:26.509761+00:00"
     },
     {
-      "title": "CNBC Daily Open: Apple's new iPhone bends. Bond vigilantes, not so much - CNBC",
+      "title": "Mario Kart World Has Been Updated To Version 1.8.0, Here Are The Full Patch Notes - Nintendo Life",
       "source": {
-        "name": "CNBC"
+        "name": "Nintendo Life"
       },
-      "description": "Loads of new features, but guess what people were looking for? The crease, and how visible it is....",
-      "url": "https://www.cnbc.com/2026/09/10/cnbc-daily-open-apple-new-iphone-duo-treasury-bonds-oil-trump.html",
-      "publishedAt": "2026-09-10T01:41:00Z",
-      "processed_at": "2026-09-11T03:31:05.474410+00:00"
+      "description": "You can download this free update now...",
+      "url": "https://www.nintendolife.com/news/2026/09/mario-kart-world-has-been-updated-to-version-1-8-0-here-are-the-full-patch-notes",
+      "publishedAt": "2026-09-09T23:55:00Z",
+      "processed_at": "2026-09-11T08:41:26.509761+00:00"
     },
     {
-      "title": "The black iPhone Pro returns - The Verge",
+      "title": "Apple shares more details about Apple Intelligence usage limits and terms - 9to5Mac",
       "source": {
-        "name": "The Verge"
+        "name": "9to5Mac"
       },
-      "description": "After not having a black model in the iPhone 17 Pro lineup last year, Apple has brought black back w...",
-      "url": "https://www.theverge.com/tech/993048/iphone-18-pro-black-color",
-      "publishedAt": "2026-09-09T22:37:51Z",
-      "processed_at": "2026-09-11T03:31:05.474410+00:00"
+      "description": "Apple today published a new support article that provides more detail on Apple Intelligence usage te...",
+      "url": "https://9to5mac.com/2026/09/09/apple-shares-more-details-about-apple-intelligence-usage-limits-and-terms/",
+      "publishedAt": "2026-09-09T21:27:00Z",
+      "processed_at": "2026-09-11T08:41:26.509761+00:00"
     },
     {
-      "title": "Apple's Fine Print: Daily Usage Limits for Siri AI, 'Expanded Access' Coming for a Fee - macrumors.com",
+      "title": "Apple Reveals iPhone 18 Pro and iPhone 18 Pro Max Battery Capacities - MacRumors",
       "source": {
         "name": "MacRumors"
       },
-      "description": "Apple today confirmed that there will be a daily usage limit for Siri AI, with expanded access avail...",
-      "url": "https://www.macrumors.com/2026/09/09/apple-siri-ai-usage-limits/",
-      "publishedAt": "2026-09-09T19:51:15Z",
-      "processed_at": "2026-09-11T03:31:05.474410+00:00"
+      "description": "Apple has confirmed the battery capacities for the iPhone 18 Pro and iPhone 18 Pro Max models that t...",
+      "url": "https://www.macrumors.com/2026/09/09/iphone-18-pro-max-battery-capacities/",
+      "publishedAt": "2026-09-09T20:56:17Z",
+      "processed_at": "2026-09-11T08:41:26.509761+00:00"
+    },
+    {
+      "title": "Apple Adds AppleCare One Family Plan for Up to Six People - MacRumors",
+      "source": {
+        "name": "MacRumors"
+      },
+      "description": "Apple today announced AppleCare One Family, a new option for U.S. customers that extends AppleCare c...",
+      "url": "https://www.macrumors.com/2026/09/09/applecare-one-family-plan/",
+      "publishedAt": "2026-09-09T20:23:05Z",
+      "processed_at": "2026-09-11T08:41:26.509761+00:00"
+    },
+    {
+      "title": "Almost 1,900 Blizzard workers ratify first union contract with Microsoft - GamesIndustry.biz",
+      "source": {
+        "name": "GamesIndustry.biz"
+      },
+      "description": "Blizzard Entertainment has secured a first union contract with parent company Microsoft, ratified by...",
+      "url": "https://www.gamesindustry.biz/almost-1900-blizzard-workers-ratify-first-union-contract-with-microsoft",
+      "publishedAt": "2026-09-09T20:14:39Z",
+      "processed_at": "2026-09-11T08:41:26.509761+00:00"
     },
     {
       "title": "Apple Seeds iOS 27 and iPadOS 27 Release Candidates - MacRumors",
@@ -50,7 +70,7 @@
       "description": "Apple today seeded the release candidate versions of iOS 27 and iPadOS 27 for final testing purposes...",
       "url": "https://www.macrumors.com/2026/09/09/apple-ios-27-rc/",
       "publishedAt": "2026-09-09T19:07:40Z",
-      "processed_at": "2026-09-11T03:31:05.474410+00:00"
+      "processed_at": "2026-09-11T08:41:26.509761+00:00"
     },
     {
       "title": "Apple debuts $129 AirPods 5 with better noise cancellation and transparency mode - Ars Technica",
@@ -60,7 +80,7 @@
       "description": "AirPods 5 with noise cancellation is cheaper than its predecessor....",
       "url": "https://arstechnica.com/gadgets/2026/09/apple-debuts-129-airpods-5-with-better-noise-cancellation-and-transparency-mode/",
       "publishedAt": "2026-09-09T18:58:24Z",
-      "processed_at": "2026-09-11T03:31:05.474410+00:00"
+      "processed_at": "2026-09-11T08:41:26.509761+00:00"
     },
     {
       "title": "Apple is raising iPhone prices by $100 on all of its old models - The Verge",
@@ -70,40 +90,10 @@
       "description": "The price increase impacts the iPhone 16, the full iPhone 17 lineup, as well as the iPhone Air....",
       "url": "https://www.theverge.com/tech/992551/apple-iphone-17-17e-air-price-increase",
       "publishedAt": "2026-09-09T18:30:24Z",
-      "processed_at": "2026-09-11T03:31:05.474410+00:00"
-    },
-    {
-      "title": "Apple skips the base iPhone 18 at its fall launch event - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "Apple is focusing on higher-priced iPhone models this fall....",
-      "url": "https://www.theverge.com/news/991130/apple-skips-iphone-18-fall-2026-release",
-      "publishedAt": "2026-09-09T18:19:36Z",
-      "processed_at": "2026-09-11T03:31:05.474410+00:00"
-    },
-    {
-      "title": "iPhone Duo Launch Deals Include $300 Off Samsung's Galaxy Z Fold 8 - Droid Life",
-      "source": {
-        "name": "Droid Life"
-      },
-      "description": "It might be iPhone Duo day, but Samsung still has two excellent new foldables it doesn’t want you to...",
-      "url": "https://www.droid-life.com/2026/09/09/skip-iphone-duo-and-slap-300-off-galaxy-z-fold-8/",
-      "publishedAt": "2026-09-09T18:01:45Z",
-      "processed_at": "2026-09-11T03:31:05.474410+00:00"
-    },
-    {
-      "title": "The Apple Watch Gets Its Siri AI Upgrade - WIRED",
-      "source": {
-        "name": "Wired"
-      },
-      "description": "Apple’s latest smartwatches—the Apple Watch Series 12 and Ultra 4—get a faster chip, expanded health...",
-      "url": "https://www.wired.com/story/apple-watch-series-12-apple-watch-ultra-4/",
-      "publishedAt": "2026-09-09T17:43:00Z",
-      "processed_at": "2026-09-11T03:31:05.474410+00:00"
+      "processed_at": "2026-09-11T08:41:26.509761+00:00"
     }
   ],
-  "lastUpdated": "2026-09-11T03:31:05.474462+00:00",
+  "lastUpdated": "2026-09-11T08:41:26.509844+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
