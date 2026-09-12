@@ -1,7 +1,37 @@
 {
   "status": "success",
-  "totalResults": 8,
+  "totalResults": 9,
   "articles": [
+    {
+      "title": "Fans Are Reportedly Getting $20 Off Ocarina of Time Preorders With a Hidden Coupon at Walmart - IGN",
+      "source": {
+        "name": "IGN"
+      },
+      "description": "",
+      "url": "https://www.ign.com/articles/the-legend-of-zelda-ocarina-of-time-remake-walmart-coupon-deal",
+      "publishedAt": "2026-09-11T15:32:38Z",
+      "processed_at": "2026-09-12T18:59:42.605428+00:00"
+    },
+    {
+      "title": "iPhone Duo is Missing These 10 iPhone 18 Pro Features - MacRumors",
+      "source": {
+        "name": "MacRumors"
+      },
+      "description": "While the iPhone Duo is the first foldable iPhone ever and has some unique features like Duo FaceTim...",
+      "url": "https://www.macrumors.com/2026/09/11/iphone-duo-is-missing-these-features/",
+      "publishedAt": "2026-09-11T15:13:38Z",
+      "processed_at": "2026-09-12T18:59:42.605428+00:00"
+    },
+    {
+      "title": "Real-life nudist resort forced to speak out after appearing in GTA VI leak - GAMINGbible",
+      "source": {
+        "name": "Gamingbible.com"
+      },
+      "description": "A real-life nudist resort has spoken out after a similar-looking business appeared in Cyberleek's GT...",
+      "url": "https://www.gamingbible.com/news/gta-6-cypress-creek-nudist-resort-respond-fake-reviews-301101-20260911",
+      "publishedAt": "2026-09-11T15:00:03Z",
+      "processed_at": "2026-09-12T18:59:42.605428+00:00"
+    },
     {
       "title": "PlayStation Ditched Hideo Kojima’s ‘Physint’ on Budget Concerns, Missed Deadlines - Bloomberg.com",
       "source": {
@@ -10,7 +40,7 @@
       "description": "The legendary Japanese creator of ‘Death Stranding’ will take his new game to Xbox...",
       "url": "https://www.bloomberg.com/news/articles/2026-09-11/hideo-kojima-s-physint-video-game-dropped-by-playstation-goes-to-xbox",
       "publishedAt": "2026-09-11T13:32:20Z",
-      "processed_at": "2026-09-12T16:02:59.927199+00:00"
+      "processed_at": "2026-09-12T18:59:42.605428+00:00"
     },
     {
       "title": "What Upgrading to iPhone 18 Pro From iPhone 17 Pro Gets You - MacRumors",
@@ -20,17 +50,17 @@
       "description": "Apple's new iPhone 18 Pro and iPhone 18 Pro Max largely build on last year's models with a series of...",
       "url": "https://www.macrumors.com/2026/09/11/upgrade-to-iphone-18-pro-from-iphone-17-pro/",
       "publishedAt": "2026-09-11T12:43:53Z",
-      "processed_at": "2026-09-12T16:02:59.927199+00:00"
+      "processed_at": "2026-09-12T18:59:42.605428+00:00"
     },
     {
-      "title": "Nintendo Wins Court Case Ruling The Sale Of Switch \"Circumvention Devices\" Unlawful - Nintendo Life",
+      "title": "Nintendo Secures Legal Victory Against Sale of Switch Game Piracy Devices - IGN",
       "source": {
-        "name": "Nintendo Life"
+        "name": "IGN"
       },
-      "description": "\"avoid purchasing or using circumvention devices\"...",
-      "url": "https://www.nintendolife.com/news/2026/09/nintendo-wins-court-case-ruling-the-sale-of-switch-circumvention-devices-unlawful",
-      "publishedAt": "2026-09-11T12:00:00Z",
-      "processed_at": "2026-09-12T16:02:59.927199+00:00"
+      "description": "Nintendo has won a major legal victory aimed at blocking the sale of devices that enable Switch game...",
+      "url": "https://www.ign.com/articles/nintendo-secures-legal-victory-against-sale-of-switch-game-piracy-devices",
+      "publishedAt": "2026-09-11T12:37:12Z",
+      "processed_at": "2026-09-12T18:59:42.605428+00:00"
     },
     {
       "title": "ClickFix attacks infecting PCs and Macs are going viral - Ars Technica",
@@ -40,50 +70,30 @@
       "description": "Simplicity—combined with the difficulty of getting stuff done—makes ClickFix ideal....",
       "url": "https://arstechnica.com/security/2026/09/clickfix-attacks-infecting-pcs-and-macs-are-going-viral/",
       "publishedAt": "2026-09-11T11:30:58Z",
-      "processed_at": "2026-09-12T16:02:59.927199+00:00"
+      "processed_at": "2026-09-12T18:59:42.605428+00:00"
     },
     {
-      "title": "Samsung's Galaxy Buds On design and features leak ahead of launch - SamMobile",
+      "title": "GTA 6 DualSense Controller Scalpers Are Already Cashing In - GameSpot",
       "source": {
-        "name": "SamMobile"
-      },
-      "description": "Samsung is working on completely different type of earbuds, and they could launch soon. Now, their d...",
-      "url": "https://www.sammobile.com/news/galaxy-buds-on-leak-ahead-of-launch/",
-      "publishedAt": "2026-09-11T07:07:00Z",
-      "processed_at": "2026-09-12T16:02:59.927199+00:00"
-    },
-    {
-      "title": "Apple Watch Series 12 vs. 11: Every upgrade, including one Apple didn't mention - Mashable",
-      "source": {
-        "name": "Mashable"
-      },
-      "description": "Welcome back, ceramic cases!...",
-      "url": "https://mashable.com/tech/apple-watch-series-12-vs-11-price-specs",
-      "publishedAt": "2026-09-11T00:37:05Z",
-      "processed_at": "2026-09-12T16:02:59.927199+00:00"
-    },
-    {
-      "title": "Verizon scales back a perk that keeps prices low for customers - thestreet.com",
-      "source": {
-        "name": "TheStreet"
+        "name": "GameSpot"
       },
       "description": "",
-      "url": "https://www.thestreet.com/retail/verizon-removes-price-lock-guarantee-from-myplan",
-      "publishedAt": "2026-09-10T23:47:00Z",
-      "processed_at": "2026-09-12T16:02:59.927199+00:00"
+      "url": "https://www.gamespot.com/articles/gta-6-dualsense-controller-scalpers-are-already-cashing-in/",
+      "publishedAt": "2026-09-11T11:15:52Z",
+      "processed_at": "2026-09-12T18:59:42.605428+00:00"
     },
     {
-      "title": "Possible Google device at FCC could be Wear OS-powered fitness tracker - 9to5Google",
+      "title": "\"I don't think it's worth any amount of money\" - Controversial real-life GTA 6 advertising campaign passed by City of Miami, but brand can only appear \"discreetly\" - Eurogamer.net",
       "source": {
-        "name": "9to5google.com"
+        "name": "Eurogamer.net"
       },
-      "description": "A new piece of hardware passed through FCC certification today and the evidence points to it being a...",
-      "url": "http://9to5google.com/2026/09/10/google-wear-os-tracker/",
-      "publishedAt": "2026-09-10T21:41:00Z",
-      "processed_at": "2026-09-12T16:02:59.927199+00:00"
+      "description": "A City Commission Meeting for Miami Beach has approved negotiations with Rockstar Games for an upcom...",
+      "url": "https://www.eurogamer.net/gta-6-miami-beach-marketing-campagin-negotiations-approved",
+      "publishedAt": "2026-09-11T08:56:27Z",
+      "processed_at": "2026-09-12T18:59:42.605428+00:00"
     }
   ],
-  "lastUpdated": "2026-09-12T16:02:59.927255+00:00",
+  "lastUpdated": "2026-09-12T18:59:42.605495+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
