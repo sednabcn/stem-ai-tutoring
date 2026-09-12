@@ -1,7 +1,37 @@
 {
   "status": "success",
-  "totalResults": 9,
+  "totalResults": 8,
   "articles": [
+    {
+      "title": "PlayStation Ditched Hideo Kojima’s ‘Physint’ on Budget Concerns, Missed Deadlines - Bloomberg.com",
+      "source": {
+        "name": "Bloomberg"
+      },
+      "description": "The legendary Japanese creator of ‘Death Stranding’ will take his new game to Xbox...",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-11/hideo-kojima-s-physint-video-game-dropped-by-playstation-goes-to-xbox",
+      "publishedAt": "2026-09-11T13:32:20Z",
+      "processed_at": "2026-09-12T16:02:59.927199+00:00"
+    },
+    {
+      "title": "What Upgrading to iPhone 18 Pro From iPhone 17 Pro Gets You - MacRumors",
+      "source": {
+        "name": "MacRumors"
+      },
+      "description": "Apple's new iPhone 18 Pro and iPhone 18 Pro Max largely build on last year's models with a series of...",
+      "url": "https://www.macrumors.com/2026/09/11/upgrade-to-iphone-18-pro-from-iphone-17-pro/",
+      "publishedAt": "2026-09-11T12:43:53Z",
+      "processed_at": "2026-09-12T16:02:59.927199+00:00"
+    },
+    {
+      "title": "Nintendo Wins Court Case Ruling The Sale Of Switch \"Circumvention Devices\" Unlawful - Nintendo Life",
+      "source": {
+        "name": "Nintendo Life"
+      },
+      "description": "\"avoid purchasing or using circumvention devices\"...",
+      "url": "https://www.nintendolife.com/news/2026/09/nintendo-wins-court-case-ruling-the-sale-of-switch-circumvention-devices-unlawful",
+      "publishedAt": "2026-09-11T12:00:00Z",
+      "processed_at": "2026-09-12T16:02:59.927199+00:00"
+    },
     {
       "title": "ClickFix attacks infecting PCs and Macs are going viral - Ars Technica",
       "source": {
@@ -10,17 +40,17 @@
       "description": "Simplicity—combined with the difficulty of getting stuff done—makes ClickFix ideal....",
       "url": "https://arstechnica.com/security/2026/09/clickfix-attacks-infecting-pcs-and-macs-are-going-viral/",
       "publishedAt": "2026-09-11T11:30:58Z",
-      "processed_at": "2026-09-12T12:41:20.777582+00:00"
+      "processed_at": "2026-09-12T16:02:59.927199+00:00"
     },
     {
-      "title": "Samsung’s open-ear Galaxy Buds On leak with clip design, ‘Auto Volume,’ gestures [Gallery] - 9to5Google",
+      "title": "Samsung's Galaxy Buds On design and features leak ahead of launch - SamMobile",
       "source": {
-        "name": "9to5google.com"
+        "name": "SamMobile"
       },
-      "description": "Word has been out on a new pair of open-ear Galaxy Buds from Samsung and, now, a detailed leak shows...",
-      "url": "http://9to5google.com/2026/09/10/samsung-galaxy-buds-on-open-ear-leak/",
-      "publishedAt": "2026-09-11T01:15:00Z",
-      "processed_at": "2026-09-12T12:41:20.777582+00:00"
+      "description": "Samsung is working on completely different type of earbuds, and they could launch soon. Now, their d...",
+      "url": "https://www.sammobile.com/news/galaxy-buds-on-leak-ahead-of-launch/",
+      "publishedAt": "2026-09-11T07:07:00Z",
+      "processed_at": "2026-09-12T16:02:59.927199+00:00"
     },
     {
       "title": "Apple Watch Series 12 vs. 11: Every upgrade, including one Apple didn't mention - Mashable",
@@ -30,17 +60,7 @@
       "description": "Welcome back, ceramic cases!...",
       "url": "https://mashable.com/tech/apple-watch-series-12-vs-11-price-specs",
       "publishedAt": "2026-09-11T00:37:05Z",
-      "processed_at": "2026-09-12T12:41:20.777582+00:00"
-    },
-    {
-      "title": "T-Mobile will charge $5/month for Apple’s new iPhone Handoff feature - 9to5Mac",
-      "source": {
-        "name": "9to5Mac"
-      },
-      "description": "Apple’s new iPhone Handoff feature, which lets users share a single phone number across two iPhones,...",
-      "url": "https://9to5mac.com/2026/09/10/t-mobile-will-charge-5-month-for-apples-new-iphone-handoff-feature/",
-      "publishedAt": "2026-09-11T00:28:00Z",
-      "processed_at": "2026-09-12T12:41:20.777582+00:00"
+      "processed_at": "2026-09-12T16:02:59.927199+00:00"
     },
     {
       "title": "Verizon scales back a perk that keeps prices low for customers - thestreet.com",
@@ -50,7 +70,7 @@
       "description": "",
       "url": "https://www.thestreet.com/retail/verizon-removes-price-lock-guarantee-from-myplan",
       "publishedAt": "2026-09-10T23:47:00Z",
-      "processed_at": "2026-09-12T12:41:20.777582+00:00"
+      "processed_at": "2026-09-12T16:02:59.927199+00:00"
     },
     {
       "title": "Possible Google device at FCC could be Wear OS-powered fitness tracker - 9to5Google",
@@ -60,40 +80,10 @@
       "description": "A new piece of hardware passed through FCC certification today and the evidence points to it being a...",
       "url": "http://9to5google.com/2026/09/10/google-wear-os-tracker/",
       "publishedAt": "2026-09-10T21:41:00Z",
-      "processed_at": "2026-09-12T12:41:20.777582+00:00"
-    },
-    {
-      "title": "LG defends smart-TV features amid audio surveillance allegations - Al Jazeera",
-      "source": {
-        "name": "Al Jazeera English"
-      },
-      "description": "Recent accusations against the electronics company have raised new questions about the nonconsensual...",
-      "url": "https://www.aljazeera.com/news/2026/9/10/lg-defends-smart-tv-features-amid-audio-surveillance-allegations",
-      "publishedAt": "2026-09-10T21:36:12Z",
-      "processed_at": "2026-09-12T12:41:20.777582+00:00"
-    },
-    {
-      "title": "Slack can now vibe-code interactive charts and reports inside chats - theverge.com",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "A new Slackforce Surfaces feature uses AI to build interactive polls, dashboards, presentations, and...",
-      "url": "https://www.theverge.com/tech/989853/slackforce-surfaces-launch",
-      "publishedAt": "2026-09-10T21:25:21Z",
-      "processed_at": "2026-09-12T12:41:20.777582+00:00"
-    },
-    {
-      "title": "Final Fantasy 7 Revelation Requires A Download Instead Of Shipping Complete On Multiple Discs To Avoid Compromising The 'Fidelity' And 'Quality' - Kotaku",
-      "source": {
-        "name": "Kotaku"
-      },
-      "description": "Director Naoki Hamaguchi defended the move amid the current uproar over physical games...",
-      "url": "https://kotaku.com/heres-why-final-fantasy-7-revelation-will-require-a-download-instead-of-shipping-complete-on-multiple-discs-like-the-previous-games-2000733319",
-      "publishedAt": "2026-09-10T20:53:59Z",
-      "processed_at": "2026-09-12T12:41:20.777582+00:00"
+      "processed_at": "2026-09-12T16:02:59.927199+00:00"
     }
   ],
-  "lastUpdated": "2026-09-12T12:41:20.777643+00:00",
+  "lastUpdated": "2026-09-12T16:02:59.927255+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
