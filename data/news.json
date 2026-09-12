@@ -1,16 +1,26 @@
 {
   "status": "success",
-  "totalResults": 10,
+  "totalResults": 9,
   "articles": [
     {
-      "title": "The iPhone Duo enters China’s crowded foldable market — and faces a price test - cnbc.com",
+      "title": "Apple Watch Series 12 vs. 11: Every upgrade, including one Apple didn't mention - Mashable",
       "source": {
-        "name": "CNBC"
+        "name": "Mashable"
       },
-      "description": "Chinese netizens focused on the price of Apple’s iPhone Duo, as cheaper Xiaomi and Huawei foldables ...",
-      "url": "https://www.cnbc.com/2026/09/11/the-iphone-duo-enters-chinas-crowded-foldable-market.html",
-      "publishedAt": "2026-09-11T00:19:00Z",
-      "processed_at": "2026-09-12T03:36:08.882655+00:00"
+      "description": "Welcome back, ceramic cases!...",
+      "url": "https://mashable.com/tech/apple-watch-series-12-vs-11-price-specs",
+      "publishedAt": "2026-09-11T00:37:05Z",
+      "processed_at": "2026-09-12T08:27:14.892304+00:00"
+    },
+    {
+      "title": "T-Mobile will charge $5/month for Apple’s new iPhone Handoff feature - 9to5Mac",
+      "source": {
+        "name": "9to5Mac"
+      },
+      "description": "Apple’s new iPhone Handoff feature, which lets users share a single phone number across two iPhones,...",
+      "url": "https://9to5mac.com/2026/09/10/t-mobile-will-charge-5-month-for-apples-new-iphone-handoff-feature/",
+      "publishedAt": "2026-09-11T00:28:00Z",
+      "processed_at": "2026-09-12T08:27:14.892304+00:00"
     },
     {
       "title": "Here are the iPhone 18 Pro and iPhone 18 Pro Max Geekbench scores - GSMArena.com news - GSMArena.com",
@@ -20,37 +30,17 @@
       "description": "The A20 Pro delivers solid performance improvements compared to its predecessor. Yesterday, Apple un...",
       "url": "https://www.gsmarena.com/here_are_the_iphone_18_pro_and_iphone_18_pro_max_geekbench_scores-news-74559.php",
       "publishedAt": "2026-09-11T00:01:02Z",
-      "processed_at": "2026-09-12T03:36:08.882655+00:00"
+      "processed_at": "2026-09-12T08:27:14.892304+00:00"
     },
     {
-      "title": "T-Mobile to Charge $5 a Month for iOS 27 iPhone Handoff - MacRumors",
+      "title": "Verizon scales back a perk that keeps prices low for customers - thestreet.com",
       "source": {
-        "name": "MacRumors"
+        "name": "TheStreet"
       },
-      "description": "T-Mobile will charge customers $5 per month to use iPhone Handoff, an e-SIM feature that allows the ...",
-      "url": "https://www.macrumors.com/2026/09/10/ios-27-iphone-handoff-cost/",
-      "publishedAt": "2026-09-10T22:58:20Z",
-      "processed_at": "2026-09-12T03:36:08.882655+00:00"
-    },
-    {
-      "title": "You Can't Use Apple Watch's Live Rewind Secretly, Apple Says - MacRumors",
-      "source": {
-        "name": "MacRumors"
-      },
-      "description": "With the Apple Watch Series 12 and Ultra 4, Apple is adding Live Rewind, which relies on an S11 proc...",
-      "url": "https://www.macrumors.com/2026/09/10/apple-watch-live-rewind/",
-      "publishedAt": "2026-09-10T22:11:55Z",
-      "processed_at": "2026-09-12T03:36:08.882655+00:00"
-    },
-    {
-      "title": "Does the iPhone Duo have MagSafe? Everything to know. - Mashable",
-      "source": {
-        "name": "Mashable"
-      },
-      "description": "Apple’s foldable can charge wirelessly to 50 percent in around 30 minutes....",
-      "url": "https://mashable.com/tech/iphone-duo-magsafe-charging",
-      "publishedAt": "2026-09-10T21:46:12Z",
-      "processed_at": "2026-09-12T03:36:08.882655+00:00"
+      "description": "",
+      "url": "https://www.thestreet.com/retail/verizon-removes-price-lock-guarantee-from-myplan",
+      "publishedAt": "2026-09-10T23:47:00Z",
+      "processed_at": "2026-09-12T08:27:14.892304+00:00"
     },
     {
       "title": "LG defends smart-TV features amid audio surveillance allegations - Al Jazeera",
@@ -60,7 +50,27 @@
       "description": "Recent accusations against the electronics company have raised new questions about the nonconsensual...",
       "url": "https://www.aljazeera.com/news/2026/9/10/lg-defends-smart-tv-features-amid-audio-surveillance-allegations",
       "publishedAt": "2026-09-10T21:36:12Z",
-      "processed_at": "2026-09-12T03:36:08.882655+00:00"
+      "processed_at": "2026-09-12T08:27:14.892304+00:00"
+    },
+    {
+      "title": "Slack can now vibe-code interactive charts and reports inside chats - theverge.com",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "A new Slackforce Surfaces feature uses AI to build interactive polls, dashboards, presentations, and...",
+      "url": "https://www.theverge.com/tech/989853/slackforce-surfaces-launch",
+      "publishedAt": "2026-09-10T21:25:21Z",
+      "processed_at": "2026-09-12T08:27:14.892304+00:00"
+    },
+    {
+      "title": "Final Fantasy 7 Revelation Requires A Download Instead Of Shipping Complete On Multiple Discs To Avoid Compromising The 'Fidelity' And 'Quality' - Kotaku",
+      "source": {
+        "name": "Kotaku"
+      },
+      "description": "Director Naoki Hamaguchi defended the move amid the current uproar over physical games...",
+      "url": "https://kotaku.com/heres-why-final-fantasy-7-revelation-will-require-a-download-instead-of-shipping-complete-on-multiple-discs-like-the-previous-games-2000733319",
+      "publishedAt": "2026-09-10T20:53:59Z",
+      "processed_at": "2026-09-12T08:27:14.892304+00:00"
     },
     {
       "title": "Mercedes-AMG's New Super Coupe Is A 637-HP Track Car For The Road - Motor1.com",
@@ -70,40 +80,20 @@
       "description": "Mercedes-Benz has launched its second Mythos car, a V8-powered CLE coupe with extensive powertrain a...",
       "url": "https://www.motor1.com/news/807883/mercedes-amg-cle-636-mythos-specs-horsepower-details/",
       "publishedAt": "2026-09-10T20:40:00Z",
-      "processed_at": "2026-09-12T03:36:08.882655+00:00"
+      "processed_at": "2026-09-12T08:27:14.892304+00:00"
     },
     {
-      "title": "Google’s hyper-personalized ‘Dreambeans’ feed is now free to test [U] - 9to5Google",
+      "title": "Wardogs Is Already a Huge Hit As It Sells a Million Copies and Blows Past 300k Concurrent Players on Launch Day - IGN",
       "source": {
-        "name": "9to5google.com"
+        "name": "IGN"
       },
-      "description": "After previously requiring a subscription, Dreambeans is now available for free Google Accounts in t...",
-      "url": "http://9to5google.com/2026/09/10/google-dreambeans-free/",
-      "publishedAt": "2026-09-10T19:30:00Z",
-      "processed_at": "2026-09-12T03:36:08.882655+00:00"
-    },
-    {
-      "title": "Grand Theft Auto swerves into Florida’s political season - politico.com",
-      "source": {
-        "name": "Politico"
-      },
-      "description": "GTA’s connection to Miami has become political — and the game won’t even be out until more than two ...",
-      "url": "https://www.politico.com/news/2026/09/10/grand-theft-auto-florida-desantis-uthmeier-miami-01071167",
-      "publishedAt": "2026-09-10T19:24:00Z",
-      "processed_at": "2026-09-12T03:36:08.882655+00:00"
-    },
-    {
-      "title": "Upgrading to Apple Watch Series 12 Could Cost You Hypertension Notifications - MacRumors",
-      "source": {
-        "name": "MacRumors"
-      },
-      "description": "Some Apple Watch users who upgrade to the Series 12 or the Ultra 4 might temporarily lose access to ...",
-      "url": "https://www.macrumors.com/2026/09/10/apple-watch-series-12-hypertension-alerts/",
-      "publishedAt": "2026-09-10T18:57:42Z",
-      "processed_at": "2026-09-12T03:36:08.882655+00:00"
+      "description": "Wardogs has already surpassed a million copies sold and is lighting up Steam's concurrent player cha...",
+      "url": "https://www.ign.com/articles/wardogs-surpasses-1-million-copies-sold-on-day-one-blows-past-300k-peak-concurrent-players-on-steam",
+      "publishedAt": "2026-09-10T18:19:15Z",
+      "processed_at": "2026-09-12T08:27:14.892304+00:00"
     }
   ],
-  "lastUpdated": "2026-09-12T03:36:08.882729+00:00",
+  "lastUpdated": "2026-09-12T08:27:14.892353+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
