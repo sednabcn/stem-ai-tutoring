@@ -1,7 +1,87 @@
 {
   "status": "success",
-  "totalResults": 10,
+  "totalResults": 9,
   "articles": [
+    {
+      "title": "What comes after Lies of P? It looks like it might be Wonders of O, according to a new trademark - Eurogamer.net",
+      "source": {
+        "name": "Eurogamer.net"
+      },
+      "description": "The new name for a game from Neowiz is a bit on the nose....",
+      "url": "https://www.eurogamer.net/what-comes-after-lies-of-p-it-looks-like-it-might-be-wonders-of-o-according-to-a-new-trademark",
+      "publishedAt": "2026-09-14T14:35:36Z",
+      "processed_at": "2026-09-15T17:59:03.932730+00:00"
+    },
+    {
+      "title": "Inside ‘Project Lily’: The Humans Reading Your ChatGPT Chats - 404 Media",
+      "source": {
+        "name": "404media.co"
+      },
+      "description": "Humans are reading ChatGPT users’ prompts to improve OpenAI’s models, and those chats can include se...",
+      "url": "https://www.404media.co/inside-project-lily-the-humans-reading-your-chatgpt-chats/",
+      "publishedAt": "2026-09-14T14:27:35Z",
+      "processed_at": "2026-09-15T17:59:03.932730+00:00"
+    },
+    {
+      "title": "iPhone 18 Pro, Pro Max pre-orders now delayed to October for most models - 9to5Mac",
+      "source": {
+        "name": "9to5Mac"
+      },
+      "description": "",
+      "url": "https://9to5mac.com/2026/09/14/iphone-18-pro-pro-max-pre-orders-now-delayed-to-october-for-most-models/",
+      "publishedAt": "2026-09-14T13:43:00Z",
+      "processed_at": "2026-09-15T17:59:03.932730+00:00"
+    },
+    {
+      "title": "The Witcher 3′ s Geralt Skin For Diablo 4 Has A Really Annoying Requirement - Kotaku",
+      "source": {
+        "name": "Kotaku"
+      },
+      "description": "CD Projekt Red's crossover with Battle.net has a frustrating catch...",
+      "url": "https://kotaku.com/the-witcher-3s-geralt-skin-for-diablo-4-has-a-really-annoying-requirement-2000734239",
+      "publishedAt": "2026-09-14T13:30:47Z",
+      "processed_at": "2026-09-15T17:59:03.932730+00:00"
+    },
+    {
+      "title": "Warcraft 3: Reforged To Get A New Campaign Starring Arthas And Sylvanas, Out Today - Kotaku",
+      "source": {
+        "name": "Kotaku"
+      },
+      "description": "Reforged reforged...",
+      "url": "https://kotaku.com/warcraft-3-reforged-new-campaign-paid-dlc-free-overhaul-2000733793",
+      "publishedAt": "2026-09-14T13:26:50Z",
+      "processed_at": "2026-09-15T17:59:03.932730+00:00"
+    },
+    {
+      "title": "Apple AirPods 5 Review: A Better Upgrade Than I Expected - CNET",
+      "source": {
+        "name": "CNET"
+      },
+      "description": "With better sound and noise cancellation, the AirPods 5 are great for Apple users who don’t like hav...",
+      "url": "https://www.cnet.com/tech/mobile/apple-airpods-5-review/",
+      "publishedAt": "2026-09-14T13:07:26Z",
+      "processed_at": "2026-09-15T17:59:03.932730+00:00"
+    },
+    {
+      "title": "Which Nvidia GPU Is Equivalent To The Xbox Series S? - bgr.com",
+      "source": {
+        "name": "BGR"
+      },
+      "description": "The 1650 SUPER from Nvidia's now discontinued GTX graphics card line comes closest to the GPU inside...",
+      "url": "https://www.bgr.com/2254766/nvidia-gpu-equivalent-to-xbox-series-s/",
+      "publishedAt": "2026-09-14T12:47:00Z",
+      "processed_at": "2026-09-15T17:59:03.932730+00:00"
+    },
+    {
+      "title": "Apple Foldable iPhone Could Change Smartphones Forever - Yahoo Finance",
+      "source": {
+        "name": "Yahoo Entertainment"
+      },
+      "description": "Apple Just Entered the Foldable War. Gurman Says Its New iPhone Could Transform the Market...",
+      "url": "https://finance.yahoo.com/technology/articles/apple-foldable-iphone-could-change-121236187.html",
+      "publishedAt": "2026-09-14T12:12:36Z",
+      "processed_at": "2026-09-15T17:59:03.932730+00:00"
+    },
     {
       "title": "Apple's Siri AI Can Be Swapped Out for Claude, ChatGPT, Code Shows - MacRumors",
       "source": {
@@ -10,100 +90,10 @@
       "description": "Code sleuth \"pdfu\" has uncovered iOS 27 and macOS Golden Gate private frameworks that show Apple has...",
       "url": "https://www.macrumors.com/2026/09/14/siri-can-be-swapped-out-for-chatgpt-claude/",
       "publishedAt": "2026-09-14T11:37:17Z",
-      "processed_at": "2026-09-15T13:13:35.433532+00:00"
-    },
-    {
-      "title": "They created Siri before Apple bought it. They’re still waiting for their original vision to come true - CNN",
-      "source": {
-        "name": "CNN"
-      },
-      "description": "Dag Kittlaus and Adam Cheyer, known for creating an assistant that’s now found in billions of Apple ...",
-      "url": "https://www.cnn.com/2026/09/14/tech/siri-founders-apple-ai",
-      "publishedAt": "2026-09-14T11:00:30Z",
-      "processed_at": "2026-09-15T13:13:35.433532+00:00"
-    },
-    {
-      "title": "NVIDIA introduces RTX PRO 5500 Blackwell with 84GB GDDR7 and 600W power limit - VideoCardz.com",
-      "source": {
-        "name": "Videocardz.com"
-      },
-      "description": "NVIDIA has added the RTX PRO 5500 Blackwell with 21,760 CUDA cores and 84GB GDDR7. The 600W workstat...",
-      "url": "https://videocardz.com/newz/nvidia-introduces-rtx-pro-5500-blackwell-with-84gb-gddr7-and-600w-power-limit",
-      "publishedAt": "2026-09-14T07:42:56Z",
-      "processed_at": "2026-09-15T13:13:35.433532+00:00"
-    },
-    {
-      "title": "Gurman: 'iPhone Duo Max' With Bigger Display Likely in Apple's Plans - MacRumors",
-      "source": {
-        "name": "MacRumors"
-      },
-      "description": "Bloomberg's Mark Gurman has suggested Apple will release an \"iPhone Duo Max\" in the coming years, hi...",
-      "url": "https://www.macrumors.com/2026/09/14/iphone-duo-max-apple-product-roadmap/",
-      "publishedAt": "2026-09-14T06:59:11Z",
-      "processed_at": "2026-09-15T13:13:35.433532+00:00"
-    },
-    {
-      "title": "User finds why Windows 11 KB5121003 may automatically cut power on Lenovo PCs - Neowin",
-      "source": {
-        "name": "Neowin"
-      },
-      "description": "",
-      "url": "https://www.neowin.net/news/user-finds-why-windows-11-kb5121003-may-automatically-cut-power-on-lenovo-pcs/",
-      "publishedAt": "2026-09-14T06:45:20Z",
-      "processed_at": "2026-09-15T13:13:35.433532+00:00"
-    },
-    {
-      "title": "This Is The New BMW 3 Series Before You’re Supposed To See It - Motor1.com",
-      "source": {
-        "name": "Motor1 "
-      },
-      "description": "The 2027 BMW 3 Series premieres at the end of September, but the range-topping M350 xDrive has alrea...",
-      "url": "https://www.motor1.com/news/808095/2027-bmw-3-series-no-camo/",
-      "publishedAt": "2026-09-14T06:01:00Z",
-      "processed_at": "2026-09-15T13:13:35.433532+00:00"
-    },
-    {
-      "title": "Oncologists Warn: Are Plastic Cutting Boards Safe? Here's What You Need to Know - AOL.com",
-      "source": {
-        "name": "Parade"
-      },
-      "description": "Here’s what experts know about how microplastics impact health....",
-      "url": "https://parade.com/health/how-harmful-are-plastic-cutting-boards-according-to-oncologists",
-      "publishedAt": "2026-09-14T03:15:00Z",
-      "processed_at": "2026-09-15T13:13:35.433532+00:00"
-    },
-    {
-      "title": "5 Budget Android Phones You Should Consider Instead Of The Google Pixel 11 - bgr.com",
-      "source": {
-        "name": "BGR"
-      },
-      "description": "Considering a Google Pixel 11 smartphone, but feeling put off by the $900 price tag? Why not conside...",
-      "url": "https://www.bgr.com/2253813/budget-android-phones-google-pixel-11-alternatives/",
-      "publishedAt": "2026-09-14T01:50:49Z",
-      "processed_at": "2026-09-15T13:13:35.433532+00:00"
-    },
-    {
-      "title": "iOS 27 Available Tomorrow With These 8 New Features - MacRumors",
-      "source": {
-        "name": "MacRumors"
-      },
-      "description": "During its iPhone 18 Pro and iPhone Duo event last week, Apple announced that iOS 27 will be release...",
-      "url": "https://www.macrumors.com/2026/09/13/ios-27-features-available-tomorrow/",
-      "publishedAt": "2026-09-13T23:30:07Z",
-      "processed_at": "2026-09-15T13:13:35.433532+00:00"
-    },
-    {
-      "title": "Walmart’s $70 2-in-1 tablet comes with a 7-piece accessories bundle - thestreet.com",
-      "source": {
-        "name": "TheStreet"
-      },
-      "description": "It \"charges super fast.\"...",
-      "url": "https://www.thestreet.com/deals/sharecloud-2-in-1-laptop-tablet-walmart-flash-sale-mp",
-      "publishedAt": "2026-09-13T22:30:00Z",
-      "processed_at": "2026-09-15T13:13:35.433532+00:00"
+      "processed_at": "2026-09-15T17:59:03.932730+00:00"
     }
   ],
-  "lastUpdated": "2026-09-15T13:13:35.433609+00:00",
+  "lastUpdated": "2026-09-15T17:59:03.932800+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
