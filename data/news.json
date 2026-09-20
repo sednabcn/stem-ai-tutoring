@@ -1,16 +1,26 @@
 {
   "status": "success",
-  "totalResults": 10,
+  "totalResults": 9,
   "articles": [
     {
-      "title": "iPhone 18 Pro Max’s battery is so big Apple had to add this new feature to iOS 27 - 9to5Mac",
+      "title": "The ‘Control Resonant’ Metacritic Review Score Has Finalized With GOTY Potential - forbes.com",
       "source": {
-        "name": "9to5Mac"
+        "name": "Forbes"
       },
-      "description": "The iPhone 18 Pro Max offers a huge jump in battery life, partly because the battery itself is physi...",
-      "url": "https://9to5mac.com/2026/09/19/iphone-18-pro-maxs-battery-is-so-big-apple-had-to-add-this-new-feature-to-ios-27/",
-      "publishedAt": "2026-09-19T11:10:00Z",
-      "processed_at": "2026-09-20T14:33:53.169075+00:00"
+      "description": "",
+      "url": "https://www.forbes.com/sites/paultassi/2026/09/19/the-control-resonant-metacritic-review-score-has-finalized-with-goty-potential/",
+      "publishedAt": "2026-09-19T14:46:19Z",
+      "processed_at": "2026-09-20T18:03:27.145694+00:00"
+    },
+    {
+      "title": "There are ways to protect yourself from your spying TV - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "Not every smart TV is as easily hackable as Gamers Nexus says LG’s are, but they’re all tracking wha...",
+      "url": "https://www.theverge.com/tech/997682/every-tv-company-is-spying",
+      "publishedAt": "2026-09-19T13:00:00Z",
+      "processed_at": "2026-09-20T18:03:27.145694+00:00"
     },
     {
       "title": "No One Wants To Talk About This Embarrassing Part Of Aging — But This Small Toilet Tool Can Help - HuffPost",
@@ -20,7 +30,7 @@
       "description": "The Bottom Buddy is an ergonomic toilet wand that is giving people back their independence....",
       "url": "https://www.huffpost.com/entry/bottom-buddy-wiping-aid_l_6aa828dde4b0781f96938971",
       "publishedAt": "2026-09-19T10:00:19Z",
-      "processed_at": "2026-09-20T14:33:53.169075+00:00"
+      "processed_at": "2026-09-20T18:03:27.145694+00:00"
     },
     {
       "title": "Poll: What were your favorite announcements from Xbox Tokyo Game Show 2026? - TrueAchievements",
@@ -30,7 +40,17 @@
       "description": "With 17 reveals and announcements from this year's show, for this week's poll, we want to know: what...",
       "url": "https://www.trueachievements.com/poll/63783/poll-xbox-tokyo-game-show-2026",
       "publishedAt": "2026-09-19T08:01:31Z",
-      "processed_at": "2026-09-20T14:33:53.169075+00:00"
+      "processed_at": "2026-09-20T18:03:27.145694+00:00"
+    },
+    {
+      "title": "Bill Skarsgård Sounds Very Excited To Be Starring In Hideo Kojima’s Physint - kotaku.com",
+      "source": {
+        "name": "Kotaku"
+      },
+      "description": "The actor released a new video promoting the project...",
+      "url": "https://kotaku.com/bill-skarsgard-sounds-very-excited-to-be-starring-in-hideo-kojimas-physint-2000735799",
+      "publishedAt": "2026-09-19T06:08:55Z",
+      "processed_at": "2026-09-20T18:03:27.145694+00:00"
     },
     {
       "title": "Apple Exec Says 'Hold Us Accountable' on iPhone Duo Crease - MacRumors",
@@ -40,7 +60,7 @@
       "description": "Apple hardware engineering VP Tom Marieb spoke with TechRadar and shared some candid thoughts about ...",
       "url": "https://www.macrumors.com/2026/09/19/apple-exec-iphone-crease/",
       "publishedAt": "2026-09-19T04:51:00Z",
-      "processed_at": "2026-09-20T14:33:53.169075+00:00"
+      "processed_at": "2026-09-20T18:03:27.145694+00:00"
     },
     {
       "title": "Fire Emblem: Fortune's Weave Is Getting A Manga Series, Here's The Key Art - Nintendo Life",
@@ -50,7 +70,7 @@
       "description": "Update: You can now read the prologue chapter on Nintendo Today!...",
       "url": "https://www.nintendolife.com/news/2026/09/fire-emblem-fortunes-weave-is-getting-a-manga-series-heres-the-key-art",
       "publishedAt": "2026-09-19T04:30:00Z",
-      "processed_at": "2026-09-20T14:33:53.169075+00:00"
+      "processed_at": "2026-09-20T18:03:27.145694+00:00"
     },
     {
       "title": "'We've Got Something Really Special Here' — Blizzard Gets on Top of World of Warcraft: Forever Beta Launch Rush - IGN",
@@ -60,50 +80,20 @@
       "description": "World of Warcraft: Forever looks like it could be a smash hit after the launch of the beta was overr...",
       "url": "https://www.ign.com/articles/as-fans-flood-the-world-of-warcraft-forever-beta-dev-says-its-putting-up-the-craziest-numbers-ive-seen-in-17-years-working-at-blizzard",
       "publishedAt": "2026-09-19T03:22:04Z",
-      "processed_at": "2026-09-20T14:33:53.169075+00:00"
+      "processed_at": "2026-09-20T18:03:27.145694+00:00"
     },
     {
-      "title": "Live-Action Lollipop Chainsaw Film Announced - Anime News Network",
+      "title": "iPhone 18 Pro Max Requires 'Prepare to Ship' Battery Drain Before Shipping - MacRumors",
       "source": {
-        "name": "Anime News Network"
+        "name": "MacRumors"
       },
-      "description": "The Hurt Locker's Kirk Shaw, Concordia's Robert Franke produce project separate from anime plans...",
-      "url": "https://www.animenewsnetwork.com/news/2026-09-18/live-action-lollipop-chainsaw-film-announced/.241960",
-      "publishedAt": "2026-09-19T01:33:05Z",
-      "processed_at": "2026-09-20T14:33:53.169075+00:00"
-    },
-    {
-      "title": "The Quantified Scientist tests the Apple Watch Series 12’s new heart rate sensor - 9to5Mac",
-      "source": {
-        "name": "9to5Mac"
-      },
-      "description": "In a new video, The Quantified Scientist’s Rob ter Horst compares the new Apple Watch Series 12’s he...",
-      "url": "https://9to5mac.com/2026/09/18/the-quantified-scientist-tests-the-apple-watch-series-12s-new-heart-rate-sensor/",
-      "publishedAt": "2026-09-18T23:08:00Z",
-      "processed_at": "2026-09-20T14:33:53.169075+00:00"
-    },
-    {
-      "title": "Insomniac Confirms Wolverine Doesn't Contain AI-Generated Assets After A Weird-Looking Sign Goes Viral - Kotaku",
-      "source": {
-        "name": "Kotaku"
-      },
-      "description": "A funky-looking bathroom sign is the result of an in-game glitch and is not AI slop...",
-      "url": "https://kotaku.com/insomniac-confirms-wolverine-doesnt-contain-ai-generated-assets-after-a-weird-looking-sign-goes-viral-2000735775",
-      "publishedAt": "2026-09-18T22:45:32Z",
-      "processed_at": "2026-09-20T14:33:53.169075+00:00"
-    },
-    {
-      "title": "Galaxy Tab S12 leak spills the beans on the Plus and Ultra specs - Android Authority",
-      "source": {
-        "name": "Android Authority"
-      },
-      "description": "A leak may have revealed the full specs of Samsung's upcoming tablets, the Galaxy Tab S12 Plus and S...",
-      "url": "https://www.androidauthority.com/galaxy-tab-s12-specs-revealed-3713106/",
-      "publishedAt": "2026-09-18T21:06:00Z",
-      "processed_at": "2026-09-20T14:33:53.169075+00:00"
+      "description": "The iPhone 18 Pro Max has a battery capacity over 20 watt-hours, which means there are additional sh...",
+      "url": "https://www.macrumors.com/2026/09/18/iphone-18-pro-max-shipping-restriction/",
+      "publishedAt": "2026-09-18T23:27:55Z",
+      "processed_at": "2026-09-20T18:03:27.145694+00:00"
     }
   ],
-  "lastUpdated": "2026-09-20T14:33:53.169147+00:00",
+  "lastUpdated": "2026-09-20T18:03:27.145775+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
