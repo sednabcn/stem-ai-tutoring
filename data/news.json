@@ -3,6 +3,46 @@
   "totalResults": 10,
   "articles": [
     {
+      "title": "Apple Music to open concert venue in Battersea Power Station - BBC",
+      "source": {
+        "name": "BBC News"
+      },
+      "description": "The tech giant has built its own concert hall, but says its not in competition with small venues....",
+      "url": "https://www.bbc.com/news/articles/c607l2j2rj8ro",
+      "publishedAt": "2026-09-22T05:22:58Z",
+      "processed_at": "2026-09-23T05:34:59.008044+00:00"
+    },
+    {
+      "title": "watchOS 27.2 beta 2 brings the App Switcher back with a new gesture - 9to5Mac",
+      "source": {
+        "name": "9to5Mac"
+      },
+      "description": "If you’ve been missing the double-click of the Digital Crown that used to bring up the App Switcher ...",
+      "url": "https://9to5mac.com/2026/09/21/watchos-27-2-beta-2-brings-the-app-switcher-back-with-a-new-gesture/",
+      "publishedAt": "2026-09-22T02:07:00Z",
+      "processed_at": "2026-09-23T05:34:59.008044+00:00"
+    },
+    {
+      "title": "Nintendo Shares First Look At Zelda: Ocarina Of Time Switch 2 World Map - Nintendo Life",
+      "source": {
+        "name": "Nintendo Life"
+      },
+      "description": "See how it compares to the original game...",
+      "url": "https://www.nintendolife.com/news/2026/09/nintendo-shares-first-look-at-zelda-ocarina-of-time-switch-2-world-map",
+      "publishedAt": "2026-09-22T00:55:00Z",
+      "processed_at": "2026-09-23T05:34:59.008044+00:00"
+    },
+    {
+      "title": "iPhone 20 display leak teases massive upgrade over iPhone 18 Pro - Mashable",
+      "source": {
+        "name": "Mashable"
+      },
+      "description": "Remember: We're pretty sure Apple is skipping iPhone 19....",
+      "url": "https://mashable.com/tech/apple-iphone-20-display-upgrade-leak",
+      "publishedAt": "2026-09-21T22:54:36Z",
+      "processed_at": "2026-09-23T05:34:59.008044+00:00"
+    },
+    {
       "title": "At Least One Of Persona 4′ s Original Actors Reprises Their Role In Revival - kotaku.com",
       "source": {
         "name": "Kotaku"
@@ -10,27 +50,37 @@
       "description": "But didn't the devs just say that they wanted to start over with the voice cast?...",
       "url": "https://kotaku.com/at-least-one-of-persona-4s-original-actors-reprises-their-role-in-revival-2000736219",
       "publishedAt": "2026-09-21T22:01:06Z",
-      "processed_at": "2026-09-23T00:05:02.215867+00:00"
+      "processed_at": "2026-09-23T05:34:59.008044+00:00"
     },
     {
-      "title": "Hard Mountain Dew offers $1M bounty to anyone who can prove Bigfoot is real - Fox Business",
+      "title": "F1 confirms new Hot Wheels \"Infinite Rush\" car collection for 2027 release - Motorsport.com",
       "source": {
-        "name": "Fox Business"
+        "name": "Motorsport.com"
       },
-      "description": "The beverage brand's \"Bigfoot Bounty\" campaign offers adults 21 and older the chance to win $1 milli...",
-      "url": "https://www.foxbusiness.com/lifestyle/hard-mountain-dew-offers-1m-bounty-anyone-who-can-prove-bigfoot-real",
-      "publishedAt": "2026-09-21T21:47:00Z",
-      "processed_at": "2026-09-23T00:05:02.215867+00:00"
+      "description": "Formula 1 will bring all 22 cars from the 2026 grid to the Hot Wheels \"Infinite Rush\" video game in ...",
+      "url": "https://www.motorsport.com/f1/news/f1-confirms-new-hot-wheels-infinite-rush-car-collection-for-2027-release/10857826/",
+      "publishedAt": "2026-09-21T21:32:34Z",
+      "processed_at": "2026-09-23T05:34:59.008044+00:00"
     },
     {
-      "title": "iOS 27.2 reveals new features coming to Apple Music, CarPlay, more - 9to5Mac",
+      "title": "Bungie Announces Plans To Restore Vaulted Destiny 2 Content And Substantial Reworks To Marathon - Game Informer",
       "source": {
-        "name": "9to5Mac"
+        "name": "Gameinformer.com"
       },
-      "description": "Code for iOS 27.2’s beta releases points to new features in the works for Apple Music, CarPlay Ultra...",
-      "url": "https://9to5mac.com/2026/09/21/ios-27-2-reveals-new-features-coming-to-apple-music-carplay-more/",
-      "publishedAt": "2026-09-21T19:01:00Z",
-      "processed_at": "2026-09-23T00:05:02.215867+00:00"
+      "description": "Bungie plans to earn back fan trust following its unpopular decision to wind down Destiny 2 developm...",
+      "url": "https://gameinformer.com/2026/09/21/bungie-announces-plans-to-restore-vaulted-destiny-2-content-and-substantial-reworks-to",
+      "publishedAt": "2026-09-21T21:29:00Z",
+      "processed_at": "2026-09-23T05:34:59.008044+00:00"
+    },
+    {
+      "title": "SpaceX Seems to Expand 'Free' Starlink Mini Perk to All Residential Plans - PCMag",
+      "source": {
+        "name": "PCMag.com"
+      },
+      "description": "Starlink quietly tweaks language about the 'Optional Mini Kit' perk, which used to only be for the R...",
+      "url": "https://www.pcmag.com/news/spacex-seems-to-expand-free-starlink-mini-perk-to-all-residential-plans",
+      "publishedAt": "2026-09-21T21:16:35Z",
+      "processed_at": "2026-09-23T05:34:59.008044+00:00"
     },
     {
       "title": "Report: Injustice 3 Leak Reveals New and Returning Characters for Roster - MP1st",
@@ -40,70 +90,20 @@
       "description": "A resume slip-up has revealed the first two characters expected to join the roster in NetherRealm St...",
       "url": "https://mp1st.com/news/report-injustice-3-leak-reveals-new-and-returning-characters-for-roster",
       "publishedAt": "2026-09-21T18:45:19Z",
-      "processed_at": "2026-09-23T00:05:02.215867+00:00"
+      "processed_at": "2026-09-23T05:34:59.008044+00:00"
     },
     {
-      "title": "Nintendo Switch ports of Pokémon Ruby and Sapphire look even more likely after official account shares suspiciously HD footage of the GBA games - Eurogamer.net",
+      "title": "Rockstar Games Outlines New Modding Policy Ahead of GTA 6's Release - ign.com",
       "source": {
-        "name": "Eurogamer.net"
+        "name": "IGN"
       },
-      "description": "Pokémon fans are convinced the other third-generation GBA games are headed to Nintendo Switch - and ...",
-      "url": "https://www.eurogamer.net/nintendo-switch-pokemon-ruby-sapphire-hd-port",
-      "publishedAt": "2026-09-21T18:36:03Z",
-      "processed_at": "2026-09-23T00:05:02.215867+00:00"
-    },
-    {
-      "title": "Final Fantasy Director Says Xenogears 'Sounds Like A Tough Game' To Remake And I'm Beginning To Think The Cult PS1 RPG Might Never Be Coming Back - Kotaku",
-      "source": {
-        "name": "Kotaku"
-      },
-      "description": "What began as a possible Final Fantasy game deserves to have its legacy preserved...",
-      "url": "https://kotaku.com/final-fantasy-director-says-xenogears-sounds-like-a-tough-game-to-remake-and-im-beginning-to-think-the-cult-ps1-rpg-might-never-be-coming-back-2000736127",
-      "publishedAt": "2026-09-21T18:30:42Z",
-      "processed_at": "2026-09-23T00:05:02.215867+00:00"
-    },
-    {
-      "title": "Sony Seemingly Incentivising Digital PS5 Purchases with Cashback - Push Square",
-      "source": {
-        "name": "Push Square"
-      },
-      "description": "Feeling flash...",
-      "url": "https://www.pushsquare.com/news/2026/09/sony-seemingly-incentivising-digital-ps5-purchases-with-cashback",
-      "publishedAt": "2026-09-21T18:00:00Z",
-      "processed_at": "2026-09-23T00:05:02.215867+00:00"
-    },
-    {
-      "title": "Dyson Won't Say What's Wrong With Its CameraJet Toothbrush - WIRED",
-      "source": {
-        "name": "Wired"
-      },
-      "description": "Despite admitting to a “component issue,” the company refuses to say what went wrong, how many units...",
-      "url": "https://www.wired.com/story/dyson-wont-say-whats-wrong-with-the-camerajet-toothbrush/",
-      "publishedAt": "2026-09-21T17:22:00Z",
-      "processed_at": "2026-09-23T00:05:02.215867+00:00"
-    },
-    {
-      "title": "Marathon Didn’t Reach As Many Players As Bungie ‘Hoped’ And ‘Needs To Evolve’ - Kotaku",
-      "source": {
-        "name": "Kotaku"
-      },
-      "description": "The excellent extraction shooter is in a bad place...",
-      "url": "https://kotaku.com/marathon-didnt-reach-as-many-players-as-bungie-hoped-and-needs-to-evolve-2000736189",
-      "publishedAt": "2026-09-21T17:07:55Z",
-      "processed_at": "2026-09-23T00:05:02.215867+00:00"
-    },
-    {
-      "title": "Bungie is freeing vaulted Destiny 2 campaigns after Marathon \"did not reach as many players as we had hoped\" - Eurogamer.net",
-      "source": {
-        "name": "Eurogamer.net"
-      },
-      "description": "Bungie promises to unvault Destiny 2 campaigns and raids that were locked away, all while rebuilding...",
-      "url": "https://www.eurogamer.net/bungie-vaulted-destiny-2-campaigns-marathon-future",
-      "publishedAt": "2026-09-21T17:06:26Z",
-      "processed_at": "2026-09-23T00:05:02.215867+00:00"
+      "description": "Rockstar Games has outlined its policy for modding ahead of Grand Theft Auto 6's release, and it may...",
+      "url": "https://www.ign.com/articles/rockstar-games-new-modding-policy-crushes-influencers-dreams-for-monetized-gta-6-rp-servers",
+      "publishedAt": "2026-09-21T18:43:45Z",
+      "processed_at": "2026-09-23T05:34:59.008044+00:00"
     }
   ],
-  "lastUpdated": "2026-09-23T00:05:02.215942+00:00",
+  "lastUpdated": "2026-09-23T05:34:59.008121+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
