@@ -1,16 +1,56 @@
 {
   "status": "success",
-  "totalResults": 9,
+  "totalResults": 10,
   "articles": [
     {
-      "title": "New Mac Mini Has Two Storage Downsides, Including Unremovable SSD - macrumors.com",
+      "title": "Xbox's new Mythic achievement: full breakdown of the Platinum trophy rival - TrueAchievements",
       "source": {
-        "name": "MacRumors"
+        "name": "TrueAchievements"
       },
-      "description": "As confirmed by the website \"Expand Mac mini,\" NAND storage in the new Mac mini models with the M6 a...",
-      "url": "https://www.macrumors.com/2026/09/22/new-mac-mini-ssd-cant-be-removed/",
-      "publishedAt": "2026-09-23T03:23:00Z",
-      "processed_at": "2026-09-24T07:20:23.058614+00:00"
+      "description": "TrueAchievements can reveal more about Xbox's new Mythic achievement, an equivalent to PlayStation's...",
+      "url": "https://www.trueachievements.com/news/xbox-mythic-achievement",
+      "publishedAt": "2026-09-23T10:51:58Z",
+      "processed_at": "2026-09-24T13:19:53.572817+00:00"
+    },
+    {
+      "title": "Tiny Violins At The Ready, Pokémon Scalpers Are Upset About New Expansion's Profitability - Nintendo Life",
+      "source": {
+        "name": "Nintendo Life"
+      },
+      "description": "Boo hoo...",
+      "url": "https://www.nintendolife.com/news/2026/09/tiny-violins-at-the-ready-pokemon-scalpers-are-upset-about-new-expansions-profitability",
+      "publishedAt": "2026-09-23T10:45:00Z",
+      "processed_at": "2026-09-24T13:19:53.572817+00:00"
+    },
+    {
+      "title": "Xbox lays off Gears of War: E-Day's story director barely two weeks before the game's launch - Eurogamer.net",
+      "source": {
+        "name": "Eurogamer.net"
+      },
+      "description": "Gears of War: E-Day story director Juan Vaca announced he was included in yesterday's Xbox cuts, whi...",
+      "url": "https://www.eurogamer.net/gears-of-war-e-day-story-director-laid-off-xbox-cuts",
+      "publishedAt": "2026-09-23T09:00:12Z",
+      "processed_at": "2026-09-24T13:19:53.572817+00:00"
+    },
+    {
+      "title": "Exclusive: The next Pokémon TCG Delta Reign illustration rare officially revealed - Video Games Chronicle",
+      "source": {
+        "name": "Video Games Chronicle"
+      },
+      "description": "Sprigatito will get a new illustration rare in the new set...",
+      "url": "https://www.videogameschronicle.com/news/exclusive-the-next-pokemon-tcg-delta-reign-illustration-rare-officially-revealed/",
+      "publishedAt": "2026-09-23T08:54:43Z",
+      "processed_at": "2026-09-24T13:19:53.572817+00:00"
+    },
+    {
+      "title": "Discord’s age verification era is upon us, despite community backlash - TechCrunch",
+      "source": {
+        "name": "TechCrunch"
+      },
+      "description": "According to Discord, 90% of users will not have to verify their age....",
+      "url": "https://techcrunch.com/2026/09/22/discords-age-verification-era-is-upon-us-despite-community-backlash/",
+      "publishedAt": "2026-09-23T03:31:12Z",
+      "processed_at": "2026-09-24T13:19:53.572817+00:00"
     },
     {
       "title": "New Adtech From Microsoft Would Interrupt Your Game at 'Promoted Content Trigger Events' - Gizmodo",
@@ -20,17 +60,27 @@
       "description": "Fantastic news for everyone who loves ads in their video games....",
       "url": "https://gizmodo.com/new-adtech-from-microsoft-would-interrupt-your-game-at-promoted-content-trigger-events-2000815772",
       "publishedAt": "2026-09-23T02:19:45Z",
-      "processed_at": "2026-09-24T07:20:23.058614+00:00"
+      "processed_at": "2026-09-24T13:19:53.572817+00:00"
     },
     {
-      "title": "Gears of War: E-Day's Story Director Gets Unceremoniously Laid Off Just Days Ahead of Game's Release - IGN",
+      "title": "Zelda: Ocarina of Time Nintendo Switch 2 pre-order bonus guide - Nintendo Everything",
       "source": {
-        "name": "IGN"
+        "name": "Nintendoeverything.com"
       },
-      "description": "Gears of War: E-Day's story director has been laid off, just one week before the game's early access...",
-      "url": "https://www.ign.com/articles/gears-of-war-e-day-story-director-laid-off-just-a-week-before-early-access-launch",
-      "publishedAt": "2026-09-23T00:22:00Z",
-      "processed_at": "2026-09-24T07:20:23.058614+00:00"
+      "description": "New guide covers every pre-order bonus available for The Legend of Zelda: Ocarina of Time remake on ...",
+      "url": "https://nintendoeverything.com/zelda-ocarina-of-time-nintendo-switch-2-pre-order-bonus-guide/",
+      "publishedAt": "2026-09-23T00:11:21Z",
+      "processed_at": "2026-09-24T13:19:53.572817+00:00"
+    },
+    {
+      "title": "Microsoft kills 35-year-old Office app Oct. 1 - thestreet.com",
+      "source": {
+        "name": "TheStreet"
+      },
+      "description": "",
+      "url": "https://www.thestreet.com/technology/microsoft-kills-35-year-old-office-app-publisher-oct-1",
+      "publishedAt": "2026-09-23T00:09:00Z",
+      "processed_at": "2026-09-24T13:19:53.572817+00:00"
     },
     {
       "title": "'These Changes Will Not Impact the Game's Launch' - State of Decay Developer Undead Labs Responds to 'Significant' Layoffs Following Independence from Xbox - IGN",
@@ -40,7 +90,7 @@
       "description": "State of Decay 3 developer Undead Labs has confirmed that it has had to undergo \"significant\" layoff...",
       "url": "https://www.ign.com/articles/state-of-decay-developer-undead-labs-confirms-significant-layoffs-following-independence-from-xbox",
       "publishedAt": "2026-09-22T23:45:43Z",
-      "processed_at": "2026-09-24T07:20:23.058614+00:00"
+      "processed_at": "2026-09-24T13:19:53.572817+00:00"
     },
     {
       "title": "CyberPowerPC Launches RTX Founders Edition Pre-Built PCs Starting at $1,549 - TechPowerUp",
@@ -50,50 +100,10 @@
       "description": "NVIDIA's Founders Edition graphics cards are generally restricted to its own retail channels, but it...",
       "url": "https://www.techpowerup.com/352972/cyberpowerpc-launches-rtx-founders-edition-pre-built-pcs-starting-at-usd-1-549",
       "publishedAt": "2026-09-22T23:27:39Z",
-      "processed_at": "2026-09-24T07:20:23.058614+00:00"
-    },
-    {
-      "title": "Apple Releases First Public Betas of iOS 27.2 and macOS Golden Gate 27.2 - macrumors.com",
-      "source": {
-        "name": "MacRumors"
-      },
-      "description": "Apple today seeded the first betas of iOS 27.2, iPadOS 27.2, macOS Golden Gate 27.2, tvOS 27.2, and ...",
-      "url": "https://www.macrumors.com/2026/09/22/apple-releases-ios-27-2-public-beta/",
-      "publishedAt": "2026-09-22T23:15:53Z",
-      "processed_at": "2026-09-24T07:20:23.058614+00:00"
-    },
-    {
-      "title": "Rabbit’s new AI agent doesn’t need an R1 to run - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "Rabbit, the company behind the underwhelming R1 AI device, is launching an AI agent that can run acr...",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/999094/rabbit-ai-agent-os3",
-      "publishedAt": "2026-09-22T20:52:40Z",
-      "processed_at": "2026-09-24T07:20:23.058614+00:00"
-    },
-    {
-      "title": "Chip and Joanna Gaines Finally Sell Their Famous $2.7 Million Historic Waco Castle—Fully Furnished - Realtor.com",
-      "source": {
-        "name": "Realtor.com News"
-      },
-      "description": "The yearslong renovation and design project, which was featured on \"Fixer Upper: The Castle,\" is rea...",
-      "url": "https://www.realtor.com/news/reality-tv/chip-joanna-gaines-sell-waco-texas-castle/",
-      "publishedAt": "2026-09-22T20:32:25Z",
-      "processed_at": "2026-09-24T07:20:23.058614+00:00"
-    },
-    {
-      "title": "Sudden Demand for Middle-earth: Shadow of Mordor and War PS5 Ports After Switch 2 Bundle Is Revealed - Push Square",
-      "source": {
-        "name": "Push Square"
-      },
-      "description": "Nemesis...",
-      "url": "https://www.pushsquare.com/news/2026/09/sudden-demand-for-middle-earth-shadow-of-mordor-and-war-ps5-ports-after-switch-2-bundle-is-revealed",
-      "publishedAt": "2026-09-22T20:30:00Z",
-      "processed_at": "2026-09-24T07:20:23.058614+00:00"
+      "processed_at": "2026-09-24T13:19:53.572817+00:00"
     }
   ],
-  "lastUpdated": "2026-09-24T07:20:23.058687+00:00",
+  "lastUpdated": "2026-09-24T13:19:53.572897+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
