@@ -1,89 +1,109 @@
 {
   "status": "success",
-  "totalResults": 8,
+  "totalResults": 10,
   "articles": [
     {
-      "title": "Nikon Z5 IIC Review: Smaller, Prettier, and Mostly Capable - PetaPixel",
+      "title": "10 Things I Wish I Knew When I Started ‘Control Resonant’ - Forbes",
       "source": {
-        "name": "PetaPixel"
+        "name": "Forbes"
       },
-      "description": "Oh EVF, how we miss thee....",
-      "url": "https://petapixel.com/2026/09/23/nikon-z5-iic-review-smaller-prettier-and-mostly-capable/",
-      "publishedAt": "2026-09-24T04:06:46Z",
-      "processed_at": "2026-09-25T07:15:08.479204+00:00"
+      "description": "",
+      "url": "https://www.forbes.com/sites/paultassi/2026/09/24/10-things-i-wish-i-knew-when-i-started-control-resonant/",
+      "publishedAt": "2026-09-24T13:09:04Z",
+      "processed_at": "2026-09-25T13:20:04.984590+00:00"
     },
     {
-      "title": "Meta made a Tamagotchi-like wearable for its Muse AI agent - TechCrunch",
-      "source": {
-        "name": "TechCrunch"
-      },
-      "description": "The tiny hardware device creates another mobile home for its AI agent Muse....",
-      "url": "https://techcrunch.com/2026/09/23/meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent/",
-      "publishedAt": "2026-09-24T00:46:17Z",
-      "processed_at": "2026-09-25T07:15:08.479204+00:00"
-    },
-    {
-      "title": "Mark Zuckerberg debuts $1,299 Meta VR Glasses and Muse Charm pendant amid AI agent push - CNBC",
-      "source": {
-        "name": "CNBC"
-      },
-      "description": "At Meta Connect, CEO Mark Zuckerberg revealed new VR Glasses and the Muse Charm gadget for AI agents...",
-      "url": "https://www.cnbc.com/2026/09/23/mark-zuckerberg-1299-meta-vr-glasses-ai-agent.html",
-      "publishedAt": "2026-09-24T00:45:00Z",
-      "processed_at": "2026-09-25T07:15:08.479204+00:00"
-    },
-    {
-      "title": "Metroid Ravenous Announcement Sees Demand For Physical Copies Of Metroid Dread Spike - Nintendo Life",
+      "title": "DRAGON QUEST XI S: Echoes of an Elusive Age - Definitive Edition Review (Switch 2) - Nintendo Life",
       "source": {
         "name": "Nintendo Life"
       },
-      "description": "",
-      "url": "https://www.nintendolife.com/news/2026/09/metroid-ravenous-announcement-sees-demand-for-physical-copies-of-metroid-dread-spike",
-      "publishedAt": "2026-09-24T00:45:00Z",
-      "processed_at": "2026-09-25T07:15:08.479204+00:00"
+      "description": "Well, at least it looks a little nicer...",
+      "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/dragon-quest-xi-s-echoes-of-an-elusive-age-definitive-edition",
+      "publishedAt": "2026-09-24T12:00:00Z",
+      "processed_at": "2026-09-25T13:20:04.984590+00:00"
     },
     {
-      "title": "Targeting ZMYND8 unleashes IL-2 signalling to override T cell exhaustion - Nature",
+      "title": "Digital Foundry: Fire Emblem Fortune’s Weave is 720p docked, 540p handheld and 30fps, but uses DLSS - My Nintendo News",
       "source": {
-        "name": "Nature.com"
+        "name": "My Nintendo News"
       },
-      "description": "ZMYND8 suppresses IL-2R–STAT5 signalling by inhibiting p300-mediated transcriptional activation&nbsp...",
-      "url": "https://www.nature.com/articles/s41586-026-11059-5",
-      "publishedAt": "2026-09-23T23:32:12Z",
-      "processed_at": "2026-09-25T07:15:08.479204+00:00"
+      "description": "The tech-focussed team at Digital Foundry has been busy examining the recently released Fire Emblem ...",
+      "url": "https://mynintendonews.com/2026/09/24/digital-foundry-fire-emblem-fortunes-weave-is-720p-docked-540p-handheld-and-30-fps-but-uses-dlss/",
+      "publishedAt": "2026-09-24T11:37:32Z",
+      "processed_at": "2026-09-25T13:20:04.984590+00:00"
     },
     {
-      "title": "Microsoft is killing an Office app you’ve used for decades - thestreet.com",
+      "title": "One Of The Switch's Most Underrated Gems Is Now Free For Switch Online Users - Nintendo Life",
       "source": {
-        "name": "TheStreet"
+        "name": "Nintendo Life"
       },
-      "description": "",
-      "url": "https://www.thestreet.com/technology/microsoft-kills-35-year-old-office-app-publisher-oct-1",
-      "publishedAt": "2026-09-23T21:40:50Z",
-      "processed_at": "2026-09-25T07:15:08.479204+00:00"
+      "description": "Play it, for goodness' sake...",
+      "url": "https://www.nintendolife.com/news/2026/09/one-of-the-switchs-most-underrated-gems-is-now-free-for-switch-online-users",
+      "publishedAt": "2026-09-24T11:15:00Z",
+      "processed_at": "2026-09-25T13:20:04.984590+00:00"
     },
     {
-      "title": "The First Ace Combat Game In Seven Years Is Playing For Keeps - Kotaku",
+      "title": "Review: Apple’s hyper-pricey M5 Ultra Mac Studio made me into a vibe coder - arstechnica.com",
       "source": {
-        "name": "Kotaku"
+        "name": "Ars Technica"
       },
-      "description": "The franchise's ambitions are bigger than ever in Ace Combat 8: Wings of Theve...",
-      "url": "https://kotaku.com/the-first-ace-combat-game-in-seven-years-is-playing-for-keeps-2000736801",
-      "publishedAt": "2026-09-23T21:09:22Z",
-      "processed_at": "2026-09-25T07:15:08.479204+00:00"
+      "description": "Usable local AI is a lot of fun, but how much would you pay for it?...",
+      "url": "https://arstechnica.com/gadgets/2026/09/review-apples-hyper-pricey-m5-ultra-mac-studio-made-me-into-a-vibe-coder/",
+      "publishedAt": "2026-09-24T11:00:04Z",
+      "processed_at": "2026-09-25T13:20:04.984590+00:00"
     },
     {
-      "title": "NVIDIA Unleashes The Next Chapter of Neural Rendering & Path Tracing With RTX Kit SDK While RTX Mega Geometry 2.0 SDK Gives Devs the Ability To Stream Insane Levels of Detail - Wccftech",
+      "title": "Pokémon TCG: 30th Anniversary Celebration Booster Bundles Are In Stock at Amazon - IGN",
       "source": {
-        "name": "Wccftech"
+        "name": "IGN"
       },
-      "description": "NVIDIA unleashes RTX Kit and RTX Mega Geometry 2.0 SDKs, giving devs a taste of next-gen Neural Rend...",
-      "url": "https://wccftech.com/nvidia-rtx-kit-rtx-mega-geometry-2-0-sdk-unleash-next-chapter-of-neural-rendering-path-tracing/",
-      "publishedAt": "2026-09-23T21:05:17Z",
-      "processed_at": "2026-09-25T07:15:08.479204+00:00"
+      "description": "Amazon has recently restocked its allocation of Pokémon TCG's 30th Celebration Booster Bundles, whic...",
+      "url": "https://www.ign.com/articles/pokemon-tcg-30th-anniversary-celebration-booster-bundles-where-to-buy",
+      "publishedAt": "2026-09-24T09:06:49Z",
+      "processed_at": "2026-09-25T13:20:04.984590+00:00"
+    },
+    {
+      "title": "Microsoft files patent for \"ad-credit\" system to show ads on PC and Xbox without disrupting gameplay - GamesIndustry.biz",
+      "source": {
+        "name": "GamesIndustry.biz"
+      },
+      "description": "After viewing content, players would receive a \"credit\" for a designated period of ad-free playtime...",
+      "url": "https://www.gamesindustry.biz/microsoft-files-patent-for-ad-credit-system-to-show-ads-on-pc-and-xbox-without-disrupting-gameplay",
+      "publishedAt": "2026-09-24T07:56:51Z",
+      "processed_at": "2026-09-25T13:20:04.984590+00:00"
+    },
+    {
+      "title": "Apple says software update to fix iPhone 18 Pro rebooting bug is coming next week - 9to5Mac",
+      "source": {
+        "name": "9to5Mac"
+      },
+      "description": "On Monday, we reported on an issue where iPhone 18 Pro and iPhone 18 Pro Max users were seeing their...",
+      "url": "https://9to5mac.com/2026/09/23/apple-iphone-18-pro-rebooting-bug-software-update-fix/",
+      "publishedAt": "2026-09-24T06:43:00Z",
+      "processed_at": "2026-09-25T13:20:04.984590+00:00"
+    },
+    {
+      "title": "Attackers Exploit WordPress CVE-2026-87902 Within Hours of Disclosure - The Hacker News",
+      "source": {
+        "name": "Internet"
+      },
+      "description": "Attackers are exploiting WordPress CVE-2026-87902 to include pearcmd.php and write PHP files when sp...",
+      "url": "https://thehackernews.com/2026/09/attackers-exploit-wordpress-cve-2026.html",
+      "publishedAt": "2026-09-24T05:36:00Z",
+      "processed_at": "2026-09-25T13:20:04.984590+00:00"
+    },
+    {
+      "title": "Snap Specs Hands-On: Minimum Viable Consumer True AR Glasses - UploadVR",
+      "source": {
+        "name": "UploadVR"
+      },
+      "description": "Snap Specs is optically rough, but with impressive tracking just about passes the minimum bar for fi...",
+      "url": "https://www.uploadvr.com/snap-specs-hands-on-minimum-viable-consumer-true-ar-glasses/",
+      "publishedAt": "2026-09-24T04:50:14Z",
+      "processed_at": "2026-09-25T13:20:04.984590+00:00"
     }
   ],
-  "lastUpdated": "2026-09-25T07:15:08.479295+00:00",
+  "lastUpdated": "2026-09-25T13:20:04.984672+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
