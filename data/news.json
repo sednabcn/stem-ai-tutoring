@@ -1,7 +1,97 @@
 {
   "status": "success",
-  "totalResults": 9,
+  "totalResults": 10,
   "articles": [
+    {
+      "title": "Ubisoft Switch eShop Sale Now Live, Up To 90% Off - Nintendo Life",
+      "source": {
+        "name": "Nintendo Life"
+      },
+      "description": "Assassin's Creed Shadows! Mario & Rabbids! Rayman!...",
+      "url": "https://www.nintendolife.com/news/2026/09/ubisoft-switch-eshop-sale-now-live-up-to-90percent-off",
+      "publishedAt": "2026-09-25T14:00:00Z",
+      "processed_at": "2026-09-26T16:53:56.366150+00:00"
+    },
+    {
+      "title": "Apple Wallet in iOS 27 adds feature that’s been on my wishlist for years - 9to5Mac",
+      "source": {
+        "name": "9to5Mac"
+      },
+      "description": "iOS 27 adds new features for Apple Wallet, including one that’s been on my wishlist for years: the a...",
+      "url": "https://9to5mac.com/2026/09/25/apple-wallet-in-ios-27-adds-feature-thats-been-on-my-wishlist-for-years/",
+      "publishedAt": "2026-09-25T13:10:00Z",
+      "processed_at": "2026-09-26T16:53:56.366150+00:00"
+    },
+    {
+      "title": "‘ARC Raiders’ And ‘Marathon’ Turn To PvE As The Extraction Genre Wobbles - Forbes",
+      "source": {
+        "name": "Forbes"
+      },
+      "description": "",
+      "url": "https://www.forbes.com/sites/paultassi/2026/09/25/arc-raiders-and-marathon-turn-to-pve-as-the-extraction-genre-wobbles/",
+      "publishedAt": "2026-09-25T13:03:32Z",
+      "processed_at": "2026-09-26T16:53:56.366150+00:00"
+    },
+    {
+      "title": "Apple is making your security camera smarter. What comes next is more interesting. - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "I tried the newest AI-powered smart home features from Nest, Ring, and HomeKit. Here’s how they comp...",
+      "url": "https://www.theverge.com/tech/1000321/apple-intelligence-home-security-camera-amazon-ring-alexa-google-nest-gemini-home-review",
+      "publishedAt": "2026-09-25T13:00:00Z",
+      "processed_at": "2026-09-26T16:53:56.366150+00:00"
+    },
+    {
+      "title": "Enjoy 1986's Castlevania for Free on Your Phone for 40th Anniversary - Push Square",
+      "source": {
+        "name": "Push Square"
+      },
+      "description": "Up to 80% off on PS Store compilations...",
+      "url": "https://www.pushsquare.com/news/2026/09/enjoy-1986s-castlevania-for-free-on-your-phone-for-40th-anniversary",
+      "publishedAt": "2026-09-25T11:00:00Z",
+      "processed_at": "2026-09-26T16:53:56.366150+00:00"
+    },
+    {
+      "title": "New army rules from Codex: Adeptus Custodes - warhammer-community.com",
+      "source": {
+        "name": "Warhammer-community.com"
+      },
+      "description": "See how martial ka’tahs show off ten millennia of Custodian combat skill....",
+      "url": "https://www.warhammer-community.com/articles/vygelghy/new-army-rules-from-codex-adeptus-custodes",
+      "publishedAt": "2026-09-25T10:58:30Z",
+      "processed_at": "2026-09-26T16:53:56.366150+00:00"
+    },
+    {
+      "title": "More Lord Of The Rings Game Re-Releases Revealed, And They’re Great - GameSpot",
+      "source": {
+        "name": "GameSpot"
+      },
+      "description": "The Lord of the Rings games from 2014 and 2017 are coming to a new platform....",
+      "url": "https://www.gamespot.com/articles/more-lord-of-the-rings-game-re-releases-revealed-and-theyre-great/",
+      "publishedAt": "2026-09-25T10:47:48Z",
+      "processed_at": "2026-09-26T16:53:56.366150+00:00"
+    },
+    {
+      "title": "The way we talk to bots matters even if they aren’t conscious - Psyche",
+      "source": {
+        "name": "Psyche.co"
+      },
+      "description": "If more and more of our daily interactions are ungracious exchanges with machines, we should expect ...",
+      "url": "https://psyche.co/ideas/the-way-we-talk-to-bots-matters-even-if-they-arent-conscious",
+      "publishedAt": "2026-09-25T10:00:00Z",
+      "processed_at": "2026-09-26T16:53:56.366150+00:00"
+    },
+    {
+      "title": "Nintendo of America awarded $4.5m in lawsuit from Redditor for pirating Switch hardware and software - GamesIndustry.biz",
+      "source": {
+        "name": "GamesIndustry.biz"
+      },
+      "description": "James C. Williams, also known as 'Archbox,' ordered to disable access to online shops offering pirat...",
+      "url": "https://www.gamesindustry.biz/nintendo-of-america-awarded-45m-in-lawsuit-from-redditor-for-pirating-switch-hardware-and-software",
+      "publishedAt": "2026-09-25T08:04:53Z",
+      "processed_at": "2026-09-26T16:53:56.366150+00:00"
+    },
     {
       "title": "Nintendo Reportedly Rejected A Ubisoft Zelda Spin-Off Starring Ganondorf - Nintendo Life",
       "source": {
@@ -10,90 +100,10 @@
       "description": "What if?...",
       "url": "https://www.nintendolife.com/news/2026/09/nintendo-reportedly-rejected-a-ubisoft-zelda-spin-off-starring-ganondorf",
       "publishedAt": "2026-09-25T00:55:00Z",
-      "processed_at": "2026-09-26T12:43:11.683160+00:00"
-    },
-    {
-      "title": "Qualcomm’s new ‘Elite’ sound chip might finally deliver the Wi-Fi earbud dream - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "Also, they can power earbuds with cameras....",
-      "url": "https://www.theverge.com/tech/1000443/qualcomms-new-elite-sound-chip-might-finally-deliver-the-wi-fi-earbud-dream",
-      "publishedAt": "2026-09-24T23:42:39Z",
-      "processed_at": "2026-09-26T12:43:11.683160+00:00"
-    },
-    {
-      "title": "PlayStation Reportedly Sending Game Developers Massive Survey With Question Asking About Physical Discs - IGN",
-      "source": {
-        "name": "IGN"
-      },
-      "description": "PlayStation is reportedly sending a lengthy survey to game developers with a question about how they...",
-      "url": "https://www.ign.com/articles/playstation-reportedly-polling-game-developers-after-decision-to-kill-discs-sparks-backlash",
-      "publishedAt": "2026-09-24T23:30:16Z",
-      "processed_at": "2026-09-26T12:43:11.683160+00:00"
-    },
-    {
-      "title": "Xbox CSO Issues Response To Report About GTA 6 Sales Being 'Heavily Skewed' Towards PS5 - purexbox.com",
-      "source": {
-        "name": "Pure Xbox"
-      },
-      "description": "\"The title is breaking records for XBOX\"...",
-      "url": "https://www.purexbox.com/news/2026/09/xbox-cso-issues-response-to-report-about-gta-6-sales-being-heavily-skewed-towards-ps5",
-      "publishedAt": "2026-09-24T22:21:24Z",
-      "processed_at": "2026-09-26T12:43:11.683160+00:00"
-    },
-    {
-      "title": "Nvidia CEO Doesn't Care That Kids Are Forgetting Basic Math Because Of AI: 'I Actually Don't Know My Address' - Kotaku",
-      "source": {
-        "name": "Kotaku"
-      },
-      "description": "Who needs to know things like your own phone number or home address or how to solve a simple equatio...",
-      "url": "https://kotaku.com/nvidia-ceo-doesnt-care-that-kids-are-forgetting-basic-math-because-of-ai-i-actually-dont-know-my-address-2000737092",
-      "publishedAt": "2026-09-24T21:49:35Z",
-      "processed_at": "2026-09-26T12:43:11.683160+00:00"
-    },
-    {
-      "title": "15 early October Prime Day tech deals, hand-picked by our gadget experts - Mashable",
-      "source": {
-        "name": "Mashable"
-      },
-      "description": "These early deals erase some of the price hikes we've seen amid the RAM crisis. They're so good, we'...",
-      "url": "https://mashable.com/tech/best-early-amazon-october-prime-day-tech-deals-2026",
-      "publishedAt": "2026-09-24T21:11:36Z",
-      "processed_at": "2026-09-26T12:43:11.683160+00:00"
-    },
-    {
-      "title": "Entire Prince of Persia: The Lost Crown Game Available to Play for Free in Nintendo Switch Demo, But There’s a Catch - IGN",
-      "source": {
-        "name": "IGN"
-      },
-      "description": "Players who haven’t yet experienced Prince of Persia: The Lost Crown can play the entire game for fr...",
-      "url": "https://www.ign.com/articles/entire-prince-of-persia-the-lost-crown-game-available-to-play-for-free-in-nintendo-switch-demo-but-theres-a-catch",
-      "publishedAt": "2026-09-24T20:17:56Z",
-      "processed_at": "2026-09-26T12:43:11.683160+00:00"
-    },
-    {
-      "title": "Gemini 3.8 Live with Live Avatar gives Google’s AI a face - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "Google is rolling out a new Live Avatar feature for its Gemini 3.8 Live model, which shows an animat...",
-      "url": "https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face",
-      "publishedAt": "2026-09-24T19:59:26Z",
-      "processed_at": "2026-09-26T12:43:11.683160+00:00"
-    },
-    {
-      "title": "Googlebook laptops are already selling out just days after pre-orders opened - Android Authority",
-      "source": {
-        "name": "Android Authority"
-      },
-      "description": "Google's online store has already sold out of Googlebook pre-order stock in the US, but you can stil...",
-      "url": "https://www.androidauthority.com/googlebooks-sold-out-on-google-store-3715225/",
-      "publishedAt": "2026-09-24T19:45:00Z",
-      "processed_at": "2026-09-26T12:43:11.683160+00:00"
+      "processed_at": "2026-09-26T16:53:56.366150+00:00"
     }
   ],
-  "lastUpdated": "2026-09-26T12:43:11.683235+00:00",
+  "lastUpdated": "2026-09-26T16:53:56.366201+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
