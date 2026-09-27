@@ -1,7 +1,27 @@
 {
   "status": "success",
-  "totalResults": 9,
+  "totalResults": 10,
   "articles": [
+    {
+      "title": "Google Health 5.09 rolling out: Cardio Load from third-party workouts, more - 9to5Google",
+      "source": {
+        "name": "9to5google.com"
+      },
+      "description": "Following yesterday's announcement, Google Health 5.09 is rolling out with support for the new Healt...",
+      "url": "http://9to5google.com/2026/09/25/google-health-5-09-release-notes/",
+      "publishedAt": "2026-09-25T20:09:00Z",
+      "processed_at": "2026-09-27T01:07:56.502828+00:00"
+    },
+    {
+      "title": "Rather Than Pay $400, GTA 6 Fans Are Already 3D Printing Items in the Game's Pricey Collector's Edition - IGN",
+      "source": {
+        "name": "IGN"
+      },
+      "description": "Fans of GTA 6 are already copying items in the game’s $400 collector’s edition and 3D-printing them ...",
+      "url": "https://www.ign.com/articles/gta-6-fans-are-already-3d-printing-items-in-the-games-400-collectors-edition",
+      "publishedAt": "2026-09-25T19:44:34Z",
+      "processed_at": "2026-09-27T01:07:56.502828+00:00"
+    },
     {
       "title": "Google ads caught delivering convincing scareware ads to unsuspecting users - Ars Technica",
       "source": {
@@ -10,7 +30,7 @@
       "description": "Ads appearing all over the Internet are trying to scam people....",
       "url": "https://arstechnica.com/security/2026/09/google-ads-caught-delivering-convincing-scareware-ads-to-unsuspecting-users/",
       "publishedAt": "2026-09-25T19:38:59Z",
-      "processed_at": "2026-09-26T22:26:47.587125+00:00"
+      "processed_at": "2026-09-27T01:07:56.502828+00:00"
     },
     {
       "title": "Apple Finally Shares tvOS 27 Release Notes With List of New Features - MacRumors",
@@ -20,7 +40,37 @@
       "description": "Apple today finally shared release notes for tvOS 27, nearly two weeks after releasing the software ...",
       "url": "https://www.macrumors.com/2026/09/25/tvos-27-release-notes/",
       "publishedAt": "2026-09-25T18:58:04Z",
-      "processed_at": "2026-09-26T22:26:47.587125+00:00"
+      "processed_at": "2026-09-27T01:07:56.502828+00:00"
+    },
+    {
+      "title": "Microsoft CEO On Recent Xbox Layoffs: 'There's Some Amount Of Streamlining Asha Is Doing...Which Is Great To See' - Kotaku",
+      "source": {
+        "name": "Kotaku"
+      },
+      "description": "Don't worry folks, everything is going great and according to plan...",
+      "url": "https://kotaku.com/microsoft-ceo-on-recent-xbox-layoffs-theres-some-amount-of-streamlining-asha-is-doing-which-is-great-to-see-2000737217",
+      "publishedAt": "2026-09-25T18:40:09Z",
+      "processed_at": "2026-09-27T01:07:56.502828+00:00"
+    },
+    {
+      "title": "Google's $5 AI plan is now even more tempting - Android Authority",
+      "source": {
+        "name": "Android Authority"
+      },
+      "description": "Google AI plans now include premium Colab benefits, offering faster computing, GPU access, and more ...",
+      "url": "https://www.androidauthority.com/google-ai-plans-premium-colab-benefits-3715703/",
+      "publishedAt": "2026-09-25T18:39:00Z",
+      "processed_at": "2026-09-27T01:07:56.502828+00:00"
+    },
+    {
+      "title": "NISA CEO Says He's Having 'Discussions' With Sony About Discs - Kotaku",
+      "source": {
+        "name": "Kotaku"
+      },
+      "description": "'It's possible that the discussion may change in the future'...",
+      "url": "https://kotaku.com/disgaea-dev-ceo-discussions-sony-physical-discs-2000737194",
+      "publishedAt": "2026-09-25T18:11:16Z",
+      "processed_at": "2026-09-27T01:07:56.502828+00:00"
     },
     {
       "title": "Cover Reveal – Grand Theft Auto VI - Game Informer",
@@ -30,70 +80,30 @@
       "description": "Rockstar Games' next crime epic graces the cover of Game Informer. - Game Informer...",
       "url": "https://gameinformer.com/cover-reveal/2026/09/25/cover-reveal-grand-theft-auto-vi",
       "publishedAt": "2026-09-25T18:00:00Z",
-      "processed_at": "2026-09-26T22:26:47.587125+00:00"
+      "processed_at": "2026-09-27T01:07:56.502828+00:00"
     },
     {
-      "title": "T-Mobile quietly plans new perks to keep customers from switching - thestreet.com",
+      "title": "Microsoft stops insisting you need a \"Copilot+ PC\" - Ars Technica",
       "source": {
-        "name": "TheStreet"
+        "name": "Ars Technica"
       },
-      "description": "",
-      "url": "https://www.thestreet.com/retail/t-mobile-quietly-plans-eight-new-free-perks-for-customers",
-      "publishedAt": "2026-09-25T17:07:00Z",
-      "processed_at": "2026-09-26T22:26:47.587125+00:00"
+      "description": "Microsoft's new Surface laptops forgo Copilot+ PC branding....",
+      "url": "https://arstechnica.com/gadgets/2026/09/microsoft-stops-insisting-you-need-a-copilot-pc/",
+      "publishedAt": "2026-09-25T17:57:37Z",
+      "processed_at": "2026-09-27T01:07:56.502828+00:00"
     },
     {
-      "title": "Several Final Fantasy XIV Modding Communities Have Banned Popular NSFW Modder - Kotaku",
+      "title": "Apple Watch Ultra 4 vs Apple Watch Series 12: Every Difference Detailed! - DC Rainmaker",
       "source": {
-        "name": "Kotaku"
+        "name": "DC Rainmaker"
       },
-      "description": "The bans came after modder Noffletoff was credibly accused of participating in graphic discussions o...",
-      "url": "https://kotaku.com/final-fantasy-14-nsfw-modder-noffletoff-alleged-csam-discussion-ring-2000737071",
-      "publishedAt": "2026-09-25T17:00:02Z",
-      "processed_at": "2026-09-26T22:26:47.587125+00:00"
-    },
-    {
-      "title": "Leaks reveal a new Apple HomePod mini, iPad mini, and Apple TV 4K - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "New leaks found in Apple’s code reveal some of the upgrades coming to Apple’s next HomePod mini, iPa...",
-      "url": "https://www.theverge.com/tech/1000772/apple-code-leak-homepod-mini-2-ipad-mini-8-apple-tv-4k",
-      "publishedAt": "2026-09-25T16:22:05Z",
-      "processed_at": "2026-09-26T22:26:47.587125+00:00"
-    },
-    {
-      "title": "Resident Evil Requiem Analysis Shows 8.6% of Sales Were on Xbox - IGN",
-      "source": {
-        "name": "IGN"
-      },
-      "description": "Resident Evil Requiem sold just 8.6% of its copies on Xbox, new sales analysis indicates....",
-      "url": "https://www.ign.com/articles/as-resident-evil-requiem-passes-500m-revenue-analysis-shows-86-sales-were-on-xbox-with-remaining-91-shared-between-ps5-and-steam",
-      "publishedAt": "2026-09-25T16:17:39Z",
-      "processed_at": "2026-09-26T22:26:47.587125+00:00"
-    },
-    {
-      "title": "Tesla patent shows new Roadster with a hidden 700 kg-downforce rear wing - Electrek",
-      "source": {
-        "name": "Electrek"
-      },
-      "description": "A new Tesla patent shows a Roadster-like car with a hidden two-piece rear wing that makes up to 700 ...",
-      "url": "http://electrek.co/2026/09/25/tesla-patent-new-roadster-hidden-active-rear-wing-700-kg-downforce/",
-      "publishedAt": "2026-09-25T16:13:00Z",
-      "processed_at": "2026-09-26T22:26:47.587125+00:00"
-    },
-    {
-      "title": "Google Messages rolls out new swipe for timestamps & reply gesture - 9to5Google",
-      "source": {
-        "name": "9to5google.com"
-      },
-      "description": "Following the long-press menu, Google Messages is widely rolling out new ways to access timestamps a...",
-      "url": "http://9to5google.com/2026/09/25/google-messages-timestamps-reply/",
-      "publishedAt": "2026-09-25T16:09:00Z",
-      "processed_at": "2026-09-26T22:26:47.587125+00:00"
+      "description": "Every feature compared between the Apple Watch Series 12 & Apple Watch Ultra 4 - side-by-side in rea...",
+      "url": "https://www.dcrainmaker.com/2026/09/applewatch-series12-vs-apple-watch-ultra4-in-depth-review-comparison.html",
+      "publishedAt": "2026-09-25T17:27:49Z",
+      "processed_at": "2026-09-27T01:07:56.502828+00:00"
     }
   ],
-  "lastUpdated": "2026-09-26T22:26:47.587193+00:00",
+  "lastUpdated": "2026-09-27T01:07:56.502891+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
