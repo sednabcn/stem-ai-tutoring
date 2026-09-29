@@ -1,109 +1,99 @@
 {
   "status": "success",
-  "totalResults": 10,
+  "totalResults": 9,
   "articles": [
     {
-      "title": "The Xbox Series X Can Now Play PlayStation 5 Games - Here's How - bgr.com",
+      "title": "Google is killing off Gemini’s Gems in favor of ‘skills’ - TechCrunch",
       "source": {
-        "name": "BGR"
+        "name": "TechCrunch"
       },
-      "description": "A modder named Devran Cosmo Uenal has created a special port of the KytyPS5 emulator for Xbox Series...",
-      "url": "https://www.bgr.com/2266507/xbox-series-x-can-play-playstation-5-games-ps5x/",
-      "publishedAt": "2026-09-28T10:17:00Z",
-      "processed_at": "2026-09-29T14:47:58.509808+00:00"
+      "description": "As all-in-one AI agents like Meta's Muse and Instinct take off, Google is opting to end a feature wh...",
+      "url": "https://techcrunch.com/2026/09/28/google-is-killing-off-geminis-gems-in-favor-of-skills/",
+      "publishedAt": "2026-09-28T17:29:50Z",
+      "processed_at": "2026-09-29T19:49:47.612396+00:00"
     },
     {
-      "title": "The Apple Next Vision Pro Is Reportedly on ‘Life Support’ - Gizmodo",
-      "source": {
-        "name": "Gizmodo.com"
-      },
-      "description": "It might still happen, but I mean, come on....",
-      "url": "https://gizmodo.com/the-apple-next-vision-pro-is-reportedly-on-life-support-2000817916",
-      "publishedAt": "2026-09-28T09:00:55Z",
-      "processed_at": "2026-09-29T14:47:58.509808+00:00"
-    },
-    {
-      "title": "Honor’s Magic 9 Pro Max has a big camera and a bigger battery - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "New photography partner Arri is making its presence felt in Honor’s Magic 9 Pro Max already....",
-      "url": "https://www.theverge.com/tech/1001219/honor-magic-9-pro-max-arri-cameras-snapdragon-battery-design-china",
-      "publishedAt": "2026-09-28T08:00:36Z",
-      "processed_at": "2026-09-29T14:47:58.509808+00:00"
-    },
-    {
-      "title": "The Witcher 3 Remastered a 45GB PS5 Patch, Release Times Revealed - Push Square",
-      "source": {
-        "name": "Push Square"
-      },
-      "description": "An update to current PS5 version...",
-      "url": "https://www.pushsquare.com/news/2026/09/the-witcher-3-remastered-a-45gb-ps5-patch-release-times-revealed",
-      "publishedAt": "2026-09-28T01:00:00Z",
-      "processed_at": "2026-09-29T14:47:58.509808+00:00"
-    },
-    {
-      "title": "23 Awful, Selfish, Entitled People Who Felt The World Owed Them Everything - buzzfeed.com",
-      "source": {
-        "name": "Buzzfeed"
-      },
-      "description": "It's time for a reality check....",
-      "url": "https://www.buzzfeed.com/ajanibazile/extremely-entitled-people",
-      "publishedAt": "2026-09-27T23:31:02Z",
-      "processed_at": "2026-09-29T14:47:58.509808+00:00"
-    },
-    {
-      "title": "This is my top feature request for the upcoming A20 Pro iPad mini - 9to5Mac",
+      "title": "Apple releases macOS 27.0.1 Golden Gate, plus macOS Tahoe 26.7.1 and macOS Sequoia 15.8.1 - 9to5Mac",
       "source": {
         "name": "9to5Mac"
       },
-      "description": "For the past year, we’ve been looking forward to a new iPad mini refresh, and it’s sounding like its...",
-      "url": "https://9to5mac.com/2026/09/27/apple-next-ipad-mini-feature-request/",
-      "publishedAt": "2026-09-27T21:38:00Z",
-      "processed_at": "2026-09-29T14:47:58.509808+00:00"
+      "description": "Following two release candidates, Apple today released macOS Tahoe 26.7.1 and macOS Sequoia 15.8.1, ...",
+      "url": "https://9to5mac.com/2026/09/28/apple-releases-macos-27-0-1-golden-gate-plus-macos-tahoe-26-7-1-and-macos-sequoia-15-8-1/",
+      "publishedAt": "2026-09-28T17:15:00Z",
+      "processed_at": "2026-09-29T19:49:47.612396+00:00"
     },
     {
-      "title": "12 Quick EVs That Can Hit 60 MPH In 3.5 Seconds Or Less - Jalopnik",
+      "title": "Apple Releases iOS 27.0.1 With Face ID Bug Fix - MacRumors",
       "source": {
-        "name": "Jalopnik"
+        "name": "MacRumors"
       },
-      "description": "What EVs can sprint to 60 mph in under 3.5 seconds? The Hyundai Ioniq 5 N, Tesla Model 3 Performance...",
-      "url": "https://www.jalopnik.com/2269661/quick-evs-60-mph-3-5-seconds-or-less/",
-      "publishedAt": "2026-09-27T20:45:00Z",
-      "processed_at": "2026-09-29T14:47:58.509808+00:00"
+      "description": "Apple today released iOS 27.0.1, the first update for the iOS 27 update that came out two weeks ago....",
+      "url": "https://www.macrumors.com/2026/09/28/apple-releases-ios-27-0-1/",
+      "publishedAt": "2026-09-28T17:09:47Z",
+      "processed_at": "2026-09-29T19:49:47.612396+00:00"
     },
     {
-      "title": "8,000-Mile 2001 Porsche 911 GT2 Clubsport For Sale And You're Too Chicken To Actually Drive It - Jalopnik",
+      "title": "Xbox is releasing a Gears of War pizza cutter. - The Verge",
       "source": {
-        "name": "Jalopnik"
-      },
-      "description": "With low miles on the clock and in excellent condition, this rare Porsche 911 GT2 Clubsport is going...",
-      "url": "https://www.jalopnik.com/2268111/8000-mile-2001-porsche-911-gt2-clubsport-for-sale/",
-      "publishedAt": "2026-09-27T20:05:00Z",
-      "processed_at": "2026-09-29T14:47:58.509808+00:00"
-    },
-    {
-      "title": "Linux project gets a new name because not many people knew about it - Neowin",
-      "source": {
-        "name": "Neowin"
+        "name": "The Verge"
       },
       "description": "",
-      "url": "https://www.neowin.net/news/linux-project-gets-a-new-name-because-not-many-people-knew-about-it/",
-      "publishedAt": "2026-09-27T19:13:37Z",
-      "processed_at": "2026-09-29T14:47:58.509808+00:00"
+      "url": "https://www.theverge.com/news/1001490/gears-of-war-lancer-pizza-cutter-prince-st-pizza",
+      "publishedAt": "2026-09-28T16:40:12Z",
+      "processed_at": "2026-09-29T19:49:47.612396+00:00"
     },
     {
-      "title": "Here Are All Fortnite’s ‘Five Nights At Freddy’s’ Skins, Plus A Release Date - Forbes",
+      "title": "GTA 6 Has an 'Advanced' Weather System, Leading to Speculation Over Hurricanes - IGN",
       "source": {
-        "name": "Forbes"
+        "name": "IGN"
       },
-      "description": "",
-      "url": "https://www.forbes.com/sites/paultassi/2026/09/27/here-are-all-fortnites-five-nights-at-freddys-skins-plus-a-release-date/",
-      "publishedAt": "2026-09-27T17:54:20Z",
-      "processed_at": "2026-09-29T14:47:58.509808+00:00"
+      "description": "GTA 6 is confirmed to have an \"advanced\" weather system, leading many to wonder if we're going to ge...",
+      "url": "https://www.ign.com/articles/gta-6-has-an-advanced-weather-system-but-how-will-it-work",
+      "publishedAt": "2026-09-28T16:33:56Z",
+      "processed_at": "2026-09-29T19:49:47.612396+00:00"
+    },
+    {
+      "title": "Velvet Cowboy, a Western Bar With a $5 Food Menu, Opens on the Upper West Side Tomorrow - iLovetheUpperWestSide.com",
+      "source": {
+        "name": "I Love the Upper West Side"
+      },
+      "description": "The Jacob's Pickles team's new bar opens Tuesday with Southwest-inspired cocktails and a menu where ...",
+      "url": "https://www.ilovetheupperwestside.com/velvet-cowboy-a-western-bar-with-a-5-food-menu-opens-on-the-upper-west-side-tomorrow/",
+      "publishedAt": "2026-09-28T16:23:26Z",
+      "processed_at": "2026-09-29T19:49:47.612396+00:00"
+    },
+    {
+      "title": "Reward Passes: our new progression mechanic, explained - ARC Raiders",
+      "source": {
+        "name": "Arcraiders.com"
+      },
+      "description": "Frozen Trail arrives October 8, and with it, a new progression mechanic we call the Reward Pass. Her...",
+      "url": "https://arcraiders.com/news/frozen-trail-reward-pass",
+      "publishedAt": "2026-09-28T16:00:46Z",
+      "processed_at": "2026-09-29T19:49:47.612396+00:00"
+    },
+    {
+      "title": "God of War Laufey Screenshot Seemingly Features Kratos in Ancient Greece - IGN",
+      "source": {
+        "name": "IGN"
+      },
+      "description": "Chinstrap in....",
+      "url": "https://www.ign.com/articles/god-of-war-laufey-features-kratos-in-an-ancient-greek-setting-sparking-speculation-over-the-games-story-and-praise-for-his-big-bushy-beard",
+      "publishedAt": "2026-09-28T15:58:28Z",
+      "processed_at": "2026-09-29T19:49:47.612396+00:00"
+    },
+    {
+      "title": "Next entry-level Kindle may get rounded screen corners and new colors - Nokiamob",
+      "source": {
+        "name": "Nokiamob"
+      },
+      "description": "Leaked images show a possible new entry-level Kindle with flatter edges, rounded display corners and...",
+      "url": "https://nokiamob.net/2026/09/28/new-entry-level-kindle-leaks-with-redesigned-screen-and-power-button/",
+      "publishedAt": "2026-09-28T15:47:58Z",
+      "processed_at": "2026-09-29T19:49:47.612396+00:00"
     }
   ],
-  "lastUpdated": "2026-09-29T14:47:58.509884+00:00",
+  "lastUpdated": "2026-09-29T19:49:47.612452+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
