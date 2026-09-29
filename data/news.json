@@ -1,7 +1,47 @@
 {
   "status": "success",
-  "totalResults": 9,
+  "totalResults": 10,
   "articles": [
+    {
+      "title": "The Xbox Series X Can Now Play PlayStation 5 Games - Here's How - bgr.com",
+      "source": {
+        "name": "BGR"
+      },
+      "description": "A modder named Devran Cosmo Uenal has created a special port of the KytyPS5 emulator for Xbox Series...",
+      "url": "https://www.bgr.com/2266507/xbox-series-x-can-play-playstation-5-games-ps5x/",
+      "publishedAt": "2026-09-28T10:17:00Z",
+      "processed_at": "2026-09-29T14:47:58.509808+00:00"
+    },
+    {
+      "title": "The Apple Next Vision Pro Is Reportedly on ‘Life Support’ - Gizmodo",
+      "source": {
+        "name": "Gizmodo.com"
+      },
+      "description": "It might still happen, but I mean, come on....",
+      "url": "https://gizmodo.com/the-apple-next-vision-pro-is-reportedly-on-life-support-2000817916",
+      "publishedAt": "2026-09-28T09:00:55Z",
+      "processed_at": "2026-09-29T14:47:58.509808+00:00"
+    },
+    {
+      "title": "Honor’s Magic 9 Pro Max has a big camera and a bigger battery - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "New photography partner Arri is making its presence felt in Honor’s Magic 9 Pro Max already....",
+      "url": "https://www.theverge.com/tech/1001219/honor-magic-9-pro-max-arri-cameras-snapdragon-battery-design-china",
+      "publishedAt": "2026-09-28T08:00:36Z",
+      "processed_at": "2026-09-29T14:47:58.509808+00:00"
+    },
+    {
+      "title": "The Witcher 3 Remastered a 45GB PS5 Patch, Release Times Revealed - Push Square",
+      "source": {
+        "name": "Push Square"
+      },
+      "description": "An update to current PS5 version...",
+      "url": "https://www.pushsquare.com/news/2026/09/the-witcher-3-remastered-a-45gb-ps5-patch-release-times-revealed",
+      "publishedAt": "2026-09-28T01:00:00Z",
+      "processed_at": "2026-09-29T14:47:58.509808+00:00"
+    },
     {
       "title": "23 Awful, Selfish, Entitled People Who Felt The World Owed Them Everything - buzzfeed.com",
       "source": {
@@ -10,17 +50,17 @@
       "description": "It's time for a reality check....",
       "url": "https://www.buzzfeed.com/ajanibazile/extremely-entitled-people",
       "publishedAt": "2026-09-27T23:31:02Z",
-      "processed_at": "2026-09-29T07:59:11.007808+00:00"
+      "processed_at": "2026-09-29T14:47:58.509808+00:00"
     },
     {
-      "title": "'Sony's Hearing a Lot of the Feedback from Customers': NIS America Boss Weighs in on PS5 Disc Debate - Push Square",
+      "title": "This is my top feature request for the upcoming A20 Pro iPad mini - 9to5Mac",
       "source": {
-        "name": "Push Square"
+        "name": "9to5Mac"
       },
-      "description": "\"We'll have to see what happens\"...",
-      "url": "https://www.pushsquare.com/news/2026/09/sonys-hearing-a-lot-of-the-feedback-from-customers-nis-america-boss-weighs-in-on-ps5-disc-debate",
-      "publishedAt": "2026-09-27T22:00:00Z",
-      "processed_at": "2026-09-29T07:59:11.007808+00:00"
+      "description": "For the past year, we’ve been looking forward to a new iPad mini refresh, and it’s sounding like its...",
+      "url": "https://9to5mac.com/2026/09/27/apple-next-ipad-mini-feature-request/",
+      "publishedAt": "2026-09-27T21:38:00Z",
+      "processed_at": "2026-09-29T14:47:58.509808+00:00"
     },
     {
       "title": "12 Quick EVs That Can Hit 60 MPH In 3.5 Seconds Or Less - Jalopnik",
@@ -30,7 +70,7 @@
       "description": "What EVs can sprint to 60 mph in under 3.5 seconds? The Hyundai Ioniq 5 N, Tesla Model 3 Performance...",
       "url": "https://www.jalopnik.com/2269661/quick-evs-60-mph-3-5-seconds-or-less/",
       "publishedAt": "2026-09-27T20:45:00Z",
-      "processed_at": "2026-09-29T07:59:11.007808+00:00"
+      "processed_at": "2026-09-29T14:47:58.509808+00:00"
     },
     {
       "title": "8,000-Mile 2001 Porsche 911 GT2 Clubsport For Sale And You're Too Chicken To Actually Drive It - Jalopnik",
@@ -40,7 +80,7 @@
       "description": "With low miles on the clock and in excellent condition, this rare Porsche 911 GT2 Clubsport is going...",
       "url": "https://www.jalopnik.com/2268111/8000-mile-2001-porsche-911-gt2-clubsport-for-sale/",
       "publishedAt": "2026-09-27T20:05:00Z",
-      "processed_at": "2026-09-29T07:59:11.007808+00:00"
+      "processed_at": "2026-09-29T14:47:58.509808+00:00"
     },
     {
       "title": "Linux project gets a new name because not many people knew about it - Neowin",
@@ -50,17 +90,7 @@
       "description": "",
       "url": "https://www.neowin.net/news/linux-project-gets-a-new-name-because-not-many-people-knew-about-it/",
       "publishedAt": "2026-09-27T19:13:37Z",
-      "processed_at": "2026-09-29T07:59:11.007808+00:00"
-    },
-    {
-      "title": "Experimental Emulator Brings Nintendo Switch Games to Jailbroken PS5 Consoles - TechPowerUp",
-      "source": {
-        "name": "Techpowerup.com"
-      },
-      "description": "An unofficial port of the Eden Nintendo Switch emulator is now running natively on jailbroken PlaySt...",
-      "url": "https://www.techpowerup.com/353135/experimental-emulator-brings-nintendo-switch-games-to-jailbroken-ps5-consoles",
-      "publishedAt": "2026-09-27T19:06:59Z",
-      "processed_at": "2026-09-29T07:59:11.007808+00:00"
+      "processed_at": "2026-09-29T14:47:58.509808+00:00"
     },
     {
       "title": "Here Are All Fortnite’s ‘Five Nights At Freddy’s’ Skins, Plus A Release Date - Forbes",
@@ -70,30 +100,10 @@
       "description": "",
       "url": "https://www.forbes.com/sites/paultassi/2026/09/27/here-are-all-fortnites-five-nights-at-freddys-skins-plus-a-release-date/",
       "publishedAt": "2026-09-27T17:54:20Z",
-      "processed_at": "2026-09-29T07:59:11.007808+00:00"
-    },
-    {
-      "title": "Gemini app replacing Gems with skills in November - 9to5Google",
-      "source": {
-        "name": "9to5google.com"
-      },
-      "description": "In 2024, Google introduced Gems as “custom versions of Gemini.” The Gemini app will soon replace Gem...",
-      "url": "http://9to5google.com/2026/09/27/gemini-gems-skills/",
-      "publishedAt": "2026-09-27T17:26:00Z",
-      "processed_at": "2026-09-29T07:59:11.007808+00:00"
-    },
-    {
-      "title": "Nikon’s Full-Frame Z5 II Is 8% Off for a Limited Time - imaging-resource.com",
-      "source": {
-        "name": "imaging resource"
-      },
-      "description": "",
-      "url": "https://www.imaging-resource.com/deals/nikons-full-frame-z5-ii-is-8-off-for-a-limited-time/",
-      "publishedAt": "2026-09-27T17:01:04Z",
-      "processed_at": "2026-09-29T07:59:11.007808+00:00"
+      "processed_at": "2026-09-29T14:47:58.509808+00:00"
     }
   ],
-  "lastUpdated": "2026-09-29T07:59:11.007881+00:00",
+  "lastUpdated": "2026-09-29T14:47:58.509884+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
