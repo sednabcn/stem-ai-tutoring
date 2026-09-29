@@ -1,16 +1,36 @@
 {
   "status": "success",
-  "totalResults": 9,
+  "totalResults": 8,
   "articles": [
     {
-      "title": "AEW's Brian Cage Defends PED Use - Wrestling Inc.",
+      "title": "23 Awful, Selfish, Entitled People Who Felt The World Owed Them Everything - buzzfeed.com",
       "source": {
-        "name": "Wrestling Inc."
+        "name": "Buzzfeed"
       },
-      "description": "AEW star Brian Cage has acknowledged using performance-enhancing drugs, but maintains that it's quit...",
-      "url": "https://www.wrestlinginc.com/2264455/aew-brian-cage-defends-ped-use/",
-      "publishedAt": "2026-09-27T21:00:00Z",
-      "processed_at": "2026-09-28T21:37:42.852574+00:00"
+      "description": "It's time for a reality check....",
+      "url": "https://www.buzzfeed.com/ajanibazile/extremely-entitled-people",
+      "publishedAt": "2026-09-27T23:31:02Z",
+      "processed_at": "2026-09-29T01:32:05.579747+00:00"
+    },
+    {
+      "title": "'Sony's Hearing a Lot of the Feedback from Customers': NIS America Boss Weighs in on PS5 Disc Debate - Push Square",
+      "source": {
+        "name": "Push Square"
+      },
+      "description": "\"We'll have to see what happens\"...",
+      "url": "https://www.pushsquare.com/news/2026/09/sonys-hearing-a-lot-of-the-feedback-from-customers-nis-america-boss-weighs-in-on-ps5-disc-debate",
+      "publishedAt": "2026-09-27T22:00:00Z",
+      "processed_at": "2026-09-29T01:32:05.579747+00:00"
+    },
+    {
+      "title": "12 Quick EVs That Can Hit 60 MPH In 3.5 Seconds Or Less - Jalopnik",
+      "source": {
+        "name": "Jalopnik"
+      },
+      "description": "What EVs can sprint to 60 mph in under 3.5 seconds? The Hyundai Ioniq 5 N, Tesla Model 3 Performance...",
+      "url": "https://www.jalopnik.com/2269661/quick-evs-60-mph-3-5-seconds-or-less/",
+      "publishedAt": "2026-09-27T20:45:00Z",
+      "processed_at": "2026-09-29T01:32:05.579747+00:00"
     },
     {
       "title": "Linux project gets a new name because not many people knew about it - Neowin",
@@ -20,7 +40,7 @@
       "description": "",
       "url": "https://www.neowin.net/news/linux-project-gets-a-new-name-because-not-many-people-knew-about-it/",
       "publishedAt": "2026-09-27T19:13:37Z",
-      "processed_at": "2026-09-28T21:37:42.852574+00:00"
+      "processed_at": "2026-09-29T01:32:05.579747+00:00"
     },
     {
       "title": "Experimental Emulator Brings Nintendo Switch Games to Jailbroken PS5 Consoles - TechPowerUp",
@@ -30,7 +50,17 @@
       "description": "An unofficial port of the Eden Nintendo Switch emulator is now running natively on jailbroken PlaySt...",
       "url": "https://www.techpowerup.com/353135/experimental-emulator-brings-nintendo-switch-games-to-jailbroken-ps5-consoles",
       "publishedAt": "2026-09-27T19:06:59Z",
-      "processed_at": "2026-09-28T21:37:42.852574+00:00"
+      "processed_at": "2026-09-29T01:32:05.579747+00:00"
+    },
+    {
+      "title": "Melissa Joan Hart sparks reaction while showing off weight loss transformation in new gym video - Yahoo",
+      "source": {
+        "name": "HELLO!"
+      },
+      "description": "Melissa Joan Hart took to Instagram to share a new workout video of herself doing weights at the gym...",
+      "url": "https://www.hellomagazine.com/us/925656/melissa-joan-hart-sparks-reaction-showcasing-weight-loss-workout-video/",
+      "publishedAt": "2026-09-27T18:14:34Z",
+      "processed_at": "2026-09-29T01:32:05.579747+00:00"
     },
     {
       "title": "Here Are All Fortnite’s ‘Five Nights At Freddy’s’ Skins, Plus A Release Date - Forbes",
@@ -40,60 +70,20 @@
       "description": "",
       "url": "https://www.forbes.com/sites/paultassi/2026/09/27/here-are-all-fortnites-five-nights-at-freddys-skins-plus-a-release-date/",
       "publishedAt": "2026-09-27T17:54:20Z",
-      "processed_at": "2026-09-28T21:37:42.852574+00:00"
+      "processed_at": "2026-09-29T01:32:05.579747+00:00"
     },
     {
-      "title": "Instagram has a new feature that’s bad news for creepers — and it’s got people vowing to quit the app - New York Post",
+      "title": "Gemini app replacing Gems with skills in November - 9to5Google",
       "source": {
-        "name": "New York Post"
+        "name": "9to5google.com"
       },
-      "description": "“If you have Instagram plus stay away from me,” one social media user commented....",
-      "url": "https://nypost.com/2026/09/27/lifestyle/instagrams-new-3-99-plus-subscription-slammed-as-a-new-low-that-lets-users-torture-themselves/",
-      "publishedAt": "2026-09-27T16:49:00Z",
-      "processed_at": "2026-09-28T21:37:42.852574+00:00"
-    },
-    {
-      "title": "Amazon Just Knocked $900 Off Apple's Latest 16-Inch MacBook Pro - MacRumors",
-      "source": {
-        "name": "MacRumors"
-      },
-      "description": "Amazon has introduced a major discount on the 16-inch MacBook Pro with the M5 Max chip, 32-Core GPU,...",
-      "url": "https://www.macrumors.com/2026/09/27/2026-macbook-pro-900-off/",
-      "publishedAt": "2026-09-27T15:30:26Z",
-      "processed_at": "2026-09-28T21:37:42.852574+00:00"
-    },
-    {
-      "title": "Users find a default, mandatory Windows feature freezes your PC when you use internet - neowin.net",
-      "source": {
-        "name": "Neowin"
-      },
-      "description": "",
-      "url": "https://www.neowin.net/news/users-find-a-default-mandatory-windows-feature-freezes-your-pc-when-you-use-internet/",
-      "publishedAt": "2026-09-27T15:11:54Z",
-      "processed_at": "2026-09-28T21:37:42.852574+00:00"
-    },
-    {
-      "title": "Sennheiser Momentum 5 review: Great sound, incredible battery life, and few compromises - TechCrunch",
-      "source": {
-        "name": "TechCrunch"
-      },
-      "description": "I spent the last few weeks with the Sennheiser Momentum 5 to determine if this pair actually stands ...",
-      "url": "https://techcrunch.com/2026/09/27/sennheiser-momentum-5-review-great-sound-incredible-battery-life-and-few-compromises/",
-      "publishedAt": "2026-09-27T15:00:00Z",
-      "processed_at": "2026-09-28T21:37:42.852574+00:00"
-    },
-    {
-      "title": "Report: Apple working on new Vision Pro, with different form factors on the table - 9to5mac.com",
-      "source": {
-        "name": "9to5Mac"
-      },
-      "description": "After the release of Vision Pro, everyone wanted to know how long it would be before the company cou...",
-      "url": "https://9to5mac.com/2026/09/27/apple-working-on-new-lighter-vision-pro-version/",
-      "publishedAt": "2026-09-27T14:47:00Z",
-      "processed_at": "2026-09-28T21:37:42.852574+00:00"
+      "description": "In 2024, Google introduced Gems as “custom versions of Gemini.” The Gemini app will soon replace Gem...",
+      "url": "http://9to5google.com/2026/09/27/gemini-gems-skills/",
+      "publishedAt": "2026-09-27T17:26:00Z",
+      "processed_at": "2026-09-29T01:32:05.579747+00:00"
     }
   ],
-  "lastUpdated": "2026-09-28T21:37:42.852677+00:00",
+  "lastUpdated": "2026-09-29T01:32:05.579816+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
