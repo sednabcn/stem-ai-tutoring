@@ -1,7 +1,47 @@
 {
   "status": "success",
-  "totalResults": 9,
+  "totalResults": 10,
   "articles": [
+    {
+      "title": "Star Fox version 1.2.0 update now available - Gematsu",
+      "source": {
+        "name": "Gematsu"
+      },
+      "description": "Publisher Nintendo and developer Velan Studios have released the version 1.2.0 update for Star Fox, ...",
+      "url": "https://www.gematsu.com/2026/09/star-fox-version-1-2-0-update-now-available",
+      "publishedAt": "2026-09-30T01:24:43Z",
+      "processed_at": "2026-10-01T08:27:11.483946+00:00"
+    },
+    {
+      "title": "New Pixel 11 HiLight Features: Messaging is Here - Droid Life",
+      "source": {
+        "name": "Droid Life"
+      },
+      "description": "The Pixel 11 series launched with its new HiLight feature and we were initially quite excited about ...",
+      "url": "https://www.droid-life.com/2026/09/29/new-pixel-11-hilight-features-messaging-is-here/",
+      "publishedAt": "2026-09-30T00:06:13Z",
+      "processed_at": "2026-10-01T08:27:11.483946+00:00"
+    },
+    {
+      "title": "The Witcher 3 Remastered showed 38 FPS with DLSS 5 versus 68 FPS for the Next-Gen version - GameGPU",
+      "source": {
+        "name": "Gamegpu.com"
+      },
+      "description": "Detailed performance and visual quality measurements of the updated version have appeared online. Th...",
+      "url": "https://en.gamegpu.com/news/igry/the-witcher-3-remastered-pokazala-38-fps-s-dlss-5-protiv-68-fps-u-next-gen-versii",
+      "publishedAt": "2026-09-29T23:44:52Z",
+      "processed_at": "2026-10-01T08:27:11.483946+00:00"
+    },
+    {
+      "title": "Here’s everything new in Android 17 QPR2 Beta 6 + 6.1 [Gallery] - 9to5Google",
+      "source": {
+        "name": "9to5google.com"
+      },
+      "description": "Google rolled out Android 17 QPR2 Beta 6 and 6.1 in quick succession to continue the preview ahead o...",
+      "url": "http://9to5google.com/2026/09/29/android-17-qpr2-beta-6-everything-new/",
+      "publishedAt": "2026-09-29T21:32:00Z",
+      "processed_at": "2026-10-01T08:27:11.483946+00:00"
+    },
     {
       "title": "I Drove The Mustang Dark Horse SC. It's The Everyday GTD: Driven - Motor1.com",
       "source": {
@@ -10,7 +50,7 @@
       "description": "With 795 horsepower, track-ready hardware, and a six-figure price tag, the Mustang Dark Horse SC del...",
       "url": "https://www.motor1.com/reviews/809912/ford-mustang-dark-horse-sc-review/",
       "publishedAt": "2026-09-29T21:00:59Z",
-      "processed_at": "2026-10-01T01:07:21.045877+00:00"
+      "processed_at": "2026-10-01T08:27:11.483946+00:00"
     },
     {
       "title": "iPhone 18 Pro Owners Complain of Speaker Crackling or Popping - MacRumors",
@@ -20,17 +60,7 @@
       "description": "Some iPhone 18 Pro owners have noticed an unusual crackling sound coming from the speaker of the dev...",
       "url": "https://www.macrumors.com/2026/09/29/iphone-18-pro-speaker-crackling/",
       "publishedAt": "2026-09-29T20:44:12Z",
-      "processed_at": "2026-10-01T01:07:21.045877+00:00"
-    },
-    {
-      "title": "Android 17 QPR2 Beta 6.1 rolling out, including for Pixel 11 - 9to5Google",
-      "source": {
-        "name": "9to5google.com"
-      },
-      "description": "Following last week's release, Google today is rolling out Android 17 QPR2 Beta 6.1, including for t...",
-      "url": "http://9to5google.com/2026/09/29/android-17-qpr2-beta-6-1/",
-      "publishedAt": "2026-09-29T20:39:00Z",
-      "processed_at": "2026-10-01T01:07:21.045877+00:00"
+      "processed_at": "2026-10-01T08:27:11.483946+00:00"
     },
     {
       "title": "OpenAI’s latest features take direct aim at the app store model - TechCrunch",
@@ -40,7 +70,7 @@
       "description": "OpenAI is building out the pieces of an alternative to the traditional app store model, turning Chat...",
       "url": "https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model/",
       "publishedAt": "2026-09-29T20:15:47Z",
-      "processed_at": "2026-10-01T01:07:21.045877+00:00"
+      "processed_at": "2026-10-01T08:27:11.483946+00:00"
     },
     {
       "title": "Gen-Z doesn’t carry wallets — so I asked our editors what they’re carrying instead - NBC News",
@@ -50,50 +80,30 @@
       "description": "We’re letting go of traditional wallets in favor of wristlets, Magsafe cardholders and more. Shop ed...",
       "url": "https://www.nbcnews.com/select/shopping/best-wallet-alternatives-rcna600249",
       "publishedAt": "2026-09-29T20:10:39Z",
-      "processed_at": "2026-10-01T01:07:21.045877+00:00"
+      "processed_at": "2026-10-01T08:27:11.483946+00:00"
     },
     {
-      "title": "You Can 'Get Ready' for iPhone Duo Pre-Orders on October 12 - MacRumors",
+      "title": "How Will Activision Handle Halo? The Franchise's Former Creative Director Gives 3 Possible Paths - IGN",
       "source": {
-        "name": "MacRumors"
+        "name": "IGN"
       },
-      "description": "People who plan to purchase an iPhone Duo can go through the \"Get Ready\" process starting on Monday,...",
-      "url": "https://www.macrumors.com/2026/09/29/iphone-duo-get-ready-oct-12/",
-      "publishedAt": "2026-09-29T20:10:19Z",
-      "processed_at": "2026-10-01T01:07:21.045877+00:00"
+      "description": "Frank O'Connor, Halo's Franchise Creative Director for nearly 20 years at 343 Industries/Halo Studio...",
+      "url": "https://www.ign.com/articles/halos-former-franchise-creative-director-sees-3-possible-paths-for-activisions-halo",
+      "publishedAt": "2026-09-29T19:41:25Z",
+      "processed_at": "2026-10-01T08:27:11.483946+00:00"
     },
     {
-      "title": "GTA 6 Won’t Spoof Disney World, And That’s Too Bad - GameSpot",
-      "source": {
-        "name": "GameSpot"
-      },
-      "description": "Rockstar is avoiding the House of Mouse....",
-      "url": "https://www.gamespot.com/articles/gta-6-wont-spoof-disney-world-and-thats-too-bad/",
-      "publishedAt": "2026-09-29T19:25:43Z",
-      "processed_at": "2026-10-01T01:07:21.045877+00:00"
-    },
-    {
-      "title": "Forgotten PvPvE Mecha Game Ending Service After Just Two Years, But An Offline Mode Could Save It - Kotaku",
-      "source": {
-        "name": "Kotaku"
-      },
-      "description": "Synduality: Echo of Ada will replace its PvPvE online mode with a new offline PvE mode some players ...",
-      "url": "https://kotaku.com/forgotten-pvpve-mecha-game-ending-service-after-just-two-years-but-an-offline-mode-could-save-it-2000738089",
-      "publishedAt": "2026-09-29T19:00:14Z",
-      "processed_at": "2026-10-01T01:07:21.045877+00:00"
-    },
-    {
-      "title": "iOS 27.2: Three new features coming soon to your iPhone - 9to5Mac",
+      "title": "Apple announces when you can start the iPhone Duo pre-order process - 9to5Mac",
       "source": {
         "name": "9to5Mac"
       },
-      "description": "iOS 27.2 is coming soon as a new iPhone update, with 27.1 likely iPhone Duo-only. Here are three new...",
-      "url": "https://9to5mac.com/2026/09/29/ios-27-2-three-new-features-coming-soon-to-your-iphone/",
-      "publishedAt": "2026-09-29T18:53:00Z",
-      "processed_at": "2026-10-01T01:07:21.045877+00:00"
+      "description": "iPhone Duo pre-orders start on Friday, October 16, but Apple just announced when you can get an earl...",
+      "url": "https://9to5mac.com/2026/09/29/apple-announces-when-you-can-start-the-iphone-duo-pre-order-process/",
+      "publishedAt": "2026-09-29T19:33:00Z",
+      "processed_at": "2026-10-01T08:27:11.483946+00:00"
     }
   ],
-  "lastUpdated": "2026-10-01T01:07:21.045945+00:00",
+  "lastUpdated": "2026-10-01T08:27:11.484021+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
