@@ -1,16 +1,26 @@
 {
   "status": "success",
-  "totalResults": 10,
+  "totalResults": 9,
   "articles": [
     {
-      "title": "Hands-On With QSSR: AI-Driven Upscaling for the Standard PS5 - Digital Foundry",
+      "title": "Sony brings AI graphics upscaling to the regular PS5 - The Verge",
       "source": {
-        "name": "Digitalfoundry.net"
+        "name": "The Verge"
       },
-      "description": "Plus: further details from Sony's graphics R&D team....",
-      "url": "https://www.digitalfoundry.net/news/2026/10/hands-on-with-qssr-ai-driven-upscaling-for-the-standard-ps5",
-      "publishedAt": "2026-10-01T16:04:00Z",
-      "processed_at": "2026-10-02T15:27:57.600918+00:00"
+      "description": "Sony’s new Quick Spectral Super Resolution (QSSR) for PS5 brings improvements to image detail and im...",
+      "url": "https://www.theverge.com/games/1003549/sony-ps5-quick-spectral-super-resolution-qssr",
+      "publishedAt": "2026-10-01T16:53:39Z",
+      "processed_at": "2026-10-02T20:24:59.158530+00:00"
+    },
+    {
+      "title": "Space Marine 2 gets a massive anniversary update - Warhammer Community",
+      "source": {
+        "name": "Warhammer-community.com"
+      },
+      "description": "Celebrate the start of Year 3 with a new weapon and play as Chaos Space Marines in Siege Mode....",
+      "url": "https://www.warhammer-community.com/articles/okd34wjw/space-marine-2-gets-a-massive-anniversary-update",
+      "publishedAt": "2026-10-01T16:49:06Z",
+      "processed_at": "2026-10-02T20:24:59.158530+00:00"
     },
     {
       "title": "Review: Ghost of Yotei: Complete Edition (PS5) - Atsu Shines in Story DLC, But Most Wanted Mode Steals the Show - Push Square",
@@ -20,7 +30,17 @@
       "description": "Wanted dead...",
       "url": "https://www.pushsquare.com/reviews/ps5/ghost-of-yotei-complete-edition",
       "publishedAt": "2026-10-01T16:00:00Z",
-      "processed_at": "2026-10-02T15:27:57.600918+00:00"
+      "processed_at": "2026-10-02T20:24:59.158530+00:00"
+    },
+    {
+      "title": "HP’s MacBook Neo competitor is $699 with an OLED display and plenty of catches - 9to5Google",
+      "source": {
+        "name": "9to5google.com"
+      },
+      "description": "The PC market was caught flat-footed by Apple’s MacBook Neo launch earlier this year, and while that...",
+      "url": "http://9to5google.com/2026/10/01/hp-omnibook-5-macbook-neo-competitor-699-oled-display-plenty-of-catches/",
+      "publishedAt": "2026-10-01T15:36:00Z",
+      "processed_at": "2026-10-02T20:24:59.158530+00:00"
     },
     {
       "title": "Apple TV just added a bunch of free classic movies, here’s everything new - 9to5mac.com",
@@ -30,7 +50,27 @@
       "description": "Apple TV keeps adding new batches of classic movies to kick off each month, with 13 fresh films avai...",
       "url": "https://9to5mac.com/2026/10/01/apple-tv-just-added-a-bunch-of-free-classic-movies-heres-everything-new/",
       "publishedAt": "2026-10-01T15:30:00Z",
-      "processed_at": "2026-10-02T15:27:57.600918+00:00"
+      "processed_at": "2026-10-02T20:24:59.158530+00:00"
+    },
+    {
+      "title": "Control Resonant’s New Patch Misses A Much-Needed Addition - forbes.com",
+      "source": {
+        "name": "Forbes"
+      },
+      "description": "",
+      "url": "https://www.forbes.com/sites/paultassi/2026/10/01/control-resonants-new-patch-misses-a-much-needed-addition/",
+      "publishedAt": "2026-10-01T15:15:34Z",
+      "processed_at": "2026-10-02T20:24:59.158530+00:00"
+    },
+    {
+      "title": "Elta: Defy All Gods launches February 2, 2027, demo now available - Gematsu",
+      "source": {
+        "name": "Gematsu"
+      },
+      "description": "“Adrenaline-fueled action platformer” Elta: Defy All Gods will launch for PlayStation 5, Xbox Series...",
+      "url": "https://www.gematsu.com/2026/10/elta-defy-all-gods-launches-february-2-2027-demo-now-available",
+      "publishedAt": "2026-10-01T15:11:33Z",
+      "processed_at": "2026-10-02T20:24:59.158530+00:00"
     },
     {
       "title": "One Of My Favorite Block Pushers Is Finally Coming To The Platform I Most Want To Play It On - Kotaku",
@@ -40,7 +80,7 @@
       "description": "Isles of Sea and Sky is a fantastic little sokoban that it's time everyone stopped sleeping on...",
       "url": "https://kotaku.com/isles-of-sea-and-sky-sokoban-switch-2000738950",
       "publishedAt": "2026-10-01T15:00:52Z",
-      "processed_at": "2026-10-02T15:27:57.600918+00:00"
+      "processed_at": "2026-10-02T20:24:59.158530+00:00"
     },
     {
       "title": "Arc Raiders Is About To Go Nuclear On Cheaters: ‘No Warnings, No Second Chances’ - Kotaku",
@@ -50,60 +90,10 @@
       "description": "There are also plans to introduce new tech, and prevent the misery of queue teaming...",
       "url": "https://kotaku.com/arc-raiders-cheating-exploits-queue-teaming-embark-update-frozen-trail-2000738934",
       "publishedAt": "2026-10-01T14:30:51Z",
-      "processed_at": "2026-10-02T15:27:57.600918+00:00"
-    },
-    {
-      "title": "iPadOS 27.2: Two new features coming soon to your iPad - 9to5mac.com",
-      "source": {
-        "name": "9to5Mac"
-      },
-      "description": "iPadOS 27.2 is coming later this month as a new iPad software update, here are two new features it w...",
-      "url": "https://9to5mac.com/2026/10/01/ipados-27-2-two-new-features-coming-soon-to-your-ipad/",
-      "publishedAt": "2026-10-01T14:27:00Z",
-      "processed_at": "2026-10-02T15:27:57.600918+00:00"
-    },
-    {
-      "title": "Ace Combat 8 developer apologises for Belkan War pre-order backlash, explains why it happened and vows to explore possible solutions - Eurogamer.net",
-      "source": {
-        "name": "Eurogamer.net"
-      },
-      "description": "The team behind Ace Combat 8 has issued a statement in response to the controversy surrounding the g...",
-      "url": "https://www.eurogamer.net/ace-combat-8-the-belkan-war-pre-order-bonus-backlash-response",
-      "publishedAt": "2026-10-01T13:55:47Z",
-      "processed_at": "2026-10-02T15:27:57.600918+00:00"
-    },
-    {
-      "title": "What type of jacket to buy to keep yourself warm this winter - The Weather Channel",
-      "source": {
-        "name": "The Weather Channel"
-      },
-      "description": "Warmth isn't about puffiness or price. Learn the three physics principles — trapped air, wind block ...",
-      "url": "https://weather.com/2026/10/01/safety/winter/what-jacket-to-buy-to-keep-yourself-warm-this-winter",
-      "publishedAt": "2026-10-01T13:34:00Z",
-      "processed_at": "2026-10-02T15:27:57.600918+00:00"
-    },
-    {
-      "title": "Cops Can Bypass iPhone’s Automatic Reboot to Get Into Locked Phones, Leaked Video Claims - 404 Media",
-      "source": {
-        "name": "404media.co"
-      },
-      "description": "Magent Forensics, the owner of the GrayKey phone unlocking tool, says it can bypass an iPhone reboot...",
-      "url": "https://www.404media.co/cops-can-bypass-iphone-automatic-inactivity-reboot-graykey/",
-      "publishedAt": "2026-10-01T13:03:54Z",
-      "processed_at": "2026-10-02T15:27:57.600918+00:00"
-    },
-    {
-      "title": "Reigns, Card Shark Dev Is Closing Down As Leads Go Independent Again: ‘I Still Have Things That I Can Say’ - Kotaku",
-      "source": {
-        "name": "Kotaku"
-      },
-      "description": "'At the moment, you feel like you're in the washing machine and it's turned on and you're like, \"Wel...",
-      "url": "https://kotaku.com/reigns-card-shark-dev-closing-down-2000738732",
-      "publishedAt": "2026-10-01T13:00:23Z",
-      "processed_at": "2026-10-02T15:27:57.600918+00:00"
+      "processed_at": "2026-10-02T20:24:59.158530+00:00"
     }
   ],
-  "lastUpdated": "2026-10-02T15:27:57.600986+00:00",
+  "lastUpdated": "2026-10-02T20:24:59.158579+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
