@@ -1,7 +1,47 @@
 {
   "status": "success",
-  "totalResults": 9,
+  "totalResults": 10,
   "articles": [
+    {
+      "title": "Can it run Doom: SQL database edition - Ars Technica",
+      "source": {
+        "name": "Ars Technica"
+      },
+      "description": "300 lines of SQL querying renders accurate bitmapped views of Hell at 35 fps....",
+      "url": "https://arstechnica.com/gaming/2026/10/can-it-run-doom-sql-database-edition/",
+      "publishedAt": "2026-10-02T21:19:05Z",
+      "processed_at": "2026-10-03T23:33:47.532919+00:00"
+    },
+    {
+      "title": "Google already rolling out Android 17 QPR3 Beta 1 for Pixel - 9to5Google",
+      "source": {
+        "name": "9to5google.com"
+      },
+      "description": "Following a QPR2 release earlier this week, Google today is rolling out Android 17 QPR3 Beta 1....",
+      "url": "http://9to5google.com/2026/10/02/android-17-qpr3-beta-1-pixel/",
+      "publishedAt": "2026-10-02T20:54:00Z",
+      "processed_at": "2026-10-03T23:33:47.532919+00:00"
+    },
+    {
+      "title": "Apple confirms iPhone 18 Pro Max AT&T cellular issues, affected devices require hardware replacement - 9to5Mac",
+      "source": {
+        "name": "9to5Mac"
+      },
+      "description": "Apple has confirmed an issue causing a “small number” of iPhone 18 Pro Max devices on AT&T to lose c...",
+      "url": "https://9to5mac.com/2026/10/02/apple-confirms-iphone-18-pro-max-att-cellular-issues-affected-devices-require-hardware-replacement/",
+      "publishedAt": "2026-10-02T20:47:00Z",
+      "processed_at": "2026-10-03T23:33:47.532919+00:00"
+    },
+    {
+      "title": "Apple will limit Mac disk access as AI agents ‘substantially’ increase risk - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "Apple is introducing new safeguards for its full disk access permission on Mac in response to the ri...",
+      "url": "https://www.theverge.com/tech/1004295/apple-limit-mac-disk-access-ai-agents",
+      "publishedAt": "2026-10-02T20:08:40Z",
+      "processed_at": "2026-10-03T23:33:47.532919+00:00"
+    },
     {
       "title": "Android malware can steal your PIN and bank logins - Fox News",
       "source": {
@@ -10,27 +50,17 @@
       "description": "RatHat Android malware uses AI to steal banking credentials, intercept two-factor authentication cod...",
       "url": "https://www.foxnews.com/tech/android-malware-steal-pin-bank-logins",
       "publishedAt": "2026-10-02T19:00:23Z",
-      "processed_at": "2026-10-03T20:42:10.068368+00:00"
+      "processed_at": "2026-10-03T23:33:47.532919+00:00"
     },
     {
-      "title": "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents - TechCrunch",
+      "title": "Miami Heat announce 'A Night in Vice City' theme ahead of GTA VI release - ESPN",
       "source": {
-        "name": "TechCrunch"
+        "name": "ESPN"
       },
-      "description": "Apple says it will add new controls around macOS’s Full Disk Access permission, warning that increas...",
-      "url": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/",
-      "publishedAt": "2026-10-02T18:11:27Z",
-      "processed_at": "2026-10-03T20:42:10.068368+00:00"
-    },
-    {
-      "title": "GTA 6 PEGI Age Rating Reveals Mentions of 'Decapitation' and Cocaine That Can Be 'Snorted' at 'Any Time' - IGN",
-      "source": {
-        "name": "IGN"
-      },
-      "description": "GTA 6 has received a rating of PEGI 18, revealing mentions of \"decapitation,\" the ability for player...",
-      "url": "https://www.ign.com/articles/gta-6-age-rating-confirms-new-details-on-sex-drug-use-decapitation-and-more",
-      "publishedAt": "2026-10-02T17:37:35Z",
-      "processed_at": "2026-10-03T20:42:10.068368+00:00"
+      "description": "With Grand Theft Auto VI's long-awaited release date set for Nov. 19, the Heat are partnering with R...",
+      "url": "https://www.espn.com/nba/story/_/id/50085674/miami-heat-night-vice-city-game",
+      "publishedAt": "2026-10-02T18:38:00Z",
+      "processed_at": "2026-10-03T23:33:47.532919+00:00"
     },
     {
       "title": "Apple’s new ‘homeOS’ will launch this month, here’s what’s coming - 9to5Mac",
@@ -40,37 +70,27 @@
       "description": "Apple reportedly plans to launch new Home products on October 13 alongside an all-new operating syst...",
       "url": "https://9to5mac.com/2026/10/02/apples-new-homeos-will-launch-this-month-heres-whats-coming/",
       "publishedAt": "2026-10-02T17:22:00Z",
-      "processed_at": "2026-10-03T20:42:10.068368+00:00"
+      "processed_at": "2026-10-03T23:33:47.532919+00:00"
     },
     {
-      "title": "Sony's Quietly Improved Base PS5 Hardware with a Number of Internal Optimisations - Push Square",
+      "title": "Nacon’s new PS5 controller can mix audio from your phone and console - The Verge",
       "source": {
-        "name": "Push Square"
+        "name": "The Verge"
       },
-      "description": "New models shipping now...",
-      "url": "https://www.pushsquare.com/news/2026/10/sonys-quietly-improved-base-ps5-hardware-with-a-number-of-internal-optimisations",
-      "publishedAt": "2026-10-02T17:15:00Z",
-      "processed_at": "2026-10-03T20:42:10.068368+00:00"
-    },
-    {
-      "title": "AT&T on iPhone 18 Pro Max Issues: 'We Are Working With Apple' - MacRumors",
-      "source": {
-        "name": "MacRumors"
-      },
-      "description": "In a statement shared with MacRumors today, AT&T said it is \"working with Apple\" to resolve iPhone 1...",
-      "url": "https://www.macrumors.com/2026/10/02/att-statement-on-iphone-18-pro-max-issues/",
-      "publishedAt": "2026-10-02T16:18:55Z",
-      "processed_at": "2026-10-03T20:42:10.068368+00:00"
+      "description": "The Nacon Revolution 5 Unlimited brings an asymmetrical TMR thumbstick design to the PS5 with a buil...",
+      "url": "https://www.theverge.com/tech/1004053/nacon-sony-playstation-licensed-revolution-5-unlimited-wireless-controller",
+      "publishedAt": "2026-10-02T16:35:13Z",
+      "processed_at": "2026-10-03T23:33:47.532919+00:00"
     },
     {
       "title": "Warhorse COO wants GTA 6 to set a new $80 price standard for triple-A games - Video Games Chronicle",
       "source": {
         "name": "Video Games Chronicle"
       },
-      "description": "",
+      "description": "Warhorse's Martin Klima hopes GTA 6's $80 price point sets a precedent for triple-A games...",
       "url": "https://www.videogameschronicle.com/news/warhorse-coo-wants-gta-6-to-set-a-new-80-price-standard-for-triple-a-games/",
       "publishedAt": "2026-10-02T16:16:25Z",
-      "processed_at": "2026-10-03T20:42:10.068368+00:00"
+      "processed_at": "2026-10-03T23:33:47.532919+00:00"
     },
     {
       "title": "Using an iPad mini to preview the iPhone Duo experience - 9to5Mac",
@@ -80,20 +100,10 @@
       "description": "Alongside using the iPhone 18 Pro, I’ve also been carrying out a little experiment as we await the l...",
       "url": "https://9to5mac.com/2026/10/02/using-an-ipad-mini-to-preview-the-iphone-duo-experience/",
       "publishedAt": "2026-10-02T16:00:00Z",
-      "processed_at": "2026-10-03T20:42:10.068368+00:00"
-    },
-    {
-      "title": "Gurnoor Brar has been expensive, but India are happy to pay the price for now - Cricinfo",
-      "source": {
-        "name": "Cricinfo.com"
-      },
-      "description": "Ahead of the 2027 ODI World Cup, the team management wants the fast bowler tested, not protected...",
-      "url": "https://www.cricinfo.com/story/ind-vs-wi-3rd-odi-gurnoor-brar-has-been-expensive-but-india-happy-to-pay-the-price-for-now-1556930",
-      "publishedAt": "2026-10-02T15:52:41Z",
-      "processed_at": "2026-10-03T20:42:10.068368+00:00"
+      "processed_at": "2026-10-03T23:33:47.532919+00:00"
     }
   ],
-  "lastUpdated": "2026-10-03T20:42:10.068419+00:00",
+  "lastUpdated": "2026-10-03T23:33:47.532978+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
