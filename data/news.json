@@ -1,7 +1,47 @@
 {
   "status": "success",
-  "totalResults": 10,
+  "totalResults": 9,
   "articles": [
+    {
+      "title": "AT&T Acknowledges iPhone 18 Pro Max Issues: 'Update Immediately' - MacRumors",
+      "source": {
+        "name": "MacRumors"
+      },
+      "description": "In a text message sent to customers today, AT&T acknowledged that some iPhone 18 Pro Max devices on ...",
+      "url": "https://www.macrumors.com/2026/10/01/att-acknowledges-iphone-18-pro-max-issues/",
+      "publishedAt": "2026-10-02T03:42:00Z",
+      "processed_at": "2026-10-03T12:17:10.109415+00:00"
+    },
+    {
+      "title": "CD Projekt Red Says It's Working On Fixes For Witcher 3 Remastered - Nintendo Life",
+      "source": {
+        "name": "Nintendo Life"
+      },
+      "description": "But Switch 2 owners might have to wait a little longer...",
+      "url": "https://www.nintendolife.com/news/2026/10/cd-projekt-red-says-its-working-on-fixes-for-witcher-3-remastered",
+      "publishedAt": "2026-10-02T01:55:00Z",
+      "processed_at": "2026-10-03T12:17:10.109415+00:00"
+    },
+    {
+      "title": "Amazon redesigns Kindle lineup and announces new accessories - 12newsnow.com",
+      "source": {
+        "name": "12newsnow.com KBMT-KJAC"
+      },
+      "description": "",
+      "url": "https://www.12newsnow.com/article/news/nation-world/amazon-redesign-kindle-lineup-new-accessories/507-c904947e-ef0f-4735-93c9-3dbed6bb059a",
+      "publishedAt": "2026-10-02T00:13:00Z",
+      "processed_at": "2026-10-03T12:17:10.109415+00:00"
+    },
+    {
+      "title": "Apple’s reportedly developing a smart home camera that doesn’t record video - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "A smart home camera Apple’s working on would give users text descriptions of events instead of recor...",
+      "url": "https://www.theverge.com/tech/1003877/apple-security-camera-no-video",
+      "publishedAt": "2026-10-01T22:51:36Z",
+      "processed_at": "2026-10-03T12:17:10.109415+00:00"
+    },
     {
       "title": "Blizzard Cracks Down on Gold Selling in World of Warcraft Forever — and Streamers Are in the Firing Line - IGN",
       "source": {
@@ -10,7 +50,7 @@
       "description": "World of Warcraft: Classic has had a gold selling problem for its entire existence, but with Forever...",
       "url": "https://www.ign.com/articles/blizzard-cracks-down-on-gold-selling-in-world-of-warcraft-forever-and-streamers-are-in-the-firing-line",
       "publishedAt": "2026-10-01T21:22:45Z",
-      "processed_at": "2026-10-03T06:07:18.486536+00:00"
+      "processed_at": "2026-10-03T12:17:10.109415+00:00"
     },
     {
       "title": "No, No, No—Don’t Peel the Nano-Texture Layer off the iPhone Duo’s Inner Screen - Gizmodo",
@@ -20,17 +60,17 @@
       "description": "Don't be the idiot who breaks their $2,000 foldable iPhone because they listened to some 'experts' o...",
       "url": "https://gizmodo.com/iphone-duo-inner-display-damage-2000820502",
       "publishedAt": "2026-10-01T20:40:34Z",
-      "processed_at": "2026-10-03T06:07:18.486536+00:00"
+      "processed_at": "2026-10-03T12:17:10.109415+00:00"
     },
     {
-      "title": "Apple Shares Photos Shot on iPhone Duo - MacRumors",
+      "title": "ChatGPT can now virtually try on clothes for you - TechCrunch",
       "source": {
-        "name": "MacRumors"
+        "name": "TechCrunch"
       },
-      "description": "Apple on Instagram today shared a curated gallery of six photos shot on the iPhone Duo. The photos w...",
-      "url": "https://www.macrumors.com/2026/10/01/apple-shares-photos-shot-on-iphone-duo/",
-      "publishedAt": "2026-10-01T20:37:20Z",
-      "processed_at": "2026-10-03T06:07:18.486536+00:00"
+      "description": "OpenAI is rolling out new shopping features for ChatGPT that let users virtually try on clothing and...",
+      "url": "https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you/",
+      "publishedAt": "2026-10-01T19:21:53Z",
+      "processed_at": "2026-10-03T12:17:10.109415+00:00"
     },
     {
       "title": "Make unknown callers explain why they're calling - Fox News",
@@ -40,17 +80,7 @@
       "description": "iPhone, Google Pixel and Samsung Galaxy phones now offer call screening that asks unknown callers to...",
       "url": "https://www.foxnews.com/tech/make-unknown-callers-explain-why-theyre-calling",
       "publishedAt": "2026-10-01T18:30:09Z",
-      "processed_at": "2026-10-03T06:07:18.486536+00:00"
-    },
-    {
-      "title": "Apple's Smart Home Camera Will Apparently Have 'No Video Recording' - MacRumors",
-      "source": {
-        "name": "MacRumors"
-      },
-      "description": "On his new Power On podcast, Bloomberg's Mark Gurman said Apple's smart home camera will have \"no vi...",
-      "url": "https://www.macrumors.com/2026/10/01/apple-smart-home-camera-no-video-recording/",
-      "publishedAt": "2026-10-01T17:44:13Z",
-      "processed_at": "2026-10-03T06:07:18.486536+00:00"
+      "processed_at": "2026-10-03T12:17:10.109415+00:00"
     },
     {
       "title": "Twelve South launches tiny new ‘Airfly Drive’ wireless CarPlay adapter - 9to5Mac",
@@ -60,50 +90,10 @@
       "description": "Twelve South, the company behind a range of premium Apple accessories, has launched a notable expans...",
       "url": "https://9to5mac.com/2026/10/01/twelve-south-launches-tiny-new-airfly-drive-wireless-carplay-adapter/",
       "publishedAt": "2026-10-01T17:20:00Z",
-      "processed_at": "2026-10-03T06:07:18.486536+00:00"
-    },
-    {
-      "title": "Minior Showers in Pokémon GO: Dates, Cores & Bonuses - Pokémon GO Hub",
-      "source": {
-        "name": "Pokemon GO Hub"
-      },
-      "description": "Minior debuts in Pokémon GO on October 19! Explore Minior Showers dates, core colours, hemisphere ex...",
-      "url": "https://pokemongohub.net/post/guide/minior-showers/",
-      "publishedAt": "2026-10-01T17:13:16Z",
-      "processed_at": "2026-10-03T06:07:18.486536+00:00"
-    },
-    {
-      "title": "Sony brings AI graphics upscaling to the regular PS5 - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "Sony’s new Quick Spectral Super Resolution (QSSR) for PS5 brings improvements to image detail and im...",
-      "url": "https://www.theverge.com/games/1003549/sony-ps5-quick-spectral-super-resolution-qssr",
-      "publishedAt": "2026-10-01T16:53:39Z",
-      "processed_at": "2026-10-03T06:07:18.486536+00:00"
-    },
-    {
-      "title": "Space Marine 2 gets a massive anniversary update - Warhammer Community",
-      "source": {
-        "name": "Warhammer-community.com"
-      },
-      "description": "Celebrate the start of Year 3 with a new weapon and play as Chaos Space Marines in Siege Mode....",
-      "url": "https://www.warhammer-community.com/articles/okd34wjw/space-marine-2-gets-a-massive-anniversary-update",
-      "publishedAt": "2026-10-01T16:49:06Z",
-      "processed_at": "2026-10-03T06:07:18.486536+00:00"
-    },
-    {
-      "title": "007 First Light Extended Operation DLC is Out Today, For Free, and Lets You Drive the Valhalla Again - IGN",
-      "source": {
-        "name": "IGN"
-      },
-      "description": "The 007 First Light Extended Operations DLC launches for free today, and adds five different mission...",
-      "url": "https://www.ign.com/articles/007-first-lights-first-dlc-out-now-adds-new-game-plus",
-      "publishedAt": "2026-10-01T16:25:28Z",
-      "processed_at": "2026-10-03T06:07:18.486536+00:00"
+      "processed_at": "2026-10-03T12:17:10.109415+00:00"
     }
   ],
-  "lastUpdated": "2026-10-03T06:07:18.486608+00:00",
+  "lastUpdated": "2026-10-03T12:17:10.109494+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
