@@ -1,7 +1,37 @@
 {
   "status": "success",
-  "totalResults": 9,
+  "totalResults": 10,
   "articles": [
+    {
+      "title": "Final Fantasy 7 Revelation's director responds to fans demanding a full disc version - eurogamer.net",
+      "source": {
+        "name": "Eurogamer.net"
+      },
+      "description": "Naoki Hamaguchi says he fought for a disc release of Final Fantasy 7 Revelation, as the industry hea...",
+      "url": "https://www.eurogamer.net/final-fantasy-7-revelation-naoki-hamaguchi-disc-release-physical-media",
+      "publishedAt": "2026-10-03T17:25:03Z",
+      "processed_at": "2026-10-04T22:50:13.469679+00:00"
+    },
+    {
+      "title": "Activision And Bethesda Crackdown On GenAI MW2 And Fallout Projects - Kotaku",
+      "source": {
+        "name": "Kotaku"
+      },
+      "description": "Vibe coders are getting legal notices...",
+      "url": "https://kotaku.com/activision-and-bethesda-crackdown-on-genai-mw2-and-fallout-projects-2000739580",
+      "publishedAt": "2026-10-03T16:20:08Z",
+      "processed_at": "2026-10-04T22:50:13.469679+00:00"
+    },
+    {
+      "title": "Poll: How Many 'Mythic' Xbox Achievements Do You Reckon You'll Have? - Pure Xbox",
+      "source": {
+        "name": "Pure Xbox"
+      },
+      "description": "Full completions are being backdated to the Xbox 360 era...",
+      "url": "https://www.purexbox.com/news/2026/10/poll-how-many-mythic-xbox-achievements-do-you-reckon-youll-have",
+      "publishedAt": "2026-10-03T15:00:00Z",
+      "processed_at": "2026-10-04T22:50:13.469679+00:00"
+    },
     {
       "title": "Capcom plans to evolve RE Engine into an \"AI-generation game engine\" - eurogamer.net",
       "source": {
@@ -10,17 +40,27 @@
       "description": "Capcom has detailed plans to turn its RE Engine into an \"AI-generation game engine\" as part of its o...",
       "url": "https://www.eurogamer.net/capcom-re-engine-ai-generation-game-engine-rex-project",
       "publishedAt": "2026-10-03T14:47:09Z",
-      "processed_at": "2026-10-04T19:16:40.671227+00:00"
+      "processed_at": "2026-10-04T22:50:13.469679+00:00"
     },
     {
-      "title": "\"We felt that fans were getting a bit desensitised to the violence\" Gears of War: E-Day devs made a \"big investment\" in gore, and weirdly, it works - Eurogamer.net",
+      "title": "Introducing: The Raymond Weil Millesime Jubilee Chronograph 50th Anniversary - Monochrome Watches",
       "source": {
-        "name": "Eurogamer.net"
+        "name": "Monochrome-watches.com"
       },
-      "description": "\"Brutality is a pillar of this game,\" says studio art director Aryan Hanbeck at The Coalition....",
-      "url": "https://www.eurogamer.net/we-felt-that-fans-were-getting-a-bit-desensitised-to-the-violence-gears-of-war-e-day-devs-made-a-big-investment-in-gore-and-weirdly-it-works",
-      "publishedAt": "2026-10-03T09:00:00Z",
-      "processed_at": "2026-10-04T19:16:40.671227+00:00"
+      "description": "Following The Fifty and its restored movement, Raymond Weil celebrates its 50th anniversary with a m...",
+      "url": "https://monochrome-watches.com/raymond-weil-marks-50-years-again-with-a-more-accessible-millesime-jubilee-chronograph-automatic-introducing-price/",
+      "publishedAt": "2026-10-03T14:00:38Z",
+      "processed_at": "2026-10-04T22:50:13.469679+00:00"
+    },
+    {
+      "title": "Apple to replace iPhone 18 Pro Max facing AT&T glitch (AAPL) - Seeking Alpha",
+      "source": {
+        "name": "Seeking Alpha"
+      },
+      "description": "Apple (AAPL) offers to replace some of the iPhone 18 Pro Max devices after customers on the AT&T (T)...",
+      "url": "https://seekingalpha.com/news/4650016-apple-to-replace-iphone-18-pro-max-facing-att-glitch",
+      "publishedAt": "2026-10-03T13:29:18Z",
+      "processed_at": "2026-10-04T22:50:13.469679+00:00"
     },
     {
       "title": "Space Marine 2 gets a massive anniversary update - Warhammer Community",
@@ -30,17 +70,7 @@
       "description": "Celebrate the start of Year 3 with a new weapon and play as Chaos Space Marines in Siege Mode....",
       "url": "https://www.warhammer-community.com/articles/okd34wjw/space-marine-2-gets-a-massive-anniversary-update",
       "publishedAt": "2026-10-03T08:04:30Z",
-      "processed_at": "2026-10-04T19:16:40.671227+00:00"
-    },
-    {
-      "title": "Poll: How many Mythic achievements have you unlocked on Xbox? - TrueAchievements",
-      "source": {
-        "name": "TrueAchievements"
-      },
-      "description": "Now that we're tracking Xbox's new platinum rival, for this week's poll, we want to know: how many M...",
-      "url": "https://www.trueachievements.com/poll/63916/poll-how-many-mythic-achievements-on-xbox",
-      "publishedAt": "2026-10-03T08:00:10Z",
-      "processed_at": "2026-10-04T19:16:40.671227+00:00"
+      "processed_at": "2026-10-04T22:50:13.469679+00:00"
     },
     {
       "title": "Konami teases that Belmont’s Curse won’t be the end for Castlevania - Nintendo Everything",
@@ -50,37 +80,7 @@
       "description": "Konami has been a bit quiet with Castlevania until recently, but the publisher has teased more to co...",
       "url": "https://nintendoeverything.com/konami-castlevania-future-2026/",
       "publishedAt": "2026-10-03T07:21:24Z",
-      "processed_at": "2026-10-04T19:16:40.671227+00:00"
-    },
-    {
-      "title": "Google AI Plus and free users are losing access to Gemini models, and it's happening very soon - XDA",
-      "source": {
-        "name": "XDA Developers"
-      },
-      "description": "The more advanced tiers aren't seeing any changes....",
-      "url": "https://www.xda-developers.com/google-ai-plus-users-are-losing-access-to-geminis-pro-model-and-its-happening-very-soon/",
-      "publishedAt": "2026-10-03T05:56:52Z",
-      "processed_at": "2026-10-04T19:16:40.671227+00:00"
-    },
-    {
-      "title": "Apple Says iPhone 18 Pro Max Users With AT&T Cellular Issue Need to Have Device Replaced - MacRumors",
-      "source": {
-        "name": "MacRumors"
-      },
-      "description": "Apple today confirmed that a \"small number\" of iPhone 18 Pro Max users on the AT&T network have expe...",
-      "url": "https://www.macrumors.com/2026/10/02/apple-statement-on-iphone-18-pro-max-att-issue/",
-      "publishedAt": "2026-10-03T03:21:00Z",
-      "processed_at": "2026-10-04T19:16:40.671227+00:00"
-    },
-    {
-      "title": "Meta wants your next gadget to be Muse-infused - TechCrunch",
-      "source": {
-        "name": "TechCrunch"
-      },
-      "description": "Meta wants Muse in your TV and your toaster, so it's giving the code away for free....",
-      "url": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/",
-      "publishedAt": "2026-10-03T00:45:39Z",
-      "processed_at": "2026-10-04T19:16:40.671227+00:00"
+      "processed_at": "2026-10-04T22:50:13.469679+00:00"
     },
     {
       "title": "Sonic Racing: CrossWorlds \"Final Content Drop Of Year One\" Arrives This Month - Nintendo Life",
@@ -90,10 +90,20 @@
       "description": "But the race isn't over yet......",
       "url": "https://www.nintendolife.com/news/2026/10/sonic-racing-crossworlds-final-content-drop-of-year-one-arrives-this-month",
       "publishedAt": "2026-10-03T00:30:00Z",
-      "processed_at": "2026-10-04T19:16:40.671227+00:00"
+      "processed_at": "2026-10-04T22:50:13.469679+00:00"
+    },
+    {
+      "title": "Apple changes full-disk access permissions to curb abuse from AI agents - Ars Technica",
+      "source": {
+        "name": "Ars Technica"
+      },
+      "description": "Meta says FDA isn't sufficient to Muse reading messages. Apple begs to differ....",
+      "url": "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/",
+      "publishedAt": "2026-10-02T23:03:16Z",
+      "processed_at": "2026-10-04T22:50:13.469679+00:00"
     }
   ],
-  "lastUpdated": "2026-10-04T19:16:40.671305+00:00",
+  "lastUpdated": "2026-10-04T22:50:13.469755+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
