@@ -1,16 +1,66 @@
 {
   "status": "success",
-  "totalResults": 10,
+  "totalResults": 9,
   "articles": [
     {
-      "title": "‘Tinder Swindler’ romance fraudster promises ‘safe’ dating app – using intel from con man playbook - Fox News",
+      "title": "Capcom plans to evolve RE Engine into an \"AI-generation game engine\" - eurogamer.net",
       "source": {
-        "name": "Fox News"
+        "name": "Eurogamer.net"
       },
-      "description": "Simon Leviev, the notorious 'Tinder Swindler' who was born Shimon Hayut, says his new Safe Love dati...",
-      "url": "https://www.foxnews.com/us/tinder-swindler-romance-fraudster-promises-safe-dating-app-using-intel-con-man-playbook",
-      "publishedAt": "2026-10-03T11:00:49Z",
-      "processed_at": "2026-10-04T15:43:45.295418+00:00"
+      "description": "Capcom has detailed plans to turn its RE Engine into an \"AI-generation game engine\" as part of its o...",
+      "url": "https://www.eurogamer.net/capcom-re-engine-ai-generation-game-engine-rex-project",
+      "publishedAt": "2026-10-03T14:47:09Z",
+      "processed_at": "2026-10-04T19:16:40.671227+00:00"
+    },
+    {
+      "title": "\"We felt that fans were getting a bit desensitised to the violence\" Gears of War: E-Day devs made a \"big investment\" in gore, and weirdly, it works - Eurogamer.net",
+      "source": {
+        "name": "Eurogamer.net"
+      },
+      "description": "\"Brutality is a pillar of this game,\" says studio art director Aryan Hanbeck at The Coalition....",
+      "url": "https://www.eurogamer.net/we-felt-that-fans-were-getting-a-bit-desensitised-to-the-violence-gears-of-war-e-day-devs-made-a-big-investment-in-gore-and-weirdly-it-works",
+      "publishedAt": "2026-10-03T09:00:00Z",
+      "processed_at": "2026-10-04T19:16:40.671227+00:00"
+    },
+    {
+      "title": "Space Marine 2 gets a massive anniversary update - Warhammer Community",
+      "source": {
+        "name": "Warhammer-community.com"
+      },
+      "description": "Celebrate the start of Year 3 with a new weapon and play as Chaos Space Marines in Siege Mode....",
+      "url": "https://www.warhammer-community.com/articles/okd34wjw/space-marine-2-gets-a-massive-anniversary-update",
+      "publishedAt": "2026-10-03T08:04:30Z",
+      "processed_at": "2026-10-04T19:16:40.671227+00:00"
+    },
+    {
+      "title": "Poll: How many Mythic achievements have you unlocked on Xbox? - TrueAchievements",
+      "source": {
+        "name": "TrueAchievements"
+      },
+      "description": "Now that we're tracking Xbox's new platinum rival, for this week's poll, we want to know: how many M...",
+      "url": "https://www.trueachievements.com/poll/63916/poll-how-many-mythic-achievements-on-xbox",
+      "publishedAt": "2026-10-03T08:00:10Z",
+      "processed_at": "2026-10-04T19:16:40.671227+00:00"
+    },
+    {
+      "title": "Konami teases that Belmont’s Curse won’t be the end for Castlevania - Nintendo Everything",
+      "source": {
+        "name": "Nintendoeverything.com"
+      },
+      "description": "Konami has been a bit quiet with Castlevania until recently, but the publisher has teased more to co...",
+      "url": "https://nintendoeverything.com/konami-castlevania-future-2026/",
+      "publishedAt": "2026-10-03T07:21:24Z",
+      "processed_at": "2026-10-04T19:16:40.671227+00:00"
+    },
+    {
+      "title": "Google AI Plus and free users are losing access to Gemini models, and it's happening very soon - XDA",
+      "source": {
+        "name": "XDA Developers"
+      },
+      "description": "The more advanced tiers aren't seeing any changes....",
+      "url": "https://www.xda-developers.com/google-ai-plus-users-are-losing-access-to-geminis-pro-model-and-its-happening-very-soon/",
+      "publishedAt": "2026-10-03T05:56:52Z",
+      "processed_at": "2026-10-04T19:16:40.671227+00:00"
     },
     {
       "title": "Apple Says iPhone 18 Pro Max Users With AT&T Cellular Issue Need to Have Device Replaced - MacRumors",
@@ -20,17 +70,7 @@
       "description": "Apple today confirmed that a \"small number\" of iPhone 18 Pro Max users on the AT&T network have expe...",
       "url": "https://www.macrumors.com/2026/10/02/apple-statement-on-iphone-18-pro-max-att-issue/",
       "publishedAt": "2026-10-03T03:21:00Z",
-      "processed_at": "2026-10-04T15:43:45.295418+00:00"
-    },
-    {
-      "title": "‘A Future Where We Create Games Together With AI’ — Capcom Announces Plans to Transform the RE Engine Into an AI-Generation Game Engine - IGN",
-      "source": {
-        "name": "IGN"
-      },
-      "description": "Resident Evil and Street Fighter developer Capcom revealed some big changes coming to its RE Engine,...",
-      "url": "https://www.ign.com/articles/capcom-announces-plans-to-transform-the-re-engine-into-an-ai-generation-game-engine-our-goal-is-a-future-where-we-create-games-together-with-ai",
-      "publishedAt": "2026-10-03T01:33:00Z",
-      "processed_at": "2026-10-04T15:43:45.295418+00:00"
+      "processed_at": "2026-10-04T19:16:40.671227+00:00"
     },
     {
       "title": "Meta wants your next gadget to be Muse-infused - TechCrunch",
@@ -40,7 +80,7 @@
       "description": "Meta wants Muse in your TV and your toaster, so it's giving the code away for free....",
       "url": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/",
       "publishedAt": "2026-10-03T00:45:39Z",
-      "processed_at": "2026-10-04T15:43:45.295418+00:00"
+      "processed_at": "2026-10-04T19:16:40.671227+00:00"
     },
     {
       "title": "Sonic Racing: CrossWorlds \"Final Content Drop Of Year One\" Arrives This Month - Nintendo Life",
@@ -50,60 +90,10 @@
       "description": "But the race isn't over yet......",
       "url": "https://www.nintendolife.com/news/2026/10/sonic-racing-crossworlds-final-content-drop-of-year-one-arrives-this-month",
       "publishedAt": "2026-10-03T00:30:00Z",
-      "processed_at": "2026-10-04T15:43:45.295418+00:00"
-    },
-    {
-      "title": "Apple changes full-disk access permissions to curb abuse from AI agents - Ars Technica",
-      "source": {
-        "name": "Ars Technica"
-      },
-      "description": "Meta says FDA isn't sufficient to Muse reading messages. Apple begs to differ....",
-      "url": "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/",
-      "publishedAt": "2026-10-02T23:03:16Z",
-      "processed_at": "2026-10-04T15:43:45.295418+00:00"
-    },
-    {
-      "title": "GTA 6 Had A Really Busy Week - Kotaku",
-      "source": {
-        "name": "Kotaku"
-      },
-      "description": "We are less than 50 days away from the release of Grand Theft Auto 6 and marketing is kicking into h...",
-      "url": "https://kotaku.com/gta-6-had-a-really-busy-week-2000739409",
-      "publishedAt": "2026-10-02T23:00:55Z",
-      "processed_at": "2026-10-04T15:43:45.295418+00:00"
-    },
-    {
-      "title": "Contest-Winning Microscope Video Is Full of AI Confabulations, Scientists Say - Gizmodo",
-      "source": {
-        "name": "Gizmodo.com"
-      },
-      "description": "The winner of Nikon's 2026 Small World In Motion contest said he used AI to post-process real video....",
-      "url": "https://gizmodo.com/contest-winning-microscope-video-is-full-of-ai-confabulations-scientists-say-2000820652",
-      "publishedAt": "2026-10-02T23:00:33Z",
-      "processed_at": "2026-10-04T15:43:45.295418+00:00"
-    },
-    {
-      "title": "Miami Heat to play as Vice City from Grand Theft Auto VI for single game, with new court and uniforms - Yahoo Sports",
-      "source": {
-        "name": "Yahoo Entertainment"
-      },
-      "description": "This will also happen to be Giannis Antetokounmpo's first game against his old team, the Milwaukee B...",
-      "url": "https://sports.yahoo.com/nba/article/miami-heat-to-play-as-vice-city-from-grand-theft-auto-vi-for-single-game-with-new-court-and-uniforms-212134941.html",
-      "publishedAt": "2026-10-02T21:21:34Z",
-      "processed_at": "2026-10-04T15:43:45.295418+00:00"
-    },
-    {
-      "title": "Can it run Doom: SQL database edition - Ars Technica",
-      "source": {
-        "name": "Ars Technica"
-      },
-      "description": "300 lines of SQL querying renders accurate bitmapped views of Hell at 35 fps....",
-      "url": "https://arstechnica.com/gaming/2026/10/can-it-run-doom-sql-database-edition/",
-      "publishedAt": "2026-10-02T21:19:05Z",
-      "processed_at": "2026-10-04T15:43:45.295418+00:00"
+      "processed_at": "2026-10-04T19:16:40.671227+00:00"
     }
   ],
-  "lastUpdated": "2026-10-04T15:43:45.295476+00:00",
+  "lastUpdated": "2026-10-04T19:16:40.671305+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
