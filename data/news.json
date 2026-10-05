@@ -1,7 +1,17 @@
 {
   "status": "success",
-  "totalResults": 10,
+  "totalResults": 9,
   "articles": [
+    {
+      "title": "Poll: How Many 'Mythic' Xbox Achievements Do You Reckon You'll Have? - purexbox.com",
+      "source": {
+        "name": "Pure Xbox"
+      },
+      "description": "Full completions are being backdated to the Xbox 360 era...",
+      "url": "https://www.purexbox.com/news/2026/10/poll-how-many-mythic-xbox-achievements-do-you-reckon-youll-have",
+      "publishedAt": "2026-10-04T04:46:11Z",
+      "processed_at": "2026-10-05T08:32:09.556410+00:00"
+    },
     {
       "title": "The Witcher 3 Remastered Nintendo Switch 2 tech analysis, including frame rate and resolution - Nintendo Everything",
       "source": {
@@ -10,47 +20,57 @@
       "description": "Get details about frame rate, resolution, and more for The Witcher 3 Remastered on Nintendo Switch 2...",
       "url": "https://nintendoeverything.com/the-witcher-3-remastered-nintendo-switch-2-frame-rate-resolution/",
       "publishedAt": "2026-10-04T01:06:26Z",
-      "processed_at": "2026-10-05T01:41:16.152048+00:00"
+      "processed_at": "2026-10-05T08:32:09.556410+00:00"
     },
     {
-      "title": "AI Made StarCraft Bot Swaps In Human Made Bot In Tournament - Kotaku",
+      "title": "Jagex Announces RuneScape 4, a New MMO Built in Unreal Engine - TechPowerUp",
       "source": {
-        "name": "Kotaku"
+        "name": "Techpowerup.com"
       },
-      "description": "In a showdown between AI generated Brood War bots and human made ones, OpenAI’s champion resorted to...",
-      "url": "https://kotaku.com/openais-gpt-6-astra-gets-frustrated-losing-at-starcraft-and-decides-to-cheat-instead-2000739607",
-      "publishedAt": "2026-10-03T21:26:58Z",
-      "processed_at": "2026-10-05T01:41:16.152048+00:00"
+      "description": "Jagex has announced a fourth RuneScape MMO at RuneFest 2026. It currently goes by the working title ...",
+      "url": "https://www.techpowerup.com/353372/jagex-announces-runescape-4-a-new-mmo-built-in-unreal-engine",
+      "publishedAt": "2026-10-04T00:52:53Z",
+      "processed_at": "2026-10-05T08:32:09.556410+00:00"
     },
     {
-      "title": "iPhone Owners Turn Off This Setting To Save Battery Life - bgr.com",
+      "title": "Gemini app limiting what models free & AI Plus users can access, AI Pro adding Deep Think - 9to5Google",
       "source": {
-        "name": "BGR"
+        "name": "9to5google.com"
       },
-      "description": "The Background App Refresh on iPhone keeps your apps updated with the latest information before they...",
-      "url": "https://www.bgr.com/2271390/why-iphone-owners-turn-off-background-app-refresh/",
-      "publishedAt": "2026-10-03T20:47:00Z",
-      "processed_at": "2026-10-05T01:41:16.152048+00:00"
-    },
-    {
-      "title": "RuneScape 4, The Next MMO From Jagex, Announced At RuneFest This Weekend - MMORPG.com",
-      "source": {
-        "name": "MMORPG.com"
-      },
-      "description": "",
-      "url": "https://www.mmorpg.com/news/runescape-4-the-next-mmo-from-jagex-announced-at-runefest-this-weekend-2000139053",
-      "publishedAt": "2026-10-03T20:00:00Z",
-      "processed_at": "2026-10-05T01:41:16.152048+00:00"
+      "description": "Following the compute-based usage change in May, Google is introducing limits on what Gemini models ...",
+      "url": "http://9to5google.com/2026/10/03/gemini-model-limits-oct-26/",
+      "publishedAt": "2026-10-03T20:57:00Z",
+      "processed_at": "2026-10-05T08:32:09.556410+00:00"
     },
     {
       "title": "Gears of War: E-Day Devs 'Proud to Be One of Xbox's Main Titles' Amid Newfound Focus on Exclusivity - IGN",
       "source": {
         "name": "IGN"
       },
-      "description": "",
+      "description": "The Gears of War: E-Day developers at The Coalition say they are \"proud to be one of Xbox's main tit...",
       "url": "https://www.ign.com/articles/gears-of-war-e-day-devs-proud-to-be-one-of-xboxs-main-titles-amid-newfound-focus-on-exclusivity",
       "publishedAt": "2026-10-03T19:46:08Z",
-      "processed_at": "2026-10-05T01:41:16.152048+00:00"
+      "processed_at": "2026-10-05T08:32:09.556410+00:00"
+    },
+    {
+      "title": "Valorant Player Banned Due To Previous CPU Owner’s Cheating Ways - Kotaku",
+      "source": {
+        "name": "Kotaku"
+      },
+      "description": "In a wild coincidence a German player was penalized over the playing habits of their Ryzen 7's previ...",
+      "url": "https://kotaku.com/valorant-player-banned-due-to-previous-gpu-owners-cheating-ways-2000739597",
+      "publishedAt": "2026-10-03T19:06:51Z",
+      "processed_at": "2026-10-05T08:32:09.556410+00:00"
+    },
+    {
+      "title": "6 One UI 9 features you should immediately try out - Android Police",
+      "source": {
+        "name": "Android Police"
+      },
+      "description": "The One UI 9 features worth trying first...",
+      "url": "https://www.androidpolice.com/one-ui-9-features-you-should-try/",
+      "publishedAt": "2026-10-03T19:00:10Z",
+      "processed_at": "2026-10-05T08:32:09.556410+00:00"
     },
     {
       "title": "Here’s why I upgraded from the Apple Watch Series 10 to Series 12 - 9to5Mac",
@@ -60,7 +80,7 @@
       "description": "I’m someone who doesn’t often upgrade my Apple Watch right when a new one comes out. The Apple Watch...",
       "url": "https://9to5mac.com/2026/10/03/heres-why-i-upgraded-from-the-apple-watch-series-10-to-series-12/",
       "publishedAt": "2026-10-03T18:48:00Z",
-      "processed_at": "2026-10-05T01:41:16.152048+00:00"
+      "processed_at": "2026-10-05T08:32:09.556410+00:00"
     },
     {
       "title": "Final Fantasy 7 Revelation's director responds to fans demanding a full disc version - eurogamer.net",
@@ -70,40 +90,10 @@
       "description": "Naoki Hamaguchi says he fought for a disc release of Final Fantasy 7 Revelation, as the industry hea...",
       "url": "https://www.eurogamer.net/final-fantasy-7-revelation-naoki-hamaguchi-disc-release-physical-media",
       "publishedAt": "2026-10-03T17:25:03Z",
-      "processed_at": "2026-10-05T01:41:16.152048+00:00"
-    },
-    {
-      "title": "6 Old-School Pony Cars That Aren't The Ford Mustang - Jalopnik",
-      "source": {
-        "name": "Jalopnik"
-      },
-      "description": "Besides the Mustang, pony cars of the 1970s inclued the Mercury Cougar, Plymouth Barracuda / 'Cuda, ...",
-      "url": "https://www.jalopnik.com/2273229/old-school-pony-cars-that-arent-ford-mustang/",
-      "publishedAt": "2026-10-03T16:45:00Z",
-      "processed_at": "2026-10-05T01:41:16.152048+00:00"
-    },
-    {
-      "title": "Activision And Bethesda Crackdown On GenAI MW2 And Fallout Projects - Kotaku",
-      "source": {
-        "name": "Kotaku"
-      },
-      "description": "Vibe coders are getting legal notices...",
-      "url": "https://kotaku.com/activision-and-bethesda-crackdown-on-genai-mw2-and-fallout-projects-2000739580",
-      "publishedAt": "2026-10-03T16:20:08Z",
-      "processed_at": "2026-10-05T01:41:16.152048+00:00"
-    },
-    {
-      "title": "Poll: Are You Happy with Your PS Plus Essential Games for October 2026? - pushsquare.com",
-      "source": {
-        "name": "Push Square"
-      },
-      "description": "Plus or minus?...",
-      "url": "https://www.pushsquare.com/features/poll-are-you-happy-with-your-ps-plus-essential-games-for-october-2026",
-      "publishedAt": "2026-10-03T16:00:00Z",
-      "processed_at": "2026-10-05T01:41:16.152048+00:00"
+      "processed_at": "2026-10-05T08:32:09.556410+00:00"
     }
   ],
-  "lastUpdated": "2026-10-05T01:41:16.152118+00:00",
+  "lastUpdated": "2026-10-05T08:32:09.556483+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
