@@ -1,109 +1,99 @@
 {
   "status": "success",
-  "totalResults": 10,
+  "totalResults": 9,
   "articles": [
     {
-      "title": "Dungeons and Dragons: World of Warcraft – Everything You Need to Know - IGN",
+      "title": "Command-line tool quickly removes Apple Intelligence from macOS 27 - Ars Technica",
       "source": {
-        "name": "IGN"
+        "name": "Ars Technica"
       },
-      "description": "Dungeons and Dragons: World of Warcraft was announced way back in July, as the first Universes Beyon...",
-      "url": "https://www.ign.com/articles/dungeons-and-dragons-world-of-warcraft-everything-you-need-to-know",
-      "publishedAt": "2026-10-05T16:00:00Z",
-      "processed_at": "2026-10-06T20:00:43.921525+00:00"
+      "description": "The tool can free up over 12GB of storage....",
+      "url": "https://arstechnica.com/apple/2026/10/command-line-tool-quickly-removes-apple-intelligence-from-macos-27/",
+      "publishedAt": "2026-10-05T19:14:44Z",
+      "processed_at": "2026-10-07T00:24:42.002473+00:00"
     },
     {
-      "title": "Apple News ‘even more politically lopsided’ under new CEO John Ternus, study finds - Fox News",
+      "title": "Secret Lair Heads South with Festival in a Box: Atlanta 2026 and Mystery Booster Commander Edition - Magic: The Gathering",
       "source": {
-        "name": "Fox News"
+        "name": "Wizards.com"
       },
-      "description": "A Media Research Center study claims Apple News under new CEO John Ternus pushed stories from left-l...",
-      "url": "https://www.foxnews.com/media/apple-news-even-more-politically-lopsided-under-new-ceo-john-ternus-study-finds",
-      "publishedAt": "2026-10-05T15:46:19Z",
-      "processed_at": "2026-10-06T20:00:43.921525+00:00"
+      "description": "Bolster your collection with Mystery Booster Commander Edition, a sweet new drop, and cool promos fr...",
+      "url": "https://magic.wizards.com/en/news/announcements/secret-lair-heads-south-with-festival-in-a-box-atlanta-2026-and-mystery-booster-commander-edition",
+      "publishedAt": "2026-10-05T18:57:05Z",
+      "processed_at": "2026-10-07T00:24:42.002473+00:00"
     },
     {
-      "title": "Nvidia’s Shield TV Pro just got a $100 price hike - theverge.com",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "The ongoing memory shortage has come for Nvidia’s seven year old Shield TV Pro streaming box which j...",
-      "url": "https://www.theverge.com/tech/1004791/nvidia-shield-tv-pro-streaming-box-price-increase",
-      "publishedAt": "2026-10-05T15:43:13Z",
-      "processed_at": "2026-10-06T20:00:43.921525+00:00"
-    },
-    {
-      "title": "iCloud+ just rolled out an improved perk for subscribers - 9to5Mac",
-      "source": {
-        "name": "9to5Mac"
-      },
-      "description": "iCloud+ includes a lot more than additional storage, and one of the service’s perks for subscribers—...",
-      "url": "https://9to5mac.com/2026/10/05/icloud-just-rolled-out-an-improved-perk-for-subscribers/",
-      "publishedAt": "2026-10-05T15:35:00Z",
-      "processed_at": "2026-10-06T20:00:43.921525+00:00"
-    },
-    {
-      "title": "New Apple TV 4K launches next week with two major upgrades - 9to5Mac",
-      "source": {
-        "name": "9to5Mac"
-      },
-      "description": "New Apple products are reportedly launching October 13, including an updated Apple TV 4K with two ma...",
-      "url": "https://9to5mac.com/2026/10/05/new-apple-tv-4k-launches-next-week-with-two-major-upgrades/",
-      "publishedAt": "2026-10-05T14:54:00Z",
-      "processed_at": "2026-10-06T20:00:43.921525+00:00"
-    },
-    {
-      "title": "Ninja Theory developers announce they are facing redundancy, as the studio starts laying off staff following widespread Xbox cuts - Eurogamer.net",
-      "source": {
-        "name": "Eurogamer.net"
-      },
-      "description": "Ninja Theory staff on LinkedIn have shared either farewell messages or sombre posts on the ongoing r...",
-      "url": "https://www.eurogamer.net/ninja-theory-hellblade-developers-layoffs-xbox-cuts",
-      "publishedAt": "2026-10-05T14:53:45Z",
-      "processed_at": "2026-10-06T20:00:43.921525+00:00"
-    },
-    {
-      "title": "New Dell System Update flaw lets hackers gain root privileges - BleepingComputer",
-      "source": {
-        "name": "BleepingComputer"
-      },
-      "description": "Dell warned customers to patch a critical vulnerability in the System Update (DSU) command-line inte...",
-      "url": "https://www.bleepingcomputer.com/news/security/new-dell-system-update-flaw-lets-hackers-gain-root-privileges/",
-      "publishedAt": "2026-10-05T14:53:06Z",
-      "processed_at": "2026-10-06T20:00:43.921525+00:00"
-    },
-    {
-      "title": "Stages SB200 Indoor Smartbike In-Depth Review: Redemption? - DC Rainmaker",
-      "source": {
-        "name": "DC Rainmaker"
-      },
-      "description": "In this review I cover whether the SB200 is a worthwhile upgrade over the existing SB20, as well as ...",
-      "url": "https://www.dcrainmaker.com/2026/10/stages-bike-sb200-in-depth-review.html",
-      "publishedAt": "2026-10-05T14:37:30Z",
-      "processed_at": "2026-10-06T20:00:43.921525+00:00"
-    },
-    {
-      "title": "Zelda and Banjo Recompiled Devs Go To War With AI Vibe-Coded ‘Slopcomps’ - Kotaku",
+      "title": "Overwatch’s Latest China Exclusive Has Fans Ready To Crash Out: ‘I Still Don’t Know How People Defend Blizzard For This’ - Kotaku",
       "source": {
         "name": "Kotaku"
       },
-      "description": "AI-assisted projects provoking stark criticism...",
-      "url": "https://kotaku.com/zelda-and-banjo-recompiled-devs-go-to-war-with-ai-vibe-coded-slopcomps-2000739936",
-      "publishedAt": "2026-10-05T14:22:27Z",
-      "processed_at": "2026-10-06T20:00:43.921525+00:00"
+      "description": "Shion, Kiriko, Reaper, and more are the latest heroes to reap the benefits of Blizzard and NetEase’s...",
+      "url": "https://kotaku.com/overwatch-china-exclusive-shion-kiriko-reaper-dmon-2000740030",
+      "publishedAt": "2026-10-05T18:40:09Z",
+      "processed_at": "2026-10-07T00:24:42.002473+00:00"
     },
     {
-      "title": "Supermassive Games Layoffs Arrive With Over 70 People Let Go - Insider Gaming",
+      "title": "Windows malware uses Grok AI to help stay hidden, researchers say - Fox News",
       "source": {
-        "name": "Insider-gaming.com"
+        "name": "Fox News"
       },
-      "description": "More than 70 people have seemingly lost their jobs at Supermassive Games, as another batch of layoff...",
-      "url": "https://insider-gaming.com/supermassive-games-layoffs-arrive-with-over-70-people-let-go/",
-      "publishedAt": "2026-10-05T14:16:40Z",
-      "processed_at": "2026-10-06T20:00:43.921525+00:00"
+      "description": "x47.c Windows malware uses xAI's Grok to maintain persistence on infected PCs while stealing passwor...",
+      "url": "https://www.foxnews.com/tech/windows-malware-uses-grok-ai-help-stay-hidden-researchers-say",
+      "publishedAt": "2026-10-05T18:30:45Z",
+      "processed_at": "2026-10-07T00:24:42.002473+00:00"
+    },
+    {
+      "title": "Apple releases third iOS 27.2 developer beta for iPhone - 9to5Mac",
+      "source": {
+        "name": "9to5Mac"
+      },
+      "description": "Apple has released the third iOS 27.2 developer beta for iPhone. The update follows the release of i...",
+      "url": "https://9to5mac.com/2026/10/05/apple-releases-third-ios-27-2-developer-beta-for-iphone/",
+      "publishedAt": "2026-10-05T18:18:00Z",
+      "processed_at": "2026-10-07T00:24:42.002473+00:00"
+    },
+    {
+      "title": "At 19, founder raises $11M for Ghost, maker of a $3,499 computer for personal AI - TechCrunch",
+      "source": {
+        "name": "TechCrunch"
+      },
+      "description": "Ghost's first product is Core, a personal computer designed specifically for AI agents that can take...",
+      "url": "https://techcrunch.com/2026/10/05/at-19-ghost-founder-raises-11-million-to-build-a-3499-computer-for-your-personal-ai/",
+      "publishedAt": "2026-10-05T18:07:07Z",
+      "processed_at": "2026-10-07T00:24:42.002473+00:00"
+    },
+    {
+      "title": "Ninja Theory begins laying off staff, according to employee posts - GamesIndustry.biz",
+      "source": {
+        "name": "GamesIndustry.biz"
+      },
+      "description": "Ninja Theory has begun laying off employees....",
+      "url": "https://www.gamesindustry.biz/ninja-theory-begins-laying-off-staff-according-to-employee-posts",
+      "publishedAt": "2026-10-05T17:44:03Z",
+      "processed_at": "2026-10-07T00:24:42.002473+00:00"
+    },
+    {
+      "title": "Samsung One UI 9 Rollout: These Galaxy Phones Are Getting Android 17 - TechRepublic",
+      "source": {
+        "name": "TechRepublic"
+      },
+      "description": "Samsung’s One UI 9 rollout is expanding. See which Galaxy phones are getting Android 17, which devic...",
+      "url": "https://www.techrepublic.com/article/news-samsung-one-ui-9-android-17-galaxy-phones/",
+      "publishedAt": "2026-10-05T17:22:04Z",
+      "processed_at": "2026-10-07T00:24:42.002473+00:00"
+    },
+    {
+      "title": "Apple notifies Apple Cash users about two upcoming changes - 9to5Mac",
+      "source": {
+        "name": "9to5Mac"
+      },
+      "description": "Apple Cash’s terms and conditions have just been updated, and Apple is notifying users about two upc...",
+      "url": "https://9to5mac.com/2026/10/05/apple-notifies-apple-cash-users-about-two-upcoming-changes/",
+      "publishedAt": "2026-10-05T17:14:00Z",
+      "processed_at": "2026-10-07T00:24:42.002473+00:00"
     }
   ],
-  "lastUpdated": "2026-10-06T20:00:43.921603+00:00",
+  "lastUpdated": "2026-10-07T00:24:42.002542+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
