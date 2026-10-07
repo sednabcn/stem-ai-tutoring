@@ -1,99 +1,109 @@
 {
   "status": "success",
-  "totalResults": 9,
+  "totalResults": 10,
   "articles": [
     {
-      "title": "Command-line tool quickly removes Apple Intelligence from macOS 27 - Ars Technica",
+      "title": "Nintendo Releases 'Hello, Peach!' And 'Hello, Luigi!' App For Switch & Mobile Devices - Nintendo Life",
       "source": {
-        "name": "Ars Technica"
+        "name": "Nintendo Life"
       },
-      "description": "The tool can free up over 12GB of storage....",
-      "url": "https://arstechnica.com/apple/2026/10/command-line-tool-quickly-removes-apple-intelligence-from-macos-27/",
-      "publishedAt": "2026-10-05T19:14:44Z",
-      "processed_at": "2026-10-07T00:24:42.002473+00:00"
+      "description": "It's also revealed a 'My Mario' Melody Car...",
+      "url": "https://www.nintendolife.com/news/2026/10/nintendo-releases-hello-peach-and-hello-luigi-app-for-switch-and-mobile-devices",
+      "publishedAt": "2026-10-06T01:55:00Z",
+      "processed_at": "2026-10-07T06:55:06.466461+00:00"
     },
     {
-      "title": "Secret Lair Heads South with Festival in a Box: Atlanta 2026 and Mystery Booster Commander Edition - Magic: The Gathering",
+      "title": "NYT Strands hints, answers for October 5, 2026 - Mashable",
       "source": {
-        "name": "Wizards.com"
+        "name": "Mashable"
       },
-      "description": "Bolster your collection with Mystery Booster Commander Edition, a sweet new drop, and cool promos fr...",
-      "url": "https://magic.wizards.com/en/news/announcements/secret-lair-heads-south-with-festival-in-a-box-atlanta-2026-and-mystery-booster-commander-edition",
-      "publishedAt": "2026-10-05T18:57:05Z",
-      "processed_at": "2026-10-07T00:24:42.002473+00:00"
+      "description": "Every hint, nudge and outright answer you need to complete today's NYT Strands puzzle....",
+      "url": "https://mashable.com/entertainment/strands-nyt-hint-october-5-2026",
+      "publishedAt": "2026-10-06T00:08:40Z",
+      "processed_at": "2026-10-07T06:55:06.466461+00:00"
     },
     {
-      "title": "Overwatch’s Latest China Exclusive Has Fans Ready To Crash Out: ‘I Still Don’t Know How People Defend Blizzard For This’ - Kotaku",
+      "title": "Apple iPhone 18 Pro Max vs. iPhone 17 Pro Max - gsmarena.com",
+      "source": {
+        "name": "GSMArena.com"
+      },
+      "description": "We pit the new and the old iPhone Pro Max. The new iPhone hit the shelves and the first order of bus...",
+      "url": "https://www.gsmarena.com/iphone_18_pro_max_vs_iphone_17_pro_max_battery_camera_price_compared-news-74787.php",
+      "publishedAt": "2026-10-05T23:31:02Z",
+      "processed_at": "2026-10-07T06:55:06.466461+00:00"
+    },
+    {
+      "title": "Gemini Call for Me might tell your mom you’re running late - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "Google could be planning to expand its Gemini Calling feature so you can send automated phone calls ...",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1005177/google-gemini-call-for-me-expansion-rumors",
+      "publishedAt": "2026-10-05T23:09:55Z",
+      "processed_at": "2026-10-07T06:55:06.466461+00:00"
+    },
+    {
+      "title": "Supermassive Lays Off 70 People Less Than Six Months After Releasing Its New Sci-Fi Horror Game - Kotaku",
       "source": {
         "name": "Kotaku"
       },
-      "description": "Shion, Kiriko, Reaper, and more are the latest heroes to reap the benefits of Blizzard and NetEase’s...",
-      "url": "https://kotaku.com/overwatch-china-exclusive-shion-kiriko-reaper-dmon-2000740030",
-      "publishedAt": "2026-10-05T18:40:09Z",
-      "processed_at": "2026-10-07T00:24:42.002473+00:00"
+      "description": "Directive 8020 was met with mixed reviews on Steam...",
+      "url": "https://kotaku.com/supermassive-lays-off-70-people-less-than-six-months-after-releasing-its-new-sci-fi-horror-game-2000740078",
+      "publishedAt": "2026-10-05T21:46:42Z",
+      "processed_at": "2026-10-07T06:55:06.466461+00:00"
     },
     {
-      "title": "Windows malware uses Grok AI to help stay hidden, researchers say - Fox News",
+      "title": "What’s new in Android’s October 2026 Google System Updates - 9to5Google",
       "source": {
-        "name": "Fox News"
+        "name": "9to5google.com"
       },
-      "description": "x47.c Windows malware uses xAI's Grok to maintain persistence on infected PCs while stealing passwor...",
-      "url": "https://www.foxnews.com/tech/windows-malware-uses-grok-ai-help-stay-hidden-researchers-say",
-      "publishedAt": "2026-10-05T18:30:45Z",
-      "processed_at": "2026-10-07T00:24:42.002473+00:00"
+      "description": "The monthly “Google System Release Notes” primarily detail what’s new in Play services, Play Store, ...",
+      "url": "http://9to5google.com/2026/10/05/october-2026-google-system-updates/",
+      "publishedAt": "2026-10-05T21:17:00Z",
+      "processed_at": "2026-10-07T06:55:06.466461+00:00"
     },
     {
-      "title": "Apple releases third iOS 27.2 developer beta for iPhone - 9to5Mac",
+      "title": "macOS 27.2 Adds Touch Gestures Ahead of MacBook Ultra - MacRumors",
       "source": {
-        "name": "9to5Mac"
+        "name": "MacRumors"
       },
-      "description": "Apple has released the third iOS 27.2 developer beta for iPhone. The update follows the release of i...",
-      "url": "https://9to5mac.com/2026/10/05/apple-releases-third-ios-27-2-developer-beta-for-iphone/",
-      "publishedAt": "2026-10-05T18:18:00Z",
-      "processed_at": "2026-10-07T00:24:42.002473+00:00"
+      "description": "macOS Golden Gate 27.2 adds code referencing new touch-specific gestures in apps like Safari, Notes,...",
+      "url": "https://www.macrumors.com/2026/10/05/macos-27-2-touch-gestures/",
+      "publishedAt": "2026-10-05T21:14:08Z",
+      "processed_at": "2026-10-07T06:55:06.466461+00:00"
     },
     {
-      "title": "At 19, founder raises $11M for Ghost, maker of a $3,499 computer for personal AI - TechCrunch",
+      "title": "Call of Duty: Modern Warfare 4's Ambitious Extraction Mode, DMZ, Gets Major Deep Dive - IGN",
       "source": {
-        "name": "TechCrunch"
+        "name": "IGN"
       },
-      "description": "Ghost's first product is Core, a personal computer designed specifically for AI agents that can take...",
-      "url": "https://techcrunch.com/2026/10/05/at-19-ghost-founder-raises-11-million-to-build-a-3499-computer-for-your-personal-ai/",
-      "publishedAt": "2026-10-05T18:07:07Z",
-      "processed_at": "2026-10-07T00:24:42.002473+00:00"
+      "description": "Call of Duty: Modern Warfare 4's ambitious new extraction mode, DMZ, has gotten a massive deep dive ...",
+      "url": "https://www.ign.com/articles/infinity-ward-details-call-of-duty-modern-warfare-4s-extraction-mode-dmz",
+      "publishedAt": "2026-10-05T20:52:18Z",
+      "processed_at": "2026-10-07T06:55:06.466461+00:00"
     },
     {
-      "title": "Ninja Theory begins laying off staff, according to employee posts - GamesIndustry.biz",
+      "title": "Hello from Seattle: XBOX FanFest Comes Home November 12 - news.xbox.com",
       "source": {
-        "name": "GamesIndustry.biz"
+        "name": "Xbox.com"
       },
-      "description": "Ninja Theory has begun laying off employees....",
-      "url": "https://www.gamesindustry.biz/ninja-theory-begins-laying-off-staff-according-to-employee-posts",
-      "publishedAt": "2026-10-05T17:44:03Z",
-      "processed_at": "2026-10-07T00:24:42.002473+00:00"
+      "description": "Seattle, we’re coming home. XBOX FanFest is coming on Thursday, November 12, 2026 - find out what to...",
+      "url": "https://news.xbox.com/en-us/2026/10/05/xbox-fanfest-seattle-25th-anniversary/",
+      "publishedAt": "2026-10-05T20:26:15Z",
+      "processed_at": "2026-10-07T06:55:06.466461+00:00"
     },
     {
-      "title": "Samsung One UI 9 Rollout: These Galaxy Phones Are Getting Android 17 - TechRepublic",
+      "title": "GTA 6 devs tried \"not to jump on the bandwagon\" of passing trends and instead created their \"own slanted, overblown versions\" - Eurogamer.net",
       "source": {
-        "name": "TechRepublic"
+        "name": "Eurogamer.net"
       },
-      "description": "Samsung’s One UI 9 rollout is expanding. See which Galaxy phones are getting Android 17, which devic...",
-      "url": "https://www.techrepublic.com/article/news-samsung-one-ui-9-android-17-galaxy-phones/",
-      "publishedAt": "2026-10-05T17:22:04Z",
-      "processed_at": "2026-10-07T00:24:42.002473+00:00"
-    },
-    {
-      "title": "Apple notifies Apple Cash users about two upcoming changes - 9to5Mac",
-      "source": {
-        "name": "9to5Mac"
-      },
-      "description": "Apple Cash’s terms and conditions have just been updated, and Apple is notifying users about two upc...",
-      "url": "https://9to5mac.com/2026/10/05/apple-notifies-apple-cash-users-about-two-upcoming-changes/",
-      "publishedAt": "2026-10-05T17:14:00Z",
-      "processed_at": "2026-10-07T00:24:42.002473+00:00"
+      "description": "Grand Theft Auto 6 developers knew development would take \"years and years,\" so avoiding trends was ...",
+      "url": "https://www.eurogamer.net/gta-6-devs-bandwagon-trends-created-slanted-versions",
+      "publishedAt": "2026-10-05T20:14:26Z",
+      "processed_at": "2026-10-07T06:55:06.466461+00:00"
     }
   ],
-  "lastUpdated": "2026-10-07T00:24:42.002542+00:00",
+  "lastUpdated": "2026-10-07T06:55:06.466526+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
