@@ -1,7 +1,57 @@
 {
   "status": "success",
-  "totalResults": 10,
+  "totalResults": 9,
   "articles": [
+    {
+      "title": "Konami Announces The Composer For Castlevania: Belmont's Curse - Nintendo Life",
+      "source": {
+        "name": "Nintendo Life"
+      },
+      "description": "From the talent behind the Rogue Prince of Persia soundtrack...",
+      "url": "https://www.nintendolife.com/news/2026/10/konami-announces-the-composer-for-castlevania-belmonts-curse",
+      "publishedAt": "2026-10-07T02:15:00Z",
+      "processed_at": "2026-10-08T07:02:47.915876+00:00"
+    },
+    {
+      "title": "Prime Day Mac deals: New Mac mini $150 off, MacBook Air $200 off, much more - 9to5Mac",
+      "source": {
+        "name": "9to5Mac"
+      },
+      "description": "Update, October 6, 5:09 p.m. PT: Amazon has slashed prices of the new Mac mini even lower as the Pri...",
+      "url": "https://9to5mac.com/2026/10/06/prime-day-mac-deals-start-early-new-mac-mini-150-off-macbook-air-200-off-much-more/",
+      "publishedAt": "2026-10-07T00:15:00Z",
+      "processed_at": "2026-10-08T07:02:47.915876+00:00"
+    },
+    {
+      "title": "EB Games Is Opening North America's First-Ever Nintendo \"Store-Within-A-Store\" Experience - Nintendo Life",
+      "source": {
+        "name": "Nintendo Life"
+      },
+      "description": "A \"new permanent Nintendo space\" arrives later this month...",
+      "url": "https://www.nintendolife.com/news/2026/10/eb-games-is-opening-north-americas-first-ever-nintendo-store-within-a-store-experience",
+      "publishedAt": "2026-10-07T00:15:00Z",
+      "processed_at": "2026-10-08T07:02:47.915876+00:00"
+    },
+    {
+      "title": "Amazon's Board Game Sale Kicks Off Early With a Ton of Classics Discounted for Prime Big Deal Days - IGN",
+      "source": {
+        "name": "IGN"
+      },
+      "description": "",
+      "url": "https://www.ign.com/articles/best-board-game-deals-amazon-october-prime-day-2026",
+      "publishedAt": "2026-10-06T23:17:30Z",
+      "processed_at": "2026-10-08T07:02:47.915876+00:00"
+    },
+    {
+      "title": "Braid-creator Jonathan Blow on making the 'biggest puzzle game ever' - BBC",
+      "source": {
+        "name": "BBC News"
+      },
+      "description": "Order of the Sinking Star is due out on Thursday and has roughly 1,500 puzzles for players to try...",
+      "url": "https://www.bbc.com/news/articles/cj3vqxldglepo",
+      "publishedAt": "2026-10-06T23:01:22Z",
+      "processed_at": "2026-10-08T07:02:47.915876+00:00"
+    },
     {
       "title": "Xbox has secured exclusive GTA 6 streaming rights - The Verge",
       "source": {
@@ -10,27 +60,27 @@
       "description": "The streaming rights come in November, when Microsoft is opening up access to Xbox Cloud Gaming....",
       "url": "https://www.theverge.com/report/1005859/microsoft-xbox-gta-6-streaming-rights",
       "publishedAt": "2026-10-06T22:12:27Z",
-      "processed_at": "2026-10-08T00:45:10.851364+00:00"
+      "processed_at": "2026-10-08T07:02:47.915876+00:00"
     },
     {
-      "title": "Apple’s Smart Home Push Includes Doorbell, Lock, Thermostat Codeveloped With LG - Bloomberg.com",
+      "title": "Fall's first Pixel update just landed, and it's another end-of-the-road milestone - Android Authority",
+      "source": {
+        "name": "Android Authority"
+      },
+      "description": "Discover what's getting fixed in the October 2026 Pixel update, and which phones are about to get le...",
+      "url": "https://www.androidauthority.com/october-2026-pixel-update-3719826/",
+      "publishedAt": "2026-10-06T21:17:00Z",
+      "processed_at": "2026-10-08T07:02:47.915876+00:00"
+    },
+    {
+      "title": "Apple to Launch Doorbell, Lock, Thermostat Developed With LG - Bloomberg.com",
       "source": {
         "name": "Bloomberg"
       },
-      "description": "Apple Inc.’s upcoming push into smart home devices will include a doorbell, thermostat and other acc...",
+      "description": "",
       "url": "https://www.bloomberg.com/news/articles/2026-10-06/apple-s-smart-home-push-includes-doorbell-lock-thermostat-codeveloped-with-lg",
       "publishedAt": "2026-10-06T21:07:43Z",
-      "processed_at": "2026-10-08T00:45:10.851364+00:00"
-    },
-    {
-      "title": "This popular buffet chain may be headed back to California - KTLA",
-      "source": {
-        "name": "KTLA Los Angeles"
-      },
-      "description": "Californians, get your buffet trays ready. Souplantation, which famously offered an all-you-can-eat ...",
-      "url": "https://ktla.com/news/california/this-popular-buffet-chain-may-be-headed-back-to-california/",
-      "publishedAt": "2026-10-06T20:59:32Z",
-      "processed_at": "2026-10-08T00:45:10.851364+00:00"
+      "processed_at": "2026-10-08T07:02:47.915876+00:00"
     },
     {
       "title": "Google rolling out ‘massive’ Pixel Buds Pro, Pro 2, and 2a update - 9to5Google",
@@ -40,70 +90,10 @@
       "description": "Following last month's addition of Gemini control, Google is rolling out a sizable Pixel Buds Pro, P...",
       "url": "http://9to5google.com/2026/10/06/pixel-buds-pro-update-oct-2026/",
       "publishedAt": "2026-10-06T20:11:00Z",
-      "processed_at": "2026-10-08T00:45:10.851364+00:00"
-    },
-    {
-      "title": "Three Years of 80% Charge Limits on iPhone: The Results - MacRumors",
-      "source": {
-        "name": "MacRumors"
-      },
-      "description": "Since 2023, Apple's newer iPhones have had an 80 percent charge limit for those who want to extend b...",
-      "url": "https://www.macrumors.com/2026/10/06/iphone-17-pro-charge-limit/",
-      "publishedAt": "2026-10-06T19:59:42Z",
-      "processed_at": "2026-10-08T00:45:10.851364+00:00"
-    },
-    {
-      "title": "The hotel TV privacy mistake that can follow you home - Fox News",
-      "source": {
-        "name": "Fox News"
-      },
-      "description": "Hotel TV privacy risks go beyond forgotten passwords when you sign into Netflix or other streaming a...",
-      "url": "https://www.foxnews.com/tech/hotel-tv-privacy-mistake-follow-you-home",
-      "publishedAt": "2026-10-06T19:00:10Z",
-      "processed_at": "2026-10-08T00:45:10.851364+00:00"
-    },
-    {
-      "title": "Apple killed the Mac mini’s best hidden feature [Video] - 9to5Mac",
-      "source": {
-        "name": "9to5Mac"
-      },
-      "description": "With the release of the M6 Mac mini and its more powerful M5 Pro counterpart, Apple quietly killed o...",
-      "url": "https://9to5mac.com/2026/10/06/apple-killed-the-mac-minis-best-hidden-feature-video/",
-      "publishedAt": "2026-10-06T18:44:00Z",
-      "processed_at": "2026-10-08T00:45:10.851364+00:00"
-    },
-    {
-      "title": "Deals: Prime Big Deal Days brings big discounts on flagships, foldables and other phones - GSMArena.com news - GSMArena.com",
-      "source": {
-        "name": "GSMArena.com"
-      },
-      "description": "We also picked out the best offers for premium, mid-range and entry-level phones. Amazon’s Prime Big...",
-      "url": "https://www.gsmarena.com/deals_prime_big_deal_days_brings_big_discounts_on_flagships_foldables_and_other_phones-news-74930.php",
-      "publishedAt": "2026-10-06T18:31:02Z",
-      "processed_at": "2026-10-08T00:45:10.851364+00:00"
-    },
-    {
-      "title": "Android 17 October update rolling out with three Pixel fixes - 9to5Google",
-      "source": {
-        "name": "9to5google.com"
-      },
-      "description": "Google is rolling out the October 2026 security patch for Android 17 on the Pixel 10, Pixel 11 Pro, ...",
-      "url": "http://9to5google.com/2026/10/06/android-17-october-pixel-update/",
-      "publishedAt": "2026-10-06T18:08:00Z",
-      "processed_at": "2026-10-08T00:45:10.851364+00:00"
-    },
-    {
-      "title": "Razer’s Wolverine V4 Controller Is Overkill For Most Gamers, And That’s The Point - GameSpot",
-      "source": {
-        "name": "GameSpot"
-      },
-      "description": "Unless you're an esports pro, Razer's new Wolverine V4 controller is probably more controller than y...",
-      "url": "https://www.gamespot.com/articles/razers-wolverine-v4-controller-is-overkill-for-most-gamers-and-thats-the-point/",
-      "publishedAt": "2026-10-06T17:49:46Z",
-      "processed_at": "2026-10-08T00:45:10.851364+00:00"
+      "processed_at": "2026-10-08T07:02:47.915876+00:00"
     }
   ],
-  "lastUpdated": "2026-10-08T00:45:10.851451+00:00",
+  "lastUpdated": "2026-10-08T07:02:47.915949+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
