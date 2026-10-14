@@ -3,6 +3,36 @@
   "totalResults": 10,
   "articles": [
     {
+      "title": "Fortnite-maker Epic Games confirms 'huge pivot' towards using AI - BBC",
+      "source": {
+        "name": "BBC News"
+      },
+      "description": "The US firm's boss responds to critics, saying \"much of the room wants it to be 2016, but it's not\"....",
+      "url": "https://www.bbc.com/news/articles/cvj6j812dg4no",
+      "publishedAt": "2026-10-13T10:20:08Z",
+      "processed_at": "2026-10-14T13:23:16.601285+00:00"
+    },
+    {
+      "title": "Adobe software dupe maker takes on Microsoft Office, releasing free versions of Word, Powerpoint, and Excel - Mashable",
+      "source": {
+        "name": "Mashable"
+      },
+      "description": "AI vibecoded apps are challenging big legacy software....",
+      "url": "https://mashable.com/tech/adobe-creative-suite-clone-app-maker-takes-on-microsoft-office",
+      "publishedAt": "2026-10-13T08:54:12Z",
+      "processed_at": "2026-10-14T13:23:16.601285+00:00"
+    },
+    {
+      "title": "\"I was forced to ship the game\" - Glen Schofield blames Krafton management for The Callisto Protocol's problems - Eurogamer.net",
+      "source": {
+        "name": "Eurogamer.net"
+      },
+      "description": "PUBG company Krafton was allegedly not ready to enter a single-player game space, and The Callisto P...",
+      "url": "https://www.eurogamer.net/glen-schofield-the-callisto-protocol-krafton-problems",
+      "publishedAt": "2026-10-13T08:40:04Z",
+      "processed_at": "2026-10-14T13:23:16.601285+00:00"
+    },
+    {
       "title": "Cyberleek drops more NSFW Lucia videos, threatens to release 'GTA 6' in full - Mashable",
       "source": {
         "name": "Mashable"
@@ -10,17 +40,27 @@
       "description": "Only about a month until the game is out....",
       "url": "https://mashable.com/entertainment/gta-grand-theft-auto-6-cyberleek-lucia-leaked-gameplay-videos",
       "publishedAt": "2026-10-13T02:52:46Z",
-      "processed_at": "2026-10-14T07:13:06.807795+00:00"
+      "processed_at": "2026-10-14T13:23:16.601285+00:00"
     },
     {
-      "title": "PS5 Digital Edition Midnight Black Japan-only model launches November 19 - Gematsu",
+      "title": "Googlebook gets a Linux terminal to help users build apps with AI - Android Authority",
       "source": {
-        "name": "Gematsu"
+        "name": "Android Authority"
       },
-      "description": "Sony Interactive Entertainment Japan Asia will release “PlayStation 5 Digital Edition Midnight Black...",
-      "url": "https://www.gematsu.com/2026/10/ps5-digital-edition-midnight-black-japan-only-model-launches-november-19",
-      "publishedAt": "2026-10-13T01:24:38Z",
-      "processed_at": "2026-10-14T07:13:06.807795+00:00"
+      "description": "Googlebooks are getting a Linux terminal, giving users access to a virtual Linux environment for dev...",
+      "url": "https://www.androidauthority.com/googlebook-linux-terminal-3722360/",
+      "publishedAt": "2026-10-13T02:47:00Z",
+      "processed_at": "2026-10-14T13:23:16.601285+00:00"
+    },
+    {
+      "title": "The iPhone Duo’s cooling system hides a clever trick inside its hinge - 9to5Mac",
+      "source": {
+        "name": "9to5Mac"
+      },
+      "description": "While a folding iPhone posed a new challenge for Apple’s thermal engineering team, they came up with...",
+      "url": "https://9to5mac.com/2026/10/12/the-iphone-duos-cooling-system-hides-a-clever-trick-inside-its-hinge/",
+      "publishedAt": "2026-10-13T01:34:00Z",
+      "processed_at": "2026-10-14T13:23:16.601285+00:00"
     },
     {
       "title": "Quickly Sharpen Your Chainsaw Blade Efficiently With A Portable Amazon Find - House Digest",
@@ -30,7 +70,7 @@
       "description": "Quickly sharpen your chainsaw blade efficiently with the Tarist 6-Piece Chainsaw File Set on Amazon,...",
       "url": "https://www.housedigest.com/2281828/quickly-sharpen-your-chainsaw-blade-efficiently-portable-amazon-find/",
       "publishedAt": "2026-10-12T23:40:00Z",
-      "processed_at": "2026-10-14T07:13:06.807795+00:00"
+      "processed_at": "2026-10-14T13:23:16.601285+00:00"
     },
     {
       "title": "Apple ‘Welcome home’ event: Three new products are coming tomorrow - 9to5Mac",
@@ -40,7 +80,17 @@
       "description": "Apple’s ‘Welcome home’ event is October 13. Here’s what to expect, including the HomeView smart hub,...",
       "url": "https://9to5mac.com/2026/10/12/apple-welcome-home-event-three-new-products/",
       "publishedAt": "2026-10-12T23:39:00Z",
-      "processed_at": "2026-10-14T07:13:06.807795+00:00"
+      "processed_at": "2026-10-14T13:23:16.601285+00:00"
+    },
+    {
+      "title": "AMD releases powerful new mini-PC with 160 GB VRAM, 10 GbE and AMD Gorgon Halo - Notebookcheck",
+      "source": {
+        "name": "Notebookcheck.net"
+      },
+      "description": "AMD has released a new mini-PC in the US. Arriving in the wake of recent Nvidia RTX Spark announceme...",
+      "url": "https://www.notebookcheck.net/AMD-releases-powerful-new-mini-PC-with-160-GB-VRAM-10-GbE-and-AMD-Gorgon-Halo.1422345.0.html",
+      "publishedAt": "2026-10-12T23:20:00Z",
+      "processed_at": "2026-10-14T13:23:16.601285+00:00"
     },
     {
       "title": "Apple’s new ‘Switch to Safari’ campaign details why you should ditch Chrome - 9to5Mac",
@@ -50,60 +100,10 @@
       "description": "Apple is kicking off a new campaign today to promote Safari’s benefits over Chrome. With a new “Swit...",
       "url": "https://9to5mac.com/2026/10/12/apples-new-switch-to-safari-campaign-details-why-you-should-ditch-chrome/",
       "publishedAt": "2026-10-12T21:50:00Z",
-      "processed_at": "2026-10-14T07:13:06.807795+00:00"
-    },
-    {
-      "title": "Elon Musk's Wario SNL Skit Reportedly Made Nintendo Uncomfortable - IGN",
-      "source": {
-        "name": "IGN"
-      },
-      "description": "Nintendo was reportedly unhappy with Elon Musk's 2021 Saturday Night Live sketch where he played War...",
-      "url": "https://www.ign.com/articles/nintendo-was-reportedly-unhappy-with-elon-musks-saturday-night-live-wario-sketch",
-      "publishedAt": "2026-10-12T21:29:00Z",
-      "processed_at": "2026-10-14T07:13:06.807795+00:00"
-    },
-    {
-      "title": "AI is the prime suspect in the PS5 jailbreak surge - Mashable",
-      "source": {
-        "name": "Mashable"
-      },
-      "description": "Console hacking and game decompiling are moving faster than ever....",
-      "url": "https://mashable.com/tech/ps5-jailbreaks-flooding-in-thanks-to-ai",
-      "publishedAt": "2026-10-12T20:59:46Z",
-      "processed_at": "2026-10-14T07:13:06.807795+00:00"
-    },
-    {
-      "title": "After a 10-year redemption arc, No Man’s Sky is coming to the iPhone and iPad - Ars Technica",
-      "source": {
-        "name": "Ars Technica"
-      },
-      "description": "You can get a universe in your pocket if you have an iPhone 11 or later....",
-      "url": "https://arstechnica.com/gaming/2026/10/after-a-10-year-redemption-arc-no-mans-sky-is-coming-to-the-iphone-and-ipad/",
-      "publishedAt": "2026-10-12T20:26:14Z",
-      "processed_at": "2026-10-14T07:13:06.807795+00:00"
-    },
-    {
-      "title": "Foldable iPhone sales are reportedly going to be riddled with problems - PhoneArena",
-      "source": {
-        "name": "PhoneArena"
-      },
-      "description": "",
-      "url": "https://www.phonearena.com/news/foldable-iphone-sales-are-reportedly-going-to-be-riddled-with-problems_id184013",
-      "publishedAt": "2026-10-12T20:19:23Z",
-      "processed_at": "2026-10-14T07:13:06.807795+00:00"
-    },
-    {
-      "title": "Epic Games delays Disney game and tells developers to go \"AI first\" - GamesIndustry.biz",
-      "source": {
-        "name": "GamesIndustry.biz"
-      },
-      "description": "Epic Games has delayed its upcoming Disney collaboration - a shooter featuring characters from the M...",
-      "url": "https://www.gamesindustry.biz/epic-games-delays-disney-game-and-tells-developers-to-go-ai-first",
-      "publishedAt": "2026-10-12T19:54:58Z",
-      "processed_at": "2026-10-14T07:13:06.807795+00:00"
+      "processed_at": "2026-10-14T13:23:16.601285+00:00"
     }
   ],
-  "lastUpdated": "2026-10-14T07:13:06.807873+00:00",
+  "lastUpdated": "2026-10-14T13:23:16.601364+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
