@@ -1,99 +1,79 @@
 {
   "status": "success",
-  "totalResults": 9,
+  "totalResults": 7,
   "articles": [
     {
-      "title": "EXCLUSIVE: EA Sports College Football’s Future in Jeopardy, Sources Fear - Insider Gaming",
+      "title": "iOS 27.2 adds new app icon for Apple Music, more design updates - 9to5Mac",
       "source": {
-        "name": "Insider-gaming.com"
+        "name": "9to5Mac"
       },
-      "description": "EA Sports College Football faces rising NIL costs and monetization concerns, with sources fearing th...",
-      "url": "https://insider-gaming.com/ea-sports-college-football-future/",
-      "publishedAt": "2026-10-13T16:17:15Z",
-      "processed_at": "2026-10-14T18:21:24.261091+00:00"
+      "description": "iOS 27.2 beta 4 debuted today for developers, and the update includes a new app icon for Apple Music...",
+      "url": "https://9to5mac.com/2026/10/13/ios-27-2-adds-new-app-icon-for-apple-music-more-design-updates/",
+      "publishedAt": "2026-10-13T19:06:00Z",
+      "processed_at": "2026-10-14T22:05:50.337973+00:00"
     },
     {
-      "title": "New GTA 6 Cyberleek video has story clips, gameplay footage, and one very NSFW detail - Mashable",
+      "title": "Xbox announces Xbox Labs, a new initiative to trial emerging ideas and \"new technology\" - GamesIndustry.biz",
+      "source": {
+        "name": "GamesIndustry.biz"
+      },
+      "description": "New business unit is charged with testing new projects and judging them by user feedback...",
+      "url": "https://www.gamesindustry.biz/xbox-announces-xbox-labs-a-new-initiative-to-trial-emerging-ideas-and-new-technology",
+      "publishedAt": "2026-10-13T19:00:00Z",
+      "processed_at": "2026-10-14T22:05:50.337973+00:00"
+    },
+    {
+      "title": "iOS 27.2 beta 4 no longer includes Apple’s overhauled Health app - 9to5Mac",
+      "source": {
+        "name": "9to5Mac"
+      },
+      "description": "An overhauled Apple Health app is coming, but it looks like iOS 27.2 won’t include it. Apple first a...",
+      "url": "https://9to5mac.com/2026/10/13/ios-27-2-beta-4-no-longer-includes-apples-overhauled-health-app/",
+      "publishedAt": "2026-10-13T18:57:00Z",
+      "processed_at": "2026-10-14T22:05:50.337973+00:00"
+    },
+    {
+      "title": "Apple's HomePod mini 2 is here with Siri AI, new colors and improved sound - GSMArena.com news - GSMArena.com",
+      "source": {
+        "name": "GSMArena.com"
+      },
+      "description": "The smart speaker is priced at $149. Alongside the new Apple HomeView, upgraded Apple TV 4K, and App...",
+      "url": "https://www.gsmarena.com/apples_homepod_mini_2_is_here_with_siri_ai_new_colors_and_improved_sound-news-75028.php",
+      "publishedAt": "2026-10-13T18:31:02Z",
+      "processed_at": "2026-10-14T22:05:50.337973+00:00"
+    },
+    {
+      "title": "Report indicates 'GTA 6' launching on PC in early 2027 - Mashable",
       "source": {
         "name": "Mashable"
       },
-      "description": "We're not joking about the NSFW part....",
-      "url": "https://mashable.com/entertainment/gta-grand-theft-auto-6-cyberleek-returns-24-minute-video",
-      "publishedAt": "2026-10-13T15:53:51Z",
-      "processed_at": "2026-10-14T18:21:24.261091+00:00"
+      "description": "That's sooner than expected....",
+      "url": "https://mashable.com/entertainment/gta-grand-theft-auto-6-pc-release-date-2027",
+      "publishedAt": "2026-10-13T18:23:45Z",
+      "processed_at": "2026-10-14T22:05:50.337973+00:00"
     },
     {
-      "title": "\"That was not received well at Nintendo\" - as GTA 6 and Zelda are lampooned by Saturday Night Live, former employees recall Elon Musk Wario skit controversy - Eurogamer.net",
+      "title": "AI Designs Computer Chips We Can’t Understand — But They Seem to Work Really Well - ZME Science",
       "source": {
-        "name": "Eurogamer.net"
+        "name": "ZME Science"
       },
-      "description": "As American comedy series Saturday Night Live airs a sketch lampooning the November showdown between...",
-      "url": "https://www.eurogamer.net/snl-elon-musk-wario-skit-zelda-gta-6",
-      "publishedAt": "2026-10-13T15:33:54Z",
-      "processed_at": "2026-10-14T18:21:24.261091+00:00"
+      "description": "Can we trust systems we don’t fully understand?...",
+      "url": "https://www.zmescience.com/science/computer-chips-made-by-ai-rep/",
+      "publishedAt": "2026-10-13T17:52:46Z",
+      "processed_at": "2026-10-14T22:05:50.337973+00:00"
     },
     {
-      "title": "Grand Theft Auto's Iconic Cover Design Only Exists Because Of 9/11 And Was Created At The Last Minute - Kotaku",
-      "source": {
-        "name": "Kotaku"
-      },
-      "description": "The franchise's famous cover layout was apparently designed in about 48 hours...",
-      "url": "https://kotaku.com/grand-theft-autos-iconic-cover-design-only-exists-because-of-9-11-and-was-created-at-the-last-minute-2000745275",
-      "publishedAt": "2026-10-13T15:00:02Z",
-      "processed_at": "2026-10-14T18:21:24.261091+00:00"
-    },
-    {
-      "title": "Inside the iPhone Duo and 18 Pro Cooling System: Apple Engineers Reveal a Simple Trick - PCMag",
-      "source": {
-        "name": "PCMag.com"
-      },
-      "description": "In an exclusive interview with PCMag, Apple’s silicon and thermal teams explain the engineering that...",
-      "url": "https://www.pcmag.com/news/exclusive-iphone-duo-18-pro-cooling-system-apple-engineers-reveal-trick",
-      "publishedAt": "2026-10-13T14:54:19Z",
-      "processed_at": "2026-10-14T18:21:24.261091+00:00"
-    },
-    {
-      "title": "The ‘GTA 6’ PC Release Date Window Revealed, Says New Report - Forbes",
-      "source": {
-        "name": "Forbes"
-      },
-      "description": "GTA 6 is coming to PC after it hits consoles, but we have a new release date window according to a r...",
-      "url": "https://www.forbes.com/sites/paultassi/2026/10/13/the-gta-6-pc-release-date-window-revealed-says-new-report/",
-      "publishedAt": "2026-10-13T14:19:41Z",
-      "processed_at": "2026-10-14T18:21:24.261091+00:00"
-    },
-    {
-      "title": "Apple’s new smart home line-up includes a smart lock, thermostat and video doorbells - TechCrunch",
+      "title": "Google Play now lets anyone build private, vibe-coded apps that run on Android - TechCrunch",
       "source": {
         "name": "TechCrunch"
       },
-      "description": "The new devices work with HomeView, the company's new smart home hub which can be used to control ac...",
-      "url": "https://techcrunch.com/2026/10/13/apples-new-smart-home-line-up-includes-a-smart-lock-thermostat-and-video-doorbells/",
-      "publishedAt": "2026-10-13T13:37:19Z",
-      "processed_at": "2026-10-14T18:21:24.261091+00:00"
-    },
-    {
-      "title": "Apple releases HomeView smart home hub with screen as showcase for Siri AI - CNBC",
-      "source": {
-        "name": "CNBC"
-      },
-      "description": "The iPhone maker also announced the new Apple TV 4K and HomePod Mini....",
-      "url": "https://www.cnbc.com/2026/10/13/apple-homeview-smart-home-siri-ai.html",
-      "publishedAt": "2026-10-13T13:34:13Z",
-      "processed_at": "2026-10-14T18:21:24.261091+00:00"
-    },
-    {
-      "title": "Apple launches a new Apple TV 4K with Siri AI and remote-free voice commands - TechCrunch",
-      "source": {
-        "name": "TechCrunch"
-      },
-      "description": "The new Apple TV 4K costs $299, comes with Siri AI, and will be available on November 13....",
-      "url": "https://techcrunch.com/2026/10/13/apple-launches-a-new-apple-tv-4k-with-siri-ai-and-remote-free-commands/",
-      "publishedAt": "2026-10-13T13:16:11Z",
-      "processed_at": "2026-10-14T18:21:24.261091+00:00"
+      "description": "Google is making it easier to build and use personal Android apps created with AI, without having to...",
+      "url": "https://techcrunch.com/2026/10/13/google-play-now-supports-private-vibe-coded-apps-built-just-for-you/",
+      "publishedAt": "2026-10-13T17:00:00Z",
+      "processed_at": "2026-10-14T22:05:50.337973+00:00"
     }
   ],
-  "lastUpdated": "2026-10-14T18:21:24.261165+00:00",
+  "lastUpdated": "2026-10-14T22:05:50.338048+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
