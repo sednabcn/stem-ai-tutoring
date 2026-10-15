@@ -1,7 +1,27 @@
 {
   "status": "success",
-  "totalResults": 7,
+  "totalResults": 8,
   "articles": [
+    {
+      "title": "Some Sony First-Party Games Have Been Delisted From the PlayStation Store - Kotaku",
+      "source": {
+        "name": "Kotaku"
+      },
+      "description": "Some of Knack, Nathan Drake, and Kratos’ games were pulled due to what appears to be a pricing error...",
+      "url": "https://kotaku.com/playstation-store-uncharted-god-of-war-knack-delisted-2000745375",
+      "publishedAt": "2026-10-13T21:15:35Z",
+      "processed_at": "2026-10-15T01:16:10.612072+00:00"
+    },
+    {
+      "title": "Microsoft October 2026 Patch Tuesday fixes 1,411 flaws, 3 zero-days - BleepingComputer",
+      "source": {
+        "name": "BleepingComputer"
+      },
+      "description": "Today is Microsoft's October 2026 Patch Tuesday, with security updates addressing a record-breaking ...",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-october-2026-patch-tuesday-fixes-1-411-flaws-3-zero-days/",
+      "publishedAt": "2026-10-13T19:56:09Z",
+      "processed_at": "2026-10-15T01:16:10.612072+00:00"
+    },
     {
       "title": "iOS 27.2 adds new app icon for Apple Music, more design updates - 9to5Mac",
       "source": {
@@ -10,17 +30,17 @@
       "description": "iOS 27.2 beta 4 debuted today for developers, and the update includes a new app icon for Apple Music...",
       "url": "https://9to5mac.com/2026/10/13/ios-27-2-adds-new-app-icon-for-apple-music-more-design-updates/",
       "publishedAt": "2026-10-13T19:06:00Z",
-      "processed_at": "2026-10-14T22:05:50.337973+00:00"
+      "processed_at": "2026-10-15T01:16:10.612072+00:00"
     },
     {
-      "title": "Xbox announces Xbox Labs, a new initiative to trial emerging ideas and \"new technology\" - GamesIndustry.biz",
+      "title": "Xbox is officially embracing the chaos of AI-powered game ports - The Verge",
       "source": {
-        "name": "GamesIndustry.biz"
+        "name": "The Verge"
       },
-      "description": "New business unit is charged with testing new projects and judging them by user feedback...",
-      "url": "https://www.gamesindustry.biz/xbox-announces-xbox-labs-a-new-initiative-to-trial-emerging-ideas-and-new-technology",
-      "publishedAt": "2026-10-13T19:00:00Z",
-      "processed_at": "2026-10-14T22:05:50.337973+00:00"
+      "description": "Microsoft has created a new Xbox Labs team to explore game decompiling. It’s an emerging trend that ...",
+      "url": "https://www.theverge.com/news/1010406/xbox-labs-game-decompiling-emulation-exploration",
+      "publishedAt": "2026-10-13T19:00:48Z",
+      "processed_at": "2026-10-15T01:16:10.612072+00:00"
     },
     {
       "title": "iOS 27.2 beta 4 no longer includes Apple’s overhauled Health app - 9to5Mac",
@@ -30,7 +50,17 @@
       "description": "An overhauled Apple Health app is coming, but it looks like iOS 27.2 won’t include it. Apple first a...",
       "url": "https://9to5mac.com/2026/10/13/ios-27-2-beta-4-no-longer-includes-apples-overhauled-health-app/",
       "publishedAt": "2026-10-13T18:57:00Z",
-      "processed_at": "2026-10-14T22:05:50.337973+00:00"
+      "processed_at": "2026-10-15T01:16:10.612072+00:00"
+    },
+    {
+      "title": "EA Sports' College Football Franchise Reportedly in Jeopardy Amidst Rising Costs and Declining Sales - IGN",
+      "source": {
+        "name": "IGN"
+      },
+      "description": "Developers working on EA Sports' College Football franchise reportedly fear that the series may not ...",
+      "url": "https://www.ign.com/articles/ea-sports-college-football-devs-reportedly-fear-the-franchise-could-disappear-by-2030",
+      "publishedAt": "2026-10-13T18:34:41Z",
+      "processed_at": "2026-10-15T01:16:10.612072+00:00"
     },
     {
       "title": "Apple's HomePod mini 2 is here with Siri AI, new colors and improved sound - GSMArena.com news - GSMArena.com",
@@ -40,40 +70,20 @@
       "description": "The smart speaker is priced at $149. Alongside the new Apple HomeView, upgraded Apple TV 4K, and App...",
       "url": "https://www.gsmarena.com/apples_homepod_mini_2_is_here_with_siri_ai_new_colors_and_improved_sound-news-75028.php",
       "publishedAt": "2026-10-13T18:31:02Z",
-      "processed_at": "2026-10-14T22:05:50.337973+00:00"
+      "processed_at": "2026-10-15T01:16:10.612072+00:00"
     },
     {
-      "title": "Report indicates 'GTA 6' launching on PC in early 2027 - Mashable",
+      "title": "I don’t miss the camera on the Ray-Ban Meta Audio glasses - The Verge",
       "source": {
-        "name": "Mashable"
+        "name": "The Verge"
       },
-      "description": "That's sooner than expected....",
-      "url": "https://mashable.com/entertainment/gta-grand-theft-auto-6-pc-release-date-2027",
-      "publishedAt": "2026-10-13T18:23:45Z",
-      "processed_at": "2026-10-14T22:05:50.337973+00:00"
-    },
-    {
-      "title": "AI Designs Computer Chips We Can’t Understand — But They Seem to Work Really Well - ZME Science",
-      "source": {
-        "name": "ZME Science"
-      },
-      "description": "Can we trust systems we don’t fully understand?...",
-      "url": "https://www.zmescience.com/science/computer-chips-made-by-ai-rep/",
-      "publishedAt": "2026-10-13T17:52:46Z",
-      "processed_at": "2026-10-14T22:05:50.337973+00:00"
-    },
-    {
-      "title": "Google Play now lets anyone build private, vibe-coded apps that run on Android - TechCrunch",
-      "source": {
-        "name": "TechCrunch"
-      },
-      "description": "Google is making it easier to build and use personal Android apps created with AI, without having to...",
-      "url": "https://techcrunch.com/2026/10/13/google-play-now-supports-private-vibe-coded-apps-built-just-for-you/",
-      "publishedAt": "2026-10-13T17:00:00Z",
-      "processed_at": "2026-10-14T22:05:50.337973+00:00"
+      "description": "The $349 Ray-Ban Meta Audio glasses can’t record video and are a decent pair of open-ear headphones....",
+      "url": "https://www.theverge.com/tech/1009128/ray-ban-meta-audio-glasses-review-smart-glasses-headphones-wearables",
+      "publishedAt": "2026-10-13T18:00:00Z",
+      "processed_at": "2026-10-15T01:16:10.612072+00:00"
     }
   ],
-  "lastUpdated": "2026-10-14T22:05:50.338048+00:00",
+  "lastUpdated": "2026-10-15T01:16:10.612137+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
