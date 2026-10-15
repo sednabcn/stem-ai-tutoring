@@ -1,7 +1,87 @@
 {
   "status": "success",
-  "totalResults": 8,
+  "totalResults": 10,
   "articles": [
+    {
+      "title": "Nintendo Expands Switch Online's GBA Library With Three More Titles - Nintendo Life",
+      "source": {
+        "name": "Nintendo Life"
+      },
+      "description": "Monster Rancher, Metal Slug & Kururin are here!...",
+      "url": "https://www.nintendolife.com/news/2026/10/nintendo-expands-switch-onlines-gba-library-with-three-more-titles",
+      "publishedAt": "2026-10-14T01:15:00Z",
+      "processed_at": "2026-10-15T07:05:00.459886+00:00"
+    },
+    {
+      "title": "New GTA 6 Cyberleek video has story clips, gameplay footage, and one very NSFW detail - Mashable",
+      "source": {
+        "name": "Mashable"
+      },
+      "description": "We're not joking about the NSFW part....",
+      "url": "https://mashable.com/entertainment/gta-grand-theft-auto-6-cyberleek-returns-24-minute-video",
+      "publishedAt": "2026-10-14T00:56:53Z",
+      "processed_at": "2026-10-15T07:05:00.459886+00:00"
+    },
+    {
+      "title": "Mario Kart 8 Deluxe Has Been Updated To Version 4.0.1, Here Are The Full Patch Notes - Nintendo Life",
+      "source": {
+        "name": "Nintendo Life"
+      },
+      "description": "Following a free Switch 2 update last month...",
+      "url": "https://www.nintendolife.com/news/2026/10/mario-kart-8-deluxe-has-been-updated-to-version-4-0-1-here-are-the-full-patch-notes",
+      "publishedAt": "2026-10-14T00:55:00Z",
+      "processed_at": "2026-10-15T07:05:00.459886+00:00"
+    },
+    {
+      "title": "John Ternus Takes Next Big Swing as Apple CEO With HomeView Tablet - WSJ",
+      "source": {
+        "name": "The Wall Street Journal"
+      },
+      "description": "",
+      "url": "https://www.wsj.com/tech/john-ternus-takes-next-big-swing-as-apple-ceo-with-homeview-tablet-39206e9e",
+      "publishedAt": "2026-10-14T00:00:00Z",
+      "processed_at": "2026-10-15T07:05:00.459886+00:00"
+    },
+    {
+      "title": "Everything Apple Still Has Coming in October - MacRumors",
+      "source": {
+        "name": "MacRumors"
+      },
+      "description": "Apple debuted three new home products today, but the October announcements aren't over yet. Rumors s...",
+      "url": "https://www.macrumors.com/2026/10/13/apple-october-upcoming-products/",
+      "publishedAt": "2026-10-13T23:47:00Z",
+      "processed_at": "2026-10-15T07:05:00.459886+00:00"
+    },
+    {
+      "title": "Microsoft Patches More Than 1,400 Security Flaws - Krebs on Security",
+      "source": {
+        "name": "Krebs on Security"
+      },
+      "description": "",
+      "url": "https://krebsonsecurity.com/2026/10/microsoft-patches-more-than-1400-security-flaws/",
+      "publishedAt": "2026-10-13T23:39:46Z",
+      "processed_at": "2026-10-15T07:05:00.459886+00:00"
+    },
+    {
+      "title": "ESA targets Anbernic emulation handhelds as \"superfake\" piracy enablers - Ars Technica",
+      "source": {
+        "name": "Ars Technica"
+      },
+      "description": "But third-party sellers, not Anbernic, are the ones routinely selling ROM-filled SD cards....",
+      "url": "https://arstechnica.com/gaming/2026/10/esa-targets-anbernic-emulation-handhelds-as-superfake-piracy-enablers/",
+      "publishedAt": "2026-10-13T21:55:49Z",
+      "processed_at": "2026-10-15T07:05:00.459886+00:00"
+    },
+    {
+      "title": "Topgolf saved over $11.3 million after leaving VMware - Ars Technica",
+      "source": {
+        "name": "Ars Technica"
+      },
+      "description": "Topgolf and VMware \"ran deep\" before the migration....",
+      "url": "https://arstechnica.com/information-technology/2026/10/topgolf-saved-over-11-3-million-after-leaving-vmware/",
+      "publishedAt": "2026-10-13T21:33:43Z",
+      "processed_at": "2026-10-15T07:05:00.459886+00:00"
+    },
     {
       "title": "Some Sony First-Party Games Have Been Delisted From the PlayStation Store - Kotaku",
       "source": {
@@ -10,80 +90,20 @@
       "description": "Some of Knack, Nathan Drake, and Kratos’ games were pulled due to what appears to be a pricing error...",
       "url": "https://kotaku.com/playstation-store-uncharted-god-of-war-knack-delisted-2000745375",
       "publishedAt": "2026-10-13T21:15:35Z",
-      "processed_at": "2026-10-15T01:16:10.612072+00:00"
+      "processed_at": "2026-10-15T07:05:00.459886+00:00"
     },
     {
-      "title": "Microsoft October 2026 Patch Tuesday fixes 1,411 flaws, 3 zero-days - BleepingComputer",
+      "title": "Microsoft: Windows 11 24H2 Home and Pro reached end of support - BleepingComputer",
       "source": {
         "name": "BleepingComputer"
       },
-      "description": "Today is Microsoft's October 2026 Patch Tuesday, with security updates addressing a record-breaking ...",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-october-2026-patch-tuesday-fixes-1-411-flaws-3-zero-days/",
-      "publishedAt": "2026-10-13T19:56:09Z",
-      "processed_at": "2026-10-15T01:16:10.612072+00:00"
-    },
-    {
-      "title": "iOS 27.2 adds new app icon for Apple Music, more design updates - 9to5Mac",
-      "source": {
-        "name": "9to5Mac"
-      },
-      "description": "iOS 27.2 beta 4 debuted today for developers, and the update includes a new app icon for Apple Music...",
-      "url": "https://9to5mac.com/2026/10/13/ios-27-2-adds-new-app-icon-for-apple-music-more-design-updates/",
-      "publishedAt": "2026-10-13T19:06:00Z",
-      "processed_at": "2026-10-15T01:16:10.612072+00:00"
-    },
-    {
-      "title": "Xbox is officially embracing the chaos of AI-powered game ports - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "Microsoft has created a new Xbox Labs team to explore game decompiling. It’s an emerging trend that ...",
-      "url": "https://www.theverge.com/news/1010406/xbox-labs-game-decompiling-emulation-exploration",
-      "publishedAt": "2026-10-13T19:00:48Z",
-      "processed_at": "2026-10-15T01:16:10.612072+00:00"
-    },
-    {
-      "title": "iOS 27.2 beta 4 no longer includes Apple’s overhauled Health app - 9to5Mac",
-      "source": {
-        "name": "9to5Mac"
-      },
-      "description": "An overhauled Apple Health app is coming, but it looks like iOS 27.2 won’t include it. Apple first a...",
-      "url": "https://9to5mac.com/2026/10/13/ios-27-2-beta-4-no-longer-includes-apples-overhauled-health-app/",
-      "publishedAt": "2026-10-13T18:57:00Z",
-      "processed_at": "2026-10-15T01:16:10.612072+00:00"
-    },
-    {
-      "title": "EA Sports' College Football Franchise Reportedly in Jeopardy Amidst Rising Costs and Declining Sales - IGN",
-      "source": {
-        "name": "IGN"
-      },
-      "description": "Developers working on EA Sports' College Football franchise reportedly fear that the series may not ...",
-      "url": "https://www.ign.com/articles/ea-sports-college-football-devs-reportedly-fear-the-franchise-could-disappear-by-2030",
-      "publishedAt": "2026-10-13T18:34:41Z",
-      "processed_at": "2026-10-15T01:16:10.612072+00:00"
-    },
-    {
-      "title": "Apple's HomePod mini 2 is here with Siri AI, new colors and improved sound - GSMArena.com news - GSMArena.com",
-      "source": {
-        "name": "GSMArena.com"
-      },
-      "description": "The smart speaker is priced at $149. Alongside the new Apple HomeView, upgraded Apple TV 4K, and App...",
-      "url": "https://www.gsmarena.com/apples_homepod_mini_2_is_here_with_siri_ai_new_colors_and_improved_sound-news-75028.php",
-      "publishedAt": "2026-10-13T18:31:02Z",
-      "processed_at": "2026-10-15T01:16:10.612072+00:00"
-    },
-    {
-      "title": "I don’t miss the camera on the Ray-Ban Meta Audio glasses - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "The $349 Ray-Ban Meta Audio glasses can’t record video and are a decent pair of open-ear headphones....",
-      "url": "https://www.theverge.com/tech/1009128/ray-ban-meta-audio-glasses-review-smart-glasses-headphones-wearables",
-      "publishedAt": "2026-10-13T18:00:00Z",
-      "processed_at": "2026-10-15T01:16:10.612072+00:00"
+      "description": "Microsoft announced today that devices running Windows 11 24H2 Home and Pro editions have reached th...",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-11-24h2-home-and-pro-reached-end-of-support/",
+      "publishedAt": "2026-10-13T19:04:38Z",
+      "processed_at": "2026-10-15T07:05:00.459886+00:00"
     }
   ],
-  "lastUpdated": "2026-10-15T01:16:10.612137+00:00",
+  "lastUpdated": "2026-10-15T07:05:00.459984+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
