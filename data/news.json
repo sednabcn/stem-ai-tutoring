@@ -3,14 +3,64 @@
   "totalResults": 10,
   "articles": [
     {
-      "title": "AI Controls IPhone Via ESP32 - Hackaday",
+      "title": "Amazon launches new Bee 'personal AI' devices that listen to conversations - CNBC",
+      "source": {
+        "name": "CNBC"
+      },
+      "description": "The $75 Bee Frontier is an upgraded version of Amazon's wearable bracelet, while the $100 Bee Eclips...",
+      "url": "https://www.cnbc.com/2026/10/15/amazon-bee-frontier-eclipse-ai-devices.html",
+      "publishedAt": "2026-10-15T12:00:01Z",
+      "processed_at": "2026-10-16T15:16:30.876939+00:00"
+    },
+    {
+      "title": "Apple Now Inviting Media to October 28 'Launch Experience' - MacRumors",
       "source": {
         "name": "Google News"
       },
       "description": "",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9SN2NUNmhNTnBTWTloU1VmbTZMUEhmcFdJSkxTa3JzblV3NU1VX00wR2pjRTBUSmQwR3pXVmdmcGZoSk1kRko1YVp6d2otVG5TU1BiM21PQnFqNTI2Y3FLS0hIalozOUZDNENndzRB?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNzdlc2JrdWVnZ3dtOGs5RENyNUhjZGpPTkRSTmowN0VhQVJxOVhZSEVGV2ZnNkZMWG9zdG8yUWkzbjdmYVhnQTVmVHhjdnVWcGhwYmJhMVJ2WGN1aE1wX19Uclo3cHZwZmJFcnYwaFhzcVdESHNWWFZMdW9Nc1Q5eXAzMFdqOHYzQmVJ?oc=5",
+      "publishedAt": "2026-10-15T11:13:24Z",
+      "processed_at": "2026-10-16T15:16:30.876939+00:00"
+    },
+    {
+      "title": "Scientists are finding AI may make us remember things that never happened - The Washington Post",
+      "source": {
+        "name": "Google News"
+      },
+      "description": "",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxONUp6RVZiZmYxYjBWLWFpNldiYlY1NWFFenNFVFNUaVZxVUo4LTRDZW15Yy1CeU9Wa0N5bjhobUNGVk1STzBtQ3NYeUtrb1drM0d6QUFDMFJoM3ZWQTh4U1ZKX2ZtaEVSeDYwTUg3QUU3WHdLa2pINWZQcnd5bVd1VldacV9OaGhKdVh0Ti02c0RueGxnQ2FKMmpnUzg5N2dzU1I1bW9yMENMSDEyOGdIblVlS013cnlMbEZ0N0dYSmc?oc=5",
+      "publishedAt": "2026-10-15T10:32:49Z",
+      "processed_at": "2026-10-16T15:16:30.876939+00:00"
+    },
+    {
+      "title": "Big Walk Isn't On Xbox Because Of The 'Palestinian-Led BDS Movement' - Aftermath",
+      "source": {
+        "name": "Aftermath.site"
+      },
+      "description": "",
+      "url": "https://aftermath.site/big-walk-xbox-bds-palestine-boycott/",
+      "publishedAt": "2026-10-15T08:29:05Z",
+      "processed_at": "2026-10-16T15:16:30.876939+00:00"
+    },
+    {
+      "title": "Ubisoft to reduce workforce across Düsseldorf, Berlin, and Mainz as part of \"proposed voluntary departure plan\" - GamesIndustry.biz",
+      "source": {
+        "name": "Google News"
+      },
+      "description": "",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQZWVoY2RrYXhrMGMxOTl2eWlXSjVHa2EwTEp2V28tZkVCV3JpbW1JcjBKUTJQUDVKbzFoaUZGc0dtdzlxU29kdHlwQVI4NzJBbmpQNmpfZ1ZLbENZRHR0RHluejB6aTdnQWpON2F5N241OHgzcC1ybUs5RHRjZzdjdGJGb0R3eWx6djJrQjBMS1JScGFXRkJoRHhTdU0zYnVRMlRNT0Y5S004d3NqLUtBMDF4NENRUUR4QmNfVHlPaUdVaS1kQ0Fic080QUNKVU53M3A4?oc=5",
+      "publishedAt": "2026-10-15T08:09:37Z",
+      "processed_at": "2026-10-16T15:16:30.876939+00:00"
+    },
+    {
+      "title": "AI Controls IPhone Via ESP32 - Hackaday",
+      "source": {
+        "name": "Hackaday"
+      },
+      "description": "Do you want to get an AI agent to do something to an iPhone? You could try and jailbreak the device ...",
+      "url": "https://hackaday.com/2026/10/14/ai-controls-iphone-via-esp32/",
       "publishedAt": "2026-10-15T02:00:00Z",
-      "processed_at": "2026-10-16T10:54:19.776144+00:00"
+      "processed_at": "2026-10-16T15:16:30.876939+00:00"
     },
     {
       "title": "Fire Emblem: Fortune's Weave Expansion Pass Announced, Wave 1 Launches Today - Nintendo Life",
@@ -20,17 +70,17 @@
       "description": "Three separate waves will be released...",
       "url": "https://www.nintendolife.com/news/2026/10/fire-emblem-fortunes-weave-expansion-pass-announced-wave-1-launches-today",
       "publishedAt": "2026-10-15T01:05:00Z",
-      "processed_at": "2026-10-16T10:54:19.776144+00:00"
+      "processed_at": "2026-10-16T15:16:30.876939+00:00"
     },
     {
-      "title": "Modelling mouse embryogenesis from chemically induced totipotent stem cells - Nature",
+      "title": "Galaxy S27 and S27 Plus rumored to miss on an exciting camera upgrade - PhoneArena",
       "source": {
         "name": "Google News"
       },
       "description": "",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBfVDVpaUUyYXQ2UEtJZEZUV2JraDZzTkF5Z0VBYm05SFcxY3REYlJVcDA1X0hocUdOdkhVblFNbWhKTTVHeGpXWC1YWFc5ZFdOYUxaYktNbHUwU3ltRWNN?oc=5",
-      "publishedAt": "2026-10-14T22:52:30Z",
-      "processed_at": "2026-10-16T10:54:19.776144+00:00"
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZWtUWkpCZlNKcUkwUlh4SnhQOEZBYkpRX1VpMnQ5VHhBemtQZjdZMzQ5YmhKREplU0M0ZjlKSWRrbTdrSHJPcE9OR0swdUJnbDVxNGhrM01lYTRRRU04eGdlYzhDbnJfamFIalB3clRBMHp1T0E4THNnT1U3ampzNV85Ri1aTmZzVWJ1VEJKZ3NXMHoxNXZjeGhrbkdIdVc0Y0ZqY3Q5LTV0U2VybV9B?oc=5",
+      "publishedAt": "2026-10-14T22:41:27Z",
+      "processed_at": "2026-10-16T15:16:30.876939+00:00"
     },
     {
       "title": "Old Google Home and Nest speakers getting big firmware update - 9to5Google",
@@ -40,7 +90,7 @@
       "description": "Google is testing a big firmware update for the Google Home, Home Mini, Nest Mini, and Nest Audio. T...",
       "url": "http://9to5google.com/2026/10/14/google-home-nest-speaker-update/",
       "publishedAt": "2026-10-14T22:35:00Z",
-      "processed_at": "2026-10-16T10:54:19.776144+00:00"
+      "processed_at": "2026-10-16T15:16:30.876939+00:00"
     },
     {
       "title": "Apple and Schneider’s new smart thermostat could help cut your electric bill - Electrek",
@@ -50,60 +100,10 @@
       "description": "Apple and Schneider's smart thermostat uses your iPhone to adjust temperatures and can shift energy ...",
       "url": "http://electrek.co/2026/10/14/apple-and-schneiders-new-smart-thermostat-could-help-cut-your-electric-bill/",
       "publishedAt": "2026-10-14T22:06:00Z",
-      "processed_at": "2026-10-16T10:54:19.776144+00:00"
-    },
-    {
-      "title": "Epic says its new vibe-coded Epic Games Launcher is faster than Steam - Ars Technica",
-      "source": {
-        "name": "Ars Technica"
-      },
-      "description": "But the new \"Preview\" app \"will have some bugs,\" Epic warns....",
-      "url": "https://arstechnica.com/gaming/2026/10/programming-is-hard-epic-games-leans-on-vibe-coding-for-its-new-launcher-app/",
-      "publishedAt": "2026-10-14T21:15:56Z",
-      "processed_at": "2026-10-16T10:54:19.776144+00:00"
-    },
-    {
-      "title": "Reversing age by reprogramming gene expression networks - Medical Xpress",
-      "source": {
-        "name": "Medical Xpress"
-      },
-      "description": "Every organ and tissue progressively loses function and integrity as it ages. In fact, researchers h...",
-      "url": "https://medicalxpress.com/news/2026-10-reversing-age-reprogramming-gene-networks.html",
-      "publishedAt": "2026-10-14T20:50:06Z",
-      "processed_at": "2026-10-16T10:54:19.776144+00:00"
-    },
-    {
-      "title": "A user has installed Googlebook OS onto a Chromebook Plus, and it runs great - Chrome Unboxed",
-      "source": {
-        "name": "Chrome Unboxed"
-      },
-      "description": "Ever since Google officially launched the new Googlebook platform, one of the biggest questions hang...",
-      "url": "https://chromeunboxed.com/a-user-has-installed-googlebook-os-onto-a-chromebook-plus-and-it-runs-great/",
-      "publishedAt": "2026-10-14T20:30:41Z",
-      "processed_at": "2026-10-16T10:54:19.776144+00:00"
-    },
-    {
-      "title": "League Classic to go offline in January 2027 - Sheep Esports",
-      "source": {
-        "name": "Sheepesports.com"
-      },
-      "description": "The return to old-school League of Legends will be shorter than some fans hoped, as Riot Games prepa...",
-      "url": "https://www.sheepesports.com/en/articles/league-classic-to-go-offline-in-january-2027/en",
-      "publishedAt": "2026-10-14T19:50:27Z",
-      "processed_at": "2026-10-16T10:54:19.776144+00:00"
-    },
-    {
-      "title": "Google Fitbit Edge hands-on: Pixel Watch Lite, take two - 9to5Google",
-      "source": {
-        "name": "9to5google.com"
-      },
-      "description": "Google’s new Fitbit Edge tracker launches later this month and, as we get our review together, here’...",
-      "url": "http://9to5google.com/2026/10/14/google-fitbit-edge-hands-on-pixel-watch-lite-take-two/",
-      "publishedAt": "2026-10-14T19:30:00Z",
-      "processed_at": "2026-10-16T10:54:19.776144+00:00"
+      "processed_at": "2026-10-16T15:16:30.876939+00:00"
     }
   ],
-  "lastUpdated": "2026-10-16T10:54:19.776198+00:00",
+  "lastUpdated": "2026-10-16T15:16:30.877009+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
