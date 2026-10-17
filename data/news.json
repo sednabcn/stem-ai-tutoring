@@ -1,7 +1,77 @@
 {
   "status": "success",
-  "totalResults": 9,
+  "totalResults": 8,
   "articles": [
+    {
+      "title": "Apple iPhone Duo preorders sell out, deliveries extend to late January - Yahoo Finance",
+      "source": {
+        "name": "Yahoo Entertainment"
+      },
+      "description": "Apple's iPhone Duo preorders sell out immediately....",
+      "url": "https://finance.yahoo.com/technology/article/apple-iphone-duo-preorders-sell-out-deliveries-extend-to-late-january-130026634.html",
+      "publishedAt": "2026-10-16T13:00:26Z",
+      "processed_at": "2026-10-17T15:08:16.207421+00:00"
+    },
+    {
+      "title": "The Best New Watches from New York Watch Week 2026 - GQ",
+      "source": {
+        "name": "Google News"
+      },
+      "description": "",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5WR0M0WmVRYlFoeXZNQlRMM3NydFczUUlCbmVMdk5ka2NVZUpmNklPUy00WHhvRWVmRUQ0c3V2ckUtR2ZVYzg2SnlOQ0gzOFE0TExXSzBLSmdUQjNQTGZrdnNEZGdpMkR2ZU8yaDRsX1JkWG5x?oc=5",
+      "publishedAt": "2026-10-16T13:00:00Z",
+      "processed_at": "2026-10-17T15:08:16.207421+00:00"
+    },
+    {
+      "title": "Da Red Gobbo returns with a new festive miniature - Warhammer Community",
+      "source": {
+        "name": "Warhammer-community.com"
+      },
+      "description": "Plus, there’s a new novel starring the galaxy’s greatest revolutionary gretchin....",
+      "url": "https://www.warhammer-community.com/articles/8prrlmvd/da-red-gobbo-returns-with-a-new-festive-miniature",
+      "publishedAt": "2026-10-16T12:58:58Z",
+      "processed_at": "2026-10-17T15:08:16.207421+00:00"
+    },
+    {
+      "title": "Microsoft Surface Laptop Ultra Review: Complicated, yet So Damn Worth Getting Stuck In - Gizmodo",
+      "source": {
+        "name": "Gizmodo.com"
+      },
+      "description": "The Microsoft Surface Laptop Ultra isn't just a MacBook Pro for PCs. It's a strong sign that local c...",
+      "url": "https://gizmodo.com/microsoft-surface-laptop-ultra-review-2000826722",
+      "publishedAt": "2026-10-16T12:00:31Z",
+      "processed_at": "2026-10-17T15:08:16.207421+00:00"
+    },
+    {
+      "title": "Ken Kutaragi ‘understands’ why PlayStation fans don’t want to give up physical games - Video Games Chronicle",
+      "source": {
+        "name": "Google News"
+      },
+      "description": "",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOU2Z1WU5JbUlPWEZCemhhZ0NTVE03S3N2cElTYmEweU5JY1BKMGszaGhoWjM1aUJkaTNrbXJ5VXh1dzN4MHM4MTVTM3dnaXFxNmJYSGthSE5DMDZXcWtpWTNkRzRPNnJGU3NHWjd2QXJnWHI1VnVlT19YbHFhZFRSUG9LQ1JtRnZWZG1mTUN3Q1dyWnBCQVNlQ2R5LU5rd2JEOVhjTlZaUzhfbUZXYjMwb2JRcGJicnk1OWhVYlJqY3U?oc=5",
+      "publishedAt": "2026-10-16T11:59:45Z",
+      "processed_at": "2026-10-17T15:08:16.207421+00:00"
+    },
+    {
+      "title": "Googlebook review: Android on a laptop is still Android - Ars Technica",
+      "source": {
+        "name": "Ars Technica"
+      },
+      "description": "Android laptops are here, but Google has a lot of work ahead to make them good....",
+      "url": "https://arstechnica.com/reviews/2026/10/googlebook-review-android-on-a-laptop-is-still-android/",
+      "publishedAt": "2026-10-16T10:00:32Z",
+      "processed_at": "2026-10-17T15:08:16.207421+00:00"
+    },
+    {
+      "title": "Time is a-changin’: say goodbye to the leap second - The Verge",
+      "source": {
+        "name": "Google News"
+      },
+      "description": "",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQYWdhVWJWU0dfV3dXSzlpYzVlak9KekxZUm52bEFhcy1UMUVGa2MyZzBtUUl0X245MGs1UDNPNDNvMXFvOEJBMFI4NzA1c3pWbzhXNzNDZnUyVWlUNGh6cmxsNmZrNE11ZVVuMDVvbjY1NS1UakMxOWZtRHFUWkRsVi1XYkk0c2M?oc=5",
+      "publishedAt": "2026-10-16T10:00:25Z",
+      "processed_at": "2026-10-17T15:08:16.207421+00:00"
+    },
     {
       "title": "Zelda: Ocarina Of Time Switch 2 \"Replica N64 Box\" Revealed - Nintendo Life",
       "source": {
@@ -10,90 +80,10 @@
       "description": "A bonus available in France...",
       "url": "https://www.nintendolife.com/news/2026/10/zelda-ocarina-of-time-switch-2-replica-n64-box-revealed",
       "publishedAt": "2026-10-16T03:55:00Z",
-      "processed_at": "2026-10-17T11:26:37.934492+00:00"
-    },
-    {
-      "title": "Oops, Apple's Website Just Hinted at iPad Mini 8 - MacRumors",
-      "source": {
-        "name": "MacRumors"
-      },
-      "description": "Apple has an unreleased iPad mini Smart Folio listed on its French regulatory website, hinting that ...",
-      "url": "https://www.macrumors.com/2026/10/15/apple-ipad-mini-8-website-reference/",
-      "publishedAt": "2026-10-16T00:27:00Z",
-      "processed_at": "2026-10-17T11:26:37.934492+00:00"
-    },
-    {
-      "title": "'Consumers Must Have the Right to Own' — A Congressman Is Introducing a Bill to Get Rid of Digital Game Licenses and Give Players Total Ownership - IGN",
-      "source": {
-        "name": "IGN"
-      },
-      "description": "Democratic Congressman Ritchie Torres is introducing legislation that aims to ensure you own your di...",
-      "url": "https://www.ign.com/articles/rep-ritchie-torress-introduces-legislation-to-ensure-gamers-own-their-digital-games",
-      "publishedAt": "2026-10-15T23:21:09Z",
-      "processed_at": "2026-10-17T11:26:37.934492+00:00"
-    },
-    {
-      "title": "ChatGPT can peek at your Chrome tabs now - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "The ChatGPT Chrome extension has added more features to use information from your open browser tabs,...",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs",
-      "publishedAt": "2026-10-15T22:43:23Z",
-      "processed_at": "2026-10-17T11:26:37.934492+00:00"
-    },
-    {
-      "title": "Sega pulls Total War: Shogun 2 remaster from sale following disastrous launch - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "Sega is removing Total War: Shogun 2 — Complete Edition from storefronts after users complained abou...",
-      "url": "https://www.theverge.com/games/1012512/sega-total-war-shogun-2-remaster-pulled",
-      "publishedAt": "2026-10-15T22:35:55Z",
-      "processed_at": "2026-10-17T11:26:37.934492+00:00"
-    },
-    {
-      "title": "OLED MacBook Pro Won't Get M7 Chips Until Late 2027 - MacRumors",
-      "source": {
-        "name": "Google News"
-      },
-      "description": "",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBJdXhqU29VTWZWYWUyVXQ1MkxwaXYwYy05RGxab29udklkODBRTS1pU1NydGYyd2lpWTd3QkVCZVBFeEpFc1JMTmNmcW8xZXpBQkN3OEw4TXktYld3a2JlVk5CZEJ6QTFtRnB5VlMxRQ?oc=5",
-      "publishedAt": "2026-10-15T22:10:36Z",
-      "processed_at": "2026-10-17T11:26:37.934492+00:00"
-    },
-    {
-      "title": "Report: Cancelled “Assassin’s Creed Destiny” Unveiled in First Screenshots & Gameplay Footage - MP1st",
-      "source": {
-        "name": "http://mp1st.com/category/news"
-      },
-      "description": "We have unearthed gameplay footage and details for Assassin's Creed Destiny, a title set in 206 BCE ...",
-      "url": "https://mp1st.com/news/report-cancelled-assassins-creed-destiny-unveiled-in-first-screenshots-gameplay-footage",
-      "publishedAt": "2026-10-15T20:41:28Z",
-      "processed_at": "2026-10-17T11:26:37.934492+00:00"
-    },
-    {
-      "title": "SPINE ‘Customization Announce’ trailer, screenshots - Gematsu",
-      "source": {
-        "name": "Gematsu"
-      },
-      "description": "Nekki has released a new trailer and screenshots for single-player story-focused action game SPINE i...",
-      "url": "https://www.gematsu.com/2026/10/spine-customization-announce-trailer-screenshots",
-      "publishedAt": "2026-10-15T19:57:32Z",
-      "processed_at": "2026-10-17T11:26:37.934492+00:00"
-    },
-    {
-      "title": "Google updates Android earthquake alerts with more info, expands to 200+ regions - 9to5Google",
-      "source": {
-        "name": "9to5google.com"
-      },
-      "description": "Google has updated Android's earthquake alerts system with more information while also expanding sup...",
-      "url": "http://9to5google.com/2026/10/15/android-earthquake-alerts-update-regions/",
-      "publishedAt": "2026-10-15T19:45:00Z",
-      "processed_at": "2026-10-17T11:26:37.934492+00:00"
+      "processed_at": "2026-10-17T15:08:16.207421+00:00"
     }
   ],
-  "lastUpdated": "2026-10-17T11:26:37.934574+00:00",
+  "lastUpdated": "2026-10-17T15:08:16.207490+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
