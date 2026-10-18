@@ -3,6 +3,36 @@
   "totalResults": 10,
   "articles": [
     {
+      "title": "Why BioWare’s Neverwinter Nights still has thousands of active players - Ars Technica",
+      "source": {
+        "name": "Ars Technica"
+      },
+      "description": "The single-player is just OK, but according to the players, that doesn't matter....",
+      "url": "https://arstechnica.com/gaming/2026/10/why-biowares-neverwinter-nights-still-has-thousands-of-active-players/",
+      "publishedAt": "2026-10-17T11:00:21Z",
+      "processed_at": "2026-10-18T13:01:59.331427+00:00"
+    },
+    {
+      "title": "Hackers Use Compromised ConnectWise Credential to Sign In to 173 Microsoft 365 Tenants - The Hacker News",
+      "source": {
+        "name": "Internet"
+      },
+      "description": "Attackers used a compromised ConnectWise Cloud Backup credential for unauthorized sign-ins across 17...",
+      "url": "https://thehackernews.com/2026/10/hackers-use-compromised-connectwise.html",
+      "publishedAt": "2026-10-17T06:16:00Z",
+      "processed_at": "2026-10-18T13:01:59.331427+00:00"
+    },
+    {
+      "title": "GTA VI not yet gold: Rockstar explains the final push before launch - Notebookcheck",
+      "source": {
+        "name": "Notebookcheck.net"
+      },
+      "description": "Grand Theft Auto VI has yet to go gold ahead of its scheduled November 19, 2026 launch, with Rocksta...",
+      "url": "https://www.notebookcheck.net/GTA-VI-not-yet-gold-Rockstar-explains-the-final-push-before-launch.1426418.0.html",
+      "publishedAt": "2026-10-17T01:55:00Z",
+      "processed_at": "2026-10-18T13:01:59.331427+00:00"
+    },
+    {
       "title": "What To Do With Your Old Nest Gadgets Since Google Ended Support - BGR",
       "source": {
         "name": "BGR"
@@ -10,7 +40,7 @@
       "description": "Wondering what's to be done with your Google Nest gadgets that have now reached their end of support...",
       "url": "https://www.bgr.com/2283131/what-to-do-with-old-google-nest/",
       "publishedAt": "2026-10-17T01:36:10Z",
-      "processed_at": "2026-10-18T08:38:20.922379+00:00"
+      "processed_at": "2026-10-18T13:01:59.331427+00:00"
     },
     {
       "title": "Verizon Will Charge $10 a Month for iPhone Handoff - MacRumors",
@@ -20,7 +50,17 @@
       "description": "Verizon plans to charge customers $10 per month for the iPhone Handoff feature that Apple added in i...",
       "url": "https://www.macrumors.com/2026/10/16/verizon-iphone-handoff-cost/",
       "publishedAt": "2026-10-16T23:37:39Z",
-      "processed_at": "2026-10-18T08:38:20.922379+00:00"
+      "processed_at": "2026-10-18T13:01:59.331427+00:00"
+    },
+    {
+      "title": "HP Googlebook 14 Review: Great laptop, shame about the OS - 9to5Google",
+      "source": {
+        "name": "9to5google.com"
+      },
+      "description": "HP’s first crack at a Googlebook laptop is a winner, or at least as much of one as the platform......",
+      "url": "http://9to5google.com/2026/10/16/hp-googlebook-14-review/",
+      "publishedAt": "2026-10-16T23:30:00Z",
+      "processed_at": "2026-10-18T13:01:59.331427+00:00"
     },
     {
       "title": "Apple’s updated App Store rules go after ‘nudify’ AI apps - The Verge",
@@ -30,7 +70,7 @@
       "description": "Apple’s App Store rules now more explicitly ban so-called “nudify” apps that generate intimate image...",
       "url": "https://www.theverge.com/tech/1013314/apple-app-store-nudify-ai-apps-harassment",
       "publishedAt": "2026-10-16T22:51:22Z",
-      "processed_at": "2026-10-18T08:38:20.922379+00:00"
+      "processed_at": "2026-10-18T13:01:59.331427+00:00"
     },
     {
       "title": "Man's Clever Trick After Realizing His Job Interviewer Was AI Sparks Fears For Humanity's Future - Bored Panda",
@@ -40,7 +80,17 @@
       "description": "As more and more companies replace their interviewers with AI, a frustrated comedian went viral by b...",
       "url": "https://www.boredpanda.com/mans-clever-trick-after-realizing-job-interview-was-ai-goes-viral/",
       "publishedAt": "2026-10-16T22:39:24Z",
-      "processed_at": "2026-10-18T08:38:20.922379+00:00"
+      "processed_at": "2026-10-18T13:01:59.331427+00:00"
+    },
+    {
+      "title": "Nvidia's RTX Spark Event in San Francisco Attracts Long Lines, But Few Buyers - PCMag",
+      "source": {
+        "name": "PCMag.com"
+      },
+      "description": "Dozens lined up to check out the first RTX Spark laptops on launch day, but actual purchases were fe...",
+      "url": "https://www.pcmag.com/news/nvidias-rtx-spark-event-in-san-francisco-attracts-long-lines-but-few-buyers",
+      "publishedAt": "2026-10-16T22:12:38Z",
+      "processed_at": "2026-10-18T13:01:59.331427+00:00"
     },
     {
       "title": "Super Smash Bros. Player Mew2King Banned From Tournament After Bug Bites Spark Health Concerns - IGN",
@@ -50,60 +100,10 @@
       "description": "Professional Super Smash Bros. player Jason ‘Mew2King’ Zimmerman has been banned from a competitive ...",
       "url": "https://www.ign.com/articles/super-smash-bros-player-mew2king-banned-from-tournament-after-bug-bites-spark-health-concerns",
       "publishedAt": "2026-10-16T21:54:10Z",
-      "processed_at": "2026-10-18T08:38:20.922379+00:00"
-    },
-    {
-      "title": "Pour One Out for the Leap Second - WIRED",
-      "source": {
-        "name": "Wired"
-      },
-      "description": "The metric might not mean much to laypeople, but leap seconds have been a source of contention in th...",
-      "url": "https://www.wired.com/story/leap-second-is-abolished-bipm-says/",
-      "publishedAt": "2026-10-16T21:31:00Z",
-      "processed_at": "2026-10-18T08:38:20.922379+00:00"
-    },
-    {
-      "title": "Apple blames ‘extraordinary’ demand as foldable iPhones sell out - Financial Times",
-      "source": {
-        "name": "Financial Times"
-      },
-      "description": "Deliveries of the $2,000 Duo slip to 2027 within hours of going on sale...",
-      "url": "https://www.ft.com/content/7b236286-ca1d-4063-a728-7f968a638b8f?syn-25a6b1a6\\\\u003d1",
-      "publishedAt": "2026-10-16T21:03:42Z",
-      "processed_at": "2026-10-18T08:38:20.922379+00:00"
-    },
-    {
-      "title": "Apple's $79 iPhone Duo Case Sticks On With Adhesive - MacRumors",
-      "source": {
-        "name": "MacRumors"
-      },
-      "description": "Apple's iPhone Duo Case uses adhesive to attach to the device, according to people who have picked o...",
-      "url": "https://www.macrumors.com/2026/10/16/iphone-duo-case-adhesive/",
-      "publishedAt": "2026-10-16T19:51:49Z",
-      "processed_at": "2026-10-18T08:38:20.922379+00:00"
-    },
-    {
-      "title": "US Rep proposes bill to give video game buyers \"ownership,\" not \"a license\" - Ars Technica",
-      "source": {
-        "name": "Ars Technica"
-      },
-      "description": "There are still significant hurdles ahead, both technical and legislative....",
-      "url": "https://arstechnica.com/gaming/2026/10/us-rep-proposes-bill-to-give-video-game-buyers-ownership-not-a-license/",
-      "publishedAt": "2026-10-16T19:41:18Z",
-      "processed_at": "2026-10-18T08:38:20.922379+00:00"
-    },
-    {
-      "title": "Castlevania's Most Iconic Song Should Chain Whip Me To Death, Not Put Me In A Thousand Year Sleep - Kotaku",
-      "source": {
-        "name": "Kotaku"
-      },
-      "description": "The Belmont's Curse version of \"Bloody Tars\" is more restrained than it should be...",
-      "url": "https://kotaku.com/the-belmonts-curse-soundtrack-needs-a-little-more-blood-and-tears-2000746787",
-      "publishedAt": "2026-10-16T19:30:48Z",
-      "processed_at": "2026-10-18T08:38:20.922379+00:00"
+      "processed_at": "2026-10-18T13:01:59.331427+00:00"
     }
   ],
-  "lastUpdated": "2026-10-18T08:38:20.922455+00:00",
+  "lastUpdated": "2026-10-18T13:01:59.331474+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
