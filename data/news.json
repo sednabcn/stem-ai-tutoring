@@ -3,6 +3,16 @@
   "totalResults": 10,
   "articles": [
     {
+      "title": "What To Do With Your Old Nest Gadgets Since Google Ended Support - BGR",
+      "source": {
+        "name": "BGR"
+      },
+      "description": "Wondering what's to be done with your Google Nest gadgets that have now reached their end of support...",
+      "url": "https://www.bgr.com/2283131/what-to-do-with-old-google-nest/",
+      "publishedAt": "2026-10-17T01:36:10Z",
+      "processed_at": "2026-10-18T08:38:20.922379+00:00"
+    },
+    {
       "title": "Verizon Will Charge $10 a Month for iPhone Handoff - MacRumors",
       "source": {
         "name": "MacRumors"
@@ -10,7 +20,17 @@
       "description": "Verizon plans to charge customers $10 per month for the iPhone Handoff feature that Apple added in i...",
       "url": "https://www.macrumors.com/2026/10/16/verizon-iphone-handoff-cost/",
       "publishedAt": "2026-10-16T23:37:39Z",
-      "processed_at": "2026-10-18T03:29:51.125211+00:00"
+      "processed_at": "2026-10-18T08:38:20.922379+00:00"
+    },
+    {
+      "title": "Apple’s updated App Store rules go after ‘nudify’ AI apps - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "Apple’s App Store rules now more explicitly ban so-called “nudify” apps that generate intimate image...",
+      "url": "https://www.theverge.com/tech/1013314/apple-app-store-nudify-ai-apps-harassment",
+      "publishedAt": "2026-10-16T22:51:22Z",
+      "processed_at": "2026-10-18T08:38:20.922379+00:00"
     },
     {
       "title": "Man's Clever Trick After Realizing His Job Interviewer Was AI Sparks Fears For Humanity's Future - Bored Panda",
@@ -20,7 +40,7 @@
       "description": "As more and more companies replace their interviewers with AI, a frustrated comedian went viral by b...",
       "url": "https://www.boredpanda.com/mans-clever-trick-after-realizing-job-interview-was-ai-goes-viral/",
       "publishedAt": "2026-10-16T22:39:24Z",
-      "processed_at": "2026-10-18T03:29:51.125211+00:00"
+      "processed_at": "2026-10-18T08:38:20.922379+00:00"
     },
     {
       "title": "Super Smash Bros. Player Mew2King Banned From Tournament After Bug Bites Spark Health Concerns - IGN",
@@ -30,7 +50,17 @@
       "description": "Professional Super Smash Bros. player Jason ‘Mew2King’ Zimmerman has been banned from a competitive ...",
       "url": "https://www.ign.com/articles/super-smash-bros-player-mew2king-banned-from-tournament-after-bug-bites-spark-health-concerns",
       "publishedAt": "2026-10-16T21:54:10Z",
-      "processed_at": "2026-10-18T03:29:51.125211+00:00"
+      "processed_at": "2026-10-18T08:38:20.922379+00:00"
+    },
+    {
+      "title": "Pour One Out for the Leap Second - WIRED",
+      "source": {
+        "name": "Wired"
+      },
+      "description": "The metric might not mean much to laypeople, but leap seconds have been a source of contention in th...",
+      "url": "https://www.wired.com/story/leap-second-is-abolished-bipm-says/",
+      "publishedAt": "2026-10-16T21:31:00Z",
+      "processed_at": "2026-10-18T08:38:20.922379+00:00"
     },
     {
       "title": "Apple blames ‘extraordinary’ demand as foldable iPhones sell out - Financial Times",
@@ -40,17 +70,27 @@
       "description": "Deliveries of the $2,000 Duo slip to 2027 within hours of going on sale...",
       "url": "https://www.ft.com/content/7b236286-ca1d-4063-a728-7f968a638b8f?syn-25a6b1a6\\\\u003d1",
       "publishedAt": "2026-10-16T21:03:42Z",
-      "processed_at": "2026-10-18T03:29:51.125211+00:00"
+      "processed_at": "2026-10-18T08:38:20.922379+00:00"
     },
     {
-      "title": "Android 17 QPR2 Beta 7.1 rolling out for Pixel - 9to5Google",
+      "title": "Apple's $79 iPhone Duo Case Sticks On With Adhesive - MacRumors",
       "source": {
-        "name": "9to5google.com"
+        "name": "MacRumors"
       },
-      "description": "Google is rolling out Android 17 QPR2 Beta 7.1 today a week after the last preview for Pixel devices...",
-      "url": "http://9to5google.com/2026/10/16/android-17-qpr2-beta-7-1-pixel/",
-      "publishedAt": "2026-10-16T20:25:00Z",
-      "processed_at": "2026-10-18T03:29:51.125211+00:00"
+      "description": "Apple's iPhone Duo Case uses adhesive to attach to the device, according to people who have picked o...",
+      "url": "https://www.macrumors.com/2026/10/16/iphone-duo-case-adhesive/",
+      "publishedAt": "2026-10-16T19:51:49Z",
+      "processed_at": "2026-10-18T08:38:20.922379+00:00"
+    },
+    {
+      "title": "US Rep proposes bill to give video game buyers \"ownership,\" not \"a license\" - Ars Technica",
+      "source": {
+        "name": "Ars Technica"
+      },
+      "description": "There are still significant hurdles ahead, both technical and legislative....",
+      "url": "https://arstechnica.com/gaming/2026/10/us-rep-proposes-bill-to-give-video-game-buyers-ownership-not-a-license/",
+      "publishedAt": "2026-10-16T19:41:18Z",
+      "processed_at": "2026-10-18T08:38:20.922379+00:00"
     },
     {
       "title": "Castlevania's Most Iconic Song Should Chain Whip Me To Death, Not Put Me In A Thousand Year Sleep - Kotaku",
@@ -60,50 +100,10 @@
       "description": "The Belmont's Curse version of \"Bloody Tars\" is more restrained than it should be...",
       "url": "https://kotaku.com/the-belmonts-curse-soundtrack-needs-a-little-more-blood-and-tears-2000746787",
       "publishedAt": "2026-10-16T19:30:48Z",
-      "processed_at": "2026-10-18T03:29:51.125211+00:00"
-    },
-    {
-      "title": "Bug turns one of the biggest fears about Ray-Ban Meta smart glasses into reality - Ars Technica",
-      "source": {
-        "name": "Ars Technica"
-      },
-      "description": "The bug is fixed, but privacy concerns remain....",
-      "url": "https://arstechnica.com/gadgets/2026/10/ray-ban-meta-smart-glasses-found-recording-audio-without-wearers-consent/",
-      "publishedAt": "2026-10-16T19:11:50Z",
-      "processed_at": "2026-10-18T03:29:51.125211+00:00"
-    },
-    {
-      "title": "Why Apple is finally making its own smart home devices - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "Apple’s new smart home lineup promises easier setup, tighter integration, and data privacy. But with...",
-      "url": "https://www.theverge.com/tech/1013025/apple-home-collection-products-lg-schneider-smart-home",
-      "publishedAt": "2026-10-16T18:30:27Z",
-      "processed_at": "2026-10-18T03:29:51.125211+00:00"
-    },
-    {
-      "title": "AEW updates Full Gear 2026 logo to pay tribute to PAC - F4W/WON",
-      "source": {
-        "name": "Google News"
-      },
-      "description": "",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPd1FMak56WWU1NlZwUFdDOGJqSWVBNGx0b0dHUDNvSXRyLWh1eDFmZVREWFpnLU5oM2ZvcmxMdXhkaUtkY3pnNk9QLVN6cnNWX1RrZGZnWW9EdFdSMHBjM0l2dElKLXR5aG8yTks2QUtGXzNKdXVHQmZOb3dIZnQ0YkdWZkJXbXRpak5rWG9pWGJLR1VybzNQLW5R?oc=5",
-      "publishedAt": "2026-10-16T18:08:23Z",
-      "processed_at": "2026-10-18T03:29:51.125211+00:00"
-    },
-    {
-      "title": "iOS 27.2 has three new changes just added this week - 9to5Mac",
-      "source": {
-        "name": "9to5Mac"
-      },
-      "description": "iOS 27.2 is launching soon, and Apple keeps introducing new updates with each beta. Here are three c...",
-      "url": "https://9to5mac.com/2026/10/16/ios-27-2-has-three-new-changes-just-added-this-week/",
-      "publishedAt": "2026-10-16T17:45:00Z",
-      "processed_at": "2026-10-18T03:29:51.125211+00:00"
+      "processed_at": "2026-10-18T08:38:20.922379+00:00"
     }
   ],
-  "lastUpdated": "2026-10-18T03:29:51.125285+00:00",
+  "lastUpdated": "2026-10-18T08:38:20.922455+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
