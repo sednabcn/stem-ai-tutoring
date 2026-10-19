@@ -1,7 +1,57 @@
 {
   "status": "success",
-  "totalResults": 10,
+  "totalResults": 9,
   "articles": [
+    {
+      "title": "Apple Store plans reveal when the OLED iPad mini will likely go on sale - PhoneArena",
+      "source": {
+        "name": "PhoneArena"
+      },
+      "description": "",
+      "url": "https://www.phonearena.com/news/apple-store-plans-reveal-when-the-oled-ipad-mini-will-likely-go-on-sale_id184132",
+      "publishedAt": "2026-10-18T19:53:53Z",
+      "processed_at": "2026-10-19T23:23:26.281091+00:00"
+    },
+    {
+      "title": "New Tools Let Users Edit and Load Modified VBIOS on GeForce RTX GPUs Without Flashing - TechPowerUp",
+      "source": {
+        "name": "Techpowerup.com"
+      },
+      "description": "A developer who goes by Panchovix has released three tools that let NVIDIA GeForce RTX 50, RTX 40, a...",
+      "url": "https://www.techpowerup.com/353849/new-tools-let-users-edit-and-load-modified-vbios-on-geforce-rtx-gpus-without-flashing",
+      "publishedAt": "2026-10-18T18:35:00Z",
+      "processed_at": "2026-10-19T23:23:26.281091+00:00"
+    },
+    {
+      "title": "Apple Expected to Release New Products on Next Four Fridays - MacRumors",
+      "source": {
+        "name": "MacRumors"
+      },
+      "description": "Apple likely plans to release MacBook Pro models with OLED displays, 14-inch MacBook Pro and iMac mo...",
+      "url": "https://www.macrumors.com/2026/10/18/apple-product-releases-next-four-fridays/",
+      "publishedAt": "2026-10-18T18:01:43Z",
+      "processed_at": "2026-10-19T23:23:26.281091+00:00"
+    },
+    {
+      "title": "Apple’s HomeViews Reportedly Collected Dust in Warehouses ‘For the Better Part of a Year’ - Gizmodo",
+      "source": {
+        "name": "Gizmodo.com"
+      },
+      "description": "The product pipeline was choked nearly to death by Siri delays....",
+      "url": "https://gizmodo.com/apples-homeviews-reportedly-collected-dust-in-warehouses-for-the-better-part-of-a-year-2000827427",
+      "publishedAt": "2026-10-18T17:47:12Z",
+      "processed_at": "2026-10-19T23:23:26.281091+00:00"
+    },
+    {
+      "title": "Battlefield 6 devs to fix \"Secuty\" skin typo, but five-pistol outfit was intentional - Eurogamer.net",
+      "source": {
+        "name": "Eurogamer.net"
+      },
+      "description": "Battlefield Studios says a typo on a Season 5 skin will be fixed, but the outfit with five pistols w...",
+      "url": "https://www.eurogamer.net/battlefield-6-secuty-typo-five-pistol-skin-devs-respond",
+      "publishedAt": "2026-10-18T17:37:38Z",
+      "processed_at": "2026-10-19T23:23:26.281091+00:00"
+    },
     {
       "title": "Latest On AEW Status of Keith Lee - 411MANIA",
       "source": {
@@ -10,7 +60,17 @@
       "description": "Keith Lee hasn't been seen in AEW in almost three years, but he is still reportedly with the company...",
       "url": "https://411mania.com/wrestling/latest-aew-status-keith-lee/",
       "publishedAt": "2026-10-18T17:08:43Z",
-      "processed_at": "2026-10-19T19:05:17.400566+00:00"
+      "processed_at": "2026-10-19T23:23:26.281091+00:00"
+    },
+    {
+      "title": "Video game ownership bill introduced in Congress - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "The Power To The Players Act would guarantee buying a game means you own it, not license it....",
+      "url": "https://www.theverge.com/policy/1013521/video-game-ownership-bill-congress-power-to-the-players-act",
+      "publishedAt": "2026-10-18T16:27:51Z",
+      "processed_at": "2026-10-19T23:23:26.281091+00:00"
     },
     {
       "title": "Apple and T-Mobile oversight lets you finance iPhone 18 Pro or Duo on a prepaid plan - PhoneArena",
@@ -20,7 +80,7 @@
       "description": "",
       "url": "https://www.phonearena.com/news/iphone-18-pro-duo-prepaid-financing_id184131",
       "publishedAt": "2026-10-18T16:11:23Z",
-      "processed_at": "2026-10-19T19:05:17.400566+00:00"
+      "processed_at": "2026-10-19T23:23:26.281091+00:00"
     },
     {
       "title": "Apple Reveals iPhone Duo's Battery Capacity - MacRumors",
@@ -30,80 +90,10 @@
       "description": "Apple on Friday published an EU energy label for the iPhone Duo that reveals the device has a total ...",
       "url": "https://www.macrumors.com/2026/10/18/iphone-duo-battery-capacity/",
       "publishedAt": "2026-10-18T15:06:57Z",
-      "processed_at": "2026-10-19T19:05:17.400566+00:00"
-    },
-    {
-      "title": "Mark Gurman: Apple Made 'Major Mistake' With iPhone Duo Pre-Orders - MacRumors",
-      "source": {
-        "name": "MacRumors"
-      },
-      "description": "Despite knowing that the iPhone Duo would face \"severe supply constraints\" due to manufacturing chal...",
-      "url": "https://www.macrumors.com/2026/10/18/gurman-says-iphone-duo-preorders-major-mistake/",
-      "publishedAt": "2026-10-18T14:33:37Z",
-      "processed_at": "2026-10-19T19:05:17.400566+00:00"
-    },
-    {
-      "title": "Apple’s HomeView Offers Tantalizing Preview of a Future Robotic Version - Bloomberg",
-      "source": {
-        "name": "Bloomberg"
-      },
-      "description": "Also: The company is planning Nov. 6 retail store reset, indicating potential Mac release date....",
-      "url": "https://www.bloomberg.com/news/newsletters/2026-10-18/apple-homeview-with-robotic-arm-new-mac-ipad-mini-nov-6-release-iphone-duo",
-      "publishedAt": "2026-10-18T14:00:01Z",
-      "processed_at": "2026-10-19T19:05:17.400566+00:00"
-    },
-    {
-      "title": "AI-Generated Content Can Plant Fake Memories, Researchers Say - Gizmodo",
-      "source": {
-        "name": "Gizmodo.com"
-      },
-      "description": "Human memory is suggestible, and AI is making it worse....",
-      "url": "https://gizmodo.com/ai-generated-content-can-plant-fake-memories-researchers-say-2000826459",
-      "publishedAt": "2026-10-18T13:39:01Z",
-      "processed_at": "2026-10-19T19:05:17.400566+00:00"
-    },
-    {
-      "title": "Google debuts $180 Fitbit Edge tracker in continued health push - The Seattle Times",
-      "source": {
-        "name": "Bloomberg"
-      },
-      "description": "The new device gives Google another way to promote its redesigned health app, which debuted in May a...",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-12/google-debuts-180-fitbit-edge-tracker-replacing-the-fitbit-charge-6",
-      "publishedAt": "2026-10-18T13:02:02Z",
-      "processed_at": "2026-10-19T19:05:17.400566+00:00"
-    },
-    {
-      "title": "How overhead projectors took over your classroom - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "Overhead projectors were ubiquitous in classrooms, for several decades. This is the story of where t...",
-      "url": "https://www.theverge.com/podcast/1013473/overhead-projector-version-history",
-      "publishedAt": "2026-10-18T12:55:01Z",
-      "processed_at": "2026-10-19T19:05:17.400566+00:00"
-    },
-    {
-      "title": "Show us your clutter, and we’ll tell you which generation you come from - The Washington Post",
-      "source": {
-        "name": "The Washington Post"
-      },
-      "description": "Experts say that the type of stuff you have at home — figurines, encyclopedias, old electronics, wat...",
-      "url": "https://www.washingtonpost.com/home/2026/10/18/hallmarks-boomers-gen-x-millennials-seen-their-clutter/",
-      "publishedAt": "2026-10-18T12:04:28Z",
-      "processed_at": "2026-10-19T19:05:17.400566+00:00"
-    },
-    {
-      "title": "Always on, always listening: New AI devices are pushing legal limits and could put users in jeopardy - CNBC",
-      "source": {
-        "name": "Google News"
-      },
-      "description": "",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBJZHRYMm5JQlowV3BIWlYyVFYyblFwaXRiUkdrbFBTQVZybmhQeHhGaWdqR0lIOFdRMjBnWEJHa05yT2NzczdueGlIRHVUWldMcndwQVo4QmlseTU2TjZZZG9tTlpBVGw1SmkySGx4eWMtUVg2Zkc1d2NB0gF_QVVfeXFMT3dVUEl4TlZJSzV4eEpqMWFWYTJESFF2YmFWN1VHWDhtWHpjajJrV0djSGNmTkRPcE92UnpEYzVMVEhPb0N0WjdheDZtMGVTeUdwOHdfd05xMFJ4Q29KSzZ5QXFlM2JrN1poZjI0Q1I1S192SFFUOVBDV3FqM1NZOA?oc=5",
-      "publishedAt": "2026-10-18T12:00:01Z",
-      "processed_at": "2026-10-19T19:05:17.400566+00:00"
+      "processed_at": "2026-10-19T23:23:26.281091+00:00"
     }
   ],
-  "lastUpdated": "2026-10-19T19:05:17.400656+00:00",
+  "lastUpdated": "2026-10-19T23:23:26.281143+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
