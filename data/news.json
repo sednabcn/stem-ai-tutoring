@@ -3,6 +3,56 @@
   "totalResults": 10,
   "articles": [
     {
+      "title": "Smart TV owners have found a new use for AI: Removing home-screen clutter - Mashable",
+      "source": {
+        "name": "Mashable"
+      },
+      "description": "Some TV owners are asking Claude Code to clear out the junk so they can just watch their shows....",
+      "url": "https://mashable.com/tech/smart-tv-ads-claude-code-ai-cleanup",
+      "publishedAt": "2026-10-20T22:59:09Z",
+      "processed_at": "2026-10-22T01:18:16.105609+00:00"
+    },
+    {
+      "title": "Review: Nintendo Switch Sports Resort (Switch 2) - A Winning Return To Wuhu - Nintendo Life",
+      "source": {
+        "name": "Nintendo Life"
+      },
+      "description": "Woohoo Island...",
+      "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/nintendo-switch-sports-resort",
+      "publishedAt": "2026-10-20T22:11:51Z",
+      "processed_at": "2026-10-22T01:18:16.105609+00:00"
+    },
+    {
+      "title": "Report: Microsoft's Project Helix planned for 2028 at $1,200 to $1,800 price - Ars Technica",
+      "source": {
+        "name": "Ars Technica"
+      },
+      "description": "Xbox maker is also apparently planning its own gaming handheld for next year....",
+      "url": "https://arstechnica.com/gaming/2026/10/report-microsofts-project-helix-planned-for-2028-at-1200-to-1800-price/",
+      "publishedAt": "2026-10-20T21:14:33Z",
+      "processed_at": "2026-10-22T01:18:16.105609+00:00"
+    },
+    {
+      "title": "PHP warns admins of two critical flaws, emergency patches coming tomorrow - BleepingComputer",
+      "source": {
+        "name": "BleepingComputer"
+      },
+      "description": "The PHP security team is warning administrators to prepare for emergency security updates tomorrow t...",
+      "url": "https://www.bleepingcomputer.com/news/security/php-warns-admins-of-two-critical-flaws-emergency-patches-coming-tomorrow/",
+      "publishedAt": "2026-10-20T20:56:43Z",
+      "processed_at": "2026-10-22T01:18:16.105609+00:00"
+    },
+    {
+      "title": "Android 17 QPR3 Beta 2 for Pixel rolling out with 21 fixes - 9to5Google",
+      "source": {
+        "name": "9to5google.com"
+      },
+      "description": "The Android 17 QPR3 preview ahead of the March 2027 launch continues today with Beta 2 for Google Pi...",
+      "url": "http://9to5google.com/2026/10/20/android-17-qpr3-beta-2-pixel/",
+      "publishedAt": "2026-10-20T20:31:00Z",
+      "processed_at": "2026-10-22T01:18:16.105609+00:00"
+    },
+    {
       "title": "EA Sports Announces Return of 'Fight Night' Boxing Video Game, 'The Fight Is Never Over' - Bleacher Report",
       "source": {
         "name": "Bleacher Report"
@@ -10,100 +60,50 @@
       "description": "Retro gaming fans were given a treat on Tuesday....",
       "url": "https://bleacherreport.com/articles/25513665-ea-sports-announces-return-fight-night-boxing-video-game-fight-never-over",
       "publishedAt": "2026-10-20T20:09:34Z",
-      "processed_at": "2026-10-21T22:10:06.870829+00:00"
+      "processed_at": "2026-10-22T01:18:16.105609+00:00"
     },
     {
-      "title": "A Big Overhaul Of Xbox Game Pass Is In The Works - Kotaku",
+      "title": "Google is bringing a more personal version of its Gemini AI assistant to your car - TechCrunch",
       "source": {
-        "name": "Kotaku"
+        "name": "TechCrunch"
       },
-      "description": "The service will reportedly move to a more à la carte model...",
-      "url": "https://kotaku.com/a-big-overhaul-of-xbox-game-pass-is-in-the-works-2000748041",
-      "publishedAt": "2026-10-20T19:52:34Z",
-      "processed_at": "2026-10-21T22:10:06.870829+00:00"
+      "description": "Google is bringing Gemini's Personal Intelligence feature to cars, allowing its AI assistant to draw...",
+      "url": "https://techcrunch.com/2026/10/20/google-is-bringing-a-more-personal-version-of-its-gemini-ai-assistant-to-your-car/",
+      "publishedAt": "2026-10-20T20:00:00Z",
+      "processed_at": "2026-10-22T01:18:16.105609+00:00"
     },
     {
-      "title": "Does anyone actually want to win the medium-lift race in the United States? - Ars Technica",
-      "source": {
-        "name": "Ars Technica"
-      },
-      "description": "Ars Technica is here to help with a guide to the medium-lift space race....",
-      "url": "https://arstechnica.com/space/2026/10/does-anyone-actually-want-to-win-the-medium-lift-race-in-the-united-states/",
-      "publishedAt": "2026-10-20T19:13:31Z",
-      "processed_at": "2026-10-21T22:10:06.870829+00:00"
-    },
-    {
-      "title": "iOS 27 adds scam-prevention feature to iPhone, here’s how to enable it - 9to5Mac",
+      "title": "John Ternus talks his involvement with design teams at Apple - 9to5Mac",
       "source": {
         "name": "9to5Mac"
       },
-      "description": "iOS 27 adds ‘Impersonation Risk Detection’ to help protect against scams, but it’s off by default. H...",
-      "url": "https://9to5mac.com/2026/10/20/ios-27-adds-scam-prevention-feature-to-iphone-heres-how-to-enable-it/",
-      "publishedAt": "2026-10-20T18:56:00Z",
-      "processed_at": "2026-10-21T22:10:06.870829+00:00"
+      "description": "John Ternus was interviewed by TIME and addressed a question about his ongoing involvement as CEO wi...",
+      "url": "https://9to5mac.com/2026/10/20/john-ternus-talks-his-involvement-with-design-teams-at-apple/",
+      "publishedAt": "2026-10-20T19:51:00Z",
+      "processed_at": "2026-10-22T01:18:16.105609+00:00"
     },
     {
-      "title": "Microsoft reportedly plans Xbox handheld in 2027, next-gen console in 2028 - The Verge",
+      "title": "The Internet goes on high alert after discovery of 8 compromised TLS certs - Ars Technica",
       "source": {
-        "name": "The Verge"
+        "name": "Ars Technica"
       },
-      "description": "The next Xbox could cost between $1,200 and $1,800 if Microsoft doesn’t subsidize it....",
-      "url": "https://www.theverge.com/news/1014666/xbox-project-helix-launch-2028-rumor",
-      "publishedAt": "2026-10-20T18:45:39Z",
-      "processed_at": "2026-10-21T22:10:06.870829+00:00"
+      "description": "Intermediate certs allow anyone to mint web credentials for any Internet server....",
+      "url": "https://arstechnica.com/security/2026/10/the-internet-goes-on-high-alert-after-discovery-of-8-compromised-tls-certs/",
+      "publishedAt": "2026-10-20T19:47:35Z",
+      "processed_at": "2026-10-22T01:18:16.105609+00:00"
     },
     {
-      "title": "Samsung Has Already Found the Next Way to Unfold a Phone - Gizmodo",
-      "source": {
-        "name": "Gizmodo.com"
-      },
-      "description": "A leaker claims that the long-awaited Galaxy Z Slide is finally upon us....",
-      "url": "https://gizmodo.com/samsung-galaxy-z-slide-rumor-2000828188",
-      "publishedAt": "2026-10-20T18:20:54Z",
-      "processed_at": "2026-10-21T22:10:06.870829+00:00"
-    },
-    {
-      "title": "Here's What Apple's Apps Look Like on the iPhone Duo - MacRumors",
+      "title": "Apple's Touchscreen OLED MacBook Pro: Everything We Know - MacRumors",
       "source": {
         "name": "MacRumors"
       },
-      "description": "With just three days to go until the iPhone Duo is released, Apple is getting ready for the launch. ...",
-      "url": "https://www.macrumors.com/2026/10/20/apple-apps-iphone-duo/",
-      "publishedAt": "2026-10-20T18:12:38Z",
-      "processed_at": "2026-10-21T22:10:06.870829+00:00"
-    },
-    {
-      "title": "ID@XBOX x IGN Showcase Recap: All the News and Announcements - XBOX Wire",
-      "source": {
-        "name": "Xbox.com"
-      },
-      "description": "We've just wrapped up another fantastic ID@XBOX and IGN Showcase, bringing the latest news and updat...",
-      "url": "https://news.xbox.com/en-us/2026/10/20/id-xbox-ign-showcase-october-2026/",
-      "publishedAt": "2026-10-20T17:50:15Z",
-      "processed_at": "2026-10-21T22:10:06.870829+00:00"
-    },
-    {
-      "title": "Sundar Pichai: Google’s Frontier Imperative, Compute Scarcity Dilemmas, Future AI Products and Businesses - Big Technology | Alex Kantrowitz",
-      "source": {
-        "name": "Bigtechnology.com"
-      },
-      "description": "Google’s CEO on sacrificing cloud revenue for AI research, the future of personal agents, and why he...",
-      "url": "https://www.bigtechnology.com/p/sundar-pichai-googles-frontier-imperative",
-      "publishedAt": "2026-10-20T17:47:40Z",
-      "processed_at": "2026-10-21T22:10:06.870829+00:00"
-    },
-    {
-      "title": "DreamWorks Shrek 2 Remastered announced for PS5, Xbox Series, Switch 2, Switch, and PC - Gematsu",
-      "source": {
-        "name": "Gematsu"
-      },
-      "description": "Aspyr has announced DreamWorks Shrek 2 Remastered for PlayStation 5, Xbox Series, Switch 2, Switch, ...",
-      "url": "https://www.gematsu.com/2026/10/dreamworks-shrek-2-remastered-announced-for-ps5-xbox-series-switch-2-switch-and-pc",
-      "publishedAt": "2026-10-20T17:33:18Z",
-      "processed_at": "2026-10-21T22:10:06.870829+00:00"
+      "description": "Apple is working on a high-end MacBook Pro, and it's nearly ready to launch. It will have several fi...",
+      "url": "https://www.macrumors.com/guide/touchscreen-macbook-pro/",
+      "publishedAt": "2026-10-20T19:40:41Z",
+      "processed_at": "2026-10-22T01:18:16.105609+00:00"
     }
   ],
-  "lastUpdated": "2026-10-21T22:10:06.870914+00:00",
+  "lastUpdated": "2026-10-22T01:18:16.105664+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
