@@ -3,6 +3,16 @@
   "totalResults": 9,
   "articles": [
     {
+      "title": "The AI graveyard: a running list of projects and startups that didn’t make it - TechCrunch",
+      "source": {
+        "name": "TechCrunch"
+      },
+      "description": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the A...",
+      "url": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+      "publishedAt": "2026-10-24T19:00:00Z",
+      "processed_at": "2026-10-25T21:30:17.494735+00:00"
+    },
+    {
       "title": "The iPhone Duo Just Passed 20,000 in Our Fold-a-Phone Testing Machine. Can It Beat the Galaxy Z Fold 8? - CNET",
       "source": {
         "name": "CNET"
@@ -10,17 +20,37 @@
       "description": "We're folding Apple's iPhone Duo 900 times an hour to test how its hinge will last....",
       "url": "https://www.cnet.com/tech/mobile/iphone-duo-how-we-test-folds/",
       "publishedAt": "2026-10-24T18:16:00Z",
-      "processed_at": "2026-10-25T18:12:47.846187+00:00"
+      "processed_at": "2026-10-25T21:30:17.494735+00:00"
     },
     {
-      "title": "These clever apps show off the iPhone Duo’s potential - TechCrunch",
+      "title": "New ‘Mass Effect 5’ Details Emerge After Cancellation, And It Sounds Great - Forbes",
       "source": {
-        "name": "TechCrunch"
+        "name": "Forbes"
       },
-      "description": "From retro cassette players and virtual notebooks to flight trackers and even a digital toaster, dev...",
-      "url": "https://techcrunch.com/2026/10/24/these-clever-apps-show-off-the-iphone-duos-potential/",
-      "publishedAt": "2026-10-24T15:00:00Z",
-      "processed_at": "2026-10-25T18:12:47.846187+00:00"
+      "description": "",
+      "url": "https://www.forbes.com/sites/paultassi/2026/10/24/new-mass-effect-5-details-emerge-after-cancellation-and-it-sounds-great/",
+      "publishedAt": "2026-10-24T15:12:59Z",
+      "processed_at": "2026-10-25T21:30:17.494735+00:00"
+    },
+    {
+      "title": "Gamers are now playing Steam games directly on PlayStation 5, no streaming required - VideoCardz.com",
+      "source": {
+        "name": "Videocardz.com"
+      },
+      "description": "Steam games are reaching playable states on PS5 through Wine-based compatibility tools. Cyberpunk 20...",
+      "url": "https://videocardz.com/newz/gamers-are-now-playing-steam-games-directly-on-playstation-5-no-streaming-required",
+      "publishedAt": "2026-10-24T14:41:43Z",
+      "processed_at": "2026-10-25T21:30:17.494735+00:00"
+    },
+    {
+      "title": "Swap The Bathtub Curtain: Add Privacy With An Amazon Alternative - House Digest",
+      "source": {
+        "name": "Housedigest.com"
+      },
+      "description": "Tired of the clingy fabric of shower curtains, but still need a little privacy when you shower? Cons...",
+      "url": "https://www.housedigest.com/2290556/swap-bathtub-curtain-add-privacy-frost-glass-amazon-alternative/",
+      "publishedAt": "2026-10-24T14:30:00Z",
+      "processed_at": "2026-10-25T21:30:17.494735+00:00"
     },
     {
       "title": "‘Cyberpunk 2077’ Rockets To Its Second-Highest Playercount Since Launch - Forbes",
@@ -30,7 +60,7 @@
       "description": "",
       "url": "https://www.forbes.com/sites/paultassi/2026/10/24/cyberpunk-2077-rockets-to-its-second-highest-playercount-since-launch/",
       "publishedAt": "2026-10-24T14:17:31Z",
-      "processed_at": "2026-10-25T18:12:47.846187+00:00"
+      "processed_at": "2026-10-25T21:30:17.494735+00:00"
     },
     {
       "title": "What to expect from Apple’s ‘Pro and tell’ event - The Verge",
@@ -40,7 +70,7 @@
       "description": "Apple’s long-rumored touchscreen MacBook Pro, an OLED iPad Mini, and more....",
       "url": "https://www.theverge.com/tech/1018169/what-to-expect-apple-pro-and-tell-event-touchscreen-macbook-pro",
       "publishedAt": "2026-10-24T14:15:00Z",
-      "processed_at": "2026-10-25T18:12:47.846187+00:00"
+      "processed_at": "2026-10-25T21:30:17.494735+00:00"
     },
     {
       "title": "I hope Apple’s touchscreen MacBook takes some lessons from this Lenovo laptop - The Verge",
@@ -50,7 +80,7 @@
       "description": "Apple is expected to finally launch a touchscreen MacBook Pro. Windows laptops have had them for age...",
       "url": "https://www.theverge.com/report/1018131/apple-macbook-touchscreen-stylus-pencil-lenovo-laptop-analysis",
       "publishedAt": "2026-10-24T14:00:00Z",
-      "processed_at": "2026-10-25T18:12:47.846187+00:00"
+      "processed_at": "2026-10-25T21:30:17.494735+00:00"
     },
     {
       "title": "Anthropic’s AI Hid a Secret Message in the Stars. OpenAI’s AI Found It. - Gizmodo",
@@ -60,40 +90,10 @@
       "description": "Morse code is back, baby....",
       "url": "https://gizmodo.com/anthropics-ai-hid-a-secret-message-in-the-stars-openais-ai-found-it-2000830047",
       "publishedAt": "2026-10-24T13:31:26Z",
-      "processed_at": "2026-10-25T18:12:47.846187+00:00"
-    },
-    {
-      "title": "Xbox's brand-new COO is already gone, three months after the job was created - Eurogamer.net",
-      "source": {
-        "name": "Eurogamer.net"
-      },
-      "description": "Helen Chiang is leaving Microsoft just three months after becoming Xbox's first chief operating offi...",
-      "url": "https://www.eurogamer.net/xbox-coo-helen-chiang-leaves-microsoft",
-      "publishedAt": "2026-10-24T12:57:17Z",
-      "processed_at": "2026-10-25T18:12:47.846187+00:00"
-    },
-    {
-      "title": "Apple Store Pickup System for iPhone Duo Just Went Live Again in U.S. and Canada - MacRumors",
-      "source": {
-        "name": "MacRumors"
-      },
-      "description": "The option to reserve an iPhone Duo for Apple Store pickup resumed in the U.S. and Canada between 5:...",
-      "url": "https://www.macrumors.com/2026/10/24/apple-store-pickup-iphone-duo-us/",
-      "publishedAt": "2026-10-24T12:12:00Z",
-      "processed_at": "2026-10-25T18:12:47.846187+00:00"
-    },
-    {
-      "title": "It’s time to find a new browser - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "Plus: Call of Duty: Modern Warfare 4, Wildwood, Claude Duet, and more in this week’s Installer....",
-      "url": "https://www.theverge.com/tech/1018121/cod-4-claude-duet-wildwood-installer",
-      "publishedAt": "2026-10-24T12:00:00Z",
-      "processed_at": "2026-10-25T18:12:47.846187+00:00"
+      "processed_at": "2026-10-25T21:30:17.494735+00:00"
     }
   ],
-  "lastUpdated": "2026-10-25T18:12:47.846260+00:00",
+  "lastUpdated": "2026-10-25T21:30:17.494796+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
