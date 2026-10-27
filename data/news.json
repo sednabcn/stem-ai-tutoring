@@ -1,99 +1,109 @@
 {
   "status": "success",
-  "totalResults": 9,
+  "totalResults": 10,
   "articles": [
     {
-      "title": "From impulse purchase to pocket studio: The M-Vave FM-1 - Ars Technica",
+      "title": "Modders unlock hidden AI performance on NVIDIA RTX 20, 30 and 40 series GPUs, with up to 2× tensor throughput - VideoCardz.com",
       "source": {
-        "name": "Ars Technica"
+        "name": "Videocardz.com"
       },
-      "description": "M-Vave's cheap FM-1 pocket synth has exploded as a community firmware playground....",
-      "url": "https://arstechnica.com/gadgets/2026/10/from-impulse-purchase-to-pocket-studio-the-m-vave-fm-1/",
-      "publishedAt": "2026-10-26T11:00:15Z",
-      "processed_at": "2026-10-27T14:04:52.905701+00:00"
+      "description": "Modders have removed compute restrictions from several RTX 20, 30 and 40 series GPUs. The changes im...",
+      "url": "https://videocardz.com/newz/modders-unlock-hidden-ai-performance-on-nvidia-rtx-20-30-and-40-series-gpus-with-up-to-2x-tensor-throughput",
+      "publishedAt": "2026-10-26T18:18:35Z",
+      "processed_at": "2026-10-27T19:52:48.250304+00:00"
     },
     {
-      "title": "50+ PS5, PS4 Games to Buy in PS Store's Planet of the Deals Sale (North America/Europe) - Push Square",
-      "source": {
-        "name": "Push Square"
-      },
-      "description": "Recommended games going cheap...",
-      "url": "https://www.pushsquare.com/features/50plus-ps5-ps4-games-to-buy-in-ps-stores-planet-of-the-deals-sale-north-americaeurope",
-      "publishedAt": "2026-10-26T10:00:00Z",
-      "processed_at": "2026-10-27T14:04:52.905701+00:00"
-    },
-    {
-      "title": "Google Changed Gmail On October 16—Check Your Account Now - Forbes",
-      "source": {
-        "name": "Forbes"
-      },
-      "description": "",
-      "url": "https://www.forbes.com/sites/zakdoffman/2026/10/26/google-changed-gmail-on-october-16-check-your-account-now/",
-      "publishedAt": "2026-10-26T09:23:31Z",
-      "processed_at": "2026-10-27T14:04:52.905701+00:00"
-    },
-    {
-      "title": "Apple Will Reportedly Stop Making You Feel Like a Thief When You Return an Unopened iPhone - Gizmodo",
-      "source": {
-        "name": "Gizmodo.com"
-      },
-      "description": "Opening your unopened box just felt aggressive....",
-      "url": "https://gizmodo.com/apple-will-reportedly-stop-making-you-feel-like-a-thief-when-you-return-an-unopened-iphone-2000830392",
-      "publishedAt": "2026-10-26T09:01:59Z",
-      "processed_at": "2026-10-27T14:04:52.905701+00:00"
-    },
-    {
-      "title": "Conflicting reports about T-Mobile's special service in parts of the US - PhoneArena",
-      "source": {
-        "name": "PhoneArena"
-      },
-      "description": "What's your T-Satellite experience like?...",
-      "url": "https://www.phonearena.com/news/conflicting-reports-about-t-mobile-special-service-in-parts-of-the-us_id184305",
-      "publishedAt": "2026-10-26T08:41:27Z",
-      "processed_at": "2026-10-27T14:04:52.905701+00:00"
-    },
-    {
-      "title": "Column | Asking Eric: Family bans ‘quirky’ friend from holidays - The Washington Post",
-      "source": {
-        "name": "The Washington Post"
-      },
-      "description": "How does the letter writer tell a friend she's not welcome at family functions anymore?...",
-      "url": "https://www.washingtonpost.com/advice/2026/10/26/asking-eric-family-bans-quirky-friend-holidays/",
-      "publishedAt": "2026-10-26T08:35:58Z",
-      "processed_at": "2026-10-27T14:04:52.905701+00:00"
-    },
-    {
-      "title": "12 AI models were asked what they really think about humans — and almost all agreed on one uncomfortable truth - Tom's Guide",
-      "source": {
-        "name": "Tom's Guide"
-      },
-      "description": "Researchers asked 12 AI models, including ChatGPT, Claude, Gemini and Grok, what they really think a...",
-      "url": "https://www.tomsguide.com/ai/12-ai-models-were-asked-what-they-really-think-about-humans-and-almost-all-agreed-on-one-uncomfortable-truth",
-      "publishedAt": "2026-10-26T06:45:00Z",
-      "processed_at": "2026-10-27T14:04:52.905701+00:00"
-    },
-    {
-      "title": "Will Apple’s overhauled MacBook Pro finally offer 5G cellular support? - 9to5Mac",
+      "title": "watchOS 27.2 available now for Apple Watch, here’s what’s new - 9to5Mac",
       "source": {
         "name": "9to5Mac"
       },
-      "description": "This week, Apple will be overhauling the MacBook Pro for the first time since 2021. OLED, touch supp...",
-      "url": "https://9to5mac.com/2026/10/25/macbook-pro-overhaul-cellular-support-touchscreen/",
-      "publishedAt": "2026-10-26T06:16:00Z",
-      "processed_at": "2026-10-27T14:04:52.905701+00:00"
+      "description": "watchOS 27.2 is rolling out now for Apple Watch users alongside visionOS 27.2 and more. Here’s what’...",
+      "url": "https://9to5mac.com/2026/10/26/watchos-27-2-available-now-for-apple-watch-heres-whats-new/",
+      "publishedAt": "2026-10-26T17:53:09Z",
+      "processed_at": "2026-10-27T19:52:48.250304+00:00"
     },
     {
-      "title": "Microsoft Teams to Use AI for Detecting Phishing Attacks Using Teams Conversations - CyberSecurityNews",
+      "title": "Apple’s Foldable iPhone Duo Draws Early Complaints of the Screen Cracking - Yahoo Finance",
       "source": {
-        "name": "Cybersecuritynews.com"
+        "name": "Yahoo Entertainment"
       },
-      "description": "Microsoft is preparing to add AI phishing detection to Microsoft Teams, using conversation context t...",
-      "url": "https://cybersecuritynews.com/microsoft-teams-ai-detection/",
-      "publishedAt": "2026-10-26T04:45:28Z",
-      "processed_at": "2026-10-27T14:04:52.905701+00:00"
+      "description": "The iPhone Duo, one of Apple Inc.’s biggest new products in years, is drawing a growing number of co...",
+      "url": "https://finance.yahoo.com/technology/articles/apple-foldable-iphone-duo-draws-171331167.html",
+      "publishedAt": "2026-10-26T17:13:31Z",
+      "processed_at": "2026-10-27T19:52:48.250304+00:00"
+    },
+    {
+      "title": "Is Rayquaza Broken? Delta Reign Set Preview - PokeBeach",
+      "source": {
+        "name": "Pokebeach.com"
+      },
+      "description": "Our new set Delta Reign is getting some hype because of the crazy new engine based around Mega Rayqu...",
+      "url": "https://www.pokebeach.com/?p=326488",
+      "publishedAt": "2026-10-26T17:01:05Z",
+      "processed_at": "2026-10-27T19:52:48.250304+00:00"
+    },
+    {
+      "title": "Everything old is new again with the Fitbit Edge - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "The $180 Fitbit Edge is a sleek return to the days of simpler fitness tracking bands. All the basics...",
+      "url": "https://www.theverge.com/tech/1018621/fitbit-edge-review-fitness-tracker-wearables-health",
+      "publishedAt": "2026-10-26T17:00:00Z",
+      "processed_at": "2026-10-27T19:52:48.250304+00:00"
+    },
+    {
+      "title": "Grand Theft Auto 6 Review Embargo Date Details - Insider Gaming",
+      "source": {
+        "name": "Insider-gaming.com"
+      },
+      "description": "One of the most important dates in gaming history has been revealed: We know when the GTA 6 review e...",
+      "url": "https://insider-gaming.com/grand-theft-auto-6-review-embargo/",
+      "publishedAt": "2026-10-26T16:54:31Z",
+      "processed_at": "2026-10-27T19:52:48.250304+00:00"
+    },
+    {
+      "title": "Review: The Whyte Sythe RS Delivers High-End Suspension at a Reasonable Price - Pinkbike",
+      "source": {
+        "name": "Pinkbike.com"
+      },
+      "description": "",
+      "url": "https://www.pinkbike.com/news/review-the-whyte-sythe-rs-best-value-mtb.html",
+      "publishedAt": "2026-10-26T16:46:30Z",
+      "processed_at": "2026-10-27T19:52:48.250304+00:00"
+    },
+    {
+      "title": "Now That The Shoe Is On The Other Foot, Microsoft And Epic Games Suddenly Agree That AI Is Theft - Kotaku",
+      "source": {
+        "name": "Kotaku"
+      },
+      "description": "Rules for thee, but not for me...",
+      "url": "https://kotaku.com/now-that-the-shoe-is-on-the-other-foot-microsoft-and-epic-games-suddenly-agree-that-ai-is-theft-2000749316",
+      "publishedAt": "2026-10-26T16:30:57Z",
+      "processed_at": "2026-10-27T19:52:48.250304+00:00"
+    },
+    {
+      "title": "Apple’s latest AirTag 2 tracker just fell to a new all-time low price of $23 - CNN",
+      "source": {
+        "name": "CNN"
+      },
+      "description": "Apple’s improved second-generation AirTags are now as affordable as $22 apiece when you take advanta...",
+      "url": "https://www.cnn.com/cnn-underscored/deals/apple-airtag-2-sale-2026-10-26",
+      "publishedAt": "2026-10-26T16:30:00Z",
+      "processed_at": "2026-10-27T19:52:48.250304+00:00"
+    },
+    {
+      "title": "Critical 'HTTP2Shell' Brotli vulnerability triggers emergency patches - BleepingComputer",
+      "source": {
+        "name": "BleepingComputer"
+      },
+      "description": "A critical flaw dubbed 'HTTP2Shell' in Brotli, the C decoder library built into Node.js, could allow...",
+      "url": "https://www.bleepingcomputer.com/news/security/critical-http2shell-brotli-vulnerability-triggers-emergency-patches/",
+      "publishedAt": "2026-10-26T16:27:57Z",
+      "processed_at": "2026-10-27T19:52:48.250304+00:00"
     }
   ],
-  "lastUpdated": "2026-10-27T14:04:52.905779+00:00",
+  "lastUpdated": "2026-10-27T19:52:48.250371+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
