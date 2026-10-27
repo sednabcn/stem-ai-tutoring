@@ -3,14 +3,14 @@
   "totalResults": 10,
   "articles": [
     {
-      "title": "A YouTuber dissected an iPhone Duo and thinks he found the cause of crackgate - The Verge",
+      "title": "Hinge damage suspected to be behind iPhone Duo screen cracks - AppleInsider",
       "source": {
-        "name": "The Verge"
+        "name": "AppleInsider"
       },
-      "description": "A weak spot in the hinge may be failing and cracking iPhone Duo screens....",
-      "url": "https://www.theverge.com/tech/1018290/dissected-iphone-duo-crackgate-hinge-screen",
-      "publishedAt": "2026-10-25T20:16:19Z",
-      "processed_at": "2026-10-26T21:25:40.883190+00:00"
+      "description": "The cause behind a repeating pattern in the way a very small amount of iPhone Duo screen cracks may ...",
+      "url": "https://appleinsider.com/articles/26/10/25/hinge-damage-suspected-to-be-behind-iphone-duo-screen-cracks",
+      "publishedAt": "2026-10-25T21:28:00Z",
+      "processed_at": "2026-10-27T01:14:06.386515+00:00"
     },
     {
       "title": "13 Short And Sweet Scary Games To Treat Yourself To Before Halloween - Kotaku",
@@ -20,7 +20,7 @@
       "description": "If you're lagging behind on your annual intake of ghouls and goblins, enjoy this selection of brief ...",
       "url": "https://kotaku.com/13-short-and-sweet-scary-games-to-treat-yourself-to-before-halloween-2000749391",
       "publishedAt": "2026-10-25T20:09:55Z",
-      "processed_at": "2026-10-26T21:25:40.883190+00:00"
+      "processed_at": "2026-10-27T01:14:06.386515+00:00"
     },
     {
       "title": "Zen Browser is the Arc replacement I was looking for - The Verge",
@@ -30,7 +30,17 @@
       "description": "Zen Browser rips off all the best bits of Arc without the AI and feature bloat, making it the perfec...",
       "url": "https://www.theverge.com/tech/1018275/zen-browser-arc-replacement",
       "publishedAt": "2026-10-25T19:24:50Z",
-      "processed_at": "2026-10-26T21:25:40.883190+00:00"
+      "processed_at": "2026-10-27T01:14:06.386515+00:00"
+    },
+    {
+      "title": "Netflix Reportedly Walked Away After Xbox Asked $800 Million for Its Game IP - TechPowerUp",
+      "source": {
+        "name": "Techpowerup.com"
+      },
+      "description": "Netflix reportedly offered Microsoft $500 million for seven years of exclusive film and TV adaptatio...",
+      "url": "https://www.techpowerup.com/354119/netflix-reportedly-walked-away-after-xbox-asked-usd-800-million-for-its-game-ip",
+      "publishedAt": "2026-10-25T19:18:54Z",
+      "processed_at": "2026-10-27T01:14:06.386515+00:00"
     },
     {
       "title": "Retire Your Old Fountain: The Alternative From Home Depot Perfect For Your Small Patio - House Digest",
@@ -40,7 +50,7 @@
       "description": "The Teamson Solar Gray Stone Wall Fountain from Home Depot is a great fountain for small patios than...",
       "url": "https://www.housedigest.com/2294062/retire-your-old-fountain-alternative-from-home-depot-small-patio/",
       "publishedAt": "2026-10-25T19:00:00Z",
-      "processed_at": "2026-10-26T21:25:40.883190+00:00"
+      "processed_at": "2026-10-27T01:14:06.386515+00:00"
     },
     {
       "title": "Nintendo reveals why you don’t actually fight Bowser in Super Mario Bros. 1 - Nintendo Everything",
@@ -50,7 +60,7 @@
       "description": "Nintendo’s Shigeru Miyamoto has shared some insight into why players don’t actually fight Bowser in ...",
       "url": "https://nintendoeverything.com/nintendo-reveals-why-you-dont-actually-fight-bowser-in-super-mario-bros-1/",
       "publishedAt": "2026-10-25T18:20:46Z",
-      "processed_at": "2026-10-26T21:25:40.883190+00:00"
+      "processed_at": "2026-10-27T01:14:06.386515+00:00"
     },
     {
       "title": "Sunday Preview – Orlocks rule the roads of Necromunda - Warhammer Community",
@@ -60,7 +70,7 @@
       "description": "See what’s coming up next week for Necromunda, Warhammer 40,000, and more....",
       "url": "https://www.warhammer-community.com/articles/1bpkd6my/sunday-preview-orlocks-rule-the-roads-of-necromunda",
       "publishedAt": "2026-10-25T17:57:35Z",
-      "processed_at": "2026-10-26T21:25:40.883190+00:00"
+      "processed_at": "2026-10-27T01:14:06.386515+00:00"
     },
     {
       "title": "Unpatched Tailscale SSH Flaws Could Let a Hacked Device Reach Root on Other Servers - The Hacker News",
@@ -70,7 +80,17 @@
       "description": "Unpatched Tailscale SSH flaws could let attackers gain root on permitted servers from a compromised ...",
       "url": "https://thehackernews.com/2026/10/unpatched-tailscale-ssh-flaws-could-let.html",
       "publishedAt": "2026-10-25T17:44:00Z",
-      "processed_at": "2026-10-26T21:25:40.883190+00:00"
+      "processed_at": "2026-10-27T01:14:06.386515+00:00"
+    },
+    {
+      "title": "The Making Of: Addams Family Values, Ocean Software's Attempt to Mix Hollywood & the Legend of Zelda - Time Extension",
+      "source": {
+        "name": "Timeextension.com"
+      },
+      "description": "\"Management didn't really understand development or the creative process\"...",
+      "url": "https://www.timeextension.com/features/the-making-of-addams-family-values-ocean-softwares-attempt-to-mix-hollywood-and-the-legend-of-zelda",
+      "publishedAt": "2026-10-25T17:30:28Z",
+      "processed_at": "2026-10-27T01:14:06.386515+00:00"
     },
     {
       "title": "How To Build A Cheap Home Server To Save Money On Subscriptions - BGR",
@@ -80,30 +100,10 @@
       "description": "You can turn an old laptop, a computer, or even a Raspberry Pi into a cheap media server, but it's b...",
       "url": "https://www.bgr.com/2292030/how-to-build-home-server-save-money/",
       "publishedAt": "2026-10-25T17:17:00Z",
-      "processed_at": "2026-10-26T21:25:40.883190+00:00"
-    },
-    {
-      "title": "PS5 Answers 'Bleakest' Month with a 22% Upswing in Sales - Push Square",
-      "source": {
-        "name": "Push Square"
-      },
-      "description": "How much does the enthusiast discourse matter?...",
-      "url": "https://www.pushsquare.com/features/ps5-answers-bleakest-month-with-a-22percent-upswing-in-sales",
-      "publishedAt": "2026-10-25T17:15:09Z",
-      "processed_at": "2026-10-26T21:25:40.883190+00:00"
-    },
-    {
-      "title": "11 Cool Mini-Gadgets You May Not Realize Exist - SlashGear",
-      "source": {
-        "name": "SlashGear"
-      },
-      "description": "You probably weren’t looking for a remote-control paper plane or a $600 calculator. Fair enough. The...",
-      "url": "https://www.slashgear.com/2293802/cool-mini-gadgets-may-not-know-about/",
-      "publishedAt": "2026-10-25T16:30:00Z",
-      "processed_at": "2026-10-26T21:25:40.883190+00:00"
+      "processed_at": "2026-10-27T01:14:06.386515+00:00"
     }
   ],
-  "lastUpdated": "2026-10-26T21:25:40.883259+00:00",
+  "lastUpdated": "2026-10-27T01:14:06.386563+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
