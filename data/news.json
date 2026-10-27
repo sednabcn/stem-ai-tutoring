@@ -1,109 +1,99 @@
 {
   "status": "success",
-  "totalResults": 10,
+  "totalResults": 9,
   "articles": [
     {
-      "title": "Hinge damage suspected to be behind iPhone Duo screen cracks - AppleInsider",
+      "title": "12 AI models were asked what they really think about humans — and almost all agreed on one uncomfortable truth - Tom's Guide",
       "source": {
-        "name": "AppleInsider"
+        "name": "Tom's Guide"
       },
-      "description": "The cause behind a repeating pattern in the way a very small amount of iPhone Duo screen cracks may ...",
-      "url": "https://appleinsider.com/articles/26/10/25/hinge-damage-suspected-to-be-behind-iphone-duo-screen-cracks",
-      "publishedAt": "2026-10-25T21:28:00Z",
-      "processed_at": "2026-10-27T01:14:06.386515+00:00"
+      "description": "Researchers asked 12 AI models, including ChatGPT, Claude, Gemini and Grok, what they really think a...",
+      "url": "https://www.tomsguide.com/ai/12-ai-models-were-asked-what-they-really-think-about-humans-and-almost-all-agreed-on-one-uncomfortable-truth",
+      "publishedAt": "2026-10-26T06:45:00Z",
+      "processed_at": "2026-10-27T07:25:46.617871+00:00"
     },
     {
-      "title": "13 Short And Sweet Scary Games To Treat Yourself To Before Halloween - Kotaku",
+      "title": "Microsoft Teams to Use AI for Detecting Phishing Attacks Using Teams Conversations - CyberSecurityNews",
       "source": {
-        "name": "Kotaku"
+        "name": "Cybersecuritynews.com"
       },
-      "description": "If you're lagging behind on your annual intake of ghouls and goblins, enjoy this selection of brief ...",
-      "url": "https://kotaku.com/13-short-and-sweet-scary-games-to-treat-yourself-to-before-halloween-2000749391",
-      "publishedAt": "2026-10-25T20:09:55Z",
-      "processed_at": "2026-10-27T01:14:06.386515+00:00"
+      "description": "Microsoft is preparing to add AI phishing detection to Microsoft Teams, using conversation context t...",
+      "url": "https://cybersecuritynews.com/microsoft-teams-ai-detection/",
+      "publishedAt": "2026-10-26T04:45:28Z",
+      "processed_at": "2026-10-27T07:25:46.617871+00:00"
     },
     {
-      "title": "Zen Browser is the Arc replacement I was looking for - The Verge",
+      "title": "13 Practical Tools You Should Carry For Fall Camping - SlashGear",
       "source": {
-        "name": "The Verge"
+        "name": "SlashGear"
       },
-      "description": "Zen Browser rips off all the best bits of Arc without the AI and feature bloat, making it the perfec...",
-      "url": "https://www.theverge.com/tech/1018275/zen-browser-arc-replacement",
-      "publishedAt": "2026-10-25T19:24:50Z",
-      "processed_at": "2026-10-27T01:14:06.386515+00:00"
+      "description": "Autumn is a glorious time to get the max use out of your camping gear. These tools will supplement y...",
+      "url": "https://www.slashgear.com/2294846/practical-tools-for-fall-camping/",
+      "publishedAt": "2026-10-26T01:30:00Z",
+      "processed_at": "2026-10-27T07:25:46.617871+00:00"
     },
     {
-      "title": "Netflix Reportedly Walked Away After Xbox Asked $800 Million for Its Game IP - TechPowerUp",
+      "title": "The best apps for tracking your reading and discovering new books - TechCrunch",
       "source": {
-        "name": "Techpowerup.com"
+        "name": "TechCrunch"
       },
-      "description": "Netflix reportedly offered Microsoft $500 million for seven years of exclusive film and TV adaptatio...",
-      "url": "https://www.techpowerup.com/354119/netflix-reportedly-walked-away-after-xbox-asked-usd-800-million-for-its-game-ip",
-      "publishedAt": "2026-10-25T19:18:54Z",
-      "processed_at": "2026-10-27T01:14:06.386515+00:00"
+      "description": "There are many apps that are designed to help you track your reading and discover new books, so we c...",
+      "url": "https://techcrunch.com/2026/10/25/5-best-apps-track-reading-discover-new-books/",
+      "publishedAt": "2026-10-26T01:10:00Z",
+      "processed_at": "2026-10-27T07:25:46.617871+00:00"
     },
     {
-      "title": "Retire Your Old Fountain: The Alternative From Home Depot Perfect For Your Small Patio - House Digest",
-      "source": {
-        "name": "Housedigest.com"
-      },
-      "description": "The Teamson Solar Gray Stone Wall Fountain from Home Depot is a great fountain for small patios than...",
-      "url": "https://www.housedigest.com/2294062/retire-your-old-fountain-alternative-from-home-depot-small-patio/",
-      "publishedAt": "2026-10-25T19:00:00Z",
-      "processed_at": "2026-10-27T01:14:06.386515+00:00"
-    },
-    {
-      "title": "Nintendo reveals why you don’t actually fight Bowser in Super Mario Bros. 1 - Nintendo Everything",
+      "title": "Pokemon Pokopia datamine seemingly leaks full DLC 2 Pokemon lineup - Nintendo Everything",
       "source": {
         "name": "Nintendoeverything.com"
       },
-      "description": "Nintendo’s Shigeru Miyamoto has shared some insight into why players don’t actually fight Bowser in ...",
-      "url": "https://nintendoeverything.com/nintendo-reveals-why-you-dont-actually-fight-bowser-in-super-mario-bros-1/",
-      "publishedAt": "2026-10-25T18:20:46Z",
-      "processed_at": "2026-10-27T01:14:06.386515+00:00"
+      "description": "Pokemon Pokopia datamines have revealed a whole bunch of new Pokemon that will most likely be added ...",
+      "url": "https://nintendoeverything.com/?p=927947",
+      "publishedAt": "2026-10-26T00:20:47Z",
+      "processed_at": "2026-10-27T07:25:46.617871+00:00"
     },
     {
-      "title": "Sunday Preview – Orlocks rule the roads of Necromunda - Warhammer Community",
+      "title": "Phantom Blade Zero review: dazzling kung fu, frustrating design - Creative Bloq",
       "source": {
-        "name": "Warhammer-community.com"
+        "name": "Creative Bloq"
       },
-      "description": "See what’s coming up next week for Necromunda, Warhammer 40,000, and more....",
-      "url": "https://www.warhammer-community.com/articles/1bpkd6my/sunday-preview-orlocks-rule-the-roads-of-necromunda",
-      "publishedAt": "2026-10-25T17:57:35Z",
-      "processed_at": "2026-10-27T01:14:06.386515+00:00"
+      "description": "S-Game’s martial-arts mocap makes the combat enthralling, but spongy bosses and glitches hold it bac...",
+      "url": "https://www.creativebloq.com/reviews/phantom-blade-zero-review-dark-wuxia-martial-arts-masters-with-an-apprentices-execution",
+      "publishedAt": "2026-10-26T00:00:00Z",
+      "processed_at": "2026-10-27T07:25:46.617871+00:00"
     },
     {
-      "title": "Unpatched Tailscale SSH Flaws Could Let a Hacked Device Reach Root on Other Servers - The Hacker News",
+      "title": "\"Tomb Raider: Legacy of Atlantis\" 30th Anniversary Trailer - Dark Horizons",
       "source": {
-        "name": "Internet"
+        "name": "Dark Horizons"
       },
-      "description": "Unpatched Tailscale SSH flaws could let attackers gain root on permitted servers from a compromised ...",
-      "url": "https://thehackernews.com/2026/10/unpatched-tailscale-ssh-flaws-could-let.html",
-      "publishedAt": "2026-10-25T17:44:00Z",
-      "processed_at": "2026-10-27T01:14:06.386515+00:00"
+      "description": "A new trailer is out for “Tomb Raider: Legacy of Atlantis,” the reimagining of the original 1996 fir...",
+      "url": "https://www.darkhorizons.com/tomb-raider-legacy-of-atlantis-30th-anniversary-trailer/",
+      "publishedAt": "2026-10-25T23:48:14Z",
+      "processed_at": "2026-10-27T07:25:46.617871+00:00"
     },
     {
-      "title": "The Making Of: Addams Family Values, Ocean Software's Attempt to Mix Hollywood & the Legend of Zelda - Time Extension",
+      "title": "5 Pocket-Sized EDC for People Who Hate Carrying Bulky Multitools - Yanko Design",
       "source": {
-        "name": "Timeextension.com"
+        "name": "Yanko Design"
       },
-      "description": "\"Management didn't really understand development or the creative process\"...",
-      "url": "https://www.timeextension.com/features/the-making-of-addams-family-values-ocean-softwares-attempt-to-mix-hollywood-and-the-legend-of-zelda",
-      "publishedAt": "2026-10-25T17:30:28Z",
-      "processed_at": "2026-10-27T01:14:06.386515+00:00"
+      "description": "A multitool can earn its place in your pocket, right up until its weight makes you leave it at home....",
+      "url": "https://www.yankodesign.com/2026/10/25/5-pocket-sized-edc-for-people-who-hate-carrying-bulky-multitools/",
+      "publishedAt": "2026-10-25T23:30:13Z",
+      "processed_at": "2026-10-27T07:25:46.617871+00:00"
     },
     {
-      "title": "How To Build A Cheap Home Server To Save Money On Subscriptions - BGR",
+      "title": "7 Cars And Trucks That Have Some Of The Worst MPG Ratings Ever - Jalopnik",
       "source": {
-        "name": "BGR"
+        "name": "Jalopnik"
       },
-      "description": "You can turn an old laptop, a computer, or even a Raspberry Pi into a cheap media server, but it's b...",
-      "url": "https://www.bgr.com/2292030/how-to-build-home-server-save-money/",
-      "publishedAt": "2026-10-25T17:17:00Z",
-      "processed_at": "2026-10-27T01:14:06.386515+00:00"
+      "description": "Seven fuel-hungry vehicles, including the Ram TRX, Ferrari Enzo, Bugatti Veyron and Lamborghini LM00...",
+      "url": "https://www.jalopnik.com/2293295/cars-that-have-worst-mpg/",
+      "publishedAt": "2026-10-25T23:25:00Z",
+      "processed_at": "2026-10-27T07:25:46.617871+00:00"
     }
   ],
-  "lastUpdated": "2026-10-27T01:14:06.386563+00:00",
+  "lastUpdated": "2026-10-27T07:25:46.617940+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
