@@ -1,99 +1,109 @@
 {
   "status": "success",
-  "totalResults": 9,
+  "totalResults": 10,
   "articles": [
     {
-      "title": "iOS 27.2 introduces new age verification feature using selfie - 9to5Mac",
+      "title": "Did The You Don’t Know Jack Devs Plagiarize A Solo Dev’s Board Game? - Kotaku",
+      "source": {
+        "name": "Kotaku"
+      },
+      "description": "Sam Greszes says that Jackbox Games went silent after requesting a demo of his board game Die on thi...",
+      "url": "https://kotaku.com/did-the-you-dont-know-jack-devs-plagiarize-a-solo-devs-board-game-2000750185",
+      "publishedAt": "2026-10-27T19:25:28Z",
+      "processed_at": "2026-10-28T22:28:58.362715+00:00"
+    },
+    {
+      "title": "iOS 27.2 has two CarPlay improvements, here’s what’s new - 9to5Mac",
       "source": {
         "name": "9to5Mac"
       },
-      "description": "iOS 27.2 is here, and it introduces a new feature for age verification using a selfie. Here are the ...",
-      "url": "https://9to5mac.com/2026/10/27/ios-27-2-introduces-new-age-verification-feature-using-selfie/",
-      "publishedAt": "2026-10-27T15:41:57Z",
-      "processed_at": "2026-10-28T17:59:31.489910+00:00"
+      "description": "iOS 27.2 arrived this week with a variety of new features, including two improvements for CarPlay. H...",
+      "url": "https://9to5mac.com/2026/10/27/ios-27-2-has-two-carplay-improvements-heres-whats-new/",
+      "publishedAt": "2026-10-27T18:53:51Z",
+      "processed_at": "2026-10-28T22:28:58.362715+00:00"
     },
     {
-      "title": "Exclusive: Meta director Rohit Patel departs after 8 years to take on Microsoft Office Suite - TechCrunch",
+      "title": "GTA 6 File Size Revealed, And It’s Massive - GameSpot",
       "source": {
-        "name": "TechCrunch"
+        "name": "GameSpot"
       },
-      "description": "Rohit Patel is departing Meta after eight years working on AI evaluations and reinforcement learning...",
-      "url": "https://techcrunch.com/2026/10/27/meta-ai-director-rohit-patel-leaves-to-take-on-microsoft-office-and-google-workspace/",
-      "publishedAt": "2026-10-27T14:59:09Z",
-      "processed_at": "2026-10-28T17:59:31.489910+00:00"
+      "description": "Gigantic....",
+      "url": "https://www.gamespot.com/articles/gta-6-file-size-revealed-and-its-massive/",
+      "publishedAt": "2026-10-27T17:49:14Z",
+      "processed_at": "2026-10-28T22:28:58.362715+00:00"
     },
     {
-      "title": "Apple unveils new 14-inch MacBook Pro with M6 chip - TechCrunch",
+      "title": "New Cyberpunk 2077 PS5 Patch Is Great News If You're Argentinian, CDPR Clarifies Update - Push Square",
       "source": {
-        "name": "TechCrunch"
+        "name": "Push Square"
       },
-      "description": "The new MacBook Pro comes with 24 hours of battery life, and now features support for Wi-Fi 7 and Bl...",
-      "url": "https://techcrunch.com/2026/10/27/apple-unveils-new-14-inch-macbook-pro-with-m6-chip/",
-      "publishedAt": "2026-10-27T14:25:11Z",
-      "processed_at": "2026-10-28T17:59:31.489910+00:00"
+      "description": "Mystery solved...",
+      "url": "https://www.pushsquare.com/news/2026/10/new-cyberpunk-2077-ps5-patch-is-great-news-if-youre-argentinian-cdpr-clarifies-update",
+      "publishedAt": "2026-10-27T17:15:00Z",
+      "processed_at": "2026-10-28T22:28:58.362715+00:00"
     },
     {
-      "title": "Nintendo Indie World Showcase set for October 28 - Gematsu",
+      "title": "Maxime Penaud talks about winning the Slayer Sword - Warhammer Community",
       "source": {
-        "name": "Gematsu"
+        "name": "Warhammer-community.com"
       },
-      "description": "Nintendo will host an Indie World Showcase on October 28 at 7:00 a.m. PT / 10:00 a.m. ET featuring r...",
-      "url": "https://www.gematsu.com/2026/10/nintendo-indie-world-showcase-set-for-october-28",
-      "publishedAt": "2026-10-27T14:04:39Z",
-      "processed_at": "2026-10-28T17:59:31.489910+00:00"
+      "description": "A closer look at the stunning miniature and a chat with the winning painter....",
+      "url": "https://www.warhammer-community.com/articles/i0wowquj/maxime-penaud-talks-about-winning-the-slayer-sword",
+      "publishedAt": "2026-10-27T17:01:16Z",
+      "processed_at": "2026-10-28T22:28:58.362715+00:00"
     },
     {
-      "title": "Apple Creator Studio gets powerful new AI features using OpenAI models - 9to5Mac",
-      "source": {
-        "name": "9to5Mac"
-      },
-      "description": "Apple Creator Studio updates have today been announced, with what the company describes as “powerful...",
-      "url": "https://9to5mac.com/2026/10/27/apple-creator-studio-gets-powerful-new-ai-features-using-openai-models/",
-      "publishedAt": "2026-10-27T13:39:54Z",
-      "processed_at": "2026-10-28T17:59:31.489910+00:00"
-    },
-    {
-      "title": "Microsoft Issues Emergency Patch For Critical Google Algorithm Flaw - Forbes",
-      "source": {
-        "name": "Forbes"
-      },
-      "description": "",
-      "url": "https://www.forbes.com/sites/daveywinder/2026/10/27/microsoft-issues-emergency-patch-for-critical-google-algorithm-flaw/",
-      "publishedAt": "2026-10-27T13:39:00Z",
-      "processed_at": "2026-10-28T17:59:31.489910+00:00"
-    },
-    {
-      "title": "Xbox cracks down on shovelware by targeting triple-stack achievement games - TrueAchievements",
-      "source": {
-        "name": "TrueAchievements"
-      },
-      "description": "Xbox has informed developers and publishers that they can no longer release identical games that don...",
-      "url": "https://www.trueachievements.com/news/xbox-ban-shovelware-triple-stack-achievement-games",
-      "publishedAt": "2026-10-27T13:38:39Z",
-      "processed_at": "2026-10-28T17:59:31.489910+00:00"
-    },
-    {
-      "title": "Opera introduces a new web standard to let users deploy AI locally in their browser - TechCrunch",
-      "source": {
-        "name": "TechCrunch"
-      },
-      "description": "The new standard, WebAI, is designed to work with a variety of AI models....",
-      "url": "https://techcrunch.com/2026/10/27/opera-introduces-a-new-web-standard-to-let-users-deploy-ai-locally-in-their-browser/",
-      "publishedAt": "2026-10-27T13:00:00Z",
-      "processed_at": "2026-10-28T17:59:31.489910+00:00"
-    },
-    {
-      "title": "'Our Immediate Priority Is to Secure Our Systems' — Kingdom Come: Deliverance Developer Hit by 'Serious' Cybersecurity Incident - IGN",
+      "title": "World of Warcraft Forever Opts For a Slower Update Schedule Than Retail's 8-Week Patch Cycle - IGN",
       "source": {
         "name": "IGN"
       },
-      "description": "Warhorse Studios — the developer behind Kingdom Come: Deliverance, its sequel and an upcoming Lord o...",
-      "url": "https://www.ign.com/articles/kingdom-come-deliverance-developer-serious-cybersecurity-incident",
-      "publishedAt": "2026-10-27T11:35:35Z",
-      "processed_at": "2026-10-28T17:59:31.489910+00:00"
+      "description": "World of Warcraft Forever launches a week from today, and while the game will have a huge swath of c...",
+      "url": "https://www.ign.com/articles/blizzard-reveals-plan-for-world-of-warcraft-forever-update-frequency",
+      "publishedAt": "2026-10-27T17:00:00Z",
+      "processed_at": "2026-10-28T22:28:58.362715+00:00"
+    },
+    {
+      "title": "Warhammer Day – Chaos Champions through the ages - Warhammer Community",
+      "source": {
+        "name": "Warhammer-community.com"
+      },
+      "description": "Take a look back at the heroes of the Dark Gods over the years....",
+      "url": "https://www.warhammer-community.com/articles/rfpmoxiw/warhammer-day-chaos-champions-through-the-ages",
+      "publishedAt": "2026-10-27T16:56:25Z",
+      "processed_at": "2026-10-28T22:28:58.362715+00:00"
+    },
+    {
+      "title": "Firefox brings back internet icons for new anti-tracking, anti-AI campaign - Mashable",
+      "source": {
+        "name": "Mashable"
+      },
+      "description": "Numa Numa Guy, Overly Attached Girlfriend, Annoying Orange — they're all here....",
+      "url": "https://mashable.com/tech/come-back-to-firefox-campaign-internet-personalities-memes",
+      "publishedAt": "2026-10-27T16:47:04Z",
+      "processed_at": "2026-10-28T22:28:58.362715+00:00"
+    },
+    {
+      "title": "T-Mobile Is Offering a $1,000 Off Discount on the Apple iPhone Duo Foldable Smartphone - IGN",
+      "source": {
+        "name": "IGN"
+      },
+      "description": "Apple's biggest iPhone update in years....",
+      "url": "https://www.ign.com/articles/t-mobiles-apple-iphone-duo-deal-explained",
+      "publishedAt": "2026-10-27T16:15:00Z",
+      "processed_at": "2026-10-28T22:28:58.362715+00:00"
+    },
+    {
+      "title": "Google’s next Genie AI model generates more realistic experiences - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "The Genie 4 world model offers more realism and can create audio to accompany its interactive worlds...",
+      "url": "https://www.theverge.com/tech/1019076/google-genie-4-ai-model",
+      "publishedAt": "2026-10-27T16:00:00Z",
+      "processed_at": "2026-10-28T22:28:58.362715+00:00"
     }
   ],
-  "lastUpdated": "2026-10-28T17:59:31.489972+00:00",
+  "lastUpdated": "2026-10-28T22:28:58.362787+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
