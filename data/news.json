@@ -1,109 +1,99 @@
 {
   "status": "success",
-  "totalResults": 10,
+  "totalResults": 9,
   "articles": [
     {
-      "title": "Pokémon Unite Ending Service For Switch In March 2027 - Nintendo Life",
-      "source": {
-        "name": "Nintendo Life"
-      },
-      "description": "\"Thank you for playing\"...",
-      "url": "https://www.nintendolife.com/news/2026/10/pokemon-unite-ending-service-for-switch-in-march-2027",
-      "publishedAt": "2026-10-27T07:18:01Z",
-      "processed_at": "2026-10-28T11:02:50.438132+00:00"
-    },
-    {
-      "title": "New iMac and 14-Inch MacBook Pro With M6 Chip Expected Tomorrow - MacRumors",
-      "source": {
-        "name": "MacRumors"
-      },
-      "description": "After announcing a new iPad mini today, Apple is expected to introduce updated iMac and 14-inch MacB...",
-      "url": "https://www.macrumors.com/2026/10/26/new-imac-and-14-inch-macbook-pro-m6-chip-rumors/",
-      "publishedAt": "2026-10-27T02:30:00Z",
-      "processed_at": "2026-10-28T11:02:50.438132+00:00"
-    },
-    {
-      "title": "Google Photos rolls out customizable redesign of your ‘Collections’ tab - 9to5Google",
-      "source": {
-        "name": "9to5google.com"
-      },
-      "description": "Following the floating navigation bar, Google Photos for Android is rolling out a big redesign that ...",
-      "url": "http://9to5google.com/2026/10/26/google-photos-collections-redesign/",
-      "publishedAt": "2026-10-27T02:18:00Z",
-      "processed_at": "2026-10-28T11:02:50.438132+00:00"
-    },
-    {
-      "title": "Xbox sale round-up October 27, 2026 - TrueAchievements",
-      "source": {
-        "name": "TrueAchievements"
-      },
-      "description": "New Xbox sales are now live, with big discounts on BioShock, No Man's Sky, BioShock Infinite, Atomic...",
-      "url": "https://www.trueachievements.com/n64139/xbox-sale-roundup-october-27-2026",
-      "publishedAt": "2026-10-27T00:24:59Z",
-      "processed_at": "2026-10-28T11:02:50.438132+00:00"
-    },
-    {
-      "title": "Instagram takes on YouTube with new 90-minute horizontal video format - 9to5Mac",
+      "title": "iOS 27.2 introduces new age verification feature using selfie - 9to5Mac",
       "source": {
         "name": "9to5Mac"
       },
-      "description": "According to The Hollywood Reporter, Instagram today began testing a new long-form horizontal video ...",
-      "url": "https://9to5mac.com/2026/10/26/instagram-takes-on-youtube-with-new-90-minute-horizontal-video-format/",
-      "publishedAt": "2026-10-26T23:06:00Z",
-      "processed_at": "2026-10-28T11:02:50.438132+00:00"
+      "description": "iOS 27.2 is here, and it introduces a new feature for age verification using a selfie. Here are the ...",
+      "url": "https://9to5mac.com/2026/10/27/ios-27-2-introduces-new-age-verification-feature-using-selfie/",
+      "publishedAt": "2026-10-27T15:41:57Z",
+      "processed_at": "2026-10-28T17:59:31.489910+00:00"
     },
     {
-      "title": "GTA 6's Release Has Led to a Notable Spike in Time Off Requests, According to New Data - IGN",
+      "title": "Exclusive: Meta director Rohit Patel departs after 8 years to take on Microsoft Office Suite - TechCrunch",
+      "source": {
+        "name": "TechCrunch"
+      },
+      "description": "Rohit Patel is departing Meta after eight years working on AI evaluations and reinforcement learning...",
+      "url": "https://techcrunch.com/2026/10/27/meta-ai-director-rohit-patel-leaves-to-take-on-microsoft-office-and-google-workspace/",
+      "publishedAt": "2026-10-27T14:59:09Z",
+      "processed_at": "2026-10-28T17:59:31.489910+00:00"
+    },
+    {
+      "title": "Apple unveils new 14-inch MacBook Pro with M6 chip - TechCrunch",
+      "source": {
+        "name": "TechCrunch"
+      },
+      "description": "The new MacBook Pro comes with 24 hours of battery life, and now features support for Wi-Fi 7 and Bl...",
+      "url": "https://techcrunch.com/2026/10/27/apple-unveils-new-14-inch-macbook-pro-with-m6-chip/",
+      "publishedAt": "2026-10-27T14:25:11Z",
+      "processed_at": "2026-10-28T17:59:31.489910+00:00"
+    },
+    {
+      "title": "Nintendo Indie World Showcase set for October 28 - Gematsu",
+      "source": {
+        "name": "Gematsu"
+      },
+      "description": "Nintendo will host an Indie World Showcase on October 28 at 7:00 a.m. PT / 10:00 a.m. ET featuring r...",
+      "url": "https://www.gematsu.com/2026/10/nintendo-indie-world-showcase-set-for-october-28",
+      "publishedAt": "2026-10-27T14:04:39Z",
+      "processed_at": "2026-10-28T17:59:31.489910+00:00"
+    },
+    {
+      "title": "Apple Creator Studio gets powerful new AI features using OpenAI models - 9to5Mac",
+      "source": {
+        "name": "9to5Mac"
+      },
+      "description": "Apple Creator Studio updates have today been announced, with what the company describes as “powerful...",
+      "url": "https://9to5mac.com/2026/10/27/apple-creator-studio-gets-powerful-new-ai-features-using-openai-models/",
+      "publishedAt": "2026-10-27T13:39:54Z",
+      "processed_at": "2026-10-28T17:59:31.489910+00:00"
+    },
+    {
+      "title": "Microsoft Issues Emergency Patch For Critical Google Algorithm Flaw - Forbes",
+      "source": {
+        "name": "Forbes"
+      },
+      "description": "",
+      "url": "https://www.forbes.com/sites/daveywinder/2026/10/27/microsoft-issues-emergency-patch-for-critical-google-algorithm-flaw/",
+      "publishedAt": "2026-10-27T13:39:00Z",
+      "processed_at": "2026-10-28T17:59:31.489910+00:00"
+    },
+    {
+      "title": "Xbox cracks down on shovelware by targeting triple-stack achievement games - TrueAchievements",
+      "source": {
+        "name": "TrueAchievements"
+      },
+      "description": "Xbox has informed developers and publishers that they can no longer release identical games that don...",
+      "url": "https://www.trueachievements.com/news/xbox-ban-shovelware-triple-stack-achievement-games",
+      "publishedAt": "2026-10-27T13:38:39Z",
+      "processed_at": "2026-10-28T17:59:31.489910+00:00"
+    },
+    {
+      "title": "Opera introduces a new web standard to let users deploy AI locally in their browser - TechCrunch",
+      "source": {
+        "name": "TechCrunch"
+      },
+      "description": "The new standard, WebAI, is designed to work with a variety of AI models....",
+      "url": "https://techcrunch.com/2026/10/27/opera-introduces-a-new-web-standard-to-let-users-deploy-ai-locally-in-their-browser/",
+      "publishedAt": "2026-10-27T13:00:00Z",
+      "processed_at": "2026-10-28T17:59:31.489910+00:00"
+    },
+    {
+      "title": "'Our Immediate Priority Is to Secure Our Systems' — Kingdom Come: Deliverance Developer Hit by 'Serious' Cybersecurity Incident - IGN",
       "source": {
         "name": "IGN"
       },
-      "description": "GTA 6's release has led to as much as a 17% increase in time-off requests, according to a new report...",
-      "url": "https://www.ign.com/articles/gta-6-causes-17-spike-in-time-off-requests-on-games-release-date",
-      "publishedAt": "2026-10-26T21:42:50Z",
-      "processed_at": "2026-10-28T11:02:50.438132+00:00"
-    },
-    {
-      "title": "AI Has Triggered A PS5 Homebrew Gold Rush, But It’s Also The Reason GTA 6 Can’t Be Pirated At Release - Kotaku",
-      "source": {
-        "name": "Kotaku"
-      },
-      "description": "One hacker is being accused of ruining everyone's chances of pirating GTA 6 after reporting a massiv...",
-      "url": "https://kotaku.com/ai-has-triggered-a-ps5-homebrew-gold-rush-but-its-also-the-reason-gta-6-cant-be-pirated-at-release-2000749776",
-      "publishedAt": "2026-10-26T21:30:32Z",
-      "processed_at": "2026-10-28T11:02:50.438132+00:00"
-    },
-    {
-      "title": "Rare Insight into PS5 Sales Pattern Reveals Significant Wolverine Bump - Push Square",
-      "source": {
-        "name": "Push Square"
-      },
-      "description": "Good job, bub...",
-      "url": "https://www.pushsquare.com/news/2026/10/rare-insight-into-ps5-sales-pattern-reveals-significant-wolverine-bump",
-      "publishedAt": "2026-10-26T21:30:00Z",
-      "processed_at": "2026-10-28T11:02:50.438132+00:00"
-    },
-    {
-      "title": "iPhone AI Images and Edits Now Have a Hidden Watermark - MacRumors",
-      "source": {
-        "name": "MacRumors"
-      },
-      "description": "Images generated with Image Playground and some photos edited with Apple Intelligence will now inclu...",
-      "url": "https://www.macrumors.com/2026/10/26/iphone-synthid-watermarks/",
-      "publishedAt": "2026-10-26T21:15:02Z",
-      "processed_at": "2026-10-28T11:02:50.438132+00:00"
-    },
-    {
-      "title": "Chrome 156 for Googlebook rolling out with 14 updates across sites, shortcuts, more - 9to5Google",
-      "source": {
-        "name": "9to5google.com"
-      },
-      "description": "Google is rolling out Chrome 156 for Googlebooks with a slew of improvements and bug fixes. This fol...",
-      "url": "http://9to5google.com/2026/10/26/chrome-156-googlebooks/",
-      "publishedAt": "2026-10-26T20:58:00Z",
-      "processed_at": "2026-10-28T11:02:50.438132+00:00"
+      "description": "Warhorse Studios — the developer behind Kingdom Come: Deliverance, its sequel and an upcoming Lord o...",
+      "url": "https://www.ign.com/articles/kingdom-come-deliverance-developer-serious-cybersecurity-incident",
+      "publishedAt": "2026-10-27T11:35:35Z",
+      "processed_at": "2026-10-28T17:59:31.489910+00:00"
     }
   ],
-  "lastUpdated": "2026-10-28T11:02:50.438207+00:00",
+  "lastUpdated": "2026-10-28T17:59:31.489972+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
