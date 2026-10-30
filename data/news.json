@@ -1,7 +1,77 @@
 {
   "status": "success",
-  "totalResults": 10,
+  "totalResults": 9,
   "articles": [
+    {
+      "title": "‘South Park’ Serves Up a Steaming Pile of Beef Satire — and a ‘GTA VI’ Sneak Peek - The Hollywood Reporter",
+      "source": {
+        "name": "Hollywood Reporter"
+      },
+      "description": "The Comedy Central staple takes on inflation, tariffs and elite food trends, while previewing what i...",
+      "url": "http://www.hollywoodreporter.com/tv/tv-features/south-park-recap-beef-gta-vi-sneak-peek-1236742371/",
+      "publishedAt": "2026-10-29T06:40:50Z",
+      "processed_at": "2026-10-30T08:11:55.526257+00:00"
+    },
+    {
+      "title": "Receive a Spewpa That Can Evolve into a Random Vivillon Pattern in Pokémon Legends: Z‑A - Pokemon.com",
+      "source": {
+        "name": "Pokemon.com"
+      },
+      "description": "Celebrate the release of Pokémon Legends: Z-A – Nintendo Switch 2 Edition + Mega Dimension with this...",
+      "url": "https://www.pokemon.com/us/news/receive-a-spewpa-that-can-evolve-into-a-random-vivillon-pattern-in-pokemon-legends-z-a",
+      "publishedAt": "2026-10-29T06:10:24Z",
+      "processed_at": "2026-10-30T08:11:55.526257+00:00"
+    },
+    {
+      "title": "Dokapon Kingdom: Connect 2 announced for Switch 2, Switch, and PC - Gematsu",
+      "source": {
+        "name": "Gematsu"
+      },
+      "description": "Publishers Compile Heart and Idea Factory International, and developer Sting have announced RPG-styl...",
+      "url": "https://www.gematsu.com/2026/10/dokapon-kingdom-connect-2-announced-for-switch-2-switch-and-pc",
+      "publishedAt": "2026-10-29T03:22:45Z",
+      "processed_at": "2026-10-30T08:11:55.526257+00:00"
+    },
+    {
+      "title": "12 New GTA 6 Gameplay Screenshots Released - Insider Gaming",
+      "source": {
+        "name": "Insider-gaming.com"
+      },
+      "description": "Grand Theft Auto 6 launches on November 19, and 14 new screenshots have been released giving another...",
+      "url": "https://insider-gaming.com/12-new-gta-6-gameplay-screenshots-released/",
+      "publishedAt": "2026-10-29T02:10:51Z",
+      "processed_at": "2026-10-30T08:11:55.526257+00:00"
+    },
+    {
+      "title": "BioWare Co-Founder Says EA's Private Equity Acquisition Was 'Final Nail In The Coffin' For The Mass Effect Studio - Kotaku",
+      "source": {
+        "name": "Kotaku"
+      },
+      "description": "Greg Zeschuk left the studio after Mass Effect 3, but still weighed in on the company's closure earl...",
+      "url": "https://kotaku.com/bioware-co-founder-says-eas-acquisition-was-final-nail-in-the-coffin-for-the-mass-effect-studio-2000750626",
+      "publishedAt": "2026-10-29T00:43:49Z",
+      "processed_at": "2026-10-30T08:11:55.526257+00:00"
+    },
+    {
+      "title": "Xreal Aura: Preorders open for smart glasses powered by Google Android XR - Mashable",
+      "source": {
+        "name": "Mashable"
+      },
+      "description": "The futuristic new glasses combine elements of augmented and virtual reality....",
+      "url": "https://mashable.com/tech/xreal-aura-xr-glasses-release-preorder-deals",
+      "publishedAt": "2026-10-28T23:46:41Z",
+      "processed_at": "2026-10-30T08:11:55.526257+00:00"
+    },
+    {
+      "title": "Adam Mosseri says negativity around AI is ‘going to get worse’ - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "Adam Mosseri said in an interview that he expects frustration and anger toward AI to continue gettin...",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1021644/adam-mosseri-instagram-ai-negativity",
+      "publishedAt": "2026-10-28T23:05:39Z",
+      "processed_at": "2026-10-30T08:11:55.526257+00:00"
+    },
     {
       "title": "Apple’s touchscreen MacBook Pro pushes laptop pricing to a new extreme - TechCrunch",
       "source": {
@@ -10,100 +80,20 @@
       "description": "Prepare to cough up around $14,549 if you want the new touchscreen MacBook Pro to have every upgrade...",
       "url": "https://techcrunch.com/2026/10/28/apples-touchscreen-macbook-pro-pushes-laptop-pricing-to-a-new-extreme/",
       "publishedAt": "2026-10-28T22:47:50Z",
-      "processed_at": "2026-10-30T01:38:11.391690+00:00"
+      "processed_at": "2026-10-30T08:11:55.526257+00:00"
     },
     {
-      "title": "All 16 D&D World of Warcraft Species Revealed - Dungeons & Dragons Fanatics",
+      "title": "Subcycle videography of Landau–Zener–Majorana transitions in graphene - Nature",
       "source": {
-        "name": "Dungeonsanddragonsfan.com"
+        "name": "Nature.com"
       },
-      "description": "We head into the heart of Azeroth and break out all the lore and mechanics for the 16 key species fe...",
-      "url": "https://dungeonsanddragonsfan.com/dnd-world-of-warcraft-species/",
-      "publishedAt": "2026-10-28T21:42:11Z",
-      "processed_at": "2026-10-30T01:38:11.391690+00:00"
-    },
-    {
-      "title": "'Appreciate the Fans' — GTA 5 Cast Tell Jason and Lucia’s Actors the Most Important Things They Should Know Before GTA 6 Launches Them to Fame - IGN",
-      "source": {
-        "name": "IGN"
-      },
-      "description": "The stars behind GTA 5’s Franklin, Michael, and Trevor, along with the voice of CJ from San Andreas,...",
-      "url": "https://www.ign.com/articles/appreciate-the-fans-gta-5-cast-tell-jason-and-lucias-actors-the-most-important-things-they-should-know-before-gta-6-launches-them-to-fame",
-      "publishedAt": "2026-10-28T21:16:51Z",
-      "processed_at": "2026-10-30T01:38:11.391690+00:00"
-    },
-    {
-      "title": "Hands-on with the new OLED iPad Mini - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "Here are our first impressions of Apple’s 8th-generation iPad Mini, which has an OLED display....",
-      "url": "https://www.theverge.com/tech/1017932/hands-on-ipad-mini-8th-generation-pro-and-tell",
-      "publishedAt": "2026-10-28T19:18:58Z",
-      "processed_at": "2026-10-30T01:38:11.391690+00:00"
-    },
-    {
-      "title": "Alien: Isolation 2's Xenomorph Will Be Able to Hear You Through Your Microphone - IGN",
-      "source": {
-        "name": "IGN"
-      },
-      "description": "The team behind Alien: Isolation 2 released a Q&A that reveals new gameplay details, including using...",
-      "url": "https://www.ign.com/articles/alien-isolation-2-team-confirms-physical-edition-photo-mode-and-new-gameplay-details",
-      "publishedAt": "2026-10-28T18:47:11Z",
-      "processed_at": "2026-10-30T01:38:11.391690+00:00"
-    },
-    {
-      "title": "Apple reveals pricing for Mac Studio with 512GB of RAM - 9to5Mac",
-      "source": {
-        "name": "9to5Mac"
-      },
-      "description": "When Apple announced the new M5 Max and M5 Ultra configurations of the Mac Studio in August, it said...",
-      "url": "https://9to5mac.com/2026/10/28/apple-reveals-pricing-for-mac-studio-with-512gb-of-ram/",
-      "publishedAt": "2026-10-28T18:40:00Z",
-      "processed_at": "2026-10-30T01:38:11.391690+00:00"
-    },
-    {
-      "title": "Surprise: The Google Xreal glasses debut at a Meta-beating $1,099 - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "Through year’s end, the Google glasses will sell for $180 less than the price Xreal originally annou...",
-      "url": "https://www.theverge.com/tech/1020960/google-xreal-glasses-debut-meta-vr-glasses-price-release-date",
-      "publishedAt": "2026-10-28T18:14:11Z",
-      "processed_at": "2026-10-30T01:38:11.391690+00:00"
-    },
-    {
-      "title": "Google adding more Connected Apps to Gemini & Search with new dev platform - 9to5Google",
-      "source": {
-        "name": "9to5google.com"
-      },
-      "description": "Google announced the Connected Apps Platform as a “unified way for more app developers to bring thei...",
-      "url": "http://9to5google.com/2026/10/28/gemini-google-connected-apps-platform/",
-      "publishedAt": "2026-10-28T17:56:20Z",
-      "processed_at": "2026-10-30T01:38:11.391690+00:00"
-    },
-    {
-      "title": "Akai SampleKey: the keyboard sampler sibling of the MPC Sample with open firmware - synth anatomy",
-      "source": {
-        "name": "Synthanatomy.com"
-      },
-      "description": "Akai is teasing the SampleKey, the keyboard sibling of the MPC Sample, with open firmware for experi...",
-      "url": "https://synthanatomy.com/2026/10/akai-samplekey-the-keyboard-sampler-sibling-of-the-mpc-sample-with-open-firmware.html",
-      "publishedAt": "2026-10-28T16:34:01Z",
-      "processed_at": "2026-10-30T01:38:11.391690+00:00"
-    },
-    {
-      "title": "Dynamax Trails: Eternatus Returns - Pokémon GO Hub",
-      "source": {
-        "name": "Pokemon GO Hub"
-      },
-      "description": "Pokémon GO’s Dynamax Trails event runs from November 16 at 10:00 a.m. to November 23 at 8:00 p.m. lo...",
-      "url": "https://pokemongohub.net/post/event/dynamax-trails-eternatus-returns/",
-      "publishedAt": "2026-10-28T16:19:59Z",
-      "processed_at": "2026-10-30T01:38:11.391690+00:00"
+      "description": "An experimental concept&nbsp;enabling attosecond-precision, subcycle band-structure videography cove...",
+      "url": "https://www.nature.com/articles/s41586-026-11214-y",
+      "publishedAt": "2026-10-28T22:35:54Z",
+      "processed_at": "2026-10-30T08:11:55.526257+00:00"
     }
   ],
-  "lastUpdated": "2026-10-30T01:38:11.391763+00:00",
+  "lastUpdated": "2026-10-30T08:11:55.526317+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
