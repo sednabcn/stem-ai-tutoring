@@ -1,16 +1,86 @@
 {
   "status": "success",
-  "totalResults": 9,
+  "totalResults": 10,
   "articles": [
     {
-      "title": "‘South Park’ Serves Up a Steaming Pile of Beef Satire — and a ‘GTA VI’ Sneak Peek - The Hollywood Reporter",
+      "title": "Exclusive | Minecraft Creator Lists Beverly Hills Mansion for $70 Million—What He Paid in 2014 - WSJ",
       "source": {
-        "name": "Hollywood Reporter"
+        "name": "The Wall Street Journal"
       },
-      "description": "The Comedy Central staple takes on inflation, tariffs and elite food trends, while previewing what i...",
-      "url": "http://www.hollywoodreporter.com/tv/tv-features/south-park-recap-beef-gta-vi-sneak-peek-1236742371/",
-      "publishedAt": "2026-10-29T06:40:50Z",
-      "processed_at": "2026-10-30T08:11:55.526257+00:00"
+      "description": "",
+      "url": "https://www.wsj.com/real-estate/luxury-homes/minecraft-markus-persson-beverly-hills-home-46b5821c",
+      "publishedAt": "2026-10-29T14:18:04Z",
+      "processed_at": "2026-10-30T15:38:25.942553+00:00"
+    },
+    {
+      "title": "The Duskbloods delayed to 2027 - Gematsu",
+      "source": {
+        "name": "Gematsu"
+      },
+      "description": "FromSoftware has delayed player-versus-player-versus-environment-based multiplayer action game The D...",
+      "url": "https://www.gematsu.com/2026/10/the-duskbloods-delayed-to-2027",
+      "publishedAt": "2026-10-29T14:06:21Z",
+      "processed_at": "2026-10-30T15:38:25.942553+00:00"
+    },
+    {
+      "title": "iOS 27.3 release date: Here’s when to expect new iPhone features - 9to5Mac",
+      "source": {
+        "name": "9to5Mac"
+      },
+      "description": "Apple is already hard at work developing iOS 27.3, here’s when to expect the next big iPhone update ...",
+      "url": "https://9to5mac.com/2026/10/29/ios-27-3-release-date-heres-when-to-expect-new-iphone-features/",
+      "publishedAt": "2026-10-29T13:53:52Z",
+      "processed_at": "2026-10-30T15:38:25.942553+00:00"
+    },
+    {
+      "title": "Decommissioned NVIDIA supercomputer with 9,600 A100 GPUs hits eBay for $60 million, free shipping included - VideoCardz.com",
+      "source": {
+        "name": "Videocardz.com"
+      },
+      "description": "A used NVIDIA AI cluster containing 9,600 A100 GPUs and 4,200 AMD EPYC CPUs appeared on eBay. Its $5...",
+      "url": "https://videocardz.com/newz/decommissioned-nvidia-supercomputer-with-9600-a100-gpus-hits-ebay-for-60-million-free-shipping-included",
+      "publishedAt": "2026-10-29T12:29:04Z",
+      "processed_at": "2026-10-30T15:38:25.942553+00:00"
+    },
+    {
+      "title": "‘Escape From Tarkov’ Halloween Event Brings Zombies Back To Tarkov - Forbes",
+      "source": {
+        "name": "Forbes"
+      },
+      "description": "",
+      "url": "https://www.forbes.com/sites/mikestubbs/2026/10/29/escape-from-tarkov-halloween-event-brings-zombies-back-to-tarkov/",
+      "publishedAt": "2026-10-29T11:10:41Z",
+      "processed_at": "2026-10-30T15:38:25.942553+00:00"
+    },
+    {
+      "title": "PS Plus Essential Games for November 2026 Announced - Push Square",
+      "source": {
+        "name": "Push Square"
+      },
+      "description": "Three new titles from 3rd November...",
+      "url": "https://www.pushsquare.com/news/2026/10/ps-plus-essential-games-for-november-2026-announced",
+      "publishedAt": "2026-10-29T10:46:47Z",
+      "processed_at": "2026-10-30T15:38:25.942553+00:00"
+    },
+    {
+      "title": "Xbox consoles get a massive October 2026 update adding loads of new features - TrueAchievements",
+      "source": {
+        "name": "TrueAchievements"
+      },
+      "description": "A major Xbox system update for October 2026 is now live, adding exciting new features like Mythic ac...",
+      "url": "https://www.trueachievements.com/news/xbox-system-update-october-2026",
+      "publishedAt": "2026-10-29T09:59:27Z",
+      "processed_at": "2026-10-30T15:38:25.942553+00:00"
+    },
+    {
+      "title": "Samsung is killing another key Galaxy service - Android Authority",
+      "source": {
+        "name": "Android Authority"
+      },
+      "description": "Samsung will discontinue Samsung News on December 21, 2026, ending widget updates and likely making ...",
+      "url": "https://www.androidauthority.com/samsung-news-shutdown-december-2026-3729509/",
+      "publishedAt": "2026-10-29T09:49:00Z",
+      "processed_at": "2026-10-30T15:38:25.942553+00:00"
     },
     {
       "title": "Receive a Spewpa That Can Evolve into a Random Vivillon Pattern in Pokémon Legends: Z‑A - Pokemon.com",
@@ -20,80 +90,20 @@
       "description": "Celebrate the release of Pokémon Legends: Z-A – Nintendo Switch 2 Edition + Mega Dimension with this...",
       "url": "https://www.pokemon.com/us/news/receive-a-spewpa-that-can-evolve-into-a-random-vivillon-pattern-in-pokemon-legends-z-a",
       "publishedAt": "2026-10-29T06:10:24Z",
-      "processed_at": "2026-10-30T08:11:55.526257+00:00"
+      "processed_at": "2026-10-30T15:38:25.942553+00:00"
     },
     {
-      "title": "Dokapon Kingdom: Connect 2 announced for Switch 2, Switch, and PC - Gematsu",
+      "title": "I’ve tested the iPhone Duo, Galaxy Z Fold 8, Pixel 11 Pro Fold, and Razr Fold — here’s the foldable phone I recommend - Tom's Guide",
       "source": {
-        "name": "Gematsu"
+        "name": "Tom's Guide"
       },
-      "description": "Publishers Compile Heart and Idea Factory International, and developer Sting have announced RPG-styl...",
-      "url": "https://www.gematsu.com/2026/10/dokapon-kingdom-connect-2-announced-for-switch-2-switch-and-pc",
-      "publishedAt": "2026-10-29T03:22:45Z",
-      "processed_at": "2026-10-30T08:11:55.526257+00:00"
-    },
-    {
-      "title": "12 New GTA 6 Gameplay Screenshots Released - Insider Gaming",
-      "source": {
-        "name": "Insider-gaming.com"
-      },
-      "description": "Grand Theft Auto 6 launches on November 19, and 14 new screenshots have been released giving another...",
-      "url": "https://insider-gaming.com/12-new-gta-6-gameplay-screenshots-released/",
-      "publishedAt": "2026-10-29T02:10:51Z",
-      "processed_at": "2026-10-30T08:11:55.526257+00:00"
-    },
-    {
-      "title": "BioWare Co-Founder Says EA's Private Equity Acquisition Was 'Final Nail In The Coffin' For The Mass Effect Studio - Kotaku",
-      "source": {
-        "name": "Kotaku"
-      },
-      "description": "Greg Zeschuk left the studio after Mass Effect 3, but still weighed in on the company's closure earl...",
-      "url": "https://kotaku.com/bioware-co-founder-says-eas-acquisition-was-final-nail-in-the-coffin-for-the-mass-effect-studio-2000750626",
-      "publishedAt": "2026-10-29T00:43:49Z",
-      "processed_at": "2026-10-30T08:11:55.526257+00:00"
-    },
-    {
-      "title": "Xreal Aura: Preorders open for smart glasses powered by Google Android XR - Mashable",
-      "source": {
-        "name": "Mashable"
-      },
-      "description": "The futuristic new glasses combine elements of augmented and virtual reality....",
-      "url": "https://mashable.com/tech/xreal-aura-xr-glasses-release-preorder-deals",
-      "publishedAt": "2026-10-28T23:46:41Z",
-      "processed_at": "2026-10-30T08:11:55.526257+00:00"
-    },
-    {
-      "title": "Adam Mosseri says negativity around AI is ‘going to get worse’ - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "Adam Mosseri said in an interview that he expects frustration and anger toward AI to continue gettin...",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1021644/adam-mosseri-instagram-ai-negativity",
-      "publishedAt": "2026-10-28T23:05:39Z",
-      "processed_at": "2026-10-30T08:11:55.526257+00:00"
-    },
-    {
-      "title": "Apple’s touchscreen MacBook Pro pushes laptop pricing to a new extreme - TechCrunch",
-      "source": {
-        "name": "TechCrunch"
-      },
-      "description": "Prepare to cough up around $14,549 if you want the new touchscreen MacBook Pro to have every upgrade...",
-      "url": "https://techcrunch.com/2026/10/28/apples-touchscreen-macbook-pro-pushes-laptop-pricing-to-a-new-extreme/",
-      "publishedAt": "2026-10-28T22:47:50Z",
-      "processed_at": "2026-10-30T08:11:55.526257+00:00"
-    },
-    {
-      "title": "Subcycle videography of Landau–Zener–Majorana transitions in graphene - Nature",
-      "source": {
-        "name": "Nature.com"
-      },
-      "description": "An experimental concept&nbsp;enabling attosecond-precision, subcycle band-structure videography cove...",
-      "url": "https://www.nature.com/articles/s41586-026-11214-y",
-      "publishedAt": "2026-10-28T22:35:54Z",
-      "processed_at": "2026-10-30T08:11:55.526257+00:00"
+      "description": "Only one is worth spending $2,000 on...",
+      "url": "https://www.tomsguide.com/phones/ive-tested-the-iphone-duo-galaxy-z-fold-8-pixel-11-pro-fold-and-razr-fold-heres-the-foldable-phone-i-recommend",
+      "publishedAt": "2026-10-29T05:08:45Z",
+      "processed_at": "2026-10-30T15:38:25.942553+00:00"
     }
   ],
-  "lastUpdated": "2026-10-30T08:11:55.526317+00:00",
+  "lastUpdated": "2026-10-30T15:38:25.942610+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
