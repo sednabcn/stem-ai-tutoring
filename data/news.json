@@ -3,14 +3,54 @@
   "totalResults": 10,
   "articles": [
     {
-      "title": "Apple Executive Comments on New iPad Mini Lacking 120Hz Display - MacRumors",
+      "title": "Latest Gemini design comes to all Android devices, app upgrades file generation - 9to5Google",
+      "source": {
+        "name": "9to5google.com"
+      },
+      "description": "A pair of Gemini app updates today brings the latest design to all Android devices, while file gener...",
+      "url": "http://9to5google.com/2026/10/29/gemini-design-file-generation/",
+      "publishedAt": "2026-10-30T02:01:00Z",
+      "processed_at": "2026-10-31T06:43:09.576569+00:00"
+    },
+    {
+      "title": "Resonance of Fate 4K/HD Edition to receive an 'Enhanced Remaster' DLC, adding HDR, 120FPS, 2x speed mode, & more (Update) - RPG Site",
+      "source": {
+        "name": "RPG Site"
+      },
+      "description": "The 2018 remaster gets a surprise remaster DLC....",
+      "url": "https://www.rpgsite.net/news/21645-resonance-fate-4khd-edition-to-receive-an-enhanced-remaster-dlc-adding-hdr-120fps-2x-speed-mode-more-update",
+      "publishedAt": "2026-10-30T01:03:42Z",
+      "processed_at": "2026-10-31T06:43:09.576569+00:00"
+    },
+    {
+      "title": "New Apple TV 4K and iPad Mini: RAM Amounts Revealed - MacRumors",
       "source": {
         "name": "MacRumors"
       },
-      "description": "While the new iPad mini has an OLED display, the device does not support ProMotion, meaning the disp...",
-      "url": "https://www.macrumors.com/2026/10/29/apple-executive-on-ipad-mini-lacking-120hz/",
-      "publishedAt": "2026-10-29T20:47:14Z",
-      "processed_at": "2026-10-31T00:29:14.972963+00:00"
+      "description": "Apple today released Xcode 27.2, and it reveals how much RAM is in the new fourth-generation Apple T...",
+      "url": "https://www.macrumors.com/2026/10/29/new-apple-tv-4k-ipad-mini-ram-amounts/",
+      "publishedAt": "2026-10-30T00:50:00Z",
+      "processed_at": "2026-10-31T06:43:09.576569+00:00"
+    },
+    {
+      "title": "Andy Jassy says Prime Video is on track to earn ‘tens of billions of dollars’ - TechCrunch",
+      "source": {
+        "name": "TechCrunch"
+      },
+      "description": "The success of blockbuster hits like Project Hail Mary and Verity is only part of the story, Amazon'...",
+      "url": "https://techcrunch.com/2026/10/29/andy-jassy-says-prime-video-is-on-track-to-earn-tens-of-billions-of-dollars/",
+      "publishedAt": "2026-10-29T23:44:56Z",
+      "processed_at": "2026-10-31T06:43:09.576569+00:00"
+    },
+    {
+      "title": "Apple VP talks new iPad mini: OLED without ProMotion, Acoustic Display, more - 9to5Mac",
+      "source": {
+        "name": "9to5Mac"
+      },
+      "description": "Apple unveiled its “biggest update ever” for the iPad mini this week, introducing a thinner, lighter...",
+      "url": "https://9to5mac.com/2026/10/29/apple-vp-talks-new-ipad-mini-oled-without-promotion-acoustic-display-more/",
+      "publishedAt": "2026-10-29T20:49:00Z",
+      "processed_at": "2026-10-31T06:43:09.576569+00:00"
     },
     {
       "title": "Android 17 QPR3 Beta 3 rolling out with 26 Pixel fixes - 9to5Google",
@@ -20,7 +60,7 @@
       "description": "Following last week’s release, Google is rolling out Android 17 QPR3 Beta 3 to Pixel devices today. ...",
       "url": "http://9to5google.com/2026/10/29/android-17-qpr3-beta-3-pixel/",
       "publishedAt": "2026-10-29T20:41:55Z",
-      "processed_at": "2026-10-31T00:29:14.972963+00:00"
+      "processed_at": "2026-10-31T06:43:09.576569+00:00"
     },
     {
       "title": "Windows 11 gets right-click menu improvements as PC revenue slides - Ars Technica",
@@ -30,7 +70,7 @@
       "description": "The latest update also brings a cloud recovery option for PCs that won't boot....",
       "url": "https://arstechnica.com/gadgets/2026/10/windows-11-gets-right-click-menu-improvements-as-pc-revenue-slides/",
       "publishedAt": "2026-10-29T20:18:49Z",
-      "processed_at": "2026-10-31T00:29:14.972963+00:00"
+      "processed_at": "2026-10-31T06:43:09.576569+00:00"
     },
     {
       "title": "iOS 27.2 adds new video feature that’s perfect for iPhone Duo - 9to5Mac",
@@ -40,7 +80,17 @@
       "description": "iOS 27.2 launched this week with many new features, including an Apple TV app upgrade that’s especia...",
       "url": "https://9to5mac.com/2026/10/29/ios-27-2-adds-new-video-feature-thats-perfect-for-iphone-duo/",
       "publishedAt": "2026-10-29T19:00:00Z",
-      "processed_at": "2026-10-31T00:29:14.972963+00:00"
+      "processed_at": "2026-10-31T06:43:09.576569+00:00"
+    },
+    {
+      "title": "'It Hasn't Made Any Difference': Gears of War PS5 Cancellation Fails to Boost Xbox - Push Square",
+      "source": {
+        "name": "Push Square"
+      },
+      "description": "\"In fact, it keeps getting worse\"...",
+      "url": "https://www.pushsquare.com/news/2026/10/it-hasnt-made-any-difference-gears-of-war-ps5-cancellation-fails-to-boost-xbox",
+      "publishedAt": "2026-10-29T19:00:00Z",
+      "processed_at": "2026-10-31T06:43:09.576569+00:00"
     },
     {
       "title": "Google Home and Nest speakers getting seven updates, including for Bluetooth & audio quality - 9to5Google",
@@ -50,60 +100,10 @@
       "description": "In addition to Chromecast with Google TV and Nest Wifi Pro updates, Google detailed what new firmwar...",
       "url": "http://9to5google.com/2026/10/29/google-home-nest-speaker-updates/",
       "publishedAt": "2026-10-29T18:53:56Z",
-      "processed_at": "2026-10-31T00:29:14.972963+00:00"
-    },
-    {
-      "title": "Apple Avoids Showing Pinched Fingers on iPad Mini Page in South Korea - MacRumors",
-      "source": {
-        "name": "MacRumors"
-      },
-      "description": "In the U.S. and most other countries, Apple's website shows the new iPad mini being held by pinched ...",
-      "url": "https://www.macrumors.com/2026/10/29/apple-avoids-pinched-finges-for-ipad-mini-korea/",
-      "publishedAt": "2026-10-29T18:52:30Z",
-      "processed_at": "2026-10-31T00:29:14.972963+00:00"
-    },
-    {
-      "title": "Assassins Creed Codename Hexe Gets Cryptic Update That Fans Will Surely Decode - IGN",
-      "source": {
-        "name": "IGN"
-      },
-      "description": "Assassin's Creed Codename Hexe was announced all the way back in 2022, but aside from a spooky tease...",
-      "url": "https://www.ign.com/articles/ubisoft-shares-cryptic-assassins-creed-codename-hexe-update",
-      "publishedAt": "2026-10-29T17:32:17Z",
-      "processed_at": "2026-10-31T00:29:14.972963+00:00"
-    },
-    {
-      "title": "Queen's Domain is a brilliant King's Field-alike RPG that forces you to walk so you can learn to fly - Rock Paper Shotgun",
-      "source": {
-        "name": "Rock Paper Shotgun"
-      },
-      "description": "",
-      "url": "https://www.rockpapershotgun.com/queens-domain-is-a-brilliant-kings-field-alike-rpg-that-forces-you-to-walk-so-you-can-learn-to-fly",
-      "publishedAt": "2026-10-29T17:09:23Z",
-      "processed_at": "2026-10-31T00:29:14.972963+00:00"
-    },
-    {
-      "title": "‘Destiny 2’ Unvaulting Timeline Revealed With Menagerie’s Return - Forbes",
-      "source": {
-        "name": "Forbes"
-      },
-      "description": "",
-      "url": "https://www.forbes.com/sites/paultassi/2026/10/29/destiny-2-unvaulting-timeline-revealed-and-menagerie-is-back/",
-      "publishedAt": "2026-10-29T16:35:01Z",
-      "processed_at": "2026-10-31T00:29:14.972963+00:00"
-    },
-    {
-      "title": "The Elder Scrolls 6 Title Reportedly Being Revealed Next Month, Just About Eight Years After It Was Announced - Kotaku",
-      "source": {
-        "name": "Kotaku"
-      },
-      "description": "Sounds like fans were right on the money...",
-      "url": "https://kotaku.com/the-elder-scrolls-6-title-reportedly-being-revealed-next-month-just-about-eight-years-after-it-was-announced-2000751058",
-      "publishedAt": "2026-10-29T16:16:12Z",
-      "processed_at": "2026-10-31T00:29:14.972963+00:00"
+      "processed_at": "2026-10-31T06:43:09.576569+00:00"
     }
   ],
-  "lastUpdated": "2026-10-31T00:29:14.973038+00:00",
+  "lastUpdated": "2026-10-31T06:43:09.576678+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
