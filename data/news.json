@@ -1,109 +1,99 @@
 {
   "status": "success",
-  "totalResults": 10,
+  "totalResults": 9,
   "articles": [
     {
-      "title": "Rumour: Alleged Persona 1 Remake Gameplay Leaks Online - Push Square",
+      "title": "Apple Missed a Chance to Be Revolutionary With Touch-Screen Mac - Bloomberg.com",
       "source": {
-        "name": "Push Square"
+        "name": "Bloomberg"
       },
-      "description": "But is it real?...",
-      "url": "https://www.pushsquare.com/news/2026/11/rumour-alleged-persona-1-remake-gameplay-leaks-online",
-      "publishedAt": "2026-11-01T01:00:00Z",
-      "processed_at": "2026-11-02T07:22:19.828706+00:00"
+      "description": "Also: The latest on the cracked iPhone Duo screens....",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-11-01/apple-touch-screen-macbook-pro-impressions-software-division-gaming-shake-up",
+      "publishedAt": "2026-11-01T16:32:16Z",
+      "processed_at": "2026-11-02T17:55:47.777106+00:00"
     },
     {
-      "title": "Here’s how the new MacBook Pro and macOS 27 are optimized for touch - 9to5Mac",
-      "source": {
-        "name": "9to5Mac"
-      },
-      "description": "Apple just unveiled the new MacBook Pro with PROLED XDR, its first MacBook with a touch display. Whi...",
-      "url": "https://9to5mac.com/2026/10/31/macbook-pro-touch-optimizations-macos-27-golden-gate/",
-      "publishedAt": "2026-10-31T20:49:00Z",
-      "processed_at": "2026-11-02T07:22:19.828706+00:00"
-    },
-    {
-      "title": "Claude Code Game Restrictions Target Clones, But Developers Say Legitimate Projects Are Being Blocked - Wccftech",
-      "source": {
-        "name": "Wccftech"
-      },
-      "description": "Anthropic's Claude Code introduces restrictions to prevent recreating existing games, impacting deve...",
-      "url": "https://wccftech.com/claude-code-game-restrictions-target-clones-but-developers-say-legitimate-projects-are-being-blocked/",
-      "publishedAt": "2026-10-31T20:08:37Z",
-      "processed_at": "2026-11-02T07:22:19.828706+00:00"
-    },
-    {
-      "title": "Legendary skateboarder thrown out of LA spot while recreating iconic video game - New York Post",
-      "source": {
-        "name": "New York Post"
-      },
-      "description": "Most people remembered the game with nostalgia after watching the clip....",
-      "url": "https://nypost.com/2026/10/31/entertainment/tony-hawk-kicked-out-while-celebrating-video-game-anniversary/",
-      "publishedAt": "2026-10-31T18:10:00Z",
-      "processed_at": "2026-11-02T07:22:19.828706+00:00"
-    },
-    {
-      "title": "Poll: Are You Happy with Your PS Plus Essential Games for November 2026? - Push Square",
-      "source": {
-        "name": "Push Square"
-      },
-      "description": "Plus or minus?...",
-      "url": "https://www.pushsquare.com/features/poll-are-you-happy-with-your-ps-plus-essential-games-for-november-2026",
-      "publishedAt": "2026-10-31T18:00:00Z",
-      "processed_at": "2026-11-02T07:22:19.828706+00:00"
-    },
-    {
-      "title": "I tested all of Amazon's e-readers, and this is the best Kindle to buy - Mashable",
-      "source": {
-        "name": "Mashable"
-      },
-      "description": "I'm putting the new Paperwhite, Colorsoft, and Scribe head-to-head....",
-      "url": "https://mashable.com/roundup/best-kindles-hands-on-tested-2026",
-      "publishedAt": "2026-10-31T17:27:30Z",
-      "processed_at": "2026-11-02T07:22:19.828706+00:00"
-    },
-    {
-      "title": "Column | Asking Eric: Family friend demands hugs, despite parents’ objections - The Washington Post",
-      "source": {
-        "name": "The Washington Post"
-      },
-      "description": "Grandma is not happy the letter writer's teen daughter didn't want to hug her friend....",
-      "url": "https://www.washingtonpost.com/advice/2026/10/31/asking-eric-family-friend-demands-hugs-despite-parents-objections/",
-      "publishedAt": "2026-10-31T16:39:13Z",
-      "processed_at": "2026-11-02T07:22:19.828706+00:00"
-    },
-    {
-      "title": "Crimson Desert goes free-to-play to celebrate DLC launch - GAMINGbible",
-      "source": {
-        "name": "Gamingbible.com"
-      },
-      "description": "The Game of the Year contender is now free-to-play on PlayStation and Xbox 🥳...",
-      "url": "https://www.gamingbible.com/news/crimson-desert-free-to-play-celebrate-dlc-launch-133980-20261030",
-      "publishedAt": "2026-10-31T16:00:00Z",
-      "processed_at": "2026-11-02T07:22:19.828706+00:00"
-    },
-    {
-      "title": "New Android SMS of Death exploit can remotely crash unpatched phones - BleepingComputer",
-      "source": {
-        "name": "BleepingComputer"
-      },
-      "description": "A security researcher has released a proof-of-concept exploit for a recently patched Android vulnera...",
-      "url": "https://www.bleepingcomputer.com/news/security/new-android-sms-of-death-exploit-can-remotely-crash-unpatched-phones/",
-      "publishedAt": "2026-10-31T15:35:11Z",
-      "processed_at": "2026-11-02T07:22:19.828706+00:00"
-    },
-    {
-      "title": "Shigeru Miyamoto Declares November 1st Pikmin Day In Surprise Nintendo Direct - Kotaku",
+      "title": "Mario-Dressed Speedrunner Breaks World Record - Kotaku",
       "source": {
         "name": "Kotaku"
       },
-      "description": "While there were no new games announced, the Direct provided updates for the upcoming edition of Pik...",
-      "url": "https://kotaku.com/shigeru-miyamoto-declares-november-1st-pikmin-day-in-surprise-nintendo-direct-2000751948",
-      "publishedAt": "2026-10-31T15:21:38Z",
-      "processed_at": "2026-11-02T07:22:19.828706+00:00"
+      "description": "The record-smashing Niftski seems to credit the dress-up routine with taking an edge off, bringing h...",
+      "url": "https://kotaku.com/mario-dressed-speedrunner-breaks-world-super-mario-bros-record-on-halloween-stream-can-i-please-break-character-2000752087",
+      "publishedAt": "2026-11-01T16:28:46Z",
+      "processed_at": "2026-11-02T17:55:47.777106+00:00"
+    },
+    {
+      "title": "Big Warhammer Day news for Officially Licensed video games and merch - Warhammer Community",
+      "source": {
+        "name": "Warhammer-community.com"
+      },
+      "description": "Reveals, special offers, and more....",
+      "url": "https://www.warhammer-community.com/articles/nla2w7td/big-warhammer-day-news-for-officially-licensed-video-games-and-merch",
+      "publishedAt": "2026-11-01T16:24:14Z",
+      "processed_at": "2026-11-02T17:55:47.777106+00:00"
+    },
+    {
+      "title": "A fully playable version of Portal prequel F-Stop leaked - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "Nearly 20 years after its cancellation, Valve’s camera-based Portal prequel, F-Stop, is no longer lo...",
+      "url": "https://www.theverge.com/games/1024206/playable-portal-prequel-f-stop-leak",
+      "publishedAt": "2026-11-01T16:19:21Z",
+      "processed_at": "2026-11-02T17:55:47.777106+00:00"
+    },
+    {
+      "title": "Apple's HomeView Ships With Six-Month-Old Software - MacRumors",
+      "source": {
+        "name": "MacRumors"
+      },
+      "description": "It is well known that Apple's new HomeView smart home hub was significantly delayed, and there is no...",
+      "url": "https://www.macrumors.com/2026/11/01/apple-homeview-six-month-old-software/",
+      "publishedAt": "2026-11-01T15:37:04Z",
+      "processed_at": "2026-11-02T17:55:47.777106+00:00"
+    },
+    {
+      "title": "Three New iPads Rumored to Launch in First Half of 2027 - MacRumors",
+      "source": {
+        "name": "MacRumors"
+      },
+      "description": "After announcing a new iPad mini with an OLED display earlier this month, Apple plans to release new...",
+      "url": "https://www.macrumors.com/2026/11/01/three-new-ipads-in-first-half-of-2027/",
+      "publishedAt": "2026-11-01T15:27:15Z",
+      "processed_at": "2026-11-02T17:55:47.777106+00:00"
+    },
+    {
+      "title": "Dermatologists Say Yellow Stains on Your Pillow Are a Warning Sign, and Here’s What They Mean - SheKnows",
+      "source": {
+        "name": "SheKnows"
+      },
+      "description": "A dermatologist explains why pillows turn yellow, how to reduce sweat and skincare buildup, and when...",
+      "url": "http://www.sheknows.com/health-and-wellness/articles/1235090265/yellow-stains-on-pillow-how-to-fix-gq9021/",
+      "publishedAt": "2026-11-01T15:00:28Z",
+      "processed_at": "2026-11-02T17:55:47.777106+00:00"
+    },
+    {
+      "title": "Pixel 11 Pro Fold: Sturdy rectangle in a wide wide world - TechCrunch",
+      "source": {
+        "name": "TechCrunch"
+      },
+      "description": "Google made a sturdy phone, but there is increasing competition in the foldable world....",
+      "url": "https://techcrunch.com/2026/11/01/pixel-11-pro-fold-sturdy-rectengale-in-a-wide-wide-world/",
+      "publishedAt": "2026-11-01T15:00:00Z",
+      "processed_at": "2026-11-02T17:55:47.777106+00:00"
+    },
+    {
+      "title": "Samsung joins cuff-shaped earbuds trend with $229 Galaxy Buds On - The Seattle Times",
+      "source": {
+        "name": "Bloomberg"
+      },
+      "description": "Samsung said it developed the Galaxy Buds On through an AI-driven computational design process infor...",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-28/samsung-unveils-galaxy-buds-on-clip-on-earbuds-for-229",
+      "publishedAt": "2026-11-01T14:00:04Z",
+      "processed_at": "2026-11-02T17:55:47.777106+00:00"
     }
   ],
-  "lastUpdated": "2026-11-02T07:22:19.828782+00:00",
+  "lastUpdated": "2026-11-02T17:55:47.777170+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
