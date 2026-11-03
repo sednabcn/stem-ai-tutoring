@@ -1,99 +1,109 @@
 {
   "status": "success",
-  "totalResults": 9,
+  "totalResults": 10,
   "articles": [
     {
-      "title": "Apple Missed a Chance to Be Revolutionary With Touch-Screen Mac - Bloomberg.com",
+      "title": "Wear OS adding ‘system status bar’ to apps, Wear OS 7.1 coming - 9to5Google",
       "source": {
-        "name": "Bloomberg"
+        "name": "9to5google.com"
       },
-      "description": "Also: The latest on the cracked iPhone Duo screens....",
-      "url": "https://www.bloomberg.com/news/newsletters/2026-11-01/apple-touch-screen-macbook-pro-impressions-software-division-gaming-shake-up",
-      "publishedAt": "2026-11-01T16:32:16Z",
-      "processed_at": "2026-11-02T17:55:47.777106+00:00"
+      "description": "Earlier this week, Google revealed that a “later platform release of Wear OS” is adding a “system st...",
+      "url": "http://9to5google.com/2026/11/01/wear-os-status-bar/",
+      "publishedAt": "2026-11-01T20:44:00Z",
+      "processed_at": "2026-11-03T00:42:18.171312+00:00"
     },
     {
-      "title": "Mario-Dressed Speedrunner Breaks World Record - Kotaku",
+      "title": "Google says Googlebook ‘detachables’ are coming soon - 9to5Google",
+      "source": {
+        "name": "9to5google.com"
+      },
+      "description": "At the Android Dev Summit 2026 earlier this week, Google said that Googlebook detachables will be th...",
+      "url": "http://9to5google.com/2026/11/01/googlebook-detachables/",
+      "publishedAt": "2026-11-01T20:07:00Z",
+      "processed_at": "2026-11-03T00:42:18.171312+00:00"
+    },
+    {
+      "title": "Tony Hawk Kicked Out Of Park While Trying To Recreate Pro Skater 3 - Kotaku",
       "source": {
         "name": "Kotaku"
       },
-      "description": "The record-smashing Niftski seems to credit the dress-up routine with taking an edge off, bringing h...",
-      "url": "https://kotaku.com/mario-dressed-speedrunner-breaks-world-super-mario-bros-record-on-halloween-stream-can-i-please-break-character-2000752087",
-      "publishedAt": "2026-11-01T16:28:46Z",
-      "processed_at": "2026-11-02T17:55:47.777106+00:00"
+      "description": "The legendary Birdman wanted to celebrate 25 years of the iconic third entry in his video game serie...",
+      "url": "https://kotaku.com/tony-hawk-kicked-out-of-park-while-trying-to-recreate-pro-skater-3-2000752094",
+      "publishedAt": "2026-11-01T19:32:02Z",
+      "processed_at": "2026-11-03T00:42:18.171312+00:00"
     },
     {
-      "title": "Big Warhammer Day news for Officially Licensed video games and merch - Warhammer Community",
+      "title": "‘Fortnite’ Treasure Chest Prize Lets You Get Every Store Item For Free - Forbes",
+      "source": {
+        "name": "Forbes"
+      },
+      "description": "",
+      "url": "https://www.forbes.com/sites/paultassi/2026/11/01/fortnite-treasure-chest-prize-lets-you-get-every-store-item-for-free/",
+      "publishedAt": "2026-11-01T18:10:09Z",
+      "processed_at": "2026-11-03T00:42:18.171312+00:00"
+    },
+    {
+      "title": "Sunday Preview – The Khazalite Holds prepare to march out - Warhammer Community",
       "source": {
         "name": "Warhammer-community.com"
       },
-      "description": "Reveals, special offers, and more....",
-      "url": "https://www.warhammer-community.com/articles/nla2w7td/big-warhammer-day-news-for-officially-licensed-video-games-and-merch",
-      "publishedAt": "2026-11-01T16:24:14Z",
-      "processed_at": "2026-11-02T17:55:47.777106+00:00"
+      "description": "",
+      "url": "https://www.warhammer-community.com/en-gb/articles/pqgrrqqt/sunday-preview-the-khazalite-holds-prepare-to-march-out/",
+      "publishedAt": "2026-11-01T17:59:17Z",
+      "processed_at": "2026-11-03T00:42:18.171312+00:00"
     },
     {
-      "title": "A fully playable version of Portal prequel F-Stop leaked - The Verge",
+      "title": "Solar Farms In The Sahara Might Have An Unexpected Effect On The Global Climate - BGR",
       "source": {
-        "name": "The Verge"
+        "name": "BGR"
       },
-      "description": "Nearly 20 years after its cancellation, Valve’s camera-based Portal prequel, F-Stop, is no longer lo...",
-      "url": "https://www.theverge.com/games/1024206/playable-portal-prequel-f-stop-leak",
-      "publishedAt": "2026-11-01T16:19:21Z",
-      "processed_at": "2026-11-02T17:55:47.777106+00:00"
+      "description": "The Sahara Desert might seem like the perfect place to build a massive solar farm, but research sugg...",
+      "url": "https://www.bgr.com/2299931/solar-farms-sahara-unexpected-effect-global-climate/",
+      "publishedAt": "2026-11-01T17:47:00Z",
+      "processed_at": "2026-11-03T00:42:18.171312+00:00"
     },
     {
-      "title": "Apple's HomeView Ships With Six-Month-Old Software - MacRumors",
+      "title": "G.Skill 32 GB DDR5 Now Costs $156 When Purchased With Ryzen 9850X3D And B850 Motherboard Bundle - Wccftech",
       "source": {
-        "name": "MacRumors"
+        "name": "Wccftech"
       },
-      "description": "It is well known that Apple's new HomeView smart home hub was significantly delayed, and there is no...",
-      "url": "https://www.macrumors.com/2026/11/01/apple-homeview-six-month-old-software/",
-      "publishedAt": "2026-11-01T15:37:04Z",
-      "processed_at": "2026-11-02T17:55:47.777106+00:00"
+      "description": "Get the AMD Ryzen 7 9850X3D, 32 GB DDR5 RAM, and B850 motherboard bundle for $829 at Micro Center, s...",
+      "url": "https://wccftech.com/g-skill-32-gb-ddr5-now-costs-156-when-purchased-with-ryzen-9850x3d-and-b850-motherboard-bundle/",
+      "publishedAt": "2026-11-01T17:46:03Z",
+      "processed_at": "2026-11-03T00:42:18.171312+00:00"
     },
     {
-      "title": "Three New iPads Rumored to Launch in First Half of 2027 - MacRumors",
+      "title": "10 Of The Most Influential Concept Cars Ever Made - Jalopnik",
       "source": {
-        "name": "MacRumors"
+        "name": "Jalopnik"
       },
-      "description": "After announcing a new iPad mini with an OLED display earlier this month, Apple plans to release new...",
-      "url": "https://www.macrumors.com/2026/11/01/three-new-ipads-in-first-half-of-2027/",
-      "publishedAt": "2026-11-01T15:27:15Z",
-      "processed_at": "2026-11-02T17:55:47.777106+00:00"
+      "description": "The most influential concept cars ever made include the Buick Y-Job, the Mercedes-Benz C111, the For...",
+      "url": "https://www.jalopnik.com/2298551/most-influential-concept-cars-ever-made/",
+      "publishedAt": "2026-11-01T17:45:00Z",
+      "processed_at": "2026-11-03T00:42:18.171312+00:00"
     },
     {
-      "title": "Dermatologists Say Yellow Stains on Your Pillow Are a Warning Sign, and Here’s What They Mean - SheKnows",
+      "title": "Why blaming Xbox players for 'Gears of War: E-Day' sales is completely ridiculous - Windows Central",
       "source": {
-        "name": "SheKnows"
+        "name": "Windows Central"
       },
-      "description": "A dermatologist explains why pillows turn yellow, how to reduce sweat and skincare buildup, and when...",
-      "url": "http://www.sheknows.com/health-and-wellness/articles/1235090265/yellow-stains-on-pillow-how-to-fix-gq9021/",
-      "publishedAt": "2026-11-01T15:00:28Z",
-      "processed_at": "2026-11-02T17:55:47.777106+00:00"
+      "description": "Xbox gamers are not to blame for 'only' a reported 400,000 sales, and you are not any less of a cust...",
+      "url": "https://www.windowscentral.com/gaming/xbox/gears-of-war-eday-sales-not-game-pass-fault",
+      "publishedAt": "2026-11-01T17:11:04Z",
+      "processed_at": "2026-11-03T00:42:18.171312+00:00"
     },
     {
-      "title": "Pixel 11 Pro Fold: Sturdy rectangle in a wide wide world - TechCrunch",
+      "title": "Microsoft Patents an AI That Can Literally Put Words in People’s Mouths in Real Time - Futurism",
       "source": {
-        "name": "TechCrunch"
+        "name": "Futurism"
       },
-      "description": "Google made a sturdy phone, but there is increasing competition in the foldable world....",
-      "url": "https://techcrunch.com/2026/11/01/pixel-11-pro-fold-sturdy-rectengale-in-a-wide-wide-world/",
-      "publishedAt": "2026-11-01T15:00:00Z",
-      "processed_at": "2026-11-02T17:55:47.777106+00:00"
-    },
-    {
-      "title": "Samsung joins cuff-shaped earbuds trend with $229 Galaxy Buds On - The Seattle Times",
-      "source": {
-        "name": "Bloomberg"
-      },
-      "description": "Samsung said it developed the Galaxy Buds On through an AI-driven computational design process infor...",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-28/samsung-unveils-galaxy-buds-on-clip-on-earbuds-for-229",
-      "publishedAt": "2026-11-01T14:00:04Z",
-      "processed_at": "2026-11-02T17:55:47.777106+00:00"
+      "description": "Microsoft just filed a patent for an AI product that would be able to transform live video in real t...",
+      "url": "https://futurism.com/artificial-intelligence/microsoft-patents-ai-words-in-peoples-mouths",
+      "publishedAt": "2026-11-01T17:09:00Z",
+      "processed_at": "2026-11-03T00:42:18.171312+00:00"
     }
   ],
-  "lastUpdated": "2026-11-02T17:55:47.777170+00:00",
+  "lastUpdated": "2026-11-03T00:42:18.171368+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
