@@ -1,7 +1,47 @@
 {
   "status": "success",
-  "totalResults": 9,
+  "totalResults": 10,
   "articles": [
+    {
+      "title": "PS Store Black Friday Sale Live Now with 2,200+ PS5 Discounts - Push Square",
+      "source": {
+        "name": "Push Square"
+      },
+      "description": "Here are some of the best PS5 deals...",
+      "url": "https://www.pushsquare.com/news/2026/11/ps-store-black-friday-sale-live-now-with-2200plus-ps5-discounts",
+      "publishedAt": "2026-11-04T00:18:51Z",
+      "processed_at": "2026-11-05T03:15:45.106815+00:00"
+    },
+    {
+      "title": "Save Over $1,000 Off the Lenovo Legion RTX 5070 Ti Gaming PC With 32GB of DDR5 RAM for Black Friday - IGN",
+      "source": {
+        "name": "IGN"
+      },
+      "description": "This first good deal I've seen on a Lenovo Legion gaming PC since the summer....",
+      "url": "https://www.ign.com/articles/lenovo-legion-rtx-5070-ti-gaming-pc-deal-november-2026",
+      "publishedAt": "2026-11-03T22:21:36Z",
+      "processed_at": "2026-11-05T03:15:45.106815+00:00"
+    },
+    {
+      "title": "Microsoft improves Windows 11 performance on 8 GB PCs as RAM prices keep climbing - The Register",
+      "source": {
+        "name": "Theregister.com"
+      },
+      "description": "We've got a hunch the memory crunch is taking a bite out of Windows revenue...",
+      "url": "https://www.theregister.com/software/2026/11/03/microsoft-improves-windows-11-performance-on-8-gb-pcs-as-ram-prices-keep-climbing/5307382",
+      "publishedAt": "2026-11-03T21:38:29Z",
+      "processed_at": "2026-11-05T03:15:45.106815+00:00"
+    },
+    {
+      "title": "Google Messages redesigning pinned chats and moving search - 9to5Google",
+      "source": {
+        "name": "9to5google.com"
+      },
+      "description": "In addition to the new app icon, Google Messages is testing a redesign of pinned chats and search on...",
+      "url": "http://9to5google.com/2026/11/03/google-messages-pinned-chats-redesign/",
+      "publishedAt": "2026-11-03T21:14:00Z",
+      "processed_at": "2026-11-05T03:15:45.106815+00:00"
+    },
     {
       "title": "Xbox’s Arkane Studios Attracts Multiple Bidders, Including Ubisoft - Bloomberg.com",
       "source": {
@@ -10,7 +50,7 @@
       "description": "Microsoft’s gaming unit is looking to divest the French company behind ‘Dishonored’ and ‘Marvel’s Bl...",
       "url": "https://www.bloomberg.com/news/articles/2026-11-03/xbox-s-arkane-studios-attracts-multiple-bidders-including-ubisoft",
       "publishedAt": "2026-11-03T20:43:51Z",
-      "processed_at": "2026-11-04T22:28:09.149288+00:00"
+      "processed_at": "2026-11-05T03:15:45.106815+00:00"
     },
     {
       "title": "Google researchers are fighting the company to tell the world what they know about AI - The Washington Post",
@@ -20,7 +60,7 @@
       "description": "Employees said that employment contracts at Google's AI division deter workers from speaking out abo...",
       "url": "https://www.washingtonpost.com/technology/2026/11/03/google-deepmind-staff-protest-lifetime-ban-criticizing-company/",
       "publishedAt": "2026-11-03T20:00:39Z",
-      "processed_at": "2026-11-04T22:28:09.149288+00:00"
+      "processed_at": "2026-11-05T03:15:45.106815+00:00"
     },
     {
       "title": "Best Early Black Friday Mac Deals: Save Hundreds on MacBook Air, Mac Mini, and More - MacRumors",
@@ -30,7 +70,7 @@
       "description": "We're getting closer to Black Friday, which lands on Friday, November 27 this year. In the lead-up t...",
       "url": "https://www.macrumors.com/2026/11/03/best-early-black-friday-mac-2026/",
       "publishedAt": "2026-11-03T19:40:00Z",
-      "processed_at": "2026-11-04T22:28:09.149288+00:00"
+      "processed_at": "2026-11-05T03:15:45.106815+00:00"
     },
     {
       "title": "Someone Just Figured Out How To Recruit A Previously Unrecruitable Party Member In A Nearly 30-Year-Old RPG - Kotaku",
@@ -40,7 +80,7 @@
       "description": "You can get Lilith in Tales of Destiny after all, no cheats required...",
       "url": "https://kotaku.com/someone-just-figured-out-how-to-recruit-a-previously-unrecruitable-party-member-in-a-nearly-30-year-old-rpg-2000752817",
       "publishedAt": "2026-11-03T19:30:17Z",
-      "processed_at": "2026-11-04T22:28:09.149288+00:00"
+      "processed_at": "2026-11-05T03:15:45.106815+00:00"
     },
     {
       "title": "Xbox Announces Sweepstakes for an Alligator-Shaped Series X That You Can Win Before GTA 6 Launches - IGN",
@@ -50,17 +90,7 @@
       "description": "GTA 6 is mere weeks away from launch, and to celebrate, Xbox is bringing the wildlife of Leonida to ...",
       "url": "https://www.ign.com/articles/xbox-made-an-alligator-shaped-series-x-and-you-can-win-it-before-gta-6-launches",
       "publishedAt": "2026-11-03T19:20:49Z",
-      "processed_at": "2026-11-04T22:28:09.149288+00:00"
-    },
-    {
-      "title": "iOS 27.3 introduces new iPhone Duo feature for one-handed use - 9to5Mac",
-      "source": {
-        "name": "9to5Mac"
-      },
-      "description": "iOS 27.3 beta 1 launched today with a variety of new features, including a big upgrade for one-hande...",
-      "url": "https://9to5mac.com/2026/11/03/ios-27-3-introduces-new-iphone-duo-feature-for-one-handed-use/",
-      "publishedAt": "2026-11-03T19:09:00Z",
-      "processed_at": "2026-11-04T22:28:09.149288+00:00"
+      "processed_at": "2026-11-05T03:15:45.106815+00:00"
     },
     {
       "title": "Siri AI Gets More Capable in iOS 27.3 - MacRumors",
@@ -70,30 +100,10 @@
       "description": "Apple is expanding what Siri AI can do in and across apps in iOS 27.3, which is available to develop...",
       "url": "https://www.macrumors.com/2026/11/03/ios-27-3-siri-ai/",
       "publishedAt": "2026-11-03T19:06:26Z",
-      "processed_at": "2026-11-04T22:28:09.149288+00:00"
-    },
-    {
-      "title": "Safari update brings vertical tabs, adaptive dark mode, AI integration - Six Colors",
-      "source": {
-        "name": "sixcolors.com"
-      },
-      "description": "Safari is getting some major feature updates in the 27.3 updates to Apple's operating systems, which...",
-      "url": "https://sixcolors.com/post/2026/11/safari-update-brings-vertical-tabs-adaptive-dark-mode-ai-integration/",
-      "publishedAt": "2026-11-03T18:52:18Z",
-      "processed_at": "2026-11-04T22:28:09.149288+00:00"
-    },
-    {
-      "title": "Apple Launches Beta Versions of Watch AI Listening Tools, New Health App - Bloomberg.com",
-      "source": {
-        "name": "Bloomberg"
-      },
-      "description": "Apple Inc. rolled out the first developer beta versions of iOS 27.3 and watchOS 27.3 on Tuesday, put...",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-03/apple-releases-ios-27-3-beta-with-watch-ai-listening-tools-health-app-china-ai",
-      "publishedAt": "2026-11-03T18:27:38Z",
-      "processed_at": "2026-11-04T22:28:09.149288+00:00"
+      "processed_at": "2026-11-05T03:15:45.106815+00:00"
     }
   ],
-  "lastUpdated": "2026-11-04T22:28:09.149353+00:00",
+  "lastUpdated": "2026-11-05T03:15:45.106867+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
