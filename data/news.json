@@ -1,7 +1,97 @@
 {
   "status": "success",
-  "totalResults": 9,
+  "totalResults": 10,
   "articles": [
+    {
+      "title": "Artist pulls popular screensaver from Roku OS because of Fox acquisition - Ars Technica",
+      "source": {
+        "name": "Ars Technica"
+      },
+      "description": "Developer: “I can’t be part of the Fox world.”......",
+      "url": "https://arstechnica.com/gadgets/2026/11/artist-pulls-popular-screensaver-from-roku-os-because-of-fox-acquisition/",
+      "publishedAt": "2026-11-06T19:50:18Z",
+      "processed_at": "2026-11-07T23:33:11.301546+00:00"
+    },
+    {
+      "title": "Canadian Politician Petitions Government to Help BioWare Buy Its Way From Under EA - IGN",
+      "source": {
+        "name": "IGN"
+      },
+      "description": "A Canadian politician has started an official government petition to save Mass Effect developer BioW...",
+      "url": "https://www.ign.com/articles/canadian-politician-petitions-government-to-help-bioware-buy-its-way-from-under-ea",
+      "publishedAt": "2026-11-06T19:26:07Z",
+      "processed_at": "2026-11-07T23:33:11.301546+00:00"
+    },
+    {
+      "title": "The 'Grand Theft Auto VI' Custom In-Game Cars Have Come to Life - Hypebeast",
+      "source": {
+        "name": "HYPEBEAST"
+      },
+      "description": "West Coast Customs painstakingly recreated the iconic cars of the game....",
+      "url": "https://hypebeast.com/2026/11/grand-theft-auto-vi-gta6-real-in-game-cars#article",
+      "publishedAt": "2026-11-06T19:00:33Z",
+      "processed_at": "2026-11-07T23:33:11.301546+00:00"
+    },
+    {
+      "title": "Meta introduces Spaces, a new way to collaborate with your Muse agent - TechCrunch",
+      "source": {
+        "name": "TechCrunch"
+      },
+      "description": "Meta's Muse agents continue to get new features and integrations. Spaces promises to be a new way to...",
+      "url": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
+      "publishedAt": "2026-11-06T18:44:20Z",
+      "processed_at": "2026-11-07T23:33:11.301546+00:00"
+    },
+    {
+      "title": "Discord is about to get way, way faster on your Android phone - 9to5Google",
+      "source": {
+        "name": "9to5google.com"
+      },
+      "description": "A new Discord update built on Rust is substantially reducing the amount of RAM it uses, leading to s...",
+      "url": "http://9to5google.com/2026/11/06/discord-is-about-to-get-way-way-faster-on-your-android-phone/",
+      "publishedAt": "2026-11-06T18:13:00Z",
+      "processed_at": "2026-11-07T23:33:11.301546+00:00"
+    },
+    {
+      "title": "You Can Request an Invite to Buy an Xbox Series X | X25 Special Edition Console at Amazon Right Now - IGN",
+      "source": {
+        "name": "IGN"
+      },
+      "description": "",
+      "url": "https://www.ign.com/articles/xbox-series-x-x25-special-edition-console-invite-requests-are-up-at-amazon",
+      "publishedAt": "2026-11-06T18:04:07Z",
+      "processed_at": "2026-11-07T23:33:11.301546+00:00"
+    },
+    {
+      "title": "Bluetooth 7 Speeds Are Set to Quadruple in 2027, Especially for Audio - CNET",
+      "source": {
+        "name": "CNET"
+      },
+      "description": "The Bluetooth Group has announced a new standard. Here's how it works and when you can expect to ben...",
+      "url": "https://www.cnet.com/tech/bluetooth-7-speeds-quadruple-2027/",
+      "publishedAt": "2026-11-06T17:50:00Z",
+      "processed_at": "2026-11-07T23:33:11.301546+00:00"
+    },
+    {
+      "title": "Apple Says More Than 100,000 Apps Optimized for iPhone Duo, Here's What's Still Missing - MacRumors",
+      "source": {
+        "name": "MacRumors"
+      },
+      "description": "Apple today announced that more than 100,000 apps have been optimized for the iPhone Duo, released t...",
+      "url": "https://www.macrumors.com/2026/11/06/apple-says-100k-apps-optimized-for-iphone-duo/",
+      "publishedAt": "2026-11-06T17:18:31Z",
+      "processed_at": "2026-11-07T23:33:11.301546+00:00"
+    },
+    {
+      "title": "PlayStation Is Already Killing Off Ratchet & Clank Mobile Game Just 12 Months After It Was Revealed - Kotaku",
+      "source": {
+        "name": "Kotaku"
+      },
+      "description": "Ratchet & Clank: Ranger Rumble never officially launched globally...",
+      "url": "https://kotaku.com/playstation-mobile-game-shuts-down-just-12-months-after-it-was-revealed-2000754657",
+      "publishedAt": "2026-11-06T17:00:11Z",
+      "processed_at": "2026-11-07T23:33:11.301546+00:00"
+    },
     {
       "title": "PSA: Want To Learn Link's Ocarina Tunes? Nintendo's Got The Sheet Music For All Of Them - Nintendo Life",
       "source": {
@@ -10,90 +100,10 @@
       "description": "Hylian how-to...",
       "url": "https://www.nintendolife.com/news/2026/11/psa-want-to-learn-links-ocarina-tunes-nintendos-got-the-sheet-music-for-all-of-them",
       "publishedAt": "2026-11-06T16:45:00Z",
-      "processed_at": "2026-11-07T19:57:24.260905+00:00"
-    },
-    {
-      "title": "20 Years of Gears - XBOX Wire",
-      "source": {
-        "name": "Xbox.com"
-      },
-      "description": "SummaryGears of War celebrates 20 years with a special anniversary event in Gears of War: E-Day, hon...",
-      "url": "https://news.xbox.com/en-us/?p=228001",
-      "publishedAt": "2026-11-06T16:02:47Z",
-      "processed_at": "2026-11-07T19:57:24.260905+00:00"
-    },
-    {
-      "title": "Next year’s iPhone Pro redesign will drop an important button, per leak - 9to5Mac",
-      "source": {
-        "name": "9to5Mac"
-      },
-      "description": "Apple is rumored to have a big iPhone redesign coming next year, and per a new leak, it may come wit...",
-      "url": "https://9to5mac.com/2026/11/06/next-years-iphone-pro-redesign-will-drop-an-important-button-per-leak/",
-      "publishedAt": "2026-11-06T16:02:00Z",
-      "processed_at": "2026-11-07T19:57:24.260905+00:00"
-    },
-    {
-      "title": "Nintendo’s Shigeru Miyamoto Misses Financial Briefing Due To A ‘Sudden Illness’ But Is Expected To Recover Soon - Kotaku",
-      "source": {
-        "name": "Kotaku"
-      },
-      "description": "'He is expected to recover in a few days to a week'...",
-      "url": "https://kotaku.com/nintendos-shigeru-miyamoto-misses-financial-briefing-due-to-a-sudden-illness-but-is-expected-to-recover-soon-2000754655",
-      "publishedAt": "2026-11-06T15:46:04Z",
-      "processed_at": "2026-11-07T19:57:24.260905+00:00"
-    },
-    {
-      "title": "OpenAI Launches GPT-6 Cyber After AI Helps Find 81 Firefox Flaws, 948 Linux Exploits - The Hacker News",
-      "source": {
-        "name": "Internet"
-      },
-      "description": "OpenAI unveils GPT-6 Cyber, reporting 948 Linux privilege escalation exploits and 81 unknown Firefox...",
-      "url": "https://thehackernews.com/2026/11/openai-launches-gpt-6-cyber-after-ai.html",
-      "publishedAt": "2026-11-06T14:58:00Z",
-      "processed_at": "2026-11-07T19:57:24.260905+00:00"
-    },
-    {
-      "title": "The ‘Fortnite’ Lottery Odds Pirate Shop Token Is Backfiring - Forbes",
-      "source": {
-        "name": "Google News"
-      },
-      "description": "",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPaDBYMURZdVJYVUZyVkdyUXJNNHhtZjB0cWl2YmlmZnVKQ3FDMl9JczNsSU1tS0pHdTBTajZDYlJnY1lnYl9xUjRKc0UwRVlHZEtjNDJpVXhNUlFLZVd6WmJkTjZ4UnF0bWtBSUlURGpfQUliTUc2RzgzMTRnZUVlaWRjMnZiQTNiWE40blNuWkR1UnJLS25SQVE1Sm9XREFxaWREaDB3aXo1QnE1?oc=5",
-      "publishedAt": "2026-11-06T14:23:29Z",
-      "processed_at": "2026-11-07T19:57:24.260905+00:00"
-    },
-    {
-      "title": "Are You A Tired Parent? The Witcher 3's New Accessibility Mode Was Built With You In Mind - Nintendo Life",
-      "source": {
-        "name": "Nintendo Life"
-      },
-      "description": "For anyone busy adulting...",
-      "url": "https://www.nintendolife.com/news/2026/11/are-you-a-tired-parent-the-witcher-3s-new-accessibility-mode-was-built-with-you-in-mind",
-      "publishedAt": "2026-11-06T14:15:00Z",
-      "processed_at": "2026-11-07T19:57:24.260905+00:00"
-    },
-    {
-      "title": "Valve escaped Windows. Now Steam is breaking free from the PC itself - PCWorld",
-      "source": {
-        "name": "PCWorld"
-      },
-      "description": "Steam Deck made Windows optional. Steam Frame takes aim at x86. Valve is building a future where you...",
-      "url": "https://www.pcworld.com/article/3266419/valve-escaped-windows-now-steam-is-breaking-free-from-the-pc-itself.html",
-      "publishedAt": "2026-11-06T14:02:41Z",
-      "processed_at": "2026-11-07T19:57:24.260905+00:00"
-    },
-    {
-      "title": "These 8+ PS5 Games Will Be Delisted in November and December 2026 - Push Square",
-      "source": {
-        "name": "Push Square"
-      },
-      "description": "Going offline...",
-      "url": "https://www.pushsquare.com/news/2026/11/these-8plus-ps5-games-will-be-delisted-in-november-and-december-2026",
-      "publishedAt": "2026-11-06T13:30:00Z",
-      "processed_at": "2026-11-07T19:57:24.260905+00:00"
+      "processed_at": "2026-11-07T23:33:11.301546+00:00"
     }
   ],
-  "lastUpdated": "2026-11-07T19:57:24.260954+00:00",
+  "lastUpdated": "2026-11-07T23:33:11.301611+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
