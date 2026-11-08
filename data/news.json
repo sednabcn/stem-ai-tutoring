@@ -3,6 +3,46 @@
   "totalResults": 10,
   "articles": [
     {
+      "title": "I tried local AI on HP’s Omnibook Ultra – it’s a private, powerful beast with zero token fees - ZDNET",
+      "source": {
+        "name": "ZDNet"
+      },
+      "description": "I ran a free, open-weights AI model locally on HP’s $7,000 OmniBook Ultra and turned 20 years of my ...",
+      "url": "https://www.zdnet.com/tech/hp-omnibook-ultra-nvidia-rtx-spark-laptop-review/",
+      "publishedAt": "2026-11-07T08:00:41Z",
+      "processed_at": "2026-11-08T11:46:51.131739+00:00"
+    },
+    {
+      "title": "World of Warcraft: Forever is the biggest launch in WoW history, beating Wrath itself - Windows Central",
+      "source": {
+        "name": "Windows Central"
+      },
+      "description": "Blizzard confirmed that World of Warcraft Forever is absolutely huge, and potentially represents a h...",
+      "url": "https://www.windowscentral.com/gaming/blizzard/blizzard-confirms-world-of-warcraft-forever-is-the-biggest-launch-in-wow-history-beating-wrath-of-the-lich-king-is-wow-retail-cooked",
+      "publishedAt": "2026-11-07T06:23:43Z",
+      "processed_at": "2026-11-08T11:46:51.131739+00:00"
+    },
+    {
+      "title": "World of Warcraft Forever World First Level 60 Character Hits Cap Three Days After Launch - IGN",
+      "source": {
+        "name": "IGN"
+      },
+      "description": "World of Warcraft Forever World First Level 60 Character Hits Cap Three Days After Launch...",
+      "url": "https://www.ign.com/articles/world-of-warcraft-forever-world-first-level-60-character-hits-cap-three-days-after-launch",
+      "publishedAt": "2026-11-07T03:12:00Z",
+      "processed_at": "2026-11-08T11:46:51.131739+00:00"
+    },
+    {
+      "title": "Future iPhones will have one less button, new rumor claims - GSMArena.com news - GSMArena.com",
+      "source": {
+        "name": "GSMArena.com"
+      },
+      "description": "Two will become one, apparently. Apple introduced the Action button with the iPhone 15 Pro, and the ...",
+      "url": "https://www.gsmarena.com/future_iphones_will_have_one_less_button_new_rumor_claims-news-75391.php",
+      "publishedAt": "2026-11-06T23:42:02Z",
+      "processed_at": "2026-11-08T11:46:51.131739+00:00"
+    },
+    {
       "title": "Re-releases of Wing Commander, Ultima titles hit Steam and GOG - Ars Technica",
       "source": {
         "name": "Ars Technica"
@@ -10,17 +50,17 @@
       "description": "It's mostly bad news from EA lately, but preservation efforts are nice to see....",
       "url": "https://arstechnica.com/gaming/2026/11/ea-producer-tells-the-inside-story-behind-new-wing-commander-remasters/",
       "publishedAt": "2026-11-06T22:08:47Z",
-      "processed_at": "2026-11-08T04:56:22.847855+00:00"
+      "processed_at": "2026-11-08T11:46:51.131739+00:00"
     },
     {
-      "title": "Costco Employee Finds Carrier Left In Shopping Cart — Then Reads The Writing On The Side - The Dodo",
+      "title": "Hands-On With Apple's New OLED Touchscreen MacBook Pro - MacRumors",
       "source": {
-        "name": "Thedodo.com"
+        "name": "MacRumors"
       },
-      "description": "She was 14 years old and all alone....",
-      "url": "https://www.thedodo.com/daily-dodo/costco-employee-finds-carrier-left-in-shopping-cart-then-reads-the-writing-on-the-side",
-      "publishedAt": "2026-11-06T22:02:14Z",
-      "processed_at": "2026-11-08T04:56:22.847855+00:00"
+      "description": "Happy touch your Mac day! Apple's new PROLED MacBook Pro is now in the hands of customers. We picked...",
+      "url": "https://www.macrumors.com/2026/11/06/oled-macbook-pro-hands-on/",
+      "publishedAt": "2026-11-06T22:05:59Z",
+      "processed_at": "2026-11-08T11:46:51.131739+00:00"
     },
     {
       "title": "iOS 27.3: New features, release date, more - 9to5Mac",
@@ -30,7 +70,7 @@
       "description": "This week, Apple released the first iOS 27.3 beta. The update includes multiple new features for iPh...",
       "url": "https://9to5mac.com/2026/11/06/ios-27-3-new-features-release-date-more/",
       "publishedAt": "2026-11-06T21:58:00Z",
-      "processed_at": "2026-11-08T04:56:22.847855+00:00"
+      "processed_at": "2026-11-08T11:46:51.131739+00:00"
     },
     {
       "title": "watchOS 27.3 adds new Apple Watch feature that I absolutely love - 9to5Mac",
@@ -40,70 +80,30 @@
       "description": "watchOS 27.3 is here in beta with a major new feature for the latest Apple Watch models: Siri Recap,...",
       "url": "https://9to5mac.com/2026/11/06/watchos-27-3-adds-new-apple-watch-feature-that-i-absolutely-love/",
       "publishedAt": "2026-11-06T21:05:00Z",
-      "processed_at": "2026-11-08T04:56:22.847855+00:00"
+      "processed_at": "2026-11-08T11:46:51.131739+00:00"
     },
     {
-      "title": "Apple says over 100,000 apps are now optimized for the iPhone Duo - GSMArena.com news - GSMArena.com",
+      "title": "GTA 6 Players in Germany Can Legally Take Time Off Work to Play the Game on Launch, But There's a Catch - IGN",
       "source": {
-        "name": "GSMArena.com"
+        "name": "IGN"
       },
-      "description": "Thousands of titles are landing every day. The iPhone Duo started shipping about two weeks ago, and ...",
-      "url": "https://www.gsmarena.com/apple_says_over_100000_apps_are_now_optimized_for_the_iphone_duo-news-75390.php",
-      "publishedAt": "2026-11-06T20:31:02Z",
-      "processed_at": "2026-11-08T04:56:22.847855+00:00"
+      "description": "Germany has a unique legal loophole that lets 60 employees take time off work to play GTA 6 without ...",
+      "url": "https://www.ign.com/articles/gta-6-players-in-germany-can-legally-take-time-off-work-to-play-the-game-on-launch-but-theres-a-catch",
+      "publishedAt": "2026-11-06T20:18:08Z",
+      "processed_at": "2026-11-08T11:46:51.131739+00:00"
     },
     {
-      "title": "Artist pulls popular screensaver from Roku OS because of Fox acquisition - Ars Technica",
+      "title": "Dead by Daylight Jumps to Positive Ratings After Steam Hides 'Off-Topic' Reviews Following BurntPeanut Backlash - IGN",
       "source": {
-        "name": "Ars Technica"
+        "name": "IGN"
       },
-      "description": "Developer: “I can’t be part of the Fox world.”......",
-      "url": "https://arstechnica.com/gadgets/2026/11/artist-pulls-popular-screensaver-from-roku-os-because-of-fox-acquisition/",
-      "publishedAt": "2026-11-06T19:50:18Z",
-      "processed_at": "2026-11-08T04:56:22.847855+00:00"
-    },
-    {
-      "title": "The 'Grand Theft Auto VI' Custom In-Game Cars Have Come to Life - Hypebeast",
-      "source": {
-        "name": "HYPEBEAST"
-      },
-      "description": "West Coast Customs painstakingly recreated the iconic cars of the game....",
-      "url": "https://hypebeast.com/2026/11/grand-theft-auto-vi-gta6-real-in-game-cars#article",
-      "publishedAt": "2026-11-06T19:00:33Z",
-      "processed_at": "2026-11-08T04:56:22.847855+00:00"
-    },
-    {
-      "title": "The Legend of Zelda: Ocarina of Time Remake Now Runs at 60 FPS on PC Emulators Lichii and Eglantine, a Day After Booting at 20-30 FPS - Wccftech",
-      "source": {
-        "name": "Wccftech"
-      },
-      "description": "The Nintendo Switch 2 remake of The Legend of Zelda: Ocarina of Time already runs at 60 frames per s...",
-      "url": "https://wccftech.com/zelda-ocarina-of-time-remake-60-fps-pc-emulators/",
-      "publishedAt": "2026-11-06T19:00:00Z",
-      "processed_at": "2026-11-08T04:56:22.847855+00:00"
-    },
-    {
-      "title": "Meta introduces Spaces, a new way to collaborate with your Muse agent - TechCrunch",
-      "source": {
-        "name": "TechCrunch"
-      },
-      "description": "Meta's Muse agents continue to get new features and integrations. Spaces promises to be a new way to...",
-      "url": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
-      "publishedAt": "2026-11-06T18:44:20Z",
-      "processed_at": "2026-11-08T04:56:22.847855+00:00"
-    },
-    {
-      "title": "A Truck Demanding EA ‘Save Mass Effect’ Is Currently Driving Around The Company’s Headquarters - Kotaku",
-      "source": {
-        "name": "Kotaku"
-      },
-      "description": "BioWare fans continue to take the fight to IRL spaces...",
-      "url": "https://kotaku.com/save-mass-effect-ea-bioware-redwood-truck-billboard-2000754705",
-      "publishedAt": "2026-11-06T18:15:39Z",
-      "processed_at": "2026-11-08T04:56:22.847855+00:00"
+      "description": "Dead by Daylight has returned to 'Mostly Positive' recent reviews on Steam after Valve labeled a chu...",
+      "url": "https://www.ign.com/articles/dead-by-daylight-jumps-to-positive-ratings-after-steam-hides-off-topic-reviews-following-burntpeanut-backlash",
+      "publishedAt": "2026-11-06T20:03:08Z",
+      "processed_at": "2026-11-08T11:46:51.131739+00:00"
     }
   ],
-  "lastUpdated": "2026-11-08T04:56:22.847926+00:00",
+  "lastUpdated": "2026-11-08T11:46:51.131794+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
