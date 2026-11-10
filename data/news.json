@@ -1,99 +1,109 @@
 {
   "status": "success",
-  "totalResults": 9,
+  "totalResults": 10,
   "articles": [
     {
-      "title": "The Butcher's Nails and Astartes II release dates - Warhammer Community",
+      "title": "Vulnerability that lets hackers SSH into Linux devices is under active exploitation - Ars Technica",
       "source": {
-        "name": "Warhammer-community.com"
+        "name": "Ars Technica"
       },
-      "description": "Animated carnage this winter on Warhammer TV....",
-      "url": "https://www.warhammer-community.com/articles/f8ue9xw9/the-butchers-nails-and-astartes-ii-release-dates",
-      "publishedAt": "2026-11-09T11:22:20Z",
-      "processed_at": "2026-11-10T12:14:20.254551+00:00"
+      "description": "sshole\" poses a serious threat to Internet security....",
+      "url": "https://arstechnica.com/security/2026/11/vulnerability-that-lets-hackers-ssh-into-linux-devices-is-under-active-exploitation/",
+      "publishedAt": "2026-11-09T19:41:34Z",
+      "processed_at": "2026-11-10T20:18:01.459075+00:00"
     },
     {
-      "title": "2 Upcoming PS Plus Extra, Premium Games Announced Early - Push Square",
+      "title": "Skydance Games Layoffs Hit Following Warner Bros. Merger - Variety",
       "source": {
-        "name": "Push Square"
+        "name": "Variety"
       },
-      "description": "In the Japanese region at least...",
-      "url": "https://www.pushsquare.com/news/2026/11/2-upcoming-ps-plus-extra-premium-games-announced-early",
-      "publishedAt": "2026-11-09T09:30:00Z",
-      "processed_at": "2026-11-10T12:14:20.254551+00:00"
+      "description": "Skydance Games has undergone a round of layoffs following the merger between Warner Bros. and Paramo...",
+      "url": "https://variety.com/2026/gaming/news/skydance-games-warner-bros-layoffs-1236943276/",
+      "publishedAt": "2026-11-09T19:35:00Z",
+      "processed_at": "2026-11-10T20:18:01.459075+00:00"
     },
     {
-      "title": "Is this the shocking conclusion to the Galaxy S27 Ultra processor mystery? - PhoneArena",
+      "title": "BioWare Co-Founder/Beamdog CEO Trent Oster Says He’s Running the Numbers on Saving Mass Effect and Wants the Original Band Back Together, Starting with James Ohlen - Wccftech",
       "source": {
-        "name": "PhoneArena"
+        "name": "Wccftech"
       },
-      "description": "",
-      "url": "https://www.phonearena.com/news/here-is-the-answer-to-a-major-galaxy-s27-ultra-processor-question_id184644",
-      "publishedAt": "2026-11-09T04:46:54Z",
-      "processed_at": "2026-11-10T12:14:20.254551+00:00"
+      "description": "BioWare co-founder and Beamdog CEO Trent Oster has publicly discussed getting the back together, sta...",
+      "url": "https://wccftech.com/trent-oster-saving-mass-effect-james-ohlen-bioware-reunion/",
+      "publishedAt": "2026-11-09T19:00:00Z",
+      "processed_at": "2026-11-10T20:18:01.459075+00:00"
     },
     {
-      "title": "Dragon Quest RPG: The Cursed Tree and the Chosen Isle announced for iOS, Android - Gematsu",
+      "title": "Claude can design electronic prototypes from start to finish - Anthropic",
       "source": {
-        "name": "Gematsu"
+        "name": "Anthropic.com"
       },
-      "description": "Square Enix has announced Dragon Quest RPG: The Cursed Tree and the Chosen Isle, “the next adventure...",
-      "url": "https://www.gematsu.com/2026/11/dragon-quest-rpg-the-cursed-tree-and-the-chosen-isle-announced-for-ios-android",
-      "publishedAt": "2026-11-09T03:57:58Z",
-      "processed_at": "2026-11-10T12:14:20.254551+00:00"
+      "description": "We asked Claude to design three electronic devices: a speakerphone, a voice-assistant hub, and a han...",
+      "url": "https://www.anthropic.com/research/claude-electronics-design",
+      "publishedAt": "2026-11-09T18:58:57Z",
+      "processed_at": "2026-11-10T20:18:01.459075+00:00"
     },
     {
-      "title": "No, this isn't Windows 11's new modernized Registry Editor — Microsoft confirms \"this is a sample\" and not the real thing after outrage online - Windows Central",
+      "title": "'Grand Theft Auto VI' is almost here. What to know about the characters, music and billions at stake - AP News",
       "source": {
-        "name": "Windows Central"
+        "name": "Associated Press"
       },
-      "description": "A new Registry Editor sample app has caused a stir online after people mistook it for a real replace...",
-      "url": "https://www.windowscentral.com/microsoft/windows-11/no-this-isnt-windows-11s-new-modernized-registry-editor-microsoft-confirms-this-is-a-sample-and-not-the-real-thing-after-outrage-online",
-      "publishedAt": "2026-11-09T03:44:05Z",
-      "processed_at": "2026-11-10T12:14:20.254551+00:00"
+      "description": "‘Grand Theft Auto VI’ is set to release on Nov. 19, marking a return to the neon-lit streets of Vice...",
+      "url": "https://apnews.com/article/grand-theft-auto-gta-6-27dacd5b65338153f525a948defb0e7d",
+      "publishedAt": "2026-11-09T18:51:00Z",
+      "processed_at": "2026-11-10T20:18:01.459075+00:00"
     },
     {
-      "title": "Zelda: Ocarina of Time Switch 2 remake now runs as a native Windows game at up to 240 FPS - TweakTown",
+      "title": "Google Store previews Black Friday 2026 deals, starting Nov. 19 - 9to5Google",
       "source": {
-        "name": "TweakTown"
+        "name": "9to5google.com"
       },
-      "description": "Ocarina of Time's Switch 2 remake now runs natively on Windows via the NX2navi recompilation, with u...",
-      "url": "https://www.tweaktown.com/news/114555/zelda-ocarina-of-time-switch-2-remake-now-runs-as-a-native-windows-game-at-up-to-240-fps/index.html",
-      "publishedAt": "2026-11-09T03:41:15Z",
-      "processed_at": "2026-11-10T12:14:20.254551+00:00"
+      "description": "With early deals ending yesterday, the US Google Store has now shared its upcoming Black Friday sale...",
+      "url": "http://9to5google.com/2026/11/09/google-store-black-friday-2026/",
+      "publishedAt": "2026-11-09T18:29:00Z",
+      "processed_at": "2026-11-10T20:18:01.459075+00:00"
     },
     {
-      "title": "5 Essential Apps You Need To Install On Your Mac Mini In 2026 - BGR",
+      "title": "The Legend of Zelda: Ocarina of Time Remake Dataminers Uncover Potential Majora's Mask, Master Quest DLC Hints - IGN",
       "source": {
-        "name": "BGR"
+        "name": "IGN"
       },
-      "description": "Whether you're just getting a Mac Mini or are already an experienced user, you should know about the...",
-      "url": "https://www.bgr.com/2306805/mac-mini-essential-apps-2026/",
-      "publishedAt": "2026-11-09T03:17:00Z",
-      "processed_at": "2026-11-10T12:14:20.254551+00:00"
+      "description": "The Legend of Zelda: Ocarina of Time players are getting their hopes up after dataminers uncovered h...",
+      "url": "https://www.ign.com/articles/the-legend-of-zelda-ocarina-of-time-remake-dataminers-uncover-potential-majoras-mask-master-quest-dlc-hints",
+      "publishedAt": "2026-11-09T18:15:13Z",
+      "processed_at": "2026-11-10T20:18:01.459075+00:00"
     },
     {
-      "title": "Improve Your Mac Mini's Performance With These Simple Changes - BGR",
+      "title": "Apple Releases iOS 27.2.1 With Bug Fixes - MacRumors",
       "source": {
-        "name": "BGR"
+        "name": "MacRumors"
       },
-      "description": "If your Mini's performance isn't up to par, free up some space on its startup disk by transferring d...",
-      "url": "https://www.bgr.com/2306843/improve-mac-mini-performance-simple-changes/",
-      "publishedAt": "2026-11-09T00:47:00Z",
-      "processed_at": "2026-11-10T12:14:20.254551+00:00"
+      "description": "Apple today released iOS 27.2.1, a minor update to the iOS 27 operating system. iOS 27.2.1 comes two...",
+      "url": "https://www.macrumors.com/2026/11/09/apple-releases-ios-27-2-1-with-bug-fixes/",
+      "publishedAt": "2026-11-09T18:09:57Z",
+      "processed_at": "2026-11-10T20:18:01.459075+00:00"
     },
     {
-      "title": "I made Google Messages less annoying with these tweaks; my inbox is now manageable - Android Police",
+      "title": "Poll: Which Zelda: Ocarina Of Time HUD Option Is Your Favourite? - Nintendo Life",
       "source": {
-        "name": "Android Police"
+        "name": "Nintendo Life"
       },
-      "description": "Here's how I fixed my cluttered inbox...",
-      "url": "https://www.androidpolice.com/google-messages-less-annoying-tweaks-inbox-manageable/",
-      "publishedAt": "2026-11-09T00:00:00Z",
-      "processed_at": "2026-11-10T12:14:20.254551+00:00"
+      "description": "Navi negation...",
+      "url": "https://www.nintendolife.com/features/poll-which-zelda-ocarina-of-time-hud-option-is-your-favourite",
+      "publishedAt": "2026-11-09T18:00:00Z",
+      "processed_at": "2026-11-10T20:18:01.459075+00:00"
+    },
+    {
+      "title": "Hollow Knight Silksong physical editions mention multiple \"free content packs\" incoming, and call Sea of Sorrow a \"giant expansion\" - Eurogamer.net",
+      "source": {
+        "name": "Eurogamer.net"
+      },
+      "description": "Hollow Knight Silksong's physical editions are out in the wild and the box supposedly references mul...",
+      "url": "https://www.eurogamer.net/hollow-knight-silksong-physical-free-content-packs-sea-of-sorrow",
+      "publishedAt": "2026-11-09T17:51:10Z",
+      "processed_at": "2026-11-10T20:18:01.459075+00:00"
     }
   ],
-  "lastUpdated": "2026-11-10T12:14:20.254621+00:00",
+  "lastUpdated": "2026-11-10T20:18:01.459161+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
