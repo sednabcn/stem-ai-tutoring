@@ -1,109 +1,99 @@
 {
   "status": "success",
-  "totalResults": 10,
+  "totalResults": 9,
   "articles": [
     {
-      "title": "Google Issues Chrome Security Update for Eighth Actively Exploited Zero-Day of 2026 - The Hacker News",
-      "source": {
-        "name": "Internet"
-      },
-      "description": "Google patches nine Chrome flaws, including actively exploited CVE-2026-125350, a high-severity use-...",
-      "url": "https://thehackernews.com/2026/11/google-issues-chrome-security-update.html",
-      "publishedAt": "2026-11-10T06:52:00Z",
-      "processed_at": "2026-11-11T08:57:26.223766+00:00"
-    },
-    {
-      "title": "Big Walk Used AI In 'The Final Stretch' Of Development, Kicking Off Intense Awards Debate - Aftermath",
-      "source": {
-        "name": "Aftermath.site"
-      },
-      "description": "'We support the work of those who are trying to limit the harm generative AI is doing to videogames ...",
-      "url": "https://aftermath.site/big-walk-ai-igf-jurors-controversy/",
-      "publishedAt": "2026-11-10T06:33:02Z",
-      "processed_at": "2026-11-11T08:57:26.223766+00:00"
-    },
-    {
-      "title": "27 People Who Took A Photo Of Something That Could’ve Killed Them - BuzzFeed",
-      "source": {
-        "name": "Buzzfeed"
-      },
-      "description": "Generally, don't pick up random animals....",
-      "url": "https://www.buzzfeed.com/andyneuenschwander/dangerous-photos-reddit-what-is-it",
-      "publishedAt": "2026-11-10T04:34:30Z",
-      "processed_at": "2026-11-11T08:57:26.223766+00:00"
-    },
-    {
-      "title": "'The Ocarina of Time' remake is setting Metacritic records left and right - Mashable",
-      "source": {
-        "name": "Mashable"
-      },
-      "description": "People really like this game, it turns out....",
-      "url": "https://mashable.com/entertainment/zelda-ocarina-of-time-switch-2-metacritic-records",
-      "publishedAt": "2026-11-10T03:12:14Z",
-      "processed_at": "2026-11-11T08:57:26.223766+00:00"
-    },
-    {
-      "title": "Nintendo Switch 2 System Update 23.5.0 Is Now Live, Here Are The Full Patch Notes - Nintendo Life",
-      "source": {
-        "name": "Nintendo Life"
-      },
-      "description": "Adds gifting feature support and more...",
-      "url": "https://www.nintendolife.com/news/2026/11/nintendo-switch-2-system-update-23-5-0-is-now-live-here-are-the-full-patch-notes",
-      "publishedAt": "2026-11-10T01:50:47Z",
-      "processed_at": "2026-11-11T08:57:26.223766+00:00"
-    },
-    {
-      "title": "Super Mario Party Jamboree 2.4.0 update out now, patch notes - GameShare using GameChat and more - Nintendo Everything",
-      "source": {
-        "name": "Nintendoeverything.com"
-      },
-      "description": "Super Mario Party Jamboree goes live with version 2.4.0 update, and here are the patch notes....",
-      "url": "https://nintendoeverything.com/super-mario-party-jamboree-2-4-0-update-out-now-patch-notes-gameshare-using-gamechat-and-more/",
-      "publishedAt": "2026-11-10T01:28:59Z",
-      "processed_at": "2026-11-11T08:57:26.223766+00:00"
-    },
-    {
-      "title": "Get a Nintendo Switch 2 Console for as Low as $418 During the AliExpress Black Friday Sale - IGN",
+      "title": "Achievements Could Be Making Gaming Worse for Everyone - IGN",
       "source": {
         "name": "IGN"
       },
-      "description": "Just in time to play the recently released The Legend of Zelda: Ocarina of Time....",
-      "url": "https://www.ign.com/articles/nintendo-switch-2-console-deal-aliexpress-black-friday-sale-updated",
-      "publishedAt": "2026-11-10T00:41:06Z",
-      "processed_at": "2026-11-11T08:57:26.223766+00:00"
+      "description": "There's no achievement for beating Phantom Blade Zero's most difficult mode, and trophy hunters are ...",
+      "url": "https://www.ign.com/articles/phantom-blade-zero-doesnt-have-an-achievement-for-beating-its-hardest-mode-a-growing-trend-in-the-games-industry-is-to-blame",
+      "publishedAt": "2026-11-10T15:30:00Z",
+      "processed_at": "2026-11-11T17:00:13.917952+00:00"
     },
     {
-      "title": "GTA 6's PlayStation Store Data Hints at Multiplayer Support - TechPowerUp",
+      "title": "GTA VI will be available on Xbox Cloud Gaming for Xbox One consoles - The Verge",
       "source": {
-        "name": "Techpowerup.com"
+        "name": "The Verge"
       },
-      "description": "PlayStation Game Size, the X account that pulls data from the PlayStation Store backend, has found t...",
-      "url": "https://www.techpowerup.com/354616/gta-6s-playstation-store-data-hints-at-multiplayer-support",
-      "publishedAt": "2026-11-10T00:40:28Z",
-      "processed_at": "2026-11-11T08:57:26.223766+00:00"
+      "description": "Rockstar Games is making GTA VI available on Xbox Cloud Gaming at launch. Xbox One consoles will be ...",
+      "url": "https://www.theverge.com/news/1030714/gta-vi-xbox-cloud-gaming-support",
+      "publishedAt": "2026-11-10T14:37:09Z",
+      "processed_at": "2026-11-11T17:00:13.917952+00:00"
     },
     {
-      "title": "Samsung Galaxy S27 series camera specs leak, and they’re disappointing - 9to5Google",
+      "title": "iPhone Air 2 and iPhone 18 dummy models leak - GSMArena.com news - GSMArena.com",
       "source": {
-        "name": "9to5google.com"
+        "name": "GSMArena.com"
       },
-      "description": "New leaks reveal the camera specs for Samsung’s upcoming Galaxy S27 series which includes three lens...",
-      "url": "http://9to5google.com/2026/11/09/samsung-galaxy-s27-series-camera-specs-leak-and-theyre-disappointing/",
-      "publishedAt": "2026-11-09T23:20:00Z",
-      "processed_at": "2026-11-11T08:57:26.223766+00:00"
+      "description": "The new iPhones are expected to be unveiled next Spring. Apple is expected to launch the standard iP...",
+      "url": "https://www.gsmarena.com/iphone_air_2_and_iphone_18_dummy_models_leak-news-75421.php",
+      "publishedAt": "2026-11-10T14:16:02Z",
+      "processed_at": "2026-11-11T17:00:13.917952+00:00"
     },
     {
-      "title": "Here's What Apple Fixed in iOS 27.2.1 and macOS 27.2.1 - MacRumors",
+      "title": "Despite promising a heady mix of Vampire Survivors and Warhammer fan-service, Warhammer Survivors is somehow less than the sum of its parts - Eurogamer.net",
       "source": {
-        "name": "MacRumors"
+        "name": "Eurogamer.net"
       },
-      "description": "The iOS 27.2.1, iPadOS 27.2.1, and macOS 27.2.1 updates Apple released today fix a handful of securi...",
-      "url": "https://www.macrumors.com/2026/11/09/ios-27-2-1-security-fixes/",
-      "publishedAt": "2026-11-09T23:07:03Z",
-      "processed_at": "2026-11-11T08:57:26.223766+00:00"
+      "description": "But then, maybe the stress of the early game even makes Warhammer Survivors' eventual catharsis even...",
+      "url": "https://www.eurogamer.net/warhammer-survivors-now-playing",
+      "publishedAt": "2026-11-10T14:06:10Z",
+      "processed_at": "2026-11-11T17:00:13.917952+00:00"
+    },
+    {
+      "title": "Mini Review: Pikmin 4 - Nintendo Switch 2 Edition + Dandori Academy (Switch 2) - Pleasant But Perplexingly Piecemeal - Nintendo Life",
+      "source": {
+        "name": "Nintendo Life"
+      },
+      "description": "Leave them wanting Olimore...",
+      "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/pikmin-4-nintendo-switch-2-edition-plus-dandori-academy",
+      "publishedAt": "2026-11-10T14:00:00Z",
+      "processed_at": "2026-11-11T17:00:13.917952+00:00"
+    },
+    {
+      "title": "Khazalite Holds make their Battle Report debut - Warhammer Community",
+      "source": {
+        "name": "Warhammer-community.com"
+      },
+      "description": "Plus, enjoy the final cut of Blacktalon, catch up with Robert Rath, and more on Warhammer TV....",
+      "url": "https://www.warhammer-community.com/articles/9jhrai5b/khazalite-holds-make-their-battle-report-debut",
+      "publishedAt": "2026-11-10T12:57:05Z",
+      "processed_at": "2026-11-11T17:00:13.917952+00:00"
+    },
+    {
+      "title": "AI phishing scams turn your social posts against you - Fox News",
+      "source": {
+        "name": "Fox News"
+      },
+      "description": "University of Texas at Arlington researchers reveal how AI analyzes public Instagram posts to craft ...",
+      "url": "https://www.foxnews.com/tech/ai-phishing-scams-turn-your-social-posts-against-you",
+      "publishedAt": "2026-11-10T12:33:37Z",
+      "processed_at": "2026-11-11T17:00:13.917952+00:00"
+    },
+    {
+      "title": "Nintendo Shuts Down Switch 2 Jailbreak, Sending Hackers Back To Square One - Kotaku",
+      "source": {
+        "name": "Kotaku"
+      },
+      "description": "",
+      "url": "https://kotaku.com/nintendo-shuts-down-switch-2-jailbreak-smilebasic-r4-piracy-homebrew-2000755504",
+      "publishedAt": "2026-11-10T12:33:09Z",
+      "processed_at": "2026-11-11T17:00:13.917952+00:00"
+    },
+    {
+      "title": "Review: Apple's $1,999 M6 MacBook Pro feels stuck in the middle - Ars Technica",
+      "source": {
+        "name": "Ars Technica"
+      },
+      "description": "Per usual, the basic MacBook Pro lags behind the flagships where it counts....",
+      "url": "https://arstechnica.com/gadgets/2026/11/review-apples-1999-m6-macbook-pro-feels-stuck-in-the-middle/",
+      "publishedAt": "2026-11-10T12:00:21Z",
+      "processed_at": "2026-11-11T17:00:13.917952+00:00"
     }
   ],
-  "lastUpdated": "2026-11-11T08:57:26.223840+00:00",
+  "lastUpdated": "2026-11-11T17:00:13.918013+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
