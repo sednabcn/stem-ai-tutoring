@@ -1,109 +1,99 @@
 {
   "status": "success",
-  "totalResults": 10,
+  "totalResults": 9,
   "articles": [
     {
-      "title": "End of an era: Apple Support Community forums will permanently close on November 20 - 9to5Mac",
+      "title": "Samsung Galaxy S27 and S27 Ultra camera specs reportedly leaked - Mashable",
       "source": {
-        "name": "9to5Mac"
+        "name": "Mashable"
       },
-      "description": "Users visiting the Apple Support Community tonight were greeted with a message informing them that t...",
-      "url": "https://9to5mac.com/2026/11/10/end-of-an-era-apple-support-community-forums-will-permanently-close-on-november-20/",
-      "publishedAt": "2026-11-11T02:49:00Z",
-      "processed_at": "2026-11-12T06:10:10.404586+00:00"
+      "description": "",
+      "url": "https://mashable.com/tech/samsung-galaxy-s27-camera-specs-leak",
+      "publishedAt": "2026-11-11T13:07:31Z",
+      "processed_at": "2026-11-12T15:49:14.644661+00:00"
     },
     {
-      "title": "‘Mega Man Legends – New Media’ listing appears on ACTRA Toronto current projects page - Gematsu",
-      "source": {
-        "name": "Gematsu"
-      },
-      "description": "A listing for “Mega Man Legends – New Media” has appeared on the “What’s Shooting” page of ACTRA Tor...",
-      "url": "https://www.gematsu.com/2026/11/mega-man-legends-new-media-listing-appears-on-actra-toronto-current-projects-page",
-      "publishedAt": "2026-11-11T01:44:20Z",
-      "processed_at": "2026-11-12T06:10:10.404586+00:00"
-    },
-    {
-      "title": "Aviva Helfand, 74, OBM - COLlive",
-      "source": {
-        "name": "COLlive - Chabad News"
-      },
-      "description": "Aviva Helfand, a beloved member of the Long Beach, CA Jewish community, known for her memorable meal...",
-      "url": "https://collive.com/aviva-helfand-74-obm/",
-      "publishedAt": "2026-11-11T01:28:45Z",
-      "processed_at": "2026-11-12T06:10:10.404586+00:00"
-    },
-    {
-      "title": "Microsoft’s DLSS competitor is out for the Xbox Ally X and works in handheld mode - The Verge",
+      "title": "Are your TVs spying on you? We asked their makers - The Verge",
       "source": {
         "name": "The Verge"
       },
-      "description": "Microsoft is now rolling out Auto SR for the Xbox Ally X, Xbox Ally X20, and select Windows Copilot ...",
-      "url": "https://www.theverge.com/tech/1031446/microsoft-automatic-super-resolution-auto-sr-upscaling",
-      "publishedAt": "2026-11-11T00:34:00Z",
-      "processed_at": "2026-11-12T06:10:10.404586+00:00"
+      "description": "After LG was accused of spying through its TVs, I wanted to see how other TV companies were collecti...",
+      "url": "https://www.theverge.com/tech/1012372/tv-privacy-acr-questions",
+      "publishedAt": "2026-11-11T13:00:00Z",
+      "processed_at": "2026-11-12T15:49:14.644661+00:00"
     },
     {
-      "title": "Killing Floor Studio Cofounder Blames Spiraling Layoffs On ‘Woke Leftists’ - Kotaku",
-      "source": {
-        "name": "Kotaku"
-      },
-      "description": "John Gibson stepped down from Tripwire Interactive over his support for an abortion ban...",
-      "url": "https://kotaku.com/killing-floor-studio-cofounder-blames-spiraling-layoffs-on-woke-leftists-2000755642",
-      "publishedAt": "2026-11-10T23:32:41Z",
-      "processed_at": "2026-11-12T06:10:10.404586+00:00"
-    },
-    {
-      "title": "Seagate’s new hybrid drive raises some old questions - Ars Technica",
-      "source": {
-        "name": "Ars Technica"
-      },
-      "description": "The FireCuda Forge revisits an old idea, with some familiar questions....",
-      "url": "https://arstechnica.com/gadgets/2026/11/seagate-resurrects-the-ssd-hdd-hybrid-drive/",
-      "publishedAt": "2026-11-10T23:30:56Z",
-      "processed_at": "2026-11-12T06:10:10.404586+00:00"
-    },
-    {
-      "title": "Student Game Development Competition Shut Down Because Kids Kept Submitting AI Slop - Kotaku",
-      "source": {
-        "name": "Kotaku"
-      },
-      "description": "The kids are usually alright, but they messed this one up...",
-      "url": "https://kotaku.com/student-game-development-competition-shut-down-because-kids-kept-submitting-ai-slop-games-2000755605",
-      "publishedAt": "2026-11-10T23:00:35Z",
-      "processed_at": "2026-11-12T06:10:10.404586+00:00"
-    },
-    {
-      "title": "Sony cancels live-service shooter Fairgames - The Verge",
+      "title": "Not everyone is loving their new iPhone Duo - The Verge",
       "source": {
         "name": "The Verge"
       },
-      "description": "Sony has canceled Fairgames, a heist game announced in 2023, according to Bloomberg. Fairgames had o...",
-      "url": "https://www.theverge.com/games/1031242/sony-playstation-fairgames-canceled",
-      "publishedAt": "2026-11-10T21:06:12Z",
-      "processed_at": "2026-11-12T06:10:10.404586+00:00"
+      "description": "The iPhone Duo went on sale just over two weeks ago, but some early adopters have seen enough....",
+      "url": "https://www.theverge.com/tech/1030398/iphone-duo-returns-screen-apps",
+      "publishedAt": "2026-11-11T13:00:00Z",
+      "processed_at": "2026-11-12T15:49:14.644661+00:00"
     },
     {
-      "title": "Google warns users to protect their inbox as new hacking tool threatens to expose your private information - New York Post",
+      "title": "NVIDIA reportedly cancels GeForce RTX 5080 24GB launch, brings back 16GB model over GDDR7 costs - VideoCardz.com",
       "source": {
-        "name": "New York Post"
+        "name": "Videocardz.com"
       },
-      "description": "Changing your passwords is no longer enough to avoid this new cyberattack tool....",
-      "url": "https://nypost.com/2026/11/10/tech/google-warns-users-to-protect-their-inbox-from-remus-stealer-malware/",
-      "publishedAt": "2026-11-10T20:32:00Z",
-      "processed_at": "2026-11-12T06:10:10.404586+00:00"
+      "description": "NVIDIA reportedly informed board partners that the RTX 5080 24GB will not launch in January. The exi...",
+      "url": "https://videocardz.com/newz/nvidia-reportedly-cancels-geforce-rtx-5080-24gb-launch-brings-back-16gb-model-over-gddr7-costs",
+      "publishedAt": "2026-11-11T09:15:01Z",
+      "processed_at": "2026-11-12T15:49:14.644661+00:00"
     },
     {
-      "title": "Apple's 'Harbor' app will make running local AI across multiple Macs trivial - AppleInsider",
+      "title": "Google Chrome 0-Day Vulnerability in the Wild to Execute Malicious Code Remotely - CyberSecurityNews",
       "source": {
-        "name": "AppleInsider"
+        "name": "Cybersecuritynews.com"
       },
-      "description": "An app presently called \"Harbor\" will help turn multiple Macs into a private AI inference server, ke...",
-      "url": "https://appleinsider.com/articles/26/11/10/apples-harbor-app-will-make-running-local-ai-across-multiple-macs-trivial",
-      "publishedAt": "2026-11-10T20:27:25Z",
-      "processed_at": "2026-11-12T06:10:10.404586+00:00"
+      "description": "Google has fixed a Chrome zero-day that attackers are already using. The flaw is tracked as CVE-2026...",
+      "url": "https://cybersecuritynews.com/google-chrome-0-day-exploited/",
+      "publishedAt": "2026-11-11T09:04:18Z",
+      "processed_at": "2026-11-12T15:49:14.644661+00:00"
+    },
+    {
+      "title": "Microsoft Patches 1,259 Flaws, Including Exploited Outlook Bug That May Expose NTLMv2 Hashes - The Hacker News",
+      "source": {
+        "name": "Internet"
+      },
+      "description": "Microsoft patches 1,259 flaws, including an actively exploited Outlook vulnerability that could expo...",
+      "url": "https://thehackernews.com/2026/11/microsoft-patches-1259-flaws-including.html",
+      "publishedAt": "2026-11-11T08:17:00Z",
+      "processed_at": "2026-11-12T15:49:14.644661+00:00"
+    },
+    {
+      "title": "Microsoft Researchers Show AI Agents Can Be Backdoored by Editing Fewer Than 10 Neurons - The Hacker News",
+      "source": {
+        "name": "Internet"
+      },
+      "description": "Microsoft demonstrates how editing as few as six AI model neurons can plant backdoors that trigger c...",
+      "url": "https://thehackernews.com/2026/11/microsoft-researchers-show-ai-agents.html",
+      "publishedAt": "2026-11-11T07:21:00Z",
+      "processed_at": "2026-11-12T15:49:14.644661+00:00"
+    },
+    {
+      "title": "Nintendo Sold 5.2 Million Copies of ‘Zelda’ Remake in Four Days - Bloomberg.com",
+      "source": {
+        "name": "Bloomberg"
+      },
+      "description": "Nintendo Co. sold 5.2 million copies of its The Legend of Zelda: Ocarina of Time remake in just four...",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-11/nintendo-sold-5-2-million-copies-of-zelda-remake-in-four-days",
+      "publishedAt": "2026-11-11T07:06:00Z",
+      "processed_at": "2026-11-12T15:49:14.644661+00:00"
+    },
+    {
+      "title": "Microsoft Officially Rolls Out Auto Super Resolution for ROG Xbox Ally X and X20 - Gizmodo",
+      "source": {
+        "name": "Gizmodo.com"
+      },
+      "description": "The neural processing unit (NPU) in high-end Ally models finally does something useful....",
+      "url": "https://gizmodo.com/microsoft-officially-rolls-out-auto-super-resolution-for-rog-xbox-ally-x-and-x20-2000838170",
+      "publishedAt": "2026-11-11T04:25:22Z",
+      "processed_at": "2026-11-12T15:49:14.644661+00:00"
     }
   ],
-  "lastUpdated": "2026-11-12T06:10:10.404643+00:00",
+  "lastUpdated": "2026-11-12T15:49:14.644726+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
