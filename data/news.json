@@ -3,6 +3,46 @@
   "totalResults": 10,
   "articles": [
     {
+      "title": "Apple Launches Two Products Today - MacRumors",
+      "source": {
+        "name": "MacRumors"
+      },
+      "description": "Apple is releasing two new products today, Friday, November 13: the all-new Apple HomeView and the f...",
+      "url": "https://www.macrumors.com/2026/11/13/apple-launches-two-products-today/",
+      "publishedAt": "2026-11-13T10:37:14Z",
+      "processed_at": "2026-11-14T14:50:24.919759+00:00"
+    },
+    {
+      "title": "Zelda Ocarina's ReDead Were Set To Be \"Very, Very Scary\" In The Remake, But Nintendo Decided To \"Dial It Back\" - Nintendo Life",
+      "source": {
+        "name": "Nintendo Life"
+      },
+      "description": "The team maybe went \"a step too far\", according to the producer...",
+      "url": "https://www.nintendolife.com/news/2026/11/zelda-ocarinas-redead-were-set-to-be-very-very-scary-in-the-remake-but-nintendo-decided-to-dial-it-back",
+      "publishedAt": "2026-11-13T04:55:00Z",
+      "processed_at": "2026-11-14T14:50:24.919759+00:00"
+    },
+    {
+      "title": "Xbox Confirms Wolfenstein 3 Coming Soon and Id Software Teases Next Doom Game - TechPowerUp",
+      "source": {
+        "name": "Techpowerup.com"
+      },
+      "description": "It's been a busy week at Xbox Game Studios, with the gaming giant celebrating its 25th anniversary w...",
+      "url": "https://www.techpowerup.com/354770/xbox-confirms-wolfenstein-3-coming-soon-and-id-software-teases-next-doom-game",
+      "publishedAt": "2026-11-13T04:53:42Z",
+      "processed_at": "2026-11-14T14:50:24.919759+00:00"
+    },
+    {
+      "title": "NYT Strands hints, answers for November 12, 2026 - Mashable",
+      "source": {
+        "name": "Mashable"
+      },
+      "description": "Every hint, nudge and outright answer you need to complete today's NYT Strands puzzle....",
+      "url": "https://mashable.com/entertainment/strands-nyt-hint-november-12-2026",
+      "publishedAt": "2026-11-13T03:31:46Z",
+      "processed_at": "2026-11-14T14:50:24.919759+00:00"
+    },
+    {
       "title": "Round Up: The Reviews Are In For Metaphor: ReFantazio's Switch 2 Port - Nintendo Life",
       "source": {
         "name": "Nintendo Life"
@@ -10,17 +50,27 @@
       "description": "Here's what the critics think...",
       "url": "https://www.nintendolife.com/news/2026/11/round-up-the-reviews-are-in-for-metaphor-refantazios-switch-2-port",
       "publishedAt": "2026-11-13T02:55:00Z",
-      "processed_at": "2026-11-14T07:25:50.931890+00:00"
+      "processed_at": "2026-11-14T14:50:24.919759+00:00"
     },
     {
-      "title": "Xbox CEO Announces Major New Bethesda Games In The Works, Including Wolfenstein 3 - Pure Xbox",
+      "title": "Hands-On With the New Apple TV 4K and Siri AI - MacRumors",
       "source": {
-        "name": "Pure Xbox"
+        "name": "MacRumors"
       },
-      "description": "\"Wolfenstein 3 is officially in production at MachineGames\"...",
-      "url": "https://www.purexbox.com/news/2026/11/xbox-ceo-announces-major-new-bethesda-games-in-the-works-including-wolfenstein-3",
-      "publishedAt": "2026-11-13T00:26:50Z",
-      "processed_at": "2026-11-14T07:25:50.931890+00:00"
+      "description": "The 4th-generation Apple TV 4K with an A19 chip and Siri AI support is available starting on Novembe...",
+      "url": "https://www.macrumors.com/2026/11/12/apple-tv-4k-siri-hands-on/",
+      "publishedAt": "2026-11-13T00:41:00Z",
+      "processed_at": "2026-11-14T14:50:24.919759+00:00"
+    },
+    {
+      "title": "Siri AI Coming to Older Apple TV 4K Models in tvOS 27.2.1 - MacRumors",
+      "source": {
+        "name": "MacRumors"
+      },
+      "description": "An upcoming tvOS 27.2.1 update will bring Siri AI to the 2nd- and 3rd-generation Apple TV 4K models,...",
+      "url": "https://www.macrumors.com/2026/11/12/siri-ai-tvos-27-2-1/",
+      "publishedAt": "2026-11-12T23:57:35Z",
+      "processed_at": "2026-11-14T14:50:24.919759+00:00"
     },
     {
       "title": "Whoop launched a social network where every user has a ‘verified heartbeat’ - The Verge",
@@ -30,7 +80,17 @@
       "description": "Whoop launched a new social network in its app called Whoop Humans, where users can share data from ...",
       "url": "https://www.theverge.com/gadgets/1032630/whoop-humans-social-network",
       "publishedAt": "2026-11-12T23:43:22Z",
-      "processed_at": "2026-11-14T07:25:50.931890+00:00"
+      "processed_at": "2026-11-14T14:50:24.919759+00:00"
+    },
+    {
+      "title": "Three New Console Features Begin Rolling Out Today For Xbox Insiders (November 12) - Pure Xbox",
+      "source": {
+        "name": "Pure Xbox"
+      },
+      "description": "Including a \"Shuffle\" feature for dynamic backgrounds!...",
+      "url": "https://www.purexbox.com/news/2026/11/three-new-console-features-begin-rolling-out-today-for-xbox-insiders-november-12",
+      "publishedAt": "2026-11-12T23:25:00Z",
+      "processed_at": "2026-11-14T14:50:24.919759+00:00"
     },
     {
       "title": "Why Are Games Hiding Their Blatant AI Usage If They Think It's Totally Cool And Fine And The Future - Aftermath",
@@ -40,70 +100,10 @@
       "description": "(This is not a blog about Big Walk)...",
       "url": "https://aftermath.site/ai-disclosure-policy-steam-pc-games/",
       "publishedAt": "2026-11-12T23:07:42Z",
-      "processed_at": "2026-11-14T07:25:50.931890+00:00"
-    },
-    {
-      "title": "Slay The Spire 2 Patch Adds The Fool And A Ton More - Kotaku",
-      "source": {
-        "name": "Kotaku"
-      },
-      "description": "Oh, and a not-so-subtle hint that either the Hermit or the Watcher will be the next new characters...",
-      "url": "https://kotaku.com/slay-the-spire-2s-latest-update-adds-a-new-character-two-new-modes-and-a-byrdpip-evolution-2000756380",
-      "publishedAt": "2026-11-12T23:00:31Z",
-      "processed_at": "2026-11-14T07:25:50.931890+00:00"
-    },
-    {
-      "title": "Muse can now place calls to U.S. businesses — if you pay - TechCrunch",
-      "source": {
-        "name": "TechCrunch"
-      },
-      "description": "Muse's AI can now place outbound calls to U.S. businesses — but it's not free....",
-      "url": "https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/",
-      "publishedAt": "2026-11-12T22:22:28Z",
-      "processed_at": "2026-11-14T07:25:50.931890+00:00"
-    },
-    {
-      "title": "Xbox Adds 21 More Original Xbox Games To Backwards Compatibility Program And Over Half Of Them Are Star Wars And Over Half Of Them Are Star Wars - Kotaku",
-      "source": {
-        "name": "Kotaku"
-      },
-      "description": "And some of them are getting achievements...",
-      "url": "https://kotaku.com/xbox-releases-21-more-original-xbox-games-on-pc-and-over-half-of-them-are-star-wars-2000756360",
-      "publishedAt": "2026-11-12T22:00:34Z",
-      "processed_at": "2026-11-14T07:25:50.931890+00:00"
-    },
-    {
-      "title": "Google’s new Gemini model is better at understanding complicated questions - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "Google launched Gemini 4 Hydrogen, available starting Thursday in search, AI Mode, and the Gemini ap...",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen",
-      "publishedAt": "2026-11-12T21:55:32Z",
-      "processed_at": "2026-11-14T07:25:50.931890+00:00"
-    },
-    {
-      "title": "Men: Here’s How to Upgrade Your Office Wardrobe With Vintage Clothes - WSJ",
-      "source": {
-        "name": "The Wall Street Journal"
-      },
-      "description": "",
-      "url": "https://www.wsj.com/style/fashion/vintage-office-clothes-mens-ebay-376f9873",
-      "publishedAt": "2026-11-12T21:00:00Z",
-      "processed_at": "2026-11-14T07:25:50.931890+00:00"
-    },
-    {
-      "title": "Outlook outage: Microsoft reports 'issues' with Teams and email - ABC7 New York",
-      "source": {
-        "name": "Abcnews.com"
-      },
-      "description": "The company posted about the disruptions on social media....",
-      "url": "https://abcnews.com/US/outlook-down-microsoft-outage-reported-mail/story?id=138088203",
-      "publishedAt": "2026-11-12T20:43:46Z",
-      "processed_at": "2026-11-14T07:25:50.931890+00:00"
+      "processed_at": "2026-11-14T14:50:24.919759+00:00"
     }
   ],
-  "lastUpdated": "2026-11-14T07:25:50.931957+00:00",
+  "lastUpdated": "2026-11-14T14:50:24.919828+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
