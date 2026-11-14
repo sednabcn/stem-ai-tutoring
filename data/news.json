@@ -1,7 +1,37 @@
 {
   "status": "success",
-  "totalResults": 7,
+  "totalResults": 10,
   "articles": [
+    {
+      "title": "Here’s how you can save on your GTA VI preorder ahead of launch - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "Multiple retailers have gift cards for both the Sony PlayStation and Microsoft Xbox stores, so you c...",
+      "url": "https://www.theverge.com/gadgets/1033046/playstation-xbox-gift-card-gta-vi-6-preorder-deal-sale",
+      "publishedAt": "2026-11-13T19:14:38Z",
+      "processed_at": "2026-11-14T23:42:14.448006+00:00"
+    },
+    {
+      "title": "Apple TV 4K Launch Day Deal Arrives at Amazon - MacRumors",
+      "source": {
+        "name": "MacRumors"
+      },
+      "description": "Amazon today is back with a discount on the brand new A19 Apple TV 4K for launch day, available for ...",
+      "url": "https://www.macrumors.com/2026/11/13/apple-tv-4k-launch-day-deal/",
+      "publishedAt": "2026-11-13T18:16:44Z",
+      "processed_at": "2026-11-14T23:42:14.448006+00:00"
+    },
+    {
+      "title": "After 3 Weeks and More Than 400,000 Folds, the iPhone Duo's Hinge Is Finally Starting to Fail - CNET",
+      "source": {
+        "name": "CNET"
+      },
+      "description": "We built a machine to fold the iPhone Duo until it breaks. Twenty days of 24/7 folding later, Apple'...",
+      "url": "https://www.cnet.com/tech/mobile/iphone-duo-fold-test-3-weeks-starting-fail/",
+      "publishedAt": "2026-11-13T16:50:08Z",
+      "processed_at": "2026-11-14T23:42:14.448006+00:00"
+    },
     {
       "title": "Windows 0-day dropped by disgruntled researcher hands hackers System rights - Ars Technica",
       "source": {
@@ -10,7 +40,7 @@
       "description": "SignDrop\" exploit lets local users gain all-powerful System rights....",
       "url": "https://arstechnica.com/security/2026/11/windows-0-day-dropped-by-disgruntled-researcher-hands-hackers-system-rights/",
       "publishedAt": "2026-11-13T16:26:32Z",
-      "processed_at": "2026-11-14T19:46:10.918062+00:00"
+      "processed_at": "2026-11-14T23:42:14.448006+00:00"
     },
     {
       "title": "The 32 best gifts for every type of dad - The Verge",
@@ -20,7 +50,17 @@
       "description": "",
       "url": "https://www.theverge.com/gadgets/1024777/best-gifts-for-dad-2026",
       "publishedAt": "2026-11-13T16:00:00Z",
-      "processed_at": "2026-11-14T19:46:10.918062+00:00"
+      "processed_at": "2026-11-14T23:42:14.448006+00:00"
+    },
+    {
+      "title": "Garmin Sales Begin: Huge deals on Garmin Fenix, Edge, Forerunner Series and more! - DC Rainmaker",
+      "source": {
+        "name": "DC Rainmaker"
+      },
+      "description": "Every Garmin Black Friday 2026 deal in one big list, with which ones to buy, and which ones to skip!...",
+      "url": "https://www.dcrainmaker.com/2026/11/garmin-sales-begin-huge-deals-on-garmin-fenix-edge-forerunner-series-and-more.html",
+      "publishedAt": "2026-11-13T15:30:05Z",
+      "processed_at": "2026-11-14T23:42:14.448006+00:00"
     },
     {
       "title": "QSSR Upgrades Revealed For Six PS5 Games, Live Now in Marvel's Spider-Man 2 - Digital Foundry",
@@ -30,7 +70,17 @@
       "description": "Plus: a new PlayStation blog explains why developers are adding the AI upscaling tech....",
       "url": "https://www.digitalfoundry.net/news/2026/11/qssr-upgrades-revealed-for-six-ps5-games-live-now-in-marvels-spider-man-2",
       "publishedAt": "2026-11-13T15:19:00Z",
-      "processed_at": "2026-11-14T19:46:10.918062+00:00"
+      "processed_at": "2026-11-14T23:42:14.448006+00:00"
+    },
+    {
+      "title": "Next Week on XBOX: New Games for November 16 to 20 - XBOX Wire",
+      "source": {
+        "name": "Xbox.com"
+      },
+      "description": "Next Week on XBOX: Grand Theft Auto VI, Unicorn Academy: Island of Magic, Dark Rail, and more coming...",
+      "url": "https://news.xbox.com/en-us/2026/11/13/next-week-on-xbox-new-games-for-november-16-to-20/",
+      "publishedAt": "2026-11-13T15:04:03Z",
+      "processed_at": "2026-11-14T23:42:14.448006+00:00"
     },
     {
       "title": "The not-so-mysterious disappearance of the lunch break - The Washington Post",
@@ -40,7 +90,7 @@
       "description": "Even as some companies offer the occasional free lunch to help revive office culture, workday meals ...",
       "url": "https://www.washingtonpost.com/business/2026/11/13/not-so-mysterious-disappearance-lunch-break/",
       "publishedAt": "2026-11-13T14:37:16Z",
-      "processed_at": "2026-11-14T19:46:10.918062+00:00"
+      "processed_at": "2026-11-14T23:42:14.448006+00:00"
     },
     {
       "title": "Another Update About The ‘GTA 6 Online’ Release Date - Forbes",
@@ -50,30 +100,10 @@
       "description": "",
       "url": "https://www.forbes.com/sites/paultassi/2026/11/13/the-gta-6-online-release-date-is-far-off-says-new-report/",
       "publishedAt": "2026-11-13T14:06:20Z",
-      "processed_at": "2026-11-14T19:46:10.918062+00:00"
-    },
-    {
-      "title": "Strategy RPG Guild Saga: Vanished Worlds coming to PS5 in May 2027 - Gematsu",
-      "source": {
-        "name": "Gematsu"
-      },
-      "description": "Ontario-based developer Ocelot Technologies will release strategy RPG Guild Saga: Vanished Worlds fo...",
-      "url": "https://www.gematsu.com/2026/11/strategy-rpg-guild-saga-vanished-worlds-coming-to-ps5-in-may-2027",
-      "publishedAt": "2026-11-13T13:15:08Z",
-      "processed_at": "2026-11-14T19:46:10.918062+00:00"
-    },
-    {
-      "title": "Microsoft says November security updates cause printing issues - BleepingComputer",
-      "source": {
-        "name": "BleepingComputer"
-      },
-      "description": "Microsoft warned customers earlier this week that the November 2026 security updates may break print...",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-november-security-updates-cause-printing-issues/",
-      "publishedAt": "2026-11-13T12:27:40Z",
-      "processed_at": "2026-11-14T19:46:10.918062+00:00"
+      "processed_at": "2026-11-14T23:42:14.448006+00:00"
     }
   ],
-  "lastUpdated": "2026-11-14T19:46:10.918120+00:00",
+  "lastUpdated": "2026-11-14T23:42:14.448057+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
