@@ -1,7 +1,67 @@
 {
   "status": "success",
-  "totalResults": 10,
+  "totalResults": 9,
   "articles": [
+    {
+      "title": "AMD Loses Desktop CPU Share for the First Time in Months, Intel Regains Ground - TechPowerUp",
+      "source": {
+        "name": "Techpowerup.com"
+      },
+      "description": "AMD's share of desktop CPU shipments fell to 29.9% in the third quarter of 2026, according to new Me...",
+      "url": "https://www.techpowerup.com/354824/amd-loses-desktop-cpu-share-for-the-first-time-in-months-intel-regains-ground",
+      "publishedAt": "2026-11-14T01:16:16Z",
+      "processed_at": "2026-11-15T05:19:18.789096+00:00"
+    },
+    {
+      "title": "Even Grand Theft Auto's original creators haven't been able to play GTA 6 - BBC",
+      "source": {
+        "name": "BBC News"
+      },
+      "description": "The next title in the series is expected to be the biggest video game release ever....",
+      "url": "https://www.bbc.com/news/articles/c6jd7k5ryl1mo",
+      "publishedAt": "2026-11-14T00:37:01Z",
+      "processed_at": "2026-11-15T05:19:18.789096+00:00"
+    },
+    {
+      "title": "Metaphor: ReFantazio Switch 2 Patch To Resolve Colour Glitch - Nintendo Life",
+      "source": {
+        "name": "Nintendo Life"
+      },
+      "description": "Have you encountered it?...",
+      "url": "https://www.nintendolife.com/news/2026/11/metaphor-refantazio-switch-2-patch-to-resolve-colour-glitch",
+      "publishedAt": "2026-11-14T00:00:00Z",
+      "processed_at": "2026-11-15T05:19:18.789096+00:00"
+    },
+    {
+      "title": "Physicists Find a Mathematical Limit to Making Time Run Backward - ScienceAlert",
+      "source": {
+        "name": "ScienceAlert"
+      },
+      "description": "Our experience of time seems uniform and unidirectional, but relativity allows it to be a bit more l...",
+      "url": "https://www.sciencealert.com/physicists-find-a-mathematical-limit-to-making-time-run-backward",
+      "publishedAt": "2026-11-13T23:03:33Z",
+      "processed_at": "2026-11-15T05:19:18.789096+00:00"
+    },
+    {
+      "title": "Amazon’s new Kindle Colorsoft is a premium e-reader with a premium price - TechCrunch",
+      "source": {
+        "name": "TechCrunch"
+      },
+      "description": "The latest model is lighter and thinner than its predecessor and features an edge-to-edge display. B...",
+      "url": "https://techcrunch.com/2026/11/13/amazons-new-kindle-colorsoft-is-a-premium-e-reader-with-a-premium-price/",
+      "publishedAt": "2026-11-13T23:00:00Z",
+      "processed_at": "2026-11-15T05:19:18.789096+00:00"
+    },
+    {
+      "title": "Apple Releases tvOS 27.2.1 With Siri AI for Older Apple TVs - MacRumors",
+      "source": {
+        "name": "MacRumors"
+      },
+      "description": "Apple today released tvOS 27.2.1, an update to the tvOS 27 operating system that launched in Septemb...",
+      "url": "https://www.macrumors.com/2026/11/13/apple-releases-tvos-27-2-1/",
+      "publishedAt": "2026-11-13T19:26:39Z",
+      "processed_at": "2026-11-15T05:19:18.789096+00:00"
+    },
     {
       "title": "Here’s how you can save on your GTA VI preorder ahead of launch - The Verge",
       "source": {
@@ -10,17 +70,17 @@
       "description": "Multiple retailers have gift cards for both the Sony PlayStation and Microsoft Xbox stores, so you c...",
       "url": "https://www.theverge.com/gadgets/1033046/playstation-xbox-gift-card-gta-vi-6-preorder-deal-sale",
       "publishedAt": "2026-11-13T19:14:38Z",
-      "processed_at": "2026-11-14T23:42:14.448006+00:00"
+      "processed_at": "2026-11-15T05:19:18.789096+00:00"
     },
     {
-      "title": "Apple TV 4K Launch Day Deal Arrives at Amazon - MacRumors",
+      "title": "WoW Forever Has a Weekly Quest That Can Reward Up to 100 Gold, and Players Don't Love It - IGN",
       "source": {
-        "name": "MacRumors"
+        "name": "IGN"
       },
-      "description": "Amazon today is back with a discount on the brand new A19 Apple TV 4K for launch day, available for ...",
-      "url": "https://www.macrumors.com/2026/11/13/apple-tv-4k-launch-day-deal/",
-      "publishedAt": "2026-11-13T18:16:44Z",
-      "processed_at": "2026-11-14T23:42:14.448006+00:00"
+      "description": "Just a couple days after Blizzard changed the way gold was earned in max-level quests WoW Forever, t...",
+      "url": "https://www.ign.com/articles/wow-forever-has-a-weekly-quest-that-can-reward-up-to-100-gold-and-players-dont-love-it",
+      "publishedAt": "2026-11-13T16:56:57Z",
+      "processed_at": "2026-11-15T05:19:18.789096+00:00"
     },
     {
       "title": "After 3 Weeks and More Than 400,000 Folds, the iPhone Duo's Hinge Is Finally Starting to Fail - CNET",
@@ -30,80 +90,10 @@
       "description": "We built a machine to fold the iPhone Duo until it breaks. Twenty days of 24/7 folding later, Apple'...",
       "url": "https://www.cnet.com/tech/mobile/iphone-duo-fold-test-3-weeks-starting-fail/",
       "publishedAt": "2026-11-13T16:50:08Z",
-      "processed_at": "2026-11-14T23:42:14.448006+00:00"
-    },
-    {
-      "title": "Windows 0-day dropped by disgruntled researcher hands hackers System rights - Ars Technica",
-      "source": {
-        "name": "Ars Technica"
-      },
-      "description": "SignDrop\" exploit lets local users gain all-powerful System rights....",
-      "url": "https://arstechnica.com/security/2026/11/windows-0-day-dropped-by-disgruntled-researcher-hands-hackers-system-rights/",
-      "publishedAt": "2026-11-13T16:26:32Z",
-      "processed_at": "2026-11-14T23:42:14.448006+00:00"
-    },
-    {
-      "title": "The 32 best gifts for every type of dad - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "",
-      "url": "https://www.theverge.com/gadgets/1024777/best-gifts-for-dad-2026",
-      "publishedAt": "2026-11-13T16:00:00Z",
-      "processed_at": "2026-11-14T23:42:14.448006+00:00"
-    },
-    {
-      "title": "Garmin Sales Begin: Huge deals on Garmin Fenix, Edge, Forerunner Series and more! - DC Rainmaker",
-      "source": {
-        "name": "DC Rainmaker"
-      },
-      "description": "Every Garmin Black Friday 2026 deal in one big list, with which ones to buy, and which ones to skip!...",
-      "url": "https://www.dcrainmaker.com/2026/11/garmin-sales-begin-huge-deals-on-garmin-fenix-edge-forerunner-series-and-more.html",
-      "publishedAt": "2026-11-13T15:30:05Z",
-      "processed_at": "2026-11-14T23:42:14.448006+00:00"
-    },
-    {
-      "title": "QSSR Upgrades Revealed For Six PS5 Games, Live Now in Marvel's Spider-Man 2 - Digital Foundry",
-      "source": {
-        "name": "Digitalfoundry.net"
-      },
-      "description": "Plus: a new PlayStation blog explains why developers are adding the AI upscaling tech....",
-      "url": "https://www.digitalfoundry.net/news/2026/11/qssr-upgrades-revealed-for-six-ps5-games-live-now-in-marvels-spider-man-2",
-      "publishedAt": "2026-11-13T15:19:00Z",
-      "processed_at": "2026-11-14T23:42:14.448006+00:00"
-    },
-    {
-      "title": "Next Week on XBOX: New Games for November 16 to 20 - XBOX Wire",
-      "source": {
-        "name": "Xbox.com"
-      },
-      "description": "Next Week on XBOX: Grand Theft Auto VI, Unicorn Academy: Island of Magic, Dark Rail, and more coming...",
-      "url": "https://news.xbox.com/en-us/2026/11/13/next-week-on-xbox-new-games-for-november-16-to-20/",
-      "publishedAt": "2026-11-13T15:04:03Z",
-      "processed_at": "2026-11-14T23:42:14.448006+00:00"
-    },
-    {
-      "title": "The not-so-mysterious disappearance of the lunch break - The Washington Post",
-      "source": {
-        "name": "The Washington Post"
-      },
-      "description": "Even as some companies offer the occasional free lunch to help revive office culture, workday meals ...",
-      "url": "https://www.washingtonpost.com/business/2026/11/13/not-so-mysterious-disappearance-lunch-break/",
-      "publishedAt": "2026-11-13T14:37:16Z",
-      "processed_at": "2026-11-14T23:42:14.448006+00:00"
-    },
-    {
-      "title": "Another Update About The ‘GTA 6 Online’ Release Date - Forbes",
-      "source": {
-        "name": "Forbes"
-      },
-      "description": "",
-      "url": "https://www.forbes.com/sites/paultassi/2026/11/13/the-gta-6-online-release-date-is-far-off-says-new-report/",
-      "publishedAt": "2026-11-13T14:06:20Z",
-      "processed_at": "2026-11-14T23:42:14.448006+00:00"
+      "processed_at": "2026-11-15T05:19:18.789096+00:00"
     }
   ],
-  "lastUpdated": "2026-11-14T23:42:14.448057+00:00",
+  "lastUpdated": "2026-11-15T05:19:18.789154+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
