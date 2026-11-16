@@ -1,7 +1,27 @@
 {
   "status": "success",
-  "totalResults": 9,
+  "totalResults": 8,
   "articles": [
+    {
+      "title": "The Nintendo Switch 2 gets a rare deal way ahead of Black Friday - Mashable",
+      "source": {
+        "name": "Mashable"
+      },
+      "description": "The $30-off deal has been restocked....",
+      "url": "https://mashable.com/tech/nov-13-nintendo-switch-2-deal",
+      "publishedAt": "2026-11-15T12:09:31Z",
+      "processed_at": "2026-11-16T15:04:54.170828+00:00"
+    },
+    {
+      "title": "Google's Gemini 4 Hydrogen is free — here are 5 impressive things you can do with it - Tom's Guide",
+      "source": {
+        "name": "Tom's Guide"
+      },
+      "description": "Google's new model beats its pricier one and is just as impressive...",
+      "url": "https://www.tomsguide.com/ai/google-gemini/googles-gemini-4-hydrogen-is-free-here-are-5-impressive-things-you-can-do-with-it",
+      "publishedAt": "2026-11-15T05:56:27Z",
+      "processed_at": "2026-11-16T15:04:54.170828+00:00"
+    },
     {
       "title": "NYT Strands hints, answers for November 14, 2026 - Mashable",
       "source": {
@@ -10,17 +30,27 @@
       "description": "Every hint, nudge and outright answer you need to complete today's NYT Strands puzzle....",
       "url": "https://mashable.com/entertainment/strands-nyt-hint-november-14-2026",
       "publishedAt": "2026-11-15T03:35:07Z",
-      "processed_at": "2026-11-16T05:17:13.430901+00:00"
+      "processed_at": "2026-11-16T15:04:54.170828+00:00"
     },
     {
-      "title": "Rockstar Says GTA 6 Encourages Empathy, a First for the Series - TechPowerUp",
+      "title": "12 Niche USB-C Gadgets That Are Surprisingly Useful - SlashGear",
       "source": {
-        "name": "Techpowerup.com"
+        "name": "SlashGear"
       },
-      "description": "Rockstar North co-studio head Rob Nelson says GTA 6 is the first game in the series to actively enco...",
-      "url": "https://www.techpowerup.com/354843/rockstar-says-gta-6-encourages-empathy-a-first-for-the-series",
-      "publishedAt": "2026-11-15T00:38:15Z",
-      "processed_at": "2026-11-16T05:17:13.430901+00:00"
+      "description": "USB-C is the wired charging standard for your phones, earbuds, and more, but a lot of devices that u...",
+      "url": "https://www.slashgear.com/2314039/niche-usb-c-gadgets-that-are-useful/",
+      "publishedAt": "2026-11-15T02:30:00Z",
+      "processed_at": "2026-11-16T15:04:54.170828+00:00"
+    },
+    {
+      "title": "Google Pixel rolls out new ‘Family Hub’ feature with useful controls [Gallery] - 9to5Google",
+      "source": {
+        "name": "9to5google.com"
+      },
+      "description": "After appearing early for some, Google Pixel's new Family Hub feature appears to be widely rolled ou...",
+      "url": "http://9to5google.com/2026/11/14/google-pixel-family-hub-feature-rolled-out/",
+      "publishedAt": "2026-11-14T23:00:00Z",
+      "processed_at": "2026-11-16T15:04:54.170828+00:00"
     },
     {
       "title": "League of Legends Will Never Be the Same After Massive 2027 Overhaul - Polygon.com",
@@ -30,7 +60,17 @@
       "description": "Riot Games revealed at Worlds Finals 2026 a major update to League of Legends coming in 2027 with ne...",
       "url": "https://www.polygon.com/league-of-legends-with-new-dawn-reveal-worlds-2026/",
       "publishedAt": "2026-11-14T22:03:57Z",
-      "processed_at": "2026-11-16T05:17:13.430901+00:00"
+      "processed_at": "2026-11-16T15:04:54.170828+00:00"
+    },
+    {
+      "title": "9 Cheaper Alternatives To The Toyota Land Cruiser - Jalopnik",
+      "source": {
+        "name": "Jalopnik"
+      },
+      "description": "The best affordable Toyota Land Cruiser Alternatives for 2027 include the Jeep Grand Cherokee Limite...",
+      "url": "https://www.jalopnik.com/2312763/cheaper-alternatives-to-toyota-land-cruiser/",
+      "publishedAt": "2026-11-14T21:45:00Z",
+      "processed_at": "2026-11-16T15:04:54.170828+00:00"
     },
     {
       "title": "Sony's QSSR Upscaler Expands to Spider-Man 2, ARC Raiders, No Man's Sky and More - TechPowerUp",
@@ -40,60 +80,10 @@
       "description": "Base PS5 owners have six more games lined up for QSSR, Sony's lighter AI upscaler. Marvel's Spider-M...",
       "url": "https://www.techpowerup.com/354838/sonys-qssr-upscaler-expands-to-spider-man-2-arc-raiders-no-mans-sky-and-more",
       "publishedAt": "2026-11-14T21:20:21Z",
-      "processed_at": "2026-11-16T05:17:13.430901+00:00"
-    },
-    {
-      "title": "Devoted gamers set for mass sick-out on GTA VI launch day - New York Post",
-      "source": {
-        "name": "New York Post"
-      },
-      "description": "Roughly 18% of US workers plan to take off for the Nov. 19 release of Grand Theft Auto VI, potential...",
-      "url": "https://nypost.com/2026/11/14/tech/grand-theft-auto-vi-release-will-see-18-of-us-workers-take-off-to-game-data/",
-      "publishedAt": "2026-11-14T20:34:00Z",
-      "processed_at": "2026-11-16T05:17:13.430901+00:00"
-    },
-    {
-      "title": "Galaxy S27 Release Date: Samsung Bets Big On New 'Pro' Phone - Forbes",
-      "source": {
-        "name": "Forbes"
-      },
-      "description": "",
-      "url": "https://www.forbes.com/sites/jaymcgregor/2026/11/14/samsung-galaxy-s27-release-date-galaxy-s27-pro-ultra-production-price/",
-      "publishedAt": "2026-11-14T20:28:07Z",
-      "processed_at": "2026-11-16T05:17:13.430901+00:00"
-    },
-    {
-      "title": "Apple users are about to lose something they've had for 28 years - Yahoo Finance",
-      "source": {
-        "name": "TheStreet"
-      },
-      "description": "A quiet decision raises a big question about how the company will support customers with tough probl...",
-      "url": "https://www.thestreet.com/investing/apple-users-are-about-to-lose-something-theyve-had-for-28-years",
-      "publishedAt": "2026-11-14T16:07:00Z",
-      "processed_at": "2026-11-16T05:17:13.430901+00:00"
-    },
-    {
-      "title": "25+ Of The Best Discounted Games From Xbox's Pre-Black Friday Sale - Pure Xbox",
-      "source": {
-        "name": "Pure Xbox"
-      },
-      "description": "A selection of the finest discounts...",
-      "url": "https://www.purexbox.com/features/25plus-of-the-best-discounted-games-from-xboxs-pre-black-friday-sale",
-      "publishedAt": "2026-11-14T16:02:24Z",
-      "processed_at": "2026-11-16T05:17:13.430901+00:00"
-    },
-    {
-      "title": "How I Used AI to Make My Grandson a Children’s Book for Less Than $200 - WSJ",
-      "source": {
-        "name": "The Wall Street Journal"
-      },
-      "description": "",
-      "url": "https://www.wsj.com/tech/ai/how-ai-childrens-book-aa480255",
-      "publishedAt": "2026-11-14T16:00:00Z",
-      "processed_at": "2026-11-16T05:17:13.430901+00:00"
+      "processed_at": "2026-11-16T15:04:54.170828+00:00"
     }
   ],
-  "lastUpdated": "2026-11-16T05:17:13.430964+00:00",
+  "lastUpdated": "2026-11-16T15:04:54.170897+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
