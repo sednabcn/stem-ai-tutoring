@@ -1,109 +1,89 @@
 {
   "status": "success",
-  "totalResults": 10,
+  "totalResults": 8,
   "articles": [
     {
-      "title": "Intel Razor Lake reportedly gets 12 P-core-only die with bLLC on Intel 18A-P - VideoCardz.com",
-      "source": {
-        "name": "Videocardz.com"
-      },
-      "description": "A new Razor Lake leak reveals a 12+0+4 processor built on Intel 18A-P. The unlocked configuration re...",
-      "url": "https://videocardz.com/newz/intel-razor-lake-reportedly-gets-12-p-core-only-die-with-bllc-on-intel-18a-p",
-      "publishedAt": "2026-11-15T19:30:13Z",
-      "processed_at": "2026-11-17T00:00:22.246050+00:00"
-    },
-    {
-      "title": "'The Ultimate Gaming Machine' - Xbox Reveals Tons Of New Project Helix Information - Pure Xbox",
-      "source": {
-        "name": "Pure Xbox"
-      },
-      "description": "Also clarifying that it's definitely a console and not a PC...",
-      "url": "https://www.purexbox.com/news/2026/11/the-ultimate-gaming-machine-xbox-reveals-tons-of-new-project-helix-information",
-      "publishedAt": "2026-11-15T18:47:29Z",
-      "processed_at": "2026-11-17T00:00:22.246050+00:00"
-    },
-    {
-      "title": "Flaming Hydra’s new Kickstarter campaign rethinks e-book ownership and digital lending - TechCrunch",
+      "title": "Apple launches new app to study how people use AI for health - TechCrunch",
       "source": {
         "name": "TechCrunch"
       },
-      "description": "A new Kickstarter campaign aims to usher in the “return of the human internet.”...",
-      "url": "https://techcrunch.com/2026/11/15/flaming-hydras-new-kickstarter-campaign-rethinks-e-book-ownership-and-digital-lending/",
-      "publishedAt": "2026-11-15T18:29:14Z",
-      "processed_at": "2026-11-17T00:00:22.246050+00:00"
+      "description": "Apple's new app for a study will answer everyday medical questions...",
+      "url": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/",
+      "publishedAt": "2026-11-16T01:30:00Z",
+      "processed_at": "2026-11-17T08:52:04.746976+00:00"
     },
     {
-      "title": "8 Must-Play Open-World RPGs for People With Real-Life Schedules - Polygon.com",
+      "title": "I've been using Google Photos for years, but Samsung Gallery's new sync finally won me back - Android Police",
       "source": {
-        "name": "Polygon"
+        "name": "Android Police"
       },
-      "description": "Busy schedule with no time to game?  These eight open-world RPGs fit into short sessions, one quest ...",
-      "url": "https://www.polygon.com/open-world-rpgs-real-life-schedules/",
-      "publishedAt": "2026-11-15T18:00:18Z",
-      "processed_at": "2026-11-17T00:00:22.246050+00:00"
+      "description": "Google storage is the simple upgrade that brings me back to Samsung Gallery...",
+      "url": "https://www.androidpolice.com/i-use-google-photos-for-years-but-samsung-new-gallery-sync-won-me-back/",
+      "publishedAt": "2026-11-16T00:00:00Z",
+      "processed_at": "2026-11-17T08:52:04.746976+00:00"
     },
     {
-      "title": "Windows 11 “SignDrop” Zero-Day Exploit Turns Microsoft’s Own Security Fix Against Itself, Grants SYSTEM Privileges - Wccftech",
+      "title": "Apple’s Messages app keeps getting better; here are my favorite updates - 9to5Mac",
       "source": {
-        "name": "Wccftech"
+        "name": "9to5Mac"
       },
-      "description": "A new Windows 11 zero-day called SignDrop exploits Microsoft's CLFS security mitigation to gain SYST...",
-      "url": "https://wccftech.com/windows-11-signdrop-zero-day-exploit-turns-microsofts-own-security-fix-against-itself-grants-system-privileges/",
-      "publishedAt": "2026-11-15T18:00:00Z",
-      "processed_at": "2026-11-17T00:00:22.246050+00:00"
+      "description": "9to5Mac is brought to you by Tello Mobile. Switching to Tello Mobile can bring the cost of your plan...",
+      "url": "https://9to5mac.com/2026/11/15/apples-messages-app-keeps-getting-better-here-are-my-favorite-updates/",
+      "publishedAt": "2026-11-15T23:06:00Z",
+      "processed_at": "2026-11-17T08:52:04.746976+00:00"
     },
     {
-      "title": "GTA 6 physical copies have no discs, and some apparently have no download codes either - VideoCardz.com",
+      "title": "Netcode Warriors adds PS5 version, launches in 2027 - Gematsu",
       "source": {
-        "name": "Videocardz.com"
+        "name": "Gematsu"
       },
-      "description": "Some GTA 6 buyers are opening their physical copies only to find no game disc or download code. Repo...",
-      "url": "https://videocardz.com/newz/gta-6-physical-copies-have-no-discs-and-some-apparently-have-no-download-codes-either",
-      "publishedAt": "2026-11-15T17:51:32Z",
-      "processed_at": "2026-11-17T00:00:22.246050+00:00"
+      "description": "Anime-inspired arena fighting game Netcode Warriors will launch for PlayStation 5 and PC via Steam i...",
+      "url": "https://www.gematsu.com/2026/11/netcode-warriors-adds-ps5-version-launches-in-2027",
+      "publishedAt": "2026-11-15T22:00:36Z",
+      "processed_at": "2026-11-17T08:52:04.746976+00:00"
     },
     {
-      "title": "A suspect has been arrested after a drive-by shooting at the California office campus where Xbox's inXile is based - Eurogamer.net",
+      "title": "‘Lenovo Googlebook Duet 13’ leak points to January launch [Gallery] - 9to5Google",
       "source": {
-        "name": "Eurogamer.net"
+        "name": "9to5google.com"
       },
-      "description": "Police have arrested a suspect after a drive-by shooting at the Tustin, California office campus tha...",
-      "url": "https://www.eurogamer.net/inxile-office-shooting-tustin-suspect-arrested",
-      "publishedAt": "2026-11-15T17:47:40Z",
-      "processed_at": "2026-11-17T00:00:22.246050+00:00"
+      "description": "Google teased that detachable Googlebooks are coming, and a leak today provides the best look at the...",
+      "url": "http://9to5google.com/2026/11/15/lenovo-googlebook-duet-13-leak/",
+      "publishedAt": "2026-11-15T21:36:00Z",
+      "processed_at": "2026-11-17T08:52:04.746976+00:00"
     },
     {
-      "title": "XBOX 25th Anniversary Magazine: Explore 25 Years of Games, Stories, and Memories - XBOX Wire",
+      "title": "Mega Man: Dual Override Boss Design Contest winner Cleanser Man revealed - Gematsu",
       "source": {
-        "name": "Xbox.com"
+        "name": "Gematsu"
       },
-      "description": "The 25th Anniversary of XBOX has given fans much to celebrate: the milestones, the memories, and a w...",
-      "url": "https://news.xbox.com/en-us/2026/11/15/xbox-25th-anniversary-the-magazine/",
-      "publishedAt": "2026-11-15T17:02:01Z",
-      "processed_at": "2026-11-17T00:00:22.246050+00:00"
+      "description": "Capcom has revealed Mega Man: Dual Override Boss Design Contest winner Cleanser Man, who will appear...",
+      "url": "https://www.gematsu.com/2026/11/mega-man-dual-override-boss-design-contest-winner-cleanser-man-revealed",
+      "publishedAt": "2026-11-15T21:30:39Z",
+      "processed_at": "2026-11-17T08:52:04.746976+00:00"
     },
     {
-      "title": "Meet the miso-making engineer behind Anthropic’s biggest hit - CNN",
+      "title": "9 Mini Gadgets You Can Find At Bass Pro Shops - SlashGear",
       "source": {
-        "name": "CNN"
+        "name": "SlashGear"
       },
-      "description": "Boris Cherny created the Anthropic coding agent that’s made the company a driving force in the AI bo...",
-      "url": "https://www.cnn.com/2026/11/15/tech/anthropic-claude-code-boris-cherny",
-      "publishedAt": "2026-11-15T17:00:15Z",
-      "processed_at": "2026-11-17T00:00:22.246050+00:00"
+      "description": "From compact GPS devices and flashlights to portable speakers, these mini gadgets at Bass Pro Shops ...",
+      "url": "https://www.slashgear.com/2315630/bass-pro-shop-mini-gadget-finds/",
+      "publishedAt": "2026-11-15T21:30:00Z",
+      "processed_at": "2026-11-17T08:52:04.746976+00:00"
     },
     {
-      "title": "Fanttik’s S1 Pro electric screwdriver is $40 off in the run-up to Black Friday - The Verge",
+      "title": "\"Real\" Galaxy S27 Ultra design suggests aesthetics are low on the list - PhoneArena",
       "source": {
-        "name": "The Verge"
+        "name": "PhoneArena"
       },
-      "description": "Fanttik’s S1 Pro Cordless Electric Screwdriver is down to just $39.99 on Amazon ahead of Black Frida...",
-      "url": "https://www.theverge.com/gadgets/1033620/fantikk-s1-pro-electric-screwdriver-black-friday-2026-deal-sale",
-      "publishedAt": "2026-11-15T17:00:00Z",
-      "processed_at": "2026-11-17T00:00:22.246050+00:00"
+      "description": "",
+      "url": "https://www.phonearena.com/news/galaxy-s27-ultra-s27-pro-design_id184842",
+      "publishedAt": "2026-11-15T20:56:10Z",
+      "processed_at": "2026-11-17T08:52:04.746976+00:00"
     }
   ],
-  "lastUpdated": "2026-11-17T00:00:22.246158+00:00",
+  "lastUpdated": "2026-11-17T08:52:04.747051+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
