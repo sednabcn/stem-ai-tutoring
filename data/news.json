@@ -1,89 +1,99 @@
 {
   "status": "success",
-  "totalResults": 8,
+  "totalResults": 9,
   "articles": [
     {
-      "title": "Apple launches new app to study how people use AI for health - TechCrunch",
+      "title": "A Message From Dr. XBOX: It’s Time to Take the Day Off and Play XBOX - XBOX Wire",
       "source": {
-        "name": "TechCrunch"
+        "name": "Xbox.com"
       },
-      "description": "Apple's new app for a study will answer everyday medical questions...",
-      "url": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/",
-      "publishedAt": "2026-11-16T01:30:00Z",
-      "processed_at": "2026-11-17T08:52:04.746976+00:00"
+      "description": "Some may know me as DJ Khaled. Some may know me as a hitmaker, a major key provider. But today, I wa...",
+      "url": "https://news.xbox.com/en-us/2026/11/16/dr-xbox-its-time-to-take-the-day-off-and-play-xbox/",
+      "publishedAt": "2026-11-16T14:02:02Z",
+      "processed_at": "2026-11-17T18:13:52.555383+00:00"
     },
     {
-      "title": "I've been using Google Photos for years, but Samsung Gallery's new sync finally won me back - Android Police",
+      "title": "Google warns that fully-automated AI attacks are coming soon - BleepingComputer",
       "source": {
-        "name": "Android Police"
+        "name": "BleepingComputer"
       },
-      "description": "Google storage is the simple upgrade that brings me back to Samsung Gallery...",
-      "url": "https://www.androidpolice.com/i-use-google-photos-for-years-but-samsung-new-gallery-sync-won-me-back/",
-      "publishedAt": "2026-11-16T00:00:00Z",
-      "processed_at": "2026-11-17T08:52:04.746976+00:00"
+      "description": "Threat actors are now relying on agentic workflows powered by AI-based offensive frameworks to autom...",
+      "url": "https://www.bleepingcomputer.com/news/security/google-warns-that-fully-automated-ai-attacks-are-coming-soon/",
+      "publishedAt": "2026-11-16T14:00:00Z",
+      "processed_at": "2026-11-17T18:13:52.555383+00:00"
     },
     {
-      "title": "Apple’s Messages app keeps getting better; here are my favorite updates - 9to5Mac",
+      "title": "Stocks making the biggest moves premarket: L3Harris, Nvidia, Take-Two Interactive, Yeti, American Airlines & more - CNBC",
       "source": {
-        "name": "9to5Mac"
+        "name": "CNBC"
       },
-      "description": "9to5Mac is brought to you by Tello Mobile. Switching to Tello Mobile can bring the cost of your plan...",
-      "url": "https://9to5mac.com/2026/11/15/apples-messages-app-keeps-getting-better-here-are-my-favorite-updates/",
-      "publishedAt": "2026-11-15T23:06:00Z",
-      "processed_at": "2026-11-17T08:52:04.746976+00:00"
+      "description": "Follow along as CNBC highlights the biggest stock market moves of the day....",
+      "url": "https://www.cnbc.com/2026/11/16/stocks-moving-the-most-today-live-updates.html",
+      "publishedAt": "2026-11-16T13:47:00Z",
+      "processed_at": "2026-11-17T18:13:52.555383+00:00"
     },
     {
-      "title": "Netcode Warriors adds PS5 version, launches in 2027 - Gematsu",
+      "title": "'iPhone 20 Pro' Rumored to Be Based on iPhone Air - MacRumors",
       "source": {
-        "name": "Gematsu"
+        "name": "MacRumors"
       },
-      "description": "Anime-inspired arena fighting game Netcode Warriors will launch for PlayStation 5 and PC via Steam i...",
-      "url": "https://www.gematsu.com/2026/11/netcode-warriors-adds-ps5-version-launches-in-2027",
-      "publishedAt": "2026-11-15T22:00:36Z",
-      "processed_at": "2026-11-17T08:52:04.746976+00:00"
+      "description": "Next year's \"iPhone 20 Pro\" models will use the same glass design as the iPhone Air, but with more p...",
+      "url": "https://www.macrumors.com/2026/11/16/iphone-20-pro-to-be-based-on-iphone-air/",
+      "publishedAt": "2026-11-16T13:40:33Z",
+      "processed_at": "2026-11-17T18:13:52.555383+00:00"
     },
     {
-      "title": "‘Lenovo Googlebook Duet 13’ leak points to January launch [Gallery] - 9to5Google",
+      "title": "GTA 6 hacker pleads guilty after release from secure hospital - BBC",
       "source": {
-        "name": "9to5google.com"
+        "name": "BBC News"
       },
-      "description": "Google teased that detachable Googlebooks are coming, and a leak today provides the best look at the...",
-      "url": "http://9to5google.com/2026/11/15/lenovo-googlebook-duet-13-leak/",
-      "publishedAt": "2026-11-15T21:36:00Z",
-      "processed_at": "2026-11-17T08:52:04.746976+00:00"
+      "description": "21-year-old Arion Kurtaj pleaded guilty to the Rockstar Games hack and others he carried out when he...",
+      "url": "https://www.bbc.com/news/articles/cq99exy89dngo",
+      "publishedAt": "2026-11-16T13:34:22Z",
+      "processed_at": "2026-11-17T18:13:52.555383+00:00"
     },
     {
-      "title": "Mega Man: Dual Override Boss Design Contest winner Cleanser Man revealed - Gematsu",
+      "title": "The Best Tech Gifts of 2026 - Gizmodo",
       "source": {
-        "name": "Gematsu"
+        "name": "Gizmodo.com"
       },
-      "description": "Capcom has revealed Mega Man: Dual Override Boss Design Contest winner Cleanser Man, who will appear...",
-      "url": "https://www.gematsu.com/2026/11/mega-man-dual-override-boss-design-contest-winner-cleanser-man-revealed",
-      "publishedAt": "2026-11-15T21:30:39Z",
-      "processed_at": "2026-11-17T08:52:04.746976+00:00"
+      "description": "Let's get everyone you love a gadget they'll love....",
+      "url": "https://gizmodo.com/best-tech-gifts-2026-2000839047",
+      "publishedAt": "2026-11-16T13:30:12Z",
+      "processed_at": "2026-11-17T18:13:52.555383+00:00"
     },
     {
-      "title": "9 Mini Gadgets You Can Find At Bass Pro Shops - SlashGear",
+      "title": "Apple Was Late to the Video Podcast Boom. Now It’s Trying to Catch Up. - The New York Times",
       "source": {
-        "name": "SlashGear"
-      },
-      "description": "From compact GPS devices and flashlights to portable speakers, these mini gadgets at Bass Pro Shops ...",
-      "url": "https://www.slashgear.com/2315630/bass-pro-shop-mini-gadget-finds/",
-      "publishedAt": "2026-11-15T21:30:00Z",
-      "processed_at": "2026-11-17T08:52:04.746976+00:00"
-    },
-    {
-      "title": "\"Real\" Galaxy S27 Ultra design suggests aesthetics are low on the list - PhoneArena",
-      "source": {
-        "name": "PhoneArena"
+        "name": "Google News"
       },
       "description": "",
-      "url": "https://www.phonearena.com/news/galaxy-s27-ultra-s27-pro-design_id184842",
-      "publishedAt": "2026-11-15T20:56:10Z",
-      "processed_at": "2026-11-17T08:52:04.746976+00:00"
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNOGxVQ0NhMnc3ZmZSc1daLWJHVFphakxwZ1lTWmd6cEp0WWtPM1E0YWNoZXc1dnZjSkczdWYxZEZVcmpQN2FLaDR3cHBDMndqekNvWm5aTmF3TVFWZ1NVeU5lLWpIYVRQN3kwcjVsTEhKQVk4OFAzV3QxcWZmTVhUZUd2dDBaXzg?oc=5",
+      "publishedAt": "2026-11-16T13:24:37Z",
+      "processed_at": "2026-11-17T18:13:52.555383+00:00"
+    },
+    {
+      "title": "PlayStation Black Friday Sale Is Live Now, Up to $100 Off PS5 Accessories, PSVR2 - Push Square",
+      "source": {
+        "name": "Push Square"
+      },
+      "description": "But no PS5 consoles included...",
+      "url": "https://www.pushsquare.com/news/2026/11/playstation-black-friday-sale-is-live-now-up-to-usd100-off-ps5-accessories-psvr2",
+      "publishedAt": "2026-11-16T13:00:00Z",
+      "processed_at": "2026-11-17T18:13:52.555383+00:00"
+    },
+    {
+      "title": "Nintendo Store App Receives A Small But Worthwhile Update, Here Are The Patch Notes - Nintendo Life",
+      "source": {
+        "name": "Nintendo Life"
+      },
+      "description": "Play activity improvements...",
+      "url": "https://www.nintendolife.com/news/2026/11/nintendo-store-app-receives-a-small-but-worthwhile-update-here-are-the-patch-notes",
+      "publishedAt": "2026-11-16T13:00:00Z",
+      "processed_at": "2026-11-17T18:13:52.555383+00:00"
     }
   ],
-  "lastUpdated": "2026-11-17T08:52:04.747051+00:00",
+  "lastUpdated": "2026-11-17T18:13:52.555446+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
