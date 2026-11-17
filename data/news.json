@@ -1,89 +1,109 @@
 {
   "status": "success",
-  "totalResults": 8,
+  "totalResults": 10,
   "articles": [
     {
-      "title": "The Nintendo Switch 2 gets a rare deal way ahead of Black Friday - Mashable",
+      "title": "Intel Razor Lake reportedly gets 12 P-core-only die with bLLC on Intel 18A-P - VideoCardz.com",
       "source": {
-        "name": "Mashable"
+        "name": "Videocardz.com"
       },
-      "description": "The $30-off deal has been restocked....",
-      "url": "https://mashable.com/tech/nov-13-nintendo-switch-2-deal",
-      "publishedAt": "2026-11-15T12:09:31Z",
-      "processed_at": "2026-11-16T15:04:54.170828+00:00"
+      "description": "A new Razor Lake leak reveals a 12+0+4 processor built on Intel 18A-P. The unlocked configuration re...",
+      "url": "https://videocardz.com/newz/intel-razor-lake-reportedly-gets-12-p-core-only-die-with-bllc-on-intel-18a-p",
+      "publishedAt": "2026-11-15T19:30:13Z",
+      "processed_at": "2026-11-17T00:00:22.246050+00:00"
     },
     {
-      "title": "Google's Gemini 4 Hydrogen is free — here are 5 impressive things you can do with it - Tom's Guide",
+      "title": "'The Ultimate Gaming Machine' - Xbox Reveals Tons Of New Project Helix Information - Pure Xbox",
       "source": {
-        "name": "Tom's Guide"
+        "name": "Pure Xbox"
       },
-      "description": "Google's new model beats its pricier one and is just as impressive...",
-      "url": "https://www.tomsguide.com/ai/google-gemini/googles-gemini-4-hydrogen-is-free-here-are-5-impressive-things-you-can-do-with-it",
-      "publishedAt": "2026-11-15T05:56:27Z",
-      "processed_at": "2026-11-16T15:04:54.170828+00:00"
+      "description": "Also clarifying that it's definitely a console and not a PC...",
+      "url": "https://www.purexbox.com/news/2026/11/the-ultimate-gaming-machine-xbox-reveals-tons-of-new-project-helix-information",
+      "publishedAt": "2026-11-15T18:47:29Z",
+      "processed_at": "2026-11-17T00:00:22.246050+00:00"
     },
     {
-      "title": "NYT Strands hints, answers for November 14, 2026 - Mashable",
+      "title": "Flaming Hydra’s new Kickstarter campaign rethinks e-book ownership and digital lending - TechCrunch",
       "source": {
-        "name": "Mashable"
+        "name": "TechCrunch"
       },
-      "description": "Every hint, nudge and outright answer you need to complete today's NYT Strands puzzle....",
-      "url": "https://mashable.com/entertainment/strands-nyt-hint-november-14-2026",
-      "publishedAt": "2026-11-15T03:35:07Z",
-      "processed_at": "2026-11-16T15:04:54.170828+00:00"
+      "description": "A new Kickstarter campaign aims to usher in the “return of the human internet.”...",
+      "url": "https://techcrunch.com/2026/11/15/flaming-hydras-new-kickstarter-campaign-rethinks-e-book-ownership-and-digital-lending/",
+      "publishedAt": "2026-11-15T18:29:14Z",
+      "processed_at": "2026-11-17T00:00:22.246050+00:00"
     },
     {
-      "title": "12 Niche USB-C Gadgets That Are Surprisingly Useful - SlashGear",
-      "source": {
-        "name": "SlashGear"
-      },
-      "description": "USB-C is the wired charging standard for your phones, earbuds, and more, but a lot of devices that u...",
-      "url": "https://www.slashgear.com/2314039/niche-usb-c-gadgets-that-are-useful/",
-      "publishedAt": "2026-11-15T02:30:00Z",
-      "processed_at": "2026-11-16T15:04:54.170828+00:00"
-    },
-    {
-      "title": "Google Pixel rolls out new ‘Family Hub’ feature with useful controls [Gallery] - 9to5Google",
-      "source": {
-        "name": "9to5google.com"
-      },
-      "description": "After appearing early for some, Google Pixel's new Family Hub feature appears to be widely rolled ou...",
-      "url": "http://9to5google.com/2026/11/14/google-pixel-family-hub-feature-rolled-out/",
-      "publishedAt": "2026-11-14T23:00:00Z",
-      "processed_at": "2026-11-16T15:04:54.170828+00:00"
-    },
-    {
-      "title": "League of Legends Will Never Be the Same After Massive 2027 Overhaul - Polygon.com",
+      "title": "8 Must-Play Open-World RPGs for People With Real-Life Schedules - Polygon.com",
       "source": {
         "name": "Polygon"
       },
-      "description": "Riot Games revealed at Worlds Finals 2026 a major update to League of Legends coming in 2027 with ne...",
-      "url": "https://www.polygon.com/league-of-legends-with-new-dawn-reveal-worlds-2026/",
-      "publishedAt": "2026-11-14T22:03:57Z",
-      "processed_at": "2026-11-16T15:04:54.170828+00:00"
+      "description": "Busy schedule with no time to game?  These eight open-world RPGs fit into short sessions, one quest ...",
+      "url": "https://www.polygon.com/open-world-rpgs-real-life-schedules/",
+      "publishedAt": "2026-11-15T18:00:18Z",
+      "processed_at": "2026-11-17T00:00:22.246050+00:00"
     },
     {
-      "title": "9 Cheaper Alternatives To The Toyota Land Cruiser - Jalopnik",
+      "title": "Windows 11 “SignDrop” Zero-Day Exploit Turns Microsoft’s Own Security Fix Against Itself, Grants SYSTEM Privileges - Wccftech",
       "source": {
-        "name": "Jalopnik"
+        "name": "Wccftech"
       },
-      "description": "The best affordable Toyota Land Cruiser Alternatives for 2027 include the Jeep Grand Cherokee Limite...",
-      "url": "https://www.jalopnik.com/2312763/cheaper-alternatives-to-toyota-land-cruiser/",
-      "publishedAt": "2026-11-14T21:45:00Z",
-      "processed_at": "2026-11-16T15:04:54.170828+00:00"
+      "description": "A new Windows 11 zero-day called SignDrop exploits Microsoft's CLFS security mitigation to gain SYST...",
+      "url": "https://wccftech.com/windows-11-signdrop-zero-day-exploit-turns-microsofts-own-security-fix-against-itself-grants-system-privileges/",
+      "publishedAt": "2026-11-15T18:00:00Z",
+      "processed_at": "2026-11-17T00:00:22.246050+00:00"
     },
     {
-      "title": "Sony's QSSR Upscaler Expands to Spider-Man 2, ARC Raiders, No Man's Sky and More - TechPowerUp",
+      "title": "GTA 6 physical copies have no discs, and some apparently have no download codes either - VideoCardz.com",
       "source": {
-        "name": "Techpowerup.com"
+        "name": "Videocardz.com"
       },
-      "description": "Base PS5 owners have six more games lined up for QSSR, Sony's lighter AI upscaler. Marvel's Spider-M...",
-      "url": "https://www.techpowerup.com/354838/sonys-qssr-upscaler-expands-to-spider-man-2-arc-raiders-no-mans-sky-and-more",
-      "publishedAt": "2026-11-14T21:20:21Z",
-      "processed_at": "2026-11-16T15:04:54.170828+00:00"
+      "description": "Some GTA 6 buyers are opening their physical copies only to find no game disc or download code. Repo...",
+      "url": "https://videocardz.com/newz/gta-6-physical-copies-have-no-discs-and-some-apparently-have-no-download-codes-either",
+      "publishedAt": "2026-11-15T17:51:32Z",
+      "processed_at": "2026-11-17T00:00:22.246050+00:00"
+    },
+    {
+      "title": "A suspect has been arrested after a drive-by shooting at the California office campus where Xbox's inXile is based - Eurogamer.net",
+      "source": {
+        "name": "Eurogamer.net"
+      },
+      "description": "Police have arrested a suspect after a drive-by shooting at the Tustin, California office campus tha...",
+      "url": "https://www.eurogamer.net/inxile-office-shooting-tustin-suspect-arrested",
+      "publishedAt": "2026-11-15T17:47:40Z",
+      "processed_at": "2026-11-17T00:00:22.246050+00:00"
+    },
+    {
+      "title": "XBOX 25th Anniversary Magazine: Explore 25 Years of Games, Stories, and Memories - XBOX Wire",
+      "source": {
+        "name": "Xbox.com"
+      },
+      "description": "The 25th Anniversary of XBOX has given fans much to celebrate: the milestones, the memories, and a w...",
+      "url": "https://news.xbox.com/en-us/2026/11/15/xbox-25th-anniversary-the-magazine/",
+      "publishedAt": "2026-11-15T17:02:01Z",
+      "processed_at": "2026-11-17T00:00:22.246050+00:00"
+    },
+    {
+      "title": "Meet the miso-making engineer behind Anthropic’s biggest hit - CNN",
+      "source": {
+        "name": "CNN"
+      },
+      "description": "Boris Cherny created the Anthropic coding agent that’s made the company a driving force in the AI bo...",
+      "url": "https://www.cnn.com/2026/11/15/tech/anthropic-claude-code-boris-cherny",
+      "publishedAt": "2026-11-15T17:00:15Z",
+      "processed_at": "2026-11-17T00:00:22.246050+00:00"
+    },
+    {
+      "title": "Fanttik’s S1 Pro electric screwdriver is $40 off in the run-up to Black Friday - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "Fanttik’s S1 Pro Cordless Electric Screwdriver is down to just $39.99 on Amazon ahead of Black Frida...",
+      "url": "https://www.theverge.com/gadgets/1033620/fantikk-s1-pro-electric-screwdriver-black-friday-2026-deal-sale",
+      "publishedAt": "2026-11-15T17:00:00Z",
+      "processed_at": "2026-11-17T00:00:22.246050+00:00"
     }
   ],
-  "lastUpdated": "2026-11-16T15:04:54.170897+00:00",
+  "lastUpdated": "2026-11-17T00:00:22.246158+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
