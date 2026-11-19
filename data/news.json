@@ -1,7 +1,57 @@
 {
   "status": "success",
-  "totalResults": 9,
+  "totalResults": 10,
   "articles": [
+    {
+      "title": "Xiaomi 18 Pro vs iPhone 18 Pro Max: Sample Photos Comparison - PhoneArena",
+      "source": {
+        "name": "PhoneArena"
+      },
+      "description": "",
+      "url": "https://www.phonearena.com/news/Xiaomi-18-Pro-vs-iPhone-18-Pro-Max-Sample-Photos-Comparison_id184774",
+      "publishedAt": "2026-11-17T20:35:55Z",
+      "processed_at": "2026-11-19T00:58:46.774456+00:00"
+    },
+    {
+      "title": "Civilization studio Firaxis Games lays off a third of staff - Ars Technica",
+      "source": {
+        "name": "Ars Technica"
+      },
+      "description": "Studio head Heather Hazen is among those departing....",
+      "url": "https://arstechnica.com/gaming/2026/11/civilization-studio-firaxis-games-lays-off-a-third-of-staff/",
+      "publishedAt": "2026-11-17T19:45:25Z",
+      "processed_at": "2026-11-19T00:58:46.774456+00:00"
+    },
+    {
+      "title": "The Game Awards 2026 Nominees – Play Gears of War: E-Day, Grand Theft Auto VI, Resident Evil Requiem, and More on XBOX - XBOX Wire",
+      "source": {
+        "name": "Xbox.com"
+      },
+      "description": "The Game Awards has announced this year’s list of nominees and titles across XBOX’s creative teams h...",
+      "url": "https://news.xbox.com/en-us/2026/11/17/the-game-awards-2026-nominees-on-xbox/",
+      "publishedAt": "2026-11-17T19:41:37Z",
+      "processed_at": "2026-11-19T00:58:46.774456+00:00"
+    },
+    {
+      "title": "Framework’s better couch keyboard is now available for preorder - The Verge",
+      "source": {
+        "name": "The Verge"
+      },
+      "description": "The Wireless Touchpad Keyboard uses the same hardware as some of Framework’s laptops in a slim desig...",
+      "url": "https://www.theverge.com/tech/1035805/framework-wireless-touchpad-keyboard-preorder-open",
+      "publishedAt": "2026-11-17T19:38:42Z",
+      "processed_at": "2026-11-19T00:58:46.774456+00:00"
+    },
+    {
+      "title": "WhatsApp starts rolling out built-in cloud backup on Android, and it’s free - 9to5Google",
+      "source": {
+        "name": "9to5google.com"
+      },
+      "description": "WhatsApp is introducing its own cloud backup option starting on Android, giving users an alternative...",
+      "url": "http://9to5google.com/2026/11/17/whatsapp-cloud-backups-free-beta/",
+      "publishedAt": "2026-11-17T19:00:00Z",
+      "processed_at": "2026-11-19T00:58:46.774456+00:00"
+    },
     {
       "title": "GTA 6 New Zealand time trick for Xbox, PS5: How to play hours early - Mashable",
       "source": {
@@ -10,90 +60,50 @@
       "description": "There's a trick that'll give you a head start on \"Grand Theft Auto VI.\"...",
       "url": "https://mashable.com/entertainment/gta-6-new-zealand-time-trick-xbox-ps5",
       "publishedAt": "2026-11-17T18:22:30Z",
-      "processed_at": "2026-11-18T18:41:06.093457+00:00"
+      "processed_at": "2026-11-19T00:58:46.774456+00:00"
     },
     {
-      "title": "Grand Theft Auto 6 Lucia Actress Finally Revealed — And Yes, It's Who You Probably Suspected - IGN",
+      "title": "The Google Wallet app is now available on iOS - 9to5Google",
       "source": {
-        "name": "IGN"
+        "name": "9to5google.com"
       },
-      "description": "On the eve of launching GTA 6, we finally now know who portrays main character Lucia Caminos....",
-      "url": "https://www.ign.com/articles/grand-theft-auto-6-lucia-actress-finally-revealed-and-yes-its-who-you-probably-suspected",
-      "publishedAt": "2026-11-17T17:20:21Z",
-      "processed_at": "2026-11-18T18:41:06.093457+00:00"
+      "description": "Google Wallet is now available on iOS to “organize purchases, tickets, boarding passes, and more in ...",
+      "url": "http://9to5google.com/2026/11/17/google-wallet-ios-app/",
+      "publishedAt": "2026-11-17T17:48:00Z",
+      "processed_at": "2026-11-19T00:58:46.774456+00:00"
     },
     {
-      "title": "The Game Awards Nominations 2026: ‘GTA 6’ Lands Game of the Year Nom Ahead of Thursday Release - Variety",
+      "title": "GTA 6 is making history with its female lead, and women gamers are here for it - Yahoo Tech",
       "source": {
-        "name": "Variety"
+        "name": "Yahoo Entertainment"
       },
-      "description": "The nominations for the 2026 Game Awards have been revealed....",
-      "url": "https://variety.com/2026/awards/news/game-awards-nominations-2026-list-1236949480/",
-      "publishedAt": "2026-11-17T17:10:00Z",
-      "processed_at": "2026-11-18T18:41:06.093457+00:00"
+      "description": "There was immediate backlash on certain corners of the internet to GTA 6's female protagonist. But t...",
+      "url": "https://tech.yahoo.com/gaming/article/gta-6-is-making-history-with-its-female-lead-and-women-gamers-are-here-for-it-173554427.html",
+      "publishedAt": "2026-11-17T17:35:54Z",
+      "processed_at": "2026-11-19T00:58:46.774456+00:00"
     },
     {
       "title": "Coming to XBOX Game Pass: Hela: of Mice & Magic, The Outlast Trials, Sniper Ghost Warrior Contracts 2, and More - XBOX Wire",
       "source": {
         "name": "Xbox.com"
       },
-      "description": "",
+      "description": "Gather around, gamers! We’ve got more games coming your way, and there’s a little something for ever...",
       "url": "https://news.xbox.com/en-us/2026/11/17/xbox-game-pass-november-2026-wave-2/",
       "publishedAt": "2026-11-17T17:01:37Z",
-      "processed_at": "2026-11-18T18:41:06.093457+00:00"
+      "processed_at": "2026-11-19T00:58:46.774456+00:00"
     },
     {
-      "title": "Take-Two’s Firaxis, Maker of ‘Civilization,’ Cuts a Third of Its Staff - Bloomberg.com",
+      "title": "Apple TV 4K (4th Gen, 2026) Review: Best Media Streamer for Apple Fans, but No One Else - CNET",
       "source": {
-        "name": "Bloomberg"
+        "name": "CNET"
       },
-      "description": "The Maryland-based development studio behind the Civilization and XCOM franchises, laid off around 6...",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-17/take-two-s-firaxis-maker-of-civilization-cuts-a-third-of-its-staff",
-      "publishedAt": "2026-11-17T16:26:33Z",
-      "processed_at": "2026-11-18T18:41:06.093457+00:00"
-    },
-    {
-      "title": "The Metacritic Review Score Bar For ‘GTA 6’ Is Historically High - Forbes",
-      "source": {
-        "name": "Forbes"
-      },
-      "description": "",
-      "url": "https://www.forbes.com/sites/paultassi/2026/11/17/the-metacritic-review-score-bar-for-gta-6-is-historically-high/",
-      "publishedAt": "2026-11-17T16:11:58Z",
-      "processed_at": "2026-11-18T18:41:06.093457+00:00"
-    },
-    {
-      "title": "Meta launches Direct, a stand-alone messaging app for Instagram - TechCrunch",
-      "source": {
-        "name": "TechCrunch"
-      },
-      "description": "Direct is launching in Turkey and Thailand, and can be used with or without an Instagram account....",
-      "url": "https://techcrunch.com/2026/11/17/meta-launches-direct-a-standalone-messaging-app-for-instagram/",
-      "publishedAt": "2026-11-17T15:01:46Z",
-      "processed_at": "2026-11-18T18:41:06.093457+00:00"
-    },
-    {
-      "title": "PlayStation defeats $2.6 billion UK class action lawsuit over game pricing - The Game Business",
-      "source": {
-        "name": "Thegamebusiness.com"
-      },
-      "description": "London Tribunal rules that Sony doesn’t have a ‘near monopoly’ on game sales...",
-      "url": "https://www.thegamebusiness.com/p/playstation-defeats-26-billion-uk",
-      "publishedAt": "2026-11-17T13:57:26Z",
-      "processed_at": "2026-11-18T18:41:06.093457+00:00"
-    },
-    {
-      "title": "Review: TANUKI: Pon's Summer (Switch 2) - Cosy Postie Delivers Sick BMX Tricks & Minigames - Nintendo Life",
-      "source": {
-        "name": "Nintendo Life"
-      },
-      "description": "",
-      "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/tanuki-pons-summer",
-      "publishedAt": "2026-11-17T13:00:00Z",
-      "processed_at": "2026-11-18T18:41:06.093457+00:00"
+      "description": "Apple's little box is a really good high-end streamer but it's difficult to use if you don't own a r...",
+      "url": "https://www.cnet.com/tech/home-entertainment/apple-tv-4k-4th-gen-2026-review/",
+      "publishedAt": "2026-11-17T16:33:00Z",
+      "processed_at": "2026-11-19T00:58:46.774456+00:00"
     }
   ],
-  "lastUpdated": "2026-11-18T18:41:06.093536+00:00",
+  "lastUpdated": "2026-11-19T00:58:46.774542+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
