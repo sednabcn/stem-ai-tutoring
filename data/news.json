@@ -1,99 +1,109 @@
 {
   "status": "success",
-  "totalResults": 9,
+  "totalResults": 10,
   "articles": [
     {
-      "title": "‘GTA VI’ Beats ‘The Odyssey’ Revenue On Release Day, Estimate Says - Forbes",
+      "title": "MacBook Pro Black Friday Deals Are Here: Get Up to $250 Off M6 and PROLED XDR - MacRumors",
       "source": {
-        "name": "Forbes"
+        "name": "MacRumors"
+      },
+      "description": "We're tracking the first ever discounts on Apple's newest MacBook Pros today on Amazon. This include...",
+      "url": "https://www.macrumors.com/2026/11/19/macbook-pro-black-friday-deals-3/",
+      "publishedAt": "2026-11-19T22:45:00Z",
+      "processed_at": "2026-11-20T23:45:25.738435+00:00"
+    },
+    {
+      "title": "Apple Is Working on AI Agent for Device Control, Apps, Browsing and Coding - Bloomberg.com",
+      "source": {
+        "name": "Bloomberg"
+      },
+      "description": "Apple Inc. is developing its own autonomous artificial intelligence agent that can get things done o...",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-19/apple-is-working-on-ai-agent-for-device-control-apps-browsing-and-coding",
+      "publishedAt": "2026-11-19T21:44:56Z",
+      "processed_at": "2026-11-20T23:45:25.738435+00:00"
+    },
+    {
+      "title": "Cyberleek Is Threatening To Unleash Chaos Again After Allegedly Tossing An Xbox Build Of GTA 6 Onto The Internet - Kotaku",
+      "source": {
+        "name": "Kotaku"
+      },
+      "description": "Yes, crypto is involved this time too...",
+      "url": "https://kotaku.com/cyberleek-is-threatening-to-unleash-chaos-again-after-tossing-an-alleged-xbox-build-of-gta-6-onto-the-internet-2000758544",
+      "publishedAt": "2026-11-19T21:05:13Z",
+      "processed_at": "2026-11-20T23:45:25.738435+00:00"
+    },
+    {
+      "title": "Next year’s iPhone Pro redesign sounds like exactly what I’ve been wanting - 9to5Mac",
+      "source": {
+        "name": "9to5Mac"
+      },
+      "description": "Rumors suggest Apple is designing an 'iPhone 20 Pro' that combines my two favorite current models: i...",
+      "url": "https://9to5mac.com/2026/11/19/next-years-iphone-pro-redesign-sounds-like-exactly-what-ive-been-wanting/",
+      "publishedAt": "2026-11-19T20:49:00Z",
+      "processed_at": "2026-11-20T23:45:25.738435+00:00"
+    },
+    {
+      "title": "GTA 6 launch: Tips, highlights, reactions as gamers get to play - USA Today",
+      "source": {
+        "name": "USA Today"
+      },
+      "description": "Gamers have waited 13 years for Rockstar Games to drop a new Grand Theft Auto. Now it's finally here...",
+      "url": "https://www.usatoday.com/story/tech/gaming/2026/11/19/gta-6-live-updates--live/92811863007/",
+      "publishedAt": "2026-11-19T19:59:00Z",
+      "processed_at": "2026-11-20T23:45:25.738435+00:00"
+    },
+    {
+      "title": "‘GTA 6’ Sales Have Already Surpassed Christopher Nolan’s ‘The Odyssey’ - The Hollywood Reporter",
+      "source": {
+        "name": "Hollywood Reporter"
+      },
+      "description": "The Rockstar Games epic has generated $1.84 billion in sales — and it just launched today....",
+      "url": "http://www.hollywoodreporter.com/business/digital/gta-6-sales-the-odyssey-1236759454/",
+      "publishedAt": "2026-11-19T19:48:16Z",
+      "processed_at": "2026-11-20T23:45:25.738435+00:00"
+    },
+    {
+      "title": "There’s Comfort In Conquering The Past - Defector",
+      "source": {
+        "name": "Defector.com"
+      },
+      "description": "The first time I played The Legend of Zelda: Ocarina of Time was during a hurricane. It was late 199...",
+      "url": "https://defector.com/theres-comfort-in-conquering-the-past",
+      "publishedAt": "2026-11-19T19:34:00Z",
+      "processed_at": "2026-11-20T23:45:25.738435+00:00"
+    },
+    {
+      "title": "'GTA 6' Is Triggering Men Who Are Learning How To Have A Girlfriend - Polygon.com",
+      "source": {
+        "name": "Polygon"
+      },
+      "description": "GTA 6 fans weren't expecting that keeping Lucia happy would require any actual work on Jason's part ...",
+      "url": "https://www.polygon.com/gta-6-lucia-boyfriend-girlfriend-relationship-simulator/",
+      "publishedAt": "2026-11-19T19:30:17Z",
+      "processed_at": "2026-11-20T23:45:25.738435+00:00"
+    },
+    {
+      "title": "GTA VI Players Clash Over Rockstar’s Controversial Decision To Remove Prostitution - Yahoo Tech",
+      "source": {
+        "name": "The Blast"
+      },
+      "description": "Grand Theft Auto VI has sparked a heated debate among players after Rockstar Games confirmed that it...",
+      "url": "https://theblast.com/887956/gta-vi-players-clash-rockstars-controversial-decision/",
+      "publishedAt": "2026-11-19T19:15:00Z",
+      "processed_at": "2026-11-20T23:45:25.738435+00:00"
+    },
+    {
+      "title": "The Best Buy Black Friday Deals Include Gaming PCs, TVs, and Popular LEGO Sets - IGN",
+      "source": {
+        "name": "IGN"
       },
       "description": "",
-      "url": "https://www.forbes.com/sites/conormurray/2026/11/19/grand-theft-auto-vi-passes-18-billion-in-revenue-on-release-day-eclipses-the-odysseys-box-office-total/",
-      "publishedAt": "2026-11-19T15:42:00Z",
-      "processed_at": "2026-11-20T17:36:29.353066+00:00"
-    },
-    {
-      "title": "As the workers' tribunal comes to an end, most - though not quite all - of the 34 Rockstar employees controversially fired are named in the GTA 6 credits - Eurogamer.net",
-      "source": {
-        "name": "Eurogamer.net"
-      },
-      "description": "As the Rockstar employment tribunal comes to an end this week in Scotland, we discover most of the f...",
-      "url": "https://www.eurogamer.net/fired-rockstar-employees-named-gta-6-credits-tribunal",
-      "publishedAt": "2026-11-19T15:18:40Z",
-      "processed_at": "2026-11-20T17:36:29.353066+00:00"
-    },
-    {
-      "title": "Great advice from Glenn Beck: Play GRAND THEFT AUTO 6 with your kids! Robby Soave | RISING - The Hill",
-      "source": {
-        "name": "YouTube"
-      },
-      "description": "OPINION: Robby Soave gives his radar on the release of Grand Theft Auto VI, the latest entry in the ...",
-      "url": "https://www.youtube.com/watch?v=h-GuGbtKh7U",
-      "publishedAt": "2026-11-19T15:15:00Z",
-      "processed_at": "2026-11-20T17:36:29.353066+00:00"
-    },
-    {
-      "title": "The Best Ways To Earn Money In ‘GTA 6,’ Early, Mid- And Late-Game - Forbes",
-      "source": {
-        "name": "Forbes"
-      },
-      "description": "",
-      "url": "https://www.forbes.com/sites/paultassi/2026/11/19/the-best-ways-to-earn-money-in-gta-6-early-mid-and-late-game/",
-      "publishedAt": "2026-11-19T14:44:50Z",
-      "processed_at": "2026-11-20T17:36:29.353066+00:00"
-    },
-    {
-      "title": "Housework counts as exercise and could extend your lifespan - The Washington Post",
-      "source": {
-        "name": "The Washington Post"
-      },
-      "description": "Scrubbing the floor or doing laundry can burn more energy than a brisk walk, contributing to the phy...",
-      "url": "https://www.washingtonpost.com/climate-environment/2026/11/19/housework-counts-physical-activity-that-can-improve-your-health/",
-      "publishedAt": "2026-11-19T14:32:38Z",
-      "processed_at": "2026-11-20T17:36:29.353066+00:00"
-    },
-    {
-      "title": "Warren Spector lambasts GTA 6's \"billion dollar\" development - 'I just hope it's is the last of its kind even if it's the best we have to offer' - Eurogamer.net",
-      "source": {
-        "name": "Eurogamer.net"
-      },
-      "description": "An increasingly outspoken Warren Spector - known for the likes of Deus Ex - has offered both praise ...",
-      "url": "https://www.eurogamer.net/gta-6-warren-spector-lambasts-billion-dollar-development",
-      "publishedAt": "2026-11-19T14:08:40Z",
-      "processed_at": "2026-11-20T17:36:29.353066+00:00"
-    },
-    {
-      "title": "The wait begins for GTA VI on PC - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "Grand Theft Auto 6 is now available for the PlayStation 5 and Xbox Series X / S. While PC gamers are...",
-      "url": "https://www.theverge.com/games/1036550/grand-theft-auto-6-gta-vi-pc-version-fomo",
-      "publishedAt": "2026-11-19T14:00:00Z",
-      "processed_at": "2026-11-20T17:36:29.353066+00:00"
-    },
-    {
-      "title": "Feature: 20 Wii Exclusives You Should Track Down While You Still Can - Nintendo Life",
-      "source": {
-        "name": "Nintendo Life"
-      },
-      "description": "Ripe for rediscovery...",
-      "url": "https://www.nintendolife.com/features/20-wii-exclusives-you-should-track-down-while-you-still-can",
-      "publishedAt": "2026-11-19T13:00:00Z",
-      "processed_at": "2026-11-20T17:36:29.353066+00:00"
-    },
-    {
-      "title": "Elite N.J. pizzeria announces mysterious closure only 5 months after opening. Here’s what we know. - NJ.com",
-      "source": {
-        "name": "nj.com"
-      },
-      "description": "",
-      "url": "https://www.nj.com/food/2026/11/elite-nj-pizzeria-announces-mysterious-closure-heres-what-we-know.html",
-      "publishedAt": "2026-11-19T12:34:00Z",
-      "processed_at": "2026-11-20T17:36:29.353066+00:00"
+      "url": "https://www.ign.com/articles/best-buy-black-friday-sale-2026",
+      "publishedAt": "2026-11-19T18:51:55Z",
+      "processed_at": "2026-11-20T23:45:25.738435+00:00"
     }
   ],
-  "lastUpdated": "2026-11-20T17:36:29.353160+00:00",
+  "lastUpdated": "2026-11-20T23:45:25.738508+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
