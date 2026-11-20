@@ -1,109 +1,99 @@
 {
   "status": "success",
-  "totalResults": 10,
+  "totalResults": 9,
   "articles": [
     {
-      "title": "‘GTA VI’ Nears $1.7 Billion In Pre-Order Sales—One Day Before Launch - Forbes",
+      "title": "Turns Out GTA San Andreas Remastered Was Teasing GTA 6 Back In 2021 - Kotaku",
       "source": {
-        "name": "Forbes"
+        "name": "Kotaku"
       },
-      "description": "",
-      "url": "https://www.forbes.com/sites/conormurray/2026/11/18/grand-theft-auto-vi-nears-17-billion-in-revenue-with-one-day-to-go-until-release/",
-      "publishedAt": "2026-11-18T16:26:00Z",
-      "processed_at": "2026-11-19T17:59:49.122400+00:00"
+      "description": "White picket fence...",
+      "url": "https://kotaku.com/turns-out-gta-san-andreas-remastered-was-teasing-gta-6-back-in-2021-2000758132",
+      "publishedAt": "2026-11-18T21:02:47Z",
+      "processed_at": "2026-11-20T00:32:38.820537+00:00"
     },
     {
-      "title": "Act Quick! Nintendo's Discounted Its Retro NSO Controllers For Black Friday (Europe) - Nintendo Life",
+      "title": "PlayStation suffers major outage hours before \"GTA VI\" launch - Axios",
       "source": {
-        "name": "Nintendo Life"
+        "name": "Axios"
       },
-      "description": "Put the class in classic...",
-      "url": "https://www.nintendolife.com/news/2026/11/act-quick-nintendos-discounted-its-retro-nso-controllers-for-black-friday-europe",
-      "publishedAt": "2026-11-18T15:30:00Z",
-      "processed_at": "2026-11-19T17:59:49.122400+00:00"
+      "description": "The downed servers come amid a flurry of glitches nationwide....",
+      "url": "https://www.axios.com/2026/11/18/gta-6-playstation-psn-servers",
+      "publishedAt": "2026-11-18T19:59:38Z",
+      "processed_at": "2026-11-20T00:32:38.820537+00:00"
     },
     {
-      "title": "More details about Apple's 20th-anniversary iPhone emerge - GSMArena.com news - GSMArena.com",
-      "source": {
-        "name": "GSMArena.com"
-      },
-      "description": "The lineup is said to include four models. Apple is reportedly planning a major redesign for its 20t...",
-      "url": "https://www.gsmarena.com/more_details_about_apples_20thanniversary_iphone_emerge-news-75520.php",
-      "publishedAt": "2026-11-18T15:21:02Z",
-      "processed_at": "2026-11-19T17:59:49.122400+00:00"
-    },
-    {
-      "title": "iPhone 18, iPhone Air 2 get new release timing updates - 9to5Mac",
+      "title": "New leaks detail next year’s iPhone Pro redesign and iPhone Duo 2 - 9to5Mac",
       "source": {
         "name": "9to5Mac"
       },
-      "description": "iPhone 18 and iPhone Air 2 were absent from Apple's fall lineup, but they're still coming—and a new ...",
-      "url": "https://9to5mac.com/2026/11/18/iphone-18-iphone-air-2-get-new-release-timing-updates/",
-      "publishedAt": "2026-11-18T15:09:00Z",
-      "processed_at": "2026-11-19T17:59:49.122400+00:00"
+      "description": "Next year's fall iPhone lineup is expected to include 20th anniversary redesigned Pro models and an ...",
+      "url": "https://9to5mac.com/2026/11/18/new-leaks-detail-next-years-iphone-pro-redesign-and-iphone-duo-2/",
+      "publishedAt": "2026-11-18T19:47:00Z",
+      "processed_at": "2026-11-20T00:32:38.820537+00:00"
     },
     {
-      "title": "Designers’ notes: The Doom of Lord Carrard lore - Warhammer Community",
+      "title": "The leaked Lenovo Legion Go Beam could be the affordable handheld we need - The Verge",
       "source": {
-        "name": "Warhammer-community.com"
+        "name": "The Verge"
       },
-      "description": "Learn about the background of the Bretonnian baron’s fateful quest....",
-      "url": "https://www.warhammer-community.com/articles/n4q6qfxp/designers-notes-the-doom-of-lord-carrard-lore",
-      "publishedAt": "2026-11-18T14:58:08Z",
-      "processed_at": "2026-11-19T17:59:49.122400+00:00"
+      "description": "Lenovo’s Legion Go Beam handheld has leaked, and it might be an affordable alternative to other PC h...",
+      "url": "https://www.theverge.com/games/1036819/the-leaked-lenovo-legion-go-beam-could-be-the-affordable-handheld-we-need",
+      "publishedAt": "2026-11-18T19:11:50Z",
+      "processed_at": "2026-11-20T00:32:38.820537+00:00"
     },
     {
-      "title": "Devolver Digital wants you to delete GTA 6 for a chance to win a free game - TrueAchievements",
+      "title": "The first Nvidia RTX Spark mini PCs launch today from Asus, Dell, and MSI - The Verge",
       "source": {
-        "name": "TrueAchievements"
+        "name": "The Verge"
       },
-      "description": "GTA 6 is slowly rolling out worldwide, and Devolver Digital is offering players a chance to win a fr...",
-      "url": "https://www.trueachievements.com/news/devolver-digital-free-game-delete-gta-6",
-      "publishedAt": "2026-11-18T14:46:51Z",
-      "processed_at": "2026-11-19T17:59:49.122400+00:00"
+      "description": "Asus, Dell, and MSI launched the first mini PCs with Nvidia’s RTX Spark chip, available starting tod...",
+      "url": "https://www.theverge.com/tech/1036880/nvidia-rtx-spark-ai-mini-pc-desktops",
+      "publishedAt": "2026-11-18T18:34:55Z",
+      "processed_at": "2026-11-20T00:32:38.820537+00:00"
     },
     {
-      "title": "You cannot replay missions in GTA 6, but you can use multiple save files, as Rockstar explains how it made missions \"harder to fail\" - Eurogamer.net",
+      "title": "Goodbye, Lucia: GTA 6 Fans' Official New Obsession Is Mandy - Polygon.com",
       "source": {
-        "name": "Eurogamer.net"
+        "name": "Polygon"
       },
-      "description": "\"We really wanted to reduce the number of Mission fails for the player experimenting or trying somet...",
-      "url": "https://www.eurogamer.net/gta-6-multiple-save-files-replay-missions",
-      "publishedAt": "2026-11-18T14:24:00Z",
-      "processed_at": "2026-11-19T17:59:49.122400+00:00"
+      "description": "GTA 6 fans playing through early chapters have a new favorite in Mandy, a character who tries to tem...",
+      "url": "https://www.polygon.com/gta-6-mandy-who-is-pipework-mission-lucia-jason-chapter-reddit/",
+      "publishedAt": "2026-11-18T18:34:16Z",
+      "processed_at": "2026-11-20T00:32:38.820537+00:00"
     },
     {
-      "title": "Grand Theft Auto VI Xbox achievements revealed - TrueAchievements",
+      "title": "10-Year-Old NGINX HTTP/2 Flaw Lets Unauthenticated Attackers Execute Code on Servers - The Hacker News",
       "source": {
-        "name": "TrueAchievements"
+        "name": "Internet"
       },
-      "description": "Now that GTA 6 has launched in New Zealand, we can check out its full Xbox achievement list. Be prep...",
-      "url": "https://www.trueachievements.com/news/grand-theft-auto-6-xbox-achievements",
-      "publishedAt": "2026-11-18T14:06:55Z",
-      "processed_at": "2026-11-19T17:59:49.122400+00:00"
+      "description": "NGINX fixes five CVSS 9.2 flaws, including a decade-old HTTP/2 vulnerability demonstrated to allow u...",
+      "url": "https://thehackernews.com/2026/11/10-year-old-nginx-http2-flaw-lets.html",
+      "publishedAt": "2026-11-18T18:31:00Z",
+      "processed_at": "2026-11-20T00:32:38.820537+00:00"
     },
     {
-      "title": "Nvidia’s RTX Spark Desktops Imagine They Can Actually Compete With the Mac Studio - Gizmodo",
+      "title": "Grand Theft Auto staff 'caught red-handed' in confidentiality breach, tribunal hears - BBC",
       "source": {
-        "name": "Gizmodo.com"
+        "name": "BBC News"
       },
-      "description": "Nvidia seems to think you'd rather spend $20 on an electric bill than $1,200 on AI tokens. That does...",
-      "url": "https://gizmodo.com/nvidia-rtx-spark-desktops-2000841341",
-      "publishedAt": "2026-11-18T14:00:52Z",
-      "processed_at": "2026-11-19T17:59:49.122400+00:00"
+      "description": "Rockstar Games said it took action after staff discussed confidential information on a Discord serve...",
+      "url": "https://www.bbc.com/news/articles/cmn80y2vxd2po",
+      "publishedAt": "2026-11-18T18:17:38Z",
+      "processed_at": "2026-11-20T00:32:38.820537+00:00"
     },
     {
-      "title": "NVIDIA GPU Drivers Reportedly Writing Up To 30GB Per Hour To SSDs, Echoing AMD’s Recent Driver Bug - Wccftech",
+      "title": "Rayman Legends Retold Reveals Another Musical Level, And Uhh... Just Watch - Nintendo Life",
       "source": {
-        "name": "Wccftech"
+        "name": "Nintendo Life"
       },
-      "description": "NVIDIA GeForce drivers reportedly cause excessive SSD writes through NVDisplay.Container.exe, with s...",
-      "url": "https://wccftech.com/nvidia-gpu-drivers-reportedly-writing-up-to-30gb-per-hour-to-ssds-echoing-amds-recent-driver-bug/",
-      "publishedAt": "2026-11-18T13:44:00Z",
-      "processed_at": "2026-11-19T17:59:49.122400+00:00"
+      "description": "It's dynamite...",
+      "url": "https://www.nintendolife.com/news/2026/11/rayman-legends-retold-reveals-another-musical-level-and-uhh-just-watch",
+      "publishedAt": "2026-11-18T17:30:00Z",
+      "processed_at": "2026-11-20T00:32:38.820537+00:00"
     }
   ],
-  "lastUpdated": "2026-11-19T17:59:49.122462+00:00",
+  "lastUpdated": "2026-11-20T00:32:38.820589+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
