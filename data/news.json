@@ -1,16 +1,66 @@
 {
   "status": "success",
-  "totalResults": 9,
+  "totalResults": 8,
   "articles": [
     {
-      "title": "Turns Out GTA San Andreas Remastered Was Teasing GTA 6 Back In 2021 - Kotaku",
+      "title": "It Turns Out A New Mustang Wearing The Clothes Of An Old One Looks Deeply, Deeply Unsettling - The Autopian",
+      "source": {
+        "name": "Theautopian.com"
+      },
+      "description": "The Vintage Modern Fastback is a new Mustang made to look like an old one, but the proportions and s...",
+      "url": "https://www.theautopian.com/it-turns-out-a-new-mustang-wearing-the-clothes-of-an-old-one-looks-deeply-deeply-unsettling/",
+      "publishedAt": "2026-11-19T04:18:17Z",
+      "processed_at": "2026-11-20T08:09:21.770827+00:00"
+    },
+    {
+      "title": "New GTA 6 Players, Be Careful When Claiming Your GTA+ Pre-Order Bonus - Push Square",
+      "source": {
+        "name": "Push Square"
+      },
+      "description": "Heads up...",
+      "url": "https://www.pushsquare.com/news/2026/11/new-gta-6-players-be-careful-when-claiming-your-gtaplus-pre-order-bonus",
+      "publishedAt": "2026-11-19T01:00:00Z",
+      "processed_at": "2026-11-20T08:09:21.770827+00:00"
+    },
+    {
+      "title": "The Vice City Heat: Miami’s NBA team goes all in on ‘Grand Theft Auto VI’ collaboration - AP News",
+      "source": {
+        "name": "Associated Press"
+      },
+      "description": "The Miami Heat have teamed up with Rockstar Games to celebrate the launch of “Grand Theft Auto VI.” ...",
+      "url": "https://apnews.com/article/grand-theft-auto-heat-vice-city-a19fc5a3279c95be5b4f6a7d831be199",
+      "publishedAt": "2026-11-19T00:29:00Z",
+      "processed_at": "2026-11-20T08:09:21.770827+00:00"
+    },
+    {
+      "title": "World Of Warcraft: Forever Just Broke A 15-Year-Old Record - Kotaku",
       "source": {
         "name": "Kotaku"
       },
-      "description": "White picket fence...",
-      "url": "https://kotaku.com/turns-out-gta-san-andreas-remastered-was-teasing-gta-6-back-in-2021-2000758132",
-      "publishedAt": "2026-11-18T21:02:47Z",
-      "processed_at": "2026-11-20T00:32:38.820537+00:00"
+      "description": "Everyone is doing it...",
+      "url": "https://kotaku.com/world-of-warcraft-forever-just-broke-15-year-old-record-2000758182",
+      "publishedAt": "2026-11-18T23:03:58Z",
+      "processed_at": "2026-11-20T08:09:21.770827+00:00"
+    },
+    {
+      "title": "Google launches Gemini 4 Neon with Carbon quality at Flash speeds, live for AI Pro - 9to5Google",
+      "source": {
+        "name": "9to5google.com"
+      },
+      "description": "Following last week’s release of Carbon and Hydrogen, Google today is rolling out Gemini 4 Neon. The...",
+      "url": "http://9to5google.com/2026/11/18/gemini-4-neon-announcement/",
+      "publishedAt": "2026-11-18T21:34:00Z",
+      "processed_at": "2026-11-20T08:09:21.770827+00:00"
+    },
+    {
+      "title": "Google Pixel officially re-releases App Lock in beta, Samsung Galaxy gets it too - 9to5Google",
+      "source": {
+        "name": "9to5google.com"
+      },
+      "description": "It’s been a wild ride for Google Pixel’s App Lock feature, but the company is officially re-releasin...",
+      "url": "http://9to5google.com/2026/11/18/google-pixel-app-lock-release-beta/",
+      "publishedAt": "2026-11-18T21:20:00Z",
+      "processed_at": "2026-11-20T08:09:21.770827+00:00"
     },
     {
       "title": "PlayStation suffers major outage hours before \"GTA VI\" launch - Axios",
@@ -20,80 +70,20 @@
       "description": "The downed servers come amid a flurry of glitches nationwide....",
       "url": "https://www.axios.com/2026/11/18/gta-6-playstation-psn-servers",
       "publishedAt": "2026-11-18T19:59:38Z",
-      "processed_at": "2026-11-20T00:32:38.820537+00:00"
+      "processed_at": "2026-11-20T08:09:21.770827+00:00"
     },
     {
-      "title": "New leaks detail next year’s iPhone Pro redesign and iPhone Duo 2 - 9to5Mac",
+      "title": "‘13 Years of Anticipation Deserves a Day Off.’ The ‘GTA VI’ Work Blackout Is Here - WIRED",
       "source": {
-        "name": "9to5Mac"
+        "name": "Google News"
       },
-      "description": "Next year's fall iPhone lineup is expected to include 20th anniversary redesigned Pro models and an ...",
-      "url": "https://9to5mac.com/2026/11/18/new-leaks-detail-next-years-iphone-pro-redesign-and-iphone-duo-2/",
-      "publishedAt": "2026-11-18T19:47:00Z",
-      "processed_at": "2026-11-20T00:32:38.820537+00:00"
-    },
-    {
-      "title": "The leaked Lenovo Legion Go Beam could be the affordable handheld we need - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "Lenovo’s Legion Go Beam handheld has leaked, and it might be an affordable alternative to other PC h...",
-      "url": "https://www.theverge.com/games/1036819/the-leaked-lenovo-legion-go-beam-could-be-the-affordable-handheld-we-need",
-      "publishedAt": "2026-11-18T19:11:50Z",
-      "processed_at": "2026-11-20T00:32:38.820537+00:00"
-    },
-    {
-      "title": "The first Nvidia RTX Spark mini PCs launch today from Asus, Dell, and MSI - The Verge",
-      "source": {
-        "name": "The Verge"
-      },
-      "description": "Asus, Dell, and MSI launched the first mini PCs with Nvidia’s RTX Spark chip, available starting tod...",
-      "url": "https://www.theverge.com/tech/1036880/nvidia-rtx-spark-ai-mini-pc-desktops",
-      "publishedAt": "2026-11-18T18:34:55Z",
-      "processed_at": "2026-11-20T00:32:38.820537+00:00"
-    },
-    {
-      "title": "Goodbye, Lucia: GTA 6 Fans' Official New Obsession Is Mandy - Polygon.com",
-      "source": {
-        "name": "Polygon"
-      },
-      "description": "GTA 6 fans playing through early chapters have a new favorite in Mandy, a character who tries to tem...",
-      "url": "https://www.polygon.com/gta-6-mandy-who-is-pipework-mission-lucia-jason-chapter-reddit/",
-      "publishedAt": "2026-11-18T18:34:16Z",
-      "processed_at": "2026-11-20T00:32:38.820537+00:00"
-    },
-    {
-      "title": "10-Year-Old NGINX HTTP/2 Flaw Lets Unauthenticated Attackers Execute Code on Servers - The Hacker News",
-      "source": {
-        "name": "Internet"
-      },
-      "description": "NGINX fixes five CVSS 9.2 flaws, including a decade-old HTTP/2 vulnerability demonstrated to allow u...",
-      "url": "https://thehackernews.com/2026/11/10-year-old-nginx-http2-flaw-lets.html",
-      "publishedAt": "2026-11-18T18:31:00Z",
-      "processed_at": "2026-11-20T00:32:38.820537+00:00"
-    },
-    {
-      "title": "Grand Theft Auto staff 'caught red-handed' in confidentiality breach, tribunal hears - BBC",
-      "source": {
-        "name": "BBC News"
-      },
-      "description": "Rockstar Games said it took action after staff discussed confidential information on a Discord serve...",
-      "url": "https://www.bbc.com/news/articles/cmn80y2vxd2po",
-      "publishedAt": "2026-11-18T18:17:38Z",
-      "processed_at": "2026-11-20T00:32:38.820537+00:00"
-    },
-    {
-      "title": "Rayman Legends Retold Reveals Another Musical Level, And Uhh... Just Watch - Nintendo Life",
-      "source": {
-        "name": "Nintendo Life"
-      },
-      "description": "It's dynamite...",
-      "url": "https://www.nintendolife.com/news/2026/11/rayman-legends-retold-reveals-another-musical-level-and-uhh-just-watch",
-      "publishedAt": "2026-11-18T17:30:00Z",
-      "processed_at": "2026-11-20T00:32:38.820537+00:00"
+      "description": "",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPeUdjdTJFVDlneHZhWGdiMFJJZ1U2ekI4V1hrZ0d4TjM0TXRURl91UUpuUndXM18zVmpkYVhPOUxTcTdCM0ZYeWpLN09vMjVtVTg0cGs2c3FFeVR6ZldzNzNPZjZza3RUMm1OdVJZNldTYnFaVW10YTMwY0k0ZHlFLTZueUJ3RE9CRnd1T0tZVjU3dld0VHJfV1RhcVBkYUY3RUhZaWY4TDk?oc=5",
+      "publishedAt": "2026-11-18T19:34:00Z",
+      "processed_at": "2026-11-20T08:09:21.770827+00:00"
     }
   ],
-  "lastUpdated": "2026-11-20T00:32:38.820589+00:00",
+  "lastUpdated": "2026-11-20T08:09:21.770892+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
