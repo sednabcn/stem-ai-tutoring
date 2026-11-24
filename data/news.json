@@ -1,89 +1,99 @@
 {
   "status": "success",
-  "totalResults": 8,
+  "totalResults": 9,
   "articles": [
     {
-      "title": "I used Gemini to create an Android app that my family uses; they love it - Android Police",
+      "title": "Exclusive | LIRR riders sharing phone location get $8 ticket warnings — despite claims of no tracking - New York Post",
       "source": {
-        "name": "Android Police"
+        "name": "New York Post"
       },
-      "description": "From a simple prompt to reality...",
-      "url": "https://www.androidpolice.com/used-gemini-to-create-android-app-that-my-family-uses-they-love-it/",
-      "publishedAt": "2026-11-22T22:00:10Z",
-      "processed_at": "2026-11-24T02:00:59.261187+00:00"
+      "description": "Long Island Rail Road riders sharing their location are getting ticket activation warnings — despite...",
+      "url": "https://nypost.com/2026/11/23/us-news/lirr-riders-sharing-phone-location-get-ticket-warnings-despite-claims-of-no-tracking/",
+      "publishedAt": "2026-11-23T11:00:00Z",
+      "processed_at": "2026-11-24T13:21:32.015198+00:00"
     },
     {
-      "title": "Sorry, Vice City, but You’re the Most Boring Part of GTA 6 - Polygon.com",
+      "title": "GTA 6 New Update Releasing in Phases; Size Revealed - Insider Gaming",
       "source": {
-        "name": "Polygon"
+        "name": "Insider-gaming.com"
       },
-      "description": "Grand Theft Auto 6's map is so well-designed that Vice City just might be the least exciting thing a...",
-      "url": "https://www.polygon.com/gta-6-vice-city-boring/",
-      "publishedAt": "2026-11-22T21:00:17Z",
-      "processed_at": "2026-11-24T02:00:59.261187+00:00"
+      "description": "Rockstar seems to be releasing a new update for GTA 6 in phases today and the size of the latest pat...",
+      "url": "https://insider-gaming.com/gta-6-new-update-releasing-in-phases-size-revealed/",
+      "publishedAt": "2026-11-23T10:57:09Z",
+      "processed_at": "2026-11-24T13:21:32.015198+00:00"
     },
     {
-      "title": "Trios Cash Cup Battle Royale in NA Central: Event 3 - Fortnite Tracker",
+      "title": "If you've been waiting, now is the time to upgrade from the Pixel 6 Pro to the Pixel 11 Pro XL - PhoneArena",
       "source": {
-        "name": "Fortnite Tracker"
+        "name": "PhoneArena"
       },
       "description": "",
-      "url": "https://fortnitetracker.com/events/epicgames_S43_TriosCashCup_NAC?window\\\\u003dS43_TriosCashCup_Event3_NAC\\\\u0026page\\\\u003d0",
-      "publishedAt": "2026-11-22T20:42:40Z",
-      "processed_at": "2026-11-24T02:00:59.261187+00:00"
+      "url": "https://www.phonearena.com/news/now-is-the-time-to-upgrade-from-the-pixel-6-pro-to-the-pixel-11-pro-xl_id185029",
+      "publishedAt": "2026-11-23T08:08:45Z",
+      "processed_at": "2026-11-24T13:21:32.015198+00:00"
     },
     {
-      "title": "'GTA 6' Bombshell: Husband Melts Down After Wife Hid Her Role In Game For Years - Polygon.com",
+      "title": "GTA VI Actress Lexie Shoaibi Streams with Hasan Piker - X",
       "source": {
-        "name": "Polygon"
+        "name": "X.com"
       },
-      "description": "A long-kept GTA 6 secret low-key almost destroyed comedian Amber Wallin's marriage....",
-      "url": "https://www.polygon.com/gta-6-amber-wallin-comedian-instagram-npc-voice-actor-husband-secret/",
-      "publishedAt": "2026-11-22T19:32:30Z",
-      "processed_at": "2026-11-24T02:00:59.261187+00:00"
+      "description": "Shoaibi, who voices and motion-captures Mandy in GTA VI's early rent-collection mission, joined Pike...",
+      "url": "https://x.com/i/trending/2124058096452718734",
+      "publishedAt": "2026-11-23T06:43:13Z",
+      "processed_at": "2026-11-24T13:21:32.015198+00:00"
     },
     {
-      "title": "The Galaxy Z Fold8 Is Basically the iPhone Duo for Android Fans, Only Lighter and Now Cheaper Than Ever - Gizmodo",
+      "title": "GrapheneOS just built its own RCS messaging app that makes Google Messages unnecessary - Android Authority",
       "source": {
-        "name": "Gizmodo.com"
+        "name": "Android Authority"
       },
-      "description": "Samsung's eighth foldable opens to a 4:3 screen made for movies and slips into a jeans pocket when c...",
-      "url": "https://gizmodo.com/the-galaxy-z-fold8-is-basically-the-iphone-duo-for-android-fans-only-lighter-and-now-cheaper-than-ever-2000843646",
-      "publishedAt": "2026-11-22T17:40:49Z",
-      "processed_at": "2026-11-24T02:00:59.261187+00:00"
+      "description": "GrapheneOS has built a proof-of-concept RCS messaging app with end-to-end encryption and compatibili...",
+      "url": "https://www.androidauthority.com/grapheneos-rcs-messaging-app-google-messages-3738003/",
+      "publishedAt": "2026-11-23T05:40:00Z",
+      "processed_at": "2026-11-24T13:21:32.015198+00:00"
     },
     {
-      "title": "Binding of Isaac developer removes AI music from Repentance Plus - The Verge",
+      "title": "'Grand Theft Auto VI' sets record with $3.79B in first-day retail sales, Rockstar Games reports - KSL News",
       "source": {
-        "name": "The Verge"
+        "name": "KSL.com"
       },
-      "description": "Creator Edmund McMillen claims he ‘had no idea’ AI music...",
-      "url": "https://www.theverge.com/games/1039770/binding-of-isaac-ai-music",
-      "publishedAt": "2026-11-22T17:25:20Z",
-      "processed_at": "2026-11-24T02:00:59.261187+00:00"
+      "description": "Rockstar Games announces that \"Grand Theft Auto VI\" has generated a record $3.79 billion in first-da...",
+      "url": "https://www.ksl.com/article/51647136/grand-theft-auto-vi-sets-record-with-379b-in-first-day-retail-sales-rockstar-games-reports",
+      "publishedAt": "2026-11-23T04:46:18Z",
+      "processed_at": "2026-11-24T13:21:32.015198+00:00"
     },
     {
-      "title": "Players have discovered a way to get infinite money at the start of GTA VI. - GameGPU",
+      "title": "Kodak SlideTag Is a $35 Blind-Box E Ink Photo Display and AirTag Alternative - PetaPixel",
       "source": {
-        "name": "Google News"
+        "name": "PetaPixel"
       },
-      "description": "",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZ3p1YkRXek1mMmthTVE3NmxveWpmNkVqMGFtb05hdTRFdmZqbzlQU245ckpiSjhPYi1QRzh1WmlyM0o5ZnNqcHpaZ0E0LVN1TmdUQzdtazE3VkFUcnNVNWNPZlBLdXRPajM0VmltaUVXX25WZGJMbXRvQjhEbTZrX1hyakhVVkhjMDV2d05Mblc3c1ZXdlNYR2lnWVJaRjF3djdoQmh5TEtLN1lMVTZENzNB?oc=5",
-      "publishedAt": "2026-11-22T16:37:30Z",
-      "processed_at": "2026-11-24T02:00:59.261187+00:00"
+      "description": "Reto's follow-up to the Kodak Charmera is here: the Kodak SlideTag. It packs a 6-color E Ink display...",
+      "url": "https://petapixel.com/2026/11/22/kodak-slidetag-is-a-35-blind-box-e-ink-photo-display-and-airtag-alternative/",
+      "publishedAt": "2026-11-23T03:01:58Z",
+      "processed_at": "2026-11-24T13:21:32.015198+00:00"
     },
     {
-      "title": "Cyberleek claims modders could get GTA 6 running on PC within a week after reported Xbox build leak - TweakTown",
+      "title": "Galaxy S27 Ultra buyers reportedly need the 512 GB model or higher for faster RAM and storage - Notebookcheck",
       "source": {
-        "name": "TweakTown"
+        "name": "Notebookcheck.net"
       },
-      "description": "Cyberleek reportedly leaked an Xbox build of GTA 6 and claims modders could get it running on PC wit...",
-      "url": "https://www.tweaktown.com/news/114815/cyberleek-claims-modders-could-get-gta-6-running-on-pc-within-a-week-after-reported-xbox-build-leak/index.html",
-      "publishedAt": "2026-11-22T16:10:02Z",
-      "processed_at": "2026-11-24T02:00:59.261187+00:00"
+      "description": "According to a Meeco leaker's \"final\" memory plan, only three of the ten Galaxy S27 configurations g...",
+      "url": "https://www.notebookcheck.net/Galaxy-S27-Ultra-buyers-reportedly-need-the-512-GB-model-or-higher-for-faster-RAM-and-storage.1457240.0.html",
+      "publishedAt": "2026-11-23T02:49:00Z",
+      "processed_at": "2026-11-24T13:21:32.015198+00:00"
+    },
+    {
+      "title": "GTA 6 at 60 fps on PC may cost less than expected, Geekerwan estimates - Notebookcheck",
+      "source": {
+        "name": "Notebookcheck.net"
+      },
+      "description": "Geekerwan estimates that PC players may not need a Ryzen 7 9800X3D to run GTA 6 at 1440p and 60 fps,...",
+      "url": "https://www.notebookcheck.net/GTA-6-at-60-fps-on-PC-may-cost-less-than-expected-Geekerwan-estimates.1457142.0.html",
+      "publishedAt": "2026-11-23T02:01:00Z",
+      "processed_at": "2026-11-24T13:21:32.015198+00:00"
     }
   ],
-  "lastUpdated": "2026-11-24T02:00:59.261253+00:00",
+  "lastUpdated": "2026-11-24T13:21:32.015282+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
