@@ -1,99 +1,89 @@
 {
   "status": "success",
-  "totalResults": 9,
+  "totalResults": 8,
   "articles": [
     {
-      "title": "Iconic MTV star turns 60, shares her no-guilt approach to fitness, food and aging well - Fox News",
+      "title": "I used Gemini to create an Android app that my family uses; they love it - Android Police",
       "source": {
-        "name": "Fox News"
+        "name": "Android Police"
       },
-      "description": "Daisy Fuentes shares her 20-minute strength training routine, menopause sleep tips and the guilt-fre...",
-      "url": "https://www.foxnews.com/health/iconic-mtv-star-turns-60-shares-no-guilt-approach-fitness-food-aging-well",
-      "publishedAt": "2026-11-22T13:00:58Z",
-      "processed_at": "2026-11-23T14:07:20.350726+00:00"
+      "description": "From a simple prompt to reality...",
+      "url": "https://www.androidpolice.com/used-gemini-to-create-android-app-that-my-family-uses-they-love-it/",
+      "publishedAt": "2026-11-22T22:00:10Z",
+      "processed_at": "2026-11-24T02:00:59.261187+00:00"
     },
     {
-      "title": "How to stop doomscrolling before bed and get better sleep - CNN",
+      "title": "Sorry, Vice City, but You’re the Most Boring Part of GTA 6 - Polygon.com",
       "source": {
-        "name": "CNN"
+        "name": "Polygon"
       },
-      "description": "Putting distance between you and your phone at bedtime can improve sleep. Experts advise how to crea...",
-      "url": "https://www.cnn.com/2026/11/22/health/phone-free-bedroom-better-sleep-wellness",
-      "publishedAt": "2026-11-22T11:30:15Z",
-      "processed_at": "2026-11-23T14:07:20.350726+00:00"
+      "description": "Grand Theft Auto 6's map is so well-designed that Vice City just might be the least exciting thing a...",
+      "url": "https://www.polygon.com/gta-6-vice-city-boring/",
+      "publishedAt": "2026-11-22T21:00:17Z",
+      "processed_at": "2026-11-24T02:00:59.261187+00:00"
     },
     {
-      "title": "Nintendo Switch 2 Black Friday Sale Live — Best Deals on Consoles, Games, and More - IGN",
+      "title": "Trios Cash Cup Battle Royale in NA Central: Event 3 - Fortnite Tracker",
       "source": {
-        "name": "IGN"
+        "name": "Fortnite Tracker"
       },
-      "description": "Nintendo's official Black Friday sale is now live and includes a rare Switch 2 bundle discount, up t...",
-      "url": "https://www.ign.com/articles/nintendo-black-friday-sale-is-officially-live-2026",
-      "publishedAt": "2026-11-22T09:53:43Z",
-      "processed_at": "2026-11-23T14:07:20.350726+00:00"
+      "description": "",
+      "url": "https://fortnitetracker.com/events/epicgames_S43_TriosCashCup_NAC?window\\\\u003dS43_TriosCashCup_Event3_NAC\\\\u0026page\\\\u003d0",
+      "publishedAt": "2026-11-22T20:42:40Z",
+      "processed_at": "2026-11-24T02:00:59.261187+00:00"
     },
     {
-      "title": "GTA 6 Is Blowing Away Gaming's Greatest Devs, Including Naughty Dog - Push Square",
+      "title": "'GTA 6' Bombshell: Husband Melts Down After Wife Hid Her Role In Game For Years - Polygon.com",
       "source": {
-        "name": "Push Square"
+        "name": "Polygon"
       },
-      "description": "Industry professionals stunned by new sandbox...",
-      "url": "https://www.pushsquare.com/news/2026/11/gta-6-is-blowing-away-gamings-greatest-devs-including-naughty-dog",
-      "publishedAt": "2026-11-22T05:16:25Z",
-      "processed_at": "2026-11-23T14:07:20.350726+00:00"
+      "description": "A long-kept GTA 6 secret low-key almost destroyed comedian Amber Wallin's marriage....",
+      "url": "https://www.polygon.com/gta-6-amber-wallin-comedian-instagram-npc-voice-actor-husband-secret/",
+      "publishedAt": "2026-11-22T19:32:30Z",
+      "processed_at": "2026-11-24T02:00:59.261187+00:00"
     },
     {
-      "title": "Ferrari 296 Challenge Stradale (2027) - NetCarShow.com",
+      "title": "The Galaxy Z Fold8 Is Basically the iPhone Duo for Android Fans, Only Lighter and Now Cheaper Than Ever - Gizmodo",
       "source": {
-        "name": "Netcarshow.com"
+        "name": "Gizmodo.com"
       },
-      "description": "The volumes and surfaces of the Ferrari 296 Challenge Stradale have been stripped of superfluous ele...",
-      "url": "https://www.netcarshow.com/ferrari/2027-296_challenge_stradale/",
-      "publishedAt": "2026-11-22T02:03:10Z",
-      "processed_at": "2026-11-23T14:07:20.350726+00:00"
+      "description": "Samsung's eighth foldable opens to a 4:3 screen made for movies and slips into a jeans pocket when c...",
+      "url": "https://gizmodo.com/the-galaxy-z-fold8-is-basically-the-iphone-duo-for-android-fans-only-lighter-and-now-cheaper-than-ever-2000843646",
+      "publishedAt": "2026-11-22T17:40:49Z",
+      "processed_at": "2026-11-24T02:00:59.261187+00:00"
     },
     {
-      "title": "Police remind GTA players: Oregon isn’t Leonida - KPTV",
+      "title": "Binding of Isaac developer removes AI music from Repentance Plus - The Verge",
       "source": {
-        "name": "KPTV.com"
+        "name": "The Verge"
       },
-      "description": "Police in Newport, Oregon are using the release of Grand Theft Auto 6 to remind drivers to stay safe...",
-      "url": "https://www.kptv.com/2026/11/21/police-remind-gta-players-oregon-isnt-leonida/",
-      "publishedAt": "2026-11-21T23:01:00Z",
-      "processed_at": "2026-11-23T14:07:20.350726+00:00"
+      "description": "Creator Edmund McMillen claims he ‘had no idea’ AI music...",
+      "url": "https://www.theverge.com/games/1039770/binding-of-isaac-ai-music",
+      "publishedAt": "2026-11-22T17:25:20Z",
+      "processed_at": "2026-11-24T02:00:59.261187+00:00"
     },
     {
-      "title": "Exclusive | Mom finds Air Force vet son’s body decaying in casket after botched embalming: suit - New York Post",
+      "title": "Players have discovered a way to get infinite money at the start of GTA VI. - GameGPU",
       "source": {
-        "name": "New York Post"
+        "name": "Google News"
       },
-      "description": "Karen Selby is suing a Staten Island funeral home after finding her son, Air Force veteran Kendre Se...",
-      "url": "https://nypost.com/2026/11/21/us-news/air-force-veterans-remains-found-decomposing-in-casket-by-mom/",
-      "publishedAt": "2026-11-21T21:57:00Z",
-      "processed_at": "2026-11-23T14:07:20.350726+00:00"
+      "description": "",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZ3p1YkRXek1mMmthTVE3NmxveWpmNkVqMGFtb05hdTRFdmZqbzlQU245ckpiSjhPYi1QRzh1WmlyM0o5ZnNqcHpaZ0E0LVN1TmdUQzdtazE3VkFUcnNVNWNPZlBLdXRPajM0VmltaUVXX25WZGJMbXRvQjhEbTZrX1hyakhVVkhjMDV2d05Mblc3c1ZXdlNYR2lnWVJaRjF3djdoQmh5TEtLN1lMVTZENzNB?oc=5",
+      "publishedAt": "2026-11-22T16:37:30Z",
+      "processed_at": "2026-11-24T02:00:59.261187+00:00"
     },
     {
-      "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance - TechCrunch",
+      "title": "Cyberleek claims modders could get GTA 6 running on PC within a week after reported Xbox build leak - TweakTown",
       "source": {
-        "name": "TechCrunch"
+        "name": "TweakTown"
       },
-      "description": "Signal is limiting users' ability to take screenshots in both its Android and iOS apps....",
-      "url": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
-      "publishedAt": "2026-11-21T21:37:10Z",
-      "processed_at": "2026-11-23T14:07:20.350726+00:00"
-    },
-    {
-      "title": "10 Things I Wish I Knew Before Starting 'Grand Theft Auto 6' (#2 Is the Best Secret to Find Early) - MovieWeb",
-      "source": {
-        "name": "MovieWeb"
-      },
-      "description": "'GTA 6' doesn't tell you everything, allowing curiosity to fuel your exploration and discovery in th...",
-      "url": "https://movieweb.com/gta-6-helpful-tips/",
-      "publishedAt": "2026-11-21T21:00:16Z",
-      "processed_at": "2026-11-23T14:07:20.350726+00:00"
+      "description": "Cyberleek reportedly leaked an Xbox build of GTA 6 and claims modders could get it running on PC wit...",
+      "url": "https://www.tweaktown.com/news/114815/cyberleek-claims-modders-could-get-gta-6-running-on-pc-within-a-week-after-reported-xbox-build-leak/index.html",
+      "publishedAt": "2026-11-22T16:10:02Z",
+      "processed_at": "2026-11-24T02:00:59.261187+00:00"
     }
   ],
-  "lastUpdated": "2026-11-23T14:07:20.350787+00:00",
+  "lastUpdated": "2026-11-24T02:00:59.261253+00:00",
   "source": "NewsAPI",
   "metadata": {
     "processed_by": "GitHub Actions",
